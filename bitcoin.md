@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-05T07:57:04.554062+00:00'
+updated: '2026-07-05T10:19:43.222827+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 07:57 UTC  
+**Last Updated:** July 05, 2026 at 10:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,772.57
+### $62,616.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +4.5%  
-**30d:** +3.4%  
-**90d:** -12.5%  
-**1y:** -42.3%  
+**24h:** +0.2%  
+**7d:** +4.0%  
+**30d:** +2.9%  
+**90d:** -12.9%  
+**1y:** -42.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1262.24B
+**Market Cap:** $1255.57B
 Rank #1
 
-**Circulating Supply:** 20,052,343 BTC
+**Circulating Supply:** 20,052,387 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.1%
+-50.3%
 
 **All-Time Low:** $67.81
-+92732.9%
++92218.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The U.S. holds 2.8× more Bitcoin than all other countries combined](https://www.reddit.com/r/Bitcoin/comments/1una1bh/the_us_holds_28_more_bitcoin_than_all_other/)**
 
-17h ago
+20h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I think he's gonna make it.
 
-12h ago
+15h ago
 
 ---
 
@@ -95,13 +95,13 @@ I think he's gonna make it.
 
 Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. Grass-fed beef patties with beef tallow fries/tots.
 
-15h ago
+17h ago
 
 ---
 
 **[Let’s go ! BTC to Moon](https://www.reddit.com/r/Bitcoin/comments/1un64i2/lets_go_btc_to_moon/)**
 
-20h ago
+23h ago
 
 ---
 
@@ -109,7 +109,7 @@ Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. G
 
 Is it me or is the most compelling, motivating, and greatest achievement of my life to get to one Bitcoin right now? All I want is one, who knows from there, but in my mind I’ll be like holy shit I did it ✅
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Is it me or is the most compelling, motivating, and greatest achievement of my l
 
 every red day, same ritual.. open the app, close it, open it again five minutes later like the number's going to say something different. it never does. it's just price reacting to fear, same as always. people who did fine through past cycles weren't the ones checking constantly. they decided once and mostly looked away
 
-11h ago
+13h ago
 
 ---
 
@@ -131,7 +131,7 @@ every red day, same ritual.. open the app, close it, open it again five minutes 
 
 I've been buying some BTC over the past few months, but I keep everything on Crypto.com. I don't really know how a cold wallet works or whether I actually need one. I'm just looking for some advice from real Bitcoiners.
 
-17h ago
+19h ago
 
 ---
 
@@ -153,11 +153,11 @@ Bitcoin! Bitcoin! Bitcoin!
 
 ## Google News: "bitcoin"
 
-**[A plan to freeze the creator's Bitcoin sparks fierce debate over crypto rules](https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows)**
+**[Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time](https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time)**
 
-Industry leaders warn that locking up Satoshi Nakamoto's wallet crosses a dangerous line and goes against the foundational ethos of digital assets.
+Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.
 
-CoinDesk • 13h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -165,53 +165,13 @@ CoinDesk • 13h ago
 
 Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.
 
-The Block • 8h ago
-
----
-
-**[Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time](https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time)**
-
-Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.
-
-CoinDesk • 1h ago
-
----
-
-**[Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.](https://finance.yahoo.com/markets/crypto/articles/strategy-just-announced-major-shake-225500473.html)**
-
-The bulls will view the latest development as a positive move that expands management's ability to respond to changing market conditions.
-
-Yahoo Finance • 9h ago
-
----
-
-**[Dave Portnoy reveals he is losing millions in brutal Bitcoin crash](https://www.foxbusiness.com/media/dave-portnoy-reveals-he-losing-millions-brutal-bitcoin-crash)**
-
-Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
-
-Fox Business • 1d ago
+The Block • 10h ago
 
 ---
 
 **[Bitcoin slips as institutional inflows, corporate strategies remain in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-institutional-inflows-and-corporate-strategies-remain-in-focus-4775351)**
 
-Investing.com • 22h ago
-
----
-
-**[Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’](https://www.forbes.com/sites/digital-assets/2026/07/04/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
-
-The U.S. economy has delivered bad news for the bitcoin price and crypto market...
-
-Forbes • 20h ago
-
----
-
-**[Bitcoin Crashed 20% Over the Last 30 Days. Here's What History Says Comes Next.](https://www.fool.com/investing/2026/07/04/bitcoin-crashed-20-over-the-last-30-days-heres-wha/)**
-
-Bitcoin may be down, but it isn't out.
-
-The Motley Fool • 18h ago
+Investing.com • 1d ago
 
 ---
 
@@ -223,11 +183,51 @@ Bitcoin ETFs lost a record $4.5 billion in a month while Hyperliquid's new funds
 
 ---
 
-**[Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal](https://www.tradingview.com/news/cointelegraph:66cebb0d4094b:0-bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal/)**
+**[The Crypto Fear and Greed Index Is Flashing Red. This Is the Only Cryptocurrency I'm Buying Right Now.](https://finance.yahoo.com/markets/crypto/articles/crypto-fear-greed-index-flashing-100100169.html)**
 
-Bitcoin (BTC) is completing a “perfectly fractal” reversal pattern that a well-known analyst hopes could end the bear market.Key points:John Bollinger hints BTC price "W" reversal could break bearsIn X posts on Friday, John Bollinger, creator of the Bollinger Bands volatility indicator, eyed a “W”…
+When it comes to Bitcoin, now is the time to take a contrarian approach.
 
-TradingView • 18h ago
+Yahoo Finance • 18m ago
+
+---
+
+**[Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.](https://www.fool.com/investing/2026/07/04/strategy-major-shake-up-bitcoin-mstr-stock/)**
+
+The bulls will view the latest development as a positive move that expands management's ability to respond to changing market conditions.
+
+The Motley Fool • 10h ago
+
+---
+
+**[Dave Portnoy reveals he is losing millions in brutal Bitcoin crash](https://www.foxbusiness.com/media/dave-portnoy-reveals-he-losing-millions-brutal-bitcoin-crash)**
+
+Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
+
+Fox Business • 1d ago
+
+---
+
+**[Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’](https://www.forbes.com/sites/digital-assets/2026/07/04/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
+
+The U.S. economy has delivered bad news for the bitcoin price and crypto market...
+
+Forbes • 22h ago
+
+---
+
+**[Bitcoin profit and loss ratio falls to 43-month low](https://www.tradingview.com/news/cointelegraph:edd60643f094b:0-bitcoin-profit-and-loss-ratio-falls-to-43-month-low/)**
+
+Bitcoin’s realized profit and loss ratio has fallen to a 43-month low of -0.35, a figure that signals extreme market-wide loss conditions but has historically coincided with market bottoms, blockchain analytics platform CryptoQuant said.The Bitcoin realized P&L ratio — which measures the net percen…
+
+TradingView • 1d ago
+
+---
+
+**[Micron Sell-Off Signals AI Slowdown, Bitcoin Set To Be 'Best Performer': Visser](https://stocktwits.com/news-articles/markets/equity/visser-bitcoin-micron-ai-slowdown/cZmhz9nR7ka)**
+
+On Saturday, macro investor Jordi Visser said that if Bitcoin (BTC) reclaims its 200-day moving average, it would trigger “the beginning of the next phase of crypto.”
+
+Stocktwits • 1h ago
 
 ---
 
@@ -235,21 +235,21 @@ TradingView • 18h ago
 
 ## HackerNews: "bitcoin"
 
-**[Billionaire Jeremy Grantham says Bitcoin will 'dwindle away with a whimper'](https://news.ycombinator.com/item?id=48714212)**
-
-Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
-
-⬆️ 11 • 💬 2 • 6d ago • [CNBC](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)
-
----
-
 **[Recovering garbled Bitcoin addresses (2024)](https://news.ycombinator.com/item?id=48789917)**
 
 ZeroNet is a decentralized network that enables dynamic sites, such as blogs and forums, unlike popular content-addressed storage networks that came later. Sites aren’t addressed by immutable hashes; instead, site updates are signed by Bitcoin addresses.
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 9 • 💬 0 • 8h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 12 • 💬 1 • 11h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+
+---
+
+**[Billionaire Jeremy Grantham says Bitcoin will 'dwindle away with a whimper'](https://news.ycombinator.com/item?id=48714212)**
+
+Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
+
+⬆️ 11 • 💬 2 • 6d ago • [CNBC](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)
 
 ---
 
@@ -303,7 +303,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/tanrax/bitpoint)
+⬆️ 2 • 💬 0 • 13h ago • [GitHub](https://github.com/tanrax/bitpoint)
 
 ---
 
@@ -317,7 +317,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 59K • 👍 2K • 💬 77 • ⏱️ 55:12 • 18h ago
+👁️ 63K • 👍 2K • 💬 77 • ⏱️ 55:12 • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin is flashing multiple signals that have marked major turning points in pa
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 869 • 💬 52 • ⏱️ 16:52 • 15h ago
+👁️ 10K • 👍 909 • 💬 54 • ⏱️ 16:52 • 17h ago
 
 ---
 
@@ -337,7 +337,7 @@ Follow Gary on YouTube: https://www.youtube.com/@garycardone Follow Gary on X: h
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 985 • 💬 189 • ⏱️ 53:28 • 14h ago
+👁️ 20K • 👍 1K • 💬 194 • ⏱️ 53:28 • 16h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin didn't crash because the system broke, it crashed because that's exactly
 
 📺 The Infographics Show
 
-👁️ 163K • 👍 5K • 💬 1K • ⏱️ 18:41 • 16h ago
+👁️ 180K • 👍 5K • 💬 1K • ⏱️ 18:41 • 19h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 54K • 👍 4K • 💬 288 • ⏱️ 20:33 • 2d ago
+👁️ 55K • 👍 4K • 💬 285 • ⏱️ 20:33 • 2d ago
 
 ---
 
@@ -367,7 +367,7 @@ Subscribe. Before the money moves. Law enforcement opposition to the CLARITY Act
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 194 • 💬 68 • ⏱️ 16:38 • 9h ago
+👁️ 2K • 👍 208 • 💬 109 • ⏱️ 16:38 • 12h ago
 
 ---
 
@@ -377,27 +377,17 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 3K • 💬 127 • ⏱️ 3:08 • 2d ago
+👁️ 52K • 👍 3K • 💬 127 • ⏱️ 3:08 • 2d ago
 
 ---
 
-**[4th Of July Trump Accounts Are LIVE. Is Bitcoin NEXT?](https://www.youtube.com/watch?v=-thQIXroHRc)**
+**[THIS IS DANGEROUS FOR BITCOIN...](https://www.youtube.com/watch?v=49Ma5FWkzS8)**
 
-Wow. It looks like the Trump Administration got it right with their TRUMP ACCOUNTS. ANY child born before after Jan. 1st, 2025 ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Digital Asset News
+📺 Crypto Rover
 
-👁️ 3K • 👍 228 • 💬 18 • ⏱️ 15:53 • 9h ago
-
----
-
-**[Bitcoin Holders: This Chart Is Going Vertical (And It&#39;s HUGE For Bitcoin)](https://www.youtube.com/watch?v=cl-HN9V4Vi0)**
-
-Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapital Into The Cryptoverse Charts – 10% Off ...
-
-📺 Aaron Bennett
-
-👁️ 9K • 👍 538 • 💬 61 • ⏱️ 9:15 • 1d ago
+👁️ 3K • 👍 390 • 💬 149 • ⏱️ 5:15 • 2h ago
 
 ---
 
@@ -407,7 +397,17 @@ Join in on my in-person Meet & Greet on July 8th in Manhattan, NYC: ...
 
 📺 Minority Mindset
 
-👁️ 127K • 👍 4K • 💬 801 • ⏱️ 18:19 • 1d ago
+👁️ 131K • 👍 4K • 💬 823 • ⏱️ 18:19 • 1d ago
+
+---
+
+**[Bitcoin Live Trading: The Weekend Starts Here! BTC Is Ready to Make a Move EP2051](https://www.youtube.com/watch?v=o9N0eKUPxB4)**
+
+WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to the ...
+
+📺 Crypto Lifer
+
+👁️ 3K • 👍 251 • 💬 15 • ⏱️ 30:31 • 7h ago
 
 ---
 
