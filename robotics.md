@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-05T18:03:30.863189+00:00'
+updated: '2026-07-05T19:50:54.660560+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 05, 2026 at 18:03 UTC  
+**Last Updated:** July 05, 2026 at 19:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,13 @@ From Booster Robotics on 𝕏: "One save. Countless hours of development.": http
 
 After designing and printing the gearbox in-house, it’s time to see how much torque it can actually handle. Early results look promising — more testing and improvements coming soon!
 
-21h ago
+22h ago
 
 ---
 
 **[BMW Group deploys Figure 03 humanoid](https://www.reddit.com/r/robotics/comments/1unlu7k/bmw_group_deploys_figure_03_humanoid/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -86,7 +86,7 @@ Tried the prompt "Implement a walking sequence in the quadruped simulation" in D
 
 I am looking for some help with servos. I need to control the brown bakelite switch via a rotary servo, using the brass switch. When the brass switch is centred, the servo needs to be centred. When the brass switch is set to 1 or 2, the servo needs to rotate 57.5 degrees clock or anticlock. The bakelite switch changes from magneto ignition to coil ignition so the changeover, switching from 1 to 2 or vice versa needs to be quick or the car will stall. Maybe a tenth of a second? Is this possible? What sort of servo do I need? Could this be done via a stepper motor or would that be too complicated? All ideas/advice welcome 😁
 
-20h ago
+22h ago
 
 ---
 
@@ -94,7 +94,7 @@ I am looking for some help with servos. I need to control the brown bakelite swi
 
 These are gripper jaws we make for our open source grippers but the STEP files can be modified for any type of gripper or robot: https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper Enjoy!
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 13h ago
+WSJ • 16h ago
 
 ---
 
@@ -120,13 +120,13 @@ WSJ • 13h ago
 
 While American tech giants are valued for the anticipation of perfect prototypes, Chinese manufacturers are winning the robotics race by getting paid for delivery.
 
-GeekWire • 3h ago
+GeekWire • 4h ago
 
 ---
 
 **[Opinion | China’s next export shock is taking shape – as AI-powered robots](https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots)**
 
-South China Morning Post • 9h ago
+South China Morning Post • 11h ago
 
 ---
 
@@ -134,7 +134,7 @@ South China Morning Post • 9h ago
 
 Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.
 
-Fox News • 7h ago
+Fox News • 8h ago
 
 ---
 
@@ -142,7 +142,7 @@ Fox News • 7h ago
 
 Amid concerns over the possibility of mines in the Strait of Hormuz, robots are offering a safer option to assess risks in the water.
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
@@ -162,16 +162,6 @@ Futurism • 1d ago
 
 ---
 
-**[Santa Cruz County student robotics team wins world championship](https://www.santacruzsentinel.com/2026/07/03/santa-cruz-county-student-robotics-team-wins-world-championship/)**
-
-Hephaestus Robotics Team, a youth robotics team consisting of 21 students from eight high schools across Santa Cruz County, won first place in their class at the nine day MATE ROV World Championship in Canada June 27. 
-
-The annual world …
-
-Santa Cruz Sentinel • 1d ago
-
----
-
 **[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
 
 Tech Xplore • 2d ago
@@ -182,7 +172,15 @@ Tech Xplore • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 3h ago
+IEEE Spectrum • 4h ago
+
+---
+
+**[Santa Cruz County robotics team captures world championship](https://pajaronian.com/santa-cruz-county-robotics-team-captures-world-championship/)**
+
+Nine months of late nights, countless repairs and more than 100 hours spent testing an underwater robot in a swimming pool paid off in a big way for a team of Santa Cruz County high school students.
+
+The Pajaronian • 2d ago
 
 ---
 
@@ -196,17 +194,43 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 203 • ⏱️ 13:32 • 19h ago
+👁️ 44K • 👍 1K • 💬 245 • ⏱️ 13:32 • 21h ago
 
 ---
 
-**[🇮🇳 Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule](https://www.youtube.com/watch?v=DzmOAX1ArtM)**
+**[NEW Ultimate RAVEN will change War Robots [Test Server]](https://www.youtube.com/watch?v=wUelW96CEKQ)**
 
-Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule Experience a futuristic mechanical transformation ...
+War Robots Test Server Gameplay: NEW Ultimate RAVEN is coming to WR My War Robots Creator Link: ...
 
-📺 TopDoglive
+📺 Manni-Gaming
 
-👁️ 6K • 💬 1 • ⏱️ 0:11 • 1d ago
+👁️ 4K • 👍 294 • 💬 60 • ⏱️ 14:47 • 10h ago
+
+---
+
+**[China’s 18,000+ AI Robot Army Is Quietly Terrifying America](https://www.youtube.com/watch?v=JxLcYPD8eBY)**
+
+China just built an ARMY of humanoid robots — and nobody in the US saw it coming. While American companies build a few ...
+
+📺 The AI Nexus
+
+👁️ 8K • 👍 159 • 💬 27 • ⏱️ 18:37 • 3d ago
+
+---
+
+**[There’s a problem with my mouth design… #engineering #3dprinting #robotics](https://www.youtube.com/watch?v=K23XzB3Opgo)**
+
+📺 Will Cogley
+
+👁️ 898K • 👍 37K • 💬 907 • ⏱️ 0:32 • 6d ago
+
+---
+
+**[Cycle testing our 2026 Robot at the Southern a California State Championship #STEM #robotics](https://www.youtube.com/watch?v=h7HrTNOZDbg)**
+
+📺 FRC Team 3255 - SuperNURDs
+
+👁️ 24K • 👍 70 • 💬 2 • ⏱️ 0:06 • 3d ago
 
 ---
 
@@ -216,71 +240,45 @@ The future of humanoid robots has officially arrived. UBTECH has unveiled the UW
 
 📺 DPCcars
 
-👁️ 94K • 👍 387 • 💬 197 • ⏱️ 2:50 • 3d ago
+👁️ 96K • 👍 400 • 💬 208 • ⏱️ 2:50 • 3d ago
 
 ---
 
-**[$60,000 Robots Fights for $1,000!](https://www.youtube.com/watch?v=y-LX2ORr6JQ)**
+**[AI Robot Control#servomotor #robotics #airobot #Knowledge](https://www.youtube.com/watch?v=frwu59L4rTE)**
 
-Today, Vlad and Michael are doing an EPIC REAL ROBOTS FIGHT Challenge! They have to upgrade different robot fighters and ...
+📺 wowearth
 
-📺 Vlad
-
-👁️ 1.2M • 👍 11K • 💬 624 • ⏱️ 23:59 • 1d ago
+👁️ 32K • 👍 934 • 💬 12 • ⏱️ 1:02 • 4d ago
 
 ---
 
-**[NEW 4x Ue Bulava Ao Ming NUKING Atlas Titans | War Robots](https://www.youtube.com/watch?v=afjw7xvB4Ws)**
+**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
 
-Use My Link For The WR Store https://wr.my.games/PREDATORWR We have to try 4x Ue Bulava on the Ue Ao Ming. We're only ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
 
-📺 PREDATOR WR
+📺 South China Morning Post
 
-👁️ 3K • 👍 174 • 💬 15 • ⏱️ 13:33 • 6h ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=Nk226xASWDM)**
-
-📺 Robot Julie 
-
-👁️ 20K • 👍 55 • 💬 6 • ⏱️ 0:25 • 2d ago
+👁️ 215K • 👍 6K • 💬 2K • ⏱️ 3:59 • 4d ago
 
 ---
 
-**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
+**[￼ Worlds most advanced Ai &amp; ￼ robotic technology explained](https://www.youtube.com/watch?v=o8AVd9v7dkY)**
 
-📺 Kevin Wood | Robotics & AI
+Worlds most advanced Ai & robotic technology explained Are we officially living in the future? In this video, we break down the ...
 
-👁️ 775K • 👍 1K • 💬 78 • ⏱️ 0:14 • 2d ago
+📺 Prapancha Yatrikudu
 
----
-
-**[China’s Egg Frying Machine Can Cook Eggs Without Humans🤯](https://www.youtube.com/watch?v=obiklsHw_V4)**
-
-China's Automatic Egg Frying Robot Is Changing Breakfast Forever Meet the future of breakfast automation! This ...
-
-📺 Techie Sapien
-
-👁️ 172K • 💬 17 • ⏱️ 0:07 • 15h ago
+👁️ 123K • 👍 7K • 💬 421 • ⏱️ 15:15 • 4d ago
 
 ---
 
-**[Shhhhh! #eiliko #robot](https://www.youtube.com/watch?v=Plli4pH5tcs)**
+**[Ubitech U1 Humanoid Robot Reveal Leaves Fans SHOCKED #news #technology #china #robot](https://www.youtube.com/watch?v=Sy0tj2Z5gA8)**
 
-📺 Pro Activate Shop
+Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its global launch, and the reaction online is impossible to ...
 
-👁️ 44K • 👍 182 • 💬 1 • ⏱️ 0:11 • 2d ago
+📺 SXE China
 
----
-
-**[Robot Skate Filmers are here!](https://www.youtube.com/watch?v=WFnkiL82r9g)**
-
-Reserve Beni for the early access price of $499 with a $10 deposit on this link: https://mondorobotics.com/?ref=ricky.
-
-📺 Ricky Glaser
-
-👁️ 19K • 👍 774 • 💬 41 • ⏱️ 0:31 • 2d ago
+👁️ 104K • 👍 1K • 💬 167 • ⏱️ 0:52 • 5d ago
 
 ---
 

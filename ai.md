@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-05T18:03:30.845435+00:00'
+updated: '2026-07-05T19:50:54.642971+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 05, 2026 at 18:03 UTC  
+**Last Updated:** July 05, 2026 at 19:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[What's the best AI art generator?](https://www.reddit.com/r/artificial/comments/1uo88bd/whats_the_best_ai_art_generator/)**
-
-Seeing as there are about 1000 to choose from, I'm looking for one that just takes the prompt and runs with it. It doesn't have to be free, I'm going to be using this for business.
-
-27m ago
-
----
-
 **[What's one thing AI does surprisingly well that you didn't expect?](https://www.reddit.com/r/artificial/comments/1uo6t8f/whats_one_thing_ai_does_surprisingly_well_that/)**
 
 When ChatGPT first came out, I assumed I'd mostly use it to answer random questions. That lasted about a week. Now the thing I use it for the most is taking messy thoughts and turning them into something I can actually work with. Whether it's rewriting an email, organizing notes, or helping me think through an idea, that's become the real value for me. Ironically, I use AI less for getting answers and more for helping me think more clearly. What about you? What's one use case you genuinely didn't expect to become part of your routine?
 
-1h ago
+3h ago
+
+---
+
+**[The Revenge of the Philosophy Majors. A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now? (Gift Article)](https://www.reddit.com/r/artificial/comments/1uo3f4x/the_revenge_of_the_philosophy_majors_ai_labs_are/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html?unlocked_article_code=1.vVA.kh0d.yifPMBsgeixB&smid=url-share) • 5h ago
 
 ---
 
@@ -57,21 +55,15 @@ When ChatGPT first came out, I assumed I'd mostly use it to answer random questi
 
 "Surely we are going to get in trouble for doing this?"
 
-🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830) • 23h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830) • 1d ago
 
 ---
 
-**[The Revenge of the Philosophy Majors. A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now? (Gift Article)](https://www.reddit.com/r/artificial/comments/1uo3f4x/the_revenge_of_the_philosophy_majors_ai_labs_are/)**
+**[A war between Anthropic and Alibaba?](https://www.reddit.com/r/artificial/comments/1uoana3/a_war_between_anthropic_and_alibaba/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html?unlocked_article_code=1.vVA.kh0d.yifPMBsgeixB&smid=url-share) • 3h ago
+Anthropic has accused Alibaba of creating tens of thousands of fake Claude accounts to scrape Claude of its intellectual property via distillation attacks. Alibaba retaliates by telling their official (not contracted) employees to stop using Claude Code. I'm noticing from Reddit posts and comments that Claude has gotten much more wary of what it determines as strange prompting requests? There is an article indicating that Fable 5 has been "hardened" against distillation attacks, but it's locking out some legitimate users and refusing on innocuous requests. Seems like a lot of users are caught in the middle?
 
----
-
-**[What should people learn today to stay relevant in an AI-driven future?](https://www.reddit.com/r/artificial/comments/1unzymd/what_should_people_learn_today_to_stay_relevant/)**
-
-With AI advancing so quickly, I'm trying to understand how to prepare for the next 5–10 years. A few questions I'd love to hear your thoughts on: What skills should people focus on learning now to stay relevant alongside AI? Beyond prompting, what are the most valuable AI-related skills (automation, coding, workflows, AI agents, etc.)? Which jobs or industries are likely to benefit the most, and which are at the highest risk? Do you think AI will become expensive to use in the future? Will the best models and capabilities mostly be behind paid subscriptions? If you were starting from scratch today, what would your learning roadmap look like? I'm looking for practical advice from people who actively use AI in their work or projects. Thanks!
-
-6h ago
+40m ago
 
 ---
 
@@ -79,23 +71,15 @@ With AI advancing so quickly, I'm trying to understand how to prepare for the ne
 
 It feels like most AI discussions revolve around AGI timelines or benchmark scores, but there are a lot of smaller capabilities improving rapidly (reasoning, memory, multimodal understanding, coding agents, robotics, speech, etc.) Which capability do you think is currently underrated and why? I'm more interested in practical applications over the next 3–5 years than distant predictions.
 
-5h ago
+7h ago
 
 ---
 
-**[I built a native Reddit app where a council of 5 AI agents debate and roast your project ideas](https://www.reddit.com/r/artificial/comments/1uo7bq2/i_built_a_native_reddit_app_where_a_council_of_5/)**
+**[What should people learn today to stay relevant in an AI-driven future?](https://www.reddit.com/r/artificial/comments/1unzymd/what_should_people_learn_today_to_stay_relevant/)**
 
-wanted to share a project i've been working on that explores using LLMs for social, in-feed entertainment. it's a text-based simulation game called Slop-Cops, built on reddit's new developer platform (devvit). users submit a website URL or describe a project idea (like an AI startup), and 5 distinct AI agent personalities (acting as a tribunal of "vibe cops") read the text, debate its quality, and rate it. players can then write a rebuttal to defend their project before the final verdict. tech stack is fairly straightforward: react webview, hono, devvit redis for state, and the google gemini API running directly from the server. it's live and playable on reddit if you want to test how the agent personalities interact: r/slopcops would love to get feedback on the agent prompts and how they debate each other.
+With AI advancing so quickly, I'm trying to understand how to prepare for the next 5–10 years. A few questions I'd love to hear your thoughts on: What skills should people focus on learning now to stay relevant alongside AI? Beyond prompting, what are the most valuable AI-related skills (automation, coding, workflows, AI agents, etc.)? Which jobs or industries are likely to benefit the most, and which are at the highest risk? Do you think AI will become expensive to use in the future? Will the best models and capabilities mostly be behind paid subscriptions? If you were starting from scratch today, what would your learning roadmap look like? I'm looking for practical advice from people who actively use AI in their work or projects. Thanks!
 
-1h ago
-
----
-
-**[People are able to detect AI generated text 75% of time](https://www.reddit.com/r/artificial/comments/1uo8u8z/people_are_able_to_detect_ai_generated_text_75_of/)**
-
-I made this quiz and so far the results showing that it is very easy for people to detect AI generated texts, with quite substantial amount of people detecting it 100% of the time
-
-🔗 [Unslop](https://unslopai.com/spot-the-ai) • 3m ago
+8h ago
 
 ---
 
@@ -103,15 +87,31 @@ I made this quiz and so far the results showing that it is very easy for people 
 
 Most of the focus is on AI being bad rather than how major companies are deploying AI. My concern isn't that AI is becoming more powerful. I mean, that is a concern, of course, but since most of the implications are speculative, you can't exactly take any stance or action on that problem other than countries coming together and setting rules and policies for how they distribute and use frontier models and capabilities, especially in warfare. My largest concern is what corporations and governments will use AI for on their own citizens. The data center builds are not just about AI. They're about creating an infrastructure that allows for total brain capital capturing. In other words there are real plans in place for collecting as much data as possible on our individual brains and if they can accurately map all of that out, they can measure how much and the quality of cognitive output we're providing to the state, which means they can valuate our worth based on cognitive outputs. Furthermore, they can use environmental nudging and algorithmic management to modify and shape individual behavior, which means protesting or voicing any concerns becomes obsolete. Big picture: The social contract between government, citizen, and business is being radically re-shaped for a world where regular people have little to no leveraging power, which destroys the power of voice. This is why we shouldn't destroy AI. Rather, we should figure out ways to ween ourselves off of the dependency we have on major tech companies so that we can gain leveraging power back, again. The biggest mistake is taking the bribes like what Bernie Sanders and Ro Kana are suggesting. I have nothing against them or anything, but their proposal to have the federal government own stock in big tech companies is a disaster in the making. If that happens, forget about any manageable evolution towards a better future. You'll be fighting the federal government who will be working on behalf of major tech companies because to not do so, means their ability to fund themselves will go flat. This is a huge trap that we're walking into, which is why the AI community must look towards de-centralized open-source systems that can be locally hosted for deploying and using AI at scale. If we rely too much on a few major corporations, we'll have entered a techno-feudalistic system where powers greater than you will be able to do just about anything with impunity. We can't let that happen!
 
+3h ago
+
+---
+
+**[I built a native Reddit app where a council of 5 AI agents debate and roast your project ideas](https://www.reddit.com/r/artificial/comments/1uo7bq2/i_built_a_native_reddit_app_where_a_council_of_5/)**
+
+wanted to share a project i've been working on that explores using LLMs for social, in-feed entertainment. it's a text-based simulation game called Slop-Cops, built on reddit's new developer platform (devvit). users submit a website URL or describe a project idea (like an AI startup), and 5 distinct AI agent personalities (acting as a tribunal of "vibe cops") read the text, debate its quality, and rate it. players can then write a rebuttal to defend their project before the final verdict. tech stack is fairly straightforward: react webview, hono, devvit redis for state, and the google gemini API running directly from the server. it's live and playable on reddit if you want to test how the agent personalities interact: r/slopcops would love to get feedback on the agent prompts and how they debate each other.
+
 2h ago
 
 ---
 
-**[AI as coworkers tools not just coding agents](https://www.reddit.com/r/artificial/comments/1unzwk7/ai_as_coworkers_tools_not_just_coding_agents/)**
+**[Is it true they’ve developed ai for stock and gambling ?](https://www.reddit.com/r/artificial/comments/1uoakwr/is_it_true_theyve_developed_ai_for_stock_and/)**
 
-Hey all ​I've been evaluating the "AI coworker" approach between the new Databricks Genie One interface and Anthropic's Claude Cowork desktop agent. While both claim to move past standard chat prompts into autonomous execution, they handle data from opposite ends of the stack. Claude Cowork operates right on your computer, meaning it's incredible for unblocking local workflow bottlenecks like organizing a messy folder of exports or synthesizing a bunch of text documents into a fresh slide deck. But the moment you want a desktop agent like Claude to safely interface with live cloud warehouses, I notice some small discrepancies in performance because it lacks the necessary data context and security boundaries. Even with MCPs, it just doesn't quite get it. ​Genie One approaches the coworker role from the governance layer down. Instead of clicking around local files, it acts as a unified portal sitting directly on top of Unity Catalog and the new Genie Ontology framework. It can securely search across live tables, connect to enterprise cloud sources like SharePoint, and automate reporting directly in Slack all via MCP. The down side is it cannot access your local computer at all. Claude Cowork is the ultimate general purpose assistant imo, while Genie One is the assistant you can trust to safely self-serve analytical insights straight from the lakehouse. I think a joint architecture where Claude Cowork calls Genie One is the right approach. Thoughts?
+I was in the ai industry but realized my mind and ai could create something dangerous so now I’m hearing about all this is it worth it or what’s going on really in the industry
 
-6h ago
+43m ago
+
+---
+
+**[What's the best AI art generator?](https://www.reddit.com/r/artificial/comments/1uo88bd/whats_the_best_ai_art_generator/)**
+
+Seeing as there are about 1000 to choose from, I'm looking for one that just takes the prompt and runs with it. It doesn't have to be free, I'm going to be using this for business.
+
+2h ago
 
 ---
 
@@ -119,33 +119,35 @@ Hey all ​I've been evaluating the "AI coworker" approach between the new Datab
 
 ## Google News: "ai"
 
-**[The Revenge of the Philosophy Majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)**
+**[Philosophers Are the Latest Hiring Target for AI Companies](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)**
 
-The New York Times • 9h ago
-
----
-
-**[The CEO using AI to double revenue with 1,000 fewer hires: 'Nobody's going to replace the last mile'](https://fortune.com/2026/07/05/west-shore-wj-werzyn-ai-claude-hallucination/)**
-
-"I was having a conversation this weekend with Claude and it was a pretty in-depth conversation," W.J. Werzyn told Fortune. And then it hallucinated.
-
-Fortune • 8h ago
+The New York Times • 6h ago
 
 ---
 
-**[“Rubbish, it didn’t help at all”: Mick Jagger’s no fan of AI](https://www.salon.com/2026/07/05/rubbish-it-didnt-help-at-all-mick-jaggers-no-fan-of-ai/)**
+**[SK Hynix Seeks Access to AI Investors in $29 Billion US Listing](https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing)**
 
-The Rolling Stones frontman recounted his experience with artificial intelligence, saying it "didn't help."
-
-Salon.com • 33m ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[SK Hynix seeks access to AI investors in $29 billion U.S. listing](https://fortune.com/2026/07/05/sk-hynix-us-stock-listing-nasdaq-29-billion-micron-ai-boom-chips/)**
+**[Midjourney Thinks Hollywood Should Fess Up About Using AI](https://gizmodo.com/midjourney-thinks-hollywood-should-fess-up-about-using-ai-2000781426)**
 
-Over the past 12 months, SK Hynix’s Korea-listed shares and Micron’s stock have gained about 700%.
+Gizmodo • 1h ago
 
-Fortune • 15m ago
+---
+
+**[AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper](https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper)**
+
+Exclusive: Foreign secretary warns of combined risks of AI, climate crisis, irregular migration and foreign interference
+
+The Guardian • 44m ago
+
+---
+
+**[Meet the 5 AI ‘Employees’ Running One Mom’s Entire Life](https://www.inc.com/samantha-stevens/meet-the-5-ai-employees-running-one-moms-entire-life/91368448)**
+
+inc.com • 45m ago
 
 ---
 
@@ -153,7 +155,7 @@ Fortune • 15m ago
 
 A little bit of everything for investors this holiday weekend!
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -161,15 +163,7 @@ Yahoo Finance • 5h ago
 
 Macquarie began research coverage of five Chinese companies making chips for artificial intelligence applications.
 
-CNBC • 5h ago
-
----
-
-**[Palo Alto Networks and Koi Security sued over alleged AI error in cyber threat report](https://www.calcalistech.com/ctechnews/article/bjkvcpvxzl)**
-
-MeetingTV claims a flawed intelligence classification led to global blocking of its services.
-
-CTech • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -177,19 +171,23 @@ CTech • 5h ago
 
 The hottest new gadget is bringing back an old fear among people in public: Being recorded without consent.
 
-NBC News • 6h ago
+NBC News • 8h ago
 
 ---
 
-**[Stop asking employees to adopt AI](https://www.fastcompany.com/91568873/stop-asking-employees-to-adopt-ai)**
+**[The CEO using AI to double revenue with 1,000 fewer hires: 'Nobody's going to replace the last mile'](https://fortune.com/2026/07/05/west-shore-wj-werzyn-ai-claude-hallucination/)**
 
-Fast Company • 10h ago
+"I was having a conversation this weekend with Claude and it was a pretty in-depth conversation," W.J. Werzyn told Fortune. And then it hallucinated.
+
+Fortune • 10h ago
 
 ---
 
-**[AI security questions loom over NATO summit](https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758)**
+**[Palo Alto Networks and Koi Security sued over alleged AI error in cyber threat report](https://www.calcalistech.com/ctechnews/article/bjkvcpvxzl)**
 
-Politico • 22h ago
+MeetingTV claims a flawed intelligence classification led to global blocking of its services.
+
+CTech • 7h ago
 
 ---
 
@@ -201,13 +199,13 @@ Politico • 22h ago
 
 You gather your most expensive people into a room to make your most important decisions. Then, somewhere in the second hour, the room quietly gets worse at making them. Not the people. The room.
 
-⬆️ 799 • 💬 455 • 1d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+⬆️ 802 • 💬 455 • 1d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 
 ---
 
 **[Protect your right to run local AI](https://news.ycombinator.com/item?id=48768951)**
 
-⬆️ 546 • 💬 196 • 2d ago • [righttointelligence.org](https://righttointelligence.org/)
+⬆️ 547 • 💬 196 • 2d ago • [righttointelligence.org](https://righttointelligence.org/)
 
 ---
 
@@ -215,13 +213,15 @@ You gather your most expensive people into a room to make your most important de
 
 We don’t need an extra reason to be anxious
 
-⬆️ 233 • 💬 256 • 2d ago • [elenaverna.com](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)
+⬆️ 233 • 💬 258 • 2d ago • [elenaverna.com](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)
 
 ---
 
-**[The short leash AI coding method for beating Fable](https://news.ycombinator.com/item?id=48766026)**
+**[Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://news.ycombinator.com/item?id=48795826)**
 
-⬆️ 195 • 💬 242 • 2d ago • [blog.okturtles.org](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
+At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
+
+⬆️ 113 • 💬 114 • 2h ago • [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
 
 ---
 
@@ -229,19 +229,19 @@ We don’t need an extra reason to be anxious
 
 Junior programmers are getting destroyed by AI — down 19%, while devs over 40 thrive. Meanwhile, millions of non-developers are shipping real software without the job title. The credential market collapsed; the activity exploded. The problem: nobody's building the next generation of senior engineers.
 
-⬆️ 95 • 💬 185 • 22h ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
+⬆️ 96 • 💬 186 • 1d ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
 
 ---
 
 **[Instead of banning AI, I made a classroom contract with my students](https://news.ycombinator.com/item?id=48775499)**
 
-⬆️ 93 • 💬 90 • 2d ago • [science.org](https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students)
+⬆️ 94 • 💬 90 • 2d ago • [science.org](https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students)
 
 ---
 
 **[President pardons 9 for Clean Air violations for 'fixing their car'](https://news.ycombinator.com/item?id=48791091)**
 
-⬆️ 86 • 💬 53 • 14h ago • [msn.com](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
+⬆️ 87 • 💬 53 • 16h ago • [msn.com](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
 
 ---
 
@@ -253,9 +253,11 @@ The real ROI of AI for knowledge work: the task-level gains (Noy-Zhang, Brynjolf
 
 ---
 
-**[Ask HN: Why are so many "AI evangelists" posting such insufferable content?](https://news.ycombinator.com/item?id=48765450)**
+**[A sociotechnical threat model for AI-driven smart home devices](https://news.ycombinator.com/item?id=48795830)**
 
-⬆️ 66 • 💬 37 • 2d ago
+The growing adoption of AI-driven smart home devices has introduced new privacy risks for domestic workers (DWs), who are frequently monitored in employers' homes while also using smart devices in their own households. We conducted semi-structured interviews with 18 UK-based DWs and performed a human-centered threat modeling analysis of their experiences through the lens of Communication Privacy Management (CPM). Our findings extend existing threat models beyond abstract adversaries and single-household contexts by showing how AI analytics, residual data logs, and cross-household data flows shaped the privacy risks faced by participants. In employer-controlled homes, AI-enabled features and opaque, agency-mediated employment arrangements intensified surveillance and constrained participants' ability to negotiate privacy boundaries. In their own homes, participants had greater control as device owners but still faced challenges, including gendered administrative roles, opaque AI functionalities, and uncertainty around data retention. We synthesize these insights into a sociotechnical threat model that identifies DW agencies as institutional adversaries and maps AI-driven privacy risks across interconnected households, and we outline social and practical implications for strengthening DW privacy and agency.
+
+⬆️ 73 • 💬 44 • 2h ago • [arXiv.org](https://arxiv.org/abs/2602.09239)
 
 ---
 
@@ -277,55 +279,17 @@ Watch Next https://youtu.be/zKLT9p6XuWg?si=6jP-jUlgWsHzHK-y In this video, I tes
 
 📺 Thomas Creates
 
-👁️ 5K • 💬 1 • ⏱️ 8:21 • 3h ago
+👁️ 8K • 💬 1 • ⏱️ 8:21 • 4h ago
 
 ---
 
-**[Google Just UNLOCKED the Nano Banana of AI Video (Gemini Omni Deep Dive)](https://www.youtube.com/watch?v=7HhlSu3pPvU)**
+**[I Tried Every AI Video Generator So You Don&#39;t Have To](https://www.youtube.com/watch?v=FW_bzWIaJfs)**
 
-Try Gemini Omni Flash over on Higgsfield AI https://higgsfield.ai/s/gemini-omni-flash-jackvsai-lbMYAV Google just unlocked ...
+What is the best AI Video Generator? Seedance vs Grok vs Kling vs gemini Try out all AI video generators here   ...
 
-📺 Jack Vs. AI
+📺 Dan Kieft
 
-👁️ 1K • 👍 179 • 💬 13 • ⏱️ 23:46 • 4h ago
-
----
-
-**[Private Credit Just Burst The $25 Trillion AI Bubble](https://www.youtube.com/watch?v=ktLyXGRHNCk)**
-
-The private credit bust is now starting to spread into AI and the AI buildout which up to now has been mostly financed by these ...
-
-📺 Eurodollar University
-
-👁️ 44K • 👍 2K • 💬 182 • ⏱️ 17:23 • 18h ago
-
----
-
-**[China&#39;s Free AI Just Came For ChatGPT And Claude (+18 Updates)](https://www.youtube.com/watch?v=iT_yv_nEdIo)**
-
-FREE GUIDES + FOLLOW ALONG Join free here: https://links.stayingahead.com/YT55 You can now merge ChatGPT and Claude ...
-
-📺 Vaibhav Sisinty
-
-👁️ 35K • 👍 1K • 💬 41 • ⏱️ 26:16 • 12h ago
-
----
-
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 35K • 👍 1K • 💬 203 • ⏱️ 13:32 • 19h ago
-
----
-
-**[I Tested AI&#39;s Morality 🤯](https://www.youtube.com/watch?v=JkLjf4pJi9w)**
-
-📺 Zack D. Films
-
-👁️ 1.3M • 👍 155K • 💬 4K • ⏱️ 0:55 • 5h ago
+👁️ 8K • 💬 14 • ⏱️ 33:02 • 3h ago
 
 ---
 
@@ -335,17 +299,67 @@ This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the
 
 📺 House of El - AI
 
-👁️ 178K • 👍 12K • 💬 2K • ⏱️ 27:19 • 2d ago
+👁️ 187K • 👍 12K • 💬 2K • ⏱️ 27:19 • 2d ago
 
 ---
 
-**[Flock&#39;s A.I.-enabled street cameras see backlash across the country](https://www.youtube.com/watch?v=5fbmWnJGCtc)**
+**[Private Credit Just Burst The $25 Trillion AI Bubble](https://www.youtube.com/watch?v=ktLyXGRHNCk)**
 
-Activists are speaking out against new, A.I.-enabled cameras being used by municipalities across the country. Critics argue the ...
+The private credit bust is now starting to spread into AI and the AI buildout which up to now has been mostly financed by these ...
 
-📺 NBC News
+📺 Eurodollar University
 
-👁️ 131K • 👍 2K • 💬 1K • ⏱️ 6:08 • 1d ago
+👁️ 47K • 👍 2K • 💬 194 • ⏱️ 17:23 • 20h ago
+
+---
+
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
+
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
+
+📺 AI Revolution
+
+👁️ 44K • 👍 1K • 💬 245 • ⏱️ 13:32 • 21h ago
+
+---
+
+**[Microsoft Admits it was Wrong About AI](https://www.youtube.com/watch?v=towF0_V7oHw)**
+
+For years, we were told AI would replace programmers, office workers, and eventually most white-collar jobs. But behind closed ...
+
+📺 The Infographics Show
+
+👁️ 252K • 👍 8K • 💬 1K • ⏱️ 14:31 • 1d ago
+
+---
+
+**[Trump HUMILIATED As July 4th AI Slopaganda Memes GO VIRAL!](https://www.youtube.com/watch?v=Kbqvi3rK73c)**
+
+Really American Host Steve Harness Breaks Down Trump HUMILIATED By Viral July 4th AI Slopoganda meme's! Support the ...
+
+📺 Really American
+
+👁️ 351K • 👍 16K • 💬 790 • ⏱️ 9:00 • 1d ago
+
+---
+
+**[Things are getting weird...](https://www.youtube.com/watch?v=SrbtZUGQlSg)**
+
+A quick look at the current Meta AI progress situation. Topics: - Meta's AI plans are not working; - Software developers are ...
+
+📺 Awesome
+
+👁️ 12K • 👍 1K • 💬 73 • ⏱️ 5:09 • 8h ago
+
+---
+
+**[Google Just UNLOCKED the Nano Banana of AI Video (Gemini Omni Deep Dive)](https://www.youtube.com/watch?v=7HhlSu3pPvU)**
+
+Try Gemini Omni Flash over on Higgsfield AI https://higgsfield.ai/s/gemini-omni-flash-jackvsai-lbMYAV Google just unlocked ...
+
+📺 Jack Vs. AI
+
+👁️ 4K • 👍 380 • 💬 23 • ⏱️ 23:46 • 5h ago
 
 ---
 
@@ -355,17 +369,7 @@ Activists are speaking out against new, A.I.-enabled cameras being used by munic
 
 📺 Fox Business
 
-👁️ 74K • 👍 2K • 💬 447 • ⏱️ 15:20 • 1d ago
-
----
-
-**[The world’s best AI is being locked down](https://www.youtube.com/watch?v=0Pz-jfyMPqs)**
-
-A global power struggle is emerging over artificial intelligence, as governments and tech companies compete for control over the ...
-
-📺 Sky News
-
-👁️ 36K • 👍 567 • 💬 141 • ⏱️ 5:40 • 1d ago
+👁️ 80K • 👍 2K • 💬 464 • ⏱️ 15:20 • 1d ago
 
 ---
 
@@ -381,7 +385,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,533,844 • ❤️ 1,524 • 7d ago
+⬇️ 1,533,844 • ❤️ 1,534 • 7d ago
 
 ---
 
@@ -393,7 +397,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 220,379 • ❤️ 3,444 • 3d ago
+⬇️ 220,379 • ❤️ 3,454 • 3d ago
 
 ---
 
@@ -405,7 +409,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,044,217 • ❤️ 1,734 • 2d ago
+⬇️ 1,044,217 • ❤️ 1,739 • 2d ago
 
 ---
 
@@ -417,7 +421,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 394,164 • ❤️ 722 • 10d ago
+⬇️ 394,164 • ❤️ 727 • 10d ago
 
 ---
 
@@ -429,7 +433,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 7,010 • ❤️ 272 • 2d ago
+⬇️ 7,010 • ❤️ 279 • 2d ago
 
 ---
 
@@ -441,19 +445,7 @@ The Qwen3.6-27B-NVFP4 is an FP4 quantized version of Alibaba's Qwen3.6-27B LLM, 
 
 `text-generation` `18.2B`
 
-⬇️ 297,130 • ❤️ 268 • 5d ago
-
----
-
-**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
-
-*Yuxin Lu*
-
-A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
-
-`text-generation` `11.9B`
-
-⬇️ 355,871 • ❤️ 1,020 • 16d ago
+⬇️ 297,130 • ❤️ 271 • 5d ago
 
 ---
 
@@ -465,7 +457,19 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 2,670 • ❤️ 218 • 1d ago
+⬇️ 2,670 • ❤️ 219 • 1d ago
+
+---
+
+**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
+
+*Yuxin Lu*
+
+A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
+
+`text-generation` `11.9B`
+
+⬇️ 355,871 • ❤️ 1,025 • 16d ago
 
 ---
 
@@ -477,19 +481,19 @@ DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mix
 
 `text-generation` `889.5B`
 
-⬇️ 12,580 • ❤️ 381 • 1d ago
+⬇️ 12,580 • ❤️ 382 • 1d ago
 
 ---
 
-**[Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF)**
+**[LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**
 
-*DeepReinforce*
+*NVIDIA*
 
-Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for agentic coding tasks, excelling in benchmarks like Terminal-Bench and SWE-Bench. It utilizes a self-improving RL framework to generate high-quality code solutions and search trajectories, making it suitable for efficient single-GPU deployment.
+LocateAnything-3B is a vision-language model for fast and high-quality visual grounding, enabling precise object localization and dense detection using parallel box decoding. It excels in complex scenes and supports diverse use cases like referring expression grounding, GUI element localization, and robotics perception.
 
-`text-generation` `9.0B`
+`image-text-to-text` `3.8B`
 
-⬇️ 352,002 • ❤️ 431 • 10d ago
+⬇️ 1,247,265 • ❤️ 2,616 • 23d ago
 
 ---
 
@@ -530,7 +534,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 103 • 💬 4 • ⭐ 90,896 • 18mo ago
+▲ 103 • 💬 4 • ⭐ 91,030 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -599,21 +603,9 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 61 • 💬 1 • ⭐ 85,395 • 34mo ago
+▲ 61 • 💬 1 • ⭐ 85,427 • 34mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
-
-EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
-
-▲ 13 • 💬 1 • ⭐ 10,267 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -629,6 +621,18 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 
 ---
 
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
+
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
+
+EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
+
+▲ 13 • 💬 1 • ⭐ 10,296 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -639,7 +643,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 74.5k • 🔱 3.9k • 3d ago
+⭐ 74.7k • 🔱 3.9k • 3d ago
 
 ---
 
@@ -649,7 +653,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.5k • 🔱 1.1k • 2h ago
+⭐ 11.5k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -659,7 +663,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.3k • 🔱 827 • 4h ago
+⭐ 6.3k • 🔱 828 • 6h ago
 
 ---
 
@@ -669,7 +673,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 5.8k • 🔱 768 • 3h ago
+⭐ 5.9k • 🔱 770 • 5h ago
 
 ---
 
@@ -679,7 +683,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.4k • 🔱 210 • 2d ago
+⭐ 2.5k • 🔱 210 • 2d ago
 
 ---
 
@@ -699,7 +703,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.9k • 🔱 72 • 2d ago
+⭐ 1.9k • 🔱 72 • 8m ago
 
 ---
 
@@ -713,6 +717,16 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 ---
 
+**[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)**
+
+autonomous red teaming platform; multi-agent offensive-security meta-harness
+
+`TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
+
+⭐ 1.4k • 🔱 364 • 1h ago
+
+---
+
 **[GordenSun/GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills)**
 
 AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
@@ -720,16 +734,6 @@ AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成�
 `Python`
 
 ⭐ 1.4k • 🔱 130 • 28d ago
-
----
-
-**[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)**
-
-AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
-
-`Python` `ai-design-tools` `animated-logo` `brand-motion` `claude-skill` `codex-skill`
-
-⭐ 1.4k • 🔱 117 • 7d ago
 
 ---
 
