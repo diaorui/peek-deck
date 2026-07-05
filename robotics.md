@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-05T22:30:18.421355+00:00'
+updated: '2026-07-05T23:38:42.980300+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 05, 2026 at 22:30 UTC  
+**Last Updated:** July 05, 2026 at 23:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Booster Robotics on 𝕏: "One save. Countless hours of development.": http
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 14h ago
+WSJ • 16h ago
 
 ---
 
@@ -120,13 +120,13 @@ WSJ • 14h ago
 
 While American tech giants are valued for the anticipation of perfect prototypes, Chinese manufacturers are winning the robotics race by getting paid for delivery.
 
-GeekWire • 7h ago
+GeekWire • 8h ago
 
 ---
 
-**[Opinion | China’s next export shock is taking shape – as AI-powered robots](https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots)**
+**[Hyundai Motor Showcases Humanoid at World Cup in Robotics Push](https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push)**
 
-South China Morning Post • 14h ago
+Bloomberg • 1h ago
 
 ---
 
@@ -134,7 +134,7 @@ South China Morning Post • 14h ago
 
 Amid concerns over the possibility of mines in the Strait of Hormuz, robots are offering a safer option to assess risks in the water.
 
-NBC News • 9h ago
+NBC News • 10h ago
 
 ---
 
@@ -142,7 +142,7 @@ NBC News • 9h ago
 
 Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.
 
-Fox News • 11h ago
+Fox News • 12h ago
 
 ---
 
@@ -154,19 +154,19 @@ Futurism • 1d ago
 
 ---
 
-**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 7h ago
-
----
-
 **[Here’s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments](https://finance.yahoo.com/technology/ai/articles/why-tesla-inc-tsla-top-134753521.html)**
 
 Tesla Inc. (NASDAQ:TSLA) is one of the best robotics stocks to buy. On June 25, Barclays reiterated an Equalweight rating on Tesla Inc. (NASDAQ: TSLA) and a $360 price target. The cautious outlook comes amid concerns that automotive volumes and fundamentals have taken a back seat to investor focus on future technologies. The investment bank […]
 
 Yahoo Finance • 1d ago
+
+---
+
+**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
+
+Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
+
+New Atlas • 3d ago
 
 ---
 
@@ -176,11 +176,11 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Santa Cruz County robotics team captures world championship](https://pajaronian.com/santa-cruz-county-robotics-team-captures-world-championship/)**
+**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
 
-Nine months of late nights, countless repairs and more than 100 hours spent testing an underwater robot in a swimming pool paid off in a big way for a team of Santa Cruz County high school students.
+Your weekly selection of awesome robot videos
 
-The Pajaronian • 3d ago
+IEEE Spectrum • 8h ago
 
 ---
 
@@ -224,7 +224,7 @@ War Robots Test Server Gameplay: NEW Ultimate RAVEN is coming to WR My War Robot
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 325 • 💬 65 • ⏱️ 14:47 • 12h ago
+👁️ 5K • 👍 325 • 💬 65 • ⏱️ 14:47 • 13h ago
 
 ---
 
@@ -282,7 +282,7 @@ These friends could not stop laughing at this security tape of their friends enc
 
 📺 YourDailyBrowse
 
-👁️ 10K • 👍 145 • 💬 5 • ⏱️ 0:19 • 4h ago
+👁️ 10K • 👍 145 • 💬 5 • ⏱️ 0:19 • 5h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-05T22:30:18.418048+00:00'
+updated: '2026-07-05T23:38:42.977708+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 22:30 UTC  
+**Last Updated:** July 05, 2026 at 23:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +11.7%  
-**30d:** +14.8%  
-**90d:** -19.6%  
-**1y:** -29.9%  
+**24h:** +1.0%  
+**7d:** +10.9%  
+**30d:** +14.0%  
+**90d:** -20.2%  
+**1y:** -30.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am used to address poisoning. Whenever I send/receive token, I will then receive some random tokens from addresses that has the same starting and ending sequence as the address I interacted with. But I see something I can't explain. Whenever I send X amount of USDT, My address also send the exact same amount of fake USDT to an address mimicing the receiving address. How can the attacker use my account to send a token I don't even know I have? On Etherscan, the sender address is clearly my address, but if they already control my accout, poisoning the receiving address is pointless. They can just steal my funds. If they don't control my accout, how did they send fake token from my account? https://preview.redd.it/jfawc4knedbh1.png?width=1674&format=png&auto=webp&s=2c70a9966405775dc1af9f1bd6764dfe258610c4
 
-14h ago
+15h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 2d ago
 
 MONACO , July  04, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy,...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -204,7 +204,7 @@ Yahoo Finance • 2d ago
 
 This coin could have a bumpy few months queued up.
 
-The Motley Fool • 2h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 11K • 👍 529 • 💬 68 • ⏱️ 13:11 • 9h ago
+👁️ 11K • 👍 529 • 💬 68 • ⏱️ 13:11 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN SHORT SQUEEZE OVER (New Trade Setup)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 3K • 👍 229 • 💬 27 • ⏱️ 18:40 • 4h ago
+👁️ 3K • 👍 229 • 💬 27 • ⏱️ 18:40 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 455 • 👍 18 • 💬 2 • ⏱️ 4:35 • 12h ago
+👁️ 455 • 👍 18 • 💬 2 • ⏱️ 4:35 • 13h ago
 
 ---
 
@@ -286,7 +286,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 739 • 💬 334 • ⏱️ 10:11 • 1d ago
+👁️ 12K • 👍 739 • 💬 334 • ⏱️ 10:11 • 2d ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 107 • ⏱️ 7:59 • 16h ago
+👁️ 2K • 👍 107 • ⏱️ 7:59 • 18h ago
 
 ---
 
@@ -316,7 +316,7 @@ Have you ever wondered whether a free ETH mining Telegram bot actually works the
 
 📺 La Sala del Análisis
 
-👁️ 2K • 👍 462 • 💬 4 • ⏱️ 4:25 • 15h ago
+👁️ 2K • 👍 462 • 💬 4 • ⏱️ 4:25 • 16h ago
 
 ---
 

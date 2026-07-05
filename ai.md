@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-05T22:30:18.403103+00:00'
+updated: '2026-07-05T23:38:42.963779+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 05, 2026 at 22:30 UTC  
+**Last Updated:** July 05, 2026 at 23:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 When ChatGPT first came out, I assumed I'd mostly use it to answer random questions. That lasted about a week. Now the thing I use it for the most is taking messy thoughts and turning them into something I can actually work with. Whether it's rewriting an email, organizing notes, or helping me think through an idea, that's become the real value for me. Ironically, I use AI less for getting answers and more for helping me think more clearly. What about you? What's one use case you genuinely didn't expect to become part of your routine?
 
-5h ago
+6h ago
 
 ---
 
@@ -49,13 +49,13 @@ When ChatGPT first came out, I assumed I'd mostly use it to answer random questi
 
 A clear trend is happening lately, a lot of users are moving away from heavily restricted models like chatgpt and claude toward uncensored or local models. Common reasons seem to be fewer refusals, better creative freedom, and privacy concerns. Has anyone else made the switch or considered it?
 
-1h ago
+3h ago
 
 ---
 
 **[The Revenge of the Philosophy Majors. A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now? (Gift Article)](https://www.reddit.com/r/artificial/comments/1uo3f4x/the_revenge_of_the_philosophy_majors_ai_labs_are/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html?unlocked_article_code=1.vVA.kh0d.yifPMBsgeixB&smid=url-share) • 8h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html?unlocked_article_code=1.vVA.kh0d.yifPMBsgeixB&smid=url-share) • 9h ago
 
 ---
 
@@ -63,7 +63,7 @@ A clear trend is happening lately, a lot of users are moving away from heavily r
 
 Anthropic has accused Alibaba of creating tens of thousands of fake Claude accounts to scrape Claude of its intellectual property via distillation attacks. Alibaba retaliates by telling their official (not contracted) employees to stop using Claude Code. I'm noticing from Reddit posts and comments that Claude has gotten much more wary of what it determines as strange prompting requests? There is an article indicating that Fable 5 has been "hardened" against distillation attacks, but it's locking out some legitimate users and refusing on innocuous requests. Seems like a lot of users are caught in the middle?
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ Anthropic has accused Alibaba of creating tens of thousands of fake Claude accou
 
 It feels like most AI discussions revolve around AGI timelines or benchmark scores, but there are a lot of smaller capabilities improving rapidly (reasoning, memory, multimodal understanding, coding agents, robotics, speech, etc.) Which capability do you think is currently underrated and why? I'm more interested in practical applications over the next 3–5 years than distant predictions.
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ It feels like most AI discussions revolve around AGI timelines or benchmark scor
 
 With AI advancing so quickly, I'm trying to understand how to prepare for the next 5–10 years. A few questions I'd love to hear your thoughts on: What skills should people focus on learning now to stay relevant alongside AI? Beyond prompting, what are the most valuable AI-related skills (automation, coding, workflows, AI agents, etc.)? Which jobs or industries are likely to benefit the most, and which are at the highest risk? Do you think AI will become expensive to use in the future? Will the best models and capabilities mostly be behind paid subscriptions? If you were starting from scratch today, what would your learning roadmap look like? I'm looking for practical advice from people who actively use AI in their work or projects. Thanks!
 
-10h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ With AI advancing so quickly, I'm trying to understand how to prepare for the ne
 
 https://orbis.aurochthryx.com
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ https://orbis.aurochthryx.com
 
 ChatGPT is asking me to close ChatGPT... Which is honestly surprising to me, especially if it's just a way to reduce cost. Which I doubt will do anything If true..
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ ChatGPT is asking me to close ChatGPT... Which is honestly surprising to me, esp
 
 Most of the focus is on AI being bad rather than how major companies are deploying AI. My concern isn't that AI is becoming more powerful. I mean, that is a concern, of course, but since most of the implications are speculative, you can't exactly take any stance or action on that problem other than countries coming together and setting rules and policies for how they distribute and use frontier models and capabilities, especially in warfare. My largest concern is what corporations and governments will use AI for on their own citizens. The data center builds are not just about AI. They're about creating an infrastructure that allows for total brain capital capturing. In other words there are real plans in place for collecting as much data as possible on our individual brains and if they can accurately map all of that out, they can measure how much and the quality of cognitive output we're providing to the state, which means they can valuate our worth based on cognitive outputs. Furthermore, they can use environmental nudging and algorithmic management to modify and shape individual behavior, which means protesting or voicing any concerns becomes obsolete. Big picture: The social contract between government, citizen, and business is being radically re-shaped for a world where regular people have little to no leveraging power, which destroys the power of voice. This is why we shouldn't destroy AI. Rather, we should figure out ways to ween ourselves off of the dependency we have on major tech companies so that we can gain leveraging power back, again. The biggest mistake is taking the bribes like what Bernie Sanders and Ro Kana are suggesting. I have nothing against them or anything, but their proposal to have the federal government own stock in big tech companies is a disaster in the making. If that happens, forget about any manageable evolution towards a better future. You'll be fighting the federal government who will be working on behalf of major tech companies because to not do so, means their ability to fund themselves will go flat. This is a huge trap that we're walking into, which is why the AI community must look towards de-centralized open-source systems that can be locally hosted for deploying and using AI at scale. If we rely too much on a few major corporations, we'll have entered a techno-feudalistic system where powers greater than you will be able to do just about anything with impunity. We can't let that happen!
 
-6h ago
+7h ago
 
 ---
 
@@ -121,7 +121,7 @@ Most of the focus is on AI being bad rather than how major companies are deployi
 
 **[The Revenge of the Philosophy Majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -129,29 +129,21 @@ The New York Times • 13h ago
 
 O'Leary says young entrepreneurs shouldn't chase flashy AI, they should instead try to build its backbone.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
-**[Taylor Swift and Travis Kelce wedding guest calls out ‘fake’ AI photos of MSG ceremony](https://pagesix.com/2026/07/05/entertainment/taylor-swift-and-travis-kelce-wedding-guest-calls-out-fake-ai-photos-of-msg-ceremony/)**
+**[AI-powered social media can subtly manipulate opinion at scale](https://techxplore.com/news/2026-07-ai-powered-social-media-subtly.html)**
 
-The music director shared his own snapshot from the star-studded wedding on Instagram.
-
-Page Six • 42m ago
+Tech Xplore • 28m ago
 
 ---
 
-**[Trump restrictions on private AI models turns attention to open source](https://www.kron4.com/news/national/trump-restrictions-on-private-ai-models-turns-attention-to-open-source/)**
+**[Micron Technology Inc. (MU) Sued Over Skyrocketing DRAM Prices amid AI Boom](https://finance.yahoo.com/technology/ai/articles/micron-technology-inc-mu-sued-225110494.html)**
 
-KRON4 • 1h ago
+Micron Technology Inc. (NASDAQ:MU) is one of the top AI Stocks to buy according to billionaire Philippe Laffont. On June 29, Micron Technology Inc. (NASDAQ:MU) was hit with a class action lawsuit over claims that it is restricting DRAM supply to inflate prices. The private class-action lawsuit in the US also names Samsung and SK […]
 
----
-
-**[White House Adviser Says Trump Won’t Create ‘FDA for AI’](https://www.pymnts.com/news/artificial-intelligence/2026/white-house-adviser-says-trump-wont-create-fda-for-ai/)**
-
-The White House’s outgoing artificial intelligence adviser says the administration won’t require formal licensing for the technology. “There will not be
-
-PYMNTS.com • 35m ago
+Yahoo Finance • 47m ago
 
 ---
 
@@ -159,13 +151,7 @@ PYMNTS.com • 35m ago
 
 A fan accused Paige Spiranac of using AI for her Fourth of July patriotic bikini post, but she revealed it was from her 2026 calendar shoot.
 
-Fox News • 2h ago
-
----
-
-**[Forget Wall Street. Elite Students Are Spending Their Summers on Startup Dreams.](https://www.wsj.com/tech/ai/forget-wall-street-elite-students-are-spending-their-summers-on-startup-dreams-e7191994)**
-
-WSJ • 3h ago
+Fox News • 3h ago
 
 ---
 
@@ -173,15 +159,13 @@ WSJ • 3h ago
 
 Macquarie began research coverage of five Chinese companies making chips for artificial intelligence applications.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[The humans training their AI replacements](https://www.yahoo.com/news/science/articles/humans-training-ai-replacements-140000993.html)**
+**[Forget Wall Street. Elite Students Are Spending Their Summers on Startup Dreams.](https://www.wsj.com/tech/ai/forget-wall-street-elite-students-are-spending-their-summers-on-startup-dreams-e7191994)**
 
-In April, the race to develop and roll out truly autonomous Artificial Intelligence (AI) seemed to enter a disturbing new phase when viral videos surfaced showing human workers wearing headsets featur...
-
-Yahoo • 8h ago
+WSJ • 4h ago
 
 ---
 
@@ -189,7 +173,21 @@ Yahoo • 8h ago
 
 Exclusive: Foreign secretary warns of combined risks of AI, climate crisis, irregular migration and foreign interference
 
-The Guardian • 3h ago
+The Guardian • 30m ago
+
+---
+
+**[Trump restrictions on private AI models turns attention to open source](https://thehill.com/policy/technology/5952253-trump-administration-ai-restrictions-opens/)**
+
+The Hill • 2h ago
+
+---
+
+**[AI Data Centers Are Set To Electrify This $13 Billion Family’s 76-Year-Old Company](https://www.forbes.com/sites/simonemelvin/2026/07/05/ai-data-centers-are-set-to-electrify-this-13-billion-familys-76-year-old-company/)**
+
+The Richards family is one of America's richest clans, thanks to its electrical manufacturing company Southwire. Here's why the AI craze should boost that fortune.
+
+Forbes • 13h ago
 
 ---
 
@@ -201,7 +199,7 @@ The Guardian • 3h ago
 
 You gather your most expensive people into a room to make your most important decisions. Then, somewhere in the second hour, the room quietly gets worse at making them. Not the people. The room.
 
-⬆️ 807 • 💬 456 • 1d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+⬆️ 811 • 💬 456 • 1d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 
 ---
 
@@ -223,13 +221,13 @@ We don’t need an extra reason to be anxious
 
 At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
 
-⬆️ 129 • 💬 132 • 5h ago • [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
+⬆️ 131 • 💬 133 • 6h ago • [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
 
 ---
 
 **[New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://news.ycombinator.com/item?id=48796817)**
 
-⬆️ 101 • 💬 63 • 3h ago • [intextbooks.science.uu.nl](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
+⬆️ 108 • 💬 75 • 4h ago • [intextbooks.science.uu.nl](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
 
 ---
 
@@ -249,7 +247,7 @@ Junior programmers are getting destroyed by AI — down 19%, while devs over 40 
 
 **[President pardons 9 for Clean Air violations for 'fixing their car'](https://news.ycombinator.com/item?id=48791091)**
 
-⬆️ 88 • 💬 56 • 18h ago • [msn.com](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
+⬆️ 88 • 💬 56 • 19h ago • [msn.com](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
 
 ---
 
@@ -257,7 +255,7 @@ Junior programmers are getting destroyed by AI — down 19%, while devs over 40 
 
 The growing adoption of AI-driven smart home devices has introduced new privacy risks for domestic workers (DWs), who are frequently monitored in employers' homes while also using smart devices in their own households. We conducted semi-structured interviews with 18 UK-based DWs and performed a human-centered threat modeling analysis of their experiences through the lens of Communication Privacy Management (CPM). Our findings extend existing threat models beyond abstract adversaries and single-household contexts by showing how AI analytics, residual data logs, and cross-household data flows shaped the privacy risks faced by participants. In employer-controlled homes, AI-enabled features and opaque, agency-mediated employment arrangements intensified surveillance and constrained participants' ability to negotiate privacy boundaries. In their own homes, participants had greater control as device owners but still faced challenges, including gendered administrative roles, opaque AI functionalities, and uncertainty around data retention. We synthesize these insights into a sociotechnical threat model that identifies DW agencies as institutional adversaries and maps AI-driven privacy risks across interconnected households, and we outline social and practical implications for strengthening DW privacy and agency.
 
-⬆️ 79 • 💬 59 • 5h ago • [arXiv.org](https://arxiv.org/abs/2602.09239)
+⬆️ 79 • 💬 60 • 6h ago • [arXiv.org](https://arxiv.org/abs/2602.09239)
 
 ---
 
@@ -289,7 +287,7 @@ The private credit bust is now starting to spread into AI and the AI buildout wh
 
 📺 Eurodollar University
 
-👁️ 48K • 👍 2K • 💬 198 • ⏱️ 17:23 • 23h ago
+👁️ 48K • 👍 2K • 💬 198 • ⏱️ 17:23 • 1d ago
 
 ---
 
@@ -299,7 +297,7 @@ Been pretty interesting to look into this, let me know what you guys think of th
 
 📺 Reysu
 
-👁️ 3K • 👍 188 • 💬 21 • ⏱️ 12:33 • 9h ago
+👁️ 3K • 👍 188 • 💬 21 • ⏱️ 12:33 • 10h ago
 
 ---
 
@@ -319,7 +317,7 @@ What is the best AI Video Generator? Seedance vs Grok vs Kling vs gemini Try out
 
 📺 Dan Kieft
 
-👁️ 12K • 💬 18 • ⏱️ 33:02 • 6h ago
+👁️ 12K • 💬 18 • ⏱️ 33:02 • 7h ago
 
 ---
 
@@ -349,7 +347,7 @@ Stop paying per subscription. Every top AI model, one platform → https://aimas
 
 📺 AI Master
 
-👁️ 2K • 👍 136 • 💬 15 • ⏱️ 20:19 • 3h ago
+👁️ 2K • 👍 136 • 💬 15 • ⏱️ 20:19 • 4h ago
 
 ---
 
@@ -359,7 +357,7 @@ Register here: https://aibusinesssummit.com/ What you'll see live: • Simple wa
 
 📺 Alicia Lyttle
 
-👁️ 3K • 👍 279 • 3h ago
+👁️ 3K • 👍 279 • 4h ago
 
 ---
 
@@ -369,7 +367,7 @@ FREE GUIDES + FOLLOW ALONG Join free here: https://links.stayingahead.com/YT55 Y
 
 📺 Vaibhav Sisinty
 
-👁️ 51K • 👍 1K • 💬 58 • ⏱️ 26:16 • 16h ago
+👁️ 51K • 👍 1K • 💬 58 • ⏱️ 26:16 • 18h ago
 
 ---
 
@@ -643,7 +641,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 74.8k • 🔱 3.9k • 3d ago
+⭐ 74.8k • 🔱 3.9k • 4d ago
 
 ---
 
@@ -653,7 +651,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.5k • 🔱 1.1k • 6h ago
+⭐ 11.5k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -663,7 +661,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.3k • 🔱 828 • 9h ago
+⭐ 6.3k • 🔱 828 • 10h ago
 
 ---
 
@@ -673,7 +671,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 5.9k • 🔱 772 • 8h ago
+⭐ 5.9k • 🔱 772 • 9h ago
 
 ---
 
@@ -703,7 +701,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.0k • 🔱 72 • 2m ago
+⭐ 2.0k • 🔱 72 • 1h ago
 
 ---
 
@@ -723,7 +721,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 1.5k • 🔱 399 • 25m ago
+⭐ 1.5k • 🔱 399 • 1h ago
 
 ---
 
