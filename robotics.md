@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-05T15:13:26.922684+00:00'
+updated: '2026-07-05T16:34:23.364583+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 05, 2026 at 15:13 UTC  
+**Last Updated:** July 05, 2026 at 16:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,13 @@ From Booster Robotics on 𝕏: "One save. Countless hours of development.": http
 
 After designing and printing the gearbox in-house, it’s time to see how much torque it can actually handle. Early results look promising — more testing and improvements coming soon!
 
-18h ago
+19h ago
 
 ---
 
 **[BMW Group deploys Figure 03 humanoid](https://www.reddit.com/r/robotics/comments/1unlu7k/bmw_group_deploys_figure_03_humanoid/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -72,13 +72,13 @@ The original home of robotics! 🦞 The Massachusetts ecosystem is one of the wo
 
 Tried the prompt "Implement a walking sequence in the quadruped simulation" in Drift and ended up with this. Current progress: Basic gait working Forward motion achieved Simulation running consistently Still trying to improve stability and make the gait look more natural. Open to any suggestions on what to explore next.
 
-21h ago
+23h ago
 
 ---
 
 **[Hotel staffed entirely by robots opens next year](https://www.reddit.com/r/robotics/comments/1unbzzg/hotel_staffed_entirely_by_robots_opens_next_year/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ Tried the prompt "Implement a walking sequence in the quadruped simulation" in D
 
 I am looking for some help with servos. I need to control the brown bakelite switch via a rotary servo, using the brass switch. When the brass switch is centred, the servo needs to be centred. When the brass switch is set to 1 or 2, the servo needs to rotate 57.5 degrees clock or anticlock. The bakelite switch changes from magneto ignition to coil ignition so the changeover, switching from 1 to 2 or vice versa needs to be quick or the car will stall. Maybe a tenth of a second? Is this possible? What sort of servo do I need? Could this be done via a stepper motor or would that be too complicated? All ideas/advice welcome 😁
 
-17h ago
+18h ago
 
 ---
 
@@ -120,15 +120,7 @@ The Register • 3d ago
 
 Amid concerns over the possibility of mines in the Strait of Hormuz, robots are offering a safer option to assess risks in the water.
 
-NBC News • 2h ago
-
----
-
-**[Chinese team defends RoboCup 2026 title as embodied AI in sports draws global attention](https://www.globaltimes.cn/page/202607/1365191.shtml)**
-
-China's THU Huoshen Team from Tsinghua University has successfully defended its Humanoid League crown at the world's largest AI robotics competition, RoboCup 2026, which concluded in Incheon, South Korea, on Sunday.
-
-Global Times • 58m ago
+NBC News • 3h ago
 
 ---
 
@@ -138,15 +130,17 @@ WSJ • 1d ago
 
 ---
 
-**[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://japantoday.com/category/tech/chinese-firm-sells-hyper-real-'always-loyal'-humanoid-robots)**
+**[Etzioni on AI: Elon Musk promised humanoid robots, but China delivered](https://www.geekwire.com/2026/etzioni-on-ai-elon-musk-promised-humanoid-robots-but-china-delivered/)**
 
-Japan Today • 2d ago
+While American tech giants are valued for the anticipation of perfect prototypes, Chinese manufacturers are winning the robotics race by getting paid for delivery.
+
+GeekWire • 1h ago
 
 ---
 
 **[Opinion | China’s next export shock is taking shape – as AI-powered robots](https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots)**
 
-South China Morning Post • 6h ago
+South China Morning Post • 8h ago
 
 ---
 
@@ -154,7 +148,7 @@ South China Morning Post • 6h ago
 
 Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.
 
-Fox News • 4h ago
+Fox News • 5h ago
 
 ---
 
@@ -174,9 +168,19 @@ Futurism • 1d ago
 
 ---
 
-**[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
+**[Small Business Tech News: Big Brands Rolling Out Robotics And Rolling Back AI](https://www.forbes.com/sites/quickerbettertech/2026/07/05/small-business-tech-news-big-brands-rolling-out-robotics-and-rolling-back-ai/)**
 
-Tech Xplore • 1d ago
+GM, Santander and other companies are expanding robotics and AI, but other companies are having doubts.
+
+Forbes • 5h ago
+
+---
+
+**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -190,47 +194,17 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 177 • ⏱️ 13:32 • 16h ago
+👁️ 35K • 👍 1K • 💬 203 • ⏱️ 13:32 • 18h ago
 
 ---
 
-**[China’s 18,000+ AI Robot Army Is Quietly Terrifying America](https://www.youtube.com/watch?v=JxLcYPD8eBY)**
+**[🇮🇳 Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule](https://www.youtube.com/watch?v=DzmOAX1ArtM)**
 
-China just built an ARMY of humanoid robots — and nobody in the US saw it coming. While American companies build a few ...
+Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule Experience a futuristic mechanical transformation ...
 
-📺 The AI Nexus
+📺 TopDoglive
 
-👁️ 8K • 👍 157 • 💬 26 • ⏱️ 18:37 • 3d ago
-
----
-
-**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
-
-📺 South China Morning Post
-
-👁️ 206K • 👍 6K • 💬 2K • ⏱️ 3:59 • 4d ago
-
----
-
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
-
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
-
-📺 51 Drones
-
-👁️ 21K • 👍 429 • 💬 82 • ⏱️ 12:50 • 3d ago
-
----
-
-**[Ubitech U1 Humanoid Robot Reveal Leaves Fans SHOCKED #news #technology #china #robot](https://www.youtube.com/watch?v=Sy0tj2Z5gA8)**
-
-Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its global launch, and the reaction online is impossible to ...
-
-📺 SXE China
-
-👁️ 103K • 👍 1K • 💬 165 • ⏱️ 0:52 • 5d ago
+👁️ 6K • 💬 1 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -240,45 +214,71 @@ The future of humanoid robots has officially arrived. UBTECH has unveiled the UW
 
 📺 DPCcars
 
-👁️ 92K • 👍 373 • 💬 190 • ⏱️ 2:50 • 3d ago
+👁️ 94K • 👍 387 • 💬 197 • ⏱️ 2:50 • 3d ago
 
 ---
 
-**[There’s a problem with my mouth design… #engineering #3dprinting #robotics](https://www.youtube.com/watch?v=K23XzB3Opgo)**
+**[$60,000 Robots Fights for $1,000!](https://www.youtube.com/watch?v=y-LX2ORr6JQ)**
 
-📺 Will Cogley
+Today, Vlad and Michael are doing an EPIC REAL ROBOTS FIGHT Challenge! They have to upgrade different robot fighters and ...
 
-👁️ 864K • 👍 35K • 💬 880 • ⏱️ 0:32 • 5d ago
+📺 Vlad
 
----
-
-**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
-
-Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
-
-📺 DeathTempler
-
-👁️ 24K • 👍 4K • 💬 194 • ⏱️ 0:29 • 1d ago
+👁️ 1.2M • 👍 11K • 💬 624 • ⏱️ 23:59 • 1d ago
 
 ---
 
-**[WTF is China building now 😂](https://www.youtube.com/watch?v=VUh3HDSsS5g)**
+**[NEW 4x Ue Bulava Ao Ming NUKING Atlas Titans | War Robots](https://www.youtube.com/watch?v=afjw7xvB4Ws)**
 
-The future is here, and it's ready to take your crap This is a self driving toilet called Xiaoban made by Chinese company Yueban ...
+Use My Link For The WR Store https://wr.my.games/PREDATORWR We have to try 4x Ue Bulava on the Ue Ao Ming. We're only ...
 
-📺 Matt Wolfe
+📺 PREDATOR WR
 
-👁️ 22K • 👍 1K • 💬 82 • ⏱️ 1:10 • 4d ago
+👁️ 3K • 👍 174 • 💬 15 • ⏱️ 13:33 • 4h ago
 
 ---
 
-**[I just built the MOST ANNYING VULCAN in War Robots](https://www.youtube.com/watch?v=Sr0-CrZxfTE)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=Nk226xASWDM)**
 
-War Robots Gameplay: NEW Robot VULCAN in max-annoying form WR My War Robots Creator Link: https://wr.my.games/manni ...
+📺 Robot Julie 
 
-📺 Manni-Gaming
+👁️ 20K • 👍 55 • 💬 6 • ⏱️ 0:25 • 2d ago
 
-👁️ 7K • 👍 367 • 💬 38 • ⏱️ 20:35 • 1d ago
+---
+
+**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 775K • 👍 1K • 💬 78 • ⏱️ 0:14 • 2d ago
+
+---
+
+**[China’s Egg Frying Machine Can Cook Eggs Without Humans🤯](https://www.youtube.com/watch?v=obiklsHw_V4)**
+
+China's Automatic Egg Frying Robot Is Changing Breakfast Forever Meet the future of breakfast automation! This ...
+
+📺 Techie Sapien
+
+👁️ 172K • 💬 17 • ⏱️ 0:07 • 14h ago
+
+---
+
+**[Shhhhh! #eiliko #robot](https://www.youtube.com/watch?v=Plli4pH5tcs)**
+
+📺 Pro Activate Shop
+
+👁️ 44K • 👍 182 • 💬 1 • ⏱️ 0:11 • 2d ago
+
+---
+
+**[Robot Skate Filmers are here!](https://www.youtube.com/watch?v=WFnkiL82r9g)**
+
+Reserve Beni for the early access price of $499 with a $10 deposit on this link: https://mondorobotics.com/?ref=ricky.
+
+📺 Ricky Glaser
+
+👁️ 19K • 👍 774 • 💬 41 • ⏱️ 0:31 • 1d ago
 
 ---
 

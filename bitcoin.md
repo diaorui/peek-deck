@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-05T15:13:26.913571+00:00'
+updated: '2026-07-05T16:34:23.355319+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 15:13 UTC  
+**Last Updated:** July 05, 2026 at 16:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +4.3%  
-**30d:** +3.2%  
-**90d:** -12.7%  
-**1y:** -42.4%  
+**24h:** -1.0%  
+**7d:** +4.0%  
+**30d:** +2.9%  
+**90d:** -12.9%  
+**1y:** -42.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1256.28B
+**Market Cap:** $1254.73B
 Rank #1
 
-**Circulating Supply:** 20,052,459 BTC
+**Circulating Supply:** 20,052,484 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.3%
+-50.4%
 
 **All-Time Low:** $67.81
-+92290.5%
++92179.9%
 
 ---
 
@@ -77,9 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The U.S. holds 2.8× more Bitcoin than all other countries combined](https://www.reddit.com/r/Bitcoin/comments/1una1bh/the_us_holds_28_more_bitcoin_than_all_other/)**
+**[Public companies have accumulated a net 166,984 bitcoin in 2026, significantly surpassing the approximately 81,153 Bitcoin mined year-to-date](https://www.reddit.com/r/Bitcoin/comments/1unyozy/public_companies_have_accumulated_a_net_166984/)**
 
-1d ago
+Public companies acquired 166,984 Bitcoin in 2026, exceeding mined supply. Bitcoin reaching $67.5K in July 2026 is at 46.5% YES.
+
+🔗 [Crypto Briefing](https://cryptobriefing.com/public-companies-acquire-166984-bitcoin-in-2026-surpassing-mined-supply/) • 6h ago
 
 ---
 
@@ -87,65 +89,69 @@ Rank #1
 
 I think he's gonna make it.
 
-19h ago
+21h ago
 
 ---
 
-**[The Bitcoin Steakburger](https://www.reddit.com/r/Bitcoin/comments/1une2a7/the_bitcoin_steakburger/)**
+**[Finally made it to a whole Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1unpwd6/finally_made_it_to_a_whole_bitcoin/)**
 
-Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. Grass-fed beef patties with beef tallow fries/tots.
+Thank you to everyone contributing on this sub. Especially the guy who told me to stop smoking weed because it helps focusing on the stacking grind. I've been at it since 2022 and I've finally reached my goal of 1 BTC! Stack sats and stay humble. Over and out.
 
-22h ago
+14h ago
 
 ---
 
-**[Let’s go ! BTC to Moon](https://www.reddit.com/r/Bitcoin/comments/1un64i2/lets_go_btc_to_moon/)**
+**[What happened to all the "I lost my hard drive with 1M BTC" posts?](https://www.reddit.com/r/Bitcoin/comments/1unvbla/what_happened_to_all_the_i_lost_my_hard_drive/)**
+
+Did everyone suddenly become responsible? A few years ago, every other week someone had a story about accidentally throwing away a hard drive containing enough Bitcoin to buy a country. Now... nothing. Either people got incredibly competent at backing up their wallets, or we've finally run out of fictional billionaires.
+
+9h ago
+
+---
+
+**[Happy 4th of July! Bitcoin is money for the people, by the people.](https://www.reddit.com/r/Bitcoin/comments/1unsi32/happy_4th_of_july_bitcoin_is_money_for_the_people/)**
+
+Happy Birthday America!
+
+12h ago
+
+---
+
+**[DCA](https://www.reddit.com/r/Bitcoin/comments/1unxgat/dca/)**
+
+I have recently been starting to do more research and understand the Bitcoin 4 year cycles. As someone who is starting to DCA per month into Bitcoin after buying lump sums ever so often, for anybody that has experience with buying Bitcoin I know it makes sense to buy the dips in large amounts or DCA a fixed amount but can anyone explain why it would be a better idea to continue to DCA into Bitcoin as the price is going up and possibly approaching or exceeding ATHs rather than taking some kind of profit at ATHs? I’ve thought about experimenting with taking profits at ATHs just to say I did but I am a HODLr so it is definitely just a thought.
+
+7h ago
+
+---
+
+**[How much monthly do you invest in BTC?](https://www.reddit.com/r/Bitcoin/comments/1uo5b0h/how_much_monthly_do_you_invest_in_btc/)**
+
+As the title.
+
+54m ago
+
+---
+
+**[What do you use bitcoin for?](https://www.reddit.com/r/Bitcoin/comments/1uo2sfm/what_do_you_use_bitcoin_for/)**
+
+Does everyone here just buy bitcoin in the hope that it increases over time? Or does anyone actually use bitcoin to pay for things or to transfer funds between friends as a form of payment etc? I don't hold any bitcoin myself but i really like the idea of it i.e. as a decentralised payment system. The problem is, it seems that virtually everyone buys and sells bitcoin, not to use it, but to make a quick or long term buck off it, which leads to a lot of price volatility and defeats the purpose of using it as a currency.
+
+2h ago
+
+---
+
+**[The U.S. holds 2.8× more Bitcoin than all other countries combined](https://www.reddit.com/r/Bitcoin/comments/1una1bh/the_us_holds_28_more_bitcoin_than_all_other/)**
 
 1d ago
 
 ---
 
-**[Whole coiner](https://www.reddit.com/r/Bitcoin/comments/1un3gcf/whole_coiner/)**
+**[Food for thought...](https://www.reddit.com/r/Bitcoin/comments/1uo5cy1/food_for_thought/)**
 
-Is it me or is the most compelling, motivating, and greatest achievement of my life to get to one Bitcoin right now? All I want is one, who knows from there, but in my mind I’ll be like holy shit I did it ✅
+How beneficial has reddit been to you since joining the btc community.?
 
-1d ago
-
----
-
-**[My turn to post this here! ┻━┻ ︵╰(°□°)╯︵ ┻━┻](https://www.reddit.com/r/Bitcoin/comments/1umqgg9/my_turn_to_post_this_here/)**
-
-1d ago
-
----
-
-**[Bitcoin chart doesn't care how many times you refresh it](https://www.reddit.com/r/Bitcoin/comments/1unjjik/bitcoin_chart_doesnt_care_how_many_times_you/)**
-
-every red day, same ritual.. open the app, close it, open it again five minutes later like the number's going to say something different. it never does. it's just price reacting to fear, same as always. people who did fine through past cycles weren't the ones checking constantly. they decided once and mostly looked away
-
-18h ago
-
----
-
-**[Do i really need a cold wallet?](https://www.reddit.com/r/Bitcoin/comments/1unaulb/do_i_really_need_a_cold_wallet/)**
-
-I've been buying some BTC over the past few months, but I keep everything on Crypto.com. I don't really know how a cold wallet works or whether I actually need one. I'm just looking for some advice from real Bitcoiners.
-
-1d ago
-
----
-
-**[Bitcoin is more secure than US classified systems](https://www.reddit.com/r/Bitcoin/comments/1umiavq/bitcoin_is_more_secure_than_us_classified_systems/)**
-
-1d ago
-
----
-
-**[Im going to yolo 5k into bitcoin today. My friend says buy ETF instead but I don’t listen to him.](https://www.reddit.com/r/Bitcoin/comments/1umpizk/im_going_to_yolo_5k_into_bitcoin_today_my_friend/)**
-
-Bitcoin! Bitcoin! Bitcoin!
-
-1d ago
+52m ago
 
 ---
 
@@ -157,7 +163,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.
 
-CoinDesk • 6h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -169,39 +175,25 @@ Fox Business • 2d ago
 
 ---
 
-**[ByteTree Warns AI Rally Is A 1999 Rerun, Groups Bitcoin With Inflation-Era Hard Assets](https://finance.yahoo.com/markets/crypto/articles/bytetree-warns-ai-rally-1999-131155485.html)**
+**[Will Bitcoin Rise in July? 4 AI Models Predict BTC's Next Target](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rise-july-4-ai-145715557.html)**
 
-Despite its zero ByteTrend score, ByteTree indicated the Bitcoin network is strong with weekly on-chain transaction value at $13.5 billion, five times 2022 levels.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Trump Crypto Profits Hit $1B as Bitcoin Crashes 50% From Its ATH](https://finance.yahoo.com/markets/crypto/articles/trump-crypto-profits-hit-1b-131356915.html)**
-
-President Trump and family crypto ventures cleared more than $1 billion in 2025, according to his latest federal financial disclosure. It was the same year that Bitcoin crashed more than 50% from its $126,000 all-time high, erasing every gain retail investors captured during the post-election euphoria. Market Cap 24h 7d ...
+Three of four AI models expect Bitcoin to end July above current levels, generally targeting the $60,000-$68,000 range. ChatGPT is the most optimistic as it ...
 
 Yahoo Finance • 1h ago
 
 ---
 
+**[BTC price news: Bitcoin retakes $63,000, reversing end-June losses](https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses)**
+
+The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.
+
+CoinDesk • 22h ago
+
+---
+
 **[Bitcoin trades above $62K as U.S. crypto bill gains fresh traction](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-62k-as-us-crypto-bill-gains-fresh-traction-4775415)**
 
-Investing.com • 5h ago
-
----
-
-**[Bitcoin slips as institutional inflows, corporate strategies remain in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-institutional-inflows-and-corporate-strategies-remain-in-focus-4775351)**
-
-Investing.com • 1d ago
-
----
-
-**[Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow](https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow)**
-
-Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.
-
-The Block • 15h ago
+Investing.com • 6h ago
 
 ---
 
@@ -209,23 +201,39 @@ The Block • 15h ago
 
 Bitcoin has started the new week with a little more colour on the screen. After sliding through the kind of levels that usually trigger forced caution across the market, BTC has pushed back toward the $63,000 area, giving bulls something to work with again.That does not mean the stress has disappea…
 
-TradingView • 1h ago
+TradingView • 3h ago
 
 ---
 
-**[Better Crypto for a $500 Investment: Bitcoin vs. Dogecoin](https://www.fool.com/investing/2026/07/04/better-crypto-500-investment-bitcoin-vs-dogecoin/)**
+**[Bitcoin Crashed 20% Over the Last 30 Days. Here's What History Says Comes Next.](https://www.fool.com/investing/2026/07/04/bitcoin-crashed-20-over-the-last-30-days-heres-wha/)**
 
-These are two of the most popular digital assets on the market.
+Bitcoin may be down, but it isn't out.
 
 The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’](https://www.forbes.com/sites/digital-assets/2026/07/04/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
+**[Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow](https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow)**
 
-The U.S. economy has delivered bad news for the bitcoin price and crypto market...
+Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.
 
-Forbes • 1d ago
+The Block • 16h ago
+
+---
+
+**[SA Asks: What's the outlook for bitcoin? (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4611514-sa-asks-whats-the-outlook-for-bitcoin)**
+
+Bitcoin outlook: analysts warn of a capitulation reset to $37K or support near $52K, plus ETF plays and macro risks. Read more here.
+
+Seeking Alpha • 33m ago
+
+---
+
+**[Bollinger Eyes 'W' Reversal to End Bitcoin Bear Market](https://bitbo.io/news/bollinger-w-reversal-bitcoin-bear/)**
+
+John Bollinger says Bitcoin is completing a 'perfectly fractal' W-shaped reversal that could break the downtrend in place since October 2025.
+
+Bitbo • 10h ago
 
 ---
 
@@ -239,7 +247,7 @@ ZeroNet is a decentralized network that enables dynamic sites, such as blogs and
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 13 • 💬 2 • 16h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 13 • 💬 2 • 17h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -297,11 +305,19 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 ---
 
+**[Show HN: Glyph a blockchain where the proof-of-work is neural network inference](https://news.ycombinator.com/item?id=48795126)**
+
+Contribute to raphaelwkago69-create/GLYPH development by creating an account on GitHub.
+
+⬆️ 1 • 💬 0 • 50m ago • [GitHub](https://github.com/raphaelwkago69-create/GLYPH)
+
+---
+
 **[Bitpoint: Turn a directory of Python files into HTTP endpoints](https://news.ycombinator.com/item?id=48788823)**
 
 Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 18h ago • [GitHub](https://github.com/tanrax/bitpoint)
+⬆️ 2 • 💬 0 • 19h ago • [GitHub](https://github.com/tanrax/bitpoint)
 
 ---
 
@@ -315,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 66K • 👍 3K • 💬 88 • ⏱️ 55:12 • 1d ago
+👁️ 71K • 👍 3K • 💬 88 • ⏱️ 55:12 • 1d ago
 
 ---
 
@@ -325,7 +341,7 @@ Bitcoin is flashing multiple signals that have marked major turning points in pa
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 986 • 💬 146 • ⏱️ 16:52 • 22h ago
+👁️ 11K • 👍 1K • 💬 143 • ⏱️ 16:52 • 23h ago
 
 ---
 
@@ -335,17 +351,17 @@ Follow Gary on YouTube: https://www.youtube.com/@garycardone Follow Gary on X: h
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 276 • ⏱️ 53:28 • 21h ago
+👁️ 24K • 👍 1K • 💬 300 • ⏱️ 53:28 • 22h ago
 
 ---
 
-**[You Were Lied To About the Bitcoin Crash | Has the Reversal Already Started?](https://www.youtube.com/watch?v=Dv9ED87QBdQ)**
+**[&quot;Bitcoin Will Be MUCH Higher In A Year&quot; - Matthew Sigel](https://www.youtube.com/watch?v=gMM5JizZ23E)**
 
-Bitcoin was called dead again — but while the panic was spreading, whales were buying 270000 BTC in the biggest 30-day ...
+Bitcoin #Crypto #Finance Matthew Sigel from VanEck breaks down exactly how his Node fund has outperformed Bitcoin by 100 ...
 
-📺 Simply Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 55K • 👍 4K • 💬 315 • ⏱️ 20:33 • 2d ago
+👁️ 4K • 👍 319 • 💬 201 • ⏱️ 30:31 • 3h ago
 
 ---
 
@@ -355,7 +371,17 @@ Bitcoin didn't crash because the system broke, it crashed because that's exactly
 
 📺 The Infographics Show
 
-👁️ 194K • 👍 5K • 💬 1K • ⏱️ 18:41 • 1d ago
+👁️ 210K • 👍 6K • 💬 1K • ⏱️ 18:41 • 1d ago
+
+---
+
+**[Why Citigroup Just Cut Bitcoin Price Targets](https://www.youtube.com/watch?v=VtsxtSQiU74)**
+
+Citigroup just downgraded Bitcoin targets! Is this a bearish signal or a buying opportunity? Market fear is high, but remember, ...
+
+📺 Summitgroup
+
+👁️ 539 • 👍 5 • ⏱️ 0:45 • 3h ago
 
 ---
 
@@ -365,17 +391,7 @@ Subscribe. Before the money moves. Law enforcement opposition to the CLARITY Act
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 223 • 💬 99 • ⏱️ 16:38 • 17h ago
-
----
-
-**[Major Breakouts In Crypto: Bull Run or Fake Out? - Gareth Soloway](https://www.youtube.com/watch?v=25wx6Lf5YwI)**
-
-Take Control of Your Money Easily with Rumble Wallet. Download now at http://wallet.rumble.com/Verified. No B.S....Just Charts!
-
-📺 Gareth Soloway
-
-👁️ 54K • 👍 3K • 💬 364 • ⏱️ 15:57 • 23h ago
+👁️ 3K • 👍 234 • 💬 102 • ⏱️ 16:38 • 18h ago
 
 ---
 
@@ -385,17 +401,17 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 127 • ⏱️ 3:08 • 2d ago
+👁️ 53K • 👍 3K • 💬 127 • ⏱️ 3:08 • 2d ago
 
 ---
 
-**[Did you miss the BTC bottom? +🚨 Urgent SPY technicals for this Week](https://www.youtube.com/watch?v=FN1fkrNXaYQ)**
+**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=-yC5mfVZiBU)**
 
-Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using this for Charting ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Stocks with Josh
+📺 AnodaBoy
 
-👁️ 18K • 👍 1K • 💬 78 • ⏱️ 10:20 • 15h ago
+👁️ 2K • 👍 4 • 13m ago
 
 ---
 
@@ -405,7 +421,7 @@ Join in on my in-person Meet & Greet on July 8th in Manhattan, NYC: ...
 
 📺 Minority Mindset
 
-👁️ 135K • 👍 4K • 💬 911 • ⏱️ 18:19 • 2d ago
+👁️ 141K • 👍 5K • 💬 929 • ⏱️ 18:19 • 2d ago
 
 ---
 
