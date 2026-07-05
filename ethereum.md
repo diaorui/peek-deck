@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-05T21:00:57.090897+00:00'
+updated: '2026-07-05T22:30:18.418048+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 21:00 UTC  
+**Last Updated:** July 05, 2026 at 22:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,31 +42,47 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +10.2%  
-**30d:** +13.2%  
-**90d:** -20.7%  
-**1y:** -30.8%  
+**24h:** +1.2%  
+**7d:** +11.7%  
+**30d:** +14.8%  
+**90d:** -19.6%  
+**1y:** -29.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $214.90B
+**Market Cap:** $217.00B
 Rank #2
 
 **Circulating Supply:** 120,683,221 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.0%
+-63.6%
 
 **All-Time Low:** $0.43
-+411100.1%
++415218.1%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion July 05, 2026](https://www.reddit.com/r/ethereum/comments/1untak9/daily_general_discussion_july_05_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+17h ago
+
+---
+
+**[Why are address poisoning attacker able to send fake token out of my account?](https://www.reddit.com/r/ethereum/comments/1unwnxa/why_are_address_poisoning_attacker_able_to_send/)**
+
+I am used to address poisoning. Whenever I send/receive token, I will then receive some random tokens from addresses that has the same starting and ending sequence as the address I interacted with. But I see something I can't explain. Whenever I send X amount of USDT, My address also send the exact same amount of fake USDT to an address mimicing the receiving address. How can the attacker use my account to send a token I don't even know I have? On Etherscan, the sender address is clearly my address, but if they already control my accout, poisoning the receiving address is pointless. They can just steal my funds. If they don't control my accout, how did they send fake token from my account? https://preview.redd.it/jfawc4knedbh1.png?width=1674&format=png&auto=webp&s=2c70a9966405775dc1af9f1bd6764dfe258610c4
+
+14h ago
+
+---
 
 **[Daily General Discussion July 04, 2026](https://www.reddit.com/r/ethereum/comments/1un01g8/daily_general_discussion_july_04_2026/)**
 
@@ -132,20 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Bitcoin Suisse Moves Its Ethereum Staking to Obol Distributed Validators](https://www.reddit.com/r/ethereum/comments/1ulnq2u/bitcoin_suisse_moves_its_ethereum_staking_to_obol/)**
-
-Bitcoin Suisse has been active in the institutional crypto industry since its early stage and one of the oldest and largest crypto financial service providers, established in Switzerland in 2013.Bitcoin Suisse facilitated the original Ethereum Foundation crowd sale in 2014, introduced a Swiss-Franc-backed stablecoin (XCHF) in 2018, launched one of the world's first Ethereum staking services during the beacon chain launch in 2020, and brought enterprise-grade liquid staking to the Swiss market via Liquid Collective in 2023. This migration to Obol Distributed Validators represents the next evolution of Bitcoin Suisse's staking infrastructure and reflects the firm's view of where institutional Ethereum staking is heading. Full write up: https://blog.obol.org/bitcoin-suisse-goes-all-in/
-
-3d ago
-
----
-
-**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://www.reddit.com/r/ethereum/comments/1ul30a2/ethereum_for_governments_and_institutions_why/)**
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -170,13 +172,7 @@ Yahoo Finance • 2d ago
 
 MONACO , July  04, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy,...
 
-markets.businessinsider.com • 18h ago
-
----
-
-**[1,768.91 | ETHUSD1 USDⓈ-Margined Perpetual Chart | Binance Futures](https://www.binance.com/en/futures/ETHUSD1)**
-
-Binance • 8h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -184,7 +180,7 @@ Binance • 8h ago
 
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
-Coinpedia • 22h ago
+Coinpedia • 1d ago
 
 ---
 
@@ -193,14 +189,6 @@ Coinpedia • 22h ago
 Ethereum (ETH) declined by 21.6% in June, its largest monthly drop since November, amid intense risk-off sentiment and heightened volatility, spearheaded by retail investors and US market participants.
 
 FXStreet • 1d ago
-
----
-
-**[Grayscale’s Ethereum Mini Trust Hit by Targeted Outflows as ETH Slide Deepens](https://www.tipranks.com/news/cryptocurrencies/grayscales-ethereum-mini-trust-hit-by-targeted-outflows-as-eth-slide-deepens)**
-
-Grayscale’s Ethereum mini vehicle sees outflow as crypto sentiment cools Grayscale Ethereum Mini Trust (ETH) saw investors pull $18.47 million on July 2, 2026, a si...
-
-TipRanks • 10h ago
 
 ---
 
@@ -216,7 +204,7 @@ Yahoo Finance • 2d ago
 
 This coin could have a bumpy few months queued up.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -232,6 +220,22 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP, Dogecoin Spike as Weak Jobs Data Dims Rate-Hike Odds: Analyst Says 'Markets Are Just Waking Up'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-spike-030216419.html)**
+
+Cryptocurrencies gained ground on Thursday while major stock indexes closed at all-time highs, as softer-than-expected jobs data lowered expectations for a Federal Reserve rate hike. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.19%$61,460.31Ethereum (CRYPTO: ETH) +5.67%$1,708.41XRP (CRYPTO: XRP) +3.23%$1.09Solana (CRYPTO: SOL) +4.20%$81.33Dogecoin (CRYPTO: DOGE) +3.17%$0.07466 Crypto Market Rallies Bitcoin briefly broke $62,000 but failed to sustain th
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP advance amid renewed capital inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-advance-amid-renewed-capital-inflows-202607031200)**
+
+Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
+
+FXStreet • 4mo ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -242,7 +246,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 8K • 👍 467 • 💬 59 • ⏱️ 13:11 • 8h ago
+👁️ 11K • 👍 529 • 💬 68 • ⏱️ 13:11 • 9h ago
 
 ---
 
@@ -252,57 +256,7 @@ BITCOIN SHORT SQUEEZE OVER (New Trade Setup)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 1K • 👍 144 • 💬 18 • ⏱️ 18:40 • 2h ago
-
----
-
-**[&quot;Load Up In July! Why This Crypto BULL MARKET Will Be SHOCKING&quot;: Matt Hougan &amp; Tom Lee](https://www.youtube.com/watch?v=95fLDF5cYaU)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 179 • 💬 19 • ⏱️ 18:59 • 1d ago
-
----
-
-**[Bitcoin at THE Bottom? ETH, Sui &amp; Cardano Charts Say This Next](https://www.youtube.com/watch?v=SCtDabHyIdI)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
-
-📺 Crypto Capital Venture
-
-👁️ 12K • 👍 734 • 💬 333 • ⏱️ 10:11 • 1d ago
-
----
-
-**[Ethereum &amp; Cardano Pumping (Altcoin Accumulation Zone)](https://www.youtube.com/watch?v=mkLGIZriGow)**
-
-Ethereum is back and the crypto market is heating up—but is this the start of altcoin season? Today we cover the latest crypto ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 302 • 💬 44 • ⏱️ 1:03:50 • 2d ago
-
----
-
-**[BITCOIN SHORT SQUEEZE CONFIRMED (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cUsXnni3APg)**
-
-BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 389 • 💬 136 • ⏱️ 22:32 • 1d ago
-
----
-
-**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
-
-Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
-
-📺 Prof G Markets
-
-👁️ 43K • 👍 413 • 💬 109 • ⏱️ 0:58 • 2d ago
+👁️ 3K • 👍 229 • 💬 27 • ⏱️ 18:40 • 4h ago
 
 ---
 
@@ -312,7 +266,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 388 • 👍 16 • 💬 2 • ⏱️ 4:35 • 11h ago
+👁️ 455 • 👍 18 • 💬 2 • ⏱️ 4:35 • 12h ago
+
+---
+
+**[&quot;Load Up In July! Why This Crypto BULL MARKET Will Be SHOCKING&quot;: Matt Hougan &amp; Tom Lee](https://www.youtube.com/watch?v=95fLDF5cYaU)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 178 • 💬 18 • ⏱️ 18:59 • 1d ago
+
+---
+
+**[Bitcoin at THE Bottom? ETH, Sui &amp; Cardano Charts Say This Next](https://www.youtube.com/watch?v=SCtDabHyIdI)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
+
+📺 Crypto Capital Venture
+
+👁️ 12K • 👍 739 • 💬 334 • ⏱️ 10:11 • 1d ago
+
+---
+
+**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
+
+Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
+
+📺 Prof G Markets
+
+👁️ 44K • 👍 431 • 💬 114 • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -322,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 104 • ⏱️ 7:59 • 15h ago
+👁️ 2K • 👍 107 • ⏱️ 7:59 • 16h ago
 
 ---
 
@@ -332,7 +316,27 @@ Have you ever wondered whether a free ETH mining Telegram bot actually works the
 
 📺 La Sala del Análisis
 
-👁️ 2K • 👍 462 • 💬 4 • ⏱️ 4:25 • 13h ago
+👁️ 2K • 👍 462 • 💬 4 • ⏱️ 4:25 • 15h ago
+
+---
+
+**[Ethereum &amp; Cardano Pumping (Altcoin Accumulation Zone)](https://www.youtube.com/watch?v=mkLGIZriGow)**
+
+Ethereum is back and the crypto market is heating up—but is this the start of altcoin season? Today we cover the latest crypto ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 304 • 💬 44 • ⏱️ 1:03:50 • 2d ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE CONFIRMED (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cUsXnni3APg)**
+
+BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 390 • 💬 134 • ⏱️ 22:32 • 1d ago
 
 ---
 

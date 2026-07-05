@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-05T21:00:57.084896+00:00'
+updated: '2026-07-05T22:30:18.411763+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 21:00 UTC  
+**Last Updated:** July 05, 2026 at 22:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,847.77
+### $63,539.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +4.1%  
-**30d:** +3.0%  
-**90d:** -12.8%  
-**1y:** -42.6%  
+**24h:** +0.8%  
+**7d:** +5.7%  
+**30d:** +4.6%  
+**90d:** -11.5%  
+**1y:** -41.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1258.57B
+**Market Cap:** $1274.68B
 Rank #1
 
-**Circulating Supply:** 20,052,528 BTC
+**Circulating Supply:** 20,052,587 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.2%
+-49.6%
 
 **All-Time Low:** $67.81
-+92449.8%
++93662.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Public companies acquired 166,984 Bitcoin in 2026, exceeding mined supply. Bitcoin reaching $67.5K in July 2026 is at 46.5% YES.
 
-🔗 [Crypto Briefing](https://cryptobriefing.com/public-companies-acquire-166984-bitcoin-in-2026-surpassing-mined-supply/) • 10h ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/public-companies-acquire-166984-bitcoin-in-2026-surpassing-mined-supply/) • 12h ago
 
 ---
 
@@ -97,7 +97,7 @@ I think he's gonna make it.
 
 Thank you to everyone contributing on this sub. Especially the guy who told me to stop smoking weed because it helps focusing on the stacking grind. I've been at it since 2022 and I've finally reached my goal of 1 BTC! Stack sats and stay humble. Over and out.
 
-19h ago
+20h ago
 
 ---
 
@@ -105,7 +105,7 @@ Thank you to everyone contributing on this sub. Especially the guy who told me t
 
 Did everyone suddenly become responsible? A few years ago, every other week someone had a story about accidentally throwing away a hard drive containing enough Bitcoin to buy a country. Now... nothing. Either people got incredibly competent at backing up their wallets, or we've finally run out of fictional billionaires.
 
-14h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ Did everyone suddenly become responsible? A few years ago, every other week some
 
 Happy Birthday America!
 
-16h ago
+18h ago
 
 ---
 
@@ -121,7 +121,7 @@ Happy Birthday America!
 
 I have recently been starting to do more research and understand the Bitcoin 4 year cycles. As someone who is starting to DCA per month into Bitcoin after buying lump sums ever so often, for anybody that has experience with buying Bitcoin I know it makes sense to buy the dips in large amounts or DCA a fixed amount but can anyone explain why it would be a better idea to continue to DCA into Bitcoin as the price is going up and possibly approaching or exceeding ATHs rather than taking some kind of profit at ATHs? I’ve thought about experimenting with taking profits at ATHs just to say I did but I am a HODLr so it is definitely just a thought.
 
-11h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ I have recently been starting to do more research and understand the Bitcoin 4 y
 
 As the title.
 
-5h ago
+6h ago
 
 ---
 
@@ -137,7 +137,7 @@ As the title.
 
 Does everyone here just buy bitcoin in the hope that it increases over time? Or does anyone actually use bitcoin to pay for things or to transfer funds between friends as a form of payment etc? I don't hold any bitcoin myself but i really like the idea of it i.e. as a decentralised payment system. The problem is, it seems that virtually everyone buys and sells bitcoin, not to use it, but to make a quick or long term buck off it, which leads to a lot of price volatility and defeats the purpose of using it as a currency.
 
-7h ago
+8h ago
 
 ---
 
@@ -151,7 +151,7 @@ Does everyone here just buy bitcoin in the hope that it increases over time? Or 
 
 How beneficial has reddit been to you since joining the btc community.?
 
-5h ago
+6h ago
 
 ---
 
@@ -163,7 +163,7 @@ How beneficial has reddit been to you since joining the btc community.?
 
 Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -175,11 +175,11 @@ Fox Business • 2d ago
 
 ---
 
-**[Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.](https://finance.yahoo.com/markets/crypto/articles/strategy-just-announced-major-shake-225500473.html)**
+**[Bitcoin Is Down 53%. Is It Finally Time to Buy?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-53-finally-time-205000614.html)**
 
-The bulls will view the latest development as a positive move that expands management's ability to respond to changing market conditions.
+Bitcoin will remain highly volatile, but its low price might be worth some of the risk.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,15 +187,7 @@ Yahoo Finance • 22h ago
 
 Bitcoin outlook: analysts warn of a capitulation reset to $37K or support near $52K, plus ETF plays and macro risks. Read more here.
 
-Seeking Alpha • 5h ago
-
----
-
-**[Bitcoin Is Now in Bear Market Territory. But Here are 3 Catalysts That Could Lead to a Recovery.](https://www.fool.com/investing/2026/07/05/bitcoin-is-now-in-bear-market-territory-but-here-a/)**
-
-The coin could make a turnaround without any help, but there are a few catalysts that would make it easier.
-
-The Motley Fool • 8h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -207,9 +199,35 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin trades above $62K as U.S. crypto bill gains fresh traction](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-62k-as-us-crypto-bill-gains-fresh-traction-4775415)**
+**[Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility](https://finance.yahoo.com/markets/crypto/articles/bitcoin-53k-exchange-deposits-jump-165708195.html)**
 
-Investing.com • 11h ago
+Bitcoin bounced back above $60,000 this week, but increased volatility might be on the way as crypto deposits to exchanges spike.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[CryptoQuant Flags Exchange Deposit Spike As Bitcoin Volatility Risk Builds](https://www.tradingview.com/news/newsbtc:db1c007b7094b:0-cryptoquant-flags-exchange-deposit-spike-as-bitcoin-volatility-risk-builds/)**
+
+Bitcoin’s rebound has not removed the risk of another volatile move. CryptoQuant is warning that exchange deposit activity has picked up across Bitcoin, Ethereum, and altcoins, a pattern that often appears when traders are preparing to move risk around quickly.That does not automatically mean a cra…
+
+TradingView • 4h ago
+
+---
+
+**[Bitcoin Is Now in Bear Market Territory. But Here are 3 Catalysts That Could Lead to a Recovery.](https://www.fool.com/investing/2026/07/05/bitcoin-is-now-in-bear-market-territory-but-here-a/)**
+
+The coin could make a turnaround without any help, but there are a few catalysts that would make it easier.
+
+The Motley Fool • 10h ago
+
+---
+
+**[Bitcoin’s next parabolic run is coming. But there's a $1 trillion catch](https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital)**
+
+This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -218,22 +236,6 @@ Investing.com • 11h ago
 The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.
 
 CoinDesk • 1d ago
-
----
-
-**[Bitcoin Rebounds Toward $63,000, But ETF Flows Still Hold The Key](https://www.tradingview.com/news/newsbtc:0f373049e094b:0-bitcoin-rebounds-toward-63-000-but-etf-flows-still-hold-the-key/)**
-
-Bitcoin has started the new week with a little more colour on the screen. After sliding through the kind of levels that usually trigger forced caution across the market, BTC has pushed back toward the $63,000 area, giving bulls something to work with again.That does not mean the stress has disappea…
-
-TradingView • 7h ago
-
----
-
-**[Glassnode Says Bitcoin Accumulation Is Building Under The Surface](https://www.tradingview.com/news/newsbtc:b9bc3fd89094b:0-glassnode-says-bitcoin-accumulation-is-building-under-the-surface/)**
-
-Bitcoin’s chart has looked heavy, but the on-chain picture is not quite as one-sided as the price action suggests. Glassnode’s latest Week Onchain report points to a market where pain is obvious, but where accumulation is also starting to show up underneath the surface.That is a very Bitcoin kind o…
-
-TradingView • 5h ago
 
 ---
 
@@ -247,7 +249,7 @@ ZeroNet is a decentralized network that enables dynamic sites, such as blogs and
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 14 • 💬 2 • 21h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 14 • 💬 2 • 23h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -309,7 +311,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 Contribute to raphaelwkago69-create/GLYPH development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/raphaelwkago69-create/GLYPH)
+⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/raphaelwkago69-create/GLYPH)
 
 ---
 
@@ -325,33 +327,23 @@ Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint develop
 
 ## YouTube Videos: "bitcoin"
 
-**[Everyone Gave Up On Bitcoin At Exactly The Wrong Time](https://www.youtube.com/watch?v=Kp9rfw1Iqw8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 75K • 👍 3K • 💬 88 • ⏱️ 55:12 • 1d ago
-
----
-
 **[Cantor Just Called the Bitcoin Bottom! | Here&#39;s What Nobody Is Connecting](https://www.youtube.com/watch?v=LtgCigBQwvY)**
 
 Bitcoin is flashing multiple signals that have marked major turning points in past cycles. Wall Street, whale accumulation, ETF ...
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 68 • ⏱️ 16:52 • 1d ago
+👁️ 13K • 👍 1K • 💬 69 • ⏱️ 16:52 • 1d ago
 
 ---
 
-**[The EASIEST Bitcoin Strategy Is Happening NOW.](https://www.youtube.com/watch?v=Hjd4rzCJqIk)**
+**[Everyone Gave Up On Bitcoin At Exactly The Wrong Time](https://www.youtube.com/watch?v=Kp9rfw1Iqw8)**
 
-This is THE TIME to take a hard look at Bitcoin and decide if the time is NOW or ....wait. Yesterdays video no Trump Accounts ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Digital Asset News
+📺 Anthony Pompliano
 
-👁️ 4K • 👍 309 • 💬 13 • ⏱️ 51:31 • 3h ago
+👁️ 78K • 👍 3K • 💬 88 • ⏱️ 55:12 • 1d ago
 
 ---
 
@@ -361,7 +353,7 @@ Follow Gary on YouTube: https://www.youtube.com/@garycardone Follow Gary on X: h
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 290 • ⏱️ 53:28 • 1d ago
+👁️ 27K • 👍 1K • 💬 301 • ⏱️ 53:28 • 1d ago
 
 ---
 
@@ -371,7 +363,7 @@ Bitcoin #Crypto #Finance Matthew Sigel from VanEck breaks down exactly how his N
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 468 • 💬 137 • ⏱️ 30:31 • 8h ago
+👁️ 10K • 👍 523 • 💬 144 • ⏱️ 30:31 • 9h ago
 
 ---
 
@@ -381,7 +373,7 @@ Bitcoin didn't crash because the system broke, it crashed because that's exactly
 
 📺 The Infographics Show
 
-👁️ 227K • 👍 6K • 💬 1K • ⏱️ 18:41 • 1d ago
+👁️ 236K • 👍 6K • 💬 1K • ⏱️ 18:41 • 1d ago
 
 ---
 
@@ -391,7 +383,17 @@ Citigroup just downgraded Bitcoin targets! Is this a bearish signal or a buying 
 
 📺 Summitgroup
 
-👁️ 738 • 👍 5 • ⏱️ 0:45 • 8h ago
+👁️ 757 • 👍 6 • ⏱️ 0:45 • 9h ago
+
+---
+
+**[WHY SMART PEOPLE STILL DON&#39;T GET BITCOIN](https://www.youtube.com/watch?v=JGkVdtNsZyw)**
+
+Disclaimer: none of this is financial advice. This is financial entertainment. Follow me on X for my best content: http://www.
+
+📺 Adam Livingston
+
+👁️ 4K • 👍 515 • 💬 137 • ⏱️ 18:22 • 1d ago
 
 ---
 
@@ -401,17 +403,7 @@ Subscribe. Before the money moves. Law enforcement opposition to the CLARITY Act
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 239 • 💬 94 • ⏱️ 16:38 • 22h ago
-
----
-
-**[Bitcoin: The Beauty of Mathematics (Part 71)](https://www.youtube.com/watch?v=uoF9yzXHmt4)**
-
-Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 54K • 👍 3K • 💬 127 • ⏱️ 3:08 • 2d ago
+👁️ 3K • 👍 244 • 💬 95 • ⏱️ 16:38 • 1d ago
 
 ---
 
@@ -421,7 +413,17 @@ Join in on my in-person Meet & Greet on July 8th in Manhattan, NYC: ...
 
 📺 Minority Mindset
 
-👁️ 146K • 👍 5K • 💬 974 • ⏱️ 18:19 • 2d ago
+👁️ 150K • 👍 5K • 💬 984 • ⏱️ 18:19 • 2d ago
+
+---
+
+**[The Bitcoin Price Rise No One Sees Coming That Will Make Crypto Millionaires](https://www.youtube.com/watch?v=xTH1JoXt2gA)**
+
+The crypto market is an odd one, some days we get incredibly exciting news and other days we get news that revolves around ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 7K • 👍 911 • 💬 261 • ⏱️ 13:58 • 10h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-05T21:00:57.094131+00:00'
+updated: '2026-07-05T22:30:18.421355+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 05, 2026 at 21:00 UTC  
+**Last Updated:** July 05, 2026 at 22:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ After designing and printing the gearbox in-house, it’s time to see how much t
 
 **[BMW Group deploys Figure 03 humanoid](https://www.reddit.com/r/robotics/comments/1unlu7k/bmw_group_deploys_figure_03_humanoid/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ Tried the prompt "Implement a walking sequence in the quadruped simulation" in D
 
 I am looking for some help with servos. I need to control the brown bakelite switch via a rotary servo, using the brass switch. When the brass switch is centred, the servo needs to be centred. When the brass switch is set to 1 or 2, the servo needs to rotate 57.5 degrees clock or anticlock. The bakelite switch changes from magneto ignition to coil ignition so the changeover, switching from 1 to 2 or vice versa needs to be quick or the car will stall. Maybe a tenth of a second? Is this possible? What sort of servo do I need? Could this be done via a stepper motor or would that be too complicated? All ideas/advice welcome 😁
 
-23h ago
+1d ago
 
 ---
 
@@ -112,19 +112,29 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
-**[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://japantoday.com/category/tech/chinese-firm-sells-hyper-real-'always-loyal'-humanoid-robots)**
+**[Etzioni on AI: Elon Musk promised humanoid robots, but China delivered](https://www.geekwire.com/2026/etzioni-on-ai-elon-musk-promised-humanoid-robots-but-china-delivered/)**
 
-Japan Today • 3d ago
+While American tech giants are valued for the anticipation of perfect prototypes, Chinese manufacturers are winning the robotics race by getting paid for delivery.
+
+GeekWire • 7h ago
 
 ---
 
 **[Opinion | China’s next export shock is taking shape – as AI-powered robots](https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots)**
 
-South China Morning Post • 12h ago
+South China Morning Post • 14h ago
+
+---
+
+**[Autonomous robots are the next frontier in clearing underwater mines](https://www.nbcnews.com/tech/innovation/autonomous-robots-are-frontier-clearing-underwater-mines-rcna352666)**
+
+Amid concerns over the possibility of mines in the Strait of Hormuz, robots are offering a safer option to assess risks in the water.
+
+NBC News • 9h ago
 
 ---
 
@@ -132,7 +142,7 @@ South China Morning Post • 12h ago
 
 Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.
 
-Fox News • 10h ago
+Fox News • 11h ago
 
 ---
 
@@ -148,15 +158,7 @@ Futurism • 1d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 6h ago
-
----
-
-**[Autonomous robots are the next frontier in clearing underwater mines](https://www.nbcnews.com/tech/innovation/autonomous-robots-are-frontier-clearing-underwater-mines-rcna352666)**
-
-Amid concerns over the possibility of mines in the Strait of Hormuz, robots are offering a safer option to assess risks in the water.
-
-NBC News • 8h ago
+IEEE Spectrum • 7h ago
 
 ---
 
@@ -178,7 +180,7 @@ Tech Xplore • 2d ago
 
 Nine months of late nights, countless repairs and more than 100 hours spent testing an underwater robot in a swimming pool paid off in a big way for a team of Santa Cruz County high school students.
 
-The Pajaronian • 2d ago
+The Pajaronian • 3d ago
 
 ---
 
@@ -192,17 +194,17 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 44K • 👍 1K • 💬 245 • ⏱️ 13:32 • 22h ago
+👁️ 50K • 👍 2K • 💬 264 • ⏱️ 13:32 • 1d ago
 
 ---
 
-**[NEW Ultimate RAVEN will change War Robots [Test Server]](https://www.youtube.com/watch?v=wUelW96CEKQ)**
+**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
 
-War Robots Test Server Gameplay: NEW Ultimate RAVEN is coming to WR My War Robots Creator Link: ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
 
-📺 Manni-Gaming
+📺 South China Morning Post
 
-👁️ 4K • 👍 294 • 💬 60 • ⏱️ 14:47 • 11h ago
+👁️ 218K • 👍 6K • 💬 2K • ⏱️ 3:59 • 4d ago
 
 ---
 
@@ -216,19 +218,23 @@ China just built an ARMY of humanoid robots — and nobody in the US saw it comi
 
 ---
 
-**[There’s a problem with my mouth design… #engineering #3dprinting #robotics](https://www.youtube.com/watch?v=K23XzB3Opgo)**
+**[NEW Ultimate RAVEN will change War Robots [Test Server]](https://www.youtube.com/watch?v=wUelW96CEKQ)**
 
-📺 Will Cogley
+War Robots Test Server Gameplay: NEW Ultimate RAVEN is coming to WR My War Robots Creator Link: ...
 
-👁️ 898K • 👍 37K • 💬 907 • ⏱️ 0:32 • 6d ago
+📺 Manni-Gaming
+
+👁️ 5K • 👍 325 • 💬 65 • ⏱️ 14:47 • 12h ago
 
 ---
 
-**[Cycle testing our 2026 Robot at the Southern a California State Championship #STEM #robotics](https://www.youtube.com/watch?v=h7HrTNOZDbg)**
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
 
-📺 FRC Team 3255 - SuperNURDs
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
 
-👁️ 24K • 👍 70 • 💬 2 • ⏱️ 0:06 • 3d ago
+📺 Future Core
+
+👁️ 2K • 👍 73 • 💬 3 • ⏱️ 10:56 • 1d ago
 
 ---
 
@@ -238,35 +244,15 @@ The future of humanoid robots has officially arrived. UBTECH has unveiled the UW
 
 📺 DPCcars
 
-👁️ 96K • 👍 400 • 💬 208 • ⏱️ 2:50 • 3d ago
+👁️ 97K • 👍 410 • 💬 210 • ⏱️ 2:50 • 3d ago
 
 ---
 
-**[AI Robot Control#servomotor #robotics #airobot #Knowledge](https://www.youtube.com/watch?v=frwu59L4rTE)**
+**[There’s a problem with my mouth design… #engineering #3dprinting #robotics](https://www.youtube.com/watch?v=K23XzB3Opgo)**
 
-📺 wowearth
+📺 Will Cogley
 
-👁️ 32K • 👍 934 • 💬 12 • ⏱️ 1:02 • 4d ago
-
----
-
-**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
-
-📺 South China Morning Post
-
-👁️ 215K • 👍 6K • 💬 2K • ⏱️ 3:59 • 4d ago
-
----
-
-**[￼ Worlds most advanced Ai &amp; ￼ robotic technology explained](https://www.youtube.com/watch?v=o8AVd9v7dkY)**
-
-Worlds most advanced Ai & robotic technology explained Are we officially living in the future? In this video, we break down the ...
-
-📺 Prapancha Yatrikudu
-
-👁️ 123K • 👍 7K • 💬 421 • ⏱️ 15:15 • 4d ago
+👁️ 917K • 👍 38K • 💬 923 • ⏱️ 0:32 • 6d ago
 
 ---
 
@@ -276,7 +262,27 @@ Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its glo
 
 📺 SXE China
 
-👁️ 104K • 👍 1K • 💬 167 • ⏱️ 0:52 • 5d ago
+👁️ 105K • 👍 1K • 💬 168 • ⏱️ 0:52 • 5d ago
+
+---
+
+**[$60,000 Robots Fights for $1,000!](https://www.youtube.com/watch?v=y-LX2ORr6JQ)**
+
+Today, Vlad and Michael are doing an EPIC REAL ROBOTS FIGHT Challenge! They have to upgrade different robot fighters and ...
+
+📺 Vlad
+
+👁️ 1.4M • 👍 13K • 💬 661 • ⏱️ 23:59 • 1d ago
+
+---
+
+**[Are Robots Taking Over? 😱](https://www.youtube.com/watch?v=SeK9Vi8Is7g)**
+
+These friends could not stop laughing at this security tape of their friends encountering a karate robot. What happened at the end ...
+
+📺 YourDailyBrowse
+
+👁️ 10K • 👍 145 • 💬 5 • ⏱️ 0:19 • 4h ago
 
 ---
 
