@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-06T21:55:19.938103+00:00'
+updated: '2026-07-06T23:08:40.982342+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 06, 2026 at 21:55 UTC  
+**Last Updated:** July 06, 2026 at 23:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[SpaceX burned up 260 of its own satellites in 6 months and this is just routine apparently](https://www.reddit.com/r/artificial/comments/1upbdoa/spacex_burned_up_260_of_its_own_satellites_in_6/)**
+
+Saw this in an article and it's been on my mind since 260 satellites intentionally burned in the atmosphere in 6 months and another 349 queued. They're planning 42,000 total eventually. No debris which is fine but researchers are asking what happens when you're burning hundreds of massive metal objects in the upper atmosphere repeatedly over years. Aluminum particles, potential atmospheric chemistry changes. Science is still catching up and the FCC is now proposing to exempt satellites from environmental review entirely Idk,we're moving faster than we're studying this...anyone else find this a bit much?
+
+1h ago
+
+---
+
 **[Can AI help with the emotional emptiness people feel in modern life?](https://www.reddit.com/r/artificial/comments/1up0k2f/can_ai_help_with_the_emotional_emptiness_people/)**
 
 I’ve been thinking about something less technical about AI. In many ways, people’s living standards are getting better. We have better tools, more convenience, more entertainment, and access to more information than before. But at the same time, it feels like many people are still emotionally empty, confused, or lost. Even with better material conditions, people still seem to be searching for meaning, direction, connection, or some kind of inner stability. In some ways, the faster the world develops, the more confused people seem to become. So I’m curious: Can AI actually help with this kind of emotional emptiness or confusion? Not as a replacement for real relationships, therapy, or human connection, but maybe as a tool for reflection, journaling, self-understanding, or organizing thoughts. Or does AI only make people feel temporarily understood while the deeper problem remains? Have you ever used AI to deal with loneliness, confusion, lack of direction, or questions about meaning? Did it actually help?
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +57,7 @@ I’ve been thinking about something less technical about AI. In many ways, peop
 
 I built an AI agent that took over order-taking for a sushi chain with 7 locations. About 90% of their orders come through Instagram DMs, and until now one person typed every reply by hand. How it works: code watches incoming messages through the Meta API and hands each one to Claude (Sonnet 4.6) over the API. The model has a knowledge base with the full menu, ingredients, calories, allergens, delivery zones, hours, prep times and promos for all 7 spots. It talks to the customer for real, helps them pick, explains what is in a roll, flags allergens, and upsells when it fits ("that set goes well with X sauce, want it?"). Once an order is confirmed it pushes straight to the kitchen and writes a record into the restaurant CRM and an admin panel where the owner watches how the agent is doing. Stack: SvelteKit for the site and admin panel, Meta API for the DMs, Claude Sonnet 4.6 for the conversations, pg-boss on Postgres for the job queue, and a CRM integration for the orders. One detail I am happy with: that whole menu-and-rules block has to go to the model on every message, which would normally be expensive. With prompt caching, about 97% of messages read that block from cache at a tenth of the input price, so running Sonnet on every DM ends up cheap enough that the owner never thinks about it. What it doesn't do, by choice: calls, voice notes and photos go to a human. A model guessing at a photo of a handwritten order is how you ship something embarrassing. Plain text handoffs almost never happen, basically just "let me talk to a human," and that is rare. The owner's panel keeps every chat plus the agent's reasoning chain per message, so if something breaks I can see exactly how and why. Still watching quality now that it is live. Happy to answer anything about the caching setup, the Meta API webhook flow, or how the kitchen handoff works.
 
-13h ago
+14h ago
 
 ---
 
@@ -57,37 +65,7 @@ I built an AI agent that took over order-taking for a sushi chain with 7 locatio
 
 So this has been on my mind for a while and it kinda bugs me. Every time someone benchmarks glm-5.2 or deepseek against claude or gpt, the closed one wins on some tasks and people just assume the underlying model is smarter. but thats not really what were measuring. We dont know what these closed providers actually do behind the api. they might be running rag over their own docs, injecting hidden system prompts based on your query, routing to specialized expert models depending on task type, doing prompt preprocessing we never see, hitting internal tool calls before the model even generates a response. anthropic already hides reasoning traces and doesnt show you the full pipeline. we get the polished output and we assume its just the model. Meanwhile when you benchmark an open model youre benchmarking raw inference. no scaffolding, no hidden tools, no preprocessing. its like comparing a cars engine on a dyno to another car actually driving on a road with traction control and abs and lane assist. the road one looks better but its not because the engine is stronger. Which makes me wonder if the actual model quality gap between the frontier closed stuff and something like glm-5.2 is way smaller than benchmarks suggest. What you are paying premium for might be the tooling and the harness wrapped around it, not the raw model. and if thats true this whole industry is heading somewhere weird, because tooling is way easier to replicate than model architecture, and open weights plus open source tooling starts to look really competitive really fast. There is a broader thing going on too. software engineering hasnt actually changed in principle, its still specs, architecture, tradeoffs, maintainability. what changed is the volume. line by line code review doesnt scale when agents produce diffs at this rate, so review has to move upstream to specs and downstream to tests, metrics, traces, observability. thats where the actual verification happens now, not in the middle where volume already broke it. So heres what i am stuck on. when we say model X is better than model Y based on benchmarks, are we actually comparing model to model, or are we comparing raw inference against everything the closed provider bolted onto it that we cant see, and does that distinction even matter to anyone anymore.
 
-9h ago
-
----
-
-**[San Francisco court consolidates a dozen lawsuits alleging ChatGPT encouraged suicide and drug use](https://www.reddit.com/r/artificial/comments/1up0ou1/san_francisco_court_consolidates_a_dozen_lawsuits/)**
-
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/openai-chatgpt-suicide-cases-22301936.php) • 6h ago
-
----
-
-**[What companies that you've actually called had a good AI voice customer support?](https://www.reddit.com/r/artificial/comments/1up056b/what_companies_that_youve_actually_called_had_a/)**
-
-It feels like there's so much hype around AI for voice customer support these days, yet almost every time I call a company, I end up in the same old experience where I have to press 1, 2, or 3, repeat myself several times, or get stuck in a loop. It rarely feels like AI has actually made the experience better... I've been trying to find examples of companies that have actually built good AI phone support, but most articles just talk about the vendors behind the technology. I'm not looking for companies like ElevenLabs, or similar that provide technology. I'm looking for the actual brands you've called and where you thought: "That was helpful/good/etc." Any experience you could share?
-
-6h ago
-
----
-
-**[Nearly 90 Startups Hit Unicorn Status in Record First Half of 2026](https://www.reddit.com/r/artificial/comments/1uowx1s/nearly_90_startups_hit_unicorn_status_in_record/)**
-
-Artificial intelligence startups are driving an unprecedented surge in venture capital activity, with nearly 90 new unicorns emerging in the first half of 2026 alone — a pace that far exceeds previ…
-
-🔗 [Wealthari](https://wealthari.com/nearly-90-startups-hit-unicorn-status-in-record-first-half-of-2026/) • 8h ago
-
----
-
-**[Building a permission layer for AI agents.](https://www.reddit.com/r/artificial/comments/1up1yil/building_a_permission_layer_for_ai_agents/)**
-
-Would you let an AI handle your invoices and orders if you could set limits and approve anything unusual from your phone as a business owner? I've been testing AI agents / workers that handle repetitive admin work such as reading supplier invoices, flagging low stock, drafting reorders, answering routine customer messages etc... The agents work but the problem is trust. No owner hands an AI the keys to their bank account or their customer database example like WhatsApp, because if it makes a mistake it makes it confidently and fast. I'm thinking of building a version that works like hiring a junior employee with strict rules. It can act alone only under limits you set (examples: payments under $150, only to suppliers you've approved) Anything bigger or unusual you get a message on your phone to approve or reject, one tap. Every single thing it does or tries to do is written in a log you can read in plain language. One button shuts it off instantly Its not "trust the AI" it's "the AI physically cannot exceed the authority you give it." Questions for people running a business Would you use something like this, or is any AI near your money a hard no? What's the first task you'd hand over invoices, reordering, customer replies, something else? What limit setup would make you comfortable? What would this need to save you time or money to be worth paying for as a subscription. Trying to find out if this solves a real problem or just an imaginary one.
-
-5h ago
+10h ago
 
 ---
 
@@ -95,23 +73,45 @@ Would you let an AI handle your invoices and orders if you could set limits and 
 
 Robbyant, an embodied AI company under Ant Group, put four vision backbones on Hugging Face under Apache-2. The company describes its goal as building one brain for all robots.0, from 21M to 1.1B params. I went looking for the Depth 2.0 weights and they are not up; only these four backbones are open. The full comparison table including where it loses is the screenshot above, and you can see it trailing on KITTI there. Per the paper, the flagship scores 0.296 on NYUv2 depth versus DINOv3-7B at 0.309. The distilled ViT-L comes in at 0.310 at roughly 23x fewer parameters. ImageNet linear probe is 86.32 (self-reported, no independent runs yet), which sits behind DINOv3-7B's 87.87. Loading requires their custom lbot_vision_infer library, not plain transformers or timm. Links: HF collection https://huggingface.co/collections/robbyant/lingbot-vision, GitHub https://github.com/robbyant/lingbot-vision, project page with interactive demos https://technology.robbyant.com/lingbot-vision.
 
-2h ago
+4h ago
 
 ---
 
-**[Should AI be able to prove what it knew at the time?](https://www.reddit.com/r/artificial/comments/1uowfa3/should_ai_be_able_to_prove_what_it_knew_at_the/)**
+**[Are returns a fair way to judge the quality of Artificial Intelligence decision making when things are not certain?](https://www.reddit.com/r/artificial/comments/1upaw6u/are_returns_a_fair_way_to_judge_the_quality_of/)**
 
-This might be a daft thought experiment, but I keep coming back to it. As AI gets more autonomous, should it be able to prove what it knew when it made a decision? Not just give a nice explanation afterwards, because we all know models can do that whether it’s true or not. I mean some kind of actual memory trail. Like version history, but for what the AI believed or had access to at that point. Would that be useful for trust and accountability, or is it overkill?
+Artificial Intelligence systems are becoming more able to act on their own and make decisions that affect the world. We need to find ways to figure out if these decisions are good or not. Financial markets are a place to test this because they are very unpredictable and people are working against each other. There is also a lot of uncertainty. We do not always know right away if a decision was good or not. These are the kinds of conditions that Artificial Intelligence will have to deal with as it starts making complicated decisions. The problem is that most of the time we judge Artificial Intelligence systems by how money they make or lose.. In situations like this a good decision can still result in a loss because of things that the Artificial Intelligence system cannot control.. Sometimes a bad decision can work out just by luck. This makes me wonder about the picture of Artificial Intelligence and how we can make it even smarter. How can we really know if an Artificial Intelligence system is making decisions when things are not certain instead of just looking at the results? Are there any new ideas or tests being developed that can separate the quality of the decision making process from the actual results? I am especially interested, in ideas that work well in situations where we have to make decisions over a period of time and there is a lot of uncertainty. I would really like to hear what people think about this.
 
-9h ago
+1h ago
 
 ---
 
-**[I built a game that simulates the AI industry. Looking for beta testers who actually know the space.](https://www.reddit.com/r/artificial/comments/1uozdxl/i_built_a_game_that_simulates_the_ai_industry/)**
+**[San Francisco court consolidates a dozen lawsuits alleging ChatGPT encouraged suicide and drug use](https://www.reddit.com/r/artificial/comments/1up0ou1/san_francisco_court_consolidates_a_dozen_lawsuits/)**
 
-I've been working on a browser game called Lord of Tokens where you run and invest in AI companies in the present-day world. You start a company, hire people, train AI models, research the tech tree, ship products, and compete on the market. The goal is to become the richest person in the AI world. The reason I'm posting it here specifically : I tried to model the actual dynamics of the industry, hype cycles, the tension between shipping products and burning capital on research, investors vs operators. I'd love feedback from people who follow AI closely and can tell me where the simulation feels right and where it's naive. A few details : Runs in the browser, no download, free during beta Persistent MMO world (it keeps simulating while you're offline, so no grinding) Play as a founder, an investor, or both English and French What I'm hoping to get out of beta : Does the economic model feel believable to people who know the industry? What's confusing or unbalanced? Bugs (it's early, expect some) If simulating the AI world sounds fun for you, comment or DM and I'll send access. Happy to answer any questions about how it works under the hood too.
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/openai-chatgpt-suicide-cases-22301936.php) • 7h ago
 
-7h ago
+---
+
+**[The cheapest option for coding with AI](https://www.reddit.com/r/artificial/comments/1upafyz/the_cheapest_option_for_coding_with_ai/)**
+
+I recently subscribed to OpenCode Go and wrote a post about my experience. I hope you find it useful: https://byandrev.dev/en/blog/the-cheapest-way-to-code-with-ai/
+
+1h ago
+
+---
+
+**[Nearly 90 Startups Hit Unicorn Status in Record First Half of 2026](https://www.reddit.com/r/artificial/comments/1uowx1s/nearly_90_startups_hit_unicorn_status_in_record/)**
+
+Artificial intelligence startups are driving an unprecedented surge in venture capital activity, with nearly 90 new unicorns emerging in the first half of 2026 alone — a pace that far exceeds previ…
+
+🔗 [Wealthari](https://wealthari.com/nearly-90-startups-hit-unicorn-status-in-record-first-half-of-2026/) • 9h ago
+
+---
+
+**[Building a permission layer for AI agents.](https://www.reddit.com/r/artificial/comments/1up1yil/building_a_permission_layer_for_ai_agents/)**
+
+Would you let an AI handle your invoices and orders if you could set limits and approve anything unusual from your phone as a business owner? I've been testing AI agents / workers that handle repetitive admin work such as reading supplier invoices, flagging low stock, drafting reorders, answering routine customer messages etc... The agents work but the problem is trust. No owner hands an AI the keys to their bank account or their customer database example like WhatsApp, because if it makes a mistake it makes it confidently and fast. I'm thinking of building a version that works like hiring a junior employee with strict rules. It can act alone only under limits you set (examples: payments under $150, only to suppliers you've approved) Anything bigger or unusual you get a message on your phone to approve or reject, one tap. Every single thing it does or tries to do is written in a log you can read in plain language. One button shuts it off instantly Its not "trust the AI" it's "the AI physically cannot exceed the authority you give it." Questions for people running a business Would you use something like this, or is any AI near your money a hard no? What's the first task you'd hand over invoices, reordering, customer replies, something else? What limit setup would make you comfortable? What would this need to save you time or money to be worth paying for as a subscription. Trying to find out if this solves a real problem or just an imaginary one.
+
+6h ago
 
 ---
 
@@ -119,9 +119,9 @@ I've been working on a browser game called Lord of Tokens where you run and inve
 
 ## Google News: "ai"
 
-**[Why A.I. Distillation Has Become a Hot Topic in the Race with China](https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html)**
+**[American A.I. Companies Say Chinese Copycats Are Quickly Catching Up](https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html)**
 
-The New York Times • 5h ago
+The New York Times • 7h ago
 
 ---
 
@@ -133,19 +133,9 @@ Fortune • 1d ago
 
 ---
 
-**[China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation](https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html)**
+**[How SK Hynix Can Save the AI Rally—or Send Tech Stocks Tumbling Again](https://www.barrons.com/articles/sk-hynix-stock-listing-memory-chip-tech-rally-aa517f82)**
 
-Chinese e-commerce giant Alibaba has put Anthropic's Claude Code on a high-risk software list.
-
-CNBC • 1h ago
-
----
-
-**[Samsung's AI Earnings Could Decide Chip Stocks' Next Move](https://finance.yahoo.com/technology/ai/articles/samsungs-ai-earnings-could-decide-165535923.html)**
-
-Record profit expectations put the memory giant at the center of the AI investment story.
-
-Yahoo Finance • 4h ago
+Barron's • 3h ago
 
 ---
 
@@ -153,19 +143,29 @@ Yahoo Finance • 4h ago
 
 A rebound for AI stocks lifted the U.S. market
 
-Los Angeles Times • 56m ago
+Los Angeles Times • 2h ago
 
 ---
 
-**[Tech Giants Lift Stocks in AI Trade Revival](https://www.bloomberg.com/news/newsletters/2026-07-06/tech-giants-lift-stocks-in-ai-trade-revival)**
+**[Stock market today: Dow, S&P 500, Nasdaq futures rise with AI trade in focus](https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-with-ai-trade-in-focus-223015294.html)**
 
-Bloomberg.com • 54m ago
+US stock futures edged up on the heels of a record-setting day on Wall Street.
+
+Yahoo Finance • 38m ago
 
 ---
 
-**[Opinion | Can AI Repair the Broken Modern State?](https://www.wsj.com/opinion/can-ai-repair-the-broken-modern-state-98a40428)**
+**[Samsung Scores Profit Beat Due to Runaway Demand for AI Memory](https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory)**
 
-WSJ • 1h ago
+Bloomberg.com • 21m ago
+
+---
+
+**[Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters](https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes)**
+
+Over 7T AI debt by 2029, There can be no Neoclouds without the Trinity. Nvidia's Backstop Economics Explained. AI Debt Needs Quantified. Nvidia's Objective is to Broaden Compute Access, Develop AI Financing, Grow Neoclouds.
+
+SemiAnalysis • 1h ago
 
 ---
 
@@ -173,23 +173,23 @@ WSJ • 1h ago
 
 AI-generated actor Tilly Norwood is set to star in her first feature film, with her creator saying that "art will be imitating life."
 
-CBS News • 3h ago
+CBS News • 4h ago
 
 ---
 
-**[AI ‘Actor’ Tilly Norwood To Star In Feature Film ‘Misaligned’](https://deadline.com/2026/07/tilly-norwood-ai-actor-misaligned-1236974639/)**
+**[Studio announces a feature film will star controversial AI actor Tilly Norwood](https://www.nbcnews.com/video/studio-announces-a-feature-film-will-star-controversial-ai-actor-tilly-norwood-266256965823)**
 
-Controversial AI actor Tilly Norwood will 'star' in Misaligned, marking the first time she has lead a feature film.
+The company behind AI actor Tilly Norwood announced it is working on a full-length film starring its controversial creation, which has been blasted by a major actors union as “devaluing human artistry.” Tilly Norwood was made by the AI company Particle6 Productions, led by comedian and writer Eline Van der Velden.
 
-Deadline • 8h ago
+NBC News • 1h ago
 
 ---
 
-**[Tilly Norwood to Lead New Movie ‘Misaligned,’ Marking Feature Debut for AI ‘Actor’](https://www.yahoo.com/entertainment/movies/articles/tilly-norwood-lead-movie-misaligned-130508851.html)**
+**[AI actor Tilly Norwood to star in first movie](https://www.latimes.com/entertainment-arts/business/story/2026-07-06/ai-actor-tilly-norwood-movie-hollywood-ai)**
 
-Tilly Norwood, the AI “actor” who sparked a frenzy of anger in Hollywood and across the wider industry in late 2025, is set to front her first feature film. “Misaligned,” announced by Particle 6, the ...
+AI actor Tilly Norwood will star in her first movie, a comedy drama called "Misaligned."
 
-Yahoo • 8h ago
+Los Angeles Times • 4h ago
 
 ---
 
@@ -209,7 +209,7 @@ You gather your most expensive people into a room to make your most important de
 
 Welcome to LTT Labs - your go-to destination for all things tech. Explore comprehensive test results, insightful commentary, and the latest analysis in hardware.
 
-⬆️ 242 • 💬 172 • 6h ago • [LTT Labs](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
+⬆️ 255 • 💬 183 • 8h ago • [LTT Labs](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
 
 ---
 
@@ -231,7 +231,7 @@ A Delta flight arriving at Chicago's Midway International Airport on the Fourth 
 
 Instead, buy domestic product, and out in the open.
 
-⬆️ 163 • 💬 74 • 21h ago • [readtheline.ca](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
+⬆️ 163 • 💬 74 • 23h ago • [readtheline.ca](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
 
 ---
 
@@ -247,7 +247,15 @@ At an internal meeting, the Meta CEO reportedly said that AI development efforts
 
 Anthropic spends 2.3x payroll on compute. Top software firms spend 0.4x. Three scenarios for where the rest of the market lands by 2029.
 
-⬆️ 123 • 💬 107 • 14h ago • [Tomasz Tunguz](https://tomtunguz.com/ai-spend-breakeven-2029/)
+⬆️ 123 • 💬 107 • 16h ago • [Tomasz Tunguz](https://tomtunguz.com/ai-spend-breakeven-2029/)
+
+---
+
+**[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://news.ycombinator.com/item?id=48807225)**
+
+OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation req...
+
+⬆️ 102 • 💬 31 • 6h ago • [GitHub](https://github.com/iOfficeAI/OfficeCLI)
 
 ---
 
@@ -265,15 +273,29 @@ Junior programmers are getting destroyed by AI — down 19%, while devs over 40 
 
 ---
 
-**[President pardons 9 for Clean Air violations for 'fixing their car'](https://news.ycombinator.com/item?id=48791091)**
-
-⬆️ 89 • 💬 60 • 1d ago • [msn.com](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[How To Create Vox-Style AI Motion Graphics (Full Workflow)](https://www.youtube.com/watch?v=Jkt4aTOpqpM)**
+
+I Made AI Animations Like Vox - Here's How To Edit Like Vox With AI! Try OpenArt Director: ...
+
+📺 Skai Generated
+
+👁️ 6K • ⏱️ 11:52 • 5h ago
+
+---
+
+**[OpenAI Cuts AI Inference in Half - OpenAI is DEAD](https://www.youtube.com/watch?v=f_To28fpBBc)**
+
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+
+📺 Eli the Computer Guy
+
+👁️ 4K • 👍 329 • 💬 58 • ⏱️ 10:17 • 3h ago
+
+---
 
 **[Trump HUMILIATED As July 4th AI Slopaganda Memes GO VIRAL!](https://www.youtube.com/watch?v=Kbqvi3rK73c)**
 
@@ -281,7 +303,17 @@ Really American Host Steve Harness Breaks Down Trump HUMILIATED By Viral July 4t
 
 📺 Really American
 
-👁️ 453K • 👍 18K • 💬 873 • ⏱️ 9:00 • 2d ago
+👁️ 465K • 👍 18K • 💬 881 • ⏱️ 9:00 • 2d ago
+
+---
+
+**[AI Just Decoded These Mysterious Crop Circles!](https://www.youtube.com/watch?v=I1ivRkaQyPQ)**
+
+Hi, it's Katrina! We are exploring the mysterious radio broadcasts and geometric patterns that have appeared across our world's ...
+
+📺 Origins Explained
+
+👁️ 38K • 👍 2K • 💬 235 • ⏱️ 28:46 • 1d ago
 
 ---
 
@@ -291,17 +323,7 @@ The private credit bust is now starting to spread into AI and the AI buildout wh
 
 📺 Eurodollar University
 
-👁️ 61K • 👍 3K • 💬 214 • ⏱️ 17:23 • 1d ago
-
----
-
-**[Godfather Of AI: We&#39;re Not Prepared For The Superintelligence That Is Coming - Geoffrey Hinton](https://www.youtube.com/watch?v=Yw0B3Gf2VP0)**
-
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Geoffrey Hinton, a Nobel laureate and ...
-
-📺 Neural Nutshell
-
-👁️ 20K • 👍 673 • 💬 158 • ⏱️ 19:14 • 1d ago
+👁️ 62K • 👍 3K • 💬 218 • ⏱️ 17:23 • 1d ago
 
 ---
 
@@ -311,67 +333,47 @@ There is a structure standing in the desert outside Cairo that, by every measure
 
 📺 New Discovery
 
-👁️ 122K • 👍 2K • 💬 259 • ⏱️ 30:44 • 1d ago
+👁️ 171K • 👍 2K • 💬 348 • ⏱️ 30:44 • 1d ago
 
 ---
 
-**[STOP Paying for AI Video: Seedance 2.0 Is FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=5sRtGJB0kDw)**
+**[Godfather Of AI: We&#39;re Not Prepared For The Superintelligence That Is Coming - Geoffrey Hinton](https://www.youtube.com/watch?v=Yw0B3Gf2VP0)**
 
-Try Seedance 2.0 on Higgsfield and start creating AI videos without burning credits ...
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Geoffrey Hinton, a Nobel laureate and ...
 
-📺 Malva AI
+📺 Neural Nutshell
 
-👁️ 12K • 👍 492 • 💬 88 • ⏱️ 9:20 • 1d ago
-
----
-
-**[BOMBSHELL Reports: Trump Administration DOGE cuts FALLOUT, AI bubble warning](https://www.youtube.com/watch?v=nbQXuMyCHAk)**
-
-Elon's Musk's 'DOGE' cuts fleeced the government workforce during the beginning of Trump's second term, eliminating tens of ...
-
-📺 MS NOW
-
-👁️ 186K • 👍 3K • 💬 761 • ⏱️ 6:34 • 11h ago
+👁️ 24K • 👍 747 • 💬 188 • ⏱️ 19:14 • 1d ago
 
 ---
 
-**[Jackie DeAngelis: This is a &#39;MASSIVE GROIN PUNCH&#39; in US&#39; AI race against China](https://www.youtube.com/watch?v=EGAqQXVbqAc)**
+**[Now ANYONE Can Build AI Apps!](https://www.youtube.com/watch?v=nDNw3RwSr9s)**
 
-'The Big Money Show' discusses China's AI advancements, highlighting the threat and implications to the United States' ...
+Try out Mesh API here: https://meshapi.ai Join my AI Bootcamp: https://link.meshapi.ai/build Learn to make AI Products like Apps ...
 
-📺 Fox Business
+📺 AI Fiesta
 
-👁️ 103K • 👍 2K • 💬 596 • ⏱️ 15:20 • 2d ago
-
----
-
-**[I Tried Every AI Video Generator So You Don&#39;t Have To](https://www.youtube.com/watch?v=FW_bzWIaJfs)**
-
-What is the best AI Video Generator? Seedance vs Grok vs Kling vs gemini Try out all AI video generators here   ...
-
-📺 Dan Kieft
-
-👁️ 26K • 💬 46 • ⏱️ 33:02 • 1d ago
+👁️ 104K • 👍 4K • 💬 283 • ⏱️ 11:31 • 2d ago
 
 ---
 
-**[Can China cheat its way to AI supremacy? | BBC News](https://www.youtube.com/watch?v=K8hYErmwhaI)**
+**[Qwen 3.6 + Pi Agent: Build Your Own AI Assistant (Full Setup)](https://www.youtube.com/watch?v=7KwoyDzxEuk)**
 
-The race between America and China to lead the world in artificial intelligence is reshaping the global balance of power.
+In this video I build an AI employee that runs my customer support inbox using Pi (pi.dev), the open source agent harness that ...
 
-📺 BBC News
+📺 Bart Slodyczka
 
-👁️ 42K • 👍 794 • 💬 414 • ⏱️ 26:13 • 1d ago
+👁️ 2K • 👍 70 • 💬 3 • ⏱️ 10:57 • 11h ago
 
 ---
 
-**[Turn NotebookLM into Long AI Video Engine (FREE)](https://www.youtube.com/watch?v=7ufIdzIyYGA)**
+**[Flock&#39;s A.I.-enabled street cameras see backlash across the country](https://www.youtube.com/watch?v=5fbmWnJGCtc)**
 
-This video was made using my Faceless YouTube Engine system. You can get the full guide here ...
+Activists are speaking out against new, A.I.-enabled cameras being used by municipalities across the country. Critics argue the ...
 
-📺 The AI Garage
+📺 NBC News
 
-👁️ 8K • 👍 465 • 💬 21 • ⏱️ 11:44 • 2d ago
+👁️ 346K • 👍 5K • 💬 2K • ⏱️ 6:08 • 2d ago
 
 ---
 
@@ -387,7 +389,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,617,508 • ❤️ 1,629 • 8d ago
+⬇️ 1,617,508 • ❤️ 1,635 • 8d ago
 
 ---
 
@@ -399,7 +401,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 231,218 • ❤️ 3,523 • 4d ago
+⬇️ 231,218 • ❤️ 3,529 • 4d ago
 
 ---
 
@@ -411,7 +413,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,070,230 • ❤️ 1,786 • 3d ago
+⬇️ 1,070,230 • ❤️ 1,790 • 3d ago
 
 ---
 
@@ -423,7 +425,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 8,766 • ❤️ 341 • 3d ago
+⬇️ 8,766 • ❤️ 344 • 3d ago
 
 ---
 
@@ -435,19 +437,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 2 • ❤️ 300 • 7h ago
-
----
-
-**[Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF)**
-
-*DeepReinforce*
-
-Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate high-quality code solutions and search trajectories, achieving top performance on benchmarks like Terminal-Bench and SWE-Bench.
-
-`text-generation` `34.7B`
-
-⬇️ 436,780 • ❤️ 755 • 11d ago
+⬇️ 2 • ❤️ 320 • 8h ago
 
 ---
 
@@ -459,7 +449,19 @@ The Qwen3.6-27B-NVFP4 is an FP4 quantized version of Alibaba's Qwen3.6-27B LLM, 
 
 `text-generation` `18.2B`
 
-⬇️ 430,676 • ❤️ 287 • 6d ago
+⬇️ 430,676 • ❤️ 289 • 6d ago
+
+---
+
+**[Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF)**
+
+*DeepReinforce*
+
+Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate high-quality code solutions and search trajectories, achieving top performance on benchmarks like Terminal-Bench and SWE-Bench.
+
+`text-generation` `34.7B`
+
+⬇️ 436,780 • ❤️ 756 • 11d ago
 
 ---
 
@@ -471,7 +473,7 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 7,036 • ❤️ 253 • 2d ago
+⬇️ 7,036 • ❤️ 255 • 2d ago
 
 ---
 
@@ -483,7 +485,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 370,884 • ❤️ 1,048 • 17d ago
+⬇️ 370,884 • ❤️ 1,049 • 17d ago
 
 ---
 
@@ -495,7 +497,7 @@ DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mix
 
 `text-generation` `889.5B`
 
-⬇️ 14,276 • ❤️ 408 • 2d ago
+⬇️ 14,276 • ❤️ 409 • 2d ago
 
 ---
 
@@ -618,7 +620,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
 
-▲ 13 • 💬 2 • ⭐ 18,831 • 16mo ago
+▲ 13 • 💬 2 • ⭐ 18,878 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.18443) • [💻 code](https://github.com/allenai/olmocr) • [🔗 project](https://olmocr.allenai.org/)
 
@@ -659,7 +661,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 75.8k • 🔱 4.0k • 4d ago
+⭐ 75.9k • 🔱 4.0k • 4d ago
 
 ---
 
@@ -669,7 +671,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.5k • 🔱 1.1k • 6h ago
+⭐ 11.5k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -679,7 +681,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.4k • 🔱 842 • 1h ago
+⭐ 6.4k • 🔱 846 • 34m ago
 
 ---
 
@@ -689,7 +691,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 6.2k • 🔱 793 • 6h ago
+⭐ 6.2k • 🔱 796 • 8h ago
 
 ---
 
@@ -699,7 +701,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 2.5k • 🔱 604 • 5h ago
+⭐ 2.6k • 🔱 620 • 6h ago
 
 ---
 
@@ -709,7 +711,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.5k • 🔱 216 • 3d ago
+⭐ 2.5k • 🔱 215 • 3d ago
 
 ---
 
@@ -729,7 +731,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.1k • 🔱 72 • 1h ago
+⭐ 2.1k • 🔱 73 • 2h ago
 
 ---
 

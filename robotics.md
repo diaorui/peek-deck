@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-06T21:55:19.955677+00:00'
+updated: '2026-07-06T23:08:41.000326+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 06, 2026 at 21:55 UTC  
+**Last Updated:** July 06, 2026 at 23:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle-stop demo on my drone. it is easy to replicate. l will open-sourcing on GitHub soon.
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle
 
 I sometimes need to tune the inertial property of the robot by changing the density or mass of each parts. Doing it in CAD and have it re-export to URDF takes a bit long and too tedious. So this online editor lets you (and me) quickly make changes, and have the inertia tensor of the links be recomputed immediately. You can then copy-paste the updated URDF. This is basically entirely made by claude (with some of my help :)) (And yes, it is placed under my startup's domain as a potential lead magnet. but I think it could be useful for some people nonetheless. EDIT (forgot to post the link) Welcome to try: https://urdf.aperobotics.io/
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ I sometimes need to tune the inertial property of the robot by changing the dens
 
 Have been building this project for a while now, and would love to get eyes on it. Will appreciate it if you could try it out in actual workflows and give me feedback so I can decide the direction to move in. Currently it has been benchmarked against OPEN3D v0.19 on the same machine, using full-resolution frames from three real datasets: TUM RGB-D, KITTI, and nuScenes-mini. In the table below, higher is better — a ratio above 1 means ThreeCrate is faster than Open3D. Workload How ThreeCrate compares Reading files (raw float parsing) 1.8x–2.2x faster Voxel downsampling (CPU) 1.6x–1.8x faster Voxel downsampling (GPU, wgpu) 1.8x–2.9x faster (vs our own CPU path, not Open3D) Normal estimation 0.57x–1.09x (falls behind on big clouds) Single-scale ICP 0.71x–0.99x (falls behind on big clouds) Would appreciate any contributions and feedback for the repo. Link to the repo: https://github.com/rajgandhi1/threecrate
 
-6h ago
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ Have been building this project for a while now, and would love to get eyes on i
 
 Found this demo on their project page showing exactly the transparent-surface problem that breaks most RGB-D setups. Raw sensor depth drops to nothing on the glass panel, and the completion model fills it in from the backbone features. Only the four vision encoders went up on HuggingFace and GitHub this week under Apache-2.0; the depth completion weights themselves are not released. Their paper lists NYUv2 RMSE of 0.296 for the flagship ViT-g, and they report 2.552 on KITTI, trailing both DINOv3-7B and V-JEPA 2.1. For actual robotics work this is the exact failure mode that makes wine glasses and steel cabinets a consistent headache for grasp pipelines. Curious how people see validating these depth numbers when the completion weights are not available for independent testing.
 
-2h ago
+4h ago
 
 ---
 
@@ -68,13 +68,13 @@ Found this demo on their project page showing exactly the transparent-surface pr
 
 I see a lot of smaller parts are costlier than the usual sizes. Even for screws , it sometimes costs 2k rs. Why is this? Don't tell that it's because of the import duty.
 
-7h ago
+8h ago
 
 ---
 
 **[Update on BAGEL: new features and future plans!](https://www.reddit.com/r/robotics/comments/1up4olv/update_on_bagel_new_features_and_future_plans/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 Is there anyone who could help me regarding controlling multiple robstride o2 motor? What im trying to do is to control multiple Robstride o2 motors (preferably 3) with the default CAN to USB debugger it came with. Is it possible to control multiple motor with that?. I search around the internet for guides, says it'll work if i daisy chained the motor?. I tried wiring 2 motors , first i tried to wire it parallel and second i tried Daisy chain wiring. But it always result the same. Using robstride official software motorstudio it only detects and control 1 motor (the nearest motor to the CAN-USB debugger). And i know it's not a faulty motor or anything since if i only test 1 motor using the CAN-USB debugger . The motor still works (i can rotate it around and such) I tried using ai to solve this. And it still dont work. I mean i understand that ai can sometimes be bs. So if anyone here can help me, That would be really great, also sorry if this is a dumb question 🙏
 
-16h ago
+17h ago
 
 ---
 
@@ -90,7 +90,7 @@ Is there anyone who could help me regarding controlling multiple robstride o2 mo
 
 Hi, I have an interview with Neuralink for this fall for robotics software engineer intern. I was wondering what should i expect and what is the interview process. Thank you.
 
-3h ago
+5h ago
 
 ---
 
@@ -106,7 +106,7 @@ Boston Dynamics is developing Atlas using an AI-based system instead of relying 
 
 Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is focused on repetitive warehouse and manufacturing tasks like moving totes, unloading AMRs, placing items on shelves, and connecting parts of existing automation systems. He says these are useful “in-between” automation roles where companies do not want to heavily modify infrastructure. The article covers Agility’s partnership with NVIDIA as the first partner for Halos for Robots, NVIDIA’s autonomous safety platform for robots, as well as Agility’s plan to go public through a merger with Churchill Capital Corp. XI, giving the company a $2.5 billion pre-money valuation and $620 million in expected gross proceeds.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 8h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 9h ago
 
 ---
 
@@ -118,13 +118,13 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
 
-TechCrunch • 15h ago
+TechCrunch • 17h ago
 
 ---
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 17h ago
+WSJ • 19h ago
 
 ---
 
@@ -132,7 +132,7 @@ WSJ • 17h ago
 
 Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Guardian • 21h ago
 
 Hyundai Motor integrated Atlas®, an advanced humanoid robot developed by Boston Dynamics, into FIFA World Cup 2026™
 
-hyundai.com • 22h ago
+hyundai.com • 23h ago
 
 ---
 
@@ -154,7 +154,15 @@ Bloomberg.com • 1d ago
 
 KIDZ AI Named 2026 EdTechX Award Winner for the Americas, recognizing the Company's innovation and leadership in AI-powered education. KIDZ AI Launches KIDZBot AI Robotics Platform, an integrated AI-native robotics platform that incorporates advanced ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Newfoundland robotics firm eyes revenue, market growth with U.K. acquisition](https://www.saltwire.com/newfoundland-labrador/kraken-robotics-acquires-uk-firm)**
+
+St. John's-based Kraken Robotics Inc. has officially taken over U.K.'s Covelya Group Limited in a deal worth $615 million
+
+PNI Atlantic News • 12h ago
 
 ---
 
@@ -162,7 +170,7 @@ Yahoo Finance • 10h ago
 
 The nonbinding LOI targets a California company with deterministic connectivity tech. GMEX says it could lift fleet reliability and software revenue.
 
-Stock Titan • 9h ago
+Stock Titan • 10h ago
 
 ---
 
@@ -176,15 +184,7 @@ Tech Xplore • 3d ago
 
 Queue unveils a fully autonomous robotic pharmacy that automates prescription dispensing, cutting costs and improving access.
 
-Interesting Engineering • 11h ago
-
----
-
-**[Newfoundland robotics firm eyes revenue, market growth with U.K. acquisition](https://www.saltwire.com/newfoundland-labrador/kraken-robotics-acquires-uk-firm)**
-
-St. John's-based Kraken Robotics Inc. has officially taken over U.K.'s Covelya Group Limited in a deal worth $615 million
-
-PNI Atlantic News • 11h ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -192,59 +192,23 @@ PNI Atlantic News • 11h ago
 
 ## YouTube Videos: "robotics"
 
-**[THE ULTIMATE NODENS IS DEAD... IT BARELY EVEN HEALS ANYMORE! (War Robots)](https://www.youtube.com/watch?v=0knao-0K7ZI)**
-
-In this video I tested out the Ultimate Nodens nerf. https://wr.my.games/Wolfblood7.
-
-📺 Wolfblood7
-
-👁️ 2K • 👍 142 • 💬 67 • ⏱️ 13:19 • 14h ago
-
----
-
-**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
-
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 66K • 👍 4K • 💬 2K • ⏱️ 13:09 • 1d ago
-
----
-
 **[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
 China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
 
 📺 AI Revolution
 
-👁️ 80K • 👍 2K • 💬 377 • ⏱️ 13:32 • 1d ago
+👁️ 83K • 👍 2K • 💬 392 • ⏱️ 13:32 • 2d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=aIamULUXZI0)**
+**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
 
-📺 Robot Julie 
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
 
-👁️ 11K • 👍 75 • ⏱️ 0:22 • 20h ago
+📺 South China Morning Post
 
----
-
-**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
-
-📺 Kevin Wood | Robotics & AI
-
-👁️ 1.4M • 👍 3K • 💬 90 • ⏱️ 0:14 • 3d ago
-
----
-
-**[#HumanoidRobot #RobotAttack #Indonesia #AI #ArtificialIntelligence #Robotics #RobotNews #ViralVideo](https://www.youtube.com/watch?v=f9nSkuew-8E)**
-
-CSB IAS ACADEMY OFFICIAL Youtube Channel Link ...
-
-📺 Bala Latha Madam
-
-👁️ 2K • 👍 108 • 💬 2 • ⏱️ 0:55 • 5h ago
+👁️ 238K • 👍 7K • 💬 2K • ⏱️ 3:59 • 5d ago
 
 ---
 
@@ -254,37 +218,75 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 7K • 👍 271 • 💬 8 • ⏱️ 10:56 • 1d ago
+👁️ 8K • 👍 398 • 💬 13 • ⏱️ 10:56 • 2d ago
 
 ---
 
-**[POV: A 5G Robot Performs Your Surgery 🤯 #shorts #science](https://www.youtube.com/watch?v=-kHW_3rSJEk)**
+**[THE ULTIMATE NODENS IS DEAD... IT BARELY EVEN HEALS ANYMORE! (War Robots)](https://www.youtube.com/watch?v=0knao-0K7ZI)**
 
-Ever wondered what happens when medical science meets ultra-fast 5G technology? This animation shows how remote robotic ...
+In this video I tested out the Ultimate Nodens nerf. https://wr.my.games/Wolfblood7.
 
-📺 Dr.Health MD
+📺 Wolfblood7
 
-👁️ 13K • 👍 453 • 💬 5 • ⏱️ 1:05 • 1d ago
-
----
-
-**[NEW Ultimate RAVEN will change War Robots [Test Server]](https://www.youtube.com/watch?v=wUelW96CEKQ)**
-
-War Robots Test Server Gameplay: NEW Ultimate RAVEN is coming to WR My War Robots Creator Link: ...
-
-📺 Manni-Gaming
-
-👁️ 8K • 👍 438 • 💬 89 • ⏱️ 14:47 • 1d ago
+👁️ 3K • 👍 151 • 💬 73 • ⏱️ 13:19 • 16h ago
 
 ---
 
-**[The Brand New ANTHBOT M9 Pro Robot Mower](https://www.youtube.com/watch?v=RWa1Iao9-BU)**
+**[I Built My First AI Robot](https://www.youtube.com/watch?v=Sf-nklw0ljQ)**
 
-With LIDAR, dual cameras and RTK the ANTHBOT M9 Pro is a new contender for the most intelligent robot mower.
+Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a robot from scratch named Bop — powered by an NVIDIA ...
 
-📺 Proper DIY - Tools & Effect
+📺 Coding with Lewis
 
-👁️ 21K • 👍 2K • 💬 95 • ⏱️ 10:22 • 1d ago
+👁️ 25K • 👍 965 • 💬 56 • ⏱️ 10:19 • 4d ago
+
+---
+
+**[Ubitech U1 Humanoid Robot Reveal Leaves Fans SHOCKED #news #technology #china #robot](https://www.youtube.com/watch?v=Sy0tj2Z5gA8)**
+
+Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its global launch, and the reaction online is impossible to ...
+
+📺 SXE China
+
+👁️ 110K • 👍 1K • 💬 174 • ⏱️ 0:52 • 6d ago
+
+---
+
+**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 1.4M • 👍 3K • 💬 91 • ⏱️ 0:14 • 3d ago
+
+---
+
+**[This AI Camera Robot Is Unlike Anything I&#39;ve Tested - Meet Beni!](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+
+📺 51 Drones
+
+👁️ 44K • 👍 509 • 💬 95 • ⏱️ 12:50 • 5d ago
+
+---
+
+**[Massachusetts state police use robotic dog and drone in highway standoff](https://www.youtube.com/watch?v=qUrEOuR1DQU)**
+
+In Massachusetts, police turned to high-tech devices during a standoff with a suspected shooter on a busy highway.
+
+📺 NBC News
+
+👁️ 158K • 👍 2K • 💬 498 • ⏱️ 2:09 • 4d ago
+
+---
+
+**[#HumanoidRobot #RobotAttack #Indonesia #AI #ArtificialIntelligence #Robotics #RobotNews #ViralVideo](https://www.youtube.com/watch?v=f9nSkuew-8E)**
+
+CSB IAS ACADEMY OFFICIAL Youtube Channel Link ...
+
+📺 Bala Latha Madam
+
+👁️ 3K • 👍 116 • 💬 2 • ⏱️ 0:55 • 7h ago
 
 ---
 
