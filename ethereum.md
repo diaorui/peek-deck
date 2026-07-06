@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-06T20:25:07.631096+00:00'
+updated: '2026-07-06T21:55:19.952487+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 06, 2026 at 20:25 UTC  
+**Last Updated:** July 06, 2026 at 21:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,789.47
+### $1,819.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +13.8%  
-**30d:** +5.8%  
-**90d:** -18.3%  
-**1y:** -29.7%  
+**24h:** +1.6%  
+**7d:** +15.5%  
+**30d:** +7.4%  
+**90d:** -17.0%  
+**1y:** -28.6%  
 
 ---
 
@@ -152,11 +152,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin says Ethereum's next rebuild will rival the Merge, and take three to four years](https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years)**
+**[Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs](https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs)**
 
-He said quantum safety has "shifted up a LOT in priority" and that Hegota, slated for later this year, will likely be Ethereum's last "pre-Lean" hard fork.
+Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
 
-The Block • 1d ago
+The Block • 5h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 1d ago
 
 Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.
 
-Decrypt • 7h ago
+Decrypt • 9h ago
 
 ---
 
@@ -176,7 +176,7 @@ Scott Melker discusses how Bitmine Immersion Technologies (BMNR) purchased anoth
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 2h ago
 
 In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
 
-PR Newswire • 6h ago
+PR Newswire • 7h ago
 
 ---
 
@@ -192,7 +192,7 @@ PR Newswire • 6h ago
 
 The second-largest digital asset treasury increased its buying pace, while Strategy sold a chunk of its bitcoin holdings.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Motley Fool • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 9h ago
 
 ---
 
@@ -216,7 +216,7 @@ Fortune • 7h ago
 
 Gareth Soloway, chief market strategist at VerifiedInvesting.com, says the crypto market has entered a meaningful short-term recovery phase, but warns
 
-Coinpedia • 18h ago
+Coinpedia • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ Coinpedia • 18h ago
 
 DUBAI, United Arab Emirates, July  06, 2026  (GLOBE NEWSWIRE) -- Pepeto, a new crypto built on Ethereum, has pushed its DeFi suite another step cl...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 5h ago
 
 ---
 
@@ -232,7 +232,7 @@ markets.businessinsider.com • 3h ago
 
 StrengthsCrédit Agricole, France’s second-largest bank by assets, has launched EURXT, a euro-backed stablecoin fully compliant with the EU’s MiCA framework. The token debuted with 20 million EURXT in circulation and has already been used to settle a subscription into a tokenized Amundi money market fund, highlighting growing institutional adoption of tokenized finance. The EU’s Markets in Crypto-Assets (MiCA) regulation is now fully in force, requiring crypto firms to obtain a license to operate across the bloc. Industry leaders say the unified framework strengthens transparency, investor protection and banking relationships, marking a major milestone in the maturation of Europe’s digital asset market.&nbsp;Ethereum Institutional has launched as an independent nonprofit to help financial institutions adopt Ethereum for tokenization, stablecoins and onchain finance. Backed by industry leaders including Ethereum co-founder Joseph Lubin, the initiative provides enterprises with a dedicated gateway to the Ethereum ecosystem, reinforcing Ethereum’s position in institutional digital finance.&nbsp;WeaknessesU.S. spot Bitcoin ETFs are on pace for a record $4.1 billion in monthly outflows, with BlackRock's IBIT accounting for nearly $3 billion. At the same time, uncertainty surrounding Strategy's financing model has raised concerns over one of Bitcoin's largest corporate buyers, signaling weaker institutional demand for the cryptocurrency.&nbsp;Binance withdrew its MiCA license application in Greece after European regulators raised concerns over the exchange’s history of financial crime compliance. The setback temporarily limits Binance’s ability to operate across the European Union under the new Markets in Crypto-Assets (MiCA) regulatory framework, highlighting how stricter compliance standards are reshaping competition in the crypto industry.Crypto infrastructure firm BitGo cut 15% of its workforce as it refocuses on security, stablecoins, settlement and AI-powered infrastructure. The restructuring follows a quarter in which revenue grew 112.6% year over year, but net losses widened to $60.7 million, emphasizing ongoing profitability challenges.OpportunitiesMore than 100 financial institutions, fintechs, banks and crypto firms, including Visa, Stripe, BNY Mellon, BlackRock and Coinbase, have joined the Open Standard initiative to launch a U.S. dollar-backed stablecoin later this year. The alliance aims to build an open, interoperable payment infrastructure, expanding enterprise adoption and accelerating the mainstream use of stablecoins for global transactions.The SEC has opened a 60-day public consultation to modernize ETF regulations, potentially expanding eligibility to crypto, prediction markets and other novel assets. The review comes as the U.S. ETF market has grown from $4 trillion in 2019 to $12 trillion in 2025, signaling continued regulatory support for product innovation and market expansion.The UK's Financial Conduct Authority finalized a comprehensive regulatory framework covering crypto trading platforms, stablecoins, custody, staking and market abuse. The new regime provides greater regulatory certainty ahead of mandatory authorization in October 2027, supporting innovation while strengthening investor protection and market integrity.&nbsp;ThreatsEdel Finance paused its lending protocol after an attacker manipulated the collateral value of a tokenized Google stock, creating approximately $403,000 in bad debt. The incident highlights persistent security risks in tokenized assets and DeFi, where pricing manipulation remains one of the industry's most common smart contract vulnerabilities.&nbsp;South Korea’s Financial Services Commission referred two individuals for prosecution over alleged crypto market manipulation, including a whale accused of accumulating nearly half of a token’s circulating supply before executing a pump-and-dump scheme. The cases highlight ongoing market integrity risks despite increasing regulatory oversight.&nbsp;A Florida man pleaded guilty to operating a crypto Ponzi scheme that caused at least $250 million in investor losses after raising more than $400 million through false promises of returns from crypto liquidity pools. The case emphasizes that fraud remains a significant threat to investor confidence despite the industry's growing institutional adoption.&nbsp;
 
-KITCO • 10h ago
+KITCO • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 346 • 💬 106 • ⏱️ 17:12 • 5h ago
+👁️ 4K • 👍 346 • 💬 106 • ⏱️ 17:12 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
 📺 Credible Crypto
 
-👁️ 2K • 👍 232 • 💬 22 • ⏱️ 1:03:11 • 1h ago
+👁️ 2K • 👍 232 • 💬 22 • ⏱️ 1:03:11 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ Ethereum is trying to solve five major problems at once — speed, decentralizat
 
 📺 CoinGecko
 
-👁️ 1K • 👍 122 • 💬 33 • ⏱️ 10:28 • 9h ago
+👁️ 1K • 👍 122 • 💬 33 • ⏱️ 10:28 • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy In th
 
 📺 Digital Asset Investor
 
-👁️ 15K • 👍 1K • 💬 11 • ⏱️ 20:10 • 7h ago
+👁️ 15K • 👍 1K • 💬 11 • ⏱️ 20:10 • 8h ago
 
 ---
 
@@ -286,7 +286,7 @@ JULY 4TH SALE: UP TO $800 Off Indicators/ +20% Off Metric Charts: https://tradec
 
 📺 Trade Confident
 
-👁️ 95 • 👍 10 • 💬 1 • ⏱️ 5:35 • 2h ago
+👁️ 95 • 👍 10 • 💬 1 • ⏱️ 5:35 • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 278 • 👍 30 • 💬 8 • ⏱️ 1:09:10 • 1h ago
+👁️ 278 • 👍 30 • 💬 8 • ⏱️ 1:09:10 • 2h ago
 
 ---
 
@@ -316,7 +316,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 1K • 👍 235 • 💬 25 • ⏱️ 13:52 • 3h ago
+👁️ 1K • 👍 235 • 💬 25 • ⏱️ 13:52 • 4h ago
 
 ---
 
@@ -326,7 +326,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 5K • 👍 250 • 💬 54 • ⏱️ 9:44 • 7h ago
+👁️ 5K • 👍 250 • 💬 54 • ⏱️ 9:44 • 9h ago
 
 ---
 
@@ -336,7 +336,7 @@ Who could have known that Ripple partnering with one of the largest banks on the
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 710 • 💬 68 • ⏱️ 37:30 • 11h ago
+👁️ 6K • 👍 710 • 💬 68 • ⏱️ 37:30 • 13h ago
 
 ---
 
