@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-06T12:24:33.781329+00:00'
+updated: '2026-07-06T16:00:16.568629+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 06, 2026 at 12:24 UTC  
+**Last Updated:** July 06, 2026 at 16:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,776.35
+### $1,774.02
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +11.1%  
-**30d:** +3.3%  
-**90d:** -20.2%  
-**1y:** -31.4%  
+**24h:** +0.9%  
+**7d:** +13.8%  
+**30d:** +5.8%  
+**90d:** -18.3%  
+**1y:** -29.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $210.82B
+**Market Cap:** $215.26B
 Rank #2
 
 **Circulating Supply:** 120,683,200 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.7%
+-63.9%
 
 **All-Time Low:** $0.43
-+403363.0%
++412072.4%
 
 ---
 
@@ -128,7 +128,7 @@ One day the world will wake up and see Ethereum as fraud prevention instead of f
 
 Ethereum basics for governments & institutions, Ethereum Institutional launched, Robinhood Chain live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-30/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-30/) • 3d ago
 
 ---
 
@@ -156,23 +156,47 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 He said quantum safety has "shifted up a LOT in priority" and that Hegota, slated for later this year, will likely be Ethereum's last "pre-Lean" hard fork.
 
-The Block • 16h ago
+The Block • 20h ago
 
 ---
 
-**[Can Ethereum Price Hit $62,000? We Assess Tom Lee's Bull Case as He Renews Bold ETH Predictions](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-hit-62-000-150715801.html)**
+**[Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin](https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin)**
 
-Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
+Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.
 
-Yahoo Finance • 2d ago
+Decrypt • 3h ago
 
 ---
 
-**[Which Crypto Can Make You a Millionaire by 2030 With $10,000? We Compared XRP, BTC, ETH, SOL, and HYPE](https://247wallst.com/investing/cryptocurrency/2026/07/05/which-crypto-can-make-you-a-millionaire-by-2030-with-10000-we-compared-xrp-btc-eth-sol-and-hype/)**
+**[Bitcoin and ethereum prices today, Monday, July 6, 2026: Prices falling after last week's rebound](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-6-2026-prices-falling-after-last-weeks-rebound-131307981.html)**
 
-Can $10,000 in XRP, Bitcoin, Ethereum, Solana, or Hyperliquid make you a millionaire by 2030? Let's see which crypto has a real shot.
+Bitcoin opened at $63,589.95 on Monday, July 6, 2026, 0.8% higher than Sunday's opening price. As of 8:50 a.m. ET this morning, the price of bitcoin moved down to $61,677.54. Ethereum opened at $1,784.15 on Monday, July 6, 2026, up 0.3% from Sunday's opening price. The price of ethereum moved lower this morning to $1,737.53 as of 8:50 a.m. ET.
 
-24/7 Wall St. • 18h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitmine Purchases Another $74 Million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-another-74-million-134600258.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) continued to purchase Ethereum (CRYPTO: $ETH) over the past week as th...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-73-144145212.html)**
+
+BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
+
+The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
+
+CoinDesk • 23m ago
 
 ---
 
@@ -184,51 +208,27 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Current price of Ethereum for July 6, 2026](https://fortune.com/article/price-of-ethereum-07-06-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
+
+---
+
 **[Top Analyst Reveals What’s Next For Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/top-analyst-reveals-whats-next-for-bitcoin-ethereum-and-xrp-prices-4/)**
 
 Gareth Soloway, chief market strategist at VerifiedInvesting.com, says the crypto market has entered a meaningful short-term recovery phase, but warns
 
-Coinpedia • 10h ago
+Coinpedia • 14h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Rally as 'Extreme Fear' Persists: Analyst Expects a 'Quick' Move Upward](https://www.benzinga.com/crypto/cryptocurrency/26/07/60270490/bitcoin-ethereum-xrp-and-dogecoin-rally-as-extreme-fear-persists-analyst-sees-quick-btc-rebound-after-shallow-correction)**
+**[Crypto SWOT: New nonprofit aims to accelerate institutional Ethereum adoption](https://www.kitco.com/opinion/2026-07-06/crypto-swot-new-nonprofit-aims-accelerate-institutional-ethereum-adoption)**
 
-Leading cryptocurrencies gained alongside stock futures on Sunday, July 5, as investors braced for the release of the Federal Reserve’s June meeting minutes.
+StrengthsCrédit Agricole, France’s second-largest bank by assets, has launched EURXT, a euro-backed stablecoin fully compliant with the EU’s MiCA framework. The token debuted with 20 million EURXT in circulation and has already been used to settle a subscription into a tokenized Amundi money market fund, highlighting growing institutional adoption of tokenized finance. The EU’s Markets in Crypto-Assets (MiCA) regulation is now fully in force, requiring crypto firms to obtain a license to operate across the bloc. Industry leaders say the unified framework strengthens transparency, investor protection and banking relationships, marking a major milestone in the maturation of Europe’s digital asset market.&nbsp;Ethereum Institutional has launched as an independent nonprofit to help financial institutions adopt Ethereum for tokenization, stablecoins and onchain finance. Backed by industry leaders including Ethereum co-founder Joseph Lubin, the initiative provides enterprises with a dedicated gateway to the Ethereum ecosystem, reinforcing Ethereum’s position in institutional digital finance.&nbsp;WeaknessesU.S. spot Bitcoin ETFs are on pace for a record $4.1 billion in monthly outflows, with BlackRock's IBIT accounting for nearly $3 billion. At the same time, uncertainty surrounding Strategy's financing model has raised concerns over one of Bitcoin's largest corporate buyers, signaling weaker institutional demand for the cryptocurrency.&nbsp;Binance withdrew its MiCA license application in Greece after European regulators raised concerns over the exchange’s history of financial crime compliance. The setback temporarily limits Binance’s ability to operate across the European Union under the new Markets in Crypto-Assets (MiCA) regulatory framework, highlighting how stricter compliance standards are reshaping competition in the crypto industry.Crypto infrastructure firm BitGo cut 15% of its workforce as it refocuses on security, stablecoins, settlement and AI-powered infrastructure. The restructuring follows a quarter in which revenue grew 112.6% year over year, but net losses widened to $60.7 million, emphasizing ongoing profitability challenges.OpportunitiesMore than 100 financial institutions, fintechs, banks and crypto firms, including Visa, Stripe, BNY Mellon, BlackRock and Coinbase, have joined the Open Standard initiative to launch a U.S. dollar-backed stablecoin later this year. The alliance aims to build an open, interoperable payment infrastructure, expanding enterprise adoption and accelerating the mainstream use of stablecoins for global transactions.The SEC has opened a 60-day public consultation to modernize ETF regulations, potentially expanding eligibility to crypto, prediction markets and other novel assets. The review comes as the U.S. ETF market has grown from $4 trillion in 2019 to $12 trillion in 2025, signaling continued regulatory support for product innovation and market expansion.The UK's Financial Conduct Authority finalized a comprehensive regulatory framework covering crypto trading platforms, stablecoins, custody, staking and market abuse. The new regime provides greater regulatory certainty ahead of mandatory authorization in October 2027, supporting innovation while strengthening investor protection and market integrity.&nbsp;ThreatsEdel Finance paused its lending protocol after an attacker manipulated the collateral value of a tokenized Google stock, creating approximately $403,000 in bad debt. The incident highlights persistent security risks in tokenized assets and DeFi, where pricing manipulation remains one of the industry's most common smart contract vulnerabilities.&nbsp;South Korea’s Financial Services Commission referred two individuals for prosecution over alleged crypto market manipulation, including a whale accused of accumulating nearly half of a token’s circulating supply before executing a pump-and-dump scheme. The cases highlight ongoing market integrity risks despite increasing regulatory oversight.&nbsp;A Florida man pleaded guilty to operating a crypto Ponzi scheme that caused at least $250 million in investor losses after raising more than $400 million through false promises of returns from crypto liquidity pools. The case emphasizes that fraud remains a significant threat to investor confidence despite the industry's growing institutional adoption.&nbsp;
 
-Benzinga • 10h ago
-
----
-
-**[Ethereum Foundation Transfers 2,469 stETH to Argot as Fourth-Year Grant](https://financefeeds.com/ethereum-foundation-transfers-2469-steth-to-argot-as-fourth-year-grant/)**
-
-The Ethereum Foundation has transferred 2,469 stETH to Argot Collective as the fourth-year installment of a five-year funding commitment supporting critical
-
-FinanceFeeds • 4h ago
-
----
-
-**[Vitalik’s new Lean Ethereum plan puts ETH’s Wall Street pitch on a 4 year clock](https://cryptoslate.com/vitaliks-lean-ethereum-plan-turns-eths-wall-street-pitch-into-a-delivery-reckoning/)**
-
-Vitalik’s Lean Ethereum roadmap gives institutions a stronger ETH case while raising the stakes for Ethereum to deliver.
-
-CryptoSlate • 5h ago
-
----
-
-**[Ethereum Mini Trust Feels the Chill as Investors Pull Cash from Grayscale’s ETH Fund](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-feels-the-chill-as-investors-pull-cash-from-grayscales-eth-fund)**
-
-Ethereum jitters ripple through Grayscale as Mini Trust sees notable outflow Grayscale Ethereum Mini Trust (ETH) reported a sizeable outflow on July 02, 2026, with ...
-
-TipRanks • 2h ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP advance amid renewed capital inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-advance-amid-renewed-capital-inflows-202607031200)**
-
-Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
-
-FXStreet • 4mo ago
+KITCO • 2h ago
 
 ---
 
@@ -242,7 +242,7 @@ Ethereum is trying to solve five major problems at once — speed, decentralizat
 
 📺 CoinGecko
 
-👁️ 251 • 👍 37 • 💬 40 • ⏱️ 10:28 • 1h ago
+👁️ 745 • 👍 85 • 💬 27 • ⏱️ 10:28 • 5h ago
 
 ---
 
@@ -252,7 +252,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 667 • 💬 79 • ⏱️ 13:11 • 23h ago
+👁️ 16K • 👍 696 • 💬 81 • ⏱️ 13:11 • 1d ago
+
+---
+
+**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
+
+Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
+
+📺 Crypto Capital Venture
+
+👁️ 969 • 👍 140 • 💬 24 • ⏱️ 17:12 • 57m ago
 
 ---
 
@@ -262,7 +272,17 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 73 • 💬 11 • ⏱️ 10:00 • 20h ago
+👁️ 3K • 👍 77 • 💬 11 • ⏱️ 10:00 • 1d ago
+
+---
+
+**[Why Vitalik Just Attacked XRP (Prediction Markets Alert)](https://www.youtube.com/watch?v=nWm4VSX2v5g)**
+
+Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy In the video "Vitalik Declares War on Ripple & XRP ...
+
+📺 Digital Asset Investor
+
+👁️ 6K • 👍 1K • 💬 1 • ⏱️ 20:10 • 2h ago
 
 ---
 
@@ -272,47 +292,7 @@ Who could have known that Ripple partnering with one of the largest banks on the
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 399 • 💬 67 • ⏱️ 37:30 • 3h ago
-
----
-
-**[📉 Ethereum Could Drop 27% Behind Bitcoin. Here&#39;s Why.](https://www.youtube.com/watch?v=GZ9sBJOWjPg)**
-
-Ethereum is quietly losing ground to the rest of crypto, and the data is flashing warning signs. A key market share level has been ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 48 • 👍 2 • 💬 1 • ⏱️ 1:22 • 24m ago
-
----
-
-**[Solana DeFi is Undervalued: 4 Coins to Watch](https://www.youtube.com/watch?v=4P3oFfue2OE)**
-
-Grayscale just put it in writing. Solana DeFi is undervalued. Ethereum DeFi is overvalued. Four protocols. All under a billion in ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 579 • 💬 112 • ⏱️ 10:23 • 1d ago
-
----
-
-**[&quot;Load Up In July! Why This Crypto BULL MARKET Will Be SHOCKING&quot;: Matt Hougan &amp; Tom Lee](https://www.youtube.com/watch?v=95fLDF5cYaU)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 198 • 💬 19 • ⏱️ 18:59 • 1d ago
-
----
-
-**[BITCOIN SHORT SQUEEZE OVER (New Trade Setup)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JFu-iJVsIkI)**
-
-BITCOIN SHORT SQUEEZE OVER (New Trade Setup)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 338 • 💬 91 • ⏱️ 18:40 • 18h ago
+👁️ 4K • 👍 626 • 💬 61 • ⏱️ 37:30 • 7h ago
 
 ---
 
@@ -322,17 +302,37 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 82 • ⏱️ 7:51 • 9h ago
+👁️ 2K • 👍 90 • ⏱️ 7:51 • 12h ago
 
 ---
 
-**[ETHEREUM QUER EFEITO REDE COM PROPOSTAS PARA 10 ANOS  🚨](https://www.youtube.com/watch?v=EtVl72cEEl8)**
+**[The Quantum Threat That Could Steal 2 Million Bitcoin | Justin Drake, Ethereum Foundation Interview](https://www.youtube.com/watch?v=CTGabUYgX5s)**
 
-Enquanto o desenvolvimento do Bitcoin permanece lento e pouco debatido, Vitalik e Ethereum Fondation apresentam o Lean ...
+In this video I sit down with Justin Drake from the Ethereum Foundation to break down whether quantum computing is a real threat ...
 
-📺 BitNada
+📺 VirtualBacon
 
-👁️ 786 • 👍 167 • 1h ago
+👁️ 364 • 👍 26 • 💬 12 • ⏱️ 1:06:25 • 1h ago
+
+---
+
+**[Live Crypto &amp; Gold Psychological Trading 6 July ||  #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=QSKQOeIpca4)**
+
+TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+
+📺 Vibe With Sahil
+
+👁️ 4K • 👍 528 • 1h ago
+
+---
+
+**[&quot;Load Up In July! Why This Crypto BULL MARKET Will Be SHOCKING&quot;: Matt Hougan &amp; Tom Lee](https://www.youtube.com/watch?v=95fLDF5cYaU)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 202 • 💬 19 • ⏱️ 18:59 • 1d ago
 
 ---
 

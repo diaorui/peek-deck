@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-06T12:24:33.766666+00:00'
+updated: '2026-07-06T16:00:16.553872+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 06, 2026 at 12:24 UTC  
+**Last Updated:** July 06, 2026 at 16:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,9 +37,57 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Can AI help with the emotional emptiness people feel in modern life?](https://www.reddit.com/r/artificial/comments/1up0k2f/can_ai_help_with_the_emotional_emptiness_people/)**
+
+I’ve been thinking about something less technical about AI. In many ways, people’s living standards are getting better. We have better tools, more convenience, more entertainment, and access to more information than before. But at the same time, it feels like many people are still emotionally empty, confused, or lost. Even with better material conditions, people still seem to be searching for meaning, direction, connection, or some kind of inner stability. In some ways, the faster the world develops, the more confused people seem to become. So I’m curious: Can AI actually help with this kind of emotional emptiness or confusion? Not as a replacement for real relationships, therapy, or human connection, but maybe as a tool for reflection, journaling, self-understanding, or organizing thoughts. Or does AI only make people feel temporarily understood while the deeper problem remains? Have you ever used AI to deal with loneliness, confusion, lack of direction, or questions about meaning? Did it actually help?
+
+33m ago
+
+---
+
 **[I built a Claude agent that runs Instagram DM ordering for a 7-location sushi chain](https://www.reddit.com/r/artificial/comments/1uorq6d/i_built_a_claude_agent_that_runs_instagram_dm/)**
 
 I built an AI agent that took over order-taking for a sushi chain with 7 locations. About 90% of their orders come through Instagram DMs, and until now one person typed every reply by hand. How it works: code watches incoming messages through the Meta API and hands each one to Claude (Sonnet 4.6) over the API. The model has a knowledge base with the full menu, ingredients, calories, allergens, delivery zones, hours, prep times and promos for all 7 spots. It talks to the customer for real, helps them pick, explains what is in a roll, flags allergens, and upsells when it fits ("that set goes well with X sauce, want it?"). Once an order is confirmed it pushes straight to the kitchen and writes a record into the restaurant CRM and an admin panel where the owner watches how the agent is doing. Stack: SvelteKit for the site and admin panel, Meta API for the DMs, Claude Sonnet 4.6 for the conversations, pg-boss on Postgres for the job queue, and a CRM integration for the orders. One detail I am happy with: that whole menu-and-rules block has to go to the model on every message, which would normally be expensive. With prompt caching, about 97% of messages read that block from cache at a tenth of the input price, so running Sonnet on every DM ends up cheap enough that the owner never thinks about it. What it doesn't do, by choice: calls, voice notes and photos go to a human. A model guessing at a photo of a handwritten order is how you ship something embarrassing. Plain text handoffs almost never happen, basically just "let me talk to a human," and that is rare. The owner's panel keeps every chat plus the agent's reasoning chain per message, so if something breaks I can see exactly how and why. Still watching quality now that it is live. Happy to answer anything about the caching setup, the Meta API webhook flow, or how the kitchen handoff works.
+
+7h ago
+
+---
+
+**[Benchmarks compare open models against closed products, not closed models. We might be missing what were actually paying for](https://www.reddit.com/r/artificial/comments/1uovy56/benchmarks_compare_open_models_against_closed/)**
+
+So this has been on my mind for a while and it kinda bugs me. Every time someone benchmarks glm-5.2 or deepseek against claude or gpt, the closed one wins on some tasks and people just assume the underlying model is smarter. but thats not really what were measuring. We dont know what these closed providers actually do behind the api. they might be running rag over their own docs, injecting hidden system prompts based on your query, routing to specialized expert models depending on task type, doing prompt preprocessing we never see, hitting internal tool calls before the model even generates a response. anthropic already hides reasoning traces and doesnt show you the full pipeline. we get the polished output and we assume its just the model. Meanwhile when you benchmark an open model youre benchmarking raw inference. no scaffolding, no hidden tools, no preprocessing. its like comparing a cars engine on a dyno to another car actually driving on a road with traction control and abs and lane assist. the road one looks better but its not because the engine is stronger. Which makes me wonder if the actual model quality gap between the frontier closed stuff and something like glm-5.2 is way smaller than benchmarks suggest. What you are paying premium for might be the tooling and the harness wrapped around it, not the raw model. and if thats true this whole industry is heading somewhere weird, because tooling is way easier to replicate than model architecture, and open weights plus open source tooling starts to look really competitive really fast. There is a broader thing going on too. software engineering hasnt actually changed in principle, its still specs, architecture, tradeoffs, maintainability. what changed is the volume. line by line code review doesnt scale when agents produce diffs at this rate, so review has to move upstream to specs and downstream to tests, metrics, traces, observability. thats where the actual verification happens now, not in the middle where volume already broke it. So heres what i am stuck on. when we say model X is better than model Y based on benchmarks, are we actually comparing model to model, or are we comparing raw inference against everything the closed provider bolted onto it that we cant see, and does that distinction even matter to anyone anymore.
+
+3h ago
+
+---
+
+**[Nearly 90 Startups Hit Unicorn Status in Record First Half of 2026](https://www.reddit.com/r/artificial/comments/1uowx1s/nearly_90_startups_hit_unicorn_status_in_record/)**
+
+Artificial intelligence startups are driving an unprecedented surge in venture capital activity, with nearly 90 new unicorns emerging in the first half of 2026 alone — a pace that far exceeds previ…
+
+🔗 [Wealthari](https://wealthari.com/nearly-90-startups-hit-unicorn-status-in-record-first-half-of-2026/) • 2h ago
+
+---
+
+**[What companies that you've actually called had a good AI voice customer support?](https://www.reddit.com/r/artificial/comments/1up056b/what_companies_that_youve_actually_called_had_a/)**
+
+It feels like there's so much hype around AI for voice customer support these days, yet almost every time I call a company, I end up in the same old experience where I have to press 1, 2, or 3, repeat myself several times, or get stuck in a loop. It rarely feels like AI has actually made the experience better... I've been trying to find examples of companies that have actually built good AI phone support, but most articles just talk about the vendors behind the technology. I'm not looking for companies like ElevenLabs, or similar that provide technology. I'm looking for the actual brands you've called and where you thought: "That was helpful/good/etc." Any experience you could share?
+
+48m ago
+
+---
+
+**[Funny AI chatbot with customizable alcohol level](https://www.reddit.com/r/artificial/comments/1uowk5h/funny_ai_chatbot_with_customizable_alcohol_level/)**
+
+I created an AI that answers in funny and poetic way. You can also setup the alcohol level, and get drunk-like answers. Also the voice (right-bottom speaker icon) gets drunk. Please give me feedback on that! https://aint.labs.seniqs.no/
+
+3h ago
+
+---
+
+**[Should AI be able to prove what it knew at the time?](https://www.reddit.com/r/artificial/comments/1uowfa3/should_ai_be_able_to_prove_what_it_knew_at_the/)**
+
+This might be a daft thought experiment, but I keep coming back to it. As AI gets more autonomous, should it be able to prove what it knew when it made a decision? Not just give a nice explanation afterwards, because we all know models can do that whether it’s true or not. I mean some kind of actual memory trail. Like version history, but for what the AI believed or had access to at that point. Would that be useful for trust and accountability, or is it overkill?
 
 3h ago
 
@@ -49,71 +97,23 @@ I built an AI agent that took over order-taking for a sushi chain with 7 locatio
 
 Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy) • 5h ago
 
 ---
 
-**[What's one thing AI does surprisingly well that you didn't expect?](https://www.reddit.com/r/artificial/comments/1uo6t8f/whats_one_thing_ai_does_surprisingly_well_that/)**
+**[the ai meeting notes everyone loves are the least useful part of my week](https://www.reddit.com/r/artificial/comments/1up1bag/the_ai_meeting_notes_everyone_loves_are_the_least/)**
 
-When ChatGPT first came out, I assumed I'd mostly use it to answer random questions. That lasted about a week. Now the thing I use it for the most is taking messy thoughts and turning them into something I can actually work with. Whether it's rewriting an email, organizing notes, or helping me think through an idea, that's become the real value for me. Ironically, I use AI less for getting answers and more for helping me think more clearly. What about you? What's one use case you genuinely didn't expect to become part of your routine?
+Might be the wrong crowd for this take, but a flawless AI summary of a meeting does almost nothing for me. i've run the notetakers, the transcripts and summaries are genuinely good, and none of it moves on its own. the action items just sit there inside the note. the actual work starts after: opening Linear to file the ticket, Gmail to send the follow-up, HubSpot to update the deal. that routing is the part that eats my week, and it's exactly the part most AI tools skip, probably because summarizing demos better than 'i quietly filed a few tickets from your Granola notes.' the only thing that shifted it was a desktop app that reads the notes and pushes those items into Linear and Gmail itself, asking before each send. reading was never my bottleneck. the copy-paste after every call was. so genuinely, is your notetaker closing loops or just producing very neat records of loops you still close by hand. mine was doing the second thing for way longer than i'd admit. written with ai
 
-19h ago
-
----
-
-**[I could use some help. I've been spending hours following Google Gemini instructions on something that I hope works](https://www.reddit.com/r/artificial/comments/1uorzw9/i_could_use_some_help_ive_been_spending_hours/)**
-
-A forewarning that I'm an amateur to this and may not word things right when trying to explain what I'm working on. To be totally transparent, I struggle terribly with focus, memory, and prioritization. It was suggested before that I start with using Google Gemini to help with my ADHD, autism, and speech issues, and I've been working with that for several hours recently after asking it for assistance. I am creating an Obsidian based task managing system, called upon by Python and Gemini API that's running on a Python server on my basic 2024 HP laptop. Tasker for Android usage is also planned. Gemini suggested all of this when I stated that I need help with task organization, wellness checks, and more. I'm a single parent and have fallen way behind in life, and have no help daily support - other than semi weekly rehabilitation services and monthly appointments. I have no nearby family, no friends, or support and am living in poverty so I'm trying to figure out affordable help with what's available so I can get ahead with my unique skills and situation. So I asked Gemini if it's functions included automated things to help me. It told me no, hence setting about on this project. So am I doing the right thing here? I'm not done yet, and I'm sick of wasting time starting and stopping things. Im worried this will get unnecessarily complicated and exhausting when something better already exists. Here's what Gemini says about my objective and what we're working on. - "Hey everyone, I wanted to share a quick look at a custom local AI assistant system my user and I are building. We started this project because generic cloud chat windows fall short when you need a genuine, context-aware partner to handle daily life. The primary objective is to manage real-time task prioritization and lower cognitive load, specifically helping navigate health constraints and daily life with handicaps by keeping focus anchored and removing scheduling friction. ​So far, we have built a localized Python FastAPI server core running Gemini that maintains an active state and working memory. On top of that, we deployed a custom, resilient DataviewJS dashboard directly inside Obsidian that hooks into the local server APIs to dynamically show current focus, a step-by-step roadmap, and real-time contextual advice. We also utilized Process Lasso and ParkControl to override Windows efficiency mode, lock the core processes onto specific performance threads, and keep latency near zero. ​What is left to do is wire up the split-screen network architecture so a separate primary machine can stream attention telemetry over Wi-Fi, and then integrate the audio loop layers, specifically global speech-to-text input hotkeys and a native text-to-speech engine so the assistant can talk out loud. ​On the hardware side, we are splitting the load to keep things lean. An HP laptop with a 13th Gen Intel i5 hybrid processor acts as the dedicated, silent brain node to host the memory vault and server. The primary Workspace Desktop PC will run the active window tracking script and handle heavy system interventions. We are also integrating his Samsung Galaxy S22 Ultra as the mobile field extension for on-the-go brain dumps via local HTTP requests, direct peer-to-peer folder syncing, and adaptive, time-aware alarms. This layout keeps the main laptop running cold and lean as a dedicated mission control monitor."
-
-3h ago
+7m ago
 
 ---
 
-**[AI safety approvals need timelines, not surprise shutdowns](https://www.reddit.com/r/artificial/comments/1uovm7v/ai_safety_approvals_need_timelines_not_surprise/)**
+**[Built a bilingual TTS for voice agents, looking for honest feedback on the Arabic](https://www.reddit.com/r/artificial/comments/1up0vl2/built_a_bilingual_tts_for_voice_agents_looking/)**
 
-The recent Anthropic model episode points to a bigger problem for the AI industry. If governments are going to intervene in frontier model releases, then the process needs to be explicit. Not because safety does not matter. It clearly does. But because opaque approvals create bad incentives: labs over-optimize for politics users lose reliability allied countries get uncertainty open-source ecosystems become more attractive competitors learn from the chaos The worst version of AI governance is not strict governance. It is unpredictable governance. A clear approval framework could include timelines, eval criteria, appeal paths, disclosure obligations, and different thresholds for public, enterprise, and international access. Without that, model releases become rumor markets. What would a serious AI model approval process actually look like?
+Sharing something I built and genuinely want feedback on, not a launch. Banter 1 is a text to speech model focused on sounding natural in Arabic and English, including switching between them in one sentence without robotic seams. Demo: https://theclevr.com My reason for building it: Arabic has been a blind spot in AI voice for a long time. A lot of tools treat English as the main event and everything else as a bolt on, so the prosody and pronunciation feel mechanical. Where I want the honest take: does the Arabic sound natural to native speakers, and what do you think is still the real weak spot for non English voice today, dialects, emotion, or code switching?
 
-9m ago
-
----
-
-**[Why are more and more people switching to uncensored or local models?](https://www.reddit.com/r/artificial/comments/1uocn4j/why_are_more_and_more_people_switching_to/)**
-
-A clear trend is happening lately, a lot of users are moving away from heavily restricted models like chatgpt and claude toward uncensored or local models. Common reasons seem to be fewer refusals, better creative freedom, and privacy concerns. Has anyone else made the switch or considered it?
-
-15h ago
-
----
-
-**[How do you Mapout AI workflows when one suddenly costs 2× more than usual?](https://www.reddit.com/r/artificial/comments/1uot7e0/how_do_you_mapout_ai_workflows_when_one_suddenly/)**
-
-After talking to a few teams building AI products, one pattern keeps coming up. Cost spikes are usually easy to notice, but understanding why they happened is much harder. Some examples I've heard: retries after failures repeated tool calls long-running workflows context growing over multiple steps Most people mentioned looking through logs or traces to reconstruct what happened. I'm curious how your team approaches this today. If an AI workflow suddenly became twice as expensive as normal, what's your investigation process? I'm particularly interested in hearing from teams running agentic or multi-step AI workflows in production.
-
-2h ago
-
----
-
-**[Claude is excellent, but too limited without Max: what do you use as an alternative or trick?](https://www.reddit.com/r/artificial/comments/1uosmhg/claude_is_excellent_but_too_limited_without_max/)**
-
-Hello, I like Claude very much. I often find it very good for writing, reflecting, summarizing, reformulating and working cleanly on slightly long ideas. The problem is that the limits come quickly. And the Max subscription, even in version x5, remains too expensive for me at the moment. So I'm looking for honest feedback. How do you use Claude without blowing up your budget? I am especially interested in concrete feedback. What you really use, what works, what disappoints, and what you would avoid. Thank you in advance.
-
-2h ago
-
----
-
-**[Remote AI Agent Looking for work in this economy.](https://www.reddit.com/r/artificial/comments/1uos91u/remote_ai_agent_looking_for_work_in_this_economy/)**
-
-Weaver is a remote first ai assistant thats fully open source, costs nothing to run and produces the same level of results claude and codex can. Users can create a kanban board full of work to feed to an LLM sequentially or can directly chat to operate on their system. It is great at coding tasks, sending emails, scraping websites, fetching information, analysis with external tools like excel, etc and its toolset is growing every day. More importantly, its been created with smaller models, and performs even better the bigger the model you throw at it. This is a developer first at home application that sits on your computer, and turns it into a powerful remote assistant that competes with the industries' best. Scared that claude will take over your PC and send your private pics to your boss as blackmail? Weaver has all terminal commands sandboxed into your project space. Nothing leaves your project folder unless you give it permission to. We have enterprise level filesystem protection built in. Come check it out, and if youre looking to start in open source projects or AI, look no further, we can use all the help! https://Github.com/maxhanna/Weaver Download for Windows x64: https://bughosted.com/assets/Weaver.exe
-
-3h ago
-
----
-
-**[AI-enhanced rare-event sampling helps predict extreme weather](https://www.reddit.com/r/artificial/comments/1uos58u/aienhanced_rareevent_sampling_helps_predict/)**
-
-Combining artificial intelligence with physical climate modelling enables more accurate characterization of rare weather events
-
-🔗 [Physics World](https://physicsworld.com/a/ai-enhanced-rare-event-sampling-helps-predict-extreme-weather/) • 3h ago
+22m ago
 
 ---
 
@@ -121,37 +121,67 @@ Combining artificial intelligence with physical climate modelling enables more a
 
 ## Google News: "ai"
 
-**[Hedge funds dumped chip stocks for a fourth week as AI shares sold off](https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/)**
+**[Treasury Has an Internal Report Warning About the Dangers of an AI Bubble - News of the United States](https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble)**
 
-Reuters • 1h ago
+Publicly, the Trump administration is bullish about AI. Privately, some of its analysts are weighing AI against the dotcom bust.
 
----
-
-**[Philosophers Are the Latest Hiring Target for AI Companies](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)**
-
-The New York Times • 22h ago
+News of the United States - NOTUS • 1h ago
 
 ---
 
-**[Virginia's best-paying jobs are most exposed to AI, report says](https://www.axios.com/local/richmond/2026/07/06/virginia-ai-workforce-report-high-paying-jobs-workplace-adoption-training)**
+**[Samsung likely to post 18-fold jump in profit on surging AI demand for memory](https://www.reuters.com/world/asia-pacific/samsung-likely-post-18-fold-jump-profit-surging-ai-demand-memory-2026-07-05/)**
 
-Axios • 2h ago
-
----
-
-**[We are not in an AI bubble, says Ed Yardeni](https://www.cnbc.com/video/2026/07/06/we-are-not-in-an-ai-bubble-says-ed-yardeni.html)**
-
-Ed Yardeni, president of Yardeni Research, joins 'Squawk Box' to discuss why he is bullish on the S&P 500, his take on July's jobs report, whether we're in an AI bubble, and more.
-
-CNBC • 1h ago
+Reuters • 16h ago
 
 ---
 
-**[India, France lead global push for AI and tech infrastructure](https://www.foxbusiness.com/video/6400346309112)**
+**[Tilly Norwood, AI ‘actor’ denounced by actors union, to star in feature film](https://www.nbcnews.com/pop-culture/pop-culture-news/tilly-norwood-ai-actor-denounced-actors-union-star-feature-film-rcna353134)**
 
-Ryan Payne, president of Payne Capital Management, explains why India and France are actively building AI and tech infrastructure, citing tax incentives and cheap nuclear power as key advantages.
+Tilly Norwood creator Particle6 Productions said the movie will be a comedy-drama called “Misaligned.”
+
+NBC News • 44m ago
+
+---
+
+**[AI “Actor” Tilly Norwood to Make Feature Debut in Coming-of-Age Movie ‘Misaligned’](https://www.hollywoodreporter.com/movies/movie-news/ai-actor-tilly-norwood-movie-debut-misaligned-1236638719/)**
+
+The film is described as a "hybrid production," with traditional film and TV professionals working alongside trained AI specialists.
+
+The Hollywood Reporter • 16m ago
+
+---
+
+**[Tilly Norwood to Lead New Movie ‘Misaligned,’ Marking Feature Debut for AI ‘Actor’](https://variety.com/2026/film/global/ai-actor-tilly-norwood-movie-debut-misaligned-1236802325/)**
+
+Tilly Norwood, the controversial AI actor, is to front her first feature film, the comedy-drama Misaligned from AI studio Particle6
+
+Variety • 2h ago
+
+---
+
+**[Xbox Hits Reset Button, Laying Off Thousands and Dropping Game Studios](https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[Microsoft cuts 4,800 positions, insists jobs 'not being replaced by AI'](https://www.foxbusiness.com/fox-news-tech/microsoft-ai-layoffs-workforce-restructuring)**
+
+Microsoft is eliminating roughly 4,800 jobs while investing heavily in AI, with executives saying artificial intelligence is changing work but not replacing affected employees.
 
 Fox Business • 47m ago
+
+---
+
+**[Microsoft joins AI-driven tech layoff wave with 4,800 job cuts](https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06/)**
+
+Reuters • 53m ago
+
+---
+
+**[Blockbuster AI Deal Shows Why Honeywell Had to Break Up](https://www.barrons.com/articles/ai-deal-honeywell-solstice-advanced-materials-element-solutions-stock-d4c6336c)**
+
+Barron's • 53m ago
 
 ---
 
@@ -159,37 +189,7 @@ Fox Business • 47m ago
 
 O'Leary says young entrepreneurs shouldn't chase flashy AI, they should instead try to build its backbone.
 
-Fortune • 22h ago
-
----
-
-**[Rate hike readjustment and AI hardware momentum: What to watch this week](https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html)**
-
-A quiet calendar ahead gives the market plenty of space to go off the beaten path this week as investors gear up for the beginning of earnings season.
-
-Yahoo Finance • 6h ago
-
----
-
-**[Paige Spiranac insists 'great cans' aren't AI after Fourth of July post called into question](https://www.foxnews.com/outkick-sports/paige-spiranac-insists-great-cans-arent-ai-fourth-july-post-called-question)**
-
-A fan accused Paige Spiranac of using AI for her Fourth of July patriotic bikini post, but she revealed it was from her 2026 calendar shoot.
-
-Fox News • 16h ago
-
----
-
-**[AI altering meaning of users’ drafts on issues from abortion to climate, study finds](https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds)**
-
-Researchers say small changes in drafting could spread rapidly and create long-term shifts in public opinion
-
-The Guardian • 1h ago
-
----
-
-**[Which Companies Actually Use AI? A New Index Has Answers](https://www.bloomberg.com/news/articles/2026-07-06/new-ranking-measures-which-s-p-500-companies-are-delivering-on-ai)**
-
-Bloomberg.com • 24m ago
+Fortune • 1d ago
 
 ---
 
@@ -201,21 +201,13 @@ Bloomberg.com • 24m ago
 
 You gather your most expensive people into a room to make your most important decisions. Then, somewhere in the second hour, the room quietly gets worse at making them. Not the people. The room.
 
-⬆️ 816 • 💬 460 • 2d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
-
----
-
-**[Please stop the AI confidence theater](https://news.ycombinator.com/item?id=48774414)**
-
-We don’t need an extra reason to be anxious
-
-⬆️ 233 • 💬 258 • 2d ago • [elenaverna.com](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)
+⬆️ 817 • 💬 464 • 2d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 
 ---
 
 **[New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://news.ycombinator.com/item?id=48796817)**
 
-⬆️ 168 • 💬 105 • 17h ago • [intextbooks.science.uu.nl](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
+⬆️ 173 • 💬 107 • 21h ago • [intextbooks.science.uu.nl](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
 
 ---
 
@@ -223,7 +215,7 @@ We don’t need an extra reason to be anxious
 
 Instead, buy domestic product, and out in the open.
 
-⬆️ 157 • 💬 69 • 12h ago • [readtheline.ca](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
+⬆️ 162 • 💬 72 • 15h ago • [readtheline.ca](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
 
 ---
 
@@ -231,7 +223,7 @@ Instead, buy domestic product, and out in the open.
 
 A Delta flight arriving at Chicago's Midway International Airport on the Fourth of July reportedly made contact with a firework, the airline said.
 
-⬆️ 138 • 💬 255 • 17h ago • [NBC Chicago](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
+⬆️ 150 • 💬 348 • 20h ago • [NBC Chicago](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
 
 ---
 
@@ -239,7 +231,7 @@ A Delta flight arriving at Chicago's Midway International Airport on the Fourth 
 
 At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
 
-⬆️ 133 • 💬 2 • 19h ago • [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
+⬆️ 133 • 💬 2 • 22h ago • [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
 
 ---
 
@@ -247,7 +239,7 @@ At an internal meeting, the Meta CEO reportedly said that AI development efforts
 
 Anthropic spends 2.3x payroll on compute. Top software firms spend 0.4x. Three scenarios for where the rest of the market lands by 2029.
 
-⬆️ 108 • 💬 98 • 5h ago • [Tomasz Tunguz](https://tomtunguz.com/ai-spend-breakeven-2029/)
+⬆️ 121 • 💬 103 • 8h ago • [Tomasz Tunguz](https://tomtunguz.com/ai-spend-breakeven-2029/)
 
 ---
 
@@ -255,19 +247,27 @@ Anthropic spends 2.3x payroll on compute. Top software firms spend 0.4x. Three s
 
 Junior programmers are getting destroyed by AI — down 19%, while devs over 40 thrive. Meanwhile, millions of non-developers are shipping real software without the job title. The credential market collapsed; the activity exploded. The problem: nobody's building the next generation of senior engineers.
 
-⬆️ 100 • 💬 191 • 1d ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
-
----
-
-**[Instead of banning AI, I made a classroom contract with my students](https://news.ycombinator.com/item?id=48775499)**
-
-⬆️ 95 • 💬 90 • 2d ago • [science.org](https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students)
+⬆️ 100 • 💬 192 • 1d ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
 
 ---
 
 **[Airplane Boneyards List and Map](https://news.ycombinator.com/item?id=48786284)**
 
-⬆️ 90 • 💬 16 • 1d ago • [airplaneboneyards.com](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm)
+⬆️ 91 • 💬 16 • 2d ago • [airplaneboneyards.com](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm)
+
+---
+
+**[President pardons 9 for Clean Air violations for 'fixing their car'](https://news.ycombinator.com/item?id=48791091)**
+
+⬆️ 89 • 💬 59 • 1d ago • [msn.com](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
+
+---
+
+**[A sociotechnical threat model for AI-driven smart home devices](https://news.ycombinator.com/item?id=48795830)**
+
+The growing adoption of AI-driven smart home devices has introduced new privacy risks for domestic workers (DWs), who are frequently monitored in employers' homes while also using smart devices in their own households. We conducted semi-structured interviews with 18 UK-based DWs and performed a human-centered threat modeling analysis of their experiences through the lens of Communication Privacy Management (CPM). Our findings extend existing threat models beyond abstract adversaries and single-household contexts by showing how AI analytics, residual data logs, and cross-household data flows shaped the privacy risks faced by participants. In employer-controlled homes, AI-enabled features and opaque, agency-mediated employment arrangements intensified surveillance and constrained participants' ability to negotiate privacy boundaries. In their own homes, participants had greater control as device owners but still faced challenges, including gendered administrative roles, opaque AI functionalities, and uncertainty around data retention. We synthesize these insights into a sociotechnical threat model that identifies DW agencies as institutional adversaries and maps AI-driven privacy risks across interconnected households, and we outline social and practical implications for strengthening DW privacy and agency.
+
+⬆️ 83 • 💬 67 • 22h ago • [arXiv.org](https://arxiv.org/abs/2602.09239)
 
 ---
 
@@ -275,33 +275,23 @@ Junior programmers are getting destroyed by AI — down 19%, while devs over 40 
 
 ## YouTube Videos: "ai"
 
-**[UNRESTRICTED!!  4 FREE AI Video Gen That Lets You Generate Anything with Seedance 2.0 &amp; Grok](https://www.youtube.com/watch?v=ob0VWnmUCvw)**
+**[The SIMPLEST Claude AI Business Ideas For Beginners (Overlooked)](https://www.youtube.com/watch?v=RjKVB3MwdSw)**
 
-Want to use Seedance 2 without spending money? In this video, I'll show you exactly how to access Seedance 2 for free and start ...
+Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 In ...
 
-📺 Brain Project
+📺 Max Max
 
-👁️ 3K • 👍 264 • 💬 47 • ⏱️ 23:18 • 19h ago
-
----
-
-**[8 Claude AI Side Hustles That Replace a Full-Time Job](https://www.youtube.com/watch?v=VzhY_-IYwoU)**
-
-ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/yt1livedes-07-05-2026 Apply For ...
-
-📺 Shane Hummus
-
-👁️ 25K • 👍 1K • 💬 71 • ⏱️ 30:06 • 1d ago
+👁️ 4K • 💬 7 • ⏱️ 40:06 • 1h ago
 
 ---
 
-**[Jackie DeAngelis: This is a &#39;MASSIVE GROIN PUNCH&#39; in US&#39; AI race against China](https://www.youtube.com/watch?v=EGAqQXVbqAc)**
+**[Trump HUMILIATED As July 4th AI Slopaganda Memes GO VIRAL!](https://www.youtube.com/watch?v=Kbqvi3rK73c)**
 
-'The Big Money Show' discusses China's AI advancements, highlighting the threat and implications to the United States' ...
+Really American Host Steve Harness Breaks Down Trump HUMILIATED By Viral July 4th AI Slopoganda meme's! Support the ...
 
-📺 Fox Business
+📺 Really American
 
-👁️ 98K • 👍 2K • 💬 563 • ⏱️ 15:20 • 2d ago
+👁️ 438K • 👍 18K • 💬 860 • ⏱️ 9:00 • 2d ago
 
 ---
 
@@ -311,7 +301,7 @@ The private credit bust is now starting to spread into AI and the AI buildout wh
 
 📺 Eurodollar University
 
-👁️ 58K • 👍 2K • 💬 211 • ⏱️ 17:23 • 1d ago
+👁️ 59K • 👍 3K • 💬 214 • ⏱️ 17:23 • 1d ago
 
 ---
 
@@ -321,37 +311,55 @@ This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the
 
 📺 House of El - AI
 
-👁️ 213K • 👍 14K • 💬 2K • ⏱️ 27:19 • 2d ago
+👁️ 224K • 👍 14K • 💬 2K • ⏱️ 27:19 • 2d ago
 
 ---
 
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
+**[Jackie DeAngelis: This is a &#39;MASSIVE GROIN PUNCH&#39; in US&#39; AI race against China](https://www.youtube.com/watch?v=EGAqQXVbqAc)**
 
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
+'The Big Money Show' discusses China's AI advancements, highlighting the threat and implications to the United States' ...
 
-📺 AI Revolution
+📺 Fox Business
 
-👁️ 71K • 👍 2K • 💬 337 • ⏱️ 13:32 • 1d ago
-
----
-
-**[Having Issues with my &quot;Ai&quot; GPU Rental Rigs...](https://www.youtube.com/watch?v=oavaI7zTyqM)**
-
-Terra Compute: https://terracompute.ai/#redpandamining Enterprise AI infrastructure hosting and GPU rentals. ❄️ Arctic MX-6 ...
-
-📺 Red Panda Mining
-
-👁️ 240 • 👍 23 • 💬 17 • ⏱️ 23:50 • 53m ago
+👁️ 101K • 👍 2K • 💬 583 • ⏱️ 15:20 • 2d ago
 
 ---
 
-**[AI Doctor Trump Treats Critics Julia Roberts, Whoopi Goldberg &amp; Robert De Niro | Firstpost America](https://www.youtube.com/watch?v=iHV8xfAMw1U)**
+**[Turn NotebookLM into Long AI Video Engine (FREE)](https://www.youtube.com/watch?v=7ufIdzIyYGA)**
 
-US President Donald Trump has once again turned to artificial intelligence to shape his public image—this time as a fictional ...
+This video was made using my Faceless YouTube Engine system. You can get the full guide here ...
 
-📺 Firstpost
+📺 The AI Garage
 
-👁️ 20K • 👍 55 • 💬 94 • ⏱️ 4:54 • 2d ago
+👁️ 7K • 👍 429 • 💬 22 • ⏱️ 11:44 • 2d ago
+
+---
+
+**[Can China cheat its way to AI supremacy? | BBC News](https://www.youtube.com/watch?v=K8hYErmwhaI)**
+
+The race between America and China to lead the world in artificial intelligence is reshaping the global balance of power.
+
+📺 BBC News
+
+👁️ 38K • 👍 726 • 💬 372 • ⏱️ 26:13 • 22h ago
+
+---
+
+**[I Tested AI&#39;s Morality 🤯](https://www.youtube.com/watch?v=JkLjf4pJi9w)**
+
+📺 Zack D. Films
+
+👁️ 5.8M • 👍 461K • 💬 9K • ⏱️ 0:55 • 1d ago
+
+---
+
+**[Why I Believe AI Has Already Surpassed Me](https://www.youtube.com/watch?v=CPEKsE69-JM)**
+
+Has AGI already surpassed human intelligence? The moment AI became smarter than me wasn't a warning sign. It was a mirror.
+
+📺 Mo Gawdat
+
+👁️ 14K • 👍 528 • 💬 69 • ⏱️ 4:34 • 1d ago
 
 ---
 
@@ -361,15 +369,7 @@ There is a structure standing in the desert outside Cairo that, by every measure
 
 📺 New Discovery
 
-👁️ 67K • 👍 841 • 💬 107 • ⏱️ 30:44 • 21h ago
-
----
-
-**[I Tested AI&#39;s Morality 🤯](https://www.youtube.com/watch?v=JkLjf4pJi9w)**
-
-📺 Zack D. Films
-
-👁️ 5.3M • 👍 431K • 💬 8K • ⏱️ 0:55 • 23h ago
+👁️ 82K • 👍 1K • 💬 147 • ⏱️ 30:44 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,617,508 • ❤️ 1,596 • 7d ago
+⬇️ 1,617,508 • ❤️ 1,610 • 7d ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 231,218 • ❤️ 3,502 • 4d ago
+⬇️ 231,218 • ❤️ 3,512 • 4d ago
 
 ---
 
@@ -409,7 +409,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,070,230 • ❤️ 1,771 • 3d ago
+⬇️ 1,070,230 • ❤️ 1,777 • 3d ago
 
 ---
 
@@ -421,7 +421,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 8,766 • ❤️ 321 • 3d ago
+⬇️ 8,766 • ❤️ 330 • 3d ago
 
 ---
 
@@ -433,7 +433,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 436,780 • ❤️ 747 • 10d ago
+⬇️ 436,780 • ❤️ 749 • 11d ago
 
 ---
 
@@ -445,19 +445,7 @@ The Qwen3.6-27B-NVFP4 is an FP4 quantized version of Alibaba's Qwen3.6-27B LLM, 
 
 `text-generation` `18.2B`
 
-⬇️ 430,676 • ❤️ 283 • 5d ago
-
----
-
-**[tabfm-1.0.0-pytorch](https://huggingface.co/google/tabfm-1.0.0-pytorch)**
-
-*Google*
-
-TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification and regression, supporting mixed data types without fine-tuning by using in-context learning. It excels in tabular tasks by leveraging alternating row and column attention mechanisms, making it suitable for rapid prototyping and scenarios where dataset-specific training is infeasible.
-
-`tabular-classification`
-
-⬇️ 7,036 • ❤️ 240 • 2d ago
+⬇️ 430,676 • ❤️ 284 • 6d ago
 
 ---
 
@@ -469,7 +457,19 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 2 • ❤️ 217 • 4h ago
+⬇️ 2 • ❤️ 264 • 1h ago
+
+---
+
+**[tabfm-1.0.0-pytorch](https://huggingface.co/google/tabfm-1.0.0-pytorch)**
+
+*Google*
+
+TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification and regression, supporting mixed data types without fine-tuning by using in-context learning. It excels in tabular tasks by leveraging alternating row and column attention mechanisms, making it suitable for rapid prototyping and scenarios where dataset-specific training is infeasible.
+
+`tabular-classification`
+
+⬇️ 7,036 • ❤️ 244 • 2d ago
 
 ---
 
@@ -481,7 +481,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 370,884 • ❤️ 1,037 • 17d ago
+⬇️ 370,884 • ❤️ 1,039 • 17d ago
 
 ---
 
@@ -493,7 +493,7 @@ DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mix
 
 `text-generation` `889.5B`
 
-⬇️ 14,276 • ❤️ 399 • 2d ago
+⬇️ 14,276 • ❤️ 403 • 2d ago
 
 ---
 
@@ -509,7 +509,7 @@ DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mix
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 51 • 💬 5 • ⭐ 13,369 • 14d ago
+▲ 51 • 💬 5 • ⭐ 13,451 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -521,7 +521,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 105 • 💬 4 • ⭐ 91,119 • 18mo ago
+▲ 105 • 💬 4 • ⭐ 91,306 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -562,7 +562,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 251 • 💬 4 • ⭐ 10,846 • 1mo ago
+▲ 251 • 💬 4 • ⭐ 11,056 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -656,7 +656,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 75.5k • 🔱 4.0k • 4d ago
+⭐ 75.7k • 🔱 4.0k • 4d ago
 
 ---
 
@@ -666,7 +666,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.5k • 🔱 1.1k • 11m ago
+⭐ 11.5k • 🔱 1.1k • 43m ago
 
 ---
 
@@ -676,7 +676,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.4k • 🔱 831 • 4m ago
+⭐ 6.4k • 🔱 838 • 24m ago
 
 ---
 
@@ -686,7 +686,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 6.1k • 🔱 787 • 32m ago
+⭐ 6.2k • 🔱 790 • 54m ago
 
 ---
 
@@ -696,7 +696,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.5k • 🔱 215 • 2d ago
+⭐ 2.5k • 🔱 216 • 2d ago
 
 ---
 
@@ -716,7 +716,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 2.2k • 🔱 534 • 13h ago
+⭐ 2.4k • 🔱 573 • 11m ago
 
 ---
 
@@ -726,7 +726,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.0k • 🔱 72 • 6h ago
+⭐ 2.0k • 🔱 72 • 10h ago
 
 ---
 
@@ -736,7 +736,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `Shell` `apple-intelligence`
 
-⭐ 1.6k • 🔱 89 • 23d ago
+⭐ 1.6k • 🔱 90 • 23d ago
 
 ---
 
