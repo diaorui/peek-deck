@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-06T03:36:47.684754+00:00'
+updated: '2026-07-06T08:21:08.986287+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 06, 2026 at 03:36 UTC  
+**Last Updated:** July 06, 2026 at 08:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,13 +114,41 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
 
-The Guardian • 3h ago
+The Guardian • 7h ago
+
+---
+
+**[This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)**
+
+While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
+
+TechCrunch • 2h ago
+
+---
+
+**[Hyundai Motor Showcases Humanoid at World Cup in Robotics Push](https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push)**
+
+Bloomberg.com • 10h ago
 
 ---
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 16h ago
+WSJ • 15h ago
+
+---
+
+**[Opinion | China’s next export shock is taking shape – as AI-powered robots](https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots)**
+
+South China Morning Post • 23h ago
+
+---
+
+**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 4d ago
 
 ---
 
@@ -128,41 +156,7 @@ WSJ • 16h ago
 
 While American tech giants are valued for the anticipation of perfect prototypes, Chinese manufacturers are winning the robotics race by getting paid for delivery.
 
-GeekWire • 12h ago
-
----
-
-**[Opinion | China’s next export shock is taking shape – as AI-powered robots](https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots)**
-
-South China Morning Post • 19h ago
-
----
-
-**[Hyundai Motor Showcases Humanoid at World Cup in Robotics Push](https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push)**
-
-Bloomberg.com • 5h ago
-
----
-
-**[Which Are Better For Humanoid Robots: Legs or Wheels?](https://www.wsj.com/video/series/news-explainers/which-are-better-for-humanoid-robots-legs-or-wheels/B05EE26A-EDD7-4321-BB57-482D88B13F81)**
-
-WSJ • 18h ago
-
----
-
-**[17,625 tablets in 64 hours: China's Agibot completes world's first livestream of humanoid robots inspecti](https://timesofindia.indiatimes.com/technology/tech-news/17625-tablets-in-64-hours-chinas-agibot-completes-worlds-first-livestream-of-humanoid-robots-inspecting-production-line-with-99-accuracy/articleshow/132190744.cms)**
-
-China-based robotics company Agibot has completed what Chinese state media described as the world's first livestream of humanoid robots operating across a full tablet production inspection line. The six-day demonstration, which concluded recently after eight humanoid robots worked on an active manufacturing line at Longcheer Technology's factory in Nanchang, produced 17,625 tablets while achieving a reported task success rate of 99.99%.
-
-The Times of India • 23h ago
-
----
-
-**[Autonomous robots are the next frontier in clearing underwater mines](https://www.nbcnews.com/tech/innovation/autonomous-robots-are-frontier-clearing-underwater-mines-rcna352666)**
-
-Amid concerns over the possibility of mines in the Strait of Hormuz, robots are offering a safer option to assess risks in the water.
-
-NBC News • 14h ago
+GeekWire • 17h ago
 
 ---
 
@@ -170,7 +164,15 @@ NBC News • 14h ago
 
 The halftime appearance comes as the company continues to expand following its acquisition of a controlling stake in Boston Dynamics.
 
-Forbes • 59m ago
+Forbes • 5h ago
+
+---
+
+**[Incheon hosts RoboCup, world's top AI-robotics competition](https://www.korea.net/NewsFocus/Sci-Tech/view?articleId=295345)**
+
+Incheon is hosting this year's RoboCup, the world's largest robotics and AI competition. From robot soccer to displays of related products and services, this event has everything for those interested in AI and robotics. Click here for more
+
+Korea.net • 2d ago
 
 ---
 
@@ -178,7 +180,7 @@ Forbes • 59m ago
 
 Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.
 
-Fox News • 16h ago
+Fox News • 21h ago
 
 ---
 
@@ -192,17 +194,15 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 59K • 👍 2K • 💬 314 • ⏱️ 13:32 • 1d ago
+👁️ 67K • 👍 2K • 💬 326 • ⏱️ 13:32 • 1d ago
 
 ---
 
-**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=aIamULUXZI0)**
 
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+📺 Robot Julie 
 
-📺 Chris Norlund
-
-👁️ 57K • 👍 4K • 💬 1K • ⏱️ 13:09 • 1d ago
+👁️ 3K • 👍 31 • ⏱️ 0:22 • 6h ago
 
 ---
 
@@ -212,37 +212,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 223K • 👍 6K • 💬 2K • ⏱️ 3:59 • 5d ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
-
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
-
-📺 Future Core
-
-👁️ 3K • 👍 148 • 💬 4 • ⏱️ 10:56 • 1d ago
-
----
-
-**[Chinese company unveils humanoid robot to combat loneliness | AFP](https://www.youtube.com/watch?v=Z4PbTRf32Nw)**
-
-Chinese robotics company UBTech has unveiled its new bionic humanoid robots powered by artificial intelligence and marketed ...
-
-📺 AFP News Agency
-
-👁️ 14K • 👍 622 • 💬 98 • ⏱️ 1:55 • 2d ago
-
----
-
-**[China’s 18,000+ AI Robot Army Is Quietly Terrifying America](https://www.youtube.com/watch?v=JxLcYPD8eBY)**
-
-China just built an ARMY of humanoid robots — and nobody in the US saw it coming. While American companies build a few ...
-
-📺 The AI Nexus
-
-👁️ 8K • 👍 160 • 💬 27 • ⏱️ 18:37 • 4d ago
+👁️ 229K • 👍 6K • 💬 2K • ⏱️ 3:59 • 5d ago
 
 ---
 
@@ -252,35 +222,67 @@ In Massachusetts, police turned to high-tech devices during a standoff with a su
 
 📺 NBC News
 
-👁️ 146K • 👍 2K • 💬 460 • ⏱️ 2:09 • 4d ago
+👁️ 150K • 👍 2K • 💬 474 • ⏱️ 2:09 • 4d ago
 
 ---
 
-**[There’s a problem with my mouth design… #engineering #3dprinting #robotics](https://www.youtube.com/watch?v=K23XzB3Opgo)**
+**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
 
-📺 Will Cogley
+Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-👁️ 942K • 👍 40K • 💬 954 • ⏱️ 0:32 • 6d ago
+📺 Chris Norlund
 
----
-
-**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
-
-The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
-
-📺 DPCcars
-
-👁️ 98K • 👍 413 • 💬 215 • ⏱️ 2:50 • 3d ago
+👁️ 60K • 👍 4K • 💬 1K • ⏱️ 13:09 • 1d ago
 
 ---
 
-**[🤖🐶 They Burned the Robotic Dog Alive… But It Came Back Stronger for Revenge! 🔥😱](https://www.youtube.com/watch?v=GkaA1KL7W8s)**
+**[China’s 18,000+ AI Robot Army Is Quietly Terrifying America](https://www.youtube.com/watch?v=JxLcYPD8eBY)**
 
-They Burned the Robotic Dog Alive… But It Came Back Stronger for Revenge! A robotic dog hacks ATMs, reveals a hidden ...
+China just built an ARMY of humanoid robots — and nobody in the US saw it coming. While American companies build a few ...
 
-📺 Filmy Secret Hindi
+📺 The AI Nexus
 
-👁️ 6.4M • 👍 149K • 💬 45 • ⏱️ 2:10 • 4d ago
+👁️ 8K • 👍 162 • 💬 27 • ⏱️ 18:37 • 4d ago
+
+---
+
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+
+📺 Future Core
+
+👁️ 5K • 👍 207 • 💬 4 • ⏱️ 10:56 • 1d ago
+
+---
+
+**[Chinese company unveils humanoid robot to combat loneliness | AFP](https://www.youtube.com/watch?v=Z4PbTRf32Nw)**
+
+Chinese robotics company UBTech has unveiled its new bionic humanoid robots powered by artificial intelligence and marketed ...
+
+📺 AFP News Agency
+
+👁️ 15K • 👍 678 • 💬 113 • ⏱️ 1:55 • 2d ago
+
+---
+
+**[Ubitech U1 Humanoid Robot Reveal Leaves Fans SHOCKED #news #technology #china #robot](https://www.youtube.com/watch?v=Sy0tj2Z5gA8)**
+
+Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its global launch, and the reaction online is impossible to ...
+
+📺 SXE China
+
+👁️ 106K • 👍 1K • 💬 169 • ⏱️ 0:52 • 5d ago
+
+---
+
+**[Chinese company debuts full-size hyper-bionic humanoid robot #coolchina](https://www.youtube.com/watch?v=a5LRJUEWx_M)**
+
+Chinese tech company UBTECH introduced its full-size hyper-bionic humanoid robot, the UWORLD U1 series, at its global launch ...
+
+📺 CGTN
+
+👁️ 67K • 👍 439 • 💬 54 • ⏱️ 0:40 • 3d ago
 
 ---
 

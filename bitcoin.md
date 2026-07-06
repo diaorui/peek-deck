@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-06T03:36:47.675295+00:00'
+updated: '2026-07-06T08:21:08.977728+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 06, 2026 at 03:36 UTC  
+**Last Updated:** July 06, 2026 at 08:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,946.12
+### $63,344.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +7.8%  
-**30d:** -0.1%  
-**90d:** -11.1%  
-**1y:** -41.6%  
+**24h:** +0.7%  
+**7d:** +7.5%  
+**30d:** -0.4%  
+**90d:** -11.3%  
+**1y:** -41.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1265.63B
+**Market Cap:** $1262.85B
 Rank #1
 
-**Circulating Supply:** 20,052,665 BTC
+**Circulating Supply:** 20,052,771 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.9%
+-50.0%
 
 **All-Time Low:** $67.81
-+92976.2%
++92778.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Public companies acquired 166,984 Bitcoin in 2026, exceeding mined supply. Bitcoin reaching $67.5K in July 2026 is at 46.5% YES.
 
-🔗 [Crypto Briefing](https://cryptobriefing.com/public-companies-acquire-166984-bitcoin-in-2026-surpassing-mined-supply/) • 17h ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/public-companies-acquire-166984-bitcoin-in-2026-surpassing-mined-supply/) • 21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Thank you to everyone contributing on this sub. Especially the guy who told me t
 
 Did everyone suddenly become responsible? A few years ago, every other week someone had a story about accidentally throwing away a hard drive containing enough Bitcoin to buy a country. Now... nothing. Either people got incredibly competent at backing up their wallets, or we've finally run out of fictional billionaires.
 
-20h ago
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ Did everyone suddenly become responsible? A few years ago, every other week some
 
 Happy Birthday America!
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Happy Birthday America!
 
 I have recently been starting to do more research and understand the Bitcoin 4 year cycles. As someone who is starting to DCA per month into Bitcoin after buying lump sums ever so often, for anybody that has experience with buying Bitcoin I know it makes sense to buy the dips in large amounts or DCA a fixed amount but can anyone explain why it would be a better idea to continue to DCA into Bitcoin as the price is going up and possibly approaching or exceeding ATHs rather than taking some kind of profit at ATHs? I’ve thought about experimenting with taking profits at ATHs just to say I did but I am a HODLr so it is definitely just a thought.
 
-18h ago
+23h ago
 
 ---
 
@@ -129,7 +129,7 @@ I have recently been starting to do more research and understand the Bitcoin 4 y
 
 As the title.
 
-11h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ As the title.
 
 Does everyone here just buy bitcoin in the hope that it increases over time? Or does anyone actually use bitcoin to pay for things or to transfer funds between friends as a form of payment etc? I don't hold any bitcoin myself but i really like the idea of it i.e. as a decentralised payment system. The problem is, it seems that virtually everyone buys and sells bitcoin, not to use it, but to make a quick or long term buck off it, which leads to a lot of price volatility and defeats the purpose of using it as a currency.
 
-13h ago
+18h ago
 
 ---
 
@@ -151,7 +151,7 @@ Does everyone here just buy bitcoin in the hope that it increases over time? Or 
 
 How beneficial has reddit been to you since joining the btc community.?
 
-11h ago
+16h ago
 
 ---
 
@@ -163,7 +163,7 @@ How beneficial has reddit been to you since joining the btc community.?
 
 Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.
 
-CoinDesk • 15h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -175,25 +175,40 @@ Fox Business • 2d ago
 
 ---
 
+**[Should cryptocurrency have a place in your retirement portfolio?](https://www.post-gazette.com/business/money/2026/07/06/cryptocurrency-retirement-portfolio-bitcoin/stories/202607050043)**
+
+Few investments have divided investors as sharply as cryptocurrency.
+To some, it’s the future of finance and a once-in-a-generation opportunity to...
+
+Pittsburgh Post-Gazette • 21m ago
+
+---
+
+**[Ether leads crypto's hold above key levels as bitcoin steadies over $63,000](https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000)**
+
+A stalling rebound in AI and chip stocks and a stronger dollar kept the mood cautious as the second half gets underway.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin climbs above $63k as Fed rate hike fears ease](https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-above-63k-as-fed-rate-hike-fears-ease-4775537)**
+
+Investing.com • 2h ago
+
+---
+
 **[Bitcoin trades above $62K as U.S. crypto bill gains fresh traction](https://finance.yahoo.com/markets/crypto/articles/bitcoin-trades-above-62k-u-102159196.html)**
 
 Investing.com -- Bitcoin traded above $62,000 on Sunday as investors weighed renewed momentum for U.S. cryptocurrency legislation, growing institutional support and fresh reminders that security remains a key risk across the digital asset industry.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[BTC price news: Bitcoin retakes $63,000, reversing end-June losses](https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses)**
+**[Bitcoin Whales Never Stopped Buying: Is Wall Street the Last to Catch On?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-never-stopped-buying-053024619.html)**
 
-The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Price Spikes Near $64,000 as Short Sellers Get Liquidated](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-spikes-near-64-010438748.html)**
-
-Bitcoin spiked near $64,000 as a weak jobs report and short squeeze fueled a weekend rally in crypto markets.
+Bitcoin price holds as whales keep buying and ETF outflows end, with on-chain data flagging thin resistance overhead.
 
 Yahoo Finance • 2h ago
 
@@ -203,7 +218,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin outlook: analysts warn of a capitulation reset to $37K or support near $52K, plus ETF plays and macro risks. Read more here.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -211,7 +226,7 @@ Seeking Alpha • 11h ago
 
 Bitcoin has shown a unique ability to bounce back from adversity, time and time again.
 
-The Motley Fool • 10h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -220,22 +235,6 @@ The Motley Fool • 10h ago
 Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
 
 The Block • 2d ago
-
----
-
-**[Bitcoin Just Survived A 'Hostile Takeover' Attempt, Say Michael Saylor And David Bailey — Here's What Happened](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-just-survived-a-hostile-takeover-attempt-say-michael-saylor-and-david-bailey-here-s-what-happened/cZmLb63R7kO)**
-
-The hotly debated&nbsp;consensus soft fork&nbsp;BIP-110 proposal has failed to garner any major network support ahead of its activation deadline, with Strategy (MSTR) Executive Chairman Michael Saylor and Nakamoto (NAKA) CEO David Bailey posting their sup
-
-Stocktwits • 17h ago
-
----
-
-**[Bollinger Eyes 'W' Reversal to End Bitcoin Bear Market](https://bitbo.io/news/bollinger-w-reversal-bitcoin-bear/)**
-
-John Bollinger says Bitcoin is completing a 'perfectly fractal' W-shaped reversal that could break the downtrend in place since October 2025.
-
-Bitbo • 21h ago
 
 ---
 
@@ -295,7 +294,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 Contribute to raphaelwkago69-create/GLYPH development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/raphaelwkago69-create/GLYPH)
+⬆️ 2 • 💬 0 • 16h ago • [GitHub](https://github.com/raphaelwkago69-create/GLYPH)
 
 ---
 
@@ -309,7 +308,7 @@ Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint develop
 
 **[Show HN: Bitflinger TV – An ad-free smart aggregator and TV launcher](https://news.ycombinator.com/item?id=48795496)**
 
-⬆️ 2 • 💬 0 • 11h ago • [bitflinger.net](https://bitflinger.net/tv.html)
+⬆️ 2 • 💬 0 • 15h ago • [bitflinger.net](https://bitflinger.net/tv.html)
 
 ---
 
@@ -323,37 +322,7 @@ Bitcoin #Crypto #Finance Matthew Sigel from VanEck breaks down exactly how his N
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 587 • 💬 243 • ⏱️ 30:31 • 14h ago
-
----
-
-**[Everyone Gave Up On Bitcoin At Exactly The Wrong Time](https://www.youtube.com/watch?v=Kp9rfw1Iqw8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 82K • 👍 3K • 💬 88 • ⏱️ 55:12 • 1d ago
-
----
-
-**[Crypto Holders: You’re Walking Into A TRAP!](https://www.youtube.com/watch?v=trkhlHITXUQ)**
-
-Crypto Hodlers - IT'S A TRAP! | Bitcoin, Ethereum, & Solana | Don't Be Fooled ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 15K • 👍 1K • 💬 90 • ⏱️ 11:41 • 4h ago
-
----
-
-**[Why the Bitcoin Crash is GREAT for YOU](https://www.youtube.com/watch?v=eyyDNAj6K_c)**
-
-Bitcoin didn't crash because the system broke, it crashed because that's exactly what the market needed. While millions of ...
-
-📺 The Infographics Show
-
-👁️ 242K • 👍 7K • 💬 1K • ⏱️ 18:41 • 1d ago
+👁️ 14K • 👍 614 • 💬 250 • ⏱️ 30:31 • 19h ago
 
 ---
 
@@ -363,27 +332,37 @@ Michael Saylor faced relentless criticism after MicroStrategy stumbled, but the 
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 816 • 💬 85 • ⏱️ 15:58 • 4h ago
+👁️ 14K • 👍 1K • 💬 100 • ⏱️ 15:58 • 8h ago
 
 ---
 
-**[What Changed With Bitcoin?](https://www.youtube.com/watch?v=KPDn0i3V_Zs)**
+**[Everyone Gave Up On Bitcoin At Exactly The Wrong Time](https://www.youtube.com/watch?v=Kp9rfw1Iqw8)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 CryptosRUs
+📺 Anthony Pompliano
 
-👁️ 4K • 👍 442 • 💬 97 • ⏱️ 9:23 • 3h ago
+👁️ 85K • 👍 3K • 💬 88 • ⏱️ 55:12 • 1d ago
 
 ---
 
-**[This Bitcoin Level Changes Everything 👀](https://www.youtube.com/watch?v=Sk3j8U1ygec)**
+**[Bitcoin: The Four Year Cycle Strikes Again](https://www.youtube.com/watch?v=sy6AxBbgico)**
 
-This Bitcoin Level Changes Everything ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
+Let's talk about the four year cycle for Bitcoin! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
 
-📺 Stocks with Josh
+📺 Benjamin Cowen
 
-👁️ 3K • 👍 113 • 💬 8 • ⏱️ 0:57 • 8h ago
+👁️ 23K • 👍 2K • 💬 127 • ⏱️ 14:22 • 4h ago
+
+---
+
+**[Why the Bitcoin Crash is GREAT for YOU](https://www.youtube.com/watch?v=eyyDNAj6K_c)**
+
+Bitcoin didn't crash because the system broke, it crashed because that's exactly what the market needed. While millions of ...
+
+📺 The Infographics Show
+
+👁️ 246K • 👍 7K • 💬 1K • ⏱️ 18:41 • 1d ago
 
 ---
 
@@ -391,7 +370,7 @@ This Bitcoin Level Changes Everything ❤️ Josh New Discord [JOIN NOW] ▻ htt
 
 📺 Tom Simon
 
-👁️ 3K • 👍 319 • 💬 11 • ⏱️ 2:47 • 17h ago
+👁️ 4K • 👍 359 • 💬 12 • ⏱️ 2:47 • 22h ago
 
 ---
 
@@ -401,7 +380,27 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 903 • 💬 107 • ⏱️ 1:01 • 1d ago
+👁️ 28K • 👍 919 • 💬 89 • ⏱️ 1:01 • 1d ago
+
+---
+
+**[TRANSITIONING: Will Bitcoin Bulls Hit All 3 Targets?](https://www.youtube.com/watch?v=-9Dd1P4CHvg)**
+
+In today's video, Kyledoops outlines the 3 targets provided last week and shares whether or not you can expect all 3 targets to get ...
+
+📺 Crypto Banter
+
+👁️ 3K • 👍 399 • 💬 3 • ⏱️ 32:39 • 38m ago
+
+---
+
+**[The Crypto Market Sell-Off Has Just Begun | Gary Cardone](https://www.youtube.com/watch?v=QWVR5WqiTvY)**
+
+Follow Gary on YouTube: https://www.youtube.com/@garycardone Follow Gary on X: https://x.com/GaryCardone Buy, Sell, Trade ...
+
+📺 Altcoin Daily
+
+👁️ 29K • 👍 1K • 💬 313 • ⏱️ 53:28 • 1d ago
 
 ---
 
@@ -411,7 +410,7 @@ Gold, Silver, EURUSD, DXY, Nasdaq, Bitcoin and more. IC Markets Bonuses Up To $2
 
 📺 Justin Bennett
 
-👁️ 26K • 👍 1K • 💬 209 • ⏱️ 33:39 • 1d ago
+👁️ 27K • 👍 2K • 💬 206 • ⏱️ 33:39 • 1d ago
 
 ---
 
