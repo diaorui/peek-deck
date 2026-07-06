@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-05T23:38:42.977708+00:00'
+updated: '2026-07-06T03:36:47.681382+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 23:38 UTC  
+**Last Updated:** July 06, 2026 at 03:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +10.9%  
-**30d:** +14.0%  
-**90d:** -20.2%  
-**1y:** -30.3%  
+**24h:** +0.3%  
+**7d:** +12.8%  
+**30d:** +4.8%  
+**90d:** -19.0%  
+**1y:** -30.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.00B
+**Market Cap:** $213.97B
 Rank #2
 
-**Circulating Supply:** 120,683,221 ETH
+**Circulating Supply:** 120,683,200 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.6%
+-64.1%
 
 **All-Time Low:** $0.43
-+415218.1%
++409591.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am used to address poisoning. Whenever I send/receive token, I will then receive some random tokens from addresses that has the same starting and ending sequence as the address I interacted with. But I see something I can't explain. Whenever I send X amount of USDT, My address also send the exact same amount of fake USDT to an address mimicing the receiving address. How can the attacker use my account to send a token I don't even know I have? On Etherscan, the sender address is clearly my address, but if they already control my accout, poisoning the receiving address is pointless. They can just steal my funds. If they don't control my accout, how did they send fake token from my account? https://preview.redd.it/jfawc4knedbh1.png?width=1674&format=png&auto=webp&s=2c70a9966405775dc1af9f1bd6764dfe258610c4
 
-15h ago
+19h ago
 
 ---
 
@@ -152,6 +152,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Vitalik Buterin says Ethereum's next rebuild will rival the Merge, and take three to four years](https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years)**
+
+He said quantum safety has "shifted up a LOT in priority" and that Hegota, slated for later this year, will likely be Ethereum's last "pre-Lean" hard fork.
+
+The Block • 7h ago
+
+---
+
 **[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://www.fool.com/investing/2026/07/04/congress-is-moving-forward-with-the-clarity-act-th/)**
 
 Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
@@ -172,7 +180,23 @@ Yahoo Finance • 2d ago
 
 MONACO , July  04, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy,...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rally as 'Extreme Fear' Persists: Analyst Expects a 'Quick' Move Upward](https://www.benzinga.com/crypto/cryptocurrency/26/07/60270490/bitcoin-ethereum-xrp-and-dogecoin-rally-as-extreme-fear-persists-analyst-sees-quick-btc-rebound-after-shallow-correction)**
+
+Leading cryptocurrencies gained alongside stock futures on Sunday, July 5, as investors braced for the release of the Federal Reserve’s June meeting minutes.
+
+Benzinga • 1h ago
+
+---
+
+**[Which Crypto Can Make You a Millionaire by 2030 With $10,000? We Compared XRP, BTC, ETH, SOL, and HYPE](https://247wallst.com/investing/cryptocurrency/2026/07/05/which-crypto-can-make-you-a-millionaire-by-2030-with-10000-we-compared-xrp-btc-eth-sol-and-hype/)**
+
+Can $10,000 in XRP, Bitcoin, Ethereum, Solana, or Hyperliquid make you a millionaire by 2030? Let's see which crypto has a real shot.
+
+24/7 Wall St. • 9h ago
 
 ---
 
@@ -181,14 +205,6 @@ markets.businessinsider.com • 21h ago
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
 Coinpedia • 1d ago
-
----
-
-**[Ethereum Price Forecast: ETH weakness in June likely from intense retail sell-off and US de-risking](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-weakness-in-june-likely-from-intense-retail-sell-off-and-us-de-risking-202607040028)**
-
-Ethereum (ETH) declined by 21.6% in June, its largest monthly drop since November, amid intense risk-off sentiment and heightened volatility, spearheaded by retail investors and US market participants.
-
-FXStreet • 1d ago
 
 ---
 
@@ -204,19 +220,7 @@ Yahoo Finance • 2d ago
 
 This coin could have a bumpy few months queued up.
 
-The Motley Fool • 4h ago
-
----
-
-**[2 reasons Citi slashed its bitcoin & ethereum price targets](https://finance.yahoo.com/video/2-reasons-citi-slashed-bitcoin-120000465.html)**
-
-Citi (C) cut its 12-month bitcoin (BTC-USD) and ether (ETH-USD) price targets, citing demand and the delayed CLARITY Act.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 3d ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -224,15 +228,7 @@ Yahoo Finance • 3d ago
 
 Cryptocurrencies gained ground on Thursday while major stock indexes closed at all-time highs, as softer-than-expected jobs data lowered expectations for a Federal Reserve rate hike. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.19%$61,460.31Ethereum (CRYPTO: ETH) +5.67%$1,708.41XRP (CRYPTO: XRP) +3.23%$1.09Solana (CRYPTO: SOL) +4.20%$81.33Dogecoin (CRYPTO: DOGE) +3.17%$0.07466 Crypto Market Rallies Bitcoin briefly broke $62,000 but failed to sustain th
 
-Yahoo Finance • 2d ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP advance amid renewed capital inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-advance-amid-renewed-capital-inflows-202607031200)**
-
-Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
-
-FXStreet • 4mo ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -246,7 +242,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 11K • 👍 529 • 💬 68 • ⏱️ 13:11 • 10h ago
+👁️ 13K • 👍 596 • 💬 74 • ⏱️ 13:11 • 14h ago
+
+---
+
+**[The Most Undervalued Coins in Crypto Right Now](https://www.youtube.com/watch?v=4P3oFfue2OE)**
+
+Grayscale just put it in writing. Solana DeFi is undervalued. Ethereum DeFi is overvalued. Four protocols. All under a billion in ...
+
+📺 Lark Davis
+
+👁️ 11K • 👍 538 • 💬 82 • ⏱️ 10:23 • 15h ago
 
 ---
 
@@ -256,7 +262,7 @@ BITCOIN SHORT SQUEEZE OVER (New Trade Setup)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 3K • 👍 229 • 💬 27 • ⏱️ 18:40 • 5h ago
+👁️ 5K • 👍 302 • 💬 75 • ⏱️ 18:40 • 9h ago
 
 ---
 
@@ -266,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 455 • 👍 18 • 💬 2 • ⏱️ 4:35 • 13h ago
+👁️ 566 • 👍 25 • 💬 40 • ⏱️ 4:35 • 17h ago
 
 ---
 
@@ -276,7 +282,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 178 • 💬 18 • ⏱️ 18:59 • 1d ago
+👁️ 5K • 👍 186 • 💬 18 • ⏱️ 18:59 • 1d ago
 
 ---
 
@@ -286,7 +292,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 739 • 💬 334 • ⏱️ 10:11 • 2d ago
+👁️ 13K • 👍 747 • 💬 302 • ⏱️ 10:11 • 2d ago
 
 ---
 
@@ -296,27 +302,7 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 44K • 👍 431 • 💬 114 • ⏱️ 0:58 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=7ZhPMmdFleU)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 2K • 👍 107 • ⏱️ 7:59 • 18h ago
-
----
-
-**[🚀 Free ETH Mining on Telegram | Testing an ETH Telegram Bot in Real Time](https://www.youtube.com/watch?v=msmRWvTU2QY)**
-
-Have you ever wondered whether a free ETH mining Telegram bot actually works the way people describe it? In this video, I'm ...
-
-📺 La Sala del Análisis
-
-👁️ 2K • 👍 462 • 💬 4 • ⏱️ 4:25 • 16h ago
+👁️ 47K • 👍 464 • 💬 122 • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -330,13 +316,23 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 ---
 
-**[BITCOIN SHORT SQUEEZE CONFIRMED (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cUsXnni3APg)**
+**[BITCOIN &amp; ETHEREUM,  kleiner Abverkauf ist da! Grund zur Sorge?? NEIN im Moment nicht!](https://www.youtube.com/watch?v=7K8jmcTk24A)**
 
-BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
 
-📺 Crypto World
+📺 Krypto Trading & Investing
 
-👁️ 8K • 👍 390 • 💬 134 • ⏱️ 22:32 • 1d ago
+👁️ 3K • 👍 489 • 💬 56 • ⏱️ 10:51 • 22h ago
+
+---
+
+**[🚀 Free ETH Mining on Telegram | Testing an ETH Telegram Bot in Real Time](https://www.youtube.com/watch?v=msmRWvTU2QY)**
+
+Have you ever wondered whether a free ETH mining Telegram bot actually works the way people describe it? In this video, I'm ...
+
+📺 La Sala del Análisis
+
+👁️ 2K • 👍 463 • 💬 4 • ⏱️ 4:25 • 20h ago
 
 ---
 
