@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-06T16:00:16.562536+00:00'
+updated: '2026-07-06T18:17:50.023888+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 06, 2026 at 16:00 UTC  
+**Last Updated:** July 06, 2026 at 18:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,336.60
+### $63,725.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +8.4%  
-**30d:** +0.4%  
-**90d:** -10.6%  
-**1y:** -41.3%  
+**24h:** +1.5%  
+**7d:** +8.7%  
+**30d:** +0.7%  
+**90d:** -10.3%  
+**1y:** -41.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1271.25B
+**Market Cap:** $1276.75B
 Rank #1
 
-**Circulating Supply:** 20,052,887 BTC
+**Circulating Supply:** 20,052,921 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.7%
+-49.5%
 
 **All-Time Low:** $67.81
-+93389.2%
++93827.1%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 You don't need to tell the employee that you want to pay with bitcoin when you want to spend bitcoin at a store that uses Square and has the bitcoin payment option enabled. You do not even need to mention bitcoin to the employee. You just click the toggle button on the top left and it'll switch the payment method from fiat currency to bitcoin and it will show a lightning invoice QR code for you to scan.
 
-5h ago
+8h ago
 
 ---
 
 **[Bitcoin is for anyone](https://www.reddit.com/r/Bitcoin/comments/1uouzk5/bitcoin_is_for_anyone/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ You don't need to tell the employee that you want to pay with bitcoin when you w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 For those who believe the 4 year cycle hasn't break yet, where are we exactly ? Most I heard is the end of the bear will be Oct 2026.
 
-4h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ As the title.
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-8h ago
+11h ago
 
 ---
 
@@ -127,7 +127,7 @@ Ask (and answer!) away! Here are the general rules: If you'd like to learn somet
 
 it seems as if the solution is obvious, like am I missing something or what: https://youtu.be/w1YaS_lSAmw ( 3:00-7:00 )
 
-🔗 [youtu.be](https://youtu.be/w1YaS_lSAmw) • 21h ago
+🔗 [youtu.be](https://youtu.be/w1YaS_lSAmw) • 23h ago
 
 ---
 
@@ -135,7 +135,7 @@ it seems as if the solution is obvious, like am I missing something or what: htt
 
 Is it something to be worried about?
 
-15h ago
+17h ago
 
 ---
 
@@ -143,7 +143,7 @@ Is it something to be worried about?
 
 For starters, I know nothing about bitcoin. I had a wealthy relative who passed away suddenly and I ended up with their computer. I knew that they were investing in bitcoin and on the computer there was "electrum" which i found out was a bitcoin wallet. There is a note app with what I believe to be a long recovery code? I also have the name of the wallet. I assume these things are pretty difficult to get in to if you are not the owner of the wallet, for obvious reasons lol. But I'm wondering, how possible would it be to get into it, if possible at all? EDIT: I have been able to access the wallet now! Thank you everyone for your help :)
 
-19h ago
+21h ago
 
 ---
 
@@ -151,7 +151,7 @@ For starters, I know nothing about bitcoin. I had a wealthy relative who passed 
 
 Hi everyone, I'm working on a backtesting and market research project and I'm looking for historical Bitcoin (BTC) OHLC candle data covering the period from 2010 to 2026. I'm mainly looking for any of these timeframes: 5-minute (preferred) 15-minute 30-minute 1-hour CSV or Excel format would be perfect, but any commonly usable format is fine. If anyone already has this data and is willing to share it, I'd really appreciate it. If you don't have the data but know a reliable source, archive, exchange, or website where I can get it (free or paid), I'd be grateful for your suggestions as well. The data will be used only for backtesting, market research, and educational purposes. Thanks in advance for your help
 
-11h ago
+13h ago
 
 ---
 
@@ -159,11 +159,19 @@ Hi everyone, I'm working on a backtesting and market research project and I'm lo
 
 ## Google News: "bitcoin"
 
-**[Strategy Sells $216 Million Worth Of Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-sells-216-million-worth-134500055.html)**
+**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
 
-Strategy (NASDAQ: $MSTR) has dramatically increased its Bitcoin (CRYPTO: $BTC) sales, offloading $216 million U.S. ...
+Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
 
-Yahoo Finance • 2h ago
+CNBC • 1h ago
+
+---
+
+**[Trump Crypto Profits Hit $1B as Bitcoin Crashes 50% From Its ATH](https://finance.yahoo.com/markets/crypto/articles/trump-crypto-profits-hit-1b-131356915.html)**
+
+President Trump and family crypto ventures cleared more than $1 billion in 2025, according to his latest federal financial disclosure. It was the same year that Bitcoin crashed more than 50% from its $126,000 all-time high, erasing every gain retail investors captured during the post-election euphoria. Market Cap 24h 7d ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -171,21 +179,35 @@ Yahoo Finance • 2h ago
 
 Robinhood (HOOD) jumps on Trump Accounts launch: $1K child investing program, IRA conversion, possible Bitcoin inclusion and revenue upside—read the key...
 
-Seeking Alpha • 30m ago
+Seeking Alpha • 2h ago
 
 ---
 
-**[Michael Saylor's Strategy sells Bitcoin again](https://sg.finance.yahoo.com/news/michael-saylors-strategy-sells-bitcoin-153006571.html)**
+**[Live updates: Bitcoin slips after Strategy sells 3,588 BTC for $216 million](https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins)**
 
-Michael Saylor's Strategy (NASDAQ: MSTR) has sold Bitcoin (BTC) again under its recently announced BTC Monetization Program. As per a filing on July 6, the company sold 3,588 BTC for $216 million between June 29 and July 5. The sales came in two tranches. The first tranche ...
+Strategy raised $216 milliion with the sale of 3,588 bitcoin last week, sending prices lower earlier on Monday.
 
-Yahoo Finance Singapore • 30m ago
+CoinDesk • 2h ago
+
+---
+
+**[Michael Saylor's Strategy may have saved bitcoin from a bigger sell-off: 'A balancing force in the market'](https://finance.yahoo.com/markets/crypto/article/michael-saylors-strategy-may-have-saved-bitcoin-from-a-bigger-sell-off-a-balancing-force-in-the-market-154525468.html)**
+
+Bitcoin (BTC-USD) has had a dismal year, but its underperformance has been less severe than in previous crypto winters, Bernstein analysts pointed out.
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Miners Want To Be AI Landlords. Four Companies Making It Work.](https://www.barrons.com/articles/bitcoin-miners-crypto-ai-power-galaxy-b329c547)**
 
-Barron's • 6h ago
+Barron's • 8h ago
+
+---
+
+**[Dow Jones Top Financial Services Headlines at 11 AM ET: Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin | Michael ...](https://www.moomoo.com/news/post/72530820/dow-jones-top-financial-services-headlines-at-11-am-et)**
+
+Moomoo • 3h ago
 
 ---
 
@@ -193,15 +215,7 @@ Barron's • 6h ago
 
 Bitcoin could be headed for a $1 trillion “parabolic” move…
 
-Forbes • 4h ago
-
----
-
-**[Dave Portnoy reveals he is losing millions in brutal Bitcoin crash](https://www.foxbusiness.com/media/dave-portnoy-reveals-he-losing-millions-brutal-bitcoin-crash)**
-
-Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
-
-Fox Business • 3d ago
+Forbes • 6h ago
 
 ---
 
@@ -209,29 +223,15 @@ Fox Business • 3d ago
 
 Bitcoin has shown a unique ability to bounce back from adversity, time and time again.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin climbs above $63k as Fed rate hike fears ease](https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-above-63k-as-fed-rate-hike-fears-ease-4775537)**
+**['Any signs of life?' Bernstein holds 'ambitious' $150K year-end bitcoin target despite 54% drawdown](https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown)**
 
-Investing.com • 10h ago
+Bernstein says bitcoin's 54% drawdown is milder than past cycles, retaining its "ambitious" $150K year-end target.
 
----
-
-**[Current price of Bitcoin for July 6, 2026](https://fortune.com/article/price-of-bitcoin-07-06-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 3h ago
-
----
-
-**[BTC/USD: Bitcoin Tests Bears’ Nerves with Sudden Sprint to $64,000. Can It Last?](https://www.tradingview.com/news/tradingview:3637dd18d094b:0-btc-usd-bitcoin-tests-bears-nerves-with-sudden-sprint-to-64-000-can-it-last/)**
-
-Immediate resistance can turn out to be a tough wall to crack. But then again, long-term support is so far holding up nicely.📈 Resistance Is Back in Play🧭 Charts Draw the Battlefield⚖️ Macro Still Holds the Keys
-
-TradingView • 5h ago
+The Block • 7h ago
 
 ---
 
@@ -249,19 +249,19 @@ Losing valuable information is a bad thing when you’re an archivist. Have we r
 
 ---
 
+**[Strategy sells $216M of Bitcoin as it abandons 'never sell' mantra](https://news.ycombinator.com/item?id=48807923)**
+
+Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign that it is abandoning co-founder Michael Saylor’s “Never sell your Bitcoin” mantra as a slumping digital asset market …
+
+⬆️ 3 • 💬 1 • 41m ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
+
+---
+
 **[Markovian – keyless, Bitcoin-anchored provenance for AI agent outputs](https://news.ycombinator.com/item?id=48745637)**
 
 One
 
 ⬆️ 3 • 💬 0 • 5d ago • [markovianprotocol.com](https://markovianprotocol.com)
-
----
-
-**[Strategy may sell up to $1.25B in Bitcoin to calm investor jitters](https://news.ycombinator.com/item?id=48722365)**
-
-Strategy continues its shift away from aggressive Bitcoin accumulation as market conditions deteriorate.
-
-⬆️ 1 • 💬 0 • 6d ago • [Fortune](https://fortune.com/2026/06/29/strategy-may-sell-up-to-1-25-billion-in-bitcoin-to-calm-investor-jitters/)
 
 ---
 
@@ -291,13 +291,13 @@ Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint develop
 
 **[Show HN: Bitflinger TV – An ad-free smart aggregator and TV launcher](https://news.ycombinator.com/item?id=48795496)**
 
-⬆️ 2 • 💬 0 • 23h ago • [bitflinger.net](https://bitflinger.net/tv.html)
+⬆️ 2 • 💬 0 • 1d ago • [bitflinger.net](https://bitflinger.net/tv.html)
 
 ---
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 6 • 💬 1 • 1h ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 10 • 💬 4 • 3h ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -311,57 +311,7 @@ Michael Saylor faced relentless criticism after MicroStrategy stumbled, but the 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 132 • ⏱️ 15:58 • 16h ago
-
----
-
-**[&quot;Bitcoin Will Be MUCH Higher In A Year&quot; - Matthew Sigel](https://www.youtube.com/watch?v=gMM5JizZ23E)**
-
-Bitcoin #Crypto #Finance Matthew Sigel from VanEck breaks down exactly how his Node fund has outperformed Bitcoin by 100 ...
-
-📺 The Wolf Of All Streets
-
-👁️ 16K • 👍 665 • 💬 271 • ⏱️ 30:31 • 1d ago
-
----
-
-**[Crypto Holders: You’re Walking Into A TRAP!](https://www.youtube.com/watch?v=trkhlHITXUQ)**
-
-Crypto Hodlers - IT'S A TRAP! | Bitcoin, Ethereum, & Solana | Don't Be Fooled ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 156 • ⏱️ 11:41 • 17h ago
-
----
-
-**[What Changed With Bitcoin?](https://www.youtube.com/watch?v=KPDn0i3V_Zs)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 10K • 👍 726 • 💬 102 • ⏱️ 9:23 • 15h ago
-
----
-
-**[Good news today for crypto 🇺🇸](https://www.youtube.com/watch?v=Wj1HvqoRA6s)**
-
-Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p Get Ledger Wallet: ...
-
-📺 Altcoin Daily
-
-👁️ 30K • 👍 957 • 💬 93 • ⏱️ 1:01 • 1d ago
-
----
-
-**[This Is Not A Coincidence [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=zcP3w81g1TI)**
-
-Bitcoin charts, Nasdaq, SpaceX, Solana, Cardano! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 402 • 💬 33 • ⏱️ 19:18 • 4h ago
+👁️ 20K • 👍 2K • 💬 139 • ⏱️ 15:58 • 18h ago
 
 ---
 
@@ -371,7 +321,77 @@ Let's talk about the four year cycle for Bitcoin! Come to the 1st ITC Conference
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 247 • ⏱️ 14:22 • 11h ago
+👁️ 67K • 👍 5K • 💬 260 • ⏱️ 14:22 • 14h ago
+
+---
+
+**[Bitcoin’s BIGGEST Test Yet? Saylor Sells $216M (Macro Monday)](https://www.youtube.com/watch?v=1h4V9Mm1yho)**
+
+Bitcoin #Crypto #finance In today's Macro Monday, we break down why Bitcoin may be entering the final stages of its correction.
+
+📺 The Wolf Of All Streets
+
+👁️ 14K • 👍 823 • 💬 156 • ⏱️ 1:03:29 • 3h ago
+
+---
+
+**[Bitcoin&#39;s Biggest Problem Just Revealed Itself](https://www.youtube.com/watch?v=Et9QWwU3apQ)**
+
+NASDAQ market analysis shows a bullish trend today. Review the latest MicroStrategy stock movements and pre-market trading ...
+
+📺 Ricky Gutierrez
+
+👁️ 2K • 👍 159 • 💬 8 • ⏱️ 7:01 • 2h ago
+
+---
+
+**[&quot;Bitcoin Will Be MUCH Higher In A Year&quot; - Matthew Sigel](https://www.youtube.com/watch?v=gMM5JizZ23E)**
+
+Bitcoin #Crypto #Finance Matthew Sigel from VanEck breaks down exactly how his Node fund has outperformed Bitcoin by 100 ...
+
+📺 The Wolf Of All Streets
+
+👁️ 16K • 👍 671 • 💬 272 • ⏱️ 30:31 • 1d ago
+
+---
+
+**[Crypto Holders: You’re Walking Into A TRAP!](https://www.youtube.com/watch?v=trkhlHITXUQ)**
+
+Crypto Hodlers - IT'S A TRAP! | Bitcoin, Ethereum, & Solana | Don't Be Fooled ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 36K • 👍 2K • 💬 155 • ⏱️ 11:41 • 19h ago
+
+---
+
+**[What Changed With Bitcoin?](https://www.youtube.com/watch?v=KPDn0i3V_Zs)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 11K • 👍 730 • 💬 102 • ⏱️ 9:23 • 17h ago
+
+---
+
+**[Good news today for crypto 🇺🇸](https://www.youtube.com/watch?v=Wj1HvqoRA6s)**
+
+Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p Get Ledger Wallet: ...
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 969 • 💬 94 • ⏱️ 1:01 • 1d ago
+
+---
+
+**[This Is Not A Coincidence [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=zcP3w81g1TI)**
+
+Bitcoin charts, Nasdaq, SpaceX, Solana, Cardano! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 7K • 👍 490 • 💬 38 • ⏱️ 19:18 • 6h ago
 
 ---
 
@@ -381,27 +401,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 755 • 💬 303 • ⏱️ 10:11 • 2d ago
-
----
-
-**[🚨BITCOIN IS TURNING ON....](https://www.youtube.com/watch?v=O_4WXCrubzY)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 6K • 👍 422 • 💬 239 • ⏱️ 11:40 • 16h ago
-
----
-
-**[Gold, EURUSD &amp; Bitcoin Traders: Don’t Ignore This | Weekly SMC Outlook](https://www.youtube.com/watch?v=JhRabypxTuo)**
-
-Gold, Silver, EURUSD, DXY, Nasdaq, Bitcoin and more. IC Markets Bonuses Up To $26k: ...
-
-📺 Justin Bennett
-
-👁️ 29K • 👍 2K • 💬 212 • ⏱️ 33:39 • 2d ago
+👁️ 13K • 👍 755 • 💬 301 • ⏱️ 10:11 • 2d ago
 
 ---
 
