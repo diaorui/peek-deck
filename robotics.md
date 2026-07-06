@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-06T18:17:50.032091+00:00'
+updated: '2026-07-06T20:25:07.634121+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 06, 2026 at 18:17 UTC  
+**Last Updated:** July 06, 2026 at 20:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -94,7 +94,7 @@ I am looking for some help with servos. I need to control the brown bakelite swi
 
 These are gripper jaws we make for our open source grippers but the STEP files can be modified for any type of gripper or robot: https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper Enjoy!
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,13 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 14h ago
+WSJ • 16h ago
+
+---
+
+**[Hyundai Motor Showcases Humanoid at World Cup in Robotics Push](https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push)**
+
+Bloomberg.com • 22h ago
 
 ---
 
@@ -120,13 +126,7 @@ WSJ • 14h ago
 
 While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
 
-TechCrunch • 12h ago
-
----
-
-**[Hyundai Motor Showcases Humanoid at World Cup in Robotics Push](https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push)**
-
-Bloomberg.com • 20h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -134,7 +134,7 @@ Bloomberg.com • 20h ago
 
 Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
 
-The Guardian • 17h ago
+The Guardian • 19h ago
 
 ---
 
@@ -142,15 +142,15 @@ The Guardian • 17h ago
 
 Hyundai Motor integrated Atlas®, an advanced humanoid robot developed by Boston Dynamics, into FIFA World Cup 2026™
 
-hyundai.com • 18h ago
+hyundai.com • 20h ago
 
 ---
 
-**[Noetra powers Japan's ambitious march toward a robot workforce](https://www.techradar.com/pro/japan-reveals-new-noetra-plan-to-flood-the-country-with-10-million-robots-by-2040-including-work-in-the-nursing-food-and-drink-sectors)**
+**[Robot that will ‘never betray you’ is world’s first mass-produced humanoid](https://www.independent.co.uk/tech/robot-china-ubtech-humanoid-loneliness-b3009793.html)**
 
-Japan bets its future on robots as Noetra prepares a massive automation surge across industries nationwide
+UBTech’s U1 robot ‘can accompany you for a lifetime’, the company claims
 
-TechRadar • 23h ago
+The Independent • 4h ago
 
 ---
 
@@ -162,17 +162,15 @@ GeekWire • 1d ago
 
 ---
 
-**[New ultrasonic sensor introduces certified 3D safety layer for robots](https://interestingengineering.com/ai-robotics/norwegian-firm-unveils-worlds-first-certified-3d-ultrasonic-sensor-for-safer-robots)**
+**[AI Promises to Transform Robotics, Just Not Yet](https://www.bloomberg.com/opinion/articles/2026-07-06/ai-promises-to-transform-robotics-just-not-yet)**
 
-Sonair unveils ADAR One, a certified 3D ultrasonic sensor that boosts robot safety with all-around human detection.
-
-Interesting Engineering • 1h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[AI Promises to Transform Robotics, Just Not Yet](https://www.bloomberg.com/opinion/articles/2026-07-06/ai-promises-to-transform-robotics-just-not-yet)**
+**[Which Are Better For Humanoid Robots: Legs or Wheels?](https://www.wsj.com/video/series/news-explainers/which-are-better-for-humanoid-robots-legs-or-wheels/B05EE26A-EDD7-4321-BB57-482D88B13F81)**
 
-Bloomberg.com • 7h ago
+WSJ • 2d ago
 
 ---
 
@@ -180,7 +178,7 @@ Bloomberg.com • 7h ago
 
 KIDZ AI Named 2026 EdTechX Award Winner for the Americas, recognizing the Company's innovation and leadership in AI-powered education. KIDZ AI Launches KIDZBot AI Robotics Platform, an integrated AI-native robotics platform that incorporates advanced ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -188,63 +186,13 @@ Yahoo Finance • 6h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
+**[THE ULTIMATE NODENS IS DEAD... IT BARELY EVEN HEALS ANYMORE! (War Robots)](https://www.youtube.com/watch?v=0knao-0K7ZI)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
+In this video I tested out the Ultimate Nodens nerf. https://wr.my.games/Wolfblood7.
 
-📺 South China Morning Post
+📺 Wolfblood7
 
-👁️ 235K • 👍 7K • 💬 2K • ⏱️ 3:59 • 5d ago
-
----
-
-**[NEW Robot FANG is coming to War Robots](https://www.youtube.com/watch?v=-wIxHRH4DdU)**
-
-War Robots Test Server Gameplay: NEW Robot FANG - WR My War Robots Creator Link: https://wr.my.games/manni - Code: ...
-
-📺 Manni-Gaming
-
-👁️ 3K • 👍 201 • 💬 41 • ⏱️ 13:11 • 6h ago
-
----
-
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 78K • 👍 2K • 💬 363 • ⏱️ 13:32 • 1d ago
-
----
-
-**[#HumanoidRobot #RobotAttack #Indonesia #AI #ArtificialIntelligence #Robotics #RobotNews #ViralVideo](https://www.youtube.com/watch?v=f9nSkuew-8E)**
-
-CSB IAS ACADEMY OFFICIAL Youtube Channel Link ...
-
-📺 Bala Latha Madam
-
-👁️ 2K • 👍 84 • 💬 2 • ⏱️ 0:55 • 2h ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
-
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
-
-📺 Future Core
-
-👁️ 6K • 👍 252 • 💬 8 • ⏱️ 10:56 • 1d ago
-
----
-
-**[Ubitech U1 Humanoid Robot Reveal Leaves Fans SHOCKED #news #technology #china #robot](https://www.youtube.com/watch?v=Sy0tj2Z5gA8)**
-
-Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its global launch, and the reaction online is impossible to ...
-
-📺 SXE China
-
-👁️ 108K • 👍 1K • 💬 172 • ⏱️ 0:52 • 6d ago
+👁️ 2K • 👍 142 • 💬 67 • ⏱️ 13:19 • 13h ago
 
 ---
 
@@ -254,17 +202,17 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 65K • 👍 4K • 💬 2K • ⏱️ 13:09 • 1d ago
+👁️ 66K • 👍 4K • 💬 2K • ⏱️ 13:09 • 1d ago
 
 ---
 
-**[This AI Camera Robot Is Unlike Anything I&#39;ve Tested - Meet Beni!](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
 
-📺 51 Drones
+📺 AI Revolution
 
-👁️ 44K • 👍 493 • 💬 93 • ⏱️ 12:50 • 5d ago
+👁️ 80K • 👍 2K • 💬 377 • ⏱️ 13:32 • 1d ago
 
 ---
 
@@ -272,17 +220,65 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 Robot Julie 
 
-👁️ 11K • 👍 75 • ⏱️ 0:22 • 16h ago
+👁️ 11K • 👍 75 • ⏱️ 0:22 • 18h ago
 
 ---
 
-**[Chinese company debuts full-size hyper-bionic humanoid robot #coolchina](https://www.youtube.com/watch?v=a5LRJUEWx_M)**
+**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
 
-Chinese tech company UBTECH introduced its full-size hyper-bionic humanoid robot, the UWORLD U1 series, at its global launch ...
+📺 Kevin Wood | Robotics & AI
 
-📺 CGTN
+👁️ 1.4M • 👍 3K • 💬 90 • ⏱️ 0:14 • 3d ago
 
-👁️ 68K • 👍 461 • 💬 57 • ⏱️ 0:40 • 4d ago
+---
+
+**[#HumanoidRobot #RobotAttack #Indonesia #AI #ArtificialIntelligence #Robotics #RobotNews #ViralVideo](https://www.youtube.com/watch?v=f9nSkuew-8E)**
+
+CSB IAS ACADEMY OFFICIAL Youtube Channel Link ...
+
+📺 Bala Latha Madam
+
+👁️ 2K • 👍 108 • 💬 2 • ⏱️ 0:55 • 4h ago
+
+---
+
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+
+📺 Future Core
+
+👁️ 7K • 👍 271 • 💬 8 • ⏱️ 10:56 • 1d ago
+
+---
+
+**[POV: A 5G Robot Performs Your Surgery 🤯 #shorts #science](https://www.youtube.com/watch?v=-kHW_3rSJEk)**
+
+Ever wondered what happens when medical science meets ultra-fast 5G technology? This animation shows how remote robotic ...
+
+📺 Dr.Health MD
+
+👁️ 13K • 👍 453 • 💬 5 • ⏱️ 1:05 • 1d ago
+
+---
+
+**[NEW Ultimate RAVEN will change War Robots [Test Server]](https://www.youtube.com/watch?v=wUelW96CEKQ)**
+
+War Robots Test Server Gameplay: NEW Ultimate RAVEN is coming to WR My War Robots Creator Link: ...
+
+📺 Manni-Gaming
+
+👁️ 8K • 👍 438 • 💬 89 • ⏱️ 14:47 • 1d ago
+
+---
+
+**[The Brand New ANTHBOT M9 Pro Robot Mower](https://www.youtube.com/watch?v=RWa1Iao9-BU)**
+
+With LIDAR, dual cameras and RTK the ANTHBOT M9 Pro is a new contender for the most intelligent robot mower.
+
+📺 Proper DIY - Tools & Effect
+
+👁️ 21K • 👍 2K • 💬 95 • ⏱️ 10:22 • 1d ago
 
 ---
 

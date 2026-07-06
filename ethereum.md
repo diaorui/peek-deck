@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-06T18:17:50.029239+00:00'
+updated: '2026-07-06T20:25:07.631096+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 06, 2026 at 18:17 UTC  
+**Last Updated:** July 06, 2026 at 20:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,774.02
+### $1,789.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +0.0%  
 **7d:** +13.8%  
 **30d:** +5.8%  
-**90d:** -18.2%  
+**90d:** -18.3%  
 **1y:** -29.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.86B
+**Market Cap:** $215.79B
 Rank #2
 
 **Circulating Supply:** 120,683,200 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.8%
+-63.9%
 
 **All-Time Low:** $0.43
-+413218.0%
++412841.5%
 
 ---
 
@@ -136,7 +136,7 @@ Ethereum basics for governments & institutions, Ethereum Institutional launched,
 
 During Q2 2026, the network processed 203,851,942 transactions, setting a new all-time high for quarterly onchain activity. This milestone is significant because transaction count remains one of the most reliable indicators of real network utilization. What's particularly noteworthy is that this record comes more than a decade after Ethereum launched. As blockchain ecosystems mature, sustaining growth becomes increasingly difficult. Yet Ethereum continues to expand its activity despite an already massive user base and one of the largest application ecosystems in crypto. The result also reflects years of continuous protocol improvements. Upgrades focused on scalability and data availability, combined with the rapid growth of Layer 2 networks, have allowed Ethereum to support significantly higher throughput while maintaining its role as the ecosystem's settlement layer. A huge thank you to the developers, validators, builders, researchers, and millions of users who continue contributing to the network every day. Milestones like this are only possible because of the strength of the broader Ethereum community. Full post: https://x.com/everstake_pool/status/2072654585022361799
 
-3d ago
+4d ago
 
 ---
 
@@ -156,15 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 He said quantum safety has "shifted up a LOT in priority" and that Hegota, slated for later this year, will likely be Ethereum's last "pre-Lean" hard fork.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
-**[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
+**[Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin](https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin)**
 
-In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
+Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.
 
-PR Newswire • 4h ago
+Decrypt • 7h ago
 
 ---
 
@@ -176,7 +176,15 @@ Scott Melker discusses how Bitmine Immersion Technologies (BMNR) purchased anoth
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
+
+In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
+
+PR Newswire • 6h ago
 
 ---
 
@@ -184,15 +192,7 @@ Yahoo Finance • 47m ago
 
 The second-largest digital asset treasury increased its buying pace, while Strategy sold a chunk of its bitcoin holdings.
 
-CoinDesk • 5h ago
-
----
-
-**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
-
-The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
-
-CoinDesk • 2h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Motley Fool • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 7h ago
 
 ---
 
@@ -216,7 +216,7 @@ Fortune • 5h ago
 
 Gareth Soloway, chief market strategist at VerifiedInvesting.com, says the crypto market has entered a meaningful short-term recovery phase, but warns
 
-Coinpedia • 16h ago
+Coinpedia • 18h ago
 
 ---
 
@@ -224,7 +224,7 @@ Coinpedia • 16h ago
 
 DUBAI, United Arab Emirates, July  06, 2026  (GLOBE NEWSWIRE) -- Pepeto, a new crypto built on Ethereum, has pushed its DeFi suite another step cl...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -232,7 +232,7 @@ markets.businessinsider.com • 1h ago
 
 StrengthsCrédit Agricole, France’s second-largest bank by assets, has launched EURXT, a euro-backed stablecoin fully compliant with the EU’s MiCA framework. The token debuted with 20 million EURXT in circulation and has already been used to settle a subscription into a tokenized Amundi money market fund, highlighting growing institutional adoption of tokenized finance. The EU’s Markets in Crypto-Assets (MiCA) regulation is now fully in force, requiring crypto firms to obtain a license to operate across the bloc. Industry leaders say the unified framework strengthens transparency, investor protection and banking relationships, marking a major milestone in the maturation of Europe’s digital asset market.&nbsp;Ethereum Institutional has launched as an independent nonprofit to help financial institutions adopt Ethereum for tokenization, stablecoins and onchain finance. Backed by industry leaders including Ethereum co-founder Joseph Lubin, the initiative provides enterprises with a dedicated gateway to the Ethereum ecosystem, reinforcing Ethereum’s position in institutional digital finance.&nbsp;WeaknessesU.S. spot Bitcoin ETFs are on pace for a record $4.1 billion in monthly outflows, with BlackRock's IBIT accounting for nearly $3 billion. At the same time, uncertainty surrounding Strategy's financing model has raised concerns over one of Bitcoin's largest corporate buyers, signaling weaker institutional demand for the cryptocurrency.&nbsp;Binance withdrew its MiCA license application in Greece after European regulators raised concerns over the exchange’s history of financial crime compliance. The setback temporarily limits Binance’s ability to operate across the European Union under the new Markets in Crypto-Assets (MiCA) regulatory framework, highlighting how stricter compliance standards are reshaping competition in the crypto industry.Crypto infrastructure firm BitGo cut 15% of its workforce as it refocuses on security, stablecoins, settlement and AI-powered infrastructure. The restructuring follows a quarter in which revenue grew 112.6% year over year, but net losses widened to $60.7 million, emphasizing ongoing profitability challenges.OpportunitiesMore than 100 financial institutions, fintechs, banks and crypto firms, including Visa, Stripe, BNY Mellon, BlackRock and Coinbase, have joined the Open Standard initiative to launch a U.S. dollar-backed stablecoin later this year. The alliance aims to build an open, interoperable payment infrastructure, expanding enterprise adoption and accelerating the mainstream use of stablecoins for global transactions.The SEC has opened a 60-day public consultation to modernize ETF regulations, potentially expanding eligibility to crypto, prediction markets and other novel assets. The review comes as the U.S. ETF market has grown from $4 trillion in 2019 to $12 trillion in 2025, signaling continued regulatory support for product innovation and market expansion.The UK's Financial Conduct Authority finalized a comprehensive regulatory framework covering crypto trading platforms, stablecoins, custody, staking and market abuse. The new regime provides greater regulatory certainty ahead of mandatory authorization in October 2027, supporting innovation while strengthening investor protection and market integrity.&nbsp;ThreatsEdel Finance paused its lending protocol after an attacker manipulated the collateral value of a tokenized Google stock, creating approximately $403,000 in bad debt. The incident highlights persistent security risks in tokenized assets and DeFi, where pricing manipulation remains one of the industry's most common smart contract vulnerabilities.&nbsp;South Korea’s Financial Services Commission referred two individuals for prosecution over alleged crypto market manipulation, including a whale accused of accumulating nearly half of a token’s circulating supply before executing a pump-and-dump scheme. The cases highlight ongoing market integrity risks despite increasing regulatory oversight.&nbsp;A Florida man pleaded guilty to operating a crypto Ponzi scheme that caused at least $250 million in investor losses after raising more than $400 million through false promises of returns from crypto liquidity pools. The case emphasizes that fraud remains a significant threat to investor confidence despite the industry's growing institutional adoption.&nbsp;
 
-KITCO • 5h ago
+KITCO • 10h ago
 
 ---
 
@@ -246,7 +246,17 @@ Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 287 • 💬 97 • ⏱️ 17:12 • 3h ago
+👁️ 4K • 👍 346 • 💬 106 • ⏱️ 17:12 • 5h ago
+
+---
+
+**[Why Ethereum Is Headed to $20,000+](https://www.youtube.com/watch?v=HFsuTTrdW7Y)**
+
+Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
+
+📺 Credible Crypto
+
+👁️ 2K • 👍 232 • 💬 22 • ⏱️ 1:03:11 • 1h ago
 
 ---
 
@@ -256,47 +266,7 @@ Ethereum is trying to solve five major problems at once — speed, decentralizat
 
 📺 CoinGecko
 
-👁️ 1K • 👍 114 • 💬 31 • ⏱️ 10:28 • 7h ago
-
----
-
-**[Ethereum Double Top Could Trigger A Fast Drop](https://www.youtube.com/watch?v=0vlXhtX6bC0)**
-
-JULY 4TH SALE: UP TO $800 Off Indicators/ +20% Off Metric Charts: https://tradeconfidentportal.io/indicators Join Trade ...
-
-📺 Trade Confident
-
-👁️ 53 • 👍 7 • 💬 1 • ⏱️ 5:35 • 39m ago
-
----
-
-**[Why Ethereum Keeps Losing Its Best Builders](https://www.youtube.com/watch?v=2uhB5n639x0)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 16K • 👍 706 • 💬 84 • ⏱️ 13:11 • 1d ago
-
----
-
-**[ETHEREUM’S BIGGEST UPGRADE.](https://www.youtube.com/watch?v=4Qz7RzgHqBo)**
-
-Welcome back to Crypto Ki Taaza Khabar In this episode, we discuss Ethereum's biggest upcoming upgrade, the latest crypto ...
-
-📺 Bitinning
-
-👁️ 2K • 👍 299 • 💬 13 • ⏱️ 11:03 • 2h ago
-
----
-
-**[VERY BAD NEWS FOR BITCOIN &amp; ETHEREUM](https://www.youtube.com/watch?v=b8ULMW5cXHY)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 4K • 👍 239 • 💬 55 • ⏱️ 9:44 • 5h ago
+👁️ 1K • 👍 122 • 💬 33 • ⏱️ 10:28 • 9h ago
 
 ---
 
@@ -306,7 +276,57 @@ Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy In th
 
 📺 Digital Asset Investor
 
-👁️ 11K • 👍 1K • 💬 1 • ⏱️ 20:10 • 5h ago
+👁️ 15K • 👍 1K • 💬 11 • ⏱️ 20:10 • 7h ago
+
+---
+
+**[Ethereum Double Top Could Trigger A Fast Drop](https://www.youtube.com/watch?v=0vlXhtX6bC0)**
+
+JULY 4TH SALE: UP TO $800 Off Indicators/ +20% Off Metric Charts: https://tradeconfidentportal.io/indicators Join Trade ...
+
+📺 Trade Confident
+
+👁️ 95 • 👍 10 • 💬 1 • ⏱️ 5:35 • 2h ago
+
+---
+
+**[Why Ethereum’s New Era Is More Bullish Than Ever](https://www.youtube.com/watch?v=S4IbDzJnFC8)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 278 • 👍 30 • 💬 8 • ⏱️ 1:09:10 • 1h ago
+
+---
+
+**[Why Ethereum Keeps Losing Its Best Builders](https://www.youtube.com/watch?v=2uhB5n639x0)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 16K • 👍 715 • 💬 90 • ⏱️ 13:11 • 1d ago
+
+---
+
+**[Ethereum Y Altcoins: Analisis A Largo Plazo #4](https://www.youtube.com/watch?v=qzJXDRtzYso)**
+
+Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VIDA) ...
+
+📺 CdeCripto
+
+👁️ 1K • 👍 235 • 💬 25 • ⏱️ 13:52 • 3h ago
+
+---
+
+**[VERY BAD NEWS FOR BITCOIN &amp; ETHEREUM](https://www.youtube.com/watch?v=b8ULMW5cXHY)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 5K • 👍 250 • 💬 54 • ⏱️ 9:44 • 7h ago
 
 ---
 
@@ -316,27 +336,7 @@ Who could have known that Ripple partnering with one of the largest banks on the
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 682 • 💬 64 • ⏱️ 37:30 • 9h ago
-
----
-
-**[&quot;Load Up In July! Why This Crypto BULL MARKET Will Be SHOCKING&quot;: Matt Hougan &amp; Tom Lee](https://www.youtube.com/watch?v=95fLDF5cYaU)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 204 • 💬 19 • ⏱️ 18:59 • 2d ago
-
----
-
-**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading @Ashutosh_kumar_live](https://www.youtube.com/watch?v=il9G9Vba58g)**
-
-LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #livetrading #live #goldtrading #cryptotrading #gold ...
-
-📺 Ashutosh Kumar
-
-👁️ 6K • 👍 851 • 2h ago
+👁️ 6K • 👍 710 • 💬 68 • ⏱️ 37:30 • 11h ago
 
 ---
 
