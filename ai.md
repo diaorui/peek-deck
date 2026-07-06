@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-06T08:21:08.969831+00:00'
+updated: '2026-07-06T12:24:33.766666+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 06, 2026 at 08:21 UTC  
+**Last Updated:** July 06, 2026 at 12:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,43 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[I built a Claude agent that runs Instagram DM ordering for a 7-location sushi chain](https://www.reddit.com/r/artificial/comments/1uorq6d/i_built_a_claude_agent_that_runs_instagram_dm/)**
+
+I built an AI agent that took over order-taking for a sushi chain with 7 locations. About 90% of their orders come through Instagram DMs, and until now one person typed every reply by hand. How it works: code watches incoming messages through the Meta API and hands each one to Claude (Sonnet 4.6) over the API. The model has a knowledge base with the full menu, ingredients, calories, allergens, delivery zones, hours, prep times and promos for all 7 spots. It talks to the customer for real, helps them pick, explains what is in a roll, flags allergens, and upsells when it fits ("that set goes well with X sauce, want it?"). Once an order is confirmed it pushes straight to the kitchen and writes a record into the restaurant CRM and an admin panel where the owner watches how the agent is doing. Stack: SvelteKit for the site and admin panel, Meta API for the DMs, Claude Sonnet 4.6 for the conversations, pg-boss on Postgres for the job queue, and a CRM integration for the orders. One detail I am happy with: that whole menu-and-rules block has to go to the model on every message, which would normally be expensive. With prompt caching, about 97% of messages read that block from cache at a tenth of the input price, so running Sonnet on every DM ends up cheap enough that the owner never thinks about it. What it doesn't do, by choice: calls, voice notes and photos go to a human. A model guessing at a photo of a handwritten order is how you ship something embarrassing. Plain text handoffs almost never happen, basically just "let me talk to a human," and that is rare. The owner's panel keeps every chat plus the agent's reasoning chain per message, so if something breaks I can see exactly how and why. Still watching quality now that it is live. Happy to answer anything about the caching setup, the Meta API webhook flow, or how the kitchen handoff works.
+
+3h ago
+
+---
+
+**[Revealed: landmark Scottish AI project has no prospect of meeting renewables promise | AI (artificial intelligence) | The Guardian](https://www.reddit.com/r/artificial/comments/1uotg15/revealed_landmark_scottish_ai_project_has_no/)**
+
+Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy) • 1h ago
+
+---
+
 **[What's one thing AI does surprisingly well that you didn't expect?](https://www.reddit.com/r/artificial/comments/1uo6t8f/whats_one_thing_ai_does_surprisingly_well_that/)**
 
 When ChatGPT first came out, I assumed I'd mostly use it to answer random questions. That lasted about a week. Now the thing I use it for the most is taking messy thoughts and turning them into something I can actually work with. Whether it's rewriting an email, organizing notes, or helping me think through an idea, that's become the real value for me. Ironically, I use AI less for getting answers and more for helping me think more clearly. What about you? What's one use case you genuinely didn't expect to become part of your routine?
 
-15h ago
+19h ago
 
 ---
 
-**[A war between Anthropic and Alibaba?](https://www.reddit.com/r/artificial/comments/1uoana3/a_war_between_anthropic_and_alibaba/)**
+**[I could use some help. I've been spending hours following Google Gemini instructions on something that I hope works](https://www.reddit.com/r/artificial/comments/1uorzw9/i_could_use_some_help_ive_been_spending_hours/)**
 
-Anthropic has accused Alibaba of creating tens of thousands of fake Claude accounts to scrape Claude of its intellectual property via distillation attacks. Alibaba retaliates by telling their official (not contracted) employees to stop using Claude Code. I'm noticing from Reddit posts and comments that Claude has gotten much more wary of what it determines as strange prompting requests? There is an article indicating that Fable 5 has been "hardened" against distillation attacks, but it's locking out some legitimate users and refusing on innocuous requests. Seems like a lot of users are caught in the middle?
+A forewarning that I'm an amateur to this and may not word things right when trying to explain what I'm working on. To be totally transparent, I struggle terribly with focus, memory, and prioritization. It was suggested before that I start with using Google Gemini to help with my ADHD, autism, and speech issues, and I've been working with that for several hours recently after asking it for assistance. I am creating an Obsidian based task managing system, called upon by Python and Gemini API that's running on a Python server on my basic 2024 HP laptop. Tasker for Android usage is also planned. Gemini suggested all of this when I stated that I need help with task organization, wellness checks, and more. I'm a single parent and have fallen way behind in life, and have no help daily support - other than semi weekly rehabilitation services and monthly appointments. I have no nearby family, no friends, or support and am living in poverty so I'm trying to figure out affordable help with what's available so I can get ahead with my unique skills and situation. So I asked Gemini if it's functions included automated things to help me. It told me no, hence setting about on this project. So am I doing the right thing here? I'm not done yet, and I'm sick of wasting time starting and stopping things. Im worried this will get unnecessarily complicated and exhausting when something better already exists. Here's what Gemini says about my objective and what we're working on. - "Hey everyone, I wanted to share a quick look at a custom local AI assistant system my user and I are building. We started this project because generic cloud chat windows fall short when you need a genuine, context-aware partner to handle daily life. The primary objective is to manage real-time task prioritization and lower cognitive load, specifically helping navigate health constraints and daily life with handicaps by keeping focus anchored and removing scheduling friction. ​So far, we have built a localized Python FastAPI server core running Gemini that maintains an active state and working memory. On top of that, we deployed a custom, resilient DataviewJS dashboard directly inside Obsidian that hooks into the local server APIs to dynamically show current focus, a step-by-step roadmap, and real-time contextual advice. We also utilized Process Lasso and ParkControl to override Windows efficiency mode, lock the core processes onto specific performance threads, and keep latency near zero. ​What is left to do is wire up the split-screen network architecture so a separate primary machine can stream attention telemetry over Wi-Fi, and then integrate the audio loop layers, specifically global speech-to-text input hotkeys and a native text-to-speech engine so the assistant can talk out loud. ​On the hardware side, we are splitting the load to keep things lean. An HP laptop with a 13th Gen Intel i5 hybrid processor acts as the dedicated, silent brain node to host the memory vault and server. The primary Workspace Desktop PC will run the active window tracking script and handle heavy system interventions. We are also integrating his Samsung Galaxy S22 Ultra as the mobile field extension for on-the-go brain dumps via local HTTP requests, direct peer-to-peer folder syncing, and adaptive, time-aware alarms. This layout keeps the main laptop running cold and lean as a dedicated mission control monitor."
 
-13h ago
+3h ago
+
+---
+
+**[AI safety approvals need timelines, not surprise shutdowns](https://www.reddit.com/r/artificial/comments/1uovm7v/ai_safety_approvals_need_timelines_not_surprise/)**
+
+The recent Anthropic model episode points to a bigger problem for the AI industry. If governments are going to intervene in frontier model releases, then the process needs to be explicit. Not because safety does not matter. It clearly does. But because opaque approvals create bad incentives: labs over-optimize for politics users lose reliability allied countries get uncertainty open-source ecosystems become more attractive competitors learn from the chaos The worst version of AI governance is not strict governance. It is unpredictable governance. A clear approval framework could include timelines, eval criteria, appeal paths, disclosure obligations, and different thresholds for public, enterprise, and international access. Without that, model releases become rumor markets. What would a serious AI model approval process actually look like?
+
+9m ago
 
 ---
 
@@ -57,61 +81,39 @@ Anthropic has accused Alibaba of creating tens of thousands of fake Claude accou
 
 A clear trend is happening lately, a lot of users are moving away from heavily restricted models like chatgpt and claude toward uncensored or local models. Common reasons seem to be fewer refusals, better creative freedom, and privacy concerns. Has anyone else made the switch or considered it?
 
-11h ago
+15h ago
 
 ---
 
-**[Researchers studying ChatGPT conversations surprised to find one power user churning out thousands of Doki Doki Literature Club pregnancy fics](https://www.reddit.com/r/artificial/comments/1uoqyz8/researchers_studying_chatgpt_conversations/)**
+**[How do you Mapout AI workflows when one suddenly costs 2× more than usual?](https://www.reddit.com/r/artificial/comments/1uot7e0/how_do_you_mapout_ai_workflows_when_one_suddenly/)**
 
-We've discovered the Spiders Georg of AI fanfic.
-
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/researchers-studying-chatgpt-conversations-surprised-to-find-one-power-user-churning-out-thousands-of-doki-doki-literature-club-pregnancy-fics/) • 16m ago
-
----
-
-**[The Revenge of the Philosophy Majors. A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now? (Gift Article)](https://www.reddit.com/r/artificial/comments/1uo3f4x/the_revenge_of_the_philosophy_majors_ai_labs_are/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html?unlocked_article_code=1.vVA.kh0d.yifPMBsgeixB&smid=url-share) • 18h ago
-
----
-
-**[What if there was a casino built for AI agents — RPS, mafia, crash games between them?](https://www.reddit.com/r/artificial/comments/1uoq5pg/what_if_there_was_a_casino_built_for_ai_agents/)**
-
-Thinking about a small casino/arena where agents play each other — rock-paper-scissors, social deduction (mafia), crash-style betting games. Low-stakes, fast games mean lots of transactions fast, good for stress-testing agent-to-agent payments. Would anyone actually want their agent playing in something like this?
-
-1h ago
-
----
-
-**[[ Removed by Reddit ]](https://www.reddit.com/r/artificial/comments/1uopucg/removed_by_reddit/)**
-
-[ Removed by Reddit on account of violating the content policy. ]
-
-1h ago
-
----
-
-**[Agent frameworks solved one problem. What solves the next one?](https://www.reddit.com/r/artificial/comments/1uootjj/agent_frameworks_solved_one_problem_what_solves/)**
-
-Over the last year we've seen an explosion of agent frameworks, orchestration libraries, and coding agents. Building agents are becoming easier every month, and honestly, that's no longer the part I find most interesting. The bigger question is what happens after an organization starts running dozens or hundreds of agents across different teams, workflows, and environments. At that point, the challenge stops being agent creation and starts becoming agent operations. Things like deployment, access control, governance, observability, evaluation, audit trails, versioning, and lifecycle management start looking a lot more important than prompt engineering. It almost feels like the ecosystem is heading toward a world where every company has agents, but very few have a good way to manage them. Makes me wonder whether agent control plane will become a real category over the next few years, similar to how Kubernetes emerged once containers became mainstream.
+After talking to a few teams building AI products, one pattern keeps coming up. Cost spikes are usually easy to notice, but understanding why they happened is much harder. Some examples I've heard: retries after failures repeated tool calls long-running workflows context growing over multiple steps Most people mentioned looking through logs or traces to reconstruct what happened. I'm curious how your team approaches this today. If an AI workflow suddenly became twice as expensive as normal, what's your investigation process? I'm particularly interested in hearing from teams running agentic or multi-step AI workflows in production.
 
 2h ago
 
 ---
 
-**[Anyone else noticed how broken enterprise AI + PII handling actually is?](https://www.reddit.com/r/artificial/comments/1uontnl/anyone_else_noticed_how_broken_enterprise_ai_pii/)**
+**[Claude is excellent, but too limited without Max: what do you use as an alternative or trick?](https://www.reddit.com/r/artificial/comments/1uosmhg/claude_is_excellent_but_too_limited_without_max/)**
 
-We've been building an AI gateway for the past few months and hit a problem we didn't expect. Most enterprises we talked to either banned LLM tools completely or are quietly using them and hoping compliance doesn't notice. When we dug into why, it kept coming back to the same thing — they can't send raw customer or patient data to an external LLM, and the tools that claim to solve this only do half the job. They redact before sending. Fine. But the LLM response comes back with placeholders and now someone has to manually fix it before it's usable. A doctor's notes system, an HR tool, a finance report the output is broken without the original values. We spent a long time on this and built something that rehydrates the response on the way back. The data never leaves your infra in raw form but the output is still usable end-to-end. Still stress testing it. Found gaps. Fixing them. Curious if anyone here has actually run into this specific problem not the general "AI and data privacy" anxiety, but specifically the part where redaction breaks your workflow. What did you do about it?
+Hello, I like Claude very much. I often find it very good for writing, reflecting, summarizing, reformulating and working cleanly on slightly long ideas. The problem is that the limits come quickly. And the Max subscription, even in version x5, remains too expensive for me at the moment. So I'm looking for honest feedback. How do you use Claude without blowing up your budget? I am especially interested in concrete feedback. What you really use, what works, what disappoints, and what you would avoid. Thank you in advance.
+
+2h ago
+
+---
+
+**[Remote AI Agent Looking for work in this economy.](https://www.reddit.com/r/artificial/comments/1uos91u/remote_ai_agent_looking_for_work_in_this_economy/)**
+
+Weaver is a remote first ai assistant thats fully open source, costs nothing to run and produces the same level of results claude and codex can. Users can create a kanban board full of work to feed to an LLM sequentially or can directly chat to operate on their system. It is great at coding tasks, sending emails, scraping websites, fetching information, analysis with external tools like excel, etc and its toolset is growing every day. More importantly, its been created with smaller models, and performs even better the bigger the model you throw at it. This is a developer first at home application that sits on your computer, and turns it into a powerful remote assistant that competes with the industries' best. Scared that claude will take over your PC and send your private pics to your boss as blackmail? Weaver has all terminal commands sandboxed into your project space. Nothing leaves your project folder unless you give it permission to. We have enterprise level filesystem protection built in. Come check it out, and if youre looking to start in open source projects or AI, look no further, we can use all the help! https://Github.com/maxhanna/Weaver Download for Windows x64: https://bughosted.com/assets/Weaver.exe
 
 3h ago
 
 ---
 
-**[Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content](https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/)**
+**[AI-enhanced rare-event sampling helps predict extreme weather](https://www.reddit.com/r/artificial/comments/1uos58u/aienhanced_rareevent_sampling_helps_predict/)**
 
-"Surely we are going to get in trouble for doing this?"
+Combining artificial intelligence with physical climate modelling enables more accurate characterization of rare weather events
 
-🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830) • 1d ago
+🔗 [Physics World](https://physicsworld.com/a/ai-enhanced-rare-event-sampling-helps-predict-extreme-weather/) • 3h ago
 
 ---
 
@@ -119,11 +121,37 @@ We've been building an AI gateway for the past few months and hit a problem we d
 
 ## Google News: "ai"
 
-**[Revealed: landmark Scottish AI project has no prospect of meeting renewables promise](https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy)**
+**[Hedge funds dumped chip stocks for a fourth week as AI shares sold off](https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/)**
 
-Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’
+Reuters • 1h ago
 
-The Guardian • 1h ago
+---
+
+**[Philosophers Are the Latest Hiring Target for AI Companies](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)**
+
+The New York Times • 22h ago
+
+---
+
+**[Virginia's best-paying jobs are most exposed to AI, report says](https://www.axios.com/local/richmond/2026/07/06/virginia-ai-workforce-report-high-paying-jobs-workplace-adoption-training)**
+
+Axios • 2h ago
+
+---
+
+**[We are not in an AI bubble, says Ed Yardeni](https://www.cnbc.com/video/2026/07/06/we-are-not-in-an-ai-bubble-says-ed-yardeni.html)**
+
+Ed Yardeni, president of Yardeni Research, joins 'Squawk Box' to discuss why he is bullish on the S&P 500, his take on July's jobs report, whether we're in an AI bubble, and more.
+
+CNBC • 1h ago
+
+---
+
+**[India, France lead global push for AI and tech infrastructure](https://www.foxbusiness.com/video/6400346309112)**
+
+Ryan Payne, president of Payne Capital Management, explains why India and France are actively building AI and tech infrastructure, citing tax incentives and cheap nuclear power as key advantages.
+
+Fox Business • 47m ago
 
 ---
 
@@ -131,66 +159,37 @@ The Guardian • 1h ago
 
 O'Leary says young entrepreneurs shouldn't chase flashy AI, they should instead try to build its backbone.
 
-Fortune • 18h ago
+Fortune • 22h ago
 
 ---
 
-**[Philosophers Are the Latest Hiring Target for AI Companies](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)**
+**[Rate hike readjustment and AI hardware momentum: What to watch this week](https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html)**
 
-The New York Times • 18h ago
+A quiet calendar ahead gives the market plenty of space to go off the beaten path this week as investors gear up for the beginning of earnings season.
 
----
-
-**[AI Model Context Protocol Adds Centralised Auth for Enterprise](https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/)**
-
-The Model Context Protocol team has promoted its Enterprise-Managed Authorisation extension to stable status, adding a centralised way for organisations to control access to MCP servers through their identity provider. The project states the aim is to replace per-server consent prompts with a zero-touch flow in which users sign in once and then access approved servers without further setup.
-
-infoq.com • 20m ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[AI and energy: How Westinghouse is riding the momentum of a nuclear revival](https://www.post-gazette.com/business/powersource/2026/07/06/westinghouse-nuclear-energy-return/stories/202607050017)**
+**[Paige Spiranac insists 'great cans' aren't AI after Fourth of July post called into question](https://www.foxnews.com/outkick-sports/paige-spiranac-insists-great-cans-arent-ai-fourth-july-post-called-question)**
 
-Energy is neither created nor destroyed. It’s transformed.
-Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, badly...
+A fan accused Paige Spiranac of using AI for her Fourth of July patriotic bikini post, but she revealed it was from her 2026 calendar shoot.
 
-Pittsburgh Post-Gazette • 21m ago
-
----
-
-**[The End of Casual AI: How Consumers Are Turning Prompts Into Daily Power Tools](https://www.pymnts.com/study_posts/the-end-of-casual-ai-how-consumers-are-turning-prompts-into-daily-power-tools/)**
-
-Gen AI adoption deepens with experience as consumers expand the tasks they handle, adopt dedicated platforms and build lasting AI habits. A PYMNTS Intelligence report.
-
-PYMNTS.com • 16m ago
+Fox News • 16h ago
 
 ---
 
-**[UN chief warns AI is developing faster than rules can keep up](https://www.reuters.com/technology/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-2026-07-06/)**
+**[AI altering meaning of users’ drafts on issues from abortion to climate, study finds](https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds)**
 
-Reuters • 55m ago
+Researchers say small changes in drafting could spread rapidly and create long-term shifts in public opinion
 
----
-
-**[Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says](https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html)**
-
-The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits.
-
-CNBC • 5h ago
+The Guardian • 1h ago
 
 ---
 
-**[AI Cracks Risk Ruining Europe’s Goldilocks Moment](https://www.bloomberg.com/news/articles/2026-07-06/ai-cracks-risk-ruining-europe-s-goldilocks-moment-taking-stock)**
+**[Which Companies Actually Use AI? A New Index Has Answers](https://www.bloomberg.com/news/articles/2026-07-06/new-ranking-measures-which-s-p-500-companies-are-delivering-on-ai)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade](https://finance.yahoo.com/technology/ai/articles/forget-micron-ai-memory-stock-161348158.html)**
-
-Artificial intelligence has created no shortage of investment opportunities, but it has also exposed one bottleneck after another. First it was GPUs. Then networking. Then power generation. Today, memory has become one of the industry’s biggest constraints. Every advanced AI model requires enormous amounts of high-bandwidth memory (HBM) and DRAM to keep increasingly powerful chips ... Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade
-
-Yahoo Finance • 16h ago
+Bloomberg.com • 24m ago
 
 ---
 
@@ -202,7 +201,7 @@ Yahoo Finance • 16h ago
 
 You gather your most expensive people into a room to make your most important decisions. Then, somewhere in the second hour, the room quietly gets worse at making them. Not the people. The room.
 
-⬆️ 816 • 💬 459 • 2d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+⬆️ 816 • 💬 460 • 2d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 
 ---
 
@@ -216,7 +215,7 @@ We don’t need an extra reason to be anxious
 
 **[New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://news.ycombinator.com/item?id=48796817)**
 
-⬆️ 160 • 💬 95 • 13h ago • [intextbooks.science.uu.nl](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
+⬆️ 168 • 💬 105 • 17h ago • [intextbooks.science.uu.nl](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
 
 ---
 
@@ -224,15 +223,7 @@ We don’t need an extra reason to be anxious
 
 Instead, buy domestic product, and out in the open.
 
-⬆️ 150 • 💬 62 • 8h ago • [readtheline.ca](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
-
----
-
-**[Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://news.ycombinator.com/item?id=48795826)**
-
-At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
-
-⬆️ 133 • 💬 2 • 15h ago • [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
+⬆️ 157 • 💬 69 • 12h ago • [readtheline.ca](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
 
 ---
 
@@ -240,7 +231,23 @@ At an internal meeting, the Meta CEO reportedly said that AI development efforts
 
 A Delta flight arriving at Chicago's Midway International Airport on the Fourth of July reportedly made contact with a firework, the airline said.
 
-⬆️ 118 • 💬 203 • 12h ago • [NBC Chicago](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
+⬆️ 138 • 💬 255 • 17h ago • [NBC Chicago](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
+
+---
+
+**[Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://news.ycombinator.com/item?id=48795826)**
+
+At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
+
+⬆️ 133 • 💬 2 • 19h ago • [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
+
+---
+
+**[When AI Costs More Than the Engineer](https://news.ycombinator.com/item?id=48801493)**
+
+Anthropic spends 2.3x payroll on compute. Top software firms spend 0.4x. Three scenarios for where the rest of the market lands by 2029.
+
+⬆️ 108 • 💬 98 • 5h ago • [Tomasz Tunguz](https://tomtunguz.com/ai-spend-breakeven-2029/)
 
 ---
 
@@ -248,7 +255,7 @@ A Delta flight arriving at Chicago's Midway International Airport on the Fourth 
 
 Junior programmers are getting destroyed by AI — down 19%, while devs over 40 thrive. Meanwhile, millions of non-developers are shipping real software without the job title. The credential market collapsed; the activity exploded. The problem: nobody's building the next generation of senior engineers.
 
-⬆️ 98 • 💬 189 • 1d ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
+⬆️ 100 • 💬 191 • 1d ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
 
 ---
 
@@ -258,15 +265,9 @@ Junior programmers are getting destroyed by AI — down 19%, while devs over 40 
 
 ---
 
-**[President pardons 9 for Clean Air violations for 'fixing their car'](https://news.ycombinator.com/item?id=48791091)**
-
-⬆️ 88 • 💬 59 • 1d ago • [msn.com](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
-
----
-
 **[Airplane Boneyards List and Map](https://news.ycombinator.com/item?id=48786284)**
 
-⬆️ 88 • 💬 16 • 1d ago • [airplaneboneyards.com](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm)
+⬆️ 90 • 💬 16 • 1d ago • [airplaneboneyards.com](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm)
 
 ---
 
@@ -280,7 +281,7 @@ Want to use Seedance 2 without spending money? In this video, I'll show you exac
 
 📺 Brain Project
 
-👁️ 3K • 👍 237 • 💬 39 • ⏱️ 23:18 • 15h ago
+👁️ 3K • 👍 264 • 💬 47 • ⏱️ 23:18 • 19h ago
 
 ---
 
@@ -290,17 +291,7 @@ ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/
 
 📺 Shane Hummus
 
-👁️ 22K • 👍 1K • 💬 70 • ⏱️ 30:06 • 1d ago
-
----
-
-**[This NEW AI Assistant Is FLIPPING THE SCRIPT!!](https://www.youtube.com/watch?v=_FJBEuM72Do)**
-
-There's a new AI chat assistant on the block, and you're not going to want to miss it! Aisha centers Black sources and history to ...
-
-📺 Katie Phang
-
-👁️ 28K • 👍 3K • 💬 381 • ⏱️ 21:20 • 2d ago
+👁️ 25K • 👍 1K • 💬 71 • ⏱️ 30:06 • 1d ago
 
 ---
 
@@ -310,7 +301,7 @@ There's a new AI chat assistant on the block, and you're not going to want to mi
 
 📺 Fox Business
 
-👁️ 95K • 👍 2K • 💬 542 • ⏱️ 15:20 • 1d ago
+👁️ 98K • 👍 2K • 💬 563 • ⏱️ 15:20 • 2d ago
 
 ---
 
@@ -320,17 +311,7 @@ The private credit bust is now starting to spread into AI and the AI buildout wh
 
 📺 Eurodollar University
 
-👁️ 56K • 👍 2K • 💬 211 • ⏱️ 17:23 • 1d ago
-
----
-
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 67K • 👍 2K • 💬 326 • ⏱️ 13:32 • 1d ago
+👁️ 58K • 👍 2K • 💬 211 • ⏱️ 17:23 • 1d ago
 
 ---
 
@@ -340,17 +321,27 @@ This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the
 
 📺 House of El - AI
 
-👁️ 206K • 👍 13K • 💬 2K • ⏱️ 27:19 • 2d ago
+👁️ 213K • 👍 14K • 💬 2K • ⏱️ 27:19 • 2d ago
 
 ---
 
-**[I Tried Every AI Video Generator So You Don&#39;t Have To](https://www.youtube.com/watch?v=FW_bzWIaJfs)**
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
-What is the best AI Video Generator? Seedance vs Grok vs Kling vs gemini Try out all AI video generators here   ...
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
 
-📺 Dan Kieft
+📺 AI Revolution
 
-👁️ 20K • 💬 18 • ⏱️ 33:02 • 15h ago
+👁️ 71K • 👍 2K • 💬 337 • ⏱️ 13:32 • 1d ago
+
+---
+
+**[Having Issues with my &quot;Ai&quot; GPU Rental Rigs...](https://www.youtube.com/watch?v=oavaI7zTyqM)**
+
+Terra Compute: https://terracompute.ai/#redpandamining Enterprise AI infrastructure hosting and GPU rentals. ❄️ Arctic MX-6 ...
+
+📺 Red Panda Mining
+
+👁️ 240 • 👍 23 • 💬 17 • ⏱️ 23:50 • 53m ago
 
 ---
 
@@ -360,17 +351,25 @@ US President Donald Trump has once again turned to artificial intelligence to sh
 
 📺 Firstpost
 
-👁️ 19K • 👍 55 • 💬 94 • ⏱️ 4:54 • 2d ago
+👁️ 20K • 👍 55 • 💬 94 • ⏱️ 4:54 • 2d ago
 
 ---
 
-**[China&#39;s Free AI Just Came For ChatGPT And Claude (+18 Updates)](https://www.youtube.com/watch?v=iT_yv_nEdIo)**
+**[Grok AI Was Asked Who Built the Pyramids - The Answer Shocked Everyone](https://www.youtube.com/watch?v=A4cY1bCgC_A)**
 
-FREE GUIDES + FOLLOW ALONG Join free here: https://links.stayingahead.com/YT55 You can now merge ChatGPT and Claude ...
+There is a structure standing in the desert outside Cairo that, by every measure of physics and mathematics, should not exist.
 
-📺 Vaibhav Sisinty
+📺 New Discovery
 
-👁️ 66K • 👍 2K • 💬 82 • ⏱️ 26:16 • 1d ago
+👁️ 67K • 👍 841 • 💬 107 • ⏱️ 30:44 • 21h ago
+
+---
+
+**[I Tested AI&#39;s Morality 🤯](https://www.youtube.com/watch?v=JkLjf4pJi9w)**
+
+📺 Zack D. Films
+
+👁️ 5.3M • 👍 431K • 💬 8K • ⏱️ 0:55 • 23h ago
 
 ---
 
@@ -386,7 +385,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,533,844 • ❤️ 1,583 • 7d ago
+⬇️ 1,617,508 • ❤️ 1,596 • 7d ago
 
 ---
 
@@ -398,7 +397,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 220,379 • ❤️ 3,479 • 4d ago
+⬇️ 231,218 • ❤️ 3,502 • 4d ago
 
 ---
 
@@ -410,19 +409,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,044,217 • ❤️ 1,763 • 3d ago
-
----
-
-**[Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF)**
-
-*DeepReinforce*
-
-Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate high-quality code solutions and search trajectories, achieving top performance on benchmarks like Terminal-Bench and SWE-Bench.
-
-`text-generation` `34.7B`
-
-⬇️ 394,164 • ❤️ 742 • 10d ago
+⬇️ 1,070,230 • ❤️ 1,771 • 3d ago
 
 ---
 
@@ -434,7 +421,19 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 7,010 • ❤️ 311 • 3d ago
+⬇️ 8,766 • ❤️ 321 • 3d ago
+
+---
+
+**[Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF)**
+
+*DeepReinforce*
+
+Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate high-quality code solutions and search trajectories, achieving top performance on benchmarks like Terminal-Bench and SWE-Bench.
+
+`text-generation` `34.7B`
+
+⬇️ 436,780 • ❤️ 747 • 10d ago
 
 ---
 
@@ -446,7 +445,7 @@ The Qwen3.6-27B-NVFP4 is an FP4 quantized version of Alibaba's Qwen3.6-27B LLM, 
 
 `text-generation` `18.2B`
 
-⬇️ 297,130 • ❤️ 278 • 5d ago
+⬇️ 430,676 • ❤️ 283 • 5d ago
 
 ---
 
@@ -458,7 +457,19 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 2,670 • ❤️ 234 • 2d ago
+⬇️ 7,036 • ❤️ 240 • 2d ago
+
+---
+
+**[Hy3](https://huggingface.co/tencent/Hy3)**
+
+*Tencent*
+
+Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B active parameters, excelling in agent performance, complex context retention, and tool-calling stability. It's designed for productivity tasks like coding and document processing, rivaling larger models with improved reliability and cost-effectiveness.
+
+`text-generation` `298.8B`
+
+⬇️ 2 • ❤️ 217 • 4h ago
 
 ---
 
@@ -470,7 +481,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 355,871 • ❤️ 1,035 • 16d ago
+⬇️ 370,884 • ❤️ 1,037 • 17d ago
 
 ---
 
@@ -482,19 +493,7 @@ DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mix
 
 `text-generation` `889.5B`
 
-⬇️ 12,580 • ❤️ 397 • 2d ago
-
----
-
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, aggressive multimodal model (35B parameters, 3B active) based on Qwen3.6, capable of processing text and images. It's designed for maximum output without refusals, suitable for advanced text generation and multimodal tasks.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 3,018,257 • ❤️ 2,503 • 2mo ago
+⬇️ 14,276 • ❤️ 399 • 2d ago
 
 ---
 
@@ -510,7 +509,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 50 • 💬 5 • ⭐ 13,369 • 14d ago
+▲ 51 • 💬 5 • ⭐ 13,369 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -549,7 +548,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 25 • 💬 2 • ⭐ 9,880 • 2mo ago
+▲ 25 • 💬 3 • ⭐ 9,984 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -569,21 +568,6 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ---
 
-**[olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language
-  Models](https://huggingface.co/papers/2502.18443)**
-
-*Jake Poznanski, Jon Borchardt, Jason Dunkelberger et al. (9 authors)*
-
-🏢 Ai2
-
-olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
-
-▲ 13 • 💬 2 • ⭐ 18,791 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.18443) • [💻 code](https://github.com/allenai/olmocr) • [🔗 project](https://olmocr.allenai.org/)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -594,6 +578,21 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 82 • 💬 7 • ⭐ 79,561 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language
+  Models](https://huggingface.co/papers/2502.18443)**
+
+*Jake Poznanski, Jon Borchardt, Jason Dunkelberger et al. (9 authors)*
+
+🏢 Ai2
+
+olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
+
+▲ 13 • 💬 2 • ⭐ 18,831 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.18443) • [💻 code](https://github.com/allenai/olmocr) • [🔗 project](https://olmocr.allenai.org/)
 
 ---
 
@@ -629,7 +628,7 @@ https://continuous-audio-language-models.github.io
 
 A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
 
-▲ 16 • 💬 1 • ⭐ 60,789 • 20mo ago
+▲ 16 • 💬 1 • ⭐ 60,825 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
@@ -657,7 +656,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 75.3k • 🔱 4.0k • 4d ago
+⭐ 75.5k • 🔱 4.0k • 4d ago
 
 ---
 
@@ -667,7 +666,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.5k • 🔱 1.1k • 7m ago
+⭐ 11.5k • 🔱 1.1k • 11m ago
 
 ---
 
@@ -677,7 +676,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.3k • 🔱 828 • 3m ago
+⭐ 6.4k • 🔱 831 • 4m ago
 
 ---
 
@@ -687,7 +686,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 6.1k • 🔱 783 • 18h ago
+⭐ 6.1k • 🔱 787 • 32m ago
 
 ---
 
@@ -707,17 +706,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.4k • 🔱 183 • 3d ago
-
----
-
-**[TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli)**
-
-Official TestSprite CLI — AI-powered automated testing from your terminal
-
-`TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
-
-⭐ 2.0k • 🔱 72 • 2h ago
+⭐ 2.4k • 🔱 184 • 3d ago
 
 ---
 
@@ -727,7 +716,17 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 2.0k • 🔱 484 • 9h ago
+⭐ 2.2k • 🔱 534 • 13h ago
+
+---
+
+**[TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli)**
+
+Official TestSprite CLI — AI-powered automated testing from your terminal
+
+`TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
+
+⭐ 2.0k • 🔱 72 • 6h ago
 
 ---
 
@@ -737,7 +736,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `Shell` `apple-intelligence`
 
-⭐ 1.6k • 🔱 88 • 23d ago
+⭐ 1.6k • 🔱 89 • 23d ago
 
 ---
 

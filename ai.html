@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-07-06T08:21:08.504721+00:00"
+          "dateModified": "2026-07-06T12:24:33.295249+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,89 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uorq6d/i_built_a_claude_agent_that_runs_instagram_dm/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1uorq6d/i_built_a_claude_agent_that_runs_instagram_dm/" target="_blank" onclick="event.stopPropagation();">I built a Claude agent that runs Instagram DM ordering for a 7-location sushi chain</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I built an AI agent that took over order-taking for a sushi chain with 7 locations. About 90% of their orders come through Instagram DMs, and until now one person typed every reply by hand. How it works: code watches incoming messages through the Meta API and hands each one to Claude (Sonnet 4.6) over the API. The model has a knowledge base with the full menu, ingredients, calories, allergens, delivery zones, hours, prep times and promos for all 7 spots. It talks to the customer for real, helps them pick, explains what is in a roll, flags allergens, and upsells when it fits ("that set goes well with X sauce, want it?"). Once an order is confirmed it pushes straight to the kitchen and writes a record into the restaurant CRM and an admin panel where the owner watches how the agent is doing. Stack: SvelteKit for the site and admin panel, Meta API for the DMs, Claude Sonnet 4.6 for the conversations, pg-boss on Postgres for the job queue, and a CRM integration for the orders. One detail I am happy with: that whole menu-and-rules block has to go to the model on every message, which would normally be expensive. With prompt caching, about 97% of messages read that block from cache at a tenth of the input price, so running Sonnet on every DM ends up cheap enough that the owner never thinks about it. What it doesn't do, by choice: calls, voice notes and photos go to a human. A model guessing at a photo of a handwritten order is how you ship something embarrassing. Plain text handoffs almost never happen, basically just "let me talk to a human," and that is rare. The owner's panel keeps every chat plus the agent's reasoning chain per message, so if something breaks I can see exactly how and why. Still watching quality now that it is live. Happy to answer anything about the caching setup, the Meta API webhook flow, or how the kitchen handoff works.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1783327791.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uotg15/revealed_landmark_scottish_ai_project_has_no/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NGqUhBnoZwRMKmN9qdZQtgahGR7C1TQGR62SWhB5RG4.jpeg?width=640&crop=smart&auto=webp&s=c8180bf938798e243df57d2fc45495c29a130de4" alt="Revealed: landmark Scottish AI project has no prospect of meeting renewables promise | AI (artificial intelligence) | The Guardian" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1uotg15/revealed_landmark_scottish_ai_project_has_no/" target="_blank" onclick="event.stopPropagation();">Revealed: landmark Scottish AI project has no prospect of meeting renewables promise | AI (artificial intelligence) | The Guardian</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1783333659.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>the Guardian</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uo6t8f/whats_one_thing_ai_does_surprisingly_well_that/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -647,7 +730,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uoana3/a_war_between_anthropic_and_alibaba/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uorzw9/i_could_use_some_help_ive_been_spending_hours/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -655,13 +738,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uoana3/a_war_between_anthropic_and_alibaba/" target="_blank" onclick="event.stopPropagation();">A war between Anthropic and Alibaba?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1uorzw9/i_could_use_some_help_ive_been_spending_hours/" target="_blank" onclick="event.stopPropagation();">I could use some help. I've been spending hours following Google Gemini instructions on something that I hope works</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Anthropic has accused Alibaba of creating tens of thousands of fake Claude accounts to scrape Claude of its intellectual property via distillation attacks. Alibaba retaliates by telling their official (not contracted) employees to stop using Claude Code. I'm noticing from Reddit posts and comments that Claude has gotten much more wary of what it determines as strange prompting requests? There is an article indicating that Fable 5 has been "hardened" against distillation attacks, but it's locking out some legitimate users and refusing on innocuous requests. Seems like a lot of users are caught in the middle?
+                            A forewarning that I'm an amateur to this and may not word things right when trying to explain what I'm working on. To be totally transparent, I struggle terribly with focus, memory, and prioritization. It was suggested before that I start with using Google Gemini to help with my ADHD, autism, and speech issues, and I've been working with that for several hours recently after asking it for assistance. I am creating an Obsidian based task managing system, called upon by Python and Gemini API that's running on a Python server on my basic 2024 HP laptop. Tasker for Android usage is also planned. Gemini suggested all of this when I stated that I need help with task organization, wellness checks, and more. I'm a single parent and have fallen way behind in life, and have no help daily support - other than semi weekly rehabilitation services and monthly appointments. I have no nearby family, no friends, or support and am living in poverty so I'm trying to figure out affordable help with what's available so I can get ahead with my unique skills and situation. So I asked Gemini if it's functions included automated things to help me. It told me no, hence setting about on this project. So am I doing the right thing here? I'm not done yet, and I'm sick of wasting time starting and stopping things. Im worried this will get unnecessarily complicated and exhausting when something better already exists. Here's what Gemini says about my objective and what we're working on. - "Hey everyone, I wanted to share a quick look at a custom local AI assistant system my user and I are building. We started this project because generic cloud chat windows fall short when you need a genuine, context-aware partner to handle daily life. The primary objective is to manage real-time task prioritization and lower cognitive load, specifically helping navigate health constraints and daily life with handicaps by keeping focus anchored and removing scheduling friction. ​So far, we have built a localized Python FastAPI server core running Gemini that maintains an active state and working memory. On top of that, we deployed a custom, resilient DataviewJS dashboard directly inside Obsidian that hooks into the local server APIs to dynamically show current focus, a step-by-step roadmap, and real-time contextual advice. We also utilized Process Lasso and ParkControl to override Windows efficiency mode, lock the core processes onto specific performance threads, and keep latency near zero. ​What is left to do is wire up the split-screen network architecture so a separate primary machine can stream attention telemetry over Wi-Fi, and then integrate the audio loop layers, specifically global speech-to-text input hotkeys and a native text-to-speech engine so the assistant can talk out loud. ​On the hardware side, we are splitting the load to keep things lean. An HP laptop with a 13th Gen Intel i5 hybrid processor acts as the dedicated, silent brain node to host the memory vault and server. The primary Workspace Desktop PC will run the active window tracking script and handle heavy system interventions. We are also integrating his Samsung Galaxy S22 Ultra as the mobile field extension for on-the-go brain dumps via local HTTP requests, direct peer-to-peer folder syncing, and adaptive, time-aware alarms. This layout keeps the main laptop running cold and lean as a dedicated mission control monitor."
                         </div>
                         
 
@@ -670,7 +753,40 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1783278604.0"></span>
+                                    <span data-timestamp="1783328710.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uovm7v/ai_safety_approvals_need_timelines_not_surprise/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1uovm7v/ai_safety_approvals_need_timelines_not_surprise/" target="_blank" onclick="event.stopPropagation();">AI safety approvals need timelines, not surprise shutdowns</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            The recent Anthropic model episode points to a bigger problem for the AI industry. If governments are going to intervene in frontier model releases, then the process needs to be explicit. Not because safety does not matter. It clearly does. But because opaque approvals create bad incentives: labs over-optimize for politics users lose reliability allied countries get uncertainty open-source ecosystems become more attractive competitors learn from the chaos The worst version of AI governance is not strict governance. It is unpredictable governance. A clear approval framework could include timelines, eval criteria, appeal paths, disclosure obligations, and different thresholds for public, enterprise, and international access. Without that, model releases become rumor markets. What would a serious AI model approval process actually look like?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1783340074.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -713,23 +829,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uoqyz8/researchers_studying_chatgpt_conversations/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uot7e0/how_do_you_mapout_ai_workflows_when_one_suddenly/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/pA0Czxt99tFcPtLz8ewJSPZJbRyxdZfzFtCs_TYjt5Y.jpeg?width=640&crop=smart&auto=webp&s=d1ff0bf5e8b2af09f37dea7e5824e2e2ecbdaef7" alt="Researchers studying ChatGPT conversations surprised to find one power user churning out thousands of Doki Doki Literature Club pregnancy fics" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uoqyz8/researchers_studying_chatgpt_conversations/" target="_blank" onclick="event.stopPropagation();">Researchers studying ChatGPT conversations surprised to find one power user churning out thousands of Doki Doki Literature Club pregnancy fics</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1uot7e0/how_do_you_mapout_ai_workflows_when_one_suddenly/" target="_blank" onclick="event.stopPropagation();">How do you Mapout AI workflows when one suddenly costs 2× more than usual?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            We've discovered the Spiders Georg of AI fanfic.
+                            After talking to a few teams building AI products, one pattern keeps coming up. Cost spikes are usually easy to notice, but understanding why they happened is much harder. Some examples I've heard: retries after failures repeated tool calls long-running workflows context growing over multiple steps Most people mentioned looking through logs or traces to reconstruct what happened. I'm curious how your team approaches this today. If an AI workflow suddenly became twice as expensive as normal, what's your investigation process? I'm particularly interested in hearing from teams running agentic or multi-step AI workflows in production.
                         </div>
                         
 
@@ -738,252 +852,124 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1783325085.0"></span>
+                                    <span data-timestamp="1783332870.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uosmhg/claude_is_excellent_but_too_limited_without_max/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1uosmhg/claude_is_excellent_but_too_limited_without_max/" target="_blank" onclick="event.stopPropagation();">Claude is excellent, but too limited without Max: what do you use as an alternative or trick?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hello, I like Claude very much. I often find it very good for writing, reflecting, summarizing, reformulating and working cleanly on slightly long ideas. The problem is that the limits come quickly. And the Max subscription, even in version x5, remains too expensive for me at the moment. So I'm looking for honest feedback. How do you use Claude without blowing up your budget? I am especially interested in concrete feedback. What you really use, what works, what disappoints, and what you would avoid. Thank you in advance.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1783330935.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uos91u/remote_ai_agent_looking_for_work_in_this_economy/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1uos91u/remote_ai_agent_looking_for_work_in_this_economy/" target="_blank" onclick="event.stopPropagation();">Remote AI Agent Looking for work in this economy.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Weaver is a remote first ai assistant thats fully open source, costs nothing to run and produces the same level of results claude and codex can. Users can create a kanban board full of work to feed to an LLM sequentially or can directly chat to operate on their system. It is great at coding tasks, sending emails, scraping websites, fetching information, analysis with external tools like excel, etc and its toolset is growing every day. More importantly, its been created with smaller models, and performs even better the bigger the model you throw at it. This is a developer first at home application that sits on your computer, and turns it into a powerful remote assistant that competes with the industries' best. Scared that claude will take over your PC and send your private pics to your boss as blackmail? Weaver has all terminal commands sandboxed into your project space. Nothing leaves your project folder unless you give it permission to. We have enterprise level filesystem protection built in. Come check it out, and if youre looking to start in open source projects or AI, look no further, we can use all the help! https://Github.com/maxhanna/Weaver Download for Windows x64: https://bughosted.com/assets/Weaver.exe
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1783329618.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uos58u/aienhanced_rareevent_sampling_helps_predict/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/oFz_FKr28FfUdpHjUHDFLnDLWQyje7J-a_nbrhnKeps.jpeg?width=640&crop=smart&auto=webp&s=7a9b3d626fc36b40a0c03cd3a58f3b1ef6529bfc" alt="AI-enhanced rare-event sampling helps predict extreme weather" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1uos58u/aienhanced_rareevent_sampling_helps_predict/" target="_blank" onclick="event.stopPropagation();">AI-enhanced rare-event sampling helps predict extreme weather</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Combining artificial intelligence with physical climate modelling enables more accurate characterization of rare weather events
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1783329242.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.pcgamer.com/software/ai/researchers-studying-chatgpt-conversations-surprised-to-find-one-power-user-churning-out-thousands-of-doki-doki-literature-club-pregnancy-fics/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://physicsworld.com/a/ai-enhanced-rare-event-sampling-helps-predict-extreme-weather/" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://vanilla.futurecdn.net/pcgamer/1680963/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <img src="https://physicsworld.com/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
                                             <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
                                                 <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
                                                 <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
                                             </svg>
                                             
                                         
-                                        <span>PC Gamer</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uo3f4x/the_revenge_of_the_philosophy_majors_ai_labs_are/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/Y6caOxfJI6NPpUAEQa1nDiTh1Ri-ap1QIHIarovXEZw.jpeg?width=640&crop=smart&auto=webp&s=adc31e5489039c6925d60e6cdcf78e400bf879a9" alt="The Revenge of the Philosophy Majors. A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now? (Gift Article)" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uo3f4x/the_revenge_of_the_philosophy_majors_ai_labs_are/" target="_blank" onclick="event.stopPropagation();">The Revenge of the Philosophy Majors. A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now? (Gift Article)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1783261262.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html?unlocked_article_code=1.vVA.kh0d.yifPMBsgeixB&smid=url-share" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>nytimes.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uoq5pg/what_if_there_was_a_casino_built_for_ai_agents/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uoq5pg/what_if_there_was_a_casino_built_for_ai_agents/" target="_blank" onclick="event.stopPropagation();">What if there was a casino built for AI agents — RPS, mafia, crash games between them?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Thinking about a small casino/arena where agents play each other — rock-paper-scissors, social deduction (mafia), crash-style betting games. Low-stakes, fast games mean lots of transactions fast, good for stress-testing agent-to-agent payments. Would anyone actually want their agent playing in something like this?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1783322172.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uopucg/removed_by_reddit/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uopucg/removed_by_reddit/" target="_blank" onclick="event.stopPropagation();">[ Removed by Reddit ]</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            [ Removed by Reddit on account of violating the content policy. ]
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1783321098.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uootjj/agent_frameworks_solved_one_problem_what_solves/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/a5h2e0gqujbh1.png?width=640&crop=smart&auto=webp&s=ce72bcc8eb4b44e01a7076f07f27c0f412de5f7f" alt="Agent frameworks solved one problem. What solves the next one?" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uootjj/agent_frameworks_solved_one_problem_what_solves/" target="_blank" onclick="event.stopPropagation();">Agent frameworks solved one problem. What solves the next one?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Over the last year we've seen an explosion of agent frameworks, orchestration libraries, and coding agents. Building agents are becoming easier every month, and honestly, that's no longer the part I find most interesting. The bigger question is what happens after an organization starts running dozens or hundreds of agents across different teams, workflows, and environments. At that point, the challenge stops being agent creation and starts becoming agent operations. Things like deployment, access control, governance, observability, evaluation, audit trails, versioning, and lifecycle management start looking a lot more important than prompt engineering. It almost feels like the ecosystem is heading toward a world where every company has agents, but very few have a good way to manage them. Makes me wonder whether agent control plane will become a real category over the next few years, similar to how Kubernetes emerged once containers became mainstream.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1783317578.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uontnl/anyone_else_noticed_how_broken_enterprise_ai_pii/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uontnl/anyone_else_noticed_how_broken_enterprise_ai_pii/" target="_blank" onclick="event.stopPropagation();">Anyone else noticed how broken enterprise AI + PII handling actually is?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            We've been building an AI gateway for the past few months and hit a problem we didn't expect. Most enterprises we talked to either banned LLM tools completely or are quietly using them and hoping compliance doesn't notice. When we dug into why, it kept coming back to the same thing — they can't send raw customer or patient data to an external LLM, and the tools that claim to solve this only do half the job. They redact before sending. Fine. But the LLM response comes back with placeholders and now someone has to manually fix it before it's usable. A doctor's notes system, an HR tool, a finance report the output is broken without the original values. We spent a long time on this and built something that rehydrates the response on the way back. The data never leaves your infra in raw form but the output is still usable end-to-end. Still stress testing it. Found gaps. Fixing them. Curious if anyone here has actually run into this specific problem not the general "AI and data privacy" anxiety, but specifically the part where redaction breaks your workflow. What did you do about it?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1783314230.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/yWH03dVtbvwyUJnngUCQyl8_3Q5CkXg5WDw1mWI4sxk.jpeg?width=640&crop=smart&auto=webp&s=aa62c9e3ba0d0f5ef50ed8d5fab09cdecc7aa326" alt="Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/" target="_blank" onclick="event.stopPropagation();">Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            "Surely we are going to get in trouble for doing this?"
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1783190689.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.yahoo.com/favicon.ico?b0867f93a36b360e" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Yahoo News</span>
+                                        <span>Physics World</span>
                                     </a>
                                 </div>
                                 
@@ -1015,7 +1001,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-06T08:20:39.408249+00:00">Updated 2026-07-06T08:20:39.408249+00:00</small>
+        <small data-timestamp="2026-07-06T12:23:58.616259+00:00">Updated 2026-07-06T12:23:58.616259+00:00</small>
     </div>
 </div>
 
@@ -1201,20 +1187,131 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/bedaaf7a739978cbe0d9110233dda7f790cdbdd7/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac193c15c40bff77e9a701f1fe134e92');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy" target="_blank" onclick="event.stopPropagation();">Revealed: landmark Scottish AI project has no prospect of meeting renewables promise</a>
+                            <a href="https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/" target="_blank" onclick="event.stopPropagation();">Hedge funds dumped chip stocks for a fourth week as AI shares sold off</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1783336708.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html" target="_blank" onclick="event.stopPropagation();">Philosophers Are the Latest Hiring Target for AI Companies</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1783257907.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/local/richmond/2026/07/06/virginia-ai-workforce-report-high-paying-jobs-workplace-adoption-training', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.axios.com/local/richmond/2026/07/06/virginia-ai-workforce-report-high-paying-jobs-workplace-adoption-training" target="_blank" onclick="event.stopPropagation();">Virginia's best-paying jobs are most exposed to AI, report says</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1783333444.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/video/2026/07/06/we-are-not-in-an-ai-bubble-says-ed-yardeni.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108330708-17833367281783336725-46991210760-1080pnbcnews.jpg?v=1783336727&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/video/2026/07/06/we-are-not-in-an-ai-bubble-says-ed-yardeni.html" target="_blank" onclick="event.stopPropagation();">We are not in an AI bubble, says Ed Yardeni</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’
+                            Ed Yardeni, president of Yardeni Research, joins 'Squawk Box' to discuss why he is bullish on the S&P 500, his take on July's jobs report, whether we're in an AI bubble, and more.
                         </div>
                         
 
@@ -1224,9 +1321,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1234,7 +1331,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1783321200.0"></span>
+                                    <span data-timestamp="1783336926.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/video/6400346309112', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/ae67f390-7169-4738-bb44-679407d2d391/99cde9a2-4be9-476c-9d7c-3466eaa8afd0/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxbusiness.com/video/6400346309112" target="_blank" onclick="event.stopPropagation();">India, France lead global push for AI and tech infrastructure</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Ryan Payne, president of Payne Capital Management, explains why India and France are actively building AI and tech infrastructure, citing tax incentives and cheap nuclear power as key advantages.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1783337816.0"></span>
                                 </div>
                                 
                             </div>
@@ -1283,253 +1421,137 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/7D24EF017DAF2994E811705727C6EE99F1F6E79A295596E7337E329E78040225/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F24afcc10-c53d-4940-8925-13f1b497571d');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html" target="_blank" onclick="event.stopPropagation();">Rate hike readjustment and AI hardware momentum: What to watch this week</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A quiet calendar ahead gives the market plenty of space to go off the beaten path this week as investors gear up for the beginning of earnings season.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1783318741.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/outkick-sports/paige-spiranac-insists-great-cans-arent-ai-fourth-july-post-called-question', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2026/07/paige-spiranac-golf-content-fourth-of-july.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxnews.com/outkick-sports/paige-spiranac-insists-great-cans-arent-ai-fourth-july-post-called-question" target="_blank" onclick="event.stopPropagation();">Paige Spiranac insists 'great cans' aren't AI after Fourth of July post called into question</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A fan accused Paige Spiranac of using AI for her Fourth of July patriotic bikini post, but she revealed it was from her 2026 calendar shoot.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox News" class="news-favicon">
+                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1783283042.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/02174f30cfc14b32ad1a5d261c7058663c1b9acd/452_0_2797_2239/master/2797.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce17f5c30427664d32634c6292825657');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds" target="_blank" onclick="event.stopPropagation();">AI altering meaning of users’ drafts on issues from abortion to climate, study finds</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Researchers say small changes in drafting could spread rapidly and create long-term shifts in public opinion
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1783335660.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-07-06/new-ranking-measures-which-s-p-500-companies-are-delivering-on-ai', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html" target="_blank" onclick="event.stopPropagation();">Philosophers Are the Latest Hiring Target for AI Companies</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1783257907.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://res.infoq.com/news/2026/07/mcp-ema-enterprise-auth/en/headerimage/generatedHeaderImage-1783110653080.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/" target="_blank" onclick="event.stopPropagation();">AI Model Context Protocol Adds Centralised Auth for Enterprise</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The Model Context Protocol team has promoted its Enterprise-Managed Authorisation extension to stable status, adding a centralised way for organisations to control access to MCP servers through their identity provider. The project states the aim is to replace per-server consent prompts with a zero-touch flow in which users sign in once and then access approved servers without further setup.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoq.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="infoq.com" class="news-favicon">
-                                    <a href="https://www.infoq.com" target="_blank" onclick="event.stopPropagation();">infoq.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1783324827.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.post-gazette.com/business/powersource/2026/07/06/westinghouse-nuclear-energy-return/stories/202607050017', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202607050017/1140x_a10-7_cTC/WESTINHOUSE070526-01-1_1783108048.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.post-gazette.com/business/powersource/2026/07/06/westinghouse-nuclear-energy-return/stories/202607050017" target="_blank" onclick="event.stopPropagation();">AI and energy: How Westinghouse is riding the momentum of a nuclear revival</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Energy is neither created nor destroyed. It’s transformed.
-Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, badly...
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.post-gazette.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Pittsburgh Post-Gazette" class="news-favicon">
-                                    <a href="https://www.post-gazette.com" target="_blank" onclick="event.stopPropagation();">Pittsburgh Post-Gazette</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1783324800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.pymnts.com/study_posts/the-end-of-casual-ai-how-consumers-are-turning-prompts-into-daily-power-tools/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.pymnts.com/wp-content/uploads/2026/07/How-Consumers-Are-Turning-Prompts-Into-Daily-Power-Tools-hero.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.pymnts.com/study_posts/the-end-of-casual-ai-how-consumers-are-turning-prompts-into-daily-power-tools/" target="_blank" onclick="event.stopPropagation();">The End of Casual AI: How Consumers Are Turning Prompts Into Daily Power Tools</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Gen AI adoption deepens with experience as consumers expand the tasks they handle, adopt dedicated platforms and build lasting AI habits. A PYMNTS Intelligence report.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="PYMNTS.com" class="news-favicon">
-                                    <a href="https://www.pymnts.com" target="_blank" onclick="event.stopPropagation();">PYMNTS.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1783325056.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/technology/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-2026-07-06/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.reuters.com/technology/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-2026-07-06/" target="_blank" onclick="event.stopPropagation();">UN chief warns AI is developing faster than rules can keep up</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1783322743.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1783302852&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html" target="_blank" onclick="event.stopPropagation();">Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1783308060.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-07-06/ai-cracks-risk-ruining-europe-s-goldilocks-moment-taking-stock', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-07-06/ai-cracks-risk-ruining-europe-s-goldilocks-moment-taking-stock" target="_blank" onclick="event.stopPropagation();">AI Cracks Risk Ruining Europe’s Goldilocks Moment</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-07-06/new-ranking-measures-which-s-p-500-companies-are-delivering-on-ai" target="_blank" onclick="event.stopPropagation();">Which Companies Actually Use AI? A New Index Has Answers</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1551,48 +1573,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1783318680.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/technology/ai/articles/forget-micron-ai-memory-stock-161348158.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/AF1DE1A41929E56151B282AADD2EC295F26840109E501CDB9A16AC5EF9C354D0/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F7988387abe247447186e7611e1e75107');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/technology/ai/articles/forget-micron-ai-memory-stock-161348158.html" target="_blank" onclick="event.stopPropagation();">Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Artificial intelligence has created no shortage of investment opportunities, but it has also exposed one bottleneck after another. First it was GPUs. Then networking. Then power generation. Today, memory has become one of the industry’s biggest constraints. Every advanced AI model requires enormous amounts of high-bandwidth memory (HBM) and DRAM to keep increasingly powerful chips ... Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1783268028.0"></span>
+                                    <span data-timestamp="1783339220.0"></span>
                                 </div>
                                 
                             </div>
@@ -1620,7 +1601,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-06T08:21:06.461917+00:00">Updated 2026-07-06T08:21:06.461917+00:00</small>
+        <small data-timestamp="2026-07-06T12:24:27.314797+00:00">Updated 2026-07-06T12:24:27.314797+00:00</small>
     </div>
 </div>
 
@@ -1848,7 +1829,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                     <span class="post-points">▲ 816</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 459</span>
+                                    <span style="color: #9ca3af;">💬 460</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1939,10 +1920,10 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 160</span>
+                                    <span class="post-points">▲ 168</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 95</span>
+                                    <span style="color: #9ca3af;">💬 105</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1988,10 +1969,10 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 150</span>
+                                    <span class="post-points">▲ 157</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 62</span>
+                                    <span style="color: #9ca3af;">💬 69</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2008,6 +1989,55 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                             
                                         
                                         <span>readtheline.ca</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48797141', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://media.nbcchicago.com/2019/09/DELTA-1.jpg?quality=85&strip=all&resize=1200%2C675');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=48797141" target="_blank" onclick="event.stopPropagation();">Delta flight hit by firework while landing at Midway Airport on Fourth of July</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A Delta flight arriving at Chicago's Midway International Airport on the Fourth of July reportedly made contact with a firework, the airline said.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 138</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 255</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-07-05T19:22:51Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://media.nbcchicago.com/2019/09/cropped-NBC_Chicago.png?fit=180%2C180&quality=85&strip=all" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>NBC Chicago</span>
                                     </a>
                                 </div>
                                 
@@ -2065,20 +2095,20 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48797141', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48801493', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://media.nbcchicago.com/2019/09/DELTA-1.jpg?quality=85&strip=all&resize=1200%2C675');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://res.cloudinary.com/dzawgnnlr/image/upload/q_auto/f_auto/w_auto/v1782758517/odtjqwtlphmuix5rxxi1.png');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48797141" target="_blank" onclick="event.stopPropagation();">Delta flight hit by firework while landing at Midway Airport on Fourth of July</a>
+                            <a href="https://news.ycombinator.com/item?id=48801493" target="_blank" onclick="event.stopPropagation();">When AI Costs More Than the Engineer</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            A Delta flight arriving at Chicago's Midway International Airport on the Fourth of July reportedly made contact with a firework, the airline said.
+                            Anthropic spends 2.3x payroll on compute. Top software firms spend 0.4x. Three scenarios for where the rest of the market lands by 2029.
                         </div>
                         
 
@@ -2086,26 +2116,26 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 118</span>
+                                    <span class="post-points">▲ 108</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 203</span>
+                                    <span style="color: #9ca3af;">💬 98</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-07-05T19:22:51Z"></span>
+                                    <span class="post-age" data-timestamp="2026-07-06T07:05:25Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://tomtunguz.com/ai-spend-breakeven-2029/" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://media.nbcchicago.com/2019/09/cropped-NBC_Chicago.png?fit=180%2C180&quality=85&strip=all" alt="" class="post-favicon">
+                                            <img src="https://tomtunguz.com/favicon.ico" alt="" class="post-favicon">
                                             
                                         
-                                        <span>NBC Chicago</span>
+                                        <span>Tomasz Tunguz</span>
                                     </a>
                                 </div>
                                 
@@ -2135,10 +2165,10 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 98</span>
+                                    <span class="post-points">▲ 100</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 189</span>
+                                    <span style="color: #9ca3af;">💬 191</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2211,51 +2241,6 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48791091', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48791091" target="_blank" onclick="event.stopPropagation();">President pardons 9 for Clean Air violations for 'fixing their car'</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 88</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 59</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-07-05T03:44:54Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.msn.com/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>msn.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48786284', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://www.airplaneboneyards.com/images/og/airplane-boneyard-list-map.jpg');"></div>
@@ -2273,7 +2258,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 88</span>
+                                    <span class="post-points">▲ 90</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 16</span>
@@ -2321,7 +2306,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-06T08:20:38.159514+00:00">Updated 2026-07-06T08:20:38.159514+00:00</small>
+        <small data-timestamp="2026-07-06T12:23:58.250623+00:00">Updated 2026-07-06T12:23:58.250623+00:00</small>
     </div>
 </div>
 
@@ -2557,12 +2542,12 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 237</span>
+                                    <span style="color: #9ca3af;">👍 264</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 39</span>
+                                    <span style="color: #9ca3af;">💬 47</span>
                                 </div>
                                 
                             </div>
@@ -2619,7 +2604,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 22K</span>
+                                    <span style="color: #9ca3af;">👁️ 25K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2628,7 +2613,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 70</span>
+                                    <span style="color: #9ca3af;">💬 71</span>
                                 </div>
                                 
                             </div>
@@ -2639,72 +2624,6 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1783209600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=_FJBEuM72Do', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/_FJBEuM72Do/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">21:20</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=_FJBEuM72Do" target="_blank" onclick="event.stopPropagation();">This NEW AI Assistant Is FLIPPING THE SCRIPT!!</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            There's a new AI chat assistant on the block, and you're not going to want to miss it! Aisha centers Black sources and history to ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/_KmDQWHa8g_C5oSoThg4hWBXXOwfx4bTCoGvh-NVDJKLNUJoYJISRb_5meAWsxyXc6CXH4mj2Tc=s88-c-k-c0x00ffffff-no-rj" alt="Katie Phang" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCZl9z2UMvN9mwpUoU9-E9bA" target="_blank" onclick="event.stopPropagation();">Katie Phang</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 28K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 3K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 381</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1783099816.0"></span>
                                 </div>
                                 
                             </div>
@@ -2751,7 +2670,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 95K</span>
+                                    <span style="color: #9ca3af;">👁️ 98K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2760,7 +2679,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 542</span>
+                                    <span style="color: #9ca3af;">💬 563</span>
                                 </div>
                                 
                             </div>
@@ -2817,7 +2736,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 56K</span>
+                                    <span style="color: #9ca3af;">👁️ 58K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2837,72 +2756,6 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1783206523.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=kjqWO8kFk7M', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/kjqWO8kFk7M/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">13:32</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=kjqWO8kFk7M" target="_blank" onclick="event.stopPropagation();">China Just Dropped An Ultra-Bionic AI Human Replica Robot</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 67K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 326</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1783203449.0"></span>
                                 </div>
                                 
                             </div>
@@ -2949,11 +2802,11 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 206K</span>
+                                    <span style="color: #9ca3af;">👁️ 213K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 13K</span>
+                                    <span style="color: #9ca3af;">👍 14K</span>
                                 </div>
                                 
                                 
@@ -2976,24 +2829,24 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=FW_bzWIaJfs', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=kjqWO8kFk7M', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/FW_bzWIaJfs/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/kjqWO8kFk7M/hqdefault.jpg');">
                         
-                        <span class="duration-badge">33:02</span>
+                        <span class="duration-badge">13:32</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=FW_bzWIaJfs" target="_blank" onclick="event.stopPropagation();">I Tried Every AI Video Generator So You Don&#39;t Have To</a>
+                            <a href="https://www.youtube.com/watch?v=kjqWO8kFk7M" target="_blank" onclick="event.stopPropagation();">China Just Dropped An Ultra-Bionic AI Human Replica Robot</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            What is the best AI Video Generator? Seedance vs Grok vs Kling vs gemini Try out all AI video generators here   ...
+                            China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
                         </div>
                         
 
@@ -3004,9 +2857,9 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/caF8kL4fTY7c_j5tnbldWnyUVNTpSBDbYVAXROGkeF4gc39Izlfwg1L7Yx2q4YA3pYWRNTP_=s88-c-k-c0x00ffffff-no-rj" alt="Dan Kieft" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCdNj_PP__5kKtjZabuEjbqA" target="_blank" onclick="event.stopPropagation();">Dan Kieft</a>
+                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
                                 </div>
                                 
                             </div>
@@ -3015,12 +2868,16 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 20K</span>
+                                    <span style="color: #9ca3af;">👁️ 71K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 2K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 18</span>
+                                    <span style="color: #9ca3af;">💬 337</span>
                                 </div>
                                 
                             </div>
@@ -3030,7 +2887,73 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1783268624.0"></span>
+                                    <span data-timestamp="1783203449.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=oavaI7zTyqM', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/oavaI7zTyqM/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">23:50</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=oavaI7zTyqM" target="_blank" onclick="event.stopPropagation();">Having Issues with my &quot;Ai&quot; GPU Rental Rigs...</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Terra Compute: https://terracompute.ai/#redpandamining Enterprise AI infrastructure hosting and GPU rentals. ❄️ Arctic MX-6 ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nJnCNSGapmLNawaIlTl5JROiWBXq_8FL1jL5c0iGpMoQ=s88-c-k-c0x00ffffff-no-rj" alt="Red Panda Mining" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCAGsnTCpw7pvhR4RAlEQGzg" target="_blank" onclick="event.stopPropagation();">Red Panda Mining</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 240</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 23</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 17</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1783337434.0"></span>
                                 </div>
                                 
                             </div>
@@ -3077,7 +3000,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 19K</span>
+                                    <span style="color: #9ca3af;">👁️ 20K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -3104,24 +3027,24 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=iT_yv_nEdIo', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=A4cY1bCgC_A', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/iT_yv_nEdIo/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/A4cY1bCgC_A/hqdefault.jpg');">
                         
-                        <span class="duration-badge">26:16</span>
+                        <span class="duration-badge">30:44</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=iT_yv_nEdIo" target="_blank" onclick="event.stopPropagation();">China&#39;s Free AI Just Came For ChatGPT And Claude (+18 Updates)</a>
+                            <a href="https://www.youtube.com/watch?v=A4cY1bCgC_A" target="_blank" onclick="event.stopPropagation();">Grok AI Was Asked Who Built the Pyramids - The Answer Shocked Everyone</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            FREE GUIDES + FOLLOW ALONG Join free here: https://links.stayingahead.com/YT55 You can now merge ChatGPT and Claude ...
+                            There is a structure standing in the desert outside Cairo that, by every measure of physics and mathematics, should not exist.
                         </div>
                         
 
@@ -3132,9 +3055,9 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/UIdNYIrBf5Ebr8FphqODBdnDNb5EDLksg4EJWtmIfv1Hvi9znYzxGz1APGWPBCUmzMuOthJ5d4M=s88-c-k-c0x00ffffff-no-rj" alt="Vaibhav Sisinty" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/lOTaWdbezlKY8k0YSyZOtOC7maA1rNQ-PGpJpIsP6RZDlGMj4EKslJlnqskSKY-NFXeT7hiPsg=s88-c-k-c0x00ffffff-no-rj" alt="New Discovery" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UClXAalunTPaX1YV185DWUeg" target="_blank" onclick="event.stopPropagation();">Vaibhav Sisinty</a>
+                                    <a href="https://www.youtube.com/channel/UC-w6ewC0s0u4r86H3mjwcVA" target="_blank" onclick="event.stopPropagation();">New Discovery</a>
                                 </div>
                                 
                             </div>
@@ -3143,16 +3066,16 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 66K</span>
+                                    <span style="color: #9ca3af;">👁️ 67K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
+                                    <span style="color: #9ca3af;">👍 841</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 82</span>
+                                    <span style="color: #9ca3af;">💬 107</span>
                                 </div>
                                 
                             </div>
@@ -3162,7 +3085,69 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1783229521.0"></span>
+                                    <span data-timestamp="1783264741.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=JkLjf4pJi9w', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/JkLjf4pJi9w/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:55</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=JkLjf4pJi9w" target="_blank" onclick="event.stopPropagation();">I Tested AI&#39;s Morality 🤯</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/BmuAho1g50N6CbZc-OP3ievIbXopecRp5xxYwUWEEPNpVaa0afIZn8UoQCYxQQpEDQ5LabHDgg=s88-c-k-c0x00ffffff-no-rj" alt="Zack D. Films" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCvz84_Q0BbvZThy75mbd-Dg" target="_blank" onclick="event.stopPropagation();">Zack D. Films</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 5.3M</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 431K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 8K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1783254614.0"></span>
                                 </div>
                                 
                             </div>
@@ -3190,7 +3175,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-06T08:20:40.490571+00:00">Updated 2026-07-06T08:20:40.490571+00:00</small>
+        <small data-timestamp="2026-07-06T12:23:59.252520+00:00">Updated 2026-07-06T12:23:59.252520+00:00</small>
     </div>
 </div>
 
@@ -3454,10 +3439,10 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 1,533,844</span>
+                                    <span class="model-stats">⬇️ 1,617,508</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,583</span>
+                                    <span class="model-stats">❤️ 1,596</span>
                                 </div>
                             </div>
                             
@@ -3512,10 +3497,10 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 220,379</span>
+                                    <span class="model-stats">⬇️ 231,218</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,479</span>
+                                    <span class="model-stats">❤️ 3,502</span>
                                 </div>
                             </div>
                             
@@ -3570,74 +3555,16 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 1,044,217</span>
+                                    <span class="model-stats">⬇️ 1,070,230</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,763</span>
+                                    <span class="model-stats">❤️ 1,771</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-07-03T05:15:09.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepreinforce-ai/Ornith-1.0-35B-GGUF.png');"></div>
-
-                    <div class="model-content">
-                        <!-- Model name (first line after thumbnail) -->
-                        <div class="model-name">
-                            <a href="https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF" target="_blank" onclick="event.stopPropagation();">
-                                Ornith-1.0-35B-GGUF
-                            </a>
-                        </div>
-
-                        <!-- Author with avatar (second line) -->
-                        <div class="model-author-line">
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/68661bce022667cf9c7534fb/9BFOcjICEpj0xvyOHVp1h.png" alt="DeepReinforce" class="model-avatar">
-                            
-                            <div class="model-author">
-                                <a href="https://huggingface.co/deepreinforce-ai" target="_blank" onclick="event.stopPropagation();">DeepReinforce</a>
-                            </div>
-                        </div>
-
-                        <!-- AI-generated description (only shown if any model has descriptions) -->
-                        
-                        <div class="model-description">
-                            Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate high-quality code solutions and search trajectories, achieving top performance on benchmarks like Terminal-Bench and SWE-Bench.
-                        </div>
-                        
-
-                        <!-- Metadata (tags, stats, time) -->
-                        <div class="model-meta">
-                            <div class="model-meta-line tags-line">
-                                
-                                <span class="model-tag">text-generation</span>
-                                
-                                
-                                <span class="model-tag">34.7B</span>
-                                
-                            </div>
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 394,164</span>
-                                </div>
-                                <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 742</span>
-                                </div>
-                            </div>
-                            
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2026-06-25T14:31:04.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3686,16 +3613,74 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 7,010</span>
+                                    <span class="model-stats">⬇️ 8,766</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 311</span>
+                                    <span class="model-stats">❤️ 321</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-07-03T07:19:00.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepreinforce-ai/Ornith-1.0-35B-GGUF.png');"></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF" target="_blank" onclick="event.stopPropagation();">
+                                Ornith-1.0-35B-GGUF
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/68661bce022667cf9c7534fb/9BFOcjICEpj0xvyOHVp1h.png" alt="DeepReinforce" class="model-avatar">
+                            
+                            <div class="model-author">
+                                <a href="https://huggingface.co/deepreinforce-ai" target="_blank" onclick="event.stopPropagation();">DeepReinforce</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        
+                        <div class="model-description">
+                            Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate high-quality code solutions and search trajectories, achieving top performance on benchmarks like Terminal-Bench and SWE-Bench.
+                        </div>
+                        
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                
+                                <span class="model-tag">text-generation</span>
+                                
+                                
+                                <span class="model-tag">34.7B</span>
+                                
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ 436,780</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ 747</span>
+                                </div>
+                            </div>
+                            
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="2026-06-25T14:31:04.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3744,10 +3729,10 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 297,130</span>
+                                    <span class="model-stats">⬇️ 430,676</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 278</span>
+                                    <span class="model-stats">❤️ 283</span>
                                 </div>
                             </div>
                             
@@ -3800,16 +3785,74 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 2,670</span>
+                                    <span class="model-stats">⬇️ 7,036</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 234</span>
+                                    <span class="model-stats">❤️ 240</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-07-04T06:08:26.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/tencent/Hy3', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/Hy3.png');"></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="https://huggingface.co/tencent/Hy3" target="_blank" onclick="event.stopPropagation();">
+                                Hy3
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png" alt="Tencent" class="model-avatar">
+                            
+                            <div class="model-author">
+                                <a href="https://huggingface.co/tencent" target="_blank" onclick="event.stopPropagation();">Tencent</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        
+                        <div class="model-description">
+                            Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B active parameters, excelling in agent performance, complex context retention, and tool-calling stability. It's designed for productivity tasks like coding and document processing, rivaling larger models with improved reliability and cost-effectiveness.
+                        </div>
+                        
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                
+                                <span class="model-tag">text-generation</span>
+                                
+                                
+                                <span class="model-tag">298.8B</span>
+                                
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ 2</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ 217</span>
+                                </div>
+                            </div>
+                            
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="2026-07-06T07:24:35.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3858,10 +3901,10 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 355,871</span>
+                                    <span class="model-stats">⬇️ 370,884</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,035</span>
+                                    <span class="model-stats">❤️ 1,037</span>
                                 </div>
                             </div>
                             
@@ -3916,74 +3959,16 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 12,580</span>
+                                    <span class="model-stats">⬇️ 14,276</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 397</span>
+                                    <span class="model-stats">❤️ 399</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-07-04T03:14:46.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive.png');"></div>
-
-                    <div class="model-content">
-                        <!-- Model name (first line after thumbnail) -->
-                        <div class="model-name">
-                            <a href="https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive" target="_blank" onclick="event.stopPropagation();">
-                                Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive
-                            </a>
-                        </div>
-
-                        <!-- Author with avatar (second line) -->
-                        <div class="model-author-line">
-                            
-                            <img src="/avatars/46f91853fe23c1e732611dd77d949849.svg" alt="HauHau" class="model-avatar">
-                            
-                            <div class="model-author">
-                                <a href="https://huggingface.co/HauhauCS" target="_blank" onclick="event.stopPropagation();">HauHau</a>
-                            </div>
-                        </div>
-
-                        <!-- AI-generated description (only shown if any model has descriptions) -->
-                        
-                        <div class="model-description">
-                            This is an uncensored, aggressive multimodal model (35B parameters, 3B active) based on Qwen3.6, capable of processing text and images. It's designed for maximum output without refusals, suitable for advanced text generation and multimodal tasks.
-                        </div>
-                        
-
-                        <!-- Metadata (tags, stats, time) -->
-                        <div class="model-meta">
-                            <div class="model-meta-line tags-line">
-                                
-                                <span class="model-tag">image-text-to-text</span>
-                                
-                                
-                                <span class="model-tag">34.7B</span>
-                                
-                            </div>
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 3,018,257</span>
-                                </div>
-                                <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 2,503</span>
-                                </div>
-                            </div>
-                            
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2026-04-17T02:59:21.000Z"></span>
                                 </div>
                             </div>
                             
@@ -4011,7 +3996,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-06T08:20:48.498774+00:00">Updated 2026-07-06T08:20:48.498774+00:00</small>
+        <small data-timestamp="2026-07-06T12:24:06.989241+00:00">Updated 2026-07-06T12:24:06.989241+00:00</small>
     </div>
 </div>
 
@@ -4268,7 +4253,7 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 50</span>
+                                    <span class="paper-stats">▲ 51</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 5</span>
@@ -4498,11 +4483,11 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                                     <span class="paper-stats">▲ 25</span>
                                 </div>
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 2</span>
+                                    <span style="color: #9ca3af;">💬 3</span>
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 9,880</span>
+                                    <span style="color: #9ca3af;">⭐ 9,984</span>
                                 </div>
                                 
                             </div>
@@ -4627,93 +4612,6 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2502.18443', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.18443.png');" ></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2502.18443" target="_blank" onclick="event.stopPropagation();">olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language
-  Models</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Jake Poznanski, Jon Borchardt, Jason Dunkelberger et al. (9 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/652db071b62cf1f8463221e2/CxxwFiaomTa1MCX_B7-pT.png" alt="Ai2"
-                                class="org-avatar">
-                            
-                            <a href="https://huggingface.co/allenai" target="_blank"
-                                onclick="event.stopPropagation();">
-                                Ai2
-                            </a>
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 13</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 2</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 18,791</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2502.18443" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🎓 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/allenai/olmocr" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://olmocr.allenai.org/" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                            
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-02-25T13:38:38.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2407.16741', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png');" ></div>
@@ -4778,6 +4676,93 @@ Westinghouse, Pittsburgh’s nuclear energy giant, was created 140 years ago, ba
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
                                     <span class="paper-age" data-timestamp="2024-07-23T13:50:43.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2502.18443', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.18443.png');" ></div>
+
+                    <div class="paper-content">
+                        <!-- Paper title (fixed 2-line height) -->
+                        <div class="paper-title">
+                            <a href="https://huggingface.co/papers/2502.18443" target="_blank" onclick="event.stopPropagation();">olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language
+  Models</a>
+                        </div>
+
+                        <!-- Authors -->
+                        <div class="paper-authors">
+                            Jake Poznanski, Jon Borchardt, Jason Dunkelberger et al. (9 authors)
+                        </div>
+
+                        <!-- Organization (always reserve space for consistent card height) -->
+                        <div class="paper-organization">
+                            
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/652db071b62cf1f8463221e2/CxxwFiaomTa1MCX_B7-pT.png" alt="Ai2"
+                                class="org-avatar">
+                            
+                            <a href="https://huggingface.co/allenai" target="_blank"
+                                onclick="event.stopPropagation();">
+                                Ai2
+                            </a>
+                            
+                        </div>
+
+                        <!-- Rich description (AI summary if available, otherwise full summary) -->
+                        
+                        <div class="paper-summary">
+                            olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
+                        </div>
+                        
+
+                        <!-- Metadata (stats, links, time) -->
+                        <div class="paper-meta">
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-stats">▲ 13</span>
+                                </div>
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">💬 2</span>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">⭐ 18,831</span>
+                                </div>
+                                
+                            </div>
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <a href="https://arxiv.org/abs/2502.18443" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🎓 arXiv
+                                    </a>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://github.com/allenai/olmocr" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        💻 code
+                                    </a>
+                                </div>
+                                
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://olmocr.allenai.org/" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🔗 project
+                                    </a>
+                                </div>
+                                
+                            </div>
+                            
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-age" data-timestamp="2025-02-25T13:38:38.000Z"></span>
                                 </div>
                             </div>
                             
@@ -4914,7 +4899,7 @@ https://continuous-audio-language-models.github.io
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 60,789</span>
+                                    <span style="color: #9ca3af;">⭐ 60,825</span>
                                 </div>
                                 
                             </div>
@@ -5037,7 +5022,7 @@ https://continuous-audio-language-models.github.io
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-06T08:20:49.574334+00:00">Updated 2026-07-06T08:20:49.574334+00:00</small>
+        <small data-timestamp="2026-07-06T12:24:08.042320+00:00">Updated 2026-07-06T12:24:08.042320+00:00</small>
     </div>
 </div>
 
@@ -5313,7 +5298,7 @@ https://continuous-audio-language-models.github.io
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 75.3k</span>
+                                <span class="repo-stats">⭐ 75.5k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
@@ -5392,7 +5377,7 @@ https://continuous-audio-language-models.github.io
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-07-06T08:13:56Z"></span>
+                                <span class="repo-age" data-timestamp="2026-07-06T12:13:11Z"></span>
                             </div>
                         </div>
                         
@@ -5447,19 +5432,19 @@ https://continuous-audio-language-models.github.io
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 6.3k</span>
+                                <span class="repo-stats">⭐ 6.4k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">828</span>
+                                <span class="repo-stats">831</span>
                             </div>
                         </div>
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-07-06T08:18:06Z"></span>
+                                <span class="repo-age" data-timestamp="2026-07-06T12:19:40Z"></span>
                             </div>
                         </div>
                         
@@ -5520,13 +5505,13 @@ https://continuous-audio-language-models.github.io
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">783</span>
+                                <span class="repo-stats">787</span>
                             </div>
                         </div>
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-07-05T14:05:20Z"></span>
+                                <span class="repo-age" data-timestamp="2026-07-06T11:52:15Z"></span>
                             </div>
                         </div>
                         
@@ -5654,13 +5639,80 @@ https://continuous-audio-language-models.github.io
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">183</span>
+                                <span class="repo-stats">184</span>
                             </div>
                         </div>
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
                                 <span class="repo-age" data-timestamp="2026-07-02T23:57:57Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://github.com/elder-plinius/T3MP3ST', '_blank')">
+                    <!-- Rich preview image (with fallback icon) -->
+                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/f3aa38b6a0d46b5b82bca5655f69e9ec6512756bf64f2cc39c3b4da0e6ea9c79/elder-plinius/T3MP3ST');"></div>
+
+                    <div class="repo-content">
+                        <!-- Repository name (first line after preview) -->
+                        <div class="repo-name">
+                            <a href="https://github.com/elder-plinius/T3MP3ST" target="_blank" onclick="event.stopPropagation();">
+                                T3MP3ST
+                            </a>
+                        </div>
+
+                        <!-- Owner with avatar (second line) -->
+                        <div class="repo-owner-line">
+                            
+                            <img src="https://avatars.githubusercontent.com/u/133052465?v=4" alt="elder-plinius" class="repo-owner-avatar">
+                            
+                            <div class="repo-owner">
+                                <a href="https://github.com/elder-plinius" target="_blank" onclick="event.stopPropagation();">elder-plinius</a>
+                            </div>
+                        </div>
+
+                        <!-- Description -->
+                        
+                        <div class="repo-description">
+                            autonomous red teaming platform; multi-agent offensive-security meta-harness
+                        </div>
+                        
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
+                            
+                            <span class="repo-tag">TypeScript</span>
+                            
+                            
+                            <span class="repo-tag">agents</span>
+                            
+                            <span class="repo-tag">ai</span>
+                            
+                            <span class="repo-tag">multi-agent</span>
+                            
+                            <span class="repo-tag">offensive-security</span>
+                            
+                            <span class="repo-tag">redteam</span>
+                            
+                        </div>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 2.2k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">534</span>
+                            </div>
+                        </div>
+                        
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2026-07-05T22:31:58Z"></span>
                             </div>
                         </div>
                         
@@ -5735,73 +5787,6 @@ https://continuous-audio-language-models.github.io
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://github.com/elder-plinius/T3MP3ST', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/f3aa38b6a0d46b5b82bca5655f69e9ec6512756bf64f2cc39c3b4da0e6ea9c79/elder-plinius/T3MP3ST');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/elder-plinius/T3MP3ST" target="_blank" onclick="event.stopPropagation();">
-                                T3MP3ST
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/133052465?v=4" alt="elder-plinius" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/elder-plinius" target="_blank" onclick="event.stopPropagation();">elder-plinius</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            autonomous red teaming platform; multi-agent offensive-security meta-harness
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">TypeScript</span>
-                            
-                            
-                            <span class="repo-tag">agents</span>
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">multi-agent</span>
-                            
-                            <span class="repo-tag">offensive-security</span>
-                            
-                            <span class="repo-tag">redteam</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 2.0k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">484</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-07-05T22:31:58Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://github.com/SkyBlue997/enableMacosAI', '_blank')">
                     <!-- Rich preview image (with fallback icon) -->
                     <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/b163ed541badc2c86abc2af4c09b73ad1a7fb634ed22f9d91c0f526a7dc11c74/SkyBlue997/enableMacosAI');"></div>
@@ -5847,7 +5832,7 @@ https://continuous-audio-language-models.github.io
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">88</span>
+                                <span class="repo-stats">89</span>
                             </div>
                         </div>
                         
@@ -5940,7 +5925,7 @@ https://continuous-audio-language-models.github.io
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-06T08:20:38.314676+00:00">Updated 2026-07-06T08:20:38.314676+00:00</small>
+        <small data-timestamp="2026-07-06T12:23:57.309276+00:00">Updated 2026-07-06T12:23:57.309276+00:00</small>
     </div>
 </div>
 

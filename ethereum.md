@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-06T08:21:08.982993+00:00'
+updated: '2026-07-06T12:24:33.781329+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 06, 2026 at 08:21 UTC  
+**Last Updated:** July 06, 2026 at 12:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +12.8%  
-**30d:** +4.9%  
-**90d:** -19.0%  
-**1y:** -30.3%  
+**24h:** -1.1%  
+**7d:** +11.1%  
+**30d:** +3.3%  
+**90d:** -20.2%  
+**1y:** -31.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $213.67B
+**Market Cap:** $210.82B
 Rank #2
 
 **Circulating Supply:** 120,683,200 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.2%
+-64.7%
 
 **All-Time Low:** $0.43
-+408746.6%
++403363.0%
 
 ---
 
@@ -104,7 +104,7 @@ Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once ag
 
 Ethereum has fast L2s, stablecoins and a much better user experience than it did a few years ago, yet most people still don't use it for everyday payments. What's the biggest thing holding it back? I'm curious to hear what everyone thinks. Thanks
 
-2d ago
+3d ago
 
 ---
 
@@ -156,15 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 He said quantum safety has "shifted up a LOT in priority" and that Hegota, slated for later this year, will likely be Ethereum's last "pre-Lean" hard fork.
 
-The Block • 12h ago
+The Block • 16h ago
 
 ---
 
-**[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://finance.yahoo.com/markets/crypto/articles/congress-moving-forward-clarity-act-111500182.html)**
+**[Can Ethereum Price Hit $62,000? We Assess Tom Lee's Bull Case as He Renews Bold ETH Predictions](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-hit-62-000-150715801.html)**
 
-Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
+Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -172,7 +172,15 @@ Yahoo Finance • 1d ago
 
 Can $10,000 in XRP, Bitcoin, Ethereum, Solana, or Hyperliquid make you a millionaire by 2030? Let's see which crypto has a real shot.
 
-24/7 Wall St. • 14h ago
+24/7 Wall St. • 18h ago
+
+---
+
+**[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://www.fool.com/investing/2026/07/04/congress-is-moving-forward-with-the-clarity-act-th/)**
+
+Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -180,15 +188,7 @@ Can $10,000 in XRP, Bitcoin, Ethereum, Solana, or Hyperliquid make you a million
 
 Gareth Soloway, chief market strategist at VerifiedInvesting.com, says the crypto market has entered a meaningful short-term recovery phase, but warns
 
-Coinpedia • 6h ago
-
----
-
-**[Crypto News: AlphaPepe Reveals CEX Partnership With Biconomy As Ethereum Price Prediction Targets $7,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-reveals-cex-partnership-with-biconomy-as-ethereum-price-prediction-targets-7-000-1036298021)**
-
-MONACO , July  04, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy,...
-
-markets.businessinsider.com • 1d ago
+Coinpedia • 10h ago
 
 ---
 
@@ -196,7 +196,7 @@ markets.businessinsider.com • 1d ago
 
 Leading cryptocurrencies gained alongside stock futures on Sunday, July 5, as investors braced for the release of the Federal Reserve’s June meeting minutes.
 
-Benzinga • 6h ago
+Benzinga • 10h ago
 
 ---
 
@@ -204,15 +204,7 @@ Benzinga • 6h ago
 
 The Ethereum Foundation has transferred 2,469 stETH to Argot Collective as the fourth-year installment of a five-year funding commitment supporting critical
 
-FinanceFeeds • 47m ago
-
----
-
-**[Ethereum Price Forecast: ETH weakness in June likely from intense retail sell-off and US de-risking](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-weakness-in-june-likely-from-intense-retail-sell-off-and-us-de-risking-202607040028)**
-
-Ethereum (ETH) declined by 21.6% in June, its largest monthly drop since November, amid intense risk-off sentiment and heightened volatility, spearheaded by retail investors and US market participants.
-
-FXStreet • 2d ago
+FinanceFeeds • 4h ago
 
 ---
 
@@ -220,15 +212,23 @@ FXStreet • 2d ago
 
 Vitalik’s Lean Ethereum roadmap gives institutions a stronger ETH case while raising the stakes for Ethereum to deliver.
 
-CryptoSlate • 1h ago
+CryptoSlate • 5h ago
 
 ---
 
-**[Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge](https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge)**
+**[Ethereum Mini Trust Feels the Chill as Investors Pull Cash from Grayscale’s ETH Fund](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-feels-the-chill-as-investors-pull-cash-from-grayscales-eth-fund)**
 
-A revised roadmap details how the multi-year overhaul would replace nearly every major part of Ethereum's protocol, with quantum resistance and privacy moving up the priority list. It lands as ether rallies more than 12% in the past seven days.
+Ethereum jitters ripple through Grayscale as Mini Trust sees notable outflow Grayscale Ethereum Mini Trust (ETH) reported a sizeable outflow on July 02, 2026, with ...
 
-CoinDesk • 33m ago
+TipRanks • 2h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP advance amid renewed capital inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-advance-amid-renewed-capital-inflows-202607031200)**
+
+Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
+
+FXStreet • 4mo ago
 
 ---
 
@@ -236,23 +236,63 @@ CoinDesk • 33m ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Is Betting Everything on This Roadmap](https://www.youtube.com/watch?v=BE2BM522-Q0)**
+
+Ethereum is trying to solve five major problems at once — speed, decentralization, economics, privacy, and even quantum ...
+
+📺 CoinGecko
+
+👁️ 251 • 👍 37 • 💬 40 • ⏱️ 10:28 • 1h ago
+
+---
+
 **[Why Ethereum Keeps Losing Its Best Builders](https://www.youtube.com/watch?v=2uhB5n639x0)**
 
 Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 640 • 💬 79 • ⏱️ 13:11 • 19h ago
+👁️ 15K • 👍 667 • 💬 79 • ⏱️ 13:11 • 23h ago
 
 ---
 
-**[Everyone Hates These Solana Coins, But Not For Long](https://www.youtube.com/watch?v=4P3oFfue2OE)**
+**[⚠️ Don&#39;t Be Late With Ethereum ! - ETH Crypto Analysis](https://www.youtube.com/watch?v=yhmGu84JMJA)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 73 • 💬 11 • ⏱️ 10:00 • 20h ago
+
+---
+
+**[Ripple And XRP Just Got Some Major News Ethereum Might Be In Big Trouble In The Next Few Months](https://www.youtube.com/watch?v=4_NieTZ-T1k)**
+
+Who could have known that Ripple partnering with one of the largest banks on the planet would have some benefits? Despite ...
+
+📺 The Modern Investor
+
+👁️ 2K • 👍 399 • 💬 67 • ⏱️ 37:30 • 3h ago
+
+---
+
+**[📉 Ethereum Could Drop 27% Behind Bitcoin. Here&#39;s Why.](https://www.youtube.com/watch?v=GZ9sBJOWjPg)**
+
+Ethereum is quietly losing ground to the rest of crypto, and the data is flashing warning signs. A key market share level has been ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 48 • 👍 2 • 💬 1 • ⏱️ 1:22 • 24m ago
+
+---
+
+**[Solana DeFi is Undervalued: 4 Coins to Watch](https://www.youtube.com/watch?v=4P3oFfue2OE)**
 
 Grayscale just put it in writing. Solana DeFi is undervalued. Ethereum DeFi is overvalued. Four protocols. All under a billion in ...
 
 📺 Lark Davis
 
-👁️ 11K • 👍 556 • 💬 87 • ⏱️ 10:23 • 20h ago
+👁️ 12K • 👍 579 • 💬 112 • ⏱️ 10:23 • 1d ago
 
 ---
 
@@ -262,7 +302,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 192 • 💬 18 • ⏱️ 18:59 • 1d ago
+👁️ 5K • 👍 198 • 💬 19 • ⏱️ 18:59 • 1d ago
 
 ---
 
@@ -272,7 +312,7 @@ BITCOIN SHORT SQUEEZE OVER (New Trade Setup)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 330 • 💬 63 • ⏱️ 18:40 • 14h ago
+👁️ 7K • 👍 338 • 💬 91 • ⏱️ 18:40 • 18h ago
 
 ---
 
@@ -282,57 +322,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 763 • 👍 63 • ⏱️ 7:51 • 5h ago
+👁️ 1K • 👍 82 • ⏱️ 7:51 • 9h ago
 
 ---
 
-**[ETHEREUM BULLTRAP WARNING (ETH Price Prediction)](https://www.youtube.com/watch?v=Ob5tmIkG1VM)**
+**[ETHEREUM QUER EFEITO REDE COM PROPOSTAS PARA 10 ANOS  🚨](https://www.youtube.com/watch?v=EtVl72cEEl8)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Enquanto o desenvolvimento do Bitcoin permanece lento e pouco debatido, Vitalik e Ethereum Fondation apresentam o Lean ...
 
-📺 Cilinix Crypto
+📺 BitNada
 
-👁️ 578 • 👍 26 • 💬 57 • ⏱️ 4:35 • 22h ago
-
----
-
-**[Lean Ethereum roadmap, Binance outflows, Aave Monad, FIFA watches and Portnoy&#39;s Bitcoin](https://www.youtube.com/watch?v=nAGaYE0fr5I)**
-
-Lean Ethereum roadmap, Binance outflows, Aave Monad, FIFA watches and Portnoy's Bitcoin Vitalik Buterin unveils a streamlined ...
-
-📺 The Coin Daily
-
-👁️ 1K • 👍 1 • ⏱️ 8:45 • 15h ago
-
----
-
-**[Ethereum &amp; Cardano Pumping (Altcoin Accumulation Zone)](https://www.youtube.com/watch?v=mkLGIZriGow)**
-
-Ethereum is back and the crypto market is heating up—but is this the start of altcoin season? Today we cover the latest crypto ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 305 • 💬 44 • ⏱️ 1:03:50 • 2d ago
-
----
-
-**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
-
-Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
-
-📺 Prof G Markets
-
-👁️ 49K • 👍 487 • 💬 126 • ⏱️ 0:58 • 2d ago
-
----
-
-**[BITCOIN: It&#39;s Time To PAY ATTENTION! (this matters) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=nIQsuiyxIUE)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 6K • 👍 464 • 💬 50 • ⏱️ 15:26 • 1d ago
+👁️ 786 • 👍 167 • 1h ago
 
 ---
 
