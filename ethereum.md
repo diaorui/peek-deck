@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-07T05:38:30.624276+00:00'
+updated: '2026-07-07T09:42:04.027310+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 05:38 UTC  
+**Last Updated:** July 07, 2026 at 09:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +9.9%  
-**30d:** +4.6%  
-**90d:** -19.2%  
-**1y:** -32.4%  
+**24h:** +0.2%  
+**7d:** +10.2%  
+**30d:** +4.9%  
+**90d:** -19.0%  
+**1y:** -32.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $213.14B
+**Market Cap:** $213.88B
 Rank #2
 
 **Circulating Supply:** 120,683,164 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.3%
+-64.2%
 
 **All-Time Low:** $0.43
-+407795.1%
++409236.2%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am used to address poisoning. Whenever I send/receive token, I will then receive some random tokens from addresses that has the same starting and ending sequence as the address I interacted with. But I see something I can't explain. Whenever I send X amount of USDT, My address also send the exact same amount of fake USDT to an address mimicing the receiving address. How can the attacker use my account to send a token I don't even know I have? On Etherscan, the sender address is clearly my address, but if they already control my accout, poisoning the receiving address is pointless. They can just steal my funds. If they don't control my accout, how did they send fake token from my account? https://preview.redd.it/jfawc4knedbh1.png?width=1674&format=png&auto=webp&s=2c70a9966405775dc1af9f1bd6764dfe258610c4
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One day the world will wake up and see Ethereum as fraud prevention instead of fraud. When I read this article about World Cup fans being sold $10,000 tickets that don't exist, I immediately realized this would never happen on Ethereum. Tickets could be NFTs locked into smart contracts. It's such a perfect fit. Hope it happens some day!
 
-3d ago
+4d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
 
-The Block • 13h ago
+The Block • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ Scott Melker discusses how Bitmine Immersion Technologies (BMNR) purchased anoth
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 12h ago
 
 In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
 
-PR Newswire • 15h ago
+PR Newswire • 19h ago
 
 ---
 
@@ -184,15 +184,15 @@ PR Newswire • 15h ago
 
 The second-largest digital asset treasury increased its buying pace, while Strategy sold a chunk of its bitcoin holdings.
 
-CoinDesk • 16h ago
+CoinDesk • 20h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Monday, July 6, 2026: Prices falling after last week's rebound](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-6-2026-prices-falling-after-last-weeks-rebound-131307981.html)**
+**[Bitcoin, Ethereum, XRP Flat, Dogecoin Falls Amid Strategic Bitcoin Reserve Push: Analyst Says 'a Lot of' Upside to Come If BTC Does This](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-flat-dogecoin-023134561.html)**
 
-Bitcoin opened at $63,589.95 on Monday, July 6, 2026, 0.8% higher than Sunday's opening price. As of 8:50 a.m. ET this morning, the price of bitcoin moved down to $61,677.54. Ethereum opened at $1,784.15 on Monday, July 6, 2026, up 0.3% from Sunday's opening price. The price of ethereum moved lower this morning to $1,737.53 as of 8:50 a.m. ET.
+Leading cryptocurrencies moved sideways on Monday as high-profile Bitcoin sell-offs were offset by growing optimism for a Strategic Bitcoin Reserve. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:50 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.63%$63,925.65Ethereum (CRYPTO: ETH) +0.52%$1,794.35XRP (CRYPTO: XRP) -0.88%$1.14Solana (CRYPTO: SOL) +0.44%$81.97Dogecoin (CRYPTO: DOGE) -1.95%$0.07618 Bitcoin Dips And Then Rips Bitcoin dipped to the mid-$61,000 range in early trading after Strategy Inc. (NASDAQ
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -200,15 +200,15 @@ Yahoo Finance • 16h ago
 
 The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
 
-CoinDesk • 14h ago
+CoinDesk • 18h ago
 
 ---
 
-**[New Crypto: Pepeto Moves DeFi Suite Closer to Launch as the Ethereum Price Prediction Targets $10,000 Minimum](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-moves-defi-suite-closer-to-launch-as-the-ethereum-price-prediction-targets-10-000-minimum-1036300065)**
+**[Current price of Ethereum for July 6, 2026](https://fortune.com/article/price-of-ethereum-07-06-2026/)**
 
-DUBAI, United Arab Emirates, July  06, 2026  (GLOBE NEWSWIRE) -- Pepeto, a new crypto built on Ethereum, has pushed its DeFi suite another step cl...
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-markets.businessinsider.com • 13h ago
+Fortune • 20h ago
 
 ---
 
@@ -216,7 +216,15 @@ markets.businessinsider.com • 13h ago
 
 StrengthsCrédit Agricole, France’s second-largest bank by assets, has launched EURXT, a euro-backed stablecoin fully compliant with the EU’s MiCA framework. The token debuted with 20 million EURXT in circulation and has already been used to settle a subscription into a tokenized Amundi money market fund, highlighting growing institutional adoption of tokenized finance. The EU’s Markets in Crypto-Assets (MiCA) regulation is now fully in force, requiring crypto firms to obtain a license to operate across the bloc. Industry leaders say the unified framework strengthens transparency, investor protection and banking relationships, marking a major milestone in the maturation of Europe’s digital asset market.&nbsp;Ethereum Institutional has launched as an independent nonprofit to help financial institutions adopt Ethereum for tokenization, stablecoins and onchain finance. Backed by industry leaders including Ethereum co-founder Joseph Lubin, the initiative provides enterprises with a dedicated gateway to the Ethereum ecosystem, reinforcing Ethereum’s position in institutional digital finance.&nbsp;WeaknessesU.S. spot Bitcoin ETFs are on pace for a record $4.1 billion in monthly outflows, with BlackRock's IBIT accounting for nearly $3 billion. At the same time, uncertainty surrounding Strategy's financing model has raised concerns over one of Bitcoin's largest corporate buyers, signaling weaker institutional demand for the cryptocurrency.&nbsp;Binance withdrew its MiCA license application in Greece after European regulators raised concerns over the exchange’s history of financial crime compliance. The setback temporarily limits Binance’s ability to operate across the European Union under the new Markets in Crypto-Assets (MiCA) regulatory framework, highlighting how stricter compliance standards are reshaping competition in the crypto industry.Crypto infrastructure firm BitGo cut 15% of its workforce as it refocuses on security, stablecoins, settlement and AI-powered infrastructure. The restructuring follows a quarter in which revenue grew 112.6% year over year, but net losses widened to $60.7 million, emphasizing ongoing profitability challenges.OpportunitiesMore than 100 financial institutions, fintechs, banks and crypto firms, including Visa, Stripe, BNY Mellon, BlackRock and Coinbase, have joined the Open Standard initiative to launch a U.S. dollar-backed stablecoin later this year. The alliance aims to build an open, interoperable payment infrastructure, expanding enterprise adoption and accelerating the mainstream use of stablecoins for global transactions.The SEC has opened a 60-day public consultation to modernize ETF regulations, potentially expanding eligibility to crypto, prediction markets and other novel assets. The review comes as the U.S. ETF market has grown from $4 trillion in 2019 to $12 trillion in 2025, signaling continued regulatory support for product innovation and market expansion.The UK's Financial Conduct Authority finalized a comprehensive regulatory framework covering crypto trading platforms, stablecoins, custody, staking and market abuse. The new regime provides greater regulatory certainty ahead of mandatory authorization in October 2027, supporting innovation while strengthening investor protection and market integrity.&nbsp;ThreatsEdel Finance paused its lending protocol after an attacker manipulated the collateral value of a tokenized Google stock, creating approximately $403,000 in bad debt. The incident highlights persistent security risks in tokenized assets and DeFi, where pricing manipulation remains one of the industry's most common smart contract vulnerabilities.&nbsp;South Korea’s Financial Services Commission referred two individuals for prosecution over alleged crypto market manipulation, including a whale accused of accumulating nearly half of a token’s circulating supply before executing a pump-and-dump scheme. The cases highlight ongoing market integrity risks despite increasing regulatory oversight.&nbsp;A Florida man pleaded guilty to operating a crypto Ponzi scheme that caused at least $250 million in investor losses after raising more than $400 million through false promises of returns from crypto liquidity pools. The case emphasizes that fraud remains a significant threat to investor confidence despite the industry's growing institutional adoption.&nbsp;
 
-KITCO • 16h ago
+KITCO • 20h ago
+
+---
+
+**[New Crypto: Pepeto Moves DeFi Suite Closer to Launch as the Ethereum Price Prediction Targets $10,000 Minimum](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-moves-defi-suite-closer-to-launch-as-the-ethereum-price-prediction-targets-10-000-minimum-1036300065)**
+
+DUBAI, United Arab Emirates, July  06, 2026  (GLOBE NEWSWIRE) -- Pepeto, a new crypto built on Ethereum, has pushed its DeFi suite another step cl...
+
+markets.businessinsider.com • 17h ago
 
 ---
 
@@ -228,25 +236,17 @@ TradingView • 1d ago
 
 ---
 
-**[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://www.fool.com/investing/2026/07/04/congress-is-moving-forward-with-the-clarity-act-th/)**
-
-Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
-
-The Motley Fool • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Why Ethereum’s New Era Is More Bullish Than Ever](https://www.youtube.com/watch?v=S4IbDzJnFC8)**
+**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
 
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
 
-📺 Milk Road
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 182 • 💬 56 • ⏱️ 1:09:10 • 10h ago
+👁️ 9K • 👍 469 • 💬 249 • ⏱️ 17:12 • 18h ago
 
 ---
 
@@ -256,7 +256,17 @@ Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
 📺 Credible Crypto
 
-👁️ 8K • 👍 612 • 💬 66 • ⏱️ 1:03:11 • 10h ago
+👁️ 9K • 👍 721 • 💬 67 • ⏱️ 1:03:11 • 14h ago
+
+---
+
+**[Why Ethereum’s New Era Is More Bullish Than Ever](https://www.youtube.com/watch?v=S4IbDzJnFC8)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 211 • 💬 92 • ⏱️ 1:09:10 • 14h ago
 
 ---
 
@@ -266,17 +276,7 @@ Ethereum is trying to solve five major problems at once — speed, decentralizat
 
 📺 CoinGecko
 
-👁️ 2K • 👍 153 • 💬 52 • ⏱️ 10:28 • 18h ago
-
----
-
-**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
-
-Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 459 • 💬 198 • ⏱️ 17:12 • 14h ago
+👁️ 3K • 👍 182 • 💬 53 • ⏱️ 10:28 • 22h ago
 
 ---
 
@@ -286,7 +286,7 @@ Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy In th
 
 📺 Digital Asset Investor
 
-👁️ 23K • 👍 2K • 💬 11 • ⏱️ 20:10 • 16h ago
+👁️ 24K • 👍 2K • 💬 11 • ⏱️ 20:10 • 20h ago
 
 ---
 
@@ -296,7 +296,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 824 • 👍 219 • 💬 14 • ⏱️ 6:15 • 1h ago
+👁️ 2K • 👍 401 • 💬 103 • ⏱️ 6:15 • 5h ago
 
 ---
 
@@ -306,7 +306,27 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 17K • 👍 729 • 💬 91 • ⏱️ 13:11 • 1d ago
+👁️ 17K • 👍 735 • 💬 92 • ⏱️ 13:11 • 1d ago
+
+---
+
+**[ETHEREUM’S BIGGEST UPGRADE.](https://www.youtube.com/watch?v=4Qz7RzgHqBo)**
+
+Welcome back to Crypto Ki Taaza Khabar In this episode, we discuss Ethereum's biggest upcoming upgrade, the latest crypto ...
+
+📺 Bitinning
+
+👁️ 7K • 👍 511 • 💬 39 • ⏱️ 11:03 • 18h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=bAT00LnNguI)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 813 • 👍 77 • ⏱️ 7:15 • 6h ago
 
 ---
 
@@ -316,27 +336,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 3K • 👍 411 • 💬 47 • ⏱️ 13:52 • 12h ago
-
----
-
-**[VERY BAD NEWS FOR BITCOIN &amp; ETHEREUM](https://www.youtube.com/watch?v=b8ULMW5cXHY)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 6K • 👍 263 • 💬 54 • ⏱️ 9:44 • 16h ago
-
----
-
-**[BITCOIN DUMP &amp; PUMP: WTF Just Happened?!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=DqPgadGZmmo)**
-
-BITCOIN DUMP & PUMP: WTF Just Happened?!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 250 • 💬 51 • ⏱️ 21:12 • 12h ago
+👁️ 4K • 👍 431 • 💬 50 • ⏱️ 13:52 • 16h ago
 
 ---
 
