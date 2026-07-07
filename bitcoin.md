@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-07T01:17:00.104104+00:00'
+updated: '2026-07-07T05:38:30.618328+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 01:17 UTC  
+**Last Updated:** July 07, 2026 at 05:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,243.52
+### $62,868.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +6.6%  
-**30d:** +1.4%  
-**90d:** -10.9%  
-**1y:** -41.3%  
+**24h:** +0.2%  
+**7d:** +5.2%  
+**30d:** +0.0%  
+**90d:** -12.1%  
+**1y:** -42.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1281.82B
+**Market Cap:** $1264.82B
 Rank #1
 
 **Circulating Supply:** 20,052,971 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-50.0%
 
 **All-Time Low:** $67.81
-+94167.8%
++92914.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 24
-**EXTREME FEAR**
+### 27
+**FEAR**
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[What securing my 0.025 BTC with a hardware wallet feels like](https://www.reddit.com/r/Bitcoin/comments/1uothas/what_securing_my_0025_btc_with_a_hardware_wallet/)**
 
-14h ago
+19h ago
 
 ---
 
 **[Bitcoin is for anyone](https://www.reddit.com/r/Bitcoin/comments/1uouzk5/bitcoin_is_for_anyone/)**
 
-13h ago
+17h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 3,588 BTC sold this morning by the person who invented HODLing for corporations. Saylor broke "never sell" in may with 32 coins as we though but he again sold this morning with 3,588 coins and a $216 million filing. while 32 coins was a proof of concept to show the market the mechanism works, maintain confidence so now 3,588 coins is a quarterly dividend payment. Strategy's preferred stock obligations run $750-800 million annually,btc is at $62K against an average purchase price of $75,699 and the equity premium that let them raise cheap capital has inverted into a disc. The model that worked elegantly at $100K btc is running on fumes at $62K lol. The irony is that saylor understood the self custody argument better than almost anyone and spent years explaining why holding bitcoin through any intermediary like an exchange, an ETF, a corporate wrapper introduces counterparty risk that direct ownership doesnt have but he just bet that his corporate wrapper was different because conviction. It wasnt diif but leverage and leverage without a timeline is just a margin call waiting for the right price. Sometimes boring is just correct. Is 3,588 coins a one quarter event or does this file every quarter until btc recovers above $75K?
 
-12h ago
+16h ago
 
 ---
 
@@ -101,13 +101,13 @@ Rank #1
 
 In March, a couple in their sixties get tied up in their own home in Le Chesnay (Yvelines) by three men posing as police officers. At knifepoint, the husband is forced to transfer €900,000 in Bitcoin. In February, the head of Binance France narrowly avoids an armed break-in at his home in Paris, the three attackers flee empty-handed after failing to find him there. These aren't isolated incidents. France's Interior Minister Laurent Nuñez announced on June 30 that the country has recorded 77 kidnappings, extortions, and attempted attacks tied to the crypto sector since January, up from 45 for all of 2025. For scale: according to data compiled by Jameson Lopp, France alone recorded 19 "wrench attacks" in 2025, more than double the total in the US, and over a quarter of all documented cases worldwide. The numbers from the minister: 200 people arrested over the past year, "either after the fact or preemptively" 724 holders and industry figures registered on the immediate identification platform (a direct emergency hotline), up 11% year-over-year One case cited: in the Somme, on June 26, perpetrators were arrested just 8 hours after the incident, after the victim used this hotline The new plan, described as "more ambitious," rests on three pillars: Stronger intelligence sharing to identify criminal networks, some of whose organizers operate from abroad Expanded partnership with ADAN (France's digital asset industry association), including a new expert network bringing together industry and state agencies Stronger operational and international coordination with the countries where organizers are based On that last point, Nuñez gave a concrete example: after the arrest in Morocco, in June 2025, of a French-Moroccan suspect accused of ordering a string of kidnappings, including that of Ledger co-founder David Balland, kidnapped in January 2025 and freed in a raid by France's GIGN tactical unit, the wave of attacks stopped abruptly, overnight. Other notable 2026 cases: in April, a family of five was extorted for €700,000. One technical detail explains in part why Bitcoin holders specifically get targeted: unlike a bank transfer, a Bitcoin transaction signed under duress is irreversible: impossible to block or reverse once it's broadcast to the network. That completely changes the risk/reward calculation for attackers compared to a traditional robbery. And you, what security measures do you take as Bitcoin Hodlers?
 
-5h ago
+9h ago
 
 ---
 
 **[My honest reaction](https://www.reddit.com/r/Bitcoin/comments/1uoq3su/my_honest_reaction/)**
 
-18h ago
+22h ago
 
 ---
 
@@ -115,7 +115,7 @@ In March, a couple in their sixties get tied up in their own home in Le Chesnay 
 
 You don't need to tell the employee that you want to pay with bitcoin when you want to spend bitcoin at a store that uses Square and has the bitcoin payment option enabled. You do not even need to mention bitcoin to the employee. You just click the toggle button on the top left and it'll switch the payment method from fiat currency to bitcoin and it will show a lightning invoice QR code for you to scan.
 
-15h ago
+19h ago
 
 ---
 
@@ -123,7 +123,7 @@ You don't need to tell the employee that you want to pay with bitcoin when you w
 
 Every time I think I’m calm, BTC reminds me who’s in charge.
 
-10h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ Every time I think I’m calm, BTC reminds me who’s in charge.
 
 July 6, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-sells-3-588-btc-to-fund-digital-credit-dividends-now-holds-843-775-and-2-55b) • 12h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-sells-3-588-btc-to-fund-digital-credit-dividends-now-holds-843-775-and-2-55b) • 17h ago
 
 ---
 
@@ -139,7 +139,7 @@ July 6, 2026
 
 For those who believe the 4 year cycle hasn't break yet, where are we exactly ? Most I heard is the end of the bear will be Oct 2026.
 
-13h ago
+18h ago
 
 ---
 
@@ -147,7 +147,7 @@ For those who believe the 4 year cycle hasn't break yet, where are we exactly ? 
 
 I was reading a lot of AI data centres that were planned to be built are now being scrapped due to the cost of AI. I think a lot of these were at the early stages of being built, or construction hasn't been started yet, but what if a large data centre, already built and operational, is deemed too costly to continue providing AI services for whatever reason. Can they realistically pivot into mining bitcoin due to a lot of the infrastructure already needed, being there?
 
-8h ago
+12h ago
 
 ---
 
@@ -155,45 +155,65 @@ I was reading a lot of AI data centres that were planned to be built are now bei
 
 ## Google News: "bitcoin"
 
+**[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control)**
+
+Bloomberg.com • 11h ago
+
+---
+
+**[Bitcoin bounces back after Trump calls himself ‘a big crypto guy’](https://nypost.com/2026/07/06/business/bitcoin-bounces-back-after-trump-calls-himself-a-big-crypto-guy/)**
+
+Bitcoin bounced back Monday after President Trump called himself “a big crypto guy” and gave a positive, if noncommittal, answer when asked about the prospect of digital assets becoming part of his…
+
+New York Post • 9h ago
+
+---
+
 **[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
 
 Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
 
-CNBC • 8h ago
+CNBC • 12h ago
 
 ---
 
-**[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control)**
+**[Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale](https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale)**
 
-Bloomberg.com • 6h ago
+The token touched $64,400 overnight before easing back, still up about 6% on the week. A fresh missile strike on a Qatari gas ship in the Strait of Hormuz lifted oil and tested the late-June peace deal as Asian tech sold off again.
 
----
-
-**[Donald Trump teaches crypto devotees a valuable lesson](https://www.abc.net.au/news/2026-07-07/trump-teaches-crypto-devotees-valuable-lesson/106886386)**
-
-US President Donald Trump should have been a godsend to the mysterious world of cryptocurrency. Instead, it has been a godsend to him.
-
-ABC News & Headlines – Australian Broadcasting Corporation • 6h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out](https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out)**
+**[The Truth Behind Bitcoin's Rebound: Whale Manipulation, Not Institutional Inflows](https://www.moomoo.com/news/post/72557735/the-truth-behind-bitcoin-s-rebound-whale-manipulation-not-institutional)**
 
-The White House says it's still evaluating the "best structure" for the federal fund to hold bitcoin as a long-term reserve and a separate stockpile of other crypto assets.
+Moomoo • 1h ago
 
-CoinDesk • 3h ago
+---
+
+**[In six days, it snapped up 1,200 Bitcoins—why is this listed company accelerating its accumulation?](https://www.moomoo.com/news/post/72557368/in-six-days-it-snapped-up-1200-bitcoins-why-is)**
+
+Moomoo • 1h ago
 
 ---
 
 **[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
 
-WSJ • 11h ago
+WSJ • 15h ago
 
 ---
 
 **[Bitcoin Miners Want To Be AI Landlords. Four Companies Making It Work.](https://www.barrons.com/articles/bitcoin-miners-crypto-ai-power-galaxy-b329c547)**
 
-Barron's • 15h ago
+Barron's • 19h ago
+
+---
+
+**[Grayscale says Strategy's recent bitcoin sales should restore confidence in its financing structure](https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments)**
+
+"Strategy is selling more bitcoin. But this will restore confidence in its financing structure and help bitcoin find a more durable bottom."
+
+The Block • 7h ago
 
 ---
 
@@ -201,31 +221,7 @@ Barron's • 15h ago
 
 Bitcoin could be headed for a $1 trillion “parabolic” move…
 
-Forbes • 13h ago
-
----
-
-**[Keel jumps 10% after former bitcoin miner hires data center veteran as president](https://www.theblock.co/post/407300/keel-jumps-10-former-bitcoin-miner-hires-data-center-veteran-president)**
-
-Former Digital Realty executive Ganesh Aiyer will lead Keel's commercial growth and power pipeline expansion.
-
-The Block • 10h ago
-
----
-
-**[Bitcoin: One More Flush Before The Bottom (BTC-USD)](https://seekingalpha.com/article/4920133-bitcoin-one-more-flush-before-bottom)**
-
-Sentiment has reached extreme fear, while valuation and on-chain metrics sit above the levels recorded at the 2015, 2018, and 2022 lows.
-
-Seeking Alpha • 6h ago
-
----
-
-**[Don’t Chase Bitcoin – Own the Companies Powering AI](https://investorplace.com/smartmoney/2026/07/dont-chase-bitcoin-own-the-companies-powering-ai/)**
-
-Most investors still think crypto miners rise and fall with the price of Bitcoin, but that’s yesterday’s story, according to Jonathan Rose. Today, he explains why many of these companies are quietly becoming AI infrastructure plays — and why that shift is still in its early stages. Plus, he identifies three companies that stand to benefit.
-
-InvestorPlace • 19h ago
+Forbes • 17h ago
 
 ---
 
@@ -247,7 +243,7 @@ Losing valuable information is a bad thing when you’re an archivist. Have we r
 
 Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign that it is abandoning co-founder Michael Saylor’s “Never sell your Bitcoin” mantra as a slumping digital asset market …
 
-⬆️ 5 • 💬 2 • 7h ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
+⬆️ 5 • 💬 2 • 12h ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
 
 ---
 
@@ -275,27 +271,35 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 ---
 
+**[Ditching Zotero for a Text File](https://news.ycombinator.com/item?id=48809916)**
+
+Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
+
+⬆️ 4 • 💬 0 • 9h ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Did The MicroStrategy Death Spiral Just Turn Into a Bitcoin Rally?](https://www.youtube.com/watch?v=1vW26afu_eM)**
+**[Reporter Asks Trump: Are There Plans To Put Bitcoin Into Trump Accounts?](https://www.youtube.com/watch?v=As1K6AqG4LI)**
 
-Michael Saylor faced relentless criticism after MicroStrategy stumbled, but the narrative shifted fast. This breakdown explores why ...
+While taking questions from reporters on Monday, President Donald Trump spoke about cryptocurrency. Stay Connected Forbes ...
 
-📺 Simply Bitcoin
+📺 Forbes Breaking News
 
-👁️ 22K • 👍 2K • 💬 143 • ⏱️ 15:58 • 1d ago
+👁️ 3K • 👍 38 • 💬 16 • ⏱️ 10:11 • 8h ago
 
 ---
 
-**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
+**[Bitcoin Jumps on Strategic Reserve Update](https://www.youtube.com/watch?v=yAnQOceHcPQ)**
 
-Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Crypto Capital Venture
+📺 CryptosRUs
 
-👁️ 7K • 👍 424 • 💬 169 • ⏱️ 17:12 • 10h ago
+👁️ 10K • 👍 675 • 💬 84 • ⏱️ 8:39 • 5h ago
 
 ---
 
@@ -305,17 +309,7 @@ Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and th
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 2K • 💬 116 • ⏱️ 20:18 • 4h ago
-
----
-
-**[🚨 BITCOIN!!!! I CAN’T BELIEVE IT FINALLY HAPPENED!!!! [after 4 years I was about to give up…]](https://www.youtube.com/watch?v=FkcPBONwS40)**
-
-Bitcoin just flashed something we haven't seen in almost 4 years as Michael Saylor unloads more #BTC on the market! WEEX ...
-
-📺 Crypto Zombie
-
-👁️ 10K • 👍 941 • 💬 115 • ⏱️ 24:49 • 6h ago
+👁️ 24K • 👍 2K • 💬 179 • ⏱️ 20:18 • 8h ago
 
 ---
 
@@ -325,7 +319,37 @@ Under a new "BTC Monetization Program," the firm executed its largest-ever Bitco
 
 📺 Paul Barron Network
 
-👁️ 16K • 👍 857 • 💬 94 • ⏱️ 14:49 • 5h ago
+👁️ 22K • 👍 1K • 💬 108 • ⏱️ 14:49 • 10h ago
+
+---
+
+**[Tom Lee - &quot;Something&#39;s VERY Wrong With Bitcoin &amp; Nobody&#39;s Talking About it](https://www.youtube.com/watch?v=8hzVbQvUsmw)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 147 • 💬 11 • ⏱️ 17:26 • 10h ago
+
+---
+
+**[Did The MicroStrategy Death Spiral Just Turn Into a Bitcoin Rally?](https://www.youtube.com/watch?v=1vW26afu_eM)**
+
+Michael Saylor faced relentless criticism after MicroStrategy stumbled, but the narrative shifted fast. This breakdown explores why ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 172 • ⏱️ 15:58 • 1d ago
+
+---
+
+**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
+
+Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 459 • 💬 198 • ⏱️ 17:12 • 14h ago
 
 ---
 
@@ -335,7 +359,7 @@ Crypto Hodlers - IT'S A TRAP! | Bitcoin, Ethereum, & Solana | Don't Be Fooled �
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 114 • ⏱️ 11:41 • 1d ago
+👁️ 41K • 👍 2K • 💬 116 • ⏱️ 11:41 • 1d ago
 
 ---
 
@@ -345,17 +369,7 @@ Bitcoin #Crypto #Finance Matthew Sigel from VanEck breaks down exactly how his N
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 690 • 💬 289 • ⏱️ 30:31 • 1d ago
-
----
-
-**[TRUMP CRYPTO SCAM? | FREE INVESTMENT MONEY FOR KIDS, AI’S NEW STAR &amp; BITCOIN PANIC 🚨](https://www.youtube.com/watch?v=71hN4SrJ5QA)**
-
-This week on Market Mondays, we tackled the biggest stories shaping the markets, technology, and investing. From the ...
-
-📺 Earn Your Leisure
-
-👁️ 5K • 👍 1K • 1h ago
+👁️ 18K • 👍 694 • 💬 274 • ⏱️ 30:31 • 1d ago
 
 ---
 
@@ -365,17 +379,7 @@ Bitcoin charts, Nasdaq, SpaceX, Solana, Cardano! BITUNIX TRADE THE TOP COINS (av
 
 📺 Lark Davis
 
-👁️ 11K • 👍 584 • 💬 43 • ⏱️ 19:18 • 13h ago
-
----
-
-**[Bitcoin: The Four Year Cycle Strikes Again](https://www.youtube.com/watch?v=sy6AxBbgico)**
-
-Let's talk about the four year cycle for Bitcoin! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
-
-📺 Benjamin Cowen
-
-👁️ 85K • 👍 5K • 💬 289 • ⏱️ 14:22 • 21h ago
+👁️ 12K • 👍 615 • 💬 50 • ⏱️ 19:18 • 17h ago
 
 ---
 
