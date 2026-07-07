@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-07T15:26:40.152638+00:00'
+updated: '2026-07-07T17:33:18.636830+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 07, 2026 at 15:26 UTC  
+**Last Updated:** July 07, 2026 at 17:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle
 
 I sometimes need to tune the inertial property of the robot by changing the density or mass of each parts. Doing it in CAD and have it re-export to URDF takes a bit long and too tedious. So this online editor lets you (and me) quickly make changes, and have the inertia tensor of the links be recomputed immediately. You can then copy-paste the updated URDF. This is basically entirely made by claude (with some of my help :)) (And yes, it is placed under my startup's domain as a potential lead magnet. but I think it could be useful for some people nonetheless. EDIT (forgot to post the link) Welcome to try: https://urdf.aperobotics.io/
 
-23h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Have been building this project for a while now, and would love to get eyes on i
 
 Found this demo on their project page showing exactly the transparent-surface problem that breaks most RGB-D setups. Raw sensor depth drops to nothing on the glass panel, and the completion model fills it in from the backbone features. Only the four vision encoders went up on HuggingFace and GitHub this week under Apache-2.0; the depth completion weights themselves are not released. Their paper lists NYUv2 RMSE of 0.296 for the flagship ViT-g, and they report 2.552 on KITTI, trailing both DINOv3-7B and V-JEPA 2.1. For actual robotics work this is the exact failure mode that makes wine glasses and steel cabinets a consistent headache for grasp pipelines. Curious how people see validating these depth numbers when the completion weights are not available for independent testing.
 
-20h ago
+22h ago
 
 ---
 
@@ -74,7 +74,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 **[Update on BAGEL: new features and future plans!](https://www.reddit.com/r/robotics/comments/1up4olv/update_on_bagel_new_features_and_future_plans/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -90,7 +90,7 @@ Is there anyone who could help me regarding controlling multiple robstride o2 mo
 
 Hi, I have an interview with Neuralink for this fall for robotics software engineer intern. I was wondering what should i expect and what is the interview process. Thank you.
 
-21h ago
+23h ago
 
 ---
 
@@ -118,15 +118,7 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Robotics tech is changing fast, so for many it makes sense to rent a robot.
 
-BBC • 15h ago
-
----
-
-**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
-
-New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
-
-NVIDIA Blog • 9h ago
+BBC • 17h ago
 
 ---
 
@@ -142,7 +134,43 @@ The Guardian • 1d ago
 
 Top robotics researchers and founders explain how robot autonomy is evolving.
 
-Ars Technica • 4h ago
+Ars Technica • 6h ago
+
+---
+
+**[The humanoid robot boom is here. These top Silicon Valley investors aren't buying it.](https://www.businessinsider.com/humanoid-boom-is-here-some-vcs-want-no-part-of-2026-6)**
+
+These VCs say humanoids are overhyped. They're backing robots with wheels, wings, and specialized designs instead.
+
+Business Insider • 8h ago
+
+---
+
+**[Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T | NVIDIA Technical Blog](https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/)**
+
+As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids remains complex…
+
+NVIDIA Developer • 12m ago
+
+---
+
+**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
+
+Honolulu Civil Beat • 7h ago
+
+---
+
+**[The Robots Are Here](https://www.chinatalk.media/p/the-robots-are-here)**
+
+Unitree's advantage
+
+ChinaTalk | Jordan Schneider • 1d ago
+
+---
+
+**[Hyundai Motor Showcases Humanoid at World Cup in Robotics Push](https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -150,19 +178,7 @@ Ars Technica • 4h ago
 
 Hephaestus Robotics Team, a youth robotics team consisting of 21 students from eight high schools across Santa Cruz County, won first place in their class at the nine day MATE ROV World Championship in Canada.
 
-The Mercury News • 22h ago
-
----
-
-**[Oregon cannabis robotics company moves HQ to Pittsburgh](https://www.bizjournals.com/portland/news/2026/07/07/vape-jet-relocates-to-strip-district.html)**
-
-The Business Journals • 11m ago
-
----
-
-**[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
-
-WSJ • 3d ago
+The Mercury News • 1d ago
 
 ---
 
@@ -171,20 +187,6 @@ WSJ • 3d ago
 KIDZBot is expected to roll out commercially in the second half of 2026, while the platform combines robotics hardware, curriculum and coding tools.
 
 Stock Titan • 1d ago
-
----
-
-**[Newfoundland robotics firm eyes revenue, market growth with U.K. acquisition](https://www.saltwire.com/newfoundland-labrador/kraken-robotics-acquires-uk-firm)**
-
-St. John's-based Kraken Robotics Inc. has officially taken over U.K.'s Covelya Group Limited in a deal worth $615 million
-
-PNI Atlantic News • 1d ago
-
----
-
-**[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
-
-Tech Xplore • 3h ago
 
 ---
 
@@ -198,17 +200,17 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 244K • 👍 7K • 💬 2K • ⏱️ 3:59 • 6d ago
+👁️ 245K • 👍 7K • 💬 2K • ⏱️ 3:59 • 6d ago
 
 ---
 
-**[Chinese Hyper-Realistic AI Robot That Looks Just Like Ela #robot #robotics #airobot](https://www.youtube.com/watch?v=q4J7xqIpFOI)**
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
 
-The Chinese startup AnyWit Robotics has developed a hyper-realistic replica of Ela Bosak, the fan favorite from Tom Clancy's ...
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 46 • ⏱️ 1:01 • 11h ago
+👁️ 476 • 👍 34 • 💬 12 • ⏱️ 10:42 • 20h ago
 
 ---
 
@@ -218,15 +220,17 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 91K • 👍 2K • 💬 436 • ⏱️ 13:32 • 2d ago
+👁️ 92K • 👍 2K • 💬 440 • ⏱️ 13:32 • 2d ago
 
 ---
 
-**[mood robotic dance challenge #trending #youtubeshorts #fyp #dancetutorial #shortvideo brick grandpa](https://www.youtube.com/watch?v=fQZ8kRAVwjQ)**
+**[Chinese Hyper-Realistic AI Robot That Looks Just Like Ela #robot #robotics #airobot](https://www.youtube.com/watch?v=q4J7xqIpFOI)**
 
-📺 Dance Theorem 
+The Chinese startup AnyWit Robotics has developed a hyper-realistic replica of Ela Bosak, the fan favorite from Tom Clancy's ...
 
-👁️ 118K • 👍 2K • 💬 93 • ⏱️ 0:57 • 2d ago
+📺 Kalil 4.0
+
+👁️ 1K • 👍 48 • ⏱️ 1:01 • 13h ago
 
 ---
 
@@ -236,7 +240,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 62K • 👍 2K • 💬 105 • ⏱️ 10:56 • 2d ago
+👁️ 66K • 👍 2K • 💬 116 • ⏱️ 10:56 • 2d ago
 
 ---
 
@@ -246,27 +250,7 @@ War Robots Test Server Gameplay: NEW Robot FANG - WR My War Robots Creator Link:
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 336 • 💬 65 • ⏱️ 13:11 • 1d ago
-
----
-
-**[Humans Vs Robots at Same Job: Humans Barley Won](https://www.youtube.com/watch?v=RNmuk5tWEcc)**
-
-Human vs Robot: Humans Barely Won 12924 Packages vs the Robot's 12732 Description Figure Al just tested its humanoid robot ...
-
-📺 Brainy Byte
-
-👁️ 1.2M • 👍 34K • 💬 2K • ⏱️ 0:12 • 4d ago
-
----
-
-**[i started a robotics company in 2026](https://www.youtube.com/watch?v=4wzn7ERaleU)**
-
-In this video I cover some of the behind the scenes of starting a robotics company in 2026. Our goal was to make a professional ...
-
-📺 Austen Hartley
-
-👁️ 3K • 👍 197 • 💬 30 • ⏱️ 18:50 • 15h ago
+👁️ 7K • 👍 341 • 💬 66 • ⏱️ 13:11 • 1d ago
 
 ---
 
@@ -276,17 +260,35 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 27K • 👍 1K • 💬 56 • ⏱️ 10:19 • 5d ago
+👁️ 27K • 👍 1K • 💬 57 • ⏱️ 10:19 • 5d ago
 
 ---
 
-**[🧑‍🔧 Japanese engineers developed 🤖  a wearable robot that improves ⚖️  balance 👴 | MDCT](https://www.youtube.com/watch?v=V6ULmrkJuNw)**
+**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
 
-What if humans had a tail to help us stay balanced?* Japanese researchers have developed a robotic tail called *Arque* ...
+Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 Make Dream Come True 
+📺 Chris Norlund
 
-👁️ 38K • 👍 686 • 💬 30 • ⏱️ 0:11 • 4d ago
+👁️ 69K • 👍 4K • 💬 2K • ⏱️ 13:09 • 2d ago
+
+---
+
+**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=J1GBxgv9Vgs)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
+
+📺 South China Morning Post
+
+👁️ 187K • 👍 7K • 💬 1K • ⏱️ 2:39 • 6d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=qurirsorIJ4)**
+
+📺 Borunte julie 
+
+👁️ 4K • 👍 33 • 💬 1 • ⏱️ 0:21 • 1d ago
 
 ---
 
