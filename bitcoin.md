@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-07T21:26:02.703871+00:00'
+updated: '2026-07-07T22:37:13.069999+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 21:26 UTC  
+**Last Updated:** July 07, 2026 at 22:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +5.7%  
-**30d:** +0.6%  
-**90d:** -11.6%  
-**1y:** -41.8%  
+**24h:** -0.7%  
+**7d:** +6.0%  
+**30d:** +0.8%  
+**90d:** -11.4%  
+**1y:** -41.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1279.26B
+**Market Cap:** $1272.76B
 Rank #1
 
-**Circulating Supply:** 20,053,337 BTC
+**Circulating Supply:** 20,053,381 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.7%
 
 **All-Time Low:** $67.81
-+93979.0%
++93508.6%
 
 ---
 
@@ -155,14 +155,6 @@ I was reading a lot of AI data centres that were planned to be built are now bei
 
 ## Google News: "bitcoin"
 
-**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
-
-Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
-
-CNBC • 1d ago
-
----
-
 **[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://finance.yahoo.com/markets/crypto/articles/trump-bitcoin-faces-hurdles-departments-183009501.html)**
 
 (Bloomberg) -- The Trump administration’s plan to create a Strategic Bitcoin Reserve has been complicated by two government departments vying to run it, alongside questions about which has the legal authority to do so.Most Read from BloombergGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaMicrosoft’s Xbox to Cut 3,200 Jobs, Divest Five Studios in Major OverhaulOil, Gas Tankers Cross Hormuz Via Oman-Side Route After U-TurnsThe Tanker Tycoon Making Millions on Hormuz Shuttle RunsSa
@@ -171,31 +163,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Could Trump Accounts someday include bitcoin, crypto?](https://finance.yahoo.com/video/could-trump-accounts-someday-bitcoin-193000212.html)**
+**[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control)**
 
-Scott Melker discusses President Trump's latest comments around whether the newly launched Trump Accounts could include crypto in the future.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin pulls back from $64,500 as weak ETF flows, falling open interest cloud outlook](https://www.coindesk.com/markets/2026/07/07/bitcoin-stalls-as-open-interest-decline-raises-questions-about-rally-s-staying-power)**
+**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
 
-BTC retreated from a two-week high of $64,500 as falling open interest and weak spot demand cast doubt on the sustainability of July's 8.4% market recovery.
+Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
 
-CoinDesk • 10h ago
-
----
-
-**[How Strategy Can Sell Billions in Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-sell-billions-bitcoin-200444529.html)**
-
-Strategy sold $216M in Bitcoin to fund dividends but still reports full $1.25B reserve capacity. The build-versus-replenish loophole explained.
-
-Yahoo Finance • 1h ago
+CNBC • 1d ago
 
 ---
 
@@ -205,25 +183,43 @@ WSJ • 1d ago
 
 ---
 
-**[Current price of Bitcoin for July 6, 2026](https://fortune.com/article/price-of-bitcoin-07-06-2026/)**
+**[Douglas County Sheriff's Office trains multiple agencies on how to track bitcoin fraud in Nebraska](https://www.ketv.com/article/douglas-county-sheriffs-office-train-agencies-bitcoin-fraud-nebraska/71856429)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Douglas County Sheriff's Office partners with multiple agencies on how to prevent ATM bitcoin fraud in Nebraska
 
-Fortune • 1d ago
-
----
-
-**[Bitcoin Miners Want To Be AI Landlords. Four Companies Making It Work.](https://www.barrons.com/articles/bitcoin-miners-crypto-ai-power-galaxy-b329c547)**
-
-Barron's • 1d ago
+KETV • 1h ago
 
 ---
 
-**[Tether puts $20 million behind Mercado Bitcoin amid Latin America's tokenization boom](https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom)**
+**[Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America](https://finance.yahoo.com/markets/crypto/articles/tether-invests-20-million-mercado-213109187.html)**
 
-Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.
+Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.
 
-The Block • 5h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[New Hampshire Bitcoin Bond Nears Final Vote, But There is a Catch](https://finance.yahoo.com/markets/crypto/articles/hampshire-bitcoin-bond-nears-final-212853772.html)**
+
+New Hampshire's Executive Council votes on a $100 million Bitcoin bond as research flags a likely liquidation trigger.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Live markets: Bitcoin and ether ETFs drew inflows Monday](https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday)**
+
+Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows.
+
+CoinDesk • 9h ago
+
+---
+
+**[Two traders sue Polymarket over disputed resolution of Strategy bitcoin sale market](https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale)**
+
+Plaintiffs claim that Polymarket unjustly resolved the market to a "No" despite Strategy's filing that states the company sold BTC in May.
+
+The Block • 14h ago
 
 ---
 
@@ -291,7 +287,7 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 Stacked branches. Contribute to alexghr/graphene development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/alexghr/graphene)
+⬆️ 1 • 💬 0 • 10h ago • [GitHub](https://github.com/alexghr/graphene)
 
 ---
 
@@ -299,43 +295,19 @@ Stacked branches. Contribute to alexghr/graphene development by creating an acco
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin passed the Saylor test](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
+**[The world’s smallest bitcoin miner - the USB Nerd Miner! #bitcoin #btc #bitcoinmining](https://www.youtube.com/watch?v=4x5-6LhFKlM)**
 
-Bitcoin just had its best week since March—but that's not the most important story. In this episode of The Daily Wolf, Scott Melker ...
+📺 How Much?
 
-📺 Yahoo Finance
-
-👁️ 3K • 👍 264 • 💬 51 • ⏱️ 14:54 • 5h ago
+👁️ 4K • 👍 62 • 💬 5 • ⏱️ 0:23 • 1d ago
 
 ---
 
-**[Bitcoin Jumps on Strategic Reserve Update](https://www.youtube.com/watch?v=yAnQOceHcPQ)**
+**[The NerdQaxe++ Hydro is a great way to keep your mining setup cool this summer! #bitcoinmining](https://www.youtube.com/watch?v=tMmF3Jd1hqs)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+📺 How Much?
 
-📺 CryptosRUs
-
-👁️ 18K • 👍 893 • 💬 105 • ⏱️ 8:39 • 20h ago
-
----
-
-**[Lyn Alden: Why This Is the Worst Bitcoin Sentiment She&#39;s Ever Seen](https://www.youtube.com/watch?v=lIg0G0z2KkY)**
-
-Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories to give her honest read on Bitcoin's price, where ...
-
-📺 Natalie Brunell
-
-👁️ 4K • 👍 389 • 💬 138 • ⏱️ 59:57 • 5h ago
-
----
-
-**[Bitcoin at a Crossroad as Global Shock Hits](https://www.youtube.com/watch?v=CRQAajl-EKU)**
-
-AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 11K • 👍 703 • 💬 47 • ⏱️ 46:39 • 6h ago
+👁️ 2K • 👍 17 • 💬 1 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -345,57 +317,75 @@ Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and th
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 3K • 💬 301 • ⏱️ 20:18 • 1d ago
+👁️ 41K • 👍 3K • 💬 317 • ⏱️ 20:18 • 1d ago
 
 ---
 
-**[Reporter Asks Trump: Are There Plans To Put Bitcoin Into Trump Accounts?](https://www.youtube.com/watch?v=As1K6AqG4LI)**
+**[Bitcoin Mining for Beginners: Everything You Need to Start](https://www.youtube.com/watch?v=hCnITupnT7E)**
 
-While taking questions from reporters on Monday, President Donald Trump spoke about cryptocurrency. Stay Connected Forbes ...
+Been curious about mining Bitcoin but think you need an expensive rig or expert skills? You don't. In this step-by-step beginner ...
 
-📺 Forbes Breaking News
+📺 Red Fox Crypto
 
-👁️ 5K • 👍 53 • 💬 31 • ⏱️ 10:11 • 1d ago
-
----
-
-**[Did The MicroStrategy Death Spiral Just Turn Into a Bitcoin Rally?](https://www.youtube.com/watch?v=1vW26afu_eM)**
-
-Michael Saylor faced relentless criticism after MicroStrategy stumbled, but the narrative shifted fast. This breakdown explores why ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 161 • ⏱️ 15:58 • 1d ago
+👁️ 211 • 👍 24 • 💬 4 • ⏱️ 12:17 • 8h ago
 
 ---
 
-**[Tom Lee - &quot;Something&#39;s VERY Wrong With Bitcoin &amp; Nobody&#39;s Talking About it](https://www.youtube.com/watch?v=8hzVbQvUsmw)**
+**[Bitcoin mining machine](https://www.youtube.com/watch?v=HxVMOkiuatM)**
 
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+📺 Saifivlogs2.0
 
-📺 Savvy Finance
-
-👁️ 7K • 👍 209 • 💬 34 • ⏱️ 17:26 • 1d ago
+👁️ 451 • 👍 10 • ⏱️ 0:50 • 11h ago
 
 ---
 
-**[Why Michael Saylor Is Dumping Bitcoin Now | Strategy Backfired | Dana Love, PhD](https://www.youtube.com/watch?v=qOLq8PTYg2o)**
+**[Bitcoin... This Isn&#39;t Good](https://www.youtube.com/watch?v=X6ptF8avD2A)**
 
-Dana Love, PhD goes forensic on Strategy's July 6 8-K: an $8.32 billion Q2 loss on digital assets, 3588 Bitcoin sold roughly 20% ...
+Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts are terrifying! WEEX ...
 
-📺 Dana Love, PhD
+📺 Crypto Zombie
 
-👁️ 21K • 👍 1K • 💬 505 • ⏱️ 16:32 • 22h ago
+👁️ 5K • 👍 729 • 💬 163 • ⏱️ 21:48 • 5h ago
 
 ---
 
-**[Crypto Holders: You’re Walking Into A TRAP!](https://www.youtube.com/watch?v=trkhlHITXUQ)**
+**[He Risked It All to Buy ONE Bitcoin](https://www.youtube.com/watch?v=ZybsMNXLeic)**
 
-Crypto Hodlers - IT'S A TRAP! | Bitcoin, Ethereum, & Solana | Don't Be Fooled ⭐ Follow Altcoin Daily on X: ...
+See something in the video that caught your eye? If you're interested in buying it, just shoot us an email and let us know what item ...
 
-📺 Altcoin Daily
+📺 Craigslist Hunter
 
-👁️ 43K • 👍 2K • 💬 120 • ⏱️ 11:41 • 1d ago
+👁️ 30K • 👍 2K • 💬 244 • ⏱️ 32:42 • 2d ago
+
+---
+
+**[The Best Hydro Miner (it’s not what you’d think)](https://www.youtube.com/watch?v=_hZITfLS3vI)**
+
+WE'RE ON THE HUNT for the perfect first hydro Bitcoin miner. It's between the Bitmain S23, Bitmain S21J XP, and S19 XP Hydro ...
+
+📺 Ryan Blass // Karpuz Mining
+
+👁️ 201 • 👍 26 • 💬 17 • ⏱️ 27:12 • 2d ago
+
+---
+
+**[David Bailey&#39;s Companies Are An Attack On Bitcoin](https://www.youtube.com/watch?v=dizaPv4LDWI)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how David Bailey's crypto ...
+
+📺 Bitcoin University
+
+👁️ 4K • 👍 749 • 💬 182 • ⏱️ 11:30 • 9h ago
+
+---
+
+**[Bitcoin Flashing Rare Buy Signal! 🚨 (Why $60K Is The Reloading Zone) 📈](https://www.youtube.com/watch?v=y8XkPzBU_a4)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 36K • 👍 3K • 💬 93 • ⏱️ 16:56 • 1d ago
 
 ---
 

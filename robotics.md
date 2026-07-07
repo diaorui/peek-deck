@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-07T21:26:02.713123+00:00'
+updated: '2026-07-07T22:37:13.079296+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 07, 2026 at 21:26 UTC  
+**Last Updated:** July 07, 2026 at 22:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,7 +118,7 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Robotics tech is changing fast, so for many it makes sense to rent a robot.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -134,7 +134,7 @@ The Guardian • 1d ago
 
 Top robotics researchers and founders explain how robot autonomy is evolving.
 
-Ars Technica • 10h ago
+Ars Technica • 11h ago
 
 ---
 
@@ -142,7 +142,7 @@ Ars Technica • 10h ago
 
 These VCs say humanoids are overhyped. They're backing robots with wheels, wings, and specialized designs instead.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -150,27 +150,35 @@ Business Insider • 12h ago
 
 New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
 
-NVIDIA Blog • 15h ago
+NVIDIA Blog • 16h ago
 
 ---
 
 **[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
 
-Honolulu Civil Beat • 11h ago
+Honolulu Civil Beat • 12h ago
+
+---
+
+**[Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity?](https://finance.yahoo.com/healthcare/articles/serve-robotics-healthcare-push-unlock-150600410.html)**
+
+SERV is expanding into healthcare automation through Diligent Robotics, aiming to grow recurring AI software revenues beyond food delivery.
+
+Yahoo Finance • 7h ago
 
 ---
 
 **[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
 
-Tech Xplore • 9h ago
+Tech Xplore • 11h ago
 
 ---
 
-**[KIDZ AI Wins 2026 EdTechX Award and Unveils KIDZBot AI Robotics Platform](https://finance.yahoo.com/technology/ai/articles/kidz-ai-wins-2026-edtechx-113000907.html)**
+**[Faraday Future deepens Middle East robotics push with UAE partners](https://www.stocktitan.net/news/FFAI/faraday-future-advances-middle-east-eai-robotics-strategy-through-heuyua3h9126.html)**
 
-KIDZ AI Named 2026 EdTechX Award Winner for the Americas, recognizing the Company's innovation and leadership in AI-powered education. KIDZ AI Launches KIDZBot AI Robotics Platform, an integrated AI-native robotics platform that incorporates advanced ...
+Cooperation with CGCC, Action To Action and Ibtikar Robotics may cover procurement, distribution, rentals, curriculum and technical support.
 
-Yahoo Finance • 1d ago
+Stock Titan • 1h ago
 
 ---
 
@@ -179,14 +187,6 @@ Yahoo Finance • 1d ago
 Hephaestus Robotics Team, a youth robotics team consisting of 21 students from eight high schools across Santa Cruz County, won first place in their class at the nine day MATE ROV World Championship in Canada.
 
 The Mercury News • 1d ago
-
----
-
-**[3 AI Infrastructure Stocks to Buy in July](https://247wallst.com/investing/2026/07/07/3-ai-infrastructure-stocks-to-buy-in-july/)**
-
-Robotics and AI infrastructure stocks have ripped higher in 2026, and the path of least resistance still points up as humanoid pilots scale and AI data center spend keeps compounding.
-
-24/7 Wall St. • 8h ago
 
 ---
 
@@ -200,17 +200,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 245K • 👍 7K • 💬 2K • ⏱️ 3:59 • 6d ago
-
----
-
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 546 • 👍 36 • 💬 12 • ⏱️ 10:42 • 1d ago
+👁️ 246K • 👍 7K • 💬 2K • ⏱️ 3:59 • 6d ago
 
 ---
 
@@ -220,7 +210,27 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 92K • 👍 2K • 💬 442 • ⏱️ 13:32 • 2d ago
+👁️ 93K • 👍 2K • 💬 443 • ⏱️ 13:32 • 3d ago
+
+---
+
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+
+📺 Future Core
+
+👁️ 76K • 👍 2K • 💬 131 • ⏱️ 10:56 • 3d ago
+
+---
+
+**[NEW Robot FANG is coming to War Robots](https://www.youtube.com/watch?v=-wIxHRH4DdU)**
+
+War Robots Test Server Gameplay: NEW Robot FANG - WR My War Robots Creator Link: https://wr.my.games/manni - Code: ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 353 • 💬 67 • ⏱️ 13:11 • 1d ago
 
 ---
 
@@ -234,43 +244,23 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 ---
 
-**[NEW Robot FANG is coming to War Robots](https://www.youtube.com/watch?v=-wIxHRH4DdU)**
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
 
-War Robots Test Server Gameplay: NEW Robot FANG - WR My War Robots Creator Link: https://wr.my.games/manni - Code: ...
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
 
-📺 Manni-Gaming
+📺 Kalil 4.0
 
-👁️ 7K • 👍 347 • 💬 67 • ⏱️ 13:11 • 1d ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
-
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
-
-📺 Future Core
-
-👁️ 69K • 👍 2K • 💬 122 • ⏱️ 10:56 • 2d ago
+👁️ 669 • 👍 41 • 💬 13 • ⏱️ 10:42 • 1d ago
 
 ---
 
-**[🧑‍🔧 Japanese engineers developed 🤖  a wearable robot that improves ⚖️  balance 👴 | MDCT](https://www.youtube.com/watch?v=V6ULmrkJuNw)**
+**[When the AI robot hype meets a soccer ball](https://www.youtube.com/watch?v=Wo872ips2Hk)**
 
-What if humans had a tail to help us stay balanced?* Japanese researchers have developed a robotic tail called *Arque* ...
+RoboCup is often called the World Cup of robotics, an international competition running since 1997 where teams of fully ...
 
-📺 Make Dream Come True 
+📺 The Urban Herald
 
-👁️ 38K • 👍 686 • 💬 30 • ⏱️ 0:11 • 4d ago
-
----
-
-**[This AI Camera Robot Is Unlike Anything I&#39;ve Tested - Meet Beni!](https://www.youtube.com/watch?v=AwiIt1Visg4)**
-
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
-
-📺 51 Drones
-
-👁️ 68K • 👍 567 • 💬 102 • ⏱️ 12:50 • 6d ago
+👁️ 36K • 👍 133 • 💬 16 • ⏱️ 0:06 • 4d ago
 
 ---
 
@@ -280,17 +270,27 @@ Human vs Robot: Humans Barely Won 12924 Packages vs the Robot's 12732 Descriptio
 
 📺 Brainy Byte
 
-👁️ 1.3M • 👍 36K • 💬 2K • ⏱️ 0:12 • 4d ago
+👁️ 1.3M • 👍 37K • 💬 2K • ⏱️ 0:12 • 5d ago
 
 ---
 
-**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=J1GBxgv9Vgs)**
+**[🧑‍🔧 Japanese engineers developed 🤖  a wearable robot that improves ⚖️  balance 👴 | MDCT](https://www.youtube.com/watch?v=V6ULmrkJuNw)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
+What if humans had a tail to help us stay balanced?* Japanese researchers have developed a robotic tail called *Arque* ...
 
-📺 South China Morning Post
+📺 Make Dream Come True 
 
-👁️ 188K • 👍 7K • 💬 1K • ⏱️ 2:39 • 6d ago
+👁️ 38K • 👍 687 • 💬 30 • ⏱️ 0:11 • 4d ago
+
+---
+
+**[This AI Camera Robot Is Unlike Anything I&#39;ve Tested - Meet Beni!](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+
+📺 51 Drones
+
+👁️ 69K • 👍 581 • 💬 104 • ⏱️ 12:50 • 6d ago
 
 ---
 

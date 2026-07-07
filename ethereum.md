@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-07T21:26:02.709871+00:00'
+updated: '2026-07-07T22:37:13.076076+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 21:26 UTC  
+**Last Updated:** July 07, 2026 at 22:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,771.50
+### $1,777.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +10.5%  
-**30d:** +5.2%  
-**90d:** -18.8%  
-**1y:** -32.0%  
+**24h:** -1.2%  
+**7d:** +10.4%  
+**30d:** +5.1%  
+**90d:** -18.9%  
+**1y:** -32.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.84B
+**Market Cap:** $214.19B
 Rank #2
 
 **Circulating Supply:** 120,683,164 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.8%
+-64.1%
 
 **All-Time Low:** $0.43
-+412966.2%
++409908.3%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
 **[Vitalik Buterin just unveiled Ethereum’s updated roadmap!](https://www.reddit.com/r/ethereum/comments/1upil1n/vitalik_buterin_just_unveiled_ethereums_updated/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about the post quantum migration for a while and built a small tool that scores exposure risk for any Ethereum address. How it works: every ECDSA signed transaction reveals the signer's public key on chain. Once you have sent one transaction from an address, that public key is on chain permanently. If a sufficiently capable quantum computer arrives, it can derive the private key from that public key using Shor's algorithm. The tool takes any EVM address or ENS name and returns: - Whether the public key is already on chain (exposed) - The value at risk - How long the exposure has existed - A 0 to 100 exposure score Read only. No wallet connection. No signup. claak.io/scan Vitalik.eth is prefilled as a demo. The scanner is free and standalone. Full disclosure: I contribute to Claak, but this post is about the scanner as an open piece of crypto tooling for the community. Google's March paper cut the qubit threshold to roughly 1,152 logical qubits. Eigen Labs' open ecdsa.fail benchmark is past Google. NSA has set 2030 as the migration deadline. Happy to walk through methodology if anyone is curious. What score did you get on your main address?
 
-16h ago
+17h ago
 
 ---
 
@@ -156,14 +156,6 @@ The Block • 1d ago
 
 ---
 
-**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
-
-DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
-
-markets.businessinsider.com • 3h ago
-
----
-
 **[Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-73-144145212.html)**
 
 BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
@@ -208,7 +200,15 @@ The Defiant • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
+
+---
+
+**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
+
+DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
+
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ Fortune • 8h ago
 
 Leading cryptocurrencies moved sideways on Monday, July 6, as high-profile Bitcoin sell-offs were offset by growing optimism for a Strategic Bitcoin Reserve.
 
-Benzinga • 18h ago
+Benzinga • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ Benzinga • 18h ago
 
 Is the next breakout in Ethereum finally approaching?
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 2K • 👍 234 • 💬 92 • ⏱️ 19:01 • 4h ago
+👁️ 3K • 👍 325 • 💬 114 • ⏱️ 19:01 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum and Bitcoin are showing the market some interesting movements in the la
 
 📺 Money Rules - Investing Tips 
 
-👁️ 6K • 👍 787 • 💬 331 • ⏱️ 13:04 • 10h ago
+👁️ 7K • 👍 837 • 💬 341 • ⏱️ 13:04 • 11h ago
 
 ---
 
@@ -258,27 +258,17 @@ Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
 📺 Credible Crypto
 
-👁️ 13K • 👍 876 • 💬 86 • ⏱️ 1:03:11 • 1d ago
+👁️ 13K • 👍 906 • 💬 91 • ⏱️ 1:03:11 • 1d ago
 
 ---
 
-**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
+**[BITCOIN WARNING FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LR8fNDRY2So)**
 
-Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
+BITCOIN WARNING FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Capital Venture
+📺 Crypto World
 
-👁️ 10K • 👍 488 • 💬 230 • ⏱️ 17:12 • 1d ago
-
----
-
-**[Ethereum Is Betting Everything on This Roadmap](https://www.youtube.com/watch?v=BE2BM522-Q0)**
-
-Ethereum is trying to solve five major problems at once — speed, decentralization, economics, privacy, and even quantum ...
-
-📺 CoinGecko
-
-👁️ 5K • 👍 259 • 💬 76 • ⏱️ 10:28 • 1d ago
+👁️ 1K • 👍 136 • 💬 20 • ⏱️ 21:45 • 1h ago
 
 ---
 
@@ -288,7 +278,37 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 7K • 👍 275 • 💬 76 • ⏱️ 1:09:10 • 1d ago
+👁️ 7K • 👍 280 • 💬 77 • ⏱️ 1:09:10 • 1d ago
+
+---
+
+**[Ethereum Is Betting Everything on This Roadmap](https://www.youtube.com/watch?v=BE2BM522-Q0)**
+
+Ethereum is trying to solve five major problems at once — speed, decentralization, economics, privacy, and even quantum ...
+
+📺 CoinGecko
+
+👁️ 6K • 👍 271 • 💬 77 • ⏱️ 10:28 • 1d ago
+
+---
+
+**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
+
+Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 491 • 💬 233 • ⏱️ 17:12 • 1d ago
+
+---
+
+**[Tom Lee: Why Ethereum Will Make You Rich (You&#39;re Not Too Late)](https://www.youtube.com/watch?v=NR9pvNbOA6o)**
+
+Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Michaël van de Poppe to explain why he thinks ETH ...
+
+📺 New Era Finance Podcast
+
+👁️ 4K • 👍 211 • 💬 28 • ⏱️ 34:28 • 8h ago
 
 ---
 
@@ -302,33 +322,13 @@ Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy In th
 
 ---
 
-**[Saylor sold. Tom Lee bought.](https://www.youtube.com/watch?v=UmuQ0SSfLPs)**
+**[doesn&#39;t look like anything to me (Ethereum&#39;s C Word)](https://www.youtube.com/watch?v=e45W6FJfQks)**
 
-Michael Saylor spent years telling investors to never sell Bitcoin. Now Strategy is doing something very different. In this episode of ...
+Doesn't Look like Anything to Me (Ethereum's C Word)
 
-📺 Yahoo Finance
+📺 Charles Hoskinson
 
-👁️ 14K • 👍 485 • 💬 133 • ⏱️ 14:56 • 1d ago
-
----
-
-**[ETH Ethereum Price Prediction: 7/7/2026](https://www.youtube.com/watch?v=5d2B87LoxHc)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 96 • 👍 10 • 💬 12 • ⏱️ 5:32 • 6h ago
-
----
-
-**[ETHEREUM’S BIGGEST UPGRADE.](https://www.youtube.com/watch?v=4Qz7RzgHqBo)**
-
-Welcome back to Crypto Ki Taaza Khabar In this episode, we discuss Ethereum's biggest upcoming upgrade, the latest crypto ...
-
-📺 Bitinning
-
-👁️ 8K • 👍 564 • 💬 57 • ⏱️ 11:03 • 1d ago
+👁️ 2K • 👍 487 • 💬 87 • ⏱️ 13:04 • 1h ago
 
 ---
 
