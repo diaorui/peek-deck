@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-07T19:56:09.407110+00:00'
+updated: '2026-07-07T21:26:02.713123+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 07, 2026 at 19:56 UTC  
+**Last Updated:** July 07, 2026 at 21:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,7 +118,7 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Robotics tech is changing fast, so for many it makes sense to rent a robot.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -134,7 +134,7 @@ The Guardian • 1d ago
 
 Top robotics researchers and founders explain how robot autonomy is evolving.
 
-Ars Technica • 8h ago
+Ars Technica • 10h ago
 
 ---
 
@@ -142,21 +142,27 @@ Ars Technica • 8h ago
 
 These VCs say humanoids are overhyped. They're backing robots with wheels, wings, and specialized designs instead.
 
-Business Insider • 10h ago
+Business Insider • 12h ago
 
 ---
 
-**[Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T | NVIDIA Technical Blog](https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/)**
+**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
 
-As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids remains complex…
+New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
 
-NVIDIA Developer • 2h ago
+NVIDIA Blog • 15h ago
 
 ---
 
 **[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
 
-Honolulu Civil Beat • 9h ago
+Honolulu Civil Beat • 11h ago
+
+---
+
+**[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
+
+Tech Xplore • 9h ago
 
 ---
 
@@ -180,15 +186,7 @@ The Mercury News • 1d ago
 
 Robotics and AI infrastructure stocks have ripped higher in 2026, and the path of least resistance still points up as humanoid pilots scale and AI data center spend keeps compounding.
 
-24/7 Wall St. • 7h ago
-
----
-
-**[Newfoundland robotics firm eyes revenue, market growth with U.K. acquisition](https://www.saltwire.com/newfoundland-labrador/kraken-robotics-acquires-uk-firm)**
-
-St. John's-based Kraken Robotics Inc. has officially taken over U.K.'s Covelya Group Limited in a deal worth $615 million
-
-PNI Atlantic News • 1d ago
+24/7 Wall St. • 8h ago
 
 ---
 
@@ -212,7 +210,7 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 546 • 👍 36 • 💬 12 • ⏱️ 10:42 • 22h ago
+👁️ 546 • 👍 36 • 💬 12 • ⏱️ 10:42 • 1d ago
 
 ---
 

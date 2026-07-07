@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-07-07T19:56:08.922645+00:00"
+          "dateModified": "2026-07-07T21:26:02.223899+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,39 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uq52r8/ai_cant_simulate_human_preferences_new_study/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1uq52r8/ai_cant_simulate_human_preferences_new_study/" target="_blank" onclick="event.stopPropagation();">AI can’t simulate human preferences - new study tests LLMs against thousands of real users</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            https://arxiv.org/abs/2605.18311 There’s a massive trend right now where companies are trying to replace real human feedback with LLM-driven "synthetic users." The idea sounds great on paper - why would you spend money and time recruiting real people to test products, pick design choices, or evaluate options when you can just prompt? They tested LLMs across 28 real-world studies spanning 78 choice tasks to see if their selections matched thousands of actual human participants. The result? The LLMs matched the human majority only 53% of the time. Since most tasks were a choice between two options, that's pretty much same as flipping a coin. Even worse for the "simulation" argument: adding detailed personas and chain-of-thought reasoning yielded practically no improvement. It actually made the semantic similarity to real human justifications worse because the model's "reasoning" just homogenized the outputs and failed to capture actual lived experiences. It looks like LLMs are just trained to replicate what we like about their outputs rather than making them capable of predicting human preferences. Is it time to admit that LLM simulation has hit a hard wall when it comes to replicating human choice?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1783451984.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1upou8z/ai_is_scaling_3x_faster_than_the_internet_wave/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -649,7 +682,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uq52r8/ai_cant_simulate_human_preferences_new_study/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uq718e/linkedins_behavioral_scoring_system_and_what_it/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -657,13 +690,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uq52r8/ai_cant_simulate_human_preferences_new_study/" target="_blank" onclick="event.stopPropagation();">AI can’t simulate human preferences - new study tests LLMs against thousands of real users</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1uq718e/linkedins_behavioral_scoring_system_and_what_it/" target="_blank" onclick="event.stopPropagation();">LinkedIn's behavioral scoring system and what it means for anyone building AI automations on the platform</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            https://arxiv.org/abs/2605.18311 There’s a massive trend right now where companies are trying to replace real human feedback with LLM-driven "synthetic users." The idea sounds great on paper - why would you spend money and time recruiting real people to test products, pick design choices, or evaluate options when you can just prompt? They tested LLMs across 28 real-world studies spanning 78 choice tasks to see if their selections matched thousands of actual human participants. The result? The LLMs matched the human majority only 53% of the time. Since most tasks were a choice between two options, that's pretty much same as flipping a coin. Even worse for the "simulation" argument: adding detailed personas and chain-of-thought reasoning yielded practically no improvement. It actually made the semantic similarity to real human justifications worse because the model's "reasoning" just homogenized the outputs and failed to capture actual lived experiences. It looks like LLMs are just trained to replicate what we like about their outputs rather than making them capable of predicting human preferences. Is it time to admit that LLM simulation has hit a hard wall when it comes to replicating human choice?
+                            LinkedIn removed the fixed connection request cap sometime in the last couple of years. Well, it was more in general cuts, the latest of which happened this year, and replaced it with a dynamic per-account scoring model that most people building automation on the platform haven't fully mapped yet. The system weighs several behavioral inputs. Namely these: acceptance rate, reply rate, SSI (Social Selling Index), organic posting activity, and the number of pending unaccepted invitations sitting in your queue, which it uses to produce a trust score that directly controls how many outbound actions your account is allowed to take. In practice, this means that accounts with high trust signals (SSI around 65 or above, acceptance rates above 40%) can push up to 200 connection requests per week without triggering restrictions. However, accounts with low trust signals get throttled to around 50 per week, sometimes significantly lower at 25-30. That's 4 times the capacity difference between two accounts on the same platform running the same automation tooling, based purely on how LinkedIn grades their reputation. I think this is very relevant to anyone building or in any way using LinkedIn automations and as head of GTM at Expandi I’ve had the opportunity to see these patterns I’m talking about, in practice, over dozens of dozens of accounts running outreach at various volumes. But what makes this relevant to anyone building LinkedIn automation - is that the system creates a feedback loop that's really hard to reverse once it starts working against you. Low acceptance rates from poor targeting push your trust score down, which throttles your volume, which in turn pressures you to cast a wider net with less precise targeting, which drops your acceptance rate even further. And so on and so forth. I've watched accounts downgrade from 150 requests/week capacity down to 40 in under just a month because the initial list quality was bad and every subsequent adjustment made it worse. The diagnostic is pretty straightforward, though, if you want to check where an account sits: - Pull your SSI at linkedin.com/sales/ssi - Check your acceptance rate for the last month from your sent invitations - Withdraw pending invitations older than 2 weeks - each one is dragging your score - Look at whether your sends are clustered since these burst patterns are a detection signal TL;DR version - The acceptance rate on LinkedIn is the single highest weight input in the scoring model from what I've been able to observe and will impact your ability to automate profile actions more than anything. LinkedIn accounts that maintain 40% plus acceptance consistently get capacity that makes automation viable at scale, while accounts below ~25% acceptance hit flat walls the platform sets that no tool configuration can work around.
                         </div>
                         
 
@@ -672,7 +705,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1783451984.0"></span>
+                                    <span data-timestamp="1783456092.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -750,23 +783,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uq5395/a_better_way_to_build_ai_americas_dominance/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uq2wgs/i_stopped_treating_business_setup_like_five/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/hvL15Vs0rCmM0d0TjAuPFRz940MLkrUo9wx3L3RRhnI.jpeg?width=640&crop=smart&auto=webp&s=8a63d65b2e4f1be60da8329cad5211339ee68aa7" alt="A Better Way to Build AI: America’s Dominance Depends on Getting Local Communities on Board" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uq5395/a_better_way_to_build_ai_americas_dominance/" target="_blank" onclick="event.stopPropagation();">A Better Way to Build AI: America’s Dominance Depends on Getting Local Communities on Board</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1uq2wgs/i_stopped_treating_business_setup_like_five/" target="_blank" onclick="event.stopPropagation();">I stopped treating business setup like five separate chores</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            America’s dominance depends on getting local communities on board.
+                            I kept putting off the business setup side because every step felt like another tool, account or subscription This time I tried running it through Claude and kept the whole thing in one workflow: setup, verification, bank account and basic finance admin after. Still early but it’s been way easier than jumping between random sites and notes. The nice part is not needing a bunch of separate tools just to get the business side ready. Am I the only one doing it this way? I don’t think it’s that crazy tbh
                         </div>
                         
 
@@ -775,23 +806,58 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1783452014.0"></span>
+                                    <span data-timestamp="1783447581.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uq7fsg/microsoft_moves_toward_inhouse_ai_models/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/nUGChFHuTyIH8q1nCto4DWIFZaOyBt5nsMKr7QKfdi0.jpeg?width=640&crop=smart&auto=webp&s=3395e060175225dc57ae70fb10afecddce9b5544" alt="Microsoft Moves Toward In-House AI Models" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1uq7fsg/microsoft_moves_toward_inhouse_ai_models/" target="_blank" onclick="event.stopPropagation();">Microsoft Moves Toward In-House AI Models</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Microsoft is beginning to replace AI models from OpenAI and Anthropic with its own internally developed alternatives across key products like Excel and Outlook. The shift signals a broader strategy…
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1783456972.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.foreignaffairs.com/united-states/better-way-build-ai" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://wealthari.com/microsoft-moves-toward-in-house-ai-models/" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://www.foreignaffairs.com/themes/mag/favicons/favicon-live.svg" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <img src="https://wealthari.com/wp-content/uploads/2025/02/sg.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
                                             <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
                                                 <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
                                                 <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
                                             </svg>
                                             
                                         
-                                        <span>Foreign Affairs</span>
+                                        <span>Wealthari</span>
                                     </a>
                                 </div>
                                 
@@ -824,39 +890,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1783417373.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uq2wgs/i_stopped_treating_business_setup_like_five/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uq2wgs/i_stopped_treating_business_setup_like_five/" target="_blank" onclick="event.stopPropagation();">I stopped treating business setup like five separate chores</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I kept putting off the business setup side because every step felt like another tool, account or subscription This time I tried running it through Claude and kept the whole thing in one workflow: setup, verification, bank account and basic finance admin after. Still early but it’s been way easier than jumping between random sites and notes. The nice part is not needing a bunch of separate tools just to get the business side ready. Am I the only one doing it this way? I don’t think it’s that crazy tbh
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1783447581.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -949,41 +982,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uq410n/chinese_ai_models_are_catching_up_to_their/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/lwx71pq4rubh1.png?width=140&height=78&auto=webp&s=8052a238c44ac0bff1b7dfb525e6f1d76e07f1f3" alt="Chinese AI models are catching up to their western competitors" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uq410n/chinese_ai_models_are_catching_up_to_their/" target="_blank" onclick="event.stopPropagation();">Chinese AI models are catching up to their western competitors</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            https://preview.redd.it/lwx71pq4rubh1.png?width=2400&format=png&auto=webp&s=9840ff351bc5e4419d8d3b90939d8e294c08f7b5 Was this really that much of a surprise to people. For years, China has been sitting on massive amounts of data I don't think it was that hard to train them. Also i think the chip bans and hardware constraints backfired, because they trained their models to become light weight which i think is way more important for open source.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1783449870.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1007,7 +1005,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-07T19:55:42.643483+00:00">Updated 2026-07-07T19:55:42.643483+00:00</small>
+        <small data-timestamp="2026-07-07T21:25:31.564862+00:00">Updated 2026-07-07T21:25:31.564862+00:00</small>
     </div>
 </div>
 
@@ -1271,20 +1269,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/technology/ai/articles/nvidia-faces-china-shift-domestic-191603710.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/the-prompt/2026/07/07/the-chinese-ai-blockade-is-coming/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/6a4d5fc2aa2b638248cf8cc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/technology/ai/articles/nvidia-faces-china-shift-domestic-191603710.html" target="_blank" onclick="event.stopPropagation();">Nvidia Faces China Shift as Domestic AI Chip Budgets Jump to 46%</a>
+                            <a href="https://www.forbes.com/sites/the-prompt/2026/07/07/the-chinese-ai-blockade-is-coming/" target="_blank" onclick="event.stopPropagation();">The Chinese AI Blockade Is Coming</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Chinese companies plan to raise domestic AI accelerator spending as Beijing advances its AI infrastructure strategy.
+                            Beijing has made a slew of moves in recent months to gatekeep its cutting edge and cost-efficient models.
                         </div>
                         
 
@@ -1294,9 +1292,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
                                     
                                 </div>
                                 
@@ -1304,7 +1302,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1783451763.0"></span>
+                                    <span data-timestamp="1783456001.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://scontent-sin6-3.xx.fbcdn.net/v/t39.2365-6/740903239_1399413145578607_7846806312558871713_n.webp?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=69OXSgOpH9MQ7kNvwFTEed8&_nc_oc=AdqLZH_tJboZ_FApokQz4W496dnhSy-FSqkuCJLCloM_E6ZZb5gJvJgYaYsiOC0gPNA&_nc_zt=14&_nc_ht=scontent-sin6-3.xx&_nc_gid=BYwf-O01l0vdq8YNb-Yhhg&_nc_ss=7d289&oh=00_AQCUeUeJu-rOPYdPe1YpM6yTfJvMUzoj2TXU4c7uBsYm2Q&oe=6A67A121');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/" target="_blank" onclick="event.stopPropagation();">Introducing Muse Image and Muse Video</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context. Muse...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ai.meta.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="AI at Meta" class="news-favicon">
+                                    <a href="https://ai.meta.com" target="_blank" onclick="event.stopPropagation();">AI at Meta</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1783454867.0"></span>
                                 </div>
                                 
                             </div>
@@ -1353,20 +1392,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/technology/ai/articles/meta-debuts-ai-image-generation-180000242.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/technology/ai/articles/meta-debuts-ai-image-generation-180000242.html" target="_blank" onclick="event.stopPropagation();">Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram</a>
+                            <a href="https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram" target="_blank" onclick="event.stopPropagation();">Meta’s new Muse Image model can pull other Instagram users into AI photos</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            (Bloomberg) -- Meta Platforms Inc. debuted a new image-generation artificial intelligence model, its first such release since the company spent billions to rebuild its AI lab under Chief AI Officer Alexandr Wang a year ago.Most Read from BloombergGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaChip Stocks Slide on Worries Rally Has Run Too Far: Markets WrapTwo Millennium Trading Pods Made About $3.7 Billion Last MonthMicrosoft’s Xbox to Cut 3,200 Jobs, Divest Five Studios in Majo
+                            Meta is launching a Muse video generator next.
                         </div>
                         
 
@@ -1376,9 +1415,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Verge" class="news-favicon">
+                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
                                     
                                 </div>
                                 
@@ -1386,7 +1425,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1783447200.0"></span>
+                                    <span data-timestamp="1783456318.0"></span>
                                 </div>
                                 
                             </div>
@@ -1394,14 +1433,55 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/technology/meta-expands-generative-ai-tools-with-muse-image-rollout-2026-07-07/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://static01.nyt.com/images/2026/06/04/multimedia/00met-anthropic-nyc-01-gbhl/00met-anthropic-nyc-01-gbhl-facebookJumbo.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html" target="_blank" onclick="event.stopPropagation();">Anthropic Expands in Manhattan, Part of an A.I. Boom in New York</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Anthropic, the artificial intelligence company, plans to lease a 16-story building in Hudson Square and to double its work force in New York City to 1,000 people this year.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1783456497.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://thehill.com/homenews/5957777-americans-concerns-ai-excitement/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.reuters.com/technology/meta-expands-generative-ai-tools-with-muse-image-rollout-2026-07-07/" target="_blank" onclick="event.stopPropagation();">Meta expands generative AI tools with Muse Image rollout</a>
+                            <a href="https://thehill.com/homenews/5957777-americans-concerns-ai-excitement/" target="_blank" onclick="event.stopPropagation();">Americans’ concerns about AI outweigh excitement nearly threefold: Poll</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1413,9 +1493,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Hill" class="news-favicon">
+                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
                                     
                                 </div>
                                 
@@ -1423,7 +1503,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1783447568.0"></span>
+                                    <span data-timestamp="1783458060.0"></span>
                                 </div>
                                 
                             </div>
@@ -1431,21 +1511,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/" target="_blank" onclick="event.stopPropagation();">Discord admits AI moderation bug wrongfully banned users over harmless images</a>
+                            <a href="https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next" target="_blank" onclick="event.stopPropagation();">AI has taken over the stock market. The bond market is next</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1454,9 +1530,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechCrunch" class="news-favicon">
-                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Economist" class="news-favicon">
+                                    <a href="https://www.economist.com" target="_blank" onclick="event.stopPropagation();">The Economist</a>
                                     
                                 </div>
                                 
@@ -1464,7 +1540,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1783452518.0"></span>
+                                    <span data-timestamp="1783454910.0"></span>
                                 </div>
                                 
                             </div>
@@ -1472,20 +1548,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://seekingalpha.com/news/4611984-ai-infrastructure-15t-capex-wave-and-the-risks-building-beneath-it', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/07/07/josh-brown-likes-this-sleeping-giant-ai-play-and-magnificent-7-member.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2258598400/image_2258598400.jpg?io=getty-c-w630');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108327023-1782412816890-gettyimages-2283305840-anotherday231781947_vxyezz3d.jpeg?v=1782412889&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://seekingalpha.com/news/4611984-ai-infrastructure-15t-capex-wave-and-the-risks-building-beneath-it" target="_blank" onclick="event.stopPropagation();">AI infrastructure: $1.5T CapEx wave and the risks building beneath it</a>
+                            <a href="https://www.cnbc.com/2026/07/07/josh-brown-likes-this-sleeping-giant-ai-play-and-magnificent-7-member.html" target="_blank" onclick="event.stopPropagation();">Josh Brown likes this 'sleeping giant' AI play and Magnificent 7 member</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            AI cloud infrastructure capex may near $1.5T by 2027.
+                            Apple is a "sleeping giant" thanks to its late entry into artificial intelligence. It should be a big AI beneficiary and reach $400 per share, Josh Brown said.
                         </div>
                         
 
@@ -1495,9 +1571,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Seeking Alpha" class="news-favicon">
-                                    <a href="https://seekingalpha.com" target="_blank" onclick="event.stopPropagation();">Seeking Alpha</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1505,89 +1581,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1783451574.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/brandonkochkodin/2026/07/07/why-the-safe-part-of-your-portfolio-has-more-ai-risk-than-you-think/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/6a4d553a0124abe2e93228c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/brandonkochkodin/2026/07/07/why-the-safe-part-of-your-portfolio-has-more-ai-risk-than-you-think/" target="_blank" onclick="event.stopPropagation();">How AI Spending Is Changing Investment-Grade Corporate Bonds</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Jeffrey Gundlach's DoubleLine says the AI boom is lifting companies far beyond Big Tech, potentially making some corporate bond portfolios less diversified.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1783453288.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/07/07/how-stop-chatgpt-ruining-how-you-think/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/A7XAS6W4G5HM7OXZZ4VC3GI6BM.png&w=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/2026/07/07/how-stop-chatgpt-ruining-how-you-think/" target="_blank" onclick="event.stopPropagation();">Column | How to stop ChatGPT from ruining how you think</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Studies show that using AI can lead people to “cognitive surrender.” But with the right approach, it can also elevate your thinking.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1783440000.0"></span>
+                                    <span data-timestamp="1783453996.0"></span>
                                 </div>
                                 
                             </div>
@@ -1615,7 +1609,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-07T19:56:06.795788+00:00">Updated 2026-07-07T19:56:06.795788+00:00</small>
+        <small data-timestamp="2026-07-07T21:26:01.467386+00:00">Updated 2026-07-07T21:26:01.467386+00:00</small>
     </div>
 </div>
 
@@ -1840,10 +1834,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 653</span>
+                                    <span class="post-points">▲ 658</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 426</span>
+                                    <span style="color: #9ca3af;">💬 440</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1892,7 +1886,7 @@
                                     <span class="post-points">▲ 370</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 251</span>
+                                    <span style="color: #9ca3af;">💬 253</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1938,7 +1932,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 256</span>
+                                    <span class="post-points">▲ 258</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 78</span>
@@ -1987,7 +1981,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 209</span>
+                                    <span class="post-points">▲ 210</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 61</span>
@@ -2081,10 +2075,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 172</span>
+                                    <span class="post-points">▲ 173</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 392</span>
+                                    <span style="color: #9ca3af;">💬 391</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2256,47 +2250,46 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48815117', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48823557', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/04/p-1-91520702-hed-polish-developer-roasts-y-combinator-garry-tan-for-pumping-out-ai-slop-code.jpg');"></div>
+                    <div class="post-thumbnail" ></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48815117" target="_blank" onclick="event.stopPropagation();">YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood</a>
+                            <a href="https://news.ycombinator.com/item?id=48823557" target="_blank" onclick="event.stopPropagation();">All Cars Sold in the EU Now Require a Camera Aimed at Your Face</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            After Garry Tan touted his agentic coding output, a developer found inefficiencies, code bloat, and rookie mistakes lurking in production.
-                        </div>
                         
 
                         <!-- Metadata (points, comments, time) -->
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 104</span>
+                                    <span class="post-points">▲ 119</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 96</span>
+                                    <span style="color: #9ca3af;">💬 115</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-07-07T08:39:51Z"></span>
+                                    <span class="post-age" data-timestamp="2026-07-07T20:50:46Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://allaboutcookies.org/eu-mandatory-distracted-driver-system" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://www.fastcompany.com/apple-icon.jpg?apple-icon.185~__vl.wp3p.jpg" alt="" class="post-favicon">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
                                             
                                         
-                                        <span>Fast Company</span>
+                                        <span>allaboutcookies.org</span>
                                     </a>
                                 </div>
                                 
@@ -2325,7 +2318,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-07T19:55:42.385863+00:00">Updated 2026-07-07T19:55:42.385863+00:00</small>
+        <small data-timestamp="2026-07-07T21:25:33.703123+00:00">Updated 2026-07-07T21:25:33.703123+00:00</small>
     </div>
 </div>
 

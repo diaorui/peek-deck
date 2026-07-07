@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-07T19:56:09.403853+00:00'
+updated: '2026-07-07T21:26:02.709871+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 19:56 UTC  
+**Last Updated:** July 07, 2026 at 21:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +11.2%  
-**30d:** +5.9%  
-**90d:** -18.3%  
-**1y:** -31.6%  
+**24h:** -1.5%  
+**7d:** +10.5%  
+**30d:** +5.2%  
+**90d:** -18.8%  
+**1y:** -32.0%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+16h ago
 
 ---
 
 **[Vitalik Buterin just unveiled Ethereum’s updated roadmap!](https://www.reddit.com/r/ethereum/comments/1upil1n/vitalik_buterin_just_unveiled_ethereums_updated/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about the post quantum migration for a while and built a small tool that scores exposure risk for any Ethereum address. How it works: every ECDSA signed transaction reveals the signer's public key on chain. Once you have sent one transaction from an address, that public key is on chain permanently. If a sufficiently capable quantum computer arrives, it can derive the private key from that public key using Shor's algorithm. The tool takes any EVM address or ENS name and returns: - Whether the public key is already on chain (exposed) - The value at risk - How long the exposure has existed - A 0 to 100 exposure score Read only. No wallet connection. No signup. claak.io/scan Vitalik.eth is prefilled as a demo. The scanner is free and standalone. Full disclosure: I contribute to Claak, but this post is about the scanner as an open piece of crypto tooling for the community. Google's March paper cut the qubit threshold to roughly 1,152 logical qubits. Eigen Labs' open ecdsa.fail benchmark is past Google. NSA has set 2030 as the migration deadline. Happy to walk through methodology if anyone is curious. What score did you get on your main address?
 
-14h ago
+16h ago
 
 ---
 
@@ -156,9 +156,17 @@ The Block • 1d ago
 
 ---
 
-**[Bitmine Purchases Another $74 Million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-another-74-million-134600258.html)**
+**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) continued to purchase Ethereum (CRYPTO: $ETH) over the past week as th...
+DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
+
+markets.businessinsider.com • 3h ago
+
+---
+
+**[Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-73-144145212.html)**
+
+BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
 
 Yahoo Finance • 1d ago
 
@@ -177,22 +185,6 @@ PR Newswire • 1d ago
 Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.
 
 The Block • 1d ago
-
----
-
-**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
-
-DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
-
-markets.businessinsider.com • 2h ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, July 7, 2026: Another strong opening for BTC and ETH prices](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-7-2026-another-strong-opening-for-btc-and-eth-prices-120355126.html)**
-
-Bitcoin opened at $63,997.17 today, Tuesday, July 7, 2026, up 0.7% from yesterday's opening price. Ethereum opened at $1,797.77, up 0.8% from yesterday's open.
-
-Yahoo Finance • 7h ago
 
 ---
 
@@ -216,15 +208,23 @@ The Defiant • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 8h ago
 
 ---
 
-**[Top Analyst Reveals What’s Next For Bitcoin, Ethereum and XRP Prices](https://www.tradingview.com/news/coinpedia:86db40472094b:0-top-analyst-reveals-what-s-next-for-bitcoin-ethereum-and-xrp-prices/)**
+**[Bitcoin, Ethereum, XRP Flat, Dogecoin Falls Amid Strategic Bitcoin Reserve Push: Analyst Says 'a Lot of'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60295857/bitcoin-ethereum-and-xrp-flat-dogecoin-slips-as-analyst-says-liquidity-could-shift-to-altcoins-over-bitcoin)**
 
-Gareth Soloway, chief market strategist at VerifiedInvesting.com, says the crypto market has entered a meaningful short-term recovery phase, but warns that the bigger bear market trend has not yet ended and further downside remains likely later in the year.Bitcoin: $73,000 to $74,000 in Sight, But…
+Leading cryptocurrencies moved sideways on Monday, July 6, as high-profile Bitcoin sell-offs were offset by growing optimism for a Strategic Bitcoin Reserve.
 
-TradingView • 2d ago
+Benzinga • 18h ago
+
+---
+
+**[Can Ethereum’s $150B stablecoin liquidity help ETH bulls reclaim control?](https://ambcrypto.com/can-ethereums-150b-stablecoin-liquidity-help-eth-bulls-reclaim-control/)**
+
+Is the next breakout in Ethereum finally approaching?
+
+AMBCrypto • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 2K • 👍 234 • 💬 92 • ⏱️ 19:01 • 2h ago
+👁️ 2K • 👍 234 • 💬 92 • ⏱️ 19:01 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum and Bitcoin are showing the market some interesting movements in the la
 
 📺 Money Rules - Investing Tips 
 
-👁️ 6K • 👍 787 • 💬 331 • ⏱️ 13:04 • 8h ago
+👁️ 6K • 👍 787 • 💬 331 • ⏱️ 13:04 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 96 • 👍 10 • 💬 12 • ⏱️ 5:32 • 5h ago
+👁️ 96 • 👍 10 • 💬 12 • ⏱️ 5:32 • 6h ago
 
 ---
 

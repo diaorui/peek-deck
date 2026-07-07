@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-07T19:56:09.397769+00:00'
+updated: '2026-07-07T21:26:02.703871+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 19:56 UTC  
+**Last Updated:** July 07, 2026 at 21:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,874.35
+### $63,467.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +6.3%  
-**30d:** +1.2%  
-**90d:** -11.1%  
-**1y:** -41.4%  
+**24h:** -1.2%  
+**7d:** +5.7%  
+**30d:** +0.6%  
+**90d:** -11.6%  
+**1y:** -41.8%  
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 In March, a couple in their sixties get tied up in their own home in Le Chesnay (Yvelines) by three men posing as police officers. At knifepoint, the husband is forced to transfer €900,000 in Bitcoin. In February, the head of Binance France narrowly avoids an armed break-in at his home in Paris, the three attackers flee empty-handed after failing to find him there. These aren't isolated incidents. France's Interior Minister Laurent Nuñez announced on June 30 that the country has recorded 77 kidnappings, extortions, and attempted attacks tied to the crypto sector since January, up from 45 for all of 2025. For scale: according to data compiled by Jameson Lopp, France alone recorded 19 "wrench attacks" in 2025, more than double the total in the US, and over a quarter of all documented cases worldwide. The numbers from the minister: 200 people arrested over the past year, "either after the fact or preemptively" 724 holders and industry figures registered on the immediate identification platform (a direct emergency hotline), up 11% year-over-year One case cited: in the Somme, on June 26, perpetrators were arrested just 8 hours after the incident, after the victim used this hotline The new plan, described as "more ambitious," rests on three pillars: Stronger intelligence sharing to identify criminal networks, some of whose organizers operate from abroad Expanded partnership with ADAN (France's digital asset industry association), including a new expert network bringing together industry and state agencies Stronger operational and international coordination with the countries where organizers are based On that last point, Nuñez gave a concrete example: after the arrest in Morocco, in June 2025, of a French-Moroccan suspect accused of ordering a string of kidnappings, including that of Ledger co-founder David Balland, kidnapped in January 2025 and freed in a raid by France's GIGN tactical unit, the wave of attacks stopped abruptly, overnight. Other notable 2026 cases: in April, a family of five was extorted for €700,000. One technical detail explains in part why Bitcoin holders specifically get targeted: unlike a bank transfer, a Bitcoin transaction signed under duress is irreversible: impossible to block or reverse once it's broadcast to the network. That completely changes the risk/reward calculation for attackers compared to a traditional robbery. And you, what security measures do you take as Bitcoin Hodlers?
 
-23h ago
+1d ago
 
 ---
 
@@ -155,9 +155,11 @@ I was reading a lot of AI data centres that were planned to be built are now bei
 
 ## Google News: "bitcoin"
 
-**[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control)**
+**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
 
-Bloomberg.com • 1d ago
+Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
+
+CNBC • 1d ago
 
 ---
 
@@ -177,29 +179,29 @@ Scott Melker discusses President Trump's latest comments around whether the newl
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Crypto analyst says MicroStrategy's latest Bitcoin sale comes at a bad time for bulls](https://au.finance.yahoo.com/news/crypto-analyst-says-microstrategys-latest-190600594.html)**
+**[Bitcoin pulls back from $64,500 as weak ETF flows, falling open interest cloud outlook](https://www.coindesk.com/markets/2026/07/07/bitcoin-stalls-as-open-interest-decline-raises-questions-about-rally-s-staying-power)**
 
-The timing couldn't have been less convenient. Just as a key technical indicator flashed a sell signal for Bitcoin, Michael Saylor confirmed Strategy had offloaded 3,588 BTC for approximately $216 million, a combination analyst Ali Martinez described as "not exactly what bulls want to see." ...
+BTC retreated from a two-week high of $64,500 as falling open interest and weak spot demand cast doubt on the sustainability of July's 8.4% market recovery.
 
-Yahoo Finance Australia • 50m ago
+CoinDesk • 10h ago
+
+---
+
+**[How Strategy Can Sell Billions in Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-sell-billions-bitcoin-200444529.html)**
+
+Strategy sold $216M in Bitcoin to fund dividends but still reports full $1.25B reserve capacity. The build-versus-replenish loophole explained.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
 
 WSJ • 1d ago
-
----
-
-**[Live markets: Bitcoin and ether ETFs drew inflows Monday](https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday)**
-
-Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows.
-
-CoinDesk • 6h ago
 
 ---
 
@@ -221,13 +223,15 @@ Barron's • 1d ago
 
 Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.
 
-The Block • 3h ago
+The Block • 5h ago
 
 ---
 
-**[The Stack](https://www.grayscale.com/the-stack/shifts-by-strategy-reduce-bitcoin-tail-risks)**
+**[Forget Tron Fees: Instant Private USDT Swaps On Bitcoin Lightning Are Here](https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements)**
 
-Grayscale • 23h ago
+No more buying TRX for fees or waiting on bridges. Tether-backed UTEXO brings USDT home to Bitcoin with privacy-first UX that could reshape stablecoin flows.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -279,7 +283,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
-⬆️ 5 • 💬 0 • 23h ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
+⬆️ 5 • 💬 0 • 1d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
 
 ---
 
@@ -287,7 +291,7 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 Stacked branches. Contribute to alexghr/graphene development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/alexghr/graphene)
+⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/alexghr/graphene)
 
 ---
 
@@ -301,7 +305,7 @@ Bitcoin just had its best week since March—but that's not the most important s
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 264 • 💬 51 • ⏱️ 14:54 • 3h ago
+👁️ 3K • 👍 264 • 💬 51 • ⏱️ 14:54 • 5h ago
 
 ---
 
@@ -311,7 +315,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 893 • 💬 105 • ⏱️ 8:39 • 19h ago
+👁️ 18K • 👍 893 • 💬 105 • ⏱️ 8:39 • 20h ago
 
 ---
 
@@ -321,7 +325,7 @@ Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 389 • 💬 138 • ⏱️ 59:57 • 3h ago
+👁️ 4K • 👍 389 • 💬 138 • ⏱️ 59:57 • 5h ago
 
 ---
 
@@ -331,7 +335,7 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 703 • 💬 47 • ⏱️ 46:39 • 5h ago
+👁️ 11K • 👍 703 • 💬 47 • ⏱️ 46:39 • 6h ago
 
 ---
 
@@ -341,7 +345,7 @@ Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and th
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 3K • 💬 301 • ⏱️ 20:18 • 22h ago
+👁️ 39K • 👍 3K • 💬 301 • ⏱️ 20:18 • 1d ago
 
 ---
 
@@ -351,7 +355,7 @@ While taking questions from reporters on Monday, President Donald Trump spoke ab
 
 📺 Forbes Breaking News
 
-👁️ 5K • 👍 53 • 💬 31 • ⏱️ 10:11 • 22h ago
+👁️ 5K • 👍 53 • 💬 31 • ⏱️ 10:11 • 1d ago
 
 ---
 
@@ -381,7 +385,7 @@ Dana Love, PhD goes forensic on Strategy's July 6 8-K: an $8.32 billion Q2 loss 
 
 📺 Dana Love, PhD
 
-👁️ 21K • 👍 1K • 💬 505 • ⏱️ 16:32 • 21h ago
+👁️ 21K • 👍 1K • 💬 505 • ⏱️ 16:32 • 22h ago
 
 ---
 
