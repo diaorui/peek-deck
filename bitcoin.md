@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-07T22:37:13.069999+00:00'
+updated: '2026-07-07T23:57:47.219981+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 22:37 UTC  
+**Last Updated:** July 07, 2026 at 23:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,467.97
+### $63,646.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +6.0%  
-**30d:** +0.8%  
-**90d:** -11.4%  
-**1y:** -41.6%  
+**24h:** -1.3%  
+**7d:** +5.5%  
+**30d:** +0.4%  
+**90d:** -11.8%  
+**1y:** -41.9%  
 
 ---
 
@@ -155,11 +155,11 @@ I was reading a lot of AI data centres that were planned to be built are now bei
 
 ## Google News: "bitcoin"
 
-**[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://finance.yahoo.com/markets/crypto/articles/trump-bitcoin-faces-hurdles-departments-183009501.html)**
+**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
 
-(Bloomberg) -- The Trump administration’s plan to create a Strategic Bitcoin Reserve has been complicated by two government departments vying to run it, alongside questions about which has the legal authority to do so.Most Read from BloombergGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaMicrosoft’s Xbox to Cut 3,200 Jobs, Divest Five Studios in Major OverhaulOil, Gas Tankers Cross Hormuz Via Oman-Side Route After U-TurnsThe Tanker Tycoon Making Millions on Hormuz Shuttle RunsSa
+Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
 
-Yahoo Finance • 1d ago
+CNBC • 1d ago
 
 ---
 
@@ -169,11 +169,23 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
+**[Could Trump Accounts someday include bitcoin, crypto?](https://finance.yahoo.com/video/could-trump-accounts-someday-bitcoin-193000212.html)**
 
-Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
+Scott Melker discusses President Trump's latest comments around whether the newly launched Trump Accounts could include crypto in the future.
 
-CNBC • 1d ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Bitcoin price news: BTC pulls back after run above $64,000](https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale)**
+
+The token touched $64,400 overnight before easing back, still up about 6% on the week. A fresh missile strike on a Qatari gas ship in the Strait of Hormuz lifted oil and tested the late-June peace deal as Asian tech sold off again.
+
+CoinDesk • 19h ago
 
 ---
 
@@ -183,51 +195,41 @@ WSJ • 1d ago
 
 ---
 
-**[Douglas County Sheriff's Office trains multiple agencies on how to track bitcoin fraud in Nebraska](https://www.ketv.com/article/douglas-county-sheriffs-office-train-agencies-bitcoin-fraud-nebraska/71856429)**
+**[Michael Saylor's Strategy may have saved bitcoin from a bigger sell-off: 'A balancing force in the market'](https://finance.yahoo.com/markets/crypto/article/michael-saylors-strategy-may-have-saved-bitcoin-from-a-bigger-sell-off-a-balancing-force-in-the-market-154525468.html)**
 
-Douglas County Sheriff's Office partners with multiple agencies on how to prevent ATM bitcoin fraud in Nebraska
+Bitcoin (BTC-USD) has had a dismal year, but its underperformance has been less severe than in previous crypto winters, Bernstein analysts pointed out.
 
-KETV • 1h ago
-
----
-
-**[Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America](https://finance.yahoo.com/markets/crypto/articles/tether-invests-20-million-mercado-213109187.html)**
-
-Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[New Hampshire Bitcoin Bond Nears Final Vote, But There is a Catch](https://finance.yahoo.com/markets/crypto/articles/hampshire-bitcoin-bond-nears-final-212853772.html)**
+**[Current price of Bitcoin for July 6, 2026](https://fortune.com/article/price-of-bitcoin-07-06-2026/)**
 
-New Hampshire's Executive Council votes on a $100 million Bitcoin bond as research flags a likely liquidation trigger.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Live markets: Bitcoin and ether ETFs drew inflows Monday](https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday)**
-
-Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows.
-
-CoinDesk • 9h ago
+Fortune • 1d ago
 
 ---
 
-**[Two traders sue Polymarket over disputed resolution of Strategy bitcoin sale market](https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale)**
+**[Tether puts $20 million behind Mercado Bitcoin amid Latin America's tokenization boom](https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom)**
 
-Plaintiffs claim that Polymarket unjustly resolved the market to a "No" despite Strategy's filing that states the company sold BTC in May.
+Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.
 
-The Block • 14h ago
+The Block • 8h ago
 
 ---
 
-**[Forget Tron Fees: Instant Private USDT Swaps On Bitcoin Lightning Are Here](https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements)**
+**[Strategy is losing a lot of money on bitcoin. Here’s why it’s selling anyway.](https://www.marketwatch.com/story/strategy-is-losing-a-lot-of-money-on-bitcoin-heres-why-its-selling-anyway-02822bc5)**
 
-No more buying TRX for fees or waiting on bridges. Tether-backed UTEXO brings USDT home to Bitcoin with privacy-first UX that could reshape stablecoin flows.
+MarketWatch • 1d ago
 
-Bitcoin Magazine • 1d ago
+---
+
+**[Bitcoin Is Down. Miners Are Up. That’s the Signal.](https://investorplace.com/hypergrowthinvesting/2026/07/bitcoin-is-down-miners-are-up-thats-the-signal/)**
+
+Bitcoin is down, but miners are up. The reason may be AI data-center demand, power access, and long-term hosting contracts.
+
+InvestorPlace • 18h ago
 
 ---
 
@@ -241,7 +243,7 @@ ZeroNet is a decentralized network that enables dynamic sites, such as blogs and
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 14 • 💬 2 • 2d ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 14 • 💬 2 • 3d ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -287,7 +289,7 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 Stacked branches. Contribute to alexghr/graphene development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 10h ago • [GitHub](https://github.com/alexghr/graphene)
+⬆️ 1 • 💬 0 • 11h ago • [GitHub](https://github.com/alexghr/graphene)
 
 ---
 
@@ -327,7 +329,7 @@ Been curious about mining Bitcoin but think you need an expensive rig or expert 
 
 📺 Red Fox Crypto
 
-👁️ 211 • 👍 24 • 💬 4 • ⏱️ 12:17 • 8h ago
+👁️ 211 • 👍 24 • 💬 4 • ⏱️ 12:17 • 9h ago
 
 ---
 
@@ -335,7 +337,7 @@ Been curious about mining Bitcoin but think you need an expensive rig or expert 
 
 📺 Saifivlogs2.0
 
-👁️ 451 • 👍 10 • ⏱️ 0:50 • 11h ago
+👁️ 451 • 👍 10 • ⏱️ 0:50 • 12h ago
 
 ---
 
@@ -345,7 +347,7 @@ Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts ar
 
 📺 Crypto Zombie
 
-👁️ 5K • 👍 729 • 💬 163 • ⏱️ 21:48 • 5h ago
+👁️ 5K • 👍 729 • 💬 163 • ⏱️ 21:48 • 6h ago
 
 ---
 
@@ -375,7 +377,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 4K • 👍 749 • 💬 182 • ⏱️ 11:30 • 9h ago
+👁️ 4K • 👍 749 • 💬 182 • ⏱️ 11:30 • 11h ago
 
 ---
 

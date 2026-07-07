@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-07T22:37:13.079296+00:00'
+updated: '2026-07-07T23:57:47.229357+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 07, 2026 at 22:37 UTC  
+**Last Updated:** July 07, 2026 at 23:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,7 +118,7 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Robotics tech is changing fast, so for many it makes sense to rent a robot.
 
-BBC • 22h ago
+BBC • 1d ago
 
 ---
 
@@ -134,7 +134,7 @@ The Guardian • 1d ago
 
 Top robotics researchers and founders explain how robot autonomy is evolving.
 
-Ars Technica • 11h ago
+Ars Technica • 12h ago
 
 ---
 
@@ -142,7 +142,15 @@ Ars Technica • 11h ago
 
 These VCs say humanoids are overhyped. They're backing robots with wheels, wings, and specialized designs instead.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
+
+---
+
+**[Faraday Future Advances Middle East EAI Robotics Strategy Through Strategic Cooperation with Local UAE and GCC Ecosystem Partners](https://au.finance.yahoo.com/news/faraday-future-advances-middle-east-210000178.html)**
+
+DUBAI, United Arab Emirates, July 07, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today announced continued progress in its Middle East EAI robotics commercialization strategy through strategic cooperation frameworks and regional ecosystem collaboration across the UAE, GCC, and potentially the broader MENA region.
+
+Yahoo Finance Australia • 2h ago
 
 ---
 
@@ -150,35 +158,19 @@ Business Insider • 13h ago
 
 New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
 
-NVIDIA Blog • 16h ago
+NVIDIA Blog • 17h ago
 
 ---
 
 **[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
 
-Honolulu Civil Beat • 12h ago
-
----
-
-**[Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity?](https://finance.yahoo.com/healthcare/articles/serve-robotics-healthcare-push-unlock-150600410.html)**
-
-SERV is expanding into healthcare automation through Diligent Robotics, aiming to grow recurring AI software revenues beyond food delivery.
-
-Yahoo Finance • 7h ago
+Honolulu Civil Beat • 13h ago
 
 ---
 
 **[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
 
-Tech Xplore • 11h ago
-
----
-
-**[Faraday Future deepens Middle East robotics push with UAE partners](https://www.stocktitan.net/news/FFAI/faraday-future-advances-middle-east-eai-robotics-strategy-through-heuyua3h9126.html)**
-
-Cooperation with CGCC, Action To Action and Ibtikar Robotics may cover procurement, distribution, rentals, curriculum and technical support.
-
-Stock Titan • 1h ago
+Tech Xplore • 12h ago
 
 ---
 
@@ -187,6 +179,14 @@ Stock Titan • 1h ago
 Hephaestus Robotics Team, a youth robotics team consisting of 21 students from eight high schools across Santa Cruz County, won first place in their class at the nine day MATE ROV World Championship in Canada.
 
 The Mercury News • 1d ago
+
+---
+
+**[This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)**
+
+While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
+
+TechCrunch • 1d ago
 
 ---
 

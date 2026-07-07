@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-07T22:37:13.076076+00:00'
+updated: '2026-07-07T23:57:47.226113+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 22:37 UTC  
+**Last Updated:** July 07, 2026 at 23:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,777.30
+### $1,776.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** +10.4%  
-**30d:** +5.1%  
-**90d:** -18.9%  
-**1y:** -32.1%  
+**24h:** -1.8%  
+**7d:** +10.1%  
+**30d:** +4.8%  
+**90d:** -19.1%  
+**1y:** -32.3%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[Vitalik Buterin just unveiled Ethereum’s updated roadmap!](https://www.reddit.com/r/ethereum/comments/1upil1n/vitalik_buterin_just_unveiled_ethereums_updated/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about the post quantum migration for a while and built a small tool that scores exposure risk for any Ethereum address. How it works: every ECDSA signed transaction reveals the signer's public key on chain. Once you have sent one transaction from an address, that public key is on chain permanently. If a sufficiently capable quantum computer arrives, it can derive the private key from that public key using Shor's algorithm. The tool takes any EVM address or ENS name and returns: - Whether the public key is already on chain (exposed) - The value at risk - How long the exposure has existed - A 0 to 100 exposure score Read only. No wallet connection. No signup. claak.io/scan Vitalik.eth is prefilled as a demo. The scanner is free and standalone. Full disclosure: I contribute to Claak, but this post is about the scanner as an open piece of crypto tooling for the community. Google's March paper cut the qubit threshold to roughly 1,152 logical qubits. Eigen Labs' open ecdsa.fail benchmark is past Google. NSA has set 2030 as the migration deadline. Happy to walk through methodology if anyone is curious. What score did you get on your main address?
 
-17h ago
+18h ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[RBLK tokens showing up under my wallet address on etherscan but they are not displaying on my cold wallet.](https://www.reddit.com/r/ethereum/comments/1uofsav/rblk_tokens_showing_up_under_my_wallet_address_on/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -156,9 +156,9 @@ The Block • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-73-144145212.html)**
+**[Bitmine Purchases Another $74 Million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-another-74-million-134600258.html)**
 
-BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
+Bitmine Immersion Technologies (NYSE: $BMNR) continued to purchase Ethereum (CRYPTO: $ETH) over the past week as th...
 
 Yahoo Finance • 1d ago
 
@@ -200,7 +200,7 @@ The Defiant • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -208,7 +208,15 @@ Fortune • 9h ago
 
 DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 6h ago
+
+---
+
+**[Vitalik Buterin confirms AI identified his anonymous Ethereum proposal contribution](https://www.tradingview.com/news/cointelegraph:e2852e944094b:0-vitalik-buterin-confirms-ai-identified-his-anonymous-ethereum-proposal-contribution/)**
+
+Vitalik Buterin has confirmed that AI-assisted analysis used by Co-Invest CEO Franklyn Wang correctly identified his anonymous contribution to an Ethereum proposal.The identification comes two weeks after Buterin publicly challenged whether current AI tools could pierce online anonymity.Wang's winn…
+
+TradingView • 13h ago
 
 ---
 
@@ -216,15 +224,7 @@ markets.businessinsider.com • 4h ago
 
 Leading cryptocurrencies moved sideways on Monday, July 6, as high-profile Bitcoin sell-offs were offset by growing optimism for a Strategic Bitcoin Reserve.
 
-Benzinga • 20h ago
-
----
-
-**[Can Ethereum’s $150B stablecoin liquidity help ETH bulls reclaim control?](https://ambcrypto.com/can-ethereums-150b-stablecoin-liquidity-help-eth-bulls-reclaim-control/)**
-
-Is the next breakout in Ethereum finally approaching?
-
-AMBCrypto • 16h ago
+Benzinga • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 325 • 💬 114 • ⏱️ 19:01 • 5h ago
+👁️ 3K • 👍 325 • 💬 114 • ⏱️ 19:01 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum and Bitcoin are showing the market some interesting movements in the la
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 837 • 💬 341 • ⏱️ 13:04 • 11h ago
+👁️ 7K • 👍 837 • 💬 341 • ⏱️ 13:04 • 13h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN WARNING FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 1K • 👍 136 • 💬 20 • ⏱️ 21:45 • 1h ago
+👁️ 1K • 👍 136 • 💬 20 • ⏱️ 21:45 • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Micha�
 
 📺 New Era Finance Podcast
 
-👁️ 4K • 👍 211 • 💬 28 • ⏱️ 34:28 • 8h ago
+👁️ 4K • 👍 211 • 💬 28 • ⏱️ 34:28 • 9h ago
 
 ---
 
@@ -328,7 +328,7 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 2K • 👍 487 • 💬 87 • ⏱️ 13:04 • 1h ago
+👁️ 2K • 👍 487 • 💬 87 • ⏱️ 13:04 • 2h ago
 
 ---
 
