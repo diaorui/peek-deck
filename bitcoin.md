@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-07T17:33:18.627370+00:00'
+updated: '2026-07-07T19:56:09.397769+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 17:33 UTC  
+**Last Updated:** July 07, 2026 at 19:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,887.65
+### $63,874.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +6.8%  
-**30d:** +1.6%  
-**90d:** -10.7%  
-**1y:** -41.2%  
+**24h:** +0.0%  
+**7d:** +6.3%  
+**30d:** +1.2%  
+**90d:** -11.1%  
+**1y:** -41.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1285.22B
+**Market Cap:** $1279.26B
 Rank #1
 
-**Circulating Supply:** 20,052,971 BTC
+**Circulating Supply:** 20,053,337 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-49.4%
 
 **All-Time Low:** $67.81
-+94402.3%
++93979.0%
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 In March, a couple in their sixties get tied up in their own home in Le Chesnay (Yvelines) by three men posing as police officers. At knifepoint, the husband is forced to transfer €900,000 in Bitcoin. In February, the head of Binance France narrowly avoids an armed break-in at his home in Paris, the three attackers flee empty-handed after failing to find him there. These aren't isolated incidents. France's Interior Minister Laurent Nuñez announced on June 30 that the country has recorded 77 kidnappings, extortions, and attempted attacks tied to the crypto sector since January, up from 45 for all of 2025. For scale: according to data compiled by Jameson Lopp, France alone recorded 19 "wrench attacks" in 2025, more than double the total in the US, and over a quarter of all documented cases worldwide. The numbers from the minister: 200 people arrested over the past year, "either after the fact or preemptively" 724 holders and industry figures registered on the immediate identification platform (a direct emergency hotline), up 11% year-over-year One case cited: in the Somme, on June 26, perpetrators were arrested just 8 hours after the incident, after the victim used this hotline The new plan, described as "more ambitious," rests on three pillars: Stronger intelligence sharing to identify criminal networks, some of whose organizers operate from abroad Expanded partnership with ADAN (France's digital asset industry association), including a new expert network bringing together industry and state agencies Stronger operational and international coordination with the countries where organizers are based On that last point, Nuñez gave a concrete example: after the arrest in Morocco, in June 2025, of a French-Moroccan suspect accused of ordering a string of kidnappings, including that of Ledger co-founder David Balland, kidnapped in January 2025 and freed in a raid by France's GIGN tactical unit, the wave of attacks stopped abruptly, overnight. Other notable 2026 cases: in April, a family of five was extorted for €700,000. One technical detail explains in part why Bitcoin holders specifically get targeted: unlike a bank transfer, a Bitcoin transaction signed under duress is irreversible: impossible to block or reverse once it's broadcast to the network. That completely changes the risk/reward calculation for attackers compared to a traditional robbery. And you, what security measures do you take as Bitcoin Hodlers?
 
-21h ago
+23h ago
 
 ---
 
@@ -157,7 +157,7 @@ I was reading a lot of AI data centres that were planned to be built are now bei
 
 **[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -165,21 +165,41 @@ Bloomberg.com • 23h ago
 
 (Bloomberg) -- The Trump administration’s plan to create a Strategic Bitcoin Reserve has been complicated by two government departments vying to run it, alongside questions about which has the legal authority to do so.Most Read from BloombergGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaMicrosoft’s Xbox to Cut 3,200 Jobs, Divest Five Studios in Major OverhaulOil, Gas Tankers Cross Hormuz Via Oman-Side Route After U-TurnsThe Tanker Tycoon Making Millions on Hormuz Shuttle RunsSa
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
+**[Could Trump Accounts someday include bitcoin, crypto?](https://finance.yahoo.com/video/could-trump-accounts-someday-bitcoin-193000212.html)**
 
-Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
+Scott Melker discusses President Trump's latest comments around whether the newly launched Trump Accounts could include crypto in the future.
 
-CNBC • 1d ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 26m ago
 
 ---
 
-**[🔎 Under the Radar: American Bitcoin Stock Slides After Reverse Stock Split](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-under-the-radar-american-bitcoin-stock-slides-after-reverse-stock-split-ZnKjsStkzpGy0kQDxx4g)**
+**[Crypto analyst says MicroStrategy's latest Bitcoin sale comes at a bad time for bulls](https://au.finance.yahoo.com/news/crypto-analyst-says-microstrategys-latest-190600594.html)**
 
-WSJ • 16m ago
+The timing couldn't have been less convenient. Just as a key technical indicator flashed a sell signal for Bitcoin, Michael Saylor confirmed Strategy had offloaded 3,588 BTC for approximately $216 million, a combination analyst Ali Martinez described as "not exactly what bulls want to see." ...
+
+Yahoo Finance Australia • 50m ago
+
+---
+
+**[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
+
+WSJ • 1d ago
+
+---
+
+**[Live markets: Bitcoin and ether ETFs drew inflows Monday](https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday)**
+
+Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -191,45 +211,23 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin pulls back from $64,500 as weak ETF flows, falling open interest cloud outlook](https://www.coindesk.com/markets/2026/07/07/bitcoin-stalls-as-open-interest-decline-raises-questions-about-rally-s-staying-power)**
+**[Bitcoin Miners Want To Be AI Landlords. Four Companies Making It Work.](https://www.barrons.com/articles/bitcoin-miners-crypto-ai-power-galaxy-b329c547)**
 
-BTC retreated from a two-week high of $64,500 as falling open interest and weak spot demand cast doubt on the sustainability of July's 8.4% market recovery.
-
-CoinDesk • 6h ago
+Barron's • 1d ago
 
 ---
 
-**[Bitcoin's best week since March as massive spot ETF inflows return](https://finance.yahoo.com/video/bitcoins-best-week-since-march-as-massive-spot-etf-inflows-return-161558871.html)**
+**[Tether puts $20 million behind Mercado Bitcoin amid Latin America's tokenization boom](https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom)**
 
-Scott Melker discusses bitcoin's best week since March, a bitcoin miner signing a $19 billion deal, the USDC running 70% of stablecoin volume, and other big crypto headlines. 
+Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1h ago
+The Block • 3h ago
 
 ---
 
-**[Bitcoin Mining Stocks Sink 20% – How Did BTC Price Avoid the Damage?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-stocks-sink-20-165452372.html)**
+**[The Stack](https://www.grayscale.com/the-stack/shifts-by-strategy-reduce-bitcoin-tail-risks)**
 
-Bitcoin mining stocks fell 20% as AI momentum faded. 10x Research says miners now trade like AI infrastructure plays.
-
-Yahoo Finance • 38m ago
-
----
-
-**[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
-
-WSJ • 1d ago
-
----
-
-**[Michael Saylor’s New MSTR Playbook Is Already Costing Investors: 17% of Bitcoin Sale Capacity Gone](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-mstr-playbook-already-135447761.html)**
-
-The Bitcoin (CRYPTO:BTC) market has spent years rewarding companies that accumulated as much cryptocurrency as possible. That strategy worked brilliantly while Bitcoin prices climbed and capital remained easy to access. But higher financing costs, growing leverage, and the emergence of preferred stock obligations are forcing some companies to rethink the rules. For Strategy (NASDAQ:MSTR), that ... Michael Saylor’s New MSTR Playbook Is Already Costing Investors: 17% of Bitcoin Sale Capacity Gone
-
-Yahoo Finance • 1d ago
+Grayscale • 23h ago
 
 ---
 
@@ -251,7 +249,7 @@ Losing valuable information is a bad thing when you’re an archivist. Have we r
 
 Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign that it is abandoning co-founder Michael Saylor’s “Never sell your Bitcoin” mantra as a slumping digital asset market …
 
-⬆️ 5 • 💬 2 • 23h ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
+⬆️ 5 • 💬 2 • 1d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
 
 ---
 
@@ -281,7 +279,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
-⬆️ 5 • 💬 0 • 21h ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
+⬆️ 5 • 💬 0 • 23h ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
 
 ---
 
@@ -289,7 +287,7 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 Stacked branches. Contribute to alexghr/graphene development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/alexghr/graphene)
+⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/alexghr/graphene)
 
 ---
 
@@ -297,13 +295,43 @@ Stacked branches. Contribute to alexghr/graphene development by creating an acco
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin passed the Saylor test](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
+
+Bitcoin just had its best week since March—but that's not the most important story. In this episode of The Daily Wolf, Scott Melker ...
+
+📺 Yahoo Finance
+
+👁️ 3K • 👍 264 • 💬 51 • ⏱️ 14:54 • 3h ago
+
+---
+
 **[Bitcoin Jumps on Strategic Reserve Update](https://www.youtube.com/watch?v=yAnQOceHcPQ)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 884 • 💬 104 • ⏱️ 8:39 • 16h ago
+👁️ 18K • 👍 893 • 💬 105 • ⏱️ 8:39 • 19h ago
+
+---
+
+**[Lyn Alden: Why This Is the Worst Bitcoin Sentiment She&#39;s Ever Seen](https://www.youtube.com/watch?v=lIg0G0z2KkY)**
+
+Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories to give her honest read on Bitcoin's price, where ...
+
+📺 Natalie Brunell
+
+👁️ 4K • 👍 389 • 💬 138 • ⏱️ 59:57 • 3h ago
+
+---
+
+**[Bitcoin at a Crossroad as Global Shock Hits](https://www.youtube.com/watch?v=CRQAajl-EKU)**
+
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 11K • 👍 703 • 💬 47 • ⏱️ 46:39 • 5h ago
 
 ---
 
@@ -313,47 +341,7 @@ Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and th
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 3K • 💬 283 • ⏱️ 20:18 • 20h ago
-
----
-
-**[Did The MicroStrategy Death Spiral Just Turn Into a Bitcoin Rally?](https://www.youtube.com/watch?v=1vW26afu_eM)**
-
-Michael Saylor faced relentless criticism after MicroStrategy stumbled, but the narrative shifted fast. This breakdown explores why ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 148 • ⏱️ 15:58 • 1d ago
-
----
-
-**[Tom Lee - &quot;Something&#39;s VERY Wrong With Bitcoin &amp; Nobody&#39;s Talking About it](https://www.youtube.com/watch?v=8hzVbQvUsmw)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 199 • 💬 24 • ⏱️ 17:26 • 22h ago
-
----
-
-**[Crypto Holders: You’re Walking Into A TRAP!](https://www.youtube.com/watch?v=trkhlHITXUQ)**
-
-Crypto Hodlers - IT'S A TRAP! | Bitcoin, Ethereum, & Solana | Don't Be Fooled ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 118 • ⏱️ 11:41 • 1d ago
-
----
-
-**[Michael Saylor Sells $216 Million More Bitcoin🔥Crypto Market Update](https://www.youtube.com/watch?v=lpmuhDga6DI)**
-
-Under a new "BTC Monetization Program," the firm executed its largest-ever Bitcoin sale by offloading 3588 BTC for $216 million ...
-
-📺 Paul Barron Network
-
-👁️ 30K • 👍 1K • 💬 137 • ⏱️ 14:49 • 21h ago
+👁️ 39K • 👍 3K • 💬 301 • ⏱️ 20:18 • 22h ago
 
 ---
 
@@ -363,7 +351,27 @@ While taking questions from reporters on Monday, President Donald Trump spoke ab
 
 📺 Forbes Breaking News
 
-👁️ 5K • 👍 51 • 💬 30 • ⏱️ 10:11 • 20h ago
+👁️ 5K • 👍 53 • 💬 31 • ⏱️ 10:11 • 22h ago
+
+---
+
+**[Did The MicroStrategy Death Spiral Just Turn Into a Bitcoin Rally?](https://www.youtube.com/watch?v=1vW26afu_eM)**
+
+Michael Saylor faced relentless criticism after MicroStrategy stumbled, but the narrative shifted fast. This breakdown explores why ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 161 • ⏱️ 15:58 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Something&#39;s VERY Wrong With Bitcoin &amp; Nobody&#39;s Talking About it](https://www.youtube.com/watch?v=8hzVbQvUsmw)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 209 • 💬 34 • ⏱️ 17:26 • 1d ago
 
 ---
 
@@ -373,27 +381,17 @@ Dana Love, PhD goes forensic on Strategy's July 6 8-K: an $8.32 billion Q2 loss 
 
 📺 Dana Love, PhD
 
-👁️ 20K • 👍 1K • 💬 507 • ⏱️ 16:32 • 18h ago
+👁️ 21K • 👍 1K • 💬 505 • ⏱️ 16:32 • 21h ago
 
 ---
 
-**[Trump Just Secretly Triggered The Next Crypto Bull Run (Michael Saylor sells)](https://www.youtube.com/watch?v=MWzFDXx3cr4)**
+**[Crypto Holders: You’re Walking Into A TRAP!](https://www.youtube.com/watch?v=trkhlHITXUQ)**
 
-Trade $10 get $10 - http://kalshi.com/r/altcoin Follow Altcoin Daily on X: https://x.com/AltcoinDaily Today we discuss major news ...
+Crypto Hodlers - IT'S A TRAP! | Bitcoin, Ethereum, & Solana | Don't Be Fooled ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 153 • ⏱️ 11:12 • 18h ago
-
----
-
-**[Bitcoin Flashing Rare Buy Signal! 🚨 (Why $60K Is The Reloading Zone) 📈](https://www.youtube.com/watch?v=y8XkPzBU_a4)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 34K • 👍 3K • 💬 90 • ⏱️ 16:56 • 21h ago
+👁️ 43K • 👍 2K • 💬 120 • ⏱️ 11:41 • 1d ago
 
 ---
 

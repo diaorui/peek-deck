@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-07T17:33:18.633501+00:00'
+updated: '2026-07-07T19:56:09.403853+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 17:33 UTC  
+**Last Updated:** July 07, 2026 at 19:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +12.2%  
-**30d:** +6.8%  
-**90d:** -17.6%  
-**1y:** -31.0%  
+**24h:** -0.3%  
+**7d:** +11.2%  
+**30d:** +5.9%  
+**90d:** -18.3%  
+**1y:** -31.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.75B
+**Market Cap:** $215.84B
 Rank #2
 
 **Circulating Supply:** 120,683,164 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.5%
+-63.8%
 
 **All-Time Low:** $0.43
-+416601.5%
++412966.2%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
 **[Vitalik Buterin just unveiled Ethereum’s updated roadmap!](https://www.reddit.com/r/ethereum/comments/1upil1n/vitalik_buterin_just_unveiled_ethereums_updated/)**
 
-14h ago
+17h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about the post quantum migration for a while and built a small tool that scores exposure risk for any Ethereum address. How it works: every ECDSA signed transaction reveals the signer's public key on chain. Once you have sent one transaction from an address, that public key is on chain permanently. If a sufficiently capable quantum computer arrives, it can derive the private key from that public key using Shor's algorithm. The tool takes any EVM address or ENS name and returns: - Whether the public key is already on chain (exposed) - The value at risk - How long the exposure has existed - A 0 to 100 exposure score Read only. No wallet connection. No signup. claak.io/scan Vitalik.eth is prefilled as a demo. The scanner is free and standalone. Full disclosure: I contribute to Claak, but this post is about the scanner as an open piece of crypto tooling for the community. Google's March paper cut the qubit threshold to roughly 1,152 logical qubits. Eigen Labs' open ecdsa.fail benchmark is past Google. NSA has set 2030 as the migration deadline. Happy to walk through methodology if anyone is curious. What score did you get on your main address?
 
-12h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ Been thinking about the post quantum migration for a while and built a small too
 
 does decentralized governance in DAOs really work? this is an almost existential-level question on the realities of one of crypto’s most core toolings, and it’s being put to the test by what’s happening with the Ethereum Name Service DAO lately. if you’ve heard buzz around the drama surrounding ENS lately but couldn’t be bothered to keep up, I explain! https://youtu.be/_du0qCXCix4 but broadly: a Temp Check hit the ENS forum last week proposing to move operations, grants, and treasury management out of constant token votes and into a five-seat professional board at the ENS Foundation, with one seat reserved for founder Nick Johnson. token holders keep protocol control and the power to remove directors, and the Foundation can't vote its own treasury tokens. two onchain moves landed around the same time: Johnson self-delegated close to half of all active voting power in ENS governance, and a brand-new wallet with no public identity received ~200k ENS traced back to ENS Labs, instantly becoming the second-largest delegate. Lefteris Karapetsas (rotki) says it looks like coordinated preparation to swing the vote. Katherine Wu, the proposal's lead author, says a board with teeth is professionalization, and a founder holding his tokens is exactly what we ask founders to do. every DAO eventually hits this wall. full-token voting is slow and exhausting, but the moment someone tries to fix it is also the moment concentrated voting power matters most. i put together a ~4 minute breakdown covering the proposal, the wallet trail, and posing the ultimate question: when a decentralized community needs to change how it makes decisions, who gets to decide what that change looks like when all else has seemingly failed? https://youtu.be/_du0qCXCix4 super curious to hear this subreddit's thoughts on DAO governance! what are the successful examples? is ENS bound to be an example of a failure in decentralized governance? or is what ENS is doing necessary for the growth of the protocol? -------------------------------- if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-🔗 [youtu.be](https://youtu.be/_du0qCXCix4) • 23h ago
+🔗 [youtu.be](https://youtu.be/_du0qCXCix4) • 1d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once again for their awesome work on these Doots! https://old.reddit.com/r/ethereum/comments/1um4zi1/daily_general_discussion_july_03_2026/ovb4kp7/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=yAzCzBggu3Y) • 3d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=yAzCzBggu3Y) • 4d ago
 
 ---
 
@@ -180,11 +180,19 @@ The Block • 1d ago
 
 ---
 
+**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
+
+DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
+
+markets.businessinsider.com • 2h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Tuesday, July 7, 2026: Another strong opening for BTC and ETH prices](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-7-2026-another-strong-opening-for-btc-and-eth-prices-120355126.html)**
 
 Bitcoin opened at $63,997.17 today, Tuesday, July 7, 2026, up 0.7% from yesterday's opening price. Ethereum opened at $1,797.77, up 0.8% from yesterday's open.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -200,7 +208,7 @@ CoinDesk • 1d ago
 
 Ethereum co-founder Vitalik Buterin laid out an updated "Lean Ethereum" roadmap in a post on X Saturday, describing a three-to-four-year overhaul he…
 
-The Defiant • 23h ago
+The Defiant • 1d ago
 
 ---
 
@@ -208,23 +216,15 @@ The Defiant • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 6h ago
 
 ---
 
-**[New Crypto: Pepeto Moves DeFi Suite Closer to Launch as the Ethereum Price Prediction Targets $10,000 Minimum](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-moves-defi-suite-closer-to-launch-as-the-ethereum-price-prediction-targets-10-000-minimum-1036300065)**
+**[Top Analyst Reveals What’s Next For Bitcoin, Ethereum and XRP Prices](https://www.tradingview.com/news/coinpedia:86db40472094b:0-top-analyst-reveals-what-s-next-for-bitcoin-ethereum-and-xrp-prices/)**
 
-DUBAI, United Arab Emirates, July  06, 2026  (GLOBE NEWSWIRE) -- Pepeto, a new crypto built on Ethereum, has pushed its DeFi suite another step cl...
+Gareth Soloway, chief market strategist at VerifiedInvesting.com, says the crypto market has entered a meaningful short-term recovery phase, but warns that the bigger bear market trend has not yet ended and further downside remains likely later in the year.Bitcoin: $73,000 to $74,000 in Sight, But…
 
-markets.businessinsider.com • 1d ago
-
----
-
-**[Can Ethereum’s $150B stablecoin liquidity help ETH bulls reclaim control?](https://ambcrypto.com/can-ethereums-150b-stablecoin-liquidity-help-eth-bulls-reclaim-control/)**
-
-Is the next breakout in Ethereum finally approaching?
-
-AMBCrypto • 11h ago
+TradingView • 2d ago
 
 ---
 
@@ -232,13 +232,23 @@ AMBCrypto • 11h ago
 
 ## YouTube Videos: "ethereum"
 
+**[This Ethereum Trendline Is About to Decide Fate Of Altcoins](https://www.youtube.com/watch?v=OJk4XTvUcE8)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 2K • 👍 234 • 💬 92 • ⏱️ 19:01 • 2h ago
+
+---
+
 **[Critical Breakout Ahead Ethereum Just Flashed A Buy Signal And We Could See A Crazy Altcoin Season](https://www.youtube.com/watch?v=okCHHhHaPV8)**
 
 Ethereum and Bitcoin are showing the market some interesting movements in the last few days. Instutions and companies are ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 5K • 👍 717 • 💬 299 • ⏱️ 13:04 • 6h ago
+👁️ 6K • 👍 787 • 💬 331 • ⏱️ 13:04 • 8h ago
 
 ---
 
@@ -248,17 +258,7 @@ Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
 📺 Credible Crypto
 
-👁️ 12K • 👍 852 • 💬 79 • ⏱️ 1:03:11 • 22h ago
-
----
-
-**[Ethereum Is Betting Everything on This Roadmap](https://www.youtube.com/watch?v=BE2BM522-Q0)**
-
-Ethereum is trying to solve five major problems at once — speed, decentralization, economics, privacy, and even quantum ...
-
-📺 CoinGecko
-
-👁️ 5K • 👍 250 • 💬 80 • ⏱️ 10:28 • 1d ago
+👁️ 13K • 👍 876 • 💬 86 • ⏱️ 1:03:11 • 1d ago
 
 ---
 
@@ -268,17 +268,17 @@ Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 487 • 💬 228 • ⏱️ 17:12 • 1d ago
+👁️ 10K • 👍 488 • 💬 230 • ⏱️ 17:12 • 1d ago
 
 ---
 
-**[Saylor sold. Tom Lee bought.](https://www.youtube.com/watch?v=UmuQ0SSfLPs)**
+**[Ethereum Is Betting Everything on This Roadmap](https://www.youtube.com/watch?v=BE2BM522-Q0)**
 
-Michael Saylor spent years telling investors to never sell Bitcoin. Now Strategy is doing something very different. In this episode of ...
+Ethereum is trying to solve five major problems at once — speed, decentralization, economics, privacy, and even quantum ...
 
-📺 Yahoo Finance
+📺 CoinGecko
 
-👁️ 14K • 👍 479 • 💬 133 • ⏱️ 14:56 • 1d ago
+👁️ 5K • 👍 259 • 💬 76 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 267 • 💬 69 • ⏱️ 1:09:10 • 22h ago
+👁️ 7K • 👍 275 • 💬 76 • ⏱️ 1:09:10 • 1d ago
 
 ---
 
@@ -302,33 +302,33 @@ Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy In th
 
 ---
 
+**[Saylor sold. Tom Lee bought.](https://www.youtube.com/watch?v=UmuQ0SSfLPs)**
+
+Michael Saylor spent years telling investors to never sell Bitcoin. Now Strategy is doing something very different. In this episode of ...
+
+📺 Yahoo Finance
+
+👁️ 14K • 👍 485 • 💬 133 • ⏱️ 14:56 • 1d ago
+
+---
+
 **[ETH Ethereum Price Prediction: 7/7/2026](https://www.youtube.com/watch?v=5d2B87LoxHc)**
 
 Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
 📺 C-Zar Gets Crypto 
 
-👁️ 72 • 👍 9 • 💬 12 • ⏱️ 5:32 • 2h ago
+👁️ 96 • 👍 10 • 💬 12 • ⏱️ 5:32 • 5h ago
 
 ---
 
-**[Why Ethereum Keeps Losing Its Best Builders](https://www.youtube.com/watch?v=2uhB5n639x0)**
+**[ETHEREUM’S BIGGEST UPGRADE.](https://www.youtube.com/watch?v=4Qz7RzgHqBo)**
 
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+Welcome back to Crypto Ki Taaza Khabar In this episode, we discuss Ethereum's biggest upcoming upgrade, the latest crypto ...
 
-📺 Coin Bureau
+📺 Bitinning
 
-👁️ 17K • 👍 744 • 💬 96 • ⏱️ 13:11 • 2d ago
-
----
-
-**[Ethereum’s Supercycle Has Started, Says SharpLink CEO](https://www.youtube.com/watch?v=L60adr2tYoY)**
-
-SharpLink CEO Joseph Chalom joins Coinage to explain why he believes Ethereum has entered a new institutional supercycle ...
-
-📺 Coinage
-
-👁️ 3K • 👍 90 • 💬 12 • ⏱️ 34:18 • 21h ago
+👁️ 8K • 👍 564 • 💬 57 • ⏱️ 11:03 • 1d ago
 
 ---
 

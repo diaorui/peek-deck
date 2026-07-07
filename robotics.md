@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-07T17:33:18.636830+00:00'
+updated: '2026-07-07T19:56:09.407110+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 07, 2026 at 17:33 UTC  
+**Last Updated:** July 07, 2026 at 19:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Have been building this project for a while now, and would love to get eyes on i
 
 Found this demo on their project page showing exactly the transparent-surface problem that breaks most RGB-D setups. Raw sensor depth drops to nothing on the glass panel, and the completion model fills it in from the backbone features. Only the four vision encoders went up on HuggingFace and GitHub this week under Apache-2.0; the depth completion weights themselves are not released. Their paper lists NYUv2 RMSE of 0.296 for the flagship ViT-g, and they report 2.552 on KITTI, trailing both DINOv3-7B and V-JEPA 2.1. For actual robotics work this is the exact failure mode that makes wine glasses and steel cabinets a consistent headache for grasp pipelines. Curious how people see validating these depth numbers when the completion weights are not available for independent testing.
 
-22h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 **[Update on BAGEL: new features and future plans!](https://www.reddit.com/r/robotics/comments/1up4olv/update_on_bagel_new_features_and_future_plans/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -90,7 +90,7 @@ Is there anyone who could help me regarding controlling multiple robstride o2 mo
 
 Hi, I have an interview with Neuralink for this fall for robotics software engineer intern. I was wondering what should i expect and what is the interview process. Thank you.
 
-23h ago
+1d ago
 
 ---
 
@@ -118,7 +118,7 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Robotics tech is changing fast, so for many it makes sense to rent a robot.
 
-BBC • 17h ago
+BBC • 20h ago
 
 ---
 
@@ -134,7 +134,7 @@ The Guardian • 1d ago
 
 Top robotics researchers and founders explain how robot autonomy is evolving.
 
-Ars Technica • 6h ago
+Ars Technica • 8h ago
 
 ---
 
@@ -142,7 +142,7 @@ Ars Technica • 6h ago
 
 These VCs say humanoids are overhyped. They're backing robots with wheels, wings, and specialized designs instead.
 
-Business Insider • 8h ago
+Business Insider • 10h ago
 
 ---
 
@@ -150,27 +150,21 @@ Business Insider • 8h ago
 
 As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids remains complex…
 
-NVIDIA Developer • 12m ago
+NVIDIA Developer • 2h ago
 
 ---
 
 **[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
 
-Honolulu Civil Beat • 7h ago
+Honolulu Civil Beat • 9h ago
 
 ---
 
-**[The Robots Are Here](https://www.chinatalk.media/p/the-robots-are-here)**
+**[KIDZ AI Wins 2026 EdTechX Award and Unveils KIDZBot AI Robotics Platform](https://finance.yahoo.com/technology/ai/articles/kidz-ai-wins-2026-edtechx-113000907.html)**
 
-Unitree's advantage
+KIDZ AI Named 2026 EdTechX Award Winner for the Americas, recognizing the Company's innovation and leadership in AI-powered education. KIDZ AI Launches KIDZBot AI Robotics Platform, an integrated AI-native robotics platform that incorporates advanced ...
 
-ChinaTalk | Jordan Schneider • 1d ago
-
----
-
-**[Hyundai Motor Showcases Humanoid at World Cup in Robotics Push](https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push)**
-
-Bloomberg.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,11 +176,19 @@ The Mercury News • 1d ago
 
 ---
 
-**[KIDZ AI Wins 2026 EdTechX Award and Unveils KIDZBot AI Robotics Platform](https://www.stocktitan.net/news/KIDZ/kidz-ai-wins-2026-ed-tech-x-award-and-unveils-kidz-bot-ai-robotics-x148iqwkk4yu.html)**
+**[3 AI Infrastructure Stocks to Buy in July](https://247wallst.com/investing/2026/07/07/3-ai-infrastructure-stocks-to-buy-in-july/)**
 
-KIDZBot is expected to roll out commercially in the second half of 2026, while the platform combines robotics hardware, curriculum and coding tools.
+Robotics and AI infrastructure stocks have ripped higher in 2026, and the path of least resistance still points up as humanoid pilots scale and AI data center spend keeps compounding.
 
-Stock Titan • 1d ago
+24/7 Wall St. • 7h ago
+
+---
+
+**[Newfoundland robotics firm eyes revenue, market growth with U.K. acquisition](https://www.saltwire.com/newfoundland-labrador/kraken-robotics-acquires-uk-firm)**
+
+St. John's-based Kraken Robotics Inc. has officially taken over U.K.'s Covelya Group Limited in a deal worth $615 million
+
+PNI Atlantic News • 1d ago
 
 ---
 
@@ -210,7 +212,7 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 476 • 👍 34 • 💬 12 • ⏱️ 10:42 • 20h ago
+👁️ 546 • 👍 36 • 💬 12 • ⏱️ 10:42 • 22h ago
 
 ---
 
@@ -220,37 +222,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 92K • 👍 2K • 💬 440 • ⏱️ 13:32 • 2d ago
-
----
-
-**[Chinese Hyper-Realistic AI Robot That Looks Just Like Ela #robot #robotics #airobot](https://www.youtube.com/watch?v=q4J7xqIpFOI)**
-
-The Chinese startup AnyWit Robotics has developed a hyper-realistic replica of Ela Bosak, the fan favorite from Tom Clancy's ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 48 • ⏱️ 1:01 • 13h ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
-
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
-
-📺 Future Core
-
-👁️ 66K • 👍 2K • 💬 116 • ⏱️ 10:56 • 2d ago
-
----
-
-**[NEW Robot FANG is coming to War Robots](https://www.youtube.com/watch?v=-wIxHRH4DdU)**
-
-War Robots Test Server Gameplay: NEW Robot FANG - WR My War Robots Creator Link: https://wr.my.games/manni - Code: ...
-
-📺 Manni-Gaming
-
-👁️ 7K • 👍 341 • 💬 66 • ⏱️ 13:11 • 1d ago
+👁️ 92K • 👍 2K • 💬 442 • ⏱️ 13:32 • 2d ago
 
 ---
 
@@ -260,17 +232,57 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 27K • 👍 1K • 💬 57 • ⏱️ 10:19 • 5d ago
+👁️ 27K • 👍 1K • 💬 58 • ⏱️ 10:19 • 5d ago
 
 ---
 
-**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
+**[NEW Robot FANG is coming to War Robots](https://www.youtube.com/watch?v=-wIxHRH4DdU)**
 
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+War Robots Test Server Gameplay: NEW Robot FANG - WR My War Robots Creator Link: https://wr.my.games/manni - Code: ...
 
-📺 Chris Norlund
+📺 Manni-Gaming
 
-👁️ 69K • 👍 4K • 💬 2K • ⏱️ 13:09 • 2d ago
+👁️ 7K • 👍 347 • 💬 67 • ⏱️ 13:11 • 1d ago
+
+---
+
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+
+📺 Future Core
+
+👁️ 69K • 👍 2K • 💬 122 • ⏱️ 10:56 • 2d ago
+
+---
+
+**[🧑‍🔧 Japanese engineers developed 🤖  a wearable robot that improves ⚖️  balance 👴 | MDCT](https://www.youtube.com/watch?v=V6ULmrkJuNw)**
+
+What if humans had a tail to help us stay balanced?* Japanese researchers have developed a robotic tail called *Arque* ...
+
+📺 Make Dream Come True 
+
+👁️ 38K • 👍 686 • 💬 30 • ⏱️ 0:11 • 4d ago
+
+---
+
+**[This AI Camera Robot Is Unlike Anything I&#39;ve Tested - Meet Beni!](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+
+📺 51 Drones
+
+👁️ 68K • 👍 567 • 💬 102 • ⏱️ 12:50 • 6d ago
+
+---
+
+**[Humans Vs Robots at Same Job: Humans Barley Won](https://www.youtube.com/watch?v=RNmuk5tWEcc)**
+
+Human vs Robot: Humans Barely Won 12924 Packages vs the Robot's 12732 Description Figure Al just tested its humanoid robot ...
+
+📺 Brainy Byte
+
+👁️ 1.3M • 👍 36K • 💬 2K • ⏱️ 0:12 • 4d ago
 
 ---
 
@@ -280,15 +292,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 187K • 👍 7K • 💬 1K • ⏱️ 2:39 • 6d ago
-
----
-
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=qurirsorIJ4)**
-
-📺 Borunte julie 
-
-👁️ 4K • 👍 33 • 💬 1 • ⏱️ 0:21 • 1d ago
+👁️ 188K • 👍 7K • 💬 1K • ⏱️ 2:39 • 6d ago
 
 ---
 
