@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-07T12:27:31.210754+00:00'
+updated: '2026-07-07T15:26:40.152638+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 07, 2026 at 12:27 UTC  
+**Last Updated:** July 07, 2026 at 15:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle-stop demo on my drone. it is easy to replicate. l will open-sourcing on GitHub soon.
 
-23h ago
+1d ago
 
 ---
 
@@ -44,7 +44,7 @@ I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle
 
 I sometimes need to tune the inertial property of the robot by changing the density or mass of each parts. Doing it in CAD and have it re-export to URDF takes a bit long and too tedious. So this online editor lets you (and me) quickly make changes, and have the inertia tensor of the links be recomputed immediately. You can then copy-paste the updated URDF. This is basically entirely made by claude (with some of my help :)) (And yes, it is placed under my startup's domain as a potential lead magnet. but I think it could be useful for some people nonetheless. EDIT (forgot to post the link) Welcome to try: https://urdf.aperobotics.io/
 
-20h ago
+23h ago
 
 ---
 
@@ -52,7 +52,7 @@ I sometimes need to tune the inertial property of the robot by changing the dens
 
 Have been building this project for a while now, and would love to get eyes on it. Will appreciate it if you could try it out in actual workflows and give me feedback so I can decide the direction to move in. Currently it has been benchmarked against OPEN3D v0.19 on the same machine, using full-resolution frames from three real datasets: TUM RGB-D, KITTI, and nuScenes-mini. In the table below, higher is better — a ratio above 1 means ThreeCrate is faster than Open3D. Workload How ThreeCrate compares Reading files (raw float parsing) 1.8x–2.2x faster Voxel downsampling (CPU) 1.6x–1.8x faster Voxel downsampling (GPU, wgpu) 1.8x–2.9x faster (vs our own CPU path, not Open3D) Normal estimation 0.57x–1.09x (falls behind on big clouds) Single-scale ICP 0.71x–0.99x (falls behind on big clouds) Would appreciate any contributions and feedback for the repo. Link to the repo: https://github.com/rajgandhi1/threecrate
 
-21h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Have been building this project for a while now, and would love to get eyes on i
 
 Found this demo on their project page showing exactly the transparent-surface problem that breaks most RGB-D setups. Raw sensor depth drops to nothing on the glass panel, and the completion model fills it in from the backbone features. Only the four vision encoders went up on HuggingFace and GitHub this week under Apache-2.0; the depth completion weights themselves are not released. Their paper lists NYUv2 RMSE of 0.296 for the flagship ViT-g, and they report 2.552 on KITTI, trailing both DINOv3-7B and V-JEPA 2.1. For actual robotics work this is the exact failure mode that makes wine glasses and steel cabinets a consistent headache for grasp pipelines. Curious how people see validating these depth numbers when the completion weights are not available for independent testing.
 
-17h ago
+20h ago
 
 ---
 
@@ -68,13 +68,13 @@ Found this demo on their project page showing exactly the transparent-surface pr
 
 I see a lot of smaller parts are costlier than the usual sizes. Even for screws , it sometimes costs 2k rs. Why is this? Don't tell that it's because of the import duty.
 
-21h ago
+1d ago
 
 ---
 
 **[Update on BAGEL: new features and future plans!](https://www.reddit.com/r/robotics/comments/1up4olv/update_on_bagel_new_features_and_future_plans/)**
 
-18h ago
+21h ago
 
 ---
 
@@ -90,7 +90,7 @@ Is there anyone who could help me regarding controlling multiple robstride o2 mo
 
 Hi, I have an interview with Neuralink for this fall for robotics software engineer intern. I was wondering what should i expect and what is the interview process. Thank you.
 
-18h ago
+21h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi, I have an interview with Neuralink for this fall for robotics software engin
 
 Boston Dynamics is developing Atlas using an AI-based system instead of relying on hard-coded behaviors. Aya Durbin describes a shift away from fixed, pre-programmed routines toward a robot that can operate in less controlled, real-world environments. For humanoid robots, this difference is important because demonstrations can be tightly scripted, while practical use requires dealing with variability, unexpected situations, and changing physical tasks. This outlines how Atlas is being developed as Boston Dynamics continues working on humanoid robotics.
 
-1d ago
+2d ago
 
 ---
 
@@ -106,7 +106,7 @@ Boston Dynamics is developing Atlas using an AI-based system instead of relying 
 
 Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is focused on repetitive warehouse and manufacturing tasks like moving totes, unloading AMRs, placing items on shelves, and connecting parts of existing automation systems. He says these are useful “in-between” automation roles where companies do not want to heavily modify infrastructure. The article covers Agility’s partnership with NVIDIA as the first partner for Halos for Robots, NVIDIA’s autonomous safety platform for robots, as well as Agility’s plan to go public through a merger with Churchill Capital Corp. XI, giving the company a $2.5 billion pre-money valuation and $620 million in expected gross proceeds.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 22h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 1d ago
 
 ---
 
@@ -118,15 +118,15 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Robotics tech is changing fast, so for many it makes sense to rent a robot.
 
-BBC • 12h ago
+BBC • 15h ago
 
 ---
 
-**[Robot workers rising: How AI may drive general-purpose autonomy in robotics](https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)**
+**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
 
-Top robotics researchers and founders explain how robot autonomy is evolving.
+New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
 
-Ars Technica • 1h ago
+NVIDIA Blog • 9h ago
 
 ---
 
@@ -138,31 +138,31 @@ The Guardian • 1d ago
 
 ---
 
-**[The Robots Are Here](https://www.chinatalk.media/p/the-robots-are-here)**
+**[How AI could enable autonomous robot workers in workplaces—and maybe homes](https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)**
 
-Unitree's advantage
+Top robotics researchers and founders explain how robot autonomy is evolving.
 
-ChinaTalk | Jordan Schneider • 1d ago
+Ars Technica • 4h ago
 
 ---
 
-**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
+**[Santa Cruz County student robotics team wins world championship](https://www.mercurynews.com/2026/07/06/santa-cruz-county-student-robotics-team-wins-world-championship/)**
 
-New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
+Hephaestus Robotics Team, a youth robotics team consisting of 21 students from eight high schools across Santa Cruz County, won first place in their class at the nine day MATE ROV World Championship in Canada.
 
-NVIDIA Blog • 6h ago
+The Mercury News • 22h ago
+
+---
+
+**[Oregon cannabis robotics company moves HQ to Pittsburgh](https://www.bizjournals.com/portland/news/2026/07/07/vape-jet-relocates-to-strip-district.html)**
+
+The Business Journals • 11m ago
 
 ---
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
 WSJ • 3d ago
-
----
-
-**[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
-
-Tech Xplore • 55m ago
 
 ---
 
@@ -174,19 +174,17 @@ Stock Titan • 1d ago
 
 ---
 
-**[Video: ‘World’s first’ fully robotic pharmacy automates prescription dispensing](https://interestingengineering.com/ai-robotics/worlds-first-fully-robotic-pharmacy)**
-
-Queue unveils a fully autonomous robotic pharmacy that automates prescription dispensing, cutting costs and improving access.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Newfoundland robotics firm eyes revenue, market growth with U.K. acquisition](https://www.saltwire.com/newfoundland-labrador/kraken-robotics-acquires-uk-firm)**
 
 St. John's-based Kraken Robotics Inc. has officially taken over U.K.'s Covelya Group Limited in a deal worth $615 million
 
 PNI Atlantic News • 1d ago
+
+---
+
+**[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
+
+Tech Xplore • 3h ago
 
 ---
 
@@ -200,7 +198,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 243K • 👍 7K • 💬 2K • ⏱️ 3:59 • 6d ago
+👁️ 244K • 👍 7K • 💬 2K • ⏱️ 3:59 • 6d ago
 
 ---
 
@@ -210,7 +208,7 @@ The Chinese startup AnyWit Robotics has developed a hyper-realistic replica of E
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 38 • ⏱️ 1:01 • 8h ago
+👁️ 1K • 👍 46 • ⏱️ 1:01 • 11h ago
 
 ---
 
@@ -220,7 +218,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 90K • 👍 2K • 💬 430 • ⏱️ 13:32 • 2d ago
+👁️ 91K • 👍 2K • 💬 436 • ⏱️ 13:32 • 2d ago
 
 ---
 
@@ -228,17 +226,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 Dance Theorem 
 
-👁️ 116K • 👍 2K • 💬 93 • ⏱️ 0:57 • 2d ago
-
----
-
-**[China&#39;s UBTECH UWorld U1 Ultra-Realistic Humanoid Robots: Real AI Robot Companions or a Scam?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 354 • 👍 30 • 💬 11 • ⏱️ 10:42 • 15h ago
+👁️ 118K • 👍 2K • 💬 93 • ⏱️ 0:57 • 2d ago
 
 ---
 
@@ -248,7 +236,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 57K • 👍 2K • 💬 87 • ⏱️ 10:56 • 2d ago
+👁️ 62K • 👍 2K • 💬 105 • ⏱️ 10:56 • 2d ago
 
 ---
 
@@ -258,17 +246,7 @@ War Robots Test Server Gameplay: NEW Robot FANG - WR My War Robots Creator Link:
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 329 • 💬 65 • ⏱️ 13:11 • 1d ago
-
----
-
-**[#HumanoidRobot #RobotAttack #Indonesia #AI #ArtificialIntelligence #Robotics #RobotNews #ViralVideo](https://www.youtube.com/watch?v=f9nSkuew-8E)**
-
-CSB IAS ACADEMY OFFICIAL Youtube Channel Link ...
-
-📺 Bala Latha Madam
-
-👁️ 10K • 👍 301 • 💬 1 • ⏱️ 0:55 • 20h ago
+👁️ 7K • 👍 336 • 💬 65 • ⏱️ 13:11 • 1d ago
 
 ---
 
@@ -278,7 +256,17 @@ Human vs Robot: Humans Barely Won 12924 Packages vs the Robot's 12732 Descriptio
 
 📺 Brainy Byte
 
-👁️ 1.2M • 👍 33K • 💬 2K • ⏱️ 0:12 • 4d ago
+👁️ 1.2M • 👍 34K • 💬 2K • ⏱️ 0:12 • 4d ago
+
+---
+
+**[i started a robotics company in 2026](https://www.youtube.com/watch?v=4wzn7ERaleU)**
+
+In this video I cover some of the behind the scenes of starting a robotics company in 2026. Our goal was to make a professional ...
+
+📺 Austen Hartley
+
+👁️ 3K • 👍 197 • 💬 30 • ⏱️ 18:50 • 15h ago
 
 ---
 
@@ -288,7 +276,17 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 26K • 👍 1K • 💬 56 • ⏱️ 10:19 • 4d ago
+👁️ 27K • 👍 1K • 💬 56 • ⏱️ 10:19 • 5d ago
+
+---
+
+**[🧑‍🔧 Japanese engineers developed 🤖  a wearable robot that improves ⚖️  balance 👴 | MDCT](https://www.youtube.com/watch?v=V6ULmrkJuNw)**
+
+What if humans had a tail to help us stay balanced?* Japanese researchers have developed a robotic tail called *Arque* ...
+
+📺 Make Dream Come True 
+
+👁️ 38K • 👍 686 • 💬 30 • ⏱️ 0:11 • 4d ago
 
 ---
 
