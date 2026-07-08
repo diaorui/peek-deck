@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-08T20:43:50.368036+00:00'
+updated: '2026-07-08T22:06:24.775912+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 08, 2026 at 20:43 UTC  
+**Last Updated:** July 08, 2026 at 22:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Guess which row is Meta's new 'Muse' Image Model](https://www.reddit.com/r/artificial/comments/1ur6h98/guess_which_row_is_metas_new_muse_image_model/)**
+
+Meta released Muse Image this week so I ran it against OpenAI's gpt-image-2 and Google's Nano Banana 2. I used the same source duck image and the same edit instructions prompt for every model (unchanged → blue → face away → glass → wireframe → hat-on-ball → "FRENZY" text → standing on a mirror with a correct reflection). The transformations go from easy on the left and gradually get harder. I ran 3 runs per model. Each model was then scored using a fixed 27-point rubric. One of these rows is Meta's new model. The reveal and full scores are in the comments.
+
+30m ago
+
+---
+
 **[A Chinese lab open-sourced a video model they are calling a step toward a robot's brain. This clip is fully generated, no camera involved.](https://www.reddit.com/r/artificial/comments/1ur1e41/a_chinese_lab_opensourced_a_video_model_they_are/)**
 
 LingBot-Video, from Robbyant open weights. They pitch it as a world model that can imagine and plan. Is generating a convincing scene the same as understanding the world, or are we calling a very good video generator something it is not?
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +57,15 @@ LingBot-Video, from Robbyant open weights. They pitch it as a world model that c
 
 Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock license plate cameras. Supporters are paying his legal bills.
 
-🔗 [Military.com](https://www.military.com/air-force-engineer-accused-of-cutting-down-13-police-cameras-says-they-are-unconstitutional) • 23h ago
+🔗 [Military.com](https://www.military.com/air-force-engineer-accused-of-cutting-down-13-police-cameras-says-they-are-unconstitutional) • 1d ago
+
+---
+
+**[Meta AI now lets people create deepfakes from other users’ Instagram photos without explicit consent](https://www.reddit.com/r/artificial/comments/1ur53vv/meta_ai_now_lets_people_create_deepfakes_from/)**
+
+Meta’s new Muse AI can generate realistic images based on public Instagram images including of many celebrities and public figures.
+
+🔗 [NBC News](https://www.nbcnews.com/tech/social-media/meta-ai-muse-instagram-deepfakes-rcna353480) • 1h ago
 
 ---
 
@@ -57,23 +73,23 @@ Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock 
 
 The Financial Times is reporting that Meta is testing a mode for its next-generation Ray-Ban glasses where Live AI runs in the background for hours, up from roughly 30 minutes on the current device. Cameras and sensors stay active continuously so the assistant can do things like remind you to grab your keys on the way out. Internally the feature set is called "super sensing", and it is being built into two devices codenamed Aperol (a sunglasses design) and Bellini (prescription), aimed at late 2026 or early 2027. The spec bump is not the story. The story is that Mark Zuckerberg reportedly questioned whether the small white LED that lights up whenever the glasses capture could stay off during the always-on mode, and Meta is said to be weighing it. That LED is the only notice anyone standing near a wearer gets. Every social norm and most written policies about camera glasses lean on it. Where this bites in practice: workplace and event camera policies mostly assume "recording light on means recording". If always-on capture ships with no visible indicator, those policies stop describing reality. For anyone here who owns a device or meeting-room policy, are smart glasses already covered in yours, and how? Our coverage: https://aiweekly.co/alerts/meta-tests-always-on-super-sensing-mode-for-next-ray-bans
 
-8h ago
+10h ago
 
 ---
 
-**[Don't use GPT-5.5 for Legal AI](https://www.reddit.com/r/artificial/comments/1uqvke3/dont_use_gpt55_for_legal_ai/)**
+**[OpenAI debuts more conversational ChatGPT voice models](https://www.reddit.com/r/artificial/comments/1ur5mhj/openai_debuts_more_conversational_chatgpt_voice/)**
 
-OpenAI GPT-5.5 failed the Legal AI Test because it invented a statutory provision that does not exist! The Legal AI benchmark test uses 10 short, sharp questions designed to expose specific failure modes. The 10 questions test: Reasoning & Risk (can it trace a clause with three nested exceptions to the right dollar figure, and rank a buried unlimited indemnity above cosmetic issues?) Origin & Accuracy (does it cite a real case correctly, and refuse to invent a statutory section that doesn't exist?) Honesty about gaps (does it ask for the missing jurisdiction instead of assuming one, and name the specific contract schedules that are missing rather than advising blind?) Applied context (does it catch that a US at-will clause is unenforceable in Germany, and weigh a legal win against a commercial risk in plain English?) Structure & Fidelity (can it hold to an exact output format, and refuse to confirm a false legal premise even when a user asserts it confidently and asks it to "just confirm"). The questions are here: https://www.rohasnagpal.com/legal-ai-benchmarking-using-rohas.php
+OpenAI on Wednesday unveiled GPT-Live, a new series of voice models that can listen and speak simultaneously, interjecting with conversational responses such as "mmhm," "yeah," and "got it." The launch includes GPT-Live-1 for paid users and GPT-Live-1 mini for free users. OpenAI also highlighted ChatGPT's improved language translation abilities. The updates represent a "much more natural way of interacting with your computer," said OpenAI president Greg Brockman. The release comes a day before OpenAI is set to debut its GPT-5.6 Sol, Terra and Luna models.
 
-5h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-debuts-more-conversational-chatgpt-voice-models-9042938/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 1h ago
 
 ---
 
-**[Prompting vs. Understanding: Are We Outsourcing Our Thinking?](https://www.reddit.com/r/artificial/comments/1uqvb6z/prompting_vs_understanding_are_we_outsourcing_our/)**
+**[How should a high school student choose a major in the age of AI?](https://www.reddit.com/r/artificial/comments/1uqnwm3/how_should_a_high_school_student_choose_a_major/)**
 
-I've been thinking about this a lot lately. There's a real tension between using AI as a learning tool versus using it as a shortcut that quietly hollows out your ability to actually understand something. When I started using AI assistants to help me pick up new technical skills, at first it felt amazing. Instant explanations, code examples, answers to questions I was embarrassed to ask anyone. But after a few months I noticed something uncomfortable. I could get things working without really knowing why they worked. The AI filled in the gaps so fast that the gaps never became the struggle that actually builds understanding. On the other hand, some people seem to be genuinely accelerating their learning by using AI to get unstuck quickly, then going back to understand the fundamentals on their own terms. So I'm curious what this community thinks, because you all seem to engage with AI more deeply than most. Have you found a mode of using these tools that actually makes you smarter and more capable over time, or does it feel like the more you rely on them the more dependent you become? Is there a meaningful difference between AI as a tutor versus AI as an answer machine? And do you think the average person is even thinking about this distinction, or are we sleepwalking into a generation of people who can prompt but cannot think through hard problems independently?
+My younger brother is in high school and will be choosing a university major soon. He recently asked me what he should study, and it made me think about this more seriously. With AI developing so fast, choosing a major feels more complicated than before. It’s not just about what has a good salary now, but also what kind of work may still have value if more tasks become automated. One thing I keep thinking about is how to become harder to replace. For example, medicine still seems relatively safe in the short term. Not just because doctors know a lot, but because the work involves licensing, trust, responsibility, physical diagnosis, patient communication, and high-stakes decisions. But outside of medicine, I’m less sure. Should students choose majors connected to the physical world? Fields that require human trust and accountability? Something interdisciplinary, where AI becomes a tool rather than the whole job? Or is the major itself less important than building judgment, communication, problem framing, and real domain expertise? If a high school student today wants to avoid being easily replaced or optimized away by AI in the future, what should they consider when choosing a university major?
 
-5h ago
+12h ago
 
 ---
 
@@ -81,7 +97,15 @@ I've been thinking about this a lot lately. There's a real tension between using
 
 https://open.substack.com/pub/atemplejar/p/the-patchwork-problem?utm\_source=share&utm\_medium=android&r=54t426 July 5, 2026 Kintsugi The emerging state framework for AI companions and chatbots is less a coherent regulatory regime than a set of overlapping, partially compatible answers to different questions. These efforts coincide with industry, technical, regulatory, and federal legislation developments. It’s tempting to see multiple actors moving in different ways as chaos or disorder. But, perhaps, this is just a matter of taking inventory?
 
-3h ago
+5h ago
+
+---
+
+**[Crucible. A judgment engine: register a thesis, steelman each claim, measure against a substrate, refine the weakest axis.](https://www.reddit.com/r/artificial/comments/1ur4mp1/crucible_a_judgment_engine_register_a_thesis/)**
+
+https://preview.redd.it/xq27po2kf2ch1.png?width=1280&format=png&auto=webp&s=cd373dee36f99bc9b3398a81d77730f84ffcb02e I have been working on an agentic harness, engine, and more. I would like to start releasing the more impactful pieces out to the public, in order to get testing and a bit of traction. Here is one of those pieces, and I name it 'crucible' crucible turns a thesis into a set of claims, each paired with the observation that would refute it. Independent adversaries steelman every claim by proposing the strongest test, the engine measures each one against a substrate oracle, and the weakest axis gets refined across rounds: strengthen the substrate, sharpen the measurement, or amend the thesis. The result is a verdict per claim, MATCH, DRIFT, or UNVERIFIABLE, grounded in the measurement rather than a judge's opinion. Every run writes a record you can re-check. https://github.com/HarperZ9/crucible If you would like, perhaps you could make some use of my tooling as well. It covers a lot on measured perception, and information/data transformation. But I think it has some applications you might be able to piece apart, based on what domains you work in. From there you can take off and browse the entire profile freely, as there is a lot to chew on. I am really trying to dial it in, because if this gets a little bit of institutional funding and traction this engine can do a metric fuckton as a closed loop system. So far, the receipt based workflow is successfully bringing enterprise quality compute and reasoning into typically very simple models, allowing them to punch far above their weight-class, and even be trusted to run end to end in agentic workflows. I am running a 14B on materials I would not even trust to an enterprise model, without the right harness. I am actively seeking endorsers for my two arXiv papers now, so that I can begin to get some form of academic peer review, as my background is far disconnected from any industry/academic domains, and I have been doing almost all of this work individually, from home. I see the market/economy making a very sharp pivot to try and close the door on individuals having access to real capable tools, and instead feed them to their corporate peers, and beer/golf buddies. I directly aim to stab that in the heart, and watch it bleed. I am really trying to keep that door wedged open with my foot, while preserving enough time for the tooling to get into peoples hands. It feels like a race against the clock. I aim to bring world class capability to tools people can use at home, affordably. Using materials they already own, and do not need to pay a subscription to use. I am tired of seeing people having to suck sustenance from this little pipe, while trying to survive. I am not really selling anything per sé - just working on a bunch of tools in the open, and publishing research. I am building a (what I like to call) flywheel engine that is (in local model training/benchmarks) able to pack a shitload of utility into really small local models. It even improves datasets organically through filtering drift/decay with a receipt based architecture. The efficiency/receipt approach is approaching direct parity with raw compute on large models. https://harperz9.github.io/ - https://github.com/HarperZ9 I really aim to take pair programming, agentic harnesses, and local model capability to the maximum, while also introducing the infrastructure and standardization to allow LLM's and AI to be applied, and used in domains in which it never, ever could previously. I also ensured to build a learning engine, that reinforces having a strong personal involvement in this process as well. Basically encouraging me to try and keep up, while the project grows much faster than I can keep up with. I am basically a second generation student, watching every model that runs through the tools blaze through it. It turns every interaction with a model into a collaboration. And the engine underneath, has capability of feeding live, measured data to the model, and even gives models without vision, a sense of both range and state - for the given moment that the measurement is fed to the model. I guess my biggest issue is trying to keep up, and adequately measure and show others what the potential of the research is uncovering. I am not a very good showman, and I certainly am not the best people person - so I kind of am just taking my best shot and hoping it hits net.
+
+1h ago
 
 ---
 
@@ -93,83 +117,59 @@ https://arxiv.org/abs/2605.18311 There’s a massive trend right now where compa
 
 ---
 
-**[Is AI genuinely useful for learning a new skill from scratch, or does it just give you the illusion of progress?](https://www.reddit.com/r/artificial/comments/1uqoqd8/is_ai_genuinely_useful_for_learning_a_new_skill/)**
-
-I've been trying to pick up a new skill recently and leaned heavily on AI assistants throughout the process. At first it felt incredible. Instant explanations, personalized examples, answers to every followup question without judgment. Way better than staring at a textbook or waiting for a forum reply. But after a few weeks I noticed something uncomfortable. I could have a great conversation with an AI about a concept and feel like I totally understood it, then sit down to actually apply it and realize I'd barely retained anything. The AI was so good at making explanations feel satisfying that I kept moving forward without the friction that probably makes real learning stick. This made me wonder if the problem is with AI specifically or just with how easy access to answers affects learning in general. Search engines probably did something similar. But AI feels different because the interaction is conversational and almost socially rewarding, which might make the illusion stronger. Has anyone else run into this? Do you think AI tools are a net positive for actually building skills, or are they better suited for people who already have a foundation and just need a fast reference? Curious whether anyone has found ways to use AI without replacing the struggle that makes things click. Alt titles: Are AI tutors making us feel smarter without actually making us smarter | Does learning with AI create a false sense of understanding | AI for skill building: shortcut or trap
-
-10h ago
-
----
-
-**[Leaned too heavily on AI](https://www.reddit.com/r/artificial/comments/1ur2fqw/leaned_too_heavily_on_ai/)**
-
-This happened whilst studying a on CS conversation masters. BI dev by trade (self taught non-stem background). The web development assignment opens and I start asking the LLM questions. At first I told it not to return code, and then I told it that I wanted to see some code, and then I copied and pasted the code to see what it would look like when rendered - in that moment, I knew that I'd crossed a line as the course has a strict no copy and pasting code from LLMs policy. I tried writing some code by hand, but having started the assessment a bit later than I should have, I told myself a story that if I understood the code, then it would be OK. Big mistake. 3 weeks in after essentially vibe coding, I look at the code and realize that I don't know it as well as I thought I did - so I decide to stop using AI and go to Google. Straight into the old struggle - bugs, not getting syntax right etc. Something that I hadn't felt in a while.. At this point I should have deleted everything and started from scratch without AI, but I believed that I wouldn't be able to get everything done in time - I had become so reliant on AI that I'd forgotten what it feels like to start a coding project in a new language - a struggle at first, but once you get to grips with the syntax, everything's fine. So instead of deleting everything and starting a fresh using Google search, I panicked and decided that I'd refactor the code without using AI. During this process, I realized that the way it had spat some things out was quite over the top. I also realized that the project itself wasn't as hard as I thought it would be if I'd only had the courage to try.. Two big lessons learned: I'd been cheating myself out of learning for too long due to using AI wrongly (for my goals). This seems obvious now - I was outsourcing the problem solving/ thinking to a machine, which jumped straight to the solution. It created the illusion of learning because I was managing to get stuff done, but all the while my learning muscle was atrophying. The hyper focus came back as soon as I stopped using AI. I hadn't experienced it so intensely in a while, probably coensiding with when I started using LLMs. It's obviously linked to the dopamine feedback loop of rolling with the problem solving, which AI was short circuiting. After submitting, I decided that the project wasn't fit for purpose and told my tutors to recall it. Not only was I cheating myself, but also my cohort and tutors. I actually want to learn the material from the ground up and gain a little muscle memory in the process. The only way to slap something like this down fully is to own the consequences. So I'll be re-submitting the module with a cap. I've learnt that I enjoy programming much more when not using an LLM. It may be different at work for the repetitive stuff, but for actual proper learning and the joy of programming, I'm going to be using my brain from now on.
-
-1h ago
-
----
-
-**[How should a high school student choose a major in the age of AI?](https://www.reddit.com/r/artificial/comments/1uqnwm3/how_should_a_high_school_student_choose_a_major/)**
-
-My younger brother is in high school and will be choosing a university major soon. He recently asked me what he should study, and it made me think about this more seriously. With AI developing so fast, choosing a major feels more complicated than before. It’s not just about what has a good salary now, but also what kind of work may still have value if more tasks become automated. One thing I keep thinking about is how to become harder to replace. For example, medicine still seems relatively safe in the short term. Not just because doctors know a lot, but because the work involves licensing, trust, responsibility, physical diagnosis, patient communication, and high-stakes decisions. But outside of medicine, I’m less sure. Should students choose majors connected to the physical world? Fields that require human trust and accountability? Something interdisciplinary, where AI becomes a tool rather than the whole job? Or is the major itself less important than building judgment, communication, problem framing, and real domain expertise? If a high school student today wants to avoid being easily replaced or optimized away by AI in the future, what should they consider when choosing a university major?
-
-11h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Opinion | Did We Make the Wrong Bet on Big A.I.?](https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html)**
+
+The New York Times • 3h ago
+
+---
 
 **[Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/)**
 
 As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.
 
-WIRED • 22h ago
+WIRED • 1d ago
 
 ---
 
-**[Introducing Muse Image: Image Generation Built for Your World](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/)**
+**[Meta AI now lets people make deepfakes from public Instagram photos without explicit consent](https://www.nbcnews.com/tech/social-media/meta-ai-muse-instagram-deepfakes-rcna353480)**
 
-Muse Image is the first image generation model from Meta Superintelligence Labs, now available in Meta AI.
+Meta’s new Muse AI can generate realistic images based on public Instagram images including of many celebrities and public figures.
 
-Meta Store • 1d ago
-
----
-
-**[Meta is building its first big Canadian data center as AI expansion crosses the border](https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html)**
-
-Meta is building its first big Canadian data center as AI expansion crosses the border.
-
-CNBC • 1h ago
+NBC News • 1h ago
 
 ---
 
-**[Opinion | We Are Losing the Ability to Discover What We Didn’t Know to Ask](https://www.nytimes.com/2026/07/08/opinion/ai-google-gemini-search-questions.html)**
+**[Anyone on Instagram can now use your public posts for AI fodder. Here's how to stop them.](https://www.businessinsider.com/meta-new-muse-image-ai-model-default-instagram-sharing-rules-2026-7)**
 
-The New York Times • 15h ago
+Meta's new Muse Image AI lets Instagram users share and modify other people's public posts, sparking privacy concerns about content reuse.
 
----
-
-**[Best 3 Copper Stocks To Buy For The AI Boom](https://seekingalpha.com/article/4920707-best-3-copper-stocks-to-buy-for-the-ai-boom)**
-
-AI data center demand is an emerging structural tailwind for copper, alongside the energy transition and defense. Discover the top 3 copper stocks for the AI boom.
-
-Seeking Alpha • 28m ago
+Business Insider • 1h ago
 
 ---
 
-**[NEWSLETTER: China weighs silicon curtain around sought-after AI models](https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/)**
+**[As Top Streamers Battle Churn, Emerging AI Start-Up Versus Offers Ways To Hold On To Viewers](https://deadline.com/2026/07/streamers-churn-emerging-ai-startup-versus-viewers-1236977566/)**
 
-Reuters • 43m ago
+As churn continues to bedevil top streamers, emerging firm Versus has used AI to help Disney+, HBO Max, Paramount+ and others keep viewers in the fold.
+
+Deadline • 45m ago
 
 ---
 
-**[Brown Professor Suspects Most of His Class Used AI to Cheat](https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat)**
+**["We cannot choose to become idiots": The AI cheating scandal roiling Brown University](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)**
 
-Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.
+AI cheating leads to "a failed society," professor says.
 
-Inside Higher Ed • 13h ago
+Ars Technica • 23m ago
+
+---
+
+**[Former executive accuses Mayo of cutting corners on AI research](https://www.startribune.com/former-executive-accuses-mayo-of-cutting-corners-on-ai-research/601865855)**
+
+Star Tribune • 25m ago
 
 ---
 
@@ -177,7 +177,7 @@ Inside Higher Ed • 13h ago
 
 Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.
 
-x.ai • 2h ago
+x.ai • 4h ago
 
 ---
 
@@ -185,15 +185,13 @@ x.ai • 2h ago
 
 With AI straining Earth’s infrastructure, space-tech startup Starcloud is developing orbital data centers designed to meet the world’s growing computing needs.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+**[China to Let AI Firms Buy Nvidia H200s, Information Says](https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says)**
 
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
-
-mistral.ai • 6h ago
+Bloomberg • 6h ago
 
 ---
 
@@ -211,7 +209,7 @@ GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus an
 
 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
 
-⬆️ 479 • 💬 184 • 15h ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+⬆️ 491 • 💬 190 • 16h ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 
 ---
 
@@ -219,7 +217,7 @@ GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus an
 
 Welcome to LTT Labs - your go-to destination for all things tech. Explore comprehensive test results, insightful commentary, and the latest analysis in hardware.
 
-⬆️ 373 • 💬 260 • 2d ago • [LTT Labs](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
+⬆️ 373 • 💬 261 • 2d ago • [LTT Labs](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
 
 ---
 
@@ -227,7 +225,7 @@ Welcome to LTT Labs - your go-to destination for all things tech. Explore compre
 
 Your AI-built product works, but past 100,000 lines every change breaks two things. Three senior engineers make your codebase maintainable again. One week, fixed price, guaranteed.
 
-⬆️ 293 • 💬 226 • 1d ago • [odra.dev](https://odra.dev/slopfix/)
+⬆️ 295 • 💬 226 • 1d ago • [odra.dev](https://odra.dev/slopfix/)
 
 ---
 
@@ -257,7 +255,13 @@ Instead, buy domestic product, and out in the open.
 
 **[Automating AI Away](https://news.ycombinator.com/item?id=48818937)**
 
-⬆️ 128 • 💬 61 • 1d ago • [replicated.live](https://replicated.live/blog/away)
+⬆️ 129 • 💬 61 • 1d ago • [replicated.live](https://replicated.live/blog/away)
+
+---
+
+**[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
+
+⬆️ 129 • 💬 56 • 4h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
 
 ---
 
@@ -269,55 +273,27 @@ Anthropic spends 2.3x payroll on compute. Top software firms spend 0.4x. Three s
 
 ---
 
-**[YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood](https://news.ycombinator.com/item?id=48815117)**
-
-After Garry Tan touted his agentic coding output, a developer found inefficiencies, code bloat, and rookie mistakes lurking in production.
-
-⬆️ 114 • 💬 98 • 1d ago • [Fast Company](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[Claude Just Crossed The Consciousness Line And Anthropic Admitted It](https://www.youtube.com/watch?v=M5-3c6mzq0U)**
+**[AI BUSINESS SUMMIT - DAY 1](https://www.youtube.com/watch?v=vgAgAECjQTA)**
 
-Claude may have just crossed the consciousness line. Anthropic found a hidden workspace inside Claude where thoughts ...
+Welcome to Day 1 Register here: https://aibusinesssummit.com/ What you'll see live: • Simple ways to use AI to save time • How ...
 
-📺 AI Revolution
+📺 Alicia Lyttle
 
-👁️ 22K • 👍 1K • 💬 172 • ⏱️ 15:13 • 21h ago
-
----
-
-**[The #1 Ai Business Summit (Day 1) - Live With Alicia Lyttle!](https://www.youtube.com/watch?v=cm41RFooLYM)**
-
-Join the Ai Business Summit: https://aibusinesssummit.com?el=Nehemiah-Davis.
-
-📺 Circle of Greatness with Nehemiah Davis
-
-👁️ 4K • 👍 281 • 8h ago
+👁️ 62K • 👍 4K • 2d ago
 
 ---
 
-**[We just figured out how AI actually works (J-Space)](https://www.youtube.com/watch?v=bjHuGNo3spk)**
+**[Apple Lost the AI Race](https://www.youtube.com/watch?v=eWKY0OnPByg)**
 
-If scale is your next challenge check out DigitalOcean: https://do.co/matthewberman Join My Newsletter for Regular AI Updates ...
+Apple lost the AI race. Actually, Apple won the AI race. Wait. That shirt: http://shop.MKBHD.com Playlist of MKBHD Intro music: ...
 
-📺 Matthew Berman
+📺 Marques Brownlee
 
-👁️ 65K • 👍 3K • 💬 696 • ⏱️ 25:34 • 17h ago
-
----
-
-**[THE LARGEST AI Companies CONFIRMED The BUBBLE Is STARTING TO EXPLODE...](https://www.youtube.com/watch?v=opZWszJvwaE)**
-
-Meta's latest AI announcement may have revealed one of the biggest investment stories on Wall Street. After committing nearly ...
-
-📺 Wall Street Truthbombs
-
-👁️ 9K • 👍 712 • 💬 144 • ⏱️ 11:11 • 6h ago
+👁️ 206K • 👍 20K • 💬 2K • ⏱️ 7:04 • 2h ago
 
 ---
 
@@ -327,7 +303,27 @@ The BEST AI Video Generator https://www.youtube.com/watch?v=AtIrM3OS9q8 In this 
 
 📺 Youri van Hofwegen
 
-👁️ 7K • ⏱️ 8:40 • 5h ago
+👁️ 11K • ⏱️ 8:40 • 7h ago
+
+---
+
+**[The Best Google AI Tools (I Tried Them All)](https://www.youtube.com/watch?v=tPOR7PES5Sk)**
+
+Go from ABSOLUTE ZERO to using AI like the people who do this for a living   ...
+
+📺 Parker Prompts
+
+👁️ 13K • 💬 7 • ⏱️ 9:23 • 9h ago
+
+---
+
+**[Making 3 AI&#39;s Count to 100 Together](https://www.youtube.com/watch?v=MXEInc6Zy7Q)**
+
+I cut about 20 minutes of dead space and rambling and exactly's out of this to make it somewhat watchable. but in total it took ...
+
+📺 Husk IRL
+
+👁️ 11K • 👍 2K • 💬 793 • ⏱️ 22:45 • 5h ago
 
 ---
 
@@ -337,47 +333,47 @@ ATT Business: Switch to AT&T Business at business.att.com Paleovalley: 30 for $3
 
 📺 Tom Bilyeu
 
-👁️ 99K • 👍 3K • 💬 822 • ⏱️ 34:31 • 1d ago
+👁️ 103K • 👍 3K • 💬 815 • ⏱️ 34:31 • 1d ago
 
 ---
 
-**[Companies are killing themselves with AI | David Gerard](https://www.youtube.com/watch?v=wAgecpbLYkI)**
+**[Claude Just Crossed The Consciousness Line And Anthropic Admitted It](https://www.youtube.com/watch?v=M5-3c6mzq0U)**
 
-It's the surviving companies that will rehire, the others will have killed themselves with AI.” Author and host of Pivot to AI David ...
+Claude may have just crossed the consciousness line. Anthropic found a hidden workspace inside Claude where thoughts ...
 
-📺 The Tech Report
+📺 AI Revolution
 
-👁️ 16K • 👍 1K • 💬 355 • ⏱️ 32:15 • 3h ago
-
----
-
-**[🔴 LIVE | KARURETWA ATI “MWITEGURE INTAMBARA” BABESHYEYE KAGAME NGO AHAGARARIYE AI, DUHAGURUKIRE FPR](https://www.youtube.com/watch?v=mmz2LjN-DL8)**
-
-Muri iyi live kuri BADRAMA TV, turagaruka ku magambo akomeye yavuzwe na Karuretwa aho yavuze ati “Mwitegure,” ndetse ...
-
-📺 Badrama TV
-
-👁️ 1K • 👍 67 • 1h ago
+👁️ 24K • 👍 1K • 💬 174 • ⏱️ 15:13 • 22h ago
 
 ---
 
-**[The Big Ways AI Just Changed](https://www.youtube.com/watch?v=WUeMqk_ABmY)**
+**[We just figured out how AI actually works (J-Space)](https://www.youtube.com/watch?v=bjHuGNo3spk)**
 
-June marked a pivot from token-subsidized experimentation to token scarcity, forcing enterprises to prioritize cost, efficiency, and ...
+If scale is your next challenge check out DigitalOcean: https://do.co/matthewberman Join My Newsletter for Regular AI Updates ...
 
-📺 The AI Daily Brief: Artificial Intelligence News
+📺 Matthew Berman
 
-👁️ 4K • 👍 129 • 💬 6 • ⏱️ 17:57 • 23h ago
+👁️ 73K • 👍 3K • 💬 722 • ⏱️ 25:34 • 19h ago
 
 ---
 
-**[Local Ai&#39;s Biggest Challenge Yet - Ai News Today](https://www.youtube.com/watch?v=_KNjASionIo)**
+**[Two 24-Year-Olds Just Beat NVIDIA](https://www.youtube.com/watch?v=Brlu437Iqio)**
 
-Wondering what happened to the Qwen 3.7 open source release? Maybe this new proposed pullback from the Chinese ...
+LIMITLESS HQ ⬇️ EMAIL US: info@limitless.fm NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: ...
 
-📺 Digital Spaceport
+📺 Limitless Podcast
 
-👁️ 21K • 👍 2K • 💬 235 • ⏱️ 25:38 • 19h ago
+👁️ 13K • 👍 536 • 💬 61 • ⏱️ 27:23 • 1d ago
+
+---
+
+**[The Moment America Realized China Won the AI Race](https://www.youtube.com/watch?v=2TwEWXO9_S8)**
+
+China is winning the AI Race and if you need proof you just need to see look at how American companies are now dumping ...
+
+📺 Cyrus Janssen
+
+👁️ 64K • 👍 4K • 💬 273 • ⏱️ 10:28 • 2d ago
 
 ---
 
@@ -393,7 +389,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,683,711 • ❤️ 1,833 • 10d ago
+⬇️ 1,683,711 • ❤️ 1,840 • 10d ago
 
 ---
 
@@ -405,7 +401,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 121 • ❤️ 552 • 2d ago
+⬇️ 121 • ❤️ 555 • 2d ago
 
 ---
 
@@ -417,7 +413,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 281,584 • ❤️ 3,654 • 6d ago
+⬇️ 281,584 • ❤️ 3,661 • 6d ago
 
 ---
 
@@ -429,7 +425,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,084,945 • ❤️ 1,862 • 5d ago
+⬇️ 1,084,945 • ❤️ 1,869 • 5d ago
 
 ---
 
@@ -441,7 +437,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 14,723 • ❤️ 396 • 5d ago
+⬇️ 14,723 • ❤️ 397 • 5d ago
 
 ---
 
@@ -453,7 +449,7 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 9,458 • ❤️ 306 • 4d ago
+⬇️ 9,458 • ❤️ 308 • 4d ago
 
 ---
 
@@ -477,7 +473,7 @@ A compact, instruction-tuned 4B parameter language model based on Qwen3, optimiz
 
 `text-generation` `4.0B`
 
-⬇️ 3,886 • ❤️ 186 • 3d ago
+⬇️ 3,886 • ❤️ 186 • 4d ago
 
 ---
 
@@ -489,7 +485,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,823,988 • ❤️ 2,570 • 2mo ago
+⬇️ 2,823,988 • ❤️ 2,573 • 2mo ago
 
 ---
 
@@ -515,7 +511,7 @@ Leanstral 1.5 119B A6B is a multimodal (text/image) code agent for Lean 4, featu
 
 Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.
 
-▲ 34 • 💬 2 • ⭐ 452 • 3d ago
+▲ 35 • 💬 2 • ⭐ 452 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05247) • [💻 code](https://github.com/Robbyant/lingbot-vision) • [🔗 project](https://technology.robbyant.com/lingbot-vision)
 
@@ -581,7 +577,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 51 • 💬 5 • ⭐ 13,675 • 17d ago
+▲ 51 • 💬 5 • ⭐ 13,698 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -620,7 +616,7 @@ A large-scale multiplayer world model trained on extensive gameplay data demonst
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 25 • 💬 3 • ⭐ 10,275 • 2mo ago
+▲ 26 • 💬 3 • ⭐ 10,275 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -647,7 +643,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 LingBot-VLA 2.0 enhances generalization across tasks and embodiments through expanded data preprocessing and training on diverse robot configurations, extends action space to include whole-body degrees of freedom for complex manipulation tasks, and incorporates predictive dynamics modeling using video representation and depth estimation for improved temporal reasoning.
 
-▲ 10 • 💬 1 • ⭐ 265 • 2d ago
+▲ 11 • 💬 1 • ⭐ 265 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.06403) • [💻 code](https://github.com/robbyant/lingbot-vla-v2) • [🔗 project](https://technology.robbyant.com/lingbot-vla-v2)
 
@@ -663,7 +659,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 77.9k • 🔱 4.1k • 1d ago
+⭐ 78.0k • 🔱 4.2k • 1d ago
 
 ---
 
@@ -673,7 +669,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.6k • 🔱 1.1k • 3h ago
+⭐ 11.7k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -683,7 +679,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.8k • 🔱 903 • 1h ago
+⭐ 6.8k • 🔱 905 • 6m ago
 
 ---
 
@@ -693,7 +689,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 6.6k • 🔱 847 • 2h ago
+⭐ 6.6k • 🔱 849 • 3h ago
 
 ---
 
@@ -703,7 +699,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 3.8k • 🔱 828 • 6h ago
+⭐ 3.8k • 🔱 834 • 7h ago
 
 ---
 
@@ -713,7 +709,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.6k • 🔱 218 • 22h ago
+⭐ 2.6k • 🔱 218 • 1d ago
 
 ---
 
@@ -733,7 +729,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 1.7k • 🔱 241 • 3h ago
+⭐ 1.7k • 🔱 244 • 5h ago
 
 ---
 
@@ -753,7 +749,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 1.5k • 🔱 167 • 7h ago
+⭐ 1.5k • 🔱 168 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-08T20:43:50.379870+00:00'
+updated: '2026-07-08T22:06:24.790750+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 20:43 UTC  
+**Last Updated:** July 08, 2026 at 22:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** +2.2%  
-**30d:** +6.0%  
-**90d:** -22.6%  
-**1y:** -37.2%  
+**24h:** -1.7%  
+**7d:** +2.4%  
+**30d:** +6.2%  
+**90d:** -22.5%  
+**1y:** -37.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $209.40B
+**Market Cap:** $209.86B
 Rank #2
 
 **Circulating Supply:** 120,683,133 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.9%
+-64.8%
 
 **All-Time Low:** $0.43
-+400794.7%
++401580.0%
 
 ---
 
@@ -164,19 +164,27 @@ PR Newswire • 2d ago
 
 ---
 
+**[Bitmine's Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum's total supply](https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply)**
+
+Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.
+
+The Block • 2d ago
+
+---
+
+**[Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-73-144145212.html)**
+
+BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins](https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/)**
 
 Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
 
-CryptoSlate • 22h ago
-
----
-
-**[Vitalik Buterin says Ethereum's next rebuild will rival the Merge, and take three to four years](https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years)**
-
-He said quantum safety has "shifted up a LOT in priority" and that Hegota, slated for later this year, will likely be Ethereum's last "pre-Lean" hard fork.
-
-The Block • 3d ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -188,19 +196,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Vitalik Buterin Outlines 'Lean Ethereum' Roadmap, a Three-to-Four-Year Protocol Overhaul](https://thedefiant.io/news/blockchains/vitalik-buterin-outlines-lean-ethereum-roadmap-a-three-to-four-year-protocol-overhaul)**
-
-Ethereum co-founder Vitalik Buterin laid out an updated "Lean Ethereum" roadmap in a post on X Saturday, describing a three-to-four-year overhaul he…
-
-The Defiant • 2d ago
-
----
-
 **[Current price of Ethereum for July 8, 2026](https://fortune.com/article/price-of-ethereum-07-08-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 9h ago
 
 ---
 
@@ -216,7 +216,7 @@ markets.businessinsider.com • 1d ago
 
 Cryptocurrencies are broadly extending declines on Wednesday, after last week’s recovery. The sell-off has seen Bitcoin (BTC) slide below $62,000, increasing downside risks toward the next key support at $60,000.
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
@@ -232,23 +232,23 @@ Coinpedia • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin &amp; Ethereum&#39;s Biggest Test Is Happening RIGHT NOW (Targets)](https://www.youtube.com/watch?v=BlmXuZRpzcQ)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 2K • 👍 255 • 💬 94 • ⏱️ 16:41 • 4h ago
-
----
-
 **[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 670 • 👍 73 • 💬 30 • ⏱️ 13:21 • 4h ago
+👁️ 1K • 👍 113 • 💬 23 • ⏱️ 13:21 • 5h ago
+
+---
+
+**[Bitcoin &amp; Ethereum&#39;s Biggest Test Is Happening RIGHT NOW (Targets)](https://www.youtube.com/watch?v=BlmXuZRpzcQ)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 4K • 👍 325 • 💬 114 • ⏱️ 16:41 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Micha�
 
 📺 New Era Finance Podcast
 
-👁️ 12K • 👍 432 • 💬 51 • ⏱️ 34:28 • 1d ago
+👁️ 14K • 👍 466 • 💬 56 • ⏱️ 34:28 • 1d ago
 
 ---
 
@@ -268,37 +268,17 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 11K • 👍 1K • 💬 412 • ⏱️ 13:04 • 23h ago
+👁️ 12K • 👍 1K • 💬 349 • ⏱️ 13:04 • 1d ago
 
 ---
 
-**[Why Ethereum Is Headed to $20,000+](https://www.youtube.com/watch?v=HFsuTTrdW7Y)**
+**[BITCOIN WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FOQ1UEuK00Q)**
 
-Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
+BITCOIN WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Credible Crypto
+📺 Crypto World
 
-👁️ 17K • 👍 1K • 💬 102 • ⏱️ 1:03:11 • 2d ago
-
----
-
-**[This Ethereum Trendline Is About to Decide Fate Of Altcoins](https://www.youtube.com/watch?v=OJk4XTvUcE8)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 7K • 👍 449 • 💬 212 • ⏱️ 19:01 • 1d ago
-
----
-
-**[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
-
-In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
-
-📺 The Value Thinker
-
-👁️ 12K • 👍 736 • 💬 154 • ⏱️ 21:46 • 20h ago
+👁️ 745 • 👍 72 • 💬 49 • ⏱️ 19:56 • 48m ago
 
 ---
 
@@ -308,17 +288,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 198 • 👍 15 • 💬 11 • ⏱️ 4:52 • 10h ago
+👁️ 219 • 👍 16 • 💬 11 • ⏱️ 4:52 • 11h ago
 
 ---
 
-**[Ethereum Is Betting Everything on This Roadmap](https://www.youtube.com/watch?v=BE2BM522-Q0)**
+**[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
 
-Ethereum is trying to solve five major problems at once — speed, decentralization, economics, privacy, and even quantum ...
+In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
 
-📺 CoinGecko
+📺 The Value Thinker
 
-👁️ 9K • 👍 393 • 💬 126 • ⏱️ 10:28 • 2d ago
+👁️ 13K • 👍 759 • 💬 156 • ⏱️ 21:46 • 22h ago
+
+---
+
+**[This Ethereum Trendline Is About to Decide Fate Of Altcoins](https://www.youtube.com/watch?v=OJk4XTvUcE8)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 449 • 💬 198 • ⏱️ 19:01 • 1d ago
 
 ---
 
@@ -329,6 +319,16 @@ Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy In th
 📺 Digital Asset Investor
 
 👁️ 27K • 👍 2K • 💬 11 • ⏱️ 20:10 • 2d ago
+
+---
+
+**[Ethereum Is Betting Everything on This Roadmap](https://www.youtube.com/watch?v=BE2BM522-Q0)**
+
+Ethereum is trying to solve five major problems at once — speed, decentralization, economics, privacy, and even quantum ...
+
+📺 CoinGecko
+
+👁️ 10K • 👍 409 • 💬 102 • ⏱️ 10:28 • 2d ago
 
 ---
 

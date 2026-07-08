@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T20:43:50.382426+00:00'
+updated: '2026-07-08T22:06:24.793972+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 20:43 UTC  
+**Last Updated:** July 08, 2026 at 22:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,19 +118,19 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 6h ago
+mistral.ai • 8h ago
 
 ---
 
 **[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Bloomberg • 6h ago
+Bloomberg • 8h ago
 
 ---
 
 **[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
 
-Reuters • 4h ago
+Reuters • 6h ago
 
 ---
 
@@ -138,21 +138,13 @@ Reuters • 4h ago
 
 Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-Forbes • 20h ago
+Forbes • 22h ago
 
 ---
 
 **[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
 
-Nature • 5h ago
-
----
-
-**[NVIDIA (NVDA) Opens New Doors for Robotics Developers – Here’s How](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-opens-doors-robotics-120038440.html)**
-
-NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best Stocks to Buy in Glen Kacher’s Light Street Portfolio. On July 6, 2026, NVIDIA Corporation (NASDAQ:NVDA) expanded its partnership with Hugging Face to integrate its Isaac GR00T 1.7 foundation model and Isaac Teleop framework into the open-source LeRobot library. The collaboration connects NVIDIA Corporation’s (NASDAQ:NVDA) three […]
-
-Yahoo Finance • 8h ago
+Nature • 6h ago
 
 ---
 
@@ -164,9 +156,11 @@ Ars Technica • 1d ago
 
 ---
 
-**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
+**[NVIDIA (NVDA) Opens New Doors for Robotics Developers – Here’s How](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-opens-doors-robotics-120038440.html)**
 
-Honolulu Civil Beat • 1d ago
+NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best Stocks to Buy in Glen Kacher’s Light Street Portfolio. On July 6, 2026, NVIDIA Corporation (NASDAQ:NVDA) expanded its partnership with Hugging Face to integrate its Isaac GR00T 1.7 foundation model and Isaac Teleop framework into the open-source LeRobot library. The collaboration connects NVIDIA Corporation’s (NASDAQ:NVDA) three […]
+
+Yahoo Finance • 10h ago
 
 ---
 
@@ -174,7 +168,13 @@ Honolulu Civil Beat • 1d ago
 
 Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
 
-Fortune • 13h ago
+Fortune • 15h ago
+
+---
+
+**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
+
+Honolulu Civil Beat • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ Fortune • 13h ago
 
 The Columbus-based startup solves a massive bottleneck for early-stage automation companies by embedding fractional sales teams to navigate complex enterprise deals. Backed by new capital and institutional scale, the acquisition aims to position the region as the country's premier tech corridor.
 
-Ohio Tech News • 10h ago
+Ohio Tech News • 12h ago
 
 ---
 
@@ -196,7 +196,35 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 45K • 👍 2K • 💬 441 • ⏱️ 20:21 • 20h ago
+👁️ 48K • 👍 2K • 💬 452 • ⏱️ 20:21 • 21h ago
+
+---
+
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
+
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
+
+📺 AI Revolution
+
+👁️ 99K • 👍 2K • 💬 474 • ⏱️ 13:32 • 3d ago
+
+---
+
+**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
+
+📺 GUYMANITOR
+
+👁️ 19K • 👍 111 • 💬 3 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+
+📺 Future Core
+
+👁️ 130K • 👍 3K • 💬 233 • ⏱️ 10:56 • 4d ago
 
 ---
 
@@ -210,49 +238,33 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 ---
 
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
+**[I Built My First AI Robot](https://www.youtube.com/watch?v=Sf-nklw0ljQ)**
 
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
+Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a robot from scratch named Bop — powered by an NVIDIA ...
 
-📺 AI Revolution
+📺 Coding with Lewis
 
-👁️ 98K • 👍 2K • 💬 472 • ⏱️ 13:32 • 3d ago
-
----
-
-**[Automatic Handwriting Machine #Shorts #automatic #handwriting #machine #robotics #brpvlogs999](https://www.youtube.com/watch?v=Mw7PuHOWrtU)**
-
-📺 BRP Vlogs999
-
-👁️ 9K • 👍 19 • ⏱️ 0:09 • 12h ago
+👁️ 30K • 👍 1K • 💬 62 • ⏱️ 10:19 • 6d ago
 
 ---
 
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+**[Humanoid robots take to the pitch in South Korea at RoboCup 2026 finals](https://www.youtube.com/watch?v=cnf0iODmv7o)**
 
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+Can't get enough of the World Cup? Or perhaps you're looking for a way to get into sports. Well, look no further. Sunday marked ...
 
-📺 Future Core
+📺 Global News
 
-👁️ 127K • 👍 3K • 💬 232 • ⏱️ 10:56 • 3d ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 54K • 👍 3K • 💬 132 • ⏱️ 11:20 • 2d ago
+👁️ 17K • 👍 62 • 💬 9 • ⏱️ 3:00 • 3d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=aIamULUXZI0)**
+**[This Chinese Robot Dog Can Go Anywhere — CRW20 Combat Wolf](https://www.youtube.com/watch?v=k0_N1JS7Iy0)**
 
-📺 Robot Julie 
+This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, and carries a rifle-mounted payload with ease ...
 
-👁️ 31K • 👍 193 • 💬 2 • ⏱️ 0:22 • 2d ago
+📺 Armourdesia Military Hardware
+
+👁️ 187K • 👍 4K • 💬 564 • ⏱️ 0:31 • 6d ago
 
 ---
 
@@ -262,27 +274,17 @@ In this video I cover some of the behind the scenes of starting a robotics compa
 
 📺 Austen Hartley
 
-👁️ 15K • 👍 710 • 💬 70 • ⏱️ 18:50 • 1d ago
+👁️ 17K • 👍 771 • 💬 72 • ⏱️ 18:50 • 1d ago
 
 ---
 
-**[Meet Bop, my first ever robot](https://www.youtube.com/watch?v=BXi4-BwVTg0)**
+**[Chinese company unveils humanoid robot to combat loneliness | AFP](https://www.youtube.com/watch?v=Z4PbTRf32Nw)**
 
-Meet Bop, my first ever robot Runs on Mistral. Talks with Voxtral. Keeps bopping into walls. Full build on the main channel.
+Chinese robotics company UBTech has unveiled its new bionic humanoid robots powered by artificial intelligence and marketed ...
 
-📺 Coding with Lewis
+📺 AFP News Agency
 
-👁️ 6K • 👍 403 • 💬 14 • ⏱️ 1:23 • 1d ago
-
----
-
-**[A Robot&#39;s Success Rate Jumped From 20% to 92% - By Debugging Itself](https://www.youtube.com/watch?v=VHdD9xqRu0o)**
-
-Sources ASPIRE — NVIDIA Research (official) | https://research.nvidia.com/labs/gear/aspire/ ASPIRE: Agentic Skills Discovery for ...
-
-📺 Jason Lowe on AI
-
-👁️ 4K • 👍 445 • 💬 24 • ⏱️ 1:41 • 1d ago
+👁️ 29K • 👍 990 • 💬 199 • ⏱️ 1:55 • 5d ago
 
 ---
 
