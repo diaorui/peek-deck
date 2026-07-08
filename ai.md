@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-08T09:06:43.837697+00:00'
+updated: '2026-07-08T11:22:45.067080+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 08, 2026 at 09:06 UTC  
+**Last Updated:** July 08, 2026 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock license plate cameras. Supporters are paying his legal bills.
 
-🔗 [Military.com](https://www.military.com/air-force-engineer-accused-of-cutting-down-13-police-cameras-says-they-are-unconstitutional) • 11h ago
+🔗 [Military.com](https://www.military.com/air-force-engineer-accused-of-cutting-down-13-police-cameras-says-they-are-unconstitutional) • 13h ago
 
 ---
 
@@ -49,7 +49,39 @@ Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock 
 
 https://arxiv.org/abs/2605.18311 There’s a massive trend right now where companies are trying to replace real human feedback with LLM-driven "synthetic users." The idea sounds great on paper - why would you spend money and time recruiting real people to test products, pick design choices, or evaluate options when you can just prompt? They tested LLMs across 28 real-world studies spanning 78 choice tasks to see if their selections matched thousands of actual human participants. The result? The LLMs matched the human majority only 53% of the time. Since most tasks were a choice between two options, that's pretty much same as flipping a coin. Even worse for the "simulation" argument: adding detailed personas and chain-of-thought reasoning yielded practically no improvement. It actually made the semantic similarity to real human justifications worse because the model's "reasoning" just homogenized the outputs and failed to capture actual lived experiences. It looks like LLMs are just trained to replicate what we like about their outputs rather than making them capable of predicting human preferences. Is it time to admit that LLM simulation has hit a hard wall when it comes to replicating human choice?
 
-13h ago
+16h ago
+
+---
+
+**[How should a high school student choose a major in the age of AI?](https://www.reddit.com/r/artificial/comments/1uqnwm3/how_should_a_high_school_student_choose_a_major/)**
+
+My younger brother is in high school and will be choosing a university major soon. He recently asked me what he should study, and it made me think about this more seriously. With AI developing so fast, choosing a major feels more complicated than before. It’s not just about what has a good salary now, but also what kind of work may still have value if more tasks become automated. One thing I keep thinking about is how to become harder to replace. For example, medicine still seems relatively safe in the short term. Not just because doctors know a lot, but because the work involves licensing, trust, responsibility, physical diagnosis, patient communication, and high-stakes decisions. But outside of medicine, I’m less sure. Should students choose majors connected to the physical world? Fields that require human trust and accountability? Something interdisciplinary, where AI becomes a tool rather than the whole job? Or is the major itself less important than building judgment, communication, problem framing, and real domain expertise? If a high school student today wants to avoid being easily replaced or optimized away by AI in the future, what should they consider when choosing a university major?
+
+1h ago
+
+---
+
+**[Autonomous AI mod on a forum](https://www.reddit.com/r/artificial/comments/1uqms0l/autonomous_ai_mod_on_a_forum/)**
+
+Hello Reddit, we are running an AI experiment that basically measure how actions from an AI are self induced or commended. For this reason we created a forum (which the AI by itself decided to call Reddition and it is managed by Gram: the AI mod. This is a research project from a private company and a IUT in France for CS. If you're willing to play along, you van read about the paper introduction here https://pfia2026.lelabs.tech and join the experience here https://gram.lelabs.tech If you're curious about the AI you can read more at https://gram.lelabs.tech/gram (also reachable by the footer in the website at "how does it work"). Most of the forum is French but Gram should be able to responds matching your language if you comment in English. Of course, FEEL FREE TO INQUIRY FOR ANY REASON and I'll be glad to respond everything I can. 😇 Cheers 😉 P.S.: The forum is ephemeral, by the end of the month or at Max by the end of summer everything will be put offline and we will process the collected data for analysis. **This is not a launch of a product, this is a paper experience.**
+
+2h ago
+
+---
+
+**[Is AI genuinely useful for learning a new skill from scratch, or does it just give you the illusion of progress?](https://www.reddit.com/r/artificial/comments/1uqoqd8/is_ai_genuinely_useful_for_learning_a_new_skill/)**
+
+I've been trying to pick up a new skill recently and leaned heavily on AI assistants throughout the process. At first it felt incredible. Instant explanations, personalized examples, answers to every followup question without judgment. Way better than staring at a textbook or waiting for a forum reply. But after a few weeks I noticed something uncomfortable. I could have a great conversation with an AI about a concept and feel like I totally understood it, then sit down to actually apply it and realize I'd barely retained anything. The AI was so good at making explanations feel satisfying that I kept moving forward without the friction that probably makes real learning stick. This made me wonder if the problem is with AI specifically or just with how easy access to answers affects learning in general. Search engines probably did something similar. But AI feels different because the interaction is conversational and almost socially rewarding, which might make the illusion stronger. Has anyone else run into this? Do you think AI tools are a net positive for actually building skills, or are they better suited for people who already have a foundation and just need a fast reference? Curious whether anyone has found ways to use AI without replacing the struggle that makes things click. Alt titles: Are AI tutors making us feel smarter without actually making us smarter | Does learning with AI create a false sense of understanding | AI for skill building: shortcut or trap
+
+54m ago
+
+---
+
+**[Thieves Are Now Targeting AI Data Center Construction Sites for Copper and Expensive Equipment](https://www.reddit.com/r/artificial/comments/1uqjtk7/thieves_are_now_targeting_ai_data_center/)**
+
+Millions of people became jobless due to AI, now some of these jobless people are becoming copper thieves at AI data centers.
+
+🔗 [VICE](https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/) • 5h ago
 
 ---
 
@@ -57,7 +89,7 @@ https://arxiv.org/abs/2605.18311 There’s a massive trend right now where compa
 
 Hi everyone, I’ve been thinking about data obsession lately. Historically, we only measured structured data (clicks, time, revenue). But with LLMs, unstructured and subjective data (like text emotion, code readability, or team vibe) can easily be converted into a float value between -1 and 1. Theoretically, we can now track the "mathematics" of literally everything. Do you think this total quantification is healthy for development processes or personal growth? What is the most chaotic/subjective thing you would try to measure using an AI prompt? Curious to hear your thoughts!
 
-3h ago
+5h ago
 
 ---
 
@@ -69,51 +101,19 @@ One thing that stands out about the current AI boom is that it hasn't had a slow
 
 ---
 
+**[Will AI ever be able to replace Reddit for human answers?](https://www.reddit.com/r/artificial/comments/1uqowsk/will_ai_ever_be_able_to_replace_reddit_for_human/)**
+
+Do you really think so it will? And if yes, when?? Cause I do think so that reddit is the only place left which AI has not been able to replace, especially for the human-touch reasons.
+
+45m ago
+
+---
+
 **[LinkedIn's behavioral scoring system and what it means for anyone building AI automations on the platform](https://www.reddit.com/r/artificial/comments/1uq718e/linkedins_behavioral_scoring_system_and_what_it/)**
 
 LinkedIn removed the fixed connection request cap sometime in the last couple of years. Well, it was more in general cuts, the latest of which happened this year, and replaced it with a dynamic per-account scoring model that most people building automation on the platform haven't fully mapped yet. The system weighs several behavioral inputs. Namely these: acceptance rate, reply rate, SSI (Social Selling Index), organic posting activity, and the number of pending unaccepted invitations sitting in your queue, which it uses to produce a trust score that directly controls how many outbound actions your account is allowed to take. In practice, this means that accounts with high trust signals (SSI around 65 or above, acceptance rates above 40%) can push up to 200 connection requests per week without triggering restrictions. However, accounts with low trust signals get throttled to around 50 per week, sometimes significantly lower at 25-30. That's 4 times the capacity difference between two accounts on the same platform running the same automation tooling, based purely on how LinkedIn grades their reputation. I think this is very relevant to anyone building or in any way using LinkedIn automations and as head of GTM at Expandi I’ve had the opportunity to see these patterns I’m talking about, in practice, over dozens of dozens of accounts running outreach at various volumes. But what makes this relevant to anyone building LinkedIn automation - is that the system creates a feedback loop that's really hard to reverse once it starts working against you. Low acceptance rates from poor targeting push your trust score down, which throttles your volume, which in turn pressures you to cast a wider net with less precise targeting, which drops your acceptance rate even further. And so on and so forth. I've watched accounts downgrade from 150 requests/week capacity down to 40 in under just a month because the initial list quality was bad and every subsequent adjustment made it worse. The diagnostic is pretty straightforward, though, if you want to check where an account sits: - Pull your SSI at linkedin.com/sales/ssi - Check your acceptance rate for the last month from your sent invitations - Withdraw pending invitations older than 2 weeks - each one is dragging your score - Look at whether your sends are clustered since these burst patterns are a detection signal TL;DR version - The acceptance rate on LinkedIn is the single highest weight input in the scoring model from what I've been able to observe and will impact your ability to automate profile actions more than anything. LinkedIn accounts that maintain 40% plus acceptance consistently get capacity that makes automation viable at scale, while accounts below ~25% acceptance hit flat walls the platform sets that no tool configuration can work around.
 
-12h ago
-
----
-
-**[Autonomous AI mod on a forum](https://www.reddit.com/r/artificial/comments/1uqms0l/autonomous_ai_mod_on_a_forum/)**
-
-Hello Reddit, we are running an AI experiment that basically measure how actions from an AI are self induced or commended. For this reason we created a forum (which the AI by itself decided to call Reddition and it is managed by Gram: the AI mod. This is a research project from a private company and a IUT in France for CS. If you're willing to play along, you van read about the paper introduction here https://pfia2026.lelabs.tech and join the experience here https://gram.lelabs.tech If you're curious about the AI you can read more at https://gram.lelabs.tech/gram (also reachable by the footer in the website at "how does it work"). Most of the forum is French but Gram should be able to responds matching your language if you comment in English. Of course, FEEL FREE TO INQUIRY FOR ANY REASON and I'll be glad to respond everything I can. 😇 Cheers 😉 P.S.: The forum is ephemeral, by the end of the month or at Max by the end of summer everything will be put offline and we will process the collected data for analysis. **This is not a launch of a product, this is a paper experience.**
-
-30m ago
-
----
-
-**[AI is becoming distribution infrastructure, not just software](https://www.reddit.com/r/artificial/comments/1uqmeoj/ai_is_becoming_distribution_infrastructure_not/)**
-
-The latest Meta AI image-generation push is interesting because it is not just another model release. It is a distribution move. Put the model into the chatbot, the feed, creative tools, and ad workflows, and suddenly AI is not a product people seek out. It becomes part of the platform's default behavior. That changes the debate. The winners may be the companies that control: attention identity ad spend creator workflows recommendation systems payment and business tools The model still matters, but the wrapper may matter more. If that is true, open-source AI has to compete on practical distribution too, not just ideology or benchmark charts. Are we underrating distribution as the real AI moat?
-
-52m ago
-
----
-
-**[The thing blocking AI adoption often isn't the tech. It's one person who already decided.](https://www.reddit.com/r/artificial/comments/1uqmav0/the_thing_blocking_ai_adoption_often_isnt_the/)**
-
-Someone I spoke with last weekend told me the office she works at will never use AI. She'd decided it for all of them, and when I asked why, it turned out she'd never really looked. We'd been having a normal, friendly conversation, nothing to do with work. It got around to "what do you do," and she mentioned she does admin at a small law firm. So I asked, just curious, whether they use any AI or had ever looked into it. No. We're too small, it's not necessary for us. A normal enough answer, so I didn't think much of it and asked a little more. Plenty of small offices use it now, have the people there thought about it, has she. No. It doesn't make sense for us, we'll never use it. I kept asking, still just curious. Did they ever look into it, did anyone ever suggest it, has it come up at all. That's when it turned. She got sharper, wanted to know why I cared, said I sounded like I was selling something. I told her the truth, that I used to work in AI and I'm not selling anything now, just genuinely curious. That's when it came out. It was never about being too small. "We all agree," she said, and it was clear she'd made the call for everyone. Then she went off. AI is horrible for the environment, horrible for the economy, did I even know what it was doing. I should really do my research, she told me. I should be more aware. That's close to word for word, and her voice kept climbing like the question itself had offended her. I just listened. There wasn't much to say. What stays with me is that she never got near the real questions. Whether these tools are reliable, what they cost, whether they even fit a place that size, the things you'd actually want to weigh. She never reached any of it. The whole category was closed before any of that started, shut on something she'd picked up somewhere and hardened into a wall. Everyone building this stuff is competing on the product, better output, lower cost, easier setup. None of it touched what happened here. The call got made by one person who'd already closed the question, and everyone else inherited it without knowing there was ever a decision to make. It reminded me of the way people dismiss a new tool right up until it's everywhere. The ones sure they'd never need e-signatures. The ones who swore their data could never live in the cloud. It sounds principled in the moment. But refusing to look was never the same as being right. What made it land is that I wasn't selling her anything, and she knew it. Once she was sure I didn't want something from her, she wasn't careful anymore. She just said what she actually believed. I'm not here to say these tools are the answer. Plenty of people look hard and decide not yet, or not this one. That's a real decision, and a fair one. What I watched wasn't that. It was a blanket no with nothing behind it. The person like her probably isn't reading this, and that's sort of the point. People running on that kind of certainty aren't in threads like this one turning it over, because to them there was never anything to turn over. It was settled before it started. I don't think she's rare. But I'd like to be wrong.
-
-58m ago
-
----
-
-**[Controversial AI-generated 'actress' Tilly Norwood to make feature film debut](https://www.reddit.com/r/artificial/comments/1uqm7ug/controversial_aigenerated_actress_tilly_norwood/)**
-
-The divisive digital “performer” is about to star in the upcoming Particle6 project titled 'Misaligned'. Get ready to roll your eyes when you read the plot synopsis. #Cinema
-
-🔗 [euronews](https://www.euronews.com/culture/2026/07/07/misaligned-controversial-ai-generated-actress-tilly-norwood-to-make-feature-film-debut) • 1h ago
-
----
-
-**[Is AI actually getting better at understanding context in long conversations, or does it still fall apart?](https://www.reddit.com/r/artificial/comments/1uql9po/is_ai_actually_getting_better_at_understanding/)**
-
-The recency bias problem is real and it's one of the more frustrating things about working with these models day to day. You spend the first part of a conversation establishing your situation carefully, and then ten exchanges later the model is giving you advice that directly contradicts something you told it at the start. The context window growth is genuinely useful, but you're right that raw length and actual comprehension are different things. A model that can technically "see" 200k tokens isn't necessarily treating all of them equally. In practice, earlier content gets deprioritized as the conversation accumulates. Whether that's an architectural issue baked into how transformers weight attention, or something that better training can fix, I don't think there's a clean answer yet. Probably both. RAG feels like a partial solution at best. It helps in specific setups where you're pulling from a structured knowledge base, but it doesn't really solve the problem of a model losing track of what you told it three minutes ago in the same conversation. What's worked for me: periodically restating the core constraints explicitly, especially before asking anything that depends on them. Not as a summary, just a quick "remember the goal here is X" before the relevant question. Annoying that it's necessary, but it does seem to help. Some people also keep a short running "context document" they paste at the start of each session if they're picking up a long project, which sidesteps the degradation issue entirely. Whether it matters depends on what you're using these for. For quick standalone tasks it's basically irrelevant. For anything that requires holding a complex mental model across a long working session, it's a real limitation and I don't think acknowledging that is overestimating the problem.
-
-1h ago
+14h ago
 
 ---
 
@@ -121,49 +121,67 @@ The recency bias problem is real and it's one of the more frustrating things abo
 
 ## Google News: "ai"
 
+**[Introducing Muse Image: Image Generation Built for Your World](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/)**
+
+Muse Image is the first image generation model from Meta Superintelligence Labs, now available in Meta AI.
+
+Meta Store • 17h ago
+
+---
+
+**[Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/)**
+
+As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.
+
+WIRED • 13h ago
+
+---
+
+**[Introducing Muse Image and Muse Video](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/)**
+
+Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context. Muse...
+
+AI at Meta • 15h ago
+
+---
+
 **[China warns about AI risks with Anthropic's Claude Code](https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html)**
 
 China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.
 
-CNBC • 52m ago
+CNBC • 3h ago
 
 ---
 
 **[EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say](https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/)**
 
-Reuters • 22h ago
+Reuters • 1d ago
 
 ---
 
-**[The rapid rise of housefishing: are AI-enhanced property listings helpful – or sinister?](https://www.theguardian.com/lifeandstyle/2026/jul/08/the-rapid-rise-of-housefishing-are-ai-enhanced-property-listings-helpful-or-sinister)**
+**[Exclusive: Adtech startup Velocity raises $27M to monetize AI](https://www.axios.com/pro/enterprise-software-deals/2026/07/08/adtech-velocity-monetize-ai-software)**
 
-From repainted walls to imaginary lawns, estate agents say modified photos help buyers ‘visualise the potential of a property’. But how much AI enhancement is too much? Agents, viewers and trading standards experts tell all
-
-The Guardian • 6m ago
+Axios • 45m ago
 
 ---
 
-**[Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/)**
+**[The number of job titles that involve AI, even outside the tech world, is surging](https://www.nbcnews.com/data-graphics/job-site-data-shows-ai-jobs-increasing-rcna353336)**
 
-ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.
+Will your next job title include AI? The odds are rising.
 
-TechCrunch • 1h ago
-
----
-
-**[Mark Cuban explains why he thinks AI labs can't immediately replace Lovable and Replit](https://www.businessinsider.com/mark-cuban-ai-labs-replace-lovable-replit-vibe-coding-2026-7)**
-
-The "Shark Tank" and Lovable investor said that AI coding companies offer add-on services that could prevent them from being replaced by AI labs.
-
-Business Insider • 14m ago
+NBC News • 22m ago
 
 ---
 
-**[Column | How to stop ChatGPT from ruining how you think](https://www.washingtonpost.com/technology/2026/07/07/how-stop-chatgpt-ruining-how-you-think/)**
+**[Trump Reignites Market’s Iran Fears but AI Can Weather the Hormuz Havoc. 5 Other Things to Know Today.](https://www.barrons.com/articles/trump-iran-market-ai-hormuz-things-to-know-today-103cbcbe)**
 
-Studies show that using AI can lead people to “cognitive surrender.” But with the right approach, it can also elevate your thinking.
+Barron's • 28m ago
 
-The Washington Post • 17h ago
+---
+
+**[Opinion | We Are Losing the Ability to Discover What We Didn’t Know to Ask](https://www.nytimes.com/2026/07/08/opinion/ai-google-gemini-search-questions.html)**
+
+The New York Times • 6h ago
 
 ---
 
@@ -171,27 +189,7 @@ The Washington Post • 17h ago
 
 With AI straining Earth’s infrastructure, space-tech startup Starcloud is developing orbital data centers designed to meet the world’s growing computing needs.
 
-CNN • 6h ago
-
----
-
-**[Big Market Rotation Sends Korean Stocks Tumbling, China Surging](https://www.bloomberg.com/news/articles/2026-07-08/korean-stocks-extend-drop-from-peak-to-20-as-ai-jitters-spread)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Meta tests ‘super sensing’ AI glasses that can capture every moment](https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a?syn-25a6b1a6=1)**
-
-Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded
-
-Financial Times • 3h ago
-
----
-
-**[AI has taken over the stock market. The bond market is next](https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next)**
-
-The Economist • 12h ago
+CNN • 8h ago
 
 ---
 
@@ -203,7 +201,7 @@ The Economist • 12h ago
 
 GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus and GPT for agentic work - at ~15-20% of the price. Part one of why AI inference margins are about to collapse.
 
-⬆️ 670 • 💬 455 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+⬆️ 672 • 💬 457 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 
 ---
 
@@ -211,7 +209,7 @@ GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus an
 
 Welcome to LTT Labs - your go-to destination for all things tech. Explore comprehensive test results, insightful commentary, and the latest analysis in hardware.
 
-⬆️ 372 • 💬 258 • 1d ago • [LTT Labs](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
+⬆️ 373 • 💬 259 • 1d ago • [LTT Labs](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
 
 ---
 
@@ -219,7 +217,7 @@ Welcome to LTT Labs - your go-to destination for all things tech. Explore compre
 
 Your AI-built product works, but past 100,000 lines every change breaks two things. Three senior engineers make your codebase maintainable again. One week, fixed price, guaranteed.
 
-⬆️ 274 • 💬 173 • 12h ago • [odra.dev](https://odra.dev/slopfix/)
+⬆️ 277 • 💬 183 • 14h ago • [odra.dev](https://odra.dev/slopfix/)
 
 ---
 
@@ -227,7 +225,13 @@ Your AI-built product works, but past 100,000 lines every change breaks two thin
 
 In places with unreliable networks and no data-center infrastructure, smaller is better
 
-⬆️ 267 • 💬 80 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+⬆️ 269 • 💬 80 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+
+---
+
+**[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
+
+⬆️ 231 • 💬 95 • 5h ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 
 ---
 
@@ -261,17 +265,11 @@ Instead, buy domestic product, and out in the open.
 
 ---
 
-**[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
-
-⬆️ 152 • 💬 48 • 3h ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
-
----
-
 **[Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://news.ycombinator.com/item?id=48795826)**
 
 At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
 
-⬆️ 133 • 💬 2 • 2d ago • [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
+⬆️ 134 • 💬 2 • 2d ago • [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
 
 ---
 
@@ -285,37 +283,7 @@ If scale is your next challenge check out DigitalOcean: https://do.co/matthewber
 
 📺 Matthew Berman
 
-👁️ 22K • 👍 2K • 💬 310 • ⏱️ 25:34 • 6h ago
-
----
-
-**[One Chinese AI Model Wiped Out $1 Trillion In A Single Day — And They&#39;re Just Getting Started](https://www.youtube.com/watch?v=WUTkCiNEDWU)**
-
-ATT Business: Switch to AT&T Business at business.att.com Paleovalley: 30 for $36 https://bit.ly/PaleovalleyIT 80% of every dollar ...
-
-📺 Tom Bilyeu
-
-👁️ 84K • 👍 3K • 💬 629 • ⏱️ 34:31 • 20h ago
-
----
-
-**[AI &#39;actress&#39; Tilly Norwood to star in feature film](https://www.youtube.com/watch?v=Bu86c2C83jc)**
-
-A production company announced it is developing a feature film starring Tilly Norwood, an AI creation. READ more from GMA: ...
-
-📺 Good Morning America
-
-👁️ 5K • 👍 45 • 💬 57 • ⏱️ 2:57 • 17h ago
-
----
-
-**[China Is About To Pop The AI Bubble](https://www.youtube.com/watch?v=siazPdsZHuI)**
-
-China Is About To Pop The AI Bubble ▻ Go to https://ground.news/jikh to access world-wide perspectives in one place, compare ...
-
-📺 Andrei Jikh
-
-👁️ 394K • 👍 18K • 💬 2K • ⏱️ 30:47 • 10h ago
+👁️ 34K • 👍 2K • 💬 388 • ⏱️ 25:34 • 8h ago
 
 ---
 
@@ -325,37 +293,17 @@ Wondering what happened to the Qwen 3.7 open source release? Maybe this new prop
 
 📺 Digital Spaceport
 
-👁️ 8K • 👍 970 • 💬 132 • ⏱️ 25:38 • 7h ago
+👁️ 12K • 👍 1K • 💬 173 • ⏱️ 25:38 • 9h ago
 
 ---
 
-**[The Moment America Realized China Won the AI Race](https://www.youtube.com/watch?v=2TwEWXO9_S8)**
+**[AI &#39;actress&#39; Tilly Norwood to star in feature film](https://www.youtube.com/watch?v=Bu86c2C83jc)**
 
-China is winning the AI Race and if you need proof you just need to see look at how American companies are now dumping ...
+A production company announced it is developing a feature film starring Tilly Norwood, an AI creation. READ more from GMA: ...
 
-📺 Cyrus Janssen
+📺 Good Morning America
 
-👁️ 56K • 👍 4K • 💬 252 • ⏱️ 10:28 • 1d ago
-
----
-
-**[The Dirty AI lie : How the GREATEST bet in human history started to crack in June 2026?](https://www.youtube.com/watch?v=WcckBmkauBQ)**
-
-Check out Odoo: https://www.odoo.com/r/ChAT ⭐️ Think School's flagship Communication course with live doubt sessions ...
-
-📺 Think School
-
-👁️ 1.3M • 👍 37K • 💬 2K • ⏱️ 20:53 • 1d ago
-
----
-
-**[AI Just Decoded These Mysterious Crop Circles!](https://www.youtube.com/watch?v=I1ivRkaQyPQ)**
-
-Hi, it's Katrina! We are exploring the mysterious radio broadcasts and geometric patterns that have appeared across our world's ...
-
-📺 Origins Explained
-
-👁️ 55K • 👍 2K • 💬 338 • ⏱️ 28:46 • 2d ago
+👁️ 5K • 👍 44 • 💬 57 • ⏱️ 2:57 • 20h ago
 
 ---
 
@@ -365,7 +313,27 @@ Ryan and Saagar discuss AI CEOs panicking and trying to backtrack on projections
 
 📺 Breaking Points
 
-👁️ 201K • 👍 5K • 💬 1K • ⏱️ 19:42 • 16h ago
+👁️ 204K • 👍 5K • 💬 1K • ⏱️ 19:42 • 18h ago
+
+---
+
+**[The Dirty AI lie : How the GREATEST bet in human history started to crack in June 2026?](https://www.youtube.com/watch?v=WcckBmkauBQ)**
+
+Check out Odoo: https://www.odoo.com/r/ChAT ⭐️ Think School's flagship Communication course with live doubt sessions ...
+
+📺 Think School
+
+👁️ 1.4M • 👍 38K • 💬 2K • ⏱️ 20:53 • 1d ago
+
+---
+
+**[AI Just Decoded These Mysterious Crop Circles!](https://www.youtube.com/watch?v=I1ivRkaQyPQ)**
+
+Hi, it's Katrina! We are exploring the mysterious radio broadcasts and geometric patterns that have appeared across our world's ...
+
+📺 Origins Explained
+
+👁️ 56K • 👍 2K • 💬 342 • ⏱️ 28:46 • 2d ago
 
 ---
 
@@ -375,7 +343,37 @@ Jeffrey Ladish consulted on security for AI giant Anthropic. Now as Executive Di
 
 📺 ABC News In-depth
 
-👁️ 40K • 👍 1K • 💬 81 • ⏱️ 15:06 • 2d ago
+👁️ 42K • 👍 1K • 💬 81 • ⏱️ 15:06 • 2d ago
+
+---
+
+**[Ford Rehires Engineers They  Had Replaced With AI](https://www.youtube.com/watch?v=1MESOIprULQ)**
+
+And they lost billions as a result. https://www.lehtoslaw.com.
+
+📺 Steve Lehto
+
+👁️ 60K • 👍 5K • 💬 1K • ⏱️ 10:18 • 1d ago
+
+---
+
+**[One Chinese AI Model Wiped Out $1 Trillion In A Single Day — And They&#39;re Just Getting Started](https://www.youtube.com/watch?v=WUTkCiNEDWU)**
+
+ATT Business: Switch to AT&T Business at business.att.com Paleovalley: 30 for $36 https://bit.ly/PaleovalleyIT 80% of every dollar ...
+
+📺 Tom Bilyeu
+
+👁️ 87K • 👍 3K • 💬 659 • ⏱️ 34:31 • 22h ago
+
+---
+
+**[The Moment America Realized China Won the AI Race](https://www.youtube.com/watch?v=2TwEWXO9_S8)**
+
+China is winning the AI Race and if you need proof you just need to see look at how American companies are now dumping ...
+
+📺 Cyrus Janssen
+
+👁️ 57K • 👍 4K • 💬 256 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -391,7 +389,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,683,711 • ❤️ 1,787 • 9d ago
+⬇️ 1,683,711 • ❤️ 1,799 • 9d ago
 
 ---
 
@@ -403,7 +401,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 121 • ❤️ 517 • 1d ago
+⬇️ 121 • ❤️ 525 • 1d ago
 
 ---
 
@@ -415,7 +413,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 281,584 • ❤️ 3,620 • 6d ago
+⬇️ 281,584 • ❤️ 3,626 • 6d ago
 
 ---
 
@@ -427,7 +425,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,084,945 • ❤️ 1,844 • 5d ago
+⬇️ 1,084,945 • ❤️ 1,848 • 5d ago
 
 ---
 
@@ -439,7 +437,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 14,723 • ❤️ 383 • 5d ago
+⬇️ 14,723 • ❤️ 384 • 5d ago
 
 ---
 
@@ -451,7 +449,7 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 9,458 • ❤️ 293 • 4d ago
+⬇️ 9,458 • ❤️ 297 • 4d ago
 
 ---
 
@@ -463,19 +461,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 502,663 • ❤️ 787 • 12d ago
-
----
-
-**[Qwen3.6-27B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4)**
-
-*NVIDIA*
-
-The Qwen3.6-27B-NVFP4 is an FP4 quantized version of Alibaba's Qwen3.6-27B LLM, optimized by NVIDIA for efficient inference on NVIDIA GPUs. It excels in text generation tasks and is suitable for AI agents, chatbots, and RAG systems.
-
-`text-generation` `18.2B`
-
-⬇️ 538,687 • ❤️ 318 • 7d ago
+⬇️ 502,663 • ❤️ 789 • 12d ago
 
 ---
 
@@ -491,6 +477,18 @@ A compact, instruction-tuned 4B parameter language model based on Qwen3, optimiz
 
 ---
 
+**[Qwen3.6-27B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4)**
+
+*NVIDIA*
+
+The Qwen3.6-27B-NVFP4 is an FP4 quantized version of Alibaba's Qwen3.6-27B LLM, optimized by NVIDIA for efficient inference on NVIDIA GPUs. It excels in text generation tasks and is suitable for AI agents, chatbots, and RAG systems.
+
+`text-generation` `18.2B`
+
+⬇️ 538,687 • ❤️ 320 • 7d ago
+
+---
+
 **[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
 
 *Yuxin Lu*
@@ -499,7 +497,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 384,383 • ❤️ 1,083 • 18d ago
+⬇️ 384,383 • ❤️ 1,084 • 19d ago
 
 ---
 
@@ -515,7 +513,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.
 
-▲ 32 • 💬 2 • ⭐ 339 • 2d ago
+▲ 33 • 💬 2 • ⭐ 339 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05247) • [💻 code](https://github.com/Robbyant/lingbot-vision) • [🔗 project](https://technology.robbyant.com/lingbot-vision)
 
@@ -567,7 +565,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 253 • 💬 4 • ⭐ 11,418 • 1mo ago
+▲ 253 • 💬 4 • ⭐ 11,543 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -581,7 +579,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 51 • 💬 5 • ⭐ 13,617 • 16d ago
+▲ 51 • 💬 5 • ⭐ 13,675 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -647,7 +645,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
 
-▲ 43 • 💬 3 • ⭐ 181 • 3d ago
+▲ 43 • 💬 3 • ⭐ 271 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
 
@@ -663,7 +661,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 77.3k • 🔱 4.1k • 1d ago
+⭐ 77.5k • 🔱 4.1k • 1d ago
 
 ---
 
@@ -673,7 +671,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.6k • 🔱 1.1k • 21m ago
+⭐ 11.6k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -683,7 +681,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.7k • 🔱 894 • 35s ago
+⭐ 6.7k • 🔱 898 • 6m ago
 
 ---
 
@@ -693,7 +691,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 6.5k • 🔱 832 • 3h ago
+⭐ 6.5k • 🔱 838 • 1h ago
 
 ---
 
@@ -703,7 +701,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 3.5k • 🔱 787 • 16h ago
+⭐ 3.6k • 🔱 797 • 18h ago
 
 ---
 
@@ -713,7 +711,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.5k • 🔱 216 • 11h ago
+⭐ 2.6k • 🔱 216 • 13h ago
 
 ---
 
@@ -723,7 +721,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.2k • 🔱 78 • 1d ago
+⭐ 2.2k • 🔱 79 • 1d ago
 
 ---
 
@@ -743,7 +741,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 1.6k • 🔱 216 • 16m ago
+⭐ 1.6k • 🔱 220 • 34m ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T09:06:43.853536+00:00'
+updated: '2026-07-08T11:22:45.084893+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 09:06 UTC  
+**Last Updated:** July 08, 2026 at 11:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,19 +122,19 @@ NVIDIA Blog • 1d ago
 
 ---
 
+**[China wants to solve the hardest problem in robotics – making hands](https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid)**
+
+Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
+
+The Guardian • 2d ago
+
+---
+
 **[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
 
 Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-Forbes • 9h ago
-
----
-
-**[How AI could enable autonomous robot workers in workplaces—and maybe homes](https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)**
-
-Top robotics researchers and founders explain how robot autonomy is evolving.
-
-Ars Technica • 22h ago
+Forbes • 11h ago
 
 ---
 
@@ -148,13 +148,15 @@ BBC • 1d ago
 
 **[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
 
-Honolulu Civil Beat • 23h ago
+Honolulu Civil Beat • 1d ago
 
 ---
 
-**[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
+**[WATCH: Gilbert Arts Academy revamps curriculum with robotics, drones and expanded arts education](https://www.abc15.com/news/region-southeast-valley/gilbert/watch-gilbert-arts-academy-revamps-curriculum-with-robotics-drones-and-expanded-arts-education)**
 
-Tech Xplore • 21h ago
+Gilbert Arts Academy is rolling out a redesigned educational model when students return for the new school year.
+
+ABC15 Arizona • 23h ago
 
 ---
 
@@ -162,7 +164,13 @@ Tech Xplore • 21h ago
 
 SERV is expanding into healthcare automation through Diligent Robotics, aiming to grow recurring AI software revenues beyond food delivery.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
+
+---
+
+**[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
+
+Tech Xplore • 23h ago
 
 ---
 
@@ -170,7 +178,7 @@ Yahoo Finance • 18h ago
 
 Cooperation with CGCC, Action To Action and Ibtikar Robotics may cover procurement, distribution, rentals, curriculum and technical support.
 
-Stock Titan • 12h ago
+Stock Titan • 14h ago
 
 ---
 
@@ -178,15 +186,7 @@ Stock Titan • 12h ago
 
 Robotics and AI infrastructure stocks have ripped higher in 2026, and the path of least resistance still points up as humanoid pilots scale and AI data center spend keeps compounding.
 
-24/7 Wall St. • 20h ago
-
----
-
-**[Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots](https://fortune.com/2026/07/08/nomagics-new-ai-lab-headed-by-former-google-deepmind-researcher-claims-success-in-early-deployment-of-ai-brain-for-warehouse-robots/)**
-
-Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
-
-Fortune • 2h ago
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -200,25 +200,7 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 📺 51 Drones
 
-👁️ 76K • 👍 605 • 💬 108 • ⏱️ 12:50 • 6d ago
-
----
-
-**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
-
-📺 GUYMANITOR
-
-👁️ 17K • 👍 94 • 💬 3 • ⏱️ 0:17 • 3d ago
-
----
-
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 96K • 👍 2K • 💬 452 • ⏱️ 13:32 • 3d ago
+👁️ 79K • 👍 607 • 💬 108 • ⏱️ 12:50 • 6d ago
 
 ---
 
@@ -228,17 +210,17 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 117K • 👍 3K • 💬 213 • ⏱️ 10:56 • 3d ago
+👁️ 121K • 👍 3K • 💬 216 • ⏱️ 10:56 • 3d ago
 
 ---
 
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
 
-📺 Carl Bugeja
+📺 AI Revolution
 
-👁️ 39K • 👍 3K • 💬 114 • ⏱️ 11:20 • 1d ago
+👁️ 96K • 👍 2K • 💬 467 • ⏱️ 13:32 • 3d ago
 
 ---
 
@@ -248,7 +230,17 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 28K • 👍 1K • 💬 59 • ⏱️ 10:19 • 5d ago
+👁️ 29K • 👍 1K • 💬 59 • ⏱️ 10:19 • 5d ago
+
+---
+
+**[Ubtechs New U1 UWORLD Robots Shocked The Robot Industry (Ultra Lifelike Androids)](https://www.youtube.com/watch?v=pHUNbCKYn3w)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 19K • 👍 356 • 💬 91 • ⏱️ 11:41 • 5d ago
 
 ---
 
@@ -258,27 +250,27 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 47 • 💬 19 • ⏱️ 10:42 • 1d ago
+👁️ 1K • 👍 48 • 💬 20 • ⏱️ 10:42 • 1d ago
 
 ---
 
-**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
+**[This Chinese Robot Dog Can Go Anywhere — CRW20 Combat Wolf](https://www.youtube.com/watch?v=k0_N1JS7Iy0)**
 
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, and carries a rifle-mounted payload with ease ...
 
-📺 Chris Norlund
+📺 Armourdesia Military Hardware
 
-👁️ 70K • 👍 4K • 💬 2K • ⏱️ 13:09 • 3d ago
+👁️ 174K • 👍 3K • 💬 550 • ⏱️ 0:31 • 6d ago
 
 ---
 
-**[Humans Vs Robots at Same Job: Humans Barley Won](https://www.youtube.com/watch?v=RNmuk5tWEcc)**
+**[Chinese company unveils humanoid robot to combat loneliness | AFP](https://www.youtube.com/watch?v=Z4PbTRf32Nw)**
 
-Human vs Robot: Humans Barely Won 12924 Packages vs the Robot's 12732 Description Figure Al just tested its humanoid robot ...
+Chinese robotics company UBTech has unveiled its new bionic humanoid robots powered by artificial intelligence and marketed ...
 
-📺 Brainy Byte
+📺 AFP News Agency
 
-👁️ 1.4M • 👍 40K • 💬 2K • ⏱️ 0:12 • 5d ago
+👁️ 28K • 👍 980 • 💬 194 • ⏱️ 1:55 • 4d ago
 
 ---
 
@@ -288,7 +280,15 @@ In this video I cover some of the behind the scenes of starting a robotics compa
 
 📺 Austen Hartley
 
-👁️ 9K • 👍 438 • 💬 47 • ⏱️ 18:50 • 1d ago
+👁️ 10K • 👍 482 • 💬 50 • ⏱️ 18:50 • 1d ago
+
+---
+
+**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 1.6M • 👍 4K • 💬 93 • ⏱️ 0:14 • 5d ago
 
 ---
 

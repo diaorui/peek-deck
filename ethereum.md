@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-08T09:06:43.850695+00:00'
+updated: '2026-07-08T11:22:45.081727+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 09:06 UTC  
+**Last Updated:** July 08, 2026 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** +2.0%  
-**30d:** +5.8%  
-**90d:** -22.7%  
-**1y:** -37.3%  
+**24h:** -2.5%  
+**7d:** +2.2%  
+**30d:** +6.0%  
+**90d:** -22.6%  
+**1y:** -37.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $209.39B
+**Market Cap:** $209.73B
 Rank #2
 
 **Circulating Supply:** 120,683,133 ETH
@@ -62,7 +62,7 @@ No max supply
 -64.9%
 
 **All-Time Low:** $0.43
-+400621.5%
++401275.1%
 
 ---
 
@@ -148,17 +148,35 @@ Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once ag
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs](https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs)**
+**[Cardano Founder Hoskinson Claims Ethereum Is Secretly Copying Its Biggest Innovation](https://finance.yahoo.com/markets/crypto/articles/cardano-founder-hoskinson-claims-ethereum-102340368.html)**
 
-Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
+Charles Hoskinson claims Ethereum is copying Cardano's EUTXO model after a new native UTXO proposal targets state growth.
 
-The Block • 1d ago
+Yahoo Finance • 59m ago
 
 ---
 
-**[Binance Completes Integration of Solv Protocol (SOLV) on Ethereum (ERC20) Network, Opens Deposits and Withdrawals - 2026-07-08 | Binance announcement](https://www.binance.com/en/support/announcement/e5697b33b3c24ddbbff06d2dc121379c)**
+**[Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins](https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/)**
 
-Binance • 3h ago
+Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
+
+CryptoSlate • 13h ago
+
+---
+
+**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
+
+The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
+
+CoinDesk • 1d ago
+
+---
+
+**[1 Unstoppable Cryptocurrency to Buy Before It Soars 3,442%, According to Tom Lee of Fundstrat](https://www.fool.com/investing/2026/07/08/1-unstoppable-cryptocurrency-to-buy-before-it-soar/)**
+
+Ethereum may be down 40% for the year, but a near-term turnaround looks likely.
+
+The Motley Fool • 5m ago
 
 ---
 
@@ -186,14 +204,6 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
-
-The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
-
-CoinDesk • 1d ago
-
----
-
 **[Vitalik Buterin Outlines 'Lean Ethereum' Roadmap, a Three-to-Four-Year Protocol Overhaul](https://thedefiant.io/news/blockchains/vitalik-buterin-outlines-lean-ethereum-roadmap-a-three-to-four-year-protocol-overhaul)**
 
 Ethereum co-founder Vitalik Buterin laid out an updated "Lean Ethereum" roadmap in a post on X Saturday, describing a three-to-four-year overhaul he…
@@ -202,27 +212,19 @@ The Defiant • 1d ago
 
 ---
 
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces renewed selling, ETH weakens, XRP risks deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-renewed-selling-eth-weakens-xrp-risks-deeper-losses-202607080314)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) face renewed selling on Wednesday, extending their corrective move so far this week. BTC faced rejection at $64,000, and ETH failed to break above the 50-day Exponential Moving Average (EMA).
+
+FXStreet • 8h ago
+
+---
+
 **[Current price of Ethereum for July 7, 2026](https://fortune.com/article/price-of-ethereum-07-07-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
-
----
-
-**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
-
-DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
-
-markets.businessinsider.com • 15h ago
-
----
-
-**[Top Analyst Reveals A Key Level Which Will Trigger Bullish Rally For Ethereum](https://www.tradingview.com/news/coinpedia:71d43e971094b:0-top-analyst-reveals-a-key-level-which-will-trigger-bullish-rally-for-ethereum/)**
-
-Ethereum has recovered from yesterday’s sharp sell-off and is once again testing the crucial $1,800 resistance level. After falling to nearly $1,728 following Strategy’s $216 million Bitcoin sale, ETH has bounced back toward $1,800.However, this price zone has rejected Ethereum five times over the…
-
-TradingView • 1d ago
+Fortune • 22h ago
 
 ---
 
@@ -236,7 +238,7 @@ Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Micha�
 
 📺 New Era Finance Podcast
 
-👁️ 9K • 👍 343 • 💬 37 • ⏱️ 34:28 • 19h ago
+👁️ 10K • 👍 365 • 💬 38 • ⏱️ 34:28 • 21h ago
 
 ---
 
@@ -246,27 +248,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 420 • 💬 184 • ⏱️ 19:01 • 16h ago
-
----
-
-**[Why Ethereum Is Headed to $20,000+](https://www.youtube.com/watch?v=HFsuTTrdW7Y)**
-
-Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
-
-📺 Credible Crypto
-
-👁️ 16K • 👍 979 • 💬 102 • ⏱️ 1:03:11 • 1d ago
-
----
-
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=fpjYhW4BKdI)**
-
-In this video I break down the current Ethereum price action using Elliott Wave analysis to determine if the bearish trend is set to ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 126 • 💬 5 • ⏱️ 14:31 • 4h ago
+👁️ 7K • 👍 428 • 💬 202 • ⏱️ 19:01 • 18h ago
 
 ---
 
@@ -276,7 +258,27 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 8K • 👍 1K • 💬 323 • ⏱️ 13:04 • 11h ago
+👁️ 9K • 👍 1K • 💬 352 • ⏱️ 13:04 • 14h ago
+
+---
+
+**[Why Ethereum Is Headed to $20,000+](https://www.youtube.com/watch?v=HFsuTTrdW7Y)**
+
+Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
+
+📺 Credible Crypto
+
+👁️ 16K • 👍 992 • 💬 102 • ⏱️ 1:03:11 • 1d ago
+
+---
+
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=fpjYhW4BKdI)**
+
+In this video I break down the current Ethereum price action using Elliott Wave analysis to determine if the bearish trend is set to ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 157 • 💬 6 • ⏱️ 14:31 • 7h ago
 
 ---
 
@@ -286,7 +288,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 540 • 💬 129 • ⏱️ 21:46 • 9h ago
+👁️ 9K • 👍 595 • 💬 136 • ⏱️ 21:46 • 11h ago
 
 ---
 
@@ -296,7 +298,7 @@ Ethereum and Bitcoin are showing the market some interesting movements in the la
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 907 • 💬 462 • ⏱️ 13:04 • 22h ago
+👁️ 8K • 👍 910 • 💬 509 • ⏱️ 13:04 • 1d ago
 
 ---
 
@@ -306,7 +308,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 8K • 👍 296 • 💬 98 • ⏱️ 1:09:10 • 1d ago
+👁️ 8K • 👍 301 • 💬 98 • ⏱️ 1:09:10 • 1d ago
 
 ---
 
@@ -316,7 +318,7 @@ Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 495 • 💬 227 • ⏱️ 17:12 • 1d ago
+👁️ 10K • 👍 496 • 💬 227 • ⏱️ 17:12 • 1d ago
 
 ---
 
@@ -326,7 +328,7 @@ Ethereum is trying to solve five major problems at once — speed, decentralizat
 
 📺 CoinGecko
 
-👁️ 8K • 👍 343 • 💬 84 • ⏱️ 10:28 • 1d ago
+👁️ 8K • 👍 351 • 💬 107 • ⏱️ 10:28 • 2d ago
 
 ---
 
