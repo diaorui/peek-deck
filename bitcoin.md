@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-08T22:06:24.784615+00:00'
+updated: '2026-07-08T23:36:15.452485+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 22:06 UTC  
+**Last Updated:** July 08, 2026 at 23:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +1.2%  
-**30d:** +0.9%  
+**24h:** -2.1%  
+**7d:** +1.1%  
+**30d:** +0.8%  
 **90d:** -14.7%  
-**1y:** -44.1%  
+**1y:** -44.2%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Here is me saying bitcoin in July 2026](https://www.reddit.com/r/Bitcoin/comments/1ur0ses/here_is_me_saying_bitcoin_in_july_2026/)**
 
-3h ago
+5h ago
 
 ---
 
 **[BTC again😩🔥](https://www.reddit.com/r/Bitcoin/comments/1uqs7fc/btc_again/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 BULL BITCOIN is taking France’s highest administrative court to seek the annulment of DAC8, a new European law that puts millions of users at physical risk.
 
-9h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ BULL BITCOIN is taking France’s highest administrative court to seek the annul
 
 I came to USA in a student visa just to study Austrian Economics and take part in Bitcoin Conferences. I am now enrolled in MS in Business Analytics. I am working on few papers on Bitcoin’s Hash Rate and such. I am so done with formal education, but everything about Bitcoin is so cool. I am gonna graduate in this December, 2026. I am very eager to work in a Bitcoin Company. I would love to work in River Financial or Swan Bitcoin. I love Bitcoin and everything it has to offer to this dollar world.
 
-3h ago
+5h ago
 
 ---
 
@@ -109,13 +109,13 @@ I came to USA in a student visa just to study Austrian Economics and take part i
 
 Revolut just announced Lightning integration via Lightspark for UK and European users. 35 million people will soon use Lightning. The Bitcoin media is celebrating. I think we should slow down. Here's what Revolut is actually doing: NOT giving you a Lightning node NOT giving you channel keys NOT giving you any sovereignty It's custodial Lightning. Revolut holds the keys, manages the channels, can freeze your funds, and reports every payment to regulators. It's a bank account with Lightning rails. The real comparison nobody publishes: Revolut Lightning vs Self-Custodial LND: Key custody: Revolut vs YOU KYC: mandatory vs none Fund freezing: anytime vs impossible Privacy: zero vs strong (Tor) Routing fees: Revolut keeps vs you keep Sovereignty: none vs complete There are things the Revolut integration does validate: Lightning works at scale, network liquidity grows, Lightning Addresses get normalized. That matters. But 35 million surveilled custodial users is not what Lightning was designed for. Full article:https://davidebtc186.substack.com/p/revolut-lightning-good-news-or-a Donaet; [zap@shadowbip.com](mailto:zap@shadowbip.com)
 
-10h ago
+11h ago
 
 ---
 
 **[Bull Bitcoin is officially opening the first legal front against DAC8 in Europe - stacker.news](https://www.reddit.com/r/Bitcoin/comments/1uqxh7s/bull_bitcoin_is_officially_opening_the_first/)**
 
-🔗 [stacker.news](https://stacker.news/items/1521232/r/BITC0IN) • 5h ago
+🔗 [stacker.news](https://stacker.news/items/1521232/r/BITC0IN) • 7h ago
 
 ---
 
@@ -123,13 +123,13 @@ Revolut just announced Lightning integration via Lightspark for UK and European 
 
 Conduition and Jeremy Rubin joined Optech to discuss Newsletter #412.: Benchmarking SLH-DSA STARK aggregation Bird of Prey 2 (BoP-2) non-malleable schnorr and PQ signatures Lattice-based signatures Public key recovery for P2MR EC leaves Aligning privacy incentives in P2MR Prohibit merkle internal node preimages that encode minimal 64-byte transactions Triggering EC disabling with a NUMS point spend or hashrate majority And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/07/07/ Fountain: https://fountain.fm/episode/y6XkElTaP2wZFzmAsY8n Spotify: https://open.spotify.com/episode/3tHQacI9FTEYW3J2uLDX4d Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-412-recap/id1674626983?i=1000775973839
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/07/07/) • 6h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/07/07/) • 8h ago
 
 ---
 
 **[That time Gregory Maxwell sent 21M bitcoins to himself.](https://www.reddit.com/r/Bitcoin/comments/1uqu4t2/that_time_gregory_maxwell_sent_21m_bitcoins_to/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ Conduition and Jeremy Rubin joined Optech to discuss Newsletter #412.: Benchmark
 
 I'm trying to invest into other assets as have many people adviced. So just for my inspirqtion and information (roughly) what percentage of your investments is in BTC, stocks, ETF's, other crypto or any other type.
 
-4h ago
+5h ago
 
 ---
 
@@ -145,7 +145,7 @@ I'm trying to invest into other assets as have many people adviced. So just for 
 
 Hi everyone, I’ve spent a lot of time engaging with Bitcoin over the past five years, and now I want to make my own contribution to the space. After consuming countless podcasts, books, and so on, I found myself going deeper and deeper down the "time" rabbit hole—exploring the nature of time and its fundamental importance in the financial world and our society at large (calendars). Alongside my fascination with Bitcoin, I have a passion for watches, and I’d like to combine the two. I want to create the first digital Bitcoin wristwatch. I’d like to base the design on the Casio A168WA. It would display the block height, the time until the next block, and the current epoch. My question for you all is: would you wear or buy a watch like this? Or am I the only one? Thanks!
 
-6h ago
+8h ago
 
 ---
 
@@ -153,41 +153,45 @@ Hi everyone, I’ve spent a lot of time engaging with Bitcoin over the past five
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin price (BTC) falls back to $62,000 as Iran ceasefire collapses](https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp)**
+**[Live markets: Bitcoin drops to $62,000 as oil and bond yields surge on collapse of Iran ceasefire](https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp)**
 
 Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Michael Saylor’s Strategy Is Trapped by Its Own Broken Bitcoin Math](https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6)**
+**[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
 
 WSJ • 2d ago
 
 ---
 
-**[Michael Saylor's Strategy may have saved bitcoin from a bigger sell-off: 'A balancing force in the market'](https://finance.yahoo.com/markets/crypto/article/michael-saylors-strategy-may-have-saved-bitcoin-from-a-bigger-sell-off-a-balancing-force-in-the-market-154525468.html)**
+**[Eric Trump Says 'Stacking Continues' as American Bitcoin Amasses 8,000 BTC: 'We Continue to Differentiate Ourselves'](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-stacking-continues-040117728.html)**
 
-Bitcoin (BTC-USD) has had a dismal year, but its underperformance has been less severe than in previous crypto winters, Bernstein analysts pointed out.
+American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump celebrated on Tuesday after the company surpassed 8,000 Bitcoin (CRYPTO: BTC) in its corporate treasury holdings. ‘Onwards We Go’ Trump shared this in an X post, adding that the firm achieved a 52% mining profit margin in the first quarter and maintained “one of the lowest” Selling, General, and Administrative ratios—a measure of a company’s overhead costs relative to its total revenue—in the industry. “The stacking continues,” Trump sai
 
-Yahoo Finance • 2d ago
-
----
-
-**[Strategy sheds $216 million in Bitcoin in crypto hoarder’s largest sale ever](https://fortune.com/2026/07/06/michael-saylor-strategy-216-million-bitcoin-sale-largest-ever/)**
-
-The Bitcoin giant has reversed its crypto-hoarding strategy amid a broader market downturn.
-
-Fortune • 2d ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Economist warns Bitcoin bulls not to get their hopes up](https://sg.finance.yahoo.com/news/economist-warns-bitcoin-bulls-not-213815114.html)**
+**[🔎 Under the Radar: American Bitcoin Stock Slides After Reverse Stock Split](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-under-the-radar-american-bitcoin-stock-slides-after-reverse-stock-split-ZnKjsStkzpGy0kQDxx4g)**
 
-Bitcoin was trading near $62,068 at press time, down 3.5% in the past 24 hours and still roughly 50% below its October 2025 peak of $126,000. The extended slump is proving costly for companies that leaned hard into Bitcoin as a treasury asset. Strategy (NASDAQ: MSTR), long known for its ...
+WSJ • 1d ago
 
-Yahoo Finance Singapore • 28m ago
+---
+
+**[Trump-Backed American Bitcoin (ABTC) Pushes Treasury Past 8,000 BTC](https://bitcoinmagazine.com/news/trump-backed-american-bitcoin-abtc)**
+
+American Bitcoin (Nasdaq: ABTC) said its treasury has surpassed 8,000 BTC.
+
+Bitcoin Magazine • 2d ago
+
+---
+
+**[Crypto kiosks were used to scam $56 million from Texans last year. Lawmakers are calling for regulation.](https://www.texastribune.org/2026/07/08/texas-cryptocurrency-kiosk-bitcoin-atm-scam-fraud/)**
+
+The Texas Tribune • 13h ago
 
 ---
 
@@ -195,7 +199,7 @@ Yahoo Finance Singapore • 28m ago
 
 A bitcoin mining data center in Crossville is generating noise complaints from neighboring businesses, and city officials say they are considering a two-year moratorium on future data centers while they work to establish additional regulations.
 
-WVLT • 18h ago
+WVLT • 20h ago
 
 ---
 
@@ -207,27 +211,17 @@ Fortune • 2d ago
 
 ---
 
+**[The never-sell-Bitcoin company just sold Bitcoin](https://www.morningbrew.com/stories/the-never-sell-bitcoin-company-just-sold-bitcoin)**
+
+Strategy sold $216 million worth of Bitcoin at a loss to pay back investors.
+
+Morning Brew • 18h ago
+
+---
+
 **[Bitcoin Drops After Trump Says U.S.-Iran Cease-Fire Is Over](https://www.barrons.com/articles/bitcoin-price-trump-iran-75458510)**
 
-Barron's • 8h ago
-
----
-
-**[Bitcoin prices dip on Trump's Iran announcement, but it might not really mean anything](https://finance.yahoo.com/video/bitcoin-prices-dip-on-trumps-iran-announcement-but-it-might-not-really-mean-anything-164351518.html)**
-
-Bitcoin (BTC-USD) prices are falling after President Trump announced that the Iran ceasefire is "over." Scott Melker explains why this may not be significant.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 5h ago
-
----
-
-**[Bitcoin (BTC) Weakens as Trump’s Remarks Raise Fresh Iran War Concerns](https://www.bloomberg.com/news/articles/2026-07-08/bitcoin-btc-weakens-as-trump-s-remarks-raise-fresh-iran-war-concerns)**
-
-Bloomberg • 12h ago
+Barron's • 9h ago
 
 ---
 
@@ -241,7 +235,7 @@ ZeroNet is a decentralized network that enables dynamic sites, such as blogs and
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 14 • 💬 2 • 3d ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 14 • 💬 2 • 4d ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -257,7 +251,7 @@ Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 1h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
+⬆️ 2 • 💬 1 • 3h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
 
 ---
 
@@ -273,7 +267,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 Read this crypto post from greatHydra_997 posted on 2026/07/08 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 2 • 💬 0 • 3h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377612382/)
+⬆️ 2 • 💬 0 • 4h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377612382/)
 
 ---
 
@@ -301,7 +295,7 @@ The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altco
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 89 • ⏱️ 9:12 • 22h ago
+👁️ 33K • 👍 2K • 💬 89 • ⏱️ 9:12 • 1d ago
 
 ---
 
@@ -311,7 +305,7 @@ Lyn Alden breaks down the direct correlation between Bitcoin's recent consolidat
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 44 • 💬 30 • ⏱️ 0:36 • 9h ago
+👁️ 2K • 👍 44 • 💬 30 • ⏱️ 0:36 • 11h ago
 
 ---
 
@@ -351,7 +345,7 @@ Bitcoin isn't searching for a new narrative. It's searching for a new buyer. In 
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 324 • 💬 144 • ⏱️ 14:54 • 5h ago
+👁️ 7K • 👍 324 • 💬 144 • ⏱️ 14:54 • 7h ago
 
 ---
 
@@ -361,7 +355,7 @@ Strategy built their entire brand around never selling Bitcoin. Now they have a 
 
 📺 Galaxy
 
-👁️ 401 • 👍 3 • ⏱️ 0:37 • 2h ago
+👁️ 401 • 👍 3 • ⏱️ 0:37 • 3h ago
 
 ---
 
@@ -371,7 +365,7 @@ Bitcoin #Crypto #finance Bitcoin fell below $62K after renewed U.S.-Iran tension
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 610 • 💬 174 • ⏱️ 35:18 • 8h ago
+👁️ 12K • 👍 610 • 💬 174 • ⏱️ 35:18 • 9h ago
 
 ---
 
@@ -381,7 +375,7 @@ Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https:
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 153 • ⏱️ 11:24 • 9h ago
+👁️ 43K • 👍 3K • 💬 153 • ⏱️ 11:24 • 11h ago
 
 ---
 

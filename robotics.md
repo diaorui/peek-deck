@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T22:06:24.793972+00:00'
+updated: '2026-07-08T23:36:15.462909+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 22:06 UTC  
+**Last Updated:** July 08, 2026 at 23:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,19 +118,21 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 8h ago
+mistral.ai • 9h ago
 
 ---
 
 **[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Bloomberg • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
+**[China wants to solve the hardest problem in robotics – making hands](https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid)**
 
-Reuters • 6h ago
+Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
+
+The Guardian • 2d ago
 
 ---
 
@@ -138,13 +140,7 @@ Reuters • 6h ago
 
 Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-Forbes • 22h ago
-
----
-
-**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
-
-Nature • 6h ago
+Forbes • 23h ago
 
 ---
 
@@ -156,19 +152,19 @@ Ars Technica • 1d ago
 
 ---
 
-**[NVIDIA (NVDA) Opens New Doors for Robotics Developers – Here’s How](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-opens-doors-robotics-120038440.html)**
-
-NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best Stocks to Buy in Glen Kacher’s Light Street Portfolio. On July 6, 2026, NVIDIA Corporation (NASDAQ:NVDA) expanded its partnership with Hugging Face to integrate its Isaac GR00T 1.7 foundation model and Isaac Teleop framework into the open-source LeRobot library. The collaboration connects NVIDIA Corporation’s (NASDAQ:NVDA) three […]
-
-Yahoo Finance • 10h ago
-
----
-
 **[Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots](https://fortune.com/2026/07/08/nomagics-new-ai-lab-headed-by-former-google-deepmind-researcher-claims-success-in-early-deployment-of-ai-brain-for-warehouse-robots/)**
 
 Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
 
-Fortune • 15h ago
+Fortune • 16h ago
+
+---
+
+**[EXCLUSIVE: The Biggest Robotics Problem Isn't Batteries or AI. It's ROI](https://finance.yahoo.com/technology/articles/exclusive-biggest-robotics-problem-isnt-143113875.html)**
+
+The robotics industry has spent years trying to build smarter AI, more dexterous humanoids and longer-lasting batteries. But those may not be the hurdles preventing robots from going mainstream. The bigger challenge, according to Jerry Wang, Global Executive Chairman of...
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -178,11 +174,19 @@ Honolulu Civil Beat • 1d ago
 
 ---
 
+**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
+
+New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
+
+NVIDIA Blog • 1d ago
+
+---
+
 **[Vessel acquires Robot Sales Club, betting big on Ohio as a commercial robotics hub](https://www.ohiotechnews.com/vessel-acquires-robot-sales-club/)**
 
 The Columbus-based startup solves a massive bottleneck for early-stage automation companies by embedding fractional sales teams to navigate complex enterprise deals. Backed by new capital and institutional scale, the acquisition aims to position the region as the country's premier tech corridor.
 
-Ohio Tech News • 12h ago
+Ohio Tech News • 13h ago
 
 ---
 
@@ -196,7 +200,7 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 48K • 👍 2K • 💬 452 • ⏱️ 20:21 • 21h ago
+👁️ 48K • 👍 2K • 💬 452 • ⏱️ 20:21 • 23h ago
 
 ---
 
@@ -206,7 +210,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 99K • 👍 2K • 💬 474 • ⏱️ 13:32 • 3d ago
+👁️ 99K • 👍 2K • 💬 474 • ⏱️ 13:32 • 4d ago
 
 ---
 

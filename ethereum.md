@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-08T22:06:24.790750+00:00'
+updated: '2026-07-08T23:36:15.459111+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 22:06 UTC  
+**Last Updated:** July 08, 2026 at 23:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
+**24h:** -2.1%  
 **7d:** +2.4%  
-**30d:** +6.2%  
-**90d:** -22.5%  
-**1y:** -37.1%  
+**30d:** +6.3%  
+**90d:** -22.4%  
+**1y:** -37.0%  
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[RBLK tokens showing up under my wallet address on etherscan but they are not displaying on my cold wallet.](https://www.reddit.com/r/ethereum/comments/1uofsav/rblk_tokens_showing_up_under_my_wallet_address_on/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -148,6 +148,14 @@ Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once ag
 
 ## Google News: "ethereum"
 
+**[Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins](https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/)**
+
+Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
+
+CryptoSlate • 1d ago
+
+---
+
 **[Bitcoin, Ethereum, XRP Flat, Dogecoin Falls Amid Strategic Bitcoin Reserve Push: Analyst Says 'a Lot of' Upside to Come If BTC Does This](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-flat-dogecoin-023134561.html)**
 
 Leading cryptocurrencies moved sideways on Monday as high-profile Bitcoin sell-offs were offset by growing optimism for a Strategic Bitcoin Reserve. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:50 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.63%$63,925.65Ethereum (CRYPTO: ETH) +0.52%$1,794.35XRP (CRYPTO: XRP) -0.88%$1.14Solana (CRYPTO: SOL) +0.44%$81.97Dogecoin (CRYPTO: DOGE) -1.95%$0.07618 Bitcoin Dips And Then Rips Bitcoin dipped to the mid-$61,000 range in early trading after Strategy Inc. (NASDAQ
@@ -180,14 +188,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins](https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/)**
-
-Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
-
-CryptoSlate • 1d ago
-
----
-
 **[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
 
 The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
@@ -200,15 +200,15 @@ CoinDesk • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
-**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
+**[New Crypto Ethereum Based Pepeto Launches DeFi Exchange While Dogecoin and Shiba Inu Whales Rotate](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-launches-defi-exchange-while-dogecoin-and-shiba-inu-whales-rotate-1036308518)**
 
-DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
+DUBAI, United Arab Emirates, July  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto is getting ready to launch its innovative DeFi ...
 
-markets.businessinsider.com • 1d ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ markets.businessinsider.com • 1d ago
 
 Cryptocurrencies are broadly extending declines on Wednesday, after last week’s recovery. The sell-off has seen Bitcoin (BTC) slide below $62,000, increasing downside risks toward the next key support at $60,000.
 
-FXStreet • 9h ago
+FXStreet • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 113 • 💬 23 • ⏱️ 13:21 • 5h ago
+👁️ 1K • 👍 113 • 💬 23 • ⏱️ 13:21 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 325 • 💬 114 • ⏱️ 16:41 • 6h ago
+👁️ 4K • 👍 325 • 💬 114 • ⏱️ 16:41 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 745 • 👍 72 • 💬 49 • ⏱️ 19:56 • 48m ago
+👁️ 745 • 👍 72 • 💬 49 • ⏱️ 19:56 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 219 • 👍 16 • 💬 11 • ⏱️ 4:52 • 11h ago
+👁️ 219 • 👍 16 • 💬 11 • ⏱️ 4:52 • 12h ago
 
 ---
 
@@ -298,7 +298,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 13K • 👍 759 • 💬 156 • ⏱️ 21:46 • 22h ago
+👁️ 13K • 👍 759 • 💬 156 • ⏱️ 21:46 • 23h ago
 
 ---
 

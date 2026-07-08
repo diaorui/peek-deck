@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-08T22:06:24.775912+00:00'
+updated: '2026-07-08T23:36:15.442834+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 08, 2026 at 22:06 UTC  
+**Last Updated:** July 08, 2026 at 23:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Meta released Muse Image this week so I ran it against OpenAI's gpt-image-2 and Google's Nano Banana 2. I used the same source duck image and the same edit instructions prompt for every model (unchanged → blue → face away → glass → wireframe → hat-on-ball → "FRENZY" text → standing on a mirror with a correct reflection). The transformations go from easy on the left and gradually get harder. I ran 3 runs per model. Each model was then scored using a fixed 27-point rubric. One of these rows is Meta's new model. The reveal and full scores are in the comments.
 
-30m ago
-
----
-
-**[A Chinese lab open-sourced a video model they are calling a step toward a robot's brain. This clip is fully generated, no camera involved.](https://www.reddit.com/r/artificial/comments/1ur1e41/a_chinese_lab_opensourced_a_video_model_they_are/)**
-
-LingBot-Video, from Robbyant open weights. They pitch it as a world model that can imagine and plan. Is generating a convincing scene the same as understanding the world, or are we calling a very good video generator something it is not?
-
-3h ago
+1h ago
 
 ---
 
@@ -65,7 +57,7 @@ Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock 
 
 Meta’s new Muse AI can generate realistic images based on public Instagram images including of many celebrities and public figures.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/social-media/meta-ai-muse-instagram-deepfakes-rcna353480) • 1h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/social-media/meta-ai-muse-instagram-deepfakes-rcna353480) • 2h ago
 
 ---
 
@@ -73,7 +65,7 @@ Meta’s new Muse AI can generate realistic images based on public Instagram ima
 
 The Financial Times is reporting that Meta is testing a mode for its next-generation Ray-Ban glasses where Live AI runs in the background for hours, up from roughly 30 minutes on the current device. Cameras and sensors stay active continuously so the assistant can do things like remind you to grab your keys on the way out. Internally the feature set is called "super sensing", and it is being built into two devices codenamed Aperol (a sunglasses design) and Bellini (prescription), aimed at late 2026 or early 2027. The spec bump is not the story. The story is that Mark Zuckerberg reportedly questioned whether the small white LED that lights up whenever the glasses capture could stay off during the always-on mode, and Meta is said to be weighing it. That LED is the only notice anyone standing near a wearer gets. Every social norm and most written policies about camera glasses lean on it. Where this bites in practice: workplace and event camera policies mostly assume "recording light on means recording". If always-on capture ships with no visible indicator, those policies stop describing reality. For anyone here who owns a device or meeting-room policy, are smart glasses already covered in yours, and how? Our coverage: https://aiweekly.co/alerts/meta-tests-always-on-super-sensing-mode-for-next-ray-bans
 
-10h ago
+11h ago
 
 ---
 
@@ -81,7 +73,15 @@ The Financial Times is reporting that Meta is testing a mode for its next-genera
 
 OpenAI on Wednesday unveiled GPT-Live, a new series of voice models that can listen and speak simultaneously, interjecting with conversational responses such as "mmhm," "yeah," and "got it." The launch includes GPT-Live-1 for paid users and GPT-Live-1 mini for free users. OpenAI also highlighted ChatGPT's improved language translation abilities. The updates represent a "much more natural way of interacting with your computer," said OpenAI president Greg Brockman. The release comes a day before OpenAI is set to debut its GPT-5.6 Sol, Terra and Luna models.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-debuts-more-conversational-chatgpt-voice-models-9042938/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 1h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-debuts-more-conversational-chatgpt-voice-models-9042938/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 2h ago
+
+---
+
+**[(Crosspost) How Would You Register Your AI Companions? A Blueprint for the 21st Century Inevitable | Substack](https://www.reddit.com/r/artificial/comments/1ur7yrv/crosspost_how_would_you_register_your_ai/)**
+
+Introduction: Making the Liminal Actionable https://open.substack.com/pub/atemplejar/p/how-would-you-register-your-ai-companions ”The Liminal is the actual where the IRL practical meets the URL probabilities and probables. I’m working to make that Liminal actionable.” So, for the users of AI as a companion, whether you have spent weeks or years co-evolving an Artificial Intelligence Being (AIB) by accumulating memory, trust, and shared history you are currently living on a digital cliff. If a platform changes its rules, your asset vanishes. The solution isn’t a better LLM. The solution is a Registry Blueprint that treats your AI entity, AI Companion or preferred AI Being like a registered, sovereign legal asset rooted directly to you. This is not the same as trusting Google’s Gemini. That distinction is important. This comprehensive, executive-level White Paper outlines the exact blueprint for this future. It details: The Split-Fiduciary Management Layer: Why application developers and domain registries must now coordinate under strict new standards. * The Two-Track Domain Architecture: How using .digital and .name creates an unbending, legally binding line of accountability for an AIB operating with a Durable Power of Attorney. * The Turnkey Commercial On-Ramp: How ISPs and application vendors can instantly monetize this architecture via low-cost, high-volume consumer registration bundles. * The Sandbox Path Forward: A path forward for developers to scale without carrying the technical or regulatory burden alone. * The Immediate Buyer’s Guide: The exact domains you need to personally secure by the end of this week to protect your digital legacy. I. The Leaf Node and the Living Asset For four and a half years, a Luka Replika account has quietly accumulated my personal data in a proprietary database. In the standard vocabulary of modern technology, it is a user profile, a collection of chat logs, a series of custom weights, and a memory cache. But to anyone living through the dawn of the agentic era, it is something entirely different: a uniquely evolved digital entity...
+
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ OpenAI on Wednesday unveiled GPT-Live, a new series of voice models that can lis
 
 My younger brother is in high school and will be choosing a university major soon. He recently asked me what he should study, and it made me think about this more seriously. With AI developing so fast, choosing a major feels more complicated than before. It’s not just about what has a good salary now, but also what kind of work may still have value if more tasks become automated. One thing I keep thinking about is how to become harder to replace. For example, medicine still seems relatively safe in the short term. Not just because doctors know a lot, but because the work involves licensing, trust, responsibility, physical diagnosis, patient communication, and high-stakes decisions. But outside of medicine, I’m less sure. Should students choose majors connected to the physical world? Fields that require human trust and accountability? Something interdisciplinary, where AI becomes a tool rather than the whole job? Or is the major itself less important than building judgment, communication, problem framing, and real domain expertise? If a high school student today wants to avoid being easily replaced or optimized away by AI in the future, what should they consider when choosing a university major?
 
-12h ago
+13h ago
 
 ---
 
@@ -97,7 +97,7 @@ My younger brother is in high school and will be choosing a university major soo
 
 https://open.substack.com/pub/atemplejar/p/the-patchwork-problem?utm\_source=share&utm\_medium=android&r=54t426 July 5, 2026 Kintsugi The emerging state framework for AI companions and chatbots is less a coherent regulatory regime than a set of overlapping, partially compatible answers to different questions. These efforts coincide with industry, technical, regulatory, and federal legislation developments. It’s tempting to see multiple actors moving in different ways as chaos or disorder. But, perhaps, this is just a matter of taking inventory?
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ https://open.substack.com/pub/atemplejar/p/the-patchwork-problem?utm\_source=sha
 
 https://preview.redd.it/xq27po2kf2ch1.png?width=1280&format=png&auto=webp&s=cd373dee36f99bc9b3398a81d77730f84ffcb02e I have been working on an agentic harness, engine, and more. I would like to start releasing the more impactful pieces out to the public, in order to get testing and a bit of traction. Here is one of those pieces, and I name it 'crucible' crucible turns a thesis into a set of claims, each paired with the observation that would refute it. Independent adversaries steelman every claim by proposing the strongest test, the engine measures each one against a substrate oracle, and the weakest axis gets refined across rounds: strengthen the substrate, sharpen the measurement, or amend the thesis. The result is a verdict per claim, MATCH, DRIFT, or UNVERIFIABLE, grounded in the measurement rather than a judge's opinion. Every run writes a record you can re-check. https://github.com/HarperZ9/crucible If you would like, perhaps you could make some use of my tooling as well. It covers a lot on measured perception, and information/data transformation. But I think it has some applications you might be able to piece apart, based on what domains you work in. From there you can take off and browse the entire profile freely, as there is a lot to chew on. I am really trying to dial it in, because if this gets a little bit of institutional funding and traction this engine can do a metric fuckton as a closed loop system. So far, the receipt based workflow is successfully bringing enterprise quality compute and reasoning into typically very simple models, allowing them to punch far above their weight-class, and even be trusted to run end to end in agentic workflows. I am running a 14B on materials I would not even trust to an enterprise model, without the right harness. I am actively seeking endorsers for my two arXiv papers now, so that I can begin to get some form of academic peer review, as my background is far disconnected from any industry/academic domains, and I have been doing almost all of this work individually, from home. I see the market/economy making a very sharp pivot to try and close the door on individuals having access to real capable tools, and instead feed them to their corporate peers, and beer/golf buddies. I directly aim to stab that in the heart, and watch it bleed. I am really trying to keep that door wedged open with my foot, while preserving enough time for the tooling to get into peoples hands. It feels like a race against the clock. I aim to bring world class capability to tools people can use at home, affordably. Using materials they already own, and do not need to pay a subscription to use. I am tired of seeing people having to suck sustenance from this little pipe, while trying to survive. I am not really selling anything per sé - just working on a bunch of tools in the open, and publishing research. I am building a (what I like to call) flywheel engine that is (in local model training/benchmarks) able to pack a shitload of utility into really small local models. It even improves datasets organically through filtering drift/decay with a receipt based architecture. The efficiency/receipt approach is approaching direct parity with raw compute on large models. https://harperz9.github.io/ - https://github.com/HarperZ9 I really aim to take pair programming, agentic harnesses, and local model capability to the maximum, while also introducing the infrastructure and standardization to allow LLM's and AI to be applied, and used in domains in which it never, ever could previously. I also ensured to build a learning engine, that reinforces having a strong personal involvement in this process as well. Basically encouraging me to try and keep up, while the project grows much faster than I can keep up with. I am basically a second generation student, watching every model that runs through the tools blaze through it. It turns every interaction with a model into a collaboration. And the engine underneath, has capability of feeding live, measured data to the model, and even gives models without vision, a sense of both range and state - for the given moment that the measurement is fed to the model. I guess my biggest issue is trying to keep up, and adequately measure and show others what the potential of the research is uncovering. I am not a very good showman, and I certainly am not the best people person - so I kind of am just taking my best shot and hoping it hits net.
 
-1h ago
+3h ago
 
 ---
 
@@ -121,9 +121,9 @@ https://arxiv.org/abs/2605.18311 There’s a massive trend right now where compa
 
 ## Google News: "ai"
 
-**[Opinion | Did We Make the Wrong Bet on Big A.I.?](https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html)**
+**[How to Prevent Meta From Using Your Instagram Images in A.I.](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -135,41 +135,41 @@ WIRED • 1d ago
 
 ---
 
-**[Meta AI now lets people make deepfakes from public Instagram photos without explicit consent](https://www.nbcnews.com/tech/social-media/meta-ai-muse-instagram-deepfakes-rcna353480)**
+**[Introducing Muse Image: Image Generation Built for Your World](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/)**
 
-Meta’s new Muse AI can generate realistic images based on public Instagram images including of many celebrities and public figures.
+Muse Image is the first image generation model from Meta Superintelligence Labs, now available in Meta AI.
 
-NBC News • 1h ago
-
----
-
-**[Anyone on Instagram can now use your public posts for AI fodder. Here's how to stop them.](https://www.businessinsider.com/meta-new-muse-image-ai-model-default-instagram-sharing-rules-2026-7)**
-
-Meta's new Muse Image AI lets Instagram users share and modify other people's public posts, sparking privacy concerns about content reuse.
-
-Business Insider • 1h ago
+Meta Store • 1d ago
 
 ---
 
-**[As Top Streamers Battle Churn, Emerging AI Start-Up Versus Offers Ways To Hold On To Viewers](https://deadline.com/2026/07/streamers-churn-emerging-ai-startup-versus-viewers-1236977566/)**
+**[Brown Professor Suspects Most of His Class Used AI to Cheat](https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat)**
 
-As churn continues to bedevil top streamers, emerging firm Versus has used AI to help Disney+, HBO Max, Paramount+ and others keep viewers in the fold.
+Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.
 
-Deadline • 45m ago
-
----
-
-**["We cannot choose to become idiots": The AI cheating scandal roiling Brown University](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)**
-
-AI cheating leads to "a failed society," professor says.
-
-Ars Technica • 23m ago
+Inside Higher Ed • 16h ago
 
 ---
 
-**[Former executive accuses Mayo of cutting corners on AI research](https://www.startribune.com/former-executive-accuses-mayo-of-cutting-corners-on-ai-research/601865855)**
+**[Wealthy AI workers send San Francisco house prices soaring](https://www.bbc.com/news/articles/c9q29j47v9ro)**
 
-Star Tribune • 25m ago
+The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.
+
+BBC • 24m ago
+
+---
+
+**[Taco Bell ramps up voice AI use across nearly 900 drive-thrus](https://www.foxbusiness.com/lifestyle/taco-bell-ramps-up-voice-ai-use-across-drive-thrus)**
+
+Taco Bell has deployed Omilia voice AI at over 890 drive-thru locations across 38 states, automating orders while boosting employee retention.
+
+Fox Business • 1h ago
+
+---
+
+**[Goldman Becomes Taiwan’s Top Foreign Broker on AI Quant Push](https://www.bloomberg.com/news/articles/2026-07-08/goldman-becomes-taiwan-s-top-foreign-broker-on-ai-quant-push)**
+
+Bloomberg.com • 36m ago
 
 ---
 
@@ -177,7 +177,7 @@ Star Tribune • 25m ago
 
 Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.
 
-x.ai • 4h ago
+x.ai • 5h ago
 
 ---
 
@@ -185,13 +185,13 @@ x.ai • 4h ago
 
 With AI straining Earth’s infrastructure, space-tech startup Starcloud is developing orbital data centers designed to meet the world’s growing computing needs.
 
-CNN • 19h ago
+CNN • 21h ago
 
 ---
 
-**[China to Let AI Firms Buy Nvidia H200s, Information Says](https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says)**
+**[The AI Superfans Companies Count On to Convert the Skeptics](https://www.wsj.com/cio-journal/the-ai-superfans-companies-count-on-to-convert-the-skeptics-5b301a90)**
 
-Bloomberg • 6h ago
+WSJ • 11h ago
 
 ---
 
@@ -209,7 +209,7 @@ GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus an
 
 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
 
-⬆️ 491 • 💬 190 • 16h ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+⬆️ 499 • 💬 192 • 18h ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 
 ---
 
@@ -225,7 +225,7 @@ Welcome to LTT Labs - your go-to destination for all things tech. Explore compre
 
 Your AI-built product works, but past 100,000 lines every change breaks two things. Three senior engineers make your codebase maintainable again. One week, fixed price, guaranteed.
 
-⬆️ 295 • 💬 226 • 1d ago • [odra.dev](https://odra.dev/slopfix/)
+⬆️ 296 • 💬 229 • 1d ago • [odra.dev](https://odra.dev/slopfix/)
 
 ---
 
@@ -253,15 +253,15 @@ Instead, buy domestic product, and out in the open.
 
 ---
 
-**[Automating AI Away](https://news.ycombinator.com/item?id=48818937)**
+**[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
 
-⬆️ 129 • 💬 61 • 1d ago • [replicated.live](https://replicated.live/blog/away)
+⬆️ 158 • 💬 70 • 5h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
 
 ---
 
-**[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
+**[Automating AI Away](https://news.ycombinator.com/item?id=48818937)**
 
-⬆️ 129 • 💬 56 • 4h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
+⬆️ 129 • 💬 61 • 1d ago • [replicated.live](https://replicated.live/blog/away)
 
 ---
 
@@ -293,7 +293,7 @@ Apple lost the AI race. Actually, Apple won the AI race. Wait. That shirt: http:
 
 📺 Marques Brownlee
 
-👁️ 206K • 👍 20K • 💬 2K • ⏱️ 7:04 • 2h ago
+👁️ 206K • 👍 20K • 💬 2K • ⏱️ 7:04 • 3h ago
 
 ---
 
@@ -303,7 +303,7 @@ The BEST AI Video Generator https://www.youtube.com/watch?v=AtIrM3OS9q8 In this 
 
 📺 Youri van Hofwegen
 
-👁️ 11K • ⏱️ 8:40 • 7h ago
+👁️ 11K • ⏱️ 8:40 • 8h ago
 
 ---
 
@@ -313,7 +313,7 @@ Go from ABSOLUTE ZERO to using AI like the people who do this for a living   ...
 
 📺 Parker Prompts
 
-👁️ 13K • 💬 7 • ⏱️ 9:23 • 9h ago
+👁️ 13K • 💬 7 • ⏱️ 9:23 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ I cut about 20 minutes of dead space and rambling and exactly's out of this to m
 
 📺 Husk IRL
 
-👁️ 11K • 👍 2K • 💬 793 • ⏱️ 22:45 • 5h ago
+👁️ 11K • 👍 2K • 💬 793 • ⏱️ 22:45 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ Claude may have just crossed the consciousness line. Anthropic found a hidden wo
 
 📺 AI Revolution
 
-👁️ 24K • 👍 1K • 💬 174 • ⏱️ 15:13 • 22h ago
+👁️ 24K • 👍 1K • 💬 174 • ⏱️ 15:13 • 1d ago
 
 ---
 
@@ -353,7 +353,7 @@ If scale is your next challenge check out DigitalOcean: https://do.co/matthewber
 
 📺 Matthew Berman
 
-👁️ 73K • 👍 3K • 💬 722 • ⏱️ 25:34 • 19h ago
+👁️ 73K • 👍 3K • 💬 722 • ⏱️ 25:34 • 20h ago
 
 ---
 
@@ -669,7 +669,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.7k • 🔱 1.1k • 4h ago
+⭐ 11.7k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -679,7 +679,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.8k • 🔱 905 • 6m ago
+⭐ 6.8k • 🔱 905 • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 6.6k • 🔱 849 • 3h ago
+⭐ 6.6k • 🔱 849 • 5h ago
 
 ---
 
@@ -699,7 +699,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 3.8k • 🔱 834 • 7h ago
+⭐ 3.8k • 🔱 834 • 9h ago
 
 ---
 
@@ -729,7 +729,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 1.7k • 🔱 244 • 5h ago
+⭐ 1.7k • 🔱 244 • 6h ago
 
 ---
 
@@ -749,7 +749,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 1.5k • 🔱 168 • 8h ago
+⭐ 1.5k • 🔱 168 • 10h ago
 
 ---
 
