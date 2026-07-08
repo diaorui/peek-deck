@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T13:04:53.312596+00:00'
+updated: '2026-07-08T15:41:45.575376+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 13:04 UTC  
+**Last Updated:** July 08, 2026 at 15:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I sometimes need to tune the inertial property of the robot by changing the dens
 
 Have been building this project for a while now, and would love to get eyes on it. Will appreciate it if you could try it out in actual workflows and give me feedback so I can decide the direction to move in. Currently it has been benchmarked against OPEN3D v0.19 on the same machine, using full-resolution frames from three real datasets: TUM RGB-D, KITTI, and nuScenes-mini. In the table below, higher is better — a ratio above 1 means ThreeCrate is faster than Open3D. Workload How ThreeCrate compares Reading files (raw float parsing) 1.8x–2.2x faster Voxel downsampling (CPU) 1.6x–1.8x faster Voxel downsampling (GPU, wgpu) 1.8x–2.9x faster (vs our own CPU path, not Open3D) Normal estimation 0.57x–1.09x (falls behind on big clouds) Single-scale ICP 0.71x–0.99x (falls behind on big clouds) Would appreciate any contributions and feedback for the repo. Link to the repo: https://github.com/rajgandhi1/threecrate
 
-1d ago
+2d ago
 
 ---
 
@@ -68,7 +68,7 @@ Found this demo on their project page showing exactly the transparent-surface pr
 
 I see a lot of smaller parts are costlier than the usual sizes. Even for screws , it sometimes costs 2k rs. Why is this? Don't tell that it's because of the import duty.
 
-1d ago
+2d ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi, I have an interview with Neuralink for this fall for robotics software engin
 
 Boston Dynamics is developing Atlas using an AI-based system instead of relying on hard-coded behaviors. Aya Durbin describes a shift away from fixed, pre-programmed routines toward a robot that can operate in less controlled, real-world environments. For humanoid robots, this difference is important because demonstrations can be tightly scripted, while practical use requires dealing with variability, unexpected situations, and changing physical tasks. This outlines how Atlas is being developed as Boston Dynamics continues working on humanoid robotics.
 
-2d ago
+3d ago
 
 ---
 
@@ -106,7 +106,7 @@ Boston Dynamics is developing Atlas using an AI-based system instead of relying 
 
 Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is focused on repetitive warehouse and manufacturing tasks like moving totes, unloading AMRs, placing items on shelves, and connecting parts of existing automation systems. He says these are useful “in-between” automation roles where companies do not want to heavily modify infrastructure. The article covers Agility’s partnership with NVIDIA as the first partner for Halos for Robots, NVIDIA’s autonomous safety platform for robots, as well as Agility’s plan to go public through a merger with Churchill Capital Corp. XI, giving the company a $2.5 billion pre-money valuation and $620 million in expected gross proceeds.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 1d ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 2d ago
 
 ---
 
@@ -130,9 +130,25 @@ BBC • 1d ago
 
 ---
 
-**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
+**[BlackBerry Sees Strong Pipeline Across Robotics and Automation](https://finance.yahoo.com/technology/articles/blackberry-sees-strong-pipeline-across-121800442.html)**
 
-Honolulu Civil Beat • 1d ago
+BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
+
+Bloomberg • 1h ago
+
+---
+
+**[The humanoid robot boom is here. These top Silicon Valley investors aren't buying it.](https://www.businessinsider.com/humanoid-boom-is-here-some-vcs-want-no-part-of-2026-6)**
+
+These VCs say humanoids are overhyped. They're backing robots with wheels, wings, and specialized designs instead.
+
+Business Insider • 1d ago
 
 ---
 
@@ -144,19 +160,17 @@ The Guardian • 2d ago
 
 ---
 
-**[This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)**
+**[How AI could enable autonomous robot workers in workplaces—and maybe homes](https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)**
 
-While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
+Top robotics researchers and founders explain how robot autonomy is evolving.
 
-TechCrunch • 2d ago
+Ars Technica • 1d ago
 
 ---
 
-**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
+**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
 
-Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
-
-Forbes • 13h ago
+Honolulu Civil Beat • 1d ago
 
 ---
 
@@ -164,15 +178,7 @@ Forbes • 13h ago
 
 Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
 
-Fortune • 6h ago
-
----
-
-**[Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity?](https://finance.yahoo.com/healthcare/articles/serve-robotics-healthcare-push-unlock-150600410.html)**
-
-SERV is expanding into healthcare automation through Diligent Robotics, aiming to grow recurring AI software revenues beyond food delivery.
-
-Yahoo Finance • 21h ago
+Fortune • 8h ago
 
 ---
 
@@ -182,17 +188,19 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Faraday Future deepens Middle East robotics push with UAE partners](https://www.stocktitan.net/news/FFAI/faraday-future-advances-middle-east-eai-robotics-strategy-through-heuyua3h9126.html)**
-
-Cooperation with CGCC, Action To Action and Ibtikar Robotics may cover procurement, distribution, rentals, curriculum and technical support.
-
-Stock Titan • 16h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+
+📺 China Observer
+
+👁️ 40K • 👍 2K • 💬 419 • ⏱️ 20:21 • 15h ago
+
+---
 
 **[This AI Camera Robot Is Unlike Anything I&#39;ve Tested - Meet Beni!](https://www.youtube.com/watch?v=AwiIt1Visg4)**
 
@@ -200,17 +208,7 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 📺 51 Drones
 
-👁️ 79K • 👍 607 • 💬 108 • ⏱️ 12:50 • 6d ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
-
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
-
-📺 Future Core
-
-👁️ 121K • 👍 3K • 💬 216 • ⏱️ 10:56 • 3d ago
+👁️ 82K • 👍 615 • 💬 109 • ⏱️ 12:50 • 6d ago
 
 ---
 
@@ -220,7 +218,35 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 96K • 👍 2K • 💬 467 • ⏱️ 13:32 • 3d ago
+👁️ 97K • 👍 2K • 💬 467 • ⏱️ 13:32 • 3d ago
+
+---
+
+**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
+
+📺 GUYMANITOR
+
+👁️ 18K • 👍 99 • 💬 3 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+
+📺 Future Core
+
+👁️ 124K • 👍 3K • 💬 224 • ⏱️ 10:56 • 3d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 48K • 👍 3K • 💬 123 • ⏱️ 11:20 • 2d ago
 
 ---
 
@@ -230,37 +256,7 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 29K • 👍 1K • 💬 59 • ⏱️ 10:19 • 5d ago
-
----
-
-**[Ubtechs New U1 UWORLD Robots Shocked The Robot Industry (Ultra Lifelike Androids)](https://www.youtube.com/watch?v=pHUNbCKYn3w)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 19K • 👍 356 • 💬 91 • ⏱️ 11:41 • 5d ago
-
----
-
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 48 • 💬 20 • ⏱️ 10:42 • 1d ago
-
----
-
-**[This Chinese Robot Dog Can Go Anywhere — CRW20 Combat Wolf](https://www.youtube.com/watch?v=k0_N1JS7Iy0)**
-
-This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, and carries a rifle-mounted payload with ease ...
-
-📺 Armourdesia Military Hardware
-
-👁️ 174K • 👍 3K • 💬 550 • ⏱️ 0:31 • 6d ago
+👁️ 29K • 👍 1K • 💬 61 • ⏱️ 10:19 • 6d ago
 
 ---
 
@@ -270,25 +266,25 @@ Chinese robotics company UBTech has unveiled its new bionic humanoid robots powe
 
 📺 AFP News Agency
 
-👁️ 28K • 👍 980 • 💬 194 • ⏱️ 1:55 • 4d ago
+👁️ 29K • 👍 989 • 💬 195 • ⏱️ 1:55 • 4d ago
 
 ---
 
-**[i started a robotics company in 2026](https://www.youtube.com/watch?v=4wzn7ERaleU)**
+**[This Chinese Robot Dog Can Go Anywhere — CRW20 Combat Wolf](https://www.youtube.com/watch?v=k0_N1JS7Iy0)**
 
-In this video I cover some of the behind the scenes of starting a robotics company in 2026. Our goal was to make a professional ...
+This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, and carries a rifle-mounted payload with ease ...
 
-📺 Austen Hartley
+📺 Armourdesia Military Hardware
 
-👁️ 10K • 👍 482 • 💬 50 • ⏱️ 18:50 • 1d ago
+👁️ 178K • 👍 4K • 💬 559 • ⏱️ 0:31 • 6d ago
 
 ---
 
-**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
+**[Automatic Handwriting Machine #Shorts #automatic #handwriting #machine #robotics #brpvlogs999](https://www.youtube.com/watch?v=Mw7PuHOWrtU)**
 
-📺 Kevin Wood | Robotics & AI
+📺 BRP Vlogs999
 
-👁️ 1.6M • 👍 4K • 💬 93 • ⏱️ 0:14 • 5d ago
+👁️ 5K • 👍 17 • ⏱️ 0:09 • 7h ago
 
 ---
 

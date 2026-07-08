@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-08T13:04:53.302649+00:00'
+updated: '2026-07-08T15:41:45.567167+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 13:04 UTC  
+**Last Updated:** July 08, 2026 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,245.28
+### $61,565.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +0.6%  
-**30d:** +0.4%  
-**90d:** -15.1%  
-**1y:** -44.4%  
+**24h:** -3.6%  
+**7d:** +0.2%  
+**30d:** -0.0%  
+**90d:** -15.4%  
+**1y:** -44.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1245.15B
+**Market Cap:** $1236.14B
 Rank #1
 
-**Circulating Supply:** 20,053,581 BTC
+**Circulating Supply:** 20,053,675 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.7%
+-51.1%
 
 **All-Time Low:** $67.81
-+91480.9%
++90833.5%
 
 ---
 
@@ -123,7 +123,7 @@ You don't need to tell the employee that you want to pay with bitcoin when you w
 
 Every time I think I’m calm, BTC reminds me who’s in charge.
 
-1d ago
+2d ago
 
 ---
 
@@ -159,13 +159,41 @@ I was reading a lot of AI data centres that were planned to be built are now bei
 
 Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30.
 
-CoinDesk • 5h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
+**[Michael Saylor’s Strategy Is Trapped by Its Own Broken Bitcoin Math](https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6)**
 
-WSJ • 1d ago
+WSJ • 2d ago
+
+---
+
+**[Cantor, Adam Back’s BSTR Seek New Terms for Bitcoin SPAC Merger](https://www.bloomberg.com/news/articles/2026-07-08/cantor-adam-back-s-bstr-seek-new-terms-for-bitcoin-spac-merger)**
+
+Bloomberg • 1h ago
+
+---
+
+**[Crypto kiosks were used to scam $56 million from Texans last year. Lawmakers are calling for regulation.](https://www.texastribune.org/2026/07/08/texas-cryptocurrency-kiosk-bitcoin-atm-scam-fraud/)**
+
+The Texas Tribune • 5h ago
+
+---
+
+**[Crossville bitcoin mining center draws noise complaints, city eyes moratorium on future data centers](https://www.wvlt.tv/2026/07/08/crossville-bitcoin-mining-center-draws-noise-complaints-city-eyes-moratorium-future-data-centers/)**
+
+A bitcoin mining data center in Crossville is generating noise complaints from neighboring businesses, and city officials say they are considering a two-year moratorium on future data centers while they work to establish additional regulations.
+
+WVLT • 12h ago
+
+---
+
+**[The never-sell-Bitcoin company just sold Bitcoin](https://www.morningbrew.com/stories/the-never-sell-bitcoin-company-just-sold-bitcoin)**
+
+Strategy sold $216 million worth of Bitcoin at a loss to pay back investors.
+
+Morning Brew • 10h ago
 
 ---
 
@@ -177,55 +205,25 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin (BTC) Weakens as Trump’s Remarks Raise Fresh Iran War Concerns](https://www.bloomberg.com/news/articles/2026-07-08/bitcoin-btc-weakens-as-trump-s-remarks-raise-fresh-iran-war-concerns)**
+**[Eric Trump Says 'Stacking Continues' as American Bitcoin Amasses 8,000 BTC: 'We Continue to Differentiate Ourselves'](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-stacking-continues-040117728.html)**
 
-Bloomberg.com • 3h ago
+American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump celebrated on Tuesday after the company surpassed 8,000 Bitcoin (CRYPTO: BTC) in its corporate treasury holdings. ‘Onwards We Go’ Trump shared this in an X post, adding that the firm achieved a 52% mining profit margin in the first quarter and maintained “one of the lowest” Selling, General, and Administrative ratios—a measure of a company’s overhead costs relative to its total revenue—in the industry. “The stacking continues,” Trump sai
 
----
-
-**[Bitcoin Price Drops as Cryptos Get Caught Up in Trump Iran Selloff](https://www.barrons.com/articles/bitcoin-crypto-xrp-price-trump-75458510)**
-
-Barron's • 1h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[BloFin Research: Bitcoin, One More Flush Before The Bottom](https://finance.yahoo.com/markets/crypto/articles/blofin-research-bitcoin-one-more-123554873.html)**
+**[🔎 Under the Radar: American Bitcoin Stock Slides After Reverse Stock Split](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-under-the-radar-american-bitcoin-stock-slides-after-reverse-stock-split-ZnKjsStkzpGy0kQDxx4g)**
 
-Bitcoin's June 2026 low near $58,000 does not meet the on-chain conditions that marked prior cycle bottoms. The floor sits below realized price, near $54,000, over a horizon that extends into Q4 2026.
-
-Yahoo Finance • 28m ago
+WSJ • 20h ago
 
 ---
 
-**[Current price of Bitcoin for July 8, 2026](https://fortune.com/article/price-of-bitcoin-07-08-2026/)**
+**[Eric Trump-Linked American Bitcoin Hits 8,000 BTC Milestone – Even As ABTC Stock Hits One-Year Low](https://www.tradingview.com/news/stocktwits:9e157fe28094b:0-eric-trump-linked-american-bitcoin-hits-8-000-btc-milestone-even-as-abtc-stock-hits-one-year-low/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+American Bitcoin’s (ABTC) growing Bitcoin treasury is doing little to lift investor sentiment. Shares of the Eric Trump-backed Bitcoin (BTC) miner hit a one-year low on Tuesday even after the company revealed its treasury had surpassed 8,000 BTC.The milestone comes days after American Bitcoin compl…
 
-Fortune • 19m ago
-
----
-
-**[StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap](https://www.tradingview.com/news/cointelegraph:0452e89b9094b:0-starkware-ceo-suggests-4-annual-bitcoin-inflation-to-replace-21m-cap/)**
-
-The debate over whether Bitcoin's fixed supply cap should be lifted has resurfaced after StarkWare CEO Eli Ben-Sasson suggested Tuesday that it should replaced with a 4% annual issuance rate.In a post to X on Tuesday, Ben-Sasson said the current 21 million cap “doesn't make sense” because private k…
-
-TradingView • 7h ago
-
----
-
-**[What if You Invested $1,000 in Bitcoin and XRP 5 Years Ago?](https://247wallst.com/investing/cryptocurrency/2026/07/07/what-if-you-invested-1000-in-bitcoin-and-xrp-5-years-ago/)**
-
-Five years ago, investing $1,000 in XRP was a scary bet while Bitcoin was the safer one. Here's what each investment would be worth today.
-
-24/7 Wall St. • 14h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces renewed selling, ETH weakens, XRP risks deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-renewed-selling-eth-weakens-xrp-risks-deeper-losses-202607080314)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) face renewed selling on Wednesday, extending their corrective move so far this week. BTC faced rejection at $64,000, and ETH failed to break above the 50-day Exponential Moving Average (EMA).
-
-FXStreet • 9h ago
+TradingView • 3h ago
 
 ---
 
@@ -261,7 +259,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 12 • 💬 4 • 1d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 12 • 💬 4 • 2d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -277,7 +275,7 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 Practice sales calls, interviews, presentations, objections, and business pitches with Pitch, your conversation rehearsal coach.
 
-⬆️ 2 • 💬 0 • 11h ago • [AskPitch](https://www.AskPitch.com/duel)
+⬆️ 2 • 💬 0 • 13h ago • [AskPitch](https://www.AskPitch.com/duel)
 
 ---
 
@@ -293,7 +291,7 @@ Stacked branches. Contribute to alexghr/graphene development by creating an acco
 
 The rise of Vault: Replacement of the DeFi "DIY"
 
-⬆️ 1 • 💬 0 • 8h ago • [HodlyCrypto](https://hodlycrypto.com/blog/why-smart-money-is-ditching-manual)
+⬆️ 1 • 💬 0 • 10h ago • [HodlyCrypto](https://hodlycrypto.com/blog/why-smart-money-is-ditching-manual)
 
 ---
 
@@ -301,23 +299,63 @@ The rise of Vault: Replacement of the DeFi "DIY"
 
 ## YouTube Videos: "bitcoin"
 
+**[The Crypto Market Is About To Go F**king Crazy (30 Day Warning)](https://www.youtube.com/watch?v=XZuRZbLYy4A)**
+
+The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 29K • 👍 2K • 💬 84 • ⏱️ 9:12 • 16h ago
+
+---
+
 **[Bitcoin Strategic Reserve Coming?🔥Crypto Market Update](https://www.youtube.com/watch?v=Q73PQU9774A)**
 
 The Trump administration's plan to create a Strategic Bitcoin Reserve has been complicated by two government departments ...
 
 📺 Paul Barron Network
 
-👁️ 38K • 👍 2K • 💬 111 • ⏱️ 16:05 • 17h ago
+👁️ 41K • 👍 2K • 💬 116 • ⏱️ 16:05 • 20h ago
 
 ---
 
-**[Bitcoin passed the Saylor test](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
+**[The Bitcoin buyers are coming back](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
 
 Bitcoin just had its best week since March—but that's not the most important story. In this episode of The Daily Wolf, Scott Melker ...
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 486 • 💬 154 • ⏱️ 14:54 • 20h ago
+👁️ 13K • 👍 506 • 💬 170 • ⏱️ 14:54 • 23h ago
+
+---
+
+**[Bitcoin: Brief Window of Strength](https://www.youtube.com/watch?v=n9yTkx3r904)**
+
+Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 15K • 👍 2K • 💬 107 • ⏱️ 11:24 • 3h ago
+
+---
+
+**[Real Reason Behind This Bear Move and Where Bitcoin Goes Next](https://www.youtube.com/watch?v=tC4KJp8ci9s)**
+
+Lyn Alden breaks down the direct correlation between Bitcoin's recent consolidation and the massive capital drain into AI tech ...
+
+📺 Natalie Brunell
+
+👁️ 672 • 👍 17 • 💬 30 • ⏱️ 0:36 • 3h ago
+
+---
+
+**[Bitcoin Jumps on Strategic Reserve Update](https://www.youtube.com/watch?v=yAnQOceHcPQ)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 911 • 💬 201 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -327,67 +365,7 @@ Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and th
 
 📺 Simply Bitcoin
 
-👁️ 45K • 👍 3K • 💬 332 • ⏱️ 20:18 • 1d ago
-
----
-
-**[Lyn Alden: Why This Is the Worst Bitcoin Sentiment She&#39;s Ever Seen](https://www.youtube.com/watch?v=lIg0G0z2KkY)**
-
-Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories to give her honest read on Bitcoin's price, where ...
-
-📺 Natalie Brunell
-
-👁️ 32K • 👍 1K • 💬 350 • ⏱️ 59:57 • 20h ago
-
----
-
-**[Will Japan&#39;s Bond Collapse Take Down the World Economy? | Here&#39;s What They&#39;re Hiding](https://www.youtube.com/watch?v=69rFMqpwCD4)**
-
-A massive shift is happening in Japan, and almost nobody is paying attention. As the yen weakens and bond yields surge, the ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 1K • 💬 94 • ⏱️ 15:04 • 14h ago
-
----
-
-**[The Crypto Market Is About To Go F**king Crazy (30 Day Warning)](https://www.youtube.com/watch?v=XZuRZbLYy4A)**
-
-The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 25K • 👍 2K • 💬 81 • ⏱️ 9:12 • 13h ago
-
----
-
-**[Bitcoin... This Isn&#39;t Good](https://www.youtube.com/watch?v=X6ptF8avD2A)**
-
-Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts are terrifying! WEEX ...
-
-📺 Crypto Zombie
-
-👁️ 12K • 👍 1K • 💬 217 • ⏱️ 21:48 • 19h ago
-
----
-
-**[BITCOIN: THEY WON&#39;T BELIEVE WE ARE BOTTOMING](https://www.youtube.com/watch?v=TyHlhJty4oI)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 7K • 👍 431 • 💬 363 • ⏱️ 13:35 • 13h ago
-
----
-
-**[Why Michael Saylor Is Dumping Bitcoin Now | Strategy Backfired | Dana Love, PhD](https://www.youtube.com/watch?v=qOLq8PTYg2o)**
-
-Dana Love, PhD goes forensic on Strategy's July 6 8-K: an $8.32 billion Q2 loss on digital assets, 3588 Bitcoin sold roughly 20% ...
-
-📺 Dana Love, PhD
-
-👁️ 26K • 👍 1K • 💬 495 • ⏱️ 16:32 • 1d ago
+👁️ 46K • 👍 3K • 💬 334 • ⏱️ 20:18 • 1d ago
 
 ---
 
@@ -397,7 +375,27 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com F
 
 📺 Benjamin Cowen
 
-👁️ 20K • 👍 443 • 💬 12 • ⏱️ 0:29 • 23h ago
+👁️ 22K • 👍 467 • 💬 12 • ⏱️ 0:29 • 1d ago
+
+---
+
+**[BITCOIN: THEY WON&#39;T BELIEVE WE ARE BOTTOMING](https://www.youtube.com/watch?v=TyHlhJty4oI)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 7K • 👍 469 • 💬 483 • ⏱️ 13:35 • 16h ago
+
+---
+
+**[Bitcoin Live Trading: Stay Sharp! BTC Is Coiling for a Big Move EP2055](https://www.youtube.com/watch?v=a4GiC4ktI6o)**
+
+WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
+
+📺 Crypto Lifer
+
+👁️ 2K • 👍 350 • 2h ago
 
 ---
 
