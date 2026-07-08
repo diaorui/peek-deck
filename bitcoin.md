@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-07T23:57:47.219981+00:00'
+updated: '2026-07-08T03:27:36.432074+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 07, 2026 at 23:57 UTC  
+**Last Updated:** July 08, 2026 at 03:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,646.69
+### $62,603.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +5.5%  
-**30d:** +0.4%  
-**90d:** -11.8%  
-**1y:** -41.9%  
+**24h:** -0.1%  
+**7d:** +2.4%  
+**30d:** +2.1%  
+**90d:** -13.6%  
+**1y:** -43.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1272.76B
+**Market Cap:** $1262.71B
 Rank #1
 
-**Circulating Supply:** 20,053,381 BTC
+**Circulating Supply:** 20,053,462 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.7%
+-50.1%
 
 **All-Time Low:** $67.81
-+93508.6%
++92753.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 27
-**FEAR**
+### 20
+**EXTREME FEAR**
 
 ---
 
@@ -155,29 +155,9 @@ I was reading a lot of AI data centres that were planned to be built are now bei
 
 ## Google News: "bitcoin"
 
-**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
-
-Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
-
-CNBC • 1d ago
-
----
-
 **[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Could Trump Accounts someday include bitcoin, crypto?](https://finance.yahoo.com/video/could-trump-accounts-someday-bitcoin-193000212.html)**
-
-Scott Melker discusses President Trump's latest comments around whether the newly launched Trump Accounts could include crypto in the future.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 4h ago
 
 ---
 
@@ -185,7 +165,31 @@ Yahoo Finance • 4h ago
 
 The token touched $64,400 overnight before easing back, still up about 6% on the week. A fresh missile strike on a Qatari gas ship in the Strait of Hormuz lifted oil and tested the late-June peace deal as Asian tech sold off again.
 
-CoinDesk • 19h ago
+CoinDesk • 22h ago
+
+---
+
+**[CleanSpark Short Interest Climbs to 33% as Bitcoin Pressure Builds](https://finance.yahoo.com/markets/crypto/articles/cleanspark-short-interest-climbs-33-013200151.html)**
+
+CleanSpark Inc. (NASDAQ: $CLSK) remains the most heavily shorted crypto company with a market value above $2 billio...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Flat, Ethereum, XRP, Dogecoin Dip as US Strikes Iran: Analyst Spots Dollar-Cost Averaging 'Opportunity' in BTC](https://uk.finance.yahoo.com/news/bitcoin-flat-ethereum-xrp-dogecoin-020019557.html)**
+
+Leading cryptocurrencies and stocks fell on Tuesday after U.S. strikes on Iran and the revocation of the oil sanctions waiver rattled investors. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.74%$63,519.02Ethereum (CRYPTO: ETH) -1.01%$1,776.71XRP (CRYPTO: XRP) -2.55%$1.11Solana (CRYPTO: SOL) -2.17%$80.25Dogecoin (CRYPTO: DOGE) -2.95%$0.07417 Crypto Rally Stalls Bitcoin briefly topped $64,000 in the afternoon before surrendering its gains, as trading volum
+
+Yahoo Finance UK • 1h ago
+
+---
+
+**[Michael Saylor Reveals the One Metric Keeping MicroStrategy’s Bitcoin Play Sustainable](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-reveals-one-metric-022011618.html)**
+
+Michael Saylor says a 3.3% BTC Breakeven ARR lets Strategy fund preferred dividends with bitcoin gains indefinitely.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,33 +207,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Current price of Bitcoin for July 6, 2026](https://fortune.com/article/price-of-bitcoin-07-06-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[Tether puts $20 million behind Mercado Bitcoin amid Latin America's tokenization boom](https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom)**
-
-Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.
-
-The Block • 8h ago
-
----
-
 **[Strategy is losing a lot of money on bitcoin. Here’s why it’s selling anyway.](https://www.marketwatch.com/story/strategy-is-losing-a-lot-of-money-on-bitcoin-heres-why-its-selling-anyway-02822bc5)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Bitcoin Is Down. Miners Are Up. That’s the Signal.](https://investorplace.com/hypergrowthinvesting/2026/07/bitcoin-is-down-miners-are-up-thats-the-signal/)**
+**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
 
-Bitcoin is down, but miners are up. The reason may be AI data-center demand, power access, and long-term hosting contracts.
+Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
 
-InvestorPlace • 18h ago
+CNBC • 1d ago
+
+---
+
+**[Current price of Bitcoin for July 6, 2026](https://fortune.com/article/price-of-bitcoin-07-06-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
 
 ---
 
@@ -285,11 +281,19 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 ---
 
+**[Show HN: I created a ninety second challenge for conversations that matter](https://news.ycombinator.com/item?id=48826595)**
+
+Practice sales calls, interviews, presentations, objections, and business pitches with Pitch, your conversation rehearsal coach.
+
+⬆️ 2 • 💬 0 • 1h ago • [AskPitch](https://www.AskPitch.com/duel)
+
+---
+
 **[Show HN: Graphene – local-only Git wrapper to manage stacked branches](https://news.ycombinator.com/item?id=48816605)**
 
 Stacked branches. Contribute to alexghr/graphene development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 11h ago • [GitHub](https://github.com/alexghr/graphene)
+⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/alexghr/graphene)
 
 ---
 
@@ -297,19 +301,13 @@ Stacked branches. Contribute to alexghr/graphene development by creating an acco
 
 ## YouTube Videos: "bitcoin"
 
-**[The world’s smallest bitcoin miner - the USB Nerd Miner! #bitcoin #btc #bitcoinmining](https://www.youtube.com/watch?v=4x5-6LhFKlM)**
+**[Bitcoin passed the Saylor test](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
 
-📺 How Much?
+Bitcoin just had its best week since March—but that's not the most important story. In this episode of The Daily Wolf, Scott Melker ...
 
-👁️ 4K • 👍 62 • 💬 5 • ⏱️ 0:23 • 1d ago
+📺 Yahoo Finance
 
----
-
-**[The NerdQaxe++ Hydro is a great way to keep your mining setup cool this summer! #bitcoinmining](https://www.youtube.com/watch?v=tMmF3Jd1hqs)**
-
-📺 How Much?
-
-👁️ 2K • 👍 17 • 💬 1 • ⏱️ 0:16 • 1d ago
+👁️ 10K • 👍 452 • 💬 147 • ⏱️ 14:54 • 11h ago
 
 ---
 
@@ -319,25 +317,37 @@ Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and th
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 3K • 💬 317 • ⏱️ 20:18 • 1d ago
+👁️ 43K • 👍 3K • 💬 355 • ⏱️ 20:18 • 1d ago
 
 ---
 
-**[Bitcoin Mining for Beginners: Everything You Need to Start](https://www.youtube.com/watch?v=hCnITupnT7E)**
+**[Bitcoin Strategic Reserve Coming?🔥Crypto Market Update](https://www.youtube.com/watch?v=Q73PQU9774A)**
 
-Been curious about mining Bitcoin but think you need an expensive rig or expert skills? You don't. In this step-by-step beginner ...
+The Trump administration's plan to create a Strategic Bitcoin Reserve has been complicated by two government departments ...
 
-📺 Red Fox Crypto
+📺 Paul Barron Network
 
-👁️ 211 • 👍 24 • 💬 4 • ⏱️ 12:17 • 9h ago
+👁️ 25K • 👍 1K • 💬 97 • ⏱️ 16:05 • 8h ago
 
 ---
 
-**[Bitcoin mining machine](https://www.youtube.com/watch?v=HxVMOkiuatM)**
+**[Bitcoin Jumps on Strategic Reserve Update](https://www.youtube.com/watch?v=yAnQOceHcPQ)**
 
-📺 Saifivlogs2.0
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-👁️ 451 • 👍 10 • ⏱️ 0:50 • 12h ago
+📺 CryptosRUs
+
+👁️ 18K • 👍 906 • 💬 149 • ⏱️ 8:39 • 1d ago
+
+---
+
+**[Lyn Alden: Why This Is the Worst Bitcoin Sentiment She&#39;s Ever Seen](https://www.youtube.com/watch?v=lIg0G0z2KkY)**
+
+Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories to give her honest read on Bitcoin's price, where ...
+
+📺 Natalie Brunell
+
+👁️ 22K • 👍 1K • 💬 240 • ⏱️ 59:57 • 11h ago
 
 ---
 
@@ -347,37 +357,17 @@ Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts ar
 
 📺 Crypto Zombie
 
-👁️ 5K • 👍 729 • 💬 163 • ⏱️ 21:48 • 6h ago
+👁️ 10K • 👍 930 • 💬 196 • ⏱️ 21:48 • 9h ago
 
 ---
 
-**[He Risked It All to Buy ONE Bitcoin](https://www.youtube.com/watch?v=ZybsMNXLeic)**
+**[Bitcoin at a Crossroad as Global Shock Hits](https://www.youtube.com/watch?v=CRQAajl-EKU)**
 
-See something in the video that caught your eye? If you're interested in buying it, just shoot us an email and let us know what item ...
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Craigslist Hunter
+📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 244 • ⏱️ 32:42 • 2d ago
-
----
-
-**[The Best Hydro Miner (it’s not what you’d think)](https://www.youtube.com/watch?v=_hZITfLS3vI)**
-
-WE'RE ON THE HUNT for the perfect first hydro Bitcoin miner. It's between the Bitmain S23, Bitmain S21J XP, and S19 XP Hydro ...
-
-📺 Ryan Blass // Karpuz Mining
-
-👁️ 201 • 👍 26 • 💬 17 • ⏱️ 27:12 • 2d ago
-
----
-
-**[David Bailey&#39;s Companies Are An Attack On Bitcoin](https://www.youtube.com/watch?v=dizaPv4LDWI)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how David Bailey's crypto ...
-
-📺 Bitcoin University
-
-👁️ 4K • 👍 749 • 💬 182 • ⏱️ 11:30 • 11h ago
+👁️ 15K • 👍 796 • 💬 117 • ⏱️ 46:39 • 12h ago
 
 ---
 
@@ -387,7 +377,27 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 36K • 👍 3K • 💬 93 • ⏱️ 16:56 • 1d ago
+👁️ 37K • 👍 3K • 💬 93 • ⏱️ 16:56 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Something&#39;s VERY Wrong With Bitcoin &amp; Nobody&#39;s Talking About it](https://www.youtube.com/watch?v=8hzVbQvUsmw)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 223 • 💬 41 • ⏱️ 17:26 • 1d ago
+
+---
+
+**[David Bailey&#39;s Companies Are An Attack On Bitcoin](https://www.youtube.com/watch?v=dizaPv4LDWI)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how David Bailey's crypto ...
+
+📺 Bitcoin University
+
+👁️ 5K • 👍 803 • 💬 194 • ⏱️ 11:30 • 14h ago
 
 ---
 

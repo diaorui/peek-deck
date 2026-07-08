@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-07T23:57:47.211201+00:00'
+updated: '2026-07-08T03:27:36.423646+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 07, 2026 at 23:57 UTC  
+**Last Updated:** July 08, 2026 at 03:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock license plate cameras. Supporters are paying his legal bills.
 
-🔗 [Military.com](https://www.military.com/air-force-engineer-accused-of-cutting-down-13-police-cameras-says-they-are-unconstitutional) • 2h ago
+🔗 [Military.com](https://www.military.com/air-force-engineer-accused-of-cutting-down-13-police-cameras-says-they-are-unconstitutional) • 5h ago
 
 ---
 
@@ -49,15 +49,7 @@ Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock 
 
 https://arxiv.org/abs/2605.18311 There’s a massive trend right now where companies are trying to replace real human feedback with LLM-driven "synthetic users." The idea sounds great on paper - why would you spend money and time recruiting real people to test products, pick design choices, or evaluate options when you can just prompt? They tested LLMs across 28 real-world studies spanning 78 choice tasks to see if their selections matched thousands of actual human participants. The result? The LLMs matched the human majority only 53% of the time. Since most tasks were a choice between two options, that's pretty much same as flipping a coin. Even worse for the "simulation" argument: adding detailed personas and chain-of-thought reasoning yielded practically no improvement. It actually made the semantic similarity to real human justifications worse because the model's "reasoning" just homogenized the outputs and failed to capture actual lived experiences. It looks like LLMs are just trained to replicate what we like about their outputs rather than making them capable of predicting human preferences. Is it time to admit that LLM simulation has hit a hard wall when it comes to replicating human choice?
 
-4h ago
-
----
-
-**[LinkedIn's behavioral scoring system and what it means for anyone building AI automations on the platform](https://www.reddit.com/r/artificial/comments/1uq718e/linkedins_behavioral_scoring_system_and_what_it/)**
-
-LinkedIn removed the fixed connection request cap sometime in the last couple of years. Well, it was more in general cuts, the latest of which happened this year, and replaced it with a dynamic per-account scoring model that most people building automation on the platform haven't fully mapped yet. The system weighs several behavioral inputs. Namely these: acceptance rate, reply rate, SSI (Social Selling Index), organic posting activity, and the number of pending unaccepted invitations sitting in your queue, which it uses to produce a trust score that directly controls how many outbound actions your account is allowed to take. In practice, this means that accounts with high trust signals (SSI around 65 or above, acceptance rates above 40%) can push up to 200 connection requests per week without triggering restrictions. However, accounts with low trust signals get throttled to around 50 per week, sometimes significantly lower at 25-30. That's 4 times the capacity difference between two accounts on the same platform running the same automation tooling, based purely on how LinkedIn grades their reputation. I think this is very relevant to anyone building or in any way using LinkedIn automations and as head of GTM at Expandi I’ve had the opportunity to see these patterns I’m talking about, in practice, over dozens of dozens of accounts running outreach at various volumes. But what makes this relevant to anyone building LinkedIn automation - is that the system creates a feedback loop that's really hard to reverse once it starts working against you. Low acceptance rates from poor targeting push your trust score down, which throttles your volume, which in turn pressures you to cast a wider net with less precise targeting, which drops your acceptance rate even further. And so on and so forth. I've watched accounts downgrade from 150 requests/week capacity down to 40 in under just a month because the initial list quality was bad and every subsequent adjustment made it worse. The diagnostic is pretty straightforward, though, if you want to check where an account sits: - Pull your SSI at linkedin.com/sales/ssi - Check your acceptance rate for the last month from your sent invitations - Withdraw pending invitations older than 2 weeks - each one is dragging your score - Look at whether your sends are clustered since these burst patterns are a detection signal TL;DR version - The acceptance rate on LinkedIn is the single highest weight input in the scoring model from what I've been able to observe and will impact your ability to automate profile actions more than anything. LinkedIn accounts that maintain 40% plus acceptance consistently get capacity that makes automation viable at scale, while accounts below ~25% acceptance hit flat walls the platform sets that no tool configuration can work around.
-
-3h ago
+8h ago
 
 ---
 
@@ -65,7 +57,15 @@ LinkedIn removed the fixed connection request cap sometime in the last couple of
 
 One thing that stands out about the current AI boom is that it hasn't had a slow phase. A lot of previous technology waves had a big moment, cooled off for a while and then found their next use case. Recent estimates suggest GenAI companies are generating around $110B in annual revenue and the growth rate is reportedly around 3x faster than previous IT waves like the internet and mobile. What's interesting is that the pace has held through every phase since 2022; first it was chatbots, then coding copilots and now it's AI agents and if you’ve followed this space closely enough, you can see instead of one trend replacing another, each wave seems to be creating demand for the next one. I think that's also changing how people build and consume. A year or two ago, most of the conversation was about finding the best model, but now devs are paying attention to everything around the model too such as: retrieval, evaluations, data pipelines, deployment, and infrastructure. If AI is becoming part of more products, the supporting stack starts to matter just as much as the model itself. You can see it in the open-source ecosystem. Models keep improving, but so do the tools around them
 
-15h ago
+19h ago
+
+---
+
+**[LinkedIn's behavioral scoring system and what it means for anyone building AI automations on the platform](https://www.reddit.com/r/artificial/comments/1uq718e/linkedins_behavioral_scoring_system_and_what_it/)**
+
+LinkedIn removed the fixed connection request cap sometime in the last couple of years. Well, it was more in general cuts, the latest of which happened this year, and replaced it with a dynamic per-account scoring model that most people building automation on the platform haven't fully mapped yet. The system weighs several behavioral inputs. Namely these: acceptance rate, reply rate, SSI (Social Selling Index), organic posting activity, and the number of pending unaccepted invitations sitting in your queue, which it uses to produce a trust score that directly controls how many outbound actions your account is allowed to take. In practice, this means that accounts with high trust signals (SSI around 65 or above, acceptance rates above 40%) can push up to 200 connection requests per week without triggering restrictions. However, accounts with low trust signals get throttled to around 50 per week, sometimes significantly lower at 25-30. That's 4 times the capacity difference between two accounts on the same platform running the same automation tooling, based purely on how LinkedIn grades their reputation. I think this is very relevant to anyone building or in any way using LinkedIn automations and as head of GTM at Expandi I’ve had the opportunity to see these patterns I’m talking about, in practice, over dozens of dozens of accounts running outreach at various volumes. But what makes this relevant to anyone building LinkedIn automation - is that the system creates a feedback loop that's really hard to reverse once it starts working against you. Low acceptance rates from poor targeting push your trust score down, which throttles your volume, which in turn pressures you to cast a wider net with less precise targeting, which drops your acceptance rate even further. And so on and so forth. I've watched accounts downgrade from 150 requests/week capacity down to 40 in under just a month because the initial list quality was bad and every subsequent adjustment made it worse. The diagnostic is pretty straightforward, though, if you want to check where an account sits: - Pull your SSI at linkedin.com/sales/ssi - Check your acceptance rate for the last month from your sent invitations - Withdraw pending invitations older than 2 weeks - each one is dragging your score - Look at whether your sends are clustered since these burst patterns are a detection signal TL;DR version - The acceptance rate on LinkedIn is the single highest weight input in the scoring model from what I've been able to observe and will impact your ability to automate profile actions more than anything. LinkedIn accounts that maintain 40% plus acceptance consistently get capacity that makes automation viable at scale, while accounts below ~25% acceptance hit flat walls the platform sets that no tool configuration can work around.
+
+6h ago
 
 ---
 
@@ -73,7 +73,15 @@ One thing that stands out about the current AI boom is that it hasn't had a slow
 
 AI should be private and optional.
 
-18h ago
+22h ago
+
+---
+
+**[I stopped treating business setup like five separate chores](https://www.reddit.com/r/artificial/comments/1uq2wgs/i_stopped_treating_business_setup_like_five/)**
+
+I kept putting off the business setup side because every step felt like another tool, account or subscription This time I tried running it through Claude and kept the whole thing in one workflow: setup, verification, bank account and basic finance admin after. Still early but it’s been way easier than jumping between random sites and notes. The nice part is not needing a bunch of separate tools just to get the business side ready. Am I the only one doing it this way? I don’t think it’s that crazy tbh
+
+9h ago
 
 ---
 
@@ -85,11 +93,11 @@ Saw this in an article and it's been on my mind since 260 satellites intentional
 
 ---
 
-**[I stopped treating business setup like five separate chores](https://www.reddit.com/r/artificial/comments/1uq2wgs/i_stopped_treating_business_setup_like_five/)**
+**[Microsoft Moves Toward In-House AI Models](https://www.reddit.com/r/artificial/comments/1uq7fsg/microsoft_moves_toward_inhouse_ai_models/)**
 
-I kept putting off the business setup side because every step felt like another tool, account or subscription This time I tried running it through Claude and kept the whole thing in one workflow: setup, verification, bank account and basic finance admin after. Still early but it’s been way easier than jumping between random sites and notes. The nice part is not needing a bunch of separate tools just to get the business side ready. Am I the only one doing it this way? I don’t think it’s that crazy tbh
+Microsoft is beginning to replace AI models from OpenAI and Anthropic with its own internally developed alternatives across key products like Excel and Outlook. The shift signals a broader strategy…
 
-5h ago
+🔗 [Wealthari](https://wealthari.com/microsoft-moves-toward-in-house-ai-models/) • 6h ago
 
 ---
 
@@ -97,23 +105,15 @@ I kept putting off the business setup side because every step felt like another 
 
 I understand very generally that AI is good at "writing code" but I'm wondering what specifically normal people would need the capability to write code for in their daily lives? Unless they work in an industry that relies on coding in which case it's self explanatory. I personally just use chatgpt for general conversation and talking about life.
 
-14h ago
+17h ago
 
 ---
 
-**[Microsoft Moves Toward In-House AI Models](https://www.reddit.com/r/artificial/comments/1uq7fsg/microsoft_moves_toward_inhouse_ai_models/)**
+**[Companies are laying off humans and replacing them with AI agents without proper testing. Is this crazy?](https://www.reddit.com/r/artificial/comments/1uqgzqb/companies_are_laying_off_humans_and_replacing/)**
 
-Microsoft is beginning to replace AI models from OpenAI and Anthropic with its own internally developed alternatives across key products like Excel and Outlook. The shift signals a broader strategy…
+I keep seeing more and more stories about entire teams being laid off and replaced by AI agents almost overnight. It feels reckless-like companies are going all-in on technology that’s still quite unpredictable in real-world conditions. Why don’t more companies take a safer approach? For example, create a parallel “AI branch” or pilot team for 3-6 months: run the AI agents alongside human employees, measure real performance, error rates, customer satisfaction, and edge cases before making permanent cuts. Is this just greed and pressure from investors to cut costs immediately? Or do companies actually have internal data showing that the risks are lower than we think? Maybe they’re seeing such massive productivity gains that they’re willing to take the gamble. I’d really love to hear from people who work (or have worked) at companies that already went through this kind of AI replacement. How did it actually go? Were there major failures, hidden costs, or surprisingly good results? What lessons would you share?
 
-🔗 [Wealthari](https://wealthari.com/microsoft-moves-toward-in-house-ai-models/) • 3h ago
-
----
-
-**[Scaling AI agents seems much harder than building the first agent](https://www.reddit.com/r/artificial/comments/1uq0r38/scaling_ai_agents_seems_much_harder_than_building/)**
-
-Building an agent has become much easier now. Half the frameworks out there get you a demo in a day, sometimes less. The hard part is everything that comes after. Versioning, deployment, environment management, monitoring, rollbacks, access control, all of it. We learned this the hard way after our first pilot actually worked and we had no plan for what came next. Anyone here actually made it past the pilot stage? What broke first for you and what do you wish you'd set up earlier instead of scrambling later?
-
-7h ago
+4m ago
 
 ---
 
@@ -121,41 +121,11 @@ Building an agent has become much easier now. Half the frameworks out there get 
 
 ## Google News: "ai"
 
-**[EXCLUSIVE Beijing is looking at curbing overseas access to China's top AI models, sources say](https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/)**
+**[Introducing Muse Image: Image Generation Built for Your World](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/)**
 
-Reuters • 56m ago
+Muse Image is the first image generation model from Meta Superintelligence Labs, now available in Meta AI.
 
----
-
-**[Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html)**
-
-Recent model releases from Chinese companies including DeepSeek and Z.ai are seen by many as highly competitive compared to leading U.S. frontier systems.
-
-CNBC • 18h ago
-
----
-
-**[China’s Answer to AI Sticker Shock](https://www.theatlantic.com/technology/2026/07/glm-5-2-china-cheap-ai-agents/687828/)**
-
-Corporate America is starting to balk at the cost of AI agents. A cheap alternative from China looks more tempting than ever.
-
-The Atlantic • 5h ago
-
----
-
-**[Introducing Muse Image and Muse Video](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/)**
-
-Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context. Muse...
-
-AI at Meta • 3h ago
-
----
-
-**[Meta enters AI image model race in bid to court advertisers and subscribers](https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html)**
-
-Meta has announced Muse Image, its first AI model for image creation, as it seeks to attract creators and advertisers to its offerings.
-
-CNBC • 5h ago
+Meta Store • 9h ago
 
 ---
 
@@ -163,31 +133,41 @@ CNBC • 5h ago
 
 As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.
 
-WIRED • 1h ago
+WIRED • 5h ago
 
 ---
 
-**[Perplexity is quietly building an AI coding tool to take on Cursor and Claude Code](https://www.businessinsider.com/perplexity-building-ai-coding-tool-take-on-cursor-and-openai-2026-7)**
+**[If You Have a Public Instagram Account, You Might Be Surprised What AI Users Can Now Do With Your Face](https://gizmodo.com/if-you-have-a-public-instagram-account-you-might-be-surprised-what-ai-users-can-now-do-with-your-face-2000782694)**
 
-San Francisco-based Perplexity, valued at $20 billion, is working on 'Teammate,' an AI tool that may compete with AI coding giants like Anthropic.
-
-Business Insider • 33m ago
+Gizmodo • 1h ago
 
 ---
 
-**[Legal fight over AI data center construction in Birmingham's Oxmoor Valley returns to court](https://www.wvtm13.com/article/legal-fight-over-ai-data-center-construction-in-birminghams-oxmoor-valley-returns-to-court/71859286)**
+**[EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say](https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/)**
 
-A lawsuit challenging the construction of an AI data center in Birmingham's Oxmoor Valley is back in court, with a new judge addressing scheduling and preliminary issues.
-
-wvtm • 21m ago
+Reuters • 17h ago
 
 ---
 
-**[Illinois' new AI safety law is the strongest in the nation, advocate says](https://www.nbcchicago.com/news/local/illinois-new-ai-safety-law-is-the-nations-strongest-advocate-says/3958692/)**
+**[Why this billion-dollar tech company is sending data centers to space](https://www.cnn.com/2026/07/07/business/video/starcloud-space-ai-data-centers-hnk-spc?cid=external-feeds_iluminar_google)**
 
-As concerns rise about the potential misuse of artificial intelligence, Illinois has passed what an executive of one AI advocacy group called “the strongest AI safety law in the country.”
+With AI straining Earth’s infrastructure, space-tech startup Starcloud is developing orbital data centers designed to meet the world’s growing computing needs.
 
-NBC 5 Chicago • 38m ago
+CNN • 1h ago
+
+---
+
+**[Tencent WeChat AI Agent Shows Promise in Super-App Fight: Review](https://www.bloomberg.com/news/articles/2026-07-08/tencent-wechat-ai-agent-shows-promise-in-super-app-fight-review)**
+
+Bloomberg.com • 27m ago
+
+---
+
+**[AI deployment is now as much of a CFO decision as a CTO one: JP Morgan](https://www.cnbc.com/video/2026/07/08/jitters-about-ai-led-borrowing-while-the-direction-of-travel-is-a-concern-the-magnitude-of-borrowing-is-not-high-relative-to.html)**
+
+JP Morgan Asset Management' Tai Hui says AI adoption will reshape industries, but businesses are increasingly weighing the cost of deployment alongside its potential returns. He adds that while investors are watching AI companies' borrowing more closely, debt levels remain manageable relative to the size of these businesses.
+
+CNBC • 45m ago
 
 ---
 
@@ -195,7 +175,23 @@ NBC 5 Chicago • 38m ago
 
 Studies show that using AI can lead people to “cognitive surrender.” But with the right approach, it can also elevate your thinking.
 
-The Washington Post • 7h ago
+The Washington Post • 11h ago
+
+---
+
+**[‘Absolutely bananas’: San Francisco homes sell for $1m above asking price amid AI boom](https://www.theguardian.com/us-news/2026/jul/07/san-francisco-home-sale-prices-ai)**
+
+Report finds widespread overbidding as rapid AI growth generates increased wealth in city where housing is scarce
+
+The Guardian • 4h ago
+
+---
+
+**[Anthropic Expands in Manhattan, Part of an A.I. Boom in New York](https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html)**
+
+Anthropic, the artificial intelligence company, plans to lease a 16-story building in Hudson Square and to double its work force in New York City to 1,000 people this year.
+
+The New York Times • 6h ago
 
 ---
 
@@ -207,7 +203,7 @@ The Washington Post • 7h ago
 
 GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus and GPT for agentic work - at ~15-20% of the price. Part one of why AI inference margins are about to collapse.
 
-⬆️ 663 • 💬 449 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+⬆️ 666 • 💬 450 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 
 ---
 
@@ -215,7 +211,7 @@ GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus an
 
 Welcome to LTT Labs - your go-to destination for all things tech. Explore comprehensive test results, insightful commentary, and the latest analysis in hardware.
 
-⬆️ 371 • 💬 255 • 1d ago • [LTT Labs](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
+⬆️ 371 • 💬 256 • 1d ago • [LTT Labs](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
 
 ---
 
@@ -223,7 +219,15 @@ Welcome to LTT Labs - your go-to destination for all things tech. Explore compre
 
 In places with unreliable networks and no data-center infrastructure, smaller is better
 
-⬆️ 261 • 💬 78 • 23h ago • [IEEE Spectrum](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+⬆️ 263 • 💬 78 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+
+---
+
+**[We charge $10k a week to delete AI-generated code](https://news.ycombinator.com/item?id=48823359)**
+
+Your AI-built product works, but past 100,000 lines every change breaks two things. Three senior engineers make your codebase maintainable again. One week, fixed price, guaranteed.
+
+⬆️ 242 • 💬 142 • 6h ago • [odra.dev](https://odra.dev/slopfix/)
 
 ---
 
@@ -231,7 +235,7 @@ In places with unreliable networks and no data-center infrastructure, smaller is
 
 OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation req...
 
-⬆️ 211 • 💬 62 • 1d ago • [GitHub](https://github.com/iOfficeAI/OfficeCLI)
+⬆️ 212 • 💬 62 • 1d ago • [GitHub](https://github.com/iOfficeAI/OfficeCLI)
 
 ---
 
@@ -245,7 +249,7 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 
 A Delta flight arriving at Chicago's Midway International Airport on the Fourth of July reportedly made contact with a firework, the airline said.
 
-⬆️ 173 • 💬 393 • 2d ago • [NBC Chicago](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
+⬆️ 173 • 💬 395 • 2d ago • [NBC Chicago](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
 
 ---
 
@@ -253,7 +257,7 @@ A Delta flight arriving at Chicago's Midway International Airport on the Fourth 
 
 Instead, buy domestic product, and out in the open.
 
-⬆️ 164 • 💬 79 • 1d ago • [readtheline.ca](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
+⬆️ 164 • 💬 79 • 2d ago • [readtheline.ca](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
 
 ---
 
@@ -273,14 +277,6 @@ Anthropic spends 2.3x payroll on compute. Top software firms spend 0.4x. Three s
 
 ---
 
-**[YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood](https://news.ycombinator.com/item?id=48815117)**
-
-After Garry Tan touted his agentic coding output, a developer found inefficiencies, code bloat, and rookie mistakes lurking in production.
-
-⬆️ 106 • 💬 97 • 15h ago • [Fast Company](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -291,77 +287,7 @@ ATT Business: Switch to AT&T Business at business.att.com Paleovalley: 30 for $3
 
 📺 Tom Bilyeu
 
-👁️ 49K • 👍 2K • 💬 509 • ⏱️ 34:31 • 10h ago
-
----
-
-**[I Tried Every AI UGC Ads Video Generator (use this)](https://www.youtube.com/watch?v=ExGT6vbI1Vo)**
-
-Arcads vs Higgsfield vs Topview & More - Which Is Best At AI Ads? Try Higgsfield: https://higgsfield.ai?fpr=utm&fp_sid=mira Hey ...
-
-📺 Mira AI
-
-👁️ 7K • ⏱️ 12:15 • 10h ago
-
----
-
-**[The AI Chip Glut Has Begun: Semi&#39;s Will Fall 75%](https://www.youtube.com/watch?v=d-z4LaKoTaY)**
-
-No B.S. Just Charts. Semiconductor stocks are cracking — Micron, Intel, SanDisk, Samsung and SK Hynix are all flashing the ...
-
-📺 Gareth Soloway
-
-👁️ 31K • 👍 2K • 💬 143 • ⏱️ 14:42 • 11h ago
-
----
-
-**[The AI Bubble… We Need to Talk](https://www.youtube.com/watch?v=2J2Fb1bBufA)**
-
-Half the internet says AI is the biggest bubble in history. The other half says it's the most important technology ever built. Check out ...
-
-📺 Casual Finance
-
-👁️ 121K • 👍 8K • 💬 896 • ⏱️ 18:03 • 8h ago
-
----
-
-**[Grok AI Was Asked Who Built the Pyramids - The Answer Shocked Everyone](https://www.youtube.com/watch?v=A4cY1bCgC_A)**
-
-There is a structure standing in the desert outside Cairo that, by every measure of physics and mathematics, should not exist.
-
-📺 New Discovery
-
-👁️ 449K • 👍 4K • 💬 673 • ⏱️ 30:44 • 2d ago
-
----
-
-**[The Dirty AI lie : How the GREATEST bet in human history started to crack in June 2026?](https://www.youtube.com/watch?v=WcckBmkauBQ)**
-
-Check out Odoo: https://www.odoo.com/r/ChAT ⭐️ Think School's flagship Communication course with live doubt sessions ...
-
-📺 Think School
-
-👁️ 1.1M • 👍 31K • 💬 1K • ⏱️ 20:53 • 1d ago
-
----
-
-**[The Rotation Out of AI Stocks Just Started [A WARNING to All Investors]](https://www.youtube.com/watch?v=AZTTwbO5SMg)**
-
-Trade live with me live every day at market open and get ALL my insights in real time! Sign up here.
-
-📺 The Traveling Trader
-
-👁️ 55K • 👍 2K • 💬 328 • ⏱️ 26:08 • 1d ago
-
----
-
-**[AI expert worries about the risk of humans losing control | Four Corners](https://www.youtube.com/watch?v=gYORRh377Gw)**
-
-Jeffrey Ladish consulted on security for AI giant Anthropic. Now as Executive Director at Palisade Research he tests AI agents and ...
-
-📺 ABC News In-depth
-
-👁️ 31K • 👍 809 • 💬 76 • ⏱️ 15:06 • 1d ago
+👁️ 71K • 👍 3K • 💬 596 • ⏱️ 34:31 • 14h ago
 
 ---
 
@@ -371,17 +297,87 @@ Host Hermes Agent on Hostinger http://hostinger.com/yourihermes In this video, I
 
 📺 Roboverse
 
-👁️ 9K • 💬 7 • ⏱️ 12:39 • 8h ago
+👁️ 10K • 💬 7 • ⏱️ 12:39 • 11h ago
 
 ---
 
-**[Nobody&#39;s Ready for What AI Just Started Doing](https://www.youtube.com/watch?v=7ShaebjKo5o)**
+**[The Dirty AI lie : How the GREATEST bet in human history started to crack in June 2026?](https://www.youtube.com/watch?v=WcckBmkauBQ)**
 
-AI #Healthcare #artificialintelligence The doctors found out from the news. The oversight board has zero of them. The only proof it ...
+Check out Odoo: https://www.odoo.com/r/ChAT ⭐️ Think School's flagship Communication course with live doubt sessions ...
 
-📺 Rod Miller
+📺 Think School
 
-👁️ 4K • 👍 490 • 💬 110 • ⏱️ 25:08 • 21h ago
+👁️ 1.2M • 👍 33K • 💬 1K • ⏱️ 20:53 • 1d ago
+
+---
+
+**[AI expert worries about the risk of humans losing control | Four Corners](https://www.youtube.com/watch?v=gYORRh377Gw)**
+
+Jeffrey Ladish consulted on security for AI giant Anthropic. Now as Executive Director at Palisade Research he tests AI agents and ...
+
+📺 ABC News In-depth
+
+👁️ 34K • 👍 900 • 💬 81 • ⏱️ 15:06 • 1d ago
+
+---
+
+**[AI Just Decoded These Mysterious Crop Circles!](https://www.youtube.com/watch?v=I1ivRkaQyPQ)**
+
+Hi, it's Katrina! We are exploring the mysterious radio broadcasts and geometric patterns that have appeared across our world's ...
+
+📺 Origins Explained
+
+👁️ 53K • 👍 2K • 💬 331 • ⏱️ 28:46 • 2d ago
+
+---
+
+**[The Best Way To Make Money With AI In 24 Hours](https://www.youtube.com/watch?v=JZ9mxEsQUNc)**
+
+Stop guessing what your customers want and start analyzing their actual questions to write better sales copy today.
+
+📺 Ross Minchev
+
+👁️ 2K • 👍 133 • 💬 7 • ⏱️ 32:28 • 16h ago
+
+---
+
+**[The Moment America Realized China Won the AI Race](https://www.youtube.com/watch?v=2TwEWXO9_S8)**
+
+China is winning the AI Race and if you need proof you just need to see look at how American companies are now dumping ...
+
+📺 Cyrus Janssen
+
+👁️ 53K • 👍 4K • 💬 246 • ⏱️ 10:28 • 1d ago
+
+---
+
+**[AI CEOS PANIC After Public Outrage Over Job Loss](https://www.youtube.com/watch?v=Xxodq1QWvMk)**
+
+Ryan and Saagar discuss AI CEOs panicking and trying to backtrack on projections of job losses. Sign up for a PREMIUM ...
+
+📺 Breaking Points
+
+👁️ 177K • 👍 5K • 💬 989 • ⏱️ 19:42 • 10h ago
+
+---
+
+**[Artificial Intelligence: Complete path to 2030](https://www.youtube.com/watch?v=XXaUd0fGpOs)**
+
+Which of these predictions are starting to happen right now? ___ CHAPTERS: 00:00 AI In The Next 5 Years (2026 to 2030) 19:46 ...
+
+📺 Future Business Tech
+
+👁️ 10K • 👍 399 • 💬 37 • ⏱️ 2:02:04 • 15h ago
+
+---
+
+**[China Is About To Pop The AI Bubble](https://www.youtube.com/watch?v=siazPdsZHuI)**
+
+China Is About To Pop The AI Bubble ▻ Go to https://ground.news/jikh to access world-wide perspectives in one place, compare ...
+
+📺 Andrei Jikh
+
+👁️ 146K • 👍 11K • 💬 1K • ⏱️ 30:47 • 4h ago
 
 ---
 
@@ -397,7 +393,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,683,711 • ❤️ 1,745 • 9d ago
+⬇️ 1,683,711 • ❤️ 1,767 • 9d ago
 
 ---
 
@@ -409,7 +405,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 121 • ❤️ 477 • 1d ago
+⬇️ 121 • ❤️ 493 • 1d ago
 
 ---
 
@@ -421,7 +417,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 281,584 • ❤️ 3,584 • 5d ago
+⬇️ 281,584 • ❤️ 3,601 • 5d ago
 
 ---
 
@@ -433,7 +429,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,084,945 • ❤️ 1,828 • 4d ago
+⬇️ 1,084,945 • ❤️ 1,836 • 4d ago
 
 ---
 
@@ -445,7 +441,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 14,723 • ❤️ 371 • 4d ago
+⬇️ 14,723 • ❤️ 376 • 4d ago
 
 ---
 
@@ -457,19 +453,7 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 9,458 • ❤️ 285 • 3d ago
-
----
-
-**[Qwen3.6-27B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4)**
-
-*NVIDIA*
-
-The Qwen3.6-27B-NVFP4 is an FP4 quantized version of Alibaba's Qwen3.6-27B LLM, optimized by NVIDIA for efficient inference on NVIDIA GPUs. It excels in text generation tasks and is suitable for AI agents, chatbots, and RAG systems.
-
-`text-generation` `18.2B`
-
-⬇️ 538,687 • ❤️ 314 • 7d ago
+⬇️ 9,458 • ❤️ 290 • 3d ago
 
 ---
 
@@ -481,7 +465,19 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 502,663 • ❤️ 779 • 12d ago
+⬇️ 502,663 • ❤️ 781 • 12d ago
+
+---
+
+**[Qwen3.6-27B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4)**
+
+*NVIDIA*
+
+The Qwen3.6-27B-NVFP4 is an FP4 quantized version of Alibaba's Qwen3.6-27B LLM, optimized by NVIDIA for efficient inference on NVIDIA GPUs. It excels in text generation tasks and is suitable for AI agents, chatbots, and RAG systems.
+
+`text-generation` `18.2B`
+
+⬇️ 538,687 • ❤️ 315 • 7d ago
 
 ---
 
@@ -505,7 +501,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 384,383 • ❤️ 1,072 • 18d ago
+⬇️ 384,383 • ❤️ 1,077 • 18d ago
 
 ---
 
@@ -521,7 +517,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.
 
-▲ 30 • 💬 1 • ⭐ 290 • 2d ago
+▲ 31 • 💬 1 • ⭐ 339 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05247) • [💻 code](https://github.com/Robbyant/lingbot-vision) • [🔗 project](https://technology.robbyant.com/lingbot-vision)
 
@@ -547,7 +543,7 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 8 • 💬 0 • ⭐ 5,912 • 10mo ago
+▲ 8 • 💬 0 • ⭐ 6,260 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
@@ -559,23 +555,9 @@ https://continuous-audio-language-models.github.io
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 108 • 💬 4 • ⭐ 91,571 • 18mo ago
+▲ 109 • 💬 4 • ⭐ 91,648 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
-
-*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
-
-🏢 BAIDU
-
-Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
-
-▲ 51 • 💬 5 • ⭐ 13,561 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -587,21 +569,23 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 252 • 💬 4 • ⭐ 11,318 • 1mo ago
+▲ 252 • 💬 4 • ⭐ 11,418 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
-**[Multiplayer Interactive World Models with Representation Autoencoders](https://huggingface.co/papers/2607.05352)**
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
 
-*Anthony Hu, Václav Volhejn, Adrien Ramanana Rahary et al. (27 authors)*
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
 
-A large-scale multiplayer world model trained on extensive gameplay data demonstrates stable long-horizon rollouts in a complex physics-based environment while maintaining coherence across multiple agents' actions.
+🏢 BAIDU
 
-▲ 13 • 💬 0 • ⭐ 197 • 2d ago
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-[🎓 arXiv](https://arxiv.org/abs/2607.05352) • [💻 code](https://github.com/mira-wm/mira) • [🔗 project](https://mira-wm.com/)
+▲ 51 • 💬 5 • ⭐ 13,617 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -615,6 +599,18 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 ▲ 175 • 💬 2 • ⭐ 73,772 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[Multiplayer Interactive World Models with Representation Autoencoders](https://huggingface.co/papers/2607.05352)**
+
+*Anthony Hu, Václav Volhejn, Adrien Ramanana Rahary et al. (27 authors)*
+
+A large-scale multiplayer world model trained on extensive gameplay data demonstrates stable long-horizon rollouts in a complex physics-based environment while maintaining coherence across multiple agents' actions.
+
+▲ 14 • 💬 0 • ⭐ 236 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.05352) • [💻 code](https://github.com/mira-wm/mira) • [🔗 project](https://mira-wm.com/)
 
 ---
 
@@ -632,20 +628,6 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 ---
 
-**[ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439)**
-
-*Qihao Zhao, Yangyu Huang, Yalun Dai et al. (11 authors)*
-
-🏢 Microsoft
-
-ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
-
-▲ 38 • 💬 1 • ⭐ 150 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -659,6 +641,20 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
+**[ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439)**
+
+*Qihao Zhao, Yangyu Huang, Yalun Dai et al. (11 authors)*
+
+🏢 Microsoft
+
+ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
+
+▲ 41 • 💬 1 • ⭐ 181 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -669,7 +665,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 76.9k • 🔱 4.1k • 21h ago
+⭐ 77.0k • 🔱 4.1k • 1d ago
 
 ---
 
@@ -679,7 +675,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.6k • 🔱 1.1k • 10h ago
+⭐ 11.6k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -689,7 +685,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.6k • 🔱 881 • 1h ago
+⭐ 6.7k • 🔱 885 • 8m ago
 
 ---
 
@@ -699,7 +695,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 6.4k • 🔱 821 • 4h ago
+⭐ 6.4k • 🔱 825 • 7h ago
 
 ---
 
@@ -709,7 +705,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 3.3k • 🔱 745 • 6h ago
+⭐ 3.4k • 🔱 762 • 10h ago
 
 ---
 
@@ -719,7 +715,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.5k • 🔱 215 • 2h ago
+⭐ 2.5k • 🔱 216 • 5h ago
 
 ---
 
@@ -729,7 +725,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.1k • 🔱 78 • 1d ago
+⭐ 2.2k • 🔱 78 • 1d ago
 
 ---
 
@@ -743,6 +739,16 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 ---
 
+**[synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)**
+
+The open-source AI workbench for scientific research
+
+`TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
+
+⭐ 1.4k • 🔱 198 • 9h ago
+
+---
+
 **[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)**
 
 AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
@@ -750,16 +756,6 @@ AI logo animation skill: turn raster logos into smooth SVG animation, animated H
 `Python` `ai-design-tools` `animated-logo` `brand-motion` `claude-skill` `codex-skill`
 
 ⭐ 1.4k • 🔱 121 • 9d ago
-
----
-
-**[apple/coreai-models](https://github.com/apple/coreai-models)**
-
-Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
-
-`Swift`
-
-⭐ 1.3k • 🔱 108 • 5h ago
 
 ---
 
