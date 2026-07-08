@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-08T15:41:45.567167+00:00'
+updated: '2026-07-08T17:37:19.239773+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 15:41 UTC  
+**Last Updated:** July 08, 2026 at 17:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** +0.2%  
-**30d:** -0.0%  
-**90d:** -15.4%  
-**1y:** -44.7%  
+**24h:** -2.0%  
+**7d:** +1.3%  
+**30d:** +1.1%  
+**90d:** -14.5%  
+**1y:** -44.0%  
 
 ---
 
@@ -77,77 +77,77 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[What securing my 0.025 BTC with a hardware wallet feels like](https://www.reddit.com/r/Bitcoin/comments/1uothas/what_securing_my_0025_btc_with_a_hardware_wallet/)**
+**[BTC again😩🔥](https://www.reddit.com/r/Bitcoin/comments/1uqs7fc/btc_again/)**
 
-2d ago
-
----
-
-**[Bitcoin is for anyone](https://www.reddit.com/r/Bitcoin/comments/1uouzk5/bitcoin_is_for_anyone/)**
-
-2d ago
+4h ago
 
 ---
 
-**[Saylor just sold 3,588 BTC for $216 million. "Never sell" is officially a retired slogan](https://www.reddit.com/r/Bitcoin/comments/1uowmwt/saylor_just_sold_3588_btc_for_216_million_never/)**
+**[BULL BITCOIN](https://www.reddit.com/r/Bitcoin/comments/1uqresx/bull_bitcoin/)**
 
-3,588 BTC sold this morning by the person who invented HODLing for corporations. Saylor broke "never sell" in may with 32 coins as we though but he again sold this morning with 3,588 coins and a $216 million filing. while 32 coins was a proof of concept to show the market the mechanism works, maintain confidence so now 3,588 coins is a quarterly dividend payment. Strategy's preferred stock obligations run $750-800 million annually,btc is at $62K against an average purchase price of $75,699 and the equity premium that let them raise cheap capital has inverted into a disc. The model that worked elegantly at $100K btc is running on fumes at $62K lol. The irony is that saylor understood the self custody argument better than almost anyone and spent years explaining why holding bitcoin through any intermediary like an exchange, an ETF, a corporate wrapper introduces counterparty risk that direct ownership doesnt have but he just bet that his corporate wrapper was different because conviction. It wasnt diif but leverage and leverage without a timeline is just a margin call waiting for the right price. Sometimes boring is just correct. Is 3,588 coins a one quarter event or does this file every quarter until btc recovers above $75K?
+BULL BITCOIN is taking France’s highest administrative court to seek the annulment of DAC8, a new European law that puts millions of users at physical risk.
 
-2d ago
+5h ago
 
 ---
 
-**[🇫🇷 France logs 77 crypto kidnappings and extortions in 6 months (+71% vs 2025), government unveils new security plan](https://www.reddit.com/r/Bitcoin/comments/1up8di9/france_logs_77_crypto_kidnappings_and_extortions/)**
+**[Revolut + Lightning: why 35 million new "Lightning users" is not the good news everyone thinks it is](https://www.reddit.com/r/Bitcoin/comments/1uqqiba/revolut_lightning_why_35_million_new_lightning/)**
 
-In March, a couple in their sixties get tied up in their own home in Le Chesnay (Yvelines) by three men posing as police officers. At knifepoint, the husband is forced to transfer €900,000 in Bitcoin. In February, the head of Binance France narrowly avoids an armed break-in at his home in Paris, the three attackers flee empty-handed after failing to find him there. These aren't isolated incidents. France's Interior Minister Laurent Nuñez announced on June 30 that the country has recorded 77 kidnappings, extortions, and attempted attacks tied to the crypto sector since January, up from 45 for all of 2025. For scale: according to data compiled by Jameson Lopp, France alone recorded 19 "wrench attacks" in 2025, more than double the total in the US, and over a quarter of all documented cases worldwide. The numbers from the minister: 200 people arrested over the past year, "either after the fact or preemptively" 724 holders and industry figures registered on the immediate identification platform (a direct emergency hotline), up 11% year-over-year One case cited: in the Somme, on June 26, perpetrators were arrested just 8 hours after the incident, after the victim used this hotline The new plan, described as "more ambitious," rests on three pillars: Stronger intelligence sharing to identify criminal networks, some of whose organizers operate from abroad Expanded partnership with ADAN (France's digital asset industry association), including a new expert network bringing together industry and state agencies Stronger operational and international coordination with the countries where organizers are based On that last point, Nuñez gave a concrete example: after the arrest in Morocco, in June 2025, of a French-Moroccan suspect accused of ordering a string of kidnappings, including that of Ledger co-founder David Balland, kidnapped in January 2025 and freed in a raid by France's GIGN tactical unit, the wave of attacks stopped abruptly, overnight. Other notable 2026 cases: in April, a family of five was extorted for €700,000. One technical detail explains in part why Bitcoin holders specifically get targeted: unlike a bank transfer, a Bitcoin transaction signed under duress is irreversible: impossible to block or reverse once it's broadcast to the network. That completely changes the risk/reward calculation for attackers compared to a traditional robbery. And you, what security measures do you take as Bitcoin Hodlers?
+Revolut just announced Lightning integration via Lightspark for UK and European users. 35 million people will soon use Lightning. The Bitcoin media is celebrating. I think we should slow down. Here's what Revolut is actually doing: NOT giving you a Lightning node NOT giving you channel keys NOT giving you any sovereignty It's custodial Lightning. Revolut holds the keys, manages the channels, can freeze your funds, and reports every payment to regulators. It's a bank account with Lightning rails. The real comparison nobody publishes: Revolut Lightning vs Self-Custodial LND: Key custody: Revolut vs YOU KYC: mandatory vs none Fund freezing: anytime vs impossible Privacy: zero vs strong (Tor) Routing fees: Revolut keeps vs you keep Sovereignty: none vs complete There are things the Revolut integration does validate: Lightning works at scale, network liquidity grows, Lightning Addresses get normalized. That matters. But 35 million surveilled custodial users is not what Lightning was designed for. Full article:https://davidebtc186.substack.com/p/revolut-lightning-good-news-or-a Donaet; [zap@shadowbip.com](mailto:zap@shadowbip.com)
+
+5h ago
+
+---
+
+**[Conduition, Jeremy Rubin - Bitcoin Optech Newsletter #412 Recap Podcast](https://www.reddit.com/r/Bitcoin/comments/1uqvzjc/conduition_jeremy_rubin_bitcoin_optech_newsletter/)**
+
+Conduition and Jeremy Rubin joined Optech to discuss Newsletter #412.: Benchmarking SLH-DSA STARK aggregation Bird of Prey 2 (BoP-2) non-malleable schnorr and PQ signatures Lattice-based signatures Public key recovery for P2MR EC leaves Aligning privacy incentives in P2MR Prohibit merkle internal node preimages that encode minimal 64-byte transactions Triggering EC disabling with a NUMS point spend or hashrate majority And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/07/07/ Fountain: https://fountain.fm/episode/y6XkElTaP2wZFzmAsY8n Spotify: https://open.spotify.com/episode/3tHQacI9FTEYW3J2uLDX4d Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-412-recap/id1674626983?i=1000775973839
+
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/07/07/) • 2h ago
+
+---
+
+**[digital btc watch](https://www.reddit.com/r/Bitcoin/comments/1uqvlek/digital_btc_watch/)**
+
+Hi everyone, I’ve spent a lot of time engaging with Bitcoin over the past five years, and now I want to make my own contribution to the space. After consuming countless podcasts, books, and so on, I found myself going deeper and deeper down the "time" rabbit hole—exploring the nature of time and its fundamental importance in the financial world and our society at large (calendars). Alongside my fascination with Bitcoin, I have a passion for watches, and I’d like to combine the two. I want to create the first digital Bitcoin wristwatch. I’d like to base the design on the Casio A168WA. It would display the block height, the time until the next block, and the current epoch. My question for you all is: would you wear or buy a watch like this? Or am I the only one? Thanks!
+
+2h ago
+
+---
+
+**[From Ancient Trade to Bitcoin: A Brief History of Money](https://www.reddit.com/r/Bitcoin/comments/1uqpa7l/from_ancient_trade_to_bitcoin_a_brief_history_of/)**
+
+I’ve made another attempt at writing an article. If you’re interested in a quick history of money or curious about what trade looked like before money existed (spoiler: it wasn’t actually based on simple barter, despite the common myth), you might find it interesting. The article covers the evolution of money from the earliest forms of trade all the way to Bitcoin. You can read it here: https://stdout.ondran.com/en/history-of-money I’d really appreciate any feedback, whether it’s about the content, writing style, or anything else. Thanks!
+
+6h ago
+
+---
+
+**[Bull Bitcoin is officially opening the first legal front against DAC8 in Europe - stacker.news](https://www.reddit.com/r/Bitcoin/comments/1uqxh7s/bull_bitcoin_is_officially_opening_the_first/)**
+
+🔗 [stacker.news](https://stacker.news/items/1521232/r/BITC0IN) • 1h ago
+
+---
+
+**[Daily Discussion, July 08, 2026](https://www.reddit.com/r/Bitcoin/comments/1uqk468/daily_discussion_july_08_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+11h ago
+
+---
+
+**[Me after Strategy sold and bitcoin pumped 3%](https://www.reddit.com/r/Bitcoin/comments/1uptafj/me_after_strategy_sold_and_bitcoin_pumped_3/)**
 
 1d ago
 
 ---
 
-**[My honest reaction](https://www.reddit.com/r/Bitcoin/comments/1uoq3su/my_honest_reaction/)**
+**[16 Years Rise and Falls over 30%](https://www.reddit.com/r/Bitcoin/comments/1uqfdb4/16_years_rise_and_falls_over_30/)**
 
-2d ago
+https://preview.redd.it/m5qx5csqywbh1.png?width=1695&format=png&auto=webp&s=6eff37448baac696f6875565e100adcb28d3ddd7 Please feel free to validate my prices here, used a combination of Coinbase and Claude to create this.
 
----
-
-**[You don't need to tell the employee that you want to use bitcoin when paying with bitcoin at a Square terminal](https://www.reddit.com/r/Bitcoin/comments/1uosxuk/you_dont_need_to_tell_the_employee_that_you_want/)**
-
-You don't need to tell the employee that you want to pay with bitcoin when you want to spend bitcoin at a store that uses Square and has the bitcoin payment option enabled. You do not even need to mention bitcoin to the employee. You just click the toggle button on the top left and it'll switch the payment method from fiat currency to bitcoin and it will show a lightning invoice QR code for you to scan.
-
-2d ago
-
----
-
-**[Bitcoin is my favorite stress test.](https://www.reddit.com/r/Bitcoin/comments/1uoyvso/bitcoin_is_my_favorite_stress_test/)**
-
-Every time I think I’m calm, BTC reminds me who’s in charge.
-
-2d ago
-
----
-
-**[Michael Saylor's 'Strategy' sold another 3,588 Bitcoin worth $225 million.](https://www.reddit.com/r/Bitcoin/comments/1uovpjv/michael_saylors_strategy_sold_another_3588/)**
-
-July 6, 2026
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-sells-3-588-btc-to-fund-digital-credit-dividends-now-holds-843-775-and-2-55b) • 2d ago
-
----
-
-**[Bitcoin 4 year cycle : Where are we?](https://www.reddit.com/r/Bitcoin/comments/1uoupqe/bitcoin_4_year_cycle_where_are_we/)**
-
-For those who believe the 4 year cycle hasn't break yet, where are we exactly ? Most I heard is the end of the bear will be Oct 2026.
-
-2d ago
-
----
-
-**[Can AI datacentres be repurposed to mine bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1up3oam/can_ai_datacentres_be_repurposed_to_mine_bitcoin/)**
-
-I was reading a lot of AI data centres that were planned to be built are now being scrapped due to the cost of AI. I think a lot of these were at the early stages of being built, or construction hasn't been started yet, but what if a large data centre, already built and operational, is deemed too costly to continue providing AI services for whatever reason. Can they realistically pivot into mining bitcoin due to a lot of the infrastructure already needed, being there?
-
-1d ago
+15h ago
 
 ---
 
@@ -169,15 +169,47 @@ WSJ • 2d ago
 
 ---
 
-**[Cantor, Adam Back’s BSTR Seek New Terms for Bitcoin SPAC Merger](https://www.bloomberg.com/news/articles/2026-07-08/cantor-adam-back-s-bstr-seek-new-terms-for-bitcoin-spac-merger)**
+**[Bitcoin under pressure as Trump says Iran ceasefire is over](https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil)**
 
-Bloomberg • 1h ago
+Major cryptocurrencies are trading in the red as renewed U.S.-Iran airstrikes push oil higher.
+
+CoinDesk • 7h ago
+
+---
+
+**[Bitcoin (BTC) Weakens as Trump’s Remarks Raise Fresh Iran War Concerns](https://www.bloomberg.com/news/articles/2026-07-08/bitcoin-btc-weakens-as-trump-s-remarks-raise-fresh-iran-war-concerns)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Trump declares Iran ceasefire over; bitcoin and crypto markets drop](https://finance.yahoo.com/video/trump-declares-iran-ceasefire-over-bitcoin-and-crypto-markets-drop-165457473.html)**
+
+Scott Melker dives into bitcoin and crypto market performance after President Trump declares the Iran ceasefire over, Japanese companies buying bitcoin, Robinhood's new blockchain hitting $100M in one week, and other big crypto headlines. 
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 42m ago
+
+---
+
+**[Japanese firms are buying bitcoin, XRP amid yen weakness](https://uk.finance.yahoo.com/video/japanese-firms-buying-bitcoin-xrp-173000573.html)**
+
+Scott Melker discusses how more Japanese companies are adding cryptocurrencies bitcoin (BTC-USD) and XRP (XRP-USD) to their balance sheets as the yen experiences further weakness.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's crypto hub to find the latest crypto-related news.
+
+Yahoo Finance UK • 7m ago
 
 ---
 
 **[Crypto kiosks were used to scam $56 million from Texans last year. Lawmakers are calling for regulation.](https://www.texastribune.org/2026/07/08/texas-cryptocurrency-kiosk-bitcoin-atm-scam-fraud/)**
 
-The Texas Tribune • 5h ago
+The Texas Tribune • 7h ago
 
 ---
 
@@ -185,7 +217,15 @@ The Texas Tribune • 5h ago
 
 A bitcoin mining data center in Crossville is generating noise complaints from neighboring businesses, and city officials say they are considering a two-year moratorium on future data centers while they work to establish additional regulations.
 
-WVLT • 12h ago
+WVLT • 14h ago
+
+---
+
+**[Cantor Equity Partners I, Inc. and Bitcoin Standard Treasury Company Provide Update on Proposed Business Combination](https://www.businesswire.com/news/home/20260708171203/en/Cantor-Equity-Partners-I-Inc.-and-Bitcoin-Standard-Treasury-Company-Provide-Update-on-Proposed-Business-Combination)**
+
+Cantor Equity Partners I, Inc. (Nasdaq: CEPO) ("CEPO"), a special purpose acquisition company sponsored by an affiliate of Cantor Fitzgerald, today announced...
+
+Business Wire • 4h ago
 
 ---
 
@@ -193,37 +233,7 @@ WVLT • 12h ago
 
 Strategy sold $216 million worth of Bitcoin at a loss to pay back investors.
 
-Morning Brew • 10h ago
-
----
-
-**[Bitcoin rebounds after Trump says he's become 'a big crypto guy'](https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html)**
-
-Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.
-
-CNBC • 1d ago
-
----
-
-**[Eric Trump Says 'Stacking Continues' as American Bitcoin Amasses 8,000 BTC: 'We Continue to Differentiate Ourselves'](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-stacking-continues-040117728.html)**
-
-American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump celebrated on Tuesday after the company surpassed 8,000 Bitcoin (CRYPTO: BTC) in its corporate treasury holdings. ‘Onwards We Go’ Trump shared this in an X post, adding that the firm achieved a 52% mining profit margin in the first quarter and maintained “one of the lowest” Selling, General, and Administrative ratios—a measure of a company’s overhead costs relative to its total revenue—in the industry. “The stacking continues,” Trump sai
-
-Yahoo Finance • 11h ago
-
----
-
-**[🔎 Under the Radar: American Bitcoin Stock Slides After Reverse Stock Split](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-under-the-radar-american-bitcoin-stock-slides-after-reverse-stock-split-ZnKjsStkzpGy0kQDxx4g)**
-
-WSJ • 20h ago
-
----
-
-**[Eric Trump-Linked American Bitcoin Hits 8,000 BTC Milestone – Even As ABTC Stock Hits One-Year Low](https://www.tradingview.com/news/stocktwits:9e157fe28094b:0-eric-trump-linked-american-bitcoin-hits-8-000-btc-milestone-even-as-abtc-stock-hits-one-year-low/)**
-
-American Bitcoin’s (ABTC) growing Bitcoin treasury is doing little to lift investor sentiment. Shares of the Eric Trump-backed Bitcoin (BTC) miner hit a one-year low on Tuesday even after the company revealed its treasury had surpassed 8,000 BTC.The milestone comes days after American Bitcoin compl…
-
-TradingView • 3h ago
+Morning Brew • 12h ago
 
 ---
 
@@ -245,7 +255,7 @@ Losing valuable information is a bad thing when you’re an archivist. Have we r
 
 Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign that it is abandoning co-founder Michael Saylor’s “Never sell your Bitcoin” mantra as a slumping digital asset market …
 
-⬆️ 5 • 💬 2 • 1d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
+⬆️ 5 • 💬 2 • 2d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
 
 ---
 
@@ -253,45 +263,7 @@ Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign
 
 Contribute to raphaelwkago69-create/GLYPH development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 2d ago • [GitHub](https://github.com/raphaelwkago69-create/GLYPH)
-
----
-
-**[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
-
-⬆️ 12 • 💬 4 • 2d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
-
----
-
-**[Ditching Zotero for a Text File](https://news.ycombinator.com/item?id=48809916)**
-
-Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
-
-⬆️ 5 • 💬 0 • 1d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
-
----
-
-**[Show HN: I created a ninety second challenge for conversations that matter](https://news.ycombinator.com/item?id=48826595)**
-
-Practice sales calls, interviews, presentations, objections, and business pitches with Pitch, your conversation rehearsal coach.
-
-⬆️ 2 • 💬 0 • 13h ago • [AskPitch](https://www.AskPitch.com/duel)
-
----
-
-**[Show HN: Graphene – local-only Git wrapper to manage stacked branches](https://news.ycombinator.com/item?id=48816605)**
-
-Stacked branches. Contribute to alexghr/graphene development by creating an account on GitHub.
-
-⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/alexghr/graphene)
-
----
-
-**[DeFi manual yield farming is outdated](https://news.ycombinator.com/item?id=48827714)**
-
-The rise of Vault: Replacement of the DeFi "DIY"
-
-⬆️ 1 • 💬 0 • 10h ago • [HodlyCrypto](https://hodlycrypto.com/blog/why-smart-money-is-ditching-manual)
+⬆️ 2 • 💬 0 • 3d ago • [GitHub](https://github.com/raphaelwkago69-create/GLYPH)
 
 ---
 
@@ -305,7 +277,7 @@ The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altco
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 84 • ⏱️ 9:12 • 16h ago
+👁️ 29K • 👍 2K • 💬 84 • ⏱️ 9:12 • 18h ago
 
 ---
 
@@ -315,7 +287,7 @@ The Trump administration's plan to create a Strategic Bitcoin Reserve has been c
 
 📺 Paul Barron Network
 
-👁️ 41K • 👍 2K • 💬 116 • ⏱️ 16:05 • 20h ago
+👁️ 41K • 👍 2K • 💬 116 • ⏱️ 16:05 • 22h ago
 
 ---
 
@@ -325,7 +297,7 @@ Bitcoin just had its best week since March—but that's not the most important s
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 506 • 💬 170 • ⏱️ 14:54 • 23h ago
+👁️ 13K • 👍 506 • 💬 170 • ⏱️ 14:54 • 1d ago
 
 ---
 
@@ -335,7 +307,7 @@ Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https:
 
 📺 Benjamin Cowen
 
-👁️ 15K • 👍 2K • 💬 107 • ⏱️ 11:24 • 3h ago
+👁️ 15K • 👍 2K • 💬 107 • ⏱️ 11:24 • 5h ago
 
 ---
 
@@ -345,7 +317,7 @@ Lyn Alden breaks down the direct correlation between Bitcoin's recent consolidat
 
 📺 Natalie Brunell
 
-👁️ 672 • 👍 17 • 💬 30 • ⏱️ 0:36 • 3h ago
+👁️ 672 • 👍 17 • 💬 30 • ⏱️ 0:36 • 5h ago
 
 ---
 
@@ -385,7 +357,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 469 • 💬 483 • ⏱️ 13:35 • 16h ago
+👁️ 7K • 👍 469 • 💬 483 • ⏱️ 13:35 • 18h ago
 
 ---
 
@@ -395,7 +367,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 350 • 2h ago
+👁️ 2K • 👍 350 • 4h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-08T15:41:45.572512+00:00'
+updated: '2026-07-08T17:37:19.244439+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 15:41 UTC  
+**Last Updated:** July 08, 2026 at 17:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,719.74
+### $1,744.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** +1.2%  
-**30d:** +5.0%  
-**90d:** -23.4%  
-**1y:** -37.8%  
+**24h:** -2.4%  
+**7d:** +2.6%  
+**30d:** +6.4%  
+**90d:** -22.3%  
+**1y:** -36.9%  
 
 ---
 
@@ -94,7 +94,7 @@ Been thinking about the post quantum migration for a while and built a small too
 
 does decentralized governance in DAOs really work? this is an almost existential-level question on the realities of one of crypto’s most core toolings, and it’s being put to the test by what’s happening with the Ethereum Name Service DAO lately. if you’ve heard buzz around the drama surrounding ENS lately but couldn’t be bothered to keep up, I explain! https://youtu.be/_du0qCXCix4 but broadly: a Temp Check hit the ENS forum last week proposing to move operations, grants, and treasury management out of constant token votes and into a five-seat professional board at the ENS Foundation, with one seat reserved for founder Nick Johnson. token holders keep protocol control and the power to remove directors, and the Foundation can't vote its own treasury tokens. two onchain moves landed around the same time: Johnson self-delegated close to half of all active voting power in ENS governance, and a brand-new wallet with no public identity received ~200k ENS traced back to ENS Labs, instantly becoming the second-largest delegate. Lefteris Karapetsas (rotki) says it looks like coordinated preparation to swing the vote. Katherine Wu, the proposal's lead author, says a board with teeth is professionalization, and a founder holding his tokens is exactly what we ask founders to do. every DAO eventually hits this wall. full-token voting is slow and exhausting, but the moment someone tries to fix it is also the moment concentrated voting power matters most. i put together a ~4 minute breakdown covering the proposal, the wallet trail, and posing the ultimate question: when a decentralized community needs to change how it makes decisions, who gets to decide what that change looks like when all else has seemingly failed? https://youtu.be/_du0qCXCix4 super curious to hear this subreddit's thoughts on DAO governance! what are the successful examples? is ENS bound to be an example of a failure in decentralized governance? or is what ENS is doing necessary for the growth of the protocol? -------------------------------- if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-🔗 [youtu.be](https://youtu.be/_du0qCXCix4) • 1d ago
+🔗 [youtu.be](https://youtu.be/_du0qCXCix4) • 2d ago
 
 ---
 
@@ -148,11 +148,27 @@ Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once ag
 
 ## Google News: "ethereum"
 
-**[Cardano Founder Criticizes Ethereum’s Innovation Plan](https://finance.yahoo.com/markets/crypto/articles/cardano-founder-criticizes-ethereum-innovation-141800594.html)**
+**[Bitcoin, Ethereum, XRP Flat, Dogecoin Falls Amid Strategic Bitcoin Reserve Push: Analyst Says 'a Lot of' Upside to Come If BTC Does This](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-flat-dogecoin-023134561.html)**
 
-Charles Hoskinson, the founder of digital asset Cardano (CRYPTO: $ADA), is criticizing the Ethereum Foundation&rsqu...
+Leading cryptocurrencies moved sideways on Monday as high-profile Bitcoin sell-offs were offset by growing optimism for a Strategic Bitcoin Reserve. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:50 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.63%$63,925.65Ethereum (CRYPTO: ETH) +0.52%$1,794.35XRP (CRYPTO: XRP) -0.88%$1.14Solana (CRYPTO: SOL) +0.44%$81.97Dogecoin (CRYPTO: DOGE) -1.95%$0.07618 Bitcoin Dips And Then Rips Bitcoin dipped to the mid-$61,000 range in early trading after Strategy Inc. (NASDAQ
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP extend technical weakness amid escalating tensions in the Middle East](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-technical-weakness-amid-escalating-tensions-in-the-middle-east-202607081215)**
+
+Cryptocurrencies are broadly extending declines on Wednesday, after last week’s recovery. The sell-off has seen Bitcoin (BTC) slide below $62,000, increasing downside risks toward the next key support at $60,000.
+
+FXStreet • 5h ago
+
+---
+
+**[Which Crypto Can Make You a Millionaire by 2030 With $10,000? We Compared XRP, BTC, ETH, SOL, and HYPE](https://247wallst.com/investing/cryptocurrency/2026/07/05/which-crypto-can-make-you-a-millionaire-by-2030-with-10000-we-compared-xrp-btc-eth-sol-and-hype/)**
+
+Can $10,000 in XRP, Bitcoin, Ethereum, Solana, or Hyperliquid make you a millionaire by 2030? Let's see which crypto has a real shot.
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -160,15 +176,15 @@ Yahoo Finance • 1h ago
 
 Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
 
-CryptoSlate • 17h ago
+CryptoSlate • 19h ago
 
 ---
 
-**[Current price of Ethereum for July 8, 2026](https://fortune.com/article/price-of-ethereum-07-08-2026/)**
+**[Vitalik Buterin says Ethereum's next rebuild will rival the Merge, and take three to four years](https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+He said quantum safety has "shifted up a LOT in priority" and that Hegota, slated for later this year, will likely be Ethereum's last "pre-Lean" hard fork.
 
-Fortune • 2h ago
+The Block • 2d ago
 
 ---
 
@@ -180,11 +196,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-73-144145212.html)**
+**[Vitalik Buterin Outlines 'Lean Ethereum' Roadmap, a Three-to-Four-Year Protocol Overhaul](https://thedefiant.io/news/blockchains/vitalik-buterin-outlines-lean-ethereum-roadmap-a-three-to-four-year-protocol-overhaul)**
 
-BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
+Ethereum co-founder Vitalik Buterin laid out an updated "Lean Ethereum" roadmap in a post on X Saturday, describing a three-to-four-year overhaul he…
 
-Yahoo Finance • 2d ago
+The Defiant • 2d ago
 
 ---
 
@@ -196,35 +212,19 @@ PR Newswire • 2d ago
 
 ---
 
+**[Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-73-144145212.html)**
+
+BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Bitmine's Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum's total supply](https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply)**
 
 Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.
 
 The Block • 2d ago
-
----
-
-**[Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs](https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs)**
-
-Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
-
-The Block • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces renewed selling, ETH weakens, XRP risks deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-renewed-selling-eth-weakens-xrp-risks-deeper-losses-202607080314)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) face renewed selling on Wednesday, extending their corrective move so far this week. BTC faced rejection at $64,000, and ETH failed to break above the 50-day Exponential Moving Average (EMA).
-
-FXStreet • 12h ago
-
----
-
-**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
-
-DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
-
-markets.businessinsider.com • 21h ago
 
 ---
 
@@ -248,7 +248,7 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 10K • 👍 1K • 💬 403 • ⏱️ 13:04 • 18h ago
+👁️ 10K • 👍 1K • 💬 403 • ⏱️ 13:04 • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 441 • 💬 211 • ⏱️ 19:01 • 22h ago
+👁️ 7K • 👍 441 • 💬 211 • ⏱️ 19:01 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 7 • ⏱️ 14:31 • 11h ago
+👁️ 3K • 👍 191 • 💬 7 • ⏱️ 14:31 • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 137 • 👍 12 • 💬 11 • ⏱️ 4:52 • 4h ago
+👁️ 137 • 👍 12 • 💬 11 • ⏱️ 4:52 • 6h ago
 
 ---
 
@@ -298,7 +298,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 11K • 👍 690 • 💬 148 • ⏱️ 21:46 • 15h ago
+👁️ 11K • 👍 690 • 💬 148 • ⏱️ 21:46 • 17h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T15:41:45.575376+00:00'
+updated: '2026-07-08T17:37:19.246894+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 15:41 UTC  
+**Last Updated:** July 08, 2026 at 17:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle
 
 I sometimes need to tune the inertial property of the robot by changing the density or mass of each parts. Doing it in CAD and have it re-export to URDF takes a bit long and too tedious. So this online editor lets you (and me) quickly make changes, and have the inertia tensor of the links be recomputed immediately. You can then copy-paste the updated URDF. This is basically entirely made by claude (with some of my help :)) (And yes, it is placed under my startup's domain as a potential lead magnet. but I think it could be useful for some people nonetheless. EDIT (forgot to post the link) Welcome to try: https://urdf.aperobotics.io/
 
-1d ago
+2d ago
 
 ---
 
@@ -114,41 +114,17 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 ## Google News: "robotics"
 
-**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
 
-New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-NVIDIA Blog • 1d ago
-
----
-
-**[Renting makes robots affordable for work and play](https://www.bbc.com/news/articles/c4gymkg9lr2o)**
-
-Robotics tech is changing fast, so for many it makes sense to rent a robot.
-
-BBC • 1d ago
-
----
-
-**[BlackBerry Sees Strong Pipeline Across Robotics and Automation](https://finance.yahoo.com/technology/articles/blackberry-sees-strong-pipeline-across-121800442.html)**
-
-BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
-
-Yahoo Finance • 3h ago
+mistral.ai • 3h ago
 
 ---
 
 **[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Bloomberg • 1h ago
-
----
-
-**[The humanoid robot boom is here. These top Silicon Valley investors aren't buying it.](https://www.businessinsider.com/humanoid-boom-is-here-some-vcs-want-no-part-of-2026-6)**
-
-These VCs say humanoids are overhyped. They're backing robots with wheels, wings, and specialized designs instead.
-
-Business Insider • 1d ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -160,11 +136,35 @@ The Guardian • 2d ago
 
 ---
 
+**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
+
+Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
+
+Forbes • 17h ago
+
+---
+
 **[How AI could enable autonomous robot workers in workplaces—and maybe homes](https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)**
 
 Top robotics researchers and founders explain how robot autonomy is evolving.
 
 Ars Technica • 1d ago
+
+---
+
+**[NVIDIA (NVDA) Opens New Doors for Robotics Developers – Here’s How](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-opens-doors-robotics-120038440.html)**
+
+NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best Stocks to Buy in Glen Kacher’s Light Street Portfolio. On July 6, 2026, NVIDIA Corporation (NASDAQ:NVDA) expanded its partnership with Hugging Face to integrate its Isaac GR00T 1.7 foundation model and Isaac Teleop framework into the open-source LeRobot library. The collaboration connects NVIDIA Corporation’s (NASDAQ:NVDA) three […]
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots](https://fortune.com/2026/07/08/nomagics-new-ai-lab-headed-by-former-google-deepmind-researcher-claims-success-in-early-deployment-of-ai-brain-for-warehouse-robots/)**
+
+Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
+
+Fortune • 10h ago
 
 ---
 
@@ -174,17 +174,19 @@ Honolulu Civil Beat • 1d ago
 
 ---
 
-**[Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots](https://fortune.com/2026/07/08/nomagics-new-ai-lab-headed-by-former-google-deepmind-researcher-claims-success-in-early-deployment-of-ai-brain-for-warehouse-robots/)**
+**[Vessel acquires Robot Sales Club, betting big on Ohio as a commercial robotics hub](https://www.ohiotechnews.com/vessel-acquires-robot-sales-club/)**
 
-Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
+The Columbus-based startup solves a massive bottleneck for early-stage automation companies by embedding fractional sales teams to navigate complex enterprise deals. Backed by new capital and institutional scale, the acquisition aims to position the region as the country's premier tech corridor.
 
-Fortune • 8h ago
+Ohio Tech News • 7h ago
 
 ---
 
-**[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
+**[Renting makes robots affordable for work and play](https://www.bbc.com/news/articles/c4gymkg9lr2o)**
 
-Tech Xplore • 1d ago
+Robotics tech is changing fast, so for many it makes sense to rent a robot.
+
+BBC • 1d ago
 
 ---
 
@@ -198,7 +200,7 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 40K • 👍 2K • 💬 419 • ⏱️ 20:21 • 15h ago
+👁️ 40K • 👍 2K • 💬 419 • ⏱️ 20:21 • 17h ago
 
 ---
 
@@ -266,7 +268,7 @@ Chinese robotics company UBTech has unveiled its new bionic humanoid robots powe
 
 📺 AFP News Agency
 
-👁️ 29K • 👍 989 • 💬 195 • ⏱️ 1:55 • 4d ago
+👁️ 29K • 👍 989 • 💬 195 • ⏱️ 1:55 • 5d ago
 
 ---
 
@@ -284,7 +286,7 @@ This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, a
 
 📺 BRP Vlogs999
 
-👁️ 5K • 👍 17 • ⏱️ 0:09 • 7h ago
+👁️ 5K • 👍 17 • ⏱️ 0:09 • 8h ago
 
 ---
 
