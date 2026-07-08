@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T11:22:45.084893+00:00'
+updated: '2026-07-08T13:04:53.312596+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 11:22 UTC  
+**Last Updated:** July 08, 2026 at 13:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle-stop demo on my drone. it is easy to replicate. l will open-sourcing on GitHub soon.
 
-1d ago
+2d ago
 
 ---
 
@@ -122,22 +122,6 @@ NVIDIA Blog • 1d ago
 
 ---
 
-**[China wants to solve the hardest problem in robotics – making hands](https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid)**
-
-Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
-
-The Guardian • 2d ago
-
----
-
-**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
-
-Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
-
-Forbes • 11h ago
-
----
-
 **[Renting makes robots affordable for work and play](https://www.bbc.com/news/articles/c4gymkg9lr2o)**
 
 Robotics tech is changing fast, so for many it makes sense to rent a robot.
@@ -152,11 +136,35 @@ Honolulu Civil Beat • 1d ago
 
 ---
 
-**[WATCH: Gilbert Arts Academy revamps curriculum with robotics, drones and expanded arts education](https://www.abc15.com/news/region-southeast-valley/gilbert/watch-gilbert-arts-academy-revamps-curriculum-with-robotics-drones-and-expanded-arts-education)**
+**[China wants to solve the hardest problem in robotics – making hands](https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid)**
 
-Gilbert Arts Academy is rolling out a redesigned educational model when students return for the new school year.
+Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
 
-ABC15 Arizona • 23h ago
+The Guardian • 2d ago
+
+---
+
+**[This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)**
+
+While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
+
+TechCrunch • 2d ago
+
+---
+
+**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
+
+Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
+
+Forbes • 13h ago
+
+---
+
+**[Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots](https://fortune.com/2026/07/08/nomagics-new-ai-lab-headed-by-former-google-deepmind-researcher-claims-success-in-early-deployment-of-ai-brain-for-warehouse-robots/)**
+
+Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
+
+Fortune • 6h ago
 
 ---
 
@@ -164,13 +172,13 @@ ABC15 Arizona • 23h ago
 
 SERV is expanding into healthcare automation through Diligent Robotics, aiming to grow recurring AI software revenues beyond food delivery.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
 **[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
 
-Tech Xplore • 23h ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -178,15 +186,7 @@ Tech Xplore • 23h ago
 
 Cooperation with CGCC, Action To Action and Ibtikar Robotics may cover procurement, distribution, rentals, curriculum and technical support.
 
-Stock Titan • 14h ago
-
----
-
-**[3 AI Infrastructure Stocks to Buy in July](https://247wallst.com/investing/2026/07/07/3-ai-infrastructure-stocks-to-buy-in-july/)**
-
-Robotics and AI infrastructure stocks have ripped higher in 2026, and the path of least resistance still points up as humanoid pilots scale and AI data center spend keeps compounding.
-
-24/7 Wall St. • 22h ago
+Stock Titan • 16h ago
 
 ---
 

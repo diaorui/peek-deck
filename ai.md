@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-08T11:22:45.067080+00:00'
+updated: '2026-07-08T13:04:53.293479+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 08, 2026 at 11:22 UTC  
+**Last Updated:** July 08, 2026 at 13:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock license plate cameras. Supporters are paying his legal bills.
 
-🔗 [Military.com](https://www.military.com/air-force-engineer-accused-of-cutting-down-13-police-cameras-says-they-are-unconstitutional) • 13h ago
+🔗 [Military.com](https://www.military.com/air-force-engineer-accused-of-cutting-down-13-police-cameras-says-they-are-unconstitutional) • 15h ago
 
 ---
 
@@ -49,23 +49,7 @@ Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock 
 
 https://arxiv.org/abs/2605.18311 There’s a massive trend right now where companies are trying to replace real human feedback with LLM-driven "synthetic users." The idea sounds great on paper - why would you spend money and time recruiting real people to test products, pick design choices, or evaluate options when you can just prompt? They tested LLMs across 28 real-world studies spanning 78 choice tasks to see if their selections matched thousands of actual human participants. The result? The LLMs matched the human majority only 53% of the time. Since most tasks were a choice between two options, that's pretty much same as flipping a coin. Even worse for the "simulation" argument: adding detailed personas and chain-of-thought reasoning yielded practically no improvement. It actually made the semantic similarity to real human justifications worse because the model's "reasoning" just homogenized the outputs and failed to capture actual lived experiences. It looks like LLMs are just trained to replicate what we like about their outputs rather than making them capable of predicting human preferences. Is it time to admit that LLM simulation has hit a hard wall when it comes to replicating human choice?
 
-16h ago
-
----
-
-**[How should a high school student choose a major in the age of AI?](https://www.reddit.com/r/artificial/comments/1uqnwm3/how_should_a_high_school_student_choose_a_major/)**
-
-My younger brother is in high school and will be choosing a university major soon. He recently asked me what he should study, and it made me think about this more seriously. With AI developing so fast, choosing a major feels more complicated than before. It’s not just about what has a good salary now, but also what kind of work may still have value if more tasks become automated. One thing I keep thinking about is how to become harder to replace. For example, medicine still seems relatively safe in the short term. Not just because doctors know a lot, but because the work involves licensing, trust, responsibility, physical diagnosis, patient communication, and high-stakes decisions. But outside of medicine, I’m less sure. Should students choose majors connected to the physical world? Fields that require human trust and accountability? Something interdisciplinary, where AI becomes a tool rather than the whole job? Or is the major itself less important than building judgment, communication, problem framing, and real domain expertise? If a high school student today wants to avoid being easily replaced or optimized away by AI in the future, what should they consider when choosing a university major?
-
-1h ago
-
----
-
-**[Autonomous AI mod on a forum](https://www.reddit.com/r/artificial/comments/1uqms0l/autonomous_ai_mod_on_a_forum/)**
-
-Hello Reddit, we are running an AI experiment that basically measure how actions from an AI are self induced or commended. For this reason we created a forum (which the AI by itself decided to call Reddition and it is managed by Gram: the AI mod. This is a research project from a private company and a IUT in France for CS. If you're willing to play along, you van read about the paper introduction here https://pfia2026.lelabs.tech and join the experience here https://gram.lelabs.tech If you're curious about the AI you can read more at https://gram.lelabs.tech/gram (also reachable by the footer in the website at "how does it work"). Most of the forum is French but Gram should be able to responds matching your language if you comment in English. Of course, FEEL FREE TO INQUIRY FOR ANY REASON and I'll be glad to respond everything I can. 😇 Cheers 😉 P.S.: The forum is ephemeral, by the end of the month or at Max by the end of summer everything will be put offline and we will process the collected data for analysis. **This is not a launch of a product, this is a paper experience.**
-
-2h ago
+17h ago
 
 ---
 
@@ -73,7 +57,15 @@ Hello Reddit, we are running an AI experiment that basically measure how actions
 
 I've been trying to pick up a new skill recently and leaned heavily on AI assistants throughout the process. At first it felt incredible. Instant explanations, personalized examples, answers to every followup question without judgment. Way better than staring at a textbook or waiting for a forum reply. But after a few weeks I noticed something uncomfortable. I could have a great conversation with an AI about a concept and feel like I totally understood it, then sit down to actually apply it and realize I'd barely retained anything. The AI was so good at making explanations feel satisfying that I kept moving forward without the friction that probably makes real learning stick. This made me wonder if the problem is with AI specifically or just with how easy access to answers affects learning in general. Search engines probably did something similar. But AI feels different because the interaction is conversational and almost socially rewarding, which might make the illusion stronger. Has anyone else run into this? Do you think AI tools are a net positive for actually building skills, or are they better suited for people who already have a foundation and just need a fast reference? Curious whether anyone has found ways to use AI without replacing the struggle that makes things click. Alt titles: Are AI tutors making us feel smarter without actually making us smarter | Does learning with AI create a false sense of understanding | AI for skill building: shortcut or trap
 
-54m ago
+2h ago
+
+---
+
+**[How should a high school student choose a major in the age of AI?](https://www.reddit.com/r/artificial/comments/1uqnwm3/how_should_a_high_school_student_choose_a_major/)**
+
+My younger brother is in high school and will be choosing a university major soon. He recently asked me what he should study, and it made me think about this more seriously. With AI developing so fast, choosing a major feels more complicated than before. It’s not just about what has a good salary now, but also what kind of work may still have value if more tasks become automated. One thing I keep thinking about is how to become harder to replace. For example, medicine still seems relatively safe in the short term. Not just because doctors know a lot, but because the work involves licensing, trust, responsibility, physical diagnosis, patient communication, and high-stakes decisions. But outside of medicine, I’m less sure. Should students choose majors connected to the physical world? Fields that require human trust and accountability? Something interdisciplinary, where AI becomes a tool rather than the whole job? Or is the major itself less important than building judgment, communication, problem framing, and real domain expertise? If a high school student today wants to avoid being easily replaced or optimized away by AI in the future, what should they consider when choosing a university major?
+
+3h ago
 
 ---
 
@@ -81,7 +73,15 @@ I've been trying to pick up a new skill recently and leaned heavily on AI assist
 
 Millions of people became jobless due to AI, now some of these jobless people are becoming copper thieves at AI data centers.
 
-🔗 [VICE](https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/) • 5h ago
+🔗 [VICE](https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/) • 7h ago
+
+---
+
+**[Autonomous AI mod on a forum](https://www.reddit.com/r/artificial/comments/1uqms0l/autonomous_ai_mod_on_a_forum/)**
+
+Hello Reddit, we are running an AI experiment that basically measure how actions from an AI are self induced or commended. For this reason we created a forum (which the AI by itself decided to call Reddition and it is managed by Gram: the AI mod. This is a research project from a private company and a IUT in France for CS. If you're willing to play along, you van read about the paper introduction here https://pfia2026.lelabs.tech and join the experience here https://gram.lelabs.tech If you're curious about the AI you can read more at https://gram.lelabs.tech/gram (also reachable by the footer in the website at "how does it work"). Most of the forum is French but Gram should be able to responds matching your language if you comment in English. Of course, FEEL FREE TO INQUIRY FOR ANY REASON and I'll be glad to respond everything I can. 😇 Cheers 😉 P.S.: The forum is ephemeral, by the end of the month or at Max by the end of summer everything will be put offline and we will process the collected data for analysis. **This is not a launch of a product, this is a paper experience.**
+
+4h ago
 
 ---
 
@@ -89,7 +89,15 @@ Millions of people became jobless due to AI, now some of these jobless people ar
 
 Hi everyone, I’ve been thinking about data obsession lately. Historically, we only measured structured data (clicks, time, revenue). But with LLMs, unstructured and subjective data (like text emotion, code readability, or team vibe) can easily be converted into a float value between -1 and 1. Theoretically, we can now track the "mathematics" of literally everything. Do you think this total quantification is healthy for development processes or personal growth? What is the most chaotic/subjective thing you would try to measure using an AI prompt? Curious to hear your thoughts!
 
-5h ago
+7h ago
+
+---
+
+**[FT: Meta is testing an always-on 'super sensing' mode for its next Ray-Bans, and Zuckerberg reportedly questioned whether the capture LED could stay off while it runs](https://www.reddit.com/r/artificial/comments/1uqqaxd/ft_meta_is_testing_an_alwayson_super_sensing_mode/)**
+
+The Financial Times is reporting that Meta is testing a mode for its next-generation Ray-Ban glasses where Live AI runs in the background for hours, up from roughly 30 minutes on the current device. Cameras and sensors stay active continuously so the assistant can do things like remind you to grab your keys on the way out. Internally the feature set is called "super sensing", and it is being built into two devices codenamed Aperol (a sunglasses design) and Bellini (prescription), aimed at late 2026 or early 2027. The spec bump is not the story. The story is that Mark Zuckerberg reportedly questioned whether the small white LED that lights up whenever the glasses capture could stay off during the always-on mode, and Meta is said to be weighing it. That LED is the only notice anyone standing near a wearer gets. Every social norm and most written policies about camera glasses lean on it. Where this bites in practice: workplace and event camera policies mostly assume "recording light on means recording". If always-on capture ships with no visible indicator, those policies stop describing reality. For anyone here who owns a device or meeting-room policy, are smart glasses already covered in yours, and how? Our coverage: https://aiweekly.co/alerts/meta-tests-always-on-super-sensing-mode-for-next-ray-bans
+
+1h ago
 
 ---
 
@@ -105,15 +113,7 @@ One thing that stands out about the current AI boom is that it hasn't had a slow
 
 Do you really think so it will? And if yes, when?? Cause I do think so that reddit is the only place left which AI has not been able to replace, especially for the human-touch reasons.
 
-45m ago
-
----
-
-**[LinkedIn's behavioral scoring system and what it means for anyone building AI automations on the platform](https://www.reddit.com/r/artificial/comments/1uq718e/linkedins_behavioral_scoring_system_and_what_it/)**
-
-LinkedIn removed the fixed connection request cap sometime in the last couple of years. Well, it was more in general cuts, the latest of which happened this year, and replaced it with a dynamic per-account scoring model that most people building automation on the platform haven't fully mapped yet. The system weighs several behavioral inputs. Namely these: acceptance rate, reply rate, SSI (Social Selling Index), organic posting activity, and the number of pending unaccepted invitations sitting in your queue, which it uses to produce a trust score that directly controls how many outbound actions your account is allowed to take. In practice, this means that accounts with high trust signals (SSI around 65 or above, acceptance rates above 40%) can push up to 200 connection requests per week without triggering restrictions. However, accounts with low trust signals get throttled to around 50 per week, sometimes significantly lower at 25-30. That's 4 times the capacity difference between two accounts on the same platform running the same automation tooling, based purely on how LinkedIn grades their reputation. I think this is very relevant to anyone building or in any way using LinkedIn automations and as head of GTM at Expandi I’ve had the opportunity to see these patterns I’m talking about, in practice, over dozens of dozens of accounts running outreach at various volumes. But what makes this relevant to anyone building LinkedIn automation - is that the system creates a feedback loop that's really hard to reverse once it starts working against you. Low acceptance rates from poor targeting push your trust score down, which throttles your volume, which in turn pressures you to cast a wider net with less precise targeting, which drops your acceptance rate even further. And so on and so forth. I've watched accounts downgrade from 150 requests/week capacity down to 40 in under just a month because the initial list quality was bad and every subsequent adjustment made it worse. The diagnostic is pretty straightforward, though, if you want to check where an account sits: - Pull your SSI at linkedin.com/sales/ssi - Check your acceptance rate for the last month from your sent invitations - Withdraw pending invitations older than 2 weeks - each one is dragging your score - Look at whether your sends are clustered since these burst patterns are a detection signal TL;DR version - The acceptance rate on LinkedIn is the single highest weight input in the scoring model from what I've been able to observe and will impact your ability to automate profile actions more than anything. LinkedIn accounts that maintain 40% plus acceptance consistently get capacity that makes automation viable at scale, while accounts below ~25% acceptance hit flat walls the platform sets that no tool configuration can work around.
-
-14h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ LinkedIn removed the fixed connection request cap sometime in the last couple of
 
 Muse Image is the first image generation model from Meta Superintelligence Labs, now available in Meta AI.
 
-Meta Store • 17h ago
+Meta Store • 18h ago
 
 ---
 
@@ -133,15 +133,15 @@ Meta Store • 17h ago
 
 As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.
 
-WIRED • 13h ago
+WIRED • 15h ago
 
 ---
 
-**[Introducing Muse Image and Muse Video](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/)**
+**[Outcry as Meta lets users make AI images from public Instagram profile pics](https://www.bbc.com/news/articles/cp9lee19y1yo)**
 
-Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context. Muse...
+The tech giant said people can opt out - but privacy campaigners called it a "recipe for disaster".
 
-AI at Meta • 15h ago
+BBC • 36m ago
 
 ---
 
@@ -149,39 +149,37 @@ AI at Meta • 15h ago
 
 China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
-**[EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say](https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/)**
+**[Meta’s answer to secret-recording AI glasses](https://www.nbcnews.com/tech/gadgets/metas-answer-secret-recording-ai-glasses-rcna353447)**
 
-Reuters • 1d ago
+The tech giant told Joanna Stern it’s cracking down on users’ disabling a key privacy feature on the gadgets.
 
----
-
-**[Exclusive: Adtech startup Velocity raises $27M to monetize AI](https://www.axios.com/pro/enterprise-software-deals/2026/07/08/adtech-velocity-monetize-ai-software)**
-
-Axios • 45m ago
+NBC News • 23m ago
 
 ---
 
-**[The number of job titles that involve AI, even outside the tech world, is surging](https://www.nbcnews.com/data-graphics/job-site-data-shows-ai-jobs-increasing-rcna353336)**
+**[AI memory stocks extend decline as market jitters grow](https://finance.yahoo.com/technology/article/ai-memory-stocks-extend-decline-as-market-jitters-grow-122848703.html)**
 
-Will your next job title include AI? The odds are rising.
+Chip stocks extended their decline on Wednesday as the overall market declined.
 
-NBC News • 22m ago
+Yahoo Finance • 36m ago
 
 ---
 
-**[Trump Reignites Market’s Iran Fears but AI Can Weather the Hormuz Havoc. 5 Other Things to Know Today.](https://www.barrons.com/articles/trump-iran-market-ai-hormuz-things-to-know-today-103cbcbe)**
+**[Can AI equalize political campaign ads – or will it remain a tool for spreading lies?](https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns)**
 
-Barron's • 28m ago
+Political campaigns are increasingly deploying AI and deepfakes to further their messaging, and the scale of spread has experts concerned
+
+The Guardian • 4m ago
 
 ---
 
 **[Opinion | We Are Losing the Ability to Discover What We Didn’t Know to Ask](https://www.nytimes.com/2026/07/08/opinion/ai-google-gemini-search-questions.html)**
 
-The New York Times • 6h ago
+The New York Times • 8h ago
 
 ---
 
@@ -189,7 +187,13 @@ The New York Times • 6h ago
 
 With AI straining Earth’s infrastructure, space-tech startup Starcloud is developing orbital data centers designed to meet the world’s growing computing needs.
 
-CNN • 8h ago
+CNN • 10h ago
+
+---
+
+**[Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels](https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -201,7 +205,7 @@ CNN • 8h ago
 
 GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus and GPT for agentic work - at ~15-20% of the price. Part one of why AI inference margins are about to collapse.
 
-⬆️ 672 • 💬 457 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+⬆️ 674 • 💬 460 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 
 ---
 
@@ -213,11 +217,17 @@ Welcome to LTT Labs - your go-to destination for all things tech. Explore compre
 
 ---
 
+**[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
+
+⬆️ 301 • 💬 118 • 7h ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+
+---
+
 **[We charge $10k a week to delete AI-generated code](https://news.ycombinator.com/item?id=48823359)**
 
 Your AI-built product works, but past 100,000 lines every change breaks two things. Three senior engineers make your codebase maintainable again. One week, fixed price, guaranteed.
 
-⬆️ 277 • 💬 183 • 14h ago • [odra.dev](https://odra.dev/slopfix/)
+⬆️ 280 • 💬 195 • 16h ago • [odra.dev](https://odra.dev/slopfix/)
 
 ---
 
@@ -225,13 +235,7 @@ Your AI-built product works, but past 100,000 lines every change breaks two thin
 
 In places with unreliable networks and no data-center infrastructure, smaller is better
 
-⬆️ 269 • 💬 80 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-
----
-
-**[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
-
-⬆️ 231 • 💬 95 • 5h ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+⬆️ 270 • 💬 80 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
 
 ---
 
@@ -239,7 +243,7 @@ In places with unreliable networks and no data-center infrastructure, smaller is
 
 OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation req...
 
-⬆️ 213 • 💬 63 • 1d ago • [GitHub](https://github.com/iOfficeAI/OfficeCLI)
+⬆️ 214 • 💬 63 • 1d ago • [GitHub](https://github.com/iOfficeAI/OfficeCLI)
 
 ---
 
@@ -253,7 +257,7 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 
 A Delta flight arriving at Chicago's Midway International Airport on the Fourth of July reportedly made contact with a firework, the airline said.
 
-⬆️ 173 • 💬 395 • 2d ago • [NBC Chicago](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
+⬆️ 174 • 💬 395 • 2d ago • [NBC Chicago](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
 
 ---
 
@@ -283,7 +287,7 @@ If scale is your next challenge check out DigitalOcean: https://do.co/matthewber
 
 📺 Matthew Berman
 
-👁️ 34K • 👍 2K • 💬 388 • ⏱️ 25:34 • 8h ago
+👁️ 34K • 👍 2K • 💬 388 • ⏱️ 25:34 • 10h ago
 
 ---
 
@@ -293,7 +297,7 @@ Wondering what happened to the Qwen 3.7 open source release? Maybe this new prop
 
 📺 Digital Spaceport
 
-👁️ 12K • 👍 1K • 💬 173 • ⏱️ 25:38 • 9h ago
+👁️ 12K • 👍 1K • 💬 173 • ⏱️ 25:38 • 11h ago
 
 ---
 
@@ -303,7 +307,7 @@ A production company announced it is developing a feature film starring Tilly No
 
 📺 Good Morning America
 
-👁️ 5K • 👍 44 • 💬 57 • ⏱️ 2:57 • 20h ago
+👁️ 5K • 👍 44 • 💬 57 • ⏱️ 2:57 • 21h ago
 
 ---
 
@@ -313,7 +317,7 @@ Ryan and Saagar discuss AI CEOs panicking and trying to backtrack on projections
 
 📺 Breaking Points
 
-👁️ 204K • 👍 5K • 💬 1K • ⏱️ 19:42 • 18h ago
+👁️ 204K • 👍 5K • 💬 1K • ⏱️ 19:42 • 20h ago
 
 ---
 
@@ -363,7 +367,7 @@ ATT Business: Switch to AT&T Business at business.att.com Paleovalley: 30 for $3
 
 📺 Tom Bilyeu
 
-👁️ 87K • 👍 3K • 💬 659 • ⏱️ 34:31 • 22h ago
+👁️ 87K • 👍 3K • 💬 659 • ⏱️ 34:31 • 1d ago
 
 ---
 
@@ -373,7 +377,7 @@ China is winning the AI Race and if you need proof you just need to see look at 
 
 📺 Cyrus Janssen
 
-👁️ 57K • 👍 4K • 💬 256 • ⏱️ 10:28 • 1d ago
+👁️ 57K • 👍 4K • 💬 256 • ⏱️ 10:28 • 2d ago
 
 ---
 
@@ -671,7 +675,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.6k • 🔱 1.1k • 1h ago
+⭐ 11.6k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -681,7 +685,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.7k • 🔱 898 • 6m ago
+⭐ 6.7k • 🔱 898 • 1h ago
 
 ---
 
@@ -691,7 +695,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 6.5k • 🔱 838 • 1h ago
+⭐ 6.5k • 🔱 838 • 3h ago
 
 ---
 
@@ -701,7 +705,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 3.6k • 🔱 797 • 18h ago
+⭐ 3.6k • 🔱 797 • 20h ago
 
 ---
 
@@ -711,7 +715,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.6k • 🔱 216 • 13h ago
+⭐ 2.6k • 🔱 216 • 15h ago
 
 ---
 
@@ -741,7 +745,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 1.6k • 🔱 220 • 34m ago
+⭐ 1.6k • 🔱 220 • 2h ago
 
 ---
 

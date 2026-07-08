@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-08T11:22:45.075743+00:00'
+updated: '2026-07-08T13:04:53.302649+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 11:22 UTC  
+**Last Updated:** July 08, 2026 at 13:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,858.13
+### $62,245.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +0.9%  
-**30d:** +0.6%  
-**90d:** -14.9%  
-**1y:** -44.3%  
+**24h:** -2.6%  
+**7d:** +0.6%  
+**30d:** +0.4%  
+**90d:** -15.1%  
+**1y:** -44.4%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Bitcoin is for anyone](https://www.reddit.com/r/Bitcoin/comments/1uouzk5/bitcoin_is_for_anyone/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 3,588 BTC sold this morning by the person who invented HODLing for corporations. Saylor broke "never sell" in may with 32 coins as we though but he again sold this morning with 3,588 coins and a $216 million filing. while 32 coins was a proof of concept to show the market the mechanism works, maintain confidence so now 3,588 coins is a quarterly dividend payment. Strategy's preferred stock obligations run $750-800 million annually,btc is at $62K against an average purchase price of $75,699 and the equity premium that let them raise cheap capital has inverted into a disc. The model that worked elegantly at $100K btc is running on fumes at $62K lol. The irony is that saylor understood the self custody argument better than almost anyone and spent years explaining why holding bitcoin through any intermediary like an exchange, an ETF, a corporate wrapper introduces counterparty risk that direct ownership doesnt have but he just bet that his corporate wrapper was different because conviction. It wasnt diif but leverage and leverage without a timeline is just a margin call waiting for the right price. Sometimes boring is just correct. Is 3,588 coins a one quarter event or does this file every quarter until btc recovers above $75K?
 
-1d ago
+2d ago
 
 ---
 
@@ -131,7 +131,7 @@ Every time I think I’m calm, BTC reminds me who’s in charge.
 
 July 6, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-sells-3-588-btc-to-fund-digital-credit-dividends-now-holds-843-775-and-2-55b) • 1d ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-sells-3-588-btc-to-fund-digital-credit-dividends-now-holds-843-775-and-2-55b) • 2d ago
 
 ---
 
@@ -139,7 +139,7 @@ July 6, 2026
 
 For those who believe the 4 year cycle hasn't break yet, where are we exactly ? Most I heard is the end of the bear will be Oct 2026.
 
-1d ago
+2d ago
 
 ---
 
@@ -155,41 +155,11 @@ I was reading a lot of AI data centres that were planned to be built are now bei
 
 ## Google News: "bitcoin"
 
-**[Live updates: Japan's collapsing yen is pushing companies into bitcoin and XRP](https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp)**
+**[Live markets: Bitcoin drops to $62,000, stocks slide, oil soars as Iran ceasefire collapses](https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp)**
 
 Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30.
 
 CoinDesk • 5h ago
-
----
-
-**[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Donald Trump Declares the Iran MoU “Is Over”: Bitcoin Plunges and Oil Soars](https://finance.yahoo.com/markets/crypto/articles/donald-trump-declares-iran-mou-092546827.html)**
-
-Donald Trump declares the Iran MoU is over, sending Bitcoin below 62,000 dollars while oil soars past 75 on fresh tensions.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Strike Launches Volatility-Protected Bitcoin Loans at 14.2%](https://bitcoinfoundation.org/news/bitcoin/strike-btc-loans/)**
-
-Strike launches volatility-protected bitcoin (BTC) loans. No forced liquidations. Rates up to 14.2%, 45% LTV. Available in most US states.
-
-Bitcoin Foundation • 2h ago
-
----
-
-**[A 12-year-old Pittsburgh Bitcoin meetup is leaving the hype behind to focus on casual tech conversations](https://technical.ly/workforce/pittsburgh-bitcoin-meetup-shifts-to-community/)**
-
-Meet attendees from the agenda-free monthly gathering where blockchain enthusiasts connect over homemade mining machines and regulatory debates.
-
-Technical.ly • 1h ago
 
 ---
 
@@ -207,25 +177,55 @@ CNBC • 1d ago
 
 ---
 
-**[SpaceX Nasdaq-100 Entry Brings Bitcoin Exposure To Passive Index Investors](https://bitcoinmagazine.com/bitcoin-for-corporations/spacex-nasdaq-bitcoin)**
+**[Bitcoin (BTC) Weakens as Trump’s Remarks Raise Fresh Iran War Concerns](https://www.bloomberg.com/news/articles/2026-07-08/bitcoin-btc-weakens-as-trump-s-remarks-raise-fresh-iran-war-concerns)**
 
-SpaceX joins the Nasdaq-100 today, triggering ~$4.3B in passive inflows to a company holding 18,712 BTC. This creates rules-based institutional demand for Bitcoin through corporate balance sheets.
-
-Bitcoin Magazine • 18h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Current price of Bitcoin for July 6, 2026](https://fortune.com/article/price-of-bitcoin-07-06-2026/)**
+**[Bitcoin Price Drops as Cryptos Get Caught Up in Trump Iran Selloff](https://www.barrons.com/articles/bitcoin-crypto-xrp-price-trump-75458510)**
+
+Barron's • 1h ago
+
+---
+
+**[BloFin Research: Bitcoin, One More Flush Before The Bottom](https://finance.yahoo.com/markets/crypto/articles/blofin-research-bitcoin-one-more-123554873.html)**
+
+Bitcoin's June 2026 low near $58,000 does not meet the on-chain conditions that marked prior cycle bottoms. The floor sits below realized price, near $54,000, over a horizon that extends into Q4 2026.
+
+Yahoo Finance • 28m ago
+
+---
+
+**[Current price of Bitcoin for July 8, 2026](https://fortune.com/article/price-of-bitcoin-07-08-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1d ago
+Fortune • 19m ago
 
 ---
 
-**[Bitcoin Falls Further After Trump Reignites Iran Fears](https://www.barrons.com/livecoverage/stock-market-news-today-070826/card/bitcoin-falls-further-after-trump-reignites-iran-fears-IEstXfSJwG8Arq6bkOu1)**
+**[StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap](https://www.tradingview.com/news/cointelegraph:0452e89b9094b:0-starkware-ceo-suggests-4-annual-bitcoin-inflation-to-replace-21m-cap/)**
 
-Barron's • 47m ago
+The debate over whether Bitcoin's fixed supply cap should be lifted has resurfaced after StarkWare CEO Eli Ben-Sasson suggested Tuesday that it should replaced with a 4% annual issuance rate.In a post to X on Tuesday, Ben-Sasson said the current 21 million cap “doesn't make sense” because private k…
+
+TradingView • 7h ago
+
+---
+
+**[What if You Invested $1,000 in Bitcoin and XRP 5 Years Ago?](https://247wallst.com/investing/cryptocurrency/2026/07/07/what-if-you-invested-1000-in-bitcoin-and-xrp-5-years-ago/)**
+
+Five years ago, investing $1,000 in XRP was a scary bet while Bitcoin was the safer one. Here's what each investment would be worth today.
+
+24/7 Wall St. • 14h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces renewed selling, ETH weakens, XRP risks deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-renewed-selling-eth-weakens-xrp-risks-deeper-losses-202607080314)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) face renewed selling on Wednesday, extending their corrective move so far this week. BTC faced rejection at $64,000, and ETH failed to break above the 50-day Exponential Moving Average (EMA).
+
+FXStreet • 9h ago
 
 ---
 
@@ -248,14 +248,6 @@ Losing valuable information is a bad thing when you’re an archivist. Have we r
 Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign that it is abandoning co-founder Michael Saylor’s “Never sell your Bitcoin” mantra as a slumping digital asset market …
 
 ⬆️ 5 • 💬 2 • 1d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
-
----
-
-**[Markovian – keyless, Bitcoin-anchored provenance for AI agent outputs](https://news.ycombinator.com/item?id=48745637)**
-
-One
-
-⬆️ 3 • 💬 0 • 6d ago • [markovianprotocol.com](https://markovianprotocol.com)
 
 ---
 
@@ -285,7 +277,7 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 Practice sales calls, interviews, presentations, objections, and business pitches with Pitch, your conversation rehearsal coach.
 
-⬆️ 2 • 💬 0 • 9h ago • [AskPitch](https://www.AskPitch.com/duel)
+⬆️ 2 • 💬 0 • 11h ago • [AskPitch](https://www.AskPitch.com/duel)
 
 ---
 
@@ -293,7 +285,7 @@ Practice sales calls, interviews, presentations, objections, and business pitche
 
 Stacked branches. Contribute to alexghr/graphene development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 23h ago • [GitHub](https://github.com/alexghr/graphene)
+⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/alexghr/graphene)
 
 ---
 
@@ -301,7 +293,7 @@ Stacked branches. Contribute to alexghr/graphene development by creating an acco
 
 The rise of Vault: Replacement of the DeFi "DIY"
 
-⬆️ 1 • 💬 0 • 6h ago • [HodlyCrypto](https://hodlycrypto.com/blog/why-smart-money-is-ditching-manual)
+⬆️ 1 • 💬 0 • 8h ago • [HodlyCrypto](https://hodlycrypto.com/blog/why-smart-money-is-ditching-manual)
 
 ---
 
@@ -315,7 +307,7 @@ The Trump administration's plan to create a Strategic Bitcoin Reserve has been c
 
 📺 Paul Barron Network
 
-👁️ 38K • 👍 2K • 💬 111 • ⏱️ 16:05 • 15h ago
+👁️ 38K • 👍 2K • 💬 111 • ⏱️ 16:05 • 17h ago
 
 ---
 
@@ -325,7 +317,7 @@ Bitcoin just had its best week since March—but that's not the most important s
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 486 • 💬 154 • ⏱️ 14:54 • 19h ago
+👁️ 12K • 👍 486 • 💬 154 • ⏱️ 14:54 • 20h ago
 
 ---
 
@@ -345,7 +337,7 @@ Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories
 
 📺 Natalie Brunell
 
-👁️ 32K • 👍 1K • 💬 350 • ⏱️ 59:57 • 19h ago
+👁️ 32K • 👍 1K • 💬 350 • ⏱️ 59:57 • 20h ago
 
 ---
 
@@ -355,7 +347,7 @@ A massive shift is happening in Japan, and almost nobody is paying attention. As
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 94 • ⏱️ 15:04 • 13h ago
+👁️ 16K • 👍 1K • 💬 94 • ⏱️ 15:04 • 14h ago
 
 ---
 
@@ -365,7 +357,7 @@ The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altco
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 81 • ⏱️ 9:12 • 11h ago
+👁️ 25K • 👍 2K • 💬 81 • ⏱️ 9:12 • 13h ago
 
 ---
 
@@ -375,7 +367,7 @@ Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts ar
 
 📺 Crypto Zombie
 
-👁️ 12K • 👍 1K • 💬 217 • ⏱️ 21:48 • 17h ago
+👁️ 12K • 👍 1K • 💬 217 • ⏱️ 21:48 • 19h ago
 
 ---
 
@@ -385,7 +377,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 431 • 💬 363 • ⏱️ 13:35 • 12h ago
+👁️ 7K • 👍 431 • 💬 363 • ⏱️ 13:35 • 13h ago
 
 ---
 
@@ -405,7 +397,7 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com F
 
 📺 Benjamin Cowen
 
-👁️ 20K • 👍 443 • 💬 12 • ⏱️ 0:29 • 21h ago
+👁️ 20K • 👍 443 • 💬 12 • ⏱️ 0:29 • 23h ago
 
 ---
 

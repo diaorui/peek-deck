@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-08T11:22:45.081727+00:00'
+updated: '2026-07-08T13:04:53.309144+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 11:22 UTC  
+**Last Updated:** July 08, 2026 at 13:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +2.2%  
-**30d:** +6.0%  
-**90d:** -22.6%  
-**1y:** -37.2%  
+**24h:** -2.9%  
+**7d:** +2.3%  
+**30d:** +6.1%  
+**90d:** -22.5%  
+**1y:** -37.1%  
 
 ---
 
@@ -148,11 +148,19 @@ Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once ag
 
 ## Google News: "ethereum"
 
-**[Cardano Founder Hoskinson Claims Ethereum Is Secretly Copying Its Biggest Innovation](https://finance.yahoo.com/markets/crypto/articles/cardano-founder-hoskinson-claims-ethereum-102340368.html)**
+**[1 Unstoppable Cryptocurrency to Buy Before It Soars 3,442%, According to Tom Lee of Fundstrat](https://finance.yahoo.com/markets/crypto/articles/1-unstoppable-cryptocurrency-buy-soars-113300718.html)**
 
-Charles Hoskinson claims Ethereum is copying Cardano's EUTXO model after a new native UTXO proposal targets state growth.
+Ethereum may be down 40% for the year, but a near-term turnaround looks likely.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Current price of Ethereum for July 8, 2026](https://fortune.com/article/price-of-ethereum-07-08-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 19m ago
 
 ---
 
@@ -160,7 +168,7 @@ Yahoo Finance • 59m ago
 
 Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
 
-CryptoSlate • 13h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -169,14 +177,6 @@ CryptoSlate • 13h ago
 The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
 
 CoinDesk • 1d ago
-
----
-
-**[1 Unstoppable Cryptocurrency to Buy Before It Soars 3,442%, According to Tom Lee of Fundstrat](https://www.fool.com/investing/2026/07/08/1-unstoppable-cryptocurrency-to-buy-before-it-soar/)**
-
-Ethereum may be down 40% for the year, but a near-term turnaround looks likely.
-
-The Motley Fool • 5m ago
 
 ---
 
@@ -204,11 +204,11 @@ The Block • 1d ago
 
 ---
 
-**[Vitalik Buterin Outlines 'Lean Ethereum' Roadmap, a Three-to-Four-Year Protocol Overhaul](https://thedefiant.io/news/blockchains/vitalik-buterin-outlines-lean-ethereum-roadmap-a-three-to-four-year-protocol-overhaul)**
+**[Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs](https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs)**
 
-Ethereum co-founder Vitalik Buterin laid out an updated "Lean Ethereum" roadmap in a post on X Saturday, describing a three-to-four-year overhaul he…
+Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
 
-The Defiant • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -216,15 +216,15 @@ The Defiant • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) face renewed selling on Wednesday, extending their corrective move so far this week. BTC faced rejection at $64,000, and ETH failed to break above the 50-day Exponential Moving Average (EMA).
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
-**[Current price of Ethereum for July 7, 2026](https://fortune.com/article/price-of-ethereum-07-07-2026/)**
+**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
 
-Fortune • 22h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Micha�
 
 📺 New Era Finance Podcast
 
-👁️ 10K • 👍 365 • 💬 38 • ⏱️ 34:28 • 21h ago
+👁️ 10K • 👍 365 • 💬 38 • ⏱️ 34:28 • 23h ago
 
 ---
 
@@ -248,7 +248,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 428 • 💬 202 • ⏱️ 19:01 • 18h ago
+👁️ 7K • 👍 428 • 💬 202 • ⏱️ 19:01 • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 9K • 👍 1K • 💬 352 • ⏱️ 13:04 • 14h ago
+👁️ 9K • 👍 1K • 💬 352 • ⏱️ 13:04 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 157 • 💬 6 • ⏱️ 14:31 • 7h ago
+👁️ 2K • 👍 157 • 💬 6 • ⏱️ 14:31 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 9K • 👍 595 • 💬 136 • ⏱️ 21:46 • 11h ago
+👁️ 9K • 👍 595 • 💬 136 • ⏱️ 21:46 • 13h ago
 
 ---
 
