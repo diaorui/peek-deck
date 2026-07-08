@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-08T06:13:46.583224+00:00'
+updated: '2026-07-08T09:06:43.845424+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 06:13 UTC  
+**Last Updated:** July 08, 2026 at 09:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,757.43
+### $62,061.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +1.6%  
-**30d:** +1.4%  
-**90d:** -14.2%  
-**1y:** -43.9%  
+**24h:** -1.9%  
+**7d:** +0.8%  
+**30d:** +0.6%  
+**90d:** -14.9%  
+**1y:** -44.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1254.73B
+**Market Cap:** $1243.35B
 Rank #1
 
-**Circulating Supply:** 20,053,518 BTC
+**Circulating Supply:** 20,053,540 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.4%
+-50.8%
 
 **All-Time Low:** $67.81
-+92154.8%
++91340.8%
 
 ---
 
@@ -107,7 +107,7 @@ In March, a couple in their sixties get tied up in their own home in Le Chesnay 
 
 **[My honest reaction](https://www.reddit.com/r/Bitcoin/comments/1uoq3su/my_honest_reaction/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -155,35 +155,31 @@ I was reading a lot of AI data centres that were planned to be built are now bei
 
 ## Google News: "bitcoin"
 
+**[Live updates: Japan's collapsing yen is pushing companies into bitcoin and XRP](https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp)**
+
+Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30.
+
+CoinDesk • 3h ago
+
+---
+
 **[Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control](https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook](https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss)**
+**[The Stablecoin Ghost of 2022 Is Back to Haunt the Bitcoin Price](https://finance.yahoo.com/markets/crypto/articles/stablecoin-ghost-2022-back-haunt-081348917.html)**
 
-First, it was a tiny amount of bitcoin sales; then, the purchase of several thousand BTC; and finally, today, the unloading of thousands of BTC. What's happening at Strategy?
+The Bitcoin price keeps stalling as stablecoin supply and volume shrink, the same drain that turned into a crash in 2022.
 
-CoinDesk • 1d ago
+Yahoo Finance • 52m ago
 
 ---
 
 **[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
 
 WSJ • 1d ago
-
----
-
-**[Could Trump Accounts someday include bitcoin, crypto?](https://finance.yahoo.com/video/could-trump-accounts-someday-bitcoin-193000212.html)**
-
-Scott Melker discusses President Trump's latest comments around whether the newly launched Trump Accounts could include crypto in the future.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 10h ago
 
 ---
 
@@ -195,6 +191,14 @@ CNBC • 1d ago
 
 ---
 
+**[SpaceX Nasdaq-100 Entry Brings Bitcoin Exposure To Passive Index Investors](https://bitcoinmagazine.com/bitcoin-for-corporations/spacex-nasdaq-bitcoin)**
+
+SpaceX joins the Nasdaq-100 today, triggering ~$4.3B in passive inflows to a company holding 18,712 BTC. This creates rules-based institutional demand for Bitcoin through corporate balance sheets.
+
+Bitcoin Magazine • 16h ago
+
+---
+
 **[Current price of Bitcoin for July 6, 2026](https://fortune.com/article/price-of-bitcoin-07-06-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
@@ -203,33 +207,27 @@ Fortune • 1d ago
 
 ---
 
-**[SpaceX Nasdaq-100 Entry Brings Bitcoin Exposure To Passive Index Investors](https://bitcoinmagazine.com/bitcoin-for-corporations/spacex-nasdaq-bitcoin)**
-
-SpaceX joins the Nasdaq-100 today, triggering ~$4.3B in passive inflows to a company holding 18,712 BTC. This creates rules-based institutional demand for Bitcoin through corporate balance sheets.
-
-Bitcoin Magazine • 13h ago
-
----
-
 **[Tether to Invest $20 Million in Strategic Financing Round for Mercado Bitcoin to Accelerate Onchain Financial Infrastructure in Latin America](https://tether.io/news/tether-to-invest-20-million-in-strategic-financing-round-for-mercado-bitcoin-to-accelerate-onchain-financial-infrastructure-in-latin-america/)**
 
 Investment supports Mercado Bitcoin’s expansion across tokenization, payments, credit, capital markets and regulated digital financial services 7 July 2026 – Tether, the largest company in the digital asset industry, today announced an investment of $20 million in a strategic growth financing round for Mercado Bitcoin, Latin America’s leading on-chain financial services platform. The investment reflects […]
 
-Tether.io • 17h ago
+Tether.io • 19h ago
 
 ---
 
-**[Jack Mallers' Strike launches 'volatility-proof' bitcoin loans built to protect against liquidation](https://www.theblock.co/post/407511/jack-maller-strike-launches-volatility-proof-bitcoin-loans-protect-against-liquidation)**
+**[Strike launches ‘volatility-proof’ Bitcoin loans amid bear market, but at a cost](https://www.tradingview.com/news/cointelegraph:1211ed037094b:0-strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-a-cost/)**
 
-Collateral can be partially liquidated, however, if a borrower misses an interest or maturity payment and fails to pay within a grace period.
+Bitcoin financial services platform Strike has launched a “volatility-proof” Bitcoin-backed loan that eliminates margin calls and forced liquidations amid the depths of a bear market, but only for those who can pay on time and handle a 14% interest rate.In an announcement on Tuesday, Strike CEO Jac…
 
-The Block • 9h ago
+TradingView • 6h ago
 
 ---
 
-**[Bitcoin falls as risk sentiment hit by U.S. strikes against Iran, tech sell-off](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63k-as-traders-weigh-fresh-iran-tensions-tech-selloff-4778286)**
+**[Bitcoin Is Down. Miners Are Up. That’s the Signal.](https://investorplace.com/hypergrowthinvesting/2026/07/bitcoin-is-down-miners-are-up-thats-the-signal/)**
 
-Investing.com • 19h ago
+Bitcoin is down, but miners are up. The reason may be AI data-center demand, power access, and long-term hosting contracts.
+
+InvestorPlace • 19h ago
 
 ---
 
@@ -289,7 +287,7 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 Practice sales calls, interviews, presentations, objections, and business pitches with Pitch, your conversation rehearsal coach.
 
-⬆️ 2 • 💬 0 • 4h ago • [AskPitch](https://www.AskPitch.com/duel)
+⬆️ 2 • 💬 0 • 7h ago • [AskPitch](https://www.AskPitch.com/duel)
 
 ---
 
@@ -297,7 +295,7 @@ Practice sales calls, interviews, presentations, objections, and business pitche
 
 Stacked branches. Contribute to alexghr/graphene development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/alexghr/graphene)
+⬆️ 1 • 💬 0 • 20h ago • [GitHub](https://github.com/alexghr/graphene)
 
 ---
 
@@ -305,7 +303,7 @@ Stacked branches. Contribute to alexghr/graphene development by creating an acco
 
 The rise of Vault: Replacement of the DeFi "DIY"
 
-⬆️ 1 • 💬 0 • 1h ago • [HodlyCrypto](https://hodlycrypto.com/blog/why-smart-money-is-ditching-manual)
+⬆️ 1 • 💬 0 • 4h ago • [HodlyCrypto](https://hodlycrypto.com/blog/why-smart-money-is-ditching-manual)
 
 ---
 
@@ -313,23 +311,23 @@ The rise of Vault: Replacement of the DeFi "DIY"
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Strategic Reserve Coming?🔥Crypto Market Update](https://www.youtube.com/watch?v=Q73PQU9774A)**
-
-The Trump administration's plan to create a Strategic Bitcoin Reserve has been complicated by two government departments ...
-
-📺 Paul Barron Network
-
-👁️ 31K • 👍 2K • 💬 103 • ⏱️ 16:05 • 10h ago
-
----
-
 **[Bitcoin passed the Saylor test](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
 
 Bitcoin just had its best week since March—but that's not the most important story. In this episode of The Daily Wolf, Scott Melker ...
 
 📺 Yahoo Finance
 
-👁️ 11K • 👍 473 • 💬 152 • ⏱️ 14:54 • 13h ago
+👁️ 12K • 👍 480 • 💬 154 • ⏱️ 14:54 • 16h ago
+
+---
+
+**[Bitcoin Strategic Reserve Coming?🔥Crypto Market Update](https://www.youtube.com/watch?v=Q73PQU9774A)**
+
+The Trump administration's plan to create a Strategic Bitcoin Reserve has been complicated by two government departments ...
+
+📺 Paul Barron Network
+
+👁️ 35K • 👍 2K • 💬 110 • ⏱️ 16:05 • 13h ago
 
 ---
 
@@ -339,7 +337,7 @@ Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories
 
 📺 Natalie Brunell
 
-👁️ 26K • 👍 1K • 💬 280 • ⏱️ 59:57 • 14h ago
+👁️ 29K • 👍 1K • 💬 315 • ⏱️ 59:57 • 16h ago
 
 ---
 
@@ -349,27 +347,7 @@ Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and th
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 3K • 💬 333 • ⏱️ 20:18 • 1d ago
-
----
-
-**[Tom Lee - &quot;Something&#39;s VERY Wrong With Bitcoin &amp; Nobody&#39;s Talking About it](https://www.youtube.com/watch?v=8hzVbQvUsmw)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 230 • 💬 45 • ⏱️ 17:26 • 1d ago
-
----
-
-**[Bitcoin... This Isn&#39;t Good](https://www.youtube.com/watch?v=X6ptF8avD2A)**
-
-Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts are terrifying! WEEX ...
-
-📺 Crypto Zombie
-
-👁️ 11K • 👍 991 • 💬 210 • ⏱️ 21:48 • 12h ago
+👁️ 45K • 👍 3K • 💬 330 • ⏱️ 20:18 • 1d ago
 
 ---
 
@@ -379,7 +357,27 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 802 • 💬 117 • ⏱️ 46:39 • 15h ago
+👁️ 16K • 👍 804 • 💬 117 • ⏱️ 46:39 • 18h ago
+
+---
+
+**[Bitcoin... This Isn&#39;t Good](https://www.youtube.com/watch?v=X6ptF8avD2A)**
+
+Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts are terrifying! WEEX ...
+
+📺 Crypto Zombie
+
+👁️ 12K • 👍 1K • 💬 214 • ⏱️ 21:48 • 15h ago
+
+---
+
+**[1M Bitcoin Reserve - The U.S. Just Confirmed It](https://www.youtube.com/watch?v=Y2E0gomtb7E)**
+
+Secure your Bitcoin with Tangem Wallet + discount: https://tangem.com/invite/ALERTS America just broke its silence on the ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 215 • 💬 165 • ⏱️ 15:39 • 10h ago
 
 ---
 
@@ -389,17 +387,7 @@ While taking questions from reporters on Monday, President Donald Trump spoke ab
 
 📺 Forbes Breaking News
 
-👁️ 5K • 👍 74 • 💬 42 • ⏱️ 10:11 • 1d ago
-
----
-
-**[Michael Saylor Sells $216 Million More Bitcoin🔥Crypto Market Update](https://www.youtube.com/watch?v=lpmuhDga6DI)**
-
-Under a new "BTC Monetization Program," the firm executed its largest-ever Bitcoin sale by offloading 3588 BTC for $216 million ...
-
-📺 Paul Barron Network
-
-👁️ 34K • 👍 1K • 💬 134 • ⏱️ 14:49 • 1d ago
+👁️ 6K • 👍 80 • 💬 43 • ⏱️ 10:11 • 1d ago
 
 ---
 
@@ -409,7 +397,17 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com F
 
 📺 Benjamin Cowen
 
-👁️ 17K • 👍 408 • 💬 11 • ⏱️ 0:29 • 16h ago
+👁️ 19K • 👍 429 • 💬 12 • ⏱️ 0:29 • 19h ago
+
+---
+
+**[Did The MicroStrategy Death Spiral Just Turn Into a Bitcoin Rally?](https://www.youtube.com/watch?v=1vW26afu_eM)**
+
+Michael Saylor faced relentless criticism after MicroStrategy stumbled, but the narrative shifted fast. This breakdown explores why ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 151 • ⏱️ 15:58 • 2d ago
 
 ---
 

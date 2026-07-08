@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T06:13:46.592589+00:00'
+updated: '2026-07-08T09:06:43.853536+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 06:13 UTC  
+**Last Updated:** July 08, 2026 at 09:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,7 +126,7 @@ NVIDIA Blog • 1d ago
 
 Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-Forbes • 6h ago
+Forbes • 9h ago
 
 ---
 
@@ -134,51 +134,7 @@ Forbes • 6h ago
 
 Top robotics researchers and founders explain how robot autonomy is evolving.
 
-Ars Technica • 19h ago
-
----
-
-**[The humanoid robot boom is here. These top Silicon Valley investors aren't buying it.](https://www.businessinsider.com/humanoid-boom-is-here-some-vcs-want-no-part-of-2026-6)**
-
-These VCs say humanoids are overhyped. They're backing robots with wheels, wings, and specialized designs instead.
-
-Business Insider • 21h ago
-
----
-
-**[China wants to solve the hardest problem in robotics – making hands](https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid)**
-
-Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
-
-The Guardian • 2d ago
-
----
-
-**[The Robots Are Here](https://www.chinatalk.media/p/the-robots-are-here)**
-
-Unitree's advantage
-
-ChinaTalk | Jordan Schneider • 1d ago
-
----
-
-**[Etzioni on AI: Elon Musk promised humanoid robots, but China delivered](https://www.geekwire.com/2026/etzioni-on-ai-elon-musk-promised-humanoid-robots-but-china-delivered/)**
-
-While American tech giants are valued for the anticipation of perfect prototypes, Chinese manufacturers are winning the robotics race by getting paid for delivery.
-
-GeekWire • 2d ago
-
----
-
-**[China records most new unicorn start-ups in 5 years as AI and robotics boom](https://www.scmp.com/tech/article/3359629/china-records-most-new-unicorn-start-ups-5-years-ai-and-robotics-boom)**
-
-South China Morning Post • 1d ago
-
----
-
-**[AI Promises to Transform Robotics, Just Not Yet](https://www.bloomberg.com/opinion/articles/2026-07-06/ai-promises-to-transform-robotics-just-not-yet)**
-
-Bloomberg.com • 1d ago
+Ars Technica • 22h ago
 
 ---
 
@@ -187,6 +143,50 @@ Bloomberg.com • 1d ago
 Robotics tech is changing fast, so for many it makes sense to rent a robot.
 
 BBC • 1d ago
+
+---
+
+**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
+
+Honolulu Civil Beat • 23h ago
+
+---
+
+**[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
+
+Tech Xplore • 21h ago
+
+---
+
+**[Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity?](https://finance.yahoo.com/healthcare/articles/serve-robotics-healthcare-push-unlock-150600410.html)**
+
+SERV is expanding into healthcare automation through Diligent Robotics, aiming to grow recurring AI software revenues beyond food delivery.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Faraday Future deepens Middle East robotics push with UAE partners](https://www.stocktitan.net/news/FFAI/faraday-future-advances-middle-east-eai-robotics-strategy-through-heuyua3h9126.html)**
+
+Cooperation with CGCC, Action To Action and Ibtikar Robotics may cover procurement, distribution, rentals, curriculum and technical support.
+
+Stock Titan • 12h ago
+
+---
+
+**[3 AI Infrastructure Stocks to Buy in July](https://247wallst.com/investing/2026/07/07/3-ai-infrastructure-stocks-to-buy-in-july/)**
+
+Robotics and AI infrastructure stocks have ripped higher in 2026, and the path of least resistance still points up as humanoid pilots scale and AI data center spend keeps compounding.
+
+24/7 Wall St. • 20h ago
+
+---
+
+**[Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots](https://fortune.com/2026/07/08/nomagics-new-ai-lab-headed-by-former-google-deepmind-researcher-claims-success-in-early-deployment-of-ai-brain-for-warehouse-robots/)**
+
+Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
+
+Fortune • 2h ago
 
 ---
 
@@ -200,17 +200,15 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 📺 51 Drones
 
-👁️ 73K • 👍 601 • 💬 108 • ⏱️ 12:50 • 6d ago
+👁️ 76K • 👍 605 • 💬 108 • ⏱️ 12:50 • 6d ago
 
 ---
 
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
 
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+📺 GUYMANITOR
 
-📺 Future Core
-
-👁️ 109K • 👍 3K • 💬 206 • ⏱️ 10:56 • 3d ago
+👁️ 17K • 👍 94 • 💬 3 • ⏱️ 0:17 • 3d ago
 
 ---
 
@@ -220,7 +218,17 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 95K • 👍 2K • 💬 452 • ⏱️ 13:32 • 3d ago
+👁️ 96K • 👍 2K • 💬 452 • ⏱️ 13:32 • 3d ago
+
+---
+
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+
+📺 Future Core
+
+👁️ 117K • 👍 3K • 💬 213 • ⏱️ 10:56 • 3d ago
 
 ---
 
@@ -230,7 +238,7 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 36K • 👍 3K • 💬 108 • ⏱️ 11:20 • 1d ago
+👁️ 39K • 👍 3K • 💬 114 • ⏱️ 11:20 • 1d ago
 
 ---
 
@@ -244,33 +252,33 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 ---
 
-**[Humans Vs Robots at Same Job: Humans Barley Won](https://www.youtube.com/watch?v=RNmuk5tWEcc)**
-
-Human vs Robot: Humans Barely Won 12924 Packages vs the Robot's 12732 Description Figure Al just tested its humanoid robot ...
-
-📺 Brainy Byte
-
-👁️ 1.4M • 👍 39K • 💬 2K • ⏱️ 0:12 • 5d ago
-
----
-
-**[🧑‍🔧 Japanese engineers developed 🤖  a wearable robot that improves ⚖️  balance 👴 | MDCT](https://www.youtube.com/watch?v=V6ULmrkJuNw)**
-
-What if humans had a tail to help us stay balanced?* Japanese researchers have developed a robotic tail called *Arque* ...
-
-📺 Make Dream Come True 
-
-👁️ 38K • 👍 688 • 💬 30 • ⏱️ 0:11 • 5d ago
-
----
-
 **[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
 
 Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 45 • 💬 19 • ⏱️ 10:42 • 1d ago
+👁️ 1K • 👍 47 • 💬 19 • ⏱️ 10:42 • 1d ago
+
+---
+
+**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
+
+Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 70K • 👍 4K • 💬 2K • ⏱️ 13:09 • 3d ago
+
+---
+
+**[Humans Vs Robots at Same Job: Humans Barley Won](https://www.youtube.com/watch?v=RNmuk5tWEcc)**
+
+Human vs Robot: Humans Barely Won 12924 Packages vs the Robot's 12732 Description Figure Al just tested its humanoid robot ...
+
+📺 Brainy Byte
+
+👁️ 1.4M • 👍 40K • 💬 2K • ⏱️ 0:12 • 5d ago
 
 ---
 
@@ -280,15 +288,7 @@ In this video I cover some of the behind the scenes of starting a robotics compa
 
 📺 Austen Hartley
 
-👁️ 9K • 👍 401 • 💬 45 • ⏱️ 18:50 • 1d ago
-
----
-
-**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
-
-📺 Kevin Wood | Robotics & AI
-
-👁️ 1.6M • 👍 4K • 💬 93 • ⏱️ 0:14 • 5d ago
+👁️ 9K • 👍 438 • 💬 47 • ⏱️ 18:50 • 1d ago
 
 ---
 

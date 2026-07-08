@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-08T06:13:46.589375+00:00'
+updated: '2026-07-08T09:06:43.850695+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 06:13 UTC  
+**Last Updated:** July 08, 2026 at 09:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +3.1%  
-**30d:** +6.9%  
-**90d:** -21.9%  
-**1y:** -36.6%  
+**24h:** -2.3%  
+**7d:** +2.0%  
+**30d:** +5.8%  
+**90d:** -22.7%  
+**1y:** -37.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $211.29B
+**Market Cap:** $209.39B
 Rank #2
 
 **Circulating Supply:** 120,683,133 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.6%
+-64.9%
 
 **All-Time Low:** $0.43
-+404261.4%
++400621.5%
 
 ---
 
@@ -124,7 +124,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am used to address poisoning. Whenever I send/receive token, I will then receive some random tokens from addresses that has the same starting and ending sequence as the address I interacted with. But I see something I can't explain. Whenever I send X amount of USDT, My address also send the exact same amount of fake USDT to an address mimicing the receiving address. How can the attacker use my account to send a token I don't even know I have? On Etherscan, the sender address is clearly my address, but if they already control my accout, poisoning the receiving address is pointless. They can just steal my funds. If they don't control my accout, how did they send fake token from my account? https://preview.redd.it/jfawc4knedbh1.png?width=1674&format=png&auto=webp&s=2c70a9966405775dc1af9f1bd6764dfe258610c4
 
-2d ago
+3d ago
 
 ---
 
@@ -148,19 +148,17 @@ Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once ag
 
 ## Google News: "ethereum"
 
-**[Bitcoin Flat, Ethereum, XRP, Dogecoin Dip as US Strikes Iran: Analyst Spots Dollar-Cost Averaging 'Opportunity' in BTC](https://uk.finance.yahoo.com/news/bitcoin-flat-ethereum-xrp-dogecoin-020019557.html)**
+**[Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs](https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs)**
 
-Leading cryptocurrencies and stocks fell on Tuesday after U.S. strikes on Iran and the revocation of the oil sanctions waiver rattled investors. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.74%$63,519.02Ethereum (CRYPTO: ETH) -1.01%$1,776.71XRP (CRYPTO: XRP) -2.55%$1.11Solana (CRYPTO: SOL) -2.17%$80.25Dogecoin (CRYPTO: DOGE) -2.95%$0.07417 Crypto Rally Stalls Bitcoin briefly topped $64,000 in the afternoon before surrendering its gains, as trading volum
+Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
 
-Yahoo Finance UK • 4h ago
+The Block • 1d ago
 
 ---
 
-**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
+**[Binance Completes Integration of Solv Protocol (SOLV) on Ethereum (ERC20) Network, Opens Deposits and Withdrawals - 2026-07-08 | Binance announcement](https://www.binance.com/en/support/announcement/e5697b33b3c24ddbbff06d2dc121379c)**
 
-The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
-
-CoinDesk • 1d ago
+Binance • 3h ago
 
 ---
 
@@ -172,6 +170,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
+
+In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
+
+PR Newswire • 1d ago
+
+---
+
 **[Bitmine's Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum's total supply](https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply)**
 
 Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.
@@ -180,11 +186,11 @@ The Block • 1d ago
 
 ---
 
-**[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
+**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
 
-In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
+The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
 
-PR Newswire • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -200,7 +206,7 @@ The Defiant • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 19h ago
 
 ---
 
@@ -208,23 +214,15 @@ Fortune • 16h ago
 
 DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
 
-markets.businessinsider.com • 12h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
-**[Vitalik Buterin confirms AI identified his anonymous Ethereum proposal contribution](https://www.tradingview.com/news/cointelegraph:e2852e944094b:0-vitalik-buterin-confirms-ai-identified-his-anonymous-ethereum-proposal-contribution/)**
+**[Top Analyst Reveals A Key Level Which Will Trigger Bullish Rally For Ethereum](https://www.tradingview.com/news/coinpedia:71d43e971094b:0-top-analyst-reveals-a-key-level-which-will-trigger-bullish-rally-for-ethereum/)**
 
-Vitalik Buterin has confirmed that AI-assisted analysis used by Co-Invest CEO Franklyn Wang correctly identified his anonymous contribution to an Ethereum proposal.The identification comes two weeks after Buterin publicly challenged whether current AI tools could pierce online anonymity.Wang's winn…
+Ethereum has recovered from yesterday’s sharp sell-off and is once again testing the crucial $1,800 resistance level. After falling to nearly $1,728 following Strategy’s $216 million Bitcoin sale, ETH has bounced back toward $1,800.However, this price zone has rejected Ethereum five times over the…
 
-TradingView • 19h ago
-
----
-
-**[XRP Ledger tokenized assets soar to $4B, challenging Ethereum, BNB Chain](https://cryptobriefing.com/xrp-ledger-tokenized-assets-soar-to-4b-challenging-ethereum-bnb-chain/)**
-
-XRP Ledger tokenized assets surged to $4 billion, challenging Ethereum and BNB Chain. XRP reaching $3 by July 2026 at 0.4% YES.
-
-Crypto Briefing • 2h ago
+TradingView • 1d ago
 
 ---
 
@@ -238,17 +236,7 @@ Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Micha�
 
 📺 New Era Finance Podcast
 
-👁️ 8K • 👍 321 • 💬 42 • ⏱️ 34:28 • 16h ago
-
----
-
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=fpjYhW4BKdI)**
-
-In this video I break down the current Ethereum price action using Elliott Wave analysis to determine if the bearish trend is set to ...
-
-📺 More Crypto Online
-
-👁️ 498 • 👍 71 • 💬 2 • ⏱️ 14:31 • 1h ago
+👁️ 9K • 👍 343 • 💬 37 • ⏱️ 34:28 • 19h ago
 
 ---
 
@@ -258,7 +246,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 401 • 💬 182 • ⏱️ 19:01 • 13h ago
+👁️ 6K • 👍 420 • 💬 184 • ⏱️ 19:01 • 16h ago
 
 ---
 
@@ -268,7 +256,17 @@ Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
 📺 Credible Crypto
 
-👁️ 15K • 👍 960 • 💬 102 • ⏱️ 1:03:11 • 1d ago
+👁️ 16K • 👍 979 • 💬 102 • ⏱️ 1:03:11 • 1d ago
+
+---
+
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=fpjYhW4BKdI)**
+
+In this video I break down the current Ethereum price action using Elliott Wave analysis to determine if the bearish trend is set to ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 126 • 💬 5 • ⏱️ 14:31 • 4h ago
 
 ---
 
@@ -278,7 +276,7 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 7K • 👍 1K • 💬 301 • ⏱️ 13:04 • 9h ago
+👁️ 8K • 👍 1K • 💬 323 • ⏱️ 13:04 • 11h ago
 
 ---
 
@@ -288,7 +286,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 5K • 👍 479 • 💬 142 • ⏱️ 21:46 • 6h ago
+👁️ 8K • 👍 540 • 💬 129 • ⏱️ 21:46 • 9h ago
 
 ---
 
@@ -298,7 +296,7 @@ Ethereum and Bitcoin are showing the market some interesting movements in the la
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 894 • 💬 432 • ⏱️ 13:04 • 19h ago
+👁️ 8K • 👍 907 • 💬 462 • ⏱️ 13:04 • 22h ago
 
 ---
 
@@ -308,17 +306,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 8K • 👍 289 • 💬 98 • ⏱️ 1:09:10 • 1d ago
+👁️ 8K • 👍 296 • 💬 98 • ⏱️ 1:09:10 • 1d ago
 
 ---
 
-**[Vitalik&#39;s Big Shift: Is Ethereum Now Copying Cardano?](https://www.youtube.com/watch?v=BXVfQr4TCNc)**
+**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
 
-Vitalik Buterin has unveiled Ethereum's ETH biggest roadmap in years, calling it the third major era of Ethereum and stating that ...
+Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
 
-📺 Linda CryptoFly
+📺 Crypto Capital Venture
 
-👁️ 282 • 👍 79 • 💬 9 • ⏱️ 6:23 • 4h ago
+👁️ 10K • 👍 495 • 💬 227 • ⏱️ 17:12 • 1d ago
 
 ---
 
@@ -328,7 +326,7 @@ Ethereum is trying to solve five major problems at once — speed, decentralizat
 
 📺 CoinGecko
 
-👁️ 7K • 👍 318 • 💬 102 • ⏱️ 10:28 • 1d ago
+👁️ 8K • 👍 343 • 💬 84 • ⏱️ 10:28 • 1d ago
 
 ---
 
