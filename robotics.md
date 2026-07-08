@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T03:27:36.441170+00:00'
+updated: '2026-07-08T06:13:46.592589+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 03:27 UTC  
+**Last Updated:** July 08, 2026 at 06:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 Is there anyone who could help me regarding controlling multiple robstride o2 motor? What im trying to do is to control multiple Robstride o2 motors (preferably 3) with the default CAN to USB debugger it came with. Is it possible to control multiple motor with that?. I search around the internet for guides, says it'll work if i daisy chained the motor?. I tried wiring 2 motors , first i tried to wire it parallel and second i tried Daisy chain wiring. But it always result the same. Using robstride official software motorstudio it only detects and control 1 motor (the nearest motor to the CAN-USB debugger). And i know it's not a faulty motor or anything since if i only test 1 motor using the CAN-USB debugger . The motor still works (i can rotate it around and such) I tried using ai to solve this. And it still dont work. I mean i understand that ai can sometimes be bs. So if anyone here can help me, That would be really great, also sorry if this is a dumb question 🙏
 
-1d ago
+2d ago
 
 ---
 
@@ -118,15 +118,31 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
 
-NVIDIA Blog • 21h ago
+NVIDIA Blog • 1d ago
 
 ---
 
-**[Renting makes robots affordable for work and play](https://www.bbc.com/news/articles/c4gymkg9lr2o)**
+**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
 
-Robotics tech is changing fast, so for many it makes sense to rent a robot.
+Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-BBC • 1d ago
+Forbes • 6h ago
+
+---
+
+**[How AI could enable autonomous robot workers in workplaces—and maybe homes](https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)**
+
+Top robotics researchers and founders explain how robot autonomy is evolving.
+
+Ars Technica • 19h ago
+
+---
+
+**[The humanoid robot boom is here. These top Silicon Valley investors aren't buying it.](https://www.businessinsider.com/humanoid-boom-is-here-some-vcs-want-no-part-of-2026-6)**
+
+These VCs say humanoids are overhyped. They're backing robots with wheels, wings, and specialized designs instead.
+
+Business Insider • 21h ago
 
 ---
 
@@ -138,28 +154,6 @@ The Guardian • 2d ago
 
 ---
 
-**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
-
-Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
-
-Forbes • 3h ago
-
----
-
-**[How AI could enable autonomous robot workers in workplaces—and maybe homes](https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)**
-
-Top robotics researchers and founders explain how robot autonomy is evolving.
-
-Ars Technica • 16h ago
-
----
-
-**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
-
-Honolulu Civil Beat • 17h ago
-
----
-
 **[The Robots Are Here](https://www.chinatalk.media/p/the-robots-are-here)**
 
 Unitree's advantage
@@ -168,25 +162,31 @@ ChinaTalk | Jordan Schneider • 1d ago
 
 ---
 
-**[EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch](https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html)**
+**[Etzioni on AI: Elon Musk promised humanoid robots, but China delivered](https://www.geekwire.com/2026/etzioni-on-ai-elon-musk-promised-humanoid-robots-but-china-delivered/)**
 
-Tech Xplore • 15h ago
+While American tech giants are valued for the anticipation of perfect prototypes, Chinese manufacturers are winning the robotics race by getting paid for delivery.
 
----
-
-**[Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity?](https://finance.yahoo.com/healthcare/articles/serve-robotics-healthcare-push-unlock-150600410.html)**
-
-SERV is expanding into healthcare automation through Diligent Robotics, aiming to grow recurring AI software revenues beyond food delivery.
-
-Yahoo Finance • 12h ago
+GeekWire • 2d ago
 
 ---
 
-**[Faraday Future deepens Middle East robotics push with UAE partners](https://www.stocktitan.net/news/FFAI/faraday-future-advances-middle-east-eai-robotics-strategy-through-heuyua3h9126.html)**
+**[China records most new unicorn start-ups in 5 years as AI and robotics boom](https://www.scmp.com/tech/article/3359629/china-records-most-new-unicorn-start-ups-5-years-ai-and-robotics-boom)**
 
-Cooperation with CGCC, Action To Action and Ibtikar Robotics may cover procurement, distribution, rentals, curriculum and technical support.
+South China Morning Post • 1d ago
 
-Stock Titan • 6h ago
+---
+
+**[AI Promises to Transform Robotics, Just Not Yet](https://www.bloomberg.com/opinion/articles/2026-07-06/ai-promises-to-transform-robotics-just-not-yet)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Renting makes robots affordable for work and play](https://www.bbc.com/news/articles/c4gymkg9lr2o)**
+
+Robotics tech is changing fast, so for many it makes sense to rent a robot.
+
+BBC • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 📺 51 Drones
 
-👁️ 72K • 👍 596 • 💬 108 • ⏱️ 12:50 • 6d ago
+👁️ 73K • 👍 601 • 💬 108 • ⏱️ 12:50 • 6d ago
 
 ---
 
@@ -210,7 +210,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 95K • 👍 3K • 💬 183 • ⏱️ 10:56 • 3d ago
+👁️ 109K • 👍 3K • 💬 206 • ⏱️ 10:56 • 3d ago
 
 ---
 
@@ -220,7 +220,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 94K • 👍 2K • 💬 452 • ⏱️ 13:32 • 3d ago
+👁️ 95K • 👍 2K • 💬 452 • ⏱️ 13:32 • 3d ago
 
 ---
 
@@ -230,33 +230,7 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 34K • 👍 2K • 💬 106 • ⏱️ 11:20 • 1d ago
-
----
-
-**[Designing a tiny component to make my robots stronger! #3dprinting #engineering #robotics](https://www.youtube.com/watch?v=zWYh11L62G4)**
-
-📺 Will Cogley
-
-👁️ 12K • 👍 827 • 💬 19 • ⏱️ 0:45 • 10h ago
-
----
-
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 945 • 👍 43 • 💬 17 • ⏱️ 10:42 • 1d ago
-
----
-
-**[mood robotic dance challenge #trending #youtubeshorts #fyp #dancetutorial #shortvideo brick grandpa](https://www.youtube.com/watch?v=fQZ8kRAVwjQ)**
-
-📺 Dance Theorem 
-
-👁️ 121K • 👍 2K • 💬 93 • ⏱️ 0:57 • 3d ago
+👁️ 36K • 👍 3K • 💬 108 • ⏱️ 11:20 • 1d ago
 
 ---
 
@@ -266,27 +240,55 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 28K • 👍 1K • 💬 58 • ⏱️ 10:19 • 5d ago
+👁️ 28K • 👍 1K • 💬 59 • ⏱️ 10:19 • 5d ago
 
 ---
 
-**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=J1GBxgv9Vgs)**
+**[Humans Vs Robots at Same Job: Humans Barley Won](https://www.youtube.com/watch?v=RNmuk5tWEcc)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
+Human vs Robot: Humans Barely Won 12924 Packages vs the Robot's 12732 Description Figure Al just tested its humanoid robot ...
 
-📺 South China Morning Post
+📺 Brainy Byte
 
-👁️ 193K • 👍 8K • 💬 1K • ⏱️ 2:39 • 6d ago
+👁️ 1.4M • 👍 39K • 💬 2K • ⏱️ 0:12 • 5d ago
 
 ---
 
-**[NEW Robot FANG is coming to War Robots](https://www.youtube.com/watch?v=-wIxHRH4DdU)**
+**[🧑‍🔧 Japanese engineers developed 🤖  a wearable robot that improves ⚖️  balance 👴 | MDCT](https://www.youtube.com/watch?v=V6ULmrkJuNw)**
 
-War Robots Test Server Gameplay: NEW Robot FANG - WR My War Robots Creator Link: https://wr.my.games/manni - Code: ...
+What if humans had a tail to help us stay balanced?* Japanese researchers have developed a robotic tail called *Arque* ...
 
-📺 Manni-Gaming
+📺 Make Dream Come True 
 
-👁️ 8K • 👍 362 • 💬 70 • ⏱️ 13:11 • 1d ago
+👁️ 38K • 👍 688 • 💬 30 • ⏱️ 0:11 • 5d ago
+
+---
+
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 45 • 💬 19 • ⏱️ 10:42 • 1d ago
+
+---
+
+**[i started a robotics company in 2026](https://www.youtube.com/watch?v=4wzn7ERaleU)**
+
+In this video I cover some of the behind the scenes of starting a robotics company in 2026. Our goal was to make a professional ...
+
+📺 Austen Hartley
+
+👁️ 9K • 👍 401 • 💬 45 • ⏱️ 18:50 • 1d ago
+
+---
+
+**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 1.6M • 👍 4K • 💬 93 • ⏱️ 0:14 • 5d ago
 
 ---
 

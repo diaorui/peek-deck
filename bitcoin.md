@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-08T03:27:36.432074+00:00'
+updated: '2026-07-08T06:13:46.583224+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 03:27 UTC  
+**Last Updated:** July 08, 2026 at 06:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,603.41
+### $62,757.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +2.4%  
-**30d:** +2.1%  
-**90d:** -13.6%  
-**1y:** -43.5%  
+**24h:** -0.8%  
+**7d:** +1.6%  
+**30d:** +1.4%  
+**90d:** -14.2%  
+**1y:** -43.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1262.71B
+**Market Cap:** $1254.73B
 Rank #1
 
-**Circulating Supply:** 20,053,462 BTC
+**Circulating Supply:** 20,053,518 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.1%
+-50.4%
 
 **All-Time Low:** $67.81
-+92753.6%
++92154.8%
 
 ---
 
@@ -161,35 +161,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC pulls back after run above $64,000](https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale)**
+**[Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook](https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss)**
 
-The token touched $64,400 overnight before easing back, still up about 6% on the week. A fresh missile strike on a Qatari gas ship in the Strait of Hormuz lifted oil and tested the late-June peace deal as Asian tech sold off again.
+First, it was a tiny amount of bitcoin sales; then, the purchase of several thousand BTC; and finally, today, the unloading of thousands of BTC. What's happening at Strategy?
 
-CoinDesk • 22h ago
-
----
-
-**[CleanSpark Short Interest Climbs to 33% as Bitcoin Pressure Builds](https://finance.yahoo.com/markets/crypto/articles/cleanspark-short-interest-climbs-33-013200151.html)**
-
-CleanSpark Inc. (NASDAQ: $CLSK) remains the most heavily shorted crypto company with a market value above $2 billio...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Flat, Ethereum, XRP, Dogecoin Dip as US Strikes Iran: Analyst Spots Dollar-Cost Averaging 'Opportunity' in BTC](https://uk.finance.yahoo.com/news/bitcoin-flat-ethereum-xrp-dogecoin-020019557.html)**
-
-Leading cryptocurrencies and stocks fell on Tuesday after U.S. strikes on Iran and the revocation of the oil sanctions waiver rattled investors. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.74%$63,519.02Ethereum (CRYPTO: ETH) -1.01%$1,776.71XRP (CRYPTO: XRP) -2.55%$1.11Solana (CRYPTO: SOL) -2.17%$80.25Dogecoin (CRYPTO: DOGE) -2.95%$0.07417 Crypto Rally Stalls Bitcoin briefly topped $64,000 in the afternoon before surrendering its gains, as trading volum
-
-Yahoo Finance UK • 1h ago
-
----
-
-**[Michael Saylor Reveals the One Metric Keeping MicroStrategy’s Bitcoin Play Sustainable](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-reveals-one-metric-022011618.html)**
-
-Michael Saylor says a 3.3% BTC Breakeven ARR lets Strategy fund preferred dividends with bitcoin gains indefinitely.
-
-Yahoo Finance • 1h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -199,17 +175,15 @@ WSJ • 1d ago
 
 ---
 
-**[Michael Saylor's Strategy may have saved bitcoin from a bigger sell-off: 'A balancing force in the market'](https://finance.yahoo.com/markets/crypto/article/michael-saylors-strategy-may-have-saved-bitcoin-from-a-bigger-sell-off-a-balancing-force-in-the-market-154525468.html)**
+**[Could Trump Accounts someday include bitcoin, crypto?](https://finance.yahoo.com/video/could-trump-accounts-someday-bitcoin-193000212.html)**
 
-Bitcoin (BTC-USD) has had a dismal year, but its underperformance has been less severe than in previous crypto winters, Bernstein analysts pointed out.
+Scott Melker discusses President Trump's latest comments around whether the newly launched Trump Accounts could include crypto in the future.
 
-Yahoo Finance • 1d ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-**[Strategy is losing a lot of money on bitcoin. Here’s why it’s selling anyway.](https://www.marketwatch.com/story/strategy-is-losing-a-lot-of-money-on-bitcoin-heres-why-its-selling-anyway-02822bc5)**
-
-MarketWatch • 1d ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -226,6 +200,36 @@ CNBC • 1d ago
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
 Fortune • 1d ago
+
+---
+
+**[SpaceX Nasdaq-100 Entry Brings Bitcoin Exposure To Passive Index Investors](https://bitcoinmagazine.com/bitcoin-for-corporations/spacex-nasdaq-bitcoin)**
+
+SpaceX joins the Nasdaq-100 today, triggering ~$4.3B in passive inflows to a company holding 18,712 BTC. This creates rules-based institutional demand for Bitcoin through corporate balance sheets.
+
+Bitcoin Magazine • 13h ago
+
+---
+
+**[Tether to Invest $20 Million in Strategic Financing Round for Mercado Bitcoin to Accelerate Onchain Financial Infrastructure in Latin America](https://tether.io/news/tether-to-invest-20-million-in-strategic-financing-round-for-mercado-bitcoin-to-accelerate-onchain-financial-infrastructure-in-latin-america/)**
+
+Investment supports Mercado Bitcoin’s expansion across tokenization, payments, credit, capital markets and regulated digital financial services 7 July 2026 – Tether, the largest company in the digital asset industry, today announced an investment of $20 million in a strategic growth financing round for Mercado Bitcoin, Latin America’s leading on-chain financial services platform. The investment reflects […]
+
+Tether.io • 17h ago
+
+---
+
+**[Jack Mallers' Strike launches 'volatility-proof' bitcoin loans built to protect against liquidation](https://www.theblock.co/post/407511/jack-maller-strike-launches-volatility-proof-bitcoin-loans-protect-against-liquidation)**
+
+Collateral can be partially liquidated, however, if a borrower misses an interest or maturity payment and fails to pay within a grace period.
+
+The Block • 9h ago
+
+---
+
+**[Bitcoin falls as risk sentiment hit by U.S. strikes against Iran, tech sell-off](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63k-as-traders-weigh-fresh-iran-tensions-tech-selloff-4778286)**
+
+Investing.com • 19h ago
 
 ---
 
@@ -285,7 +289,7 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 Practice sales calls, interviews, presentations, objections, and business pitches with Pitch, your conversation rehearsal coach.
 
-⬆️ 2 • 💬 0 • 1h ago • [AskPitch](https://www.AskPitch.com/duel)
+⬆️ 2 • 💬 0 • 4h ago • [AskPitch](https://www.AskPitch.com/duel)
 
 ---
 
@@ -293,7 +297,15 @@ Practice sales calls, interviews, presentations, objections, and business pitche
 
 Stacked branches. Contribute to alexghr/graphene development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/alexghr/graphene)
+⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/alexghr/graphene)
+
+---
+
+**[DeFi manual yield farming is outdated](https://news.ycombinator.com/item?id=48827714)**
+
+The rise of Vault: Replacement of the DeFi "DIY"
+
+⬆️ 1 • 💬 0 • 1h ago • [HodlyCrypto](https://hodlycrypto.com/blog/why-smart-money-is-ditching-manual)
 
 ---
 
@@ -301,43 +313,23 @@ Stacked branches. Contribute to alexghr/graphene development by creating an acco
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin passed the Saylor test](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
-
-Bitcoin just had its best week since March—but that's not the most important story. In this episode of The Daily Wolf, Scott Melker ...
-
-📺 Yahoo Finance
-
-👁️ 10K • 👍 452 • 💬 147 • ⏱️ 14:54 • 11h ago
-
----
-
-**[Saylor&#39;s Biggest Bitcoin Sale Ever Just Fooled Everyone!](https://www.youtube.com/watch?v=kyh6B7jhOuM)**
-
-Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and the mainstream media is calling it broken Bitcoin ...
-
-📺 Simply Bitcoin
-
-👁️ 43K • 👍 3K • 💬 355 • ⏱️ 20:18 • 1d ago
-
----
-
 **[Bitcoin Strategic Reserve Coming?🔥Crypto Market Update](https://www.youtube.com/watch?v=Q73PQU9774A)**
 
 The Trump administration's plan to create a Strategic Bitcoin Reserve has been complicated by two government departments ...
 
 📺 Paul Barron Network
 
-👁️ 25K • 👍 1K • 💬 97 • ⏱️ 16:05 • 8h ago
+👁️ 31K • 👍 2K • 💬 103 • ⏱️ 16:05 • 10h ago
 
 ---
 
-**[Bitcoin Jumps on Strategic Reserve Update](https://www.youtube.com/watch?v=yAnQOceHcPQ)**
+**[Bitcoin passed the Saylor test](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Bitcoin just had its best week since March—but that's not the most important story. In this episode of The Daily Wolf, Scott Melker ...
 
-📺 CryptosRUs
+📺 Yahoo Finance
 
-👁️ 18K • 👍 906 • 💬 149 • ⏱️ 8:39 • 1d ago
+👁️ 11K • 👍 473 • 💬 152 • ⏱️ 14:54 • 13h ago
 
 ---
 
@@ -347,37 +339,17 @@ Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories
 
 📺 Natalie Brunell
 
-👁️ 22K • 👍 1K • 💬 240 • ⏱️ 59:57 • 11h ago
+👁️ 26K • 👍 1K • 💬 280 • ⏱️ 59:57 • 14h ago
 
 ---
 
-**[Bitcoin... This Isn&#39;t Good](https://www.youtube.com/watch?v=X6ptF8avD2A)**
+**[Saylor&#39;s Biggest Bitcoin Sale Ever Just Fooled Everyone!](https://www.youtube.com/watch?v=kyh6B7jhOuM)**
 
-Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts are terrifying! WEEX ...
+Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and the mainstream media is calling it broken Bitcoin ...
 
-📺 Crypto Zombie
+📺 Simply Bitcoin
 
-👁️ 10K • 👍 930 • 💬 196 • ⏱️ 21:48 • 9h ago
-
----
-
-**[Bitcoin at a Crossroad as Global Shock Hits](https://www.youtube.com/watch?v=CRQAajl-EKU)**
-
-AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 796 • 💬 117 • ⏱️ 46:39 • 12h ago
-
----
-
-**[Bitcoin Flashing Rare Buy Signal! 🚨 (Why $60K Is The Reloading Zone) 📈](https://www.youtube.com/watch?v=y8XkPzBU_a4)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 37K • 👍 3K • 💬 93 • ⏱️ 16:56 • 1d ago
+👁️ 44K • 👍 3K • 💬 333 • ⏱️ 20:18 • 1d ago
 
 ---
 
@@ -387,17 +359,57 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 223 • 💬 41 • ⏱️ 17:26 • 1d ago
+👁️ 8K • 👍 230 • 💬 45 • ⏱️ 17:26 • 1d ago
 
 ---
 
-**[David Bailey&#39;s Companies Are An Attack On Bitcoin](https://www.youtube.com/watch?v=dizaPv4LDWI)**
+**[Bitcoin... This Isn&#39;t Good](https://www.youtube.com/watch?v=X6ptF8avD2A)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how David Bailey's crypto ...
+Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts are terrifying! WEEX ...
 
-📺 Bitcoin University
+📺 Crypto Zombie
 
-👁️ 5K • 👍 803 • 💬 194 • ⏱️ 11:30 • 14h ago
+👁️ 11K • 👍 991 • 💬 210 • ⏱️ 21:48 • 12h ago
+
+---
+
+**[Bitcoin at a Crossroad as Global Shock Hits](https://www.youtube.com/watch?v=CRQAajl-EKU)**
+
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 802 • 💬 117 • ⏱️ 46:39 • 15h ago
+
+---
+
+**[Reporter Asks Trump: Are There Plans To Put Bitcoin Into Trump Accounts?](https://www.youtube.com/watch?v=As1K6AqG4LI)**
+
+While taking questions from reporters on Monday, President Donald Trump spoke about cryptocurrency. Stay Connected Forbes ...
+
+📺 Forbes Breaking News
+
+👁️ 5K • 👍 74 • 💬 42 • ⏱️ 10:11 • 1d ago
+
+---
+
+**[Michael Saylor Sells $216 Million More Bitcoin🔥Crypto Market Update](https://www.youtube.com/watch?v=lpmuhDga6DI)**
+
+Under a new "BTC Monetization Program," the firm executed its largest-ever Bitcoin sale by offloading 3588 BTC for $216 million ...
+
+📺 Paul Barron Network
+
+👁️ 34K • 👍 1K • 💬 134 • ⏱️ 14:49 • 1d ago
+
+---
+
+**[Bitcoin Deja Vu](https://www.youtube.com/watch?v=rxekpAAHwRs)**
+
+Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com For inquiries and to subscribe to the ...
+
+📺 Benjamin Cowen
+
+👁️ 17K • 👍 408 • 💬 11 • ⏱️ 0:29 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-08T03:27:36.437980+00:00'
+updated: '2026-07-08T06:13:46.589375+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 03:27 UTC  
+**Last Updated:** July 08, 2026 at 06:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +3.6%  
-**30d:** +7.5%  
-**90d:** -21.5%  
-**1y:** -36.3%  
+**24h:** -1.1%  
+**7d:** +3.1%  
+**30d:** +6.9%  
+**90d:** -21.9%  
+**1y:** -36.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $212.44B
+**Market Cap:** $211.29B
 Rank #2
 
 **Circulating Supply:** 120,683,133 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.4%
+-64.6%
 
 **All-Time Low:** $0.43
-+406571.0%
++404261.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about the post quantum migration for a while and built a small tool that scores exposure risk for any Ethereum address. How it works: every ECDSA signed transaction reveals the signer's public key on chain. Once you have sent one transaction from an address, that public key is on chain permanently. If a sufficiently capable quantum computer arrives, it can derive the private key from that public key using Shor's algorithm. The tool takes any EVM address or ENS name and returns: - Whether the public key is already on chain (exposed) - The value at risk - How long the exposure has existed - A 0 to 100 exposure score Read only. No wallet connection. No signup. claak.io/scan Vitalik.eth is prefilled as a demo. The scanner is free and standalone. Full disclosure: I contribute to Claak, but this post is about the scanner as an open piece of crypto tooling for the community. Google's March paper cut the qubit threshold to roughly 1,152 logical qubits. Eigen Labs' open ecdsa.fail benchmark is past Google. NSA has set 2030 as the migration deadline. Happy to walk through methodology if anyone is curious. What score did you get on your main address?
 
-22h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ does decentralized governance in DAOs really work? this is an almost existential
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -132,7 +132,7 @@ I am used to address poisoning. Whenever I send/receive token, I will then recei
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -148,35 +148,27 @@ Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once ag
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs](https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs)**
-
-Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
-
-The Block • 1d ago
-
----
-
 **[Bitcoin Flat, Ethereum, XRP, Dogecoin Dip as US Strikes Iran: Analyst Spots Dollar-Cost Averaging 'Opportunity' in BTC](https://uk.finance.yahoo.com/news/bitcoin-flat-ethereum-xrp-dogecoin-020019557.html)**
 
 Leading cryptocurrencies and stocks fell on Tuesday after U.S. strikes on Iran and the revocation of the oil sanctions waiver rattled investors. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.74%$63,519.02Ethereum (CRYPTO: ETH) -1.01%$1,776.71XRP (CRYPTO: XRP) -2.55%$1.11Solana (CRYPTO: SOL) -2.17%$80.25Dogecoin (CRYPTO: DOGE) -2.95%$0.07417 Crypto Rally Stalls Bitcoin briefly topped $64,000 in the afternoon before surrendering its gains, as trading volum
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance UK • 4h ago
 
 ---
 
-**[Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-73-144145212.html)**
+**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
 
-BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
+The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitmine Purchases Another $74 Million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-another-74-million-134600258.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) continued to purchase Ethereum (CRYPTO: $ETH) over the past week as th...
 
 Yahoo Finance • 1d ago
-
----
-
-**[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
-
-In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
-
-PR Newswire • 1d ago
 
 ---
 
@@ -188,11 +180,11 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
+**[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
 
-The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
+In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
 
-CoinDesk • 1d ago
+PR Newswire • 1d ago
 
 ---
 
@@ -208,7 +200,7 @@ The Defiant • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 16h ago
 
 ---
 
@@ -216,15 +208,23 @@ Fortune • 14h ago
 
 DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 12h ago
 
 ---
 
-**[Top Analyst Reveals A Key Level Which Will Trigger Bullish Rally For Ethereum](https://www.tradingview.com/news/coinpedia:71d43e971094b:0-top-analyst-reveals-a-key-level-which-will-trigger-bullish-rally-for-ethereum/)**
+**[Vitalik Buterin confirms AI identified his anonymous Ethereum proposal contribution](https://www.tradingview.com/news/cointelegraph:e2852e944094b:0-vitalik-buterin-confirms-ai-identified-his-anonymous-ethereum-proposal-contribution/)**
 
-Ethereum has recovered from yesterday’s sharp sell-off and is once again testing the crucial $1,800 resistance level. After falling to nearly $1,728 following Strategy’s $216 million Bitcoin sale, ETH has bounced back toward $1,800.However, this price zone has rejected Ethereum five times over the…
+Vitalik Buterin has confirmed that AI-assisted analysis used by Co-Invest CEO Franklyn Wang correctly identified his anonymous contribution to an Ethereum proposal.The identification comes two weeks after Buterin publicly challenged whether current AI tools could pierce online anonymity.Wang's winn…
 
-TradingView • 18h ago
+TradingView • 19h ago
+
+---
+
+**[XRP Ledger tokenized assets soar to $4B, challenging Ethereum, BNB Chain](https://cryptobriefing.com/xrp-ledger-tokenized-assets-soar-to-4b-challenging-ethereum-bnb-chain/)**
+
+XRP Ledger tokenized assets surged to $4 billion, challenging Ethereum and BNB Chain. XRP reaching $3 by July 2026 at 0.4% YES.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -232,43 +232,33 @@ TradingView • 18h ago
 
 ## YouTube Videos: "ethereum"
 
-**[This Ethereum Trendline Is About to Decide Fate Of Altcoins](https://www.youtube.com/watch?v=OJk4XTvUcE8)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 5K • 👍 378 • 💬 177 • ⏱️ 19:01 • 10h ago
-
----
-
 **[Tom Lee: Why Ethereum Will Make You Rich (You&#39;re Not Too Late)](https://www.youtube.com/watch?v=NR9pvNbOA6o)**
 
 Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Michaël van de Poppe to explain why he thinks ETH ...
 
 📺 New Era Finance Podcast
 
-👁️ 7K • 👍 290 • 💬 40 • ⏱️ 34:28 • 13h ago
+👁️ 8K • 👍 321 • 💬 42 • ⏱️ 34:28 • 16h ago
 
 ---
 
-**[doesn&#39;t look like anything to me (Ethereum&#39;s C Word)](https://www.youtube.com/watch?v=e45W6FJfQks)**
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=fpjYhW4BKdI)**
 
-Doesn't Look like Anything to Me (Ethereum's C Word)
+In this video I break down the current Ethereum price action using Elliott Wave analysis to determine if the bearish trend is set to ...
 
-📺 Charles Hoskinson
+📺 More Crypto Online
 
-👁️ 5K • 👍 922 • 💬 194 • ⏱️ 13:04 • 6h ago
+👁️ 498 • 👍 71 • 💬 2 • ⏱️ 14:31 • 1h ago
 
 ---
 
-**[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
+**[This Ethereum Trendline Is About to Decide Fate Of Altcoins](https://www.youtube.com/watch?v=OJk4XTvUcE8)**
 
-In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
 
-📺 The Value Thinker
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 345 • 💬 91 • ⏱️ 21:46 • 3h ago
+👁️ 6K • 👍 401 • 💬 182 • ⏱️ 19:01 • 13h ago
 
 ---
 
@@ -278,7 +268,27 @@ Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
 📺 Credible Crypto
 
-👁️ 15K • 👍 947 • 💬 97 • ⏱️ 1:03:11 • 1d ago
+👁️ 15K • 👍 960 • 💬 102 • ⏱️ 1:03:11 • 1d ago
+
+---
+
+**[doesn&#39;t look like anything to me (Ethereum&#39;s C Word)](https://www.youtube.com/watch?v=e45W6FJfQks)**
+
+Doesn't Look like Anything to Me (Ethereum's C Word)
+
+📺 Charles Hoskinson
+
+👁️ 7K • 👍 1K • 💬 301 • ⏱️ 13:04 • 9h ago
+
+---
+
+**[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
+
+In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
+
+📺 The Value Thinker
+
+👁️ 5K • 👍 479 • 💬 142 • ⏱️ 21:46 • 6h ago
 
 ---
 
@@ -288,7 +298,7 @@ Ethereum and Bitcoin are showing the market some interesting movements in the la
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 886 • 💬 402 • ⏱️ 13:04 • 16h ago
+👁️ 8K • 👍 894 • 💬 432 • ⏱️ 13:04 • 19h ago
 
 ---
 
@@ -298,7 +308,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 8K • 👍 287 • 💬 97 • ⏱️ 1:09:10 • 1d ago
+👁️ 8K • 👍 289 • 💬 98 • ⏱️ 1:09:10 • 1d ago
+
+---
+
+**[Vitalik&#39;s Big Shift: Is Ethereum Now Copying Cardano?](https://www.youtube.com/watch?v=BXVfQr4TCNc)**
+
+Vitalik Buterin has unveiled Ethereum's ETH biggest roadmap in years, calling it the third major era of Ethereum and stating that ...
+
+📺 Linda CryptoFly
+
+👁️ 282 • 👍 79 • 💬 9 • ⏱️ 6:23 • 4h ago
 
 ---
 
@@ -308,27 +328,7 @@ Ethereum is trying to solve five major problems at once — speed, decentralizat
 
 📺 CoinGecko
 
-👁️ 6K • 👍 299 • 💬 82 • ⏱️ 10:28 • 1d ago
-
----
-
-**[Saylor sold. Tom Lee bought.](https://www.youtube.com/watch?v=UmuQ0SSfLPs)**
-
-Michael Saylor spent years telling investors to never sell Bitcoin. Now Strategy is doing something very different. In this episode of ...
-
-📺 Yahoo Finance
-
-👁️ 14K • 👍 492 • 💬 133 • ⏱️ 14:56 • 1d ago
-
----
-
-**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
-
-Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 492 • 💬 225 • ⏱️ 17:12 • 1d ago
+👁️ 7K • 👍 318 • 💬 102 • ⏱️ 10:28 • 1d ago
 
 ---
 
