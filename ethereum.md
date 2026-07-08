@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-08T19:26:14.529465+00:00'
+updated: '2026-07-08T20:43:50.379870+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 19:26 UTC  
+**Last Updated:** July 08, 2026 at 20:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,736.12
+### $1,735.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
+**24h:** -2.0%  
 **7d:** +2.2%  
 **30d:** +6.0%  
 **90d:** -22.6%  
@@ -156,26 +156,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine takes one step closer to holding 5% of ethereum](https://finance.yahoo.com/video/tom-lees-bitmine-takes-one-173000191.html)**
-
-Scott Melker discusses how Bitmine Immersion Technologies (BMNR) purchased another $74 million in ethereum (ETH-USD) as part of chairman Tom Lee's quest to hold 5% of the crypto asset.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitmine's Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum's total supply](https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply)**
-
-Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.
-
-The Block • 2d ago
-
----
-
 **[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
 
 In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
@@ -184,11 +164,19 @@ PR Newswire • 2d ago
 
 ---
 
+**[Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins](https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/)**
+
+Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
+
+CryptoSlate • 22h ago
+
+---
+
 **[Vitalik Buterin says Ethereum's next rebuild will rival the Merge, and take three to four years](https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years)**
 
 He said quantum safety has "shifted up a LOT in priority" and that Hegota, slated for later this year, will likely be Ethereum's last "pre-Lean" hard fork.
 
-The Block • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -208,19 +196,11 @@ The Defiant • 2d ago
 
 ---
 
-**[Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins](https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/)**
-
-Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
-
-CryptoSlate • 21h ago
-
----
-
 **[Current price of Ethereum for July 8, 2026](https://fortune.com/article/price-of-ethereum-07-08-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -229,6 +209,22 @@ Fortune • 6h ago
 DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
 
 markets.businessinsider.com • 1d ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP extend technical weakness amid escalating tensions in the Middle East](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-technical-weakness-amid-escalating-tensions-in-the-middle-east-202607081215)**
+
+Cryptocurrencies are broadly extending declines on Wednesday, after last week’s recovery. The sell-off has seen Bitcoin (BTC) slide below $62,000, increasing downside risks toward the next key support at $60,000.
+
+FXStreet • 8h ago
+
+---
+
+**[Top Analyst Reveals A Key Level Which Will Trigger Bullish Rally For Ethereum](https://coinpedia.org/news/top-analyst-reveals-a-key-level-which-will-trigger-bullish-rally-for-ethereum/)**
+
+Ethereum has recovered from yesterday's sharp sell-off and is once again testing the crucial $1,800 resistance level. After falling to nearly $1,728
+
+Coinpedia • 1d ago
 
 ---
 
@@ -242,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 2K • 👍 255 • 💬 94 • ⏱️ 16:41 • 3h ago
+👁️ 2K • 👍 255 • 💬 94 • ⏱️ 16:41 • 4h ago
 
 ---
 
@@ -252,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 670 • 👍 73 • 💬 30 • ⏱️ 13:21 • 3h ago
+👁️ 670 • 👍 73 • 💬 30 • ⏱️ 13:21 • 4h ago
 
 ---
 
@@ -272,7 +268,7 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 11K • 👍 1K • 💬 412 • ⏱️ 13:04 • 22h ago
+👁️ 11K • 👍 1K • 💬 412 • ⏱️ 13:04 • 23h ago
 
 ---
 
@@ -302,7 +298,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 12K • 👍 736 • 💬 154 • ⏱️ 21:46 • 19h ago
+👁️ 12K • 👍 736 • 💬 154 • ⏱️ 21:46 • 20h ago
 
 ---
 
@@ -312,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 198 • 👍 15 • 💬 11 • ⏱️ 4:52 • 8h ago
+👁️ 198 • 👍 15 • 💬 11 • ⏱️ 4:52 • 10h ago
 
 ---
 

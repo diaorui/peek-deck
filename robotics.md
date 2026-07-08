@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T19:26:14.532679+00:00'
+updated: '2026-07-08T20:43:50.382426+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 19:26 UTC  
+**Last Updated:** July 08, 2026 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,31 +114,23 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 ## Google News: "robotics"
 
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
+
+mistral.ai • 6h ago
+
+---
+
 **[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Bloomberg • 5h ago
+Bloomberg • 6h ago
 
 ---
 
 **[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
 
-Reuters • 3h ago
-
----
-
-**[Mistral Introduces Robotics AI That Requires Only One Camera](https://www.pymnts.com/news/artificial-intelligence/2026/mistral-introduces-robotics-ai-requires-only-one-camera/)**
-
-Mistral introduced its first artificial intelligence model built for “embodied navigation,” or enabling robots to autonomously move through complex
-
-PYMNTS.com • 2h ago
-
----
-
-**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
-
-New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
-
-NVIDIA Blog • 1d ago
+Reuters • 4h ago
 
 ---
 
@@ -146,7 +138,21 @@ NVIDIA Blog • 1d ago
 
 Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-Forbes • 19h ago
+Forbes • 20h ago
+
+---
+
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+
+Nature • 5h ago
+
+---
+
+**[NVIDIA (NVDA) Opens New Doors for Robotics Developers – Here’s How](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-opens-doors-robotics-120038440.html)**
+
+NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best Stocks to Buy in Glen Kacher’s Light Street Portfolio. On July 6, 2026, NVIDIA Corporation (NASDAQ:NVDA) expanded its partnership with Hugging Face to integrate its Isaac GR00T 1.7 foundation model and Isaac Teleop framework into the open-source LeRobot library. The collaboration connects NVIDIA Corporation’s (NASDAQ:NVDA) three […]
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -158,9 +164,9 @@ Ars Technica • 1d ago
 
 ---
 
-**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
 
-Nature • 3h ago
+Honolulu Civil Beat • 1d ago
 
 ---
 
@@ -168,21 +174,15 @@ Nature • 3h ago
 
 Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
-**[Why Richtech Robotics Stock Fell off a Cliff in June](https://finance.yahoo.com/markets/stocks/articles/why-richtech-robotics-stock-fell-210633782.html)**
+**[Vessel acquires Robot Sales Club, betting big on Ohio as a commercial robotics hub](https://www.ohiotechnews.com/vessel-acquires-robot-sales-club/)**
 
-Investors didn't appreciate the company's news about accounting errors in its financial statements.
+The Columbus-based startup solves a massive bottleneck for early-stage automation companies by embedding fractional sales teams to navigate complex enterprise deals. Backed by new capital and institutional scale, the acquisition aims to position the region as the country's premier tech corridor.
 
-Yahoo Finance • 22h ago
-
----
-
-**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
-
-Honolulu Civil Beat • 1d ago
+Ohio Tech News • 10h ago
 
 ---
 
@@ -196,7 +196,7 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 45K • 👍 2K • 💬 441 • ⏱️ 20:21 • 18h ago
+👁️ 45K • 👍 2K • 💬 441 • ⏱️ 20:21 • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 BRP Vlogs999
 
-👁️ 9K • 👍 19 • ⏱️ 0:09 • 10h ago
+👁️ 9K • 👍 19 • ⏱️ 0:09 • 12h ago
 
 ---
 
@@ -282,7 +282,7 @@ Sources ASPIRE — NVIDIA Research (official) | https://research.nvidia.com/labs
 
 📺 Jason Lowe on AI
 
-👁️ 4K • 👍 445 • 💬 24 • ⏱️ 1:41 • 22h ago
+👁️ 4K • 👍 445 • 💬 24 • ⏱️ 1:41 • 1d ago
 
 ---
 
