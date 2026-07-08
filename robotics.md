@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T17:37:19.246894+00:00'
+updated: '2026-07-08T19:26:14.532679+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 17:37 UTC  
+**Last Updated:** July 08, 2026 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Have been building this project for a while now, and would love to get eyes on i
 
 Found this demo on their project page showing exactly the transparent-surface problem that breaks most RGB-D setups. Raw sensor depth drops to nothing on the glass panel, and the completion model fills it in from the backbone features. Only the four vision encoders went up on HuggingFace and GitHub this week under Apache-2.0; the depth completion weights themselves are not released. Their paper lists NYUv2 RMSE of 0.296 for the flagship ViT-g, and they report 2.552 on KITTI, trailing both DINOv3-7B and V-JEPA 2.1. For actual robotics work this is the exact failure mode that makes wine glasses and steel cabinets a consistent headache for grasp pipelines. Curious how people see validating these depth numbers when the completion weights are not available for independent testing.
 
-1d ago
+2d ago
 
 ---
 
@@ -74,7 +74,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 **[Update on BAGEL: new features and future plans!](https://www.reddit.com/r/robotics/comments/1up4olv/update_on_bagel_new_features_and_future_plans/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -90,7 +90,7 @@ Is there anyone who could help me regarding controlling multiple robstride o2 mo
 
 Hi, I have an interview with Neuralink for this fall for robotics software engineer intern. I was wondering what should i expect and what is the interview process. Thank you.
 
-1d ago
+2d ago
 
 ---
 
@@ -114,25 +114,31 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 ## Google News: "robotics"
 
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
-
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
-
-mistral.ai • 3h ago
-
----
-
 **[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Bloomberg.com • 3h ago
+Bloomberg • 5h ago
 
 ---
 
-**[China wants to solve the hardest problem in robotics – making hands](https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid)**
+**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
 
-Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
+Reuters • 3h ago
 
-The Guardian • 2d ago
+---
+
+**[Mistral Introduces Robotics AI That Requires Only One Camera](https://www.pymnts.com/news/artificial-intelligence/2026/mistral-introduces-robotics-ai-requires-only-one-camera/)**
+
+Mistral introduced its first artificial intelligence model built for “embodied navigation,” or enabling robots to autonomously move through complex
+
+PYMNTS.com • 2h ago
+
+---
+
+**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
+
+New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
+
+NVIDIA Blog • 1d ago
 
 ---
 
@@ -140,7 +146,7 @@ The Guardian • 2d ago
 
 Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-Forbes • 17h ago
+Forbes • 19h ago
 
 ---
 
@@ -152,11 +158,9 @@ Ars Technica • 1d ago
 
 ---
 
-**[NVIDIA (NVDA) Opens New Doors for Robotics Developers – Here’s How](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-opens-doors-robotics-120038440.html)**
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
 
-NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best Stocks to Buy in Glen Kacher’s Light Street Portfolio. On July 6, 2026, NVIDIA Corporation (NASDAQ:NVDA) expanded its partnership with Hugging Face to integrate its Isaac GR00T 1.7 foundation model and Isaac Teleop framework into the open-source LeRobot library. The collaboration connects NVIDIA Corporation’s (NASDAQ:NVDA) three […]
-
-Yahoo Finance • 5h ago
+Nature • 3h ago
 
 ---
 
@@ -164,29 +168,21 @@ Yahoo Finance • 5h ago
 
 Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
 
-Fortune • 10h ago
+Fortune • 12h ago
+
+---
+
+**[Why Richtech Robotics Stock Fell off a Cliff in June](https://finance.yahoo.com/markets/stocks/articles/why-richtech-robotics-stock-fell-210633782.html)**
+
+Investors didn't appreciate the company's news about accounting errors in its financial statements.
+
+Yahoo Finance • 22h ago
 
 ---
 
 **[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
 
 Honolulu Civil Beat • 1d ago
-
----
-
-**[Vessel acquires Robot Sales Club, betting big on Ohio as a commercial robotics hub](https://www.ohiotechnews.com/vessel-acquires-robot-sales-club/)**
-
-The Columbus-based startup solves a massive bottleneck for early-stage automation companies by embedding fractional sales teams to navigate complex enterprise deals. Backed by new capital and institutional scale, the acquisition aims to position the region as the country's premier tech corridor.
-
-Ohio Tech News • 7h ago
-
----
-
-**[Renting makes robots affordable for work and play](https://www.bbc.com/news/articles/c4gymkg9lr2o)**
-
-Robotics tech is changing fast, so for many it makes sense to rent a robot.
-
-BBC • 1d ago
 
 ---
 
@@ -200,17 +196,17 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 40K • 👍 2K • 💬 419 • ⏱️ 20:21 • 17h ago
+👁️ 45K • 👍 2K • 💬 441 • ⏱️ 20:21 • 18h ago
 
 ---
 
-**[This AI Camera Robot Is Unlike Anything I&#39;ve Tested - Meet Beni!](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
 
-Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities, can travel on ...
+Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 51 Drones
+📺 Chris Norlund
 
-👁️ 82K • 👍 615 • 💬 109 • ⏱️ 12:50 • 6d ago
+👁️ 70K • 👍 4K • 💬 2K • ⏱️ 13:09 • 3d ago
 
 ---
 
@@ -220,15 +216,15 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 97K • 👍 2K • 💬 467 • ⏱️ 13:32 • 3d ago
+👁️ 98K • 👍 2K • 💬 472 • ⏱️ 13:32 • 3d ago
 
 ---
 
-**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
+**[Automatic Handwriting Machine #Shorts #automatic #handwriting #machine #robotics #brpvlogs999](https://www.youtube.com/watch?v=Mw7PuHOWrtU)**
 
-📺 GUYMANITOR
+📺 BRP Vlogs999
 
-👁️ 18K • 👍 99 • 💬 3 • ⏱️ 0:17 • 4d ago
+👁️ 9K • 👍 19 • ⏱️ 0:09 • 10h ago
 
 ---
 
@@ -238,7 +234,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 124K • 👍 3K • 💬 224 • ⏱️ 10:56 • 3d ago
+👁️ 127K • 👍 3K • 💬 232 • ⏱️ 10:56 • 3d ago
 
 ---
 
@@ -248,45 +244,45 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 48K • 👍 3K • 💬 123 • ⏱️ 11:20 • 2d ago
+👁️ 54K • 👍 3K • 💬 132 • ⏱️ 11:20 • 2d ago
 
 ---
 
-**[I Built My First AI Robot](https://www.youtube.com/watch?v=Sf-nklw0ljQ)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=aIamULUXZI0)**
 
-Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a robot from scratch named Bop — powered by an NVIDIA ...
+📺 Robot Julie 
+
+👁️ 31K • 👍 193 • 💬 2 • ⏱️ 0:22 • 2d ago
+
+---
+
+**[i started a robotics company in 2026](https://www.youtube.com/watch?v=4wzn7ERaleU)**
+
+In this video I cover some of the behind the scenes of starting a robotics company in 2026. Our goal was to make a professional ...
+
+📺 Austen Hartley
+
+👁️ 15K • 👍 710 • 💬 70 • ⏱️ 18:50 • 1d ago
+
+---
+
+**[Meet Bop, my first ever robot](https://www.youtube.com/watch?v=BXi4-BwVTg0)**
+
+Meet Bop, my first ever robot Runs on Mistral. Talks with Voxtral. Keeps bopping into walls. Full build on the main channel.
 
 📺 Coding with Lewis
 
-👁️ 29K • 👍 1K • 💬 61 • ⏱️ 10:19 • 6d ago
+👁️ 6K • 👍 403 • 💬 14 • ⏱️ 1:23 • 1d ago
 
 ---
 
-**[Chinese company unveils humanoid robot to combat loneliness | AFP](https://www.youtube.com/watch?v=Z4PbTRf32Nw)**
+**[A Robot&#39;s Success Rate Jumped From 20% to 92% - By Debugging Itself](https://www.youtube.com/watch?v=VHdD9xqRu0o)**
 
-Chinese robotics company UBTech has unveiled its new bionic humanoid robots powered by artificial intelligence and marketed ...
+Sources ASPIRE — NVIDIA Research (official) | https://research.nvidia.com/labs/gear/aspire/ ASPIRE: Agentic Skills Discovery for ...
 
-📺 AFP News Agency
+📺 Jason Lowe on AI
 
-👁️ 29K • 👍 989 • 💬 195 • ⏱️ 1:55 • 5d ago
-
----
-
-**[This Chinese Robot Dog Can Go Anywhere — CRW20 Combat Wolf](https://www.youtube.com/watch?v=k0_N1JS7Iy0)**
-
-This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, and carries a rifle-mounted payload with ease ...
-
-📺 Armourdesia Military Hardware
-
-👁️ 178K • 👍 4K • 💬 559 • ⏱️ 0:31 • 6d ago
-
----
-
-**[Automatic Handwriting Machine #Shorts #automatic #handwriting #machine #robotics #brpvlogs999](https://www.youtube.com/watch?v=Mw7PuHOWrtU)**
-
-📺 BRP Vlogs999
-
-👁️ 5K • 👍 17 • ⏱️ 0:09 • 8h ago
+👁️ 4K • 👍 445 • 💬 24 • ⏱️ 1:41 • 22h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-08T17:37:19.244439+00:00'
+updated: '2026-07-08T19:26:14.529465+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 17:37 UTC  
+**Last Updated:** July 08, 2026 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,744.64
+### $1,736.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +2.6%  
-**30d:** +6.4%  
-**90d:** -22.3%  
-**1y:** -36.9%  
+**24h:** -2.6%  
+**7d:** +2.2%  
+**30d:** +6.0%  
+**90d:** -22.6%  
+**1y:** -37.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $207.49B
+**Market Cap:** $209.40B
 Rank #2
 
 **Circulating Supply:** 120,683,133 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.2%
+-64.9%
 
 **All-Time Low:** $0.43
-+397000.1%
++400794.7%
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once again for their awesome work on these Doots! https://old.reddit.com/r/ethereum/comments/1um4zi1/daily_general_discussion_july_03_2026/ovb4kp7/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=yAzCzBggu3Y) • 4d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=yAzCzBggu3Y) • 5d ago
 
 ---
 
@@ -156,27 +156,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP extend technical weakness amid escalating tensions in the Middle East](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-technical-weakness-amid-escalating-tensions-in-the-middle-east-202607081215)**
+**[Tom Lee's Bitmine takes one step closer to holding 5% of ethereum](https://finance.yahoo.com/video/tom-lees-bitmine-takes-one-173000191.html)**
 
-Cryptocurrencies are broadly extending declines on Wednesday, after last week’s recovery. The sell-off has seen Bitcoin (BTC) slide below $62,000, increasing downside risks toward the next key support at $60,000.
+Scott Melker discusses how Bitmine Immersion Technologies (BMNR) purchased another $74 million in ethereum (ETH-USD) as part of chairman Tom Lee's quest to hold 5% of the crypto asset.
 
-FXStreet • 5h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-**[Which Crypto Can Make You a Millionaire by 2030 With $10,000? We Compared XRP, BTC, ETH, SOL, and HYPE](https://247wallst.com/investing/cryptocurrency/2026/07/05/which-crypto-can-make-you-a-millionaire-by-2030-with-10000-we-compared-xrp-btc-eth-sol-and-hype/)**
-
-Can $10,000 in XRP, Bitcoin, Ethereum, Solana, or Hyperliquid make you a millionaire by 2030? Let's see which crypto has a real shot.
-
-24/7 Wall St. • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins](https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/)**
+**[Bitmine's Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum's total supply](https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply)**
 
-Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
+Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.
 
-CryptoSlate • 19h ago
+The Block • 2d ago
+
+---
+
+**[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
+
+In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
+
+PR Newswire • 2d ago
 
 ---
 
@@ -204,27 +208,27 @@ The Defiant • 2d ago
 
 ---
 
-**[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
+**[Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins](https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/)**
 
-In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
+Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
 
-PR Newswire • 2d ago
-
----
-
-**[Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-73-144145212.html)**
-
-BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
-
-Yahoo Finance • 2d ago
+CryptoSlate • 21h ago
 
 ---
 
-**[Bitmine's Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum's total supply](https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply)**
+**[Current price of Ethereum for July 8, 2026](https://fortune.com/article/price-of-ethereum-07-08-2026/)**
 
-Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Block • 2d ago
+Fortune • 6h ago
+
+---
+
+**[New Crypto: Ethereum Based Pepeto Days From Binance Debut While the Cardano Price Targets $20](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-days-from-binance-debut-while-the-cardano-price-targets-20-1036304179)**
+
+DUBAI, United Arab Emirates, July  07, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is days from its Binance debut, and th...
+
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -232,13 +236,33 @@ The Block • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Bitcoin &amp; Ethereum&#39;s Biggest Test Is Happening RIGHT NOW (Targets)](https://www.youtube.com/watch?v=BlmXuZRpzcQ)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 2K • 👍 255 • 💬 94 • ⏱️ 16:41 • 3h ago
+
+---
+
+**[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 670 • 👍 73 • 💬 30 • ⏱️ 13:21 • 3h ago
+
+---
+
 **[Tom Lee: Why Ethereum Will Make You Rich (You&#39;re Not Too Late)](https://www.youtube.com/watch?v=NR9pvNbOA6o)**
 
 Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Michaël van de Poppe to explain why he thinks ETH ...
 
 📺 New Era Finance Podcast
 
-👁️ 11K • 👍 399 • 💬 42 • ⏱️ 34:28 • 1d ago
+👁️ 12K • 👍 432 • 💬 51 • ⏱️ 34:28 • 1d ago
 
 ---
 
@@ -248,17 +272,7 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 10K • 👍 1K • 💬 403 • ⏱️ 13:04 • 20h ago
-
----
-
-**[This Ethereum Trendline Is About to Decide Fate Of Altcoins](https://www.youtube.com/watch?v=OJk4XTvUcE8)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 7K • 👍 441 • 💬 211 • ⏱️ 19:01 • 1d ago
+👁️ 11K • 👍 1K • 💬 412 • ⏱️ 13:04 • 22h ago
 
 ---
 
@@ -268,27 +282,17 @@ Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
 📺 Credible Crypto
 
-👁️ 17K • 👍 1K • 💬 102 • ⏱️ 1:03:11 • 1d ago
+👁️ 17K • 👍 1K • 💬 102 • ⏱️ 1:03:11 • 2d ago
 
 ---
 
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=fpjYhW4BKdI)**
+**[This Ethereum Trendline Is About to Decide Fate Of Altcoins](https://www.youtube.com/watch?v=OJk4XTvUcE8)**
 
-In this video I break down the current Ethereum price action using Elliott Wave analysis to determine if the bearish trend is set to ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
 
-📺 More Crypto Online
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 191 • 💬 7 • ⏱️ 14:31 • 13h ago
-
----
-
-**[ETH BREAKDOWN WARNING! (Ethereum Price Prediction)](https://www.youtube.com/watch?v=QCaRSImJ-QE)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 137 • 👍 12 • 💬 11 • ⏱️ 4:52 • 6h ago
+👁️ 7K • 👍 449 • 💬 212 • ⏱️ 19:01 • 1d ago
 
 ---
 
@@ -298,7 +302,17 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 11K • 👍 690 • 💬 148 • ⏱️ 21:46 • 17h ago
+👁️ 12K • 👍 736 • 💬 154 • ⏱️ 21:46 • 19h ago
+
+---
+
+**[ETH BREAKDOWN WARNING! (Ethereum Price Prediction)](https://www.youtube.com/watch?v=QCaRSImJ-QE)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 198 • 👍 15 • 💬 11 • ⏱️ 4:52 • 8h ago
 
 ---
 
@@ -308,27 +322,17 @@ Ethereum is trying to solve five major problems at once — speed, decentralizat
 
 📺 CoinGecko
 
-👁️ 9K • 👍 371 • 💬 91 • ⏱️ 10:28 • 2d ago
+👁️ 9K • 👍 393 • 💬 126 • ⏱️ 10:28 • 2d ago
 
 ---
 
-**[Why Ethereum’s New Era Is More Bullish Than Ever](https://www.youtube.com/watch?v=S4IbDzJnFC8)**
+**[Vitalik&#39;s Leaked Document Backfires on XRP | Here&#39;s What They Don&#39;t Want You to Know](https://www.youtube.com/watch?v=nWm4VSX2v5g)**
 
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy In the video "Vitalik Declares War on Ripple & XRP ...
 
-📺 Milk Road
+📺 Digital Asset Investor
 
-👁️ 9K • 👍 312 • 💬 98 • ⏱️ 1:09:10 • 1d ago
-
----
-
-**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
-
-Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 498 • 💬 228 • ⏱️ 17:12 • 2d ago
+👁️ 27K • 👍 2K • 💬 11 • ⏱️ 20:10 • 2d ago
 
 ---
 
