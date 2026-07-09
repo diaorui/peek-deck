@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-09T21:57:53.508041+00:00'
+updated: '2026-07-09T23:18:10.951241+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 09, 2026 at 21:57 UTC  
+**Last Updated:** July 09, 2026 at 23:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,19 +122,15 @@ mistral.ai • 1d ago
 
 ---
 
-**[This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)**
+**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
 
-General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
-
-TechCrunch • 1d ago
+Reuters • 1d ago
 
 ---
 
-**[A new kind of robot swims the seas and soars the skies](https://www.npr.org/2026/07/09/nx-s1-5885040/robot-flying-aerial-aquatic-mit-birds)**
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
 
-Inspired by diving birds, roboticists built the lightweight machines to move from water to air. The design may one day lead to robots that can monitor and sample the coastal ocean.
-
-NPR • 3h ago
+Nature • 1d ago
 
 ---
 
@@ -150,25 +146,13 @@ UC San Diego Today • 1d ago
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
-Ars Technica • 1h ago
-
----
-
-**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
-
-Nature • 1d ago
+Ars Technica • 3h ago
 
 ---
 
 **[Watch Robotics Isn't Living Up to the Hype](https://www.bloomberg.com/news/videos/2026-07-09/opinion-robotics-isn-t-living-up-to-the-hype-video)**
 
-Bloomberg.com • 3h ago
-
----
-
-**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
-
-Reuters • 1d ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -184,7 +168,21 @@ Forbes • 1d ago
 
 The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
 
-Business Insider • 12h ago
+Business Insider • 14h ago
+
+---
+
+**[UMA Unveils Its Vision for the Next Generation of Humanoid Robots](https://www.businesswire.com/news/home/20260707215927/en/UMA-Unveils-Its-Vision-for-the-Next-Generation-of-Humanoid-Robots)**
+
+Business Wire • 2d ago
+
+---
+
+**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
+
+New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
+
+NVIDIA Blog • 2d ago
 
 ---
 
@@ -192,23 +190,13 @@ Business Insider • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
-
-Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
-
-📺 Fox Business Clips
-
-👁️ 645 • 👍 29 • 💬 10 • ⏱️ 8:37 • 4h ago
-
----
-
 **[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
 China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
 
 📺 AI Revolution
 
-👁️ 103K • 👍 2K • 💬 489 • ⏱️ 13:32 • 4d ago
+👁️ 103K • 👍 3K • 💬 486 • ⏱️ 13:32 • 5d ago
 
 ---
 
@@ -218,7 +206,7 @@ Mitsubishi just entered the humanoid robotics race. The Japanese automaker just 
 
 📺 Kalil 4.0
 
-👁️ 619 • 👍 36 • 💬 5 • ⏱️ 0:35 • 5h ago
+👁️ 1K • 👍 50 • 💬 5 • ⏱️ 0:35 • 7h ago
 
 ---
 
@@ -228,7 +216,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 146K • 👍 4K • 💬 251 • ⏱️ 10:56 • 4d ago
+👁️ 148K • 👍 4K • 💬 258 • ⏱️ 10:56 • 5d ago
 
 ---
 
@@ -238,7 +226,7 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 📺 FOU News
 
-👁️ 1.2M • 👍 17K • 💬 2K • ⏱️ 0:22 • 4d ago
+👁️ 1.2M • 👍 18K • 💬 2K • ⏱️ 0:22 • 4d ago
 
 ---
 
@@ -252,43 +240,51 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 ---
 
+**[UBTECH U WORLD U1: Ultra-Bionic Humanoid Robots](https://www.youtube.com/watch?v=HVSA83KpQes)**
+
+Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the future of personal robotics has arrived!
+
+📺 Zoom Vantage
+
+👁️ 1K • 👍 41 • 💬 5 • ⏱️ 4:05 • 1d ago
+
+---
+
+**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
+
+📺 GUYMANITOR
+
+👁️ 22K • 👍 126 • 💬 4 • ⏱️ 0:17 • 5d ago
+
+---
+
 **[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
 
 In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
 
 📺 Munro Live
 
-👁️ 24K • 👍 995 • 💬 154 • ⏱️ 38:47 • 1d ago
+👁️ 27K • 👍 1K • 💬 167 • ⏱️ 38:47 • 1d ago
 
 ---
 
-**[Ubtechs New U1 UWORLD Robots Shocked The Robot Industry (Ultra Lifelike Androids)](https://www.youtube.com/watch?v=pHUNbCKYn3w)**
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
 
-📺 TheAIGRID
+📺 Carl Bugeja
 
-👁️ 20K • 👍 363 • 💬 96 • ⏱️ 11:41 • 7d ago
-
----
-
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 4K • 👍 99 • 💬 23 • ⏱️ 10:42 • 3d ago
+👁️ 79K • 👍 4K • 💬 155 • ⏱️ 11:20 • 3d ago
 
 ---
 
-**[Russia&#39;s First Robot Wedding Takes Place in Moscow | Firstpost News | N18G](https://www.youtube.com/watch?v=IBxpzHhXeVQ)**
+**[Everyone’s Favourite Robot Got DOUBLE Buffed… Ao Jun Just Got Better | War Robots](https://www.youtube.com/watch?v=9v51MOjIwGY)**
 
-Russia hosted its first-ever symbolic wedding ceremony for humanoid robots in Moscow, where two AI-powered robots, Robert ...
+Use My Link For The WR Store https://wr.my.games/PREDATORWR The Ao Jun just got a buff on the live server. I really didnt ...
 
-📺 Firstpost
+📺 PREDATOR WR
 
-👁️ 2K • 👍 30 • 💬 5 • ⏱️ 0:52 • 4h ago
+👁️ 7K • 👍 301 • 💬 40 • ⏱️ 13:11 • 11h ago
 
 ---
 

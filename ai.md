@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-09T21:57:53.490062+00:00'
+updated: '2026-07-09T23:18:10.933457+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 09, 2026 at 21:57 UTC  
+**Last Updated:** July 09, 2026 at 23:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta recently launched a new AI agent for businesses that’s designed to handle customer chats, book appointments, and close sales. Mark Zuckerberg even dropped a pretty wild prediction during the launch stating that eventually these agents will be able to "run your entire business." On one hand, you have to appreciate how far the infra has come. The fact that a platform as massive as Meta is rolling out native autonomous tools proves that AI agents are no longer just an experimental toy for tech hobbyists. They are genuinely capable of saving massive amounts of time on frontline customer service and scheduling. But there’s a massive elephant in the room that we need to talk about: data ownership. Handing over your entire operational data pipeline, your customer interactions, and your lead information to a mega-platform whose entire business model relies on ad targeting feels risky. If a platform controls both the leads and the infra running your sales, you essentially risk paying to buy your own data back in the form of ad optimization down the line. For local SMBs and e-commerce shops handling high-volume Instagram DMs, this native integration is a massive win. But for high-ticket B2B SaaS, startups, and agencies, building independent, open workflows where you own the data rails and deliverability guardrails is still the safest play. It’s an interesting line to walk. We’re hosting a live, free workshop next thursday on how to use AI agents for B2B lead gen here
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Meta recently launched a new AI agent for businesses that’s designed to handle
 
 The main conclusions from analysis were: The Pareto frontier for coding tasks (i.e. best quality for a given cost) includes models from OpenAI, Anthropic, and open source. This means today, only a mix of tools can provide frontier performance. Open models, and GLM 5.2 in particular, are now able to handle even the highest level of task difficulty. The token price of a model is a poor indicator of actual costs incurred on end-to-end tasks. Larger models can be far more token efficient and have lower overall costs. The harness a model is called from dramatically impacts cost and quality. In many cases, simple harnesses like Pi performed best on our workloads.
 
-🔗 [Databricks](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase) • 9h ago
+🔗 [Databricks](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ The main conclusions from analysis were: The Pareto frontier for coding tasks (i
 
 While some players are comfortable with limited AI use, the survey suggests that trust in developers’ transparency is still a major concern.
 
-🔗 [PC Guide](https://www.pcguide.com/news/pc-gamers-remain-skeptical-of-steams-ai-disclaimers-poll-shows-many-believe-game-devs-are-hiding-it/) • 12h ago
+🔗 [PC Guide](https://www.pcguide.com/news/pc-gamers-remain-skeptical-of-steams-ai-disclaimers-poll-shows-many-believe-game-devs-are-hiding-it/) • 13h ago
 
 ---
 
@@ -69,11 +69,29 @@ Meta released Muse Image this week so I ran it against OpenAI's gpt-image-2 and 
 
 ---
 
+**[Koboldcpp v1.117 released](https://www.reddit.com/r/artificial/comments/1us5q1k/koboldcpp_v1117_released/)**
+
+koboldcpp-1.117
+
+
+Fixed terminal output sometimes not showing thinking traces
+Multimodal Images are now inserted inline instead of at the top of the context. This should improve vision coherence an...
+
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.117) • 30m ago
+
+---
+
 **[AI 2040: Plan A](https://www.reddit.com/r/artificial/comments/1urv6fd/ai_2040_plan_a/)**
 
 A research-backed AI scenario forecast.
 
-🔗 [ai-2040.com](https://ai-2040.com/) • 5h ago
+🔗 [ai-2040.com](https://ai-2040.com/) • 6h ago
+
+---
+
+**[Google Should Open Source Gemini. All of It.](https://www.reddit.com/r/artificial/comments/1ury0kc/google_should_open_source_gemini_all_of_it/)**
+
+🔗 [Thomas Unise](https://blog.thomasunise.com/google-should-open-source-gemini-all-of-it/) • 5h ago
 
 ---
 
@@ -81,7 +99,7 @@ A research-backed AI scenario forecast.
 
 Let's be real. The demo always looks insanely cool, but putting an autonomous agent in production is terrifying. You've got agents deciding to execute tool calls on their own, hallucinating logic, or hallucinating tool requirements. And when it fails, it rarely crashes with a nice stack trace—it just fails silently or goes off the rails into unpredictable territory.For the devs and enterprises out there actually shipping these things: What is the nightmare scenario keeping you awake? Are you worried about an agent overstepping boundaries, a silent data corruption, or something else entirely?
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +107,7 @@ Let's be real. The demo always looks insanely cool, but putting an autonomous ag
 
 The people who wrote AI 2027, the scenario about how AI could kill us all if things keep going at this speed, just released a new scenario about how to make AI go really well for humanity. TLDR: The U.S. leads an effort to delay superintelligence until 2040, make AI research much more public and transparent, let many companies around the world catch up to the frontier, and build datacenters in deliberately vulnerable locations so the compute can be destroyed if the deal breaks down and the race restarts. Curious what people think. Link here: https://ai-2040.com
 
-4h ago
+5h ago
 
 ---
 
@@ -97,23 +115,7 @@ The people who wrote AI 2027, the scenario about how AI could kill us all if thi
 
 Russia hosted its first robot wedding ceremony in Moscow, using the symbolic event to promote robotics, artificial intelligence and the role of automation in everyday life.
 
-🔗 [Global South World](http://globalsouthworld.com/article/russia-stages-first-robot-wedding-ceremony) • 58m ago
-
----
-
-**[GPT-5.6](https://www.reddit.com/r/artificial/comments/1urwi0z/gpt56/)**
-
-"We’re launching the GPT‑5.6 family of models for general availability following our limited preview⁠: our new flagship, Sol, alongside Terra, a balanced model for everyday work, and Luna, our most cost-efficient model. GPT‑5.6 delivers a step change in design judgment. With only high-level direction, GPT‑5.6 creates tasteful, ergonomic, and functional interfaces. Its stronger computer-use capabilities let it inspect and refine the rendered result—not just generate the underlying code or content—so it can catch visual and functional issues and apply finishing touches before handing the work back."
-
-🔗 [OpenAI](https://openai.com/index/gpt-5-6/) • 4h ago
-
----
-
-**[Documenting Sprout](https://www.reddit.com/r/artificial/comments/1urvwlh/documenting_sprout/)**
-
-Hello everyone, I don't believe this breaks any of the subreddit rules, and I'm genuinely not here to advertise anything. I'm posting because I know people are going to question what I'm building, and that's exactly the feedback I'm interested in. I'd much rather have people challenge the ideas than simply agree with them. My overall approach is already set in stone, so I'm not looking to change direction. What I am looking for is thoughtful discussion, constructive criticism, and ideas that might help strengthen the project. If you think there's a flaw in the reasoning, tell me. If you think I'm overlooking something, point it out. That's the kind of conversation I'm hoping to have. Thanks for reading, and I'm looking forward to hearing your thoughts. I've been working on a research project called Sprout over the past couple of years. Instead of building another large language model, I'm exploring a different question: Can an AI learn progressively through deterministic symbolic reasoning without relying on GPUs or neural networks? The focus is on explainability, governance, and refusing to answer when there isn't enough evidence rather than generating plausible responses. Right now it's still very early in its education—think elementary school level. It learns one concept at a time, keeps an auditable knowledge base, and every answer is expected to be traceable back to the facts that support it. If it can't prove an answer, it says it doesn't know. I'm not claiming this is the future of AI or that it replaces LLMs. It's simply a research experiment exploring whether a slower, governed, deterministic approach has value alongside modern AI systems. I'm interested in thoughtful technical discussion, criticism, and questions.
-
-5h ago
+🔗 [Global South World](http://globalsouthworld.com/article/russia-stages-first-robot-wedding-ceremony) • 2h ago
 
 ---
 
@@ -123,7 +125,7 @@ Hello everyone, I don't believe this breaks any of the subreddit rules, and I'm 
 
 **[China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers](https://www.nytimes.com/2026/07/09/business/china-russia-ai-data-centers.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -131,7 +133,7 @@ The New York Times • 5h ago
 
 These ten U.S. states have the best infrastructure to win future AI data center deals despite rising public opposition.
 
-CNBC • 5h ago
+CNBC • 7h ago
 
 ---
 
@@ -139,13 +141,13 @@ CNBC • 5h ago
 
 Meta Launches Huge AI Infrastructure Bet With $9 Billion Canada Buildout
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)**
 
-AI at Meta • 7h ago
+AI at Meta • 8h ago
 
 ---
 
@@ -153,35 +155,33 @@ AI at Meta • 7h ago
 
 Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang.
 
-CNBC • 7h ago
+CNBC • 9h ago
 
 ---
 
-**[Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears](https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24)**
+**[Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense](https://www.bloomberg.com/news/articles/2026-07-09/meta-s-zuckerberg-says-exploring-ai-cloud-business-makes-sense)**
 
-MarketWatch • 59m ago
-
----
-
-**[Elon Musk says he was wrong about Anthropic, now calls the AI rival the 'leader'](https://www.businessinsider.com/elon-musk-anthropic-ai-leader-rival-claude-spacexai-2026-7)**
-
-In recent weeks, SpaceX CEO Elon Musk has shared kinder words for Anthropic, not long after repeatedly disparaging the competitor.
-
-Business Insider • 3m ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Can AI answer the $3 trillion question?](https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/)**
+**[From Silicon Valley to Geneva, Proton’s Lumo Offers a Different Vision for AI](https://gizmodo.com/from-silicon-valley-to-geneva-protons-lumo-offers-a-different-vision-for-ai-2000783545)**
 
-The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.
-
-TechCrunch • 10m ago
+Gizmodo • 22m ago
 
 ---
 
-**[Opinion | A Christian Vision for the Future of AI](https://www.wsj.com/opinion/a-christian-vision-for-the-future-of-ai-fb5f6ce6)**
+**[SpaceX and AI startup wealth fuels demand for private jets](https://www.theguardian.com/us-news/2026/jul/09/private-jets-ai-ipo-super-rich)**
 
-WSJ • 23m ago
+Newly minted rich and those anticipating huge IPOs are fueling buying and charter spree in the private jet sector
+
+The Guardian • 28m ago
+
+---
+
+**[“It’s Impossible to Take Time Off Right Now:” How FOMO is Making Life Miserable in the Capital of AI](https://www.bloomberg.com/news/newsletters/2026-07-09/life-at-silicon-valley-no-vacations-fomo-plague-the-race-for-ai-riches?srnd=live-events-v2)**
+
+Bloomberg.com • 41m ago
 
 ---
 
@@ -189,7 +189,7 @@ WSJ • 23m ago
 
 The company is rolling out GPT-5.6 Sol, Terra and Luna after an initial limited launch.
 
-CNBC • 7h ago
+CNBC • 9h ago
 
 ---
 
@@ -199,13 +199,13 @@ CNBC • 7h ago
 
 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
 
-⬆️ 531 • 💬 204 • 1d ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+⬆️ 533 • 💬 203 • 1d ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 
 ---
 
 **[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
 
-⬆️ 336 • 💬 133 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
+⬆️ 338 • 💬 133 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
 
 ---
 
@@ -225,6 +225,14 @@ In places with unreliable networks and no data-center infrastructure, smaller is
 
 ---
 
+**[AI content is everywhere on social media, especially LinkedIn](https://news.ycombinator.com/item?id=48847940)**
+
+We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
+
+⬆️ 161 • 💬 141 • 7h ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
+
+---
+
 **[Automating AI Away](https://news.ycombinator.com/item?id=48818937)**
 
 ⬆️ 133 • 💬 62 • 2d ago • [replicated.live](https://replicated.live/blog/away)
@@ -235,15 +243,7 @@ In places with unreliable networks and no data-center infrastructure, smaller is
 
 AI cheating leads to "a failed society," professor says.
 
-⬆️ 128 • 💬 140 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
-
----
-
-**[AI content is everywhere on social media, especially LinkedIn](https://news.ycombinator.com/item?id=48847940)**
-
-We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
-
-⬆️ 127 • 💬 111 • 6h ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
+⬆️ 130 • 💬 148 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
 
 ---
 
@@ -251,7 +251,7 @@ We scanned over 1 million social media posts for AI content. It turned up on eve
 
 After Garry Tan touted his agentic coding output, a developer found inefficiencies, code bloat, and rookie mistakes lurking in production.
 
-⬆️ 116 • 💬 98 • 2d ago • [Fast Company](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
+⬆️ 117 • 💬 98 • 2d ago • [Fast Company](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
 
 ---
 
@@ -267,7 +267,7 @@ We pointed our AI audit pipeline at Cloudflare's CIRCL experimental cryptography
 
 AI changes rewrite economics because codebases with clear, common patterns get more leverage than proprietary or inconsistent systems.
 
-⬆️ 92 • 💬 103 • 16h ago • [the truth as I see it now](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
+⬆️ 96 • 💬 103 • 17h ago • [the truth as I see it now](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
 
 ---
 
@@ -275,53 +275,23 @@ AI changes rewrite economics because codebases with clear, common patterns get m
 
 ## YouTube Videos: "ai"
 
-**[China Is About To Pop The AI Bubble](https://www.youtube.com/watch?v=siazPdsZHuI)**
+**[GPT-5.6 is here (INSANE)](https://www.youtube.com/watch?v=xKg7O46HpH8)**
 
-China Is About To Pop The AI Bubble ▻ Go to https://ground.news/jikh to access world-wide perspectives in one place, compare ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 Andrei Jikh
+📺 Wes Roth
 
-👁️ 966K • 👍 34K • 💬 4K • ⏱️ 30:47 • 1d ago
-
----
-
-**[China Just Started The AI Cold War: Best AI Models Get Locked](https://www.youtube.com/watch?v=V_tRPdeK-AU)**
-
-China may have just started the AI Cold War. Beijing is moving to lock down its best AI models, Alibaba and ByteDance are ...
-
-📺 AI Revolution
-
-👁️ 32K • 👍 1K • 💬 164 • ⏱️ 14:45 • 23h ago
+👁️ 9K • 👍 487 • 💬 82 • ⏱️ 11:54 • 2h ago
 
 ---
 
-**[We just figured out how AI actually works (J-Space)](https://www.youtube.com/watch?v=bjHuGNo3spk)**
+**[Ukraine’s new momentum, CA exodus &amp; Trump’s AI red line | Fareed&#39;s Take roundup](https://www.youtube.com/watch?v=Zm6m3HrFwEM)**
 
-If scale is your next challenge check out DigitalOcean: https://do.co/matthewberman Join My Newsletter for Regular AI Updates ...
+Here are CNN host Fareed Zakaria's takes from the month of June, including Ukraine's war momentum, California's population ...
 
-📺 Matthew Berman
+📺 CNN
 
-👁️ 100K • 👍 4K • 💬 863 • ⏱️ 25:34 • 1d ago
-
----
-
-**[We Asked AI To Simulate If Women Were Logical](https://www.youtube.com/watch?v=8fWbTVrv7yQ)**
-
-Women being logical? We asked AI to run a simulation to see what that might look like. Our sponsor is Bikini Zone ( promocode: ...
-
-📺 The Babylon Bee
-
-👁️ 44K • 👍 5K • 💬 574 • ⏱️ 2:54 • 1d ago
-
----
-
-**[One Chinese AI Model Wiped Out $1 Trillion In A Single Day — And They&#39;re Just Getting Started](https://www.youtube.com/watch?v=WUTkCiNEDWU)**
-
-ATT Business: Switch to AT&T Business at business.att.com Paleovalley: 30 for $36 https://bit.ly/PaleovalleyIT 80% of every dollar ...
-
-📺 Tom Bilyeu
-
-👁️ 120K • 👍 4K • 💬 881 • ⏱️ 34:31 • 2d ago
+👁️ 64K • 👍 2K • 💬 379 • ⏱️ 25:36 • 6h ago
 
 ---
 
@@ -331,47 +301,75 @@ Make Your Own YouTube Shorts with OpenArt https://tolt.link/yvhshorts In this vi
 
 📺 Youri van Hofwegen
 
-👁️ 10K • 💬 8 • ⏱️ 8:09 • 7h ago
+👁️ 11K • 💬 8 • ⏱️ 8:09 • 8h ago
 
 ---
 
-**[The AI Bubble… We Need to Talk](https://www.youtube.com/watch?v=2J2Fb1bBufA)**
+**[China Just Started The AI Cold War: Best AI Models Get Locked](https://www.youtube.com/watch?v=V_tRPdeK-AU)**
 
-Half the internet says AI is the biggest bubble in history. The other half says it's the most important technology ever built. Check out ...
-
-📺 Casual Finance
-
-👁️ 402K • 👍 16K • 💬 1K • ⏱️ 18:03 • 2d ago
-
----
-
-**[Apple Lost the AI Race](https://www.youtube.com/watch?v=eWKY0OnPByg)**
-
-Apple lost the AI race. Actually, Apple won the AI race. Wait. That shirt: http://shop.MKBHD.com Playlist of MKBHD Intro music: ...
-
-📺 Marques Brownlee
-
-👁️ 1.3M • 👍 67K • 💬 5K • ⏱️ 7:04 • 1d ago
-
----
-
-**[Claude Just Crossed The Consciousness Line And Anthropic Admitted It](https://www.youtube.com/watch?v=M5-3c6mzq0U)**
-
-Claude may have just crossed the consciousness line. Anthropic found a hidden workspace inside Claude where thoughts ...
+China may have just started the AI Cold War. Beijing is moving to lock down its best AI models, Alibaba and ByteDance are ...
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 209 • ⏱️ 15:13 • 1d ago
+👁️ 33K • 👍 1K • 💬 172 • ⏱️ 14:45 • 1d ago
 
 ---
 
-**[OpenAI&#39;s newest AI model is 54% more token efficient on agentic coding, Sam Altman tells CNBC](https://www.youtube.com/watch?v=10ugh4fl97M)**
+**[China Is About To Pop The AI Bubble](https://www.youtube.com/watch?v=siazPdsZHuI)**
 
-OpenAI CEO Sam Altman joins 'Squawk on the Street' to discuss the company's latest ChatGPT model, AI spending and more.
+China Is About To Pop The AI Bubble ▻ Go to https://ground.news/jikh to access world-wide perspectives in one place, compare ...
+
+📺 Andrei Jikh
+
+👁️ 985K • 👍 34K • 💬 4K • ⏱️ 30:47 • 2d ago
+
+---
+
+**[Forget Nvidia. Watch these AI stocks instead.](https://www.youtube.com/watch?v=DqR3DO0C2L0)**
+
+Nvidia is still leading the AI revolution. But it may not be the best way to invest in it anymore. Brian Sozzi speaks with Kevin Mahn ...
+
+📺 Yahoo Finance
+
+👁️ 3K • 👍 89 • 💬 27 • ⏱️ 5:44 • 4h ago
+
+---
+
+**[We just figured out how AI actually works (J-Space)](https://www.youtube.com/watch?v=bjHuGNo3spk)**
+
+If scale is your next challenge check out DigitalOcean: https://do.co/matthewberman Join My Newsletter for Regular AI Updates ...
+
+📺 Matthew Berman
+
+👁️ 102K • 👍 4K • 💬 865 • ⏱️ 25:34 • 1d ago
+
+---
+
+**[#knitting #knittinglove #knittingtutorials #knittigpattern #ai](https://www.youtube.com/watch?v=CaEQul61eRg)**
+
+📺 Craft workshop 
+
+👁️ 11K • 👍 88 • 💬 5 • ⏱️ 0:11 • 12h ago
+
+---
+
+**[5 Proven Ways To Make Money With AI (No Experience)](https://www.youtube.com/watch?v=DZoeGR_tatA)**
+
+Next, watch this video where I break down the best AI business model to start and make $10k+/month: ...
+
+📺 Iman Gadzhi
+
+👁️ 15K • 👍 2K • 💬 382 • ⏱️ 36:31 • 6h ago
+
+---
+
+**[AI sector now checks all the classic bubble signs, says Rockefeller International&#39;s Ruchir Sharma](https://www.youtube.com/watch?v=B_ody1Lpntk)**
+
+Ruchir Sharma, Rockefeller International chairman, joins 'Squawk on the Street' to discuss how geopolitics have impacted equity ...
 
 📺 CNBC Television
 
-👁️ 11K • 👍 205 • 💬 96 • ⏱️ 2:45 • 7h ago
+👁️ 7K • 👍 119 • 💬 29 • ⏱️ 4:01 • 5h ago
 
 ---
 
@@ -387,7 +385,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 5,572 • ❤️ 597 • 3d ago
+⬇️ 5,572 • ❤️ 606 • 3d ago
 
 ---
 
@@ -399,7 +397,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,875,602 • ❤️ 1,920 • 11d ago
+⬇️ 1,875,602 • ❤️ 1,924 • 11d ago
 
 ---
 
@@ -411,7 +409,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 362,300 • ❤️ 3,717 • 7d ago
+⬇️ 362,300 • ❤️ 3,722 • 7d ago
 
 ---
 
@@ -423,7 +421,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 23,112 • ❤️ 426 • 20h ago
+⬇️ 23,112 • ❤️ 429 • 22h ago
 
 ---
 
@@ -435,7 +433,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,246,042 • ❤️ 1,899 • 6d ago
+⬇️ 1,246,042 • ❤️ 1,901 • 6d ago
 
 ---
 
@@ -447,7 +445,7 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 16,374 • ❤️ 328 • 5d ago
+⬇️ 16,374 • ❤️ 329 • 5d ago
 
 ---
 
@@ -459,7 +457,7 @@ A compact, instruction-tuned 4B parameter language model based on Qwen3, optimiz
 
 `text-generation` `4.0B`
 
-⬇️ 4,647 • ❤️ 194 • 5d ago
+⬇️ 4,647 • ❤️ 195 • 5d ago
 
 ---
 
@@ -473,16 +471,6 @@ A drop-in Jinja chat template that fixes critical rendering, KV cache, and agent
 
 ---
 
-**[Leanstral-1.5-119B-A6B](https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B)**
-
-*Mistral AI_*
-
-Leanstral 1.5 119B A6B is a multimodal (text/image) code agent for Lean 4, featuring a 119B parameter MoE architecture with 6.5B active parameters and a 256k context length, optimized for complex mathematical proofs and software specifications.
-
-⬇️ 258 • ❤️ 176 • 6d ago
-
----
-
 **[ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B)**
 
 *BottleCapAI*
@@ -491,7 +479,17 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 2,189 • ❤️ 172 • 6h ago
+⬇️ 2,189 • ❤️ 178 • 7h ago
+
+---
+
+**[Leanstral-1.5-119B-A6B](https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B)**
+
+*Mistral AI_*
+
+Leanstral 1.5 119B A6B is a multimodal (text/image) code agent for Lean 4, featuring a 119B parameter MoE architecture with 6.5B active parameters and a 256k context length, optimized for complex mathematical proofs and software specifications.
+
+⬇️ 258 • ❤️ 178 • 6d ago
 
 ---
 
@@ -547,9 +545,21 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 10 • 💬 0 • ⭐ 6,735 • 10mo ago
+▲ 10 • 💬 0 • ⭐ 6,958 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
+
+---
+
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+▲ 15 • 💬 2 • ⭐ 19,330 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -561,7 +571,7 @@ https://continuous-audio-language-models.github.io
 
 Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.
 
-▲ 36 • 💬 2 • ⭐ 548 • 4d ago
+▲ 36 • 💬 2 • ⭐ 576 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05247) • [💻 code](https://github.com/Robbyant/lingbot-vision) • [🔗 project](https://technology.robbyant.com/lingbot-vision)
 
@@ -587,21 +597,9 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 110 • 💬 4 • ⭐ 91,976 • 18mo ago
+▲ 110 • 💬 4 • ⭐ 92,045 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 15 • 💬 2 • ⭐ 19,028 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -655,7 +653,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 79.1k • 🔱 4.2k • 5h ago
+⭐ 79.2k • 🔱 4.3k • 1m ago
 
 ---
 
@@ -665,7 +663,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.7k • 🔱 1.2k • 3h ago
+⭐ 11.7k • 🔱 1.2k • 4h ago
 
 ---
 
@@ -675,7 +673,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.9k • 🔱 924 • 2h ago
+⭐ 6.9k • 🔱 928 • 10m ago
 
 ---
 
@@ -685,7 +683,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.1k • 🔱 888 • 9h ago
+⭐ 4.2k • 🔱 893 • 10h ago
 
 ---
 
@@ -695,7 +693,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.6k • 🔱 220 • 2d ago
+⭐ 2.6k • 🔱 221 • 2d ago
 
 ---
 
@@ -705,7 +703,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.3k • 🔱 83 • 17h ago
+⭐ 2.3k • 🔱 83 • 1m ago
 
 ---
 
@@ -715,7 +713,7 @@ An AI-agent skill that generates browser-editable presentations from multiple vi
 
 `JavaScript` `agent-skill` `ai-agent` `ai-ppt` `claude` `claude-code`
 
-⭐ 2.0k • 🔱 193 • 14h ago
+⭐ 2.0k • 🔱 193 • 16h ago
 
 ---
 
@@ -725,7 +723,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 1.9k • 🔱 278 • 11h ago
+⭐ 1.9k • 🔱 278 • 12h ago
 
 ---
 

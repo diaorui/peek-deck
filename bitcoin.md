@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-09T21:57:53.498653+00:00'
+updated: '2026-07-09T23:18:10.942008+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 21:57 UTC  
+**Last Updated:** July 09, 2026 at 23:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,317.60
+### $63,258.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +1.0%  
-**30d:** +2.8%  
-**90d:** -13.4%  
-**1y:** -45.5%  
+**24h:** +1.7%  
+**7d:** +0.9%  
+**30d:** +2.7%  
+**90d:** -13.6%  
+**1y:** -45.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1266.55B
+**Market Cap:** $1265.57B
 Rank #1
 
-**Circulating Supply:** 20,054,175 BTC
+**Circulating Supply:** 20,054,206 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.9%
 
 **All-Time Low:** $67.81
-+93038.2%
++92964.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Keep stacking sats, especially with these low prices ofcourse.
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ Keep stacking sats, especially with these low prices ofcourse.
 
 Just curious what price you were hoping for
 
-14h ago
+15h ago
 
 ---
 
@@ -103,13 +103,13 @@ Just curious what price you were hoping for
 
 so I sold around 10-15% of my BTC after overthinking for months, almost a year... and ngl, I thought I'd feel like a calm responsible adult after that. WRONG. Now every green candle makes me feel like I sold the bottom, and every red candle makes me feel like a genius for 7 minutes xD, still holding around 90-85%, still bullish long term, and still got the mining side running through OneMiners, so I'm not fully out or anything :D but damn, BTC really has a way of making every decision feel dumb right after u make it lol. maybe that's the real game. not buying, not selling, just trying not to become emotionally cooked by a chart. anyone else sold a little and somehow became MORE stressed?
 
-8h ago
+10h ago
 
 ---
 
 **[What Bitcoin has been doing for this month.](https://www.reddit.com/r/Bitcoin/comments/1urfyz8/what_bitcoin_has_been_doing_for_this_month/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -117,7 +117,7 @@ so I sold around 10-15% of my BTC after overthinking for months, almost a year..
 
 This took a lot of work and would love your feedback on what's missing, what can be added/removed! https://newhedge.io/buy
 
-9h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ This took a lot of work and would love your feedback on what's missing, what can
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Buy bitcoin. Simple as that.
 
-14h ago
+16h ago
 
 ---
 
@@ -141,13 +141,13 @@ Buy bitcoin. Simple as that.
 
 Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
-5h ago
+6h ago
 
 ---
 
 **[The Bitcoin Stateless Revolution. How Utreexo (BIP-183) Obliterates the UTXO Bottleneck and Reclaims the Base Layer.](https://www.reddit.com/r/Bitcoin/comments/1urmh50/the_bitcoin_stateless_revolution_how_utreexo/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-bitcoin-stateless-revolution) • 11h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-bitcoin-stateless-revolution) • 12h ago
 
 ---
 
@@ -157,15 +157,15 @@ Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
 **[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
-**[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://finance.yahoo.com/markets/crypto/articles/eric-trump-bitcoin-bet-erases-094500128.html)**
+**[American Bitcoin Plunges 95% as AI-Focused Rivals Pull Ahead](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-plunges-95-ai-174413921.html)**
 
-(Bloomberg) -- American Bitcoin Corp. was built around a simple idea: that owning and mining Bitcoin would be enough to mint money.Most Read from BloombergMicrosoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video GameTrump Vents Anger With Iran and Warns Ceasefire May Be ‘Over’Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom LevelsUS Military Launches Strikes on Iran for Second Straight DayGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaInstead, the company co-fou
+The Bitcoin miner stayed focused on crypto while competitors expanded into AI data centers and outperformed.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 12h ago
 
 Eric Trump posted a cringeworthy bid for his dad’s approval just hours before news of the staggering loss broke.
 
-The Daily Beast • 5h ago
+The Daily Beast • 6h ago
 
 ---
 
@@ -181,31 +181,15 @@ The Daily Beast • 5h ago
 
 Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
-**[JPMorgan Chase Says Bitcoin's Main Risk Isn't Strategy](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-chase-says-bitcoins-main-205200489.html)**
+**[If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today](https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html)**
 
-Strategy's (NASDAQ: $MSTR) recent Bitcoin (CRYPTO: $BTC) sales are not the main risk facing the cryptocurrency ...
+January 20, 2025. Donald Trump walks back into the White House. Bitcoin is touching $109,000. Gold is steady at $2,697 an ounce. And a meme coin bearing the president's name is a few days old and trading around $35, already down sharply from its launch peak of $74. Six months on, those three assets ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Crypto Market Today, July 9: Bitcoin Holds Firm as Risk Appetite Returns Despite Geopolitical Noise](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-july-9-212243527.html)**
-
-On July 9, 2026, leading cryptocurrencies posted gains as news reports sparked hope that digital asset legislation may reach the Senate this month.
-
-Yahoo Finance • 35m ago
-
----
-
-**[This Top Cryptocurrency Could Soar 135% By the End of the Year, According to Wall Street Investment Firm Bernstein](https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrency-could-soar-135-205000825.html)**
-
-Bitcoin could hit $150,000 this year -- but only if these two things happen.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 56m ago
 
 ---
 
@@ -213,7 +197,7 @@ Yahoo Finance • 1h ago
 
 Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
 
-KRXI2 • 22h ago
+KRXI2 • 23h ago
 
 ---
 
@@ -221,15 +205,31 @@ KRXI2 • 22h ago
 
 Strategy's latest Bitcoin sale is rattling some of the coin's holders.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
-**[Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks](https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks)**
+**[Live markets: Bitcoin ETFs slip back to outflows while ether funds extend their streak](https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak)**
 
-Redemption requests in the $2 trillion private credit market surged to $15.6 billion in the second quarter, dwarfing bitcoin ETF outflows.
+U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
+
+---
+
+**[JPMorgan Says The Real Threat To Bitcoin Isn't Strategy (MSTR) — It's Private Blockchains](https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin)**
+
+JPMorgan says Strategy's Bitcoin sales are a short-term concern, but the bigger long-term risk is that banks and institutions adopt private blockchains over public networks, reducing activity and capital flows across the broader crypto ecosystem.
+
+Bitcoin Magazine • 2h ago
+
+---
+
+**[Crossville bitcoin mining center draws noise complaints, city eyes moratorium on future data centers](https://www.wvlt.tv/2026/07/08/crossville-bitcoin-mining-center-draws-noise-complaints-city-eyes-moratorium-future-data-centers/)**
+
+A bitcoin mining data center in Crossville is generating noise complaints from neighboring businesses, and city officials say they are considering a two-year moratorium on future data centers while they work to establish additional regulations.
+
+WVLT • 1d ago
 
 ---
 
@@ -243,7 +243,7 @@ ZeroNet is a decentralized network that enables dynamic sites, such as blogs and
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 14 • 💬 2 • 4d ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 14 • 💬 2 • 5d ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -259,7 +259,7 @@ Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign
 
 Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal challenge before France's Conseil d'État to annul Decree No. 2025-1276, which implements the EU's DAC8 crypto tax reporting directive. The exchange argues the rules create a mass surveillance database linking identities and crypto activity, endangering holders' physical safety.
 
-⬆️ 3 • 💬 1 • 20h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
+⬆️ 3 • 💬 1 • 22h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
 
 ---
 
@@ -283,7 +283,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 336 • 💬 245 • 13h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 341 • 💬 246 • 14h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
@@ -291,13 +291,53 @@ It’s supposed to be a decentralized service, after all...
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
+
+Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
+
+📺 Gareth Soloway
+
+👁️ 30K • 👍 2K • 💬 98 • ⏱️ 15:38 • 6h ago
+
+---
+
 **[Last Time THIS Happened Bitcoin Exploded 20x (It&#39;s Happening Again!)](https://www.youtube.com/watch?v=OpOPKHOgK34)**
 
 The biggest attacks on Bitcoin have often become its biggest strengths. The 2017 Fork Wars proved that no company, miner, ...
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 238 • ⏱️ 19:44 • 20h ago
+👁️ 23K • 👍 2K • 💬 253 • ⏱️ 19:44 • 22h ago
+
+---
+
+**[You Won&#39;t Believe What This NEW BATTLE Means For Bitcoin](https://www.youtube.com/watch?v=u0ENddawnrI)**
+
+Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bitcoin did something different. From Lyn Alden's ...
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 449 • 💬 59 • ⏱️ 18:07 • 10h ago
+
+---
+
+**[Vanguard Just Flipped On Bitcoin](https://www.youtube.com/watch?v=4SAfpR4LexY)**
+
+The Last Trade: Jackson, Michael, and Brian break down Vanguard's surprise listing for a head of digital assets and what TradFi's ...
+
+📺 Onramp Bitcoin Media
+
+👁️ 1K • 👍 56 • 💬 12 • ⏱️ 1:11:30 • 10h ago
+
+---
+
+**[Where did BITCOIN come from??](https://www.youtube.com/watch?v=h16OpJbINDQ)**
+
+Smartnonsense.com.
+
+📺 Smart Nonsense
+
+👁️ 103K • 👍 10K • 💬 125 • ⏱️ 1:07 • 9h ago
 
 ---
 
@@ -311,33 +351,33 @@ The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altco
 
 ---
 
-**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
+**[US Government INSIDER REVEALS Who is SECRETLY SABOTAGING Bitcoin?! | EP 1544](https://www.youtube.com/watch?v=1MOwr2QoimM)**
 
-Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
+As the deadline to get Clarity Act thru comes closer the attackers of bitcoin coordinate a desperate attack to slow their demise .
 
-📺 Gareth Soloway
+📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 80 • ⏱️ 15:38 • 5h ago
-
----
-
-**[Where did BITCOIN come from??](https://www.youtube.com/watch?v=h16OpJbINDQ)**
-
-Smartnonsense.com.
-
-📺 Smart Nonsense
-
-👁️ 61K • 👍 7K • 💬 84 • ⏱️ 1:07 • 7h ago
+👁️ 4K • 👍 247 • 💬 29 • ⏱️ 1:29:30 • 4h ago
 
 ---
 
-**[It&#39;s All Noise. Bitcoin Is The Opportunity (Don&#39;t Miss THIS).](https://www.youtube.com/watch?v=yUVUhDNdFM0)**
+**[Van Eck Says Bitcoin Going Much Higher](https://www.youtube.com/watch?v=isj-5wTCGkI)**
 
-ANOTHER peace deal is in tatters and of course there is a sell-off. BUT we must pay attention to SIGNL vs. NOISE when it comes ...
+Bitcoin, Robinhood Chain, Robotics, Solana, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Digital Asset News
+📺 Lark Davis
 
-👁️ 8K • 👍 546 • 💬 48 • ⏱️ 32:35 • 1d ago
+👁️ 8K • 👍 470 • 💬 53 • ⏱️ 18:31 • 11h ago
+
+---
+
+**[Bitcoin: Brief Window of Strength](https://www.youtube.com/watch?v=n9yTkx3r904)**
+
+Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 71K • 👍 4K • 💬 175 • ⏱️ 11:24 • 1d ago
 
 ---
 
@@ -348,44 +388,6 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 📺 Crypto Capital Venture
 
 👁️ 8K • 👍 474 • 💬 145 • ⏱️ 16:41 • 1d ago
-
----
-
-**[You Won&#39;t Believe What This NEW BATTLE Means For Bitcoin](https://www.youtube.com/watch?v=u0ENddawnrI)**
-
-Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bitcoin did something different. From Lyn Alden's ...
-
-📺 Simply Bitcoin
-
-👁️ 3K • 👍 371 • 💬 55 • ⏱️ 18:07 • 8h ago
-
----
-
-**[crypto futures trading #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=O5stdETxsEk)**
-
-📺 Khuncoin
-
-👁️ 57K • 👍 693 • 💬 5 • ⏱️ 0:13 • 1d ago
-
----
-
-**[Bitcoin: Brief Window of Strength](https://www.youtube.com/watch?v=n9yTkx3r904)**
-
-Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 70K • 👍 4K • 💬 175 • ⏱️ 11:24 • 1d ago
-
----
-
-**[Bitcoin DUMPS To $62K As Iran War Escalates – Matt Hougan Live](https://www.youtube.com/watch?v=kUKmZQDxEr0)**
-
-Bitcoin #Crypto #finance Bitcoin fell below $62K after renewed U.S.-Iran tensions triggered a broader risk-off move across markets ...
-
-📺 The Wolf Of All Streets
-
-👁️ 17K • 👍 701 • 💬 267 • ⏱️ 35:18 • 1d ago
 
 ---
 
