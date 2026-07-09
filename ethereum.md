@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-09T13:49:48.111336+00:00'
+updated: '2026-07-09T16:27:56.583434+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 13:49 UTC  
+**Last Updated:** July 09, 2026 at 16:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -0.9%  
-**30d:** +7.5%  
-**90d:** -23.8%  
-**1y:** -41.0%  
+**24h:** +0.0%  
+**7d:** -1.4%  
+**30d:** +6.9%  
+**90d:** -24.2%  
+**1y:** -41.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $210.37B
+**Market Cap:** $209.33B
 Rank #2
 
 **Circulating Supply:** 120,683,101 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.8%
+-64.9%
 
 **All-Time Low:** $0.43
-+402330.6%
++400485.2%
 
 ---
 
@@ -78,13 +78,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum has just crossed another major milestone.](https://www.reddit.com/r/ethereum/comments/1uqwiwi/ethereum_has_just_crossed_another_major_milestone/)**
 
-22h ago
+1d ago
 
 ---
 
 **[我现在开始学习和练习Web3还会太晚吗？如果不晚，一个完全的新手应该从哪些方面入手？](https://www.reddit.com/r/ethereum/comments/1ur3q21/我现在开始学习和练习web3还会太晚吗如果不晚一个完全的新手应该从哪些方面入手/)**
 
-17h ago
+20h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Abstract The smart-contract ecosystem already depends heavily on code reuse, but that reuse has not yet become shared on-chain infrastructure. Similar logic is repeatedly redeployed across projects, creating duplicated infrastructure that increases long-term maintenance, audit, and security burdens for the ecosystem. Compose introduces Smart Contract Oriented Programming, or SCOP, to bring reuse into the deployed architecture itself. Using diamonds and stateless facets, Compose enables modular on-chain systems that are easier to build and trust across their lifecycle.
 
-🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 21h ago
+🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 1d ago
 
 ---
 
@@ -152,19 +152,41 @@ CryptoSlate • 1d ago
 
 ---
 
+**[The triage is the product: running AI agents against Ethereum's protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product)**
+
+*Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
+
+ethereum.org • 38m ago
+
+---
+
+**[Ethereum Will Be $5 Trillion Network In 'Few Years,' Says Tom Lee — What Would That Make Price?](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-trillion-network-few-131715571.html)**
+
+Tom Lee says Ethereum could become a $5 trillion network within the next few years. A $5 trillion market cap would imply an ETH price ...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum's newest nonprofit wants to become Wall Street's guide to crypto](https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto)**
+
+In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
+
+CoinDesk • 1h ago
+
+---
+
 **[Current price of Ethereum for July 9, 2026](https://fortune.com/article/price-of-ethereum-07-09-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, July 8, 2026: Crypto prices down following U.S.-Iran strikes](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-8-2026-crypto-prices-down-following-us-iran-strikes-130336886.html)**
+**[Ethereum’s Institutional Demand Looks Stronger Than Its Price Action](https://www.investing.com/analysis/ethereums-institutional-demand-looks-stronger-than-its-price-action-200683641)**
 
-Bitcoin opened at $63,318.46 on Wednesday, July 8, 2026, down 1.1% from Tuesday's open. The price of bitcoin moved even lower this morning. Ethereum opened at $1,769.31, down 1.6%. Ethereum prices then shifted to $1,742.22 as of 8:45 a.m. ET.
-
-Yahoo Finance • 1d ago
+Investing.com • 2h ago
 
 ---
 
@@ -172,55 +194,31 @@ Yahoo Finance • 1d ago
 
 DUBAI, United Arab Emirates, July  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto is getting ready to launch its innovative DeFi ...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces renewed selling, ETH weakens, XRP risks deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-renewed-selling-eth-weakens-xrp-risks-deeper-losses-202607080314)**
+**[Crypto Today: Bitcoin, Ethereum, XRP extend technical weakness amid escalating tensions in the Middle East](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-technical-weakness-amid-escalating-tensions-in-the-middle-east-202607081215)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) face renewed selling on Wednesday, extending their corrective move so far this week. BTC faced rejection at $64,000, and ETH failed to break above the 50-day Exponential Moving Average (EMA).
+Cryptocurrencies are broadly extending declines on Wednesday, after last week’s recovery. The sell-off has seen Bitcoin (BTC) slide below $62,000, increasing downside risks toward the next key support at $60,000.
 
 FXStreet • 1d ago
 
 ---
 
-**[Energy Substantiation wants to put oil barrels on the Ethereum blockchain](https://cryptobriefing.com/energy-substantiation-tokenize-oil-blockchain/)**
+**[Bitcoin slips below the cloud as Ethereum and Altcoins show relative strength](https://www.kitco.com/opinion/2026-07-09/bitcoin-slips-below-cloud-ethereum-and-altcoins-show-relative-strength)**
 
-Energy Substantiation launches $WTIC, an ERC-20 token backed 1:1 by physical WTI crude oil barrels, with plans to tokenize natural gas and Brent crude by Q3
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin dropped below the daily TBO Cloud on Wednesday, which technically puts it back in strong bearish mode. But the move is not as simple as it looks. The daily TBO Slow line is flattening and OBV is gradually curling higher, both of which suggest the market may still be preparing for a bounce rather than a full breakdown.Bitcoin weakens, but the reversal setup is not deadBTC falling below the Cloud is a bearish headline, but the context matters. A flattening Slow line shows that the macro downtrend is losing pressure, while OBV’s gradual curl higher shows buyers are not completely gone. That means the chart is technically weaker, but still in a constructive transition zone if the next bounce develops quickly.Ethereum looks better than BitcoinETH is currently the stronger major chart. It pulled back to the Fast line, closing the recent TBO Close Short and creating a cleaner entry zone. OBV also looks much better on ETH than BTC, which supports the idea that Ethereum may lead if the broader crypto bounce starts to rotate back into risk.Dominance still points toward an altcoin bounceCombined stablecoin dominance moved up to tag the Fast line again. The working expectation is that RSI may tag or push slightly above historical support, confirm it as resistance, and then fall back down. If that happens, it should coincide with a bullish bounce for crypto. BTC dominance also fell below the Cloud again, which is good news for altcoins.TOTALES remains bearish, but reversal signs are buildingTOTALES closed red on Wednesday and is back in strong bearish mode. But the same constructive details remain: the Slow line is flattening and OBV’s white moving-average line is slowly curling upward. That keeps the total-market reversal thesis alive even while the chart still looks weak at the surface.Macro remains tense, but DXY is showing weaknessDXY is working on another TBT Bearish Divergence, which would be bullish for stocks and crypto if it confirms. The pressure point is still USDJPY, which pushed even higher toward TBO Resistance at 162.607. The Bank of Japan pressure remains difficult to ignore. Meanwhile, VIX wicked into the Cloud but closed back below it, and WTI bounced to the Fast line as tensions around Iran increased again.Altcoin entries are getting clearerSOL tagged the Fast line on Wednesday, closing the recent TBO Close Short and creating a cleaner entry opportunity. ADA also retraced to its Fast line, XMR closed its recent Close Short, XTZ closed two recent Close Shorts, and AERO, SPX6900, SYRUP, and FARTCOIN are bounce-watch names. The caution list is just as important: WLD lost long-term support, CC printed a second TBO Breakdown, and LAB dropped 79%, reminding traders not to chase every chart just because some entries are improving.The overall message is balanced. Bitcoin’s headline chart is weaker below the Cloud, but the internal reversal signs are still there. Ethereum looks stronger than Bitcoin. Dominance charts still point toward a possible altcoin bounce. Macro remains tense, but DXY divergence could help risk assets if confirmed. This is a selective market, not a blind chase market.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
 
-Crypto Briefing • 1h ago
-
----
-
-**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
-
-The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
-
-CoinDesk • 2d ago
+KITCO • 4m ago
 
 ---
 
-**[Can Cashcat (CASHCAT) Become Next Shiba Inu (SHIB)? Ethereum's (ETH) Strongest Recovery Yet, Bitcoin (BTC) Reversal Is Close: Crypto Market Review](https://u.today/can-cashcat-cashcat-become-next-shiba-inu-shib-ethereums-eth-strongest-recovery-yet-bitcoin-btc)**
+**[Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs](https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs)**
 
-Cashcat is drawing comparisons to Shiba Inu as traders race to identify the flagship memecoin of Robinhood Chain, amid a broader crypto market upswing that has renewed interest in speculative assets and meme-driven narratives.
+Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
 
-U.Today • 13h ago
-
----
-
-**[Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost](https://www.tradingview.com/news/cointelegraph:2f4320c15094b:0-ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost/)**
-
-Key takeaways:Ether (ETH) price rallied 15% in five days, distancing itself from the $1,500 low hit on June 26. Part of the improvement in investor sentiment can be pinned to the final tests on Ethereum’s Glamsterdam upgrade, targeted for later in 2026. Moreover, BitMine Immersion Technologies' con…
-
-TradingView • 1d ago
-
----
-
-**[1 Unstoppable Cryptocurrency to Buy Before It Soars 3,442%, According to Tom Lee of Fundstrat](https://www.fool.com/investing/2026/07/08/1-unstoppable-cryptocurrency-to-buy-before-it-soar/)**
-
-Ethereum may be down 40% for the year, but a near-term turnaround looks likely.
-
-The Motley Fool • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -228,23 +226,13 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Crypto Market U-Turn We Just Got Some Shocking Bitcoin &amp; Ethereum News And You&#39;re Going To Love It](https://www.youtube.com/watch?v=A6LgEWNcO0k)**
-
-Who knew that a dip in price could cause such a massive movement in crypto market sentiment? Bitcoin and Ethereum are once ...
-
-📺 The Modern Investor
-
-👁️ 2K • 👍 472 • 💬 105 • ⏱️ 33:10 • 3h ago
-
----
-
 **[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 171 • 💬 27 • ⏱️ 13:21 • 21h ago
+👁️ 4K • 👍 181 • 💬 22 • ⏱️ 13:21 • 1d ago
 
 ---
 
@@ -254,27 +242,7 @@ Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Micha�
 
 📺 New Era Finance Podcast
 
-👁️ 19K • 👍 574 • 💬 82 • ⏱️ 34:28 • 1d ago
-
----
-
-**[BE READY FOR THIS ETH MOVE! (Ethereum Update)](https://www.youtube.com/watch?v=IAdqBy1Lu9c)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 110 • 👍 12 • 💬 11 • ⏱️ 4:49 • 3h ago
-
----
-
-**[Bitcoin &amp; Ethereum&#39;s Biggest Test Is Happening RIGHT NOW (Targets)](https://www.youtube.com/watch?v=BlmXuZRpzcQ)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 467 • 💬 142 • ⏱️ 16:41 • 21h ago
+👁️ 19K • 👍 581 • 💬 68 • ⏱️ 34:28 • 2d ago
 
 ---
 
@@ -284,7 +252,27 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 14K • 👍 2K • 💬 388 • ⏱️ 13:04 • 1d ago
+👁️ 14K • 👍 2K • 💬 392 • ⏱️ 13:04 • 1d ago
+
+---
+
+**[BE READY FOR THIS ETH MOVE! (Ethereum Update)](https://www.youtube.com/watch?v=IAdqBy1Lu9c)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 166 • 👍 13 • 💬 10 • ⏱️ 4:49 • 6h ago
+
+---
+
+**[Bitcoin &amp; Ethereum&#39;s Biggest Test Is Happening RIGHT NOW (Targets)](https://www.youtube.com/watch?v=BlmXuZRpzcQ)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 472 • 💬 145 • ⏱️ 16:41 • 1d ago
 
 ---
 
@@ -298,23 +286,23 @@ Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
 ---
 
-**[Saylor Sold Bitcoin. Tom Lee Bought Ethereum. (This Explains Everything)](https://www.youtube.com/watch?v=J9RVekTuTLk)**
-
-Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused on the drama. Meanwhile, Tom Lee keeps buying ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 498 • 💬 222 • ⏱️ 17:12 • 2d ago
-
----
-
 **[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
 
 In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
 
 📺 The Value Thinker
 
-👁️ 15K • 👍 849 • 💬 183 • ⏱️ 21:46 • 1d ago
+👁️ 16K • 👍 856 • 💬 187 • ⏱️ 21:46 • 1d ago
+
+---
+
+**[He Turned 300 Dollars Into 2 Million On Robinhood Chain](https://www.youtube.com/watch?v=DF3kOlSaC8I)**
+
+A trader bought 316 dollars of CASHCAT at a 7400 dollar market cap. It is now sitting at 120 million. He still holds 85 percent of his ...
+
+📺 Lark Davis
+
+👁️ 231 • 👍 16 • ⏱️ 1:01 • 27m ago
 
 ---
 
@@ -324,7 +312,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 453 • 💬 187 • ⏱️ 19:01 • 1d ago
+👁️ 7K • 👍 454 • 💬 187 • ⏱️ 19:01 • 1d ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=Mb0Y_d5j3eI)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+
+📺 Trade with Burner
+
+👁️ 7K • 👍 354 • 💬 3 • ⏱️ 1:01:41 • 30m ago
 
 ---
 
