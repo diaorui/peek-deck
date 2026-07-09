@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-09T10:47:28.261608+00:00'
+updated: '2026-07-09T13:49:48.111336+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 10:47 UTC  
+**Last Updated:** July 09, 2026 at 13:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -0.3%  
-**30d:** +8.2%  
-**90d:** -23.3%  
-**1y:** -40.6%  
+**24h:** +0.8%  
+**7d:** -0.9%  
+**30d:** +7.5%  
+**90d:** -23.8%  
+**1y:** -41.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $211.27B
+**Market Cap:** $210.37B
 Rank #2
 
 **Circulating Supply:** 120,683,101 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.6%
+-64.8%
 
 **All-Time Low:** $0.43
-+404099.7%
++402330.6%
 
 ---
 
@@ -78,13 +78,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum has just crossed another major milestone.](https://www.reddit.com/r/ethereum/comments/1uqwiwi/ethereum_has_just_crossed_another_major_milestone/)**
 
-19h ago
+22h ago
 
 ---
 
 **[我现在开始学习和练习Web3还会太晚吗？如果不晚，一个完全的新手应该从哪些方面入手？](https://www.reddit.com/r/ethereum/comments/1ur3q21/我现在开始学习和练习web3还会太晚吗如果不晚一个完全的新手应该从哪些方面入手/)**
 
-14h ago
+17h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Abstract The smart-contract ecosystem already depends heavily on code reuse, but that reuse has not yet become shared on-chain infrastructure. Similar logic is repeatedly redeployed across projects, creating duplicated infrastructure that increases long-term maintenance, audit, and security burdens for the ecosystem. Compose introduces Smart Contract Oriented Programming, or SCOP, to bring reuse into the deployed architecture itself. Using diamonds and stateless facets, Compose enables modular on-chain systems that are easier to build and trust across their lifecycle.
 
-🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 18h ago
+🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 21h ago
 
 ---
 
@@ -152,11 +152,43 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum Indecision Deepens: Some Holders Panic Sell, While Others Buy the Dip](https://finance.yahoo.com/markets/crypto/articles/ethereum-indecision-deepens-holders-panic-095620495.html)**
+**[Current price of Ethereum for July 9, 2026](https://fortune.com/article/price-of-ethereum-07-09-2026/)**
 
-Ethereum indecision grows as Binance activity spikes, and Polymarket bettors split between a $2,000 rebound and a $1,500 drop.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 51m ago
+Fortune • 1h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, July 8, 2026: Crypto prices down following U.S.-Iran strikes](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-8-2026-crypto-prices-down-following-us-iran-strikes-130336886.html)**
+
+Bitcoin opened at $63,318.46 on Wednesday, July 8, 2026, down 1.1% from Tuesday's open. The price of bitcoin moved even lower this morning. Ethereum opened at $1,769.31, down 1.6%. Ethereum prices then shifted to $1,742.22 as of 8:45 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[New Crypto Ethereum Based Pepeto Launches DeFi Exchange While Dogecoin and Shiba Inu Whales Rotate](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-launches-defi-exchange-while-dogecoin-and-shiba-inu-whales-rotate-1036308518)**
+
+DUBAI, United Arab Emirates, July  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto is getting ready to launch its innovative DeFi ...
+
+markets.businessinsider.com • 18h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces renewed selling, ETH weakens, XRP risks deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-renewed-selling-eth-weakens-xrp-risks-deeper-losses-202607080314)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) face renewed selling on Wednesday, extending their corrective move so far this week. BTC faced rejection at $64,000, and ETH failed to break above the 50-day Exponential Moving Average (EMA).
+
+FXStreet • 1d ago
+
+---
+
+**[Energy Substantiation wants to put oil barrels on the Ethereum blockchain](https://cryptobriefing.com/energy-substantiation-tokenize-oil-blockchain/)**
+
+Energy Substantiation launches $WTIC, an ERC-20 token backed 1:1 by physical WTI crude oil barrels, with plans to tokenize natural gas and Brent crude by Q3
+
+Crypto Briefing • 1h ago
 
 ---
 
@@ -168,63 +200,27 @@ CoinDesk • 2d ago
 
 ---
 
-**[Current price of Ethereum for July 8, 2026](https://fortune.com/article/price-of-ethereum-07-08-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
-
----
-
-**[New Crypto Ethereum Based Pepeto Launches DeFi Exchange While Dogecoin and Shiba Inu Whales Rotate](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-launches-defi-exchange-while-dogecoin-and-shiba-inu-whales-rotate-1036308518)**
-
-DUBAI, United Arab Emirates, July  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto is getting ready to launch its innovative DeFi ...
-
-markets.businessinsider.com • 15h ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP extend technical weakness amid escalating tensions in the Middle East](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-technical-weakness-amid-escalating-tensions-in-the-middle-east-202607081215)**
-
-Cryptocurrencies are broadly extending declines on Wednesday, after last week’s recovery. The sell-off has seen Bitcoin (BTC) slide below $62,000, increasing downside risks toward the next key support at $60,000.
-
-FXStreet • 22h ago
-
----
-
-**[/C O R R E C T I O N -- Bitmine Immersion Technologies, Inc./](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion-302818093.html)**
-
-In the news release, Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1...
-
-PR Newswire • 2d ago
-
----
-
-**[Tom Lee's Bitmine takes one step closer to holding 5% of ethereum](https://finance.yahoo.com/video/tom-lees-bitmine-takes-one-173000191.html)**
-
-Scott Melker discusses how Bitmine Immersion Technologies (BMNR) purchased another $74 million in ethereum (ETH-USD) as part of chairman Tom Lee's quest to hold 5% of the crypto asset.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitmine's Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum's total supply](https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply)**
-
-Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.
-
-The Block • 2d ago
-
----
-
 **[Can Cashcat (CASHCAT) Become Next Shiba Inu (SHIB)? Ethereum's (ETH) Strongest Recovery Yet, Bitcoin (BTC) Reversal Is Close: Crypto Market Review](https://u.today/can-cashcat-cashcat-become-next-shiba-inu-shib-ethereums-eth-strongest-recovery-yet-bitcoin-btc)**
 
 Cashcat is drawing comparisons to Shiba Inu as traders race to identify the flagship memecoin of Robinhood Chain, amid a broader crypto market upswing that has renewed interest in speculative assets and meme-driven narratives.
 
-U.Today • 10h ago
+U.Today • 13h ago
+
+---
+
+**[Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost](https://www.tradingview.com/news/cointelegraph:2f4320c15094b:0-ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost/)**
+
+Key takeaways:Ether (ETH) price rallied 15% in five days, distancing itself from the $1,500 low hit on June 26. Part of the improvement in investor sentiment can be pinned to the final tests on Ethereum’s Glamsterdam upgrade, targeted for later in 2026. Moreover, BitMine Immersion Technologies' con…
+
+TradingView • 1d ago
+
+---
+
+**[1 Unstoppable Cryptocurrency to Buy Before It Soars 3,442%, According to Tom Lee of Fundstrat](https://www.fool.com/investing/2026/07/08/1-unstoppable-cryptocurrency-to-buy-before-it-soar/)**
+
+Ethereum may be down 40% for the year, but a near-term turnaround looks likely.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -232,13 +228,23 @@ U.Today • 10h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Crypto Market U-Turn We Just Got Some Shocking Bitcoin &amp; Ethereum News And You&#39;re Going To Love It](https://www.youtube.com/watch?v=A6LgEWNcO0k)**
+
+Who knew that a dip in price could cause such a massive movement in crypto market sentiment? Bitcoin and Ethereum are once ...
+
+📺 The Modern Investor
+
+👁️ 2K • 👍 472 • 💬 105 • ⏱️ 33:10 • 3h ago
+
+---
+
 **[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 159 • 💬 22 • ⏱️ 13:21 • 18h ago
+👁️ 4K • 👍 171 • 💬 27 • ⏱️ 13:21 • 21h ago
 
 ---
 
@@ -248,7 +254,17 @@ Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Micha�
 
 📺 New Era Finance Podcast
 
-👁️ 18K • 👍 557 • 💬 80 • ⏱️ 34:28 • 1d ago
+👁️ 19K • 👍 574 • 💬 82 • ⏱️ 34:28 • 1d ago
+
+---
+
+**[BE READY FOR THIS ETH MOVE! (Ethereum Update)](https://www.youtube.com/watch?v=IAdqBy1Lu9c)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 110 • 👍 12 • 💬 11 • ⏱️ 4:49 • 3h ago
 
 ---
 
@@ -258,7 +274,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 449 • 💬 142 • ⏱️ 16:41 • 18h ago
+👁️ 8K • 👍 467 • 💬 142 • ⏱️ 16:41 • 21h ago
 
 ---
 
@@ -268,17 +284,17 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 13K • 👍 2K • 💬 376 • ⏱️ 13:04 • 1d ago
+👁️ 14K • 👍 2K • 💬 388 • ⏱️ 13:04 • 1d ago
 
 ---
 
-**[Crypto Market U-Turn We Just Got Some Shocking Bitcoin &amp; Ethereum News And You&#39;re Going To Love It](https://www.youtube.com/watch?v=A6LgEWNcO0k)**
+**[Why Ethereum Is Headed to $20,000+](https://www.youtube.com/watch?v=HFsuTTrdW7Y)**
 
-Who knew that a dip in price could cause such a massive movement in crypto market sentiment? Bitcoin and Ethereum are once ...
+Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
-📺 The Modern Investor
+📺 Credible Crypto
 
-👁️ 681 • 👍 150 • 💬 53 • ⏱️ 33:10 • 49m ago
+👁️ 19K • 👍 1K • 💬 122 • ⏱️ 1:03:11 • 2d ago
 
 ---
 
@@ -292,43 +308,23 @@ Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused
 
 ---
 
-**[Why Ethereum Is Headed to $20,000+](https://www.youtube.com/watch?v=HFsuTTrdW7Y)**
-
-Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
-
-📺 Credible Crypto
-
-👁️ 18K • 👍 1K • 💬 122 • ⏱️ 1:03:11 • 2d ago
-
----
-
 **[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
 
 In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
 
 📺 The Value Thinker
 
-👁️ 15K • 👍 838 • 💬 168 • ⏱️ 21:46 • 1d ago
+👁️ 15K • 👍 849 • 💬 183 • ⏱️ 21:46 • 1d ago
 
 ---
 
-**[BTC Rejected - Ethereum  To Identify as Cardano - Emurgo is OUT!](https://www.youtube.com/watch?v=1JGznCl8t-8)**
+**[This Ethereum Trendline Is About to Decide Fate Of Altcoins](https://www.youtube.com/watch?v=OJk4XTvUcE8)**
 
-https://polymarketmaker.io - For Serious Prediction Market Traders https://cryptocrow.io 🎙️ New to streaming or looking to level ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
 
-📺 Crypto Crow
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 230 • 💬 23 • ⏱️ 1:16:59 • 17h ago
-
----
-
-**[📢DAILY CRYPTO MARKET UPDATE: 👀💥LETS TALK CRYPTO [Bitcoin, Ethereum &amp; ALTS]](https://www.youtube.com/watch?v=T6gyDbCteRk)**
-
-Crypto news and Price Action ⭐ Deep Dive Playlist: ...
-
-📺 BTDcrypto
-
-👁️ 67 • 👍 14 • ⏱️ 1:07:20 • 23m ago
+👁️ 7K • 👍 453 • 💬 187 • ⏱️ 19:01 • 1d ago
 
 ---
 

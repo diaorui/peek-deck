@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-09T10:47:28.264487+00:00'
+updated: '2026-07-09T13:49:48.114606+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 09, 2026 at 10:47 UTC  
+**Last Updated:** July 09, 2026 at 13:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle-stop demo on my drone. it is easy to replicate. l will open-sourcing on GitHub soon.
 
-2d ago
+3d ago
 
 ---
 
@@ -106,7 +106,7 @@ Boston Dynamics is developing Atlas using an AI-based system instead of relying 
 
 Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is focused on repetitive warehouse and manufacturing tasks like moving totes, unloading AMRs, placing items on shelves, and connecting parts of existing automation systems. He says these are useful “in-between” automation roles where companies do not want to heavily modify infrastructure. The article covers Agility’s partnership with NVIDIA as the first partner for Halos for Robots, NVIDIA’s autonomous safety platform for robots, as well as Agility’s plan to go public through a merger with Churchill Capital Corp. XI, giving the company a $2.5 billion pre-money valuation and $620 million in expected gross proceeds.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 2d ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 3d ago
 
 ---
 
@@ -116,7 +116,21 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 **[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 23h ago
+
+---
+
+**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
+
+Reuters • 22h ago
+
+---
+
+**[EXCLUSIVE: The Biggest Robotics Problem Isn't Batteries or AI. It's ROI](https://finance.yahoo.com/technology/articles/exclusive-biggest-robotics-problem-isnt-143113875.html)**
+
+The robotics industry has spent years trying to build smarter AI, more dexterous humanoids and longer-lasting batteries. But those may not be the hurdles preventing robots from going mainstream. The bigger challenge, according to Jerry Wang, Global Executive Chairman of...
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -128,27 +142,9 @@ NVIDIA Blog • 2d ago
 
 ---
 
-**[Booster Robotics' Humanoid Robots Claim All Championship Titles at RoboCup 2026](https://sg.finance.yahoo.com/news/booster-robotics-humanoid-robots-claim-074900306.html)**
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
 
-SANTA CLARA, Calif., July 09, 2026 (GLOBE NEWSWIRE) -- At RoboCup 2026, the world's premier robotics competition, teams competing on Booster Robotics' humanoid robots swept all championship titles across the Small, Middle and Large divisions. This year, a total of 59 teams from around the world participated in RoboCup 2026, 38 of which competed on Booster robots, including but not limited to Badger Bots (USA), Bahia Robotics Team (Brazil), Berlin United (Germany), B-Human (Germany), HTWK Robots
-
-Yahoo Finance Singapore • 2h ago
-
----
-
-**[RoboSense Announces H1 2026 LiDAR Sales of 719,200 Units as Robotics Segment Grows by 510.4%](https://finance.yahoo.com/technology/ai/articles/robosense-announces-h1-2026-lidar-070900414.html)**
-
-RoboSense (HKEX: 02498), a pioneering robotics company for the Physical AI era, announced its LiDAR sales volume for the first half of 2026, with total LiDAR sales reaching 719,200 units, up 169.6% year over year, including 282,600 units in the robotics segment, up 510.4% year over year, and 436,600 units in the ADAS segment, up 98.0% year over year. The strong performance was driven by RoboSense's full-stack proprietary chip technologies and continued growth across both its ADAS and robotics se
-
-Yahoo Finance • 3h ago
-
----
-
-**[Physical AI has reached commercialisation, but scaling remains the hard part, says Citi](https://uk.finance.yahoo.com/news/physical-ai-reached-commercialisation-scaling-103900316.html)**
-
-Physical AI has moved from promise to commercial reality, but deploying robots at scale remains the industry's central challenge, according to Citi. The conclusion follows the bank's fourth annual Robotics and Physical AI Leadership Conference, which gathered founders, investors and operators...
-
-Yahoo Finance UK • 8m ago
+Nature • 22h ago
 
 ---
 
@@ -160,25 +156,19 @@ Forbes • 1d ago
 
 ---
 
-**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
-
-Nature • 19h ago
-
----
-
 **[World’s first surgery using teleoperated humanoid robots conducted by US team](https://interestingengineering.com/ai-robotics/us-world-first-surgery-teleoperated-humanoid-robots)**
 
 World-first trial sees teleoperated humanoid robots perform surgeries, marking a major step toward the future of robotic healthcare.
 
-Interesting Engineering • 3h ago
+Interesting Engineering • 6h ago
 
 ---
 
-**[Fujitsu Joins CMU Robotics Innovation Center](https://www.cmu.edu/news/stories/archives/2026/july/fujitsu-joins-cmu-robotics-innovation-center)**
+**[How AI could enable autonomous robot workers in workplaces—and maybe homes](https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)**
 
-CMU's Robotics Innovation Center welcomed global technology company Fujitsu Limited as its latest corporate tenant in the university’s robotics and artificial intelligence research facility at Hazelwood Green.
+Top robotics researchers and founders explain how robot autonomy is evolving.
 
-Carnegie Mellon University • 20h ago
+Ars Technica • 2d ago
 
 ---
 
@@ -188,39 +178,17 @@ Honolulu Civil Beat • 2d ago
 
 ---
 
+**[Fujitsu Joins CMU Robotics Innovation Center](https://www.cmu.edu/news/stories/archives/2026/july/fujitsu-joins-cmu-robotics-innovation-center)**
+
+CMU's Robotics Innovation Center welcomed global technology company Fujitsu Limited as its latest corporate tenant in the university’s robotics and artificial intelligence research facility at Hazelwood Green.
+
+Carnegie Mellon University • 23h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Former Tesla Optimus Engineer Unveils Northstar Humanoid Robot #robotics #robot #teslaoptimus](https://www.youtube.com/watch?v=KfS9IdJmhyc)**
-
-The French startup UMA just unveiled its flagship humanoid robot worker just nine months after its founding. The Paris-based ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 47 • 💬 4 • ⏱️ 0:57 • 12h ago
-
----
-
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
-
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
-
-📺 Munro Live
-
-👁️ 15K • 👍 703 • 💬 117 • ⏱️ 38:47 • 20h ago
-
----
-
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
-
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
-
-📺 China Observer
-
-👁️ 60K • 👍 2K • 💬 510 • ⏱️ 20:21 • 1d ago
-
----
 
 **[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
@@ -228,17 +196,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 101K • 👍 2K • 💬 477 • ⏱️ 13:32 • 4d ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 67K • 👍 3K • 💬 142 • ⏱️ 11:20 • 3d ago
+👁️ 102K • 👍 2K • 💬 481 • ⏱️ 13:32 • 4d ago
 
 ---
 
@@ -248,41 +206,87 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 142K • 👍 4K • 💬 240 • ⏱️ 10:56 • 4d ago
+👁️ 143K • 👍 4K • 💬 242 • ⏱️ 10:56 • 4d ago
 
 ---
 
-**[SpaceX is Sending Tesla Optimus Robots to Mars First!](https://www.youtube.com/watch?v=q_HLGqY6b6s)**
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
 
-SpaceX and Tesla are joining forces for a historic interplanetary mission, planning to deploy Optimus humanoid robots to Mars ...
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
 
-📺 Global snap
+📺 China Observer
 
-👁️ 51K • 👍 2K • 💬 364 • ⏱️ 0:57 • 1d ago
-
----
-
-**[Automatic Handwriting Machine #Shorts #automatic #handwriting #machine #robotics #brpvlogs999](https://www.youtube.com/watch?v=Mw7PuHOWrtU)**
-
-📺 BRP Vlogs999
-
-👁️ 30K • 👍 56 • ⏱️ 0:09 • 1d ago
+👁️ 62K • 👍 2K • 💬 516 • ⏱️ 20:21 • 1d ago
 
 ---
 
-**[Testing my smart mech on the park slide today!#robot #robotics #dino #dinosaur #ruko](https://www.youtube.com/watch?v=gZ6oNcfD8Fs)**
+**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
 
-📺 Smarttoy Ruko
+Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-👁️ 3K • 👍 25 • ⏱️ 0:23 • 2h ago
+📺 Chris Norlund
+
+👁️ 71K • 👍 4K • 💬 2K • ⏱️ 13:09 • 4d ago
 
 ---
 
-**[The Robots Will Be Taking Over Really Soon ☠️ #interesting](https://www.youtube.com/watch?v=3BNQkJo0Vrk)**
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
 
-📺 IdkSterling
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
 
-👁️ 160K • 👍 7K • 💬 453 • ⏱️ 1:00 • 3d ago
+📺 Munro Live
+
+👁️ 18K • 👍 800 • 💬 122 • ⏱️ 38:47 • 23h ago
+
+---
+
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+
+📺 Kalil 4.0
+
+👁️ 3K • 👍 87 • 💬 21 • ⏱️ 10:42 • 2d ago
+
+---
+
+**[Ubtechs New U1 UWORLD Robots Shocked The Robot Industry (Ultra Lifelike Androids)](https://www.youtube.com/watch?v=pHUNbCKYn3w)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 20K • 👍 361 • 💬 95 • ⏱️ 11:41 • 6d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 70K • 👍 4K • 💬 145 • ⏱️ 11:20 • 3d ago
+
+---
+
+**[Former Tesla Optimus Engineer Unveils Northstar Humanoid Robot #robotics #robot #teslaoptimus](https://www.youtube.com/watch?v=KfS9IdJmhyc)**
+
+The French startup UMA just unveiled its flagship humanoid robot worker just nine months after its founding. The Paris-based ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 54 • 💬 5 • ⏱️ 0:57 • 15h ago
+
+---
+
+**[I Built My First AI Robot](https://www.youtube.com/watch?v=Sf-nklw0ljQ)**
+
+Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a robot from scratch named Bop — powered by an NVIDIA ...
+
+📺 Coding with Lewis
+
+👁️ 31K • 👍 1K • 💬 63 • ⏱️ 10:19 • 6d ago
 
 ---
 

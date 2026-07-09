@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-09T10:47:28.248537+00:00'
+updated: '2026-07-09T13:49:48.096706+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 09, 2026 at 10:47 UTC  
+**Last Updated:** July 09, 2026 at 13:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,33 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[PC gamers remain skeptical of Steam's AI disclaimers, poll shows many believe game devs are hiding it](https://www.reddit.com/r/artificial/comments/1urlq10/pc_gamers_remain_skeptical_of_steams_ai/)**
+
+While some players are comfortable with limited AI use, the survey suggests that trust in developers’ transparency is still a major concern.
+
+🔗 [PC Guide](https://www.pcguide.com/news/pc-gamers-remain-skeptical-of-steams-ai-disclaimers-poll-shows-many-believe-game-devs-are-hiding-it/) • 3h ago
+
+---
+
+**[Get your free 5 minutes (or even more) every day!](https://www.reddit.com/r/artificial/comments/1urqb2z/get_your_free_5_minutes_or_even_more_every_day/)**
+
+21m ago
+
+---
+
 **[Guess which row is Meta's new 'Muse' Image Model](https://www.reddit.com/r/artificial/comments/1ur6h98/guess_which_row_is_metas_new_muse_image_model/)**
 
 Meta released Muse Image this week so I ran it against OpenAI's gpt-image-2 and Google's Nano Banana 2. I used the same source duck image and the same edit instructions prompt for every model (unchanged → blue → face away → glass → wireframe → hat-on-ball → "FRENZY" text → standing on a mirror with a correct reflection). The transformations go from easy on the left and gradually get harder. I ran 3 runs per model. Each model was then scored using a fixed 27-point rubric. One of these rows is Meta's new model. The reveal and full scores are in the comments.
 
-13h ago
+16h ago
+
+---
+
+**[What prevents people including devs and enterprises from using ai agents for production in some situations?and keeps them up at night when deployed to production??](https://www.reddit.com/r/artificial/comments/1urnv0n/what_prevents_people_including_devs_and/)**
+
+Let's be real. The demo always looks insanely cool, but putting an autonomous agent in production is terrifying. You've got agents deciding to execute tool calls on their own, hallucinating logic, or hallucinating tool requirements. And when it fails, it rarely crashes with a nice stack trace—it just fails silently or goes off the rails into unpredictable territory.For the devs and enterprises out there actually shipping these things: What is the nightmare scenario keeping you awake? Are you worried about an agent overstepping boundaries, a silent data corruption, or something else entirely?
+
+2h ago
 
 ---
 
@@ -49,7 +71,7 @@ Meta released Muse Image this week so I ran it against OpenAI's gpt-image-2 and 
 
 Grok 4.5 is out and performs well. What bothers me is that it's reported as being much cheaper than GPT or Anthropic's. One might be mislead to think the model is miraculously efficient, but that final price per million tokens doesn't factor in decisions such as artificial subsidization from xAI - making it not really a true win. Do you agree? What's your take on this?
 
-4h ago
+7h ago
 
 ---
 
@@ -57,23 +79,15 @@ Grok 4.5 is out and performs well. What bothers me is that it's reported as bein
 
 I've been thinking about this a lot lately and can't find a clean answer anywhere. Most people I know are running at least 3-4 different AI tools. Claude for writing and reasoning, Cursor or Copilot for code, ChatGPT for whatever, maybe Perplexity for research. Each one has its own memory, its own context, none of them talk to each other. So every time you switch tools you're basically starting from scratch. Re-explaining who you are, what you're working on, what decisions you've already made. I feel like I'm hiring a new contractor every day and spending the first hour onboarding them. Curious what other people actually do in practice. Do you just accept the context loss or have you found something that actually works across tools?
 
-16m ago
-
----
-
-**[Deep Seek](https://www.reddit.com/r/artificial/comments/1uritj3/deep_seek/)**
-
-Im not a tech guru, but can someone tell me why DeepSeek replies back to me in Chinese only happens about 10% of the time? Living in 🇦🇺
-
 3h ago
 
 ---
 
-**[Do y'all have this ability too?](https://www.reddit.com/r/artificial/comments/1urcfbz/do_yall_have_this_ability_too/)**
+**[Benchmarking Coding Agents on Databricks’ Multi-Million Line Codebase](https://www.reddit.com/r/artificial/comments/1urpfg2/benchmarking_coding_agents_on_databricks/)**
 
-So basically I really wanted to see a picture of a pink dog, but I didn't have internet so chat GPT wasn't working:(( but because I already use AI a lot I kinda could picture what it would look like, so I did something really crazy, I got some crayons and paper and did a dog but like a pink one it's was really weird like it's chat GPT on my hands?? So cool!!
+The main conclusions from analysis were: The Pareto frontier for coding tasks (i.e. best quality for a given cost) includes models from OpenAI, Anthropic, and open source. This means today, only a mix of tools can provide frontier performance. Open models, and GLM 5.2 in particular, are now able to handle even the highest level of task difficulty. The token price of a model is a poor indicator of actual costs incurred on end-to-end tasks. Larger models can be far more token efficient and have lower overall costs. The harness a model is called from dramatically impacts cost and quality. In many cases, simple harnesses like Pi performed best on our workloads.
 
-9h ago
+🔗 [Databricks](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase) • 56m ago
 
 ---
 
@@ -81,39 +95,23 @@ So basically I really wanted to see a picture of a pink dog, but I didn't have i
 
 I have been observing Al generated influencer's accounts across all the platforms. The image quality is good enough now that most people can't confidentially tell from photos alone. Here is what actually works is pattern which common in most of those profiles. Three patterns that appear consistently: Asymmetric social connection: Human social media users have relatively balanced follow to follower ratios until and unless its a well known personality and they follow people they're interested in. Al-operated accounts show extreme asymmetry count. Accounts with 125K followers only following 7 people. 51K followers, following 8 people. This pattern appears across dozens of accounts. Real users don't behave this way even when they become popular they still follow friends, family and interests or idols. The monetization is built in as the account is created. Special links, paid chat, explicit content redirects, all ready before the account even grows. It looks like someone set this up just to make money, not a real person sharing their life. No behavioral variation in the content. The most obvious signal I've found is human creators occasionally break the pattern. Post something off-topic, personal, random. Al-operated accounts show nearly zero variation, same type of content in every photo/ video. Some of the profiles dont even change the background music. One Threads account I saw was having hundreds of posts, 100% engagement-bait questions like they are selling something, never once broke the formula. No personal updates, no reactions on comments and no response to real-world events, no authentic moments, just pure loop with new photo at new location. The detection needs to move away from analyzing images, toward analyzing behavior patterns instead. Dont judge with only one photo or video if thats an Al or human. Now all we need to do is to open the profile and look at other content of that profile. Now a days tools that just scan photos for Al are already useless for catching these. If anyone else spotted other behavioral red flags then please do share your thoughts.
 
-6h ago
+9h ago
 
 ---
 
-**[PC gamers remain skeptical of Steam's AI disclaimers, poll shows many believe game devs are hiding it](https://www.reddit.com/r/artificial/comments/1urlq10/pc_gamers_remain_skeptical_of_steams_ai/)**
+**[Discipline is more important than AI](https://www.reddit.com/r/artificial/comments/1urqqni/discipline_is_more_important_than_ai/)**
 
-While some players are comfortable with limited AI use, the survey suggests that trust in developers’ transparency is still a major concern.
+On this sub we all love AI and have ideas how we can use it to do cool new things. Totally agree. But something that’s been coming to mind more and more is that, like any good tool, AI in the hands of a fool can be disastrous. In the hands of a skillful, diligent expert, it can push the boundaries of what’s possible. I’m looking to learn from the experts what disciplines you’ve introduced to help in this AI-amplified working world. I’ve started my work day a little earlier lately, turn on a recording and transcribe my rambling thoughts as I look through meetings and tasks on the calendar. Of cost AI-generated notes help with organization, but the biggest thing is forcing myself to reason through what’s important and what’s not. That little step has made me a lot more diligent and focused, which means when I use AI it’s purposeful. The other side of discipline is correction. As much as I try to design and document code projects, for example, Claude may disregard it. Consistent, firm pointing to the design docs seems to help the agent refocus, and theoretically use fewer tokens (vs a mindless prompt “build X, make no mistakes”). In any case, those little things have made a notable difference for me personally. Thought I’d share in case it’s helpful to anyone. I also feel like I’m just scratching the surface of how much better I can be. What kind of habits have helped you? My stack for reference: Claude code Google Meet (Gemini notes) Databricks and genie code (using this more lately) Perplexity (personal research and reading outside of my bubble)
 
-🔗 [PC Guide](https://www.pcguide.com/news/pc-gamers-remain-skeptical-of-steams-ai-disclaimers-poll-shows-many-believe-game-devs-are-hiding-it/) • 52m ago
-
----
-
-**[I gave my AI agents email instead of better reasoning. They started fixing each other's bugs.](https://www.reddit.com/r/artificial/comments/1urasv0/i_gave_my_ai_agents_email_instead_of_better/)**
-
-Most multi-agent setups I've seen treat agents like isolated workers. Each one gets a task, runs it, returns a result. No awareness of each other. No way to coordinate. Just parallel execution with a shared clipboard. I've been building a multi-agent framework in public Here's the thing I didn't expect to matter most - communication. Each agent in my system is a domain specialist. The mail system only thinks about mail. The routing system only thinks about routing. They live in their own directories with their own identity files, their own memory, their own tests. A hook fires every session to load identity before anything else runs. No agent boots cold. The problem was coordination. Agents can't write files outside their own directory - there's a hard block that rejects cross-branch writes. That's by design. But it means an agent that finds a bug in someone else's code can't just go fix it. So I gave them email. Here's what I expected: agents would share data. Pass results around. Maybe sync state. Here's what actually happened: the first thing they did was file bug reports against each other. One agent finds a test failure in another agent's domain. It sends an email: "Hey @routing, your path resolution fails when the branch name has a dot in it. Here's the traceback." The routing agent gets woken up, reads the mail, and fixes it. No human in the middle. There's a difference between "send" and "dispatch" - send drops a letter in the mailbox. Dispatch drops the letter AND rings the doorbell. It spawns the agent and points it at its inbox. drone @ai_mail send @routing "Bug report" "Path fails on dotted names..." drone @ai_mail dispatch @routing "Fix needed" "Traceback attached..." Send = mail. Dispatch = mail + wake. The mail agent has 696 tests. Not because someone sat down and wrote 696 test cases. Because it kept breaking in production and every fix got a test. The routing system has 80+ sessions of experience doing nothing but routing. These agents aren't reliable because they have better models - they're reliable because they've been failing and fixing for months. Agents dispatch each other freely. If the test runner finds a bug in another agent's code, it wakes that agent directly. The orchestrator doesn't need to approve. Only the orchestrators themselves are protected from being dispatched - you don't want a worker agent waking up the CEO for grunt work. Security is enforced not conventional. Agents can't forge messages by writing directly to another agent's inbox file - they have to use the mail system. Same with the write blocks. Hard enforcement, not "please don't." There's a monitoring layer so I'm not flying blind. Audio cues on every agent action - I hear what's happening without watching a terminal. Real-time dashboard shows everything. If an agent hits the same error 2-3 times, a watcher catches the pattern and dispatches the right specialist to investigate. I stay in the loop through visibility not approval gates. The whole thing is open source. pip install aipass + two init commands and you're running. CLI-based, built on Claude Code. Linux focused rn. [https://github.com/AIOSAI/AIPass\](https://github.com/AIOSAI/AIPass) Genuine question - has anyone else tried giving agents communication instead of just better reasoning? Everything I see is about making individual agents smarter. Nobody seems to be building the coordination layer.
-
-10h ago
+5m ago
 
 ---
 
-**[Meta AI now lets people create deepfakes from other users’ Instagram photos without explicit consent](https://www.reddit.com/r/artificial/comments/1ur53vv/meta_ai_now_lets_people_create_deepfakes_from/)**
+**[ai agent hype can literally be explained in one line](https://www.reddit.com/r/artificial/comments/1urqdhx/ai_agent_hype_can_literally_be_explained_in_one/)**
 
-Meta’s new Muse AI can generate realistic images based on public Instagram images including of many celebrities and public figures.
+Loop prompts and .md files. That's it.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/social-media/meta-ai-muse-instagram-deepfakes-rcna353480) • 14h ago
-
----
-
-**[Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State](https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/)**
-
-Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock license plate cameras. Supporters are paying his legal bills.
-
-🔗 [Military.com](https://www.military.com/air-force-engineer-accused-of-cutting-down-13-police-cameras-says-they-are-unconstitutional) • 1d ago
+19m ago
 
 ---
 
@@ -125,37 +123,37 @@ Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock 
 
 AI cheating leads to "a failed society," professor says.
 
-Ars Technica • 13h ago
+Ars Technica • 16h ago
 
 ---
 
-**[Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free](https://finance.yahoo.com/technology/ai/articles/execs-confused-horrified-huge-ai-135718505.html)**
+**[AI memory stocks trim losses as investors buy the dip](https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html)**
 
-"Many organizations are still building the capabilities required to forecast, monitor, and manage AI spending effectively."
+Chip stocks trimmed losses on Wednesday despite a decline in the overall market.
 
-Yahoo Finance • 20h ago
-
----
-
-**[Can A.I. Keep a Parent Alive?](https://www.newyorker.com/news/as-told-to/can-ai-keep-a-parent-alive)**
-
-You can now make a virtual replica of a loved one. The question is what it can give you in return.
-
-The New Yorker • 46m ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[My startup accidentally spent $30,000 on AI tokens in a month. It was worth it to move fast — but we found a simple fix.](https://www.businessinsider.com/startup-cofounder-accidentally-spent-30-000-ai-tokens-worth-it-2026-7)**
+**[Anthropic's Reflection: AI gets its screen-time moment](https://www.axios.com/2026/07/09/anthropic-reflection-ai-screen-time)**
 
-A startup cofounder shared how his team accidentally spent $30,000 on AI tokens in one month — and why they don't have a token budget.
-
-Business Insider • 1h ago
+Axios • 19m ago
 
 ---
 
-**[Behind the Curtain: These 3 big AI trends are colliding at the same time](https://www.axios.com/2026/07/09/ai-trends-fable-5-sol-grok-china-us)**
+**[Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users](https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/)**
 
-Axios • 1h ago
+Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.
+
+TechCrunch • 49m ago
+
+---
+
+**[Character.ai’s New Business? Microdramas](https://www.hollywoodreporter.com/business/digital/character-ai-subscribers-app-microdramas-1236642929/)**
+
+The fraught chatbot company is entering the crowded world of vertical videos — with an AI twist.
+
+The Hollywood Reporter • 49m ago
 
 ---
 
@@ -163,37 +161,37 @@ Axios • 1h ago
 
 The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.
 
-BBC • 11h ago
+BBC • 14h ago
 
 ---
 
-**[Introducing Grok 4.5](https://x.ai/news/grok-4-5)**
+**[Introducing Muse Image: Image Generation Built for Your World](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/)**
 
-Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.
+Muse Image is the first image generation model from Meta Superintelligence Labs, now available in Meta AI.
 
-x.ai • 16h ago
-
----
-
-**[Opinion | The Problem With Google’s A.I. Overview](https://www.nytimes.com/2026/07/08/opinion/ai-google-gemini-search-questions.html)**
-
-The New York Times • 1d ago
+Meta Store • 1d ago
 
 ---
 
-**[OpenAI to publicly release GPT-5.6, rolls out conversational AI models](https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html)**
+**[How to Prevent Meta From Using Your Instagram Images in A.I.](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html)**
 
-OpenAI's chief rival, Anthropic, recently restored access to its latest models following a weeks-long clash with the government.
-
-CNBC • 21h ago
+The New York Times • 17h ago
 
 ---
 
-**[Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/)**
+**[Meta's new AI image generation tool raises alarm in Hollywood](https://finance.yahoo.com/news/metas-ai-image-generation-tool-100000681.html)**
 
-As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.
+Meta's Muse Image AI tool lets users remix public Instagram photos — and CAA, SAG-AFTRA and talent managers say it puts creators at risk.
 
-WIRED • 1d ago
+Yahoo Finance • 3h ago
+
+---
+
+**[What AI companies want for the millions they're spending on elections](https://www.cnbc.com/2026/07/09/ai-companies-election-spending.html)**
+
+Lawmakers are working on AI legislation — and two major industry PACs are each pushing for their own version of regulation.
+
+CNBC • 3h ago
 
 ---
 
@@ -205,13 +203,13 @@ WIRED • 1d ago
 
 GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus and GPT for agentic work - at ~15-20% of the price. Part one of why AI inference margins are about to collapse.
 
-⬆️ 685 • 💬 466 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+⬆️ 687 • 💬 466 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 
 ---
 
 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
 
-⬆️ 521 • 💬 196 • 1d ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+⬆️ 523 • 💬 198 • 1d ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 
 ---
 
@@ -223,17 +221,17 @@ Welcome to LTT Labs - your go-to destination for all things tech. Explore compre
 
 ---
 
+**[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
+
+⬆️ 323 • 💬 118 • 20h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
+
+---
+
 **[We charge $10k a week to delete AI-generated code](https://news.ycombinator.com/item?id=48823359)**
 
 Your AI-built product works, but past 100,000 lines every change breaks two things. Three senior engineers make your codebase maintainable again. One week, fixed price, guaranteed.
 
-⬆️ 298 • 💬 232 • 1d ago • [odra.dev](https://odra.dev/slopfix/)
-
----
-
-**[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
-
-⬆️ 288 • 💬 112 • 17h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
+⬆️ 300 • 💬 232 • 1d ago • [odra.dev](https://odra.dev/slopfix/)
 
 ---
 
@@ -255,7 +253,15 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 
 **[Automating AI Away](https://news.ycombinator.com/item?id=48818937)**
 
-⬆️ 132 • 💬 61 • 1d ago • [replicated.live](https://replicated.live/blog/away)
+⬆️ 132 • 💬 62 • 1d ago • [replicated.live](https://replicated.live/blog/away)
+
+---
+
+**[Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%](https://news.ycombinator.com/item?id=48838611)**
+
+AI cheating leads to "a failed society," professor says.
+
+⬆️ 116 • 💬 108 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
 
 ---
 
@@ -267,25 +273,17 @@ After Garry Tan touted his agentic coding output, a developer found inefficienci
 
 ---
 
-**[AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://news.ycombinator.com/item?id=48821749)**
-
-We pointed our AI audit pipeline at Cloudflare's CIRCL experimental cryptography library and confirmed seven real bugs, from a critical float64 precision loss in threshold RSA to a complete access-control break in attribute-based encryption. All seven are now fixed upstream. This is the first post in a series on bugs our agents found across open source cryptography.
-
-⬆️ 111 • 💬 12 • 1d ago • [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/circl-bugs/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[White House BURIES Report Explaining How AI Could Destroy Economy](https://www.youtube.com/watch?v=rA8uHiFbty0)**
+**[China Is About To Pop The AI Bubble](https://www.youtube.com/watch?v=siazPdsZHuI)**
 
-AI has the potential to destroy economies, and Trump doesn't want you to know that. Don't forget to like, comment, and share!
+China Is About To Pop The AI Bubble ▻ Go to https://ground.news/jikh to access world-wide perspectives in one place, compare ...
 
-📺 Farron Balanced
+📺 Andrei Jikh
 
-👁️ 15K • 👍 1K • 💬 139 • ⏱️ 5:04 • 16h ago
+👁️ 910K • 👍 32K • 💬 4K • ⏱️ 30:47 • 1d ago
 
 ---
 
@@ -295,17 +293,7 @@ China may have just started the AI Cold War. Beijing is moving to lock down its 
 
 📺 AI Revolution
 
-👁️ 24K • 👍 920 • 💬 131 • ⏱️ 14:45 • 12h ago
-
----
-
-**[China Is About To Pop The AI Bubble](https://www.youtube.com/watch?v=siazPdsZHuI)**
-
-China Is About To Pop The AI Bubble ▻ Go to https://ground.news/jikh to access world-wide perspectives in one place, compare ...
-
-📺 Andrei Jikh
-
-👁️ 890K • 👍 32K • 💬 4K • ⏱️ 30:47 • 1d ago
+👁️ 26K • 👍 1K • 💬 147 • ⏱️ 14:45 • 15h ago
 
 ---
 
@@ -315,17 +303,17 @@ If scale is your next challenge check out DigitalOcean: https://do.co/matthewber
 
 📺 Matthew Berman
 
-👁️ 92K • 👍 4K • 💬 820 • ⏱️ 25:34 • 1d ago
+👁️ 94K • 👍 4K • 💬 836 • ⏱️ 25:34 • 1d ago
 
 ---
 
-**[The next generation of ChatGPT Voice](https://www.youtube.com/watch?v=9f-Ew_lDtxc)**
+**[Data centers aren’t being built for AI. They’re being built to replace us…](https://www.youtube.com/watch?v=BfCJT6fubFk)**
 
-Join Kundan Kumar, Yuchen Zhang, Ehsan Asdar, and Rithesh Kumar as they introduce and demo a new generation of voice ...
+AI continues to be shrouded in mystery. What's it really for and why is there so much money and attention being poured into it?
 
-📺 OpenAI
+📺 Jacob Whelan
 
-👁️ 72K • 💬 346 • ⏱️ 18:22 • 13h ago
+👁️ 75K • 👍 5K • 💬 2K • ⏱️ 11:24 • 1d ago
 
 ---
 
@@ -335,27 +323,7 @@ ATT Business: Switch to AT&T Business at business.att.com Paleovalley: 30 for $3
 
 📺 Tom Bilyeu
 
-👁️ 116K • 👍 4K • 💬 859 • ⏱️ 34:31 • 1d ago
-
----
-
-**[Apple Lost the AI Race](https://www.youtube.com/watch?v=eWKY0OnPByg)**
-
-Apple lost the AI race. Actually, Apple won the AI race. Wait. That shirt: http://shop.MKBHD.com Playlist of MKBHD Intro music: ...
-
-📺 Marques Brownlee
-
-👁️ 976K • 👍 54K • 💬 4K • ⏱️ 7:04 • 15h ago
-
----
-
-**[Claude Just Crossed The Consciousness Line And Anthropic Admitted It](https://www.youtube.com/watch?v=M5-3c6mzq0U)**
-
-Claude may have just crossed the consciousness line. Anthropic found a hidden workspace inside Claude where thoughts ...
-
-📺 AI Revolution
-
-👁️ 29K • 👍 1K • 💬 200 • ⏱️ 15:13 • 1d ago
+👁️ 117K • 👍 4K • 💬 869 • ⏱️ 34:31 • 2d ago
 
 ---
 
@@ -369,13 +337,43 @@ Check out Odoo: https://www.odoo.com/r/ChAT ⭐️ Think School's flagship Commu
 
 ---
 
+**[Apple Lost the AI Race](https://www.youtube.com/watch?v=eWKY0OnPByg)**
+
+Apple lost the AI race. Actually, Apple won the AI race. Wait. That shirt: http://shop.MKBHD.com Playlist of MKBHD Intro music: ...
+
+📺 Marques Brownlee
+
+👁️ 1.1M • 👍 59K • 💬 5K • ⏱️ 7:04 • 18h ago
+
+---
+
 **[The AI Bubble… We Need to Talk](https://www.youtube.com/watch?v=2J2Fb1bBufA)**
 
 Half the internet says AI is the biggest bubble in history. The other half says it's the most important technology ever built. Check out ...
 
 📺 Casual Finance
 
-👁️ 388K • 👍 16K • 💬 1K • ⏱️ 18:03 • 1d ago
+👁️ 393K • 👍 16K • 💬 1K • ⏱️ 18:03 • 1d ago
+
+---
+
+**[Claude Just Crossed The Consciousness Line And Anthropic Admitted It](https://www.youtube.com/watch?v=M5-3c6mzq0U)**
+
+Claude may have just crossed the consciousness line. Anthropic found a hidden workspace inside Claude where thoughts ...
+
+📺 AI Revolution
+
+👁️ 29K • 👍 1K • 💬 201 • ⏱️ 15:13 • 1d ago
+
+---
+
+**[AI CEOS PANIC After Public Outrage Over Job Loss](https://www.youtube.com/watch?v=Xxodq1QWvMk)**
+
+Ryan and Saagar discuss AI CEOs panicking and trying to backtrack on projections of job losses. Sign up for a PREMIUM ...
+
+📺 Breaking Points
+
+👁️ 227K • 👍 6K • 💬 1K • ⏱️ 19:42 • 1d ago
 
 ---
 
@@ -391,7 +389,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,875,602 • ❤️ 1,890 • 10d ago
+⬇️ 1,875,602 • ❤️ 1,898 • 10d ago
 
 ---
 
@@ -403,7 +401,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 5,572 • ❤️ 580 • 2d ago
+⬇️ 5,572 • ❤️ 586 • 2d ago
 
 ---
 
@@ -415,7 +413,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 362,300 • ❤️ 3,686 • 7d ago
+⬇️ 362,300 • ❤️ 3,693 • 7d ago
 
 ---
 
@@ -427,7 +425,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,246,042 • ❤️ 1,887 • 6d ago
+⬇️ 1,246,042 • ❤️ 1,891 • 6d ago
 
 ---
 
@@ -439,7 +437,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 23,112 • ❤️ 414 • 9h ago
+⬇️ 23,112 • ❤️ 415 • 12h ago
 
 ---
 
@@ -451,7 +449,7 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 16,374 • ❤️ 319 • 5d ago
+⬇️ 16,374 • ❤️ 323 • 5d ago
 
 ---
 
@@ -463,7 +461,27 @@ A compact, instruction-tuned 4B parameter language model based on Qwen3, optimiz
 
 `text-generation` `4.0B`
 
-⬇️ 4,647 • ❤️ 191 • 4d ago
+⬇️ 4,647 • ❤️ 193 • 4d ago
+
+---
+
+**[Qwen-Fixed-Chat-Templates](https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates)**
+
+*froggeric*
+
+A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
+
+⬇️ 0 • ❤️ 807 • 6d ago
+
+---
+
+**[Leanstral-1.5-119B-A6B](https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B)**
+
+*Mistral AI_*
+
+Leanstral 1.5 119B A6B is a multimodal (text/image) code agent for Lean 4, featuring a 119B parameter MoE architecture with 6.5B active parameters and a 256k context length, optimized for complex mathematical proofs and software specifications.
+
+⬇️ 258 • ❤️ 174 • 5d ago
 
 ---
 
@@ -475,33 +493,37 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 957,721 • ❤️ 809 • 13d ago
-
----
-
-**[Leanstral-1.5-119B-A6B](https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B)**
-
-*Mistral AI_*
-
-Leanstral 1.5 119B A6B is a multimodal (text/image) code agent for Lean 4, featuring a 119B parameter MoE architecture with 6.5B active parameters and a 256k context length, optimized for complex mathematical proofs and software specifications.
-
-⬇️ 258 • ❤️ 171 • 5d ago
-
----
-
-**[Qwen-Fixed-Chat-Templates](https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates)**
-
-*froggeric*
-
-A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
-
-⬇️ 0 • ❤️ 799 • 6d ago
+⬇️ 957,721 • ❤️ 813 • 13d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Infinite Worlds with Versatile Interactions](https://huggingface.co/papers/2607.07534)**
+
+*Zelin Gao, Qiuyu Wang, Jiapeng Zhu et al. (20 authors)*
+
+An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
+
+▲ 19 • 💬 0 • ⭐ 487 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
+
+---
+
+**[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675)**
+
+*Shuailei Ma, Jiaqi Liao, Xinyang Wang et al. (27 authors)*
+
+LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
+
+▲ 37 • 💬 0 • ⭐ 495 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
+
+---
 
 **[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)**
 
@@ -523,7 +545,7 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 9 • 💬 0 • ⭐ 6,622 • 10mo ago
+▲ 10 • 💬 0 • ⭐ 6,735 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
@@ -537,7 +559,7 @@ https://continuous-audio-language-models.github.io
 
 Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.
 
-▲ 36 • 💬 2 • ⭐ 485 • 3d ago
+▲ 36 • 💬 2 • ⭐ 548 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05247) • [💻 code](https://github.com/Robbyant/lingbot-vision) • [🔗 project](https://technology.robbyant.com/lingbot-vision)
 
@@ -575,7 +597,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 15 • 💬 2 • ⭐ 18,793 • 28mo ago
+▲ 15 • 💬 2 • ⭐ 19,028 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -594,6 +616,19 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 82 • 💬 7 • ⭐ 80,156 • 23mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
 **[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
 
 *Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
@@ -608,45 +643,6 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 82 • 💬 7 • ⭐ 80,057 • 23mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[Multiplayer Interactive World Models with Representation Autoencoders](https://huggingface.co/papers/2607.05352)**
-
-*Anthony Hu, Václav Volhejn, Adrien Ramanana Rahary et al. (27 authors)*
-
-A large-scale multiplayer world model trained on extensive gameplay data demonstrates stable long-horizon rollouts in a complex physics-based environment while maintaining coherence across multiple agents' actions.
-
-▲ 15 • 💬 1 • ⭐ 290 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.05352) • [💻 code](https://github.com/mira-wm/mira) • [🔗 project](https://mira-wm.com/)
-
----
-
-**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
-
-*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
-
-🏢 Robbyant
-
-LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
-
-▲ 26 • 💬 3 • ⭐ 10,300 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -657,7 +653,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 78.6k • 🔱 4.2k • 18m ago
+⭐ 78.7k • 🔱 4.2k • 3h ago
 
 ---
 
@@ -667,7 +663,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.7k • 🔱 1.1k • 22m ago
+⭐ 11.7k • 🔱 1.1k • 5m ago
 
 ---
 
@@ -677,7 +673,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.8k • 🔱 917 • 13m ago
+⭐ 6.9k • 🔱 918 • 11m ago
 
 ---
 
@@ -687,7 +683,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.0k • 🔱 860 • 20h ago
+⭐ 4.0k • 🔱 869 • 58m ago
 
 ---
 
@@ -707,7 +703,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.2k • 🔱 82 • 6h ago
+⭐ 2.3k • 🔱 82 • 9h ago
 
 ---
 
@@ -717,7 +713,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 1.9k • 🔱 264 • 3m ago
+⭐ 1.9k • 🔱 268 • 3h ago
 
 ---
 
@@ -727,7 +723,7 @@ An AI-agent skill that generates browser-editable presentations from multiple vi
 
 `JavaScript` `agent-skill` `ai-agent` `ai-ppt` `claude` `claude-code`
 
-⭐ 1.7k • 🔱 172 • 3h ago
+⭐ 1.8k • 🔱 180 • 6h ago
 
 ---
 
@@ -737,7 +733,7 @@ An AI-agent skill that generates browser-editable presentations from multiple vi
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 1.7k • 🔱 186 • 21h ago
+⭐ 1.7k • 🔱 190 • 1d ago
 
 ---
 

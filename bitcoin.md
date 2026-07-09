@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-09T10:47:28.256329+00:00'
+updated: '2026-07-09T13:49:48.105289+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 10:47 UTC  
+**Last Updated:** July 09, 2026 at 13:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
+**24h:** +1.5%  
 **7d:** +0.4%  
 **30d:** +2.2%  
 **90d:** -14.0%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1260.10B
+**Market Cap:** $1261.31B
 Rank #1
 
-**Circulating Supply:** 20,053,990 BTC
+**Circulating Supply:** 20,054,046 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.2%
+-50.1%
 
 **All-Time Low:** $67.81
-+92564.8%
++92653.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Here is me saying bitcoin in July 2026](https://www.reddit.com/r/Bitcoin/comments/1ur0ses/here_is_me_saying_bitcoin_in_july_2026/)**
 
-16h ago
+19h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Buy bitcoin. Simple as that.
 
-3h ago
+6h ago
 
 ---
 
 **[BTC again😩🔥](https://www.reddit.com/r/Bitcoin/comments/1uqs7fc/btc_again/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -101,7 +101,7 @@ Buy bitcoin. Simple as that.
 
 A reminder, to self custody. Make sure your bitcoin is yours!
 
-3h ago
+6h ago
 
 ---
 
@@ -109,13 +109,13 @@ A reminder, to self custody. Make sure your bitcoin is yours!
 
 Just curious what price you were hoping for
 
-2h ago
+5h ago
 
 ---
 
 **[The Bitcoin Stateless Revolution. How Utreexo (BIP-183) Obliterates the UTXO Bottleneck and Reclaims the Base Layer.](https://www.reddit.com/r/Bitcoin/comments/1urmh50/the_bitcoin_stateless_revolution_how_utreexo/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-bitcoin-stateless-revolution) • 12m ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-bitcoin-stateless-revolution) • 3h ago
 
 ---
 
@@ -123,7 +123,7 @@ Just curious what price you were hoping for
 
 been several months since blockchain (infamously) locked my account for KYC which has been succesfull and yet still blocked. From the emails it seems like Blockchain starting 1 July 2026 (last week) has migrated to a specific UK entity, did anyone managed to get their account unlocked since then? Has anyone tried to file a complain to the FCA? to the one stupid unemployed idiot who'll certainly be like "WhY yOu USeD BloCkChaIN" go get a job
 
-11h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ been several months since blockchain (infamously) locked my account for KYC whic
 
 I gave myself an impossible brief: Uniformise the B. ecosystem's main design assets and logo. I wanted to create the simplest, most basic, and complete resource of design assets for Bitcoin because I’m tired of downloading the same logo from random websites or creating SVGs from scratch. I wanted people to be able to find all the resources in one file (Figma & GitHub) and, as much as possible, standardise some components. There was no good solution, just a long chain and succession of trade-offs. It's like rebranding 10 brands at once; there is no choice that won't leave someone unsatisfied. The file is in “Beta” so you can review it. Hot topics: Bitcoin logo should be different (but really similar) to the B. currency symbol. It is already like that in many products, but I wanted to remark the difference I love the idea of talking only about Bitcoin and not Sats. I know the Bitcoin community spent effort on this, but personally I think we lost that battle. “I will zap you some sats” is already here, used commonly. I’m just trying to fix it by proposing a symbol for sats. I know there have been other proposals in the past, but I’m sceptical about that; too cryptic. Cashu currently has a very detailed, complex logo; I’m proposing a simplified, more banal version. I also proposed a logo for Ark. Main questions: Should I keep my proposal for Cashu or the old version? I would like to avoid Nostr and Cashu having different colours in the negative version; should I go with white, or do you have any other suggestions? Does anyone know if the DLC project is still on and how to get the vector logo? Are there any logos or technologies missing that are important to add? No wallets, only technology logos. Any missing version of the logo that you think important to include? Should I also include the most popular wallet in V2? https://www.figma.com/design/icmH1QEg9lFtj9pgW9D3tl/Bitcoin-ecosystem--logos-and-design-kit?node-id=0-1&t=h0ci1j2j6LcjshmE-1
 
-9h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ I gave myself an impossible brief: Uniformise the B. ecosystem's main design ass
 
 I own the domain bitcoin.guide I've always thought that a great bitcoin guide deserved to be built on it, and I don't think I'm the right person for this project. Would love to find a Bitcoin OG who wants to buy the domain and make a project out of it. I bought this in 2018 and will sell for less than what I paid (measured in both btc and usd). If you're interested feel free to reach out - looking to sell on a marketplace like Sedo rather than direct.
 
-6h ago
+9h ago
 
 ---
 
@@ -147,13 +147,25 @@ I own the domain bitcoin.guide I've always thought that a great bitcoin guide de
 
 BULL BITCOIN is taking France’s highest administrative court to seek the annulment of DAC8, a new European law that puts millions of users at physical risk.
 
-22h ago
+1d ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Bitcoin (BTC) Weakens as Trump’s Remarks Raise Fresh Iran War Concerns](https://www.bloomberg.com/news/articles/2026-07-08/bitcoin-btc-weakens-as-trump-s-remarks-raise-fresh-iran-war-concerns)**
+
+Bloomberg.com • 19h ago
+
+---
 
 **[Bitcoin under pressure as Trump says Iran ceasefire is over](https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil)**
 
@@ -163,51 +175,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin (BTC) Weakens as Trump’s Remarks Raise Fresh Iran War Concerns](https://www.bloomberg.com/news/articles/2026-07-08/bitcoin-btc-weakens-as-trump-s-remarks-raise-fresh-iran-war-concerns)**
+**[Bitcoin and ethereum prices today, Wednesday, July 8, 2026: Crypto prices down following U.S.-Iran strikes](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-8-2026-crypto-prices-down-following-us-iran-strikes-130336886.html)**
 
-Bloomberg.com • 16h ago
+Bitcoin opened at $63,318.46 on Wednesday, July 8, 2026, down 1.1% from Tuesday's open. The price of bitcoin moved even lower this morning. Ethereum opened at $1,769.31, down 1.6%. Ethereum prices then shifted to $1,742.22 as of 8:45 a.m. ET.
 
----
-
-**[Bitcoin Edges Higher Amid Iran War Uncertainty, After Fed Minutes](https://www.barrons.com/livecoverage/stock-market-news-today-070926/card/bitcoin-edges-higher-amid-iran-war-uncertainty-after-fed-minutes-ezFOr7s3zzrPc9SBDwyq)**
-
-Barron's • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
+**[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://finance.yahoo.com/markets/crypto/articles/eric-trump-bitcoin-bet-erases-094500128.html)**
 
-WSJ • 2d ago
+(Bloomberg) -- American Bitcoin Corp. was built around a simple idea: that owning and mining Bitcoin would be enough to mint money.Most Read from BloombergMicrosoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video GameTrump Vents Anger With Iran and Warns Ceasefire May Be ‘Over’Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom LevelsUS Military Launches Strikes on Iran for Second Straight DayGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaInstead, the company co-fou
 
----
-
-**[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Quantum Blockchain Technologies Introduces New Chaos-Based Bitcoin Mining Technique (QBT)](https://uk.finance.yahoo.com/news/quantum-blockchain-technologies-introduces-chaos-073231525.html)**
-
-Quantum Blockchain Technologies (LSE:QBT) has revealed a new mathematical enhancement to its Method B Bitcoin mining technology, introducing an approach that aims to increase the generation of winning hashes without requiring a machine learning phase inside ASIC mining hardware. The technique applies principles of chaos mathematics to SHA-256 outputs, enabling the identification of input blocks that contain a higher concentration of potential winning hashes by uncovering hidden mathematical patt
-
-Yahoo Finance UK • 3h ago
-
----
-
-**[Bitcoin Price Can Soar in July If History Repeats, Analysts Say](https://bitcoinfoundation.org/news/bitcoin/bitcoin-price-can-soar-in-july-if-history-repeats-cryptoquant-says/)**
-
-Bitcoin price today is getting help from July seasonality and improving U.S. demand, but CryptoQuant says the move still looks fragile.
-
-Bitcoin Foundation • 2h ago
-
----
-
-**[Live markets: Bitcoin ETFs slip back to outflows while ether funds extend their streak](https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak)**
-
-U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million
-
-CoinDesk • 28m ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -223,7 +203,29 @@ WVLT • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 22h ago
+Fortune • 1d ago
+
+---
+
+**[Live markets: Bitcoin ETFs slip back to outflows while ether funds extend their streak](https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak)**
+
+U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million
+
+CoinDesk • 54m ago
+
+---
+
+**[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
+
+WSJ • 3d ago
+
+---
+
+**[Michael Saylor's Strategy may have saved bitcoin from a bigger sell-off: 'A balancing force in the market'](https://finance.yahoo.com/markets/crypto/article/michael-saylors-strategy-may-have-saved-bitcoin-from-a-bigger-sell-off-a-balancing-force-in-the-market-154525468.html)**
+
+Bitcoin (BTC-USD) has had a dismal year, but its underperformance has been less severe than in previous crypto winters, Bernstein analysts pointed out.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -253,7 +255,7 @@ Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign
 
 Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal challenge before France's Conseil d'État to annul Decree No. 2025-1276, which implements the EU's DAC8 crypto tax reporting directive. The exchange argues the rules create a mass surveillance database linking identities and crypto activity, endangering holders' physical safety.
 
-⬆️ 3 • 💬 1 • 9h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
+⬆️ 3 • 💬 1 • 12h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
 
 ---
 
@@ -261,7 +263,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 14h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
+⬆️ 2 • 💬 1 • 17h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
 
 ---
 
@@ -277,7 +279,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 Read this crypto post from greatHydra_997 posted on 2026/07/08 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 2 • 💬 0 • 15h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377612382/)
+⬆️ 2 • 💬 0 • 18h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377612382/)
 
 ---
 
@@ -285,7 +287,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/08 on CoinMarketCap�
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 133 • 💬 87 • 2h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 257 • 💬 174 • 5h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
@@ -307,53 +309,63 @@ Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
 ## YouTube Videos: "bitcoin"
 
+**[Last Time THIS Happened Bitcoin Exploded 20x (It&#39;s Happening Again!)](https://www.youtube.com/watch?v=OpOPKHOgK34)**
+
+The biggest attacks on Bitcoin have often become its biggest strengths. The 2017 Fork Wars proved that no company, miner, ...
+
+📺 Simply Bitcoin
+
+👁️ 18K • 👍 2K • 💬 175 • ⏱️ 19:44 • 12h ago
+
+---
+
 **[The Crypto Market Is About To Go F**king Crazy (30 Day Warning)](https://www.youtube.com/watch?v=XZuRZbLYy4A)**
 
 The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 96 • ⏱️ 9:12 • 1d ago
+👁️ 37K • 👍 2K • 💬 107 • ⏱️ 9:12 • 1d ago
 
 ---
 
-**[Real Reason Behind This Bear Move and Where Bitcoin Goes Next](https://www.youtube.com/watch?v=tC4KJp8ci9s)**
+**[It&#39;s All Noise. Bitcoin Is The Opportunity (Don&#39;t Miss THIS).](https://www.youtube.com/watch?v=yUVUhDNdFM0)**
 
-Lyn Alden breaks down the direct correlation between Bitcoin's recent consolidation and the massive capital drain into AI tech ...
+ANOTHER peace deal is in tatters and of course there is a sell-off. BUT we must pay attention to SIGNL vs. NOISE when it comes ...
 
-📺 Natalie Brunell
+📺 Digital Asset News
 
-👁️ 5K • 👍 73 • 💬 49 • ⏱️ 0:36 • 22h ago
-
----
-
-**[Bitcoin Strategic Reserve Coming?🔥Crypto Market Update](https://www.youtube.com/watch?v=Q73PQU9774A)**
-
-The Trump administration's plan to create a Strategic Bitcoin Reserve has been complicated by two government departments ...
-
-📺 Paul Barron Network
-
-👁️ 48K • 👍 2K • 💬 120 • ⏱️ 16:05 • 1d ago
+👁️ 8K • 👍 529 • 💬 48 • ⏱️ 32:35 • 20h ago
 
 ---
 
-**[Bitcoin DUMPS To $62K As Iran War Escalates – Matt Hougan Live](https://www.youtube.com/watch?v=kUKmZQDxEr0)**
+**[Van Eck Says Bitcoin Going Much Higher](https://www.youtube.com/watch?v=isj-5wTCGkI)**
 
-Bitcoin #Crypto #finance Bitcoin fell below $62K after renewed U.S.-Iran tensions triggered a broader risk-off move across markets ...
+Bitcoin, Robinhood Chain, Robotics, Solana, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 The Wolf Of All Streets
+📺 Lark Davis
 
-👁️ 16K • 👍 685 • 💬 266 • ⏱️ 35:18 • 20h ago
+👁️ 2K • 👍 257 • 💬 46 • ⏱️ 18:31 • 2h ago
 
 ---
 
-**[The next Bitcoin boom won&#39;t come from retail](https://www.youtube.com/watch?v=MHiDAWg7ORc)**
+**[THE FINAL BITCOIN TRAP IS SET...](https://www.youtube.com/watch?v=HQwKLOWDgeQ)**
 
-Bitcoin isn't searching for a new narrative. It's searching for a new buyer. In this episode of The Daily Wolf, Scott Melker explains ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Yahoo Finance
+📺 Crypto Rover
 
-👁️ 14K • 👍 479 • 💬 256 • ⏱️ 14:54 • 18h ago
+👁️ 7K • 👍 619 • 💬 50 • ⏱️ 12:58 • 5h ago
+
+---
+
+**[THIS CHART JUST REVEALED THE BITCOIN BOTTOM](https://www.youtube.com/watch?v=1MOS6KGwN3I)**
+
+My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
+
+📺 Satoshi Stacker
+
+👁️ 2K • 👍 191 • 💬 20 • ⏱️ 11:08 • 3h ago
 
 ---
 
@@ -363,47 +375,37 @@ Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https:
 
 📺 Benjamin Cowen
 
-👁️ 63K • 👍 4K • 💬 170 • ⏱️ 11:24 • 22h ago
+👁️ 65K • 👍 4K • 💬 175 • ⏱️ 11:24 • 1d ago
 
 ---
 
-**[Lyn Alden: Why This Is the Worst Bitcoin Sentiment She&#39;s Ever Seen](https://www.youtube.com/watch?v=lIg0G0z2KkY)**
+**[Bitcoin &amp; Ethereum&#39;s Biggest Test Is Happening RIGHT NOW (Targets)](https://www.youtube.com/watch?v=BlmXuZRpzcQ)**
 
-Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories to give her honest read on Bitcoin's price, where ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
 
-📺 Natalie Brunell
+📺 Crypto Capital Venture
 
-👁️ 53K • 👍 2K • 💬 377 • ⏱️ 59:57 • 1d ago
-
----
-
-**[The Bitcoin Bull Case Nobody Is Making: Rate Cuts, a Capped Seller, and a Cleared Deck](https://www.youtube.com/watch?v=NBMbdZylToM)**
-
-In a sea of bad news, three signals show the way Bitcoin's price could break past $90000, and past its ATH. The FOMC's broken ...
-
-📺 Dana Love, PhD
-
-👁️ 23K • 👍 1K • 💬 203 • ⏱️ 17:15 • 1d ago
+👁️ 8K • 👍 467 • 💬 142 • ⏱️ 16:41 • 21h ago
 
 ---
 
-**[The Bitcoin buyers are coming back](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
+**[The next Bitcoin boom won&#39;t come from retail](https://www.youtube.com/watch?v=MHiDAWg7ORc)**
 
-Bitcoin just had its best week since March—but that's not the most important story. In this episode of The Daily Wolf, Scott Melker ...
+Bitcoin isn't searching for a new narrative. It's searching for a new buyer. In this episode of The Daily Wolf, Scott Melker explains ...
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 531 • 💬 252 • ⏱️ 14:54 • 1d ago
+👁️ 14K • 👍 490 • 💬 257 • ⏱️ 14:54 • 21h ago
 
 ---
 
-**[Bitcoin Deja Vu](https://www.youtube.com/watch?v=rxekpAAHwRs)**
+**[Bitcoin... This Isn&#39;t Good](https://www.youtube.com/watch?v=X6ptF8avD2A)**
 
-Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com For inquiries and to subscribe to the ...
+Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts are terrifying! WEEX ...
 
-📺 Benjamin Cowen
+📺 Crypto Zombie
 
-👁️ 27K • 👍 525 • 💬 14 • ⏱️ 0:29 • 1d ago
+👁️ 14K • 👍 1K • 💬 229 • ⏱️ 21:48 • 1d ago
 
 ---
 
