@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-09T18:18:34.105472+00:00'
+updated: '2026-07-09T20:19:45.208164+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 18:18 UTC  
+**Last Updated:** July 09, 2026 at 20:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -0.2%  
-**30d:** +8.3%  
-**90d:** -23.2%  
-**1y:** -40.5%  
+**24h:** +0.3%  
+**7d:** -0.7%  
+**30d:** +7.7%  
+**90d:** -23.6%  
+**1y:** -40.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $209.33B
+**Market Cap:** $210.60B
 Rank #2
 
 **Circulating Supply:** 120,683,101 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.9%
+-64.7%
 
 **All-Time Low:** $0.43
-+400485.2%
++402838.7%
 
 ---
 
@@ -84,7 +84,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[我现在开始学习和练习Web3还会太晚吗？如果不晚，一个完全的新手应该从哪些方面入手？](https://www.reddit.com/r/ethereum/comments/1ur3q21/我现在开始学习和练习web3还会太晚吗如果不晚一个完全的新手应该从哪些方面入手/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -156,7 +156,7 @@ CryptoSlate • 1d ago
 
 *Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
 
-ethereum.org • 2h ago
+ethereum.org • 4h ago
 
 ---
 
@@ -164,7 +164,7 @@ ethereum.org • 2h ago
 
 Tom Lee says Ethereum could become a $5 trillion network within the next few years. A $5 trillion market cap would imply an ETH price ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 5h ago
 
 In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -180,13 +180,7 @@ CoinDesk • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
-
----
-
-**[Ethereum’s Institutional Demand Looks Stronger Than Its Price Action](https://www.investing.com/analysis/ethereums-institutional-demand-looks-stronger-than-its-price-action-200683641)**
-
-Investing.com • 4h ago
+Fortune • 7h ago
 
 ---
 
@@ -194,15 +188,7 @@ Investing.com • 4h ago
 
 DUBAI, United Arab Emirates, July  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto is getting ready to launch its innovative DeFi ...
 
-markets.businessinsider.com • 23h ago
-
----
-
-**[Bitcoin slips below the cloud as Ethereum and Altcoins show relative strength](https://www.kitco.com/opinion/2026-07-09/bitcoin-slips-below-cloud-ethereum-and-altcoins-show-relative-strength)**
-
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin dropped below the daily TBO Cloud on Wednesday, which technically puts it back in strong bearish mode. But the move is not as simple as it looks. The daily TBO Slow line is flattening and OBV is gradually curling higher, both of which suggest the market may still be preparing for a bounce rather than a full breakdown.Bitcoin weakens, but the reversal setup is not deadBTC falling below the Cloud is a bearish headline, but the context matters. A flattening Slow line shows that the macro downtrend is losing pressure, while OBV’s gradual curl higher shows buyers are not completely gone. That means the chart is technically weaker, but still in a constructive transition zone if the next bounce develops quickly.Ethereum looks better than BitcoinETH is currently the stronger major chart. It pulled back to the Fast line, closing the recent TBO Close Short and creating a cleaner entry zone. OBV also looks much better on ETH than BTC, which supports the idea that Ethereum may lead if the broader crypto bounce starts to rotate back into risk.Dominance still points toward an altcoin bounceCombined stablecoin dominance moved up to tag the Fast line again. The working expectation is that RSI may tag or push slightly above historical support, confirm it as resistance, and then fall back down. If that happens, it should coincide with a bullish bounce for crypto. BTC dominance also fell below the Cloud again, which is good news for altcoins.TOTALES remains bearish, but reversal signs are buildingTOTALES closed red on Wednesday and is back in strong bearish mode. But the same constructive details remain: the Slow line is flattening and OBV’s white moving-average line is slowly curling upward. That keeps the total-market reversal thesis alive even while the chart still looks weak at the surface.Macro remains tense, but DXY is showing weaknessDXY is working on another TBT Bearish Divergence, which would be bullish for stocks and crypto if it confirms. The pressure point is still USDJPY, which pushed even higher toward TBO Resistance at 162.607. The Bank of Japan pressure remains difficult to ignore. Meanwhile, VIX wicked into the Cloud but closed back below it, and WTI bounced to the Fast line as tensions around Iran increased again.Altcoin entries are getting clearerSOL tagged the Fast line on Wednesday, closing the recent TBO Close Short and creating a cleaner entry opportunity. ADA also retraced to its Fast line, XMR closed its recent Close Short, XTZ closed two recent Close Shorts, and AERO, SPX6900, SYRUP, and FARTCOIN are bounce-watch names. The caution list is just as important: WLD lost long-term support, CC printed a second TBO Breakdown, and LAB dropped 79%, reminding traders not to chase every chart just because some entries are improving.The overall message is balanced. Bitcoin’s headline chart is weaker below the Cloud, but the internal reversal signs are still there. Ethereum looks stronger than Bitcoin. Dominance charts still point toward a possible altcoin bounce. Macro remains tense, but DXY divergence could help risk assets if confirmed. This is a selective market, not a blind chase market.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
-
-KITCO • 1h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -214,11 +200,25 @@ FXStreet • 1d ago
 
 ---
 
+**[Ethereum’s Institutional Demand Looks Stronger Than Its Price Action](https://www.investing.com/analysis/ethereums-institutional-demand-looks-stronger-than-its-price-action-200683641)**
+
+Investing.com • 6h ago
+
+---
+
+**[Bitcoin slips below the cloud as Ethereum and Altcoins show relative strength](https://www.kitco.com/opinion/2026-07-09/bitcoin-slips-below-cloud-ethereum-and-altcoins-show-relative-strength)**
+
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin dropped below the daily TBO Cloud on Wednesday, which technically puts it back in strong bearish mode. But the move is not as simple as it looks. The daily TBO Slow line is flattening and OBV is gradually curling higher, both of which suggest the market may still be preparing for a bounce rather than a full breakdown.Bitcoin weakens, but the reversal setup is not deadBTC falling below the Cloud is a bearish headline, but the context matters. A flattening Slow line shows that the macro downtrend is losing pressure, while OBV’s gradual curl higher shows buyers are not completely gone. That means the chart is technically weaker, but still in a constructive transition zone if the next bounce develops quickly.Ethereum looks better than BitcoinETH is currently the stronger major chart. It pulled back to the Fast line, closing the recent TBO Close Short and creating a cleaner entry zone. OBV also looks much better on ETH than BTC, which supports the idea that Ethereum may lead if the broader crypto bounce starts to rotate back into risk.Dominance still points toward an altcoin bounceCombined stablecoin dominance moved up to tag the Fast line again. The working expectation is that RSI may tag or push slightly above historical support, confirm it as resistance, and then fall back down. If that happens, it should coincide with a bullish bounce for crypto. BTC dominance also fell below the Cloud again, which is good news for altcoins.TOTALES remains bearish, but reversal signs are buildingTOTALES closed red on Wednesday and is back in strong bearish mode. But the same constructive details remain: the Slow line is flattening and OBV’s white moving-average line is slowly curling upward. That keeps the total-market reversal thesis alive even while the chart still looks weak at the surface.Macro remains tense, but DXY is showing weaknessDXY is working on another TBT Bearish Divergence, which would be bullish for stocks and crypto if it confirms. The pressure point is still USDJPY, which pushed even higher toward TBO Resistance at 162.607. The Bank of Japan pressure remains difficult to ignore. Meanwhile, VIX wicked into the Cloud but closed back below it, and WTI bounced to the Fast line as tensions around Iran increased again.Altcoin entries are getting clearerSOL tagged the Fast line on Wednesday, closing the recent TBO Close Short and creating a cleaner entry opportunity. ADA also retraced to its Fast line, XMR closed its recent Close Short, XTZ closed two recent Close Shorts, and AERO, SPX6900, SYRUP, and FARTCOIN are bounce-watch names. The caution list is just as important: WLD lost long-term support, CC printed a second TBO Breakdown, and LAB dropped 79%, reminding traders not to chase every chart just because some entries are improving.The overall message is balanced. Bitcoin’s headline chart is weaker below the Cloud, but the internal reversal signs are still there. Ethereum looks stronger than Bitcoin. Dominance charts still point toward a possible altcoin bounce. Macro remains tense, but DXY divergence could help risk assets if confirmed. This is a selective market, not a blind chase market.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
+
+KITCO • 3h ago
+
+---
+
 **[Energy Substantiation wants to put oil barrels on the Ethereum blockchain](https://cryptobriefing.com/energy-substantiation-tokenize-oil-blockchain/)**
 
 Energy Substantiation launches $WTIC, an ERC-20 token backed 1:1 by physical WTI crude oil barrels, with plans to tokenize natural gas and Brent crude by Q3
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -226,13 +226,23 @@ Crypto Briefing • 6h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Crypto Market U-Turn We Just Got Some Shocking Bitcoin &amp; Ethereum News And You&#39;re Going To Love It](https://www.youtube.com/watch?v=A6LgEWNcO0k)**
+
+Who knew that a dip in price could cause such a massive movement in crypto market sentiment? Bitcoin and Ethereum are once ...
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 635 • 💬 181 • ⏱️ 33:10 • 10h ago
+
+---
+
 **[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 181 • 💬 22 • ⏱️ 13:21 • 1d ago
+👁️ 5K • 👍 187 • 💬 22 • ⏱️ 13:21 • 1d ago
 
 ---
 
@@ -242,7 +252,17 @@ Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Micha�
 
 📺 New Era Finance Podcast
 
-👁️ 19K • 👍 581 • 💬 68 • ⏱️ 34:28 • 2d ago
+👁️ 20K • 👍 595 • 💬 81 • ⏱️ 34:28 • 2d ago
+
+---
+
+**[🚨 BTC &amp; ETH: MY LAST YT VIDEO!!! BUT MOST IMPORTANT ONE!! YOU HAVE TO SEE THIS NOW!](https://www.youtube.com/watch?v=mzqA6MJSsGw)**
+
+This is my last video in this format. But I think its most important one. ---------- Join My FREE Trading Group & School: ...
+
+📺 Thomas Kralow
+
+👁️ 7K • 👍 287 • 💬 26 • ⏱️ 13:33 • 7h ago
 
 ---
 
@@ -252,17 +272,7 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 14K • 👍 2K • 💬 392 • ⏱️ 13:04 • 1d ago
-
----
-
-**[BE READY FOR THIS ETH MOVE! (Ethereum Update)](https://www.youtube.com/watch?v=IAdqBy1Lu9c)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 166 • 👍 13 • 💬 10 • ⏱️ 4:49 • 8h ago
+👁️ 14K • 👍 2K • 💬 393 • ⏱️ 13:04 • 1d ago
 
 ---
 
@@ -272,37 +282,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 472 • 💬 145 • ⏱️ 16:41 • 1d ago
+👁️ 8K • 👍 474 • 💬 145 • ⏱️ 16:41 • 1d ago
 
 ---
 
-**[Why Ethereum Is Headed to $20,000+](https://www.youtube.com/watch?v=HFsuTTrdW7Y)**
+**[BE READY FOR THIS ETH MOVE! (Ethereum Update)](https://www.youtube.com/watch?v=IAdqBy1Lu9c)**
 
-Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Credible Crypto
+📺 Cilinix Crypto
 
-👁️ 19K • 👍 1K • 💬 122 • ⏱️ 1:03:11 • 2d ago
-
----
-
-**[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
-
-In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
-
-📺 The Value Thinker
-
-👁️ 16K • 👍 856 • 💬 187 • ⏱️ 21:46 • 1d ago
-
----
-
-**[He Turned 300 Dollars Into 2 Million On Robinhood Chain](https://www.youtube.com/watch?v=DF3kOlSaC8I)**
-
-A trader bought 316 dollars of CASHCAT at a 7400 dollar market cap. It is now sitting at 120 million. He still holds 85 percent of his ...
-
-📺 Lark Davis
-
-👁️ 231 • 👍 16 • ⏱️ 1:01 • 2h ago
+👁️ 246 • ⏱️ 4:49 • 10h ago
 
 ---
 
@@ -316,13 +306,23 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 ---
 
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=Mb0Y_d5j3eI)**
+**[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
 
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
 
-📺 Trade with Burner
+📺 The Value Thinker
 
-👁️ 7K • 👍 354 • 💬 3 • ⏱️ 1:01:41 • 2h ago
+👁️ 16K • 👍 871 • 💬 195 • ⏱️ 21:46 • 1d ago
+
+---
+
+**[BlackRock Just Paid Its First Ethereum Paycheck Into Retirement Accounts](https://www.youtube.com/watch?v=Lm-Iw2EhLIs)**
+
+BlackRock just paid its first crypto staking paycheck, $351669.96, and it landed in ordinary brokerage accounts while nobody was ...
+
+📺 Alexander Lorenzo
+
+👁️ 1K • 👍 156 • 💬 1 • ⏱️ 2:52 • 3h ago
 
 ---
 

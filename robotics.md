@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-09T18:18:34.108359+00:00'
+updated: '2026-07-09T20:19:45.211221+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 09, 2026 at 18:18 UTC  
+**Last Updated:** July 09, 2026 at 20:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Have been building this project for a while now, and would love to get eyes on i
 
 Found this demo on their project page showing exactly the transparent-surface problem that breaks most RGB-D setups. Raw sensor depth drops to nothing on the glass panel, and the completion model fills it in from the backbone features. Only the four vision encoders went up on HuggingFace and GitHub this week under Apache-2.0; the depth completion weights themselves are not released. Their paper lists NYUv2 RMSE of 0.296 for the flagship ViT-g, and they report 2.552 on KITTI, trailing both DINOv3-7B and V-JEPA 2.1. For actual robotics work this is the exact failure mode that makes wine glasses and steel cabinets a consistent headache for grasp pipelines. Curious how people see validating these depth numbers when the completion weights are not available for independent testing.
 
-2d ago
+3d ago
 
 ---
 
@@ -122,39 +122,41 @@ mistral.ai • 1d ago
 
 ---
 
-**[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
+**[This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)**
 
-Bloomberg.com • 1d ago
+General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
 
----
-
-**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
-
-Reuters • 1d ago
+TechCrunch • 1d ago
 
 ---
 
-**[EXCLUSIVE: The Biggest Robotics Problem Isn't Batteries or AI. It's ROI](https://finance.yahoo.com/technology/articles/exclusive-biggest-robotics-problem-isnt-143113875.html)**
+**[Robotics, Drones & AI For Monitoring Energy Infrastructure](https://www.forbes.com/sites/sabbirrangwala/2026/07/09/robotics-drones--ai-for-monitoring-energy-infrastructure/)**
 
-The robotics industry has spent years trying to build smarter AI, more dexterous humanoids and longer-lasting batteries. But those may not be the hurdles preventing robots from going mainstream. The bigger challenge, according to Jerry Wang, Global Executive Chairman of...
+Progress in physical AI, AoT®, sensors, drones, and robotics is being leveraged to monitor the vast, multi-trillion dollar global oil and gas infrastructure.  .
 
-Yahoo Finance • 1d ago
-
----
-
-**[Tiny robot boats build floating structures](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)**
-
-FloatForm, developed at MIT, is a swarm of small aquatic robots that assemble into reconfigurable structures. It could lead to floating infrastructure that builds itself into things like a temporary platform, a market, or a stage.
-
-MIT News • 2h ago
+Forbes • 41m ago
 
 ---
 
-**[Meet Isaac 1, Weave Robotics' $8,000 home robot that can fold your laundry for you](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
+**[Watch Robotics Isn't Living Up to the Hype](https://www.bloomberg.com/news/videos/2026-07-09/opinion-robotics-isn-t-living-up-to-the-hype-video)**
 
-The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
+Bloomberg.com • 1h ago
 
-Business Insider • 9h ago
+---
+
+**[Humanoid robots just removed a gallbladder in a live surgery](https://mashable.com/tech/humanoid-robots-teleoperated-gallbladder-surgery-uc-san-diego)**
+
+Two teleoperated humanoid robots just successfully performed surgeries for the first time.
+
+Mashable • 4h ago
+
+---
+
+**[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
+
+Preclinical trial is testing the feasibility of humanoid robots in surgery.
+
+Ars Technica • 7m ago
 
 ---
 
@@ -164,19 +166,11 @@ Nature • 1d ago
 
 ---
 
-**[Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First](https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first)**
+**[Meet Isaac 1, Weave Robotics' $8,000 home robot that can fold your laundry for you](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
 
-For the first time, two teleoperated humanoid robots have been used to complete two surgeries during a preclinical trial, researchers report in the July 8 issue of the journal Nature.
+The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
 
-UC San Diego Today • 1d ago
-
----
-
-**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
-
-Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
-
-Forbes • 1d ago
+Business Insider • 11h ago
 
 ---
 
@@ -188,9 +182,25 @@ NVIDIA Blog • 2d ago
 
 ---
 
+**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
+
+Reuters • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
+
+Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
+
+📺 Fox Business Clips
+
+👁️ 645 • 👍 29 • 💬 10 • ⏱️ 8:37 • 2h ago
+
+---
 
 **[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
@@ -198,7 +208,17 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 102K • 👍 2K • 💬 483 • ⏱️ 13:32 • 4d ago
+👁️ 103K • 👍 2K • 💬 489 • ⏱️ 13:32 • 4d ago
+
+---
+
+**[Mitsubishi&#39;s Humanoid Robot for Factory Work #robotics #humanoidrobot #ai](https://www.youtube.com/watch?v=WHkkLea8ga4)**
+
+Mitsubishi just entered the humanoid robotics race. The Japanese automaker just announced a partnership with Highlanders, ...
+
+📺 Kalil 4.0
+
+👁️ 619 • 👍 36 • 💬 5 • ⏱️ 0:35 • 4h ago
 
 ---
 
@@ -208,17 +228,17 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 144K • 👍 4K • 💬 246 • ⏱️ 10:56 • 4d ago
+👁️ 146K • 👍 4K • 💬 251 • ⏱️ 10:56 • 4d ago
 
 ---
 
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+**[Robot’s first day at call center ends in full kung fu meltdown office chaos on CCTV](https://www.youtube.com/watch?v=saSGzM_tVx8)**
 
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+Jul 5, 2026 Security camera footage from an office in China captures a startling malfunction involving a Unitree humanoid robot ...
 
-📺 China Observer
+📺 FOU News
 
-👁️ 63K • 👍 2K • 💬 528 • ⏱️ 20:21 • 1d ago
+👁️ 1.2M • 👍 17K • 💬 2K • ⏱️ 0:22 • 4d ago
 
 ---
 
@@ -232,11 +252,13 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 ---
 
-**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
 
-📺 GUYMANITOR
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
 
-👁️ 21K • 👍 122 • 💬 3 • ⏱️ 0:17 • 5d ago
+📺 Munro Live
+
+👁️ 24K • 👍 995 • 💬 154 • ⏱️ 38:47 • 1d ago
 
 ---
 
@@ -246,7 +268,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 20K • 👍 361 • 💬 96 • ⏱️ 11:41 • 6d ago
+👁️ 20K • 👍 363 • 💬 96 • ⏱️ 11:41 • 6d ago
 
 ---
 
@@ -256,35 +278,17 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 93 • 💬 21 • ⏱️ 10:42 • 2d ago
+👁️ 4K • 👍 99 • 💬 23 • ⏱️ 10:42 • 2d ago
 
 ---
 
-**[Everyone’s Favourite Robot Got DOUBLE Buffed… Ao Jun Just Got Better | War Robots](https://www.youtube.com/watch?v=9v51MOjIwGY)**
+**[Russia&#39;s First Robot Wedding Takes Place in Moscow | Firstpost News | N18G](https://www.youtube.com/watch?v=IBxpzHhXeVQ)**
 
-Use My Link For The WR Store https://wr.my.games/PREDATORWR The Ao Jun just got a buff on the live server. I really didnt ...
+Russia hosted its first-ever symbolic wedding ceremony for humanoid robots in Moscow, where two AI-powered robots, Robert ...
 
-📺 PREDATOR WR
+📺 Firstpost
 
-👁️ 3K • 👍 204 • 💬 25 • ⏱️ 13:11 • 6h ago
-
----
-
-**[Teleport unboxing with this smart robot?🤖#shorts #robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=O0A9T157OVo)**
-
-📺 Ruko Toy
-
-👁️ 2K • 👍 13 • ⏱️ 0:21 • 4h ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 73K • 👍 4K • 💬 150 • ⏱️ 11:20 • 3d ago
+👁️ 2K • 👍 30 • 💬 5 • ⏱️ 0:52 • 2h ago
 
 ---
 
