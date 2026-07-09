@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-08T23:36:15.462909+00:00'
+updated: '2026-07-09T03:26:17.531524+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 08, 2026 at 23:36 UTC  
+**Last Updated:** July 09, 2026 at 03:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,21 +118,13 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 9h ago
+mistral.ai • 13h ago
 
 ---
 
 **[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Bloomberg.com • 9h ago
-
----
-
-**[China wants to solve the hardest problem in robotics – making hands](https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid)**
-
-Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products
-
-The Guardian • 2d ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -140,7 +132,53 @@ The Guardian • 2d ago
 
 Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-Forbes • 23h ago
+Forbes • 1d ago
+
+---
+
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+
+Nature • 11h ago
+
+---
+
+**[This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)**
+
+While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
+
+TechCrunch • 2d ago
+
+---
+
+**[Fujitsu Joins CMU Robotics Innovation Center](https://www.cmu.edu/news/stories/archives/2026/july/fujitsu-joins-cmu-robotics-innovation-center)**
+
+CMU's Robotics Innovation Center welcomed global technology company Fujitsu Limited as its latest corporate tenant in the university’s robotics and artificial intelligence research facility at Hazelwood Green.
+
+Carnegie Mellon University • 13h ago
+
+---
+
+**[Renting makes robots affordable for work and play](https://www.bbc.com/news/articles/c4gymkg9lr2o)**
+
+Robotics tech is changing fast, so for many it makes sense to rent a robot.
+
+BBC • 2d ago
+
+---
+
+**[EXCLUSIVE: The Biggest Robotics Problem Isn't Batteries or AI. It's ROI](https://finance.yahoo.com/technology/articles/exclusive-biggest-robotics-problem-isnt-143113875.html)**
+
+The robotics industry has spent years trying to build smarter AI, more dexterous humanoids and longer-lasting batteries. But those may not be the hurdles preventing robots from going mainstream. The bigger challenge, according to Jerry Wang, Global Executive Chairman of...
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots](https://fortune.com/2026/07/08/nomagics-new-ai-lab-headed-by-former-google-deepmind-researcher-claims-success-in-early-deployment-of-ai-brain-for-warehouse-robots/)**
+
+Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
+
+Fortune • 20h ago
 
 ---
 
@@ -152,47 +190,19 @@ Ars Technica • 1d ago
 
 ---
 
-**[Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots](https://fortune.com/2026/07/08/nomagics-new-ai-lab-headed-by-former-google-deepmind-researcher-claims-success-in-early-deployment-of-ai-brain-for-warehouse-robots/)**
-
-Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
-
-Fortune • 16h ago
-
----
-
-**[EXCLUSIVE: The Biggest Robotics Problem Isn't Batteries or AI. It's ROI](https://finance.yahoo.com/technology/articles/exclusive-biggest-robotics-problem-isnt-143113875.html)**
-
-The robotics industry has spent years trying to build smarter AI, more dexterous humanoids and longer-lasting batteries. But those may not be the hurdles preventing robots from going mainstream. The bigger challenge, according to Jerry Wang, Global Executive Chairman of...
-
-Yahoo Finance • 9h ago
-
----
-
-**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
-
-Honolulu Civil Beat • 1d ago
-
----
-
-**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
-
-New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
-
-NVIDIA Blog • 1d ago
-
----
-
-**[Vessel acquires Robot Sales Club, betting big on Ohio as a commercial robotics hub](https://www.ohiotechnews.com/vessel-acquires-robot-sales-club/)**
-
-The Columbus-based startup solves a massive bottleneck for early-stage automation companies by embedding fractional sales teams to navigate complex enterprise deals. Backed by new capital and institutional scale, the acquisition aims to position the region as the country's premier tech corridor.
-
-Ohio Tech News • 13h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Former Tesla Optimus Engineer Unveils Northstar Humanoid Robot #robotics #robot #teslaoptimus](https://www.youtube.com/watch?v=KfS9IdJmhyc)**
+
+The French startup UMA just unveiled its flagship humanoid robot worker just nine months after its founding. The Paris-based ...
+
+📺 Kalil 4.0
+
+👁️ 670 • 👍 33 • 💬 3 • ⏱️ 0:57 • 5h ago
+
+---
 
 **[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
 
@@ -200,7 +210,7 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 48K • 👍 2K • 💬 452 • ⏱️ 20:21 • 23h ago
+👁️ 52K • 👍 2K • 💬 477 • ⏱️ 20:21 • 1d ago
 
 ---
 
@@ -210,15 +220,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 99K • 👍 2K • 💬 474 • ⏱️ 13:32 • 4d ago
-
----
-
-**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
-
-📺 GUYMANITOR
-
-👁️ 19K • 👍 111 • 💬 3 • ⏱️ 0:17 • 4d ago
+👁️ 100K • 👍 2K • 💬 475 • ⏱️ 13:32 • 4d ago
 
 ---
 
@@ -228,7 +230,15 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 130K • 👍 3K • 💬 233 • ⏱️ 10:56 • 4d ago
+👁️ 136K • 👍 4K • 💬 238 • ⏱️ 10:56 • 4d ago
+
+---
+
+**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
+
+📺 GUYMANITOR
+
+👁️ 20K • 👍 113 • 💬 3 • ⏱️ 0:17 • 4d ago
 
 ---
 
@@ -238,7 +248,27 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 70K • 👍 4K • 💬 2K • ⏱️ 13:09 • 3d ago
+👁️ 70K • 👍 4K • 💬 2K • ⏱️ 13:09 • 4d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 62K • 👍 3K • 💬 139 • ⏱️ 11:20 • 2d ago
+
+---
+
+**[Ubtechs New U1 UWORLD Robots Shocked The Robot Industry (Ultra Lifelike Androids)](https://www.youtube.com/watch?v=pHUNbCKYn3w)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 19K • 👍 355 • 💬 92 • ⏱️ 11:41 • 6d ago
 
 ---
 
@@ -252,43 +282,13 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 ---
 
-**[Humanoid robots take to the pitch in South Korea at RoboCup 2026 finals](https://www.youtube.com/watch?v=cnf0iODmv7o)**
+**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
 
-Can't get enough of the World Cup? Or perhaps you're looking for a way to get into sports. Well, look no further. Sunday marked ...
+The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
 
-📺 Global News
+📺 DPCcars
 
-👁️ 17K • 👍 62 • 💬 9 • ⏱️ 3:00 • 3d ago
-
----
-
-**[This Chinese Robot Dog Can Go Anywhere — CRW20 Combat Wolf](https://www.youtube.com/watch?v=k0_N1JS7Iy0)**
-
-This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, and carries a rifle-mounted payload with ease ...
-
-📺 Armourdesia Military Hardware
-
-👁️ 187K • 👍 4K • 💬 564 • ⏱️ 0:31 • 6d ago
-
----
-
-**[i started a robotics company in 2026](https://www.youtube.com/watch?v=4wzn7ERaleU)**
-
-In this video I cover some of the behind the scenes of starting a robotics company in 2026. Our goal was to make a professional ...
-
-📺 Austen Hartley
-
-👁️ 17K • 👍 771 • 💬 72 • ⏱️ 18:50 • 1d ago
-
----
-
-**[Chinese company unveils humanoid robot to combat loneliness | AFP](https://www.youtube.com/watch?v=Z4PbTRf32Nw)**
-
-Chinese robotics company UBTech has unveiled its new bionic humanoid robots powered by artificial intelligence and marketed ...
-
-📺 AFP News Agency
-
-👁️ 29K • 👍 990 • 💬 199 • ⏱️ 1:55 • 5d ago
+👁️ 100K • 👍 441 • 💬 221 • ⏱️ 2:50 • 6d ago
 
 ---
 

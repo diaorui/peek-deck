@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-08T23:36:15.452485+00:00'
+updated: '2026-07-09T03:26:17.523436+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 08, 2026 at 23:36 UTC  
+**Last Updated:** July 09, 2026 at 03:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,236.46
+### $61,935.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +1.1%  
-**30d:** +0.8%  
-**90d:** -14.7%  
-**1y:** -44.2%  
+**24h:** -1.4%  
+**7d:** -1.2%  
+**30d:** +0.6%  
+**90d:** -15.3%  
+**1y:** -46.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1247.67B
+**Market Cap:** $1239.74B
 Rank #1
 
-**Circulating Supply:** 20,053,815 BTC
+**Circulating Supply:** 20,053,881 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.6%
+-51.0%
 
 **All-Time Low:** $67.81
-+91660.8%
++91070.9%
 
 ---
 
 ## Fear & Greed Index
 
-### 20
+### 22
 **EXTREME FEAR**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Here is me saying bitcoin in July 2026](https://www.reddit.com/r/Bitcoin/comments/1ur0ses/here_is_me_saying_bitcoin_in_july_2026/)**
 
-5h ago
+9h ago
 
 ---
 
 **[BTC again😩🔥](https://www.reddit.com/r/Bitcoin/comments/1uqs7fc/btc_again/)**
 
-10h ago
+14h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 BULL BITCOIN is taking France’s highest administrative court to seek the annulment of DAC8, a new European law that puts millions of users at physical risk.
 
-11h ago
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ BULL BITCOIN is taking France’s highest administrative court to seek the annul
 
 I came to USA in a student visa just to study Austrian Economics and take part in Bitcoin Conferences. I am now enrolled in MS in Business Analytics. I am working on few papers on Bitcoin’s Hash Rate and such. I am so done with formal education, but everything about Bitcoin is so cool. I am gonna graduate in this December, 2026. I am very eager to work in a Bitcoin Company. I would love to work in River Financial or Swan Bitcoin. I love Bitcoin and everything it has to offer to this dollar world.
 
-5h ago
+9h ago
 
 ---
 
@@ -109,13 +109,13 @@ I came to USA in a student visa just to study Austrian Economics and take part i
 
 Revolut just announced Lightning integration via Lightspark for UK and European users. 35 million people will soon use Lightning. The Bitcoin media is celebrating. I think we should slow down. Here's what Revolut is actually doing: NOT giving you a Lightning node NOT giving you channel keys NOT giving you any sovereignty It's custodial Lightning. Revolut holds the keys, manages the channels, can freeze your funds, and reports every payment to regulators. It's a bank account with Lightning rails. The real comparison nobody publishes: Revolut Lightning vs Self-Custodial LND: Key custody: Revolut vs YOU KYC: mandatory vs none Fund freezing: anytime vs impossible Privacy: zero vs strong (Tor) Routing fees: Revolut keeps vs you keep Sovereignty: none vs complete There are things the Revolut integration does validate: Lightning works at scale, network liquidity grows, Lightning Addresses get normalized. That matters. But 35 million surveilled custodial users is not what Lightning was designed for. Full article:https://davidebtc186.substack.com/p/revolut-lightning-good-news-or-a Donaet; [zap@shadowbip.com](mailto:zap@shadowbip.com)
 
-11h ago
+15h ago
 
 ---
 
 **[Bull Bitcoin is officially opening the first legal front against DAC8 in Europe - stacker.news](https://www.reddit.com/r/Bitcoin/comments/1uqxh7s/bull_bitcoin_is_officially_opening_the_first/)**
 
-🔗 [stacker.news](https://stacker.news/items/1521232/r/BITC0IN) • 7h ago
+🔗 [stacker.news](https://stacker.news/items/1521232/r/BITC0IN) • 11h ago
 
 ---
 
@@ -123,13 +123,13 @@ Revolut just announced Lightning integration via Lightspark for UK and European 
 
 Conduition and Jeremy Rubin joined Optech to discuss Newsletter #412.: Benchmarking SLH-DSA STARK aggregation Bird of Prey 2 (BoP-2) non-malleable schnorr and PQ signatures Lattice-based signatures Public key recovery for P2MR EC leaves Aligning privacy incentives in P2MR Prohibit merkle internal node preimages that encode minimal 64-byte transactions Triggering EC disabling with a NUMS point spend or hashrate majority And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/07/07/ Fountain: https://fountain.fm/episode/y6XkElTaP2wZFzmAsY8n Spotify: https://open.spotify.com/episode/3tHQacI9FTEYW3J2uLDX4d Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-412-recap/id1674626983?i=1000775973839
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/07/07/) • 8h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/07/07/) • 11h ago
 
 ---
 
 **[That time Gregory Maxwell sent 21M bitcoins to himself.](https://www.reddit.com/r/Bitcoin/comments/1uqu4t2/that_time_gregory_maxwell_sent_21m_bitcoins_to/)**
 
-9h ago
+13h ago
 
 ---
 
@@ -137,7 +137,7 @@ Conduition and Jeremy Rubin joined Optech to discuss Newsletter #412.: Benchmark
 
 I'm trying to invest into other assets as have many people adviced. So just for my inspirqtion and information (roughly) what percentage of your investments is in BTC, stocks, ETF's, other crypto or any other type.
 
-5h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ I'm trying to invest into other assets as have many people adviced. So just for 
 
 Hi everyone, I’ve spent a lot of time engaging with Bitcoin over the past five years, and now I want to make my own contribution to the space. After consuming countless podcasts, books, and so on, I found myself going deeper and deeper down the "time" rabbit hole—exploring the nature of time and its fundamental importance in the financial world and our society at large (calendars). Alongside my fascination with Bitcoin, I have a passion for watches, and I’d like to combine the two. I want to create the first digital Bitcoin wristwatch. I’d like to base the design on the Casio A168WA. It would display the block height, the time until the next block, and the current epoch. My question for you all is: would you wear or buy a watch like this? Or am I the only one? Thanks!
 
-8h ago
+12h ago
 
 ---
 
@@ -153,45 +153,29 @@ Hi everyone, I’ve spent a lot of time engaging with Bitcoin over the past five
 
 ## Google News: "bitcoin"
 
-**[Live markets: Bitcoin drops to $62,000 as oil and bond yields surge on collapse of Iran ceasefire](https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp)**
+**[Bitcoin prices dip on Trump's Iran announcement, but it might not really mean anything](https://finance.yahoo.com/video/bitcoin-prices-dip-on-trumps-iran-announcement-but-it-might-not-really-mean-anything-164351518.html)**
 
-Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30.
+Bitcoin (BTC-USD) prices are falling after President Trump announced that the Iran ceasefire is "over." Scott Melker explains why this may not be significant.
 
-CoinDesk • 2h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
+Make sure to also check out Yahoo Finance's crypto hub to find the latest crypto-related news.
 
-**[Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin](https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d)**
-
-WSJ • 2d ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Eric Trump Says 'Stacking Continues' as American Bitcoin Amasses 8,000 BTC: 'We Continue to Differentiate Ourselves'](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-stacking-continues-040117728.html)**
+**[Bitcoin Drops After Trump Says U.S.-Iran Cease-Fire Is Over](https://www.barrons.com/articles/bitcoin-price-trump-iran-75458510)**
 
-American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump celebrated on Tuesday after the company surpassed 8,000 Bitcoin (CRYPTO: BTC) in its corporate treasury holdings. ‘Onwards We Go’ Trump shared this in an X post, adding that the firm achieved a 52% mining profit margin in the first quarter and maintained “one of the lowest” Selling, General, and Administrative ratios—a measure of a company’s overhead costs relative to its total revenue—in the industry. “The stacking continues,” Trump sai
-
-Yahoo Finance • 19h ago
+Barron's • 13h ago
 
 ---
 
-**[🔎 Under the Radar: American Bitcoin Stock Slides After Reverse Stock Split](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-under-the-radar-american-bitcoin-stock-slides-after-reverse-stock-split-ZnKjsStkzpGy0kQDxx4g)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide as Trump Warns Iran Strikes Could Get 'Much Worse': Analyst Flags Major 'Wall' BTC Bulls Must Break](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slide-015114439.html)**
 
-WSJ • 1d ago
+Leading cryptocurrencies fell alongside stocks on Wednesday as the U.S. strikes against Iran threaten peace negotiations. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-1.90%$62,323.71Ethereum (CRYPTO: ETH) -1.76%$1,744.96XRP (CRYPTO: XRP) -1.87%$1.09Solana (CRYPTO: SOL) -2.44%$78.29Dogecoin (CRYPTO: DOGE) -2.07%$0.07265 Crypto Market Shakes Bitcoin slipped under $61,500, then climbed back above $62,000 overnight. Ethereum oscillated within the $1,700 regio
 
----
-
-**[Trump-Backed American Bitcoin (ABTC) Pushes Treasury Past 8,000 BTC](https://bitcoinmagazine.com/news/trump-backed-american-bitcoin-abtc)**
-
-American Bitcoin (Nasdaq: ABTC) said its treasury has surpassed 8,000 BTC.
-
-Bitcoin Magazine • 2d ago
-
----
-
-**[Crypto kiosks were used to scam $56 million from Texans last year. Lawmakers are calling for regulation.](https://www.texastribune.org/2026/07/08/texas-cryptocurrency-kiosk-bitcoin-atm-scam-fraud/)**
-
-The Texas Tribune • 13h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,15 +183,21 @@ The Texas Tribune • 13h ago
 
 A bitcoin mining data center in Crossville is generating noise complaints from neighboring businesses, and city officials say they are considering a two-year moratorium on future data centers while they work to establish additional regulations.
 
-WVLT • 20h ago
+WVLT • 23h ago
 
 ---
 
-**[Current price of Bitcoin for July 6, 2026](https://fortune.com/article/price-of-bitcoin-07-06-2026/)**
+**[Trump Accounts Praised by Bitcoin Bull Mike Novogratz: Galaxy Will Match $1,000 Contribution for Employees' Kids](https://finance.yahoo.com/markets/crypto/articles/trump-accounts-praised-bitcoin-bull-013103419.html)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Mike Novogratz, CEO of Galaxy Digital Inc., pledged on Monday that the company will match the federal government’s initial $1,000 funding to the “Trump Accounts” program for eligible children of employees. Novogratz Hails ‘Trump Accounts’ Initiative Novogratz, who was present...
 
-Fortune • 2d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Michael Saylor’s Strategy Is Trapped by Its Own Broken Bitcoin Math](https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6)**
+
+WSJ • 2d ago
 
 ---
 
@@ -215,13 +205,27 @@ Fortune • 2d ago
 
 Strategy sold $216 million worth of Bitcoin at a loss to pay back investors.
 
-Morning Brew • 18h ago
+Morning Brew • 22h ago
 
 ---
 
-**[Bitcoin Drops After Trump Says U.S.-Iran Cease-Fire Is Over](https://www.barrons.com/articles/bitcoin-price-trump-iran-75458510)**
+**[Crypto kiosks were used to scam $56 million from Texans last year. Lawmakers are calling for regulation.](https://www.texastribune.org/2026/07/08/texas-cryptocurrency-kiosk-bitcoin-atm-scam-fraud/)**
 
-Barron's • 9h ago
+The Texas Tribune • 17h ago
+
+---
+
+**[Will Quantum Crack Crypto? Why Bitcoin Owners Worry](https://www.bloomberg.com/news/articles/2026-07-07/will-quantum-computers-hack-bitcoin-and-other-cryptocurrencies)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Adam Back's BSTR and Cantor to revise SPAC merger structure](https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal)**
+
+BSTR and Cantor Equity Partners will not complete their merger under the original July 2025 agreement, with the shareholder meeting postponed indefinitely.
+
+CoinDesk • 13h ago
 
 ---
 
@@ -247,11 +251,19 @@ Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign
 
 ---
 
+**[Bull Bitcoin challenges EU's DAC8 crypto surveillance rules in French court](https://news.ycombinator.com/item?id=48839604)**
+
+Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal challenge before France's Conseil d'État to annul Decree No. 2025-1276, which implements the EU's DAC8 crypto tax reporting directive. The exchange argues the rules create a mass surveillance database linking identities and crypto activity, endangering holders' physical safety.
+
+⬆️ 2 • 💬 1 • 2h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
+
+---
+
 **[Satd: Bitcoin Transaction Filtering Language](https://news.ycombinator.com/item?id=48837026)**
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 3h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
+⬆️ 2 • 💬 1 • 6h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
 
 ---
 
@@ -267,7 +279,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 Read this crypto post from greatHydra_997 posted on 2026/07/08 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 2 • 💬 0 • 4h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377612382/)
+⬆️ 2 • 💬 0 • 8h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377612382/)
 
 ---
 
@@ -295,77 +307,7 @@ The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altco
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 89 • ⏱️ 9:12 • 1d ago
-
----
-
-**[Real Reason Behind This Bear Move and Where Bitcoin Goes Next](https://www.youtube.com/watch?v=tC4KJp8ci9s)**
-
-Lyn Alden breaks down the direct correlation between Bitcoin's recent consolidation and the massive capital drain into AI tech ...
-
-📺 Natalie Brunell
-
-👁️ 2K • 👍 44 • 💬 30 • ⏱️ 0:36 • 11h ago
-
----
-
-**[The Bitcoin buyers are coming back](https://www.youtube.com/watch?v=P-6C9MbfLU8)**
-
-Bitcoin just had its best week since March—but that's not the most important story. In this episode of The Daily Wolf, Scott Melker ...
-
-📺 Yahoo Finance
-
-👁️ 14K • 👍 524 • 💬 194 • ⏱️ 14:54 • 1d ago
-
----
-
-**[Bitcoin Strategic Reserve Coming?🔥Crypto Market Update](https://www.youtube.com/watch?v=Q73PQU9774A)**
-
-The Trump administration's plan to create a Strategic Bitcoin Reserve has been complicated by two government departments ...
-
-📺 Paul Barron Network
-
-👁️ 45K • 👍 2K • 💬 117 • ⏱️ 16:05 • 1d ago
-
----
-
-**[Lyn Alden: Why This Is the Worst Bitcoin Sentiment She&#39;s Ever Seen](https://www.youtube.com/watch?v=lIg0G0z2KkY)**
-
-Is Bitcoin's bear market almost over? Macro analyst Lyn Alden joins Coin Stories to give her honest read on Bitcoin's price, where ...
-
-📺 Natalie Brunell
-
-👁️ 44K • 👍 2K • 💬 287 • ⏱️ 59:57 • 1d ago
-
----
-
-**[The next Bitcoin boom won&#39;t come from retail](https://www.youtube.com/watch?v=MHiDAWg7ORc)**
-
-Bitcoin isn't searching for a new narrative. It's searching for a new buyer. In this episode of The Daily Wolf, Scott Melker explains ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 324 • 💬 144 • ⏱️ 14:54 • 7h ago
-
----
-
-**[Strategy Went From Never Selling Bitcoin to Losing Money Trading It.](https://www.youtube.com/watch?v=S9uNaVKoLDI)**
-
-Strategy built their entire brand around never selling Bitcoin. Now they have a Bitcoin monetization program and are actively ...
-
-📺 Galaxy
-
-👁️ 401 • 👍 3 • ⏱️ 0:37 • 3h ago
-
----
-
-**[Bitcoin DUMPS To $62K As Iran War Escalates – Matt Hougan Live](https://www.youtube.com/watch?v=kUKmZQDxEr0)**
-
-Bitcoin #Crypto #finance Bitcoin fell below $62K after renewed U.S.-Iran tensions triggered a broader risk-off move across markets ...
-
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 610 • 💬 174 • ⏱️ 35:18 • 9h ago
+👁️ 35K • 👍 2K • 💬 96 • ⏱️ 9:12 • 1d ago
 
 ---
 
@@ -375,17 +317,87 @@ Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https:
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 153 • ⏱️ 11:24 • 11h ago
+👁️ 54K • 👍 3K • 💬 164 • ⏱️ 11:24 • 15h ago
 
 ---
 
-**[Bitcoin Deja Vu](https://www.youtube.com/watch?v=rxekpAAHwRs)**
+**[Last Time THIS Happened Bitcoin Exploded 20x (It&#39;s Happening Again!)](https://www.youtube.com/watch?v=OpOPKHOgK34)**
 
-Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com For inquiries and to subscribe to the ...
+The biggest attacks on Bitcoin have often become its biggest strengths. The 2017 Fork Wars proved that no company, miner, ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 25K • 👍 486 • 💬 12 • ⏱️ 0:29 • 1d ago
+👁️ 5K • 👍 713 • 💬 63 • ⏱️ 19:44 • 2h ago
+
+---
+
+**[Real Reason Behind This Bear Move and Where Bitcoin Goes Next](https://www.youtube.com/watch?v=tC4KJp8ci9s)**
+
+Lyn Alden breaks down the direct correlation between Bitcoin's recent consolidation and the massive capital drain into AI tech ...
+
+📺 Natalie Brunell
+
+👁️ 4K • 👍 56 • 💬 48 • ⏱️ 0:36 • 15h ago
+
+---
+
+**[Saylor&#39;s Biggest Bitcoin Sale Ever Just Fooled Everyone!](https://www.youtube.com/watch?v=kyh6B7jhOuM)**
+
+Michael Saylor and Strategy just made their biggest Bitcoin sale ever — and the mainstream media is calling it broken Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 49K • 👍 4K • 💬 341 • ⏱️ 20:18 • 2d ago
+
+---
+
+**[Bitcoin DUMPS To $62K As Iran War Escalates – Matt Hougan Live](https://www.youtube.com/watch?v=kUKmZQDxEr0)**
+
+Bitcoin #Crypto #finance Bitcoin fell below $62K after renewed U.S.-Iran tensions triggered a broader risk-off move across markets ...
+
+📺 The Wolf Of All Streets
+
+👁️ 14K • 👍 659 • 💬 228 • ⏱️ 35:18 • 13h ago
+
+---
+
+**[Bitcoin Strategic Reserve Coming?🔥Crypto Market Update](https://www.youtube.com/watch?v=Q73PQU9774A)**
+
+The Trump administration's plan to create a Strategic Bitcoin Reserve has been complicated by two government departments ...
+
+📺 Paul Barron Network
+
+👁️ 47K • 👍 2K • 💬 119 • ⏱️ 16:05 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum&#39;s Biggest Test Is Happening RIGHT NOW (Targets)](https://www.youtube.com/watch?v=BlmXuZRpzcQ)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 406 • 💬 144 • ⏱️ 16:41 • 11h ago
+
+---
+
+**[Will Japan&#39;s Bond Collapse Take Down the World Economy? | Here&#39;s What They&#39;re Hiding](https://www.youtube.com/watch?v=69rFMqpwCD4)**
+
+A massive shift is happening in Japan, and almost nobody is paying attention. As the yen weakens and bond yields surge, the ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 103 • ⏱️ 15:04 • 1d ago
+
+---
+
+**[We FINALLY Know Whats Happening With The Strategic Bitcoin Reserve ... | EP 1542](https://www.youtube.com/watch?v=vq5ZHYks4tE)**
+
+Bloomberg dropped a new insight into the strategic bitcoin reserve explaining why we haven't seen anything yet .
+
+📺 Simply Bitcoin
+
+👁️ 10K • 👍 418 • 💬 62 • ⏱️ 1:48:05 • 1d ago
 
 ---
 
