@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-09T03:26:17.528742+00:00'
+updated: '2026-07-09T07:02:38.684034+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 03:26 UTC  
+**Last Updated:** July 09, 2026 at 07:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,743.84
+### $1,730.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -1.7%  
-**30d:** +6.7%  
-**90d:** -24.4%  
-**1y:** -41.4%  
+**24h:** +1.5%  
+**7d:** +0.1%  
+**30d:** +8.6%  
+**90d:** -23.0%  
+**1y:** -40.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $208.33B
+**Market Cap:** $211.53B
 Rank #2
 
 **Circulating Supply:** 120,683,101 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.1%
+-64.5%
 
 **All-Time Low:** $0.43
-+398690.7%
++405127.5%
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
 **[Ethereum has just crossed another major milestone.](https://www.reddit.com/r/ethereum/comments/1uqwiwi/ethereum_has_just_crossed_another_major_milestone/)**
 
-11h ago
+15h ago
 
 ---
 
 **[我现在开始学习和练习Web3还会太晚吗？如果不晚，一个完全的新手应该从哪些方面入手？](https://www.reddit.com/r/ethereum/comments/1ur3q21/我现在开始学习和练习web3还会太晚吗如果不晚一个完全的新手应该从哪些方面入手/)**
 
-7h ago
+11h ago
 
 ---
 
@@ -92,13 +92,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Abstract The smart-contract ecosystem already depends heavily on code reuse, but that reuse has not yet become shared on-chain infrastructure. Similar logic is repeatedly redeployed across projects, creating duplicated infrastructure that increases long-term maintenance, audit, and security burdens for the ecosystem. Compose introduces Smart Contract Oriented Programming, or SCOP, to bring reuse into the deployed architecture itself. Using diamonds and stateless facets, Compose enables modular on-chain systems that are easier to build and trust across their lifecycle.
 
-🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 11h ago
+🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 15h ago
 
 ---
 
 **[USDC on eth to Arbitrum](https://www.reddit.com/r/ethereum/comments/1uqni8k/usdc_on_eth_to_arbitrum/)**
 
-18h ago
+21h ago
 
 ---
 
@@ -106,7 +106,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -114,7 +114,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about the post quantum migration for a while and built a small tool that scores exposure risk for any Ethereum address. How it works: every ECDSA signed transaction reveals the signer's public key on chain. Once you have sent one transaction from an address, that public key is on chain permanently. If a sufficiently capable quantum computer arrives, it can derive the private key from that public key using Shor's algorithm. The tool takes any EVM address or ENS name and returns: - Whether the public key is already on chain (exposed) - The value at risk - How long the exposure has existed - A 0 to 100 exposure score Read only. No wallet connection. No signup. claak.io/scan Vitalik.eth is prefilled as a demo. The scanner is free and standalone. Full disclosure: I contribute to Claak, but this post is about the scanner as an open piece of crypto tooling for the community. Google's March paper cut the qubit threshold to roughly 1,152 logical qubits. Eigen Labs' open ecdsa.fail benchmark is past Google. NSA has set 2030 as the migration deadline. Happy to walk through methodology if anyone is curious. What score did you get on your main address?
 
-1d ago
+2d ago
 
 ---
 
@@ -130,7 +130,7 @@ does decentralized governance in DAOs really work? this is an almost existential
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -152,19 +152,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide as Trump Warns Iran Strikes Could Get 'Much Worse': Analyst Flags Major 'Wall' BTC Bulls Must Break](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slide-015114439.html)**
+**[Bitcoin, Ethereum, XRP Flat, Dogecoin Falls Amid Strategic Bitcoin Reserve Push: Analyst Says 'a Lot of' Upside to Come If BTC Does This](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-flat-dogecoin-023134561.html)**
 
-Leading cryptocurrencies fell alongside stocks on Wednesday as the U.S. strikes against Iran threaten peace negotiations. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-1.90%$62,323.71Ethereum (CRYPTO: ETH) -1.76%$1,744.96XRP (CRYPTO: XRP) -1.87%$1.09Solana (CRYPTO: SOL) -2.44%$78.29Dogecoin (CRYPTO: DOGE) -2.07%$0.07265 Crypto Market Shakes Bitcoin slipped under $61,500, then climbed back above $62,000 overnight. Ethereum oscillated within the $1,700 regio
+Leading cryptocurrencies moved sideways on Monday as high-profile Bitcoin sell-offs were offset by growing optimism for a Strategic Bitcoin Reserve. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:50 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.63%$63,925.65Ethereum (CRYPTO: ETH) +0.52%$1,794.35XRP (CRYPTO: XRP) -0.88%$1.14Solana (CRYPTO: SOL) +0.44%$81.97Dogecoin (CRYPTO: DOGE) -1.95%$0.07618 Bitcoin Dips And Then Rips Bitcoin dipped to the mid-$61,000 range in early trading after Strategy Inc. (NASDAQ
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
+**[Vitalik Buterin says Ethereum's next rebuild will rival the Merge, and take three to four years](https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years)**
 
-The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
+He said quantum safety has "shifted up a LOT in priority" and that Hegota, slated for later this year, will likely be Ethereum's last "pre-Lean" hard fork.
 
-CoinDesk • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -200,7 +200,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 18h ago
 
 ---
 
@@ -208,23 +208,23 @@ Fortune • 14h ago
 
 DUBAI, United Arab Emirates, July  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto is getting ready to launch its innovative DeFi ...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces renewed selling, ETH weakens, XRP risks deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-renewed-selling-eth-weakens-xrp-risks-deeper-losses-202607080314)**
+**[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) face renewed selling on Wednesday, extending their corrective move so far this week. BTC faced rejection at $64,000, and ETH failed to break above the 50-day Exponential Moving Average (EMA).
+The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
 
-FXStreet • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Top Analyst Reveals A Key Level Which Will Trigger Bullish Rally For Ethereum](https://coinpedia.org/news/top-analyst-reveals-a-key-level-which-will-trigger-bullish-rally-for-ethereum/)**
+**[Crypto Today: Bitcoin, Ethereum, XRP extend technical weakness amid escalating tensions in the Middle East](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-technical-weakness-amid-escalating-tensions-in-the-middle-east-202607081215)**
 
-Ethereum has recovered from yesterday's sharp sell-off and is once again testing the crucial $1,800 resistance level. After falling to nearly $1,728
+Cryptocurrencies are broadly extending declines on Wednesday, after last week’s recovery. The sell-off has seen Bitcoin (BTC) slide below $62,000, increasing downside risks toward the next key support at $60,000.
 
-Coinpedia • 1d ago
+FXStreet • 18h ago
 
 ---
 
@@ -232,23 +232,23 @@ Coinpedia • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: Why Ethereum Will Make You Rich (You&#39;re Not Too Late)](https://www.youtube.com/watch?v=NR9pvNbOA6o)**
-
-Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Michaël van de Poppe to explain why he thinks ETH ...
-
-📺 New Era Finance Podcast
-
-👁️ 16K • 👍 505 • 💬 61 • ⏱️ 34:28 • 1d ago
-
----
-
 **[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 144 • 💬 24 • ⏱️ 13:21 • 11h ago
+👁️ 3K • 👍 155 • 💬 22 • ⏱️ 13:21 • 14h ago
+
+---
+
+**[Tom Lee: Why Ethereum Will Make You Rich (You&#39;re Not Too Late)](https://www.youtube.com/watch?v=NR9pvNbOA6o)**
+
+Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Michaël van de Poppe to explain why he thinks ETH ...
+
+📺 New Era Finance Podcast
+
+👁️ 17K • 👍 535 • 💬 62 • ⏱️ 34:28 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 406 • 💬 144 • ⏱️ 16:41 • 11h ago
+👁️ 7K • 👍 429 • 💬 141 • ⏱️ 16:41 • 14h ago
 
 ---
 
@@ -268,17 +268,7 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 13K • 👍 2K • 💬 364 • ⏱️ 13:04 • 1d ago
-
----
-
-**[Why Ethereum Is Headed to $20,000+](https://www.youtube.com/watch?v=HFsuTTrdW7Y)**
-
-Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
-
-📺 Credible Crypto
-
-👁️ 18K • 👍 1K • 💬 117 • ⏱️ 1:03:11 • 2d ago
+👁️ 13K • 👍 2K • 💬 369 • ⏱️ 13:04 • 1d ago
 
 ---
 
@@ -288,17 +278,7 @@ Saylor: Never sell your Bitcoin. Also Saylor: Sells Bitcoin. Everyone is focused
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 498 • 💬 233 • ⏱️ 17:12 • 2d ago
-
----
-
-**[Ethereum Is Betting Everything on This Roadmap](https://www.youtube.com/watch?v=BE2BM522-Q0)**
-
-Ethereum is trying to solve five major problems at once — speed, decentralization, economics, privacy, and even quantum ...
-
-📺 CoinGecko
-
-👁️ 10K • 👍 422 • 💬 101 • ⏱️ 10:28 • 2d ago
+👁️ 10K • 👍 498 • 💬 221 • ⏱️ 17:12 • 2d ago
 
 ---
 
@@ -308,7 +288,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 3K • 👍 226 • 💬 123 • ⏱️ 19:56 • 6h ago
+👁️ 4K • 👍 274 • 💬 126 • ⏱️ 19:56 • 9h ago
 
 ---
 
@@ -318,17 +298,37 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 14K • 👍 809 • 💬 166 • ⏱️ 21:46 • 1d ago
+👁️ 15K • 👍 822 • 💬 168 • ⏱️ 21:46 • 1d ago
 
 ---
 
-**[ETH BREAKDOWN WARNING! (Ethereum Price Prediction)](https://www.youtube.com/watch?v=QCaRSImJ-QE)**
+**[Why Ethereum Is Headed to $20,000+](https://www.youtube.com/watch?v=HFsuTTrdW7Y)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
-📺 Cilinix Crypto
+📺 Credible Crypto
 
-👁️ 310 • 👍 20 • 💬 11 • ⏱️ 4:52 • 16h ago
+👁️ 18K • 👍 1K • 💬 122 • ⏱️ 1:03:11 • 2d ago
+
+---
+
+**[This Ethereum Trendline Is About to Decide Fate Of Altcoins](https://www.youtube.com/watch?v=OJk4XTvUcE8)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 451 • 💬 187 • ⏱️ 19:01 • 1d ago
+
+---
+
+**[BTC Rejected - Ethereum  To Identify as Cardano - Emurgo is OUT!](https://www.youtube.com/watch?v=1JGznCl8t-8)**
+
+https://polymarketmaker.io - For Serious Prediction Market Traders https://cryptocrow.io 🎙️ New to streaming or looking to level ...
+
+📺 Crypto Crow
+
+👁️ 2K • 👍 221 • 💬 23 • ⏱️ 1:16:59 • 13h ago
 
 ---
 

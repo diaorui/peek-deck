@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-09T03:26:17.531524+00:00'
+updated: '2026-07-09T07:02:38.687277+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 09, 2026 at 03:26 UTC  
+**Last Updated:** July 09, 2026 at 07:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 Is there anyone who could help me regarding controlling multiple robstride o2 motor? What im trying to do is to control multiple Robstride o2 motors (preferably 3) with the default CAN to USB debugger it came with. Is it possible to control multiple motor with that?. I search around the internet for guides, says it'll work if i daisy chained the motor?. I tried wiring 2 motors , first i tried to wire it parallel and second i tried Daisy chain wiring. But it always result the same. Using robstride official software motorstudio it only detects and control 1 motor (the nearest motor to the CAN-USB debugger). And i know it's not a faulty motor or anything since if i only test 1 motor using the CAN-USB debugger . The motor still works (i can rotate it around and such) I tried using ai to solve this. And it still dont work. I mean i understand that ai can sometimes be bs. So if anyone here can help me, That would be really great, also sorry if this is a dumb question 🙏
 
-2d ago
+3d ago
 
 ---
 
@@ -118,13 +118,13 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 13h ago
+mistral.ai • 16h ago
 
 ---
 
 **[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -138,15 +138,15 @@ Forbes • 1d ago
 
 **[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
 
-Nature • 11h ago
+Nature • 15h ago
 
 ---
 
-**[This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)**
+**[Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First](https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first)**
 
-While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
+For the first time, two teleoperated humanoid robots have been used to complete two surgeries during a preclinical trial, researchers report in the July 8 issue of the journal Nature.
 
-TechCrunch • 2d ago
+UC San Diego Today • 17h ago
 
 ---
 
@@ -154,7 +154,13 @@ TechCrunch • 2d ago
 
 CMU's Robotics Innovation Center welcomed global technology company Fujitsu Limited as its latest corporate tenant in the university’s robotics and artificial intelligence research facility at Hazelwood Green.
 
-Carnegie Mellon University • 13h ago
+Carnegie Mellon University • 17h ago
+
+---
+
+**[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
+
+Honolulu Civil Beat • 1d ago
 
 ---
 
@@ -166,11 +172,11 @@ BBC • 2d ago
 
 ---
 
-**[EXCLUSIVE: The Biggest Robotics Problem Isn't Batteries or AI. It's ROI](https://finance.yahoo.com/technology/articles/exclusive-biggest-robotics-problem-isnt-143113875.html)**
+**[BlackBerry Sees Strong Pipeline Across Robotics and Automation](https://finance.yahoo.com/technology/articles/blackberry-sees-strong-pipeline-across-121800442.html)**
 
-The robotics industry has spent years trying to build smarter AI, more dexterous humanoids and longer-lasting batteries. But those may not be the hurdles preventing robots from going mainstream. The bigger challenge, according to Jerry Wang, Global Executive Chairman of...
+BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -178,15 +184,7 @@ Yahoo Finance • 12h ago
 
 Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
 
-Fortune • 20h ago
-
----
-
-**[How AI could enable autonomous robot workers in workplaces—and maybe homes](https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)**
-
-Top robotics researchers and founders explain how robot autonomy is evolving.
-
-Ars Technica • 1d ago
+Fortune • 1d ago
 
 ---
 
@@ -200,7 +198,7 @@ The French startup UMA just unveiled its flagship humanoid robot worker just nin
 
 📺 Kalil 4.0
 
-👁️ 670 • 👍 33 • 💬 3 • ⏱️ 0:57 • 5h ago
+👁️ 952 • 👍 42 • 💬 3 • ⏱️ 0:57 • 8h ago
 
 ---
 
@@ -210,7 +208,17 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 52K • 👍 2K • 💬 477 • ⏱️ 20:21 • 1d ago
+👁️ 56K • 👍 2K • 💬 492 • ⏱️ 20:21 • 1d ago
+
+---
+
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+
+📺 Munro Live
+
+👁️ 12K • 👍 623 • 💬 111 • ⏱️ 38:47 • 17h ago
 
 ---
 
@@ -220,7 +228,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 100K • 👍 2K • 💬 475 • ⏱️ 13:32 • 4d ago
+👁️ 100K • 👍 2K • 💬 476 • ⏱️ 13:32 • 4d ago
 
 ---
 
@@ -230,7 +238,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 136K • 👍 4K • 💬 238 • ⏱️ 10:56 • 4d ago
+👁️ 140K • 👍 4K • 💬 243 • ⏱️ 10:56 • 4d ago
 
 ---
 
@@ -238,7 +246,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 GUYMANITOR
 
-👁️ 20K • 👍 113 • 💬 3 • ⏱️ 0:17 • 4d ago
+👁️ 20K • 👍 118 • 💬 3 • ⏱️ 0:17 • 4d ago
 
 ---
 
@@ -252,23 +260,13 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 ---
 
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 62K • 👍 3K • 💬 139 • ⏱️ 11:20 • 2d ago
-
----
-
 **[Ubtechs New U1 UWORLD Robots Shocked The Robot Industry (Ultra Lifelike Androids)](https://www.youtube.com/watch?v=pHUNbCKYn3w)**
 
 Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
 
 📺 TheAIGRID
 
-👁️ 19K • 👍 355 • 💬 92 • ⏱️ 11:41 • 6d ago
+👁️ 19K • 👍 357 • 💬 92 • ⏱️ 11:41 • 6d ago
 
 ---
 
@@ -288,7 +286,7 @@ The future of humanoid robots has officially arrived. UBTECH has unveiled the UW
 
 📺 DPCcars
 
-👁️ 100K • 👍 441 • 💬 221 • ⏱️ 2:50 • 6d ago
+👁️ 101K • 👍 442 • 💬 221 • ⏱️ 2:50 • 6d ago
 
 ---
 

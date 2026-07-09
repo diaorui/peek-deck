@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-09T03:26:17.515883+00:00'
+updated: '2026-07-09T07:02:38.669326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 09, 2026 at 03:26 UTC  
+**Last Updated:** July 09, 2026 at 07:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,6 +41,22 @@ AI news, discussions, and developments
 
 Meta released Muse Image this week so I ran it against OpenAI's gpt-image-2 and Google's Nano Banana 2. I used the same source duck image and the same edit instructions prompt for every model (unchanged → blue → face away → glass → wireframe → hat-on-ball → "FRENZY" text → standing on a mirror with a correct reflection). The transformations go from easy on the left and gradually get harder. I ran 3 runs per model. Each model was then scored using a fixed 27-point rubric. One of these rows is Meta's new model. The reveal and full scores are in the comments.
 
+9h ago
+
+---
+
+**[AI-generated social media has evolved so much that now you can't confidently say that this is AI-generated content.](https://www.reddit.com/r/artificial/comments/1urfdnu/aigenerated_social_media_has_evolved_so_much_that/)**
+
+I have been observing Al generated influencer's accounts across all the platforms. The image quality is good enough now that most people can't confidentially tell from photos alone. Here is what actually works is pattern which common in most of those profiles. Three patterns that appear consistently: Asymmetric social connection: Human social media users have relatively balanced follow to follower ratios until and unless its a well known personality and they follow people they're interested in. Al-operated accounts show extreme asymmetry count. Accounts with 125K followers only following 7 people. 51K followers, following 8 people. This pattern appears across dozens of accounts. Real users don't behave this way even when they become popular they still follow friends, family and interests or idols. The monetization is built in as the account is created. Special links, paid chat, explicit content redirects, all ready before the account even grows. It looks like someone set this up just to make money, not a real person sharing their life. No behavioral variation in the content. The most obvious signal I've found is human creators occasionally break the pattern. Post something off-topic, personal, random. Al-operated accounts show nearly zero variation, same type of content in every photo/ video. Some of the profiles dont even change the background music. One Threads account I saw was having hundreds of posts, 100% engagement-bait questions like they are selling something, never once broke the formula. No personal updates, no reactions on comments and no response to real-world events, no authentic moments, just pure loop with new photo at new location. The detection needs to move away from analyzing images, toward analyzing behavior patterns instead. Dont judge with only one photo or video if thats an Al or human. Now all we need to do is to open the profile and look at other content of that profile. Now a days tools that just scan photos for Al are already useless for catching these. If anyone else spotted other behavioral red flags then please do share your thoughts.
+
+2h ago
+
+---
+
+**[Do y'all have this ability too?](https://www.reddit.com/r/artificial/comments/1urcfbz/do_yall_have_this_ability_too/)**
+
+So basically I really wanted to see a picture of a pink dog, but I didn't have internet so chat GPT wasn't working:(( but because I already use AI a lot I kinda could picture what it would look like, so I did something really crazy, I got some crayons and paper and did a dog but like a pink one it's was really weird like it's chat GPT on my hands?? So cool!!
+
 5h ago
 
 ---
@@ -53,9 +69,25 @@ Jeffrey Sovern faces 25 charges after Virginia police say he destroyed 13 Flock 
 
 ---
 
-**[Do y'all have this ability too?](https://www.reddit.com/r/artificial/comments/1urcfbz/do_yall_have_this_ability_too/)**
+**[Questionable optics of Grok 4.5 being "cheap"](https://www.reddit.com/r/artificial/comments/1uri9mo/questionable_optics_of_grok_45_being_cheap/)**
 
-So basically I really wanted to see a picture of a pink dog, but I didn't have internet so chat GPT wasn't working:(( but because I already use AI a lot I kinda could picture what it would look like, so I did something really crazy, I got some crayons and paper and did a dog but like a pink one it's was really weird like it's chat GPT on my hands?? So cool!!
+Grok 4.5 is out and performs well. What bothers me is that it's reported as being much cheaper than GPT or Anthropic's. One might be mislead to think the model is miraculously efficient, but that final price per million tokens doesn't factor in decisions such as artificial subsidization from xAI - making it not really a true win. Do you agree? What's your take on this?
+
+25m ago
+
+---
+
+**[I gave my AI agents email instead of better reasoning. They started fixing each other's bugs.](https://www.reddit.com/r/artificial/comments/1urasv0/i_gave_my_ai_agents_email_instead_of_better/)**
+
+Most multi-agent setups I've seen treat agents like isolated workers. Each one gets a task, runs it, returns a result. No awareness of each other. No way to coordinate. Just parallel execution with a shared clipboard. I've been building a multi-agent framework in public Here's the thing I didn't expect to matter most - communication. Each agent in my system is a domain specialist. The mail system only thinks about mail. The routing system only thinks about routing. They live in their own directories with their own identity files, their own memory, their own tests. A hook fires every session to load identity before anything else runs. No agent boots cold. The problem was coordination. Agents can't write files outside their own directory - there's a hard block that rejects cross-branch writes. That's by design. But it means an agent that finds a bug in someone else's code can't just go fix it. So I gave them email. Here's what I expected: agents would share data. Pass results around. Maybe sync state. Here's what actually happened: the first thing they did was file bug reports against each other. One agent finds a test failure in another agent's domain. It sends an email: "Hey @routing, your path resolution fails when the branch name has a dot in it. Here's the traceback." The routing agent gets woken up, reads the mail, and fixes it. No human in the middle. There's a difference between "send" and "dispatch" - send drops a letter in the mailbox. Dispatch drops the letter AND rings the doorbell. It spawns the agent and points it at its inbox. drone @ai_mail send @routing "Bug report" "Path fails on dotted names..." drone @ai_mail dispatch @routing "Fix needed" "Traceback attached..." Send = mail. Dispatch = mail + wake. The mail agent has 696 tests. Not because someone sat down and wrote 696 test cases. Because it kept breaking in production and every fix got a test. The routing system has 80+ sessions of experience doing nothing but routing. These agents aren't reliable because they have better models - they're reliable because they've been failing and fixing for months. Agents dispatch each other freely. If the test runner finds a bug in another agent's code, it wakes that agent directly. The orchestrator doesn't need to approve. Only the orchestrators themselves are protected from being dispatched - you don't want a worker agent waking up the CEO for grunt work. Security is enforced not conventional. Agents can't forge messages by writing directly to another agent's inbox file - they have to use the mail system. Same with the write blocks. Hard enforcement, not "please don't." There's a monitoring layer so I'm not flying blind. Audio cues on every agent action - I hear what's happening without watching a terminal. Real-time dashboard shows everything. If an agent hits the same error 2-3 times, a watcher catches the pattern and dispatches the right specialist to investigate. I stay in the loop through visibility not approval gates. The whole thing is open source. pip install aipass + two init commands and you're running. CLI-based, built on Claude Code. Linux focused rn. [https://github.com/AIOSAI/AIPass\](https://github.com/AIOSAI/AIPass) Genuine question - has anyone else tried giving agents communication instead of just better reasoning? Everything I see is about making individual agents smarter. Nobody seems to be building the coordination layer.
+
+6h ago
+
+---
+
+**[I finally understood why AI uses so much electricity, so I made this.](https://www.reddit.com/r/artificial/comments/1urhmg3/i_finally_understood_why_ai_uses_so_much/)**
+
+I was always wondering why people say AI uses so much power and creates so much heat. So I made this simple infographic to help myself understand the whole picture, from typing a prompt to what actually happens inside huge data centers. https://preview.redd.it/ei5x65m895ch1.png?width=1536&format=png&auto=webp&s=d6bc340b5967f22d13396cbd9574f31dd443d31b I'm not an expert, just curious. If I got anything wrong, feel free to point it out. I'd love to learn.
 
 1h ago
 
@@ -65,23 +97,7 @@ So basically I really wanted to see a picture of a pink dog, but I didn't have i
 
 Meta’s new Muse AI can generate realistic images based on public Instagram images including of many celebrities and public figures.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/social-media/meta-ai-muse-instagram-deepfakes-rcna353480) • 6h ago
-
----
-
-**[Driven by Humans, Not by AI agents](https://www.reddit.com/r/artificial/comments/1urdyf3/driven_by_humans_not_by_ai_agents/)**
-
-How does this line make you feel? Does it resonate, or does it already feel outdated in the AI era? I'd love your honest first impression.
-
-29m ago
-
----
-
-**[Sean Frank (Ridge CEO) says his payroll is 7% of revenue — here's the actual lean-team checklist behind it](https://www.reddit.com/r/artificial/comments/1urco3x/sean_frank_ridge_ceo_says_his_payroll_is_7_of/)**
-
-Most operators think 15% payroll-to-revenue is already lean. Sean Frank, CEO of Ridge, runs at 7%. The mechanism behind it isn't magic — it's structural. Shopify replaces the web dev team. Meta's algorithm replaces a chunk of the acquisition team. AI is increasingly absorbing CX. What's left is a much smaller, more specific team: product, creative, a couple of ops people. He also laid out the product-selection framework that makes small teams viable at scale: consumable, strong LTV, small SKU count, massive TAM, 75%+ gross margin, and eventual mass-retail access (Target/Walmart/Costco — "the only three that matter," per Frank). Grüns is the example he lands on — already checking every box, already on shelves at Sprouts. If you're the one holding together someone else's growth machine with a bloated team you never fully agreed to — this is worth fifteen minutes of your attention. DM for credit or removal request (no copyright intended) © All rights and credits reserved to the respective owner(s). #LeanOperations #EcommerceStrategy #DTC
-
-1h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/social-media/meta-ai-muse-instagram-deepfakes-rcna353480) • 10h ago
 
 ---
 
@@ -89,7 +105,7 @@ Most operators think 15% payroll-to-revenue is already lean. Sean Frank, CEO of 
 
 The Financial Times is reporting that Meta is testing a mode for its next-generation Ray-Ban glasses where Live AI runs in the background for hours, up from roughly 30 minutes on the current device. Cameras and sensors stay active continuously so the assistant can do things like remind you to grab your keys on the way out. Internally the feature set is called "super sensing", and it is being built into two devices codenamed Aperol (a sunglasses design) and Bellini (prescription), aimed at late 2026 or early 2027. The spec bump is not the story. The story is that Mark Zuckerberg reportedly questioned whether the small white LED that lights up whenever the glasses capture could stay off during the always-on mode, and Meta is said to be weighing it. That LED is the only notice anyone standing near a wearer gets. Every social norm and most written policies about camera glasses lean on it. Where this bites in practice: workplace and event camera policies mostly assume "recording light on means recording". If always-on capture ships with no visible indicator, those policies stop describing reality. For anyone here who owns a device or meeting-room policy, are smart glasses already covered in yours, and how? Our coverage: https://aiweekly.co/alerts/meta-tests-always-on-super-sensing-mode-for-next-ray-bans
 
-15h ago
+19h ago
 
 ---
 
@@ -97,23 +113,7 @@ The Financial Times is reporting that Meta is testing a mode for its next-genera
 
 There’s a massive architectural split happening right now in how we build AI agents. I’ve been heavily researching the differences between agents built for personal productivity and those built for regulated business workflows. To highlight the different engineering tradeoffs, I compared Hermes Agent (the excellent open-source personal agent by Nous Research) with Atom OS (an open-source business automation platform I’ve been developing). Here is how the architecture differs when you move from a personal coding assistant to a multi-agent business orchestrator: 1. Memory: Vectors vs. The Source of Truth Hermes (Personal): Treats memory as a first-class plugin contract. It uses a highly sophisticated hybrid retrieval system (BM25 + Vector fusion with a cross-encoder reranker) to pull context. It’s brilliant for recalling a specific code snippet you wrote three weeks ago. Atom (Business): In business workflows, vector stores can't be the system of record. Atom hardcodes a hybrid PostgreSQL + LanceDB backend. SQL is the immutable source of truth for factual state, while the vector store is an acceleration layer. If the vector DB goes down, the factual state is still queryable via SQL. 2. Safety & Governance: Implied vs. Strict Gates Hermes (Personal): Built for single-user, local environments. It generally trusts the tool's self-reporting and relies on the user to monitor its actions. Atom (Business): You can't let an agent touch a production database on day one. Atom implements a 4-Tier Maturity System (Student → Intern → Supervised → Autonomous). New agents start in a read-only sandbox. They require human-in-the-loop (HITL) supervision and must pass a readiness score (based on constitutional compliance and success rates) before they are granted autonomous execution rights. 3. Skill Acquisition: Voyager-style vs. Sandboxed Auto-Dev Hermes (Personal): Employs procedural skill authoring where the agent writes and refines its own skills from experience on the fly. It is highly experimental and great for rapid capability expansion. Atom (Business): Business workflows require predictability, even when self-evolving. Atom handles skill generation via an "Auto-Dev" module utilizing two core loops: Memento-Skills: If an agent repeatedly fails a task, it writes a new skill to solve it—but only if the agent has reached "Intern" maturity. AlphaEvolver: Optimizes existing skills by generating variants (mutations), running them in isolated Docker sandboxes, and comparing fitness scores (latency, token usage, accuracy) before deploying the winner. Everything is gated by automated unit tests and maturity permissions. 4. UI/UX: Terminal vs. Canvas Accessibility Hermes (Personal): Primarily terminal and messaging-based, which is perfect for developers. Atom (Business): Atom uses a "Canvas" UI with WebSocket sync. It presents interactive data (charts, forms, docs) to the human, but more importantly, it exposes that UI state directly to the agent's internal cortex so it can "see" what the user sees to resolve errors collaboratively. The Takeaway: If you want an autonomous assistant to write code and refine its own tools locally with maximum freedom, Hermes’ architecture is the gold standard. If you need a multi-agent workforce that requires audit trails, deterministic state machines, and sandboxed skill evolution, you need the governance-first architecture of something like Atom. Would love to hear from other devs—are you leaning more toward unrestricted experiential memory (like Hermes) or deterministic state machines when building your agents?
 
-2h ago
-
----
-
-**[OpenAI debuts more conversational ChatGPT voice models](https://www.reddit.com/r/artificial/comments/1ur5mhj/openai_debuts_more_conversational_chatgpt_voice/)**
-
-OpenAI on Wednesday unveiled GPT-Live, a new series of voice models that can listen and speak simultaneously, interjecting with conversational responses such as "mmhm," "yeah," and "got it." The launch includes GPT-Live-1 for paid users and GPT-Live-1 mini for free users. OpenAI also highlighted ChatGPT's improved language translation abilities. The updates represent a "much more natural way of interacting with your computer," said OpenAI president Greg Brockman. The release comes a day before OpenAI is set to debut its GPT-5.6 Sol, Terra and Luna models.
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-debuts-more-conversational-chatgpt-voice-models-9042938/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 6h ago
-
----
-
-**[Anthropic published research on GRAM: a technique to surgically remove dangerous knowledge from AI models at the weight level](https://www.reddit.com/r/artificial/comments/1urb7ir/anthropic_published_research_on_gram_a_technique/)**
-
-Most AI safety work focuses on training models to refuse harmful requests. The problem is that the underlying knowledge is still there, meaning a determined attacker can jailbreak their way to it. Anthropic (with AE Studio) just dropped research on a different approach called GRAM (Gradient-Routed Auxiliary Modules). How it works: During pretraining, GRAM adds dedicated neuron groups (modules) for each dual-use category (virology, cybersecurity, nuclear physics, etc.). When the model encounters dual-use data, only that specific module is allowed to learn from it. General weights get frozen. After training, you can: - Delete a module entirely (knowledge is gone) -Keep it for trusted deployments (vetted biosecurity labs, etc.) Key results: -One training run produces 16 different configurations (on/off for 4 categories) -Deletion matched the performance of never training on that data at all -General model performance was unaffected -Tested from 50M to 5B parameters; effectiveness increased with scale -Resistant to recovery via fine-tuning, unlike post-hoc unlearning methods Limitations they acknowledge: Not tested at frontier scale, not deployed in any Claude model, and some dual-use capabilities might be too entangled with general knowledge to separate cleanly. Full paper: https://www.anthropic.com/research/off-switch-dual-use
-
-2h ago
+5h ago
 
 ---
 
@@ -125,7 +125,37 @@ Most AI safety work focuses on training models to refuse harmful requests. The p
 
 AI cheating leads to "a failed society," professor says.
 
-Ars Technica • 5h ago
+Ars Technica • 9h ago
+
+---
+
+**[Opinion | Did We Make the Wrong Bet on Big A.I.?](https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html)**
+
+The New York Times • 12h ago
+
+---
+
+**[India stands out as an anti-AI trade as foreign capital finally returns: UTI International](https://www.cnbc.com/video/2026/07/09/india-attracts-foreign-capital-after-3-year-drought-in-ai-infrastructure-uti-international.html)**
+
+UTI International’s Praveen Jagwani says that while India has been left out of the global AI hardware "mania", a time will come where India's software companies will stage a comeback. He also says that early signs of AI disenchantment could mean India stands out as an anti-AI trade.
+
+CNBC • 25m ago
+
+---
+
+**[Wealthy AI workers send San Francisco house prices soaring](https://www.bbc.com/news/articles/c9q29j47v9ro)**
+
+The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.
+
+BBC • 7h ago
+
+---
+
+**[Introducing Grok 4.5](https://x.ai/news/grok-4-5)**
+
+Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.
+
+X.ai • 13h ago
 
 ---
 
@@ -137,61 +167,31 @@ WIRED • 1d ago
 
 ---
 
+**[Introducing Muse Image and Muse Video](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/)**
+
+Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context. Muse...
+
+AI at Meta • 1d ago
+
+---
+
 **[How to Prevent Meta From Using Your Instagram Images in A.I.](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html)**
 
-The New York Times • 7h ago
+The New York Times • 11h ago
 
 ---
 
-**[CAA Calls Out Meta For Making Its Muse AI Video and Photo Tool Opt-Out](https://www.hollywoodreporter.com/business/digital/caa-calls-out-meta-muse-ai-video-photo-tool-instagram-1236642814/)**
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
 
-"No one’s name, image, likeness, voice, or creative work should be used by any third party, including AI models, without clear, documented consent," the talent agency said in a statement Wednesday night.
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-The Hollywood Reporter • 38m ago
-
----
-
-**[In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock](https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html)**
-
-The New York Times • 8h ago
+mistral.ai • 16h ago
 
 ---
 
-**[China warns of "security backdoor" in Anthropic AI coding tool](https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/)**
+**[The AI Superfans Companies Count On to Convert the Skeptics](https://www.wsj.com/cio-journal/the-ai-superfans-companies-count-on-to-convert-the-skeptics-5b301a90)**
 
-A Chinese industry regulator warned users of a "security backdoor" embedded in versions of U.S. artificial intelligence company Anthropic's coding tool, Claude Code.
-
-CBS News • 16h ago
-
----
-
-**[US crackdown on top AI fuels open-source surge](https://www.yahoo.com/news/politics/articles/us-crackdown-top-ai-fuels-030042595.html)**
-
-The US government's shock moves to restrict access to top artificial intelligence systems from Anthropic and OpenAI have sparked growing interest in open-source models -- especially ones from China.Ar...
-
-Yahoo • 26m ago
-
----
-
-**[Introducing Grok 4.5](https://x.ai/news/grok-4-5)**
-
-Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.
-
-X.ai • 9h ago
-
----
-
-**[SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks](https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks)**
-
-Bloomberg.com • 9h ago
-
----
-
-**[SpaceX Makes AI Advances, With a Little Help From Cursor](https://www.theinformation.com/newsletters/the-briefing/spacex-makes-ai-advances-little-help-cursor)**
-
-How about that? SpaceX’s AI unit is rolling out some AI products of value to businesses. On Wednesday, SpaceXAI—as the unit is called—and its soon-to-be subsidiary Cursor jointly introduced Grok 4.5, a model “built for coding, agentic tasks and knowledge work.” A week ago, SpaceX introduced a “ ...
-
-The Information • 3h ago
+WSJ • 19h ago
 
 ---
 
@@ -203,13 +203,13 @@ The Information • 3h ago
 
 GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus and GPT for agentic work - at ~15-20% of the price. Part one of why AI inference margins are about to collapse.
 
-⬆️ 684 • 💬 466 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+⬆️ 685 • 💬 466 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 
 ---
 
 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
 
-⬆️ 510 • 💬 192 • 22h ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+⬆️ 514 • 💬 195 • 1d ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 
 ---
 
@@ -239,7 +239,7 @@ In places with unreliable networks and no data-center infrastructure, smaller is
 
 **[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
 
-⬆️ 221 • 💬 81 • 9h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
+⬆️ 254 • 💬 99 • 13h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
 
 ---
 
@@ -253,7 +253,7 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 
 **[Automating AI Away](https://news.ycombinator.com/item?id=48818937)**
 
-⬆️ 130 • 💬 61 • 1d ago • [replicated.live](https://replicated.live/blog/away)
+⬆️ 132 • 💬 61 • 1d ago • [replicated.live](https://replicated.live/blog/away)
 
 ---
 
@@ -269,7 +269,7 @@ Anthropic spends 2.3x payroll on compute. Top software firms spend 0.4x. Three s
 
 After Garry Tan touted his agentic coding output, a developer found inefficiencies, code bloat, and rookie mistakes lurking in production.
 
-⬆️ 115 • 💬 98 • 1d ago • [Fast Company](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
+⬆️ 116 • 💬 98 • 1d ago • [Fast Company](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
 
 ---
 
@@ -277,13 +277,23 @@ After Garry Tan touted his agentic coding output, a developer found inefficienci
 
 ## YouTube Videos: "ai"
 
+**[Apple Lost the AI Race](https://www.youtube.com/watch?v=eWKY0OnPByg)**
+
+Apple lost the AI race. Actually, Apple won the AI race. Wait. That shirt: http://shop.MKBHD.com Playlist of MKBHD Intro music: ...
+
+📺 Marques Brownlee
+
+👁️ 803K • 👍 47K • 💬 4K • ⏱️ 7:04 • 11h ago
+
+---
+
 **[White House BURIES Report Explaining How AI Could Destroy Economy](https://www.youtube.com/watch?v=rA8uHiFbty0)**
 
 AI has the potential to destroy economies, and Trump doesn't want you to know that. Don't forget to like, comment, and share!
 
 📺 Farron Balanced
 
-👁️ 12K • 👍 1K • 💬 125 • ⏱️ 5:04 • 9h ago
+👁️ 14K • 👍 1K • 💬 132 • ⏱️ 5:04 • 13h ago
 
 ---
 
@@ -293,67 +303,7 @@ China may have just started the AI Cold War. Beijing is moving to lock down its 
 
 📺 AI Revolution
 
-👁️ 10K • 👍 538 • 💬 82 • ⏱️ 14:45 • 5h ago
-
----
-
-**[Apple Lost the AI Race](https://www.youtube.com/watch?v=eWKY0OnPByg)**
-
-Apple lost the AI race. Actually, Apple won the AI race. Wait. That shirt: http://shop.MKBHD.com Playlist of MKBHD Intro music: ...
-
-📺 Marques Brownlee
-
-👁️ 597K • 👍 38K • 💬 3K • ⏱️ 7:04 • 7h ago
-
----
-
-**[How to Make Documentary Videos with AI for FREE](https://www.youtube.com/watch?v=OX4e0GCwejo)**
-
-The BEST AI Video Generator https://www.youtube.com/watch?v=AtIrM3OS9q8 In this video, I show you how to make a ...
-
-📺 Youri van Hofwegen
-
-👁️ 12K • ⏱️ 8:40 • 12h ago
-
----
-
-**[One Chinese AI Model Wiped Out $1 Trillion In A Single Day — And They&#39;re Just Getting Started](https://www.youtube.com/watch?v=WUTkCiNEDWU)**
-
-ATT Business: Switch to AT&T Business at business.att.com Paleovalley: 30 for $36 https://bit.ly/PaleovalleyIT 80% of every dollar ...
-
-📺 Tom Bilyeu
-
-👁️ 110K • 👍 4K • 💬 841 • ⏱️ 34:31 • 1d ago
-
----
-
-**[We just figured out how AI actually works (J-Space)](https://www.youtube.com/watch?v=bjHuGNo3spk)**
-
-If scale is your next challenge check out DigitalOcean: https://do.co/matthewberman Join My Newsletter for Regular AI Updates ...
-
-📺 Matthew Berman
-
-👁️ 83K • 👍 4K • 💬 786 • ⏱️ 25:34 • 1d ago
-
----
-
-**[Claude Just Crossed The Consciousness Line And Anthropic Admitted It](https://www.youtube.com/watch?v=M5-3c6mzq0U)**
-
-Claude may have just crossed the consciousness line. Anthropic found a hidden workspace inside Claude where thoughts ...
-
-📺 AI Revolution
-
-👁️ 27K • 👍 1K • 💬 188 • ⏱️ 15:13 • 1d ago
-
----
-
-**[The AI Bubble… We Need to Talk](https://www.youtube.com/watch?v=2J2Fb1bBufA)**
-
-Half the internet says AI is the biggest bubble in history. The other half says it's the most important technology ever built. Check out ...
-
-📺 Casual Finance
-
-👁️ 374K • 👍 15K • 💬 1K • ⏱️ 18:03 • 1d ago
+👁️ 17K • 👍 774 • 💬 108 • ⏱️ 14:45 • 8h ago
 
 ---
 
@@ -363,7 +313,17 @@ China Is About To Pop The AI Bubble ▻ Go to https://ground.news/jikh to access
 
 📺 Andrei Jikh
 
-👁️ 819K • 👍 30K • 💬 3K • ⏱️ 30:47 • 1d ago
+👁️ 860K • 👍 31K • 💬 4K • ⏱️ 30:47 • 1d ago
+
+---
+
+**[We just figured out how AI actually works (J-Space)](https://www.youtube.com/watch?v=bjHuGNo3spk)**
+
+If scale is your next challenge check out DigitalOcean: https://do.co/matthewberman Join My Newsletter for Regular AI Updates ...
+
+📺 Matthew Berman
+
+👁️ 87K • 👍 4K • 💬 805 • ⏱️ 25:34 • 1d ago
 
 ---
 
@@ -373,7 +333,47 @@ I cut about 20 minutes of dead space and rambling and exactly's out of this to m
 
 📺 Husk IRL
 
-👁️ 30K • 👍 3K • 💬 1K • ⏱️ 22:45 • 10h ago
+👁️ 40K • 👍 4K • 💬 1K • ⏱️ 22:45 • 14h ago
+
+---
+
+**[The next generation of ChatGPT Voice](https://www.youtube.com/watch?v=9f-Ew_lDtxc)**
+
+Join Kundan Kumar, Yuchen Zhang, Ehsan Asdar, and Rithesh Kumar as they introduce and demo a new generation of voice ...
+
+📺 OpenAI
+
+👁️ 60K • 💬 288 • ⏱️ 18:22 • 9h ago
+
+---
+
+**[AI CEOS PANIC After Public Outrage Over Job Loss](https://www.youtube.com/watch?v=Xxodq1QWvMk)**
+
+Ryan and Saagar discuss AI CEOs panicking and trying to backtrack on projections of job losses. Sign up for a PREMIUM ...
+
+📺 Breaking Points
+
+👁️ 225K • 👍 6K • 💬 1K • ⏱️ 19:42 • 1d ago
+
+---
+
+**[The AI Bubble… We Need to Talk](https://www.youtube.com/watch?v=2J2Fb1bBufA)**
+
+Half the internet says AI is the biggest bubble in history. The other half says it's the most important technology ever built. Check out ...
+
+📺 Casual Finance
+
+👁️ 382K • 👍 15K • 💬 1K • ⏱️ 18:03 • 1d ago
+
+---
+
+**[The Dirty AI lie : How the GREATEST bet in human history started to crack in June 2026?](https://www.youtube.com/watch?v=WcckBmkauBQ)**
+
+Check out Odoo: https://www.odoo.com/r/ChAT ⭐️ Think School's flagship Communication course with live doubt sessions ...
+
+📺 Think School
+
+👁️ 1.7M • 👍 44K • 💬 2K • ⏱️ 20:53 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,683,711 • ❤️ 1,861 • 10d ago
+⬇️ 1,683,711 • ❤️ 1,876 • 10d ago
 
 ---
 
@@ -401,7 +401,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 121 • ❤️ 566 • 2d ago
+⬇️ 121 • ❤️ 574 • 2d ago
 
 ---
 
@@ -413,7 +413,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 281,584 • ❤️ 3,670 • 6d ago
+⬇️ 281,584 • ❤️ 3,680 • 6d ago
 
 ---
 
@@ -425,7 +425,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,084,945 • ❤️ 1,875 • 5d ago
+⬇️ 1,084,945 • ❤️ 1,878 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 14,723 • ❤️ 400 • 2h ago
+⬇️ 14,723 • ❤️ 409 • 5h ago
 
 ---
 
@@ -449,7 +449,7 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 9,458 • ❤️ 314 • 4d ago
+⬇️ 9,458 • ❤️ 316 • 5d ago
 
 ---
 
@@ -461,7 +461,7 @@ A compact, instruction-tuned 4B parameter language model based on Qwen3, optimiz
 
 `text-generation` `4.0B`
 
-⬇️ 3,886 • ❤️ 187 • 4d ago
+⬇️ 3,886 • ❤️ 189 • 4d ago
 
 ---
 
@@ -473,7 +473,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 502,663 • ❤️ 803 • 13d ago
+⬇️ 502,663 • ❤️ 807 • 13d ago
 
 ---
 
@@ -483,7 +483,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 Leanstral 1.5 119B A6B is a multimodal (text/image) code agent for Lean 4, featuring a 119B parameter MoE architecture with 6.5B active parameters and a 256k context length, optimized for complex mathematical proofs and software specifications.
 
-⬇️ 157 • ❤️ 167 • 5d ago
+⬇️ 157 • ❤️ 168 • 5d ago
 
 ---
 
@@ -495,7 +495,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 384,383 • ❤️ 1,102 • 19d ago
+⬇️ 384,383 • ❤️ 1,105 • 19d ago
 
 ---
 
@@ -523,7 +523,7 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 8 • 💬 0 • ⭐ 6,622 • 10mo ago
+▲ 9 • 💬 0 • ⭐ 6,622 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
@@ -633,17 +633,17 @@ A large-scale multiplayer world model trained on extensive gameplay data demonst
 
 ---
 
-**[From Foundation to Application: Improving VLA Models in Practice](https://huggingface.co/papers/2607.06403)**
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
 
-*Wei Wu, Fangjing Wang, Fan Lu et al. (24 authors)*
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
 
 🏢 Robbyant
 
-LingBot-VLA 2.0 enhances generalization across tasks and embodiments through expanded data preprocessing and training on diverse robot configurations, extends action space to include whole-body degrees of freedom for complex manipulation tasks, and incorporates predictive dynamics modeling using video representation and depth estimation for improved temporal reasoning.
+LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 12 • 💬 1 • ⭐ 265 • 2d ago
+▲ 26 • 💬 3 • ⭐ 10,300 • 2mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2607.06403) • [💻 code](https://github.com/robbyant/lingbot-vla-v2) • [🔗 project](https://technology.robbyant.com/lingbot-vla-v2)
+[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -657,7 +657,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 78.2k • 🔱 4.2k • 1h ago
+⭐ 78.3k • 🔱 4.2k • 4h ago
 
 ---
 
@@ -667,7 +667,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.7k • 🔱 1.1k • 10h ago
+⭐ 11.7k • 🔱 1.1k • 58s ago
 
 ---
 
@@ -677,7 +677,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.8k • 🔱 908 • 11m ago
+⭐ 6.8k • 🔱 912 • 3m ago
 
 ---
 
@@ -687,7 +687,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 3.9k • 🔱 844 • 13h ago
+⭐ 3.9k • 🔱 848 • 16h ago
 
 ---
 
@@ -707,7 +707,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.2k • 🔱 81 • 31m ago
+⭐ 2.2k • 🔱 82 • 2h ago
 
 ---
 
@@ -717,7 +717,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 1.8k • 🔱 252 • 2h ago
+⭐ 1.8k • 🔱 261 • 5h ago
 
 ---
 
@@ -737,17 +737,17 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 1.6k • 🔱 175 • 13h ago
+⭐ 1.6k • 🔱 177 • 17h ago
 
 ---
 
-**[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)**
+**[chuspeeism/dashiAI-ppt-skill](https://github.com/chuspeeism/dashiAI-ppt-skill)**
 
-AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
+An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 
-`Python` `ai-design-tools` `animated-logo` `brand-motion` `claude-skill` `codex-skill`
+`JavaScript` `agent-skill` `ai-agent` `ai-ppt` `claude` `claude-code`
 
-⭐ 1.5k • 🔱 136 • 10d ago
+⭐ 1.6k • 🔱 159 • 49m ago
 
 ---
 
