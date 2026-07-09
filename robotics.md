@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-09T07:02:38.687277+00:00'
+updated: '2026-07-09T10:47:28.264487+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 09, 2026 at 07:02 UTC  
+**Last Updated:** July 09, 2026 at 10:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,17 +114,41 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 ## Google News: "robotics"
 
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+**[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
-
-mistral.ai • 16h ago
+Bloomberg.com • 20h ago
 
 ---
 
-**[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
+**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
 
-Bloomberg.com • 17h ago
+New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
+
+NVIDIA Blog • 2d ago
+
+---
+
+**[Booster Robotics' Humanoid Robots Claim All Championship Titles at RoboCup 2026](https://sg.finance.yahoo.com/news/booster-robotics-humanoid-robots-claim-074900306.html)**
+
+SANTA CLARA, Calif., July 09, 2026 (GLOBE NEWSWIRE) -- At RoboCup 2026, the world's premier robotics competition, teams competing on Booster Robotics' humanoid robots swept all championship titles across the Small, Middle and Large divisions. This year, a total of 59 teams from around the world participated in RoboCup 2026, 38 of which competed on Booster robots, including but not limited to Badger Bots (USA), Bahia Robotics Team (Brazil), Berlin United (Germany), B-Human (Germany), HTWK Robots
+
+Yahoo Finance Singapore • 2h ago
+
+---
+
+**[RoboSense Announces H1 2026 LiDAR Sales of 719,200 Units as Robotics Segment Grows by 510.4%](https://finance.yahoo.com/technology/ai/articles/robosense-announces-h1-2026-lidar-070900414.html)**
+
+RoboSense (HKEX: 02498), a pioneering robotics company for the Physical AI era, announced its LiDAR sales volume for the first half of 2026, with total LiDAR sales reaching 719,200 units, up 169.6% year over year, including 282,600 units in the robotics segment, up 510.4% year over year, and 436,600 units in the ADAS segment, up 98.0% year over year. The strong performance was driven by RoboSense's full-stack proprietary chip technologies and continued growth across both its ADAS and robotics se
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Physical AI has reached commercialisation, but scaling remains the hard part, says Citi](https://uk.finance.yahoo.com/news/physical-ai-reached-commercialisation-scaling-103900316.html)**
+
+Physical AI has moved from promise to commercial reality, but deploying robots at scale remains the industry's central challenge, according to Citi. The conclusion follows the bank's fourth annual Robotics and Physical AI Leadership Conference, which gathered founders, investors and operators...
+
+Yahoo Finance UK • 8m ago
 
 ---
 
@@ -138,15 +162,15 @@ Forbes • 1d ago
 
 **[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
 
-Nature • 15h ago
+Nature • 19h ago
 
 ---
 
-**[Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First](https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first)**
+**[World’s first surgery using teleoperated humanoid robots conducted by US team](https://interestingengineering.com/ai-robotics/us-world-first-surgery-teleoperated-humanoid-robots)**
 
-For the first time, two teleoperated humanoid robots have been used to complete two surgeries during a preclinical trial, researchers report in the July 8 issue of the journal Nature.
+World-first trial sees teleoperated humanoid robots perform surgeries, marking a major step toward the future of robotic healthcare.
 
-UC San Diego Today • 17h ago
+Interesting Engineering • 3h ago
 
 ---
 
@@ -154,37 +178,13 @@ UC San Diego Today • 17h ago
 
 CMU's Robotics Innovation Center welcomed global technology company Fujitsu Limited as its latest corporate tenant in the university’s robotics and artificial intelligence research facility at Hazelwood Green.
 
-Carnegie Mellon University • 17h ago
+Carnegie Mellon University • 20h ago
 
 ---
 
 **[Robotics Teams Are Shrinking. Students Say They’re More Important Than Ever](https://civilbeat.org/2026/07/hawaii-robotics-teams-are-shrinking-students-say-theyre-more-important-than-ever/)**
 
-Honolulu Civil Beat • 1d ago
-
----
-
-**[Renting makes robots affordable for work and play](https://www.bbc.com/news/articles/c4gymkg9lr2o)**
-
-Robotics tech is changing fast, so for many it makes sense to rent a robot.
-
-BBC • 2d ago
-
----
-
-**[BlackBerry Sees Strong Pipeline Across Robotics and Automation](https://finance.yahoo.com/technology/articles/blackberry-sees-strong-pipeline-across-121800442.html)**
-
-BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
-
-Yahoo Finance • 18h ago
-
----
-
-**[Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots](https://fortune.com/2026/07/08/nomagics-new-ai-lab-headed-by-former-google-deepmind-researcher-claims-success-in-early-deployment-of-ai-brain-for-warehouse-robots/)**
-
-Nomagic says the company's new 'vision-language-action' model cut robot errors requiring human intervention in half at logistics customers.
-
-Fortune • 1d ago
+Honolulu Civil Beat • 2d ago
 
 ---
 
@@ -198,17 +198,7 @@ The French startup UMA just unveiled its flagship humanoid robot worker just nin
 
 📺 Kalil 4.0
 
-👁️ 952 • 👍 42 • 💬 3 • ⏱️ 0:57 • 8h ago
-
----
-
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
-
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
-
-📺 China Observer
-
-👁️ 56K • 👍 2K • 💬 492 • ⏱️ 20:21 • 1d ago
+👁️ 1K • 👍 47 • 💬 4 • ⏱️ 0:57 • 12h ago
 
 ---
 
@@ -218,7 +208,17 @@ In this video, we completely disassemble the Unitree G1 humanoid robot, taking a
 
 📺 Munro Live
 
-👁️ 12K • 👍 623 • 💬 111 • ⏱️ 38:47 • 17h ago
+👁️ 15K • 👍 703 • 💬 117 • ⏱️ 38:47 • 20h ago
+
+---
+
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+
+📺 China Observer
+
+👁️ 60K • 👍 2K • 💬 510 • ⏱️ 20:21 • 1d ago
 
 ---
 
@@ -228,7 +228,17 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 100K • 👍 2K • 💬 476 • ⏱️ 13:32 • 4d ago
+👁️ 101K • 👍 2K • 💬 477 • ⏱️ 13:32 • 4d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 67K • 👍 3K • 💬 142 • ⏱️ 11:20 • 3d ago
 
 ---
 
@@ -238,55 +248,41 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 140K • 👍 4K • 💬 243 • ⏱️ 10:56 • 4d ago
+👁️ 142K • 👍 4K • 💬 240 • ⏱️ 10:56 • 4d ago
 
 ---
 
-**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
+**[SpaceX is Sending Tesla Optimus Robots to Mars First!](https://www.youtube.com/watch?v=q_HLGqY6b6s)**
 
-📺 GUYMANITOR
+SpaceX and Tesla are joining forces for a historic interplanetary mission, planning to deploy Optimus humanoid robots to Mars ...
 
-👁️ 20K • 👍 118 • 💬 3 • ⏱️ 0:17 • 4d ago
+📺 Global snap
 
----
-
-**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
-
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 70K • 👍 4K • 💬 2K • ⏱️ 13:09 • 4d ago
+👁️ 51K • 👍 2K • 💬 364 • ⏱️ 0:57 • 1d ago
 
 ---
 
-**[Ubtechs New U1 UWORLD Robots Shocked The Robot Industry (Ultra Lifelike Androids)](https://www.youtube.com/watch?v=pHUNbCKYn3w)**
+**[Automatic Handwriting Machine #Shorts #automatic #handwriting #machine #robotics #brpvlogs999](https://www.youtube.com/watch?v=Mw7PuHOWrtU)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+📺 BRP Vlogs999
 
-📺 TheAIGRID
-
-👁️ 19K • 👍 357 • 💬 92 • ⏱️ 11:41 • 6d ago
+👁️ 30K • 👍 56 • ⏱️ 0:09 • 1d ago
 
 ---
 
-**[I Built My First AI Robot](https://www.youtube.com/watch?v=Sf-nklw0ljQ)**
+**[Testing my smart mech on the park slide today!#robot #robotics #dino #dinosaur #ruko](https://www.youtube.com/watch?v=gZ6oNcfD8Fs)**
 
-Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a robot from scratch named Bop — powered by an NVIDIA ...
+📺 Smarttoy Ruko
 
-📺 Coding with Lewis
-
-👁️ 30K • 👍 1K • 💬 62 • ⏱️ 10:19 • 6d ago
+👁️ 3K • 👍 25 • ⏱️ 0:23 • 2h ago
 
 ---
 
-**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
+**[The Robots Will Be Taking Over Really Soon ☠️ #interesting](https://www.youtube.com/watch?v=3BNQkJo0Vrk)**
 
-The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
+📺 IdkSterling
 
-📺 DPCcars
-
-👁️ 101K • 👍 442 • 💬 221 • ⏱️ 2:50 • 6d ago
+👁️ 160K • 👍 7K • 💬 453 • ⏱️ 1:00 • 3d ago
 
 ---
 
