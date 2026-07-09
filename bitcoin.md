@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-09T16:27:56.578173+00:00'
+updated: '2026-07-09T18:18:34.099970+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 16:27 UTC  
+**Last Updated:** July 09, 2026 at 18:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,064.62
+### $63,336.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -0.0%  
-**30d:** +1.8%  
-**90d:** -14.3%  
-**1y:** -46.1%  
+**24h:** +1.8%  
+**7d:** +1.2%  
+**30d:** +3.0%  
+**90d:** -13.2%  
+**1y:** -45.4%  
 
 ---
 
@@ -77,31 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Here is me saying bitcoin in July 2026](https://www.reddit.com/r/Bitcoin/comments/1ur0ses/here_is_me_saying_bitcoin_in_july_2026/)**
+**[A reminder to keep stacking](https://www.reddit.com/r/Bitcoin/comments/1urqxng/a_reminder_to_keep_stacking/)**
 
-22h ago
+Keep stacking sats, especially with these low prices ofcourse.
 
----
-
-**[If you feel like your bank is robbing you](https://www.reddit.com/r/Bitcoin/comments/1uripwb/if_you_feel_like_your_bank_is_robbing_you/)**
-
-Buy bitcoin. Simple as that.
-
-9h ago
-
----
-
-**[BTC again😩🔥](https://www.reddit.com/r/Bitcoin/comments/1uqs7fc/btc_again/)**
-
-1d ago
-
----
-
-**[With bitcoin you are your own bank (if you self custody ofc)](https://www.reddit.com/r/Bitcoin/comments/1urj57d/with_bitcoin_you_are_your_own_bank_if_you_self/)**
-
-A reminder, to self custody. Make sure your bitcoin is yours!
-
-9h ago
+4h ago
 
 ---
 
@@ -109,45 +89,65 @@ A reminder, to self custody. Make sure your bitcoin is yours!
 
 Just curious what price you were hoping for
 
-8h ago
+10h ago
+
+---
+
+**[Here is me saying bitcoin in July 2026](https://www.reddit.com/r/Bitcoin/comments/1ur0ses/here_is_me_saying_bitcoin_in_july_2026/)**
+
+1d ago
+
+---
+
+**[selling some BTC did not fix my brain lol](https://www.reddit.com/r/Bitcoin/comments/1urpt5r/selling_some_btc_did_not_fix_my_brain_lol/)**
+
+so I sold around 10-15% of my BTC after overthinking for months, almost a year... and ngl, I thought I'd feel like a calm responsible adult after that. WRONG. Now every green candle makes me feel like I sold the bottom, and every red candle makes me feel like a genius for 7 minutes xD, still holding around 90-85%, still bullish long term, and still got the mining side running through OneMiners, so I'm not fully out or anything :D but damn, BTC really has a way of making every decision feel dumb right after u make it lol. maybe that's the real game. not buying, not selling, just trying not to become emotionally cooked by a chart. anyone else sold a little and somehow became MORE stressed?
+
+5h ago
+
+---
+
+**[What Bitcoin has been doing for this month.](https://www.reddit.com/r/Bitcoin/comments/1urfyz8/what_bitcoin_has_been_doing_for_this_month/)**
+
+13h ago
+
+---
+
+**[I created a huge 195-country bitcoin guide based on real Reddit threads from here and local forums so each country shows the exchanges and apps people actually use, the payment methods that work, and the issues people run into.](https://www.reddit.com/r/Bitcoin/comments/1urod5p/i_created_a_huge_195country_bitcoin_guide_based/)**
+
+This took a lot of work and would love your feedback on what's missing, what can be added/removed! https://newhedge.io/buy
+
+6h ago
+
+---
+
+**[Daily Discussion, July 09, 2026](https://www.reddit.com/r/Bitcoin/comments/1ursf4a/daily_discussion_july_09_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+3h ago
+
+---
+
+**[If you feel like your bank is robbing you](https://www.reddit.com/r/Bitcoin/comments/1uripwb/if_you_feel_like_your_bank_is_robbing_you/)**
+
+Buy bitcoin. Simple as that.
+
+11h ago
+
+---
+
+**[Who else is happily stacking?](https://www.reddit.com/r/Bitcoin/comments/1urv3ur/who_else_is_happily_stacking/)**
+
+Haven't been this happy in awhile to keep stacking sats and filling my bag.
+
+1h ago
 
 ---
 
 **[The Bitcoin Stateless Revolution. How Utreexo (BIP-183) Obliterates the UTXO Bottleneck and Reclaims the Base Layer.](https://www.reddit.com/r/Bitcoin/comments/1urmh50/the_bitcoin_stateless_revolution_how_utreexo/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-bitcoin-stateless-revolution) • 5h ago
-
----
-
-**[Blockchain.com UK based customers anyone with funds held hostage got it released?](https://www.reddit.com/r/Bitcoin/comments/1ur8d6d/blockchaincom_uk_based_customers_anyone_with/)**
-
-been several months since blockchain (infamously) locked my account for KYC which has been succesfull and yet still blocked. From the emails it seems like Blockchain starting 1 July 2026 (last week) has migrated to a specific UK entity, did anyone managed to get their account unlocked since then? Has anyone tried to file a complain to the FCA? to the one stupid unemployed idiot who'll certainly be like "WhY yOu USeD BloCkChaIN" go get a job
-
-17h ago
-
----
-
-**[For Designers: Tired of downloading the Bitcoin logo from random links?](https://www.reddit.com/r/Bitcoin/comments/1urbwav/for_designers_tired_of_downloading_the_bitcoin/)**
-
-I gave myself an impossible brief: Uniformise the B. ecosystem's main design assets and logo. I wanted to create the simplest, most basic, and complete resource of design assets for Bitcoin because I’m tired of downloading the same logo from random websites or creating SVGs from scratch. I wanted people to be able to find all the resources in one file (Figma & GitHub) and, as much as possible, standardise some components. There was no good solution, just a long chain and succession of trade-offs. It's like rebranding 10 brands at once; there is no choice that won't leave someone unsatisfied. The file is in “Beta” so you can review it. Hot topics: Bitcoin logo should be different (but really similar) to the B. currency symbol. It is already like that in many products, but I wanted to remark the difference I love the idea of talking only about Bitcoin and not Sats. I know the Bitcoin community spent effort on this, but personally I think we lost that battle. “I will zap you some sats” is already here, used commonly. I’m just trying to fix it by proposing a symbol for sats. I know there have been other proposals in the past, but I’m sceptical about that; too cryptic. Cashu currently has a very detailed, complex logo; I’m proposing a simplified, more banal version. I also proposed a logo for Ark. Main questions: Should I keep my proposal for Cashu or the old version? I would like to avoid Nostr and Cashu having different colours in the negative version; should I go with white, or do you have any other suggestions? Does anyone know if the DLC project is still on and how to get the vector logo? Are there any logos or technologies missing that are important to add? No wallets, only technology logos. Any missing version of the logo that you think important to include? Should I also include the most popular wallet in V2? https://www.figma.com/design/icmH1QEg9lFtj9pgW9D3tl/Bitcoin-ecosystem--logos-and-design-kit?node-id=0-1&t=h0ci1j2j6LcjshmE-1
-
-15h ago
-
----
-
-**[Looking for the right person to build bitcoin.guide](https://www.reddit.com/r/Bitcoin/comments/1urflot/looking_for_the_right_person_to_build_bitcoinguide/)**
-
-I own the domain bitcoin.guide I've always thought that a great bitcoin guide deserved to be built on it, and I don't think I'm the right person for this project. Would love to find a Bitcoin OG who wants to buy the domain and make a project out of it. I bought this in 2018 and will sell for less than what I paid (measured in both btc and usd). If you're interested feel free to reach out - looking to sell on a marketplace like Sedo rather than direct.
-
-12h ago
-
----
-
-**[BULL BITCOIN](https://www.reddit.com/r/Bitcoin/comments/1uqresx/bull_bitcoin/)**
-
-BULL BITCOIN is taking France’s highest administrative court to seek the annulment of DAC8, a new European law that puts millions of users at physical risk.
-
-1d ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-bitcoin-stateless-revolution) • 7h ago
 
 ---
 
@@ -157,67 +157,15 @@ BULL BITCOIN is taking France’s highest administrative court to seek the annul
 
 **[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 8h ago
 
 ---
 
-**['Bottom building in progress': Analysts say bitcoin holder capitulation signals late-stage bear market](https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market)**
+**[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://finance.yahoo.com/markets/crypto/articles/eric-trump-bitcoin-bet-erases-094500128.html)**
 
-Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.
+(Bloomberg) -- American Bitcoin Corp. was built around a simple idea: that owning and mining Bitcoin would be enough to mint money.Most Read from BloombergMicrosoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video GameTrump Vents Anger With Iran and Warns Ceasefire May Be ‘Over’Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom LevelsUS Military Launches Strikes on Iran for Second Straight DayGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaInstead, the company co-fou
 
-The Block • 2h ago
-
----
-
-**[Bitcoin Miners Bet Big on AI Infrastructure and Win. TeraWulf, IREN, Hut 8 Surge](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miners-bet-big-ai-041918727.html)**
-
-TeraWulf, IREN, and Hut 8 stocks surge as Bitcoin miners pivot to AI data centers, decoupling their share prices from crypto.
-
-Yahoo Finance • 12h ago
-
----
-
-**[MARA Stock Leads Digital Rally On Data Center Development Plans. Bitcoin Rises.](https://www.investors.com/news/mara-stock-power-land-deal-2gw-data-center-ai-bitcoin-price-terawulf-iren/)**
-
-Investor's Business Daily • 27m ago
-
----
-
-**[Crossville bitcoin mining center draws noise complaints, city eyes moratorium on future data centers](https://www.wvlt.tv/2026/07/08/crossville-bitcoin-mining-center-draws-noise-complaints-city-eyes-moratorium-future-data-centers/)**
-
-A bitcoin mining data center in Crossville is generating noise complaints from neighboring businesses, and city officials say they are considering a two-year moratorium on future data centers while they work to establish additional regulations.
-
-WVLT • 1d ago
-
----
-
-**[AI Contracts, Not Bitcoin, Now Drive Miner Valuations, and Cipher and TeraWulf Look Cheap](https://www.moomoo.com/news/post/72727033/ai-contracts-not-bitcoin-now-drive-miner-valuations-and-cipher)**
-
-Moomoo • 34m ago
-
----
-
-**[Construction starts at Sparks Bitcoin manufacturing facility, expected to create 70 jobs](https://mynews4.com/news/local/construction-starts-at-sparks-bitcoin-manufacturing-facility-expected-to-create-70-jobs-warehouse-reno-nevada-northern-bitdeer-cryptocurrency)**
-
-Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
-
-KRXI2 • 16h ago
-
----
-
-**[Bitcoin's Most Prominent Holder Is Selling Some. Should You?](https://www.fool.com/investing/2026/07/09/bitcoins-most-prominent-holder-is-selling-some-sho/)**
-
-Strategy's latest Bitcoin sale is rattling some of the coin's holders.
-
-The Motley Fool • 10h ago
-
----
-
-**[Live markets: Bitcoin ETFs slip back to outflows while ether funds extend their streak](https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak)**
-
-U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million
-
-CoinDesk • 1h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -225,7 +173,63 @@ CoinDesk • 1h ago
 
 Eric Trump posted a cringeworthy bid for his dad’s approval just hours before news of the staggering loss broke.
 
-The Daily Beast • 2h ago
+The Daily Beast • 1h ago
+
+---
+
+**['Bottom building in progress': Analysts say bitcoin holder capitulation signals late-stage bear market](https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market)**
+
+Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.
+
+The Block • 4h ago
+
+---
+
+**[American Bitcoin Plunges 95% as AI-Focused Rivals Pull Ahead](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-plunges-95-ai-174413921.html)**
+
+The Bitcoin miner stayed focused on crypto while competitors expanded into AI data centers and outperformed.
+
+Yahoo Finance • 34m ago
+
+---
+
+**[Construction starts at Sparks Bitcoin manufacturing facility, expected to create 70 jobs](https://mynews4.com/news/local/construction-starts-at-sparks-bitcoin-manufacturing-facility-expected-to-create-70-jobs-warehouse-reno-nevada-northern-bitdeer-cryptocurrency)**
+
+Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
+
+KRXI2 • 18h ago
+
+---
+
+**[Bitcoin's Most Prominent Holder Is Selling Some. Should You?](https://www.fool.com/investing/2026/07/09/bitcoins-most-prominent-holder-is-selling-some-sho/)**
+
+Strategy's latest Bitcoin sale is rattling some of the coin's holders.
+
+The Motley Fool • 12h ago
+
+---
+
+**[Prediction: Bitcoin’s Next Move Could Make or Break MicroStrategy Stock](https://247wallst.com/investing/2026/07/09/prediction-bitcoins-next-move-could-make-or-break-microstrategy-stock/)**
+
+MicroStrategy (NASDAQ:MSTR | MSTR Price Prediction) has become the market’s cleanest proxy for Bitcoin, and right now that is a double-edged sword. With BTC down 27.34% year to date and MSTR down 35.93% YTD, sentiment has cratered even as the company kept stacking coins. My model still sees meaningful upside from here, but the setup ... Prediction: Bitcoin’s Next Move Could Make or Break MicroStrategy Stock
+
+24/7 Wall St. • 3h ago
+
+---
+
+**[As Michael Saylor's Strategy Normalizes Bitcoin Sales, Crypto Punters Doubt It Will Reach 1 Million BTC by Year-End](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-normalizes-bitcoin-180122755.html)**
+
+Cryptocurrency punters are growing less optimistic that Strategy Inc. will hold more than 1 million Bitcoin by the end of the year, as the company begins normalizing its BTC sales Tough To Hit This Year? As of this writing, Polygon-based...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Live markets: Bitcoin ETFs slip back to outflows while ether funds extend their streak](https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak)**
+
+U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million
+
+CoinDesk • 2h ago
 
 ---
 
@@ -247,7 +251,7 @@ Losing valuable information is a bad thing when you’re an archivist. Have we r
 
 Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign that it is abandoning co-founder Michael Saylor’s “Never sell your Bitcoin” mantra as a slumping digital asset market …
 
-⬆️ 5 • 💬 2 • 2d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
+⬆️ 5 • 💬 2 • 3d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
 
 ---
 
@@ -255,7 +259,7 @@ Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign
 
 Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal challenge before France's Conseil d'État to annul Decree No. 2025-1276, which implements the EU's DAC8 crypto tax reporting directive. The exchange argues the rules create a mass surveillance database linking identities and crypto activity, endangering holders' physical safety.
 
-⬆️ 3 • 💬 1 • 15h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
+⬆️ 3 • 💬 1 • 17h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
 
 ---
 
@@ -263,7 +267,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 19h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
+⬆️ 2 • 💬 1 • 21h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
 
 ---
 
@@ -279,7 +283,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 Read this crypto post from greatHydra_997 posted on 2026/07/08 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 2 • 💬 0 • 21h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377612382/)
+⬆️ 2 • 💬 0 • 23h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377612382/)
 
 ---
 
@@ -287,7 +291,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/08 on CoinMarketCap�
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 320 • 💬 224 • 8h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 326 • 💬 235 • 9h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
@@ -315,7 +319,7 @@ The biggest attacks on Bitcoin have often become its biggest strengths. The 2017
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 205 • ⏱️ 19:44 • 15h ago
+👁️ 20K • 👍 2K • 💬 205 • ⏱️ 19:44 • 17h ago
 
 ---
 
@@ -335,7 +339,7 @@ Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bit
 
 📺 Simply Bitcoin
 
-👁️ 1K • 👍 223 • 💬 15 • ⏱️ 18:07 • 3h ago
+👁️ 1K • 👍 223 • 💬 15 • ⏱️ 18:07 • 5h ago
 
 ---
 
@@ -345,7 +349,7 @@ ANOTHER peace deal is in tatters and of course there is a sell-off. BUT we must 
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 536 • 💬 48 • ⏱️ 32:35 • 23h ago
+👁️ 8K • 👍 536 • 💬 48 • ⏱️ 32:35 • 1d ago
 
 ---
 
@@ -355,7 +359,7 @@ Trade $10 get $10 - http://kalshi.com/r/altcoin Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 178 • ⏱️ 9:50 • 17h ago
+👁️ 38K • 👍 2K • 💬 178 • ⏱️ 9:50 • 19h ago
 
 ---
 
@@ -365,7 +369,7 @@ Bitcoin, Robinhood Chain, Robotics, Solana, and more! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 4K • 👍 375 • 💬 46 • ⏱️ 18:31 • 4h ago
+👁️ 4K • 👍 375 • 💬 46 • ⏱️ 18:31 • 6h ago
 
 ---
 
@@ -375,7 +379,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 720 • 💬 29 • ⏱️ 12:58 • 8h ago
+👁️ 9K • 👍 720 • 💬 29 • ⏱️ 12:58 • 10h ago
 
 ---
 
@@ -395,7 +399,7 @@ Bitcoin shrugs off Saylor's sell. Bottom signals galore, but some #BTC charts ar
 
 📺 Crypto Zombie
 
-👁️ 14K • 👍 1K • 💬 230 • ⏱️ 21:48 • 1d ago
+👁️ 14K • 👍 1K • 💬 230 • ⏱️ 21:48 • 2d ago
 
 ---
 

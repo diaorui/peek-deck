@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-09T16:27:56.570425+00:00'
+updated: '2026-07-09T18:18:34.091839+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 09, 2026 at 16:27 UTC  
+**Last Updated:** July 09, 2026 at 18:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 While some players are comfortable with limited AI use, the survey suggests that trust in developers’ transparency is still a major concern.
 
-🔗 [PC Guide](https://www.pcguide.com/news/pc-gamers-remain-skeptical-of-steams-ai-disclaimers-poll-shows-many-believe-game-devs-are-hiding-it/) • 6h ago
+🔗 [PC Guide](https://www.pcguide.com/news/pc-gamers-remain-skeptical-of-steams-ai-disclaimers-poll-shows-many-believe-game-devs-are-hiding-it/) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ While some players are comfortable with limited AI use, the survey suggests that
 
 The main conclusions from analysis were: The Pareto frontier for coding tasks (i.e. best quality for a given cost) includes models from OpenAI, Anthropic, and open source. This means today, only a mix of tools can provide frontier performance. Open models, and GLM 5.2 in particular, are now able to handle even the highest level of task difficulty. The token price of a model is a poor indicator of actual costs incurred on end-to-end tasks. Larger models can be far more token efficient and have lower overall costs. The harness a model is called from dramatically impacts cost and quality. In many cases, simple harnesses like Pi performed best on our workloads.
 
-🔗 [Databricks](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase) • 3h ago
+🔗 [Databricks](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ The main conclusions from analysis were: The Pareto frontier for coding tasks (i
 
 Meta recently launched a new AI agent for businesses that’s designed to handle customer chats, book appointments, and close sales. Mark Zuckerberg even dropped a pretty wild prediction during the launch stating that eventually these agents will be able to "run your entire business." On one hand, you have to appreciate how far the infra has come. The fact that a platform as massive as Meta is rolling out native autonomous tools proves that AI agents are no longer just an experimental toy for tech hobbyists. They are genuinely capable of saving massive amounts of time on frontline customer service and scheduling. But there’s a massive elephant in the room that we need to talk about: data ownership. Handing over your entire operational data pipeline, your customer interactions, and your lead information to a mega-platform whose entire business model relies on ad targeting feels risky. If a platform controls both the leads and the infra running your sales, you essentially risk paying to buy your own data back in the form of ad optimization down the line. For local SMBs and e-commerce shops handling high-volume Instagram DMs, this native integration is a massive win. But for high-ticket B2B SaaS, startups, and agencies, building independent, open workflows where you own the data rails and deliverability guardrails is still the safest play. It’s an interesting line to walk. We’re hosting a live, free workshop next thursday on how to use AI agents for B2B lead gen here
 
-1h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Meta recently launched a new AI agent for businesses that’s designed to handle
 
 Meta released Muse Image this week so I ran it against OpenAI's gpt-image-2 and Google's Nano Banana 2. I used the same source duck image and the same edit instructions prompt for every model (unchanged → blue → face away → glass → wireframe → hat-on-ball → "FRENZY" text → standing on a mirror with a correct reflection). The transformations go from easy on the left and gradually get harder. I ran 3 runs per model. Each model was then scored using a fixed 27-point rubric. One of these rows is Meta's new model. The reveal and full scores are in the comments.
 
-18h ago
+20h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta released Muse Image this week so I ran it against OpenAI's gpt-image-2 and 
 
 Let's be real. The demo always looks insanely cool, but putting an autonomous agent in production is terrifying. You've got agents deciding to execute tool calls on their own, hallucinating logic, or hallucinating tool requirements. And when it fails, it rarely crashes with a nice stack trace—it just fails silently or goes off the rails into unpredictable territory.For the devs and enterprises out there actually shipping these things: What is the nightmare scenario keeping you awake? Are you worried about an agent overstepping boundaries, a silent data corruption, or something else entirely?
 
-4h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ Let's be real. The demo always looks insanely cool, but putting an autonomous ag
 
 A research-backed AI scenario forecast.
 
-🔗 [ai-2040.com](https://ai-2040.com/) • 2m ago
+🔗 [ai-2040.com](https://ai-2040.com/) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ A research-backed AI scenario forecast.
 
 Grok 4.5 is out and performs well. What bothers me is that it's reported as being much cheaper than GPT or Anthropic's. One might be mislead to think the model is miraculously efficient, but that final price per million tokens doesn't factor in decisions such as artificial subsidization from xAI - making it not really a true win. Do you agree? What's your take on this?
 
-9h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ Grok 4.5 is out and performs well. What bothers me is that it's reported as bein
 
 Frontier AI is no longer just about capability. This week: Fable’s guardrails, cheaper tokens, and governments moving closer to AI infrastructure.
 
-🔗 [soverius.ai](https://soverius.ai/blog/quantized-ai-news-2605-the-price-of-control-in-frontier-ai) • 19m ago
+🔗 [soverius.ai](https://soverius.ai/blog/quantized-ai-news-2605-the-price-of-control-in-frontier-ai) • 2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Frontier AI is no longer just about capability. This week: Fable’s guardrails,
 
 I have been observing Al generated influencer's accounts across all the platforms. The image quality is good enough now that most people can't confidentially tell from photos alone. Here is what actually works is pattern which common in most of those profiles. Three patterns that appear consistently: Asymmetric social connection: Human social media users have relatively balanced follow to follower ratios until and unless its a well known personality and they follow people they're interested in. Al-operated accounts show extreme asymmetry count. Accounts with 125K followers only following 7 people. 51K followers, following 8 people. This pattern appears across dozens of accounts. Real users don't behave this way even when they become popular they still follow friends, family and interests or idols. The monetization is built in as the account is created. Special links, paid chat, explicit content redirects, all ready before the account even grows. It looks like someone set this up just to make money, not a real person sharing their life. No behavioral variation in the content. The most obvious signal I've found is human creators occasionally break the pattern. Post something off-topic, personal, random. Al-operated accounts show nearly zero variation, same type of content in every photo/ video. Some of the profiles dont even change the background music. One Threads account I saw was having hundreds of posts, 100% engagement-bait questions like they are selling something, never once broke the formula. No personal updates, no reactions on comments and no response to real-world events, no authentic moments, just pure loop with new photo at new location. The detection needs to move away from analyzing images, toward analyzing behavior patterns instead. Dont judge with only one photo or video if thats an Al or human. Now all we need to do is to open the profile and look at other content of that profile. Now a days tools that just scan photos for Al are already useless for catching these. If anyone else spotted other behavioral red flags then please do share your thoughts.
 
-12h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ I have been observing Al generated influencer's accounts across all the platform
 
 We’ve been talking about AI agents for a while, but most conversations still focus on them as individual tools, something that can answer questions, write emails, summarize information, or automate small tasks. But what happens when agents stop working alone and start having their own ecosystem? You simply tell your agent the goal, and it assembles the right capabilities to get the job done. Some projects are already exploring this direction. For example, AnvitaFlow is experimenting with an on-chain Agent collaboration network, where different agents can discover each other, call specific capabilities, and work together on more complex tasks. Platforms like Moltbook are also exploring how agents might interact and form communities. But this also raises some interesting questions. If agents become capable of finding and using other agents automatically, will we eventually have an “AI economy” where specialized skills become services? Would we eventually see a marketplace where agents compete based on their skills, reputation, accuracy, and cost? At the same time, there are still many unanswered questions: How do we trust an agent we’ve never interacted with before? Who is responsible when an autonomous agent makes a bad decision? We’re probably still early. From a workflow perspective, but the shift from “AI as a tool” to “AI as a network of collaborators” lead to a completely different path of development? Curious what people here think.
 
-1h ago
+3h ago
 
 ---
 
@@ -121,59 +121,53 @@ We’ve been talking about AI agents for a while, but most conversations still f
 
 ## Google News: "ai"
 
-**[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)**
-
-AI at Meta • 1h ago
-
----
-
 **[Meta jumps into AI coding market in effort to chase Anthropic and OpenAI](https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html)**
 
 Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang.
 
-CNBC • 2h ago
+CNBC • 4h ago
 
 ---
 
-**[Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI](https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model)**
+**[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Behind the Curtain: These 3 big AI trends are colliding at the same time](https://www.axios.com/2026/07/09/ai-trends-fable-5-sol-grok-china-us)**
-
-Axios • 6h ago
+AI at Meta • 3h ago
 
 ---
 
-**[The Next AI Race Won’t Be Won By Smarter Technology. It Will Be Won By Better Judgement.](https://www.forbes.com/sites/katehardcastle/2026/07/09/the-next-ai-race-wont-be-won-by-smarter-technology-it-will-be-won-by-better-judgement/)**
+**[Meta's new AI model could spark a massive price war in the red-hot AI coding market](https://www.businessinsider.com/meta-launches-muse-spark-1-1-cost-effective-ai-2026-7)**
 
-As AI agents reshape customer experience, competitive advantage won’t come from smarter technology alone - but from the judgement organisations choose to scale.
+Meta launches a new AI coding model, Muse Spark 1.1, which is priced aggressively, CEO Mark Zuckerberg said. He called out rivals' "extreme" pricing.
 
-Forbes • 13m ago
-
----
-
-**[CEOs Are Telling Employees to Become AI Experts—or Be Left Behind. The Best Leaders Will Do Something Different](https://www.inc.com/marcel-schwantes/ceo-ai-experts-best-leaders/91371742)**
-
-Employees don't fear AI. They fear what AI might mean for them.
-
-inc.com • 13m ago
+Business Insider • 9m ago
 
 ---
 
-**[AI notetakers promise easy meeting recaps, but some professionals question their use](https://www.sfgate.com/living/article/ai-notetakers-promise-easy-meeting-recaps-but-22338981.php)**
+**[Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)**
 
-SFGATE • 10m ago
+AI cheating leads to "a failed society," professor says.
+
+Ars Technica • 20h ago
 
 ---
 
-**[Wealthy AI workers send San Francisco house prices soaring](https://www.bbc.com/news/articles/c9q29j47v9ro)**
+**[Bipartisan lawmakers press agencies on AI election threats](https://thehill.com/policy/technology/5961267-ai-election-threats-2026-midterms/)**
 
-The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.
+The Hill • 10m ago
 
-BBC • 17h ago
+---
+
+**[How to Prevent Meta From Using Your Instagram Images in A.I.](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html)**
+
+The New York Times • 22h ago
+
+---
+
+**[How to stop Meta’s AI image generator from using your Instagram photos](https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/)**
+
+Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.
+
+TechCrunch • 21m ago
 
 ---
 
@@ -181,13 +175,19 @@ BBC • 17h ago
 
 Muse Image is the first image generation model from Meta Superintelligence Labs, now available in Meta AI.
 
-Meta Store • 1d ago
+Meta Store • 2d ago
 
 ---
 
-**[How to Prevent Meta From Using Your Instagram Images in A.I.](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html)**
+**[Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense](https://www.bloomberg.com/news/articles/2026-07-09/meta-s-zuckerberg-says-exploring-ai-cloud-business-makes-sense)**
 
-The New York Times • 21h ago
+Bloomberg.com • 13m ago
+
+---
+
+**[A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html)**
+
+The New York Times • 2h ago
 
 ---
 
@@ -205,13 +205,13 @@ GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus an
 
 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
 
-⬆️ 526 • 💬 199 • 1d ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+⬆️ 527 • 💬 200 • 1d ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 
 ---
 
 **[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
 
-⬆️ 331 • 💬 128 • 22h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
+⬆️ 336 • 💬 133 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
 
 ---
 
@@ -219,7 +219,7 @@ GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus an
 
 Your AI-built product works, but past 100,000 lines every change breaks two things. Three senior engineers make your codebase maintainable again. One week, fixed price, guaranteed.
 
-⬆️ 300 • 💬 233 • 1d ago • [odra.dev](https://odra.dev/slopfix/)
+⬆️ 301 • 💬 234 • 1d ago • [odra.dev](https://odra.dev/slopfix/)
 
 ---
 
@@ -228,14 +228,6 @@ Your AI-built product works, but past 100,000 lines every change breaks two thin
 In places with unreliable networks and no data-center infrastructure, smaller is better
 
 ⬆️ 274 • 💬 80 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-
----
-
-**[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://news.ycombinator.com/item?id=48807225)**
-
-OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation req...
-
-⬆️ 214 • 💬 63 • 2d ago • [GitHub](https://github.com/iOfficeAI/OfficeCLI)
 
 ---
 
@@ -249,7 +241,7 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 
 AI cheating leads to "a failed society," professor says.
 
-⬆️ 120 • 💬 124 • 17h ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
+⬆️ 123 • 💬 133 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
 
 ---
 
@@ -258,6 +250,14 @@ AI cheating leads to "a failed society," professor says.
 After Garry Tan touted his agentic coding output, a developer found inefficiencies, code bloat, and rookie mistakes lurking in production.
 
 ⬆️ 116 • 💬 98 • 2d ago • [Fast Company](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
+
+---
+
+**[AI content is everywhere on social media, especially LinkedIn](https://news.ycombinator.com/item?id=48847940)**
+
+We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
+
+⬆️ 114 • 💬 94 • 2h ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
 
 ---
 
@@ -279,7 +279,7 @@ AI has the potential to destroy economies, and Trump doesn't want you to know th
 
 📺 Farron Balanced
 
-👁️ 16K • 👍 2K • 💬 161 • ⏱️ 5:04 • 22h ago
+👁️ 16K • 👍 2K • 💬 161 • ⏱️ 5:04 • 1d ago
 
 ---
 
@@ -289,7 +289,7 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 📺 Mikey Website
 
-👁️ 5K • 💬 5 • ⏱️ 38:43 • 2h ago
+👁️ 5K • 💬 5 • ⏱️ 38:43 • 4h ago
 
 ---
 
@@ -299,7 +299,7 @@ Get the Google AI Studio Masterclass https://www.skool.com/ai-profit-lab-7462/ab
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 55 • 💬 8 • ⏱️ 7:23 • 3h ago
+👁️ 1K • 👍 55 • 💬 8 • ⏱️ 7:23 • 5h ago
 
 ---
 
@@ -309,7 +309,7 @@ China may have just started the AI Cold War. Beijing is moving to lock down its 
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 157 • ⏱️ 14:45 • 18h ago
+👁️ 29K • 👍 1K • 💬 157 • ⏱️ 14:45 • 20h ago
 
 ---
 
@@ -329,7 +329,7 @@ Women being logical? We asked AI to run a simulation to see what that might look
 
 📺 The Babylon Bee
 
-👁️ 38K • 👍 5K • 💬 532 • ⏱️ 2:54 • 20h ago
+👁️ 38K • 👍 5K • 💬 532 • ⏱️ 2:54 • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ Make Your Own YouTube Shorts with OpenArt https://tolt.link/yvhshorts In this vi
 
 📺 Youri van Hofwegen
 
-👁️ 5K • 💬 8 • ⏱️ 8:09 • 1h ago
+👁️ 5K • 💬 8 • ⏱️ 8:09 • 3h ago
 
 ---
 
@@ -369,7 +369,7 @@ Use the BEST AI Tool Every Architect Should Use https://higgsfield.ai?fpr=ai&fp_
 
 📺 Thomas Creates
 
-👁️ 5K • 💬 1 • ⏱️ 10:45 • 1h ago
+👁️ 5K • 💬 1 • ⏱️ 10:45 • 3h ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,875,602 • ❤️ 1,907 • 10d ago
+⬇️ 1,875,602 • ❤️ 1,907 • 11d ago
 
 ---
 
@@ -421,7 +421,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 23,112 • ❤️ 419 • 15h ago
+⬇️ 23,112 • ❤️ 419 • 17h ago
 
 ---
 
@@ -489,7 +489,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 2,189 • ❤️ 165 • 1h ago
+⬇️ 2,189 • ❤️ 165 • 2h ago
 
 ---
 
@@ -649,7 +649,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 78.9k • 🔱 4.2k • 21m ago
+⭐ 78.9k • 🔱 4.2k • 2h ago
 
 ---
 
@@ -659,7 +659,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.7k • 🔱 1.1k • 2m ago
+⭐ 11.7k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.9k • 🔱 922 • 43m ago
+⭐ 6.9k • 🔱 922 • 2h ago
 
 ---
 
@@ -679,7 +679,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.1k • 🔱 878 • 3h ago
+⭐ 4.1k • 🔱 878 • 5h ago
 
 ---
 
@@ -699,7 +699,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.3k • 🔱 82 • 12h ago
+⭐ 2.3k • 🔱 82 • 13h ago
 
 ---
 
@@ -709,7 +709,7 @@ An AI-agent skill that generates browser-editable presentations from multiple vi
 
 `JavaScript` `agent-skill` `ai-agent` `ai-ppt` `claude` `claude-code`
 
-⭐ 1.9k • 🔱 189 • 9h ago
+⭐ 1.9k • 🔱 189 • 11h ago
 
 ---
 
@@ -719,7 +719,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 1.9k • 🔱 273 • 5h ago
+⭐ 1.9k • 🔱 273 • 7h ago
 
 ---
 

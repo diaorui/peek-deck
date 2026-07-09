@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-09T16:27:56.586295+00:00'
+updated: '2026-07-09T18:18:34.108359+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 09, 2026 at 16:27 UTC  
+**Last Updated:** July 09, 2026 at 18:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 **[Update on BAGEL: new features and future plans!](https://www.reddit.com/r/robotics/comments/1up4olv/update_on_bagel_new_features_and_future_plans/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -90,7 +90,7 @@ Is there anyone who could help me regarding controlling multiple robstride o2 mo
 
 Hi, I have an interview with Neuralink for this fall for robotics software engineer intern. I was wondering what should i expect and what is the interview process. Thank you.
 
-2d ago
+3d ago
 
 ---
 
@@ -114,6 +114,14 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 ## Google News: "robotics"
 
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
+
+mistral.ai • 1d ago
+
+---
+
 **[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
 Bloomberg.com • 1d ago
@@ -134,19 +142,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
-
-New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
-
-NVIDIA Blog • 2d ago
-
----
-
 **[Tiny robot boats build floating structures](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)**
 
 FloatForm, developed at MIT, is a swarm of small aquatic robots that assemble into reconfigurable structures. It could lead to floating infrastructure that builds itself into things like a temporary platform, a market, or a stage.
 
-MIT News • 37m ago
+MIT News • 2h ago
+
+---
+
+**[Meet Isaac 1, Weave Robotics' $8,000 home robot that can fold your laundry for you](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
+
+The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
+
+Business Insider • 9h ago
 
 ---
 
@@ -156,35 +164,27 @@ Nature • 1d ago
 
 ---
 
-**[Humanoid Robots Get The Hype. Task-Specific Robots May Win The Market.](https://www.forbes.com/sites/garydrenik/2026/07/09/humanoid-robots-get-the-hype-task-specific-robots-may-win-the-market/)**
+**[Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First](https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first)**
 
-Recent advances in sensing and AI have made it possible for machines to perceive and interpret the physical world with greater sophistication.
+For the first time, two teleoperated humanoid robots have been used to complete two surgeries during a preclinical trial, researchers report in the July 8 issue of the journal Nature.
 
-Forbes • 2h ago
+UC San Diego Today • 1d ago
 
 ---
 
-**[10 Jobs That Are Safe Because Robots Cost Too Much](https://finance.yahoo.com/technology/ai/articles/10-jobs-safe-because-robots-234918224.html)**
+**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
 
 Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-Yahoo Finance • 1d ago
+Forbes • 1d ago
 
 ---
 
-**[Meet Isaac 1, the $8,000 home robot that wants to take folding laundry off your to-do list](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
+**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
 
-The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
+New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
 
-Business Insider • 7h ago
-
----
-
-**[Fujitsu Joins CMU Robotics Innovation Center](https://www.cmu.edu/news/stories/archives/2026/july/fujitsu-joins-cmu-robotics-innovation-center)**
-
-CMU's Robotics Innovation Center welcomed global technology company Fujitsu Limited as its latest corporate tenant in the university’s robotics and artificial intelligence research facility at Hazelwood Green.
-
-Carnegie Mellon University • 1d ago
+NVIDIA Blog • 2d ago
 
 ---
 
@@ -266,7 +266,7 @@ Use My Link For The WR Store https://wr.my.games/PREDATORWR The Ao Jun just got 
 
 📺 PREDATOR WR
 
-👁️ 3K • 👍 204 • 💬 25 • ⏱️ 13:11 • 4h ago
+👁️ 3K • 👍 204 • 💬 25 • ⏱️ 13:11 • 6h ago
 
 ---
 
@@ -274,7 +274,7 @@ Use My Link For The WR Store https://wr.my.games/PREDATORWR The Ao Jun just got 
 
 📺 Ruko Toy
 
-👁️ 2K • 👍 13 • ⏱️ 0:21 • 2h ago
+👁️ 2K • 👍 13 • ⏱️ 0:21 • 4h ago
 
 ---
 

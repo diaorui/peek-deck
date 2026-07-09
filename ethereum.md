@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-09T16:27:56.583434+00:00'
+updated: '2026-07-09T18:18:34.105472+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 16:27 UTC  
+**Last Updated:** July 09, 2026 at 18:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,730.72
+### $1,748.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -1.4%  
-**30d:** +6.9%  
-**90d:** -24.2%  
-**1y:** -41.3%  
+**24h:** +0.9%  
+**7d:** -0.2%  
+**30d:** +8.3%  
+**90d:** -23.2%  
+**1y:** -40.5%  
 
 ---
 
@@ -84,7 +84,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[我现在开始学习和练习Web3还会太晚吗？如果不晚，一个完全的新手应该从哪些方面入手？](https://www.reddit.com/r/ethereum/comments/1ur3q21/我现在开始学习和练习web3还会太晚吗如果不晚一个完全的新手应该从哪些方面入手/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -122,7 +122,7 @@ Been thinking about the post quantum migration for a while and built a small too
 
 does decentralized governance in DAOs really work? this is an almost existential-level question on the realities of one of crypto’s most core toolings, and it’s being put to the test by what’s happening with the Ethereum Name Service DAO lately. if you’ve heard buzz around the drama surrounding ENS lately but couldn’t be bothered to keep up, I explain! https://youtu.be/_du0qCXCix4 but broadly: a Temp Check hit the ENS forum last week proposing to move operations, grants, and treasury management out of constant token votes and into a five-seat professional board at the ENS Foundation, with one seat reserved for founder Nick Johnson. token holders keep protocol control and the power to remove directors, and the Foundation can't vote its own treasury tokens. two onchain moves landed around the same time: Johnson self-delegated close to half of all active voting power in ENS governance, and a brand-new wallet with no public identity received ~200k ENS traced back to ENS Labs, instantly becoming the second-largest delegate. Lefteris Karapetsas (rotki) says it looks like coordinated preparation to swing the vote. Katherine Wu, the proposal's lead author, says a board with teeth is professionalization, and a founder holding his tokens is exactly what we ask founders to do. every DAO eventually hits this wall. full-token voting is slow and exhausting, but the moment someone tries to fix it is also the moment concentrated voting power matters most. i put together a ~4 minute breakdown covering the proposal, the wallet trail, and posing the ultimate question: when a decentralized community needs to change how it makes decisions, who gets to decide what that change looks like when all else has seemingly failed? https://youtu.be/_du0qCXCix4 super curious to hear this subreddit's thoughts on DAO governance! what are the successful examples? is ENS bound to be an example of a failure in decentralized governance? or is what ENS is doing necessary for the growth of the protocol? -------------------------------- if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-🔗 [youtu.be](https://youtu.be/_du0qCXCix4) • 2d ago
+🔗 [youtu.be](https://youtu.be/_du0qCXCix4) • 3d ago
 
 ---
 
@@ -156,7 +156,7 @@ CryptoSlate • 1d ago
 
 *Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
 
-ethereum.org • 38m ago
+ethereum.org • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ ethereum.org • 38m ago
 
 Tom Lee says Ethereum could become a $5 trillion network within the next few years. A $5 trillion market cap would imply an ETH price ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 3h ago
 
 In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -180,13 +180,13 @@ CoinDesk • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 12h ago
 
 ---
 
 **[Ethereum’s Institutional Demand Looks Stronger Than Its Price Action](https://www.investing.com/analysis/ethereums-institutional-demand-looks-stronger-than-its-price-action-200683641)**
 
-Investing.com • 2h ago
+Investing.com • 4h ago
 
 ---
 
@@ -194,7 +194,15 @@ Investing.com • 2h ago
 
 DUBAI, United Arab Emirates, July  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto is getting ready to launch its innovative DeFi ...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 23h ago
+
+---
+
+**[Bitcoin slips below the cloud as Ethereum and Altcoins show relative strength](https://www.kitco.com/opinion/2026-07-09/bitcoin-slips-below-cloud-ethereum-and-altcoins-show-relative-strength)**
+
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin dropped below the daily TBO Cloud on Wednesday, which technically puts it back in strong bearish mode. But the move is not as simple as it looks. The daily TBO Slow line is flattening and OBV is gradually curling higher, both of which suggest the market may still be preparing for a bounce rather than a full breakdown.Bitcoin weakens, but the reversal setup is not deadBTC falling below the Cloud is a bearish headline, but the context matters. A flattening Slow line shows that the macro downtrend is losing pressure, while OBV’s gradual curl higher shows buyers are not completely gone. That means the chart is technically weaker, but still in a constructive transition zone if the next bounce develops quickly.Ethereum looks better than BitcoinETH is currently the stronger major chart. It pulled back to the Fast line, closing the recent TBO Close Short and creating a cleaner entry zone. OBV also looks much better on ETH than BTC, which supports the idea that Ethereum may lead if the broader crypto bounce starts to rotate back into risk.Dominance still points toward an altcoin bounceCombined stablecoin dominance moved up to tag the Fast line again. The working expectation is that RSI may tag or push slightly above historical support, confirm it as resistance, and then fall back down. If that happens, it should coincide with a bullish bounce for crypto. BTC dominance also fell below the Cloud again, which is good news for altcoins.TOTALES remains bearish, but reversal signs are buildingTOTALES closed red on Wednesday and is back in strong bearish mode. But the same constructive details remain: the Slow line is flattening and OBV’s white moving-average line is slowly curling upward. That keeps the total-market reversal thesis alive even while the chart still looks weak at the surface.Macro remains tense, but DXY is showing weaknessDXY is working on another TBT Bearish Divergence, which would be bullish for stocks and crypto if it confirms. The pressure point is still USDJPY, which pushed even higher toward TBO Resistance at 162.607. The Bank of Japan pressure remains difficult to ignore. Meanwhile, VIX wicked into the Cloud but closed back below it, and WTI bounced to the Fast line as tensions around Iran increased again.Altcoin entries are getting clearerSOL tagged the Fast line on Wednesday, closing the recent TBO Close Short and creating a cleaner entry opportunity. ADA also retraced to its Fast line, XMR closed its recent Close Short, XTZ closed two recent Close Shorts, and AERO, SPX6900, SYRUP, and FARTCOIN are bounce-watch names. The caution list is just as important: WLD lost long-term support, CC printed a second TBO Breakdown, and LAB dropped 79%, reminding traders not to chase every chart just because some entries are improving.The overall message is balanced. Bitcoin’s headline chart is weaker below the Cloud, but the internal reversal signs are still there. Ethereum looks stronger than Bitcoin. Dominance charts still point toward a possible altcoin bounce. Macro remains tense, but DXY divergence could help risk assets if confirmed. This is a selective market, not a blind chase market.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
+
+KITCO • 1h ago
 
 ---
 
@@ -206,19 +214,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Bitcoin slips below the cloud as Ethereum and Altcoins show relative strength](https://www.kitco.com/opinion/2026-07-09/bitcoin-slips-below-cloud-ethereum-and-altcoins-show-relative-strength)**
+**[Energy Substantiation wants to put oil barrels on the Ethereum blockchain](https://cryptobriefing.com/energy-substantiation-tokenize-oil-blockchain/)**
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin dropped below the daily TBO Cloud on Wednesday, which technically puts it back in strong bearish mode. But the move is not as simple as it looks. The daily TBO Slow line is flattening and OBV is gradually curling higher, both of which suggest the market may still be preparing for a bounce rather than a full breakdown.Bitcoin weakens, but the reversal setup is not deadBTC falling below the Cloud is a bearish headline, but the context matters. A flattening Slow line shows that the macro downtrend is losing pressure, while OBV’s gradual curl higher shows buyers are not completely gone. That means the chart is technically weaker, but still in a constructive transition zone if the next bounce develops quickly.Ethereum looks better than BitcoinETH is currently the stronger major chart. It pulled back to the Fast line, closing the recent TBO Close Short and creating a cleaner entry zone. OBV also looks much better on ETH than BTC, which supports the idea that Ethereum may lead if the broader crypto bounce starts to rotate back into risk.Dominance still points toward an altcoin bounceCombined stablecoin dominance moved up to tag the Fast line again. The working expectation is that RSI may tag or push slightly above historical support, confirm it as resistance, and then fall back down. If that happens, it should coincide with a bullish bounce for crypto. BTC dominance also fell below the Cloud again, which is good news for altcoins.TOTALES remains bearish, but reversal signs are buildingTOTALES closed red on Wednesday and is back in strong bearish mode. But the same constructive details remain: the Slow line is flattening and OBV’s white moving-average line is slowly curling upward. That keeps the total-market reversal thesis alive even while the chart still looks weak at the surface.Macro remains tense, but DXY is showing weaknessDXY is working on another TBT Bearish Divergence, which would be bullish for stocks and crypto if it confirms. The pressure point is still USDJPY, which pushed even higher toward TBO Resistance at 162.607. The Bank of Japan pressure remains difficult to ignore. Meanwhile, VIX wicked into the Cloud but closed back below it, and WTI bounced to the Fast line as tensions around Iran increased again.Altcoin entries are getting clearerSOL tagged the Fast line on Wednesday, closing the recent TBO Close Short and creating a cleaner entry opportunity. ADA also retraced to its Fast line, XMR closed its recent Close Short, XTZ closed two recent Close Shorts, and AERO, SPX6900, SYRUP, and FARTCOIN are bounce-watch names. The caution list is just as important: WLD lost long-term support, CC printed a second TBO Breakdown, and LAB dropped 79%, reminding traders not to chase every chart just because some entries are improving.The overall message is balanced. Bitcoin’s headline chart is weaker below the Cloud, but the internal reversal signs are still there. Ethereum looks stronger than Bitcoin. Dominance charts still point toward a possible altcoin bounce. Macro remains tense, but DXY divergence could help risk assets if confirmed. This is a selective market, not a blind chase market.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
+Energy Substantiation launches $WTIC, an ERC-20 token backed 1:1 by physical WTI crude oil barrels, with plans to tokenize natural gas and Brent crude by Q3
 
-KITCO • 4m ago
-
----
-
-**[Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs](https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs)**
-
-Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
-
-The Block • 2d ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 166 • 👍 13 • 💬 10 • ⏱️ 4:49 • 6h ago
+👁️ 166 • 👍 13 • 💬 10 • ⏱️ 4:49 • 8h ago
 
 ---
 
@@ -302,7 +302,7 @@ A trader bought 316 dollars of CASHCAT at a 7400 dollar market cap. It is now si
 
 📺 Lark Davis
 
-👁️ 231 • 👍 16 • ⏱️ 1:01 • 27m ago
+👁️ 231 • 👍 16 • ⏱️ 1:01 • 2h ago
 
 ---
 
@@ -312,7 +312,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 454 • 💬 187 • ⏱️ 19:01 • 1d ago
+👁️ 7K • 👍 454 • 💬 187 • ⏱️ 19:01 • 2d ago
 
 ---
 
@@ -322,7 +322,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 7K • 👍 354 • 💬 3 • ⏱️ 1:01:41 • 30m ago
+👁️ 7K • 👍 354 • 💬 3 • ⏱️ 1:01:41 • 2h ago
 
 ---
 
