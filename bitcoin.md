@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-09T20:19:45.202761+00:00'
+updated: '2026-07-09T21:57:53.498653+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 20:19 UTC  
+**Last Updated:** July 09, 2026 at 21:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,336.60
+### $63,317.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
+**24h:** +1.5%  
 **7d:** +1.0%  
-**30d:** +2.7%  
-**90d:** -13.5%  
+**30d:** +2.8%  
+**90d:** -13.4%  
 **1y:** -45.5%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Keep stacking sats, especially with these low prices ofcourse.
 
-6h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Keep stacking sats, especially with these low prices ofcourse.
 
 Just curious what price you were hoping for
 
-12h ago
+14h ago
 
 ---
 
@@ -103,13 +103,13 @@ Just curious what price you were hoping for
 
 so I sold around 10-15% of my BTC after overthinking for months, almost a year... and ngl, I thought I'd feel like a calm responsible adult after that. WRONG. Now every green candle makes me feel like I sold the bottom, and every red candle makes me feel like a genius for 7 minutes xD, still holding around 90-85%, still bullish long term, and still got the mining side running through OneMiners, so I'm not fully out or anything :D but damn, BTC really has a way of making every decision feel dumb right after u make it lol. maybe that's the real game. not buying, not selling, just trying not to become emotionally cooked by a chart. anyone else sold a little and somehow became MORE stressed?
 
-7h ago
+8h ago
 
 ---
 
 **[What Bitcoin has been doing for this month.](https://www.reddit.com/r/Bitcoin/comments/1urfyz8/what_bitcoin_has_been_doing_for_this_month/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -117,7 +117,7 @@ so I sold around 10-15% of my BTC after overthinking for months, almost a year..
 
 This took a lot of work and would love your feedback on what's missing, what can be added/removed! https://newhedge.io/buy
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ This took a lot of work and would love your feedback on what's missing, what can
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Buy bitcoin. Simple as that.
 
-13h ago
+14h ago
 
 ---
 
@@ -141,13 +141,13 @@ Buy bitcoin. Simple as that.
 
 Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
-3h ago
+5h ago
 
 ---
 
 **[The Bitcoin Stateless Revolution. How Utreexo (BIP-183) Obliterates the UTXO Bottleneck and Reclaims the Base Layer.](https://www.reddit.com/r/Bitcoin/comments/1urmh50/the_bitcoin_stateless_revolution_how_utreexo/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-bitcoin-stateless-revolution) • 9h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-bitcoin-stateless-revolution) • 11h ago
 
 ---
 
@@ -157,7 +157,7 @@ Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
 **[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 10h ago
 
 (Bloomberg) -- American Bitcoin Corp. was built around a simple idea: that owning and mining Bitcoin would be enough to mint money.Most Read from BloombergMicrosoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video GameTrump Vents Anger With Iran and Warns Ceasefire May Be ‘Over’Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom LevelsUS Military Launches Strikes on Iran for Second Straight DayGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaInstead, the company co-fou
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 10h ago
 
 Eric Trump posted a cringeworthy bid for his dad’s approval just hours before news of the staggering loss broke.
 
-The Daily Beast • 3h ago
+The Daily Beast • 5h ago
 
 ---
 
@@ -181,15 +181,31 @@ The Daily Beast • 3h ago
 
 Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.
 
-The Block • 6h ago
+The Block • 8h ago
 
 ---
 
-**[Bitcoin Price Will Hit $500K Before Trump Leaves, Says Analyst, as President Aims to 'Beat China'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-hit-500k-trump-124715081.html)**
+**[JPMorgan Chase Says Bitcoin's Main Risk Isn't Strategy](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-chase-says-bitcoins-main-205200489.html)**
 
-Trump has renewed his support for Bitcoin. Standard Chartered continues to target $500,000 Bitcoin before Trump leaves office. Trump's expanding crypto interests remain under scrutiny. ...
+Strategy's (NASDAQ: $MSTR) recent Bitcoin (CRYPTO: $BTC) sales are not the main risk facing the cryptocurrency ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Crypto Market Today, July 9: Bitcoin Holds Firm as Risk Appetite Returns Despite Geopolitical Noise](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-july-9-212243527.html)**
+
+On July 9, 2026, leading cryptocurrencies posted gains as news reports sparked hope that digital asset legislation may reach the Senate this month.
+
+Yahoo Finance • 35m ago
+
+---
+
+**[This Top Cryptocurrency Could Soar 135% By the End of the Year, According to Wall Street Investment Firm Bernstein](https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrency-could-soar-135-205000825.html)**
+
+Bitcoin could hit $150,000 this year -- but only if these two things happen.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,7 +213,7 @@ Yahoo Finance • 7h ago
 
 Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
 
-KRXI2 • 20h ago
+KRXI2 • 22h ago
 
 ---
 
@@ -205,7 +221,7 @@ KRXI2 • 20h ago
 
 Strategy's latest Bitcoin sale is rattling some of the coin's holders.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -213,23 +229,7 @@ The Motley Fool • 14h ago
 
 Redemption requests in the $2 trillion private credit market surged to $15.6 billion in the second quarter, dwarfing bitcoin ETF outflows.
 
-CoinDesk • 1h ago
-
----
-
-**[Crossville bitcoin mining center draws noise complaints, city eyes moratorium on future data centers](https://www.wvlt.tv/2026/07/08/crossville-bitcoin-mining-center-draws-noise-complaints-city-eyes-moratorium-future-data-centers/)**
-
-A bitcoin mining data center in Crossville is generating noise complaints from neighboring businesses, and city officials say they are considering a two-year moratorium on future data centers while they work to establish additional regulations.
-
-WVLT • 1d ago
-
----
-
-**[Russia's Largest Private Bank Alfa-Bank To Test Bitcoin And Crypto Trading](https://bitcoinmagazine.com/news/russias-largest-private-bank-alfa-bank)**
-
-Russia's largest private lender, Alfa-Bank, plans to launch Bitcoin and crypto trading, custody, and a digital depository once new regulations take effect, joining a broader push by major Russian banks to enter the country's emerging crypto market by late 2026 or 2027.
-
-Bitcoin Magazine • 6h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -259,7 +259,7 @@ Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign
 
 Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal challenge before France's Conseil d'État to annul Decree No. 2025-1276, which implements the EU's DAC8 crypto tax reporting directive. The exchange argues the rules create a mass surveillance database linking identities and crypto activity, endangering holders' physical safety.
 
-⬆️ 3 • 💬 1 • 19h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
+⬆️ 3 • 💬 1 • 20h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
 
 ---
 
@@ -267,7 +267,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 23h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
+⬆️ 2 • 💬 1 • 1d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
 
 ---
 
@@ -279,33 +279,11 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 ---
 
-**[Can BitMine's $213M Ethereum Bet Spark the Next Rally?](https://news.ycombinator.com/item?id=48835950)**
-
-Read this crypto post from greatHydra_997 posted on 2026/07/08 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
-
-⬆️ 2 • 💬 0 • 1d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377612382/)
-
----
-
 **[Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://news.ycombinator.com/item?id=48842611)**
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 335 • 💬 241 • 11h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
-
----
-
-**[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
-
-⬆️ 12 • 💬 4 • 3d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
-
----
-
-**[Ditching Zotero for a Text File](https://news.ycombinator.com/item?id=48809916)**
-
-Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
-
-⬆️ 5 • 💬 0 • 3d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
+⬆️ 336 • 💬 245 • 13h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
@@ -319,7 +297,7 @@ The biggest attacks on Bitcoin have often become its biggest strengths. The 2017
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 238 • ⏱️ 19:44 • 19h ago
+👁️ 22K • 👍 2K • 💬 238 • ⏱️ 19:44 • 20h ago
 
 ---
 
@@ -339,7 +317,7 @@ Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders 
 
 📺 Gareth Soloway
 
-👁️ 18K • 👍 2K • 💬 80 • ⏱️ 15:38 • 3h ago
+👁️ 18K • 👍 2K • 💬 80 • ⏱️ 15:38 • 5h ago
 
 ---
 
@@ -349,7 +327,7 @@ Smartnonsense.com.
 
 📺 Smart Nonsense
 
-👁️ 61K • 👍 7K • 💬 84 • ⏱️ 1:07 • 6h ago
+👁️ 61K • 👍 7K • 💬 84 • ⏱️ 1:07 • 7h ago
 
 ---
 
@@ -379,7 +357,7 @@ Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bit
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 371 • 💬 55 • ⏱️ 18:07 • 7h ago
+👁️ 3K • 👍 371 • 💬 55 • ⏱️ 18:07 • 8h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-09T20:19:45.211221+00:00'
+updated: '2026-07-09T21:57:53.508041+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 09, 2026 at 20:19 UTC  
+**Last Updated:** July 09, 2026 at 21:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -130,25 +130,19 @@ TechCrunch • 1d ago
 
 ---
 
-**[Robotics, Drones & AI For Monitoring Energy Infrastructure](https://www.forbes.com/sites/sabbirrangwala/2026/07/09/robotics-drones--ai-for-monitoring-energy-infrastructure/)**
+**[A new kind of robot swims the seas and soars the skies](https://www.npr.org/2026/07/09/nx-s1-5885040/robot-flying-aerial-aquatic-mit-birds)**
 
-Progress in physical AI, AoT®, sensors, drones, and robotics is being leveraged to monitor the vast, multi-trillion dollar global oil and gas infrastructure.  .
+Inspired by diving birds, roboticists built the lightweight machines to move from water to air. The design may one day lead to robots that can monitor and sample the coastal ocean.
 
-Forbes • 41m ago
-
----
-
-**[Watch Robotics Isn't Living Up to the Hype](https://www.bloomberg.com/news/videos/2026-07-09/opinion-robotics-isn-t-living-up-to-the-hype-video)**
-
-Bloomberg.com • 1h ago
+NPR • 3h ago
 
 ---
 
-**[Humanoid robots just removed a gallbladder in a live surgery](https://mashable.com/tech/humanoid-robots-teleoperated-gallbladder-surgery-uc-san-diego)**
+**[Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First](https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first)**
 
-Two teleoperated humanoid robots just successfully performed surgeries for the first time.
+For the first time, two teleoperated humanoid robots have been used to complete two surgeries during a preclinical trial, researchers report in the July 8 issue of the journal Nature.
 
-Mashable • 4h ago
+UC San Diego Today • 1d ago
 
 ---
 
@@ -156,7 +150,7 @@ Mashable • 4h ago
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
-Ars Technica • 7m ago
+Ars Technica • 1h ago
 
 ---
 
@@ -166,25 +160,31 @@ Nature • 1d ago
 
 ---
 
-**[Meet Isaac 1, Weave Robotics' $8,000 home robot that can fold your laundry for you](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
+**[Watch Robotics Isn't Living Up to the Hype](https://www.bloomberg.com/news/videos/2026-07-09/opinion-robotics-isn-t-living-up-to-the-hype-video)**
 
-The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
-
-Business Insider • 11h ago
-
----
-
-**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
-
-New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
-
-NVIDIA Blog • 2d ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
 
 Reuters • 1d ago
+
+---
+
+**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
+
+Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
+
+Forbes • 1d ago
+
+---
+
+**[Meet Isaac 1, the $8,000 home robot that wants to take folding laundry off your to-do list](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
+
+The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
+
+Business Insider • 12h ago
 
 ---
 
@@ -198,7 +198,7 @@ Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC dea
 
 📺 Fox Business Clips
 
-👁️ 645 • 👍 29 • 💬 10 • ⏱️ 8:37 • 2h ago
+👁️ 645 • 👍 29 • 💬 10 • ⏱️ 8:37 • 4h ago
 
 ---
 
@@ -218,7 +218,7 @@ Mitsubishi just entered the humanoid robotics race. The Japanese automaker just 
 
 📺 Kalil 4.0
 
-👁️ 619 • 👍 36 • 💬 5 • ⏱️ 0:35 • 4h ago
+👁️ 619 • 👍 36 • 💬 5 • ⏱️ 0:35 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 20K • 👍 363 • 💬 96 • ⏱️ 11:41 • 6d ago
+👁️ 20K • 👍 363 • 💬 96 • ⏱️ 11:41 • 7d ago
 
 ---
 
@@ -278,7 +278,7 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 99 • 💬 23 • ⏱️ 10:42 • 2d ago
+👁️ 4K • 👍 99 • 💬 23 • ⏱️ 10:42 • 3d ago
 
 ---
 
@@ -288,7 +288,7 @@ Russia hosted its first-ever symbolic wedding ceremony for humanoid robots in Mo
 
 📺 Firstpost
 
-👁️ 2K • 👍 30 • 💬 5 • ⏱️ 0:52 • 2h ago
+👁️ 2K • 👍 30 • 💬 5 • ⏱️ 0:52 • 4h ago
 
 ---
 
