@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-10T17:18:32.248371+00:00'
+updated: '2026-07-10T19:00:58.345987+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 17:18 UTC  
+**Last Updated:** July 10, 2026 at 19:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +0.6%  
-**30d:** +7.0%  
-**90d:** -18.1%  
-**1y:** -39.4%  
+**24h:** +1.9%  
+**7d:** +0.1%  
+**30d:** +6.4%  
+**90d:** -18.6%  
+**1y:** -39.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.74B
+**Market Cap:** $215.18B
 Rank #2
 
 **Circulating Supply:** 120,683,081 ETH
@@ -62,7 +62,7 @@ No max supply
 -63.9%
 
 **All-Time Low:** $0.43
-+412765.3%
++411712.1%
 
 ---
 
@@ -122,7 +122,7 @@ Been thinking about the post quantum migration for a while and built a small too
 
 does decentralized governance in DAOs really work? this is an almost existential-level question on the realities of one of crypto’s most core toolings, and it’s being put to the test by what’s happening with the Ethereum Name Service DAO lately. if you’ve heard buzz around the drama surrounding ENS lately but couldn’t be bothered to keep up, I explain! https://youtu.be/_du0qCXCix4 but broadly: a Temp Check hit the ENS forum last week proposing to move operations, grants, and treasury management out of constant token votes and into a five-seat professional board at the ENS Foundation, with one seat reserved for founder Nick Johnson. token holders keep protocol control and the power to remove directors, and the Foundation can't vote its own treasury tokens. two onchain moves landed around the same time: Johnson self-delegated close to half of all active voting power in ENS governance, and a brand-new wallet with no public identity received ~200k ENS traced back to ENS Labs, instantly becoming the second-largest delegate. Lefteris Karapetsas (rotki) says it looks like coordinated preparation to swing the vote. Katherine Wu, the proposal's lead author, says a board with teeth is professionalization, and a founder holding his tokens is exactly what we ask founders to do. every DAO eventually hits this wall. full-token voting is slow and exhausting, but the moment someone tries to fix it is also the moment concentrated voting power matters most. i put together a ~4 minute breakdown covering the proposal, the wallet trail, and posing the ultimate question: when a decentralized community needs to change how it makes decisions, who gets to decide what that change looks like when all else has seemingly failed? https://youtu.be/_du0qCXCix4 super curious to hear this subreddit's thoughts on DAO governance! what are the successful examples? is ENS bound to be an example of a failure in decentralized governance? or is what ENS is doing necessary for the growth of the protocol? -------------------------------- if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-🔗 [youtu.be](https://youtu.be/_du0qCXCix4) • 3d ago
+🔗 [youtu.be](https://youtu.be/_du0qCXCix4) • 4d ago
 
 ---
 
@@ -160,34 +160,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
-
-MarketWatch • 3h ago
-
----
-
-**[Ethereum must move faster or risk losing its edge says Starkware Founder](https://sg.finance.yahoo.com/video/ethereum-must-move-faster-risk-141333162.html)**
-
-On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ambitious roadmap must move faster—or risk losing its first-mover advantage to newer, more modern blockchains. He also explains why quantum readiness has become an urgent priority and shares his vision for a durable, peer-to-peer financial system built on true economic freedom.
--
-This episode is brought to you by RealFi, a smarter stablecoin, backed by real-world assets. Find out more at realfi.co.
--
-Ledn provides a secure and transparent way to access liquidity while maintaining your bitcoin holdings.
-Perfect 8 year track record of keeping clients assets safe.
-Don't sell your bitcoin. Get a bitcoin-backed loan.
-Check out your rate by using their loan calculator at ledn.io
--
-JPEG Trading is a global proprietary trading firm specializing in cryptocurrency and decentralized finance markets. From market structure and liquidity provision to quantitative trading strategies, JPEG Trading operates across the full spectrum of blockchain-based assets. Follow @jpegtrading on X to stay ahead of the latest developments in digital asset markets: https://x.com/jpegtrading
-
-Yahoo Finance Singapore • 3h ago
-
----
-
 **[Ethereum Foundation says AI agents find real bugs, but most are false positives](https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives)**
 
 The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.
 
-The Block • 21h ago
+The Block • 23h ago
 
 ---
 
@@ -199,11 +176,17 @@ CoinDesk • 1d ago
 
 ---
 
+**[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
+
+MarketWatch • 5h ago
+
+---
+
 **[Current price of Ethereum for July 10, 2026](https://fortune.com/article/price-of-ethereum-07-10-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 8h ago
 
 ---
 
@@ -211,7 +194,7 @@ Fortune • 6h ago
 
 Cambridge CCAF research shows 31% of Ethereum beacon node activity is US-based and clustered on AWS, Hetzner, and OVH, raising centralization concerns.
 
-Crypto Briefing • 35m ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -219,7 +202,7 @@ Crypto Briefing • 35m ago
 
 MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -227,7 +210,13 @@ markets.businessinsider.com • 11h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
 
-FXStreet • 13h ago
+FXStreet • 15h ago
+
+---
+
+**[Best Ethereum Staking Platforms in 2026](https://www.ccn.com/crypto-investing/exchanges/best-ethereum-staking-platforms/)**
+
+CCN.com • 3h ago
 
 ---
 
@@ -241,7 +230,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 212 • 💬 35 • ⏱️ 18:35 • 23h ago
+👁️ 5K • 👍 212 • 💬 35 • ⏱️ 18:35 • 1d ago
 
 ---
 
@@ -251,7 +240,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 4K • 👍 318 • 💬 126 • ⏱️ 15:45 • 6h ago
+👁️ 4K • 👍 318 • 💬 126 • ⏱️ 15:45 • 7h ago
 
 ---
 
@@ -271,7 +260,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 92 • ⏱️ 7:04 • 14h ago
+👁️ 1K • 👍 92 • ⏱️ 7:04 • 16h ago
 
 ---
 
@@ -301,7 +290,7 @@ BITCOIN LIQUIDATIONS PENDING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 10K • 👍 329 • 💬 178 • ⏱️ 21:24 • 20h ago
+👁️ 10K • 👍 329 • 💬 178 • ⏱️ 21:24 • 22h ago
 
 ---
 
@@ -321,7 +310,7 @@ Bitcoin climbed close to the $64000 mark as fresh ETF inflows returned and insti
 
 📺 NDTV Profit
 
-👁️ 411 • 👍 13 • 💬 1 • ⏱️ 3:55 • 10h ago
+👁️ 411 • 👍 13 • 💬 1 • ⏱️ 3:55 • 12h ago
 
 ---
 

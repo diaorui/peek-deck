@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-10T17:18:32.242196+00:00'
+updated: '2026-07-10T19:00:58.339946+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 17:18 UTC  
+**Last Updated:** July 10, 2026 at 19:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,979.71
+### $63,939.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +1.3%  
-**30d:** +0.6%  
-**90d:** -9.5%  
-**1y:** -45.5%  
+**24h:** +0.8%  
+**7d:** +1.0%  
+**30d:** +0.3%  
+**90d:** -9.8%  
+**1y:** -45.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1283.45B
+**Market Cap:** $1278.42B
 Rank #1
 
-**Circulating Supply:** 20,054,421 BTC
+**Circulating Supply:** 20,054,543 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-49.4%
 
 **All-Time Low:** $67.81
-+94272.5%
++93903.8%
 
 ---
 
@@ -89,7 +89,7 @@ I keep replaying it in my head. I had chances to sell high last year and just...
 
 The sentiment at $120k was “we’re going to $250k.” The sentiment at $62k is “Bitcoin is dead.” Same asset. Keep Stacking!
 
-20h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
 Hi, 24M I would like to get some exposure to crypto and deciding whether to: - buy BTC through Coinbase/Kraken and transferring to cold wallet - buy BTC and leave in Coinbase/Kraken - buy a Bitcoin ETF like FBTC/IBIT Suppose a few things: - Intend to hold long term, think 20+ years - Do not really care about having “full ownership of the BTC”. I know people say “not your keys, not your coins” - Prefer to not have to physically own cold wallet, unless this form of exposure to crypto has the most likely chance of highest returns - if ETF, would be in brokerage and not tax advantaged account - Don’t need to buy on weekends or market after hours. Okay buying jsut during the week and DCA - Do not intend to do covered calls or anything like that - Assume Fidelity won’t go under in the next 20 years (I know it could) - I care about which has the most growth. Ultimately, I’m thinking about “is the juice worth the squeeze” for owning in cold wallet vs buying an ETF Would love for any advice you all may have
 
-21h ago
+23h ago
 
 ---
 
@@ -135,7 +135,7 @@ Just curious what price you were hoping for
 
 **[Here is me saying bitcoin in July 2026](https://www.reddit.com/r/Bitcoin/comments/1ur0ses/here_is_me_saying_bitcoin_in_july_2026/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -157,81 +157,83 @@ This took a lot of work and would love your feedback on what's missing, what can
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin takes aim at $65,000, erasing losses from earlier this week](https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak)**
-
-Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $52 million, ending the one bright spot in crypto's institutional flows even as prices rallied.
-
-CoinDesk • 1h ago
-
----
-
 **[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[5 Most Bullish Bitcoin Price Predictions in 2026 — From Wall Street's $100,000 to Michael Saylor's $21M](https://finance.yahoo.com/markets/crypto/articles/5-most-bullish-bitcoin-price-150215227.html)**
+**[Bitcoin (BTC) price forecast: Here's how high prices could bounce as MACD flips bullish](https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch)**
 
-Bitcoin has fallen more than 50% from its 2026 peak. Standard Chartered and Bernstein remain bullish. Cathie Wood, Tom Lee, and Michael Saylor have issued ...
+Bitcoin’s longer-term MACD histogram has turned bullish. We break down what it means and the key levels to watch out for in the near-term.
 
-Yahoo Finance • 2h ago
+CoinDesk • 12h ago
 
 ---
 
-**[What the Highest 30-Year Treasury Yield Since 2007 Means for Bitcoin and Gold](https://finance.yahoo.com/markets/crypto/articles/highest-30-treasury-yield-since-160000644.html)**
+**[A 12-Year-Old Bitcoin Dispute Returns as BIP-110 Divides the Community](https://finance.yahoo.com/markets/crypto/articles/12-old-bitcoin-dispute-returns-175403308.html)**
 
-The 30-year Treasury yield hit 5.058% at auction, its highest since 2007. See how Bitcoin and gold reacted to the record.
+David Bailey revived Luke Dashjr's 2014 Gentoo blacklisting row to challenge his BIP-110 push over Bitcoin's future.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[What Do Bitcoin, SpaceX, And Starlink Have In Common? 10x Research Points To ‘Physics’](https://finance.yahoo.com/markets/crypto/articles/bitcoin-spacex-starlink-common-10x-155619751.html)**
+**[New Hampshire killed its landmark $100 million bitcoin bond](https://ca.finance.yahoo.com/video/new-hampshire-killed-its-landmark-100-million-bitcoin-bond-173000761.html)**
 
-In a note to investors, 10x Research stated that Bitcoin, SpaceX and Starlink are part of the same long-term infrastructure buildout rather than separate investment themes.
+Scott Melker discusses how New Hampshire officials rejected the state's proposal for a bitcoin-backed (BTC-USD) state bond.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's crypto hub to find the latest crypto-related news.
+
+Yahoo! Finance Canada • 1h ago
+
+---
+
+**[Strategy (MSTR) Sells 3,588 Bitcoin And Rewrites Its Treasury Playbook](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-sells-3-588-171326135.html)**
+
+Strategy, listed as NasdaqGS:MSTR, sold 3,588 Bitcoins to fund preferred stock dividends and support liquidity. The company introduced a Bitcoin Monetization Program authorizing up to $1.25 billion in potential Bitcoin sales. This move marks a shift from a strict buy and hold Bitcoin approach to an active treasury management policy. Strategy enters this policy shift with its share price at $93.89 and a mixed return profile that includes a decline of 40.3% year to date and 77.7% over the...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Strategy Just Unveiled a Brand-New Approach to Bitcoin. Is the World's Biggest Bitcoin Treasury Company in Trouble?](https://finance.yahoo.com/markets/crypto/articles/strategy-just-unveiled-brand-approach-111400228.html)**
+**[Bitcoin under pressure as Trump says Iran ceasefire is over](https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil)**
 
-Why buy a Bitcoin treasury company when you can simply buy Bitcoin?
+Major cryptocurrencies are trading in the red as renewed U.S.-Iran airstrikes push oil higher.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin's Most Prominent Holder Is Selling Some. Should You?](https://www.fool.com/investing/2026/07/09/bitcoins-most-prominent-holder-is-selling-some-sho/)**
-
-Strategy's latest Bitcoin sale is rattling some of the coin's holders.
-
-The Motley Fool • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Michael Saylor’s recent Bitcoin sales are a worry for crypto investors](https://nypost.com/2026/07/10/business/michael-saylors-recent-bitcoin-sales-are-a-worry-for-crypto-investors/)**
+**[Bitcoin’s Slump Forces a Crypto Booster’s Retreat](https://thedispatch.com/newsletter/morning/bitcoins-slump-forces-a-crypto-boosters-retreat/)**
 
-Is Saylor going to turn the current Bitcoin winter into the storm of the century for crypto?
+Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
 
-New York Post • 6h ago
+The Dispatch • 8h ago
 
 ---
 
-**['Bottom building in progress': Analysts say bitcoin holder capitulation signals late-stage bear market](https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market)**
+**[Bitcoin Drops After Trump Says U.S.-Iran Cease-Fire Is Over](https://www.barrons.com/articles/bitcoin-price-trump-iran-75458510)**
 
-Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.
+Barron's • 2d ago
+
+---
+
+**[JPMorgan says bitcoin's main risk isn't Strategy, but blockchain adoption that doesn't benefit public chains and tokens](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto)**
+
+JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
 
 The Block • 1d ago
 
 ---
 
-**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
+**[Current price of Bitcoin for July 8, 2026](https://fortune.com/article/price-of-bitcoin-07-08-2026/)**
 
-American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Honolulu Star-Advertiser • 4h ago
+Fortune • 2d ago
 
 ---
 
@@ -253,7 +255,7 @@ Losing valuable information is a bad thing when you’re an archivist. Have we r
 
 Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign that it is abandoning co-founder Michael Saylor’s “Never sell your Bitcoin” mantra as a slumping digital asset market …
 
-⬆️ 5 • 💬 2 • 3d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
+⬆️ 5 • 💬 2 • 4d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
 
 ---
 
@@ -277,7 +279,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -285,7 +287,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 3h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 5h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -301,13 +303,13 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 359 • 💬 253 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 360 • 💬 254 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 68 • 💬 27 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 75 • 💬 36 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -321,7 +323,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 266 • 💬 101 • ⏱️ 7:32 • 17h ago
+👁️ 5K • 👍 266 • 💬 101 • ⏱️ 7:32 • 19h ago
 
 ---
 
@@ -351,7 +353,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 113 • 💬 9 • ⏱️ 15:58 • 22h ago
+👁️ 3K • 👍 113 • 💬 9 • ⏱️ 15:58 • 1d ago
 
 ---
 
@@ -361,7 +363,7 @@ As the deadline to get Clarity Act thru comes closer the attackers of bitcoin co
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 302 • 💬 28 • ⏱️ 1:29:30 • 22h ago
+👁️ 6K • 👍 302 • 💬 28 • ⏱️ 1:29:30 • 1d ago
 
 ---
 
@@ -381,7 +383,7 @@ Ethics concerns from Senate Democrats remain the biggest obstacle for the upper 
 
 📺 Paul Barron Network
 
-👁️ 47K • 👍 2K • 💬 138 • ⏱️ 20:00 • 21h ago
+👁️ 47K • 👍 2K • 💬 138 • ⏱️ 20:00 • 23h ago
 
 ---
 
@@ -391,7 +393,7 @@ WEEKLY REPORTS → https://link.tiainvestor.com/jyt-reports ➡ 18-YEAR CYCLE MI
 
 📺 Jason Pizzino
 
-👁️ 13K • 👍 845 • 💬 21 • ⏱️ 21:02 • 16h ago
+👁️ 13K • 👍 845 • 💬 21 • ⏱️ 21:02 • 18h ago
 
 ---
 
@@ -401,7 +403,7 @@ Get Tangem (20% off): https://tangem.com/pricing/?promocode=CYBERSCRILLA&promoco
 
 📺 Cyber Scrilla
 
-👁️ 15K • 👍 690 • 💬 128 • ⏱️ 8:04 • 17h ago
+👁️ 15K • 👍 690 • 💬 128 • ⏱️ 8:04 • 19h ago
 
 ---
 

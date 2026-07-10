@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T17:18:32.251630+00:00'
+updated: '2026-07-10T19:00:58.349223+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 17:18 UTC  
+**Last Updated:** July 10, 2026 at 19:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 **[Update on BAGEL: new features and future plans!](https://www.reddit.com/r/robotics/comments/1up4olv/update_on_bagel_new_features_and_future_plans/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -90,7 +90,7 @@ Is there anyone who could help me regarding controlling multiple robstride o2 mo
 
 Hi, I have an interview with Neuralink for this fall for robotics software engineer intern. I was wondering what should i expect and what is the interview process. Thank you.
 
-3d ago
+4d ago
 
 ---
 
@@ -120,20 +120,6 @@ Reuters • 2d ago
 
 ---
 
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
-
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
-
-mistral.ai • 2h ago
-
----
-
-**[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
-
-Bloomberg.com • 2d ago
-
----
-
 **[This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)**
 
 General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
@@ -146,7 +132,7 @@ TechCrunch • 1d ago
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
-Ars Technica • 21h ago
+Ars Technica • 22h ago
 
 ---
 
@@ -154,7 +140,21 @@ Ars Technica • 21h ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 2h ago
+New Atlas • 3h ago
+
+---
+
+**[Humanoid Robots Just Performed Live Surgery For The First Time Ever](https://www.forbes.com/sites/johnkoetsier/2026/07/10/humanoid-robots-just-performed-live-surgery-for-the-first-time-ever/)**
+
+"Your robot surgeon will see you now." We might not be too far off from that statement. And it might both reduce health care costs and increase availability.
+
+Forbes • 39m ago
+
+---
+
+**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
+
+Reuters • 17m ago
 
 ---
 
@@ -162,7 +162,15 @@ New Atlas • 2h ago
 
 The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
 
-Fast Company • 7h ago
+Fast Company • 8h ago
+
+---
+
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
+
+mistral.ai • 1h ago
 
 ---
 
@@ -179,14 +187,6 @@ SiouxFalls.Business • 1d ago
 BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
 
 Yahoo Finance • 2d ago
-
----
-
-**[Do Robots Lure Us to War? The Impact of the Robotic Revolution on the Propensity for Armed Conflict](https://www.rand.org/pubs/rgs_dissertations/RGSDA5114-1.html)**
-
-The author developed a framework to understand the decision space for the use of force in the presence of emerging technology and applied it to autonomous weapons systems.
-
-RAND • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Like and sui discord in bio #freetoplay #warrobots #gaming.
 
 📺 ElephantDogCat
 
-👁️ 18K • 👍 1K • 💬 125 • ⏱️ 12:35 • 21h ago
+👁️ 18K • 👍 1K • 💬 125 • ⏱️ 12:35 • 22h ago
 
 ---
 
@@ -260,7 +260,7 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 📺 FOU News
 
-👁️ 1.2M • 👍 18K • 💬 2K • ⏱️ 0:22 • 4d ago
+👁️ 1.2M • 👍 18K • 💬 2K • ⏱️ 0:22 • 5d ago
 
 ---
 
@@ -280,7 +280,7 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 125 • 💬 9 • ⏱️ 1:06 • 14h ago
+👁️ 3K • 👍 125 • 💬 9 • ⏱️ 1:06 • 16h ago
 
 ---
 
