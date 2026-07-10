@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-09T23:18:10.933457+00:00'
+updated: '2026-07-10T01:09:06.398598+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 09, 2026 at 23:18 UTC  
+**Last Updated:** July 10, 2026 at 01:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta recently launched a new AI agent for businesses that’s designed to handle customer chats, book appointments, and close sales. Mark Zuckerberg even dropped a pretty wild prediction during the launch stating that eventually these agents will be able to "run your entire business." On one hand, you have to appreciate how far the infra has come. The fact that a platform as massive as Meta is rolling out native autonomous tools proves that AI agents are no longer just an experimental toy for tech hobbyists. They are genuinely capable of saving massive amounts of time on frontline customer service and scheduling. But there’s a massive elephant in the room that we need to talk about: data ownership. Handing over your entire operational data pipeline, your customer interactions, and your lead information to a mega-platform whose entire business model relies on ad targeting feels risky. If a platform controls both the leads and the infra running your sales, you essentially risk paying to buy your own data back in the form of ad optimization down the line. For local SMBs and e-commerce shops handling high-volume Instagram DMs, this native integration is a massive win. But for high-ticket B2B SaaS, startups, and agencies, building independent, open workflows where you own the data rails and deliverability guardrails is still the safest play. It’s an interesting line to walk. We’re hosting a live, free workshop next thursday on how to use AI agents for B2B lead gen here
 
-8h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Meta recently launched a new AI agent for businesses that’s designed to handle
 
 The main conclusions from analysis were: The Pareto frontier for coding tasks (i.e. best quality for a given cost) includes models from OpenAI, Anthropic, and open source. This means today, only a mix of tools can provide frontier performance. Open models, and GLM 5.2 in particular, are now able to handle even the highest level of task difficulty. The token price of a model is a poor indicator of actual costs incurred on end-to-end tasks. Larger models can be far more token efficient and have lower overall costs. The harness a model is called from dramatically impacts cost and quality. In many cases, simple harnesses like Pi performed best on our workloads.
 
-🔗 [Databricks](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase) • 10h ago
+🔗 [Databricks](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ The main conclusions from analysis were: The Pareto frontier for coding tasks (i
 
 While some players are comfortable with limited AI use, the survey suggests that trust in developers’ transparency is still a major concern.
 
-🔗 [PC Guide](https://www.pcguide.com/news/pc-gamers-remain-skeptical-of-steams-ai-disclaimers-poll-shows-many-believe-game-devs-are-hiding-it/) • 13h ago
+🔗 [PC Guide](https://www.pcguide.com/news/pc-gamers-remain-skeptical-of-steams-ai-disclaimers-poll-shows-many-believe-game-devs-are-hiding-it/) • 15h ago
 
 ---
 
@@ -77,7 +77,7 @@ koboldcpp-1.117
 Fixed terminal output sometimes not showing thinking traces
 Multimodal Images are now inserted inline instead of at the top of the context. This should improve vision coherence an...
 
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.117) • 30m ago
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.117) • 2h ago
 
 ---
 
@@ -85,13 +85,13 @@ Multimodal Images are now inserted inline instead of at the top of the context. 
 
 A research-backed AI scenario forecast.
 
-🔗 [ai-2040.com](https://ai-2040.com/) • 6h ago
+🔗 [ai-2040.com](https://ai-2040.com/) • 8h ago
 
 ---
 
 **[Google Should Open Source Gemini. All of It.](https://www.reddit.com/r/artificial/comments/1ury0kc/google_should_open_source_gemini_all_of_it/)**
 
-🔗 [Thomas Unise](https://blog.thomasunise.com/google-should-open-source-gemini-all-of-it/) • 5h ago
+🔗 [Thomas Unise](https://blog.thomasunise.com/google-should-open-source-gemini-all-of-it/) • 7h ago
 
 ---
 
@@ -99,7 +99,7 @@ A research-backed AI scenario forecast.
 
 Let's be real. The demo always looks insanely cool, but putting an autonomous agent in production is terrifying. You've got agents deciding to execute tool calls on their own, hallucinating logic, or hallucinating tool requirements. And when it fails, it rarely crashes with a nice stack trace—it just fails silently or goes off the rails into unpredictable territory.For the devs and enterprises out there actually shipping these things: What is the nightmare scenario keeping you awake? Are you worried about an agent overstepping boundaries, a silent data corruption, or something else entirely?
 
-11h ago
+13h ago
 
 ---
 
@@ -107,7 +107,7 @@ Let's be real. The demo always looks insanely cool, but putting an autonomous ag
 
 The people who wrote AI 2027, the scenario about how AI could kill us all if things keep going at this speed, just released a new scenario about how to make AI go really well for humanity. TLDR: The U.S. leads an effort to delay superintelligence until 2040, make AI research much more public and transparent, let many companies around the world catch up to the frontier, and build datacenters in deliberately vulnerable locations so the compute can be destroyed if the deal breaks down and the race restarts. Curious what people think. Link here: https://ai-2040.com
 
-5h ago
+7h ago
 
 ---
 
@@ -115,7 +115,7 @@ The people who wrote AI 2027, the scenario about how AI could kill us all if thi
 
 Russia hosted its first robot wedding ceremony in Moscow, using the symbolic event to promote robotics, artificial intelligence and the role of automation in everyday life.
 
-🔗 [Global South World](http://globalsouthworld.com/article/russia-stages-first-robot-wedding-ceremony) • 2h ago
+🔗 [Global South World](http://globalsouthworld.com/article/russia-stages-first-robot-wedding-ceremony) • 4h ago
 
 ---
 
@@ -125,29 +125,7 @@ Russia hosted its first robot wedding ceremony in Moscow, using the symbolic eve
 
 **[China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers](https://www.nytimes.com/2026/07/09/business/china-russia-ai-data-centers.html)**
 
-The New York Times • 6h ago
-
----
-
-**[These 10 states are best positioned to land AI data center deals despite rising public opposition](https://www.cnbc.com/2026/07/09/best-states-for-ai-data-centers.html)**
-
-These ten U.S. states have the best infrastructure to win future AI data center deals despite rising public opposition.
-
-CNBC • 7h ago
-
----
-
-**[Meta Drops $9 Billion on AI Expansion With Massive Canada Data Center](https://finance.yahoo.com/technology/ai/articles/meta-drops-9-billion-ai-182953243.html)**
-
-Meta Launches Huge AI Infrastructure Bet With $9 Billion Canada Buildout
-
-Yahoo Finance • 4h ago
-
----
-
-**[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)**
-
-AI at Meta • 8h ago
+The New York Times • 8h ago
 
 ---
 
@@ -155,41 +133,63 @@ AI at Meta • 8h ago
 
 Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang.
 
-CNBC • 9h ago
+CNBC • 11h ago
+
+---
+
+**[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)**
+
+AI at Meta • 10h ago
 
 ---
 
 **[Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense](https://www.bloomberg.com/news/articles/2026-07-09/meta-s-zuckerberg-says-exploring-ai-cloud-business-makes-sense)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[From Silicon Valley to Geneva, Proton’s Lumo Offers a Different Vision for AI](https://gizmodo.com/from-silicon-valley-to-geneva-protons-lumo-offers-a-different-vision-for-ai-2000783545)**
+**[University of Chicago Law School AI strategy bans 1st year students using phones, laptops in classroom](https://www.cbsnews.com/chicago/news/university-of-chicago-law-school-bans-1st-year-students-phones-laptops-ai-strategy/)**
 
-Gizmodo • 22m ago
+The University of Chicago Law School is banning first-year students from using phones and laptops in the classroom as part of a broader strategy to curb AI usage.
 
----
-
-**[SpaceX and AI startup wealth fuels demand for private jets](https://www.theguardian.com/us-news/2026/jul/09/private-jets-ai-ipo-super-rich)**
-
-Newly minted rich and those anticipating huge IPOs are fueling buying and charter spree in the private jet sector
-
-The Guardian • 28m ago
+CBS News • 20m ago
 
 ---
 
-**[“It’s Impossible to Take Time Off Right Now:” How FOMO is Making Life Miserable in the Capital of AI](https://www.bloomberg.com/news/newsletters/2026-07-09/life-at-silicon-valley-no-vacations-fomo-plague-the-race-for-ai-riches?srnd=live-events-v2)**
+**[China AI Star Zhipu’s ‘Low Float’ Risk Persists After Share Sale](https://www.bloomberg.com/news/articles/2026-07-10/china-ai-star-zhipu-s-low-float-risk-persists-after-share-sale)**
 
-Bloomberg.com • 41m ago
+Bloomberg.com • 39m ago
 
 ---
 
-**[OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC](https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html)**
+**[How to Prevent Meta From Using Your Instagram Images in A.I.](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html)**
 
-The company is rolling out GPT-5.6 Sol, Terra and Luna after an initial limited launch.
+The New York Times • 1d ago
 
-CNBC • 9h ago
+---
+
+**[Instagram’s AI image generator alarms privacy experts](https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy)**
+
+Instagram users should check privacy settings after rollout of new Meta AI image generator, advocates warn
+
+The Guardian • 2h ago
+
+---
+
+**[Meta's new AI image generator may use your Instagram photos. Here's how to opt out](https://www.nbcbayarea.com/news/local/meta-muse-ai-instagram-privacy-opt-out/4111574/)**
+
+Meta has unveiled a new product that lets other people use images posted publicly on Instagram to generate artificial intelligence content.
+
+NBC Bay Area • 32m ago
+
+---
+
+**[Introducing GPT-Live](https://openai.com/index/introducing-gpt-live/)**
+
+A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
+
+OpenAI • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ CNBC • 9h ago
 
 **[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
 
-⬆️ 338 • 💬 133 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
+⬆️ 340 • 💬 133 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
 
 ---
 
@@ -217,19 +217,11 @@ Your AI-built product works, but past 100,000 lines every change breaks two thin
 
 ---
 
-**[Small AI Models Gain Traction In places with unreliable networks](https://news.ycombinator.com/item?id=48812055)**
-
-In places with unreliable networks and no data-center infrastructure, smaller is better
-
-⬆️ 274 • 💬 80 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-
----
-
 **[AI content is everywhere on social media, especially LinkedIn](https://news.ycombinator.com/item?id=48847940)**
 
 We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
 
-⬆️ 161 • 💬 141 • 7h ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
+⬆️ 185 • 💬 163 • 9h ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
 
 ---
 
@@ -243,7 +235,7 @@ We scanned over 1 million social media posts for AI content. It turned up on eve
 
 AI cheating leads to "a failed society," professor says.
 
-⬆️ 130 • 💬 148 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
+⬆️ 131 • 💬 149 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
 
 ---
 
@@ -267,7 +259,13 @@ We pointed our AI audit pipeline at Cloudflare's CIRCL experimental cryptography
 
 AI changes rewrite economics because codebases with clear, common patterns get more leverage than proprietary or inconsistent systems.
 
-⬆️ 96 • 💬 103 • 17h ago • [the truth as I see it now](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
+⬆️ 98 • 💬 103 • 19h ago • [the truth as I see it now](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
+
+---
+
+**[Ask HN: Another "Hacker News" with less AI and more human-focused hacking news?](https://news.ycombinator.com/item?id=48834961)**
+
+⬆️ 87 • 💬 54 • 1d ago
 
 ---
 
@@ -281,7 +279,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 9K • 👍 487 • 💬 82 • ⏱️ 11:54 • 2h ago
+👁️ 9K • 👍 487 • 💬 82 • ⏱️ 11:54 • 4h ago
 
 ---
 
@@ -291,7 +289,7 @@ Here are CNN host Fareed Zakaria's takes from the month of June, including Ukrai
 
 📺 CNN
 
-👁️ 64K • 👍 2K • 💬 379 • ⏱️ 25:36 • 6h ago
+👁️ 64K • 👍 2K • 💬 379 • ⏱️ 25:36 • 8h ago
 
 ---
 
@@ -301,7 +299,7 @@ Make Your Own YouTube Shorts with OpenArt https://tolt.link/yvhshorts In this vi
 
 📺 Youri van Hofwegen
 
-👁️ 11K • 💬 8 • ⏱️ 8:09 • 8h ago
+👁️ 11K • 💬 8 • ⏱️ 8:09 • 10h ago
 
 ---
 
@@ -331,7 +329,7 @@ Nvidia is still leading the AI revolution. But it may not be the best way to inv
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 89 • 💬 27 • ⏱️ 5:44 • 4h ago
+👁️ 3K • 👍 89 • 💬 27 • ⏱️ 5:44 • 6h ago
 
 ---
 
@@ -349,7 +347,7 @@ If scale is your next challenge check out DigitalOcean: https://do.co/matthewber
 
 📺 Craft workshop 
 
-👁️ 11K • 👍 88 • 💬 5 • ⏱️ 0:11 • 12h ago
+👁️ 11K • 👍 88 • 💬 5 • ⏱️ 0:11 • 14h ago
 
 ---
 
@@ -359,7 +357,7 @@ Next, watch this video where I break down the best AI business model to start an
 
 📺 Iman Gadzhi
 
-👁️ 15K • 👍 2K • 💬 382 • ⏱️ 36:31 • 6h ago
+👁️ 15K • 👍 2K • 💬 382 • ⏱️ 36:31 • 7h ago
 
 ---
 
@@ -369,7 +367,7 @@ Ruchir Sharma, Rockefeller International chairman, joins 'Squawk on the Street' 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 119 • 💬 29 • ⏱️ 4:01 • 5h ago
+👁️ 7K • 👍 119 • 💬 29 • ⏱️ 4:01 • 7h ago
 
 ---
 
@@ -421,7 +419,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 23,112 • ❤️ 429 • 22h ago
+⬇️ 23,112 • ❤️ 429 • 23h ago
 
 ---
 
@@ -479,7 +477,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 2,189 • ❤️ 178 • 7h ago
+⬇️ 2,189 • ❤️ 178 • 9h ago
 
 ---
 
@@ -653,7 +651,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 79.2k • 🔱 4.3k • 1m ago
+⭐ 79.2k • 🔱 4.3k • 1h ago
 
 ---
 
@@ -663,7 +661,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.7k • 🔱 1.2k • 4h ago
+⭐ 11.7k • 🔱 1.2k • 6h ago
 
 ---
 
@@ -673,7 +671,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.9k • 🔱 928 • 10m ago
+⭐ 6.9k • 🔱 928 • 2h ago
 
 ---
 
@@ -683,7 +681,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.2k • 🔱 893 • 10h ago
+⭐ 4.2k • 🔱 893 • 12h ago
 
 ---
 
@@ -703,7 +701,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.3k • 🔱 83 • 1m ago
+⭐ 2.3k • 🔱 83 • 1h ago
 
 ---
 
@@ -713,7 +711,7 @@ An AI-agent skill that generates browser-editable presentations from multiple vi
 
 `JavaScript` `agent-skill` `ai-agent` `ai-ppt` `claude` `claude-code`
 
-⭐ 2.0k • 🔱 193 • 16h ago
+⭐ 2.0k • 🔱 193 • 18h ago
 
 ---
 
@@ -723,7 +721,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 1.9k • 🔱 278 • 12h ago
+⭐ 1.9k • 🔱 278 • 14h ago
 
 ---
 

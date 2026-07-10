@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-09T23:18:10.942008+00:00'
+updated: '2026-07-10T01:09:06.404836+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 09, 2026 at 23:18 UTC  
+**Last Updated:** July 10, 2026 at 01:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,258.86
+### $63,198.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +0.9%  
-**30d:** +2.7%  
-**90d:** -13.6%  
-**1y:** -45.6%  
+**24h:** +1.9%  
+**7d:** -0.3%  
+**30d:** -1.0%  
+**90d:** -11.0%  
+**1y:** -46.4%  
 
 ---
 
@@ -70,52 +70,48 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 22
+### 23
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[How do you deal with the regret of not selling at the top last year?](https://www.reddit.com/r/Bitcoin/comments/1urvn03/how_do_you_deal_with_the_regret_of_not_selling_at/)**
+
+I keep replaying it in my head. I had chances to sell high last year and just... didn't. Told myself I was in it for the long haul, that timing the top was a fool's game, all the usual HODL logic. And on one level I still believe that. But some nights I do the math on what I left on the table and it stings. I am still a Bitcoin maxi but I'm constantly thinking I could have doubled my BTC in a single year. For people who've been through a few of these cycles, how do you actually make peace with a decision that felt right at the time but looks wrong in the rearview mirror?
+
+8h ago
+
+---
+
+**[Sentiment](https://www.reddit.com/r/Bitcoin/comments/1us2v4z/sentiment/)**
+
+The sentiment at $120k was “we’re going to $250k.” The sentiment at $62k is “Bitcoin is dead.” Same asset. Keep Stacking!
+
+4h ago
+
+---
+
+**[Who else is happily stacking?](https://www.reddit.com/r/Bitcoin/comments/1urv3ur/who_else_is_happily_stacking/)**
+
+Haven't been this happy in awhile to keep stacking sats and filling my bag.
+
+8h ago
+
+---
+
+**[Actual BTC vs Bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1us0set/actual_btc_vs_bitcoin_etf/)**
+
+Hi, 24M I would like to get some exposure to crypto and deciding whether to: - buy BTC through Coinbase/Kraken and transferring to cold wallet - buy BTC and leave in Coinbase/Kraken - buy a Bitcoin ETF like FBTC/IBIT Suppose a few things: - Intend to hold long term, think 20+ years - Do not really care about having “full ownership of the BTC”. I know people say “not your keys, not your coins” - Prefer to not have to physically own cold wallet, unless this form of exposure to crypto has the most likely chance of highest returns - if ETF, would be in brokerage and not tax advantaged account - Don’t need to buy on weekends or market after hours. Okay buying jsut during the week and DCA - Do not intend to do covered calls or anything like that - Assume Fidelity won’t go under in the next 20 years (I know it could) - I care about which has the most growth. Ultimately, I’m thinking about “is the juice worth the squeeze” for owning in cold wallet vs buying an ETF Would love for any advice you all may have
+
+5h ago
+
+---
+
 **[A reminder to keep stacking](https://www.reddit.com/r/Bitcoin/comments/1urqxng/a_reminder_to_keep_stacking/)**
 
 Keep stacking sats, especially with these low prices ofcourse.
-
-9h ago
-
----
-
-**[People that held or bought at $100K+](https://www.reddit.com/r/Bitcoin/comments/1urjko0/people_that_held_or_bought_at_100k/)**
-
-Just curious what price you were hoping for
-
-15h ago
-
----
-
-**[Here is me saying bitcoin in July 2026](https://www.reddit.com/r/Bitcoin/comments/1ur0ses/here_is_me_saying_bitcoin_in_july_2026/)**
-
-1d ago
-
----
-
-**[selling some BTC did not fix my brain lol](https://www.reddit.com/r/Bitcoin/comments/1urpt5r/selling_some_btc_did_not_fix_my_brain_lol/)**
-
-so I sold around 10-15% of my BTC after overthinking for months, almost a year... and ngl, I thought I'd feel like a calm responsible adult after that. WRONG. Now every green candle makes me feel like I sold the bottom, and every red candle makes me feel like a genius for 7 minutes xD, still holding around 90-85%, still bullish long term, and still got the mining side running through OneMiners, so I'm not fully out or anything :D but damn, BTC really has a way of making every decision feel dumb right after u make it lol. maybe that's the real game. not buying, not selling, just trying not to become emotionally cooked by a chart. anyone else sold a little and somehow became MORE stressed?
-
-10h ago
-
----
-
-**[What Bitcoin has been doing for this month.](https://www.reddit.com/r/Bitcoin/comments/1urfyz8/what_bitcoin_has_been_doing_for_this_month/)**
-
-18h ago
-
----
-
-**[I created a huge 195-country bitcoin guide based on real Reddit threads from here and local forums so each country shows the exchanges and apps people actually use, the payment methods that work, and the issues people run into.](https://www.reddit.com/r/Bitcoin/comments/1urod5p/i_created_a_huge_195country_bitcoin_guide_based/)**
-
-This took a lot of work and would love your feedback on what's missing, what can be added/removed! https://newhedge.io/buy
 
 11h ago
 
@@ -125,29 +121,35 @@ This took a lot of work and would love your feedback on what's missing, what can
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+10h ago
 
 ---
 
-**[If you feel like your bank is robbing you](https://www.reddit.com/r/Bitcoin/comments/1uripwb/if_you_feel_like_your_bank_is_robbing_you/)**
+**[People that held or bought at $100K+](https://www.reddit.com/r/Bitcoin/comments/1urjko0/people_that_held_or_bought_at_100k/)**
 
-Buy bitcoin. Simple as that.
+Just curious what price you were hoping for
 
-16h ago
-
----
-
-**[Who else is happily stacking?](https://www.reddit.com/r/Bitcoin/comments/1urv3ur/who_else_is_happily_stacking/)**
-
-Haven't been this happy in awhile to keep stacking sats and filling my bag.
-
-6h ago
+17h ago
 
 ---
 
-**[The Bitcoin Stateless Revolution. How Utreexo (BIP-183) Obliterates the UTXO Bottleneck and Reclaims the Base Layer.](https://www.reddit.com/r/Bitcoin/comments/1urmh50/the_bitcoin_stateless_revolution_how_utreexo/)**
+**[Here is me saying bitcoin in July 2026](https://www.reddit.com/r/Bitcoin/comments/1ur0ses/here_is_me_saying_bitcoin_in_july_2026/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-bitcoin-stateless-revolution) • 12h ago
+1d ago
+
+---
+
+**[What Bitcoin has been doing for this month.](https://www.reddit.com/r/Bitcoin/comments/1urfyz8/what_bitcoin_has_been_doing_for_this_month/)**
+
+20h ago
+
+---
+
+**[I created a huge 195-country bitcoin guide based on real Reddit threads from here and local forums so each country shows the exchanges and apps people actually use, the payment methods that work, and the issues people run into.](https://www.reddit.com/r/Bitcoin/comments/1urod5p/i_created_a_huge_195country_bitcoin_guide_based/)**
+
+This took a lot of work and would love your feedback on what's missing, what can be added/removed! https://newhedge.io/buy
+
+13h ago
 
 ---
 
@@ -157,7 +159,7 @@ Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
 **[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -165,7 +167,7 @@ Bloomberg.com • 13h ago
 
 The Bitcoin miner stayed focused on crypto while competitors expanded into AI data centers and outperformed.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -173,31 +175,31 @@ Yahoo Finance • 5h ago
 
 Eric Trump posted a cringeworthy bid for his dad’s approval just hours before news of the staggering loss broke.
 
-The Daily Beast • 6h ago
+The Daily Beast • 8h ago
 
 ---
 
-**['Bottom building in progress': Analysts say bitcoin holder capitulation signals late-stage bear market](https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market)**
+**[New Hampshire snuffs out trailblazing bitcoin municipal bond effort](https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort)**
 
-Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.
+At its last stage for government approval, the state's executive council rejected the bond project 3-2.
 
-The Block • 9h ago
-
----
-
-**[If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today](https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html)**
-
-January 20, 2025. Donald Trump walks back into the White House. Bitcoin is touching $109,000. Gold is steady at $2,697 an ounce. And a meme coin bearing the president's name is a few days old and trading around $35, already down sharply from its launch peak of $74. Six months on, those three assets ...
-
-Yahoo Finance • 56m ago
+CoinDesk • 2h ago
 
 ---
 
-**[Construction starts at Sparks Bitcoin manufacturing facility, expected to create 70 jobs](https://mynews4.com/news/local/construction-starts-at-sparks-bitcoin-manufacturing-facility-expected-to-create-70-jobs-warehouse-reno-nevada-northern-bitdeer-cryptocurrency)**
+**[Google-backed ex-Bitcoin miner reveals $3.5 billion debt raise](https://finance.yahoo.com/technology/ai/articles/google-backed-ex-bitcoin-miner-000000996.html)**
 
-Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
+A former Bitcoin miner is about to make its biggest debt raise yet and the money is going straight into artificial intelligence. TeraWulf Inc. (NASDAQ: WULF) is preparing to raise approximately $3.5 billion in debt to build a new data center campus in Kentucky, Bloomberg reported on Thursday, ...
 
-KRXI2 • 23h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Eric Trump’s Bitcoin bet erases $600 million from family fortune](https://www.dailyherald.com/20260709/nation-and-world/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
+
+American Bitcoin Corp. was built around a simple idea: that owning and mining Bitcoin would be enough to mint money. Instead, the company co-founded by Eric Trump is mired in a deep downturn. As Bitco...
+
+Daily Herald • 46m ago
 
 ---
 
@@ -205,23 +207,15 @@ KRXI2 • 23h ago
 
 Strategy's latest Bitcoin sale is rattling some of the coin's holders.
 
-The Motley Fool • 17h ago
+The Motley Fool • 19h ago
 
 ---
 
-**[Live markets: Bitcoin ETFs slip back to outflows while ether funds extend their streak](https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak)**
+**[JPMorgan says bitcoin's main risk isn't Strategy, but blockchain adoption that doesn't benefit public chains and tokens](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto)**
 
-U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million
+JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
 
-CoinDesk • 1h ago
-
----
-
-**[JPMorgan Says The Real Threat To Bitcoin Isn't Strategy (MSTR) — It's Private Blockchains](https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin)**
-
-JPMorgan says Strategy's Bitcoin sales are a short-term concern, but the bigger long-term risk is that banks and institutions adopt private blockchains over public networks, reducing activity and capital flows across the broader crypto ecosystem.
-
-Bitcoin Magazine • 2h ago
+The Block • 9h ago
 
 ---
 
@@ -230,6 +224,14 @@ Bitcoin Magazine • 2h ago
 A bitcoin mining data center in Crossville is generating noise complaints from neighboring businesses, and city officials say they are considering a two-year moratorium on future data centers while they work to establish additional regulations.
 
 WVLT • 1d ago
+
+---
+
+**[Construction starts at Sparks Bitcoin manufacturing facility, expected to create 70 jobs](https://mynews4.com/news/local/construction-starts-at-sparks-bitcoin-manufacturing-facility-expected-to-create-70-jobs-warehouse-reno-nevada-northern-bitdeer-cryptocurrency)**
+
+Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
+
+KRXI2 • 1d ago
 
 ---
 
@@ -259,7 +261,7 @@ Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign
 
 Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal challenge before France's Conseil d'État to annul Decree No. 2025-1276, which implements the EU's DAC8 crypto tax reporting directive. The exchange argues the rules create a mass surveillance database linking identities and crypto activity, endangering holders' physical safety.
 
-⬆️ 3 • 💬 1 • 22h ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
+⬆️ 3 • 💬 1 • 1d ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
 
 ---
 
@@ -283,7 +285,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 341 • 💬 246 • 14h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 343 • 💬 243 • 16h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
@@ -297,7 +299,7 @@ Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders 
 
 📺 Gareth Soloway
 
-👁️ 30K • 👍 2K • 💬 98 • ⏱️ 15:38 • 6h ago
+👁️ 30K • 👍 2K • 💬 98 • ⏱️ 15:38 • 8h ago
 
 ---
 
@@ -307,7 +309,7 @@ The biggest attacks on Bitcoin have often become its biggest strengths. The 2017
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 253 • ⏱️ 19:44 • 22h ago
+👁️ 23K • 👍 2K • 💬 253 • ⏱️ 19:44 • 1d ago
 
 ---
 
@@ -317,7 +319,7 @@ Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bit
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 449 • 💬 59 • ⏱️ 18:07 • 10h ago
+👁️ 4K • 👍 449 • 💬 59 • ⏱️ 18:07 • 12h ago
 
 ---
 
@@ -327,7 +329,7 @@ The Last Trade: Jackson, Michael, and Brian break down Vanguard's surprise listi
 
 📺 Onramp Bitcoin Media
 
-👁️ 1K • 👍 56 • 💬 12 • ⏱️ 1:11:30 • 10h ago
+👁️ 1K • 👍 56 • 💬 12 • ⏱️ 1:11:30 • 12h ago
 
 ---
 
@@ -337,7 +339,7 @@ Smartnonsense.com.
 
 📺 Smart Nonsense
 
-👁️ 103K • 👍 10K • 💬 125 • ⏱️ 1:07 • 9h ago
+👁️ 103K • 👍 10K • 💬 125 • ⏱️ 1:07 • 11h ago
 
 ---
 
@@ -347,7 +349,7 @@ The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altco
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 98 • ⏱️ 9:12 • 1d ago
+👁️ 38K • 👍 2K • 💬 98 • ⏱️ 9:12 • 2d ago
 
 ---
 
@@ -357,7 +359,7 @@ As the deadline to get Clarity Act thru comes closer the attackers of bitcoin co
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 247 • 💬 29 • ⏱️ 1:29:30 • 4h ago
+👁️ 4K • 👍 247 • 💬 29 • ⏱️ 1:29:30 • 6h ago
 
 ---
 
@@ -367,7 +369,7 @@ Bitcoin, Robinhood Chain, Robotics, Solana, and more! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 8K • 👍 470 • 💬 53 • ⏱️ 18:31 • 11h ago
+👁️ 8K • 👍 470 • 💬 53 • ⏱️ 18:31 • 13h ago
 
 ---
 

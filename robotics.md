@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-09T23:18:10.951241+00:00'
+updated: '2026-07-10T01:09:06.411203+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 09, 2026 at 23:18 UTC  
+**Last Updated:** July 10, 2026 at 01:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,15 +122,19 @@ mistral.ai • 1d ago
 
 ---
 
-**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
+**[This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)**
 
-Reuters • 1d ago
+General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
+
+TechCrunch • 1d ago
 
 ---
 
-**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+**[Prosperous Robotics brings mobility technology company to USD Discovery District](https://siouxfalls.business/prosperous-robotics-brings-mobility-technology-company-to-usd-discovery-district/)**
 
-Nature • 1d ago
+“Restore mobility, restore dignity." With that mission, an incredible robotics company has its sights on global reach -- from a new home office in Sioux Falls.
+
+SiouxFalls.Business • 11h ago
 
 ---
 
@@ -142,17 +146,23 @@ UC San Diego Today • 1d ago
 
 ---
 
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+
+Nature • 1d ago
+
+---
+
 **[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
-Ars Technica • 3h ago
+Ars Technica • 4h ago
 
 ---
 
-**[Watch Robotics Isn't Living Up to the Hype](https://www.bloomberg.com/news/videos/2026-07-09/opinion-robotics-isn-t-living-up-to-the-hype-video)**
+**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
 
-Bloomberg.com • 4h ago
+Reuters • 1d ago
 
 ---
 
@@ -160,7 +170,7 @@ Bloomberg.com • 4h ago
 
 Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
 
-Forbes • 1d ago
+Forbes • 2d ago
 
 ---
 
@@ -168,13 +178,7 @@ Forbes • 1d ago
 
 The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
 
-Business Insider • 14h ago
-
----
-
-**[UMA Unveils Its Vision for the Next Generation of Humanoid Robots](https://www.businesswire.com/news/home/20260707215927/en/UMA-Unveils-Its-Vision-for-the-Next-Generation-of-Humanoid-Robots)**
-
-Business Wire • 2d ago
+Business Insider • 16h ago
 
 ---
 
@@ -206,7 +210,7 @@ Mitsubishi just entered the humanoid robotics race. The Japanese automaker just 
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 50 • 💬 5 • ⏱️ 0:35 • 7h ago
+👁️ 1K • 👍 50 • 💬 5 • ⏱️ 0:35 • 9h ago
 
 ---
 
@@ -284,7 +288,7 @@ Use My Link For The WR Store https://wr.my.games/PREDATORWR The Ao Jun just got 
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 301 • 💬 40 • ⏱️ 13:11 • 11h ago
+👁️ 7K • 👍 301 • 💬 40 • ⏱️ 13:11 • 13h ago
 
 ---
 
