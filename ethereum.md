@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-10T22:03:43.755950+00:00'
+updated: '2026-07-10T23:28:46.831088+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 22:03 UTC  
+**Last Updated:** July 10, 2026 at 23:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** +0.7%  
-**30d:** +7.1%  
-**90d:** -18.0%  
-**1y:** -39.4%  
+**24h:** +3.1%  
+**7d:** +0.9%  
+**30d:** +7.3%  
+**90d:** -17.9%  
+**1y:** -39.3%  
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[RBLK tokens showing up under my wallet address on etherscan but they are not displaying on my cold wallet.](https://www.reddit.com/r/ethereum/comments/1uofsav/rblk_tokens_showing_up_under_my_wallet_address_on/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -160,14 +160,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Foundation says AI agents find real bugs, but most are false positives](https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives)**
-
-The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.
-
-The Block • 1d ago
-
----
-
 **[Ethereum's newest nonprofit wants to become Wall Street's guide to crypto](https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto)**
 
 In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
@@ -176,9 +168,17 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum Foundation says AI agents find real bugs, but most are false positives](https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives)**
+
+The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.
+
+The Block • 1d ago
+
+---
+
 **[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -186,7 +186,7 @@ MarketWatch • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -194,7 +194,7 @@ Fortune • 11h ago
 
 Cambridge CCAF research shows 31% of Ethereum beacon node activity is US-based and clustered on AWS, Hetzner, and OVH, raising centralization concerns.
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -202,7 +202,7 @@ Crypto Briefing • 5h ago
 
 MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
@@ -210,13 +210,13 @@ markets.businessinsider.com • 16h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
 
-FXStreet • 18h ago
+FXStreet • 19h ago
 
 ---
 
 **[Best Ethereum Staking Platforms in 2026](https://www.ccn.com/crypto-investing/exchanges/best-ethereum-staking-platforms/)**
 
-CCN.com • 6h ago
+CCN.com • 8h ago
 
 ---
 
@@ -224,23 +224,23 @@ CCN.com • 6h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Must Move Faster or Risk Losing Its Edge Says Starkware Founder](https://www.youtube.com/watch?v=gyjUGylfCgU)**
-
-On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ...
-
-📺 CoinDesk
-
-👁️ 466 • 👍 20 • 💬 24 • ⏱️ 22:55 • 7h ago
-
----
-
 **[Tom Lee :&quot;Big Week for BTC &amp; ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=W2KCB17Lbao)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 217 • 💬 42 • ⏱️ 18:35 • 1d ago
+👁️ 5K • 👍 221 • 💬 42 • ⏱️ 18:35 • 1d ago
+
+---
+
+**[Ethereum Must Move Faster or Risk Losing Its Edge Says Starkware Founder](https://www.youtube.com/watch?v=gyjUGylfCgU)**
+
+On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ...
+
+📺 CoinDesk
+
+👁️ 630 • 👍 22 • 💬 21 • ⏱️ 22:55 • 8h ago
 
 ---
 
@@ -250,7 +250,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 226 • 💬 38 • ⏱️ 13:21 • 2d ago
+👁️ 6K • 👍 227 • 💬 38 • ⏱️ 13:21 • 2d ago
+
+---
+
+**[The Institutional Case for Ethereum AND Solana](https://www.youtube.com/watch?v=_6SKVy0WOAY)**
+
+Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
+
+📺 Milk Road
+
+👁️ 774 • 👍 44 • 💬 53 • ⏱️ 35:55 • 4h ago
+
+---
+
+**[BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QbBAfcJgjCw)**
+
+BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 892 • 👍 99 • 💬 61 • ⏱️ 21:55 • 1h ago
+
+---
+
+**[Wartime Ethereum: The Case For ETH Going Much Higher](https://www.youtube.com/watch?v=QQcI8y1NJ8M)**
+
+John Gillen is an ex-BlackRock VP, General Partner at TRU Capital, and host of The Milk Road Show. In this episode, John ...
+
+📺 DeFi Dad
+
+👁️ 172 • 👍 9 • ⏱️ 1:20:06 • 7h ago
 
 ---
 
@@ -260,17 +290,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 344 • 💬 138 • ⏱️ 15:45 • 10h ago
-
----
-
-**[🚨 BTC &amp; ETH: MY LAST YT VIDEO!!! BUT MOST IMPORTANT ONE!! YOU HAVE TO SEE THIS NOW!](https://www.youtube.com/watch?v=mzqA6MJSsGw)**
-
-This is my last video in this format. But I think its most important one. ---------- Join My FREE Trading Group & School: ...
-
-📺 Thomas Kralow
-
-👁️ 13K • 👍 1K • 💬 43 • ⏱️ 13:33 • 1d ago
+👁️ 5K • 👍 353 • 💬 131 • ⏱️ 15:45 • 12h ago
 
 ---
 
@@ -280,37 +300,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 18K • 👍 910 • 💬 217 • ⏱️ 21:46 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum&#39;s Biggest Test Is Happening RIGHT NOW (Targets)](https://www.youtube.com/watch?v=BlmXuZRpzcQ)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 477 • 💬 144 • ⏱️ 16:41 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=2mahFvs8RAA)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 2K • 👍 94 • ⏱️ 7:04 • 19h ago
-
----
-
-**[BlackRock Just Paid Its First Ethereum Paycheck Into Retirement Accounts](https://www.youtube.com/watch?v=Lm-Iw2EhLIs)**
-
-BlackRock just paid its first crypto staking paycheck, $351669.96, and it landed in ordinary brokerage accounts while nobody was ...
-
-📺 Alexander Lorenzo
-
-👁️ 6K • 👍 491 • 💬 15 • ⏱️ 2:52 • 1d ago
+👁️ 18K • 👍 913 • 💬 218 • ⏱️ 21:46 • 2d ago
 
 ---
 
@@ -320,7 +310,17 @@ Who knew that a dip in price could cause such a massive movement in crypto marke
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 710 • 💬 314 • ⏱️ 33:10 • 1d ago
+👁️ 6K • 👍 712 • 💬 336 • ⏱️ 33:10 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: MY LAST YT VIDEO!!! BUT MOST IMPORTANT ONE!! YOU HAVE TO SEE THIS NOW!](https://www.youtube.com/watch?v=mzqA6MJSsGw)**
+
+This is my last video in this format. But I think its most important one. ---------- Join My FREE Trading Group & School: ...
+
+📺 Thomas Kralow
+
+👁️ 18K • 👍 1K • 💬 43 • ⏱️ 13:33 • 1d ago
 
 ---
 

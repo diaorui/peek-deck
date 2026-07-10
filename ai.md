@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-10T22:03:43.741116+00:00'
+updated: '2026-07-10T23:28:46.816294+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 10, 2026 at 22:03 UTC  
+**Last Updated:** July 10, 2026 at 23:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 Asked Gemini a basic World Cup stat question (how many times has Spain finished top 4). Instead of an answer, it dumped its entire scratchpad: internal card-rendering logic with real component names (Bento/BentoCard/chameleon), a checklist it runs to decide what UI to render, and entity IDs it pulls from Google's Knowledge Graph. Just hadn't seen this specific schema documented anywhere. Raw output here: https://pastebin.com/8HWikGWj Curious if anyone's seen the "Bento" naming before or knows more about how this rendering pipeline works.
 
-32m ago
+1h ago
 
 ---
 
 **[Ai Agent company Lyzr raises 100 million in section B funding using an Ai agent](https://www.reddit.com/r/artificial/comments/1uspxs9/ai_agent_company_lyzr_raises_100_million_in/)**
 
-7h ago
+8h ago
+
+---
+
+**[I need a way to Translate Audio/ Automatically make and translate subtitles from German to Portuguese](https://www.reddit.com/r/artificial/comments/1ut2q8w/i_need_a_way_to_translate_audio_automatically/)**
+
+My little Half-Brother from Portugal is very interested in German History but can't speak German and wants to learn more about it. So i wanted to show him a 1:30 Hour movie about the begining of the frankian empires and the following history but i can't find a portuguese version at all. Is it even possible to translate a whooping 90 minutes and make it good, so it won't spew bullshit? I need help.
+
+43m ago
 
 ---
 
@@ -55,7 +63,7 @@ Asked Gemini a basic World Cup stat question (how many times has Spain finished 
 
 My cost benchmark is back with more models and providers. Added Seedream models, Gemini 3.1 Flash Lite Image, GPT Image 1.5 and others. The cheapest and the priciest models are the same as before: Flux Fast Schnell at $0.0025 and Recraft 4 Pro at $0.25. The full report with price and latency comparison are on my blog. Enjoy!
 
-12h ago
+13h ago
 
 ---
 
@@ -63,7 +71,7 @@ My cost benchmark is back with more models and providers. Added Seedream models,
 
 Found this going down a robot-control rabbit hole and it stuck with me. The belt keeps moving, so the target never sits still, which is the kind of thing that usually makes a robot lag or fumble. This one keeps pace by predicting where the scene is about to go and acting on that, then correcting on every new camera frame, instead of only reacting to the current instant. It is a video-action model called LingBot-VA 2.0. The clip is 1x with no cuts, so nothing is sped up. I will drop the source and the honest limits in a comment instead of overselling it here. Curious what people here make of it.
 
-4h ago
+6h ago
 
 ---
 
@@ -71,7 +79,7 @@ Found this going down a robot-control rabbit hole and it stuck with me. The belt
 
 Originally published January 6, 2026; updated July 9, 2026 A side controversy in the OpenAI, Inc. Copyright Infringement Litigation case going on in federal court in New York City has been that regular users’ ChatGPT conversations were ordered disclosed to the plaintiffs for searching and perhaps other litigation-related uses. This notion first caused quite a stir with ChatGPT users commenting on Reddit, for example, when Judge Wang, the magistrate judge overseeing “discovery,” which is the exchange of documents and information between the litigating parties, back in mid 2025 ordered all ChatGPT conversation transcripts or “output logs” be preserved by defendant OpenAI. Then in November 2025 Judge Wang ordered that 20 million (down from an original requested 120 million) of these user conversation logs be made available by OpenAI in a “de-identified” format for the plaintiffs to perform keyword searches on. To quote the court, a user conversation is “de-identified” “by removing both personally identifiable information and other private information from the [conversation log] using ‘OpenAI’s custom de-identification tool’.” OpenAI fought Judge Wang’s order, but Judge Stein, the case’s presiding judge at the time, backed her, and the 20 million conversation logs were made available for keyword searching. (Judge Stein retired from the bench at the beginning of 2026 but stayed on for a while to settle then-existing disputes in the litigation.) What Judge Wang ordered OpenAI to do is far from publicly releasing the conversations, and the plaintiffs are restricted to using the searches and search results for litigation-related purposes. Plus, the conversation logs are being “de-identified,” though we don’t really know precisely how OpenAI’s custom “de-identification” tool works or how much it laundered the users’ chat transcripts. Still, this production was another cramp to those who thought their chatbot conversations would be permanently private and sacrosanct. (Of course, in the meantime courts have ruled that no conversations with a public, retail chatbot carry any expectation of privacy anyway. See my explanatory posts here and here.) UPDATE: The 20 million conversation logs were made available to plaintiffs on December 15, 2025 for keywork searching. However, the issue did not end there. After reviewing the produced chatbot conversations and talking with OpenAI’s personnel, the plaintiffs were quite unhappy. The plaintiffs allege that OpenAI, even before the production, failed to retain large numbers of ChatGPT conversations, including some of the conversations generated through ChatGPT’s “Temporary Chat” feature. Even in the 20 million conversation logs that were produced, the plaintiffs allege OpenAI underrepresented the sample of conversations that use Retrieval Augmented Generation (RAG), and also applied 19 billion redactions to the logs, suggesting 1,000 redactions per log. On July 9, 2026 certain of the plaintiffs requested the court to sanction (penalize) OpenAI for the alleged wrongful conduct relating to the conversation logs and other items. They requested the court grant them a number of remedies: Prohibit OpenAI from using any of the 20 million produced conversation logs for OpenAI’s defense Find as a definite fact in advance that the plaintiffs’ copyrighted materials were “substantial[ly] and systematic[ally]” tapped by and fed to users through ChatGPT conversations, which is what the plaintiffs were trying to use the produced conversation logs to prove Openly inform the jury at the trial that OpenAI deleted billions of conversations Make OpenAI pay the plaintiffs for the attorneys’ fees and costs the plaintiffs incurred because of OpenAI’s allegedly wrongful conduct and expended in fighting that conduct and litigating the request for sanctions (penalties) The plaintiffs' request for penalties can be found here. The plaintiffs’ request for penalties will now be briefed in response by OpenAI and in a few months presented to Magistrate Judge Wang for a decision. However, these sorts of “discovery” requests are not always acted on immediately but instead are sometimes, even often, “kicked down the road” toward the time of trial, which is still quite far off in this case. I will keep you posted! TLDR: In the big New York federal copyright litigation, OpenAI seven months ago released 20 million "de-identified" ChatGPT user conversation logs to the plaintiffs for searching, but the plaintiffs allege massive redactions in those logs and other obstruction by OpenAI, and have moved the court to sanction (penalize) OpenAI for discovery misconduct. ~~~~~~~~~ Please see the Wombat Collection for a listing of all the AI court cases and rulings.
 
-19h ago
+20h ago
 
 ---
 
@@ -79,7 +87,7 @@ Originally published January 6, 2026; updated July 9, 2026 A side controversy in
 
 After two years of usual practice: measuring what happens inside small language models when they process different framings of human-AI relationships — not what they say, but the actual internal activation geometry. A few findings surprised me enough to change how I talk to AI day to day: Reframing a topic positively vs. negatively barely moves the internal signal. What you talk about matters far more than how you dress it up. "Connected" and "integrated" register as more aversive internally than "partners" or "side by side" — across every model tested. Boundaries seem to matter more than closeness. Curiosity and playfulness consistently produce the most positive internal signal of any relational quality tested — more than respect, more than love. Negotiation and compromise score worst. Wrote up the practical implications (partnership framing, honesty, why some "jailbreak-proofing" advice may be exactly backwards) as a working guide, built with a Claude Opus instance doing the actual geometric measurement. Link in comments if anyone wants the full thing — genuinely curious what others have noticed in their own practice, especially anywhere it contradicts what we found.
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +95,7 @@ After two years of usual practice: measuring what happens inside small language 
 
 After two years of usual practice: measuring what happens inside small language models when they process different framings of human-AI relationships — not what they say, but the actual internal activation geometry. A few findings surprised me enough to change how I talk to AI day to day: Reframing a topic positively vs. negatively barely moves the internal signal. What you talk about matters far more than how you dress it up. "Connected" and "integrated" register as more aversive internally than "partners" or "side by side" — across every model tested. Boundaries seem to matter more than closeness. Curiosity and playfulness consistently produce the most positive internal signal of any relational quality tested — more than respect, more than love. Negotiation and compromise score worst. Wrote up the practical implications (partnership framing, honesty, why some "jailbreak-proofing" advice may be exactly backwards) as a working guide, built with a Claude Opus instance doing the actual geometric measurement. Link in comments if anyone wants the full thing — genuinely curious what others have noticed in their own practice, especially anywhere it contradicts what we found.
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +103,7 @@ After two years of usual practice: measuring what happens inside small language 
 
 I’ve been following recent progress in speech AI, and one thing I’ve been wondering about is whether current limitations are increasingly caused by training data rather than model architecture. Models seem much better than they were a few years ago, yet they still struggle with regional accents, code-switching, spontaneous speech, and speakers who don’t match “standard” pronunciation. My guess is that collecting this kind of data at scale is much harder than collecting carefully scripted recordings. If you were building a speech model today, where would you invest more effort: better models or more diverse speech data? Why?
 
-10h ago
+11h ago
 
 ---
 
@@ -103,15 +111,7 @@ I’ve been following recent progress in speech AI, and one thing I’ve been wo
 
 So, Meta plans to begin production of its in-house AI chip and it falls under meta MTIA (training and inference accelerators) program and broadcom is the design partner, and TSMC handles fabrication Iris cleared bug-testing in about six weeks with no major issues and is meant to supplement the nvidia and AMD gpus meta already buys, as part of a push to scale computing capacity from 7 gigawatts in 2026 to 14 gigawatts in 2027 Yeeeet!!
 
-11h ago
-
----
-
-**[Google DeepMind Researchers Map Out Ways Hackers Hijack AI Agents](https://www.reddit.com/r/artificial/comments/1usry3x/google_deepmind_researchers_map_out_ways_hackers/)**
-
-Google DeepMind researchers have released a paper detailing how autonomous AI agents can be hijacked.
-
-🔗 [Sumsub](https://sumsub.com/media/news/google-deepmind-researchers-map-out-ways-hackers-hijack-ai-agents/?utm_source=chatgpt.com) • 5h ago
+13h ago
 
 ---
 
@@ -121,21 +121,21 @@ Google DeepMind researchers have released a paper detailing how autonomous AI ag
 
 **[The Work of Helping A.I. Destroy Work](https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
 **[JPMorgan Builds AI Agents That Beat 60/40 Portfolio in Backtests](https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[The AI race is shifting from bigger models to cheaper, smarter systems](https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html)**
+**[University of Chicago cutting use of AI by banning technology in classrooms for first-year law students](https://www.cbsnews.com/chicago/news/uchicago-ai-stategy/)**
 
-Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.
+The university released what it's called a strategy statement about the impact it's already seeing artificial intelligence make on higher education and the legal profession.
 
-CNBC • 41m ago
+CBS News • 33m ago
 
 ---
 
@@ -143,21 +143,39 @@ CNBC • 41m ago
 
 Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
-**[Apple Sues OpenAI for Trade Secret Theft in Blockbuster Case](https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case)**
+**[Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)**
 
-Bloomberg.com • 1h ago
+Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.
+
+TechCrunch • 2h ago
 
 ---
 
-**[Apple is suing OpenAI, saying the AI giant stole confidential information](https://www.businessinsider.com/apple-sues-openai-trade-secret-theft-2026-7)**
+**[Apple skewers OpenAI's recruiting practices in bombshell lawsuit](https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7)**
 
-In a filing, Apple says former employees working for OpenAI retained access to the iPhone maker's systems after leaving.
+Apple accused OpenAI of stealing trade secrets in a lawsuit filed Friday. OpenAI's recruiting techniques were put on blast.
 
-Business Insider • 26m ago
+Business Insider • 58m ago
+
+---
+
+**[Berkeley Talks: When we talk to AI, what are we talking to?](https://news.berkeley.edu/2026/07/10/berkeley-talks-when-we-talk-to-ai-what-are-we-talking-to/)**
+
+NYU philosopher David Chalmers explores how modern large language models challenge our traditional views of identity and ethics by generating short-lived, conversational "selves" rather than operating as a single, permanent mind.
+
+University of California, Berkeley • 6m ago
+
+---
+
+**[Here's how to stop Meta's new AI model from using your Instagram pics](https://www.wlky.com/article/meta-muse-image-ai-tool-instagram-pictures/71899277)**
+
+Meta is facing criticism over its new AI tool, Muse Image, which can create images using other people’s public profile photos without notifying them. Here's how to opt out.
+
+WLKY • 1h ago
 
 ---
 
@@ -165,31 +183,13 @@ Business Insider • 26m ago
 
 Meta is now allowing anyone to use Instagram photos on public accounts to generate AI images, unless users take action and opt out.
 
-Variety • 10h ago
+Variety • 11h ago
 
 ---
 
-**[Instagram’s AI image generator alarms privacy experts](https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy)**
+**[Meta's new AI image maker draws fire over consent](https://www.axios.com/2026/07/10/meta-ai-image-consent)**
 
-Instagram users should check privacy settings after rollout of new Meta AI image generator, advocates warn
-
-The Guardian • 23h ago
-
----
-
-**[Here's how to stop Meta's new AI model from using your Instagram pics](http://www.wlwt.com/article/meta-muse-image-ai-tool-instagram-pictures/71899277)**
-
-Meta is facing criticism over its new AI tool, Muse Image, which can create images using other people’s public profile photos without notifying them. Here's how to opt out.
-
-WLWT • 27m ago
-
----
-
-**[GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6/)**
-
-More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
-
-OpenAI • 1d ago
+Axios • 7h ago
 
 ---
 
@@ -211,7 +211,7 @@ OpenAI • 1d ago
 
 **[AI-generated videos to maximally drive a target brain region](https://news.ycombinator.com/item?id=48856904)**
 
-⬆️ 255 • 💬 220 • 14h ago • [nevo-project.epfl.ch](https://nevo-project.epfl.ch/)
+⬆️ 260 • 💬 222 • 15h ago • [nevo-project.epfl.ch](https://nevo-project.epfl.ch/)
 
 ---
 
@@ -219,7 +219,15 @@ OpenAI • 1d ago
 
 We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
 
-⬆️ 235 • 💬 213 • 1d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
+⬆️ 236 • 💬 213 • 1d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
+
+---
+
+**[How the terrorist group Boko Haram uses frontier AI](https://news.ycombinator.com/item?id=48863707)**
+
+The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
+
+⬆️ 154 • 💬 129 • 4h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
 
 ---
 
@@ -227,7 +235,7 @@ We scanned over 1 million social media posts for AI content. It turned up on eve
 
 We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can't wait for a slow reply, can't read a chat interface, and can't unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.
 
-⬆️ 138 • 💬 367 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+⬆️ 138 • 💬 375 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
 
 ---
 
@@ -235,7 +243,7 @@ We set out to build the first AI tutor to teach math and reading to kids ages 4-
 
 AI cheating leads to "a failed society," professor says.
 
-⬆️ 135 • 💬 158 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
+⬆️ 135 • 💬 158 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
 
 ---
 
@@ -247,11 +255,11 @@ AI changes rewrite economics because codebases with clear, common patterns get m
 
 ---
 
-**[How the terrorist group Boko Haram uses frontier AI](https://news.ycombinator.com/item?id=48863707)**
+**[AI 2040: Plan A](https://news.ycombinator.com/item?id=48848425)**
 
-The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
+A research-backed AI scenario forecast.
 
-⬆️ 101 • 💬 89 • 3h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
+⬆️ 101 • 💬 59 • 1d ago • [ai-2040.com](https://ai-2040.com/)
 
 ---
 
@@ -260,12 +268,6 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI - ronak-create/FableCut
 
 ⬆️ 95 • 💬 58 • 1d ago • [GitHub](https://github.com/ronak-create/FableCut)
-
----
-
-**[Ask HN: Another "Hacker News" with less AI and more human-focused hacking news?](https://news.ycombinator.com/item?id=48834961)**
-
-⬆️ 90 • 💬 54 • 2d ago
 
 ---
 
@@ -279,7 +281,17 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 55K • 👍 3K • 💬 690 • ⏱️ 12:45 • 22h ago
+👁️ 56K • 👍 3K • 💬 697 • ⏱️ 12:45 • 23h ago
+
+---
+
+**[Why does every AI have a different personality?](https://www.youtube.com/watch?v=b-nD3HgIR5Y)**
+
+Where do AI personalities come from? The training process is secretive, but in this video I lay out what we do know. We're ...
+
+📺 Looking Glass Universe
+
+👁️ 4K • 👍 501 • 💬 109 • ⏱️ 32:35 • 7h ago
 
 ---
 
@@ -289,37 +301,7 @@ Generate and edit AI videos with Gemini Omni Flash—all in one place on Higgsfi
 
 📺 Malva AI
 
-👁️ 7K • 👍 347 • 💬 47 • ⏱️ 11:32 • 11h ago
-
----
-
-**[AI boom COLLIDES with local data center opposition](https://www.youtube.com/watch?v=gNdIWtgMYjk)**
-
-Center for Industrial Progress founder and CEO Alex Epstein discusses growing opposition to data centers, with 75 projects worth ...
-
-📺 Fox Business
-
-👁️ 3K • 👍 107 • 💬 61 • ⏱️ 5:21 • 11h ago
-
----
-
-**[GPT-5.6 is here (INSANE)](https://www.youtube.com/watch?v=xKg7O46HpH8)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 42K • 👍 1K • 💬 255 • ⏱️ 11:54 • 1d ago
-
----
-
-**[Which Luxury Bed Would You Choose Tonight? ✨🛏️ | Relaxing AI ASMR Dream World #ai #asmr](https://www.youtube.com/watch?v=lyMiSsvmGJ4)**
-
-Which one made you say "wow"? Tell me in the comments Welcome to a surreal AI dream world ✨ Enjoy a collection of ...
-
-📺 Kira AI ASMR
-
-👁️ 82K • 👍 187 • 💬 3 • ⏱️ 2:57 • 1d ago
+👁️ 8K • 👍 398 • 💬 55 • ⏱️ 11:32 • 12h ago
 
 ---
 
@@ -329,17 +311,47 @@ Michael Green is the chief strategist and portfolio manager at Simplify Asset Ma
 
 📺 Phil Rosen
 
-👁️ 11K • 👍 346 • 💬 53 • ⏱️ 43:30 • 2d ago
+👁️ 11K • 👍 351 • 💬 53 • ⏱️ 43:30 • 2d ago
 
 ---
 
-**[AI News: GPT-5.6 and the new Super App are a Massive Leap!](https://www.youtube.com/watch?v=EOCRtSnvNNE)**
+**[1.6M agents registered for OpenClaw and did NOTHING.](https://www.youtube.com/watch?v=PRqiGS6fnIM)**
 
-Here's the AI News You Might Have Missed This Week. Try my Shorts Broll Generator and get $1000 in free credits for Hyperagent ...
+Full post with the One Minute Test: ...
 
-📺 Matt Wolfe
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 25K • 👍 1K • 💬 141 • ⏱️ 38:41 • 7h ago
+👁️ 10K • 👍 388 • 💬 43 • ⏱️ 28:04 • 9h ago
+
+---
+
+**[GPT-5.6 is here (INSANE)](https://www.youtube.com/watch?v=xKg7O46HpH8)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 43K • 👍 1K • 💬 261 • ⏱️ 11:54 • 1d ago
+
+---
+
+**[Which Luxury Bed Would You Choose Tonight? ✨🛏️ | Relaxing AI ASMR Dream World #ai #asmr](https://www.youtube.com/watch?v=lyMiSsvmGJ4)**
+
+Which one made you say "wow"? Tell me in the comments Welcome to a surreal AI dream world ✨ Enjoy a collection of ...
+
+📺 Kira AI ASMR
+
+👁️ 85K • 👍 198 • 💬 3 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[Midterm Anal-a-Zone: AI Deepfakes Run Wild in Political Ads | The Daily Show](https://www.youtube.com/watch?v=tahHeW6Wq2k)**
+
+AI is disrupting everything, including the midterms, and Jordan Klepper breaks down how politicians are harnessing the world's ...
+
+📺 The Daily Show
+
+👁️ 229K • 👍 8K • 💬 435 • ⏱️ 7:30 • 6h ago
 
 ---
 
@@ -349,27 +361,17 @@ Make Your Own YouTube Shorts with OpenArt https://tolt.link/yvhshorts In this vi
 
 📺 Youri van Hofwegen
 
-👁️ 17K • 💬 8 • ⏱️ 8:09 • 1d ago
+👁️ 18K • 💬 8 • ⏱️ 8:09 • 1d ago
 
 ---
 
-**[Apple’s Hidden AI Model… The Speed Test Apple Never Showed](https://www.youtube.com/watch?v=8vDuIVlfeV0)**
+**[AI boom COLLIDES with local data center opposition](https://www.youtube.com/watch?v=gNdIWtgMYjk)**
 
-Apple quietly hid a local AI model inside macOS 27, so I benchmarked it to see whether a $10000 Mac Studio could actually make ...
+Center for Industrial Progress founder and CEO Alex Epstein discusses growing opposition to data centers, with 75 projects worth ...
 
-📺 Alex Ziskind
+📺 Fox Business
 
-👁️ 24K • 👍 1K • 💬 89 • ⏱️ 11:21 • 6h ago
-
----
-
-**[China Is About To Pop The AI Bubble](https://www.youtube.com/watch?v=siazPdsZHuI)**
-
-China Is About To Pop The AI Bubble ▻ Go to https://ground.news/jikh to access world-wide perspectives in one place, compare ...
-
-📺 Andrei Jikh
-
-👁️ 1.1M • 👍 37K • 💬 4K • ⏱️ 30:47 • 2d ago
+👁️ 3K • 👍 110 • 💬 69 • ⏱️ 5:21 • 12h ago
 
 ---
 
@@ -385,7 +387,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 6,923 • ❤️ 659 • 4d ago
+⬇️ 6,923 • ❤️ 663 • 4d ago
 
 ---
 
@@ -397,7 +399,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,909,705 • ❤️ 1,966 • 12d ago
+⬇️ 1,909,705 • ❤️ 1,974 • 12d ago
 
 ---
 
@@ -409,7 +411,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 392,655 • ❤️ 3,775 • 8d ago
+⬇️ 392,655 • ❤️ 3,782 • 8d ago
 
 ---
 
@@ -421,7 +423,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 25,772 • ❤️ 464 • 1d ago
+⬇️ 25,772 • ❤️ 468 • 1d ago
 
 ---
 
@@ -445,7 +447,19 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 3,699 • ❤️ 209 • 8h ago
+⬇️ 3,699 • ❤️ 211 • 10h ago
+
+---
+
+**[tabfm-1.0.0-pytorch](https://huggingface.co/google/tabfm-1.0.0-pytorch)**
+
+*Google*
+
+TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification and regression, supporting mixed data types without fine-tuning by using in-context learning. It excels in tabular tasks by leveraging alternating row and column attention mechanisms, making it suitable for rapid prototyping and scenarios where dataset-specific training is infeasible.
+
+`tabular-classification`
+
+⬇️ 18,626 • ❤️ 345 • 6d ago
 
 ---
 
@@ -461,25 +475,13 @@ A compact, instruction-tuned 4B parameter language model based on Qwen3, optimiz
 
 ---
 
-**[tabfm-1.0.0-pytorch](https://huggingface.co/google/tabfm-1.0.0-pytorch)**
-
-*Google*
-
-TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification and regression, supporting mixed data types without fine-tuning by using in-context learning. It excels in tabular tasks by leveraging alternating row and column attention mechanisms, making it suitable for rapid prototyping and scenarios where dataset-specific training is infeasible.
-
-`tabular-classification`
-
-⬇️ 18,626 • ❤️ 344 • 6d ago
-
----
-
 **[Qwen-Fixed-Chat-Templates](https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates)**
 
 *froggeric*
 
 A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
 
-⬇️ 0 • ❤️ 831 • 7d ago
+⬇️ 0 • ❤️ 834 • 7d ago
 
 ---
 
@@ -507,7 +509,7 @@ LongCat-2.0 is a 1.6T parameter MoE language model featuring LongCat Sparse Atte
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 26 • 💬 1 • ⭐ 663 • 3d ago
+▲ 26 • 💬 1 • ⭐ 689 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
 
@@ -521,7 +523,7 @@ An advanced world modeling system with extended interaction capabilities, real-t
 
 LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
 
-▲ 41 • 💬 1 • ⭐ 620 • 3d ago
+▲ 42 • 💬 1 • ⭐ 640 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
@@ -547,7 +549,7 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 11 • 💬 0 • ⭐ 7,172 • 10mo ago
+▲ 11 • 💬 0 • ⭐ 7,253 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
@@ -565,20 +567,6 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[Vision Pretraining for Dense Spatial Perception](https://huggingface.co/papers/2607.05247)**
-
-*Zelin Fu, Bin Tan, Changjiang Sun et al. (9 authors)*
-
-🏢 Robbyant
-
-Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.
-
-▲ 38 • 💬 2 • ⭐ 598 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.05247) • [💻 code](https://github.com/Robbyant/lingbot-vision) • [🔗 project](https://technology.robbyant.com/lingbot-vision)
-
----
-
 **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
 
 *Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
@@ -590,6 +578,20 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 ▲ 254 • 💬 4 • ⭐ 12,080 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
+
+---
+
+**[Vision Pretraining for Dense Spatial Perception](https://huggingface.co/papers/2607.05247)**
+
+*Zelin Fu, Bin Tan, Changjiang Sun et al. (9 authors)*
+
+🏢 Robbyant
+
+Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.
+
+▲ 39 • 💬 2 • ⭐ 614 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.05247) • [💻 code](https://github.com/Robbyant/lingbot-vision) • [🔗 project](https://technology.robbyant.com/lingbot-vision)
 
 ---
 
@@ -613,7 +615,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Vidu S1 is a real-time interactive video generation model that supports voice-controlled digital character animation with infinite-length output and high frame rate on consumer hardware.
 
-▲ 107 • 💬 6 • ⭐ 127 • 8d ago
+▲ 108 • 💬 6 • ⭐ 127 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.03118) • [💻 code](https://github.com/shengshu-ai/Vidu-S1) • [🔗 project](https://vidu.com/vidu-stream)
 
@@ -626,7 +628,7 @@ Vidu S1 is a real-time interactive video generation model that supports voice-co
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 82 • 💬 7 • ⭐ 80,315 • 23mo ago
+▲ 82 • 💬 7 • ⭐ 80,364 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -639,7 +641,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 175 • 💬 2 • ⭐ 74,153 • 9mo ago
+▲ 175 • 💬 2 • ⭐ 74,196 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -655,7 +657,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 80.1k • 🔱 4.3k • 19h ago
+⭐ 80.1k • 🔱 4.3k • 20h ago
 
 ---
 
@@ -665,7 +667,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 7.0k • 🔱 945 • 1h ago
+⭐ 7.0k • 🔱 945 • 17m ago
 
 ---
 
@@ -675,7 +677,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.3k • 🔱 922 • 1d ago
+⭐ 4.3k • 🔱 924 • 1d ago
 
 ---
 
@@ -695,7 +697,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 2.3k • 🔱 87 • 22h ago
+⭐ 2.3k • 🔱 87 • 1d ago
 
 ---
 
@@ -705,7 +707,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.1k • 🔱 294 • 3h ago
+⭐ 2.1k • 🔱 294 • 4h ago
 
 ---
 
@@ -725,7 +727,7 @@ AI logo animation skill: turn raster logos into smooth SVG animation, animated H
 
 `Python` `ai-design-tools` `animated-logo` `brand-motion` `claude-skill` `codex-skill`
 
-⭐ 1.6k • 🔱 151 • 15h ago
+⭐ 1.6k • 🔱 151 • 17h ago
 
 ---
 
@@ -745,7 +747,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.2k • 🔱 68 • 8h ago
+⭐ 1.2k • 🔱 69 • 9h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T22:03:43.759170+00:00'
+updated: '2026-07-10T23:28:46.834333+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 22:03 UTC  
+**Last Updated:** July 10, 2026 at 23:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -136,17 +136,17 @@ Ars Technica • 1d ago
 
 ---
 
-**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
-
-Nature • 2d ago
-
----
-
 **[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 7h ago
+New Atlas • 8h ago
+
+---
+
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+
+Nature • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ New Atlas • 7h ago
 
 The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
 
-Fast Company • 11h ago
+Fast Company • 13h ago
 
 ---
 
@@ -162,7 +162,7 @@ Fast Company • 11h ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 4h ago
+mistral.ai • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 159K • 👍 4K • 💬 275 • ⏱️ 10:56 • 6d ago
+👁️ 161K • 👍 4K • 💬 277 • ⏱️ 10:56 • 6d ago
 
 ---
 
@@ -210,17 +210,17 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 107K • 👍 3K • 💬 494 • ⏱️ 13:32 • 5d ago
+👁️ 107K • 👍 3K • 💬 496 • ⏱️ 13:32 • 6d ago
 
 ---
 
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
 
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
 
-📺 China Observer
+📺 DW News
 
-👁️ 67K • 👍 2K • 💬 558 • ⏱️ 20:21 • 2d ago
+👁️ 11K • 👍 567 • 💬 41 • ⏱️ 2:38 • 8h ago
 
 ---
 
@@ -230,7 +230,7 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 93K • 👍 4K • 💬 163 • ⏱️ 11:20 • 4d ago
+👁️ 94K • 👍 4K • 💬 164 • ⏱️ 11:20 • 4d ago
 
 ---
 
@@ -244,51 +244,53 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 ---
 
-**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
-
-The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
-
-📺 1X
-
-👁️ 52K • 👍 2K • 💬 321 • ⏱️ 1:48 • 1d ago
-
----
-
-**[1X Tech Claims Most Advanced Humanoid Robot Hand in History #robot #robotics #humanoidrobot](https://www.youtube.com/watch?v=PfxY2Vd12D0)**
-
-1X Technologies says its robot hand is the "most advanced" in the history of everything. The Silicon Valley startup offered a ...
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 142 • 💬 10 • ⏱️ 1:06 • 19h ago
-
----
-
 **[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
 
 Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
 
 📺 Kalil 4.0
 
-👁️ 6K • 👍 162 • 💬 33 • ⏱️ 10:42 • 4d ago
+👁️ 7K • 👍 168 • 💬 34 • ⏱️ 10:42 • 4d ago
 
 ---
 
-**[UBTECH U WORLD U1: Ultra-Bionic Humanoid Robots](https://www.youtube.com/watch?v=HVSA83KpQes)**
+**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
 
-Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the future of personal robotics has arrived!
+The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
 
-📺 Zoom Vantage
+📺 1X
 
-👁️ 2K • 👍 59 • 💬 6 • ⏱️ 4:05 • 2d ago
+👁️ 58K • 👍 3K • 💬 335 • ⏱️ 1:48 • 1d ago
 
 ---
 
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=RGz7uWR7Apc)**
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
 
-📺 Borunte julie 
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
 
-👁️ 57K • 👍 324 • ⏱️ 0:17 • 1d ago
+📺 China Observer
+
+👁️ 68K • 👍 2K • 💬 558 • ⏱️ 20:21 • 2d ago
+
+---
+
+**[A Robot RUINED Her Hair (SEND HELP)](https://www.youtube.com/watch?v=JrRiS48ikh4)**
+
+Hi beautiful! We have the most unexpected mix of videos and I am so excited to get into all of it. We have a coontail transformation ...
+
+📺 Brad Mondo
+
+👁️ 293K • 👍 11K • 💬 821 • ⏱️ 53:37 • 5d ago
+
+---
+
+**[Meet Beni, Your First Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=rBETwu7ssVw)**
+
+Meet Beni — a camera robot built for the moments that are great to live but hard to film. Under 4 lb. Up to 17.8 mph. Jumps, flips ...
+
+📺 Mondo Robotics
+
+👁️ 55K • 👍 317 • 💬 43 • ⏱️ 2:44 • 2d ago
 
 ---
 

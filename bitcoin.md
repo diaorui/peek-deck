@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-10T22:03:43.749833+00:00'
+updated: '2026-07-10T23:28:46.825005+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 22:03 UTC  
+**Last Updated:** July 10, 2026 at 23:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,872.06
+### $64,034.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +1.3%  
-**30d:** +0.7%  
-**90d:** -9.5%  
-**1y:** -45.5%  
+**24h:** +1.7%  
+**7d:** +1.6%  
+**30d:** +0.9%  
+**90d:** -9.2%  
+**1y:** -45.3%  
 
 ---
 
@@ -163,19 +163,35 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[BTC, ETH price news: What next as bitcoin zips to nearly $64,000](https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains)**
+**[Bitcoin's $60,000-$70,000 range becomes third most traded range in history](https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history)**
 
-Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran.
+Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band.
 
-CoinDesk • 18h ago
+CoinDesk • 14h ago
 
 ---
 
-**[Michael Saylor said ‘never sell your Bitcoin.’ Now his company, Strategy, can sell up to $1.25 billion if it needs cash](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-said-never-sell-121500423.html)**
+**[Strategy Is Still a Major Risk for Bitcoin, says Mike Green](https://finance.yahoo.com/video/strategy-still-major-risk-bitcoin-211900457.html)**
 
-The move doesn’t mean Strategy is selling today, but it marks the first time the Bitcoin giant has formally laid out when and how it could cash in its holdings.
+Mike Green says Strategy’s levered Bitcoin bet remains a major risk if Bitcoin keeps falling
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Weekly Wrap: Bitcoin Has A Winning Week](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-winning-week-224700796.html)**
+
+Bitcoin (CRYPTO: $BTC) is up 1% on July 10 and headed for a winning week as cryptocurrencies shake-off renewed tens...
+
+Yahoo Finance • 41m ago
+
+---
+
+**[Bitcoin’s Slump Forces a Crypto Booster’s Retreat](https://thedispatch.com/newsletter/morning/bitcoins-slump-forces-a-crypto-boosters-retreat/)**
+
+Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
+
+The Dispatch • 13h ago
 
 ---
 
@@ -187,6 +203,12 @@ KRXI2 • 1d ago
 
 ---
 
+**[MARA Stock Leads Digital Rally On Data Center Development Plans. Bitcoin Rises.](https://www.investors.com/news/mara-stock-power-land-deal-2gw-data-center-ai-bitcoin-price-terawulf-iren/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
 **[JPMorgan says bitcoin's main risk isn't Strategy, but blockchain adoption that doesn't benefit public chains and tokens](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto)**
 
 JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
@@ -195,17 +217,11 @@ The Block • 1d ago
 
 ---
 
-**[MARA Stock Leads Digital Rally On Data Center Development Plans. Bitcoin Rises.](https://www.investors.com/news/mara-stock-power-land-deal-2gw-data-center-ai-bitcoin-price-terawulf-iren/)**
+**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
 
-Investor's Business Daily • 1d ago
+American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
 
----
-
-**[Bitcoin Rallies Toward $65,000 Level As Multiple Factors Drive Gains](https://www.forbes.com/sites/digital-assets/2026/07/10/bitcoin-rallies-toward-65000-level-as-multiple-factors-drive-gains/)**
-
-Bitcoin prices rallied on Friday, July 10, approaching $65,000 as a range of factors contributed to the digital currency’s upward movement.
-
-Forbes • 1h ago
+Honolulu Star-Advertiser • 5h ago
 
 ---
 
@@ -214,22 +230,6 @@ Forbes • 1h ago
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
 Fortune • 2d ago
-
----
-
-**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
-
-American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
-
-Honolulu Star-Advertiser • 4h ago
-
----
-
-**[Michael Saylor’s recent Bitcoin sales are a worry for crypto investors](https://nypost.com/2026/07/10/business/michael-saylors-recent-bitcoin-sales-are-a-worry-for-crypto-investors/)**
-
-Is Saylor going to turn the current Bitcoin winter into the storm of the century for crypto?
-
-New York Post • 11h ago
 
 ---
 
@@ -243,7 +243,7 @@ ZeroNet is a decentralized network that enables dynamic sites, such as blogs and
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 14 • 💬 2 • 5d ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 14 • 💬 2 • 6d ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -275,7 +275,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -283,7 +283,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 8h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 9h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -305,7 +305,7 @@ It’s supposed to be a decentralized service, after all...
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 80 • 💬 40 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 86 • 💬 40 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -319,17 +319,7 @@ Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congres
 
 📺 Fox Business
 
-👁️ 30K • 👍 834 • 💬 247 • ⏱️ 12:46 • 6h ago
-
----
-
-**[Last Time THIS Happened Bitcoin Exploded 20x (It&#39;s Happening Again!)](https://www.youtube.com/watch?v=OpOPKHOgK34)**
-
-The biggest attacks on Bitcoin have often become its biggest strengths. The 2017 Fork Wars proved that no company, miner, ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 323 • ⏱️ 19:44 • 1d ago
+👁️ 44K • 👍 1K • 💬 320 • ⏱️ 12:46 • 8h ago
 
 ---
 
@@ -339,17 +329,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 271 • 💬 101 • ⏱️ 7:32 • 22h ago
-
----
-
-**[You Won&#39;t Believe What This NEW BATTLE Means For Bitcoin](https://www.youtube.com/watch?v=u0ENddawnrI)**
-
-Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bitcoin did something different. From Lyn Alden's ...
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 669 • 💬 72 • ⏱️ 18:07 • 1d ago
+👁️ 6K • 👍 275 • 💬 101 • ⏱️ 7:32 • 23h ago
 
 ---
 
@@ -359,17 +339,17 @@ As the deadline to get Clarity Act thru comes closer the attackers of bitcoin co
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 305 • 💬 28 • ⏱️ 1:29:30 • 1d ago
+👁️ 6K • 👍 307 • 💬 28 • ⏱️ 1:29:30 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Next Buyer Is TRILLIONS Bigger Than Michael Saylor -  Matt Hougan](https://www.youtube.com/watch?v=otS9X8QkMuI)**
+**[Last Time THIS Happened Bitcoin Exploded 20x (It&#39;s Happening Again!)](https://www.youtube.com/watch?v=OpOPKHOgK34)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+The biggest attacks on Bitcoin have often become its biggest strengths. The 2017 Fork Wars proved that no company, miner, ...
 
-📺 Savvy Finance
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 117 • 💬 11 • ⏱️ 15:58 • 1d ago
+👁️ 27K • 👍 2K • 💬 331 • ⏱️ 19:44 • 1d ago
 
 ---
 
@@ -383,13 +363,13 @@ Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https:
 
 ---
 
-**[Will the Clarity Act Pass?](https://www.youtube.com/watch?v=zGFSACRQX08)**
+**[Bitcoin&#39;s Next Buyer Is TRILLIONS Bigger Than Michael Saylor -  Matt Hougan](https://www.youtube.com/watch?v=otS9X8QkMuI)**
 
-A new version of the CLARITY Act could arrive as soon as next week, but disagreements over ethics provisions leave crypto's ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 CoinDesk
+📺 Savvy Finance
 
-👁️ 349 • 👍 14 • 💬 23 • ⏱️ 2:08 • 4h ago
+👁️ 3K • 👍 119 • 💬 11 • ⏱️ 15:58 • 1d ago
 
 ---
 
@@ -399,7 +379,7 @@ Bitcoin has a way of making investors question everything during the most diffic
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 3K • 💬 198 • ⏱️ 29:53 • 6h ago
+👁️ 42K • 👍 3K • 💬 234 • ⏱️ 29:53 • 8h ago
 
 ---
 
@@ -409,7 +389,27 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 412 • 💬 414 • ⏱️ 17:47 • 7h ago
+👁️ 6K • 👍 476 • 💬 389 • ⏱️ 17:47 • 8h ago
+
+---
+
+**[🚨 BITCOIN: IT’S HAPPENING!!!!!!!!!!!](https://www.youtube.com/watch?v=JvTL9kYaoIk)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+
+📺 Crypto Kid
+
+👁️ 4K • 👍 250 • 💬 70 • ⏱️ 4:25 • 16h ago
+
+---
+
+**[Where did BITCOIN come from??](https://www.youtube.com/watch?v=h16OpJbINDQ)**
+
+Smartnonsense.com.
+
+📺 Smart Nonsense
+
+👁️ 244K • 👍 19K • 💬 188 • ⏱️ 1:07 • 1d ago
 
 ---
 
