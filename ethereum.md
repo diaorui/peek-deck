@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-10T15:12:11.639656+00:00'
+updated: '2026-07-10T17:18:32.248371+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 15:12 UTC  
+**Last Updated:** July 10, 2026 at 17:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,748.94
+### $1,797.16
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** +0.5%  
-**30d:** +6.8%  
-**90d:** -18.2%  
-**1y:** -39.5%  
+**24h:** +2.3%  
+**7d:** +0.6%  
+**30d:** +7.0%  
+**90d:** -18.1%  
+**1y:** -39.4%  
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum has just crossed another major milestone.](https://www.reddit.com/r/ethereum/comments/1uqwiwi/ethereum_has_just_crossed_another_major_milestone/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Abstract The smart-contract ecosystem already depends heavily on code reuse, but that reuse has not yet become shared on-chain infrastructure. Similar logic is repeatedly redeployed across projects, creating duplicated infrastructure that increases long-term maintenance, audit, and security burdens for the ecosystem. Compose introduces Smart Contract Oriented Programming, or SCOP, to bring reuse into the deployed architecture itself. Using diamonds and stateless facets, Compose enables modular on-chain systems that are easier to build and trust across their lifecycle.
 
-🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 1d ago
+🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 2d ago
 
 ---
 
@@ -148,7 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 *Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
 
-ethereum.org • 23h ago
+ethereum.org • 1d ago
 
 ---
 
@@ -160,25 +160,26 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, July 10, 2026: Up nearly 3% since last Friday](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-10-2026-up-nearly-3-since-last-friday-130101171.html)**
-
-Bitcoin opened at $63,184.80 on Friday, July 10, 2026, up 1.5% from Thursday's opening price. Ethereum opened at $1,744.28 on Friday, July 10, 2026, up 0.1% from Thursday's opening price.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum must move faster or risk losing its edge says Starkware Founder](https://www.coindesk.com/video/ethereum-must-move-faster-or-risk-losing-its-edge-says-starkware-founder)**
-
-On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ambitious roadmap must move faster—or risk losing its first-mover advantage to newer, more modern blockchains. He also explains why quantum readiness has become an urgent priority and shares his vision for a durable, peer-to-peer financial system built on true economic freedom. | CoinDesk Videos
-
-CoinDesk • 34m ago
-
----
-
 **[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
 
-MarketWatch • 1h ago
+MarketWatch • 3h ago
+
+---
+
+**[Ethereum must move faster or risk losing its edge says Starkware Founder](https://sg.finance.yahoo.com/video/ethereum-must-move-faster-risk-141333162.html)**
+
+On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ambitious roadmap must move faster—or risk losing its first-mover advantage to newer, more modern blockchains. He also explains why quantum readiness has become an urgent priority and shares his vision for a durable, peer-to-peer financial system built on true economic freedom.
+-
+This episode is brought to you by RealFi, a smarter stablecoin, backed by real-world assets. Find out more at realfi.co.
+-
+Ledn provides a secure and transparent way to access liquidity while maintaining your bitcoin holdings.
+Perfect 8 year track record of keeping clients assets safe.
+Don't sell your bitcoin. Get a bitcoin-backed loan.
+Check out your rate by using their loan calculator at ledn.io
+-
+JPEG Trading is a global proprietary trading firm specializing in cryptocurrency and decentralized finance markets. From market structure and liquidity provision to quantitative trading strategies, JPEG Trading operates across the full spectrum of blockchain-based assets. Follow @jpegtrading on X to stay ahead of the latest developments in digital asset markets: https://x.com/jpegtrading
+
+Yahoo Finance Singapore • 3h ago
 
 ---
 
@@ -186,7 +187,15 @@ MarketWatch • 1h ago
 
 The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.
 
-The Block • 19h ago
+The Block • 21h ago
+
+---
+
+**[Ethereum's newest nonprofit wants to become Wall Street's guide to crypto](https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto)**
+
+In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -194,7 +203,15 @@ The Block • 19h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 6h ago
+
+---
+
+**[Cambridge research reveals 31% of Ethereum node activity concentrated in the US](https://cryptobriefing.com/cambridge-ethereum-node-us-concentration/)**
+
+Cambridge CCAF research shows 31% of Ethereum beacon node activity is US-based and clustered on AWS, Hetzner, and OVH, raising centralization concerns.
+
+Crypto Briefing • 35m ago
 
 ---
 
@@ -202,21 +219,15 @@ Fortune • 4h ago
 
 MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
-**[1 Unstoppable Cryptocurrency to Buy Before It Soars 3,442%, According to Tom Lee of Fundstrat](https://www.fool.com/investing/2026/07/08/1-unstoppable-cryptocurrency-to-buy-before-it-soar/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC gears up for a breakout, ETH tests key EMA, XRP holds support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-gears-up-for-a-breakout-eth-tests-key-ema-xrp-holds-support-202607100351)**
 
-Ethereum may be down 40% for the year, but a near-term turnaround looks likely.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
 
-The Motley Fool • 2d ago
-
----
-
-**[Bitcoin and Ethereum Rebound to Intermediate Resistances](https://www.investing.com/analysis/bitcoin-and-ethereum-rebound-to-intermediate-resistances-200683702)**
-
-Investing.com • 5h ago
+FXStreet • 13h ago
 
 ---
 
@@ -230,7 +241,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 207 • 💬 35 • ⏱️ 18:35 • 21h ago
+👁️ 5K • 👍 212 • 💬 35 • ⏱️ 18:35 • 23h ago
 
 ---
 
@@ -240,7 +251,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 3K • 👍 279 • 💬 113 • ⏱️ 15:45 • 3h ago
+👁️ 4K • 👍 318 • 💬 126 • ⏱️ 15:45 • 6h ago
 
 ---
 
@@ -250,7 +261,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 221 • 💬 38 • ⏱️ 13:21 • 1d ago
+👁️ 6K • 👍 223 • 💬 38 • ⏱️ 13:21 • 2d ago
 
 ---
 
@@ -260,7 +271,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 90 • ⏱️ 7:04 • 12h ago
+👁️ 1K • 👍 92 • ⏱️ 7:04 • 14h ago
+
+---
+
+**[🚨 BTC &amp; ETH: MY LAST YT VIDEO!!! BUT MOST IMPORTANT ONE!! YOU HAVE TO SEE THIS NOW!](https://www.youtube.com/watch?v=mzqA6MJSsGw)**
+
+This is my last video in this format. But I think its most important one. ---------- Join My FREE Trading Group & School: ...
+
+📺 Thomas Kralow
+
+👁️ 11K • 👍 1K • 💬 34 • ⏱️ 13:33 • 1d ago
 
 ---
 
@@ -270,7 +291,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 17K • 👍 902 • 💬 215 • ⏱️ 21:46 • 2d ago
+👁️ 17K • 👍 906 • 💬 215 • ⏱️ 21:46 • 2d ago
 
 ---
 
@@ -280,37 +301,7 @@ BITCOIN LIQUIDATIONS PENDING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 9K • 👍 327 • 💬 215 • ⏱️ 21:24 • 18h ago
-
----
-
-**[Bitcoin, Ethereum &amp; Solana Rally: What&#39;s Driving The Crypto Rally? | Top Crypto Headlines](https://www.youtube.com/watch?v=SD4zyZ62QTQ)**
-
-Bitcoin climbed close to the $64000 mark as fresh ETF inflows returned and institutional demand showed signs of strength.
-
-📺 NDTV Profit
-
-👁️ 295 • 👍 13 • 💬 1 • ⏱️ 3:55 • 8h ago
-
----
-
-**[Live Crypto &amp; Gold Psychological Trading 10 July ||  #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=etD6lCQUOgc)**
-
-TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
-
-📺 Vibe With Sahil
-
-👁️ 791 • 👍 104 • 36m ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=xINX8jPEJLc)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 294 • 👍 43 • ⏱️ 7:13 • 2h ago
+👁️ 10K • 👍 329 • 💬 178 • ⏱️ 21:24 • 20h ago
 
 ---
 
@@ -320,7 +311,27 @@ BlackRock just paid its first crypto staking paycheck, $351669.96, and it landed
 
 📺 Alexander Lorenzo
 
-👁️ 5K • 👍 457 • 💬 15 • ⏱️ 2:52 • 22h ago
+👁️ 5K • 👍 470 • 💬 15 • ⏱️ 2:52 • 1d ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Solana Rally: What&#39;s Driving The Crypto Rally? | Top Crypto Headlines](https://www.youtube.com/watch?v=SD4zyZ62QTQ)**
+
+Bitcoin climbed close to the $64000 mark as fresh ETF inflows returned and institutional demand showed signs of strength.
+
+📺 NDTV Profit
+
+👁️ 411 • 👍 13 • 💬 1 • ⏱️ 3:55 • 10h ago
+
+---
+
+**[Crypto Market U-Turn We Just Got Some Shocking Bitcoin &amp; Ethereum News And You&#39;re Going To Love It](https://www.youtube.com/watch?v=A6LgEWNcO0k)**
+
+Who knew that a dip in price could cause such a massive movement in crypto market sentiment? Bitcoin and Ethereum are once ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 705 • 💬 314 • ⏱️ 33:10 • 1d ago
 
 ---
 

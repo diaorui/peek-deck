@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T15:12:11.642976+00:00'
+updated: '2026-07-10T17:18:32.251630+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 15:12 UTC  
+**Last Updated:** July 10, 2026 at 17:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle
 
 I sometimes need to tune the inertial property of the robot by changing the density or mass of each parts. Doing it in CAD and have it re-export to URDF takes a bit long and too tedious. So this online editor lets you (and me) quickly make changes, and have the inertia tensor of the links be recomputed immediately. You can then copy-paste the updated URDF. This is basically entirely made by claude (with some of my help :)) (And yes, it is placed under my startup's domain as a potential lead magnet. but I think it could be useful for some people nonetheless. EDIT (forgot to post the link) Welcome to try: https://urdf.aperobotics.io/
 
-3d ago
+4d ago
 
 ---
 
@@ -52,7 +52,7 @@ I sometimes need to tune the inertial property of the robot by changing the dens
 
 Have been building this project for a while now, and would love to get eyes on it. Will appreciate it if you could try it out in actual workflows and give me feedback so I can decide the direction to move in. Currently it has been benchmarked against OPEN3D v0.19 on the same machine, using full-resolution frames from three real datasets: TUM RGB-D, KITTI, and nuScenes-mini. In the table below, higher is better — a ratio above 1 means ThreeCrate is faster than Open3D. Workload How ThreeCrate compares Reading files (raw float parsing) 1.8x–2.2x faster Voxel downsampling (CPU) 1.6x–1.8x faster Voxel downsampling (GPU, wgpu) 1.8x–2.9x faster (vs our own CPU path, not Open3D) Normal estimation 0.57x–1.09x (falls behind on big clouds) Single-scale ICP 0.71x–0.99x (falls behind on big clouds) Would appreciate any contributions and feedback for the repo. Link to the repo: https://github.com/rajgandhi1/threecrate
 
-3d ago
+4d ago
 
 ---
 
@@ -116,7 +116,7 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 **[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -124,15 +124,13 @@ Reuters • 1d ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 33m ago
+mistral.ai • 2h ago
 
 ---
 
-**[Mistral joins rush to build physical AI](https://www.computerworld.com/article/4195636/mistral-joins-rush-to-build-physical-ai.html)**
+**[Mistral AI Releases Robotics Model to Support Physical AI Push](https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push)**
 
-Its Robostral Navigate AI model needs input from just one color camera, doing without Lidar, depth sensors, or multiple viewpoints.
-
-Computerworld • 56m ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -148,15 +146,7 @@ TechCrunch • 1d ago
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
-Ars Technica • 19h ago
-
----
-
-**[Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First](https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first)**
-
-For the first time, two teleoperated humanoid robots have been used to complete two surgeries during a preclinical trial, researchers report in the July 8 issue of the journal Nature.
-
-UC San Diego Today • 2d ago
+Ars Technica • 21h ago
 
 ---
 
@@ -164,7 +154,15 @@ UC San Diego Today • 2d ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 9m ago
+New Atlas • 2h ago
+
+---
+
+**[The first commercial human-like robot is here. Are replicants next?](https://www.fastcompany.com/91570086/ubtech-first-commercial-human-like-robot)**
+
+The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
+
+Fast Company • 7h ago
 
 ---
 
@@ -184,35 +182,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
+**[Do Robots Lure Us to War? The Impact of the Robotic Revolution on the Propensity for Armed Conflict](https://www.rand.org/pubs/rgs_dissertations/RGSDA5114-1.html)**
 
-Tech Xplore • 2h ago
+The author developed a framework to understand the decision space for the use of force in the presence of emerging technology and applied it to autonomous weapons systems.
+
+RAND • 1d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
-
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
-
-📺 Future Core
-
-👁️ 156K • 👍 4K • 💬 272 • ⏱️ 10:56 • 5d ago
-
----
-
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
-
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
-
-📺 China Observer
-
-👁️ 67K • 👍 2K • 💬 554 • ⏱️ 20:21 • 2d ago
-
----
 
 **[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
@@ -224,13 +204,53 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 ---
 
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
+
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
+
+📺 Future Core
+
+👁️ 157K • 👍 4K • 💬 272 • ⏱️ 10:56 • 5d ago
+
+---
+
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+
+📺 China Observer
+
+👁️ 67K • 👍 2K • 💬 557 • ⏱️ 20:21 • 2d ago
+
+---
+
 **[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
 
 Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
 
 📺 Carl Bugeja
 
-👁️ 88K • 👍 4K • 💬 161 • ⏱️ 11:20 • 4d ago
+👁️ 90K • 👍 4K • 💬 162 • ⏱️ 11:20 • 4d ago
+
+---
+
+**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
+
+The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
+
+📺 1X
+
+👁️ 44K • 👍 2K • 💬 296 • ⏱️ 1:48 • 1d ago
+
+---
+
+**[I Spent $100 On The Most Pay To Win Game. Here&#39;s What I Got... (War Robots)](https://www.youtube.com/watch?v=UWpLW0pLJdU)**
+
+Like and sui discord in bio #freetoplay #warrobots #gaming.
+
+📺 ElephantDogCat
+
+👁️ 18K • 👍 1K • 💬 125 • ⏱️ 12:35 • 21h ago
 
 ---
 
@@ -244,33 +264,23 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 ---
 
-**[1X Tech Claims Most Advanced Humanoid Robot Hand in History #robot #robotics #humanoidrobot](https://www.youtube.com/watch?v=PfxY2Vd12D0)**
-
-1X Technologies says its robot hand is the "most advanced" in the history of everything. The Silicon Valley startup offered a ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 115 • 💬 9 • ⏱️ 1:06 • 12h ago
-
----
-
-**[I Spent $100 On The Most Pay To Win Game. Here&#39;s What I Got... (War Robots)](https://www.youtube.com/watch?v=UWpLW0pLJdU)**
-
-Like and sui discord in bio #freetoplay #warrobots #gaming.
-
-📺 ElephantDogCat
-
-👁️ 16K • 👍 1K • 💬 121 • ⏱️ 12:35 • 18h ago
-
----
-
 **[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
 
 Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
 
 📺 Kalil 4.0
 
-👁️ 6K • 👍 152 • 💬 31 • ⏱️ 10:42 • 3d ago
+👁️ 6K • 👍 156 • 💬 33 • ⏱️ 10:42 • 3d ago
+
+---
+
+**[1X Tech Claims Most Advanced Humanoid Robot Hand in History #robot #robotics #humanoidrobot](https://www.youtube.com/watch?v=PfxY2Vd12D0)**
+
+1X Technologies says its robot hand is the "most advanced" in the history of everything. The Silicon Valley startup offered a ...
+
+📺 Kalil 4.0
+
+👁️ 3K • 👍 125 • 💬 9 • ⏱️ 1:06 • 14h ago
 
 ---
 
@@ -281,16 +291,6 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 📺 Chris Norlund
 
 👁️ 71K • 👍 4K • 💬 2K • ⏱️ 13:09 • 5d ago
-
----
-
-**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
-
-The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
-
-📺 1X
-
-👁️ 41K • 👍 2K • 💬 280 • ⏱️ 1:48 • 22h ago
 
 ---
 
