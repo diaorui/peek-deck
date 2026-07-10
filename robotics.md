@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T19:00:58.349223+00:00'
+updated: '2026-07-10T20:49:43.557704+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 19:00 UTC  
+**Last Updated:** July 10, 2026 at 20:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Have been building this project for a while now, and would love to get eyes on i
 
 Found this demo on their project page showing exactly the transparent-surface problem that breaks most RGB-D setups. Raw sensor depth drops to nothing on the glass panel, and the completion model fills it in from the backbone features. Only the four vision encoders went up on HuggingFace and GitHub this week under Apache-2.0; the depth completion weights themselves are not released. Their paper lists NYUv2 RMSE of 0.296 for the flagship ViT-g, and they report 2.552 on KITTI, trailing both DINOv3-7B and V-JEPA 2.1. For actual robotics work this is the exact failure mode that makes wine glasses and steel cabinets a consistent headache for grasp pipelines. Curious how people see validating these depth numbers when the completion weights are not available for independent testing.
 
-3d ago
+4d ago
 
 ---
 
@@ -124,7 +124,7 @@ Reuters • 2d ago
 
 General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -132,7 +132,13 @@ TechCrunch • 1d ago
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
-Ars Technica • 22h ago
+Ars Technica • 1d ago
+
+---
+
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+
+Nature • 2d ago
 
 ---
 
@@ -140,21 +146,7 @@ Ars Technica • 22h ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 3h ago
-
----
-
-**[Humanoid Robots Just Performed Live Surgery For The First Time Ever](https://www.forbes.com/sites/johnkoetsier/2026/07/10/humanoid-robots-just-performed-live-surgery-for-the-first-time-ever/)**
-
-"Your robot surgeon will see you now." We might not be too far off from that statement. And it might both reduce health care costs and increase availability.
-
-Forbes • 39m ago
-
----
-
-**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
-
-Reuters • 17m ago
+New Atlas • 5h ago
 
 ---
 
@@ -162,7 +154,7 @@ Reuters • 17m ago
 
 The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
 
-Fast Company • 8h ago
+Fast Company • 10h ago
 
 ---
 
@@ -170,7 +162,15 @@ Fast Company • 8h ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 1h ago
+mistral.ai • 3h ago
+
+---
+
+**[Meet Isaac 1, the $8,000 home robot that wants to take folding laundry off your to-do list](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
+
+The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
+
+Business Insider • 1d ago
 
 ---
 
@@ -194,23 +194,23 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 106K • 👍 3K • 💬 487 • ⏱️ 13:32 • 5d ago
-
----
-
 **[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
 
 America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
 
 📺 Future Core
 
-👁️ 157K • 👍 4K • 💬 272 • ⏱️ 10:56 • 5d ago
+👁️ 159K • 👍 4K • 💬 275 • ⏱️ 10:56 • 5d ago
+
+---
+
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
+
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
+
+📺 AI Revolution
+
+👁️ 107K • 👍 3K • 💬 494 • ⏱️ 13:32 • 5d ago
 
 ---
 
@@ -220,7 +220,7 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 67K • 👍 2K • 💬 557 • ⏱️ 20:21 • 2d ago
+👁️ 67K • 👍 2K • 💬 558 • ⏱️ 20:21 • 2d ago
 
 ---
 
@@ -230,27 +230,7 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 90K • 👍 4K • 💬 162 • ⏱️ 11:20 • 4d ago
-
----
-
-**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
-
-The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
-
-📺 1X
-
-👁️ 44K • 👍 2K • 💬 296 • ⏱️ 1:48 • 1d ago
-
----
-
-**[I Spent $100 On The Most Pay To Win Game. Here&#39;s What I Got... (War Robots)](https://www.youtube.com/watch?v=UWpLW0pLJdU)**
-
-Like and sui discord in bio #freetoplay #warrobots #gaming.
-
-📺 ElephantDogCat
-
-👁️ 18K • 👍 1K • 💬 125 • ⏱️ 12:35 • 22h ago
+👁️ 93K • 👍 4K • 💬 163 • ⏱️ 11:20 • 4d ago
 
 ---
 
@@ -264,13 +244,13 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 ---
 
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
 
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
 
-📺 Kalil 4.0
+📺 1X
 
-👁️ 6K • 👍 156 • 💬 33 • ⏱️ 10:42 • 3d ago
+👁️ 52K • 👍 2K • 💬 321 • ⏱️ 1:48 • 1d ago
 
 ---
 
@@ -280,17 +260,35 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 125 • 💬 9 • ⏱️ 1:06 • 16h ago
+👁️ 3K • 👍 142 • 💬 10 • ⏱️ 1:06 • 17h ago
 
 ---
 
-**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
 
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
 
-📺 Chris Norlund
+📺 Kalil 4.0
 
-👁️ 71K • 👍 4K • 💬 2K • ⏱️ 13:09 • 5d ago
+👁️ 6K • 👍 162 • 💬 33 • ⏱️ 10:42 • 3d ago
+
+---
+
+**[UBTECH U WORLD U1: Ultra-Bionic Humanoid Robots](https://www.youtube.com/watch?v=HVSA83KpQes)**
+
+Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the future of personal robotics has arrived!
+
+📺 Zoom Vantage
+
+👁️ 2K • 👍 59 • 💬 6 • ⏱️ 4:05 • 2d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=RGz7uWR7Apc)**
+
+📺 Borunte julie 
+
+👁️ 57K • 👍 324 • ⏱️ 0:17 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-10T19:00:58.345987+00:00'
+updated: '2026-07-10T20:49:43.554525+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 19:00 UTC  
+**Last Updated:** July 10, 2026 at 20:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,797.16
+### $1,793.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +0.1%  
-**30d:** +6.4%  
-**90d:** -18.6%  
-**1y:** -39.8%  
+**24h:** +2.6%  
+**7d:** +0.7%  
+**30d:** +7.1%  
+**90d:** -18.0%  
+**1y:** -39.4%  
 
 ---
 
@@ -84,7 +84,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[我现在开始学习和练习Web3还会太晚吗？如果不晚，一个完全的新手应该从哪些方面入手？](https://www.reddit.com/r/ethereum/comments/1ur3q21/我现在开始学习和练习web3还会太晚吗如果不晚一个完全的新手应该从哪些方面入手/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1d ago
 
 The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 1d ago
 
 **[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -186,7 +186,7 @@ MarketWatch • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 10h ago
 
 ---
 
@@ -194,7 +194,7 @@ Fortune • 8h ago
 
 Cambridge CCAF research shows 31% of Ethereum beacon node activity is US-based and clustered on AWS, Hetzner, and OVH, raising centralization concerns.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ Crypto Briefing • 2h ago
 
 MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -210,13 +210,13 @@ markets.businessinsider.com • 13h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
 **[Best Ethereum Staking Platforms in 2026](https://www.ccn.com/crypto-investing/exchanges/best-ethereum-staking-platforms/)**
 
-CCN.com • 3h ago
+CCN.com • 5h ago
 
 ---
 
@@ -224,23 +224,23 @@ CCN.com • 3h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Must Move Faster or Risk Losing Its Edge Says Starkware Founder](https://www.youtube.com/watch?v=gyjUGylfCgU)**
+
+On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ...
+
+📺 CoinDesk
+
+👁️ 466 • 👍 20 • 💬 24 • ⏱️ 22:55 • 5h ago
+
+---
+
 **[Tom Lee :&quot;Big Week for BTC &amp; ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=W2KCB17Lbao)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 212 • 💬 35 • ⏱️ 18:35 • 1d ago
-
----
-
-**[BITCOIN: I Was WRONG! (here&#39;s what&#39;s next) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=zV21wpvSl5k)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 4K • 👍 318 • 💬 126 • ⏱️ 15:45 • 7h ago
+👁️ 5K • 👍 217 • 💬 42 • ⏱️ 18:35 • 1d ago
 
 ---
 
@@ -250,17 +250,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 223 • 💬 38 • ⏱️ 13:21 • 2d ago
+👁️ 6K • 👍 226 • 💬 38 • ⏱️ 13:21 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=2mahFvs8RAA)**
+**[BITCOIN: I Was WRONG! (here&#39;s what&#39;s next) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=zV21wpvSl5k)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Crypto Gyan
+📺 BitcoinHyper
 
-👁️ 1K • 👍 92 • ⏱️ 7:04 • 16h ago
+👁️ 5K • 👍 344 • 💬 138 • ⏱️ 15:45 • 9h ago
 
 ---
 
@@ -270,7 +270,7 @@ This is my last video in this format. But I think its most important one. ------
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 1K • 💬 34 • ⏱️ 13:33 • 1d ago
+👁️ 13K • 👍 1K • 💬 43 • ⏱️ 13:33 • 1d ago
 
 ---
 
@@ -280,17 +280,27 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 17K • 👍 906 • 💬 215 • ⏱️ 21:46 • 2d ago
+👁️ 18K • 👍 910 • 💬 217 • ⏱️ 21:46 • 2d ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=e4Lr_PhjCA4)**
+**[Bitcoin &amp; Ethereum&#39;s Biggest Test Is Happening RIGHT NOW (Targets)](https://www.youtube.com/watch?v=BlmXuZRpzcQ)**
 
-BITCOIN LIQUIDATIONS PENDING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
 
-📺 Crypto World
+📺 Crypto Capital Venture
 
-👁️ 10K • 👍 329 • 💬 178 • ⏱️ 21:24 • 22h ago
+👁️ 9K • 👍 477 • 💬 144 • ⏱️ 16:41 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=2mahFvs8RAA)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 2K • 👍 94 • ⏱️ 7:04 • 18h ago
 
 ---
 
@@ -300,17 +310,7 @@ BlackRock just paid its first crypto staking paycheck, $351669.96, and it landed
 
 📺 Alexander Lorenzo
 
-👁️ 5K • 👍 470 • 💬 15 • ⏱️ 2:52 • 1d ago
-
----
-
-**[Bitcoin, Ethereum &amp; Solana Rally: What&#39;s Driving The Crypto Rally? | Top Crypto Headlines](https://www.youtube.com/watch?v=SD4zyZ62QTQ)**
-
-Bitcoin climbed close to the $64000 mark as fresh ETF inflows returned and institutional demand showed signs of strength.
-
-📺 NDTV Profit
-
-👁️ 411 • 👍 13 • 💬 1 • ⏱️ 3:55 • 12h ago
+👁️ 6K • 👍 491 • 💬 15 • ⏱️ 2:52 • 1d ago
 
 ---
 
@@ -320,7 +320,7 @@ Who knew that a dip in price could cause such a massive movement in crypto marke
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 705 • 💬 314 • ⏱️ 33:10 • 1d ago
+👁️ 6K • 👍 710 • 💬 314 • ⏱️ 33:10 • 1d ago
 
 ---
 

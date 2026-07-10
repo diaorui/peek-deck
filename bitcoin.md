@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-10T19:00:58.339946+00:00'
+updated: '2026-07-10T20:49:43.548510+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 19:00 UTC  
+**Last Updated:** July 10, 2026 at 20:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,939.43
+### $63,872.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +1.0%  
-**30d:** +0.3%  
-**90d:** -9.8%  
-**1y:** -45.7%  
+**24h:** +0.9%  
+**7d:** +1.1%  
+**30d:** +0.4%  
+**90d:** -9.7%  
+**1y:** -45.6%  
 
 ---
 
@@ -89,7 +89,7 @@ I keep replaying it in my head. I had chances to sell high last year and just...
 
 The sentiment at $120k was “we’re going to $250k.” The sentiment at $62k is “Bitcoin is dead.” Same asset. Keep Stacking!
 
-22h ago
+23h ago
 
 ---
 
@@ -105,7 +105,7 @@ Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
 Hi, 24M I would like to get some exposure to crypto and deciding whether to: - buy BTC through Coinbase/Kraken and transferring to cold wallet - buy BTC and leave in Coinbase/Kraken - buy a Bitcoin ETF like FBTC/IBIT Suppose a few things: - Intend to hold long term, think 20+ years - Do not really care about having “full ownership of the BTC”. I know people say “not your keys, not your coins” - Prefer to not have to physically own cold wallet, unless this form of exposure to crypto has the most likely chance of highest returns - if ETF, would be in brokerage and not tax advantaged account - Don’t need to buy on weekends or market after hours. Okay buying jsut during the week and DCA - Do not intend to do covered calls or anything like that - Assume Fidelity won’t go under in the next 20 years (I know it could) - I care about which has the most growth. Ultimately, I’m thinking about “is the juice worth the squeeze” for owning in cold wallet vs buying an ETF Would love for any advice you all may have
 
-23h ago
+1d ago
 
 ---
 
@@ -163,39 +163,33 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin (BTC) price forecast: Here's how high prices could bounce as MACD flips bullish](https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch)**
+**[Bitcoin's $60,000-$70,000 range becomes third most traded range in history](https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history)**
 
-Bitcoin’s longer-term MACD histogram has turned bullish. We break down what it means and the key levels to watch out for in the near-term.
+Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band.
 
-CoinDesk • 12h ago
-
----
-
-**[A 12-Year-Old Bitcoin Dispute Returns as BIP-110 Divides the Community](https://finance.yahoo.com/markets/crypto/articles/12-old-bitcoin-dispute-returns-175403308.html)**
-
-David Bailey revived Luke Dashjr's 2014 Gentoo blacklisting row to challenge his BIP-110 push over Bitcoin's future.
-
-Yahoo Finance • 1h ago
+CoinDesk • 11h ago
 
 ---
 
-**[New Hampshire killed its landmark $100 million bitcoin bond](https://ca.finance.yahoo.com/video/new-hampshire-killed-its-landmark-100-million-bitcoin-bond-173000761.html)**
+**[Bitcoin Rallies Toward $65,000 Level As Multiple Factors Drive Gains](https://www.forbes.com/sites/digital-assets/2026/07/10/bitcoin-rallies-toward-65000-level-as-multiple-factors-drive-gains/)**
 
-Scott Melker discusses how New Hampshire officials rejected the state's proposal for a bitcoin-backed (BTC-USD) state bond.
+Bitcoin prices rallied on Friday, July 10, approaching $65,000 as a range of factors contributed to the digital currency’s upward movement.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's crypto hub to find the latest crypto-related news.
-
-Yahoo! Finance Canada • 1h ago
+Forbes • 26m ago
 
 ---
 
-**[Strategy (MSTR) Sells 3,588 Bitcoin And Rewrites Its Treasury Playbook](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-sells-3-588-171326135.html)**
+**[Standard Chartered doubles down on Bitcoin target despite MicroStrategy selloff](https://sg.finance.yahoo.com/news/standard-chartered-doubles-down-bitcoin-192940521.html)**
 
-Strategy, listed as NasdaqGS:MSTR, sold 3,588 Bitcoins to fund preferred stock dividends and support liquidity. The company introduced a Bitcoin Monetization Program authorizing up to $1.25 billion in potential Bitcoin sales. This move marks a shift from a strict buy and hold Bitcoin approach to an active treasury management policy. Strategy enters this policy shift with its share price at $93.89 and a mixed return profile that includes a decline of 40.3% year to date and 77.7% over the...
+Standard Chartered is maintaining its end-2026 Bitcoin price forecast of $100,000. The recent weakness of the bank, driven by Strategy Inc. (NASDAQ: MSTR), reflects a failure to explain a strategic shift rather than any deterioration in the company's balance sheet. Geoffrey Kendrick, ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance Singapore • 1h ago
+
+---
+
+**[Bitcoin Volatility Cools Even as Fed Risk Lingers](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/even-as-fed-risk-lingers-bitcoin-volatility-cools/)**
+
+ETF Database • 2h ago
 
 ---
 
@@ -211,13 +205,21 @@ CoinDesk • 2d ago
 
 Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
 
-The Dispatch • 8h ago
+The Dispatch • 10h ago
 
 ---
 
-**[Bitcoin Drops After Trump Says U.S.-Iran Cease-Fire Is Over](https://www.barrons.com/articles/bitcoin-price-trump-iran-75458510)**
+**[Bitcoin muted at $62k as US-Iran conflict re-escalates](https://www.investing.com/news/cryptocurrency-news/bitcoin-nurses-losses-near-62k-as-usiran-conflict-reescalates-4782988)**
 
-Barron's • 2d ago
+Investing.com • 1d ago
+
+---
+
+**[Construction starts at Sparks Bitcoin manufacturing facility, expected to create 70 jobs](https://mynews4.com/news/local/construction-starts-at-sparks-bitcoin-manufacturing-facility-expected-to-create-70-jobs-warehouse-reno-nevada-northern-bitdeer-cryptocurrency)**
+
+Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
+
+KRXI2 • 1d ago
 
 ---
 
@@ -226,14 +228,6 @@ Barron's • 2d ago
 JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
 
 The Block • 1d ago
-
----
-
-**[Current price of Bitcoin for July 8, 2026](https://fortune.com/article/price-of-bitcoin-07-08-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2d ago
 
 ---
 
@@ -271,7 +265,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 1d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
+⬆️ 2 • 💬 1 • 2d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
 
 ---
 
@@ -279,7 +273,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -287,7 +281,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 5h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 6h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -309,7 +303,7 @@ It’s supposed to be a decentralized service, after all...
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 75 • 💬 36 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 78 • 💬 37 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -317,13 +311,13 @@ It’s supposed to be a decentralized service, after all...
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: This Is All Expected](https://www.youtube.com/watch?v=B_nKPblHHvY)**
+**[MONETARY BLOW-UP: Coinbase FIRES BACK at Jamie Dimon&#39;s crypto criticism](https://www.youtube.com/watch?v=PSXf8xhmRy8)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Into The Cryptoverse ...
+Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congress' latest push to pass the CLAIRTY Act, Jamie ...
 
-📺 Aaron Bennett
+📺 Fox Business
 
-👁️ 5K • 👍 266 • 💬 101 • ⏱️ 7:32 • 19h ago
+👁️ 30K • 👍 834 • 💬 247 • ⏱️ 12:46 • 5h ago
 
 ---
 
@@ -333,7 +327,17 @@ The biggest attacks on Bitcoin have often become its biggest strengths. The 2017
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 313 • ⏱️ 19:44 • 1d ago
+👁️ 26K • 👍 2K • 💬 323 • ⏱️ 19:44 • 1d ago
+
+---
+
+**[Bitcoin: This Is All Expected](https://www.youtube.com/watch?v=B_nKPblHHvY)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Into The Cryptoverse ...
+
+📺 Aaron Bennett
+
+👁️ 6K • 👍 271 • 💬 101 • ⏱️ 7:32 • 20h ago
 
 ---
 
@@ -343,17 +347,7 @@ Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bit
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 643 • 💬 65 • ⏱️ 18:07 • 1d ago
-
----
-
-**[Bitcoin&#39;s Next Buyer Is TRILLIONS Bigger Than Michael Saylor -  Matt Hougan](https://www.youtube.com/watch?v=otS9X8QkMuI)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 113 • 💬 9 • ⏱️ 15:58 • 1d ago
+👁️ 7K • 👍 669 • 💬 72 • ⏱️ 18:07 • 1d ago
 
 ---
 
@@ -363,57 +357,57 @@ As the deadline to get Clarity Act thru comes closer the attackers of bitcoin co
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 302 • 💬 28 • ⏱️ 1:29:30 • 1d ago
+👁️ 6K • 👍 305 • 💬 28 • ⏱️ 1:29:30 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
+**[Bitcoin&#39;s Next Buyer Is TRILLIONS Bigger Than Michael Saylor -  Matt Hougan](https://www.youtube.com/watch?v=otS9X8QkMuI)**
 
-Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Gareth Soloway
+📺 Savvy Finance
 
-👁️ 53K • 👍 3K • 💬 152 • ⏱️ 15:38 • 1d ago
-
----
-
-**[Institutional Buying Spree?📈Crypto Market Update](https://www.youtube.com/watch?v=9GjCSJpGPXM)**
-
-Ethics concerns from Senate Democrats remain the biggest obstacle for the upper chamber to pass a crypto market structure bill.
-
-📺 Paul Barron Network
-
-👁️ 47K • 👍 2K • 💬 138 • ⏱️ 20:00 • 23h ago
+👁️ 3K • 👍 117 • 💬 11 • ⏱️ 15:58 • 1d ago
 
 ---
 
-**[Bitcoin: It’s Coming (Journey To The Low)](https://www.youtube.com/watch?v=-sRO9fT42u8)**
+**[Bitcoin: Brief Window of Strength](https://www.youtube.com/watch?v=n9yTkx3r904)**
 
-WEEKLY REPORTS → https://link.tiainvestor.com/jyt-reports ➡ 18-YEAR CYCLE MINI-COURSE ...
+Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https://www.benjamincowen.com/conference Into The ...
 
-📺 Jason Pizzino
+📺 Benjamin Cowen
 
-👁️ 13K • 👍 845 • 💬 21 • ⏱️ 21:02 • 18h ago
-
----
-
-**[STOP Using These Seed Phrases! [Crypto Wallets Are Getting Hacked]](https://www.youtube.com/watch?v=r6BSCXd_meE)**
-
-Get Tangem (20% off): https://tangem.com/pricing/?promocode=CYBERSCRILLA&promocode=BLOOMX26 Tangem Wallet User ...
-
-📺 Cyber Scrilla
-
-👁️ 15K • 👍 690 • 💬 128 • ⏱️ 8:04 • 19h ago
+👁️ 77K • 👍 4K • 💬 182 • ⏱️ 11:24 • 2d ago
 
 ---
 
-**[Real Reason Behind This Bear Move and Where Bitcoin Goes Next](https://www.youtube.com/watch?v=tC4KJp8ci9s)**
+**[Will the Clarity Act Pass?](https://www.youtube.com/watch?v=zGFSACRQX08)**
 
-Lyn Alden breaks down the direct correlation between Bitcoin's recent consolidation and the massive capital drain into AI tech ...
+A new version of the CLARITY Act could arrive as soon as next week, but disagreements over ethics provisions leave crypto's ...
 
-📺 Natalie Brunell
+📺 CoinDesk
 
-👁️ 8K • 👍 105 • 💬 73 • ⏱️ 0:36 • 2d ago
+👁️ 349 • 👍 14 • 💬 23 • ⏱️ 2:08 • 3h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=sigSZCnSa6M)**
+
+Bitcoin has a way of making investors question everything during the most difficult parts of the cycle. In this video, we take a step ...
+
+📺 Benjamin Cowen
+
+👁️ 30K • 👍 3K • 💬 198 • ⏱️ 29:53 • 5h ago
+
+---
+
+**[Bitcoin About To Print Its First Bull Market Signal In 3 Years...](https://www.youtube.com/watch?v=zJIHEcOd88w)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+
+📺 Crypto Capital Venture
+
+👁️ 5K • 👍 412 • 💬 414 • ⏱️ 17:47 • 6h ago
 
 ---
 
