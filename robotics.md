@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T20:49:43.557704+00:00'
+updated: '2026-07-10T22:03:43.759170+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 20:49 UTC  
+**Last Updated:** July 10, 2026 at 22:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -146,7 +146,7 @@ Nature • 2d ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 5h ago
+New Atlas • 7h ago
 
 ---
 
@@ -154,7 +154,7 @@ New Atlas • 5h ago
 
 The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
 
-Fast Company • 10h ago
+Fast Company • 11h ago
 
 ---
 
@@ -162,7 +162,7 @@ Fast Company • 10h ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 3h ago
+mistral.ai • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 159K • 👍 4K • 💬 275 • ⏱️ 10:56 • 5d ago
+👁️ 159K • 👍 4K • 💬 275 • ⏱️ 10:56 • 6d ago
 
 ---
 
@@ -260,7 +260,7 @@ The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in phy
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 142 • 💬 10 • ⏱️ 1:06 • 17h ago
+👁️ 3K • 👍 142 • 💬 10 • ⏱️ 1:06 • 19h ago
 
 ---
 
@@ -270,7 +270,7 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 6K • 👍 162 • 💬 33 • ⏱️ 10:42 • 3d ago
+👁️ 6K • 👍 162 • 💬 33 • ⏱️ 10:42 • 4d ago
 
 ---
 

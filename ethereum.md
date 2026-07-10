@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-10T20:49:43.554525+00:00'
+updated: '2026-07-10T22:03:43.755950+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 20:49 UTC  
+**Last Updated:** July 10, 2026 at 22:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
+**24h:** +2.8%  
 **7d:** +0.7%  
 **30d:** +7.1%  
 **90d:** -18.0%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.18B
+**Market Cap:** $216.39B
 Rank #2
 
 **Circulating Supply:** 120,683,081 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-63.7%
 
 **All-Time Low:** $0.43
-+411712.1%
++414042.5%
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 1d ago
 
 **[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
 
-MarketWatch • 6h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -186,7 +186,7 @@ MarketWatch • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -194,7 +194,7 @@ Fortune • 10h ago
 
 Cambridge CCAF research shows 31% of Ethereum beacon node activity is US-based and clustered on AWS, Hetzner, and OVH, raising centralization concerns.
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -202,7 +202,7 @@ Crypto Briefing • 4h ago
 
 MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -210,13 +210,13 @@ markets.businessinsider.com • 15h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
 
-FXStreet • 16h ago
+FXStreet • 18h ago
 
 ---
 
 **[Best Ethereum Staking Platforms in 2026](https://www.ccn.com/crypto-investing/exchanges/best-ethereum-staking-platforms/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -230,7 +230,7 @@ On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennif
 
 📺 CoinDesk
 
-👁️ 466 • 👍 20 • 💬 24 • ⏱️ 22:55 • 5h ago
+👁️ 466 • 👍 20 • 💬 24 • ⏱️ 22:55 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 344 • 💬 138 • ⏱️ 15:45 • 9h ago
+👁️ 5K • 👍 344 • 💬 138 • ⏱️ 15:45 • 10h ago
 
 ---
 
@@ -300,7 +300,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 94 • ⏱️ 7:04 • 18h ago
+👁️ 2K • 👍 94 • ⏱️ 7:04 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-10T20:49:43.548510+00:00'
+updated: '2026-07-10T22:03:43.749833+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 20:49 UTC  
+**Last Updated:** July 10, 2026 at 22:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +1.1%  
-**30d:** +0.4%  
-**90d:** -9.7%  
-**1y:** -45.6%  
+**24h:** +1.2%  
+**7d:** +1.3%  
+**30d:** +0.7%  
+**90d:** -9.5%  
+**1y:** -45.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1278.42B
+**Market Cap:** $1282.68B
 Rank #1
 
-**Circulating Supply:** 20,054,543 BTC
+**Circulating Supply:** 20,054,603 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.3%
 
 **All-Time Low:** $67.81
-+93903.8%
++94228.3%
 
 ---
 
@@ -89,7 +89,7 @@ I keep replaying it in my head. I had chances to sell high last year and just...
 
 The sentiment at $120k was “we’re going to $250k.” The sentiment at $62k is “Bitcoin is dead.” Same asset. Keep Stacking!
 
-23h ago
+1d ago
 
 ---
 
@@ -163,55 +163,19 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin's $60,000-$70,000 range becomes third most traded range in history](https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history)**
+**[BTC, ETH price news: What next as bitcoin zips to nearly $64,000](https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains)**
 
-Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band.
+Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran.
 
-CoinDesk • 11h ago
-
----
-
-**[Bitcoin Rallies Toward $65,000 Level As Multiple Factors Drive Gains](https://www.forbes.com/sites/digital-assets/2026/07/10/bitcoin-rallies-toward-65000-level-as-multiple-factors-drive-gains/)**
-
-Bitcoin prices rallied on Friday, July 10, approaching $65,000 as a range of factors contributed to the digital currency’s upward movement.
-
-Forbes • 26m ago
+CoinDesk • 18h ago
 
 ---
 
-**[Standard Chartered doubles down on Bitcoin target despite MicroStrategy selloff](https://sg.finance.yahoo.com/news/standard-chartered-doubles-down-bitcoin-192940521.html)**
+**[Michael Saylor said ‘never sell your Bitcoin.’ Now his company, Strategy, can sell up to $1.25 billion if it needs cash](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-said-never-sell-121500423.html)**
 
-Standard Chartered is maintaining its end-2026 Bitcoin price forecast of $100,000. The recent weakness of the bank, driven by Strategy Inc. (NASDAQ: MSTR), reflects a failure to explain a strategic shift rather than any deterioration in the company's balance sheet. Geoffrey Kendrick, ...
+The move doesn’t mean Strategy is selling today, but it marks the first time the Bitcoin giant has formally laid out when and how it could cash in its holdings.
 
-Yahoo Finance Singapore • 1h ago
-
----
-
-**[Bitcoin Volatility Cools Even as Fed Risk Lingers](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/even-as-fed-risk-lingers-bitcoin-volatility-cools/)**
-
-ETF Database • 2h ago
-
----
-
-**[Bitcoin under pressure as Trump says Iran ceasefire is over](https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil)**
-
-Major cryptocurrencies are trading in the red as renewed U.S.-Iran airstrikes push oil higher.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin’s Slump Forces a Crypto Booster’s Retreat](https://thedispatch.com/newsletter/morning/bitcoins-slump-forces-a-crypto-boosters-retreat/)**
-
-Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
-
-The Dispatch • 10h ago
-
----
-
-**[Bitcoin muted at $62k as US-Iran conflict re-escalates](https://www.investing.com/news/cryptocurrency-news/bitcoin-nurses-losses-near-62k-as-usiran-conflict-reescalates-4782988)**
-
-Investing.com • 1d ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -228,6 +192,44 @@ KRXI2 • 1d ago
 JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
 
 The Block • 1d ago
+
+---
+
+**[MARA Stock Leads Digital Rally On Data Center Development Plans. Bitcoin Rises.](https://www.investors.com/news/mara-stock-power-land-deal-2gw-data-center-ai-bitcoin-price-terawulf-iren/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Bitcoin Rallies Toward $65,000 Level As Multiple Factors Drive Gains](https://www.forbes.com/sites/digital-assets/2026/07/10/bitcoin-rallies-toward-65000-level-as-multiple-factors-drive-gains/)**
+
+Bitcoin prices rallied on Friday, July 10, approaching $65,000 as a range of factors contributed to the digital currency’s upward movement.
+
+Forbes • 1h ago
+
+---
+
+**[Current price of Bitcoin for July 8, 2026](https://fortune.com/article/price-of-bitcoin-07-08-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2d ago
+
+---
+
+**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
+
+American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
+
+Honolulu Star-Advertiser • 4h ago
+
+---
+
+**[Michael Saylor’s recent Bitcoin sales are a worry for crypto investors](https://nypost.com/2026/07/10/business/michael-saylors-recent-bitcoin-sales-are-a-worry-for-crypto-investors/)**
+
+Is Saylor going to turn the current Bitcoin winter into the storm of the century for crypto?
+
+New York Post • 11h ago
 
 ---
 
@@ -273,7 +275,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -281,7 +283,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 6h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 8h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -297,13 +299,13 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 360 • 💬 254 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 361 • 💬 254 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 78 • 💬 37 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 80 • 💬 40 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -317,7 +319,7 @@ Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congres
 
 📺 Fox Business
 
-👁️ 30K • 👍 834 • 💬 247 • ⏱️ 12:46 • 5h ago
+👁️ 30K • 👍 834 • 💬 247 • ⏱️ 12:46 • 6h ago
 
 ---
 
@@ -337,7 +339,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 271 • 💬 101 • ⏱️ 7:32 • 20h ago
+👁️ 6K • 👍 271 • 💬 101 • ⏱️ 7:32 • 22h ago
 
 ---
 
@@ -387,7 +389,7 @@ A new version of the CLARITY Act could arrive as soon as next week, but disagree
 
 📺 CoinDesk
 
-👁️ 349 • 👍 14 • 💬 23 • ⏱️ 2:08 • 3h ago
+👁️ 349 • 👍 14 • 💬 23 • ⏱️ 2:08 • 4h ago
 
 ---
 
@@ -397,7 +399,7 @@ Bitcoin has a way of making investors question everything during the most diffic
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 3K • 💬 198 • ⏱️ 29:53 • 5h ago
+👁️ 30K • 👍 3K • 💬 198 • ⏱️ 29:53 • 6h ago
 
 ---
 
@@ -407,7 +409,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 412 • 💬 414 • ⏱️ 17:47 • 6h ago
+👁️ 5K • 👍 412 • 💬 414 • ⏱️ 17:47 • 7h ago
 
 ---
 
