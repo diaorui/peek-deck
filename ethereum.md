@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-10T12:25:46.012119+00:00'
+updated: '2026-07-10T15:12:11.639656+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 12:25 UTC  
+**Last Updated:** July 10, 2026 at 15:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** +1.1%  
-**30d:** +7.5%  
-**90d:** -17.7%  
-**1y:** -39.1%  
+**24h:** +2.9%  
+**7d:** +0.5%  
+**30d:** +6.8%  
+**90d:** -18.2%  
+**1y:** -39.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.19B
+**Market Cap:** $215.74B
 Rank #2
 
 **Circulating Supply:** 120,683,081 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.6%
+-63.9%
 
 **All-Time Low:** $0.43
-+415504.5%
++412765.3%
 
 ---
 
@@ -148,7 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 *Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
 
-ethereum.org • 20h ago
+ethereum.org • 23h ago
 
 ---
 
@@ -156,7 +156,37 @@ ethereum.org • 20h ago
 
 Tom Lee says Ethereum could become a $5 trillion network within the next few years. A $5 trillion market cap would imply an ETH price ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, July 10, 2026: Up nearly 3% since last Friday](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-10-2026-up-nearly-3-since-last-friday-130101171.html)**
+
+Bitcoin opened at $63,184.80 on Friday, July 10, 2026, up 1.5% from Thursday's opening price. Ethereum opened at $1,744.28 on Friday, July 10, 2026, up 0.1% from Thursday's opening price.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum must move faster or risk losing its edge says Starkware Founder](https://www.coindesk.com/video/ethereum-must-move-faster-or-risk-losing-its-edge-says-starkware-founder)**
+
+On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ambitious roadmap must move faster—or risk losing its first-mover advantage to newer, more modern blockchains. He also explains why quantum readiness has become an urgent priority and shares his vision for a durable, peer-to-peer financial system built on true economic freedom. | CoinDesk Videos
+
+CoinDesk • 34m ago
+
+---
+
+**[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
+
+MarketWatch • 1h ago
+
+---
+
+**[Ethereum Foundation says AI agents find real bugs, but most are false positives](https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives)**
+
+The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.
+
+The Block • 19h ago
 
 ---
 
@@ -164,21 +194,15 @@ Yahoo Finance • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 4h ago
 
 ---
 
-**[Bitcoin and Ethereum Rebound to Intermediate Resistances](https://www.investing.com/analysis/bitcoin-and-ethereum-rebound-to-intermediate-resistances-200683702)**
+**[New Crypto: BNB Based AlphaPepe Nears Tier-1 Exchange Debut While Ethereum Price Prediction Targets $4000](https://markets.businessinsider.com/news/stocks/new-crypto-bnb-based-alphapepe-nears-tier-1-exchange-debut-while-ethereum-price-prediction-targets-4000-1036313078)**
 
-Investing.com • 2h ago
+MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
----
-
-**[Ethereum's newest nonprofit wants to become Wall Street's guide to crypto](https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto)**
-
-In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
-
-CoinDesk • 21h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -190,35 +214,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[New Crypto: BNB Based AlphaPepe Nears Tier-1 Exchange Debut While Ethereum Price Prediction Targets $4000](https://markets.businessinsider.com/news/stocks/new-crypto-bnb-based-alphapepe-nears-tier-1-exchange-debut-while-ethereum-price-prediction-targets-4000-1036313078)**
+**[Bitcoin and Ethereum Rebound to Intermediate Resistances](https://www.investing.com/analysis/bitcoin-and-ethereum-rebound-to-intermediate-resistances-200683702)**
 
-MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
-
-markets.businessinsider.com • 7h ago
-
----
-
-**[Ethereum faces $87M short bet – Can ETH bulls defend $1,580?](https://ambcrypto.com/ethereum-faces-87m-short-bet-can-eth-bulls-defend-1580/)**
-
-Ethereum bulls face a crucial battle as a massive short position, Vitalik’s ETH transfer, and rising macro risks threaten key support.
-
-AMBCrypto • 14h ago
-
----
-
-**[Bitcoin slips below the cloud as Ethereum and Altcoins show relative strength](https://www.kitco.com/opinion/2026-07-09/bitcoin-slips-below-cloud-ethereum-and-altcoins-show-relative-strength)**
-
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin dropped below the daily TBO Cloud on Wednesday, which technically puts it back in strong bearish mode. But the move is not as simple as it looks. The daily TBO Slow line is flattening and OBV is gradually curling higher, both of which suggest the market may still be preparing for a bounce rather than a full breakdown.Bitcoin weakens, but the reversal setup is not deadBTC falling below the Cloud is a bearish headline, but the context matters. A flattening Slow line shows that the macro downtrend is losing pressure, while OBV’s gradual curl higher shows buyers are not completely gone. That means the chart is technically weaker, but still in a constructive transition zone if the next bounce develops quickly.Ethereum looks better than BitcoinETH is currently the stronger major chart. It pulled back to the Fast line, closing the recent TBO Close Short and creating a cleaner entry zone. OBV also looks much better on ETH than BTC, which supports the idea that Ethereum may lead if the broader crypto bounce starts to rotate back into risk.Dominance still points toward an altcoin bounceCombined stablecoin dominance moved up to tag the Fast line again. The working expectation is that RSI may tag or push slightly above historical support, confirm it as resistance, and then fall back down. If that happens, it should coincide with a bullish bounce for crypto. BTC dominance also fell below the Cloud again, which is good news for altcoins.TOTALES remains bearish, but reversal signs are buildingTOTALES closed red on Wednesday and is back in strong bearish mode. But the same constructive details remain: the Slow line is flattening and OBV’s white moving-average line is slowly curling upward. That keeps the total-market reversal thesis alive even while the chart still looks weak at the surface.Macro remains tense, but DXY is showing weaknessDXY is working on another TBT Bearish Divergence, which would be bullish for stocks and crypto if it confirms. The pressure point is still USDJPY, which pushed even higher toward TBO Resistance at 162.607. The Bank of Japan pressure remains difficult to ignore. Meanwhile, VIX wicked into the Cloud but closed back below it, and WTI bounced to the Fast line as tensions around Iran increased again.Altcoin entries are getting clearerSOL tagged the Fast line on Wednesday, closing the recent TBO Close Short and creating a cleaner entry opportunity. ADA also retraced to its Fast line, XMR closed its recent Close Short, XTZ closed two recent Close Shorts, and AERO, SPX6900, SYRUP, and FARTCOIN are bounce-watch names. The caution list is just as important: WLD lost long-term support, CC printed a second TBO Breakdown, and LAB dropped 79%, reminding traders not to chase every chart just because some entries are improving.The overall message is balanced. Bitcoin’s headline chart is weaker below the Cloud, but the internal reversal signs are still there. Ethereum looks stronger than Bitcoin. Dominance charts still point toward a possible altcoin bounce. Macro remains tense, but DXY divergence could help risk assets if confirmed. This is a selective market, not a blind chase market.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
-
-KITCO • 20h ago
-
----
-
-**[Tom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High](https://www.tradingview.com/news/stocktwits:d43f76402094b:0-tom-lee-flags-interesting-ethereum-levels-to-watch-with-altcoin-60-below-record-high/)**
-
-BitMine Immersion Technologies (BMNR) Chairman Tom Lee called new Ethereum chart read “interesting” on Thursday, suggesting Ethereum (ETH) may be forming a short-term bottom after months of weakness, though BMNR shares failed to follow the token higher.Lee shared a chart from former Bank of America…
-
-TradingView • 17h ago
+Investing.com • 5h ago
 
 ---
 
@@ -232,17 +230,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 200 • 💬 35 • ⏱️ 18:35 • 18h ago
+👁️ 4K • 👍 207 • 💬 35 • ⏱️ 18:35 • 21h ago
 
 ---
 
-**[Cardano&#39;s 120M ADA DeFi Bet, Ethereum UTXO Shift and EMURGO Exit](https://www.youtube.com/watch?v=KXt_OrtsHc4)**
+**[BITCOIN: I Was WRONG! (here&#39;s what&#39;s next) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=zV21wpvSl5k)**
 
-This week's Cardano news update covers AlphaGrowth's Cardano PRIME proposal going live on-chain, including the 120 million ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Learn Cardano
+📺 BitcoinHyper
 
-👁️ 333 • 👍 66 • 💬 7 • ⏱️ 19:29 • 1h ago
+👁️ 3K • 👍 279 • 💬 113 • ⏱️ 15:45 • 3h ago
 
 ---
 
@@ -252,67 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 213 • 💬 38 • ⏱️ 13:21 • 1d ago
-
----
-
-**[Tom Lee: Why Ethereum Will Make You Rich (You&#39;re Not Too Late)](https://www.youtube.com/watch?v=NR9pvNbOA6o)**
-
-Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Michaël van de Poppe to explain why he thinks ETH ...
-
-📺 New Era Finance Podcast
-
-👁️ 23K • 👍 664 • 💬 117 • ⏱️ 34:28 • 2d ago
-
----
-
-**[Bitcoin, Ethereum &amp; Solana Rally: What&#39;s Driving The Crypto Rally? | Top Crypto Headlines](https://www.youtube.com/watch?v=SD4zyZ62QTQ)**
-
-Bitcoin climbed close to the $64000 mark as fresh ETF inflows returned and institutional demand showed signs of strength.
-
-📺 NDTV Profit
-
-👁️ 222 • 👍 13 • 💬 1 • ⏱️ 3:55 • 5h ago
-
----
-
-**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=e4Lr_PhjCA4)**
-
-BITCOIN LIQUIDATIONS PENDING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 323 • 💬 227 • ⏱️ 21:24 • 15h ago
-
----
-
-**[🚨 BTC &amp; ETH: MY LAST YT VIDEO!!! BUT MOST IMPORTANT ONE!! YOU HAVE TO SEE THIS NOW!](https://www.youtube.com/watch?v=mzqA6MJSsGw)**
-
-This is my last video in this format. But I think its most important one. ---------- Join My FREE Trading Group & School: ...
-
-📺 Thomas Kralow
-
-👁️ 10K • 👍 1K • 💬 29 • ⏱️ 13:33 • 23h ago
-
----
-
-**[doesn&#39;t look like anything to me (Ethereum&#39;s C Word)](https://www.youtube.com/watch?v=e45W6FJfQks)**
-
-Doesn't Look like Anything to Me (Ethereum's C Word)
-
-📺 Charles Hoskinson
-
-👁️ 15K • 👍 2K • 💬 401 • ⏱️ 13:04 • 2d ago
-
----
-
-**[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
-
-In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
-
-📺 The Value Thinker
-
-👁️ 17K • 👍 899 • 💬 215 • ⏱️ 21:46 • 2d ago
+👁️ 6K • 👍 221 • 💬 38 • ⏱️ 13:21 • 1d ago
 
 ---
 
@@ -322,7 +260,67 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 85 • ⏱️ 7:04 • 9h ago
+👁️ 1K • 👍 90 • ⏱️ 7:04 • 12h ago
+
+---
+
+**[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
+
+In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
+
+📺 The Value Thinker
+
+👁️ 17K • 👍 902 • 💬 215 • ⏱️ 21:46 • 2d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=e4Lr_PhjCA4)**
+
+BITCOIN LIQUIDATIONS PENDING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 327 • 💬 215 • ⏱️ 21:24 • 18h ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Solana Rally: What&#39;s Driving The Crypto Rally? | Top Crypto Headlines](https://www.youtube.com/watch?v=SD4zyZ62QTQ)**
+
+Bitcoin climbed close to the $64000 mark as fresh ETF inflows returned and institutional demand showed signs of strength.
+
+📺 NDTV Profit
+
+👁️ 295 • 👍 13 • 💬 1 • ⏱️ 3:55 • 8h ago
+
+---
+
+**[Live Crypto &amp; Gold Psychological Trading 10 July ||  #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=etD6lCQUOgc)**
+
+TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+
+📺 Vibe With Sahil
+
+👁️ 791 • 👍 104 • 36m ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=xINX8jPEJLc)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 294 • 👍 43 • ⏱️ 7:13 • 2h ago
+
+---
+
+**[BlackRock Just Paid Its First Ethereum Paycheck Into Retirement Accounts](https://www.youtube.com/watch?v=Lm-Iw2EhLIs)**
+
+BlackRock just paid its first crypto staking paycheck, $351669.96, and it landed in ordinary brokerage accounts while nobody was ...
+
+📺 Alexander Lorenzo
+
+👁️ 5K • 👍 457 • 💬 15 • ⏱️ 2:52 • 22h ago
 
 ---
 

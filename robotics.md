@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T12:25:46.015441+00:00'
+updated: '2026-07-10T15:12:11.642976+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 12:25 UTC  
+**Last Updated:** July 10, 2026 at 15:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle-stop demo on my drone. it is easy to replicate. l will open-sourcing on GitHub soon.
 
-3d ago
+4d ago
 
 ---
 
@@ -68,7 +68,7 @@ Found this demo on their project page showing exactly the transparent-surface pr
 
 I see a lot of smaller parts are costlier than the usual sizes. Even for screws , it sometimes costs 2k rs. Why is this? Don't tell that it's because of the import duty.
 
-3d ago
+4d ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi, I have an interview with Neuralink for this fall for robotics software engin
 
 Boston Dynamics is developing Atlas using an AI-based system instead of relying on hard-coded behaviors. Aya Durbin describes a shift away from fixed, pre-programmed routines toward a robot that can operate in less controlled, real-world environments. For humanoid robots, this difference is important because demonstrations can be tightly scripted, while practical use requires dealing with variability, unexpected situations, and changing physical tasks. This outlines how Atlas is being developed as Boston Dynamics continues working on humanoid robotics.
 
-4d ago
+5d ago
 
 ---
 
@@ -106,7 +106,7 @@ Boston Dynamics is developing Atlas using an AI-based system instead of relying 
 
 Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is focused on repetitive warehouse and manufacturing tasks like moving totes, unloading AMRs, placing items on shelves, and connecting parts of existing automation systems. He says these are useful “in-between” automation roles where companies do not want to heavily modify infrastructure. The article covers Agility’s partnership with NVIDIA as the first partner for Halos for Robots, NVIDIA’s autonomous safety platform for robots, as well as Agility’s plan to go public through a merger with Churchill Capital Corp. XI, giving the company a $2.5 billion pre-money valuation and $620 million in expected gross proceeds.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 3d ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 4d ago
 
 ---
 
@@ -120,6 +120,22 @@ Reuters • 1d ago
 
 ---
 
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
+
+mistral.ai • 33m ago
+
+---
+
+**[Mistral joins rush to build physical AI](https://www.computerworld.com/article/4195636/mistral-joins-rush-to-build-physical-ai.html)**
+
+Its Robostral Navigate AI model needs input from just one color camera, doing without Lidar, depth sensors, or multiple viewpoints.
+
+Computerworld • 56m ago
+
+---
+
 **[This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)**
 
 General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
@@ -128,9 +144,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
+**[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
 
-Tech Xplore • 5m ago
+Preclinical trial is testing the feasibility of humanoid robots in surgery.
+
+Ars Technica • 19h ago
 
 ---
 
@@ -138,21 +156,15 @@ Tech Xplore • 5m ago
 
 For the first time, two teleoperated humanoid robots have been used to complete two surgeries during a preclinical trial, researchers report in the July 8 issue of the journal Nature.
 
-UC San Diego Today • 1d ago
+UC San Diego Today • 2d ago
 
 ---
 
-**[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
+**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
 
-Preclinical trial is testing the feasibility of humanoid robots in surgery.
+Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-Ars Technica • 16h ago
-
----
-
-**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
-
-Nature • 1d ago
+New Atlas • 9m ago
 
 ---
 
@@ -160,15 +172,7 @@ Nature • 1d ago
 
 “Restore mobility, restore dignity." With that mission, an incredible robotics company has its sights on global reach -- from a new home office in Sioux Falls.
 
-SiouxFalls.Business • 22h ago
-
----
-
-**[The first commercial human-like robot is here. Are replicants next?](https://www.fastcompany.com/91570086/ubtech-first-commercial-human-like-robot)**
-
-The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
-
-Fast Company • 2h ago
+SiouxFalls.Business • 1d ago
 
 ---
 
@@ -180,11 +184,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+**[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
 
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
-
-mistral.ai • 1d ago
+Tech Xplore • 2h ago
 
 ---
 
@@ -198,17 +200,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 155K • 👍 4K • 💬 268 • ⏱️ 10:56 • 5d ago
-
----
-
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 105K • 👍 3K • 💬 486 • ⏱️ 13:32 • 5d ago
+👁️ 156K • 👍 4K • 💬 272 • ⏱️ 10:56 • 5d ago
 
 ---
 
@@ -218,7 +210,17 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 66K • 👍 2K • 💬 553 • ⏱️ 20:21 • 2d ago
+👁️ 67K • 👍 2K • 💬 554 • ⏱️ 20:21 • 2d ago
+
+---
+
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
+
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
+
+📺 AI Revolution
+
+👁️ 106K • 👍 3K • 💬 487 • ⏱️ 13:32 • 5d ago
 
 ---
 
@@ -228,7 +230,17 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 86K • 👍 4K • 💬 160 • ⏱️ 11:20 • 4d ago
+👁️ 88K • 👍 4K • 💬 161 • ⏱️ 11:20 • 4d ago
+
+---
+
+**[Robot’s first day at call center ends in full kung fu meltdown office chaos on CCTV](https://www.youtube.com/watch?v=saSGzM_tVx8)**
+
+Jul 5, 2026 Security camera footage from an office in China captures a startling malfunction involving a Unitree humanoid robot ...
+
+📺 FOU News
+
+👁️ 1.2M • 👍 18K • 💬 2K • ⏱️ 0:22 • 4d ago
 
 ---
 
@@ -238,37 +250,17 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 103 • 💬 6 • ⏱️ 1:06 • 9h ago
+👁️ 2K • 👍 115 • 💬 9 • ⏱️ 1:06 • 12h ago
 
 ---
 
-**[UBTECH U WORLD U1: Ultra-Bionic Humanoid Robots](https://www.youtube.com/watch?v=HVSA83KpQes)**
+**[I Spent $100 On The Most Pay To Win Game. Here&#39;s What I Got... (War Robots)](https://www.youtube.com/watch?v=UWpLW0pLJdU)**
 
-Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the future of personal robotics has arrived!
+Like and sui discord in bio #freetoplay #warrobots #gaming.
 
-📺 Zoom Vantage
+📺 ElephantDogCat
 
-👁️ 2K • 👍 51 • 💬 6 • ⏱️ 4:05 • 1d ago
-
----
-
-**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
-
-The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
-
-📺 1X
-
-👁️ 37K • 👍 2K • 💬 271 • ⏱️ 1:48 • 20h ago
-
----
-
-**[Everyone’s Favourite Robot Got DOUBLE Buffed… Ao Jun Just Got Better | War Robots](https://www.youtube.com/watch?v=9v51MOjIwGY)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR The Ao Jun just got a buff on the live server. I really didnt ...
-
-📺 PREDATOR WR
-
-👁️ 9K • 👍 355 • 💬 49 • ⏱️ 13:11 • 1d ago
+👁️ 16K • 👍 1K • 💬 121 • ⏱️ 12:35 • 18h ago
 
 ---
 
@@ -278,17 +270,27 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 5K • 👍 140 • 💬 30 • ⏱️ 10:42 • 3d ago
+👁️ 6K • 👍 152 • 💬 31 • ⏱️ 10:42 • 3d ago
 
 ---
 
-**[NEO Robot Hands Are Almost Human Now](https://www.youtube.com/watch?v=Ov4EmwgFzOY)**
+**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
 
-Humanoid robots just took a massive leap forward. NEO's new 25 degree of freedom robotic hands can feel, adapt, and ...
+Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 DPCcars
+📺 Chris Norlund
 
-👁️ 678 • 👍 22 • 💬 2 • ⏱️ 2:46 • 19h ago
+👁️ 71K • 👍 4K • 💬 2K • ⏱️ 13:09 • 5d ago
+
+---
+
+**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
+
+The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
+
+📺 1X
+
+👁️ 41K • 👍 2K • 💬 280 • ⏱️ 1:48 • 22h ago
 
 ---
 

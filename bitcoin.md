@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-10T12:25:46.006039+00:00'
+updated: '2026-07-10T15:12:11.633478+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 12:25 UTC  
+**Last Updated:** July 10, 2026 at 15:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,342.39
+### $64,197.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** +2.0%  
-**30d:** +1.3%  
-**90d:** -8.9%  
-**1y:** -45.1%  
+**24h:** +2.1%  
+**7d:** +1.4%  
+**30d:** +0.6%  
+**90d:** -9.5%  
+**1y:** -45.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1291.55B
+**Market Cap:** $1283.45B
 Rank #1
 
-**Circulating Supply:** 20,054,393 BTC
+**Circulating Supply:** 20,054,421 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.9%
+-49.2%
 
 **All-Time Low:** $67.81
-+94869.8%
++94272.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I keep replaying it in my head. I had chances to sell high last year and just... didn't. Told myself I was in it for the long haul, that timing the top was a fool's game, all the usual HODL logic. And on one level I still believe that. But some nights I do the math on what I left on the table and it stings. I am still a Bitcoin maxi but I'm constantly thinking I could have doubled my BTC in a single year. For people who've been through a few of these cycles, how do you actually make peace with a decision that felt right at the time but looks wrong in the rearview mirror?
 
-19h ago
+22h ago
 
 ---
 
@@ -89,7 +89,7 @@ I keep replaying it in my head. I had chances to sell high last year and just...
 
 The sentiment at $120k was “we’re going to $250k.” The sentiment at $62k is “Bitcoin is dead.” Same asset. Keep Stacking!
 
-15h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ The sentiment at $120k was “we’re going to $250k.” The sentiment at $62k i
 
 Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
-20h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
 Hi, 24M I would like to get some exposure to crypto and deciding whether to: - buy BTC through Coinbase/Kraken and transferring to cold wallet - buy BTC and leave in Coinbase/Kraken - buy a Bitcoin ETF like FBTC/IBIT Suppose a few things: - Intend to hold long term, think 20+ years - Do not really care about having “full ownership of the BTC”. I know people say “not your keys, not your coins” - Prefer to not have to physically own cold wallet, unless this form of exposure to crypto has the most likely chance of highest returns - if ETF, would be in brokerage and not tax advantaged account - Don’t need to buy on weekends or market after hours. Okay buying jsut during the week and DCA - Do not intend to do covered calls or anything like that - Assume Fidelity won’t go under in the next 20 years (I know it could) - I care about which has the most growth. Ultimately, I’m thinking about “is the juice worth the squeeze” for owning in cold wallet vs buying an ETF Would love for any advice you all may have
 
-16h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hi, 24M I would like to get some exposure to crypto and deciding whether to: - b
 
 Keep stacking sats, especially with these low prices ofcourse.
 
-22h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Keep stacking sats, especially with these low prices ofcourse.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-21h ago
+1d ago
 
 ---
 
@@ -159,7 +159,29 @@ This took a lot of work and would love your feedback on what's missing, what can
 
 **[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
+
+---
+
+**[Bitcoin (BTC) price forecast: Here's how high prices could bounce as MACD flips bullish](https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch)**
+
+Bitcoin’s longer-term MACD histogram has turned bullish. We break down what it means and the key levels to watch out for in the near-term.
+
+CoinDesk • 8h ago
+
+---
+
+**[Eric Trump Says 'Stacking Continues' as American Bitcoin Amasses 8,000 BTC: 'We Continue to Differentiate Ourselves'](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-stacking-continues-123107733.html)**
+
+American Bitcoin Corp. co-founder Eric Trump celebrated on Tuesday after the company surpassed 8,000 Bitcoin in its corporate treasury holdings. ‘Onwards We Go’ Trump shared this in an X post, adding that the firm achieved a 52% mining profit margin...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin News: Bitcoin's $60,000-$70,000 Range Is Now the Third Longest Consolidation in History — 307 Days and Counting](https://www.binance.com/en/square/post/343229268130081)**
+
+Binance • 2h ago
 
 ---
 
@@ -167,37 +189,15 @@ Bloomberg.com • 1d ago
 
 JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
 
-The Block • 20h ago
+The Block • 23h ago
 
 ---
 
-**[Bitcoin jumps above $64k, heads for weekly rise on tech-led rally](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-64k-heads-for-weekly-rise-on-techled-rally-4785390)**
+**[Analyst names Bitcoin buyer that could be bigger than Saylor](https://au.finance.yahoo.com/news/analyst-names-bitcoin-buyer-could-174554586.html)**
 
-Investing.com • 5h ago
+Billionaire Michael Saylor-led Strategy (Nasdaq: MSTR) is the biggest buyer of Bitcoin (BTC) in the crypto market. This is why the company's recent sale of the cryptocurrency shocked the market as Saylor had repeatedly argued against selling Bitcoin ever. The company sold 32 Bitcoin for around $2.5 ...
 
----
-
-**[BTC, ETH price news: What next as bitcoin zips to nearly $64,000](https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains)**
-
-Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran.
-
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin’s Slump Forces a Crypto Booster’s Retreat](https://thedispatch.com/newsletter/morning/bitcoins-slump-forces-a-crypto-boosters-retreat/)**
-
-Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
-
-The Dispatch • 2h ago
-
----
-
-**[Strategy Just Sold $216 Million of Bitcoin to Pay Its Dividends. Is Its Business Breaking?](https://finance.yahoo.com/markets/crypto/articles/strategy-just-sold-216-million-101200617.html)**
-
-The flywheel that made Strategy a sensation has now turned the other direction.
-
-Yahoo Finance • 2h ago
+Yahoo Finance Australia • 21h ago
 
 ---
 
@@ -205,29 +205,29 @@ Yahoo Finance • 2h ago
 
 Is Saylor going to turn the current Bitcoin winter into the storm of the century for crypto?
 
-New York Post • 1h ago
+New York Post • 4h ago
 
 ---
 
-**[Premarket movers: Chip stocks fall, hyperscalers rise, bitcoin plays gain](https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-chip-stocks-surge-sk-hynix-trading-debut-us/card/premarket-movers-chip-stocks-fall-hyperscalers-rise-bitcoin-plays-gain-h6LS27Q9ch2RFU7d3Vx0?mod=mw_FV)**
+**['Communication challenge, nothing more': Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem](https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem)**
 
-MarketWatch • 1h ago
+Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one.
 
----
-
-**[Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks](https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks)**
-
-Redemption requests in the $2 trillion private credit market surged to $15.6 billion in the second quarter, dwarfing bitcoin ETF outflows.
-
-CoinDesk • 18h ago
+The Block • 2h ago
 
 ---
 
-**[Current price of Bitcoin for July 10, 2026](https://fortune.com/article/price-of-bitcoin-07-10-2026/)**
+**[Trump’s Son Wipes $600M From Family Fortune With Disastrous Bet](https://www.thedailybeast.com/eric-trump-wipes-600m-from-family-fortune-with-disastrous-american-bitcoin-bet/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Eric Trump posted a cringeworthy bid for his dad’s approval just hours before news of the staggering loss broke.
 
-Fortune • 1h ago
+The Daily Beast • 22h ago
+
+---
+
+**[MARA Stock Leads Digital Rally On Data Center Development Plans. Bitcoin Rises.](https://www.investors.com/news/mara-stock-power-land-deal-2gw-data-center-ai-bitcoin-price-terawulf-iren/)**
+
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -269,6 +269,22 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ---
 
+**[Pipe Bitcoin's mempool into Gource and watch blocks settle it live](https://news.ycombinator.com/item?id=48860722)**
+
+ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
+
+⬆️ 1 • 💬 0 • 26m ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+
+---
+
+**[Could Strategy's Potential Bitcoin Sale Reshape Market Sentiment?](https://news.ycombinator.com/item?id=48859909)**
+
+Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
+
+⬆️ 1 • 💬 0 • 1h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+
+---
+
 **[Show HN: Glyph a blockchain where the proof-of-work is neural network inference](https://news.ycombinator.com/item?id=48795126)**
 
 Contribute to raphaelwkago69-create/GLYPH development by creating an account on GitHub.
@@ -281,13 +297,13 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 356 • 💬 249 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 358 • 💬 251 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 25 • 💬 11 • 3d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 52 • 💬 22 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -295,7 +311,7 @@ It’s supposed to be a decentralized service, after all...
 
 Government agencies and academics both recently warned Telstra it was vulnerable to the type of error that caused this week's national outage.
 
-⬆️ 3 • 💬 0 • 9h ago • [abc.net.au](https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906)
+⬆️ 3 • 💬 0 • 11h ago • [abc.net.au](https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906)
 
 ---
 
@@ -303,13 +319,13 @@ Government agencies and academics both recently warned Telstra it was vulnerabl
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
+**[Bitcoin: This Is All Expected](https://www.youtube.com/watch?v=B_nKPblHHvY)**
 
-Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Into The Cryptoverse ...
 
-📺 Gareth Soloway
+📺 Aaron Bennett
 
-👁️ 50K • 👍 3K • 💬 180 • ⏱️ 15:38 • 19h ago
+👁️ 5K • 👍 257 • 💬 99 • ⏱️ 7:32 • 15h ago
 
 ---
 
@@ -319,7 +335,7 @@ Bitcoin sentiment is at the lowest level Lyn Alden says she has ever seen — ju
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 184 • ⏱️ 14:19 • 15h ago
+👁️ 20K • 👍 1K • 💬 204 • ⏱️ 14:19 • 18h ago
 
 ---
 
@@ -329,47 +345,7 @@ The biggest attacks on Bitcoin have often become its biggest strengths. The 2017
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 322 • ⏱️ 19:44 • 1d ago
-
----
-
-**[Bitcoin: This Is All Expected](https://www.youtube.com/watch?v=B_nKPblHHvY)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Into The Cryptoverse ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 242 • 💬 92 • ⏱️ 7:32 • 12h ago
-
----
-
-**[You Won&#39;t Believe What This NEW BATTLE Means For Bitcoin](https://www.youtube.com/watch?v=u0ENddawnrI)**
-
-Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bitcoin did something different. From Lyn Alden's ...
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 602 • 💬 55 • ⏱️ 18:07 • 23h ago
-
----
-
-**[Institutional Buying Spree?📈Crypto Market Update](https://www.youtube.com/watch?v=9GjCSJpGPXM)**
-
-Ethics concerns from Senate Democrats remain the biggest obstacle for the upper chamber to pass a crypto market structure bill.
-
-📺 Paul Barron Network
-
-👁️ 42K • 👍 2K • 💬 154 • ⏱️ 20:00 • 16h ago
-
----
-
-**[US Government INSIDER REVEALS Who is SECRETLY SABOTAGING Bitcoin?! | EP 1544](https://www.youtube.com/watch?v=1MOwr2QoimM)**
-
-As the deadline to get Clarity Act thru comes closer the attackers of bitcoin coordinate a desperate attack to slow their demise .
-
-📺 Simply Bitcoin
-
-👁️ 6K • 👍 289 • 💬 23 • ⏱️ 1:29:30 • 17h ago
+👁️ 26K • 👍 2K • 💬 309 • ⏱️ 19:44 • 1d ago
 
 ---
 
@@ -379,17 +355,47 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 100 • 💬 42 • ⏱️ 15:58 • 17h ago
+👁️ 3K • 👍 110 • 💬 10 • ⏱️ 15:58 • 20h ago
 
 ---
 
-**[Where did BITCOIN come from??](https://www.youtube.com/watch?v=h16OpJbINDQ)**
+**[You Won&#39;t Believe What This NEW BATTLE Means For Bitcoin](https://www.youtube.com/watch?v=u0ENddawnrI)**
 
-Smartnonsense.com.
+Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bitcoin did something different. From Lyn Alden's ...
 
-📺 Smart Nonsense
+📺 Simply Bitcoin
 
-👁️ 206K • 👍 16K • 💬 166 • ⏱️ 1:07 • 22h ago
+👁️ 7K • 👍 630 • 💬 65 • ⏱️ 18:07 • 1d ago
+
+---
+
+**[Institutional Buying Spree?📈Crypto Market Update](https://www.youtube.com/watch?v=9GjCSJpGPXM)**
+
+Ethics concerns from Senate Democrats remain the biggest obstacle for the upper chamber to pass a crypto market structure bill.
+
+📺 Paul Barron Network
+
+👁️ 45K • 👍 2K • 💬 130 • ⏱️ 20:00 • 19h ago
+
+---
+
+**[US Government INSIDER REVEALS Who is SECRETLY SABOTAGING Bitcoin?! | EP 1544](https://www.youtube.com/watch?v=1MOwr2QoimM)**
+
+As the deadline to get Clarity Act thru comes closer the attackers of bitcoin coordinate a desperate attack to slow their demise .
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 298 • 💬 24 • ⏱️ 1:29:30 • 20h ago
+
+---
+
+**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
+
+Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
+
+📺 Gareth Soloway
+
+👁️ 52K • 👍 3K • 💬 235 • ⏱️ 15:38 • 22h ago
 
 ---
 
@@ -399,7 +405,17 @@ Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https:
 
 📺 Benjamin Cowen
 
-👁️ 75K • 👍 4K • 💬 180 • ⏱️ 11:24 • 2d ago
+👁️ 76K • 👍 4K • 💬 182 • ⏱️ 11:24 • 2d ago
+
+---
+
+**[It&#39;s All Noise. Bitcoin Is The Opportunity (Don&#39;t Miss THIS).](https://www.youtube.com/watch?v=yUVUhDNdFM0)**
+
+ANOTHER peace deal is in tatters and of course there is a sell-off. BUT we must pay attention to SIGNL vs. NOISE when it comes ...
+
+📺 Digital Asset News
+
+👁️ 9K • 👍 556 • 💬 48 • ⏱️ 32:35 • 1d ago
 
 ---
 
