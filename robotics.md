@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T01:09:06.411203+00:00'
+updated: '2026-07-10T05:35:37.114199+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 01:09 UTC  
+**Last Updated:** July 10, 2026 at 05:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,11 +114,9 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 ## Google News: "robotics"
 
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
 
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
-
-mistral.ai • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -134,7 +132,7 @@ TechCrunch • 1d ago
 
 “Restore mobility, restore dignity." With that mission, an incredible robotics company has its sights on global reach -- from a new home office in Sioux Falls.
 
-SiouxFalls.Business • 11h ago
+SiouxFalls.Business • 16h ago
 
 ---
 
@@ -156,29 +154,23 @@ Nature • 1d ago
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
-Ars Technica • 4h ago
+Ars Technica • 9h ago
 
 ---
 
-**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
+**[BlackBerry Sees Strong Pipeline Across Robotics and Automation](https://finance.yahoo.com/technology/articles/blackberry-sees-strong-pipeline-across-121800442.html)**
 
-Reuters • 1d ago
+BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
 
----
-
-**[10 Jobs That Are Safe Because Robots Cost Too Much](https://www.forbes.com/sites/johnkoetsier/2026/07/07/10-jobs-that-are-safe-because-robots-cost-too-much/)**
-
-Maybe your job is safe from the robots just because you're cheap, and they're expensive. But maybe that won't last forever ...
-
-Forbes • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Meet Isaac 1, the $8,000 home robot that wants to take folding laundry off your to-do list](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
 
-The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-Business Insider • 16h ago
+mistral.ai • 1d ago
 
 ---
 
@@ -190,29 +182,17 @@ NVIDIA Blog • 2d ago
 
 ---
 
+**[Mitsubishi Motors to make humanoid robots for its own auto factories](https://asia.nikkei.com/business/technology/mitsubishi-motors-to-make-humanoid-robots-for-its-own-auto-factories)**
+
+Production to begin as early as 2027 in cooperation with Japanese startup
+
+Nikkei Asia • 14h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 103K • 👍 3K • 💬 486 • ⏱️ 13:32 • 5d ago
-
----
-
-**[Mitsubishi&#39;s Humanoid Robot for Factory Work #robotics #humanoidrobot #ai](https://www.youtube.com/watch?v=WHkkLea8ga4)**
-
-Mitsubishi just entered the humanoid robotics race. The Japanese automaker just announced a partnership with Highlanders, ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 50 • 💬 5 • ⏱️ 0:35 • 9h ago
-
----
 
 **[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
 
@@ -220,7 +200,27 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 148K • 👍 4K • 💬 258 • ⏱️ 10:56 • 5d ago
+👁️ 153K • 👍 4K • 💬 266 • ⏱️ 10:56 • 5d ago
+
+---
+
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
+
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
+
+📺 AI Revolution
+
+👁️ 104K • 👍 3K • 💬 486 • ⏱️ 13:32 • 5d ago
+
+---
+
+**[1X Tech Claims Most Advanced Humanoid Robot Hand in History #robot #robotics #humanoidrobot](https://www.youtube.com/watch?v=PfxY2Vd12D0)**
+
+1X Technologies says its robot hand is the "most advanced" in the history of everything. The Silicon Valley startup offered a ...
+
+📺 Kalil 4.0
+
+👁️ 649 • 👍 41 • 💬 2 • ⏱️ 1:06 • 2h ago
 
 ---
 
@@ -234,13 +234,23 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 ---
 
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 82K • 👍 4K • 💬 156 • ⏱️ 11:20 • 3d ago
+
+---
+
 **[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
 
 Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
 📺 Chris Norlund
 
-👁️ 71K • 👍 4K • 💬 2K • ⏱️ 13:09 • 4d ago
+👁️ 71K • 👍 4K • 💬 2K • ⏱️ 13:09 • 5d ago
 
 ---
 
@@ -250,7 +260,7 @@ Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the 
 
 📺 Zoom Vantage
 
-👁️ 1K • 👍 41 • 💬 5 • ⏱️ 4:05 • 1d ago
+👁️ 1K • 👍 45 • 💬 6 • ⏱️ 4:05 • 1d ago
 
 ---
 
@@ -258,27 +268,17 @@ Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the 
 
 📺 GUYMANITOR
 
-👁️ 22K • 👍 126 • 💬 4 • ⏱️ 0:17 • 5d ago
+👁️ 22K • 👍 130 • 💬 4 • ⏱️ 0:17 • 5d ago
 
 ---
 
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
 
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
 
-📺 Munro Live
+📺 Kalil 4.0
 
-👁️ 27K • 👍 1K • 💬 167 • ⏱️ 38:47 • 1d ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 79K • 👍 4K • 💬 155 • ⏱️ 11:20 • 3d ago
+👁️ 5K • 👍 119 • 💬 26 • ⏱️ 10:42 • 3d ago
 
 ---
 
@@ -288,7 +288,7 @@ Use My Link For The WR Store https://wr.my.games/PREDATORWR The Ao Jun just got 
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 301 • 💬 40 • ⏱️ 13:11 • 13h ago
+👁️ 8K • 👍 336 • 💬 45 • ⏱️ 13:11 • 17h ago
 
 ---
 
