@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T05:35:37.114199+00:00'
+updated: '2026-07-10T09:36:22.176344+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 05:35 UTC  
+**Last Updated:** July 10, 2026 at 09:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 Is there anyone who could help me regarding controlling multiple robstride o2 motor? What im trying to do is to control multiple Robstride o2 motors (preferably 3) with the default CAN to USB debugger it came with. Is it possible to control multiple motor with that?. I search around the internet for guides, says it'll work if i daisy chained the motor?. I tried wiring 2 motors , first i tried to wire it parallel and second i tried Daisy chain wiring. But it always result the same. Using robstride official software motorstudio it only detects and control 1 motor (the nearest motor to the CAN-USB debugger). And i know it's not a faulty motor or anything since if i only test 1 motor using the CAN-USB debugger . The motor still works (i can rotate it around and such) I tried using ai to solve this. And it still dont work. I mean i understand that ai can sometimes be bs. So if anyone here can help me, That would be really great, also sorry if this is a dumb question 🙏
 
-3d ago
+4d ago
 
 ---
 
@@ -128,11 +128,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Prosperous Robotics brings mobility technology company to USD Discovery District](https://siouxfalls.business/prosperous-robotics-brings-mobility-technology-company-to-usd-discovery-district/)**
+**[Robotics competition brings youthful future to innovation - China Daily](https://global.chinadaily.com.cn/a/202607/10/WS6a50a7c4a310986e2b464a2b.html)**
 
-“Restore mobility, restore dignity." With that mission, an incredible robotics company has its sights on global reach -- from a new home office in Sioux Falls.
+The 2026 International Teenager AI Robotics Innovation Challenge concluded this week in Beijing, bringing together nearly 400 young innovators from 21 countries.
 
-SiouxFalls.Business • 16h ago
+China Daily - Global Edition • 1h ago
 
 ---
 
@@ -154,7 +154,15 @@ Nature • 1d ago
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
-Ars Technica • 9h ago
+Ars Technica • 13h ago
+
+---
+
+**[Prosperous Robotics brings mobility technology company to USD Discovery District](https://siouxfalls.business/prosperous-robotics-brings-mobility-technology-company-to-usd-discovery-district/)**
+
+“Restore mobility, restore dignity." With that mission, an incredible robotics company has its sights on global reach -- from a new home office in Sioux Falls.
+
+SiouxFalls.Business • 20h ago
 
 ---
 
@@ -178,15 +186,7 @@ mistral.ai • 1d ago
 
 New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
 
-NVIDIA Blog • 2d ago
-
----
-
-**[Mitsubishi Motors to make humanoid robots for its own auto factories](https://asia.nikkei.com/business/technology/mitsubishi-motors-to-make-humanoid-robots-for-its-own-auto-factories)**
-
-Production to begin as early as 2027 in cooperation with Japanese startup
-
-Nikkei Asia • 14h ago
+NVIDIA Blog • 3d ago
 
 ---
 
@@ -194,33 +194,23 @@ Nikkei Asia • 14h ago
 
 ## YouTube Videos: "robotics"
 
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
-
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
-
-📺 Future Core
-
-👁️ 153K • 👍 4K • 💬 266 • ⏱️ 10:56 • 5d ago
-
----
-
 **[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
 China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
 
 📺 AI Revolution
 
-👁️ 104K • 👍 3K • 💬 486 • ⏱️ 13:32 • 5d ago
+👁️ 105K • 👍 3K • 💬 486 • ⏱️ 13:32 • 5d ago
 
 ---
 
-**[1X Tech Claims Most Advanced Humanoid Robot Hand in History #robot #robotics #humanoidrobot](https://www.youtube.com/watch?v=PfxY2Vd12D0)**
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
 
-1X Technologies says its robot hand is the "most advanced" in the history of everything. The Silicon Valley startup offered a ...
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
 
-📺 Kalil 4.0
+📺 Future Core
 
-👁️ 649 • 👍 41 • 💬 2 • ⏱️ 1:06 • 2h ago
+👁️ 155K • 👍 4K • 💬 268 • ⏱️ 10:56 • 5d ago
 
 ---
 
@@ -234,13 +224,41 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 ---
 
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+
+📺 China Observer
+
+👁️ 66K • 👍 2K • 💬 552 • ⏱️ 20:21 • 2d ago
+
+---
+
 **[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
 
 Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
 
 📺 Carl Bugeja
 
-👁️ 82K • 👍 4K • 💬 156 • ⏱️ 11:20 • 3d ago
+👁️ 85K • 👍 4K • 💬 158 • ⏱️ 11:20 • 4d ago
+
+---
+
+**[1X Tech Claims Most Advanced Humanoid Robot Hand in History #robot #robotics #humanoidrobot](https://www.youtube.com/watch?v=PfxY2Vd12D0)**
+
+1X Technologies says its robot hand is the "most advanced" in the history of everything. The Silicon Valley startup offered a ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 88 • 💬 4 • ⏱️ 1:06 • 6h ago
+
+---
+
+**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
+
+📺 GUYMANITOR
+
+👁️ 22K • 👍 133 • 💬 4 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -260,35 +278,17 @@ Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the 
 
 📺 Zoom Vantage
 
-👁️ 1K • 👍 45 • 💬 6 • ⏱️ 4:05 • 1d ago
+👁️ 2K • 👍 49 • 💬 6 • ⏱️ 4:05 • 1d ago
 
 ---
 
-**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
+**[Jensen Huang Told His AI Robot Grek to Sit | Nvidia #jensenhuang #nvidia #robot #ai #shorts #grok](https://www.youtube.com/watch?v=RCz40zwo0DQ)**
 
-📺 GUYMANITOR
+nvidia #jensenhuang #nvidiaceo #omniverse #ai #robot #artificialintelligence #tech #technews #shorts #youtubeshorts #airobot ...
 
-👁️ 22K • 👍 130 • 💬 4 • ⏱️ 0:17 • 5d ago
+📺 idea aur code
 
----
-
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 5K • 👍 119 • 💬 26 • ⏱️ 10:42 • 3d ago
-
----
-
-**[Everyone’s Favourite Robot Got DOUBLE Buffed… Ao Jun Just Got Better | War Robots](https://www.youtube.com/watch?v=9v51MOjIwGY)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR The Ao Jun just got a buff on the live server. I really didnt ...
-
-📺 PREDATOR WR
-
-👁️ 8K • 👍 336 • 💬 45 • ⏱️ 13:11 • 17h ago
+👁️ 32K • 👍 1K • 💬 48 • ⏱️ 0:58 • 5d ago
 
 ---
 

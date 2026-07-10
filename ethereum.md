@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-10T05:35:37.111310+00:00'
+updated: '2026-07-10T09:36:22.173750+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 05:35 UTC  
+**Last Updated:** July 10, 2026 at 09:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -0.1%  
-**30d:** +6.2%  
-**90d:** -18.7%  
-**1y:** -39.9%  
+**24h:** +2.6%  
+**7d:** +0.6%  
+**30d:** +7.0%  
+**90d:** -18.1%  
+**1y:** -39.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $214.12B
+**Market Cap:** $215.95B
 Rank #2
 
 **Circulating Supply:** 120,683,081 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.1%
+-63.8%
 
 **All-Time Low:** $0.43
-+409885.2%
++413204.1%
 
 ---
 
@@ -98,7 +98,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 **[USDC on eth to Arbitrum](https://www.reddit.com/r/ethereum/comments/1uqni8k/usdc_on_eth_to_arbitrum/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -148,7 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 *Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
 
-ethereum.org • 13h ago
+ethereum.org • 17h ago
 
 ---
 
@@ -156,15 +156,15 @@ ethereum.org • 13h ago
 
 Tom Lee says Ethereum could become a $5 trillion network within the next few years. A $5 trillion market cap would imply an ETH price ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Ethereum news: Robinhood chain hits $568M in trading frenzy, benefitting Arbitrum](https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy)**
+**[Ethereum's newest nonprofit wants to become Wall Street's guide to crypto](https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto)**
 
-The brokerage's new blockchain is off to a fast start, with memecoin trading boosting activity and revenue flowing back to the Arbitrum ecosystem.
+In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
 
-CoinDesk • 9h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Motley Fool • 1d ago
 
 MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
-markets.businessinsider.com • 11m ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -188,7 +188,7 @@ markets.businessinsider.com • 11m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 20h ago
 
 ---
 
@@ -196,7 +196,23 @@ Fortune • 15h ago
 
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin dropped below the daily TBO Cloud on Wednesday, which technically puts it back in strong bearish mode. But the move is not as simple as it looks. The daily TBO Slow line is flattening and OBV is gradually curling higher, both of which suggest the market may still be preparing for a bounce rather than a full breakdown.Bitcoin weakens, but the reversal setup is not deadBTC falling below the Cloud is a bearish headline, but the context matters. A flattening Slow line shows that the macro downtrend is losing pressure, while OBV’s gradual curl higher shows buyers are not completely gone. That means the chart is technically weaker, but still in a constructive transition zone if the next bounce develops quickly.Ethereum looks better than BitcoinETH is currently the stronger major chart. It pulled back to the Fast line, closing the recent TBO Close Short and creating a cleaner entry zone. OBV also looks much better on ETH than BTC, which supports the idea that Ethereum may lead if the broader crypto bounce starts to rotate back into risk.Dominance still points toward an altcoin bounceCombined stablecoin dominance moved up to tag the Fast line again. The working expectation is that RSI may tag or push slightly above historical support, confirm it as resistance, and then fall back down. If that happens, it should coincide with a bullish bounce for crypto. BTC dominance also fell below the Cloud again, which is good news for altcoins.TOTALES remains bearish, but reversal signs are buildingTOTALES closed red on Wednesday and is back in strong bearish mode. But the same constructive details remain: the Slow line is flattening and OBV’s white moving-average line is slowly curling upward. That keeps the total-market reversal thesis alive even while the chart still looks weak at the surface.Macro remains tense, but DXY is showing weaknessDXY is working on another TBT Bearish Divergence, which would be bullish for stocks and crypto if it confirms. The pressure point is still USDJPY, which pushed even higher toward TBO Resistance at 162.607. The Bank of Japan pressure remains difficult to ignore. Meanwhile, VIX wicked into the Cloud but closed back below it, and WTI bounced to the Fast line as tensions around Iran increased again.Altcoin entries are getting clearerSOL tagged the Fast line on Wednesday, closing the recent TBO Close Short and creating a cleaner entry opportunity. ADA also retraced to its Fast line, XMR closed its recent Close Short, XTZ closed two recent Close Shorts, and AERO, SPX6900, SYRUP, and FARTCOIN are bounce-watch names. The caution list is just as important: WLD lost long-term support, CC printed a second TBO Breakdown, and LAB dropped 79%, reminding traders not to chase every chart just because some entries are improving.The overall message is balanced. Bitcoin’s headline chart is weaker below the Cloud, but the internal reversal signs are still there. Ethereum looks stronger than Bitcoin. Dominance charts still point toward a possible altcoin bounce. Macro remains tense, but DXY divergence could help risk assets if confirmed. This is a selective market, not a blind chase market.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
 
-KITCO • 13h ago
+KITCO • 17h ago
+
+---
+
+**[Ethereum faces $87M short bet – Can ETH bulls defend $1,580?](https://ambcrypto.com/ethereum-faces-87m-short-bet-can-eth-bulls-defend-1580/)**
+
+Ethereum bulls face a crucial battle as a massive short position, Vitalik’s ETH transfer, and rising macro risks threaten key support.
+
+AMBCrypto • 11h ago
+
+---
+
+**[Tom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High](https://www.tradingview.com/news/stocktwits:d43f76402094b:0-tom-lee-flags-interesting-ethereum-levels-to-watch-with-altcoin-60-below-record-high/)**
+
+BitMine Immersion Technologies (BMNR) Chairman Tom Lee called new Ethereum chart read “interesting” on Thursday, suggesting Ethereum (ETH) may be forming a short-term bottom after months of weakness, though BMNR shares failed to follow the token higher.Lee shared a chart from former Bank of America…
+
+TradingView • 15h ago
 
 ---
 
@@ -205,20 +221,6 @@ KITCO • 13h ago
 Cryptocurrencies are broadly extending declines on Wednesday, after last week’s recovery. The sell-off has seen Bitcoin (BTC) slide below $62,000, increasing downside risks toward the next key support at $60,000.
 
 FXStreet • 1d ago
-
----
-
-**[Analysts flag 'most encouraging signals' for Bitcoin and Ethereum](https://www.thestreet.com/crypto/markets/analysts-flag-most-encouraging-signals-for-bitcoin-and-ethereum)**
-
-thestreet.com • 14h ago
-
----
-
-**[Cardano Founder Slams Ethereum Devs for Copying Its ‘Biggest Innovation’](https://www.tipranks.com/news/cardano-founder-slams-ethereum-devs-for-copying-its-biggest-innovation)**
-
-Cardano (ADA-USD) founder Charles Hoskinson publicly accused Ethereum (ETH-USD) developers of secretly stealing Cardano network’s biggest technology design. The con...
-
-TipRanks • 1d ago
 
 ---
 
@@ -232,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 180 • 💬 25 • ⏱️ 18:35 • 11h ago
+👁️ 4K • 👍 193 • 💬 35 • ⏱️ 18:35 • 15h ago
 
 ---
 
@@ -242,17 +244,7 @@ This is my last video in this format. But I think its most important one. ------
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 343 • 💬 26 • ⏱️ 13:33 • 16h ago
-
----
-
-**[Crypto Market U-Turn We Just Got Some Shocking Bitcoin &amp; Ethereum News And You&#39;re Going To Love It](https://www.youtube.com/watch?v=A6LgEWNcO0k)**
-
-Who knew that a dip in price could cause such a massive movement in crypto market sentiment? Bitcoin and Ethereum are once ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 687 • 💬 250 • ⏱️ 33:10 • 19h ago
+👁️ 9K • 👍 1K • 💬 27 • ⏱️ 13:33 • 20h ago
 
 ---
 
@@ -262,17 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 204 • 💬 38 • ⏱️ 13:21 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=2mahFvs8RAA)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 391 • 👍 57 • ⏱️ 7:04 • 2h ago
+👁️ 6K • 👍 209 • 💬 38 • ⏱️ 13:21 • 1d ago
 
 ---
 
@@ -282,17 +264,27 @@ Is Ethereum the most undervalued asset in crypto right now? Tom Lee joins Micha�
 
 📺 New Era Finance Podcast
 
-👁️ 22K • 👍 640 • 💬 114 • ⏱️ 34:28 • 2d ago
+👁️ 23K • 👍 657 • 💬 114 • ⏱️ 34:28 • 2d ago
 
 ---
 
-**[BITCOIN: 90% Chance This Is a Trap! (watch out) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=9od6eluXqNU)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=2mahFvs8RAA)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 BitcoinHyper
+📺 Crypto Gyan
 
-👁️ 5K • 👍 396 • 💬 25 • ⏱️ 15:15 • 17h ago
+👁️ 849 • 👍 78 • ⏱️ 7:04 • 6h ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Solana Rally: What&#39;s Driving The Crypto Rally? | Top Crypto Headlines](https://www.youtube.com/watch?v=SD4zyZ62QTQ)**
+
+Bitcoin climbed close to the $64000 mark as fresh ETF inflows returned and institutional demand showed signs of strength.
+
+📺 NDTV Profit
+
+👁️ 148 • 👍 11 • 💬 1 • ⏱️ 3:55 • 3h ago
 
 ---
 
@@ -302,7 +294,7 @@ BITCOIN LIQUIDATIONS PENDING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 284 • 💬 163 • ⏱️ 21:24 • 8h ago
+👁️ 8K • 👍 312 • 💬 188 • ⏱️ 21:24 • 12h ago
 
 ---
 
@@ -312,7 +304,17 @@ Doesn't Look like Anything to Me (Ethereum's C Word)
 
 📺 Charles Hoskinson
 
-👁️ 15K • 👍 2K • 💬 397 • ⏱️ 13:04 • 2d ago
+👁️ 15K • 👍 2K • 💬 398 • ⏱️ 13:04 • 2d ago
+
+---
+
+**[Crypto Market U-Turn We Just Got Some Shocking Bitcoin &amp; Ethereum News And You&#39;re Going To Love It](https://www.youtube.com/watch?v=A6LgEWNcO0k)**
+
+Who knew that a dip in price could cause such a massive movement in crypto market sentiment? Bitcoin and Ethereum are once ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 698 • 💬 273 • ⏱️ 33:10 • 23h ago
 
 ---
 
@@ -322,7 +324,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 17K • 👍 894 • 💬 215 • ⏱️ 21:46 • 2d ago
+👁️ 17K • 👍 897 • 💬 215 • ⏱️ 21:46 • 2d ago
 
 ---
 

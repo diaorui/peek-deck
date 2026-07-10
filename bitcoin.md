@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-10T05:35:37.105718+00:00'
+updated: '2026-07-10T09:36:22.169453+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 05:35 UTC  
+**Last Updated:** July 10, 2026 at 09:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,099.70
+### $64,356.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +1.5%  
-**30d:** +0.8%  
-**90d:** -9.4%  
-**1y:** -45.4%  
+**24h:** +2.7%  
+**7d:** +2.0%  
+**30d:** +1.3%  
+**90d:** -8.9%  
+**1y:** -45.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1282.49B
+**Market Cap:** $1291.45B
 Rank #1
 
-**Circulating Supply:** 20,054,309 BTC
+**Circulating Supply:** 20,054,371 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-48.9%
 
 **All-Time Low:** $67.81
-+94250.4%
++94866.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I keep replaying it in my head. I had chances to sell high last year and just... didn't. Told myself I was in it for the long haul, that timing the top was a fool's game, all the usual HODL logic. And on one level I still believe that. But some nights I do the math on what I left on the table and it stings. I am still a Bitcoin maxi but I'm constantly thinking I could have doubled my BTC in a single year. For people who've been through a few of these cycles, how do you actually make peace with a decision that felt right at the time but looks wrong in the rearview mirror?
 
-12h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ I keep replaying it in my head. I had chances to sell high last year and just...
 
 The sentiment at $120k was “we’re going to $250k.” The sentiment at $62k is “Bitcoin is dead.” Same asset. Keep Stacking!
 
-8h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ The sentiment at $120k was “we’re going to $250k.” The sentiment at $62k i
 
 Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
-13h ago
+17h ago
 
 ---
 
@@ -105,7 +105,7 @@ Haven't been this happy in awhile to keep stacking sats and filling my bag.
 
 Hi, 24M I would like to get some exposure to crypto and deciding whether to: - buy BTC through Coinbase/Kraken and transferring to cold wallet - buy BTC and leave in Coinbase/Kraken - buy a Bitcoin ETF like FBTC/IBIT Suppose a few things: - Intend to hold long term, think 20+ years - Do not really care about having “full ownership of the BTC”. I know people say “not your keys, not your coins” - Prefer to not have to physically own cold wallet, unless this form of exposure to crypto has the most likely chance of highest returns - if ETF, would be in brokerage and not tax advantaged account - Don’t need to buy on weekends or market after hours. Okay buying jsut during the week and DCA - Do not intend to do covered calls or anything like that - Assume Fidelity won’t go under in the next 20 years (I know it could) - I care about which has the most growth. Ultimately, I’m thinking about “is the juice worth the squeeze” for owning in cold wallet vs buying an ETF Would love for any advice you all may have
 
-9h ago
+13h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hi, 24M I would like to get some exposure to crypto and deciding whether to: - b
 
 Keep stacking sats, especially with these low prices ofcourse.
 
-15h ago
+19h ago
 
 ---
 
@@ -121,7 +121,7 @@ Keep stacking sats, especially with these low prices ofcourse.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+18h ago
 
 ---
 
@@ -129,7 +129,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Just curious what price you were hoping for
 
-21h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ Just curious what price you were hoping for
 
 This took a lot of work and would love your feedback on what's missing, what can be added/removed! https://newhedge.io/buy
 
-17h ago
+21h ago
 
 ---
 
@@ -159,7 +159,7 @@ This took a lot of work and would love your feedback on what's missing, what can
 
 **[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -167,55 +167,15 @@ Bloomberg.com • 19h ago
 
 At its last stage for government approval, the state's executive council rejected the bond project 3-2.
 
-CoinDesk • 7h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Crypto Market Overview: Bitcoin recovers on easing US-Iran tensions – DeXe, Arbitrum rally](https://www.mitrade.com/au/insights/news/live-news/article-3-1890010-20260710)**
+**[Google-backed ex-Bitcoin miner reveals $3.5 billion debt raise](https://finance.yahoo.com/technology/ai/articles/google-backed-ex-bitcoin-miner-000000996.html)**
 
-Bitcoin (BTC) price rises above $63,000 at press time on Friday, extending its recovery as tensions between the US and Iran ease following missile strikes earlier this week. DeXe (DEXE) and Arbitrum (ARB) are leading gains over the last 24 hours as the broader market risk-off sentiment eases.
-
-Mitrade • 1h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC gears up for a breakout, ETH tests key EMA, XRP holds support](https://www.mitrade.com/au/insights/news/live-news/article-3-1890044-20260710)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
-
-Mitrade • 1h ago
-
----
-
-**[American Bitcoin Plunges 95% as AI-Focused Rivals Pull Ahead](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-plunges-95-ai-174413921.html)**
-
-The Bitcoin miner stayed focused on crypto while competitors expanded into AI data centers and outperformed.
-
-Yahoo Finance • 11h ago
-
----
-
-**[JPMorgan says bitcoin's main risk isn't Strategy, but blockchain adoption that doesn't benefit public chains and tokens](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto)**
-
-JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
-
-The Block • 13h ago
-
----
-
-**[Over 15 Banks Race to Tokenize Finance, and It Could Affect Bitcoin](https://finance.yahoo.com/markets/crypto/articles/over-15-banks-race-tokenize-195209619.html)**
-
-Banks are racing to tokenize finance on private blockchains, and JPMorgan says the trend could sideline Bitcoin over time.
+A former Bitcoin miner is about to make its biggest debt raise yet and the money is going straight into artificial intelligence. TeraWulf Inc. (NASDAQ: WULF) is preparing to raise approximately $3.5 billion in debt to build a new data center campus in Kentucky, Bloomberg reported on Thursday, ...
 
 Yahoo Finance • 9h ago
-
----
-
-**[JPMorgan Says The Real Threat To Bitcoin Isn't Strategy (MSTR) — It's Private Blockchains](https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin)**
-
-JPMorgan says Strategy's Bitcoin sales are a short-term concern, but the bigger long-term risk is that banks and institutions adopt private blockchains over public networks, reducing activity and capital flows across the broader crypto ecosystem.
-
-Bitcoin Magazine • 9h ago
 
 ---
 
@@ -227,11 +187,51 @@ The Motley Fool • 1d ago
 
 ---
 
+**[JPMorgan says bitcoin's main risk isn't Strategy, but blockchain adoption that doesn't benefit public chains and tokens](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto)**
+
+JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
+
+The Block • 17h ago
+
+---
+
+**[Over 15 Banks Race to Tokenize Finance, and It Could Affect Bitcoin](https://finance.yahoo.com/markets/crypto/articles/over-15-banks-race-tokenize-195209619.html)**
+
+Banks are racing to tokenize finance on private blockchains, and JPMorgan says the trend could sideline Bitcoin over time.
+
+Yahoo Finance • 13h ago
+
+---
+
+**[JPMorgan Says The Real Threat To Bitcoin Isn't Strategy (MSTR) — It's Private Blockchains](https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin)**
+
+JPMorgan says Strategy's Bitcoin sales are a short-term concern, but the bigger long-term risk is that banks and institutions adopt private blockchains over public networks, reducing activity and capital flows across the broader crypto ecosystem.
+
+Bitcoin Magazine • 13h ago
+
+---
+
 **[Construction starts at Sparks Bitcoin manufacturing facility, expected to create 70 jobs](https://mynews4.com/news/local/construction-starts-at-sparks-bitcoin-manufacturing-facility-expected-to-create-70-jobs-warehouse-reno-nevada-northern-bitdeer-cryptocurrency)**
 
 Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
 
 KRXI2 • 1d ago
+
+---
+
+**[The never-sell-Bitcoin company just sold Bitcoin](https://www.morningbrew.com/stories/the-never-sell-bitcoin-company-just-sold-bitcoin)**
+
+Strategy sold $216 million worth of Bitcoin at a loss to pay back investors.
+
+Morning Brew • 2d ago
+
+---
+
+**[MARA Stock Pops as Bitcoin Miner Agrees to Acquire Massive Powered Texas Land Plot](https://finance.yahoo.com/markets/crypto/articles/mara-stock-pops-bitcoin-miner-154431490.html)**
+
+MARA Holdings has agreed to purchase a sizable plot of land in Texas to power its Bitcoin mining and growing AI compute ambitions.
+
+Yahoo Finance • 17h ago
 
 ---
 
@@ -285,7 +285,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 348 • 💬 245 • 21h ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 354 • 💬 247 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
@@ -293,7 +293,7 @@ It’s supposed to be a decentralized service, after all...
 
 Government agencies and academics both recently warned Telstra it was vulnerable to the type of error that caused this week's national outage.
 
-⬆️ 2 • 💬 0 • 2h ago • [abc.net.au](https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906)
+⬆️ 2 • 💬 0 • 6h ago • [abc.net.au](https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906)
 
 ---
 
@@ -301,43 +301,13 @@ Government agencies and academics both recently warned Telstra it was vulnerabl
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
+**[The Worst Bitcoin Sentiment in History Just Collided With the Fed&#39;s Biggest Lie!](https://www.youtube.com/watch?v=-cI0Uw5JYeU)**
 
-Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
+Bitcoin sentiment is at the lowest level Lyn Alden says she has ever seen — just as Kevin Warsh's Fed appears to be preparing a ...
 
-📺 Gareth Soloway
+📺 Simply Bitcoin
 
-👁️ 43K • 👍 3K • 💬 159 • ⏱️ 15:38 • 13h ago
-
----
-
-**[Where did BITCOIN come from??](https://www.youtube.com/watch?v=h16OpJbINDQ)**
-
-Smartnonsense.com.
-
-📺 Smart Nonsense
-
-👁️ 166K • 👍 14K • 💬 144 • ⏱️ 1:07 • 15h ago
-
----
-
-**[Bitcoin: Brief Window of Strength](https://www.youtube.com/watch?v=n9yTkx3r904)**
-
-Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 73K • 👍 4K • 💬 176 • ⏱️ 11:24 • 1d ago
-
----
-
-**[Real Reason Behind This Bear Move and Where Bitcoin Goes Next](https://www.youtube.com/watch?v=tC4KJp8ci9s)**
-
-Lyn Alden breaks down the direct correlation between Bitcoin's recent consolidation and the massive capital drain into AI tech ...
-
-📺 Natalie Brunell
-
-👁️ 7K • 👍 99 • 💬 76 • ⏱️ 0:36 • 1d ago
+👁️ 17K • 👍 1K • 💬 168 • ⏱️ 14:19 • 12h ago
 
 ---
 
@@ -347,57 +317,87 @@ The biggest attacks on Bitcoin have often become its biggest strengths. The 2017
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 298 • ⏱️ 19:44 • 1d ago
+👁️ 25K • 👍 2K • 💬 316 • ⏱️ 19:44 • 1d ago
 
 ---
 
-**[The Worst Bitcoin Sentiment in History Just Collided With the Fed&#39;s Biggest Lie!](https://www.youtube.com/watch?v=-cI0Uw5JYeU)**
+**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
 
-Bitcoin sentiment is at the lowest level Lyn Alden says she has ever seen — just as Kevin Warsh's Fed appears to be preparing a ...
+Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
+
+📺 Gareth Soloway
+
+👁️ 48K • 👍 3K • 💬 144 • ⏱️ 15:38 • 17h ago
+
+---
+
+**[You Won&#39;t Believe What This NEW BATTLE Means For Bitcoin](https://www.youtube.com/watch?v=u0ENddawnrI)**
+
+Iran headlines rattled global markets, oil surged, and risk assets stumbled. Bitcoin did something different. From Lyn Alden's ...
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 147 • ⏱️ 14:19 • 8h ago
+👁️ 6K • 👍 584 • 💬 55 • ⏱️ 18:07 • 20h ago
 
 ---
 
-**[The Crypto Market Is About To Go F**king Crazy (30 Day Warning)](https://www.youtube.com/watch?v=XZuRZbLYy4A)**
+**[Bitcoin&#39;s Next Buyer Is TRILLIONS Bigger Than Michael Saylor -  Matt Hougan](https://www.youtube.com/watch?v=otS9X8QkMuI)**
 
-The Crypto Market Is About To Go F**king Crazy (30 Day Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Altcoin Daily
+📺 Savvy Finance
 
-👁️ 39K • 👍 2K • 💬 101 • ⏱️ 9:12 • 2d ago
+👁️ 2K • 👍 96 • 💬 8 • ⏱️ 15:58 • 14h ago
 
 ---
 
-**[Bitcoin Deja Vu](https://www.youtube.com/watch?v=rxekpAAHwRs)**
+**[US Government INSIDER REVEALS Who is SECRETLY SABOTAGING Bitcoin?! | EP 1544](https://www.youtube.com/watch?v=1MOwr2QoimM)**
 
-Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com For inquiries and to subscribe to the ...
+As the deadline to get Clarity Act thru comes closer the attackers of bitcoin coordinate a desperate attack to slow their demise .
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 288 • 💬 21 • ⏱️ 1:29:30 • 14h ago
+
+---
+
+**[Bitcoin: Brief Window of Strength](https://www.youtube.com/watch?v=n9yTkx3r904)**
+
+Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https://www.benjamincowen.com/conference Into The ...
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 563 • 💬 14 • ⏱️ 0:29 • 2d ago
+👁️ 74K • 👍 4K • 💬 176 • ⏱️ 11:24 • 1d ago
 
 ---
 
-**[MSTR Sells Bitcoin to Fund Dividend | True North Podcast | Ep. 73](https://www.youtube.com/watch?v=X_yqpcpXZ6c)**
+**[Real Reason Behind This Bear Move and Where Bitcoin Goes Next](https://www.youtube.com/watch?v=tC4KJp8ci9s)**
 
-As of this recording, 7/8/26, Strategy's (MSTR) performance: * Open: $93.68 * Close: $93.87 * Volume: ~ 17.1M Shares * mNAV: ...
+Lyn Alden breaks down the direct correlation between Bitcoin's recent consolidation and the massive capital drain into AI tech ...
 
-📺 True North
+📺 Natalie Brunell
 
-👁️ 7K • 👍 312 • 💬 58 • ⏱️ 59:18 • 1d ago
+👁️ 8K • 👍 102 • 💬 73 • ⏱️ 0:36 • 1d ago
 
 ---
 
-**[The Bitcoin 4-Year Cycle Isn&#39;t Over Yet](https://www.youtube.com/watch?v=Z2JL6sab7xM)**
+**[IT’S RIGGED! Buckle Up Bitcoin &amp; Crypto Holders (top coins)](https://www.youtube.com/watch?v=4BA2AinLLhA)**
 
-Join The Hard Money Room → https://www.skool.com/the-hard-money-room Support the channel. Become a member ...
+Trade $10 get $10 - http://kalshi.com/r/altcoin Follow Altcoin Daily on X: https://x.com/AltcoinDaily A segment of today's video is ...
 
-📺 Joe Consorti
+📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 227 • ⏱️ 16:25 • 2d ago
+👁️ 45K • 👍 3K • 💬 202 • ⏱️ 9:50 • 1d ago
+
+---
+
+**[Bitcoin May Have Found Its Bottom](https://www.youtube.com/watch?v=tRcSniugUyU)**
+
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 750 • 💬 215 • ⏱️ 43:22 • 18h ago
 
 ---
 
