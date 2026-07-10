@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T09:36:22.176344+00:00'
+updated: '2026-07-10T12:25:46.015441+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 09:36 UTC  
+**Last Updated:** July 10, 2026 at 12:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -128,11 +128,9 @@ TechCrunch • 1d ago
 
 ---
 
-**[Robotics competition brings youthful future to innovation - China Daily](https://global.chinadaily.com.cn/a/202607/10/WS6a50a7c4a310986e2b464a2b.html)**
+**[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
 
-The 2026 International Teenager AI Robotics Innovation Challenge concluded this week in Beijing, bringing together nearly 400 young innovators from 21 countries.
-
-China Daily - Global Edition • 1h ago
+Tech Xplore • 5m ago
 
 ---
 
@@ -144,17 +142,17 @@ UC San Diego Today • 1d ago
 
 ---
 
-**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
-
-Nature • 1d ago
-
----
-
 **[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
-Ars Technica • 13h ago
+Ars Technica • 16h ago
+
+---
+
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+
+Nature • 1d ago
 
 ---
 
@@ -162,7 +160,15 @@ Ars Technica • 13h ago
 
 “Restore mobility, restore dignity." With that mission, an incredible robotics company has its sights on global reach -- from a new home office in Sioux Falls.
 
-SiouxFalls.Business • 20h ago
+SiouxFalls.Business • 22h ago
+
+---
+
+**[The first commercial human-like robot is here. Are replicants next?](https://www.fastcompany.com/91570086/ubtech-first-commercial-human-like-robot)**
+
+The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
+
+Fast Company • 2h ago
 
 ---
 
@@ -170,7 +176,7 @@ SiouxFalls.Business • 20h ago
 
 BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -182,27 +188,9 @@ mistral.ai • 1d ago
 
 ---
 
-**[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)**
-
-New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.
-
-NVIDIA Blog • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 105K • 👍 3K • 💬 486 • ⏱️ 13:32 • 5d ago
-
----
 
 **[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
 
@@ -214,13 +202,13 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 ---
 
-**[Robot’s first day at call center ends in full kung fu meltdown office chaos on CCTV](https://www.youtube.com/watch?v=saSGzM_tVx8)**
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
 
-Jul 5, 2026 Security camera footage from an office in China captures a startling malfunction involving a Unitree humanoid robot ...
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
 
-📺 FOU News
+📺 AI Revolution
 
-👁️ 1.2M • 👍 18K • 💬 2K • ⏱️ 0:22 • 4d ago
+👁️ 105K • 👍 3K • 💬 486 • ⏱️ 13:32 • 5d ago
 
 ---
 
@@ -230,7 +218,7 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 66K • 👍 2K • 💬 552 • ⏱️ 20:21 • 2d ago
+👁️ 66K • 👍 2K • 💬 553 • ⏱️ 20:21 • 2d ago
 
 ---
 
@@ -240,7 +228,7 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 85K • 👍 4K • 💬 158 • ⏱️ 11:20 • 4d ago
+👁️ 86K • 👍 4K • 💬 160 • ⏱️ 11:20 • 4d ago
 
 ---
 
@@ -250,25 +238,7 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 88 • 💬 4 • ⏱️ 1:06 • 6h ago
-
----
-
-**[Humanoid robot fights coworker #humanoidrobot #robots](https://www.youtube.com/watch?v=wLRQrprxEv8)**
-
-📺 GUYMANITOR
-
-👁️ 22K • 👍 133 • 💬 4 • ⏱️ 0:17 • 5d ago
-
----
-
-**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
-
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 71K • 👍 4K • 💬 2K • ⏱️ 13:09 • 5d ago
+👁️ 2K • 👍 103 • 💬 6 • ⏱️ 1:06 • 9h ago
 
 ---
 
@@ -278,17 +248,47 @@ Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the 
 
 📺 Zoom Vantage
 
-👁️ 2K • 👍 49 • 💬 6 • ⏱️ 4:05 • 1d ago
+👁️ 2K • 👍 51 • 💬 6 • ⏱️ 4:05 • 1d ago
 
 ---
 
-**[Jensen Huang Told His AI Robot Grek to Sit | Nvidia #jensenhuang #nvidia #robot #ai #shorts #grok](https://www.youtube.com/watch?v=RCz40zwo0DQ)**
+**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
 
-nvidia #jensenhuang #nvidiaceo #omniverse #ai #robot #artificialintelligence #tech #technews #shorts #youtubeshorts #airobot ...
+The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
 
-📺 idea aur code
+📺 1X
 
-👁️ 32K • 👍 1K • 💬 48 • ⏱️ 0:58 • 5d ago
+👁️ 37K • 👍 2K • 💬 271 • ⏱️ 1:48 • 20h ago
+
+---
+
+**[Everyone’s Favourite Robot Got DOUBLE Buffed… Ao Jun Just Got Better | War Robots](https://www.youtube.com/watch?v=9v51MOjIwGY)**
+
+Use My Link For The WR Store https://wr.my.games/PREDATORWR The Ao Jun just got a buff on the live server. I really didnt ...
+
+📺 PREDATOR WR
+
+👁️ 9K • 👍 355 • 💬 49 • ⏱️ 13:11 • 1d ago
+
+---
+
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+
+📺 Kalil 4.0
+
+👁️ 5K • 👍 140 • 💬 30 • ⏱️ 10:42 • 3d ago
+
+---
+
+**[NEO Robot Hands Are Almost Human Now](https://www.youtube.com/watch?v=Ov4EmwgFzOY)**
+
+Humanoid robots just took a massive leap forward. NEO's new 25 degree of freedom robotic hands can feel, adapt, and ...
+
+📺 DPCcars
+
+👁️ 678 • 👍 22 • 💬 2 • ⏱️ 2:46 • 19h ago
 
 ---
 
