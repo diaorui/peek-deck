@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-11T22:22:41.518091+00:00'
+updated: '2026-07-11T23:27:25.815123+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 22:22 UTC  
+**Last Updated:** July 11, 2026 at 23:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +1.7%  
-**30d:** +8.9%  
-**90d:** -23.4%  
-**1y:** -38.3%  
+**24h:** +0.2%  
+**7d:** +0.7%  
+**30d:** +7.8%  
+**90d:** -24.2%  
+**1y:** -38.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $220.35B
+**Market Cap:** $216.94B
 Rank #2
 
 **Circulating Supply:** 120,683,053 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.1%
+-63.7%
 
 **All-Time Low:** $0.43
-+421661.8%
++415026.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I feel like that was the endgame of defi. You put $2000 in a perpetual futures vault, or some combination of blue chip pools, and then you spend 25 cents a day to bribe your way out of ads. Why did nobody integrate web3? People spent more in gas to move a jpeg than a monthly news subscription. I should be able to use fixed yield tools to continuously fund my favorite websites and creators, without either party exposing themselves to insolvency risk. The tooling is there to build yield-based subscription models, but very few sites are integrating with the Metamask compatible framework that all the gambling sites run on. It's like stepping into the future for a brief moment, only that they offer something that is mathematically predestined to reward specific behaviors over others in a negative sum fashion given the gas cost to do anything (it's still cheaper and more open than traditional payment routing methods). If the NYT needs 4 bucks a month to run, let me park $100 in some fixed-yield derivative of a degen farm where the future payout is guaranteed to the site for a year or something. I get like $90 bucks back on a bad year when I unlock my liquidity provisions, and we both make out in the green, because either the degen yield trader lost the farm, or leverage users had a Tuesday. Assuming the internet remains primarily free and ad driven, what obstacles are we dealing with?
 
-17h ago
+18h ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -186,7 +186,7 @@ ethereum.org • 2d ago
 
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -194,7 +194,15 @@ Decrypt • 6h ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 5h ago
+
+---
+
+**[Suspected Hedera exploit sends over $5.8M to Ethereum as HBAR slips](https://crypto.news/suspected-hedera-exploit-sends-over-5-8m-to-ethereum/)**
+
+HBAR fell over 2% after security researchers linked a suspected Hedera exploit to more than $5.8M bridged to Ethereum as the probe continued.
+
+Crypto News • 13h ago
 
 ---
 
@@ -202,19 +210,13 @@ markets.businessinsider.com • 4h ago
 
 The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
 **[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
-thestreet.com • 4h ago
-
----
-
-**[Opinions de Crypto Lovers Avhi(@Square-Creator-cryptoloves)](https://www.binance.com/fr-AF/square/post/343229914209986)**
-
-Binance • 1d ago
+thestreet.com • 5h ago
 
 ---
 
@@ -222,7 +224,7 @@ Binance • 1d ago
 
 The Ethereum Foundation patched CVE-2026-34219, a remotely triggerable crash bug in libp2p gossipsub found by an AI agent, before any validators were
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -236,17 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 762 • 👍 52 • 💬 18 • ⏱️ 18:37 • 4h ago
-
----
-
-**[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
-
-Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
-
-📺 Milk Road
-
-👁️ 934 • 👍 61 • 💬 77 • ⏱️ 10:43 • 8h ago
+👁️ 1K • 👍 71 • 💬 40 • ⏱️ 18:37 • 6h ago
 
 ---
 
@@ -256,7 +248,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 4K • 👍 383 • 💬 367 • ⏱️ 24:07 • 7h ago
+👁️ 4K • 👍 419 • 💬 410 • ⏱️ 24:07 • 9h ago
+
+---
+
+**[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
+
+Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
+
+📺 Milk Road
+
+👁️ 1K • 👍 67 • 💬 91 • ⏱️ 10:43 • 9h ago
 
 ---
 
@@ -266,7 +268,7 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 163 • 💬 5 • ⏱️ 9:31 • 4h ago
+👁️ 2K • 👍 178 • 💬 6 • ⏱️ 9:31 • 6h ago
 
 ---
 
@@ -276,27 +278,17 @@ BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 797 • 👍 95 • 💬 102 • ⏱️ 21:18 • 1h ago
+👁️ 2K • 👍 184 • 💬 125 • ⏱️ 21:18 • 3h ago
 
 ---
 
-**[Tom Lee :&quot;Big Week for BTC &amp; ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=W2KCB17Lbao)**
+**[ICP Will Be the TOP Crypto Dominating Bitcoin and Ethereum](https://www.youtube.com/watch?v=H33GZLhlQ_c)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+I think Internet Computer Protocol is on the way to being the number one cryptocurrency with Bitcoin falling to number 2 and ...
 
-📺 Crypto Nutshell
+📺 Jerry Banfield ICP
 
-👁️ 6K • 👍 250 • 💬 65 • ⏱️ 18:35 • 2d ago
-
----
-
-**[PUMPING: BITCOIN &amp; ETHEREUM SIGNAL !!!!](https://www.youtube.com/watch?v=9rCN2Hk1Nqo)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 8K • 👍 339 • 💬 68 • ⏱️ 6:02 • 14h ago
+👁️ 1K • 👍 158 • 💬 50 • ⏱️ 18:43 • 7h ago
 
 ---
 
@@ -306,7 +298,17 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 3K • 👍 108 • 💬 98 • ⏱️ 35:55 • 1d ago
+👁️ 3K • 👍 115 • 💬 98 • ⏱️ 35:55 • 1d ago
+
+---
+
+**[PUMPING: BITCOIN &amp; ETHEREUM SIGNAL !!!!](https://www.youtube.com/watch?v=9rCN2Hk1Nqo)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 9K • 👍 341 • 💬 69 • ⏱️ 6:02 • 15h ago
 
 ---
 
@@ -316,7 +318,7 @@ On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennif
 
 📺 CoinDesk
 
-👁️ 2K • 👍 50 • 💬 18 • ⏱️ 22:55 • 1d ago
+👁️ 2K • 👍 51 • 💬 19 • ⏱️ 22:55 • 1d ago
 
 ---
 
@@ -326,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 167 • 👍 12 • 💬 9 • ⏱️ 4:19 • 12h ago
+👁️ 180 • 👍 13 • 💬 111 • ⏱️ 4:19 • 13h ago
 
 ---
 
