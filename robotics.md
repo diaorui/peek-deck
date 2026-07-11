@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T21:22:34.145093+00:00'
+updated: '2026-07-11T22:22:41.521008+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 21:22 UTC  
+**Last Updated:** July 11, 2026 at 22:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -56,13 +56,13 @@ For aesthetic reasons, robots are typically equipped with outer casings around t
 
 **[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 12h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 13h ago
 
 ---
 
 **[Ground Robots Inherit the Kill Zone - Ukrainian roboticists build toward a human-free frontline](https://www.reddit.com/r/robotics/comments/1utclru/ground_robots_inherit_the_kill_zone_ukrainian/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -124,9 +124,11 @@ Mashable • 2d ago
 
 ---
 
-**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
+**[World’s first surgery using teleoperated humanoid robots conducted by US team](https://interestingengineering.com/ai-robotics/us-world-first-surgery-teleoperated-humanoid-robots)**
 
-Tech Xplore • 5h ago
+World-first trial sees teleoperated humanoid robots perform surgeries, marking a major step toward the future of robotic healthcare.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -142,7 +144,7 @@ TechCrunch • 3d ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -152,11 +154,19 @@ Reuters • 1d ago
 
 ---
 
+**[What’s ‘Next’ for Hyundai: Driving Innovation through Robotics](https://www.hyundai.com/worldwide/en/brand-journal/worldcup2026/hyundai-next-robotics)**
+
+Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
+
+hyundai.com • 5h ago
+
+---
+
 **[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 6h ago
+mistral.ai • 1h ago
 
 ---
 
@@ -171,12 +181,6 @@ Nature • 3d ago
 BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
 
 Yahoo Finance • 3d ago
-
----
-
-**[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
-
-Tech Xplore • 1d ago
 
 ---
 
@@ -220,7 +224,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 174K • 👍 5K • 💬 301 • ⏱️ 10:56 • 6d ago
+👁️ 174K • 👍 5K • 💬 301 • ⏱️ 10:56 • 7d ago
 
 ---
 
@@ -240,7 +244,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 111K • 👍 3K • 💬 515 • ⏱️ 13:32 • 6d ago
+👁️ 111K • 👍 3K • 💬 515 • ⏱️ 13:32 • 7d ago
 
 ---
 
@@ -258,7 +262,7 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Varun Mayya
 
-👁️ 28K • 👍 1K • 💬 22 • ⏱️ 1:03 • 5h ago
+👁️ 28K • 👍 1K • 💬 22 • ⏱️ 1:03 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-11T21:22:34.141806+00:00'
+updated: '2026-07-11T22:22:41.518091+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 21:22 UTC  
+**Last Updated:** July 11, 2026 at 22:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +2.3%  
-**30d:** +9.5%  
-**90d:** -23.0%  
-**1y:** -37.9%  
+**24h:** +0.9%  
+**7d:** +1.7%  
+**30d:** +8.9%  
+**90d:** -23.4%  
+**1y:** -38.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I feel like that was the endgame of defi. You put $2000 in a perpetual futures vault, or some combination of blue chip pools, and then you spend 25 cents a day to bribe your way out of ads. Why did nobody integrate web3? People spent more in gas to move a jpeg than a monthly news subscription. I should be able to use fixed yield tools to continuously fund my favorite websites and creators, without either party exposing themselves to insolvency risk. The tooling is there to build yield-based subscription models, but very few sites are integrating with the Metamask compatible framework that all the gambling sites run on. It's like stepping into the future for a brief moment, only that they offer something that is mathematically predestined to reward specific behaviors over others in a negative sum fashion given the gas cost to do anything (it's still cheaper and more open than traditional payment routing methods). If the NYT needs 4 bucks a month to run, let me park $100 in some fixed-yield derivative of a degen farm where the future payout is guaranteed to the site for a year or something. I get like $90 bucks back on a bad year when I unlock my liquidity provisions, and we both make out in the green, because either the degen yield trader lost the farm, or leverage users had a Tuesday. Assuming the internet remains primarily free and ad driven, what obstacles are we dealing with?
 
-16h ago
+17h ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -166,14 +166,6 @@ The Block • 1d ago
 
 ---
 
-**[The triage is the product: running AI agents against Ethereum's protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product)**
-
-*Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
-
-ethereum.org • 2d ago
-
----
-
 **[Tom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-flags-interesting-ethereum-182915798.html)**
 
 Tom Lee shared a technical analysis by former Bank of America technical strategist Stephen Suttmeier suggesting Ethereum may be forming a short-term bottom after months of weakness.
@@ -182,11 +174,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[The triage is the product: running AI agents against Ethereum's protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product)**
+
+*Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
+
+ethereum.org • 2d ago
+
+---
+
 **[What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks](https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks)**
 
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -194,13 +194,7 @@ Decrypt • 5h ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 3h ago
-
----
-
-**[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
-
-MarketWatch • 1d ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -208,7 +202,13 @@ MarketWatch • 1d ago
 
 The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
 
-FXStreet • 22h ago
+FXStreet • 23h ago
+
+---
+
+**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
+
+thestreet.com • 4h ago
 
 ---
 
@@ -218,9 +218,11 @@ Binance • 1d ago
 
 ---
 
-**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
+**[Ethereum Foundation fixes remotely triggerable crash found by AI](https://cryptobriefing.com/ethereum-foundation-ai-crash-bug-fix/)**
 
-thestreet.com • 3h ago
+The Ethereum Foundation patched CVE-2026-34219, a remotely triggerable crash bug in libp2p gossipsub found by an AI agent, before any validators were
+
+Crypto Briefing • 4h ago
 
 ---
 
@@ -234,7 +236,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 762 • 👍 52 • 💬 18 • ⏱️ 18:37 • 3h ago
+👁️ 762 • 👍 52 • 💬 18 • ⏱️ 18:37 • 4h ago
 
 ---
 
@@ -244,7 +246,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 934 • 👍 61 • 💬 77 • ⏱️ 10:43 • 7h ago
+👁️ 934 • 👍 61 • 💬 77 • ⏱️ 10:43 • 8h ago
 
 ---
 
@@ -254,7 +256,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 4K • 👍 383 • 💬 367 • ⏱️ 24:07 • 6h ago
+👁️ 4K • 👍 383 • 💬 367 • ⏱️ 24:07 • 7h ago
 
 ---
 
@@ -264,7 +266,7 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 163 • 💬 5 • ⏱️ 9:31 • 3h ago
+👁️ 1K • 👍 163 • 💬 5 • ⏱️ 9:31 • 4h ago
 
 ---
 
@@ -274,7 +276,7 @@ BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 797 • 👍 95 • 💬 102 • ⏱️ 21:18 • 57m ago
+👁️ 797 • 👍 95 • 💬 102 • ⏱️ 21:18 • 1h ago
 
 ---
 
@@ -294,7 +296,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 8K • 👍 339 • 💬 68 • ⏱️ 6:02 • 13h ago
+👁️ 8K • 👍 339 • 💬 68 • ⏱️ 6:02 • 14h ago
 
 ---
 
@@ -324,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 167 • 👍 12 • 💬 9 • ⏱️ 4:19 • 11h ago
+👁️ 167 • 👍 12 • 💬 9 • ⏱️ 4:19 • 12h ago
 
 ---
 
