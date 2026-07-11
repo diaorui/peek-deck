@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T14:22:30.077376+00:00'
+updated: '2026-07-11T15:30:46.712224+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 14:22 UTC  
+**Last Updated:** July 11, 2026 at 15:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here's what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware - Electronics BOM under $100 sourcing parts yourself - Full wiring diagrams, assembly guide, and source code included The V1 is already fully operational and tested. I just launched a Kickstarter pre-launch page to fund the V2 (better rigidity, internal cable routing, improved gripper). Happy to answer any questions about the design choices, print settings, or the electronics. AMA! https://www.kickstarter.com/projects/pancoarmmk01/panco-arm-mk-01
 
-21h ago
+22h ago
 
 ---
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -56,13 +56,13 @@ For aesthetic reasons, robots are typically equipped with outer casings around t
 
 **[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 5h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 7h ago
 
 ---
 
 **[Ground Robots Inherit the Kill Zone - Ukrainian roboticists build toward a human-free frontline](https://www.reddit.com/r/robotics/comments/1utclru/ground_robots_inherit_the_kill_zone_ukrainian/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi! My team and I are trying to make it easier to program our assembly robot. We
 
 I am looking for reviews or experience reports with the agilex Nero robot arm! I want to use it as a mobile manipulator, it's quite interesting given it's rather low price and high payload. [Link](https://www.mybotshop.de/AgileX-Nero-7-DoF)
 
-19h ago
+20h ago
 
 ---
 
@@ -100,7 +100,7 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 I’m really hoping you all think robot mowers belong in the group for discussion. If not please delete. I’m curious people that are in to robotics is robot lawnmowers and robot vacuums something your interested in! I love both. If you have this mower or looking into getting one please ask the questions. Thanks Matt
 
-🔗 [youtu.be](https://youtu.be/3k-FTcuMt_w?is=Rfmxc7l7fRdBBYE3) • 22h ago
+🔗 [youtu.be](https://youtu.be/3k-FTcuMt_w?is=Rfmxc7l7fRdBBYE3) • 23h ago
 
 ---
 
@@ -118,7 +118,7 @@ Nature • 2d ago
 
 "Your robot surgeon will see you now." We might not be too far off from that statement. And it might both reduce health care costs and increase availability.
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -126,21 +126,7 @@ Forbes • 20h ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 23h ago
-
----
-
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
-
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
-
-mistral.ai • 5h ago
-
----
-
-**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
-
-Reuters • 19h ago
+New Atlas • 1d ago
 
 ---
 
@@ -148,15 +134,13 @@ Reuters • 19h ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
-**[The first commercial human-like robot is here. Are replicants next?](https://www.fastcompany.com/91570086/ubtech-first-commercial-human-like-robot)**
+**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
 
-The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
-
-Fast Company • 1d ago
+Reuters • 20h ago
 
 ---
 
@@ -168,9 +152,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
 
-Tech Xplore • 1d ago
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
+
+mistral.ai • 6h ago
 
 ---
 
@@ -179,6 +165,20 @@ Tech Xplore • 1d ago
 The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
 
 Business Insider • 2d ago
+
+---
+
+**[Kraken Robotics: No Glass Slipper From Anduril (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4920874-kraken-robotics-no-glass-slipper-from-anduril)**
+
+Seeking Alpha • 2d ago
+
+---
+
+**[Tiny robot boats build floating structures](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)**
+
+FloatForm, developed at MIT, is a swarm of small aquatic robots that assemble into reconfigurable structures. It could lead to floating infrastructure that builds itself into things like a temporary platform, a market, or a stage.
+
+MIT News • 1d ago
 
 ---
 
@@ -202,7 +202,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 26K • 👍 1K • 💬 75 • ⏱️ 2:38 • 23h ago
+👁️ 26K • 👍 1K • 💬 75 • ⏱️ 2:38 • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 Techie Sapien
 
-👁️ 11K • 👍 289 • ⏱️ 0:09 • 2h ago
+👁️ 11K • 👍 289 • ⏱️ 0:09 • 3h ago
 
 ---
 
