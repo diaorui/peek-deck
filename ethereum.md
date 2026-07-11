@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-11T11:30:23.597431+00:00'
+updated: '2026-07-11T12:33:10.051685+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 11:30 UTC  
+**Last Updated:** July 11, 2026 at 12:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +0.8%  
-**30d:** +7.9%  
-**90d:** -24.1%  
+**24h:** -0.3%  
+**7d:** +0.9%  
+**30d:** +8.0%  
+**90d:** -24.0%  
 **1y:** -38.8%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, Devcon 8 speaker applications open
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-1/) • 23h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-1/) • 1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, De
 
 I feel like that was the endgame of defi. You put $2000 in a perpetual futures vault, or some combination of blue chip pools, and then you spend 25 cents a day to bribe your way out of ads. Why did nobody integrate web3? People spent more in gas to move a jpeg than a monthly news subscription. I should be able to use fixed yield tools to continuously fund my favorite websites and creators, without either party exposing themselves to insolvency risk. The tooling is there to build yield-based subscription models, but very few sites are integrating with the Metamask compatible framework that all the gambling sites run on. It's like stepping into the future for a brief moment, only that they offer something that is mathematically predestined to reward specific behaviors over others in a negative sum fashion given the gas cost to do anything (it's still cheaper and more open than traditional payment routing methods). If the NYT needs 4 bucks a month to run, let me park $100 in some fixed-yield derivative of a degen farm where the future payout is guaranteed to the site for a year or something. I get like $90 bucks back on a bad year when I unlock my liquidity provisions, and we both make out in the green, because either the degen yield trader lost the farm, or leverage users had a Tuesday. Assuming the internet remains primarily free and ad driven, what obstacles are we dealing with?
 
-6h ago
+7h ago
 
 ---
 
@@ -120,7 +120,7 @@ When I arrived in a new nation, I had no local currency yet and had my card bann
 
 Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -186,21 +186,13 @@ CoinDesk • 1d ago
 
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin closed green back inside the daily TBO Cloud on Thursday, while Ethereum remained in bullish consolidation and dominance charts continued to support the July rotation setup.Bitcoin reclaims the CloudBTC is back inside the Cloud with $64,700, $65,622 and $67,292 the next chart targets.Ethereum remains the cleaner major chartETH held bullish consolidation and is working on a second TBO Close Short, with immediate resistance around $1,830-$1,850.Dominance supports rotationStablecoin dominance is working on another Close Long, BTC.D is working on a Close Short, and ETH.D/SOL.D remain constructive. DXY could provide macro reliefDXY pierced the Cloud again and looks primed to reverse toward support, which would ease USDJPY and help risk assets.Gold and commoditiesGold printed a second TBT Bullish Divergence even as crypto’s July strength creates a more balanced cross-market picture.Selective altcoin setupsSOL is bouncing from the Fast line, with HYPE, AERO, ZRO, XTZ, 2Z and VVV also constructive. Stay cautious with overbought MORPHO/BCH and structurally weak WLD.Join The Better Traders Club for the full daily report.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
 
-KITCO • 19h ago
-
----
-
-**[Current price of Ethereum for July 10, 2026](https://fortune.com/article/price-of-ethereum-07-10-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
+KITCO • 20h ago
 
 ---
 
 **[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -208,7 +200,7 @@ MarketWatch • 21h ago
 
 The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
 
-FXStreet • 12h ago
+FXStreet • 13h ago
 
 ---
 
@@ -216,7 +208,7 @@ FXStreet • 12h ago
 
 Ethereum's annual power consumption dropped to 7.87 GWh after The Merge, a 99.98% reduction, with 56.4% of energy from sustainable sources per CCAF data.
 
-Crypto Briefing • 11h ago
+Crypto Briefing • 12h ago
 
 ---
 
@@ -225,6 +217,14 @@ Crypto Briefing • 11h ago
 Crypto Prices today are back in the green as Bitcoin BITSTAMP:BTCUSD, Ethereum BITSTAMP:ETHUSD, and XRP posted gains of nearly 1.5% over the past 24 hours, lifting sentiment across the broader crypto market. While the price action appears modest at first glance, on-chain data suggests a much strong…
 
 TradingView • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Climb Ahead of Weekend as Analysts Say Bulls Must Sustain Momentum](https://www.benzinga.com/crypto/cryptocurrency/26/07/60400485/bitcoin-ethereum-xrp-dogecoin-climb-ahead-of-weekend-as-analysts-say-bulls-must-sustain-momentum)**
+
+Bitcoin traded near $64,000 ahead of the weekend as improving sentiment and liquidity above current prices supported a cautiously bullish outlook. Analysts say bulls must hold momentum above $64,500 to target the $65,000–$67,000 liquidity zone.
+
+Benzinga • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 2K • 👍 185 • 💬 3 • ⏱️ 6:02 • 3h ago
+👁️ 2K • 👍 185 • 💬 3 • ⏱️ 6:02 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 81 • 💬 90 • ⏱️ 35:55 • 16h ago
+👁️ 2K • 👍 81 • 💬 90 • ⏱️ 35:55 • 17h ago
 
 ---
 
@@ -268,7 +268,7 @@ On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennif
 
 📺 CoinDesk
 
-👁️ 1K • 👍 39 • 💬 15 • ⏱️ 22:55 • 20h ago
+👁️ 1K • 👍 39 • 💬 15 • ⏱️ 22:55 • 21h ago
 
 ---
 
@@ -278,7 +278,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 31 • ⏱️ 7:25 • 10h ago
+👁️ 2K • 👍 146 • 💬 31 • ⏱️ 7:25 • 11h ago
 
 ---
 
@@ -298,7 +298,7 @@ John Gillen is an ex-BlackRock VP, General Partner at TRU Capital, and host of T
 
 📺 DeFi Dad
 
-👁️ 1K • 👍 34 • 💬 3 • ⏱️ 1:20:06 • 19h ago
+👁️ 1K • 👍 34 • 💬 3 • ⏱️ 1:20:06 • 20h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 990 • 👍 75 • ⏱️ 6:43 • 8h ago
+👁️ 990 • 👍 75 • ⏱️ 6:43 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 262 • 💬 122 • ⏱️ 21:55 • 13h ago
+👁️ 5K • 👍 262 • 💬 122 • ⏱️ 21:55 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ Ethereum cryptocurrency price analysis. ETH cryptocurrency price prediction. Eth
 
 📺 HueFin News
 
-👁️ 64 • ⏱️ 6:11 • 11h ago
+👁️ 64 • ⏱️ 6:11 • 12h ago
 
 ---
 

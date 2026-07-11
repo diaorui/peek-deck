@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T11:30:23.600023+00:00'
+updated: '2026-07-11T12:33:10.055063+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 11:30 UTC  
+**Last Updated:** July 11, 2026 at 12:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,81 +32,75 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Dtof lidar HM-LD1 obstacle avoidance on my drone](https://www.reddit.com/r/robotics/comments/1uovzqd/dtof_lidar_hmld1_obstacle_avoidance_on_my_drone/)**
+**[Built an open-source 5-axis desktop robot arm with ESP32 for under $100 in parts](https://www.reddit.com/r/robotics/comments/1ustmvg/built_an_opensource_5axis_desktop_robot_arm_with/)**
 
-I used the HM-LD1 dToF LiDAR, yep, the robot vacuum sensor, to build an obstacle-stop demo on my drone. it is easy to replicate. l will open-sourcing on GitHub soon.
+Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here's what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware - Electronics BOM under $100 sourcing parts yourself - Full wiring diagrams, assembly guide, and source code included The V1 is already fully operational and tested. I just launched a Kickstarter pre-launch page to fund the V2 (better rigidity, internal cable routing, improved gripper). Happy to answer any questions about the design choices, print settings, or the electronics. AMA! https://www.kickstarter.com/projects/pancoarmmk01/panco-arm-mk-01
 
-4d ago
-
----
-
-**[URDF Mass & Inertia Online Editor](https://www.reddit.com/r/robotics/comments/1up19wf/urdf_mass_inertia_online_editor/)**
-
-I sometimes need to tune the inertial property of the robot by changing the density or mass of each parts. Doing it in CAD and have it re-export to URDF takes a bit long and too tedious. So this online editor lets you (and me) quickly make changes, and have the inertia tensor of the links be recomputed immediately. You can then copy-paste the updated URDF. This is basically entirely made by claude (with some of my help :)) (And yes, it is placed under my startup's domain as a potential lead magnet. but I think it could be useful for some people nonetheless. EDIT (forgot to post the link) Welcome to try: https://urdf.aperobotics.io/
-
-4d ago
+19h ago
 
 ---
 
-**[Threecrate: A high-performance 3D point cloud and mesh processing library built in Rust, with Python bindings.](https://www.reddit.com/r/robotics/comments/1up0ehq/threecrate_a_highperformance_3d_point_cloud_and/)**
+**[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-Have been building this project for a while now, and would love to get eyes on it. Will appreciate it if you could try it out in actual workflows and give me feedback so I can decide the direction to move in. Currently it has been benchmarked against OPEN3D v0.19 on the same machine, using full-resolution frames from three real datasets: TUM RGB-D, KITTI, and nuScenes-mini. In the table below, higher is better — a ratio above 1 means ThreeCrate is faster than Open3D. Workload How ThreeCrate compares Reading files (raw float parsing) 1.8x–2.2x faster Voxel downsampling (CPU) 1.6x–1.8x faster Voxel downsampling (GPU, wgpu) 1.8x–2.9x faster (vs our own CPU path, not Open3D) Normal estimation 0.57x–1.09x (falls behind on big clouds) Single-scale ICP 0.71x–0.99x (falls behind on big clouds) Would appreciate any contributions and feedback for the repo. Link to the repo: https://github.com/rajgandhi1/threecrate
-
-4d ago
+31m ago
 
 ---
 
-**[LingBot-Depth 2.0 fills glass and mirror RGB-D failures using self-supervised vision backbones (Apache-2.0)](https://www.reddit.com/r/robotics/comments/1up6v1w/lingbotdepth_20_fills_glass_and_mirror_rgbd/)**
+**[Most demos showcasing degrees of freedom are based on bare-metal setups. Do cosmetic elements, such as the casing, affect the smoothness of motion?](https://www.reddit.com/r/robotics/comments/1uslg44/most_demos_showcasing_degrees_of_freedom_are/)**
 
-Found this demo on their project page showing exactly the transparent-surface problem that breaks most RGB-D setups. Raw sensor depth drops to nothing on the glass panel, and the completion model fills it in from the backbone features. Only the four vision encoders went up on HuggingFace and GitHub this week under Apache-2.0; the depth completion weights themselves are not released. Their paper lists NYUv2 RMSE of 0.296 for the flagship ViT-g, and they report 2.552 on KITTI, trailing both DINOv3-7B and V-JEPA 2.1. For actual robotics work this is the exact failure mode that makes wine glasses and steel cabinets a consistent headache for grasp pipelines. Curious how people see validating these depth numbers when the completion weights are not available for independent testing.
+For aesthetic reasons, robots are typically equipped with outer casings around their core components. Could the degrees of freedom of a bare robot be compromised in terms of performance due to design constraints? Is that why the demonstration robot in the example uses rubber gloves as its outer casing? Is this a better choice?
 
-4d ago
-
----
-
-**[Wtf! Even the coreless motor itself is 10x cheaper.](https://www.reddit.com/r/robotics/comments/1uozfmu/wtf_even_the_coreless_motor_itself_is_10x_cheaper/)**
-
-I see a lot of smaller parts are costlier than the usual sizes. Even for screws , it sometimes costs 2k rs. Why is this? Don't tell that it's because of the import duty.
-
-4d ago
+1d ago
 
 ---
 
-**[Update on BAGEL: new features and future plans!](https://www.reddit.com/r/robotics/comments/1up4olv/update_on_bagel_new_features_and_future_plans/)**
+**[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
 
-4d ago
-
----
-
-**[Need help with controlling multiple robstride o2 motor](https://www.reddit.com/r/robotics/comments/1uooipg/need_help_with_controlling_multiple_robstride_o2/)**
-
-Is there anyone who could help me regarding controlling multiple robstride o2 motor? What im trying to do is to control multiple Robstride o2 motors (preferably 3) with the default CAN to USB debugger it came with. Is it possible to control multiple motor with that?. I search around the internet for guides, says it'll work if i daisy chained the motor?. I tried wiring 2 motors , first i tried to wire it parallel and second i tried Daisy chain wiring. But it always result the same. Using robstride official software motorstudio it only detects and control 1 motor (the nearest motor to the CAN-USB debugger). And i know it's not a faulty motor or anything since if i only test 1 motor using the CAN-USB debugger . The motor still works (i can rotate it around and such) I tried using ai to solve this. And it still dont work. I mean i understand that ai can sometimes be bs. So if anyone here can help me, That would be really great, also sorry if this is a dumb question 🙏
-
-5d ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 4h ago
 
 ---
 
-**[Robotics Software engineer intern](https://www.reddit.com/r/robotics/comments/1up51ei/robotics_software_engineer_intern/)**
+**[Ground Robots Inherit the Kill Zone - Ukrainian roboticists build toward a human-free frontline](https://www.reddit.com/r/robotics/comments/1utclru/ground_robots_inherit_the_kill_zone_ukrainian/)**
 
-Hi, I have an interview with Neuralink for this fall for robotics software engineer intern. I was wondering what should i expect and what is the interview process. Thank you.
-
-4d ago
+5h ago
 
 ---
 
-**[Boston Dynamics on AI-driven approach for Atlas humanoid development](https://www.reddit.com/r/robotics/comments/1uo4jgo/boston_dynamics_on_aidriven_approach_for_atlas/)**
+**[Robotic Welding at Premier Automation](https://www.reddit.com/r/robotics/comments/1usogqq/robotic_welding_at_premier_automation/)**
 
-Boston Dynamics is developing Atlas using an AI-based system instead of relying on hard-coded behaviors. Aya Durbin describes a shift away from fixed, pre-programmed routines toward a robot that can operate in less controlled, real-world environments. For humanoid robots, this difference is important because demonstrations can be tightly scripted, while practical use requires dealing with variability, unexpected situations, and changing physical tasks. This outlines how Atlas is being developed as Boston Dynamics continues working on humanoid robotics.
-
-5d ago
+22h ago
 
 ---
 
-**[Agility Takes on AI Generalization and Humanoid Safety as it Looks to Go Public](https://www.reddit.com/r/robotics/comments/1uoxluu/agility_takes_on_ai_generalization_and_humanoid/)**
+**[After many iterations, my quadruped robot finally climbed stairs!](https://www.reddit.com/r/robotics/comments/1urw006/after_many_iterations_my_quadruped_robot_finally/)**
 
-Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is focused on repetitive warehouse and manufacturing tasks like moving totes, unloading AMRs, placing items on shelves, and connecting parts of existing automation systems. He says these are useful “in-between” automation roles where companies do not want to heavily modify infrastructure. The article covers Agility’s partnership with NVIDIA as the first partner for Halos for Robots, NVIDIA’s autonomous safety platform for robots, as well as Agility’s plan to go public through a merger with Churchill Capital Corp. XI, giving the company a $2.5 billion pre-money valuation and $620 million in expected gross proceeds.
+I’m continuing to improve the locomotion algorithm for my quadruped robot. The current control stack uses MPC and WBC for body posture and motion control. Footholds are selected based on a height map built from depth camera data In this experiment, the robot successfully climbs stairs with a step height of 5 cm and a tread depth of 12 cm. Here is the GitHub repository of the project.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public) • 4d ago
+1d ago
+
+---
+
+**[AI-assisted robot programming. 5 minutes per task](https://www.reddit.com/r/robotics/comments/1us5kxw/aiassisted_robot_programming_5_minutes_per_task/)**
+
+Hi! My team and I are trying to make it easier to program our assembly robot. We think current approaches with large AI models are going in the wrong direction, making robots unreliable and turning them into black boxes. From our point of view, AI should help program the robot, not control it directly. The problem is that there is no convenient language for programming complex movements. So instead, we fill a large lookup table (dataset) at 30 fps while the robot is controlled through teleoperation. AI acts just as the glue between these examples and fills in the gaps without adding new knowledge. This makes the model reliable, predictable, and debuggable, like code. And as I showed in the video, it took me 5 minutes to set up tray picking with randomness. What do you think about this approach?
+
+1d ago
+
+---
+
+**[AgileX Nero experiences?](https://www.reddit.com/r/robotics/comments/1uswcp8/agilex_nero_experiences/)**
+
+I am looking for reviews or experience reports with the agilex Nero robot arm! I want to use it as a mobile manipulator, it's quite interesting given it's rather low price and high payload. [Link](https://www.mybotshop.de/AgileX-Nero-7-DoF)
+
+17h ago
+
+---
+
+**[Mammotion Luba 3 Robot Lawn Mower testing and full review](https://www.reddit.com/r/robotics/comments/1uss9kz/mammotion_luba_3_robot_lawn_mower_testing_and/)**
+
+I’m really hoping you all think robot mowers belong in the group for discussion. If not please delete. I’m curious people that are in to robotics is robot lawnmowers and robot vacuums something your interested in! I love both. If you have this mower or looking into getting one please ask the questions. Thanks Matt
+
+🔗 [youtu.be](https://youtu.be/3k-FTcuMt_w?is=Rfmxc7l7fRdBBYE3) • 20h ago
 
 ---
 
@@ -132,13 +126,21 @@ Ars Technica • 1d ago
 
 "Your robot surgeon will see you now." We might not be too far off from that statement. And it might both reduce health care costs and increase availability.
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
-**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
 
-Reuters • 2d ago
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
+
+mistral.ai • 3h ago
+
+---
+
+**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
+
+Reuters • 17h ago
 
 ---
 
@@ -146,7 +148,7 @@ Reuters • 2d ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -162,15 +164,7 @@ Fast Company • 1d ago
 
 BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
-
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
-
-mistral.ai • 8h ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -182,9 +176,9 @@ Business Insider • 2d ago
 
 ---
 
-**[Kraken Robotics: No Glass Slipper From Anduril (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4920874-kraken-robotics-no-glass-slipper-from-anduril)**
+**[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
 
-Seeking Alpha • 1d ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -208,7 +202,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 23K • 👍 1K • 💬 71 • ⏱️ 2:38 • 20h ago
+👁️ 23K • 👍 1K • 💬 71 • ⏱️ 2:38 • 21h ago
 
 ---
 

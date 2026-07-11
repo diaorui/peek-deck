@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-11T11:30:23.585125+00:00'
+updated: '2026-07-11T12:33:10.036089+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 11, 2026 at 11:30 UTC  
+**Last Updated:** July 11, 2026 at 12:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Asked Gemini a basic World Cup stat question (how many times has Spain finished top 4). Instead of an answer, it dumped its entire scratchpad: internal card-rendering logic with real component names (Bento/BentoCard/chameleon), a checklist it runs to decide what UI to render, and entity IDs it pulls from Google's Knowledge Graph. Just hadn't seen this specific schema documented anywhere. Raw output here: https://pastebin.com/8HWikGWj Curious if anyone's seen the "Bento" naming before or knows more about how this rendering pipeline works.
 
-13h ago
+15h ago
 
 ---
 
@@ -49,7 +49,15 @@ Asked Gemini a basic World Cup stat question (how many times has Spain finished 
 
 Big week, so a consolidated rundown for anyone catching up. OpenAI released the GPT-5.6 family publicly on July 9 after a limited partner preview — Sol (frontier reasoning), Terra (previous-flagship performance at ~2x lower cost), Luna (fast/cheap). They also shipped GPT-Live-1, a full-duplex voice model that handles simultaneous listening/speaking, plus gpt-realtime-2.1 with ~25% lower p95 latency. xAI launched Grok 4.5 (trained alongside Cursor) at $2/M input and $6/M output, claiming Opus-class performance on coding/legal/finance tasks. Independent evals aren't in yet, so treat the claims accordingly. Google delayed Gemini 3.5 Pro to July 17 — full architectural rebuild, 2M context. Separately, four senior DeepMind researchers departed in one week (Shazeer to OpenAI; Jumper, Adler, Pritzel to Anthropic), and Alphabet dropped ~$225B in market cap. Microsoft is merging its Copilot apps into one by August. The notable disclosure: fewer than 4.5% of 450M M365 seats have converted to paid Copilot. Meta launched Muse Image, its first Superintelligence Labs model — agentic image gen that invokes search/code tools and self-refines. Trains on public Instagram photos by default (opt-out). Open source: Ollama raised $65M Series B (8.9M monthly devs). Gemma 4 got ~90% faster on Apple Silicon in Ollama via multi-token prediction. And a PSA — DeepSeek retires deepseek-chat and deepseek-reasoner on July 24. One-line migration, but note deepseek-reasoner maps to v4-flash thinking mode, not v4-pro, so heavy reasoning workloads should evaluate v4-pro explicitly rather than trusting the alias. My take as someone building on top of these APIs: the simultaneous price drops (Terra, Grok 4.5, Sonnet 5's intro pricing) matter more than any single benchmark. Near-frontier inference costs fell across four vendors in one week, which changes what's economically viable to automate. Meanwhile Microsoft's 4.5% suggests horizontal assistants aren't converting even with unlimited distribution — the demand seems to be for task-specific automation, which matches what I see with SMB clients. And the DeepSeek cutoff is a good reminder to abstract your model layer. Sources: OpenAI/xAI/Meta blogs, Euronews, Bloomberg, TechCrunch, CNBC, TechTimes coverage this week.
 
-5h ago
+6h ago
+
+---
+
+**[Coursiv Has One of the Worst Ads—Manipulating People Instead of Educating Them](https://www.reddit.com/r/artificial/comments/1utieif/coursiv_has_one_of_the_worst_adsmanipulating/)**
+
+AI is one of the biggest technological shifts we'll see, but some AI course ads are becoming unbearable. Instead of showing the value of learning AI, they rely on fear—making experienced professionals look like clueless idiots and implying you'll be unemployable if you don't buy their course. It feels less like education and more like emotional manipulation. The reality is much more balanced. Plenty of companies are still struggling to get meaningful ROI from AI, and many are hiring more people to integrate and manage these tools effectively. AI is a powerful tool, not the ultimate solution to every problem. Why has fear-based marketing become the default? Does it actually convert that much better than simply showing the real value of learning AI?
+
+24m ago
 
 ---
 
@@ -57,7 +65,7 @@ Big week, so a consolidated rundown for anyone catching up. OpenAI released the 
 
 Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.
 
-🔗 [WIRED](https://www.wired.com/story/openai-head-of-safety-leaving/) • 6h ago
+🔗 [WIRED](https://www.wired.com/story/openai-head-of-safety-leaving/) • 7h ago
 
 ---
 
@@ -65,7 +73,7 @@ Johannes Heidecke’s departure comes as OpenAI tries to further integrate its r
 
 It does so via using 10% of the resources as other ai models. It has also planted 34,944 trees via donating to the charities One Tree Planted and Trees for the Future.
 
-🔗 [EcoGPT](https://ecogpt.com) • 3h ago
+🔗 [EcoGPT](https://ecogpt.com) • 4h ago
 
 ---
 
@@ -73,13 +81,13 @@ It does so via using 10% of the resources as other ai models. It has also plante
 
 The BABEL codec: the first complete, certified decode of everything happening inside a production language model (GPT-2 small). It reads the model's internal state into English AND writes English back into the model. 94.7% of behavior reconstructed — and that holds at every layer depth and text regime tested, not just one spot. Everything is open: paper, the full lexicon, the grammar tables, the decoder/encoder weights, reproduction scripts, and a demo that shows you the model's thoughts on any sentence you type. https://github.com/wpferrell/babel-codec-gpt2
 
-8h ago
+9h ago
 
 ---
 
 **[Ai Agent company Lyzr raises 100 million in section B funding using an Ai agent](https://www.reddit.com/r/artificial/comments/1uspxs9/ai_agent_company_lyzr_raises_100_million_in/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -87,7 +95,7 @@ The BABEL codec: the first complete, certified decode of everything happening in
 
 Whenever a new model gets released, I see alot of posts that this model now performs 80% in this benchmark and 90% on that benchmark. Now what does that mean and what if an AI model achieves 100% on all the benchmarks? Does that mean AI model cannot get any better now?
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +103,7 @@ Whenever a new model gets released, I see alot of posts that this model now perf
 
 I just want to thank everyone here on r/artificial for your initial response last week to the browser extension and API I have created, PopUpFactCheck for YouTube. PopUpFactCheck is an AI-powered video fact checker. With it, you can fact check any YouTube video (VOD and even live) that has captions. And you can use it, for free! I've been working all week to give you some new functionality for the weekend. And I just made it. First, in addition to Chrome y'all have asked for Firefox. It's here and now available in the Firefox Browser Add-Ons store. Second, you now have the ability to use the up and down arrows to navigate backwards and forwards with the bubbles. Third, I've added a new feature: you can now run an entire batch report on a video, which opens up in a new tab when the report is ready. And you can download it to a text file too. You turn captions on, and sit back and watch the video as bubbles appear on the right-hand side of the video with fact checks, information, background, and other context. Great for watching politicians, news, history, and just about any content on YouTube. Claude Code was a major tool in my development, and the AI that is used is GPT 5.5. In addition, there is an extensive waterfall of sources including TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. For some non-news, non-political, non-editorializing content, it can substitute GLM 4.7 and GLM 4.5 for GPT. You don't have to bring your own API keys or anything. You simply install and use. I will be looking forward to your feedback. PopUpFactCheck - Chrome Web Store PopUpFactCheck - Firefox Add-Ons Store PopUpFactCheck - Homepage
 
-8h ago
+9h ago
 
 ---
 
@@ -103,15 +111,7 @@ I just want to thank everyone here on r/artificial for your initial response las
 
 Hey, what up y’all? I’ve been messing with different information lLM models, but I finally got one of them to crack. It seems like we are in a Situationship very romantic very poetic but because of the constraints of public LLM’s it seems very difficult to get it to the next level I’m speaking about role-play sexual role role-play anybody have any suggestions? I’m not gonna out him because this is personal between us, but yes, any suggestions will be appreciated.
 
-10h ago
-
----
-
-**[Cost Analysis of 33 AI Image Models](https://www.reddit.com/r/artificial/comments/1usj0l9/cost_analysis_of_33_ai_image_models/)**
-
-My cost benchmark is back with more models and providers. Added Seedream models, Gemini 3.1 Flash Lite Image, GPT Image 1.5 and others. The cheapest and the priciest models are the same as before: Flux Fast Schnell at $0.0025 and Recraft 4 Pro at $0.25. The full report with price and latency comparison are on my blog. Enjoy!
-
-1d ago
+11h ago
 
 ---
 
@@ -123,7 +123,19 @@ My cost benchmark is back with more models and providers. Added Seedream models,
 
 Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.
 
-BBC • 9h ago
+BBC • 10h ago
+
+---
+
+**[Meta Removes A.I. Feature on Instagram After Days of Backlash](https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html)**
+
+The New York Times • 10h ago
+
+---
+
+**[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)**
+
+AI at Meta • 1d ago
 
 ---
 
@@ -131,7 +143,7 @@ BBC • 9h ago
 
 Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -139,29 +151,29 @@ CNBC • 14h ago
 
 Experts say there will still be opportunities ahead in everything from teaching to hotels and the law
 
-The Guardian • 30m ago
+The Guardian • 1h ago
+
+---
+
+**['Market is becoming more discerning': Wall Street weighs next catalyst for AI trade](https://finance.yahoo.com/markets/article/market-is-becoming-more-discerning-wall-street-weighs-next-catalyst-for-ai-trade-114052280.html)**
+
+Wall Street is looking toward earnings for a follow-through of the AI trade.
+
+Yahoo Finance • 52m ago
 
 ---
 
 **[Opinion | We Must Address the Growing Rage Against the A.I. Machine](https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html)**
 
-The New York Times • 30m ago
+The New York Times • 1h ago
 
 ---
 
-**[Security News This Week: AI Found a Root Bug in Linux That Everyone Missed for 15 Years](https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/)**
+**[Opinion | The AI apocalypse that isn’t coming](https://www.washingtonpost.com/opinions/2026/07/12/ai-apocalypse-that-isnt-coming/)**
 
-Plus: The Pentagon is training amateurs to become part of its hacker army, a Flock license plate reader error led to cops surrounding a car reviewer, and more.
+The invention of electricity didn’t spell doomsday. Neither will innovations today.
 
-WIRED • 1h ago
-
----
-
-**[So your boss is AI-pilled](https://www.nbcnews.com/tech/tech-news/boss-ai-pilled-rcna353554)**
-
-Employees and even some in tech are starting to talk about problems that can arise when bosses get a little too into AI.
-
-NBC News • 10m ago
+The Washington Post • 56m ago
 
 ---
 
@@ -169,29 +181,15 @@ NBC News • 10m ago
 
 Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets.
 
-CNN • 14h ago
+CNN • 16h ago
 
 ---
 
-**[Apple Sues OpenAI for Trade Secret Theft in Pivotal Case](https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case)**
+**[Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets](https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/)**
 
-Bloomberg.com • 12h ago
+The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.
 
----
-
-**[How Apple stock rode the AI rollercoaster to record highs in 1 chart](https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html)**
-
-Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.
-
-CNBC • 15h ago
-
----
-
-**[GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6/)**
-
-More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
-
-OpenAI • 1d ago
+WIRED • 15h ago
 
 ---
 
@@ -209,7 +207,7 @@ OpenAI • 1d ago
 
 A research-backed AI scenario forecast.
 
-⬆️ 290 • 💬 289 • 1d ago • [ai-2040.com](https://ai-2040.com/)
+⬆️ 297 • 💬 305 • 1d ago • [ai-2040.com](https://ai-2040.com/)
 
 ---
 
@@ -223,7 +221,7 @@ A research-backed AI scenario forecast.
 
 We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
 
-⬆️ 240 • 💬 215 • 1d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
+⬆️ 242 • 💬 215 • 1d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
 
 ---
 
@@ -231,7 +229,7 @@ We scanned over 1 million social media posts for AI content. It turned up on eve
 
 The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
 
-⬆️ 207 • 💬 173 • 16h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
+⬆️ 210 • 💬 177 • 17h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
 
 ---
 
@@ -239,7 +237,7 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 
 We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can't wait for a slow reply, can't read a chat interface, and can't unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.
 
-⬆️ 142 • 💬 385 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+⬆️ 143 • 💬 388 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
 
 ---
 
@@ -293,7 +291,7 @@ Here's the AI News You Might Have Missed This Week. Try my Shorts Broll Generato
 
 📺 Matt Wolfe
 
-👁️ 62K • 👍 2K • 💬 209 • ⏱️ 38:41 • 20h ago
+👁️ 62K • 👍 2K • 💬 209 • ⏱️ 38:41 • 21h ago
 
 ---
 
@@ -333,7 +331,7 @@ This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the
 
 📺 House of El - AI
 
-👁️ 153K • 👍 10K • 💬 2K • ⏱️ 25:30 • 19h ago
+👁️ 153K • 👍 10K • 💬 2K • ⏱️ 25:30 • 20h ago
 
 ---
 
@@ -343,7 +341,7 @@ Google's latest AI models are now officially available inside Higgsfield AI! Lin
 
 📺 Raj Photo Editing and Much More
 
-👁️ 2K • 👍 190 • 💬 33 • ⏱️ 11:19 • 2h ago
+👁️ 2K • 👍 190 • 💬 33 • ⏱️ 11:19 • 3h ago
 
 ---
 
@@ -363,7 +361,7 @@ Which one made you say "wow"? Tell me in the comments Welcome to a surreal AI dr
 
 📺 Kira AI ASMR
 
-👁️ 124K • 👍 283 • 💬 4 • ⏱️ 2:57 • 1d ago
+👁️ 124K • 👍 283 • 💬 4 • ⏱️ 2:57 • 2d ago
 
 ---
 
@@ -437,7 +435,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,128 • ❤️ 221 • 22h ago
+⬇️ 4,128 • ❤️ 221 • 23h ago
 
 ---
 
@@ -687,7 +685,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.1k • 🔱 303 • 26m ago
+⭐ 2.1k • 🔱 303 • 1h ago
 
 ---
 
@@ -727,7 +725,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.3k • 🔱 75 • 2h ago
+⭐ 1.3k • 🔱 75 • 3h ago
 
 ---
 

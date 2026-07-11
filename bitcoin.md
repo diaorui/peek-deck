@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-11T11:30:23.592481+00:00'
+updated: '2026-07-11T12:33:10.045343+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 11:30 UTC  
+**Last Updated:** July 11, 2026 at 12:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
+**24h:** -0.5%  
 **7d:** +0.9%  
-**30d:** +0.9%  
+**30d:** +1.0%  
 **90d:** -13.8%  
 **1y:** -45.3%  
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin logo displayed on the Las Vegas Sphere 👀](https://www.reddit.com/r/Bitcoin/comments/1usz2g5/bitcoin_logo_displayed_on_the_las_vegas_sphere/)**
 
-15h ago
+16h ago
 
 ---
 
 **[When BTC shows you some mercy](https://www.reddit.com/r/Bitcoin/comments/1uspu5o/when_btc_shows_you_some_mercy/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I went to impulse buy a mini pc and 2 TB SSD to run a full node only to find out that will run me well over $500 and 2 TB SSD will not be enough space in the next handful of years and in need to spend more money. How does bitcoin expect to have world wide node operators when people in first world countries with full time employment (<1% global population) are not willing to fork over full node money and the prices are only continuing to expand for storage along with total storage needed also expanding? I realize that pruned nodes are a thing but what happens when the only full nodes being run are corporate types that have gov and investor eyes on their backs? Will bitcoin be able to maintain its white papers ethos of peer to peer e cash at the current rate? I would argue it already failed at the original claims. Maybe it will be successful as some other thing. Please assist. Not trying to be mean but these topics affect people’s savings so I believe they should be straight to the point so common people can make educated decisions.
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ I went to impulse buy a mini pc and 2 TB SSD to run a full node only to find out
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
@@ -115,7 +115,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I’m recently in 15k, wondering why it takes weeks to even go up higher than it went down within 24 hours.
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’m recently in 15k, wondering why it takes weeks to even go up higher than it
 
 Re: Security 2010-07-10 12:58:02 UTC - - I'll start thinking about how to do this. At the moment, you can kind of use -connect. You can use -connect to make it connect to local computers on your LAN, like -connect=192.168.0.100. If you start it out blank and don't let it connect to the main network, the difficulty is still at the original low difficulty. If you've port-forwarded though, then outside nodes might still connect inward to you. With -connect it still uses IRC, do you think it shouldn't get on IRC when you're telling it to only connect to specific nodes with -connect? The main scenario for - connect is where you have a server farm, with two connected to the network and the rest connected to the first two. In that case, you wouldn't want the -connect computers on IRC. void ThreadIRCSeed(void* parg) { if (mapArgs.count("-connect")) return; Satoshi, would you be open to a --testnetwork (or something) flag to bitcoin that swapped to an alternate genesis block, data directory, listen port and IRC channel? Maybe with a really short average block generation time, too (like once per minute instead of once per 10 minutes) so everything happens ten times a fast to make testing quicker. I second this, however I don't think block generation time should be changed. I think it should be identical to the production network. This, for example, would allow testers to try to subvert the system by creating nodes with particularly low latency, and keep the results applicable to the real network. Great idea Gavin!
 
-🔗 [satoshitimeline.com](https://satoshitimeline.com/585) • 18h ago
+🔗 [satoshitimeline.com](https://satoshitimeline.com/585) • 19h ago
 
 ---
 
@@ -131,7 +131,7 @@ Re: Security 2010-07-10 12:58:02 UTC - - I'll start thinking about how to do thi
 
 Are there any good stable exchanges to buy btc in Serbia?
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ Are there any good stable exchanges to buy btc in Serbia?
 
 Hello all, I am receiving a windfall next week. Probably the only time in my life I will see such a thing. I want to buy a whole bitcoin thru Fidelity but want to know other options that are out there for purchasing bitcoin. Any suggestions are welcomed.
 
-8h ago
+9h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hello all, I am receiving a windfall next week. Probably the only time in my lif
 
 Hi everyone I'm looking for a secure hot wallet for Bitcoin and other cryptos Security is the most important thing for me, but I also want something that's easy to use What hot wallet do you use and why? I'd like to hear your recommendations and experiences Thanks!
 
-11h ago
+12h ago
 
 ---
 
@@ -159,7 +159,7 @@ Hi everyone I'm looking for a secure hot wallet for Bitcoin and other cryptos Se
 
 Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 8h ago
 
 Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -175,7 +175,13 @@ The Block • 22h ago
 
 Bitcoin is trading at approximately $62,852 on July 10, 2026. Put that next to its all-time high of $109,000 hit in January 2025, and the drawdown is roughly 42 percent, nearly $47,000 below peak. The Fear and Greed Index sits at 22. Extreme fear by any measure. So is this Bitcoin's worst ...
 
-Yahoo Finance Singapore • 1h ago
+Yahoo Finance Singapore • 2h ago
+
+---
+
+**[Bitcoin stays above $64,000 as U.S. crypto policy advances, adoption grows](https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225)**
+
+Investing.com • 2h ago
 
 ---
 
@@ -183,7 +189,7 @@ Yahoo Finance Singapore • 1h ago
 
 Strategy was all in on Bitcoin until Bitcoin's price fell dramatically.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +197,7 @@ Yahoo Finance • 1h ago
 
 American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
 
-Honolulu Star-Advertiser • 17h ago
+Honolulu Star-Advertiser • 19h ago
 
 ---
 
@@ -207,7 +213,7 @@ New York Post • 1d ago
 
 Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -215,19 +221,13 @@ The Motley Fool • 12h ago
 
 The crypto miner's stock jumped after it announced a deal that has investors looking past digital currency and toward a much bigger prize: AI. If you glanced at Marathon Digital (MARA ) on Thursday, you might have assumed its 10.0% surge was just another volatile day in the crypto mines. You’d be...
 
-Trefis • 23h ago
+Trefis • 1d ago
 
 ---
 
 **[Strategy's Trilemma: How Saylor Can Offset Bitcoin Losses With STRC Buybacks (NASDAQ:MSTR)](https://seekingalpha.com/article/4921129-strategy-trilemma-how-saylor-can-offset-bitcoin-losses-with-strc-buybacks)**
 
-Seeking Alpha • 22h ago
-
----
-
-**[Bitcoin rebounds above $64k, heads for small weekly rise on tech-led rally](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-64k-heads-for-weekly-rise-on-techled-rally-4785390)**
-
-Investing.com • 1d ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -273,7 +273,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 20h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 21h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -281,7 +281,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 21h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 22h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -303,7 +303,7 @@ It’s supposed to be a decentralized service, after all...
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 92 • 💬 44 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 93 • 💬 44 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -317,7 +317,7 @@ For years, Bitcoin was dismissed as a scam that governments would eventually ban
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 59 • ⏱️ 14:28 • 13h ago
+👁️ 16K • 👍 1K • 💬 59 • ⏱️ 14:28 • 14h ago
 
 ---
 
@@ -327,7 +327,7 @@ Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congres
 
 📺 Fox Business
 
-👁️ 74K • 👍 1K • 💬 631 • ⏱️ 12:46 • 20h ago
+👁️ 74K • 👍 1K • 💬 631 • ⏱️ 12:46 • 21h ago
 
 ---
 
@@ -337,7 +337,7 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 692 • 💬 52 • ⏱️ 55:58 • 20h ago
+👁️ 12K • 👍 692 • 💬 52 • ⏱️ 55:58 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 569 • 💬 257 • ⏱️ 17:47 • 20h ago
+👁️ 8K • 👍 569 • 💬 257 • ⏱️ 17:47 • 21h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin has a way of making investors question everything during the most diffic
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 4K • 💬 299 • ⏱️ 29:53 • 20h ago
+👁️ 72K • 👍 4K • 💬 299 • ⏱️ 29:53 • 21h ago
 
 ---
 
@@ -377,7 +377,7 @@ From Trump to Coinbase to ETH we have NOTHING BUT GOOD NEWS TODAY! (rare) Join u
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 543 • 💬 62 • ⏱️ 27:47 • 16h ago
+👁️ 8K • 👍 543 • 💬 62 • ⏱️ 27:47 • 17h ago
 
 ---
 
@@ -397,7 +397,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 7K • 👍 1K • 💬 278 • ⏱️ 9:40 • 22h ago
+👁️ 7K • 👍 1K • 💬 278 • ⏱️ 9:40 • 23h ago
 
 ---
 
@@ -407,7 +407,7 @@ I think in ten years, the financial system and the Bitcoin system are going to c
 
 📺 What Bitcoin Did
 
-👁️ 9K • 👍 321 • 💬 196 • ⏱️ 1:40:44 • 18h ago
+👁️ 9K • 👍 321 • 💬 196 • ⏱️ 1:40:44 • 19h ago
 
 ---
 
