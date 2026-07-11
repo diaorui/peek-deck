@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-10T23:28:46.825005+00:00'
+updated: '2026-07-11T01:00:05.760813+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 23:28 UTC  
+**Last Updated:** July 11, 2026 at 01:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,034.09
+### $64,099.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +1.6%  
+**24h:** +0.7%  
+**7d:** +0.8%  
 **30d:** +0.9%  
-**90d:** -9.2%  
-**1y:** -45.3%  
+**90d:** -13.9%  
+**1y:** -45.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1282.68B
+**Market Cap:** $1285.23B
 Rank #1
 
-**Circulating Supply:** 20,054,603 BTC
+**Circulating Supply:** 20,054,621 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-49.2%
 
 **All-Time Low:** $67.81
-+94228.3%
++94409.7%
 
 ---
 
@@ -167,15 +167,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band.
 
-CoinDesk • 14h ago
-
----
-
-**[Strategy Is Still a Major Risk for Bitcoin, says Mike Green](https://finance.yahoo.com/video/strategy-still-major-risk-bitcoin-211900457.html)**
-
-Mike Green says Strategy’s levered Bitcoin bet remains a major risk if Bitcoin keeps falling
-
-Yahoo Finance • 2h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -183,15 +175,21 @@ Yahoo Finance • 2h ago
 
 Bitcoin (CRYPTO: $BTC) is up 1% on July 10 and headed for a winning week as cryptocurrencies shake-off renewed tens...
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin’s Slump Forces a Crypto Booster’s Retreat](https://thedispatch.com/newsletter/morning/bitcoins-slump-forces-a-crypto-boosters-retreat/)**
+**[Premarket movers: Chip stocks fall, hyperscalers rise, bitcoin plays gain](https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-chip-stocks-surge-sk-hynix-trading-debut-us/card/premarket-movers-chip-stocks-fall-hyperscalers-rise-bitcoin-plays-gain-h6LS27Q9ch2RFU7d3Vx0)**
 
-Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
+MarketWatch • 14h ago
 
-The Dispatch • 13h ago
+---
+
+**[Mara’s Big Texas Power Play Isn’t About Bitcoin](https://www.trefis.com/stock/mara/articles/606607/maras-big-texas-power-play-isnt-about-bitcoin/2026-07-10)**
+
+The crypto miner's stock jumped after it announced a deal that has investors looking past digital currency and toward a much bigger prize: AI. If you glanced at Marathon Digital (MARA ) on Thursday, you might have assumed its 10.0% surge was just another volatile day in the crypto mines. You’d be...
+
+Trefis • 13h ago
 
 ---
 
@@ -199,13 +197,7 @@ The Dispatch • 13h ago
 
 Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
 
-KRXI2 • 1d ago
-
----
-
-**[MARA Stock Leads Digital Rally On Data Center Development Plans. Bitcoin Rises.](https://www.investors.com/news/mara-stock-power-land-deal-2gw-data-center-ai-bitcoin-price-terawulf-iren/)**
-
-Investor's Business Daily • 1d ago
+KRXI2 • 2d ago
 
 ---
 
@@ -217,19 +209,27 @@ The Block • 1d ago
 
 ---
 
-**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
+**[JPMorgan Chase Says Bitcoin's Main Risk Isn't Strategy](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-chase-says-bitcoins-main-205200489.html)**
 
-American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
+Strategy's (NASDAQ: $MSTR) recent Bitcoin (CRYPTO: $BTC) sales are not the main risk facing the cryptocurrency ...
 
-Honolulu Star-Advertiser • 5h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Current price of Bitcoin for July 8, 2026](https://fortune.com/article/price-of-bitcoin-07-08-2026/)**
+**[JPMorgan Says The Real Threat To Bitcoin Isn't Strategy (MSTR) — It's Private Blockchains](https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+JPMorgan says Strategy's Bitcoin sales are a short-term concern, but the bigger long-term risk is that banks and institutions adopt private blockchains over public networks, reducing activity and capital flows across the broader crypto ecosystem.
 
-Fortune • 2d ago
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Michael Saylor’s recent Bitcoin sales are a worry for crypto investors](https://nypost.com/2026/07/10/business/michael-saylors-recent-bitcoin-sales-are-a-worry-for-crypto-investors/)**
+
+Is Saylor going to turn the current Bitcoin winter into the storm of the century for crypto?
+
+New York Post • 14h ago
 
 ---
 
@@ -275,7 +275,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 10h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -283,7 +283,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 9h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 11h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -319,7 +319,7 @@ Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congres
 
 📺 Fox Business
 
-👁️ 44K • 👍 1K • 💬 320 • ⏱️ 12:46 • 8h ago
+👁️ 44K • 👍 1K • 💬 320 • ⏱️ 12:46 • 9h ago
 
 ---
 
@@ -329,7 +329,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 275 • 💬 101 • ⏱️ 7:32 • 23h ago
+👁️ 6K • 👍 275 • 💬 101 • ⏱️ 7:32 • 1d ago
 
 ---
 
@@ -349,7 +349,7 @@ The biggest attacks on Bitcoin have often become its biggest strengths. The 2017
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 331 • ⏱️ 19:44 • 1d ago
+👁️ 27K • 👍 2K • 💬 331 • ⏱️ 19:44 • 2d ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin has a way of making investors question everything during the most diffic
 
 📺 Benjamin Cowen
 
-👁️ 42K • 👍 3K • 💬 234 • ⏱️ 29:53 • 8h ago
+👁️ 42K • 👍 3K • 💬 234 • ⏱️ 29:53 • 9h ago
 
 ---
 
@@ -389,7 +389,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 476 • 💬 389 • ⏱️ 17:47 • 8h ago
+👁️ 6K • 👍 476 • 💬 389 • ⏱️ 17:47 • 10h ago
 
 ---
 
@@ -399,7 +399,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BT
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 250 • 💬 70 • ⏱️ 4:25 • 16h ago
+👁️ 4K • 👍 250 • 💬 70 • ⏱️ 4:25 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-10T23:28:46.831088+00:00'
+updated: '2026-07-11T01:00:05.767292+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 10, 2026 at 23:28 UTC  
+**Last Updated:** July 11, 2026 at 01:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,793.64
+### $1,794.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** +0.9%  
-**30d:** +7.3%  
-**90d:** -17.9%  
-**1y:** -39.3%  
+**24h:** +1.4%  
+**7d:** +0.5%  
+**30d:** +7.6%  
+**90d:** -24.4%  
+**1y:** -39.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.39B
+**Market Cap:** $216.25B
 Rank #2
 
 **Circulating Supply:** 120,683,081 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-63.8%
 
 **All-Time Low:** $0.43
-+414042.5%
++413746.9%
 
 ---
 
@@ -160,6 +160,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization](https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization)**
+
+Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
+
+The Block • 8h ago
+
+---
+
 **[Ethereum's newest nonprofit wants to become Wall Street's guide to crypto](https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto)**
 
 In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
@@ -168,17 +176,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Foundation says AI agents find real bugs, but most are false positives](https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives)**
-
-The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.
-
-The Block • 1d ago
-
----
-
 **[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
 
-MarketWatch • 9h ago
+MarketWatch • 11h ago
 
 ---
 
@@ -186,15 +186,7 @@ MarketWatch • 9h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
-
----
-
-**[Cambridge research reveals 31% of Ethereum node activity concentrated in the US](https://cryptobriefing.com/cambridge-ethereum-node-us-concentration/)**
-
-Cambridge CCAF research shows 31% of Ethereum beacon node activity is US-based and clustered on AWS, Hetzner, and OVH, raising centralization concerns.
-
-Crypto Briefing • 6h ago
+Fortune • 14h ago
 
 ---
 
@@ -202,7 +194,7 @@ Crypto Briefing • 6h ago
 
 MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -210,13 +202,21 @@ markets.businessinsider.com • 18h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
 
-FXStreet • 19h ago
+FXStreet • 21h ago
 
 ---
 
 **[Best Ethereum Staking Platforms in 2026](https://www.ccn.com/crypto-investing/exchanges/best-ethereum-staking-platforms/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
+
+---
+
+**[Ethereum faces $87M short bet – Can ETH bulls defend $1,580?](https://ambcrypto.com/ethereum-faces-87m-short-bet-can-eth-bulls-defend-1580/)**
+
+Ethereum bulls face a crucial battle as a massive short position, Vitalik’s ETH transfer, and rising macro risks threaten key support.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennif
 
 📺 CoinDesk
 
-👁️ 630 • 👍 22 • 💬 21 • ⏱️ 22:55 • 8h ago
+👁️ 630 • 👍 22 • 💬 21 • ⏱️ 22:55 • 10h ago
 
 ---
 
@@ -260,7 +260,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 774 • 👍 44 • 💬 53 • ⏱️ 35:55 • 4h ago
+👁️ 774 • 👍 44 • 💬 53 • ⏱️ 35:55 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 892 • 👍 99 • 💬 61 • ⏱️ 21:55 • 1h ago
+👁️ 892 • 👍 99 • 💬 61 • ⏱️ 21:55 • 3h ago
 
 ---
 
@@ -280,7 +280,7 @@ John Gillen is an ex-BlackRock VP, General Partner at TRU Capital, and host of T
 
 📺 DeFi Dad
 
-👁️ 172 • 👍 9 • ⏱️ 1:20:06 • 7h ago
+👁️ 172 • 👍 9 • ⏱️ 1:20:06 • 8h ago
 
 ---
 
@@ -290,7 +290,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 353 • 💬 131 • ⏱️ 15:45 • 12h ago
+👁️ 5K • 👍 353 • 💬 131 • ⏱️ 15:45 • 13h ago
 
 ---
 
@@ -300,7 +300,7 @@ In this video, we break down Ethereum's long term price history, major drawdowns
 
 📺 The Value Thinker
 
-👁️ 18K • 👍 913 • 💬 218 • ⏱️ 21:46 • 2d ago
+👁️ 18K • 👍 913 • 💬 218 • ⏱️ 21:46 • 3d ago
 
 ---
 

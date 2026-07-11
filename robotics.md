@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-10T23:28:46.834333+00:00'
+updated: '2026-07-11T01:00:05.770567+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 10, 2026 at 23:28 UTC  
+**Last Updated:** July 11, 2026 at 01:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,20 +114,6 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 ## Google News: "robotics"
 
-**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
-
-Reuters • 2d ago
-
----
-
-**[This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)**
-
-General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
-
-TechCrunch • 2d ago
-
----
-
 **[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
@@ -140,7 +126,7 @@ Ars Technica • 1d ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 8h ago
+New Atlas • 9h ago
 
 ---
 
@@ -150,11 +136,17 @@ Nature • 2d ago
 
 ---
 
+**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
+
+Reuters • 2d ago
+
+---
+
 **[The first commercial human-like robot is here. Are replicants next?](https://www.fastcompany.com/91570086/ubtech-first-commercial-human-like-robot)**
 
 The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
 
-Fast Company • 13h ago
+Fast Company • 14h ago
 
 ---
 
@@ -162,7 +154,7 @@ Fast Company • 13h ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 5h ago
+mistral.ai • 4h ago
 
 ---
 
@@ -174,19 +166,25 @@ Business Insider • 1d ago
 
 ---
 
-**[Prosperous Robotics brings mobility technology company to USD Discovery District](https://siouxfalls.business/prosperous-robotics-brings-mobility-technology-company-to-usd-discovery-district/)**
-
-“Restore mobility, restore dignity." With that mission, an incredible robotics company has its sights on global reach -- from a new home office in Sioux Falls.
-
-SiouxFalls.Business • 1d ago
-
----
-
 **[BlackBerry Sees Strong Pipeline Across Robotics and Automation](https://finance.yahoo.com/technology/articles/blackberry-sees-strong-pipeline-across-121800442.html)**
 
 BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Do Robots Lure Us to War? The Impact of the Robotic Revolution on the Propensity for Armed Conflict](https://www.rand.org/pubs/rgs_dissertations/RGSDA5114-1.html)**
+
+The author developed a framework to understand the decision space for the use of force in the presence of emerging technology and applied it to autonomous weapons systems.
+
+RAND • 1d ago
+
+---
+
+**[Kraken Robotics: No Glass Slipper From Anduril (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4920874-kraken-robotics-no-glass-slipper-from-anduril)**
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -220,7 +218,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 11K • 👍 567 • 💬 41 • ⏱️ 2:38 • 8h ago
+👁️ 11K • 👍 567 • 💬 41 • ⏱️ 2:38 • 9h ago
 
 ---
 
@@ -270,7 +268,7 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 68K • 👍 2K • 💬 558 • ⏱️ 20:21 • 2d ago
+👁️ 68K • 👍 2K • 💬 558 • ⏱️ 20:21 • 3d ago
 
 ---
 
