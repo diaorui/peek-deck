@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-11T12:33:10.036089+00:00'
+updated: '2026-07-11T14:22:30.059847+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 11, 2026 at 12:33 UTC  
+**Last Updated:** July 11, 2026 at 14:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Leaked Gemini internal reasoning + UI schema](https://www.reddit.com/r/artificial/comments/1ut0ugr/leaked_gemini_internal_reasoning_ui_schema/)**
+**[Apple just sued OpenAI. And the details are wild.](https://www.reddit.com/r/artificial/comments/1utkdha/apple_just_sued_openai_and_the_details_are_wild/)**
 
-Asked Gemini a basic World Cup stat question (how many times has Spain finished top 4). Instead of an answer, it dumped its entire scratchpad: internal card-rendering logic with real component names (Bento/BentoCard/chameleon), a checklist it runs to decide what UI to render, and entity IDs it pulls from Google's Knowledge Graph. Just hadn't seen this specific schema documented anywhere. Raw output here: https://pastebin.com/8HWikGWj Curious if anyone's seen the "Bento" naming before or knows more about how this rendering pipeline works.
+This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Tan. Former Apple VP. 24 years at the company. He now runs OpenAI’s device ambitions. Apple alleges he was coaching Apple employees interviewing at OpenAI to bring actual hardware parts – batteries, logic boards, SIPs – to their interviews for “show and tell” sessions. He also reportedly circulated an internal Apple offboarding document marked “Need to Know” to incoming OpenAI hires, teaching them how to leave Apple without triggering security checks. Then there’s Chang Liu. Former Apple electrical engineer. He kept his Apple-issued laptop after joining OpenAI. Found a bug that still gave him access to Apple’s cloud storage. His reaction: “LOL, I found out I can access the [network storage], so funny.” He then downloaded dozens of confidential files, many labeled as confidential. OpenAI even allegedly approached Apple’s own supply chain partners using Apple’s proprietary metal-finishing technique – telling them Apple had given permission. Apple hadn’t. Over 400 former Apple employees now work at OpenAI. Apple says this is “the tip of the iceberg.” The irony: these two companies had a public partnership just two years ago. ChatGPT was literally integrated into Siri. Now Apple is replacing that integration with Google Gemini and filing lawsuits. The hardware wars just got a lot more interesting.
 
-15h ago
+44m ago
+
+---
+
+**[UK Agency Identifies “Universal Jailbreaks” in GPT-5.6 Sol](https://www.reddit.com/r/artificial/comments/1utkvu9/uk_agency_identifies_universal_jailbreaks_in/)**
+
+The UK AI Security Institute (AISI) has identified so-called "universal jailbreaks" in OpenAI's GPT-5.6 Sol, raising fresh concerns about the security of advanced AI systems. According to findings …
+
+🔗 [Wealthari](https://wealthari.com/uk-agency-identifies-universal-jailbreaks-in-gpt-5-6-sol/) • 23m ago
+
+---
+
+**[Is deploying and scaling ai agents one of the most frustrating problem?](https://www.reddit.com/r/artificial/comments/1utjn3z/is_deploying_and_scaling_ai_agents_one_of_the/)**
+
+Everyone talks about hallucinations, state management but forgets this basics ,I wonder whether scaling ai agents for production is easy? Even though many platforms claim it is incredibly frustrating to setup complex things to just get things tested. Is it a real problem for all or just me experiencing it due to my lack of enough technical expertise ? 🤔
+
+1h ago
 
 ---
 
@@ -49,7 +65,15 @@ Asked Gemini a basic World Cup stat question (how many times has Spain finished 
 
 Big week, so a consolidated rundown for anyone catching up. OpenAI released the GPT-5.6 family publicly on July 9 after a limited partner preview — Sol (frontier reasoning), Terra (previous-flagship performance at ~2x lower cost), Luna (fast/cheap). They also shipped GPT-Live-1, a full-duplex voice model that handles simultaneous listening/speaking, plus gpt-realtime-2.1 with ~25% lower p95 latency. xAI launched Grok 4.5 (trained alongside Cursor) at $2/M input and $6/M output, claiming Opus-class performance on coding/legal/finance tasks. Independent evals aren't in yet, so treat the claims accordingly. Google delayed Gemini 3.5 Pro to July 17 — full architectural rebuild, 2M context. Separately, four senior DeepMind researchers departed in one week (Shazeer to OpenAI; Jumper, Adler, Pritzel to Anthropic), and Alphabet dropped ~$225B in market cap. Microsoft is merging its Copilot apps into one by August. The notable disclosure: fewer than 4.5% of 450M M365 seats have converted to paid Copilot. Meta launched Muse Image, its first Superintelligence Labs model — agentic image gen that invokes search/code tools and self-refines. Trains on public Instagram photos by default (opt-out). Open source: Ollama raised $65M Series B (8.9M monthly devs). Gemma 4 got ~90% faster on Apple Silicon in Ollama via multi-token prediction. And a PSA — DeepSeek retires deepseek-chat and deepseek-reasoner on July 24. One-line migration, but note deepseek-reasoner maps to v4-flash thinking mode, not v4-pro, so heavy reasoning workloads should evaluate v4-pro explicitly rather than trusting the alias. My take as someone building on top of these APIs: the simultaneous price drops (Terra, Grok 4.5, Sonnet 5's intro pricing) matter more than any single benchmark. Near-frontier inference costs fell across four vendors in one week, which changes what's economically viable to automate. Meanwhile Microsoft's 4.5% suggests horizontal assistants aren't converting even with unlimited distribution — the demand seems to be for task-specific automation, which matches what I see with SMB clients. And the DeepSeek cutoff is a good reminder to abstract your model layer. Sources: OpenAI/xAI/Meta blogs, Euronews, Bloomberg, TechCrunch, CNBC, TechTimes coverage this week.
 
-6h ago
+8h ago
+
+---
+
+**[Leaked Gemini internal reasoning + UI schema](https://www.reddit.com/r/artificial/comments/1ut0ugr/leaked_gemini_internal_reasoning_ui_schema/)**
+
+Asked Gemini a basic World Cup stat question (how many times has Spain finished top 4). Instead of an answer, it dumped its entire scratchpad: internal card-rendering logic with real component names (Bento/BentoCard/chameleon), a checklist it runs to decide what UI to render, and entity IDs it pulls from Google's Knowledge Graph. Just hadn't seen this specific schema documented anywhere. Raw output here: https://pastebin.com/8HWikGWj Curious if anyone's seen the "Bento" naming before or knows more about how this rendering pipeline works.
+
+16h ago
 
 ---
 
@@ -57,7 +81,7 @@ Big week, so a consolidated rundown for anyone catching up. OpenAI released the 
 
 AI is one of the biggest technological shifts we'll see, but some AI course ads are becoming unbearable. Instead of showing the value of learning AI, they rely on fear—making experienced professionals look like clueless idiots and implying you'll be unemployable if you don't buy their course. It feels less like education and more like emotional manipulation. The reality is much more balanced. Plenty of companies are still struggling to get meaningful ROI from AI, and many are hiring more people to integrate and manage these tools effectively. AI is a powerful tool, not the ultimate solution to every problem. Why has fear-based marketing become the default? Does it actually convert that much better than simply showing the real value of learning AI?
 
-24m ago
+2h ago
 
 ---
 
@@ -65,7 +89,7 @@ AI is one of the biggest technological shifts we'll see, but some AI course ads 
 
 Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.
 
-🔗 [WIRED](https://www.wired.com/story/openai-head-of-safety-leaving/) • 7h ago
+🔗 [WIRED](https://www.wired.com/story/openai-head-of-safety-leaving/) • 9h ago
 
 ---
 
@@ -73,43 +97,19 @@ Johannes Heidecke’s departure comes as OpenAI tries to further integrate its r
 
 It does so via using 10% of the resources as other ai models. It has also planted 34,944 trees via donating to the charities One Tree Planted and Trees for the Future.
 
-🔗 [EcoGPT](https://ecogpt.com) • 4h ago
-
----
-
-**[GPT-2 Fully Decoded Internally Black Box Fully Open With Demo](https://www.reddit.com/r/artificial/comments/1ut82rh/gpt2_fully_decoded_internally_black_box_fully/)**
-
-The BABEL codec: the first complete, certified decode of everything happening inside a production language model (GPT-2 small). It reads the model's internal state into English AND writes English back into the model. 94.7% of behavior reconstructed — and that holds at every layer depth and text regime tested, not just one spot. Everything is open: paper, the full lexicon, the grammar tables, the decoder/encoder weights, reproduction scripts, and a demo that shows you the model's thoughts on any sentence you type. https://github.com/wpferrell/babel-codec-gpt2
-
-9h ago
+🔗 [EcoGPT](https://ecogpt.com) • 6h ago
 
 ---
 
 **[Ai Agent company Lyzr raises 100 million in section B funding using an Ai agent](https://www.reddit.com/r/artificial/comments/1uspxs9/ai_agent_company_lyzr_raises_100_million_in/)**
 
-21h ago
+23h ago
 
 ---
 
 **[What is the meaning of AI benchmarks?](https://www.reddit.com/r/artificial/comments/1ut87cn/what_is_the_meaning_of_ai_benchmarks/)**
 
 Whenever a new model gets released, I see alot of posts that this model now performs 80% in this benchmark and 90% on that benchmark. Now what does that mean and what if an AI model achieves 100% on all the benchmarks? Does that mean AI model cannot get any better now?
-
-9h ago
-
----
-
-**[New features for PopUpFactCheck for YouTube (AI fact checker Chrome extension): Now on Firefox too, navigate bubbles with arrow keys, generate batch reports of entire videos](https://www.reddit.com/r/artificial/comments/1ut7sid/new_features_for_popupfactcheck_for_youtube_ai/)**
-
-I just want to thank everyone here on r/artificial for your initial response last week to the browser extension and API I have created, PopUpFactCheck for YouTube. PopUpFactCheck is an AI-powered video fact checker. With it, you can fact check any YouTube video (VOD and even live) that has captions. And you can use it, for free! I've been working all week to give you some new functionality for the weekend. And I just made it. First, in addition to Chrome y'all have asked for Firefox. It's here and now available in the Firefox Browser Add-Ons store. Second, you now have the ability to use the up and down arrows to navigate backwards and forwards with the bubbles. Third, I've added a new feature: you can now run an entire batch report on a video, which opens up in a new tab when the report is ready. And you can download it to a text file too. You turn captions on, and sit back and watch the video as bubbles appear on the right-hand side of the video with fact checks, information, background, and other context. Great for watching politicians, news, history, and just about any content on YouTube. Claude Code was a major tool in my development, and the AI that is used is GPT 5.5. In addition, there is an extensive waterfall of sources including TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. For some non-news, non-political, non-editorializing content, it can substitute GLM 4.7 and GLM 4.5 for GPT. You don't have to bring your own API keys or anything. You simply install and use. I will be looking forward to your feedback. PopUpFactCheck - Chrome Web Store PopUpFactCheck - Firefox Add-Ons Store PopUpFactCheck - Homepage
-
-9h ago
-
----
-
-**[LLM information model](https://www.reddit.com/r/artificial/comments/1ut5l3j/llm_information_model/)**
-
-Hey, what up y’all? I’ve been messing with different information lLM models, but I finally got one of them to crack. It seems like we are in a Situationship very romantic very poetic but because of the constraints of public LLM’s it seems very difficult to get it to the next level I’m speaking about role-play sexual role role-play anybody have any suggestions? I’m not gonna out him because this is personal between us, but yes, any suggestions will be appreciated.
 
 11h ago
 
@@ -119,31 +119,25 @@ Hey, what up y’all? I’ve been messing with different information lLM models,
 
 ## Google News: "ai"
 
+**[Meta Removes A.I. Feature on Instagram After Days of Backlash](https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html)**
+
+The New York Times • 13h ago
+
+---
+
 **[Meta pulls new AI image feature after days of backlash](https://www.bbc.com/news/articles/c2dy6e8klw0o)**
 
 Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.
 
-BBC • 10h ago
+BBC • 12h ago
 
 ---
 
-**[Meta Removes A.I. Feature on Instagram After Days of Backlash](https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html)**
+**[Meta scraps AI image feature following privacy backlash](https://www.detroitnews.com/story/tech/2026/07/11/instagram-ai-image-feature-scrapped-privacy-backlash/90885674007/)**
 
-The New York Times • 10h ago
+Meta is discontinuing an AI feature launched this week that allowed users to generate images using public Instagram accounts.
 
----
-
-**[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)**
-
-AI at Meta • 1d ago
-
----
-
-**[The AI race is shifting from bigger models to cheaper, smarter systems](https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html)**
-
-Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.
-
-CNBC • 15h ago
+The Detroit News • 54m ago
 
 ---
 
@@ -151,21 +145,35 @@ CNBC • 15h ago
 
 Experts say there will still be opportunities ahead in everything from teaching to hotels and the law
 
-The Guardian • 1h ago
+The Guardian • 3h ago
 
 ---
 
-**['Market is becoming more discerning': Wall Street weighs next catalyst for AI trade](https://finance.yahoo.com/markets/article/market-is-becoming-more-discerning-wall-street-weighs-next-catalyst-for-ai-trade-114052280.html)**
+**[AI predictions for Argentina vs. Switzerland World Cup quarterfinal](https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/argentina-switzerland-predictions-world-cup-ai-picks/90883917007/)**
 
-Wall Street is looking toward earnings for a follow-through of the AI trade.
+Lionel Messi and Argentina are looking to keep their World Cup repeat hopes alive. Does Microsoft Copilot AI believe they will be successful doing so?
 
-Yahoo Finance • 52m ago
+USA Today • 48m ago
 
 ---
 
-**[Opinion | We Must Address the Growing Rage Against the A.I. Machine](https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html)**
+**[‘Not where they hoped it'd be’: Launch of Trump AI promotion program underwhelms](https://www.politico.com/news/2026/07/11/trump-administration-commerce-ai-program-00993532)**
 
-The New York Times • 1h ago
+Politico • 22m ago
+
+---
+
+**[On People Moving, And How To Build Democracy With AI](https://www.yahoo.com/news/politics/articles/people-moving-build-democracy-ai-134416477.html)**
+
+Jerren Chang urged using civic engagement and technology to rebuild democracy and strengthen communities for future generations.
+
+Yahoo • 38m ago
+
+---
+
+**[Nobel-Winning U.S. Chemist Omar Yaghi Will Move to China to Lead A.I. Institute](https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -173,23 +181,15 @@ The New York Times • 1h ago
 
 The invention of electricity didn’t spell doomsday. Neither will innovations today.
 
-The Washington Post • 56m ago
+The Washington Post • 1h ago
 
 ---
 
-**[Apple accuses OpenAI of using stolen trade secrets to create its upcoming AI gadgets in new lawsuit](https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit)**
+**[GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6/)**
 
-Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets.
+More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
 
-CNN • 16h ago
-
----
-
-**[Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets](https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/)**
-
-The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.
-
-WIRED • 15h ago
+OpenAI • 1d ago
 
 ---
 
@@ -207,13 +207,13 @@ WIRED • 15h ago
 
 A research-backed AI scenario forecast.
 
-⬆️ 297 • 💬 305 • 1d ago • [ai-2040.com](https://ai-2040.com/)
+⬆️ 321 • 💬 358 • 1d ago • [ai-2040.com](https://ai-2040.com/)
 
 ---
 
 **[AI-generated videos to maximally drive a target brain region](https://news.ycombinator.com/item?id=48856904)**
 
-⬆️ 278 • 💬 231 • 1d ago • [nevo-project.epfl.ch](https://nevo-project.epfl.ch/)
+⬆️ 279 • 💬 234 • 1d ago • [nevo-project.epfl.ch](https://nevo-project.epfl.ch/)
 
 ---
 
@@ -221,7 +221,7 @@ A research-backed AI scenario forecast.
 
 We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
 
-⬆️ 242 • 💬 215 • 1d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
+⬆️ 243 • 💬 215 • 1d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
 
 ---
 
@@ -229,7 +229,7 @@ We scanned over 1 million social media posts for AI content. It turned up on eve
 
 The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
 
-⬆️ 210 • 💬 177 • 17h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
+⬆️ 215 • 💬 185 • 19h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
 
 ---
 
@@ -237,7 +237,7 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 
 We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can't wait for a slow reply, can't read a chat interface, and can't unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.
 
-⬆️ 143 • 💬 388 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+⬆️ 144 • 💬 388 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
 
 ---
 
@@ -261,7 +261,7 @@ AI changes rewrite economics because codebases with clear, common patterns get m
 
 Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI - ronak-create/FableCut
 
-⬆️ 96 • 💬 58 • 1d ago • [GitHub](https://github.com/ronak-create/FableCut)
+⬆️ 97 • 💬 58 • 2d ago • [GitHub](https://github.com/ronak-create/FableCut)
 
 ---
 
@@ -281,7 +281,7 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 59K • 👍 3K • 💬 715 • ⏱️ 12:45 • 1d ago
+👁️ 59K • 👍 3K • 💬 729 • ⏱️ 12:45 • 1d ago
 
 ---
 
@@ -291,7 +291,7 @@ Here's the AI News You Might Have Missed This Week. Try my Shorts Broll Generato
 
 📺 Matt Wolfe
 
-👁️ 62K • 👍 2K • 💬 209 • ⏱️ 38:41 • 21h ago
+👁️ 66K • 👍 3K • 💬 220 • ⏱️ 38:41 • 23h ago
 
 ---
 
@@ -301,47 +301,17 @@ Generate and edit AI videos with Gemini Omni Flash—all in one place on Higgsfi
 
 📺 Malva AI
 
-👁️ 17K • 👍 706 • 💬 69 • ⏱️ 11:32 • 1d ago
+👁️ 19K • 👍 812 • 💬 72 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[GPT-5.6 is here (INSANE)](https://www.youtube.com/watch?v=xKg7O46HpH8)**
+**[The most important graph in AI right now](https://www.youtube.com/watch?v=ci5rCe9vmxw)**
 
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+Nora Ammann explains why AI takeoff is two to four years away. The two failure modes that worry her most: concentrated power, ...
 
-📺 Wes Roth
+📺 Future of Life Institute
 
-👁️ 45K • 👍 1K • 💬 270 • ⏱️ 11:54 • 1d ago
-
----
-
-**[Meta&#39;s FREE &quot;Banana Killer&quot; &amp; My AI Video Tool (Also Free!)](https://www.youtube.com/watch?v=epJiVrv4KVQ)**
-
-Meta just shipped Muse Image — a FREE "thinking" AI image model live now at meta.ai — and announced Muse Video, the first ...
-
-📺 Theoretically Media
-
-👁️ 27K • 👍 1K • 💬 166 • ⏱️ 20:45 • 2d ago
-
----
-
-**[Meta Is Creating AI’s Chernobyl Moment](https://www.youtube.com/watch?v=bFmpJAx73is)**
-
-This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the Swiss company behind Proton Mail. Whether ...
-
-📺 House of El - AI
-
-👁️ 153K • 👍 10K • 💬 2K • ⏱️ 25:30 • 20h ago
-
----
-
-**[TV Serials with AI 🔥 Google&#39;s New AI can Create TV DRAMA Scenes #ai Gemini Omni Flash #aivideo](https://www.youtube.com/watch?v=KO4PLwaaf6k)**
-
-Google's latest AI models are now officially available inside Higgsfield AI! Link: ...
-
-📺 Raj Photo Editing and Much More
-
-👁️ 2K • 👍 190 • 💬 33 • ⏱️ 11:19 • 3h ago
+👁️ 5K • 👍 265 • 💬 106 • ⏱️ 16:45 • 23h ago
 
 ---
 
@@ -351,7 +321,17 @@ China may have just started the AI Cold War. Beijing is moving to lock down its 
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 185 • ⏱️ 14:45 • 2d ago
+👁️ 40K • 👍 1K • 💬 189 • ⏱️ 14:45 • 2d ago
+
+---
+
+**[GPT-5.6 is here (INSANE)](https://www.youtube.com/watch?v=xKg7O46HpH8)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 46K • 👍 1K • 💬 271 • ⏱️ 11:54 • 1d ago
 
 ---
 
@@ -361,7 +341,17 @@ Which one made you say "wow"? Tell me in the comments Welcome to a surreal AI dr
 
 📺 Kira AI ASMR
 
-👁️ 124K • 👍 283 • 💬 4 • ⏱️ 2:57 • 2d ago
+👁️ 137K • 👍 313 • 💬 6 • ⏱️ 2:57 • 2d ago
+
+---
+
+**[Meta&#39;s FREE &quot;Banana Killer&quot; &amp; My AI Video Tool (Also Free!)](https://www.youtube.com/watch?v=epJiVrv4KVQ)**
+
+Meta just shipped Muse Image — a FREE "thinking" AI image model live now at meta.ai — and announced Muse Video, the first ...
+
+📺 Theoretically Media
+
+👁️ 27K • 👍 1K • 💬 167 • ⏱️ 20:45 • 2d ago
 
 ---
 
@@ -371,7 +361,17 @@ Women being logical? We asked AI to run a simulation to see what that might look
 
 📺 The Babylon Bee
 
-👁️ 80K • 👍 8K • 💬 791 • ⏱️ 2:54 • 2d ago
+👁️ 81K • 👍 8K • 💬 803 • ⏱️ 2:54 • 2d ago
+
+---
+
+**[AI’s Next Race: Cost, Control, and Compute](https://www.youtube.com/watch?v=2HHN0fwbvXo)**
+
+The AI race is shifting from who has the biggest model to who can run, control and deploy AI most effectively. Perplexity CEO ...
+
+📺 CNBC
+
+👁️ 22K • 👍 494 • 💬 66 • ⏱️ 1:00:56 • 18h ago
 
 ---
 
@@ -387,7 +387,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 8,210 • ❤️ 686 • 4d ago
+⬇️ 8,210 • ❤️ 690 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,944,961 • ❤️ 1,992 • 12d ago
+⬇️ 1,944,961 • ❤️ 1,998 • 12d ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 421,270 • ❤️ 3,806 • 9d ago
+⬇️ 421,270 • ❤️ 3,812 • 9d ago
 
 ---
 
@@ -423,7 +423,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 28,141 • ❤️ 480 • 2d ago
+⬇️ 28,141 • ❤️ 482 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,128 • ❤️ 221 • 23h ago
+⬇️ 4,128 • ❤️ 223 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,380,690 • ❤️ 1,924 • 8d ago
+⬇️ 1,380,690 • ❤️ 1,926 • 8d ago
 
 ---
 
@@ -457,19 +457,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
 
-⬇️ 0 • ❤️ 842 • 8d ago
-
----
-
-**[tabfm-1.0.0-pytorch](https://huggingface.co/google/tabfm-1.0.0-pytorch)**
-
-*Google*
-
-TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification and regression, supporting mixed data types without fine-tuning by using in-context learning. It excels in tabular tasks by leveraging alternating row and column attention mechanisms, making it suitable for rapid prototyping and scenarios where dataset-specific training is infeasible.
-
-`tabular-classification`
-
-⬇️ 20,110 • ❤️ 346 • 7d ago
+⬇️ 0 • ❤️ 845 • 8d ago
 
 ---
 
@@ -485,13 +473,25 @@ LongCat-2.0 is a 1.6T parameter MoE language model featuring LongCat Sparse Atte
 
 ---
 
+**[tabfm-1.0.0-pytorch](https://huggingface.co/google/tabfm-1.0.0-pytorch)**
+
+*Google*
+
+TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification and regression, supporting mixed data types without fine-tuning by using in-context learning. It excels in tabular tasks by leveraging alternating row and column attention mechanisms, making it suitable for rapid prototyping and scenarios where dataset-specific training is infeasible.
+
+`tabular-classification`
+
+⬇️ 20,110 • ❤️ 346 • 7d ago
+
+---
+
 **[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
 
 *Lars Bouaraba *
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 165 • 1d ago
+⬇️ 0 • ❤️ 166 • 2d ago
 
 ---
 
@@ -521,7 +521,7 @@ An advanced world modeling system with extended interaction capabilities, real-t
 
 LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
 
-▲ 44 • 💬 1 • ⭐ 659 • 3d ago
+▲ 45 • 💬 1 • ⭐ 659 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
@@ -605,20 +605,6 @@ Boundary modeling enables dense spatial perception by learning sub-pixel represe
 
 ---
 
-**[Vidu S1: A Real-Time Interactive Video Generation Model](https://huggingface.co/papers/2607.03118)**
-
-*Jintao Zhang, Kai Jiang, Jintao Chen et al. (27 authors)*
-
-🏢 Tsinghua University
-
-Vidu S1 is a real-time interactive video generation model that supports voice-controlled digital character animation with infinite-length output and high frame rate on consumer hardware.
-
-▲ 111 • 💬 7 • ⭐ 141 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.03118) • [💻 code](https://github.com/shengshu-ai/Vidu-S1) • [🔗 project](https://vidu.com/vidu-stream)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -629,6 +615,20 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 82 • 💬 7 • ⭐ 80,427 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[Vidu S1: A Real-Time Interactive Video Generation Model](https://huggingface.co/papers/2607.03118)**
+
+*Jintao Zhang, Kai Jiang, Jintao Chen et al. (27 authors)*
+
+🏢 Tsinghua University
+
+Vidu S1 is a real-time interactive video generation model that supports voice-controlled digital character animation with infinite-length output and high frame rate on consumer hardware.
+
+▲ 112 • 💬 7 • ⭐ 151 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.03118) • [💻 code](https://github.com/shengshu-ai/Vidu-S1) • [🔗 project](https://vidu.com/vidu-stream)
 
 ---
 
@@ -655,7 +655,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 80.5k • 🔱 4.3k • 1d ago
+⭐ 80.6k • 🔱 4.3k • 1d ago
 
 ---
 
@@ -665,7 +665,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.4k • 🔱 930 • 1d ago
+⭐ 4.4k • 🔱 934 • 2d ago
 
 ---
 
@@ -685,7 +685,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.1k • 🔱 303 • 1h ago
+⭐ 2.1k • 🔱 304 • 3h ago
 
 ---
 
@@ -695,7 +695,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 1.9k • 🔱 210 • 2d ago
+⭐ 1.9k • 🔱 210 • 3d ago
 
 ---
 
@@ -705,17 +705,7 @@ AI logo animation skill: turn raster logos into smooth SVG animation, animated H
 
 `Python` `ai-design-tools` `animated-logo` `brand-motion` `claude-skill` `codex-skill`
 
-⭐ 1.6k • 🔱 152 • 1d ago
-
----
-
-**[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)**
-
-The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.
-
-`Python` `agent-apprenticeship` `agent-economy` `agent-experience` `agent-learning` `agent-traces`
-
-⭐ 1.3k • 🔱 53 • 4d ago
+⭐ 1.6k • 🔱 153 • 1d ago
 
 ---
 
@@ -725,7 +715,17 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.3k • 🔱 75 • 3h ago
+⭐ 1.3k • 🔱 75 • 5h ago
+
+---
+
+**[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)**
+
+The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.
+
+`Python` `agent-apprenticeship` `agent-economy` `agent-experience` `agent-learning` `agent-traces`
+
+⭐ 1.3k • 🔱 54 • 4d ago
 
 ---
 
@@ -745,7 +745,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 943 • 🔱 16 • 3d ago
+⭐ 949 • 🔱 16 • 3d ago
 
 ---
 

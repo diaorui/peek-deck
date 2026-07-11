@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-11T12:33:10.045343+00:00'
+updated: '2026-07-11T14:22:30.068260+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 12:33 UTC  
+**Last Updated:** July 11, 2026 at 14:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.9%  
-**30d:** +1.0%  
-**90d:** -13.8%  
-**1y:** -45.3%  
+**24h:** +0.4%  
+**7d:** +1.0%  
+**30d:** +1.1%  
+**90d:** -13.7%  
+**1y:** -45.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1285.83B
+**Market Cap:** $1288.36B
 Rank #1
 
-**Circulating Supply:** 20,054,846 BTC
+**Circulating Supply:** 20,054,909 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-49.0%
 
 **All-Time Low:** $67.81
-+94451.0%
++94638.2%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin logo displayed on the Las Vegas Sphere 👀](https://www.reddit.com/r/Bitcoin/comments/1usz2g5/bitcoin_logo_displayed_on_the_las_vegas_sphere/)**
 
-16h ago
+17h ago
 
 ---
 
 **[When BTC shows you some mercy](https://www.reddit.com/r/Bitcoin/comments/1uspu5o/when_btc_shows_you_some_mercy/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I went to impulse buy a mini pc and 2 TB SSD to run a full node only to find out that will run me well over $500 and 2 TB SSD will not be enough space in the next handful of years and in need to spend more money. How does bitcoin expect to have world wide node operators when people in first world countries with full time employment (<1% global population) are not willing to fork over full node money and the prices are only continuing to expand for storage along with total storage needed also expanding? I realize that pruned nodes are a thing but what happens when the only full nodes being run are corporate types that have gov and investor eyes on their backs? Will bitcoin be able to maintain its white papers ethos of peer to peer e cash at the current rate? I would argue it already failed at the original claims. Maybe it will be successful as some other thing. Please assist. Not trying to be mean but these topics affect people’s savings so I believe they should be straight to the point so common people can make educated decisions.
 
-6h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ I went to impulse buy a mini pc and 2 TB SSD to run a full node only to find out
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+8h ago
 
 ---
 
@@ -115,7 +115,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I’m recently in 15k, wondering why it takes weeks to even go up higher than it went down within 24 hours.
 
-9h ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’m recently in 15k, wondering why it takes weeks to even go up higher than it
 
 Re: Security 2010-07-10 12:58:02 UTC - - I'll start thinking about how to do this. At the moment, you can kind of use -connect. You can use -connect to make it connect to local computers on your LAN, like -connect=192.168.0.100. If you start it out blank and don't let it connect to the main network, the difficulty is still at the original low difficulty. If you've port-forwarded though, then outside nodes might still connect inward to you. With -connect it still uses IRC, do you think it shouldn't get on IRC when you're telling it to only connect to specific nodes with -connect? The main scenario for - connect is where you have a server farm, with two connected to the network and the rest connected to the first two. In that case, you wouldn't want the -connect computers on IRC. void ThreadIRCSeed(void* parg) { if (mapArgs.count("-connect")) return; Satoshi, would you be open to a --testnetwork (or something) flag to bitcoin that swapped to an alternate genesis block, data directory, listen port and IRC channel? Maybe with a really short average block generation time, too (like once per minute instead of once per 10 minutes) so everything happens ten times a fast to make testing quicker. I second this, however I don't think block generation time should be changed. I think it should be identical to the production network. This, for example, would allow testers to try to subvert the system by creating nodes with particularly low latency, and keep the results applicable to the real network. Great idea Gavin!
 
-🔗 [satoshitimeline.com](https://satoshitimeline.com/585) • 19h ago
+🔗 [satoshitimeline.com](https://satoshitimeline.com/585) • 21h ago
 
 ---
 
@@ -131,7 +131,7 @@ Re: Security 2010-07-10 12:58:02 UTC - - I'll start thinking about how to do thi
 
 Are there any good stable exchanges to buy btc in Serbia?
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Are there any good stable exchanges to buy btc in Serbia?
 
 Hello all, I am receiving a windfall next week. Probably the only time in my life I will see such a thing. I want to buy a whole bitcoin thru Fidelity but want to know other options that are out there for purchasing bitcoin. Any suggestions are welcomed.
 
-9h ago
+11h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hello all, I am receiving a windfall next week. Probably the only time in my lif
 
 Hi everyone I'm looking for a secure hot wallet for Bitcoin and other cryptos Security is the most important thing for me, but I also want something that's easy to use What hot wallet do you use and why? I'd like to hear your recommendations and experiences Thanks!
 
-12h ago
+14h ago
 
 ---
 
@@ -159,45 +159,31 @@ Hi everyone I'm looking for a secure hot wallet for Bitcoin and other cryptos Se
 
 Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
-**['Communication challenge, nothing more': Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem](https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem)**
+**[Even with Gold Below $4,150 and Bitcoin Under $64,000, I'd Still Rather Buy This Unstoppable Dividend Stock in July](https://www.fool.com/investing/2026/07/10/even-with-gold-below-4150-and-bitcoin-under-64000/)**
 
-Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one.
+Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.
 
-The Block • 23h ago
-
----
-
-**[Is this Bitcoin's worst bear market ever? The numbers tell a surprising story](https://sg.finance.yahoo.com/news/bitcoins-worst-bear-market-ever-103000717.html)**
-
-Bitcoin is trading at approximately $62,852 on July 10, 2026. Put that next to its all-time high of $109,000 hit in January 2025, and the drawdown is roughly 42 percent, nearly $47,000 below peak. The Fear and Greed Index sits at 22. Extreme fear by any measure. So is this Bitcoin's worst ...
-
-Yahoo Finance Singapore • 2h ago
+The Motley Fool • 15h ago
 
 ---
 
-**[Bitcoin stays above $64,000 as U.S. crypto policy advances, adoption grows](https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225)**
+**[Anthony Scaramucci's Model Portfolio: 30% to Bitcoin, Some Gold, 'Bet the Long Term of the US'](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramuccis-model-portfolio-30-120126142.html)**
 
-Investing.com • 2h ago
-
----
-
-**[Strategy Says It Might Sell Up to $1.25 Billion in Bitcoin. So Is MSTR a Buy, Sell, or Hold Right Now?](https://finance.yahoo.com/markets/crypto/articles/strategy-says-might-sell-1-093500999.html)**
-
-Strategy was all in on Bitcoin until Bitcoin's price fell dramatically.
+SkyBridge Capital founder Anthony Scaramucci maintains his long-term bullish stance on Bitcoin, saying that he believes artificial intelligence is likely in bubble territory. Scaramucci’s 30% BTC Allocation In an interview with Phil Rose on Thursday, Scaramucci attributed Bitcoin’s recent correction...
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
+**[Bitcoin treasury company Empery Digital sold about half of BTC stack](https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack)**
 
-American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
+It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.
 
-Honolulu Star-Advertiser • 19h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -209,25 +195,39 @@ New York Post • 1d ago
 
 ---
 
-**[Even with Gold Below $4,150 and Bitcoin Under $64,000, I'd Still Rather Buy This Unstoppable Dividend Stock in July](https://www.fool.com/investing/2026/07/10/even-with-gold-below-4150-and-bitcoin-under-64000/)**
+**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
 
-Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.
+American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
 
-The Motley Fool • 13h ago
+Honolulu Star-Advertiser • 20h ago
 
 ---
 
-**[Mara’s Big Texas Power Play Isn’t About Bitcoin](https://www.trefis.com/stock/mara/articles/606607/maras-big-texas-power-play-isnt-about-bitcoin/2026-07-10)**
+**['Communication challenge, nothing more': Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem](https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem)**
 
-The crypto miner's stock jumped after it announced a deal that has investors looking past digital currency and toward a much bigger prize: AI. If you glanced at Marathon Digital (MARA ) on Thursday, you might have assumed its 10.0% surge was just another volatile day in the crypto mines. You’d be...
+Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one.
 
-Trefis • 1d ago
+The Block • 1d ago
 
 ---
 
 **[Strategy's Trilemma: How Saylor Can Offset Bitcoin Losses With STRC Buybacks (NASDAQ:MSTR)](https://seekingalpha.com/article/4921129-strategy-trilemma-how-saylor-can-offset-bitcoin-losses-with-strc-buybacks)**
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
+
+---
+
+**[Bitcoin rebounds above $64k, heads for small weekly rise on tech-led rally](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-64k-heads-for-weekly-rise-on-techled-rally-4785390)**
+
+Investing.com • 1d ago
+
+---
+
+**[Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market](https://www.tradingview.com/news/cointelegraph:6ffa572e0094b:0-bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market/)**
+
+Bitcoin (BTC) is seeing its best month of July since 2022, but analysis warns that the result could be firmly bearish.Key points:Analyst sees BTC price "picking up" for rest of July before reversalData from CoinGlass shows that at 9.5%, BITSTAMP:BTCUSD is setting a four-year record for July gains.B…
+
+TradingView • 3h ago
 
 ---
 
@@ -273,7 +273,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 21h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 23h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -281,7 +281,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 22h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 1d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -297,13 +297,13 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 363 • 💬 255 • 2d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 363 • 💬 256 • 2d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 93 • 💬 44 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 94 • 💬 44 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -317,7 +317,7 @@ For years, Bitcoin was dismissed as a scam that governments would eventually ban
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 59 • ⏱️ 14:28 • 14h ago
+👁️ 17K • 👍 1K • 💬 61 • ⏱️ 14:28 • 16h ago
 
 ---
 
@@ -327,47 +327,7 @@ Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congres
 
 📺 Fox Business
 
-👁️ 74K • 👍 1K • 💬 631 • ⏱️ 12:46 • 21h ago
-
----
-
-**[Bitcoin Bullish Buildup Begins](https://www.youtube.com/watch?v=wtVFbD489Wk)**
-
-AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 12K • 👍 692 • 💬 52 • ⏱️ 55:58 • 21h ago
-
----
-
-**[Bitcoin About To Print Its First Bull Market Signal In 3 Years...](https://www.youtube.com/watch?v=zJIHEcOd88w)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 569 • 💬 257 • ⏱️ 17:47 • 21h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=sigSZCnSa6M)**
-
-Bitcoin has a way of making investors question everything during the most difficult parts of the cycle. In this video, we take a step ...
-
-📺 Benjamin Cowen
-
-👁️ 72K • 👍 4K • 💬 299 • ⏱️ 29:53 • 21h ago
-
----
-
-**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
-
-Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
-
-📺 Gareth Soloway
-
-👁️ 57K • 👍 3K • 💬 151 • ⏱️ 15:38 • 1d ago
+👁️ 78K • 👍 2K • 💬 649 • ⏱️ 12:46 • 23h ago
 
 ---
 
@@ -377,17 +337,37 @@ From Trump to Coinbase to ETH we have NOTHING BUT GOOD NEWS TODAY! (rare) Join u
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 543 • 💬 62 • ⏱️ 27:47 • 17h ago
+👁️ 8K • 👍 560 • 💬 64 • ⏱️ 27:47 • 19h ago
 
 ---
 
-**[Bitcoin: This Is All Expected](https://www.youtube.com/watch?v=B_nKPblHHvY)**
+**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Into The Cryptoverse ...
+Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
 
-📺 Aaron Bennett
+📺 Gareth Soloway
 
-👁️ 6K • 👍 284 • 💬 50 • ⏱️ 7:32 • 1d ago
+👁️ 58K • 👍 3K • 💬 152 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=sigSZCnSa6M)**
+
+Bitcoin has a way of making investors question everything during the most difficult parts of the cycle. In this video, we take a step ...
+
+📺 Benjamin Cowen
+
+👁️ 76K • 👍 5K • 💬 317 • ⏱️ 29:53 • 23h ago
+
+---
+
+**[WALL STREET is Preparing For Bitcoin To EXPLODE HIGHER!! | EP 1545](https://www.youtube.com/watch?v=DgDSUS1b6Pg)**
+
+BULLISH headlines are back in the news as bitcoin breaks up to $64000!! But can we believe them .
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 307 • 💬 42 • ⏱️ 1:30:11 • 19h ago
 
 ---
 
@@ -397,17 +377,37 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 7K • 👍 1K • 💬 278 • ⏱️ 9:40 • 23h ago
+👁️ 7K • 👍 1K • 💬 283 • ⏱️ 9:40 • 1d ago
 
 ---
 
-**[Is The Bitcoin Power Law Broken? | Matthew Mezinskis](https://www.youtube.com/watch?v=oJXECyP_oas)**
+**[Bitcoin: This Is All Expected](https://www.youtube.com/watch?v=B_nKPblHHvY)**
 
-I think in ten years, the financial system and the Bitcoin system are going to collide.” Matthew Mezinskis is a macroeconomic ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Into The Cryptoverse ...
 
-📺 What Bitcoin Did
+📺 Aaron Bennett
 
-👁️ 9K • 👍 321 • 💬 196 • ⏱️ 1:40:44 • 19h ago
+👁️ 6K • 👍 286 • 💬 51 • ⏱️ 7:32 • 1d ago
+
+---
+
+**[Bitcoin About To Print Its First Bull Market Signal In 3 Years...](https://www.youtube.com/watch?v=zJIHEcOd88w)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 588 • 💬 259 • ⏱️ 17:47 • 23h ago
+
+---
+
+**[Bitcoin&#39;s Next Buyer Is TRILLIONS Bigger Than Michael Saylor -  Matt Hougan](https://www.youtube.com/watch?v=otS9X8QkMuI)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 130 • 💬 11 • ⏱️ 15:58 • 1d ago
 
 ---
 

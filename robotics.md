@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T12:33:10.055063+00:00'
+updated: '2026-07-11T14:22:30.077376+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 12:33 UTC  
+**Last Updated:** July 11, 2026 at 14:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here's what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware - Electronics BOM under $100 sourcing parts yourself - Full wiring diagrams, assembly guide, and source code included The V1 is already fully operational and tested. I just launched a Kickstarter pre-launch page to fund the V2 (better rigidity, internal cable routing, improved gripper). Happy to answer any questions about the design choices, print settings, or the electronics. AMA! https://www.kickstarter.com/projects/pancoarmmk01/panco-arm-mk-01
 
-19h ago
+21h ago
 
 ---
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-31m ago
+2h ago
 
 ---
 
@@ -56,19 +56,19 @@ For aesthetic reasons, robots are typically equipped with outer casings around t
 
 **[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 4h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 5h ago
 
 ---
 
 **[Ground Robots Inherit the Kill Zone - Ukrainian roboticists build toward a human-free frontline](https://www.reddit.com/r/robotics/comments/1utclru/ground_robots_inherit_the_kill_zone_ukrainian/)**
 
-5h ago
+7h ago
 
 ---
 
 **[Robotic Welding at Premier Automation](https://www.reddit.com/r/robotics/comments/1usogqq/robotic_welding_at_premier_automation/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi! My team and I are trying to make it easier to program our assembly robot. We
 
 I am looking for reviews or experience reports with the agilex Nero robot arm! I want to use it as a mobile manipulator, it's quite interesting given it's rather low price and high payload. [Link](https://www.mybotshop.de/AgileX-Nero-7-DoF)
 
-17h ago
+19h ago
 
 ---
 
@@ -100,7 +100,7 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 I’m really hoping you all think robot mowers belong in the group for discussion. If not please delete. I’m curious people that are in to robotics is robot lawnmowers and robot vacuums something your interested in! I love both. If you have this mower or looking into getting one please ask the questions. Thanks Matt
 
-🔗 [youtu.be](https://youtu.be/3k-FTcuMt_w?is=Rfmxc7l7fRdBBYE3) • 20h ago
+🔗 [youtu.be](https://youtu.be/3k-FTcuMt_w?is=Rfmxc7l7fRdBBYE3) • 22h ago
 
 ---
 
@@ -114,19 +114,19 @@ Nature • 2d ago
 
 ---
 
-**[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
-
-Preclinical trial is testing the feasibility of humanoid robots in surgery.
-
-Ars Technica • 1d ago
-
----
-
 **[Humanoid Robots Just Performed Live Surgery For The First Time Ever](https://www.forbes.com/sites/johnkoetsier/2026/07/10/humanoid-robots-just-performed-live-surgery-for-the-first-time-ever/)**
 
 "Your robot surgeon will see you now." We might not be too far off from that statement. And it might both reduce health care costs and increase availability.
 
-Forbes • 18h ago
+Forbes • 20h ago
+
+---
+
+**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
+
+Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
+
+New Atlas • 23h ago
 
 ---
 
@@ -134,13 +134,13 @@ Forbes • 18h ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 3h ago
+mistral.ai • 5h ago
 
 ---
 
 **[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
 
-Reuters • 17h ago
+Reuters • 19h ago
 
 ---
 
@@ -148,7 +148,7 @@ Reuters • 17h ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 7h ago
+The Guardian • 9h ago
 
 ---
 
@@ -168,17 +168,17 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 **[Meet Isaac 1, the $8,000 home robot that wants to take folding laundry off your to-do list](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
 
 The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
 
 Business Insider • 2d ago
-
----
-
-**[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
-
-Tech Xplore • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 11K • 👍 205 • 💬 62 • ⏱️ 1:54 • 1d ago
+👁️ 13K • 👍 257 • 💬 79 • ⏱️ 1:54 • 1d ago
 
 ---
 
@@ -202,7 +202,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 23K • 👍 1K • 💬 71 • ⏱️ 2:38 • 21h ago
+👁️ 26K • 👍 1K • 💬 75 • ⏱️ 2:38 • 23h ago
 
 ---
 
@@ -212,7 +212,7 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 📺 FOU News
 
-👁️ 1.2M • 👍 19K • 💬 2K • ⏱️ 0:22 • 5d ago
+👁️ 1.2M • 👍 19K • 💬 3K • ⏱️ 0:22 • 5d ago
 
 ---
 
@@ -222,7 +222,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 171K • 👍 4K • 💬 292 • ⏱️ 10:56 • 6d ago
+👁️ 171K • 👍 4K • 💬 295 • ⏱️ 10:56 • 6d ago
 
 ---
 
@@ -232,7 +232,47 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 109K • 👍 3K • 💬 501 • ⏱️ 13:32 • 6d ago
+👁️ 110K • 👍 3K • 💬 507 • ⏱️ 13:32 • 6d ago
+
+---
+
+**[1X&#39;s New Humanoid Robot Hands Are Almost Human! 🤖✋](https://www.youtube.com/watch?v=mOEmlO9WQuI)**
+
+1X Unveils NEO's Next-Generation Humanoid Hands with Human-Like Dexterity, AI Touch Sensors & 25 Degrees of Freedom ...
+
+📺 Techie Sapien
+
+👁️ 11K • 👍 289 • ⏱️ 0:09 • 2h ago
+
+---
+
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+
+📺 Kalil 4.0
+
+👁️ 9K • 👍 234 • 💬 39 • ⏱️ 10:42 • 4d ago
+
+---
+
+**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
+
+The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
+
+📺 1X
+
+👁️ 74K • 👍 3K • 💬 394 • ⏱️ 1:48 • 1d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 102K • 👍 4K • 💬 167 • ⏱️ 11:20 • 5d ago
 
 ---
 
@@ -243,46 +283,6 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 📺 China Observer
 
 👁️ 69K • 👍 2K • 💬 565 • ⏱️ 20:21 • 3d ago
-
----
-
-**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
-
-The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
-
-📺 1X
-
-👁️ 71K • 👍 3K • 💬 388 • ⏱️ 1:48 • 1d ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 100K • 👍 4K • 💬 167 • ⏱️ 11:20 • 5d ago
-
----
-
-**[Humanoid robots complete world-first operation on live pigs | 9 News Australia](https://www.youtube.com/watch?v=2IswgVGlkXo)**
-
-Humanoid robots controlled by surgeons have completed the world's first operation on live pigs. | *Subscribe and ...
-
-📺 9 News Australia
-
-👁️ 10K • 👍 40 • 💬 3 • ⏱️ 1:55 • 1d ago
-
----
-
-**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
-
-Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
-
-📺 Fox Business Clips
-
-👁️ 10K • 👍 172 • 💬 64 • ⏱️ 8:37 • 1d ago
 
 ---
 
