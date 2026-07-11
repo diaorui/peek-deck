@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T04:20:12.261029+00:00'
+updated: '2026-07-11T06:35:52.929060+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 04:20 UTC  
+**Last Updated:** July 11, 2026 at 06:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ I see a lot of smaller parts are costlier than the usual sizes. Even for screws 
 
 Is there anyone who could help me regarding controlling multiple robstride o2 motor? What im trying to do is to control multiple Robstride o2 motors (preferably 3) with the default CAN to USB debugger it came with. Is it possible to control multiple motor with that?. I search around the internet for guides, says it'll work if i daisy chained the motor?. I tried wiring 2 motors , first i tried to wire it parallel and second i tried Daisy chain wiring. But it always result the same. Using robstride official software motorstudio it only detects and control 1 motor (the nearest motor to the CAN-USB debugger). And i know it's not a faulty motor or anything since if i only test 1 motor using the CAN-USB debugger . The motor still works (i can rotate it around and such) I tried using ai to solve this. And it still dont work. I mean i understand that ai can sometimes be bs. So if anyone here can help me, That would be really great, also sorry if this is a dumb question 🙏
 
-4d ago
+5d ago
 
 ---
 
@@ -114,6 +114,12 @@ Agility Robotics CTO Pras Velagapudi says Digit’s early commercial work is foc
 
 ## Google News: "robotics"
 
+**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+
+Nature • 2d ago
+
+---
+
 **[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
@@ -126,19 +132,21 @@ Ars Technica • 1d ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 13h ago
+New Atlas • 15h ago
 
 ---
 
-**[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
+**[The race to develop robotic hands, memories of legendary gigs and the sea as medicine for the brain](https://www.theguardian.com/news/2026/jul/11/the-race-to-develop-robotic-hands-memories-of-legendary-gigs-and-the-sea-as-medicine-for-the-brain)**
 
-Nature • 2d ago
+Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
+
+The Guardian • 1h ago
 
 ---
 
-**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
+**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
 
-Reuters • 2d ago
+Reuters • 11h ago
 
 ---
 
@@ -146,15 +154,7 @@ Reuters • 2d ago
 
 The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
 
-Fast Company • 18h ago
-
----
-
-**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://finance.yahoo.com/technology/ai/articles/altera-returns-growth-ai-robotics-184232312.html)**
-
-Altera, a maker of programmable chips spun out of Intel, is growing roughly 20% a year and more than ‌doubling operating income as it prepares for an eventual public listing, Chief Executive Raghib ‌Hussain told Reuters in an interview.  Altera became fully independent last September after Intel agreed to sell a 51% stake ​to Silver Lake for $4.46 billion in a transaction valuing Altera at $8.75 billion.  Intel retains a 49% stake.
-
-Yahoo Finance • 9h ago
+Fast Company • 20h ago
 
 ---
 
@@ -162,7 +162,15 @@ Yahoo Finance • 9h ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 7h ago
+mistral.ai • 3h ago
+
+---
+
+**[BlackBerry Sees Strong Pipeline Across Robotics and Automation](https://finance.yahoo.com/technology/articles/blackberry-sees-strong-pipeline-across-121800442.html)**
+
+BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -182,12 +190,6 @@ RAND • 1d ago
 
 ---
 
-**[Kraken Robotics: No Glass Slipper From Anduril (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4920874-kraken-robotics-no-glass-slipper-from-anduril)**
-
-Seeking Alpha • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,47 +200,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 15K • 👍 782 • 💬 56 • ⏱️ 2:38 • 13h ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
-
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
-
-📺 Future Core
-
-👁️ 167K • 👍 4K • 💬 290 • ⏱️ 10:56 • 6d ago
-
----
-
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 108K • 👍 3K • 💬 499 • ⏱️ 13:32 • 6d ago
-
----
-
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 7K • 👍 185 • 💬 35 • ⏱️ 10:42 • 4d ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 96K • 👍 4K • 💬 165 • ⏱️ 11:20 • 4d ago
+👁️ 17K • 👍 929 • 💬 59 • ⏱️ 2:38 • 15h ago
 
 ---
 
@@ -252,13 +214,23 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 ---
 
-**[UBTECH U WORLD U1: Ultra-Bionic Humanoid Robots](https://www.youtube.com/watch?v=HVSA83KpQes)**
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
 
-Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the future of personal robotics has arrived!
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
 
-📺 Zoom Vantage
+📺 Future Core
 
-👁️ 2K • 👍 60 • 💬 6 • ⏱️ 4:05 • 2d ago
+👁️ 169K • 👍 4K • 💬 293 • ⏱️ 10:56 • 6d ago
+
+---
+
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
+
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
+
+📺 AI Revolution
+
+👁️ 108K • 👍 3K • 💬 499 • ⏱️ 13:32 • 6d ago
 
 ---
 
@@ -268,7 +240,47 @@ The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in phy
 
 📺 1X
 
-👁️ 64K • 👍 3K • 💬 355 • ⏱️ 1:48 • 1d ago
+👁️ 67K • 👍 3K • 💬 367 • ⏱️ 1:48 • 1d ago
+
+---
+
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+
+📺 Kalil 4.0
+
+👁️ 8K • 👍 198 • 💬 34 • ⏱️ 10:42 • 4d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 97K • 👍 4K • 💬 167 • ⏱️ 11:20 • 4d ago
+
+---
+
+**[UBTECH U WORLD U1: Ultra-Bionic Humanoid Robots](https://www.youtube.com/watch?v=HVSA83KpQes)**
+
+Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the future of personal robotics has arrived!
+
+📺 Zoom Vantage
+
+👁️ 2K • 👍 62 • 💬 6 • ⏱️ 4:05 • 2d ago
+
+---
+
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+
+📺 Munro Live
+
+👁️ 50K • 👍 2K • 💬 216 • ⏱️ 38:47 • 2d ago
 
 ---
 
@@ -279,16 +291,6 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 📺 China Observer
 
 👁️ 68K • 👍 2K • 💬 560 • ⏱️ 20:21 • 3d ago
-
----
-
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
-
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
-
-📺 Munro Live
-
-👁️ 49K • 👍 2K • 💬 216 • ⏱️ 38:47 • 2d ago
 
 ---
 

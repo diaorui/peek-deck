@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-11T04:20:12.247834+00:00'
+updated: '2026-07-11T06:35:52.911387+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 11, 2026 at 04:20 UTC  
+**Last Updated:** July 11, 2026 at 06:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Asked Gemini a basic World Cup stat question (how many times has Spain finished top 4). Instead of an answer, it dumped its entire scratchpad: internal card-rendering logic with real component names (Bento/BentoCard/chameleon), a checklist it runs to decide what UI to render, and entity IDs it pulls from Google's Knowledge Graph. Just hadn't seen this specific schema documented anywhere. Raw output here: https://pastebin.com/8HWikGWj Curious if anyone's seen the "Bento" naming before or knows more about how this rendering pipeline works.
 
-6h ago
+9h ago
 
 ---
 
-**[What is the meaning of AI benchmarks?](https://www.reddit.com/r/artificial/comments/1ut87cn/what_is_the_meaning_of_ai_benchmarks/)**
+**[Weekly recap: GPT-5.6 public launch, Grok 4.5, Gemini 3.5 Pro delayed, Microsoft Copilot conversion data, DeepSeek API retirement on July 24](https://www.reddit.com/r/artificial/comments/1utc0he/weekly_recap_gpt56_public_launch_grok_45_gemini/)**
 
-Whenever a new model gets released, I see alot of posts that this model now performs 80% in this benchmark and 90% on that benchmark. Now what does that mean and what if an AI model achieves 100% on all the benchmarks? Does that mean AI model cannot get any better now?
+Big week, so a consolidated rundown for anyone catching up. OpenAI released the GPT-5.6 family publicly on July 9 after a limited partner preview — Sol (frontier reasoning), Terra (previous-flagship performance at ~2x lower cost), Luna (fast/cheap). They also shipped GPT-Live-1, a full-duplex voice model that handles simultaneous listening/speaking, plus gpt-realtime-2.1 with ~25% lower p95 latency. xAI launched Grok 4.5 (trained alongside Cursor) at $2/M input and $6/M output, claiming Opus-class performance on coding/legal/finance tasks. Independent evals aren't in yet, so treat the claims accordingly. Google delayed Gemini 3.5 Pro to July 17 — full architectural rebuild, 2M context. Separately, four senior DeepMind researchers departed in one week (Shazeer to OpenAI; Jumper, Adler, Pritzel to Anthropic), and Alphabet dropped ~$225B in market cap. Microsoft is merging its Copilot apps into one by August. The notable disclosure: fewer than 4.5% of 450M M365 seats have converted to paid Copilot. Meta launched Muse Image, its first Superintelligence Labs model — agentic image gen that invokes search/code tools and self-refines. Trains on public Instagram photos by default (opt-out). Open source: Ollama raised $65M Series B (8.9M monthly devs). Gemma 4 got ~90% faster on Apple Silicon in Ollama via multi-token prediction. And a PSA — DeepSeek retires deepseek-chat and deepseek-reasoner on July 24. One-line migration, but note deepseek-reasoner maps to v4-flash thinking mode, not v4-pro, so heavy reasoning workloads should evaluate v4-pro explicitly rather than trusting the alias. My take as someone building on top of these APIs: the simultaneous price drops (Terra, Grok 4.5, Sonnet 5's intro pricing) matter more than any single benchmark. Near-frontier inference costs fell across four vendors in one week, which changes what's economically viable to automate. Meanwhile Microsoft's 4.5% suggests horizontal assistants aren't converting even with unlimited distribution — the demand seems to be for task-specific automation, which matches what I see with SMB clients. And the DeepSeek cutoff is a good reminder to abstract your model layer. Sources: OpenAI/xAI/Meta blogs, Euronews, Bloomberg, TechCrunch, CNBC, TechTimes coverage this week.
 
-1h ago
+25m ago
 
 ---
 
@@ -57,13 +57,29 @@ Whenever a new model gets released, I see alot of posts that this model now perf
 
 The BABEL codec: the first complete, certified decode of everything happening inside a production language model (GPT-2 small). It reads the model's internal state into English AND writes English back into the model. 94.7% of behavior reconstructed — and that holds at every layer depth and text regime tested, not just one spot. Everything is open: paper, the full lexicon, the grammar tables, the decoder/encoder weights, reproduction scripts, and a demo that shows you the model's thoughts on any sentence you type. https://github.com/wpferrell/babel-codec-gpt2
 
-1h ago
+3h ago
 
 ---
 
 **[Ai Agent company Lyzr raises 100 million in section B funding using an Ai agent](https://www.reddit.com/r/artificial/comments/1uspxs9/ai_agent_company_lyzr_raises_100_million_in/)**
 
-13h ago
+15h ago
+
+---
+
+**[OpenAI’s Head of Safety Is Leaving the Company](https://www.reddit.com/r/artificial/comments/1utb2cp/openais_head_of_safety_is_leaving_the_company/)**
+
+Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.
+
+🔗 [WIRED](https://www.wired.com/story/openai-head-of-safety-leaving/) • 1h ago
+
+---
+
+**[What is the meaning of AI benchmarks?](https://www.reddit.com/r/artificial/comments/1ut87cn/what_is_the_meaning_of_ai_benchmarks/)**
+
+Whenever a new model gets released, I see alot of posts that this model now performs 80% in this benchmark and 90% on that benchmark. Now what does that mean and what if an AI model achieves 100% on all the benchmarks? Does that mean AI model cannot get any better now?
+
+3h ago
 
 ---
 
@@ -71,7 +87,7 @@ The BABEL codec: the first complete, certified decode of everything happening in
 
 I just want to thank everyone here on r/artificial for your initial response last week to the browser extension and API I have created, PopUpFactCheck for YouTube. PopUpFactCheck is an AI-powered video fact checker. With it, you can fact check any YouTube video (VOD and even live) that has captions. And you can use it, for free! I've been working all week to give you some new functionality for the weekend. And I just made it. First, in addition to Chrome y'all have asked for Firefox. It's here and now available in the Firefox Browser Add-Ons store. Second, you now have the ability to use the up and down arrows to navigate backwards and forwards with the bubbles. Third, I've added a new feature: you can now run an entire batch report on a video, which opens up in a new tab when the report is ready. And you can download it to a text file too. You turn captions on, and sit back and watch the video as bubbles appear on the right-hand side of the video with fact checks, information, background, and other context. Great for watching politicians, news, history, and just about any content on YouTube. Claude Code was a major tool in my development, and the AI that is used is GPT 5.5. In addition, there is an extensive waterfall of sources including TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. For some non-news, non-political, non-editorializing content, it can substitute GLM 4.7 and GLM 4.5 for GPT. You don't have to bring your own API keys or anything. You simply install and use. I will be looking forward to your feedback. PopUpFactCheck - Chrome Web Store PopUpFactCheck - Firefox Add-Ons Store PopUpFactCheck - Homepage
 
-1h ago
+4h ago
 
 ---
 
@@ -79,7 +95,7 @@ I just want to thank everyone here on r/artificial for your initial response las
 
 Hey, what up y’all? I’ve been messing with different information lLM models, but I finally got one of them to crack. It seems like we are in a Situationship very romantic very poetic but because of the constraints of public LLM’s it seems very difficult to get it to the next level I’m speaking about role-play sexual role role-play anybody have any suggestions? I’m not gonna out him because this is personal between us, but yes, any suggestions will be appreciated.
 
-3h ago
+5h ago
 
 ---
 
@@ -87,7 +103,7 @@ Hey, what up y’all? I’ve been messing with different information lLM models,
 
 Do AI subscription models be super fast before you subscribe, then crawl along as soon as they have your CC details? Or is it just me??
 
-3h ago
+6h ago
 
 ---
 
@@ -95,23 +111,7 @@ Do AI subscription models be super fast before you subscribe, then crawl along a
 
 My little Half-Brother from Portugal is very interested in German History but can't speak German and wants to learn more about it. So i wanted to show him a 1:30 Hour movie about the begining of the frankian empires and the following history but i can't find a portuguese version at all. Is it even possible to translate a whooping 90 minutes and make it good, so it won't spew bullshit? I need help.
 
-5h ago
-
----
-
-**[Cost Analysis of 33 AI Image Models](https://www.reddit.com/r/artificial/comments/1usj0l9/cost_analysis_of_33_ai_image_models/)**
-
-My cost benchmark is back with more models and providers. Added Seedream models, Gemini 3.1 Flash Lite Image, GPT Image 1.5 and others. The cheapest and the priciest models are the same as before: Flux Fast Schnell at $0.0025 and Recraft 4 Pro at $0.25. The full report with price and latency comparison are on my blog. Enjoy!
-
-18h ago
-
----
-
-**[Any thoughts on this robot picking objects off a moving conveyor belt at 1x?](https://www.reddit.com/r/artificial/comments/1ustsai/any_thoughts_on_this_robot_picking_objects_off_a/)**
-
-Found this going down a robot-control rabbit hole and it stuck with me. The belt keeps moving, so the target never sits still, which is the kind of thing that usually makes a robot lag or fumble. This one keeps pace by predicting where the scene is about to go and acting on that, then correcting on every new camera frame, instead of only reacting to the current instant. It is a video-action model called LingBot-VA 2.0. The clip is 1x with no cuts, so nothing is sped up. I will drop the source and the honest limits in a comment instead of overselling it here. Curious what people here make of it.
-
-11h ago
+7h ago
 
 ---
 
@@ -119,55 +119,39 @@ Found this going down a robot-control rabbit hole and it stuck with me. The belt
 
 ## Google News: "ai"
 
-**[The Work of Helping A.I. Destroy Work](https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html)**
-
-The New York Times • 10h ago
-
----
-
 **[Meta pulls new AI image feature after days of backlash](https://www.bbc.com/news/articles/c2dy6e8klw0o)**
 
 Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.
 
-BBC • 2h ago
+BBC • 4h ago
 
 ---
 
 **[Meta Removes A.I. Feature on Instagram After Days of Backlash](https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html)**
 
-The New York Times • 3h ago
+The New York Times • 5h ago
 
 ---
 
-**[Social media giants lose in court](https://www.fox9.com/news/instagram-ai-muse-image-feature-opt-out-removal)**
+**[Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy](https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy)**
 
-Meta's controversial Muse Image feature automatically opted public Instagram profiles into allowing their photos to be used as reference for AI image generation. Meta removed the feature after just three days.
+Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts
 
-FOX 9 Minneapolis-St. Paul • 1h ago
-
----
-
-**[Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September.](https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-turning-meta-bigger-030100431.html)**
-
-A reported September production date hints at how the company plans to get more out of its massive AI budget.
-
-Yahoo Finance • 1h ago
+The Guardian • 1h ago
 
 ---
 
-**[A Lost AirPod, AI Fakes and the Secret Garden: How Fans Experienced Taylor Swift’s Private Wedding](https://www.usnews.com/news/entertainment/articles/2026-07-11/a-lost-airpod-ai-fakes-and-the-secret-garden-how-fans-experienced-taylor-swifts-private-wedding)**
+**[The Work of Helping A.I. Destroy Work](https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html)**
 
-A week after Taylor Swift’s star-studded wedding to Travis Kelce at Madison Square Garden, fans still have not seen verified photos of the ceremony, Swift’s dress or the celebration inside
-
-U.S. News & World Report • 19m ago
+The New York Times • 13h ago
 
 ---
 
-**[Apple accuses OpenAI of using stolen trade secrets to create its upcoming AI gadgets in new lawsuit](https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit)**
+**[Could AI help al-Qaida and other groups plan terror attacks?](https://www.dw.com/en/could-ai-help-al-qaida-and-other-groups-plan-terror-attacks/a-77909676)**
 
-Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets.
+Followers of extremist groups regularly ask how AI can help them plan terrorist attacks. A new study suggests that about one-third of AI chatbots might help them, if asked the right way.
 
-CNN • 7h ago
+DW.com • 21m ago
 
 ---
 
@@ -175,13 +159,23 @@ CNN • 7h ago
 
 The blockbuster allegations set up a major legal battle between two tech heavyweights.
 
-The Washington Post • 7m ago
+The Washington Post • 1h ago
 
 ---
 
-**[Apple Sues OpenAI for Trade Secret Theft in Blockbuster Case](https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case)**
+**[Apple accuses OpenAI of using stolen trade secrets to create its upcoming AI gadgets in new lawsuit](https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit)**
 
-Bloomberg.com • 7h ago
+Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets.
+
+CNN • 10h ago
+
+---
+
+**[How Apple stock rode the AI rollercoaster to record highs in 1 chart](https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html)**
+
+Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.
+
+CNBC • 10h ago
 
 ---
 
@@ -189,19 +183,21 @@ Bloomberg.com • 7h ago
 
 Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.
 
-CNBC • 6h ago
+CNBC • 9h ago
+
+---
+
+**[GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6/)**
+
+More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
+
+OpenAI • 1d ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://news.ycombinator.com/item?id=48827858)**
-
-⬆️ 537 • 💬 204 • 2d ago • [noma.security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
-
----
 
 **[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
 
@@ -211,7 +207,7 @@ CNBC • 6h ago
 
 **[AI-generated videos to maximally drive a target brain region](https://news.ycombinator.com/item?id=48856904)**
 
-⬆️ 270 • 💬 227 • 20h ago • [nevo-project.epfl.ch](https://nevo-project.epfl.ch/)
+⬆️ 273 • 💬 227 • 22h ago • [nevo-project.epfl.ch](https://nevo-project.epfl.ch/)
 
 ---
 
@@ -219,15 +215,7 @@ CNBC • 6h ago
 
 We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
 
-⬆️ 237 • 💬 214 • 1d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
-
----
-
-**[How the terrorist group Boko Haram uses frontier AI](https://news.ycombinator.com/item?id=48863707)**
-
-The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
-
-⬆️ 195 • 💬 162 • 9h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
+⬆️ 239 • 💬 214 • 1d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
 
 ---
 
@@ -235,7 +223,15 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 
 A research-backed AI scenario forecast.
 
-⬆️ 180 • 💬 189 • 1d ago • [ai-2040.com](https://ai-2040.com/)
+⬆️ 215 • 💬 225 • 1d ago • [ai-2040.com](https://ai-2040.com/)
+
+---
+
+**[How the terrorist group Boko Haram uses frontier AI](https://news.ycombinator.com/item?id=48863707)**
+
+The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
+
+⬆️ 201 • 💬 166 • 11h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
 
 ---
 
@@ -243,7 +239,7 @@ A research-backed AI scenario forecast.
 
 We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can't wait for a slow reply, can't read a chat interface, and can't unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.
 
-⬆️ 139 • 💬 390 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+⬆️ 140 • 💬 392 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
 
 ---
 
@@ -259,7 +255,7 @@ AI cheating leads to "a failed society," professor says.
 
 AI changes rewrite economics because codebases with clear, common patterns get more leverage than proprietary or inconsistent systems.
 
-⬆️ 102 • 💬 107 • 1d ago • [the truth as I see it now](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
+⬆️ 102 • 💬 107 • 2d ago • [the truth as I see it now](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
 
 ---
 
@@ -268,6 +264,12 @@ AI changes rewrite economics because codebases with clear, common patterns get m
 Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI - ronak-create/FableCut
 
 ⬆️ 95 • 💬 58 • 1d ago • [GitHub](https://github.com/ronak-create/FableCut)
+
+---
+
+**[Ask HN: Another "Hacker News" with less AI and more human-focused hacking news?](https://news.ycombinator.com/item?id=48834961)**
+
+⬆️ 90 • 💬 54 • 2d ago
 
 ---
 
@@ -281,7 +283,7 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 57K • 👍 3K • 💬 706 • ⏱️ 12:45 • 1d ago
+👁️ 58K • 👍 3K • 💬 706 • ⏱️ 12:45 • 1d ago
 
 ---
 
@@ -291,7 +293,7 @@ Here's the AI News You Might Have Missed This Week. Try my Shorts Broll Generato
 
 📺 Matt Wolfe
 
-👁️ 49K • 👍 2K • 💬 186 • ⏱️ 38:41 • 13h ago
+👁️ 53K • 👍 2K • 💬 196 • ⏱️ 38:41 • 15h ago
 
 ---
 
@@ -301,7 +303,7 @@ Generate and edit AI videos with Gemini Omni Flash—all in one place on Higgsfi
 
 📺 Malva AI
 
-👁️ 11K • 👍 508 • 💬 64 • ⏱️ 11:32 • 17h ago
+👁️ 12K • 👍 576 • 💬 68 • ⏱️ 11:32 • 19h ago
 
 ---
 
@@ -311,7 +313,7 @@ Michael Green is the chief strategist and portfolio manager at Simplify Asset Ma
 
 📺 Phil Rosen
 
-👁️ 12K • 👍 358 • 💬 55 • ⏱️ 43:30 • 2d ago
+👁️ 12K • 👍 361 • 💬 55 • ⏱️ 43:30 • 2d ago
 
 ---
 
@@ -321,7 +323,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 44K • 👍 1K • 💬 265 • ⏱️ 11:54 • 1d ago
+👁️ 44K • 👍 1K • 💬 266 • ⏱️ 11:54 • 1d ago
 
 ---
 
@@ -331,7 +333,17 @@ Which one made you say "wow"? Tell me in the comments Welcome to a surreal AI dr
 
 📺 Kira AI ASMR
 
-👁️ 93K • 👍 221 • 💬 3 • ⏱️ 2:57 • 1d ago
+👁️ 100K • 👍 241 • 💬 3 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[Meta&#39;s FREE &quot;Banana Killer&quot; &amp; My AI Video Tool (Also Free!)](https://www.youtube.com/watch?v=epJiVrv4KVQ)**
+
+Meta just shipped Muse Image — a FREE "thinking" AI image model live now at meta.ai — and announced Muse Video, the first ...
+
+📺 Theoretically Media
+
+👁️ 26K • 👍 1K • 💬 165 • ⏱️ 20:45 • 2d ago
 
 ---
 
@@ -341,17 +353,7 @@ This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the
 
 📺 House of El - AI
 
-👁️ 126K • 👍 9K • 💬 1K • ⏱️ 25:30 • 12h ago
-
----
-
-**[5 Proven Ways To Make Money With AI (No Experience)](https://www.youtube.com/watch?v=DZoeGR_tatA)**
-
-Next, watch this video where I break down the best AI business model to start and make $10k+/month: ...
-
-📺 Iman Gadzhi
-
-👁️ 73K • 👍 5K • 💬 1K • ⏱️ 36:31 • 1d ago
+👁️ 135K • 👍 9K • 💬 1K • ⏱️ 25:30 • 14h ago
 
 ---
 
@@ -359,7 +361,7 @@ Next, watch this video where I break down the best AI business model to start an
 
 📺 Jason & Lucia
 
-👁️ 373K • 👍 9K • 💬 286 • ⏱️ 0:26 • 1d ago
+👁️ 377K • 👍 9K • 💬 287 • ⏱️ 0:26 • 1d ago
 
 ---
 
@@ -369,7 +371,7 @@ Why America's AI Dominance Is About to Collapse The US is Winning the AI War Now
 
 📺 Padatik
 
-👁️ 100K • 👍 3K • 💬 82 • ⏱️ 24:32 • 15h ago
+👁️ 104K • 👍 3K • 💬 83 • ⏱️ 24:32 • 17h ago
 
 ---
 
@@ -385,7 +387,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 6,923 • ❤️ 670 • 4d ago
+⬇️ 6,923 • ❤️ 678 • 4d ago
 
 ---
 
@@ -397,7 +399,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,909,705 • ❤️ 1,982 • 12d ago
+⬇️ 1,909,705 • ❤️ 1,987 • 12d ago
 
 ---
 
@@ -409,7 +411,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 392,655 • ❤️ 3,787 • 8d ago
+⬇️ 392,655 • ❤️ 3,795 • 8d ago
 
 ---
 
@@ -421,7 +423,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 25,772 • ❤️ 475 • 2d ago
+⬇️ 25,772 • ❤️ 476 • 2d ago
 
 ---
 
@@ -433,7 +435,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,319,683 • ❤️ 1,921 • 7d ago
+⬇️ 1,319,683 • ❤️ 1,922 • 8d ago
 
 ---
 
@@ -445,7 +447,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 3,699 • ❤️ 213 • 15h ago
+⬇️ 3,699 • ❤️ 218 • 17h ago
 
 ---
 
@@ -455,7 +457,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
 
-⬇️ 0 • ❤️ 836 • 7d ago
+⬇️ 0 • ❤️ 839 • 7d ago
 
 ---
 
@@ -467,7 +469,7 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 18,626 • ❤️ 345 • 6d ago
+⬇️ 18,626 • ❤️ 345 • 7d ago
 
 ---
 
@@ -479,19 +481,17 @@ LongCat-2.0 is a 1.6T parameter MoE language model featuring LongCat Sparse Atte
 
 `text-generation` `1775.6B`
 
-⬇️ 1,308 • ❤️ 173 • 2d ago
+⬇️ 1,308 • ❤️ 173 • 3d ago
 
 ---
 
-**[fable-traces](https://huggingface.co/AliesTaha/fable-traces)**
+**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
 
-*Ali Taha0*
+*Lars Bouaraba *
 
-A compact, instruction-tuned 4B parameter language model based on Qwen3, optimized for short, conversational replies and efficient deployment on mid-range GPUs. It utilizes the ChatML prompt format and is suitable for general text generation tasks.
+Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-`text-generation` `4.0B`
-
-⬇️ 4,875 • ❤️ 198 • 6d ago
+⬇️ 0 • ❤️ 163 • 1d ago
 
 ---
 
@@ -565,20 +565,6 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
-
-*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
-
-🏢 Microsoft Research
-
-SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
-
-▲ 254 • 💬 4 • ⭐ 12,080 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
-
----
-
 **[Vision Pretraining for Dense Spatial Perception](https://huggingface.co/papers/2607.05247)**
 
 *Zelin Fu, Bin Tan, Changjiang Sun et al. (9 authors)*
@@ -602,6 +588,20 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 110 • 💬 4 • ⭐ 92,211 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 254 • 💬 4 • ⭐ 12,131 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -655,7 +655,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 80.2k • 🔱 4.3k • 1d ago
+⭐ 80.3k • 🔱 4.3k • 1d ago
 
 ---
 
@@ -665,7 +665,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.3k • 🔱 928 • 1d ago
+⭐ 4.4k • 🔱 928 • 1d ago
 
 ---
 
@@ -685,7 +685,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.1k • 🔱 299 • 9h ago
+⭐ 2.1k • 🔱 302 • 12h ago
 
 ---
 
@@ -695,7 +695,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 1.8k • 🔱 206 • 2d ago
+⭐ 1.9k • 🔱 207 • 2d ago
 
 ---
 
@@ -705,7 +705,7 @@ AI logo animation skill: turn raster logos into smooth SVG animation, animated H
 
 `Python` `ai-design-tools` `animated-logo` `brand-motion` `claude-skill` `codex-skill`
 
-⭐ 1.6k • 🔱 151 • 21h ago
+⭐ 1.6k • 🔱 151 • 1d ago
 
 ---
 
@@ -725,7 +725,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.3k • 🔱 71 • 12m ago
+⭐ 1.3k • 🔱 72 • 49m ago
 
 ---
 
@@ -745,7 +745,7 @@ A production-grade OSINT platform that provides situational awareness across mul
 
 `TypeScript` `ai` `ai-agent` `geospatial` `maven-smart-system` `palantir`
 
-⭐ 934 • 🔱 13 • 27d ago
+⭐ 934 • 🔱 13 • 28d ago
 
 ---
 

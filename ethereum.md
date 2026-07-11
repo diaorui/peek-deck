@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-11T04:20:12.258795+00:00'
+updated: '2026-07-11T06:35:52.925901+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 04:20 UTC  
+**Last Updated:** July 11, 2026 at 06:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.8%  
-**30d:** +7.8%  
-**90d:** -24.2%  
-**1y:** -38.9%  
+**24h:** +1.6%  
+**7d:** +1.0%  
+**30d:** +8.1%  
+**90d:** -24.0%  
+**1y:** -38.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.73B
+**Market Cap:** $217.20B
 Rank #2
 
 **Circulating Supply:** 120,683,053 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-63.6%
 
 **All-Time Low:** $0.43
-+414601.4%
++415682.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -106,7 +106,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -114,7 +114,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about the post quantum migration for a while and built a small tool that scores exposure risk for any Ethereum address. How it works: every ECDSA signed transaction reveals the signer's public key on chain. Once you have sent one transaction from an address, that public key is on chain permanently. If a sufficiently capable quantum computer arrives, it can derive the private key from that public key using Shor's algorithm. The tool takes any EVM address or ENS name and returns: - Whether the public key is already on chain (exposed) - The value at risk - How long the exposure has existed - A 0 to 100 exposure score Read only. No wallet connection. No signup. claak.io/scan Vitalik.eth is prefilled as a demo. The scanner is free and standalone. Full disclosure: I contribute to Claak, but this post is about the scanner as an open piece of crypto tooling for the community. Google's March paper cut the qubit threshold to roughly 1,152 logical qubits. Eigen Labs' open ecdsa.fail benchmark is past Google. NSA has set 2030 as the migration deadline. Happy to walk through methodology if anyone is curious. What score did you get on your main address?
 
-3d ago
+4d ago
 
 ---
 
@@ -130,7 +130,7 @@ does decentralized governance in DAOs really work? this is an almost existential
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -152,19 +152,19 @@ ethereum.org • 1d ago
 
 ---
 
+**[Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization](https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization)**
+
+Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
+
+The Block • 14h ago
+
+---
+
 **[Tom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-flags-interesting-ethereum-182915798.html)**
 
 Tom Lee shared a technical analysis by former Bank of America technical strategist Stephen Suttmeier suggesting Ethereum may be forming a short-term bottom after months of weakness.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization](https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization)**
-
-Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
-
-The Block • 12h ago
 
 ---
 
@@ -180,13 +180,13 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
+Fortune • 20h ago
 
 ---
 
 **[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
 
-MarketWatch • 14h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -194,7 +194,7 @@ MarketWatch • 14h ago
 
 MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
-markets.businessinsider.com • 22h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -208,15 +208,15 @@ FXStreet • 1d ago
 
 **[Best Ethereum Staking Platforms in 2026](https://www.ccn.com/crypto-investing/exchanges/best-ethereum-staking-platforms/)**
 
-CCN.com • 13h ago
+CCN.com • 15h ago
 
 ---
 
-**[Ethereum faces $87M short bet – Can ETH bulls defend $1,580?](https://ambcrypto.com/ethereum-faces-87m-short-bet-can-eth-bulls-defend-1580/)**
+**[Bitcoin reclaims the cloud as Ethereum and Altcoin rotation strengthen](https://www.kitco.com/opinion/2026-07-10/bitcoin-reclaims-cloud-ethereum-and-altcoin-rotation-strengthen)**
 
-Ethereum bulls face a crucial battle as a massive short position, Vitalik’s ETH transfer, and rising macro risks threaten key support.
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin closed green back inside the daily TBO Cloud on Thursday, while Ethereum remained in bullish consolidation and dominance charts continued to support the July rotation setup.Bitcoin reclaims the CloudBTC is back inside the Cloud with $64,700, $65,622 and $67,292 the next chart targets.Ethereum remains the cleaner major chartETH held bullish consolidation and is working on a second TBO Close Short, with immediate resistance around $1,830-$1,850.Dominance supports rotationStablecoin dominance is working on another Close Long, BTC.D is working on a Close Short, and ETH.D/SOL.D remain constructive. DXY could provide macro reliefDXY pierced the Cloud again and looks primed to reverse toward support, which would ease USDJPY and help risk assets.Gold and commoditiesGold printed a second TBT Bullish Divergence even as crypto’s July strength creates a more balanced cross-market picture.Selective altcoin setupsSOL is bouncing from the Fast line, with HYPE, AERO, ZRO, XTZ, 2Z and VVV also constructive. Stay cautious with overbought MORPHO/BCH and structurally weak WLD.Join The Better Traders Club for the full daily report.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
 
-AMBCrypto • 1d ago
+KITCO • 14h ago
 
 ---
 
@@ -230,7 +230,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 66 • 💬 72 • ⏱️ 35:55 • 9h ago
+👁️ 2K • 👍 73 • 💬 73 • ⏱️ 35:55 • 11h ago
 
 ---
 
@@ -240,47 +240,7 @@ On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennif
 
 📺 CoinDesk
 
-👁️ 833 • 👍 28 • 💬 20 • ⏱️ 22:55 • 13h ago
-
----
-
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=hNVJNtaBdWQ)**
-
-In this video I break down the current Ethereum price action to determine if we are seeing a true trend reversal or just another ...
-
-📺 More Crypto Online
-
-👁️ 554 • 👍 55 • 💬 23 • ⏱️ 7:25 • 3h ago
-
----
-
-**[Wartime Ethereum: The Case For ETH Going Much Higher](https://www.youtube.com/watch?v=QQcI8y1NJ8M)**
-
-John Gillen is an ex-BlackRock VP, General Partner at TRU Capital, and host of The Milk Road Show. In this episode, John ...
-
-📺 DeFi Dad
-
-👁️ 541 • 👍 23 • 💬 1 • ⏱️ 1:20:06 • 11h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=QWKYctMoKhU)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 171 • 👍 27 • ⏱️ 6:43 • 53m ago
-
----
-
-**[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 228 • 💬 38 • ⏱️ 13:21 • 2d ago
+👁️ 941 • 👍 31 • 💬 19 • ⏱️ 22:55 • 15h ago
 
 ---
 
@@ -290,7 +250,47 @@ BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 3K • 👍 214 • 💬 111 • ⏱️ 21:55 • 6h ago
+👁️ 4K • 👍 239 • 💬 112 • ⏱️ 21:55 • 8h ago
+
+---
+
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=hNVJNtaBdWQ)**
+
+In this video I break down the current Ethereum price action to determine if we are seeing a true trend reversal or just another ...
+
+📺 More Crypto Online
+
+👁️ 876 • 👍 86 • 💬 16 • ⏱️ 7:25 • 5h ago
+
+---
+
+**[Wartime Ethereum: The Case For ETH Going Much Higher](https://www.youtube.com/watch?v=QQcI8y1NJ8M)**
+
+John Gillen is an ex-BlackRock VP, General Partner at TRU Capital, and host of The Milk Road Show. In this episode, John ...
+
+📺 DeFi Dad
+
+👁️ 691 • 👍 26 • 💬 1 • ⏱️ 1:20:06 • 14h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=QWKYctMoKhU)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 423 • 👍 57 • ⏱️ 6:43 • 3h ago
+
+---
+
+**[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 230 • 💬 38 • ⏱️ 13:21 • 2d ago
 
 ---
 
@@ -300,27 +300,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 231 • 💬 50 • ⏱️ 18:35 • 1d ago
+👁️ 5K • 👍 234 • 💬 51 • ⏱️ 18:35 • 1d ago
 
 ---
 
-**[Ethereum Price Prediction - Don&#39;t Be The Entry Liquidity [ETH Crypto Price Analysis]](https://www.youtube.com/watch?v=Jd53Ur7gOaY)**
+**[BlackRock Just Paid Its First Ethereum Paycheck Into Retirement Accounts](https://www.youtube.com/watch?v=Lm-Iw2EhLIs)**
 
-Ethereum cryptocurrency price analysis. ETH cryptocurrency price prediction. Ethereum price prediction. Ethereum price today.
+BlackRock just paid its first crypto staking paycheck, $351669.96, and it landed in ordinary brokerage accounts while nobody was ...
 
-📺 HueFin News
+📺 Alexander Lorenzo
 
-👁️ 34 • ⏱️ 6:11 • 4h ago
+👁️ 6K • 👍 533 • 💬 14 • ⏱️ 2:52 • 1d ago
 
 ---
 
-**[BITCOIN: I Was WRONG! (here&#39;s what&#39;s next) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=zV21wpvSl5k)**
+**[🚨 BTC &amp; ETH: MY LAST YT VIDEO!!! BUT MOST IMPORTANT ONE!! YOU HAVE TO SEE THIS NOW!](https://www.youtube.com/watch?v=mzqA6MJSsGw)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+This is my last video in this format. But I think its most important one. ---------- Join My FREE Trading Group & School: ...
 
-📺 BitcoinHyper
+📺 Thomas Kralow
 
-👁️ 6K • 👍 364 • 💬 129 • ⏱️ 15:45 • 17h ago
+👁️ 19K • 👍 1K • 💬 54 • ⏱️ 13:33 • 1d ago
 
 ---
 
