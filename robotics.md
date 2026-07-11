@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T20:23:30.524820+00:00'
+updated: '2026-07-11T21:22:34.145093+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 20:23 UTC  
+**Last Updated:** July 11, 2026 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,13 +56,13 @@ For aesthetic reasons, robots are typically equipped with outer casings around t
 
 **[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 11h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 12h ago
 
 ---
 
 **[Ground Robots Inherit the Kill Zone - Ukrainian roboticists build toward a human-free frontline](https://www.reddit.com/r/robotics/comments/1utclru/ground_robots_inherit_the_kill_zone_ukrainian/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -126,7 +126,7 @@ Mashable • 2d ago
 
 **[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
 
-Tech Xplore • 4h ago
+Tech Xplore • 5h ago
 
 ---
 
@@ -142,7 +142,7 @@ TechCrunch • 3d ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Reuters • 1d ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 5h ago
+mistral.ai • 6h ago
 
 ---
 
@@ -190,7 +190,7 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 19K • 👍 356 • 💬 136 • ⏱️ 1:54 • 1d ago
+👁️ 21K • 👍 394 • 💬 165 • ⏱️ 1:54 • 1d ago
 
 ---
 
@@ -200,45 +200,7 @@ Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC dea
 
 📺 Fox Business Clips
 
-👁️ 12K • 👍 196 • 💬 83 • ⏱️ 8:37 • 2d ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 17K • 👍 1K • 💬 16 • ⏱️ 1:03 • 4h ago
-
----
-
-**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
-
-In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
-
-📺 DW News
-
-👁️ 29K • 👍 1K • 💬 80 • ⏱️ 2:38 • 1d ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
-
-America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
-
-📺 Future Core
-
-👁️ 173K • 👍 5K • 💬 301 • ⏱️ 10:56 • 6d ago
-
----
-
-**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
-
-China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
-
-📺 AI Revolution
-
-👁️ 110K • 👍 3K • 💬 514 • ⏱️ 13:32 • 6d ago
+👁️ 13K • 👍 198 • 💬 92 • ⏱️ 8:37 • 2d ago
 
 ---
 
@@ -248,17 +210,55 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 📺 FOU News
 
-👁️ 1.2M • 👍 19K • 💬 3K • ⏱️ 0:22 • 6d ago
+👁️ 1.2M • 👍 20K • 💬 3K • ⏱️ 0:22 • 6d ago
 
 ---
 
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
 
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
 
-📺 China Observer
+📺 Future Core
 
-👁️ 69K • 👍 2K • 💬 568 • ⏱️ 20:21 • 3d ago
+👁️ 174K • 👍 5K • 💬 301 • ⏱️ 10:56 • 6d ago
+
+---
+
+**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
+
+In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
+
+📺 DW News
+
+👁️ 30K • 👍 1K • 💬 80 • ⏱️ 2:38 • 1d ago
+
+---
+
+**[China Just Dropped An Ultra-Bionic AI Human Replica Robot](https://www.youtube.com/watch?v=kjqWO8kFk7M)**
+
+China just revealed the U-World U1, a full-size ultra-bionic humanoid robot built for mass production. But the real story is not just ...
+
+📺 AI Revolution
+
+👁️ 111K • 👍 3K • 💬 515 • ⏱️ 13:32 • 6d ago
+
+---
+
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+
+📺 Kalil 4.0
+
+👁️ 11K • 👍 277 • 💬 47 • ⏱️ 10:42 • 5d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 28K • 👍 1K • 💬 22 • ⏱️ 1:03 • 5h ago
 
 ---
 
@@ -268,17 +268,17 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 104K • 👍 5K • 💬 169 • ⏱️ 11:20 • 5d ago
+👁️ 105K • 👍 5K • 💬 169 • ⏱️ 11:20 • 5d ago
 
 ---
 
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
 
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
 
-📺 Munro Live
+📺 China Observer
 
-👁️ 56K • 👍 2K • 💬 221 • ⏱️ 38:47 • 3d ago
+👁️ 69K • 👍 2K • 💬 569 • ⏱️ 20:21 • 3d ago
 
 ---
 
