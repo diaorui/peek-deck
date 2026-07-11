@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-11T17:59:26.571345+00:00'
+updated: '2026-07-11T19:18:09.567704+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 17:59 UTC  
+**Last Updated:** July 11, 2026 at 19:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +2.3%  
-**30d:** +9.5%  
+**24h:** +1.8%  
+**7d:** +2.4%  
+**30d:** +9.6%  
 **90d:** -23.0%  
 **1y:** -37.9%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $219.56B
+**Market Cap:** $220.07B
 Rank #2
 
 **Circulating Supply:** 120,683,053 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.2%
+-63.1%
 
 **All-Time Low:** $0.43
-+420310.7%
++421038.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, De
 
 I feel like that was the endgame of defi. You put $2000 in a perpetual futures vault, or some combination of blue chip pools, and then you spend 25 cents a day to bribe your way out of ads. Why did nobody integrate web3? People spent more in gas to move a jpeg than a monthly news subscription. I should be able to use fixed yield tools to continuously fund my favorite websites and creators, without either party exposing themselves to insolvency risk. The tooling is there to build yield-based subscription models, but very few sites are integrating with the Metamask compatible framework that all the gambling sites run on. It's like stepping into the future for a brief moment, only that they offer something that is mathematically predestined to reward specific behaviors over others in a negative sum fashion given the gas cost to do anything (it's still cheaper and more open than traditional payment routing methods). If the NYT needs 4 bucks a month to run, let me park $100 in some fixed-yield derivative of a degen farm where the future payout is guaranteed to the site for a year or something. I get like $90 bucks back on a bad year when I unlock my liquidity provisions, and we both make out in the green, because either the degen yield trader lost the farm, or leverage users had a Tuesday. Assuming the internet remains primarily free and ad driven, what obstacles are we dealing with?
 
-13h ago
+14h ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -178,7 +178,7 @@ ethereum.org • 2d ago
 
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -186,7 +186,15 @@ Decrypt • 1h ago
 
 Tom Lee shared a technical analysis by former Bank of America technical strategist Stephen Suttmeier suggesting Ethereum may be forming a short-term bottom after months of weakness.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Based New Crypto Pepeto Reports Exchange Launch Progress as Funding Climbs Past $10.4M](https://markets.businessinsider.com/news/stocks/ethereum-based-new-crypto-pepeto-reports-exchange-launch-progress-as-funding-climbs-past-10-4m-1036316421)**
+
+DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -196,11 +204,11 @@ MarketWatch • 1d ago
 
 ---
 
-**[US spot Bitcoin ETFs see $90M inflows, Ethereum ETFs add $18M on July 10](https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-july-10/)**
+**[Crypto Today: Bitcoin, Ethereum, XRP hold recovery levels amid minor ETF outflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-recovery-levels-amid-minor-etf-outflows-202607102300)**
 
-US spot Bitcoin ETFs saw $90.4M in net inflows on July 10 while Ethereum ETFs added $18.4M, signaling cautious recovery after June's record $4B outflows.
+The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
 
-Crypto Briefing • 12h ago
+FXStreet • 20h ago
 
 ---
 
@@ -210,19 +218,9 @@ Binance • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP hold recovery levels amid minor ETF outflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-recovery-levels-amid-minor-etf-outflows-202607102300)**
+**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
-The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
-
-FXStreet • 18h ago
-
----
-
-**[Crypto Prices Today: BTC, ETH and XRP Price Rally](https://www.tradingview.com/news/coinpedia:fa9b2088a094b:0-crypto-prices-today-btc-eth-and-xrp-price-rally/)**
-
-Crypto Prices today are back in the green as Bitcoin BITSTAMP:BTCUSD, Ethereum BITSTAMP:ETHUSD, and XRP posted gains of nearly 1.5% over the past 24 hours, lifting sentiment across the broader crypto market. While the price action appears modest at first glance, on-chain data suggests a much strong…
-
-TradingView • 1d ago
+thestreet.com • 1h ago
 
 ---
 
@@ -230,13 +228,23 @@ TradingView • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee: &quot;Ethereum to $40,000 At This Date&quot; [SUPER REALISTIC $40,000 Prediction for Ethereum]](https://www.youtube.com/watch?v=mSaGuGBSeVQ)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 355 • 👍 29 • 💬 16 • ⏱️ 18:37 • 1h ago
+
+---
+
 **[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
 
 Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
 
 📺 Milk Road
 
-👁️ 337 • 👍 30 • 💬 73 • ⏱️ 10:43 • 3h ago
+👁️ 608 • 👍 47 • 💬 75 • ⏱️ 10:43 • 5h ago
 
 ---
 
@@ -246,7 +254,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 1K • 👍 226 • 💬 203 • ⏱️ 24:07 • 3h ago
+👁️ 2K • 👍 321 • 💬 291 • ⏱️ 24:07 • 4h ago
+
+---
+
+**[HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows](https://www.youtube.com/watch?v=mTjKDEh-A3U)**
+
+HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows Support The O Show with Ref Links: ...
+
+📺 CryptoWendyO
+
+👁️ 836 • 👍 109 • 💬 4 • ⏱️ 9:31 • 1h ago
 
 ---
 
@@ -256,27 +274,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 7K • 👍 321 • 💬 67 • ⏱️ 6:02 • 9h ago
-
----
-
-**[The Institutional Case for Ethereum AND Solana](https://www.youtube.com/watch?v=_6SKVy0WOAY)**
-
-Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 101 • 💬 96 • ⏱️ 35:55 • 23h ago
-
----
-
-**[Ethereum Must Move Faster or Risk Losing Its Edge Says Starkware Founder](https://www.youtube.com/watch?v=gyjUGylfCgU)**
-
-On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ...
-
-📺 CoinDesk
-
-👁️ 2K • 👍 44 • 💬 16 • ⏱️ 22:55 • 1d ago
+👁️ 8K • 👍 330 • 💬 67 • ⏱️ 6:02 • 11h ago
 
 ---
 
@@ -286,17 +284,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 248 • 💬 65 • ⏱️ 18:35 • 1d ago
+👁️ 6K • 👍 251 • 💬 65 • ⏱️ 18:35 • 2d ago
 
 ---
 
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=hNVJNtaBdWQ)**
+**[The Institutional Case for Ethereum AND Solana](https://www.youtube.com/watch?v=_6SKVy0WOAY)**
 
-In this video I break down the current Ethereum price action to determine if we are seeing a true trend reversal or just another ...
+Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
 
-📺 More Crypto Online
+📺 Milk Road
 
-👁️ 3K • 👍 181 • 💬 31 • ⏱️ 7:25 • 17h ago
+👁️ 3K • 👍 108 • 💬 97 • ⏱️ 35:55 • 1d ago
 
 ---
 
@@ -306,27 +304,27 @@ John Gillen is an ex-BlackRock VP, General Partner at TRU Capital, and host of T
 
 📺 DeFi Dad
 
-👁️ 2K • 👍 43 • 💬 37 • ⏱️ 1:20:06 • 1d ago
+👁️ 2K • 👍 47 • 💬 37 • ⏱️ 1:20:06 • 1d ago
 
 ---
 
-**[ETH BREAKOUT COMING SOON (Ethereum Update)](https://www.youtube.com/watch?v=JLD5kWh-g00)**
+**[Ethereum Must Move Faster or Risk Losing Its Edge Says Starkware Founder](https://www.youtube.com/watch?v=gyjUGylfCgU)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ...
 
-📺 Cilinix Crypto
+📺 CoinDesk
 
-👁️ 115 • 👍 10 • 💬 9 • ⏱️ 4:19 • 8h ago
+👁️ 2K • 👍 46 • 💬 17 • ⏱️ 22:55 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=KZ0HYbFwSsY)**
+**[🚨 BTC &amp; ETH: MY LAST YT VIDEO!!! BUT MOST IMPORTANT ONE!! YOU HAVE TO SEE THIS NOW!](https://www.youtube.com/watch?v=mzqA6MJSsGw)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+This is my last video in this format. But I think its most important one. ---------- Join My FREE Trading Group & School: ...
 
-📺 Profit First
+📺 Thomas Kralow
 
-👁️ 218 • 👍 32 • ⏱️ 6:23 • 2h ago
+👁️ 21K • 👍 1K • 💬 64 • ⏱️ 13:33 • 2d ago
 
 ---
 
