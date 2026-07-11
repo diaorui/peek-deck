@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T01:00:05.770567+00:00'
+updated: '2026-07-11T04:20:12.261029+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 01:00 UTC  
+**Last Updated:** July 11, 2026 at 04:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,7 +126,7 @@ Ars Technica • 1d ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 9h ago
+New Atlas • 13h ago
 
 ---
 
@@ -146,7 +146,15 @@ Reuters • 2d ago
 
 The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
 
-Fast Company • 14h ago
+Fast Company • 18h ago
+
+---
+
+**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://finance.yahoo.com/technology/ai/articles/altera-returns-growth-ai-robotics-184232312.html)**
+
+Altera, a maker of programmable chips spun out of Intel, is growing roughly 20% a year and more than ‌doubling operating income as it prepares for an eventual public listing, Chief Executive Raghib ‌Hussain told Reuters in an interview.  Altera became fully independent last September after Intel agreed to sell a 51% stake ​to Silver Lake for $4.46 billion in a transaction valuing Altera at $8.75 billion.  Intel retains a 49% stake.
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -154,7 +162,7 @@ Fast Company • 14h ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 4h ago
+mistral.ai • 7h ago
 
 ---
 
@@ -163,14 +171,6 @@ mistral.ai • 4h ago
 The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
 
 Business Insider • 1d ago
-
----
-
-**[BlackBerry Sees Strong Pipeline Across Robotics and Automation](https://finance.yahoo.com/technology/articles/blackberry-sees-strong-pipeline-across-121800442.html)**
-
-BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -192,13 +192,23 @@ Seeking Alpha • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
+
+In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
+
+📺 DW News
+
+👁️ 15K • 👍 782 • 💬 56 • ⏱️ 2:38 • 13h ago
+
+---
+
 **[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=wVXp983ciOE)**
 
 America's New Humanoid Robot Is Shocking Everyone The United States is known around the world for leading the tech ...
 
 📺 Future Core
 
-👁️ 161K • 👍 4K • 💬 277 • ⏱️ 10:56 • 6d ago
+👁️ 167K • 👍 4K • 💬 290 • ⏱️ 10:56 • 6d ago
 
 ---
 
@@ -208,37 +218,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 107K • 👍 3K • 💬 496 • ⏱️ 13:32 • 6d ago
-
----
-
-**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
-
-In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
-
-📺 DW News
-
-👁️ 11K • 👍 567 • 💬 41 • ⏱️ 2:38 • 9h ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 94K • 👍 4K • 💬 164 • ⏱️ 11:20 • 4d ago
-
----
-
-**[Robot’s first day at call center ends in full kung fu meltdown office chaos on CCTV](https://www.youtube.com/watch?v=saSGzM_tVx8)**
-
-Jul 5, 2026 Security camera footage from an office in China captures a startling malfunction involving a Unitree humanoid robot ...
-
-📺 FOU News
-
-👁️ 1.2M • 👍 18K • 💬 2K • ⏱️ 0:22 • 5d ago
+👁️ 108K • 👍 3K • 💬 499 • ⏱️ 13:32 • 6d ago
 
 ---
 
@@ -248,7 +228,37 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 7K • 👍 168 • 💬 34 • ⏱️ 10:42 • 4d ago
+👁️ 7K • 👍 185 • 💬 35 • ⏱️ 10:42 • 4d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 96K • 👍 4K • 💬 165 • ⏱️ 11:20 • 4d ago
+
+---
+
+**[Robot’s first day at call center ends in full kung fu meltdown office chaos on CCTV](https://www.youtube.com/watch?v=saSGzM_tVx8)**
+
+Jul 5, 2026 Security camera footage from an office in China captures a startling malfunction involving a Unitree humanoid robot ...
+
+📺 FOU News
+
+👁️ 1.2M • 👍 19K • 💬 2K • ⏱️ 0:22 • 5d ago
+
+---
+
+**[UBTECH U WORLD U1: Ultra-Bionic Humanoid Robots](https://www.youtube.com/watch?v=HVSA83KpQes)**
+
+Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the future of personal robotics has arrived!
+
+📺 Zoom Vantage
+
+👁️ 2K • 👍 60 • 💬 6 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -258,7 +268,7 @@ The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in phy
 
 📺 1X
 
-👁️ 58K • 👍 3K • 💬 335 • ⏱️ 1:48 • 1d ago
+👁️ 64K • 👍 3K • 💬 355 • ⏱️ 1:48 • 1d ago
 
 ---
 
@@ -268,27 +278,17 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 68K • 👍 2K • 💬 558 • ⏱️ 20:21 • 3d ago
+👁️ 68K • 👍 2K • 💬 560 • ⏱️ 20:21 • 3d ago
 
 ---
 
-**[A Robot RUINED Her Hair (SEND HELP)](https://www.youtube.com/watch?v=JrRiS48ikh4)**
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
 
-Hi beautiful! We have the most unexpected mix of videos and I am so excited to get into all of it. We have a coontail transformation ...
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
 
-📺 Brad Mondo
+📺 Munro Live
 
-👁️ 293K • 👍 11K • 💬 821 • ⏱️ 53:37 • 5d ago
-
----
-
-**[Meet Beni, Your First Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=rBETwu7ssVw)**
-
-Meet Beni — a camera robot built for the moments that are great to live but hard to film. Under 4 lb. Up to 17.8 mph. Jumps, flips ...
-
-📺 Mondo Robotics
-
-👁️ 55K • 👍 317 • 💬 43 • ⏱️ 2:44 • 2d ago
+👁️ 49K • 👍 2K • 💬 216 • ⏱️ 38:47 • 2d ago
 
 ---
 

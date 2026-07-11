@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-11T01:00:05.760813+00:00'
+updated: '2026-07-11T04:20:12.254548+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 01:00 UTC  
+**Last Updated:** July 11, 2026 at 04:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,099.12
+### $64,166.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +0.8%  
-**30d:** +0.9%  
-**90d:** -13.9%  
+**24h:** +0.0%  
+**7d:** +0.7%  
+**30d:** +0.8%  
+**90d:** -14.0%  
 **1y:** -45.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1285.23B
+**Market Cap:** $1284.51B
 Rank #1
 
-**Circulating Supply:** 20,054,621 BTC
+**Circulating Supply:** 20,054,700 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.2%
 
 **All-Time Low:** $67.81
-+94409.7%
++94355.1%
 
 ---
 
@@ -157,31 +157,35 @@ This took a lot of work and would love your feedback on what's missing, what can
 
 ## Google News: "bitcoin"
 
-**[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
+**[Bitcoin halving cycle history challenges $300,000–$500,000 moonshot forecasts](https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no)**
 
-Bloomberg.com • 1d ago
+Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.
 
----
-
-**[Bitcoin's $60,000-$70,000 range becomes third most traded range in history](https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history)**
-
-Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band.
-
-CoinDesk • 15h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Weekly Wrap: Bitcoin Has A Winning Week](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-winning-week-224700796.html)**
+**[Even with Gold Below $4,150 and Bitcoin Under $64,000, I'd Still Rather Buy This Unstoppable Dividend Stock in July](https://www.fool.com/investing/2026/07/10/even-with-gold-below-4150-and-bitcoin-under-64000/)**
 
-Bitcoin (CRYPTO: $BTC) is up 1% on July 10 and headed for a winning week as cryptocurrencies shake-off renewed tens...
+Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.
 
-Yahoo Finance • 2h ago
+The Motley Fool • 5h ago
 
 ---
 
-**[Premarket movers: Chip stocks fall, hyperscalers rise, bitcoin plays gain](https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-chip-stocks-surge-sk-hynix-trading-debut-us/card/premarket-movers-chip-stocks-fall-hyperscalers-rise-bitcoin-plays-gain-h6LS27Q9ch2RFU7d3Vx0)**
+**[Eric Trump Says 'Stacking Continues' as American Bitcoin Amasses 8,000 BTC: 'We Continue to Differentiate Ourselves'](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-stacking-continues-123107733.html)**
 
-MarketWatch • 14h ago
+American Bitcoin Corp. co-founder Eric Trump celebrated on Tuesday after the company surpassed 8,000 Bitcoin in its corporate treasury holdings. ‘Onwards We Go’ Trump shared this in an X post, adding that the firm achieved a 52% mining profit margin...
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
+
+American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
+
+Honolulu Star-Advertiser • 10h ago
 
 ---
 
@@ -189,23 +193,7 @@ MarketWatch • 14h ago
 
 The crypto miner's stock jumped after it announced a deal that has investors looking past digital currency and toward a much bigger prize: AI. If you glanced at Marathon Digital (MARA ) on Thursday, you might have assumed its 10.0% surge was just another volatile day in the crypto mines. You’d be...
 
-Trefis • 13h ago
-
----
-
-**[Construction starts at Sparks Bitcoin manufacturing facility, expected to create 70 jobs](https://mynews4.com/news/local/construction-starts-at-sparks-bitcoin-manufacturing-facility-expected-to-create-70-jobs-warehouse-reno-nevada-northern-bitdeer-cryptocurrency)**
-
-Construction has started at an advanced manufacturing facility in Sparks as the Signapore-based company Bitdeer aims to expand U.S. production of its Bitcoin mi
-
-KRXI2 • 2d ago
-
----
-
-**[JPMorgan says bitcoin's main risk isn't Strategy, but blockchain adoption that doesn't benefit public chains and tokens](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto)**
-
-JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
-
-The Block • 1d ago
+Trefis • 16h ago
 
 ---
 
@@ -214,6 +202,14 @@ The Block • 1d ago
 Strategy's (NASDAQ: $MSTR) recent Bitcoin (CRYPTO: $BTC) sales are not the main risk facing the cryptocurrency ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[JPMorgan says bitcoin's main risk isn't Strategy, but blockchain adoption that doesn't benefit public chains and tokens](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto)**
+
+JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
+
+The Block • 1d ago
 
 ---
 
@@ -229,7 +225,13 @@ Bitcoin Magazine • 1d ago
 
 Is Saylor going to turn the current Bitcoin winter into the storm of the century for crypto?
 
-New York Post • 14h ago
+New York Post • 17h ago
+
+---
+
+**[Premarket movers: Chip stocks fall, hyperscalers rise, bitcoin plays gain](https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-chip-stocks-surge-sk-hynix-trading-debut-us/card/premarket-movers-chip-stocks-fall-hyperscalers-rise-bitcoin-plays-gain-h6LS27Q9ch2RFU7d3Vx0)**
+
+MarketWatch • 17h ago
 
 ---
 
@@ -259,7 +261,7 @@ Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign
 
 Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal challenge before France's Conseil d'État to annul Decree No. 2025-1276, which implements the EU's DAC8 crypto tax reporting directive. The exchange argues the rules create a mass surveillance database linking identities and crypto activity, endangering holders' physical safety.
 
-⬆️ 3 • 💬 1 • 1d ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
+⬆️ 3 • 💬 1 • 2d ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
 
 ---
 
@@ -275,7 +277,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 10h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -283,7 +285,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 11h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 14h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -299,13 +301,21 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 361 • 💬 254 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 362 • 💬 254 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 86 • 💬 40 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 88 • 💬 40 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+
+---
+
+**[The NTP server of Australia's largest mobile provider reset time to 2006](https://news.ycombinator.com/item?id=48855370)**
+
+Government agencies and academics both recently warned Telstra it was vulnerable to the type of error that caused this week's national outage.
+
+⬆️ 4 • 💬 2 • 1d ago • [abc.net.au](https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906)
 
 ---
 
@@ -319,57 +329,17 @@ Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congres
 
 📺 Fox Business
 
-👁️ 44K • 👍 1K • 💬 320 • ⏱️ 12:46 • 9h ago
+👁️ 61K • 👍 1K • 💬 520 • ⏱️ 12:46 • 13h ago
 
 ---
 
-**[Bitcoin: This Is All Expected](https://www.youtube.com/watch?v=B_nKPblHHvY)**
+**[Bitcoin Already Won | Wall Street Just Doesn&#39;t Know It Yet!](https://www.youtube.com/watch?v=9CwwPwv8Yeg)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Into The Cryptoverse ...
-
-📺 Aaron Bennett
-
-👁️ 6K • 👍 275 • 💬 101 • ⏱️ 7:32 • 1d ago
-
----
-
-**[US Government INSIDER REVEALS Who is SECRETLY SABOTAGING Bitcoin?! | EP 1544](https://www.youtube.com/watch?v=1MOwr2QoimM)**
-
-As the deadline to get Clarity Act thru comes closer the attackers of bitcoin coordinate a desperate attack to slow their demise .
+For years, Bitcoin was dismissed as a scam that governments would eventually ban. Now the conversation has shifted from ...
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 307 • 💬 28 • ⏱️ 1:29:30 • 1d ago
-
----
-
-**[Last Time THIS Happened Bitcoin Exploded 20x (It&#39;s Happening Again!)](https://www.youtube.com/watch?v=OpOPKHOgK34)**
-
-The biggest attacks on Bitcoin have often become its biggest strengths. The 2017 Fork Wars proved that no company, miner, ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 331 • ⏱️ 19:44 • 2d ago
-
----
-
-**[Bitcoin: Brief Window of Strength](https://www.youtube.com/watch?v=n9yTkx3r904)**
-
-Let's talk about Bitcoin seasonality in July! Come to the ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 77K • 👍 4K • 💬 182 • ⏱️ 11:24 • 2d ago
-
----
-
-**[Bitcoin&#39;s Next Buyer Is TRILLIONS Bigger Than Michael Saylor -  Matt Hougan](https://www.youtube.com/watch?v=otS9X8QkMuI)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 119 • 💬 11 • ⏱️ 15:58 • 1d ago
+👁️ 9K • 👍 1K • 💬 60 • ⏱️ 14:28 • 6h ago
 
 ---
 
@@ -379,7 +349,37 @@ Bitcoin has a way of making investors question everything during the most diffic
 
 📺 Benjamin Cowen
 
-👁️ 42K • 👍 3K • 💬 234 • ⏱️ 29:53 • 9h ago
+👁️ 56K • 👍 4K • 💬 257 • ⏱️ 29:53 • 12h ago
+
+---
+
+**[Bitcoin Bullish Buildup Begins](https://www.youtube.com/watch?v=wtVFbD489Wk)**
+
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 11K • 👍 675 • 💬 69 • ⏱️ 55:58 • 13h ago
+
+---
+
+**[Last Time THIS Happened Bitcoin Exploded 20x (It&#39;s Happening Again!)](https://www.youtube.com/watch?v=OpOPKHOgK34)**
+
+The biggest attacks on Bitcoin have often become its biggest strengths. The 2017 Fork Wars proved that no company, miner, ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 2K • 💬 333 • ⏱️ 19:44 • 2d ago
+
+---
+
+**[Bitcoin&#39;s Next Buyer Is TRILLIONS Bigger Than Michael Saylor -  Matt Hougan](https://www.youtube.com/watch?v=otS9X8QkMuI)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 125 • 💬 11 • ⏱️ 15:58 • 1d ago
 
 ---
 
@@ -389,7 +389,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 476 • 💬 389 • ⏱️ 17:47 • 10h ago
+👁️ 7K • 👍 531 • 💬 394 • ⏱️ 17:47 • 13h ago
+
+---
+
+**[WALL STREET is Preparing For Bitcoin To EXPLODE HIGHER!! | EP 1545](https://www.youtube.com/watch?v=DgDSUS1b6Pg)**
+
+BULLISH headlines are back in the news as bitcoin breaks up to $64000!! But can we believe them .
+
+📺 Simply Bitcoin
+
+👁️ 5K • 👍 274 • 💬 36 • ⏱️ 1:30:11 • 9h ago
 
 ---
 
@@ -399,17 +409,17 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BT
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 250 • 💬 70 • ⏱️ 4:25 • 18h ago
+👁️ 4K • 👍 254 • 💬 98 • ⏱️ 4:25 • 21h ago
 
 ---
 
-**[Where did BITCOIN come from??](https://www.youtube.com/watch?v=h16OpJbINDQ)**
+**[Bitcoin BIG MOVE! Live Trading &amp; Analysis](https://www.youtube.com/watch?v=5v9uq58nvzw)**
 
-Smartnonsense.com.
+Zen Master JP Shares his wisdom on BTC! Big Move Coming one way or another! Sign up and get special perks on Bitunix ...
 
-📺 Smart Nonsense
+📺 Sin City Crypto
 
-👁️ 244K • 👍 19K • 💬 188 • ⏱️ 1:07 • 1d ago
+👁️ 5K • 👍 297 • ⏱️ 3:19:20 • 3m ago
 
 ---
 

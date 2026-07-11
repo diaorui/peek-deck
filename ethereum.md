@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-11T01:00:05.767292+00:00'
+updated: '2026-07-11T04:20:12.258795+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 01:00 UTC  
+**Last Updated:** July 11, 2026 at 04:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +0.5%  
-**30d:** +7.6%  
-**90d:** -24.4%  
-**1y:** -39.0%  
+**24h:** +1.0%  
+**7d:** +0.8%  
+**30d:** +7.8%  
+**90d:** -24.2%  
+**1y:** -38.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.25B
+**Market Cap:** $216.73B
 Rank #2
 
-**Circulating Supply:** 120,683,081 ETH
+**Circulating Supply:** 120,683,053 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.8%
+-63.7%
 
 **All-Time Low:** $0.43
-+413746.9%
++414601.4%
 
 ---
 
@@ -152,9 +152,9 @@ ethereum.org • 1d ago
 
 ---
 
-**[Ethereum Will Be $5 Trillion Network In 'Few Years,' Says Tom Lee — What Would That Make Price?](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-trillion-network-few-131715571.html)**
+**[Tom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-flags-interesting-ethereum-182915798.html)**
 
-Tom Lee says Ethereum could become a $5 trillion network within the next few years. A $5 trillion market cap would imply an ETH price ...
+Tom Lee shared a technical analysis by former Bank of America technical strategist Stephen Suttmeier suggesting Ethereum may be forming a short-term bottom after months of weakness.
 
 Yahoo Finance • 1d ago
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1d ago
 
 Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
 
-The Block • 8h ago
+The Block • 12h ago
 
 ---
 
@@ -176,17 +176,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
-
-MarketWatch • 11h ago
-
----
-
 **[Current price of Ethereum for July 10, 2026](https://fortune.com/article/price-of-ethereum-07-10-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 17h ago
+
+---
+
+**[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
+
+MarketWatch • 14h ago
 
 ---
 
@@ -194,7 +194,7 @@ Fortune • 14h ago
 
 MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -202,13 +202,13 @@ markets.businessinsider.com • 19h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
 
-FXStreet • 21h ago
+FXStreet • 1d ago
 
 ---
 
 **[Best Ethereum Staking Platforms in 2026](https://www.ccn.com/crypto-investing/exchanges/best-ethereum-staking-platforms/)**
 
-CCN.com • 9h ago
+CCN.com • 13h ago
 
 ---
 
@@ -224,13 +224,13 @@ AMBCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee :&quot;Big Week for BTC &amp; ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=W2KCB17Lbao)**
+**[The Institutional Case for Ethereum AND Solana](https://www.youtube.com/watch?v=_6SKVy0WOAY)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
 
-📺 Crypto Nutshell
+📺 Milk Road
 
-👁️ 5K • 👍 221 • 💬 42 • ⏱️ 18:35 • 1d ago
+👁️ 2K • 👍 66 • 💬 72 • ⏱️ 35:55 • 9h ago
 
 ---
 
@@ -240,37 +240,17 @@ On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennif
 
 📺 CoinDesk
 
-👁️ 630 • 👍 22 • 💬 21 • ⏱️ 22:55 • 10h ago
+👁️ 833 • 👍 28 • 💬 20 • ⏱️ 22:55 • 13h ago
 
 ---
 
-**[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=hNVJNtaBdWQ)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+In this video I break down the current Ethereum price action to determine if we are seeing a true trend reversal or just another ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 6K • 👍 227 • 💬 38 • ⏱️ 13:21 • 2d ago
-
----
-
-**[The Institutional Case for Ethereum AND Solana](https://www.youtube.com/watch?v=_6SKVy0WOAY)**
-
-Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
-
-📺 Milk Road
-
-👁️ 774 • 👍 44 • 💬 53 • ⏱️ 35:55 • 6h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QbBAfcJgjCw)**
-
-BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 892 • 👍 99 • 💬 61 • ⏱️ 21:55 • 3h ago
+👁️ 554 • 👍 55 • 💬 23 • ⏱️ 7:25 • 3h ago
 
 ---
 
@@ -280,7 +260,57 @@ John Gillen is an ex-BlackRock VP, General Partner at TRU Capital, and host of T
 
 📺 DeFi Dad
 
-👁️ 172 • 👍 9 • ⏱️ 1:20:06 • 8h ago
+👁️ 541 • 👍 23 • 💬 1 • ⏱️ 1:20:06 • 11h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=QWKYctMoKhU)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 171 • 👍 27 • ⏱️ 6:43 • 53m ago
+
+---
+
+**[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 228 • 💬 38 • ⏱️ 13:21 • 2d ago
+
+---
+
+**[BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QbBAfcJgjCw)**
+
+BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 214 • 💬 111 • ⏱️ 21:55 • 6h ago
+
+---
+
+**[Tom Lee :&quot;Big Week for BTC &amp; ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=W2KCB17Lbao)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 231 • 💬 50 • ⏱️ 18:35 • 1d ago
+
+---
+
+**[Ethereum Price Prediction - Don&#39;t Be The Entry Liquidity [ETH Crypto Price Analysis]](https://www.youtube.com/watch?v=Jd53Ur7gOaY)**
+
+Ethereum cryptocurrency price analysis. ETH cryptocurrency price prediction. Ethereum price prediction. Ethereum price today.
+
+📺 HueFin News
+
+👁️ 34 • ⏱️ 6:11 • 4h ago
 
 ---
 
@@ -290,37 +320,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 353 • 💬 131 • ⏱️ 15:45 • 13h ago
-
----
-
-**[BMNR &amp; Ethereum | Price often Collapses before the Technology Story is finished.](https://www.youtube.com/watch?v=hcz3kuuGs0c)**
-
-In this video, we break down Ethereum's long term price history, major drawdowns, CAGR, BMNR's updated balance sheet, ...
-
-📺 The Value Thinker
-
-👁️ 18K • 👍 913 • 💬 218 • ⏱️ 21:46 • 3d ago
-
----
-
-**[Crypto Market U-Turn We Just Got Some Shocking Bitcoin &amp; Ethereum News And You&#39;re Going To Love It](https://www.youtube.com/watch?v=A6LgEWNcO0k)**
-
-Who knew that a dip in price could cause such a massive movement in crypto market sentiment? Bitcoin and Ethereum are once ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 712 • 💬 336 • ⏱️ 33:10 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: MY LAST YT VIDEO!!! BUT MOST IMPORTANT ONE!! YOU HAVE TO SEE THIS NOW!](https://www.youtube.com/watch?v=mzqA6MJSsGw)**
-
-This is my last video in this format. But I think its most important one. ---------- Join My FREE Trading Group & School: ...
-
-📺 Thomas Kralow
-
-👁️ 18K • 👍 1K • 💬 43 • ⏱️ 13:33 • 1d ago
+👁️ 6K • 👍 364 • 💬 129 • ⏱️ 15:45 • 17h ago
 
 ---
 
