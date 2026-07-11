@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T08:47:36.478752+00:00'
+updated: '2026-07-11T10:15:26.745117+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 08:47 UTC  
+**Last Updated:** July 11, 2026 at 10:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -128,11 +128,11 @@ Ars Technica • 1d ago
 
 ---
 
-**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
+**[Humanoid Robots Just Performed Live Surgery For The First Time Ever](https://www.forbes.com/sites/johnkoetsier/2026/07/10/humanoid-robots-just-performed-live-surgery-for-the-first-time-ever/)**
 
-Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
+"Your robot surgeon will see you now." We might not be too far off from that statement. And it might both reduce health care costs and increase availability.
 
-New Atlas • 17h ago
+Forbes • 15h ago
 
 ---
 
@@ -146,7 +146,7 @@ Reuters • 2d ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 3h ago
+The Guardian • 5h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Guardian • 3h ago
 
 The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
 
-Fast Company • 22h ago
+Fast Company • 1d ago
 
 ---
 
@@ -166,11 +166,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Tenacious tiny bot speeds, leaps and climbs stairs to capture footage](https://newatlas.com/consumer-tech/mondo-beni-robot-action-cam/)**
+
+Beni looks like just another cute little toy robot, but it's actually a roving camera – raring to follow you around and capture fun times. Oh, and it can jump.
+
+New Atlas • 15h ago
+
+---
+
 **[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 5h ago
+mistral.ai • 7h ago
 
 ---
 
@@ -178,15 +186,7 @@ mistral.ai • 5h ago
 
 The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
 
-Business Insider • 1d ago
-
----
-
-**[Do Robots Lure Us to War? The Impact of the Robotic Revolution on the Propensity for Armed Conflict](https://www.rand.org/pubs/rgs_dissertations/RGSDA5114-1.html)**
-
-The author developed a framework to understand the decision space for the use of force in the presence of emerging technology and applied it to autonomous weapons systems.
-
-RAND • 1d ago
+Business Insider • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 20K • 👍 1K • 💬 65 • ⏱️ 2:38 • 17h ago
+👁️ 20K • 👍 1K • 💬 65 • ⏱️ 2:38 • 19h ago
 
 ---
 
@@ -260,7 +260,7 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 99K • 👍 4K • 💬 167 • ⏱️ 11:20 • 4d ago
+👁️ 99K • 👍 4K • 💬 167 • ⏱️ 11:20 • 5d ago
 
 ---
 

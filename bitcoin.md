@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-11T08:47:36.472405+00:00'
+updated: '2026-07-11T10:15:26.735868+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 08:47 UTC  
+**Last Updated:** July 11, 2026 at 10:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +1.0%  
-**30d:** +1.1%  
-**90d:** -13.7%  
-**1y:** -45.2%  
+**24h:** -0.4%  
+**7d:** +0.8%  
+**30d:** +0.9%  
+**90d:** -13.9%  
+**1y:** -45.3%  
 
 ---
 
@@ -161,7 +161,7 @@ This took a lot of work and would love your feedback on what's missing, what can
 
 Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -169,15 +169,15 @@ CoinDesk • 6h ago
 
 Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
-**[Ohio village welcomed a bitcoin mine, then got noise and a fight over $1.3 million](https://www.yahoo.com/news/us/articles/ohio-village-welcomed-bitcoin-mine-055200921.html)**
+**[Strategy Says It Might Sell Up to $1.25 Billion in Bitcoin. So Is MSTR a Buy, Sell, or Hold Right Now?](https://finance.yahoo.com/markets/crypto/articles/strategy-says-might-sell-1-093500999.html)**
 
-It would give residents a formal but nonbinding way to weigh in.
+Strategy was all in on Bitcoin until Bitcoin's price fell dramatically.
 
-Yahoo • 2h ago
+Yahoo Finance • 40m ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo • 2h ago
 
 American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
 
-Honolulu Star-Advertiser • 15h ago
+Honolulu Star-Advertiser • 16h ago
 
 ---
 
@@ -193,7 +193,7 @@ Honolulu Star-Advertiser • 15h ago
 
 Is Saylor going to turn the current Bitcoin winter into the storm of the century for crypto?
 
-New York Post • 21h ago
+New York Post • 23h ago
 
 ---
 
@@ -201,7 +201,7 @@ New York Post • 21h ago
 
 Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.
 
-The Motley Fool • 9h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -209,7 +209,7 @@ The Motley Fool • 9h ago
 
 The crypto miner's stock jumped after it announced a deal that has investors looking past digital currency and toward a much bigger prize: AI. If you glanced at Marathon Digital (MARA ) on Thursday, you might have assumed its 10.0% surge was just another volatile day in the crypto mines. You’d be...
 
-Trefis • 20h ago
+Trefis • 22h ago
 
 ---
 
@@ -217,7 +217,7 @@ Trefis • 20h ago
 
 Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
 
-The Dispatch • 22h ago
+The Dispatch • 1d ago
 
 ---
 
@@ -277,7 +277,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 19h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -285,7 +285,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 18h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 20h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -301,13 +301,13 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 363 • 💬 254 • 2d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 363 • 💬 255 • 2d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 92 • 💬 42 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 92 • 💬 43 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -321,7 +321,7 @@ Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congres
 
 📺 Fox Business
 
-👁️ 70K • 👍 1K • 💬 605 • ⏱️ 12:46 • 17h ago
+👁️ 70K • 👍 1K • 💬 605 • ⏱️ 12:46 • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ For years, Bitcoin was dismissed as a scam that governments would eventually ban
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 64 • ⏱️ 14:28 • 10h ago
+👁️ 14K • 👍 1K • 💬 64 • ⏱️ 14:28 • 11h ago
 
 ---
 
@@ -341,7 +341,7 @@ BULLISH headlines are back in the news as bitcoin breaks up to $64000!! But can 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 291 • 💬 38 • ⏱️ 1:30:11 • 14h ago
+👁️ 6K • 👍 291 • 💬 38 • ⏱️ 1:30:11 • 15h ago
 
 ---
 
@@ -351,7 +351,7 @@ From Trump to Coinbase to ETH we have NOTHING BUT GOOD NEWS TODAY! (rare) Join u
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 535 • 💬 61 • ⏱️ 27:47 • 14h ago
+👁️ 8K • 👍 535 • 💬 61 • ⏱️ 27:47 • 15h ago
 
 ---
 
@@ -371,7 +371,7 @@ I think in ten years, the financial system and the Bitcoin system are going to c
 
 📺 What Bitcoin Did
 
-👁️ 8K • 👍 303 • 💬 205 • ⏱️ 1:40:44 • 15h ago
+👁️ 8K • 👍 303 • 💬 205 • ⏱️ 1:40:44 • 17h ago
 
 ---
 
@@ -381,7 +381,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 560 • 💬 335 • ⏱️ 17:47 • 18h ago
+👁️ 8K • 👍 560 • 💬 335 • ⏱️ 17:47 • 19h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bitcoin has a way of making investors question everything during the most diffic
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 4K • 💬 289 • ⏱️ 29:53 • 17h ago
+👁️ 66K • 👍 4K • 💬 289 • ⏱️ 29:53 • 18h ago
 
 ---
 
@@ -401,7 +401,7 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 695 • 💬 63 • ⏱️ 55:58 • 17h ago
+👁️ 12K • 👍 695 • 💬 63 • ⏱️ 55:58 • 19h ago
 
 ---
 
