@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-11T15:30:46.694422+00:00'
+updated: '2026-07-11T16:58:56.966918+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 11, 2026 at 15:30 UTC  
+**Last Updated:** July 11, 2026 at 16:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Tan. Former Apple VP. 24 years at the company. He now runs OpenAI’s device ambitions. Apple alleges he was coaching Apple employees interviewing at OpenAI to bring actual hardware parts – batteries, logic boards, SIPs – to their interviews for “show and tell” sessions. He also reportedly circulated an internal Apple offboarding document marked “Need to Know” to incoming OpenAI hires, teaching them how to leave Apple without triggering security checks. Then there’s Chang Liu. Former Apple electrical engineer. He kept his Apple-issued laptop after joining OpenAI. Found a bug that still gave him access to Apple’s cloud storage. His reaction: “LOL, I found out I can access the [network storage], so funny.” He then downloaded dozens of confidential files, many labeled as confidential. OpenAI even allegedly approached Apple’s own supply chain partners using Apple’s proprietary metal-finishing technique – telling them Apple had given permission. Apple hadn’t. Over 400 former Apple employees now work at OpenAI. Apple says this is “the tip of the iceberg.” The irony: these two companies had a public partnership just two years ago. ChatGPT was literally integrated into Siri. Now Apple is replacing that integration with Google Gemini and filing lawsuits. The hardware wars just got a lot more interesting.
 
-1h ago
+3h ago
 
 ---
 
 **[OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple](https://www.reddit.com/r/artificial/comments/1utll84/openai_engineers_lol_moment_set_stage_for_legal/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTk0MCwiZXhwIjoxNzg0Mzg0NzQwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.dBYikjf0NaLQgiCl9fPjO6P-eI5fjP4sNj5IaKmKtmQ) • 1h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTk0MCwiZXhwIjoxNzg0Mzg0NzQwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.dBYikjf0NaLQgiCl9fPjO6P-eI5fjP4sNj5IaKmKtmQ) • 2h ago
 
 ---
 
@@ -55,7 +55,7 @@ This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Ta
 
 The UK AI Security Institute (AISI) has identified so-called "universal jailbreaks" in OpenAI's GPT-5.6 Sol, raising fresh concerns about the security of advanced AI systems. According to findings …
 
-🔗 [Wealthari](https://wealthari.com/uk-agency-identifies-universal-jailbreaks-in-gpt-5-6-sol/) • 1h ago
+🔗 [Wealthari](https://wealthari.com/uk-agency-identifies-universal-jailbreaks-in-gpt-5-6-sol/) • 2h ago
 
 ---
 
@@ -63,7 +63,7 @@ The UK AI Security Institute (AISI) has identified so-called "universal jailbrea
 
 Everyone talks about hallucinations, state management but forgets this basics ,I wonder whether scaling ai agents for production is easy? Even though many platforms claim it is incredibly frustrating to setup complex things to just get things tested. Is it a real problem for all or just me experiencing it due to my lack of enough technical expertise ? 🤔
 
-2h ago
+3h ago
 
 ---
 
@@ -71,7 +71,7 @@ Everyone talks about hallucinations, state management but forgets this basics ,I
 
 Big week, so a consolidated rundown for anyone catching up. OpenAI released the GPT-5.6 family publicly on July 9 after a limited partner preview — Sol (frontier reasoning), Terra (previous-flagship performance at ~2x lower cost), Luna (fast/cheap). They also shipped GPT-Live-1, a full-duplex voice model that handles simultaneous listening/speaking, plus gpt-realtime-2.1 with ~25% lower p95 latency. xAI launched Grok 4.5 (trained alongside Cursor) at $2/M input and $6/M output, claiming Opus-class performance on coding/legal/finance tasks. Independent evals aren't in yet, so treat the claims accordingly. Google delayed Gemini 3.5 Pro to July 17 — full architectural rebuild, 2M context. Separately, four senior DeepMind researchers departed in one week (Shazeer to OpenAI; Jumper, Adler, Pritzel to Anthropic), and Alphabet dropped ~$225B in market cap. Microsoft is merging its Copilot apps into one by August. The notable disclosure: fewer than 4.5% of 450M M365 seats have converted to paid Copilot. Meta launched Muse Image, its first Superintelligence Labs model — agentic image gen that invokes search/code tools and self-refines. Trains on public Instagram photos by default (opt-out). Open source: Ollama raised $65M Series B (8.9M monthly devs). Gemma 4 got ~90% faster on Apple Silicon in Ollama via multi-token prediction. And a PSA — DeepSeek retires deepseek-chat and deepseek-reasoner on July 24. One-line migration, but note deepseek-reasoner maps to v4-flash thinking mode, not v4-pro, so heavy reasoning workloads should evaluate v4-pro explicitly rather than trusting the alias. My take as someone building on top of these APIs: the simultaneous price drops (Terra, Grok 4.5, Sonnet 5's intro pricing) matter more than any single benchmark. Near-frontier inference costs fell across four vendors in one week, which changes what's economically viable to automate. Meanwhile Microsoft's 4.5% suggests horizontal assistants aren't converting even with unlimited distribution — the demand seems to be for task-specific automation, which matches what I see with SMB clients. And the DeepSeek cutoff is a good reminder to abstract your model layer. Sources: OpenAI/xAI/Meta blogs, Euronews, Bloomberg, TechCrunch, CNBC, TechTimes coverage this week.
 
-9h ago
+10h ago
 
 ---
 
@@ -79,7 +79,7 @@ Big week, so a consolidated rundown for anyone catching up. OpenAI released the 
 
 Asked Gemini a basic World Cup stat question (how many times has Spain finished top 4). Instead of an answer, it dumped its entire scratchpad: internal card-rendering logic with real component names (Bento/BentoCard/chameleon), a checklist it runs to decide what UI to render, and entity IDs it pulls from Google's Knowledge Graph. Just hadn't seen this specific schema documented anywhere. Raw output here: https://pastebin.com/8HWikGWj Curious if anyone's seen the "Bento" naming before or knows more about how this rendering pipeline works.
 
-18h ago
+19h ago
 
 ---
 
@@ -87,7 +87,7 @@ Asked Gemini a basic World Cup stat question (how many times has Spain finished 
 
 AI is one of the biggest technological shifts we'll see, but some AI course ads are becoming unbearable. Instead of showing the value of learning AI, they rely on fear—making experienced professionals look like clueless idiots and implying you'll be unemployable if you don't buy their course. It feels less like education and more like emotional manipulation. The reality is much more balanced. Plenty of companies are still struggling to get meaningful ROI from AI, and many are hiring more people to integrate and manage these tools effectively. AI is a powerful tool, not the ultimate solution to every problem. Why has fear-based marketing become the default? Does it actually convert that much better than simply showing the real value of learning AI?
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ AI is one of the biggest technological shifts we'll see, but some AI course ads 
 
 Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.
 
-🔗 [WIRED](https://www.wired.com/story/openai-head-of-safety-leaving/) • 10h ago
+🔗 [WIRED](https://www.wired.com/story/openai-head-of-safety-leaving/) • 11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Johannes Heidecke’s departure comes as OpenAI tries to further integrate its r
 
 It does so via using 10% of the resources as other ai models. It has also planted 34,944 trees via donating to the charities One Tree Planted and Trees for the Future.
 
-🔗 [EcoGPT](https://ecogpt.com) • 7h ago
+🔗 [EcoGPT](https://ecogpt.com) • 9h ago
 
 ---
 
@@ -117,9 +117,11 @@ It does so via using 10% of the resources as other ai models. It has also plante
 
 ## Google News: "ai"
 
-**[Meta Removes A.I. Feature on Instagram After Days of Backlash](https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html)**
+**[Safe from AI: which jobs will help you thrive in the future?](https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law)**
 
-The New York Times • 2h ago
+Experts say there will still be opportunities ahead in everything from teaching to hotels and the law
+
+The Guardian • 5h ago
 
 ---
 
@@ -127,67 +129,67 @@ The New York Times • 2h ago
 
 Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.
 
-BBC • 13h ago
+BBC • 15h ago
 
 ---
 
-**[Meta scraps AI image feature following privacy backlash](https://www.detroitnews.com/story/tech/2026/07/11/instagram-ai-image-feature-scrapped-privacy-backlash/90885674007/)**
+**[Meta Suspends AI Image Feature After Days of Backlash](https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/)**
 
-Meta is discontinuing an AI feature launched this week that allowed users to generate images using public Instagram accounts.
+Meta said on Friday it would discontinue an AI feature that allowed users to generate images using public Instagram accounts.
 
-The Detroit News • 2h ago
-
----
-
-**[Safe from AI: which jobs will help you thrive in the future?](https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law)**
-
-Experts say there will still be opportunities ahead in everything from teaching to hotels and the law
-
-The Guardian • 4h ago
+Variety • 17h ago
 
 ---
 
-**[‘Not where they hoped it'd be’: Launch of Trump AI promotion program underwhelms](https://www.politico.com/news/2026/07/11/trump-administration-commerce-ai-program-00993532)**
+**[Instagram's newest AI tool didn't survive the week](https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7)**
 
-Politico • 1h ago
+Meta said that its new feature allowing users to generate AI images from public Instagram posts is no longer available.
 
----
-
-**[AI predictions for Argentina vs. Switzerland World Cup quarterfinal](https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/argentina-switzerland-predictions-world-cup-ai-picks/90883917007/)**
-
-Lionel Messi and Argentina are looking to keep their World Cup repeat hopes alive. Does Microsoft Copilot AI believe they will be successful doing so?
-
-USA Today • 1h ago
+Business Insider • 17m ago
 
 ---
 
-**[AI wants to do more than chat](https://www.yahoo.com/news/videos/ai-wants-more-chat-132347865.html)**
+**[The volatile AI trade marched higher, but oil kept Wall Street on edge last week](https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html)**
 
-The race is on to build AI that can take on more tasks, not just guide you through it. What work would you trust AI to handle? Courtesy: OpenAI #AI #TechNews
+Chip stocks had a wild but strong week. Meta led our portfolio higher.
 
-Yahoo • 2h ago
-
----
-
-**[Nobel-Winning U.S. Chemist Omar Yaghi Will Move to China to Lead A.I. Institute](https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html)**
-
-The New York Times • 1d ago
+CNBC • 39m ago
 
 ---
 
-**[Opinion | The AI apocalypse that isn’t coming](https://www.washingtonpost.com/opinions/2026/07/12/ai-apocalypse-that-isnt-coming/)**
+**[How AI rebrands fail to deliver a lasting share price boost](https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b)**
 
-The invention of electricity didn’t spell doomsday. Neither will innovations today.
+Most of the groups that pivoted have not sustained their valuation gains, an FT analysis has found
 
-The Washington Post • 8m ago
+Financial Times • 1h ago
 
 ---
 
-**[GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6/)**
+**[AI Is Pushing Older Employees Straight Out of the Workforce, New Report Finds](https://futurism.com/future-society/ai-pushing-workers-retirement-older-labor-automation)**
 
-More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
+A new study on labor data suggests AI is increasingly forcing older, white collar workers into the unemployment line.
 
-OpenAI • 1d ago
+Futurism • 57m ago
+
+---
+
+**[Opinion | We Must Address the Growing Rage Against the A.I. Machine](https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html)**
+
+The New York Times • 5h ago
+
+---
+
+**[Apple accuses OpenAI of using stolen trade secrets to create its upcoming AI gadgets in new lawsuit](https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit)**
+
+Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets.
+
+CNN • 20h ago
+
+---
+
+**[Apple Sues OpenAI for Trade Secret Theft in Blockbuster Case](https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case)**
+
+Bloomberg.com • 18h ago
 
 ---
 
@@ -195,17 +197,17 @@ OpenAI • 1d ago
 
 ## HackerNews: "ai"
 
-**[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
-
-⬆️ 344 • 💬 136 • 2d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
-
----
-
 **[AI 2040: Plan A](https://news.ycombinator.com/item?id=48848425)**
 
 A research-backed AI scenario forecast.
 
-⬆️ 339 • 💬 385 • 1d ago • [ai-2040.com](https://ai-2040.com/)
+⬆️ 353 • 💬 425 • 2d ago • [ai-2040.com](https://ai-2040.com/)
+
+---
+
+**[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)**
+
+⬆️ 345 • 💬 136 • 2d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/#/)
 
 ---
 
@@ -219,7 +221,7 @@ A research-backed AI scenario forecast.
 
 We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
 
-⬆️ 243 • 💬 215 • 1d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
+⬆️ 244 • 💬 215 • 2d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
 
 ---
 
@@ -227,7 +229,7 @@ We scanned over 1 million social media posts for AI content. It turned up on eve
 
 The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
 
-⬆️ 218 • 💬 184 • 20h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
+⬆️ 219 • 💬 186 • 22h ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
 
 ---
 
@@ -235,7 +237,7 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 
 We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can't wait for a slow reply, can't read a chat interface, and can't unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.
 
-⬆️ 144 • 💬 390 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+⬆️ 145 • 💬 390 • 1d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
 
 ---
 
@@ -244,6 +246,14 @@ We set out to build the first AI tutor to teach math and reading to kids ages 4-
 AI cheating leads to "a failed society," professor says.
 
 ⬆️ 135 • 💬 159 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
+
+---
+
+**[Ghost Font: A font that humans can read but AI cannot](https://news.ycombinator.com/item?id=48870381)**
+
+An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.
+
+⬆️ 119 • 💬 94 • 7h ago • [mixfont.com](https://www.mixfont.com/ghost-font)
 
 ---
 
@@ -263,12 +273,6 @@ Zero-dependency browser video editor that AI agents can drive — JSON timeline,
 
 ---
 
-**[Ask HN: Another "Hacker News" with less AI and more human-focused hacking news?](https://news.ycombinator.com/item?id=48834961)**
-
-⬆️ 91 • 💬 54 • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -279,47 +283,17 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 59K • 👍 3K • 💬 729 • ⏱️ 12:45 • 1d ago
+👁️ 60K • 👍 3K • 💬 732 • ⏱️ 12:45 • 1d ago
 
 ---
 
-**[AI News: GPT-5.6 and the new Super App are a Massive Leap!](https://www.youtube.com/watch?v=EOCRtSnvNNE)**
+**[The same navigation question to 3 AI&#39;s.  They were all wrong.](https://www.youtube.com/watch?v=icksI6FOqE0)**
 
-Here's the AI News You Might Have Missed This Week. Try my Shorts Broll Generator and get $1000 in free credits for Hyperagent ...
+Can you teach the internet something new? I decided to ask three of the world's biggest AI systems the same question about an ...
 
-📺 Matt Wolfe
+📺 The Map Reading Company
 
-👁️ 66K • 👍 3K • 💬 220 • ⏱️ 38:41 • 1d ago
-
----
-
-**[3 AI Video Generators That Are ACTUALLY FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=jqvmORIAQjg)**
-
-Generate and edit AI videos with Gemini Omni Flash—all in one place on Higgsfield ...
-
-📺 Malva AI
-
-👁️ 19K • 👍 812 • 💬 72 • ⏱️ 11:32 • 1d ago
-
----
-
-**[The most important graph in AI right now](https://www.youtube.com/watch?v=ci5rCe9vmxw)**
-
-Nora Ammann explains why AI takeoff is two to four years away. The two failure modes that worry her most: concentrated power, ...
-
-📺 Future of Life Institute
-
-👁️ 5K • 👍 265 • 💬 106 • ⏱️ 16:45 • 1d ago
-
----
-
-**[China Just Started The AI Cold War: Best AI Models Get Locked](https://www.youtube.com/watch?v=V_tRPdeK-AU)**
-
-China may have just started the AI Cold War. Beijing is moving to lock down its best AI models, Alibaba and ByteDance are ...
-
-📺 AI Revolution
-
-👁️ 40K • 👍 1K • 💬 189 • ⏱️ 14:45 • 2d ago
+👁️ 5K • 👍 798 • 💬 108 • ⏱️ 6:50 • 1d ago
 
 ---
 
@@ -329,27 +303,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 46K • 👍 1K • 💬 271 • ⏱️ 11:54 • 1d ago
+👁️ 47K • 👍 1K • 💬 271 • ⏱️ 11:54 • 1d ago
 
 ---
 
-**[Which Luxury Bed Would You Choose Tonight? ✨🛏️ | Relaxing AI ASMR Dream World #ai #asmr](https://www.youtube.com/watch?v=lyMiSsvmGJ4)**
+**[3 AI Video Generators That Are ACTUALLY FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=jqvmORIAQjg)**
 
-Which one made you say "wow"? Tell me in the comments Welcome to a surreal AI dream world ✨ Enjoy a collection of ...
+Generate and edit AI videos with Gemini Omni Flash—all in one place on Higgsfield ...
 
-📺 Kira AI ASMR
+📺 Malva AI
 
-👁️ 137K • 👍 313 • 💬 6 • ⏱️ 2:57 • 2d ago
-
----
-
-**[Meta&#39;s FREE &quot;Banana Killer&quot; &amp; My AI Video Tool (Also Free!)](https://www.youtube.com/watch?v=epJiVrv4KVQ)**
-
-Meta just shipped Muse Image — a FREE "thinking" AI image model live now at meta.ai — and announced Muse Video, the first ...
-
-📺 Theoretically Media
-
-👁️ 27K • 👍 1K • 💬 167 • ⏱️ 20:45 • 2d ago
+👁️ 22K • 👍 900 • 💬 80 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -359,17 +323,57 @@ Women being logical? We asked AI to run a simulation to see what that might look
 
 📺 The Babylon Bee
 
-👁️ 81K • 👍 8K • 💬 803 • ⏱️ 2:54 • 2d ago
+👁️ 83K • 👍 8K • 💬 816 • ⏱️ 2:54 • 2d ago
 
 ---
 
-**[AI’s Next Race: Cost, Control, and Compute](https://www.youtube.com/watch?v=2HHN0fwbvXo)**
+**[Which Luxury Bed Would You Choose Tonight? ✨🛏️ | Relaxing AI ASMR Dream World #ai #asmr](https://www.youtube.com/watch?v=lyMiSsvmGJ4)**
 
-The AI race is shifting from who has the biggest model to who can run, control and deploy AI most effectively. Perplexity CEO ...
+Which one made you say "wow"? Tell me in the comments Welcome to a surreal AI dream world ✨ Enjoy a collection of ...
 
-📺 CNBC
+📺 Kira AI ASMR
 
-👁️ 22K • 👍 494 • 💬 66 • ⏱️ 1:00:56 • 19h ago
+👁️ 148K • 👍 333 • 💬 6 • ⏱️ 2:57 • 2d ago
+
+---
+
+**[Meta Is Creating AI’s Chernobyl Moment](https://www.youtube.com/watch?v=bFmpJAx73is)**
+
+This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the Swiss company behind Proton Mail. Whether ...
+
+📺 House of El - AI
+
+👁️ 170K • 👍 11K • 💬 2K • ⏱️ 25:30 • 1d ago
+
+---
+
+**[The Fastest Way to Make AI Shorts in Bulk (Higgsfield)](https://www.youtube.com/watch?v=iZl51IPeYjY)**
+
+Batch a week's worth of AI Shorts with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=conor In this video, I show how to create a ...
+
+📺 Creating with Conor
+
+👁️ 5K • 💬 1 • ⏱️ 10:59 • 1h ago
+
+---
+
+**[Midterm Anal-a-Zone: AI Deepfakes Run Wild in Political Ads | The Daily Show](https://www.youtube.com/watch?v=tahHeW6Wq2k)**
+
+AI is disrupting everything, including the midterms, and Jordan Klepper breaks down how politicians are harnessing the world's ...
+
+📺 The Daily Show
+
+👁️ 596K • 👍 14K • 💬 721 • ⏱️ 7:30 • 1d ago
+
+---
+
+**[Instagram Viral Motu Patlu Wali Ai Video Kaise banaye | Trending Motu Patlu Village Video Editing](https://www.youtube.com/watch?v=oL1JKS9s5Fs)**
+
+Instagram Viral Motu Patlu Wali Ai Video Kaise banaye | Trending Motu Patlu Village Video Editing Instagram Viral Motu Patlu Ai ...
+
+📺 Pushpendra Singh | AI & Tech
+
+👁️ 9K • 👍 498 • 💬 23 • ⏱️ 6:01 • 5h ago
 
 ---
 
@@ -385,7 +389,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 8,210 • ❤️ 690 • 5d ago
+⬇️ 8,210 • ❤️ 693 • 5d ago
 
 ---
 
@@ -397,7 +401,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,944,961 • ❤️ 1,998 • 12d ago
+⬇️ 1,944,961 • ❤️ 2,001 • 12d ago
 
 ---
 
@@ -409,7 +413,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 421,270 • ❤️ 3,812 • 9d ago
+⬇️ 421,270 • ❤️ 3,819 • 9d ago
 
 ---
 
@@ -421,7 +425,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 28,141 • ❤️ 482 • 2d ago
+⬇️ 28,141 • ❤️ 486 • 2d ago
 
 ---
 
@@ -433,7 +437,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,128 • ❤️ 223 • 1d ago
+⬇️ 4,128 • ❤️ 224 • 1d ago
 
 ---
 
@@ -445,7 +449,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,380,690 • ❤️ 1,926 • 8d ago
+⬇️ 1,380,690 • ❤️ 1,927 • 8d ago
 
 ---
 
@@ -455,7 +459,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
 
-⬇️ 0 • ❤️ 845 • 8d ago
+⬇️ 0 • ❤️ 846 • 8d ago
 
 ---
 
@@ -471,6 +475,16 @@ LongCat-2.0 is a 1.6T parameter MoE language model featuring LongCat Sparse Atte
 
 ---
 
+**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
+
+*Lars Bouaraba *
+
+Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
+
+⬇️ 0 • ❤️ 173 • 2d ago
+
+---
+
 **[tabfm-1.0.0-pytorch](https://huggingface.co/google/tabfm-1.0.0-pytorch)**
 
 *Google*
@@ -479,17 +493,7 @@ TabFM 1.0.0 is a zero-shot PyTorch foundation model for tabular classification a
 
 `tabular-classification`
 
-⬇️ 20,110 • ❤️ 346 • 7d ago
-
----
-
-**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
-
-*Lars Bouaraba *
-
-Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
-
-⬇️ 0 • ❤️ 166 • 2d ago
+⬇️ 20,110 • ❤️ 347 • 7d ago
 
 ---
 
@@ -624,7 +628,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Vidu S1 is a real-time interactive video generation model that supports voice-controlled digital character animation with infinite-length output and high frame rate on consumer hardware.
 
-▲ 112 • 💬 7 • ⭐ 151 • 8d ago
+▲ 114 • 💬 7 • ⭐ 151 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.03118) • [💻 code](https://github.com/shengshu-ai/Vidu-S1) • [🔗 project](https://vidu.com/vidu-stream)
 
@@ -663,7 +667,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.4k • 🔱 934 • 2d ago
+⭐ 4.4k • 🔱 937 • 2d ago
 
 ---
 
@@ -683,7 +687,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.1k • 🔱 304 • 4h ago
+⭐ 2.2k • 🔱 305 • 5h ago
 
 ---
 
@@ -713,7 +717,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.3k • 🔱 75 • 6h ago
+⭐ 1.3k • 🔱 76 • 2h ago
 
 ---
 
@@ -733,7 +737,7 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 
 `Python` `ai` `ai-agents` `api` `copilot` `llm`
 
-⭐ 1.1k • 🔱 366 • 13d ago
+⭐ 1.1k • 🔱 366 • 14d ago
 
 ---
 
@@ -743,7 +747,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 949 • 🔱 16 • 3d ago
+⭐ 963 • 🔱 16 • 3d ago
 
 ---
 

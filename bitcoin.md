@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-11T15:30:46.703011+00:00'
+updated: '2026-07-11T16:58:56.975722+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 15:30 UTC  
+**Last Updated:** July 11, 2026 at 16:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** +1.3%  
-**30d:** +1.3%  
-**90d:** -13.5%  
-**1y:** -45.1%  
+**7d:** +0.8%  
+**30d:** +0.9%  
+**90d:** -13.9%  
+**1y:** -45.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1288.36B
+**Market Cap:** $1285.16B
 Rank #1
 
 **Circulating Supply:** 20,054,909 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-49.1%
 
 **All-Time Low:** $67.81
-+94638.2%
++94453.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin logo displayed on the Las Vegas Sphere 👀](https://www.reddit.com/r/Bitcoin/comments/1usz2g5/bitcoin_logo_displayed_on_the_las_vegas_sphere/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I went to impulse buy a mini pc and 2 TB SSD to run a full node only to find out that will run me well over $500 and 2 TB SSD will not be enough space in the next handful of years and in need to spend more money. How does bitcoin expect to have world wide node operators when people in first world countries with full time employment (<1% global population) are not willing to fork over full node money and the prices are only continuing to expand for storage along with total storage needed also expanding? I realize that pruned nodes are a thing but what happens when the only full nodes being run are corporate types that have gov and investor eyes on their backs? Will bitcoin be able to maintain its white papers ethos of peer to peer e cash at the current rate? I would argue it already failed at the original claims. Maybe it will be successful as some other thing. Please assist. Not trying to be mean but these topics affect people’s savings so I believe they should be straight to the point so common people can make educated decisions.
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ I went to impulse buy a mini pc and 2 TB SSD to run a full node only to find out
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -115,7 +115,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I’m recently in 15k, wondering why it takes weeks to even go up higher than it went down within 24 hours.
 
-12h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’m recently in 15k, wondering why it takes weeks to even go up higher than it
 
 Re: Security 2010-07-10 12:58:02 UTC - - I'll start thinking about how to do this. At the moment, you can kind of use -connect. You can use -connect to make it connect to local computers on your LAN, like -connect=192.168.0.100. If you start it out blank and don't let it connect to the main network, the difficulty is still at the original low difficulty. If you've port-forwarded though, then outside nodes might still connect inward to you. With -connect it still uses IRC, do you think it shouldn't get on IRC when you're telling it to only connect to specific nodes with -connect? The main scenario for - connect is where you have a server farm, with two connected to the network and the rest connected to the first two. In that case, you wouldn't want the -connect computers on IRC. void ThreadIRCSeed(void* parg) { if (mapArgs.count("-connect")) return; Satoshi, would you be open to a --testnetwork (or something) flag to bitcoin that swapped to an alternate genesis block, data directory, listen port and IRC channel? Maybe with a really short average block generation time, too (like once per minute instead of once per 10 minutes) so everything happens ten times a fast to make testing quicker. I second this, however I don't think block generation time should be changed. I think it should be identical to the production network. This, for example, would allow testers to try to subvert the system by creating nodes with particularly low latency, and keep the results applicable to the real network. Great idea Gavin!
 
-🔗 [satoshitimeline.com](https://satoshitimeline.com/585) • 22h ago
+🔗 [satoshitimeline.com](https://satoshitimeline.com/585) • 1d ago
 
 ---
 
@@ -131,7 +131,7 @@ Re: Security 2010-07-10 12:58:02 UTC - - I'll start thinking about how to do thi
 
 Are there any good stable exchanges to buy btc in Serbia?
 
-7h ago
+8h ago
 
 ---
 
@@ -139,7 +139,7 @@ Are there any good stable exchanges to buy btc in Serbia?
 
 Hello all, I am receiving a windfall next week. Probably the only time in my life I will see such a thing. I want to buy a whole bitcoin thru Fidelity but want to know other options that are out there for purchasing bitcoin. Any suggestions are welcomed.
 
-12h ago
+14h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hello all, I am receiving a windfall next week. Probably the only time in my lif
 
 Hi everyone I'm looking for a secure hot wallet for Bitcoin and other cryptos Security is the most important thing for me, but I also want something that's easy to use What hot wallet do you use and why? I'd like to hear your recommendations and experiences Thanks!
 
-15h ago
+17h ago
 
 ---
 
@@ -155,11 +155,11 @@ Hi everyone I'm looking for a secure hot wallet for Bitcoin and other cryptos Se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin treasury company Empery Digital sold about half of BTC stack](https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack)**
+**[Bitcoin treasury company Empery Digital sold about half of its BTC stack](https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack)**
 
 It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -167,15 +167,37 @@ CoinDesk • 3h ago
 
 Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
-**[Anthony Scaramucci's Model Portfolio: 30% to Bitcoin, Some Gold, 'Bet the Long Term of the US'](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramuccis-model-portfolio-30-120126142.html)**
+**[Bitcoin Dips Below $60,000 and History Points to What Comes Next](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-60-000-161000819.html)**
 
-SkyBridge Capital founder Anthony Scaramucci maintains his long-term bullish stance on Bitcoin, saying that he believes artificial intelligence is likely in bubble territory. Scaramucci’s 30% BTC Allocation In an interview with Phil Rose on Thursday, Scaramucci attributed Bitcoin’s recent correction...
+Bitcoin has a long history of bouncing back from extreme market declines.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 48m ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Flip Positive After 8 Weeks: Will Price React?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-etfs-flip-positive-143950669.html)**
+
+Bitcoin and Ethereum ETFs drew fresh inflows last week, ending an eight-week outflow run as prices recovered.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Blockstream's CEO Adam Back Says Bitcoin Rejected A Contested Upgrade And Won't Change Its Mind](https://finance.yahoo.com/markets/crypto/articles/blockstreams-ceo-adam-back-says-140341023.html)**
+
+The debate centers on proposals to limit non-payment data in Bitcoin transactions, with critics warning the effort could split the network.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin holds above $64,000 as investors weigh U.S. crypto policy shifts By Investing.com](https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225)**
+
+Investing.com • 6h ago
 
 ---
 
@@ -191,13 +213,7 @@ New York Post • 1d ago
 
 American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
 
-Honolulu Star-Advertiser • 22h ago
-
----
-
-**[Strategy's Trilemma: How Saylor Can Offset Bitcoin Losses With STRC Buybacks (NASDAQ:MSTR)](https://seekingalpha.com/article/4921129-strategy-trilemma-how-saylor-can-offset-bitcoin-losses-with-strc-buybacks)**
-
-Seeking Alpha • 1d ago
+Honolulu Star-Advertiser • 23h ago
 
 ---
 
@@ -205,27 +221,13 @@ Seeking Alpha • 1d ago
 
 Bitcoin (BTC) is seeing its best month of July since 2022, but analysis warns that the result could be firmly bearish.Key points:Analyst sees BTC price "picking up" for rest of July before reversalData from CoinGlass shows that at 9.5%, BITSTAMP:BTCUSD is setting a four-year record for July gains.B…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
-**[Bitcoin rebounds above $64k, heads for small weekly rise on tech-led rally](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-64k-heads-for-weekly-rise-on-techled-rally-4785390)**
+**[Strategy's Trilemma: How Saylor Can Offset Bitcoin Losses With STRC Buybacks (NASDAQ:MSTR)](https://seekingalpha.com/article/4921129-strategy-trilemma-how-saylor-can-offset-bitcoin-losses-with-strc-buybacks)**
 
-Investing.com • 1d ago
-
----
-
-**[BitGo Announces New Quantum-Risk Management Capabilities for Bitcoin Wallets](https://www.businesswire.com/news/home/20260709199344/en/BitGo-Announces-New-Quantum-Risk-Management-Capabilities-for-Bitcoin-Wallets)**
-
-Business Wire • 2d ago
-
----
-
-**[JPMorgan says bitcoin's main risk isn't Strategy, but blockchain adoption that doesn't benefit public chains and tokens](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto)**
-
-JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
-
-The Block • 1d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -287,7 +289,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 Contribute to raphaelwkago69-create/GLYPH development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 5d ago • [GitHub](https://github.com/raphaelwkago69-create/GLYPH)
+⬆️ 2 • 💬 0 • 6d ago • [GitHub](https://github.com/raphaelwkago69-create/GLYPH)
 
 ---
 
@@ -301,7 +303,7 @@ It’s supposed to be a decentralized service, after all...
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 95 • 💬 44 • 5d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+⬆️ 98 • 💬 45 • 5d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -309,13 +311,13 @@ It’s supposed to be a decentralized service, after all...
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Already Won | Wall Street Just Doesn&#39;t Know It Yet!](https://www.youtube.com/watch?v=9CwwPwv8Yeg)**
+**[Has Bitcoin Hit The Bottom?](https://www.youtube.com/watch?v=TP9AEulCw9g)**
 
-For years, Bitcoin was dismissed as a scam that governments would eventually ban. Now the conversation has shifted from ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Simply Bitcoin
+📺 Anthony Pompliano
 
-👁️ 17K • 👍 1K • 💬 61 • ⏱️ 14:28 • 17h ago
+👁️ 12K • 👍 1K • 💬 37 • ⏱️ 52:26 • 3h ago
 
 ---
 
@@ -325,7 +327,17 @@ Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congres
 
 📺 Fox Business
 
-👁️ 78K • 👍 2K • 💬 649 • ⏱️ 12:46 • 1d ago
+👁️ 82K • 👍 2K • 💬 676 • ⏱️ 12:46 • 1d ago
+
+---
+
+**[Bitcoin Already Won | Wall Street Just Doesn&#39;t Know It Yet!](https://www.youtube.com/watch?v=9CwwPwv8Yeg)**
+
+For years, Bitcoin was dismissed as a scam that governments would eventually ban. Now the conversation has shifted from ...
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 1K • 💬 79 • ⏱️ 14:28 • 18h ago
 
 ---
 
@@ -335,57 +347,17 @@ From Trump to Coinbase to ETH we have NOTHING BUT GOOD NEWS TODAY! (rare) Join u
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 560 • 💬 64 • ⏱️ 27:47 • 20h ago
+👁️ 8K • 👍 573 • 💬 64 • ⏱️ 27:47 • 22h ago
 
 ---
 
-**[Bitcoin&#39;s Hidden Setup Signals A Big Crypto Move](https://www.youtube.com/watch?v=ISfCWk5vT70)**
+**[Lyn Alden - &quot;Something Is VERY Wrong With Bitcoin &amp; Nobody Is Talking About it&quot;](https://www.youtube.com/watch?v=Oi2wSqHzwPo)**
 
-Gareth Soloway breaks down the Bitcoin setup and the inverse head and shoulders patterns forming across crypto that could ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Gareth Soloway
+📺 Savvy Finance
 
-👁️ 58K • 👍 3K • 💬 152 • ⏱️ 15:38 • 1d ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=sigSZCnSa6M)**
-
-Bitcoin has a way of making investors question everything during the most difficult parts of the cycle. In this video, we take a step ...
-
-📺 Benjamin Cowen
-
-👁️ 76K • 👍 5K • 💬 317 • ⏱️ 29:53 • 1d ago
-
----
-
-**[WALL STREET is Preparing For Bitcoin To EXPLODE HIGHER!! | EP 1545](https://www.youtube.com/watch?v=DgDSUS1b6Pg)**
-
-BULLISH headlines are back in the news as bitcoin breaks up to $64000!! But can we believe them .
-
-📺 Simply Bitcoin
-
-👁️ 6K • 👍 307 • 💬 42 • ⏱️ 1:30:11 • 21h ago
-
----
-
-**[Bitcoin Core Industrial Complex Panicking](https://www.youtube.com/watch?v=DTHTDVc2zTg)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how the anti-BIP-110 side in this civil ...
-
-📺 Bitcoin University
-
-👁️ 7K • 👍 1K • 💬 283 • ⏱️ 9:40 • 1d ago
-
----
-
-**[Bitcoin: This Is All Expected](https://www.youtube.com/watch?v=B_nKPblHHvY)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Into The Cryptoverse ...
-
-📺 Aaron Bennett
-
-👁️ 6K • 👍 286 • 💬 51 • ⏱️ 7:32 • 1d ago
+👁️ 4K • 👍 157 • 💬 26 • ⏱️ 17:34 • 16h ago
 
 ---
 
@@ -395,17 +367,47 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 588 • 💬 259 • ⏱️ 17:47 • 1d ago
+👁️ 9K • 👍 593 • 💬 260 • ⏱️ 17:47 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Next Buyer Is TRILLIONS Bigger Than Michael Saylor -  Matt Hougan](https://www.youtube.com/watch?v=otS9X8QkMuI)**
+**[Bitcoin is Quietly HOLDING This Key Level… (HERE’S WHAT IT MEANS)](https://www.youtube.com/watch?v=5_v4BZvddlo)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Bitcoin is quietly holding a key level of support and is appearing to bounce from that level. Could this be important for bitcoin in ...
 
-📺 Savvy Finance
+📺 Alessio Rastani
 
-👁️ 3K • 👍 130 • 💬 11 • ⏱️ 15:58 • 1d ago
+👁️ 15K • 👍 1K • 💬 354 • ⏱️ 9:13 • 1d ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=sigSZCnSa6M)**
+
+Bitcoin has a way of making investors question everything during the most difficult parts of the cycle. In this video, we take a step ...
+
+📺 Benjamin Cowen
+
+👁️ 81K • 👍 5K • 💬 330 • ⏱️ 29:53 • 1d ago
+
+---
+
+**[WALL STREET is Preparing For Bitcoin To EXPLODE HIGHER!! | EP 1545](https://www.youtube.com/watch?v=DgDSUS1b6Pg)**
+
+BULLISH headlines are back in the news as bitcoin breaks up to $64000!! But can we believe them .
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 314 • 💬 50 • ⏱️ 1:30:11 • 22h ago
+
+---
+
+**[Strategy&#39;s MASSIVE Bitcoin Loss Revealed: Billions Vanish! #shorts](https://www.youtube.com/watch?v=2PH8U3a8Seo)**
+
+Strategy's Q2 2026 filing reveals an $8.32 billion unrealized loss on digital assets. This fair value accounting means the balance ...
+
+📺 Dana Love, PhD
+
+👁️ 2K • 👍 75 • 💬 5 • ⏱️ 1:59 • 15h ago
 
 ---
 
