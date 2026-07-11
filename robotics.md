@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T16:58:56.984976+00:00'
+updated: '2026-07-11T17:59:26.574649+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 16:58 UTC  
+**Last Updated:** July 11, 2026 at 17:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here's what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware - Electronics BOM under $100 sourcing parts yourself - Full wiring diagrams, assembly guide, and source code included The V1 is already fully operational and tested. I just launched a Kickstarter pre-launch page to fund the V2 (better rigidity, internal cable routing, improved gripper). Happy to answer any questions about the design choices, print settings, or the electronics. AMA! https://www.kickstarter.com/projects/pancoarmmk01/panco-arm-mk-01
 
-23h ago
+1d ago
 
 ---
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -56,13 +56,13 @@ For aesthetic reasons, robots are typically equipped with outer casings around t
 
 **[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 8h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 9h ago
 
 ---
 
 **[Ground Robots Inherit the Kill Zone - Ukrainian roboticists build toward a human-free frontline](https://www.reddit.com/r/robotics/comments/1utclru/ground_robots_inherit_the_kill_zone_ukrainian/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi! My team and I are trying to make it easier to program our assembly robot. We
 
 I am looking for reviews or experience reports with the agilex Nero robot arm! I want to use it as a mobile manipulator, it's quite interesting given it's rather low price and high payload. [Link](https://www.mybotshop.de/AgileX-Nero-7-DoF)
 
-22h ago
+23h ago
 
 ---
 
@@ -112,7 +112,7 @@ I’m really hoping you all think robot mowers belong in the group for discussio
 
 "Your robot surgeon will see you now." We might not be too far off from that statement. And it might both reduce health care costs and increase availability.
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -126,15 +126,15 @@ Ars Technica • 1d ago
 
 **[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
 
-Tech Xplore • 58m ago
+Tech Xplore • 1h ago
 
 ---
 
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+**[This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)**
 
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
+General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
 
-mistral.ai • 8h ago
+TechCrunch • 2d ago
 
 ---
 
@@ -142,13 +142,21 @@ mistral.ai • 8h ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
 **[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
+
+---
+
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
+
+mistral.ai • 3h ago
 
 ---
 
@@ -169,14 +177,6 @@ Yahoo Finance • 3d ago
 **[Researchers build missing infrastructure to move AI between robots](https://techxplore.com/news/2026-07-infrastructure-ai-robots.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[Meet Isaac 1, the $8,000 home robot that wants to take folding laundry off your to-do list](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
-
-The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
-
-Business Insider • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 Varun Mayya
 
-👁️ 5K • 👍 317 • 💬 9 • ⏱️ 1:03 • 56m ago
+👁️ 5K • 👍 317 • 💬 9 • ⏱️ 1:03 • 1h ago
 
 ---
 
@@ -258,7 +258,7 @@ Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC dea
 
 📺 Fox Business Clips
 
-👁️ 12K • 👍 192 • 💬 79 • ⏱️ 8:37 • 1d ago
+👁️ 12K • 👍 192 • 💬 79 • ⏱️ 8:37 • 2d ago
 
 ---
 

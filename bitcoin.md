@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-11T16:58:56.975722+00:00'
+updated: '2026-07-11T17:59:26.566043+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 16:58 UTC  
+**Last Updated:** July 11, 2026 at 17:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,455.40
+### $64,168.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +0.8%  
-**30d:** +0.9%  
-**90d:** -13.9%  
-**1y:** -45.4%  
+**24h:** +0.8%  
+**7d:** +1.1%  
+**30d:** +1.1%  
+**90d:** -13.7%  
+**1y:** -45.2%  
 
 ---
 
@@ -79,7 +79,29 @@ Rank #1
 
 **[Bitcoin logo displayed on the Las Vegas Sphere 👀](https://www.reddit.com/r/Bitcoin/comments/1usz2g5/bitcoin_logo_displayed_on_the_las_vegas_sphere/)**
 
-20h ago
+21h ago
+
+---
+
+**[Long live bitcoin hodler](https://www.reddit.com/r/Bitcoin/comments/1utcfrs/long_live_bitcoin_hodler/)**
+
+11h ago
+
+---
+
+**[Cold storage vs. ETFs](https://www.reddit.com/r/Bitcoin/comments/1uti3ju/cold_storage_vs_etfs/)**
+
+At 46 years old and minimal retirement savings so far, I've been absorbing alot of people's perspectives on the best route for achieving my goals in a 15-yearish window. I'm unlikely to live to see hyperbitcoinization or the collapse of the fiat system. It seems like the most rational, reasonable approach would be to heavy index funds along with some Bitcoin ETFs. Safe and uncomplicated. I'm going with real Bitcoin in cold storage. Why? Because it stirs something in me. It makes me feel like I'm part of a revolution that the world desperately needs, rather than simply riding it's coattails to get my basic needs met. It feels more like living life rather than just prolonging it. That to me is worth some extra risk and effort.
+
+6h ago
+
+---
+
+**[Full nodes are too expensive for their intended purpose](https://www.reddit.com/r/Bitcoin/comments/1utc5vz/full_nodes_are_too_expensive_for_their_intended/)**
+
+I went to impulse buy a mini pc and 2 TB SSD to run a full node only to find out that will run me well over $500 and 2 TB SSD will not be enough space in the next handful of years and in need to spend more money. How does bitcoin expect to have world wide node operators when people in first world countries with full time employment (<1% global population) are not willing to fork over full node money and the prices are only continuing to expand for storage along with total storage needed also expanding? I realize that pruned nodes are a thing but what happens when the only full nodes being run are corporate types that have gov and investor eyes on their backs? Will bitcoin be able to maintain its white papers ethos of peer to peer e cash at the current rate? I would argue it already failed at the original claims. Maybe it will be successful as some other thing. Please assist. Not trying to be mean but these topics affect people’s savings so I believe they should be straight to the point so common people can make educated decisions.
+
+11h ago
 
 ---
 
@@ -89,11 +111,19 @@ Rank #1
 
 ---
 
-**[Full nodes are too expensive for their intended purpose](https://www.reddit.com/r/Bitcoin/comments/1utc5vz/full_nodes_are_too_expensive_for_their_intended/)**
+**[I built Freeport - a P2P marketplace over Nostr with a built-in self-custodial Lightning wallet](https://www.reddit.com/r/Bitcoin/comments/1utowmn/i_built_freeport_a_p2p_marketplace_over_nostr/)**
 
-I went to impulse buy a mini pc and 2 TB SSD to run a full node only to find out that will run me well over $500 and 2 TB SSD will not be enough space in the next handful of years and in need to spend more money. How does bitcoin expect to have world wide node operators when people in first world countries with full time employment (<1% global population) are not willing to fork over full node money and the prices are only continuing to expand for storage along with total storage needed also expanding? I realize that pruned nodes are a thing but what happens when the only full nodes being run are corporate types that have gov and investor eyes on their backs? Will bitcoin be able to maintain its white papers ethos of peer to peer e cash at the current rate? I would argue it already failed at the original claims. Maybe it will be successful as some other thing. Please assist. Not trying to be mean but these topics affect people’s savings so I believe they should be straight to the point so common people can make educated decisions.
+Freeport is a P2P marketplace (rides, services, goods) running entirely on Nostr relays - no server, no middleman. It now has payments built in: - Self-custodial Lightning (Breez SDK / Spark) - the app never holds funds - Wallet key derived from your Nostr key: one backup covers identity + wallet - No signup - keypair generated on-device, optional passkey login - Lightning address, bolt11, on-chain - Confirmed deals get a Pay button / QR with the agreed amount, auto-converted from fiat Fun fact: you can download the HTML file from releases page to run the whole app 😎
 
-10h ago
+1h ago
+
+---
+
+**[I built an autonomous ESP32-S3 controller to mine Bitcoin strictly using solar surplus (Zero grid consumption). Open Source! ☀️⛏️](https://www.reddit.com/r/Bitcoin/comments/1utpsqd/i_built_an_autonomous_esp32s3_controller_to_mine/)**
+
+Hey everyone, I just dropped v4.0 of my open-source Solar Crypto Mining Farm project, and I wanted to share the architecture. The goal was simple: mine Bitcoin only when there’s free solar energy, and never pay for grid electricity to do it. I’m running a 7,740Wp solar array into a custom mining fleet (Avalon Q, Nerd Octaxe, NerdQAxe+, and a BitAxe Gamma). To orchestrate this, I built an edge-computing controller using an auto-detected ESP32-S3. How it works: The ESP32-S3 polls a 6-channel Refoss EM06P energy monitor every 30 seconds via HTTP API. It calculates the exact solar surplus across a bi-phase circuit (W, VA, and VAR). The decision engine automatically switches between 16 calculated mining profiles (from a single 21W BitAxe up to a 2001W full fleet blasting 104.5 TH/s) to perfectly match the live surplus. Relays handle the smaller ASICs, while the Avalon Q is controlled via CGMiner API commands to scale its modes (Low/Mid/High). Everything is logged to a Supabase cloud database, and the ESP32 serves a live local web dashboard. I also built a live Three.js 3D visualization of the whole cluster operating in real-time. You can check out the live 3D dashboard here:https://0xraphael.com/solar-mining-clusterAnd the full repo (including the v4 per-phase W/VA/VAR scalar math and Tasmota configs) is available here: https://github.com/0xrphl/Solar-crypto-mining-farm-maximization-control Would love to hear any feedback on the energy modeling or the edge logic!
+
+44m ago
 
 ---
 
@@ -101,53 +131,23 @@ I went to impulse buy a mini pc and 2 TB SSD to run a full node only to find out
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
-**[Even old Bitcoin hodler can relate to this](https://www.reddit.com/r/Bitcoin/comments/1useuhk/even_old_bitcoin_hodler_can_relate_to_this/)**
+**[Brother died w/ 1 btc in wallet](https://www.reddit.com/r/Bitcoin/comments/1ute23j/brother_died_w_1_btc_in_wallet/)**
 
-1d ago
+In 2021, I lost my brother. He struggled with addiction for years, and even though we tried everything to help him, it eventually took his life. Going through his things afterward was one of the hardest experiences I’ve ever had. Mixed in with the chaos of his old notebooks, devices, and personal items, I found a Bitcoin wallet he had been using. It has around 1 BTC in it. I know that’s not a fortune, but right now it feels huge. I’m out of work, and I have a baby to take care of. Every day is a balancing act between grief, responsibility, and trying to keep us afloat. That 1 BTC wouldn’t fix everything, but it would give us some breathing room — something I haven’t felt in a long time. The problem is: I can’t find his seed phrase. I’ve searched every notebook, every scrap of paper, every old phone, every email account. Nothing. It’s like it vanished with him. I’m posting here because I don’t know where else to turn. I’m not looking to hand over sensitive info or fall for scams — I just want to know if anything can be done. If there are legitimate recovery methods or professionals who can help in situations like this. If someone can genuinely help and it’s real and verifiable, I’m willing to pay for the work (10% or whatever is fair). Here is the wallet address if anyone needs it for context or wants to check activity: 1BAhzEdUxGqXmtdqPZ8GFBS5nZ6z1yjBhE Any advice, guidance, or help means more than I can express. If one is able to get these funds to my wallet: bc1q9430zj28uvmhe70r2gyghxpr5ve6xzzggkf9nc It would be a lifesaver.
 
----
-
-**[Why does it drop faster than it picks up?](https://www.reddit.com/r/Bitcoin/comments/1ut8b2s/why_does_it_drop_faster_than_it_picks_up/)**
-
-I’m recently in 15k, wondering why it takes weeks to even go up higher than it went down within 24 hours.
-
-14h ago
+9h ago
 
 ---
 
-**[Satoshi Discussed Creating a Testnet For Bitcoin 16 Years Ago Today](https://www.reddit.com/r/Bitcoin/comments/1usspfq/satoshi_discussed_creating_a_testnet_for_bitcoin/)**
+**[Anyone else worried that it’s too easy?](https://www.reddit.com/r/Bitcoin/comments/1utpo6w/anyone_else_worried_that_its_too_easy/)**
 
-Re: Security 2010-07-10 12:58:02 UTC - - I'll start thinking about how to do this. At the moment, you can kind of use -connect. You can use -connect to make it connect to local computers on your LAN, like -connect=192.168.0.100. If you start it out blank and don't let it connect to the main network, the difficulty is still at the original low difficulty. If you've port-forwarded though, then outside nodes might still connect inward to you. With -connect it still uses IRC, do you think it shouldn't get on IRC when you're telling it to only connect to specific nodes with -connect? The main scenario for - connect is where you have a server farm, with two connected to the network and the rest connected to the first two. In that case, you wouldn't want the -connect computers on IRC. void ThreadIRCSeed(void* parg) { if (mapArgs.count("-connect")) return; Satoshi, would you be open to a --testnetwork (or something) flag to bitcoin that swapped to an alternate genesis block, data directory, listen port and IRC channel? Maybe with a really short average block generation time, too (like once per minute instead of once per 10 minutes) so everything happens ten times a fast to make testing quicker. I second this, however I don't think block generation time should be changed. I think it should be identical to the production network. This, for example, would allow testers to try to subvert the system by creating nodes with particularly low latency, and keep the results applicable to the real network. Great idea Gavin!
+Bitcoin is the best performing asset in human history, and we can just scale in at the scheduled bear market lows that occur every 4 years and 5x our money in a few years? I had these same thoughts after the FTX capitulation, that surely it can’t be this easy to buy here and wait. Sure enough, bitcoin went up almost 800% off the lows and I made a ton of money. Are they really going to let us do it again??
 
-🔗 [satoshitimeline.com](https://satoshitimeline.com/585) • 1d ago
-
----
-
-**[Exchange in Serbia](https://www.reddit.com/r/Bitcoin/comments/1uteefy/exchange_in_serbia/)**
-
-Are there any good stable exchanges to buy btc in Serbia?
-
-8h ago
-
----
-
-**[First Time Potential Buyer of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ut84hb/first_time_potential_buyer_of_bitcoin/)**
-
-Hello all, I am receiving a windfall next week. Probably the only time in my life I will see such a thing. I want to buy a whole bitcoin thru Fidelity but want to know other options that are out there for purchasing bitcoin. Any suggestions are welcomed.
-
-14h ago
-
----
-
-**[What hot wallet do you recommend?](https://www.reddit.com/r/Bitcoin/comments/1ut4a53/what_hot_wallet_do_you_recommend/)**
-
-Hi everyone I'm looking for a secure hot wallet for Bitcoin and other cryptos Security is the most important thing for me, but I also want something that's easy to use What hot wallet do you use and why? I'd like to hear your recommendations and experiences Thanks!
-
-17h ago
+49m ago
 
 ---
 
@@ -159,7 +159,7 @@ Hi everyone I'm looking for a secure hot wallet for Bitcoin and other cryptos Se
 
 It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 4h ago
 
 Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -175,7 +175,15 @@ The Motley Fool • 17h ago
 
 Bitcoin has a long history of bouncing back from extreme market declines.
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Is The Hardest Hurdle Rate To Beat, Says Strive CEO Matt Cole, And ‘Cash Is Almost Irresponsible’](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hardest-hurdle-rate-beat-160626254.html)**
+
+Strive CEO said he would continue buying Bitcoin even at $1 million and blamed delays to a US Strategic Bitcoin Reserve on lawmakers conflating Bitcoin.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,21 +191,13 @@ Yahoo Finance • 48m ago
 
 Bitcoin and Ethereum ETFs drew fresh inflows last week, ending an eight-week outflow run as prices recovered.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Blockstream's CEO Adam Back Says Bitcoin Rejected A Contested Upgrade And Won't Change Its Mind](https://finance.yahoo.com/markets/crypto/articles/blockstreams-ceo-adam-back-says-140341023.html)**
-
-The debate centers on proposals to limit non-payment data in Bitcoin transactions, with critics warning the effort could split the network.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin holds above $64,000 as investors weigh U.S. crypto policy shifts By Investing.com](https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225)**
 
-Investing.com • 6h ago
+Investing.com • 7h ago
 
 ---
 
@@ -213,7 +213,7 @@ New York Post • 1d ago
 
 American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
 
-Honolulu Star-Advertiser • 23h ago
+Honolulu Star-Advertiser • 1d ago
 
 ---
 
@@ -221,7 +221,7 @@ Honolulu Star-Advertiser • 23h ago
 
 Bitcoin (BTC) is seeing its best month of July since 2022, but analysis warns that the result could be firmly bearish.Key points:Analyst sees BTC price "picking up" for rest of July before reversalData from CoinGlass shows that at 9.5%, BITSTAMP:BTCUSD is setting a four-year record for July gains.B…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -249,7 +249,7 @@ Losing valuable information is a bad thing when you’re an archivist. Have we r
 
 Crypto-treasury giant Strategy sold $216 million of Bitcoin last week – a sign that it is abandoning co-founder Michael Saylor’s “Never sell your Bitcoin” mantra as a slumping digital asset market …
 
-⬆️ 5 • 💬 2 • 4d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
+⬆️ 5 • 💬 2 • 5d ago • [New York Post](https://nypost.com/2026/07/06/business/michael-saylors-strategy-sells-216m-of-bitcoin-as-it-abandons-never-sell-mantra/)
 
 ---
 
@@ -297,7 +297,7 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 363 • 💬 256 • 2d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 364 • 💬 256 • 2d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
@@ -317,7 +317,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 1K • 💬 37 • ⏱️ 52:26 • 3h ago
+👁️ 12K • 👍 1K • 💬 37 • ⏱️ 52:26 • 4h ago
 
 ---
 
@@ -337,7 +337,7 @@ For years, Bitcoin was dismissed as a scam that governments would eventually ban
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 79 • ⏱️ 14:28 • 18h ago
+👁️ 19K • 👍 1K • 💬 79 • ⏱️ 14:28 • 19h ago
 
 ---
 
@@ -347,7 +347,7 @@ From Trump to Coinbase to ETH we have NOTHING BUT GOOD NEWS TODAY! (rare) Join u
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 573 • 💬 64 • ⏱️ 27:47 • 22h ago
+👁️ 8K • 👍 573 • 💬 64 • ⏱️ 27:47 • 23h ago
 
 ---
 
@@ -357,7 +357,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 157 • 💬 26 • ⏱️ 17:34 • 16h ago
+👁️ 4K • 👍 157 • 💬 26 • ⏱️ 17:34 • 17h ago
 
 ---
 
@@ -397,7 +397,7 @@ BULLISH headlines are back in the news as bitcoin breaks up to $64000!! But can 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 314 • 💬 50 • ⏱️ 1:30:11 • 22h ago
+👁️ 6K • 👍 314 • 💬 50 • ⏱️ 1:30:11 • 23h ago
 
 ---
 
@@ -407,7 +407,7 @@ Strategy's Q2 2026 filing reveals an $8.32 billion unrealized loss on digital as
 
 📺 Dana Love, PhD
 
-👁️ 2K • 👍 75 • 💬 5 • ⏱️ 1:59 • 15h ago
+👁️ 2K • 👍 75 • 💬 5 • ⏱️ 1:59 • 16h ago
 
 ---
 

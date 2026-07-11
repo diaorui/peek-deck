@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-11T16:58:56.981721+00:00'
+updated: '2026-07-11T17:59:26.571345+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 16:58 UTC  
+**Last Updated:** July 11, 2026 at 17:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,818.30
+### $1,820.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +2.2%  
-**30d:** +9.4%  
-**90d:** -23.1%  
-**1y:** -38.0%  
+**24h:** +2.4%  
+**7d:** +2.3%  
+**30d:** +9.5%  
+**90d:** -23.0%  
+**1y:** -37.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, De
 
 I feel like that was the endgame of defi. You put $2000 in a perpetual futures vault, or some combination of blue chip pools, and then you spend 25 cents a day to bribe your way out of ads. Why did nobody integrate web3? People spent more in gas to move a jpeg than a monthly news subscription. I should be able to use fixed yield tools to continuously fund my favorite websites and creators, without either party exposing themselves to insolvency risk. The tooling is there to build yield-based subscription models, but very few sites are integrating with the Metamask compatible framework that all the gambling sites run on. It's like stepping into the future for a brief moment, only that they offer something that is mathematically predestined to reward specific behaviors over others in a negative sum fashion given the gas cost to do anything (it's still cheaper and more open than traditional payment routing methods). If the NYT needs 4 bucks a month to run, let me park $100 in some fixed-yield derivative of a degen farm where the future payout is guaranteed to the site for a year or something. I get like $90 bucks back on a bad year when I unlock my liquidity provisions, and we both make out in the green, because either the degen yield trader lost the farm, or leverage users had a Tuesday. Assuming the internet remains primarily free and ad driven, what obstacles are we dealing with?
 
-12h ago
+13h ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -166,19 +166,27 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Flip Positive After 8 Weeks: Will Price React?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-etfs-flip-positive-143950669.html)**
-
-Bitcoin and Ethereum ETFs drew fresh inflows last week, ending an eight-week outflow run as prices recovered.
-
-Yahoo Finance • 2h ago
-
----
-
 **[The triage is the product: running AI agents against Ethereum's protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product)**
 
 *Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
 
 ethereum.org • 2d ago
+
+---
+
+**[What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks](https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks)**
+
+Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
+
+Decrypt • 1h ago
+
+---
+
+**[Tom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-flags-interesting-ethereum-182915798.html)**
+
+Tom Lee shared a technical analysis by former Bank of America technical strategist Stephen Suttmeier suggesting Ethereum may be forming a short-term bottom after months of weakness.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -188,17 +196,17 @@ MarketWatch • 1d ago
 
 ---
 
-**[Opinions de Crypto Lovers Avhi(@Square-Creator-cryptoloves)](https://www.binance.com/fr-AF/square/post/343229914209986)**
+**[US spot Bitcoin ETFs see $90M inflows, Ethereum ETFs add $18M on July 10](https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-july-10/)**
 
-Binance • 1d ago
+US spot Bitcoin ETFs saw $90.4M in net inflows on July 10 while Ethereum ETFs added $18.4M, signaling cautious recovery after June's record $4B outflows.
+
+Crypto Briefing • 12h ago
 
 ---
 
-**[Bitcoin reclaims the cloud as Ethereum and Altcoin rotation strengthen](https://www.kitco.com/opinion/2026-07-10/bitcoin-reclaims-cloud-ethereum-and-altcoin-rotation-strengthen)**
+**[Opinions de Crypto Lovers Avhi(@Square-Creator-cryptoloves)](https://www.binance.com/fr-AF/square/post/343229914209986)**
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin closed green back inside the daily TBO Cloud on Thursday, while Ethereum remained in bullish consolidation and dominance charts continued to support the July rotation setup.Bitcoin reclaims the CloudBTC is back inside the Cloud with $64,700, $65,622 and $67,292 the next chart targets.Ethereum remains the cleaner major chartETH held bullish consolidation and is working on a second TBO Close Short, with immediate resistance around $1,830-$1,850.Dominance supports rotationStablecoin dominance is working on another Close Long, BTC.D is working on a Close Short, and ETH.D/SOL.D remain constructive. DXY could provide macro reliefDXY pierced the Cloud again and looks primed to reverse toward support, which would ease USDJPY and help risk assets.Gold and commoditiesGold printed a second TBT Bullish Divergence even as crypto’s July strength creates a more balanced cross-market picture.Selective altcoin setupsSOL is bouncing from the Fast line, with HYPE, AERO, ZRO, XTZ, 2Z and VVV also constructive. Stay cautious with overbought MORPHO/BCH and structurally weak WLD.Join The Better Traders Club for the full daily report.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
-
-KITCO • 1d ago
+Binance • 1d ago
 
 ---
 
@@ -206,15 +214,7 @@ KITCO • 1d ago
 
 The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
 
-FXStreet • 17h ago
-
----
-
-**[US spot Bitcoin ETFs see $90M inflows, Ethereum ETFs add $18M on July 10](https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-july-10/)**
-
-US spot Bitcoin ETFs saw $90.4M in net inflows on July 10 while Ethereum ETFs added $18.4M, signaling cautious recovery after June's record $4B outflows.
-
-Crypto Briefing • 11h ago
+FXStreet • 18h ago
 
 ---
 
@@ -236,7 +236,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 337 • 👍 30 • 💬 73 • ⏱️ 10:43 • 2h ago
+👁️ 337 • 👍 30 • 💬 73 • ⏱️ 10:43 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 1K • 👍 226 • 💬 203 • ⏱️ 24:07 • 2h ago
+👁️ 1K • 👍 226 • 💬 203 • ⏱️ 24:07 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 7K • 👍 321 • 💬 67 • ⏱️ 6:02 • 8h ago
+👁️ 7K • 👍 321 • 💬 67 • ⏱️ 6:02 • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 3K • 👍 101 • 💬 96 • ⏱️ 35:55 • 22h ago
+👁️ 3K • 👍 101 • 💬 96 • ⏱️ 35:55 • 23h ago
 
 ---
 
@@ -296,7 +296,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 181 • 💬 31 • ⏱️ 7:25 • 16h ago
+👁️ 3K • 👍 181 • 💬 31 • ⏱️ 7:25 • 17h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 115 • 👍 10 • 💬 9 • ⏱️ 4:19 • 7h ago
+👁️ 115 • 👍 10 • 💬 9 • ⏱️ 4:19 • 8h ago
 
 ---
 
@@ -326,7 +326,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 218 • 👍 32 • ⏱️ 6:23 • 1h ago
+👁️ 218 • 👍 32 • ⏱️ 6:23 • 2h ago
 
 ---
 
