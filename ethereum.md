@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-11T06:35:52.925901+00:00'
+updated: '2026-07-11T08:47:36.476525+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 06:35 UTC  
+**Last Updated:** July 11, 2026 at 08:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +1.0%  
-**30d:** +8.1%  
-**90d:** -24.0%  
+**24h:** +0.6%  
+**7d:** +1.1%  
+**30d:** +8.2%  
+**90d:** -23.9%  
 **1y:** -38.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.20B
+**Market Cap:** $217.37B
 Rank #2
 
 **Circulating Supply:** 120,683,053 ETH
@@ -62,7 +62,7 @@ No max supply
 -63.6%
 
 **All-Time Low:** $0.43
-+415682.3%
++415885.5%
 
 ---
 
@@ -156,7 +156,7 @@ ethereum.org • 1d ago
 
 Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
 
-The Block • 14h ago
+The Block • 16h ago
 
 ---
 
@@ -176,47 +176,49 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoin reclaims the cloud as Ethereum and Altcoin rotation strengthen](https://www.kitco.com/opinion/2026-07-10/bitcoin-reclaims-cloud-ethereum-and-altcoin-rotation-strengthen)**
+
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin closed green back inside the daily TBO Cloud on Thursday, while Ethereum remained in bullish consolidation and dominance charts continued to support the July rotation setup.Bitcoin reclaims the CloudBTC is back inside the Cloud with $64,700, $65,622 and $67,292 the next chart targets.Ethereum remains the cleaner major chartETH held bullish consolidation and is working on a second TBO Close Short, with immediate resistance around $1,830-$1,850.Dominance supports rotationStablecoin dominance is working on another Close Long, BTC.D is working on a Close Short, and ETH.D/SOL.D remain constructive. DXY could provide macro reliefDXY pierced the Cloud again and looks primed to reverse toward support, which would ease USDJPY and help risk assets.Gold and commoditiesGold printed a second TBT Bullish Divergence even as crypto’s July strength creates a more balanced cross-market picture.Selective altcoin setupsSOL is bouncing from the Fast line, with HYPE, AERO, ZRO, XTZ, 2Z and VVV also constructive. Stay cautious with overbought MORPHO/BCH and structurally weak WLD.Join The Better Traders Club for the full daily report.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
+
+KITCO • 16h ago
+
+---
+
 **[Current price of Ethereum for July 10, 2026](https://fortune.com/article/price-of-ethereum-07-10-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 22h ago
 
 ---
 
 **[Most large cryptocurrencies rise on Ethereum, Sui increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-sui-increases-f323c39d-de84d00fd4b6)**
 
-MarketWatch • 16h ago
+MarketWatch • 18h ago
 
 ---
 
-**[New Crypto: BNB Based AlphaPepe Nears Tier-1 Exchange Debut While Ethereum Price Prediction Targets $4000](https://markets.businessinsider.com/news/stocks/new-crypto-bnb-based-alphapepe-nears-tier-1-exchange-debut-while-ethereum-price-prediction-targets-4000-1036313078)**
+**[Crypto Today: Bitcoin, Ethereum, XRP hold recovery levels amid minor ETF outflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-recovery-levels-amid-minor-etf-outflows-202607102300)**
 
-MONACO, July  09, 2026  (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next p...
+The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
 
-markets.businessinsider.com • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC gears up for a breakout, ETH tests key EMA, XRP holds support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-gears-up-for-a-breakout-eth-tests-key-ema-xrp-holds-support-202607100351)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
-
-FXStreet • 1d ago
+FXStreet • 9h ago
 
 ---
 
-**[Best Ethereum Staking Platforms in 2026](https://www.ccn.com/crypto-investing/exchanges/best-ethereum-staking-platforms/)**
+**[Crypto Prices Today: BTC, ETH and XRP Price Rally](https://www.tradingview.com/news/coinpedia:fa9b2088a094b:0-crypto-prices-today-btc-eth-and-xrp-price-rally/)**
 
-CCN.com • 15h ago
+Crypto Prices today are back in the green as Bitcoin BITSTAMP:BTCUSD, Ethereum BITSTAMP:ETHUSD, and XRP posted gains of nearly 1.5% over the past 24 hours, lifting sentiment across the broader crypto market. While the price action appears modest at first glance, on-chain data suggests a much strong…
+
+TradingView • 23h ago
 
 ---
 
-**[Bitcoin reclaims the cloud as Ethereum and Altcoin rotation strengthen](https://www.kitco.com/opinion/2026-07-10/bitcoin-reclaims-cloud-ethereum-and-altcoin-rotation-strengthen)**
+**[Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins](https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/)**
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin closed green back inside the daily TBO Cloud on Thursday, while Ethereum remained in bullish consolidation and dominance charts continued to support the July rotation setup.Bitcoin reclaims the CloudBTC is back inside the Cloud with $64,700, $65,622 and $67,292 the next chart targets.Ethereum remains the cleaner major chartETH held bullish consolidation and is working on a second TBO Close Short, with immediate resistance around $1,830-$1,850.Dominance supports rotationStablecoin dominance is working on another Close Long, BTC.D is working on a Close Short, and ETH.D/SOL.D remain constructive. DXY could provide macro reliefDXY pierced the Cloud again and looks primed to reverse toward support, which would ease USDJPY and help risk assets.Gold and commoditiesGold printed a second TBT Bullish Divergence even as crypto’s July strength creates a more balanced cross-market picture.Selective altcoin setupsSOL is bouncing from the Fast line, with HYPE, AERO, ZRO, XTZ, 2Z and VVV also constructive. Stay cautious with overbought MORPHO/BCH and structurally weak WLD.Join The Better Traders Club for the full daily report.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets: http://www.masteringassets.com/?utm_source=kitco.com&amp;utm_campaign=commentaries&amp;utm_medium=text-link
+Base narrowly topped Ethereum in Visa’s June stablecoin volume data, showing how L2s are becoming key rails for tokenized dollar flows.
 
-KITCO • 14h ago
+CryptoSlate • 3d ago
 
 ---
 
@@ -230,7 +232,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 73 • 💬 73 • ⏱️ 35:55 • 11h ago
+👁️ 2K • 👍 75 • 💬 73 • ⏱️ 35:55 • 14h ago
 
 ---
 
@@ -240,57 +242,7 @@ On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennif
 
 📺 CoinDesk
 
-👁️ 941 • 👍 31 • 💬 19 • ⏱️ 22:55 • 15h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QbBAfcJgjCw)**
-
-BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 239 • 💬 112 • ⏱️ 21:55 • 8h ago
-
----
-
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=hNVJNtaBdWQ)**
-
-In this video I break down the current Ethereum price action to determine if we are seeing a true trend reversal or just another ...
-
-📺 More Crypto Online
-
-👁️ 876 • 👍 86 • 💬 16 • ⏱️ 7:25 • 5h ago
-
----
-
-**[Wartime Ethereum: The Case For ETH Going Much Higher](https://www.youtube.com/watch?v=QQcI8y1NJ8M)**
-
-John Gillen is an ex-BlackRock VP, General Partner at TRU Capital, and host of The Milk Road Show. In this episode, John ...
-
-📺 DeFi Dad
-
-👁️ 691 • 👍 26 • 💬 1 • ⏱️ 1:20:06 • 14h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=QWKYctMoKhU)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 423 • 👍 57 • ⏱️ 6:43 • 3h ago
-
----
-
-**[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 230 • 💬 38 • ⏱️ 13:21 • 2d ago
+👁️ 1K • 👍 34 • 💬 17 • ⏱️ 22:55 • 17h ago
 
 ---
 
@@ -300,27 +252,77 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 234 • 💬 51 • ⏱️ 18:35 • 1d ago
+👁️ 5K • 👍 239 • 💬 62 • ⏱️ 18:35 • 1d ago
 
 ---
 
-**[BlackRock Just Paid Its First Ethereum Paycheck Into Retirement Accounts](https://www.youtube.com/watch?v=Lm-Iw2EhLIs)**
+**[PUMPING: BITCOIN &amp; ETHEREUM SIGNAL !!!!](https://www.youtube.com/watch?v=9rCN2Hk1Nqo)**
 
-BlackRock just paid its first crypto staking paycheck, $351669.96, and it landed in ordinary brokerage accounts while nobody was ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
 
-📺 Alexander Lorenzo
+📺 The Moon Show
 
-👁️ 6K • 👍 533 • 💬 14 • ⏱️ 2:52 • 1d ago
+👁️ 808 • 👍 61 • 💬 3 • ⏱️ 6:02 • 42m ago
 
 ---
 
-**[🚨 BTC &amp; ETH: MY LAST YT VIDEO!!! BUT MOST IMPORTANT ONE!! YOU HAVE TO SEE THIS NOW!](https://www.youtube.com/watch?v=mzqA6MJSsGw)**
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=hNVJNtaBdWQ)**
 
-This is my last video in this format. But I think its most important one. ---------- Join My FREE Trading Group & School: ...
+In this video I break down the current Ethereum price action to determine if we are seeing a true trend reversal or just another ...
 
-📺 Thomas Kralow
+📺 More Crypto Online
 
-👁️ 19K • 👍 1K • 💬 54 • ⏱️ 13:33 • 1d ago
+👁️ 1K • 👍 121 • 💬 14 • ⏱️ 7:25 • 7h ago
+
+---
+
+**[Wartime Ethereum: The Case For ETH Going Much Higher](https://www.youtube.com/watch?v=QQcI8y1NJ8M)**
+
+John Gillen is an ex-BlackRock VP, General Partner at TRU Capital, and host of The Milk Road Show. In this episode, John ...
+
+📺 DeFi Dad
+
+👁️ 836 • 👍 30 • 💬 2 • ⏱️ 1:20:06 • 16h ago
+
+---
+
+**[Raoul Pal :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=feqnc_NJ6cY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 231 • 💬 38 • ⏱️ 13:21 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=QWKYctMoKhU)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 680 • 👍 68 • ⏱️ 6:43 • 5h ago
+
+---
+
+**[Ethereum Price Prediction - Don&#39;t Be The Entry Liquidity [ETH Crypto Price Analysis]](https://www.youtube.com/watch?v=Jd53Ur7gOaY)**
+
+Ethereum cryptocurrency price analysis. ETH cryptocurrency price prediction. Ethereum price prediction. Ethereum price today.
+
+📺 HueFin News
+
+👁️ 54 • ⏱️ 6:11 • 8h ago
+
+---
+
+**[BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QbBAfcJgjCw)**
+
+BITCOIN PRICE SQUEEZE: Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 256 • 💬 105 • ⏱️ 21:55 • 10h ago
 
 ---
 

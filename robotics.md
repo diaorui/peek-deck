@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T06:35:52.929060+00:00'
+updated: '2026-07-11T08:47:36.478752+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 06:35 UTC  
+**Last Updated:** July 11, 2026 at 08:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -132,7 +132,13 @@ Ars Technica • 1d ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 15h ago
+New Atlas • 17h ago
+
+---
+
+**[Mistral launches first robotics model in physical AI push](https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -140,13 +146,7 @@ New Atlas • 15h ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 1h ago
-
----
-
-**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
-
-Reuters • 11h ago
+The Guardian • 3h ago
 
 ---
 
@@ -154,15 +154,7 @@ Reuters • 11h ago
 
 The U1 brings a human face to embodied AI, betting on the market of 'emotional companionship.'
 
-Fast Company • 20h ago
-
----
-
-**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
-
-Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
-
-mistral.ai • 3h ago
+Fast Company • 22h ago
 
 ---
 
@@ -171,6 +163,14 @@ mistral.ai • 3h ago
 BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
+
+Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
+
+mistral.ai • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 17K • 👍 929 • 💬 59 • ⏱️ 2:38 • 15h ago
+👁️ 20K • 👍 1K • 💬 65 • ⏱️ 2:38 • 17h ago
 
 ---
 
@@ -220,7 +220,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 169K • 👍 4K • 💬 293 • ⏱️ 10:56 • 6d ago
+👁️ 170K • 👍 4K • 💬 292 • ⏱️ 10:56 • 6d ago
 
 ---
 
@@ -230,7 +230,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 108K • 👍 3K • 💬 499 • ⏱️ 13:32 • 6d ago
+👁️ 109K • 👍 3K • 💬 499 • ⏱️ 13:32 • 6d ago
 
 ---
 
@@ -240,47 +240,7 @@ The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in phy
 
 📺 1X
 
-👁️ 67K • 👍 3K • 💬 367 • ⏱️ 1:48 • 1d ago
-
----
-
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 8K • 👍 198 • 💬 34 • ⏱️ 10:42 • 4d ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 97K • 👍 4K • 💬 167 • ⏱️ 11:20 • 4d ago
-
----
-
-**[UBTECH U WORLD U1: Ultra-Bionic Humanoid Robots](https://www.youtube.com/watch?v=HVSA83KpQes)**
-
-Discover the groundbreaking UBTECH U WORLD Ultra-Bionic Humanoid Robots — the future of personal robotics has arrived!
-
-📺 Zoom Vantage
-
-👁️ 2K • 👍 62 • 💬 6 • ⏱️ 4:05 • 2d ago
-
----
-
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
-
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
-
-📺 Munro Live
-
-👁️ 50K • 👍 2K • 💬 216 • ⏱️ 38:47 • 2d ago
+👁️ 69K • 👍 3K • 💬 377 • ⏱️ 1:48 • 1d ago
 
 ---
 
@@ -291,6 +251,46 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 📺 China Observer
 
 👁️ 68K • 👍 2K • 💬 560 • ⏱️ 20:21 • 3d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 99K • 👍 4K • 💬 167 • ⏱️ 11:20 • 4d ago
+
+---
+
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+
+📺 Kalil 4.0
+
+👁️ 8K • 👍 204 • 💬 36 • ⏱️ 10:42 • 4d ago
+
+---
+
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+
+📺 Munro Live
+
+👁️ 51K • 👍 2K • 💬 216 • ⏱️ 38:47 • 2d ago
+
+---
+
+**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
+
+Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
+
+📺 Fox Business Clips
+
+👁️ 10K • 👍 169 • 💬 62 • ⏱️ 8:37 • 1d ago
 
 ---
 

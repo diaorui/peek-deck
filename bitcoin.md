@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-11T06:35:52.919929+00:00'
+updated: '2026-07-11T08:47:36.472405+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 11, 2026 at 06:35 UTC  
+**Last Updated:** July 11, 2026 at 08:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** -0.2%  
 **7d:** +1.0%  
 **30d:** +1.1%  
 **90d:** -13.7%  
-**1y:** -45.3%  
+**1y:** -45.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1287.40B
+**Market Cap:** $1288.15B
 Rank #1
 
-**Circulating Supply:** 20,054,750 BTC
+**Circulating Supply:** 20,054,765 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.1%
 
 **All-Time Low:** $67.81
-+94586.6%
++94611.7%
 
 ---
 
@@ -129,7 +129,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Just curious what price you were hoping for
 
-1d ago
+2d ago
 
 ---
 
@@ -161,13 +161,15 @@ This took a lot of work and would love your feedback on what's missing, what can
 
 Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Eric Trump’s Bitcoin Bet Erases $600 Million From Family Fortune](https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune)**
+**['Communication challenge, nothing more': Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem](https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem)**
 
-Bloomberg.com • 1d ago
+Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one.
+
+The Block • 20h ago
 
 ---
 
@@ -175,7 +177,47 @@ Bloomberg.com • 1d ago
 
 It would give residents a formal but nonbinding way to weigh in.
 
-Yahoo • 43m ago
+Yahoo • 2h ago
+
+---
+
+**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
+
+American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
+
+Honolulu Star-Advertiser • 15h ago
+
+---
+
+**[Michael Saylor’s recent Bitcoin sales are a worry for crypto investors](https://nypost.com/2026/07/10/business/michael-saylors-recent-bitcoin-sales-are-a-worry-for-crypto-investors/)**
+
+Is Saylor going to turn the current Bitcoin winter into the storm of the century for crypto?
+
+New York Post • 21h ago
+
+---
+
+**[Even with Gold Below $4,150 and Bitcoin Under $64,000, I'd Still Rather Buy This Unstoppable Dividend Stock in July](https://www.fool.com/investing/2026/07/10/even-with-gold-below-4150-and-bitcoin-under-64000/)**
+
+Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.
+
+The Motley Fool • 9h ago
+
+---
+
+**[Mara’s Big Texas Power Play Isn’t About Bitcoin](https://www.trefis.com/stock/mara/articles/606607/maras-big-texas-power-play-isnt-about-bitcoin/2026-07-10)**
+
+The crypto miner's stock jumped after it announced a deal that has investors looking past digital currency and toward a much bigger prize: AI. If you glanced at Marathon Digital (MARA ) on Thursday, you might have assumed its 10.0% surge was just another volatile day in the crypto mines. You’d be...
+
+Trefis • 20h ago
+
+---
+
+**[Bitcoin’s Slump Forces a Crypto Booster’s Retreat](https://thedispatch.com/newsletter/morning/bitcoins-slump-forces-a-crypto-boosters-retreat/)**
+
+Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
+
+The Dispatch • 22h ago
 
 ---
 
@@ -189,45 +231,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin rebounds above $64k, heads for small weekly rise on tech-led rally](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-64k-heads-for-weekly-rise-on-techled-rally-4785390)**
 
-Investing.com • 23h ago
-
----
-
-**[Bitcoin’s Slump Forces a Crypto Booster’s Retreat](https://thedispatch.com/newsletter/morning/bitcoins-slump-forces-a-crypto-boosters-retreat/)**
-
-Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
-
-The Dispatch • 20h ago
-
----
-
-**[Even with Gold Below $4,150 and Bitcoin Under $64,000, I'd Still Rather Buy This Unstoppable Dividend Stock in July](https://www.fool.com/investing/2026/07/10/even-with-gold-below-4150-and-bitcoin-under-64000/)**
-
-Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.
-
-The Motley Fool • 7h ago
-
----
-
-**[Mara’s Big Texas Power Play Isn’t About Bitcoin](https://www.trefis.com/stock/mara/articles/606607/maras-big-texas-power-play-isnt-about-bitcoin/2026-07-10)**
-
-The crypto miner's stock jumped after it announced a deal that has investors looking past digital currency and toward a much bigger prize: AI. If you glanced at Marathon Digital (MARA ) on Thursday, you might have assumed its 10.0% surge was just another volatile day in the crypto mines. You’d be...
-
-Trefis • 18h ago
-
----
-
-**[JPMorgan says bitcoin's main risk isn't Strategy, but blockchain adoption that doesn't benefit public chains and tokens](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto)**
-
-JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
-
-The Block • 1d ago
-
----
-
-**[Strategy's Trilemma: How Saylor Can Offset Bitcoin Losses With STRC Buybacks (NASDAQ:MSTR)](https://seekingalpha.com/article/4921129-strategy-trilemma-how-saylor-can-offset-bitcoin-losses-with-strc-buybacks)**
-
-Seeking Alpha • 17h ago
+Investing.com • 1d ago
 
 ---
 
@@ -273,7 +277,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -281,7 +285,7 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 16h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
+⬆️ 1 • 💬 0 • 18h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
 
 ---
 
@@ -297,21 +301,13 @@ Contribute to raphaelwkago69-create/GLYPH development by creating an account on 
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 363 • 💬 254 • 1d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 363 • 💬 254 • 2d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
 **[Ditching Vagrant: VMs with KVM and Virsh on Debian](https://news.ycombinator.com/item?id=48805342)**
 
-⬆️ 89 • 💬 42 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
-
----
-
-**[The NTP server of Australia's largest mobile provider reset time to 2006](https://news.ycombinator.com/item?id=48855370)**
-
-Government agencies and academics both recently warned Telstra it was vulnerable to the type of error that caused this week's national outage.
-
-⬆️ 4 • 💬 2 • 1d ago • [abc.net.au](https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906)
+⬆️ 92 • 💬 42 • 4d ago • [benjamintoll.com](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 
 ---
 
@@ -325,7 +321,7 @@ Coinbase Vice Chair Ryan Vangrack joins 'Mornings with Maria' to discuss Congres
 
 📺 Fox Business
 
-👁️ 66K • 👍 1K • 💬 529 • ⏱️ 12:46 • 15h ago
+👁️ 70K • 👍 1K • 💬 605 • ⏱️ 12:46 • 17h ago
 
 ---
 
@@ -335,17 +331,7 @@ For years, Bitcoin was dismissed as a scam that governments would eventually ban
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 65 • ⏱️ 14:28 • 8h ago
-
----
-
-**[Bitcoin &amp; Crypto Good News Friday!](https://www.youtube.com/watch?v=UcXX9BE8VhQ)**
-
-From Trump to Coinbase to ETH we have NOTHING BUT GOOD NEWS TODAY! (rare) Join us Nov. 20-22nd In Miami for Ben's ...
-
-📺 Digital Asset News
-
-👁️ 7K • 👍 525 • 💬 61 • ⏱️ 27:47 • 11h ago
+👁️ 14K • 👍 1K • 💬 64 • ⏱️ 14:28 • 10h ago
 
 ---
 
@@ -355,37 +341,17 @@ BULLISH headlines are back in the news as bitcoin breaks up to $64000!! But can 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 281 • 💬 38 • ⏱️ 1:30:11 • 12h ago
+👁️ 6K • 👍 291 • 💬 38 • ⏱️ 1:30:11 • 14h ago
 
 ---
 
-**[Bitcoin Core Industrial Complex Panicking](https://www.youtube.com/watch?v=DTHTDVc2zTg)**
+**[Bitcoin &amp; Crypto Good News Friday!](https://www.youtube.com/watch?v=UcXX9BE8VhQ)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how the anti-BIP-110 side in this civil ...
+From Trump to Coinbase to ETH we have NOTHING BUT GOOD NEWS TODAY! (rare) Join us Nov. 20-22nd In Miami for Ben's ...
 
-📺 Bitcoin University
+📺 Digital Asset News
 
-👁️ 7K • 👍 1K • 💬 270 • ⏱️ 9:40 • 17h ago
-
----
-
-**[Is The Bitcoin Power Law Broken? | Matthew Mezinskis](https://www.youtube.com/watch?v=oJXECyP_oas)**
-
-I think in ten years, the financial system and the Bitcoin system are going to collide.” Matthew Mezinskis is a macroeconomic ...
-
-📺 What Bitcoin Did
-
-👁️ 7K • 👍 286 • 💬 200 • ⏱️ 1:40:44 • 13h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=sigSZCnSa6M)**
-
-Bitcoin has a way of making investors question everything during the most difficult parts of the cycle. In this video, we take a step ...
-
-📺 Benjamin Cowen
-
-👁️ 61K • 👍 4K • 💬 276 • ⏱️ 29:53 • 15h ago
+👁️ 8K • 👍 535 • 💬 61 • ⏱️ 27:47 • 14h ago
 
 ---
 
@@ -399,13 +365,43 @@ The biggest attacks on Bitcoin have often become its biggest strengths. The 2017
 
 ---
 
+**[Is The Bitcoin Power Law Broken? | Matthew Mezinskis](https://www.youtube.com/watch?v=oJXECyP_oas)**
+
+I think in ten years, the financial system and the Bitcoin system are going to collide.” Matthew Mezinskis is a macroeconomic ...
+
+📺 What Bitcoin Did
+
+👁️ 8K • 👍 303 • 💬 205 • ⏱️ 1:40:44 • 15h ago
+
+---
+
 **[Bitcoin About To Print Its First Bull Market Signal In 3 Years...](https://www.youtube.com/watch?v=zJIHEcOd88w)**
 
 My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 550 • 💬 378 • ⏱️ 17:47 • 15h ago
+👁️ 8K • 👍 560 • 💬 335 • ⏱️ 17:47 • 18h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=sigSZCnSa6M)**
+
+Bitcoin has a way of making investors question everything during the most difficult parts of the cycle. In this video, we take a step ...
+
+📺 Benjamin Cowen
+
+👁️ 66K • 👍 4K • 💬 289 • ⏱️ 29:53 • 17h ago
+
+---
+
+**[Bitcoin Bullish Buildup Begins](https://www.youtube.com/watch?v=wtVFbD489Wk)**
+
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 12K • 👍 695 • 💬 63 • ⏱️ 55:58 • 17h ago
 
 ---
 
@@ -415,7 +411,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 126 • 💬 11 • ⏱️ 15:58 • 1d ago
+👁️ 3K • 👍 127 • 💬 11 • ⏱️ 15:58 • 1d ago
 
 ---
 
