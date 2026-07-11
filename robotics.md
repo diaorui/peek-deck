@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T10:15:26.745117+00:00'
+updated: '2026-07-11T11:30:23.600023+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 10:15 UTC  
+**Last Updated:** July 11, 2026 at 11:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -132,7 +132,7 @@ Ars Technica • 1d ago
 
 "Your robot surgeon will see you now." We might not be too far off from that statement. And it might both reduce health care costs and increase availability.
 
-Forbes • 15h ago
+Forbes • 17h ago
 
 ---
 
@@ -146,7 +146,7 @@ Reuters • 2d ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -166,19 +166,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Tenacious tiny bot speeds, leaps and climbs stairs to capture footage](https://newatlas.com/consumer-tech/mondo-beni-robot-action-cam/)**
-
-Beni looks like just another cute little toy robot, but it's actually a roving camera – raring to follow you around and capture fun times. Oh, and it can jump.
-
-New Atlas • 15h ago
-
----
-
 **[Robostral Navigate: single-camera AI navigation](https://mistral.ai/news/robostral-navigate/)**
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 7h ago
+mistral.ai • 8h ago
 
 ---
 
@@ -190,9 +182,25 @@ Business Insider • 2d ago
 
 ---
 
+**[Kraken Robotics: No Glass Slipper From Anduril (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4920874-kraken-robotics-no-glass-slipper-from-anduril)**
+
+Seeking Alpha • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
+
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
+
+📺 ABC News
+
+👁️ 11K • 👍 205 • 💬 62 • ⏱️ 1:54 • 1d ago
+
+---
 
 **[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
 
@@ -200,7 +208,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 20K • 👍 1K • 💬 65 • ⏱️ 2:38 • 19h ago
+👁️ 23K • 👍 1K • 💬 71 • ⏱️ 2:38 • 20h ago
 
 ---
 
@@ -220,7 +228,7 @@ America's New Humanoid Robot Is Shocking Everyone The United States is known aro
 
 📺 Future Core
 
-👁️ 170K • 👍 4K • 💬 292 • ⏱️ 10:56 • 6d ago
+👁️ 171K • 👍 4K • 💬 292 • ⏱️ 10:56 • 6d ago
 
 ---
 
@@ -230,17 +238,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 109K • 👍 3K • 💬 499 • ⏱️ 13:32 • 6d ago
-
----
-
-**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
-
-The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
-
-📺 1X
-
-👁️ 69K • 👍 3K • 💬 377 • ⏱️ 1:48 • 1d ago
+👁️ 109K • 👍 3K • 💬 501 • ⏱️ 13:32 • 6d ago
 
 ---
 
@@ -250,7 +248,17 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 68K • 👍 2K • 💬 560 • ⏱️ 20:21 • 3d ago
+👁️ 69K • 👍 2K • 💬 565 • ⏱️ 20:21 • 3d ago
+
+---
+
+**[NEO’s Hands](https://www.youtube.com/watch?v=QRyXV3csReA)**
+
+The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI. 1X has developed hands that ...
+
+📺 1X
+
+👁️ 71K • 👍 3K • 💬 388 • ⏱️ 1:48 • 1d ago
 
 ---
 
@@ -260,27 +268,17 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 99K • 👍 4K • 💬 167 • ⏱️ 11:20 • 5d ago
+👁️ 100K • 👍 4K • 💬 167 • ⏱️ 11:20 • 5d ago
 
 ---
 
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+**[Humanoid robots complete world-first operation on live pigs | 9 News Australia](https://www.youtube.com/watch?v=2IswgVGlkXo)**
 
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+Humanoid robots controlled by surgeons have completed the world's first operation on live pigs. | *Subscribe and ...
 
-📺 Kalil 4.0
+📺 9 News Australia
 
-👁️ 8K • 👍 204 • 💬 36 • ⏱️ 10:42 • 4d ago
-
----
-
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
-
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
-
-📺 Munro Live
-
-👁️ 51K • 👍 2K • 💬 216 • ⏱️ 38:47 • 2d ago
+👁️ 10K • 👍 40 • 💬 3 • ⏱️ 1:55 • 1d ago
 
 ---
 
@@ -290,7 +288,7 @@ Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC dea
 
 📺 Fox Business Clips
 
-👁️ 10K • 👍 169 • 💬 62 • ⏱️ 8:37 • 1d ago
+👁️ 10K • 👍 172 • 💬 64 • ⏱️ 8:37 • 1d ago
 
 ---
 
