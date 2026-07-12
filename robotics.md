@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T18:03:30.242134+00:00'
+updated: '2026-07-12T19:38:31.495627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 18:03 UTC  
+**Last Updated:** July 12, 2026 at 19:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 10h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 12h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 Engineers have spent billions teaching robots to do backflips and solve complex math, yet a wet, mossy hill can stop a state-of-the-art robot completely. This video breaks down how researchers solved that problem not with better software, but by copying the design of a mountain goat's hoof, using a rigid outer shell to mimic keratin and a soft flexible core to mimic the natural grip pad, creating a robotic foot that uses zero cameras, sensors, or microprocessors. The result is a purely mechanical solution called passive mechanics, proving that sometimes evolution has already engineered the answer millions of years before we did. Published research on biomimetic robotic foot design for rough terrain locomotion
 
-🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 23h ago
+🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 1d ago
 
 ---
 
@@ -100,7 +100,7 @@ For aesthetic reasons, robots are typically equipped with outer casings around t
 
 I am looking for reviews or experience reports with the agilex Nero robot arm! I want to use it as a mobile manipulator, it's quite interesting given it's rather low price and high payload. [Link](https://www.mybotshop.de/AgileX-Nero-7-DoF)
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
 
-Cowboy State Daily • 23h ago
+Cowboy State Daily • 1d ago
 
 ---
 
@@ -124,11 +124,27 @@ Ars Technica • 2d ago
 
 ---
 
+**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
+
+St. Pius High School held their first ever robotics competition Saturday in Albuquerque
+
+KOB.com • 14h ago
+
+---
+
+**[Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction](https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/)**
+
+Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
+
+CNET • 7h ago
+
+---
+
 **[How to Evaluate General-Purpose Robot Policies for Real-World Deployment](https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/)**
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 16h ago
+NVIDIA Developer • 18h ago
 
 ---
 
@@ -136,7 +152,7 @@ NVIDIA Developer • 16h ago
 
 Altera, a maker of programmable chips spun out of Intel, is growing roughly 20% a year and more than ‌doubling operating income as it prepares for an eventual public listing, Chief Executive Raghib ‌Hussain told Reuters in an interview.  Altera became fully independent last September after Intel agreed to sell a 51% stake ​to Silver Lake for $4.46 billion in a transaction valuing Altera at $8.75 billion.  Intel retains a 49% stake.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -150,7 +166,7 @@ Tech Xplore • 1d ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 6h ago
+hyundai.com • 8h ago
 
 ---
 
@@ -170,22 +186,6 @@ MIT News • 3d ago
 
 ---
 
-**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
-
-Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
-
-New Atlas • 2d ago
-
----
-
-**[City of Bixby honors middle school robotics team with proclamation](https://ktul.com/news/local/city-of-bixby-honors-middle-school-robotics-team-with-proclamation-07-12-2026)**
-
-BIXBY, Okla. &mdash; The City of Bixby recognized the Bixby Middle School Robotics Team with a proclamation, honoring their achievement of placing top five in the wor
-
-KTUL • 32m ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,27 +196,15 @@ Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that c
 
 📺 MIT Mechanical Engineering
 
-👁️ 115K • 👍 4K • 💬 231 • ⏱️ 4:04 • 3d ago
+👁️ 126K • 👍 5K • 💬 248 • ⏱️ 4:04 • 3d ago
 
 ---
 
-**[Robot’s first day at call center ends in full kung fu meltdown office chaos on CCTV](https://www.youtube.com/watch?v=saSGzM_tVx8)**
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
 
-Jul 5, 2026 Security camera footage from an office in China captures a startling malfunction involving a Unitree humanoid robot ...
+📺 Varun Mayya
 
-📺 FOU News
-
-👁️ 1.3M • 👍 21K • 💬 3K • ⏱️ 0:22 • 6d ago
-
----
-
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
-
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
-
-📺 PRO ROBOTS
-
-👁️ 25K • 👍 753 • 💬 57 • ⏱️ 29:49 • 3d ago
+👁️ 118K • 👍 4K • 💬 72 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -226,17 +214,7 @@ Surgeons in the US have just achieved a world-first, using humanoid robots in th
 
 📺 7NEWS Australia
 
-👁️ 6K • 👍 25 • 💬 9 • ⏱️ 1:36 • 9h ago
-
----
-
-**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
-
-How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
-
-📺 Suhel Experiment
-
-👁️ 7K • 💬 14 • ⏱️ 1:30 • 3h ago
+👁️ 7K • 👍 27 • 💬 9 • ⏱️ 1:36 • 10h ago
 
 ---
 
@@ -246,45 +224,65 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 35K • 👍 1K • 💬 100 • ⏱️ 2:38 • 2d ago
+👁️ 36K • 👍 1K • 💬 104 • ⏱️ 2:38 • 2d ago
 
 ---
 
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
 
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
 
-📺 Kalil 4.0
+📺 Suhel Experiment
 
-👁️ 15K • 👍 354 • 💬 54 • ⏱️ 10:42 • 5d ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 110K • 👍 5K • 💬 170 • ⏱️ 11:20 • 6d ago
+👁️ 11K • 💬 16 • ⏱️ 1:30 • 5h ago
 
 ---
 
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+**[Kids Spent a Day with New Robot Friend](https://www.youtube.com/watch?v=R13RoeN7nd4)**
 
-📺 Varun Mayya
+In this family adventure story kids learn to respect each other and that nothing is better than to have a real friend! 00:00 Kids Spent ...
 
-👁️ 108K • 👍 4K • 💬 66 • ⏱️ 1:03 • 1d ago
+📺 Chris kids show
+
+👁️ 343K • 👍 1K • ⏱️ 20:47 • 1d ago
 
 ---
 
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+**[Scientists Put Robot Animals In The Wild... The Results Were Shocking😳](https://www.youtube.com/watch?v=HvdFnrzHN3U)**
 
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+Scientists placed realistic robot animals into the wild to study animal behavior, teamwork, and empathy. What happened next ...
 
-📺 Munro Live
+📺 Peak Swag
 
-👁️ 64K • 👍 2K • 💬 217 • ⏱️ 38:47 • 4d ago
+👁️ 584K • 👍 9K • 💬 51 • ⏱️ 0:50 • 22h ago
+
+---
+
+**[Is Beni the Camera Robot A.I?](https://www.youtube.com/watch?v=YAXBQbIGxjY)**
+
+Everyone seems to think Beni the Camera Robot is A.I… so I had to check for myself Buy here: ...
+
+📺 Ricky Glaser
+
+👁️ 77K • 👍 3K • 💬 145 • ⏱️ 0:53 • 3d ago
+
+---
+
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
+
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
+
+📺 PRO ROBOTS
+
+👁️ 25K • 👍 755 • 💬 57 • ⏱️ 29:49 • 3d ago
+
+---
+
+**[industrial robot #automation #machine #industrialrobots #robot#industry](https://www.youtube.com/watch?v=--1JZR9tp44)**
+
+📺 Robot Julie 
+
+👁️ 36K • 👍 106 • 💬 1 • ⏱️ 0:08 • 2d ago
 
 ---
 

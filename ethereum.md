@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T18:03:30.238733+00:00'
+updated: '2026-07-12T19:38:31.493407+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 18:03 UTC  
+**Last Updated:** July 12, 2026 at 19:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
+**24h:** -0.4%  
 **7d:** +1.2%  
 **30d:** +8.3%  
 **90d:** -21.6%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $219.56B
+**Market Cap:** $219.50B
 Rank #2
 
 **Circulating Supply:** 120,683,028 ETH
@@ -62,7 +62,7 @@ No max supply
 -63.2%
 
 **All-Time Low:** $0.43
-+420132.9%
++419978.1%
 
 ---
 
@@ -186,7 +186,7 @@ Decrypt • 1d ago
 
 Tom Lee shared a technical analysis by former Bank of America technical strategist Stephen Suttmeier suggesting Ethereum may be forming a short-term bottom after months of weakness.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 2d ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -220,11 +220,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum Foundation says AI found real protocol bugs, but humans still run the show](https://cryptobriefing.com/ethereum-foundation-ai-protocol-bugs-cve/)**
+**[Ethereum traders, watch THESE metrics as ETH hits rare accumulation zone](https://ambcrypto.com/ethereum-traders-watch-these-metrics-as-eth-hits-rare-accumulation-zone/)**
 
-Ethereum Foundation's AI audit found a real validator-crashing bug in libp2p gossipsub, patched as CVE-2026-34219, but human triage remains essential.
+Can $1,800 become Ethereum's next launchpad?
 
-Crypto Briefing • 19h ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -232,43 +232,43 @@ Crypto Briefing • 19h ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 7K • 👍 574 • 💬 545 • ⏱️ 24:07 • 1d ago
-
----
-
 **[Tom Lee: &quot;Ethereum to $40,000 At This Date&quot; [SUPER REALISTIC $40,000 Prediction for Ethereum]](https://www.youtube.com/watch?v=mSaGuGBSeVQ)**
 
 Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 106 • 💬 26 • ⏱️ 18:37 • 1d ago
+👁️ 4K • 👍 110 • 💬 26 • ⏱️ 18:37 • 1d ago
 
 ---
 
-**[HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows](https://www.youtube.com/watch?v=mTjKDEh-A3U)**
+**[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
 
-HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows Support The O Show with Ref Links: ...
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
-📺 CryptoWendyO
+📺 Jordan Camirand
 
-👁️ 3K • 👍 204 • 💬 17 • ⏱️ 9:31 • 1d ago
+👁️ 7K • 👍 589 • 💬 542 • ⏱️ 24:07 • 1d ago
 
 ---
 
-**[Joseph Chalom: Ethereum Is Going On Offense (Full Thesis)](https://www.youtube.com/watch?v=0LPp4GQuujo)**
+**[BITCOIN &amp; CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EdVoKXkF-nQ)**
 
-Joseph Chalom makes the case that Ethereum has the license to win and is finally going on offense to prove it, backed by ETH ...
+BITCOIN & CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Rollup
+📺 Crypto World
 
-👁️ 3K • 👍 183 • 💬 13 • ⏱️ 29:05 • 7h ago
+👁️ 1K • 👍 146 • 💬 53 • ⏱️ 20:15 • 2h ago
+
+---
+
+**[RLUSD Just Passed Ethereum On The XRP Ledger |](https://www.youtube.com/watch?v=xVnVGgKru5A)**
+
+Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━━━━━━━━━━━━━━━ CRYPTO & INVESTING ...
+
+📺 Kamilah Stevenson
+
+👁️ 220 • 👍 37 • 💬 2 • ⏱️ 0:39 • 23m ago
 
 ---
 
@@ -278,7 +278,17 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 1K • 👍 112 • 💬 22 • ⏱️ 16:06 • 11h ago
+👁️ 1K • 👍 126 • 💬 30 • ⏱️ 16:06 • 12h ago
+
+---
+
+**[HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows](https://www.youtube.com/watch?v=mTjKDEh-A3U)**
+
+HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows Support The O Show with Ref Links: ...
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 206 • 💬 18 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -288,27 +298,27 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 93 • 💬 137 • ⏱️ 10:43 • 1d ago
+👁️ 2K • 👍 95 • 💬 137 • ⏱️ 10:43 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Boie8Sa2ECU)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=OQzcrKPAgtY)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Profit First
+📺 Crypto Gyan
 
-👁️ 420 • 👍 49 • ⏱️ 7:45 • 4h ago
+👁️ 2K • 👍 117 • ⏱️ 8:17 • 16h ago
 
 ---
 
-**[BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pc6zL23Vt_s)**
+**[Joseph Chalom: Ethereum Is Going On Offense (Full Thesis)](https://www.youtube.com/watch?v=0LPp4GQuujo)**
 
-BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Joseph Chalom makes the case that Ethereum has the license to win and is finally going on offense to prove it, backed by ETH ...
 
-📺 Crypto World
+📺 The Rollup
 
-👁️ 7K • 👍 344 • 💬 263 • ⏱️ 21:18 • 21h ago
+👁️ 4K • 👍 239 • 💬 14 • ⏱️ 29:05 • 8h ago
 
 ---
 
@@ -318,17 +328,7 @@ I think Internet Computer Protocol is on the way to being the number one cryptoc
 
 📺 Jerry Banfield ICP
 
-👁️ 2K • 👍 209 • 💬 67 • ⏱️ 18:43 • 1d ago
-
----
-
-**[🍟 Trump Is Pumping ETHEREUM](https://www.youtube.com/watch?v=kcvqSQxsC5o)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 1K • 👍 148 • 💬 6 • ⏱️ 10:59 • 15h ago
+👁️ 2K • 👍 214 • 💬 67 • ⏱️ 18:43 • 1d ago
 
 ---
 

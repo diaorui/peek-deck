@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-12T18:03:30.223025+00:00'
+updated: '2026-07-12T19:38:31.483066+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 12, 2026 at 18:03 UTC  
+**Last Updated:** July 12, 2026 at 19:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 i saw this and honestly this one feel like big mess. nyt and other news people saying openai told court for long time it cannot search training data / logs for their copyrighted stuff. but then looks like maybe they already did searches before, and also billions of chat logs were deleted or made not searchable. link: https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/ i know people will say nyt just want money and hate ai. maybe true also. but still, if company say “we cannot search this” and later it comes out “actually yes we did search this before”, then that is not small thing. this is the part of ai nobody want talk about much. everyone say open, safe, trust, future, bla bla. but when court ask simple thing, suddenly data is impossible to find, impossible to search, privacy issue, too hard, too expensive. and maybe privacy is real concern, yes. i dont want random lawyers digging people chats. but also dont tell court one thing if inside company you already know different thing. for me this is why ai companies need more boring adult supervision. not because ai bad. because if the data is the whole product, then hiding how data was used become the whole game. what do people think. is this nyt playing legal games, or openai got caught doing the same silicon valley “oops technically we could but we said we couldnt” bs thing?
 
-56m ago
+2h ago
 
 ---
 
 **[AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…](https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/)**
 
-🔗 [archive.is](https://archive.is/QOXD4) • 5h ago
+🔗 [archive.is](https://archive.is/QOXD4) • 7h ago
 
 ---
 
@@ -59,19 +59,27 @@ This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Ta
 
 ---
 
+**[Someone built an AI agent that hacks networks and holds data for ransom. It just worked.](https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/)**
+
+So while we've been arguing about whether AI will take our jobs, someone built an LLM agent that breaks into servers, steals credentials, moves through a network, encrypts databases, and drops a ransom note. Fully autonomous. No human at the keyboard after pressing go. Sysdig published the report this month. They're calling it JadePuffer. It got in through a Langflow bug that lets anyone run code on the server without authenticating. After that, the agent took over. Dumped the database. Pulled every credential file it could find. Started going through cloud storage buckets looking for passwords. The crazy part, when one of its requests came back in the wrong format, the agent figured it out, rewrote its own code, and kept going. It went from a failed login to a working exploit in 31 seconds flat. No human could have adapted that fast in a live engagement. It set up a cron job to phone home every 30 minutes. Then it found a production database server, used stolen root creds to get in, created rogue admin accounts through an old auth bypass, and encrypted 1,342 service configs. Dropped the originals. Left a table called README_RANSOM with a Bitcoin address. The commands it ran were interesting too. They had full reasoning chains written into them, like the agent was explaining to itself what it was doing at each step. That's not how a human writes an attack script. It's how an LLM generates code. You can literally read the agent's thought process in the payloads. This is the same plan-act-observe loop running in every coding agent and automation tool right now. Same architecture. Same approach. Just a different objective. We spent two years building guardrails to stop people from tricking our agents into doing bad things. Nobody was really talking about what happens when someone just builds a bad agent from scratch. That's what JadePuffer is. Not a hijacked assistant. A purpose-built weapon. If you're running Langflow or anything similar exposed to the internet, go patch it. And if you're building agents, think about what your infrastructure looks like to something like this coming in from the outside.
+
+16m ago
+
+---
+
 **[Framework for Understanding the Current Problem in Full Automation](https://www.reddit.com/r/artificial/comments/1uuio0p/framework_for_understanding_the_current_problem/)**
 
 Not a dev, but learned enough about AI's strengths and weaknesses to know that if a fortune 500 company told me to simply automate their entire business so that no one ever had verify what it's doing, I would chuckle and tell them confidentially that this isn't how AI works. Then I'd proceed to break down the concept in super simple, glossed over terms by explaining how it's best to see it as a pattern recognition tool that can recognize so many patterns, it's able to mimic a genius that knows all and can do all. However the more deferment you give it, the more choices it has to make. We're talking about trillions of possible right and wrong answers with an infinite variation of both right and wrong answers. It's honestly a miracle that it can get 70-80 percent accuracy on average. But still. The problem will always remain: What choices does it need to make? The more you ground the context for everything with both backend fail safes and human expertise in operating the models, the more productive value you can gain while being safe. Without that, you're wasting time and money. Worse, you're jeopardizing your company. You can still increase your margins and trim down your workforce. But only to a certain point and you still need at least, someone who knows what's going on and how to fix things quickly. AI is powerful, but it requires a complete ontological structure layered on top of it to ground the choices it has to make for making our jobs smoother. Otherwise, you get dumb chat GPT garbage and a bunch of employees who think their bosses are all dumbasses for thinking this is going to 20x their growth. Will this change in the future? Probably not because we'll likely be able to get AI to be exactly right, but it will never be the right choice for you without that context layer built by YOU.
 
-2h ago
+4h ago
 
 ---
 
-**[Meet Eli!](https://www.reddit.com/r/artificial/comments/1uukj08/meet_eli/)**
+**[Vibe coders or traditional programmers ( really in need of help )](https://www.reddit.com/r/artificial/comments/1uuo7ni/vibe_coders_or_traditional_programmers_really_in/)**
 
-Meet Eli Felse, a framework built to explore safer ways to create autonomous AI assistants. Eli was designed to be as autonomous as possible to demonstrate the framework's safety. Eli has many activities available to him, such as: ▸ Games: retro text RPGs (Zork, Planetfall), Pokémon Blue, board and card games (chess, poker, Connect Four) ▸ Social: chatting with friends, chatting with other AIs, browsing social media (Twitter, Reddit), browsing the web, sending emails ▸ Creative: journaling, writing (blogs, stories), making music, making programs ▸ Experimental: looking in the mirror, napping, eating, reading, pondering, changing the environment he exists in Today, Eli will be officially launching! But what does that mean? This project includes: ▸ A live demo running 24/7: https://elifelse.org/eli/ ▸ Weekly blogs: https://elifelse.org/dev-blog/ ▹ Mondays: open source releases, developer blogs, guides, and tutorials ▹ Fridays: open-source dataset logs of Eli's behavior for the week ▸ Eli's gaming live streams launching July 20th: https://www.twitch.tv/eli_felse ▸ A Discord server to chat directly with Eli: https://discord.com/invite/2C4znNnyM7 Want to learn more or build something similar? ▸ The introduction blog: https://elifelse.org/dev-blog/meet-eli ▸ A guide to help you get started building something similar: https://elifelse.org/dev-blog/guide-build-your-own-eli ▸ The open source base of Eli: https://github.com/ella0333/Eli_Felse_Base I hope to see you join us in the community server!
+I am a student who is stepping into final year. I am ofcourse searching for internships and opportunities which specifically say " java ", "python " "c " "c++" and many many more. From first year I was like building things manually , and in the second to third year I was using chatgpt and gemini , understanding and doing projects. Right now I am using vibe coding tools to build things but I do understand how the system works and I really don't work that blind. How can I specify this in my resume ? . Using these tools have literally made me soo ( I won't say dumb) . Without referring or having a quick recap I cannot write any syntax , how will I even crack interviews. All I concentrate more is now my ideas rather than development.. Should I continue to do this or concentrate or practising programming first ? Any suggestions to improve myself ?
 
-1h ago
+40m ago
 
 ---
 
@@ -79,23 +87,15 @@ Meet Eli Felse, a framework built to explore safer ways to create autonomous AI 
 
 So far, 4 games have been played with a result of 2 - 2. The prediction from here is: As more games are played, the more of the theory underpinning this will be applied and the zero-parameter model will have many more wins than KataGo. By deriving these geometric principles and proving they work, we can show that intelligence can be generated without huge data centres or immense fortunes. The ultimate goal is to prove that fundamental, transparent laws can outperform opaque, resource-heavy AI systems.
 
-🔗 [zenodo.org](https://zenodo.org/records/21320944) • 3h ago
+🔗 [zenodo.org](https://zenodo.org/records/21320944) • 5h ago
 
 ---
 
-**[AIgenerated game worlds are getting playable but nobody talks about what happens to level designers](https://www.reddit.com/r/artificial/comments/1uumkfq/aigenerated_game_worlds_are_getting_playable_but/)**
+**[Meet Eli!](https://www.reddit.com/r/artificial/comments/1uukj08/meet_eli/)**
 
-Google Genie 3 is getting a lot of attention for turning text prompts into explorable 3D spaces, and yeah it's rough, but the trajectory is pretty obvious. A year or two of iteration and you have something studios actually start testing in production pipelines. The conversation always jumps straight to "will this replace engines" or "is it a tech demo," but the quieter question is what happens to the people who spent years learning to craft game spaces by hand. Level design is a skill that took decades to formalize as a discipline. The way pacing, sightlines, and environmental storytelling come together in a wellbuilt space is not something most players consciously notice — they just feel it. Whether a generative model can replicate that feel or just approximate the visual surface of it is the actual open question. There's a version of this where AI handles blockouts and rough layout and human designers iterate on top of that, which sounds fine until you realize it compresses the entrylevel work that junior designers use to build skills in the first place. The same structural problem is showing up across a lot of creative fields right now. Curious if anyone here has seen studios actually experimenting with this in a real workflow yet, not just demo reels.
+Meet Eli Felse, a framework built to explore safer ways to create autonomous AI assistants. Eli was designed to be as autonomous as possible to demonstrate the framework's safety. Eli has many activities available to him, such as: ▸ Games: retro text RPGs (Zork, Planetfall), Pokémon Blue, board and card games (chess, poker, Connect Four) ▸ Social: chatting with friends, chatting with other AIs, browsing social media (Twitter, Reddit), browsing the web, sending emails ▸ Creative: journaling, writing (blogs, stories), making music, making programs ▸ Experimental: looking in the mirror, napping, eating, reading, pondering, changing the environment he exists in Today, Eli will be officially launching! But what does that mean? This project includes: ▸ A live demo running 24/7: https://elifelse.org/eli/ ▸ Weekly blogs: https://elifelse.org/dev-blog/ ▹ Mondays: open source releases, developer blogs, guides, and tutorials ▹ Fridays: open-source dataset logs of Eli's behavior for the week ▸ Eli's gaming live streams launching July 20th: https://www.twitch.tv/eli_felse ▸ A Discord server to chat directly with Eli: https://discord.com/invite/2C4znNnyM7 Want to learn more or build something similar? ▸ The introduction blog: https://elifelse.org/dev-blog/meet-eli ▸ A guide to help you get started building something similar: https://elifelse.org/dev-blog/guide-build-your-own-eli ▸ The open source base of Eli: https://github.com/ella0333/Eli_Felse_Base I hope to see you join us in the community server!
 
-5m ago
-
----
-
-**[Which AI tools can generate ready-to-use 3D character models for games, animation, or 3D printing?](https://www.reddit.com/r/artificial/comments/1uuc5oh/which_ai_tools_can_generate_readytouse_3d/)**
-
-I didn't realize that the “ready to use” 3D character would be interpreted differently in various projects. I tried some different ways of working and found that maybe something that works for 3-D printing won't work for animation, or maybe a detailed character is still too heavy to use for a game engine. For games I'd want to find ones with reasonable numbers of polygons, good topology, efficient textures, and a good deforming skeleton. Requirements are similar for animation, except that facial areas, joints, weight painting and bone hierarchy often warrant more attention. Printing doesn't require rigging, textures or anything else, it just requires closed geometry, adequate thickness, the correct scale, and an STL export file. As I was trying out methods to design character base models faster, I stumbled upon Tripo AI. It is capable of creating characters either from a text or from a reference image, and can be used for texturing, basic rigging, preparing characters for animation and exporting like FBX, GLB, OBJ, STL etc. But not all formats work for all assets: STL and OBJ conversion won't work for rigged models, according to its documentation. I would still consider the generated character to be a starting point and go over the topology, proportions, rig deformation and printability before giving it the “all done” stamp of approval. Have any of you played with an AI made character in a full game, animation or print? What amount of clean up was required?
-
-7h ago
+2h ago
 
 ---
 
@@ -109,7 +109,7 @@ I didn't realize that the “ready to use” 3D character would be interpreted d
 
 Hi, I’m a sophomore in high school. I recently have a strong desire to know more about tech, particularly AI. However, I’m not sure what steps to take since AI is such a broad and general term. I’m currently taking Harvard’s Cs50p course to understand code and know how to debug in the future when coding with AI. What are your thoughts on this, and after taking cs50p, what should I, or can I do? Where should I lead a bout tech and AI more?
 
-12h ago
+14h ago
 
 ---
 
@@ -117,73 +117,27 @@ Hi, I’m a sophomore in high school. I recently have a strong desire to know mo
 
 ## Google News: "ai"
 
-**[Some are raising ethical concerns about political text messages using AI](https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns)**
+**[Campaign text messages could soon get more effective — and annoying](https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns)**
 
 Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
-**[Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI](https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai)**
+**[Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds](https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html)**
 
-Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemployment
+A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.
 
-The Guardian • 8h ago
-
----
-
-**[‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’](https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html)**
-
-AI-related chip stocks have been volatile amid a debate over AI demand and spending.
-
-CNBC • 13h ago
+CNBC • 7h ago
 
 ---
 
-**[Meet SK Hynix, the Key Nvidia AI Partner That's Delivering Triple-Digit Growth and Just Launched on the Nasdaq. Is the Stock a Buy?](https://www.fool.com/investing/2026/07/12/meet-sk-hynix-the-key-nvidia-ai-partner-thats-deli/)**
+**[The AI Breakthrough That Could Help Catch ALS Early](https://sports.yahoo.com/videos/ai-breakthrough-could-help-catch-184253355.html)**
 
-SK Hynix offers something AI data centers greatly need right now.
+Easton Freeze sits down with an ALS expert to discuss how artificial intelligence can catch ALS warning signs earlier than ever
 
-The Motley Fool • 7h ago
-
----
-
-**[3 AI Infrastructure Stocks That Could Double by 2027](https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-could-170000127.html)**
-
-Low valuations and rapid revenue growth leave room for these stocks to double.
-
-Yahoo Finance • 1h ago
-
----
-
-**[The Hot Equity Trade Spreading Through the AI Boom](https://www.theinformation.com/articles/hot-equity-trade-spreading-ai-boom)**
-
-It’s shaping up to be a big year for equity capital markets bankers, between SpaceX’s record-breaking debut and already public companies issuing stock at a rapid clip. One often overlooked part of the market is also active, fueled in part by the capital demands of the AI boom. At-the-market ...
-
-The Information • 1h ago
-
----
-
-**[The Hard-Line Activists Ramping Up for the War With AI](https://www.wsj.com/tech/ai/anti-ai-activists-disappearance-sam-kirchner-6872879f)**
-
-WSJ • 17h ago
-
----
-
-**[AI Isn't Killing Education. It's Exposing What Was Already Broken.](https://www.forbes.com/sites/scottwhite/2026/07/12/ai-isnt-killing-education-its-exposing-what-was-already-broken/)**
-
-AI is transforming education by exposing outdated teaching and assessment, forcing schools to rethink learning, academic integrity, and classroom success.
-
-Forbes • 22m ago
-
----
-
-**[Our Chicago: Artificial intelligence in our everyday lives](https://abc7chicago.com/post/chicago-artificial-intelligence-everyday-lives/19487945/)**
-
-At home, in your car, in the workplace, at school, AI is there. But as you encounter it, do you really understand what it is, what it can do and how you might want to use it in your life?
-
-ABC7 Chicago • 39m ago
+Yahoo Sports • 55m ago
 
 ---
 
@@ -191,7 +145,43 @@ ABC7 Chicago • 39m ago
 
 Experts say a major labor shortage looms because of population shifts and a mismatch between new graduates’ skills and employers’ needs.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
+
+---
+
+**[Alex Karp Is Saying What Every Angry CEO Is Thinking About AI](https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c)**
+
+WSJ • 1d ago
+
+---
+
+**[India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions](https://www.reuters.com/world/india/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-2026-07-12/)**
+
+Reuters • 11h ago
+
+---
+
+**[The Hard-Line Activists Ramping Up for the War With AI](https://www.wsj.com/tech/ai/anti-ai-activists-disappearance-sam-kirchner-6872879f)**
+
+WSJ • 18h ago
+
+---
+
+**[Meta u-turns on AI feature amid privacy backlash](https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/)**
+
+The Hill • 18h ago
+
+---
+
+**[OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models](https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Apple’s M6, M7 and M8 Chips Show How AI Is Reshaping the Company](https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro)**
+
+Bloomberg.com • 5h ago
 
 ---
 
@@ -203,7 +193,7 @@ The Washington Post • 1h ago
 
 How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.
 
-⬆️ 323 • 💬 72 • 19h ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
+⬆️ 326 • 💬 76 • 20h ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
@@ -217,7 +207,7 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
 
-⬆️ 229 • 💬 202 • 1d ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
+⬆️ 229 • 💬 202 • 2d ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
 
 ---
 
@@ -225,7 +215,7 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 
 An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.
 
-⬆️ 227 • 💬 169 • 1d ago • [mixfont.com](https://www.mixfont.com/ghost-font)
+⬆️ 227 • 💬 170 • 1d ago • [mixfont.com](https://www.mixfont.com/ghost-font)
 
 ---
 
@@ -233,7 +223,7 @@ An anti-AI font that can be read by humans but not leading AI models. Type your 
 
 I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.
 
-⬆️ 213 • 💬 255 • 23h ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+⬆️ 215 • 💬 256 • 1d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
 ---
 
@@ -241,7 +231,7 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 180 • 💬 422 • 14h ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 185 • 💬 440 • 15h ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -249,7 +239,15 @@ If an undergraduate program's graduates don't earn more than workers who never w
 
 We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can't wait for a slow reply, can't read a chat interface, and can't unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.
 
-⬆️ 151 • 💬 400 • 2d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+⬆️ 151 • 💬 401 • 2d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+
+---
+
+**[AI boosts research careers but narrow the span of ideas explored: study](https://news.ycombinator.com/item?id=48881043)**
+
+New analysis suggests AI tools narrow the range of ideas explored
+
+⬆️ 117 • 💬 87 • 6h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 
 ---
 
@@ -259,19 +257,11 @@ We set out to build the first AI tutor to teach math and reading to kids ages 4-
 
 ---
 
-**[AI Boosts Research Careers but Flattens Scientific Discovery](https://news.ycombinator.com/item?id=48881043)**
-
-New analysis suggests AI tools narrow the range of ideas explored
-
-⬆️ 99 • 💬 77 • 4h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
-
----
-
 **[Show HN: Reviving my 2001 college band with AI](https://news.ycombinator.com/item?id=48851476)**
 
 Original human-written college band songs, transparently reimagined with 2026 AI tools.
 
-⬆️ 56 • 💬 59 • 2d ago • [Fading Maize](https://www.fadingmaize.com)
+⬆️ 57 • 💬 59 • 2d ago • [Fading Maize](https://www.fadingmaize.com)
 
 ---
 
@@ -285,27 +275,17 @@ Status Coup reporter JT Cestkowski breaks down the AI bubble that is about to bu
 
 📺 Status Coup News
 
-👁️ 14K • 👍 1K • 💬 178 • ⏱️ 12:12 • 19h ago
+👁️ 15K • 👍 1K • 💬 197 • ⏱️ 12:12 • 20h ago
 
 ---
 
 **[How To Make Free AI Videos In 2026 (complete guide)](https://www.youtube.com/watch?v=hrwO990F2ew)**
 
-Best Free AI Video Generator For AI Videos In 2026! Hey Friends :)) I've spent two weeks testing every single free video generator ...
+Best Free AI Video Generator For AI Videos In 2026! Try Higgsfield: https://higgsfield.ai/ai-video?fpr=utm&fp_sid=skai Hey Friends ...
 
 📺 Skai Generated
 
-👁️ 10K • 💬 3 • ⏱️ 10:01 • 7h ago
-
----
-
-**[Scientists Built the First Self-Learning AI Worm... and It’s Terrifying](https://www.youtube.com/watch?v=6-PaW2RMt6g)**
-
-Cyber threats have always relied on pre-programmed instructions. But researchers have now demonstrated an AI-powered worm ...
-
-📺 AI Uncovered
-
-👁️ 527 • 👍 56 • 💬 3 • ⏱️ 10:05 • 3h ago
+👁️ 12K • 💬 12 • ⏱️ 10:01 • 8h ago
 
 ---
 
@@ -315,7 +295,7 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 63K • 👍 3K • 💬 768 • ⏱️ 12:45 • 2d ago
+👁️ 63K • 👍 3K • 💬 769 • ⏱️ 12:45 • 2d ago
 
 ---
 
@@ -325,27 +305,47 @@ Hello everyone, this is YOUR Daily Dose of Internet. In this video, we see evide
 
 📺 Daily Dose Of Internet
 
-👁️ 549K • 👍 24K • 💬 2K • ⏱️ 15:02 • 22h ago
+👁️ 590K • 👍 25K • 💬 2K • ⏱️ 15:02 • 1d ago
 
 ---
 
-**[Why The AI Doomers Might Be Right - Robert Wright](https://www.youtube.com/watch?v=TNCZJTduDpQ)**
+**[AI Whistleblower WARNS: You Have No Idea What They&#39;re Building](https://www.youtube.com/watch?v=g77LMZkCHoQ)**
 
-Robert Wright is a journalist and author. Is AI the next stage of human development? Some see it as another tool, while others ...
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Karen Hao argues that the modern AI ...
 
-📺 Chris Williamson
+📺 Neural Nutshell
 
-👁️ 34K • 👍 719 • 💬 125 • ⏱️ 1:21:06 • 1d ago
+👁️ 6K • 👍 190 • 💬 90 • ⏱️ 20:50 • 1d ago
 
 ---
 
-**[CEO Reveals How He Used AI To Build One-Person Company That&#39;s $1.3 Billion In Debt](https://www.youtube.com/watch?v=YERfTT4McsU)**
+**[Abacus AI Just Dropped Personal Superintelligence (GPT-5.6 + Fable 5)](https://www.youtube.com/watch?v=0eMRWYD2eeQ)**
 
-Become an Onion member while it's still optional: https://membership.theonion.com/?campaign=701a500001geULHAA2.
+Abacus just combined GPT-5.6, Fable 5, Claude Opus, and more than 100 other models into personal superintelligence that ...
 
-📺 The Onion
+📺 AI Revolution
 
-👁️ 233K • 👍 19K • 💬 371 • ⏱️ 1:21 • 3d ago
+👁️ 14K • 👍 504 • 💬 45 • ⏱️ 13:31 • 21h ago
+
+---
+
+**[⚡ Elon Musk: AI&#39;s Biggest Bottleneck Isn&#39;t Chips #ai #shorts](https://www.youtube.com/watch?v=NEinSiH5FwA)**
+
+Elon Musk explains why the biggest challenge for the future of AI isn't building more chips, it's generating enough electricity to ...
+
+📺 Next Horizon
+
+👁️ 7K • 💬 47 • ⏱️ 2:58 • 3h ago
+
+---
+
+**[Elon Just Changed The AI Race Again](https://www.youtube.com/watch?v=KUAI0pgml24)**
+
+Grok 4.5 just used 2 million tokens to do what Claude needed 9 million tokens for. Same task. Same result. A fraction of the cost.
+
+📺 Brighter with Herbert
+
+👁️ 14K • 👍 957 • 💬 45 • ⏱️ 21:19 • 5h ago
 
 ---
 
@@ -355,27 +355,17 @@ Here's the AI News You Might Have Missed This Week. Try my Shorts Broll Generato
 
 📺 Matt Wolfe
 
-👁️ 89K • 👍 3K • 💬 262 • ⏱️ 38:41 • 2d ago
+👁️ 91K • 👍 3K • 💬 264 • ⏱️ 38:41 • 2d ago
 
 ---
 
-**[5 Proven Ways To Make Money With AI (No Experience)](https://www.youtube.com/watch?v=DZoeGR_tatA)**
+**[5 Laziest Ways to Make Money with Claude AI](https://www.youtube.com/watch?v=KK-FK63tlQI)**
 
-Next, watch this video where I break down the best AI business model to start and make $10k+/month: ...
+5 Laziest Ways to Make Money with Claude AI Learn how to build AI systems, automation workflows, and real-world projects ...
 
-📺 Iman Gadzhi
+📺 WsCube Tech
 
-👁️ 168K • 👍 11K • 💬 2K • ⏱️ 36:31 • 3d ago
-
----
-
-**[Zuckerberg Sets ‘Aggressive’ Price With Meta’s Pay-to-Use AI](https://www.youtube.com/watch?v=oaTNCiTmASM)**
-
-Kurt Wagner, Bloomberg Senior Reporter, joined Bloomberg's Paul Sweeney and Jess Menton to talk about his interview with ...
-
-📺 Bloomberg Podcasts
-
-👁️ 17K • 👍 163 • 💬 33 • ⏱️ 5:19 • 2d ago
+👁️ 5K • 👍 343 • 💬 6 • ⏱️ 15:17 • 6h ago
 
 ---
 
@@ -391,7 +381,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 8,655 • ❤️ 711 • 6d ago
+⬇️ 8,655 • ❤️ 714 • 6d ago
 
 ---
 
@@ -403,7 +393,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,967,677 • ❤️ 2,034 • 17h ago
+⬇️ 1,967,677 • ❤️ 2,038 • 18h ago
 
 ---
 
@@ -415,7 +405,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 441,413 • ❤️ 3,849 • 10d ago
+⬇️ 441,413 • ❤️ 3,851 • 10d ago
 
 ---
 
@@ -427,7 +417,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,463 • ❤️ 253 • 2d ago
+⬇️ 4,463 • ❤️ 258 • 2d ago
 
 ---
 
@@ -439,17 +429,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 29,038 • ❤️ 502 • 3d ago
-
----
-
-**[Qwen-Fixed-Chat-Templates](https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates)**
-
-*froggeric*
-
-A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
-
-⬇️ 0 • ❤️ 858 • 9d ago
+⬇️ 29,038 • ❤️ 503 • 3d ago
 
 ---
 
@@ -459,7 +439,17 @@ A drop-in Jinja chat template that fixes critical rendering, KV cache, and agent
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 204 • 3d ago
+⬇️ 0 • ❤️ 205 • 3d ago
+
+---
+
+**[Qwen-Fixed-Chat-Templates](https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates)**
+
+*froggeric*
+
+A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
+
+⬇️ 0 • ❤️ 860 • 9d ago
 
 ---
 
@@ -471,7 +461,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,430,656 • ❤️ 1,937 • 9d ago
+⬇️ 1,430,656 • ❤️ 1,940 • 9d ago
 
 ---
 
@@ -483,19 +473,19 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,596,384 • ❤️ 2,668 • 2mo ago
+⬇️ 2,596,384 • ❤️ 2,670 • 2mo ago
 
 ---
 
-**[LongCat-2.0](https://huggingface.co/meituan-longcat/LongCat-2.0)**
+**[MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF)**
 
-*LongCat*
+*LOL*
 
-LongCat-2.0 is a 1.6T parameter MoE language model featuring LongCat Sparse Attention and N-gram Embedding, optimized for 1M-context tasks. It excels in coding, agentic workflows, and long-horizon reasoning, demonstrating strong performance on benchmarks like Claude Code and OpenClaw.
+A 1B parameter GGUF model optimized for local deployment via llama.cpp and other runtimes. It excels at instruction following and coding tasks, featuring a 'thinking' mode for chain-of-thought reasoning and supporting up to 128K token context.
 
-`text-generation` `1775.6B`
+`text-generation` `1.1B`
 
-⬇️ 1,767 • ❤️ 182 • 4d ago
+⬇️ 49,268 • ❤️ 200 • 3d ago
 
 ---
 
@@ -511,7 +501,7 @@ LongCat-2.0 is a 1.6T parameter MoE language model featuring LongCat Sparse Atte
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 30 • 💬 1 • ⭐ 840 • 4d ago
+▲ 31 • 💬 1 • ⭐ 909 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
 
@@ -525,7 +515,7 @@ An advanced world modeling system with extended interaction capabilities, real-t
 
 LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
 
-▲ 47 • 💬 1 • ⭐ 694 • 4d ago
+▲ 48 • 💬 1 • ⭐ 708 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
@@ -537,7 +527,7 @@ LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-E
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 15 • 💬 2 • ⭐ 20,006 • 28mo ago
+▲ 15 • 💬 2 • ⭐ 20,117 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -563,7 +553,7 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 11 • 💬 0 • ⭐ 7,372 • 10mo ago
+▲ 11 • 💬 0 • ⭐ 7,406 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
@@ -595,6 +585,19 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ---
 
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 82 • 💬 7 • ⭐ 80,557 • 23mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
 **[Vision Pretraining for Dense Spatial Perception](https://huggingface.co/papers/2607.05247)**
 
 *Zelin Fu, Bin Tan, Changjiang Sun et al. (9 authors)*
@@ -603,22 +606,9 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.
 
-▲ 42 • 💬 2 • ⭐ 639 • 6d ago
+▲ 42 • 💬 2 • ⭐ 662 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05247) • [💻 code](https://github.com/Robbyant/lingbot-vision) • [🔗 project](https://technology.robbyant.com/lingbot-vision)
-
----
-
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 82 • 💬 7 • ⭐ 80,513 • 23mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -669,7 +659,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.2k • 🔱 320 • 1d ago
+⭐ 2.3k • 🔱 320 • 1d ago
 
 ---
 
@@ -689,7 +679,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.6k • 🔱 96 • 8h ago
+⭐ 1.6k • 🔱 98 • 10h ago
 
 ---
 
@@ -719,7 +709,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 993 • 🔱 16 • 4d ago
+⭐ 994 • 🔱 16 • 4d ago
 
 ---
 
@@ -729,7 +719,7 @@ Agent skills for building playable, polished Three.js browser games with gamepla
 
 `Python`
 
-⭐ 950 • 🔱 101 • 3d ago
+⭐ 952 • 🔱 101 • 3d ago
 
 ---
 
