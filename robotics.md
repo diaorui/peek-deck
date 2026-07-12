@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T21:51:47.828190+00:00'
+updated: '2026-07-12T22:49:55.383997+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 21:51 UTC  
+**Last Updated:** July 12, 2026 at 22:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 14h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ Cowboy State Daily • 1d ago
 
 Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
 
-CNET • 9h ago
+CNET • 10h ago
 
 ---
 
@@ -136,7 +136,7 @@ CNET • 9h ago
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 20h ago
+NVIDIA Developer • 21h ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance • 2d ago
 
 St. Pius High School held their first ever robotics competition Saturday in Albuquerque
 
-KOB.com • 16h ago
+KOB.com • 17h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Guardian • 1d ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 10h ago
+hyundai.com • 11h ago
 
 ---
 
@@ -182,7 +182,7 @@ hyundai.com • 10h ago
 
 Ukraine's Brave1 defense cluster opened a grant for domestic bipedal humanoid combat robots under a separate category.
 
-Euromaidan Press • 2h ago
+Euromaidan Press • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ War Robots Special Game-Mode Gameplay: 1 Shot 1 Kill My War Robots Creator Link:
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 286 • 💬 47 • ⏱️ 13:11 • 10h ago
+👁️ 4K • 👍 286 • 💬 47 • ⏱️ 13:11 • 11h ago
 
 ---
 
@@ -274,7 +274,7 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 
 📺 Suhel Experiment
 
-👁️ 11K • 💬 17 • ⏱️ 1:30 • 7h ago
+👁️ 11K • 💬 17 • ⏱️ 1:30 • 8h ago
 
 ---
 

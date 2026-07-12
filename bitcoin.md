@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-12T21:51:47.820113+00:00'
+updated: '2026-07-12T22:49:55.375880+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 21:51 UTC  
+**Last Updated:** July 12, 2026 at 22:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,77 +77,81 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I built an autonomous ESP32-S3 controller to mine Bitcoin strictly using solar surplus (Zero grid consumption). Open Source! ☀️⛏️](https://www.reddit.com/r/Bitcoin/comments/1utpsqd/i_built_an_autonomous_esp32s3_controller_to_mine/)**
+**[9 years ago today Bitcoin Sign Guy photobombed Janet Yellen](https://www.reddit.com/r/Bitcoin/comments/1uudd73/9_years_ago_today_bitcoin_sign_guy_photobombed/)**
 
-Hey everyone, I just dropped v4.0 of my open-source Solar Crypto Mining Farm project, and I wanted to share the architecture. The goal was simple: mine Bitcoin only when there’s free solar energy, and never pay for grid electricity to do it. I’m running a 7,740Wp solar array into a custom mining fleet (Avalon Q, Nerd Octaxe, NerdQAxe+, and a BitAxe Gamma). To orchestrate this, I built an edge-computing controller using an auto-detected ESP32-S3. How it works: The ESP32-S3 polls a 6-channel Refoss EM06P energy monitor every 30 seconds via HTTP API. It calculates the exact solar surplus across a bi-phase circuit (W, VA, and VAR). The decision engine automatically switches between 16 calculated mining profiles (from a single 21W BitAxe up to a 2001W full fleet blasting 104.5 TH/s) to perfectly match the live surplus. Relays handle the smaller ASICs, while the Avalon Q is controlled via CGMiner API commands to scale its modes (Low/Mid/High). Everything is logged to a Supabase cloud database, and the ESP32 serves a live local web dashboard. I also built a live Three.js 3D visualization of the whole cluster operating in real-time. You can check out the live 3D dashboard here:https://0xraphael.com/solar-mining-clusterAnd the full repo (including the v4 per-phase W/VA/VAR scalar math and Tasmota configs) is available here: https://github.com/0xrphl/Solar-crypto-mining-farm-maximization-control Would love to hear any feedback on the energy modeling or the edge logic!
+Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-1d ago
-
----
-
-**[Long live bitcoin hodler](https://www.reddit.com/r/Bitcoin/comments/1utcfrs/long_live_bitcoin_hodler/)**
-
-1d ago
+🔗 [Imgur](https://i.imgur.com/Ni0Bii8.jpg) • 10h ago
 
 ---
 
-**[Anyone else worried that it’s too easy?](https://www.reddit.com/r/Bitcoin/comments/1utpo6w/anyone_else_worried_that_its_too_easy/)**
+**[Anybody else buy Bitcoin back in 2012 to purchase LSD and Ecstasy on the Silk Road, back when it was $1 for 1 BTC?](https://www.reddit.com/r/Bitcoin/comments/1uuaxmq/anybody_else_buy_bitcoin_back_in_2012_to_purchase/)**
 
-Bitcoin is the best performing asset in human history, and we can just scale in at the scheduled bear market lows that occur every 4 years and 5x our money in a few years? I had these same thoughts after the FTX capitulation, that surely it can’t be this easy to buy here and wait. Sure enough, bitcoin went up almost 800% off the lows and I made a ton of money. Are they really going to let us do it again??
+Essentially spent $20 million. Not to mention the remaining BTC that got seized by the government when silk road got shut down. No real regrets though.
 
-1d ago
-
----
-
-**[Bitcoin logo displayed on the Las Vegas Sphere 👀](https://www.reddit.com/r/Bitcoin/comments/1usz2g5/bitcoin_logo_displayed_on_the_las_vegas_sphere/)**
-
-2d ago
+13h ago
 
 ---
 
-**[The future of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1utxkz8/the_future_of_bitcoin/)**
+**[In response to the 2012 LSD 1$ post, here’s my DNM wallet from ten years ago when I was vending](https://www.reddit.com/r/Bitcoin/comments/1uugfcv/in_response_to_the_2012_lsd_1_post_heres_my_dnm/)**
 
-In 2012, when I first bought Bitcoin, it was $13 a coin. I watched it go from $13 to over $100,000. Now I’ll watch it go $100,000 to $1 million a coin. You believe yet?
-
-23h ago
+8h ago
 
 ---
 
-**[Post-Mortem: What Happened Between Samourai Wallet and Me](https://www.reddit.com/r/Bitcoin/comments/1utroht/postmortem_what_happened_between_samourai_wallet/)**
+**[This Government List Is Getting Bitcoiners Klled | Francis Pouliot - Bull Bitcoin CEO](https://www.reddit.com/r/Bitcoin/comments/1uuk62g/this_government_list_is_getting_bitcoiners_klled/)**
 
-How a wallet that adopted my privacy framework turned technical disagreement into a reputational war—and what I got wrong too The fully sourced and illustrated version, together with the complete evidence archive, is available on GitHub. The archive preserves court filings, source-code snapshots, public posts, private-message records, Research Club transcripts, and screenshots. After law enforcement seized Samourai Wallet’s servers, William Hill—TDevD—messaged an associate: “Not good.” “I’m not thinking so much about Whirlpool as I am about the wallet backends (xpubs).” An extended public key cannot spend a user’s bitcoin, but it can reveal the addresses derived from a wallet and follow their history. For years, I had argued that Samourai’s default backend created exactly this point of failure. Hill’s message, reproduced in the government’s sentencing memorandum, showed that he understood why the seizure of that backend mattered. The seizure did not create the xpub problem. It exposed the consequences of a design choice that had been there from the start. I do not offer this post-mortem as vindication. A prison sentence cannot settle a protocol dispute, and an indictment cannot make every allegation true. I will distinguish what the public record establishes, what I infer from it, and what I remember but cannot independently prove. To understand what was sitting on that server—and why I had spent years shouting about it—we have to go back to a README file in July 2017, before the feud began. How ZeroLink actually began I wanted Samourai to succeed in implementing ZeroLink. I wanted more wallets to implement serious Bitcoin privacy, and I wanted ZeroLink to become useful software rather than another specification admired by a small circle and ignored by everyone else. I created ZeroLink. The repository history makes the chronology clear. I opened it on July 28, 2017. Before Samourai made a single commit, I had made 19 commits and written a 184-line, 2,883-word document containing the framework’s core architecture. Samourai’s first commit arrived two days later. Its title was “Fix typos”. It did exactly that. ZeroLink was not merely a name for a CoinJoin transaction. It was a privacy framework for Bitcoin wallets: blinded coordination together with rules for network privacy, coin selection, transaction chains, and spending after the mix. Chaumian CoinJoin was the protocol; ZeroLink was the wider wallet framework. That is the work Samourai later claimed to have co-created. At the August 14 publication snapshot, Git blame attributes 6,126 of the document’s 6,627 words to me and 242 to Bill/TDevD. Their only sizeable technical addition concerned BIP47 and stealth addresses. At the time, I did not understand what problem that proposal solved or why it belonged in ZeroLink. Instead of challenging it, I assumed I was missing something and accepted it out of politeness. Two days later, I clarified that BIP47 was not part of the protocol, and I removed the section in 2019. The rest of their work was overwhelmingly light editing. I had also placed TDevD in the Authors section before that proposal was committed. Both decisions came from the same reflex: they spoke with confidence, I assumed any confusion was mine, and I tried to be generous. That politeness was later used to support an authorship claim the repository does not support. By 2022—three years after I had publicly challenged the co-creation story, with the Git history still open for inspection—Samourai was still repeating it. I regard those later repetitions as a lie. “Collaboration” can be innocent shorthand before anyone disputes it. It stops being innocent after the primary record is placed in front of you and you continue telling the version that promotes you from reviewer and prospective implementer to co-creator. Our contact was limited. We barely spoke, and I was never part of Samourai. I had created ZeroLink; Samourai said it intended to implement it. Brian “Shinobi” Trollz, who observed the dispute at the time, later recalled a specific turning point. I asked for a week to consider whether coordinators could be run altruistically. During that week, he said, Samourai’s posture toward me shifted into mockery. By April 2019, I had recorded that they were no longer interested or responsive and that I had continued independently. People can disagree about why our limited contact ended. The authorship record is not a matter of recollection. The central privacy difference The authorship dispute mattered to me. The architectural difference between the wallets mattered to users. Wasabi’s default architecture was designed to deny its own operator the wallet graph. The backend distributed block filters; clients checked addresses locally; wallet traffic went through Tor; and blinded CoinJoin credentials prevented the coordinator from linking a registered input to its output. A user did not have to operate a personal server to hide addresses and transaction history from us. Privacy from the service operator was the default. Samourai’s default client sent extended public keys to Samourai’s hosted backend. Whoever possesses an xpub can derive its associated addresses and follow their transactions. Samourai’s own Dojo documentation disclosed the consequence indirectly. Running MyDojo improved privacy by “completely bypassing” the default hosted servers, while its Tracker recorded registered xpubs and addresses. Then came the clearest lie in the xpub argument. In October 2022, Kruw pointed out that the default app exposed the user’s xpub and asked why Samourai would not use BIP157/BIP158 client-side filters. The official wallet account refused, defended what it called “the best architecture for our needs,” and claimed it had been “open and truthful from day one.” When asked whether wider BIP157 adoption would change that decision, the official account answered: “We are a full node wallet. Always have been.” That statement remains public. It was false. The Android app was a light client of a backing server. Dojo could place that server and a Bitcoin Core node under the user’s control, but it did not turn the phone into a full node. Samourai’s own 2019 announcement said default users had to trust its servers with their public keys. Hill’s sentencing submission later described the architecture as one used by “light wallets.” Tor support existed, but it was not enabled by default. Samourai’s signed source allowed a user to create a wallet while Tor remained off, treated the Tor preference as false unless the user enabled it, and used the ordinary network path for xpub requests when Tor was disabled. An April 2023 report on Samourai’s own GitLab included the wallet-creation screen with Tor off, Dojo unconfigured, and Create a new wallet still available. The issue, titled “Important privacy features are disabled by default,” proposed enabling Tor and Dojo by default or at least warning users what the disabled settings exposed. A Samourai project owner said the proposal would not be merged, called the report “concern trolling,” issued a “first and final warning,” and immediately closed it. The archived issue preserves the exchange. The privacy problem was reported on their own development platform. Their response was to reject the change and threaten the reporter. An earlier exchange used a different evasion. In July 2022, a user wrote: “Xpub is sent to whirlpool servers.” Hill answered: “No xpubs are handled by the coordinator.” The xpubs went to Samourai’s wallet backend, not the Whirlpool coordinator. He changed the noun while avoiding the issue. In the same reply, he claimed Samourai had implemented ZeroLink “on spec,” something I supposedly “didn’t have the skill set to do.” The post simultaneously evaded the backend question and reversed the authorship record. Sentinel, Samourai’s watch-only app, made the architecture even easier to see. A watch-only wallet legitimately needs an xpub, and Sentinel correctly said it could not spend the user’s coins. The privacy question was what happened after the user imported that xpub. In August 2017, Samourai committed a change titled “move XPUB multiaddr to Samourai API”. From then on, Sentinel sent tracked xpubs to Samourai’s hosted backend. It did so for more than two years before Tor routing was added. When Tor arrived, its preference defaulted to off. Sentinel could not steal users’ coins. Its hosted mode could map their wallets. That collection was integral to the product, not incidental telemetry. Dojo arrived years later Dojo did not erase what the default client had already disclosed. Dojo’s server code was released on June 2, 2019, nearly four years into Samourai’s life. Even then, Samourai said the wallet required another update before it could pair with Dojo. Version 0.99.81 finally added pairing on July 11, 2019, but only for a newly created wallet. Restoring an existing wallet was explicitly unsupported. Samourai’s own release announcement instructed users to create a new wallet after pairing. An earlier user who wanted to stop using Samourai’s hosted servers therefore had to create a new wallet behind Dojo and move funds out of the old wallet. That could prevent disclosure of the new wallet’s xpub. It could not retract the old xpub or history already sent to Samourai. A direct transfer between the wallets would also remain visible on-chain. Dojo gave later self-hosters a way to avoid future disclosure. It did not retroactively protect default users. The Blockchain.info lineage William led the Blockchain.info Android wallet project that preceded Samourai. He opened the surviving Android-Wallet-2-App history with its April 2014 initial commit and is its dominant visible developer by commit count. His sentencing submission calls him Blockchain.com’s senior mobile developer. Contemporary coverage identifies Keonne Rodriguez as the product lead responsible for the refreshed wallet’s interface and user experience. William’s commits even include “UI prep for shared coin”, referring to Blockchain.info’s earlier mixing product. They did not create Blockchain.info itself. They did lead the mobile-wallet project from which Samourai emerged. Samourai then kept its own source private for approximately a year. At the time, it said this delay was deliberate and intended to give the product a competitive “leg-up.” When the first public Samourai snapshot appeared in March 2016, it contained unmistakable Blockchain.info lineage. That does not mean the entire application was a verbatim copy. It does contradict the image of a clean-sheet privacy wallet appearing from nowhere. SharedCoin matters because its trust problem was already understood. It was noncustodial, but its server constructed the joins and knew their links. Public transaction ambiguity could not provide privacy from the operator that already knew the mapping. Samourai rebuilt that operator-trust problem by collecting wallet-level public keys on its default server. I raised this before the seizure. In an April 2020 Wasabi Research Club discussion about ZeroLink, I described the rejected design plainly: a trusted central server to which everyone sends their xpubs. That, I said, “obviously sounds pretty stupid,” which is why ZeroLink used blinded coordination. In July 2021, I again explained that if a server possesses the xpub, repeated mixing cannot erase what the server already knows. In September 2022, during a discussion of balance-query architectures, I warned that an xpub retained on another computer could later be exposed through hacking or seizure. The government seized Samourai’s servers in April 2024. The practical distinction was whether the operator was technically prevented from learning wallet relationships or merely trusted not to use them. Wasabi was not perfect against every imaginable adversary. No honest system built on Bitcoin, Tor, fallible software, and human behavior can promise that. But against the service operator—the adversary at the center of this dispute—Wasabi placed cryptography and local processing between the user and us. Samourai relied on trust in its operator. Sockpuppets and attacks on critics My first SamouraiLeaks investigation began with the suspicion that one of Samourai’s developers was promoting the project and attacking critics through an identity presented as independent. In April 2019, I published the evidence that “foneBTC” and “fone-btc” were TDevD/William Hill’s sockpuppet accounts. The investigation itself contains the proof. The problem was not the use of a pseudonym. Pseudonyms are normal in Bitcoin. The problem was hidden affiliation used to manufacture consensus: one participant appearing to be several, promotion made to look organic, and an interested party presenting himself as a neutral observer. In a field where few users can audit every cryptographic claim themselves, reputation becomes part of the security model. Astroturfing corrupts that model. Before publishing, I tried private discussion, sought a mediator, and offered to stop discussing Samourai if the attacks stopped. Eventually, I concluded that my silence was being treated as permission rather than de-escalation. Other developers then began describing the same treatment. Gregory Maxwell said architectural criticism was answered with harassment and accusations instead of a technical response. Nicolas Dorier described the reaction he received after pointing out that the default backend received users’ extended public keys. Their comments remain in the original discussion, including Dorier’s account. Luke Dashjr said that disclosing an RPC-password exposure in a setup guide brought an accusation that he operated a criminal protection racket. Chris Belcher later described substantive BIP47 objections being answered by smears against the people raising them. These were independent developers, not a Wasabi group. Several of them also criticized Wasabi. Their accounts described the same response: technical objections were redirected toward the critic’s motives, status, or character. Accuse loudly, qualify quietly After enough repetitions, the pattern became predictable: begin with something real—an uncertainty, compromise, or bug—then attach the most damaging possible interpretation and promote that interpretation as the headline. When contrary evidence appears, place the qualification where fewer people will see it: inside a reply, outside a screenshot, or silently inside a later code change. Samourai claimed I had admitted Wasabi supplied its own liquidity. I had made no such admission. The journalist responsible for the report corrected that characterization, but the correction never travelled as far as the accusation. Another observer documented how Samourai’s presentation excluded my correction and contrary replies. The same technique appeared in the Tor-identity dispute. In April 2023, a user asked whether Whirlpool changed Tor circuits between input registration and output registration. Keonne Rodriguez answered categorically that it did and dismissed the questioner as a known liar. In March 2024, the Whirlpool client added an explicit changeIdentity() call immediately before output registration. The code comment said the new identity was used to “unlink from input.” The later commit cannot establish that previous users were deanonymized or that anyone exploited the earlier behavior. It does establish that the categorical answer was not justified. A precise response in 2023 would have explained what the code did, what had been verified, and what remained uncertain. Rodriguez answered with certainty and an insult. The code changed later. That response culture made reporting problems socially expensive. Even small bugs became difficult to discuss because the reporter risked becoming the subject. OXT was owned by Samourai OXT was not an independent research group that happened to agree with Samourai. In December 2017, Samourai announced that it had “finalized the acquisition” of OXT in an all-bitcoin transaction and described the purchase as a long-term strategic investment. Years later, an OXT developer’s support letter included in William’s own sentencing submission described OXT as a Bitcoin forensic tool “owned and operated by Samourai Wallet.” The government separately described William and Keonne as operating OXT as a tracing and wallet-attribution tool. Samourai denounced surveillance companies while owning and operating a blockchain tracing and wallet-attribution tool of its own. In August 2020, this Samourai-owned research arm announced two supposed Wasabi vulnerabilities, rated them High/Critical, claimed they could cancel privacy gained from earlier mixes, and gave us forty-eight hours to publish a warning on its terms. The full report contained a fatal premise: the attacker had to know the composition of the target’s wallet at a chosen point in time and know events affecting that wallet’s participation in later rounds. That was not a small condition. It supplied the wallet membership the alleged attack was supposed to uncover. OXT’s demonstration avoided the problem by controlling both sides. Its “Alice” started with a known coin. Its “Eve” already knew which funds belonged to Alice and ran a modified Wasabi client that logged round events. Given the wallet’s exact starting state, public coin-selection code could sometimes predict which coins the client would offer next. That showed that known software can behave predictably when the observer is handed its private starting state. It did not demonstrate how an outside observer could discover an unknown wallet’s contents, identify an unknown mixed output as the target’s, or recover the blinded input-to-output link. Even in that constructed test, predictions failed because of confirmation states, failed rounds, and coordinator behavior. OXT called those deviations “exogenous randomness.” Its reported “adjusted anonsets” were values produced by its own model—not identities uncovered or input-output links recovered. My contemporaneous response explained that distinction. Adding randomness can be reasonable hardening without validating a claimed exploit. Samourai later treated Wasabi 2’s different coin-selection behavior as an admission that OXT had been right. The timeline contradicts that story. The Wasabi 2 research effort began in January 2020, and WabiSabi was publicly presented in June—before OXT’s August disclosure. The hypocrisy was direct: OXT’s hypothetical attacker needed to begin with a target’s wallet map, while Samourai’s actual default backend collected wallet maps. OXT itself later wrote that privacy guarantees must come from default software behavior, not burdens placed on users. Samourai’s default failed that standard. Avoiding its hosted backend required the user to run Dojo. Criminal association as a marketing weapon Samourai and OXT repeatedly attached Wasabi’s name to alleged criminal activity and then treated the association itself as evidence against us. The trap worked either way. If we answered, we helped spread the association. If we stayed silent, they presented the silence as a concession. In some cases, answering meaningfully would have required disclosing operational knowledge or investigative methods that could not safely be made public. The absence of a public response did not mean agreement. Samourai’s double standard became especially ugly after Luke Dashjr’s theft. On January 4, 2023, OXTObserver flagged 204.77460928 BTC as #LUKE-JR_STOLEN_FUNDS and described the wallet as controlled by hackers. Samourai Wallet reposted the alert. A user asked what Samourai would do if the thieves tried to mix the coins in Whirlpool. The official account answered: “If they go into Whirlpool? Relish in the delicious irony and extra salt in Luke’s gaping wound.” The exchange remains public. It does not establish that the stolen coins entered Whirlpool. It establishes how Samourai’s official account reacted to the possibility because the victim was Luke. By 2022, legal and regulatory pressure on zkSNACKs was threatening the survival of the company-run coordination service. The default coordinator began rejecting some UTXOs. I had argued against blacklisting, and users who felt betrayed had a legitimate grievance. That policy was censorship by one service. It did not reveal the relationship between accepted inputs and their outputs. The protocol still blinded that relationship; Wasabi remained MIT-licensed; and alternative coordinators could operate without zkSNACKs’ policy. Samourai turned the policy dispute into the claim that Wasabi had become a surveillance wallet. The comparison ignored the architectures: zkSNACKs refused some inputs without learning their outputs, while Samourai’s default backend received and retained ordinary users’ wallet maps. The megaphone was bigger than the product Samourai’s Twitter presence made the rivalry look symmetrical despite the large difference in usage. Dumplings—my reproducible CoinJoin scanner—separated fresh bitcoin entering a mixer from coins merely being remixed. From Whirlpool’s first detected month in April 2019 through the dataset’s end in August 2022, it identified approximately 247,675 fresh BTC entering Wasabi and 30,228 entering Whirlpool. Wasabi led in every one of those forty-one months. This measures bitcoin volume, not unique users. It is nevertheless the opposite of adoption parity. Whirlpool’s headline transaction totals were enlarged by free remixes, through which the same bitcoin could appear in round after round without representing a new user or newly arriving funds. Samourai had a large social-media megaphone. It did not have comparable adoption by this measure. Moving privacy problems did not solve them Whirlpool advertised CoinJoin transactions with no toxic change. Its TX0 transaction kept the change outside the CoinJoin and placed it in a separate account so users would be less likely to spend it accidentally with mixed coins. That was useful. It did not make the toxic change disappear. Samourai itself later called those coins “unmixed toxic change” while proposing a way to swap them into Monero. TX0 publicly joined the deposit inputs, created fixed-denomination premix outputs, and exposed which first Whirlpool rounds spent them. Peeling change off before the CoinJoin did not create another on-chain break between that change and the first mix. It moved the point where the change appeared. Fixed denominations created costs at both ends. A user could have to combine inputs publicly to enter a pool. Later, an ordinary payment would rarely equal one pool denomination, so the user could have to combine post-mix outputs and create new change. Equal-output CoinJoins still provided privacy. Remix counts alone could not show whether that privacy survived the eventual spend. The coordinator-fee address revealed another double standard. In 2020, Samourai condemned Wasabi’s reuse of a coordinator-fee address in absolute terms and said there was “no going back” from the damage. In October 2023, Kruw reported that Whirlpool’s coordinator had reused one fee address across 37 transactions. In one cited transaction, 36 outputs from that address were consolidated as inputs. The archived report survives. That reuse does not itself prove Whirlpool users were demixed. The issue is the standard Samourai applied: it described address reuse in Wasabi as irreversible architectural damage, while Kruw says his equivalent report about Whirlpool was deleted. Precision matters in both directions The record contains real Samourai security failures, ambiguous claims, and some historical mislabeling. They should not be treated as one undifferentiated charge sheet. In 2021, an independent researcher disclosed a genuine local PIN-bypass weakness. Restarting the app reset the attempt counter; wallet metadata required for an offline PIN search was available on the device; and the PIN space was small. The issue became CVE-2021-36689. That was a defined security failure with a specific version and threat model. It was not evidence that every Samourai wallet could be drained remotely. My SamouraiLeaks Part 3 investigation concerned an earlier and different codebase: the Blockchain.info Android wallet William led before Samourai. That repository contained a generator that fetched entropy from Random.org over unencrypted HTTP. Under a narrow fallback path on older Android devices, a redirect combined with failed local entropy could produce deterministic key material. Ars Technica reported the conditions and risks in 2015. That history documents a serious engineering failure under particular conditions. It does not establish that every Samourai wallet used broken randomness or that William stole anybody’s coins. Those distinctions are what responsible security disclosure requires: what happened, who was affected, what is inferred, and what remains unknown. Samourai’s communications culture often treated those distinctions as weakness when answering critics, then demanded endless qualification when scrutiny turned inward. When you wrestle with a pig, you both get dirty The public posts document individual incidents, but they cannot fully convey their cumulative effect over several years. I began to approach technical conversations as possible trials of character because bug reports, imprecise reporting, and edited recordings could all be reframed as evidence of bad intent. Leaving a false claim unanswered allowed it to spread. Answering prolonged the conflict. I spent time preserving evidence that I wanted to spend on code. Friends and independent developers had to decide whether correcting the record was worth becoming the next target. I did not handle that well. I called the project “Scamourai” and swore at them. In 2019, CoinDesk quoted one of my replies simply saying, “Fuck you.” That anger produced little of value. The childish nickname allowed a long evidentiary record to be mistaken for reciprocal mudslinging and made it easier for outsiders to conclude that both sides were merely marketing tribes. I also sometimes spoke with more certainty than the evidence allowed. Receiving an xpub, retaining it, selling it, and maliciously querying it are separate claims. I knew the default backend received wallet-level public information. Before the server analysis became public, I did not know everything Samourai retained or did with it. I should have marked those boundaries in an angry tweet as carefully as I would in a protocol review. I regret the way I spoke. It made the documented issues easier to dismiss. Threats and doxxing By April 2023, the conflict had passed far beyond professional hostility. I received multiple threats that I understood as death threats from William Hill. I also received anonymous private threats during the same campaign. The screenshots cannot establish who controlled those anonymous accounts, so I distinguish them from Hill’s public posts. One anonymous message sent me a full address in Besenyszög. I censored the street-level portion before preserving it. Another sender claimed to have checked an address and seen me and my “stinking tribe,” asked whether I thought I could stay safe, and ended: “Don’t worry Nopara. We shall meet. Won’t be pretty on your end.” The screenshots establish what I received. They do not establish who operated the anonymous accounts. Hill’s public conduct requires less inference. He posted my parents’ home address more than once. I will not reproduce or link to those posts, because documenting doxxing does not require doing it again. On April 18, 2023, the official Samourai Wallet account posted “Snitches get stitches”. Two days later, Hill addressed me directly: “As a die hard collaborator, you deserve much worse.” “Let’s see how this plays out, OK bud?” The attached image showed armed men surrounding a seated captive whose head was being shaved. I understood the combination of those words and that image as a threat. The post remains available here. In February 2024, Hill wrote that I was “way overdue to get yours” and appended the name of my parents’ town. A follower replied: “Hope he gets stitches and ends up in a ditch.” Hill answered: “Yes.” “Soon.” The first post and Hill’s reply remain public. Six weeks later, Hill wrote: “It ain’t over until the fat boy is gutted (see bio).” He placed those words above Yasushi Nagao’s famous photograph of the onstage assassination of Japanese Socialist Party chairman Inejirō Asanuma. I had originally misremembered the victim as a Japanese prime minister. The recovered post identifies the photograph correctly. That correction does not change the nature of the post. As preserved on July 10, 2026, Hill’s public profile still named me, repeated the “gutted” language, and appended the small town where my parents live. Publishing my family’s location beside violent language was intimidation. What the server seizure revealed When Samourai’s founders were arrested in April 2024, I refused to treat the indictment as a verdict. Privacy software is not money laundering simply because criminals use it. The legal boundary around noncustodial software was—and remains—important. But law enforcement also seized Samourai’s servers, and later court filings addressed the technical issues I had been raising for years. In October 2025, the government said its server analysis showed that Rodriguez and Hill had retained enough information to trace or “demix” many mobile users’ Whirlpool transactions. By cross-referencing stored xpubs with past, present, and future Whirlpool transactions, an analyst could connect inputs and outputs through complex analysis. The filing stated an important limit: this did not by itself connect those transactions to real-world identities. The defense did not deny xpub collection. Hill’s sentencing submission tried to recast it as a functional necessity: users without their own nodes needed the backend to calculate balances, it said, and the design affected “only 20%” of Whirlpool users. That was a consequence of Samourai’s chosen architecture, not a universal requirement of light wallets. Wasabi obtained block filters and checked addresses on the client without giving our server the wallet’s xpub. The filing supplied no citation, methodology, underlying counts, or independent measurement for its 20 percent figure. It may have been a figure provided by Samourai and repeated by its lawyers. The public submission gives us no way to know. Even if accepted for the sake of argument, one in five Whirlpool users is not trivial. More importantly, the argument conceded the architecture I had objected to: A class of users gave its wallet graph to Samourai’s infrastructure. Samourai retained that information. The seizure placed it in government hands. The government’s “demix” finding is a representation in a sentencing memorandum, not an independently published forensic report. That qualification matters. So does the fact that Hill’s own post-seizure concern was not primarily Whirlpool itself, but “the wallet backends (xpubs).” The darknet double standard The June 2025 superseding indictment reproduced private messages and Dread posts in which Hill steered people who openly described criminal proceeds away from a competing mixer and toward Whirlpool. It alleged that Rodriguez knew Hill was doing substantial promotional work on Dread. This mattered because Samourai and OXT had repeatedly used alleged criminal use of Wasabi as part of their public case against us. The later record showed Samourai pursuing those same users as customers. On Dread, competitor disparagement was not abstract privacy research. It was a sales pitch aimed at people asking how to conceal criminal proceeds. In August 2025, Rodriguez and Hill each pleaded guilty to conspiring to operate a money-transmitting business knowing it transmitted crime proceeds. The money-laundering conspiracy count was dropped through their plea agreements. In November, Rodriguez received five years in prison and Hill four. The sentences did not resolve the software arguments. The prosecution also raised troubling due-process questions. Before the pleas, the defense argued that prosecutors had disclosed too late a FinCEN communication saying Samourai’s lack of control over users’ keys strongly suggested it was not a money-services business under FinCEN’s rules. The government disputed the significance of that communication. Anyone who cares about open-source privacy software should care about that issue too. The lies and hypocrisies Developers can be mistaken, remember events differently, or speak with unjustified confidence. I use “lie” more narrowly: a materially false account repeated after contrary evidence has been presented because the false version remains useful. By that standard: The ZeroLink co-creation story was a lie. The framework predated Samourai’s involvement. Its first contribution fixed typos. Samourai kept repeating the joint-origin account after I challenged it with the repository. The claim that I admitted Wasabi supplied its own liquidity was false. The journalist corrected the interpretation, but Samourai continued promoting the damaging version without my correction. The categorical Tor answer was false or recklessly certain. Rodriguez insulted the person asking, and the code later added the identity change the question had asked about. “We are a full node wallet. Always have been” was false. Without Dojo, the Android application was a light client of Samourai’s backend. The coordinator answer was an evasion. The Whirlpool coordinator may not have handled xpubs, but Samourai’s wallet backend did. OXT was not an independent referee. It was acquired, owned, and operated by Samourai while presenting severe claims against Samourai’s main competitor under a research label. Samourai’s position on surveillance was hypocritical. It denounced blockchain-surveillance companies while operating a tracing and wallet-attribution tool and collecting wallet maps on its default backend. Its position on address reuse was a double standard. It described Wasabi’s reuse as irreversible architectural damage, while equivalent reuse later appeared in Whirlpool. Its use of criminal association was selective. It attacked Wasabi through alleged criminal use while privately promoting Whirlpool to darknet users describing criminal proceeds. Its central privacy promise was contradicted by its defaults. The wallet sent xpubs to Samourai’s hosted backend and left Tor off unless the user enabled it. In that configuration, the same service could receive both the wallet graph and the connecting IP address. I use the name “Scamourai” to describe what I see as a false central promise, not as a legal accusation of fraud. The product sold resistance to surveillance while placing its operator in a position to surveil. It promoted verification while asking default users to trust that Samourai would not misuse wallet information its servers retained. To me, that went beyond imperfect privacy because the contradiction was built into the default architecture. Post-mortem The lasting damage was not only personal. It affected the authorship record and the possibility of productive competition. I gave TDevD more credit than the repository justified. Samourai inflated that credit into co-creation. Minor edits became joint research through repetition. The same culture made correction look like surrender and uncertainty look like weakness, turning technical competition into personal hostility. I contributed to that hostility by answering contempt with contempt. I cannot undo those words, but I can document the history more carefully now. Future privacy developers should not take this essay as a request to trust me or as a rule that every server and coordinator is unacceptable. The practical lesson is simpler: examine what an operator can learn if its infrastructure is compromised, coerced, hacked, or seized. Team identity, marketing, and a founder’s character are not privacy guarantees. A sound privacy protocol should continue protecting its users when trust in the operator fails. That is the standard I tried to build into ZeroLink. It is also the standard Samourai told its users to expect. The seized servers show why the difference mattered.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-1d ago
-
----
-
-**[Cold storage vs. ETFs](https://www.reddit.com/r/Bitcoin/comments/1uti3ju/cold_storage_vs_etfs/)**
-
-At 46 years old and minimal retirement savings so far, I've been absorbing alot of people's perspectives on the best route for achieving my goals in a 15-yearish window. I'm unlikely to live to see hyperbitcoinization or the collapse of the fiat system. It seems like the most rational, reasonable approach would be to heavy index funds along with some Bitcoin ETFs. Safe and uncomplicated. I'm going with real Bitcoin in cold storage. Why? Because it stirs something in me. It makes me feel like I'm part of a revolution that the world desperately needs, rather than simply riding it's coattails to get my basic needs met. It feels more like living life rather than just prolonging it. That to me is worth some extra risk and effort.
-
-1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=DrYIMXqz3_s) • 6h ago
 
 ---
 
-**[I built Freeport - a P2P marketplace over Nostr with a built-in self-custodial Lightning wallet](https://www.reddit.com/r/Bitcoin/comments/1utowmn/i_built_freeport_a_p2p_marketplace_over_nostr/)**
+**[I put sats under beer caps. Your feedback led to an alcohol-free version.](https://www.reddit.com/r/Bitcoin/comments/1uuht3q/i_put_sats_under_beer_caps_your_feedback_led_to/)**
 
-Freeport is a P2P marketplace (rides, services, goods) running entirely on Nostr relays - no server, no middleman. It now has payments built in: - Self-custodial Lightning (Breez SDK / Spark) - the app never holds funds - Wallet key derived from your Nostr key: one backup covers identity + wallet - No signup - keypair generated on-device, optional passkey login - Lightning address, bolt11, on-chain - Confirmed deals get a Pay button / QR with the agreed amount, auto-converted from fiat Fun fact: you can download the HTML file from releases page to run the whole app 😎
+Hi r/Bitcoin, A few months ago I shared a slightly unusual experiment here: beer with sats hidden under every cap. I’m Altan from Beer of Satoshi. The idea was to make someone’s first Lightning interaction as simple as opening a bottle. You scan the QR code under the cap, reveal the reward in your browser, and claim the sats with a Lightning wallet. The response to the first post was much bigger than I expected, but the comments were more valuable than the attention itself. Some people loved the concept. Others were very direct about its weaknesses. The first Genesis batch was expensive at roughly €7 per bottle. And for people who did not drink alcohol, the product simply was not an option. One comment in particular stayed with me: “I like the idea, but I don’t drink alcohol.” That was a fair point. If the goal is to give more people a simple first Bitcoin experience, alcohol should not be a requirement. We had already produced a small alcohol-free test batch for Bitcoin Amsterdam 2025. It sold out, but the more interesting part was watching what happened after people opened the bottles. They scanned the caps, compared their rewards, helped each other with Lightning wallets, and made claims right there at the event. That convinced us to turn the test batch into a proper release. It is called Beer of Satoshi Zero. Zero is alcohol-free, but the Bitcoin experience under the cap stays the same. Every bottle reveals a sats reward in the browser, which can then be claimed over Lightning. No account is required, and you do not need a wallet just to reveal the amount. You only need one when you actually want to claim the sats. We also worked on the price. The 24-pack pre-order is €70.80, which comes to €2.95 per bottle. Smaller packs are available as well. This is a pre-order rather than ready stock, and the first shipments are planned for Q1 2027. Since the original Reddit thread, the public leaderboard has grown to 1,780 claims from 767 users, with 470,228 sats distributed. Those are still small numbers in the wider Bitcoin world, but they are enough to show why the concept can work. Telling someone to install a Lightning wallet because Bitcoin is interesting often creates friction. Showing them that sats are already waiting under a cap gives them a concrete reason to take the next step. That moment — when Bitcoin changes from something a person has only heard about into something they have actually received — is still the reason we are building this. Here is the original discussion: https://www.reddit.com/r/Bitcoin/comments/1p4oili/beer_of_satoshi_my_experiment_to_get_real_people/ Beer of Satoshi Zero: https://shop.beerofsatoshi.com/products/beer-of-satoshi-zero Public claim leaderboard: https://leaderboard.beerofsatoshi.com The feedback on the first post genuinely changed the product. So before we finalise the production run, I would like to ask the community again: What would you improve about the first-time scan-and-claim experience? Cheers, Altan
 
-1d ago
-
----
-
-**[This sub is full of troll but bitcoin never trolls](https://www.reddit.com/r/Bitcoin/comments/1utxuna/this_sub_is_full_of_troll_but_bitcoin_never_trolls/)**
-
-As an ex troller this sub is full of troll, price is just as usual, every cycle. But the people are like to troll. Real life.
-
-23h ago
+7h ago
 
 ---
 
-**[When BTC shows you some mercy](https://www.reddit.com/r/Bitcoin/comments/1uspu5o/when_btc_shows_you_some_mercy/)**
+**[France's Conseil d'État to review first legal challenge to DAC8, the EU's crypto-asset tax-reporting Directive](https://www.reddit.com/r/Bitcoin/comments/1uup6va/frances_conseil_détat_to_review_first_legal/)**
 
-2d ago
+On February 24, 2026, Bitcoin exchange Bull Bitcoin filed a petition with France's Conseil d'État, the country's highest administrative court, seeking to annul Decree No. 2025-1276, France's implementation of the EU's DAC8 directive. What DAC8 actually requires DAC8 (Directive (EU) 2023/2226, adopted by the EU Council in 2023) took effect January 1, 2026. It requires "crypto-asset service providers", the exchanges most Bitcoin holders use to buy, sell, or cash out, to collect each customer's identity and transaction history and report it annually to their national tax authority. That data is then automatically exchanged with tax authorities in other EU member states, and eventually with non-EU countries that adopt the OECD's parallel Crypto-Asset Reporting Framework (CARF). Worth being precise here: DAC8 does not regulate self-custody or on-chain activity directly. It's a reporting obligation on regulated exchanges. But if you've ever bought or sold Bitcoin through an EU-licensed exchange, your identity is now tied, inside a government database, to your transaction history. Key dates DAC8 in force: January 1, 2026 French decree signed: December 19, 2025 (Décret n° 2025-1276) Summary petition filed: February 24, 2026, followed by a more detailed legal brief First reports (covering 2026 activity) due: before September 30, 2027, after which automatic cross-border data exchange begins The legal argument Bull Bitcoin's case rests on Article 52 of the EU Charter of Fundamental Rights, arguing that blanket, suspicionless collection of financial data fails the necessity-and-proportionality test. One procedural limit worth flagging: the Conseil d'État can only annul the French decree, not the EU directive itself — though it could refer a question to the Court of Justice of the European Union if it finds a genuine EU-law interpretation issue. Bull Bitcoin has said it's prepared to escalate to the CJEU and France's Constitutional Council if this fails. The physical-security angle The petition also raises a safety argument. France's Interior Minister, Laurent Nuñez, said on June 30, 2026, that authorities have recorded 77 cases of kidnapping, extortion, or attempted extortion linked to the crypto sector since the start of 2026, up from 45 for all of 2025. That count comes from the ministry itself, independent of Bull Bitcoin's filing. Bull Bitcoin argues that centralizing identity-linked financial data raises the odds that a future breach could help criminals locate holders; that specific causal chain hasn't been established by French authorities, so treat it as the plaintiff's argument, not a proven fact. What to watch next A ruling on the merits isn't expected for one to two years. Worth watching: whether the Conseil d'État refers the case to the CJEU, and whether other EU member states see similar challenges filed. This is the first formal legal test of DAC8 anywhere in the EU, so the outcome (however far off) will matter well beyond France. Source/analysis: The Bitcoin Act
+
+3h ago
+
+---
+
+**[First BTC purchase yesterday.](https://www.reddit.com/r/Bitcoin/comments/1uu73ts/first_btc_purchase_yesterday/)**
+
+Better late than never.
+
+16h ago
+
+---
+
+**[Solo mining needed more dopamine between blocks, so I built Steam-style achievements into my pool](https://www.reddit.com/r/Bitcoin/comments/1uui9br/solo_mining_needed_more_dopamine_between_blocks/)**
+
+Solo mining is a lottery. Statistically most of us will never hit a block, and the actual fun lives in the moments nobody celebrates: your best share ever, the near miss at 2 AM that was 90% of a block, surviving your first year of mining. So I shipped an achievements system for miners on my pool: 26 badges computed live from your real mining stats. Nothing to sign up for, no account, your payout address just earns them by mining. Best-share ladder from Copper to Obsidian, near-miss badges for the heartbreakers, block finder tiers, luck badges (block under 10% effort), loyalty and fleet milestones. https://preview.redd.it/hlpuc2zqftch1.png?width=1324&format=png&auto=webp&s=f7d73da3578280899cde5101ede8f39f28fc1b42 Check it out here: https://mkpool.com/btc/address/bc1q8exwdf3ex8htykd0nzmqpansf2j4qv7c7mqswr/achievements The detail I'm most happy with: Steam-style rarity on every badge. "5% of miners have this" next to Golden Nonce hits different when you're one of them. Nobody holds the top share tier yet on any coin. Every unlock has a live share card you can drop in a forum signature or paste in Discord/Telegram and it unfurls with your actual stats. Feedback welcome, especially ideas for achievements that don't need any signup to work. Everything is computed from public pool stats.
+
+7h ago
+
+---
+
+**[Best Way to Buy and Store Bitcoin in Canada?](https://www.reddit.com/r/Bitcoin/comments/1uugz9x/best_way_to_buy_and_store_bitcoin_in_canada/)**
+
+Hey everyone, I’m in Canada and I’m planning to buy and hold Bitcoin for the long term. I’m looking for the best hardware (cold) wallet that’s secure and easy to use. A few questions: Which cold wallet would you recommend? (Coldcard, Trezor, Ledger, Blockstream Jade, etc.) Which one has the lowest overall fees to use? What’s the cheapest exchange in Canada to buy BTC and transfer it to a cold wallet? Are there any ways to legally reduce taxes when buying and eventually selling Bitcoin in Canada? I’d really appreciate hearing what you’re personally using and why. Thanks!
+
+8h ago
+
+---
+
+**[Daily Discussion, July 12, 2026](https://www.reddit.com/r/Bitcoin/comments/1uu74im/daily_discussion_july_12_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+16h ago
 
 ---
 
@@ -159,7 +163,7 @@ As an ex troller this sub is full of troll, price is just as usual, every cycle.
 
 The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -167,7 +171,7 @@ CoinDesk • 10h ago
 
 Rising inflation, Bitcoin’s four-year cycle, and excess leverage continue to draw the cryptocurrency’s price down.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -175,7 +179,7 @@ Fortune • 14h ago
 
 Peter Schiff warns the next market crash starts in the bond market, not Bitcoin, hitting stocks, housing, and crypto.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -183,7 +187,7 @@ Yahoo Finance • 1h ago
 
 Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.7 billion underwater with bitcoin trading near $64,000.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -197,13 +201,13 @@ Bloomberg.com • 3d ago
 
 There's a lot to be excited about once a new bull market starts in crypto.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
 **[Bitcoin Classic basketball tournament promotes financial literacy in Springfield](https://www.wwlp.com/news/local-news/hampden-county/bitcoin-classic-basketball-tournament-promotes-financial-literacy-in-springfield/)**
 
-WWLP • 1h ago
+WWLP • 2h ago
 
 ---
 
@@ -211,7 +215,7 @@ WWLP • 1h ago
 
 I’ve been calling bitcoin down for ages. And it’s been falling. I called it up in 2017, 2021, and 2025. I’m a bull on the way up and a bear on the way back down again.
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -219,7 +223,7 @@ Forbes • 6h ago
 
 The U.S. hit Iran for the third time this week and Tehran has reportedly closed the Strait of Hormuz again.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -317,7 +321,7 @@ Follow Brian: https://www.youtube.com/@brainharrington Follow Brian: https://x.c
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 357 • 💬 63 • ⏱️ 19:36 • 1h ago
+👁️ 3K • 👍 357 • 💬 63 • ⏱️ 19:36 • 2h ago
 
 ---
 
@@ -327,7 +331,7 @@ Buying one Bitcoin at the exact bottom of all four cycles, perfect hindsight tim
 
 📺 Lark Davis
 
-👁️ 8K • 👍 472 • 💬 36 • ⏱️ 10:00 • 9h ago
+👁️ 8K • 👍 472 • 💬 36 • ⏱️ 10:00 • 10h ago
 
 ---
 
@@ -337,7 +341,7 @@ Bitcoin price prediction for 2029 that isn't B.S. crazy. Presentation Slides & U
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 380 • 💬 36 • ⏱️ 48:46 • 5h ago
+👁️ 5K • 👍 380 • 💬 36 • ⏱️ 48:46 • 6h ago
 
 ---
 
@@ -347,7 +351,7 @@ It's going to be fascinating to see just how many people fomo into the bitcoin a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 853 • 💬 219 • ⏱️ 10:16 • 10h ago
+👁️ 7K • 👍 853 • 💬 219 • ⏱️ 10:16 • 11h ago
 
 ---
 
@@ -357,7 +361,7 @@ Bitcoin sentiment is at rock bottom... fear is everywhere... and yet some of the
 
 📺 Crypto Love
 
-👁️ 1K • 👍 214 • 💬 91 • ⏱️ 8:52 • 4h ago
+👁️ 1K • 👍 214 • 💬 91 • ⏱️ 8:52 • 5h ago
 
 ---
 
@@ -367,7 +371,7 @@ For years, Bitcoin was dismissed as a scam that governments would eventually ban
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 134 • ⏱️ 14:28 • 1d ago
+👁️ 24K • 👍 2K • 💬 134 • ⏱️ 14:28 • 2d ago
 
 ---
 
@@ -377,7 +381,7 @@ The biggest Bitcoin bear argument right now is that Strategy could trigger a cat
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 109 • ⏱️ 24:58 • 21h ago
+👁️ 21K • 👍 2K • 💬 109 • ⏱️ 24:58 • 22h ago
 
 ---
 
@@ -397,7 +401,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 227 • 👍 29 • 💬 11 • ⏱️ 20:24 • 1h ago
+👁️ 227 • 👍 29 • 💬 11 • ⏱️ 20:24 • 2h ago
 
 ---
 

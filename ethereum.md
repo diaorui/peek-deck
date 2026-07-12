@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T21:51:47.825458+00:00'
+updated: '2026-07-12T22:49:55.381154+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 21:51 UTC  
+**Last Updated:** July 12, 2026 at 22:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -178,7 +178,7 @@ The Block • 2d ago
 
 One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ Decrypt • 1d ago
 
 Can $1,800 become Ethereum's next launchpad?
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 841 • 👍 147 • 💬 96 • ⏱️ 13:44 • 1h ago
+👁️ 841 • 👍 147 • 💬 96 • ⏱️ 13:44 • 2h ago
 
 ---
 
@@ -270,7 +270,7 @@ In this video I break down the latest Ethereum price analysis using an Elliott W
 
 📺 More Crypto Online
 
-👁️ 464 • 👍 50 • 💬 12 • ⏱️ 5:14 • 1h ago
+👁️ 464 • 👍 50 • 💬 12 • ⏱️ 5:14 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN & CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 205 • 💬 94 • ⏱️ 20:15 • 4h ago
+👁️ 3K • 👍 205 • 💬 94 • ⏱️ 20:15 • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━�
 
 📺 Kamilah Stevenson
 
-👁️ 1K • 👍 112 • 💬 17 • ⏱️ 0:39 • 2h ago
+👁️ 1K • 👍 112 • 💬 17 • ⏱️ 0:39 • 3h ago
 
 ---
 
@@ -300,7 +300,7 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 2K • 👍 137 • 💬 60 • ⏱️ 16:06 • 15h ago
+👁️ 2K • 👍 137 • 💬 60 • ⏱️ 16:06 • 16h ago
 
 ---
 
@@ -330,7 +330,7 @@ Joseph Chalom makes the case that Ethereum has the license to win and is finally
 
 📺 The Rollup
 
-👁️ 6K • 👍 277 • 💬 28 • ⏱️ 29:05 • 10h ago
+👁️ 6K • 👍 277 • 💬 28 • ⏱️ 29:05 • 11h ago
 
 ---
 

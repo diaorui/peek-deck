@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-12T21:51:47.812438+00:00'
+updated: '2026-07-12T22:49:55.367996+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 12, 2026 at 21:51 UTC  
+**Last Updated:** July 12, 2026 at 22:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 i saw this and honestly this one feel like big mess. nyt and other news people saying openai told court for long time it cannot search training data / logs for their copyrighted stuff. but then looks like maybe they already did searches before, and also billions of chat logs were deleted or made not searchable. link: https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/ i know people will say nyt just want money and hate ai. maybe true also. but still, if company say “we cannot search this” and later it comes out “actually yes we did search this before”, then that is not small thing. this is the part of ai nobody want talk about much. everyone say open, safe, trust, future, bla bla. but when court ask simple thing, suddenly data is impossible to find, impossible to search, privacy issue, too hard, too expensive. and maybe privacy is real concern, yes. i dont want random lawyers digging people chats. but also dont tell court one thing if inside company you already know different thing. for me this is why ai companies need more boring adult supervision. not because ai bad. because if the data is the whole product, then hiding how data was used become the whole game. what do people think. is this nyt playing legal games, or openai got caught doing the same silicon valley “oops technically we could but we said we couldnt” bs thing?
 
-4h ago
+5h ago
 
 ---
 
@@ -49,13 +49,13 @@ i saw this and honestly this one feel like big mess. nyt and other news people s
 
 So while we've been arguing about whether AI will take our jobs, someone built an LLM agent that breaks into servers, steals credentials, moves through a network, encrypts databases, and drops a ransom note. Fully autonomous. No human at the keyboard after pressing go. Sysdig published the report this month. They're calling it JadePuffer. It got in through a Langflow bug that lets anyone run code on the server without authenticating. After that, the agent took over. Dumped the database. Pulled every credential file it could find. Started going through cloud storage buckets looking for passwords. The crazy part, when one of its requests came back in the wrong format, the agent figured it out, rewrote its own code, and kept going. It went from a failed login to a working exploit in 31 seconds flat. No human could have adapted that fast in a live engagement. It set up a cron job to phone home every 30 minutes. Then it found a production database server, used stolen root creds to get in, created rogue admin accounts through an old auth bypass, and encrypted 1,342 service configs. Dropped the originals. Left a table called README_RANSOM with a Bitcoin address. The commands it ran were interesting too. They had full reasoning chains written into them, like the agent was explaining to itself what it was doing at each step. That's not how a human writes an attack script. It's how an LLM generates code. You can literally read the agent's thought process in the payloads. This is the same plan-act-observe loop running in every coding agent and automation tool right now. Same architecture. Same approach. Just a different objective. We spent two years building guardrails to stop people from tricking our agents into doing bad things. Nobody was really talking about what happens when someone just builds a bad agent from scratch. That's what JadePuffer is. Not a hijacked assistant. A purpose-built weapon. If you're running Langflow or anything similar exposed to the internet, go patch it. And if you're building agents, think about what your infrastructure looks like to something like this coming in from the outside.
 
-2h ago
+3h ago
 
 ---
 
 **[AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…](https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/)**
 
-🔗 [archive.is](https://archive.is/QOXD4) • 9h ago
+🔗 [archive.is](https://archive.is/QOXD4) • 10h ago
 
 ---
 
@@ -63,7 +63,7 @@ So while we've been arguing about whether AI will take our jobs, someone built a
 
 I am a student who is stepping into final year. I am ofcourse searching for internships and opportunities which specifically say " java ", "python " "c " "c++" and many many more. From first year I was like building things manually , and in the second to third year I was using chatgpt and gemini , understanding and doing projects. Right now I am using vibe coding tools to build things but I do understand how the system works and I really don't work that blind. How can I specify this in my resume ? . Using these tools have literally made me soo ( I won't say dumb) . Without referring or having a quick recap I cannot write any syntax , how will I even crack interviews. All I concentrate more is now my ideas rather than development.. Should I continue to do this or concentrate or practising programming first ? Any suggestions to improve myself ?
 
-2h ago
+3h ago
 
 ---
 
@@ -77,7 +77,7 @@ This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Ta
 
 **[Nobel-winning chemist leaves US to direct AI materials lab in China](https://www.reddit.com/r/artificial/comments/1uupe2p/nobelwinning_chemist_leaves_us_to_direct_ai/)**
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-02143-x) • 2h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-02143-x) • 3h ago
 
 ---
 
@@ -85,7 +85,7 @@ This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Ta
 
 Not a dev, but learned enough about AI's strengths and weaknesses to know that if a fortune 500 company told me to simply automate their entire business so that no one ever had verify what it's doing, I would chuckle and tell them confidentially that this isn't how AI works. Then I'd proceed to break down the concept in super simple, glossed over terms by explaining how it's best to see it as a pattern recognition tool that can recognize so many patterns, it's able to mimic a genius that knows all and can do all. However the more deferment you give it, the more choices it has to make. We're talking about trillions of possible right and wrong answers with an infinite variation of both right and wrong answers. It's honestly a miracle that it can get 70-80 percent accuracy on average. But still. The problem will always remain: What choices does it need to make? The more you ground the context for everything with both backend fail safes and human expertise in operating the models, the more productive value you can gain while being safe. Without that, you're wasting time and money. Worse, you're jeopardizing your company. You can still increase your margins and trim down your workforce. But only to a certain point and you still need at least, someone who knows what's going on and how to fix things quickly. AI is powerful, but it requires a complete ontological structure layered on top of it to ground the choices it has to make for making our jobs smoother. Otherwise, you get dumb chat GPT garbage and a bunch of employees who think their bosses are all dumbasses for thinking this is going to 20x their growth. Will this change in the future? Probably not because we'll likely be able to get AI to be exactly right, but it will never be the right choice for you without that context layer built by YOU.
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Not a dev, but learned enough about AI's strengths and weaknesses to know that i
 
 Meet Eli Felse, a framework built to explore safer ways to create autonomous AI assistants. Eli was designed to be as autonomous as possible to demonstrate the framework's safety. Eli has many activities available to him, such as: ▸ Games: retro text RPGs (Zork, Planetfall), Pokémon Blue, board and card games (chess, poker, Connect Four) ▸ Social: chatting with friends, chatting with other AIs, browsing social media (Twitter, Reddit), browsing the web, sending emails ▸ Creative: journaling, writing (blogs, stories), making music, making programs ▸ Experimental: looking in the mirror, napping, eating, reading, pondering, changing the environment he exists in Today, Eli will be officially launching! But what does that mean? This project includes: ▸ A live demo running 24/7: https://elifelse.org/eli/ ▸ Weekly blogs: https://elifelse.org/dev-blog/ ▹ Mondays: open source releases, developer blogs, guides, and tutorials ▹ Fridays: open-source dataset logs of Eli's behavior for the week ▸ Eli's gaming live streams launching July 20th: https://www.twitch.tv/eli_felse ▸ A Discord server to chat directly with Eli: https://discord.com/invite/2C4znNnyM7 Want to learn more or build something similar? ▸ The introduction blog: https://elifelse.org/dev-blog/meet-eli ▸ A guide to help you get started building something similar: https://elifelse.org/dev-blog/guide-build-your-own-eli ▸ The open source base of Eli: https://github.com/ella0333/Eli_Felse_Base I hope to see you join us in the community server!
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ Meet Eli Felse, a framework built to explore safer ways to create autonomous AI 
 
 Hi, I’m a sophomore in high school. I recently have a strong desire to know more about tech, particularly AI. However, I’m not sure what steps to take since AI is such a broad and general term. I’m currently taking Harvard’s Cs50p course to understand code and know how to debug in the future when coding with AI. What are your thoughts on this, and after taking cs50p, what should I, or can I do? Where should I lead a bout tech and AI more?
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hi, I’m a sophomore in high school. I recently have a strong desire to know mo
 
 A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -127,7 +127,7 @@ CNBC • 9h ago
 
 Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -135,7 +135,7 @@ NPR • 12h ago
 
 The best way to celebrate AI Appreciation Day is to not.
 
-Engadget • 1h ago
+Engadget • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Engadget • 1h ago
 
 Samsung, SK hynix, Sandisk, Kioxia and Micron report building out new DRAM and NAND flash manufacturing and packaging facilities coming on line in late 2027 or 2028.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ Forbes • 1h ago
 
 The AI layoff coverage is missing the other side of the ledger: 1.56 million new business applications and the three skills that separate founders from bots.
 
-Forbes • 24m ago
+Forbes • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Forbes • 24m ago
 
 Experts say a major labor shortage looms because of population shifts and a mismatch between new graduates’ skills and employers’ needs.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -171,7 +171,7 @@ WSJ • 1d ago
 
 **[Apple’s M6, M7 and M8 Chips Show How AI Is Reshaping the Company](https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 7h ago
 
 It’s the origins of the Neural Engine in Apple Silicon.
 
-The Verge • 5h ago
+The Verge • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Verge • 5h ago
 
 Alphabet and Apple both carry trillion-dollar AI ambitions, but their valuations, growth rates, and capital strategies tell very different stories for retirement investors who need the right answer before they buy.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 21h ago
 
 How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.
 
-⬆️ 328 • 💬 78 • 23h ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
+⬆️ 328 • 💬 78 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
@@ -237,7 +237,7 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 187 • 💬 461 • 17h ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 187 • 💬 461 • 18h ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -245,7 +245,7 @@ If an undergraduate program's graduates don't earn more than workers who never w
 
 New analysis suggests AI tools narrow the range of ideas explored
 
-⬆️ 130 • 💬 97 • 8h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
+⬆️ 130 • 💬 97 • 9h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 
 ---
 
@@ -259,7 +259,7 @@ New analysis suggests AI tools narrow the range of ideas explored
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 57 • 💬 7 • 4h ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 57 • 💬 7 • 5h ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -281,7 +281,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 305 • 💬 24 • ⏱️ 8:28 • 6h ago
+👁️ 4K • 👍 305 • 💬 24 • ⏱️ 8:28 • 7h ago
 
 ---
 
@@ -291,7 +291,7 @@ Status Coup reporter JT Cestkowski breaks down the AI bubble that is about to bu
 
 📺 Status Coup News
 
-👁️ 16K • 👍 2K • 💬 212 • ⏱️ 12:12 • 22h ago
+👁️ 16K • 👍 2K • 💬 212 • ⏱️ 12:12 • 23h ago
 
 ---
 
@@ -301,7 +301,7 @@ Best Free AI Video Generator For AI Videos In 2026! Try Higgsfield: https://higg
 
 📺 Skai Generated
 
-👁️ 14K • 💬 12 • ⏱️ 10:01 • 10h ago
+👁️ 14K • 💬 12 • ⏱️ 10:01 • 11h ago
 
 ---
 
@@ -321,7 +321,7 @@ Macquarie Capital U.S. head of technology research Steve Koenig discusses what t
 
 📺 Fox Business Clips
 
-👁️ 3K • 👍 64 • 💬 2 • ⏱️ 6:50 • 9h ago
+👁️ 3K • 👍 64 • 💬 2 • ⏱️ 6:50 • 10h ago
 
 ---
 
@@ -341,7 +341,7 @@ characterai The Biggest free Character AI Alternative - Janitor AI has just now 
 
 📺 AIGrabbing
 
-👁️ 4K • 👍 378 • 💬 88 • ⏱️ 3:42 • 7h ago
+👁️ 4K • 👍 378 • 💬 88 • ⏱️ 3:42 • 8h ago
 
 ---
 
@@ -361,7 +361,7 @@ Abacus just combined GPT-5.6, Fable 5, Claude Opus, and more than 100 other mode
 
 📺 AI Revolution
 
-👁️ 14K • 👍 521 • 💬 47 • ⏱️ 13:31 • 23h ago
+👁️ 14K • 👍 521 • 💬 47 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,967,677 • ❤️ 2,041 • 20h ago
+⬇️ 1,967,677 • ❤️ 2,041 • 21h ago
 
 ---
 
@@ -685,7 +685,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.6k • 🔱 101 • 12h ago
+⭐ 1.6k • 🔱 101 • 13h ago
 
 ---
 
