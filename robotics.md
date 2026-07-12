@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-11T23:27:25.818010+00:00'
+updated: '2026-07-12T01:06:18.346540+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 11, 2026 at 23:27 UTC  
+**Last Updated:** July 12, 2026 at 01:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -56,13 +56,13 @@ For aesthetic reasons, robots are typically equipped with outer casings around t
 
 **[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 15h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 16h ago
 
 ---
 
 **[Ground Robots Inherit the Kill Zone - Ukrainian roboticists build toward a human-free frontline](https://www.reddit.com/r/robotics/comments/1utclru/ground_robots_inherit_the_kill_zone_ukrainian/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -108,11 +108,27 @@ I’m really hoping you all think robot mowers belong in the group for discussio
 
 ## Google News: "robotics"
 
+**[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
+
+From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
+
+Cowboy State Daily • 6h ago
+
+---
+
 **[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
 
 Ars Technica • 2d ago
+
+---
+
+**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
+
+Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
+
+New Atlas • 1d ago
 
 ---
 
@@ -124,27 +140,9 @@ Mashable • 2d ago
 
 ---
 
-**[Mitsubishi Motors to make humanoid robots for its own auto factories](https://asia.nikkei.com/business/technology/mitsubishi-motors-to-make-humanoid-robots-for-its-own-auto-factories)**
+**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
 
-Production to begin as early as 2027 in cooperation with Japanese startup
-
-Nikkei Asia • 2d ago
-
----
-
-**[This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)**
-
-General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
-
-TechCrunch • 3d ago
-
----
-
-**[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
-
-From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
-
-Cowboy State Daily • 4h ago
+Reuters • 1d ago
 
 ---
 
@@ -152,13 +150,7 @@ Cowboy State Daily • 4h ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 18h ago
-
----
-
-**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
-
-Reuters • 1d ago
+The Guardian • 20h ago
 
 ---
 
@@ -166,7 +158,7 @@ Reuters • 1d ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 6h ago
+hyundai.com • 8h ago
 
 ---
 
@@ -181,6 +173,14 @@ mistral.ai • 4h ago
 **[In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)**
 
 Nature • 3d ago
+
+---
+
+**[BlackBerry Sees Strong Pipeline Across Robotics and Automation](https://finance.yahoo.com/technology/articles/blackberry-sees-strong-pipeline-across-121800442.html)**
+
+BB sees QNX's fastest-growing GEM strategy opening new opportunities in robotics and industrial automation as recent customer wins strengthen adoption.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -222,7 +222,7 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Varun Mayya
 
-👁️ 35K • 👍 2K • 💬 25 • ⏱️ 1:03 • 7h ago
+👁️ 35K • 👍 2K • 💬 25 • ⏱️ 1:03 • 9h ago
 
 ---
 
@@ -262,7 +262,7 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 70K • 👍 2K • 💬 572 • ⏱️ 20:21 • 3d ago
+👁️ 70K • 👍 2K • 💬 572 • ⏱️ 20:21 • 4d ago
 
 ---
 
@@ -282,7 +282,7 @@ In this video I cover some of the behind the scenes of starting a robotics compa
 
 📺 Austen Hartley
 
-👁️ 41K • 👍 2K • 💬 109 • ⏱️ 18:50 • 4d ago
+👁️ 41K • 👍 2K • 💬 109 • ⏱️ 18:50 • 5d ago
 
 ---
 
