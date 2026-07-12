@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T07:29:17.003064+00:00'
+updated: '2026-07-12T09:28:41.547766+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 07:29 UTC  
+**Last Updated:** July 12, 2026 at 09:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use robstride actuators, series 00 and edulite 05
 
-14h ago
+16h ago
 
 ---
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 1m ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 2h ago
 
 ---
 
@@ -72,13 +72,13 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 Engineers have spent billions teaching robots to do backflips and solve complex math, yet a wet, mossy hill can stop a state-of-the-art robot completely. This video breaks down how researchers solved that problem not with better software, but by copying the design of a mountain goat's hoof, using a rigid outer shell to mimic keratin and a soft flexible core to mimic the natural grip pad, creating a robotic foot that uses zero cameras, sensors, or microprocessors. The result is a purely mechanical solution called passive mechanics, proving that sometimes evolution has already engineered the answer millions of years before we did. Published research on biomimetic robotic foot design for rough terrain locomotion
 
-🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 12h ago
+🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 14h ago
 
 ---
 
 **[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 23h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 1d ago
 
 ---
 
@@ -108,6 +108,14 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 ## Google News: "robotics"
 
+**[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
+
+From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
+
+Cowboy State Daily • 14h ago
+
+---
+
 **[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
@@ -126,15 +134,7 @@ New Atlas • 1d ago
 
 **[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
 
-Tech Xplore • 15h ago
-
----
-
-**[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
-
-From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
-
-Cowboy State Daily • 12h ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -142,7 +142,7 @@ Cowboy State Daily • 12h ago
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 6h ago
+NVIDIA Developer • 8h ago
 
 ---
 
@@ -150,7 +150,7 @@ NVIDIA Developer • 6h ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 5h ago
+hyundai.com • 1h ago
 
 ---
 
@@ -162,23 +162,25 @@ The Guardian • 1d ago
 
 ---
 
+**[Tiny robot boats build floating structures](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)**
+
+FloatForm, developed at MIT, is a swarm of small aquatic robots that assemble into reconfigurable structures. It could lead to floating infrastructure that builds itself into things like a temporary platform, a market, or a stage.
+
+MIT News • 2d ago
+
+---
+
+**[Woman, 45, Underwent the First Robotic Single-Port Nipple-Sparing Mastectomy Performed in the U.S by a Robot Named Carol](https://www.yahoo.com/news/science/articles/woman-45-underwent-first-robotic-110000131.html)**
+
+Vicky Pan, a mom of two, was diagnosed with aggressive, fast-growing triple-negative breast cancer that had already spread to her lymph nodes
+
+Yahoo • 22h ago
+
+---
+
 **[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
 
 Reuters • 1d ago
-
----
-
-**[Self-reconfiguring modular robotic boats](https://www.nature.com/articles/s41467-026-74527-6)**
-
-Nature • 2d ago
-
----
-
-**[Meet Isaac 1, the $8,000 home robot that wants to take folding laundry off your to-do list](https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7)**
-
-The Y Combinator-backed startup Weave Robotics says its robot Isaac 1 can fold laundry and ships in California this fall.
-
-Business Insider • 2d ago
 
 ---
 
@@ -190,7 +192,7 @@ Business Insider • 2d ago
 
 📺 Varun Mayya
 
-👁️ 67K • 👍 3K • 💬 44 • ⏱️ 1:03 • 15h ago
+👁️ 67K • 👍 3K • 💬 44 • ⏱️ 1:03 • 17h ago
 
 ---
 
@@ -230,7 +232,7 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 📺 Carl Bugeja
 
-👁️ 107K • 👍 5K • 💬 169 • ⏱️ 11:20 • 5d ago
+👁️ 107K • 👍 5K • 💬 169 • ⏱️ 11:20 • 6d ago
 
 ---
 
@@ -250,7 +252,7 @@ In this family adventure story kids learn to respect each other and that nothing
 
 📺 Chris kids show
 
-👁️ 223K • 👍 786 • ⏱️ 20:47 • 21h ago
+👁️ 223K • 👍 786 • ⏱️ 20:47 • 23h ago
 
 ---
 

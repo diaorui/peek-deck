@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T07:29:16.999713+00:00'
+updated: '2026-07-12T09:28:41.545215+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 07:29 UTC  
+**Last Updated:** July 12, 2026 at 09:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -0.1%  
-**30d:** +6.9%  
-**90d:** -22.6%  
-**1y:** -39.6%  
+**24h:** +0.0%  
+**7d:** +0.0%  
+**30d:** +7.0%  
+**90d:** -22.5%  
+**1y:** -39.5%  
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I arrived in a new nation, I had no local currency yet and had my card banned for the third time this trip, but I needed transportation. While I waited for my bag, I used ETH on my phone to purchase an Uber gift card using aceb. Before I reached the exit, I applied it to the app, so by the time I arrived outside, a ride was reserved. I've started holding a modest amount of ETH for just such circumstances. When a bank card fails at the wrong time, gift cards cover everything you need, including hotels, taxis and food delivery.
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 18h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -186,7 +186,7 @@ ethereum.org • 2d ago
 
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
-Decrypt • 15h ago
+Decrypt • 17h ago
 
 ---
 
@@ -194,13 +194,7 @@ Decrypt • 15h ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 13h ago
-
----
-
-**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
-
-thestreet.com • 13h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -208,23 +202,29 @@ thestreet.com • 13h ago
 
 Ether (ETH) price gained 3% between Thursday and Friday, outperforming the broader crypto market. The move ties to growing tokenization, Robinhood Chain’s success, and ongoing corporate treasury purchases. However, ETH failed to break above $1,800 amid weak onchain and derivatives metrics. Is Ether…
 
-TradingView • 18h ago
+TradingView • 20h ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP hold recovery levels amid minor ETF outflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-recovery-levels-amid-minor-etf-outflows-202607102300)**
+**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
-The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
-
-FXStreet • 1d ago
+thestreet.com • 15h ago
 
 ---
 
-**[Ethereum traders, watch THESE metrics as ETH hits rare accumulation zone](https://ambcrypto.com/ethereum-traders-watch-these-metrics-as-eth-hits-rare-accumulation-zone/)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Gain As Bitcoin Death Cross Sparks End-Of-Bear-Market Debate](https://www.benzinga.com/crypto/cryptocurrency/26/07/60371667/bitcoin-ethereum-xrp-dogecoin-gain-as-bitcoin-death-cross-sparks-end-of-bear-market-debate)**
 
-Can $1,800 become Ethereum's next launchpad?
+Bitcoin and major cryptocurrencies advanced as traders debated whether a weekly death cross signals the final phase of the bear market rather than the start of a new downturn. Analysts point to BTCs reclaim of its 200-week moving average and historical performance around previous death crosses as reasons to favor gradual accumulation.
 
-AMBCrypto • 9h ago
+Benzinga • 2d ago
+
+---
+
+**[Investors Tap the Brakes on Ethereum as ETHA Logs Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/investors-tap-the-brakes-on-ethereum-as-etha-logs-fresh-outflows)**
+
+iShares Ethereum Trust ETF ETHA saw a notable outflow of $12.67 million on July 10, 2026, trimming exposure even as its assets under management stand at roughly $4....
+
+TipRanks • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 93 • 💬 24 • ⏱️ 18:37 • 14h ago
+👁️ 3K • 👍 93 • 💬 24 • ⏱️ 18:37 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 519 • 💬 530 • ⏱️ 24:07 • 17h ago
+👁️ 6K • 👍 519 • 💬 530 • ⏱️ 24:07 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 705 • 👍 93 • 💬 4 • ⏱️ 10:59 • 4h ago
+👁️ 705 • 👍 93 • 💬 4 • ⏱️ 10:59 • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 83 • 💬 136 • ⏱️ 10:43 • 17h ago
+👁️ 2K • 👍 83 • 💬 136 • ⏱️ 10:43 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ What's up, it's Weston — 0.3 ETH just dropped and I got mine. Full walkthrough
 
 📺 Weston Ashford
 
-👁️ 5K • 💬 202 • ⏱️ 4:36 • 3h ago
+👁️ 5K • 💬 202 • ⏱️ 4:36 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 194 • 💬 6 • ⏱️ 9:31 • 14h ago
+👁️ 2K • 👍 194 • 💬 6 • ⏱️ 9:31 • 16h ago
 
 ---
 
@@ -298,7 +298,7 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 88 • 👍 18 • 💬 7 • ⏱️ 16:06 • 50m ago
+👁️ 88 • 👍 18 • 💬 7 • ⏱️ 16:06 • 2h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 5K • 👍 300 • 💬 223 • ⏱️ 21:18 • 11h ago
+👁️ 5K • 👍 300 • 💬 223 • ⏱️ 21:18 • 13h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 516 • 👍 70 • ⏱️ 8:17 • 4h ago
+👁️ 516 • 👍 70 • ⏱️ 8:17 • 6h ago
 
 ---
 
@@ -328,7 +328,7 @@ I think Internet Computer Protocol is on the way to being the number one cryptoc
 
 📺 Jerry Banfield ICP
 
-👁️ 2K • 👍 192 • 💬 59 • ⏱️ 18:43 • 15h ago
+👁️ 2K • 👍 192 • 💬 59 • ⏱️ 18:43 • 17h ago
 
 ---
 
