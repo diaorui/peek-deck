@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T20:49:50.102762+00:00'
+updated: '2026-07-12T21:51:47.825458+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 20:49 UTC  
+**Last Updated:** July 12, 2026 at 21:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.1%  
-**7d:** +1.3%  
-**30d:** +8.4%  
-**90d:** -21.5%  
-**1y:** -38.7%  
+**7d:** +0.8%  
+**30d:** +7.8%  
+**90d:** -21.9%  
+**1y:** -39.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $219.50B
+**Market Cap:** $218.67B
 Rank #2
 
 **Circulating Supply:** 120,683,028 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.2%
+-63.4%
 
 **All-Time Low:** $0.43
-+419978.1%
++418391.4%
 
 ---
 
@@ -174,19 +174,19 @@ The Block • 2d ago
 
 ---
 
-**[Tom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-flags-interesting-ethereum-182915798.html)**
-
-Tom Lee shared a technical analysis by former Bank of America technical strategist Stephen Suttmeier suggesting Ethereum may be forming a short-term bottom after months of weakness.
-
-Yahoo Finance • 3d ago
-
----
-
 **[iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?](https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/)**
 
 One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
 
-The Motley Fool • 49m ago
+The Motley Fool • 1h ago
+
+---
+
+**[Ethereum Will Be $5 Trillion Network In 'Few Years,' Says Tom Lee — What Would That Make Price?](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-trillion-network-few-131715571.html)**
+
+Tom Lee says Ethereum could become a $5 trillion network within the next few years. A $5 trillion market cap would imply an ETH price ...
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -198,33 +198,35 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Based New Crypto Pepeto Reports Exchange Launch Progress as Funding Climbs Past $10.4M](https://markets.businessinsider.com/news/stocks/ethereum-based-new-crypto-pepeto-reports-exchange-launch-progress-as-funding-climbs-past-10-4m-1036316421)**
-
-DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
-
-markets.businessinsider.com • 1d ago
-
----
-
-**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
-
-thestreet.com • 1d ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP hold recovery levels amid minor ETF outflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-recovery-levels-amid-minor-etf-outflows-202607102300)**
-
-The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
-
-FXStreet • 1d ago
-
----
-
 **[Ethereum traders, watch THESE metrics as ETH hits rare accumulation zone](https://ambcrypto.com/ethereum-traders-watch-these-metrics-as-eth-hits-rare-accumulation-zone/)**
 
 Can $1,800 become Ethereum's next launchpad?
 
-AMBCrypto • 22h ago
+AMBCrypto • 23h ago
+
+---
+
+**[Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?](https://www.tradingview.com/news/cointelegraph:955ec8386094b:0-ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1-800/)**
+
+Ether (ETH) price gained 3% between Thursday and Friday, outperforming the broader crypto market. The move ties to growing tokenization, Robinhood Chain’s success, and ongoing corporate treasury purchases. However, ETH failed to break above $1,800 amid weak onchain and derivatives metrics. Is Ether…
+
+TradingView • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC gears up for a breakout, ETH tests key EMA, XRP holds support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-gears-up-for-a-breakout-eth-tests-key-ema-xrp-holds-support-202607100351)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
+
+FXStreet • 2d ago
+
+---
+
+**[How Block Builders Select and Order Transactions on the Ethereum Network](https://financefeeds.com/how-block-builders-select-transactions/)**
+
+Learn how block builders select transactions on Ethereum using priority fees, MEV ordering, and proposer-builder separation.
+
+FinanceFeeds • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 110 • 💬 26 • ⏱️ 18:37 • 1d ago
+👁️ 4K • 👍 113 • 💬 27 • ⏱️ 18:37 • 1d ago
 
 ---
 
@@ -248,7 +250,27 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 589 • 💬 542 • ⏱️ 24:07 • 1d ago
+👁️ 8K • 👍 604 • 💬 551 • ⏱️ 24:07 • 1d ago
+
+---
+
+**[ETHEREUM: THE REAL MOST HATED RALLY](https://www.youtube.com/watch?v=-cWisMcB35I)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 841 • 👍 147 • 💬 96 • ⏱️ 13:44 • 1h ago
+
+---
+
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=SVbJXrUvw40)**
+
+In this video I break down the latest Ethereum price analysis using an Elliott Wave perspective to determine if the current move ...
+
+📺 More Crypto Online
+
+👁️ 464 • 👍 50 • 💬 12 • ⏱️ 5:14 • 1h ago
 
 ---
 
@@ -258,7 +280,7 @@ BITCOIN & CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 1K • 👍 146 • 💬 53 • ⏱️ 20:15 • 3h ago
+👁️ 3K • 👍 205 • 💬 94 • ⏱️ 20:15 • 4h ago
 
 ---
 
@@ -268,7 +290,7 @@ Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━�
 
 📺 Kamilah Stevenson
 
-👁️ 220 • 👍 37 • 💬 2 • ⏱️ 0:39 • 1h ago
+👁️ 1K • 👍 112 • 💬 17 • ⏱️ 0:39 • 2h ago
 
 ---
 
@@ -278,7 +300,7 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 1K • 👍 126 • 💬 30 • ⏱️ 16:06 • 14h ago
+👁️ 2K • 👍 137 • 💬 60 • ⏱️ 16:06 • 15h ago
 
 ---
 
@@ -288,7 +310,7 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 206 • 💬 18 • ⏱️ 9:31 • 1d ago
+👁️ 3K • 👍 207 • 💬 18 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -298,17 +320,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 95 • 💬 137 • ⏱️ 10:43 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=OQzcrKPAgtY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 2K • 👍 117 • ⏱️ 8:17 • 17h ago
+👁️ 2K • 👍 97 • 💬 137 • ⏱️ 10:43 • 1d ago
 
 ---
 
@@ -318,17 +330,7 @@ Joseph Chalom makes the case that Ethereum has the license to win and is finally
 
 📺 The Rollup
 
-👁️ 4K • 👍 239 • 💬 14 • ⏱️ 29:05 • 9h ago
-
----
-
-**[ICP Will Be the TOP Crypto Dominating Bitcoin and Ethereum](https://www.youtube.com/watch?v=H33GZLhlQ_c)**
-
-I think Internet Computer Protocol is on the way to being the number one cryptocurrency with Bitcoin falling to number 2 and ...
-
-📺 Jerry Banfield ICP
-
-👁️ 2K • 👍 214 • 💬 67 • ⏱️ 18:43 • 1d ago
+👁️ 6K • 👍 277 • 💬 28 • ⏱️ 29:05 • 10h ago
 
 ---
 

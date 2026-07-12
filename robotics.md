@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T20:49:50.105911+00:00'
+updated: '2026-07-12T21:51:47.828190+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 20:49 UTC  
+**Last Updated:** July 12, 2026 at 21:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 13h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 14h ago
 
 ---
 
@@ -128,7 +128,7 @@ Cowboy State Daily • 1d ago
 
 Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
 
-CNET • 8h ago
+CNET • 9h ago
 
 ---
 
@@ -136,7 +136,7 @@ CNET • 8h ago
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 19h ago
+NVIDIA Developer • 20h ago
 
 ---
 
@@ -145,6 +145,14 @@ NVIDIA Developer • 19h ago
 Altera, a maker of programmable chips spun out of Intel, is growing roughly 20% a year and more than ‌doubling operating income as it prepares for an eventual public listing, Chief Executive Raghib ‌Hussain told Reuters in an interview.  Altera became fully independent last September after Intel agreed to sell a 51% stake ​to Silver Lake for $4.46 billion in a transaction valuing Altera at $8.75 billion.  Intel retains a 49% stake.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
+
+St. Pius High School held their first ever robotics competition Saturday in Albuquerque
+
+KOB.com • 16h ago
 
 ---
 
@@ -166,23 +174,15 @@ The Guardian • 1d ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 9h ago
+hyundai.com • 10h ago
 
 ---
 
-**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
+**[Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win](https://euromaidanpress.com/2026/07/12/ukraine-is-first-country-to-fund-combat-humanoid-robots-but-its-own-battlefield-says-wheels-still-win/)**
 
-St. Pius High School held their first ever robotics competition Saturday in Albuquerque
+Ukraine's Brave1 defense cluster opened a grant for domestic bipedal humanoid combat robots under a separate category.
 
-KOB.com • 15h ago
-
----
-
-**[Tiny robot boats build floating structures](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)**
-
-FloatForm, developed at MIT, is a swarm of small aquatic robots that assemble into reconfigurable structures. It could lead to floating infrastructure that builds itself into things like a temporary platform, a market, or a stage.
-
-MIT News • 3d ago
+Euromaidan Press • 2h ago
 
 ---
 
@@ -196,25 +196,27 @@ Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that c
 
 📺 MIT Mechanical Engineering
 
-👁️ 126K • 👍 5K • 💬 248 • ⏱️ 4:04 • 3d ago
+👁️ 135K • 👍 5K • 💬 262 • ⏱️ 4:04 • 3d ago
 
 ---
 
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
-📺 Varun Mayya
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
-👁️ 118K • 👍 4K • 💬 72 • ⏱️ 1:03 • 1d ago
+📺 PRO ROBOTS
+
+👁️ 26K • 👍 758 • 💬 57 • ⏱️ 29:49 • 3d ago
 
 ---
 
-**[US surgeons use humanoid robots in operating theatre for first time | 7NEWS](https://www.youtube.com/watch?v=MBFUrLHoPDY)**
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
 
-Surgeons in the US have just achieved a world-first, using humanoid robots in the operating theatre. The machines scrubbed in to ...
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
 
-📺 7NEWS Australia
+📺 Kalil 4.0
 
-👁️ 7K • 👍 27 • 💬 9 • ⏱️ 1:36 • 11h ago
+👁️ 16K • 👍 377 • 💬 59 • ⏱️ 10:42 • 6d ago
 
 ---
 
@@ -228,61 +230,61 @@ In India, thousands of factory workers are helping to build the next generation 
 
 ---
 
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 123K • 👍 4K • 💬 74 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 111K • 👍 5K • 💬 171 • ⏱️ 11:20 • 6d ago
+
+---
+
+**[War Robots BUT EVERYONE has only 1 HP](https://www.youtube.com/watch?v=sI1HN81GTIo)**
+
+War Robots Special Game-Mode Gameplay: 1 Shot 1 Kill My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
+
+📺 Manni-Gaming
+
+👁️ 4K • 👍 286 • 💬 47 • ⏱️ 13:11 • 10h ago
+
+---
+
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+
+📺 Munro Live
+
+👁️ 66K • 👍 2K • 💬 217 • ⏱️ 38:47 • 4d ago
+
+---
+
 **[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
 
 How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
 
 📺 Suhel Experiment
 
-👁️ 11K • 💬 16 • ⏱️ 1:30 • 6h ago
+👁️ 11K • 💬 17 • ⏱️ 1:30 • 7h ago
 
 ---
 
-**[Kids Spent a Day with New Robot Friend](https://www.youtube.com/watch?v=R13RoeN7nd4)**
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
 
-In this family adventure story kids learn to respect each other and that nothing is better than to have a real friend! 00:00 Kids Spent ...
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
 
-📺 Chris kids show
+📺 China Observer
 
-👁️ 343K • 👍 1K • ⏱️ 20:47 • 1d ago
-
----
-
-**[Scientists Put Robot Animals In The Wild... The Results Were Shocking😳](https://www.youtube.com/watch?v=HvdFnrzHN3U)**
-
-Scientists placed realistic robot animals into the wild to study animal behavior, teamwork, and empathy. What happened next ...
-
-📺 Peak Swag
-
-👁️ 584K • 👍 9K • 💬 51 • ⏱️ 0:50 • 23h ago
-
----
-
-**[Is Beni the Camera Robot A.I?](https://www.youtube.com/watch?v=YAXBQbIGxjY)**
-
-Everyone seems to think Beni the Camera Robot is A.I… so I had to check for myself Buy here: ...
-
-📺 Ricky Glaser
-
-👁️ 77K • 👍 3K • 💬 145 • ⏱️ 0:53 • 3d ago
-
----
-
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
-
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
-
-📺 PRO ROBOTS
-
-👁️ 25K • 👍 755 • 💬 57 • ⏱️ 29:49 • 3d ago
-
----
-
-**[industrial robot #automation #machine #industrialrobots #robot#industry](https://www.youtube.com/watch?v=--1JZR9tp44)**
-
-📺 Robot Julie 
-
-👁️ 36K • 👍 106 • 💬 1 • ⏱️ 0:08 • 2d ago
+👁️ 71K • 👍 2K • 💬 582 • ⏱️ 20:21 • 4d ago
 
 ---
 

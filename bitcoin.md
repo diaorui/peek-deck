@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-12T20:49:50.096630+00:00'
+updated: '2026-07-12T21:51:47.820113+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 20:49 UTC  
+**Last Updated:** July 12, 2026 at 21:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.3%  
-**30d:** -0.4%  
-**90d:** -13.4%  
-**1y:** -46.1%  
+**24h:** -0.5%  
+**7d:** -0.2%  
+**30d:** -0.8%  
+**90d:** -13.8%  
+**1y:** -46.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1286.17B
+**Market Cap:** $1281.70B
 Rank #1
 
-**Circulating Supply:** 20,055,412 BTC
+**Circulating Supply:** 20,055,443 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-49.3%
 
 **All-Time Low:** $67.81
-+94474.5%
++94138.3%
 
 ---
 
@@ -109,7 +109,7 @@ Bitcoin is the best performing asset in human history, and we can just scale in 
 
 In 2012, when I first bought Bitcoin, it was $13 a coin. I watched it go from $13 to over $100,000. Now I’ll watch it go $100,000 to $1 million a coin. You believe yet?
 
-22h ago
+23h ago
 
 ---
 
@@ -141,7 +141,7 @@ Freeport is a P2P marketplace (rides, services, goods) running entirely on Nostr
 
 As an ex troller this sub is full of troll, price is just as usual, every cycle. But the people are like to troll. Real life.
 
-22h ago
+23h ago
 
 ---
 
@@ -159,7 +159,7 @@ As an ex troller this sub is full of troll, price is just as usual, every cycle.
 
 The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -167,15 +167,23 @@ CoinDesk • 9h ago
 
 Rising inflation, Bitcoin’s four-year cycle, and excess leverage continue to draw the cryptocurrency’s price down.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
-**[Legendary Hedge Fund Manager Says SpaceX Is ‘The Equivalent Of Dogecoin’ And Bitcoin Is The One That's Actually Cheap](https://finance.yahoo.com/markets/crypto/articles/legendary-hedge-fund-manager-says-122208227.html)**
+**[Peter Schiff Says the Biggest Market Crash Will Not Start With Bitcoin, But Here](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-biggest-market-202833088.html)**
 
-Tim Peterson’s Metcalfe’s law model that puts a value of Bitcoin between $105,000 and $108,000 is well above current trading levels, said Mark Yusko.
+Peter Schiff warns the next market crash starts in the bond market, not Bitcoin, hitting stocks, housing, and crypto.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: 'Orange dots tell only part of the story'](https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story)**
+
+Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.7 billion underwater with bitcoin trading near $64,000.
+
+The Block • 3h ago
 
 ---
 
@@ -185,17 +193,17 @@ Bloomberg.com • 3d ago
 
 ---
 
-**[Bitcoin Classic basketball tournament promotes financial literacy in Springfield](https://www.wwlp.com/news/local-news/hampden-county/bitcoin-classic-basketball-tournament-promotes-financial-literacy-in-springfield/)**
-
-WWLP • 34m ago
-
----
-
 **[Here's What to Expect in the Next Crypto Bull Market](https://www.fool.com/investing/2026/07/12/heres-what-to-expect-in-the-next-crypto-bull-marke/)**
 
 There's a lot to be excited about once a new bull market starts in crypto.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
+
+---
+
+**[Bitcoin Classic basketball tournament promotes financial literacy in Springfield](https://www.wwlp.com/news/local-news/hampden-county/bitcoin-classic-basketball-tournament-promotes-financial-literacy-in-springfield/)**
+
+WWLP • 1h ago
 
 ---
 
@@ -203,29 +211,23 @@ The Motley Fool • 10h ago
 
 I’ve been calling bitcoin down for ages. And it’s been falling. I called it up in 2017, 2021, and 2025. I’m a bull on the way up and a bear on the way back down again.
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
-**[Bitcoin Is The Hardest Hurdle Rate To Beat, Says Strive CEO Matt Cole, And ‘Cash Is Almost Irresponsible’](https://www.tradingview.com/news/stocktwits:531895894094b:0-bitcoin-is-the-hardest-hurdle-rate-to-beat-says-strive-ceo-matt-cole-and-cash-is-almost-irresponsible/)**
+**[BTC, ETH, XRP price news: Bitcoin, ether little changed as U.S. launches fresh Iran strikes](https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes)**
 
-Strive (ASST) CEO Matt Cole said that Bitcoin (BTC) has become a corporate "hurdle rate,” the benchmark companies should measure their capital's performance against, rather than traditional returns."Bitcoin is the hardest hurdle rate to beat," Cole said in a Bitcoin Magazine interview on Wednesday…
+The U.S. hit Iran for the third time this week and Tehran has reportedly closed the Strait of Hormuz again.
 
-TradingView • 1d ago
-
----
-
-**[If you invested $10,000 in gold, Bitcoin, silver and oil when Khamenei was killed, here's how much you'd have today](https://www.thestreet.com/crypto/markets/if-you-had-invested-10000-in-gold-bitcoin-silver-and-oil-when-khamenei-was-killed-heres-how-much-youd-have-today)**
-
-thestreet.com • 6h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow](https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow)**
+**[Bitcoin’s Slump Forces a Crypto Booster’s Retreat](https://thedispatch.com/newsletter/morning/bitcoins-slump-forces-a-crypto-boosters-retreat/)**
 
-The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week’s rebound recovered only about 3% of those outflows.
+Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
 
-The Block • 1d ago
+The Dispatch • 2d ago
 
 ---
 
@@ -291,7 +293,7 @@ It’s supposed to be a decentralized service, after all...
 
 Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
-⬆️ 54 • 💬 29 • 6d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
+⬆️ 57 • 💬 30 • 6d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
 
 ---
 
@@ -305,37 +307,17 @@ Data Scientist Ben Cowen Issues DIRE WARNING to Bitcoin Holders “History is RE
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 197 • ⏱️ 27:14 • 1d ago
+👁️ 55K • 👍 2K • 💬 200 • ⏱️ 27:14 • 1d ago
 
 ---
 
-**[Bitcoin Already Won | Wall Street Just Doesn&#39;t Know It Yet!](https://www.youtube.com/watch?v=9CwwPwv8Yeg)**
+**[Owning Just 0.21 Bitcoin Will Be Life-Changing (insane prediction)](https://www.youtube.com/watch?v=XbcGyluQMoY)**
 
-For years, Bitcoin was dismissed as a scam that governments would eventually ban. Now the conversation has shifted from ...
+Follow Brian: https://www.youtube.com/@brainharrington Follow Brian: https://x.com/BrainHarrington Buy, Sell, Trade Crypto: ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 132 • ⏱️ 14:28 • 1d ago
-
----
-
-**[Has Bitcoin Hit The Bottom?](https://www.youtube.com/watch?v=TP9AEulCw9g)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 59K • 👍 2K • 💬 78 • ⏱️ 52:26 • 1d ago
-
----
-
-**[If MicroStrategy Crumbles Will Bitcoin Fail? | Larry Lepard](https://www.youtube.com/watch?v=DF0xD5vm-iU)**
-
-The biggest Bitcoin bear argument right now is that Strategy could trigger a catastrophic collapse. Larry Lepard takes that claim ...
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 2K • 💬 103 • ⏱️ 24:58 • 20h ago
+👁️ 3K • 👍 357 • 💬 63 • ⏱️ 19:36 • 1h ago
 
 ---
 
@@ -345,57 +327,77 @@ Buying one Bitcoin at the exact bottom of all four cycles, perfect hindsight tim
 
 📺 Lark Davis
 
-👁️ 7K • 👍 437 • 💬 34 • ⏱️ 10:00 • 8h ago
+👁️ 8K • 👍 472 • 💬 36 • ⏱️ 10:00 • 9h ago
 
 ---
 
-**[Bitcoin is Quietly HOLDING This Key Level… (HERE’S WHAT IT MEANS)](https://www.youtube.com/watch?v=5_v4BZvddlo)**
+**[Conservative Bitcoin Price for 2029.](https://www.youtube.com/watch?v=8jWcqqL0CfM)**
 
-Bitcoin is quietly holding a key level of support and is appearing to bounce from that level. Could this be important for bitcoin in ...
+Bitcoin price prediction for 2029 that isn't B.S. crazy. Presentation Slides & URL's ...
 
-📺 Alessio Rastani
+📺 Digital Asset News
 
-👁️ 22K • 👍 2K • 💬 420 • ⏱️ 9:13 • 2d ago
-
----
-
-**[Is The Bitcoin Power Law Broken? | Matthew Mezinskis](https://www.youtube.com/watch?v=oJXECyP_oas)**
-
-I think in ten years, the financial system and the Bitcoin system are going to collide.” Matthew Mezinskis is a macroeconomic ...
-
-📺 What Bitcoin Did
-
-👁️ 14K • 👍 434 • 💬 288 • ⏱️ 1:40:44 • 2d ago
+👁️ 5K • 👍 380 • 💬 36 • ⏱️ 48:46 • 5h ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=sigSZCnSa6M)**
+**[How Much Bitcoin Do You Need To Be Part Of The 1% Richest Holders On Earth?](https://www.youtube.com/watch?v=lApFemzC6HU)**
 
-Bitcoin has a way of making investors question everything during the most difficult parts of the cycle. In this video, we take a step ...
+It's going to be fascinating to see just how many people fomo into the bitcoin and cryptocurrency market as Bitcoin moves closer to ...
 
-📺 Benjamin Cowen
+📺 Money Rules - Investing Tips 
 
-👁️ 102K • 👍 6K • 💬 357 • ⏱️ 29:53 • 2d ago
-
----
-
-**[This Is It For Bitcoin! [The Final Move Is About To Happen]](https://www.youtube.com/watch?v=MtEtzhQphLU)**
-
-Bitcoin is grinding toward $69K but time is running out. Today we map the exact If/Then scenarios using timing factors, the ...
-
-📺 Crypto Banter
-
-👁️ 14K • 👍 1K • 💬 11 • ⏱️ 23:37 • 2d ago
+👁️ 7K • 👍 853 • 💬 219 • ⏱️ 10:16 • 10h ago
 
 ---
 
-**[NEW CRYPTO CLARITY ACT VERSION TO BE RELEASED NEXT WEEK! SWIFT &amp; BANKS LAUNCH BLOCKCHAIN PAYMENTS!](https://www.youtube.com/watch?v=v-J2pVwH_e8)**
+**[WHAT THE F*$K IS HAPPENING TO BITCOIN RIGHT NOW...](https://www.youtube.com/watch?v=vKDqgV_Pvh4)**
 
-Crypto News: Newest version of crypto Clarity Act may drop as soon as next week, sources say. Swift launches blockchain ledger ...
+Bitcoin sentiment is at rock bottom... fear is everywhere... and yet some of the biggest historical signals are beginning to line up.
 
-📺 Thinking Crypto
+📺 Crypto Love
 
-👁️ 17K • 👍 1K • 💬 165 • ⏱️ 16:04 • 2d ago
+👁️ 1K • 👍 214 • 💬 91 • ⏱️ 8:52 • 4h ago
+
+---
+
+**[Bitcoin Already Won | Wall Street Just Doesn&#39;t Know It Yet!](https://www.youtube.com/watch?v=9CwwPwv8Yeg)**
+
+For years, Bitcoin was dismissed as a scam that governments would eventually ban. Now the conversation has shifted from ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 134 • ⏱️ 14:28 • 1d ago
+
+---
+
+**[If MicroStrategy Crumbles Will Bitcoin Fail? | Larry Lepard](https://www.youtube.com/watch?v=DF0xD5vm-iU)**
+
+The biggest Bitcoin bear argument right now is that Strategy could trigger a catastrophic collapse. Larry Lepard takes that claim ...
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 2K • 💬 109 • ⏱️ 24:58 • 21h ago
+
+---
+
+**[Has Bitcoin Hit The Bottom?](https://www.youtube.com/watch?v=TP9AEulCw9g)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 61K • 👍 2K • 💬 78 • ⏱️ 52:26 • 1d ago
+
+---
+
+**[&quot;I&#39;M EXPOSING IT ALL! This Is Bitcoin&#39;s BIGGEST Problem in 2026&quot; - Lyn Alden](https://www.youtube.com/watch?v=JDArH3YINxw)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 227 • 👍 29 • 💬 11 • ⏱️ 20:24 • 1h ago
 
 ---
 
