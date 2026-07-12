@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T22:49:55.381154+00:00'
+updated: '2026-07-12T23:55:06.908992+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 22:49 UTC  
+**Last Updated:** July 12, 2026 at 23:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +0.8%  
-**30d:** +7.8%  
-**90d:** -21.9%  
-**1y:** -39.1%  
+**24h:** +1.0%  
+**7d:** +0.5%  
+**30d:** +7.5%  
+**90d:** -22.1%  
+**1y:** -39.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $218.67B
+**Market Cap:** $217.88B
 Rank #2
 
 **Circulating Supply:** 120,683,028 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.4%
+-63.5%
 
 **All-Time Low:** $0.43
-+418391.4%
++416917.9%
 
 ---
 
@@ -174,19 +174,19 @@ The Block • 2d ago
 
 ---
 
-**[iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?](https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/)**
-
-One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
-
-The Motley Fool • 2h ago
-
----
-
 **[Ethereum Will Be $5 Trillion Network In 'Few Years,' Says Tom Lee — What Would That Make Price?](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-trillion-network-few-131715571.html)**
 
 Tom Lee says Ethereum could become a $5 trillion network within the next few years. A $5 trillion market cap would imply an ETH price ...
 
 Yahoo Finance • 3d ago
+
+---
+
+**[iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?](https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/)**
+
+One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -214,19 +214,19 @@ TradingView • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC gears up for a breakout, ETH tests key EMA, XRP holds support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-gears-up-for-a-breakout-eth-tests-key-ema-xrp-holds-support-202607100351)**
+**[Crypto Today: Bitcoin, Ethereum, XRP hold recovery levels amid minor ETF outflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-recovery-levels-amid-minor-etf-outflows-202607102300)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
+The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
 
 FXStreet • 2d ago
 
 ---
 
-**[How Block Builders Select and Order Transactions on the Ethereum Network](https://financefeeds.com/how-block-builders-select-transactions/)**
+**[Ethereum: Fundstrat Eyes Path to $10,000](https://blockchain.news/flashnews/ethereum-fundstrat-eyes-path-10-000)**
 
-Learn how block builders select transactions on Ethereum using priority fees, MEV ordering, and proposer-builder separation.
+Ethereum at $1798.95 draws Fundstrat $10,000 call as Tom Lee flags undervaluation versus gold and real estate tokenization flows.
 
-FinanceFeeds • 1d ago
+blockchain.news • 12h ago
 
 ---
 
@@ -234,23 +234,13 @@ FinanceFeeds • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: &quot;Ethereum to $40,000 At This Date&quot; [SUPER REALISTIC $40,000 Prediction for Ethereum]](https://www.youtube.com/watch?v=mSaGuGBSeVQ)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 113 • 💬 27 • ⏱️ 18:37 • 1d ago
-
----
-
 **[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
 
 The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 604 • 💬 551 • ⏱️ 24:07 • 1d ago
+👁️ 8K • 👍 611 • 💬 551 • ⏱️ 24:07 • 1d ago
 
 ---
 
@@ -260,7 +250,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 841 • 👍 147 • 💬 96 • ⏱️ 13:44 • 2h ago
+👁️ 2K • 👍 279 • 💬 117 • ⏱️ 13:44 • 3h ago
+
+---
+
+**[Tom Lee: &quot;Ethereum to $40,000 At This Date&quot; [SUPER REALISTIC $40,000 Prediction for Ethereum]](https://www.youtube.com/watch?v=mSaGuGBSeVQ)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 117 • 💬 27 • ⏱️ 18:37 • 1d ago
 
 ---
 
@@ -270,27 +270,7 @@ In this video I break down the latest Ethereum price analysis using an Elliott W
 
 📺 More Crypto Online
 
-👁️ 464 • 👍 50 • 💬 12 • ⏱️ 5:14 • 2h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EdVoKXkF-nQ)**
-
-BITCOIN & CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 205 • 💬 94 • ⏱️ 20:15 • 5h ago
-
----
-
-**[RLUSD Just Passed Ethereum On The XRP Ledger |](https://www.youtube.com/watch?v=xVnVGgKru5A)**
-
-Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━━━━━━━━━━━━━━━ CRYPTO & INVESTING ...
-
-📺 Kamilah Stevenson
-
-👁️ 1K • 👍 112 • 💬 17 • ⏱️ 0:39 • 3h ago
+👁️ 865 • 👍 84 • 💬 11 • ⏱️ 5:14 • 3h ago
 
 ---
 
@@ -300,7 +280,27 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 2K • 👍 137 • 💬 60 • ⏱️ 16:06 • 16h ago
+👁️ 2K • 👍 141 • 💬 32 • ⏱️ 16:06 • 17h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EdVoKXkF-nQ)**
+
+BITCOIN & CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 246 • 💬 123 • ⏱️ 20:15 • 6h ago
+
+---
+
+**[RLUSD Just Passed Ethereum On The XRP Ledger |](https://www.youtube.com/watch?v=xVnVGgKru5A)**
+
+Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━━━━━━━━━━━━━━━ CRYPTO & INVESTING ...
+
+📺 Kamilah Stevenson
+
+👁️ 2K • 👍 169 • 💬 33 • ⏱️ 0:39 • 4h ago
 
 ---
 
@@ -310,7 +310,17 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 207 • 💬 18 • ⏱️ 9:31 • 1d ago
+👁️ 3K • 👍 208 • 💬 18 • ⏱️ 9:31 • 1d ago
+
+---
+
+**[Ethereum price prediction - ETH can make millionaires](https://www.youtube.com/watch?v=jwviNt99gQQ)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 3K • 👍 63 • 💬 13 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -320,17 +330,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 97 • 💬 137 • ⏱️ 10:43 • 1d ago
-
----
-
-**[Joseph Chalom: Ethereum Is Going On Offense (Full Thesis)](https://www.youtube.com/watch?v=0LPp4GQuujo)**
-
-Joseph Chalom makes the case that Ethereum has the license to win and is finally going on offense to prove it, backed by ETH ...
-
-📺 The Rollup
-
-👁️ 6K • 👍 277 • 💬 28 • ⏱️ 29:05 • 11h ago
+👁️ 2K • 👍 98 • 💬 137 • ⏱️ 10:43 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-12T22:49:55.367996+00:00'
+updated: '2026-07-12T23:55:06.894392+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 12, 2026 at 22:49 UTC  
+**Last Updated:** July 12, 2026 at 23:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,31 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[this openai court story is starting to look ugly](https://www.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/)**
-
-i saw this and honestly this one feel like big mess. nyt and other news people saying openai told court for long time it cannot search training data / logs for their copyrighted stuff. but then looks like maybe they already did searches before, and also billions of chat logs were deleted or made not searchable. link: https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/ i know people will say nyt just want money and hate ai. maybe true also. but still, if company say “we cannot search this” and later it comes out “actually yes we did search this before”, then that is not small thing. this is the part of ai nobody want talk about much. everyone say open, safe, trust, future, bla bla. but when court ask simple thing, suddenly data is impossible to find, impossible to search, privacy issue, too hard, too expensive. and maybe privacy is real concern, yes. i dont want random lawyers digging people chats. but also dont tell court one thing if inside company you already know different thing. for me this is why ai companies need more boring adult supervision. not because ai bad. because if the data is the whole product, then hiding how data was used become the whole game. what do people think. is this nyt playing legal games, or openai got caught doing the same silicon valley “oops technically we could but we said we couldnt” bs thing?
-
-5h ago
-
----
-
 **[Someone built an AI agent that hacks networks and holds data for ransom. It just worked.](https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/)**
 
 So while we've been arguing about whether AI will take our jobs, someone built an LLM agent that breaks into servers, steals credentials, moves through a network, encrypts databases, and drops a ransom note. Fully autonomous. No human at the keyboard after pressing go. Sysdig published the report this month. They're calling it JadePuffer. It got in through a Langflow bug that lets anyone run code on the server without authenticating. After that, the agent took over. Dumped the database. Pulled every credential file it could find. Started going through cloud storage buckets looking for passwords. The crazy part, when one of its requests came back in the wrong format, the agent figured it out, rewrote its own code, and kept going. It went from a failed login to a working exploit in 31 seconds flat. No human could have adapted that fast in a live engagement. It set up a cron job to phone home every 30 minutes. Then it found a production database server, used stolen root creds to get in, created rogue admin accounts through an old auth bypass, and encrypted 1,342 service configs. Dropped the originals. Left a table called README_RANSOM with a Bitcoin address. The commands it ran were interesting too. They had full reasoning chains written into them, like the agent was explaining to itself what it was doing at each step. That's not how a human writes an attack script. It's how an LLM generates code. You can literally read the agent's thought process in the payloads. This is the same plan-act-observe loop running in every coding agent and automation tool right now. Same architecture. Same approach. Just a different objective. We spent two years building guardrails to stop people from tricking our agents into doing bad things. Nobody was really talking about what happens when someone just builds a bad agent from scratch. That's what JadePuffer is. Not a hijacked assistant. A purpose-built weapon. If you're running Langflow or anything similar exposed to the internet, go patch it. And if you're building agents, think about what your infrastructure looks like to something like this coming in from the outside.
 
-3h ago
+4h ago
+
+---
+
+**[this openai court story is starting to look ugly](https://www.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/)**
+
+i saw this and honestly this one feel like big mess. nyt and other news people saying openai told court for long time it cannot search training data / logs for their copyrighted stuff. but then looks like maybe they already did searches before, and also billions of chat logs were deleted or made not searchable. link: https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/ i know people will say nyt just want money and hate ai. maybe true also. but still, if company say “we cannot search this” and later it comes out “actually yes we did search this before”, then that is not small thing. this is the part of ai nobody want talk about much. everyone say open, safe, trust, future, bla bla. but when court ask simple thing, suddenly data is impossible to find, impossible to search, privacy issue, too hard, too expensive. and maybe privacy is real concern, yes. i dont want random lawyers digging people chats. but also dont tell court one thing if inside company you already know different thing. for me this is why ai companies need more boring adult supervision. not because ai bad. because if the data is the whole product, then hiding how data was used become the whole game. what do people think. is this nyt playing legal games, or openai got caught doing the same silicon valley “oops technically we could but we said we couldnt” bs thing?
+
+6h ago
 
 ---
 
 **[AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…](https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/)**
 
-🔗 [archive.is](https://archive.is/QOXD4) • 10h ago
+🔗 [archive.is](https://archive.is/QOXD4) • 11h ago
+
+---
+
+**[Nobel-winning chemist leaves US to direct AI materials lab in China](https://www.reddit.com/r/artificial/comments/1uupe2p/nobelwinning_chemist_leaves_us_to_direct_ai/)**
+
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-02143-x) • 4h ago
 
 ---
 
@@ -63,7 +69,7 @@ So while we've been arguing about whether AI will take our jobs, someone built a
 
 I am a student who is stepping into final year. I am ofcourse searching for internships and opportunities which specifically say " java ", "python " "c " "c++" and many many more. From first year I was like building things manually , and in the second to third year I was using chatgpt and gemini , understanding and doing projects. Right now I am using vibe coding tools to build things but I do understand how the system works and I really don't work that blind. How can I specify this in my resume ? . Using these tools have literally made me soo ( I won't say dumb) . Without referring or having a quick recap I cannot write any syntax , how will I even crack interviews. All I concentrate more is now my ideas rather than development.. Should I continue to do this or concentrate or practising programming first ? Any suggestions to improve myself ?
 
-3h ago
+4h ago
 
 ---
 
@@ -75,9 +81,11 @@ This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Ta
 
 ---
 
-**[Nobel-winning chemist leaves US to direct AI materials lab in China](https://www.reddit.com/r/artificial/comments/1uupe2p/nobelwinning_chemist_leaves_us_to_direct_ai/)**
+**[Your AI agent passed all tests, now what ? What are online evals and how to choose them.](https://www.reddit.com/r/artificial/comments/1uuswa9/your_ai_agent_passed_all_tests_now_what_what_are/)**
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-02143-x) • 3h ago
+At work, I have been talking more and more about AI fluency as a skill that companies need if they want to be successful in using AI. AI literacy is about knowing how to use AI tools. AI fluency goes a level deeper: understanding, on a conceptual level, certain aspects of AI, and how these tools and use cases are actually built. You don’t need to write the code, but you do need to understand what is happening under the hood, because that understanding is what separates teams that ship dependable AI from teams that ship demos. In that spirit, I want to touch upon one aspect that sits at the heart of every serious AI application and is rarely explained in plain terms: evals, and specifically online evals for agent applications. Picture this: a few weeks after you put an agent into production, someone on the team asks a simple question: “How do we know it’s still working?” The test suite is green. The demo went well. But nobody can say, with any confidence, whether the agent is doing a good job for real users at that moment. That question is the reason online evals exist. Read what online evals are and how to pick and choose one for your production agents. https://medium.com/@georgekar91/your-agent-passed-every-test-now-what-4b355a710323
+
+🔗 [Medium](https://medium.com/@georgekar91/your-agent-passed-every-test-now-what-4b355a710323) • 1h ago
 
 ---
 
@@ -85,7 +93,7 @@ This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Ta
 
 Not a dev, but learned enough about AI's strengths and weaknesses to know that if a fortune 500 company told me to simply automate their entire business so that no one ever had verify what it's doing, I would chuckle and tell them confidentially that this isn't how AI works. Then I'd proceed to break down the concept in super simple, glossed over terms by explaining how it's best to see it as a pattern recognition tool that can recognize so many patterns, it's able to mimic a genius that knows all and can do all. However the more deferment you give it, the more choices it has to make. We're talking about trillions of possible right and wrong answers with an infinite variation of both right and wrong answers. It's honestly a miracle that it can get 70-80 percent accuracy on average. But still. The problem will always remain: What choices does it need to make? The more you ground the context for everything with both backend fail safes and human expertise in operating the models, the more productive value you can gain while being safe. Without that, you're wasting time and money. Worse, you're jeopardizing your company. You can still increase your margins and trim down your workforce. But only to a certain point and you still need at least, someone who knows what's going on and how to fix things quickly. AI is powerful, but it requires a complete ontological structure layered on top of it to ground the choices it has to make for making our jobs smoother. Otherwise, you get dumb chat GPT garbage and a bunch of employees who think their bosses are all dumbasses for thinking this is going to 20x their growth. Will this change in the future? Probably not because we'll likely be able to get AI to be exactly right, but it will never be the right choice for you without that context layer built by YOU.
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +101,7 @@ Not a dev, but learned enough about AI's strengths and weaknesses to know that i
 
 Meet Eli Felse, a framework built to explore safer ways to create autonomous AI assistants. Eli was designed to be as autonomous as possible to demonstrate the framework's safety. Eli has many activities available to him, such as: ▸ Games: retro text RPGs (Zork, Planetfall), Pokémon Blue, board and card games (chess, poker, Connect Four) ▸ Social: chatting with friends, chatting with other AIs, browsing social media (Twitter, Reddit), browsing the web, sending emails ▸ Creative: journaling, writing (blogs, stories), making music, making programs ▸ Experimental: looking in the mirror, napping, eating, reading, pondering, changing the environment he exists in Today, Eli will be officially launching! But what does that mean? This project includes: ▸ A live demo running 24/7: https://elifelse.org/eli/ ▸ Weekly blogs: https://elifelse.org/dev-blog/ ▹ Mondays: open source releases, developer blogs, guides, and tutorials ▹ Fridays: open-source dataset logs of Eli's behavior for the week ▸ Eli's gaming live streams launching July 20th: https://www.twitch.tv/eli_felse ▸ A Discord server to chat directly with Eli: https://discord.com/invite/2C4znNnyM7 Want to learn more or build something similar? ▸ The introduction blog: https://elifelse.org/dev-blog/meet-eli ▸ A guide to help you get started building something similar: https://elifelse.org/dev-blog/guide-build-your-own-eli ▸ The open source base of Eli: https://github.com/ella0333/Eli_Felse_Base I hope to see you join us in the community server!
 
-6h ago
+7h ago
 
 ---
 
@@ -103,55 +111,23 @@ Meet Eli Felse, a framework built to explore safer ways to create autonomous AI 
 
 ---
 
-**[How to break into tech/AI (need help pls any advice would help)](https://www.reddit.com/r/artificial/comments/1uu60b8/how_to_break_into_techai_need_help_pls_any_advice/)**
-
-Hi, I’m a sophomore in high school. I recently have a strong desire to know more about tech, particularly AI. However, I’m not sure what steps to take since AI is such a broad and general term. I’m currently taking Harvard’s Cs50p course to understand code and know how to debug in the future when coding with AI. What are your thoughts on this, and after taking cs50p, what should I, or can I do? Where should I lead a bout tech and AI more?
-
-17h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds](https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html)**
-
-A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.
-
-CNBC • 10h ago
-
----
 
 **[Campaign text messages could soon get more effective — and annoying](https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns)**
 
 Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.
 
-NPR • 13h ago
+NPR • 14h ago
 
 ---
 
-**[What Are Your Plans For AI Appreciation Day?](https://www.engadget.com/2213147/what-are-your-plans-for-ai-appreciation-day/)**
+**[Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds](https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html)**
 
-The best way to celebrate AI Appreciation Day is to not.
+A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.
 
-Engadget • 2h ago
-
----
-
-**[Memory Capacity Production Slowly Expanding To Meet AI Industry Demand](https://www.forbes.com/sites/tomcoughlin/2026/07/12/memory-capacity-production-slowly-expanding-to-meet-ai-industry-demand/)**
-
-Samsung, SK hynix, Sandisk, Kioxia and Micron report building out new DRAM and NAND flash manufacturing and packaging facilities coming on line in late 2027 or 2028.
-
-Forbes • 2h ago
-
----
-
-**[Why The AI Layoff Story Is Missing The Small Business Boom Underneath](https://www.forbes.com/sites/lisacurtis/2026/07/12/why-the-ai-layoff-story-is-missing-the-small-business-boom-underneath/)**
-
-The AI layoff coverage is missing the other side of the ledger: 1.56 million new business applications and the three skills that separate founders from bots.
-
-Forbes • 1h ago
+CNBC • 11h ago
 
 ---
 
@@ -159,19 +135,13 @@ Forbes • 1h ago
 
 Experts say a major labor shortage looms because of population shifts and a mismatch between new graduates’ skills and employers’ needs.
 
-The Washington Post • 5h ago
-
----
-
-**[Alex Karp Is Saying What Every Angry CEO Is Thinking About AI](https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c)**
-
-WSJ • 1d ago
+The Washington Post • 6h ago
 
 ---
 
 **[Apple’s M6, M7 and M8 Chips Show How AI Is Reshaping the Company](https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -179,15 +149,41 @@ Bloomberg.com • 8h ago
 
 It’s the origins of the Neural Engine in Apple Silicon.
 
-The Verge • 6h ago
+The Verge • 7h ago
 
 ---
 
-**[Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now?](https://finance.yahoo.com/markets/stocks/articles/google-vs-apple-2-biggest-002122668.html)**
+**[2028 Could Bring the Most Mind-Bendingly Expensive Apple Product of All Time](https://gizmodo.com/2028-could-bring-the-most-mind-bendingly-expensive-apple-product-of-all-time-2000784460)**
 
-Alphabet and Apple both carry trillion-dollar AI ambitions, but their valuations, growth rates, and capital strategies tell very different stories for retirement investors who need the right answer before they buy.
+Gizmodo • 4h ago
 
-Yahoo Finance • 22h ago
+---
+
+**[Progressives look to recharge the Green New Deal for the AI era](https://www.politico.com/news/2026/07/12/progressive-democrats-green-new-deal-00989390)**
+
+Politico • 5h ago
+
+---
+
+**[AI giants learn what everyone else on the modern internet already knows](https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7)**
+
+Anthropic's distillation complaints expose an awkward question: does AI's fair use argument cut both ways?
+
+Business Insider • 9h ago
+
+---
+
+**[Meta u-turns on AI feature amid privacy backlash](https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/)**
+
+The Hill • 22h ago
+
+---
+
+**[Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI](https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai)**
+
+Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemployment
+
+The Guardian • 13h ago
 
 ---
 
@@ -199,13 +195,21 @@ Yahoo Finance • 22h ago
 
 How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.
 
-⬆️ 328 • 💬 78 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
+⬆️ 332 • 💬 78 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
 **[AI-generated videos to maximally drive a target brain region](https://news.ycombinator.com/item?id=48856904)**
 
 ⬆️ 292 • 💬 239 • 2d ago • [nevo-project.epfl.ch](https://nevo-project.epfl.ch/)
+
+---
+
+**[Ghost Font: A font that humans can read but AI cannot](https://news.ycombinator.com/item?id=48870381)**
+
+An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.
+
+⬆️ 230 • 💬 170 • 1d ago • [mixfont.com](https://www.mixfont.com/ghost-font)
 
 ---
 
@@ -217,19 +221,11 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 
 ---
 
-**[Ghost Font: A font that humans can read but AI cannot](https://news.ycombinator.com/item?id=48870381)**
-
-An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.
-
-⬆️ 229 • 💬 170 • 1d ago • [mixfont.com](https://www.mixfont.com/ghost-font)
-
----
-
 **[AI 2040 and the cult of intelligence](https://news.ycombinator.com/item?id=48874200)**
 
 I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.
 
-⬆️ 219 • 💬 258 • 1d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+⬆️ 220 • 💬 259 • 1d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
 ---
 
@@ -237,7 +233,7 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 187 • 💬 461 • 18h ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 187 • 💬 470 • 19h ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -245,7 +241,7 @@ If an undergraduate program's graduates don't earn more than workers who never w
 
 New analysis suggests AI tools narrow the range of ideas explored
 
-⬆️ 130 • 💬 97 • 9h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
+⬆️ 135 • 💬 100 • 10h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 
 ---
 
@@ -259,7 +255,7 @@ New analysis suggests AI tools narrow the range of ideas explored
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 57 • 💬 7 • 5h ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 103 • 💬 28 • 6h ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -281,7 +277,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 305 • 💬 24 • ⏱️ 8:28 • 7h ago
+👁️ 7K • 👍 408 • 💬 30 • ⏱️ 8:28 • 8h ago
 
 ---
 
@@ -291,7 +287,7 @@ Status Coup reporter JT Cestkowski breaks down the AI bubble that is about to bu
 
 📺 Status Coup News
 
-👁️ 16K • 👍 2K • 💬 212 • ⏱️ 12:12 • 23h ago
+👁️ 17K • 👍 2K • 💬 225 • ⏱️ 12:12 • 1d ago
 
 ---
 
@@ -301,27 +297,27 @@ Best Free AI Video Generator For AI Videos In 2026! Try Higgsfield: https://higg
 
 📺 Skai Generated
 
-👁️ 14K • 💬 12 • ⏱️ 10:01 • 11h ago
+👁️ 15K • 💬 12 • ⏱️ 10:01 • 12h ago
 
 ---
 
-**[They just revealed how bad the AI crash will be](https://www.youtube.com/watch?v=luzNCxNz_0w)**
+**[New Google AI Studio Update is INSANE!](https://www.youtube.com/watch?v=3yzGG7bodQM)**
 
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+Get the Google AI Studio Masterclass https://www.skool.com/ai-profit-lab-7462/about Get a free SEO Strategy session ...
 
-📺 Chris Norlund
+📺 Julian Goldie SEO
 
-👁️ 64K • 👍 3K • 💬 772 • ⏱️ 12:45 • 2d ago
+👁️ 4K • 👍 97 • 💬 3 • ⏱️ 8:12 • 7h ago
 
 ---
 
-**[This is a &#39;PHENOMENAL&#39; opportunity for AI: Head of technology research](https://www.youtube.com/watch?v=iTURifSOqO0)**
+**[10 Times AI Behaved In Ways That Terrified The Scientists Who Built It](https://www.youtube.com/watch?v=ql-J3N8PWkI)**
 
-Macquarie Capital U.S. head of technology research Steve Koenig discusses what to expect from these AI tailwind companies on ...
+Explore 10 times AI behaved in ways that terrified the scientists who built it. From unexpected AI behavior and surprising research ...
 
-📺 Fox Business Clips
+📺 MostAmazingTop10
 
-👁️ 3K • 👍 64 • 💬 2 • ⏱️ 6:50 • 10h ago
+👁️ 12K • 👍 365 • 💬 26 • ⏱️ 10:58 • 8h ago
 
 ---
 
@@ -331,37 +327,17 @@ Hello everyone, this is YOUR Daily Dose of Internet. In this video, we see evide
 
 📺 Daily Dose Of Internet
 
-👁️ 625K • 👍 26K • 💬 2K • ⏱️ 15:02 • 1d ago
+👁️ 653K • 👍 27K • 💬 2K • ⏱️ 15:02 • 1d ago
 
 ---
 
-**[Janitor AI Just FINALLY LAUNCHED THIS... 💀](https://www.youtube.com/watch?v=Vtf5X4SUZx4)**
+**[This is a &#39;PHENOMENAL&#39; opportunity for AI: Head of technology research](https://www.youtube.com/watch?v=iTURifSOqO0)**
 
-characterai The Biggest free Character AI Alternative - Janitor AI has just now launched Subscriptions... Is it worth it?
+Macquarie Capital U.S. head of technology research Steve Koenig discusses what to expect from these AI tailwind companies on ...
 
-📺 AIGrabbing
+📺 Fox Business Clips
 
-👁️ 4K • 👍 378 • 💬 88 • ⏱️ 3:42 • 8h ago
-
----
-
-**[Why The AI Doomers Might Be Right - Robert Wright](https://www.youtube.com/watch?v=TNCZJTduDpQ)**
-
-Robert Wright is a journalist and author. Is AI the next stage of human development? Some see it as another tool, while others ...
-
-📺 Chris Williamson
-
-👁️ 39K • 👍 769 • 💬 128 • ⏱️ 1:21:06 • 1d ago
-
----
-
-**[Abacus AI Just Dropped Personal Superintelligence (GPT-5.6 + Fable 5)](https://www.youtube.com/watch?v=0eMRWYD2eeQ)**
-
-Abacus just combined GPT-5.6, Fable 5, Claude Opus, and more than 100 other models into personal superintelligence that ...
-
-📺 AI Revolution
-
-👁️ 14K • 👍 521 • 💬 47 • ⏱️ 13:31 • 1d ago
+👁️ 3K • 👍 66 • 💬 3 • ⏱️ 6:50 • 11h ago
 
 ---
 
@@ -371,7 +347,27 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 6K • 👍 196 • 💬 90 • ⏱️ 20:50 • 1d ago
+👁️ 6K • 👍 200 • 💬 91 • ⏱️ 20:50 • 1d ago
+
+---
+
+**[Your Roadmap Is Why You&#39;re Losing to AI-Native Teams.](https://www.youtube.com/watch?v=hYcOFTMesGc)**
+
+Full post w/ links to the tools: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 14K • 👍 563 • 💬 51 • ⏱️ 17:53 • 7h ago
+
+---
+
+**[Janitor AI Just FINALLY LAUNCHED THIS... 💀](https://www.youtube.com/watch?v=Vtf5X4SUZx4)**
+
+characterai The Biggest free Character AI Alternative - Janitor AI has just now launched Subscriptions... Is it worth it?
+
+📺 AIGrabbing
+
+👁️ 4K • 👍 396 • 💬 95 • ⏱️ 3:42 • 9h ago
 
 ---
 
@@ -387,7 +383,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 8,655 • ❤️ 714 • 6d ago
+⬇️ 8,655 • ❤️ 718 • 6d ago
 
 ---
 
@@ -399,7 +395,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,967,677 • ❤️ 2,041 • 21h ago
+⬇️ 1,967,677 • ❤️ 2,045 • 22h ago
 
 ---
 
@@ -411,7 +407,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 441,413 • ❤️ 3,852 • 10d ago
+⬇️ 441,413 • ❤️ 3,854 • 10d ago
 
 ---
 
@@ -423,7 +419,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,463 • ❤️ 260 • 2d ago
+⬇️ 4,463 • ❤️ 265 • 2d ago
 
 ---
 
@@ -435,7 +431,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 29,038 • ❤️ 506 • 3d ago
+⬇️ 29,038 • ❤️ 509 • 3d ago
 
 ---
 
@@ -445,7 +441,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 207 • 3d ago
+⬇️ 0 • ❤️ 211 • 3d ago
 
 ---
 
@@ -455,7 +451,7 @@ Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving 
 
 A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
 
-⬇️ 0 • ❤️ 861 • 9d ago
+⬇️ 0 • ❤️ 863 • 9d ago
 
 ---
 
@@ -467,19 +463,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,430,656 • ❤️ 1,941 • 9d ago
-
----
-
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, aggressive multimodal model (35B parameters, 3B active) based on Qwen3.6, capable of processing text and images. It's designed for maximum output without refusals, suitable for advanced text generation and multimodal tasks.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 2,596,384 • ❤️ 2,672 • 2mo ago
+⬇️ 1,430,656 • ❤️ 1,943 • 9d ago
 
 ---
 
@@ -491,7 +475,19 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 `text-generation` `1.1B`
 
-⬇️ 49,268 • ❤️ 200 • 3d ago
+⬇️ 49,268 • ❤️ 201 • 3d ago
+
+---
+
+**[DeepSeek-V4-Flash-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF)**
+
+*Unsloth AI*
+
+DeepSeek-V4-Flash-GGUF is an optimized LLM supporting a 1M token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in reasoning and coding tasks, making it suitable for advanced agentic workflows and complex problem-solving.
+
+`284.3B`
+
+⬇️ 44,614 • ❤️ 152 • 3d ago
 
 ---
 
@@ -521,7 +517,7 @@ An advanced world modeling system with extended interaction capabilities, real-t
 
 LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
 
-▲ 48 • 💬 1 • ⭐ 708 • 5d ago
+▲ 49 • 💬 1 • ⭐ 708 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
@@ -655,7 +651,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.5k • 🔱 962 • 3d ago
+⭐ 4.5k • 🔱 964 • 3d ago
 
 ---
 
@@ -675,7 +671,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.0k • 🔱 221 • 4d ago
+⭐ 2.0k • 🔱 222 • 4d ago
 
 ---
 
@@ -685,7 +681,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.6k • 🔱 101 • 13h ago
+⭐ 1.6k • 🔱 103 • 14h ago
 
 ---
 
@@ -725,7 +721,7 @@ Agent skills for building playable, polished Three.js browser games with gamepla
 
 `Python`
 
-⭐ 954 • 🔱 102 • 3d ago
+⭐ 956 • 🔱 102 • 3d ago
 
 ---
 

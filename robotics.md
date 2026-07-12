@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T22:49:55.383997+00:00'
+updated: '2026-07-12T23:55:06.912169+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 22:49 UTC  
+**Last Updated:** July 12, 2026 at 23:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 15h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 16h ago
 
 ---
 
@@ -108,14 +108,6 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 ## Google News: "robotics"
 
-**[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
-
-Preclinical trial is testing the feasibility of humanoid robots in surgery.
-
-Ars Technica • 3d ago
-
----
-
 **[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
@@ -124,11 +116,19 @@ Cowboy State Daily • 1d ago
 
 ---
 
+**[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
+
+Preclinical trial is testing the feasibility of humanoid robots in surgery.
+
+Ars Technica • 3d ago
+
+---
+
 **[Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction](https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/)**
 
 Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
 
-CNET • 10h ago
+CNET • 11h ago
 
 ---
 
@@ -136,7 +136,7 @@ CNET • 10h ago
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 21h ago
+NVIDIA Developer • 22h ago
 
 ---
 
@@ -148,11 +148,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
+**[Bixby honors middle school robotics team after top-five world finish](https://www.newson6.com/news-videos/bixby-honors-middle-school-robotics-team-after-top-five-world-finish)**
 
-St. Pius High School held their first ever robotics competition Saturday in Albuquerque
+The middle school robotics team was recognized with a city proclamation honoring its international achievement.
 
-KOB.com • 17h ago
+News On 6 • 9h ago
 
 ---
 
@@ -170,19 +170,19 @@ The Guardian • 1d ago
 
 ---
 
+**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
+
+St. Pius High School held their first ever robotics competition Saturday in Albuquerque
+
+KOB.com • 18h ago
+
+---
+
 **[What’s ‘Next’ for Hyundai: Driving Innovation through Robotics](https://www.hyundai.com/worldwide/en/brand-journal/worldcup2026/hyundai-next-robotics)**
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 11h ago
-
----
-
-**[Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win](https://euromaidanpress.com/2026/07/12/ukraine-is-first-country-to-fund-combat-humanoid-robots-but-its-own-battlefield-says-wheels-still-win/)**
-
-Ukraine's Brave1 defense cluster opened a grant for domestic bipedal humanoid combat robots under a separate category.
-
-Euromaidan Press • 3h ago
+hyundai.com • 12h ago
 
 ---
 
@@ -196,7 +196,7 @@ Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that c
 
 📺 MIT Mechanical Engineering
 
-👁️ 135K • 👍 5K • 💬 262 • ⏱️ 4:04 • 3d ago
+👁️ 145K • 👍 5K • 💬 271 • ⏱️ 4:04 • 3d ago
 
 ---
 
@@ -206,7 +206,25 @@ Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech Yo
 
 📺 PRO ROBOTS
 
-👁️ 26K • 👍 758 • 💬 57 • ⏱️ 29:49 • 3d ago
+👁️ 26K • 👍 761 • 💬 57 • ⏱️ 29:49 • 3d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 125K • 👍 4K • 💬 74 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
+
+How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
+
+📺 Suhel Experiment
+
+👁️ 12K • 💬 17 • ⏱️ 1:30 • 9h ago
 
 ---
 
@@ -216,7 +234,7 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 16K • 👍 377 • 💬 59 • ⏱️ 10:42 • 6d ago
+👁️ 16K • 👍 390 • 💬 61 • ⏱️ 10:42 • 6d ago
 
 ---
 
@@ -226,15 +244,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 36K • 👍 1K • 💬 104 • ⏱️ 2:38 • 2d ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 123K • 👍 4K • 💬 74 • ⏱️ 1:03 • 1d ago
+👁️ 37K • 👍 1K • 💬 104 • ⏱️ 2:38 • 2d ago
 
 ---
 
@@ -248,33 +258,13 @@ Engineered to inspire my son's curiosity Build your own: https://microbots.io/Pr
 
 ---
 
-**[War Robots BUT EVERYONE has only 1 HP](https://www.youtube.com/watch?v=sI1HN81GTIo)**
-
-War Robots Special Game-Mode Gameplay: 1 Shot 1 Kill My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
-
-📺 Manni-Gaming
-
-👁️ 4K • 👍 286 • 💬 47 • ⏱️ 13:11 • 11h ago
-
----
-
 **[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
 
 In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
 
 📺 Munro Live
 
-👁️ 66K • 👍 2K • 💬 217 • ⏱️ 38:47 • 4d ago
-
----
-
-**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
-
-How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
-
-📺 Suhel Experiment
-
-👁️ 11K • 💬 17 • ⏱️ 1:30 • 8h ago
+👁️ 66K • 👍 2K • 💬 218 • ⏱️ 38:47 • 4d ago
 
 ---
 
@@ -284,7 +274,17 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 71K • 👍 2K • 💬 582 • ⏱️ 20:21 • 4d ago
+👁️ 71K • 👍 2K • 💬 583 • ⏱️ 20:21 • 4d ago
+
+---
+
+**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
+
+Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
+
+📺 Fox Business Clips
+
+👁️ 16K • 👍 248 • 💬 122 • ⏱️ 8:37 • 3d ago
 
 ---
 
