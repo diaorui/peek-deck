@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T01:06:18.346540+00:00'
+updated: '2026-07-12T04:54:40.886127+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 01:06 UTC  
+**Last Updated:** July 12, 2026 at 04:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-13h ago
+16h ago
 
 ---
 
@@ -56,13 +56,13 @@ For aesthetic reasons, robots are typically equipped with outer casings around t
 
 **[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 16h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 20h ago
 
 ---
 
 **[Ground Robots Inherit the Kill Zone - Ukrainian roboticists build toward a human-free frontline](https://www.reddit.com/r/robotics/comments/1utclru/ground_robots_inherit_the_kill_zone_ukrainian/)**
 
-18h ago
+22h ago
 
 ---
 
@@ -112,7 +112,7 @@ I’m really hoping you all think robot mowers belong in the group for discussio
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
 
-Cowboy State Daily • 6h ago
+Cowboy State Daily • 10h ago
 
 ---
 
@@ -150,7 +150,7 @@ Reuters • 1d ago
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 20h ago
+The Guardian • 23h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Guardian • 20h ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 8h ago
+hyundai.com • 11h ago
 
 ---
 
@@ -166,7 +166,7 @@ hyundai.com • 8h ago
 
 Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.
 
-mistral.ai • 4h ago
+mistral.ai • 7h ago
 
 ---
 
@@ -188,61 +188,11 @@ Yahoo Finance • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 12K • 👍 287 • 💬 47 • ⏱️ 10:42 • 5d ago
-
----
-
-**[Robot’s first day at call center ends in full kung fu meltdown office chaos on CCTV](https://www.youtube.com/watch?v=saSGzM_tVx8)**
-
-Jul 5, 2026 Security camera footage from an office in China captures a startling malfunction involving a Unitree humanoid robot ...
-
-📺 FOU News
-
-👁️ 1.2M • 👍 20K • 💬 3K • ⏱️ 0:22 • 6d ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 105K • 👍 5K • 💬 169 • ⏱️ 11:20 • 5d ago
-
----
-
 **[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
 
 📺 Varun Mayya
 
-👁️ 35K • 👍 2K • 💬 25 • ⏱️ 1:03 • 9h ago
-
----
-
-**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
-
-Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
-
-📺 Fox Business Clips
-
-👁️ 13K • 👍 204 • 💬 96 • ⏱️ 8:37 • 2d ago
-
----
-
-**[Elon&#39;s robot just got beat to preorder](https://www.youtube.com/watch?v=ykxWu1Jxm64)**
-
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 71K • 👍 4K • 💬 2K • ⏱️ 13:09 • 6d ago
+👁️ 49K • 👍 2K • 💬 36 • ⏱️ 1:03 • 12h ago
 
 ---
 
@@ -252,17 +202,27 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 30K • 👍 1K • 💬 80 • ⏱️ 2:38 • 1d ago
+👁️ 31K • 👍 1K • 💬 85 • ⏱️ 2:38 • 1d ago
 
 ---
 
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+**[Kids Spent a Day with New Robot Friend](https://www.youtube.com/watch?v=R13RoeN7nd4)**
 
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+In this family adventure story kids learn to respect each other and that nothing is better than to have a real friend! 00:00 Kids Spent ...
 
-📺 China Observer
+📺 Chris kids show
 
-👁️ 70K • 👍 2K • 💬 572 • ⏱️ 20:21 • 4d ago
+👁️ 204K • 👍 725 • ⏱️ 20:47 • 18h ago
+
+---
+
+**[Puffin-Inspired Robot that Swims and Flies](https://www.youtube.com/watch?v=9XJhrKpcBGI)**
+
+Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water ...
+
+📺 MIT Mechanical Engineering
+
+👁️ 66K • 👍 3K • 💬 146 • ⏱️ 4:04 • 2d ago
 
 ---
 
@@ -272,17 +232,53 @@ In this video, we completely disassemble the Unitree G1 humanoid robot, taking a
 
 📺 Munro Live
 
-👁️ 57K • 👍 2K • 💬 221 • ⏱️ 38:47 • 3d ago
+👁️ 60K • 👍 2K • 💬 217 • ⏱️ 38:47 • 3d ago
 
 ---
 
-**[i started a robotics company in 2026](https://www.youtube.com/watch?v=4wzn7ERaleU)**
+**[industrial robot #automation #machine #industrialrobots #robot#industry](https://www.youtube.com/watch?v=--1JZR9tp44)**
 
-In this video I cover some of the behind the scenes of starting a robotics company in 2026. Our goal was to make a professional ...
+📺 Robot Julie 
 
-📺 Austen Hartley
+👁️ 31K • 👍 91 • 💬 1 • ⏱️ 0:08 • 2d ago
 
-👁️ 41K • 👍 2K • 💬 109 • ⏱️ 18:50 • 5d ago
+---
+
+**[Is Beni the Camera Robot A.I?](https://www.youtube.com/watch?v=YAXBQbIGxjY)**
+
+Everyone seems to think Beni the Camera Robot is A.I… so I had to check for myself Buy here: ...
+
+📺 Ricky Glaser
+
+👁️ 66K • 👍 2K • 💬 137 • ⏱️ 0:53 • 2d ago
+
+---
+
+**[Fixing a $210 auction robot, Part 2: Hooking it all up #fanuc #engineering #robotics](https://www.youtube.com/watch?v=c1y7PJXAcos)**
+
+Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
+
+📺 Excessive Overkill
+
+👁️ 17K • 👍 845 • 💬 12 • ⏱️ 2:58 • 2d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=C5nDQYJeM1I)**
+
+📺 Robot Julie 
+
+👁️ 23K • 👍 42 • ⏱️ 0:17 • 3d ago
+
+---
+
+**[NEO Robot Hands Are Almost Human Now](https://www.youtube.com/watch?v=Ov4EmwgFzOY)**
+
+Humanoid robots just took a massive leap forward. NEO's new 25 degree of freedom robotic hands can feel, adapt, and ...
+
+📺 DPCcars
+
+👁️ 2K • 👍 51 • 💬 5 • ⏱️ 2:46 • 2d ago
 
 ---
 

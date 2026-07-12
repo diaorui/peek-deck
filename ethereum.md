@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T01:06:18.344047+00:00'
+updated: '2026-07-12T04:54:40.883250+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 01:06 UTC  
+**Last Updated:** July 12, 2026 at 04:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -0.3%  
-**30d:** +6.7%  
-**90d:** -22.7%  
-**1y:** -39.7%  
+**24h:** +0.6%  
+**7d:** +0.6%  
+**30d:** +7.6%  
+**90d:** -22.1%  
+**1y:** -39.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.94B
+**Market Cap:** $217.86B
 Rank #2
 
-**Circulating Supply:** 120,683,053 ETH
+**Circulating Supply:** 120,683,028 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-63.5%
 
 **All-Time Low:** $0.43
-+415026.4%
++416712.4%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+23h ago
+
+---
+
+**[I lowkey wouldn't mind providing liquidity to gamblers to nickel and dime my way through the internet](https://www.reddit.com/r/ethereum/comments/1utad3s/i_lowkey_wouldnt_mind_providing_liquidity_to/)**
+
+I feel like that was the endgame of defi. You put $2000 in a perpetual futures vault, or some combination of blue chip pools, and then you spend 25 cents a day to bribe your way out of ads. Why did nobody integrate web3? People spent more in gas to move a jpeg than a monthly news subscription. I should be able to use fixed yield tools to continuously fund my favorite websites and creators, without either party exposing themselves to insolvency risk. The tooling is there to build yield-based subscription models, but very few sites are integrating with the Metamask compatible framework that all the gambling sites run on. It's like stepping into the future for a brief moment, only that they offer something that is mathematically predestined to reward specific behaviors over others in a negative sum fashion given the gas cost to do anything (it's still cheaper and more open than traditional payment routing methods). If the NYT needs 4 bucks a month to run, let me park $100 in some fixed-yield derivative of a degen farm where the future payout is guaranteed to the site for a year or something. I get like $90 bucks back on a bad year when I unlock my liquidity provisions, and we both make out in the green, because either the degen yield trader lost the farm, or leverage users had a Tuesday. Assuming the internet remains primarily free and ad driven, what obstacles are we dealing with?
+
+1d ago
 
 ---
 
@@ -81,14 +89,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[I lowkey wouldn't mind providing liquidity to gamblers to nickel and dime my way through the internet](https://www.reddit.com/r/ethereum/comments/1utad3s/i_lowkey_wouldnt_mind_providing_liquidity_to/)**
-
-I feel like that was the endgame of defi. You put $2000 in a perpetual futures vault, or some combination of blue chip pools, and then you spend 25 cents a day to bribe your way out of ads. Why did nobody integrate web3? People spent more in gas to move a jpeg than a monthly news subscription. I should be able to use fixed yield tools to continuously fund my favorite websites and creators, without either party exposing themselves to insolvency risk. The tooling is there to build yield-based subscription models, but very few sites are integrating with the Metamask compatible framework that all the gambling sites run on. It's like stepping into the future for a brief moment, only that they offer something that is mathematically predestined to reward specific behaviors over others in a negative sum fashion given the gas cost to do anything (it's still cheaper and more open than traditional payment routing methods). If the NYT needs 4 bucks a month to run, let me park $100 in some fixed-yield derivative of a degen farm where the future payout is guaranteed to the site for a year or something. I get like $90 bucks back on a bad year when I unlock my liquidity provisions, and we both make out in the green, because either the degen yield trader lost the farm, or leverage users had a Tuesday. Assuming the internet remains primarily free and ad driven, what obstacles are we dealing with?
-
-20h ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 12h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -186,7 +186,7 @@ ethereum.org • 2d ago
 
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
-Decrypt • 8h ago
+Decrypt • 12h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 8h ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -208,7 +208,7 @@ FXStreet • 1d ago
 
 **[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
-thestreet.com • 7h ago
+thestreet.com • 10h ago
 
 ---
 
@@ -216,7 +216,7 @@ thestreet.com • 7h ago
 
 Ethereum Foundation's AI audit found a real validator-crashing bug in libp2p gossipsub, patched as CVE-2026-34219, but human triage remains essential.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -224,7 +224,7 @@ Crypto Briefing • 2h ago
 
 Ethereum price is nearing a crucial resistance level as Wall Street restarts the buying spree, with ETF inflows continuing this week.
 
-Benzinga • 5h ago
+Benzinga • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 71 • 💬 40 • ⏱️ 18:37 • 7h ago
+👁️ 2K • 👍 87 • 💬 22 • ⏱️ 18:37 • 11h ago
 
 ---
 
@@ -248,7 +248,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 4K • 👍 419 • 💬 410 • ⏱️ 24:07 • 10h ago
+👁️ 5K • 👍 495 • 💬 560 • ⏱️ 24:07 • 14h ago
+
+---
+
+**[🍟 Trump Is Pumping ETHEREUM](https://www.youtube.com/watch?v=kcvqSQxsC5o)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 376 • 👍 54 • 💬 4 • ⏱️ 10:59 • 1h ago
 
 ---
 
@@ -258,27 +268,17 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 1K • 👍 67 • 💬 91 • ⏱️ 10:43 • 11h ago
+👁️ 2K • 👍 79 • 💬 136 • ⏱️ 10:43 • 14h ago
 
 ---
 
-**[HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows](https://www.youtube.com/watch?v=mTjKDEh-A3U)**
+**[How to Claim 0.3 ETH For Free — Get Free Ethereum](https://www.youtube.com/watch?v=_FAkOWOLv_8)**
 
-HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows Support The O Show with Ref Links: ...
+What's up, it's Weston — 0.3 ETH just dropped and I got mine. Full walkthrough inside. Everything you need to claim is in this ...
 
-📺 CryptoWendyO
+📺 Weston Ashford
 
-👁️ 2K • 👍 178 • 💬 6 • ⏱️ 9:31 • 7h ago
-
----
-
-**[BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pc6zL23Vt_s)**
-
-BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 184 • 💬 125 • ⏱️ 21:18 • 4h ago
+👁️ 4K • 💬 80 • ⏱️ 4:36 • 1h ago
 
 ---
 
@@ -288,17 +288,37 @@ I think Internet Computer Protocol is on the way to being the number one cryptoc
 
 📺 Jerry Banfield ICP
 
-👁️ 1K • 👍 158 • 💬 50 • ⏱️ 18:43 • 9h ago
+👁️ 1K • 👍 183 • 💬 58 • ⏱️ 18:43 • 12h ago
 
 ---
 
-**[The Institutional Case for Ethereum AND Solana](https://www.youtube.com/watch?v=_6SKVy0WOAY)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=OQzcrKPAgtY)**
 
-Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Milk Road
+📺 Crypto Gyan
 
-👁️ 3K • 👍 115 • 💬 98 • ⏱️ 35:55 • 1d ago
+👁️ 245 • 👍 38 • ⏱️ 8:17 • 1h ago
+
+---
+
+**[HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows](https://www.youtube.com/watch?v=mTjKDEh-A3U)**
+
+HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows Support The O Show with Ref Links: ...
+
+📺 CryptoWendyO
+
+👁️ 2K • 👍 192 • 💬 6 • ⏱️ 9:31 • 11h ago
+
+---
+
+**[BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pc6zL23Vt_s)**
+
+BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 281 • 💬 244 • ⏱️ 21:18 • 8h ago
 
 ---
 
@@ -308,27 +328,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 9K • 👍 341 • 💬 69 • ⏱️ 6:02 • 17h ago
-
----
-
-**[Ethereum Must Move Faster or Risk Losing Its Edge Says Starkware Founder](https://www.youtube.com/watch?v=gyjUGylfCgU)**
-
-On today's Markets Outlook, StarkWare CEO Eli Ben-Sasson tells CoinDesk's Jennifer Sanasie why he believes Ethereum's ...
-
-📺 CoinDesk
-
-👁️ 2K • 👍 51 • 💬 19 • ⏱️ 22:55 • 1d ago
-
----
-
-**[ETH BREAKOUT COMING SOON (Ethereum Update)](https://www.youtube.com/watch?v=JLD5kWh-g00)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 180 • 👍 13 • 💬 111 • ⏱️ 4:19 • 15h ago
+👁️ 9K • 👍 350 • 💬 73 • ⏱️ 6:02 • 20h ago
 
 ---
 
