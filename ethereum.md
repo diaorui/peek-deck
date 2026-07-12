@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T09:28:41.545215+00:00'
+updated: '2026-07-12T10:56:25.053004+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 09:28 UTC  
+**Last Updated:** July 12, 2026 at 10:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.0%  
-**7d:** +0.0%  
-**30d:** +7.0%  
-**90d:** -22.5%  
-**1y:** -39.5%  
+**7d:** +0.1%  
+**30d:** +7.1%  
+**90d:** -22.4%  
+**1y:** -39.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.83B
+**Market Cap:** $216.97B
 Rank #2
 
 **Circulating Supply:** 120,683,028 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-63.6%
 
 **All-Time Low:** $0.43
-+414864.7%
++415160.3%
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 20h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -186,7 +186,7 @@ ethereum.org • 2d ago
 
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -194,7 +194,13 @@ Decrypt • 17h ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
+
+---
+
+**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
+
+thestreet.com • 16h ago
 
 ---
 
@@ -202,13 +208,15 @@ markets.businessinsider.com • 15h ago
 
 Ether (ETH) price gained 3% between Thursday and Friday, outperforming the broader crypto market. The move ties to growing tokenization, Robinhood Chain’s success, and ongoing corporate treasury purchases. However, ETH failed to break above $1,800 amid weak onchain and derivatives metrics. Is Ether…
 
-TradingView • 20h ago
+TradingView • 22h ago
 
 ---
 
-**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
+**[Ethereum Foundation says AI found real protocol bugs, but humans still run the show](https://cryptobriefing.com/ethereum-foundation-ai-protocol-bugs-cve/)**
 
-thestreet.com • 15h ago
+Ethereum Foundation's AI audit found a real validator-crashing bug in libp2p gossipsub, patched as CVE-2026-34219, but human triage remains essential.
+
+Crypto Briefing • 12h ago
 
 ---
 
@@ -217,14 +225,6 @@ thestreet.com • 15h ago
 Bitcoin and major cryptocurrencies advanced as traders debated whether a weekly death cross signals the final phase of the bear market rather than the start of a new downturn. Analysts point to BTCs reclaim of its 200-week moving average and historical performance around previous death crosses as reasons to favor gradual accumulation.
 
 Benzinga • 2d ago
-
----
-
-**[Investors Tap the Brakes on Ethereum as ETHA Logs Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/investors-tap-the-brakes-on-ethereum-as-etha-logs-fresh-outflows)**
-
-iShares Ethereum Trust ETF ETHA saw a notable outflow of $12.67 million on July 10, 2026, trimming exposure even as its assets under management stand at roughly $4....
-
-TipRanks • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 93 • 💬 24 • ⏱️ 18:37 • 16h ago
+👁️ 3K • 👍 93 • 💬 24 • ⏱️ 18:37 • 17h ago
 
 ---
 
@@ -248,17 +248,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 519 • 💬 530 • ⏱️ 24:07 • 19h ago
-
----
-
-**[🍟 Trump Is Pumping ETHEREUM](https://www.youtube.com/watch?v=kcvqSQxsC5o)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 705 • 👍 93 • 💬 4 • ⏱️ 10:59 • 6h ago
+👁️ 6K • 👍 532 • 💬 565 • ⏱️ 24:07 • 20h ago
 
 ---
 
@@ -268,17 +258,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 83 • 💬 136 • ⏱️ 10:43 • 19h ago
-
----
-
-**[How to Claim 0.3 ETH For Free — Get Free Ethereum](https://www.youtube.com/watch?v=_FAkOWOLv_8)**
-
-What's up, it's Weston — 0.3 ETH just dropped and I got mine. Full walkthrough inside. Everything you need to claim is in this ...
-
-📺 Weston Ashford
-
-👁️ 5K • 💬 202 • ⏱️ 4:36 • 5h ago
+👁️ 2K • 👍 85 • 💬 136 • ⏱️ 10:43 • 20h ago
 
 ---
 
@@ -288,7 +268,17 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 194 • 💬 6 • ⏱️ 9:31 • 16h ago
+👁️ 3K • 👍 196 • 💬 6 • ⏱️ 9:31 • 17h ago
+
+---
+
+**[🍟 Trump Is Pumping ETHEREUM](https://www.youtube.com/watch?v=kcvqSQxsC5o)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 1K • 👍 115 • 💬 4 • ⏱️ 10:59 • 7h ago
 
 ---
 
@@ -298,27 +288,17 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 88 • 👍 18 • 💬 7 • ⏱️ 16:06 • 2h ago
+👁️ 446 • 👍 60 • 💬 4 • ⏱️ 16:06 • 4h ago
 
 ---
 
-**[BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pc6zL23Vt_s)**
+**[How to Claim 0.3 ETH For Free — Get Free Ethereum](https://www.youtube.com/watch?v=_FAkOWOLv_8)**
 
-BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+What's up, it's Weston — 0.3 ETH just dropped and I got mine. Full walkthrough inside. Everything you need to claim is in this ...
 
-📺 Crypto World
+📺 Weston Ashford
 
-👁️ 5K • 👍 300 • 💬 223 • ⏱️ 21:18 • 13h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=OQzcrKPAgtY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 516 • 👍 70 • ⏱️ 8:17 • 6h ago
+👁️ 5K • 💬 202 • ⏱️ 4:36 • 7h ago
 
 ---
 
@@ -328,7 +308,27 @@ I think Internet Computer Protocol is on the way to being the number one cryptoc
 
 📺 Jerry Banfield ICP
 
-👁️ 2K • 👍 192 • 💬 59 • ⏱️ 18:43 • 17h ago
+👁️ 2K • 👍 199 • 💬 61 • ⏱️ 18:43 • 18h ago
+
+---
+
+**[How to Reduce Ethereum Gas Fee in 2026 (Save ETH on Every Transaction)](https://www.youtube.com/watch?v=Hxbbp22Tkuc)**
+
+Learn how to reduce Ethereum gas fee in 2026 and save ETH on every transaction. In this guide, we explain Ethereum Gas, ETH ...
+
+📺 Gage Foster
+
+👁️ 7K • 👍 61 • ⏱️ 3:36 • 9h ago
+
+---
+
+**[BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pc6zL23Vt_s)**
+
+BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 310 • 💬 266 • ⏱️ 21:18 • 14h ago
 
 ---
 

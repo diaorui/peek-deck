@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T09:28:41.547766+00:00'
+updated: '2026-07-12T10:56:25.056176+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 09:28 UTC  
+**Last Updated:** July 12, 2026 at 10:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use robstride actuators, series 00 and edulite 05
 
-16h ago
+17h ago
 
 ---
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 2h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 Engineers have spent billions teaching robots to do backflips and solve complex math, yet a wet, mossy hill can stop a state-of-the-art robot completely. This video breaks down how researchers solved that problem not with better software, but by copying the design of a mountain goat's hoof, using a rigid outer shell to mimic keratin and a soft flexible core to mimic the natural grip pad, creating a robotic foot that uses zero cameras, sensors, or microprocessors. The result is a purely mechanical solution called passive mechanics, proving that sometimes evolution has already engineered the answer millions of years before we did. Published research on biomimetic robotic foot design for rough terrain locomotion
 
-🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 14h ago
+🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 16h ago
 
 ---
 
@@ -108,14 +108,6 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 ## Google News: "robotics"
 
-**[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
-
-From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
-
-Cowboy State Daily • 14h ago
-
----
-
 **[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
 
 Preclinical trial is testing the feasibility of humanoid robots in surgery.
@@ -134,7 +126,15 @@ New Atlas • 1d ago
 
 **[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
 
-Tech Xplore • 17h ago
+Tech Xplore • 18h ago
+
+---
+
+**[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
+
+From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
+
+Cowboy State Daily • 16h ago
 
 ---
 
@@ -142,7 +142,7 @@ Tech Xplore • 17h ago
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 8h ago
+NVIDIA Developer • 9h ago
 
 ---
 
@@ -150,7 +150,7 @@ NVIDIA Developer • 8h ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 1h ago
+hyundai.com • 5h ago
 
 ---
 
@@ -174,7 +174,7 @@ MIT News • 2d ago
 
 Vicky Pan, a mom of two, was diagnosed with aggressive, fast-growing triple-negative breast cancer that had already spread to her lymph nodes
 
-Yahoo • 22h ago
+Yahoo • 23h ago
 
 ---
 
@@ -192,17 +192,7 @@ Reuters • 1d ago
 
 📺 Varun Mayya
 
-👁️ 67K • 👍 3K • 💬 44 • ⏱️ 1:03 • 17h ago
-
----
-
-**[Robot’s first day at call center ends in full kung fu meltdown office chaos on CCTV](https://www.youtube.com/watch?v=saSGzM_tVx8)**
-
-Jul 5, 2026 Security camera footage from an office in China captures a startling malfunction involving a Unitree humanoid robot ...
-
-📺 FOU News
-
-👁️ 1.3M • 👍 20K • 💬 3K • ⏱️ 0:22 • 6d ago
+👁️ 87K • 👍 4K • 💬 49 • ⏱️ 1:03 • 18h ago
 
 ---
 
@@ -212,67 +202,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 32K • 👍 1K • 💬 87 • ⏱️ 2:38 • 1d ago
-
----
-
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
-
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
-
-📺 Munro Live
-
-👁️ 61K • 👍 2K • 💬 217 • ⏱️ 38:47 • 3d ago
-
----
-
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
-
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
-
-📺 Carl Bugeja
-
-👁️ 107K • 👍 5K • 💬 169 • ⏱️ 11:20 • 6d ago
-
----
-
-**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
-
-Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
-
-📺 Fox Business Clips
-
-👁️ 15K • 👍 214 • 💬 104 • ⏱️ 8:37 • 2d ago
-
----
-
-**[Kids Spent a Day with New Robot Friend](https://www.youtube.com/watch?v=R13RoeN7nd4)**
-
-In this family adventure story kids learn to respect each other and that nothing is better than to have a real friend! 00:00 Kids Spent ...
-
-📺 Chris kids show
-
-👁️ 223K • 👍 786 • ⏱️ 20:47 • 23h ago
-
----
-
-**[Humanoid robots take to the pitch in South Korea at RoboCup 2026 finals](https://www.youtube.com/watch?v=cnf0iODmv7o)**
-
-Can't get enough of the World Cup? Or perhaps you're looking for a way to get into sports. Well, look no further. Sunday marked ...
-
-📺 Global News
-
-👁️ 19K • 👍 76 • 💬 10 • ⏱️ 3:00 • 6d ago
-
----
-
-**[i started a robotics company in 2026](https://www.youtube.com/watch?v=4wzn7ERaleU)**
-
-In this video I cover some of the behind the scenes of starting a robotics company in 2026. Our goal was to make a professional ...
-
-📺 Austen Hartley
-
-👁️ 42K • 👍 2K • 💬 111 • ⏱️ 18:50 • 5d ago
+👁️ 33K • 👍 1K • 💬 92 • ⏱️ 2:38 • 1d ago
 
 ---
 
@@ -282,7 +212,75 @@ Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that c
 
 📺 MIT Mechanical Engineering
 
-👁️ 78K • 👍 3K • 💬 160 • ⏱️ 4:04 • 2d ago
+👁️ 94K • 👍 4K • 💬 186 • ⏱️ 4:04 • 2d ago
+
+---
+
+**[Kids Spent a Day with New Robot Friend](https://www.youtube.com/watch?v=R13RoeN7nd4)**
+
+In this family adventure story kids learn to respect each other and that nothing is better than to have a real friend! 00:00 Kids Spent ...
+
+📺 Chris kids show
+
+👁️ 258K • 👍 894 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[Pacman, Ms Pacman &amp; Friend VS Dengerous Robots - Amazing Solutions Against Monsters (see end) 😉](https://www.youtube.com/watch?v=kmWfZM9YMug)**
+
+THANK YOU SO MUCH for watching S3dV's Pacman!!! Support the channel by joining ...
+
+📺 S3dV
+
+👁️ 12K • 👍 20 • ⏱️ 3:35 • 1d ago
+
+---
+
+**[Scientists Put Robot Animals In The Wild... The Results Were Shocking😳](https://www.youtube.com/watch?v=HvdFnrzHN3U)**
+
+Scientists placed realistic robot animals into the wild to study animal behavior, teamwork, and empathy. What happened next ...
+
+📺 Peak Swag
+
+👁️ 150K • 👍 4K • 💬 27 • ⏱️ 0:50 • 13h ago
+
+---
+
+**[Is Beni the Camera Robot A.I?](https://www.youtube.com/watch?v=YAXBQbIGxjY)**
+
+Everyone seems to think Beni the Camera Robot is A.I… so I had to check for myself Buy here: ...
+
+📺 Ricky Glaser
+
+👁️ 70K • 👍 3K • 💬 140 • ⏱️ 0:53 • 2d ago
+
+---
+
+**[industrial robot #automation #machine #industrialrobots #robot#industry](https://www.youtube.com/watch?v=--1JZR9tp44)**
+
+📺 Robot Julie 
+
+👁️ 35K • 👍 105 • 💬 1 • ⏱️ 0:08 • 2d ago
+
+---
+
+**[Wall Street Is Buying Robot Stocks](https://www.youtube.com/watch?v=LkSNuAAcNuU)**
+
+AI created trillions in wealth, but the next massive investing opportunity may already be here. Humanoid robotics is moving from ...
+
+📺 Ross Givens
+
+👁️ 15K • 👍 491 • 💬 13 • ⏱️ 2:11 • 1d ago
+
+---
+
+**[Fixing a $210 auction robot, Part 2: Hooking it all up #fanuc #engineering #robotics](https://www.youtube.com/watch?v=c1y7PJXAcos)**
+
+Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
+
+📺 Excessive Overkill
+
+👁️ 19K • 👍 898 • 💬 13 • ⏱️ 2:58 • 2d ago
 
 ---
 
