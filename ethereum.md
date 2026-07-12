@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T04:54:40.883250+00:00'
+updated: '2026-07-12T07:29:16.999713+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 04:54 UTC  
+**Last Updated:** July 12, 2026 at 07:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +0.6%  
-**30d:** +7.6%  
-**90d:** -22.1%  
-**1y:** -39.2%  
+**24h:** -0.3%  
+**7d:** -0.1%  
+**30d:** +6.9%  
+**90d:** -22.6%  
+**1y:** -39.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.86B
+**Market Cap:** $216.83B
 Rank #2
 
 **Circulating Supply:** 120,683,028 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.5%
+-63.7%
 
 **All-Time Low:** $0.43
-+416712.4%
++414864.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ I feel like that was the endgame of defi. You put $2000 in a perpetual futures v
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, De
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -134,7 +134,7 @@ Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -150,11 +150,11 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
-**[AI found an Ethereum bug that could take validators offline, but humans had to prove it](https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it)**
+**[ETH news: Ethereum Foundation says AI found bug that could take validators offline](https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it)**
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 16h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -186,7 +186,7 @@ ethereum.org • 2d ago
 
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
-Decrypt • 12h ago
+Decrypt • 15h ago
 
 ---
 
@@ -194,7 +194,21 @@ Decrypt • 12h ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 10h ago
+markets.businessinsider.com • 13h ago
+
+---
+
+**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
+
+thestreet.com • 13h ago
+
+---
+
+**[Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?](https://www.tradingview.com/news/cointelegraph:955ec8386094b:0-ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1-800/)**
+
+Ether (ETH) price gained 3% between Thursday and Friday, outperforming the broader crypto market. The move ties to growing tokenization, Robinhood Chain’s success, and ongoing corporate treasury purchases. However, ETH failed to break above $1,800 amid weak onchain and derivatives metrics. Is Ether…
+
+TradingView • 18h ago
 
 ---
 
@@ -206,25 +220,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
+**[Ethereum traders, watch THESE metrics as ETH hits rare accumulation zone](https://ambcrypto.com/ethereum-traders-watch-these-metrics-as-eth-hits-rare-accumulation-zone/)**
 
-thestreet.com • 10h ago
+Can $1,800 become Ethereum's next launchpad?
 
----
-
-**[Ethereum Foundation says AI found real protocol bugs, but humans still run the show](https://cryptobriefing.com/ethereum-foundation-ai-protocol-bugs-cve/)**
-
-Ethereum Foundation's AI audit found a real validator-crashing bug in libp2p gossipsub, patched as CVE-2026-34219, but human triage remains essential.
-
-Crypto Briefing • 6h ago
-
----
-
-**[Ethereum Nears Pivotal Price as Wall Street Buying Spree Resumes](https://www.benzinga.com/crypto/26/07/60404460/ethereum-nears-pivotal-price-as-wall-street-buying-spree-resumes)**
-
-Ethereum price is nearing a crucial resistance level as Wall Street restarts the buying spree, with ETF inflows continuing this week.
-
-Benzinga • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 87 • 💬 22 • ⏱️ 18:37 • 11h ago
+👁️ 3K • 👍 93 • 💬 24 • ⏱️ 18:37 • 14h ago
 
 ---
 
@@ -248,7 +248,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 495 • 💬 560 • ⏱️ 24:07 • 14h ago
+👁️ 6K • 👍 519 • 💬 530 • ⏱️ 24:07 • 17h ago
 
 ---
 
@@ -258,7 +258,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 376 • 👍 54 • 💬 4 • ⏱️ 10:59 • 1h ago
+👁️ 705 • 👍 93 • 💬 4 • ⏱️ 10:59 • 4h ago
 
 ---
 
@@ -268,7 +268,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 79 • 💬 136 • ⏱️ 10:43 • 14h ago
+👁️ 2K • 👍 83 • 💬 136 • ⏱️ 10:43 • 17h ago
 
 ---
 
@@ -278,27 +278,7 @@ What's up, it's Weston — 0.3 ETH just dropped and I got mine. Full walkthrough
 
 📺 Weston Ashford
 
-👁️ 4K • 💬 80 • ⏱️ 4:36 • 1h ago
-
----
-
-**[ICP Will Be the TOP Crypto Dominating Bitcoin and Ethereum](https://www.youtube.com/watch?v=H33GZLhlQ_c)**
-
-I think Internet Computer Protocol is on the way to being the number one cryptocurrency with Bitcoin falling to number 2 and ...
-
-📺 Jerry Banfield ICP
-
-👁️ 1K • 👍 183 • 💬 58 • ⏱️ 18:43 • 12h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=OQzcrKPAgtY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 245 • 👍 38 • ⏱️ 8:17 • 1h ago
+👁️ 5K • 💬 202 • ⏱️ 4:36 • 3h ago
 
 ---
 
@@ -308,7 +288,17 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 192 • 💬 6 • ⏱️ 9:31 • 11h ago
+👁️ 2K • 👍 194 • 💬 6 • ⏱️ 9:31 • 14h ago
+
+---
+
+**[Why Ethereum insiders Are Quietly Cloning Cardano Tech](https://www.youtube.com/watch?v=A_K-lpibNyo)**
+
+Is the Ethereum inner circle quietly copying Cardano? In this video, we break down why Ethereum insiders are allegedly cloning ...
+
+📺 Cheeky Crypto Unfiltered
+
+👁️ 88 • 👍 18 • 💬 7 • ⏱️ 16:06 • 50m ago
 
 ---
 
@@ -318,17 +308,27 @@ BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 5K • 👍 281 • 💬 244 • ⏱️ 21:18 • 8h ago
+👁️ 5K • 👍 300 • 💬 223 • ⏱️ 21:18 • 11h ago
 
 ---
 
-**[PUMPING: BITCOIN &amp; ETHEREUM SIGNAL !!!!](https://www.youtube.com/watch?v=9rCN2Hk1Nqo)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=OQzcrKPAgtY)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 The Moon Show
+📺 Crypto Gyan
 
-👁️ 9K • 👍 350 • 💬 73 • ⏱️ 6:02 • 20h ago
+👁️ 516 • 👍 70 • ⏱️ 8:17 • 4h ago
+
+---
+
+**[ICP Will Be the TOP Crypto Dominating Bitcoin and Ethereum](https://www.youtube.com/watch?v=H33GZLhlQ_c)**
+
+I think Internet Computer Protocol is on the way to being the number one cryptocurrency with Bitcoin falling to number 2 and ...
+
+📺 Jerry Banfield ICP
+
+👁️ 2K • 👍 192 • 💬 59 • ⏱️ 18:43 • 15h ago
 
 ---
 
