@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T14:03:45.055720+00:00'
+updated: '2026-07-12T15:33:30.798703+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 14:03 UTC  
+**Last Updated:** July 12, 2026 at 15:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +0.4%  
-**30d:** +7.5%  
-**90d:** -22.2%  
-**1y:** -39.2%  
+**24h:** -0.0%  
+**7d:** +1.4%  
+**30d:** +8.5%  
+**90d:** -21.5%  
+**1y:** -38.7%  
 
 ---
 
@@ -166,19 +166,19 @@ The Block • 1d ago
 
 ---
 
+**[What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks](https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks)**
+
+Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
+
+Decrypt • 23h ago
+
+---
+
 **[Tom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-flags-interesting-ethereum-182915798.html)**
 
 Tom Lee shared a technical analysis by former Bank of America technical strategist Stephen Suttmeier suggesting Ethereum may be forming a short-term bottom after months of weakness.
 
 Yahoo Finance • 2d ago
-
----
-
-**[What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks](https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks)**
-
-Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
-
-Decrypt • 21h ago
 
 ---
 
@@ -194,13 +194,7 @@ ethereum.org • 2d ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 19h ago
-
----
-
-**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
-
-thestreet.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -209,6 +203,12 @@ thestreet.com • 20h ago
 Ether (ETH) price gained 3% between Thursday and Friday, outperforming the broader crypto market. The move ties to growing tokenization, Robinhood Chain’s success, and ongoing corporate treasury purchases. However, ETH failed to break above $1,800 amid weak onchain and derivatives metrics. Is Ether…
 
 TradingView • 1d ago
+
+---
+
+**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
+
+thestreet.com • 21h ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 1d ago
 
 Ethereum Foundation's AI audit found a real validator-crashing bug in libp2p gossipsub, patched as CVE-2026-34219, but human triage remains essential.
 
-Crypto Briefing • 15h ago
+Crypto Briefing • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 96 • 💬 27 • ⏱️ 18:37 • 20h ago
+👁️ 3K • 👍 96 • 💬 27 • ⏱️ 18:37 • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 551 • 💬 532 • ⏱️ 24:07 • 23h ago
+👁️ 7K • 👍 551 • 💬 532 • ⏱️ 24:07 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 200 • 💬 17 • ⏱️ 9:31 • 20h ago
+👁️ 3K • 👍 200 • 💬 17 • ⏱️ 9:31 • 22h ago
 
 ---
 
@@ -278,7 +278,7 @@ Joseph Chalom makes the case that Ethereum has the license to win and is finally
 
 📺 The Rollup
 
-👁️ 835 • 👍 68 • 💬 6 • ⏱️ 29:05 • 3h ago
+👁️ 835 • 👍 68 • 💬 6 • ⏱️ 29:05 • 4h ago
 
 ---
 
@@ -288,7 +288,7 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 838 • 👍 84 • 💬 43 • ⏱️ 16:06 • 7h ago
+👁️ 838 • 👍 84 • 💬 43 • ⏱️ 16:06 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ I think Internet Computer Protocol is on the way to being the number one cryptoc
 
 📺 Jerry Banfield ICP
 
-👁️ 2K • 👍 204 • 💬 64 • ⏱️ 18:43 • 22h ago
+👁️ 2K • 👍 204 • 💬 64 • ⏱️ 18:43 • 23h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 105 • ⏱️ 8:17 • 10h ago
+👁️ 1K • 👍 105 • ⏱️ 8:17 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis vi
 
 📺 Forex Forecast | Elliott Wave Analysis ReadyForex
 
-👁️ 26 • ⏱️ 4:41 • 19h ago
+👁️ 26 • ⏱️ 4:41 • 21h ago
 
 ---
 
@@ -328,7 +328,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 137 • 💬 6 • ⏱️ 10:59 • 11h ago
+👁️ 1K • 👍 137 • 💬 6 • ⏱️ 10:59 • 12h ago
 
 ---
 

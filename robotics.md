@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T14:03:45.058936+00:00'
+updated: '2026-07-12T15:33:30.801842+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 14:03 UTC  
+**Last Updated:** July 12, 2026 at 15:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use robstride actuators, series 00 and edulite 05
 
-20h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 6h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 8h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 Engineers have spent billions teaching robots to do backflips and solve complex math, yet a wet, mossy hill can stop a state-of-the-art robot completely. This video breaks down how researchers solved that problem not with better software, but by copying the design of a mountain goat's hoof, using a rigid outer shell to mimic keratin and a soft flexible core to mimic the natural grip pad, creating a robotic foot that uses zero cameras, sensors, or microprocessors. The result is a purely mechanical solution called passive mechanics, proving that sometimes evolution has already engineered the answer millions of years before we did. Published research on biomimetic robotic foot design for rough terrain locomotion
 
-🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 19h ago
+🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 20h ago
 
 ---
 
@@ -112,7 +112,7 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
 
-Cowboy State Daily • 19h ago
+Cowboy State Daily • 20h ago
 
 ---
 
@@ -126,7 +126,7 @@ Ars Technica • 2d ago
 
 **[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
 
-Tech Xplore • 22h ago
+Tech Xplore • 23h ago
 
 ---
 
@@ -134,7 +134,7 @@ Tech Xplore • 22h ago
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 1d ago
+New Atlas • 2d ago
 
 ---
 
@@ -142,7 +142,7 @@ New Atlas • 1d ago
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 12h ago
+NVIDIA Developer • 14h ago
 
 ---
 
@@ -150,7 +150,7 @@ NVIDIA Developer • 12h ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 5h ago
+hyundai.com • 7h ago
 
 ---
 
@@ -222,7 +222,7 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Varun Mayya
 
-👁️ 98K • 👍 4K • 💬 60 • ⏱️ 1:03 • 22h ago
+👁️ 98K • 👍 4K • 💬 60 • ⏱️ 1:03 • 23h ago
 
 ---
 
@@ -272,7 +272,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 34K • 👍 1K • 💬 94 • ⏱️ 2:38 • 1d ago
+👁️ 34K • 👍 1K • 💬 94 • ⏱️ 2:38 • 2d ago
 
 ---
 
