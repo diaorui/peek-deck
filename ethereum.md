@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T19:38:31.493407+00:00'
+updated: '2026-07-12T20:49:50.102762+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 19:38 UTC  
+**Last Updated:** July 12, 2026 at 20:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,795.04
+### $1,819.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +1.2%  
-**30d:** +8.3%  
-**90d:** -21.6%  
-**1y:** -38.8%  
+**24h:** -0.1%  
+**7d:** +1.3%  
+**30d:** +8.4%  
+**90d:** -21.5%  
+**1y:** -38.7%  
 
 ---
 
@@ -174,14 +174,6 @@ The Block • 2d ago
 
 ---
 
-**[What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks](https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks)**
-
-Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
-
-Decrypt • 1d ago
-
----
-
 **[Tom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-flags-interesting-ethereum-182915798.html)**
 
 Tom Lee shared a technical analysis by former Bank of America technical strategist Stephen Suttmeier suggesting Ethereum may be forming a short-term bottom after months of weakness.
@@ -190,19 +182,27 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?](https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/)**
+
+One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
+
+The Motley Fool • 49m ago
+
+---
+
+**[What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks](https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks)**
+
+Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
+
+Decrypt • 1d ago
+
+---
+
 **[Ethereum Based New Crypto Pepeto Reports Exchange Launch Progress as Funding Climbs Past $10.4M](https://markets.businessinsider.com/news/stocks/ethereum-based-new-crypto-pepeto-reports-exchange-launch-progress-as-funding-climbs-past-10-4m-1036316421)**
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
 markets.businessinsider.com • 1d ago
-
----
-
-**[Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?](https://www.tradingview.com/news/cointelegraph:955ec8386094b:0-ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1-800/)**
-
-Ether (ETH) price gained 3% between Thursday and Friday, outperforming the broader crypto market. The move ties to growing tokenization, Robinhood Chain’s success, and ongoing corporate treasury purchases. However, ETH failed to break above $1,800 amid weak onchain and derivatives metrics. Is Ether…
-
-TradingView • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 1d ago
 
 Can $1,800 become Ethereum's next launchpad?
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN & CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 1K • 👍 146 • 💬 53 • ⏱️ 20:15 • 2h ago
+👁️ 1K • 👍 146 • 💬 53 • ⏱️ 20:15 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━�
 
 📺 Kamilah Stevenson
 
-👁️ 220 • 👍 37 • 💬 2 • ⏱️ 0:39 • 23m ago
+👁️ 220 • 👍 37 • 💬 2 • ⏱️ 0:39 • 1h ago
 
 ---
 
@@ -278,7 +278,7 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 1K • 👍 126 • 💬 30 • ⏱️ 16:06 • 12h ago
+👁️ 1K • 👍 126 • 💬 30 • ⏱️ 16:06 • 14h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 117 • ⏱️ 8:17 • 16h ago
+👁️ 2K • 👍 117 • ⏱️ 8:17 • 17h ago
 
 ---
 
@@ -318,7 +318,7 @@ Joseph Chalom makes the case that Ethereum has the license to win and is finally
 
 📺 The Rollup
 
-👁️ 4K • 👍 239 • 💬 14 • ⏱️ 29:05 • 8h ago
+👁️ 4K • 👍 239 • 💬 14 • ⏱️ 29:05 • 9h ago
 
 ---
 

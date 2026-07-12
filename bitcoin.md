@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-12T19:38:31.489189+00:00'
+updated: '2026-07-12T20:49:50.096630+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 19:38 UTC  
+**Last Updated:** July 12, 2026 at 20:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,190.63
+### $64,186.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
+**24h:** -0.2%  
 **7d:** +0.3%  
 **30d:** -0.4%  
 **90d:** -13.4%  
@@ -101,7 +101,7 @@ Bitcoin is the best performing asset in human history, and we can just scale in 
 
 **[Bitcoin logo displayed on the Las Vegas Sphere 👀](https://www.reddit.com/r/Bitcoin/comments/1usz2g5/bitcoin_logo_displayed_on_the_las_vegas_sphere/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -109,7 +109,7 @@ Bitcoin is the best performing asset in human history, and we can just scale in 
 
 In 2012, when I first bought Bitcoin, it was $13 a coin. I watched it go from $13 to over $100,000. Now I’ll watch it go $100,000 to $1 million a coin. You believe yet?
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ Freeport is a P2P marketplace (rides, services, goods) running entirely on Nostr
 
 As an ex troller this sub is full of troll, price is just as usual, every cycle. But the people are like to troll. Real life.
 
-21h ago
+22h ago
 
 ---
 
@@ -159,7 +159,7 @@ As an ex troller this sub is full of troll, price is just as usual, every cycle.
 
 The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -167,23 +167,15 @@ CoinDesk • 8h ago
 
 Rising inflation, Bitcoin’s four-year cycle, and excess leverage continue to draw the cryptocurrency’s price down.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
-**[Oil Is Below $76. So Why Is Bitcoin Still Below $65,000?](https://finance.yahoo.com/markets/crypto/articles/oil-below-76-why-bitcoin-202700018.html)**
+**[Legendary Hedge Fund Manager Says SpaceX Is ‘The Equivalent Of Dogecoin’ And Bitcoin Is The One That's Actually Cheap](https://finance.yahoo.com/markets/crypto/articles/legendary-hedge-fund-manager-says-122208227.html)**
 
-Investors are trying to figure out how macroeconomic forces affect the world's top cryptocurrency.
+Tim Peterson’s Metcalfe’s law model that puts a value of Bitcoin between $105,000 and $108,000 is well above current trading levels, said Mark Yusko.
 
-Yahoo Finance • 23h ago
-
----
-
-**[The 1 Bitcoin Chart They Don’t Want You To See](https://www.forbes.com/sites/digital-assets/2026/07/12/the-1-bitcoin-chart-they-dont-want-you-to-see/)**
-
-I’ve been calling bitcoin down for ages. And it’s been falling. I called it up in 2017, 2021, and 2025. I’m a bull on the way up and a bear on the way back down again.
-
-Forbes • 4h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -193,11 +185,25 @@ Bloomberg.com • 3d ago
 
 ---
 
+**[Bitcoin Classic basketball tournament promotes financial literacy in Springfield](https://www.wwlp.com/news/local-news/hampden-county/bitcoin-classic-basketball-tournament-promotes-financial-literacy-in-springfield/)**
+
+WWLP • 34m ago
+
+---
+
 **[Here's What to Expect in the Next Crypto Bull Market](https://www.fool.com/investing/2026/07/12/heres-what-to-expect-in-the-next-crypto-bull-marke/)**
 
 There's a lot to be excited about once a new bull market starts in crypto.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
+
+---
+
+**[The 1 Bitcoin Chart They Don’t Want You To See](https://www.forbes.com/sites/digital-assets/2026/07/12/the-1-bitcoin-chart-they-dont-want-you-to-see/)**
+
+I’ve been calling bitcoin down for ages. And it’s been falling. I called it up in 2017, 2021, and 2025. I’m a bull on the way up and a bear on the way back down again.
+
+Forbes • 5h ago
 
 ---
 
@@ -209,27 +215,17 @@ TradingView • 1d ago
 
 ---
 
-**[BTC, ETH, XRP price news: Bitcoin, ether little changed as U.S. launches fresh Iran strikes](https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes)**
+**[If you invested $10,000 in gold, Bitcoin, silver and oil when Khamenei was killed, here's how much you'd have today](https://www.thestreet.com/crypto/markets/if-you-had-invested-10000-in-gold-bitcoin-silver-and-oil-when-khamenei-was-killed-heres-how-much-youd-have-today)**
 
-The U.S. hit Iran for the third time this week and Tehran has reportedly closed the Strait of Hormuz again.
-
-CoinDesk • 13h ago
+thestreet.com • 6h ago
 
 ---
 
-**[Bitcoin’s Slump Forces a Crypto Booster’s Retreat](https://thedispatch.com/newsletter/morning/bitcoins-slump-forces-a-crypto-boosters-retreat/)**
+**[Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow](https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow)**
 
-Plus: Iran fires missiles at U.S. bases after fresh strikes near Bushehr, Congo’s Ebola death toll passes 600 as health workers strike, and big garlic.
+The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week’s rebound recovered only about 3% of those outflows.
 
-The Dispatch • 2d ago
-
----
-
-**[Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus](https://finance.yahoo.com/markets/crypto/articles/bitcoin-stays-above-64-000-100136007.html)**
-
-(Updates with the latest Bitcoin and altcoin prices)
-
-Yahoo Finance • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -257,7 +253,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 3d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
+⬆️ 2 • 💬 1 • 4d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
 
 ---
 
@@ -295,7 +291,7 @@ It’s supposed to be a decentralized service, after all...
 
 Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
-⬆️ 52 • 💬 29 • 5d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
+⬆️ 54 • 💬 29 • 6d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
 
 ---
 
@@ -339,7 +335,7 @@ The biggest Bitcoin bear argument right now is that Strategy could trigger a cat
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 103 • ⏱️ 24:58 • 19h ago
+👁️ 19K • 👍 2K • 💬 103 • ⏱️ 24:58 • 20h ago
 
 ---
 
@@ -349,7 +345,7 @@ Buying one Bitcoin at the exact bottom of all four cycles, perfect hindsight tim
 
 📺 Lark Davis
 
-👁️ 7K • 👍 437 • 💬 34 • ⏱️ 10:00 • 7h ago
+👁️ 7K • 👍 437 • 💬 34 • ⏱️ 10:00 • 8h ago
 
 ---
 

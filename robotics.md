@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T19:38:31.495627+00:00'
+updated: '2026-07-12T20:49:50.105911+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 19:38 UTC  
+**Last Updated:** July 12, 2026 at 20:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 12h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 13h ago
 
 ---
 
@@ -108,6 +108,14 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 ## Google News: "robotics"
 
+**[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
+
+Preclinical trial is testing the feasibility of humanoid robots in surgery.
+
+Ars Technica • 3d ago
+
+---
+
 **[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
@@ -116,27 +124,11 @@ Cowboy State Daily • 1d ago
 
 ---
 
-**[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
-
-Preclinical trial is testing the feasibility of humanoid robots in surgery.
-
-Ars Technica • 2d ago
-
----
-
-**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
-
-St. Pius High School held their first ever robotics competition Saturday in Albuquerque
-
-KOB.com • 14h ago
-
----
-
 **[Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction](https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/)**
 
 Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
 
-CNET • 7h ago
+CNET • 8h ago
 
 ---
 
@@ -144,7 +136,7 @@ CNET • 7h ago
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 18h ago
+NVIDIA Developer • 19h ago
 
 ---
 
@@ -162,19 +154,27 @@ Tech Xplore • 1d ago
 
 ---
 
-**[What’s ‘Next’ for Hyundai: Driving Innovation through Robotics](https://www.hyundai.com/worldwide/en/brand-journal/worldcup2026/hyundai-next-robotics)**
-
-Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
-
-hyundai.com • 8h ago
-
----
-
 **[The race to develop robotic hands, memories of legendary gigs and the sea as medicine for the brain](https://www.theguardian.com/news/2026/jul/11/the-race-to-develop-robotic-hands-memories-of-legendary-gigs-and-the-sea-as-medicine-for-the-brain)**
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
 The Guardian • 1d ago
+
+---
+
+**[What’s ‘Next’ for Hyundai: Driving Innovation through Robotics](https://www.hyundai.com/worldwide/en/brand-journal/worldcup2026/hyundai-next-robotics)**
+
+Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
+
+hyundai.com • 9h ago
+
+---
+
+**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
+
+St. Pius High School held their first ever robotics competition Saturday in Albuquerque
+
+KOB.com • 15h ago
 
 ---
 
@@ -214,7 +214,7 @@ Surgeons in the US have just achieved a world-first, using humanoid robots in th
 
 📺 7NEWS Australia
 
-👁️ 7K • 👍 27 • 💬 9 • ⏱️ 1:36 • 10h ago
+👁️ 7K • 👍 27 • 💬 9 • ⏱️ 1:36 • 11h ago
 
 ---
 
@@ -234,7 +234,7 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 
 📺 Suhel Experiment
 
-👁️ 11K • 💬 16 • ⏱️ 1:30 • 5h ago
+👁️ 11K • 💬 16 • ⏱️ 1:30 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ Scientists placed realistic robot animals into the wild to study animal behavior
 
 📺 Peak Swag
 
-👁️ 584K • 👍 9K • 💬 51 • ⏱️ 0:50 • 22h ago
+👁️ 584K • 👍 9K • 💬 51 • ⏱️ 0:50 • 23h ago
 
 ---
 
