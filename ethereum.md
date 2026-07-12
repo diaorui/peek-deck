@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T15:33:30.798703+00:00'
+updated: '2026-07-12T16:58:51.349107+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 15:33 UTC  
+**Last Updated:** July 12, 2026 at 16:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +1.4%  
-**30d:** +8.5%  
+**24h:** -0.1%  
+**7d:** +1.3%  
+**30d:** +8.4%  
 **90d:** -21.5%  
 **1y:** -38.7%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.80B
+**Market Cap:** $219.56B
 Rank #2
 
 **Circulating Supply:** 120,683,028 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.5%
+-63.2%
 
 **All-Time Low:** $0.43
-+416714.7%
++420132.9%
 
 ---
 
@@ -126,7 +126,7 @@ Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
 **[Ethereum has just crossed another major milestone.](https://www.reddit.com/r/ethereum/comments/1uqwiwi/ethereum_has_just_crossed_another_major_milestone/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Abstract The smart-contract ecosystem already depends heavily on code reuse, but that reuse has not yet become shared on-chain infrastructure. Similar logic is repeatedly redeployed across projects, creating duplicated infrastructure that increases long-term maintenance, audit, and security burdens for the ecosystem. Compose introduces Smart Contract Oriented Programming, or SCOP, to bring reuse into the deployed architecture itself. Using diamonds and stateless facets, Compose enables modular on-chain systems that are easier to build and trust across their lifecycle.
 
-🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 3d ago
+🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 4d ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 1d ago
 
 Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 1d ago
 
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -182,19 +182,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[The triage is the product: running AI agents against Ethereum's protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product)**
-
-*Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
-
-ethereum.org • 2d ago
-
----
-
 **[Ethereum Based New Crypto Pepeto Reports Exchange Launch Progress as Funding Climbs Past $10.4M](https://markets.businessinsider.com/news/stocks/ethereum-based-new-crypto-pepeto-reports-exchange-launch-progress-as-funding-climbs-past-10-4m-1036316421)**
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 22h ago
+
+---
+
+**[The triage is the product: running AI agents against Ethereum's protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product)**
+
+*Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
+
+ethereum.org • 3d ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 1d ago
 
 **[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
-thestreet.com • 21h ago
+thestreet.com • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 1d ago
 
 Ethereum Foundation's AI audit found a real validator-crashing bug in libp2p gossipsub, patched as CVE-2026-34219, but human triage remains essential.
 
-Crypto Briefing • 16h ago
+Crypto Briefing • 18h ago
 
 ---
 
@@ -232,23 +232,23 @@ Crypto Briefing • 16h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: &quot;Ethereum to $40,000 At This Date&quot; [SUPER REALISTIC $40,000 Prediction for Ethereum]](https://www.youtube.com/watch?v=mSaGuGBSeVQ)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 96 • 💬 27 • ⏱️ 18:37 • 22h ago
-
----
-
 **[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
 
 The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 551 • 💬 532 • ⏱️ 24:07 • 1d ago
+👁️ 7K • 👍 574 • 💬 545 • ⏱️ 24:07 • 1d ago
+
+---
+
+**[Tom Lee: &quot;Ethereum to $40,000 At This Date&quot; [SUPER REALISTIC $40,000 Prediction for Ethereum]](https://www.youtube.com/watch?v=mSaGuGBSeVQ)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 106 • 💬 26 • ⏱️ 18:37 • 23h ago
 
 ---
 
@@ -258,17 +258,7 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 200 • 💬 17 • ⏱️ 9:31 • 22h ago
-
----
-
-**[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
-
-Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
-
-📺 Milk Road
-
-👁️ 2K • 👍 90 • 💬 137 • ⏱️ 10:43 • 1d ago
+👁️ 3K • 👍 204 • 💬 17 • ⏱️ 9:31 • 23h ago
 
 ---
 
@@ -278,7 +268,7 @@ Joseph Chalom makes the case that Ethereum has the license to win and is finally
 
 📺 The Rollup
 
-👁️ 835 • 👍 68 • 💬 6 • ⏱️ 29:05 • 4h ago
+👁️ 3K • 👍 183 • 💬 13 • ⏱️ 29:05 • 6h ago
 
 ---
 
@@ -288,7 +278,37 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 838 • 👍 84 • 💬 43 • ⏱️ 16:06 • 8h ago
+👁️ 1K • 👍 112 • 💬 22 • ⏱️ 16:06 • 10h ago
+
+---
+
+**[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
+
+Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 93 • 💬 137 • ⏱️ 10:43 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Boie8Sa2ECU)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 420 • 👍 49 • ⏱️ 7:45 • 2h ago
+
+---
+
+**[BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pc6zL23Vt_s)**
+
+BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 344 • 💬 263 • ⏱️ 21:18 • 20h ago
 
 ---
 
@@ -298,27 +318,7 @@ I think Internet Computer Protocol is on the way to being the number one cryptoc
 
 📺 Jerry Banfield ICP
 
-👁️ 2K • 👍 204 • 💬 64 • ⏱️ 18:43 • 23h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=OQzcrKPAgtY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 1K • 👍 105 • ⏱️ 8:17 • 12h ago
-
----
-
-**[Ethereum | Ethereum Prediction | July 11 2026 | Ethereum Price Prediction | Ethereum Analysis Today](https://www.youtube.com/watch?v=DQ7osmoQjks)**
-
-MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis videos immediately, not just the 2 that become ...
-
-📺 Forex Forecast | Elliott Wave Analysis ReadyForex
-
-👁️ 26 • ⏱️ 4:41 • 21h ago
+👁️ 2K • 👍 209 • 💬 67 • ⏱️ 18:43 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 137 • 💬 6 • ⏱️ 10:59 • 12h ago
+👁️ 1K • 👍 148 • 💬 6 • ⏱️ 10:59 • 13h ago
 
 ---
 

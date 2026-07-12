@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T15:33:30.801842+00:00'
+updated: '2026-07-12T16:58:51.351795+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 15:33 UTC  
+**Last Updated:** July 12, 2026 at 16:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use robstride actuators, series 00 and edulite 05
 
-22h ago
+23h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 8h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 9h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 Engineers have spent billions teaching robots to do backflips and solve complex math, yet a wet, mossy hill can stop a state-of-the-art robot completely. This video breaks down how researchers solved that problem not with better software, but by copying the design of a mountain goat's hoof, using a rigid outer shell to mimic keratin and a soft flexible core to mimic the natural grip pad, creating a robotic foot that uses zero cameras, sensors, or microprocessors. The result is a purely mechanical solution called passive mechanics, proving that sometimes evolution has already engineered the answer millions of years before we did. Published research on biomimetic robotic foot design for rough terrain locomotion
 
-🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 20h ago
+🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 22h ago
 
 ---
 
@@ -112,7 +112,7 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
 
-Cowboy State Daily • 20h ago
+Cowboy State Daily • 22h ago
 
 ---
 
@@ -124,25 +124,25 @@ Ars Technica • 2d ago
 
 ---
 
-**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
-
-Tech Xplore • 23h ago
-
----
-
-**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
-
-Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
-
-New Atlas • 2d ago
-
----
-
 **[How to Evaluate General-Purpose Robot Policies for Real-World Deployment](https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/)**
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 14h ago
+NVIDIA Developer • 15h ago
+
+---
+
+**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://finance.yahoo.com/technology/ai/articles/altera-returns-growth-ai-robotics-184232312.html)**
+
+Altera, a maker of programmable chips spun out of Intel, is growing roughly 20% a year and more than ‌doubling operating income as it prepares for an eventual public listing, Chief Executive Raghib ‌Hussain told Reuters in an interview.  Altera became fully independent last September after Intel agreed to sell a 51% stake ​to Silver Lake for $4.46 billion in a transaction valuing Altera at $8.75 billion.  Intel retains a 49% stake.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -150,7 +150,7 @@ NVIDIA Developer • 14h ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 7h ago
+hyundai.com • 5h ago
 
 ---
 
@@ -162,25 +162,27 @@ The Guardian • 1d ago
 
 ---
 
-**[Woman, 45, Underwent the First Robotic Single-Port Nipple-Sparing Mastectomy Performed in the U.S by a Robot Named Carol](https://www.yahoo.com/news/science/articles/woman-45-underwent-first-robotic-110000131.html)**
-
-Vicky Pan, a mom of two, was diagnosed with aggressive, fast-growing triple-negative breast cancer that had already spread to her lymph nodes
-
-Yahoo • 1d ago
-
----
-
 **[Tiny robot boats build floating structures](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)**
 
 FloatForm, developed at MIT, is a swarm of small aquatic robots that assemble into reconfigurable structures. It could lead to floating infrastructure that builds itself into things like a temporary platform, a market, or a stage.
 
-MIT News • 2d ago
+MIT News • 3d ago
 
 ---
 
-**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
+**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
 
-Reuters • 1d ago
+Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
+
+New Atlas • 2d ago
+
+---
+
+**[Why robotics teams need virtual gyms before deployment](https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/)**
+
+To address environmental and task variability, robots can benefit from 'virtual gyms' to bridge the sim-to-real gap, says SoftServe.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -188,13 +190,13 @@ Reuters • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
+**[Puffin-Inspired Robot that Swims and Flies](https://www.youtube.com/watch?v=9XJhrKpcBGI)**
 
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
+Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water ...
 
-📺 PRO ROBOTS
+📺 MIT Mechanical Engineering
 
-👁️ 25K • 👍 752 • 💬 55 • ⏱️ 29:49 • 3d ago
+👁️ 115K • 👍 4K • 💬 231 • ⏱️ 4:04 • 2d ago
 
 ---
 
@@ -208,61 +210,33 @@ Jul 5, 2026 Security camera footage from an office in China captures a startling
 
 ---
 
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
-📺 Kalil 4.0
+📺 PRO ROBOTS
 
-👁️ 14K • 👍 332 • 💬 54 • ⏱️ 10:42 • 5d ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 98K • 👍 4K • 💬 60 • ⏱️ 1:03 • 23h ago
+👁️ 25K • 👍 753 • 💬 57 • ⏱️ 29:49 • 3d ago
 
 ---
 
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+**[US surgeons use humanoid robots in operating theatre for first time | 7NEWS](https://www.youtube.com/watch?v=MBFUrLHoPDY)**
 
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+Surgeons in the US have just achieved a world-first, using humanoid robots in the operating theatre. The machines scrubbed in to ...
 
-📺 Carl Bugeja
+📺 7NEWS Australia
 
-👁️ 109K • 👍 5K • 💬 170 • ⏱️ 11:20 • 6d ago
-
----
-
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
-
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
-
-📺 China Observer
-
-👁️ 70K • 👍 2K • 💬 575 • ⏱️ 20:21 • 4d ago
+👁️ 6K • 👍 25 • 💬 9 • ⏱️ 1:36 • 7h ago
 
 ---
 
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
 
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
 
-📺 Munro Live
+📺 Suhel Experiment
 
-👁️ 63K • 👍 2K • 💬 217 • ⏱️ 38:47 • 4d ago
-
----
-
-**[Puffin-Inspired Robot that Swims and Flies](https://www.youtube.com/watch?v=9XJhrKpcBGI)**
-
-Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water ...
-
-📺 MIT Mechanical Engineering
-
-👁️ 105K • 👍 4K • 💬 209 • ⏱️ 4:04 • 2d ago
+👁️ 7K • 💬 14 • ⏱️ 1:30 • 2h ago
 
 ---
 
@@ -272,17 +246,45 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 34K • 👍 1K • 💬 94 • ⏱️ 2:38 • 2d ago
+👁️ 35K • 👍 1K • 💬 100 • ⏱️ 2:38 • 2d ago
 
 ---
 
-**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
 
-Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
 
-📺 Fox Business Clips
+📺 Kalil 4.0
 
-👁️ 15K • 👍 227 • 💬 114 • ⏱️ 8:37 • 2d ago
+👁️ 15K • 👍 354 • 💬 54 • ⏱️ 10:42 • 5d ago
+
+---
+
+**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+
+Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+
+📺 Carl Bugeja
+
+👁️ 110K • 👍 5K • 💬 170 • ⏱️ 11:20 • 6d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 108K • 👍 4K • 💬 66 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+
+📺 Munro Live
+
+👁️ 64K • 👍 2K • 💬 217 • ⏱️ 38:47 • 4d ago
 
 ---
 

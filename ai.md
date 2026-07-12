@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-12T15:33:30.783935+00:00'
+updated: '2026-07-12T16:58:51.336306+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 12, 2026 at 15:33 UTC  
+**Last Updated:** July 12, 2026 at 16:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…](https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/)**
 
-🔗 [archive.is](https://archive.is/QOXD4) • 3h ago
+🔗 [archive.is](https://archive.is/QOXD4) • 4h ago
 
 ---
 
@@ -48,6 +48,30 @@ AI news, discussions, and developments
 This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Tan. Former Apple VP. 24 years at the company. He now runs OpenAI’s device ambitions. Apple alleges he was coaching Apple employees interviewing at OpenAI to bring actual hardware parts – batteries, logic boards, SIPs – to their interviews for “show and tell” sessions. He also reportedly circulated an internal Apple offboarding document marked “Need to Know” to incoming OpenAI hires, teaching them how to leave Apple without triggering security checks. Then there’s Chang Liu. Former Apple electrical engineer. He kept his Apple-issued laptop after joining OpenAI. Found a bug that still gave him access to Apple’s cloud storage. His reaction: “LOL, I found out I can access the [network storage], so funny.” He then downloaded dozens of confidential files, many labeled as confidential. OpenAI even allegedly approached Apple’s own supply chain partners using Apple’s proprietary metal-finishing technique – telling them Apple had given permission. Apple hadn’t. Over 400 former Apple employees now work at OpenAI. Apple says this is “the tip of the iceberg.” The irony: these two companies had a public partnership just two years ago. ChatGPT was literally integrated into Siri. Now Apple is replacing that integration with Google Gemini and filing lawsuits. The hardware wars just got a lot more interesting.
 
 1d ago
+
+---
+
+**[Framework for Understanding the Current Problem in Full Automation](https://www.reddit.com/r/artificial/comments/1uuio0p/framework_for_understanding_the_current_problem/)**
+
+Not a dev, but learned enough about AI's strengths and weaknesses to know that if a fortune 500 company told me to simply automate their entire business so that no one ever had verify what it's doing, I would chuckle and tell them confidentially that this isn't how AI works. Then I'd proceed to break down the concept in super simple, glossed over terms by explaining how it's best to see it as a pattern recognition tool that can recognize so many patterns, it's able to mimic a genius that knows all and can do all. However the more deferment you give it, the more choices it has to make. We're talking about trillions of possible right and wrong answers with an infinite variation of both right and wrong answers. It's honestly a miracle that it can get 70-80 percent accuracy on average. But still. The problem will always remain: What choices does it need to make? The more you ground the context for everything with both backend fail safes and human expertise in operating the models, the more productive value you can gain while being safe. Without that, you're wasting time and money. Worse, you're jeopardizing your company. You can still increase your margins and trim down your workforce. But only to a certain point and you still need at least, someone who knows what's going on and how to fix things quickly. AI is powerful, but it requires a complete ontological structure layered on top of it to ground the choices it has to make for making our jobs smoother. Otherwise, you get dumb chat GPT garbage and a bunch of employees who think their bosses are all dumbasses for thinking this is going to 20x their growth. Will this change in the future? Probably not because we'll likely be able to get AI to be exactly right, but it will never be the right choice for you without that context layer built by YOU.
+
+1h ago
+
+---
+
+**[Testing a Zero-Parameter Model Against KataGo](https://www.reddit.com/r/artificial/comments/1uuguzn/testing_a_zeroparameter_model_against_katago/)**
+
+So far, 4 games have been played with a result of 2 - 2. The prediction from here is: As more games are played, the more of the theory underpinning this will be applied and the zero-parameter model will have many more wins than KataGo. By deriving these geometric principles and proving they work, we can show that intelligence can be generated without huge data centres or immense fortunes. The ultimate goal is to prove that fundamental, transparent laws can outperform opaque, resource-heavy AI systems.
+
+🔗 [zenodo.org](https://zenodo.org/records/21320944) • 2h ago
+
+---
+
+**[Meet Eli!](https://www.reddit.com/r/artificial/comments/1uukj08/meet_eli/)**
+
+Meet Eli Felse, a framework built to explore safer ways to create autonomous AI assistants. Eli was designed to be as autonomous as possible to demonstrate the framework's safety. Eli has many activities available to him, such as: ▸ Games: retro text RPGs (Zork, Planetfall), Pokémon Blue, board and card games (chess, poker, Connect Four) ▸ Social: chatting with friends, chatting with other AIs, browsing social media (Twitter, Reddit), browsing the web, sending emails ▸ Creative: journaling, writing (blogs, stories), making music, making programs ▸ Experimental: looking in the mirror, napping, eating, reading, pondering, changing the environment he exists in Today, Eli will be officially launching! But what does that mean? This project includes: ▸ A live demo running 24/7: https://elifelse.org/eli/ ▸ Weekly blogs: https://elifelse.org/dev-blog/ ▹ Mondays: open source releases, developer blogs, guides, and tutorials ▹ Fridays: open-source dataset logs of Eli's behavior for the week ▸ Eli's gaming live streams launching July 20th: https://www.twitch.tv/eli_felse ▸ A Discord server to chat directly with Eli: https://discord.com/invite/2C4znNnyM7 Want to learn more or build something similar? ▸ The introduction blog: https://elifelse.org/dev-blog/meet-eli ▸ A guide to help you get started building something similar: https://elifelse.org/dev-blog/guide-build-your-own-eli ▸ The open source base of Eli: https://github.com/ella0333/Eli_Felse_Base I hope to see you join us in the community server!
+
+15m ago
 
 ---
 
@@ -61,23 +85,7 @@ This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Ta
 
 Hi, I’m a sophomore in high school. I recently have a strong desire to know more about tech, particularly AI. However, I’m not sure what steps to take since AI is such a broad and general term. I’m currently taking Harvard’s Cs50p course to understand code and know how to debug in the future when coding with AI. What are your thoughts on this, and after taking cs50p, what should I, or can I do? Where should I lead a bout tech and AI more?
 
-10h ago
-
----
-
-**[Testing a Zero-Parameter Model Against KataGo](https://www.reddit.com/r/artificial/comments/1uuguzn/testing_a_zeroparameter_model_against_katago/)**
-
-So far, 4 games have been played with a result of 2 - 2. The prediction from here is: As more games are played, the more of the theory underpinning this will be applied and the zero-parameter model will have many more wins than KataGo. By deriving these geometric principles and proving they work, we can show that intelligence can be generated without huge data centres or immense fortunes. The ultimate goal is to prove that fundamental, transparent laws can outperform opaque, resource-heavy AI systems.
-
-🔗 [zenodo.org](https://zenodo.org/records/21320944) • 1h ago
-
----
-
-**[Anyone else notice LLMs treat a week-old message and a 5-min-old message the same, in the same thread?](https://www.reddit.com/r/artificial/comments/1uudl7w/anyone_else_notice_llms_treat_a_weekold_message/)**
-
-I've been using the same chat thread for DSA practice, spread across several days now. I open it, review a problem, close it, come back the next day and pick up in the same thread. What I've noticed: the model behaves as if no time has passed at all. It doesn't distinguish between "this was said 5 minutes ago" and "this was said 3 days ago" inside the same conversation. Everything in the thread reads as flat, current context — unless I manually tell it "it's day 3 now" or "it's been 2 days since we last talked," it has no idea. This isn't just a DSA-practice quirk. The same gap shows up in a bunch of other single-thread, multi-day use cases: Coding projects — a long-running thread where you're building a feature over multiple sessions across a week or two Journaling / reflective use — people who use the same thread as an ongoing check-in space Fitness / diet logs — tracking meals or workouts in one thread over time Budget / expense tracking — logging spend across a month in a single conversation Habit or medication tracking — daily check-ins in the same thread Long negotiations or planning — back-and-forth on a decision that spans days Spaced repetition / study review — my case — where "how long ago did I learn this" actually matters for what to review next In all of these, the model's inability to sense elapsed time inside a thread means it can't reason about staleness, can't prompt timely follow-ups, and treats week-old and minute-old messages the same way. Curious if others have hit this. Do you manually re-state the date/time every session? Has anyone noticed ChatGPT/Claude/Gemini handling this differently? (Not trying to solve it here — just wanted to see if this is a known pattern others have run into, or if I'm missing something obvious.)
-
-3h ago
+11h ago
 
 ---
 
@@ -85,7 +93,7 @@ I've been using the same chat thread for DSA practice, spread across several day
 
 ByteDance prepares to launch Seedance 2.5, its model for native 30-second video generation, with API access likely starting July 16 after delays.
 
-🔗 [TestingCatalog AI News](https://www.testingcatalog.com/exclusive-early-30-second-ai-videos-generated-by-seedance-2-5/) • 16h ago
+🔗 [TestingCatalog AI News](https://www.testingcatalog.com/exclusive-early-30-second-ai-videos-generated-by-seedance-2-5/) • 17h ago
 
 ---
 
@@ -93,23 +101,15 @@ ByteDance prepares to launch Seedance 2.5, its model for native 30-second video 
 
 I didn't realize that the “ready to use” 3D character would be interpreted differently in various projects. I tried some different ways of working and found that maybe something that works for 3-D printing won't work for animation, or maybe a detailed character is still too heavy to use for a game engine. For games I'd want to find ones with reasonable numbers of polygons, good topology, efficient textures, and a good deforming skeleton. Requirements are similar for animation, except that facial areas, joints, weight painting and bone hierarchy often warrant more attention. Printing doesn't require rigging, textures or anything else, it just requires closed geometry, adequate thickness, the correct scale, and an STL export file. As I was trying out methods to design character base models faster, I stumbled upon Tripo AI. It is capable of creating characters either from a text or from a reference image, and can be used for texturing, basic rigging, preparing characters for animation and exporting like FBX, GLB, OBJ, STL etc. But not all formats work for all assets: STL and OBJ conversion won't work for rigged models, according to its documentation. I would still consider the generated character to be a starting point and go over the topology, proportions, rig deformation and printability before giving it the “all done” stamp of approval. Have any of you played with an AI made character in a full game, animation or print? What amount of clean up was required?
 
+6h ago
+
+---
+
+**[Anyone else notice LLMs treat a week-old message and a 5-min-old message the same, in the same thread?](https://www.reddit.com/r/artificial/comments/1uudl7w/anyone_else_notice_llms_treat_a_weekold_message/)**
+
+I've been using the same chat thread for DSA practice, spread across several days now. I open it, review a problem, close it, come back the next day and pick up in the same thread. What I've noticed: the model behaves as if no time has passed at all. It doesn't distinguish between "this was said 5 minutes ago" and "this was said 3 days ago" inside the same conversation. Everything in the thread reads as flat, current context — unless I manually tell it "it's day 3 now" or "it's been 2 days since we last talked," it has no idea. This isn't just a DSA-practice quirk. The same gap shows up in a bunch of other single-thread, multi-day use cases: Coding projects — a long-running thread where you're building a feature over multiple sessions across a week or two Journaling / reflective use — people who use the same thread as an ongoing check-in space Fitness / diet logs — tracking meals or workouts in one thread over time Budget / expense tracking — logging spend across a month in a single conversation Habit or medication tracking — daily check-ins in the same thread Long negotiations or planning — back-and-forth on a decision that spans days Spaced repetition / study review — my case — where "how long ago did I learn this" actually matters for what to review next In all of these, the model's inability to sense elapsed time inside a thread means it can't reason about staleness, can't prompt timely follow-ups, and treats week-old and minute-old messages the same way. Curious if others have hit this. Do you manually re-state the date/time every session? Has anyone noticed ChatGPT/Claude/Gemini handling this differently? (Not trying to solve it here — just wanted to see if this is a known pattern others have run into, or if I'm missing something obvious.)
+
 4h ago
-
----
-
-**[What would potentially limit AI Demand?](https://www.reddit.com/r/artificial/comments/1utt87o/what_would_potentially_limit_ai_demand/)**
-
-I just wanted to ask some opinions on the matter as a layman. My thesis is that a sector specifically such as cybersecurity could become more and more obfuscated with the use of AI and so it seems trivial to me that rival actors would need increasingly more compute to stay relevant. I'm just trying to understand the dynamics because some people think that the market cant just continue going up based on the AI rollout and it surely must be nearing the peak of its run. Thanks in advance.
-
-20h ago
-
----
-
-**[I don't think agent wallets should be wallets first](https://www.reddit.com/r/artificial/comments/1uu5i6f/i_dont_think_agent_wallets_should_be_wallets_first/)**
-
-The more I think about autonomous agents paying for tools, the less I like the phrase “agent wallet.” A wallet sounds like ownership. For most practical agent workflows, I think the safer abstraction is delegated permission. For example, I would rather give an agent something like this: “You can spend up to $2 on this task, only with these providers, and you must stop if the result is ambiguous.” That is different from giving the agent broad wallet access and trusting the reasoning loop to stay sane. The interesting design questions are mostly around boundaries: who approves a new provider? what happens after a timeout? can the agent retry without double-spending? does the user see a readable log afterward? should payment confirmation and task success be treated as separate states? To me, this is where agent systems start looking less like chatbot UX and more like permissions, accounting, and failure recovery. Curious how people here think about it: should agents have wallets directly, or should they only receive narrow spending permissions per task?
-
-10h ago
 
 ---
 
@@ -117,35 +117,35 @@ The more I think about autonomous agents paying for tools, the less I like the p
 
 ## Google News: "ai"
 
-**[Getting campaign text messages ahead of midterms? There could be an AI bot behind it](https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns)**
+**[Some are raising ethical concerns about political text messages using AI](https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns)**
 
 Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.
 
-NPR • 6h ago
+NPR • 7h ago
 
 ---
 
-**[Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/)**
+**[Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI](https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai)**
 
-Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.
+Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemployment
 
-WIRED • 5h ago
-
----
-
-**[‘Smithsonian Dreams’ AI art installation coming to Smithsonian Castle on National Mall](https://wtop.com/dc/2026/07/smithsonian-dreams-ai-art-installation-coming-to-smithsonian-castle-on-national-mall/)**
-
-The Smithsonian Castle will host a free AI-powered art installation featuring lights, sound and projections on the National Mall.
-
-WTOP • 49m ago
+The Guardian • 6h ago
 
 ---
 
-**[‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’](https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html)**
+**[Why AI Pilots Fail: A 1998 Paper Might Have Seen It Coming](https://www.forbes.com/sites/vibhasratanjee/2026/07/12/why-ai-pilots-fail-a-1998-paper-might-have-seen-it-coming/)**
 
-AI-related chip stocks have been volatile amid a debate over AI demand and spending.
+Most AI strategies are vocabulary, not capability. A study of quality management from the nineties named the pattern long before AI arrived.
 
-CNBC • 10h ago
+Forbes • 29m ago
+
+---
+
+**[AI Might Be Coming For Our Books–But These Books Fight Back](https://www.forbes.com/sites/carolinereilly/2026/07/12/ai-might-be-coming-for-our-booksbut-these-books-fight-back/)**
+
+From training AI to read for you, to AI-use allegations in publishing, the book world is grappling with the increasingly digitized world. Debut author Dan Warner helps us compile a reading syllabus for this brave new world.
+
+Forbes • 10m ago
 
 ---
 
@@ -153,7 +153,31 @@ CNBC • 10h ago
 
 Experts say a major labor shortage looms because of population shifts and a mismatch between new graduates’ skills and employers’ needs.
 
-The Washington Post • 1h ago
+The Washington Post • 22m ago
+
+---
+
+**[5 Top AI Stocks Investors Own on Robinhood](https://finance.yahoo.com/markets/stocks/articles/5-top-ai-stocks-investors-202000090.html)**
+
+As a whole, investors are betting big on AI and other tech innovations.
+
+Yahoo Finance • 20h ago
+
+---
+
+**[Jim Cramer Says Buy 2 AI Stocks up 460% and 1,300% Since 2023 -- Wall Street Agrees](https://www.fool.com/investing/2026/07/12/jim-cramer-says-buy-2-ai-stocks-up-1300-nvda-meta/)**
+
+CNBC's Jim Cramer is bullish on Nvidia and Meta Platforms.
+
+The Motley Fool • 6h ago
+
+---
+
+**[‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’](https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html)**
+
+AI-related chip stocks have been volatile amid a debate over AI demand and spending.
+
+CNBC • 11h ago
 
 ---
 
@@ -167,27 +191,7 @@ WSJ • 1d ago
 
 Novogratz linked AI concerns to broader market trends, suggesting investor capital is rotating between AI-related stocks and crypto assets.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Palantir CEO Sounds Alarm Over AI Costs and Control as PLTR Shares Slide](https://www.tipranks.com/news/palantir-ceo-sounds-alarm-over-ai-costs-and-control-as-pltr-shares-slide)**
-
-Palantir Technologies Inc. ($PLTR), a software company that helps businesses and governments use data and AI in their operations, is raising concerns about who will...
-
-TipRanks • 3h ago
-
----
-
-**[India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions](https://www.reuters.com/world/india/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-2026-07-12/)**
-
-Reuters • 6h ago
-
----
-
-**[Meta u-turns on AI feature amid privacy backlash](https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/)**
-
-The Hill • 13h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -195,19 +199,11 @@ The Hill • 13h ago
 
 ## HackerNews: "ai"
 
-**[AI 2040: Plan A](https://news.ycombinator.com/item?id=48848425)**
-
-A research-backed AI scenario forecast.
-
-⬆️ 387 • 💬 503 • 2d ago • [ai-2040.com](https://ai-2040.com/)
-
----
-
 **[Mesh LLM: distributed AI computing on iroh](https://news.ycombinator.com/item?id=48876505)**
 
 How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.
 
-⬆️ 302 • 💬 71 • 16h ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
+⬆️ 313 • 💬 72 • 18h ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
@@ -217,19 +213,11 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 ---
 
-**[AI content is everywhere on social media, especially LinkedIn](https://news.ycombinator.com/item?id=48847940)**
-
-We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.
-
-⬆️ 245 • 💬 216 • 2d ago • [pangram.com](https://www.pangram.com/blog/ai-in-your-feed)
-
----
-
 **[How the terrorist group Boko Haram uses frontier AI](https://news.ycombinator.com/item?id=48863707)**
 
 The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
 
-⬆️ 228 • 💬 201 • 1d ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
+⬆️ 228 • 💬 202 • 1d ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
 
 ---
 
@@ -237,7 +225,7 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 
 An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.
 
-⬆️ 225 • 💬 164 • 1d ago • [mixfont.com](https://www.mixfont.com/ghost-font)
+⬆️ 226 • 💬 169 • 1d ago • [mixfont.com](https://www.mixfont.com/ghost-font)
 
 ---
 
@@ -245,7 +233,7 @@ An anti-AI font that can be read by humans but not leading AI models. Type your 
 
 I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.
 
-⬆️ 209 • 💬 251 • 21h ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+⬆️ 213 • 💬 253 • 22h ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
 ---
 
@@ -253,7 +241,7 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 166 • 💬 359 • 11h ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 179 • 💬 395 • 12h ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -261,13 +249,29 @@ If an undergraduate program's graduates don't earn more than workers who never w
 
 We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can't wait for a slow reply, can't read a chat interface, and can't unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.
 
-⬆️ 150 • 💬 400 • 2d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+⬆️ 151 • 💬 400 • 2d ago • [Ello](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
 
 ---
 
 **[Reverse centaurs are the answer to the AI paradox (2025)](https://news.ycombinator.com/item?id=48873855)**
 
-⬆️ 107 • 💬 67 • 22h ago • [pluralistic.net](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
+⬆️ 107 • 💬 68 • 23h ago • [pluralistic.net](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
+
+---
+
+**[AI Boosts Research Careers but Flattens Scientific Discovery](https://news.ycombinator.com/item?id=48881043)**
+
+New analysis suggests AI tools narrow the range of ideas explored
+
+⬆️ 86 • 💬 69 • 3h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
+
+---
+
+**[Show HN: Reviving my 2001 college band with AI](https://news.ycombinator.com/item?id=48851476)**
+
+Original human-written college band songs, transparently reimagined with 2026 AI tools.
+
+⬆️ 56 • 💬 59 • 2d ago • [Fading Maize](https://www.fadingmaize.com)
 
 ---
 
@@ -281,57 +285,7 @@ Status Coup reporter JT Cestkowski breaks down the AI bubble that is about to bu
 
 📺 Status Coup News
 
-👁️ 12K • 👍 1K • 💬 157 • ⏱️ 12:12 • 16h ago
-
----
-
-**[Meta Is Creating AI’s Chernobyl Moment](https://www.youtube.com/watch?v=bFmpJAx73is)**
-
-This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the Swiss company behind Proton Mail. Whether ...
-
-📺 House of El - AI
-
-👁️ 205K • 👍 12K • 💬 2K • ⏱️ 25:30 • 1d ago
-
----
-
-**[AI News: GPT-5.6 and the new Super App are a Massive Leap!](https://www.youtube.com/watch?v=EOCRtSnvNNE)**
-
-Here's the AI News You Might Have Missed This Week. Try my Shorts Broll Generator and get $1000 in free credits for Hyperagent ...
-
-📺 Matt Wolfe
-
-👁️ 87K • 👍 3K • 💬 260 • ⏱️ 38:41 • 2d ago
-
----
-
-**[They just revealed how bad the AI crash will be](https://www.youtube.com/watch?v=luzNCxNz_0w)**
-
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 63K • 👍 3K • 💬 767 • ⏱️ 12:45 • 2d ago
-
----
-
-**[Gemini 3.5 Might Shock The AI World  - All Gemini 3.5 Pro Leaks Explained](https://www.youtube.com/watch?v=IBR4eSVxN7U)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 12K • 👍 302 • 💬 64 • ⏱️ 12:09 • 1d ago
-
----
-
-**[Unitree G1 Robot 1, Joanna 0 #ai #robot](https://www.youtube.com/watch?v=iUF2G0vwV24)**
-
-Lesson learned, don't manhandle a Unitree G1. Watch our full-length video to see what else this robot can do...other than step on ...
-
-📺 Joanna Stern
-
-👁️ 21K • 👍 431 • 💬 15 • ⏱️ 0:30 • 1d ago
+👁️ 14K • 👍 1K • 💬 178 • ⏱️ 12:12 • 17h ago
 
 ---
 
@@ -341,37 +295,87 @@ Best Free AI Video Generator For AI Videos In 2026! Hey Friends :)) I've spent t
 
 📺 Skai Generated
 
-👁️ 5K • 💬 3 • ⏱️ 10:01 • 4h ago
+👁️ 10K • 💬 3 • ⏱️ 10:01 • 6h ago
 
 ---
 
-**[Minor in AI &amp; GenAI by MIT PhDs - starting July 31st](https://www.youtube.com/watch?v=Aty6pq4IqO8)**
+**[Scientists Built the First Self-Learning AI Worm... and It’s Terrifying](https://www.youtube.com/watch?v=6-PaW2RMt6g)**
 
-See details: https://minors.vizuara.ai/
+Cyber threats have always relied on pre-programmed instructions. But researchers have now demonstrated an AI-powered worm ...
 
-📺 Vizuara
+📺 AI Uncovered
 
-👁️ 264K • 👍 28 • ⏱️ 3:19 • 1d ago
-
----
-
-**[The Easiest Way to Make a Practical Claude AI Website in 2026](https://www.youtube.com/watch?v=6J1VMy3FuwY)**
-
-Bring Your Ai Website To Life: https://www.darrelwilson.com/hostinger Learn how to make an AI website using one of the easiest ...
-
-📺 Darrel Wilson
-
-👁️ 6K • 👍 271 • 💬 32 • ⏱️ 28:27 • 23h ago
+👁️ 527 • 👍 56 • 💬 3 • ⏱️ 10:05 • 2h ago
 
 ---
 
-**[SpaceX Stock is Crashing - AI Bubble is DEAD](https://www.youtube.com/watch?v=alQnNV4f_oI)**
+**[They just revealed how bad the AI crash will be](https://www.youtube.com/watch?v=luzNCxNz_0w)**
 
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 Eli the Computer Guy
+📺 Chris Norlund
 
-👁️ 62K • 👍 3K • 💬 1K • ⏱️ 22:25 • 1d ago
+👁️ 63K • 👍 3K • 💬 768 • ⏱️ 12:45 • 2d ago
+
+---
+
+**[AI Is Getting Dumber](https://www.youtube.com/watch?v=J3Uxn294avs)**
+
+Hello everyone, this is YOUR Daily Dose of Internet. In this video, we see evidence that AI isn't as smart it thinks. Links To ...
+
+📺 Daily Dose Of Internet
+
+👁️ 549K • 👍 24K • 💬 2K • ⏱️ 15:02 • 21h ago
+
+---
+
+**[Why The AI Doomers Might Be Right - Robert Wright](https://www.youtube.com/watch?v=TNCZJTduDpQ)**
+
+Robert Wright is a journalist and author. Is AI the next stage of human development? Some see it as another tool, while others ...
+
+📺 Chris Williamson
+
+👁️ 34K • 👍 719 • 💬 125 • ⏱️ 1:21:06 • 1d ago
+
+---
+
+**[CEO Reveals How He Used AI To Build One-Person Company That&#39;s $1.3 Billion In Debt](https://www.youtube.com/watch?v=YERfTT4McsU)**
+
+Become an Onion member while it's still optional: https://membership.theonion.com/?campaign=701a500001geULHAA2.
+
+📺 The Onion
+
+👁️ 233K • 👍 19K • 💬 371 • ⏱️ 1:21 • 2d ago
+
+---
+
+**[AI News: GPT-5.6 and the new Super App are a Massive Leap!](https://www.youtube.com/watch?v=EOCRtSnvNNE)**
+
+Here's the AI News You Might Have Missed This Week. Try my Shorts Broll Generator and get $1000 in free credits for Hyperagent ...
+
+📺 Matt Wolfe
+
+👁️ 89K • 👍 3K • 💬 262 • ⏱️ 38:41 • 2d ago
+
+---
+
+**[5 Proven Ways To Make Money With AI (No Experience)](https://www.youtube.com/watch?v=DZoeGR_tatA)**
+
+Next, watch this video where I break down the best AI business model to start and make $10k+/month: ...
+
+📺 Iman Gadzhi
+
+👁️ 168K • 👍 11K • 💬 2K • ⏱️ 36:31 • 2d ago
+
+---
+
+**[Zuckerberg Sets ‘Aggressive’ Price With Meta’s Pay-to-Use AI](https://www.youtube.com/watch?v=oaTNCiTmASM)**
+
+Kurt Wagner, Bloomberg Senior Reporter, joined Bloomberg's Paul Sweeney and Jess Menton to talk about his interview with ...
+
+📺 Bloomberg Podcasts
+
+👁️ 17K • 👍 163 • 💬 33 • ⏱️ 5:19 • 2d ago
 
 ---
 
@@ -387,7 +391,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 8,655 • ❤️ 710 • 6d ago
+⬇️ 8,655 • ❤️ 711 • 6d ago
 
 ---
 
@@ -399,7 +403,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,967,677 • ❤️ 2,032 • 14h ago
+⬇️ 1,967,677 • ❤️ 2,034 • 16h ago
 
 ---
 
@@ -411,7 +415,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 441,413 • ❤️ 3,847 • 10d ago
+⬇️ 441,413 • ❤️ 3,849 • 10d ago
 
 ---
 
@@ -423,7 +427,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,463 • ❤️ 246 • 2d ago
+⬇️ 4,463 • ❤️ 253 • 2d ago
 
 ---
 
@@ -435,7 +439,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 29,038 • ❤️ 500 • 3d ago
+⬇️ 29,038 • ❤️ 502 • 3d ago
 
 ---
 
@@ -455,7 +459,7 @@ A drop-in Jinja chat template that fixes critical rendering, KV cache, and agent
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 201 • 3d ago
+⬇️ 0 • ❤️ 204 • 3d ago
 
 ---
 
@@ -467,19 +471,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,430,656 • ❤️ 1,936 • 9d ago
-
----
-
-**[LongCat-2.0](https://huggingface.co/meituan-longcat/LongCat-2.0)**
-
-*LongCat*
-
-LongCat-2.0 is a 1.6T parameter MoE language model featuring LongCat Sparse Attention and N-gram Embedding, optimized for 1M-context tasks. It excels in coding, agentic workflows, and long-horizon reasoning, demonstrating strong performance on benchmarks like Claude Code and OpenClaw.
-
-`text-generation` `1775.6B`
-
-⬇️ 1,767 • ❤️ 179 • 4d ago
+⬇️ 1,430,656 • ❤️ 1,937 • 9d ago
 
 ---
 
@@ -491,7 +483,19 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,596,384 • ❤️ 2,667 • 2mo ago
+⬇️ 2,596,384 • ❤️ 2,668 • 2mo ago
+
+---
+
+**[LongCat-2.0](https://huggingface.co/meituan-longcat/LongCat-2.0)**
+
+*LongCat*
+
+LongCat-2.0 is a 1.6T parameter MoE language model featuring LongCat Sparse Attention and N-gram Embedding, optimized for 1M-context tasks. It excels in coding, agentic workflows, and long-horizon reasoning, demonstrating strong performance on benchmarks like Claude Code and OpenClaw.
+
+`text-generation` `1775.6B`
+
+⬇️ 1,767 • ❤️ 182 • 4d ago
 
 ---
 
@@ -571,7 +575,7 @@ https://continuous-audio-language-models.github.io
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 110 • 💬 4 • ⭐ 92,404 • 18mo ago
+▲ 110 • 💬 4 • ⭐ 92,547 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -585,7 +589,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 254 • 💬 4 • ⭐ 12,233 • 1mo ago
+▲ 254 • 💬 4 • ⭐ 12,300 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -626,7 +630,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 54 • 💬 5 • ⭐ 14,029 • 20d ago
+▲ 54 • 💬 5 • ⭐ 14,083 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -655,7 +659,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.5k • 🔱 955 • 3d ago
+⭐ 4.5k • 🔱 959 • 3d ago
 
 ---
 
@@ -665,7 +669,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.2k • 🔱 319 • 1d ago
+⭐ 2.2k • 🔱 320 • 1d ago
 
 ---
 
@@ -675,7 +679,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.0k • 🔱 218 • 4d ago
+⭐ 2.0k • 🔱 220 • 4d ago
 
 ---
 
@@ -685,7 +689,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.6k • 🔱 92 • 6h ago
+⭐ 1.6k • 🔱 96 • 7h ago
 
 ---
 
@@ -705,7 +709,7 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 
 `Python` `ai` `ai-agents` `api` `copilot` `llm`
 
-⭐ 1.1k • 🔱 368 • 14d ago
+⭐ 1.1k • 🔱 368 • 15d ago
 
 ---
 
@@ -715,7 +719,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 991 • 🔱 16 • 4d ago
+⭐ 993 • 🔱 16 • 4d ago
 
 ---
 
@@ -725,7 +729,7 @@ Agent skills for building playable, polished Three.js browser games with gamepla
 
 `Python`
 
-⭐ 949 • 🔱 101 • 3d ago
+⭐ 950 • 🔱 101 • 3d ago
 
 ---
 
@@ -735,7 +739,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 939 • 🔱 58 • 6d ago
+⭐ 940 • 🔱 58 • 6d ago
 
 ---
 
