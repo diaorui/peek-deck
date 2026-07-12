@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T16:58:51.351795+00:00'
+updated: '2026-07-12T18:03:30.242134+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 16:58 UTC  
+**Last Updated:** July 12, 2026 at 18:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use robstride actuators, series 00 and edulite 05
 
-23h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 9h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering
 
 Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here's what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware - Electronics BOM under $100 sourcing parts yourself - Full wiring diagrams, assembly guide, and source code included The V1 is already fully operational and tested. I just launched a Kickstarter pre-launch page to fund the V2 (better rigidity, internal cable routing, improved gripper). Happy to answer any questions about the design choices, print settings, or the electronics. AMA! https://www.kickstarter.com/projects/pancoarmmk01/panco-arm-mk-01
 
-1d ago
+2d ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 Engineers have spent billions teaching robots to do backflips and solve complex math, yet a wet, mossy hill can stop a state-of-the-art robot completely. This video breaks down how researchers solved that problem not with better software, but by copying the design of a mountain goat's hoof, using a rigid outer shell to mimic keratin and a soft flexible core to mimic the natural grip pad, creating a robotic foot that uses zero cameras, sensors, or microprocessors. The result is a purely mechanical solution called passive mechanics, proving that sometimes evolution has already engineered the answer millions of years before we did. Published research on biomimetic robotic foot design for rough terrain locomotion
 
-🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 22h ago
+🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 23h ago
 
 ---
 
@@ -112,7 +112,7 @@ I am looking for reviews or experience reports with the agilex Nero robot arm! I
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
 
-Cowboy State Daily • 22h ago
+Cowboy State Daily • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ Ars Technica • 2d ago
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 15h ago
+NVIDIA Developer • 16h ago
 
 ---
 
@@ -150,7 +150,7 @@ Tech Xplore • 1d ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 5h ago
+hyundai.com • 6h ago
 
 ---
 
@@ -178,11 +178,11 @@ New Atlas • 2d ago
 
 ---
 
-**[Why robotics teams need virtual gyms before deployment](https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/)**
+**[City of Bixby honors middle school robotics team with proclamation](https://ktul.com/news/local/city-of-bixby-honors-middle-school-robotics-team-with-proclamation-07-12-2026)**
 
-To address environmental and task variability, robots can benefit from 'virtual gyms' to bridge the sim-to-real gap, says SoftServe.
+BIXBY, Okla. &mdash; The City of Bixby recognized the Bixby Middle School Robotics Team with a proclamation, honoring their achievement of placing top five in the wor
 
-The Robot Report • 1d ago
+KTUL • 32m ago
 
 ---
 
@@ -196,7 +196,7 @@ Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that c
 
 📺 MIT Mechanical Engineering
 
-👁️ 115K • 👍 4K • 💬 231 • ⏱️ 4:04 • 2d ago
+👁️ 115K • 👍 4K • 💬 231 • ⏱️ 4:04 • 3d ago
 
 ---
 
@@ -226,7 +226,7 @@ Surgeons in the US have just achieved a world-first, using humanoid robots in th
 
 📺 7NEWS Australia
 
-👁️ 6K • 👍 25 • 💬 9 • ⏱️ 1:36 • 7h ago
+👁️ 6K • 👍 25 • 💬 9 • ⏱️ 1:36 • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 
 📺 Suhel Experiment
 
-👁️ 7K • 💬 14 • ⏱️ 1:30 • 2h ago
+👁️ 7K • 💬 14 • ⏱️ 1:30 • 3h ago
 
 ---
 

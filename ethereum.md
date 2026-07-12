@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T16:58:51.349107+00:00'
+updated: '2026-07-12T18:03:30.238733+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 16:58 UTC  
+**Last Updated:** July 12, 2026 at 18:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +1.3%  
-**30d:** +8.4%  
-**90d:** -21.5%  
-**1y:** -38.7%  
+**24h:** -0.2%  
+**7d:** +1.2%  
+**30d:** +8.3%  
+**90d:** -21.6%  
+**1y:** -38.8%  
 
 ---
 
@@ -158,6 +158,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[The triage is the product: running AI agents against Ethereum's protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product)**
+
+*Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
+
+ethereum.org • 3d ago
+
+---
+
 **[Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization](https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization)**
 
 Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
@@ -186,15 +194,7 @@ Yahoo Finance • 2d ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 22h ago
-
----
-
-**[The triage is the product: running AI agents against Ethereum's protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product)**
-
-*Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
-
-ethereum.org • 3d ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 1d ago
 
 **[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
-thestreet.com • 22h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 1d ago
 
 Ethereum Foundation's AI audit found a real validator-crashing bug in libp2p gossipsub, patched as CVE-2026-34219, but human triage remains essential.
 
-Crypto Briefing • 18h ago
+Crypto Briefing • 19h ago
 
 ---
 
@@ -248,7 +248,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 106 • 💬 26 • ⏱️ 18:37 • 23h ago
+👁️ 3K • 👍 106 • 💬 26 • ⏱️ 18:37 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 204 • 💬 17 • ⏱️ 9:31 • 23h ago
+👁️ 3K • 👍 204 • 💬 17 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ Joseph Chalom makes the case that Ethereum has the license to win and is finally
 
 📺 The Rollup
 
-👁️ 3K • 👍 183 • 💬 13 • ⏱️ 29:05 • 6h ago
+👁️ 3K • 👍 183 • 💬 13 • ⏱️ 29:05 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 1K • 👍 112 • 💬 22 • ⏱️ 16:06 • 10h ago
+👁️ 1K • 👍 112 • 💬 22 • ⏱️ 16:06 • 11h ago
 
 ---
 
@@ -298,7 +298,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 420 • 👍 49 • ⏱️ 7:45 • 2h ago
+👁️ 420 • 👍 49 • ⏱️ 7:45 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 7K • 👍 344 • 💬 263 • ⏱️ 21:18 • 20h ago
+👁️ 7K • 👍 344 • 💬 263 • ⏱️ 21:18 • 21h ago
 
 ---
 
@@ -328,7 +328,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 148 • 💬 6 • ⏱️ 10:59 • 13h ago
+👁️ 1K • 👍 148 • 💬 6 • ⏱️ 10:59 • 15h ago
 
 ---
 
