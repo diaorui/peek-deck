@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T10:56:25.056176+00:00'
+updated: '2026-07-12T12:03:07.561386+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 10:56 UTC  
+**Last Updated:** July 12, 2026 at 12:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use robstride actuators, series 00 and edulite 05
 
-17h ago
+18h ago
 
 ---
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 3h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 4h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 Engineers have spent billions teaching robots to do backflips and solve complex math, yet a wet, mossy hill can stop a state-of-the-art robot completely. This video breaks down how researchers solved that problem not with better software, but by copying the design of a mountain goat's hoof, using a rigid outer shell to mimic keratin and a soft flexible core to mimic the natural grip pad, creating a robotic foot that uses zero cameras, sensors, or microprocessors. The result is a purely mechanical solution called passive mechanics, proving that sometimes evolution has already engineered the answer millions of years before we did. Published research on biomimetic robotic foot design for rough terrain locomotion
 
-🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 16h ago
+🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 17h ago
 
 ---
 
@@ -86,7 +86,7 @@ Engineers have spent billions teaching robots to do backflips and solve complex 
 
 For aesthetic reasons, robots are typically equipped with outer casings around their core components. Could the degrees of freedom of a bare robot be compromised in terms of performance due to design constraints? Is that why the demonstration robot in the example uses rubber gloves as its outer casing? Is this a better choice?
 
-1d ago
+2d ago
 
 ---
 
@@ -116,6 +116,12 @@ Ars Technica • 2d ago
 
 ---
 
+**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
+
+Tech Xplore • 20h ago
+
+---
+
 **[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
 
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
@@ -124,17 +130,11 @@ New Atlas • 1d ago
 
 ---
 
-**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
-
-Tech Xplore • 18h ago
-
----
-
 **[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
 
-Cowboy State Daily • 16h ago
+Cowboy State Daily • 17h ago
 
 ---
 
@@ -142,7 +142,7 @@ Cowboy State Daily • 16h ago
 
 Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
 
-NVIDIA Developer • 9h ago
+NVIDIA Developer • 10h ago
 
 ---
 
@@ -150,7 +150,7 @@ NVIDIA Developer • 9h ago
 
 Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
 
-hyundai.com • 5h ago
+hyundai.com • 6h ago
 
 ---
 
@@ -174,7 +174,7 @@ MIT News • 2d ago
 
 Vicky Pan, a mom of two, was diagnosed with aggressive, fast-growing triple-negative breast cancer that had already spread to her lymph nodes
 
-Yahoo • 23h ago
+Yahoo • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ Reuters • 1d ago
 
 📺 Varun Mayya
 
-👁️ 87K • 👍 4K • 💬 49 • ⏱️ 1:03 • 18h ago
+👁️ 87K • 👍 4K • 💬 49 • ⏱️ 1:03 • 20h ago
 
 ---
 
@@ -242,7 +242,7 @@ Scientists placed realistic robot animals into the wild to study animal behavior
 
 📺 Peak Swag
 
-👁️ 150K • 👍 4K • 💬 27 • ⏱️ 0:50 • 13h ago
+👁️ 150K • 👍 4K • 💬 27 • ⏱️ 0:50 • 14h ago
 
 ---
 

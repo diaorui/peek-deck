@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T10:56:25.053004+00:00'
+updated: '2026-07-12T12:03:07.558102+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 10:56 UTC  
+**Last Updated:** July 12, 2026 at 12:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +0.1%  
-**30d:** +7.1%  
-**90d:** -22.4%  
-**1y:** -39.4%  
+**24h:** +0.1%  
+**7d:** +0.3%  
+**30d:** +7.3%  
+**90d:** -22.3%  
+**1y:** -39.3%  
 
 ---
 
@@ -120,7 +120,7 @@ When I arrived in a new nation, I had no local currency yet and had my card bann
 
 Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -186,7 +186,7 @@ ethereum.org • 2d ago
 
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -194,13 +194,13 @@ Decrypt • 18h ago
 
 DUBAI, United Arab Emirates, July  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based project operating at the intersection of meme coin cul...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 17h ago
 
 ---
 
 **[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
-thestreet.com • 16h ago
+thestreet.com • 18h ago
 
 ---
 
@@ -208,15 +208,7 @@ thestreet.com • 16h ago
 
 Ether (ETH) price gained 3% between Thursday and Friday, outperforming the broader crypto market. The move ties to growing tokenization, Robinhood Chain’s success, and ongoing corporate treasury purchases. However, ETH failed to break above $1,800 amid weak onchain and derivatives metrics. Is Ether…
 
-TradingView • 22h ago
-
----
-
-**[Ethereum Foundation says AI found real protocol bugs, but humans still run the show](https://cryptobriefing.com/ethereum-foundation-ai-protocol-bugs-cve/)**
-
-Ethereum Foundation's AI audit found a real validator-crashing bug in libp2p gossipsub, patched as CVE-2026-34219, but human triage remains essential.
-
-Crypto Briefing • 12h ago
+TradingView • 23h ago
 
 ---
 
@@ -225,6 +217,14 @@ Crypto Briefing • 12h ago
 Bitcoin and major cryptocurrencies advanced as traders debated whether a weekly death cross signals the final phase of the bear market rather than the start of a new downturn. Analysts point to BTCs reclaim of its 200-week moving average and historical performance around previous death crosses as reasons to favor gradual accumulation.
 
 Benzinga • 2d ago
+
+---
+
+**[Ethereum Foundation says AI found real protocol bugs, but humans still run the show](https://cryptobriefing.com/ethereum-foundation-ai-protocol-bugs-cve/)**
+
+Ethereum Foundation's AI audit found a real validator-crashing bug in libp2p gossipsub, patched as CVE-2026-34219, but human triage remains essential.
+
+Crypto Briefing • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 93 • 💬 24 • ⏱️ 18:37 • 17h ago
+👁️ 3K • 👍 93 • 💬 24 • ⏱️ 18:37 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 532 • 💬 565 • ⏱️ 24:07 • 20h ago
+👁️ 6K • 👍 532 • 💬 565 • ⏱️ 24:07 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). Se
 
 📺 Milk Road
 
-👁️ 2K • 👍 85 • 💬 136 • ⏱️ 10:43 • 20h ago
+👁️ 2K • 👍 85 • 💬 136 • ⏱️ 10:43 • 22h ago
 
 ---
 
@@ -268,7 +268,7 @@ HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outfl
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 196 • 💬 6 • ⏱️ 9:31 • 17h ago
+👁️ 3K • 👍 196 • 💬 6 • ⏱️ 9:31 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 115 • 💬 4 • ⏱️ 10:59 • 7h ago
+👁️ 1K • 👍 115 • 💬 4 • ⏱️ 10:59 • 9h ago
 
 ---
 
@@ -288,7 +288,7 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 446 • 👍 60 • 💬 4 • ⏱️ 16:06 • 4h ago
+👁️ 446 • 👍 60 • 💬 4 • ⏱️ 16:06 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ What's up, it's Weston — 0.3 ETH just dropped and I got mine. Full walkthrough
 
 📺 Weston Ashford
 
-👁️ 5K • 💬 202 • ⏱️ 4:36 • 7h ago
+👁️ 5K • 💬 202 • ⏱️ 4:36 • 8h ago
 
 ---
 
@@ -308,7 +308,7 @@ I think Internet Computer Protocol is on the way to being the number one cryptoc
 
 📺 Jerry Banfield ICP
 
-👁️ 2K • 👍 199 • 💬 61 • ⏱️ 18:43 • 18h ago
+👁️ 2K • 👍 199 • 💬 61 • ⏱️ 18:43 • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ Learn how to reduce Ethereum gas fee in 2026 and save ETH on every transaction. 
 
 📺 Gage Foster
 
-👁️ 7K • 👍 61 • ⏱️ 3:36 • 9h ago
+👁️ 7K • 👍 61 • ⏱️ 3:36 • 10h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN HOLDERS: $200k Trade Starting Now (URGENT)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 6K • 👍 310 • 💬 266 • ⏱️ 21:18 • 14h ago
+👁️ 6K • 👍 310 • 💬 266 • ⏱️ 21:18 • 15h ago
 
 ---
 

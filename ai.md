@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-12T10:56:25.038197+00:00'
+updated: '2026-07-12T12:03:07.543072+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 12, 2026 at 10:56 UTC  
+**Last Updated:** July 12, 2026 at 12:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Tan. Former Apple VP. 24 years at the company. He now runs OpenAI’s device ambitions. Apple alleges he was coaching Apple employees interviewing at OpenAI to bring actual hardware parts – batteries, logic boards, SIPs – to their interviews for “show and tell” sessions. He also reportedly circulated an internal Apple offboarding document marked “Need to Know” to incoming OpenAI hires, teaching them how to leave Apple without triggering security checks. Then there’s Chang Liu. Former Apple electrical engineer. He kept his Apple-issued laptop after joining OpenAI. Found a bug that still gave him access to Apple’s cloud storage. His reaction: “LOL, I found out I can access the [network storage], so funny.” He then downloaded dozens of confidential files, many labeled as confidential. OpenAI even allegedly approached Apple’s own supply chain partners using Apple’s proprietary metal-finishing technique – telling them Apple had given permission. Apple hadn’t. Over 400 former Apple employees now work at OpenAI. Apple says this is “the tip of the iceberg.” The irony: these two companies had a public partnership just two years ago. ChatGPT was literally integrated into Siri. Now Apple is replacing that integration with Google Gemini and filing lawsuits. The hardware wars just got a lot more interesting.
 
-21h ago
+22h ago
 
 ---
 
 **[OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple](https://www.reddit.com/r/artificial/comments/1utll84/openai_engineers_lol_moment_set_stage_for_legal/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTk0MCwiZXhwIjoxNzg0Mzg0NzQwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.dBYikjf0NaLQgiCl9fPjO6P-eI5fjP4sNj5IaKmKtmQ) • 20h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTk0MCwiZXhwIjoxNzg0Mzg0NzQwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.dBYikjf0NaLQgiCl9fPjO6P-eI5fjP4sNj5IaKmKtmQ) • 21h ago
 
 ---
 
@@ -55,7 +55,15 @@ This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Ta
 
 Hi, I’m a sophomore in high school. I recently have a strong desire to know more about tech, particularly AI. However, I’m not sure what steps to take since AI is such a broad and general term. I’m currently taking Harvard’s Cs50p course to understand code and know how to debug in the future when coding with AI. What are your thoughts on this, and after taking cs50p, what should I, or can I do? Where should I lead a bout tech and AI more?
 
-5h ago
+6h ago
+
+---
+
+**[Anyone else notice LLMs treat a week-old message and a 5-min-old message the same, in the same thread?](https://www.reddit.com/r/artificial/comments/1uudl7w/anyone_else_notice_llms_treat_a_weekold_message/)**
+
+I've been using the same chat thread for DSA practice, spread across several days now. I open it, review a problem, close it, come back the next day and pick up in the same thread. What I've noticed: the model behaves as if no time has passed at all. It doesn't distinguish between "this was said 5 minutes ago" and "this was said 3 days ago" inside the same conversation. Everything in the thread reads as flat, current context — unless I manually tell it "it's day 3 now" or "it's been 2 days since we last talked," it has no idea. This isn't just a DSA-practice quirk. The same gap shows up in a bunch of other single-thread, multi-day use cases: Coding projects — a long-running thread where you're building a feature over multiple sessions across a week or two Journaling / reflective use — people who use the same thread as an ongoing check-in space Fitness / diet logs — tracking meals or workouts in one thread over time Budget / expense tracking — logging spend across a month in a single conversation Habit or medication tracking — daily check-ins in the same thread Long negotiations or planning — back-and-forth on a decision that spans days Spaced repetition / study review — my case — where "how long ago did I learn this" actually matters for what to review next In all of these, the model's inability to sense elapsed time inside a thread means it can't reason about staleness, can't prompt timely follow-ups, and treats week-old and minute-old messages the same way. Curious if others have hit this. Do you manually re-state the date/time every session? Has anyone noticed ChatGPT/Claude/Gemini handling this differently? (Not trying to solve it here — just wanted to see if this is a known pattern others have run into, or if I'm missing something obvious.)
+
+just now
 
 ---
 
@@ -63,7 +71,7 @@ Hi, I’m a sophomore in high school. I recently have a strong desire to know mo
 
 ByteDance prepares to launch Seedance 2.5, its model for native 30-second video generation, with API access likely starting July 16 after delays.
 
-🔗 [TestingCatalog AI News](https://www.testingcatalog.com/exclusive-early-30-second-ai-videos-generated-by-seedance-2-5/) • 11h ago
+🔗 [TestingCatalog AI News](https://www.testingcatalog.com/exclusive-early-30-second-ai-videos-generated-by-seedance-2-5/) • 12h ago
 
 ---
 
@@ -71,15 +79,7 @@ ByteDance prepares to launch Seedance 2.5, its model for native 30-second video 
 
 I didn't realize that the “ready to use” 3D character would be interpreted differently in various projects. I tried some different ways of working and found that maybe something that works for 3-D printing won't work for animation, or maybe a detailed character is still too heavy to use for a game engine. For games I'd want to find ones with reasonable numbers of polygons, good topology, efficient textures, and a good deforming skeleton. Requirements are similar for animation, except that facial areas, joints, weight painting and bone hierarchy often warrant more attention. Printing doesn't require rigging, textures or anything else, it just requires closed geometry, adequate thickness, the correct scale, and an STL export file. As I was trying out methods to design character base models faster, I stumbled upon Tripo AI. It is capable of creating characters either from a text or from a reference image, and can be used for texturing, basic rigging, preparing characters for animation and exporting like FBX, GLB, OBJ, STL etc. But not all formats work for all assets: STL and OBJ conversion won't work for rigged models, according to its documentation. I would still consider the generated character to be a starting point and go over the topology, proportions, rig deformation and printability before giving it the “all done” stamp of approval. Have any of you played with an AI made character in a full game, animation or print? What amount of clean up was required?
 
-5m ago
-
----
-
-**[writing code maybe was the bottleneck?](https://www.reddit.com/r/artificial/comments/1uu1um0/writing_code_maybe_was_the_bottleneck/)**
-
-This probably will sound crazy
-
-9h ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ This probably will sound crazy
 
 I just wanted to ask some opinions on the matter as a layman. My thesis is that a sector specifically such as cybersecurity could become more and more obfuscated with the use of AI and so it seems trivial to me that rival actors would need increasingly more compute to stay relevant. I'm just trying to understand the dynamics because some people think that the market cant just continue going up based on the AI rollout and it surely must be nearing the peak of its run. Thanks in advance.
 
-15h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ I just wanted to ask some opinions on the matter as a layman. My thesis is that 
 
 The more I think about autonomous agents paying for tools, the less I like the phrase “agent wallet.” A wallet sounds like ownership. For most practical agent workflows, I think the safer abstraction is delegated permission. For example, I would rather give an agent something like this: “You can spend up to $2 on this task, only with these providers, and you must stop if the result is ambiguous.” That is different from giving the agent broad wallet access and trusting the reasoning loop to stay sane. The interesting design questions are mostly around boundaries: who approves a new provider? what happens after a timeout? can the agent retry without double-spending? does the user see a readable log afterward? should payment confirmation and task success be treated as separate states? To me, this is where agent systems start looking less like chatbot UX and more like permissions, accounting, and failure recovery. Curious how people here think about it: should agents have wallets directly, or should they only receive narrow spending permissions per task?
 
-6h ago
+7h ago
 
 ---
 
@@ -103,15 +103,15 @@ The more I think about autonomous agents paying for tools, the less I like the p
 
 Hi everyone, For the past five months, I’ve been working on a custom AI model with two main goals: Self-learning capabilities A distinct personality And yeah, this is the result! It’s a super lightweight 500M parameter model running locally on an iMac in my bedroom, lol. Anyway, check it out and let me know what you think :https://conw.ai
 
-14h ago
+16h ago
 
 ---
 
-**[ChatGPT-Live vs Pi vs Lucy OS1 vs Gemini-Live: best AI assistant to talk with?](https://www.reddit.com/r/artificial/comments/1utqf02/chatgptlive_vs_pi_vs_lucy_os1_vs_geminilive_best/)**
+**[writing code maybe was the bottleneck?](https://www.reddit.com/r/artificial/comments/1uu1um0/writing_code_maybe_was_the_bottleneck/)**
 
-I’ve been testing ChatGPT-Live since it launched this week and compared it with a few other voice assistants I already use. It’s really good. That said , I was less interested in benchmark comparisons or who has the best model. I was more curious about something only using it would reveal: Which one feels most natural to talk with? I used them during normal everyday situations: work, walking, brainstorming, commuting, practicing my French, recommendations, and conversations rather than binary questions. A few observations: ChatGPT-Live Impressed me more than I expected. I usually haven’t found ChatGPT to fit my everyday usage style enough to upgrading to paid user, but the Live model made me consider it. Conversations feel fluent incl interruptions, and the voice is much better. Also, for research intelligence and deeper tasks, it’s probably the strongest overall. Pi Pi is still one of the nicest assistants to casually talk with. It’s warm, patient, and asks good follow-up questions. It starts struggling more when conversations become technical, but for relaxed conversations it still has a unique personality. Lucy OS1 For longer and primarily to talk with, Lucy is the one I enjoyed the most. The overall talk felt kinda human, and she remembers well. ChatGPT-Live is still stronger for things like deep research, coding, and technical compexity. Gemini-Live Gemini Live has improved a lot in 2026 as with google’s other AI models. It’s fast and integrates nicely if you already use Google products. My experience was just a little less consistent during longer conversations compared with the others. My biggest takeaway is how much we’re probably moving from typing to talking as the new AI norm, as they’re all super smart where intelligence no longer seem to be the main distinguisher. It’s more how they act like a real person, that can help you with things while not having to be glued at the screen. Curious what others think after trying multiple voice assistants.
+This probably will sound crazy
 
-17h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ I’ve been testing ChatGPT-Live since it launched this week and compared it wit
 
 **[Opinion | We Returned From China. We Realized Our Century’s Biggest Challenge.](https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -131,27 +131,27 @@ WSJ • 1d ago
 
 ---
 
-**[Getting campaign text messages ahead of midterms? There could be an AI bot behind it](https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns)**
+**[Why recruiters can’t find workers and new grads can’t find jobs (it’s not AI)](https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/)**
 
-Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.
+Experts say a major labor shortage looms because of population shifts and a mismatch between new graduates’ skills and employers’ needs.
 
-NPR • 1h ago
-
----
-
-**[Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI](https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai)**
-
-Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemployment
-
-The Guardian • 54m ago
+The Washington Post • 31m ago
 
 ---
 
-**[In debate over AI data centers in Texas, it's "rural Texas is dying" vs. "preserve this land"](https://www.cbsnews.com/texas/news/debate-over-ai-data-centers-texas-rural-dying-preserve-land-abbott-prohibit/)**
+**[Welcome to the era of the forever layoff](https://www.businessinsider.com/why-tech-companies-keep-doing-layoffs-ai-2026-7)**
 
-Texas Republicans disagree over prohibiting AI data centers in rural Texas neighborhoods.
+Tech layoffs are becoming a recurring feature of the AI era as companies repeatedly reshape their workforces while investing in the tech.
 
-CBS News • 56m ago
+Business Insider • 2h ago
+
+---
+
+**[The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight)**
+
+Buildout and backlash.
+
+The Verge • 3m ago
 
 ---
 
@@ -159,19 +159,27 @@ CBS News • 56m ago
 
 AI-related chip stocks have been volatile amid a debate over AI demand and spending.
 
-CNBC • 5h ago
+CNBC • 7h ago
 
 ---
 
-**[America’s AI revolution could end in disaster](https://thehill.com/opinion/technology/5962802-big-tech-ai-data-centers/)**
+**['Market is becoming more discerning': Wall Street weighs next catalyst for AI trade](https://finance.yahoo.com/markets/article/market-is-becoming-more-discerning-wall-street-weighs-next-catalyst-for-ai-trade-114052280.html)**
 
-The Hill • 1d ago
+Wall Street is looking toward earnings for a follow-through of the AI trade.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple)**
+**[Korea’s record-low stock valuations seen as opportunity amid AI earnings boom](https://www.investing.com/news/stock-market-news/koreas-recordlow-stock-valuations-seen-as-opportunity-amid-ai-earnings-boom-4787322)**
 
-Bloomberg.com • 20h ago
+Investing.com • 8h ago
+
+---
+
+**[Meta u-turns on AI feature amid privacy backlash](https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/)**
+
+The Hill • 10h ago
 
 ---
 
@@ -183,12 +191,6 @@ BBC • 1d ago
 
 ---
 
-**[Meta u-turns on AI feature amid privacy backlash](https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/)**
-
-The Hill • 9h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -197,13 +199,13 @@ The Hill • 9h ago
 
 A research-backed AI scenario forecast.
 
-⬆️ 385 • 💬 500 • 2d ago • [ai-2040.com](https://ai-2040.com/)
+⬆️ 385 • 💬 501 • 2d ago • [ai-2040.com](https://ai-2040.com/)
 
 ---
 
 **[AI-generated videos to maximally drive a target brain region](https://news.ycombinator.com/item?id=48856904)**
 
-⬆️ 291 • 💬 237 • 2d ago • [nevo-project.epfl.ch](https://nevo-project.epfl.ch/)
+⬆️ 292 • 💬 238 • 2d ago • [nevo-project.epfl.ch](https://nevo-project.epfl.ch/)
 
 ---
 
@@ -211,7 +213,7 @@ A research-backed AI scenario forecast.
 
 How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.
 
-⬆️ 265 • 💬 59 • 12h ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
+⬆️ 275 • 💬 63 • 13h ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
@@ -235,7 +237,7 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 
 An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.
 
-⬆️ 216 • 💬 158 • 1d ago • [mixfont.com](https://www.mixfont.com/ghost-font)
+⬆️ 220 • 💬 163 • 1d ago • [mixfont.com](https://www.mixfont.com/ghost-font)
 
 ---
 
@@ -243,7 +245,7 @@ An anti-AI font that can be read by humans but not leading AI models. Type your 
 
 I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.
 
-⬆️ 204 • 💬 244 • 16h ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+⬆️ 205 • 💬 245 • 17h ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
 ---
 
@@ -255,17 +257,17 @@ We set out to build the first AI tutor to teach math and reading to kids ages 4-
 
 ---
 
-**[Reverse centaurs are the answer to the AI paradox (2025)](https://news.ycombinator.com/item?id=48873855)**
+**[Under federal rule, colleges must leave grads better off or lose financial aid](https://news.ycombinator.com/item?id=48878126)**
 
-⬆️ 105 • 💬 67 • 17h ago • [pluralistic.net](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
+If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
+
+⬆️ 111 • 💬 211 • 8h ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
-**[Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](https://news.ycombinator.com/item?id=48845422)**
+**[Reverse centaurs are the answer to the AI paradox (2025)](https://news.ycombinator.com/item?id=48873855)**
 
-Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI - ronak-create/FableCut
-
-⬆️ 98 • 💬 58 • 2d ago • [GitHub](https://github.com/ronak-create/FableCut)
+⬆️ 107 • 💬 67 • 18h ago • [pluralistic.net](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
 
 ---
 
@@ -279,7 +281,7 @@ Status Coup reporter JT Cestkowski breaks down the AI bubble that is about to bu
 
 📺 Status Coup News
 
-👁️ 11K • 👍 1K • 💬 133 • ⏱️ 12:12 • 11h ago
+👁️ 11K • 👍 1K • 💬 133 • ⏱️ 12:12 • 13h ago
 
 ---
 
@@ -289,7 +291,7 @@ SUPPORT THE SHOW BUY CAST BREW COFFEE NOW - https://castbrew.com/ GET OUR MERCH 
 
 📺 Timcast IRL
 
-👁️ 12K • 👍 415 • 💬 120 • ⏱️ 8:57 • 19h ago
+👁️ 12K • 👍 415 • 💬 120 • ⏱️ 8:57 • 21h ago
 
 ---
 
@@ -299,7 +301,7 @@ Create Anime Visuals with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa Cre
 
 📺 Isa does AI
 
-👁️ 10K • 💬 5 • ⏱️ 12:16 • 20h ago
+👁️ 10K • 💬 5 • ⏱️ 12:16 • 21h ago
 
 ---
 
@@ -367,7 +369,7 @@ Hello everyone, this is YOUR Daily Dose of Internet. In this video, we see evide
 
 📺 Daily Dose Of Internet
 
-👁️ 459K • 👍 21K • 💬 2K • ⏱️ 15:02 • 15h ago
+👁️ 459K • 👍 21K • 💬 2K • ⏱️ 15:02 • 16h ago
 
 ---
 
@@ -395,7 +397,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,967,677 • ❤️ 2,029 • 9h ago
+⬇️ 1,967,677 • ❤️ 2,029 • 11h ago
 
 ---
 
@@ -661,7 +663,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.2k • 🔱 316 • 23h ago
+⭐ 2.2k • 🔱 316 • 1d ago
 
 ---
 
@@ -681,7 +683,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.5k • 🔱 87 • 1h ago
+⭐ 1.5k • 🔱 87 • 2h ago
 
 ---
 
