@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-12T23:55:06.908992+00:00'
+updated: '2026-07-13T02:50:49.332554+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 12, 2026 at 23:55 UTC  
+**Last Updated:** July 13, 2026 at 02:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,819.14
+### $1,807.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.5%  
-**30d:** +7.5%  
-**90d:** -22.1%  
-**1y:** -39.2%  
+**24h:** -0.0%  
+**7d:** +2.3%  
+**30d:** +4.9%  
+**90d:** -23.2%  
+**1y:** -39.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.88B
+**Market Cap:** $218.20B
 Rank #2
 
-**Circulating Supply:** 120,683,028 ETH
+**Circulating Supply:** 120,683,011 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.5%
+-63.4%
 
 **All-Time Low:** $0.43
-+416917.9%
++417453.7%
 
 ---
 
@@ -158,11 +158,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[The triage is the product: running AI agents against Ethereum's protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Consolidate as US-Iran Tensions Escalate: Analyst Says People Will Be 'Surprised' by Upcoming Bull Cycle](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-consolidate-015612476.html)**
 
-*Notes from the Ethereum Foundation's Protocol Security team on running coordinated AI agents against real protocol code, including how we organize the work,...
+Leading cryptocurrencies moved sideways, while stock futures slid on Sunday evening amid investor concerns over escalating U.S.-Iran tensions. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.31%$63,731.70Ethereum (CRYPTO: ETH) +0.65%$1,818.68XRP (CRYPTO: XRP) -0.63%$1.08Solana (CRYPTO: SOL) +1.13%$77.17Dogecoin (CRYPTO: DOGE) +0.19%$0.07306 Crypto Market Takes A Breather Bitcoin fluctuated sharply between $63,000 and $64,000 as trading volume rose 18% over
 
-ethereum.org • 3d ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -174,19 +174,11 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Will Be $5 Trillion Network In 'Few Years,' Says Tom Lee — What Would That Make Price?](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-trillion-network-few-131715571.html)**
-
-Tom Lee says Ethereum could become a $5 trillion network within the next few years. A $5 trillion market cap would imply an ETH price ...
-
-Yahoo Finance • 3d ago
-
----
-
 **[iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?](https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/)**
 
 One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
 
-The Motley Fool • 3h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -206,27 +198,35 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?](https://www.tradingview.com/news/cointelegraph:955ec8386094b:0-ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1-800/)**
-
-Ether (ETH) price gained 3% between Thursday and Friday, outperforming the broader crypto market. The move ties to growing tokenization, Robinhood Chain’s success, and ongoing corporate treasury purchases. However, ETH failed to break above $1,800 amid weak onchain and derivatives metrics. Is Ether…
-
-TradingView • 1d ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP hold recovery levels amid minor ETF outflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-recovery-levels-amid-minor-etf-outflows-202607102300)**
-
-The crypto market traded modestly, gaining 1.1% on Friday as Bitcoin (BTC), Ethereum (ETH) and XRP maintained their recent recovery levels. The gains came despite US spot ETF outflows and cautious investor sentiment, suggesting buyers continue to defend key support levels.
-
-FXStreet • 2d ago
-
----
-
 **[Ethereum: Fundstrat Eyes Path to $10,000](https://blockchain.news/flashnews/ethereum-fundstrat-eyes-path-10-000)**
 
 Ethereum at $1798.95 draws Fundstrat $10,000 call as Tom Lee flags undervaluation versus gold and real estate tokenization flows.
 
-blockchain.news • 12h ago
+blockchain.news • 15h ago
+
+---
+
+**[Robinhood Chain launch boosts Ethereum optimism; Saylor hints Bitcoin sale shift](https://cryptobriefing.com/robinhood-chain-launch-boosts-ethereum-optimism-saylor-hints-bitcoin-sale-shift/)**
+
+Robinhood launches its Layer-2 solution, boosting Ethereum optimism. Bitcoin above $56K by July 13, 2026 at 99.9% YES.
+
+Crypto Briefing • 3h ago
+
+---
+
+**[How Block Builders Select and Order Transactions on the Ethereum Network](https://financefeeds.com/how-block-builders-select-transactions/)**
+
+Learn how block builders select transactions on Ethereum using priority fees, MEV ordering, and proposer-builder separation.
+
+FinanceFeeds • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC gears up for a breakout, ETH tests key EMA, XRP holds support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-gears-up-for-a-breakout-eth-tests-key-ema-xrp-holds-support-202607100351)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend recovery on Friday as risk sentiment improves modestly. Market anxiety eased after US President Donald Trump said on Thursday that Iran had contacted the US to discuss a potential deal, fueling hopes of easing geopolitical tensions.
+
+FXStreet • 2d ago
 
 ---
 
@@ -234,13 +234,13 @@ blockchain.news • 12h ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
+**[Ethereum&#39;s 2019 Crypto Bull Market Signal Is BACK! (It&#39;s EVEN BIGGER This Time)](https://www.youtube.com/watch?v=scGsezikvwU)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
 
-📺 Jordan Camirand
+📺 Crypto Capital Venture
 
-👁️ 8K • 👍 611 • 💬 551 • ⏱️ 24:07 • 1d ago
+👁️ 913 • 👍 150 • 💬 60 • ⏱️ 15:11 • 1h ago
 
 ---
 
@@ -250,7 +250,27 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 2K • 👍 279 • 💬 117 • ⏱️ 13:44 • 3h ago
+👁️ 4K • 👍 421 • 💬 188 • ⏱️ 13:44 • 6h ago
+
+---
+
+**[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 8K • 👍 622 • 💬 538 • ⏱️ 24:07 • 1d ago
+
+---
+
+**[Crypto Holders - Get Ready! Big Changes Coming Soon To Crypto!](https://www.youtube.com/watch?v=7aL7mJRyu84)**
+
+Crypto Holders - Get Ready! Big Changes Coming Soon To Crypto! ITRUST CAPITAL - GET IT HERE: ...
+
+📺 Austin Hilton
+
+👁️ 4K • 👍 304 • 💬 9 • ⏱️ 6:41 • 7h ago
 
 ---
 
@@ -260,7 +280,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 117 • 💬 27 • ⏱️ 18:37 • 1d ago
+👁️ 4K • 👍 120 • 💬 27 • ⏱️ 18:37 • 1d ago
 
 ---
 
@@ -270,7 +290,7 @@ In this video I break down the latest Ethereum price analysis using an Elliott W
 
 📺 More Crypto Online
 
-👁️ 865 • 👍 84 • 💬 11 • ⏱️ 5:14 • 3h ago
+👁️ 1K • 👍 103 • 💬 11 • ⏱️ 5:14 • 6h ago
 
 ---
 
@@ -280,17 +300,7 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 2K • 👍 141 • 💬 32 • ⏱️ 16:06 • 17h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EdVoKXkF-nQ)**
-
-BITCOIN & CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 246 • 💬 123 • ⏱️ 20:15 • 6h ago
+👁️ 2K • 👍 147 • 💬 33 • ⏱️ 16:06 • 20h ago
 
 ---
 
@@ -300,17 +310,7 @@ Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━�
 
 📺 Kamilah Stevenson
 
-👁️ 2K • 👍 169 • 💬 33 • ⏱️ 0:39 • 4h ago
-
----
-
-**[HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows](https://www.youtube.com/watch?v=mTjKDEh-A3U)**
-
-HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows Support The O Show with Ref Links: ...
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 208 • 💬 18 • ⏱️ 9:31 • 1d ago
+👁️ 3K • 👍 234 • 💬 39 • ⏱️ 0:39 • 7h ago
 
 ---
 
@@ -320,17 +320,17 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 63 • 💬 13 • ⏱️ 10:40 • 1d ago
+👁️ 3K • 👍 65 • 💬 14 • ⏱️ 10:40 • 1d ago
 
 ---
 
-**[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
+**[BITCOIN &amp; CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EdVoKXkF-nQ)**
 
-Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
+BITCOIN & CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Milk Road
+📺 Crypto World
 
-👁️ 2K • 👍 98 • 💬 137 • ⏱️ 10:43 • 1d ago
+👁️ 5K • 👍 272 • 💬 152 • ⏱️ 20:15 • 9h ago
 
 ---
 

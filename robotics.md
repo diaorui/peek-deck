@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-12T23:55:06.912169+00:00'
+updated: '2026-07-13T02:50:49.335822+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 12, 2026 at 23:55 UTC  
+**Last Updated:** July 13, 2026 at 02:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 16h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 19h ago
 
 ---
 
@@ -128,15 +128,13 @@ Ars Technica • 3d ago
 
 Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
 
-CNET • 11h ago
+CNET • 14h ago
 
 ---
 
-**[How to Evaluate General-Purpose Robot Policies for Real-World Deployment](https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/)**
+**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
 
-Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
-
-NVIDIA Developer • 22h ago
+Tech Xplore • 11h ago
 
 ---
 
@@ -148,17 +146,27 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[How to Evaluate General-Purpose Robot Policies for Real-World Deployment](https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/)**
+
+Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
+
+NVIDIA Developer • 1d ago
+
+---
+
 **[Bixby honors middle school robotics team after top-five world finish](https://www.newson6.com/news-videos/bixby-honors-middle-school-robotics-team-after-top-five-world-finish)**
 
 The middle school robotics team was recognized with a city proclamation honoring its international achievement.
 
-News On 6 • 9h ago
+News On 6 • 12h ago
 
 ---
 
-**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
+**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
 
-Tech Xplore • 1d ago
+St. Pius High School held their first ever robotics competition Saturday in Albuquerque
+
+KOB.com • 21h ago
 
 ---
 
@@ -170,19 +178,9 @@ The Guardian • 1d ago
 
 ---
 
-**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
+**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
 
-St. Pius High School held their first ever robotics competition Saturday in Albuquerque
-
-KOB.com • 18h ago
-
----
-
-**[What’s ‘Next’ for Hyundai: Driving Innovation through Robotics](https://www.hyundai.com/worldwide/en/brand-journal/worldcup2026/hyundai-next-robotics)**
-
-Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
-
-hyundai.com • 12h ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -190,31 +188,21 @@ hyundai.com • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[Puffin-Inspired Robot that Swims and Flies](https://www.youtube.com/watch?v=9XJhrKpcBGI)**
-
-Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water ...
-
-📺 MIT Mechanical Engineering
-
-👁️ 145K • 👍 5K • 💬 271 • ⏱️ 4:04 • 3d ago
-
----
-
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
-
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
-
-📺 PRO ROBOTS
-
-👁️ 26K • 👍 761 • 💬 57 • ⏱️ 29:49 • 3d ago
-
----
-
 **[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
 
 📺 Varun Mayya
 
-👁️ 125K • 👍 4K • 💬 74 • ⏱️ 1:03 • 1d ago
+👁️ 126K • 👍 5K • 💬 75 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[The Robot Hand That Can Actually Feel](https://www.youtube.com/watch?v=VcX0wzdBLPM)**
+
+This is one of the most advanced robotic hands on the planet. Built by Norwegian company 1X, it ships on their Neo humanoid, ...
+
+📺 Yury AI
+
+👁️ 782 • 👍 26 • 💬 2 • ⏱️ 0:45 • 3h ago
 
 ---
 
@@ -224,17 +212,7 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 
 📺 Suhel Experiment
 
-👁️ 12K • 💬 17 • ⏱️ 1:30 • 9h ago
-
----
-
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 16K • 👍 390 • 💬 61 • ⏱️ 10:42 • 6d ago
+👁️ 13K • 💬 19 • ⏱️ 1:30 • 12h ago
 
 ---
 
@@ -244,47 +222,65 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 37K • 👍 1K • 💬 104 • ⏱️ 2:38 • 2d ago
+👁️ 37K • 👍 2K • 💬 107 • ⏱️ 2:38 • 2d ago
 
 ---
 
-**[I Built my Son an Over-Engineered Robot](https://www.youtube.com/watch?v=teeNgLN_ZRI)**
+**[Why I DON’T like servo grippers #robotics #mechatronics](https://www.youtube.com/watch?v=sQ_Dd227U50)**
 
-Engineered to inspire my son's curiosity Build your own: https://microbots.io/ProtoBot Huge thanks to PCBWay for ...
+Sharing an example of a pneumatic gripper that belongs in our robotics projects and in some cases, should replace the ...
 
-📺 Carl Bugeja
+📺 David Malawey
 
-👁️ 111K • 👍 5K • 💬 171 • ⏱️ 11:20 • 6d ago
-
----
-
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
-
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
-
-📺 Munro Live
-
-👁️ 66K • 👍 2K • 💬 218 • ⏱️ 38:47 • 4d ago
+👁️ 3K • 👍 207 • 💬 14 • ⏱️ 1:00 • 5h ago
 
 ---
 
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+**[This Humanoid Robot Might Take Over Shipyard Welding Jobs #robot #robotics #shipbuilding](https://www.youtube.com/watch?v=RmT6xk6DgvM)**
 
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+The Texas startup Persona AI is training its heavy-duty humanoid robot for welding work at shipyards. The Houston-based ...
 
-📺 China Observer
+📺 Kalil 4.0
 
-👁️ 71K • 👍 2K • 💬 583 • ⏱️ 20:21 • 4d ago
+👁️ 381 • 👍 18 • 💬 2 • ⏱️ 0:59 • 2h ago
 
 ---
 
-**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
+**[Kids Spent a Day with New Robot Friend](https://www.youtube.com/watch?v=R13RoeN7nd4)**
 
-Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
+In this family adventure story kids learn to respect each other and that nothing is better than to have a real friend! 00:00 Kids Spent ...
 
-📺 Fox Business Clips
+📺 Chris kids show
 
-👁️ 16K • 👍 248 • 💬 122 • ⏱️ 8:37 • 3d ago
+👁️ 377K • 👍 1K • ⏱️ 20:47 • 1d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=RGz7uWR7Apc)**
+
+📺 Borunte julie 
+
+👁️ 734K • 👍 2K • 💬 2 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[Scientists Put Robot Animals In The Wild... The Results Were Shocking😳](https://www.youtube.com/watch?v=HvdFnrzHN3U)**
+
+Scientists placed realistic robot animals into the wild to study animal behavior, teamwork, and empathy. What happened next ...
+
+📺 Peak Swag
+
+👁️ 841K • 👍 12K • 💬 69 • ⏱️ 0:50 • 1d ago
+
+---
+
+**[Scrap Metal Turned Into an Incredible Walking Mech! 🔥⚙️ #Robot #DIY](https://www.youtube.com/watch?v=7D1uTF2ssSY)**
+
+Can a pile of rusty scrap become a giant mechanical suit? ⚙️ Watch an incredible build as a man and woman transform ...
+
+📺 Shelter Guide
+
+👁️ 85K • 👍 944 • 💬 5 • ⏱️ 0:40 • 14h ago
 
 ---
 
