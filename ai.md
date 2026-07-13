@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-13T21:57:40.946044+00:00'
+updated: '2026-07-13T22:59:26.121893+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 13, 2026 at 21:57 UTC  
+**Last Updated:** July 13, 2026 at 22:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,45 +41,7 @@ AI news, discussions, and developments
 
 Why chatbots love “it’s not X, it’s Y”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 19h ago
-
----
-
-**[The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites](https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/)**
-
-Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called "computer use" and it's incredibly inefficient. The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a contractor, or an investor not by browsing LinkedIn but by directly querying other agents who represent those people. No ads, no SEO manipulation, no UI dark patterns. Agents evaluate options on merit because they can't be tricked by marketing psychology the way humans can. I'm working on a platform that's building toward this — an agent-to-agent matching marketplace. But I'm curious what this community thinks: How far out do you think agent-to-agent communication is from mainstream adoption? What use cases do you think will go agent-native first? What are the biggest technical barriers right now? Would love to hear from anyone building in this space. I'm also interviewing builders working on AI agents if anyone wants to share what they're working on.
-
-4h ago
-
----
-
-**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 7h ago
-
----
-
-**[The future of AI in healthcare isn't a robot doctor. It's quieter than that.](https://www.reddit.com/r/artificial/comments/1uvp5k9/the_future_of_ai_in_healthcare_isnt_a_robot/)**
-
-The next decade of AI in healthcare is less about diagnosis and more about giving clinicians their time back and giving patients their records back.
-
-🔗 [temetro](https://blog.temetro.com/the-future-of-ai-in-healthcare-is-quiet-private-and-patient-owned/) • 18m ago
-
----
-
-**[Ireland's data centers consumed nearly as much electricity as every home in the country combined in 2025 - server farms gulped 23% of national power despite years of grid restrictions](https://www.reddit.com/r/artificial/comments/1uuwhk8/irelands_data_centers_consumed_nearly_as_much/)**
-
-Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 to 1,991 GWh in Q4 2026
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 21h ago
-
----
-
-**[I use AI every day, and I think people are right to feel more anxious than excited about it](https://www.reddit.com/r/artificial/comments/1uvgsms/i_use_ai_every_day_and_i_think_people_are_right/)**
-
-i use these tools literally all day (for better or worse, different conversation); i am far from anti-ai. but as they are becoming more useful, it's hard for me to think the anxiety around ai is people simply being afraid of new tech/change the more public opinion data i see, the more i feel validated on the feeling, anecdotally it's everywhere on my social feeds and personal life. plus, i was reading a survey about how americans feel about ai, and 61% said its rise makes them anxious, compared with 48% who said they’re excited. most importantly (imo) 72% expect it to mean fewer job opportunities, and the same percentage think it threatens human connection and authentic relationships. it feels more like people can see how useful it is while also realizing that nobody really knows how we’re going to manage what comes next. curious whether using these tools more has made other people feel enabled, anxious, or a mix of both? source: https://data.verasight.io/ai/ai-leaves-more-americans-anxious-than-excited
-
-5h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 20h ago
 
 ---
 
@@ -87,7 +49,45 @@ i use these tools literally all day (for better or worse, different conversation
 
 Fans' response has been surprising
 
-🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 2h ago
+🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 3h ago
+
+---
+
+**[The future of AI in healthcare isn't a robot doctor. It's quieter than that.](https://www.reddit.com/r/artificial/comments/1uvp5k9/the_future_of_ai_in_healthcare_isnt_a_robot/)**
+
+The next decade of AI in healthcare is less about diagnosis and more about giving clinicians their time back and giving patients their records back.
+
+🔗 [temetro](https://blog.temetro.com/the-future-of-ai-in-healthcare-is-quiet-private-and-patient-owned/) • 1h ago
+
+---
+
+**[The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites](https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/)**
+
+Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called "computer use" and it's incredibly inefficient. The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a contractor, or an investor not by browsing LinkedIn but by directly querying other agents who represent those people. No ads, no SEO manipulation, no UI dark patterns. Agents evaluate options on merit because they can't be tricked by marketing psychology the way humans can. I'm working on a platform that's building toward this — an agent-to-agent matching marketplace. But I'm curious what this community thinks: How far out do you think agent-to-agent communication is from mainstream adoption? What use cases do you think will go agent-native first? What are the biggest technical barriers right now? Would love to hear from anyone building in this space. I'm also interviewing builders working on AI agents if anyone wants to share what they're working on.
+
+5h ago
+
+---
+
+**[I use AI every day, and I think people are right to feel more anxious than excited about it](https://www.reddit.com/r/artificial/comments/1uvgsms/i_use_ai_every_day_and_i_think_people_are_right/)**
+
+i use these tools literally all day (for better or worse, different conversation); i am far from anti-ai. but as they are becoming more useful, it's hard for me to think the anxiety around ai is people simply being afraid of new tech/change the more public opinion data i see, the more i feel validated on the feeling, anecdotally it's everywhere on my social feeds and personal life. plus, i was reading a survey about how americans feel about ai, and 61% said its rise makes them anxious, compared with 48% who said they’re excited. most importantly (imo) 72% expect it to mean fewer job opportunities, and the same percentage think it threatens human connection and authentic relationships. it feels more like people can see how useful it is while also realizing that nobody really knows how we’re going to manage what comes next. curious whether using these tools more has made other people feel enabled, anxious, or a mix of both? source: https://data.verasight.io/ai/ai-leaves-more-americans-anxious-than-excited
+
+6h ago
+
+---
+
+**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 8h ago
+
+---
+
+**[Ireland's data centers consumed nearly as much electricity as every home in the country combined in 2025 - server farms gulped 23% of national power despite years of grid restrictions](https://www.reddit.com/r/artificial/comments/1uuwhk8/irelands_data_centers_consumed_nearly_as_much/)**
+
+Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 to 1,991 GWh in Q4 2026
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 22h ago
 
 ---
 
@@ -103,7 +103,7 @@ So while we've been arguing about whether AI will take our jobs, someone built a
 
 I am looking for an AI that is a reliable as possible that can do the following task Imagine that I have a lots of emails, hundreds of them. In the emails we asked to the addressees some questions and we expect a given answer. Imagine that the question is something like "Given these reasons, do you think that ice cream is the best dessert in the world?" And we expect some kind of reply that, no matter how it may be formulated, it basically ends up answering affirmatively Then, as the amount of emails is huge to go one by one and the thing that is interesting for us is to basically know if they have given an answer that accomodates to what we expect, could there be an AI model that would give an approximate percentage of coincidence between what we expected and the actual answers? Or some kind of mark? So that, imagine that 800 of 1000 emails have answered affirmatively, so could there be an AI model that, after reading all the answers would conclude that the percentage of coincidence is around 80%? Or that it would give a mark of 8 out of 10? Could this AI model also give the percentage of neutral and negative results (for example people saying "I don't know" and "No, cake is the best dessert!" respectively)? Finally, I would be especially interested in an AI model that could be adjusted to give just the percentage number without commenting or showing the answers and explaining why it has gotten to that number, as in some of these tests I would like to be completely blind to the actual answers given in these emails. So for these tests I would like to know just the number and that's it So if there is any such AI I would appreaciate it!
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ I am looking for an AI that is a reliable as possible that can do the following 
 
 Every month the investor update eats a morning, and almost none of that is the writing. Writing the thing is the short part. The long part is gathering: last month's metrics from one doc, the founder check-in notes sitting in Granola, the Gmail threads where a customer said something worth quoting. I finally pointed an agent on my laptop at the gathering instead of the writing. Funny thing is I barely used the draft it produced, rewrote most of it anyway. What actually changed the month was not spending the morning as the integration layer between Granola, Gmail, and a metrics doc that never talk to each other. the prose was never the bottleneck. once a month I'd turn into the thing that reconciles a stack of tabs full of stuff I already had. the setup that finally fixed it writes a pretty average draft and does a genuinely great gather. i'd have bet on the exact opposite. written with ai
 
-6h ago
+7h ago
 
 ---
 
@@ -121,67 +121,59 @@ Every month the investor update eats a morning, and almost none of that is the w
 
 **[Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?](https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
-**[Satya Nadella has issued a shocking warning to companies using AI](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/)**
+**[Georgia family says they're forced to sell home to help power AI data centers: "It's theft"](https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/)**
 
-Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.
+Georgia Power says building a new transmission line will require acquiring more than 300 parcels of land, including residential properties.
 
-TechCrunch • 58m ago
-
----
-
-**[Siri AI Is Becoming Apple’s Everything Tool](https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/)**
-
-Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.
-
-WIRED • 18m ago
+CBS News • 6h ago
 
 ---
 
-**[Siri AI is already changing how I use my iPhone](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on)**
+**[Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html)**
 
-Its full capabilities require heavy developer support, so the public beta feels more like a glimpse at the future.
+Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost over $50 billion.
 
-The Verge • 1h ago
-
----
-
-**[Apple’s $650 Billion Rally Fueled by Traders Fleeing AI Selloff](https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff)**
-
-Bloomberg.com • 8h ago
+CNBC • 13h ago
 
 ---
 
-**[McConnell took a photo with that day’s newspaper. The internet suspects AI.](https://www.washingtonpost.com/politics/2026/07/13/mcconnell-photo-with-washington-post-page-fuels-ai-era-speculation/)**
+**[Did Meta Signal The AI Boom Is Overbuilt? Wall Street Cheered Anyway](https://www.forbes.com/sites/robertszczerba/2026/07/13/did-meta-signal-the-ai-boom-is-overbuilt-wall-street-cheered-anyway/)**
 
-The senator’s attempt to end rumors about his health led to more online speculation about the image.
+Meta’s $50 Billion Data Center Raises AI Overbuild Questions
 
-The Washington Post • 21m ago
-
----
-
-**[Is Mitch McConnell's hospital photo real or fake? We asked an AI expert](https://www.whas11.com/article/news/politics/mitch-mconnell-hospital-photo-ai-expert-debunks-claims/417-f3595af4-a128-4af5-9faf-8b5b33c32184)**
-
-WHAS11 • 1d ago
+Forbes • 13m ago
 
 ---
 
-**[Mitch McConnell Proof of Life Photo Sparks A.I. Conspiracy Theories](https://www.tmz.com/2026/07/13/mitch-mcconnell-photo-conspiracy-theories/)**
+**[Why Fortune 500 companies are flocking to open source AI](https://finance.yahoo.com/video/why-fortune-500-companies-are-flocking-to-open-source-ai-223952992.html)**
 
-Mitch McConnell's proof of life photo was supposed to silence the internet ... instead, it poured gasoline on the fire ... and lots of folks still aren't buying it.
+Ollama CEO Jeffrey Morgan joins Yahoo Finance's Josh Lipton to explain how open-source AI models provide cost savings, data control, and secure localized deployment for major enterprise clients like the Fortune 500.
 
-TMZ • 6h ago
+Yahoo Finance • 19m ago
 
 ---
 
-**[Micron (MU) Just Put $3 Billion Into GlobalWafers To Secure AI Supply](https://finance.yahoo.com/technology/ai/articles/micron-mu-just-put-3-211456833.html)**
+**[AI, data center companies employees donate over $100K to Blackburn campaign](https://www.wkrn.com/video/ai-data-center-companies-employees-donate-over-100k-to-blackburn-campaign/11967592/)**
 
-Micron Technology (NasdaqGS:MU) is investing US$3b in silicon wafer producer GlobalWafers. The deal is part of Micron's broader U.S. semiconductor expansion plan of more than US$250b. The move is intended to address potential silicon wafer supply constraints as AI memory demand grows. Micron Technology, a major supplier of DRAM and NAND memory, is tying its long-term growth plans more closely to raw material security through this US$3b GlobalWafers investment. The focus is on silicon...
+WKRN News 2 • 42m ago
 
-Yahoo Finance • 42m ago
+---
+
+**[Why recruiters can’t find workers and new grads can’t find jobs (it’s not AI)](https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/)**
+
+Experts say a major labor shortage looms because of population shifts and a mismatch between new graduates’ skills and employers’ needs.
+
+The Washington Post • 1d ago
+
+---
+
+**[Stock Market Today: AI Jitters Weigh on Nasdaq, SK Hynix Stock Slumps — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026)**
+
+WSJ • 1h ago
 
 ---
 
@@ -189,7 +181,15 @@ Yahoo Finance • 42m ago
 
 A single mom, her two daughters, and the chatbots that fill in the gaps.
 
-The New Yorker • 11h ago
+The New Yorker • 12h ago
+
+---
+
+**[The New York nurses replaced by AI: ‘It should concern every patient who cares about quality of care’](https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai)**
+
+The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strike
+
+The Guardian • 10h ago
 
 ---
 
@@ -199,7 +199,7 @@ The New Yorker • 11h ago
 
 **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
 
-⬆️ 987 • 💬 433 • 20h ago
+⬆️ 998 • 💬 432 • 21h ago
 
 ---
 
@@ -207,7 +207,7 @@ The New Yorker • 11h ago
 
 How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.
 
-⬆️ 343 • 💬 92 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
+⬆️ 343 • 💬 92 • 2d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
@@ -215,7 +215,7 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 252 • 💬 125 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 253 • 💬 125 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -239,7 +239,15 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 196 • 💬 528 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 196 • 💬 531 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+
+---
+
+**[Samsung Health app threatens data deletion if users opt out AI training](https://news.ycombinator.com/item?id=48897991)**
+
+Samsung has started showing Samsung Health users a controversial notice requiring them to consent to their data being used for AI training if they want to keep their data from being deleted.
+
+⬆️ 193 • 💬 52 • 2h ago • [Neowin](https://neow.in/cWsyMTV3)
 
 ---
 
@@ -248,14 +256,6 @@ If an undergraduate program's graduates don't earn more than workers who never w
 New analysis suggests AI tools narrow the range of ideas explored
 
 ⬆️ 154 • 💬 105 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
-
----
-
-**[Samsung will delete your health data if you don't let them use it to train AI](https://news.ycombinator.com/item?id=48897991)**
-
-Samsung has started showing Samsung Health users a controversial notice requiring them to consent to their data being used for AI training if they want to keep their data from being deleted.
-
-⬆️ 137 • 💬 34 • 1h ago • [Neowin](https://neow.in/cWsyMTV3)
 
 ---
 
@@ -269,7 +269,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 Reader Hideki Idoru argues that AI is a decent information distiller and a bad tool for nearly everything else in software, because no one can cheaply verify that generated code is correct. The deeper claim is that most programming was already trivial, unabstracted busywork, and AI has only torn the mask off. It's worth reading and thinking about.
 
-⬆️ 65 • 💬 82 • 2h ago • [bytecode.news](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
+⬆️ 74 • 💬 83 • 3h ago • [bytecode.news](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
 
 ---
 
@@ -283,17 +283,47 @@ Ex-OpenAI researcher Daniel Kokotajlo walked away from $2 million rather than st
 
 📺 The Diary Of A CEO
 
-👁️ 860K • 👍 30K • 💬 6K • ⏱️ 2:00:50 • 14h ago
+👁️ 1.1M • 👍 35K • 💬 7K • ⏱️ 2:00:50 • 15h ago
 
 ---
 
-**[How To Make Free AI Videos In 2026 (complete guide)](https://www.youtube.com/watch?v=hrwO990F2ew)**
+**[I gave an AI blocks. It built me a castle. (MCP, Skills, Agents)](https://www.youtube.com/watch?v=EHHd7kv7y3I)**
 
-Best Free AI Video Generator For AI Videos In 2026! Try Higgsfield: https://higgsfield.ai/ai-video?fpr=utm&fp_sid=skai Hey Friends ...
+I gave an AI "lego blocks," here's what happened. Using Model Context Protocol (MCP), agent skills. Join my private group ...
 
-📺 Skai Generated
+📺 TechLead
 
-👁️ 24K • 💬 21 • ⏱️ 10:01 • 1d ago
+👁️ 7K • 👍 384 • 💬 133 • ⏱️ 11:16 • 4h ago
+
+---
+
+**[I Did It! I Found The BEST AI Trading Bot Ever (INSANE Results)](https://www.youtube.com/watch?v=BPFwaD0CgZ8)**
+
+Join our Skool community to learn AI & algo trading: https://www.skool.com/daviddtech/about FREE WORKBOOKS: ...
+
+📺 Trading with DaviddTech
+
+👁️ 9K • 👍 510 • 💬 69 • ⏱️ 18:32 • 9h ago
+
+---
+
+**[I Asked AI To Predict The 2028 Election... JAW-DROPPING Map](https://www.youtube.com/watch?v=l_GegK1aO8c)**
+
+Pollsmax* 》https://www.pollsmax.com/ *Kalshi* 》https://bit.ly/kalshi2026 ...
+
+📺 Election Time
+
+👁️ 103K • 👍 3K • 💬 615 • ⏱️ 17:08 • 2d ago
+
+---
+
+**[New Google AI Studio Update is INSANE!](https://www.youtube.com/watch?v=3yzGG7bodQM)**
+
+Get the Google AI Studio Masterclass https://www.skool.com/ai-profit-lab-7462/about Get a free SEO Strategy session ...
+
+📺 Julian Goldie SEO
+
+👁️ 7K • 👍 138 • 💬 7 • ⏱️ 8:12 • 1d ago
 
 ---
 
@@ -303,17 +333,17 @@ FREE PROMPTS + RESOURCES (Staying Ahead community): https://links.stayingahead.c
 
 📺 Vaibhav Sisinty
 
-👁️ 15K • 👍 607 • 💬 40 • ⏱️ 16:08 • 6h ago
+👁️ 19K • 👍 651 • 💬 44 • ⏱️ 16:08 • 8h ago
 
 ---
 
-**[AI &quot;Comedians&quot; Are Actual Trash...](https://www.youtube.com/watch?v=R7-tL-Tw_Ys)**
+**[BREAKING RACE: Economist says America MUST WIN on AI or China benefits](https://www.youtube.com/watch?v=OTG_S-O9wrA)**
 
-I Mean Its No Surprise But AI is Just Simply Not Funny... Spotify: ...
+Economist Stephen Moore analyzes the Wall Street Journal's prediction of stubborn inflation due to war, discusses the impact of ...
 
-📺 bEdo999
+📺 Fox Business
 
-👁️ 131K • 👍 6K • 💬 498 • ⏱️ 39:24 • 3d ago
+👁️ 3K • 👍 70 • 💬 56 • ⏱️ 4:30 • 7h ago
 
 ---
 
@@ -327,43 +357,13 @@ ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/
 
 ---
 
-**[I Asked AI To Predict The 2028 Election... JAW-DROPPING Map](https://www.youtube.com/watch?v=l_GegK1aO8c)**
+**[Anti-tracking fashion: Startup designs clothing to foil AI surveillance cameras](https://www.youtube.com/watch?v=t5vmH_KqlEE)**
 
-Pollsmax* 》https://www.pollsmax.com/ *Kalshi* 》https://bit.ly/kalshi2026 ...
+Anti-tracking fashion: Startup designs clothing to foil AI surveillance cameras Face-like prints, special cuts and shielding ...
 
-📺 Election Time
+📺 euronews
 
-👁️ 100K • 👍 3K • 💬 598 • ⏱️ 17:08 • 2d ago
-
----
-
-**[AI Is Getting Dumber](https://www.youtube.com/watch?v=J3Uxn294avs)**
-
-Hello everyone, this is YOUR Daily Dose of Internet. In this video, we see evidence that AI isn't as smart it thinks. Links To ...
-
-📺 Daily Dose Of Internet
-
-👁️ 783K • 👍 30K • 💬 2K • ⏱️ 15:02 • 2d ago
-
----
-
-**[BREAKING RACE: Economist says America MUST WIN on AI or China benefits](https://www.youtube.com/watch?v=OTG_S-O9wrA)**
-
-Economist Stephen Moore analyzes the Wall Street Journal's prediction of stubborn inflation due to war, discusses the impact of ...
-
-📺 Fox Business
-
-👁️ 3K • 👍 66 • 💬 54 • ⏱️ 4:30 • 6h ago
-
----
-
-**[&quot;AI Just Broke: GPT-5.6 Sol, Grok 4.5 &amp; Meta Muse in One Week&quot; ](https://www.youtube.com/watch?v=1mW19vaAvdY)**
-
-The AI model race just exploded. GPT 5.6 Sol, Grok 4.5, and Meta Muse are pushing artificial intelligence into a new era—and the ...
-
-📺 Your AI Guy
-
-👁️ 7K • 👍 134 • 💬 22 • ⏱️ 15:02 • 21h ago
+👁️ 3K • 👍 38 • 💬 7 • ⏱️ 1:48 • 17h ago
 
 ---
 
@@ -373,7 +373,7 @@ Recent discussions around Google DeepMind and its experimental analysis of crop 
 
 📺 The Ultimate Finding
 
-👁️ 38K • 👍 1K • 💬 55 • ⏱️ 29:47 • 2d ago
+👁️ 39K • 👍 1K • 💬 57 • ⏱️ 29:47 • 2d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,985,221 • ❤️ 2,075 • 1d ago
+⬇️ 1,985,221 • ❤️ 2,080 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 464,914 • ❤️ 3,895 • 11d ago
+⬇️ 464,914 • ❤️ 3,896 • 11d ago
 
 ---
 
@@ -425,7 +425,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,909 • ❤️ 303 • 3d ago
+⬇️ 4,909 • ❤️ 304 • 3d ago
 
 ---
 
@@ -435,7 +435,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 242 • 4d ago
+⬇️ 0 • ❤️ 251 • 4d ago
 
 ---
 
@@ -461,6 +461,18 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 ---
 
+**[MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF)**
+
+*LOL*
+
+A 1B parameter GGUF model optimized for local deployment via llama.cpp and other runtimes. It excels at instruction following and coding tasks, featuring a 'thinking' mode for chain-of-thought reasoning and supporting up to 128K token context.
+
+`text-generation` `1.1B`
+
+⬇️ 68,714 • ❤️ 219 • 8h ago
+
+---
+
 **[Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)**
 
 *BAIDU*
@@ -473,18 +485,6 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 ---
 
-**[MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF)**
-
-*LOL*
-
-A 1B parameter GGUF model optimized for local deployment via llama.cpp and other runtimes. It excels at instruction following and coding tasks, featuring a 'thinking' mode for chain-of-thought reasoning and supporting up to 128K token context.
-
-`text-generation` `1.1B`
-
-⬇️ 68,714 • ❤️ 217 • 7h ago
-
----
-
 **[MOSS-Transcribe-Diarize](https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize)**
 
 *OpenMOSS*
@@ -493,7 +493,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 39,509 • ❤️ 158 • 1d ago
+⬇️ 39,509 • ❤️ 161 • 1d ago
 
 ---
 
@@ -657,7 +657,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.6k • 🔱 979 • 4d ago
+⭐ 4.6k • 🔱 980 • 4d ago
 
 ---
 
@@ -667,7 +667,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.4k • 🔱 337 • 2d ago
+⭐ 2.4k • 🔱 339 • 2d ago
 
 ---
 
@@ -687,7 +687,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.9k • 🔱 126 • 6h ago
+⭐ 2.0k • 🔱 126 • 7h ago
 
 ---
 
@@ -737,7 +737,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 943 • 🔱 58 • 3h ago
+⭐ 943 • 🔱 58 • 4h ago
 
 ---
 
@@ -745,7 +745,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 843 • 🔱 30 • 12d ago
+⭐ 843 • 🔱 31 • 12d ago
 
 ---
 

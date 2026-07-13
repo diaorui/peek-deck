@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-13T21:57:40.957094+00:00'
+updated: '2026-07-13T22:59:26.135265+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 21:57 UTC  
+**Last Updated:** July 13, 2026 at 22:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $213.23B
+**Market Cap:** $211.94B
 Rank #2
 
 **Circulating Supply:** 120,683,011 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.3%
+-64.5%
 
 **All-Time Low:** $0.43
-+407972.9%
++405358.5%
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 6h ago
 
 Bitcoin opened at $63,745.37 on Monday, July 13, 2026, 0.2% lower than Sunday's opening price. As of 9:06 a.m. ET this morning, bitcoin moved down to $62,568.10. Ethereum opened at $1,805.49, up 1% from Sunday's opening price. The price of ethereum moved lower this morning to $1,770.99.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -170,15 +170,7 @@ Yahoo Finance • 8h ago
 
 BTC kept meeting absorption in June, and ETH came closer to follow-through. Price may give the first impression, but the stack decides whether that impression holds.
 
-Seeking Alpha • 2h ago
-
----
-
-**[iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?](https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/)**
-
-One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
-
-The Motley Fool • 1d ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -186,7 +178,7 @@ The Motley Fool • 1d ago
 
 The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
@@ -194,7 +186,7 @@ FXStreet • 9h ago
 
 Track What price will Ethereum hit in July prediction market analysis with live Polymarket odds, probabilities, volume, liquidity, and market-moving catalysts.
 
-CryptoSlate • 4h ago
+CryptoSlate • 5h ago
 
 ---
 
@@ -202,7 +194,21 @@ CryptoSlate • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 3h ago
+
+---
+
+**[Ethereum Price to $10,000? Eric Trump Under Fire for Claims ETH Is ‘Bumping Hard’](https://www.ccn.com/news/crypto/ethereum-price-10000-eric-trump-eth-bumping-higher/)**
+
+CCN.com • 12h ago
+
+---
+
+**[Why Bitmine Immersion Stock Collapsed 51% In The First Half of 2026](https://www.fool.com/investing/2026/07/13/why-bitmine-immersion-stock-collapsed-51-in-the-fi/)**
+
+The Ethereum treasury business is falling along with the cryptocurrency.
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -216,15 +222,7 @@ thestreet.com • 2d ago
 
 Explore the latest Ethereum price prediction, Zcash price outlook, and why BlockDAG is gaining attention as the best crypto to buy now with 100% bonus and massive utility!
 
-FinanceFeeds • 4h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Got Clobbered in Q2: Here's What Will Decide Their Fate in Q3](https://www.benzinga.com/crypto/cryptocurrency/26/07/60381556/bitcoin-ethereum-xrp-got-clobbered-in-q2-heres-what-will-decide-their-fate-in-q3)**
-
-Bitwise says crypto faces its toughest test since 2022 as Bitcoin demand outpaces supply and the CLARITY Act looms over Q3.
-
-Benzinga • 3d ago
+FinanceFeeds • 5h ago
 
 ---
 
@@ -232,33 +230,13 @@ Benzinga • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN &amp; CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NRgw2CAnbyc)**
-
-BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 153 • 💬 152 • ⏱️ 19:28 • 3h ago
-
----
-
 **[Ethereum&#39;s 2019 Crypto Bull Market Signal Is BACK! (It&#39;s EVEN BIGGER This Time)](https://www.youtube.com/watch?v=scGsezikvwU)**
 
 My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 562 • 💬 235 • ⏱️ 15:11 • 20h ago
-
----
-
-**[ETHEREUM: THE REAL MOST HATED RALLY](https://www.youtube.com/watch?v=-cWisMcB35I)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 8K • 👍 557 • 💬 372 • ⏱️ 13:44 • 1d ago
+👁️ 9K • 👍 571 • 💬 236 • ⏱️ 15:11 • 21h ago
 
 ---
 
@@ -268,17 +246,27 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 654 • 💬 550 • ⏱️ 24:07 • 2d ago
+👁️ 9K • 👍 659 • 💬 550 • ⏱️ 24:07 • 2d ago
 
 ---
 
-**[Ethereum&#39;s Biggest Prediction Yet? Tom Lee&#39;s Bold Crypto Call | Top Crypto Headlines](https://www.youtube.com/watch?v=DJHBHOEO52Y)**
+**[ETHEREUM: THE REAL MOST HATED RALLY](https://www.youtube.com/watch?v=-cWisMcB35I)**
 
-Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus. In today's Crypto Minutes, we cover institutional ...
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
-📺 NDTV Profit
+📺 Jordan Camirand
 
-👁️ 669 • 👍 15 • 💬 1 • ⏱️ 3:43 • 14h ago
+👁️ 8K • 👍 562 • 💬 420 • ⏱️ 13:44 • 1d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NRgw2CAnbyc)**
+
+BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 220 • 💬 184 • ⏱️ 19:28 • 4h ago
 
 ---
 
@@ -292,23 +280,33 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 ---
 
+**[Ethereum&#39;s Biggest Prediction Yet? Tom Lee&#39;s Bold Crypto Call | Top Crypto Headlines](https://www.youtube.com/watch?v=DJHBHOEO52Y)**
+
+Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus. In today's Crypto Minutes, we cover institutional ...
+
+📺 NDTV Profit
+
+👁️ 696 • 👍 15 • 💬 1 • ⏱️ 3:43 • 15h ago
+
+---
+
+**[It&#39;s happening again! BTC &amp; ETH Analysis](https://www.youtube.com/watch?v=xFBh6AVzevo)**
+
+Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord https://discord.com/invite/cobratrades Bitunix- ...
+
+📺 Crypto Cobra
+
+👁️ 734 • 👍 64 • 💬 66 • ⏱️ 18:44 • 4h ago
+
+---
+
 **[Eli Ben-Sasson says the biggest risk to Ethereum is that “something more modern, better.”](https://www.youtube.com/watch?v=TbsXQrfmkFU)**
 
 DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe to CoinDesk on YouTube: ...
 
 📺 CoinDesk
 
-👁️ 740 • 👍 3 • ⏱️ 0:36 • 9h ago
-
----
-
-**[Ethereum price prediction - ETH can make millionaires](https://www.youtube.com/watch?v=jwviNt99gQQ)**
-
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
-
-📺 Crypto With James
-
-👁️ 3K • 👍 66 • 💬 18 • ⏱️ 10:40 • 2d ago
+👁️ 740 • 👍 3 • ⏱️ 0:36 • 10h ago
 
 ---
 
@@ -318,17 +316,17 @@ XPR The Super Haven for the Credit Unions! | Canton Is Ethereum REALLY ENOUGH?! 
 
 📺 Crypto Growth
 
-👁️ 158 • 👍 20 • ⏱️ 17:14 • 6h ago
+👁️ 215 • 👍 24 • 💬 2 • ⏱️ 17:14 • 7h ago
 
 ---
 
-**[Ethereum is breaking up. But there&#39;s... no fighting?](https://www.youtube.com/watch?v=sF3NlQBIQDE)**
+**[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
 
-Ethereum just got another major shake-up. On June 22, 2026, a group of former Ethereum Foundation researchers launched ...
+Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
 
-📺 Tim Ho
+📺 Milk Road
 
-👁️ 72 • 👍 11 • 💬 10 • ⏱️ 7:03 • 3h ago
+👁️ 3K • 👍 107 • 💬 11 • ⏱️ 10:43 • 2d ago
 
 ---
 
