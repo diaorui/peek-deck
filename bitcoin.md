@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-13T19:23:59.354678+00:00'
+updated: '2026-07-13T20:39:13.320984+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 19:23 UTC  
+**Last Updated:** July 13, 2026 at 20:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.4%  
-**7d:** -2.1%  
-**30d:** -5.7%  
-**90d:** -17.1%  
-**1y:** -48.3%  
+**24h:** -2.6%  
+**7d:** -1.7%  
+**30d:** -5.4%  
+**90d:** -16.8%  
+**1y:** -48.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1242.73B
+**Market Cap:** $1246.93B
 Rank #1
 
-**Circulating Supply:** 20,055,862 BTC
+**Circulating Supply:** 20,055,903 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.9%
+-50.7%
 
 **All-Time Low:** $67.81
-+91275.9%
++91587.1%
 
 ---
 
@@ -119,7 +119,7 @@ Hi r/Bitcoin, A few months ago I shared a slightly unusual experiment here: beer
 
 On February 24, 2026, Bitcoin exchange Bull Bitcoin filed a petition with France's Conseil d'État, the country's highest administrative court, seeking to annul Decree No. 2025-1276, France's implementation of the EU's DAC8 directive. What DAC8 actually requires DAC8 (Directive (EU) 2023/2226, adopted by the EU Council in 2023) took effect January 1, 2026. It requires "crypto-asset service providers", the exchanges most Bitcoin holders use to buy, sell, or cash out, to collect each customer's identity and transaction history and report it annually to their national tax authority. That data is then automatically exchanged with tax authorities in other EU member states, and eventually with non-EU countries that adopt the OECD's parallel Crypto-Asset Reporting Framework (CARF). Worth being precise here: DAC8 does not regulate self-custody or on-chain activity directly. It's a reporting obligation on regulated exchanges. But if you've ever bought or sold Bitcoin through an EU-licensed exchange, your identity is now tied, inside a government database, to your transaction history. Key dates DAC8 in force: January 1, 2026 French decree signed: December 19, 2025 (Décret n° 2025-1276) Summary petition filed: February 24, 2026, followed by a more detailed legal brief First reports (covering 2026 activity) due: before September 30, 2027, after which automatic cross-border data exchange begins The legal argument Bull Bitcoin's case rests on Article 52 of the EU Charter of Fundamental Rights, arguing that blanket, suspicionless collection of financial data fails the necessity-and-proportionality test. One procedural limit worth flagging: the Conseil d'État can only annul the French decree, not the EU directive itself — though it could refer a question to the Court of Justice of the European Union if it finds a genuine EU-law interpretation issue. Bull Bitcoin has said it's prepared to escalate to the CJEU and France's Constitutional Council if this fails. The physical-security angle The petition also raises a safety argument. France's Interior Minister, Laurent Nuñez, said on June 30, 2026, that authorities have recorded 77 cases of kidnapping, extortion, or attempted extortion linked to the crypto sector since the start of 2026, up from 45 for all of 2025. That count comes from the ministry itself, independent of Bull Bitcoin's filing. Bull Bitcoin argues that centralizing identity-linked financial data raises the odds that a future breach could help criminals locate holders; that specific causal chain hasn't been established by French authorities, so treat it as the plaintiff's argument, not a proven fact. What to watch next A ruling on the merits isn't expected for one to two years. Worth watching: whether the Conseil d'État refers the case to the CJEU, and whether other EU member states see similar challenges filed. This is the first formal legal test of DAC8 anywhere in the EU, so the outcome (however far off) will matter well beyond France. Source/analysis: The Bitcoin Act
 
-23h ago
+1d ago
 
 ---
 
@@ -159,33 +159,29 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[The marginal bitcoin seller may be done liquidating, analysts say](https://www.coindesk.com/markets/2026/07/13/bitcoin-panic-selling-may-be-ending-as-sellers-profit-margins-disappear)**
+**[Strategy Pauses Bitcoin Sales to Tap an Old Funding Source](https://www.barrons.com/articles/strategy-stock-bitcoin-2cff287b)**
 
-Analysts point to bitcoin’s resilience amid fresh U.S.-Iran escalation and renewed spot ETF inflows as the clearest signs yet that the marginal seller has finally stepped away. Some still remain cautious.
-
-CoinDesk • 3h ago
+Barron's • 1h ago
 
 ---
 
-**[Strategy sells $467 million in MSTR shares, makes no bitcoin purchases as USD reserve hits $3 billion](https://www.theblock.co/post/408004/strategy-sells-467-million-in-mstr-shares-makes-no-bitcoin-purchases-as-usd-reserve-hits-3-billion)**
+**[Trump invested crypto gains in stocks and bonds, filings show](https://www.reuters.com/legal/government/trump-invested-crypto-gains-stocks-bonds-filings-show-2026-07-13/)**
 
-Strategy's total holdings remain at 843,775 BTC and account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.
-
-The Block • 7h ago
-
----
-
-**[Bitcoin price crashes to $61K, wiping out bulls: Is a recovery catalyst ahead?](https://seekingalpha.com/news/4613290-bitcoin-price-crashes-to-61k-wiping-out-bulls-is-a-recovery-catalyst-ahead)**
-
-Bitcoin falls 3% amid $322M crypto liquidations and Middle East risks; CLARITY Act hearing could be a catalyst.
-
-Seeking Alpha • 55m ago
+Reuters • 3h ago
 
 ---
 
 **[Bitcoin (BTC) Weakens as Oil-Price Spike Revives Inflation Concerns](https://www.bloomberg.com/news/articles/2026-07-13/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
+
+---
+
+**[Peter Schiff Says the Biggest Market Crash Will Not Start With Bitcoin, But Here](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-biggest-market-202833088.html)**
+
+Peter Schiff warns the next market crash starts in the bond market, not Bitcoin, hitting stocks, housing, and crypto.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -197,14 +193,6 @@ Forbes • 1d ago
 
 ---
 
-**[Peter Schiff Says the Biggest Market Crash Will Not Start With Bitcoin, But Here](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-biggest-market-202833088.html)**
-
-Peter Schiff warns the next market crash starts in the bond market, not Bitcoin, hitting stocks, housing, and crypto.
-
-Yahoo Finance • 22h ago
-
----
-
 **[3 reasons Bitcoin is stuck in a bear market—and why one analyst predicts a rebound to $100,000 by year-end](https://fortune.com/2026/07/12/bitcoin-bear-market-three-drivers-rebound/)**
 
 Rising inflation, Bitcoin’s four-year cycle, and excess leverage continue to draw the cryptocurrency’s price down.
@@ -213,27 +201,33 @@ Fortune • 1d ago
 
 ---
 
-**[State-backed Bitcoin venture blocked by Executive Council](https://www.wmur.com/article/nh-bitcoin-venture-executive-council-closeup-71326/71919541)**
+**[The marginal bitcoin seller may be done liquidating, analysts say](https://www.coindesk.com/markets/2026/07/13/bitcoin-panic-selling-may-be-ending-as-sellers-profit-margins-disappear)**
 
-The New Hampshire Executive Council votes 3-2 against a conduit bond to assist a private company purchasing Bitcoin.
+Analysts point to bitcoin’s resilience amid fresh U.S.-Iran escalation and renewed spot ETF inflows as the clearest signs yet that the marginal seller has finally stepped away. Some still remain cautious.
 
-WMUR • 3h ago
-
----
-
-**[Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand](https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand)**
-
-The day ahead in crypto: July 13, 2026
-
-CoinDesk • 8h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Oil Is Below $76. So Why Is Bitcoin Still Below $65,000?](https://finance.yahoo.com/markets/crypto/articles/oil-below-76-why-bitcoin-202700018.html)**
+**[Bitcoin price crashes to $61K, wiping out bulls: Is a recovery catalyst ahead?](https://seekingalpha.com/news/4613290-bitcoin-price-crashes-to-61k-wiping-out-bulls-is-a-recovery-catalyst-ahead)**
 
-Investors are trying to figure out how macroeconomic forces affect the world's top cryptocurrency.
+Bitcoin falls 3% amid $322M crypto liquidations and Middle East risks; CLARITY Act hearing could be a catalyst.
 
-Yahoo Finance • 1d ago
+Seeking Alpha • 2h ago
+
+---
+
+**[Bitcoin dips to $62.5k as U.S.-Iran tensions weigh on risk sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-628k-as-usiran-tensions-batter-risk-4787419)**
+
+Investing.com • 14h ago
+
+---
+
+**[BTC/USD: Bitcoin Prices Tumble 3% as War Tension Scares Off Risk Takers](https://www.tradingview.com/news/tradingview:995dd5eae094b:0-btc-usd-bitcoin-prices-tumble-3-as-war-tension-scares-off-risk-takers/)**
+
+Rising oil prices fuel inflation expectations. And that means risk is off the table for the time being.⚠️ Risk Appetite Takes a Hit🛢️ Oil Is Calling the Shots📅 CPI Is the Next Big Test
+
+TradingView • 13h ago
 
 ---
 
@@ -253,7 +247,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 4d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
+⬆️ 2 • 💬 1 • 5d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/policy.html)
 
 ---
 
@@ -261,7 +255,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 9h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
+⬆️ 1 • 💬 0 • 10h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
 
 ---
 
@@ -289,14 +283,6 @@ It’s supposed to be a decentralized service, after all...
 
 ---
 
-**[Ditching Zotero for a Text File](https://news.ycombinator.com/item?id=48809916)**
-
-Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
-
-⬆️ 63 • 💬 38 • 6d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -307,57 +293,7 @@ Follow Brian: https://www.youtube.com/@brainharrington Follow Brian: https://x.c
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 238 • ⏱️ 19:36 • 23h ago
-
----
-
-**[Bitcoin&#39;s Next Move Comes Down to This...](https://www.youtube.com/watch?v=gsnBZ1F4vQI)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 10K • 👍 558 • 💬 340 • ⏱️ 11:14 • 17h ago
-
----
-
-**[The New Financial System Is Being Rebuilt Right Now](https://www.youtube.com/watch?v=DeFIfH9-I4g)**
-
-The financial system is quietly being rebuilt, and Bitcoin is moving from speculation to infrastructure. Stablecoins, tokenized assets ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 2K • 💬 169 • ⏱️ 12:42 • 21h ago
-
----
-
-**[Bitcoin Holders: Prepare For A Very Volatile Week (What I&#39;m Doing)](https://www.youtube.com/watch?v=55f1bdVWMHc)**
-
-Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapital Bitcoin Loans w/ Ledn: ...
-
-📺 Aaron Bennett
-
-👁️ 3K • 👍 215 • 💬 23 • ⏱️ 7:01 • 12h ago
-
----
-
-**[$100T Bitcoin Truth - There Are No Sellers](https://www.youtube.com/watch?v=XmApsG06CDg)**
-
-Subscribe. Before everyone else realizes there are no sellers. Bitcoin has a seller problem. While the media focuses on buyers, ...
-
-📺 Bitcoin News Alerts
-
-👁️ 5K • 👍 247 • 💬 264 • ⏱️ 16:19 • 21h ago
-
----
-
-**[BAD NEWS FOR BITCOIN HOLDERS!!!!!](https://www.youtube.com/watch?v=imjXnHFrTow)**
-
-LeveX: https://levex.com/r/CryptoKid VIP LEVEL 5 WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: ...
-
-📺 Crypto Kid
-
-👁️ 3K • 👍 231 • 💬 72 • ⏱️ 8:43 • 7h ago
+👁️ 29K • 👍 1K • 💬 209 • ⏱️ 19:36 • 1d ago
 
 ---
 
@@ -367,37 +303,87 @@ Bitcoin #Crypto #finance Bitcoin remains stuck in its multi-month range as inves
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 595 • 💬 172 • ⏱️ 27:17 • 5h ago
+👁️ 12K • 👍 685 • 💬 149 • ⏱️ 27:17 • 7h ago
 
 ---
 
-**[If MicroStrategy Crumbles Will Bitcoin Fail? | Larry Lepard](https://www.youtube.com/watch?v=DF0xD5vm-iU)**
+**[The New Financial System Is Being Rebuilt Right Now](https://www.youtube.com/watch?v=DeFIfH9-I4g)**
 
-The biggest Bitcoin bear argument right now is that Strategy could trigger a catastrophic collapse. Larry Lepard takes that claim ...
+The financial system is quietly being rebuilt, and Bitcoin is moving from speculation to infrastructure. Stablecoins, tokenized assets ...
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 120 • ⏱️ 24:58 • 1d ago
+👁️ 22K • 👍 2K • 💬 80 • ⏱️ 12:42 • 23h ago
 
 ---
 
-**[You’re Solo Mining Bitcoin Wrong… Try THIS Instead!](https://www.youtube.com/watch?v=xB3iE1359jY)**
+**[Bitcoin&#39;s Next Move Comes Down to This...](https://www.youtube.com/watch?v=gsnBZ1F4vQI)**
 
-Checkout ParasitePool ➡ https://parasite.space White NerdQAxe++ from Today's Video ➡ https://geni.us/NerdQAxeWhite ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 The Hobbyist Miner
+📺 CryptosRUs
 
-👁️ 793 • 👍 68 • 💬 9 • ⏱️ 13:19 • 7h ago
+👁️ 10K • 👍 561 • 💬 221 • ⏱️ 11:14 • 18h ago
 
 ---
 
-**[THIS BITCOIN BUY ZONE IS IMPORTANT!](https://www.youtube.com/watch?v=ABSPDK_j0VE)**
+**[🛑 URGENT WARNING TO ALL BITCOIN BULLS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! CRASH WAVE 3 IS COMING](https://www.youtube.com/watch?v=CyJbrbKmU_8)**
 
-TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 THE BITCOIN FAMILY Didi Taihuttu
+📺 Doctor of Pump & Dump
 
-👁️ 2K • 👍 317 • 💬 45 • ⏱️ 21:27 • 5h ago
+👁️ 2K • 👍 266 • ⏱️ 33:35 • 3h ago
+
+---
+
+**[BITCOIN FINAL PHASE AS ROBINHOOD CHAIN TAKES OVER](https://www.youtube.com/watch?v=XS90W5HdXhY)**
+
+Bitcoin charts, Robinhood Chain, Uniswap, Ethereum, Cashcat! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 10K • 👍 518 • 💬 28 • ⏱️ 16:26 • 8h ago
+
+---
+
+**[Donald Trump ACCIDENTALLY Admits That America Has LOST CONTROL of Bitcoin?! | EP 1546](https://www.youtube.com/watch?v=OukCNvSpyoY)**
+
+President Trump continues to back Clarity Act, with a bizzare tweet this morning. With a meeting coming next Monday the final ...
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 258 • 💬 60 • ⏱️ 1:11:27 • 2h ago
+
+---
+
+**[BAD NEWS FOR BITCOIN HOLDERS!!!!!](https://www.youtube.com/watch?v=imjXnHFrTow)**
+
+LeveX: https://levex.com/r/CryptoKid VIP LEVEL 5 WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: ...
+
+📺 Crypto Kid
+
+👁️ 4K • 👍 258 • 💬 49 • ⏱️ 8:43 • 8h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NRgw2CAnbyc)**
+
+BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 153 • 💬 152 • ⏱️ 19:28 • 2h ago
+
+---
+
+**[It Looks Like Crypto Holders Are About To Get Happy Bitcoin &amp; Ethereum Are On A Roll Right Now](https://www.youtube.com/watch?v=qZmoHJQb7no)**
+
+I'm constantly left speechless by this market. Companies are back at it again, and it feels like they definitely know something that ...
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 618 • 💬 367 • ⏱️ 27:54 • 11h ago
 
 ---
 

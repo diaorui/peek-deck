@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-13T19:23:59.360981+00:00'
+updated: '2026-07-13T20:39:13.326234+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 19:23 UTC  
+**Last Updated:** July 13, 2026 at 20:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** -0.3%  
-**30d:** +2.3%  
-**90d:** -25.1%  
-**1y:** -41.4%  
+**24h:** -2.3%  
+**7d:** -0.0%  
+**30d:** +2.5%  
+**90d:** -25.0%  
+**1y:** -41.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $212.33B
+**Market Cap:** $213.23B
 Rank #2
 
 **Circulating Supply:** 120,683,011 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.4%
+-64.3%
 
 **All-Time Low:** $0.43
-+406243.0%
++407972.9%
 
 ---
 
@@ -150,67 +150,27 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
-**[Eric Trump Notices Ethereum 'Pumping Hard,' But Top Analyst Says They'd Only Go Long After ETH Clears This Level](https://finance.yahoo.com/markets/crypto/articles/eric-trump-notices-ethereum-pumping-044209601.html)**
+**[Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-13-2026-strong-price-openings-backtracking-this-morning-133042462.html)**
 
-American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump cheered Ethereum’s (CRYPTO: ETH) brief spike above $1,800 on Saturday, even as the token soon retraced. ‘Crypto Is The Future’ Trump shared a candlestick chart of the ETH/BTC pair showing a 1.32% gain to 0.02837, saying, “ETH is pumping hard! Great to see! Crypto is the future…” Notably, some users were quick to point out how ETH retreated immediately following Trump’s post. Every single time LMAO https://t.co/mMneBzehbX pic.twitter.com/
+Bitcoin opened at $63,745.37 on Monday, July 13, 2026, 0.2% lower than Sunday's opening price. As of 9:06 a.m. ET this morning, bitcoin moved down to $62,568.10. Ethereum opened at $1,805.49, up 1% from Sunday's opening price. The price of ethereum moved lower this morning to $1,770.99.
 
-Yahoo Finance • 14h ago
-
----
-
-**[Tom Lee says users 'starting to see Ethereum as money' as Bitmine adds 27,801 ETH](https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth)**
-
-Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.
-
-The Block • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
-
-PR Newswire • 6h ago
-
----
-
-**[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand)**
+**[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-49-million-ethereum-152210893.html)**
 
 According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
 
-Decrypt • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[ETH news: Ethereum Foundation says AI found bug that could take validators offline](https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it)**
+**[Bitcoin And Ethereum: June Was Not A Clean Recovery](https://seekingalpha.com/article/4921666-bitcoin-ethereum-june-was-not-a-clean-recovery)**
 
-The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
+BTC kept meeting absorption in June, and ETH came closer to follow-through. Price may give the first impression, but the stack decides whether that impression holds.
 
-CoinDesk • 2d ago
-
----
-
-**[Current price of Ethereum for July 13, 2026](https://fortune.com/article/price-of-ethereum-07-13-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 9h ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-stay-under-pressure-as-us-and-iran-exchange-fresh-attacks-202607131230)**
-
-The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
-
-FXStreet • 6h ago
-
----
-
-**[Bitcoin And Ethereum: May Was Not That Simple](https://seekingalpha.com/article/4921485-bitcoin-ethereum-may-was-not-that-simple)**
-
-BTC and ETH weakened in May, but options showed where risk was still being paid for, and futures showed where that pressure found support, softened, or stayed uneven. Read more here.
-
-Seeking Alpha • 5h ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -218,7 +178,15 @@ Seeking Alpha • 5h ago
 
 One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
 
-The Motley Fool • 22h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-stay-under-pressure-as-us-and-iran-exchange-fresh-attacks-202607131230)**
+
+The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
+
+FXStreet • 8h ago
 
 ---
 
@@ -226,7 +194,37 @@ The Motley Fool • 22h ago
 
 Track What price will Ethereum hit in July prediction market analysis with live Polymarket odds, probabilities, volume, liquidity, and market-moving catalysts.
 
-CryptoSlate • 1h ago
+CryptoSlate • 3h ago
+
+---
+
+**[Current price of Ethereum for July 13, 2026](https://fortune.com/article/price-of-ethereum-07-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 10h ago
+
+---
+
+**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
+
+thestreet.com • 2d ago
+
+---
+
+**[Ethereum and Zcash Target Higher Levels, But BlockDAG Draws Traders In With Its 100% Bonus and New Utility Launches!](https://financefeeds.com/ethereum-and-zcash-target-higher-levels-but-blockdag-draws-traders-in-with-its-100-bonus-and-new-utility-launches/)**
+
+Explore the latest Ethereum price prediction, Zcash price outlook, and why BlockDAG is gaining attention as the best crypto to buy now with 100% bonus and massive utility!
+
+FinanceFeeds • 3h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Consolidate as US-Iran Tensions Escalate: Analyst Says People Will Be 'S](https://www.benzinga.com/crypto/cryptocurrency/26/07/60406116/bitcoin-ethereum-xrp-and-dogecoin-consolidate-as-us-iran-tensions-escalate)**
+
+Leading cryptocurrencies moved sideways, while stock futures slid on Sunday evening amid investor concerns over escalating U.S.-Iran tensions.
+
+Benzinga • 18h ago
 
 ---
 
@@ -234,13 +232,23 @@ CryptoSlate • 1h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN &amp; CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NRgw2CAnbyc)**
+
+BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 153 • 💬 152 • ⏱️ 19:28 • 2h ago
+
+---
+
 **[Ethereum&#39;s 2019 Crypto Bull Market Signal Is BACK! (It&#39;s EVEN BIGGER This Time)](https://www.youtube.com/watch?v=scGsezikvwU)**
 
 My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 551 • 💬 237 • ⏱️ 15:11 • 17h ago
+👁️ 8K • 👍 562 • 💬 235 • ⏱️ 15:11 • 18h ago
 
 ---
 
@@ -250,7 +258,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 544 • 💬 431 • ⏱️ 13:44 • 22h ago
+👁️ 8K • 👍 557 • 💬 372 • ⏱️ 13:44 • 23h ago
 
 ---
 
@@ -260,7 +268,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 650 • 💬 571 • ⏱️ 24:07 • 2d ago
+👁️ 9K • 👍 654 • 💬 550 • ⏱️ 24:07 • 2d ago
 
 ---
 
@@ -270,7 +278,7 @@ Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus
 
 📺 NDTV Profit
 
-👁️ 503 • 👍 15 • 💬 1 • ⏱️ 3:43 • 12h ago
+👁️ 669 • 👍 15 • 💬 1 • ⏱️ 3:43 • 13h ago
 
 ---
 
@@ -290,7 +298,7 @@ DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe 
 
 📺 CoinDesk
 
-👁️ 661 • 👍 4 • ⏱️ 0:36 • 7h ago
+👁️ 740 • 👍 3 • ⏱️ 0:36 • 8h ago
 
 ---
 
@@ -300,37 +308,27 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 66 • 💬 19 • ⏱️ 10:40 • 1d ago
+👁️ 3K • 👍 66 • 💬 18 • ⏱️ 10:40 • 1d ago
 
 ---
 
-**[Why Ethereum insiders Are Quietly Cloning Cardano Tech](https://www.youtube.com/watch?v=A_K-lpibNyo)**
+**[XPR The Super Haven for the Credit Unions! | Canton Is Ethereum REALLY ENOUGH?!](https://www.youtube.com/watch?v=COo2FMR-hUY)**
 
-Is the Ethereum inner circle quietly copying Cardano? In this video, we break down why Ethereum insiders are allegedly cloning ...
+XPR The Super Haven for the Credit Unions! | Canton Is Ethereum REALLY ENOUGH?! XPR, METAL & CANTON are Discussed ...
 
-📺 Cheeky Crypto Unfiltered
+📺 Crypto Growth
 
-👁️ 2K • 👍 163 • 💬 35 • ⏱️ 16:06 • 1d ago
-
----
-
-**[RLUSD Just Passed Ethereum On The XRP Ledger |](https://www.youtube.com/watch?v=xVnVGgKru5A)**
-
-Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━━━━━━━━━━━━━━━ CRYPTO & INVESTING ...
-
-📺 Kamilah Stevenson
-
-👁️ 6K • 👍 353 • 💬 46 • ⏱️ 0:39 • 1d ago
+👁️ 158 • 👍 20 • ⏱️ 17:14 • 5h ago
 
 ---
 
-**[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
+**[Ethereum is breaking up. But there&#39;s... no fighting?](https://www.youtube.com/watch?v=sF3NlQBIQDE)**
 
-Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
+Ethereum just got another major shake-up. On June 22, 2026, a group of former Ethereum Foundation researchers launched ...
 
-📺 Milk Road
+📺 Tim Ho
 
-👁️ 3K • 👍 106 • 💬 11 • ⏱️ 10:43 • 2d ago
+👁️ 72 • 👍 11 • 💬 10 • ⏱️ 7:03 • 2h ago
 
 ---
 

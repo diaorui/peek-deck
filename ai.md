@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-13T19:23:59.345626+00:00'
+updated: '2026-07-13T20:39:13.313257+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - news
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 13, 2026 at 19:23 UTC  
+**Last Updated:** July 13, 2026 at 20:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Why chatbots love “it’s not X, it’s Y”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 17h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 18h ago
 
 ---
 
@@ -49,7 +49,13 @@ Why chatbots love “it’s not X, it’s Y”
 
 i use these tools literally all day (for better or worse, different conversation); i am far from anti-ai. but as they are becoming more useful, it's hard for me to think the anxiety around ai is people simply being afraid of new tech/change the more public opinion data i see, the more i feel validated on the feeling, anecdotally it's everywhere on my social feeds and personal life. plus, i was reading a survey about how americans feel about ai, and 61% said its rise makes them anxious, compared with 48% who said they’re excited. most importantly (imo) 72% expect it to mean fewer job opportunities, and the same percentage think it threatens human connection and authentic relationships. it feels more like people can see how useful it is while also realizing that nobody really knows how we’re going to manage what comes next. curious whether using these tools more has made other people feel enabled, anxious, or a mix of both? source: https://data.verasight.io/ai/ai-leaves-more-americans-anxious-than-excited
 
-2h ago
+3h ago
+
+---
+
+**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 6h ago
 
 ---
 
@@ -57,7 +63,7 @@ i use these tools literally all day (for better or worse, different conversation
 
 Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called "computer use" and it's incredibly inefficient. The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a contractor, or an investor not by browsing LinkedIn but by directly querying other agents who represent those people. No ads, no SEO manipulation, no UI dark patterns. Agents evaluate options on merit because they can't be tricked by marketing psychology the way humans can. I'm working on a platform that's building toward this — an agent-to-agent matching marketplace. But I'm curious what this community thinks: How far out do you think agent-to-agent communication is from mainstream adoption? What use cases do you think will go agent-native first? What are the biggest technical barriers right now? Would love to hear from anyone building in this space. I'm also interviewing builders working on AI agents if anyone wants to share what they're working on.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +71,15 @@ Something I've been thinking about a lot lately: right now, AI agents interact w
 
 Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 to 1,991 GWh in Q4 2026
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 18h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 20h ago
+
+---
+
+**[Lord of the Rings: The Hunt for Gollum to only use AI for ‘some of the de-aging’](https://www.reddit.com/r/artificial/comments/1uvljm9/lord_of_the_rings_the_hunt_for_gollum_to_only_use/)**
+
+Fans' response has been surprising
+
+🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 1h ago
 
 ---
 
@@ -77,17 +91,11 @@ So while we've been arguing about whether AI will take our jobs, someone built a
 
 ---
 
-**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 4h ago
-
----
-
 **[Is there any kind of AI that could "read" huge loads of emails and give a "mark" according to a given expected result?](https://www.reddit.com/r/artificial/comments/1uvgqrn/is_there_any_kind_of_ai_that_could_read_huge/)**
 
 I am looking for an AI that is a reliable as possible that can do the following task Imagine that I have a lots of emails, hundreds of them. In the emails we asked to the addressees some questions and we expect a given answer. Imagine that the question is something like "Given these reasons, do you think that ice cream is the best dessert in the world?" And we expect some kind of reply that, no matter how it may be formulated, it basically ends up answering affirmatively Then, as the amount of emails is huge to go one by one and the thing that is interesting for us is to basically know if they have given an answer that accomodates to what we expect, could there be an AI model that would give an approximate percentage of coincidence between what we expected and the actual answers? Or some kind of mark? So that, imagine that 800 of 1000 emails have answered affirmatively, so could there be an AI model that, after reading all the answers would conclude that the percentage of coincidence is around 80%? Or that it would give a mark of 8 out of 10? Could this AI model also give the percentage of neutral and negative results (for example people saying "I don't know" and "No, cake is the best dessert!" respectively)? Finally, I would be especially interested in an AI model that could be adjusted to give just the percentage number without commenting or showing the answers and explaining why it has gotten to that number, as in some of these tests I would like to be completely blind to the actual answers given in these emails. So for these tests I would like to know just the number and that's it So if there is any such AI I would appreaciate it!
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +103,7 @@ I am looking for an AI that is a reliable as possible that can do the following 
 
 Every month the investor update eats a morning, and almost none of that is the writing. Writing the thing is the short part. The long part is gathering: last month's metrics from one doc, the founder check-in notes sitting in Granola, the Gmail threads where a customer said something worth quoting. I finally pointed an agent on my laptop at the gathering instead of the writing. Funny thing is I barely used the draft it produced, rewrote most of it anyway. What actually changed the month was not spending the morning as the integration layer between Granola, Gmail, and a metrics doc that never talk to each other. the prose was never the bottleneck. once a month I'd turn into the thing that reconciles a stack of tabs full of stuff I already had. the setup that finally fixed it writes a pretty average draft and does a genuinely great gather. i'd have bet on the exact opposite. written with ai
 
-3h ago
+4h ago
 
 ---
 
@@ -103,15 +111,7 @@ Every month the investor update eats a morning, and almost none of that is the w
 
 Standing on the shoulders of giants, I vibe-coded a port of Colibri to work with Hy3 so you can run it on even smaller hardware specs (Colibri originally works with GLM 5.2 on 25GB, now you need no more than 10GB (even less actually)). Have a look and enjoy https://github.com/ErikTromp/colibri-hy3 PS. Use RAM instead of VRAM unless you have a lot of it. More means faster here.
 
-6h ago
-
----
-
-**[I built a full 3D open-world racing game almost entirely with AI, and it now has real daily players. Here's the honest breakdown of what the model nailed and where it completely fell apart.](https://www.reddit.com/r/artificial/comments/1uvaaf4/i_built_a_full_3d_openworld_racing_game_almost/)**
-
-Not a hype post. I want to talk about where we actually are, because building a real, shipped, multiplayer-ish thing with AI taught me more about the current ceiling than any benchmark did. The project: a neon open-world street racer that runs in the browser, no install. Real 3D city you drive around, other live players on the road, a garage, an economy, the works. I directed it, but the overwhelming majority of the code was written by AI. It went from empty folder to live with actual daily players in a couple of weeks. What the AI was genuinely great at: Whole self-contained systems in one shot. "Build a photo mode with orbit camera and filters," done and working. Boilerplate-heavy, well-trodden problems: auth, a save system, a REST API, Stripe wiring. Fast and mostly correct. Refactors and translations. "Turn this into an instanced mesh so it's one draw call" is the kind of tedious change it does better than I would by hand. Being a tireless debugging partner when I could describe the symptom precisely. Where it fell on its face: Spatial and 3D reasoning. Anything involving "this object is behind that one" or "the plate is buried in the bumper" it could not see, because it can't see. I had to be its eyes constantly. Holding the whole system in its head. It would fix one thing and quietly break a system three files away, because it didn't truly model the interactions, only the local change. Performance intuition. It happily wrote code that attached a light to every streamed car and tanked the framerate. It knew the fix once I found the cause, but it did not anticipate it. Game feel. It cannot tell you a mechanic is boring or an economy is exploitable. That judgment is still entirely yours. The real takeaway: the bottleneck has moved. It's no longer "can it write the code," it's "can you specify precisely, verify relentlessly, and supply the taste and the spatial judgment it lacks." AI turned me from someone who writes features into someone who directs and tests them. That's a genuinely different job, and honestly a more demanding one than people expect. The proof it's more than a toy: it's live, people play it daily, and a few have even paid to support it. So this isn't a weekend demo that died in a folder, it's a real product carried mostly by AI code with a human holding the wheel. Curious where others draw the line. For those of you shipping real things with AI, not demos, where does it still fall apart for you? My money's on anything requiring a mental model of state over time.
-
-6h ago
+7h ago
 
 ---
 
@@ -121,53 +121,7 @@ Not a hype post. I want to talk about where we actually are, because building a 
 
 **[Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?](https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html)**
 
-The New York Times • 1h ago
-
----
-
-**[The New York nurses replaced by AI: ‘It should concern every patient who cares about quality of care’](https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai)**
-
-The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strike
-
-The Guardian • 7h ago
-
----
-
-**[Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html)**
-
-Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost over $50 billion.
-
-CNBC • 9h ago
-
----
-
-**[Meta expands Louisiana data center in $50B AI push, boosting rural community](https://www.foxbusiness.com/markets/meta-expands-louisiana-data-center-50b-ai-push-boosting-rural-community)**
-
-Meta said the $50 billion expansion will make its Richland Parish site one of the largest data centers in history while bringing jobs and new funding to the rural community.
-
-Fox Business • 9h ago
-
----
-
-**[Meta rolls back Muse Image on Instagram after widespread backlash](https://www.usatoday.com/videos/tech/2026/07/13/usa-today-explains-why-meta-disabled-ai-instagram-feature/90905403007/)**
-
-USA TODAY's Greta Cross explains what happened to Meta AI's Muse Image, and why it was rolled back only a few days after its Instagram release.
-
-USA Today • 3m ago
-
----
-
-**[US Panic Is Missing the Point on Chinese AI](https://www.bloomberg.com/opinion/articles/2026-07-13/us-panic-is-missing-the-point-on-chinese-ai)**
-
-Bloomberg.com • 23m ago
-
----
-
-**[Exclusive: Delaware Secretary of State partners with Norm Ai to propose the AIC, a legal entity for agents](https://fortune.com/2026/07/13/exclusive-delaware-ai-agents-legal-entity-proposal-llc-pbc/)**
-
-AI agents are already doing business. Delaware is moving to bring them inside a predictable American legal order, just like the LLC and PBC.
-
-Fortune • 23m ago
+The New York Times • 3h ago
 
 ---
 
@@ -175,13 +129,49 @@ Fortune • 23m ago
 
 The rapid spread of chatbots and AI agents is intensifying a debate over who should be held responsible when something goes wrong.
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
+
+---
+
+**[Is Mitch McConnell's hospital photo real or fake? We asked an AI expert](https://www.abc10.com/article/news/nation-world/is-mitch-mcconnells-hospital-photo-real-or-fake-ai-expert/507-0c09b62d-8cb2-468b-8e9c-436a4ae54676)**
+
+ABC10 • 42m ago
+
+---
+
+**[Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html)**
+
+Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost over $50 billion.
+
+CNBC • 11h ago
+
+---
+
+**[Meta's AI advertising dreams have become a nightmare for brands](https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7)**
+
+Meta has inserted a slew of AI features into its ad products. Brands say the tools are clunky and generate misrepresentations and absurdities.
+
+Business Insider • 6h ago
+
+---
+
+**[Meta’s 5 GW Hyperion Turns AI into a Grid Anchor](https://www.datacenterknowledge.com/data-center-construction/meta-s-5-gw-hyperion-campus-signals-ai-s-shift-into-utility-territory)**
+
+Meta expands Louisiana Hyperion campus to 5 GW, a $50B AI supercluster that shifts from data center to regional grid anchor with bespoke Entergy power deal
+
+Data Center Knowledge • 36m ago
+
+---
+
+**[Apple and Google Likely to Strengthen AI Ties Following OpenAI Lawsuit](https://www.barrons.com/articles/apple-google-openai-ai-lawsuit-cf02a044)**
+
+Barron's • 15m ago
 
 ---
 
 **[Stock Market Today: AI Jitters Weigh on Nasdaq, SK Hynix Stock Slumps — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026)**
 
-WSJ • 2h ago
+WSJ • 28m ago
 
 ---
 
@@ -189,7 +179,15 @@ WSJ • 2h ago
 
 A single mom, her two daughters, and the chatbots that fill in the gaps.
 
-The New Yorker • 9h ago
+The New Yorker • 10h ago
+
+---
+
+**[Georgia family says they're forced to sell home to help power AI data centers: "It's theft"](https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/)**
+
+Georgia Power says building a new transmission line will require acquiring more than 300 parcels of land, including residential properties.
+
+CBS News • 3h ago
 
 ---
 
@@ -199,7 +197,7 @@ The New Yorker • 9h ago
 
 **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
 
-⬆️ 965 • 💬 419 • 17h ago
+⬆️ 977 • 💬 427 • 19h ago
 
 ---
 
@@ -207,7 +205,7 @@ The New Yorker • 9h ago
 
 How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.
 
-⬆️ 342 • 💬 91 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
+⬆️ 343 • 💬 91 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
@@ -215,7 +213,7 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 251 • 💬 124 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 252 • 💬 125 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -231,7 +229,7 @@ An anti-AI font that can be read by humans but not leading AI models. Type your 
 
 I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.
 
-⬆️ 227 • 💬 263 • 2d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+⬆️ 228 • 💬 263 • 2d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
 ---
 
@@ -239,7 +237,7 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 195 • 💬 522 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 195 • 💬 526 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -277,53 +275,33 @@ Microsoft’s carbon footprint jumped 25% last year. The increase was driven by 
 
 ## YouTube Videos: "ai"
 
-**[Georgia families face losing their homes to make way for AI data centers: &quot;It&#39;s theft&quot;](https://www.youtube.com/watch?v=PApPd6p6lX0)**
+**[He Risked Everything To Warn You: No One Is Ready For What&#39;s Coming, And The AI Companies Know It!](https://www.youtube.com/watch?v=_g4l7YkDQwA)**
 
-Some families in Georgia are being forced to sell their homes or face government seizures to make way for AI data centers.
+Ex-OpenAI researcher Daniel Kokotajlo walked away from $2 million rather than stay silent, and now reveals why he believes ...
 
-📺 CBS News
+📺 The Diary Of A CEO
 
-👁️ 2K • 👍 127 • 💬 99 • ⏱️ 4:09 • 3h ago
-
----
-
-**[Wait... AI Is Taking Over Advertising?!](https://www.youtube.com/watch?v=Z-x7maDgs3M)**
-
-Artificial intelligence is changing advertising faster than most people realize, and some of the world's biggest luxury brands are ...
-
-📺 Social Symone ♡
-
-👁️ 14K • 👍 1K • 💬 611 • ⏱️ 37:09 • 5h ago
+👁️ 860K • 👍 30K • 💬 6K • ⏱️ 2:00:50 • 13h ago
 
 ---
 
-**[I Tried Making $800 in 4 Hours with AI Agents (To See If It Works)](https://www.youtube.com/watch?v=yq7B3IAIZJg)**
+**[How To Make Free AI Videos In 2026 (complete guide)](https://www.youtube.com/watch?v=hrwO990F2ew)**
 
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
+Best Free AI Video Generator For AI Videos In 2026! Try Higgsfield: https://higgsfield.ai/ai-video?fpr=utm&fp_sid=skai Hey Friends ...
 
-📺 Mikey No Code
+📺 Skai Generated
 
-👁️ 7K • 💬 8 • ⏱️ 26:52 • 5h ago
-
----
-
-**[10 Times AI Behaved In Ways That Terrified The Scientists Who Built It](https://www.youtube.com/watch?v=ql-J3N8PWkI)**
-
-Explore 10 times AI behaved in ways that terrified the scientists who built it. From unexpected AI behavior and surprising research ...
-
-📺 MostAmazingTop10
-
-👁️ 27K • 👍 622 • 💬 39 • ⏱️ 10:58 • 1d ago
+👁️ 24K • 💬 21 • ⏱️ 10:01 • 1d ago
 
 ---
 
-**[7 Claude AI Side Hustles That Pay $200+ a Day (Beginner Friendly)](https://www.youtube.com/watch?v=Z1Jf_Fr69z4)**
+**[AI Bubble Burst? Companies are seeing the problems with AI!](https://www.youtube.com/watch?v=q7mE2Th9cbY)**
 
-ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/yt1livedes-07-11-2026 Apply For ...
+FREE PROMPTS + RESOURCES (Staying Ahead community): https://links.stayingahead.com/YT59 AI was supposed to make ...
 
-📺 Shane Hummus
+📺 Vaibhav Sisinty
 
-👁️ 23K • 👍 1K • 💬 93 • ⏱️ 21:14 • 2d ago
+👁️ 15K • 👍 607 • 💬 40 • ⏱️ 16:08 • 5h ago
 
 ---
 
@@ -333,17 +311,27 @@ I Mean Its No Surprise But AI is Just Simply Not Funny... Spotify: ...
 
 📺 bEdo999
 
-👁️ 127K • 👍 6K • 💬 497 • ⏱️ 39:24 • 2d ago
+👁️ 131K • 👍 6K • 💬 498 • ⏱️ 39:24 • 2d ago
 
 ---
 
-**[The Best AI Tool for Making YouTube Videos (2026)](https://www.youtube.com/watch?v=x7ne4LqKCl0)**
+**[7 Claude AI Side Hustles That Pay $200+ a Day (Beginner Friendly)](https://www.youtube.com/watch?v=Z1Jf_Fr69z4)**
 
-Start Making Visuals For Your YouTube Videos with Higgsfield https://youricreates.com/Higgsfield In this video, I show the AI ...
+ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/yt1livedes-07-11-2026 Apply For ...
 
-📺 Youri van Hofwegen
+📺 Shane Hummus
 
-👁️ 7K • 💬 1 • ⏱️ 10:31 • 4h ago
+👁️ 24K • 👍 1K • 💬 94 • ⏱️ 21:14 • 2d ago
+
+---
+
+**[I Asked AI To Predict The 2028 Election... JAW-DROPPING Map](https://www.youtube.com/watch?v=l_GegK1aO8c)**
+
+Pollsmax* 》https://www.pollsmax.com/ *Kalshi* 》https://bit.ly/kalshi2026 ...
+
+📺 Election Time
+
+👁️ 100K • 👍 3K • 💬 598 • ⏱️ 17:08 • 2d ago
 
 ---
 
@@ -353,7 +341,27 @@ Hello everyone, this is YOUR Daily Dose of Internet. In this video, we see evide
 
 📺 Daily Dose Of Internet
 
-👁️ 764K • 👍 30K • 💬 2K • ⏱️ 15:02 • 1d ago
+👁️ 783K • 👍 30K • 💬 2K • ⏱️ 15:02 • 2d ago
+
+---
+
+**[BREAKING RACE: Economist says America MUST WIN on AI or China benefits](https://www.youtube.com/watch?v=OTG_S-O9wrA)**
+
+Economist Stephen Moore analyzes the Wall Street Journal's prediction of stubborn inflation due to war, discusses the impact of ...
+
+📺 Fox Business
+
+👁️ 3K • 👍 66 • 💬 54 • ⏱️ 4:30 • 5h ago
+
+---
+
+**[&quot;AI Just Broke: GPT-5.6 Sol, Grok 4.5 &amp; Meta Muse in One Week&quot; ](https://www.youtube.com/watch?v=1mW19vaAvdY)**
+
+The AI model race just exploded. GPT 5.6 Sol, Grok 4.5, and Meta Muse are pushing artificial intelligence into a new era—and the ...
+
+📺 Your AI Guy
+
+👁️ 7K • 👍 134 • 💬 22 • ⏱️ 15:02 • 20h ago
 
 ---
 
@@ -363,17 +371,7 @@ Recent discussions around Google DeepMind and its experimental analysis of crop 
 
 📺 The Ultimate Finding
 
-👁️ 37K • 👍 1K • 💬 53 • ⏱️ 29:47 • 2d ago
-
----
-
-**[Michael Burry Issues FINAL Warning on AI Bubble](https://www.youtube.com/watch?v=5c2Lowkd0oU)**
-
-Subscribe to our Newsletter https://financebureau.com/ Join CBC Lite https://go.coinbureau.com/CBC-Lite-FB-Des ...
-
-📺 Finance Bureau
-
-👁️ 28K • 👍 966 • 💬 191 • ⏱️ 18:05 • 2d ago
+👁️ 38K • 👍 1K • 💬 55 • ⏱️ 29:47 • 2d ago
 
 ---
 
@@ -389,7 +387,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 9,157 • ❤️ 750 • 7d ago
+⬇️ 9,157 • ❤️ 754 • 7d ago
 
 ---
 
@@ -401,7 +399,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,985,221 • ❤️ 2,071 • 1d ago
+⬇️ 1,985,221 • ❤️ 2,075 • 1d ago
 
 ---
 
@@ -413,7 +411,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 464,914 • ❤️ 3,888 • 11d ago
+⬇️ 464,914 • ❤️ 3,895 • 11d ago
 
 ---
 
@@ -425,7 +423,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,909 • ❤️ 294 • 3d ago
+⬇️ 4,909 • ❤️ 303 • 3d ago
 
 ---
 
@@ -435,7 +433,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 236 • 4d ago
+⬇️ 0 • ❤️ 242 • 4d ago
 
 ---
 
@@ -445,7 +443,7 @@ Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving 
 
 A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
 
-⬇️ 0 • ❤️ 884 • 10d ago
+⬇️ 0 • ❤️ 886 • 10d ago
 
 ---
 
@@ -457,7 +455,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 29,801 • ❤️ 521 • 4d ago
+⬇️ 29,801 • ❤️ 524 • 4d ago
 
 ---
 
@@ -469,7 +467,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,506,937 • ❤️ 1,959 • 10d ago
+⬇️ 1,506,937 • ❤️ 1,963 • 10d ago
 
 ---
 
@@ -481,7 +479,7 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 `text-generation` `1.1B`
 
-⬇️ 68,714 • ❤️ 216 • 4h ago
+⬇️ 68,714 • ❤️ 217 • 5h ago
 
 ---
 
@@ -489,9 +487,11 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 *OpenMOSS*
 
+MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs joint speech transcription and speaker diarization for long-form audio in over 50 languages. It generates compact, timestamped transcripts with speaker labels ([S01], [S02]) in a single pass, suitable for meetings, podcasts, and lectures.
+
 `audio-text-to-text` `908.5M`
 
-⬇️ 39,509 • ❤️ 156 • 1d ago
+⬇️ 39,509 • ❤️ 158 • 1d ago
 
 ---
 
@@ -507,7 +507,7 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 37 • 💬 1 • ⭐ 958 • 5d ago
+▲ 37 • 💬 1 • ⭐ 958 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
 
@@ -521,7 +521,7 @@ An advanced world modeling system with extended interaction capabilities, real-t
 
 LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
 
-▲ 59 • 💬 1 • ⭐ 720 • 5d ago
+▲ 59 • 💬 1 • ⭐ 720 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
@@ -599,7 +599,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
 
-▲ 53 • 💬 3 • ⭐ 764 • 8d ago
+▲ 53 • 💬 3 • ⭐ 764 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
 
@@ -626,7 +626,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.
 
-▲ 42 • 💬 2 • ⭐ 688 • 7d ago
+▲ 42 • 💬 2 • ⭐ 688 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05247) • [💻 code](https://github.com/Robbyant/lingbot-vision) • [🔗 project](https://technology.robbyant.com/lingbot-vision)
 
@@ -655,7 +655,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.6k • 🔱 977 • 4d ago
+⭐ 4.6k • 🔱 979 • 4d ago
 
 ---
 
@@ -665,7 +665,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.3k • 🔱 334 • 2d ago
+⭐ 2.4k • 🔱 337 • 2d ago
 
 ---
 
@@ -675,7 +675,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.1k • 🔱 232 • 5d ago
+⭐ 2.1k • 🔱 233 • 5d ago
 
 ---
 
@@ -685,7 +685,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.9k • 🔱 125 • 4h ago
+⭐ 1.9k • 🔱 126 • 5h ago
 
 ---
 
@@ -705,7 +705,7 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 
 `Python` `ai` `ai-agents` `api` `copilot` `llm`
 
-⭐ 1.1k • 🔱 369 • 16d ago
+⭐ 1.1k • 🔱 370 • 16d ago
 
 ---
 
@@ -715,7 +715,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 995 • 🔱 17 • 5d ago
+⭐ 994 • 🔱 17 • 5d ago
 
 ---
 
@@ -725,7 +725,7 @@ Agent skills for building playable, polished Three.js browser games with gamepla
 
 `Python`
 
-⭐ 963 • 🔱 103 • 4d ago
+⭐ 964 • 🔱 103 • 4d ago
 
 ---
 
@@ -735,7 +735,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 943 • 🔱 58 • 8d ago
+⭐ 943 • 🔱 58 • 2h ago
 
 ---
 
@@ -743,7 +743,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 852 • 🔱 30 • 12d ago
+⭐ 843 • 🔱 30 • 12d ago
 
 ---
 
