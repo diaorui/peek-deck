@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-13T02:50:49.335822+00:00'
+updated: '2026-07-13T06:20:20.251070+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 13, 2026 at 02:50 UTC  
+**Last Updated:** July 13, 2026 at 06:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,44 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[Wheelchair Made Based on a Quadruped Robot](https://www.reddit.com/r/robotics/comments/1uubs2y/wheelchair_made_based_on_a_quadruped_robot/)**
+
+Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtube.com/watch?v=ZyHrKD3SE-M It's an Unitree B2: https://shop.unitree.com/products/unitree-b2
+
+19h ago
+
+---
+
+**[Teleop study break](https://www.reddit.com/r/robotics/comments/1uujob3/teleop_study_break/)**
+
+14h ago
+
+---
+
+**[My first ever mask where I used actual electronic parts! :D](https://www.reddit.com/r/robotics/comments/1uv1afm/my_first_ever_mask_where_i_used_actual_electronic/)**
+
+This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
+
+1h ago
+
+---
+
+**[Cool AI robot arm I made](https://www.reddit.com/r/robotics/comments/1uuijs6/cool_ai_robot_arm_i_made/)**
+
+https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-DOF Raspberry Pi 4B robot arm with a Three.js 3D web interface. Features YOLOv8 object detection, VL53L1X depth sensing, 2-link inverse kinematics, autonomous object pickup, INA219 current-based gripper stall detection, floor collision protection, and a live digital twin for real-time visualization.
+
+14h ago
+
+---
+
+**[ViewKit - An interactive website to view dataset files](https://www.reddit.com/r/robotics/comments/1uuxbt1/viewkit_an_interactive_website_to_view_dataset/)**
+
+I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
+
+5h ago
+
+---
 
 **[First full-body movements of my DIY robot lamp](https://www.reddit.com/r/robotics/comments/1utpuci/first_fullbody_movements_of_my_diy_robot_lamp/)**
 
@@ -46,11 +84,19 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 ---
 
+**[I made my tracking robot finally functional 11-07-2026 #raspberrypi #rob...](https://www.reddit.com/r/robotics/comments/1uua73v/i_made_my_tracking_robot_finally_functional/)**
+
+I made a 2dof raspberry pi object tracking robot in c++. It is the second iteration of a 1dof version i had made: https://github.com/Dawsatek22/raspberrypi_objectracking_1dof_cpp . i still need to make te documentation and post the cad files but if you wanna check the code i posted it on the repo: https://github.com/Dawsatek22/raspberrypi_objectracking_2dof_cpp- .
+
+🔗 [youtube.com](https://youtube.com/shorts/Ld3sLhEH3hI?si=53QeSHlh7fHGiUgG) • 21h ago
+
+---
+
 **[Title: I built an engineering learning app with 8 guided labs and an evidence-focused desktop workbench](https://www.reddit.com/r/robotics/comments/1uu8ngh/title_i_built_an_engineering_learning_app_with_8/)**
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 19h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 22h ago
 
 ---
 
@@ -62,51 +108,15 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 ---
 
-**[Ground Robots Inherit the Kill Zone - Ukrainian roboticists build toward a human-free frontline](https://www.reddit.com/r/robotics/comments/1utclru/ground_robots_inherit_the_kill_zone_ukrainian/)**
-
-1d ago
-
----
-
-**[Why Robots Can't Walk Up a Wet Hill (And How a Goat Solved It)](https://www.reddit.com/r/robotics/comments/1utrx75/why_robots_cant_walk_up_a_wet_hill_and_how_a_goat/)**
-
-Engineers have spent billions teaching robots to do backflips and solve complex math, yet a wet, mossy hill can stop a state-of-the-art robot completely. This video breaks down how researchers solved that problem not with better software, but by copying the design of a mountain goat's hoof, using a rigid outer shell to mimic keratin and a soft flexible core to mimic the natural grip pad, creating a robotic foot that uses zero cameras, sensors, or microprocessors. The result is a purely mechanical solution called passive mechanics, proving that sometimes evolution has already engineered the answer millions of years before we did. Published research on biomimetic robotic foot design for rough terrain locomotion
-
-🔗 [youtu.be](https://youtu.be/tywMrjb5-RA?si=lniQ7RIRgGO8oia5) • 1d ago
-
----
-
-**[[Most robots react. This one thinks a step ahead.] Ant Group's Robbyant just published LingBot-VA 2.0 — a video-action foundation model built from scratch for robot control, not fine-tuned from a video generator.](https://www.reddit.com/r/robotics/comments/1uted5n/most_robots_react_this_one_thinks_a_step_ahead/)**
-
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) • 1d ago
-
----
-
-**[Most demos showcasing degrees of freedom are based on bare-metal setups. Do cosmetic elements, such as the casing, affect the smoothness of motion?](https://www.reddit.com/r/robotics/comments/1uslg44/most_demos_showcasing_degrees_of_freedom_are/)**
-
-For aesthetic reasons, robots are typically equipped with outer casings around their core components. Could the degrees of freedom of a bare robot be compromised in terms of performance due to design constraints? Is that why the demonstration robot in the example uses rubber gloves as its outer casing? Is this a better choice?
-
-2d ago
-
----
-
-**[Robotic Welding at Premier Automation](https://www.reddit.com/r/robotics/comments/1usogqq/robotic_welding_at_premier_automation/)**
-
-2d ago
-
----
-
-**[AgileX Nero experiences?](https://www.reddit.com/r/robotics/comments/1uswcp8/agilex_nero_experiences/)**
-
-I am looking for reviews or experience reports with the agilex Nero robot arm! I want to use it as a mobile manipulator, it's quite interesting given it's rather low price and high payload. [Link](https://www.mybotshop.de/AgileX-Nero-7-DoF)
-
-2d ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
+
+Tech Xplore • 15h ago
+
+---
 
 **[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
 
@@ -116,33 +126,25 @@ Cowboy State Daily • 1d ago
 
 ---
 
-**[Humanoid robots controlled by surgeons did world-first operation on live pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/)**
-
-Preclinical trial is testing the feasibility of humanoid robots in surgery.
-
-Ars Technica • 3d ago
-
----
-
 **[Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction](https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/)**
 
 Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
 
-CNET • 14h ago
+CNET • 18h ago
 
 ---
 
-**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
+**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
 
-Tech Xplore • 11h ago
+Reuters • 2d ago
 
 ---
 
-**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://finance.yahoo.com/technology/ai/articles/altera-returns-growth-ai-robotics-184232312.html)**
+**[Bixby honors middle school robotics team after top-five world finish](https://www.newson6.com/news-videos/bixby-honors-middle-school-robotics-team-after-top-five-world-finish)**
 
-Altera, a maker of programmable chips spun out of Intel, is growing roughly 20% a year and more than ‌doubling operating income as it prepares for an eventual public listing, Chief Executive Raghib ‌Hussain told Reuters in an interview.  Altera became fully independent last September after Intel agreed to sell a 51% stake ​to Silver Lake for $4.46 billion in a transaction valuing Altera at $8.75 billion.  Intel retains a 49% stake.
+The middle school robotics team was recognized with a city proclamation honoring its international achievement.
 
-Yahoo Finance • 2d ago
+News On 6 • 16h ago
 
 ---
 
@@ -154,27 +156,25 @@ NVIDIA Developer • 1d ago
 
 ---
 
-**[Bixby honors middle school robotics team after top-five world finish](https://www.newson6.com/news-videos/bixby-honors-middle-school-robotics-team-after-top-five-world-finish)**
-
-The middle school robotics team was recognized with a city proclamation honoring its international achievement.
-
-News On 6 • 12h ago
-
----
-
-**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
-
-St. Pius High School held their first ever robotics competition Saturday in Albuquerque
-
-KOB.com • 21h ago
-
----
-
 **[The race to develop robotic hands, memories of legendary gigs and the sea as medicine for the brain](https://www.theguardian.com/news/2026/jul/11/the-race-to-develop-robotic-hands-memories-of-legendary-gigs-and-the-sea-as-medicine-for-the-brain)**
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
 
-The Guardian • 1d ago
+The Guardian • 2d ago
+
+---
+
+**[What’s ‘Next’ for Hyundai: Driving Innovation through Robotics](https://www.hyundai.com/worldwide/en/brand-journal/worldcup2026/hyundai-next-robotics)**
+
+Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
+
+hyundai.com • 19h ago
+
+---
+
+**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
+
+Autoblog • 15h ago
 
 ---
 
@@ -188,31 +188,31 @@ Tech Xplore • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
+
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
+
+📺 PRO ROBOTS
+
+👁️ 26K • 👍 771 • 💬 57 • ⏱️ 29:49 • 3d ago
+
+---
+
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
+
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
+
+📺 ABC News
+
+👁️ 47K • 👍 767 • 💬 297 • ⏱️ 1:54 • 2d ago
+
+---
+
 **[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
 
 📺 Varun Mayya
 
-👁️ 126K • 👍 5K • 💬 75 • ⏱️ 1:03 • 1d ago
-
----
-
-**[The Robot Hand That Can Actually Feel](https://www.youtube.com/watch?v=VcX0wzdBLPM)**
-
-This is one of the most advanced robotic hands on the planet. Built by Norwegian company 1X, it ships on their Neo humanoid, ...
-
-📺 Yury AI
-
-👁️ 782 • 👍 26 • 💬 2 • ⏱️ 0:45 • 3h ago
-
----
-
-**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
-
-How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
-
-📺 Suhel Experiment
-
-👁️ 13K • 💬 19 • ⏱️ 1:30 • 12h ago
+👁️ 131K • 👍 5K • 💬 76 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 37K • 👍 2K • 💬 107 • ⏱️ 2:38 • 2d ago
+👁️ 38K • 👍 2K • 💬 110 • ⏱️ 2:38 • 2d ago
 
 ---
 
@@ -232,7 +232,37 @@ Sharing an example of a pneumatic gripper that belongs in our robotics projects 
 
 📺 David Malawey
 
-👁️ 3K • 👍 207 • 💬 14 • ⏱️ 1:00 • 5h ago
+👁️ 5K • 👍 300 • 💬 18 • ⏱️ 1:00 • 9h ago
+
+---
+
+**[War Robots BUT EVERYONE has only 1 HP](https://www.youtube.com/watch?v=sI1HN81GTIo)**
+
+War Robots Special Game-Mode Gameplay: 1 Shot 1 Kill My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
+
+📺 Manni-Gaming
+
+👁️ 6K • 👍 341 • 💬 51 • ⏱️ 13:11 • 19h ago
+
+---
+
+**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
+
+How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
+
+📺 Suhel Experiment
+
+👁️ 17K • 💬 21 • ⏱️ 1:30 • 15h ago
+
+---
+
+**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
+
+Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
+
+📺 Kalil 4.0
+
+👁️ 17K • 👍 401 • 💬 63 • ⏱️ 10:42 • 6d ago
 
 ---
 
@@ -242,45 +272,17 @@ The Texas startup Persona AI is training its heavy-duty humanoid robot for weldi
 
 📺 Kalil 4.0
 
-👁️ 381 • 👍 18 • 💬 2 • ⏱️ 0:59 • 2h ago
+👁️ 938 • 👍 45 • 💬 3 • ⏱️ 0:59 • 6h ago
 
 ---
 
-**[Kids Spent a Day with New Robot Friend](https://www.youtube.com/watch?v=R13RoeN7nd4)**
+**[The Robot Hand That Can Actually Feel](https://www.youtube.com/watch?v=VcX0wzdBLPM)**
 
-In this family adventure story kids learn to respect each other and that nothing is better than to have a real friend! 00:00 Kids Spent ...
+This is one of the most advanced robotic hands on the planet. Built by Norwegian company 1X, it ships on their Neo humanoid, ...
 
-📺 Chris kids show
+📺 Yury AI
 
-👁️ 377K • 👍 1K • ⏱️ 20:47 • 1d ago
-
----
-
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=RGz7uWR7Apc)**
-
-📺 Borunte julie 
-
-👁️ 734K • 👍 2K • 💬 2 • ⏱️ 0:17 • 4d ago
-
----
-
-**[Scientists Put Robot Animals In The Wild... The Results Were Shocking😳](https://www.youtube.com/watch?v=HvdFnrzHN3U)**
-
-Scientists placed realistic robot animals into the wild to study animal behavior, teamwork, and empathy. What happened next ...
-
-📺 Peak Swag
-
-👁️ 841K • 👍 12K • 💬 69 • ⏱️ 0:50 • 1d ago
-
----
-
-**[Scrap Metal Turned Into an Incredible Walking Mech! 🔥⚙️ #Robot #DIY](https://www.youtube.com/watch?v=7D1uTF2ssSY)**
-
-Can a pile of rusty scrap become a giant mechanical suit? ⚙️ Watch an incredible build as a man and woman transform ...
-
-📺 Shelter Guide
-
-👁️ 85K • 👍 944 • 💬 5 • ⏱️ 0:40 • 14h ago
+👁️ 1K • 👍 34 • 💬 2 • ⏱️ 0:45 • 7h ago
 
 ---
 

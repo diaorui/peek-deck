@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-13T02:50:49.326362+00:00'
+updated: '2026-07-13T06:20:20.241801+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 02:50 UTC  
+**Last Updated:** July 13, 2026 at 06:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,649.63
+### $62,791.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +0.1%  
-**30d:** -3.6%  
-**90d:** -15.2%  
-**1y:** -47.1%  
+**24h:** -1.8%  
+**7d:** -1.0%  
+**30d:** -4.6%  
+**90d:** -16.1%  
+**1y:** -47.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1270.94B
+**Market Cap:** $1257.93B
 Rank #1
 
-**Circulating Supply:** 20,055,546 BTC
+**Circulating Supply:** 20,055,625 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.7%
+-50.3%
 
 **All-Time Low:** $67.81
-+93352.3%
++92359.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 26
+### 28
 **FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-🔗 [Imgur](https://i.imgur.com/Ni0Bii8.jpg) • 14h ago
+🔗 [Imgur](https://i.imgur.com/Ni0Bii8.jpg) • 18h ago
 
 ---
 
@@ -89,13 +89,13 @@ Discover the magic of the internet at Imgur, a community powered entertainment d
 
 Essentially spent $20 million. Not to mention the remaining BTC that got seized by the government when silk road got shut down. No real regrets though.
 
-17h ago
+20h ago
 
 ---
 
 **[In response to the 2012 LSD 1$ post, here’s my DNM wallet from ten years ago when I was vending](https://www.reddit.com/r/Bitcoin/comments/1uugfcv/in_response_to_the_2012_lsd_1_post_heres_my_dnm/)**
 
-12h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ Essentially spent $20 million. Not to mention the remaining BTC that got seized 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=DrYIMXqz3_s) • 10h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=DrYIMXqz3_s) • 13h ago
 
 ---
 
@@ -111,7 +111,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi r/Bitcoin, A few months ago I shared a slightly unusual experiment here: beer with sats hidden under every cap. I’m Altan from Beer of Satoshi. The idea was to make someone’s first Lightning interaction as simple as opening a bottle. You scan the QR code under the cap, reveal the reward in your browser, and claim the sats with a Lightning wallet. The response to the first post was much bigger than I expected, but the comments were more valuable than the attention itself. Some people loved the concept. Others were very direct about its weaknesses. The first Genesis batch was expensive at roughly €7 per bottle. And for people who did not drink alcohol, the product simply was not an option. One comment in particular stayed with me: “I like the idea, but I don’t drink alcohol.” That was a fair point. If the goal is to give more people a simple first Bitcoin experience, alcohol should not be a requirement. We had already produced a small alcohol-free test batch for Bitcoin Amsterdam 2025. It sold out, but the more interesting part was watching what happened after people opened the bottles. They scanned the caps, compared their rewards, helped each other with Lightning wallets, and made claims right there at the event. That convinced us to turn the test batch into a proper release. It is called Beer of Satoshi Zero. Zero is alcohol-free, but the Bitcoin experience under the cap stays the same. Every bottle reveals a sats reward in the browser, which can then be claimed over Lightning. No account is required, and you do not need a wallet just to reveal the amount. You only need one when you actually want to claim the sats. We also worked on the price. The 24-pack pre-order is €70.80, which comes to €2.95 per bottle. Smaller packs are available as well. This is a pre-order rather than ready stock, and the first shipments are planned for Q1 2027. Since the original Reddit thread, the public leaderboard has grown to 1,780 claims from 767 users, with 470,228 sats distributed. Those are still small numbers in the wider Bitcoin world, but they are enough to show why the concept can work. Telling someone to install a Lightning wallet because Bitcoin is interesting often creates friction. Showing them that sats are already waiting under a cap gives them a concrete reason to take the next step. That moment — when Bitcoin changes from something a person has only heard about into something they have actually received — is still the reason we are building this. Here is the original discussion: https://www.reddit.com/r/Bitcoin/comments/1p4oili/beer_of_satoshi_my_experiment_to_get_real_people/ Beer of Satoshi Zero: https://shop.beerofsatoshi.com/products/beer-of-satoshi-zero Public claim leaderboard: https://leaderboard.beerofsatoshi.com The feedback on the first post genuinely changed the product. So before we finalise the production run, I would like to ask the community again: What would you improve about the first-time scan-and-claim experience? Cheers, Altan
 
-11h ago
+15h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hi r/Bitcoin, A few months ago I shared a slightly unusual experiment here: beer
 
 On February 24, 2026, Bitcoin exchange Bull Bitcoin filed a petition with France's Conseil d'État, the country's highest administrative court, seeking to annul Decree No. 2025-1276, France's implementation of the EU's DAC8 directive. What DAC8 actually requires DAC8 (Directive (EU) 2023/2226, adopted by the EU Council in 2023) took effect January 1, 2026. It requires "crypto-asset service providers", the exchanges most Bitcoin holders use to buy, sell, or cash out, to collect each customer's identity and transaction history and report it annually to their national tax authority. That data is then automatically exchanged with tax authorities in other EU member states, and eventually with non-EU countries that adopt the OECD's parallel Crypto-Asset Reporting Framework (CARF). Worth being precise here: DAC8 does not regulate self-custody or on-chain activity directly. It's a reporting obligation on regulated exchanges. But if you've ever bought or sold Bitcoin through an EU-licensed exchange, your identity is now tied, inside a government database, to your transaction history. Key dates DAC8 in force: January 1, 2026 French decree signed: December 19, 2025 (Décret n° 2025-1276) Summary petition filed: February 24, 2026, followed by a more detailed legal brief First reports (covering 2026 activity) due: before September 30, 2027, after which automatic cross-border data exchange begins The legal argument Bull Bitcoin's case rests on Article 52 of the EU Charter of Fundamental Rights, arguing that blanket, suspicionless collection of financial data fails the necessity-and-proportionality test. One procedural limit worth flagging: the Conseil d'État can only annul the French decree, not the EU directive itself — though it could refer a question to the Court of Justice of the European Union if it finds a genuine EU-law interpretation issue. Bull Bitcoin has said it's prepared to escalate to the CJEU and France's Constitutional Council if this fails. The physical-security angle The petition also raises a safety argument. France's Interior Minister, Laurent Nuñez, said on June 30, 2026, that authorities have recorded 77 cases of kidnapping, extortion, or attempted extortion linked to the crypto sector since the start of 2026, up from 45 for all of 2025. That count comes from the ministry itself, independent of Bull Bitcoin's filing. Bull Bitcoin argues that centralizing identity-linked financial data raises the odds that a future breach could help criminals locate holders; that specific causal chain hasn't been established by French authorities, so treat it as the plaintiff's argument, not a proven fact. What to watch next A ruling on the merits isn't expected for one to two years. Worth watching: whether the Conseil d'État refers the case to the CJEU, and whether other EU member states see similar challenges filed. This is the first formal legal test of DAC8 anywhere in the EU, so the outcome (however far off) will matter well beyond France. Source/analysis: The Bitcoin Act
 
-7h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ On February 24, 2026, Bitcoin exchange Bull Bitcoin filed a petition with France
 
 Better late than never.
 
-20h ago
+1d ago
 
 ---
 
@@ -135,7 +135,7 @@ Better late than never.
 
 Solo mining is a lottery. Statistically most of us will never hit a block, and the actual fun lives in the moments nobody celebrates: your best share ever, the near miss at 2 AM that was 90% of a block, surviving your first year of mining. So I shipped an achievements system for miners on my pool: 26 badges computed live from your real mining stats. Nothing to sign up for, no account, your payout address just earns them by mining. Best-share ladder from Copper to Obsidian, near-miss badges for the heartbreakers, block finder tiers, luck badges (block under 10% effort), loyalty and fleet milestones. https://preview.redd.it/hlpuc2zqftch1.png?width=1324&format=png&auto=webp&s=f7d73da3578280899cde5101ede8f39f28fc1b42 Check it out here: https://mkpool.com/btc/address/bc1q8exwdf3ex8htykd0nzmqpansf2j4qv7c7mqswr/achievements The detail I'm most happy with: Steam-style rarity on every badge. "5% of miners have this" next to Golden Nonce hits different when you're one of them. Nobody holds the top share tier yet on any coin. Every unlock has a live share card you can drop in a forum signature or paste in Discord/Telegram and it unfurls with your actual stats. Feedback welcome, especially ideas for achievements that don't need any signup to work. Everything is computed from public pool stats.
 
-11h ago
+15h ago
 
 ---
 
@@ -143,7 +143,7 @@ Solo mining is a lottery. Statistically most of us will never hit a block, and t
 
 Hey everyone, I’m in Canada and I’m planning to buy and hold Bitcoin for the long term. I’m looking for the best hardware (cold) wallet that’s secure and easy to use. A few questions: Which cold wallet would you recommend? (Coldcard, Trezor, Ledger, Blockstream Jade, etc.) Which one has the lowest overall fees to use? What’s the cheapest exchange in Canada to buy BTC and transfer it to a cold wallet? Are there any ways to legally reduce taxes when buying and eventually selling Bitcoin in Canada? I’d really appreciate hearing what you’re personally using and why. Thanks!
 
-12h ago
+15h ago
 
 ---
 
@@ -151,7 +151,7 @@ Hey everyone, I’m in Canada and I’m planning to buy and hold Bitcoin for the
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-20h ago
+1d ago
 
 ---
 
@@ -163,7 +163,35 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.
 
-CoinDesk • 15h ago
+CoinDesk • 18h ago
+
+---
+
+**[Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data](https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc)**
+
+The whale last moved bitcoin in 2018, when the cryptocurrency traded at roughly $6,475, reflecting nearly a tenfold gain since then.
+
+The Block • 4h ago
+
+---
+
+**[Bitcoin Weakens as Oil-Price Spike Revives Inflation Concerns](https://www.bloomberg.com/news/articles/2026-07-13/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Altcoin Season Index Signals Growing Momentum Beyond Bitcoin](https://finance.yahoo.com/markets/crypto/articles/altcoin-season-index-signals-growing-034925021.html)**
+
+The Altcoin Season Index has climbed toward 58 after a June spike to 64, as Bitcoin dominance slides and capital rotates into altcoins.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Corporate Bitcoin holdings have shrunk by $100 billion, and those who bought at elevated prices may become a source of selling pressure.](https://www.moomoo.com/news/post/72828681/corporate-bitcoin-holdings-have-shrunk-by-100-billion-and-those)**
+
+Moomoo • 2h ago
 
 ---
 
@@ -171,31 +199,15 @@ CoinDesk • 15h ago
 
 I’ve been calling bitcoin down for ages. And it’s been falling. I called it up in 2017, 2021, and 2025. I’m a bull on the way up and a bear on the way back down again.
 
-Forbes • 11h ago
+Forbes • 14h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Consolidate as US-Iran Tensions Escalate: Analyst Says People Will Be 'Surprised' by Upcoming Bull Cycle](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-consolidate-015612476.html)**
+**[Australia’s top Substack is making millions from bitcoin (but not by buying it)](https://www.afr.com/companies/media-and-marketing/the-media-outlet-making-millions-from-bitcoin-but-not-by-buying-it-20260709-p60e47)**
 
-Leading cryptocurrencies moved sideways, while stock futures slid on Sunday evening amid investor concerns over escalating U.S.-Iran tensions. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.31%$63,731.70Ethereum (CRYPTO: ETH) +0.65%$1,818.68XRP (CRYPTO: XRP) -0.63%$1.08Solana (CRYPTO: SOL) +1.13%$77.17Dogecoin (CRYPTO: DOGE) +0.19%$0.07306 Crypto Market Takes A Breather Bitcoin fluctuated sharply between $63,000 and $64,000 as trading volume rose 18% over
+James Check, Alec Dejanovic and Jacinta Stuart-O’Toole quit their jobs to grow a newsletter about the cryptocurrency. It now rakes in $1.4 million a year.
 
-Yahoo Finance • 54m ago
-
----
-
-**[A Bitcoin whale just woke up after 7 years. 2,931 $Bitcoin (BTC.CC)$ (~$188M) was moved after sitting untouched since BTC traded at ~$6.5K. Today, with BTC above ~$64K, the same stack is worth nearly 10x more. Data credit: @arkham](https://www.moomoo.com/community/feed/a-bitcoin-whale-just-woke-up-after-7-years-2-116909541949445)**
-
-@Onchain Lens 5948 Views
-
-Moomoo • 2h ago
-
----
-
-**[$Bitcoin (BTC.CC)$ Looks perfect 🫣🤣](https://www.moomoo.com/community/feed/bitcoin-btc-cc-looks-perfect-116910181187590)**
-
-@Lowexpectations 3127 Views|1 Like
-
-Moomoo • 54m ago
+AFR • 21h ago
 
 ---
 
@@ -203,31 +215,7 @@ Moomoo • 54m ago
 
 Rising inflation, Bitcoin’s four-year cycle, and excess leverage continue to draw the cryptocurrency’s price down.
 
-Fortune • 19h ago
-
----
-
-**[The media outlet making millions from bitcoin (but not by buying it)](https://www.afr.com/companies/media-and-marketing/the-media-outlet-making-millions-from-bitcoin-but-not-by-buying-it-20260709-p60e47)**
-
-James Check, Alec Dejanovic and Jacinta Stuart-O’Toole quit their jobs to grow a newsletter about the cryptocurrency. It now rakes in $1.4 million a year.
-
-AFR • 18h ago
-
----
-
-**[Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: 'Orange dots tell only part of the story'](https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story)**
-
-Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.7 billion underwater with bitcoin trading near $64,000.
-
-The Block • 8h ago
-
----
-
-**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
-
-American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
-
-Honolulu Star-Advertiser • 2d ago
+Fortune • 23h ago
 
 ---
 
@@ -235,7 +223,13 @@ Honolulu Star-Advertiser • 2d ago
 
 There's a lot to be excited about once a new bull market starts in crypto.
 
-The Motley Fool • 16h ago
+The Motley Fool • 20h ago
+
+---
+
+**[Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225)**
+
+Investing.com • 1d ago
 
 ---
 
@@ -301,7 +295,7 @@ It’s supposed to be a decentralized service, after all...
 
 Usable Security, Human-Computer Interaction & AI, from a UNIX perspective.
 
-⬆️ 62 • 💬 31 • 6d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
+⬆️ 63 • 💬 32 • 6d ago • [atthis.link](https://atthis.link/blog/2026/57207.html)
 
 ---
 
@@ -315,17 +309,7 @@ Follow Brian: https://www.youtube.com/@brainharrington Follow Brian: https://x.c
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 909 • 💬 159 • ⏱️ 19:36 • 6h ago
-
----
-
-**[Data Scientist WARNS Bitcoin Holders ⮕ “History is REPEATING!”](https://www.youtube.com/watch?v=FjmHBEzHUZw)**
-
-Data Scientist Ben Cowen Issues DIRE WARNING to Bitcoin Holders “History is REPEATING!” 🎟️ Use Code “AD2026” for 10% ...
-
-📺 Altcoin Daily
-
-👁️ 60K • 👍 3K • 💬 205 • ⏱️ 27:14 • 1d ago
+👁️ 19K • 👍 1K • 💬 209 • ⏱️ 19:36 • 10h ago
 
 ---
 
@@ -335,7 +319,27 @@ Bitcoin price prediction for 2029 that isn't B.S. crazy. Presentation Slides & U
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 481 • 💬 51 • ⏱️ 48:46 • 10h ago
+👁️ 8K • 👍 522 • 💬 55 • ⏱️ 48:46 • 13h ago
+
+---
+
+**[Bitcoin&#39;s Next Move Comes Down to This...](https://www.youtube.com/watch?v=gsnBZ1F4vQI)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 5K • 👍 387 • 💬 199 • ⏱️ 11:14 • 4h ago
+
+---
+
+**[Data Scientist WARNS Bitcoin Holders ⮕ “History is REPEATING!”](https://www.youtube.com/watch?v=FjmHBEzHUZw)**
+
+Data Scientist Ben Cowen Issues DIRE WARNING to Bitcoin Holders “History is REPEATING!” 🎟️ Use Code “AD2026” for 10% ...
+
+📺 Altcoin Daily
+
+👁️ 62K • 👍 3K • 💬 205 • ⏱️ 27:14 • 1d ago
 
 ---
 
@@ -345,7 +349,7 @@ The biggest Bitcoin bear argument right now is that Strategy could trigger a cat
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 124 • ⏱️ 24:58 • 1d ago
+👁️ 24K • 👍 2K • 💬 119 • ⏱️ 24:58 • 1d ago
 
 ---
 
@@ -355,7 +359,7 @@ The financial system is quietly being rebuilt, and Bitcoin is moving from specul
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 986 • 💬 56 • ⏱️ 12:42 • 5h ago
+👁️ 15K • 👍 1K • 💬 62 • ⏱️ 12:42 • 8h ago
 
 ---
 
@@ -365,47 +369,37 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 64K • 👍 3K • 💬 78 • ⏱️ 52:26 • 1d ago
+👁️ 66K • 👍 3K • 💬 78 • ⏱️ 52:26 • 1d ago
 
 ---
 
-**[Buying Every Bitcoin Bottom Was A Mistake](https://www.youtube.com/watch?v=kpzHwTGW_dk)**
+**[Top 3 Cryptos To Buy Now 🔥](https://www.youtube.com/watch?v=sHJ7ilbWtXA)**
 
-Buying one Bitcoin at the exact bottom of all four cycles, perfect hindsight timing executed flawlessly, produced 4 coins from ...
+Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
 
-📺 Lark Davis
+📺 Altcoin Daily
 
-👁️ 10K • 👍 508 • 💬 41 • ⏱️ 10:00 • 14h ago
-
----
-
-**[Bitcoin is Quietly HOLDING This Key Level… (HERE’S WHAT IT MEANS)](https://www.youtube.com/watch?v=5_v4BZvddlo)**
-
-Bitcoin is quietly holding a key level of support and is appearing to bounce from that level. Could this be important for bitcoin in ...
-
-📺 Alessio Rastani
-
-👁️ 24K • 👍 2K • 💬 419 • ⏱️ 9:13 • 2d ago
+👁️ 21K • 👍 615 • 💬 34 • ⏱️ 1:28 • 2d ago
 
 ---
 
-**[How Much Bitcoin Do You Need To Be Part Of The 1% Richest Holders On Earth?](https://www.youtube.com/watch?v=lApFemzC6HU)**
+**[How Bitcoin Can Be Killed For $8 Billion – Duke’s Cam Harvey](https://www.youtube.com/watch?v=0HlpZKXFVYg)**
 
-It's going to be fascinating to see just how many people fomo into the bitcoin and cryptocurrency market as Bitcoin moves closer to ...
+Bitcoin #Crypto #finance Duke finance professor Campbell Harvey explains why the recession everyone expected never arrived, ...
 
-📺 Money Rules - Investing Tips 
+📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 973 • 💬 286 • ⏱️ 10:16 • 15h ago
+👁️ 10K • 👍 427 • 💬 409 • ⏱️ 50:39 • 17h ago
 
 ---
 
-**[Bitcoin Brand New All Time High The Crypto Market Is In For The Shock Of A Lifetime](https://www.youtube.com/watch?v=DuDeY_sS0z8)**
+**[Bitcoin: The Brutal Bottom Is Beginning](https://www.youtube.com/watch?v=EVMeA5v0D5Y)**
 
-Bitcoin seems... different. Especially since 2017, the idea about and around bitcoin and the cryptocurrency market have gone ...
+WEEKLY REPORTS → https://link.tiainvestor.com/jyt-reports ➡ 18-YEAR CYCLE MINI-COURSE ...
 
-📺 The Modern Investor
+📺 Jason Pizzino
 
-👁️ 5K • 👍 580 • 💬 251 • ⏱️ 37:03 • 17h ago
+👁️ 5K • 👍 485 • 💬 39 • ⏱️ 25:28 • 4h ago
 
 ---
 
