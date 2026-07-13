@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-13T12:32:22.889110+00:00'
+updated: '2026-07-13T15:44:43.604408+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 13, 2026 at 12:32 UTC  
+**Last Updated:** July 13, 2026 at 15:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 **[Teleop study break](https://www.reddit.com/r/robotics/comments/1uujob3/teleop_study_break/)**
 
-20h ago
+23h ago
 
 ---
 
@@ -50,7 +50,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
 
-8h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the enti
 
 https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-DOF Raspberry Pi 4B robot arm with a Three.js 3D web interface. Features YOLOv8 object detection, VL53L1X depth sensing, 2-link inverse kinematics, autonomous object pickup, INA219 current-based gripper stall detection, floor collision protection, and a live digital twin for real-time visualization.
 
-21h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-D
 
 I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
 
-11h ago
+14h ago
 
 ---
 
@@ -122,7 +122,15 @@ Cowboy State Daily • 1d ago
 
 **[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 1d ago
+
+---
+
+**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
+
+The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
+
+Inquirer.com • 3h ago
 
 ---
 
@@ -140,6 +148,14 @@ Reuters • 2d ago
 
 ---
 
+**[First bird-scale robot to swim, dive, and launch back into flight](https://newatlas.com/robotics/first-bird-robot-swim-dive-launch-mit-epfl/)**
+
+A robot that swims like a diving bird and then flies like, well, a bird, sounds like the setup for two different machines bolted together. But researchers at MIT and EPFL built one that does both with a single set of wings. No propellers, no legs, and no origami-style folding mechanism to switch…
+
+New Atlas • 3h ago
+
+---
+
 **[The race to develop robotic hands, memories of legendary gigs and the sea as medicine for the brain](https://www.theguardian.com/news/2026/jul/11/the-race-to-develop-robotic-hands-memories-of-legendary-gigs-and-the-sea-as-medicine-for-the-brain)**
 
 Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
@@ -152,35 +168,21 @@ The Guardian • 2d ago
 
 Company lifts total canceled warrants since 2025 to nearly 50M and rolls out a Q3 robotics deployment push aimed at 2,000 unit shipments this year.
 
-Stock Titan • 13h ago
+Stock Titan • 16h ago
 
 ---
 
-**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
+**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
 
-Tech Xplore • 1d ago
+Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
----
-
-**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
-
-1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
-
-Business Insider • 3h ago
+New Atlas • 3d ago
 
 ---
 
 **[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
 
-Autoblog • 21h ago
-
----
-
-**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
-
-St. Pius High School held their first ever robotics competition Saturday in Albuquerque
-
-KOB.com • 1d ago
+Autoblog • 1d ago
 
 ---
 
@@ -188,23 +190,23 @@ KOB.com • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
-
-For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
-
-📺 ABC News
-
-👁️ 48K • 👍 783 • 💬 305 • ⏱️ 1:54 • 3d ago
-
----
-
 **[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
 Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
 📺 PRO ROBOTS
 
-👁️ 26K • 👍 776 • 💬 57 • ⏱️ 29:49 • 3d ago
+👁️ 26K • 👍 779 • 💬 57 • ⏱️ 29:49 • 4d ago
+
+---
+
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
+
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
+
+📺 ABC News
+
+👁️ 49K • 👍 802 • 💬 317 • ⏱️ 1:54 • 3d ago
 
 ---
 
@@ -214,35 +216,7 @@ Putting technology to the test through combat, and connecting the world through 
 
 📺 Unitree Robotics
 
-👁️ 179K • 👍 930 • 💬 155 • ⏱️ 1:10 • 4d ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 140K • 👍 5K • 💬 80 • ⏱️ 1:03 • 1d ago
-
----
-
-**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
-
-Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
-
-📺 Discovery Australia
-
-👁️ 11K • 👍 240 • 💬 6 • ⏱️ 8:20 • 16h ago
-
----
-
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
-
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
-
-📺 China Observer
-
-👁️ 72K • 👍 2K • 💬 593 • ⏱️ 20:21 • 5d ago
+👁️ 179K • 👍 934 • 💬 155 • ⏱️ 1:10 • 4d ago
 
 ---
 
@@ -252,7 +226,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 39K • 👍 2K • 💬 112 • ⏱️ 2:38 • 2d ago
+👁️ 40K • 👍 2K • 💬 113 • ⏱️ 2:38 • 3d ago
 
 ---
 
@@ -262,7 +236,45 @@ Sharing an example of a pneumatic gripper that belongs in our robotics projects 
 
 📺 David Malawey
 
-👁️ 7K • 👍 393 • 💬 20 • ⏱️ 1:00 • 15h ago
+👁️ 8K • 👍 452 • 💬 24 • ⏱️ 1:00 • 18h ago
+
+---
+
+**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
+
+Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
+
+📺 Discovery Australia
+
+👁️ 13K • 👍 271 • 💬 6 • ⏱️ 8:20 • 19h ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 144K • 👍 5K • 💬 81 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+
+📺 China Observer
+
+👁️ 72K • 👍 2K • 💬 594 • ⏱️ 20:21 • 5d ago
+
+---
+
+**[This is the most advanced robot hand ever invented #shorts](https://www.youtube.com/watch?v=25HKvK7anJg)**
+
+This is the most advanced robot hand ever invented. It's the tendon-based NEO hand from 1X. And it sounds wild to say…but this ...
+
+📺 Kallaway
+
+👁️ 296K • 👍 16K • 💬 739 • ⏱️ 1:25 • 3d ago
 
 ---
 
@@ -272,17 +284,7 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 
 📺 Suhel Experiment
 
-👁️ 21K • 💬 22 • ⏱️ 1:30 • 22h ago
-
----
-
-**[War Robots BUT EVERYONE has only 1 HP](https://www.youtube.com/watch?v=sI1HN81GTIo)**
-
-War Robots Special Game-Mode Gameplay: 1 Shot 1 Kill My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
-
-📺 Manni-Gaming
-
-👁️ 6K • 👍 363 • 💬 57 • ⏱️ 13:11 • 1d ago
+👁️ 22K • 💬 22 • ⏱️ 1:30 • 1d ago
 
 ---
 

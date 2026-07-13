@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-13T12:32:22.885593+00:00'
+updated: '2026-07-13T15:44:43.601206+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 12:32 UTC  
+**Last Updated:** July 13, 2026 at 15:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,799.00
+### $1,770.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
+**24h:** -2.4%  
 **7d:** +0.4%  
 **30d:** +3.0%  
 **90d:** -24.6%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $214.43B
+**Market Cap:** $214.49B
 Rank #2
 
 **Circulating Supply:** 120,683,011 ETH
@@ -62,7 +62,7 @@ No max supply
 -64.1%
 
 **All-Time Low:** $0.43
-+410250.2%
++410116.2%
 
 ---
 
@@ -154,15 +154,23 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Robinhood Chain’s Gas Subsidy Is Closing the Gap With Base: Future of Ethereum On Horizon?](https://finance.yahoo.com/markets/crypto/articles/robinhood-chain-gas-subsidy-closing-113604073.html)**
+**[Eric Trump Notices Ethereum 'Pumping Hard,' But Top Analyst Says They'd Only Go Long After ETH Clears This Level](https://finance.yahoo.com/markets/crypto/articles/eric-trump-notices-ethereum-pumping-044209601.html)**
 
-Ethereum News: Robinhood Chain processed 7.6 million daily transactions on July 10, just 11 days after its July 1 mainnet launch, closing sharply on Coinbase’s Base, which recorded 9.2 million over the same period. The gap is narrowing faster than the Ethereum Layer 2 competitive landscape expected, and the mechanism ...
+American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump cheered Ethereum’s (CRYPTO: ETH) brief spike above $1,800 on Saturday, even as the token soon retraced. ‘Crypto Is The Future’ Trump shared a candlestick chart of the ETH/BTC pair showing a 1.32% gain to 0.02837, saying, “ETH is pumping hard! Great to see! Crypto is the future…” Notably, some users were quick to point out how ETH retreated immediately following Trump’s post. Every single time LMAO https://t.co/mMneBzehbX pic.twitter.com/
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Tom Lee says users 'starting to see Ethereum as money' as Bitmine adds 27,801 ETH](https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth)**
+
+Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.
+
+The Block • 2h ago
 
 ---
 
@@ -170,15 +178,7 @@ Yahoo Finance • 56m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces $64K hurdle, ETH signals caution, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-64k-hurdle-eth-signals-caution-xrp-defends-key-support-202607130411)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure at the start of the week on Monday, after BTC and ETH recovered slightly, while XRP corrected by over 6% in the previous week.
-
-FXStreet • 8h ago
+Fortune • 4h ago
 
 ---
 
@@ -186,7 +186,15 @@ FXStreet • 8h ago
 
 One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
 
-The Motley Fool • 16h ago
+The Motley Fool • 19h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces $64K hurdle, ETH signals caution, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-64k-hurdle-eth-signals-caution-xrp-defends-key-support-202607130411)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure at the start of the week on Monday, after BTC and ETH recovered slightly, while XRP corrected by over 6% in the previous week.
+
+FXStreet • 11h ago
 
 ---
 
@@ -198,11 +206,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization](https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization)**
+**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
-Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
-
-The Block • 2d ago
+thestreet.com • 1d ago
 
 ---
 
@@ -214,19 +220,11 @@ blockchain.news • 1d ago
 
 ---
 
-**[Robinhood Chain launch boosts Ethereum optimism; Saylor hints Bitcoin sale shift](https://cryptobriefing.com/robinhood-chain-launch-boosts-ethereum-optimism-saylor-hints-bitcoin-sale-shift/)**
+**[BitMine acquires $49M in Ethereum amid Robinhood Chain demand](https://cryptobriefing.com/bitmine-acquires-49m-in-ethereum-amid-robinhood-chain-demand/)**
 
-Robinhood launches its Layer-2 solution, boosting Ethereum optimism. Bitcoin above $56K by July 13, 2026 at 99.9% YES.
+BitMine acquires $49M in Ethereum amid rising demand from the Robinhood Chain. Ethereum reaching $1,900 by July 2026 at 51.5% YES.
 
-Crypto Briefing • 12h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Consolidate as US-Iran Tensions Escalate: Analyst Says People Will Be 'S](https://www.benzinga.com/crypto/cryptocurrency/26/07/60406116/bitcoin-ethereum-xrp-and-dogecoin-consolidate-as-us-iran-tensions-escalate)**
-
-Leading cryptocurrencies moved sideways, while stock futures slid on Sunday evening amid investor concerns over escalating U.S.-Iran tensions.
-
-Benzinga • 10h ago
+Crypto Briefing • 8m ago
 
 ---
 
@@ -240,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 468 • 💬 329 • ⏱️ 15:11 • 10h ago
+👁️ 7K • 👍 531 • 💬 245 • ⏱️ 15:11 • 13h ago
 
 ---
 
@@ -250,7 +248,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 522 • 💬 362 • ⏱️ 13:44 • 15h ago
+👁️ 7K • 👍 535 • 💬 402 • ⏱️ 13:44 • 19h ago
 
 ---
 
@@ -260,7 +258,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 640 • 💬 560 • ⏱️ 24:07 • 1d ago
+👁️ 9K • 👍 646 • 💬 573 • ⏱️ 24:07 • 2d ago
 
 ---
 
@@ -270,17 +268,7 @@ Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus
 
 📺 NDTV Profit
 
-👁️ 267 • 👍 9 • 💬 1 • ⏱️ 3:43 • 5h ago
-
----
-
-**[Eli Ben-Sasson says the biggest risk to Ethereum is that “something more modern, better.”](https://www.youtube.com/watch?v=TbsXQrfmkFU)**
-
-DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe to CoinDesk on YouTube: ...
-
-📺 CoinDesk
-
-👁️ 188 • 👍 1 • ⏱️ 0:36 • 25m ago
+👁️ 401 • 👍 13 • 💬 1 • ⏱️ 3:43 • 8h ago
 
 ---
 
@@ -290,27 +278,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 124 • 💬 28 • ⏱️ 18:37 • 1d ago
+👁️ 5K • 👍 125 • 💬 29 • ⏱️ 18:37 • 1d ago
 
 ---
 
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=SVbJXrUvw40)**
+**[Eli Ben-Sasson says the biggest risk to Ethereum is that “something more modern, better.”](https://www.youtube.com/watch?v=TbsXQrfmkFU)**
 
-In this video I break down the latest Ethereum price analysis using an Elliott Wave perspective to determine if the current move ...
+DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe to CoinDesk on YouTube: ...
 
-📺 More Crypto Online
+📺 CoinDesk
 
-👁️ 3K • 👍 151 • 💬 12 • ⏱️ 5:14 • 15h ago
-
----
-
-**[Ethereum price prediction - ETH can make millionaires](https://www.youtube.com/watch?v=jwviNt99gQQ)**
-
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
-
-📺 Crypto With James
-
-👁️ 3K • 👍 66 • 💬 17 • ⏱️ 10:40 • 1d ago
+👁️ 570 • 👍 3 • ⏱️ 0:36 • 3h ago
 
 ---
 
@@ -324,13 +302,33 @@ Is the Ethereum inner circle quietly copying Cardano? In this video, we break do
 
 ---
 
-**[HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows](https://www.youtube.com/watch?v=mTjKDEh-A3U)**
+**[Ethereum price prediction - ETH can make millionaires](https://www.youtube.com/watch?v=jwviNt99gQQ)**
 
-HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows Hi babes, Bitcoin and Ethereum spot ...
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
 
-📺 CryptoWendyO
+📺 Crypto With James
 
-👁️ 3K • 👍 210 • 💬 20 • ⏱️ 9:31 • 1d ago
+👁️ 3K • 👍 66 • 💬 19 • ⏱️ 10:40 • 1d ago
+
+---
+
+**[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
+
+Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
+
+📺 Milk Road
+
+👁️ 3K • 👍 104 • 💬 11 • ⏱️ 10:43 • 2d ago
+
+---
+
+**[ICP Will Be the TOP Crypto Dominating Bitcoin and Ethereum](https://www.youtube.com/watch?v=H33GZLhlQ_c)**
+
+I think Internet Computer Protocol is on the way to being the number one cryptocurrency with Bitcoin falling to number 2 and ...
+
+📺 Jerry Banfield ICP
+
+👁️ 3K • 👍 237 • 💬 91 • ⏱️ 18:43 • 1d ago
 
 ---
 
