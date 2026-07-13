@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-13T20:39:13.320984+00:00'
+updated: '2026-07-13T21:57:40.952623+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 20:39 UTC  
+**Last Updated:** July 13, 2026 at 21:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,663.67
+### $62,180.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -1.7%  
-**30d:** -5.4%  
-**90d:** -16.8%  
-**1y:** -48.1%  
+**24h:** -2.9%  
+**7d:** -2.0%  
+**30d:** -5.6%  
+**90d:** -17.0%  
+**1y:** -48.2%  
 
 ---
 
@@ -159,37 +159,41 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Strategy Pauses Bitcoin Sales to Tap an Old Funding Source](https://www.barrons.com/articles/strategy-stock-bitcoin-2cff287b)**
+**[Strategy Leaves Bitcoin Holdings Unchanged](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-131900091.html)**
 
-Barron's • 1h ago
+Cryptocurrency treasury firm Strategy (NASDAQ: $MSTR) left its holdings of Bitcoin (CRYPTO: $BTC) unchanged over th...
+
+Yahoo Finance • 8h ago
 
 ---
 
-**[Trump invested crypto gains in stocks and bonds, filings show](https://www.reuters.com/legal/government/trump-invested-crypto-gains-stocks-bonds-filings-show-2026-07-13/)**
+**[Bitcoin Prices Drop As Geopolitical Turmoil Triggers Risk-Off Selling](https://www.forbes.com/sites/digital-assets/2026/07/13/bitcoin-prices-drop-as-geopolitical-turmoil-triggers-risk-off-selling/)**
 
-Reuters • 3h ago
+Bitcoin prices took a tumble on Monday, July 13, falling as global markets responded to the latest geopolitical tensions involving the Straight of Hormuz.
+
+Forbes • 1h ago
+
+---
+
+**[New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing](https://finance.yahoo.com/markets/crypto/articles/hampshire-follows-bitcoin-blockchain-basic-205709088.html)**
+
+New Hampshire's newly-signed crypto law introduces protections for users, miners, and stakers within its boundaries.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[U.S. government moves $8.8M of Bitcoin that Trump said would never sell](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-8-8m-204911394.html)**
+
+The United States government moved $8.8 million of Bitcoin to Coinbase Prime on Monday night, according to blockchain intelligence firm Arkham. "The US Government just moved $8.8M of BTC to Coinbase Prime. The Coinbase Prime deposit that received this BTC 1 hour ago also received seized BTC from ...
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin (BTC) Weakens as Oil-Price Spike Revives Inflation Concerns](https://www.bloomberg.com/news/articles/2026-07-13/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns)**
 
-Bloomberg.com • 8h ago
-
----
-
-**[Peter Schiff Says the Biggest Market Crash Will Not Start With Bitcoin, But Here](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-biggest-market-202833088.html)**
-
-Peter Schiff warns the next market crash starts in the bond market, not Bitcoin, hitting stocks, housing, and crypto.
-
-Yahoo Finance • 1d ago
-
----
-
-**[The 1 Bitcoin Chart They Don’t Want You To See](https://www.forbes.com/sites/digital-assets/2026/07/12/the-1-bitcoin-chart-they-dont-want-you-to-see/)**
-
-I’ve been calling bitcoin down for ages. And it’s been falling. I called it up in 2017, 2021, and 2025. I’m a bull on the way up and a bear on the way back down again.
-
-Forbes • 1d ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -205,19 +209,11 @@ Fortune • 1d ago
 
 Analysts point to bitcoin’s resilience amid fresh U.S.-Iran escalation and renewed spot ETF inflows as the clearest signs yet that the marginal seller has finally stepped away. Some still remain cautious.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin price crashes to $61K, wiping out bulls: Is a recovery catalyst ahead?](https://seekingalpha.com/news/4613290-bitcoin-price-crashes-to-61k-wiping-out-bulls-is-a-recovery-catalyst-ahead)**
-
-Bitcoin falls 3% amid $322M crypto liquidations and Middle East risks; CLARITY Act hearing could be a catalyst.
-
-Seeking Alpha • 2h ago
-
----
-
-**[Bitcoin dips to $62.5k as U.S.-Iran tensions weigh on risk sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-628k-as-usiran-tensions-batter-risk-4787419)**
+**[Bitcoin trapped at SuperTrend support: Hourly levels](https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-at-supertrend-support-hourly-levels-93CH-4787508)**
 
 Investing.com • 14h ago
 
@@ -227,7 +223,15 @@ Investing.com • 14h ago
 
 Rising oil prices fuel inflation expectations. And that means risk is off the table for the time being.⚠️ Risk Appetite Takes a Hit🛢️ Oil Is Calling the Shots📅 CPI Is the Next Big Test
 
-TradingView • 13h ago
+TradingView • 15h ago
+
+---
+
+**[Eric Trump’s bitcoin bet erases $600 million from family fortune](https://www.staradvertiser.com/2026/07/10/breaking-news/eric-trumps-bitcoin-bet-erases-600-million-from-family-fortune/)**
+
+American Bitcoin Corp. was built around a simple idea: that owning and mining bitcoin would be enough to mint money.
+
+Honolulu Star-Advertiser • 3d ago
 
 ---
 
@@ -255,7 +259,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 10h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
+⬆️ 1 • 💬 0 • 11h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
 
 ---
 
@@ -303,7 +307,7 @@ Bitcoin #Crypto #finance Bitcoin remains stuck in its multi-month range as inves
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 685 • 💬 149 • ⏱️ 27:17 • 7h ago
+👁️ 12K • 👍 685 • 💬 149 • ⏱️ 27:17 • 8h ago
 
 ---
 
@@ -313,7 +317,7 @@ The financial system is quietly being rebuilt, and Bitcoin is moving from specul
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 80 • ⏱️ 12:42 • 23h ago
+👁️ 22K • 👍 2K • 💬 80 • ⏱️ 12:42 • 1d ago
 
 ---
 
@@ -323,7 +327,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 561 • 💬 221 • ⏱️ 11:14 • 18h ago
+👁️ 10K • 👍 561 • 💬 221 • ⏱️ 11:14 • 19h ago
 
 ---
 
@@ -333,7 +337,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 2K • 👍 266 • ⏱️ 33:35 • 3h ago
+👁️ 2K • 👍 266 • ⏱️ 33:35 • 5h ago
 
 ---
 
@@ -343,7 +347,7 @@ Bitcoin charts, Robinhood Chain, Uniswap, Ethereum, Cashcat! BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 10K • 👍 518 • 💬 28 • ⏱️ 16:26 • 8h ago
+👁️ 10K • 👍 518 • 💬 28 • ⏱️ 16:26 • 9h ago
 
 ---
 
@@ -353,7 +357,7 @@ President Trump continues to back Clarity Act, with a bizzare tweet this morning
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 258 • 💬 60 • ⏱️ 1:11:27 • 2h ago
+👁️ 4K • 👍 258 • 💬 60 • ⏱️ 1:11:27 • 3h ago
 
 ---
 
@@ -363,7 +367,7 @@ LeveX: https://levex.com/r/CryptoKid VIP LEVEL 5 WEEX: https://cryptokid.io/WEEX
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 258 • 💬 49 • ⏱️ 8:43 • 8h ago
+👁️ 4K • 👍 258 • 💬 49 • ⏱️ 8:43 • 9h ago
 
 ---
 
@@ -373,7 +377,7 @@ BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 2K • 👍 153 • 💬 152 • ⏱️ 19:28 • 2h ago
+👁️ 2K • 👍 153 • 💬 152 • ⏱️ 19:28 • 3h ago
 
 ---
 
@@ -383,7 +387,7 @@ I'm constantly left speechless by this market. Companies are back at it again, a
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 618 • 💬 367 • ⏱️ 27:54 • 11h ago
+👁️ 5K • 👍 618 • 💬 367 • ⏱️ 27:54 • 12h ago
 
 ---
 

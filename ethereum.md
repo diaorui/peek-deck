@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-13T20:39:13.326234+00:00'
+updated: '2026-07-13T21:57:40.957094+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 20:39 UTC  
+**Last Updated:** July 13, 2026 at 21:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** -0.0%  
-**30d:** +2.5%  
-**90d:** -25.0%  
-**1y:** -41.2%  
+**24h:** -2.6%  
+**7d:** -0.6%  
+**30d:** +1.9%  
+**90d:** -25.4%  
+**1y:** -41.6%  
 
 ---
 
@@ -150,19 +150,19 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-13-2026-strong-price-openings-backtracking-this-morning-133042462.html)**
-
-Bitcoin opened at $63,745.37 on Monday, July 13, 2026, 0.2% lower than Sunday's opening price. As of 9:06 a.m. ET this morning, bitcoin moved down to $62,568.10. Ethereum opened at $1,805.49, up 1% from Sunday's opening price. The price of ethereum moved lower this morning to $1,770.99.
-
-Yahoo Finance • 7h ago
-
----
-
 **[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-49-million-ethereum-152210893.html)**
 
 According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-13-2026-strong-price-openings-backtracking-this-morning-133042462.html)**
+
+Bitcoin opened at $63,745.37 on Monday, July 13, 2026, 0.2% lower than Sunday's opening price. As of 9:06 a.m. ET this morning, bitcoin moved down to $62,568.10. Ethereum opened at $1,805.49, up 1% from Sunday's opening price. The price of ethereum moved lower this morning to $1,770.99.
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 5h ago
 
 BTC kept meeting absorption in June, and ETH came closer to follow-through. Price may give the first impression, but the stack decides whether that impression holds.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Motley Fool • 1d ago
 
 The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
@@ -194,7 +194,7 @@ FXStreet • 8h ago
 
 Track What price will Ethereum hit in July prediction market analysis with live Polymarket odds, probabilities, volume, liquidity, and market-moving catalysts.
 
-CryptoSlate • 3h ago
+CryptoSlate • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ CryptoSlate • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -216,15 +216,15 @@ thestreet.com • 2d ago
 
 Explore the latest Ethereum price prediction, Zcash price outlook, and why BlockDAG is gaining attention as the best crypto to buy now with 100% bonus and massive utility!
 
-FinanceFeeds • 3h ago
+FinanceFeeds • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Consolidate as US-Iran Tensions Escalate: Analyst Says People Will Be 'S](https://www.benzinga.com/crypto/cryptocurrency/26/07/60406116/bitcoin-ethereum-xrp-and-dogecoin-consolidate-as-us-iran-tensions-escalate)**
+**[Bitcoin, Ethereum, XRP Got Clobbered in Q2: Here's What Will Decide Their Fate in Q3](https://www.benzinga.com/crypto/cryptocurrency/26/07/60381556/bitcoin-ethereum-xrp-got-clobbered-in-q2-heres-what-will-decide-their-fate-in-q3)**
 
-Leading cryptocurrencies moved sideways, while stock futures slid on Sunday evening amid investor concerns over escalating U.S.-Iran tensions.
+Bitwise says crypto faces its toughest test since 2022 as Bitcoin demand outpaces supply and the CLARITY Act looms over Q3.
 
-Benzinga • 18h ago
+Benzinga • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 2K • 👍 153 • 💬 152 • ⏱️ 19:28 • 2h ago
+👁️ 2K • 👍 153 • 💬 152 • ⏱️ 19:28 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 562 • 💬 235 • ⏱️ 15:11 • 18h ago
+👁️ 8K • 👍 562 • 💬 235 • ⏱️ 15:11 • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 557 • 💬 372 • ⏱️ 13:44 • 23h ago
+👁️ 8K • 👍 557 • 💬 372 • ⏱️ 13:44 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus
 
 📺 NDTV Profit
 
-👁️ 669 • 👍 15 • 💬 1 • ⏱️ 3:43 • 13h ago
+👁️ 669 • 👍 15 • 💬 1 • ⏱️ 3:43 • 14h ago
 
 ---
 
@@ -298,7 +298,7 @@ DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe 
 
 📺 CoinDesk
 
-👁️ 740 • 👍 3 • ⏱️ 0:36 • 8h ago
+👁️ 740 • 👍 3 • ⏱️ 0:36 • 9h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 66 • 💬 18 • ⏱️ 10:40 • 1d ago
+👁️ 3K • 👍 66 • 💬 18 • ⏱️ 10:40 • 2d ago
 
 ---
 
@@ -318,7 +318,7 @@ XPR The Super Haven for the Credit Unions! | Canton Is Ethereum REALLY ENOUGH?! 
 
 📺 Crypto Growth
 
-👁️ 158 • 👍 20 • ⏱️ 17:14 • 5h ago
+👁️ 158 • 👍 20 • ⏱️ 17:14 • 6h ago
 
 ---
 
@@ -328,7 +328,7 @@ Ethereum just got another major shake-up. On June 22, 2026, a group of former Et
 
 📺 Tim Ho
 
-👁️ 72 • 👍 11 • 💬 10 • ⏱️ 7:03 • 2h ago
+👁️ 72 • 👍 11 • 💬 10 • ⏱️ 7:03 • 3h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-13T20:39:13.329161+00:00'
+updated: '2026-07-13T21:57:40.959349+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 13, 2026 at 20:39 UTC  
+**Last Updated:** July 13, 2026 at 21:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
 
-16h ago
+17h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-D
 
 I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
 
-19h ago
+20h ago
 
 ---
 
@@ -124,7 +124,7 @@ Cowboy State Daily • 2d ago
 
 Dar Sleeper, vice president of product and design at 1X, blasted Wired magazine over the weekend.
 
-New York Post • 3h ago
+New York Post • 4h ago
 
 ---
 
@@ -154,7 +154,7 @@ CNET • 1d ago
 
 The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
 
-Inquirer.com • 8h ago
+Inquirer.com • 9h ago
 
 ---
 
@@ -162,7 +162,7 @@ Inquirer.com • 8h ago
 
 1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -176,7 +176,7 @@ Autoblog • 1d ago
 
 Ukraine's Brave1 defense cluster opened a grant for domestic bipedal humanoid combat robots under a separate category.
 
-Euromaidan Press • 13h ago
+Euromaidan Press • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ Euromaidan Press • 13h ago
 
 LOS ANGELES, July 12, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) ("Faraday Future", "FF" or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global CEO of FF.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ Booster Robotics' flagship humanoid robot is growing up. The three-year-old Chin
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 50 • 💬 2 • ⏱️ 1:07 • 5h ago
+👁️ 1K • 👍 50 • 💬 2 • ⏱️ 1:07 • 6h ago
 
 ---
 
@@ -228,7 +228,7 @@ In this video, I show you how I created a VPN connection to my own home network 
 
 📺 Kitajima
 
-👁️ 1K • 👍 8 • ⏱️ 0:29 • 4h ago
+👁️ 1K • 👍 8 • ⏱️ 0:29 • 5h ago
 
 ---
 
