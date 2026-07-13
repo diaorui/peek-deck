@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-13T06:20:20.251070+00:00'
+updated: '2026-07-13T09:54:11.619456+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 13, 2026 at 06:20 UTC  
+**Last Updated:** July 13, 2026 at 09:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtube.com/watch?v=ZyHrKD3SE-M It's an Unitree B2: https://shop.unitree.com/products/unitree-b2
 
-19h ago
+23h ago
 
 ---
 
 **[Teleop study break](https://www.reddit.com/r/robotics/comments/1uujob3/teleop_study_break/)**
 
-14h ago
+17h ago
 
 ---
 
@@ -50,7 +50,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
 
-1h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the enti
 
 https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-DOF Raspberry Pi 4B robot arm with a Three.js 3D web interface. Features YOLOv8 object detection, VL53L1X depth sensing, 2-link inverse kinematics, autonomous object pickup, INA219 current-based gripper stall detection, floor collision protection, and a live digital twin for real-time visualization.
 
-14h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-D
 
 I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
 
-5h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 I made a 2dof raspberry pi object tracking robot in c++. It is the second iteration of a 1dof version i had made: https://github.com/Dawsatek22/raspberrypi_objectracking_1dof_cpp . i still need to make te documentation and post the cad files but if you wanna check the code i posted it on the repo: https://github.com/Dawsatek22/raspberrypi_objectracking_2dof_cpp- .
 
-🔗 [youtube.com](https://youtube.com/shorts/Ld3sLhEH3hI?si=53QeSHlh7fHGiUgG) • 21h ago
+🔗 [youtube.com](https://youtube.com/shorts/Ld3sLhEH3hI?si=53QeSHlh7fHGiUgG) • 1d ago
 
 ---
 
@@ -96,7 +96,7 @@ I made a 2dof raspberry pi object tracking robot in c++. It is the second iterat
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 22h ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 1d ago
 
 ---
 
@@ -112,12 +112,6 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 ## Google News: "robotics"
 
-**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
-
-Tech Xplore • 15h ago
-
----
-
 **[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
@@ -130,7 +124,13 @@ Cowboy State Daily • 1d ago
 
 Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
 
-CNET • 18h ago
+CNET • 21h ago
+
+---
+
+**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
+
+Tech Xplore • 18h ago
 
 ---
 
@@ -140,19 +140,23 @@ Reuters • 2d ago
 
 ---
 
-**[Bixby honors middle school robotics team after top-five world finish](https://www.newson6.com/news-videos/bixby-honors-middle-school-robotics-team-after-top-five-world-finish)**
+**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
 
-The middle school robotics team was recognized with a city proclamation honoring its international achievement.
+1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
 
-News On 6 • 16h ago
+Business Insider • 52m ago
 
 ---
 
-**[How to Evaluate General-Purpose Robot Policies for Real-World Deployment](https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/)**
+**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
 
-Robotics foundation models have made remarkable progress. Today’s best systems can follow natural language instructions to pick, place, sort, and manipulate a wide variety of objects.
+Tech Xplore • 1d ago
 
-NVIDIA Developer • 1d ago
+---
+
+**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
+
+Autoblog • 18h ago
 
 ---
 
@@ -164,23 +168,19 @@ The Guardian • 2d ago
 
 ---
 
-**[What’s ‘Next’ for Hyundai: Driving Innovation through Robotics](https://www.hyundai.com/worldwide/en/brand-journal/worldcup2026/hyundai-next-robotics)**
+**[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
 
-Explore how Hyundai is advancing robotics and Physical AI through its FIFA World Cup 2026™ campaign, from digital engagement to real-world innovation.
+St. Pius High School held their first ever robotics competition Saturday in Albuquerque
 
-hyundai.com • 19h ago
-
----
-
-**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
-
-Autoblog • 15h ago
+KOB.com • 1d ago
 
 ---
 
-**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
+**[Bixby honors middle school robotics team after top-five world finish](https://www.newson6.com/news-videos/bixby-honors-middle-school-robotics-team-after-top-five-world-finish)**
 
-Tech Xplore • 1d ago
+The middle school robotics team was recognized with a city proclamation honoring its international achievement.
+
+News On 6 • 19h ago
 
 ---
 
@@ -188,61 +188,23 @@ Tech Xplore • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
-
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
-
-📺 PRO ROBOTS
-
-👁️ 26K • 👍 771 • 💬 57 • ⏱️ 29:49 • 3d ago
-
----
-
 **[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
 
 For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
 
 📺 ABC News
 
-👁️ 47K • 👍 767 • 💬 297 • ⏱️ 1:54 • 2d ago
+👁️ 48K • 👍 779 • 💬 304 • ⏱️ 1:54 • 2d ago
 
 ---
 
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
-📺 Varun Mayya
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
-👁️ 131K • 👍 5K • 💬 76 • ⏱️ 1:03 • 1d ago
+📺 PRO ROBOTS
 
----
-
-**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
-
-In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
-
-📺 DW News
-
-👁️ 38K • 👍 2K • 💬 110 • ⏱️ 2:38 • 2d ago
-
----
-
-**[Why I DON’T like servo grippers #robotics #mechatronics](https://www.youtube.com/watch?v=sQ_Dd227U50)**
-
-Sharing an example of a pneumatic gripper that belongs in our robotics projects and in some cases, should replace the ...
-
-📺 David Malawey
-
-👁️ 5K • 👍 300 • 💬 18 • ⏱️ 1:00 • 9h ago
-
----
-
-**[War Robots BUT EVERYONE has only 1 HP](https://www.youtube.com/watch?v=sI1HN81GTIo)**
-
-War Robots Special Game-Mode Gameplay: 1 Shot 1 Kill My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
-
-📺 Manni-Gaming
-
-👁️ 6K • 👍 341 • 💬 51 • ⏱️ 13:11 • 19h ago
+👁️ 26K • 👍 773 • 💬 57 • ⏱️ 29:49 • 3d ago
 
 ---
 
@@ -252,7 +214,7 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 
 📺 Suhel Experiment
 
-👁️ 17K • 💬 21 • ⏱️ 1:30 • 15h ago
+👁️ 19K • 💬 21 • ⏱️ 1:30 • 19h ago
 
 ---
 
@@ -262,27 +224,65 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Kalil 4.0
 
-👁️ 17K • 👍 401 • 💬 63 • ⏱️ 10:42 • 6d ago
+👁️ 18K • 👍 408 • 💬 63 • ⏱️ 10:42 • 6d ago
 
 ---
 
-**[This Humanoid Robot Might Take Over Shipyard Welding Jobs #robot #robotics #shipbuilding](https://www.youtube.com/watch?v=RmT6xk6DgvM)**
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
 
-The Texas startup Persona AI is training its heavy-duty humanoid robot for welding work at shipyards. The Houston-based ...
+📺 Varun Mayya
 
-📺 Kalil 4.0
-
-👁️ 938 • 👍 45 • 💬 3 • ⏱️ 0:59 • 6h ago
+👁️ 137K • 👍 5K • 💬 78 • ⏱️ 1:03 • 1d ago
 
 ---
 
-**[The Robot Hand That Can Actually Feel](https://www.youtube.com/watch?v=VcX0wzdBLPM)**
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
 
-This is one of the most advanced robotic hands on the planet. Built by Norwegian company 1X, it ships on their Neo humanoid, ...
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
 
-📺 Yury AI
+📺 China Observer
 
-👁️ 1K • 👍 34 • 💬 2 • ⏱️ 0:45 • 7h ago
+👁️ 72K • 👍 2K • 💬 593 • ⏱️ 20:21 • 5d ago
+
+---
+
+**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
+
+In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
+
+📺 DW News
+
+👁️ 39K • 👍 2K • 💬 110 • ⏱️ 2:38 • 2d ago
+
+---
+
+**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
+
+Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
+
+📺 Fox Business Clips
+
+👁️ 17K • 👍 260 • 💬 123 • ⏱️ 8:37 • 3d ago
+
+---
+
+**[Why I DON’T like servo grippers #robotics #mechatronics](https://www.youtube.com/watch?v=sQ_Dd227U50)**
+
+Sharing an example of a pneumatic gripper that belongs in our robotics projects and in some cases, should replace the ...
+
+📺 David Malawey
+
+👁️ 6K • 👍 354 • 💬 20 • ⏱️ 1:00 • 12h ago
+
+---
+
+**[War Robots BUT EVERYONE has only 1 HP](https://www.youtube.com/watch?v=sI1HN81GTIo)**
+
+War Robots Special Game-Mode Gameplay: 1 Shot 1 Kill My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
+
+📺 Manni-Gaming
+
+👁️ 6K • 👍 356 • 💬 56 • ⏱️ 13:11 • 22h ago
 
 ---
 
