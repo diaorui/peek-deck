@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-13T15:44:43.601206+00:00'
+updated: '2026-07-13T17:55:19.280466+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 15:44 UTC  
+**Last Updated:** July 13, 2026 at 17:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +0.4%  
-**30d:** +3.0%  
-**90d:** -24.6%  
-**1y:** -41.0%  
+**24h:** -3.5%  
+**7d:** -0.7%  
+**30d:** +1.8%  
+**90d:** -25.5%  
+**1y:** -41.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $214.49B
+**Market Cap:** $212.33B
 Rank #2
 
 **Circulating Supply:** 120,683,011 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.1%
+-64.4%
 
 **All-Time Low:** $0.43
-+410116.2%
++406243.0%
 
 ---
 
@@ -126,7 +126,7 @@ Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
 **[Ethereum has just crossed another major milestone.](https://www.reddit.com/r/ethereum/comments/1uqwiwi/ethereum_has_just_crossed_another_major_milestone/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Abstract The smart-contract ecosystem already depends heavily on code reuse, but that reuse has not yet become shared on-chain infrastructure. Similar logic is repeatedly redeployed across projects, creating duplicated infrastructure that increases long-term maintenance, audit, and security burdens for the ecosystem. Compose introduces Smart Contract Oriented Programming, or SCOP, to bring reuse into the deployed architecture itself. Using diamonds and stateless facets, Compose enables modular on-chain systems that are easier to build and trust across their lifecycle.
 
-🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 4d ago
+🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 5d ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 2d ago
 
 American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump cheered Ethereum’s (CRYPTO: ETH) brief spike above $1,800 on Saturday, even as the token soon retraced. ‘Crypto Is The Future’ Trump shared a candlestick chart of the ETH/BTC pair showing a 1.32% gain to 0.02837, saying, “ETH is pumping hard! Great to see! Crypto is the future…” Notably, some users were quick to point out how ETH retreated immediately following Trump’s post. Every single time LMAO https://t.co/mMneBzehbX pic.twitter.com/
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -170,7 +170,39 @@ Yahoo Finance • 11h ago
 
 Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.
 
-The Block • 2h ago
+The Block • 4h ago
+
+---
+
+**[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand)**
+
+According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
+
+Decrypt • 2h ago
+
+---
+
+**[Bitmine Purchases More Ethereum As Price Languishes](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-more-ethereum-price-135900603.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) purchased another 27,801 Ethereum (CRYPTO: $ETH) over the past week.&n...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin And Ethereum: May Was Not That Simple](https://seekingalpha.com/article/4921485-bitcoin-ethereum-may-was-not-that-simple)**
+
+BTC and ETH weakened in May, but options showed where risk was still being paid for, and futures showed where that pressure found support, softened, or stayed uneven. Read more here.
+
+Seeking Alpha • 4h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-stay-under-pressure-as-us-and-iran-exchange-fresh-attacks-202607131230)**
+
+The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
+
+FXStreet • 5h ago
 
 ---
 
@@ -178,7 +210,7 @@ The Block • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 7h ago
 
 ---
 
@@ -186,45 +218,13 @@ Fortune • 4h ago
 
 One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
 
-The Motley Fool • 19h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces $64K hurdle, ETH signals caution, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-64k-hurdle-eth-signals-caution-xrp-defends-key-support-202607130411)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure at the start of the week on Monday, after BTC and ETH recovered slightly, while XRP corrected by over 6% in the previous week.
-
-FXStreet • 11h ago
-
----
-
-**[What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks](https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks)**
-
-Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
-
-Decrypt • 1d ago
+The Motley Fool • 21h ago
 
 ---
 
 **[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
 thestreet.com • 1d ago
-
----
-
-**[Ethereum: Fundstrat Eyes Path to $10,000](https://blockchain.news/flashnews/ethereum-fundstrat-eyes-path-10-000)**
-
-Ethereum at $1798.95 draws Fundstrat $10,000 call as Tom Lee flags undervaluation versus gold and real estate tokenization flows.
-
-blockchain.news • 1d ago
-
----
-
-**[BitMine acquires $49M in Ethereum amid Robinhood Chain demand](https://cryptobriefing.com/bitmine-acquires-49m-in-ethereum-amid-robinhood-chain-demand/)**
-
-BitMine acquires $49M in Ethereum amid rising demand from the Robinhood Chain. Ethereum reaching $1,900 by July 2026 at 51.5% YES.
-
-Crypto Briefing • 8m ago
 
 ---
 
@@ -238,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 531 • 💬 245 • ⏱️ 15:11 • 13h ago
+👁️ 8K • 👍 551 • 💬 237 • ⏱️ 15:11 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 535 • 💬 402 • ⏱️ 13:44 • 19h ago
+👁️ 7K • 👍 544 • 💬 431 • ⏱️ 13:44 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 646 • 💬 573 • ⏱️ 24:07 • 2d ago
+👁️ 9K • 👍 650 • 💬 571 • ⏱️ 24:07 • 2d ago
 
 ---
 
@@ -268,7 +268,7 @@ Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus
 
 📺 NDTV Profit
 
-👁️ 401 • 👍 13 • 💬 1 • ⏱️ 3:43 • 8h ago
+👁️ 503 • 👍 15 • 💬 1 • ⏱️ 3:43 • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 125 • 💬 29 • ⏱️ 18:37 • 1d ago
+👁️ 5K • 👍 125 • 💬 29 • ⏱️ 18:37 • 2d ago
 
 ---
 
@@ -288,17 +288,7 @@ DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe 
 
 📺 CoinDesk
 
-👁️ 570 • 👍 3 • ⏱️ 0:36 • 3h ago
-
----
-
-**[Why Ethereum insiders Are Quietly Cloning Cardano Tech](https://www.youtube.com/watch?v=A_K-lpibNyo)**
-
-Is the Ethereum inner circle quietly copying Cardano? In this video, we break down why Ethereum insiders are allegedly cloning ...
-
-📺 Cheeky Crypto Unfiltered
-
-👁️ 2K • 👍 163 • 💬 35 • ⏱️ 16:06 • 1d ago
+👁️ 661 • 👍 4 • ⏱️ 0:36 • 5h ago
 
 ---
 
@@ -312,23 +302,33 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 ---
 
+**[Why Ethereum insiders Are Quietly Cloning Cardano Tech](https://www.youtube.com/watch?v=A_K-lpibNyo)**
+
+Is the Ethereum inner circle quietly copying Cardano? In this video, we break down why Ethereum insiders are allegedly cloning ...
+
+📺 Cheeky Crypto Unfiltered
+
+👁️ 2K • 👍 163 • 💬 35 • ⏱️ 16:06 • 1d ago
+
+---
+
+**[RLUSD Just Passed Ethereum On The XRP Ledger |](https://www.youtube.com/watch?v=xVnVGgKru5A)**
+
+Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━━━━━━━━━━━━━━━ CRYPTO & INVESTING ...
+
+📺 Kamilah Stevenson
+
+👁️ 6K • 👍 353 • 💬 46 • ⏱️ 0:39 • 22h ago
+
+---
+
 **[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
 
 Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
 
 📺 Milk Road
 
-👁️ 3K • 👍 104 • 💬 11 • ⏱️ 10:43 • 2d ago
-
----
-
-**[ICP Will Be the TOP Crypto Dominating Bitcoin and Ethereum](https://www.youtube.com/watch?v=H33GZLhlQ_c)**
-
-I think Internet Computer Protocol is on the way to being the number one cryptocurrency with Bitcoin falling to number 2 and ...
-
-📺 Jerry Banfield ICP
-
-👁️ 3K • 👍 237 • 💬 91 • ⏱️ 18:43 • 1d ago
+👁️ 3K • 👍 106 • 💬 11 • ⏱️ 10:43 • 2d ago
 
 ---
 

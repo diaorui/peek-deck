@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-13T15:44:43.604408+00:00'
+updated: '2026-07-13T17:55:19.283774+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 13, 2026 at 15:44 UTC  
+**Last Updated:** July 13, 2026 at 17:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 **[Teleop study break](https://www.reddit.com/r/robotics/comments/1uujob3/teleop_study_break/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
 
-11h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-D
 
 I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
 
-14h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ I've been working on ML/Robotics research for a while and often work with HDF5, 
 
 This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use robstride actuators, series 00 and edulite 05
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering
 
 Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here's what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware - Electronics BOM under $100 sourcing parts yourself - Full wiring diagrams, assembly guide, and source code included The V1 is already fully operational and tested. I just launched a Kickstarter pre-launch page to fund the V2 (better rigidity, internal cable routing, improved gripper). Happy to answer any questions about the design choices, print settings, or the electronics. AMA! https://www.kickstarter.com/projects/pancoarmmk01/panco-arm-mk-01
 
-2d ago
+3d ago
 
 ---
 
@@ -126,19 +126,27 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
-
-The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
-
-Inquirer.com • 3h ago
-
----
-
 **[Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction](https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/)**
 
 Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
 
 CNET • 1d ago
+
+---
+
+**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
+
+The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
+
+Inquirer.com • 5h ago
+
+---
+
+**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
+
+1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
+
+Business Insider • 8h ago
 
 ---
 
@@ -148,11 +156,11 @@ Reuters • 2d ago
 
 ---
 
-**[First bird-scale robot to swim, dive, and launch back into flight](https://newatlas.com/robotics/first-bird-robot-swim-dive-launch-mit-epfl/)**
+**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
 
-A robot that swims like a diving bird and then flies like, well, a bird, sounds like the setup for two different machines bolted together. But researchers at MIT and EPFL built one that does both with a single set of wings. No propellers, no legs, and no origami-style folding mechanism to switch…
+Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
-New Atlas • 3h ago
+New Atlas • 3d ago
 
 ---
 
@@ -168,15 +176,7 @@ The Guardian • 2d ago
 
 Company lifts total canceled warrants since 2025 to nearly 50M and rolls out a Q3 robotics deployment push aimed at 2,000 unit shipments this year.
 
-Stock Titan • 16h ago
-
----
-
-**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
-
-Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
-
-New Atlas • 3d ago
+Stock Titan • 18h ago
 
 ---
 
@@ -190,33 +190,33 @@ Autoblog • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
-
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
-
-📺 PRO ROBOTS
-
-👁️ 26K • 👍 779 • 💬 57 • ⏱️ 29:49 • 4d ago
-
----
-
 **[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
 
 For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
 
 📺 ABC News
 
-👁️ 49K • 👍 802 • 💬 317 • ⏱️ 1:54 • 3d ago
+👁️ 49K • 👍 814 • 💬 323 • ⏱️ 1:54 • 3d ago
 
 ---
 
-**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
-Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
-📺 Unitree Robotics
+📺 PRO ROBOTS
 
-👁️ 179K • 👍 934 • 💬 155 • ⏱️ 1:10 • 4d ago
+👁️ 26K • 👍 780 • 💬 58 • ⏱️ 29:49 • 4d ago
+
+---
+
+**[The Pint-Sized Robot Kicks Harder Than You&#39;d Expect #robot #robotics #humanoidrobot](https://www.youtube.com/watch?v=gM0ljUJRdcQ)**
+
+Booster Robotics' flagship humanoid robot is growing up. The three-year-old Chinese startup just launched the Booster T2, ...
+
+📺 Kalil 4.0
+
+👁️ 551 • 👍 31 • 💬 2 • ⏱️ 1:07 • 2h ago
 
 ---
 
@@ -226,7 +226,17 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 40K • 👍 2K • 💬 113 • ⏱️ 2:38 • 3d ago
+👁️ 41K • 👍 2K • 💬 115 • ⏱️ 2:38 • 3d ago
+
+---
+
+**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
+
+Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
+
+📺 Unitree Robotics
+
+👁️ 179K • 👍 936 • 💬 155 • ⏱️ 1:10 • 4d ago
 
 ---
 
@@ -236,25 +246,7 @@ Sharing an example of a pneumatic gripper that belongs in our robotics projects 
 
 📺 David Malawey
 
-👁️ 8K • 👍 452 • 💬 24 • ⏱️ 1:00 • 18h ago
-
----
-
-**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
-
-Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
-
-📺 Discovery Australia
-
-👁️ 13K • 👍 271 • 💬 6 • ⏱️ 8:20 • 19h ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 144K • 👍 5K • 💬 81 • ⏱️ 1:03 • 1d ago
+👁️ 9K • 👍 481 • 💬 26 • ⏱️ 1:00 • 20h ago
 
 ---
 
@@ -264,7 +256,25 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 72K • 👍 2K • 💬 594 • ⏱️ 20:21 • 5d ago
+👁️ 73K • 👍 2K • 💬 594 • ⏱️ 20:21 • 5d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 147K • 👍 5K • 💬 82 • ⏱️ 1:03 • 2d ago
+
+---
+
+**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
+
+Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
+
+📺 Discovery Australia
+
+👁️ 14K • 👍 281 • 💬 6 • ⏱️ 8:20 • 21h ago
 
 ---
 
@@ -274,17 +284,7 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 296K • 👍 16K • 💬 739 • ⏱️ 1:25 • 3d ago
-
----
-
-**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
-
-How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
-
-📺 Suhel Experiment
-
-👁️ 22K • 💬 22 • ⏱️ 1:30 • 1d ago
+👁️ 302K • 👍 16K • 💬 742 • ⏱️ 1:25 • 3d ago
 
 ---
 
