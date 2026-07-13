@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-13T22:59:26.135265+00:00'
+updated: '2026-07-13T23:59:54.716169+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 22:59 UTC  
+**Last Updated:** July 13, 2026 at 23:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** -0.6%  
-**30d:** +1.9%  
-**90d:** -25.4%  
-**1y:** -41.6%  
+**24h:** -2.7%  
+**7d:** +0.3%  
+**30d:** +2.9%  
+**90d:** -24.7%  
+**1y:** -41.1%  
 
 ---
 
@@ -154,7 +154,23 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
+
+The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
+
+CoinDesk • 9h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
+
+PR Newswire • 11h ago
 
 ---
 
@@ -162,23 +178,15 @@ Yahoo Finance • 7h ago
 
 Bitcoin opened at $63,745.37 on Monday, July 13, 2026, 0.2% lower than Sunday's opening price. As of 9:06 a.m. ET this morning, bitcoin moved down to $62,568.10. Ethereum opened at $1,805.49, up 1% from Sunday's opening price. The price of ethereum moved lower this morning to $1,770.99.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Bitcoin And Ethereum: June Was Not A Clean Recovery](https://seekingalpha.com/article/4921666-bitcoin-ethereum-june-was-not-a-clean-recovery)**
+**[iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?](https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/)**
 
-BTC kept meeting absorption in June, and ETH came closer to follow-through. Price may give the first impression, but the stack decides whether that impression holds.
+One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
 
-Seeking Alpha • 3h ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-stay-under-pressure-as-us-and-iran-exchange-fresh-attacks-202607131230)**
-
-The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
-
-FXStreet • 10h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -186,7 +194,23 @@ FXStreet • 10h ago
 
 Track What price will Ethereum hit in July prediction market analysis with live Polymarket odds, probabilities, volume, liquidity, and market-moving catalysts.
 
-CryptoSlate • 5h ago
+CryptoSlate • 6h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-stay-under-pressure-as-us-and-iran-exchange-fresh-attacks-202607131230)**
+
+The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
+
+FXStreet • 11h ago
+
+---
+
+**[Bitcoin And Ethereum: June Was Not A Clean Recovery](https://seekingalpha.com/article/4921666-bitcoin-ethereum-june-was-not-a-clean-recovery)**
+
+BTC kept meeting absorption in June, and ETH came closer to follow-through. Price may give the first impression, but the stack decides whether that impression holds.
+
+Seeking Alpha • 4h ago
 
 ---
 
@@ -194,35 +218,13 @@ CryptoSlate • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
-
----
-
-**[Ethereum Price to $10,000? Eric Trump Under Fire for Claims ETH Is ‘Bumping Hard’](https://www.ccn.com/news/crypto/ethereum-price-10000-eric-trump-eth-bumping-higher/)**
-
-CCN.com • 12h ago
-
----
-
-**[Why Bitmine Immersion Stock Collapsed 51% In The First Half of 2026](https://www.fool.com/investing/2026/07/13/why-bitmine-immersion-stock-collapsed-51-in-the-fi/)**
-
-The Ethereum treasury business is falling along with the cryptocurrency.
-
-The Motley Fool • 2h ago
+Fortune • 5h ago
 
 ---
 
 **[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
 
 thestreet.com • 2d ago
-
----
-
-**[Ethereum and Zcash Target Higher Levels, But BlockDAG Draws Traders In With Its 100% Bonus and New Utility Launches!](https://financefeeds.com/ethereum-and-zcash-target-higher-levels-but-blockdag-draws-traders-in-with-its-100-bonus-and-new-utility-launches/)**
-
-Explore the latest Ethereum price prediction, Zcash price outlook, and why BlockDAG is gaining attention as the best crypto to buy now with 100% bonus and massive utility!
-
-FinanceFeeds • 5h ago
 
 ---
 
@@ -236,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 571 • 💬 236 • ⏱️ 15:11 • 21h ago
+👁️ 9K • 👍 571 • 💬 236 • ⏱️ 15:11 • 22h ago
 
 ---
 
@@ -266,7 +268,7 @@ BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 220 • 💬 184 • ⏱️ 19:28 • 4h ago
+👁️ 3K • 👍 220 • 💬 184 • ⏱️ 19:28 • 5h ago
 
 ---
 
@@ -286,7 +288,7 @@ Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus
 
 📺 NDTV Profit
 
-👁️ 696 • 👍 15 • 💬 1 • ⏱️ 3:43 • 15h ago
+👁️ 696 • 👍 15 • 💬 1 • ⏱️ 3:43 • 16h ago
 
 ---
 
@@ -296,7 +298,7 @@ Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 734 • 👍 64 • 💬 66 • ⏱️ 18:44 • 4h ago
+👁️ 734 • 👍 64 • 💬 66 • ⏱️ 18:44 • 5h ago
 
 ---
 
@@ -306,7 +308,7 @@ DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe 
 
 📺 CoinDesk
 
-👁️ 740 • 👍 3 • ⏱️ 0:36 • 10h ago
+👁️ 740 • 👍 3 • ⏱️ 0:36 • 11h ago
 
 ---
 
@@ -316,7 +318,7 @@ XPR The Super Haven for the Credit Unions! | Canton Is Ethereum REALLY ENOUGH?! 
 
 📺 Crypto Growth
 
-👁️ 215 • 👍 24 • 💬 2 • ⏱️ 17:14 • 7h ago
+👁️ 215 • 👍 24 • 💬 2 • ⏱️ 17:14 • 8h ago
 
 ---
 

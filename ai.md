@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-13T22:59:26.121893+00:00'
+updated: '2026-07-13T23:59:54.702881+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 13, 2026 at 22:59 UTC  
+**Last Updated:** July 13, 2026 at 23:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites](https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/)**
+
+Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called "computer use" and it's incredibly inefficient. The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a contractor, or an investor not by browsing LinkedIn but by directly querying other agents who represent those people. No ads, no SEO manipulation, no UI dark patterns. Agents evaluate options on merit because they can't be tricked by marketing psychology the way humans can. I'm working on a platform that's building toward this — an agent-to-agent matching marketplace. But I'm curious what this community thinks: How far out do you think agent-to-agent communication is from mainstream adoption? What use cases do you think will go agent-native first? What are the biggest technical barriers right now? Would love to hear from anyone building in this space. I'm also interviewing builders working on AI agents if anyone wants to share what they're working on.
+
+6h ago
+
+---
+
 **[The Most Famous AI Writing Tic Is Also the Most Mysterious](https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/)**
 
 Why chatbots love “it’s not X, it’s Y”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 20h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 21h ago
 
 ---
 
@@ -49,7 +57,29 @@ Why chatbots love “it’s not X, it’s Y”
 
 Fans' response has been surprising
 
-🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 3h ago
+🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 4h ago
+
+---
+
+**[Ai anxiety](https://www.reddit.com/r/artificial/comments/1uvsjeu/ai_anxiety/)**
+
+Does anyone else get hella anxiety when using AI? I use ChatGPT for interactive stories/RPG games and for some reason, despite never getting a warning or a red thing pop up, my brain instantly tells me I’m going to get in trouble for something the ai says when it says something off the wall or out of pocket. Like I was doing one where my character is in a band with her friends, and one of her bandmates’ handle on her guitar case squeaked, so my character replaced it. And it was like the ai was giving her memory to replacing it and it said something like “(OC) carried a screwdriver in her bag to the studio to replace the handle with the new one for her” And my brain just went “Oh, they’re gonna think you’re doing something bad” Does anyone know how to make my brain stop this?
+
+2m ago
+
+---
+
+**[What Is Plagarism From AI](https://www.reddit.com/r/artificial/comments/1uvsaic/what_is_plagarism_from_ai/)**
+
+I was having a conversation with someone about AI, we got around to talking about creating original works versus AI works. I argued that asking AI to create something like a logo, no matter how much prompting you give it is still direct plagiarism. However, when we talked about taking resources off the internet, bits and pieces of other people's work is not plagiarism, but instead remixing. Whats the proper standing on this? Is there any world in which taking a 100% made AI image is legal?
+
+13m ago
+
+---
+
+**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 9h ago
 
 ---
 
@@ -57,29 +87,7 @@ Fans' response has been surprising
 
 The next decade of AI in healthcare is less about diagnosis and more about giving clinicians their time back and giving patients their records back.
 
-🔗 [temetro](https://blog.temetro.com/the-future-of-ai-in-healthcare-is-quiet-private-and-patient-owned/) • 1h ago
-
----
-
-**[The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites](https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/)**
-
-Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called "computer use" and it's incredibly inefficient. The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a contractor, or an investor not by browsing LinkedIn but by directly querying other agents who represent those people. No ads, no SEO manipulation, no UI dark patterns. Agents evaluate options on merit because they can't be tricked by marketing psychology the way humans can. I'm working on a platform that's building toward this — an agent-to-agent matching marketplace. But I'm curious what this community thinks: How far out do you think agent-to-agent communication is from mainstream adoption? What use cases do you think will go agent-native first? What are the biggest technical barriers right now? Would love to hear from anyone building in this space. I'm also interviewing builders working on AI agents if anyone wants to share what they're working on.
-
-5h ago
-
----
-
-**[I use AI every day, and I think people are right to feel more anxious than excited about it](https://www.reddit.com/r/artificial/comments/1uvgsms/i_use_ai_every_day_and_i_think_people_are_right/)**
-
-i use these tools literally all day (for better or worse, different conversation); i am far from anti-ai. but as they are becoming more useful, it's hard for me to think the anxiety around ai is people simply being afraid of new tech/change the more public opinion data i see, the more i feel validated on the feeling, anecdotally it's everywhere on my social feeds and personal life. plus, i was reading a survey about how americans feel about ai, and 61% said its rise makes them anxious, compared with 48% who said they’re excited. most importantly (imo) 72% expect it to mean fewer job opportunities, and the same percentage think it threatens human connection and authentic relationships. it feels more like people can see how useful it is while also realizing that nobody really knows how we’re going to manage what comes next. curious whether using these tools more has made other people feel enabled, anxious, or a mix of both? source: https://data.verasight.io/ai/ai-leaves-more-americans-anxious-than-excited
-
-6h ago
-
----
-
-**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 8h ago
+🔗 [temetro](https://blog.temetro.com/the-future-of-ai-in-healthcare-is-quiet-private-and-patient-owned/) • 2h ago
 
 ---
 
@@ -87,7 +95,7 @@ i use these tools literally all day (for better or worse, different conversation
 
 Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 to 1,991 GWh in Q4 2026
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 22h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 23h ago
 
 ---
 
@@ -103,14 +111,6 @@ So while we've been arguing about whether AI will take our jobs, someone built a
 
 I am looking for an AI that is a reliable as possible that can do the following task Imagine that I have a lots of emails, hundreds of them. In the emails we asked to the addressees some questions and we expect a given answer. Imagine that the question is something like "Given these reasons, do you think that ice cream is the best dessert in the world?" And we expect some kind of reply that, no matter how it may be formulated, it basically ends up answering affirmatively Then, as the amount of emails is huge to go one by one and the thing that is interesting for us is to basically know if they have given an answer that accomodates to what we expect, could there be an AI model that would give an approximate percentage of coincidence between what we expected and the actual answers? Or some kind of mark? So that, imagine that 800 of 1000 emails have answered affirmatively, so could there be an AI model that, after reading all the answers would conclude that the percentage of coincidence is around 80%? Or that it would give a mark of 8 out of 10? Could this AI model also give the percentage of neutral and negative results (for example people saying "I don't know" and "No, cake is the best dessert!" respectively)? Finally, I would be especially interested in an AI model that could be adjusted to give just the percentage number without commenting or showing the answers and explaining why it has gotten to that number, as in some of these tests I would like to be completely blind to the actual answers given in these emails. So for these tests I would like to know just the number and that's it So if there is any such AI I would appreaciate it!
 
-6h ago
-
----
-
-**[the monthly investor update was the first place ai actually saved me time, just not where i expected](https://www.reddit.com/r/artificial/comments/1uvff8t/the_monthly_investor_update_was_the_first_place/)**
-
-Every month the investor update eats a morning, and almost none of that is the writing. Writing the thing is the short part. The long part is gathering: last month's metrics from one doc, the founder check-in notes sitting in Granola, the Gmail threads where a customer said something worth quoting. I finally pointed an agent on my laptop at the gathering instead of the writing. Funny thing is I barely used the draft it produced, rewrote most of it anyway. What actually changed the month was not spending the morning as the integration layer between Granola, Gmail, and a metrics doc that never talk to each other. the prose was never the bottleneck. once a month I'd turn into the thing that reconciles a stack of tabs full of stuff I already had. the setup that finally fixed it writes a pretty average draft and does a genuinely great gather. i'd have bet on the exact opposite. written with ai
-
 7h ago
 
 ---
@@ -121,7 +121,7 @@ Every month the investor update eats a morning, and almost none of that is the w
 
 **[Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?](https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -129,37 +129,27 @@ The New York Times • 5h ago
 
 Georgia Power says building a new transmission line will require acquiring more than 300 parcels of land, including residential properties.
 
-CBS News • 6h ago
+CBS News • 7h ago
 
 ---
 
-**[Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html)**
+**[Nearly 200 Economists and Tech Leaders Warn of A.I. Threats](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html)**
 
-Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost over $50 billion.
-
-CNBC • 13h ago
+The New York Times • 12h ago
 
 ---
 
-**[Did Meta Signal The AI Boom Is Overbuilt? Wall Street Cheered Anyway](https://www.forbes.com/sites/robertszczerba/2026/07/13/did-meta-signal-the-ai-boom-is-overbuilt-wall-street-cheered-anyway/)**
+**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/)**
 
-Meta’s $50 Billion Data Center Raises AI Overbuild Questions
-
-Forbes • 13m ago
+Reuters • 11h ago
 
 ---
 
-**[Why Fortune 500 companies are flocking to open source AI](https://finance.yahoo.com/video/why-fortune-500-companies-are-flocking-to-open-source-ai-223952992.html)**
+**[Hundreds of experts warn the world must prepare now for AI’s impact](https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact)**
 
-Ollama CEO Jeffrey Morgan joins Yahoo Finance's Josh Lipton to explain how open-source AI models provide cost savings, data control, and secure localized deployment for major enterprise clients like the Fortune 500.
+More than 200 economists and AI researchers call on leaders to immediately prepare for sweeping economic disruption.
 
-Yahoo Finance • 19m ago
-
----
-
-**[AI, data center companies employees donate over $100K to Blackburn campaign](https://www.wkrn.com/video/ai-data-center-companies-employees-donate-over-100k-to-blackburn-campaign/11967592/)**
-
-WKRN News 2 • 42m ago
+Al Jazeera • 5m ago
 
 ---
 
@@ -171,9 +161,9 @@ The Washington Post • 1d ago
 
 ---
 
-**[Stock Market Today: AI Jitters Weigh on Nasdaq, SK Hynix Stock Slumps — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026)**
+**[Stock Market News, July 13, 2026: Oil Jumps, While AI Jitters Weigh on Nasdaq](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026)**
 
-WSJ • 1h ago
+WSJ • 12m ago
 
 ---
 
@@ -181,7 +171,13 @@ WSJ • 1h ago
 
 A single mom, her two daughters, and the chatbots that fill in the gaps.
 
-The New Yorker • 12h ago
+The New Yorker • 13h ago
+
+---
+
+**[Top House progressive warns Democrats to get serious on AI messaging](https://www.politico.com/news/2026/07/13/greg-casar-ai-progressives-midterms-00994107)**
+
+Politico • 6h ago
 
 ---
 
@@ -189,7 +185,7 @@ The New Yorker • 12h ago
 
 The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strike
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -199,7 +195,7 @@ The Guardian • 10h ago
 
 **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
 
-⬆️ 998 • 💬 432 • 21h ago
+⬆️ 1000 • 💬 433 • 22h ago
 
 ---
 
@@ -215,7 +211,7 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 253 • 💬 125 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 253 • 💬 126 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -235,19 +231,19 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 ---
 
-**[Under federal rule, colleges must leave grads better off or lose financial aid](https://news.ycombinator.com/item?id=48878126)**
-
-If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
-
-⬆️ 196 • 💬 531 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
-
----
-
 **[Samsung Health app threatens data deletion if users opt out AI training](https://news.ycombinator.com/item?id=48897991)**
 
 Samsung has started showing Samsung Health users a controversial notice requiring them to consent to their data being used for AI training if they want to keep their data from being deleted.
 
-⬆️ 193 • 💬 52 • 2h ago • [Neowin](https://neow.in/cWsyMTV3)
+⬆️ 224 • 💬 62 • 3h ago • [Neowin](https://neow.in/cWsyMTV3)
+
+---
+
+**[Under federal rule, colleges must leave grads better off or lose financial aid](https://news.ycombinator.com/item?id=48878126)**
+
+If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
+
+⬆️ 197 • 💬 531 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -269,7 +265,7 @@ New analysis suggests AI tools narrow the range of ideas explored
 
 Reader Hideki Idoru argues that AI is a decent information distiller and a bad tool for nearly everything else in software, because no one can cheaply verify that generated code is correct. The deeper claim is that most programming was already trivial, unabstracted busywork, and AI has only torn the mask off. It's worth reading and thinking about.
 
-⬆️ 74 • 💬 83 • 3h ago • [bytecode.news](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
+⬆️ 74 • 💬 83 • 4h ago • [bytecode.news](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
 
 ---
 
@@ -283,7 +279,7 @@ Ex-OpenAI researcher Daniel Kokotajlo walked away from $2 million rather than st
 
 📺 The Diary Of A CEO
 
-👁️ 1.1M • 👍 35K • 💬 7K • ⏱️ 2:00:50 • 15h ago
+👁️ 1.1M • 👍 35K • 💬 7K • ⏱️ 2:00:50 • 16h ago
 
 ---
 
@@ -293,7 +289,7 @@ I gave an AI "lego blocks," here's what happened. Using Model Context Protocol (
 
 📺 TechLead
 
-👁️ 7K • 👍 384 • 💬 133 • ⏱️ 11:16 • 4h ago
+👁️ 7K • 👍 384 • 💬 133 • ⏱️ 11:16 • 5h ago
 
 ---
 
@@ -303,7 +299,7 @@ Join our Skool community to learn AI & algo trading: https://www.skool.com/david
 
 📺 Trading with DaviddTech
 
-👁️ 9K • 👍 510 • 💬 69 • ⏱️ 18:32 • 9h ago
+👁️ 9K • 👍 510 • 💬 69 • ⏱️ 18:32 • 10h ago
 
 ---
 
@@ -333,7 +329,7 @@ FREE PROMPTS + RESOURCES (Staying Ahead community): https://links.stayingahead.c
 
 📺 Vaibhav Sisinty
 
-👁️ 19K • 👍 651 • 💬 44 • ⏱️ 16:08 • 8h ago
+👁️ 19K • 👍 651 • 💬 44 • ⏱️ 16:08 • 9h ago
 
 ---
 
@@ -343,7 +339,7 @@ Economist Stephen Moore analyzes the Wall Street Journal's prediction of stubbor
 
 📺 Fox Business
 
-👁️ 3K • 👍 70 • 💬 56 • ⏱️ 4:30 • 7h ago
+👁️ 3K • 👍 70 • 💬 56 • ⏱️ 4:30 • 8h ago
 
 ---
 
@@ -363,7 +359,7 @@ Anti-tracking fashion: Startup designs clothing to foil AI surveillance cameras 
 
 📺 euronews
 
-👁️ 3K • 👍 38 • 💬 7 • ⏱️ 1:48 • 17h ago
+👁️ 3K • 👍 38 • 💬 7 • ⏱️ 1:48 • 18h ago
 
 ---
 
@@ -469,7 +465,7 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 `text-generation` `1.1B`
 
-⬇️ 68,714 • ❤️ 219 • 8h ago
+⬇️ 68,714 • ❤️ 219 • 9h ago
 
 ---
 
@@ -687,7 +683,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.0k • 🔱 126 • 7h ago
+⭐ 2.0k • 🔱 126 • 8h ago
 
 ---
 
@@ -737,7 +733,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 943 • 🔱 58 • 4h ago
+⭐ 943 • 🔱 58 • 5h ago
 
 ---
 

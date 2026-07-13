@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-13T22:59:26.138101+00:00'
+updated: '2026-07-13T23:59:54.719053+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 13, 2026 at 22:59 UTC  
+**Last Updated:** July 13, 2026 at 23:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
 
-18h ago
+19h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-D
 
 I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
 
-21h ago
+22h ago
 
 ---
 
@@ -120,19 +120,27 @@ Cowboy State Daily • 2d ago
 
 ---
 
-**[Robotics CEO fumes after Wired portrays $20K home robot as ‘sexualized’](https://nypost.com/2026/07/13/media/robotics-ceo-fumes-after-wired-portrays-20k-home-robot-as-sexualized/)**
-
-Dar Sleeper, vice president of product and design at 1X, blasted Wired magazine over the weekend.
-
-New York Post • 5h ago
-
----
-
 **[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
 
 Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
 
 Anthropic • 4d ago
+
+---
+
+**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
+
+1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
+
+Business Insider • 14h ago
+
+---
+
+**[AI agents create virtual playgrounds to help robots get crucial training data](https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713)**
+
+The “SceneSmith” system developed by MIT CSAIL researchers uses AI agents to generate lifelike scenes of indoor environments like kitchens and hotels to help robots simulate everyday chores. These 3D worlds are more realistic and diverse than prior attempts, helping engineers save more time on real-world testing.
+
+MIT News • 5h ago
 
 ---
 
@@ -150,33 +158,11 @@ CNET • 1d ago
 
 ---
 
-**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
-
-1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
-
-Business Insider • 13h ago
-
----
-
-**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
-
-Autoblog • 1d ago
-
----
-
-**[Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win](https://euromaidanpress.com/2026/07/12/ukraine-is-first-country-to-fund-combat-humanoid-robots-but-its-own-battlefield-says-wheels-still-win/)**
-
-Ukraine's Brave1 defense cluster opened a grant for domestic bipedal humanoid combat robots under a separate category.
-
-Euromaidan Press • 16h ago
-
----
-
 **[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
 
 The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
 
-Inquirer.com • 10h ago
+Inquirer.com • 11h ago
 
 ---
 
@@ -184,7 +170,21 @@ Inquirer.com • 10h ago
 
 LOS ANGELES, July 12, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) ("Faraday Future", "FF" or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global CEO of FF.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
+
+Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
+
+New Atlas • 3d ago
+
+---
+
+**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
+
+Reuters • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ In this video, I show you how I created a VPN connection to my own home network 
 
 📺 Kitajima
 
-👁️ 1K • 👍 8 • ⏱️ 0:29 • 6h ago
+👁️ 1K • 👍 8 • ⏱️ 0:29 • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ Booster Robotics' flagship humanoid robot is growing up. The three-year-old Chin
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 52 • 💬 2 • ⏱️ 1:07 • 7h ago
+👁️ 1K • 👍 52 • 💬 2 • ⏱️ 1:07 • 8h ago
 
 ---
 

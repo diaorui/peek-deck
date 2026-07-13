@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-13T22:59:26.129997+00:00'
+updated: '2026-07-13T23:59:54.710818+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 22:59 UTC  
+**Last Updated:** July 13, 2026 at 23:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,181.52
+### $62,132.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -2.2%  
-**30d:** -5.8%  
-**90d:** -17.2%  
-**1y:** -48.3%  
+**24h:** -2.7%  
+**7d:** -1.6%  
+**30d:** -5.2%  
+**90d:** -16.7%  
+**1y:** -48.0%  
 
 ---
 
@@ -159,23 +159,25 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Strategy bitcoin sales shine light on faltering crypto hoarding companies](https://www.reuters.com/legal/government/strategy-bitcoin-sales-shine-light-faltering-crypto-hoarding-companies-2026-07-13/)**
+**[Strategy Leaves Bitcoin Holdings Unchanged](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-131900091.html)**
 
-Reuters • 12h ago
+Cryptocurrency treasury firm Strategy (NASDAQ: $MSTR) left its holdings of Bitcoin (CRYPTO: $BTC) unchanged over th...
+
+Yahoo Finance • 10h ago
 
 ---
 
-**[U.S. government moves $8.8M of Bitcoin that Trump said would never sell](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-8-8m-204911394.html)**
+**[Got $1,000 to Invest? Here’s What XRP vs Bitcoin Could Be Worth by 2027](https://finance.yahoo.com/markets/crypto/articles/got-1-000-invest-xrp-223220032.html)**
 
-The United States government moved $8.8 million of Bitcoin to Coinbase Prime on Monday night, according to blockchain intelligence firm Arkham. "The US Government just moved $8.8M of BTC to Coinbase Prime. The Coinbase Prime deposit that received this BTC 1 hour ago also received seized BTC from ...
+Bitcoin has the institutional muscle and XRP has the wilder upside, but the case for each crypto hinges on very different things going right. Before you commit $1,000, it helps to know exactly what has to break your way and what breaks against you.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin (BTC) Weakens as Oil-Price Spike Revives Inflation Concerns](https://www.bloomberg.com/news/articles/2026-07-13/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -199,7 +201,7 @@ Fortune • 1d ago
 
 Analysts point to bitcoin’s resilience amid fresh U.S.-Iran escalation and renewed spot ETF inflows as the clearest signs yet that the marginal seller has finally stepped away. Some still remain cautious.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -207,21 +209,13 @@ CoinDesk • 7h ago
 
 New Hampshire's newly-signed crypto law introduces protections for users, miners, and stakers within its boundaries.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
 **[Bitcoin dips to $62.5k as U.S.-Iran tensions weigh on risk sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-628k-as-usiran-tensions-batter-risk-4787419)**
 
-Investing.com • 16h ago
-
----
-
-**[State-backed Bitcoin venture blocked by Executive Council | CloseUp](https://www.wmur.com/article/nh-bitcoin-venture-executive-council-closeup-71326/71919541)**
-
-The New Hampshire Executive Council votes 3-2 against a conduit bond to assist a private company purchasing Bitcoin.
-
-WMUR • 6h ago
+Investing.com • 17h ago
 
 ---
 
@@ -229,7 +223,15 @@ WMUR • 6h ago
 
 Rising oil prices fuel inflation expectations. And that means risk is off the table for the time being.⚠️ Risk Appetite Takes a Hit🛢️ Oil Is Calling the Shots📅 CPI Is the Next Big Test
 
-TradingView • 16h ago
+TradingView • 17h ago
+
+---
+
+**[Bitcoin price crashes to $61K, wiping out bulls: Is a recovery catalyst ahead?](https://seekingalpha.com/news/4613290-bitcoin-price-crashes-to-61k-wiping-out-bulls-is-a-recovery-catalyst-ahead)**
+
+Bitcoin falls 3% amid $322M crypto liquidations and Middle East risks; CLARITY Act hearing could be a catalyst.
+
+Seeking Alpha • 5h ago
 
 ---
 
@@ -257,7 +259,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 12h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
+⬆️ 1 • 💬 0 • 13h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
 
 ---
 
@@ -305,7 +307,7 @@ Bitcoin #Crypto #finance Bitcoin remains stuck in its multi-month range as inves
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 730 • 💬 152 • ⏱️ 27:17 • 9h ago
+👁️ 13K • 👍 730 • 💬 152 • ⏱️ 27:17 • 10h ago
 
 ---
 
@@ -315,7 +317,7 @@ LeveX: https://levex.com/r/CryptoKid VIP LEVEL 5 WEEX: https://cryptokid.io/WEEX
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 278 • 💬 49 • ⏱️ 8:43 • 11h ago
+👁️ 4K • 👍 278 • 💬 49 • ⏱️ 8:43 • 12h ago
 
 ---
 
@@ -345,7 +347,7 @@ Bitcoin charts, Robinhood Chain, Uniswap, Ethereum, Cashcat! BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 11K • 👍 557 • 💬 30 • ⏱️ 16:26 • 10h ago
+👁️ 11K • 👍 557 • 💬 30 • ⏱️ 16:26 • 11h ago
 
 ---
 
@@ -365,7 +367,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 346 • ⏱️ 33:35 • 6h ago
+👁️ 3K • 👍 346 • ⏱️ 33:35 • 7h ago
 
 ---
 
@@ -375,7 +377,7 @@ The US and Iran went back to war this weekend and everything sold off. Oil jumpe
 
 📺 VirtualBacon
 
-👁️ 6K • 👍 322 • 💬 194 • ⏱️ 49:09 • 3h ago
+👁️ 6K • 👍 322 • 💬 194 • ⏱️ 49:09 • 4h ago
 
 ---
 
