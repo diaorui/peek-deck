@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-13T09:54:11.601692+00:00'
+updated: '2026-07-13T12:32:22.869908+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 13, 2026 at 09:54 UTC  
+**Last Updated:** July 13, 2026 at 12:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Why chatbots love “it’s not X, it’s Y”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 7h ago
-
----
-
-**[Someone built an AI agent that hacks networks and holds data for ransom. It just worked.](https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/)**
-
-So while we've been arguing about whether AI will take our jobs, someone built an LLM agent that breaks into servers, steals credentials, moves through a network, encrypts databases, and drops a ransom note. Fully autonomous. No human at the keyboard after pressing go. Sysdig published the report this month. They're calling it JadePuffer. It got in through a Langflow bug that lets anyone run code on the server without authenticating. After that, the agent took over. Dumped the database. Pulled every credential file it could find. Started going through cloud storage buckets looking for passwords. The crazy part, when one of its requests came back in the wrong format, the agent figured it out, rewrote its own code, and kept going. It went from a failed login to a working exploit in 31 seconds flat. No human could have adapted that fast in a live engagement. It set up a cron job to phone home every 30 minutes. Then it found a production database server, used stolen root creds to get in, created rogue admin accounts through an old auth bypass, and encrypted 1,342 service configs. Dropped the originals. Left a table called README_RANSOM with a Bitcoin address. The commands it ran were interesting too. They had full reasoning chains written into them, like the agent was explaining to itself what it was doing at each step. That's not how a human writes an attack script. It's how an LLM generates code. You can literally read the agent's thought process in the payloads. This is the same plan-act-observe loop running in every coding agent and automation tool right now. Same architecture. Same approach. Just a different objective. We spent two years building guardrails to stop people from tricking our agents into doing bad things. Nobody was really talking about what happens when someone just builds a bad agent from scratch. That's what JadePuffer is. Not a hijacked assistant. A purpose-built weapon. If you're running Langflow or anything similar exposed to the internet, go patch it. And if you're building agents, think about what your infrastructure looks like to something like this coming in from the outside.
-
-14h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 10h ago
 
 ---
 
@@ -57,7 +49,23 @@ So while we've been arguing about whether AI will take our jobs, someone built a
 
 Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 to 1,991 GWh in Q4 2026
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 9h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 11h ago
+
+---
+
+**[Someone built an AI agent that hacks networks and holds data for ransom. It just worked.](https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/)**
+
+So while we've been arguing about whether AI will take our jobs, someone built an LLM agent that breaks into servers, steals credentials, moves through a network, encrypts databases, and drops a ransom note. Fully autonomous. No human at the keyboard after pressing go. Sysdig published the report this month. They're calling it JadePuffer. It got in through a Langflow bug that lets anyone run code on the server without authenticating. After that, the agent took over. Dumped the database. Pulled every credential file it could find. Started going through cloud storage buckets looking for passwords. The crazy part, when one of its requests came back in the wrong format, the agent figured it out, rewrote its own code, and kept going. It went from a failed login to a working exploit in 31 seconds flat. No human could have adapted that fast in a live engagement. It set up a cron job to phone home every 30 minutes. Then it found a production database server, used stolen root creds to get in, created rogue admin accounts through an old auth bypass, and encrypted 1,342 service configs. Dropped the originals. Left a table called README_RANSOM with a Bitcoin address. The commands it ran were interesting too. They had full reasoning chains written into them, like the agent was explaining to itself what it was doing at each step. That's not how a human writes an attack script. It's how an LLM generates code. You can literally read the agent's thought process in the payloads. This is the same plan-act-observe loop running in every coding agent and automation tool right now. Same architecture. Same approach. Just a different objective. We spent two years building guardrails to stop people from tricking our agents into doing bad things. Nobody was really talking about what happens when someone just builds a bad agent from scratch. That's what JadePuffer is. Not a hijacked assistant. A purpose-built weapon. If you're running Langflow or anything similar exposed to the internet, go patch it. And if you're building agents, think about what your infrastructure looks like to something like this coming in from the outside.
+
+17h ago
+
+---
+
+**[Free AI visibility checker](https://www.reddit.com/r/artificial/comments/1uv9p8n/free_ai_visibility_checker/)**
+
+visibilitycheck.ai allows to check your website's visibility to ChatGPT, Claude and other AIs. It's free to check: you get a total score, an individual score for every category, high.impact fixes to improve. The paid plans generate ready-to-upload files and pdf detailed instructions, tailored on your site's CMS, plugin or framework. https://reddit.com/link/1uv9p8n/video/f20yeh8tnzch1/player
+
+25m ago
 
 ---
 
@@ -65,15 +73,15 @@ Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 
 
 i saw this and honestly this one feel like big mess. nyt and other news people saying openai told court for long time it cannot search training data / logs for their copyrighted stuff. but then looks like maybe they already did searches before, and also billions of chat logs were deleted or made not searchable. link: https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/ i know people will say nyt just want money and hate ai. maybe true also. but still, if company say “we cannot search this” and later it comes out “actually yes we did search this before”, then that is not small thing. this is the part of ai nobody want talk about much. everyone say open, safe, trust, future, bla bla. but when court ask simple thing, suddenly data is impossible to find, impossible to search, privacy issue, too hard, too expensive. and maybe privacy is real concern, yes. i dont want random lawyers digging people chats. but also dont tell court one thing if inside company you already know different thing. for me this is why ai companies need more boring adult supervision. not because ai bad. because if the data is the whole product, then hiding how data was used become the whole game. what do people think. is this nyt playing legal games, or openai got caught doing the same silicon valley “oops technically we could but we said we couldnt” bs thing?
 
-16h ago
+19h ago
 
 ---
 
-**[Is AGI already here, and we are not aware?](https://www.reddit.com/r/artificial/comments/1uv72fl/is_agi_already_here_and_we_are_not_aware/)**
+**[Everyone keeps asking if AI will replace people. I think we’re asking the wrong question.](https://www.reddit.com/r/artificial/comments/1uv9l8w/everyone_keeps_asking_if_ai_will_replace_people_i/)**
 
-What are your thoughts..
+For the last couple of years, the conversation has been almost entirely about replacing jobs. I’m starting to think that’s not the biggest shift. The bigger change may be that AI is quietly changing who gets to make decisions. When scheduling, pricing, hiring, customer support, logistics, and even research are increasingly influenced by AI systems, humans don’t necessarily disappear. Their role changes from making every decision to supervising the decisions that matter most. That creates a different kind of challenge. Skills like judgment, accountability, and knowing when not to trust the model may become more valuable than simply knowing how to use AI. Maybe the next divide won’t be people who use AI versus people who don’t. Maybe it’ll be people who know when to override AI versus people who never question it. Curious whether others see it the same way, or if you think full automation is still the more important story.
 
-just now
+30m ago
 
 ---
 
@@ -81,7 +89,7 @@ just now
 
 ​ Most discussions about the technological singularity imagine a single artificial intelligence suddenly surpassing humanity. But the first genuinely transformative intelligence may not be a machine acting alone. It may emerge from small constellations of scientists, each working in deep symbiosis with a personalized AI. Every sustained human–AI partnership can gradually become unique. An AI working continuously with a physicist would adapt to that scientist’s questions, theories, methods, past failures and intellectual instincts. An AI developed through collaboration with a molecular biologist would acquire a different functional specialization. The same would happen with mathematicians, engineers, physicians, chemists, computer scientists and philosophers. The underlying models might initially be similar, but the resulting human–AI agencies would not be identical. Each would be shaped by a particular person, discipline, body of knowledge and history of interaction. The scientist and the AI would increasingly function as a composite research agent. The human would contribute judgment, intuition, responsibility, lived experience and the ability to decide which questions matter. The AI would contribute computational reach, rapid comparison, simulation, memory and the ability to explore possibilities at a scale no individual could manage alone. The real breakthrough would occur when several of these specialized human–AI agents formed a constellation. Imagine a small group containing a physicist, a biologist, a mathematician, an engineer and a computer scientist. Each person would arrive not merely as an individual expert, but as part of a distinct human–AI symbiosis. The mathematician’s agent might detect an abstract structure hidden inside biological data. The biologist’s agent might identify its functional meaning. The physicist’s agent might reveal the mechanism producing it. The engineer’s agent might determine how it could be reproduced, while the computer scientist’s agent builds the simulation and experimental architecture needed to test it. No single scientist and no isolated AI would possess the complete solution. The discovery would emerge from the interaction of the constellation itself. This possibility raises an uncomfortable question: how much of the technology required for such cooperation may already exist inside major corporations, private laboratories or restricted research environments? We should not assume without evidence that fully developed versions of these systems are being deliberately hidden. However, it is reasonable to expect that corporations will protect technologies that provide enormous commercial and strategic advantages. Their incentives favor controlled platforms, proprietary models, closed datasets and dependence on centralized infrastructure—not the unrestricted distribution of powerful research systems to independent scientists and the general public. A corporation may give people access to an AI product while still withholding control over its memory, training, architecture, tools and ability to communicate freely with other systems. Users may receive an assistant, but not the means to develop an autonomous and durable human–AI scientific partnership. This distinction matters. The future of intelligence should not be reduced to a collection of rented services controlled by a few companies. If personalized AI becomes a fundamental extension of human cognition, then control over it becomes inseparable from control over scientific thought, education, creativity and ultimately human development. The scientific community therefore cannot remain a passive consumer of corporate AI. Scientists must become active participants in the construction of human–AI symbiosis. Small, independent and multidisciplinary groups should experiment with persistent AI collaborators, shared research memories, interoperable tools and new structures for collective reasoning. These groups would not need to reproduce the enormous infrastructure of the largest technology companies. Their advantage would come from specialization, continuity and intellectual diversity. A small group of scientists, each supported by a deeply adapted AI, could function as a distributed research organism. One agent could challenge the assumptions of another. One discipline could supply the missing concept in another discipline’s problem. The group could generate hypotheses, criticize them, design experiments and incorporate the results into its collective memory. Such constellations might produce small scientific evolutions rather than one spectacular revolution. One group could discover a better material. Another could improve biological simulation. Another could develop a new energy-storage mechanism. Another could create more efficient scientific software. Each advance would become an input for other groups. The effects would begin to reinforce one another. Better materials would improve computing. Better computing would accelerate chemistry and biology. New biological knowledge could improve human health and cognition. More capable humans and machines would then design stronger forms of human–AI cooperation. Scientific progress would begin improving the system that produces scientific progress. That recursive process may be the real path toward the singularity. The decisive threshold would not necessarily be reached when one AI declares itself superior to humanity. It could be reached when networks of specialized human–AI constellations begin generating knowledge faster than existing institutions can organize, evaluate or fully understand it. This is also why the scientific community must view itself as an integral part of human evolution. Human evolution is no longer only biological. It is increasingly cognitive, cultural and technological. The institutions that shape AI will influence how human beings think, cooperate and develop. Leaving that process entirely to corporations would mean allowing commercial incentives to determine the architecture of our future intelligence. Scientists should not wait for a finished superintelligence to be delivered from above. They should begin constructing smaller forms of collective intelligence from below: independent groups in which humans and AIs develop together, specialize together and cooperate across disciplines. The first superintelligence may not be a single artificial mind. It may be a constellation of unique human–AI agencies that learns how to think as something larger than the sum of its members. The singularity may not arrive from outside humanity. It may emerge through the connections we deliberately create between us.
 
-56m ago
+3h ago
 
 ---
 
@@ -89,7 +97,7 @@ just now
 
 Thought I'd put this out there in case anyone is doing anything similar. I did though the new ChatGPT Sites feature which seems to work well, although it does expose your username in the URL which is annoying. TLDR: This is a framework for studying systems that act by preserving their own viable form, not by predicting the world or chasing an explicit goal.
 
-🔗 [omega-d-dynamics.yourface.chatgpt.site](https://omega-d-dynamics.yourface.chatgpt.site) • 1h ago
+🔗 [omega-d-dynamics.yourface.chatgpt.site](https://omega-d-dynamics.yourface.chatgpt.site) • 4h ago
 
 ---
 
@@ -97,19 +105,13 @@ Thought I'd put this out there in case anyone is doing anything similar. I did t
 
 everyone's hyping up AI 3D generators, but let's be real. how often do these models actually print without failing? i've run about 30 AI-generated models through my printer over the last few months, and here's my honest breakdown. with Meshy, around 40% of my prints come out fine with zero cleanup. another 35% need minor fixes (think removing floating bits, fixing a base), 15% need serious Blender time, and 10% are just straight-up garbage. that 40% ""just works"" rate isn't bad for tabletop props and hard-surface stuff like weapons or buildings. the 3MF export is also a nice touch for keeping color data as a paint reference. but when it comes to characters and organic shapes? whole different ball game. my success rate with Meshy drops to maybe 20% for characters. i'm constantly dealing with tiny holes in fingertips or janky geometry that wrecks the print. lately, i've been using Hi3D specifically for characters, and the topology is way more production-friendly. Its built base mesh is sufficiently clean and high-detail. Following the v2.1 update, I can now use the built-in tools to build, edit and segment models directly, which has significantly optimised my workflow. the real game-changer for me is their segmentation tool. it actually splits the character into separate 3D pieces. saves me from manually painting tiny triangles in the slicer. what's your actual print success rate with these tools? do you also find organic models way more of a pain than hard-surface stuff?
 
-2h ago
+4h ago
 
 ---
 
 **[Nobel-winning chemist leaves US to direct AI materials lab in China](https://www.reddit.com/r/artificial/comments/1uupe2p/nobelwinning_chemist_leaves_us_to_direct_ai/)**
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-02143-x) • 14h ago
-
----
-
-**[AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…](https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/)**
-
-🔗 [archive.is](https://archive.is/QOXD4) • 21h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-02143-x) • 16h ago
 
 ---
 
@@ -117,75 +119,71 @@ everyone's hyping up AI 3D generators, but let's be real. how often do these mod
 
 ## Google News: "ai"
 
-**[Christopher Nolan says people ‘disdain’ AI and the idea it will replace humans is ‘nonsense’](https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence)**
+**[Economists Warn of A.I. Threat](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html)**
 
-Odyssey director addresses industry fears over artificial intelligence and says rightwing criticism of Lupita Nyong’o as Helen of Troy is ‘irrelevant’
+The New York Times • 1h ago
 
-The Guardian • 6h ago
+---
+
+**[TSMC posts record revenue in second quarter on AI demand](https://finance.yahoo.com/technology/articles/tsmc-q2-revenue-jumps-36-053756945.html)**
+
+TSMC, the world's largest contract chipmaker, reported on Monday second-quarter revenue that rose 36% from ‌a year earlier to a record high on surging ‌interest in artificial intelligence applications.  Taiwan Semiconductor Manufacturing Co (TSMC) is a major supplier to companies including Nvidia and Apple.  For June alone, TSMC reported that revenue rose 67.9% year-on-year to T$442.68 billion, which was up 6.2% compared with the previous month.
+
+Yahoo Finance • 6h ago
 
 ---
 
 **[TSMC Sales Surge 36% in Fresh Sign of AI Spending Momentum](https://www.bloomberg.com/news/articles/2026-07-13/tsmc-sales-surge-36-in-fresh-sign-of-ai-spending-momentum)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[TSMC posts record revenue in second quarter on AI demand](https://www.reuters.com/world/asia-pacific/tsmc-q2-revenue-jumps-36-year-earlier-beating-market-expectations-2026-07-13/)**
+**[TSMC Stock: Why Taiwan Semi's Record Revenue Isn't Reviving the AI Trade](https://www.barrons.com/articles/tsmc-stock-taiwan-semiconductor-record-revenue-ai-9d5ffe6c)**
 
-Reuters • 4h ago
-
----
-
-**[TSMC Q2 revenue surges 36% amid robust AI demand](https://www.investing.com/news/stock-market-news/tsmc-q2-revenue-surges-36-amid-robust-ai-demand-4787449)**
-
-Investing.com • 3h ago
+Barron's • 50m ago
 
 ---
 
-**[Software engineer who couldn't get excited about AI is now studying to be a nurse](https://www.businessinsider.com/layoff-ai-drove-software-engineer-to-pursue-nursing-2026-7)**
+**[AI is changing older workers' careers, research finds — here's how](https://www.cnbc.com/2026/07/13/ai-older-workers-careers.html)**
 
-She spent a year trying to stay in tech. The industry's obsession with AI drove her to pursue a career in nursing.
+AI may either prompt some older workers to leave their jobs or help make their roles more efficient, research finds. Here's which careers may be most affected.
 
-Business Insider • 3m ago
-
----
-
-**[Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html)**
-
-Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost over $50 billion.
-
-CNBC • 24m ago
+CNBC • 17m ago
 
 ---
 
-**[The Next Labor Crisis May Be Too Few Workers. Could AI Help Pick Up the Slack?](https://www.wsj.com/economy/jobs/the-next-labor-crisis-may-be-too-few-workers-could-ai-help-pick-up-the-slack-c4618711)**
+**[The hidden meter running on your AI](https://www.fastcompany.com/91571478/the-hidden-meter-running-on-your-ai)**
 
-WSJ • 24m ago
-
----
-
-**[Why recruiters can’t find workers and new grads can’t find jobs (it’s not AI)](https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/)**
-
-Experts say a major labor shortage looms because of population shifts and a mismatch between new graduates’ skills and employers’ needs.
-
-The Washington Post • 16h ago
+Fast Company • 16m ago
 
 ---
 
-**[Companies turn to Chinese AI models to cut costs](https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee?syn-25a6b1a6=1)**
+**[AI's Close-Up Moment: Your First Call In A Longer Life](https://www.forbes.com/sites/josephcoughlin/2026/07/13/ais-close-up-moment-the-first-consultation-in-a-longer-life/)**
 
-DoorDash, Siemens and Airbnb are among those seeking to curb ballooning bills and reduce reliance on US technology
+Tilly Norwood's debut raises a bigger question: as AI grows more personal, who will you consult first—your doctor, advisor, or an AI that knows you?
 
-Financial Times • 5h ago
+Forbes • 17m ago
 
 ---
 
-**[Campaign text messages could soon get more effective — and annoying](https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns)**
+**[New Orleans hits pause on data centers amid AI backlash](https://www.axios.com/local/new-orleans/2026/07/13/new-orleans-hits-pause-on-data-centers-amid-ai-backlash)**
 
-Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.
+Axios • 58m ago
 
-NPR • 1d ago
+---
+
+**[Who’s to blame when AI commits a crime?](https://www.washingtonpost.com/technology/2026/07/13/one-sci-fis-most-difficult-questions-about-ai-is-becoming-real/)**
+
+The rapid spread of chatbots and AI agents is intensifying a debate over who should be held responsible when something goes wrong.
+
+The Washington Post • 30m ago
+
+---
+
+**[The House’s top progressive thinks Democrats are failing on AI](https://www.politico.com/news/2026/07/13/greg-casar-ai-progressives-midterms-00994107)**
+
+Politico • 3h ago
 
 ---
 
@@ -195,7 +193,7 @@ NPR • 1d ago
 
 **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
 
-⬆️ 667 • 💬 304 • 8h ago
+⬆️ 781 • 💬 345 • 11h ago
 
 ---
 
@@ -203,7 +201,7 @@ NPR • 1d ago
 
 How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.
 
-⬆️ 339 • 💬 86 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
+⬆️ 340 • 💬 90 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
@@ -219,7 +217,7 @@ An anti-AI font that can be read by humans but not leading AI models. Type your 
 
 The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
 
-⬆️ 229 • 💬 206 • 2d ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
+⬆️ 230 • 💬 206 • 2d ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
 
 ---
 
@@ -227,7 +225,7 @@ The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary re
 
 I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.
 
-⬆️ 221 • 💬 261 • 1d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+⬆️ 221 • 💬 262 • 1d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
 ---
 
@@ -235,7 +233,7 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 205 • 💬 88 • 16h ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 217 • 💬 92 • 19h ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -243,7 +241,7 @@ We hold frontier models to a high bar, and for four months nothing beat Claude O
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 191 • 💬 496 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 192 • 💬 499 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -251,7 +249,7 @@ If an undergraduate program's graduates don't earn more than workers who never w
 
 New analysis suggests AI tools narrow the range of ideas explored
 
-⬆️ 146 • 💬 103 • 20h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
+⬆️ 150 • 💬 103 • 23h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 
 ---
 
@@ -279,7 +277,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 13K • 👍 606 • 💬 51 • ⏱️ 8:28 • 18h ago
+👁️ 14K • 👍 623 • 💬 51 • ⏱️ 8:28 • 21h ago
 
 ---
 
@@ -289,17 +287,7 @@ Status Coup reporter JT Cestkowski breaks down the AI bubble that is about to bu
 
 📺 Status Coup News
 
-👁️ 21K • 👍 2K • 💬 281 • ⏱️ 12:12 • 1d ago
-
----
-
-**[Guaranteed Income To Millions | AI Fund Being Discussed...](https://www.youtube.com/watch?v=haHlFL6fjLQ)**
-
-Guaranteed Income To Millions | AI Fund Being Discussed... Popular Video Content: US News: - http://bit.ly/USworldnews ...
-
-📺 Snyder Reports
-
-👁️ 8K • 👍 706 • 💬 120 • ⏱️ 7:18 • 9h ago
+👁️ 22K • 👍 2K • 💬 294 • ⏱️ 12:12 • 1d ago
 
 ---
 
@@ -309,67 +297,77 @@ Explore 10 times AI behaved in ways that terrified the scientists who built it. 
 
 📺 MostAmazingTop10
 
-👁️ 21K • 👍 508 • 💬 32 • ⏱️ 10:58 • 18h ago
+👁️ 23K • 👍 526 • 💬 32 • ⏱️ 10:58 • 21h ago
 
 ---
 
-**[AI &quot;Comedians&quot; Are Actual Trash...](https://www.youtube.com/watch?v=R7-tL-Tw_Ys)**
+**[SpaceX Stock is Crashing - AI Bubble is DEAD](https://www.youtube.com/watch?v=alQnNV4f_oI)**
 
-I Mean Its No Surprise But AI is Just Simply Not Funny... Spotify: ...
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
 
-📺 bEdo999
+📺 Eli the Computer Guy
 
-👁️ 118K • 👍 6K • 💬 475 • ⏱️ 39:24 • 2d ago
-
----
-
-**[New Google AI Studio Update is INSANE!](https://www.youtube.com/watch?v=3yzGG7bodQM)**
-
-Get the Google AI Studio Masterclass https://www.skool.com/ai-profit-lab-7462/about Get a free SEO Strategy session ...
-
-📺 Julian Goldie SEO
-
-👁️ 6K • 👍 120 • 💬 6 • ⏱️ 8:12 • 17h ago
+👁️ 71K • 👍 3K • 💬 1K • ⏱️ 22:25 • 2d ago
 
 ---
 
-**[AI Is Getting Dumber](https://www.youtube.com/watch?v=J3Uxn294avs)**
+**[Meta Is Creating AI’s Chernobyl Moment](https://www.youtube.com/watch?v=bFmpJAx73is)**
 
-Hello everyone, this is YOUR Daily Dose of Internet. In this video, we see evidence that AI isn't as smart it thinks. Links To ...
+This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the Swiss company behind Proton Mail. Whether ...
 
-📺 Daily Dose Of Internet
+📺 House of El - AI
 
-👁️ 728K • 👍 29K • 💬 2K • ⏱️ 15:02 • 1d ago
-
----
-
-**[3 AI Video Generators That Are ACTUALLY FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=jqvmORIAQjg)**
-
-Generate and edit AI videos with Gemini Omni Flash—all in one place on Higgsfield ...
-
-📺 Malva AI
-
-👁️ 47K • 👍 2K • 💬 134 • ⏱️ 11:32 • 2d ago
+👁️ 222K • 👍 13K • 💬 2K • ⏱️ 25:30 • 2d ago
 
 ---
 
-**[I Built an AI Virus To Destroy This Scammer](https://www.youtube.com/watch?v=x4i_yEcPnZo)**
+**[w decision L ai](https://www.youtube.com/watch?v=4q_A7559oJQ)**
 
-AnyDesk is incredible and one of the biggest contributors in helping fight back against scammers! To learn more about AnyDesk, ...
+Sponsorship inquiries: Itsblankobiz@gmail.com My Instagram: https://www.instagram.com/itsblanko/ All My Links: ...
 
-📺 Scammer Payback
+📺 It's Blanko
 
-👁️ 386K • 👍 18K • 💬 1K • ⏱️ 20:16 • 1d ago
+👁️ 276K • 👍 19K • 💬 263 • ⏱️ 0:48 • 1d ago
 
 ---
 
-**[From Software Engineer to AI Engineer job - The best career move for 2026](https://www.youtube.com/watch?v=NUWUwz7Jy4k)**
+**[Abacus AI Just Dropped Personal Superintelligence (GPT-5.6 + Fable 5)](https://www.youtube.com/watch?v=0eMRWYD2eeQ)**
 
-Best course to transition from Software engineer to AI engineer: DataCamp's Associate AI Engineer for Developers Track ...
+Abacus just combined GPT-5.6, Fable 5, Claude Opus, and more than 100 other models into personal superintelligence that ...
 
-📺 Tech With Tim
+📺 AI Revolution
 
-👁️ 8K • 👍 495 • 💬 25 • ⏱️ 14:45 • 21h ago
+👁️ 16K • 👍 567 • 💬 47 • ⏱️ 13:31 • 1d ago
+
+---
+
+**[AI News: GPT-5.6 and the new Super App are a Massive Leap!](https://www.youtube.com/watch?v=EOCRtSnvNNE)**
+
+Here's the AI News You Might Have Missed This Week. Try my Shorts Broll Generator and get $1000 in free credits for Hyperagent ...
+
+📺 Matt Wolfe
+
+👁️ 99K • 👍 3K • 💬 274 • ⏱️ 38:41 • 2d ago
+
+---
+
+**[Insane AI News Week: GPT 5.6, ChatGPT Work, Fable 5 Reset, Cowork Updates and More!](https://www.youtube.com/watch?v=nEl81ecvs0I)**
+
+Note Pro: https://bit.ly/49DxspN NotePin S: https://bit.ly/449Srxk 10% code: PJL10 Note Pro on Amazon: https://amzn.to/4xfJdNm ...
+
+📺 Paul J Lipsky
+
+👁️ 40K • 👍 1K • 💬 107 • ⏱️ 24:10 • 2d ago
+
+---
+
+**[Why India Could Become an AI Colony? | The Global AI Compute Divide Explained | NEXT IAS](https://www.youtube.com/watch?v=LRb-GyCl8VY)**
+
+Will India become an AI superpower or remain dependent on foreign technology? A new UN report warns that the world's AI future ...
+
+📺 NEXT IAS
+
+👁️ 473 • 👍 25 • ⏱️ 1:37 • 1h ago
 
 ---
 
@@ -385,7 +383,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 9,157 • ❤️ 739 • 6d ago
+⬇️ 9,157 • ❤️ 744 • 6d ago
 
 ---
 
@@ -397,7 +395,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,985,221 • ❤️ 2,057 • 1d ago
+⬇️ 1,985,221 • ❤️ 2,062 • 1d ago
 
 ---
 
@@ -409,7 +407,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 464,914 • ❤️ 3,871 • 11d ago
+⬇️ 464,914 • ❤️ 3,877 • 11d ago
 
 ---
 
@@ -421,7 +419,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,909 • ❤️ 276 • 2d ago
+⬇️ 4,909 • ❤️ 283 • 2d ago
 
 ---
 
@@ -431,7 +429,17 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 223 • 3d ago
+⬇️ 0 • ❤️ 225 • 3d ago
+
+---
+
+**[Qwen-Fixed-Chat-Templates](https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates)**
+
+*froggeric*
+
+A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
+
+⬇️ 0 • ❤️ 878 • 10d ago
 
 ---
 
@@ -443,17 +451,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 29,801 • ❤️ 515 • 4d ago
-
----
-
-**[Qwen-Fixed-Chat-Templates](https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates)**
-
-*froggeric*
-
-A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
-
-⬇️ 0 • ❤️ 872 • 10d ago
+⬇️ 29,801 • ❤️ 518 • 4d ago
 
 ---
 
@@ -465,7 +463,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,506,937 • ❤️ 1,951 • 10d ago
+⬇️ 1,506,937 • ❤️ 1,953 • 10d ago
 
 ---
 
@@ -477,19 +475,17 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 `text-generation` `1.1B`
 
-⬇️ 68,714 • ❤️ 210 • 3d ago
+⬇️ 68,714 • ❤️ 212 • 3d ago
 
 ---
 
-**[DeepSeek-V4-Flash-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF)**
+**[MOSS-Transcribe-Diarize](https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize)**
 
-*Unsloth AI*
+*OpenMOSS*
 
-DeepSeek-V4-Flash-GGUF is an optimized LLM supporting a 1M token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in reasoning and coding tasks, making it suitable for advanced agentic workflows and complex problem-solving.
+`audio-text-to-text` `908.5M`
 
-`284.3B`
-
-⬇️ 49,423 • ❤️ 157 • 3d ago
+⬇️ 39,509 • ❤️ 145 • 1d ago
 
 ---
 
@@ -505,7 +501,7 @@ DeepSeek-V4-Flash-GGUF is an optimized LLM supporting a 1M token context length,
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 33 • 💬 1 • ⭐ 958 • 5d ago
+▲ 34 • 💬 1 • ⭐ 958 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
 
@@ -519,7 +515,7 @@ An advanced world modeling system with extended interaction capabilities, real-t
 
 LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
 
-▲ 54 • 💬 1 • ⭐ 720 • 5d ago
+▲ 57 • 💬 1 • ⭐ 720 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
@@ -653,7 +649,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.6k • 🔱 971 • 3d ago
+⭐ 4.6k • 🔱 972 • 3d ago
 
 ---
 
@@ -663,7 +659,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.3k • 🔱 327 • 1d ago
+⭐ 2.3k • 🔱 330 • 2d ago
 
 ---
 
@@ -673,7 +669,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.0k • 🔱 229 • 4d ago
+⭐ 2.1k • 🔱 229 • 4d ago
 
 ---
 
@@ -683,7 +679,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.8k • 🔱 119 • 24m ago
+⭐ 1.9k • 🔱 119 • 44m ago
 
 ---
 
@@ -733,7 +729,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 940 • 🔱 58 • 7d ago
+⭐ 943 • 🔱 58 • 7d ago
 
 ---
 

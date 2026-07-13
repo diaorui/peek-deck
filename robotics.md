@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-13T09:54:11.619456+00:00'
+updated: '2026-07-13T12:32:22.889110+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 13, 2026 at 09:54 UTC  
+**Last Updated:** July 13, 2026 at 12:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtube.com/watch?v=ZyHrKD3SE-M It's an Unitree B2: https://shop.unitree.com/products/unitree-b2
 
-23h ago
+1d ago
 
 ---
 
 **[Teleop study break](https://www.reddit.com/r/robotics/comments/1uujob3/teleop_study_break/)**
 
-17h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
 
-5h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the enti
 
 https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-DOF Raspberry Pi 4B robot arm with a Three.js 3D web interface. Features YOLOv8 object detection, VL53L1X depth sensing, 2-link inverse kinematics, autonomous object pickup, INA219 current-based gripper stall detection, floor collision protection, and a live digital twin for real-time visualization.
 
-18h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-D
 
 I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
 
-8h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -120,43 +120,23 @@ Cowboy State Daily • 1d ago
 
 ---
 
+**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
+
+Tech Xplore • 21h ago
+
+---
+
 **[Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction](https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/)**
 
 Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
 
-CNET • 21h ago
-
----
-
-**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
-
-Tech Xplore • 18h ago
+CNET • 1d ago
 
 ---
 
 **[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
 
 Reuters • 2d ago
-
----
-
-**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
-
-1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
-
-Business Insider • 52m ago
-
----
-
-**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
-
-Autoblog • 18h ago
 
 ---
 
@@ -168,19 +148,39 @@ The Guardian • 2d ago
 
 ---
 
+**[Faraday Future targets 2,000 robot shipments with new ‘Four-Core’ AI strategy](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-z6tek26rvjv9.html)**
+
+Company lifts total canceled warrants since 2025 to nearly 50M and rolls out a Q3 robotics deployment push aimed at 2,000 unit shipments this year.
+
+Stock Titan • 13h ago
+
+---
+
+**[New test measures how well humanoid robots handle real-world forces](https://techxplore.com/news/2026-07-humanoid-robots-real-world.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
+
+1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
+
+Business Insider • 3h ago
+
+---
+
+**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
+
+Autoblog • 21h ago
+
+---
+
 **[St. Pius High School hosts first robotics competition in Albuquerque](https://www.kob.com/new-mexico/albuquerque-metro/st-pius-high-school-hosts-first-robotics-competition-in-albuquerque/)**
 
 St. Pius High School held their first ever robotics competition Saturday in Albuquerque
 
 KOB.com • 1d ago
-
----
-
-**[Bixby honors middle school robotics team after top-five world finish](https://www.newson6.com/news-videos/bixby-honors-middle-school-robotics-team-after-top-five-world-finish)**
-
-The middle school robotics team was recognized with a city proclamation honoring its international achievement.
-
-News On 6 • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 48K • 👍 779 • 💬 304 • ⏱️ 1:54 • 2d ago
+👁️ 48K • 👍 783 • 💬 305 • ⏱️ 1:54 • 3d ago
 
 ---
 
@@ -204,27 +204,17 @@ Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech Yo
 
 📺 PRO ROBOTS
 
-👁️ 26K • 👍 773 • 💬 57 • ⏱️ 29:49 • 3d ago
+👁️ 26K • 👍 776 • 💬 57 • ⏱️ 29:49 • 3d ago
 
 ---
 
-**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
+**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
 
-How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
+Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
 
-📺 Suhel Experiment
+📺 Unitree Robotics
 
-👁️ 19K • 💬 21 • ⏱️ 1:30 • 19h ago
-
----
-
-**[China&#39;s New Ultra-Bionic Humanoid Robots Look TOO Real. Are UBTECH&#39;s U1 AI Robots Just Hype?](https://www.youtube.com/watch?v=B0M362CjaRg)**
-
-Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic androids under its newly established UWorld ...
-
-📺 Kalil 4.0
-
-👁️ 18K • 👍 408 • 💬 63 • ⏱️ 10:42 • 6d ago
+👁️ 179K • 👍 930 • 💬 155 • ⏱️ 1:10 • 4d ago
 
 ---
 
@@ -232,7 +222,17 @@ Shenzhen-based UBTECH Robotics just launched its U1 line of ultra-realistic andr
 
 📺 Varun Mayya
 
-👁️ 137K • 👍 5K • 💬 78 • ⏱️ 1:03 • 1d ago
+👁️ 140K • 👍 5K • 💬 80 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
+
+Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
+
+📺 Discovery Australia
+
+👁️ 11K • 👍 240 • 💬 6 • ⏱️ 8:20 • 16h ago
 
 ---
 
@@ -252,17 +252,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 39K • 👍 2K • 💬 110 • ⏱️ 2:38 • 2d ago
-
----
-
-**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
-
-Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
-
-📺 Fox Business Clips
-
-👁️ 17K • 👍 260 • 💬 123 • ⏱️ 8:37 • 3d ago
+👁️ 39K • 👍 2K • 💬 112 • ⏱️ 2:38 • 2d ago
 
 ---
 
@@ -272,7 +262,17 @@ Sharing an example of a pneumatic gripper that belongs in our robotics projects 
 
 📺 David Malawey
 
-👁️ 6K • 👍 354 • 💬 20 • ⏱️ 1:00 • 12h ago
+👁️ 7K • 👍 393 • 💬 20 • ⏱️ 1:00 • 15h ago
+
+---
+
+**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
+
+How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
+
+📺 Suhel Experiment
+
+👁️ 21K • 💬 22 • ⏱️ 1:30 • 22h ago
 
 ---
 
@@ -282,7 +282,7 @@ War Robots Special Game-Mode Gameplay: 1 Shot 1 Kill My War Robots Creator Link:
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 356 • 💬 56 • ⏱️ 13:11 • 22h ago
+👁️ 6K • 👍 363 • 💬 57 • ⏱️ 13:11 • 1d ago
 
 ---
 

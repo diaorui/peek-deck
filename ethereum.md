@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-13T09:54:11.616252+00:00'
+updated: '2026-07-13T12:32:22.885593+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 09:54 UTC  
+**Last Updated:** July 13, 2026 at 12:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** +0.8%  
-**30d:** +3.4%  
-**90d:** -24.3%  
-**1y:** -40.7%  
+**24h:** -1.6%  
+**7d:** +0.4%  
+**30d:** +3.0%  
+**90d:** -24.6%  
+**1y:** -41.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.37B
+**Market Cap:** $214.43B
 Rank #2
 
 **Circulating Supply:** 120,683,011 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-64.1%
 
 **All-Time Low:** $0.43
-+412051.6%
++410250.2%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, Devcon 8 speaker applications open
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-1/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-1/) • 3d ago
 
 ---
 
@@ -120,7 +120,7 @@ When I arrived in a new nation, I had no local currency yet and had my card bann
 
 Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
-3d ago
+4d ago
 
 ---
 
@@ -158,11 +158,35 @@ CoinDesk • 1d ago
 
 ---
 
+**[Robinhood Chain’s Gas Subsidy Is Closing the Gap With Base: Future of Ethereum On Horizon?](https://finance.yahoo.com/markets/crypto/articles/robinhood-chain-gas-subsidy-closing-113604073.html)**
+
+Ethereum News: Robinhood Chain processed 7.6 million daily transactions on July 10, just 11 days after its July 1 mainnet launch, closing sharply on Coinbase’s Base, which recorded 9.2 million over the same period. The gap is narrowing faster than the Ethereum Layer 2 competitive landscape expected, and the mechanism ...
+
+Yahoo Finance • 56m ago
+
+---
+
+**[Current price of Ethereum for July 13, 2026](https://fortune.com/article/price-of-ethereum-07-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC faces $64K hurdle, ETH signals caution, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-faces-64k-hurdle-eth-signals-caution-xrp-defends-key-support-202607130411)**
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure at the start of the week on Monday, after BTC and ETH recovered slightly, while XRP corrected by over 6% in the previous week.
 
-FXStreet • 5h ago
+FXStreet • 8h ago
+
+---
+
+**[iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?](https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/)**
+
+One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
+
+The Motley Fool • 16h ago
 
 ---
 
@@ -171,14 +195,6 @@ FXStreet • 5h ago
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
 Decrypt • 1d ago
-
----
-
-**[iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?](https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/)**
-
-One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
-
-The Motley Fool • 13h ago
 
 ---
 
@@ -194,7 +210,7 @@ The Block • 2d ago
 
 Ethereum at $1798.95 draws Fundstrat $10,000 call as Tom Lee flags undervaluation versus gold and real estate tokenization flows.
 
-blockchain.news • 22h ago
+blockchain.news • 1d ago
 
 ---
 
@@ -202,7 +218,7 @@ blockchain.news • 22h ago
 
 Robinhood launches its Layer-2 solution, boosting Ethereum optimism. Bitcoin above $56K by July 13, 2026 at 99.9% YES.
 
-Crypto Briefing • 10h ago
+Crypto Briefing • 12h ago
 
 ---
 
@@ -210,21 +226,7 @@ Crypto Briefing • 10h ago
 
 Leading cryptocurrencies moved sideways, while stock futures slid on Sunday evening amid investor concerns over escalating U.S.-Iran tensions.
 
-Benzinga • 7h ago
-
----
-
-**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
-
-thestreet.com • 1d ago
-
----
-
-**[BlackRock scooped up almost $350 million of these cryptocurrencies in a week](https://finbold.com/blackrock-scooped-up-almost-350-million-of-these-cryptocurrencies-in-a-week/)**
-
-BlackRock accumulated almost $350 million worth of Bitcoin and Ethereum through its U.S. spot ETFs during the trading week ending July 10.
-
-Finbold • 23h ago
+Benzinga • 10h ago
 
 ---
 
@@ -238,7 +240,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 393 • 💬 154 • ⏱️ 15:11 • 8h ago
+👁️ 6K • 👍 468 • 💬 329 • ⏱️ 15:11 • 10h ago
 
 ---
 
@@ -248,7 +250,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 502 • 💬 320 • ⏱️ 13:44 • 13h ago
+👁️ 7K • 👍 522 • 💬 362 • ⏱️ 13:44 • 15h ago
 
 ---
 
@@ -258,7 +260,27 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 638 • 💬 559 • ⏱️ 24:07 • 1d ago
+👁️ 9K • 👍 640 • 💬 560 • ⏱️ 24:07 • 1d ago
+
+---
+
+**[Ethereum&#39;s Biggest Prediction Yet? Tom Lee&#39;s Bold Crypto Call | Top Crypto Headlines](https://www.youtube.com/watch?v=DJHBHOEO52Y)**
+
+Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus. In today's Crypto Minutes, we cover institutional ...
+
+📺 NDTV Profit
+
+👁️ 267 • 👍 9 • 💬 1 • ⏱️ 3:43 • 5h ago
+
+---
+
+**[Eli Ben-Sasson says the biggest risk to Ethereum is that “something more modern, better.”](https://www.youtube.com/watch?v=TbsXQrfmkFU)**
+
+DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe to CoinDesk on YouTube: ...
+
+📺 CoinDesk
+
+👁️ 188 • 👍 1 • ⏱️ 0:36 • 25m ago
 
 ---
 
@@ -272,23 +294,13 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 ---
 
-**[Ethereum&#39;s Biggest Prediction Yet? Tom Lee&#39;s Bold Crypto Call | Top Crypto Headlines](https://www.youtube.com/watch?v=DJHBHOEO52Y)**
-
-Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus. In today's Crypto Minutes, we cover institutional ...
-
-📺 NDTV Profit
-
-👁️ 187 • 👍 8 • 💬 1 • ⏱️ 3:43 • 2h ago
-
----
-
 **[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=SVbJXrUvw40)**
 
 In this video I break down the latest Ethereum price analysis using an Elliott Wave perspective to determine if the current move ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 147 • 💬 12 • ⏱️ 5:14 • 13h ago
+👁️ 3K • 👍 151 • 💬 12 • ⏱️ 5:14 • 15h ago
 
 ---
 
@@ -302,33 +314,23 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 ---
 
-**[RLUSD Just Passed Ethereum On The XRP Ledger |](https://www.youtube.com/watch?v=xVnVGgKru5A)**
+**[Why Ethereum insiders Are Quietly Cloning Cardano Tech](https://www.youtube.com/watch?v=A_K-lpibNyo)**
 
-Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━━━━━━━━━━━━━━━ CRYPTO & INVESTING ...
+Is the Ethereum inner circle quietly copying Cardano? In this video, we break down why Ethereum insiders are allegedly cloning ...
 
-📺 Kamilah Stevenson
+📺 Cheeky Crypto Unfiltered
 
-👁️ 5K • 👍 295 • 💬 41 • ⏱️ 0:39 • 14h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EdVoKXkF-nQ)**
-
-BITCOIN & CRYPTO: The REAL Move Starts Soon!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 296 • 💬 217 • ⏱️ 20:15 • 16h ago
+👁️ 2K • 👍 163 • 💬 35 • ⏱️ 16:06 • 1d ago
 
 ---
 
 **[HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows](https://www.youtube.com/watch?v=mTjKDEh-A3U)**
 
-HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows Support The O Show with Ref Links: ...
+HUGE Bitcoin and Ethereum REVERSAL - $282 Million Inflows After 8 WEEKS of Outflows Hi babes, Bitcoin and Ethereum spot ...
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 209 • 💬 20 • ⏱️ 9:31 • 1d ago
+👁️ 3K • 👍 210 • 💬 20 • ⏱️ 9:31 • 1d ago
 
 ---
 
