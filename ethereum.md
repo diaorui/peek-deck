@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-13T17:55:19.280466+00:00'
+updated: '2026-07-13T19:23:59.360981+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 17:55 UTC  
+**Last Updated:** July 13, 2026 at 19:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,770.11
+### $1,755.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** -0.7%  
-**30d:** +1.8%  
-**90d:** -25.5%  
-**1y:** -41.6%  
+**24h:** -3.1%  
+**7d:** -0.3%  
+**30d:** +2.3%  
+**90d:** -25.1%  
+**1y:** -41.4%  
 
 ---
 
@@ -150,6 +150,38 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
+**[Eric Trump Notices Ethereum 'Pumping Hard,' But Top Analyst Says They'd Only Go Long After ETH Clears This Level](https://finance.yahoo.com/markets/crypto/articles/eric-trump-notices-ethereum-pumping-044209601.html)**
+
+American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump cheered Ethereum’s (CRYPTO: ETH) brief spike above $1,800 on Saturday, even as the token soon retraced. ‘Crypto Is The Future’ Trump shared a candlestick chart of the ETH/BTC pair showing a 1.32% gain to 0.02837, saying, “ETH is pumping hard! Great to see! Crypto is the future…” Notably, some users were quick to point out how ETH retreated immediately following Trump’s post. Every single time LMAO https://t.co/mMneBzehbX pic.twitter.com/
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Tom Lee says users 'starting to see Ethereum as money' as Bitmine adds 27,801 ETH](https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth)**
+
+Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.
+
+The Block • 5h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
+
+PR Newswire • 6h ago
+
+---
+
+**[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand)**
+
+According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
+
+Decrypt • 4h ago
+
+---
+
 **[ETH news: Ethereum Foundation says AI found bug that could take validators offline](https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it)**
 
 The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.
@@ -158,43 +190,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Eric Trump Notices Ethereum 'Pumping Hard,' But Top Analyst Says They'd Only Go Long After ETH Clears This Level](https://finance.yahoo.com/markets/crypto/articles/eric-trump-notices-ethereum-pumping-044209601.html)**
+**[Current price of Ethereum for July 13, 2026](https://fortune.com/article/price-of-ethereum-07-13-2026/)**
 
-American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump cheered Ethereum’s (CRYPTO: ETH) brief spike above $1,800 on Saturday, even as the token soon retraced. ‘Crypto Is The Future’ Trump shared a candlestick chart of the ETH/BTC pair showing a 1.32% gain to 0.02837, saying, “ETH is pumping hard! Great to see! Crypto is the future…” Notably, some users were quick to point out how ETH retreated immediately following Trump’s post. Every single time LMAO https://t.co/mMneBzehbX pic.twitter.com/
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 13h ago
-
----
-
-**[Tom Lee says users 'starting to see Ethereum as money' as Bitmine adds 27,801 ETH](https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth)**
-
-Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.
-
-The Block • 4h ago
-
----
-
-**[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand)**
-
-According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
-
-Decrypt • 2h ago
-
----
-
-**[Bitmine Purchases More Ethereum As Price Languishes](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-more-ethereum-price-135900603.html)**
-
-Bitmine Immersion Technologies (NYSE: $BMNR) purchased another 27,801 Ethereum (CRYPTO: $ETH) over the past week.&n...
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin And Ethereum: May Was Not That Simple](https://seekingalpha.com/article/4921485-bitcoin-ethereum-may-was-not-that-simple)**
-
-BTC and ETH weakened in May, but options showed where risk was still being paid for, and futures showed where that pressure found support, softened, or stayed uneven. Read more here.
-
-Seeking Alpha • 4h ago
+Fortune • 9h ago
 
 ---
 
@@ -202,15 +202,15 @@ Seeking Alpha • 4h ago
 
 The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
 
-FXStreet • 5h ago
+FXStreet • 6h ago
 
 ---
 
-**[Current price of Ethereum for July 13, 2026](https://fortune.com/article/price-of-ethereum-07-13-2026/)**
+**[Bitcoin And Ethereum: May Was Not That Simple](https://seekingalpha.com/article/4921485-bitcoin-ethereum-may-was-not-that-simple)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+BTC and ETH weakened in May, but options showed where risk was still being paid for, and futures showed where that pressure found support, softened, or stayed uneven. Read more here.
 
-Fortune • 7h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -218,13 +218,15 @@ Fortune • 7h ago
 
 One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
-**[Ripple's stablecoin is fading away on popular chain, XRP crashes](https://www.thestreet.com/crypto/markets/rlusd-flips-ethereum-xrp-ledger-xrp-price)**
+**[What price will Ethereum hit in July Odds & Prediction Market Analysis](https://cryptoslate.com/predictions/market/what-price-will-ethereum-hit-in-july-2026/)**
 
-thestreet.com • 1d ago
+Track What price will Ethereum hit in July prediction market analysis with live Polymarket odds, probabilities, volume, liquidity, and market-moving catalysts.
+
+CryptoSlate • 1h ago
 
 ---
 
@@ -238,7 +240,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 551 • 💬 237 • ⏱️ 15:11 • 16h ago
+👁️ 8K • 👍 551 • 💬 237 • ⏱️ 15:11 • 17h ago
 
 ---
 
@@ -248,7 +250,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 544 • 💬 431 • ⏱️ 13:44 • 21h ago
+👁️ 7K • 👍 544 • 💬 431 • ⏱️ 13:44 • 22h ago
 
 ---
 
@@ -268,7 +270,7 @@ Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus
 
 📺 NDTV Profit
 
-👁️ 503 • 👍 15 • 💬 1 • ⏱️ 3:43 • 10h ago
+👁️ 503 • 👍 15 • 💬 1 • ⏱️ 3:43 • 12h ago
 
 ---
 
@@ -288,7 +290,7 @@ DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe 
 
 📺 CoinDesk
 
-👁️ 661 • 👍 4 • ⏱️ 0:36 • 5h ago
+👁️ 661 • 👍 4 • ⏱️ 0:36 • 7h ago
 
 ---
 
@@ -318,7 +320,7 @@ Join My Free Webinar: https://shorturl.at/5vVku ━━━━━━━━━━�
 
 📺 Kamilah Stevenson
 
-👁️ 6K • 👍 353 • 💬 46 • ⏱️ 0:39 • 22h ago
+👁️ 6K • 👍 353 • 💬 46 • ⏱️ 0:39 • 1d ago
 
 ---
 

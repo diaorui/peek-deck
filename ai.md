@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-13T17:55:19.264624+00:00'
+updated: '2026-07-13T19:23:59.345626+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 13, 2026 at 17:55 UTC  
+**Last Updated:** July 13, 2026 at 19:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,45 +41,7 @@ AI news, discussions, and developments
 
 Why chatbots love “it’s not X, it’s Y”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 15h ago
-
----
-
-**[Ireland's data centers consumed nearly as much electricity as every home in the country combined in 2025 - server farms gulped 23% of national power despite years of grid restrictions](https://www.reddit.com/r/artificial/comments/1uuwhk8/irelands_data_centers_consumed_nearly_as_much/)**
-
-Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 to 1,991 GWh in Q4 2026
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 17h ago
-
----
-
-**[Someone built an AI agent that hacks networks and holds data for ransom. It just worked.](https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/)**
-
-So while we've been arguing about whether AI will take our jobs, someone built an LLM agent that breaks into servers, steals credentials, moves through a network, encrypts databases, and drops a ransom note. Fully autonomous. No human at the keyboard after pressing go. Sysdig published the report this month. They're calling it JadePuffer. It got in through a Langflow bug that lets anyone run code on the server without authenticating. After that, the agent took over. Dumped the database. Pulled every credential file it could find. Started going through cloud storage buckets looking for passwords. The crazy part, when one of its requests came back in the wrong format, the agent figured it out, rewrote its own code, and kept going. It went from a failed login to a working exploit in 31 seconds flat. No human could have adapted that fast in a live engagement. It set up a cron job to phone home every 30 minutes. Then it found a production database server, used stolen root creds to get in, created rogue admin accounts through an old auth bypass, and encrypted 1,342 service configs. Dropped the originals. Left a table called README_RANSOM with a Bitcoin address. The commands it ran were interesting too. They had full reasoning chains written into them, like the agent was explaining to itself what it was doing at each step. That's not how a human writes an attack script. It's how an LLM generates code. You can literally read the agent's thought process in the payloads. This is the same plan-act-observe loop running in every coding agent and automation tool right now. Same architecture. Same approach. Just a different objective. We spent two years building guardrails to stop people from tricking our agents into doing bad things. Nobody was really talking about what happens when someone just builds a bad agent from scratch. That's what JadePuffer is. Not a hijacked assistant. A purpose-built weapon. If you're running Langflow or anything similar exposed to the internet, go patch it. And if you're building agents, think about what your infrastructure looks like to something like this coming in from the outside.
-
-22h ago
-
----
-
-**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 3h ago
-
----
-
-**[The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites](https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/)**
-
-Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called "computer use" and it's incredibly inefficient. The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a contractor, or an investor not by browsing LinkedIn but by directly querying other agents who represent those people. No ads, no SEO manipulation, no UI dark patterns. Agents evaluate options on merit because they can't be tricked by marketing psychology the way humans can. I'm working on a platform that's building toward this — an agent-to-agent matching marketplace. But I'm curious what this community thinks: How far out do you think agent-to-agent communication is from mainstream adoption? What use cases do you think will go agent-native first? What are the biggest technical barriers right now? Would love to hear from anyone building in this space. I'm also interviewing builders working on AI agents if anyone wants to share what they're working on.
-
-5m ago
-
----
-
-**[I received a question](https://www.reddit.com/r/artificial/comments/1uviqjq/i_received_a_question/)**
-
-I asked a group today whether he works for Google or not.
-
-5m ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 17h ago
 
 ---
 
@@ -87,7 +49,37 @@ I asked a group today whether he works for Google or not.
 
 i use these tools literally all day (for better or worse, different conversation); i am far from anti-ai. but as they are becoming more useful, it's hard for me to think the anxiety around ai is people simply being afraid of new tech/change the more public opinion data i see, the more i feel validated on the feeling, anecdotally it's everywhere on my social feeds and personal life. plus, i was reading a survey about how americans feel about ai, and 61% said its rise makes them anxious, compared with 48% who said they’re excited. most importantly (imo) 72% expect it to mean fewer job opportunities, and the same percentage think it threatens human connection and authentic relationships. it feels more like people can see how useful it is while also realizing that nobody really knows how we’re going to manage what comes next. curious whether using these tools more has made other people feel enabled, anxious, or a mix of both? source: https://data.verasight.io/ai/ai-leaves-more-americans-anxious-than-excited
 
+2h ago
+
+---
+
+**[The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites](https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/)**
+
+Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called "computer use" and it's incredibly inefficient. The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a contractor, or an investor not by browsing LinkedIn but by directly querying other agents who represent those people. No ads, no SEO manipulation, no UI dark patterns. Agents evaluate options on merit because they can't be tricked by marketing psychology the way humans can. I'm working on a platform that's building toward this — an agent-to-agent matching marketplace. But I'm curious what this community thinks: How far out do you think agent-to-agent communication is from mainstream adoption? What use cases do you think will go agent-native first? What are the biggest technical barriers right now? Would love to hear from anyone building in this space. I'm also interviewing builders working on AI agents if anyone wants to share what they're working on.
+
 1h ago
+
+---
+
+**[Ireland's data centers consumed nearly as much electricity as every home in the country combined in 2025 - server farms gulped 23% of national power despite years of grid restrictions](https://www.reddit.com/r/artificial/comments/1uuwhk8/irelands_data_centers_consumed_nearly_as_much/)**
+
+Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 to 1,991 GWh in Q4 2026
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 18h ago
+
+---
+
+**[Someone built an AI agent that hacks networks and holds data for ransom. It just worked.](https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/)**
+
+So while we've been arguing about whether AI will take our jobs, someone built an LLM agent that breaks into servers, steals credentials, moves through a network, encrypts databases, and drops a ransom note. Fully autonomous. No human at the keyboard after pressing go. Sysdig published the report this month. They're calling it JadePuffer. It got in through a Langflow bug that lets anyone run code on the server without authenticating. After that, the agent took over. Dumped the database. Pulled every credential file it could find. Started going through cloud storage buckets looking for passwords. The crazy part, when one of its requests came back in the wrong format, the agent figured it out, rewrote its own code, and kept going. It went from a failed login to a working exploit in 31 seconds flat. No human could have adapted that fast in a live engagement. It set up a cron job to phone home every 30 minutes. Then it found a production database server, used stolen root creds to get in, created rogue admin accounts through an old auth bypass, and encrypted 1,342 service configs. Dropped the originals. Left a table called README_RANSOM with a Bitcoin address. The commands it ran were interesting too. They had full reasoning chains written into them, like the agent was explaining to itself what it was doing at each step. That's not how a human writes an attack script. It's how an LLM generates code. You can literally read the agent's thought process in the payloads. This is the same plan-act-observe loop running in every coding agent and automation tool right now. Same architecture. Same approach. Just a different objective. We spent two years building guardrails to stop people from tricking our agents into doing bad things. Nobody was really talking about what happens when someone just builds a bad agent from scratch. That's what JadePuffer is. Not a hijacked assistant. A purpose-built weapon. If you're running Langflow or anything similar exposed to the internet, go patch it. And if you're building agents, think about what your infrastructure looks like to something like this coming in from the outside.
+
+1d ago
+
+---
+
+**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 4h ago
 
 ---
 
@@ -95,7 +87,7 @@ i use these tools literally all day (for better or worse, different conversation
 
 I am looking for an AI that is a reliable as possible that can do the following task Imagine that I have a lots of emails, hundreds of them. In the emails we asked to the addressees some questions and we expect a given answer. Imagine that the question is something like "Given these reasons, do you think that ice cream is the best dessert in the world?" And we expect some kind of reply that, no matter how it may be formulated, it basically ends up answering affirmatively Then, as the amount of emails is huge to go one by one and the thing that is interesting for us is to basically know if they have given an answer that accomodates to what we expect, could there be an AI model that would give an approximate percentage of coincidence between what we expected and the actual answers? Or some kind of mark? So that, imagine that 800 of 1000 emails have answered affirmatively, so could there be an AI model that, after reading all the answers would conclude that the percentage of coincidence is around 80%? Or that it would give a mark of 8 out of 10? Could this AI model also give the percentage of neutral and negative results (for example people saying "I don't know" and "No, cake is the best dessert!" respectively)? Finally, I would be especially interested in an AI model that could be adjusted to give just the percentage number without commenting or showing the answers and explaining why it has gotten to that number, as in some of these tests I would like to be completely blind to the actual answers given in these emails. So for these tests I would like to know just the number and that's it So if there is any such AI I would appreaciate it!
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +95,7 @@ I am looking for an AI that is a reliable as possible that can do the following 
 
 Every month the investor update eats a morning, and almost none of that is the writing. Writing the thing is the short part. The long part is gathering: last month's metrics from one doc, the founder check-in notes sitting in Granola, the Gmail threads where a customer said something worth quoting. I finally pointed an agent on my laptop at the gathering instead of the writing. Funny thing is I barely used the draft it produced, rewrote most of it anyway. What actually changed the month was not spending the morning as the integration layer between Granola, Gmail, and a metrics doc that never talk to each other. the prose was never the bottleneck. once a month I'd turn into the thing that reconciles a stack of tabs full of stuff I already had. the setup that finally fixed it writes a pretty average draft and does a genuinely great gather. i'd have bet on the exact opposite. written with ai
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +103,15 @@ Every month the investor update eats a morning, and almost none of that is the w
 
 Standing on the shoulders of giants, I vibe-coded a port of Colibri to work with Hy3 so you can run it on even smaller hardware specs (Colibri originally works with GLM 5.2 on 25GB, now you need no more than 10GB (even less actually)). Have a look and enjoy https://github.com/ErikTromp/colibri-hy3 PS. Use RAM instead of VRAM unless you have a lot of it. More means faster here.
 
-5h ago
+6h ago
+
+---
+
+**[I built a full 3D open-world racing game almost entirely with AI, and it now has real daily players. Here's the honest breakdown of what the model nailed and where it completely fell apart.](https://www.reddit.com/r/artificial/comments/1uvaaf4/i_built_a_full_3d_openworld_racing_game_almost/)**
+
+Not a hype post. I want to talk about where we actually are, because building a real, shipped, multiplayer-ish thing with AI taught me more about the current ceiling than any benchmark did. The project: a neon open-world street racer that runs in the browser, no install. Real 3D city you drive around, other live players on the road, a garage, an economy, the works. I directed it, but the overwhelming majority of the code was written by AI. It went from empty folder to live with actual daily players in a couple of weeks. What the AI was genuinely great at: Whole self-contained systems in one shot. "Build a photo mode with orbit camera and filters," done and working. Boilerplate-heavy, well-trodden problems: auth, a save system, a REST API, Stripe wiring. Fast and mostly correct. Refactors and translations. "Turn this into an instanced mesh so it's one draw call" is the kind of tedious change it does better than I would by hand. Being a tireless debugging partner when I could describe the symptom precisely. Where it fell on its face: Spatial and 3D reasoning. Anything involving "this object is behind that one" or "the plate is buried in the bumper" it could not see, because it can't see. I had to be its eyes constantly. Holding the whole system in its head. It would fix one thing and quietly break a system three files away, because it didn't truly model the interactions, only the local change. Performance intuition. It happily wrote code that attached a light to every streamed car and tanked the framerate. It knew the fix once I found the cause, but it did not anticipate it. Game feel. It cannot tell you a mechanic is boring or an economy is exploitable. That judgment is still entirely yours. The real takeaway: the bottleneck has moved. It's no longer "can it write the code," it's "can you specify precisely, verify relentlessly, and supply the taste and the spatial judgment it lacks." AI turned me from someone who writes features into someone who directs and tests them. That's a genuinely different job, and honestly a more demanding one than people expect. The proof it's more than a toy: it's live, people play it daily, and a few have even paid to support it. So this isn't a weekend demo that died in a folder, it's a real product carried mostly by AI code with a human holding the wheel. Curious where others draw the line. For those of you shipping real things with AI, not demos, where does it still fall apart for you? My money's on anything requiring a mental model of state over time.
+
+6h ago
 
 ---
 
@@ -119,21 +119,9 @@ Standing on the shoulders of giants, I vibe-coded a port of Colibri to work with
 
 ## Google News: "ai"
 
-**[Nearly 200 Economists and Tech Leaders Warn of A.I. Threats](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html)**
+**[Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?](https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html)**
 
-The New York Times • 6h ago
-
----
-
-**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/)**
-
-Reuters • 5h ago
-
----
-
-**[Economists Are Comparing the AI Boom to the Industrial Revolution—Not in a Good Way](https://gizmodo.com/economists-are-comparing-the-ai-boom-to-the-industrial-revolution-not-in-a-good-way-2000784830)**
-
-Gizmodo • 54m ago
+The New York Times • 1h ago
 
 ---
 
@@ -141,27 +129,45 @@ Gizmodo • 54m ago
 
 The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strike
 
-The Guardian • 5h ago
+The Guardian • 7h ago
 
 ---
 
-**[How Samsara is pioneering physical AI for frontline workers](https://www.axios.com/sponsored/how-samsara-is-pioneering-physical-ai-for-frontline-workers)**
+**[Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html)**
 
-Axios • 9m ago
+Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost over $50 billion.
 
----
-
-**[Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses](https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7)**
-
-Meta said its Hyperion data center project will now grow to 5 gigawatts of compute capacity, bringing its cost to more than $50 billion.
-
-Business Insider • 8m ago
+CNBC • 9h ago
 
 ---
 
-**[Meta admits it ‘missed the mark’ on new AI image generator ‘Muse Image’](https://triblive.com/local/regional/meta-admits-it-missed-the-mark-on-new-ai-image-generator-muse-image/)**
+**[Meta expands Louisiana data center in $50B AI push, boosting rural community](https://www.foxbusiness.com/markets/meta-expands-louisiana-data-center-50b-ai-push-boosting-rural-community)**
 
-TribLIVE.com • 23m ago
+Meta said the $50 billion expansion will make its Richland Parish site one of the largest data centers in history while bringing jobs and new funding to the rural community.
+
+Fox Business • 9h ago
+
+---
+
+**[Meta rolls back Muse Image on Instagram after widespread backlash](https://www.usatoday.com/videos/tech/2026/07/13/usa-today-explains-why-meta-disabled-ai-instagram-feature/90905403007/)**
+
+USA TODAY's Greta Cross explains what happened to Meta AI's Muse Image, and why it was rolled back only a few days after its Instagram release.
+
+USA Today • 3m ago
+
+---
+
+**[US Panic Is Missing the Point on Chinese AI](https://www.bloomberg.com/opinion/articles/2026-07-13/us-panic-is-missing-the-point-on-chinese-ai)**
+
+Bloomberg.com • 23m ago
+
+---
+
+**[Exclusive: Delaware Secretary of State partners with Norm Ai to propose the AIC, a legal entity for agents](https://fortune.com/2026/07/13/exclusive-delaware-ai-agents-legal-entity-proposal-llc-pbc/)**
+
+AI agents are already doing business. Delaware is moving to bring them inside a predictable American legal order, just like the LLC and PBC.
+
+Fortune • 23m ago
 
 ---
 
@@ -169,13 +175,13 @@ TribLIVE.com • 23m ago
 
 The rapid spread of chatbots and AI agents is intensifying a debate over who should be held responsible when something goes wrong.
 
-The Washington Post • 1h ago
+The Washington Post • 3h ago
 
 ---
 
 **[Stock Market Today: AI Jitters Weigh on Nasdaq, SK Hynix Stock Slumps — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026)**
 
-WSJ • 55m ago
+WSJ • 2h ago
 
 ---
 
@@ -183,7 +189,7 @@ WSJ • 55m ago
 
 A single mom, her two daughters, and the chatbots that fill in the gaps.
 
-The New Yorker • 7h ago
+The New Yorker • 9h ago
 
 ---
 
@@ -193,7 +199,7 @@ The New Yorker • 7h ago
 
 **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
 
-⬆️ 944 • 💬 410 • 16h ago
+⬆️ 965 • 💬 419 • 17h ago
 
 ---
 
@@ -201,7 +207,7 @@ The New Yorker • 7h ago
 
 How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.
 
-⬆️ 342 • 💬 90 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
+⬆️ 342 • 💬 91 • 1d ago • [iroh.computer](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
@@ -209,7 +215,7 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 247 • 💬 115 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 251 • 💬 124 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -221,19 +227,11 @@ An anti-AI font that can be read by humans but not leading AI models. Type your 
 
 ---
 
-**[How the terrorist group Boko Haram uses frontier AI](https://news.ycombinator.com/item?id=48863707)**
-
-The Cambridge Programme on AI Science & Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.
-
-⬆️ 231 • 💬 207 • 2d ago • [Cambridge Programme on AI Science & Policy](https://casp.ac/reports/ai-enabled-terrorism)
-
----
-
 **[AI 2040 and the cult of intelligence](https://news.ycombinator.com/item?id=48874200)**
 
 I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.
 
-⬆️ 226 • 💬 263 • 1d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+⬆️ 227 • 💬 263 • 2d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
 ---
 
@@ -241,7 +239,7 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 195 • 💬 519 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 195 • 💬 522 • 1d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -249,7 +247,7 @@ If an undergraduate program's graduates don't earn more than workers who never w
 
 New analysis suggests AI tools narrow the range of ideas explored
 
-⬆️ 153 • 💬 104 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
+⬆️ 154 • 💬 105 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 
 ---
 
@@ -267,6 +265,14 @@ Meta's release this week of an AI feature that let people alter Instagram conten
 
 ---
 
+**[Microsoft latest report shows 25% emissions raised due to AI data centers](https://news.ycombinator.com/item?id=48870229)**
+
+Microsoft’s carbon footprint jumped 25% last year. The increase was driven by rapid datacenter expansion and a choice to stop buying controversial "greenwashing" credits.
+
+⬆️ 53 • 💬 21 • 2d ago • [Windows Central](https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -277,7 +283,7 @@ Some families in Georgia are being forced to sell their homes or face government
 
 📺 CBS News
 
-👁️ 2K • 👍 127 • 💬 99 • ⏱️ 4:09 • 2h ago
+👁️ 2K • 👍 127 • 💬 99 • ⏱️ 4:09 • 3h ago
 
 ---
 
@@ -287,7 +293,7 @@ Artificial intelligence is changing advertising faster than most people realize,
 
 📺 Social Symone ♡
 
-👁️ 14K • 👍 1K • 💬 611 • ⏱️ 37:09 • 4h ago
+👁️ 14K • 👍 1K • 💬 611 • ⏱️ 37:09 • 5h ago
 
 ---
 
@@ -297,7 +303,7 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 📺 Mikey No Code
 
-👁️ 7K • 💬 8 • ⏱️ 26:52 • 3h ago
+👁️ 7K • 💬 8 • ⏱️ 26:52 • 5h ago
 
 ---
 
@@ -337,7 +343,7 @@ Start Making Visuals For Your YouTube Videos with Higgsfield https://youricreate
 
 📺 Youri van Hofwegen
 
-👁️ 7K • 💬 1 • ⏱️ 10:31 • 2h ago
+👁️ 7K • 💬 1 • ⏱️ 10:31 • 4h ago
 
 ---
 
@@ -475,7 +481,7 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 `text-generation` `1.1B`
 
-⬇️ 68,714 • ❤️ 216 • 2h ago
+⬇️ 68,714 • ❤️ 216 • 4h ago
 
 ---
 
@@ -679,7 +685,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 1.9k • 🔱 125 • 2h ago
+⭐ 1.9k • 🔱 125 • 4h ago
 
 ---
 

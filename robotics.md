@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-13T17:55:19.283774+00:00'
+updated: '2026-07-13T19:23:59.364351+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 13, 2026 at 17:55 UTC  
+**Last Updated:** July 13, 2026 at 19:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
 
-13h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-D
 
 I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
 
-16h ago
+18h ago
 
 ---
 
@@ -116,7 +116,15 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
 
-Cowboy State Daily • 1d ago
+Cowboy State Daily • 2d ago
+
+---
+
+**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
+
+Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
+
+Anthropic • 4d ago
 
 ---
 
@@ -134,25 +142,41 @@ CNET • 1d ago
 
 ---
 
-**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
-
-The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
-
-Inquirer.com • 5h ago
-
----
-
 **[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
 
 1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
 
-Business Insider • 8h ago
+Business Insider • 10h ago
 
 ---
 
-**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
+**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
 
-Reuters • 2d ago
+Autoblog • 1d ago
+
+---
+
+**[Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win](https://euromaidanpress.com/2026/07/12/ukraine-is-first-country-to-fund-combat-humanoid-robots-but-its-own-battlefield-says-wheels-still-win/)**
+
+Ukraine's Brave1 defense cluster opened a grant for domestic bipedal humanoid combat robots under a separate category.
+
+Euromaidan Press • 12h ago
+
+---
+
+**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
+
+The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
+
+Inquirer.com • 6h ago
+
+---
+
+**[Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New Details on Upgrading Its Robotics Strategy to the "Four-Core Full-Stack AI" and Q3 Robotics Practical Deployment Campaign](https://finance.yahoo.com/technology/ai/articles/faraday-future-founder-global-ceo-232100898.html)**
+
+LOS ANGELES, July 12, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) ("Faraday Future", "FF" or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global CEO of FF.
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -161,28 +185,6 @@ Reuters • 2d ago
 Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
 
 New Atlas • 3d ago
-
----
-
-**[The race to develop robotic hands, memories of legendary gigs and the sea as medicine for the brain](https://www.theguardian.com/news/2026/jul/11/the-race-to-develop-robotic-hands-memories-of-legendary-gigs-and-the-sea-as-medicine-for-the-brain)**
-
-Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days
-
-The Guardian • 2d ago
-
----
-
-**[Faraday Future targets 2,000 robot shipments with new ‘Four-Core’ AI strategy](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-z6tek26rvjv9.html)**
-
-Company lifts total canceled warrants since 2025 to nearly 50M and rolls out a Q3 robotics deployment push aimed at 2,000 unit shipments this year.
-
-Stock Titan • 18h ago
-
----
-
-**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
-
-Autoblog • 1d ago
 
 ---
 
@@ -216,7 +218,7 @@ Booster Robotics' flagship humanoid robot is growing up. The three-year-old Chin
 
 📺 Kalil 4.0
 
-👁️ 551 • 👍 31 • 💬 2 • ⏱️ 1:07 • 2h ago
+👁️ 551 • 👍 31 • 💬 2 • ⏱️ 1:07 • 3h ago
 
 ---
 
@@ -246,7 +248,7 @@ Sharing an example of a pneumatic gripper that belongs in our robotics projects 
 
 📺 David Malawey
 
-👁️ 9K • 👍 481 • 💬 26 • ⏱️ 1:00 • 20h ago
+👁️ 9K • 👍 481 • 💬 26 • ⏱️ 1:00 • 22h ago
 
 ---
 
@@ -274,7 +276,7 @@ Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryA
 
 📺 Discovery Australia
 
-👁️ 14K • 👍 281 • 💬 6 • ⏱️ 8:20 • 21h ago
+👁️ 14K • 👍 281 • 💬 6 • ⏱️ 8:20 • 23h ago
 
 ---
 
