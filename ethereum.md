@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T16:45:20.202294+00:00'
+updated: '2026-07-14T18:03:43.837203+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 16:45 UTC  
+**Last Updated:** July 14, 2026 at 18:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.9%  
-**7d:** +7.5%  
-**30d:** +4.4%  
-**90d:** -20.2%  
-**1y:** -40.3%  
+**24h:** +5.4%  
+**7d:** +7.3%  
+**30d:** +4.2%  
+**90d:** -20.3%  
+**1y:** -40.4%  
 
 ---
 
@@ -154,23 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
-
-Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
-
-The Block • 18h ago
-
----
-
-**[Devcon 8 Tickets Are Live: Find Your Path to Mumbai](https://blog.ethereum.org/2026/07/14/devcon8-tickets)**
-
-General Admission tickets are now available, alongside discounted pathways for students, Indian residents, Ethereum contributors, open-source builders, and more.
-
-ethereum.org • 5m ago
+CoinDesk • 3h ago
 
 ---
 
@@ -198,9 +182,17 @@ PR Newswire • 1d ago
 
 ---
 
+**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
+
+Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
+
+The Block • 19h ago
+
+---
+
 **[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
 
-MarketWatch • 2h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -208,7 +200,7 @@ MarketWatch • 2h ago
 
 Bitmine (BMNR) Chairman Tom Lee said&nbsp;on Tuesday&nbsp;that institutional-grade privacy is a prerequisite for large-scale asset migration to Ethereum (ETH), as the new engineering and research company EthSystems was launched.
 
-Stocktwits • 2h ago
+Stocktwits • 2d ago
 
 ---
 
@@ -216,7 +208,7 @@ Stocktwits • 2h ago
 
 A pivot into decentralized finance (DeFi) could be the catalyst to send the price of Solana soaring.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -224,7 +216,13 @@ The Motley Fool • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 8h ago
+
+---
+
+**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
+
+CCN.com • 8h ago
 
 ---
 
@@ -238,7 +236,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 741 • 👍 55 • 💬 16 • ⏱️ 5:20 • 4h ago
+👁️ 741 • 👍 55 • 💬 16 • ⏱️ 5:20 • 6h ago
 
 ---
 
@@ -248,7 +246,7 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 227 • 💬 20 • ⏱️ 14:47 • 10h ago
+👁️ 3K • 👍 227 • 💬 20 • ⏱️ 14:47 • 11h ago
 
 ---
 
@@ -258,7 +256,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 1K • 👍 216 • 💬 86 • ⏱️ 17:15 • 1h ago
+👁️ 1K • 👍 216 • 💬 86 • ⏱️ 17:15 • 3h ago
 
 ---
 
@@ -278,7 +276,7 @@ Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 ti
 
 📺 Lark Davis
 
-👁️ 2K • 👍 105 • 💬 26 • ⏱️ 1:10 • 12h ago
+👁️ 2K • 👍 105 • 💬 26 • ⏱️ 1:10 • 14h ago
 
 ---
 
@@ -288,7 +286,7 @@ Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 2K • 👍 94 • 💬 52 • ⏱️ 18:44 • 21h ago
+👁️ 2K • 👍 94 • 💬 52 • ⏱️ 18:44 • 23h ago
 
 ---
 
@@ -296,7 +294,7 @@ Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord ht
 
 📺 World War Bitcoin
 
-👁️ 390 • 👍 20 • 💬 4 • ⏱️ 2:34 • 2h ago
+👁️ 390 • 👍 20 • 💬 4 • ⏱️ 2:34 • 3h ago
 
 ---
 
@@ -306,7 +304,7 @@ Ethereum just got another major shake-up. On June 22, 2026, a group of former Et
 
 📺 Tim Ho
 
-👁️ 495 • 👍 22 • 💬 24 • ⏱️ 7:03 • 22h ago
+👁️ 495 • 👍 22 • 💬 24 • ⏱️ 7:03 • 23h ago
 
 ---
 
@@ -326,7 +324,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 127 • 💬 28 • ⏱️ 18:37 • 2d ago
+👁️ 5K • 👍 127 • 💬 28 • ⏱️ 18:37 • 3d ago
 
 ---
 

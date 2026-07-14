@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T16:45:20.205211+00:00'
+updated: '2026-07-14T18:03:43.840013+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 16:45 UTC  
+**Last Updated:** July 14, 2026 at 18:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I've been working on ML/Robotics research for a while and often work with HDF5, 
 
 This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use robstride actuators, series 00 and edulite 05
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering
 
 Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here's what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware - Electronics BOM under $100 sourcing parts yourself - Full wiring diagrams, assembly guide, and source code included The V1 is already fully operational and tested. I just launched a Kickstarter pre-launch page to fund the V2 (better rigidity, internal cable routing, improved gripper). Happy to answer any questions about the design choices, print settings, or the electronics. AMA! https://www.kickstarter.com/projects/pancoarmmk01/panco-arm-mk-01
 
-3d ago
+4d ago
 
 ---
 
@@ -120,57 +120,17 @@ Anthropic • 5d ago
 
 ---
 
-**[Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom](https://nysfocus.com/2026/07/14/new-york-humanoid-robot-teacher-salamanca-school-district)**
-
-Plans to deploy a "lifelike" robot and avatar teaching assistant at Salamanca High School have sparked debate over the role of technology in schools.
-
-New York Focus • 7h ago
-
----
-
-**[Fibrous Muscles For Humanoid Robotics](https://hackaday.com/2026/07/14/fibrous-muscles-for-humanoid-robotics/)**
-
-At the current rate of robotics development, you might assume that we’re close to Skynet taking over. However, while we  likely wouldn’t do well in a physical fight against a robot, we …
-
-Hackaday • 1h ago
-
----
-
-**[Startup Upset After Journalist Points Out How Creepy Its Humanoid Robots’s Hands Are](https://futurism.com/robots-and-machines/robot-startup-upset-journalist-creepy-hands)**
-
-A vice president of robotics startup 1X was not happy with some coverage of the company's decidedly sensual humanoid robot.
-
-Futurism • 55m ago
-
----
-
-**[Watch: New video-action world model boosts robot intelligence](https://interestingengineering.com/ai-robotics/watch-worlds-first-embodied-native-ai-model-promises-smarter-more-capable-robots)**
-
-New embodied AI world model predicts action outcomes in real time, improving robot reasoning, control, and adaptation in physical tasks.
-
-Interesting Engineering • 20h ago
-
----
-
-**[Robotics CEO fumes after Wired portrays $20K home robot as ‘sexualized’](https://nypost.com/2026/07/13/media/robotics-ceo-fumes-after-wired-portrays-20k-home-robot-as-sexualized/)**
-
-Dar Sleeper, vice president of product and design at 1X, blasted Wired magazine over the weekend.
-
-New York Post • 23h ago
-
----
-
-**[Robots learn household tasks inside realistic virtual environments](https://interestingengineering.com/ai-robotics/mit-robots-gain-real-world-skills-through-lifelike-3d-virtual-environments)**
-
-MIT's SceneSmith creates realistic 3D worlds where robots safely train, reducing costs and speeding AI-powered robot development.
-
-Interesting Engineering • 1h ago
-
----
-
 **[A manifesto for Sustainability Robotics](https://www.nature.com/articles/s42256-026-01260-6)**
 
 Nature • 1d ago
+
+---
+
+**[Better Elon Musk Buy: SpaceX’s Ascent or Tesla’s Robotics Revolution?](https://finance.yahoo.com/technology/articles/better-elon-musk-buy-spacex-123352756.html)**
+
+SpaceX is tantalizing early investors with an $800 analyst price target while Tesla quietly pivots toward a robotics revolution that could reshape daily life faster than any orbital data center. Picking the right Elon Musk bet right now might come down to one critical question about timing.
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -180,11 +140,47 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Better Elon Musk Buy: SpaceX’s Ascent or Tesla’s Robotics Revolution?](https://finance.yahoo.com/technology/articles/better-elon-musk-buy-spacex-123352756.html)**
+**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
 
-SpaceX is tantalizing early investors with an $800 analyst price target while Tesla quietly pivots toward a robotics revolution that could reshape daily life faster than any orbital data center. Picking the right Elon Musk bet right now might come down to one critical question about timing.
+1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
 
-Yahoo Finance • 4h ago
+Business Insider • 1d ago
+
+---
+
+**[The Future of Warfare Is Autonomous](https://thedispatch.com/article/autonomous-weapons-future-warfare-china/)**
+
+Can the U.S. military change its culture to keep up?
+
+The Dispatch • 9h ago
+
+---
+
+**[Humanoid Robots Just Performed Surgery Using Standard Medical Tools](https://gizmodo.com/humanoid-robots-just-performed-surgery-using-standard-medical-tools-2000785159)**
+
+Gizmodo • 3h ago
+
+---
+
+**[Amazon preps robotics-equipped sorting warehouse in Texas](https://www.supplychaindive.com/news/amazon-preps-robotics-equipped-sorting-warehouse-in-texas/824978/)**
+
+The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.
+
+Supply Chain Dive • 1d ago
+
+---
+
+**[5 Best Robotics ETFs to Buy in 2026 - U.S. News](https://money.usnews.com/investing/articles/best-robotics-etfs-to-buy)**
+
+U.S. News - Money • 22h ago
+
+---
+
+**[Apple looks to expand its robotics team ahead of potential product launch (AAPL:NASDAQ)](https://seekingalpha.com/news/4613697-apple-looks-to-expand-its-robotics-team-ahead-of-potential-product-launch)**
+
+Apple (AAPL) is hiring for high-impact robotics roles in Cupertino as CEO John Ternus takes over.
+
+Seeking Alpha • 34m ago
 
 ---
 
@@ -198,7 +194,7 @@ Titanic's Jack and Rose became talking robot faces from a single image. A team f
 
 📺 Kalil 4.0
 
-👁️ 172 • 👍 5 • 💬 1 • ⏱️ 0:46 • 33m ago
+👁️ 172 • 👍 5 • 💬 1 • ⏱️ 0:46 • 1h ago
 
 ---
 
@@ -246,7 +242,7 @@ In this video, we completely disassemble the Unitree G1 humanoid robot, taking a
 
 📺 Smarttoy Ruko
 
-👁️ 5K • 👍 41 • ⏱️ 0:19 • 5h ago
+👁️ 5K • 👍 41 • ⏱️ 0:19 • 7h ago
 
 ---
 

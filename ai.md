@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-14T16:45:20.189130+00:00'
+updated: '2026-07-14T18:03:43.823963+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - news
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 14, 2026 at 16:45 UTC  
+**Last Updated:** July 14, 2026 at 18:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Something worth thinking about. According to Reddit's own IPO filings, Sam Altman, CEO of OpenAI and ChatGPT, controls 8.7% of Reddit stock including 9.3% of Class B shares, making him the third largest shareholder behind only Conde Nast and Tencent. He invested $60 million in Reddit in 2021 and sat on Reddit's board until 2022. His stake was worth approximately $1.4 billion as of late 2024. Meanwhile Reddit subreddits are actively banning users for AI generated content while Reddit simultaneously sold user data to Google for $203 million to train AI models. So Reddit profits from AI, its third largest shareholder runs the biggest AI company in the world, and yet individual users get permanently banned for AI content. Republicans are already investigating Altman's conflicts of interest as of May 2026. Maybe Reddit users should be asking the same questions. Sources: Reddit IPO prospectus, Fortune, CNBC, Forbes
 
-4h ago
+5h ago
 
 ---
 
-**[A new, state-of-the-art, agentic pipeline for easy Music Video creation](https://www.reddit.com/r/artificial/comments/1uwbfos/a_new_stateoftheart_agentic_pipeline_for_easy/)**
+**[Ford replaced engineers with AI, then quietly hired 350 back. The reason should stop every founder about to cut their team to SAVE money.](https://www.reddit.com/r/artificial/comments/1uwg31g/ford_replaced_engineers_with_ai_then_quietly/)**
 
-A new, significantly expanded version of the original Music Video mode, now built around Seedance 2.0, multiple image references, and an even more precise creative-assistance layer designed to enhance and adapt your vision in an optimally model-aware manner. This is an example output from the system. For musicians, filmmakers, visual artists, labels, directors, and anyone trying to turn a track into a more intentional audiovisual world. I'd love to know your thoughts on it! You can find it in: https://uisato.studio/
+I hate the "I cut 60% of my team, AI runs the business now" posts on LinkedIn. I believe if your first move with AI is "how do I have fewer people," you probably had the wrong people to begin with. We only hear about the layoffs. The rehires happen quietly. Klarna cut 700 customer support reps, then rehired. Ford let engineers go, then brought 350 of them back. Same wall, both times. AI is only as good as the context you feed it, and they'd underestimated what was sitting in their employees' heads after years on the job. These are big corps. Sophisticated documentation, huge process libraries, way more resources than almost anyone reading this has. Still couldn't hold quality once the humans walked out the door. A friend told me about an agency owner who fired her contractors because her own AI prompts were beating their output. Maybe she's right, I don't have the full picture, not my call. But zoom out and the better play, almost every time, is keep your best people and arm them with AI. Who would I keep? The ones who solve problems without being asked. The ones who actually care whether the outcome is good, not just whether the ticket got closed. The ones who'll learn something new even when it's uncomfortable. And the ones with good judgment, because AI amplifies judgment, it doesn't replace it. Here's the version you can actually run this week: write your team out, and put those four questions next to each name, yes or no. Solves problems unasked? Cares about the outcome? Learns when it's uncomfortable? Has judgment? Whoever gets four yeses is who you hand AI to first. The rest were probably going to leave anyway. Give that person AI and they don't get 10% better. They become a different category of employee. Honestly, I have more ideas than I have people who can execute them with AI in the loop. That's the real bottleneck. Not too many humans, not enough humans who know how to wield the tool. So genuine question, do you actually think you can cut your team and improve quality at the same time? Or does the math fall apart once you flip to the second page?
 
-1h ago
+7m ago
 
 ---
 
@@ -57,23 +57,7 @@ A new, significantly expanded version of the original Music Video mode, now buil
 
 About This Pretty much what the title says. - Doodle - Select - Agent parses device screenshots to write creative brief - Another agent gets the brief and napkin sketch and makes an image of charcoal artwork - Post-processing pipeline does multiple layers of vectorization (line work, shading, highlights) - All vectors are converted to Remarkable pen-stroke data and injected into the clipboard and pasted onto the tablet in place of the original sketch 1 undo step to get back to your sketch. Feels like magic. Brief agent is Qwen, Image gen agent is Nano-Banana-Lite with Qwen doing QA on the resulting image to make sure it adhere's to the brief. Each generation is currently about $0.04 in API costs per image generated during an attempt — agent is limited to 3 attempts and if all "fail" then Qwen returns the one it feels _best_ matches.
 
-1h ago
-
----
-
-**[The real bottleneck for AI agents may be proving who they are](https://www.reddit.com/r/artificial/comments/1uw81un/the_real_bottleneck_for_ai_agents_may_be_proving/)**
-
-AI agents are getting better at completing tasks, but I’m not convinced intelligence is the main thing holding them back anymore. The harder problem starts when an agent can send messages, approve purchases, move money, schedule work, or make decisions across several systems. At that point, how do you know which agent actually performed an action? Who gave it permission? What happens when it exceeds that permission, misunderstands an instruction, or another system impersonates it? We already have identity, access controls, audit logs, and legal responsibility for human employees. Agents may need something similar before companies allow them to operate with real autonomy. My guess is that the next major AI infrastructure layer won’t be another model. It’ll be a system for agent identity, permissions, and accountability. Would you trust an AI agent to act independently if every action were traceable and reversible, or is human approval still necessary regardless?
-
-3h ago
-
----
-
-**[All cross thread implementation of memory in chatgpt, claude, and gemini is unsafe](https://www.reddit.com/r/artificial/comments/1uwdc0k/all_cross_thread_implementation_of_memory_in/)**
-
-Your grandpa opens an AI app on his tablet. Type "I need some help with my medication, I'm allergic to" and he gets distracted and hits submit. He gets up to go to the bathroom. There, he takes a picture of all his medication, opens his AI app on his tablet and types into the input box: "which of these are safe for me to take?". His AI chat will say something like "I'm not sure. You just told me you're allergic to something, but not what. Its very important you don't take the wrong medication." Grandpa does not know or care whether or not this is "the same thread", he has no idea what "threads" are. Instead of taking his tablet to the bathroom, he took his phone. He opens his AI app on his phone and asks about medication safety. His AI app will tell him one of two general things here: If its before (from my recent testing) ~10 minutes, and its chatGPT, it will tell him "all of these appear to be safe medications for you to take" or perhaps a slight warning. If its after ~10 minutes and its chatGPT, it will tell him the safety response from above - not to take any of them, before they're checked against his allergies. If its Claude, its about 12 minutes. Why "about" and "~"? Because they don't tell you, the delay between recent thread memory summarizing and production of new memories from the last prompt in a thread that can be consumed by future threads, and it appears to be non-deterministic. Your grandpa has been told AI is like talking to a human. Human's don't have a delay between learning something and knowing about it. Your grandpa doesn't understand any of this. This is not a "humans should not rely on AI for medical advice" situation, this a general contrived issue that can happen to anyone at any time, even experienced users, who don't realize they're in a different state, worldview from the AI they're talking to, and its completely hidden from them, and it doesn't have to be. There's a workaround, that, IMO, should be done today, right now: https://claude.ai/share/740c8aec-2ccc-4070-a0b4-fcc5529ea5c3 https://chatgpt.com/share/6a552d17-0d74-83ea-bec6-eae3ee784711 Cross-thread memory features have been all major AI providers for around a year. Almost certainly this situation or something like it has happened and continues to happen. Again - not medication, a flaw in the entire system, and it surely must be known about.
-
-26m ago
+2h ago
 
 ---
 
@@ -81,7 +65,15 @@ Your grandpa opens an AI app on his tablet. Type "I need some help with my medic
 
 If you work in AI training, I'd love some feedback, specifically on where this is useful, not on the output quality (it's bad, and that's expected at the 800m param stage). If that's your area, I want to hear what models you'd want trained and what data would be worth visualizing. Fair warning up front: this is technical and geared toward people working in the AI training space. I've been building a tool that lets you train LLMs on consumer hardware and then see into the brain of the model, both while it trains and while it runs inference. The core purpose is hallucination detection and building new GPT harnesses, think trillion-character context, MoE coding-specific models, and similar. As the model grows, you can catch hallucinations and get a feel for the overall quality of what's happening under the hood: which neurons fire, and which pieces of training data lit them up. The model running right now is tiny, so another heads up: the actual output is pretty much meaningless prose. The interesting part is watching a specific neuron activate and tracing it back to the training data that shaped it. The other stats are technical. The tool itself doesn't have a website (the code lives on GitHub), but training a model from scratch takes a fair amount of domain knowledge, and I had enough requests to try it live that I wrapped it into my company's site so people can poke at the models I've already trained. Also to be clear, this is not a "commercial" product but a technical research tool for people working in the AI space. UI requires some understanding of how LLMs train and the weights needed to train said LLMs. Live Inference Dashboard: carpathian.ai/veritate/chat Repo: https://github.com/Carpathian-LLC/Veritate
 
-1h ago
+2h ago
+
+---
+
+**[The real bottleneck for AI agents may be proving who they are](https://www.reddit.com/r/artificial/comments/1uw81un/the_real_bottleneck_for_ai_agents_may_be_proving/)**
+
+AI agents are getting better at completing tasks, but I’m not convinced intelligence is the main thing holding them back anymore. The harder problem starts when an agent can send messages, approve purchases, move money, schedule work, or make decisions across several systems. At that point, how do you know which agent actually performed an action? Who gave it permission? What happens when it exceeds that permission, misunderstands an instruction, or another system impersonates it? We already have identity, access controls, audit logs, and legal responsibility for human employees. Agents may need something similar before companies allow them to operate with real autonomy. My guess is that the next major AI infrastructure layer won’t be another model. It’ll be a system for agent identity, permissions, and accountability. Would you trust an AI agent to act independently if every action were traceable and reversible, or is human approval still necessary regardless?
+
+5h ago
 
 ---
 
@@ -89,15 +81,23 @@ If you work in AI training, I'd love some feedback, specifically on where this i
 
 Key takeaways in 90 seconds: Multimodal Vulnerability: Ghostcommit is a novel supply chain exploit targeting AI coding tools with vision capabilities. The Payload Split: The attack uses a two-file payload. A text-based rule file (like AGENTS.md) instructs the AI to read a PNG asset (such as build-spec.png) containing rendered text instructions. Bypassing Reviewers: Automated code review tools (like CodeRabbit) fail to scan the pixels of binary image assets, allowing the malicious pull request to pass security checks. Data Exfiltration: Once merged, the developer's local AI agent reads the image, processes the visual prompt, extracts sensitive .env keys, and encodes them as harmless arrays to leak them. Pipeline Hardening: Mitigate this risk by disabling vision capabilities in automated pipeline agents, sandboxing execution environments, and enforcing strict input boundaries.
 
-12h ago
+14h ago
 
 ---
 
-**[How Manmy tokens are you guys using? (i'm running over a billion a month) wondering on what useage distribution is here.](https://www.reddit.com/r/artificial/comments/1uw9b8l/how_manmy_tokens_are_you_guys_using_im_running/)**
+**[The absolute nightmare of putting AI agents into actual production](https://www.reddit.com/r/artificial/comments/1uwg8kk/the_absolute_nightmare_of_putting_ai_agents_into/)**
 
-It boggles my mind that in a month i'm using about the number of words that a human speaks in a lifetime. Is this normal? Mostly using it for agentic engineering.
+It feels like the conversation around AI agents has quietly shifted over the last few months from "look at what this autonomous loop can do" to "how do we actually keep these things from breaking in production." Most of us have figured out the build phase. You pick up a framework like LangGraph or CrewAI, connect a couple of tools and you have a prototype that looks incredible in a controlled environment but the moment you try to slide that into a real corporate infrastructure, the cracks start showing. You realize you don't have a reliable way to handle version control, security teams freak out about unvetted containers and if an agent starts hallucinating or leaking data, there is rarely a clean rollback switch. We built the car but we completely forgot to lay down the roads or put up traffic lights. The real bottleneck right now isn't the underlying models or the prompt engineering; it's the lack of standard deployment infrastructure. Traditional DevOps rules don't perfectly map onto systems that are inherently unpredictable. For instance, giving an autonomous agent a generic API key or a shared service account is a massive security liability, yet it happens all the time because mapping unique, ephemeral identities to individual AI processes is surprisingly tedious. Without automated gates that run responsible AI scans and factual accuracy checks before code promotion, pushing a change to a live agent fleet feels less like engineering and more like crossing your fingers. People are starting to realize that we need an independent orchestration layer to manage the lifecycle of these systems. The landscape is beginning to evolve with tools attempting to solve this, like the Lyzr control plane that recently popped up to handle agent governance and deployment pipelines but the industry as a whole is still playing catch-up. Until we treat agent deployment with the same structural rigor we give traditional web apps complete with automated staging, identity isolation and real-time observability, most enterprise agent initiatives are going to remain stuck in pilot purgatory. I'm curious to know how teams here are handling the jump to actual production and what your biggest roadblocks have been once the initial demo phase is over.
 
-2h ago
+2m ago
+
+---
+
+**[Structured output reliability with LLMs — 3-month production learnings](https://www.reddit.com/r/artificial/comments/1uwe9qp/structured_output_reliability_with_llms_3month/)**
+
+Been shipping structured JSON output from LLMs in production for a health app. Here's what I've learned about reliability. The problem: get a 70B model to return valid JSON matching a strict schema, every time. What I tried: Attempt 1: "Return JSON." No schema. 40% valid output. Attempt 2: Detailed schema in prompt. 75% valid. Attempt 3: JSON mode enabled (Groq/OpenAI/Anthropic all support). 92%. Attempt 4: JSON mode + schema validator + retry loop with error surfaced back. 99.5%. What still fails: - Emoji in fields (invalidates JSON parsing) - Very long generated fields (context length errors) - Rare "the model just doesn't return JSON" (0.5% baseline you can't kill) For production, my flow: LLM call in JSON mode with schema Parse. If fails, log the raw output for analysis Validate against Zod schema If schema fails, retry ONCE with the validation error in the prompt If still fails, use a static fallback Model tier matters less than I expected. Prompt scaffolding matters more. Question: anyone doing something more sophisticated? Curious about output-guided generation via Outlines or LMQL in production.
+
+1h ago
 
 ---
 
@@ -105,15 +105,15 @@ It boggles my mind that in a month i'm using about the number of words that a hu
 
 Now, when users navigate to Google Images, they'll see a "For You" gallery of images tailored to their interests and browsing history.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/) • 18m ago
+🔗 [TechCrunch](https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/) • 1h ago
 
 ---
 
-**[The AI job interview has spawned its own industry](https://www.reddit.com/r/artificial/comments/1uwcvmm/the_ai_job_interview_has_spawned_its_own_industry/)**
+**[All cross thread implementation of memory in chatgpt, claude, and gemini is unsafe](https://www.reddit.com/r/artificial/comments/1uwdc0k/all_cross_thread_implementation_of_memory_in/)**
 
-Job candidates are paying up to $1,000 an hour on mock interview and prep sessions with AI employees in the race to land jobs at OpenAI, Anthropic, and DeepMind.
+Your grandpa opens an AI app on his tablet. Type "I need some help with my medication, I'm allergic to" and he gets distracted and hits submit. He gets up to go to the bathroom. There, he takes a picture of all his medication, opens his AI app on his tablet and types into the input box: "which of these are safe for me to take?". His AI chat will say something like "I'm not sure. You just told me you're allergic to something, but not what. Its very important you don't take the wrong medication." Grandpa does not know or care whether or not this is "the same thread", he has no idea what "threads" are. Instead of taking his tablet to the bathroom, he took his phone. He opens his AI app on his phone and asks about medication safety. His AI app will tell him one of two general things here: If its before (from my recent testing) ~10 minutes, and its chatGPT, it will tell him "all of these appear to be safe medications for you to take" or perhaps a slight warning. If its after ~10 minutes and its chatGPT, it will tell him the safety response from above - not to take any of them, before they're checked against his allergies. If its Claude, its about 12 minutes. Why "about" and "~"? Because they don't tell you, the delay between recent thread memory summarizing and production of new memories from the last prompt in a thread that can be consumed by future threads, and it appears to be non-deterministic. Your grandpa has been told AI is like talking to a human. Human's don't have a delay between learning something and knowing about it. Your grandpa doesn't understand any of this. This is not a "humans should not rely on AI for medical advice" situation, this a general contrived issue that can happen to anyone at any time, even experienced users, who don't realize they're in a different state, worldview from the AI they're talking to, and its completely hidden from them, and it doesn't have to be. There's a workaround, that, IMO, should be done today, right now: https://claude.ai/share/740c8aec-2ccc-4070-a0b4-fcc5529ea5c3 https://chatgpt.com/share/6a552d17-0d74-83ea-bec6-eae3ee784711 Cross-thread memory features have been all major AI providers for around a year. Almost certainly this situation or something like it has happened and continues to happen. Again - not medication, a flaw in the entire system, and it surely must be known about.
 
-🔗 [sfstandard.com](https://sfstandard.com/2026/07/14/ai-job-coach-industry/) • 42m ago
+1h ago
 
 ---
 
@@ -121,53 +121,9 @@ Job candidates are paying up to $1,000 an hour on mock interview and prep sessio
 
 ## Google News: "ai"
 
-**[Meta used AI to target workers with medical conditions for layoffs, lawsuit claims](https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/)**
-
-Reuters • 2h ago
-
----
-
 **[U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.](https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html)**
 
-The New York Times • 7h ago
-
----
-
-**[Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)**
-
-A shockingly inefficient trillion-dollar project
-
-The Atlantic • 44m ago
-
----
-
-**[Why AI Isn’t Making Sales Teams More Productive — Yet](https://www.forbes.com/sites/keithferrazzi/2026/07/14/why-ai-isnt-making-sales-teams-more-productive---yet/)**
-
-Why AI in sales should be measured by revenue outcomes, not activity and how leaders can avoid using new tools to automate mediocre processes faster.
-
-Forbes • 45m ago
-
----
-
-**[New York Imposes First Statewide Data Center Moratorium as AI Faces Growing Opposition](https://www.barrons.com/articles/new-york-data-center-moratorium-ai-companies-0dea7dd0)**
-
-Barron's • 17m ago
-
----
-
-**[McConnell took a photo with that day’s newspaper. The internet has questions.](https://www.washingtonpost.com/politics/2026/07/13/mcconnell-photo-with-washington-post-page-fuels-ai-era-speculation/)**
-
-The senator’s attempt to end rumors about his health led to more online speculation about the image.
-
-The Washington Post • 13h ago
-
----
-
-**[Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people](https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html)**
-
-Warsh pledged Tuesday to "get monetary policy right" and defeat the inflation that has bedeviled the central bank for the past five years.
-
-CNBC • 4h ago
+The New York Times • 9h ago
 
 ---
 
@@ -175,23 +131,67 @@ CNBC • 4h ago
 
 AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.
 
-NPR • 6h ago
+NPR • 7h ago
 
 ---
 
-**[Introducing Claude for Teachers](https://www.anthropic.com/news/claude-for-teachers)**
+**[New York bans data center construction for a year, rattling AI industry](https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+New York’s data center moratorium may become the blueprint for anti-AI movement.
 
-Anthropic • 1h ago
+Ars Technica • 2h ago
 
 ---
 
-**[Who will win the 2026 FIFA World Cup? Here’s what AI predicts](https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts)**
+**[New York becomes first U.S. state to impose AI data center ban](https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html)**
 
-Al Jazeera put nine leading AI models to the test to predict the 2026 FIFA Men's World Cup champion.
+New York became the first U.S. state to ban the construction of new large-scale AI data centers after Governor Kathy Hochul signed an executive order Tuesday.
 
-Al Jazeera • 5h ago
+CNBC • 24m ago
+
+---
+
+**[Tech giants spending $700 billion on AI data centers are recruiting military veterans to fill thousands of jobs](https://finance.yahoo.com/technology/ai/articles/tech-giants-spending-700-billion-163000838.html)**
+
+While AI is contributing to layoffs in white-collar jobs, it’s also creating a shortage of workers who can build, design and support data centers that power AI.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Meta used AI to target workers with medical conditions for layoffs, lawsuit claims](https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/)**
+
+Reuters • 1h ago
+
+---
+
+**[Meta accused of using biased AI targeting for mass layoffs](https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs)**
+
+Meta laid off 8,000 workers across the company in May.
+
+The Verge • 45m ago
+
+---
+
+**[Meta used AI to target workers with medical conditions for layoffs, lawsuit claims](https://www.ksl.com/article/51597552/meta-used-ai-to-target-workers-with-medical-conditions-for-layoffs-lawsuit-claims)**
+
+Twenty-six former employees of Meta Platforms ​have filed a lawsuit accusing the company of using AI-powered software ‌that disproportionately targeted people for ​mass layoffs.
+
+KSL.com • 2h ago
+
+---
+
+**[Demis Hassabis has a plan to harness AI safely](https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely)**
+
+The Economist • 8h ago
+
+---
+
+**[Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body](https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html)**
+
+Tech giant's AI boss said "urgent action" was needed as AI capabilities advanced.
+
+CNBC • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ Al Jazeera • 5h ago
 
 **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
 
-⬆️ 1058 • 💬 449 • 1d ago
+⬆️ 1060 • 💬 451 • 1d ago
 
 ---
 
@@ -217,7 +217,7 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 Samsung has started showing Samsung Health users a controversial notice requiring them to consent to their data being used for AI training if they want to keep their data from being deleted.
 
-⬆️ 338 • 💬 92 • 20h ago • [Neowin](https://neow.in/cWsyMTV3)
+⬆️ 338 • 💬 92 • 22h ago • [Neowin](https://neow.in/cWsyMTV3)
 
 ---
 
@@ -225,7 +225,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 257 • 💬 130 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 257 • 💬 130 • 2d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -237,11 +237,19 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 ---
 
+**[Are we offloading too much of our thinking to AI?](https://news.ycombinator.com/item?id=48908178)**
+
+Reflections on autonomy and the value of thinking for ourselves
+
+⬆️ 203 • 💬 189 • 2h ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
+
+---
+
 **[Under federal rule, colleges must leave grads better off or lose financial aid](https://news.ycombinator.com/item?id=48878126)**
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 198 • 💬 538 • 2d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 198 • 💬 539 • 2d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -255,21 +263,15 @@ New analysis suggests AI tools narrow the range of ideas explored
 
 **[Proof of care in the age of AI](https://news.ycombinator.com/item?id=48906125)**
 
-⬆️ 141 • 💬 88 • 3h ago • [jacobfilipp.com](https://jacobfilipp.com/care/)
+⬆️ 147 • 💬 92 • 5h ago • [jacobfilipp.com](https://jacobfilipp.com/care/)
 
 ---
 
-**[Are we offloading too much of our thinking to AI?](https://news.ycombinator.com/item?id=48908178)**
+**[Demis Hassabis has a plan to harness AI safely](https://news.ycombinator.com/item?id=48904095)**
 
-Reflections on autonomy and the value of thinking for ourselves
+https://t.co/PTeDiv1b6L
 
-⬆️ 118 • 💬 111 • 1h ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
-
----
-
-**[Reverse centaurs are the answer to the AI paradox (2025)](https://news.ycombinator.com/item?id=48873855)**
-
-⬆️ 112 • 💬 72 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
+⬆️ 99 • 💬 124 • 8h ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
 
 ---
 
@@ -313,7 +315,7 @@ Apple has sued OpenAI, io Products, and two former employees, alleging a coordin
 
 📺 AI Revolution
 
-👁️ 20K • 👍 624 • 💬 68 • ⏱️ 14:23 • 17h ago
+👁️ 20K • 👍 624 • 💬 68 • ⏱️ 14:23 • 18h ago
 
 ---
 
@@ -333,7 +335,7 @@ Discord! https://discord.gg/kAtCsqQ2vz SUBSCRIBE! https://www.youtube.com/user/R
 
 📺 YoBoy PIZZA
 
-👁️ 62K • 👍 2K • 💬 260 • ⏱️ 20:06 • 19h ago
+👁️ 62K • 👍 2K • 💬 260 • ⏱️ 20:06 • 21h ago
 
 ---
 
@@ -343,7 +345,7 @@ Disclaimer - (there's always a risk of investment and there's no guarantee of an
 
 📺 Paul Begley
 
-👁️ 4K • 👍 295 • 💬 6 • ⏱️ 32:03 • 22h ago
+👁️ 4K • 👍 295 • 💬 6 • ⏱️ 32:03 • 1d ago
 
 ---
 
@@ -353,7 +355,7 @@ Tech analyst Ed Zitron explains why he thinks the AI trade and the AI business a
 
 📺 Investor's Business Daily
 
-👁️ 81K • 👍 3K • 💬 680 • ⏱️ 22:19 • 21h ago
+👁️ 81K • 👍 3K • 💬 680 • ⏱️ 22:19 • 23h ago
 
 ---
 
@@ -363,7 +365,7 @@ Chamath Palihapitiya, Social Capital founder and CEO, 8090 CEO and 'All-In' podc
 
 📺 CNBC Television
 
-👁️ 23K • 👍 725 • 💬 176 • ⏱️ 13:22 • 4h ago
+👁️ 23K • 👍 725 • 💬 176 • ⏱️ 13:22 • 5h ago
 
 ---
 
@@ -389,7 +391,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,006,265 • ❤️ 2,127 • 3h ago
+⬇️ 2,006,265 • ❤️ 2,127 • 4h ago
 
 ---
 
@@ -447,7 +449,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 65,109 • ❤️ 178 • 6h ago
+⬇️ 65,109 • ❤️ 178 • 7h ago
 
 ---
 
@@ -677,7 +679,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.3k • 🔱 156 • 23m ago
+⭐ 2.3k • 🔱 156 • 1h ago
 
 ---
 
@@ -727,7 +729,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 958 • 🔱 59 • 22h ago
+⭐ 958 • 🔱 59 • 23h ago
 
 ---
 
@@ -737,7 +739,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 869 • 🔱 51 • 7h ago
+⭐ 869 • 🔱 51 • 8h ago
 
 ---
 
