@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T15:23:46.640447+00:00'
+updated: '2026-07-14T16:45:20.202294+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 15:23 UTC  
+**Last Updated:** July 14, 2026 at 16:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.1%  
-**7d:** +7.8%  
-**30d:** +4.7%  
-**90d:** -19.9%  
-**1y:** -40.1%  
+**24h:** +6.9%  
+**7d:** +7.5%  
+**30d:** +4.4%  
+**90d:** -20.2%  
+**1y:** -40.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.22B
+**Market Cap:** $226.05B
 Rank #2
 
 **Circulating Supply:** 120,682,986 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.1%
 
 **All-Time Low:** $0.43
-+432830.9%
++432505.3%
 
 ---
 
@@ -126,7 +126,7 @@ Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
 **[Ethereum has just crossed another major milestone.](https://www.reddit.com/r/ethereum/comments/1uqwiwi/ethereum_has_just_crossed_another_major_milestone/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -142,13 +142,37 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Abstract The smart-contract ecosystem already depends heavily on code reuse, but that reuse has not yet become shared on-chain infrastructure. Similar logic is repeatedly redeployed across projects, creating duplicated infrastructure that increases long-term maintenance, audit, and security burdens for the ecosystem. Compose introduces Smart Contract Oriented Programming, or SCOP, to bring reuse into the deployed architecture itself. Using diamonds and stateless facets, Compose enables modular on-chain systems that are easier to build and trust across their lifecycle.
 
-🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 5d ago
+🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 6d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
+
+**[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
+
+The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
+
+Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
+
+The Block • 18h ago
+
+---
+
+**[Devcon 8 Tickets Are Live: Find Your Path to Mumbai](https://blog.ethereum.org/2026/07/14/devcon8-tickets)**
+
+General Admission tickets are now available, alongside discounted pathways for students, Indian residents, Ethereum contributors, open-source builders, and more.
+
+ethereum.org • 5m ago
+
+---
 
 **[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
 
@@ -174,49 +198,25 @@ PR Newswire • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
+**[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
 
-Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
-
-The Block • 17h ago
+MarketWatch • 2h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, July 14, 2026:](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html)**
+**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://stocktwits.com/news-articles/markets/cryptocurrency/tom-lee-ethereum-privacy-chain-new-startup/cZZbClvR7qE)**
 
-Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday's opening price. The price of bitcoin firmed this morning to $62,865.44. Ethereum opened at $1,774.10, down 1.8% from yesterday's open. The price of ethereum adjusted to $1,785.68 by 8:21 a.m. ET.
+Bitmine (BMNR) Chairman Tom Lee said&nbsp;on Tuesday&nbsp;that institutional-grade privacy is a prerequisite for large-scale asset migration to Ethereum (ETH), as the new engineering and research company EthSystems was launched.
 
-Yahoo Finance • 2h ago
+Stocktwits • 2h ago
 
 ---
 
-**[Prediction: This Cryptocurrency Could Overtake Bitcoin and Ethereum Combined in Total Value](https://finance.yahoo.com/markets/crypto/articles/prediction-cryptocurrency-could-overtake-bitcoin-132000769.html)**
+**[Prediction: This Cryptocurrency Could Overtake Bitcoin and Ethereum Combined in Total Value](https://www.fool.com/investing/2026/07/14/this-cryptocurrency-could-overtake-bitcoin/)**
 
 A pivot into decentralized finance (DeFi) could be the catalyst to send the price of Solana soaring.
 
-Yahoo Finance • 2h ago
-
----
-
-**[U.S. Government Moves Seized Bitcoin And Ethereum To Coinbase Exchange](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-seized-bitcoin-133700637.html)**
-
-The U.S. government has moved $288 million U.S. of seized Bitcoin (CRYPTO: $BTC) and Ethereum (CRYPTO: $ETH) from d...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
-
-MarketWatch • 1h ago
-
----
-
-**[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
-
-The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
-
-CoinDesk • 51m ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -224,7 +224,7 @@ CoinDesk • 51m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -232,13 +232,13 @@ Fortune • 5h ago
 
 ## YouTube Videos: "ethereum"
 
-**[⚠️ Ethereum&#39;s Shocking Underperformance](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
+**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
 
 Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 314 • 👍 29 • 💬 10 • ⏱️ 5:20 • 3h ago
+👁️ 741 • 👍 55 • 💬 16 • ⏱️ 5:20 • 4h ago
 
 ---
 
@@ -248,7 +248,17 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 2K • 👍 186 • 💬 15 • ⏱️ 14:47 • 8h ago
+👁️ 3K • 👍 227 • 💬 20 • ⏱️ 14:47 • 10h ago
+
+---
+
+**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
+
+📺 Crypto Capital Venture
+
+👁️ 1K • 👍 216 • 💬 86 • ⏱️ 17:15 • 1h ago
 
 ---
 
@@ -258,17 +268,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 582 • 💬 385 • ⏱️ 13:44 • 1d ago
-
----
-
-**[Ethereum&#39;s 2019 Crypto Bull Market Signal Is BACK! (It&#39;s EVEN BIGGER This Time)](https://www.youtube.com/watch?v=scGsezikvwU)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 587 • 💬 249 • ⏱️ 15:11 • 1d ago
+👁️ 9K • 👍 588 • 💬 385 • ⏱️ 13:44 • 1d ago
 
 ---
 
@@ -278,17 +278,25 @@ Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 ti
 
 📺 Lark Davis
 
-👁️ 2K • 👍 82 • 💬 15 • ⏱️ 1:10 • 11h ago
+👁️ 2K • 👍 105 • 💬 26 • ⏱️ 1:10 • 12h ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NRgw2CAnbyc)**
+**[It&#39;s happening again! BTC &amp; ETH Analysis](https://www.youtube.com/watch?v=xFBh6AVzevo)**
 
-BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord https://discord.com/invite/cobratrades Bitunix- ...
 
-📺 Crypto World
+📺 Crypto Cobra
 
-👁️ 7K • 👍 314 • 💬 185 • ⏱️ 19:28 • 21h ago
+👁️ 2K • 👍 94 • 💬 52 • ⏱️ 18:44 • 21h ago
+
+---
+
+**[Ethereum Is Easily the Most Important Crypto to Be Following](https://www.youtube.com/watch?v=3DbRa8B122Y)**
+
+📺 World War Bitcoin
+
+👁️ 390 • 👍 20 • 💬 4 • ⏱️ 2:34 • 2h ago
 
 ---
 
@@ -298,17 +306,17 @@ Ethereum just got another major shake-up. On June 22, 2026, a group of former Et
 
 📺 Tim Ho
 
-👁️ 436 • 👍 19 • 💬 24 • ⏱️ 7:03 • 21h ago
+👁️ 495 • 👍 22 • 💬 24 • ⏱️ 7:03 • 22h ago
 
 ---
 
-**[Joseph Chalom: Ethereum Will Eat Finance (Great Entry)](https://www.youtube.com/watch?v=0LPp4GQuujo)**
+**[Ethereum&#39;s 2019 Crypto Bull Market Signal Is BACK! (It&#39;s EVEN BIGGER This Time)](https://www.youtube.com/watch?v=scGsezikvwU)**
 
-Joseph Chalom makes the case that Ethereum has the license to win and is finally going on offense to prove it, backed by ETH ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
 
-📺 The Rollup
+📺 Crypto Capital Venture
 
-👁️ 16K • 👍 527 • 💬 91 • ⏱️ 29:05 • 2d ago
+👁️ 10K • 👍 589 • 💬 250 • ⏱️ 15:11 • 1d ago
 
 ---
 
@@ -319,16 +327,6 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 📺 Savvy Finance
 
 👁️ 5K • 👍 127 • 💬 28 • ⏱️ 18:37 • 2d ago
-
----
-
-**[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 9K • 👍 671 • 💬 535 • ⏱️ 24:07 • 3d ago
 
 ---
 
