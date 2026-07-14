@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T08:05:45.014443+00:00'
+updated: '2026-07-14T10:16:52.141754+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 08:05 UTC  
+**Last Updated:** July 14, 2026 at 10:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,755.50
+### $1,785.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +2.0%  
-**30d:** -0.9%  
-**90d:** -24.2%  
-**1y:** -43.3%  
+**24h:** +0.5%  
+**7d:** +2.6%  
+**30d:** -0.4%  
+**90d:** -23.8%  
+**1y:** -43.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $214.64B
+**Market Cap:** $215.76B
 Rank #2
 
 **Circulating Supply:** 120,682,986 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.0%
+-63.9%
 
 **All-Time Low:** $0.43
-+410691.3%
++412839.2%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I arrived in a new nation, I had no local currency yet and had my card banned for the third time this trip, but I needed transportation. While I waited for my bag, I used ETH on my phone to purchase an Uber gift card using aceb. Before I reached the exit, I applied it to the app, so by the time I arrived outside, a ride was reserved. I've started holding a modest amount of ETH for just such circumstances. When a bank card fails at the wrong time, gift cards cover everything you need, including hotels, taxis and food delivery.
 
-4d ago
+5d ago
 
 ---
 
@@ -150,63 +150,81 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
-**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDV5SDU5OXlhSEhuYlN6bWY2UGVIN25RMG9pZnZGNjByb21MVEd3ZWZHeVVlVmFGNUx4ZndFTzNRRmlxWExoM3I4T0NSQ3JoT0ZYeGdhWGpSRlhaUVFmcTZtdTNLNV8yTGx0NE9kRHg0OVN1Z0wzNGMzRUVacC0xYmlVOFA3dDhwNEZON1JiMGlaUm00dHZkZGI2NXJJb2ZGU2EtU2tHSEtNVlIzakV2a3JSdW1oSWt2eXRF?oc=5)**
+**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
 
-The Block • 9h ago
+Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
 
----
-
-**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd0VjQ0lGVnQ1clo3WXFsdkU4cnhHN2JJWTBwSGl3djFXYkdQYl9Sa1Jnck5GNG1MTEJYV3NnOWRhRDQtcDRZMF92Z1hjM29QYVUyR1VuTDhGN19ITGR3VkNsNlp3UXNDbDRUdTlrd083WEswdDVpNjdvdDlUNVFhdWtZX2thT3RXWllZRTljUmwyWnhRcXJvNVlpLWJMbzdDcVh2OE9vOWVnSjFMT25OdlIzRzhuWldkaVJR?oc=5)**
-
-CoinDesk • 18h ago
+The Block • 12h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morning](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORWNpQnREREhwTlFBMzkzSHJoemtsRGd1Y0F2cDhVWTRJMGpPYy1aTmRqMXlvNXY2aDU2TDVBc2R2X1p1ZV9DN1d2V2hReFhYSFJjN2N1WFAwbTJObmthaVRTdEduOXVaNjVTQmhzNTFtNGMwSm0tTnNBbzBiNmJKdE1ydkJyWVV5aUdUOWdhaEh1Q3Vkb0psbUZrRlA0b3lZTmgyMmNyY1RXblZSamo3Qm9PY1A1eWVTNjY1ZTNiTG4zdlhoVUhFUC1oM1FqUHVFZTQzVU5rejIxbDFpelVSSkFzUkdmZmNrUmJlRmVIN2JVcVc2VkVYdk9pTjAyUGQ2Ym5ZSDNJc0Q?oc=5)**
+**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
 
-Yahoo Finance • 18h ago
+The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
 
----
-
-**[What price will Ethereum hit in July Odds & Prediction Market Analysis](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXBORExNYUtoSUJid2hnTkJXcm5TN0RCUllQbUxfLUhhZW82OUx4NUxEZUVpVXBqeS03Sjlxc0l4TFRUckd2cFhoUGpoM1NFeFZfR3l0NHdPQWp5ajV0UmFXdkppOHp3SWMwb1k1bDNOaHNuRTZWYjVhU2JxZlRNZzJURjRFcUJkR1k3WkpB?oc=5)**
-
-CryptoSlate • 14h ago
+CoinDesk • 20h ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSEF6a2tQNm9qQUR0eFF2V3NWWVhpeUhvd2FsLWY4TDhNc3lURHQtREJoYi1YRDd2YTBlYlI5ZHBkSlJkQWd2SGRKUHFPZVhUX3lzRUpGVVJIZW9KV3pMV0Q0Zll0OHBNejhKaWUtQ1ZqUDczTG0wdVFKX29iVjdwN1BEcVJyVWltTUViMHIzcldPVmFmd2hPZU1vQ0tiZExCa2laa0sycXVLN3ZEVFQ1dllBYkR5QTJxZmU5dVNmVXpobkNaZkU5UFI1aU9fbThjb3ozcGhwdEZSNkktNHpGXzdTR2VUZw?oc=5)**
+**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://finance.yahoo.com/markets/crypto/articles/robinhood-chain-could-ethereums-biggest-090715941.html)**
 
-FXStreet • 19h ago
+Robinhood Chain is an Ethereum Layer-2 designed for tokenized real-world assets, starting with tokenized US stocks. The network generated roughly $843,000 in user fees while ...
 
----
-
-**[Bitcoin And Ethereum: June Was Not A Clean Recovery](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzhhNnRfeFhBcmoxdzMwUXZ1N1B6cnVxbEZZZlRWX0o2c0VfQlU3WW15VmVKRFFKOU5EeXVzanFuWk5vUjBpaE51Z01XbXhsdndnTlNCWWJWSWljczdFZXZndDYtRTBqZ1lRTjZsTXJzdWg4MFNiWkQtZDNQdnBqQzBRMDZjR0RUS2JOYXF2VHk?oc=5)**
-
-Seeking Alpha • 12h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum co-founder Lubin advocates low L1 fees to boost adoption](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWlFN0dqaWg3eV95ellVbDhKdEtWNmZvVnc0Vy1TSEpRSXc2d0V4akZzdmlSX0FFM2JaYzV2dDNBUk9BTk9DUDBCeG1yekF0S0dFb2gtenNMb2oxUEVhQlpEdkI3ZEsyMkdVYVdRTDhrM0pOZkx4WHZtMkhESnJqWnhUbER4ZmtobkczQll4ZGp6QWNxWnBBMQ?oc=5)**
+**[XRP and Ethereum Share a Bearish Signal, But There’s a Catch](https://finance.yahoo.com/markets/crypto/articles/xrp-ethereum-share-bearish-signal-081608546.html)**
 
-Crypto Briefing • 38m ago
+XRP and Ethereum both flash elevated social FOMO, but funding rates reveal traders positioned on opposite sides.
 
----
-
-**[Current price of Ethereum for July 13, 2026](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QempHelNFYXB0NDRGbE16eWFLVkpDUGw2SjhRaW9TaVkxU3RIdHBjVE1wWjhFczFfNnJhZVcwazZCX3JXNzRvQkVqZk11bWR4WW92dlNDaVU0RlNVbzMxcjQ5Z3hrQkdz?oc=5)**
-
-Fortune • 13h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Tom Lee: ETH/BTC Ratio Key to Crypto Revival](https://news.google.com/rss/articles/CBMiekFVX3lxTFByOUoyNG5SOWtEYUM5bll3MFNCTGQ4TDE5dlBBYlRULU9rTlNpczViUlNUUnVfa0w2Wnh2VlBJb25SZjZiVW4tQmw5QWdzb0xpSlhlcHdJaGdNeFFVUXB4cG1oUlhsYzNfSXRCUjFRR1MwNDAtd0IyUUZB?oc=5)**
+**[Current price of Ethereum for July 14, 2026](https://fortune.com/article/price-of-ethereum-07-14-2026/)**
 
-Cryptonews • 21h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 13m ago
 
 ---
 
-**[Ethereum and Zcash Target Higher Levels, But BlockDAG Draws Traders In With Its 100% Bonus and New Utility Launches!](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTluZWU1YnhFaFNzazR5MUFTc2RndTNTQXJoajdBQ0dBSnhyWFVEdUI5NDF4TklSZlNGY3ZsU2NzY1ZsczVvNlZjWHB4Qi10aTJDd1c0NDN3a2lEcGhvZ2JHb0h0eUFoaXY0R3VlNUJOZERaeHpSaklGVjh2RmJ0N3p2ZTZicTI3dnJhSTB4TW5rNktSNnByNC1WZzRVdklfdHJ3UW90ZmpJZUpfNWFKNzVXNXRfVWxYWDdvUnZSUUp5eW9tM2I3OTNob0R5cjRPbFdWTEtB?oc=5)**
+**[Ethereum Is Showing Resilience, but a Key Test at $1,850 Lies Ahead](https://www.investing.com/analysis/ethereum-is-showing-resilience-but-a-key-test-at-1850-lies-ahead-200683880)**
 
-FinanceFeeds • 15h ago
+Investing.com • 1h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-stay-under-pressure-as-us-and-iran-exchange-fresh-attacks-202607131230)**
+
+The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
+
+FXStreet • 21h ago
+
+---
+
+**[Bitcoin And Ethereum: June Was Not A Clean Recovery](https://seekingalpha.com/article/4921666-bitcoin-ethereum-june-was-not-a-clean-recovery)**
+
+BTC kept meeting absorption in June, and ETH came closer to follow-through. Price may give the first impression, but the stack decides whether that impression holds.
+
+Seeking Alpha • 15h ago
+
+---
+
+**[Ethereum co-founder Lubin advocates low L1 fees to boost adoption](https://cryptobriefing.com/ethereum-co-founder-lubin-advocates-low-l1-fees-to-boost-adoption/)**
+
+Lubin advocates for low Ethereum Layer 1 fees to boost adoption. Ethereum reaching $6,500 by December 31, 2026 at 3.0% YES.
+
+Crypto Briefing • 2h ago
+
+---
+
+**[What price will Ethereum hit in July Odds & Prediction Market Analysis](https://cryptoslate.com/predictions/market/what-price-will-ethereum-hit-in-july-2026/)**
+
+Track What price will Ethereum hit in July prediction market analysis with live Polymarket odds, probabilities, volume, liquidity, and market-moving catalysts.
+
+CryptoSlate • 16h ago
 
 ---
 
@@ -214,23 +232,23 @@ FinanceFeeds • 15h ago
 
 ## YouTube Videos: "ethereum"
 
+**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
+
+Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
+
+📺 Coin Bureau Trading
+
+👁️ 826 • 👍 104 • 💬 8 • ⏱️ 14:47 • 3h ago
+
+---
+
 **[ETHEREUM: THE REAL MOST HATED RALLY](https://www.youtube.com/watch?v=-cWisMcB35I)**
 
 The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 579 • 💬 382 • ⏱️ 13:44 • 1d ago
-
----
-
-**[Ethereum&#39;s 2019 Crypto Bull Market Signal Is BACK! (It&#39;s EVEN BIGGER This Time)](https://www.youtube.com/watch?v=scGsezikvwU)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 585 • 💬 249 • ⏱️ 15:11 • 1d ago
+👁️ 8K • 👍 580 • 💬 384 • ⏱️ 13:44 • 1d ago
 
 ---
 
@@ -240,7 +258,7 @@ Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 ti
 
 📺 Lark Davis
 
-👁️ 913 • 👍 47 • 💬 10 • ⏱️ 1:10 • 4h ago
+👁️ 1K • 👍 57 • 💬 11 • ⏱️ 1:10 • 6h ago
 
 ---
 
@@ -250,7 +268,17 @@ Ethereum just got another major shake-up. On June 22, 2026, a group of former Et
 
 📺 Tim Ho
 
-👁️ 311 • 👍 15 • 💬 24 • ⏱️ 7:03 • 13h ago
+👁️ 367 • 👍 17 • 💬 24 • ⏱️ 7:03 • 16h ago
+
+---
+
+**[Ethereum&#39;s 2019 Crypto Bull Market Signal Is BACK! (It&#39;s EVEN BIGGER This Time)](https://www.youtube.com/watch?v=scGsezikvwU)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 584 • 💬 249 • ⏱️ 15:11 • 1d ago
 
 ---
 
@@ -260,7 +288,37 @@ BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 6K • 👍 301 • 💬 184 • ⏱️ 19:28 • 13h ago
+👁️ 7K • 👍 305 • 💬 184 • ⏱️ 19:28 • 15h ago
+
+---
+
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=SVbJXrUvw40)**
+
+In this video I break down the latest Ethereum price analysis using an Elliott Wave perspective to determine if the current move ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 177 • 💬 13 • ⏱️ 5:14 • 1d ago
+
+---
+
+**[Joseph Chalom: Ethereum Will Eat Finance (Great Entry)](https://www.youtube.com/watch?v=0LPp4GQuujo)**
+
+Joseph Chalom makes the case that Ethereum has the license to win and is finally going on offense to prove it, backed by ETH ...
+
+📺 The Rollup
+
+👁️ 15K • 👍 518 • 💬 92 • ⏱️ 29:05 • 1d ago
+
+---
+
+**[It&#39;s happening again! BTC &amp; ETH Analysis](https://www.youtube.com/watch?v=xFBh6AVzevo)**
+
+Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord https://discord.com/invite/cobratrades Bitunix- ...
+
+📺 Crypto Cobra
+
+👁️ 2K • 👍 92 • 💬 52 • ⏱️ 18:44 • 15h ago
 
 ---
 
@@ -271,46 +329,6 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 📺 Savvy Finance
 
 👁️ 5K • 👍 127 • 💬 28 • ⏱️ 18:37 • 2d ago
-
----
-
-**[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 9K • 👍 666 • 💬 535 • ⏱️ 24:07 • 2d ago
-
----
-
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=SVbJXrUvw40)**
-
-In this video I break down the latest Ethereum price analysis using an Elliott Wave perspective to determine if the current move ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 176 • 💬 13 • ⏱️ 5:14 • 1d ago
-
----
-
-**[Ethereum price prediction - ETH can make millionaires](https://www.youtube.com/watch?v=jwviNt99gQQ)**
-
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
-
-📺 Crypto With James
-
-👁️ 3K • 👍 66 • 💬 18 • ⏱️ 10:40 • 2d ago
-
----
-
-**[It&#39;s happening again! BTC &amp; ETH Analysis](https://www.youtube.com/watch?v=xFBh6AVzevo)**
-
-Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord https://discord.com/invite/cobratrades Bitunix- ...
-
-📺 Crypto Cobra
-
-👁️ 2K • 👍 91 • 💬 51 • ⏱️ 18:44 • 13h ago
 
 ---
 

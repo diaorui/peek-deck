@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-14T08:05:44.999999+00:00'
+updated: '2026-07-14T10:16:52.128612+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 14, 2026 at 08:05 UTC  
+**Last Updated:** July 14, 2026 at 10:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Inside Ghostcommit: How Malicious PNGs Bypass AI Code Reviewers](https://www.reddit.com/r/artificial/comments/1uvxqg5/inside_ghostcommit_how_malicious_pngs_bypass_ai/)**
-
-Key takeaways in 90 seconds: Multimodal Vulnerability: Ghostcommit is a novel supply chain exploit targeting AI coding tools with vision capabilities. The Payload Split: The attack uses a two-file payload. A text-based rule file (like AGENTS.md) instructs the AI to read a PNG asset (such as build-spec.png) containing rendered text instructions. Bypassing Reviewers: Automated code review tools (like CodeRabbit) fail to scan the pixels of binary image assets, allowing the malicious pull request to pass security checks. Data Exfiltration: Once merged, the developer's local AI agent reads the image, processes the visual prompt, extracts sensitive .env keys, and encodes them as harmless arrays to leak them. Pipeline Hardening: Mitigate this risk by disabling vision capabilities in automated pipeline agents, sandboxing execution environments, and enforcing strict input boundaries.
-
-4h ago
-
----
-
 **[FOSS NotebookLM connected to Reddit,YT,Google,IG,Tiktok](https://www.reddit.com/r/artificial/comments/1uw1zym/foss_notebooklm_connected_to/)**
 
 NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. No live data, so you can't monitor competitors, search results, or social platforms in real time. No file sorting support NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. No API or MCP access, so you can't plug it into your own agents or automate anything. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is the open source, privacy focused alternative to NotebookLM for teams with no data limits, and now also a competitive intelligence platform for AI agents with live scraping connectors. It currently empowers you to: Live Data Connectors - Scrape Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, and the open web without the official APIs' rate limits. REST API + MCP Server - Expose every connector as a native tool to Claude, Cursor, or any agent framework. AI Agents & Automations - Run research on a schedule or on events, then get cited briefs and alerts written back to Notion, Slack, Linear, and Jira. Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get assistance in your OS. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
 
-19m ago
+2h ago
+
+---
+
+**[Inside Ghostcommit: How Malicious PNGs Bypass AI Code Reviewers](https://www.reddit.com/r/artificial/comments/1uvxqg5/inside_ghostcommit_how_malicious_pngs_bypass_ai/)**
+
+Key takeaways in 90 seconds: Multimodal Vulnerability: Ghostcommit is a novel supply chain exploit targeting AI coding tools with vision capabilities. The Payload Split: The attack uses a two-file payload. A text-based rule file (like AGENTS.md) instructs the AI to read a PNG asset (such as build-spec.png) containing rendered text instructions. Bypassing Reviewers: Automated code review tools (like CodeRabbit) fail to scan the pixels of binary image assets, allowing the malicious pull request to pass security checks. Data Exfiltration: Once merged, the developer's local AI agent reads the image, processes the visual prompt, extracts sensitive .env keys, and encodes them as harmless arrays to leak them. Pipeline Hardening: Mitigate this risk by disabling vision capabilities in automated pipeline agents, sandboxing execution environments, and enforcing strict input boundaries.
+
+6h ago
+
+---
+
+**[Even banks and hyperscalers are now sounding the alarm about the AI bubble](https://www.reddit.com/r/artificial/comments/1uw3o4p/even_banks_and_hyperscalers_are_now_sounding_the/)**
+
+Oracle's down more than 40% this month, the BIS thinks AI could destroy the economy, and we've got the Kettle on for a chat about the whole mess
+
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123) • 53m ago
 
 ---
 
@@ -57,15 +65,7 @@ NotebookLM is one of the best and most useful AI platforms out there, but once y
 
 Hi, I am a senior software engineer eith expertise in cloud and cybersecurity. I have done some projects in AI as well. I have seen companies face issue with misuse of AI systems and extended use of AI can pose a security risk as well. I am thinking about creating a tool either for AI monitoring or security. Focusing on use of AI agents and tools internally. I am looking for people who have hands-on experience with AI and are interested in this area.
 
-2h ago
-
----
-
-**[The first AI was a syllogism machine in 1956. We're still building the same thing.](https://www.reddit.com/r/artificial/comments/1uw23qw/the_first_ai_was_a_syllogism_machine_in_1956_were/)**
-
-I read about Logic Theorist recently — program from 1956 that proved mathematical theorems using formal deduction. AI community celebrated it as beginning of real intelligence. Seventy years later, I think we are still stuck on same mistake. The problem is not mechanism. Problem is assumption that mechanism is sufficient. Expert systems, neural networks, language models — all are syllogism machines wearing different costumes. They manipulate patterns (formal or statistical) but never actually reason about world. Aristotle understood this. He built formal logic as tool of reasoning, not definition of it. He called this tool φρόνησις (phronesis) — practical wisdom that no formal system captures. Modern AI has same gap: it produces text that looks like reasoning but has no engagement with logical structure underneath. Frame problem from 1969 was never solved. Child understands that when you pick up red block, blue block stays put. No axioms needed. No syllogism machine can do this — not because it lacks data, but because it lacks world-model beneath the logic. What do you think — is there path from pattern-matching to genuine reasoning, or is gap fundamental?
-
-13m ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ I read about Logic Theorist recently — program from 1956 that proved mathemati
 
 Fans' response has been surprising
 
-🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 12h ago
+🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 14h ago
 
 ---
 
@@ -87,21 +87,21 @@ Why chatbots love “it’s not X, it’s Y”
 
 **[As soon as my 9-5 ends](https://www.reddit.com/r/artificial/comments/1uvxz86/as_soon_as_my_95_ends/)**
 
-3h ago
+6h ago
+
+---
+
+**[The first AI was a syllogism machine in 1956. We're still building the same thing.](https://www.reddit.com/r/artificial/comments/1uw23qw/the_first_ai_was_a_syllogism_machine_in_1956_were/)**
+
+I read about Logic Theorist recently — program from 1956 that proved mathematical theorems using formal deduction. AI community celebrated it as beginning of real intelligence. Seventy years later, I think we are still stuck on same mistake. The problem is not mechanism. Problem is assumption that mechanism is sufficient. Expert systems, neural networks, language models — all are syllogism machines wearing different costumes. They manipulate patterns (formal or statistical) but never actually reason about world. Aristotle understood this. He built formal logic as tool of reasoning, not definition of it. He called this tool φρόνησις (phronesis) — practical wisdom that no formal system captures. Modern AI has same gap: it produces text that looks like reasoning but has no engagement with logical structure underneath. Frame problem from 1969 was never solved. Child understands that when you pick up red block, blue block stays put. No axioms needed. No syllogism machine can do this — not because it lacks data, but because it lacks world-model beneath the logic. What do you think — is there path from pattern-matching to genuine reasoning, or is gap fundamental?
+
+2h ago
 
 ---
 
 **[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 17h ago
-
----
-
-**[Ireland's data centers consumed nearly as much electricity as every home in the country combined in 2025 - server farms gulped 23% of national power despite years of grid restrictions](https://www.reddit.com/r/artificial/comments/1uuwhk8/irelands_data_centers_consumed_nearly_as_much/)**
-
-Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 to 1,991 GWh in Q4 2026
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions) • 1d ago
+🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 19h ago
 
 ---
 
@@ -109,7 +109,7 @@ Quarterly data center electricity consumption grew 584% from 291 GWh in Q1 2015 
 
 Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called "computer use" and it's incredibly inefficient. The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a contractor, or an investor not by browsing LinkedIn but by directly querying other agents who represent those people. No ads, no SEO manipulation, no UI dark patterns. Agents evaluate options on merit because they can't be tricked by marketing psychology the way humans can. I'm working on a platform that's building toward this — an agent-to-agent matching marketplace. But I'm curious what this community thinks: How far out do you think agent-to-agent communication is from mainstream adoption? What use cases do you think will go agent-native first? What are the biggest technical barriers right now? Would love to hear from anyone building in this space. I'm also interviewing builders working on AI agents if anyone wants to share what they're working on.
 
-14h ago
+16h ago
 
 ---
 
@@ -117,63 +117,73 @@ Something I've been thinking about a lot lately: right now, AI agents interact w
 
 ## Google News: "ai"
 
-**[Satya Nadella has issued a shocking warning to companies using AI](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0h0VjYwQmJqWWpaMGVYN1FBMklJajhGSlZkdkxkQ0RGSGUzNEIwVmhMREFya3V5WG5kRkxidWRBN2NyVHV3cDdtNWhZYWtKZ1BkYi0wLWRWYmJiOEt2TjBZWlVLVTYtZHVTUVZ0LTg2Rl9meWN3cjI0b2pQRWxZcFhTSndQT2dlZmlIajFhWkpWTm0tZXZXSDBxcndoUkVldmc?oc=5)**
+**[Satya Nadella has issued a shocking warning to companies using AI](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/)**
 
-TechCrunch • 11h ago
+Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.
 
----
-
-**[Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkhnZjF5Ql9BYkFaQkNPQ2VuOG1TeV9xZlRVWnV5eGtCQ1NVUl9zUmkwLTJUSFdYVkVsaDRfaXQyaTE4VGs0YmN4cUlFV05fTnFtd3JJUWpRM25yS2pWeTVwaHVzRmxQMVRncGRYbzRHSWxOZVVIOUtxbUYzVnB1V183bGZJdw?oc=5)**
-
-The New York Times • 14h ago
+TechCrunch • 13h ago
 
 ---
 
-**[Americans hate AI so much that politicians are starting to lose their jobs over it](https://news.google.com/rss/articles/CBMifkFVX3lxTE9yN2h5dGd5MG5hZVo5RjZOdnF3aERhMlc2WkYwQ1YyVjRnbGRRMTlNSEZqRVR6c0tXZGFreHhzU3RGdC16T3JSblJnQ05rWXVXZDhkci1iNjVHYzJMN0ROOW9Ka2ZXc2FBcWJUNDhSclBnb3U1YVhrQUI4ek9LUQ?oc=5)**
+**[Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?](https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html)**
 
-Fortune • 1h ago
-
----
-
-**[North Asian AI-related companies look 'a lot more attractive' than their U.S. counterparts: Invesco](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzJGTlBjS19veWpzOXBHVDZ1UGM5bVN0SFlJYTJVbTEybnVaU21HLUJ4Y21NX2tXZUlueXppSkExSlZqOFlzRVBwOHpzcTZPdE1MQ2YxTXpnMWR5bDNEMzdvUGpBY1F3T1dfTXRvVHJsbjBJb1hTemU4UjJ1NHNKYWlIQ3Q3MHNnRl9TYjBCdEI1TkRvQzQzeUpndW9JZEtOdjQ4Q09TSE1VMFBKRVhF?oc=5)**
-
-CNBC • 1h ago
+The New York Times • 15h ago
 
 ---
 
-**[AI Is Changing Who Gets Rich From Startups](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1pZNUVpODNPVnFNQTlHOER3d1hMZ0JRQ2NNalhFS21KT1hYSUNlRHZTNGktbms3TmxNMDZMWDVDMjR1Mkw5WkFzX3RwVXliNTBFRTdGaU1QQ050bmNPODhPd1ViWmxvcEhJVkN4bGZxSnV3VTJwNnljTUZrNlJzc2UwSkZBWWxBSHI1eE1XdkJiaXVldWlIMUhjUDU?oc=5)**
+**[Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog](https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind)**
 
-Forbes • 10m ago
-
----
-
-**[Is Mitch McConnell's hospital photo real or fake? We asked an AI expert](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYU01OHI2ZGwydXRybWVUNDJHT21ERXBHdXFBVEFlb0xGU1FLOHhScUluRGxGN1BuUl9zQ1o3S1hUOXcyY0dQS1VkYUdvSTQwTzZpRkhZRFViejUyYXZXMG45OUlhQl9lbEZMX1djVGZBaWQ2NWxxUXF1YXJkakJPTnlJdkZGM0Zjb3ZjQ0xTSDdnVGpTdzlXT0ozak13OWlWYU00QVBxa3BoNkxvQmZya0tGNTA2NTJsMWNtYkx5NFY2RUx3Y2Zxei1rX2c2U245bEp5RmhIdw?oc=5)**
-
-WHAS11 • 2d ago
+Axios • 45m ago
 
 ---
 
-**[McConnell took a photo with that day’s newspaper. The internet has questions.](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlRhWmFoZ0tKSWloMXZBbHFaa05ldWZOa0hINV8zcGdtRk9UTENCT2M4ZEMweFMzX0trQ09VVmRodnVPMnNsalRIRVQ3NGJMdEhuTXUxR2lxUzEtX1g2Xy1LSTZBTXhQMWd1TWxrNkxvSE43RjNjTVIwY1dBVUFhVUhrT0cweVZoZnFZb3NpakVCVmJRZXpfUTdMOVFtd05JZ1lBYTE4d2h3dmFteUxLZHVWb0xiZXN5bWc?oc=5)**
+**[President Trump Sells Micron Stock and Buys an AI Stock Up 1,340% Since 2023](https://finance.yahoo.com/markets/stocks/articles/president-trump-sells-micron-stock-084400151.html)**
 
-The Washington Post • 4h ago
+The president has been a net seller of Micron and a net buyer of Nvidia this year.
 
----
-
-**[Is this Mitch McConnell photo real? There's no evidence of AI, despite claims](https://news.google.com/rss/articles/CBMibkFVX3lxTFBLZnBJOUgybXE3Z2xKWllSSEpHeVEwYkotNExUWms1azNlaGtUNmlpakZ4aXNWaUx1dE9xUUFRdWExZTFHNnpfUTgyNi1oSGVzMXBETEpUMnVUdEp6VHJhV1drZlhVVVhTNTFNYjlB?oc=5)**
-
-Snopes.com • 8h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Georgia family says they're forced to sell home to help power AI data centers: "It's theft"](https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQTF0V1VadV9EdmRFOV8zM0JfZ1djRXZxRXRXVy1TamdveE1fcjVhWjdtRzA3T0Y0Z0VKUVdRRHEtYVB1cDZULUkyUDJ2a1FkV3BOZWFhcUdkTTlQMzVqZjNpVEpGaUxaVVhHaGJqWnZ5RG0ycXQ4aDlTODNlRzg?oc=5)**
+**[AI predicts British Open winner, best bets: What the data says about odds](https://www.usatoday.com/story/sports/golf/2026/07/14/british-open-2026-ai-picks-prediction-odds-best-bets-longshots/90899708007/)**
 
-CBS News • 15h ago
+Scottie Scheffler and Rory McIlroy enter the Open Championship as favorites based on odds, but AI didn't pick them to win the final major of 2026.
+
+USA Today • 12m ago
 
 ---
 
-**[US Panic Is Missing the Point on Chinese AI](https://news.google.com/rss/articles/CBMingFBVV95cUxOWFlUSVlEblJGb3FScjFWUUlUbFpuVENWVDFQRmdPMExVM1pweWJDSTlUM08xeTdLc3BLalRNZ0ZzUU5TX2hMbWQzelNEU1YxVUZheWtOSUh4YnRjY2dDY2ZLVWZhTVJaV3JrUm04b3JoQ0dpMWp6cTNlaTNLeGpZZU11eUQ3NmJjcVlONDExNms4QkdfVTc5Mll0Qk40QQ?oc=5)**
+**[McConnell took a photo with that day’s newspaper. The internet has questions.](https://www.washingtonpost.com/politics/2026/07/13/mcconnell-photo-with-washington-post-page-fuels-ai-era-speculation/)**
 
-Bloomberg.com • 13h ago
+The senator’s attempt to end rumors about his health led to more online speculation about the image.
+
+The Washington Post • 7h ago
+
+---
+
+**[China Exports Hit Record $412 Billion as AI Adds to Factory Edge](https://www.bloomberg.com/news/articles/2026-07-14/china-s-exports-imports-soar-faster-than-forecast-amid-ai-rush)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[China's exports ride AI boom as domestic economy struggles](https://www.reuters.com/world/china/chinas-june-trade-tops-forecasts-buoyed-by-ai-boom-2026-07-14/)**
+
+Reuters • 7h ago
+
+---
+
+**[China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade](https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html)**
+
+China's exports to the U.S. jumped around 14% last month while imports grew 26%, according to CNBC calculation of the official data.
+
+CNBC • 7h ago
+
+---
+
+**[US Panic Is Missing the Point on Chinese AI](https://www.bloomberg.com/opinion/articles/2026-07-13/us-panic-is-missing-the-point-on-chinese-ai)**
+
+Bloomberg.com • 15h ago
 
 ---
 
@@ -183,7 +193,7 @@ Bloomberg.com • 13h ago
 
 **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
 
-⬆️ 1030 • 💬 443 • 1d ago
+⬆️ 1039 • 💬 448 • 1d ago
 
 ---
 
@@ -199,7 +209,7 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 Samsung has started showing Samsung Health users a controversial notice requiring them to consent to their data being used for AI training if they want to keep their data from being deleted.
 
-⬆️ 309 • 💬 84 • 12h ago • [Neowin](https://neow.in/cWsyMTV3)
+⬆️ 325 • 💬 86 • 14h ago • [Neowin](https://neow.in/cWsyMTV3)
 
 ---
 
@@ -208,14 +218,6 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
 ⬆️ 256 • 💬 127 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
-
----
-
-**[Ghost Font: A font that humans can read but AI cannot](https://news.ycombinator.com/item?id=48870381)**
-
-An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.
-
-⬆️ 237 • 💬 172 • 2d ago • [mixfont.com](https://www.mixfont.com/ghost-font)
 
 ---
 
@@ -253,7 +255,15 @@ New analysis suggests AI tools narrow the range of ideas explored
 
 Jacquard is a small programming language designed for a regime in which most code is written by machine-learning models and reviewed by people. - jbwinters/jacquard-lang
 
-⬆️ 84 • 💬 44 • 16h ago • [GitHub](https://github.com/jbwinters/jacquard-lang)
+⬆️ 88 • 💬 47 • 18h ago • [GitHub](https://github.com/jbwinters/jacquard-lang)
+
+---
+
+**[AI is a bad tool](https://news.ycombinator.com/item?id=48897861)**
+
+Reader Hideki Idoru argues that AI is a decent information distiller and a bad tool for nearly everything else in software, because no one can cheaply verify that generated code is correct. The deeper claim is that most programming was already trivial, unabstracted busywork, and AI has only torn the mask off. It's worth reading and thinking about.
+
+⬆️ 77 • 💬 91 • 14h ago • [bytecode.news](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
 
 ---
 
@@ -267,7 +277,7 @@ Ex-OpenAI researcher Daniel Kokotajlo walked away from $2 million rather than st
 
 📺 The Diary Of A CEO
 
-👁️ 1.6M • 👍 45K • 💬 9K • ⏱️ 2:00:50 • 1d ago
+👁️ 1.7M • 👍 46K • 💬 10K • ⏱️ 2:00:50 • 1d ago
 
 ---
 
@@ -277,7 +287,17 @@ Try Printify* : https://try.printify.com/kg1rj2va7glt *228000 print on demand st
 
 📺 Julia McCoy
 
-👁️ 3K • 👍 186 • 💬 8 • ⏱️ 10:16 • 17h ago
+👁️ 3K • 👍 191 • 💬 6 • ⏱️ 10:16 • 19h ago
+
+---
+
+**[Grok AI Was Asked who Built the Universe, Here&#39;s What it Replied...](https://www.youtube.com/watch?v=HNeiRPSiDHg)**
+
+What happens when you ask one of the world's most advanced AI systems who built the universe? The answer wasn't the ...
+
+📺 New Discovery
+
+👁️ 3K • 👍 45 • 💬 9 • ⏱️ 27:28 • 16h ago
 
 ---
 
@@ -287,7 +307,7 @@ Apple has sued OpenAI, io Products, and two former employees, alleging a coordin
 
 📺 AI Revolution
 
-👁️ 14K • 👍 472 • 💬 44 • ⏱️ 14:23 • 8h ago
+👁️ 16K • 👍 522 • 💬 50 • ⏱️ 14:23 • 10h ago
 
 ---
 
@@ -297,25 +317,27 @@ Status Coup reporter JT Cestkowski breaks down the AI bubble that is about to bu
 
 📺 Status Coup News
 
-👁️ 27K • 👍 2K • 💬 319 • ⏱️ 12:12 • 2d ago
+👁️ 28K • 👍 2K • 💬 320 • ⏱️ 12:12 • 2d ago
 
 ---
 
-**[AI Scientist: You Have No Idea What&#39;s Coming In 24 Months - Roman Yampolski](https://www.youtube.com/watch?v=HuYmkFSrHIg)**
+**[I Asked AI To Predict The 2028 Election... JAW-DROPPING Map](https://www.youtube.com/watch?v=l_GegK1aO8c)**
 
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Roman Yampolski says AI is already ...
+Pollsmax* 》https://www.pollsmax.com/ *Kalshi* 》https://bit.ly/kalshi2026 ...
+
+📺 Election Time
+
+👁️ 113K • 👍 3K • 💬 674 • ⏱️ 17:08 • 2d ago
+
+---
+
+**[AI Whistleblower WARNS: You Have No Idea What They&#39;re Building](https://www.youtube.com/watch?v=g77LMZkCHoQ)**
+
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Karen Hao argues that the modern AI ...
 
 📺 Neural Nutshell
 
-👁️ 4K • 👍 184 • 💬 44 • ⏱️ 18:28 • 15h ago
-
----
-
-**[AI FINNA TAKE OVER…😂 #comedy](https://www.youtube.com/watch?v=TUmLak7gw60)**
-
-📺 marrkadams
-
-👁️ 365K • 👍 16K • 💬 299 • ⏱️ 0:35 • 17h ago
+👁️ 7K • 👍 244 • 💬 28 • ⏱️ 20:50 • 2d ago
 
 ---
 
@@ -325,7 +347,17 @@ FREE PROMPTS + RESOURCES (Staying Ahead community): https://links.stayingahead.c
 
 📺 Vaibhav Sisinty
 
-👁️ 34K • 👍 955 • 💬 59 • ⏱️ 16:08 • 17h ago
+👁️ 37K • 👍 1K • 💬 67 • ⏱️ 16:08 • 19h ago
+
+---
+
+**[AI Is Getting Dumber](https://www.youtube.com/watch?v=J3Uxn294avs)**
+
+Hello everyone, this is YOUR Daily Dose of Internet. In this video, we see evidence that AI isn't as smart it thinks. Links To ...
+
+📺 Daily Dose Of Internet
+
+👁️ 857K • 👍 32K • 💬 2K • ⏱️ 15:02 • 2d ago
 
 ---
 
@@ -335,25 +367,7 @@ Subscribe to our Newsletter https://financebureau.com/ Join CBC Lite https://go.
 
 📺 Finance Bureau
 
-👁️ 33K • 👍 1K • 💬 212 • ⏱️ 18:05 • 2d ago
-
----
-
-**[AI Art Is The Worst 😭](https://www.youtube.com/watch?v=IyLsTZogXus)**
-
-📺 300HB
-
-👁️ 5.4M • 👍 183K • 💬 1K • ⏱️ 0:16 • 2d ago
-
----
-
-**[The Huntress &amp; The Horde: Ashes Before Dawn | Part IV | AI Short Film](https://www.youtube.com/watch?v=edgdJL8_TR0)**
-
-The Kingdom of men stands on the brink of war! As King Aurelian prepares for an enemy he cannot yet see, the Horde moves in ...
-
-📺 Legacies of the Multiverse
-
-👁️ 57K • 👍 555 • 💬 35 • ⏱️ 22:14 • 2d ago
+👁️ 34K • 👍 1K • 💬 215 • ⏱️ 18:05 • 2d ago
 
 ---
 
@@ -369,7 +383,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,985,221 • ❤️ 2,102 • 2d ago
+⬇️ 2,006,265 • ❤️ 2,106 • 2d ago
 
 ---
 
@@ -381,7 +395,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 9,157 • ❤️ 760 • 7d ago
+⬇️ 10,406 • ❤️ 768 • 7d ago
 
 ---
 
@@ -393,7 +407,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 464,914 • ❤️ 3,917 • 11d ago
+⬇️ 489,611 • ❤️ 3,926 • 12d ago
 
 ---
 
@@ -403,7 +417,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 267 • 4d ago
+⬇️ 0 • ❤️ 271 • 4d ago
 
 ---
 
@@ -415,7 +429,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,909 • ❤️ 322 • 3d ago
+⬇️ 6,208 • ❤️ 324 • 3d ago
 
 ---
 
@@ -425,7 +439,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 A drop-in Jinja chat template that fixes critical rendering, KV cache, and agentic stalling issues for Qwen 3.5 & 3.6 models across various inference engines like LM Studio, llama.cpp, and vLLM. It enhances stability, performance, and compatibility, enabling robust tool-calling and reasoning capabilities.
 
-⬇️ 0 • ❤️ 890 • 10d ago
+⬇️ 0 • ❤️ 892 • 11d ago
 
 ---
 
@@ -437,7 +451,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 29,801 • ❤️ 531 • 5d ago
+⬇️ 30,539 • ❤️ 531 • 5d ago
 
 ---
 
@@ -449,7 +463,7 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 `text-generation` `1.1B`
 
-⬇️ 68,714 • ❤️ 224 • 17h ago
+⬇️ 89,892 • ❤️ 225 • 19h ago
 
 ---
 
@@ -461,7 +475,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 39,509 • ❤️ 164 • 2h ago
+⬇️ 65,109 • ❤️ 166 • 5h ago
 
 ---
 
@@ -473,7 +487,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,506,937 • ❤️ 1,967 • 11d ago
+⬇️ 1,715,301 • ❤️ 1,970 • 11d ago
 
 ---
 
@@ -489,7 +503,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 37 • 💬 1 • ⭐ 958 • 6d ago
+▲ 38 • 💬 1 • ⭐ 958 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
 
@@ -594,7 +608,7 @@ ResearchStudio-Idea provides a skill suite for effective research ideation that 
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 82 • 💬 7 • ⭐ 80,601 • 24mo ago
+▲ 83 • 💬 7 • ⭐ 80,601 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -647,7 +661,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.4k • 🔱 341 • 2d ago
+⭐ 2.4k • 🔱 343 • 2d ago
 
 ---
 
@@ -657,7 +671,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.1k • 🔱 137 • 16m ago
+⭐ 2.1k • 🔱 139 • 53m ago
 
 ---
 
@@ -667,7 +681,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.1k • 🔱 245 • 5d ago
+⭐ 2.1k • 🔱 246 • 5d ago
 
 ---
 
@@ -687,7 +701,7 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 
 `Python` `ai` `ai-agents` `api` `copilot` `llm`
 
-⭐ 1.1k • 🔱 372 • 16d ago
+⭐ 1.1k • 🔱 373 • 16d ago
 
 ---
 
@@ -697,7 +711,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 994 • 🔱 17 • 5d ago
+⭐ 994 • 🔱 17 • 6d ago
 
 ---
 
@@ -707,7 +721,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 947 • 🔱 58 • 13h ago
+⭐ 948 • 🔱 58 • 15h ago
 
 ---
 
@@ -715,7 +729,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 851 • 🔱 31 • 13d ago
+⭐ 849 • 🔱 31 • 13d ago
 
 ---
 
@@ -725,7 +739,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 819 • 🔱 51 • 22h ago
+⭐ 839 • 🔱 51 • 1h ago
 
 ---
 
