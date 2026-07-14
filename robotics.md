@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T13:44:46.968825+00:00'
+updated: '2026-07-14T15:23:46.643562+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 13:44 UTC  
+**Last Updated:** July 14, 2026 at 15:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,9 +126,23 @@ Nature • 1d ago
 
 ---
 
+**[Humanoid Robots Just Performed Surgery Using Standard Medical Tools](https://gizmodo.com/humanoid-robots-just-performed-surgery-using-standard-medical-tools-2000785159)**
+
+Gizmodo • 52m ago
+
+---
+
 **[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
 
-Tech Xplore • 1d ago
+Tech Xplore • 2d ago
+
+---
+
+**[The Future of Warfare Is Autonomous](https://thedispatch.com/article/autonomous-weapons-future-warfare-china/)**
+
+Can the U.S. military change its culture to keep up?
+
+The Dispatch • 6h ago
 
 ---
 
@@ -137,14 +151,6 @@ Tech Xplore • 1d ago
 1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
 
 Business Insider • 1d ago
-
----
-
-**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
-
-The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
-
-Inquirer.com • 1d ago
 
 ---
 
@@ -160,7 +166,13 @@ Yahoo Finance • 1d ago
 
 The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.
 
-Supply Chain Dive • 23h ago
+Supply Chain Dive • 1d ago
+
+---
+
+**[5 Best Robotics ETFs to Buy in 2026 - U.S. News](https://money.usnews.com/investing/articles/best-robotics-etfs-to-buy)**
+
+U.S. News - Money • 19h ago
 
 ---
 
@@ -168,23 +180,7 @@ Supply Chain Dive • 23h ago
 
 New embodied AI world model predicts action outcomes in real time, improving robot reasoning, control, and adaptation in physical tasks.
 
-Interesting Engineering • 17h ago
-
----
-
-**[First bird-scale robot to swim, dive, and launch back into flight](https://newatlas.com/robotics/first-bird-robot-swim-dive-launch-mit-epfl/)**
-
-A robot that swims like a diving bird and then flies like, well, a bird, sounds like the setup for two different machines bolted together. But researchers at MIT and EPFL built one that does both with a single set of wings. No propellers, no legs, and no origami-style folding mechanism to switch…
-
-New Atlas • 1d ago
-
----
-
-**[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
-
-From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
-
-Cowboy State Daily • 2d ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -198,7 +194,7 @@ A Chinese tech-firm has unveiled a new AI-driven robot which it says is the firs
 
 📺 Al Jazeera English
 
-👁️ 7K • 👍 127 • 💬 74 • ⏱️ 2:44 • 6h ago
+👁️ 7K • 👍 127 • 💬 74 • ⏱️ 2:44 • 8h ago
 
 ---
 
@@ -246,7 +242,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 44K • 👍 2K • 💬 126 • ⏱️ 2:38 • 3d ago
+👁️ 44K • 👍 2K • 💬 126 • ⏱️ 2:38 • 4d ago
 
 ---
 
@@ -256,7 +252,7 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 327K • 👍 17K • 💬 769 • ⏱️ 1:25 • 3d ago
+👁️ 327K • 👍 17K • 💬 769 • ⏱️ 1:25 • 4d ago
 
 ---
 
@@ -274,7 +270,7 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 Smarttoy Ruko
 
-👁️ 2K • 👍 13 • ⏱️ 0:19 • 2h ago
+👁️ 2K • 👍 13 • ⏱️ 0:19 • 4h ago
 
 ---
 

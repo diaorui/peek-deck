@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T13:44:46.965511+00:00'
+updated: '2026-07-14T15:23:46.640447+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 13:44 UTC  
+**Last Updated:** July 14, 2026 at 15:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,862.96
+### $1,865.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.0%  
-**7d:** +7.2%  
-**30d:** +4.1%  
-**90d:** -20.4%  
-**1y:** -40.4%  
+**24h:** +6.1%  
+**7d:** +7.8%  
+**30d:** +4.7%  
+**90d:** -19.9%  
+**1y:** -40.1%  
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 23h ago
 
 According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ PR Newswire • 1d ago
 
 Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
 
-The Block • 15h ago
+The Block • 17h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 15h ago
 
 Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday's opening price. The price of bitcoin firmed this morning to $62,865.44. Ethereum opened at $1,774.10, down 1.8% from yesterday's open. The price of ethereum adjusted to $1,785.68 by 8:21 a.m. ET.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -194,15 +194,29 @@ Yahoo Finance • 1h ago
 
 A pivot into decentralized finance (DeFi) could be the catalyst to send the price of Solana soaring.
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Crypto ETFs End 8-Week Outflow Streak With $282M Inflows as Bitcoin and Ethereum Demand Rebounds](https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-end-8-week-103411097.html)**
+**[U.S. Government Moves Seized Bitcoin And Ethereum To Coinbase Exchange](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-seized-bitcoin-133700637.html)**
 
-Crypto investment products attracted $281.8 million in net inflows last week, ending an eight-week streak of outflows. Spot Bitcoin ETFs recorded $197.4 million in weekly ...
+The U.S. government has moved $288 million U.S. of seized Bitcoin (CRYPTO: $BTC) and Ethereum (CRYPTO: $ETH) from d...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
+
+MarketWatch • 1h ago
+
+---
+
+**[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
+
+The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
+
+CoinDesk • 51m ago
 
 ---
 
@@ -210,21 +224,7 @@ Yahoo Finance • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
-
----
-
-**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
-
-CCN.com • 4h ago
-
----
-
-**[EthSystems Launches to Build Privacy Solutions for Institutions on Ethereum](https://investingnews.com/ethsystems-launches-to-build-privacy-solutions-for-institutions-on-ethereum/)**
-
-Founded by the team behind the Ethereum Foundation's Institutional Privacy Task Force, EthSystems is building privacy and compliance technology for EthereumKey backers include Bitmine, Sharplink and Joe LubinEthSystems, an engineering and research company (the "Company"), today announced its publi...
-
-Investing News Network • 50m ago
+Fortune • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 314 • 👍 29 • 💬 10 • ⏱️ 5:20 • 1h ago
+👁️ 314 • 👍 29 • 💬 10 • ⏱️ 5:20 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 2K • 👍 186 • 💬 15 • ⏱️ 14:47 • 7h ago
+👁️ 2K • 👍 186 • 💬 15 • ⏱️ 14:47 • 8h ago
 
 ---
 
@@ -278,7 +278,7 @@ Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 ti
 
 📺 Lark Davis
 
-👁️ 2K • 👍 82 • 💬 15 • ⏱️ 1:10 • 9h ago
+👁️ 2K • 👍 82 • 💬 15 • ⏱️ 1:10 • 11h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 7K • 👍 314 • 💬 185 • ⏱️ 19:28 • 19h ago
+👁️ 7K • 👍 314 • 💬 185 • ⏱️ 19:28 • 21h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum just got another major shake-up. On June 22, 2026, a group of former Et
 
 📺 Tim Ho
 
-👁️ 436 • 👍 19 • 💬 24 • ⏱️ 7:03 • 19h ago
+👁️ 436 • 👍 19 • 💬 24 • ⏱️ 7:03 • 21h ago
 
 ---
 
@@ -328,7 +328,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 671 • 💬 535 • ⏱️ 24:07 • 2d ago
+👁️ 9K • 👍 671 • 💬 535 • ⏱️ 24:07 • 3d ago
 
 ---
 

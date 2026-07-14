@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-14T13:44:46.952338+00:00'
+updated: '2026-07-14T15:23:46.626518+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 14, 2026 at 13:44 UTC  
+**Last Updated:** July 14, 2026 at 15:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Something worth thinking about. According to Reddit's own IPO filings, Sam Altman, CEO of OpenAI and ChatGPT, controls 8.7% of Reddit stock including 9.3% of Class B shares, making him the third largest shareholder behind only Conde Nast and Tencent. He invested $60 million in Reddit in 2021 and sat on Reddit's board until 2022. His stake was worth approximately $1.4 billion as of late 2024. Meanwhile Reddit subreddits are actively banning users for AI generated content while Reddit simultaneously sold user data to Google for $203 million to train AI models. So Reddit profits from AI, its third largest shareholder runs the biggest AI company in the world, and yet individual users get permanently banned for AI content. Republicans are already investigating Altman's conflicts of interest as of May 2026. Maybe Reddit users should be asking the same questions. Sources: Reddit IPO prospectus, Fortune, CNBC, Forbes
 
-1h ago
+3h ago
+
+---
+
+**[A new, state-of-the-art, agentic pipeline for easy Music Video creation](https://www.reddit.com/r/artificial/comments/1uwbfos/a_new_stateoftheart_agentic_pipeline_for_easy/)**
+
+A new, significantly expanded version of the original Music Video mode, now built around Seedance 2.0, multiple image references, and an even more precise creative-assistance layer designed to enhance and adapt your vision in an optimally model-aware manner. This is an example output from the system. For musicians, filmmakers, visual artists, labels, directors, and anyone trying to turn a track into a more intentional audiovisual world. I'd love to know your thoughts on it! You can find it in: https://uisato.studio/
+
+13m ago
 
 ---
 
@@ -49,7 +57,7 @@ Something worth thinking about. According to Reddit's own IPO filings, Sam Altma
 
 AI agents are getting better at completing tasks, but I’m not convinced intelligence is the main thing holding them back anymore. The harder problem starts when an agent can send messages, approve purchases, move money, schedule work, or make decisions across several systems. At that point, how do you know which agent actually performed an action? Who gave it permission? What happens when it exceeds that permission, misunderstands an instruction, or another system impersonates it? We already have identity, access controls, audit logs, and legal responsibility for human employees. Agents may need something similar before companies allow them to operate with real autonomy. My guess is that the next major AI infrastructure layer won’t be another model. It’ll be a system for agent identity, permissions, and accountability. Would you trust an AI agent to act independently if every action were traceable and reversible, or is human approval still necessary regardless?
 
-43m ago
+2h ago
 
 ---
 
@@ -57,15 +65,23 @@ AI agents are getting better at completing tasks, but I’m not convinced intell
 
 Key takeaways in 90 seconds: Multimodal Vulnerability: Ghostcommit is a novel supply chain exploit targeting AI coding tools with vision capabilities. The Payload Split: The attack uses a two-file payload. A text-based rule file (like AGENTS.md) instructs the AI to read a PNG asset (such as build-spec.png) containing rendered text instructions. Bypassing Reviewers: Automated code review tools (like CodeRabbit) fail to scan the pixels of binary image assets, allowing the malicious pull request to pass security checks. Data Exfiltration: Once merged, the developer's local AI agent reads the image, processes the visual prompt, extracts sensitive .env keys, and encodes them as harmless arrays to leak them. Pipeline Hardening: Mitigate this risk by disabling vision capabilities in automated pipeline agents, sandboxing execution environments, and enforcing strict input boundaries.
 
-9h ago
+11h ago
 
 ---
 
-**[60-second AI engineering news: July 14, 2026](https://www.reddit.com/r/artificial/comments/1uw8suw/60second_ai_engineering_news_july_14_2026/)**
+**[Linux Foundation's latest foray is to standardize internet-native payments for AI agents](https://www.reddit.com/r/artificial/comments/1uwbd3e/linux_foundations_latest_foray_is_to_standardize/)**
 
-Six AI engineering signals from the last 24 hours: Codex hits 7M users after 10x growth in six months. Anthropic's tokenizer inflates costs versus competing models. A Claude API budget cap reportedly overran its stated limit by 7x. Apple's planned M7 Ultra could support up to 1.5 TB of unified memory. A Microsoft study examines early Claude Code and Copilot CLI adoption. A new paper applies ablation and statistical validation to KV-cache compression. Tokenizer pricing, runtime budget enforcement, and hardware memory ceilings are all shifting at once. Cost models locked in six months ago are now stale at every layer of the inference stack.
+There is yet-another-foundation being stewarded by the Linux Foundation that further broadens its scope outside of the typical Linux/open-source umbrella
 
-13m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-Foundation-x402) • 15m ago
+
+---
+
+**[How Manmy tokens are you guys using? (i'm running over a billion a month) wondering on what useage distribution is here.](https://www.reddit.com/r/artificial/comments/1uw9b8l/how_manmy_tokens_are_you_guys_using_im_running/)**
+
+It boggles my mind that in a month i'm using about the number of words that a human speaks in a lifetime. Is this normal? Mostly using it for agentic engineering.
+
+1h ago
 
 ---
 
@@ -73,7 +89,7 @@ Six AI engineering signals from the last 24 hours: Codex hits 7M users after 10x
 
 The EU is betting its welfare state can cushion the disruption of artificial intelligence. The bigger question is whether it can adapt fast enough.
 
-🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/can-europes-social-model-survive-ai) • 56m ago
+🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/can-europes-social-model-survive-ai) • 2h ago
 
 ---
 
@@ -81,15 +97,7 @@ The EU is betting its welfare state can cushion the disruption of artificial int
 
 >Louisiana businesses have received more than $1.6 billion in contracts since construction began
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements) • 2h ago
-
----
-
-**[Even banks and hyperscalers are now sounding the alarm about the AI bubble](https://www.reddit.com/r/artificial/comments/1uw3o4p/even_banks_and_hyperscalers_are_now_sounding_the/)**
-
-Oracle's down more than 40% this month, the BIS thinks AI could destroy the economy, and we've got the Kettle on for a chat about the whole mess
-
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123) • 4h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements) • 4h ago
 
 ---
 
@@ -97,7 +105,7 @@ Oracle's down more than 40% this month, the BIS thinks AI could destroy the econ
 
 Hi, I am a senior software engineer eith expertise in cloud and cybersecurity. I have done some projects in AI as well. I have seen companies face issue with misuse of AI systems and extended use of AI can pose a security risk as well. I am thinking about creating a tool either for AI monitoring or security. Focusing on use of AI agents and tools internally. I am looking for people who have hands-on experience with AI and are interested in this area.
 
-8h ago
+9h ago
 
 ---
 
@@ -105,15 +113,7 @@ Hi, I am a senior software engineer eith expertise in cloud and cybersecurity. I
 
 Fans' response has been surprising
 
-🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 18h ago
-
----
-
-**[The Most Famous AI Writing Tic Is Also the Most Mysterious](https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/)**
-
-Why chatbots love “it’s not X, it’s Y”
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/) • 1d ago
+🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 19h ago
 
 ---
 
@@ -121,71 +121,55 @@ Why chatbots love “it’s not X, it’s Y”
 
 ## Google News: "ai"
 
+**[Meta used AI to target workers with medical conditions for layoffs, former employees' lawsuit claims](https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/)**
+
+Reuters • 1h ago
+
+---
+
 **['The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money](https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai)**
 
 AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.
 
-NPR • 3h ago
+NPR • 4h ago
 
 ---
 
-**[Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog](https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind)**
+**[Economists sign letter on AI](https://www.cbsnews.com/chicago/video/economists-sign-letter-on-ai/)**
 
-Axios • 4h ago
+More than 200 economists signed a letter saying AI must be steered for the benefit of society and decrying the current state of the industry.
 
----
-
-**[Demis Hassabis has a plan to harness AI safely](https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely)**
-
-The Economist • 4h ago
+CBS News • 19m ago
 
 ---
 
-**[Google DeepMind Co-Founder Calls For AI Watchdog Over Fears Of Nuclear, Bio Risks](https://www.yahoo.com/news/politics/articles/google-deepmind-co-founder-calls-125036911.html)**
+**[IBM shares plunge 23% as customers shift spending to AI](https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95?syn-25a6b1a6=1)**
 
-“What we collectively do now will determine how the next phase of civilisation unfolds,” wrote Demis Hassabis.
+Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
 
-Yahoo • 54m ago
-
----
-
-**[Five Ways Physical AI Will Make Work More Accessible For Autistic Adults](https://www.forbes.com/sites/robertszczerba/2026/07/14/five-ways-physical-ai-will-make-work-more-accessible-for-autistic-adults/)**
-
-Physical AI could help redesign jobs so autistic and neurodivergent workers can succeed in workplaces built around clearer, steadier tasks.
-
-Forbes • 14m ago
+Financial Times • 3h ago
 
 ---
 
-**[New York Gov. Kathy Hocul delays new AI data centers over energy, environmental concerns](https://abc7ny.com/post/new-york-gov-kathy-hocul-delays-ai-data-centers-energy-environmental-concerns/19505160/)**
+**[What IBM's Revenue Miss Tells CIOs About AI Spending](https://www.forbes.com/sites/davidchou/2026/07/14/what-ibms-revenue-miss-tells-cios-about-ai-spending/)**
 
-The move comes as concerns grow over the massive energy and water demands required to operate AI data centers, which house thousands of computers and servers.
+IBM's Q2 miss wasn't weak AI demand. It was budget rotation to hardware. Here's what the shift from software to infrastructure spend means for CIOs
 
-ABC7 New York • 2h ago
-
----
-
-**[Sen. Tim Scott wants to hear from Warsh on data centers and artificial intelligence](https://www.cnbc.com/2026/07/14/tim-scott-kevin-warsh-data-centers-artificial-intelligence.html)**
-
-Sen. Tim Scott, R-S.C., will host Kevin Warsh before the Senate Banking Committee on Wednesday for his first time testifying as Fed chairman.
-
-CNBC • 8m ago
+Forbes • 22m ago
 
 ---
 
-**[New York to enact first statewide moratorium on AI data centers](https://www.businessinsider.com/new-york-state-ai-data-center-moratorium-temporary-ban-2026-7)**
+**[IBM warns AI boom is squeezing software budgets, triggers sector rout](https://finance.yahoo.com/markets/stocks/articles/ibm-expects-second-quarter-revenue-111029599.html)**
 
-"Before it goes any further, I need safeguards in place to protect New Yorkers," said New York Gov. Kathy Hochul.
+IBM said it had "faltered" in keeping pace with a shift in corporate spending from software to data-center infrastructure and forecast second-quarter earnings below estimates, the clearest sign yet of AI's ‌growing toll on the sector.  Other software stocks also tumbled, dragging the Dow lower, while the iShares Expanded Tech-Software Sector ​ETF fell more than 4%.  Tuesday's announcement showed that even the boom in spending on servers, chips and networking gear for AI was eating into software budgets.
 
-Business Insider • 5m ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[The UK wants to catch up in the global AI race – but is too wary of risks to go all-in](https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks)**
+**[An AI Agent Takes on the 60/40 Portfolio, and Raises Questions](https://www.bloomberg.com/news/newsletters/2026-07-14/would-you-let-an-ai-agent-manage-your-portfolio-s-asset-allocation?srnd=homepage-americas)**
 
-UK fears a ‘triple whammy’: oversized investment in AI stocks, slower adoption of AI than predicted and the breakneck pace of AI’s development
-
-The Guardian • 18m ago
+Bloomberg.com • 18m ago
 
 ---
 
@@ -193,7 +177,21 @@ The Guardian • 18m ago
 
 Warsh pledged Tuesday to "get monetary policy right" and defeat the inflation that has bedeviled the central bank for the past five years.
 
-CNBC • 1h ago
+CNBC • 2h ago
+
+---
+
+**[U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.](https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[McConnell took a photo with that day’s newspaper. The internet has questions.](https://www.washingtonpost.com/politics/2026/07/13/mcconnell-photo-with-washington-post-page-fuels-ai-era-speculation/)**
+
+The senator’s attempt to end rumors about his health led to more online speculation about the image.
+
+The Washington Post • 12h ago
 
 ---
 
@@ -203,7 +201,7 @@ CNBC • 1h ago
 
 **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
 
-⬆️ 1049 • 💬 449 • 1d ago
+⬆️ 1055 • 💬 449 • 1d ago
 
 ---
 
@@ -219,7 +217,7 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 Samsung has started showing Samsung Health users a controversial notice requiring them to consent to their data being used for AI training if they want to keep their data from being deleted.
 
-⬆️ 334 • 💬 91 • 17h ago • [Neowin](https://neow.in/cWsyMTV3)
+⬆️ 338 • 💬 91 • 19h ago • [Neowin](https://neow.in/cWsyMTV3)
 
 ---
 
@@ -227,7 +225,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 257 • 💬 128 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 257 • 💬 130 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -235,7 +233,7 @@ We hold frontier models to a high bar, and for four months nothing beat Claude O
 
 I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.
 
-⬆️ 229 • 💬 263 • 2d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+⬆️ 229 • 💬 264 • 2d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
 ---
 
@@ -243,7 +241,7 @@ I used to be one of these people. I read Yudkowsky and was like, OMG recursive s
 
 If an undergraduate program's graduates don't earn more than workers who never went to college, that program could be cut off from federal student loans. But is a degree just about making more money?
 
-⬆️ 198 • 💬 532 • 2d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+⬆️ 198 • 💬 537 • 2d ago • [NPR](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 
 ---
 
@@ -265,7 +263,7 @@ New analysis suggests AI tools narrow the range of ideas explored
 
 Jacquard is a small programming language designed for a regime in which most code is written by machine-learning models and reviewed by people. - jbwinters/jacquard-lang
 
-⬆️ 93 • 💬 51 • 21h ago • [GitHub](https://github.com/jbwinters/jacquard-lang)
+⬆️ 95 • 💬 52 • 23h ago • [GitHub](https://github.com/jbwinters/jacquard-lang)
 
 ---
 
@@ -273,7 +271,7 @@ Jacquard is a small programming language designed for a regime in which most cod
 
 Reader Hideki Idoru argues that AI is a decent information distiller and a bad tool for nearly everything else in software, because no one can cheaply verify that generated code is correct. The deeper claim is that most programming was already trivial, unabstracted busywork, and AI has only torn the mask off. It's worth reading and thinking about.
 
-⬆️ 78 • 💬 91 • 17h ago • [bytecode.news](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
+⬆️ 79 • 💬 92 • 19h ago • [bytecode.news](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
 
 ---
 
@@ -307,7 +305,7 @@ Apple has sued OpenAI, io Products, and two former employees, alleging a coordin
 
 📺 AI Revolution
 
-👁️ 18K • 👍 578 • 💬 65 • ⏱️ 14:23 • 14h ago
+👁️ 18K • 👍 578 • 💬 65 • ⏱️ 14:23 • 15h ago
 
 ---
 
@@ -317,7 +315,7 @@ What happens when you ask one of the world's most advanced AI systems who built 
 
 📺 New Discovery
 
-👁️ 3K • 👍 47 • 💬 9 • ⏱️ 27:28 • 19h ago
+👁️ 3K • 👍 47 • 💬 9 • ⏱️ 27:28 • 21h ago
 
 ---
 
@@ -327,7 +325,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code 
 
 📺 David Lin 
 
-👁️ 34K • 👍 1K • 💬 279 • ⏱️ 44:09 • 16h ago
+👁️ 34K • 👍 1K • 💬 279 • ⏱️ 44:09 • 18h ago
 
 ---
 
@@ -337,7 +335,7 @@ A Chinese tech-firm has unveiled a new AI-driven robot which it says is the firs
 
 📺 Al Jazeera English
 
-👁️ 7K • 👍 127 • 💬 74 • ⏱️ 2:44 • 6h ago
+👁️ 7K • 👍 127 • 💬 74 • ⏱️ 2:44 • 8h ago
 
 ---
 
@@ -347,7 +345,7 @@ Chamath Palihapitiya, Social Capital founder and CEO, 8090 CEO and 'All-In' podc
 
 📺 CNBC Television
 
-👁️ 5K • 👍 191 • 💬 62 • ⏱️ 13:22 • 1h ago
+👁️ 5K • 👍 191 • 💬 62 • ⏱️ 13:22 • 3h ago
 
 ---
 
@@ -367,7 +365,7 @@ Disclaimer - (there's always a risk of investment and there's no guarantee of an
 
 📺 Paul Begley
 
-👁️ 4K • 👍 293 • 💬 6 • ⏱️ 32:03 • 19h ago
+👁️ 4K • 👍 293 • 💬 6 • ⏱️ 32:03 • 21h ago
 
 ---
 
@@ -377,7 +375,7 @@ Young entrepreneurs are snapping up baby boomer-owned plumbing, construction, ma
 
 📺 Forbes
 
-👁️ 8K • 👍 200 • 💬 8 • ⏱️ 5:21 • 13h ago
+👁️ 8K • 👍 200 • 💬 8 • ⏱️ 5:21 • 15h ago
 
 ---
 
@@ -393,7 +391,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,006,265 • ❤️ 2,116 • 31m ago
+⬇️ 2,006,265 • ❤️ 2,116 • 2h ago
 
 ---
 
@@ -405,7 +403,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 10,406 • ❤️ 774 • 7d ago
+⬇️ 10,406 • ❤️ 774 • 8d ago
 
 ---
 
@@ -427,7 +425,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 276 • 4d ago
+⬇️ 0 • ❤️ 276 • 5d ago
 
 ---
 
@@ -451,7 +449,7 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 `text-generation` `1.1B`
 
-⬇️ 89,892 • ❤️ 226 • 22h ago
+⬇️ 89,892 • ❤️ 226 • 1d ago
 
 ---
 
@@ -485,7 +483,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 65,109 • ❤️ 171 • 3h ago
+⬇️ 65,109 • ❤️ 171 • 4h ago
 
 ---
 
@@ -681,7 +679,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.2k • 🔱 149 • 3h ago
+⭐ 2.2k • 🔱 149 • 4h ago
 
 ---
 
@@ -701,7 +699,7 @@ The living ecosystem where AI agents complete tasks through workflow loops, impr
 
 `Python` `agent-apprenticeship` `agent-economy` `agent-experience` `agent-learning` `agent-traces`
 
-⭐ 1.3k • 🔱 56 • 7d ago
+⭐ 1.3k • 🔱 56 • 8d ago
 
 ---
 
@@ -731,7 +729,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 955 • 🔱 58 • 19h ago
+⭐ 955 • 🔱 58 • 21h ago
 
 ---
 
@@ -741,7 +739,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 857 • 🔱 51 • 4h ago
+⭐ 857 • 🔱 51 • 6h ago
 
 ---
 
