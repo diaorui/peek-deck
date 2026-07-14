@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-14T11:54:33.704920+00:00'
+updated: '2026-07-14T13:44:46.960051+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 11:54 UTC  
+**Last Updated:** July 14, 2026 at 13:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,679.70
+### $63,800.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.9%  
-**30d:** -5.2%  
-**90d:** -16.3%  
-**1y:** -46.6%  
+**24h:** +1.5%  
+**7d:** +2.3%  
+**30d:** -3.9%  
+**90d:** -15.2%  
+**1y:** -45.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1256.48B
+**Market Cap:** $1280.46B
 Rank #1
 
-**Circulating Supply:** 20,056,171 BTC
+**Circulating Supply:** 20,056,231 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.3%
+-49.4%
 
 **All-Time Low:** $67.81
-+92286.1%
++93989.4%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin visualized as a 3d battlefield where real time order books, liquidations, and whale trades dictate the action](https://www.reddit.com/r/Bitcoin/comments/1uvambe/bitcoin_visualized_as_a_3d_battlefield_where_real/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Neymar rocking a Satoshi t-shirt](https://www.reddit.com/r/Bitcoin/comments/1uvs1pj/neymar_rocking_a_satoshi_tshirt/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The hardest part of Bitcoin isn't buying it. It's surviving the moment you were right too early. Everyone wants to buy Bitcoin when the future looks obvious. That is the problem. The greatest opportunities in every cycle usually appear when the evidence is still incomplete, the chart looks ugly, and the majority has a reasonable explanation for why waiting is smarter. Human beings are not bad at recognizing value. We are bad at recognizing value before consensus approves it. The market is not designed to test your intelligence. It tests your patience, your conviction, and your ability to act without emotional permission. Maybe the biggest mistake isn't buying too early. Maybe it's waiting until nobody can convince you anymore that you're wrong. Ten years from now, what do you think people will regret more: buying Bitcoin too early, or never buying because they were waiting for the perfect moment?
 
-13h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ The hardest part of Bitcoin isn't buying it. It's surviving the moment you were 
 
 so, I've been following this BIP-110 vs Core saga for some time now, and I feel like I understand very well why BIP-110 is being proposed. they don't want bitcoin Core to allow the use of bitcoin as a cloud storage server. I have few questions for those that support Core, because I would respectfully love to hear their side of the story as well in order to understand both sides better: what is it that "you personally" want to do that you can't do anymore if BIP-110 gains mainstream popularity and replaces Bitcoin Core? how does this hurt you personally? please give as many examples as you can think of. how would it be beneficial to send data up to 100KBs on the bitcoin network over something like Discord or WhatsApp? EDIT: please, if a Core supporter could help us understand us better by answering my first question. what is it that you need to do that requires the increase of OP_RETURN, and what is it that you cannot do anymore with the introduction of BIP-110? EDIT: I noticed my grammatical error and apologize for any confusion I made on my first question. if any bitcoin core supporters could please elaborate on what is it, that you yourself personally lose the ability to do with bitcoin if BIP-110 replaces Core V30+?
 
-12h ago
+14h ago
 
 ---
 
@@ -109,7 +109,7 @@ so, I've been following this BIP-110 vs Core saga for some time now, and I feel 
 
 Leandro César lançou o #MercadoBitcoin no Bitcointalk 🇧🇷 #rogerkver comentou no dia seguinte: "O Bitcoin vai mudar a forma como o mundo faz negócios". MtGox e outras de 2011 faliram, mas a BR resistiu e hoje é a maior da AL. #Bitcoin #BitcoinHistory
 
-12h ago
+14h ago
 
 ---
 
@@ -117,7 +117,7 @@ Leandro César lançou o #MercadoBitcoin no Bitcointalk 🇧🇷 #rogerkver come
 
 Strategy's total holdings remain at 843,775 BTC and account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.
 
-🔗 [The Block](https://www.theblock.co/post/408004/strategy-sells-467-million-in-mstr-shares-makes-no-bitcoin-purchases-as-usd-reserve-hits-3-billion) • 21h ago
+🔗 [The Block](https://www.theblock.co/post/408004/strategy-sells-467-million-in-mstr-shares-makes-no-bitcoin-purchases-as-usd-reserve-hits-3-billion) • 23h ago
 
 ---
 
@@ -125,7 +125,7 @@ Strategy's total holdings remain at 843,775 BTC and account for around 4% of the
 
 Ok I have my bitcoin core wallet dumpprivet key of that address which I have the funds but when I try to import the private key in electrum or bitcoin core new wallet or into any platform the address change automatically and shows 0 balance it's not showing me the that address which holds the fund please help me if any one have the solution and one more think the key is compressed I try p2pkh method of electrum but it didn't work and i have only one receiving address but after all this i face this problem again and again
 
-6h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ Ok I have my bitcoin core wallet dumpprivet key of that address which I have the
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The price action and headlines have been pretty rough lately. Geopolitics, some ETF flows going the other way for a bit, and BTC just sitting lower after coming off higher levels. It’s easy to see why a lot of people are cautious or outright bearish on the near term. What’s interesting though is the RSI on the daily. It’s been moving with price lower but now looks like it’s starting to curl back up. Not screaming reversal yet, but the momentum is shifting off those lower levels in a way that’s caught my eye. I’ve seen setups like this enough times to know they usually feel the worst right when the early signs show up. The core reasons I’m still bullish on Bitcoin long term haven’t changed. Institutional access through ETFs is still there, adoption keeps creeping forward, and we’re still dealing with the supply side from previous halvings. Buying more in the low 60s feels like one of those spots that could look pretty good twelve months from now when we’re looking back. I’m personally adding on these dips instead of waiting for everything to line up perfectly. Could still chop or retest support, that’s always possible. But sitting in cash waiting for the all-clear has cost me opportunities before.What are you guys seeing with the RSI or your own setups right now? Adding, holding, or waiting for more confirmation?
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ The price action and headlines have been pretty rough lately. Geopolitics, some 
 
 A Bitcoin (BTC) whale moved 2,931 BTC worth $188 million to a new address on July 12.
 
-9m ago
+1h ago
 
 ---
 
@@ -157,11 +157,11 @@ A Bitcoin (BTC) whale moved 2,931 BTC worth $188 million to a new address on Jul
 
 ## Google News: "bitcoin"
 
-**[BTC, XRP, ETH slip ahead of inflation report and Warsh testimony](https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report)**
+**[Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms](https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms)**
 
-Major cryptocurrencies have dropped by 2% or more in 24 hours as traders boosted bets of a July Fed rate hike.
+Trump reinstated the Hormuz blockade, sending oil higher and rate-hike bets up, reversing the peace trade that helped bitcoin recover in early July. Today's inflation print is the next test.
 
-CoinDesk • 8h ago
+CoinDesk • 22m ago
 
 ---
 
@@ -175,7 +175,7 @@ Reuters • 1d ago
 
 Strategy's total holdings remain at 843,775 BTC and account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -187,49 +187,51 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Current price of Bitcoin for July 14, 2026](https://fortune.com/article/price-of-bitcoin-07-14-2026/)**
+**[Bitcoin and ethereum prices today, Tuesday, July 14, 2026:](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday's opening price. The price of bitcoin firmed this morning to $62,865.44. Ethereum opened at $1,774.10, down 1.8% from yesterday's open. The price of ethereum adjusted to $1,785.68 by 8:21 a.m. ET.
 
-Fortune • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Price Fall Below $60K? Coinbase CEO Poll Shows Most Expect Further Losses](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-fall-below-60k-094209711.html)**
+**[Prediction: This Cryptocurrency Could Overtake Bitcoin and Ethereum Combined in Total Value](https://finance.yahoo.com/markets/crypto/articles/prediction-cryptocurrency-could-overtake-bitcoin-132000769.html)**
 
-Most respondents to Brian Armstrong’s poll believe Bitcoin has not yet reached its bottom. US-Iran tensions, rising oil prices, and leveraged liquidations are increasing ...
+A pivot into decentralized finance (DeFi) could be the catalyst to send the price of Solana soaring.
+
+Yahoo Finance • 24m ago
+
+---
+
+**[Bitcoin Holders Have Been Underwater For Six Weeks – But One Analyst Says $45K Is Unlikely](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holders-underwater-six-weeks-112627392.html)**
+
+If Bitcoin's price drops to $45,000, that would put 59% of supply underwater, the largest since 2018, said analyst James Check.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Binance Meme Coin Selling Tops $1.2 Billion Since Bitcoin’s October Peak](https://finance.yahoo.com/markets/crypto/articles/binance-meme-coin-selling-tops-110421486.html)**
+**[U.S. government moves $8.8M of Bitcoin that Trump said would never sell](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-8-8m-204911394.html)**
 
-Meme coins saw $1.21B in net selling on Binance since Bitcoin's peak, with leaders down 64% to 86% over the past year.
+The United States government moved $8.8 million of Bitcoin to Coinbase Prime on Monday night, according to blockchain intelligence firm Arkham. "The US Government just moved $8.8M of BTC to Coinbase Prime. The Coinbase Prime deposit that received this BTC 1 hour ago also received seized BTC from ...
 
-Yahoo Finance • 50m ago
-
----
-
-**[The 1 Bitcoin Chart They Don’t Want You To See](https://www.forbes.com/sites/digital-assets/2026/07/12/the-1-bitcoin-chart-they-dont-want-you-to-see/)**
-
-I’ve been calling bitcoin down for ages. And it’s been falling. I called it up in 2017, 2021, and 2025. I’m a bull on the way up and a bear on the way back down again.
-
-Forbes • 1d ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Bitwise Sees A Bottom In Bitcoin's Worst Vibes Yet: 'Darkest Before The Dawn'](https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin)**
+**[US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham](https://www.theblock.co/post/408202/us-government-moves-288-million-bitcoin-ether)**
 
-Bitwise says Bitcoin's brutal nine-month downturn masks a stronger-than-ever foundation, arguing institutional adoption, corporate buying, and improving market infrastructure position the industry for a rebound despite record ETF outflows and weak sentiment.
+According to Arkham, the U.S. government wallet maintains a large crypto portfolio estimated at over $20 billion, including 324,552 BTC.
 
-Bitcoin Magazine • 16h ago
+The Block • 3h ago
 
 ---
 
-**[Bitcoin (BTC) Weakens as Oil-Price Spike Revives Inflation Concerns](https://www.bloomberg.com/news/articles/2026-07-13/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns)**
+**[BTC, ETH news: U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime](https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime)**
 
-Bloomberg.com • 15h ago
+Coins from the Farace and BTC-e seizures moved through fresh wallets before landing on the exchange, despite president Donald Trump's previous no-sell reserve order.
+
+CoinDesk • 7h ago
 
 ---
 
@@ -295,7 +297,17 @@ Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 86 • ⏱️ 9:49 • 13h ago
+👁️ 22K • 👍 1K • 💬 89 • ⏱️ 9:49 • 15h ago
+
+---
+
+**[Is Bitcoin Still Worth Buying in 2026? | Humphrey Yang](https://www.youtube.com/watch?v=HvkbcjujAKE)**
+
+MagBak: Get 15% off of ANY product using code ICED15 at https://creators.magbak.com/theicedcoffeehour9tn Episode Link ...
+
+📺 The Iced Coffee Hour Clips
+
+👁️ 4K • 👍 101 • 💬 28 • ⏱️ 11:11 • 12h ago
 
 ---
 
@@ -305,17 +317,7 @@ Let's try to better understand this Bitcoin bear market structurally and from a 
 
 📺 Benjamin Cowen
 
-👁️ 27K • 👍 2K • 💬 126 • ⏱️ 16:23 • 8h ago
-
----
-
-**[$100T Bitcoin Green Light - Trump Just Made His Move](https://www.youtube.com/watch?v=mnbdbaTOBe8)**
-
-Subscribe. The Bitcoin race already started. President Trump is urging the U.S. Senate to pass the Clarity Act, arguing America ...
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 212 • 💬 50 • ⏱️ 14:31 • 13h ago
+👁️ 38K • 👍 3K • 💬 152 • ⏱️ 16:23 • 10h ago
 
 ---
 
@@ -325,7 +327,27 @@ An OpenAI insider warns there is a 70% chance advanced AI goes horribly wrong—
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 133 • ⏱️ 16:38 • 14h ago
+👁️ 17K • 👍 1K • 💬 137 • ⏱️ 16:38 • 16h ago
+
+---
+
+**[Owning Just 0.21 Bitcoin Will Be Life-Changing (insane prediction)](https://www.youtube.com/watch?v=XbcGyluQMoY)**
+
+Follow Brian: https://www.youtube.com/@brainharrington Follow Brian: https://x.com/BrainHarrington Buy, Sell, Trade Crypto: ...
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 2K • 💬 219 • ⏱️ 19:36 • 1d ago
+
+---
+
+**[$100T Bitcoin Green Light - Trump Just Made His Move](https://www.youtube.com/watch?v=mnbdbaTOBe8)**
+
+Subscribe. The Bitcoin race already started. President Trump is urging the U.S. Senate to pass the Clarity Act, arguing America ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 225 • 💬 94 • ⏱️ 14:31 • 15h ago
 
 ---
 
@@ -335,7 +357,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 570 • 💬 252 • ⏱️ 11:14 • 1d ago
+👁️ 11K • 👍 567 • 💬 252 • ⏱️ 11:14 • 1d ago
 
 ---
 
@@ -345,17 +367,7 @@ Bitcoin #Crypto #finance Bitcoin remains stuck in its multi-month range as inves
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 810 • 💬 200 • ⏱️ 27:17 • 22h ago
-
----
-
-**[Bitcoin Holders: Prepare For A Very Volatile Week (What I&#39;m Doing)](https://www.youtube.com/watch?v=55f1bdVWMHc)**
-
-Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapital Bitcoin Loans w/ Ledn: ...
-
-📺 Aaron Bennett
-
-👁️ 4K • 👍 264 • 💬 45 • ⏱️ 7:01 • 1d ago
+👁️ 16K • 👍 835 • 💬 237 • ⏱️ 27:17 • 1d ago
 
 ---
 
@@ -365,27 +377,17 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 743 • 💬 56 • ⏱️ 45:35 • 21h ago
+👁️ 13K • 👍 747 • 💬 55 • ⏱️ 45:35 • 23h ago
 
 ---
 
-**[Sellers Are EXHAUSTED  #cryptocurrency #bitcoin #crypto](https://www.youtube.com/watch?v=Xr4ZN48A9EM)**
+**[The Bitcoin Exodus Has Begun... Iran Is Leading the Way](https://www.youtube.com/watch?v=AIHnmfN1_aY)**
 
-Trade $10 get $10 - http://kalshi.com/r/altcoin Follow Altcoin Daily on X: https://x.com/AltcoinDaily A segment of today's video is ...
+Join Skool - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your ...
 
-📺 Altcoin Daily
+📺 Discover Crypto
 
-👁️ 11K • 👍 310 • 💬 15 • ⏱️ 1:11 • 1d ago
-
----
-
-**[Self-Custody Bitcoin Will Be Dead In 3 Years. | NVK, Founder of Coldcard](https://www.youtube.com/watch?v=KWtz3z4FI6E)**
-
-Real Bitcoin self-custody is under a major attack, and the window for normal people to own absolute sovereign UTXOs is closing ...
-
-📺 Rob Wallace | Bitcoin News
-
-👁️ 2K • 👍 107 • 💬 30 • ⏱️ 1:02:04 • 18h ago
+👁️ 4K • 👍 66 • 💬 31 • ⏱️ 0:32 • 14h ago
 
 ---
 

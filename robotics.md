@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T11:54:33.713452+00:00'
+updated: '2026-07-14T13:44:46.968825+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 11:54 UTC  
+**Last Updated:** July 14, 2026 at 13:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ This is the first movement test with the assembled prototype. The motion is stil
 
 **[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -144,7 +144,7 @@ Business Insider • 1d ago
 
 The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
 
-Inquirer.com • 23h ago
+Inquirer.com • 1d ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 1d ago
 
 The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.
 
-Supply Chain Dive • 21h ago
+Supply Chain Dive • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ Supply Chain Dive • 21h ago
 
 New embodied AI world model predicts action outcomes in real time, improving robot reasoning, control, and adaptation in physical tasks.
 
-Interesting Engineering • 15h ago
+Interesting Engineering • 17h ago
 
 ---
 
@@ -192,13 +192,13 @@ Cowboy State Daily • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[SURGERY REVOLUTION: Humanoid robots take a major step forward](https://www.youtube.com/watch?v=hOW1GH6qv6Q)**
+**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
 
-Kurt 'CyberGuy' Knutsson explains a groundbreaking medical trial in which humanoid robots performed remote surgery under the ...
+A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
 
-📺 Fox News Clips
+📺 Al Jazeera English
 
-👁️ 4K • 👍 132 • 💬 23 • ⏱️ 5:25 • 22h ago
+👁️ 7K • 👍 127 • 💬 74 • ⏱️ 2:44 • 6h ago
 
 ---
 
@@ -208,15 +208,7 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 55K • 👍 929 • 💬 372 • ⏱️ 1:54 • 4d ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 166K • 👍 6K • 💬 88 • ⏱️ 1:03 • 2d ago
+👁️ 55K • 👍 939 • 💬 384 • ⏱️ 1:54 • 4d ago
 
 ---
 
@@ -226,17 +218,15 @@ Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech Yo
 
 📺 PRO ROBOTS
 
-👁️ 27K • 👍 793 • 💬 61 • ⏱️ 29:49 • 4d ago
+👁️ 27K • 👍 793 • 💬 61 • ⏱️ 29:49 • 5d ago
 
 ---
 
-**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
 
-In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
+📺 Varun Mayya
 
-📺 DW News
-
-👁️ 43K • 👍 2K • 💬 125 • ⏱️ 2:38 • 3d ago
+👁️ 168K • 👍 6K • 💬 88 • ⏱️ 1:03 • 2d ago
 
 ---
 
@@ -246,7 +236,17 @@ Putting technology to the test through combat, and connecting the world through 
 
 📺 Unitree Robotics
 
-👁️ 385K • 👍 958 • 💬 155 • ⏱️ 1:10 • 5d ago
+👁️ 520K • 👍 959 • 💬 155 • ⏱️ 1:10 • 5d ago
+
+---
+
+**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
+
+In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
+
+📺 DW News
+
+👁️ 44K • 👍 2K • 💬 126 • ⏱️ 2:38 • 3d ago
 
 ---
 
@@ -256,7 +256,7 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 324K • 👍 17K • 💬 766 • ⏱️ 1:25 • 3d ago
+👁️ 327K • 👍 17K • 💬 769 • ⏱️ 1:25 • 3d ago
 
 ---
 
@@ -266,27 +266,25 @@ My God, UBTECH, what kind of launch was that? Honestly, after watching it, I fee
 
 📺 China Observer
 
-👁️ 73K • 👍 2K • 💬 599 • ⏱️ 20:21 • 6d ago
+👁️ 73K • 👍 2K • 💬 600 • ⏱️ 20:21 • 6d ago
 
 ---
 
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+**[Spawning a robot out of thin air! 🤖#robot #robotics #smartrobot #ruko](https://www.youtube.com/watch?v=nQOHBL6tOw4)**
 
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+📺 Smarttoy Ruko
 
-📺 Munro Live
-
-👁️ 78K • 👍 2K • 💬 227 • ⏱️ 38:47 • 5d ago
+👁️ 2K • 👍 13 • ⏱️ 0:19 • 2h ago
 
 ---
 
-**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
+**[1X&#39;s New Humanoid Robot Hands Are Almost Human! 🤖✋](https://www.youtube.com/watch?v=mOEmlO9WQuI)**
 
-Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
+1X Unveils NEO's Next-Generation Humanoid Hands with Human-Like Dexterity, AI Touch Sensors & 25 Degrees of Freedom ...
 
-📺 Fox Business Clips
+📺 Techie Sapien
 
-👁️ 18K • 👍 281 • 💬 146 • ⏱️ 8:37 • 4d ago
+👁️ 87K • 👍 1K • 💬 28 • ⏱️ 0:09 • 3d ago
 
 ---
 

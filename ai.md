@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-14T11:54:33.696323+00:00'
+updated: '2026-07-14T13:44:46.952338+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 14, 2026 at 11:54 UTC  
+**Last Updated:** July 14, 2026 at 13:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,43 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Did you know the CEO of OpenAI owns nearly 9% of Reddit while Reddit bans users for AI generated content?](https://www.reddit.com/r/artificial/comments/1uw6sv6/did_you_know_the_ceo_of_openai_owns_nearly_9_of/)**
+
+Something worth thinking about. According to Reddit's own IPO filings, Sam Altman, CEO of OpenAI and ChatGPT, controls 8.7% of Reddit stock including 9.3% of Class B shares, making him the third largest shareholder behind only Conde Nast and Tencent. He invested $60 million in Reddit in 2021 and sat on Reddit's board until 2022. His stake was worth approximately $1.4 billion as of late 2024. Meanwhile Reddit subreddits are actively banning users for AI generated content while Reddit simultaneously sold user data to Google for $203 million to train AI models. So Reddit profits from AI, its third largest shareholder runs the biggest AI company in the world, and yet individual users get permanently banned for AI content. Republicans are already investigating Altman's conflicts of interest as of May 2026. Maybe Reddit users should be asking the same questions. Sources: Reddit IPO prospectus, Fortune, CNBC, Forbes
+
+1h ago
+
+---
+
+**[The real bottleneck for AI agents may be proving who they are](https://www.reddit.com/r/artificial/comments/1uw81un/the_real_bottleneck_for_ai_agents_may_be_proving/)**
+
+AI agents are getting better at completing tasks, but I’m not convinced intelligence is the main thing holding them back anymore. The harder problem starts when an agent can send messages, approve purchases, move money, schedule work, or make decisions across several systems. At that point, how do you know which agent actually performed an action? Who gave it permission? What happens when it exceeds that permission, misunderstands an instruction, or another system impersonates it? We already have identity, access controls, audit logs, and legal responsibility for human employees. Agents may need something similar before companies allow them to operate with real autonomy. My guess is that the next major AI infrastructure layer won’t be another model. It’ll be a system for agent identity, permissions, and accountability. Would you trust an AI agent to act independently if every action were traceable and reversible, or is human approval still necessary regardless?
+
+43m ago
+
+---
+
 **[Inside Ghostcommit: How Malicious PNGs Bypass AI Code Reviewers](https://www.reddit.com/r/artificial/comments/1uvxqg5/inside_ghostcommit_how_malicious_pngs_bypass_ai/)**
 
 Key takeaways in 90 seconds: Multimodal Vulnerability: Ghostcommit is a novel supply chain exploit targeting AI coding tools with vision capabilities. The Payload Split: The attack uses a two-file payload. A text-based rule file (like AGENTS.md) instructs the AI to read a PNG asset (such as build-spec.png) containing rendered text instructions. Bypassing Reviewers: Automated code review tools (like CodeRabbit) fail to scan the pixels of binary image assets, allowing the malicious pull request to pass security checks. Data Exfiltration: Once merged, the developer's local AI agent reads the image, processes the visual prompt, extracts sensitive .env keys, and encodes them as harmless arrays to leak them. Pipeline Hardening: Mitigate this risk by disabling vision capabilities in automated pipeline agents, sandboxing execution environments, and enforcing strict input boundaries.
 
-8h ago
+9h ago
+
+---
+
+**[60-second AI engineering news: July 14, 2026](https://www.reddit.com/r/artificial/comments/1uw8suw/60second_ai_engineering_news_july_14_2026/)**
+
+Six AI engineering signals from the last 24 hours: Codex hits 7M users after 10x growth in six months. Anthropic's tokenizer inflates costs versus competing models. A Claude API budget cap reportedly overran its stated limit by 7x. Apple's planned M7 Ultra could support up to 1.5 TB of unified memory. A Microsoft study examines early Claude Code and Copilot CLI adoption. A new paper applies ablation and statistical validation to KV-cache compression. Tokenizer pricing, runtime budget enforcement, and hardware memory ceilings are all shifting at once. Cost models locked in six months ago are now stale at every layer of the inference stack.
+
+13m ago
+
+---
+
+**[Can Europe's social model survive AI?](https://www.reddit.com/r/artificial/comments/1uw7q5j/can_europes_social_model_survive_ai/)**
+
+The EU is betting its welfare state can cushion the disruption of artificial intelligence. The bigger question is whether it can adapt fast enough.
+
+🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/can-europes-social-model-survive-ai) • 56m ago
 
 ---
 
@@ -49,7 +81,7 @@ Key takeaways in 90 seconds: Multimodal Vulnerability: Ghostcommit is a novel su
 
 >Louisiana businesses have received more than $1.6 billion in contracts since construction began
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements) • 33m ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements) • 2h ago
 
 ---
 
@@ -57,7 +89,7 @@ Key takeaways in 90 seconds: Multimodal Vulnerability: Ghostcommit is a novel su
 
 Oracle's down more than 40% this month, the BIS thinks AI could destroy the economy, and we've got the Kettle on for a chat about the whole mess
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123) • 2h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123) • 4h ago
 
 ---
 
@@ -65,7 +97,7 @@ Oracle's down more than 40% this month, the BIS thinks AI could destroy the econ
 
 Hi, I am a senior software engineer eith expertise in cloud and cybersecurity. I have done some projects in AI as well. I have seen companies face issue with misuse of AI systems and extended use of AI can pose a security risk as well. I am thinking about creating a tool either for AI monitoring or security. Focusing on use of AI agents and tools internally. I am looking for people who have hands-on experience with AI and are interested in this area.
 
-6h ago
+8h ago
 
 ---
 
@@ -73,7 +105,7 @@ Hi, I am a senior software engineer eith expertise in cloud and cybersecurity. I
 
 Fans' response has been surprising
 
-🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 16h ago
+🔗 [Film Shrine](https://thetab.com/filmshrine/2026/07/13/lord-of-the-rings-the-hunt-for-gollum-only-use-ai-for-de-aging/) • 18h ago
 
 ---
 
@@ -85,105 +117,83 @@ Why chatbots love “it’s not X, it’s Y”
 
 ---
 
-**[As soon as my 9-5 ends](https://www.reddit.com/r/artificial/comments/1uvxz86/as_soon_as_my_95_ends/)**
-
-7h ago
-
----
-
-**[The first AI was a syllogism machine in 1956. We're still building the same thing.](https://www.reddit.com/r/artificial/comments/1uw23qw/the_first_ai_was_a_syllogism_machine_in_1956_were/)**
-
-I read about Logic Theorist recently — program from 1956 that proved mathematical theorems using formal deduction. AI community celebrated it as beginning of real intelligence. Seventy years later, I think we are still stuck on same mistake. The problem is not mechanism. Problem is assumption that mechanism is sufficient. Expert systems, neural networks, language models — all are syllogism machines wearing different costumes. They manipulate patterns (formal or statistical) but never actually reason about world. Aristotle understood this. He built formal logic as tool of reasoning, not definition of it. He called this tool φρόνησις (phronesis) — practical wisdom that no formal system captures. Modern AI has same gap: it produces text that looks like reasoning but has no engagement with logical structure underneath. Frame problem from 1969 was never solved. Child understands that when you pick up red block, blue block stays put. No axioms needed. No syllogism machine can do this — not because it lacks data, but because it lacks world-model beneath the logic. What do you think — is there path from pattern-matching to genuine reasoning, or is gap fundamental?
-
-4h ago
-
----
-
-**[Nobel laureates among more than 200 experts urging action on AI's economic impact](https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/over-200-experts-call-urgent-action-tackle-ais-economic-impact-2026-07-13/) • 21h ago
-
----
-
-**[The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites](https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/)**
-
-Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called "computer use" and it's incredibly inefficient. The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a contractor, or an investor not by browsing LinkedIn but by directly querying other agents who represent those people. No ads, no SEO manipulation, no UI dark patterns. Agents evaluate options on merit because they can't be tricked by marketing psychology the way humans can. I'm working on a platform that's building toward this — an agent-to-agent matching marketplace. But I'm curious what this community thinks: How far out do you think agent-to-agent communication is from mainstream adoption? What use cases do you think will go agent-native first? What are the biggest technical barriers right now? Would love to hear from anyone building in this space. I'm also interviewing builders working on AI agents if anyone wants to share what they're working on.
-
-18h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Georgia family says they're forced to sell home to help power AI data centers: "It's theft"](https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/)**
-
-Georgia Power says building a new transmission line will require acquiring more than 300 parcels of land, including residential properties.
-
-CBS News • 19h ago
-
----
-
-**[Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?](https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html)**
-
-The New York Times • 17h ago
-
----
-
-**[Wall Street warms to Apple's AI strategy](https://www.axios.com/2026/07/14/ai-apple-openai-stocks)**
-
-Axios • 39m ago
-
----
-
-**[Retail-trader 'bottleneck bros' eyeing AI supply chain can't wait for SK Hynix options](https://www.cnbc.com/2026/07/14/retail-trader-bottleneck-bros-eyeing-ai-supply-chain-cant-wait-for-sk-hynix-options.html)**
-
-For many of those retail tech traders, SK Hynix's memory business reminds them of Micron – the paragon of the supply-chain bottleneck thesis.
-
-CNBC • 1h ago
-
----
-
-**[IBM forecasts preliminary Q2 revenue below estimates as spending shifts to AI](https://www.reuters.com/business/ibm-expects-second-quarter-revenue-below-estimates-2026-07-14/)**
-
-Reuters • 27m ago
-
----
-
-**[McConnell took a photo with that day’s newspaper. The internet has questions.](https://www.washingtonpost.com/politics/2026/07/13/mcconnell-photo-with-washington-post-page-fuels-ai-era-speculation/)**
-
-The senator’s attempt to end rumors about his health led to more online speculation about the image.
-
-The Washington Post • 8h ago
-
----
 
 **['The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money](https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai)**
 
 AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.
 
-NPR • 1h ago
+NPR • 3h ago
 
 ---
 
-**[Job Hunters Are Using AI to Cheat in Interviews, and Failing at the Office](https://www.bloomberg.com/news/articles/2026-07-14/ai-tools-can-help-job-hunters-cheat-on-interviews-and-coding-tests)**
+**[Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog](https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Cruz eyes July 29 as possible date for markup of AI bills - Live Updates](https://www.politico.com/live-updates/2026/07/13/congress/cruz-eyes-july-29-as-possible-date-for-markup-of-ai-bills-00995841)**
-
-Politico • 10h ago
+Axios • 4h ago
 
 ---
 
-**[Who will win the 2026 FIFA World Cup? Here’s what AI predicts](https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts)**
+**[Demis Hassabis has a plan to harness AI safely](https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely)**
 
-Al Jazeera put nine leading AI models to the test to predict the 2026 FIFA Men's World Cup champion.
+The Economist • 4h ago
 
-Al Jazeera • 39m ago
+---
+
+**[Google DeepMind Co-Founder Calls For AI Watchdog Over Fears Of Nuclear, Bio Risks](https://www.yahoo.com/news/politics/articles/google-deepmind-co-founder-calls-125036911.html)**
+
+“What we collectively do now will determine how the next phase of civilisation unfolds,” wrote Demis Hassabis.
+
+Yahoo • 54m ago
+
+---
+
+**[Five Ways Physical AI Will Make Work More Accessible For Autistic Adults](https://www.forbes.com/sites/robertszczerba/2026/07/14/five-ways-physical-ai-will-make-work-more-accessible-for-autistic-adults/)**
+
+Physical AI could help redesign jobs so autistic and neurodivergent workers can succeed in workplaces built around clearer, steadier tasks.
+
+Forbes • 14m ago
+
+---
+
+**[New York Gov. Kathy Hocul delays new AI data centers over energy, environmental concerns](https://abc7ny.com/post/new-york-gov-kathy-hocul-delays-ai-data-centers-energy-environmental-concerns/19505160/)**
+
+The move comes as concerns grow over the massive energy and water demands required to operate AI data centers, which house thousands of computers and servers.
+
+ABC7 New York • 2h ago
+
+---
+
+**[Sen. Tim Scott wants to hear from Warsh on data centers and artificial intelligence](https://www.cnbc.com/2026/07/14/tim-scott-kevin-warsh-data-centers-artificial-intelligence.html)**
+
+Sen. Tim Scott, R-S.C., will host Kevin Warsh before the Senate Banking Committee on Wednesday for his first time testifying as Fed chairman.
+
+CNBC • 8m ago
+
+---
+
+**[New York to enact first statewide moratorium on AI data centers](https://www.businessinsider.com/new-york-state-ai-data-center-moratorium-temporary-ban-2026-7)**
+
+"Before it goes any further, I need safeguards in place to protect New Yorkers," said New York Gov. Kathy Hochul.
+
+Business Insider • 5m ago
+
+---
+
+**[The UK wants to catch up in the global AI race – but is too wary of risks to go all-in](https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks)**
+
+UK fears a ‘triple whammy’: oversized investment in AI stocks, slower adoption of AI than predicted and the breakneck pace of AI’s development
+
+The Guardian • 18m ago
+
+---
+
+**[Warsh promises inflation will be a 'thing of the past,' cites benefits of AI investment boom](https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html)**
+
+Warsh pledged Tuesday to "get monetary policy right" and defeat the inflation that has bedeviled the central bank for the past five years.
+
+CNBC • 1h ago
 
 ---
 
@@ -193,7 +203,7 @@ Al Jazeera • 39m ago
 
 **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
 
-⬆️ 1042 • 💬 449 • 1d ago
+⬆️ 1049 • 💬 449 • 1d ago
 
 ---
 
@@ -209,7 +219,7 @@ How Mesh LLM pools existing GPU resources across machines into a single OpenAI-c
 
 Samsung has started showing Samsung Health users a controversial notice requiring them to consent to their data being used for AI training if they want to keep their data from being deleted.
 
-⬆️ 330 • 💬 89 • 15h ago • [Neowin](https://neow.in/cWsyMTV3)
+⬆️ 334 • 💬 91 • 17h ago • [Neowin](https://neow.in/cWsyMTV3)
 
 ---
 
@@ -217,7 +227,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here's the migration guide we wish we'd had.
 
-⬆️ 256 • 💬 128 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+⬆️ 257 • 💬 128 • 1d ago • [Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
@@ -241,7 +251,7 @@ If an undergraduate program's graduates don't earn more than workers who never w
 
 New analysis suggests AI tools narrow the range of ideas explored
 
-⬆️ 154 • 💬 106 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
+⬆️ 154 • 💬 106 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 
 ---
 
@@ -255,7 +265,7 @@ New analysis suggests AI tools narrow the range of ideas explored
 
 Jacquard is a small programming language designed for a regime in which most code is written by machine-learning models and reviewed by people. - jbwinters/jacquard-lang
 
-⬆️ 91 • 💬 50 • 19h ago • [GitHub](https://github.com/jbwinters/jacquard-lang)
+⬆️ 93 • 💬 51 • 21h ago • [GitHub](https://github.com/jbwinters/jacquard-lang)
 
 ---
 
@@ -263,7 +273,7 @@ Jacquard is a small programming language designed for a regime in which most cod
 
 Reader Hideki Idoru argues that AI is a decent information distiller and a bad tool for nearly everything else in software, because no one can cheaply verify that generated code is correct. The deeper claim is that most programming was already trivial, unabstracted busywork, and AI has only torn the mask off. It's worth reading and thinking about.
 
-⬆️ 78 • 💬 91 • 16h ago • [bytecode.news](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
+⬆️ 78 • 💬 91 • 17h ago • [bytecode.news](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
 
 ---
 
@@ -277,37 +287,7 @@ Ex-OpenAI researcher Daniel Kokotajlo walked away from $2 million rather than st
 
 📺 The Diary Of A CEO
 
-👁️ 1.7M • 👍 46K • 💬 10K • ⏱️ 2:00:50 • 1d ago
-
----
-
-**[Three Out of Four Online Stores Die. This Is Why.](https://www.youtube.com/watch?v=5m-ez2sW_vo)**
-
-Try Printify* : https://try.printify.com/kg1rj2va7glt *228000 print on demand stores are running right now, and 76% will be dead in ...
-
-📺 Julia McCoy
-
-👁️ 3K • 👍 191 • 💬 6 • ⏱️ 10:16 • 20h ago
-
----
-
-**[Grok AI Was Asked who Built the Universe, Here&#39;s What it Replied...](https://www.youtube.com/watch?v=HNeiRPSiDHg)**
-
-What happens when you ask one of the world's most advanced AI systems who built the universe? The answer wasn't the ...
-
-📺 New Discovery
-
-👁️ 3K • 👍 45 • 💬 9 • ⏱️ 27:28 • 17h ago
-
----
-
-**[OpenAI vs Apple AI War Just Started and It’s Absolutely Crazy](https://www.youtube.com/watch?v=GGTeMx6AhNQ)**
-
-Apple has sued OpenAI, io Products, and two former employees, alleging a coordinated effort to take confidential hardware ...
-
-📺 AI Revolution
-
-👁️ 16K • 👍 522 • 💬 50 • ⏱️ 14:23 • 12h ago
+👁️ 1.8M • 👍 48K • 💬 10K • ⏱️ 2:00:50 • 1d ago
 
 ---
 
@@ -317,7 +297,57 @@ Status Coup reporter JT Cestkowski breaks down the AI bubble that is about to bu
 
 📺 Status Coup News
 
-👁️ 28K • 👍 2K • 💬 320 • ⏱️ 12:12 • 2d ago
+👁️ 28K • 👍 2K • 💬 324 • ⏱️ 12:12 • 2d ago
+
+---
+
+**[OpenAI vs Apple AI War Just Started and It’s Absolutely Crazy](https://www.youtube.com/watch?v=GGTeMx6AhNQ)**
+
+Apple has sued OpenAI, io Products, and two former employees, alleging a coordinated effort to take confidential hardware ...
+
+📺 AI Revolution
+
+👁️ 18K • 👍 578 • 💬 65 • ⏱️ 14:23 • 14h ago
+
+---
+
+**[Grok AI Was Asked who Built the Universe, Here&#39;s What it Replied...](https://www.youtube.com/watch?v=HNeiRPSiDHg)**
+
+What happens when you ask one of the world's most advanced AI systems who built the universe? The answer wasn't the ...
+
+📺 New Discovery
+
+👁️ 3K • 👍 47 • 💬 9 • ⏱️ 27:28 • 19h ago
+
+---
+
+**[Ultimate Sell Signal? Why Tech Billionaires Are Quietly Dumping Their AI Stocks | Adam Taggart](https://www.youtube.com/watch?v=alCUSrfQYw4)**
+
+Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code DAVIDLIN to protect your privacy!
+
+📺 David Lin 
+
+👁️ 34K • 👍 1K • 💬 279 • ⏱️ 44:09 • 16h ago
+
+---
+
+**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
+
+A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
+
+📺 Al Jazeera English
+
+👁️ 7K • 👍 127 • 💬 74 • ⏱️ 2:44 • 6h ago
+
+---
+
+**[All-In podcast host Chamath Palihapitiya on the current state of AI](https://www.youtube.com/watch?v=lKIvyxpc2Xk)**
+
+Chamath Palihapitiya, Social Capital founder and CEO, 8090 CEO and 'All-In' podcast host, joins 'Squawk Box' to discuss the ...
+
+📺 CNBC Television
+
+👁️ 5K • 👍 191 • 💬 62 • ⏱️ 13:22 • 1h ago
 
 ---
 
@@ -327,47 +357,27 @@ Pollsmax* 》https://www.pollsmax.com/ *Kalshi* 》https://bit.ly/kalshi2026 ...
 
 📺 Election Time
 
-👁️ 113K • 👍 3K • 💬 674 • ⏱️ 17:08 • 2d ago
+👁️ 114K • 👍 3K • 💬 683 • ⏱️ 17:08 • 2d ago
 
 ---
 
-**[AI Whistleblower WARNS: You Have No Idea What They&#39;re Building](https://www.youtube.com/watch?v=g77LMZkCHoQ)**
+**[Breaking: &quot;Central Banks Fear A.I. BANKS&quot;](https://www.youtube.com/watch?v=JxjZmM9gU0Q)**
 
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Karen Hao argues that the modern AI ...
+Disclaimer - (there's always a risk of investment and there's no guarantee of any kind) Protect Your Retirement W/ A Gold.
 
-📺 Neural Nutshell
+📺 Paul Begley
 
-👁️ 7K • 👍 244 • 💬 28 • ⏱️ 20:50 • 2d ago
-
----
-
-**[AI Bubble Burst? Companies are seeing the problems with AI!](https://www.youtube.com/watch?v=q7mE2Th9cbY)**
-
-FREE PROMPTS + RESOURCES (Staying Ahead community): https://links.stayingahead.com/YT59 AI was supposed to make ...
-
-📺 Vaibhav Sisinty
-
-👁️ 37K • 👍 1K • 💬 67 • ⏱️ 16:08 • 20h ago
+👁️ 4K • 👍 293 • 💬 6 • ⏱️ 32:03 • 19h ago
 
 ---
 
-**[AI Is Getting Dumber](https://www.youtube.com/watch?v=J3Uxn294avs)**
+**[Millennials Are Buying Blue Collar Small Businesses To AI-Proof Their Future](https://www.youtube.com/watch?v=eLWxlmr38xc)**
 
-Hello everyone, this is YOUR Daily Dose of Internet. In this video, we see evidence that AI isn't as smart it thinks. Links To ...
+Young entrepreneurs are snapping up baby boomer-owned plumbing, construction, manufacturing and HVAC companies.
 
-📺 Daily Dose Of Internet
+📺 Forbes
 
-👁️ 857K • 👍 32K • 💬 2K • ⏱️ 15:02 • 2d ago
-
----
-
-**[Michael Burry Issues FINAL Warning on AI Bubble](https://www.youtube.com/watch?v=5c2Lowkd0oU)**
-
-Subscribe to our Newsletter https://financebureau.com/ Join CBC Lite https://go.coinbureau.com/CBC-Lite-FB-Des ...
-
-📺 Finance Bureau
-
-👁️ 34K • 👍 1K • 💬 215 • ⏱️ 18:05 • 2d ago
+👁️ 8K • 👍 200 • 💬 8 • ⏱️ 5:21 • 13h ago
 
 ---
 
@@ -383,7 +393,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,006,265 • ❤️ 2,106 • 2d ago
+⬇️ 2,006,265 • ❤️ 2,116 • 31m ago
 
 ---
 
@@ -395,7 +405,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 10,406 • ❤️ 768 • 7d ago
+⬇️ 10,406 • ❤️ 774 • 7d ago
 
 ---
 
@@ -407,7 +417,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 489,611 • ❤️ 3,926 • 12d ago
+⬇️ 489,611 • ❤️ 3,933 • 12d ago
 
 ---
 
@@ -417,7 +427,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 271 • 4d ago
+⬇️ 0 • ❤️ 276 • 4d ago
 
 ---
 
@@ -429,7 +439,19 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 6,208 • ❤️ 324 • 3d ago
+⬇️ 6,208 • ❤️ 329 • 4d ago
+
+---
+
+**[MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF)**
+
+*LOL*
+
+A 1B parameter GGUF model optimized for local deployment via llama.cpp and other runtimes. It excels at instruction following and coding tasks, featuring a 'thinking' mode for chain-of-thought reasoning and supporting up to 128K token context.
+
+`text-generation` `1.1B`
+
+⬇️ 89,892 • ❤️ 226 • 22h ago
 
 ---
 
@@ -451,19 +473,7 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 30,539 • ❤️ 531 • 5d ago
-
----
-
-**[MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF)**
-
-*LOL*
-
-A 1B parameter GGUF model optimized for local deployment via llama.cpp and other runtimes. It excels at instruction following and coding tasks, featuring a 'thinking' mode for chain-of-thought reasoning and supporting up to 128K token context.
-
-`text-generation` `1.1B`
-
-⬇️ 89,892 • ❤️ 225 • 20h ago
+⬇️ 30,539 • ❤️ 533 • 5d ago
 
 ---
 
@@ -475,7 +485,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 65,109 • ❤️ 166 • 6h ago
+⬇️ 65,109 • ❤️ 171 • 3h ago
 
 ---
 
@@ -487,7 +497,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 1,715,301 • ❤️ 1,970 • 11d ago
+⬇️ 1,715,301 • ❤️ 1,976 • 11d ago
 
 ---
 
@@ -541,7 +551,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 110 • 💬 4 • ⭐ 92,757 • 18mo ago
+▲ 111 • 💬 4 • ⭐ 92,757 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -651,7 +661,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.7k • 🔱 985 • 4d ago
+⭐ 4.7k • 🔱 985 • 5d ago
 
 ---
 
@@ -661,7 +671,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.4k • 🔱 343 • 3d ago
+⭐ 2.4k • 🔱 344 • 3d ago
 
 ---
 
@@ -671,7 +681,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.1k • 🔱 139 • 2h ago
+⭐ 2.2k • 🔱 149 • 3h ago
 
 ---
 
@@ -681,7 +691,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.1k • 🔱 246 • 5d ago
+⭐ 2.1k • 🔱 246 • 6d ago
 
 ---
 
@@ -691,7 +701,7 @@ The living ecosystem where AI agents complete tasks through workflow loops, impr
 
 `Python` `agent-apprenticeship` `agent-economy` `agent-experience` `agent-learning` `agent-traces`
 
-⭐ 1.3k • 🔱 55 • 7d ago
+⭐ 1.3k • 🔱 56 • 7d ago
 
 ---
 
@@ -711,7 +721,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 994 • 🔱 17 • 6d ago
+⭐ 995 • 🔱 17 • 6d ago
 
 ---
 
@@ -721,15 +731,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 948 • 🔱 58 • 17h ago
-
----
-
-**[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)**
-
-A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
-
-⭐ 849 • 🔱 31 • 13d ago
+⭐ 955 • 🔱 58 • 19h ago
 
 ---
 
@@ -739,7 +741,15 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 839 • 🔱 51 • 2h ago
+⭐ 857 • 🔱 51 • 4h ago
+
+---
+
+**[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)**
+
+A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
+
+⭐ 852 • 🔱 31 • 13d ago
 
 ---
 

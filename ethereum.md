@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T11:54:33.710506+00:00'
+updated: '2026-07-14T13:44:46.965511+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 11:54 UTC  
+**Last Updated:** July 14, 2026 at 13:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,796.86
+### $1,862.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +3.1%  
-**30d:** +0.1%  
-**90d:** -23.4%  
-**1y:** -42.7%  
+**24h:** +5.0%  
+**7d:** +7.2%  
+**30d:** +4.1%  
+**90d:** -20.4%  
+**1y:** -40.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.76B
+**Market Cap:** $226.22B
 Rank #2
 
 **Circulating Supply:** 120,682,986 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-62.1%
 
 **All-Time Low:** $0.43
-+412839.2%
++432830.9%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, Devcon 8 speaker applications open
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-1/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-1/) • 4d ago
 
 ---
 
@@ -150,27 +150,11 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
-**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
-
-Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
-
-The Block • 13h ago
-
----
-
 **[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
 
 The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
 
-CoinDesk • 21h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
-
-PR Newswire • 23h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -178,15 +162,39 @@ PR Newswire • 23h ago
 
 According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://finance.yahoo.com/markets/crypto/articles/robinhood-chain-could-ethereums-biggest-090715941.html)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
 
-Robinhood Chain is an Ethereum Layer-2 designed for tokenized real-world assets, starting with tokenized US stocks. The network generated roughly $843,000 in user fees while ...
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
 
-Yahoo Finance • 2h ago
+PR Newswire • 1d ago
+
+---
+
+**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
+
+Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
+
+The Block • 15h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, July 14, 2026:](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html)**
+
+Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday's opening price. The price of bitcoin firmed this morning to $62,865.44. Ethereum opened at $1,774.10, down 1.8% from yesterday's open. The price of ethereum adjusted to $1,785.68 by 8:21 a.m. ET.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Prediction: This Cryptocurrency Could Overtake Bitcoin and Ethereum Combined in Total Value](https://finance.yahoo.com/markets/crypto/articles/prediction-cryptocurrency-could-overtake-bitcoin-132000769.html)**
+
+A pivot into decentralized finance (DeFi) could be the catalyst to send the price of Solana soaring.
+
+Yahoo Finance • 24m ago
 
 ---
 
@@ -194,7 +202,7 @@ Yahoo Finance • 2h ago
 
 Crypto investment products attracted $281.8 million in net inflows last week, ending an eight-week streak of outflows. Spot Bitcoin ETFs recorded $197.4 million in weekly ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -202,29 +210,21 @@ Yahoo Finance • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 3h ago
 
 ---
 
-**[Ethereum Is Showing Resilience, but a Key Test at $1,850 Lies Ahead](https://www.investing.com/analysis/ethereum-is-showing-resilience-but-a-key-test-at-1850-lies-ahead-200683880)**
+**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
 
-Investing.com • 3h ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-stay-under-pressure-as-us-and-iran-exchange-fresh-attacks-202607131230)**
-
-The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
-
-FXStreet • 23h ago
+CCN.com • 4h ago
 
 ---
 
-**[Bitcoin And Ethereum: June Was Not A Clean Recovery](https://seekingalpha.com/article/4921666-bitcoin-ethereum-june-was-not-a-clean-recovery)**
+**[EthSystems Launches to Build Privacy Solutions for Institutions on Ethereum](https://investingnews.com/ethsystems-launches-to-build-privacy-solutions-for-institutions-on-ethereum/)**
 
-BTC kept meeting absorption in June, and ETH came closer to follow-through. Price may give the first impression, but the stack decides whether that impression holds.
+Founded by the team behind the Ethereum Foundation's Institutional Privacy Task Force, EthSystems is building privacy and compliance technology for EthereumKey backers include Bitmine, Sharplink and Joe LubinEthSystems, an engineering and research company (the "Company"), today announced its publi...
 
-Seeking Alpha • 16h ago
+Investing News Network • 50m ago
 
 ---
 
@@ -232,13 +232,23 @@ Seeking Alpha • 16h ago
 
 ## YouTube Videos: "ethereum"
 
+**[⚠️ Ethereum&#39;s Shocking Underperformance](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 314 • 👍 29 • 💬 10 • ⏱️ 5:20 • 1h ago
+
+---
+
 **[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
 
 Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
 
 📺 Coin Bureau Trading
 
-👁️ 826 • 👍 104 • 💬 8 • ⏱️ 14:47 • 5h ago
+👁️ 2K • 👍 186 • 💬 15 • ⏱️ 14:47 • 7h ago
 
 ---
 
@@ -248,27 +258,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 580 • 💬 384 • ⏱️ 13:44 • 1d ago
-
----
-
-**[Kiyosaki Predicts Ethereum Hits 95000 Dollars](https://www.youtube.com/watch?v=rZNaDkGPdY0)**
-
-Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 times return from current prices. His prediction ...
-
-📺 Lark Davis
-
-👁️ 1K • 👍 57 • 💬 11 • ⏱️ 1:10 • 7h ago
-
----
-
-**[Ethereum is breaking up. But there&#39;s... no fighting?](https://www.youtube.com/watch?v=sF3NlQBIQDE)**
-
-Ethereum just got another major shake-up. On June 22, 2026, a group of former Ethereum Foundation researchers launched ...
-
-📺 Tim Ho
-
-👁️ 367 • 👍 17 • 💬 24 • ⏱️ 7:03 • 17h ago
+👁️ 9K • 👍 582 • 💬 385 • ⏱️ 13:44 • 1d ago
 
 ---
 
@@ -278,7 +268,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 584 • 💬 249 • ⏱️ 15:11 • 1d ago
+👁️ 10K • 👍 587 • 💬 249 • ⏱️ 15:11 • 1d ago
+
+---
+
+**[Kiyosaki Predicts Ethereum Hits 95000 Dollars](https://www.youtube.com/watch?v=rZNaDkGPdY0)**
+
+Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 times return from current prices. His prediction ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 82 • 💬 15 • ⏱️ 1:10 • 9h ago
 
 ---
 
@@ -288,17 +288,17 @@ BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 7K • 👍 305 • 💬 184 • ⏱️ 19:28 • 17h ago
+👁️ 7K • 👍 314 • 💬 185 • ⏱️ 19:28 • 19h ago
 
 ---
 
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=SVbJXrUvw40)**
+**[Ethereum is breaking up. But there&#39;s... no fighting?](https://www.youtube.com/watch?v=sF3NlQBIQDE)**
 
-In this video I break down the latest Ethereum price analysis using an Elliott Wave perspective to determine if the current move ...
+Ethereum just got another major shake-up. On June 22, 2026, a group of former Ethereum Foundation researchers launched ...
 
-📺 More Crypto Online
+📺 Tim Ho
 
-👁️ 4K • 👍 177 • 💬 13 • ⏱️ 5:14 • 1d ago
+👁️ 436 • 👍 19 • 💬 24 • ⏱️ 7:03 • 19h ago
 
 ---
 
@@ -308,17 +308,7 @@ Joseph Chalom makes the case that Ethereum has the license to win and is finally
 
 📺 The Rollup
 
-👁️ 15K • 👍 518 • 💬 92 • ⏱️ 29:05 • 2d ago
-
----
-
-**[It&#39;s happening again! BTC &amp; ETH Analysis](https://www.youtube.com/watch?v=xFBh6AVzevo)**
-
-Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord https://discord.com/invite/cobratrades Bitunix- ...
-
-📺 Crypto Cobra
-
-👁️ 2K • 👍 92 • 💬 52 • ⏱️ 18:44 • 17h ago
+👁️ 16K • 👍 527 • 💬 91 • ⏱️ 29:05 • 2d ago
 
 ---
 
@@ -329,6 +319,16 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 📺 Savvy Finance
 
 👁️ 5K • 👍 127 • 💬 28 • ⏱️ 18:37 • 2d ago
+
+---
+
+**[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 9K • 👍 671 • 💬 535 • ⏱️ 24:07 • 2d ago
 
 ---
 
