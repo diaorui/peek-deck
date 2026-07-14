@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T05:52:20.188506+00:00'
+updated: '2026-07-14T08:05:45.017573+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 05:52 UTC  
+**Last Updated:** July 14, 2026 at 08:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ I made a 2dof raspberry pi object tracking robot in c++. It is the second iterat
 
 Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 1d ago
+🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 2d ago
 
 ---
 
@@ -112,79 +112,63 @@ Hey r/robotics ! After months of design and testing, I finally have a working 5-
 
 ## Google News: "robotics"
 
-**[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://cowboystatedaily.com/2026/07/11/uw-prof-robotic-weed-pullers-sprayers-and-cattle-herders-can-work-in-wyoming/)**
-
-From autonomous machines that pull weeds instead of spraying herbicides to robotic platforms that can herd cattle and ultraviolet-light systems that fight…
+**[Here Come The Robots: Robotic Weed-Pullers, Sprayers, Cattle Herders Coming Our Way](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQV9wYUNfSExPQm1MNnBzQXpfXzVHX05udDNkLWJBMktmd3JhLTZxY0tyZ1ZsYXpoX1lnbjM4RW52cWJxRjFPVUhCUDRkeUZaU05WbDdLRGtsalJjNkxfSFZYalVqaUNXZWRVR0diYnRSWlpNOEZRU2VIelE0NnU1SU51SGVDMEZJVi14Q3Y1eXJPUHFWRVNEV0Y2cmhoRWpaQnF2OGR4Wl9SMms4N0ZMd0p4X2lSYm0y?oc=5)**
 
 Cowboy State Daily • 2d ago
 
 ---
 
-**[Robotics CEO fumes after Wired portrays $20K home robot as ‘sexualized’](https://nypost.com/2026/07/13/media/robotics-ceo-fumes-after-wired-portrays-20k-home-robot-as-sexualized/)**
+**[Robotics CEO fumes after Wired portrays $20K home robot as ‘sexualized’](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzBMZF9wZUxfUDQ3N1NRbDRJWVdDS2owNWlsR3hXOWNCNkQxOUNVX3QtZ1ppQjlHaHRHek5RUXlESU4zdzRSMzdENzBfb01ENkZCZy13OWFjSzNNWFVWckFqMm1taC1XMXVYakxsWHY5NTNzUXVlbzU2MEd0RkVKNnZ0cE93MGRXTnJSaUc2R1ZPdjNRS0ROYTVJd0R6Mm1OX1FMc2UxMXo?oc=5)**
 
-Dar Sleeper, vice president of product and design at 1X, blasted Wired magazine over the weekend.
-
-New York Post • 12h ago
+New York Post • 14h ago
 
 ---
 
-**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
+**[How Claude Performs on Robotics Tasks](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91VmFtc1pJZHh6Nmk0MV9TQy1LWmRuTGxwdUlSSkljREEzYjRzSXRnX21tOWxfdFg5QlRDYWNkMUZyRVUtR0xmZXc0UEFPM2tVSU1JZ09OVWFYZ3ZucGdkVzR4TldYeGM?oc=5)**
 
-Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
-
-Anthropic • 4d ago
+Anthropic • 5d ago
 
 ---
 
-**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
+**[New soft sensor can turn touch into robotic action without electronics](https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1ZHckxscEQwc0hFd3Y5Zi1VdmhidGY4eUtWX1pyVWZlclpnRUhRYzNOU25QaGVRaU5KU090SjBUMFVKanpDNWNyeVhYS2o1RFQ4WEdSN0p5TFh4aE1jZjNGYnN5TWVjV0RzQ0czalFZQmdIbUR5ZWlTSWdibXg2cFgySTJmdw?oc=5)**
 
 Tech Xplore • 1d ago
 
 ---
 
-**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
+**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnNZa2p5OXdUR3B3UzZTel9MaTVoOFJteDN5Q21QblJXSDRnc3gtY3J0MF80M21fWTNtZ2lreFBCVS1rSUVCSmtLaDNwX29XeTdVLWhEc3drbUFKejY3OEFBLXBIUWoxOFdkOVpnVkhja3lDSjFmRGM3TENTOUd0VWsxUlZ6QQ?oc=5)**
 
-1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
-
-Business Insider • 20h ago
+Business Insider • 23h ago
 
 ---
 
-**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
+**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHl5SnRoZG9Ld0FDZWd5WnZXQ3Fydk12XzBnU1hLczFzOHBOTlJqLUo1Vy1xSXZBNGJzZjlUMGRfT2VVbzZjM1RLRHpGa3ZCTEQzQV9mRllPandYOS1ENDlWVk1VTDJPd3NkaWVLR19SdHdTbFktcVRQWWhwcm40eF9rN2MxSGkzNU5GaExGRV9xaF82N1VJdmExN2dSMnUzR0VjVWlBTWFFNlBSNzNlUk9WWmw?oc=5)**
 
 Autoblog • 1d ago
 
 ---
 
-**[Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win](https://euromaidanpress.com/2026/07/12/ukraine-is-first-country-to-fund-combat-humanoid-robots-but-its-own-battlefield-says-wheels-still-win/)**
+**[Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWDhYcnVoRUUwcEp4Y3VyWWhKU1BwTmdHN3EwVl9yZm9hN1pCa0RvajFKT1pBYTAxTzVkLTVURHV0UFd1TmM5aFl1N1paVGw5UHFtX1gxOXpCSl94Tzd2REFpZ3lJT0lPbVBHT0w3X1U5TkNvdnF4bDBadUgwV0NqaEttT3BENUJIVTZfWWxVM1kycTFzWEdrU0hpMUxlLVJ4Y0FBa3VRQmxjNzhnQUFtX1lFVnpJcXNsMnV1VkMyM0N1MFVUcEthQmdNN2k5Q21reTI1cVdpcWM?oc=5)**
 
-Ukraine's Brave1 defense cluster opened a grant for domestic bipedal humanoid combat robots under a separate category.
-
-Euromaidan Press • 23h ago
+Euromaidan Press • 1d ago
 
 ---
 
-**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
+**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeEZtX0ViR2Z3VzlBOU5Bb0ZUb0tMUlpzQkhyVDNuV1U1clpBbFNXOXdzQzBXWXhfZE5ac1RmTTFLaWpld1ZRa3doMHRYcTMwTy1FdWx5MEtpdHRBX25UQVZVVm9FMWFhc2VXVEhGcnVmbHlHczlNNEpCMXJ4dTlXOUl2NGJGdDJmbHZUdW9zaWpwM1V5VW1VRmVQS19qWmkzVGlXNjJR?oc=5)**
 
-The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
-
-Inquirer.com • 17h ago
+Inquirer.com • 19h ago
 
 ---
 
-**[Amazon preps robotics-equipped sorting warehouse in Texas](https://www.supplychaindive.com/news/amazon-preps-robotics-equipped-sorting-warehouse-in-texas/824978/)**
-
-The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.
-
-Supply Chain Dive • 15h ago
-
----
-
-**[Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New Details on Upgrading Its Robotics Strategy to the "Four-Core Full-Stack AI" and Q3 Robotics Practical Deployment Campaign](https://finance.yahoo.com/technology/ai/articles/faraday-future-founder-global-ceo-232100898.html)**
-
-LOS ANGELES, July 12, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) ("Faraday Future", "FF" or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global CEO of FF.
+**[Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New Details on Upgrading Its Robotics Strategy to the "Four-Core Full-Stack AI" and Q3 Robotics Practical Deployment Campaign](https://news.google.com/rss/articles/CBMingFBVV95cUxQSktlaFQtSUo0V0RFRWRwVWE2c1RUeklrTF9FR3ZEVGxqYldSeUdrOGluc1dlbDdDYUR2WGpPZlZTZTdONnZ5V1V4c1FVekhCODk4angtNmkzRVN6eUlLd3VKRUtpMEZieG42SnNWOTExTTF1QVprQ0NnZllpRTdvRnNnUjY1b3lUU2RrcjF4dk5yV2M5WGQzMVQzTE55QQ?oc=5)**
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Amazon preps robotics-equipped sorting warehouse in Texas](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHE4WTFQRFE2enZkSlk4VEh1SnZOQkFENkRQRk9JaEN4RTNrZkpKTUFzdkJEOTY2UW5LV01UMTRwNFlKektpSWpCM2VyUXV1WXpmLWhtbW0xSG53NkNMdlFCdmdSY1JFMlh6X0hqanVPRTgyeXJZcHdkSC1GSEY3U2J1cF9jUVFsVzgxS28yMkpnOHZILUpIYlROa21uU2QxOFo1cA?oc=5)**
+
+Supply Chain Dive • 17h ago
 
 ---
 
@@ -198,7 +182,15 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 54K • 👍 916 • 💬 363 • ⏱️ 1:54 • 3d ago
+👁️ 55K • 👍 926 • 💬 369 • ⏱️ 1:54 • 3d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 164K • 👍 6K • 💬 87 • ⏱️ 1:03 • 2d ago
 
 ---
 
@@ -208,7 +200,7 @@ Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech Yo
 
 📺 PRO ROBOTS
 
-👁️ 27K • 👍 792 • 💬 61 • ⏱️ 29:49 • 4d ago
+👁️ 27K • 👍 793 • 💬 61 • ⏱️ 29:49 • 4d ago
 
 ---
 
@@ -218,27 +210,7 @@ Humanoid robots have always felt like a glimpse of the distant future—until no
 
 📺 AI 365
 
-👁️ 39K • 👍 814 • 💬 184 • ⏱️ 11:19 • 3d ago
-
----
-
-**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
-
-In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
-
-📺 DW News
-
-👁️ 43K • 👍 2K • 💬 116 • ⏱️ 2:38 • 3d ago
-
----
-
-**[This is the most advanced robot hand ever invented #shorts](https://www.youtube.com/watch?v=25HKvK7anJg)**
-
-This is the most advanced robot hand ever invented. It's the tendon-based NEO hand from 1X. And it sounds wild to say…but this ...
-
-📺 Kallaway
-
-👁️ 318K • 👍 17K • 💬 762 • ⏱️ 1:25 • 3d ago
+👁️ 40K • 👍 835 • 💬 188 • ⏱️ 11:19 • 3d ago
 
 ---
 
@@ -248,7 +220,17 @@ Putting technology to the test through combat, and connecting the world through 
 
 📺 Unitree Robotics
 
-👁️ 227K • 👍 944 • 💬 155 • ⏱️ 1:10 • 4d ago
+👁️ 297K • 👍 949 • 💬 155 • ⏱️ 1:10 • 4d ago
+
+---
+
+**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
+
+In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
+
+📺 DW News
+
+👁️ 43K • 👍 2K • 💬 122 • ⏱️ 2:38 • 3d ago
 
 ---
 
@@ -258,15 +240,17 @@ Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC dea
 
 📺 Fox Business Clips
 
-👁️ 18K • 👍 280 • 💬 146 • ⏱️ 8:37 • 4d ago
+👁️ 18K • 👍 281 • 💬 146 • ⏱️ 8:37 • 4d ago
 
 ---
 
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+**[Controlling the Robot from Anywhere 🤖🌎 #ros2 #robot #robotics #vpn #maker #wireguard #router #diy](https://www.youtube.com/watch?v=zhf198fhr94)**
 
-📺 Varun Mayya
+In this video, I show you how I created a VPN connection to my own home network using a router that supports hosting a VPN ...
 
-👁️ 162K • 👍 6K • 💬 85 • ⏱️ 1:03 • 2d ago
+📺 Kitajima
+
+👁️ 1K • 👍 9 • ⏱️ 0:29 • 16h ago
 
 ---
 
@@ -276,17 +260,17 @@ In this video, we completely disassemble the Unitree G1 humanoid robot, taking a
 
 📺 Munro Live
 
-👁️ 77K • 👍 2K • 💬 226 • ⏱️ 38:47 • 5d ago
+👁️ 78K • 👍 2K • 💬 226 • ⏱️ 38:47 • 5d ago
 
 ---
 
-**[Humanoid robots complete world-first operation on live pigs | 9 News Australia](https://www.youtube.com/watch?v=2IswgVGlkXo)**
+**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
 
-Humanoid robots controlled by surgeons have completed the world's first operation on live pigs. | *Subscribe and ...
+Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
 
-📺 9 News Australia
+📺 Discovery Australia
 
-👁️ 20K • 👍 71 • 💬 8 • ⏱️ 1:55 • 3d ago
+👁️ 22K • 👍 343 • 💬 7 • ⏱️ 8:20 • 1d ago
 
 ---
 
