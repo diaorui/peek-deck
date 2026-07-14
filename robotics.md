@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T03:21:55.726113+00:00'
+updated: '2026-07-14T05:52:20.188506+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 03:21 UTC  
+**Last Updated:** July 14, 2026 at 05:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
 
-22h ago
+1d ago
 
 ---
 
@@ -124,15 +124,15 @@ Cowboy State Daily • 2d ago
 
 Dar Sleeper, vice president of product and design at 1X, blasted Wired magazine over the weekend.
 
-New York Post • 9h ago
+New York Post • 12h ago
 
 ---
 
-**[AI agents create virtual playgrounds to help robots get crucial training data](https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713)**
+**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
 
-The “SceneSmith” system developed by MIT CSAIL researchers uses AI agents to generate lifelike scenes of indoor environments like kitchens and hotels to help robots simulate everyday chores. These 3D worlds are more realistic and diverse than prior attempts, helping engineers save more time on real-world testing.
+Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
 
-MIT News • 8h ago
+Anthropic • 4d ago
 
 ---
 
@@ -142,19 +142,11 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction](https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/)**
-
-Robotics researchers are trying to prove that lighter-than-air robots could excel at emotional connection.
-
-CNET • 1d ago
-
----
-
 **[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
 
 1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
 
-Business Insider • 18h ago
+Business Insider • 20h ago
 
 ---
 
@@ -168,7 +160,15 @@ Autoblog • 1d ago
 
 Ukraine's Brave1 defense cluster opened a grant for domestic bipedal humanoid combat robots under a separate category.
 
-Euromaidan Press • 20h ago
+Euromaidan Press • 23h ago
+
+---
+
+**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
+
+The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
+
+Inquirer.com • 17h ago
 
 ---
 
@@ -176,15 +176,15 @@ Euromaidan Press • 20h ago
 
 The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.
 
-Supply Chain Dive • 13h ago
+Supply Chain Dive • 15h ago
 
 ---
 
-**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
+**[Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New Details on Upgrading Its Robotics Strategy to the "Four-Core Full-Stack AI" and Q3 Robotics Practical Deployment Campaign](https://finance.yahoo.com/technology/ai/articles/faraday-future-founder-global-ceo-232100898.html)**
 
-Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
+LOS ANGELES, July 12, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) ("Faraday Future", "FF" or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global CEO of FF.
 
-Anthropic • 4d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,37 +198,27 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 53K • 👍 900 • 💬 369 • ⏱️ 1:54 • 3d ago
+👁️ 54K • 👍 916 • 💬 363 • ⏱️ 1:54 • 3d ago
 
 ---
 
-**[The Pint-Sized Robot Kicks Harder Than You&#39;d Expect #robot #robotics #humanoidrobot](https://www.youtube.com/watch?v=gM0ljUJRdcQ)**
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
-Booster Robotics' flagship humanoid robot is growing up. The three-year-old Chinese startup just launched the Booster T2, ...
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
-📺 Kalil 4.0
+📺 PRO ROBOTS
 
-👁️ 1K • 👍 58 • 💬 2 • ⏱️ 1:07 • 11h ago
-
----
-
-**[Controlling the Robot from Anywhere 🤖🌎 #ros2 #robot #robotics #vpn #maker #wireguard #router #diy](https://www.youtube.com/watch?v=zhf198fhr94)**
-
-In this video, I show you how I created a VPN connection to my own home network using a router that supports hosting a VPN ...
-
-📺 Kitajima
-
-👁️ 1K • 👍 8 • ⏱️ 0:29 • 11h ago
+👁️ 27K • 👍 792 • 💬 61 • ⏱️ 29:49 • 4d ago
 
 ---
 
-**[I Built a Robot Arm to Run My Coffee Shop](https://www.youtube.com/watch?v=fB3K0D5G6mg)**
+**[China Just Dropped An Ultra Bionic AI It&#39;s Disturbingly Human !](https://www.youtube.com/watch?v=SHkZYuz-MxQ)**
 
-I gave Claude a robot arm and let it run a coffee shop ☕   Full video on the main channel. #ai #robotics #claudeai.
+Humanoid robots have always felt like a glimpse of the distant future—until now. China has just unveiled the UBTECH UWORLD ...
 
-📺 Coding with Lewis
+📺 AI 365
 
-👁️ 6K • 👍 316 • 💬 5 • ⏱️ 1:19 • 11h ago
+👁️ 39K • 👍 814 • 💬 184 • ⏱️ 11:19 • 3d ago
 
 ---
 
@@ -238,35 +228,7 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 42K • 👍 2K • 💬 116 • ⏱️ 2:38 • 3d ago
-
----
-
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
-
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
-
-📺 Munro Live
-
-👁️ 76K • 👍 2K • 💬 226 • ⏱️ 38:47 • 5d ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 159K • 👍 6K • 💬 83 • ⏱️ 1:03 • 2d ago
-
----
-
-**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
-
-Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
-
-📺 Discovery Australia
-
-👁️ 20K • 👍 322 • 💬 6 • ⏱️ 8:20 • 1d ago
+👁️ 43K • 👍 2K • 💬 116 • ⏱️ 2:38 • 3d ago
 
 ---
 
@@ -276,17 +238,55 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 315K • 👍 17K • 💬 758 • ⏱️ 1:25 • 3d ago
+👁️ 318K • 👍 17K • 💬 762 • ⏱️ 1:25 • 3d ago
 
 ---
 
-**[Why I DON’T like servo grippers #robotics #mechatronics](https://www.youtube.com/watch?v=sQ_Dd227U50)**
+**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
 
-Sharing an example of a pneumatic gripper that belongs in our robotics projects and in some cases, should replace the ...
+Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
 
-📺 David Malawey
+📺 Unitree Robotics
 
-👁️ 11K • 👍 587 • 💬 32 • ⏱️ 1:00 • 1d ago
+👁️ 227K • 👍 944 • 💬 155 • ⏱️ 1:10 • 4d ago
+
+---
+
+**[Agility Robotics CEO addresses fears about robots replacing human workers](https://www.youtube.com/watch?v=KYF1CKxTzSw)**
+
+Agility Robotics CEO Peggy Johnson discusses the company's $2.5 billion SPAC deal and its humanoid robot, Digit. She explains ...
+
+📺 Fox Business Clips
+
+👁️ 18K • 👍 280 • 💬 146 • ⏱️ 8:37 • 4d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 162K • 👍 6K • 💬 85 • ⏱️ 1:03 • 2d ago
+
+---
+
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+
+📺 Munro Live
+
+👁️ 77K • 👍 2K • 💬 226 • ⏱️ 38:47 • 5d ago
+
+---
+
+**[Humanoid robots complete world-first operation on live pigs | 9 News Australia](https://www.youtube.com/watch?v=2IswgVGlkXo)**
+
+Humanoid robots controlled by surgeons have completed the world's first operation on live pigs. | *Subscribe and ...
+
+📺 9 News Australia
+
+👁️ 20K • 👍 71 • 💬 8 • ⏱️ 1:55 • 3d ago
 
 ---
 
