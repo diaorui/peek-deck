@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T18:03:43.840013+00:00'
+updated: '2026-07-14T19:51:34.029703+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 18:03 UTC  
+**Last Updated:** July 14, 2026 at 19:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,17 +120,49 @@ Anthropic • 5d ago
 
 ---
 
+**[Fibrous Muscles For Humanoid Robotics](https://hackaday.com/2026/07/14/fibrous-muscles-for-humanoid-robotics/)**
+
+At the current rate of robotics development, you might assume that we’re close to Skynet taking over. However, while we  likely wouldn’t do well in a physical fight against a robot, we …
+
+Hackaday • 4h ago
+
+---
+
+**[Startup Upset After Journalist Points Out How Creepy Its Humanoid Robots’s Hands Are](https://futurism.com/robots-and-machines/robot-startup-upset-journalist-creepy-hands)**
+
+A vice president of robotics startup 1X was not happy with some coverage of the company's decidedly sensual humanoid robot.
+
+Futurism • 4h ago
+
+---
+
+**[Watch: New video-action world model boosts robot intelligence](https://interestingengineering.com/ai-robotics/watch-worlds-first-embodied-native-ai-model-promises-smarter-more-capable-robots)**
+
+New embodied AI world model predicts action outcomes in real time, improving robot reasoning, control, and adaptation in physical tasks.
+
+Interesting Engineering • 23h ago
+
+---
+
+**[Robotics CEO fumes after Wired portrays $20K home robot as ‘sexualized’](https://nypost.com/2026/07/13/media/robotics-ceo-fumes-after-wired-portrays-20k-home-robot-as-sexualized/)**
+
+Dar Sleeper, vice president of product and design at 1X, blasted Wired magazine over the weekend.
+
+New York Post • 1d ago
+
+---
+
 **[A manifesto for Sustainability Robotics](https://www.nature.com/articles/s42256-026-01260-6)**
 
 Nature • 1d ago
 
 ---
 
-**[Better Elon Musk Buy: SpaceX’s Ascent or Tesla’s Robotics Revolution?](https://finance.yahoo.com/technology/articles/better-elon-musk-buy-spacex-123352756.html)**
+**[AI agents create virtual playgrounds to help robots get crucial training data](https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713)**
 
-SpaceX is tantalizing early investors with an $800 analyst price target while Tesla quietly pivots toward a robotics revolution that could reshape daily life faster than any orbital data center. Picking the right Elon Musk bet right now might come down to one critical question about timing.
+The “SceneSmith” system developed by MIT CSAIL researchers uses AI agents to generate lifelike scenes of indoor environments like kitchens and hotels to help robots simulate everyday chores. These 3D worlds are more realistic and diverse than prior attempts, helping engineers save more time on real-world testing.
 
-Yahoo Finance • 5h ago
+MIT News • 1d ago
 
 ---
 
@@ -140,47 +172,19 @@ Tech Xplore • 2d ago
 
 ---
 
+**[Better Elon Musk Buy: SpaceX’s Ascent or Tesla’s Robotics Revolution?](https://finance.yahoo.com/technology/articles/better-elon-musk-buy-spacex-123352756.html)**
+
+SpaceX is tantalizing early investors with an $800 analyst price target while Tesla quietly pivots toward a robotics revolution that could reshape daily life faster than any orbital data center. Picking the right Elon Musk bet right now might come down to one critical question about timing.
+
+Yahoo Finance • 7h ago
+
+---
+
 **[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
 
 1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
 
 Business Insider • 1d ago
-
----
-
-**[The Future of Warfare Is Autonomous](https://thedispatch.com/article/autonomous-weapons-future-warfare-china/)**
-
-Can the U.S. military change its culture to keep up?
-
-The Dispatch • 9h ago
-
----
-
-**[Humanoid Robots Just Performed Surgery Using Standard Medical Tools](https://gizmodo.com/humanoid-robots-just-performed-surgery-using-standard-medical-tools-2000785159)**
-
-Gizmodo • 3h ago
-
----
-
-**[Amazon preps robotics-equipped sorting warehouse in Texas](https://www.supplychaindive.com/news/amazon-preps-robotics-equipped-sorting-warehouse-in-texas/824978/)**
-
-The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.
-
-Supply Chain Dive • 1d ago
-
----
-
-**[5 Best Robotics ETFs to Buy in 2026 - U.S. News](https://money.usnews.com/investing/articles/best-robotics-etfs-to-buy)**
-
-U.S. News - Money • 22h ago
-
----
-
-**[Apple looks to expand its robotics team ahead of potential product launch (AAPL:NASDAQ)](https://seekingalpha.com/news/4613697-apple-looks-to-expand-its-robotics-team-ahead-of-potential-product-launch)**
-
-Apple (AAPL) is hiring for high-impact robotics roles in Cupertino as CEO John Ternus takes over.
-
-Seeking Alpha • 34m ago
 
 ---
 
@@ -194,7 +198,17 @@ Titanic's Jack and Rose became talking robot faces from a single image. A team f
 
 📺 Kalil 4.0
 
-👁️ 172 • 👍 5 • 💬 1 • ⏱️ 0:46 • 1h ago
+👁️ 505 • 👍 19 • 💬 4 • ⏱️ 0:46 • 3h ago
+
+---
+
+**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
+
+A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
+
+📺 Al Jazeera English
+
+👁️ 18K • 👍 198 • 💬 102 • ⏱️ 2:44 • 12h ago
 
 ---
 
@@ -204,7 +218,33 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 56K • 👍 946 • 💬 398 • ⏱️ 1:54 • 4d ago
+👁️ 57K • 👍 967 • 💬 402 • ⏱️ 1:54 • 4d ago
+
+---
+
+**[🔥🤖Wait... Is This a Robot or a Transformer? PrimeBOT T1 Is Insane!#robot #humanoidrobot #robotics](https://www.youtube.com/watch?v=viKxlWlO8zo)**
+
+📺 XRoboHub
+
+👁️ 777 • 👍 28 • 💬 1 • ⏱️ 0:22 • 2h ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 174K • 👍 6K • 💬 89 • ⏱️ 1:03 • 3d ago
+
+---
+
+**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
+
+Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
+
+📺 Unitree Robotics
+
+👁️ 696K • 👍 968 • 💬 156 • ⏱️ 1:10 • 5d ago
 
 ---
 
@@ -214,43 +254,27 @@ In India, thousands of factory workers are helping to build the next generation 
 
 📺 DW News
 
-👁️ 44K • 👍 2K • 💬 127 • ⏱️ 2:38 • 4d ago
+👁️ 44K • 👍 2K • 💬 128 • ⏱️ 2:38 • 4d ago
 
 ---
 
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+**[3 Reasons to Be Cautious About Serve Robotics](https://www.youtube.com/watch?v=xyqNe1kUU14)**
 
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+Serve Robotics has validated autonomous delivery tech but faces steep financial and runway challenges. Motley Fool analysts ...
 
-📺 China Observer
+📺 The Motley Fool
 
-👁️ 74K • 👍 2K • 💬 601 • ⏱️ 20:21 • 6d ago
-
----
-
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
-
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
-
-📺 Munro Live
-
-👁️ 81K • 👍 2K • 💬 232 • ⏱️ 38:47 • 6d ago
+👁️ 372 • 👍 13 • 💬 3 • ⏱️ 6:21 • 6h ago
 
 ---
 
-**[Spawning a robot out of thin air! 🤖#robot #robotics #smartrobot #ruko](https://www.youtube.com/watch?v=nQOHBL6tOw4)**
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
-📺 Smarttoy Ruko
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
-👁️ 5K • 👍 41 • ⏱️ 0:19 • 7h ago
+📺 PRO ROBOTS
 
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 171K • 👍 6K • 💬 88 • ⏱️ 1:03 • 3d ago
+👁️ 27K • 👍 795 • 💬 61 • ⏱️ 29:49 • 5d ago
 
 ---
 
@@ -260,27 +284,7 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 331K • 👍 17K • 💬 771 • ⏱️ 1:25 • 4d ago
-
----
-
-**[Meet Soft Flying Robots Inspired by Disney, Studio Ghibli and Pokemon](https://www.youtube.com/watch?v=Kc5M1BlEY_Q)**
-
-A team of researchers has demonstrated the role that floating robots inspired by Tinker Bell, Pokemon and Studio Ghibli might be ...
-
-📺 CNET
-
-👁️ 10K • 👍 327 • 💬 29 • ⏱️ 3:42 • 2d ago
-
----
-
-**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
-
-Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
-
-📺 Discovery Australia
-
-👁️ 25K • 👍 366 • 💬 7 • ⏱️ 8:20 • 1d ago
+👁️ 336K • 👍 18K • 💬 772 • ⏱️ 1:25 • 4d ago
 
 ---
 

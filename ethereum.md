@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T18:03:43.837203+00:00'
+updated: '2026-07-14T19:51:34.026501+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 18:03 UTC  
+**Last Updated:** July 14, 2026 at 19:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.4%  
-**7d:** +7.3%  
-**30d:** +4.2%  
-**90d:** -20.3%  
-**1y:** -40.4%  
+**24h:** +6.4%  
+**7d:** +7.8%  
+**30d:** +4.6%  
+**90d:** -20.0%  
+**1y:** -40.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.05B
+**Market Cap:** $226.80B
 Rank #2
 
 **Circulating Supply:** 120,682,986 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-62.0%
 
 **All-Time Low:** $0.43
-+432505.3%
++433911.8%
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -186,13 +186,21 @@ PR Newswire • 1d ago
 
 Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
 
-The Block • 19h ago
+The Block • 21h ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
 
-MarketWatch • 4h ago
+MarketWatch • 5h ago
+
+---
+
+**[Prediction: This Cryptocurrency Could Overtake Bitcoin and Ethereum Combined in Total Value](https://www.fool.com/investing/2026/07/14/this-cryptocurrency-could-overtake-bitcoin/)**
+
+A pivot into decentralized finance (DeFi) could be the catalyst to send the price of Solana soaring.
+
+The Motley Fool • 5h ago
 
 ---
 
@@ -204,25 +212,17 @@ Stocktwits • 2d ago
 
 ---
 
-**[Prediction: This Cryptocurrency Could Overtake Bitcoin and Ethereum Combined in Total Value](https://www.fool.com/investing/2026/07/14/this-cryptocurrency-could-overtake-bitcoin/)**
-
-A pivot into decentralized finance (DeFi) could be the catalyst to send the price of Solana soaring.
-
-The Motley Fool • 4h ago
-
----
-
 **[Current price of Ethereum for July 14, 2026](https://fortune.com/article/price-of-ethereum-07-14-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
 **[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
 
-CCN.com • 8h ago
+CCN.com • 10h ago
 
 ---
 
@@ -236,17 +236,17 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 741 • 👍 55 • 💬 16 • ⏱️ 5:20 • 6h ago
+👁️ 1K • 👍 67 • 💬 16 • ⏱️ 5:20 • 8h ago
 
 ---
 
-**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
+**[Ethereum Sentiment Skyrockets!🚀Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=fVXl1WwMOjo)**
 
-Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
+Ethereum has recently shown signs of attempting to break its downtrend against Bitcoin. Meanwhile, Robinhood's new blockchain ...
 
-📺 Coin Bureau Trading
+📺 Paul Barron Network
 
-👁️ 3K • 👍 227 • 💬 20 • ⏱️ 14:47 • 11h ago
+👁️ 1K • 👍 147 • 💬 14 • ⏱️ 34:54 • 35m ago
 
 ---
 
@@ -256,7 +256,37 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 1K • 👍 216 • 💬 86 • ⏱️ 17:15 • 3h ago
+👁️ 4K • 👍 363 • 💬 149 • ⏱️ 17:15 • 5h ago
+
+---
+
+**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
+
+Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
+
+📺 Coin Bureau Trading
+
+👁️ 3K • 👍 253 • 💬 23 • ⏱️ 14:47 • 13h ago
+
+---
+
+**[Ripple CEO Considering Selling All XRP Because Of This Bitcoin &amp; Ethereum Hit Record Levels](https://www.youtube.com/watch?v=-TnUSzgAqQs)**
+
+The crypto market has become quite dramatic over the last few weeks as it would appear literally everyone is anticipating crypto ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 13K • 👍 1K • 💬 242 • ⏱️ 27:00 • 8h ago
+
+---
+
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=EisJCfHe01I)**
+
+In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+
+📺 More Crypto Online
+
+👁️ 531 • 👍 62 • 💬 3 • ⏱️ 7:37 • 1h ago
 
 ---
 
@@ -266,7 +296,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 588 • 💬 385 • ⏱️ 13:44 • 1d ago
+👁️ 9K • 👍 589 • 💬 383 • ⏱️ 13:44 • 1d ago
 
 ---
 
@@ -276,35 +306,7 @@ Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 ti
 
 📺 Lark Davis
 
-👁️ 2K • 👍 105 • 💬 26 • ⏱️ 1:10 • 14h ago
-
----
-
-**[It&#39;s happening again! BTC &amp; ETH Analysis](https://www.youtube.com/watch?v=xFBh6AVzevo)**
-
-Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord https://discord.com/invite/cobratrades Bitunix- ...
-
-📺 Crypto Cobra
-
-👁️ 2K • 👍 94 • 💬 52 • ⏱️ 18:44 • 23h ago
-
----
-
-**[Ethereum Is Easily the Most Important Crypto to Be Following](https://www.youtube.com/watch?v=3DbRa8B122Y)**
-
-📺 World War Bitcoin
-
-👁️ 390 • 👍 20 • 💬 4 • ⏱️ 2:34 • 3h ago
-
----
-
-**[Ethereum is breaking up. But there&#39;s... no fighting?](https://www.youtube.com/watch?v=sF3NlQBIQDE)**
-
-Ethereum just got another major shake-up. On June 22, 2026, a group of former Ethereum Foundation researchers launched ...
-
-📺 Tim Ho
-
-👁️ 495 • 👍 22 • 💬 24 • ⏱️ 7:03 • 23h ago
+👁️ 3K • 👍 138 • 💬 21 • ⏱️ 1:10 • 15h ago
 
 ---
 
@@ -314,17 +316,15 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 589 • 💬 250 • ⏱️ 15:11 • 1d ago
+👁️ 10K • 👍 591 • 💬 247 • ⏱️ 15:11 • 1d ago
 
 ---
 
-**[Tom Lee: &quot;Ethereum to $40,000 At This Date&quot; [SUPER REALISTIC $40,000 Prediction for Ethereum]](https://www.youtube.com/watch?v=mSaGuGBSeVQ)**
+**[Ethereum Is Easily the Most Important Crypto to Be Following](https://www.youtube.com/watch?v=3DbRa8B122Y)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+📺 World War Bitcoin
 
-📺 Savvy Finance
-
-👁️ 5K • 👍 127 • 💬 28 • ⏱️ 18:37 • 3d ago
+👁️ 853 • 👍 27 • 💬 6 • ⏱️ 2:34 • 5h ago
 
 ---
 
