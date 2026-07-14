@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T19:51:34.026501+00:00'
+updated: '2026-07-14T21:00:55.284711+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 19:51 UTC  
+**Last Updated:** July 14, 2026 at 21:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,865.45
+### $1,875.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +6.4%  
-**7d:** +7.8%  
-**30d:** +4.6%  
-**90d:** -20.0%  
-**1y:** -40.1%  
+**24h:** +6.6%  
+**7d:** +7.5%  
+**30d:** +4.4%  
+**90d:** -20.1%  
+**1y:** -40.3%  
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -186,21 +186,21 @@ PR Newswire • 1d ago
 
 Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
 
-The Block • 21h ago
+The Block • 22h ago
+
+---
+
+**[Crypto Market Today, July 14: Ethereum Soars 6% on Cooler Inflation Data](https://www.fool.com/coverage/stock-market-today/2026/07/14/crypto-market-today-july-14-ethereum-soars-6-on-cooler-inflation-data/)**
+
+Today, July 14, 2026, softer CPI eased Fed tightening expectations, triggering a broad crypto rebound after earlier rate-hike jitters.
+
+The Motley Fool • 3m ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
 
-MarketWatch • 5h ago
-
----
-
-**[Prediction: This Cryptocurrency Could Overtake Bitcoin and Ethereum Combined in Total Value](https://www.fool.com/investing/2026/07/14/this-cryptocurrency-could-overtake-bitcoin/)**
-
-A pivot into decentralized finance (DeFi) could be the catalyst to send the price of Solana soaring.
-
-The Motley Fool • 5h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -212,17 +212,17 @@ Stocktwits • 2d ago
 
 ---
 
-**[Current price of Ethereum for July 14, 2026](https://fortune.com/article/price-of-ethereum-07-14-2026/)**
+**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 9h ago
+CCN.com • 11h ago
 
 ---
 
-**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
+**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-stay-under-pressure-as-us-and-iran-exchange-fresh-attacks-202607131230)**
 
-CCN.com • 10h ago
+The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
+
+FXStreet • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 67 • 💬 16 • ⏱️ 5:20 • 8h ago
+👁️ 1K • 👍 67 • 💬 16 • ⏱️ 5:20 • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 1K • 👍 147 • 💬 14 • ⏱️ 34:54 • 35m ago
+👁️ 1K • 👍 147 • 💬 14 • ⏱️ 34:54 • 1h ago
 
 ---
 
@@ -256,7 +256,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 363 • 💬 149 • ⏱️ 17:15 • 5h ago
+👁️ 4K • 👍 363 • 💬 149 • ⏱️ 17:15 • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 253 • 💬 23 • ⏱️ 14:47 • 13h ago
+👁️ 3K • 👍 253 • 💬 23 • ⏱️ 14:47 • 14h ago
 
 ---
 
@@ -276,7 +276,7 @@ The crypto market has become quite dramatic over the last few weeks as it would 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 13K • 👍 1K • 💬 242 • ⏱️ 27:00 • 8h ago
+👁️ 13K • 👍 1K • 💬 242 • ⏱️ 27:00 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 531 • 👍 62 • 💬 3 • ⏱️ 7:37 • 1h ago
+👁️ 531 • 👍 62 • 💬 3 • ⏱️ 7:37 • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 589 • 💬 383 • ⏱️ 13:44 • 1d ago
+👁️ 9K • 👍 589 • 💬 383 • ⏱️ 13:44 • 2d ago
 
 ---
 
@@ -306,7 +306,7 @@ Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 ti
 
 📺 Lark Davis
 
-👁️ 3K • 👍 138 • 💬 21 • ⏱️ 1:10 • 15h ago
+👁️ 3K • 👍 138 • 💬 21 • ⏱️ 1:10 • 17h ago
 
 ---
 
@@ -324,7 +324,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 World War Bitcoin
 
-👁️ 853 • 👍 27 • 💬 6 • ⏱️ 2:34 • 5h ago
+👁️ 853 • 👍 27 • 💬 6 • ⏱️ 2:34 • 6h ago
 
 ---
 

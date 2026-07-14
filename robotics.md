@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T19:51:34.029703+00:00'
+updated: '2026-07-14T21:00:55.287554+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 19:51 UTC  
+**Last Updated:** July 14, 2026 at 21:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,7 +124,7 @@ Anthropic • 5d ago
 
 At the current rate of robotics development, you might assume that we’re close to Skynet taking over. However, while we  likely wouldn’t do well in a physical fight against a robot, we …
 
-Hackaday • 4h ago
+Hackaday • 5h ago
 
 ---
 
@@ -132,7 +132,7 @@ Hackaday • 4h ago
 
 A vice president of robotics startup 1X was not happy with some coverage of the company's decidedly sensual humanoid robot.
 
-Futurism • 4h ago
+Futurism • 5h ago
 
 ---
 
@@ -140,29 +140,21 @@ Futurism • 4h ago
 
 New embodied AI world model predicts action outcomes in real time, improving robot reasoning, control, and adaptation in physical tasks.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[Robotics CEO fumes after Wired portrays $20K home robot as ‘sexualized’](https://nypost.com/2026/07/13/media/robotics-ceo-fumes-after-wired-portrays-20k-home-robot-as-sexualized/)**
+**[Booster T2: A humanoid robot with powerful onboard Nvidia compute](https://interestingengineering.com/ai-robotics/china-humanoid-robot-unveiled-nvidia-compute)**
 
-Dar Sleeper, vice president of product and design at 1X, blasted Wired magazine over the weekend.
+Booster Robotics unveils T2 humanoid with NVIDIA Thor chip and open AI platform for real-world robotics and embodied AI.
 
-New York Post • 1d ago
+Interesting Engineering • 7h ago
 
 ---
 
 **[A manifesto for Sustainability Robotics](https://www.nature.com/articles/s42256-026-01260-6)**
 
 Nature • 1d ago
-
----
-
-**[AI agents create virtual playgrounds to help robots get crucial training data](https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713)**
-
-The “SceneSmith” system developed by MIT CSAIL researchers uses AI agents to generate lifelike scenes of indoor environments like kitchens and hotels to help robots simulate everyday chores. These 3D worlds are more realistic and diverse than prior attempts, helping engineers save more time on real-world testing.
-
-MIT News • 1d ago
 
 ---
 
@@ -176,15 +168,21 @@ Tech Xplore • 2d ago
 
 SpaceX is tantalizing early investors with an $800 analyst price target while Tesla quietly pivots toward a robotics revolution that could reshape daily life faster than any orbital data center. Picking the right Elon Musk bet right now might come down to one critical question about timing.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
+**[GMEX Robotics Seeks AI Platform to Model Human Social Behavior](https://www.stocktitan.net/news/GMEX/gmex-robotics-corporation-signs-letter-of-intent-for-strategic-5tceeeocel0v.html)**
 
-1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
+The non-binding LOI is expected to use shares and cash; GMEX intends to invest in social world models after closing for healthcare, education and retail.
 
-Business Insider • 1d ago
+Stock Titan • 8h ago
+
+---
+
+**[Humanoid Robots Just Performed Surgery Using Standard Medical Tools](https://gizmodo.com/humanoid-robots-just-performed-surgery-using-standard-medical-tools-2000785159)**
+
+Gizmodo • 6h ago
 
 ---
 
@@ -198,7 +196,7 @@ Titanic's Jack and Rose became talking robot faces from a single image. A team f
 
 📺 Kalil 4.0
 
-👁️ 505 • 👍 19 • 💬 4 • ⏱️ 0:46 • 3h ago
+👁️ 505 • 👍 19 • 💬 4 • ⏱️ 0:46 • 4h ago
 
 ---
 
@@ -208,7 +206,7 @@ A Chinese tech-firm has unveiled a new AI-driven robot which it says is the firs
 
 📺 Al Jazeera English
 
-👁️ 18K • 👍 198 • 💬 102 • ⏱️ 2:44 • 12h ago
+👁️ 18K • 👍 198 • 💬 102 • ⏱️ 2:44 • 14h ago
 
 ---
 
@@ -226,7 +224,7 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 XRoboHub
 
-👁️ 777 • 👍 28 • 💬 1 • ⏱️ 0:22 • 2h ago
+👁️ 777 • 👍 28 • 💬 1 • ⏱️ 0:22 • 3h ago
 
 ---
 
@@ -264,7 +262,7 @@ Serve Robotics has validated autonomous delivery tech but faces steep financial 
 
 📺 The Motley Fool
 
-👁️ 372 • 👍 13 • 💬 3 • ⏱️ 6:21 • 6h ago
+👁️ 372 • 👍 13 • 💬 3 • ⏱️ 6:21 • 7h ago
 
 ---
 
