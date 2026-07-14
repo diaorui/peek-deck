@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T22:30:32.086907+00:00'
+updated: '2026-07-14T23:27:18.163492+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 22:30 UTC  
+**Last Updated:** July 14, 2026 at 23:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -130,7 +130,7 @@ Nature • 1d ago
 
 Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.
 
-Fox News • 6h ago
+Fox News • 7h ago
 
 ---
 
@@ -146,7 +146,7 @@ Hackaday • 7h ago
 
 A vice president of robotics startup 1X was not happy with some coverage of the company's decidedly sensual humanoid robot.
 
-Futurism • 6h ago
+Futurism • 7h ago
 
 ---
 
@@ -160,7 +160,7 @@ Tech Xplore • 2d ago
 
 SpaceX is tantalizing early investors with an $800 analyst price target while Tesla quietly pivots toward a robotics revolution that could reshape daily life faster than any orbital data center. Picking the right Elon Musk bet right now might come down to one critical question about timing.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -184,7 +184,7 @@ Supply Chain Dive • 1d ago
 
 The companies are helping drive increased automation in industrial applications.
 
-The Motley Fool • 1m ago
+The Motley Fool • 58m ago
 
 ---
 
@@ -198,7 +198,7 @@ Titanic's Jack and Rose became talking robot faces from a single image. A team f
 
 📺 Kalil 4.0
 
-👁️ 654 • 👍 20 • 💬 4 • ⏱️ 0:46 • 6h ago
+👁️ 654 • 👍 20 • 💬 4 • ⏱️ 0:46 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 2K • 👍 274 • 💬 33 • ⏱️ 3:00 • 2h ago
+👁️ 2K • 👍 274 • 💬 33 • ⏱️ 3:00 • 3h ago
 
 ---
 
@@ -274,7 +274,7 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 XRoboHub
 
-👁️ 1K • 👍 50 • 💬 1 • ⏱️ 0:22 • 5h ago
+👁️ 1K • 👍 50 • 💬 1 • ⏱️ 0:22 • 6h ago
 
 ---
 

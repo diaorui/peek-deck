@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T22:30:32.083567+00:00'
+updated: '2026-07-14T23:27:18.157678+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 22:30 UTC  
+**Last Updated:** July 14, 2026 at 23:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -184,13 +184,13 @@ PR Newswire • 1d ago
 
 **[Cooling inflation boosts risk appetite; Bitcoin breaks above $64,000, Ethereum rises over 6%](https://www.moomoo.com/news/post/72961205/cooling-inflation-boosts-risk-appetite-bitcoin-breaks-above-64000-ethereum)**
 
-Moomoo • 6m ago
+Moomoo • 1h ago
 
 ---
 
 **[Ethereum Gained 6.20% to $1874.70 -- Data Talk](https://www.moomoo.com/news/post/72960017/ethereum-gained-6-20-to-1874-70-data-talk)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -198,7 +198,7 @@ Moomoo • 1h ago
 
 Today, July 14, 2026, softer CPI eased Fed tightening expectations, triggering a broad crypto rebound after earlier rate-hike jitters.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Block • 1d ago
 
 Bitmine (BMNR) Chairman Tom Lee said&nbsp;on Tuesday&nbsp;that institutional-grade privacy is a prerequisite for large-scale asset migration to Ethereum (ETH), as the new engineering and research company EthSystems was launched.
 
-Stocktwits • 10h ago
+Stocktwits • 11h ago
 
 ---
 
@@ -222,7 +222,7 @@ Stocktwits • 10h ago
 
 DUBAI, United Arab Emirates, July  14, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its cross-chain bridge connecting Ethereum, BNB Chain, and ...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 664 • 💬 76 • ⏱️ 34:54 • 3h ago
+👁️ 7K • 👍 664 • 💬 76 • ⏱️ 34:54 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 76 • 💬 18 • ⏱️ 5:20 • 10h ago
+👁️ 2K • 👍 76 • 💬 18 • ⏱️ 5:20 • 11h ago
 
 ---
 
@@ -256,7 +256,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 425 • 💬 187 • ⏱️ 17:15 • 7h ago
+👁️ 6K • 👍 425 • 💬 187 • ⏱️ 17:15 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN & CRYPTO BREAKOUT?? (Important Update)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 923 • 👍 90 • 💬 174 • ⏱️ 26:24 • 1h ago
+👁️ 923 • 👍 90 • 💬 174 • ⏱️ 26:24 • 2h ago
 
 ---
 
@@ -286,7 +286,7 @@ The crypto market has become quite dramatic over the last few weeks as it would 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 15K • 👍 1K • 💬 255 • ⏱️ 27:00 • 10h ago
+👁️ 15K • 👍 1K • 💬 255 • ⏱️ 27:00 • 11h ago
 
 ---
 
@@ -296,7 +296,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 131 • 💬 4 • ⏱️ 7:37 • 4h ago
+👁️ 1K • 👍 131 • 💬 4 • ⏱️ 7:37 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 ti
 
 📺 Lark Davis
 
-👁️ 4K • 👍 149 • 💬 26 • ⏱️ 1:10 • 18h ago
+👁️ 4K • 👍 149 • 💬 26 • ⏱️ 1:10 • 19h ago
 
 ---
 

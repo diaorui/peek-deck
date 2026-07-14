@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-14T22:30:32.077120+00:00'
+updated: '2026-07-14T23:27:18.147644+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 22:30 UTC  
+**Last Updated:** July 14, 2026 at 23:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Steak n Shake thanks their loyal patrons and Bitcoiners and says that anyone who doubts the power of Bitcoin is making a BIG mistake.](https://www.reddit.com/r/Bitcoin/comments/1uwbt8u/steak_n_shake_thanks_their_loyal_patrons_and/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,15 @@ Rank #1
 
 We’ve all seen the charts, and we’ve all felt that exact same pit in our stomach. "I missed the boat." "The easy money has been made." "It's too late to start now." Here is the brutal truth about Bitcoin: everyone gets the price they deserve. The people who bought at $1,000 had to endure years of media outlets calling it a dying fad. The people who bought at $10,000 had to hold through massive, soul-crushing 80% drops where everyone around them said "I told you so." Bitcoin isn't just a stock or a ticker that goes up and down on a screen. It is a fundamental shift in how the world defines value. It is the first time in human history that we have a currency that cannot be printed into oblivion by a central entity. When you look back at today from five or ten years in the future, the current price won't look like a peak. It will look like a flat line at the very beginning of the chart. Stop staring at the 1-minute candles. Stop stressing over the daily noise. Zoom out. The best time to understand Bitcoin was ten years ago. The second-best time is right now. What the hell is stopping you?
 
-6h ago
+7h ago
+
+---
+
+**[Faster Transactions Are Drawing Users Toward Bitcoin Payments](https://www.reddit.com/r/Bitcoin/comments/1uwn0aa/faster_transactions_are_drawing_users_toward/)**
+
+Faster Bitcoin payments are attracting more users with quick secure transactions.
+
+🔗 [The Silicon Review](https://thesiliconreview.com/2026/07/faster-transactions-are-drawing-users-toward-bitcoin-payments) • 1h ago
 
 ---
 
@@ -95,7 +103,7 @@ We’ve all seen the charts, and we’ve all felt that exact same pit in our sto
 
 What benefits do you think this will bring to the development of cryptocurrency? One thing is certain: it will further solidify the United States’ position in the cryptocurrency space.
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +111,15 @@ What benefits do you think this will bring to the development of cryptocurrency?
 
 Individual investors hold 66.1% of bitcoin’s total supply, dwarfing the 7.8% held by businesses and the 7.2% sitting in funds and exchange-traded funds (ETFs), according to asset manager Bitwise.
 
-10h ago
+11h ago
+
+---
+
+**[What brought you to btc](https://www.reddit.com/r/Bitcoin/comments/1uwcxh0/what_brought_you_to_btc/)**
+
+Lay it upon us
+
+7h ago
 
 ---
 
@@ -113,17 +129,9 @@ Individual investors hold 66.1% of bitcoin’s total supply, dwarfing the 7.8% h
 
 ---
 
-**[What brought you to btc](https://www.reddit.com/r/Bitcoin/comments/1uwcxh0/what_brought_you_to_btc/)**
-
-Lay it upon us
-
-6h ago
-
----
-
 **[Neymar rocking a Satoshi t-shirt](https://www.reddit.com/r/Bitcoin/comments/1uvs1pj/neymar_rocking_a_satoshi_tshirt/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -131,7 +139,7 @@ Lay it upon us
 
 Sjors Provoost joined Optech to discuss Newsletter #413: Using fountain codes for IBD Bitcoin Core's IPC Mining Interface and Stratum v2 Bitcoin Core 31.1, LND v0.20.2-beta And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/07/14/ Fountain: https://fountain.fm/episode/Mr4DojGzekgbOrxFhJWN Spotify: https://open.spotify.com/episode/32i7t5aubUiGnu0GEOsxsa Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-413-recap/id1674626983?i=1000776800852
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/07/14/) • 3h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/07/14/) • 4h ago
 
 ---
 
@@ -139,15 +147,7 @@ Sjors Provoost joined Optech to discuss Newsletter #413: Using fountain codes fo
 
 I was wondering what people have predicted for price movement between the months mentioned. I’ve seen a lot of talk online about a steep bottom in October. I am just curious as to why so many people are so sure that bitcoin will continue moving downward. I’m looking for genuine data/fact backed reasoning for this claim. If there’s a genuine reason for this, I would like to know so I can configure my strategy to incorporate such information. (I personally have been DCAing from the beginning of 2026)
 
-10h ago
-
----
-
-**[Bitcoin Feels Like 2022 Again, And That's Not a Bad Sign](https://www.reddit.com/r/Bitcoin/comments/1uwezh8/bitcoin_feels_like_2022_again_and_thats_not_a_bad/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/jT311U19DxI?si=fmG89YeVJ96KfImb) • 5h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Trump reinstated the Hormuz blockade, sending oil higher and rate-hike bets up, reversing the peace trade that helped bitcoin recover in early July. Today's inflation print is the next test.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -173,19 +173,19 @@ Reuters • 1d ago
 
 In the past several weeks, the business sold $218 million worth of Bitcoin, a surprise development for investors.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
 **[Watch Strategy CEO: We’re Buyers of Bitcoin Long-Term](https://www.bloomberg.com/news/videos/2026-07-14/strategy-ceo-we-re-buyers-of-bitcoin-long-term-video)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
 **[When Modest Bitcoin ETF Inflows Begin to Feel Meaningful](https://www.bloomberg.com/news/newsletters/2026-07-14/when-modest-bitcoin-etf-inflows-begin-to-feel-meaningful)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 1d ago
 
 Coins from the Farace and BTC-e seizures moved through fresh wallets before landing on the exchange, despite president Donald Trump's previous no-sell reserve order.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 15h ago
 
 According to Arkham, the U.S. government wallet maintains a large crypto portfolio estimated at over $20 billion, including 324,552 BTC.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -217,13 +217,13 @@ The Block • 12h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
 **[CleanSpark Lands First HPC Lease Worth Nearly $7 Bil. Bitcoin Leads CPI-Fueled Crypto Surge.](https://www.investors.com/news/cleanspark-stock-hpc-ai-tenant-deal-6-6-billion-bitcoin-price-cpi-report-crypto-stocks/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -251,7 +251,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 1 • 💬 1 • 28m ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+⬆️ 1 • 💬 1 • 1h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
 
 ---
 
@@ -281,13 +281,13 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48907011)**
 
-⬆️ 3 • 💬 0 • 8h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 3 • 💬 0 • 9h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
 **[Show HN: Iodd Viewer a free IODD viewer that runs in the browser](https://news.ycombinator.com/item?id=48912188)**
 
-⬆️ 2 • 💬 0 • 2h ago • [ioddviewer.com](https://ioddviewer.com)
+⬆️ 2 • 💬 0 • 3h ago • [ioddviewer.com](https://ioddviewer.com)
 
 ---
 
@@ -309,7 +309,7 @@ Join Gareth's Top Squad here on YouTube for premium videos, weekly discount code
 
 📺 Gareth Soloway
 
-👁️ 22K • 👍 2K • 💬 123 • ⏱️ 12:10 • 5h ago
+👁️ 22K • 👍 2K • 💬 123 • ⏱️ 12:10 • 6h ago
 
 ---
 
@@ -319,7 +319,7 @@ MagBak: Get 15% off of ANY product using code ICED15 at https://creators.magbak.
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 7K • 👍 147 • 💬 52 • ⏱️ 11:11 • 20h ago
+👁️ 7K • 👍 147 • 💬 52 • ⏱️ 11:11 • 21h ago
 
 ---
 
@@ -329,7 +329,7 @@ Let's try to better understand this Bitcoin bear market structurally and from a 
 
 📺 Benjamin Cowen
 
-👁️ 58K • 👍 4K • 💬 212 • ⏱️ 16:23 • 19h ago
+👁️ 58K • 👍 4K • 💬 212 • ⏱️ 16:23 • 20h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin pumps hard on CPI data! The bulls are back in action, but #BTC isn't out
 
 📺 Crypto Zombie
 
-👁️ 6K • 👍 769 • 💬 117 • ⏱️ 24:11 • 5h ago
+👁️ 6K • 👍 769 • 💬 117 • ⏱️ 24:11 • 6h ago
 
 ---
 
@@ -389,7 +389,7 @@ In this episode, I sit down with Joe Consorti to answer the question everyone ke
 
 📺 THE Bitcoin Podcast with Walker
 
-👁️ 3K • 👍 230 • 💬 30 • ⏱️ 1:12:44 • 7h ago
+👁️ 3K • 👍 230 • 💬 30 • ⏱️ 1:12:44 • 8h ago
 
 ---
 
