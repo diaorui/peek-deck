@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T21:00:55.287554+00:00'
+updated: '2026-07-14T22:30:32.086907+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 21:00 UTC  
+**Last Updated:** July 14, 2026 at 22:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,11 +120,25 @@ Anthropic • 5d ago
 
 ---
 
+**[A manifesto for Sustainability Robotics](https://www.nature.com/articles/s42256-026-01260-6)**
+
+Nature • 1d ago
+
+---
+
+**[Humanoid robots perform live surgery in world first](https://www.foxnews.com/tech/humanoid-robots-perform-live-surgery-world-first)**
+
+Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.
+
+Fox News • 6h ago
+
+---
+
 **[Fibrous Muscles For Humanoid Robotics](https://hackaday.com/2026/07/14/fibrous-muscles-for-humanoid-robotics/)**
 
 At the current rate of robotics development, you might assume that we’re close to Skynet taking over. However, while we  likely wouldn’t do well in a physical fight against a robot, we …
 
-Hackaday • 5h ago
+Hackaday • 7h ago
 
 ---
 
@@ -132,29 +146,7 @@ Hackaday • 5h ago
 
 A vice president of robotics startup 1X was not happy with some coverage of the company's decidedly sensual humanoid robot.
 
-Futurism • 5h ago
-
----
-
-**[Watch: New video-action world model boosts robot intelligence](https://interestingengineering.com/ai-robotics/watch-worlds-first-embodied-native-ai-model-promises-smarter-more-capable-robots)**
-
-New embodied AI world model predicts action outcomes in real time, improving robot reasoning, control, and adaptation in physical tasks.
-
-Interesting Engineering • 1d ago
-
----
-
-**[Booster T2: A humanoid robot with powerful onboard Nvidia compute](https://interestingengineering.com/ai-robotics/china-humanoid-robot-unveiled-nvidia-compute)**
-
-Booster Robotics unveils T2 humanoid with NVIDIA Thor chip and open AI platform for real-world robotics and embodied AI.
-
-Interesting Engineering • 7h ago
-
----
-
-**[A manifesto for Sustainability Robotics](https://www.nature.com/articles/s42256-026-01260-6)**
-
-Nature • 1d ago
+Futurism • 6h ago
 
 ---
 
@@ -168,7 +160,7 @@ Tech Xplore • 2d ago
 
 SpaceX is tantalizing early investors with an $800 analyst price target while Tesla quietly pivots toward a robotics revolution that could reshape daily life faster than any orbital data center. Picking the right Elon Musk bet right now might come down to one critical question about timing.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -176,13 +168,23 @@ Yahoo Finance • 8h ago
 
 The non-binding LOI is expected to use shares and cash; GMEX intends to invest in social world models after closing for healthcare, education and retail.
 
-Stock Titan • 8h ago
+Stock Titan • 10h ago
 
 ---
 
-**[Humanoid Robots Just Performed Surgery Using Standard Medical Tools](https://gizmodo.com/humanoid-robots-just-performed-surgery-using-standard-medical-tools-2000785159)**
+**[Amazon preps robotics-equipped sorting warehouse in Texas](https://www.supplychaindive.com/news/amazon-preps-robotics-equipped-sorting-warehouse-in-texas/824978/)**
 
-Gizmodo • 6h ago
+The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.
+
+Supply Chain Dive • 1d ago
+
+---
+
+**[Better Robotics Stock: UiPath or Zebra Technologies](https://www.fool.com/investing/2026/07/14/better-robotics-stock-uipath-or-zebra-technologies/)**
+
+The companies are helping drive increased automation in industrial applications.
+
+The Motley Fool • 1m ago
 
 ---
 
@@ -196,17 +198,7 @@ Titanic's Jack and Rose became talking robot faces from a single image. A team f
 
 📺 Kalil 4.0
 
-👁️ 505 • 👍 19 • 💬 4 • ⏱️ 0:46 • 4h ago
-
----
-
-**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
-
-A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
-
-📺 Al Jazeera English
-
-👁️ 18K • 👍 198 • 💬 102 • ⏱️ 2:44 • 14h ago
+👁️ 654 • 👍 20 • 💬 4 • ⏱️ 0:46 • 6h ago
 
 ---
 
@@ -216,53 +208,7 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 57K • 👍 967 • 💬 402 • ⏱️ 1:54 • 4d ago
-
----
-
-**[🔥🤖Wait... Is This a Robot or a Transformer? PrimeBOT T1 Is Insane!#robot #humanoidrobot #robotics](https://www.youtube.com/watch?v=viKxlWlO8zo)**
-
-📺 XRoboHub
-
-👁️ 777 • 👍 28 • 💬 1 • ⏱️ 0:22 • 3h ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 174K • 👍 6K • 💬 89 • ⏱️ 1:03 • 3d ago
-
----
-
-**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
-
-Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
-
-📺 Unitree Robotics
-
-👁️ 696K • 👍 968 • 💬 156 • ⏱️ 1:10 • 5d ago
-
----
-
-**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
-
-In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
-
-📺 DW News
-
-👁️ 44K • 👍 2K • 💬 128 • ⏱️ 2:38 • 4d ago
-
----
-
-**[3 Reasons to Be Cautious About Serve Robotics](https://www.youtube.com/watch?v=xyqNe1kUU14)**
-
-Serve Robotics has validated autonomous delivery tech but faces steep financial and runway challenges. Motley Fool analysts ...
-
-📺 The Motley Fool
-
-👁️ 372 • 👍 13 • 💬 3 • ⏱️ 6:21 • 7h ago
+👁️ 57K • 👍 986 • 💬 411 • ⏱️ 1:54 • 4d ago
 
 ---
 
@@ -272,7 +218,45 @@ Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech Yo
 
 📺 PRO ROBOTS
 
-👁️ 27K • 👍 795 • 💬 61 • ⏱️ 29:49 • 5d ago
+👁️ 27K • 👍 796 • 💬 61 • ⏱️ 29:49 • 5d ago
+
+---
+
+**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
+
+Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
+
+📺 Unitree Robotics
+
+👁️ 732K • 👍 970 • 💬 156 • ⏱️ 1:10 • 5d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 176K • 👍 6K • 💬 89 • ⏱️ 1:03 • 3d ago
+
+---
+
+**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
+
+In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
+
+📺 DW News
+
+👁️ 45K • 👍 2K • 💬 129 • ⏱️ 2:38 • 4d ago
+
+---
+
+**[Building a GIANT Remote Controlled Robot  #engineering #robotics #fanuc](https://www.youtube.com/watch?v=c_oJXMTtcLE)**
+
+Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
+
+📺 Excessive Overkill
+
+👁️ 2K • 👍 274 • 💬 33 • ⏱️ 3:00 • 2h ago
 
 ---
 
@@ -282,7 +266,25 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 336K • 👍 18K • 💬 772 • ⏱️ 1:25 • 4d ago
+👁️ 340K • 👍 18K • 💬 772 • ⏱️ 1:25 • 4d ago
+
+---
+
+**[🔥🤖Wait... Is This a Robot or a Transformer? PrimeBOT T1 Is Insane!#robot #humanoidrobot #robotics](https://www.youtube.com/watch?v=viKxlWlO8zo)**
+
+📺 XRoboHub
+
+👁️ 1K • 👍 50 • 💬 1 • ⏱️ 0:22 • 5h ago
+
+---
+
+**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+
+My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+
+📺 China Observer
+
+👁️ 74K • 👍 2K • 💬 603 • ⏱️ 20:21 • 6d ago
 
 ---
 

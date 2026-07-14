@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T21:00:55.284711+00:00'
+updated: '2026-07-14T22:30:32.083567+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 21:00 UTC  
+**Last Updated:** July 14, 2026 at 22:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.6%  
-**7d:** +7.5%  
-**30d:** +4.4%  
-**90d:** -20.1%  
-**1y:** -40.3%  
+**24h:** +5.9%  
+**7d:** +7.9%  
+**30d:** +4.8%  
+**90d:** -19.9%  
+**1y:** -40.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.80B
+**Market Cap:** $226.84B
 Rank #2
 
 **Circulating Supply:** 120,682,986 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+433911.8%
++434161.2%
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -182,25 +182,31 @@ PR Newswire • 1d ago
 
 ---
 
+**[Cooling inflation boosts risk appetite; Bitcoin breaks above $64,000, Ethereum rises over 6%](https://www.moomoo.com/news/post/72961205/cooling-inflation-boosts-risk-appetite-bitcoin-breaks-above-64000-ethereum)**
+
+Moomoo • 6m ago
+
+---
+
+**[Ethereum Gained 6.20% to $1874.70 -- Data Talk](https://www.moomoo.com/news/post/72960017/ethereum-gained-6-20-to-1874-70-data-talk)**
+
+Moomoo • 1h ago
+
+---
+
+**[Crypto Market Today, July 14: Ethereum Soars 6% on Cooler Inflation Data](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-july-14-211633983.html)**
+
+Today, July 14, 2026, softer CPI eased Fed tightening expectations, triggering a broad crypto rebound after earlier rate-hike jitters.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
 
 Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
 
-The Block • 22h ago
-
----
-
-**[Crypto Market Today, July 14: Ethereum Soars 6% on Cooler Inflation Data](https://www.fool.com/coverage/stock-market-today/2026/07/14/crypto-market-today-july-14-ethereum-soars-6-on-cooler-inflation-data/)**
-
-Today, July 14, 2026, softer CPI eased Fed tightening expectations, triggering a broad crypto rebound after earlier rate-hike jitters.
-
-The Motley Fool • 3m ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
-
-MarketWatch • 7h ago
+The Block • 1d ago
 
 ---
 
@@ -208,21 +214,15 @@ MarketWatch • 7h ago
 
 Bitmine (BMNR) Chairman Tom Lee said&nbsp;on Tuesday&nbsp;that institutional-grade privacy is a prerequisite for large-scale asset migration to Ethereum (ETH), as the new engineering and research company EthSystems was launched.
 
-Stocktwits • 2d ago
+Stocktwits • 10h ago
 
 ---
 
-**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
+**[New Crypto Pepeto Announces Cross-Chain Bridge Connecting Ethereum, BNB Chain, and Solana](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-cross-chain-bridge-connecting-ethereum-bnb-chain-and-solana-1036325042)**
 
-CCN.com • 11h ago
+DUBAI, United Arab Emirates, July  14, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its cross-chain bridge connecting Ethereum, BNB Chain, and ...
 
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP stay under pressure as US and Iran exchange fresh attacks](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-stay-under-pressure-as-us-and-iran-exchange-fresh-attacks-202607131230)**
-
-The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
-
-FXStreet • 1d ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -230,23 +230,23 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 1K • 👍 67 • 💬 16 • ⏱️ 5:20 • 9h ago
-
----
-
 **[Ethereum Sentiment Skyrockets!🚀Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=fVXl1WwMOjo)**
 
 Ethereum has recently shown signs of attempting to break its downtrend against Bitcoin. Meanwhile, Robinhood's new blockchain ...
 
 📺 Paul Barron Network
 
-👁️ 1K • 👍 147 • 💬 14 • ⏱️ 34:54 • 1h ago
+👁️ 7K • 👍 664 • 💬 76 • ⏱️ 34:54 • 3h ago
+
+---
+
+**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 76 • 💬 18 • ⏱️ 5:20 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 363 • 💬 149 • ⏱️ 17:15 • 6h ago
+👁️ 6K • 👍 425 • 💬 187 • ⏱️ 17:15 • 7h ago
 
 ---
 
@@ -266,7 +266,17 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 253 • 💬 23 • ⏱️ 14:47 • 14h ago
+👁️ 4K • 👍 269 • 💬 25 • ⏱️ 14:47 • 16h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO BREAKOUT?? (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=D8ec2xdiVuY)**
+
+BITCOIN & CRYPTO BREAKOUT?? (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 923 • 👍 90 • 💬 174 • ⏱️ 26:24 • 1h ago
 
 ---
 
@@ -276,7 +286,7 @@ The crypto market has become quite dramatic over the last few weeks as it would 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 13K • 👍 1K • 💬 242 • ⏱️ 27:00 • 9h ago
+👁️ 15K • 👍 1K • 💬 255 • ⏱️ 27:00 • 10h ago
 
 ---
 
@@ -286,17 +296,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 531 • 👍 62 • 💬 3 • ⏱️ 7:37 • 2h ago
-
----
-
-**[ETHEREUM: THE REAL MOST HATED RALLY](https://www.youtube.com/watch?v=-cWisMcB35I)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 9K • 👍 589 • 💬 383 • ⏱️ 13:44 • 2d ago
+👁️ 1K • 👍 131 • 💬 4 • ⏱️ 7:37 • 4h ago
 
 ---
 
@@ -306,7 +306,17 @@ Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 ti
 
 📺 Lark Davis
 
-👁️ 3K • 👍 138 • 💬 21 • ⏱️ 1:10 • 17h ago
+👁️ 4K • 👍 149 • 💬 26 • ⏱️ 1:10 • 18h ago
+
+---
+
+**[ETHEREUM: THE REAL MOST HATED RALLY](https://www.youtube.com/watch?v=-cWisMcB35I)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 9K • 👍 593 • 💬 389 • ⏱️ 13:44 • 2d ago
 
 ---
 
@@ -316,15 +326,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 591 • 💬 247 • ⏱️ 15:11 • 1d ago
-
----
-
-**[Ethereum Is Easily the Most Important Crypto to Be Following](https://www.youtube.com/watch?v=3DbRa8B122Y)**
-
-📺 World War Bitcoin
-
-👁️ 853 • 👍 27 • 💬 6 • ⏱️ 2:34 • 6h ago
+👁️ 10K • 👍 591 • 💬 229 • ⏱️ 15:11 • 1d ago
 
 ---
 
