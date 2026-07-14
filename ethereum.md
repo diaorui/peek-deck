@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T10:16:52.141754+00:00'
+updated: '2026-07-14T11:54:33.710506+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 10:16 UTC  
+**Last Updated:** July 14, 2026 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,785.15
+### $1,796.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.6%  
-**30d:** -0.4%  
-**90d:** -23.8%  
-**1y:** -43.0%  
+**24h:** +1.5%  
+**7d:** +3.1%  
+**30d:** +0.1%  
+**90d:** -23.4%  
+**1y:** -42.7%  
 
 ---
 
@@ -120,7 +120,7 @@ When I arrived in a new nation, I had no local currency yet and had my card bann
 
 Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
-4d ago
+5d ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -162,7 +162,23 @@ The Block • 12h ago
 
 The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
+
+PR Newswire • 23h ago
+
+---
+
+**[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-49-million-ethereum-152210893.html)**
+
+According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -170,15 +186,15 @@ CoinDesk • 20h ago
 
 Robinhood Chain is an Ethereum Layer-2 designed for tokenized real-world assets, starting with tokenized US stocks. The network generated roughly $843,000 in user fees while ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[XRP and Ethereum Share a Bearish Signal, But There’s a Catch](https://finance.yahoo.com/markets/crypto/articles/xrp-ethereum-share-bearish-signal-081608546.html)**
+**[Crypto ETFs End 8-Week Outflow Streak With $282M Inflows as Bitcoin and Ethereum Demand Rebounds](https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-end-8-week-103411097.html)**
 
-XRP and Ethereum both flash elevated social FOMO, but funding rates reveal traders positioned on opposite sides.
+Crypto investment products attracted $281.8 million in net inflows last week, ending an eight-week streak of outflows. Spot Bitcoin ETFs recorded $197.4 million in weekly ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,13 +202,13 @@ Yahoo Finance • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13m ago
+Fortune • 1h ago
 
 ---
 
 **[Ethereum Is Showing Resilience, but a Key Test at $1,850 Lies Ahead](https://www.investing.com/analysis/ethereum-is-showing-resilience-but-a-key-test-at-1850-lies-ahead-200683880)**
 
-Investing.com • 1h ago
+Investing.com • 3h ago
 
 ---
 
@@ -200,7 +216,7 @@ Investing.com • 1h ago
 
 The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
 
-FXStreet • 21h ago
+FXStreet • 23h ago
 
 ---
 
@@ -208,23 +224,7 @@ FXStreet • 21h ago
 
 BTC kept meeting absorption in June, and ETH came closer to follow-through. Price may give the first impression, but the stack decides whether that impression holds.
 
-Seeking Alpha • 15h ago
-
----
-
-**[Ethereum co-founder Lubin advocates low L1 fees to boost adoption](https://cryptobriefing.com/ethereum-co-founder-lubin-advocates-low-l1-fees-to-boost-adoption/)**
-
-Lubin advocates for low Ethereum Layer 1 fees to boost adoption. Ethereum reaching $6,500 by December 31, 2026 at 3.0% YES.
-
-Crypto Briefing • 2h ago
-
----
-
-**[What price will Ethereum hit in July Odds & Prediction Market Analysis](https://cryptoslate.com/predictions/market/what-price-will-ethereum-hit-in-july-2026/)**
-
-Track What price will Ethereum hit in July prediction market analysis with live Polymarket odds, probabilities, volume, liquidity, and market-moving catalysts.
-
-CryptoSlate • 16h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 826 • 👍 104 • 💬 8 • ⏱️ 14:47 • 3h ago
+👁️ 826 • 👍 104 • 💬 8 • ⏱️ 14:47 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 ti
 
 📺 Lark Davis
 
-👁️ 1K • 👍 57 • 💬 11 • ⏱️ 1:10 • 6h ago
+👁️ 1K • 👍 57 • 💬 11 • ⏱️ 1:10 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum just got another major shake-up. On June 22, 2026, a group of former Et
 
 📺 Tim Ho
 
-👁️ 367 • 👍 17 • 💬 24 • ⏱️ 7:03 • 16h ago
+👁️ 367 • 👍 17 • 💬 24 • ⏱️ 7:03 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 7K • 👍 305 • 💬 184 • ⏱️ 19:28 • 15h ago
+👁️ 7K • 👍 305 • 💬 184 • ⏱️ 19:28 • 17h ago
 
 ---
 
@@ -308,7 +308,7 @@ Joseph Chalom makes the case that Ethereum has the license to win and is finally
 
 📺 The Rollup
 
-👁️ 15K • 👍 518 • 💬 92 • ⏱️ 29:05 • 1d ago
+👁️ 15K • 👍 518 • 💬 92 • ⏱️ 29:05 • 2d ago
 
 ---
 
@@ -318,7 +318,7 @@ Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 2K • 👍 92 • 💬 52 • ⏱️ 18:44 • 15h ago
+👁️ 2K • 👍 92 • 💬 52 • ⏱️ 18:44 • 17h ago
 
 ---
 

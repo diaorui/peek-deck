@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T10:16:52.144739+00:00'
+updated: '2026-07-14T11:54:33.713452+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 10:16 UTC  
+**Last Updated:** July 14, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtube.com/watch?v=ZyHrKD3SE-M It's an Unitree B2: https://shop.unitree.com/products/unitree-b2
 
-1d ago
+2d ago
 
 ---
 
@@ -122,7 +122,7 @@ Anthropic • 5d ago
 
 **[A manifesto for Sustainability Robotics](https://www.nature.com/articles/s42256-026-01260-6)**
 
-Nature • 23h ago
+Nature • 1d ago
 
 ---
 
@@ -144,7 +144,7 @@ Business Insider • 1d ago
 
 The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
 
-Inquirer.com • 21h ago
+Inquirer.com • 23h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 1d ago
 
 The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.
 
-Supply Chain Dive • 20h ago
+Supply Chain Dive • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Supply Chain Dive • 20h ago
 
 New embodied AI world model predicts action outcomes in real time, improving robot reasoning, control, and adaptation in physical tasks.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -176,7 +176,7 @@ Interesting Engineering • 14h ago
 
 A robot that swims like a diving bird and then flies like, well, a bird, sounds like the setup for two different machines bolted together. But researchers at MIT and EPFL built one that does both with a single set of wings. No propellers, no legs, and no origami-style folding mechanism to switch…
 
-New Atlas • 22h ago
+New Atlas • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Kurt 'CyberGuy' Knutsson explains a groundbreaking medical trial in which humano
 
 📺 Fox News Clips
 
-👁️ 4K • 👍 132 • 💬 23 • ⏱️ 5:25 • 21h ago
+👁️ 4K • 👍 132 • 💬 23 • ⏱️ 5:25 • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 55K • 👍 929 • 💬 372 • ⏱️ 1:54 • 3d ago
+👁️ 55K • 👍 929 • 💬 372 • ⏱️ 1:54 • 4d ago
 
 ---
 
