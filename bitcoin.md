@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-13T23:59:54.710818+00:00'
+updated: '2026-07-14T03:21:55.716694+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 23:59 UTC  
+**Last Updated:** July 14, 2026 at 03:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,132.94
+### $62,388.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -1.6%  
-**30d:** -5.2%  
-**90d:** -16.7%  
-**1y:** -48.0%  
+**24h:** -0.5%  
+**7d:** +0.1%  
+**30d:** -6.0%  
+**90d:** -17.0%  
+**1y:** -47.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1241.26B
+**Market Cap:** $1249.94B
 Rank #1
 
-**Circulating Supply:** 20,055,956 BTC
+**Circulating Supply:** 20,056,003 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.9%
+-50.6%
 
 **All-Time Low:** $67.81
-+91147.6%
++91806.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 28
-**FEAR**
+### 22
+**EXTREME FEAR**
 
 ---
 
@@ -163,21 +163,35 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Cryptocurrency treasury firm Strategy (NASDAQ: $MSTR) left its holdings of Bitcoin (CRYPTO: $BTC) unchanged over th...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Got $1,000 to Invest? Here’s What XRP vs Bitcoin Could Be Worth by 2027](https://finance.yahoo.com/markets/crypto/articles/got-1-000-invest-xrp-223220032.html)**
+**[Strategy sells $467 million in MSTR shares, makes no bitcoin purchases as USD reserve hits $3 billion](https://www.theblock.co/post/408004/strategy-sells-467-million-in-mstr-shares-makes-no-bitcoin-purchases-as-usd-reserve-hits-3-billion)**
 
-Bitcoin has the institutional muscle and XRP has the wilder upside, but the case for each crypto hinges on very different things going right. Before you commit $1,000, it helps to know exactly what has to break your way and what breaks against you.
+Strategy's total holdings remain at 843,775 BTC and account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.
 
-Yahoo Finance • 1h ago
+The Block • 15h ago
+
+---
+
+**[Strategy bitcoin sales shine light on faltering crypto hoarding companies](https://www.reuters.com/legal/government/strategy-bitcoin-sales-shine-light-faltering-crypto-hoarding-companies-2026-07-13/)**
+
+Reuters • 17h ago
+
+---
+
+**[U.S. government moves $8.8M of Bitcoin that Trump said would never sell](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-8-8m-204911394.html)**
+
+The United States government moved $8.8 million of Bitcoin to Coinbase Prime on Monday night, according to blockchain intelligence firm Arkham. "The US Government just moved $8.8M of BTC to Coinbase Prime. The Coinbase Prime deposit that received this BTC 1 hour ago also received seized BTC from ...
+
+Yahoo Finance • 6h ago
 
 ---
 
 **[Bitcoin (BTC) Weakens as Oil-Price Spike Revives Inflation Concerns](https://www.bloomberg.com/news/articles/2026-07-13/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -189,11 +203,11 @@ Forbes • 1d ago
 
 ---
 
-**[3 reasons Bitcoin is stuck in a bear market—and why one analyst predicts a rebound to $100,000 by year-end](https://fortune.com/2026/07/12/bitcoin-bear-market-three-drivers-rebound/)**
+**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
 
-Rising inflation, Bitcoin’s four-year cycle, and excess leverage continue to draw the cryptocurrency’s price down.
+Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
 
-Fortune • 1d ago
+The Block • 5h ago
 
 ---
 
@@ -201,37 +215,23 @@ Fortune • 1d ago
 
 Analysts point to bitcoin’s resilience amid fresh U.S.-Iran escalation and renewed spot ETF inflows as the clearest signs yet that the marginal seller has finally stepped away. Some still remain cautious.
 
-CoinDesk • 8h ago
+CoinDesk • 11h ago
 
 ---
 
-**[New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing](https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing)**
+**[Bitwise Sees A Bottom In Bitcoin's Worst Vibes Yet: 'Darkest Before The Dawn'](https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin)**
 
-New Hampshire's newly-signed crypto law introduces protections for users, miners, and stakers within its boundaries.
+Bitwise says Bitcoin's brutal nine-month downturn masks a stronger-than-ever foundation, arguing institutional adoption, corporate buying, and improving market infrastructure position the industry for a rebound despite record ETF outflows and weak sentiment.
 
-Decrypt • 2h ago
-
----
-
-**[Bitcoin dips to $62.5k as U.S.-Iran tensions weigh on risk sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-628k-as-usiran-tensions-batter-risk-4787419)**
-
-Investing.com • 17h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
-**[BTC/USD: Bitcoin Prices Tumble 3% as War Tension Scares Off Risk Takers](https://www.tradingview.com/news/tradingview:995dd5eae094b:0-btc-usd-bitcoin-prices-tumble-3-as-war-tension-scares-off-risk-takers/)**
+**[Australia’s top Substack is making millions from bitcoin (but not by buying it)](https://www.afr.com/companies/media-and-marketing/the-media-outlet-making-millions-from-bitcoin-but-not-by-buying-it-20260709-p60e47)**
 
-Rising oil prices fuel inflation expectations. And that means risk is off the table for the time being.⚠️ Risk Appetite Takes a Hit🛢️ Oil Is Calling the Shots📅 CPI Is the Next Big Test
+James Check, Alec Dejanovic and Jacinta Stuart-O’Toole quit their jobs to grow a newsletter about the cryptocurrency. It now rakes in $1.4 million a year.
 
-TradingView • 17h ago
-
----
-
-**[Bitcoin price crashes to $61K, wiping out bulls: Is a recovery catalyst ahead?](https://seekingalpha.com/news/4613290-bitcoin-price-crashes-to-61k-wiping-out-bulls-is-a-recovery-catalyst-ahead)**
-
-Bitcoin falls 3% amid $322M crypto liquidations and Middle East risks; CLARITY Act hearing could be a catalyst.
-
-Seeking Alpha • 5h ago
+AFR • 1d ago
 
 ---
 
@@ -243,7 +243,7 @@ Seeking Alpha • 5h ago
 
 Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal challenge before France's Conseil d'État to annul Decree No. 2025-1276, which implements the EU's DAC8 crypto tax reporting directive. The exchange argues the rules create a mass surveillance database linking identities and crypto activity, endangering holders' physical safety.
 
-⬆️ 3 • 💬 1 • 4d ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
+⬆️ 4 • 💬 1 • 5d ago • [The Coin Headlines](https://thecoinheadlines.com/crypto/bull-bitcoin-challenges-eus-dac8-crypto-surveillance-rules-in-french-court/article-25451/)
 
 ---
 
@@ -259,7 +259,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 13h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
+⬆️ 1 • 💬 0 • 17h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
 
 ---
 
@@ -291,13 +291,23 @@ It’s supposed to be a decentralized service, after all...
 
 ## YouTube Videos: "bitcoin"
 
+**[Crypto Holders.. Everything Comes Down To This!](https://www.youtube.com/watch?v=GLmoyOuD75I)**
+
+Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 10K • 👍 910 • 💬 60 • ⏱️ 9:49 • 4h ago
+
+---
+
 **[Owning Just 0.21 Bitcoin Will Be Life-Changing (insane prediction)](https://www.youtube.com/watch?v=XbcGyluQMoY)**
 
 Follow Brian: https://www.youtube.com/@brainharrington Follow Brian: https://x.com/BrainHarrington Buy, Sell, Trade Crypto: ...
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 1K • 💬 211 • ⏱️ 19:36 • 1d ago
+👁️ 30K • 👍 2K • 💬 216 • ⏱️ 19:36 • 1d ago
 
 ---
 
@@ -307,37 +317,17 @@ Bitcoin #Crypto #finance Bitcoin remains stuck in its multi-month range as inves
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 730 • 💬 152 • ⏱️ 27:17 • 10h ago
+👁️ 15K • 👍 778 • 💬 228 • ⏱️ 27:17 • 13h ago
 
 ---
 
-**[BAD NEWS FOR BITCOIN HOLDERS!!!!!](https://www.youtube.com/watch?v=imjXnHFrTow)**
+**[Bitcoin’s Next Move Could Shock Everyone](https://www.youtube.com/watch?v=k1sUUvoqFl4)**
 
-LeveX: https://levex.com/r/CryptoKid VIP LEVEL 5 WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: ...
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Crypto Kid
+📺 CryptosRUs
 
-👁️ 4K • 👍 278 • 💬 49 • ⏱️ 8:43 • 12h ago
-
----
-
-**[The New Financial System Is Being Rebuilt Right Now](https://www.youtube.com/watch?v=DeFIfH9-I4g)**
-
-The financial system is quietly being rebuilt, and Bitcoin is moving from speculation to infrastructure. Stablecoins, tokenized assets ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 85 • ⏱️ 12:42 • 1d ago
-
----
-
-**[Sellers Are EXHAUSTED  #cryptocurrency #bitcoin #crypto](https://www.youtube.com/watch?v=Xr4ZN48A9EM)**
-
-Trade $10 get $10 - http://kalshi.com/r/altcoin Follow Altcoin Daily on X: https://x.com/AltcoinDaily A segment of today's video is ...
-
-📺 Altcoin Daily
-
-👁️ 10K • 👍 293 • 💬 15 • ⏱️ 1:11 • 1d ago
+👁️ 13K • 👍 730 • 💬 56 • ⏱️ 45:35 • 12h ago
 
 ---
 
@@ -347,27 +337,7 @@ Bitcoin charts, Robinhood Chain, Uniswap, Ethereum, Cashcat! BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 11K • 👍 557 • 💬 30 • ⏱️ 16:26 • 11h ago
-
----
-
-**[If MicroStrategy Crumbles Will Bitcoin Fail? | Larry Lepard](https://www.youtube.com/watch?v=DF0xD5vm-iU)**
-
-The biggest Bitcoin bear argument right now is that Strategy could trigger a catastrophic collapse. Larry Lepard takes that claim ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 123 • ⏱️ 24:58 • 1d ago
-
----
-
-**[🛑 URGENT WARNING TO ALL BITCOIN BULLS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! CRASH WAVE 3 IS COMING](https://www.youtube.com/watch?v=CyJbrbKmU_8)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 3K • 👍 346 • ⏱️ 33:35 • 7h ago
+👁️ 13K • 👍 595 • 💬 47 • ⏱️ 16:26 • 15h ago
 
 ---
 
@@ -377,17 +347,47 @@ The US and Iran went back to war this weekend and everything sold off. Oil jumpe
 
 📺 VirtualBacon
 
-👁️ 6K • 👍 322 • 💬 194 • ⏱️ 49:09 • 4h ago
+👁️ 10K • 👍 434 • 💬 249 • ⏱️ 49:09 • 7h ago
 
 ---
 
-**[Your Life If You Bought 1 Bitcoin at Every Cycle Bottom (The Math Is Insane)](https://www.youtube.com/watch?v=kpzHwTGW_dk)**
+**[If MicroStrategy Crumbles Will Bitcoin Fail? | Larry Lepard](https://www.youtube.com/watch?v=DF0xD5vm-iU)**
 
-Buying one Bitcoin at the exact bottom of all four cycles, perfect hindsight timing executed flawlessly, produced 4 coins from ...
+The biggest Bitcoin bear argument right now is that Strategy could trigger a catastrophic collapse. Larry Lepard takes that claim ...
 
-📺 Lark Davis
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 563 • 💬 55 • ⏱️ 10:00 • 1d ago
+👁️ 27K • 👍 2K • 💬 123 • ⏱️ 24:58 • 2d ago
+
+---
+
+**[BAD NEWS FOR BITCOIN HOLDERS!!!!!](https://www.youtube.com/watch?v=imjXnHFrTow)**
+
+LeveX: https://levex.com/r/CryptoKid VIP LEVEL 5 WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: ...
+
+📺 Crypto Kid
+
+👁️ 5K • 👍 295 • 💬 162 • ⏱️ 8:43 • 15h ago
+
+---
+
+**[The Brutal Truth About Retail Demand in This Bitcoin Cycle](https://www.youtube.com/watch?v=qQLMrzKGSAc)**
+
+Macro analyst Lyn Alden breaks down the disappointing reality that new retail demand for spot Bitcoin has been surprisingly low ...
+
+📺 Natalie Brunell
+
+👁️ 2K • 👍 70 • 💬 37 • ⏱️ 0:50 • 11h ago
+
+---
+
+**[The $10 Billion Bitcoin &quot;Put Wall&quot; Nobody Is Ready For | Michael Mescher](https://www.youtube.com/watch?v=4NLDxPf2KDQ)**
+
+Michael Mescher, Founder and CIO of Gammon Capital, joins the show to discuss the looming $10 billion 2027 "Put Wall" in ...
+
+📺 Tim Kotzman
+
+👁️ 9K • 👍 247 • 💬 116 • ⏱️ 38:39 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-13T23:59:54.716169+00:00'
+updated: '2026-07-14T03:21:55.722858+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 13, 2026 at 23:59 UTC  
+**Last Updated:** July 14, 2026 at 03:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** +0.3%  
-**30d:** +2.9%  
-**90d:** -24.7%  
-**1y:** -41.1%  
+**24h:** -0.1%  
+**7d:** +1.9%  
+**30d:** -1.0%  
+**90d:** -24.3%  
+**1y:** -43.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $211.94B
+**Market Cap:** $214.20B
 Rank #2
 
-**Circulating Supply:** 120,683,011 ETH
+**Circulating Supply:** 120,682,986 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.5%
+-64.1%
 
 **All-Time Low:** $0.43
-+405358.5%
++409848.3%
 
 ---
 
@@ -150,27 +150,19 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
+**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
+
+Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
+
+The Block • 5h ago
+
+---
+
 **[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-49-million-ethereum-152210893.html)**
 
 According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
 
-Yahoo Finance • 8h ago
-
----
-
-**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
-
-The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
-
-CoinDesk • 9h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
-
-PR Newswire • 11h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -178,7 +170,7 @@ PR Newswire • 11h ago
 
 Bitcoin opened at $63,745.37 on Monday, July 13, 2026, 0.2% lower than Sunday's opening price. As of 9:06 a.m. ET this morning, bitcoin moved down to $62,568.10. Ethereum opened at $1,805.49, up 1% from Sunday's opening price. The price of ethereum moved lower this morning to $1,770.99.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -194,7 +186,7 @@ The Motley Fool • 1d ago
 
 Track What price will Ethereum hit in July prediction market analysis with live Polymarket odds, probabilities, volume, liquidity, and market-moving catalysts.
 
-CryptoSlate • 6h ago
+CryptoSlate • 9h ago
 
 ---
 
@@ -202,7 +194,7 @@ CryptoSlate • 6h ago
 
 The cryptocurrency market broadly corrects on Monday, as risk-averse sentiment persists amid fresh military attacks between the United States (US) and Iran in the Middle East.
 
-FXStreet • 11h ago
+FXStreet • 14h ago
 
 ---
 
@@ -210,7 +202,7 @@ FXStreet • 11h ago
 
 BTC kept meeting absorption in June, and ETH came closer to follow-through. Price may give the first impression, but the stack decides whether that impression holds.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -218,7 +210,15 @@ Seeking Alpha • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 8h ago
+
+---
+
+**[Ethereum and Zcash Target Higher Levels, But BlockDAG Draws Traders In With Its 100% Bonus and New Utility Launches!](https://financefeeds.com/ethereum-and-zcash-target-higher-levels-but-blockdag-draws-traders-in-with-its-100-bonus-and-new-utility-launches/)**
+
+Explore the latest Ethereum price prediction, Zcash price outlook, and why BlockDAG is gaining attention as the best crypto to buy now with 100% bonus and massive utility!
+
+FinanceFeeds • 10h ago
 
 ---
 
@@ -238,17 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 571 • 💬 236 • ⏱️ 15:11 • 22h ago
-
----
-
-**[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 9K • 👍 659 • 💬 550 • ⏱️ 24:07 • 2d ago
+👁️ 9K • 👍 579 • 💬 248 • ⏱️ 15:11 • 1d ago
 
 ---
 
@@ -258,7 +248,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 562 • 💬 420 • ⏱️ 13:44 • 1d ago
+👁️ 8K • 👍 574 • 💬 383 • ⏱️ 13:44 • 1d ago
+
+---
+
+**[Ethereum is breaking up. But there&#39;s... no fighting?](https://www.youtube.com/watch?v=sF3NlQBIQDE)**
+
+Ethereum just got another major shake-up. On June 22, 2026, a group of former Ethereum Foundation researchers launched ...
+
+📺 Tim Ho
+
+👁️ 193 • 👍 12 • 💬 24 • ⏱️ 7:03 • 9h ago
 
 ---
 
@@ -268,7 +268,17 @@ BITCOIN & CRYPTO EMERGENCY (Market Flipped)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 220 • 💬 184 • ⏱️ 19:28 • 5h ago
+👁️ 6K • 👍 288 • 💬 247 • ⏱️ 19:28 • 9h ago
+
+---
+
+**[Ethereum&#39;s Biggest Prediction Yet? Tom Lee&#39;s Bold Crypto Call | Top Crypto Headlines](https://www.youtube.com/watch?v=DJHBHOEO52Y)**
+
+Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus. In today's Crypto Minutes, we cover institutional ...
+
+📺 NDTV Profit
+
+👁️ 900 • 👍 16 • 💬 1 • ⏱️ 3:43 • 20h ago
 
 ---
 
@@ -282,13 +292,13 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 ---
 
-**[Ethereum&#39;s Biggest Prediction Yet? Tom Lee&#39;s Bold Crypto Call | Top Crypto Headlines](https://www.youtube.com/watch?v=DJHBHOEO52Y)**
+**[ETHEREUM: TIME FOR ITS OWN BULL RUN](https://www.youtube.com/watch?v=SiZHlynlADM)**
 
-Bitcoin is trading near the $63000 mark as geopolitical tensions remain in focus. In today's Crypto Minutes, we cover institutional ...
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
-📺 NDTV Profit
+📺 Jordan Camirand
 
-👁️ 696 • 👍 15 • 💬 1 • ⏱️ 3:43 • 16h ago
+👁️ 9K • 👍 662 • 💬 549 • ⏱️ 24:07 • 2d ago
 
 ---
 
@@ -298,7 +308,7 @@ Follow My Live Trades   https://app.kingcobratrade.com/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 734 • 👍 64 • 💬 66 • ⏱️ 18:44 • 5h ago
+👁️ 1K • 👍 79 • 💬 51 • ⏱️ 18:44 • 8h ago
 
 ---
 
@@ -308,27 +318,17 @@ DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe 
 
 📺 CoinDesk
 
-👁️ 740 • 👍 3 • ⏱️ 0:36 • 11h ago
+👁️ 925 • 👍 6 • ⏱️ 0:36 • 15h ago
 
 ---
 
-**[XPR The Super Haven for the Credit Unions! | Canton Is Ethereum REALLY ENOUGH?!](https://www.youtube.com/watch?v=COo2FMR-hUY)**
+**[Ethereum price prediction - ETH can make millionaires](https://www.youtube.com/watch?v=jwviNt99gQQ)**
 
-XPR The Super Haven for the Credit Unions! | Canton Is Ethereum REALLY ENOUGH?! XPR, METAL & CANTON are Discussed ...
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
 
-📺 Crypto Growth
+📺 Crypto With James
 
-👁️ 215 • 👍 24 • 💬 2 • ⏱️ 17:14 • 8h ago
-
----
-
-**[Why Ethereum Could Win the Biggest Financial Shift in History](https://www.youtube.com/watch?v=iaW9FTzGvGg)**
-
-Our analysts called Micron (+217%), Nebius (+146%), and Bloom Energy (+130%). See what they're buying next with Milk Road ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 107 • 💬 11 • ⏱️ 10:43 • 2d ago
+👁️ 3K • 👍 66 • 💬 18 • ⏱️ 10:40 • 2d ago
 
 ---
 

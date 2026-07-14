@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-13T23:59:54.719053+00:00'
+updated: '2026-07-14T03:21:55.726113+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 13, 2026 at 23:59 UTC  
+**Last Updated:** July 14, 2026 at 03:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtu
 
 This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
 
-19h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-D
 
 I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
 
-22h ago
+1d ago
 
 ---
 
@@ -120,19 +120,11 @@ Cowboy State Daily • 2d ago
 
 ---
 
-**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
+**[Robotics CEO fumes after Wired portrays $20K home robot as ‘sexualized’](https://nypost.com/2026/07/13/media/robotics-ceo-fumes-after-wired-portrays-20k-home-robot-as-sexualized/)**
 
-Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
+Dar Sleeper, vice president of product and design at 1X, blasted Wired magazine over the weekend.
 
-Anthropic • 4d ago
-
----
-
-**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
-
-1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
-
-Business Insider • 14h ago
+New York Post • 9h ago
 
 ---
 
@@ -140,7 +132,7 @@ Business Insider • 14h ago
 
 The “SceneSmith” system developed by MIT CSAIL researchers uses AI agents to generate lifelike scenes of indoor environments like kitchens and hotels to help robots simulate everyday chores. These 3D worlds are more realistic and diverse than prior attempts, helping engineers save more time on real-world testing.
 
-MIT News • 5h ago
+MIT News • 8h ago
 
 ---
 
@@ -158,33 +150,41 @@ CNET • 1d ago
 
 ---
 
-**[Pa. robot maker wins Air Force deal for DroneDogs and other automated inspectors](https://www.inquirer.com/business/asylon-robotics-air-force-contract-airplane-inspections-20260713.html)**
+**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
 
-The goal of the robot system is to improve the speed and reliability of plane checks by Air Force maintenance crews, the company says.
+1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
 
-Inquirer.com • 11h ago
-
----
-
-**[Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New Details on Upgrading Its Robotics Strategy to the "Four-Core Full-Stack AI" and Q3 Robotics Practical Deployment Campaign](https://finance.yahoo.com/technology/ai/articles/faraday-future-founder-global-ceo-232100898.html)**
-
-LOS ANGELES, July 12, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) ("Faraday Future", "FF" or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global CEO of FF.
-
-Yahoo Finance • 1d ago
+Business Insider • 18h ago
 
 ---
 
-**[Teleoperated humanoid robots complete first-ever live surgery](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/)**
+**[Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers](https://www.autoblog.com/news/mitsubishi-is-bringing-humanoid-robots-to-its-factories-as-japan-runs-out-of-workers)**
 
-Surgeons at UC San Diego just handed the scalpel to two humanoid robots, who went on to complete live surgical procedures for the first time in history. This milestone moves beyond the fixed robotic arms found in operating rooms today and hints at an operating room of the future where humans and…
-
-New Atlas • 3d ago
+Autoblog • 1d ago
 
 ---
 
-**[Altera returns to growth as AI, robotics fuel demand, CEO says](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)**
+**[Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win](https://euromaidanpress.com/2026/07/12/ukraine-is-first-country-to-fund-combat-humanoid-robots-but-its-own-battlefield-says-wheels-still-win/)**
 
-Reuters • 3d ago
+Ukraine's Brave1 defense cluster opened a grant for domestic bipedal humanoid combat robots under a separate category.
+
+Euromaidan Press • 20h ago
+
+---
+
+**[Amazon preps robotics-equipped sorting warehouse in Texas](https://www.supplychaindive.com/news/amazon-preps-robotics-equipped-sorting-warehouse-in-texas/824978/)**
+
+The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.
+
+Supply Chain Dive • 13h ago
+
+---
+
+**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
+
+Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
+
+Anthropic • 4d ago
 
 ---
 
@@ -192,33 +192,13 @@ Reuters • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[Controlling the Robot from Anywhere 🤖🌎 #ros2 #robot #robotics #vpn #maker #wireguard #router #diy](https://www.youtube.com/watch?v=zhf198fhr94)**
-
-In this video, I show you how I created a VPN connection to my own home network using a router that supports hosting a VPN ...
-
-📺 Kitajima
-
-👁️ 1K • 👍 8 • ⏱️ 0:29 • 7h ago
-
----
-
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
-
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
-
-📺 PRO ROBOTS
-
-👁️ 26K • 👍 785 • 💬 59 • ⏱️ 29:49 • 4d ago
-
----
-
 **[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
 
 For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
 
 📺 ABC News
 
-👁️ 51K • 👍 859 • 💬 344 • ⏱️ 1:54 • 3d ago
+👁️ 53K • 👍 900 • 💬 369 • ⏱️ 1:54 • 3d ago
 
 ---
 
@@ -228,37 +208,27 @@ Booster Robotics' flagship humanoid robot is growing up. The three-year-old Chin
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 52 • 💬 2 • ⏱️ 1:07 • 8h ago
+👁️ 1K • 👍 58 • 💬 2 • ⏱️ 1:07 • 11h ago
 
 ---
 
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
+**[Controlling the Robot from Anywhere 🤖🌎 #ros2 #robot #robotics #vpn #maker #wireguard #router #diy](https://www.youtube.com/watch?v=zhf198fhr94)**
 
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
+In this video, I show you how I created a VPN connection to my own home network using a router that supports hosting a VPN ...
 
-📺 China Observer
+📺 Kitajima
 
-👁️ 73K • 👍 2K • 💬 598 • ⏱️ 20:21 • 5d ago
-
----
-
-**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
-
-Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
-
-📺 Unitree Robotics
-
-👁️ 180K • 👍 938 • 💬 155 • ⏱️ 1:10 • 4d ago
+👁️ 1K • 👍 8 • ⏱️ 0:29 • 11h ago
 
 ---
 
-**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
+**[I Built a Robot Arm to Run My Coffee Shop](https://www.youtube.com/watch?v=fB3K0D5G6mg)**
 
-In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
+I gave Claude a robot arm and let it run a coffee shop ☕   Full video on the main channel. #ai #robotics #claudeai.
 
-📺 Munro Live
+📺 Coding with Lewis
 
-👁️ 75K • 👍 2K • 💬 225 • ⏱️ 38:47 • 5d ago
+👁️ 6K • 👍 316 • 💬 5 • ⏱️ 1:19 • 11h ago
 
 ---
 
@@ -272,13 +242,13 @@ In India, thousands of factory workers are helping to build the next generation 
 
 ---
 
-**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
+**[Unitree G1 Humanoid Robot Teardown](https://www.youtube.com/watch?v=OXuqGuTgXGU)**
 
-Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
+In this video, we completely disassemble the Unitree G1 humanoid robot, taking an in-depth look at its engineering and design.
 
-📺 Discovery Australia
+📺 Munro Live
 
-👁️ 17K • 👍 304 • 💬 6 • ⏱️ 8:20 • 1d ago
+👁️ 76K • 👍 2K • 💬 226 • ⏱️ 38:47 • 5d ago
 
 ---
 
@@ -286,7 +256,37 @@ Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryA
 
 📺 Varun Mayya
 
-👁️ 156K • 👍 6K • 💬 83 • ⏱️ 1:03 • 2d ago
+👁️ 159K • 👍 6K • 💬 83 • ⏱️ 1:03 • 2d ago
+
+---
+
+**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
+
+Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
+
+📺 Discovery Australia
+
+👁️ 20K • 👍 322 • 💬 6 • ⏱️ 8:20 • 1d ago
+
+---
+
+**[This is the most advanced robot hand ever invented #shorts](https://www.youtube.com/watch?v=25HKvK7anJg)**
+
+This is the most advanced robot hand ever invented. It's the tendon-based NEO hand from 1X. And it sounds wild to say…but this ...
+
+📺 Kallaway
+
+👁️ 315K • 👍 17K • 💬 758 • ⏱️ 1:25 • 3d ago
+
+---
+
+**[Why I DON’T like servo grippers #robotics #mechatronics](https://www.youtube.com/watch?v=sQ_Dd227U50)**
+
+Sharing an example of a pneumatic gripper that belongs in our robotics projects and in some cases, should replace the ...
+
+📺 David Malawey
+
+👁️ 11K • 👍 587 • 💬 32 • ⏱️ 1:00 • 1d ago
 
 ---
 
