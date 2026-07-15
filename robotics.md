@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-15T17:47:18.147932+00:00'
+updated: '2026-07-15T19:11:23.476363+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 15, 2026 at 17:47 UTC  
+**Last Updated:** July 15, 2026 at 19:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From clankr on 𝕏: https://x.com/clankrmedia/status/2076593164744376707 Paper:
 
 I’ve been teaching myself robotics over the last few months, and I wanted to share my latest project. The main goal was simple: Build a self-balancing two-wheel rover using PVC pipe as the chassis while designing as much of the hardware myself as possible. Nearly every structural part you see was designed in CAD and 3D printed. Features Self-balancing two-wheel rover Long-range LoRa remote control Live telemetry Custom handheld controller Custom 3D printed drivetrain Custom traction system Fully 3D printed electronics mounts Dual OLED displays on the handheld Motion-controlled driving (tilt to drive) Rotary encoder and joystick controls RGB status display Custom firmware written from scratch Drivetrain Instead of buying off-the-shelf wheels, I designed a modular traction system. The drive rings, traction pads, wheel hubs, motor mounts, and internal supports were all modeled and 3D printed. The body itself is simply a section of PVC pipe. I wanted to see how capable a robot could become using inexpensive materials combined with custom printed parts. Electronics Rover Heltec ESP32 LoRa BNO08x IMU TB6612 motor driver SX1262 LoRa radio WS2812 LEDs 2S LiPo Buck converter Dual geared DC motors Handheld Controller Heltec ESP32 LoRa 1.5” RGB OLED Built-in OLED MPU6050 IMU Hall-effect joystick Rotary encoder 2S battery Software Everything is programmed in Arduino. Current features include: PID balancing Heading hold LoRa communication Telemetry Battery monitoring RSSI display OLED UI Motion control Adjustable tuning What’s Next? Now that V1 works, I’m debating where to go next. Option 1: Build a rotating pan/tilt turret with an ESP32 camera, laser, and object tracking. Option 2: Start over on a V2 chassis using independent cantilever suspension, larger wheels, and a more capable drivetrain. Which direction would you go?
 
-18h ago
+19h ago
 
 ---
 
@@ -60,7 +60,7 @@ We've been iterating on SoftSync FlexHand V1 over the last few weeks. This updat
 
 Teaching my 13-year-old grandson programming using Arduino, Python, and AI. We are currently programming this small robotic arm. I originally built the arm for him 5 years ago for Christmas. Back then he just played with it, but now he is writing new code for it. The goal is to detect candies placed in front of it and drop them into a cup. How it works: A Raspberry Pi-based USB camera monitors the workspace. A Python script running on a PC detects the candies and sends G-code commands to control the arm. Hardware & Firmware: The robotic arm is powered by an STM32F103 microcontroller running Arduino-based firmware.
 
-22h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ranjay Krishna argues that language may be an unnecessary intermediary between p
 
 Created Simulation From LLM Output Background: I studied EECS and I'm now getting into robotics, mostly working through the simulation side of things. While digging into the sim pipeline I came across this repo: https://github.com/AlexKaravaev/world-creator It's a CLI that generates Gazebo and Mujoco simulation worlds from a text prompt. You type something like "warehouse with shelves and some obstacles for navigation testing" and it picks models from the Gazebo model database and places them for you. I think it's genuinely a great idea and ahead of its time. It's from ~2023, so it predates all the recent LLM progress, and the author was upfront that the model hallucinated a lot back then. With today's models this approach could work way better. Curious about a few things: Has anyone here used this or something like it in real work? Is prompt-to-world something you'd actually want, or is scene setup not painful enough to matter? From what I've seen so far, people complain way more about getting the robot itself into sim (URDF, meshes, inertia values) than the environment around it. Is that right? If someone built an upgraded version of this, what would the use cases be for you? Randomized scenes for RL training? Test scenarios in CI? Quick demos? I'm exploring building in this space, so honest "nobody needs this" takes are just as useful as feature wishlists.
 
-14h ago
+15h ago
 
 ---
 
@@ -114,7 +114,23 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 **[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
+
+---
+
+**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
+
+Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
+
+Anthropic • 6d ago
+
+---
+
+**[Robot dogs could soon leave packages at your doorstep — automating delivery's 'final frontier'](https://www.businessinsider.com/boston-dynamics-is-using-robot-dog-as-a-delivery-worker-2026-7)**
+
+Boston Dynamics' Spot robot dog is being tested for package delivery, tackling the last 50 feet from truck to doorstep.
+
+Business Insider • 32m ago
 
 ---
 
@@ -130,15 +146,13 @@ Fox News • 1d ago
 
 Walden Robotics, led by MIT professor Russ Tedrake, has raised $300 million from Toyota and other investors.
 
-The Boston Globe • 1h ago
+The Boston Globe • 2h ago
 
 ---
 
-**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
+**[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
 
-Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
-
-Anthropic • 6d ago
+WSJ • 5h ago
 
 ---
 
@@ -146,7 +160,7 @@ Anthropic • 6d ago
 
 NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
 
-NVIDIA Blog • 6h ago
+NVIDIA Blog • 8h ago
 
 ---
 
@@ -154,21 +168,7 @@ NVIDIA Blog • 6h ago
 
 Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
 
-Fortune • 5h ago
-
----
-
-**[Your next DoorDash could arrive by robot](https://www.axios.com/local/washington-dc/2026/07/15/coco-robotics-dc-delivery-robots-logan-circle)**
-
-Axios • 7h ago
-
----
-
-**[Amazon Is Throwing Billions at Warehouse Robotics: What That Means for Symbotic's Stock.](https://finance.yahoo.com/markets/stocks/articles/amazon-throwing-billions-warehouse-robotics-110500526.html)**
-
-The automation arms race is heating up.
-
-Yahoo Finance • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -176,13 +176,15 @@ Yahoo Finance • 6h ago
 
 From tunnels to missile-hit buildings, Robotican’s unmanned systems take soldiers out of danger.
 
-The Jerusalem Post • 7h ago
+The Jerusalem Post • 8h ago
 
 ---
 
-**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
+**[Amazon Is Throwing Billions at Warehouse Robotics: What That Means for Symbotic's Stock.](https://finance.yahoo.com/markets/stocks/articles/amazon-throwing-billions-warehouse-robotics-110500526.html)**
 
-Business Wire • 7h ago
+The automation arms race is heating up.
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -196,7 +198,7 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 12K • 👍 1K • 💬 89 • ⏱️ 3:00 • 21h ago
+👁️ 12K • 👍 1K • 💬 89 • ⏱️ 3:00 • 22h ago
 
 ---
 
@@ -226,7 +228,7 @@ This incredible AI-powered handwriting robot uses precision robotics and intelli
 
 📺 Techie Sapien
 
-👁️ 44K • 💬 9 • ⏱️ 0:08 • 11h ago
+👁️ 44K • 💬 9 • ⏱️ 0:08 • 12h ago
 
 ---
 
@@ -236,7 +238,7 @@ This incredible AI-powered handwriting robot uses precision robotics and intelli
 
 📺 Manav
 
-👁️ 386 • 👍 6 • ⏱️ 0:32 • 38m ago
+👁️ 386 • 👍 6 • ⏱️ 0:32 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T17:47:18.145075+00:00'
+updated: '2026-07-15T19:11:23.473180+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 17:47 UTC  
+**Last Updated:** July 15, 2026 at 19:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.0%  
-**7d:** +10.6%  
-**30d:** +7.8%  
-**90d:** -20.2%  
-**1y:** -42.7%  
+**24h:** +2.7%  
+**7d:** +10.4%  
+**30d:** +7.5%  
+**90d:** -20.4%  
+**1y:** -42.8%  
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -170,29 +170,29 @@ CoinDesk • 1d ago
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
-**[Bitcoin jumps to $65,000: 'Backdrop for crypto is improving'](https://finance.yahoo.com/markets/crypto/article/bitcoin-jumps-to-65000-backdrop-for-crypto-is-improving-144838821.html)**
+**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
 
-Bitcoin jumped nearly 2% on Wednesday to hover above $65,000 per token, while ethereum rose 3%.
+Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Bitmine (BMNR) Rockets 11.5%; Big Investors Double Down on its Ethereum Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-rockets-11-5-013603059.html)**
+
+Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
+
+Yahoo Finance • 17h ago
 
 ---
 
 **[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
 
-MarketWatch • 3h ago
-
----
-
-**[Current price of Ethereum for July 15, 2026](https://fortune.com/article/price-of-ethereum-07-15-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 7h ago
+MarketWatch • 5h ago
 
 ---
 
@@ -204,11 +204,9 @@ TradingView • 1d ago
 
 ---
 
-**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
+**[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
 
-BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
-
-CryptoSlate • 1h ago
+thestreet.com • 1h ago
 
 ---
 
@@ -216,7 +214,7 @@ CryptoSlate • 1h ago
 
 Robinhood Chain hit 7.6 million daily transactions just 10 days after launch, with all activity settling on Ethereum L1 using ETH as the sole gas token.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -224,7 +222,7 @@ Crypto Briefing • 2h ago
 
 DUBAI, United Arab Emirates, July  14, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its cross-chain bridge connecting Ethereum, BNB Chain, and ...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -238,7 +236,7 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 The House Of Crypto
 
-👁️ 6K • 👍 509 • 💬 45 • ⏱️ 12:28 • 6h ago
+👁️ 6K • 👍 509 • 💬 45 • ⏱️ 12:28 • 7h ago
 
 ---
 
@@ -248,7 +246,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 33K • 👍 1K • 💬 155 • ⏱️ 34:54 • 22h ago
+👁️ 33K • 👍 1K • 💬 155 • ⏱️ 34:54 • 23h ago
 
 ---
 
@@ -258,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 211 • 👍 26 • 💬 33 • ⏱️ 18:30 • 32m ago
+👁️ 211 • 👍 26 • 💬 33 • ⏱️ 18:30 • 1h ago
 
 ---
 
@@ -278,7 +276,7 @@ En este video hare el análisis de bitcoin (btc), ahora mismo en una zona clave 
 
 📺 CryptoAnálisis
 
-👁️ 1K • 👍 261 • 💬 25 • ⏱️ 15:56 • 4h ago
+👁️ 1K • 👍 261 • 💬 25 • ⏱️ 15:56 • 6h ago
 
 ---
 
@@ -318,7 +316,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 253 • 💬 12 • ⏱️ 7:37 • 23h ago
+👁️ 4K • 👍 253 • 💬 12 • ⏱️ 7:37 • 1d ago
 
 ---
 

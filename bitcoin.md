@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-15T17:47:18.139851+00:00'
+updated: '2026-07-15T19:11:23.467250+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 17:47 UTC  
+**Last Updated:** July 15, 2026 at 19:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +3.0%  
-**30d:** -0.8%  
-**90d:** -15.5%  
-**1y:** -45.0%  
+**24h:** +0.6%  
+**7d:** +2.6%  
+**30d:** -1.1%  
+**90d:** -15.8%  
+**1y:** -45.2%  
 
 ---
 
@@ -81,23 +81,7 @@ Rank #1
 
 I'm a toxic bitcoin maximalist but some reactions in the bear market are funny.
 
-4h ago
-
----
-
-**[Many people will be off by 25% again this cycle.](https://www.reddit.com/r/Bitcoin/comments/1ux4dmm/many_people_will_be_off_by_25_again_this_cycle/)**
-
-At the previous low of around 16K many were waiting on the side line, hoping for 12K, which is 25%. If the bottem is already in, around 58K, all the people waiting for another 25% drop, which will be around 43K, will be left behind. Funny that 42-45K is a price I see being thrown around very often. The big boys know thousands of people are waiting for 45K prices in october, therefore I simply don’t think we’re going to see those lows.
-
 5h ago
-
----
-
-**[Who remembers this 8 year old banger](https://www.reddit.com/r/Bitcoin/comments/1ux6v0y/who_remembers_this_8_year_old_banger/)**
-
-Lemme hear your favorite bitcoin songs!
-
-3h ago
 
 ---
 
@@ -105,7 +89,29 @@ Lemme hear your favorite bitcoin songs!
 
 Bitcoin was having a great this year until one lightning strike hit the market.
 
-4h ago
+5h ago
+
+---
+
+**[Many people will be off by 25% again this cycle.](https://www.reddit.com/r/Bitcoin/comments/1ux4dmm/many_people_will_be_off_by_25_again_this_cycle/)**
+
+At the previous low of around 16K many were waiting on the side line, hoping for 12K, which is 25%. If the bottem is already in, around 58K, all the people waiting for another 25% drop, which will be around 43K, will be left behind. Funny that 42-45K is a price I see being thrown around very often. The big boys know thousands of people are waiting for 45K prices in october, therefore I simply don’t think we’re going to see those lows.
+
+6h ago
+
+---
+
+**[Who remembers this 8 year old banger](https://www.reddit.com/r/Bitcoin/comments/1ux6v0y/who_remembers_this_8_year_old_banger/)**
+
+Lemme hear your favorite bitcoin songs!
+
+5h ago
+
+---
+
+**[iPhone VS Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxbi3b/iphone_vs_bitcoin/)**
+
+2h ago
 
 ---
 
@@ -113,7 +119,7 @@ Bitcoin was having a great this year until one lightning strike hit the market.
 
 Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gain pushing total crypto market capitalization past $2.3 trillion.
 
-6h ago
+7h ago
 
 ---
 
@@ -127,21 +133,13 @@ Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gai
 
 For years I’ve been reading positive things about Strike by Jack Mallers, especially because you can apparently buy Bitcoin with very low fees (and even fee-free options depending on how you use it). I’ve tried Strike on and off in the past with mixed results, but now I want to properly test it. I’m comparing it against Finst, a Dutch exchange that currently offers some of the lowest Bitcoin buying fees in Europe (around 0.15%). Over a long period of DCA, small fee differences can really add up. My Bitcoin journey started years ago on Coinbase. Looking back, the fees there were pretty painful, with large spreads and transaction costs. One thing I did like about Coinbase at the time was the occasional free crypto rewards, but eventually I moved on. After Coinbase, I switched to Bitvavo, which is one of Europe’s largest exchanges by trading volume. Their fees are around 0.25%, which was already a big improvement. Currently I use Finst, but because I keep seeing so many positive experiences with Strike, I decided to test it myself instead of just relying on other people’s opinions. I created a spreadsheet where I’ll compare my weekly DCA purchases. My setup: - €100 Bitcoin DCA every Friday - Compare Strike vs Finst - Track the actual amount of BTC received and the total costs My first purchase was last Friday (July 10). At the moment I received slightly less BTC on Strike compared to Finst, which is expected because of the higher costs/spread on the first transaction. But the interesting part will be how this develops over several weeks and months. One thing I already like about Strike: it’s Bitcoin-only. No altcoins, no distractions, just Bitcoin. I’ll keep updating this thread with the results. Curious to hear from others in Europe: what platform are you using for your Bitcoin DCA, and why? Disclaimers: Not sponsored by Strike, Finst, or anyone else. I’m just a Dutch guy who likes comparing fees a little too much. 🇳🇱 Bitcoin is risky. Only invest what you can afford to lose.
 
-8h ago
+9h ago
 
 ---
 
 **[It's finally happening!](https://www.reddit.com/r/Bitcoin/comments/1uwqtyk/its_finally_happening/)**
 
-16h ago
-
----
-
-**[Faster Transactions Are Drawing Users Toward Bitcoin Payments](https://www.reddit.com/r/Bitcoin/comments/1uwn0aa/faster_transactions_are_drawing_users_toward/)**
-
-Faster Bitcoin payments are attracting more users with quick secure transactions.
-
-🔗 [The Silicon Review](https://thesiliconreview.com/2026/07/faster-transactions-are-drawing-users-toward-bitcoin-payments) • 19h ago
+18h ago
 
 ---
 
@@ -149,7 +147,7 @@ Faster Bitcoin payments are attracting more users with quick secure transactions
 
 It's a made up, until it becomes self fulfilling prophecy. Same every cycle. The bear and the 40K guy keep saying see you at 40K the other keep saying 100k next, nothing matters. Narratives always follow price action. Buy your own risk.
 
-11h ago
+12h ago
 
 ---
 
@@ -157,27 +155,9 @@ It's a made up, until it becomes self fulfilling prophecy. Same every cycle. The
 
 ## Google News: "bitcoin"
 
-**[Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO](https://www.coindesk.com/markets/2026/07/15/strategy-feels-very-secure-until-bitcoin-reaches-usd8-000-usd10-000-says-ceo)**
+**[Strategy bitcoin sales shine light on faltering crypto hoarding companies](https://www.reuters.com/legal/government/strategy-bitcoin-sales-shine-light-faltering-crypto-hoarding-companies-2026-07-13/)**
 
-Le highlighted increasing the U.S.-dollar reserve as an important lever in preferred stock STRC’s recovery back to around $90 having fallen below $75 last month.
-
-CoinDesk • 5h ago
-
----
-
-**[US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham](https://www.theblock.co/post/408202/us-government-moves-288-million-bitcoin-ether)**
-
-According to Arkham, the U.S. government wallet maintains a large crypto portfolio estimated at over $20 billion, including 324,552 BTC.
-
-The Block • 1d ago
-
----
-
-**[U.S. government moves $8.8M of Bitcoin that Trump said would never sell](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-8-8m-204911394.html)**
-
-The United States government moved $8.8 million of Bitcoin to Coinbase Prime on Monday night, according to blockchain intelligence firm Arkham. "The US Government just moved $8.8M of BTC to Coinbase Prime. The Coinbase Prime deposit that received this BTC 1 hour ago also received seized BTC from ...
-
-Yahoo Finance • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -189,25 +169,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
+**[U.S. government moves $8.8M of Bitcoin that Trump said would never sell](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-8-8m-204911394.html)**
 
-Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
+The United States government moved $8.8 million of Bitcoin to Coinbase Prime on Monday night, according to blockchain intelligence firm Arkham. "The US Government just moved $8.8M of BTC to Coinbase Prime. The Coinbase Prime deposit that received this BTC 1 hour ago also received seized BTC from ...
 
-Yahoo Finance • 5h ago
-
----
-
-**[BTC, ETH, SOL price news: Bitcoin nears $65,000 as Fed rate-hike expectations drop](https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade)**
-
-The June CPI print  pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.
-
-CoinDesk • 12h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin climbs to $65k as PPI wholesale inflation falls; Iran tensions limit gains](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-near-65k-as-rate-jitters-ease-iran-tensions-limit-gains-4792215)**
+**[US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham](https://www.theblock.co/post/408202/us-government-moves-288-million-bitcoin-ether)**
 
-Investing.com • 3h ago
+According to Arkham, the U.S. government wallet maintains a large crypto portfolio estimated at over $20 billion, including 324,552 BTC.
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin jumps to $65,000: 'Backdrop for crypto is improving'](https://finance.yahoo.com/markets/article/bitcoin-jumps-to-65000-backdrop-for-crypto-is-improving-144838821.html)**
+
+Bitcoin jumped nearly 2% on Wednesday to hover above $65,000 per token, while ethereum rose 3%.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -219,11 +201,19 @@ Alaska's News Source • 1d ago
 
 ---
 
+**[Bitcoin: All In At $40,000 (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4921923-bitcoin-all-in-at-40000)**
+
+Bitcoin is nearing a potential bottom, supported by 4-year cycle analysis, technical indicators and macroeconomic parallels. Read more on BTC-USD here.
+
+Seeking Alpha • 1d ago
+
+---
+
 **[CleanSpark CEO: We're still undervalued due to bitcoin connotation overhang](https://www.cnbc.com/video/2026/07/14/cleanspark-ceo-were-still-undervalued-due-to-bitcoin-connotation-overhang.html)**
 
 Matt Schultz, CleanSpark CEO, joins 'Power Lunch' to discuss the company's recent data center deal, how to classify the company and much more.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -231,7 +221,13 @@ CNBC • 22h ago
 
 Japan's parliament approved legislation reclassifying bitcoin and other cryptocurrencies as financial assets, marking a major regulatory shift that aligns digital assets more closely with traditional financial markets.
 
-Bitcoin Magazine • 4h ago
+Bitcoin Magazine • 6h ago
+
+---
+
+**[Fidelity: Actually, Homes Are Getting Cheaper (as Long as You Price Them in Bitcoin)](https://gizmodo.com/fidelity-actually-homes-are-getting-cheaper-as-long-as-you-price-them-in-bitcoin-2000785675)**
+
+Gizmodo • 10h ago
 
 ---
 
@@ -251,7 +247,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 19h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+⬆️ 2 • 💬 1 • 21h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
 
 ---
 
@@ -305,7 +301,7 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 57 • ⏱️ 9:17 • 18h ago
+👁️ 39K • 👍 2K • 💬 57 • ⏱️ 9:17 • 19h ago
 
 ---
 
@@ -335,7 +331,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 590 • 💬 184 • ⏱️ 10:49 • 17h ago
+👁️ 10K • 👍 590 • 💬 184 • ⏱️ 10:49 • 18h ago
 
 ---
 
@@ -345,7 +341,7 @@ WEEKLY REPORTS → https://link.tiainvestor.com/jyt-reports ➡ 18-YEAR CYCLE MI
 
 📺 Jason Pizzino
 
-👁️ 20K • 👍 1K • 💬 85 • ⏱️ 31:06 • 16h ago
+👁️ 20K • 👍 1K • 💬 85 • ⏱️ 31:06 • 17h ago
 
 ---
 
@@ -355,7 +351,7 @@ Inflation came in cooler than expected, but what does that actually mean for Bit
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 3K • 💬 87 • ⏱️ 7:57 • 15h ago
+👁️ 41K • 👍 3K • 💬 87 • ⏱️ 7:57 • 16h ago
 
 ---
 
@@ -385,7 +381,7 @@ Inflation dropped by a LOT and bitcoin responded but WILL IT LAST with new war d
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 455 • 💬 34 • ⏱️ 32:04 • 19h ago
+👁️ 7K • 👍 455 • 💬 34 • ⏱️ 32:04 • 20h ago
 
 ---
 
