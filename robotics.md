@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-15T14:20:04.121768+00:00'
+updated: '2026-07-15T16:01:48.279187+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 15, 2026 at 14:20 UTC  
+**Last Updated:** July 15, 2026 at 16:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From clankr on 𝕏: https://x.com/clankrmedia/status/2076593164744376707 Paper:
 
 I’ve been teaching myself robotics over the last few months, and I wanted to share my latest project. The main goal was simple: Build a self-balancing two-wheel rover using PVC pipe as the chassis while designing as much of the hardware myself as possible. Nearly every structural part you see was designed in CAD and 3D printed. Features Self-balancing two-wheel rover Long-range LoRa remote control Live telemetry Custom handheld controller Custom 3D printed drivetrain Custom traction system Fully 3D printed electronics mounts Dual OLED displays on the handheld Motion-controlled driving (tilt to drive) Rotary encoder and joystick controls RGB status display Custom firmware written from scratch Drivetrain Instead of buying off-the-shelf wheels, I designed a modular traction system. The drive rings, traction pads, wheel hubs, motor mounts, and internal supports were all modeled and 3D printed. The body itself is simply a section of PVC pipe. I wanted to see how capable a robot could become using inexpensive materials combined with custom printed parts. Electronics Rover Heltec ESP32 LoRa BNO08x IMU TB6612 motor driver SX1262 LoRa radio WS2812 LEDs 2S LiPo Buck converter Dual geared DC motors Handheld Controller Heltec ESP32 LoRa 1.5” RGB OLED Built-in OLED MPU6050 IMU Hall-effect joystick Rotary encoder 2S battery Software Everything is programmed in Arduino. Current features include: PID balancing Heading hold LoRa communication Telemetry Battery monitoring RSSI display OLED UI Motion control Adjustable tuning What’s Next? Now that V1 works, I’m debating where to go next. Option 1: Build a rotating pan/tilt turret with an ESP32 camera, laser, and object tracking. Option 2: Start over on a V2 chassis using independent cantilever suspension, larger wheels, and a more capable drivetrain. Which direction would you go?
 
-15h ago
+16h ago
 
 ---
 
@@ -60,7 +60,7 @@ We've been iterating on SoftSync FlexHand V1 over the last few weeks. This updat
 
 Teaching my 13-year-old grandson programming using Arduino, Python, and AI. We are currently programming this small robotic arm. I originally built the arm for him 5 years ago for Christmas. Back then he just played with it, but now he is writing new code for it. The goal is to detect candies placed in front of it and drop them into a cup. How it works: A Raspberry Pi-based USB camera monitors the workspace. A Python script running on a PC detects the candies and sends G-code commands to control the arm. Hardware & Firmware: The robotic arm is powered by an STM32F103 microcontroller running Arduino-based firmware.
 
-19h ago
+20h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ranjay Krishna argues that language may be an unnecessary intermediary between p
 
 **[Dtof LIDAR HM-LD1 Outdoor Test Under the Sunlight](https://www.reddit.com/r/robotics/comments/1uwc218/dtof_lidar_hmld1_outdoor_test_under_the_sunlight/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Ranjay Krishna argues that language may be an unnecessary intermediary between p
 
 Created Simulation From LLM Output Background: I studied EECS and I'm now getting into robotics, mostly working through the simulation side of things. While digging into the sim pipeline I came across this repo: https://github.com/AlexKaravaev/world-creator It's a CLI that generates Gazebo and Mujoco simulation worlds from a text prompt. You type something like "warehouse with shelves and some obstacles for navigation testing" and it picks models from the Gazebo model database and places them for you. I think it's genuinely a great idea and ahead of its time. It's from ~2023, so it predates all the recent LLM progress, and the author was upfront that the model hallucinated a lot back then. With today's models this approach could work way better. Curious about a few things: Has anyone here used this or something like it in real work? Is prompt-to-world something you'd actually want, or is scene setup not painful enough to matter? From what I've seen so far, people complain way more about getting the robot itself into sim (URDF, meshes, inertia values) than the environment around it. Is that right? If someone built an upgraded version of this, what would the use cases be for you? Randomized scenes for RL training? Test scenarios in CI? Quick demos? I'm exploring building in this space, so honest "nobody needs this" takes are just as useful as feature wishlists.
 
-10h ago
+12h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 **[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -122,7 +122,7 @@ Bloomberg.com • 5h ago
 
 Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.
 
-Fox News • 22h ago
+Fox News • 1d ago
 
 ---
 
@@ -130,7 +130,7 @@ Fox News • 22h ago
 
 A vice president of robotics startup 1X was not happy with some coverage of the company's decidedly sensual humanoid robot.
 
-Futurism • 22h ago
+Futurism • 1d ago
 
 ---
 
@@ -146,13 +146,35 @@ Anthropic • 6d ago
 
 NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
 
-NVIDIA Blog • 3h ago
+NVIDIA Blog • 5h ago
+
+---
+
+**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
+
+Business Wire • 6h ago
+
+---
+
+**[GMEX Robotics Seeks AI Platform to Model Human Social Behavior](https://www.stocktitan.net/news/GMEX/gmex-robotics-corporation-signs-letter-of-intent-for-strategic-5tceeeocel0v.html)**
+
+The non-binding LOI is expected to use shares and cash; GMEX intends to invest in social world models after closing for healthcare, education and retail.
+
+Stock Titan • 1d ago
+
+---
+
+**[He sold his last company to Palantir. Now he's betting $32 million that robots can fix construction's labor crisis](https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)**
+
+Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
+
+Fortune • 4h ago
 
 ---
 
 **[Your next DoorDash could arrive by robot](https://www.axios.com/local/washington-dc/2026/07/15/coco-robotics-dc-delivery-robots-logan-circle)**
 
-Axios • 3h ago
+Axios • 5h ago
 
 ---
 
@@ -160,27 +182,7 @@ Axios • 3h ago
 
 From tunnels to missile-hit buildings, Robotican’s unmanned systems take soldiers out of danger.
 
-The Jerusalem Post • 3h ago
-
----
-
-**[Icarus Robotics taps KULR to provide batteries for Space Station robots](https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/)**
-
-SpaceNews • 1h ago
-
----
-
-**[Goldman Sachs Says the Crowd Is Wrong on This Beaten-Down Medical Robotics Giant](https://www.fool.com/investing/2026/07/15/goldman-sachs-says-the-crowd-is-wrong-on-this-beat/)**
-
-And Goldman Sachs may be right.
-
-The Motley Fool • 9h ago
-
----
-
-**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
-
-Business Wire • 4h ago
+The Jerusalem Post • 5h ago
 
 ---
 
@@ -194,7 +196,7 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 11K • 👍 1K • 💬 81 • ⏱️ 3:00 • 17h ago
+👁️ 11K • 👍 1K • 💬 81 • ⏱️ 3:00 • 19h ago
 
 ---
 
@@ -224,7 +226,7 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 
 📺 Suhel Experiment
 
-👁️ 37K • 💬 28 • ⏱️ 1:30 • 2d ago
+👁️ 37K • 💬 28 • ⏱️ 1:30 • 3d ago
 
 ---
 
@@ -254,7 +256,7 @@ This incredible AI-powered handwriting robot uses precision robotics and intelli
 
 📺 Techie Sapien
 
-👁️ 27K • 💬 8 • ⏱️ 0:08 • 7h ago
+👁️ 27K • 💬 8 • ⏱️ 0:08 • 9h ago
 
 ---
 
@@ -264,7 +266,7 @@ War Robots Gameplay: WR Devourer Bendy Bullets Gameplay - WR My War Robots Creat
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 317 • 💬 50 • ⏱️ 11:49 • 22h ago
+👁️ 6K • 👍 317 • 💬 50 • ⏱️ 11:49 • 1d ago
 
 ---
 

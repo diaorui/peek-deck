@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-15T14:20:04.113839+00:00'
+updated: '2026-07-15T16:01:48.269833+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 14:20 UTC  
+**Last Updated:** July 15, 2026 at 16:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,285.55
+### $65,400.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
+**24h:** +1.1%  
 **7d:** +3.2%  
 **30d:** -0.5%  
-**90d:** -15.3%  
+**90d:** -15.2%  
 **1y:** -44.9%  
 
 ---
@@ -77,47 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Steak n Shake thanks their loyal patrons and Bitcoiners and says that anyone who doubts the power of Bitcoin is making a BIG mistake.](https://www.reddit.com/r/Bitcoin/comments/1uwbt8u/steak_n_shake_thanks_their_loyal_patrons_and/)**
+**[Bitcoiners in a bearmarket be like..](https://www.reddit.com/r/Bitcoin/comments/1ux5o0d/bitcoiners_in_a_bearmarket_be_like/)**
 
-22h ago
+I'm a toxic bitcoin maximalist but some reactions in the bear market are funny.
 
----
-
-**[Strike vs Finst: testing low-fee Bitcoin DCA in Europe](https://www.reddit.com/r/Bitcoin/comments/1ux0nam/strike_vs_finst_testing_lowfee_bitcoin_dca_in/)**
-
-For years I’ve been reading positive things about Strike by Jack Mallers, especially because you can apparently buy Bitcoin with very low fees (and even fee-free options depending on how you use it). I’ve tried Strike on and off in the past with mixed results, but now I want to properly test it. I’m comparing it against Finst, a Dutch exchange that currently offers some of the lowest Bitcoin buying fees in Europe (around 0.15%). Over a long period of DCA, small fee differences can really add up. My Bitcoin journey started years ago on Coinbase. Looking back, the fees there were pretty painful, with large spreads and transaction costs. One thing I did like about Coinbase at the time was the occasional free crypto rewards, but eventually I moved on. After Coinbase, I switched to Bitvavo, which is one of Europe’s largest exchanges by trading volume. Their fees are around 0.25%, which was already a big improvement. Currently I use Finst, but because I keep seeing so many positive experiences with Strike, I decided to test it myself instead of just relying on other people’s opinions. I created a spreadsheet where I’ll compare my weekly DCA purchases. My setup: - €100 Bitcoin DCA every Friday - Compare Strike vs Finst - Track the actual amount of BTC received and the total costs My first purchase was last Friday (July 10). At the moment I received slightly less BTC on Strike compared to Finst, which is expected because of the higher costs/spread on the first transaction. But the interesting part will be how this develops over several weeks and months. One thing I already like about Strike: it’s Bitcoin-only. No altcoins, no distractions, just Bitcoin. I’ll keep updating this thread with the results. Curious to hear from others in Europe: what platform are you using for your Bitcoin DCA, and why? Disclaimers: Not sponsored by Strike, Finst, or anyone else. I’m just a Dutch guy who likes comparing fees a little too much. 🇳🇱 Bitcoin is risky. Only invest what you can afford to lose.
-
-5h ago
+2h ago
 
 ---
 
-**[It's finally happening!](https://www.reddit.com/r/Bitcoin/comments/1uwqtyk/its_finally_happening/)**
+**[Many people will be off by 25% again this cycle.](https://www.reddit.com/r/Bitcoin/comments/1ux4dmm/many_people_will_be_off_by_25_again_this_cycle/)**
 
-13h ago
+At the previous low of around 16K many were waiting on the side line, hoping for 12K, which is 25%. If the bottem is already in, around 58K, all the people waiting for another 25% drop, which will be around 43K, will be left behind. Funny that 42-45K is a price I see being thrown around very often. The big boys know thousands of people are waiting for 45K prices in october, therefore I simply don’t think we’re going to see those lows.
 
----
-
-**[Faster Transactions Are Drawing Users Toward Bitcoin Payments](https://www.reddit.com/r/Bitcoin/comments/1uwn0aa/faster_transactions_are_drawing_users_toward/)**
-
-Faster Bitcoin payments are attracting more users with quick secure transactions.
-
-🔗 [The Silicon Review](https://thesiliconreview.com/2026/07/faster-transactions-are-drawing-users-toward-bitcoin-payments) • 16h ago
+3h ago
 
 ---
 
-**[Bitcoin vs S&P500 ROI](https://www.reddit.com/r/Bitcoin/comments/1uws18v/bitcoin_vs_sp500_roi/)**
+**[Who remembers this 8 year old banger](https://www.reddit.com/r/Bitcoin/comments/1ux6v0y/who_remembers_this_8_year_old_banger/)**
 
-In my 20s. What is the better investment for the next 10-20 years. Yes it’s a risk and return play (Sharpe Ratio). However, it depends on your risk tolerance, knowledge, and emotional intelligence. Wanted to get people’s thoughts on this debate.
+Lemme hear your favorite bitcoin songs!
 
-12h ago
+1h ago
 
 ---
 
-**[To The 70K and beyond](https://www.reddit.com/r/Bitcoin/comments/1uwq2pd/to_the_70k_and_beyond/)**
+**[The calm before the storm📈📉](https://www.reddit.com/r/Bitcoin/comments/1ux5z9z/the_calm_before_the_storm/)**
 
-This time for sure
+Bitcoin was having a great this year until one lightning strike hit the market.
 
-14h ago
+2h ago
 
 ---
 
@@ -125,7 +113,35 @@ This time for sure
 
 Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gain pushing total crypto market capitalization past $2.3 trillion.
 
-2h ago
+4h ago
+
+---
+
+**[Steak n Shake thanks their loyal patrons and Bitcoiners and says that anyone who doubts the power of Bitcoin is making a BIG mistake.](https://www.reddit.com/r/Bitcoin/comments/1uwbt8u/steak_n_shake_thanks_their_loyal_patrons_and/)**
+
+1d ago
+
+---
+
+**[Strike vs Finst: testing low-fee Bitcoin DCA in Europe](https://www.reddit.com/r/Bitcoin/comments/1ux0nam/strike_vs_finst_testing_lowfee_bitcoin_dca_in/)**
+
+For years I’ve been reading positive things about Strike by Jack Mallers, especially because you can apparently buy Bitcoin with very low fees (and even fee-free options depending on how you use it). I’ve tried Strike on and off in the past with mixed results, but now I want to properly test it. I’m comparing it against Finst, a Dutch exchange that currently offers some of the lowest Bitcoin buying fees in Europe (around 0.15%). Over a long period of DCA, small fee differences can really add up. My Bitcoin journey started years ago on Coinbase. Looking back, the fees there were pretty painful, with large spreads and transaction costs. One thing I did like about Coinbase at the time was the occasional free crypto rewards, but eventually I moved on. After Coinbase, I switched to Bitvavo, which is one of Europe’s largest exchanges by trading volume. Their fees are around 0.25%, which was already a big improvement. Currently I use Finst, but because I keep seeing so many positive experiences with Strike, I decided to test it myself instead of just relying on other people’s opinions. I created a spreadsheet where I’ll compare my weekly DCA purchases. My setup: - €100 Bitcoin DCA every Friday - Compare Strike vs Finst - Track the actual amount of BTC received and the total costs My first purchase was last Friday (July 10). At the moment I received slightly less BTC on Strike compared to Finst, which is expected because of the higher costs/spread on the first transaction. But the interesting part will be how this develops over several weeks and months. One thing I already like about Strike: it’s Bitcoin-only. No altcoins, no distractions, just Bitcoin. I’ll keep updating this thread with the results. Curious to hear from others in Europe: what platform are you using for your Bitcoin DCA, and why? Disclaimers: Not sponsored by Strike, Finst, or anyone else. I’m just a Dutch guy who likes comparing fees a little too much. 🇳🇱 Bitcoin is risky. Only invest what you can afford to lose.
+
+6h ago
+
+---
+
+**[It's finally happening!](https://www.reddit.com/r/Bitcoin/comments/1uwqtyk/its_finally_happening/)**
+
+15h ago
+
+---
+
+**[Faster Transactions Are Drawing Users Toward Bitcoin Payments](https://www.reddit.com/r/Bitcoin/comments/1uwn0aa/faster_transactions_are_drawing_users_toward/)**
+
+Faster Bitcoin payments are attracting more users with quick secure transactions.
+
+🔗 [The Silicon Review](https://thesiliconreview.com/2026/07/faster-transactions-are-drawing-users-toward-bitcoin-payments) • 17h ago
 
 ---
 
@@ -133,23 +149,7 @@ Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gai
 
 It's a made up, until it becomes self fulfilling prophecy. Same every cycle. The bear and the 40K guy keep saying see you at 40K the other keep saying 100k next, nothing matters. Narratives always follow price action. Buy your own risk.
 
-7h ago
-
----
-
-**[Is the volatility worth the eventual payoff?](https://www.reddit.com/r/Bitcoin/comments/1ux2i2v/is_the_volatility_worth_the_eventual_payoff/)**
-
-I'm sure most people here believe BTC will outperform the S&P500... eventually. Do you think the delta will be worth all the headache? Would it be better simply to do the S&P500 and take a lower return?
-
-3h ago
-
----
-
-**[We always think we're "too late" to Bitcoin... Then five years pass.](https://www.reddit.com/r/Bitcoin/comments/1uwcovt/we_always_think_were_too_late_to_bitcoin_then/)**
-
-We’ve all seen the charts, and we’ve all felt that exact same pit in our stomach. "I missed the boat." "The easy money has been made." "It's too late to start now." Here is the brutal truth about Bitcoin: everyone gets the price they deserve. The people who bought at $1,000 had to endure years of media outlets calling it a dying fad. The people who bought at $10,000 had to hold through massive, soul-crushing 80% drops where everyone around them said "I told you so." Bitcoin isn't just a stock or a ticker that goes up and down on a screen. It is a fundamental shift in how the world defines value. It is the first time in human history that we have a currency that cannot be printed into oblivion by a central entity. When you look back at today from five or ten years in the future, the current price won't look like a peak. It will look like a flat line at the very beginning of the chart. Stop staring at the 1-minute candles. Stop stressing over the daily noise. Zoom out. The best time to understand Bitcoin was ten years ago. The second-best time is right now. What the hell is stopping you?
-
-22h ago
+9h ago
 
 ---
 
@@ -157,25 +157,23 @@ We’ve all seen the charts, and we’ve all felt that exact same pit in our sto
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-64k-following-largest-152427907.html)**
+**[Strategy bitcoin sales shine light on faltering crypto hoarding companies](https://www.reuters.com/legal/government/strategy-bitcoin-sales-shine-light-faltering-crypto-hoarding-companies-2026-07-13/)**
 
-Consumer prices cooled more than expected in June, yet geopolitical tensions continue to cast a shadow over crypto prices
-
-Yahoo Finance • 22h ago
+Reuters • 2d ago
 
 ---
 
-**[BTC, ETH, SOL price news: Bitcoin nears $65,000 as Fed rate-hike expectations drop](https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade)**
+**[Strategy (MSTR) Launches Bitcoin Banking Index As It Builds A $3 Billion Reserve](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-launches-bitcoin-banking-011345883.html)**
 
-The June CPI print  pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.
+Strategy Inc. (NasdaqGS:MSTR) has introduced a Bitcoin Banking Adoption Index, aimed at tracking how traditional financial institutions are engaging with Bitcoin. The company is shifting its treasury approach by pausing new Bitcoin purchases and raising cash through stock issuance to build a larger US$ reserve. Strategy is best known for its strong association with Bitcoin, so this shift in capital and treasury decisions is a material development for anyone following NasdaqGS:MSTR. The...
 
-CoinDesk • 9h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Bitcoin (BTC) Weakens as Oil-Price Spike Revives Inflation Concerns](https://www.bloomberg.com/news/articles/2026-07-13/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns)**
+**[Strategy Aims to Boost Preferred Shares, Buy More Bitcoin](https://www.bloomberg.com/news/articles/2026-07-14/strategy-s-ceo-aims-to-boost-preferred-shares-buy-more-bitcoin)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -203,21 +201,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Polymarket Traders May Be Manipulating Crypto Bets, Study Says](https://www.bloomberg.com/news/articles/2026-07-15/polymarket-traders-may-be-manipulating-crypto-bets-study-says?srnd=homepage-americas)**
+**[Bitcoin jumps to $65,000: 'Backdrop for crypto is improving'](https://finance.yahoo.com/markets/crypto/article/bitcoin-jumps-to-65000-backdrop-for-crypto-is-improving-144838821.html)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Strategy Feels 'Very Secure' Until Bitcoin Reaches $8,000-$10,000, Says CEO](https://www.moomoo.com/news/post/73009557/strategy-feels-very-secure-until-bitcoin-reaches-8000-10000-says)**
-
-Moomoo • 2h ago
-
----
-
-**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
-
-Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
+Bitcoin jumped nearly 2% on Wednesday to hover above $65,000 per token, while ethereum rose 3%.
 
 Yahoo Finance • 1h ago
 
@@ -227,7 +213,23 @@ Yahoo Finance • 1h ago
 
 Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
 
-Alaska's News Source • 21h ago
+Alaska's News Source • 22h ago
+
+---
+
+**[CleanSpark CEO: We're still undervalued due to bitcoin connotation overhang](https://www.cnbc.com/video/2026/07/14/cleanspark-ceo-were-still-undervalued-due-to-bitcoin-connotation-overhang.html)**
+
+Matt Schultz, CleanSpark CEO, joins 'Power Lunch' to discuss the company's recent data center deal, how to classify the company and much more.
+
+CNBC • 20h ago
+
+---
+
+**[Cathie Wood of Ark Invest Thinks Bitcoin Has Finally Bottomed Out. If History Is Any Guide, This Is What Happens Next.](https://www.fool.com/investing/2026/07/15/cathie-wood-of-ark-invest-thinks-bitcoin-has-final/)**
+
+Wood's predictions for the coin's price are known for being ambitious.
+
+The Motley Fool • 9h ago
 
 ---
 
@@ -247,7 +249,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 16h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+⬆️ 2 • 💬 1 • 17h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
 
 ---
 
@@ -271,7 +273,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
-⬆️ 1 • 💬 0 • 4d ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
+⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
 
 ---
 
@@ -301,7 +303,7 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 55 • ⏱️ 9:17 • 14h ago
+👁️ 35K • 👍 2K • 💬 55 • ⏱️ 9:17 • 16h ago
 
 ---
 
@@ -311,7 +313,7 @@ In this episode, I sit down with Joe Consorti to answer the question everyone ke
 
 📺 THE Bitcoin Podcast with Walker
 
-👁️ 7K • 👍 398 • 💬 93 • ⏱️ 1:12:44 • 23h ago
+👁️ 7K • 👍 398 • 💬 93 • ⏱️ 1:12:44 • 1d ago
 
 ---
 
@@ -321,7 +323,7 @@ Inflation dropped by a LOT and bitcoin responded but WILL IT LAST with new war d
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 436 • 💬 33 • ⏱️ 32:04 • 15h ago
+👁️ 6K • 👍 436 • 💬 33 • ⏱️ 32:04 • 17h ago
 
 ---
 
@@ -341,7 +343,7 @@ Three major catalysts just strengthened the long term case for Bitcoin, but most
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 123 • ⏱️ 16:56 • 16h ago
+👁️ 22K • 👍 2K • 💬 123 • ⏱️ 16:56 • 18h ago
 
 ---
 
@@ -351,7 +353,7 @@ Inflation came in cooler than expected, but what does that actually mean for Bit
 
 📺 Benjamin Cowen
 
-👁️ 34K • 👍 2K • 💬 78 • ⏱️ 7:57 • 12h ago
+👁️ 34K • 👍 2K • 💬 78 • ⏱️ 7:57 • 13h ago
 
 ---
 
@@ -361,7 +363,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 575 • 💬 182 • ⏱️ 10:49 • 13h ago
+👁️ 9K • 👍 575 • 💬 182 • ⏱️ 10:49 • 15h ago
 
 ---
 
@@ -371,7 +373,7 @@ Join Gareth's Top Squad here on YouTube for premium videos, weekly discount code
 
 📺 Gareth Soloway
 
-👁️ 47K • 👍 3K • 💬 162 • ⏱️ 12:10 • 21h ago
+👁️ 47K • 👍 3K • 💬 162 • ⏱️ 12:10 • 23h ago
 
 ---
 
@@ -381,7 +383,7 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 802 • 💬 113 • ⏱️ 42:00 • 23h ago
+👁️ 14K • 👍 802 • 💬 113 • ⏱️ 42:00 • 1d ago
 
 ---
 
@@ -391,7 +393,7 @@ WEEKLY REPORTS → https://link.tiainvestor.com/jyt-reports ➡ 18-YEAR CYCLE MI
 
 📺 Jason Pizzino
 
-👁️ 17K • 👍 997 • 💬 83 • ⏱️ 31:06 • 12h ago
+👁️ 17K • 👍 997 • 💬 83 • ⏱️ 31:06 • 14h ago
 
 ---
 
