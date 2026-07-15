@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T20:33:37.744827+00:00'
+updated: '2026-07-15T22:01:17.771046+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 20:33 UTC  
+**Last Updated:** July 15, 2026 at 22:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,921.36
+### $1,920.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** +10.5%  
-**30d:** +7.7%  
-**90d:** -20.3%  
-**1y:** -42.8%  
+**24h:** +1.6%  
+**7d:** +10.1%  
+**30d:** +7.2%  
+**90d:** -20.6%  
+**1y:** -43.0%  
 
 ---
 
@@ -154,15 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
-CoinDesk • 7h ago
-
----
-
-**[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
-
-The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
-
-CoinDesk • 1d ago
+CoinDesk • 8h ago
 
 ---
 
@@ -170,15 +162,23 @@ CoinDesk • 1d ago
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
+**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-needs-143513421.html)**
 
-Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
+EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[What the Fed’s No-Bailout Warning Really Means for Bitcoin, Ethereum, and XRP](https://finance.yahoo.com/markets/crypto/articles/fed-no-bailout-warning-really-213113425.html)**
+
+Kevin Warsh told Congress the Fed won't bail out crypto, and Bitcoin holders panicked. But the real threat to Bitcoin, Ethereum, and XRP has nothing to do with bailouts, and Warsh just quietly signaled it.
+
+Yahoo Finance • 30m ago
 
 ---
 
@@ -186,35 +186,21 @@ Yahoo Finance • 8h ago
 
 Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
 
-MarketWatch • 6h ago
+MarketWatch • 8h ago
 
 ---
 
-**[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
+**[Current price of Ethereum for July 15, 2026](https://fortune.com/article/price-of-ethereum-07-15-2026/)**
 
-thestreet.com • 2h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
----
-
-**[Surging volumes on Robinhood Chain could benefit Ethereum](https://cryptobriefing.com/robinhood-chain-volumes-benefit-ethereum/)**
-
-Robinhood Chain hit 7.6 million daily transactions just 10 days after launch, with all activity settling on Ethereum L1 using ETH as the sole gas token.
-
-Crypto Briefing • 5h ago
-
----
-
-**[New Crypto Pepeto Announces Cross-Chain Bridge Connecting Ethereum, BNB Chain, and Solana](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-cross-chain-bridge-connecting-ethereum-bnb-chain-and-solana-1036325042)**
-
-DUBAI, United Arab Emirates, July  14, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its cross-chain bridge connecting Ethereum, BNB Chain, and ...
-
-markets.businessinsider.com • 23h ago
+Fortune • 9h ago
 
 ---
 
@@ -222,7 +208,21 @@ markets.businessinsider.com • 23h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
 
-FXStreet • 16h ago
+FXStreet • 17h ago
+
+---
+
+**[Surging volumes on Robinhood Chain could benefit Ethereum](https://cryptobriefing.com/robinhood-chain-volumes-benefit-ethereum/)**
+
+Robinhood Chain hit 7.6 million daily transactions just 10 days after launch, with all activity settling on Ethereum L1 using ETH as the sole gas token.
+
+Crypto Briefing • 6h ago
+
+---
+
+**[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
+
+thestreet.com • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 The House Of Crypto
 
-👁️ 8K • 👍 606 • 💬 52 • ⏱️ 12:28 • 8h ago
+👁️ 8K • 👍 606 • 💬 52 • ⏱️ 12:28 • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN & CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 1K • 👍 141 • 💬 36 • ⏱️ 21:31 • 2h ago
+👁️ 1K • 👍 141 • 💬 36 • ⏱️ 21:31 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 959 • 👍 109 • 💬 7 • ⏱️ 18:30 • 3h ago
+👁️ 959 • 👍 109 • 💬 7 • ⏱️ 18:30 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PL
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 191 • 💬 4 • ⏱️ 43:18 • 2h ago
+👁️ 2K • 👍 191 • 💬 4 • ⏱️ 43:18 • 3h ago
 
 ---
 
@@ -296,7 +296,7 @@ The Fed just surprised everyone. Two cold inflation prints in 48 hours crushed J
 
 📺 VirtualBacon
 
-👁️ 1K • 👍 94 • 💬 3 • ⏱️ 1:01:02 • 42m ago
+👁️ 1K • 👍 94 • 💬 3 • ⏱️ 1:01:02 • 2h ago
 
 ---
 
@@ -306,7 +306,7 @@ En este video hare el análisis de bitcoin (btc), ahora mismo en una zona clave 
 
 📺 CryptoAnálisis
 
-👁️ 2K • 👍 312 • 💬 27 • ⏱️ 15:56 • 7h ago
+👁️ 2K • 👍 312 • 💬 27 • ⏱️ 15:56 • 9h ago
 
 ---
 
