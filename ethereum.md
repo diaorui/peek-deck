@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T03:58:19.618534+00:00'
+updated: '2026-07-15T06:22:45.938171+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 03:58 UTC  
+**Last Updated:** July 15, 2026 at 06:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,875.43
+### $1,887.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.2%  
-**7d:** +7.6%  
-**30d:** +4.8%  
-**90d:** -22.4%  
-**1y:** -44.3%  
+**24h:** +6.0%  
+**7d:** +8.1%  
+**30d:** +5.3%  
+**90d:** -22.0%  
+**1y:** -44.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.48B
+**Market Cap:** $227.52B
 Rank #2
 
 **Circulating Supply:** 120,682,943 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-61.9%
 
 **All-Time Low:** $0.43
-+433329.8%
++435433.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I feel like that was the endgame of defi. You put $2000 in a perpetual futures vault, or some combination of blue chip pools, and then you spend 25 cents a day to bribe your way out of ads. Why did nobody integrate web3? People spent more in gas to move a jpeg than a monthly news subscription. I should be able to use fixed yield tools to continuously fund my favorite websites and creators, without either party exposing themselves to insolvency risk. The tooling is there to build yield-based subscription models, but very few sites are integrating with the Metamask compatible framework that all the gambling sites run on. It's like stepping into the future for a brief moment, only that they offer something that is mathematically predestined to reward specific behaviors over others in a negative sum fashion given the gas cost to do anything (it's still cheaper and more open than traditional payment routing methods). If the NYT needs 4 bucks a month to run, let me park $100 in some fixed-yield derivative of a degen farm where the future payout is guaranteed to the site for a year or something. I get like $90 bucks back on a bad year when I unlock my liquidity provisions, and we both make out in the green, because either the degen yield trader lost the farm, or leverage users had a Tuesday. Assuming the internet remains primarily free and ad driven, what obstacles are we dealing with?
 
-3d ago
+4d ago
 
 ---
 
@@ -88,7 +88,7 @@ I feel like that was the endgame of defi. You put $2000 in a perpetual futures v
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -104,7 +104,7 @@ Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, De
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -134,7 +134,7 @@ Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -154,15 +154,15 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
-**[Bitmine, SharpLink and Joe Lubin Back EthSystems’ Institutional Ethereum Privacy Push](https://finance.yahoo.com/markets/crypto/articles/bitmine-sharplink-joe-lubin-back-155900686.html)**
+**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-needs-143513421.html)**
 
-EthSystems has launched with backing from Bitmine (NYSE: $BMNP), SharpLink (NASDAQ: $SBET) and Ethereum (CRYPTO: $E...
+EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -170,15 +170,7 @@ Yahoo Finance • 11h ago
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 13h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Jump as Softer Inflation Dims Rate Hike Odds: Analyst Sees 'Bullish Case' Amid Muted Crypto Chatter](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-jump-015943264.html)**
-
-Leading cryptocurrencies rallied alongside stocks on Tuesday following cooler-than-expected inflation numbers, despite elevated geopolitical tensions remaining in place. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+3.50%$64,752.40Ethereum (CRYPTO: ETH) +4.72%$1,876.36XRP (CRYPTO: XRP) +3.52%$1.10Solana (CRYPTO: SOL) +2.93%$77.59Dogecoin (CRYPTO: DOGE) +2.64%$0.07403 Crypto Market Rallies Bitcoin hit $65,000 for the first time in over three weeks, while Et
-
-Yahoo Finance • 1h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -190,11 +182,43 @@ PR Newswire • 1d ago
 
 ---
 
+**[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-49-million-ethereum-152210893.html)**
+
+According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee says users 'starting to see Ethereum as money' as Bitmine adds 27,801 ETH](https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth)**
+
+Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Dip as Trump Reinstates Strait of Hormuz Blockade: Analyst Says Whales 'Actively Accumulating' BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-dip-014618534.html)**
+
+Leading cryptocurrencies slid alongside stocks on Monday after President Donald Trump floated full U.S. control over the Strait of Hormuz and a reimbursement fee on all cargo passing through. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.10%$62,405.07Ethereum (CRYPTO: ETH) -1.98%$1,782.82XRP (CRYPTO: XRP) -2.02%$1.06Solana (CRYPTO: SOL) -2.58%$75.26Dogecoin (CRYPTO: DOGE) -1.54%$0.07207 Increased Selling Pressure Bitcoin tumbled below $62,000 as trading
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitcoin, Ethereum and XRP Prices Rally Even as Fed Chair Warsh Says ‘No Crypto Bailout’](https://www.tradingview.com/news/coinpedia:e3e048caf094b:0-bitcoin-ethereum-and-xrp-prices-rally-even-as-fed-chair-warsh-says-no-crypto-bailout/)**
 
 Crypto prices are rising across the board today, even as the head of the Federal Reserve made clear he has no plans to step in and rescue the industry if things go wrong. Bitcoin sits near $64,600 today, rising more than 3%. Ethereum has climbed above $1,875 today, gaining more than 5% over the las…
 
-TradingView • 12h ago
+TradingView • 14h ago
+
+---
+
+**[Crypto Today: Where are BTC, ETH and XRP heading amid capital outflows?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-sideways-trading-amid-etf-outflows-us-iran-war-escalation-202607141055)**
+
+The cryptocurrency market continues to trade under pressure despite a mild and broad rebound on Tuesday. Bitcoin (BTC) hovers around $62,500 amid prevalent sideways trading.
+
+FXStreet • 19h ago
 
 ---
 
@@ -202,27 +226,7 @@ TradingView • 12h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
-
----
-
-**[New Crypto Pepeto Announces Cross-Chain Bridge Connecting Ethereum, BNB Chain, and Solana](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-cross-chain-bridge-connecting-ethereum-bnb-chain-and-solana-1036325042)**
-
-DUBAI, United Arab Emirates, July  14, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its cross-chain bridge connecting Ethereum, BNB Chain, and ...
-
-markets.businessinsider.com • 6h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
-
-MarketWatch • 13h ago
-
----
-
-**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
-
-CCN.com • 18h ago
+Fortune • 20h ago
 
 ---
 
@@ -236,27 +240,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 21K • 👍 1K • 💬 122 • ⏱️ 34:54 • 8h ago
-
----
-
-**[Tom Lee: &quot;My NEW Prediction For The 2026 Crypto Bull Run&quot; (Prepare Now)](https://www.youtube.com/watch?v=_Dy6Kgnhd60)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 2K • 👍 99 • 💬 23 • ⏱️ 11:05 • 11h ago
-
----
-
-**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 480 • 💬 217 • ⏱️ 17:15 • 13h ago
+👁️ 25K • 👍 1K • 💬 131 • ⏱️ 34:54 • 11h ago
 
 ---
 
@@ -266,17 +250,17 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 85 • 💬 20 • ⏱️ 5:20 • 16h ago
+👁️ 2K • 👍 86 • 💬 21 • ⏱️ 5:20 • 18h ago
 
 ---
 
-**[Bitcoin Breakout: The Bears Will Get SQUEEZED Near-Term (BTC, ETH, SOL, HYPE, XRP)](https://www.youtube.com/watch?v=Xu2MSbIwf4U)**
+**[Tom Lee: &quot;My NEW Prediction For The 2026 Crypto Bull Run&quot; (Prepare Now)](https://www.youtube.com/watch?v=_Dy6Kgnhd60)**
 
-Join Gareth's Top Squad here on YouTube for premium videos, weekly discount codes, and real-time trade setups: ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Gareth Soloway
+📺 Crypto Nutshell
 
-👁️ 37K • 👍 3K • 💬 149 • ⏱️ 12:10 • 10h ago
+👁️ 3K • 👍 102 • 💬 24 • ⏱️ 11:05 • 14h ago
 
 ---
 
@@ -286,7 +270,17 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 278 • 💬 25 • ⏱️ 14:47 • 21h ago
+👁️ 4K • 👍 279 • 💬 26 • ⏱️ 14:47 • 23h ago
+
+---
+
+**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 489 • 💬 219 • ⏱️ 17:15 • 15h ago
 
 ---
 
@@ -296,17 +290,7 @@ Ethereum is showing signs of a potential bullish breakout as inflation in the U.
 
 📺 FXEmpire
 
-👁️ 48 • 👍 1 • 💬 13 • ⏱️ 5:17 • 8h ago
-
----
-
-**[Ripple CEO Considering Selling All XRP Because Of This Bitcoin &amp; Ethereum Hit Record Levels](https://www.youtube.com/watch?v=-TnUSzgAqQs)**
-
-The crypto market has become quite dramatic over the last few weeks as it would appear literally everyone is anticipating crypto ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 17K • 👍 1K • 💬 369 • ⏱️ 27:00 • 16h ago
+👁️ 71 • 👍 1 • 💬 13 • ⏱️ 5:17 • 10h ago
 
 ---
 
@@ -316,15 +300,37 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 177 • 💬 7 • ⏱️ 7:37 • 9h ago
+👁️ 3K • 👍 197 • 💬 8 • ⏱️ 7:37 • 11h ago
 
 ---
 
-**[XRP AND ETH FOMO EXPLODES!? #xrp #ethereum #robinhood](https://www.youtube.com/watch?v=70wY-ec_l98)**
+**[ETHEREUM: THE REAL MOST HATED RALLY](https://www.youtube.com/watch?v=-cWisMcB35I)**
 
-📺 CryptoWendyO
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
-👁️ 2K • 👍 330 • 💬 19 • ⏱️ 2:12 • 2h ago
+📺 Jordan Camirand
+
+👁️ 9K • 👍 598 • 💬 392 • ⏱️ 13:44 • 2d ago
+
+---
+
+**[Bitcoin Breakout: The Bears Will Get SQUEEZED Near-Term (BTC, ETH, SOL, HYPE, XRP)](https://www.youtube.com/watch?v=Xu2MSbIwf4U)**
+
+Join Gareth's Top Squad here on YouTube for premium videos, weekly discount codes, and real-time trade setups: ...
+
+📺 Gareth Soloway
+
+👁️ 40K • 👍 3K • 💬 152 • ⏱️ 12:10 • 13h ago
+
+---
+
+**[Ripple CEO Considering Selling All XRP Because Of This Bitcoin &amp; Ethereum Hit Record Levels](https://www.youtube.com/watch?v=-TnUSzgAqQs)**
+
+The crypto market has become quite dramatic over the last few weeks as it would appear literally everyone is anticipating crypto ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 18K • 👍 2K • 💬 383 • ⏱️ 27:00 • 18h ago
 
 ---
 
