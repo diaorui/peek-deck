@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-15T19:11:23.476363+00:00'
+updated: '2026-07-15T20:33:37.747750+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 15, 2026 at 19:11 UTC  
+**Last Updated:** July 15, 2026 at 20:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From clankr on 𝕏: https://x.com/clankrmedia/status/2076593164744376707 Paper:
 
 I’ve been teaching myself robotics over the last few months, and I wanted to share my latest project. The main goal was simple: Build a self-balancing two-wheel rover using PVC pipe as the chassis while designing as much of the hardware myself as possible. Nearly every structural part you see was designed in CAD and 3D printed. Features Self-balancing two-wheel rover Long-range LoRa remote control Live telemetry Custom handheld controller Custom 3D printed drivetrain Custom traction system Fully 3D printed electronics mounts Dual OLED displays on the handheld Motion-controlled driving (tilt to drive) Rotary encoder and joystick controls RGB status display Custom firmware written from scratch Drivetrain Instead of buying off-the-shelf wheels, I designed a modular traction system. The drive rings, traction pads, wheel hubs, motor mounts, and internal supports were all modeled and 3D printed. The body itself is simply a section of PVC pipe. I wanted to see how capable a robot could become using inexpensive materials combined with custom printed parts. Electronics Rover Heltec ESP32 LoRa BNO08x IMU TB6612 motor driver SX1262 LoRa radio WS2812 LEDs 2S LiPo Buck converter Dual geared DC motors Handheld Controller Heltec ESP32 LoRa 1.5” RGB OLED Built-in OLED MPU6050 IMU Hall-effect joystick Rotary encoder 2S battery Software Everything is programmed in Arduino. Current features include: PID balancing Heading hold LoRa communication Telemetry Battery monitoring RSSI display OLED UI Motion control Adjustable tuning What’s Next? Now that V1 works, I’m debating where to go next. Option 1: Build a rotating pan/tilt turret with an ESP32 camera, laser, and object tracking. Option 2: Start over on a V2 chassis using independent cantilever suspension, larger wheels, and a more capable drivetrain. Which direction would you go?
 
-19h ago
+21h ago
 
 ---
 
@@ -60,7 +60,7 @@ We've been iterating on SoftSync FlexHand V1 over the last few weeks. This updat
 
 Teaching my 13-year-old grandson programming using Arduino, Python, and AI. We are currently programming this small robotic arm. I originally built the arm for him 5 years ago for Christmas. Back then he just played with it, but now he is writing new code for it. The goal is to detect candies placed in front of it and drop them into a cup. How it works: A Raspberry Pi-based USB camera monitors the workspace. A Python script running on a PC detects the candies and sends G-code commands to control the arm. Hardware & Firmware: The robotic arm is powered by an STM32F103 microcontroller running Arduino-based firmware.
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Ranjay Krishna argues that language may be an unnecessary intermediary between p
 
 Created Simulation From LLM Output Background: I studied EECS and I'm now getting into robotics, mostly working through the simulation side of things. While digging into the sim pipeline I came across this repo: https://github.com/AlexKaravaev/world-creator It's a CLI that generates Gazebo and Mujoco simulation worlds from a text prompt. You type something like "warehouse with shelves and some obstacles for navigation testing" and it picks models from the Gazebo model database and places them for you. I think it's genuinely a great idea and ahead of its time. It's from ~2023, so it predates all the recent LLM progress, and the author was upfront that the model hallucinated a lot back then. With today's models this approach could work way better. Curious about a few things: Has anyone here used this or something like it in real work? Is prompt-to-world something you'd actually want, or is scene setup not painful enough to matter? From what I've seen so far, people complain way more about getting the robot itself into sim (URDF, meshes, inertia values) than the environment around it. Is that right? If someone built an upgraded version of this, what would the use cases be for you? Randomized scenes for RL training? Test scenarios in CI? Quick demos? I'm exploring building in this space, so honest "nobody needs this" takes are just as useful as feature wishlists.
 
-15h ago
+17h ago
 
 ---
 
@@ -114,7 +114,21 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 **[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 12h ago
+
+---
+
+**[Stealthy Toyota spinout gets one of Boston area’s biggest robotics deals ever](https://www.bostonglobe.com/2026/07/15/business/walden-robotics-cambridge-toyota-humanoid/)**
+
+Walden Robotics, led by MIT professor Russ Tedrake, has raised $300 million from Toyota and other investors.
+
+The Boston Globe • 8h ago
+
+---
+
+**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
+
+Business Wire • 10h ago
 
 ---
 
@@ -126,41 +140,15 @@ Anthropic • 6d ago
 
 ---
 
-**[Robot dogs could soon leave packages at your doorstep — automating delivery's 'final frontier'](https://www.businessinsider.com/boston-dynamics-is-using-robot-dog-as-a-delivery-worker-2026-7)**
+**[Gecko Robotics to open new manufacturing facility in Sewickley focused on defense](https://www.bizjournals.com/pittsburgh/news/2026/07/15/gecko-sewickley-manufacturing-facility.html)**
 
-Boston Dynamics' Spot robot dog is being tested for package delivery, tackling the last 50 feet from truck to doorstep.
-
-Business Insider • 32m ago
-
----
-
-**[Humanoid robots perform live surgery in world first](https://www.foxnews.com/tech/humanoid-robots-perform-live-surgery-world-first)**
-
-Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.
-
-Fox News • 1d ago
-
----
-
-**[Stealthy Toyota spinout gets one of Boston’s biggest robotics deals ever](https://www.bostonglobe.com/2026/07/15/business/walden-robotics-cambridge-toyota-humanoid/?p1=SectionFront_Feed_AuthorQuery)**
-
-Walden Robotics, led by MIT professor Russ Tedrake, has raised $300 million from Toyota and other investors.
-
-The Boston Globe • 2h ago
+The Business Journals • 42m ago
 
 ---
 
 **[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
 
-WSJ • 5h ago
-
----
-
-**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
-
-NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
-
-NVIDIA Blog • 8h ago
+WSJ • 6h ago
 
 ---
 
@@ -168,7 +156,21 @@ NVIDIA Blog • 8h ago
 
 Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
 
-Fortune • 7h ago
+Fortune • 8h ago
+
+---
+
+**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
+
+NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
+
+NVIDIA Blog • 9h ago
+
+---
+
+**[Upstate NY school district will deploy a humanoid robot teacher this fall](https://www.newyorkupstate.com/schools/2026/07/upstate-ny-school-district-will-deploy-a-humanoid-robot-teacher-this-fall.html)**
+
+NewYorkUpstate.com • 4h ago
 
 ---
 
@@ -176,15 +178,7 @@ Fortune • 7h ago
 
 From tunnels to missile-hit buildings, Robotican’s unmanned systems take soldiers out of danger.
 
-The Jerusalem Post • 8h ago
-
----
-
-**[Amazon Is Throwing Billions at Warehouse Robotics: What That Means for Symbotic's Stock.](https://finance.yahoo.com/markets/stocks/articles/amazon-throwing-billions-warehouse-robotics-110500526.html)**
-
-The automation arms race is heating up.
-
-Yahoo Finance • 8h ago
+The Jerusalem Post • 10h ago
 
 ---
 
@@ -192,43 +186,13 @@ Yahoo Finance • 8h ago
 
 ## YouTube Videos: "robotics"
 
-**[Building a GIANT Remote Controlled Robot  #engineering #robotics #fanuc](https://www.youtube.com/watch?v=c_oJXMTtcLE)**
-
-Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
-
-📺 Excessive Overkill
-
-👁️ 12K • 👍 1K • 💬 89 • ⏱️ 3:00 • 22h ago
-
----
-
 **[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
 Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
 📺 PRO ROBOTS
 
-👁️ 27K • 👍 806 • 💬 61 • ⏱️ 29:49 • 6d ago
-
----
-
-**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
-
-For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
-
-📺 ABC News
-
-👁️ 61K • 👍 1K • 💬 440 • ⏱️ 1:54 • 5d ago
-
----
-
-**[AI Handwriting Robot Perfectly Replicates Human Writing with Incredible Precision 🤖✍️🧠](https://www.youtube.com/watch?v=NxxtoPbprYc)**
-
-This incredible AI-powered handwriting robot uses precision robotics and intelligent motion control to replicate human handwriting ...
-
-📺 Techie Sapien
-
-👁️ 44K • 💬 9 • ⏱️ 0:08 • 12h ago
+👁️ 27K • 👍 807 • 💬 61 • ⏱️ 29:49 • 6d ago
 
 ---
 
@@ -238,7 +202,17 @@ This incredible AI-powered handwriting robot uses precision robotics and intelli
 
 📺 Manav
 
-👁️ 386 • 👍 6 • ⏱️ 0:32 • 2h ago
+👁️ 667 • 👍 20 • ⏱️ 0:32 • 3h ago
+
+---
+
+**[Building a GIANT Remote Controlled Robot  #engineering #robotics #fanuc](https://www.youtube.com/watch?v=c_oJXMTtcLE)**
+
+Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
+
+📺 Excessive Overkill
+
+👁️ 13K • 👍 1K • 💬 91 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -252,33 +226,33 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 
 ---
 
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
+
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
+
+📺 ABC News
+
+👁️ 62K • 👍 1K • 💬 441 • ⏱️ 1:54 • 5d ago
+
+---
+
 **[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
 
 Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
 
 📺 Unitree Robotics
 
-👁️ 978K • 👍 987 • 💬 161 • ⏱️ 1:10 • 6d ago
+👁️ 1.1M • 👍 988 • 💬 161 • ⏱️ 1:10 • 6d ago
 
 ---
 
-**[This is the most advanced robot hand ever invented #shorts](https://www.youtube.com/watch?v=25HKvK7anJg)**
+**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
 
-This is the most advanced robot hand ever invented. It's the tendon-based NEO hand from 1X. And it sounds wild to say…but this ...
+A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
 
-📺 Kallaway
+📺 Al Jazeera English
 
-👁️ 361K • 👍 18K • 💬 786 • ⏱️ 1:25 • 5d ago
-
----
-
-**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
-
-In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
-
-📺 DW News
-
-👁️ 46K • 👍 2K • 💬 131 • ⏱️ 2:38 • 5d ago
+👁️ 49K • 👍 394 • 💬 266 • ⏱️ 2:44 • 1d ago
 
 ---
 
@@ -289,6 +263,24 @@ Russia Hosts First-Ever Robot Wedding In Morocow | AI Couple Robert & Matilda Ti
 📺 Times Now
 
 👁️ 19K • 👍 1K • 💬 66 • ⏱️ 2:15 • 5d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 186K • 👍 6K • 💬 90 • ⏱️ 1:03 • 4d ago
+
+---
+
+**[First Robot That Does Everything](https://www.youtube.com/watch?v=IXVHAJg-Usw)**
+
+Thank you Blake | 1412J for joining me and breaking down his robot #Vex #robotics #stem #override.
+
+📺 Luke does robotics
+
+👁️ 6K • 👍 221 • 💬 31 • ⏱️ 10:47 • 4d ago
 
 ---
 

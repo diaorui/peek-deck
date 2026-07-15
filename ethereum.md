@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T19:11:23.473180+00:00'
+updated: '2026-07-15T20:33:37.744827+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 19:11 UTC  
+**Last Updated:** July 15, 2026 at 20:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,905.87
+### $1,921.36
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** +10.4%  
-**30d:** +7.5%  
-**90d:** -20.4%  
+**24h:** +2.8%  
+**7d:** +10.5%  
+**30d:** +7.7%  
+**90d:** -20.3%  
 **1y:** -42.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.01B
+**Market Cap:** $232.30B
 Rank #2
 
 **Circulating Supply:** 120,682,943 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.1%
 
 **All-Time Low:** $0.43
-+444085.5%
++444628.3%
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1d ago
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 22h ago
 
 Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -186,27 +186,19 @@ Yahoo Finance • 6h ago
 
 Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
 
-MarketWatch • 5h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Prices Rally Even as Fed Chair Warsh Says ‘No Crypto Bailout’](https://www.tradingview.com/news/coinpedia:e3e048caf094b:0-bitcoin-ethereum-and-xrp-prices-rally-even-as-fed-chair-warsh-says-no-crypto-bailout/)**
-
-Crypto prices are rising across the board today, even as the head of the Federal Reserve made clear he has no plans to step in and rescue the industry if things go wrong. Bitcoin sits near $64,600 today, rising more than 3%. Ethereum has climbed above $1,875 today, gaining more than 5% over the las…
-
-TradingView • 1d ago
+MarketWatch • 6h ago
 
 ---
 
 **[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
 
-thestreet.com • 1h ago
+thestreet.com • 2h ago
 
 ---
 
@@ -214,7 +206,7 @@ thestreet.com • 1h ago
 
 Robinhood Chain hit 7.6 million daily transactions just 10 days after launch, with all activity settling on Ethereum L1 using ETH as the sole gas token.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -222,7 +214,15 @@ Crypto Briefing • 3h ago
 
 DUBAI, United Arab Emirates, July  14, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its cross-chain bridge connecting Ethereum, BNB Chain, and ...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 23h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show tentative recovery as key technical levels hold](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-tentative-recovery-as-key-technical-levels-hold-202607150403)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
+
+FXStreet • 16h ago
 
 ---
 
@@ -236,17 +236,17 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 The House Of Crypto
 
-👁️ 6K • 👍 509 • 💬 45 • ⏱️ 12:28 • 7h ago
+👁️ 8K • 👍 606 • 💬 52 • ⏱️ 12:28 • 8h ago
 
 ---
 
-**[Ethereum Sentiment Skyrockets!🚀Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=fVXl1WwMOjo)**
+**[BITCOIN &amp; CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5n7WB0eCfyI)**
 
-Ethereum has recently shown signs of attempting to break its downtrend against Bitcoin. Meanwhile, Robinhood's new blockchain ...
+BITCOIN & CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Paul Barron Network
+📺 Crypto World
 
-👁️ 33K • 👍 1K • 💬 155 • ⏱️ 34:54 • 23h ago
+👁️ 1K • 👍 141 • 💬 36 • ⏱️ 21:31 • 2h ago
 
 ---
 
@@ -256,7 +256,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 211 • 👍 26 • 💬 33 • ⏱️ 18:30 • 1h ago
+👁️ 959 • 👍 109 • 💬 7 • ⏱️ 18:30 • 3h ago
+
+---
+
+**[Ethereum Sentiment Skyrockets!🚀Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=fVXl1WwMOjo)**
+
+Ethereum has recently shown signs of attempting to break its downtrend against Bitcoin. Meanwhile, Robinhood's new blockchain ...
+
+📺 Paul Barron Network
+
+👁️ 35K • 👍 1K • 💬 166 • ⏱️ 34:54 • 1d ago
+
+---
+
+**[XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PLAY From ROBINHOOD!](https://www.youtube.com/watch?v=uB7k-m55JQM)**
+
+XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PLAY From ROBINHOOD!
+
+📺 CryptoWendyO
+
+👁️ 2K • 👍 191 • 💬 4 • ⏱️ 43:18 • 2h ago
 
 ---
 
@@ -266,7 +286,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 134 • 💬 30 • ⏱️ 11:05 • 1d ago
+👁️ 4K • 👍 135 • 💬 30 • ⏱️ 11:05 • 1d ago
+
+---
+
+**[Inflation Easing, Are Bottoms in for BTC, ETH, Gold?](https://www.youtube.com/watch?v=_POcYbw8qkk)**
+
+The Fed just surprised everyone. Two cold inflation prints in 48 hours crushed July rate-hike odds from 41% to 17%, and Bitcoin ...
+
+📺 VirtualBacon
+
+👁️ 1K • 👍 94 • 💬 3 • ⏱️ 1:01:02 • 42m ago
 
 ---
 
@@ -276,47 +306,7 @@ En este video hare el análisis de bitcoin (btc), ahora mismo en una zona clave 
 
 📺 CryptoAnálisis
 
-👁️ 1K • 👍 261 • 💬 25 • ⏱️ 15:56 • 6h ago
-
----
-
-**[Ripple CEO Considering Selling All XRP Because Of This Bitcoin &amp; Ethereum Hit Record Levels](https://www.youtube.com/watch?v=-TnUSzgAqQs)**
-
-The crypto market has become quite dramatic over the last few weeks as it would appear literally everyone is anticipating crypto ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 20K • 👍 2K • 💬 479 • ⏱️ 27:00 • 1d ago
-
----
-
-**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 93 • 💬 24 • ⏱️ 5:20 • 1d ago
-
----
-
-**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
-
-Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
-
-📺 Coin Bureau Trading
-
-👁️ 5K • 👍 308 • 💬 26 • ⏱️ 14:47 • 1d ago
-
----
-
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=EisJCfHe01I)**
-
-In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 253 • 💬 12 • ⏱️ 7:37 • 1d ago
+👁️ 2K • 👍 312 • 💬 27 • ⏱️ 15:56 • 7h ago
 
 ---
 
@@ -326,7 +316,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 514 • 💬 224 • ⏱️ 17:15 • 1d ago
+👁️ 9K • 👍 515 • 💬 224 • ⏱️ 17:15 • 1d ago
+
+---
+
+**[Kiyosaki Predicts Ethereum Hits 95000 Dollars](https://www.youtube.com/watch?v=rZNaDkGPdY0)**
+
+Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 times return from current prices. His prediction ...
+
+📺 Lark Davis
+
+👁️ 7K • 👍 217 • 💬 39 • ⏱️ 1:10 • 1d ago
 
 ---
 
