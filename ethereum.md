@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-14T23:27:18.157678+00:00'
+updated: '2026-07-15T00:52:31.669643+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 14, 2026 at 23:27 UTC  
+**Last Updated:** July 15, 2026 at 00:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.9%  
-**7d:** +7.9%  
-**30d:** +4.8%  
-**90d:** -19.9%  
-**1y:** -40.1%  
+**24h:** +5.4%  
+**7d:** +7.8%  
+**30d:** +5.0%  
+**90d:** -22.3%  
+**1y:** -44.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.84B
+**Market Cap:** $226.75B
 Rank #2
 
 **Circulating Supply:** 120,682,986 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+434161.2%
++433858.7%
 
 ---
 
@@ -150,19 +150,27 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
+**[Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing](https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing)**
+
+The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
+
+The Block • 3h ago
+
+---
+
+**[Bitmine, SharpLink and Joe Lubin Back EthSystems’ Institutional Ethereum Privacy Push](https://finance.yahoo.com/markets/crypto/articles/bitmine-sharplink-joe-lubin-back-155900686.html)**
+
+EthSystems has launched with backing from Bitmine (NYSE: $BMNP), SharpLink (NASDAQ: $SBET) and Ethereum (CRYPTO: $E...
+
+Yahoo Finance • 8h ago
+
+---
+
 **[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 8h ago
-
----
-
-**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
-
-The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
-
-CoinDesk • 1d ago
+CoinDesk • 10h ago
 
 ---
 
@@ -174,6 +182,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
+
+The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
+
+CoinDesk • 1d ago
+
+---
+
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
@@ -182,39 +198,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[Cooling inflation boosts risk appetite; Bitcoin breaks above $64,000, Ethereum rises over 6%](https://www.moomoo.com/news/post/72961205/cooling-inflation-boosts-risk-appetite-bitcoin-breaks-above-64000-ethereum)**
-
-Moomoo • 1h ago
-
----
-
-**[Ethereum Gained 6.20% to $1874.70 -- Data Talk](https://www.moomoo.com/news/post/72960017/ethereum-gained-6-20-to-1874-70-data-talk)**
-
-Moomoo • 2h ago
-
----
-
-**[Crypto Market Today, July 14: Ethereum Soars 6% on Cooler Inflation Data](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-july-14-211633983.html)**
+**[Crypto Market Today, July 14: Ethereum Soars 6% on Cooler Inflation Data](https://www.fool.com/coverage/stock-market-today/2026/07/14/crypto-market-today-july-14-ethereum-soars-6-on-cooler-inflation-data/)**
 
 Today, July 14, 2026, softer CPI eased Fed tightening expectations, triggering a broad crypto rebound after earlier rate-hike jitters.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom)**
-
-Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
-
-The Block • 1d ago
-
----
-
-**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://stocktwits.com/news-articles/markets/cryptocurrency/tom-lee-ethereum-privacy-chain-new-startup/cZZbClvR7qE)**
-
-Bitmine (BMNR) Chairman Tom Lee said&nbsp;on Tuesday&nbsp;that institutional-grade privacy is a prerequisite for large-scale asset migration to Ethereum (ETH), as the new engineering and research company EthSystems was launched.
-
-Stocktwits • 11h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -222,7 +210,19 @@ Stocktwits • 11h ago
 
 DUBAI, United Arab Emirates, July  14, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its cross-chain bridge connecting Ethereum, BNB Chain, and ...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
+
+MarketWatch • 10h ago
+
+---
+
+**[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
+
+CCN.com • 15h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 664 • 💬 76 • ⏱️ 34:54 • 4h ago
+👁️ 14K • 👍 933 • 💬 99 • ⏱️ 34:54 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 76 • 💬 18 • ⏱️ 5:20 • 11h ago
+👁️ 2K • 👍 79 • 💬 18 • ⏱️ 5:20 • 13h ago
 
 ---
 
@@ -256,27 +256,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 425 • 💬 187 • ⏱️ 17:15 • 8h ago
-
----
-
-**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
-
-Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
-
-📺 Coin Bureau Trading
-
-👁️ 4K • 👍 269 • 💬 25 • ⏱️ 14:47 • 16h ago
-
----
-
-**[BITCOIN &amp; CRYPTO BREAKOUT?? (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=D8ec2xdiVuY)**
-
-BITCOIN & CRYPTO BREAKOUT?? (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 923 • 👍 90 • 💬 174 • ⏱️ 26:24 • 2h ago
+👁️ 7K • 👍 467 • 💬 193 • ⏱️ 17:15 • 10h ago
 
 ---
 
@@ -286,7 +266,37 @@ The crypto market has become quite dramatic over the last few weeks as it would 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 15K • 👍 1K • 💬 255 • ⏱️ 27:00 • 11h ago
+👁️ 16K • 👍 1K • 💬 328 • ⏱️ 27:00 • 13h ago
+
+---
+
+**[Tom Lee: &quot;My NEW Prediction For The 2026 Crypto Bull Run&quot; (Prepare Now)](https://www.youtube.com/watch?v=_Dy6Kgnhd60)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 2K • 👍 79 • 💬 21 • ⏱️ 11:05 • 8h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO BREAKOUT?? (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=D8ec2xdiVuY)**
+
+BITCOIN & CRYPTO BREAKOUT?? (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 172 • 💬 58 • ⏱️ 26:24 • 3h ago
+
+---
+
+**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
+
+Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
+
+📺 Coin Bureau Trading
+
+👁️ 4K • 👍 272 • 💬 25 • ⏱️ 14:47 • 18h ago
 
 ---
 
@@ -296,17 +306,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 131 • 💬 4 • ⏱️ 7:37 • 5h ago
-
----
-
-**[Kiyosaki Predicts Ethereum Hits 95000 Dollars](https://www.youtube.com/watch?v=rZNaDkGPdY0)**
-
-Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 times return from current prices. His prediction ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 149 • 💬 26 • ⏱️ 1:10 • 19h ago
+👁️ 2K • 👍 161 • 💬 7 • ⏱️ 7:37 • 6h ago
 
 ---
 
@@ -316,17 +316,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 593 • 💬 389 • ⏱️ 13:44 • 2d ago
+👁️ 9K • 👍 594 • 💬 393 • ⏱️ 13:44 • 2d ago
 
 ---
 
-**[Ethereum&#39;s 2019 Crypto Bull Market Signal Is BACK! (It&#39;s EVEN BIGGER This Time)](https://www.youtube.com/watch?v=scGsezikvwU)**
+**[ETH Ethereum Price Prediction: 14th of July](https://www.youtube.com/watch?v=o5YPeAs6RhU)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Crypto Capital Venture
+📺 C-Zar Gets Crypto 
 
-👁️ 10K • 👍 591 • 💬 229 • ⏱️ 15:11 • 1d ago
+👁️ 124 • 👍 12 • 💬 7 • ⏱️ 5:40 • 10h ago
 
 ---
 

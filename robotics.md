@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-14T23:27:18.163492+00:00'
+updated: '2026-07-15T00:52:31.671469+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 14, 2026 at 23:27 UTC  
+**Last Updated:** July 15, 2026 at 00:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -130,7 +130,7 @@ Nature • 1d ago
 
 Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.
 
-Fox News • 7h ago
+Fox News • 9h ago
 
 ---
 
@@ -138,15 +138,15 @@ Fox News • 7h ago
 
 At the current rate of robotics development, you might assume that we’re close to Skynet taking over. However, while we  likely wouldn’t do well in a physical fight against a robot, we …
 
-Hackaday • 7h ago
+Hackaday • 9h ago
 
 ---
 
-**[Startup Upset After Journalist Points Out How Creepy Its Humanoid Robots’s Hands Are](https://futurism.com/robots-and-machines/robot-startup-upset-journalist-creepy-hands)**
+**[1X's product head says its new humanoid hand has solved one of the toughest problems in robotics](https://www.businessinsider.com/1x-neo-robotic-hand-solves-hands-problem-2026-7)**
 
-A vice president of robotics startup 1X was not happy with some coverage of the company's decidedly sensual humanoid robot.
+1X says NEO's new hands can pour tea, plug in chargers, and use sign language.
 
-Futurism • 7h ago
+Business Insider • 1d ago
 
 ---
 
@@ -160,7 +160,7 @@ Tech Xplore • 2d ago
 
 SpaceX is tantalizing early investors with an $800 analyst price target while Tesla quietly pivots toward a robotics revolution that could reshape daily life faster than any orbital data center. Picking the right Elon Musk bet right now might come down to one critical question about timing.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 10h ago
 
 The non-binding LOI is expected to use shares and cash; GMEX intends to invest in social world models after closing for healthcare, education and retail.
 
-Stock Titan • 10h ago
+Stock Titan • 12h ago
 
 ---
 
@@ -180,11 +180,9 @@ Supply Chain Dive • 1d ago
 
 ---
 
-**[Better Robotics Stock: UiPath or Zebra Technologies](https://www.fool.com/investing/2026/07/14/better-robotics-stock-uipath-or-zebra-technologies/)**
+**[5 Best Robotics ETFs to Buy in 2026 - U.S. News](https://money.usnews.com/investing/articles/best-robotics-etfs-to-buy)**
 
-The companies are helping drive increased automation in industrial applications.
-
-The Motley Fool • 58m ago
+U.S. News - Money • 1d ago
 
 ---
 
@@ -198,37 +196,55 @@ Titanic's Jack and Rose became talking robot faces from a single image. A team f
 
 📺 Kalil 4.0
 
-👁️ 654 • 👍 20 • 💬 4 • ⏱️ 0:46 • 7h ago
+👁️ 745 • 👍 25 • 💬 4 • ⏱️ 0:46 • 8h ago
 
 ---
 
-**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
+**[China&#39;s New Female Robot Just Hit The Market And Women Are FURIOUS](https://www.youtube.com/watch?v=4oz51DUVAlw)**
 
-For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
+Go to http://rugiet.com/levi and use code LEVI for 20% off your first order Disclaimer: Rugiet prescriptions are compounded ...
 
-📺 ABC News
+📺 Levi Nichs
 
-👁️ 57K • 👍 986 • 💬 411 • ⏱️ 1:54 • 4d ago
-
----
-
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
-
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
-
-📺 PRO ROBOTS
-
-👁️ 27K • 👍 796 • 💬 61 • ⏱️ 29:49 • 5d ago
+👁️ 39K • 👍 3K • 💬 1K • ⏱️ 32:01 • 1d ago
 
 ---
 
-**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
+**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
 
-Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
+Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
 
-📺 Unitree Robotics
+📺 Discovery Australia
 
-👁️ 732K • 👍 970 • 💬 156 • ⏱️ 1:10 • 5d ago
+👁️ 28K • 👍 391 • 💬 7 • ⏱️ 8:20 • 2d ago
+
+---
+
+**[Chinese firm launches hyper-real, &#39;always loyal&#39; robots for companionship](https://www.youtube.com/watch?v=3DmrrY7bdqM)**
+
+Chinese company UBTech launched a new range of robots meant for companionship equipped with eye cameras, chest sensors ...
+
+📺 The Straits Times
+
+👁️ 32K • 👍 197 • 💬 61 • ⏱️ 1:48 • 1d ago
+
+---
+
+**[Inside a Fully Automated Robot That Unloads, Cuts &amp; Empties Heavy Bags Without Human Help 🤖📦⚙️](https://www.youtube.com/watch?v=RPFnJQKHsXo)**
+
+Watch this incredible BYR industrial robot automate one of the toughest factory jobs. Using a precision vacuum gripper, the robot ...
+
+📺 Techie Sapien
+
+👁️ 157K • 💬 21 • ⏱️ 0:08 • 22h ago
+
+---
+
+**[🔥🤖Wait... Is This a Robot or a Transformer? PrimeBOT T1 Is Insane!#robot #humanoidrobot #robotics](https://www.youtube.com/watch?v=viKxlWlO8zo)**
+
+📺 XRoboHub
+
+👁️ 2K • 👍 56 • 💬 1 • ⏱️ 0:22 • 7h ago
 
 ---
 
@@ -240,23 +256,13 @@ Putting technology to the test through combat, and connecting the world through 
 
 ---
 
-**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
+**[Why I DON’T like servo grippers #robotics #mechatronics](https://www.youtube.com/watch?v=sQ_Dd227U50)**
 
-In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
+Sharing an example of a pneumatic gripper that belongs in our robotics projects and in some cases, should replace the ...
 
-📺 DW News
+📺 David Malawey
 
-👁️ 45K • 👍 2K • 💬 129 • ⏱️ 2:38 • 4d ago
-
----
-
-**[Building a GIANT Remote Controlled Robot  #engineering #robotics #fanuc](https://www.youtube.com/watch?v=c_oJXMTtcLE)**
-
-Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
-
-📺 Excessive Overkill
-
-👁️ 2K • 👍 274 • 💬 33 • ⏱️ 3:00 • 3h ago
+👁️ 13K • 👍 650 • 💬 36 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -266,25 +272,17 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 340K • 👍 18K • 💬 772 • ⏱️ 1:25 • 4d ago
+👁️ 343K • 👍 18K • 💬 770 • ⏱️ 1:25 • 4d ago
 
 ---
 
-**[🔥🤖Wait... Is This a Robot or a Transformer? PrimeBOT T1 Is Insane!#robot #humanoidrobot #robotics](https://www.youtube.com/watch?v=viKxlWlO8zo)**
+**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
 
-📺 XRoboHub
+How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
 
-👁️ 1K • 👍 50 • 💬 1 • ⏱️ 0:22 • 6h ago
+📺 Suhel Experiment
 
----
-
-**[ALL FAKE! China’s Humanoid Robot is a PURE Scam: All Show, No Substance](https://www.youtube.com/watch?v=IqKsMxyHmDA)**
-
-My God, UBTECH, what kind of launch was that? Honestly, after watching it, I feel exactly like what people online said—it was a ...
-
-📺 China Observer
-
-👁️ 74K • 👍 2K • 💬 603 • ⏱️ 20:21 • 6d ago
+👁️ 34K • 💬 24 • ⏱️ 1:30 • 2d ago
 
 ---
 
