@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-15T00:52:31.671469+00:00'
+updated: '2026-07-15T03:58:19.621831+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 15, 2026 at 00:52 UTC  
+**Last Updated:** July 15, 2026 at 03:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,79 +32,79 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Wheelchair Made Based on a Quadruped Robot](https://www.reddit.com/r/robotics/comments/1uubs2y/wheelchair_made_based_on_a_quadruped_robot/)**
+**[A soft floating robot for indoor interaction. It uses helium and flapping fins. It can follow people, give reminders, and act as a study buddy (paper)](https://www.reddit.com/r/robotics/comments/1uw4dji/a_soft_floating_robot_for_indoor_interaction_it/)**
 
-Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtube.com/watch?v=ZyHrKD3SE-M It's an Unitree B2: https://shop.unitree.com/products/unitree-b2
+From clankr on 𝕏: https://x.com/clankrmedia/status/2076593164744376707 Paper: Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor Environments: https://dl.acm.org/doi/10.1145/3800645.3813051 Published at ACM DIS 2026: https://dis.acm.org/2026/dis-2026-awards-and-recognition/ ACM Designing Interactive Systems (Singapore, 13 – 17 June 2026): https://dis.acm.org/2026/
 
-2d ago
-
----
-
-**[Teleop study break](https://www.reddit.com/r/robotics/comments/1uujob3/teleop_study_break/)**
-
-2d ago
+17h ago
 
 ---
 
-**[My first ever mask where I used actual electronic parts! :D](https://www.reddit.com/r/robotics/comments/1uv1afm/my_first_ever_mask_where_i_used_actual_electronic/)**
+**[My DIY Self-Balancing PVC Rover + Custom LoRa Handheld Controller](https://www.reddit.com/r/robotics/comments/1uwokmi/my_diy_selfbalancing_pvc_rover_custom_lora/)**
 
-This is "Shbeeve' kinda like Steve but I named him Shbeeve. I 3dmodeled the entire mask and all it's pieces in Nomad, did reprints to ensure it fit properly, then connected every part of the servos & arduino to him! he was supposed to have eyes that moved left and right but they need to be fixed before I do that! He can blink using servos, but the eyebrows, snout & ears are all elastics & thread controlled! :D
+I’ve been teaching myself robotics over the last few months, and I wanted to share my latest project. The main goal was simple: Build a self-balancing two-wheel rover using PVC pipe as the chassis while designing as much of the hardware myself as possible. Nearly every structural part you see was designed in CAD and 3D printed. Features Self-balancing two-wheel rover Long-range LoRa remote control Live telemetry Custom handheld controller Custom 3D printed drivetrain Custom traction system Fully 3D printed electronics mounts Dual OLED displays on the handheld Motion-controlled driving (tilt to drive) Rotary encoder and joystick controls RGB status display Custom firmware written from scratch Drivetrain Instead of buying off-the-shelf wheels, I designed a modular traction system. The drive rings, traction pads, wheel hubs, motor mounts, and internal supports were all modeled and 3D printed. The body itself is simply a section of PVC pipe. I wanted to see how capable a robot could become using inexpensive materials combined with custom printed parts. Electronics Rover Heltec ESP32 LoRa BNO08x IMU TB6612 motor driver SX1262 LoRa radio WS2812 LEDs 2S LiPo Buck converter Dual geared DC motors Handheld Controller Heltec ESP32 LoRa 1.5” RGB OLED Built-in OLED MPU6050 IMU Hall-effect joystick Rotary encoder 2S battery Software Everything is programmed in Arduino. Current features include: PID balancing Heading hold LoRa communication Telemetry Battery monitoring RSSI display OLED UI Motion control Adjustable tuning What’s Next? Now that V1 works, I’m debating where to go next. Option 1: Build a rotating pan/tilt turret with an ESP32 camera, laser, and object tracking. Option 2: Start over on a V2 chassis using independent cantilever suspension, larger wheels, and a more capable drivetrain. Which direction would you go?
+
+4h ago
+
+---
+
+**[Development update on SoftSync FlexHand V1: softer material, stronger structure](https://www.reddit.com/r/robotics/comments/1uw7ghh/development_update_on_softsync_flexhand_v1_softer/)**
+
+We've been iterating on SoftSync FlexHand V1 over the last few weeks. This update focuses on two mechanical improvements: Switched to a new soft material for better compliance. Combined braided reinforcement with additive manufacturing to improve durability. The demo shows thumb-to-index, thumb-to-middle, and thumb-to-ring pinch generated with a simple drag-and-drop programming workflow. No pre-training was used. I'd love to hear any feedback, especially on the mechanical design or the control workflow.
+
+15h ago
+
+---
+
+**[robotic arm with computer vision (sorting candy)](https://www.reddit.com/r/robotics/comments/1uwif6g/robotic_arm_with_computer_vision_sorting_candy/)**
+
+Teaching my 13-year-old grandson programming using Arduino, Python, and AI. We are currently programming this small robotic arm. I originally built the arm for him 5 years ago for Christmas. Back then he just played with it, but now he is writing new code for it. The goal is to detect candies placed in front of it and drop them into a cup. How it works: A Raspberry Pi-based USB camera monitors the workspace. A Python script running on a PC detects the candies and sends G-code commands to control the arm. Hardware & Firmware: The robotic arm is powered by an STM32F103 microcontroller running Arduino-based firmware.
+
+8h ago
+
+---
+
+**[Animatronic build progress](https://www.reddit.com/r/robotics/comments/1uw9z8z/animatronic_build_progress/)**
+
+13h ago
+
+---
+
+**[3D Dtof LIDAR depth sensor HM-LD1 for gesture recognition](https://www.reddit.com/r/robotics/comments/1uw8cqs/3d_dtof_lidar_depth_sensor_hmld1_for_gesture/)**
+
+I have implemented gesture recognition with my dtof lidar HM-LD1, and at the same time, for better learning for everyone, I have made it open-source. Github Link: https://github.com/myrobotproject/Dtof-Lidar-HM-LD1-Gesture-Recognition
+
+14h ago
+
+---
+
+**[Robotics researcher argues LLMs may be the wrong foundation for robot intelligence](https://www.reddit.com/r/robotics/comments/1uvcoey/robotics_researcher_argues_llms_may_be_the_wrong/)**
+
+Ranjay Krishna argues that language may be an unnecessary intermediary between perception and action in robotics. Humans do not translate every physical interaction into words before reacting. Catching a ball, pulling a hand away from something hot or moving through a room happens through a direct connection between perception and movement. He believes robotics models should work the same way, moving directly from visual and sensor input to action rather than relying on an LLM in the middle.
 
 1d ago
 
 ---
 
-**[Cool AI robot arm I made](https://www.reddit.com/r/robotics/comments/1uuijs6/cool_ai_robot_arm_i_made/)**
+**[Dtof LIDAR HM-LD1 Outdoor Test Under the Sunlight](https://www.reddit.com/r/robotics/comments/1uwc218/dtof_lidar_hmld1_outdoor_test_under_the_sunlight/)**
 
-https://youtube.com/shorts/DapBP4Frb9c?si=u6yqt5xPw4Y-4\_09 Link to full vid 4-DOF Raspberry Pi 4B robot arm with a Three.js 3D web interface. Features YOLOv8 object detection, VL53L1X depth sensing, 2-link inverse kinematics, autonomous object pickup, INA219 current-based gripper stall detection, floor collision protection, and a live digital twin for real-time visualization.
-
-2d ago
+12h ago
 
 ---
 
-**[ViewKit - An interactive website to view dataset files](https://www.reddit.com/r/robotics/comments/1uuxbt1/viewkit_an_interactive_website_to_view_dataset/)**
+**[Has anyone actually used LLM-based sim world generation? (found this repo)](https://www.reddit.com/r/robotics/comments/1uwua19/has_anyone_actually_used_llmbased_sim_world/)**
 
-I've been working on ML/Robotics research for a while and often work with HDF5, Parquet, and Zarr files. Personally, I love the myHDF5 viewer, but there's no good equivalent for Parquet and Zarr, and switching between different sites also gets annoying. So, I built a tool that provides a unified solution: ViewKit For now, it supports viewing HDF5, Parquet, and Zarr files (and a bunch of other common data formats), but I'm hoping to add more depending on what people find useful! Everything is loaded and parsed locally in your browser (WebAssembly + JS), so your data never leaves your machine. It's also built to remain responsive on big files via efficient reading, caching, and prefetching. Traversing through data files actually feels faster than existing solutions like myHDF5 with simple caching strategies. It also supports some common data types that existing viewers don't support (e.g. float16, complex numbers for HDF5). It's free to use with no sign-up required. I'd love for people to try it out: https://viewkit.app/ I'd appreciate any feedback (feel free to comment or send a message through the website). Looking forward to supporting additional features/file formats that the community finds useful!
+Created Simulation From LLM Output Background: I studied EECS and I'm now getting into robotics, mostly working through the simulation side of things. While digging into the sim pipeline I came across this repo: https://github.com/AlexKaravaev/world-creator It's a CLI that generates Gazebo and Mujoco simulation worlds from a text prompt. You type something like "warehouse with shelves and some obstacles for navigation testing" and it picks models from the Gazebo model database and places them for you. I think it's genuinely a great idea and ahead of its time. It's from ~2023, so it predates all the recent LLM progress, and the author was upfront that the model hallucinated a lot back then. With today's models this approach could work way better. Curious about a few things: Has anyone here used this or something like it in real work? Is prompt-to-world something you'd actually want, or is scene setup not painful enough to matter? From what I've seen so far, people complain way more about getting the robot itself into sim (URDF, meshes, inertia values) than the environment around it. Is that right? If someone built an upgraded version of this, what would the use cases be for you? Randomized scenes for RL training? Test scenarios in CI? Quick demos? I'm exploring building in this space, so honest "nobody needs this" takes are just as useful as feature wishlists.
 
-1d ago
-
----
-
-**[First full-body movements of my DIY robot lamp](https://www.reddit.com/r/robotics/comments/1utpuci/first_fullbody_movements_of_my_diy_robot_lamp/)**
-
-This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use robstride actuators, series 00 and edulite 05
-
-3d ago
+28m ago
 
 ---
 
-**[I'm glad to share the little robot we designed that can drift, jump, and track you just launched the Kickstarter!](https://www.reddit.com/r/robotics/comments/1uti96j/im_glad_to_share_the_little_robot_we_designed/)**
+**[YEAR LATER UPDATE 4: 110 WORKING DAYS ON A COMMERCIAL GRADE HUMANOID SOLO BUILDING AT HOME. 25DOF BIPEDAL.](https://www.reddit.com/r/robotics/comments/1uw4i4x/year_later_update_4_110_working_days_on_a/)**
 
-3d ago
+Hello, its been a while! I want to share a bit about the journey behind my challenge of building an Open Source commercial grade humanoid robot totally alone at home. You might remember me from https://www.reddit.com/r/robotics/s/zzx9Yi4tXI. Which was my first iteration! My first iteration was honestly pretty bad. It was a beginner-level design, and many of you probably noticed it looked like something that would never actually work. Looking back, I completely agree. It lacked proper physics, kinematics, finite element analysis, and nowhere near enough structural rigidity to survive a walking gait. Everything looked fine inside a simulator, but reality was different. The robot literally broke during its very first movement. First Iteration on fusion360 looked like, yes you can make fun of it all you want but this baby tought me that you should not give up: https://preview.redd.it/7qbpdbss26dh1.png?width=972&format=png&auto=webp&s=c31061037ed50ece8dbabbd9312db2dbdee4c620 I threw it away. After that, I gave up for a few months. Life got in the way, and I stopped working on the project entirely. Eventually I came back, more motivated than ever. For months I dove deep into control theory, kinematics, mechanics, physics, electronics, energy systems, transmission systems, Actuators, FOC, Torque and robot design. That led to the second iteration of my humanoid. second iteration render on FUSION 360: https://preview.redd.it/obi18ie756dh1.jpg?width=795&format=pjpg&auto=webp&s=df46134a3e419df72d61641d5d695cc04ac9b359 ...which also failed. 😂 Why it failed? The whole design was just bad, i wasn't using the motors case for anything just covering everything up instead of using the motors to hold stuff together and better like real humanoids do. And many other things that i will make a video on. gen2 fluid teleoperation The second version was a huge improvement. Teleoperation was smooth, I had the software stack working well, and I was even able to experiment with reinforcement learning policies and software in depth. But mechanically, I knew it was still far from where it needed to be. Also Hardware. I had to add Robstride 04 and 03 to my actuators for required torque. For economic reasons i made the biggest mistake in my life that was selling the NVIDIA JETSON AGX ORIN. Anyways i got a JETSON ORIN NX 16GB as a replacement. So I scrapped that one too. (burning money yay) Now I'm building what I consider my latest iteration, and I'm continuously improving it before machining the final parts. My goal is for this robot to run, jump, and eventually do whatever I can teach it to do. I am heavily focusing on manipulation btw. This time the design process is completely different. I've incorporated finite element analysis (FEA) for every part, proper mechanical engineering principles, design for manufacturing (DFM), and many of the concepts used in modern commercial humanoid robots. Thanks ARXIV for many papers. https://preview.redd.it/34e3quus56dh1.jpg?width=851&format=pjpg&auto=webp&s=c2fc7eeae553f11ffae6176221c969f8e506de2f https://preview.redd.it/or3qjrno56dh1.jpg?width=881&format=pjpg&auto=webp&s=169be6140f54de577e7fb93c9adccef497d6e4f2 https://preview.redd.it/6ccn0qap56dh1.jpg?width=642&format=pjpg&auto=webp&s=1459308f1b2bf675cf6e4ee9df311b09175fd12f This was before i understood that a screen on a head of a robot that will be falling is not a really smart idea. Latest Iteration (WIP): https://preview.redd.it/znp4kfki56dh1.jpg?width=784&format=pjpg&auto=webp&s=ab0352498c8ef68ec840508d03b49831e0ffe669 https://preview.redd.it/lo12fc8k56dh1.jpg?width=1018&format=pjpg&auto=webp&s=90c0bc6451bdfca5c3cb8570700e03cf0bae0d0d STILL IMPROVING. and Yes this is not just a CAD Humanoid. I have burned around 20kg- 25kg of PETG,PA-CF and some aluminum parts trying to make it happen :) i will be posting new iteration teleoperation and manipulation videos soon. BTW One challenge I didn't expect was the battery. Lithium batteries are heavily restricted for import in my country Honduras, so I had to design and build my own DIY Li-ion (please do not use LIPO on humanoids that walk) battery pack from scratch. Which i have a full video on how to do it for a humanoid robot specific needs, i am sure this might help atleast someone. I've failed more times than I can count. But every failure taught me something. I'm going to keep building until this robot walks and eventually reaches the level of commercial humanoid robots. I AM HEAVILY FOCUSING ON MANIPULATION. And yes... It will be OPEN SOURCE. I'll continue posting updates here and on X, and I'm also working on a website where I'll publish in-depth tutorials explaining how humanoid robots work (FROM MY LEARNING) and how you can build one from scratch. Thanks to everyone who's been following the project. And also thanks to everyone that has made fun of me too! I have been building this totally alone. for 110 working days exactly. I have 110 days of videos of the process. With Honor, Carlos Abrahan Lopez :D https://x.com/carloslopeezr
 
----
-
-**[I made my tracking robot finally functional 11-07-2026 #raspberrypi #rob...](https://www.reddit.com/r/robotics/comments/1uua73v/i_made_my_tracking_robot_finally_functional/)**
-
-I made a 2dof raspberry pi object tracking robot in c++. It is the second iteration of a 1dof version i had made: https://github.com/Dawsatek22/raspberrypi_objectracking_1dof_cpp . i still need to make te documentation and post the cad files but if you wanna check the code i posted it on the repo: https://github.com/Dawsatek22/raspberrypi_objectracking_2dof_cpp- .
-
-🔗 [youtube.com](https://youtube.com/shorts/Ld3sLhEH3hI?si=53QeSHlh7fHGiUgG) • 2d ago
-
----
-
-**[Title: I built an engineering learning app with 8 guided labs and an evidence-focused desktop workbench](https://www.reddit.com/r/robotics/comments/1uu8ngh/title_i_built_an_engineering_learning_app_with_8/)**
-
-Complete interactive learning website. Contribute to Sajeevanveeriah/Engineering-Mastery-Lab development by creating an account on GitHub.
-
-🔗 [GitHub](https://github.com/Sajeevanveeriah/Engineering-Mastery-Lab) • 2d ago
-
----
-
-**[Built an open-source 5-axis desktop robot arm with ESP32 for under $100 in parts](https://www.reddit.com/r/robotics/comments/1ustmvg/built_an_opensource_5axis_desktop_robot_arm_with/)**
-
-Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here's what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware - Electronics BOM under $100 sourcing parts yourself - Full wiring diagrams, assembly guide, and source code included The V1 is already fully operational and tested. I just launched a Kickstarter pre-launch page to fund the V2 (better rigidity, internal cable routing, improved gripper). Happy to answer any questions about the design choices, print settings, or the electronics. AMA! https://www.kickstarter.com/projects/pancoarmmk01/panco-arm-mk-01
-
-4d ago
+17h ago
 
 ---
 
@@ -130,15 +130,7 @@ Nature • 1d ago
 
 Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.
 
-Fox News • 9h ago
-
----
-
-**[Fibrous Muscles For Humanoid Robotics](https://hackaday.com/2026/07/14/fibrous-muscles-for-humanoid-robotics/)**
-
-At the current rate of robotics development, you might assume that we’re close to Skynet taking over. However, while we  likely wouldn’t do well in a physical fight against a robot, we …
-
-Hackaday • 9h ago
+Fox News • 12h ago
 
 ---
 
@@ -150,9 +142,11 @@ Business Insider • 1d ago
 
 ---
 
-**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
+**[Startup Upset After Journalist Points Out How Creepy Its Humanoid Robots’s Hands Are](https://futurism.com/robots-and-machines/robot-startup-upset-journalist-creepy-hands)**
 
-Tech Xplore • 2d ago
+A vice president of robotics startup 1X was not happy with some coverage of the company's decidedly sensual humanoid robot.
+
+Futurism • 12h ago
 
 ---
 
@@ -160,7 +154,21 @@ Tech Xplore • 2d ago
 
 SpaceX is tantalizing early investors with an $800 analyst price target while Tesla quietly pivots toward a robotics revolution that could reshape daily life faster than any orbital data center. Picking the right Elon Musk bet right now might come down to one critical question about timing.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 15h ago
+
+---
+
+**[New soft sensor can turn touch into robotic action without electronics](https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html)**
+
+Tech Xplore • 2d ago
+
+---
+
+**[Fibrous Muscles For Humanoid Robotics](https://hackaday.com/2026/07/14/fibrous-muscles-for-humanoid-robotics/)**
+
+At the current rate of robotics development, you might assume that we’re close to Skynet taking over. However, while we  likely wouldn’t do well in a physical fight against a robot, we …
+
+Hackaday • 12h ago
 
 ---
 
@@ -168,7 +176,7 @@ Yahoo Finance • 12h ago
 
 The non-binding LOI is expected to use shares and cash; GMEX intends to invest in social world models after closing for healthcare, education and retail.
 
-Stock Titan • 12h ago
+Stock Titan • 15h ago
 
 ---
 
@@ -180,89 +188,37 @@ Supply Chain Dive • 1d ago
 
 ---
 
-**[5 Best Robotics ETFs to Buy in 2026 - U.S. News](https://money.usnews.com/investing/articles/best-robotics-etfs-to-buy)**
-
-U.S. News - Money • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[China Turns 2D Photos into Lifelike Robot Replicas #robotics #engineering #innovation](https://www.youtube.com/watch?v=OxSozFkEpK0)**
+**[Building a GIANT Remote Controlled Robot  #engineering #robotics #fanuc](https://www.youtube.com/watch?v=c_oJXMTtcLE)**
 
-Titanic's Jack and Rose became talking robot faces from a single image. A team from China's Tsinghua University created the ...
+Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
 
-📺 Kalil 4.0
+📺 Excessive Overkill
 
-👁️ 745 • 👍 25 • 💬 4 • ⏱️ 0:46 • 8h ago
-
----
-
-**[China&#39;s New Female Robot Just Hit The Market And Women Are FURIOUS](https://www.youtube.com/watch?v=4oz51DUVAlw)**
-
-Go to http://rugiet.com/levi and use code LEVI for 20% off your first order Disclaimer: Rugiet prescriptions are compounded ...
-
-📺 Levi Nichs
-
-👁️ 39K • 👍 3K • 💬 1K • ⏱️ 32:01 • 1d ago
+👁️ 6K • 👍 634 • 💬 60 • ⏱️ 3:00 • 7h ago
 
 ---
 
-**[Bushmen Risk $280,000 Autonomous Robot To Find A Massive Hidden Opal Jackpot! | Outback Opal Hunters](https://www.youtube.com/watch?v=kXx3tZRqHmI)**
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
 
-Subscribe to Discovery Australia for more great clips: https://bit.ly/DiscoveryAustralia To reach their $150000 retirement target, ...
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
 
-📺 Discovery Australia
+📺 ABC News
 
-👁️ 28K • 👍 391 • 💬 7 • ⏱️ 8:20 • 2d ago
-
----
-
-**[Chinese firm launches hyper-real, &#39;always loyal&#39; robots for companionship](https://www.youtube.com/watch?v=3DmrrY7bdqM)**
-
-Chinese company UBTech launched a new range of robots meant for companionship equipped with eye cameras, chest sensors ...
-
-📺 The Straits Times
-
-👁️ 32K • 👍 197 • 💬 61 • ⏱️ 1:48 • 1d ago
+👁️ 59K • 👍 1K • 💬 431 • ⏱️ 1:54 • 4d ago
 
 ---
 
-**[Inside a Fully Automated Robot That Unloads, Cuts &amp; Empties Heavy Bags Without Human Help 🤖📦⚙️](https://www.youtube.com/watch?v=RPFnJQKHsXo)**
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
-Watch this incredible BYR industrial robot automate one of the toughest factory jobs. Using a precision vacuum gripper, the robot ...
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
-📺 Techie Sapien
+📺 PRO ROBOTS
 
-👁️ 157K • 💬 21 • ⏱️ 0:08 • 22h ago
-
----
-
-**[🔥🤖Wait... Is This a Robot or a Transformer? PrimeBOT T1 Is Insane!#robot #humanoidrobot #robotics](https://www.youtube.com/watch?v=viKxlWlO8zo)**
-
-📺 XRoboHub
-
-👁️ 2K • 👍 56 • 💬 1 • ⏱️ 0:22 • 7h ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 176K • 👍 6K • 💬 89 • ⏱️ 1:03 • 3d ago
-
----
-
-**[Why I DON’T like servo grippers #robotics #mechatronics](https://www.youtube.com/watch?v=sQ_Dd227U50)**
-
-Sharing an example of a pneumatic gripper that belongs in our robotics projects and in some cases, should replace the ...
-
-📺 David Malawey
-
-👁️ 13K • 👍 650 • 💬 36 • ⏱️ 1:00 • 2d ago
+👁️ 27K • 👍 797 • 💬 61 • ⏱️ 29:49 • 5d ago
 
 ---
 
@@ -272,17 +228,63 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 343K • 👍 18K • 💬 770 • ⏱️ 1:25 • 4d ago
+👁️ 345K • 👍 18K • 💬 772 • ⏱️ 1:25 • 4d ago
 
 ---
 
-**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
+**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
 
-How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
+Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
 
-📺 Suhel Experiment
+📺 Unitree Robotics
 
-👁️ 34K • 💬 24 • ⏱️ 1:30 • 2d ago
+👁️ 764K • 👍 970 • 💬 157 • ⏱️ 1:10 • 5d ago
+
+---
+
+**[The Indian workers training their robot replacements | DW News](https://www.youtube.com/watch?v=KeXvcNwNLmk)**
+
+In India, thousands of factory workers are helping to build the next generation of AI-powered humanoid robots, by wearing ...
+
+📺 DW News
+
+👁️ 45K • 👍 2K • 💬 131 • ⏱️ 2:38 • 4d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 177K • 👍 6K • 💬 89 • ⏱️ 1:03 • 3d ago
+
+---
+
+**[Puffin-Inspired Robot that Swims and Flies](https://www.youtube.com/watch?v=9XJhrKpcBGI)**
+
+Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water ...
+
+📺 MIT Mechanical Engineering
+
+👁️ 260K • 👍 8K • 💬 435 • ⏱️ 4:04 • 5d ago
+
+---
+
+**[A Former Tesla Engineer Just Launched Europe&#39;s First Serious Humanoid Robot](https://www.youtube.com/watch?v=5wJnTiAKxgY)**
+
+Sources Bloomberg | "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot" ...
+
+📺 Jason Lowe on AI
+
+👁️ 19K • 👍 1K • 💬 66 • ⏱️ 2:18 • 4d ago
+
+---
+
+**[This one Chinese robot on the stage:](https://www.youtube.com/watch?v=Ymdo-LQStbM)**
+
+📺 Loczniki official
+
+👁️ 47K • 👍 2K • 💬 36 • ⏱️ 0:29 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T00:52:31.669643+00:00'
+updated: '2026-07-15T03:58:19.618534+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 00:52 UTC  
+**Last Updated:** July 15, 2026 at 03:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.4%  
-**7d:** +7.8%  
-**30d:** +5.0%  
-**90d:** -22.3%  
-**1y:** -44.2%  
+**24h:** +5.2%  
+**7d:** +7.6%  
+**30d:** +4.8%  
+**90d:** -22.4%  
+**1y:** -44.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.75B
+**Market Cap:** $226.48B
 Rank #2
 
-**Circulating Supply:** 120,682,986 ETH
+**Circulating Supply:** 120,682,943 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-62.1%
 
 **All-Time Low:** $0.43
-+433858.7%
++433329.8%
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 3h ago
+The Block • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 3h ago
 
 EthSystems has launched with backing from Bitmine (NYSE: $BMNP), SharpLink (NASDAQ: $SBET) and Ethereum (CRYPTO: $E...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -170,23 +170,15 @@ Yahoo Finance • 8h ago
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 10h ago
+CoinDesk • 13h ago
 
 ---
 
-**[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-49-million-ethereum-152210893.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Jump as Softer Inflation Dims Rate Hike Odds: Analyst Sees 'Bullish Case' Amid Muted Crypto Chatter](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-jump-015943264.html)**
 
-According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
+Leading cryptocurrencies rallied alongside stocks on Tuesday following cooler-than-expected inflation numbers, despite elevated geopolitical tensions remaining in place. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+3.50%$64,752.40Ethereum (CRYPTO: ETH) +4.72%$1,876.36XRP (CRYPTO: XRP) +3.52%$1.10Solana (CRYPTO: SOL) +2.93%$77.59Dogecoin (CRYPTO: DOGE) +2.64%$0.07403 Crypto Market Rallies Bitcoin hit $65,000 for the first time in over three weeks, while Et
 
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
-
-The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
-
-CoinDesk • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -198,11 +190,19 @@ PR Newswire • 1d ago
 
 ---
 
-**[Crypto Market Today, July 14: Ethereum Soars 6% on Cooler Inflation Data](https://www.fool.com/coverage/stock-market-today/2026/07/14/crypto-market-today-july-14-ethereum-soars-6-on-cooler-inflation-data/)**
+**[Bitcoin, Ethereum and XRP Prices Rally Even as Fed Chair Warsh Says ‘No Crypto Bailout’](https://www.tradingview.com/news/coinpedia:e3e048caf094b:0-bitcoin-ethereum-and-xrp-prices-rally-even-as-fed-chair-warsh-says-no-crypto-bailout/)**
 
-Today, July 14, 2026, softer CPI eased Fed tightening expectations, triggering a broad crypto rebound after earlier rate-hike jitters.
+Crypto prices are rising across the board today, even as the head of the Federal Reserve made clear he has no plans to step in and rescue the industry if things go wrong. Bitcoin sits near $64,600 today, rising more than 3%. Ethereum has climbed above $1,875 today, gaining more than 5% over the las…
 
-The Motley Fool • 3h ago
+TradingView • 12h ago
+
+---
+
+**[Current price of Ethereum for July 14, 2026](https://fortune.com/article/price-of-ethereum-07-14-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 17h ago
 
 ---
 
@@ -210,19 +210,19 @@ The Motley Fool • 3h ago
 
 DUBAI, United Arab Emirates, July  14, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its cross-chain bridge connecting Ethereum, BNB Chain, and ...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies post advances](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-advances-f44e0784-41e0995e65bd)**
 
-MarketWatch • 10h ago
+MarketWatch • 13h ago
 
 ---
 
 **[Robinhood Chain Could Be Ethereum's Biggest Onboarding Engine, Not Its Biggest Fee Generator](https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/)**
 
-CCN.com • 15h ago
+CCN.com • 18h ago
 
 ---
 
@@ -236,37 +236,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 14K • 👍 933 • 💬 99 • ⏱️ 34:54 • 5h ago
-
----
-
-**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 79 • 💬 18 • ⏱️ 5:20 • 13h ago
-
----
-
-**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
-
-📺 Crypto Capital Venture
-
-👁️ 7K • 👍 467 • 💬 193 • ⏱️ 17:15 • 10h ago
-
----
-
-**[Ripple CEO Considering Selling All XRP Because Of This Bitcoin &amp; Ethereum Hit Record Levels](https://www.youtube.com/watch?v=-TnUSzgAqQs)**
-
-The crypto market has become quite dramatic over the last few weeks as it would appear literally everyone is anticipating crypto ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 16K • 👍 1K • 💬 328 • ⏱️ 27:00 • 13h ago
+👁️ 21K • 👍 1K • 💬 122 • ⏱️ 34:54 • 8h ago
 
 ---
 
@@ -276,17 +246,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 79 • 💬 21 • ⏱️ 11:05 • 8h ago
+👁️ 2K • 👍 99 • 💬 23 • ⏱️ 11:05 • 11h ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO BREAKOUT?? (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=D8ec2xdiVuY)**
+**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
 
-BITCOIN & CRYPTO BREAKOUT?? (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
 
-📺 Crypto World
+📺 Crypto Capital Venture
 
-👁️ 2K • 👍 172 • 💬 58 • ⏱️ 26:24 • 3h ago
+👁️ 8K • 👍 480 • 💬 217 • ⏱️ 17:15 • 13h ago
+
+---
+
+**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 85 • 💬 20 • ⏱️ 5:20 • 16h ago
+
+---
+
+**[Bitcoin Breakout: The Bears Will Get SQUEEZED Near-Term (BTC, ETH, SOL, HYPE, XRP)](https://www.youtube.com/watch?v=Xu2MSbIwf4U)**
+
+Join Gareth's Top Squad here on YouTube for premium videos, weekly discount codes, and real-time trade setups: ...
+
+📺 Gareth Soloway
+
+👁️ 37K • 👍 3K • 💬 149 • ⏱️ 12:10 • 10h ago
 
 ---
 
@@ -296,7 +286,27 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 272 • 💬 25 • ⏱️ 14:47 • 18h ago
+👁️ 4K • 👍 278 • 💬 25 • ⏱️ 14:47 • 21h ago
+
+---
+
+**[Ethereum Price Prediction: ETH On Track to Hit $2,400 as U.S. Inflation Cools Down](https://www.youtube.com/watch?v=DGVSmXbs8zU)**
+
+Ethereum is showing signs of a potential bullish breakout as inflation in the U.S. cooled down. A break above $1800 could set the ...
+
+📺 FXEmpire
+
+👁️ 48 • 👍 1 • 💬 13 • ⏱️ 5:17 • 8h ago
+
+---
+
+**[Ripple CEO Considering Selling All XRP Because Of This Bitcoin &amp; Ethereum Hit Record Levels](https://www.youtube.com/watch?v=-TnUSzgAqQs)**
+
+The crypto market has become quite dramatic over the last few weeks as it would appear literally everyone is anticipating crypto ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 17K • 👍 1K • 💬 369 • ⏱️ 27:00 • 16h ago
 
 ---
 
@@ -306,27 +316,15 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 161 • 💬 7 • ⏱️ 7:37 • 6h ago
+👁️ 3K • 👍 177 • 💬 7 • ⏱️ 7:37 • 9h ago
 
 ---
 
-**[ETHEREUM: THE REAL MOST HATED RALLY](https://www.youtube.com/watch?v=-cWisMcB35I)**
+**[XRP AND ETH FOMO EXPLODES!? #xrp #ethereum #robinhood](https://www.youtube.com/watch?v=70wY-ec_l98)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+📺 CryptoWendyO
 
-📺 Jordan Camirand
-
-👁️ 9K • 👍 594 • 💬 393 • ⏱️ 13:44 • 2d ago
-
----
-
-**[ETH Ethereum Price Prediction: 14th of July](https://www.youtube.com/watch?v=o5YPeAs6RhU)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 124 • 👍 12 • 💬 7 • ⏱️ 5:40 • 10h ago
+👁️ 2K • 👍 330 • 💬 19 • ⏱️ 2:12 • 2h ago
 
 ---
 
