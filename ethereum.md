@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T16:01:48.275897+00:00'
+updated: '2026-07-15T17:47:18.145075+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 16:01 UTC  
+**Last Updated:** July 15, 2026 at 17:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,928.16
+### $1,905.87
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +3.0%  
-**7d:** +10.5%  
-**30d:** +7.7%  
-**90d:** -20.3%  
-**1y:** -42.8%  
+**7d:** +10.6%  
+**30d:** +7.8%  
+**90d:** -20.2%  
+**1y:** -42.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.70B
+**Market Cap:** $232.01B
 Rank #2
 
 **Circulating Supply:** 120,682,943 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.0%
+-61.1%
 
 **All-Time Low:** $0.43
-+445224.1%
++444085.5%
 
 ---
 
@@ -150,6 +150,14 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
+**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
+
+In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
+
+CoinDesk • 4h ago
+
+---
+
 **[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
@@ -162,21 +170,13 @@ CoinDesk • 1d ago
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-needs-143513421.html)**
+**[Bitcoin jumps to $65,000: 'Backdrop for crypto is improving'](https://finance.yahoo.com/markets/crypto/article/bitcoin-jumps-to-65000-backdrop-for-crypto-is-improving-144838821.html)**
 
-EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Staking Generates 98% Of Bitmine’s Quarterly Revenue](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-generates-98-bitmine-133200928.html)**
-
-Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) says that Ethereum (CRYPTO: $ETH) staking generat...
+Bitcoin jumped nearly 2% on Wednesday to hover above $65,000 per token, while ethereum rose 3%.
 
 Yahoo Finance • 2h ago
 
@@ -184,7 +184,7 @@ Yahoo Finance • 2h ago
 
 **[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -192,15 +192,7 @@ MarketWatch • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
-
-PR Newswire • 2d ago
+Fortune • 7h ago
 
 ---
 
@@ -212,19 +204,27 @@ TradingView • 1d ago
 
 ---
 
+**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
+
+BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
+
+CryptoSlate • 1h ago
+
+---
+
 **[Surging volumes on Robinhood Chain could benefit Ethereum](https://cryptobriefing.com/robinhood-chain-volumes-benefit-ethereum/)**
 
 Robinhood Chain hit 7.6 million daily transactions just 10 days after launch, with all activity settling on Ethereum L1 using ETH as the sole gas token.
 
-Crypto Briefing • 35m ago
+Crypto Briefing • 2h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show tentative recovery as key technical levels hold](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-tentative-recovery-as-key-technical-levels-hold-202607150403)**
+**[New Crypto Pepeto Announces Cross-Chain Bridge Connecting Ethereum, BNB Chain, and Solana](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-cross-chain-bridge-connecting-ethereum-bnb-chain-and-solana-1036325042)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
+DUBAI, United Arab Emirates, July  14, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its cross-chain bridge connecting Ethereum, BNB Chain, and ...
 
-FXStreet • 11h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 The House Of Crypto
 
-👁️ 2K • 👍 309 • 💬 32 • ⏱️ 12:28 • 4h ago
+👁️ 6K • 👍 509 • 💬 45 • ⏱️ 12:28 • 6h ago
 
 ---
 
@@ -248,7 +248,17 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 31K • 👍 1K • 💬 150 • ⏱️ 34:54 • 20h ago
+👁️ 33K • 👍 1K • 💬 155 • ⏱️ 34:54 • 22h ago
+
+---
+
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=kUgMPkZeH1A)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 211 • 👍 26 • 💬 33 • ⏱️ 18:30 • 32m ago
 
 ---
 
@@ -258,7 +268,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 125 • 💬 28 • ⏱️ 11:05 • 23h ago
+👁️ 4K • 👍 134 • 💬 30 • ⏱️ 11:05 • 1d ago
+
+---
+
+**[💥BITCOIN a Punto de EXPLOTAR!! Atentos a ETHEREUM y el movimiento que lo Podría Cambiar TODO!!](https://www.youtube.com/watch?v=szgAy3O08nk)**
+
+En este video hare el análisis de bitcoin (btc), ahora mismo en una zona clave de resistencia que si rompe, se podría disparar al ...
+
+📺 CryptoAnálisis
+
+👁️ 1K • 👍 261 • 💬 25 • ⏱️ 15:56 • 4h ago
+
+---
+
+**[Ripple CEO Considering Selling All XRP Because Of This Bitcoin &amp; Ethereum Hit Record Levels](https://www.youtube.com/watch?v=-TnUSzgAqQs)**
+
+The crypto market has become quite dramatic over the last few weeks as it would appear literally everyone is anticipating crypto ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 20K • 👍 2K • 💬 479 • ⏱️ 27:00 • 1d ago
 
 ---
 
@@ -268,37 +298,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 92 • 💬 24 • ⏱️ 5:20 • 1d ago
-
----
-
-**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 508 • 💬 222 • ⏱️ 17:15 • 1d ago
-
----
-
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=Vjt-B1iSxfM)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 Julie
-
-👁️ 2K • 👍 3K • 2h ago
-
----
-
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=EisJCfHe01I)**
-
-In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 237 • 💬 12 • ⏱️ 7:37 • 21h ago
+👁️ 2K • 👍 93 • 💬 24 • ⏱️ 5:20 • 1d ago
 
 ---
 
@@ -308,27 +308,27 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 5K • 👍 301 • 💬 26 • ⏱️ 14:47 • 1d ago
+👁️ 5K • 👍 308 • 💬 26 • ⏱️ 14:47 • 1d ago
 
 ---
 
-**[Crypto Markets Experts Weigh In On Bitcoin, XRP &amp; Ethereum  Generational Wealth Is About To Be Made](https://www.youtube.com/watch?v=n-yYI3DYBQo)**
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=EisJCfHe01I)**
 
-Big money energy has re-entered the crypto market, and it looks like things are about to get good. We've gotten a bunch of news ...
+In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
 
-📺 Money Rules - Investing Tips 
+📺 More Crypto Online
 
-👁️ 3K • 👍 619 • 💬 179 • ⏱️ 26:17 • 4h ago
+👁️ 4K • 👍 253 • 💬 12 • ⏱️ 7:37 • 23h ago
 
 ---
 
-**[US GOVERNMENT MOVES $297M IN BITCOIN AND ETHEREUM](https://www.youtube.com/watch?v=BgeEKpQp-c4)**
+**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
 
-The US government moved nearly $300 million in seized Bitcoin and Ether to Coinbase Prime, sparking questions about whether ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
 
-📺 CLOCKWISE CRYPTO 
+📺 Crypto Capital Venture
 
-👁️ 19K • 👍 296 • 💬 52 • ⏱️ 8:55 • 14h ago
+👁️ 9K • 👍 514 • 💬 224 • ⏱️ 17:15 • 1d ago
 
 ---
 
