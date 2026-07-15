@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T08:42:39.061881+00:00'
+updated: '2026-07-15T10:50:27.157638+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 08:42 UTC  
+**Last Updated:** July 15, 2026 at 10:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,887.27
+### $1,879.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.0%  
-**7d:** +7.5%  
-**30d:** +4.7%  
-**90d:** -22.5%  
+**24h:** +4.4%  
+**7d:** +7.6%  
+**30d:** +4.8%  
+**90d:** -22.4%  
 **1y:** -44.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.13B
+**Market Cap:** $226.50B
 Rank #2
 
 **Circulating Supply:** 120,682,943 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-62.0%
 
 **All-Time Low:** $0.43
-+432787.0%
++433470.7%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I arrived in a new nation, I had no local currency yet and had my card banned for the third time this trip, but I needed transportation. While I waited for my bag, I used ETH on my phone to purchase an Uber gift card using aceb. Before I reached the exit, I applied it to the app, so by the time I arrived outside, a ride was reserved. I've started holding a modest amount of ETH for just such circumstances. When a bank card fails at the wrong time, gift cards cover everything you need, including hotels, taxis and food delivery.
 
-5d ago
+6d ago
 
 ---
 
@@ -154,15 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 11h ago
-
----
-
-**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-needs-143513421.html)**
-
-EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
-
-Yahoo Finance • 18h ago
+The Block • 13h ago
 
 ---
 
@@ -170,7 +162,31 @@ Yahoo Finance • 18h ago
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 18h ago
+CoinDesk • 20h ago
+
+---
+
+**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-needs-143513421.html)**
+
+EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
+
+Yahoo Finance • 20h ago
+
+---
+
+**[Bitmine (BMNR) Rockets 11.5%; Big Investors Double Down on its Ethereum Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-rockets-11-5-013603059.html)**
+
+Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
+
+The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -182,27 +198,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-49-million-ethereum-152210893.html)**
+**[Current price of Ethereum for July 15, 2026](https://fortune.com/article/price-of-ethereum-07-15-2026/)**
 
-According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee says users 'starting to see Ethereum as money' as Bitmine adds 27,801 ETH](https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth)**
-
-Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, July 14, 2026:](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html)**
-
-Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday's opening price. The price of bitcoin firmed this morning to $62,865.44. Ethereum opened at $1,774.10, down 1.8% from yesterday's open. The price of ethereum adjusted to $1,785.68 by 8:21 a.m. ET.
-
-Yahoo Finance • 20h ago
+Fortune • 20m ago
 
 ---
 
@@ -210,7 +210,15 @@ Yahoo Finance • 20h ago
 
 Crypto prices are rising across the board today, even as the head of the Federal Reserve made clear he has no plans to step in and rescue the industry if things go wrong. Bitcoin sits near $64,600 today, rising more than 3%. Ethereum has climbed above $1,875 today, gaining more than 5% over the las…
 
-TradingView • 16h ago
+TradingView • 18h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, July 14, 2026:](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html)**
+
+Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday's opening price. The price of bitcoin firmed this morning to $62,865.44. Ethereum opened at $1,774.10, down 1.8% from yesterday's open. The price of ethereum adjusted to $1,785.68 by 8:21 a.m. ET.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -218,15 +226,7 @@ TradingView • 16h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
 
-FXStreet • 4h ago
-
----
-
-**[Current price of Ethereum for July 14, 2026](https://fortune.com/article/price-of-ethereum-07-14-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
+FXStreet • 6h ago
 
 ---
 
@@ -240,7 +240,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 27K • 👍 1K • 💬 135 • ⏱️ 34:54 • 13h ago
+👁️ 28K • 👍 1K • 💬 138 • ⏱️ 34:54 • 15h ago
 
 ---
 
@@ -250,7 +250,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 87 • 💬 21 • ⏱️ 5:20 • 20h ago
+👁️ 2K • 👍 87 • 💬 21 • ⏱️ 5:20 • 23h ago
 
 ---
 
@@ -260,17 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 111 • 💬 26 • ⏱️ 11:05 • 16h ago
-
----
-
-**[Ethereum Price Prediction: ETH On Track to Hit $2,400 as U.S. Inflation Cools Down](https://www.youtube.com/watch?v=DGVSmXbs8zU)**
-
-Ethereum is showing signs of a potential bullish breakout as inflation in the U.S. cooled down. A break above $1800 could set the ...
-
-📺 FXEmpire
-
-👁️ 74 • 👍 1 • 💬 13 • ⏱️ 5:17 • 13h ago
+👁️ 3K • 👍 115 • 💬 27 • ⏱️ 11:05 • 18h ago
 
 ---
 
@@ -280,7 +270,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 497 • 💬 223 • ⏱️ 17:15 • 17h ago
+👁️ 8K • 👍 500 • 💬 222 • ⏱️ 17:15 • 20h ago
 
 ---
 
@@ -290,7 +280,17 @@ Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 dif
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 284 • 💬 26 • ⏱️ 14:47 • 1d ago
+👁️ 4K • 👍 292 • 💬 26 • ⏱️ 14:47 • 1d ago
+
+---
+
+**[Ethereum Price Prediction: ETH On Track to Hit $2,400 as U.S. Inflation Cools Down](https://www.youtube.com/watch?v=DGVSmXbs8zU)**
+
+Ethereum is showing signs of a potential bullish breakout as inflation in the U.S. cooled down. A break above $1800 could set the ...
+
+📺 FXEmpire
+
+👁️ 95 • 👍 1 • 💬 13 • ⏱️ 5:17 • 15h ago
 
 ---
 
@@ -300,7 +300,7 @@ Join Gareth's Top Squad here on YouTube for premium videos, weekly discount code
 
 📺 Gareth Soloway
 
-👁️ 43K • 👍 3K • 💬 154 • ⏱️ 12:10 • 15h ago
+👁️ 44K • 👍 3K • 💬 158 • ⏱️ 12:10 • 17h ago
 
 ---
 
@@ -310,7 +310,7 @@ The crypto market has become quite dramatic over the last few weeks as it would 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 18K • 👍 2K • 💬 435 • ⏱️ 27:00 • 21h ago
+👁️ 19K • 👍 2K • 💬 435 • ⏱️ 27:00 • 23h ago
 
 ---
 
@@ -320,17 +320,17 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 211 • 💬 11 • ⏱️ 7:37 • 14h ago
+👁️ 4K • 👍 226 • 💬 19 • ⏱️ 7:37 • 16h ago
 
 ---
 
-**[Kiyosaki Predicts Ethereum Hits 95000 Dollars](https://www.youtube.com/watch?v=rZNaDkGPdY0)**
+**[US GOVERNMENT MOVES $297M IN BITCOIN AND ETHEREUM](https://www.youtube.com/watch?v=BgeEKpQp-c4)**
 
-Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 times return from current prices. His prediction ...
+The US government moved nearly $300 million in seized Bitcoin and Ether to Coinbase Prime, sparking questions about whether ...
 
-📺 Lark Davis
+📺 CLOCKWISE CRYPTO 
 
-👁️ 6K • 👍 183 • 💬 35 • ⏱️ 1:10 • 1d ago
+👁️ 12K • 👍 348 • 💬 52 • ⏱️ 8:55 • 9h ago
 
 ---
 
