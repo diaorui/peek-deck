@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-15T06:22:45.932663+00:00'
+updated: '2026-07-15T08:42:39.055822+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 06:22 UTC  
+**Last Updated:** July 15, 2026 at 08:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,000.00
+### $64,649.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.0%  
-**7d:** +2.7%  
-**30d:** -1.0%  
-**90d:** -15.7%  
-**1y:** -45.2%  
+**24h:** +3.4%  
+**7d:** +2.3%  
+**30d:** -1.4%  
+**90d:** -16.1%  
+**1y:** -45.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1302.82B
+**Market Cap:** $1297.11B
 Rank #1
 
-**Circulating Supply:** 20,056,540 BTC
+**Circulating Supply:** 20,056,584 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.5%
+-48.7%
 
 **All-Time Low:** $67.81
-+95692.7%
++95282.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Steak n Shake thanks their loyal patrons and Bitcoiners and says that anyone who doubts the power of Bitcoin is making a BIG mistake.](https://www.reddit.com/r/Bitcoin/comments/1uwbt8u/steak_n_shake_thanks_their_loyal_patrons_and/)**
 
-14h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 We’ve all seen the charts, and we’ve all felt that exact same pit in our stomach. "I missed the boat." "The easy money has been made." "It's too late to start now." Here is the brutal truth about Bitcoin: everyone gets the price they deserve. The people who bought at $1,000 had to endure years of media outlets calling it a dying fad. The people who bought at $10,000 had to hold through massive, soul-crushing 80% drops where everyone around them said "I told you so." Bitcoin isn't just a stock or a ticker that goes up and down on a screen. It is a fundamental shift in how the world defines value. It is the first time in human history that we have a currency that cannot be printed into oblivion by a central entity. When you look back at today from five or ten years in the future, the current price won't look like a peak. It will look like a flat line at the very beginning of the chart. Stop staring at the 1-minute candles. Stop stressing over the daily noise. Zoom out. The best time to understand Bitcoin was ten years ago. The second-best time is right now. What the hell is stopping you?
 
-14h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ We’ve all seen the charts, and we’ve all felt that exact same pit in our sto
 
 Faster Bitcoin payments are attracting more users with quick secure transactions.
 
-🔗 [The Silicon Review](https://thesiliconreview.com/2026/07/faster-transactions-are-drawing-users-toward-bitcoin-payments) • 8h ago
+🔗 [The Silicon Review](https://thesiliconreview.com/2026/07/faster-transactions-are-drawing-users-toward-bitcoin-payments) • 10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Faster Bitcoin payments are attracting more users with quick secure transactions
 
 What benefits do you think this will bring to the development of cryptocurrency? One thing is certain: it will further solidify the United States’ position in the cryptocurrency space.
 
-13h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ What benefits do you think this will bring to the development of cryptocurrency?
 
 Individual investors hold 66.1% of bitcoin’s total supply, dwarfing the 7.8% held by businesses and the 7.2% sitting in funds and exchange-traded funds (ETFs), according to asset manager Bitwise.
 
-18h ago
+20h ago
 
 ---
 
@@ -119,7 +119,7 @@ Individual investors hold 66.1% of bitcoin’s total supply, dwarfing the 7.8% h
 
 Lay it upon us
 
-14h ago
+16h ago
 
 ---
 
@@ -139,7 +139,7 @@ Lay it upon us
 
 Sjors Provoost joined Optech to discuss Newsletter #413: Using fountain codes for IBD Bitcoin Core's IPC Mining Interface and Stratum v2 Bitcoin Core 31.1, LND v0.20.2-beta And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/07/14/ Fountain: https://fountain.fm/episode/Mr4DojGzekgbOrxFhJWN Spotify: https://open.spotify.com/episode/32i7t5aubUiGnu0GEOsxsa Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-413-recap/id1674626983?i=1000776800852
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/07/14/) • 11h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/07/14/) • 13h ago
 
 ---
 
@@ -147,7 +147,7 @@ Sjors Provoost joined Optech to discuss Newsletter #413: Using fountain codes fo
 
 I was wondering what people have predicted for price movement between the months mentioned. I’ve seen a lot of talk online about a steep bottom in October. I am just curious as to why so many people are so sure that bitcoin will continue moving downward. I’m looking for genuine data/fact backed reasoning for this claim. If there’s a genuine reason for this, I would like to know so I can configure my strategy to incorporate such information. (I personally have been DCAing from the beginning of 2026)
 
-17h ago
+20h ago
 
 ---
 
@@ -159,15 +159,15 @@ I was wondering what people have predicted for price movement between the months
 
 Consumer prices cooled more than expected in June, yet geopolitical tensions continue to cast a shadow over crypto prices
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[BTC, ETH, SOL price news: Bitcoin tops $64,000 as Fed rate-hike expectations drop](https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade)**
+**[Live updates: Bitcoin price (BTC) higher after CPI declined in June](https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms)**
 
-The June CPI print  pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.
+Trump reinstated the Hormuz blockade, sending oil higher and rate-hike bets up, reversing the peace trade that helped bitcoin recover in early July. Today's inflation print is the next test.
 
-CoinDesk • 1h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -177,57 +177,53 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy bitcoin sales shine light on faltering crypto hoarding companies](https://www.reuters.com/legal/government/strategy-bitcoin-sales-shine-light-faltering-crypto-hoarding-companies-2026-07-13/)**
+**[US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham](https://www.theblock.co/post/408202/us-government-moves-288-million-bitcoin-ether)**
 
-Reuters • 1d ago
+According to Arkham, the U.S. government wallet maintains a large crypto portfolio estimated at over $20 billion, including 324,552 BTC.
 
----
-
-**[Strategy sells $467 million in MSTR shares, makes no bitcoin purchases as USD reserve hits $3 billion](https://www.theblock.co/post/408004/strategy-sells-467-million-in-mstr-shares-makes-no-bitcoin-purchases-as-usd-reserve-hits-3-billion)**
-
-Strategy's total holdings remain at 843,775 BTC and account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.
-
-The Block • 1d ago
+The Block • 22h ago
 
 ---
 
-**[Top Tesla investor warns Saylor is destroying Bitcoin](https://finance.yahoo.com/markets/crypto/articles/top-tesla-investor-warns-saylor-235000192.html)**
+**[U.S. government moves $8.8M of Bitcoin that Trump said would never sell](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-8-8m-204911394.html)**
 
-Ross Gerber has run out of patience with Michael Saylor. The Gerber Kawasaki CEO and one of Tesla's most prominent public investors posted on Sunday in response to Saylor's latest Bitcoin content on X, a video captioned "The Right to Bear Arms", with a bluntness that left little room for ...
+The United States government moved $8.8 million of Bitcoin to Coinbase Prime on Monday night, according to blockchain intelligence firm Arkham. "The US Government just moved $8.8M of BTC to Coinbase Prime. The Coinbase Prime deposit that received this BTC 1 hour ago also received seized BTC from ...
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Is Crypto Finally Shrugging Off Iran and AI Hype? Bitcoin and Altcoins Suggest Yes](https://finance.yahoo.com/markets/crypto/articles/crypto-finally-shrugging-off-iran-043606720.html)**
+**[BTC, ETH news: U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime](https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime)**
 
-Bitcoin's rally and surging Korean crypto volume suggest traders are tuning out Iran tensions and noting a brewing AI bubble.
+Coins from the Farace and BTC-e seizures moved through fresh wallets before landing on the exchange, despite president Donald Trump's previous no-sell reserve order.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin mining production slips in June for CleanSpark, BitFuFu and Canaan](https://www.theblock.co/post/408260/bitcoin-mining-production-slips-june-cleanspark-bitfufu-canaan)**
-
-CleanSpark, BitFuFu and Canaan reported lower bitcoin production in June despite mining difficulty dropping more than 10%.
-
-The Block • 14h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Current price of Bitcoin for July 14, 2026](https://fortune.com/article/price-of-bitcoin-07-14-2026/)**
+**[What Washed-Out Crypto Sentiment Means for Bitcoin’s Next Move](https://finance.yahoo.com/markets/crypto/articles/washed-crypto-sentiment-means-bitcoin-080050643.html)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Crypto social and trading activity has thinned sharply while whales keep accumulating. What the quiet could signal for Bitcoin.
 
-Fortune • 20h ago
+Yahoo Finance • 41m ago
 
 ---
 
-**[CleanSpark Signs $6.6 Billion Data Center Lease As Bitcoin Miner Pivots To Compute](https://bitcoinmagazine.com/news/cleanspark-signs-6-billion-center-lease)**
+**[Strategy Jumps as Bitcoin Rebound and Reserve Build Lift Sentiment](https://www.moomoo.com/news/post/72988100/strategy-jumps-as-bitcoin-rebound-and-reserve-build-lift-sentiment)**
 
-CleanSpark, the Nasdaq-listed bitcoin miner, said on July 14 that it has signed a 20-year infrastructure lease with an unnamed high-investment-grade global
+Moomoo • 1h ago
 
-Bitcoin Magazine • 14h ago
+---
+
+**[Live Markets: Bitcoin, Ether ETFs Draw Inflows as Majors Rise as Much as 5%](https://www.moomoo.com/news/post/72993475/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise)**
+
+Moomoo • 8m ago
+
+---
+
+**[Strategy bitcoin sales shine light on faltering crypto hoarding companies](https://www.reuters.com/legal/government/strategy-bitcoin-sales-shine-light-faltering-crypto-hoarding-companies-2026-07-13/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -247,7 +243,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 8h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+⬆️ 2 • 💬 1 • 10h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
 
 ---
 
@@ -283,23 +279,11 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 ---
 
-**[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48907011)**
-
-⬆️ 3 • 💬 0 • 16h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
-
----
-
-**[Show HN: Iodd Viewer a free IODD viewer that runs in the browser](https://news.ycombinator.com/item?id=48912188)**
-
-⬆️ 2 • 💬 0 • 10h ago • [ioddviewer.com](https://ioddviewer.com)
-
----
-
 **[Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://news.ycombinator.com/item?id=48842611)**
 
 It’s supposed to be a decentralized service, after all...
 
-⬆️ 367 • 💬 259 • 5d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+⬆️ 367 • 💬 260 • 6d ago • [How-To Geek](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 
 ---
 
@@ -307,23 +291,23 @@ It’s supposed to be a decentralized service, after all...
 
 ## YouTube Videos: "bitcoin"
 
-**[Inflation and Bitcoin](https://www.youtube.com/watch?v=rWfLRMiyQVY)**
-
-Inflation came in cooler than expected, but what does that actually mean for Bitcoin? In this video, we break down the latest CPI ...
-
-📺 Benjamin Cowen
-
-👁️ 13K • 👍 1K • 💬 53 • ⏱️ 7:57 • 4h ago
-
----
-
 **[Bitcoin Breakout: The Bears Will Get SQUEEZED Near-Term (BTC, ETH, SOL, HYPE, XRP)](https://www.youtube.com/watch?v=Xu2MSbIwf4U)**
 
 Join Gareth's Top Squad here on YouTube for premium videos, weekly discount codes, and real-time trade setups: ...
 
 📺 Gareth Soloway
 
-👁️ 40K • 👍 3K • 💬 152 • ⏱️ 12:10 • 13h ago
+👁️ 43K • 👍 3K • 💬 154 • ⏱️ 12:10 • 15h ago
+
+---
+
+**[Bitcoin’s Bullish Macro Window Just Opened](https://www.youtube.com/watch?v=v_wIDpJhp9c)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 8K • 👍 517 • 💬 90 • ⏱️ 10:49 • 8h ago
 
 ---
 
@@ -333,17 +317,7 @@ In this episode, I sit down with Joe Consorti to answer the question everyone ke
 
 📺 THE Bitcoin Podcast with Walker
 
-👁️ 6K • 👍 348 • 💬 80 • ⏱️ 1:12:44 • 15h ago
-
----
-
-**[Bitcoin Just Gave Bulls a Green Light](https://www.youtube.com/watch?v=7nmoL4jKjf0)**
-
-AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 797 • 💬 110 • ⏱️ 42:00 • 15h ago
+👁️ 6K • 👍 360 • 💬 81 • ⏱️ 1:12:44 • 17h ago
 
 ---
 
@@ -353,37 +327,7 @@ MagBak: Get 15% off of ANY product using code ICED15 at https://creators.magbak.
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 8K • 👍 172 • 💬 105 • ⏱️ 11:11 • 1d ago
-
----
-
-**[3 Signals Just Flashed — Here&#39;s the $100K Bitcoin Move No One is Expecting!](https://www.youtube.com/watch?v=7MjnW7l4RnU)**
-
-Three major catalysts just strengthened the long term case for Bitcoin, but most investors are still focused on short term headlines.
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 1K • 💬 87 • ⏱️ 16:56 • 8h ago
-
----
-
-**[IT STARTED: Fed Chair Sends Bold Message to Crypto &amp; AI Investors](https://www.youtube.com/watch?v=r0K5dqG74As)**
-
-Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 22K • 👍 1K • 💬 35 • ⏱️ 9:17 • 6h ago
-
----
-
-**[Inflation Surprise Boosts Crypto Market📈](https://www.youtube.com/watch?v=CNglmHFWPhQ)**
-
-US stocks rose on Tuesday as investors parsed latest inflation data and Federal Reserve Chairman Kevin Warsh's remarks.
-
-📺 Paul Barron Network
-
-👁️ 31K • 👍 1K • 💬 87 • ⏱️ 17:03 • 11h ago
+👁️ 9K • 👍 176 • 💬 105 • ⏱️ 11:11 • 1d ago
 
 ---
 
@@ -393,7 +337,37 @@ Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 110 • ⏱️ 9:49 • 1d ago
+👁️ 27K • 👍 2K • 💬 118 • ⏱️ 9:49 • 1d ago
+
+---
+
+**[3 Signals Just Flashed — Here&#39;s the $100K Bitcoin Move No One is Expecting!](https://www.youtube.com/watch?v=7MjnW7l4RnU)**
+
+Three major catalysts just strengthened the long term case for Bitcoin, but most investors are still focused on short term headlines.
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 2K • 💬 106 • ⏱️ 16:56 • 10h ago
+
+---
+
+**[Bitcoin Just Gave Bulls a Green Light](https://www.youtube.com/watch?v=7nmoL4jKjf0)**
+
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 800 • 💬 110 • ⏱️ 42:00 • 18h ago
+
+---
+
+**[Inflation and Bitcoin](https://www.youtube.com/watch?v=rWfLRMiyQVY)**
+
+Inflation came in cooler than expected, but what does that actually mean for Bitcoin? In this video, we break down the latest CPI ...
+
+📺 Benjamin Cowen
+
+👁️ 20K • 👍 2K • 💬 60 • ⏱️ 7:57 • 6h ago
 
 ---
 
@@ -404,6 +378,16 @@ An OpenAI insider warns there is a 70% chance advanced AI goes horribly wrong—
 📺 Simply Bitcoin
 
 👁️ 21K • 👍 2K • 💬 177 • ⏱️ 16:38 • 1d ago
+
+---
+
+**[GREAT NEWS FOR BITCOIN](https://www.youtube.com/watch?v=5fKeSvhdLrI)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 6K • 👍 287 • 💬 63 • ⏱️ 19:33 • 19h ago
 
 ---
 

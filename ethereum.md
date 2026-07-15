@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T06:22:45.938171+00:00'
+updated: '2026-07-15T08:42:39.061881+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 06:22 UTC  
+**Last Updated:** July 15, 2026 at 08:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.0%  
-**7d:** +8.1%  
-**30d:** +5.3%  
-**90d:** -22.0%  
-**1y:** -44.0%  
+**24h:** +5.0%  
+**7d:** +7.5%  
+**30d:** +4.7%  
+**90d:** -22.5%  
+**1y:** -44.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.52B
+**Market Cap:** $226.13B
 Rank #2
 
 **Circulating Supply:** 120,682,943 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.1%
 
 **All-Time Low:** $0.43
-+435433.8%
++432787.0%
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 9h ago
+The Block • 11h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 9h ago
 
 EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 15h ago
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 15h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -198,11 +198,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Dip as Trump Reinstates Strait of Hormuz Blockade: Analyst Says Whales 'Actively Accumulating' BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-dip-014618534.html)**
+**[Bitcoin and ethereum prices today, Tuesday, July 14, 2026:](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html)**
 
-Leading cryptocurrencies slid alongside stocks on Monday after President Donald Trump floated full U.S. control over the Strait of Hormuz and a reimbursement fee on all cargo passing through. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.10%$62,405.07Ethereum (CRYPTO: ETH) -1.98%$1,782.82XRP (CRYPTO: XRP) -2.02%$1.06Solana (CRYPTO: SOL) -2.58%$75.26Dogecoin (CRYPTO: DOGE) -1.54%$0.07207 Increased Selling Pressure Bitcoin tumbled below $62,000 as trading
+Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday's opening price. The price of bitcoin firmed this morning to $62,865.44. Ethereum opened at $1,774.10, down 1.8% from yesterday's open. The price of ethereum adjusted to $1,785.68 by 8:21 a.m. ET.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -210,15 +210,15 @@ Yahoo Finance • 1d ago
 
 Crypto prices are rising across the board today, even as the head of the Federal Reserve made clear he has no plans to step in and rescue the industry if things go wrong. Bitcoin sits near $64,600 today, rising more than 3%. Ethereum has climbed above $1,875 today, gaining more than 5% over the las…
 
-TradingView • 14h ago
+TradingView • 16h ago
 
 ---
 
-**[Crypto Today: Where are BTC, ETH and XRP heading amid capital outflows?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-sideways-trading-amid-etf-outflows-us-iran-war-escalation-202607141055)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show tentative recovery as key technical levels hold](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-tentative-recovery-as-key-technical-levels-hold-202607150403)**
 
-The cryptocurrency market continues to trade under pressure despite a mild and broad rebound on Tuesday. Bitcoin (BTC) hovers around $62,500 amid prevalent sideways trading.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
 
-FXStreet • 19h ago
+FXStreet • 4h ago
 
 ---
 
@@ -226,7 +226,7 @@ FXStreet • 19h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 25K • 👍 1K • 💬 131 • ⏱️ 34:54 • 11h ago
+👁️ 27K • 👍 1K • 💬 135 • ⏱️ 34:54 • 13h ago
 
 ---
 
@@ -250,7 +250,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 86 • 💬 21 • ⏱️ 5:20 • 18h ago
+👁️ 2K • 👍 87 • 💬 21 • ⏱️ 5:20 • 20h ago
 
 ---
 
@@ -260,27 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 102 • 💬 24 • ⏱️ 11:05 • 14h ago
-
----
-
-**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
-
-Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
-
-📺 Coin Bureau Trading
-
-👁️ 4K • 👍 279 • 💬 26 • ⏱️ 14:47 • 23h ago
-
----
-
-**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 489 • 💬 219 • ⏱️ 17:15 • 15h ago
+👁️ 3K • 👍 111 • 💬 26 • ⏱️ 11:05 • 16h ago
 
 ---
 
@@ -290,27 +270,27 @@ Ethereum is showing signs of a potential bullish breakout as inflation in the U.
 
 📺 FXEmpire
 
-👁️ 71 • 👍 1 • 💬 13 • ⏱️ 5:17 • 10h ago
+👁️ 74 • 👍 1 • 💬 13 • ⏱️ 5:17 • 13h ago
 
 ---
 
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=EisJCfHe01I)**
+**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
 
-In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
 
-📺 More Crypto Online
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 197 • 💬 8 • ⏱️ 7:37 • 11h ago
+👁️ 8K • 👍 497 • 💬 223 • ⏱️ 17:15 • 17h ago
 
 ---
 
-**[ETHEREUM: THE REAL MOST HATED RALLY](https://www.youtube.com/watch?v=-cWisMcB35I)**
+**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
 
-📺 Jordan Camirand
+📺 Coin Bureau Trading
 
-👁️ 9K • 👍 598 • 💬 392 • ⏱️ 13:44 • 2d ago
+👁️ 4K • 👍 284 • 💬 26 • ⏱️ 14:47 • 1d ago
 
 ---
 
@@ -320,7 +300,7 @@ Join Gareth's Top Squad here on YouTube for premium videos, weekly discount code
 
 📺 Gareth Soloway
 
-👁️ 40K • 👍 3K • 💬 152 • ⏱️ 12:10 • 13h ago
+👁️ 43K • 👍 3K • 💬 154 • ⏱️ 12:10 • 15h ago
 
 ---
 
@@ -330,7 +310,27 @@ The crypto market has become quite dramatic over the last few weeks as it would 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 18K • 👍 2K • 💬 383 • ⏱️ 27:00 • 18h ago
+👁️ 18K • 👍 2K • 💬 435 • ⏱️ 27:00 • 21h ago
+
+---
+
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=EisJCfHe01I)**
+
+In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 211 • 💬 11 • ⏱️ 7:37 • 14h ago
+
+---
+
+**[Kiyosaki Predicts Ethereum Hits 95000 Dollars](https://www.youtube.com/watch?v=rZNaDkGPdY0)**
+
+Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 times return from current prices. His prediction ...
+
+📺 Lark Davis
+
+👁️ 6K • 👍 183 • 💬 35 • ⏱️ 1:10 • 1d ago
 
 ---
 
