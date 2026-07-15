@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T22:01:17.771046+00:00'
+updated: '2026-07-15T23:28:50.670949+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 22:01 UTC  
+**Last Updated:** July 15, 2026 at 23:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,920.19
+### $1,920.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
+**24h:** +2.2%  
 **7d:** +10.1%  
-**30d:** +7.2%  
+**30d:** +7.3%  
 **90d:** -20.6%  
 **1y:** -43.0%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.30B
+**Market Cap:** $231.77B
 Rank #2
 
 **Circulating Supply:** 120,682,943 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-61.2%
 
 **All-Time Low:** $0.43
-+444628.3%
++443443.5%
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -174,11 +174,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[What the Fed’s No-Bailout Warning Really Means for Bitcoin, Ethereum, and XRP](https://finance.yahoo.com/markets/crypto/articles/fed-no-bailout-warning-really-213113425.html)**
+**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
 
-Kevin Warsh told Congress the Fed won't bail out crypto, and Bitcoin holders panicked. But the real threat to Bitcoin, Ethereum, and XRP has nothing to do with bailouts, and Warsh just quietly signaled it.
+Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
 
-Yahoo Finance • 30m ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Ethereum Has a Bold New Plan for 2029. What Will Be the Impact on the Price of ETH?](https://www.fool.com/investing/2026/07/15/ethereum-has-a-bold-new-plan-for-2029/)**
+
+The chain's updated technical roadmap will see it add major new features.
+
+The Motley Fool • 15m ago
 
 ---
 
@@ -186,43 +194,35 @@ Yahoo Finance • 30m ago
 
 Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
+
+---
+
+**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
+
+The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
+
+PR Newswire • 2d ago
 
 ---
 
 **[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
 
-MarketWatch • 8h ago
-
----
-
-**[Current price of Ethereum for July 15, 2026](https://fortune.com/article/price-of-ethereum-07-15-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 9h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show tentative recovery as key technical levels hold](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-tentative-recovery-as-key-technical-levels-hold-202607150403)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
-
-FXStreet • 17h ago
-
----
-
-**[Surging volumes on Robinhood Chain could benefit Ethereum](https://cryptobriefing.com/robinhood-chain-volumes-benefit-ethereum/)**
-
-Robinhood Chain hit 7.6 million daily transactions just 10 days after launch, with all activity settling on Ethereum L1 using ETH as the sole gas token.
-
-Crypto Briefing • 6h ago
+MarketWatch • 9h ago
 
 ---
 
 **[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
 
-thestreet.com • 4h ago
+thestreet.com • 5h ago
 
 ---
 
@@ -230,33 +230,23 @@ thestreet.com • 4h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Vs Bitcoin Breakout Coming - Same Setup As 2021. Altcoin Rally Loading??](https://www.youtube.com/watch?v=S2eE8sDhp6k)**
-
-In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going To Be The Same?? Unlock Incredible ...
-
-📺 The House Of Crypto
-
-👁️ 8K • 👍 606 • 💬 52 • ⏱️ 12:28 • 10h ago
-
----
-
-**[BITCOIN &amp; CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5n7WB0eCfyI)**
-
-BITCOIN & CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 141 • 💬 36 • ⏱️ 21:31 • 3h ago
-
----
-
 **[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=kUgMPkZeH1A)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 959 • 👍 109 • 💬 7 • ⏱️ 18:30 • 4h ago
+👁️ 2K • 👍 151 • 💬 16 • ⏱️ 18:30 • 6h ago
+
+---
+
+**[Ethereum Vs Bitcoin Breakout Coming - Same Setup As 2021. Altcoin Rally Loading??](https://www.youtube.com/watch?v=S2eE8sDhp6k)**
+
+In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going To Be The Same?? Unlock Incredible ...
+
+📺 The House Of Crypto
+
+👁️ 9K • 👍 666 • 💬 56 • ⏱️ 12:28 • 11h ago
 
 ---
 
@@ -266,7 +256,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 35K • 👍 1K • 💬 166 • ⏱️ 34:54 • 1d ago
+👁️ 36K • 👍 2K • 💬 166 • ⏱️ 34:54 • 1d ago
 
 ---
 
@@ -276,7 +266,17 @@ XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PL
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 191 • 💬 4 • ⏱️ 43:18 • 3h ago
+👁️ 4K • 👍 238 • 💬 9 • ⏱️ 43:18 • 5h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5n7WB0eCfyI)**
+
+BITCOIN & CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 220 • 💬 73 • ⏱️ 21:31 • 5h ago
 
 ---
 
@@ -286,17 +286,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 135 • 💬 30 • ⏱️ 11:05 • 1d ago
+👁️ 5K • 👍 139 • 💬 31 • ⏱️ 11:05 • 1d ago
 
 ---
 
-**[Inflation Easing, Are Bottoms in for BTC, ETH, Gold?](https://www.youtube.com/watch?v=_POcYbw8qkk)**
+**[Crypto Markets Experts Weigh In On Bitcoin, XRP &amp; Ethereum  Generational Wealth Is About To Be Made](https://www.youtube.com/watch?v=n-yYI3DYBQo)**
 
-The Fed just surprised everyone. Two cold inflation prints in 48 hours crushed July rate-hike odds from 41% to 17%, and Bitcoin ...
+Big money energy has re-entered the crypto market, and it looks like things are about to get good. We've gotten a bunch of news ...
 
-📺 VirtualBacon
+📺 Money Rules - Investing Tips 
 
-👁️ 1K • 👍 94 • 💬 3 • ⏱️ 1:01:02 • 2h ago
+👁️ 9K • 👍 1K • 💬 267 • ⏱️ 26:17 • 12h ago
+
+---
+
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=Vjt-B1iSxfM)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 Julie
+
+👁️ 4K • 👍 3K • 💬 2 • ⏱️ 3:12:40 • 9h ago
+
+---
+
+**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 97 • 💬 25 • ⏱️ 5:20 • 1d ago
 
 ---
 
@@ -306,27 +326,7 @@ En este video hare el análisis de bitcoin (btc), ahora mismo en una zona clave 
 
 📺 CryptoAnálisis
 
-👁️ 2K • 👍 312 • 💬 27 • ⏱️ 15:56 • 9h ago
-
----
-
-**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 515 • 💬 224 • ⏱️ 17:15 • 1d ago
-
----
-
-**[Kiyosaki Predicts Ethereum Hits 95000 Dollars](https://www.youtube.com/watch?v=rZNaDkGPdY0)**
-
-Robert Kiyosaki says Ethereum reaches 95000 dollars by mid 2027. That is a 60 times return from current prices. His prediction ...
-
-📺 Lark Davis
-
-👁️ 7K • 👍 217 • 💬 39 • ⏱️ 1:10 • 1d ago
+👁️ 2K • 👍 349 • 💬 27 • ⏱️ 15:56 • 10h ago
 
 ---
 

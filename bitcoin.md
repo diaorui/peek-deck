@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-15T22:01:17.766080+00:00'
+updated: '2026-07-15T23:28:50.664722+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 22:01 UTC  
+**Last Updated:** July 15, 2026 at 23:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,858.00
+### $64,911.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +2.4%  
-**30d:** -1.3%  
+**24h:** +0.0%  
+**7d:** +2.5%  
+**30d:** -1.2%  
 **90d:** -15.9%  
 **1y:** -45.3%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1302.91B
+**Market Cap:** $1299.88B
 Rank #1
 
-**Circulating Supply:** 20,056,815 BTC
+**Circulating Supply:** 20,056,878 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.5%
+-48.6%
 
 **All-Time Low:** $67.81
-+95711.8%
++95472.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I'm a toxic bitcoin maximalist but some reactions in the bear market are funny.
 
-8h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ I'm a toxic bitcoin maximalist but some reactions in the bear market are funny.
 
 Bitcoin was having a great this year until one lightning strike hit the market.
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Bitcoin was having a great this year until one lightning strike hit the market.
 
 At the previous low of around 16K many were waiting on the side line, hoping for 12K, which is 25%. If the bottem is already in, around 58K, all the people waiting for another 25% drop, which will be around 43K, will be left behind. Funny that 42-45K is a price I see being thrown around very often. The big boys know thousands of people are waiting for 45K prices in october, therefore I simply don’t think we’re going to see those lows.
 
-9h ago
+11h ago
 
 ---
 
@@ -105,13 +105,13 @@ At the previous low of around 16K many were waiting on the side line, hoping for
 
 Lemme hear your favorite bitcoin songs!
 
-7h ago
+9h ago
 
 ---
 
 **[iPhone VS Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxbi3b/iphone_vs_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ Lemme hear your favorite bitcoin songs!
 
 Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gain pushing total crypto market capitalization past $2.3 trillion.
 
-10h ago
+12h ago
 
 ---
 
@@ -133,13 +133,13 @@ Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gai
 
 For years I’ve been reading positive things about Strike by Jack Mallers, especially because you can apparently buy Bitcoin with very low fees (and even fee-free options depending on how you use it). I’ve tried Strike on and off in the past with mixed results, but now I want to properly test it. I’m comparing it against Finst, a Dutch exchange that currently offers some of the lowest Bitcoin buying fees in Europe (around 0.15%). Over a long period of DCA, small fee differences can really add up. My Bitcoin journey started years ago on Coinbase. Looking back, the fees there were pretty painful, with large spreads and transaction costs. One thing I did like about Coinbase at the time was the occasional free crypto rewards, but eventually I moved on. After Coinbase, I switched to Bitvavo, which is one of Europe’s largest exchanges by trading volume. Their fees are around 0.25%, which was already a big improvement. Currently I use Finst, but because I keep seeing so many positive experiences with Strike, I decided to test it myself instead of just relying on other people’s opinions. I created a spreadsheet where I’ll compare my weekly DCA purchases. My setup: - €100 Bitcoin DCA every Friday - Compare Strike vs Finst - Track the actual amount of BTC received and the total costs My first purchase was last Friday (July 10). At the moment I received slightly less BTC on Strike compared to Finst, which is expected because of the higher costs/spread on the first transaction. But the interesting part will be how this develops over several weeks and months. One thing I already like about Strike: it’s Bitcoin-only. No altcoins, no distractions, just Bitcoin. I’ll keep updating this thread with the results. Curious to hear from others in Europe: what platform are you using for your Bitcoin DCA, and why? Disclaimers: Not sponsored by Strike, Finst, or anyone else. I’m just a Dutch guy who likes comparing fees a little too much. 🇳🇱 Bitcoin is risky. Only invest what you can afford to lose.
 
-12h ago
+14h ago
 
 ---
 
 **[It's finally happening!](https://www.reddit.com/r/Bitcoin/comments/1uwqtyk/its_finally_happening/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -147,7 +147,7 @@ For years I’ve been reading positive things about Strike by Jack Mallers, espe
 
 It's a made up, until it becomes self fulfilling prophecy. Same every cycle. The bear and the 40K guy keep saying see you at 40K the other keep saying 100k next, nothing matters. Narratives always follow price action. Buy your own risk.
 
-15h ago
+16h ago
 
 ---
 
@@ -159,23 +159,13 @@ It's a made up, until it becomes self fulfilling prophecy. Same every cycle. The
 
 Le highlighted increasing the U.S.-dollar reserve as an important lever in preferred stock STRC’s recovery back to around $90 having fallen below $75 last month.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin at a turning point, could be 'substantially higher' by year end, says Bitwise CIO](https://www.cnbc.com/video/2026/07/15/bitcoin-at-a-turning-point-could-be-substantially-higher-by-year-end-says-bitwise-cio.html)**
+**[Strategy bitcoin sales shine light on faltering crypto hoarding companies](https://www.reuters.com/legal/government/strategy-bitcoin-sales-shine-light-faltering-crypto-hoarding-companies-2026-07-13/)**
 
-Matt Hougan, Bitwise CIO, joins 'Closing Bell Overtime' to talk tokenization, the recent moves in bitcoin, and more.
-
-CNBC • 52m ago
-
----
-
-**[What the Fed’s No-Bailout Warning Really Means for Bitcoin, Ethereum, and XRP](https://finance.yahoo.com/markets/crypto/articles/fed-no-bailout-warning-really-213113425.html)**
-
-Kevin Warsh told Congress the Fed won't bail out crypto, and Bitcoin holders panicked. But the real threat to Bitcoin, Ethereum, and XRP has nothing to do with bailouts, and Warsh just quietly signaled it.
-
-Yahoo Finance • 30m ago
+Reuters • 2d ago
 
 ---
 
@@ -187,6 +177,38 @@ Alaska's News Source • 1d ago
 
 ---
 
+**[Bitcoin jumps to $65,000: 'Backdrop for crypto is improving'](https://finance.yahoo.com/markets/crypto/article/bitcoin-jumps-to-65000-backdrop-for-crypto-is-improving-144838821.html)**
+
+Bitcoin jumped nearly 2% on Wednesday to hover above $65,000 per token, while ethereum rose 3%.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-64k-following-largest-152427907.html)**
+
+Consumer prices cooled more than expected in June, yet geopolitical tensions continue to cast a shadow over crypto prices
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Today](https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost)**
+
+BTC rallied to a three-week high of $65,200 and ETH hit its highest since June 3 after a softer-than-expected inflation print eased fears over the U.S.-Iran conflict.
+
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin To $40,000? If History's Anything To Go By, It's Possible, Says Report](https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report)**
+
+Bitcoin could drop as low as $38,000 this year, a new report claims.
+
+Bitcoin Magazine • 2h ago
+
+---
+
 **[Bitcoin: All In At $40,000 (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4921923-bitcoin-all-in-at-40000)**
 
 Bitcoin is nearing a potential bottom, supported by 4-year cycle analysis, technical indicators and macroeconomic parallels. Read more on BTC-USD here.
@@ -195,41 +217,17 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Japan’s Landmark Vote Reclassifies Bitcoin And Crypto As Financial Assets](https://bitcoinmagazine.com/news/japan-reclassifies-bitcoin-and-crypto)**
+**[Bitcoin at a turning point, could be 'substantially higher' by year end, says Bitwise CIO](https://www.cnbc.com/video/2026/07/15/bitcoin-at-a-turning-point-could-be-substantially-higher-by-year-end-says-bitwise-cio.html)**
 
-Japan's parliament approved legislation reclassifying bitcoin and other cryptocurrencies as financial assets, marking a major regulatory shift that aligns digital assets more closely with traditional financial markets.
+Matt Hougan, Bitwise CIO, joins 'Closing Bell Overtime' to talk tokenization, the recent moves in bitcoin, and more.
 
-Bitcoin Magazine • 8h ago
-
----
-
-**[Current price of Bitcoin for July 15, 2026](https://fortune.com/article/price-of-bitcoin-07-15-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 9h ago
+CNBC • 2h ago
 
 ---
 
 **[Fidelity: Actually, Homes Are Getting Cheaper (as Long as You Price Them in Bitcoin)](https://gizmodo.com/fidelity-actually-homes-are-getting-cheaper-as-long-as-you-price-them-in-bitcoin-2000785675)**
 
-Gizmodo • 13h ago
-
----
-
-**[Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins](https://www.theblock.co/post/408448/kraken-institutional-taps-upshift-to-build-vaults-that-earn-yield-on-idle-bitcoin-eth-and-stablecoins)**
-
-Upshift will build dedicated vaults tailored to each client’s specific investment strategy and risk considerations.
-
-The Block • 5h ago
-
----
-
-**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
-
-Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
-
-Yahoo Finance • 9h ago
+Gizmodo • 14h ago
 
 ---
 
@@ -249,7 +247,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 23h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+⬆️ 2 • 💬 1 • 1d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
 
 ---
 
@@ -295,17 +293,7 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 55 • ⏱️ 9:17 • 22h ago
-
----
-
-**[Is Bitcoin Still Worth Buying in 2026? | Humphrey Yang](https://www.youtube.com/watch?v=HvkbcjujAKE)**
-
-MagBak: Get 15% off of ANY product using code ICED15 at https://creators.magbak.com/theicedcoffeehour9tn Episode Link ...
-
-📺 The Iced Coffee Hour Clips
-
-👁️ 10K • 👍 213 • 💬 121 • ⏱️ 11:11 • 1d ago
+👁️ 43K • 👍 2K • 💬 55 • ⏱️ 9:17 • 1d ago
 
 ---
 
@@ -315,7 +303,7 @@ In this episode, I sit down with Joe Consorti to answer the question everyone ke
 
 📺 THE Bitcoin Podcast with Walker
 
-👁️ 8K • 👍 441 • 💬 114 • ⏱️ 1:12:44 • 1d ago
+👁️ 9K • 👍 457 • 💬 114 • ⏱️ 1:12:44 • 1d ago
 
 ---
 
@@ -325,37 +313,47 @@ Inflation came in cooler than expected, but what does that actually mean for Bit
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 3K • 💬 91 • ⏱️ 7:57 • 19h ago
+👁️ 47K • 👍 3K • 💬 97 • ⏱️ 7:57 • 21h ago
 
 ---
 
-**[Inflation DOWN, Bitcoin UP. Trump Wants 20% (Most Are Losers).](https://www.youtube.com/watch?v=Wcb7TeuNRqE)**
+**[Is Bitcoin Still Worth Buying in 2026? | Humphrey Yang](https://www.youtube.com/watch?v=HvkbcjujAKE)**
 
-Inflation dropped by a LOT and bitcoin responded but WILL IT LAST with new war declarations coming in? DB Crypto ...
+MagBak: Get 15% off of ANY product using code ICED15 at https://creators.magbak.com/theicedcoffeehour9tn Episode Link ...
 
-📺 Digital Asset News
+📺 The Iced Coffee Hour Clips
 
-👁️ 7K • 👍 458 • 💬 34 • ⏱️ 32:04 • 23h ago
-
----
-
-**[3 Signals Just Flashed — Here&#39;s the $100K Bitcoin Move No One is Expecting!](https://www.youtube.com/watch?v=7MjnW7l4RnU)**
-
-Three major catalysts just strengthened the long term case for Bitcoin, but most investors are still focused on short term headlines.
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 128 • ⏱️ 16:56 • 1d ago
+👁️ 10K • 👍 221 • 💬 122 • ⏱️ 11:11 • 1d ago
 
 ---
 
-**[Bitcoin Breakout: The Bears Will Get SQUEEZED Near-Term (BTC, ETH, SOL, HYPE, XRP)](https://www.youtube.com/watch?v=Xu2MSbIwf4U)**
+**[Bitcoin BOUNCES to $64k on Largest Inflation Decline Since Covid Crash](https://www.youtube.com/watch?v=2zgSwV-8W2I)**
 
-Join Gareth's Top Squad here on YouTube for premium videos, weekly discount codes, and real-time trade setups: ...
+Bitcoin #Crypto #Finance Bitcoin is holding steady as investors await today's U.S. core inflation report and Fed Chair Kevin ...
 
-📺 Gareth Soloway
+📺 The Wolf Of All Streets
 
-👁️ 51K • 👍 3K • 💬 164 • ⏱️ 12:10 • 1d ago
+👁️ 9K • 👍 335 • 💬 127 • ⏱️ 1:02:58 • 1d ago
+
+---
+
+**[12 Attacks On Bitcoin (Happening Now)](https://www.youtube.com/watch?v=z3AYCZo7oEs)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join Learn more about BIP-110: ...
+
+📺 Bitcoin University
+
+👁️ 10K • 👍 1K • 💬 297 • ⏱️ 9:18 • 1d ago
+
+---
+
+**[*THE* BITCOIN GIGA SIGNAL 🚨 JUST TOUCHED TIPS ONCE AGAIN](https://www.youtube.com/watch?v=mBBEC_IDhhk)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 5K • 👍 416 • 💬 62 • ⏱️ 10:51 • 5h ago
 
 ---
 
@@ -365,27 +363,27 @@ Let's try to better understand this Bitcoin bear market structurally and from a 
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 230 • ⏱️ 16:23 • 1d ago
+👁️ 73K • 👍 5K • 💬 230 • ⏱️ 16:23 • 1d ago
 
 ---
 
-**[Wall Street&#39;s Bitcoin strategy, explained](https://www.youtube.com/watch?v=_8oG1beyjDU)**
+**[A BITCOIN EMERGENCY!!!!!!!!!!!!!  A Scary BTC Drop is About to Happen!!! You&#39;ve Been Warned!](https://www.youtube.com/watch?v=5mgzqVGNC6Q)**
 
-Everyone thinks institutions are selling Bitcoin. They're wrong. In this episode of The Daily Wolf, Scott Melker sits down with ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Yahoo Finance
+📺 Doctor of Pump & Dump
 
-👁️ 10K • 👍 366 • 💬 168 • ⏱️ 14:57 • 1d ago
+👁️ 2K • 👍 272 • ⏱️ 29:49 • 4h ago
 
 ---
 
-**[Jake Paul&#39;s Business Partner on Bitcoin, AI &amp; the Next Trillion-Dollar Trade](https://www.youtube.com/watch?v=jjf-GBgkTIk)**
+**[3 Signals Just Flashed — Here&#39;s the $100K Bitcoin Move No One is Expecting!](https://www.youtube.com/watch?v=7MjnW7l4RnU)**
 
-Geoff Woo is the co-founder and managing partner of Anti Fund and a co-founder of Ketone-IQ and Archive. In this conversation ...
+Three major catalysts just strengthened the long term case for Bitcoin, but most investors are still focused on short term headlines.
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 378 • 💬 8 • ⏱️ 1:29:26 • 2d ago
+👁️ 26K • 👍 2K • 💬 133 • ⏱️ 16:56 • 1d ago
 
 ---
 
