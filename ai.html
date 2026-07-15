@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-07-15T10:50:26.674756+00:00"
+          "dateModified": "2026-07-15T12:15:20.804492+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,41 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ux03ca/the_ai_honeymoon_is_ending/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/bg212pj2wcdh1.jpeg?width=640&crop=smart&auto=webp&s=9bdde29fd24e1564bb8236a808ce4abf9019a545" alt="The AI honeymoon is ending" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ux03ca/the_ai_honeymoon_is_ending/" target="_blank" onclick="event.stopPropagation();">The AI honeymoon is ending</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            It feels like the AI pricing honeymoon phase is starting to end. For the last year or two, we've gotten used to incredibly cheap access to powerful models but that was never going to last forever. We've already seen reports of companies like Meta, Tesla, and Uber putting limits on internal AI usage as compute costs keep climbing. Now it's showing up in public APIs too. DeepSeek, practically the poster child which built a reputation for low-cost models is introducing peak-hour pricing for its upcoming V4 release. In simple terms, when demand is high, API prices go up. It sounds a lot like surge pricing for GPUs and I think this changes how people build AI products. On the positive side, I think this pushes the ecosystem in a healthier direction. Instead of every team rebuilding the same pieces over and over, we'll probably see more specialized products that solve one part of the workflow really well. It saves teams from spending weeks building infra that already exists. Firecrawl is a good example of helping teams handle web scraping and data ingestion instead of maintaining that infra themselves. Chatbase is another example which helps teams turn their own docs and internal knowledge into AI assistants without having to build an entire chatbot from scratch. That means engineers can spend more time working on the product itself instead of rebuilding another piece of infra. As token costs become less predictable, that kind of specialization becomes a lot more valuable. The winning teams probably will be the ones putting better systems around those models.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784104977.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uwh06x/apple_just_sued_openai_for_trade_secret_theft_and/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -715,6 +680,155 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ux2xcq/asked_7_free_chat_llms_to_fix_my_recipes/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ux2xcq/asked_7_free_chat_llms_to_fix_my_recipes/" target="_blank" onclick="event.stopPropagation();">Asked 7 free chat LLMs to fix my recipes</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            My recipe file - yes, a single file - spent years as a .txt. It's got weird groupings that were convenient to my internal logic. (e.g. "Cold", "Slow cooker", "Complex"). Not everything was in the right group. There are some full recipes, some I typed shorthand with just ingredients on a single line. Some just a link. And a list of air fryer times for good measure. It's a mess. I decided I wanted a markdown document with good headers so it's not only easier to read, a good outline would help me jump around. And I wanted other formatting and more overall logic. So I gave the same source file and the same instructions to the free user web interfaces for: Gemini Flash Extended (Says 3.1 and 3.5 don't exist, then says it is 3.5 Flash.) Deepseek Instant w/ Deepthink (Extended doesn't allow attachments. Identifies as V3 with search restricted, V4 if I let it search.) Muse Spark 1.1 GLM 5.2 MiMo 2.5 Pro Grok 4.0 Fast Kimi 2.6 Thinking (The first few times I asked Kimi, it started processing then said it was too busy to do this for free. But I tried again while writing this and did get a response, so I'm inserting them.) GPT and Sonnet I asked to help me judge. I'm assuming they would have topped the list. (Although GPT did make a comment about "truncated previews" when I asked it about dropping recipes, so somehow they managed to lose points even as a judge. Grade: F Grok. (I almost left them out because I knew the context is too small.) Grok very nicely formatted all the recipe titles, and compressed 90% of recipes to a single descriptive sentence. Grade: D Gemini First, Gemini could not give me a downloadable file or put the result in a copyable code block. The first attempt was a uncopyable code block with python instructions mixed in, followed by a display of the file. Using "copy" on the whole response froze my browser for 40 seconds. I asked it for a better response, and got a nicely formatted markdown in a Markdown-labeled code block that had 2 recipes, neither of which came from me. I manually trimmed the messy response so I could review. And it took a lot of liberties. Some things it marked like [!tip] which might have been nice. It put checkboxes in front of incomplete recipes, which is maybe helpful? But it also rephrased instructions in a way I don't trust. A key element of the prompt was to preserve all information. It also put "Whole Chicken via Slow Cooker" into "Basics & Quick Starters". (Which was not one of my original categories.) Grade: C Deepseek Deepseek had a nice interface, then fell on their face by silently decided that my list of air fryer times wasn't technically a recipe, and therefore wasn't worth keeping. I had a duplicate section of a recipe that had gotten separated from the original and didn't have a title. (I said my list was a mess.) Deepseek recognized what it was, invented a header, then replaced the recipe section with a line saying "duplicate of above, keep one." Elsewhere, an idea that was largely redundant but in different language was deleted. The other AIs preserved it. What it did preserve is a typo. I didn't mean 1.4t of nutmeg. That would be hard to measure. It was between other 1/4 t measurements, so this was guessable. Others corrected it. The formatting was fine. Nothing extra, nothing omitted. But there were a few times when it left ingredients as 1-2 lines of text instead of a proper list. Grade: B GLM 5.2 GLM also didn't give me an easy download/copy, although they were well above Gemini. I had to copy the whole reply. But once I did, I found out there were markdown tags surrounding it. It's just that the web interface ignored them for formatting. Arguably the opposite of Deepseek, GLM actually treated my air fryer times like a recipe. That means it didn't get it's own section and wasn't formatted as a table. Like Deepseek, it preserved my 1.4t typo. (BTW. Judge GPT said "GLM reminds me of GPT-4." 😆 ) GLM was the only AI not to understand that two variants on a recipe were indeed variants and not brand new one-line recipes. And it would make weird choices like formatting 20 ingredients into 4 bullet points and two subheaders. It also didn't do much re-organizing, but didn't tell me that was intentional either. Not bad, but I was expecting more. Spark I was rooting for Spark too, and almost bumped them up to B+. The web interface was great. Spark said that it deliberately preserved the order but suggested it would take a second pass if I asked. Spark corrected my "1.4t nutmeg" to "1/4 tsp" but also added a note. (Gemini did too.) The biggest problem is that it embellished recipe titles, often with additions like "-- base + variations" or "-- vegan base" or "-- Can be made in slow cooker". Even within a recipe, instead of having a "Variations" subsection, it made a subsection variation - with the word "variation" in its name. Not bad info, but putting those notes in the title makes the outline more clunky for me. The duplicated recipe section mentioned above became two recipes. One with "-- Detailed Version" and one with "-- Quick Version". Except the quick version had 6 steps and the detailed version had 5. Spark was the only model not to put horizontal rule lines before new section headers. Confusingly, Spark also placed notes about what it had done into the nice downloadable Markdown section. Including a "Tip for Obsidian" about using a spice ratio. But on the whole the formatting was nice. If I liked more information on the outline, this would be an A. Grade: B- Kimi 2.6 Thinking When it finally decided to throw a bone to us poors, Kimi impressed me. It also told me that it had intentionally minimized reorganization. But the Air Fryer listing was given it's own section heading, formatted as a table, and moved to the top. It caught and removed the duplicated recipe section, and told me in the response. It also corrected the "1.4t nutmeg" but didn't say. Kimi showed an understanding of a recipe in a way no other AI did: it took a recipe where I had all the ingredients together, and broke it up into sections for "core" and "sauce". The formatting is very nice, with no embellishment or cutting. Kimi was the only model to create a Table of Contents at the top with links to my sections. I'm not sure I want that, but it's a nice idea I can easily remove. One of my spice mixes was formatted as a table. Two others were not. Most confusingly, it took a recipe that wasn't duplicated in my notes, created a second title for it far away from the first one, and under that one said "Duplicate -- see full recipe above." So close to an A, but that last mistake broke my trust. Grade: A Mimo 2.5 Pro Mimo was the only one to move "Whole Chicken via Slow Cooker" to the Slow Cooker section, and rearranged other things properly as well. (It had been in an ungrouped section most titled "Miscellaneous".) It caught my 1.4t mistake, but just changed it cleanly with no note. Similarly, it caught the duplicated recipe section and just removed the extra. (Like GLM and Kimi.) The Air Fryer times were put into table format, like Kimi, Spark and Gemini had. Unlike them, it also put the spice mixes into tables. I'm not sure if that's better, but it's not worse. The titles were kept concise, as I originally had them. Variations were cleanly called out with bold titles, making them readable but not outline-level. It created a "Miscellaneous Notes" section for one-line ideas I'd thrown in. Spark did this too, but not as well. Other AIs had given them their own recipe titles with details no longer than "Idea", or potentially bunched things together. It even recognized when a recipe had both English and non-English titles and put the foreign one in italics. I'm struggling to find a flaw. The sort could have been improved, but no one else did better. Air Fryer got it's own section as it should, but I'd have preferred it was at the top like Gemini did, or at the bottom where I'd originally had it, instead of mid-list. Final thoughts MiMo 2.5 Pro would not have been my prediction for formatting notes, but it did fantastic. I wouldn't have been unhappy with Kimi either, unless I was in a hurry. Sonnet 5.0 was a competent judge (on High) and agrees with that assessment. GPT preferred Spark because it prefers more text, and apparently wants to mentor GLM. I'm sure there were more I could have tested. In fact I literally just now remembered Microsoft Copilot is a thing. But these were the ones I thought deserved a shot. Hopefully this was of interest to someone. I don't see a lot of testing on this stuff, especially with a focus on free web interfaces.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784114242.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uwzpf5/ai_agent_builders_are_getting_paid_based_on/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1uwzpf5/ai_agent_builders_are_getting_paid_based_on/" target="_blank" onclick="event.stopPropagation();">AI agent builders are getting paid based on quality now, not just for shipping. Here is what that looks like.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Most platforms that pay builders do it on a flat fee basis. Ship something, get paid a fixed amount, done. We think that creates bad incentives. So we changed it. On Gravity, our AI agent marketplace, per agent rewards are now tied to the quality and difficulty of what you build. A simple agent earns less. A complex, reliable, genuinely useful agent earns significantly more. We just launched a builder leaderboard with Rs 6,000 for first place. Welcome session is today at 8pm with full details. If you build agents, comment below and I will send you the link.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784103614.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ux3yiv/the_conversion_trap_ai_shows_up_everywhere_but/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ux3yiv/the_conversion_trap_ai_shows_up_everywhere_but/" target="_blank" onclick="event.stopPropagation();">The Conversion Trap: AI shows up everywhere but outcomes still dont follow</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            The model knows what the patient needs. The doctor knows too. The treatment exists somewhere in the world. But the clinic has no oxygen. Or the hospital can no longer pay for the software. Or the medicine is stuck in the supply chain. Or the machine broke and nobody came to fix it. That is the pattern I worry about most with AGI. Not a world where poor countries are locked out of intelligence. A world where intelligence shows up, but outcomes do not. That is the conversion trap. COVID showed this in brutal form. Scientists built vaccines in record time. 9 billion doses administered by end of 2021. The science worked. Delivery did not. Rich countries hit high vaccination rates fast. Poor countries stayed below 10%. The gap wasn't about knowledge. It was about procurement power, manufacturing concentration, export restrictions, cold chain, electricity, local health systems, and trust. AI could do the same thing at scale. A student gets an AI tutor and still goes to a bad school. A farmer gets better advice and still lacks irrigation, storage, credit. A nurse gets decision support and still works in a clinic without oxygen. Intelligence without delivery is a new form of dependency. They get better answers, but value capture happens elsewhere. They get better tools, but the infrastructure remains foreign. The real development question in the AI era is not whether poor countries can access intelligence. It is whether they can convert it into broad gains. Full essay: https://yupanqui.xyz/the-conversion-trap
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784117157.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ux399u/how_7_young_people_feel_about_artificial/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Jx9blma7fb4VHpEaIuydpodr0R_XZs1w1HumqUwaurA.jpeg?width=640&crop=smart&auto=webp&s=bcfd8cfcd8a798f9b7ffd93afbc0e89b94142181" alt="How 7 young people feel about artificial intelligence" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ux399u/how_7_young_people_feel_about_artificial/" target="_blank" onclick="event.stopPropagation();">How 7 young people feel about artificial intelligence</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            What's it like to grow up and learn in the age of AI? NPR put that question to seven teenagers across the country.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784115205.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://media.npr.org/chrome/favicon/favicon-180x180.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>NPR</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uw6sv6/did_you_know_the_ceo_of_openai_owns_nearly_9_of/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -739,6 +853,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1784030808.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ux2o66/is_current_most_of_the_agentmulti_agents_solution/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ux2o66/is_current_most_of_the_agentmulti_agents_solution/" target="_blank" onclick="event.stopPropagation();">Is current most of the agent/multi agents solution are deterministic, predictable, is anyone accept this or not what you find in those agents (llm) creative</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I think current enterprises are focusing on not making the agents more creative and do a new thing. They are excepting the various llm (agent) solutions should be auditable, predictable and deterministic. While building most of agent solution they have FSM or rule engine that guide the llm to do things in a deterministic way. Is anyone find the ai agentic solution that is creative and do dynamic by llm reasoning?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784113465.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -831,157 +978,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uwikrh/ai_made_cloning_games_easier_than_ever/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/wbDqX8xhnIioPT7mewVpy5vQM46VnWFTSPBjcTd7TR0.jpeg?width=640&crop=smart&auto=webp&s=ac54b4f0c5d045b3cd837022274bdf1fd83d0295" alt="AI Made Cloning Games Easier Than Ever" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uwikrh/ai_made_cloning_games_easier_than_ever/" target="_blank" onclick="event.stopPropagation();">AI Made Cloning Games Easier Than Ever</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Vibecoding has made it possible to create a cheap rip off of a video game in just a few hours.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784057049.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.404media.co/ai-made-cloning-games-easier-than-ever/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>404 Media</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uwzpf5/ai_agent_builders_are_getting_paid_based_on/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uwzpf5/ai_agent_builders_are_getting_paid_based_on/" target="_blank" onclick="event.stopPropagation();">AI agent builders are getting paid based on quality now, not just for shipping. Here is what that looks like.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Most platforms that pay builders do it on a flat fee basis. Ship something, get paid a fixed amount, done. We think that creates bad incentives. So we changed it. On Gravity, our AI agent marketplace, per agent rewards are now tied to the quality and difficulty of what you build. A simple agent earns less. A complex, reliable, genuinely useful agent earns significantly more. We just launched a builder leaderboard with Rs 6,000 for first place. Welcome session is today at 8pm with full details. If you build agents, comment below and I will send you the link.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784103614.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uwg8kk/the_absolute_nightmare_of_putting_ai_agents_into/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uwg8kk/the_absolute_nightmare_of_putting_ai_agents_into/" target="_blank" onclick="event.stopPropagation();">The absolute nightmare of putting AI agents into actual production</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            It feels like the conversation around AI agents has quietly shifted over the last few months from "look at what this autonomous loop can do" to "how do we actually keep these things from breaking in production." Most of us have figured out the build phase. You pick up a framework like LangGraph or CrewAI, connect a couple of tools and you have a prototype that looks incredible in a controlled environment but the moment you try to slide that into a real corporate infrastructure, the cracks start showing. You realize you don't have a reliable way to handle version control, security teams freak out about unvetted containers and if an agent starts hallucinating or leaking data, there is rarely a clean rollback switch. We built the car but we completely forgot to lay down the roads or put up traffic lights. The real bottleneck right now isn't the underlying models or the prompt engineering; it's the lack of standard deployment infrastructure. Traditional DevOps rules don't perfectly map onto systems that are inherently unpredictable. For instance, giving an autonomous agent a generic API key or a shared service account is a massive security liability, yet it happens all the time because mapping unique, ephemeral identities to individual AI processes is surprisingly tedious. Without automated gates that run responsible AI scans and factual accuracy checks before code promotion, pushing a change to a live agent fleet feels less like engineering and more like crossing your fingers. People are starting to realize that we need an independent orchestration layer to manage the lifecycle of these systems. The landscape is beginning to evolve with tools attempting to solve this, like the Lyzr control plane that recently popped up to handle agent governance and deployment pipelines but the industry as a whole is still playing catch-up. Until we treat agent deployment with the same structural rigor we give traditional web apps complete with automated staging, identity isolation and real-time observability, most enterprise agent initiatives are going to remain stuck in pilot purgatory. I'm curious to know how teams here are handling the jump to actual production and what your biggest roadblocks have been once the initial demo phase is over.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784052061.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uwbt7o/im_not_a_great_artist_so_i_made_an_agent_that/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/ZHZidmNtYTlxN2RoMdVo87EfMkt537YPK755pV79-r7QkKCAgey2V3p9vHCn.png?width=640&crop=smart&auto=webp&s=a9cf365f94ee207402895a035e4df471cffab9bd" alt="I'm not a great artist — so I made an agent that turns my doodles on my Remarkable tablet into actually nice charcoal sketches. Real editable pen-line vectors too! Not just static images." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uwbt7o/im_not_a_great_artist_so_i_made_an_agent_that/" target="_blank" onclick="event.stopPropagation();">I'm not a great artist — so I made an agent that turns my doodles on my Remarkable tablet into actually nice charcoal sketches. Real editable pen-line vectors too! Not just static images.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            About This Pretty much what the title says. - Doodle - Select - Agent parses device screenshots to write creative brief - Another agent gets the brief and napkin sketch and makes an image of charcoal artwork - Post-processing pipeline does multiple layers of vectorization (line work, shading, highlights) - All vectors are converted to Remarkable pen-stroke data and injected into the clipboard and pasted onto the tablet in place of the original sketch 1 undo step to get back to your sketch. Feels like magic. Brief agent is Qwen, Image gen agent is Nano-Banana-Lite with Qwen doing QA on the resulting image to make sure it adhere's to the brief. Each generation is currently about $0.04 in API costs per image generated during an attempt — agent is limited to 3 attempts and if all "fail" then Qwen returns the one it feels _best_ matches.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784042658.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1005,7 +1001,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-15T10:50:01.519772+00:00">Updated 2026-07-15T10:50:01.519772+00:00</small>
+        <small data-timestamp="2026-07-15T12:15:00.283357+00:00">Updated 2026-07-15T12:15:00.283357+00:00</small>
     </div>
 </div>
 
@@ -1269,20 +1265,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cbsnews.com/news/26-meta-workers-sue-ai-aided-layoffs-medical-family-leave/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/technology/ai/articles/meta-employees-allege-discriminatory-ai-092353693.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/15/75086901-0979-4c15-bff8-e08d099a0d48/thumbnail/1200x630/dd6c3a2164e3ba2fd68f4b4a7fde49d9/gettyimages-2272777092.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/B5CB987D47207F43F973DA07A8C5F1E581C9FA88C5E338FAC32DBF345917BD46/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff5c913abdf809b97a231c8a0c6e29986');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cbsnews.com/news/26-meta-workers-sue-ai-aided-layoffs-medical-family-leave/" target="_blank" onclick="event.stopPropagation();">26 Meta workers sue over alleged AI-aided layoffs targeting employees on medical or family leave</a>
+                            <a href="https://finance.yahoo.com/technology/ai/articles/meta-employees-allege-discriminatory-ai-092353693.html" target="_blank" onclick="event.stopPropagation();">Meta employees allege discriminatory AI-driven layoffs</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            A group of 26 Meta employees has sued the company, claiming it used AI to choose people for layoffs, disproportionately targeting those on medical, parental or family leave.
+                            Twenty-six Meta employees have filed a lawsuit accusing the tech giant of using artificial intelligence to select workers for mass layoffs, a claim strongly denied by the trillion dollar company.According to the lawsuit, filed in Oakland, California on Monday Meta used AI systems to "score, rank, and select employees" to be laid off rather than "the considered judgement of managers who knew the work" while disproportionately targeting those on medical or family leave.
                         </div>
                         
 
@@ -1292,9 +1288,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CBS News" class="news-favicon">
-                                    <a href="https://www.cbsnews.com" target="_blank" onclick="event.stopPropagation();">CBS News</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1302,7 +1298,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784108700.0"></span>
+                                    <span data-timestamp="1784107433.0"></span>
                                 </div>
                                 
                             </div>
@@ -1310,14 +1306,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/world/middle-east/uae-ai-chips-iran-war-26c10d77', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion" target="_blank" onclick="event.stopPropagation();">OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion</a>
+                            <a href="https://www.wsj.com/world/middle-east/uae-ai-chips-iran-war-26c10d77" target="_blank" onclick="event.stopPropagation();">U.A.E. Rewarded With Coveted AI Chips for Supporting U.S. War in Iran</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1329,9 +1325,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WSJ" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
                                     
                                 </div>
                                 
@@ -1339,7 +1335,130 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784062335.0"></span>
+                                    <span data-timestamp="1784070000.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/video/6401196339112', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d560f158-54e6-49cb-a1a2-753582282404/6c7faca8-bc90-4ce0-b2ee-2dac535cb41a/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxnews.com/video/6401196339112" target="_blank" onclick="event.stopPropagation();">17-year-old creator unveils Grocery Genius, an AI recipe generator</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Smit Kothari introduces Grocery Genius, a free website that transforms pantry ingredients into custom AI-powered recipes. Kothari explains his motivation to combat food waste and hunger, offering meal planning and nutrition tracking.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox News" class="news-favicon">
+                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1784115747.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/technology/ai/articles/why-nvidia-nvda-expanding-ai-114820881.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/A340DA4A0C38857CC68F2CE1E026D20F324871A0322ACE110A6CE9E9D783830C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa079136e941b43293f25b66228839740');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/technology/ai/articles/why-nvidia-nvda-expanding-ai-114820881.html" target="_blank" onclick="event.stopPropagation();">Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            NVIDIA Corporation (NASDAQ:NVDA) is one of the high-growth wide-moat stocks to buy. On July 10, Morgan Stanley analyst Joseph Moore reiterated an Overweight rating and a $288 price target after meetings with Chief Executive Officer Jensen Huang. Moore identified AI labs, expanding sales of CPUs and networking products, sovereign-AI projects, and demand from enterprise customers […]
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1784116100.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/" target="_blank" onclick="event.stopPropagation();">Indian AI coding startup Emergent becomes a unicorn with $130M Series C</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="TechCrunch" class="news-favicon">
+                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1784116800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1380,48 +1499,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784112094.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bostonglobe.com/2026/07/15/metro/brown-university-ai-suspected-cheating/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/HFJKI23IG3H5GBO7H5LAGHRTPU.jpg?auth=a730b4ffae22c80ba5d0ebb14c3e0f89b843b7b6e5f35181f43aecb105793a68&width=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bostonglobe.com/2026/07/15/metro/brown-university-ai-suspected-cheating/" target="_blank" onclick="event.stopPropagation();">Brown professor says students used AI to cheat — and made this ‘very basic strategic mistake’</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Economics professor Roberto Serrano believes AI can be useful, but “the line should be drawn if a user of AI essentially is choosing to become an idiot and stop thinking,” he said.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bostonglobe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Boston Globe" class="news-favicon">
-                                    <a href="https://www.bostonglobe.com" target="_blank" onclick="event.stopPropagation();">The Boston Globe</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1784107949.0"></span>
+                                    <span data-timestamp="1784115111.0"></span>
                                 </div>
                                 
                             </div>
@@ -1470,57 +1548,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/07/15/armenia-ambassador-ai-military-sales-trump', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x4473+0+416/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2Fc1%2Fec96f7ad4ffd8bfd73e3c73076f2%2Fgettyimages-2271215485.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/2026/07/15/armenia-ambassador-ai-military-sales-trump" target="_blank" onclick="event.stopPropagation();">Exclusive: In Armenia, the "door is open" for AI and weapons diversity</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1784110197.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108019821-1723561950847-gettyimages-1900810562-raa-asmlhold240104_npWrR.jpeg?v=1775551832&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html" target="_blank" onclick="event.stopPropagation();">ASML rises 5% after hiking sales forecast for second time this year on strong AI chip demand</a>
+                            <a href="https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school" target="_blank" onclick="event.stopPropagation();">How do young people feel about AI? 7 teens weigh in</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            ASML on Wednesday raised its guidance for a second time this year as its customers continue to ramp up their production capacity of AI chips.
+                            What's it like to grow up and learn in the age of AI? NPR put that question to seven teenagers across the country.
                         </div>
                         
 
@@ -1530,9 +1571,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NPR" class="news-favicon">
+                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">NPR</a>
                                     
                                 </div>
                                 
@@ -1540,44 +1581,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784092218.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/asml-tops-q2-estimates-ai-chip-demand-2026-07-15/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.reuters.com/business/asml-tops-q2-estimates-ai-chip-demand-2026-07-15/" target="_blank" onclick="event.stopPropagation();">ASML raises 2026 forecast, expands capacity on AI chip demand</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1784092020.0"></span>
+                                    <span data-timestamp="1784059200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1605,7 +1609,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-15T10:50:20.560639+00:00">Updated 2026-07-15T10:50:20.560639+00:00</small>
+        <small data-timestamp="2026-07-15T12:15:16.591080+00:00">Updated 2026-07-15T12:15:16.591080+00:00</small>
     </div>
 </div>
 
@@ -1826,7 +1830,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1078</span>
+                                    <span class="post-points">▲ 1079</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 453</span>
@@ -1864,10 +1868,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 477</span>
+                                    <span class="post-points">▲ 488</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 434</span>
+                                    <span style="color: #9ca3af;">💬 439</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1913,7 +1917,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 347</span>
+                                    <span class="post-points">▲ 348</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 98</span>
@@ -2007,7 +2011,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 182</span>
+                                    <span class="post-points">▲ 183</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 106</span>
@@ -2052,10 +2056,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 158</span>
+                                    <span class="post-points">▲ 161</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 90</span>
+                                    <span style="color: #9ca3af;">💬 92</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2150,10 +2154,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 147</span>
+                                    <span class="post-points">▲ 149</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 194</span>
+                                    <span style="color: #9ca3af;">💬 195</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2251,7 +2255,7 @@
                                     <span class="post-points">▲ 80</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 93</span>
+                                    <span style="color: #9ca3af;">💬 94</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2296,7 +2300,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-15T10:50:00.403003+00:00">Updated 2026-07-15T10:50:00.403003+00:00</small>
+        <small data-timestamp="2026-07-15T12:14:59.083304+00:00">Updated 2026-07-15T12:14:59.083304+00:00</small>
     </div>
 </div>
 

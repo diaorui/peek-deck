@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-15T10:50:27.151474+00:00'
+updated: '2026-07-15T12:15:21.278330+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 10:50 UTC  
+**Last Updated:** July 15, 2026 at 12:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
+**24h:** +1.4%  
 **7d:** +2.2%  
 **30d:** -1.5%  
 **90d:** -16.1%  
-**1y:** -45.5%  
+**1y:** -45.4%  
 
 ---
 
@@ -79,21 +79,7 @@ Rank #1
 
 **[Steak n Shake thanks their loyal patrons and Bitcoiners and says that anyone who doubts the power of Bitcoin is making a BIG mistake.](https://www.reddit.com/r/Bitcoin/comments/1uwbt8u/steak_n_shake_thanks_their_loyal_patrons_and/)**
 
-19h ago
-
----
-
-**[It's finally happening!](https://www.reddit.com/r/Bitcoin/comments/1uwqtyk/its_finally_happening/)**
-
-10h ago
-
----
-
-**[Faster Transactions Are Drawing Users Toward Bitcoin Payments](https://www.reddit.com/r/Bitcoin/comments/1uwn0aa/faster_transactions_are_drawing_users_toward/)**
-
-Faster Bitcoin payments are attracting more users with quick secure transactions.
-
-🔗 [The Silicon Review](https://thesiliconreview.com/2026/07/faster-transactions-are-drawing-users-toward-bitcoin-payments) • 12h ago
+20h ago
 
 ---
 
@@ -101,7 +87,21 @@ Faster Bitcoin payments are attracting more users with quick secure transactions
 
 For years I’ve been reading positive things about Strike by Jack Mallers, especially because you can apparently buy Bitcoin with very low fees (and even fee-free options depending on how you use it). I’ve tried Strike on and off in the past with mixed results, but now I want to properly test it. I’m comparing it against Finst, a Dutch exchange that currently offers some of the lowest Bitcoin buying fees in Europe (around 0.15%). Over a long period of DCA, small fee differences can really add up. My Bitcoin journey started years ago on Coinbase. Looking back, the fees there were pretty painful, with large spreads and transaction costs. One thing I did like about Coinbase at the time was the occasional free crypto rewards, but eventually I moved on. After Coinbase, I switched to Bitvavo, which is one of Europe’s largest exchanges by trading volume. Their fees are around 0.25%, which was already a big improvement. Currently I use Finst, but because I keep seeing so many positive experiences with Strike, I decided to test it myself instead of just relying on other people’s opinions. I created a spreadsheet where I’ll compare my weekly DCA purchases. My setup: - €100 Bitcoin DCA every Friday - Compare Strike vs Finst - Track the actual amount of BTC received and the total costs My first purchase was last Friday (July 10). At the moment I received slightly less BTC on Strike compared to Finst, which is expected because of the higher costs/spread on the first transaction. But the interesting part will be how this develops over several weeks and months. One thing I already like about Strike: it’s Bitcoin-only. No altcoins, no distractions, just Bitcoin. I’ll keep updating this thread with the results. Curious to hear from others in Europe: what platform are you using for your Bitcoin DCA, and why? Disclaimers: Not sponsored by Strike, Finst, or anyone else. I’m just a Dutch guy who likes comparing fees a little too much. 🇳🇱 Bitcoin is risky. Only invest what you can afford to lose.
 
-1h ago
+3h ago
+
+---
+
+**[It's finally happening!](https://www.reddit.com/r/Bitcoin/comments/1uwqtyk/its_finally_happening/)**
+
+11h ago
+
+---
+
+**[Faster Transactions Are Drawing Users Toward Bitcoin Payments](https://www.reddit.com/r/Bitcoin/comments/1uwn0aa/faster_transactions_are_drawing_users_toward/)**
+
+Faster Bitcoin payments are attracting more users with quick secure transactions.
+
+🔗 [The Silicon Review](https://thesiliconreview.com/2026/07/faster-transactions-are-drawing-users-toward-bitcoin-payments) • 14h ago
 
 ---
 
@@ -109,7 +109,7 @@ For years I’ve been reading positive things about Strike by Jack Mallers, espe
 
 In my 20s. What is the better investment for the next 10-20 years. Yes it’s a risk and return play (Sharpe Ratio). However, it depends on your risk tolerance, knowledge, and emotional intelligence. Wanted to get people’s thoughts on this debate.
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,15 @@ In my 20s. What is the better investment for the next 10-20 years. Yes it’s a 
 
 This time for sure
 
-10h ago
+12h ago
+
+---
+
+**[Bitcoin Jumps Above $64K as Crypto Market Cap Reclaims $2.3 Trillion](https://www.reddit.com/r/Bitcoin/comments/1ux34hu/bitcoin_jumps_above_64k_as_crypto_market_cap/)**
+
+Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gain pushing total crypto market capitalization past $2.3 trillion.
+
+48m ago
 
 ---
 
@@ -125,7 +133,15 @@ This time for sure
 
 It's a made up, until it becomes self fulfilling prophecy. Same every cycle. The bear and the 40K guy keep saying see you at 40K the other keep saying 100k next, nothing matters. Narratives always follow price action. Buy your own risk.
 
-4h ago
+5h ago
+
+---
+
+**[Is the volatility worth the eventual payoff?](https://www.reddit.com/r/Bitcoin/comments/1ux2i2v/is_the_volatility_worth_the_eventual_payoff/)**
+
+I'm sure most people here believe BTC will outperform the S&P500... eventually. Do you think the delta will be worth all the headache? Would it be better simply to do the S&P500 and take a lower return?
+
+1h ago
 
 ---
 
@@ -133,23 +149,7 @@ It's a made up, until it becomes self fulfilling prophecy. Same every cycle. The
 
 We’ve all seen the charts, and we’ve all felt that exact same pit in our stomach. "I missed the boat." "The easy money has been made." "It's too late to start now." Here is the brutal truth about Bitcoin: everyone gets the price they deserve. The people who bought at $1,000 had to endure years of media outlets calling it a dying fad. The people who bought at $10,000 had to hold through massive, soul-crushing 80% drops where everyone around them said "I told you so." Bitcoin isn't just a stock or a ticker that goes up and down on a screen. It is a fundamental shift in how the world defines value. It is the first time in human history that we have a currency that cannot be printed into oblivion by a central entity. When you look back at today from five or ten years in the future, the current price won't look like a peak. It will look like a flat line at the very beginning of the chart. Stop staring at the 1-minute candles. Stop stressing over the daily noise. Zoom out. The best time to understand Bitcoin was ten years ago. The second-best time is right now. What the hell is stopping you?
 
-18h ago
-
----
-
-**[The Capture, An investigation into how informal power over Bitcoin Core was assembled, exercised, and defended](https://www.reddit.com/r/Bitcoin/comments/1uwsglt/the_capture_an_investigation_into_how_informal/)**
-
-I was told mention and discussion of BIPs is permitted again. I tried posting this investigative journalism series (about the events that precipitated and motivated the proposal of BIP110) in the past, but it was taken down. Most people, even some who oppose BIP110, agree that most of the contents reported are factual. Not everyone agrees on the conclusion that Core is captured. You can read and decide for yourself. I hope this doesn't get taken down again.
-
-🔗 [Citadel21](https://www.citadel21.com/) • 8h ago
-
----
-
-**[Every Free Sat I’ve ever “earned” through ZBD and CC Rewards.](https://www.reddit.com/r/Bitcoin/comments/1uwq4q2/every_free_sat_ive_ever_earned_through_zbd_and_cc/)**
-
-I’ve been stacking with cash for a while now. This account is where I’ve put all my “free” Bitcoin into from sign up rewards and cash back taken in Bitcoin.
-
-10h ago
+20h ago
 
 ---
 
@@ -157,19 +157,19 @@ I’ve been stacking with cash for a while now. This account is where I’ve put
 
 ## Google News: "bitcoin"
 
-**[BTC, ETH, SOL price news: Bitcoin nears $65,000 as Fed rate-hike expectations drop](https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade)**
-
-The June CPI print  pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.
-
-CoinDesk • 5h ago
-
----
-
 **[Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-64k-following-largest-152427907.html)**
 
 Consumer prices cooled more than expected in June, yet geopolitical tensions continue to cast a shadow over crypto prices
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
+
+---
+
+**[BTC, ETH, SOL price news: Bitcoin nears $65,000 as Fed rate-hike expectations drop](https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade)**
+
+The June CPI print  pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -187,47 +187,47 @@ The Block • 1d ago
 
 ---
 
-**[U.S. government moves $8.8M of Bitcoin that Trump said would never sell](https://finance.yahoo.com/markets/crypto/articles/u-government-moves-8-8m-204911394.html)**
+**[Bitcoin ETFs Are Seeing Massive Outflows, but the Price of HYPE Keeps Rising. Here's Why I'm Bullish on Hyperliquid.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-seeing-massive-outflows-100000757.html)**
 
-The United States government moved $8.8 million of Bitcoin to Coinbase Prime on Monday night, according to blockchain intelligence firm Arkham. "The US Government just moved $8.8M of BTC to Coinbase Prime. The Coinbase Prime deposit that received this BTC 1 hour ago also received seized BTC from ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[BTC, ETH news: U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime](https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime)**
-
-Coins from the Farace and BTC-e seizures moved through fresh wallets before landing on the exchange, despite president Donald Trump's previous no-sell reserve order.
-
-CoinDesk • 1d ago
-
----
-
-**[What Washed-Out Crypto Sentiment Means for Bitcoin’s Next Move](https://finance.yahoo.com/markets/crypto/articles/washed-crypto-sentiment-means-bitcoin-080050643.html)**
-
-Crypto social and trading activity has thinned sharply while whales keep accumulating. What the quiet could signal for Bitcoin.
+Is Hyperliquid a financial services juggernaut in the making?
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Live Markets: Bitcoin, Ether ETFs Draw Inflows as Majors Rise as Much as 5%](https://www.moomoo.com/news/post/72993475/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise)**
+**[Bitcoin Breaks Through 50-day MA](https://www.investing.com/analysis/bitcoin-breaks-through-50day-ma-200683971)**
 
-Moomoo • 2h ago
+Investing.com • 20m ago
 
 ---
 
-**[Bitcoin ETFs Are Seeing Massive Outflows, but the Price of HYPE Keeps Rising. Here's Why I'm Bullish on Hyperliquid.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-seeing-massive-outflows-100000757.html)**
+**[Top Hyperliquid Traders Go Heavily Long on Bitcoin as BTC Bullish Bets Hit Record Levels](https://finance.yahoo.com/markets/crypto/articles/top-hyperliquid-traders-heavily-long-110215034.html)**
 
-Is Hyperliquid a financial services juggernaut in the making?
+Top Hyperliquid traders are holding record Bitcoin long positions, exceeding the bullish exposure seen during BTC's previous rally. Whale conviction remains strong despite recent volatility, ...
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Strategy bitcoin sales shine light on faltering crypto hoarding companies](https://www.reuters.com/legal/government/strategy-bitcoin-sales-shine-light-faltering-crypto-hoarding-companies-2026-07-13/)**
 
 Reuters • 2d ago
+
+---
+
+**[Strategy Leaves Bitcoin Holdings Unchanged](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-131900091.html)**
+
+Cryptocurrency treasury firm Strategy (NASDAQ: $MSTR) left its holdings of Bitcoin (CRYPTO: $BTC) unchanged over th...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO](https://www.coindesk.com/markets/2026/07/15/strategy-feels-very-secure-until-bitcoin-reaches-usd8-000-usd10-000-says-ceo)**
+
+Le highlighted increasing the U.S.-dollar reserve as an important lever in preferred stock STRC’s recovery back to around $90 having fallen below $75 last month.
+
+CoinDesk • 13m ago
 
 ---
 
@@ -247,7 +247,7 @@ Bull Bitcoin, a MiCA-licensed non-custodial exchange, has filed a landmark legal
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 12h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+⬆️ 2 • 💬 1 • 14h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
 
 ---
 
@@ -301,7 +301,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 541 • 💬 176 • ⏱️ 10:49 • 10h ago
+👁️ 8K • 👍 541 • 💬 176 • ⏱️ 10:49 • 11h ago
 
 ---
 
@@ -311,7 +311,7 @@ In this episode, I sit down with Joe Consorti to answer the question everyone ke
 
 📺 THE Bitcoin Podcast with Walker
 
-👁️ 7K • 👍 377 • 💬 87 • ⏱️ 1:12:44 • 19h ago
+👁️ 7K • 👍 377 • 💬 87 • ⏱️ 1:12:44 • 21h ago
 
 ---
 
@@ -321,7 +321,7 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 49 • ⏱️ 9:17 • 11h ago
+👁️ 31K • 👍 2K • 💬 49 • ⏱️ 9:17 • 12h ago
 
 ---
 
@@ -341,7 +341,7 @@ Join Gareth's Top Squad here on YouTube for premium videos, weekly discount code
 
 📺 Gareth Soloway
 
-👁️ 44K • 👍 3K • 💬 158 • ⏱️ 12:10 • 17h ago
+👁️ 44K • 👍 3K • 💬 158 • ⏱️ 12:10 • 19h ago
 
 ---
 
@@ -361,7 +361,7 @@ Three major catalysts just strengthened the long term case for Bitcoin, but most
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 116 • ⏱️ 16:56 • 12h ago
+👁️ 20K • 👍 2K • 💬 116 • ⏱️ 16:56 • 14h ago
 
 ---
 
@@ -371,7 +371,7 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 802 • 💬 113 • ⏱️ 42:00 • 20h ago
+👁️ 14K • 👍 802 • 💬 113 • ⏱️ 42:00 • 21h ago
 
 ---
 
@@ -381,7 +381,7 @@ Inflation came in cooler than expected, but what does that actually mean for Bit
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 2K • 💬 65 • ⏱️ 7:57 • 8h ago
+👁️ 26K • 👍 2K • 💬 65 • ⏱️ 7:57 • 10h ago
 
 ---
 

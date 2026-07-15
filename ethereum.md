@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T10:50:27.157638+00:00'
+updated: '2026-07-15T12:15:21.283813+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 10:50 UTC  
+**Last Updated:** July 15, 2026 at 12:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.4%  
-**7d:** +7.6%  
-**30d:** +4.8%  
-**90d:** -22.4%  
-**1y:** -44.3%  
+**24h:** +0.6%  
+**7d:** +7.9%  
+**30d:** +5.1%  
+**90d:** -22.2%  
+**1y:** -44.1%  
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, Devcon 8 speaker applications open
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-1/) • 4d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-1/) • 5d ago
 
 ---
 
@@ -120,7 +120,7 @@ When I arrived in a new nation, I had no local currency yet and had my card bann
 
 Hello everyone. What is the golden standard for account abstraction on Ethereum?
 
-5d ago
+6d ago
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 13h ago
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -170,7 +170,23 @@ CoinDesk • 20h ago
 
 EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
+
+---
+
+**[Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems](https://finance.yahoo.com/markets/crypto/articles/team-behind-ethereums-institutional-privacy-111245597.html)**
+
+The startup's backers, including Bitmine and Joe Lubin, are betting institutions need a privacy layer before running money on a public chain.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Current price of Ethereum for July 15, 2026](https://fortune.com/article/price-of-ethereum-07-15-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -178,7 +194,7 @@ Yahoo Finance • 20h ago
 
 Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -198,27 +214,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 15, 2026](https://fortune.com/article/price-of-ethereum-07-15-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20m ago
-
----
-
 **[Bitcoin, Ethereum and XRP Prices Rally Even as Fed Chair Warsh Says ‘No Crypto Bailout’](https://www.tradingview.com/news/coinpedia:e3e048caf094b:0-bitcoin-ethereum-and-xrp-prices-rally-even-as-fed-chair-warsh-says-no-crypto-bailout/)**
 
 Crypto prices are rising across the board today, even as the head of the Federal Reserve made clear he has no plans to step in and rescue the industry if things go wrong. Bitcoin sits near $64,600 today, rising more than 3%. Ethereum has climbed above $1,875 today, gaining more than 5% over the las…
 
-TradingView • 18h ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, July 14, 2026:](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html)**
-
-Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday's opening price. The price of bitcoin firmed this morning to $62,865.44. Ethereum opened at $1,774.10, down 1.8% from yesterday's open. The price of ethereum adjusted to $1,785.68 by 8:21 a.m. ET.
-
-Yahoo Finance • 22h ago
+TradingView • 20h ago
 
 ---
 
@@ -226,7 +226,7 @@ Yahoo Finance • 22h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
 
-FXStreet • 6h ago
+FXStreet • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 28K • 👍 1K • 💬 138 • ⏱️ 34:54 • 15h ago
+👁️ 28K • 👍 1K • 💬 138 • ⏱️ 34:54 • 16h ago
 
 ---
 
@@ -250,7 +250,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 87 • 💬 21 • ⏱️ 5:20 • 23h ago
+👁️ 2K • 👍 87 • 💬 21 • ⏱️ 5:20 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 115 • 💬 27 • ⏱️ 11:05 • 18h ago
+👁️ 3K • 👍 115 • 💬 27 • ⏱️ 11:05 • 19h ago
 
 ---
 
@@ -270,7 +270,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 500 • 💬 222 • ⏱️ 17:15 • 20h ago
+👁️ 8K • 👍 500 • 💬 222 • ⏱️ 17:15 • 21h ago
 
 ---
 
@@ -290,7 +290,7 @@ Ethereum is showing signs of a potential bullish breakout as inflation in the U.
 
 📺 FXEmpire
 
-👁️ 95 • 👍 1 • 💬 13 • ⏱️ 5:17 • 15h ago
+👁️ 95 • 👍 1 • 💬 13 • ⏱️ 5:17 • 16h ago
 
 ---
 
@@ -300,7 +300,7 @@ Join Gareth's Top Squad here on YouTube for premium videos, weekly discount code
 
 📺 Gareth Soloway
 
-👁️ 44K • 👍 3K • 💬 158 • ⏱️ 12:10 • 17h ago
+👁️ 44K • 👍 3K • 💬 158 • ⏱️ 12:10 • 19h ago
 
 ---
 
@@ -310,7 +310,7 @@ The crypto market has become quite dramatic over the last few weeks as it would 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 19K • 👍 2K • 💬 435 • ⏱️ 27:00 • 23h ago
+👁️ 19K • 👍 2K • 💬 435 • ⏱️ 27:00 • 1d ago
 
 ---
 
@@ -320,7 +320,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 226 • 💬 19 • ⏱️ 7:37 • 16h ago
+👁️ 4K • 👍 226 • 💬 19 • ⏱️ 7:37 • 17h ago
 
 ---
 
@@ -330,7 +330,7 @@ The US government moved nearly $300 million in seized Bitcoin and Ether to Coinb
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 348 • 💬 52 • ⏱️ 8:55 • 9h ago
+👁️ 12K • 👍 348 • 💬 52 • ⏱️ 8:55 • 11h ago
 
 ---
 
