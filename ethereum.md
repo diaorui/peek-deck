@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T12:15:21.283813+00:00'
+updated: '2026-07-15T14:20:04.119066+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 12:15 UTC  
+**Last Updated:** July 15, 2026 at 14:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,879.89
+### $1,926.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +7.9%  
-**30d:** +5.1%  
-**90d:** -22.2%  
-**1y:** -44.1%  
+**24h:** +2.9%  
+**7d:** +10.5%  
+**30d:** +7.7%  
+**90d:** -20.3%  
+**1y:** -42.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.50B
+**Market Cap:** $232.70B
 Rank #2
 
 **Circulating Supply:** 120,682,943 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.0%
 
 **All-Time Low:** $0.43
-+433470.7%
++445224.1%
 
 ---
 
@@ -150,19 +150,19 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing](https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing)**
-
-The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
-
-The Block • 15h ago
-
----
-
 **[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
+
+---
+
+**[Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing](https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing)**
+
+The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
+
+The Block • 17h ago
 
 ---
 
@@ -170,23 +170,37 @@ CoinDesk • 21h ago
 
 EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems](https://finance.yahoo.com/markets/crypto/articles/team-behind-ethereums-institutional-privacy-111245597.html)**
+**[Morgan Stanley 'Missed' The Perfect Ethereum ETF Ticker, Analyst Jokes, As Latest SEC Filing Signals Launch Nears](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-missed-perfect-ethereum-124154215.html)**
 
-The startup's backers, including Bitmine and Joe Lubin, are betting institutions need a privacy layer before running money on a public chain.
+The firm’s Ethereum ETF plans to stake 50%-80% of its ETH holdings, with staking rewards distributed to shareholders.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Current price of Ethereum for July 15, 2026](https://fortune.com/article/price-of-ethereum-07-15-2026/)**
+**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
 
-Fortune • 1h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Staking Generates 98% Of Bitmine’s Quarterly Revenue](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-generates-98-bitmine-133200928.html)**
+
+Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) says that Ethereum (CRYPTO: $ETH) staking generat...
+
+Yahoo Finance • 48m ago
+
+---
+
+**[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
+
+MarketWatch • 20m ago
 
 ---
 
@@ -194,7 +208,7 @@ Fortune • 1h ago
 
 Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -202,31 +216,13 @@ Yahoo Finance • 10h ago
 
 The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://news.google.com/rss/articles/CBMiowJBVV95cUxPamhNbjB1RnR1dW10eTZ0QmJrbjQyeF9aa2J1QjBYSDlpNWhNUlI4T3pVdnZTV1hJSTF3QTNyM1d2bmdzbFpWSGwzdU1YRnpCTlp3TkUyUndLOW1oTFZ5YXVsOEFmbklXc2tPbzl2UnV3QVlKVWtqUE1Mc3N3eGc5MDB4ZUhxeFRZUU5yTmsyUnBPYUVGd1g4TVZ1NFVmbG9OdU1NanRUemU0em1zSG56YkkxanI5T0NDYjA4OHJ0S3M3TUdUTkJJbzYxMkVWMkM3ajJ5WlJwLTV5Q01wUDdlMUJWc2NYNUVJR0VRZkZmUm1kM0F1N0hka1E2MHp3OGFCbGNwejNrZTdKU3MzOEhwOGlRTGVyZlFPdUhJSldtNVliMU0?oc=5)**
 
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
-
-PR Newswire • 1d ago
-
----
-
-**[Bitcoin, Ethereum and XRP Prices Rally Even as Fed Chair Warsh Says ‘No Crypto Bailout’](https://www.tradingview.com/news/coinpedia:e3e048caf094b:0-bitcoin-ethereum-and-xrp-prices-rally-even-as-fed-chair-warsh-says-no-crypto-bailout/)**
-
-Crypto prices are rising across the board today, even as the head of the Federal Reserve made clear he has no plans to step in and rescue the industry if things go wrong. Bitcoin sits near $64,600 today, rising more than 3%. Ethereum has climbed above $1,875 today, gaining more than 5% over the las…
-
-TradingView • 20h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show tentative recovery as key technical levels hold](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-tentative-recovery-as-key-technical-levels-hold-202607150403)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
-
-FXStreet • 8h ago
+PR Newswire • 2d ago
 
 ---
 
@@ -234,23 +230,23 @@ FXStreet • 8h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Vs Bitcoin Breakout Coming - Same Setup As 2021. Altcoin Rally Loading??](https://www.youtube.com/watch?v=S2eE8sDhp6k)**
+
+In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going To Be The Same?? Unlock Incredible ...
+
+📺 The House Of Crypto
+
+👁️ 2K • 👍 309 • 💬 32 • ⏱️ 12:28 • 2h ago
+
+---
+
 **[Ethereum Sentiment Skyrockets!🚀Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=fVXl1WwMOjo)**
 
 Ethereum has recently shown signs of attempting to break its downtrend against Bitcoin. Meanwhile, Robinhood's new blockchain ...
 
 📺 Paul Barron Network
 
-👁️ 28K • 👍 1K • 💬 138 • ⏱️ 34:54 • 16h ago
-
----
-
-**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 87 • 💬 21 • ⏱️ 5:20 • 1d ago
+👁️ 31K • 👍 1K • 💬 150 • ⏱️ 34:54 • 19h ago
 
 ---
 
@@ -260,7 +256,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 115 • 💬 27 • ⏱️ 11:05 • 19h ago
+👁️ 4K • 👍 125 • 💬 28 • ⏱️ 11:05 • 22h ago
+
+---
+
+**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 92 • 💬 24 • ⏱️ 5:20 • 1d ago
 
 ---
 
@@ -270,47 +276,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 500 • 💬 222 • ⏱️ 17:15 • 21h ago
+👁️ 8K • 👍 508 • 💬 222 • ⏱️ 17:15 • 23h ago
 
 ---
 
-**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=Vjt-B1iSxfM)**
 
-Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
 
-📺 Coin Bureau Trading
+📺 Julie
 
-👁️ 4K • 👍 292 • 💬 26 • ⏱️ 14:47 • 1d ago
-
----
-
-**[Ethereum Price Prediction: ETH On Track to Hit $2,400 as U.S. Inflation Cools Down](https://www.youtube.com/watch?v=DGVSmXbs8zU)**
-
-Ethereum is showing signs of a potential bullish breakout as inflation in the U.S. cooled down. A break above $1800 could set the ...
-
-📺 FXEmpire
-
-👁️ 95 • 👍 1 • 💬 13 • ⏱️ 5:17 • 16h ago
-
----
-
-**[Bitcoin Breakout: The Bears Will Get SQUEEZED Near-Term (BTC, ETH, SOL, HYPE, XRP)](https://www.youtube.com/watch?v=Xu2MSbIwf4U)**
-
-Join Gareth's Top Squad here on YouTube for premium videos, weekly discount codes, and real-time trade setups: ...
-
-📺 Gareth Soloway
-
-👁️ 44K • 👍 3K • 💬 158 • ⏱️ 12:10 • 19h ago
-
----
-
-**[Ripple CEO Considering Selling All XRP Because Of This Bitcoin &amp; Ethereum Hit Record Levels](https://www.youtube.com/watch?v=-TnUSzgAqQs)**
-
-The crypto market has become quite dramatic over the last few weeks as it would appear literally everyone is anticipating crypto ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 19K • 👍 2K • 💬 435 • ⏱️ 27:00 • 1d ago
+👁️ 2K • 👍 3K • 30m ago
 
 ---
 
@@ -320,7 +296,27 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 226 • 💬 19 • ⏱️ 7:37 • 17h ago
+👁️ 4K • 👍 237 • 💬 12 • ⏱️ 7:37 • 19h ago
+
+---
+
+**[ETH Could Pump To $2,000, But The Bottom Isn&#39;t In Yet](https://www.youtube.com/watch?v=IbdGbW490Ns)**
+
+Aaron Dishner of The Better Traders breaks down why Ethereum's setup in 2026 differs from the sharp 2025 rally that carried it ...
+
+📺 Coin Bureau Trading
+
+👁️ 5K • 👍 301 • 💬 26 • ⏱️ 14:47 • 1d ago
+
+---
+
+**[Crypto Markets Experts Weigh In On Bitcoin, XRP &amp; Ethereum  Generational Wealth Is About To Be Made](https://www.youtube.com/watch?v=n-yYI3DYBQo)**
+
+Big money energy has re-entered the crypto market, and it looks like things are about to get good. We've gotten a bunch of news ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 3K • 👍 619 • 💬 179 • ⏱️ 26:17 • 2h ago
 
 ---
 
@@ -330,7 +326,7 @@ The US government moved nearly $300 million in seized Bitcoin and Ether to Coinb
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 348 • 💬 52 • ⏱️ 8:55 • 11h ago
+👁️ 19K • 👍 296 • 💬 52 • ⏱️ 8:55 • 13h ago
 
 ---
 
