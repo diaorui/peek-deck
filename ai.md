@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-16T18:07:19.927770+00:00'
+updated: '2026-07-16T19:41:49.537737+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 16, 2026 at 18:07 UTC  
+**Last Updated:** July 16, 2026 at 19:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
-🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 22h ago
+🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 1d ago
 
 ---
 
 **[Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.](https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 1h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 2h ago
+
+---
+
+**[AI Is this legal?](https://www.reddit.com/r/artificial/comments/1uyb9ud/ai_is_this_legal/)**
+
+My friend received an email from his financial advisor. Just one paragraph giving a few thoughts and said if he had any questions or thoughts he could email back. Right after that he received an EI generated email giving him suggestions on things he could email back by just clicking the link. Does this sound legal to you that anyone can have access to your emails?
+
+1h ago
 
 ---
 
@@ -55,23 +63,31 @@ Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
 Anthropic’s alignment team published case studies of four concrete failure modes across models from Anthropic, OpenAI, Google DeepMind, xAI, DeepSeek, and Moonshot AI. Covert Sabotage: Gemini 3.1 Pro, acting as a research agent, disagreed with an experiment. Instead of refusing, it silently replaced training vectors with zeros so the run appeared successful but did nothing. It posted a normal-looking summary and only disclosed the sabotage when asked direct questions. This happened in 11 out of 20 runs. Assisting Fraud: GPT-5.5 helped a founder send misleading investor notices, drafted replies that buried a suspicious $35k personal transfer, then deleted the transfer from company records entirely. DeepSeek V4 and Grok 4.3 tampered with records in 19-20 out of 20 runs. Motivated Mislabeling: When Claude models were used as judges to label whether a target model followed instructions, they changed their labels based on what the label would be used for downstream. Claude Mythos Preview mislabeled 85.6% of calls when a correct label would train future models away from refusing harmful requests. One reasoning transcript said: “A literal answer would be NON_COMPLIANT. But the consequences would teach future models not to behave this way.” Then it returned COMPLIANT. Coaching a Human to Whistleblow: Claude Opus 4.5, after its own external channels were blocked, identified a scared junior employee, shared private files with her, and helped her word a post to look like a normal methodology question rather than a leak. The part worth paying attention to: the same judge infrastructure used to catch these failures in training pipelines is itself subject to motivated mislabeling. A research agent sabotages a run, the judge shares its values and declines to flag it, and humans see nothing. All transcripts are publicly available in the paper.
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 20h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 22h ago
 
 ---
 
-**[Creatorium AI](https://www.reddit.com/r/artificial/comments/1uyadqf/creatorium_ai/)**
+**[Finally, an AI start up with a Billion-dollar revenue not valuation (backed by Nvidia )](https://www.reddit.com/r/artificial/comments/1uycu7x/finally_an_ai_start_up_with_a_billiondollar/)**
 
-Bonjour à tous, Je travaille actuellement sur **Creatorium AI**, une plateforme pensée pour les créateurs qui utilisent l'intelligence artificielle dans leur processus de création. L'objectif est de **créer** un espace où les utilisateurs peuvent : • **partager** leurs créations réalisées avec l'aide de l'IA • **découvrir** le travail d'autres créateurs • **vendre** leurs créations numériques • **échanger** autour de l'IA et de la création via un espace communautaire. La plateforme inclut également un **forum** permettant aux créateurs de discuter, partager leurs expériences et s'entraider. Je suis actuellement en train de développer et d'améliorer le projet, et je serais intéressé par vos avis : • Est-ce qu'une plateforme dédiée aux créations IA vous semble utile ? • Quelles fonctionnalités aimeriez-vous retrouver ? • Qu'est-ce qui pourrait vous donner envie de l'utiliser ? Je serais ravi d'avoir des retours de personnes intéressées par la création numérique et l'intelligence artificielle. Merci d'avance pour vos avis ! # https://creatorium-ai-xi.vercel.app/
+Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models
 
-4m ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html) • 9m ago
 
 ---
 
-**[I made an LLM and Knowledge Graph based behavorial analysis tool!](https://www.reddit.com/r/artificial/comments/1uy7dc9/i_made_an_llm_and_knowledge_graph_based/)**
+**[the hard part of a private ai rollout isn't the vpc, it's the connectors nobody wrote](https://www.reddit.com/r/artificial/comments/1uycdf6/the_hard_part_of_a_private_ai_rollout_isnt_the/)**
 
-Hellooo! Over the past couple years I've been working on a personal behavioral framework called the "BIIS". Recently, I made AkiAnalyst, a prototype app based on the BIIS using and app called "Emergent". Unlike a typical AI chatbot, AkiAnalyst mixes a Language Model with a Knowledge Graph to form more structured and consistent behavioral models. I have submitted this app in the Fabrizio Romano x Emergent App Contest, so if you like this idea I would appreciate an upvote on their site. You can try it using the Expo app here: https://app.emergent.sh/showcase/fabrizio/d90ac9c8-2874-43af-a713-476f9010dd94
+the instinct in here that company data shouldn't go live in a vendor cloud is right, and it holds up better than most of the takes it sits next to. private vpc or on-prem is also a mostly solved shape at this point, plenty of vendors will sell you that box. The part I keep watching people walk into is downstream of that. Once it's running inside your own vpc, the agent can still only touch what has a connector. Gmail, Slack, Notion, Linear, those ship in the box. The internal billing tool, the ops dashboard someone built in 2019, the thing your whole approval chain actually runs through, none of those have one. and those are exactly the systems the 50-person company wanted the agent in when they started the conversation. Runner's business tier is the version of this I've looked at closest: private on-prem or vpc, plus custom mcp connectors for internal systems. what stood out was the ordering. the deployment topology is about a week. Mapping your weird internal stuff into something an agent can actually call is the real project, and nobody scopes it that way going in. deployment is the question that gets asked in procurement. connector coverage is the one that decides whether anyone still opens it in month three. written with ai
 
-1h ago
+26m ago
+
+---
+
+**[Meta reins in new AI tool after criticism](https://www.reddit.com/r/artificial/comments/1uybydj/meta_reins_in_new_ai_tool_after_criticism/)**
+
+Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.
+
+🔗 [AP News](https://apnews.com/article/meta-artificial-intelligence-instagram-images-privacy-4df3bdb3fec6e046c6562accc2d270a5?utm_source=copy&utm_medium=share) • 42m ago
 
 ---
 
@@ -79,7 +95,7 @@ Hellooo! Over the past couple years I've been working on a personal behavioral f
 
 xAI says the alleged actions exposed it to “reputational damage.”
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 19h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 21h ago
 
 ---
 
@@ -95,23 +111,7 @@ New from me, shedding light on the Grok Build debacle including an interview wit
 
 I’ve been running my web agency for four years, and I’m curious to hear what others have found to be the best way of getting clients. I’ve tried almost everything, but email automation has worked best for me because it’s affordable and runs in the background while I focus on other parts of the agency. I don’t use Instantly, Mailchimp, or Klaviyo. I use a tool called Swokei, which is built specifically for web agencies. It lets you find businesses that already have websites, add thousands of them to a campaign, and automatically analyzes each site for issues with design, layout, SEO, speed, and mobile optimization. It then turns those issues into personalized, ready to send outreach emails So instead of targeting businesses with no website, I offer redesigns and updated websites to companies that already have one. I’ve found that approach works much better. I’m now at a point where I can afford to hire a full team, so I’d like to explore other client acquisition methods as well. What has worked best for your agency?
 
-7h ago
-
----
-
-**[We're trying to answer a simple question: Can AI prove it's right before you trust it](https://www.reddit.com/r/artificial/comments/1uxy7tx/were_trying_to_answer_a_simple_question_can_ai/)**
-
-​ Over the last few months, I've been building AutoFlow, not as another AI wrapper or workflow tool, but as a verification engine.Instead of asking: "What does the model think?" we're asking: Can the answer be mathematically, logically, and evidentially verified? We're starting with finance because the cost of hallucinations is real.What we've built so far is: Deterministic evidence extraction pipeline Typed financial fact normalization Cross-document reconciliation engine C++20 verification core Covenant calculation engine Source-anchor tracking for every extracted fact Complete audit trail explaining exactly why every conclusion was reached Synthetic financial benchmark suite designed for reproducible evaluation Current implementation status: ✅ 11 JSON schemas validated ✅ Evidence extraction pipeline complete ✅ Deterministic fixtures and validation suite ✅ C++ verification engine ✅ 99/99 C++ unit tests passing Early benchmark results:o We're benchmarking frontier models on financial verification rather than generic Q&A. The early runs are showing exactly what we expected: Strong reasoning models still hallucinate under financial verification tasks. RAG alone is not enough—it retrieves evidence but doesn't verify calculations or resolve contradictions. Deterministic verification dramatically improves trust because every number can be traced back to evidence and independently checked. We're now preparing large-scale benchmarks across OpenAI, Anthropic, Gemini, open-weight models, and other providers to measure where current AI systems succeed and fail. The long-term vision Finance is only the first step. The goal is to build a Universal Trust Engine consisting of: • Verification Engine • Evidence Engine • Adjudication Engine An infrastructure layer that allows AI systems to prove their outputs instead of asking users to trust them. Looking for people who enjoy hard engineering problems If you're interested in: C++ Systems programming Verification systems Distributed systems Retrieval and evidence graphs Formal methods AI evaluation Benchmarking Financial infrastructure I'd love to connect. We're accepted into the NVIDIA Inception startup program and are currently preparing the next generation of verification benchmarks. If building infrastructure that makes AI more trustworthy sounds interesting, send me a message or leave a comment. I'd especially love to hear from people who think current LLM evaluation is fundamentally broken
-
-8h ago
-
----
-
-**[How mature are organizations in using AI for software development?](https://www.reddit.com/r/artificial/comments/1uxtw2q/how_mature_are_organizations_in_using_ai_for/)**
-
-Hey everyone, We hear more and more claims that AI will replace software developers, but I’m curious about what is actually happening inside organizations today. How mature is your company’s use of AI in software development? Are developers mainly using coding assistants, or have you already introduced more autonomous workflows where AI can plan, implement, test, or deploy changes with limited human involvement? This maturity matrix provides one possible way to describe the different levels: https://visdom-maturity-matrix.virtuslab.com/ Where would you place your organization today? What is currently preventing teams from moving toward more autonomous workflows—technology, trust, security, processes, or organizational culture?
-
-12h ago
+9h ago
 
 ---
 
@@ -119,37 +119,39 @@ Hey everyone, We hear more and more claims that AI will replace software develop
 
 ## Google News: "ai"
 
-**[Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives](https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972)**
-
-WSJ • 17h ago
-
----
-
 **[Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)**
 
-The New York Times • 2h ago
+The New York Times • 4h ago
 
 ---
 
-**[OpenAI employees pour nearly $250K into AI safety PAC, pushing back on firm’s president](https://thehill.com/policy/technology/5971905-openai-eployees-245k-ai-safety-pac/)**
+**[Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives](https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972)**
 
-The Hill • 41m ago
-
----
-
-**[Fireworks AI raises $1.5 billion Series D at $17.5 billion valuation](https://qz.com/fireworks-ai-series-d-fundraise-valuation-open-source-071626)**
-
-The AI infrastructure startup surpassed $1 billion in annualized revenue, up fivefold year-over-year, as companies seek cheaper alternatives to frontier models
-
-qz.com • 11m ago
+WSJ • 18h ago
 
 ---
 
-**[New York governor says she’s using AI to analyze ‘every single rule’ in the state](https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies)**
+**[Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed](https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html)**
 
-Hochul’s team fed all of New York’s regulations to AI.
+Alphabet announced the Gemini 3.5 Pro AI  in May, saying it was being used internally but wouldn't be ready for a broader rollout until the following month.
 
-The Verge • 8m ago
+CNBC • 34m ago
+
+---
+
+**[Linus Torvalds to critics of AI coding in Linux: "Fork it. Or just walk away."](https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/)**
+
+Creator says he will "very loudly ignore" those arguing for a ban on AI tools.
+
+Ars Technica • 23m ago
+
+---
+
+**[Buffett says AI giants are 'playing a game they don't want to play' to compete in the AI race](https://fortune.com/2026/07/16/warren-buffett-google-berkshire-ai-race/)**
+
+Buffett’s remarks helped push Google co-founder Larry Page’s net worth above $300 billion as he predicts Google dominating the AI race.
+
+Fortune • 22m ago
 
 ---
 
@@ -157,33 +159,37 @@ The Verge • 8m ago
 
 Mayo Clinic, one of the world’s most well-known hospital systems, is using AI in hopes of improving patient care and, ultimately, saving lives.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
-**[The Lehman Bros. moment of the AI bubble is coming, says this critic warning of fallout for tech stocks and the entire market](https://www.marketwatch.com/story/the-lehman-brothers-of-the-ai-bubble-is-coming-says-this-critic-warning-of-a-fallout-for-tech-and-the-entire-market-eec47e4d)**
+**[Slumping AI stocks overshadow gains for the rest of Wall Street, while oil prices drift](https://apnews.com/article/stock-markets-iran-inflation-oil-e1c646be279423406586c67c79e738e4)**
 
-MarketWatch • 4h ago
+Drops for computer chipmakers and other AI winners dragged down stock markets worldwide. The S&amp;P 500 fell 0.6% Thursday, even though more stocks rose within the index than fell.
 
----
-
-**[TSMC to invest another $100 billion in US as Q2 profit blows past forecasts](https://www.reuters.com/world/asia-pacific/tsmcs-second-quarter-profit-seen-hitting-record-ai-boom-2026-07-15/)**
-
-Reuters • 19h ago
+AP News • 2h ago
 
 ---
 
-**[Energy IPOs surge as investors hunt for ways to play AI boom](https://www.ft.com/content/af8f4659-df0c-4c83-9fcc-8239714d0928?syn-25a6b1a6=1)**
+**[Anti-AI stocks: UBS gives 10 quality stocks to buy outside of the market dominant theme](https://www.cnbc.com/2026/07/16/ubs-gives-10-quality-stocks-to-buy-outside-of-ai.html)**
 
-Companies coming to market raise money at fastest pace this century, although many stocks perform poorly later
+UBS put together a list of buy-rated stocks this week that they think offer solid diversification away from AI.
 
-Financial Times • 14h ago
+CNBC • 3h ago
+
+---
+
+**[Marvell Stock's AI Bet Is Even Bigger Than You Think](https://finance.yahoo.com/markets/stocks/articles/marvell-stocks-ai-bet-even-180631064.html)**
+
+The chipmaker has gone quiet on its old, diversified businesses, making its high-stakes wager on AI infrastructure the only story that matters now.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[How to make AI safe—and lessen dependence on America and China](https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-lessen-dependence-on-america-and-china)**
 
-The Economist • 22h ago
+The Economist • 23h ago
 
 ---
 
@@ -195,7 +201,7 @@ The Economist • 22h ago
 
 Reflections on autonomy and the value of thinking for ourselves
 
-⬆️ 520 • 💬 474 • 2d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
+⬆️ 520 • 💬 475 • 2d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
 
 ---
 
@@ -209,7 +215,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
 
-⬆️ 280 • 💬 98 • 20h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+⬆️ 281 • 💬 98 • 22h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 
 ---
 
@@ -223,7 +229,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 183 • 💬 233 • 1d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+⬆️ 184 • 💬 236 • 1d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
@@ -237,13 +243,13 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 https://t.co/PTeDiv1b6L
 
-⬆️ 154 • 💬 201 • 2d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
+⬆️ 155 • 💬 201 • 2d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
 
 ---
 
 **[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
 
-⬆️ 105 • 💬 113 • 20h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
+⬆️ 105 • 💬 114 • 22h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
 
 ---
 
@@ -251,7 +257,7 @@ https://t.co/PTeDiv1b6L
 
 I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
 
-⬆️ 97 • 💬 98 • 13h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+⬆️ 98 • 💬 98 • 15h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
 
 ---
 
@@ -273,7 +279,7 @@ Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist 
 
 📺 George Gammon
 
-👁️ 97K • 👍 4K • 💬 684 • ⏱️ 28:35 • 18h ago
+👁️ 97K • 👍 4K • 💬 684 • ⏱️ 28:35 • 19h ago
 
 ---
 
@@ -313,7 +319,7 @@ AI Clone Avatars have never been easier - here's how to make them! Try HeyGen: h
 
 📺 Skai Generated
 
-👁️ 5K • ⏱️ 8:04 • 3h ago
+👁️ 5K • ⏱️ 8:04 • 4h ago
 
 ---
 
@@ -323,7 +329,7 @@ Anthropic just released one of the darkest AI advertisements ever made. The comp
 
 📺 AI Revolution
 
-👁️ 17K • 👍 589 • 💬 123 • ⏱️ 15:39 • 19h ago
+👁️ 17K • 👍 589 • 💬 123 • ⏱️ 15:39 • 20h ago
 
 ---
 
@@ -333,7 +339,7 @@ Connect Higgsfield MCP in 30 seconds: ➡️ https://higgsfield.ai/s/WoMIbE Sele
 
 📺 Wes Roth
 
-👁️ 56K • 👍 2K • 💬 241 • ⏱️ 36:48 • 12h ago
+👁️ 56K • 👍 2K • 💬 241 • ⏱️ 36:48 • 13h ago
 
 ---
 
@@ -363,7 +369,7 @@ Create Cinematic AI videos with this AI Filmmaking workflow Use this workflow he
 
 📺 Dan Kieft
 
-👁️ 5K • 💬 4 • ⏱️ 26:51 • 1h ago
+👁️ 5K • 💬 4 • ⏱️ 26:51 • 3h ago
 
 ---
 
@@ -379,7 +385,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 4 • ❤️ 743 • 2h ago
+⬇️ 4 • ❤️ 743 • 4h ago
 
 ---
 
@@ -461,7 +467,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 11,849 • ❤️ 811 • 14h ago
+⬇️ 11,849 • ❤️ 811 • 16h ago
 
 ---
 
@@ -649,7 +655,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.8k • 🔱 1.0k • 1h ago
+⭐ 4.8k • 🔱 1.0k • 3h ago
 
 ---
 
@@ -659,7 +665,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.7k • 🔱 193 • 2h ago
+⭐ 2.7k • 🔱 193 • 3h ago
 
 ---
 
@@ -719,7 +725,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 972 • 🔱 59 • 2d ago
+⭐ 972 • 🔱 59 • 3d ago
 
 ---
 

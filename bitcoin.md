@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-16T18:07:19.936385+00:00'
+updated: '2026-07-16T19:41:49.546487+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 18:07 UTC  
+**Last Updated:** July 16, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -0.1%  
-**30d:** -0.6%  
-**90d:** -15.4%  
-**1y:** -46.2%  
+**24h:** -1.1%  
+**7d:** +0.1%  
+**30d:** -0.4%  
+**90d:** -15.2%  
+**1y:** -46.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[This guy was mining 1 Bitcoin every day in 2011. He built an $800 gaming PC, downloaded the mining software, ran it 24/7, and was earning Bitcoin like it was nothing. A true legend from the early days of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxij3x/this_guy_was_mining_1_bitcoin_every_day_in_2011/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -119,7 +119,7 @@ Lemme hear your favorite bitcoin songs!
 
 Man bitcoin has done absolutely nothing today. Just sitting there chopping between the same levels for hours. Small wicks up and down, volume looks dead, no real direction at all. But I swear I can feel it. That same vibe right before it decides to go crazy. Like its just waiting for everyone to get bored and look away then boom. This shit happens every single time. Quiet period then out of nowhere a mad move. Anyone else staring at the chart right now feeling the exact same thing? Or is it just me?
 
-21h ago
+23h ago
 
 ---
 
@@ -133,7 +133,7 @@ Man bitcoin has done absolutely nothing today. Just sitting there chopping betwe
 
 For context for anyone who is unaware, in 1933 US Government declared all US citizens must sell their Gold to the US government for $20.67 and oz. Forcing their citizens to trade a hard asset for fiat. The next year they turned around and repriced that same gold at $35 an ounce. Is this something you see as a threat to BTC in the future in the United States? Any plans to circumnavigate or protect yourself besides maybe a foreign citizenship?
 
-23h ago
+1d ago
 
 ---
 
@@ -161,7 +161,7 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 The coins went to a fresh address rather than an exchange, so nothing has been sold yet.
 
-CoinDesk • 11h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -169,15 +169,13 @@ CoinDesk • 11h ago
 
 Strategy would begin considering risks associated with its debt only if bitcoin falls to around $8,000-$10,000, CEO Phong Le said.
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
-**[XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis](https://finance.yahoo.com/markets/crypto/articles/xrp-cant-keep-bitcoin-takes-165654756.html)**
+**[The Investors Riding Along With Strategy’s Bitcoin Rollercoaster](https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d)**
 
-The post-CPI rally gave XRP a nudge. The coin barely moved. Now the chart is filling in the picture.
-
-Yahoo Finance • 1h ago
+WSJ • 50m ago
 
 ---
 
@@ -185,29 +183,29 @@ Yahoo Finance • 1h ago
 
 A Bitcoin wallet that has sat completely still for eight years just moved nearly $383 million worth of BTC in a single transaction, and the crypto market is paying close attention to what comes next. Blockchain intelligence firm Lookonchain flagged the transaction on X on Thursday, revealing that a ...
 
-Yahoo Finance Australia • 20m ago
+Yahoo Finance Australia • 1h ago
+
+---
+
+**[Prediction: Bitcoin Will Double in Value by the End of 2027 -- Here's How](https://www.fool.com/investing/2026/07/16/prediction-bitcoin-will-double-by-the-end-of-2027/)**
+
+If history is any guide, Bitcoin can easily regain the $125,000 price level next year.
+
+The Motley Fool • 4h ago
 
 ---
 
 **[Bitcoin Miners Cash In as AI Hits a Power Bottleneck](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/webinar-bitcoin-miners-cash-in-on-ai-power-bottleneck/)**
 
-ETF Database • 22h ago
+ETF Database • 1d ago
 
 ---
 
-**[Bitcoin at a turning point, could be 'substantially higher' by year end, says Bitwise CIO](https://www.cnbc.com/video/2026/07/15/bitcoin-at-a-turning-point-could-be-substantially-higher-by-year-end-says-bitwise-cio.html)**
+**[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
 
-Matt Hougan, Bitwise CIO, joins 'Closing Bell Overtime' to talk tokenization, the recent moves in bitcoin, and more.
+Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
 
-CNBC • 20h ago
-
----
-
-**[Bitcoin Clawed Its Way Back Over $65,000. Here’s Why—and What to Know Now](https://www.investopedia.com/bitcoin-clawed-its-way-back-over-usd65-000-here-s-why-and-what-to-know-now-12019866)**
-
-The price of the world’s largest cryptocurrency traded above the $65,000 level for the first time in weeks.
-
-Investopedia • 22h ago
+Alaska's News Source • 2d ago
 
 ---
 
@@ -219,19 +217,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Clawed Its Way Back Over $65,000. Here’s Why—and What to Know Now](https://www.investopedia.com/bitcoin-clawed-its-way-back-over-usd65-000-here-s-why-and-what-to-know-now-12019866)**
+
+The price of the world’s largest cryptocurrency traded above the $65,000 level for the first time in weeks.
+
+Investopedia • 23h ago
+
+---
+
 **[Bitcoin rally cools as investors digest inflation data, oil clouds outlook](https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook)**
 
 The day ahead in crypto: July 15, 2026
 
 CoinDesk • 1d ago
-
----
-
-**[BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction](https://www.forbes.com/sites/billybambrough/2026/07/16/blackrock-ceo-issues-surprise-12-month-bitcoin-and-crypto-price-prediction/)**
-
-Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
-
-Forbes • 5h ago
 
 ---
 
@@ -271,9 +269,17 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 ---
 
+**[Show HN: Puffgres logically replicates Postgres entities in turbopuffer](https://news.ycombinator.com/item?id=48938937)**
+
+Keep Postgres entities synced with turbopuffer using logical replication (beta) - a24films/puffgres
+
+⬆️ 1 • 💬 0 • 27m ago • [GitHub](https://github.com/a24films/puffgres)
+
+---
+
 **[Show HN: I built a zero-regex AI WAF (200MB VRAM). Please try to bypass it](https://news.ycombinator.com/item?id=48927265)**
 
-⬆️ 1 • 💬 0 • 20h ago
+⬆️ 1 • 💬 0 • 22h ago
 
 ---
 
@@ -297,7 +303,7 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 510 • 💬 175 • ⏱️ 46:01 • 3h ago
+👁️ 7K • 👍 510 • 💬 175 • ⏱️ 46:01 • 5h ago
 
 ---
 
@@ -317,7 +323,7 @@ Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to e
 
 📺 Crypto Zombie
 
-👁️ 2K • 👍 347 • 💬 67 • ⏱️ 12:20 • 1h ago
+👁️ 2K • 👍 347 • 💬 67 • ⏱️ 12:20 • 2h ago
 
 ---
 
@@ -327,7 +333,7 @@ I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on 
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 100 • ⏱️ 10:38 • 18h ago
+👁️ 33K • 👍 2K • 💬 100 • ⏱️ 10:38 • 20h ago
 
 ---
 
@@ -337,7 +343,7 @@ WEEX EVENT: https://www.weex.com/events/trade-to-win/samprice-vip?vipCode=8six?c
 
 📺 Crypto Lifer
 
-👁️ 4K • 👍 400 • ⏱️ 2:00:10 • 1h ago
+👁️ 4K • 👍 400 • ⏱️ 2:00:10 • 2h ago
 
 ---
 
@@ -347,7 +353,7 @@ WEEX EVENT: https://www.weex.com/events/trade-to-win/samprice-vip?vipCode=8six?c
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 141 • 💬 3 • ⏱️ 30:31 • 7h ago
+👁️ 3K • 👍 141 • 💬 3 • ⏱️ 30:31 • 9h ago
 
 ---
 
@@ -367,7 +373,7 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 3K • 💬 361 • ⏱️ 15:15 • 6h ago
+👁️ 45K • 👍 3K • 💬 361 • ⏱️ 15:15 • 7h ago
 
 ---
 
@@ -377,7 +383,7 @@ In today's video, Kyledoops outlines whether this next Bitcoin dip is the one to
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 21 • ⏱️ 42:52 • 10h ago
+👁️ 12K • 👍 1K • 💬 21 • ⏱️ 42:52 • 11h ago
 
 ---
 
