@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T11:17:39.342946+00:00'
+updated: '2026-07-16T12:59:53.477874+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 11:17 UTC  
+**Last Updated:** July 16, 2026 at 12:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,878.67
+### $1,876.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** +5.0%  
-**30d:** +7.8%  
-**90d:** -19.7%  
-**1y:** -45.6%  
+**24h:** -2.6%  
+**7d:** +4.3%  
+**30d:** +7.1%  
+**90d:** -20.3%  
+**1y:** -46.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.40B
+**Market Cap:** $225.97B
 Rank #2
 
 **Circulating Supply:** 120,682,913 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.1%
 
 **All-Time Low:** $0.43
-+435156.7%
++432285.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello, A little while ago I posted about a project concept I had. The idea was a web-app and a mobile app where you add the wallet address you want to watch. Cointer checks the blockchain for you. When a watched address gets a deposit, you get a notification and a dashboard of activity/totals. No accounts, no passwords. Just a single personal key that ties everything together. This is aimed at people who receive donations via crypto, streamers, or people who want to watch their wallets. Of course, most wallets already have this feature, but this takes it to the next step. It allows you to be notified over mobile push notifications, ntfy, Discord, Slack, or just by email. Then, it compiles (up to 90 days) all transactions into a clean dashboard showing your totals for the last day, week, and month with a breakdown by watched addresses and assets. There is an activity page with a full history of deposits and pagination. I've developed quite a few OSS projects and gotten sponsors from many hosting companies which is what allowed me to set this up for a beta. However, for this beta the amount of users I can support is quite small. There is no real catch here. Know that there is a 10 wallet and 10 notification channel limit and notifications are not always guaranteed. More info in the comments. Thank you for reading, Luke
 
-22h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello, A little while ago I posted about a project concept I had. The idea was a
 
 Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
 
-14h ago
+16h ago
 
 ---
 
@@ -154,7 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
+
+---
+
+**[Ethereum Staking Generates 98% Of Bitmine’s Quarterly Revenue](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-generates-98-bitmine-133200928.html)**
+
+Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) says that Ethereum (CRYPTO: $ETH) staking generat...
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -166,19 +174,19 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
+**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
 
-Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
+The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
 
-Yahoo Finance • 22h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Current price of Ethereum for July 16, 2026](https://fortune.com/article/price-of-ethereum-07-16-2026/)**
+**[Bitcoin and ethereum prices today, Thursday, July 16, 2026: Prices rise, ethereum becomes 'increasingly compelling'](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-16-2026-prices-rise-ethereum-becomes-increasingly-compelling-124218108.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin opened at $64,720.36 on Thursday, July 16, 2026, down 0.4% from Wednesday's opening price. Ethereum opened at $1,917.05, up 1.5% from yesterday's opening price.
 
-Fortune • 1h ago
+Yahoo Finance • 17m ago
 
 ---
 
@@ -186,27 +194,27 @@ Fortune • 1h ago
 
 The chain's updated technical roadmap will see it add major new features.
 
-The Motley Fool • 11h ago
+The Motley Fool • 13h ago
+
+---
+
+**[Current price of Ethereum for July 16, 2026](https://fortune.com/article/price-of-ethereum-07-16-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
 
 ---
 
 **[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
 
-MarketWatch • 21h ago
-
----
-
-**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
-
-BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
-
-CryptoSlate • 19h ago
+MarketWatch • 22h ago
 
 ---
 
 **[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
 
-thestreet.com • 17h ago
+thestreet.com • 19h ago
 
 ---
 
@@ -214,15 +222,7 @@ thestreet.com • 17h ago
 
 Ethereum faces a key test as staking demand challenges historical RSI signals and short-term momentum.
 
-AMBCrypto • 2h ago
-
----
-
-**[U.S Government Deposits $288M in Bitcoin and Ethereum to Coinbase Prime](https://www.tradingview.com/news/coinpedia:c0a8eeab0094b:0-u-s-government-deposits-288m-in-bitcoin-and-ethereum-to-coinbase-prime/)**
-
-Just as the crypto market is trying to recover, the U.S. government moved $288 million in Bitcoin and Ethereum to Coinbase Prime. The transfer has sparked a fear that the government could be preparing to sell its crypto holdings. If so, then this move could put pressure on Bitcoin and push prices l…
-
-TradingView • 1d ago
+AMBCrypto • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 331 • 💬 202 • ⏱️ 14:25 • 11h ago
+👁️ 5K • 👍 386 • 💬 255 • ⏱️ 14:25 • 12h ago
 
 ---
 
@@ -246,27 +246,7 @@ Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry s
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 392 • 💬 28 • ⏱️ 51:54 • 8h ago
-
----
-
-**[Ethereum Vs Bitcoin Breakout Coming - Same Setup As 2021. Altcoin Rally Loading??](https://www.youtube.com/watch?v=S2eE8sDhp6k)**
-
-In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going To Be The Same?? Unlock Incredible ...
-
-📺 The House Of Crypto
-
-👁️ 12K • 👍 770 • 💬 63 • ⏱️ 12:28 • 23h ago
-
----
-
-**[Ethereum Sentiment Skyrockets!🚀Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=fVXl1WwMOjo)**
-
-Ethereum has recently shown signs of attempting to break its downtrend against Bitcoin. Meanwhile, Robinhood's new blockchain ...
-
-📺 Paul Barron Network
-
-👁️ 38K • 👍 2K • 💬 167 • ⏱️ 34:54 • 1d ago
+👁️ 6K • 👍 482 • 💬 35 • ⏱️ 51:54 • 9h ago
 
 ---
 
@@ -276,7 +256,35 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 218 • 💬 18 • ⏱️ 18:30 • 18h ago
+👁️ 5K • 👍 232 • 💬 20 • ⏱️ 18:30 • 19h ago
+
+---
+
+**[Ethereum Vs Bitcoin Breakout Coming - Same Setup As 2021. Altcoin Rally Loading??](https://www.youtube.com/watch?v=S2eE8sDhp6k)**
+
+In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going To Be The Same?? Unlock Incredible ...
+
+📺 The House Of Crypto
+
+👁️ 12K • 👍 792 • 💬 66 • ⏱️ 12:28 • 1d ago
+
+---
+
+**[Ethereum Sentiment Skyrockets!🚀Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=fVXl1WwMOjo)**
+
+Ethereum has recently shown signs of attempting to break its downtrend against Bitcoin. Meanwhile, Robinhood's new blockchain ...
+
+📺 Paul Barron Network
+
+👁️ 39K • 👍 2K • 💬 167 • ⏱️ 34:54 • 1d ago
+
+---
+
+**[$10,000 ETHEREUM ROBINHOOD TO START ALTCOIN SEASON? #ethereum #xrp #robinhood #stocks](https://www.youtube.com/watch?v=rv8ctIgFlHI)**
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 430 • 💬 50 • ⏱️ 2:00 • 11h ago
 
 ---
 
@@ -286,7 +294,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 1K • 👍 76 • 💬 8 • ⏱️ 48:04 • 10h ago
+👁️ 2K • 👍 88 • 💬 12 • ⏱️ 48:04 • 12h ago
 
 ---
 
@@ -300,21 +308,13 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 ---
 
-**[$10,000 ETHEREUM ROBINHOOD TO START ALTCOIN SEASON? #ethereum #xrp #robinhood #stocks](https://www.youtube.com/watch?v=rv8ctIgFlHI)**
+**[EARTH SHATTERING Cardano ADA News This Is CRAZY Bitcoin And Ethereum Are About To Shake](https://www.youtube.com/watch?v=W5j-sDZVqds)**
 
-📺 CryptoWendyO
+I mean, crypto is a pretty crazy place... but this one honestly takes the entire cake and then some. Cardano has been in the news ...
 
-👁️ 4K • 👍 358 • 💬 14 • ⏱️ 2:00 • 10h ago
+📺 The Modern Investor
 
----
-
-**[IT STARTED: Fed Chair Sends Bold Message to Crypto &amp; AI Investors](https://www.youtube.com/watch?v=r0K5dqG74As)**
-
-Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 46K • 👍 2K • 💬 101 • ⏱️ 9:17 • 1d ago
+👁️ 2K • 👍 291 • 💬 188 • ⏱️ 33:44 • 3h ago
 
 ---
 
@@ -324,7 +324,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 101 • 💬 22 • ⏱️ 5:20 • 1d ago
+👁️ 3K • 👍 104 • 💬 22 • ⏱️ 5:20 • 2d ago
 
 ---
 

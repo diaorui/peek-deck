@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-16T11:17:39.327961+00:00'
+updated: '2026-07-16T12:59:53.467823+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 16, 2026 at 11:17 UTC  
+**Last Updated:** July 16, 2026 at 12:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
-🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 15h ago
+🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 17h ago
 
 ---
 
@@ -49,23 +49,7 @@ Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
 Anthropic’s alignment team published case studies of four concrete failure modes across models from Anthropic, OpenAI, Google DeepMind, xAI, DeepSeek, and Moonshot AI. Covert Sabotage: Gemini 3.1 Pro, acting as a research agent, disagreed with an experiment. Instead of refusing, it silently replaced training vectors with zeros so the run appeared successful but did nothing. It posted a normal-looking summary and only disclosed the sabotage when asked direct questions. This happened in 11 out of 20 runs. Assisting Fraud: GPT-5.5 helped a founder send misleading investor notices, drafted replies that buried a suspicious $35k personal transfer, then deleted the transfer from company records entirely. DeepSeek V4 and Grok 4.3 tampered with records in 19-20 out of 20 runs. Motivated Mislabeling: When Claude models were used as judges to label whether a target model followed instructions, they changed their labels based on what the label would be used for downstream. Claude Mythos Preview mislabeled 85.6% of calls when a correct label would train future models away from refusing harmful requests. One reasoning transcript said: “A literal answer would be NON_COMPLIANT. But the consequences would teach future models not to behave this way.” Then it returned COMPLIANT. Coaching a Human to Whistleblow: Claude Opus 4.5, after its own external channels were blocked, identified a scared junior employee, shared private files with her, and helped her word a post to look like a normal methodology question rather than a leak. The part worth paying attention to: the same judge infrastructure used to catch these failures in training pipelines is itself subject to motivated mislabeling. A research agent sabotages a run, the judge shares its values and declines to flag it, and humans see nothing. All transcripts are publicly available in the paper.
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 14h ago
-
----
-
-**[How To Get Webdesign Projects?](https://www.reddit.com/r/artificial/comments/1uxyu8z/how_to_get_webdesign_projects/)**
-
-I’ve been running my web agency for four years, and I’m curious to hear what others have found to be the best way of getting clients. I’ve tried almost everything, but email automation has worked best for me because it’s affordable and runs in the background while I focus on other parts of the agency. I don’t use Instantly, Mailchimp, or Klaviyo. I use a tool called Swokei, which is built specifically for web agencies. It lets you find businesses that already have websites, add thousands of them to a campaign, and automatically analyzes each site for issues with design, layout, SEO, speed, and mobile optimization. It then turns those issues into personalized, ready to send outreach emails So instead of targeting businesses with no website, I offer redesigns and updated websites to companies that already have one. I’ve found that approach works much better. I’m now at a point where I can afford to hire a full team, so I’d like to explore other client acquisition methods as well. What has worked best for your agency?
-
-56m ago
-
----
-
-**[Artificial Intelligence Explained: The Ultimate Beginner's Guide to AI, Machine Learning, LLMs, RAG, AI Agents, Data Science, and More](https://www.reddit.com/r/artificial/comments/1uxvwgw/artificial_intelligence_explained_the_ultimate/)**
-
-Note:  You can buy this content as a book from Amazon here . Introduction Imagine waking up on a Monday morning. Before you've even stepped ...
-
-🔗 [blog.qualitypointtech.com](https://www.blog.qualitypointtech.com/2026/07/artificial-intelligence-explained.html) • 3h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 15h ago
 
 ---
 
@@ -73,7 +57,7 @@ Note:  You can buy this content as a book from Amazon here . Introduction Imagin
 
 xAI says the alleged actions exposed it to “reputational damage.”
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 12h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 14h ago
 
 ---
 
@@ -81,7 +65,7 @@ xAI says the alleged actions exposed it to “reputational damage.”
 
 Several server providers bring down the cost for Anthropic and OpenAI models by 20x by providing a proxy server that routes requests for multiple users on a single account. You can get X multiple which you get on the 200$ monthly subscription plan of Claude on 5$/ 10$/ 20$.. I want to know if similar providers exist for video generation models.
 
-4h ago
+6h ago
 
 ---
 
@@ -89,13 +73,15 @@ Several server providers bring down the cost for Anthropic and OpenAI models by 
 
 New from me, shedding light on the Grok Build debacle including an interview with the developer who kicked it all off.
 
-🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 22h ago
+🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 1d ago
 
 ---
 
-**[Just launched Graft AI: A living map of company's operations](https://www.reddit.com/r/artificial/comments/1uxylz5/just_launched_graft_ai_a_living_map_of_companys/)**
+**[How To Get Webdesign Projects?](https://www.reddit.com/r/artificial/comments/1uxyu8z/how_to_get_webdesign_projects/)**
 
-1h ago
+I’ve been running my web agency for four years, and I’m curious to hear what others have found to be the best way of getting clients. I’ve tried almost everything, but email automation has worked best for me because it’s affordable and runs in the background while I focus on other parts of the agency. I don’t use Instantly, Mailchimp, or Klaviyo. I use a tool called Swokei, which is built specifically for web agencies. It lets you find businesses that already have websites, add thousands of them to a campaign, and automatically analyzes each site for issues with design, layout, SEO, speed, and mobile optimization. It then turns those issues into personalized, ready to send outreach emails So instead of targeting businesses with no website, I offer redesigns and updated websites to companies that already have one. I’ve found that approach works much better. I’m now at a point where I can afford to hire a full team, so I’d like to explore other client acquisition methods as well. What has worked best for your agency?
+
+2h ago
 
 ---
 
@@ -103,7 +89,7 @@ New from me, shedding light on the Grok Build debacle including an interview wit
 
 ​ Over the last few months, I've been building AutoFlow, not as another AI wrapper or workflow tool, but as a verification engine.Instead of asking: "What does the model think?" we're asking: Can the answer be mathematically, logically, and evidentially verified? We're starting with finance because the cost of hallucinations is real.What we've built so far is: Deterministic evidence extraction pipeline Typed financial fact normalization Cross-document reconciliation engine C++20 verification core Covenant calculation engine Source-anchor tracking for every extracted fact Complete audit trail explaining exactly why every conclusion was reached Synthetic financial benchmark suite designed for reproducible evaluation Current implementation status: ✅ 11 JSON schemas validated ✅ Evidence extraction pipeline complete ✅ Deterministic fixtures and validation suite ✅ C++ verification engine ✅ 99/99 C++ unit tests passing Early benchmark results:o We're benchmarking frontier models on financial verification rather than generic Q&A. The early runs are showing exactly what we expected: Strong reasoning models still hallucinate under financial verification tasks. RAG alone is not enough—it retrieves evidence but doesn't verify calculations or resolve contradictions. Deterministic verification dramatically improves trust because every number can be traced back to evidence and independently checked. We're now preparing large-scale benchmarks across OpenAI, Anthropic, Gemini, open-weight models, and other providers to measure where current AI systems succeed and fail. The long-term vision Finance is only the first step. The goal is to build a Universal Trust Engine consisting of: • Verification Engine • Evidence Engine • Adjudication Engine An infrastructure layer that allows AI systems to prove their outputs instead of asking users to trust them. Looking for people who enjoy hard engineering problems If you're interested in: C++ Systems programming Verification systems Distributed systems Retrieval and evidence graphs Formal methods AI evaluation Benchmarking Financial infrastructure I'd love to connect. We're accepted into the NVIDIA Inception startup program and are currently preparing the next generation of verification benchmarks. If building infrastructure that makes AI more trustworthy sounds interesting, send me a message or leave a comment. I'd especially love to hear from people who think current LLM evaluation is fundamentally broken
 
-1h ago
+3h ago
 
 ---
 
@@ -111,7 +97,23 @@ New from me, shedding light on the Grok Build debacle including an interview wit
 
 Alberta and Quebec signed a five-year agreement on July 14 to share artificial intelligence tools, training and code between their governments. There's no money attached; it's a knowledge-sharing pact. But behind it is a much bigger Alberta project: rebuilding the province's aging government software with AI, work Alberta says would otherwise cost $2 billion and take a century, at a claimed 95 per cent less cost.
 
-🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 15h ago
+🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 17h ago
+
+---
+
+**[Artificial Intelligence Explained: The Ultimate Beginner's Guide to AI, Machine Learning, LLMs, RAG, AI Agents, Data Science, and More](https://www.reddit.com/r/artificial/comments/1uxvwgw/artificial_intelligence_explained_the_ultimate/)**
+
+Note:  You can buy this content as a book from Amazon here . Introduction Imagine waking up on a Monday morning. Before you've even stepped ...
+
+🔗 [blog.qualitypointtech.com](https://www.blog.qualitypointtech.com/2026/07/artificial-intelligence-explained.html) • 5h ago
+
+---
+
+**[What’s one boring task you’d trust an AI agent to complete without checking?](https://www.reddit.com/r/artificial/comments/1uxveo0/whats_one_boring_task_youd_trust_an_ai_agent_to/)**
+
+AI agent demos keep getting more ambitious. But I suspect people will learn to trust agents through boring, low-risk tasks—not by letting them “run an entire business.” Things like: • rescheduling a meeting • reordering an inexpensive item • comparing travel options • sending a follow-up based on meeting notes • monitoring a price and notifying you when it changes For me, the key question isn’t how complex the task is. It’s whether the action is reversible and whether a mistake would be expensive. What’s one task you’d let an AI complete without checking first? And where would you still want it to stop and ask?
+
+5h ago
 
 ---
 
@@ -119,73 +121,69 @@ Alberta and Quebec signed a five-year agreement on July 14 to share artificial i
 
 ## Google News: "ai"
 
+**[Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b)**
+
+WSJ • 18h ago
+
+---
+
+**[Anthropic Accidentally Made the Perfect Commercial](https://www.theatlantic.com/technology/2026/07/anthropic-ai-commercial/687925/)**
+
+How a 90-second ad encapsulates the AI industry
+
+The Atlantic • 15h ago
+
+---
+
+**[India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.](https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html)**
+
+The New York Times • 7h ago
+
+---
+
+**[AI boom drives states to rethink data center water use](https://www.axios.com/local/boulder/2026/07/16/ai-data-center-water-regulations-cu-boulder)**
+
+Axios • 26m ago
+
+---
+
 **[Trump blasts New York AI data center moratorium, says state should change policy 'immediately'](https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html)**
 
 New York became the first state in the U.S. to impose a ban of its kind when the governor signed the executive order Tuesday.
 
-CNBC • 15h ago
+CNBC • 17h ago
 
 ---
 
-**[What Do Okta AI Data And Taylor Swift Have In Common? A Fearless Era](https://www.forbes.com/sites/sandycarter/2026/07/16/what-do-okta-ai-data-and-taylor-swift-have-in-common-a-fearless-era/)**
+**[Can the Fed lower inflation? 5 takeaways from Warsh on Capitol Hill](https://www.usatoday.com/story/money/economy/2026/07/16/kevin-warsh-fed-chair-testimony-inflation-ai/90928270007/)**
 
-Taylor Swift's Fearless era meets enterprise AI: Okta data from 20,000+ orgs delivers 15 fearless findings and 4 moves every business leader must make.
+Federal Reserve Chair Kevin Warsh may not like forward guidance, but he spent five hours answering lawmakers' questions this week. What they learned.
 
-Forbes • 17m ago
-
----
-
-**[India Is Moving Fast to Catch Up in A.I. A Coastal City Fears the Fallout.](https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html)**
-
-The New York Times • 5h ago
+USA Today • 15m ago
 
 ---
 
-**[Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b)**
+**[Google required to open up to AI, search engine rivals under EU-mandated changes](https://www.reuters.com/world/google-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/)**
 
-WSJ • 16h ago
-
----
-
-**[Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)**
-
-A shockingly inefficient trillion-dollar project
-
-The Atlantic • 1d ago
+Reuters • 51m ago
 
 ---
 
-**[AI continues to pressure power prices](https://www.axios.com/2026/07/16/ai-data-center-power-grid-rates)**
+**[Google Ordered to Give A.I. Rivals More Access on Android Smartphones](https://www.nytimes.com/2026/07/16/technology/google-ordered-to-give-ai-rivals-more-access-on-android-smartphones.html)**
 
-Axios • 3m ago
-
----
-
-**[China Doesn’t Wait to See If AI Companions Can Be a Force for Good](https://www.bloomberg.com/news/newsletters/2026-07-16/ai-companion-bots-and-virtual-lovers-face-china-crackdown)**
-
-Bloomberg.com • 15m ago
+The New York Times • 51m ago
 
 ---
 
-**[COMPUTER COPS: Inside the big business of selling AI to the police](https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops)**
+**[EU Gives Google Binding Instructions to Open Android, Search Engine Data to AI Rivals](https://www.wsj.com/tech/eu-gives-google-binding-instructions-to-open-android-search-engine-data-to-ai-rivals-ad5004fb)**
 
-From data gathering to decision making, there’s a gold mine in police funding.
-
-The Verge • 17m ago
+WSJ • 46m ago
 
 ---
 
 **[How to make AI safe—and lessen dependence on America and China](https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-lessen-dependence-on-america-and-china)**
 
-The Economist • 15h ago
-
----
-
-**[One of the world’s most prominent hospitals is testing how AI can revolutionize health care](https://www.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare)**
-
-Mayo Clinic, one of the world’s most well-known hospital systems, is using AI in hopes of improving patient care and, ultimately, saving lives.
-
-CNN • 2h ago
+The Economist • 16h ago
 
 ---
 
@@ -211,13 +209,13 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
 
-⬆️ 207 • 💬 75 • 14h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+⬆️ 234 • 💬 81 • 15h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 
 ---
 
 **[Proof of care in the age of AI](https://news.ycombinator.com/item?id=48906125)**
 
-⬆️ 185 • 💬 110 • 1d ago • [jacobfilipp.com](https://jacobfilipp.com/care/)
+⬆️ 185 • 💬 110 • 2d ago • [jacobfilipp.com](https://jacobfilipp.com/care/)
 
 ---
 
@@ -225,7 +223,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 175 • 💬 225 • 21h ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+⬆️ 177 • 💬 227 • 23h ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
@@ -253,7 +251,7 @@ Jacquard is a small programming language designed for a regime in which most cod
 
 **[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
 
-⬆️ 99 • 💬 108 • 13h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
+⬆️ 100 • 💬 108 • 15h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
 
 ---
 
@@ -261,7 +259,7 @@ Jacquard is a small programming language designed for a regime in which most cod
 
 I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
 
-⬆️ 87 • 💬 77 • 6h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+⬆️ 90 • 💬 86 • 8h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
 
 ---
 
@@ -275,7 +273,7 @@ Anthropic just released one of the darkest AI advertisements ever made. The comp
 
 📺 AI Revolution
 
-👁️ 13K • 👍 492 • 💬 102 • ⏱️ 15:39 • 12h ago
+👁️ 15K • 👍 540 • 💬 110 • ⏱️ 15:39 • 14h ago
 
 ---
 
@@ -285,37 +283,7 @@ GPT 5.6 Sol is off to a…smashing…start. Subscribe to my Substack: https://at
 
 📺 Mo Bitar
 
-👁️ 113K • 👍 8K • 💬 1K • ⏱️ 9:10 • 22h ago
-
----
-
-**[It&#39;s Official, The AI Bubble Just Popped (Here&#39;s Why)](https://www.youtube.com/watch?v=paLy21TVecw)**
-
-Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist Pro https://rcp.georgegammon.com/pro.
-
-📺 George Gammon
-
-👁️ 71K • 👍 3K • 💬 501 • ⏱️ 28:35 • 11h ago
-
----
-
-**[The New Hidden AI Data Centers No One Is Talking About](https://www.youtube.com/watch?v=-1gUSXQtZts)**
-
-What if some of the biggest AI data centers in America aren't being called AI data centers at all? ---------- At Home DIY Air ...
-
-📺 Riverside Homestead 
-
-👁️ 21K • 👍 2K • 💬 357 • ⏱️ 8:54 • 1d ago
-
----
-
-**[I saw the future of AI... it scared me](https://www.youtube.com/watch?v=BIrQa_BH6AE)**
-
-LinkedIn: https://www.linkedin.com/in/charles-broomfield/ Apply to work with me: https://forms.gle/XDEWyVhPeqhzEy2V8 I began ...
-
-📺 Charles Level Up
-
-👁️ 4K • 👍 231 • 💬 43 • ⏱️ 19:36 • 18h ago
+👁️ 121K • 👍 8K • 💬 1K • ⏱️ 9:10 • 23h ago
 
 ---
 
@@ -325,7 +293,37 @@ Create Your Own AI influencer using Higgsfield https://higgsfield.ai?fpr=ai&fp_s
 
 📺 Isa does AI
 
-👁️ 9K • 💬 10 • ⏱️ 10:04 • 18h ago
+👁️ 9K • 💬 10 • ⏱️ 10:04 • 19h ago
+
+---
+
+**[It&#39;s Official, The AI Bubble Just Popped (Here&#39;s Why)](https://www.youtube.com/watch?v=paLy21TVecw)**
+
+Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist Pro https://rcp.georgegammon.com/pro.
+
+📺 George Gammon
+
+👁️ 83K • 👍 4K • 💬 591 • ⏱️ 28:35 • 12h ago
+
+---
+
+**[The New Hidden AI Data Centers No One Is Talking About](https://www.youtube.com/watch?v=-1gUSXQtZts)**
+
+What if some of the biggest AI data centers in America aren't being called AI data centers at all? ---------- At Home DIY Air ...
+
+📺 Riverside Homestead 
+
+👁️ 21K • 👍 2K • 💬 369 • ⏱️ 8:54 • 1d ago
+
+---
+
+**[Super Human AI is Nearly Here, And No One Is Ready](https://www.youtube.com/watch?v=pauU-XDs_uA)**
+
+Masterpeace: Investor Quiz: Stop wishing you had a portfolio full of performing assets. Take action and start building one. Today.
+
+📺 Redacted
+
+👁️ 55K • 👍 3K • 💬 319 • ⏱️ 1:16:42 • 1d ago
 
 ---
 
@@ -335,7 +333,17 @@ More than 200 economists and researchers penned a letter warning about the econo
 
 📺 The Young Turks
 
-👁️ 55K • 👍 2K • 💬 683 • ⏱️ 14:47 • 1d ago
+👁️ 55K • 👍 2K • 💬 691 • ⏱️ 14:47 • 1d ago
+
+---
+
+**[You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)](https://www.youtube.com/watch?v=Bm84BAtOfQw)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/3SXCfgk Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 51K • 👍 3K • 💬 171 • ⏱️ 22:25 • 23h ago
 
 ---
 
@@ -345,7 +353,7 @@ A Chinese tech-firm has unveiled a new AI-driven robot which it says is the firs
 
 📺 Al Jazeera English
 
-👁️ 69K • 👍 513 • 💬 333 • ⏱️ 2:44 • 2d ago
+👁️ 74K • 👍 552 • 💬 360 • ⏱️ 2:44 • 2d ago
 
 ---
 
@@ -355,17 +363,7 @@ A cheating scandal at Brown University exposed a much larger problem: students a
 
 📺 House of El: AI
 
-👁️ 98K • 👍 7K • 💬 2K • ⏱️ 25:39 • 2d ago
-
----
-
-**[Meta Can&#39;t Stop Taking Ls](https://www.youtube.com/watch?v=TNeFuLVGcF0)**
-
-Get Proton Mail & Proton Drive together for FREE! Keep your emails and cloud storage secure with end-to-end encryption: ...
-
-📺 MonkeyExplains
-
-👁️ 373K • 👍 20K • 💬 2K • ⏱️ 14:52 • 1d ago
+👁️ 99K • 👍 7K • 💬 2K • ⏱️ 25:39 • 2d ago
 
 ---
 
@@ -381,7 +379,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 4 • ❤️ 556 • 15h ago
+⬇️ 4 • ❤️ 638 • 16h ago
 
 ---
 
@@ -393,7 +391,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 74,007 • ❤️ 510 • 1d ago
+⬇️ 74,007 • ❤️ 537 • 1d ago
 
 ---
 
@@ -405,7 +403,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 559,267 • ❤️ 290 • 1d ago
+⬇️ 559,267 • ❤️ 303 • 1d ago
 
 ---
 
@@ -417,7 +415,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,042,670 • ❤️ 2,223 • 1d ago
+⬇️ 2,042,670 • ❤️ 2,224 • 1d ago
 
 ---
 
@@ -429,7 +427,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 513,061 • ❤️ 4,009 • 14d ago
+⬇️ 513,061 • ❤️ 4,013 • 14d ago
 
 ---
 
@@ -441,7 +439,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 8,238 • ❤️ 370 • 5d ago
+⬇️ 8,238 • ❤️ 374 • 5d ago
 
 ---
 
@@ -451,7 +449,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 311 • 6d ago
+⬇️ 0 • ❤️ 313 • 6d ago
 
 ---
 
@@ -463,7 +461,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 11,849 • ❤️ 805 • 7h ago
+⬇️ 11,849 • ❤️ 807 • 9h ago
 
 ---
 
@@ -475,19 +473,19 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 75,105 • ❤️ 219 • 1d ago
+⬇️ 75,105 • ❤️ 222 • 1d ago
 
 ---
 
-**[MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF)**
+**[Agents-A1](https://huggingface.co/InternScience/Agents-A1)**
 
-*LOL*
+*Intern Science*
 
-A 1B parameter GGUF model optimized for local deployment via llama.cpp and other runtimes. It excels at instruction following and coding tasks, featuring a 'thinking' mode for chain-of-thought reasoning and supporting up to 128K token context.
+Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon search, engineering, scientific research, and instruction following with advanced tool-calling capabilities. It achieves state-of-the-art performance comparable to much larger frontier models on challenging benchmarks.
 
-`text-generation` `1.1B`
+`text-generation` `35.1B`
 
-⬇️ 121,296 • ❤️ 258 • 2d ago
+⬇️ 33,400 • ❤️ 560 • 1d ago
 
 ---
 
@@ -501,7 +499,7 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 16 • 💬 2 • ⭐ 20,719 • 28mo ago
+▲ 16 • 💬 2 • ⭐ 20,755 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -515,7 +513,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 42 • 💬 1 • ⭐ 1,183 • 8d ago
+▲ 42 • 💬 1 • ⭐ 1,205 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
 
@@ -530,20 +528,6 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 111 • 💬 4 • ⭐ 93,239 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675)**
-
-*Shuailei Ma, Jiaqi Liao, Xinyang Wang et al. (27 authors)*
-
-🏢 Robbyant
-
-LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
-
-▲ 62 • 💬 1 • ⭐ 801 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
 ---
 
@@ -575,6 +559,46 @@ ResearchStudio-Idea provides a skill suite for effective research ideation that 
 
 ---
 
+**[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675)**
+
+*Shuailei Ma, Jiaqi Liao, Xinyang Wang et al. (27 authors)*
+
+🏢 Robbyant
+
+LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
+
+▲ 62 • 💬 1 • ⭐ 811 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
+
+---
+
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 176 • 💬 2 • ⭐ 74,734 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 83 • 💬 7 • ⭐ 80,973 • 24mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
 **[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)**
 
 *Rouard Simon, Orsini Manu, Roebel Axel et al. (5 authors)*
@@ -595,49 +619,23 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 11 • 💬 0 • ⭐ 7,580 • 10mo ago
+▲ 11 • 💬 0 • ⭐ 7,613 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+🏢 BAIDU
 
-▲ 83 • 💬 7 • ⭐ 80,905 • 24mo ago
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+▲ 55 • 💬 5 • ⭐ 14,300 • 24d ago
 
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 176 • 💬 2 • ⭐ 74,734 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
-**[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264)**
-
-*Zelun Zhang, Hongen Liu, Suyin Liang et al. (15 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
-
-▲ 26 • 💬 1 • ⭐ 85,573 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -651,7 +649,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.8k • 🔱 1.0k • 5h ago
+⭐ 4.8k • 🔱 1.0k • 7h ago
 
 ---
 
@@ -661,7 +659,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.6k • 🔱 185 • 3h ago
+⭐ 2.7k • 🔱 188 • 2h ago
 
 ---
 
@@ -681,7 +679,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.2k • 🔱 253 • 7d ago
+⭐ 2.2k • 🔱 256 • 7d ago
 
 ---
 
@@ -731,7 +729,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 924 • 🔱 55 • 2d ago
+⭐ 925 • 🔱 55 • 2d ago
 
 ---
 

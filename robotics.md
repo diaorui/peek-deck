@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-16T11:17:39.346259+00:00'
+updated: '2026-07-16T12:59:53.480141+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 16, 2026 at 11:17 UTC  
+**Last Updated:** July 16, 2026 at 12:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I’ve been teaching myself robotics over the last few months, and I wanted to s
 
 We've been iterating on SoftSync FlexHand V1 over the last few weeks. This update focuses on two mechanical improvements: Switched to a new soft material for better compliance. Combined braided reinforcement with additive manufacturing to improve durability. The demo shows thumb-to-index, thumb-to-middle, and thumb-to-ring pinch generated with a simple drag-and-drop programming workflow. No pre-training was used. I'd love to hear any feedback, especially on the mechanical design or the control workflow.
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,21 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
 
-NVIDIA Blog • 12h ago
+NVIDIA Blog • 13h ago
+
+---
+
+**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
+
+Reuters • 2h ago
+
+---
+
+**[Nvidia expands AI and robotics collaboration with leading Japanese manufacturers (NVDA)](https://finance.yahoo.com/technology/ai/articles/nvidia-expands-ai-robotics-collaboration-103516961.html)**
+
+Nvidia (NASDAQ:NVDA) has announced new partnerships with several Japanese industrial companies, including Fanuc and Yaskawa Electric, as it seeks to accelerate the adoption of artificial intelligence and robotics across the manufacturing sector. Nvidia deepens its presence in JapanSpeaking at a media event in Tokyo, Nvidia Chief Executive Jensen Huang outlined the company’s vision for the next generation of intelligent automation.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -124,13 +138,21 @@ NVIDIA Blog • 12h ago
 
 NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
 
-NVIDIA Blog • 13h ago
+NVIDIA Blog • 14h ago
 
 ---
 
 **[Gecko Robotics is growing again](https://www.axios.com/local/pittsburgh/2026/07/16/gecko-robotics-manufacturing-expansion)**
 
-Axios • 48m ago
+Axios • 2h ago
+
+---
+
+**[Hyundai Reportedly Looking To Take Total Control Of Robotics Giant Boston Dynamics](https://www.engadget.com/2216427/hyundai-reportedly-looking-to-buy-all-of-boston-dynamics-from-softbank/)**
+
+Hyundai could soon own Boston Dynamics in full.
+
+Engadget • 1h ago
 
 ---
 
@@ -138,7 +160,7 @@ Axios • 48m ago
 
 Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -148,39 +170,19 @@ WSJ • 9h ago
 
 ---
 
+**[Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences](https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences)**
+
+Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’
+
+The Guardian • 8h ago
+
+---
+
 **[A Red Bull engineer got bored with Formula One. His robotics startup just raised $55 million.](https://www.businessinsider.com/f1-engineer-quit-redbull-to-build-army-of-factory-robots-2026-7)**
 
 microagi has raised $55 million to put AI-powered robots to work in factories.
 
-Business Insider • 5h ago
-
----
-
-**[Icarus Robotics taps KULR to provide batteries for Space Station robots](https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/)**
-
-SpaceNews • 22h ago
-
----
-
-**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
-
-Business Wire • 1d ago
-
----
-
-**[How Nidec Is Rethinking Gear Design for Humanoid and Mobile Robots](https://www.eetimes.com/how-nidec-is-rethinking-gear-design-for-humanoid-and-mobile-robots/)**
-
-In this video interview from Automate 2026, Nidec Drive Technology walks through the technologies it's developing for advanced robotics and industrial automation.
-
-EE Times • 14h ago
-
----
-
-**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
-
-Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
-
-Anthropic • 7d ago
+Business Insider • 6h ago
 
 ---
 
@@ -188,13 +190,13 @@ Anthropic • 7d ago
 
 ## YouTube Videos: "robotics"
 
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
+**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
 
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
+A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
 
-📺 PRO ROBOTS
+📺 Al Jazeera English
 
-👁️ 27K • 👍 809 • 💬 61 • ⏱️ 29:49 • 6d ago
+👁️ 74K • 👍 552 • 💬 360 • ⏱️ 2:44 • 2d ago
 
 ---
 
@@ -204,27 +206,17 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 17K • 👍 2K • 💬 104 • ⏱️ 3:00 • 1d ago
+👁️ 17K • 👍 2K • 💬 109 • ⏱️ 3:00 • 1d ago
 
 ---
 
-**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
 
-A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
 
-📺 Al Jazeera English
+📺 ABC News
 
-👁️ 69K • 👍 513 • 💬 333 • ⏱️ 2:44 • 2d ago
-
----
-
-**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
-
-Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
-
-📺 Unitree Robotics
-
-👁️ 1.3M • 👍 998 • 💬 161 • ⏱️ 1:10 • 7d ago
+👁️ 63K • 👍 1K • 💬 454 • ⏱️ 1:54 • 6d ago
 
 ---
 
@@ -238,13 +230,11 @@ This incredible AI-powered handwriting robot uses precision robotics and intelli
 
 ---
 
-**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=4XlVxFfaaLs)**
 
-For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
+📺 Robot Julie 
 
-📺 ABC News
-
-👁️ 62K • 👍 1K • 💬 453 • ⏱️ 1:54 • 6d ago
+👁️ 7K • 👍 43 • 💬 2 • ⏱️ 0:26 • 11h ago
 
 ---
 
@@ -254,25 +244,17 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 368K • 👍 18K • 💬 792 • ⏱️ 1:25 • 5d ago
+👁️ 369K • 👍 18K • 💬 792 • ⏱️ 1:25 • 5d ago
 
 ---
 
-**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
+**[Chinese firm launches hyper-real, &#39;always loyal&#39; robots for companionship](https://www.youtube.com/watch?v=3DmrrY7bdqM)**
 
-How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
+Chinese company UBTech launched a new range of robots meant for companionship equipped with eye cameras, chest sensors ...
 
-📺 Suhel Experiment
+📺 The Straits Times
 
-👁️ 40K • 💬 29 • ⏱️ 1:30 • 3d ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 192K • 👍 7K • 💬 90 • ⏱️ 1:03 • 4d ago
+👁️ 42K • 👍 222 • 💬 75 • ⏱️ 1:48 • 3d ago
 
 ---
 
@@ -282,7 +264,25 @@ Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that c
 
 📺 MIT Mechanical Engineering
 
-👁️ 304K • 👍 9K • 💬 513 • ⏱️ 4:04 • 6d ago
+👁️ 308K • 👍 9K • 💬 521 • ⏱️ 4:04 • 6d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 194K • 👍 7K • 💬 91 • ⏱️ 1:03 • 4d ago
+
+---
+
+**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
+
+How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
+
+📺 Suhel Experiment
+
+👁️ 41K • 💬 29 • ⏱️ 1:30 • 3d ago
 
 ---
 
