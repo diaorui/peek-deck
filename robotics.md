@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-15T23:28:50.674295+00:00'
+updated: '2026-07-16T01:00:52.926533+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 15, 2026 at 23:28 UTC  
+**Last Updated:** July 16, 2026 at 01:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ Ranjay Krishna argues that language may be an unnecessary intermediary between p
 
 Created Simulation From LLM Output Background: I studied EECS and I'm now getting into robotics, mostly working through the simulation side of things. While digging into the sim pipeline I came across this repo: https://github.com/AlexKaravaev/world-creator It's a CLI that generates Gazebo and Mujoco simulation worlds from a text prompt. You type something like "warehouse with shelves and some obstacles for navigation testing" and it picks models from the Gazebo model database and places them for you. I think it's genuinely a great idea and ahead of its time. It's from ~2023, so it predates all the recent LLM progress, and the author was upfront that the model hallucinated a lot back then. With today's models this approach could work way better. Curious about a few things: Has anyone here used this or something like it in real work? Is prompt-to-world something you'd actually want, or is scene setup not painful enough to matter? From what I've seen so far, people complain way more about getting the robot itself into sim (URDF, meshes, inertia values) than the environment around it. Is that right? If someone built an upgraded version of this, what would the use cases be for you? Randomized scenes for RL training? Test scenarios in CI? Quick demos? I'm exploring building in this space, so honest "nobody needs this" takes are just as useful as feature wishlists.
 
-19h ago
+21h ago
 
 ---
 
@@ -114,13 +114,13 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 **[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 16h ago
 
 ---
 
 **[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
 
-Business Wire • 13h ago
+Business Wire • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ Business Wire • 13h ago
 
 Walden Robotics, led by MIT professor Russ Tedrake, has raised $300 million from Toyota and other investors.
 
-The Boston Globe • 11h ago
+The Boston Globe • 12h ago
 
 ---
 
@@ -146,13 +146,13 @@ Nvidia on Wednesday released a new small, open-source model for “physical” A
 
  The model, Cosmos 3 Edge, is just 4 billion parameters and can run on a customer’s own computer rather than in a data center. It can act as both a so-called vision language model or a world model, both of which help robots navigate or understand their
 
-The Information • 27m ago
+The Information • 1h ago
 
 ---
 
 **[China Sends Robots Out Into the World to Learn How to Be Human](https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -160,7 +160,7 @@ Bloomberg.com • 1h ago
 
 Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
 
-Fortune • 11h ago
+Fortune • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fortune • 11h ago
 
 NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
 
-NVIDIA Blog • 12h ago
+NVIDIA Blog • 14h ago
 
 ---
 
@@ -176,13 +176,13 @@ NVIDIA Blog • 12h ago
 
 The Vicarious Surgical board wants to close the struggling surgical robotics developer as soon as a special meeting of investors, scheduled for July 21.
 
-MassDevice • 3h ago
+MassDevice • 4h ago
 
 ---
 
 **[Icarus Robotics taps KULR to provide batteries for Space Station robots](https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/)**
 
-SpaceNews • 10h ago
+SpaceNews • 11h ago
 
 ---
 
@@ -206,7 +206,7 @@ This incredible AI-powered handwriting robot uses precision robotics and intelli
 
 📺 Techie Sapien
 
-👁️ 50K • 💬 10 • ⏱️ 0:08 • 16h ago
+👁️ 50K • 💬 10 • ⏱️ 0:08 • 18h ago
 
 ---
 

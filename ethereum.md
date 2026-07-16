@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-15T23:28:50.670949+00:00'
+updated: '2026-07-16T01:00:52.923351+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 23:28 UTC  
+**Last Updated:** July 16, 2026 at 01:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +10.1%  
-**30d:** +7.3%  
-**90d:** -20.6%  
-**1y:** -43.0%  
+**24h:** +2.4%  
+**7d:** +6.5%  
+**30d:** +9.4%  
+**90d:** -18.5%  
+**1y:** -44.8%  
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 11h ago
 
 The chain's updated technical roadmap will see it add major new features.
 
-The Motley Fool • 15m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Motley Fool • 15m ago
 
 Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -216,13 +216,13 @@ PR Newswire • 2d ago
 
 **[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
 
-MarketWatch • 9h ago
+MarketWatch • 11h ago
 
 ---
 
 **[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
 
-thestreet.com • 5h ago
+thestreet.com • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 151 • 💬 16 • ⏱️ 18:30 • 6h ago
+👁️ 2K • 👍 151 • 💬 16 • ⏱️ 18:30 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 The House Of Crypto
 
-👁️ 9K • 👍 666 • 💬 56 • ⏱️ 12:28 • 11h ago
+👁️ 9K • 👍 666 • 💬 56 • ⏱️ 12:28 • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PL
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 238 • 💬 9 • ⏱️ 43:18 • 5h ago
+👁️ 4K • 👍 238 • 💬 9 • ⏱️ 43:18 • 6h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN & CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 3K • 👍 220 • 💬 73 • ⏱️ 21:31 • 5h ago
+👁️ 3K • 👍 220 • 💬 73 • ⏱️ 21:31 • 6h ago
 
 ---
 
@@ -296,7 +296,7 @@ Big money energy has re-entered the crypto market, and it looks like things are 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 1K • 💬 267 • ⏱️ 26:17 • 12h ago
+👁️ 9K • 👍 1K • 💬 267 • ⏱️ 26:17 • 13h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Julie
 
-👁️ 4K • 👍 3K • 💬 2 • ⏱️ 3:12:40 • 9h ago
+👁️ 4K • 👍 3K • 💬 2 • ⏱️ 3:12:40 • 11h ago
 
 ---
 
@@ -326,7 +326,7 @@ En este video hare el análisis de bitcoin (btc), ahora mismo en una zona clave 
 
 📺 CryptoAnálisis
 
-👁️ 2K • 👍 349 • 💬 27 • ⏱️ 15:56 • 10h ago
+👁️ 2K • 👍 349 • 💬 27 • ⏱️ 15:56 • 12h ago
 
 ---
 

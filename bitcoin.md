@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-15T23:28:50.664722+00:00'
+updated: '2026-07-16T01:00:52.917335+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 15, 2026 at 23:28 UTC  
+**Last Updated:** July 16, 2026 at 01:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,911.68
+### $64,584.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +2.5%  
-**30d:** -1.2%  
-**90d:** -15.9%  
-**1y:** -45.3%  
+**24h:** -0.1%  
+**7d:** +0.6%  
+**30d:** +0.2%  
+**90d:** -14.7%  
+**1y:** -45.8%  
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[This guy was mining 1 Bitcoin every day in 2011. He built an $800 gaming PC, downloaded the mining software, ran it 24/7, and was earning Bitcoin like it was nothing. A true legend from the early days of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxij3x/this_guy_was_mining_1_bitcoin_every_day_in_2011/)**
+
+3h ago
+
+---
+
 **[Bitcoiners in a bearmarket be like..](https://www.reddit.com/r/Bitcoin/comments/1ux5o0d/bitcoiners_in_a_bearmarket_be_like/)**
 
 I'm a toxic bitcoin maximalist but some reactions in the bear market are funny.
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +95,7 @@ I'm a toxic bitcoin maximalist but some reactions in the bear market are funny.
 
 Bitcoin was having a great this year until one lightning strike hit the market.
 
-9h ago
+11h ago
 
 ---
 
@@ -97,7 +103,7 @@ Bitcoin was having a great this year until one lightning strike hit the market.
 
 At the previous low of around 16K many were waiting on the side line, hoping for 12K, which is 25%. If the bottem is already in, around 58K, all the people waiting for another 25% drop, which will be around 43K, will be left behind. Funny that 42-45K is a price I see being thrown around very often. The big boys know thousands of people are waiting for 45K prices in october, therefore I simply don’t think we’re going to see those lows.
 
-11h ago
+12h ago
 
 ---
 
@@ -105,11 +111,27 @@ At the previous low of around 16K many were waiting on the side line, hoping for
 
 Lemme hear your favorite bitcoin songs!
 
-9h ago
+10h ago
+
+---
+
+**[Bitcoin been chopping all day but that feeling is back](https://www.reddit.com/r/Bitcoin/comments/1uxhaiz/bitcoin_been_chopping_all_day_but_that_feeling_is/)**
+
+Man bitcoin has done absolutely nothing today. Just sitting there chopping between the same levels for hours. Small wicks up and down, volume looks dead, no real direction at all. But I swear I can feel it. That same vibe right before it decides to go crazy. Like its just waiting for everyone to get bored and look away then boom. This shit happens every single time. Quiet period then out of nowhere a mad move. Anyone else staring at the chart right now feeling the exact same thing? Or is it just me?
+
+4h ago
 
 ---
 
 **[iPhone VS Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxbi3b/iphone_vs_bitcoin/)**
+
+8h ago
+
+---
+
+**[Could Something like Executive Order 6102 Happen to BTC?](https://www.reddit.com/r/Bitcoin/comments/1uxev31/could_something_like_executive_order_6102_happen/)**
+
+For context for anyone who is unaware, in 1933 US Government declared all US citizens must sell their Gold to the US government for $20.67 and oz. Forcing their citizens to trade a hard asset for fiat. The next year they turned around and repriced that same gold at $35 an ounce. Is this something you see as a threat to BTC in the future in the United States? Any plans to circumnavigate or protect yourself besides maybe a foreign citizenship?
 
 6h ago
 
@@ -119,35 +141,15 @@ Lemme hear your favorite bitcoin songs!
 
 Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gain pushing total crypto market capitalization past $2.3 trillion.
 
-12h ago
+13h ago
 
 ---
 
-**[Steak n Shake thanks their loyal patrons and Bitcoiners and says that anyone who doubts the power of Bitcoin is making a BIG mistake.](https://www.reddit.com/r/Bitcoin/comments/1uwbt8u/steak_n_shake_thanks_their_loyal_patrons_and/)**
+**[Whatever Happened to “Bitcoin, Not Bombs”](https://www.reddit.com/r/Bitcoin/comments/1uxcp49/whatever_happened_to_bitcoin_not_bombs/)**
 
-1d ago
+With the United States now at war with Iran, I keep thinking about an older argument from the Bitcoin movement. Wasn’t Bitcoin supposed to be part of the anti-war movement? Early Bitcoin culture was not only about getting rich, ETFs, corporate treasuries, or governments building strategic reserves. Bitcoin was presented as a way to challenge the monetary system that makes endless war possible. The basic argument was simple: Governments can wage wars that voters would never support if they had to pay the full cost immediately through higher taxes. Instead, wars are financed through debt, monetary expansion, and inflation. The costs are spread across decades and hidden inside higher prices, interest payments, and a weaker currency. Bitcoin was supposed to change that equation. A fixed-supply, politically neutral form of money would theoretically make it harder for governments to create money, quietly expand debt, and pass the cost of war onto future generations. Bitcoin would not make war impossible. But it could make the cost of war more visible. Yet during the Iran war, much of Bitcoin culture seems strangely silent. The conversation is mostly about whether oil prices will push Bitcoin higher, whether governments will buy more Bitcoin, and whether war will become another bullish catalyst. That feels like a major cultural shift. Bitcoin began as an attempt to separate money from state power. Now parts of the movement seem more interested in getting Bitcoin adopted by the same governments, financial institutions, and military powers it was originally supposed to constrain. Maybe Bitcoin itself has not changed. The network remains neutral. But the culture around it has. So here is the uncomfortable question: Did Bitcoin fail as an anti-war movement—or did Bitcoiners simply stop caring about the anti-war part once the price started going up?
 
----
-
-**[Strike vs Finst: testing low-fee Bitcoin DCA in Europe](https://www.reddit.com/r/Bitcoin/comments/1ux0nam/strike_vs_finst_testing_lowfee_bitcoin_dca_in/)**
-
-For years I’ve been reading positive things about Strike by Jack Mallers, especially because you can apparently buy Bitcoin with very low fees (and even fee-free options depending on how you use it). I’ve tried Strike on and off in the past with mixed results, but now I want to properly test it. I’m comparing it against Finst, a Dutch exchange that currently offers some of the lowest Bitcoin buying fees in Europe (around 0.15%). Over a long period of DCA, small fee differences can really add up. My Bitcoin journey started years ago on Coinbase. Looking back, the fees there were pretty painful, with large spreads and transaction costs. One thing I did like about Coinbase at the time was the occasional free crypto rewards, but eventually I moved on. After Coinbase, I switched to Bitvavo, which is one of Europe’s largest exchanges by trading volume. Their fees are around 0.25%, which was already a big improvement. Currently I use Finst, but because I keep seeing so many positive experiences with Strike, I decided to test it myself instead of just relying on other people’s opinions. I created a spreadsheet where I’ll compare my weekly DCA purchases. My setup: - €100 Bitcoin DCA every Friday - Compare Strike vs Finst - Track the actual amount of BTC received and the total costs My first purchase was last Friday (July 10). At the moment I received slightly less BTC on Strike compared to Finst, which is expected because of the higher costs/spread on the first transaction. But the interesting part will be how this develops over several weeks and months. One thing I already like about Strike: it’s Bitcoin-only. No altcoins, no distractions, just Bitcoin. I’ll keep updating this thread with the results. Curious to hear from others in Europe: what platform are you using for your Bitcoin DCA, and why? Disclaimers: Not sponsored by Strike, Finst, or anyone else. I’m just a Dutch guy who likes comparing fees a little too much. 🇳🇱 Bitcoin is risky. Only invest what you can afford to lose.
-
-14h ago
-
----
-
-**[It's finally happening!](https://www.reddit.com/r/Bitcoin/comments/1uwqtyk/its_finally_happening/)**
-
-22h ago
-
----
-
-**[The "see you in october" narratives](https://www.reddit.com/r/Bitcoin/comments/1uwxxnc/the_see_you_in_october_narratives/)**
-
-It's a made up, until it becomes self fulfilling prophecy. Same every cycle. The bear and the 40K guy keep saying see you at 40K the other keep saying 100k next, nothing matters. Narratives always follow price action. Buy your own risk.
-
-16h ago
+7h ago
 
 ---
 
@@ -159,7 +161,7 @@ It's a made up, until it becomes self fulfilling prophecy. Same every cycle. The
 
 Le highlighted increasing the U.S.-dollar reserve as an important lever in preferred stock STRC’s recovery back to around $90 having fallen below $75 last month.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -181,7 +183,7 @@ Alaska's News Source • 1d ago
 
 Bitcoin jumped nearly 2% on Wednesday to hover above $65,000 per token, while ethereum rose 3%.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -197,7 +199,7 @@ Yahoo Finance • 1d ago
 
 BTC rallied to a three-week high of $65,200 and ETH hit its highest since June 3 after a softer-than-expected inflation print eased fears over the U.S.-Iran conflict.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -205,7 +207,7 @@ CoinDesk • 12h ago
 
 Bitcoin could drop as low as $38,000 this year, a new report claims.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -221,13 +223,13 @@ Seeking Alpha • 1d ago
 
 Matt Hougan, Bitwise CIO, joins 'Closing Bell Overtime' to talk tokenization, the recent moves in bitcoin, and more.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[Fidelity: Actually, Homes Are Getting Cheaper (as Long as You Price Them in Bitcoin)](https://gizmodo.com/fidelity-actually-homes-are-getting-cheaper-as-long-as-you-price-them-in-bitcoin-2000785675)**
 
-Gizmodo • 14h ago
+Gizmodo • 16h ago
 
 ---
 
@@ -313,7 +315,7 @@ Inflation came in cooler than expected, but what does that actually mean for Bit
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 97 • ⏱️ 7:57 • 21h ago
+👁️ 47K • 👍 3K • 💬 97 • ⏱️ 7:57 • 22h ago
 
 ---
 
@@ -353,7 +355,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 5K • 👍 416 • 💬 62 • ⏱️ 10:51 • 5h ago
+👁️ 5K • 👍 416 • 💬 62 • ⏱️ 10:51 • 7h ago
 
 ---
 
@@ -373,7 +375,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 2K • 👍 272 • ⏱️ 29:49 • 4h ago
+👁️ 2K • 👍 272 • ⏱️ 29:49 • 5h ago
 
 ---
 
