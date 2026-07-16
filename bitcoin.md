@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-16T20:59:06.185599+00:00'
+updated: '2026-07-16T22:10:30.994637+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 20:59 UTC  
+**Last Updated:** July 16, 2026 at 22:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -0.0%  
-**30d:** -0.5%  
-**90d:** -15.3%  
-**1y:** -46.2%  
+**24h:** -0.8%  
+**7d:** +0.1%  
+**30d:** -0.4%  
+**90d:** -15.2%  
+**1y:** -46.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[This guy was mining 1 Bitcoin every day in 2011. He built an $800 gaming PC, downloaded the mining software, ran it 24/7, and was earning Bitcoin like it was nothing. A true legend from the early days of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxij3x/this_guy_was_mining_1_bitcoin_every_day_in_2011/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -161,7 +161,23 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 1h ago
+The Block • 2h ago
+
+---
+
+**[Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years](https://finance.yahoo.com/markets/crypto/articles/dormant-bitcoin-whale-moves-383-154343829.html)**
+
+The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.
+
+Yahoo Finance • 6h ago
+
+---
+
+**[Dormant Bitcoin wallet moves $383 million after 8 years](https://au.finance.yahoo.com/news/dormant-bitcoin-wallet-moves-383-174646831.html)**
+
+A Bitcoin wallet that has sat completely still for eight years just moved nearly $383 million worth of BTC in a single transaction, and the crypto market is paying close attention to what comes next. Blockchain intelligence firm Lookonchain flagged the transaction on X on Thursday, revealing that a ...
+
+Yahoo Finance Australia • 4h ago
 
 ---
 
@@ -169,15 +185,7 @@ The Block • 1h ago
 
 The coins went to a fresh address rather than an exchange, so nothing has been sold yet.
 
-CoinDesk • 14h ago
-
----
-
-**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-launches-bitcoin-ethereum-200103780.html)**
-
-Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
-
-Yahoo Finance • 58m ago
+CoinDesk • 15h ago
 
 ---
 
@@ -185,41 +193,31 @@ Yahoo Finance • 58m ago
 
 Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-South Dakota Searchlight • 5h ago
+South Dakota Searchlight • 6h ago
 
 ---
 
-**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
+**[Bitcoin rally cools as investors digest inflation data, oil clouds outlook](https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook)**
 
-Barchart.com • 5h ago
+The day ahead in crypto: July 15, 2026
 
----
-
-**[The Investors Riding Along With Strategy’s Bitcoin Rollercoaster](https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d)**
-
-WSJ • 2h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Strategy CEO says company isn't going anywhere as bitcoin buyer, sees debt concerns only below $10,000 BTC](https://www.theblock.co/post/408532/strategy-ceo-bitcoin-debt-concerns-btc-interview)**
+**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
 
-Strategy would begin considering risks associated with its debt only if bitcoin falls to around $8,000-$10,000, CEO Phong Le said.
+Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
 
-The Block • 23h ago
-
----
-
-**[Prediction: Bitcoin Will Double in Value by the End of 2027 -- Here's How](https://www.fool.com/investing/2026/07/16/prediction-bitcoin-will-double-by-the-end-of-2027/)**
-
-If history is any guide, Bitcoin can easily regain the $125,000 price level next year.
-
-The Motley Fool • 5h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Miners Cash In as AI Hits a Power Bottleneck](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/webinar-bitcoin-miners-cash-in-on-ai-power-bottleneck/)**
+**[Bitcoin Clawed Its Way Back Over $65,000. Here’s Why—and What to Know Now](https://www.investopedia.com/bitcoin-clawed-its-way-back-over-usd65-000-here-s-why-and-what-to-know-now-12019866)**
 
-ETF Database • 1d ago
+The price of the world’s largest cryptocurrency traded above the $65,000 level for the first time in weeks.
+
+Investopedia • 1d ago
 
 ---
 
@@ -231,6 +229,12 @@ Alaska's News Source • 2d ago
 
 ---
 
+**[Bitcoin Miners Cash In as AI Hits a Power Bottleneck](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/webinar-bitcoin-miners-cash-in-on-ai-power-bottleneck/)**
+
+ETF Database • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -239,7 +243,7 @@ Alaska's News Source • 2d ago
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 1d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+⬆️ 2 • 💬 1 • 2d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
 
 ---
 
@@ -271,13 +275,13 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 Keep Postgres entities synced with turbopuffer using logical replication (beta) - a24films/puffgres
 
-⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/a24films/puffgres)
+⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/a24films/puffgres)
 
 ---
 
 **[Show HN: I built a zero-regex AI WAF (200MB VRAM). Please try to bypass it](https://news.ycombinator.com/item?id=48927265)**
 
-⬆️ 1 • 💬 0 • 23h ago
+⬆️ 1 • 💬 0 • 1d ago
 
 ---
 
@@ -291,7 +295,7 @@ I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on 
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 105 • ⏱️ 10:38 • 21h ago
+👁️ 35K • 👍 2K • 💬 105 • ⏱️ 10:38 • 22h ago
 
 ---
 
@@ -301,7 +305,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 118 • 💬 16 • ⏱️ 14:19 • 20h ago
+👁️ 3K • 👍 118 • 💬 16 • ⏱️ 14:19 • 22h ago
 
 ---
 
@@ -311,7 +315,7 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 63K • 👍 4K • 💬 455 • ⏱️ 15:15 • 8h ago
+👁️ 63K • 👍 4K • 💬 455 • ⏱️ 15:15 • 10h ago
 
 ---
 
@@ -331,7 +335,7 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 568 • 💬 156 • ⏱️ 46:01 • 6h ago
+👁️ 9K • 👍 568 • 💬 156 • ⏱️ 46:01 • 7h ago
 
 ---
 
@@ -341,7 +345,7 @@ Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 11K • 👍 556 • 💬 54 • ⏱️ 18:15 • 8h ago
+👁️ 11K • 👍 556 • 💬 54 • ⏱️ 18:15 • 9h ago
 
 ---
 
@@ -371,7 +375,7 @@ Join The Dead Serious Club: https://www.youtube.com/channel/UCVeA0YuBpTi-CYsUYgZ
 
 📺 Ashleigh Banfield x Drop Dead Serious
 
-👁️ 23K • 👍 2K • 💬 169 • ⏱️ 2:34 • 23h ago
+👁️ 23K • 👍 2K • 💬 169 • ⏱️ 2:34 • 1d ago
 
 ---
 
@@ -381,7 +385,7 @@ In today's video, Kyledoops outlines whether this next Bitcoin dip is the one to
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 22 • ⏱️ 42:52 • 13h ago
+👁️ 13K • 👍 1K • 💬 22 • ⏱️ 42:52 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T20:59:06.191032+00:00'
+updated: '2026-07-16T22:10:31.000644+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 20:59 UTC  
+**Last Updated:** July 16, 2026 at 22:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,850.00
+### $1,875.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +4.2%  
-**30d:** +7.0%  
-**90d:** -20.3%  
-**1y:** -46.1%  
+**24h:** -2.0%  
+**7d:** +4.6%  
+**30d:** +7.4%  
+**90d:** -20.0%  
+**1y:** -45.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+17h ago
 
 ---
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
+
+In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
+
+CoinDesk • 1d ago
+
+---
+
 **[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
 
 BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
@@ -158,35 +166,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum Just Published a New Road Map, and It's Missing Something Important](https://finance.yahoo.com/markets/crypto/articles/ethereum-just-published-road-map-193300839.html)**
+**[Tom Lee Compares Ethereum To AMZN Before AWS, NVDA Before AI Boom – Says ETH Could Solve 'Uncanny Valley Of Wealth'](https://finance.yahoo.com/markets/crypto/articles/tom-lee-compares-ethereum-amzn-135131707.html)**
 
-The hole at the center of the investment thesis for Ethereum is becoming harder to ignore.
+According to Bitmine chairman Tom Lee, the "Uncanny Valley of Wealth" is a future in which AI creates an increasingly large share of global wealth.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum Researcher Francesco D'Amato Departs EF for Ethlabs](https://finance.yahoo.com/markets/crypto/articles/ethereum-researcher-francesco-damato-departs-185051697.html)**
-
-One of the EF's most versatile protocol researchers just left for Ethlabs, saying serious protocol work now has "a credible shot" outside the Foundation.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-launches-bitcoin-ethereum-200103780.html)**
+**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
 
-Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
+Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Yahoo Finance • 58m ago
-
----
-
-**[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
-
-The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
-
-CoinDesk • 2d ago
+Decrypt • 2h ago
 
 ---
 
@@ -198,17 +190,11 @@ The Block • 2d ago
 
 ---
 
-**[EthSystems Launches to Build Privacy Solutions for Institutions on Ethereum](https://www.tradingview.com/news/chainwire:827e5dde5094b:0-ethsystems-launches-to-build-privacy-solutions-for-institutions-on-ethereum/)**
+**[Ethereum Just Published a New Road Map, and It's Missing Something Important](https://www.fool.com/investing/2026/07/16/something-is-missing-from-ethereums-new-road-map/)**
 
-Founded by the team behind the Ethereum Foundation's Institutional Privacy Task Force, EthSystems is building privacy and compliance technology for EthereumKey backers include Bitmine, Sharplink and Joe LubinNEW YORK, July 14, 2026 /PRNewswire/ -- EthSystems, an engineering and research company (th…
+The hole at the center of the investment thesis for Ethereum is becoming harder to ignore.
 
-TradingView • 2d ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
-
-MarketWatch • 6h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -216,15 +202,27 @@ MarketWatch • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show tentative recovery as key technical levels hold](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-tentative-recovery-as-key-technical-levels-hold-202607150403)**
+**[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
+MarketWatch • 8h ago
 
-FXStreet • 1d ago
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP run into resistance as retail buying cools](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-run-into-resistance-as-retail-buying-cools-202607161227)**
+
+Cryptocurrencies are broadly consolidating on Thursday, while Bitcoin (BTC) retreats toward support at $64,000. Ethereum (ETH) hovers below $1,800, with its upside seemingly limited, following a macro-driven rally.
+
+FXStreet • 9h ago
+
+---
+
+**[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
+
+thestreet.com • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin 
 
 📺 DataDash
 
-👁️ 1K • 👍 70 • 💬 36 • ⏱️ 12:55 • 5h ago
+👁️ 1K • 👍 70 • 💬 36 • ⏱️ 12:55 • 6h ago
 
 ---
 
@@ -248,7 +246,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 427 • 💬 298 • ⏱️ 14:25 • 20h ago
+👁️ 6K • 👍 427 • 💬 298 • ⏱️ 14:25 • 22h ago
 
 ---
 
@@ -258,7 +256,7 @@ Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry s
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 531 • 💬 43 • ⏱️ 51:54 • 17h ago
+👁️ 8K • 👍 531 • 💬 43 • ⏱️ 51:54 • 19h ago
 
 ---
 
@@ -298,7 +296,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 371 • 👍 42 • 💬 2 • ⏱️ 6:41 • 19m ago
+👁️ 371 • 👍 42 • 💬 2 • ⏱️ 6:41 • 1h ago
 
 ---
 
@@ -306,7 +304,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 544 • 💬 51 • ⏱️ 2:00 • 19h ago
+👁️ 7K • 👍 544 • 💬 51 • ⏱️ 2:00 • 21h ago
 
 ---
 
@@ -316,7 +314,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 102 • 💬 36 • ⏱️ 48:10 • 7h ago
+👁️ 2K • 👍 102 • 💬 36 • ⏱️ 48:10 • 8h ago
 
 ---
 

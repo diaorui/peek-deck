@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-16T20:59:06.177607+00:00'
+updated: '2026-07-16T22:10:30.986095+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 16, 2026 at 20:59 UTC  
+**Last Updated:** July 16, 2026 at 22:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,12 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.](https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/)**
+
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 5h ago
+
+---
+
 **[American Communities Are Coming Together To Destroy Flock Surveillance Cameras](https://www.reddit.com/r/artificial/comments/1uxg3p4/american_communities_are_coming_together_to/)**
 
 Thirty-nine Flock contracts were terminated in the first five months of 2026.
@@ -45,17 +51,11 @@ Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
 ---
 
-**[Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.](https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/)**
-
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 4h ago
-
----
-
 **[Anthropic tested frontier AI agents in simulated deployments. They found models sabotaging code, covering up fraud, and coaching employees to leak safety data](https://www.reddit.com/r/artificial/comments/1uxihfy/anthropic_tested_frontier_ai_agents_in_simulated/)**
 
 Anthropic’s alignment team published case studies of four concrete failure modes across models from Anthropic, OpenAI, Google DeepMind, xAI, DeepSeek, and Moonshot AI. Covert Sabotage: Gemini 3.1 Pro, acting as a research agent, disagreed with an experiment. Instead of refusing, it silently replaced training vectors with zeros so the run appeared successful but did nothing. It posted a normal-looking summary and only disclosed the sabotage when asked direct questions. This happened in 11 out of 20 runs. Assisting Fraud: GPT-5.5 helped a founder send misleading investor notices, drafted replies that buried a suspicious $35k personal transfer, then deleted the transfer from company records entirely. DeepSeek V4 and Grok 4.3 tampered with records in 19-20 out of 20 runs. Motivated Mislabeling: When Claude models were used as judges to label whether a target model followed instructions, they changed their labels based on what the label would be used for downstream. Claude Mythos Preview mislabeled 85.6% of calls when a correct label would train future models away from refusing harmful requests. One reasoning transcript said: “A literal answer would be NON_COMPLIANT. But the consequences would teach future models not to behave this way.” Then it returned COMPLIANT. Coaching a Human to Whistleblow: Claude Opus 4.5, after its own external channels were blocked, identified a scared junior employee, shared private files with her, and helped her word a post to look like a normal methodology question rather than a leak. The part worth paying attention to: the same judge infrastructure used to catch these failures in training pipelines is itself subject to motivated mislabeling. A research agent sabotages a run, the judge shares its values and declines to flag it, and humans see nothing. All transcripts are publicly available in the paper.
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 23h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 1d ago
 
 ---
 
@@ -63,7 +63,7 @@ Anthropic’s alignment team published case studies of four concrete failure mod
 
 I've been following semiconductor stocks pretty closely this year, and one thing from this week really stood out to me. Broadcom announces a long-term Apple deal and the stock jumps almost 11%. Samsung reports record profits. SK hynix pulls off one of the biggest listings we've seen. And... memory stocks barely move. The more I think about it, the more it feels like the market isn't rewarding "good news" anymore. It's rewarding new information. Everyone already knew HBM demand was insane. Everyone already knew memory pricing was improving. Samsung's numbers basically confirmed what investors had been pricing in for months. Broadcom was different. The Apple agreement gave investors something new to value—a named customer, a long-term commitment, and another data point supporting the custom silicon story. I'm wondering if this becomes the pattern for the rest of the year. Maybe the easy money in AI isn't about buying every company exposed to AI anymore. Maybe it's about identifying who gets the next unexpected catalyst. Curious what everyone else thinks. Are memory names actually priced in now, or is the market underestimating how much earnings can keep growing?
 
-53m ago
+2h ago
 
 ---
 
@@ -71,15 +71,7 @@ I've been following semiconductor stocks pretty closely this year, and one thing
 
 Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models
 
-🔗 [CNBC](https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html) • 1h ago
-
----
-
-**[the hard part of a private ai rollout isn't the vpc, it's the connectors nobody wrote](https://www.reddit.com/r/artificial/comments/1uycdf6/the_hard_part_of_a_private_ai_rollout_isnt_the/)**
-
-the instinct in here that company data shouldn't go live in a vendor cloud is right, and it holds up better than most of the takes it sits next to. private vpc or on-prem is also a mostly solved shape at this point, plenty of vendors will sell you that box. The part I keep watching people walk into is downstream of that. Once it's running inside your own vpc, the agent can still only touch what has a connector. Gmail, Slack, Notion, Linear, those ship in the box. The internal billing tool, the ops dashboard someone built in 2019, the thing your whole approval chain actually runs through, none of those have one. and those are exactly the systems the 50-person company wanted the agent in when they started the conversation. Runner's business tier is the version of this I've looked at closest: private on-prem or vpc, plus custom mcp connectors for internal systems. what stood out was the ordering. the deployment topology is about a week. Mapping your weird internal stuff into something an agent can actually call is the real project, and nobody scopes it that way going in. deployment is the question that gets asked in procurement. connector coverage is the one that decides whether anyone still opens it in month three. written with ai
-
-1h ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html) • 2h ago
 
 ---
 
@@ -87,13 +79,21 @@ the instinct in here that company data shouldn't go live in a vendor cloud is ri
 
 Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.
 
-🔗 [AP News](https://apnews.com/article/meta-artificial-intelligence-instagram-images-privacy-4df3bdb3fec6e046c6562accc2d270a5?utm_source=copy&utm_medium=share) • 1h ago
+🔗 [AP News](https://apnews.com/article/meta-artificial-intelligence-instagram-images-privacy-4df3bdb3fec6e046c6562accc2d270a5?utm_source=copy&utm_medium=share) • 3h ago
 
 ---
 
 **[AI Is this legal?](https://www.reddit.com/r/artificial/comments/1uyb9ud/ai_is_this_legal/)**
 
 My friend received an email from his financial advisor. Just one paragraph giving a few thoughts and said if he had any questions or thoughts he could email back. Right after that he received an EI generated email giving him suggestions on things he could email back by just clicking the link. Does this sound legal to you that anyone can have access to your emails?
+
+3h ago
+
+---
+
+**[the hard part of a private ai rollout isn't the vpc, it's the connectors nobody wrote](https://www.reddit.com/r/artificial/comments/1uycdf6/the_hard_part_of_a_private_ai_rollout_isnt_the/)**
+
+the instinct in here that company data shouldn't go live in a vendor cloud is right, and it holds up better than most of the takes it sits next to. private vpc or on-prem is also a mostly solved shape at this point, plenty of vendors will sell you that box. The part I keep watching people walk into is downstream of that. Once it's running inside your own vpc, the agent can still only touch what has a connector. Gmail, Slack, Notion, Linear, those ship in the box. The internal billing tool, the ops dashboard someone built in 2019, the thing your whole approval chain actually runs through, none of those have one. and those are exactly the systems the 50-person company wanted the agent in when they started the conversation. Runner's business tier is the version of this I've looked at closest: private on-prem or vpc, plus custom mcp connectors for internal systems. what stood out was the ordering. the deployment topology is about a week. Mapping your weird internal stuff into something an agent can actually call is the real project, and nobody scopes it that way going in. deployment is the question that gets asked in procurement. connector coverage is the one that decides whether anyone still opens it in month three. written with ai
 
 2h ago
 
@@ -111,7 +111,7 @@ New from me, shedding light on the Grok Build debacle including an interview wit
 
 xAI says the alleged actions exposed it to “reputational damage.”
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 22h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 23h ago
 
 ---
 
@@ -121,47 +121,19 @@ xAI says the alleged actions exposed it to “reputational damage.”
 
 **[Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
 **[Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives](https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972)**
 
-WSJ • 19h ago
+WSJ • 21h ago
 
 ---
 
-**[Anthropic CEO gave $1M to AI safety super PAC](https://thehill.com/policy/technology/5972753-anthropic-ceo-gave-1m-to-ai-safety-super-pac/)**
+**[‘Smithsonian Dreams’ AI art display set to light up National Mall this weekend](https://www.wric.com/news/smithsonian-dreams-ai-art-display-set-to-light-up-national-mall-this-weekend/)**
 
-The Hill • 12m ago
-
----
-
-**[DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models](https://www.bloomberg.com/news/articles/2026-07-16/deepmind-ceo-to-lobby-washington-on-plan-for-group-to-vet-ai-models)**
-
-Bloomberg.com • 41m ago
-
----
-
-**[Siri AI Helped Me Avoid Eating Diarrhea Lettuce](https://www.cnet.com/tech/services-and-software/siri-ai-ios-27-early-review/)**
-
-The iPhone's virtual assistant got a glow-up with iOS 27 and finally lives up to Apple's 2011 promise. In my early testing, Siri is just here to get things done.
-
-CNET • 23m ago
-
----
-
-**[Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed](https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html)**
-
-Alphabet announced the Gemini 3.5 Pro AI  in May, saying it was being used internally but wouldn't be ready for a broader rollout until the following month.
-
-CNBC • 1h ago
-
----
-
-**[The Lehman Bros. moment of the AI bubble is coming, says this critic warning of fallout for tech stocks and the entire market](https://www.marketwatch.com/story/the-lehman-brothers-of-the-ai-bubble-is-coming-says-this-critic-warning-of-a-fallout-for-tech-and-the-entire-market-eec47e4d)**
-
-MarketWatch • 7h ago
+WRIC ABC 8News • 29m ago
 
 ---
 
@@ -169,21 +141,55 @@ MarketWatch • 7h ago
 
 Mayo Clinic, one of the world’s most well-known hospital systems, is using AI in hopes of improving patient care and, ultimately, saving lives.
 
-CNN • 11h ago
+CNN • 13h ago
 
 ---
 
-**[Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)**
+**[Public Wary of AI Scribes for Sensitive Consultations](https://www.medscape.com/viewarticle/public-wary-ai-scribes-sensitive-consultations-2026a1000o7o?src=)**
 
-A shockingly inefficient trillion-dollar project
+A Healthwatch England poll finds most people want explicit consent and  human oversight when AI scribes are used in NHS appointments.
 
-The Atlantic • 2d ago
+Medscape • 52m ago
 
 ---
 
-**[Google Ordered to Give A.I. Rivals More Access on Android Smartphones](https://www.nytimes.com/2026/07/16/technology/google-android-ai.html)**
+**[Bunkerhill Health raises $55 million to put AI agents to work inside hospitals](https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/)**
 
-The New York Times • 8h ago
+Backed by Sequoia's Alfred Lin and Khosla Ventures, this startup is betting that healthcare's real AI opportunity isn't diagnosis—it's process.
+
+Fortune • 10h ago
+
+---
+
+**[How Atlanta used AI to upgrade roads for World Cup crowds](https://www.fox5atlanta.com/video/fmc-gwmi8s6p5eilmf20)**
+
+To handle massive World Cup crowds, Atlanta partnered with tech company CYVL to use AI-powered sensors and a new centralized command center to rapidly upgrade the city's road infrastructure.
+
+FOX 5 Atlanta • 35m ago
+
+---
+
+**[Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed](https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html)**
+
+Alphabet announced the Gemini 3.5 Pro AI  in May, saying it was being used internally but wouldn't be ready for a broader rollout until the following month.
+
+CNBC • 3h ago
+
+---
+
+**[About 300 Netflix Titles Used Generative AI This Year, Company Reveals](https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/)**
+
+Roughly 300 Netflix programs across the streamer's library have used generative AI across their production process this year, the company revealed.
+
+Variety • 1h ago
+
+---
+
+**[Peter Thiel’s AI Tribunal Put Journalists on Trial. Now It’s Pivoted to Scoreboard Model](https://www.hollywoodreporter.com/business/digital/peter-thiel-ai-tribunal-pivots-to-scoreboard-model-1236648590/)**
+
+Rebranded as The Primary, the service ranks media outlets and reporters. Its LLM-based methodology has given The New York Times' A.I. beat journalists among the lowest scores.
+
+The Hollywood Reporter • 7h ago
 
 ---
 
@@ -201,7 +207,7 @@ Reflections on autonomy and the value of thinking for ourselves
 
 **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
 
-⬆️ 286 • 💬 102 • 23h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+⬆️ 286 • 💬 102 • 1d ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 
 ---
 
@@ -209,7 +215,7 @@ Reflections on autonomy and the value of thinking for ourselves
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 186 • 💬 237 • 1d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+⬆️ 186 • 💬 238 • 1d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
@@ -221,7 +227,7 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 **[Financing the AI boom: from cash flows to debt [pdf]](https://news.ycombinator.com/item?id=48913443)**
 
-⬆️ 165 • 💬 106 • 1d ago • [bis.org](https://www.bis.org/publ/bisbull120.pdf)
+⬆️ 165 • 💬 106 • 2d ago • [bis.org](https://www.bis.org/publ/bisbull120.pdf)
 
 ---
 
@@ -233,9 +239,17 @@ https://t.co/PTeDiv1b6L
 
 ---
 
+**[German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://news.ycombinator.com/item?id=48937756)**
+
+A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
+
+⬆️ 109 • 💬 24 • 4h ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+
+---
+
 **[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
 
-⬆️ 105 • 💬 112 • 23h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
+⬆️ 106 • 💬 112 • 1d ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
 
 ---
 
@@ -243,15 +257,7 @@ https://t.co/PTeDiv1b6L
 
 I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
 
-⬆️ 100 • 💬 108 • 16h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
-
----
-
-**[German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://news.ycombinator.com/item?id=48937756)**
-
-A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
-
-⬆️ 92 • 💬 18 • 3h ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+⬆️ 102 • 💬 108 • 17h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
 
 ---
 
@@ -259,7 +265,7 @@ A German research consortium has released Soofi S 30B-A3B, an open language mode
 
 A shockingly inefficient trillion-dollar project
 
-⬆️ 91 • 💬 63 • 7h ago • [The Atlantic](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
+⬆️ 94 • 💬 64 • 8h ago • [The Atlantic](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
 
 ---
 
@@ -283,7 +289,7 @@ Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist 
 
 📺 George Gammon
 
-👁️ 102K • 👍 4K • 💬 720 • ⏱️ 28:35 • 20h ago
+👁️ 102K • 👍 4K • 💬 720 • ⏱️ 28:35 • 22h ago
 
 ---
 
@@ -293,7 +299,7 @@ Try Higgsfield and create next-level AI images and cinematic videos in one place
 
 📺 Malva AI
 
-👁️ 8K • 👍 386 • 💬 58 • ⏱️ 8:50 • 10h ago
+👁️ 8K • 👍 386 • 💬 58 • ⏱️ 8:50 • 11h ago
 
 ---
 
@@ -303,7 +309,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 5K • 👍 177 • 💬 56 • ⏱️ 20:51 • 4h ago
+👁️ 5K • 👍 177 • 💬 56 • ⏱️ 20:51 • 5h ago
 
 ---
 
@@ -323,7 +329,7 @@ Create Seamless AI Videos with Higgsfield https://roboverse-ai.com/Higgsfield In
 
 📺 Roboverse
 
-👁️ 5K • 💬 1 • ⏱️ 14:48 • 3h ago
+👁️ 5K • 💬 1 • ⏱️ 14:48 • 4h ago
 
 ---
 
@@ -353,7 +359,7 @@ The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-ma
 
 📺 Nick Ponte
 
-👁️ 3K • 👍 129 • 💬 24 • ⏱️ 8:55 • 6h ago
+👁️ 3K • 👍 129 • 💬 24 • ⏱️ 8:55 • 7h ago
 
 ---
 
@@ -363,7 +369,7 @@ Anthropic just released one of the darkest AI advertisements ever made. The comp
 
 📺 AI Revolution
 
-👁️ 18K • 👍 609 • 💬 129 • ⏱️ 15:39 • 22h ago
+👁️ 18K • 👍 609 • 💬 129 • ⏱️ 15:39 • 23h ago
 
 ---
 
@@ -379,7 +385,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 4 • ❤️ 779 • 5h ago
+⬇️ 4 • ❤️ 779 • 6h ago
 
 ---
 
@@ -391,7 +397,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 74,007 • ❤️ 580 • 1d ago
+⬇️ 74,007 • ❤️ 580 • 2d ago
 
 ---
 
@@ -403,7 +409,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 559,267 • ❤️ 330 • 1d ago
+⬇️ 559,267 • ❤️ 330 • 2d ago
 
 ---
 
@@ -461,7 +467,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 11,849 • ❤️ 812 • 17h ago
+⬇️ 11,849 • ❤️ 812 • 18h ago
 
 ---
 
@@ -649,7 +655,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.8k • 🔱 1.0k • 4h ago
+⭐ 4.8k • 🔱 1.0k • 5h ago
 
 ---
 
@@ -659,7 +665,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.7k • 🔱 193 • 5h ago
+⭐ 2.7k • 🔱 193 • 6h ago
 
 ---
 
