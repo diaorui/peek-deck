@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T15:09:32.160599+00:00'
+updated: '2026-07-16T16:49:14.600512+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 15:09 UTC  
+**Last Updated:** July 16, 2026 at 16:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
+**24h:** -2.7%  
 **7d:** +4.4%  
 **30d:** +7.2%  
 **90d:** -20.2%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello, A little while ago I posted about a project concept I had. The idea was a
 
 Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
 
-18h ago
+20h ago
 
 ---
 
@@ -150,19 +150,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
+
+The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
+
+CoinDesk • 2d ago
+
+---
+
 **[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
 CoinDesk • 1d ago
-
----
-
-**[Bitmine (BMNR) Rockets 11.5%; Big Investors Double Down on its Ethereum Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-rockets-11-5-013603059.html)**
-
-Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -174,6 +174,14 @@ The Block • 1d ago
 
 ---
 
+**[Bitmine (BMNR) Rockets 11.5%; Big Investors Double Down on its Ethereum Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-rockets-11-5-013603059.html)**
+
+Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
 
 The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
@@ -182,11 +190,11 @@ CoinDesk • 3d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, July 16, 2026: Prices rise, ethereum becomes 'increasingly compelling'](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-16-2026-prices-rise-ethereum-becomes-increasingly-compelling-124218108.html)**
+**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
 
-Bitcoin opened at $64,720.36 on Thursday, July 16, 2026, down 0.4% from Wednesday's opening price. Ethereum opened at $1,917.05, up 1.5% from yesterday's opening price.
+BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
 
-Yahoo Finance • 2h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -194,13 +202,13 @@ Yahoo Finance • 2h ago
 
 According to Bitmine chairman Tom Lee, the "Uncanny Valley of Wealth" is a future in which AI creates an increasingly large share of global wealth.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -208,7 +216,7 @@ MarketWatch • 1h ago
 
 The chain's updated technical roadmap will see it add major new features.
 
-The Motley Fool • 15h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -216,13 +224,7 @@ The Motley Fool • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
-
----
-
-**[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
-
-thestreet.com • 21h ago
+Fortune • 2h ago
 
 ---
 
@@ -236,7 +238,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 397 • 💬 306 • ⏱️ 14:25 • 15h ago
+👁️ 6K • 👍 397 • 💬 306 • ⏱️ 14:25 • 16h ago
 
 ---
 
@@ -246,7 +248,7 @@ Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry s
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 503 • 💬 35 • ⏱️ 51:54 • 12h ago
+👁️ 7K • 👍 503 • 💬 35 • ⏱️ 51:54 • 13h ago
 
 ---
 
@@ -256,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 245 • 💬 22 • ⏱️ 18:30 • 21h ago
+👁️ 6K • 👍 245 • 💬 22 • ⏱️ 18:30 • 23h ago
 
 ---
 
@@ -284,7 +286,7 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 482 • 💬 50 • ⏱️ 2:00 • 14h ago
+👁️ 5K • 👍 482 • 💬 50 • ⏱️ 2:00 • 15h ago
 
 ---
 
@@ -294,7 +296,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 148 • 💬 31 • ⏱️ 11:05 • 1d ago
+👁️ 5K • 👍 148 • 💬 31 • ⏱️ 11:05 • 2d ago
 
 ---
 
@@ -314,7 +316,7 @@ XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PL
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 272 • 💬 16 • ⏱️ 43:18 • 20h ago
+👁️ 5K • 👍 272 • 💬 16 • ⏱️ 43:18 • 22h ago
 
 ---
 

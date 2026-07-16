@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-16T15:09:32.155360+00:00'
+updated: '2026-07-16T16:49:14.594276+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 15:09 UTC  
+**Last Updated:** July 16, 2026 at 16:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,389.85
+### $64,776.89
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.1%  
-**7d:** +0.4%  
+**7d:** +0.3%  
 **30d:** -0.1%  
-**90d:** -14.9%  
+**90d:** -15.0%  
 **1y:** -46.0%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[This guy was mining 1 Bitcoin every day in 2011. He built an $800 gaming PC, downloaded the mining software, ran it 24/7, and was earning Bitcoin like it was nothing. A true legend from the early days of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxij3x/this_guy_was_mining_1_bitcoin_every_day_in_2011/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -119,13 +119,13 @@ Lemme hear your favorite bitcoin songs!
 
 Man bitcoin has done absolutely nothing today. Just sitting there chopping between the same levels for hours. Small wicks up and down, volume looks dead, no real direction at all. But I swear I can feel it. That same vibe right before it decides to go crazy. Like its just waiting for everyone to get bored and look away then boom. This shit happens every single time. Quiet period then out of nowhere a mad move. Anyone else staring at the chart right now feeling the exact same thing? Or is it just me?
 
-18h ago
+20h ago
 
 ---
 
 **[iPhone VS Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxbi3b/iphone_vs_bitcoin/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -133,7 +133,7 @@ Man bitcoin has done absolutely nothing today. Just sitting there chopping betwe
 
 For context for anyone who is unaware, in 1933 US Government declared all US citizens must sell their Gold to the US government for $20.67 and oz. Forcing their citizens to trade a hard asset for fiat. The next year they turned around and repriced that same gold at $35 an ounce. Is this something you see as a threat to BTC in the future in the United States? Any plans to circumnavigate or protect yourself besides maybe a foreign citizenship?
 
-20h ago
+22h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gai
 
 With the United States now at war with Iran, I keep thinking about an older argument from the Bitcoin movement. Wasn’t Bitcoin supposed to be part of the anti-war movement? Early Bitcoin culture was not only about getting rich, ETFs, corporate treasuries, or governments building strategic reserves. Bitcoin was presented as a way to challenge the monetary system that makes endless war possible. The basic argument was simple: Governments can wage wars that voters would never support if they had to pay the full cost immediately through higher taxes. Instead, wars are financed through debt, monetary expansion, and inflation. The costs are spread across decades and hidden inside higher prices, interest payments, and a weaker currency. Bitcoin was supposed to change that equation. A fixed-supply, politically neutral form of money would theoretically make it harder for governments to create money, quietly expand debt, and pass the cost of war onto future generations. Bitcoin would not make war impossible. But it could make the cost of war more visible. Yet during the Iran war, much of Bitcoin culture seems strangely silent. The conversation is mostly about whether oil prices will push Bitcoin higher, whether governments will buy more Bitcoin, and whether war will become another bullish catalyst. That feels like a major cultural shift. Bitcoin began as an attempt to separate money from state power. Now parts of the movement seem more interested in getting Bitcoin adopted by the same governments, financial institutions, and military powers it was originally supposed to constrain. Maybe Bitcoin itself has not changed. The network remains neutral. But the culture around it has. So here is the uncomfortable question: Did Bitcoin fail as an anti-war movement—or did Bitcoiners simply stop caring about the anti-war part once the price started going up?
 
-21h ago
+23h ago
 
 ---
 
@@ -161,7 +161,7 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 The coins went to a fresh address rather than an exchange, so nothing has been sold yet.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -169,45 +169,29 @@ CoinDesk • 8h ago
 
 Strategy would begin considering risks associated with its debt only if bitcoin falls to around $8,000-$10,000, CEO Phong Le said.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
-**[Strategy (MSTR) Launches Bitcoin Banking Index As It Builds A $3 Billion Reserve](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-launches-bitcoin-banking-011345883.html)**
+**[Toby Doeden: A bitcoin evangelist and anti-property-tax crusader who wants to be governor](https://southdakotasearchlight.com/2026/07/16/toby-doeden-a-bitcoin-evangelist-and-anti-property-tax-crusader-who-wants-to-be-governor/)**
 
-Strategy Inc. (NasdaqGS:MSTR) has introduced a Bitcoin Banking Adoption Index, aimed at tracking how traditional financial institutions are engaging with Bitcoin. The company is shifting its treasury approach by pausing new Bitcoin purchases and raising cash through stock issuance to build a larger US$ reserve. Strategy is best known for its strong association with Bitcoin, so this shift in capital and treasury decisions is a material development for anyone following NasdaqGS:MSTR. The...
+Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin News: Phong Le Sets $8K–$10K as Strategy’s Debt Risk Threshold for Bitcoin](https://www.tradingview.com/news/cryptonews:244bf3d4f094b:0-bitcoin-news-phong-le-sets-8k-10k-as-strategy-s-debt-risk-threshold-for-bitcoin/)**
-
-In the latest Bitcoin news, Strategy CEO Phong Le told that the company’s balance sheet would remain very secure until Bitcoin reaches the $8,000–$10,000 range-framing it as a capital-structure stress threshold tied to debt risk rather than a market call. At BTC’s current price of ~$64,500, that le…
-
-TradingView • 4h ago
+South Dakota Searchlight • 1h ago
 
 ---
 
-**[Prediction: Bitcoin Will Double in Value by the End of 2027 -- Here's How](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-double-value-end-142300399.html)**
+**[Gold and Silver Lost $700B as Iran Threatens Bab el-Mandeb. Will Bitcoin Follow?](https://finance.yahoo.com/markets/commodities/articles/gold-silver-lost-700b-iran-154209902.html)**
 
-If history is any guide, Bitcoin can easily regain the $125,000 price level next year.
-
-Yahoo Finance • 46m ago
-
----
-
-**[Stanford Study Finds Signs of Bitcoin Market Manipulation on Polymarket, $8.2M in Profits Identified](https://finance.yahoo.com/markets/crypto/articles/stanford-study-finds-signs-bitcoin-134715897.html)**
-
-A new study identified patterns consistent with settlement-price manipulation in Polymarket's five-minute Bitcoin prediction markets. Researchers flagged 821 likely manipulators, estimating they collectively profited around ...
+Bitcoin's safe-haven edge grows as gold and silver shed $700 billion. Dollar strength and Fed bets crush metals.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Dormant Crypto Wallet Moves $383 Million Of Bitcoin](https://finance.yahoo.com/markets/crypto/articles/dormant-crypto-wallet-moves-383-133500916.html)**
+**[Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years](https://finance.yahoo.com/markets/crypto/articles/dormant-bitcoin-whale-moves-383-154343829.html)**
 
-A cryptocurrency wallet that had been dormant for eight years has transferred 5,908 Bitcoin (CRYPTO: $BTC) worth $3...
+The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.
 
 Yahoo Finance • 1h ago
 
@@ -215,15 +199,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin Miners Cash In as AI Hits a Power Bottleneck](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/webinar-bitcoin-miners-cash-in-on-ai-power-bottleneck/)**
 
-ETF Database • 19h ago
-
----
-
-**[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
-
-Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
-
-Alaska's News Source • 1d ago
+ETF Database • 21h ago
 
 ---
 
@@ -231,7 +207,31 @@ Alaska's News Source • 1d ago
 
 Matt Hougan, Bitwise CIO, joins 'Closing Bell Overtime' to talk tokenization, the recent moves in bitcoin, and more.
 
-CNBC • 18h ago
+CNBC • 19h ago
+
+---
+
+**[Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-64k-following-largest-152427907.html)**
+
+Consumer prices cooled more than expected in June, yet geopolitical tensions continue to cast a shadow over crypto prices
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin Clawed Its Way Back Over $65,000. Here’s Why—and What to Know Now](https://www.investopedia.com/bitcoin-clawed-its-way-back-over-usd65-000-here-s-why-and-what-to-know-now-12019866)**
+
+The price of the world’s largest cryptocurrency traded above the $65,000 level for the first time in weeks.
+
+Investopedia • 21h ago
+
+---
+
+**[Two groups of BTC investors sell on the rise as prices near $65,000.](https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000)**
+
+Two distinct groups of on-chain holders are selling into BTC’s price bounce.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -273,7 +273,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 **[Show HN: I built a zero-regex AI WAF (200MB VRAM). Please try to bypass it](https://news.ycombinator.com/item?id=48927265)**
 
-⬆️ 1 • 💬 0 • 17h ago
+⬆️ 1 • 💬 0 • 19h ago
 
 ---
 
@@ -297,7 +297,7 @@ I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on 
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 82 • ⏱️ 10:38 • 15h ago
+👁️ 30K • 👍 2K • 💬 82 • ⏱️ 10:38 • 17h ago
 
 ---
 
@@ -317,7 +317,7 @@ In today's video, Kyledoops outlines whether this next Bitcoin dip is the one to
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 962 • 💬 20 • ⏱️ 42:52 • 7h ago
+👁️ 10K • 👍 962 • 💬 20 • ⏱️ 42:52 • 8h ago
 
 ---
 
@@ -327,7 +327,7 @@ Join The Dead Serious Club: https://www.youtube.com/channel/UCVeA0YuBpTi-CYsUYgZ
 
 📺 Ashleigh Banfield x Drop Dead Serious
 
-👁️ 18K • 👍 2K • 💬 145 • ⏱️ 2:34 • 17h ago
+👁️ 18K • 👍 2K • 💬 145 • ⏱️ 2:34 • 18h ago
 
 ---
 
@@ -337,7 +337,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 8K • 👍 520 • 💬 198 • ⏱️ 10:51 • 21h ago
+👁️ 8K • 👍 520 • 💬 198 • ⏱️ 10:51 • 22h ago
 
 ---
 
@@ -347,7 +347,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Crypto Banter
 
-👁️ 2K • 👍 136 • 💬 3 • ⏱️ 30:31 • 4h ago
+👁️ 2K • 👍 136 • 💬 3 • ⏱️ 30:31 • 6h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin vs. gold is diverging from previous 4 year cycle moves. Altcoin dominanc
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 569 • 💬 219 • ⏱️ 15:56 • 23h ago
+👁️ 8K • 👍 569 • 💬 219 • ⏱️ 15:56 • 1d ago
 
 ---
 

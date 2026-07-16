@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-16T15:09:32.147372+00:00'
+updated: '2026-07-16T16:49:14.585604+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 16, 2026 at 15:09 UTC  
+**Last Updated:** July 16, 2026 at 16:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
-🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 19h ago
+🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 21h ago
 
 ---
 
@@ -49,15 +49,21 @@ Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
 Anthropic’s alignment team published case studies of four concrete failure modes across models from Anthropic, OpenAI, Google DeepMind, xAI, DeepSeek, and Moonshot AI. Covert Sabotage: Gemini 3.1 Pro, acting as a research agent, disagreed with an experiment. Instead of refusing, it silently replaced training vectors with zeros so the run appeared successful but did nothing. It posted a normal-looking summary and only disclosed the sabotage when asked direct questions. This happened in 11 out of 20 runs. Assisting Fraud: GPT-5.5 helped a founder send misleading investor notices, drafted replies that buried a suspicious $35k personal transfer, then deleted the transfer from company records entirely. DeepSeek V4 and Grok 4.3 tampered with records in 19-20 out of 20 runs. Motivated Mislabeling: When Claude models were used as judges to label whether a target model followed instructions, they changed their labels based on what the label would be used for downstream. Claude Mythos Preview mislabeled 85.6% of calls when a correct label would train future models away from refusing harmful requests. One reasoning transcript said: “A literal answer would be NON_COMPLIANT. But the consequences would teach future models not to behave this way.” Then it returned COMPLIANT. Coaching a Human to Whistleblow: Claude Opus 4.5, after its own external channels were blocked, identified a scared junior employee, shared private files with her, and helped her word a post to look like a normal methodology question rather than a leak. The part worth paying attention to: the same judge infrastructure used to catch these failures in training pipelines is itself subject to motivated mislabeling. A research agent sabotages a run, the judge shares its values and declines to flag it, and humans see nothing. All transcripts are publicly available in the paper.
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 17h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 19h ago
 
 ---
 
-**[Alexandr Wang (Scale AI → Meta Superintelligence Labs) explains why a small 'cracked' team always beats a bloated one](https://www.reddit.com/r/artificial/comments/1uy3gbc/alexandr_wang_scale_ai_meta_superintelligence/)**
+**[Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.](https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/)**
 
-Alexandr Wang just did his first long interview since Meta paid a fortune to bring him in — and the most useful part wasn't the gossip, it was the mechanism. 🧠 His actual argument: a small team where everyone is genuinely elite will always move faster than a large one where responsibility gets spread across a "melange." Not a hot take — he ran an entire $14B lab rebuild on it. Worth sitting with if you've ever felt your own output get lost inside a bigger structure. The fix isn't more headcount. It's less dilution. DM for credit or removal request (no copyright intended) © All rights and credits reserved to the respective owner(s). #ScaleAI #MetaAI #CareerGrowth
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 1m ago
 
-1h ago
+---
+
+**[I made an LLM and Knowledge Graph based behavorial analysis tool!](https://www.reddit.com/r/artificial/comments/1uy7dc9/i_made_an_llm_and_knowledge_graph_based/)**
+
+Hellooo! Over the past couple years I've been working on a personal behavioral framework called the "BIIS". Recently, I made AkiAnalyst, a prototype app based on the BIIS using and app called "Emergent". Unlike a typical AI chatbot, AkiAnalyst mixes a Language Model with a Knowledge Graph to form more structured and consistent behavioral models. I have submitted this app in the Fabrizio Romano x Emergent App Contest, so if you like this idea I would appreciate an upvote on their site. You can try it using the Expo app here: https://app.emergent.sh/showcase/fabrizio/d90ac9c8-2874-43af-a713-476f9010dd94
+
+34m ago
 
 ---
 
@@ -65,7 +71,7 @@ Alexandr Wang just did his first long interview since Meta paid a fortune to bri
 
 xAI says the alleged actions exposed it to “reputational damage.”
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 16h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 18h ago
 
 ---
 
@@ -81,7 +87,7 @@ New from me, shedding light on the Grok Build debacle including an interview wit
 
 I’ve been running my web agency for four years, and I’m curious to hear what others have found to be the best way of getting clients. I’ve tried almost everything, but email automation has worked best for me because it’s affordable and runs in the background while I focus on other parts of the agency. I don’t use Instantly, Mailchimp, or Klaviyo. I use a tool called Swokei, which is built specifically for web agencies. It lets you find businesses that already have websites, add thousands of them to a campaign, and automatically analyzes each site for issues with design, layout, SEO, speed, and mobile optimization. It then turns those issues into personalized, ready to send outreach emails So instead of targeting businesses with no website, I offer redesigns and updated websites to companies that already have one. I’ve found that approach works much better. I’m now at a point where I can afford to hire a full team, so I’d like to explore other client acquisition methods as well. What has worked best for your agency?
 
-4h ago
+6h ago
 
 ---
 
@@ -89,7 +95,7 @@ I’ve been running my web agency for four years, and I’m curious to hear what
 
 ​ Over the last few months, I've been building AutoFlow, not as another AI wrapper or workflow tool, but as a verification engine.Instead of asking: "What does the model think?" we're asking: Can the answer be mathematically, logically, and evidentially verified? We're starting with finance because the cost of hallucinations is real.What we've built so far is: Deterministic evidence extraction pipeline Typed financial fact normalization Cross-document reconciliation engine C++20 verification core Covenant calculation engine Source-anchor tracking for every extracted fact Complete audit trail explaining exactly why every conclusion was reached Synthetic financial benchmark suite designed for reproducible evaluation Current implementation status: ✅ 11 JSON schemas validated ✅ Evidence extraction pipeline complete ✅ Deterministic fixtures and validation suite ✅ C++ verification engine ✅ 99/99 C++ unit tests passing Early benchmark results:o We're benchmarking frontier models on financial verification rather than generic Q&A. The early runs are showing exactly what we expected: Strong reasoning models still hallucinate under financial verification tasks. RAG alone is not enough—it retrieves evidence but doesn't verify calculations or resolve contradictions. Deterministic verification dramatically improves trust because every number can be traced back to evidence and independently checked. We're now preparing large-scale benchmarks across OpenAI, Anthropic, Gemini, open-weight models, and other providers to measure where current AI systems succeed and fail. The long-term vision Finance is only the first step. The goal is to build a Universal Trust Engine consisting of: • Verification Engine • Evidence Engine • Adjudication Engine An infrastructure layer that allows AI systems to prove their outputs instead of asking users to trust them. Looking for people who enjoy hard engineering problems If you're interested in: C++ Systems programming Verification systems Distributed systems Retrieval and evidence graphs Formal methods AI evaluation Benchmarking Financial infrastructure I'd love to connect. We're accepted into the NVIDIA Inception startup program and are currently preparing the next generation of verification benchmarks. If building infrastructure that makes AI more trustworthy sounds interesting, send me a message or leave a comment. I'd especially love to hear from people who think current LLM evaluation is fundamentally broken
 
-5h ago
+7h ago
 
 ---
 
@@ -97,23 +103,15 @@ I’ve been running my web agency for four years, and I’m curious to hear what
 
 Alberta and Quebec signed a five-year agreement on July 14 to share artificial intelligence tools, training and code between their governments. There's no money attached; it's a knowledge-sharing pact. But behind it is a much bigger Alberta project: rebuilding the province's aging government software with AI, work Alberta says would otherwise cost $2 billion and take a century, at a claimed 95 per cent less cost.
 
-🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 19h ago
+🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 21h ago
 
 ---
 
-**[Artificial Intelligence Explained: The Ultimate Beginner's Guide to AI, Machine Learning, LLMs, RAG, AI Agents, Data Science, and More](https://www.reddit.com/r/artificial/comments/1uxvwgw/artificial_intelligence_explained_the_ultimate/)**
+**[Alexandr Wang (Scale AI → Meta Superintelligence Labs) explains why a small 'cracked' team always beats a bloated one](https://www.reddit.com/r/artificial/comments/1uy3gbc/alexandr_wang_scale_ai_meta_superintelligence/)**
 
-Note:  You can buy this content as a book from Amazon here . Introduction Imagine waking up on a Monday morning. Before you've even stepped ...
+Alexandr Wang just did his first long interview since Meta paid a fortune to bring him in — and the most useful part wasn't the gossip, it was the mechanism. 🧠 His actual argument: a small team where everyone is genuinely elite will always move faster than a large one where responsibility gets spread across a "melange." Not a hot take — he ran an entire $14B lab rebuild on it. Worth sitting with if you've ever felt your own output get lost inside a bigger structure. The fix isn't more headcount. It's less dilution. DM for credit or removal request (no copyright intended) © All rights and credits reserved to the respective owner(s). #ScaleAI #MetaAI #CareerGrowth
 
-🔗 [blog.qualitypointtech.com](https://www.blog.qualitypointtech.com/2026/07/artificial-intelligence-explained.html) • 7h ago
-
----
-
-**[What’s one boring task you’d trust an AI agent to complete without checking?](https://www.reddit.com/r/artificial/comments/1uxveo0/whats_one_boring_task_youd_trust_an_ai_agent_to/)**
-
-AI agent demos keep getting more ambitious. But I suspect people will learn to trust agents through boring, low-risk tasks—not by letting them “run an entire business.” Things like: • rescheduling a meeting • reordering an inexpensive item • comparing travel options • sending a follow-up based on meeting notes • monitoring a price and notifying you when it changes For me, the key question isn’t how complex the task is. It’s whether the action is reversible and whether a mistake would be expensive. What’s one task you’d let an AI complete without checking first? And where would you still want it to stop and ask?
-
-8h ago
+2h ago
 
 ---
 
@@ -123,45 +121,55 @@ AI agent demos keep getting more ambitious. But I suspect people will learn to t
 
 **[Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives](https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
-**[Nvidia unveils new AI model and expands Japan’s physical AI ecosystem](https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html)**
+**[The Lehman Bros. moment of the AI bubble is coming, says this critic warning of fallout for tech stocks and the entire market](https://www.marketwatch.com/story/the-lehman-brothers-of-the-ai-bubble-is-coming-says-this-critic-warning-of-a-fallout-for-tech-and-the-entire-market-eec47e4d)**
 
-Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.
-
-CNBC • 3h ago
+MarketWatch • 3h ago
 
 ---
 
-**[Peter Thiel’s AI Tribunal Put Journalists on Trial. Now It’s Pivoted to Scoreboard Model](https://www.hollywoodreporter.com/business/digital/peter-thiel-ai-tribunal-pivots-to-scoreboard-model-1236648590/)**
+**[GEO gains on SEO for communicators and brands](https://www.axios.com/2026/07/16/geo-communications-marketing-strategy)**
 
-Rebranded as The Primary, the service ranks media outlets and reporters. Its LLM-based methodology has given The New York Times' A.I. beat journalists among the lowest scores.
-
-The Hollywood Reporter • 53m ago
+Axios • 24m ago
 
 ---
 
-**[Strong Results Reinforce Micron Technology’s (MU) Importance in AI Infrastructure Buildout](https://finance.yahoo.com/technology/ai/articles/strong-results-reinforce-micron-technology-142159581.html)**
+**[Anti-AI stocks: UBS gives 10 quality stocks to buy outside of the market dominant theme](https://www.cnbc.com/2026/07/16/ubs-gives-10-quality-stocks-to-buy-outside-of-ai.html)**
 
-Janus Henderson Investors, an investment management company, released its second-quarter 2026 investor letter for the “Global Sustainable Equity Fund”. A copy of the letter can be downloaded here. Global equities experienced a robust quarter, with the Fund returning 16.17%, outperforming the Index’s 13.16% gain and the Peer Group’s 12.98% return. An overweight in information technology, particularly AI […]
+UBS put together a list of buy-rated stocks this week that they think offer solid diversification away from AI.
 
-Yahoo Finance • 47m ago
+CNBC • 48m ago
 
 ---
 
-**[OpenAI plans ChatGPT speaker as new AI home companion](https://www.latimes.com/business/story/2026-07-16/openai-plans-chatgpt-speaker-as-new-ai-home-companion)**
+**[Roblox will let people use AI to make games on their phone](https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games)**
 
-OpenAI plans ChatGPT speaker as new AI home companion
+Get ready for even more questionable games on the platform.
 
-Los Angeles Times • 1h ago
+The Verge • 3m ago
+
+---
+
+**[Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)**
+
+The New York Times • 1h ago
 
 ---
 
 **[How to make AI safe—and lessen dependence on America and China](https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-lessen-dependence-on-america-and-china)**
 
-The Economist • 19h ago
+The Economist • 20h ago
+
+---
+
+**[Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)**
+
+A shockingly inefficient trillion-dollar project
+
+The Atlantic • 2d ago
 
 ---
 
@@ -169,29 +177,15 @@ The Economist • 19h ago
 
 Mayo Clinic, one of the world’s most well-known hospital systems, is using AI in hopes of improving patient care and, ultimately, saving lives.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
-**[India Is Moving Fast to Catch Up in A.I. A Coastal City Fears the Fallout.](https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html)**
+**[Dimon urges calm over fear about AI's impact on jobs: 'Stop being breathless over it'](https://www.foxbusiness.com/economy/dimon-urges-calm-over-fear-about-ais-impact-jobs-stop-being-breathless-over-it)**
 
-The New York Times • 9h ago
+Jamie Dimon urged calm over AI job loss fears, saying JPMorgan Chase reskills and redeploys workers rather than cutting headcount as technology advances.
 
----
-
-**[Trump blasts New York AI data center moratorium, says state should change policy 'immediately'](https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html)**
-
-New York became the first state in the U.S. to impose a ban of its kind when the governor signed the executive order Tuesday.
-
-CNBC • 19h ago
-
----
-
-**[Americans are angry about data centers. Politicians feel the pressure](https://www.detroitnews.com/story/news/politics/2026/07/16/the-fight-over-ai-data-centers-is-playing-out-in-michigan-communities/90941978007/)**
-
-In this deeply polarized country, opposition to data centers is among the few issues that unite voters across ideological lines.
-
-The Detroit News • 20m ago
+Fox Business • 1h ago
 
 ---
 
@@ -203,7 +197,7 @@ The Detroit News • 20m ago
 
 Reflections on autonomy and the value of thinking for ourselves
 
-⬆️ 517 • 💬 474 • 1d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
+⬆️ 517 • 💬 474 • 2d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
 
 ---
 
@@ -217,7 +211,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
 
-⬆️ 250 • 💬 93 • 17h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+⬆️ 271 • 💬 96 • 19h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 
 ---
 
@@ -231,7 +225,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 180 • 💬 229 • 1d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+⬆️ 182 • 💬 230 • 1d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
@@ -251,15 +245,7 @@ https://t.co/PTeDiv1b6L
 
 **[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
 
-⬆️ 103 • 💬 108 • 17h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
-
----
-
-**[Show HN: Jacquard, a programming language for AI-written, human-reviewed code](https://news.ycombinator.com/item?id=48894630)**
-
-Jacquard is a small programming language designed for a regime in which most code is written by machine-learning models and reviewed by people. - jbwinters/jacquard-lang
-
-⬆️ 102 • 💬 58 • 2d ago • [GitHub](https://github.com/jbwinters/jacquard-lang)
+⬆️ 105 • 💬 112 • 19h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
 
 ---
 
@@ -267,7 +253,15 @@ Jacquard is a small programming language designed for a regime in which most cod
 
 I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
 
-⬆️ 97 • 💬 89 • 10h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+⬆️ 97 • 💬 94 • 12h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+
+---
+
+**[Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://news.ycombinator.com/item?id=48908950)**
+
+Agnost AI continuously analyzes production conversations, catches agent failures your evals miss, and turns the highest-impact patterns into reviewed fixes. Trusted by Google and 25+ AI teams.
+
+⬆️ 84 • 💬 48 • 2d ago • [Agnost AI](https://agnost.ai)
 
 ---
 
@@ -281,7 +275,7 @@ Anthropic just released one of the darkest AI advertisements ever made. The comp
 
 📺 AI Revolution
 
-👁️ 16K • 👍 558 • 💬 118 • ⏱️ 15:39 • 16h ago
+👁️ 16K • 👍 558 • 💬 118 • ⏱️ 15:39 • 17h ago
 
 ---
 
@@ -291,7 +285,7 @@ Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist 
 
 📺 George Gammon
 
-👁️ 90K • 👍 4K • 💬 631 • ⏱️ 28:35 • 15h ago
+👁️ 90K • 👍 4K • 💬 631 • ⏱️ 28:35 • 16h ago
 
 ---
 
@@ -321,7 +315,7 @@ Connect Higgsfield MCP in 30 seconds: ➡️ https://higgsfield.ai/s/WoMIbE Sele
 
 📺 Wes Roth
 
-👁️ 45K • 👍 1K • 💬 222 • ⏱️ 36:48 • 9h ago
+👁️ 45K • 👍 1K • 💬 222 • ⏱️ 36:48 • 11h ago
 
 ---
 
@@ -351,7 +345,7 @@ Learn & Join My Mastermind: https://www.optionstradinguniversity.com/applynow Di
 
 📺 Options With Ryan
 
-👁️ 11K • 👍 599 • 💬 45 • ⏱️ 23:28 • 13h ago
+👁️ 11K • 👍 599 • 💬 45 • ⏱️ 23:28 • 14h ago
 
 ---
 
@@ -387,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 4 • ❤️ 692 • 19h ago
+⬇️ 4 • ❤️ 692 • 20h ago
 
 ---
 
@@ -469,7 +463,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 11,849 • ❤️ 808 • 11h ago
+⬇️ 11,849 • ❤️ 808 • 13h ago
 
 ---
 
@@ -657,7 +651,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.8k • 🔱 1.0k • 9h ago
+⭐ 4.8k • 🔱 1.0k • 11h ago
 
 ---
 
@@ -667,7 +661,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.7k • 🔱 190 • 4h ago
+⭐ 2.7k • 🔱 190 • 6h ago
 
 ---
 
@@ -697,7 +691,7 @@ The living ecosystem where AI agents complete tasks through workflow loops, impr
 
 `Python` `agent-apprenticeship` `agent-economy` `agent-experience` `agent-learning` `agent-traces`
 
-⭐ 1.3k • 🔱 56 • 9d ago
+⭐ 1.3k • 🔱 56 • 10d ago
 
 ---
 
@@ -707,7 +701,7 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 
 `Python` `ai` `ai-agents` `api` `copilot` `llm`
 
-⭐ 1.1k • 🔱 375 • 18d ago
+⭐ 1.1k • 🔱 375 • 19d ago
 
 ---
 

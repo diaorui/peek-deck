@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-16T15:09:32.163469+00:00'
+updated: '2026-07-16T16:49:14.603759+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 16, 2026 at 15:09 UTC  
+**Last Updated:** July 16, 2026 at 16:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Ranjay Krishna argues that language may be an unnecessary intermediary between p
 
 **[Dtof LIDAR HM-LD1 Outdoor Test Under the Sunlight](https://www.reddit.com/r/robotics/comments/1uwc218/dtof_lidar_hmld1_outdoor_test_under_the_sunlight/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -116,21 +116,13 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
 
-NVIDIA Blog • 16h ago
+NVIDIA Blog • 17h ago
 
 ---
 
 **[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
 
-Reuters • 10h ago
-
----
-
-**[Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’](https://apnews.com/article/ai-nvidia-fujitsu-japan-technology-robots-tokyo-86823c1bcc959ad603ecb25d022207b1)**
-
-Japanese communications company Fujitsu is leading a major push in artificial intelligence and robotics using Nvidia’s technology to develop “physical AI.”
-
-AP News • 7h ago
+Reuters • 11h ago
 
 ---
 
@@ -138,7 +130,35 @@ AP News • 7h ago
 
 NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
 
-NVIDIA Blog • 16h ago
+NVIDIA Blog • 18h ago
+
+---
+
+**[Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’](https://apnews.com/article/ai-nvidia-fujitsu-japan-technology-robots-tokyo-86823c1bcc959ad603ecb25d022207b1)**
+
+Japanese communications company Fujitsu is leading a major push in artificial intelligence and robotics using Nvidia’s technology to develop “physical AI.”
+
+AP News • 8h ago
+
+---
+
+**[China Sends Robots Out Into the World to Learn How to Be Human](https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human)**
+
+Bloomberg.com • 18h ago
+
+---
+
+**[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
+
+WSJ • 1d ago
+
+---
+
+**[Hyundai Reportedly Looking To Take Total Control Of Robotics Giant Boston Dynamics](https://www.engadget.com/2216427/hyundai-reportedly-looking-to-buy-all-of-boston-dynamics-from-softbank/)**
+
+Hyundai could soon own Boston Dynamics in full.
+
+Engadget • 4h ago
 
 ---
 
@@ -150,21 +170,9 @@ Fortune • 1d ago
 
 ---
 
-**[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
-
-WSJ • 1d ago
-
----
-
 **[Gecko Robotics is growing again](https://www.axios.com/local/pittsburgh/2026/07/16/gecko-robotics-manufacturing-expansion)**
 
-Axios • 4h ago
-
----
-
-**[China Sends Robots Out Into the World to Learn How to Be Human](https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human)**
-
-Bloomberg.com • 17h ago
+Axios • 6h ago
 
 ---
 
@@ -172,13 +180,7 @@ Bloomberg.com • 17h ago
 
 microagi has raised $55 million to put AI-powered robots to work in factories.
 
-Business Insider • 9h ago
-
----
-
-**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
-
-Business Wire • 1d ago
+Business Insider • 10h ago
 
 ---
 
@@ -262,7 +264,7 @@ War Robots Gameplay: WR Devourer Bendy Bullets Gameplay - WR My War Robots Creat
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 378 • 💬 69 • ⏱️ 11:49 • 1d ago
+👁️ 8K • 👍 378 • 💬 69 • ⏱️ 11:49 • 2d ago
 
 ---
 
@@ -270,7 +272,7 @@ War Robots Gameplay: WR Devourer Bendy Bullets Gameplay - WR My War Robots Creat
 
 📺 Varun Mayya
 
-👁️ 195K • 👍 7K • 💬 91 • ⏱️ 1:03 • 4d ago
+👁️ 195K • 👍 7K • 💬 91 • ⏱️ 1:03 • 5d ago
 
 ---
 
