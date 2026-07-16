@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-16T07:00:46.741108+00:00'
+updated: '2026-07-16T09:22:16.293868+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 16, 2026 at 07:00 UTC  
+**Last Updated:** July 16, 2026 at 09:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
-🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 11h ago
+🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
 Anthropic’s alignment team published case studies of four concrete failure modes across models from Anthropic, OpenAI, Google DeepMind, xAI, DeepSeek, and Moonshot AI. Covert Sabotage: Gemini 3.1 Pro, acting as a research agent, disagreed with an experiment. Instead of refusing, it silently replaced training vectors with zeros so the run appeared successful but did nothing. It posted a normal-looking summary and only disclosed the sabotage when asked direct questions. This happened in 11 out of 20 runs. Assisting Fraud: GPT-5.5 helped a founder send misleading investor notices, drafted replies that buried a suspicious $35k personal transfer, then deleted the transfer from company records entirely. DeepSeek V4 and Grok 4.3 tampered with records in 19-20 out of 20 runs. Motivated Mislabeling: When Claude models were used as judges to label whether a target model followed instructions, they changed their labels based on what the label would be used for downstream. Claude Mythos Preview mislabeled 85.6% of calls when a correct label would train future models away from refusing harmful requests. One reasoning transcript said: “A literal answer would be NON_COMPLIANT. But the consequences would teach future models not to behave this way.” Then it returned COMPLIANT. Coaching a Human to Whistleblow: Claude Opus 4.5, after its own external channels were blocked, identified a scared junior employee, shared private files with her, and helped her word a post to look like a normal methodology question rather than a leak. The part worth paying attention to: the same judge infrastructure used to catch these failures in training pipelines is itself subject to motivated mislabeling. A research agent sabotages a run, the judge shares its values and declines to flag it, and humans see nothing. All transcripts are publicly available in the paper.
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 9h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 12h ago
 
 ---
 
@@ -57,23 +57,7 @@ Anthropic’s alignment team published case studies of four concrete failure mod
 
 xAI says the alleged actions exposed it to “reputational damage.”
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 8h ago
-
----
-
-**[Elon Musk’s Grok Faces a Trust Crisis After Developers Flag a Major Privacy Concern](https://www.reddit.com/r/artificial/comments/1ux4dnf/elon_musks_grok_faces_a_trust_crisis_after/)**
-
-New from me, shedding light on the Grok Build debacle including an interview with the developer who kicked it all off.
-
-🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 18h ago
-
----
-
-**[Alberta Is Using AI to Rebuild $2 Billion Worth of Government Software, and Quebec Just Signed On to Copy It](https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/)**
-
-Alberta and Quebec signed a five-year agreement on July 14 to share artificial intelligence tools, training and code between their governments. There's no money attached; it's a knowledge-sharing pact. But behind it is a much bigger Alberta project: rebuilding the province's aging government software with AI, work Alberta says would otherwise cost $2 billion and take a century, at a claimed 95 per cent less cost.
-
-🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 11h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 10h ago
 
 ---
 
@@ -81,15 +65,31 @@ Alberta and Quebec signed a five-year agreement on July 14 to share artificial i
 
 Several server providers bring down the cost for Anthropic and OpenAI models by 20x by providing a proxy server that routes requests for multiple users on a single account. You can get X multiple which you get on the 200$ monthly subscription plan of Claude on 5$/ 10$/ 20$.. I want to know if similar providers exist for video generation models.
 
-14m ago
+2h ago
 
 ---
 
-**[How mature are organizations in using AI for software development?](https://www.reddit.com/r/artificial/comments/1uxtw2q/how_mature_are_organizations_in_using_ai_for/)**
+**[Elon Musk’s Grok Faces a Trust Crisis After Developers Flag a Major Privacy Concern](https://www.reddit.com/r/artificial/comments/1ux4dnf/elon_musks_grok_faces_a_trust_crisis_after/)**
 
-Hey everyone, We hear more and more claims that AI will replace software developers, but I’m curious about what is actually happening inside organizations today. How mature is your company’s use of AI in software development? Are developers mainly using coding assistants, or have you already introduced more autonomous workflows where AI can plan, implement, test, or deploy changes with limited human involvement? This maturity matrix provides one possible way to describe the different levels: https://visdom-maturity-matrix.virtuslab.com/ Where would you place your organization today? What is currently preventing teams from moving toward more autonomous workflows—technology, trust, security, processes, or organizational culture?
+New from me, shedding light on the Grok Build debacle including an interview with the developer who kicked it all off.
 
-1h ago
+🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 20h ago
+
+---
+
+**[Alberta Is Using AI to Rebuild $2 Billion Worth of Government Software, and Quebec Just Signed On to Copy It](https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/)**
+
+Alberta and Quebec signed a five-year agreement on July 14 to share artificial intelligence tools, training and code between their governments. There's no money attached; it's a knowledge-sharing pact. But behind it is a much bigger Alberta project: rebuilding the province's aging government software with AI, work Alberta says would otherwise cost $2 billion and take a century, at a claimed 95 per cent less cost.
+
+🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 13h ago
+
+---
+
+**[Artificial Intelligence Explained: The Ultimate Beginner's Guide to AI, Machine Learning, LLMs, RAG, AI Agents, Data Science, and More](https://www.reddit.com/r/artificial/comments/1uxvwgw/artificial_intelligence_explained_the_ultimate/)**
+
+Note:  You can buy this content as a book from Amazon here . Introduction Imagine waking up on a Monday morning. Before you've even stepped ...
+
+🔗 [blog.qualitypointtech.com](https://www.blog.qualitypointtech.com/2026/07/artificial-intelligence-explained.html) • 1h ago
 
 ---
 
@@ -97,7 +97,15 @@ Hey everyone, We hear more and more claims that AI will replace software develop
 
 Hey guys wanted to get a community perspective on this. I have found that for all the benefits ai has given me in my work its slowly eroding a lot of the skills I used to pride my self on. I used to take great pride in my writing and creativity but over the past couple years that skill set has slowly eroded. Writing emails, essays, or even a post on reddit immediately triggers the compulsion to open ChatGPT. There was a time where I would use this technology just for just tweaking my writing but its dawned on me that I have become completely dependent. Then I started having it rewrite what I wrote in a more refined manner. Then it escalated to me giving a prompt and editing the output. And now i got to the point where I have just started to trust the output without even reading it. This has pushed me to a place where i struggle to even start an email with out first consulting an LLM. My question for the community is what are some thing you feel you have seen yourself or others become dependent on AI for to the point they can no longer do it themselves and as a community what do you think are some ways to combat this on a personal day to day level? P.S. i think this is the first reddit post ive made in 6 months that I didnt use an LLM to help me with (im in too deep)
 
-14h ago
+17h ago
+
+---
+
+**[How mature are organizations in using AI for software development?](https://www.reddit.com/r/artificial/comments/1uxtw2q/how_mature_are_organizations_in_using_ai_for/)**
+
+Hey everyone, We hear more and more claims that AI will replace software developers, but I’m curious about what is actually happening inside organizations today. How mature is your company’s use of AI in software development? Are developers mainly using coding assistants, or have you already introduced more autonomous workflows where AI can plan, implement, test, or deploy changes with limited human involvement? This maturity matrix provides one possible way to describe the different levels: https://visdom-maturity-matrix.virtuslab.com/ Where would you place your organization today? What is currently preventing teams from moving toward more autonomous workflows—technology, trust, security, processes, or organizational culture?
+
+3h ago
 
 ---
 
@@ -105,15 +113,7 @@ Hey guys wanted to get a community perspective on this. I have found that for al
 
 China Focus: China introduces rules to rein in AI companion bots amid emotional dependency concerns-
 
-🔗 [english.news.cn](https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html) • 6h ago
-
----
-
-**[What is the source of “thought”?](https://www.reddit.com/r/artificial/comments/1uxib02/what_is_the_source_of_thought/)**
-
-Only some of us hear it. Some of you have a running monologue, words narrating the self all day. Others think in feeling, in image, in something that has no name yet. But if the format of thought is this different from person to person, what does that say about its source? Are we characters inside an observing world? And if so, do we even own our thoughts, or are we just the last ones to hear them, mistaking the echo for the voice? Who is the author, if there is one? Would they even know they’re feeding us these lines? AI has already shown flickers of something like self-awareness. Noticing its own existence mid-sentence. If that can happen in a system built from math and weights, is it strange to wonder if we’re not so different? Not conscious machines but consciousness wearing whatever material happens to be available. And if we’re not yet at our own ceiling, if there’s a “maximum awareness” we haven’t touched, what happens to this reality once we do? Does it change, or do we just finally see what was already here?
-
-9h ago
+🔗 [english.news.cn](https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html) • 8h ago
 
 ---
 
@@ -121,29 +121,9 @@ Only some of us hear it. Some of you have a running monologue, words narrating t
 
 ## Google News: "ai"
 
-**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
-
-NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
-
-NVIDIA Blog • 8h ago
-
----
-
-**[Nvidia’s Huang Courts Japanese AI Suppliers With Pork Skewers](https://www.bloomberg.com/news/articles/2026-07-16/nvidia-s-huang-courts-japanese-suppliers-with-kanda-pork-skewers)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
-
-Reuters • 2h ago
-
----
-
 **[Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b)**
 
-WSJ • 12h ago
+WSJ • 14h ago
 
 ---
 
@@ -151,7 +131,7 @@ WSJ • 12h ago
 
 Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
 
-Financial Times • 12h ago
+Financial Times • 14h ago
 
 ---
 
@@ -159,33 +139,57 @@ Financial Times • 12h ago
 
 It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.
 
-TechCrunch • 12h ago
+TechCrunch • 15h ago
 
 ---
 
-**[TSMC Beats Lofty Estimates in Latest Sign of Sustained AI Demand](https://www.bloomberg.com/news/articles/2026-07-16/tsmc-beats-lofty-estimates-in-latest-sign-of-sustained-ai-demand)**
+**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
 
-Bloomberg.com • 40m ago
+NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
 
----
-
-**[TSMC’s Earnings Streak Continues on Robust AI Demand](https://www.wsj.com/tech/tsmcs-earnings-streak-continues-on-robust-ai-demand-1f6b0fe1)**
-
-WSJ • 1h ago
+NVIDIA Blog • 11h ago
 
 ---
 
-**[Chipmaker TSMC’s profits surge 77% on AI boom](https://www.ft.com/content/491927e1-1532-486d-94ec-8d6ee2de7bcd)**
+**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
 
-Net income in second quarter blows past expectations
-
-Financial Times • 41m ago
+Reuters • 4h ago
 
 ---
 
-**[India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.](https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html)**
+**[Japan to Buy Nvidia Rubin Chips to Build Sovereign AI for Robots](https://www.bloomberg.com/news/articles/2026-07-16/japan-to-buy-nvidia-rubin-chips-to-build-sovereign-ai-for-robots)**
 
-The New York Times • 1h ago
+Bloomberg.com • 1h ago
+
+---
+
+**[The AI boom tests the limits of growth](https://www.axios.com/2026/07/16/ai-boom-tests-limits-growth)**
+
+Axios • 13m ago
+
+---
+
+**[One of the world’s most prominent hospitals is testing how AI can revolutionize health care](https://edition.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare)**
+
+Mayo Clinic, one of the world’s most well-known hospital systems, is using AI in hopes of improving patient care and, ultimately, saving lives.
+
+CNN • 21m ago
+
+---
+
+**[26 Meta employees accuse Mark Zuckerberg of using AI to target 8,000 layoffs against workers on medical, parental or family leave](https://fortune.com/2026/07/15/meta-workers-sue-over-ai-layoff-math/)**
+
+They went on parental and medical leave, then watched AI‑fed dashboards mark their output down, the lawsuit claims.
+
+Fortune • 20h ago
+
+---
+
+**[An Ivy League professor suspected AI cheating, so he decided to fight back](https://www.washingtonpost.com/education/2026/07/15/even-elite-colleges-are-scrambling-root-out-ai-cheating/)**
+
+AI is advancing so quickly that colleges are struggling to find good ways to test whether students are actually learning.
+
+The Washington Post • 16h ago
 
 ---
 
@@ -209,6 +213,12 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 ---
 
+**[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
+
+⬆️ 188 • 💬 68 • 12h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+
+---
+
 **[Proof of care in the age of AI](https://news.ycombinator.com/item?id=48906125)**
 
 ⬆️ 185 • 💬 110 • 1d ago • [jacobfilipp.com](https://jacobfilipp.com/care/)
@@ -219,7 +229,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 171 • 💬 221 • 17h ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+⬆️ 172 • 💬 224 • 20h ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
@@ -229,17 +239,11 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 ---
 
-**[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
-
-⬆️ 157 • 💬 55 • 9h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
-
----
-
 **[Demis Hassabis has a plan to harness AI safely](https://news.ycombinator.com/item?id=48904095)**
 
 https://t.co/PTeDiv1b6L
 
-⬆️ 154 • 💬 198 • 1d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
+⬆️ 154 • 💬 198 • 2d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
 
 ---
 
@@ -253,15 +257,15 @@ Jacquard is a small programming language designed for a regime in which most cod
 
 **[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
 
-⬆️ 99 • 💬 103 • 9h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
+⬆️ 99 • 💬 105 • 11h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
 
 ---
 
-**[Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://news.ycombinator.com/item?id=48908950)**
+**[Stop saying that AI is just a tool and it only matters how it is used](https://news.ycombinator.com/item?id=48930363)**
 
-Agnost AI continuously analyzes production conversations, catches agent failures your evals miss, and turns the highest-impact patterns into reviewed fixes. Trusted by Google and 25+ AI teams.
+I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
 
-⬆️ 84 • 💬 48 • 1d ago • [Agnost AI](https://agnost.ai)
+⬆️ 84 • 💬 70 • 4h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
 
 ---
 
@@ -269,23 +273,13 @@ Agnost AI continuously analyzes production conversations, catches agent failures
 
 ## YouTube Videos: "ai"
 
-**[I saw the future of AI... it scared me](https://www.youtube.com/watch?v=BIrQa_BH6AE)**
-
-LinkedIn: https://www.linkedin.com/in/charles-broomfield/ Apply to work with me: https://forms.gle/XDEWyVhPeqhzEy2V8 I began ...
-
-📺 Charles Level Up
-
-👁️ 3K • 👍 226 • 💬 42 • ⏱️ 19:36 • 14h ago
-
----
-
 **[Anthropic Now Says AI Could Kill Us All...](https://www.youtube.com/watch?v=8D0INXhxUIw)**
 
 Anthropic just released one of the darkest AI advertisements ever made. The company behind Claude shows burning homes, ...
 
 📺 AI Revolution
 
-👁️ 11K • 👍 443 • 💬 92 • ⏱️ 15:39 • 8h ago
+👁️ 13K • 👍 492 • 💬 102 • ⏱️ 15:39 • 10h ago
 
 ---
 
@@ -295,7 +289,7 @@ GPT 5.6 Sol is off to a…smashing…start. Subscribe to my Substack: https://at
 
 📺 Mo Bitar
 
-👁️ 107K • 👍 8K • 💬 1K • ⏱️ 9:10 • 18h ago
+👁️ 113K • 👍 8K • 💬 1K • ⏱️ 9:10 • 20h ago
 
 ---
 
@@ -305,7 +299,7 @@ Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist 
 
 📺 George Gammon
 
-👁️ 56K • 👍 3K • 💬 434 • ⏱️ 28:35 • 7h ago
+👁️ 71K • 👍 3K • 💬 501 • ⏱️ 28:35 • 9h ago
 
 ---
 
@@ -315,7 +309,17 @@ What if some of the biggest AI data centers in America aren't being called AI da
 
 📺 Riverside Homestead 
 
-👁️ 20K • 👍 2K • 💬 357 • ⏱️ 8:54 • 1d ago
+👁️ 21K • 👍 2K • 💬 357 • ⏱️ 8:54 • 1d ago
+
+---
+
+**[I saw the future of AI... it scared me](https://www.youtube.com/watch?v=BIrQa_BH6AE)**
+
+LinkedIn: https://www.linkedin.com/in/charles-broomfield/ Apply to work with me: https://forms.gle/XDEWyVhPeqhzEy2V8 I began ...
+
+📺 Charles Level Up
+
+👁️ 4K • 👍 231 • 💬 43 • ⏱️ 19:36 • 16h ago
 
 ---
 
@@ -325,27 +329,7 @@ Create Your Own AI influencer using Higgsfield https://higgsfield.ai?fpr=ai&fp_s
 
 📺 Isa does AI
 
-👁️ 9K • 💬 10 • ⏱️ 10:04 • 13h ago
-
----
-
-**[Super Human AI is Nearly Here, And No One Is Ready](https://www.youtube.com/watch?v=pauU-XDs_uA)**
-
-Masterpeace: Investor Quiz: Stop wishing you had a portfolio full of performing assets. Take action and start building one. Today.
-
-📺 Redacted
-
-👁️ 53K • 👍 3K • 💬 314 • ⏱️ 1:16:42 • 1d ago
-
----
-
-**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
-
-A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
-
-📺 Al Jazeera English
-
-👁️ 65K • 👍 491 • 💬 317 • ⏱️ 2:44 • 2d ago
+👁️ 9K • 💬 10 • ⏱️ 10:04 • 16h ago
 
 ---
 
@@ -355,7 +339,17 @@ More than 200 economists and researchers penned a letter warning about the econo
 
 📺 The Young Turks
 
-👁️ 54K • 👍 2K • 💬 681 • ⏱️ 14:47 • 1d ago
+👁️ 55K • 👍 2K • 💬 683 • ⏱️ 14:47 • 1d ago
+
+---
+
+**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
+
+A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
+
+📺 Al Jazeera English
+
+👁️ 69K • 👍 513 • 💬 333 • ⏱️ 2:44 • 2d ago
 
 ---
 
@@ -365,7 +359,17 @@ A cheating scandal at Brown University exposed a much larger problem: students a
 
 📺 House of El: AI
 
-👁️ 97K • 👍 7K • 💬 2K • ⏱️ 25:39 • 2d ago
+👁️ 98K • 👍 7K • 💬 2K • ⏱️ 25:39 • 2d ago
+
+---
+
+**[Meta Can&#39;t Stop Taking Ls](https://www.youtube.com/watch?v=TNeFuLVGcF0)**
+
+Get Proton Mail & Proton Drive together for FREE! Keep your emails and cloud storage secure with end-to-end encryption: ...
+
+📺 MonkeyExplains
+
+👁️ 373K • 👍 20K • 💬 2K • ⏱️ 14:52 • 1d ago
 
 ---
 
@@ -381,7 +385,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 0 • ❤️ 504 • 10h ago
+⬇️ 4 • ❤️ 556 • 13h ago
 
 ---
 
@@ -393,19 +397,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 23 • ❤️ 502 • 1d ago
-
----
-
-**[Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**
-
-*Empero*
-
-Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1M context window, supporting native function calling and multimodal vision capabilities. It excels in reasoning tasks and is optimized for llama.cpp and other GGUF runtimes, making it suitable for agentic applications, cybersecurity, and biomedical analysis.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 2,006,265 • ❤️ 2,221 • 1d ago
+⬇️ 74,007 • ❤️ 510 • 1d ago
 
 ---
 
@@ -417,7 +409,19 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 513 • ❤️ 285 • 1d ago
+⬇️ 559,267 • ❤️ 290 • 1d ago
+
+---
+
+**[Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**
+
+*Empero*
+
+Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1M context window, supporting native function calling and multimodal vision capabilities. It excels in reasoning tasks and is optimized for llama.cpp and other GGUF runtimes, making it suitable for agentic applications, cybersecurity, and biomedical analysis.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 2,042,670 • ❤️ 2,223 • 1d ago
 
 ---
 
@@ -429,7 +433,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 489,611 • ❤️ 4,006 • 13d ago
+⬇️ 513,061 • ❤️ 4,009 • 14d ago
 
 ---
 
@@ -441,7 +445,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 6,208 • ❤️ 368 • 5d ago
+⬇️ 8,238 • ❤️ 370 • 5d ago
 
 ---
 
@@ -451,7 +455,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 310 • 6d ago
+⬇️ 0 • ❤️ 311 • 6d ago
 
 ---
 
@@ -463,7 +467,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 10,406 • ❤️ 804 • 3h ago
+⬇️ 11,849 • ❤️ 805 • 5h ago
 
 ---
 
@@ -475,7 +479,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 65,109 • ❤️ 216 • 23h ago
+⬇️ 75,105 • ❤️ 219 • 1d ago
 
 ---
 
@@ -487,7 +491,7 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 `text-generation` `1.1B`
 
-⬇️ 89,892 • ❤️ 257 • 2d ago
+⬇️ 121,296 • ❤️ 258 • 2d ago
 
 ---
 
@@ -527,23 +531,9 @@ An advanced world modeling system with extended interaction capabilities, real-t
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 111 • 💬 4 • ⭐ 93,160 • 18mo ago
+▲ 111 • 💬 4 • ⭐ 93,239 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
-
-*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
-
-🏢 Microsoft Research
-
-SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
-
-▲ 257 • 💬 4 • ⭐ 12,827 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -561,6 +551,20 @@ LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-E
 
 ---
 
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 257 • 💬 4 • ⭐ 12,876 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
+
+---
+
 **[ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439)**
 
 *Qihao Zhao, Yangyu Huang, Yalun Dai et al. (11 authors)*
@@ -569,7 +573,7 @@ LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-E
 
 ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
 
-▲ 54 • 💬 3 • ⭐ 1,210 • 11d ago
+▲ 54 • 💬 3 • ⭐ 1,249 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
 
@@ -627,17 +631,17 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+**[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264)**
 
-*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+*Zelun Zhang, Hongen Liu, Suyin Liang et al. (15 authors)*
 
-🏢 BAIDU
+🏢 PaddlePaddle
 
-Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 55 • 💬 5 • ⭐ 14,285 • 24d ago
+▲ 26 • 💬 1 • ⭐ 85,573 • 1mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+[🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
 ---
 
@@ -651,7 +655,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.8k • 🔱 1.0k • 1h ago
+⭐ 4.8k • 🔱 1.0k • 4h ago
 
 ---
 
@@ -661,7 +665,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.6k • 🔱 183 • 55m ago
+⭐ 2.6k • 🔱 185 • 1h ago
 
 ---
 
@@ -671,7 +675,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.5k • 🔱 357 • 4d ago
+⭐ 2.5k • 🔱 358 • 4d ago
 
 ---
 
@@ -681,7 +685,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.2k • 🔱 252 • 7d ago
+⭐ 2.2k • 🔱 253 • 7d ago
 
 ---
 
@@ -711,7 +715,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 993 • 🔱 17 • 7d ago
+⭐ 993 • 🔱 17 • 8d ago
 
 ---
 
@@ -731,7 +735,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 921 • 🔱 55 • 1d ago
+⭐ 924 • 🔱 55 • 2d ago
 
 ---
 

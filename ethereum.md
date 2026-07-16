@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T07:00:46.755641+00:00'
+updated: '2026-07-16T09:22:16.306466+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 07:00 UTC  
+**Last Updated:** July 16, 2026 at 09:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,113 +36,113 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,915.35
+### $1,878.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +6.9%  
-**30d:** +9.8%  
-**90d:** -18.2%  
-**1y:** -44.6%  
+**24h:** +0.5%  
+**7d:** +5.0%  
+**30d:** +7.8%  
+**90d:** -19.7%  
+**1y:** -45.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.81B
+**Market Cap:** $227.40B
 Rank #2
 
 **Circulating Supply:** 120,682,913 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.9%
 
 **All-Time Low:** $0.43
-+443552.0%
++435156.7%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion July 11, 2026](https://www.reddit.com/r/ethereum/comments/1utaqfx/daily_general_discussion_july_11_2026/)**
+**[Daily General Discussion July 16, 2026](https://www.reddit.com/r/ethereum/comments/1uxt5wd/daily_general_discussion_july_16_2026/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
-
----
-
-**[I lowkey wouldn't mind providing liquidity to gamblers to nickel and dime my way through the internet](https://www.reddit.com/r/ethereum/comments/1utad3s/i_lowkey_wouldnt_mind_providing_liquidity_to/)**
-
-I feel like that was the endgame of defi. You put $2000 in a perpetual futures vault, or some combination of blue chip pools, and then you spend 25 cents a day to bribe your way out of ads. Why did nobody integrate web3? People spent more in gas to move a jpeg than a monthly news subscription. I should be able to use fixed yield tools to continuously fund my favorite websites and creators, without either party exposing themselves to insolvency risk. The tooling is there to build yield-based subscription models, but very few sites are integrating with the Metamask compatible framework that all the gambling sites run on. It's like stepping into the future for a brief moment, only that they offer something that is mathematically predestined to reward specific behaviors over others in a negative sum fashion given the gas cost to do anything (it's still cheaper and more open than traditional payment routing methods). If the NYT needs 4 bucks a month to run, let me park $100 in some fixed-yield derivative of a degen farm where the future payout is guaranteed to the site for a year or something. I get like $90 bucks back on a bad year when I unlock my liquidity provisions, and we both make out in the green, because either the degen yield trader lost the farm, or leverage users had a Tuesday. Assuming the internet remains primarily free and ad driven, what obstacles are we dealing with?
-
-5d ago
+4h ago
 
 ---
 
-**[Daily General Discussion July 10, 2026](https://www.reddit.com/r/ethereum/comments/1usdycl/daily_general_discussion_july_10_2026/)**
+**[Daily General Discussion July 15, 2026](https://www.reddit.com/r/ethereum/comments/1uww3o5/daily_general_discussion_july_15_2026/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
-
----
-
-**[Ethereal news mini #1 | Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, Devcon 8 speaker applications open](https://www.reddit.com/r/ethereum/comments/1usls5g/ethereal_news_mini_1_vitalik_updated_strawmap/)**
-
-Vitalik: updated Strawmap explainer, Ethlabs & Ethereum Institutional hiring, Devcon 8 speaker applications open
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-1/) • 5d ago
+1d ago
 
 ---
 
-**[Daily General Discussion July 09, 2026](https://www.reddit.com/r/ethereum/comments/1urghac/daily_general_discussion_july_09_2026/)**
+**[Cointer - Free wallet monitoring and dashboard for BTC/ETH with push notifications (beta)](https://www.reddit.com/r/ethereum/comments/1ux4r44/cointer_free_wallet_monitoring_and_dashboard_for/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+Hello, A little while ago I posted about a project concept I had. The idea was a web-app and a mobile app where you add the wallet address you want to watch. Cointer checks the blockchain for you. When a watched address gets a deposit, you get a notification and a dashboard of activity/totals. No accounts, no passwords. Just a single personal key that ties everything together. This is aimed at people who receive donations via crypto, streamers, or people who want to watch their wallets. Of course, most wallets already have this feature, but this takes it to the next step. It allows you to be notified over mobile push notifications, ntfy, Discord, Slack, or just by email. Then, it compiles (up to 90 days) all transactions into a clean dashboard showing your totals for the last day, week, and month with a breakdown by watched addresses and assets. There is an activity page with a full history of deposits and pagination. I've developed quite a few OSS projects and gotten sponsors from many hosting companies which is what allowed me to set this up for a beta. However, for this beta the amount of users I can support is quite small. There is no real catch here. Know that there is a 10 wallet and 10 notification channel limit and notifications are not always guaranteed. More info in the comments. Thank you for reading, Luke
 
-7d ago
-
----
-
-**[I used ETH to book my Uber from the airport after my card was denied once more.](https://www.reddit.com/r/ethereum/comments/1urkigc/i_used_eth_to_book_my_uber_from_the_airport_after/)**
-
-When I arrived in a new nation, I had no local currency yet and had my card banned for the third time this trip, but I needed transportation. While I waited for my bag, I used ETH on my phone to purchase an Uber gift card using aceb. Before I reached the exit, I applied it to the app, so by the time I arrived outside, a ride was reserved. I've started holding a modest amount of ETH for just such circumstances. When a bank card fails at the wrong time, gift cards cover everything you need, including hotels, taxis and food delivery.
-
-6d ago
+20h ago
 
 ---
 
-**[Golden Standard for Account Abstraction ?](https://www.reddit.com/r/ethereum/comments/1urnuup/golden_standard_for_account_abstraction/)**
+**[How to buy ethereum without KYC?](https://www.reddit.com/r/ethereum/comments/1uxhc7f/how_to_buy_ethereum_without_kyc/)**
 
-Hello everyone. What is the golden standard for account abstraction on Ethereum?
+Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
 
-6d ago
-
----
-
-**[Ethereum has just crossed another major milestone.](https://www.reddit.com/r/ethereum/comments/1uqwiwi/ethereum_has_just_crossed_another_major_milestone/)**
-
-7d ago
+12h ago
 
 ---
 
-**[Daily General Discussion July 08, 2026](https://www.reddit.com/r/ethereum/comments/1uqiyw9/daily_general_discussion_july_08_2026/)**
+**[Can blockchain become a trust layer for real-world events?](https://www.reddit.com/r/ethereum/comments/1uwq50m/can_blockchain_become_a_trust_layer_for_realworld/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+One thing I've been thinking about recently is that blockchains are great at verifying digital information—but they still struggle to verify physical reality. For example: Did someone actually visit a location? Was a delivery completed? Did an inspection really happen? Can an AI agent prove it interacted with the physical world? GPS alone isn't enough anymore, and centralized systems require trust. I've been working on an open protocol called GeoProof that explores using multi-signal verification to generate cryptographically verifiable attestations for real-world events. The goal isn't to replace existing blockchains, but to provide a reusable verification layer that applications can integrate regardless of which chain they use. I'd really appreciate feedback on whether this problem is worth solving and whether you think an open protocol is the right approach. Website: https://geoproof.xyz Documentation is public and constructive criticism is very welcome.
 
-8d ago
+1d ago
 
 ---
 
-**[Compose Whitepaper: A Composition Layer for On-Chain Applications](https://www.reddit.com/r/ethereum/comments/1uqwv6q/compose_whitepaper_a_composition_layer_for/)**
+**[Is it legit from customer support?](https://www.reddit.com/r/ethereum/comments/1ux07e3/is_it_legit_from_customer_support/)**
 
-Abstract The smart-contract ecosystem already depends heavily on code reuse, but that reuse has not yet become shared on-chain infrastructure. Similar logic is repeatedly redeployed across projects, creating duplicated infrastructure that increases long-term maintenance, audit, and security burdens for the ecosystem. Compose introduces Smart Contract Oriented Programming, or SCOP, to bring reuse into the deployed architecture itself. Using diamonds and stateless facets, Compose enables modular on-chain systems that are easier to build and trust across their lifecycle.
+1d ago
 
-🔗 [compose.diamonds](https://compose.diamonds/whitepaper/) • 7d ago
+---
+
+**[Daily General Discussion July 14, 2026](https://www.reddit.com/r/ethereum/comments/1uvz1ge/daily_general_discussion_july_14_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
+**[Just build on L1?](https://www.reddit.com/r/ethereum/comments/1uvx8ra/just_build_on_l1/)**
+
+I remember Vitalik tweeting, "You can just build on L1." I am wondering if this is a joke or not? I have something I am working on and just want to build on L1. I remember the days that gas costs were $200 for a basic swap at some point. Can these $200 per swap days come back?
+
+2d ago
+
+---
+
+**[first etherealize and ethereum community foundation. then ethlabs. now ethereum institutional. wth is going on?](https://www.reddit.com/r/ethereum/comments/1uvjyn1/first_etherealize_and_ethereum_community/)**
+
+i produced an explainer on the new wave of ethereum-aligned organizations splintering off from the ethereum foundation: etherealize, the ethereum community foundation, and ETHLabs, launching on june 22nd with five senior EF researchers and significant institutional backing the day after ETHLabs, the EF announced it was cutting 20% of its workforce 🥲 it's been a chaotic, turbulent time within the ethereum ecosystem, and i wanted to document my thoughts on why this is happening now and what that could mean for the future of ethereum. lo and behold, as i was finishing production, yet another independent organization founded by ex-EF team members spawned: ethereum institutional. the story literally outran the edit/production 😂 the evidence points both directions: vitalik was writing about distributing the protocol's brain trust across multiple orgs back in 2017. but you can also read this moment as a centre shrinking faster than what the ecosystem is ready to absorb. video: https://youtu.be/sF3NlQBIQDE genuine question for anyone closer to the research side: is coordination between these orgs actually happening anywhere visible? shared calls, forums, roadmap alignment? ----------- if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
+
+🔗 [youtu.be](https://youtu.be/sF3NlQBIQDE?si=rfgNWDJaA4HoJGXQ) • 2d ago
+
+---
+
+**[Daily General Discussion July 13, 2026](https://www.reddit.com/r/ethereum/comments/1uv1yby/daily_general_discussion_july_13_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+3d ago
 
 ---
 
@@ -150,11 +150,19 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 ## Google News: "ethereum"
 
+**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
+
+In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
+
+CoinDesk • 19h ago
+
+---
+
 **[Ethereum Staking Generates 98% Of Bitmine’s Quarterly Revenue](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-generates-98-bitmine-133200928.html)**
 
 Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) says that Ethereum (CRYPTO: $ETH) staking generat...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -174,17 +182,25 @@ CoinDesk • 2d ago
 
 ---
 
-**[Arthur Hayes buys $3.7M in Ethereum after selli...](https://pluang.com/en/news-feed/arthur-hayes-balik-beli-ethereum-37-juta-usd-setelah-jual-6000-eth)**
+**[Ethereum's staked market cap jumps 12% to $78B,...](https://pluang.com/en/news-feed/ethereum-kuasai-pasar-staking-78-miliar-dolar-dengan-kapitalisasi-besar)**
 
-Arthur Hayes reversed his crypto strategy by purchasing over $3.7 million worth of Ethereum after selling 6,000 ETH at a loss of about $606,000 just weeks prior. This move follows his pattern of bold crypto trades and quick exits, which have drawn criticism. Hayes' recent Ethereum accumulation contrasts with losses on other altcoins like Synapse's SYN token. Investors are now watching to see if his renewed Ethereum bet will yield better returns than his recent altcoin trades.
+Ethereum has strengthened its position as the top staking network with a 12.13% weekly increase in staked market cap, reaching $78.08 billion. This growth highlights a shift of investor interest back to large-cap, liquid networks despite mixed results from other major chains like Solana and Hyperliquid, which saw slight declines. While staking rewards remain attractive, overall returns are heavily influenced by token price movements, with many networks showing negative total returns over the past year. The rise in Ethereum's staking market cap signals renewed risk appetite for established assets, but staking alone does not fully protect against broader market downturns.
 
-Pluang • 1h ago
+Pluang • 42m ago
 
 ---
 
-**[New non-profit ETHSystems boosts Ethereum's pri...](https://pluang.com/en/news-feed/bitmine-dukung-ethsystems-maju-privasi-ethereum)**
+**[Bitcoin dips amid cautious market; Ethereum ris...](https://pluang.com/en/news-feed/kewaspadaan-makro-berimbas-pada-bitcoin-sedangkan-ethereum-bertahan)**
 
-ETHSystems, a new Ethereum-focused non-profit backed by Bitmine Immersion Technologies and Ethereum co-founder Joe Lubin, aims to enhance privacy on the Ethereum network for institutional use. This marks the third non-profit stepping in as the Ethereum Foundation reduces its role, with Bitmine as a key financier. The move supports Ethereum's future as a settlement layer for confidential systems, especially for Wall Street players. Meanwhile, growing stablecoin adoption on Ethereum fuels speculation that ETH could eventually surpass Bitcoin in market dominance.
+Bitcoin's price slightly fell to $64,164, reflecting broader market caution as equity indices and financial indicators like the US 10-year yield and DXY suggest tighter conditions. Meanwhile, Ethereum gained 2.09% to $1,908, showing selective investor appetite possibly tied to upcoming network upgrades. Overall crypto market cap stands at $2.29 trillion with Bitcoin dominance at 56.1%. The mixed performance highlights risk-off sentiment influenced by Fed rate expectations, with some altcoins like ZEC, XLM, LINK, and XMR posting modest gains due to specific technical rebounds or use-case interest.
+
+Pluang • 46m ago
+
+---
+
+**[Ethereum surges 11% in a week, driven by strong ETF inflows and Robinhood Chain activity.](https://pluang.com/en/news-feed/ethereum-eth-melonjak-11-persen-karena-blackrock-mendorong-inflow-etf-besar-dan)**
+
+Ethereum's price rose about 11% over the past week to around $1,920, outperforming major cryptocurrencies like Bitcoin and Solana. This rally is fueled by $96 million inflows into U.S. spot Ether ETFs early in the week, with BlackRock's ETHA product dominating inflows, signaling strong institutional demand. Additionally, the newly launched Robinhood Chain processes over $800 million in daily decentralized exchange volume, using ETH for transaction fees, further supporting price gains. Technical indicators suggest Ethereum is approaching a critical resistance near $2,000, with analysts watching for potential price peaks or consolidation.
 
 Pluang • 1h ago
 
@@ -194,15 +210,7 @@ Pluang • 1h ago
 
 Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
 
-Yahoo Finance • 18h ago
-
----
-
-**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
-
-In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
-
-CoinDesk • 17h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -214,15 +222,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
-
-MarketWatch • 17h ago
-
----
-
 **[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
 
-thestreet.com • 13h ago
+thestreet.com • 15h ago
 
 ---
 
@@ -236,17 +238,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 4K • 👍 308 • 💬 183 • ⏱️ 14:25 • 7h ago
-
----
-
-**[🚨 Tom Lee Was Right: ETH Hits 70-Day High &amp; BMNR Surges 10% — My Move Right Now](https://www.youtube.com/watch?v=LIrnqeGxQCU)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 1K • 👍 69 • 💬 8 • ⏱️ 48:04 • 6h ago
+👁️ 5K • 👍 331 • 💬 202 • ⏱️ 14:25 • 9h ago
 
 ---
 
@@ -256,7 +248,7 @@ Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry s
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 3K • 👍 329 • 💬 26 • ⏱️ 51:54 • 4h ago
+👁️ 5K • 👍 392 • 💬 28 • ⏱️ 51:54 • 6h ago
 
 ---
 
@@ -266,17 +258,7 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 The House Of Crypto
 
-👁️ 11K • 👍 745 • 💬 61 • ⏱️ 12:28 • 19h ago
-
----
-
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=kUgMPkZeH1A)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 4K • 👍 209 • 💬 17 • ⏱️ 18:30 • 13h ago
+👁️ 12K • 👍 770 • 💬 63 • ⏱️ 12:28 • 21h ago
 
 ---
 
@@ -286,17 +268,27 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 38K • 👍 2K • 💬 166 • ⏱️ 34:54 • 1d ago
+👁️ 38K • 👍 2K • 💬 167 • ⏱️ 34:54 • 1d ago
 
 ---
 
-**[✡️ Why Ethereum&#39;s Pump Will CONTINUE](https://www.youtube.com/watch?v=Tx5MgEqeiBo)**
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=kUgMPkZeH1A)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 🌟yourfriendsommi
+📺 Crypto Nutshell
 
-👁️ 236 • 👍 44 • 💬 4 • ⏱️ 10:41 • 1h ago
+👁️ 5K • 👍 218 • 💬 18 • ⏱️ 18:30 • 16h ago
+
+---
+
+**[🚨 Tom Lee Was Right: ETH Hits 70-Day High &amp; BMNR Surges 10% — My Move Right Now](https://www.youtube.com/watch?v=LIrnqeGxQCU)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 1K • 👍 76 • 💬 8 • ⏱️ 48:04 • 8h ago
 
 ---
 
@@ -306,7 +298,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 147 • 💬 31 • ⏱️ 11:05 • 1d ago
+👁️ 5K • 👍 148 • 💬 31 • ⏱️ 11:05 • 1d ago
 
 ---
 
@@ -314,17 +306,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 317 • 💬 10 • ⏱️ 2:00 • 6h ago
+👁️ 4K • 👍 358 • 💬 14 • ⏱️ 2:00 • 8h ago
 
 ---
 
-**[ETHEREUM Breaking Out RIGHT NOW! (Could MAJORITY May Be Wrong About The Crypto BOTTOM?)](https://www.youtube.com/watch?v=nisqdjG7fgs)**
+**[IT STARTED: Fed Chair Sends Bold Message to Crypto &amp; AI Investors](https://www.youtube.com/watch?v=r0K5dqG74As)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Much ...
+Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
 
-📺 Crypto Capital Venture
+📺 Altcoin Daily
 
-👁️ 9K • 👍 517 • 💬 227 • ⏱️ 17:15 • 1d ago
+👁️ 46K • 👍 2K • 💬 101 • ⏱️ 9:17 • 1d ago
+
+---
+
+**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 101 • 💬 22 • ⏱️ 5:20 • 1d ago
 
 ---
 

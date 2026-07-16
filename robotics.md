@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-16T07:00:46.758875+00:00'
+updated: '2026-07-16T09:22:16.309194+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 16, 2026 at 07:00 UTC  
+**Last Updated:** July 16, 2026 at 09:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,37 +116,7 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
 
-NVIDIA Blog • 7h ago
-
----
-
-**[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
-
-Bloomberg.com • 22h ago
-
----
-
-**[A Red Bull engineer got bored with Formula One. His robotics startup just raised $55 million.](https://www.businessinsider.com/f1-engineer-quit-redbull-to-build-army-of-factory-robots-2026-7)**
-
-microagi has raised $55 million to put AI-powered robots to work in factories.
-
-Business Insider • 1h ago
-
----
-
-**[He sold his last company to Palantir. Now he's betting $32 million that robots can fix construction's labor crisis](https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)**
-
-Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
-
-Fortune • 19h ago
-
----
-
-**[Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences](https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences)**
-
-Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’
-
-The Guardian • 3h ago
+NVIDIA Blog • 10h ago
 
 ---
 
@@ -154,35 +124,61 @@ The Guardian • 3h ago
 
 NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
 
-NVIDIA Blog • 8h ago
-
----
-
-**[Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier](https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier)**
-
-NVIDIA today announced that Japan’s physical AI leaders are building on the NVIDIA Cosmos™, NVIDIA Isaac™, NVIDIA Metropolis and NVIDIA Jetson™ platforms to accelerate the deployment of intelligent machines across manufacturing, mobility, infrastructure and robotics.
-
-NVIDIA Newsroom • 3h ago
+NVIDIA Blog • 11h ago
 
 ---
 
 **[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
 
-Reuters • 2h ago
+Reuters • 4h ago
 
 ---
 
-**[How Nidec Is Rethinking Gear Design for Humanoid and Mobile Robots](https://www.eetimes.com/how-nidec-is-rethinking-gear-design-for-humanoid-and-mobile-robots/)**
+**[Fujitsu and leading Japanese robotics companies to use Nvidia technology in 'physical AI'](https://www.yahoo.com/news/articles/fujitsu-leading-japanese-robotics-companies-074345658.html)**
 
-In this video interview from Automate 2026, Nidec Drive Technology walks through the technologies it's developing for advanced robotics and industrial automation.
+Japanese communications company Fujitsu is leading a major push in artificial intelligence using Nvidia’s technology, bringing together what it said was the best in Japan’s manufacturing prowess in ro...
 
-EE Times • 9h ago
+Yahoo • 1h ago
+
+---
+
+**[Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’](https://www.scmp.com/news/asia/east-asia/article/3360794/nvidia-chief-jensen-huang-seals-japan-robotics-push-after-yakitori-summit)**
+
+South China Morning Post • 30m ago
+
+---
+
+**[He sold his last company to Palantir. Now he's betting $32 million that robots can fix construction's labor crisis](https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)**
+
+Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
+
+Fortune • 21h ago
+
+---
+
+**[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
+
+WSJ • 9h ago
+
+---
+
+**[Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences](https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences)**
+
+Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’
+
+The Guardian • 5h ago
+
+---
+
+**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
+
+Business Wire • 23h ago
 
 ---
 
 **[Icarus Robotics taps KULR to provide batteries for Space Station robots](https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/)**
 
-SpaceNews • 17h ago
+SpaceNews • 20h ago
 
 ---
 
@@ -206,47 +202,7 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 16K • 👍 2K • 💬 102 • ⏱️ 3:00 • 1d ago
-
----
-
-**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
-
-For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
-
-📺 ABC News
-
-👁️ 62K • 👍 1K • 💬 451 • ⏱️ 1:54 • 5d ago
-
----
-
-**[AI Handwriting Robot Perfectly Replicates Human Writing with Incredible Precision 🤖✍️🧠](https://www.youtube.com/watch?v=NxxtoPbprYc)**
-
-This incredible AI-powered handwriting robot uses precision robotics and intelligent motion control to replicate human handwriting ...
-
-📺 Techie Sapien
-
-👁️ 52K • 💬 12 • ⏱️ 0:08 • 1d ago
-
----
-
-**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
-
-Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
-
-📺 Unitree Robotics
-
-👁️ 1.2M • 👍 996 • 💬 161 • ⏱️ 1:10 • 6d ago
-
----
-
-**[This is the most advanced robot hand ever invented #shorts](https://www.youtube.com/watch?v=25HKvK7anJg)**
-
-This is the most advanced robot hand ever invented. It's the tendon-based NEO hand from 1X. And it sounds wild to say…but this ...
-
-📺 Kallaway
-
-👁️ 367K • 👍 18K • 💬 791 • ⏱️ 1:25 • 5d ago
+👁️ 17K • 👍 2K • 💬 104 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -256,25 +212,47 @@ A Chinese tech-firm has unveiled a new AI-driven robot which it says is the firs
 
 📺 Al Jazeera English
 
-👁️ 65K • 👍 491 • 💬 317 • ⏱️ 2:44 • 2d ago
+👁️ 69K • 👍 513 • 💬 333 • ⏱️ 2:44 • 2d ago
 
 ---
 
-**[Puffin-Inspired Robot that Swims and Flies](https://www.youtube.com/watch?v=9XJhrKpcBGI)**
+**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
 
-Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water ...
+Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
 
-📺 MIT Mechanical Engineering
+📺 Unitree Robotics
 
-👁️ 300K • 👍 9K • 💬 504 • ⏱️ 4:04 • 6d ago
+👁️ 1.3M • 👍 998 • 💬 161 • ⏱️ 1:10 • 6d ago
 
 ---
 
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+**[AI Handwriting Robot Perfectly Replicates Human Writing with Incredible Precision 🤖✍️🧠](https://www.youtube.com/watch?v=NxxtoPbprYc)**
 
-📺 Varun Mayya
+This incredible AI-powered handwriting robot uses precision robotics and intelligent motion control to replicate human handwriting ...
 
-👁️ 190K • 👍 7K • 💬 90 • ⏱️ 1:03 • 4d ago
+📺 Techie Sapien
+
+👁️ 53K • 💬 13 • ⏱️ 0:08 • 1d ago
+
+---
+
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
+
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
+
+📺 ABC News
+
+👁️ 62K • 👍 1K • 💬 453 • ⏱️ 1:54 • 5d ago
+
+---
+
+**[This is the most advanced robot hand ever invented #shorts](https://www.youtube.com/watch?v=25HKvK7anJg)**
+
+This is the most advanced robot hand ever invented. It's the tendon-based NEO hand from 1X. And it sounds wild to say…but this ...
+
+📺 Kallaway
+
+👁️ 368K • 👍 18K • 💬 792 • ⏱️ 1:25 • 5d ago
 
 ---
 
@@ -285,6 +263,24 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 📺 Suhel Experiment
 
 👁️ 40K • 💬 29 • ⏱️ 1:30 • 3d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 192K • 👍 7K • 💬 90 • ⏱️ 1:03 • 4d ago
+
+---
+
+**[Puffin-Inspired Robot that Swims and Flies](https://www.youtube.com/watch?v=9XJhrKpcBGI)**
+
+Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water ...
+
+📺 MIT Mechanical Engineering
+
+👁️ 304K • 👍 9K • 💬 513 • ⏱️ 4:04 • 6d ago
 
 ---
 
