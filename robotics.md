@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-16T01:00:52.926533+00:00'
+updated: '2026-07-16T04:16:12.471168+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 16, 2026 at 01:00 UTC  
+**Last Updated:** July 16, 2026 at 04:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ Ranjay Krishna argues that language may be an unnecessary intermediary between p
 
 Created Simulation From LLM Output Background: I studied EECS and I'm now getting into robotics, mostly working through the simulation side of things. While digging into the sim pipeline I came across this repo: https://github.com/AlexKaravaev/world-creator It's a CLI that generates Gazebo and Mujoco simulation worlds from a text prompt. You type something like "warehouse with shelves and some obstacles for navigation testing" and it picks models from the Gazebo model database and places them for you. I think it's genuinely a great idea and ahead of its time. It's from ~2023, so it predates all the recent LLM progress, and the author was upfront that the model hallucinated a lot back then. With today's models this approach could work way better. Curious about a few things: Has anyone here used this or something like it in real work? Is prompt-to-world something you'd actually want, or is scene setup not painful enough to matter? From what I've seen so far, people complain way more about getting the robot itself into sim (URDF, meshes, inertia values) than the environment around it. Is that right? If someone built an upgraded version of this, what would the use cases be for you? Randomized scenes for RL training? Test scenarios in CI? Quick demos? I'm exploring building in this space, so honest "nobody needs this" takes are just as useful as feature wishlists.
 
-21h ago
+1d ago
 
 ---
 
@@ -112,23 +112,31 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 ## Google News: "robotics"
 
+**[NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/)**
+
+General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
+
+NVIDIA Blog • 5h ago
+
+---
+
 **[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 19h ago
 
 ---
 
-**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
+**[He sold his last company to Palantir. Now he's betting $32 million that robots can fix construction's labor crisis](https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)**
 
-Business Wire • 15h ago
+Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
+
+Fortune • 16h ago
 
 ---
 
-**[Stealthy Toyota spinout gets one of Boston area’s biggest robotics deals ever](https://www.bostonglobe.com/2026/07/15/business/walden-robotics-cambridge-toyota-humanoid/)**
+**[Icarus Robotics taps KULR to provide batteries for Space Station robots](https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/)**
 
-Walden Robotics, led by MIT professor Russ Tedrake, has raised $300 million from Toyota and other investors.
-
-The Boston Globe • 12h ago
+SpaceNews • 15h ago
 
 ---
 
@@ -140,35 +148,23 @@ Anthropic • 6d ago
 
 ---
 
-**[Nvidia Releases New Robotics AI Model](https://www.theinformation.com/briefings/nvidia-releases-new-robotics-ai-model)**
+**[Humanoid robots perform live surgery in world first](https://www.foxnews.com/tech/humanoid-robots-perform-live-surgery-world-first)**
 
-Nvidia on Wednesday released a new small, open-source model for “physical” AI that operates in the real world, including for robots. 
+Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.
 
- The model, Cosmos 3 Edge, is just 4 billion parameters and can run on a customer’s own computer rather than in a data center. It can act as both a so-called vision language model or a world model, both of which help robots navigate or understand their
-
-The Information • 1h ago
+Fox News • 1d ago
 
 ---
 
 **[China Sends Robots Out Into the World to Learn How to Be Human](https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[He sold his last company to Palantir. Now he's betting $32 million that robots can fix construction's labor crisis](https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)**
+**[Upstate NY school district will deploy a humanoid robot teacher this fall](https://www.newyorkupstate.com/schools/2026/07/upstate-ny-school-district-will-deploy-a-humanoid-robot-teacher-this-fall.html)**
 
-Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
-
-Fortune • 13h ago
-
----
-
-**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
-
-NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
-
-NVIDIA Blog • 14h ago
+NewYorkUpstate.com • 12h ago
 
 ---
 
@@ -176,13 +172,15 @@ NVIDIA Blog • 14h ago
 
 The Vicarious Surgical board wants to close the struggling surgical robotics developer as soon as a special meeting of investors, scheduled for July 21.
 
-MassDevice • 4h ago
+MassDevice • 8h ago
 
 ---
 
-**[Icarus Robotics taps KULR to provide batteries for Space Station robots](https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/)**
+**[Robotican: Robots built for the front lines, and below them](https://www.jpost.com/defense-and-tech/article-902578)**
 
-SpaceNews • 11h ago
+From tunnels to missile-hit buildings, Robotican’s unmanned systems take soldiers out of danger.
+
+The Jerusalem Post • 17h ago
 
 ---
 
@@ -190,23 +188,23 @@ SpaceNews • 11h ago
 
 ## YouTube Videos: "robotics"
 
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
+
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
+
+📺 ABC News
+
+👁️ 62K • 👍 1K • 💬 448 • ⏱️ 1:54 • 5d ago
+
+---
+
 **[Building a GIANT Remote Controlled Robot  #engineering #robotics #fanuc](https://www.youtube.com/watch?v=c_oJXMTtcLE)**
 
 Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
 
 📺 Excessive Overkill
 
-👁️ 15K • 👍 1K • 💬 95 • ⏱️ 3:00 • 1d ago
-
----
-
-**[AI Handwriting Robot Perfectly Replicates Human Writing with Incredible Precision 🤖✍️🧠](https://www.youtube.com/watch?v=NxxtoPbprYc)**
-
-This incredible AI-powered handwriting robot uses precision robotics and intelligent motion control to replicate human handwriting ...
-
-📺 Techie Sapien
-
-👁️ 50K • 💬 10 • ⏱️ 0:08 • 18h ago
+👁️ 16K • 👍 1K • 💬 97 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -220,43 +218,23 @@ Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech Yo
 
 ---
 
-**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
-
-For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
-
-📺 ABC News
-
-👁️ 62K • 👍 1K • 💬 444 • ⏱️ 1:54 • 5d ago
-
----
-
 **[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
 
 Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
 
 📺 Unitree Robotics
 
-👁️ 1.1M • 👍 990 • 💬 161 • ⏱️ 1:10 • 6d ago
+👁️ 1.2M • 👍 992 • 💬 161 • ⏱️ 1:10 • 6d ago
 
 ---
 
-**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
+**[AI Handwriting Robot Perfectly Replicates Human Writing with Incredible Precision 🤖✍️🧠](https://www.youtube.com/watch?v=NxxtoPbprYc)**
 
-How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
+This incredible AI-powered handwriting robot uses precision robotics and intelligent motion control to replicate human handwriting ...
 
-📺 Suhel Experiment
+📺 Techie Sapien
 
-👁️ 39K • 💬 29 • ⏱️ 1:30 • 3d ago
-
----
-
-**[1X: Everyone Got Robot Hands WRONG [w/Scott Walter]](https://www.youtube.com/watch?v=jwuBX9pFBFA)**
-
-Join me and Dr. Scott Walter (@goingballistic16) as we explore why 1X's new robot hand may represent a fundamental shift in ...
-
-📺 Dr. Know-it-all Knows it all
-
-👁️ 14K • 👍 590 • 💬 63 • ⏱️ 49:13 • 3d ago
+👁️ 51K • 💬 11 • ⏱️ 0:08 • 21h ago
 
 ---
 
@@ -266,7 +244,7 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 364K • 👍 18K • 💬 788 • ⏱️ 1:25 • 5d ago
+👁️ 366K • 👍 18K • 💬 789 • ⏱️ 1:25 • 5d ago
 
 ---
 
@@ -276,7 +254,27 @@ A Chinese tech-firm has unveiled a new AI-driven robot which it says is the firs
 
 📺 Al Jazeera English
 
-👁️ 53K • 👍 418 • 💬 290 • ⏱️ 2:44 • 1d ago
+👁️ 60K • 👍 468 • 💬 307 • ⏱️ 2:44 • 1d ago
+
+---
+
+**[Puffin-Inspired Robot that Swims and Flies](https://www.youtube.com/watch?v=9XJhrKpcBGI)**
+
+Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water ...
+
+📺 MIT Mechanical Engineering
+
+👁️ 295K • 👍 8K • 💬 502 • ⏱️ 4:04 • 6d ago
+
+---
+
+**[1X: Everyone Got Robot Hands WRONG [w/Scott Walter]](https://www.youtube.com/watch?v=jwuBX9pFBFA)**
+
+Join me and Dr. Scott Walter (@goingballistic16) as we explore why 1X's new robot hand may represent a fundamental shift in ...
+
+📺 Dr. Know-it-all Knows it all
+
+👁️ 14K • 👍 596 • 💬 65 • ⏱️ 49:13 • 3d ago
 
 ---
 
@@ -284,7 +282,7 @@ A Chinese tech-firm has unveiled a new AI-driven robot which it says is the firs
 
 📺 Varun Mayya
 
-👁️ 187K • 👍 6K • 💬 90 • ⏱️ 1:03 • 4d ago
+👁️ 188K • 👍 6K • 💬 90 • ⏱️ 1:03 • 4d ago
 
 ---
 

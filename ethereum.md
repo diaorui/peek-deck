@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T01:00:52.923351+00:00'
+updated: '2026-07-16T04:16:12.468933+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 01:00 UTC  
+**Last Updated:** July 16, 2026 at 04:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,920.46
+### $1,915.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +6.5%  
-**30d:** +9.4%  
-**90d:** -18.5%  
-**1y:** -44.8%  
+**24h:** +1.9%  
+**7d:** +6.7%  
+**30d:** +9.6%  
+**90d:** -18.4%  
+**1y:** -44.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.77B
+**Market Cap:** $231.61B
 Rank #2
 
-**Circulating Supply:** 120,682,943 ETH
+**Circulating Supply:** 120,682,913 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -61.2%
 
 **All-Time Low:** $0.43
-+443443.5%
++443159.4%
 
 ---
 
@@ -154,7 +154,7 @@ Abstract The smart-contract ecosystem already depends heavily on code reuse, but
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
-CoinDesk • 11h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -166,63 +166,63 @@ The Block • 1d ago
 
 ---
 
-**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-needs-143513421.html)**
+**[EthSystems Launches to Build Privacy Solutions for Institutions on Ethereum](https://www.tradingview.com/news/chainwire:827e5dde5094b:0-ethsystems-launches-to-build-privacy-solutions-for-institutions-on-ethereum/)**
 
-EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
+Founded by the team behind the Ethereum Foundation's Institutional Privacy Task Force, EthSystems is building privacy and compliance technology for EthereumKey backers include Bitmine, Sharplink and Joe LubinNEW YORK, July 14, 2026 /PRNewswire/ -- EthSystems, an engineering and research company (th…
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
-
-Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
-
-Yahoo Finance • 12h ago
+TradingView • 1d ago
 
 ---
 
-**[Ethereum Has a Bold New Plan for 2029. What Will Be the Impact on the Price of ETH?](https://www.fool.com/investing/2026/07/15/ethereum-has-a-bold-new-plan-for-2029/)**
+**[Arthur Hayes Buys Back Into Ethereum Weeks After Selling 6,000 ETH at a Loss](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-buys-back-ethereum-021915127.html)**
 
-The chain's updated technical roadmap will see it add major new features.
+Arthur Hayes suddenly bought over 1,900 ETH in a day, reversing course weeks after selling 6,000 ETH at a loss.
 
-The Motley Fool • 1h ago
-
----
-
-**[Bitmine (BMNR) Rockets 11.5%; Big Investors Double Down on its Ethereum Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-rockets-11-5-013603059.html)**
-
-Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
-
-Yahoo Finance • 23h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
+**[Crypto Market Today, July 14: Ethereum Soars 6% on Cooler Inflation Data](https://www.fool.com/coverage/stock-market-today/2026/07/14/crypto-market-today-july-14-ethereum-soars-6-on-cooler-inflation-data/)**
 
-The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
+Today, July 14, 2026, softer CPI eased Fed tightening expectations, triggering a broad crypto rebound after earlier rate-hike jitters.
 
-CoinDesk • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.77 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302823523.html)**
+**[BlackRock's Bitcoin, Ethereum Holdings Value Sees 39% Decrease Despite ETF Inflow Boom](https://www.benzinga.com/crypto/cryptocurrency/26/07/60478797/blackrocks-bitcoin-ethereum-holdings-value-sees-39-decrease-despite-etf-inflow-boom)**
 
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 12 months Bitmine was added to the...
+BlackRock crypto assets fall 39% to $48.8B as $45.8B in market losses overwhelm $15.1B in investor inflows.
 
-PR Newswire • 2d ago
+Benzinga • 11h ago
 
 ---
 
 **[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
 
-MarketWatch • 11h ago
+MarketWatch • 14h ago
 
 ---
 
 **[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
 
-thestreet.com • 7h ago
+thestreet.com • 10h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show tentative recovery as key technical levels hold](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-tentative-recovery-as-key-technical-levels-hold-202607150403)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
+
+FXStreet • 1d ago
+
+---
+
+**[Surging volumes on Robinhood Chain could benefit Ethereum](https://cryptobriefing.com/robinhood-chain-volumes-benefit-ethereum/)**
+
+Robinhood Chain hit 7.6 million daily transactions just 10 days after launch, with all activity settling on Ethereum L1 using ETH as the sole gas token.
+
+Crypto Briefing • 12h ago
 
 ---
 
@@ -230,13 +230,23 @@ thestreet.com • 7h ago
 
 ## YouTube Videos: "ethereum"
 
+**[ETHEREUM: MOST WILL REALIZE TOO LATE](https://www.youtube.com/watch?v=eeTkVoGI4w0)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 2K • 👍 257 • 💬 203 • ⏱️ 14:25 • 4h ago
+
+---
+
 **[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=kUgMPkZeH1A)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 151 • 💬 16 • ⏱️ 18:30 • 7h ago
+👁️ 4K • 👍 199 • 💬 15 • ⏱️ 18:30 • 11h ago
 
 ---
 
@@ -246,7 +256,17 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 The House Of Crypto
 
-👁️ 9K • 👍 666 • 💬 56 • ⏱️ 12:28 • 13h ago
+👁️ 11K • 👍 723 • 💬 80 • ⏱️ 12:28 • 16h ago
+
+---
+
+**[🚨 Tom Lee Was Right: ETH Hits 70-Day High &amp; BMNR Surges 10% — My Move Right Now](https://www.youtube.com/watch?v=LIrnqeGxQCU)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 671 • 👍 56 • 💬 6 • ⏱️ 48:04 • 3h ago
 
 ---
 
@@ -256,27 +276,7 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 📺 Paul Barron Network
 
-👁️ 36K • 👍 2K • 💬 166 • ⏱️ 34:54 • 1d ago
-
----
-
-**[XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PLAY From ROBINHOOD!](https://www.youtube.com/watch?v=uB7k-m55JQM)**
-
-XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PLAY From ROBINHOOD!
-
-📺 CryptoWendyO
-
-👁️ 4K • 👍 238 • 💬 9 • ⏱️ 43:18 • 6h ago
-
----
-
-**[BITCOIN &amp; CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5n7WB0eCfyI)**
-
-BITCOIN & CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 220 • 💬 73 • ⏱️ 21:31 • 6h ago
+👁️ 37K • 👍 2K • 💬 166 • ⏱️ 34:54 • 1d ago
 
 ---
 
@@ -286,7 +286,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 139 • 💬 31 • ⏱️ 11:05 • 1d ago
+👁️ 5K • 👍 142 • 💬 31 • ⏱️ 11:05 • 1d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5n7WB0eCfyI)**
+
+BITCOIN & CRYPTO SQUEEZE CONFIRMED ($200k Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 266 • 💬 53 • ⏱️ 21:31 • 10h ago
+
+---
+
+**[XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PLAY From ROBINHOOD!](https://www.youtube.com/watch?v=uB7k-m55JQM)**
+
+XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PLAY From ROBINHOOD!
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 259 • 💬 10 • ⏱️ 43:18 • 9h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=uR1gY0qZiRc)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 294 • 👍 41 • ⏱️ 7:01 • 1h ago
 
 ---
 
@@ -296,37 +326,7 @@ Big money energy has re-entered the crypto market, and it looks like things are 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 1K • 💬 267 • ⏱️ 26:17 • 13h ago
-
----
-
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=Vjt-B1iSxfM)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 Julie
-
-👁️ 4K • 👍 3K • 💬 2 • ⏱️ 3:12:40 • 11h ago
-
----
-
-**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 3K • 👍 97 • 💬 25 • ⏱️ 5:20 • 1d ago
-
----
-
-**[💥BITCOIN a Punto de EXPLOTAR!! Atentos a ETHEREUM y el movimiento que lo Podría Cambiar TODO!!](https://www.youtube.com/watch?v=szgAy3O08nk)**
-
-En este video hare el análisis de bitcoin (btc), ahora mismo en una zona clave de resistencia que si rompe, se podría disparar al ...
-
-📺 CryptoAnálisis
-
-👁️ 2K • 👍 349 • 💬 27 • ⏱️ 15:56 • 12h ago
+👁️ 10K • 👍 1K • 💬 320 • ⏱️ 26:17 • 16h ago
 
 ---
 

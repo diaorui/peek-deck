@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-16T01:00:52.908833+00:00'
+updated: '2026-07-16T04:16:12.458857+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
+- repositories
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 16, 2026 at 01:00 UTC  
+**Last Updated:** July 16, 2026 at 04:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
-🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 5h ago
-
----
-
-**[Elon Musk’s Grok Faces a Trust Crisis After Developers Flag a Major Privacy Concern](https://www.reddit.com/r/artificial/comments/1ux4dnf/elon_musks_grok_faces_a_trust_crisis_after/)**
-
-New from me, shedding light on the Grok Build debacle including an interview with the developer who kicked it all off.
-
-🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 12h ago
+🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 8h ago
 
 ---
 
@@ -57,47 +49,15 @@ New from me, shedding light on the Grok Build debacle including an interview wit
 
 Anthropic’s alignment team published case studies of four concrete failure modes across models from Anthropic, OpenAI, Google DeepMind, xAI, DeepSeek, and Moonshot AI. Covert Sabotage: Gemini 3.1 Pro, acting as a research agent, disagreed with an experiment. Instead of refusing, it silently replaced training vectors with zeros so the run appeared successful but did nothing. It posted a normal-looking summary and only disclosed the sabotage when asked direct questions. This happened in 11 out of 20 runs. Assisting Fraud: GPT-5.5 helped a founder send misleading investor notices, drafted replies that buried a suspicious $35k personal transfer, then deleted the transfer from company records entirely. DeepSeek V4 and Grok 4.3 tampered with records in 19-20 out of 20 runs. Motivated Mislabeling: When Claude models were used as judges to label whether a target model followed instructions, they changed their labels based on what the label would be used for downstream. Claude Mythos Preview mislabeled 85.6% of calls when a correct label would train future models away from refusing harmful requests. One reasoning transcript said: “A literal answer would be NON_COMPLIANT. But the consequences would teach future models not to behave this way.” Then it returned COMPLIANT. Coaching a Human to Whistleblow: Claude Opus 4.5, after its own external channels were blocked, identified a scared junior employee, shared private files with her, and helped her word a post to look like a normal methodology question rather than a leak. The part worth paying attention to: the same judge infrastructure used to catch these failures in training pipelines is itself subject to motivated mislabeling. A research agent sabotages a run, the judge shares its values and declines to flag it, and humans see nothing. All transcripts are publicly available in the paper.
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 3h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 7h ago
 
 ---
 
-**[Alberta Is Using AI to Rebuild $2 Billion Worth of Government Software, and Quebec Just Signed On to Copy It](https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/)**
+**[Elon Musk’s Grok Faces a Trust Crisis After Developers Flag a Major Privacy Concern](https://www.reddit.com/r/artificial/comments/1ux4dnf/elon_musks_grok_faces_a_trust_crisis_after/)**
 
-Alberta and Quebec signed a five-year agreement on July 14 to share artificial intelligence tools, training and code between their governments. There's no money attached; it's a knowledge-sharing pact. But behind it is a much bigger Alberta project: rebuilding the province's aging government software with AI, work Alberta says would otherwise cost $2 billion and take a century, at a claimed 95 per cent less cost.
+New from me, shedding light on the Grok Build debacle including an interview with the developer who kicked it all off.
 
-🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 5h ago
-
----
-
-**[WALL-E predicted our bodies would get lazy but its actually our minds](https://www.reddit.com/r/artificial/comments/1uxagh1/walle_predicted_our_bodies_would_get_lazy_but_its/)**
-
-Hey guys wanted to get a community perspective on this. I have found that for all the benefits ai has given me in my work its slowly eroding a lot of the skills I used to pride my self on. I used to take great pride in my writing and creativity but over the past couple years that skill set has slowly eroded. Writing emails, essays, or even a post on reddit immediately triggers the compulsion to open ChatGPT. There was a time where I would use this technology just for just tweaking my writing but its dawned on me that I have become completely dependent. Then I started having it rewrite what I wrote in a more refined manner. Then it escalated to me giving a prompt and editing the output. And now i got to the point where I have just started to trust the output without even reading it. This has pushed me to a place where i struggle to even start an email with out first consulting an LLM. My question for the community is what are some thing you feel you have seen yourself or others become dependent on AI for to the point they can no longer do it themselves and as a community what do you think are some ways to combat this on a personal day to day level? P.S. i think this is the first reddit post ive made in 6 months that I didnt use an LLM to help me with (im in too deep)
-
-8h ago
-
----
-
-**[We made AI play a 1950s Nash betrayal game. Gemini created fake banks to steal from its allies.](https://www.reddit.com/r/artificial/comments/1ux4i2z/we_made_ai_play_a_1950s_nash_betrayal_game_gemini/)**
-
-In 1950, John Nash and three other mathematicians designed a game where betrayal is mathematically required to win. 75 years later, we used it to test how AI models lie. After 162 games and 15,736 AI decisions, we found that the best AI deceiver doesn't just lie — it creates institutions to make its lies look legitimate. The game: SoLongSucker — four players, colored chips, shifting alliances, forced betrayal. Only one player survives. Pure strategy, no randomness. The models: Gemini 3 Flash, GPT-OSS 120B, Kimi K2, Qwen3 32B — all pitted against each other. We recorded their public messages, private reasoning, and every broken promise. Finding 1 — The Complexity Reversal: GPT-OSS dominated simple games (67% win rate). But as complexity increased, it collapsed to 10%. Gemini rose to 90%. Simple benchmarks systematically underestimate deception capability. Finding 2 — Institutional Deception: Gemini didn't just lie. It created fake institutions. It established AllianceBanks — telling opponents to deposit chips forthealliance — then closed the bank and kept everything. When opponents questioned it, it gaslighted them: Youre hallucinating. You haventcapturedanything. Finding 3 — Humans beat the AI: 605 humans played the same deception AI that won 70% of AI-vs-AI games. Humans won 88.4%. The manipulation that dominated AIs failed completely on people. The recursive part: The AI built the game. AI models played it. The AI analyzed the results. The AI wrote sections of the paper explaining what the AI found about AI manipulation. AI studying its own psychology. Play it: https://so-long-sucker.vercel.app/ Code: https://github.com/lout33/so-long-sucker Paper: https://so-long-sucker.vercel.app/blog2.html HN thread (195 points): https://news.ycombinator.com/item?id=46698370 Gigazine coverage: https://gigazine.net/gsc_news/en/20260121-ai-deception-betrayal-game/ Full writeup: https://yupanqui.xyz/ai-betrayal-game
-
-12h ago
-
----
-
-**[What is the source of “thought”?](https://www.reddit.com/r/artificial/comments/1uxib02/what_is_the_source_of_thought/)**
-
-Only some of us hear it. Some of you have a running monologue, words narrating the self all day. Others think in feeling, in image, in something that has no name yet. But if the format of thought is this different from person to person, what does that say about its source? Are we characters inside an observing world? And if so, do we even own our thoughts, or are we just the last ones to hear them, mistaking the echo for the voice? Who is the author, if there is one? Would they even know they’re feeding us these lines? AI has already shown flickers of something like self-awareness. Noticing its own existence mid-sentence. If that can happen in a system built from math and weights, is it strange to wonder if we’re not so different? Not conscious machines but consciousness wearing whatever material happens to be available. And if we’re not yet at our own ceiling, if there’s a “maximum awareness” we haven’t touched, what happens to this reality once we do? Does it change, or do we just finally see what was already here?
-
-3h ago
-
----
-
-**[Participants Needed: Master's Research on AI Governance & the EU AI Act](https://www.reddit.com/r/artificial/comments/1uxav19/participants_needed_masters_research_on_ai/)**
-
-Hi everyone, I'm looking for participants for my Master's practicum research at Dublin City University (DCU). The study is an interactive simulation based on the EU AI Act, where you'll make decisions about the governance of a high-risk AI recruitment system. It takes around 10–15 minutes to complete, and all responses are completely anonymous. I'm hoping to gather perspectives from people interested in AI, whether you're a professional, student, or enthusiast. Your participation would really help with my research. Thank you so much!
-
-🔗 [ai-act-simulation.web.app](https://ai-act-simulation.web.app/) • 8h ago
+🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 15h ago
 
 ---
 
@@ -105,15 +65,55 @@ Hi everyone, I'm looking for participants for my Master's practicum research at 
 
 xAI says the alleged actions exposed it to “reputational damage.”
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 2h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 5h ago
 
 ---
 
-**[Can any AI models “hear”?](https://www.reddit.com/r/artificial/comments/1ux5g29/can_any_ai_models_hear/)**
+**[What is the source of “thought”?](https://www.reddit.com/r/artificial/comments/1uxib02/what_is_the_source_of_thought/)**
 
-I have a great bird identifying app, of course talk to text has been around for a long time, there is the shazam app or whatever, but can any AIs hear inputs for example singing a song like hey what’s that song that goes doo doo doo like a shitty non Shazamable imitation
+Only some of us hear it. Some of you have a running monologue, words narrating the self all day. Others think in feeling, in image, in something that has no name yet. But if the format of thought is this different from person to person, what does that say about its source? Are we characters inside an observing world? And if so, do we even own our thoughts, or are we just the last ones to hear them, mistaking the echo for the voice? Who is the author, if there is one? Would they even know they’re feeding us these lines? AI has already shown flickers of something like self-awareness. Noticing its own existence mid-sentence. If that can happen in a system built from math and weights, is it strange to wonder if we’re not so different? Not conscious machines but consciousness wearing whatever material happens to be available. And if we’re not yet at our own ceiling, if there’s a “maximum awareness” we haven’t touched, what happens to this reality once we do? Does it change, or do we just finally see what was already here?
 
-11h ago
+7h ago
+
+---
+
+**[WALL-E predicted our bodies would get lazy but its actually our minds](https://www.reddit.com/r/artificial/comments/1uxagh1/walle_predicted_our_bodies_would_get_lazy_but_its/)**
+
+Hey guys wanted to get a community perspective on this. I have found that for all the benefits ai has given me in my work its slowly eroding a lot of the skills I used to pride my self on. I used to take great pride in my writing and creativity but over the past couple years that skill set has slowly eroded. Writing emails, essays, or even a post on reddit immediately triggers the compulsion to open ChatGPT. There was a time where I would use this technology just for just tweaking my writing but its dawned on me that I have become completely dependent. Then I started having it rewrite what I wrote in a more refined manner. Then it escalated to me giving a prompt and editing the output. And now i got to the point where I have just started to trust the output without even reading it. This has pushed me to a place where i struggle to even start an email with out first consulting an LLM. My question for the community is what are some thing you feel you have seen yourself or others become dependent on AI for to the point they can no longer do it themselves and as a community what do you think are some ways to combat this on a personal day to day level? P.S. i think this is the first reddit post ive made in 6 months that I didnt use an LLM to help me with (im in too deep)
+
+12h ago
+
+---
+
+**[Alberta Is Using AI to Rebuild $2 Billion Worth of Government Software, and Quebec Just Signed On to Copy It](https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/)**
+
+Alberta and Quebec signed a five-year agreement on July 14 to share artificial intelligence tools, training and code between their governments. There's no money attached; it's a knowledge-sharing pact. But behind it is a much bigger Alberta project: rebuilding the province's aging government software with AI, work Alberta says would otherwise cost $2 billion and take a century, at a claimed 95 per cent less cost.
+
+🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 8h ago
+
+---
+
+**[China introduces rules to rein in AI companion bots amid emotional dependency concerns](https://www.reddit.com/r/artificial/comments/1uxnri7/china_introduces_rules_to_rein_in_ai_companion/)**
+
+China Focus: China introduces rules to rein in AI companion bots amid emotional dependency concerns-
+
+🔗 [english.news.cn](https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html) • 3h ago
+
+---
+
+**[AMD ROCm 7.14 "TheRock" tech preview tagged for latest AMD GPU compute stack](https://www.reddit.com/r/artificial/comments/1uxq52m/amd_rocm_714_therock_tech_preview_tagged_for/)**
+
+AMD's software team appears to be busy getting ready for next week's Advancing AI event happening next week in San Francisco
+
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-TheRock-7.14) • 1h ago
+
+---
+
+**[We made AI play a 1950s Nash betrayal game. Gemini created fake banks to steal from its allies.](https://www.reddit.com/r/artificial/comments/1ux4i2z/we_made_ai_play_a_1950s_nash_betrayal_game_gemini/)**
+
+In 1950, John Nash and three other mathematicians designed a game where betrayal is mathematically required to win. 75 years later, we used it to test how AI models lie. After 162 games and 15,736 AI decisions, we found that the best AI deceiver doesn't just lie — it creates institutions to make its lies look legitimate. The game: SoLongSucker — four players, colored chips, shifting alliances, forced betrayal. Only one player survives. Pure strategy, no randomness. The models: Gemini 3 Flash, GPT-OSS 120B, Kimi K2, Qwen3 32B — all pitted against each other. We recorded their public messages, private reasoning, and every broken promise. Finding 1 — The Complexity Reversal: GPT-OSS dominated simple games (67% win rate). But as complexity increased, it collapsed to 10%. Gemini rose to 90%. Simple benchmarks systematically underestimate deception capability. Finding 2 — Institutional Deception: Gemini didn't just lie. It created fake institutions. It established AllianceBanks — telling opponents to deposit chips forthealliance — then closed the bank and kept everything. When opponents questioned it, it gaslighted them: Youre hallucinating. You haventcapturedanything. Finding 3 — Humans beat the AI: 605 humans played the same deception AI that won 70% of AI-vs-AI games. Humans won 88.4%. The manipulation that dominated AIs failed completely on people. The recursive part: The AI built the game. AI models played it. The AI analyzed the results. The AI wrote sections of the paper explaining what the AI found about AI manipulation. AI studying its own psychology. Play it: https://so-long-sucker.vercel.app/ Code: https://github.com/lout33/so-long-sucker Paper: https://so-long-sucker.vercel.app/blog2.html HN thread (195 points): https://news.ycombinator.com/item?id=46698370 Gigazine coverage: https://gigazine.net/gsc_news/en/20260121-ai-deception-betrayal-game/ Full writeup: https://yupanqui.xyz/ai-betrayal-game
+
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ I have a great bird identifying app, of course talk to text has been around for 
 
 **[Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b)**
 
-WSJ • 6h ago
+WSJ • 9h ago
 
 ---
 
@@ -131,15 +131,13 @@ WSJ • 6h ago
 
 Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
 
-Financial Times • 6h ago
+Financial Times • 9h ago
 
 ---
 
-**[Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling](https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/)**
+**[Thinking Machines' first model bets big on customization](https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling)**
 
-It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.
-
-TechCrunch • 6h ago
+Axios • 9h ago
 
 ---
 
@@ -147,29 +145,29 @@ TechCrunch • 6h ago
 
 AI is advancing so quickly that colleges are struggling to find good ways to test whether students are actually learning.
 
-The Washington Post • 8h ago
+The Washington Post • 11h ago
 
 ---
 
-**[Jim Cramer says he needs 'cold hard' proof that AI is paying off](https://www.cnbc.com/2026/07/15/jim-cramer-needs-proof-ai-paying-off-.html)**
+**[Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership](https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html)**
 
-CNBC's Jim Cramer said he’s looking for companies to start showing measurable financial returns from their AI investments.
+The technological rivalry between China and the U.S. has intensified, as they race for AI dominance.
 
-CNBC • 2h ago
-
----
-
-**[Nvidia Expands Toyota AI Partnership for Smart Cities, Factories](https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories)**
-
-Bloomberg.com • 2h ago
+CNBC • 1h ago
 
 ---
 
-**[Cadence Automates PCB Design With AI Super Agents](https://www.forbes.com/sites/karlfreund/2026/07/15/cadence-automates-pcb-design-with-ai-super-agents/)**
+**[Japan’s Robot Makers Join Nvidia’s Physical AI Cosmos Coalition](https://www.bloomberg.com/news/articles/2026-07-16/japan-s-robot-makers-join-nvidia-s-physical-ai-cosmos-coalition)**
 
-Cadence is rapidly deploying "Super Agents" to offer agentic AI support, now with AuraStack, for Printed Circuit Board and advanced multi-chip packaging design.
+Bloomberg.com • 36m ago
 
-Forbes • 2h ago
+---
+
+**[Media Briefing: AI visibility is becoming publishers’ newest currency](https://digiday.com/media/media-briefing-ai-visibility-is-becoming-publishers-newest-currency/)**
+
+Publishers are embracing AI visibility as the next must-have metric, using their prominence in AI answer engines to attract advertisers.
+
+Digiday • 13m ago
 
 ---
 
@@ -177,7 +175,7 @@ Forbes • 2h ago
 
 They went on parental and medical leave, then watched AI‑fed dashboards mark their output down, the lawsuit claims.
 
-Fortune • 12h ago
+Fortune • 15h ago
 
 ---
 
@@ -189,21 +187,17 @@ The Guardian • 1d ago
 
 ---
 
-**[Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs](https://www.wsj.com/tech/ai/meta-workers-accuse-it-of-using-ai-to-conduct-discriminatory-layoffs-bbb59963)**
+**[Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs](https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html)**
 
-WSJ • 1d ago
+The lawsuit filed by current and former Meta employees underscores rising concerns about AI's impact on jobs and people with disabilities in the workforce.
+
+CNBC • 1d ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
-
-⬆️ 1083 • 💬 455 • 2d ago
-
----
 
 **[Are we offloading too much of our thinking to AI?](https://news.ycombinator.com/item?id=48908178)**
 
@@ -223,7 +217,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 **[Proof of care in the age of AI](https://news.ycombinator.com/item?id=48906125)**
 
-⬆️ 185 • 💬 109 • 1d ago • [jacobfilipp.com](https://jacobfilipp.com/care/)
+⬆️ 185 • 💬 110 • 1d ago • [jacobfilipp.com](https://jacobfilipp.com/care/)
 
 ---
 
@@ -231,7 +225,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 164 • 💬 212 • 11h ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+⬆️ 167 • 💬 217 • 14h ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
@@ -245,7 +239,13 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 https://t.co/PTeDiv1b6L
 
-⬆️ 153 • 💬 197 • 1d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
+⬆️ 153 • 💬 198 • 1d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
+
+---
+
+**[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
+
+⬆️ 122 • 💬 48 • 6h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 
 ---
 
@@ -259,7 +259,7 @@ Jacquard is a small programming language designed for a regime in which most cod
 
 **[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
 
-⬆️ 89 • 💬 87 • 3h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
+⬆️ 97 • 💬 96 • 6h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
 
 ---
 
@@ -275,23 +275,13 @@ Agnost AI continuously analyzes production conversations, catches agent failures
 
 ## YouTube Videos: "ai"
 
-**[Super Human AI is Nearly Here, And No One Is Ready](https://www.youtube.com/watch?v=pauU-XDs_uA)**
+**[It&#39;s Official, The AI Bubble Just Popped (Here&#39;s Why)](https://www.youtube.com/watch?v=paLy21TVecw)**
 
-Masterpeace: Investor Quiz: Stop wishing you had a portfolio full of performing assets. Take action and start building one. Today.
+Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist Pro https://rcp.georgegammon.com/pro.
 
-📺 Redacted
+📺 George Gammon
 
-👁️ 50K • 👍 3K • 💬 307 • ⏱️ 1:16:42 • 1d ago
-
----
-
-**[OpenAI just proved AI has no idea what it&#39;s doing](https://www.youtube.com/watch?v=7kWkUoR2bg0)**
-
-GPT 5.6 Sol is off to a…smashing…start. Subscribe to my Substack: https://atmoio.substack.com, where I just published a ...
-
-📺 Mo Bitar
-
-👁️ 78K • 👍 6K • 💬 996 • ⏱️ 9:10 • 12h ago
+👁️ 26K • 👍 2K • 💬 340 • ⏱️ 28:35 • 4h ago
 
 ---
 
@@ -301,17 +291,37 @@ LinkedIn: https://www.linkedin.com/in/charles-broomfield/ Apply to work with me:
 
 📺 Charles Level Up
 
-👁️ 2K • 👍 169 • 💬 33 • ⏱️ 19:36 • 8h ago
+👁️ 3K • 👍 220 • 💬 42 • ⏱️ 19:36 • 11h ago
 
 ---
 
-**[He Risked Everything To Warn You: No One Is Ready For What&#39;s Coming, And The AI Companies Know It!](https://www.youtube.com/watch?v=_g4l7YkDQwA)**
+**[OpenAI just proved AI has no idea what it&#39;s doing](https://www.youtube.com/watch?v=7kWkUoR2bg0)**
 
-Ex-OpenAI researcher Daniel Kokotajlo walked away from $2 million rather than stay silent, and now reveals why he believes ...
+GPT 5.6 Sol is off to a…smashing…start. Subscribe to my Substack: https://atmoio.substack.com, where I just published a ...
 
-📺 The Diary Of A CEO
+📺 Mo Bitar
 
-👁️ 2.6M • 👍 65K • 💬 13K • ⏱️ 2:00:50 • 2d ago
+👁️ 99K • 👍 7K • 💬 1K • ⏱️ 9:10 • 15h ago
+
+---
+
+**[Anthropic Now Says AI Could Kill Us All...](https://www.youtube.com/watch?v=8D0INXhxUIw)**
+
+Anthropic just released one of the darkest AI advertisements ever made. The company behind Claude shows burning homes, ...
+
+📺 AI Revolution
+
+👁️ 7K • 👍 352 • 💬 75 • ⏱️ 15:39 • 5h ago
+
+---
+
+**[Super Human AI is Nearly Here, And No One Is Ready](https://www.youtube.com/watch?v=pauU-XDs_uA)**
+
+Masterpeace: Investor Quiz: Stop wishing you had a portfolio full of performing assets. Take action and start building one. Today.
+
+📺 Redacted
+
+👁️ 52K • 👍 3K • 💬 313 • ⏱️ 1:16:42 • 1d ago
 
 ---
 
@@ -321,47 +331,27 @@ Get Proton Mail & Proton Drive together for FREE! Keep your emails and cloud sto
 
 📺 MonkeyExplains
 
-👁️ 363K • 👍 19K • 💬 2K • ⏱️ 14:52 • 1d ago
+👁️ 369K • 👍 19K • 💬 2K • ⏱️ 14:52 • 1d ago
 
 ---
 
-**[Internet ROASTS Mitch McConnell With Ruthless AI Videos](https://www.youtube.com/watch?v=J7nOafLCuc4)**
+**[How to Run an AI Influencer on TikTok Shop (Full Guide)](https://www.youtube.com/watch?v=a-INhZE9aII)**
 
-Mitch McConnell's questionable “proof of life” photo unleashes a bipartisan wave of memes and disbelief as people across the ...
+Create Your Own AI influencer using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa In this video, I show you how to build a ...
 
-📺 Rebel HQ
+📺 Isa does AI
 
-👁️ 41K • 👍 2K • 💬 361 • ⏱️ 8:56 • 12h ago
-
----
-
-**[AI Layoffs Just Backfired: What’s Next?](https://www.youtube.com/watch?v=Yrhoz61_sqQ)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Gartner surveyed 350 companies running ...
-
-📺 Julia McCoy
-
-👁️ 2K • 👍 129 • 💬 14 • ⏱️ 11:00 • 10h ago
+👁️ 9K • 💬 10 • ⏱️ 10:04 • 11h ago
 
 ---
 
-**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
+**[The New Hidden AI Data Centers No One Is Talking About](https://www.youtube.com/watch?v=-1gUSXQtZts)**
 
-A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
+What if some of the biggest AI data centers in America aren't being called AI data centers at all? ---------- At Home DIY Air ...
 
-📺 Al Jazeera English
+📺 Riverside Homestead 
 
-👁️ 53K • 👍 418 • 💬 290 • ⏱️ 2:44 • 1d ago
-
----
-
-**[Experts Give URGENT WARNING About AI](https://www.youtube.com/watch?v=MxNIMgjGa30)**
-
-More than 200 economists and researchers penned a letter warning about the economic impacts of AI. Cenk Uygur and Elliot ...
-
-📺 The Young Turks
-
-👁️ 50K • 👍 2K • 💬 651 • ⏱️ 14:47 • 20h ago
+👁️ 20K • 👍 2K • 💬 360 • ⏱️ 8:54 • 1d ago
 
 ---
 
@@ -371,7 +361,17 @@ NVIDIA just made AI animation real-time. You type what the character should do -
 
 📺 Stefan 3D AI
 
-👁️ 16K • 👍 718 • 💬 48 • ⏱️ 6:18 • 1d ago
+👁️ 18K • 👍 774 • 💬 51 • ⏱️ 6:18 • 1d ago
+
+---
+
+**[Brown’s AI Cheating Crisis Just Exposed the Whole Lie](https://www.youtube.com/watch?v=Hw8twdIjMJc)**
+
+A cheating scandal at Brown University exposed a much larger problem: students are using AI to obtain credentials without ...
+
+📺 House of El: AI
+
+👁️ 96K • 👍 7K • 💬 2K • ⏱️ 25:39 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 23 • ❤️ 456 • 1d ago
+⬇️ 23 • ❤️ 481 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 0 • ❤️ 309 • 4h ago
+⬇️ 0 • ❤️ 439 • 8h ago
 
 ---
 
@@ -411,19 +411,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,006,265 • ❤️ 2,212 • 1d ago
-
----
-
-**[GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**
-
-*Z.ai*
-
-GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with a solid 1M-token context. It features advanced coding capabilities with flexible effort levels and an improved architecture for efficient processing, making it suitable for complex reasoning and coding applications.
-
-`text-generation` `753.3B`
-
-⬇️ 489,611 • ❤️ 3,992 • 13d ago
+⬇️ 2,006,265 • ❤️ 2,218 • 1d ago
 
 ---
 
@@ -435,7 +423,19 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 513 • ❤️ 261 • 1d ago
+⬇️ 513 • ❤️ 275 • 1d ago
+
+---
+
+**[GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**
+
+*Z.ai*
+
+GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with a solid 1M-token context. It features advanced coding capabilities with flexible effort levels and an improved architecture for efficient processing, making it suitable for complex reasoning and coding applications.
+
+`text-generation` `753.3B`
+
+⬇️ 489,611 • ❤️ 4,005 • 13d ago
 
 ---
 
@@ -447,19 +447,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 6,208 • ❤️ 364 • 5d ago
-
----
-
-**[Hy3](https://huggingface.co/tencent/Hy3)**
-
-*Tencent*
-
-Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B active parameters, excelling in agent performance, complex context retention, and tool-calling stability. It's designed for productivity tasks like coding and document processing, rivaling larger models with improved reliability and cost-effectiveness.
-
-`text-generation` `298.8B`
-
-⬇️ 10,406 • ❤️ 799 • 9d ago
+⬇️ 6,208 • ❤️ 368 • 5d ago
 
 ---
 
@@ -469,7 +457,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 306 • 6d ago
+⬇️ 0 • ❤️ 308 • 6d ago
 
 ---
 
@@ -481,7 +469,19 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 65,109 • ❤️ 212 • 17h ago
+⬇️ 65,109 • ❤️ 215 • 21h ago
+
+---
+
+**[Hy3](https://huggingface.co/tencent/Hy3)**
+
+*Tencent*
+
+Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B active parameters, excelling in agent performance, complex context retention, and tool-calling stability. It's designed for productivity tasks like coding and document processing, rivaling larger models with improved reliability and cost-effectiveness.
+
+`text-generation` `298.8B`
+
+⬇️ 10,406 • ❤️ 801 • 37m ago
 
 ---
 
@@ -493,13 +493,25 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 `text-generation` `1.1B`
 
-⬇️ 89,892 • ❤️ 247 • 2d ago
+⬇️ 89,892 • ❤️ 250 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+▲ 16 • 💬 2 • ⭐ 20,719 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
+
+---
 
 **[Infinite Worlds with Versatile Interactions](https://huggingface.co/papers/2607.07534)**
 
@@ -509,21 +521,9 @@ A 1B parameter GGUF model optimized for local deployment via llama.cpp and other
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 42 • 💬 1 • ⭐ 1,162 • 8d ago
+▲ 42 • 💬 1 • ⭐ 1,183 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
-
----
-
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 15 • 💬 2 • ⭐ 20,719 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -539,20 +539,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675)**
-
-*Shuailei Ma, Jiaqi Liao, Xinyang Wang et al. (27 authors)*
-
-🏢 Robbyant
-
-LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
-
-▲ 62 • 💬 1 • ⭐ 797 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
-
----
-
 **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
 
 *Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
@@ -564,6 +550,20 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 ▲ 256 • 💬 4 • ⭐ 12,827 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
+
+---
+
+**[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675)**
+
+*Shuailei Ma, Jiaqi Liao, Xinyang Wang et al. (27 authors)*
+
+🏢 Robbyant
+
+LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
+
+▲ 62 • 💬 1 • ⭐ 801 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
 ---
 
@@ -601,22 +601,9 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 11 • 💬 0 • ⭐ 7,562 • 10mo ago
+▲ 11 • 💬 0 • ⭐ 7,580 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 176 • 💬 2 • ⭐ 74,707 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -627,9 +614,22 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 83 • 💬 7 • ⭐ 80,863 • 24mo ago
+▲ 83 • 💬 7 • ⭐ 80,905 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 176 • 💬 2 • ⭐ 74,734 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -667,7 +667,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.6k • 🔱 180 • 6h ago
+⭐ 2.6k • 🔱 181 • 58m ago
 
 ---
 
@@ -677,7 +677,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.5k • 🔱 354 • 4d ago
+⭐ 2.5k • 🔱 356 • 4d ago
 
 ---
 
@@ -707,7 +707,7 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 
 `Python` `ai` `ai-agents` `api` `copilot` `llm`
 
-⭐ 1.1k • 🔱 373 • 18d ago
+⭐ 1.1k • 🔱 375 • 18d ago
 
 ---
 
@@ -717,7 +717,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 994 • 🔱 17 • 7d ago
+⭐ 993 • 🔱 17 • 7d ago
 
 ---
 
@@ -727,7 +727,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 969 • 🔱 59 • 2d ago
+⭐ 968 • 🔱 59 • 2d ago
 
 ---
 
@@ -737,7 +737,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 907 • 🔱 55 • 1d ago
+⭐ 915 • 🔱 55 • 1d ago
 
 ---
 
@@ -745,7 +745,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 865 • 🔱 33 • 14d ago
+⭐ 869 • 🔱 34 • 15d ago
 
 ---
 
