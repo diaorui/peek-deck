@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-16T19:41:49.546487+00:00'
+updated: '2026-07-16T20:59:06.185599+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 19:41 UTC  
+**Last Updated:** July 16, 2026 at 20:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,184.86
+### $64,180.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +0.1%  
-**30d:** -0.4%  
-**90d:** -15.2%  
-**1y:** -46.1%  
+**24h:** -1.0%  
+**7d:** -0.0%  
+**30d:** -0.5%  
+**90d:** -15.3%  
+**1y:** -46.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1284.65B
+**Market Cap:** $1285.13B
 Rank #1
 
-**Circulating Supply:** 20,057,184 BTC
+**Circulating Supply:** 20,057,212 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.2%
 
 **All-Time Low:** $67.81
-+94356.6%
++94408.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[This guy was mining 1 Bitcoin every day in 2011. He built an $800 gaming PC, downloaded the mining software, ran it 24/7, and was earning Bitcoin like it was nothing. A true legend from the early days of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxij3x/this_guy_was_mining_1_bitcoin_every_day_in_2011/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -119,7 +119,7 @@ Lemme hear your favorite bitcoin songs!
 
 Man bitcoin has done absolutely nothing today. Just sitting there chopping between the same levels for hours. Small wicks up and down, volume looks dead, no real direction at all. But I swear I can feel it. That same vibe right before it decides to go crazy. Like its just waiting for everyone to get bored and look away then boom. This shit happens every single time. Quiet period then out of nowhere a mad move. Anyone else staring at the chart right now feeling the exact same thing? Or is it just me?
 
-23h ago
+1d ago
 
 ---
 
@@ -157,11 +157,47 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 ## Google News: "bitcoin"
 
+**[JPMorgan says bitcoin outlook sees 'encouraging sign' as Strategy boosts cash reserves](https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves)**
+
+Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
+
+The Block • 1h ago
+
+---
+
 **[A bitcoin wallet dormant since the 2017 peak just moved $383 million](https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million)**
 
 The coins went to a fresh address rather than an exchange, so nothing has been sold yet.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
+
+---
+
+**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-launches-bitcoin-ethereum-200103780.html)**
+
+Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
+
+Yahoo Finance • 58m ago
+
+---
+
+**[Toby Doeden: A bitcoin evangelist and anti-property-tax crusader who wants to be governor](https://southdakotasearchlight.com/2026/07/16/toby-doeden-a-bitcoin-evangelist-and-anti-property-tax-crusader-who-wants-to-be-governor/)**
+
+Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
+
+South Dakota Searchlight • 5h ago
+
+---
+
+**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
+
+Barchart.com • 5h ago
+
+---
+
+**[The Investors Riding Along With Strategy’s Bitcoin Rollercoaster](https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d)**
+
+WSJ • 2h ago
 
 ---
 
@@ -169,21 +205,7 @@ CoinDesk • 13h ago
 
 Strategy would begin considering risks associated with its debt only if bitcoin falls to around $8,000-$10,000, CEO Phong Le said.
 
-The Block • 22h ago
-
----
-
-**[The Investors Riding Along With Strategy’s Bitcoin Rollercoaster](https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d)**
-
-WSJ • 50m ago
-
----
-
-**[Dormant Bitcoin wallet moves $383 million after 8 years](https://au.finance.yahoo.com/news/dormant-bitcoin-wallet-moves-383-174646831.html)**
-
-A Bitcoin wallet that has sat completely still for eight years just moved nearly $383 million worth of BTC in a single transaction, and the crypto market is paying close attention to what comes next. Blockchain intelligence firm Lookonchain flagged the transaction on X on Thursday, revealing that a ...
-
-Yahoo Finance Australia • 1h ago
+The Block • 23h ago
 
 ---
 
@@ -191,7 +213,7 @@ Yahoo Finance Australia • 1h ago
 
 If history is any guide, Bitcoin can easily regain the $125,000 price level next year.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -206,30 +228,6 @@ ETF Database • 1d ago
 Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
 
 Alaska's News Source • 2d ago
-
----
-
-**[Bitcoin jumps to $65,000: 'Backdrop for crypto is improving'](https://finance.yahoo.com/markets/crypto/article/bitcoin-jumps-to-65000-backdrop-for-crypto-is-improving-144838821.html)**
-
-Bitcoin jumped nearly 2% on Wednesday to hover above $65,000 per token, while ethereum rose 3%.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Clawed Its Way Back Over $65,000. Here’s Why—and What to Know Now](https://www.investopedia.com/bitcoin-clawed-its-way-back-over-usd65-000-here-s-why-and-what-to-know-now-12019866)**
-
-The price of the world’s largest cryptocurrency traded above the $65,000 level for the first time in weeks.
-
-Investopedia • 23h ago
-
----
-
-**[Bitcoin rally cools as investors digest inflation data, oil clouds outlook](https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook)**
-
-The day ahead in crypto: July 15, 2026
-
-CoinDesk • 1d ago
 
 ---
 
@@ -273,19 +271,49 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 Keep Postgres entities synced with turbopuffer using logical replication (beta) - a24films/puffgres
 
-⬆️ 1 • 💬 0 • 27m ago • [GitHub](https://github.com/a24films/puffgres)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/a24films/puffgres)
 
 ---
 
 **[Show HN: I built a zero-regex AI WAF (200MB VRAM). Please try to bypass it](https://news.ycombinator.com/item?id=48927265)**
 
-⬆️ 1 • 💬 0 • 22h ago
+⬆️ 1 • 💬 0 • 23h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[“I’m Very Bullish” BlackRock Crypto Pump &amp; Dump Plan Revealed!](https://www.youtube.com/watch?v=Iews2OqDoyU)**
+
+I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 35K • 👍 2K • 💬 105 • ⏱️ 10:38 • 21h ago
+
+---
+
+**[Bitcoin At $64k! Samson Mow Says You&#39;re ALREADY TOO LATE for the Coming Explosion](https://www.youtube.com/watch?v=oX85sQfIv8Y)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 118 • 💬 16 • ⏱️ 14:19 • 20h ago
+
+---
+
+**[Japan Just BLEW PAST the U.S. on Crypto!!🚨While CLARITY Act STALLS!🔥](https://www.youtube.com/watch?v=hNZGT63O2cY)**
+
+Japan has taken one of its most significant steps toward integrating cryptocurrencies into the traditional financial system.
+
+📺 Paul Barron Network
+
+👁️ 63K • 👍 4K • 💬 455 • ⏱️ 15:15 • 8h ago
+
+---
 
 **[IT STARTED: Fed Chair Sends Bold Message to Crypto &amp; AI Investors](https://www.youtube.com/watch?v=r0K5dqG74As)**
 
@@ -303,77 +331,47 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 510 • 💬 175 • ⏱️ 46:01 • 5h ago
+👁️ 9K • 👍 568 • 💬 156 • ⏱️ 46:01 • 6h ago
 
 ---
 
-**[*THE* BITCOIN GIGA SIGNAL 🚨 JUST TOUCHED TIPS ONCE AGAIN](https://www.youtube.com/watch?v=mBBEC_IDhhk)**
+**[Blackrock Knows… [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=yQU51htRPOI)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Tyler S
+📺 Lark Davis
 
-👁️ 9K • 👍 529 • 💬 200 • ⏱️ 10:51 • 1d ago
-
----
-
-**[🚨 BITCOIN: You Might NOT Want To Hear This But It MUST Be Said! (100% Accurate)](https://www.youtube.com/watch?v=AS-BLgtBkks)**
-
-Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to exactly what everyone suspects. BloFin ...
-
-📺 Crypto Zombie
-
-👁️ 2K • 👍 347 • 💬 67 • ⏱️ 12:20 • 2h ago
+👁️ 11K • 👍 556 • 💬 54 • ⏱️ 18:15 • 8h ago
 
 ---
 
-**[“I’m Very Bullish” BlackRock Crypto Pump &amp; Dump Plan Revealed!](https://www.youtube.com/watch?v=Iews2OqDoyU)**
+**[Inflation and Bitcoin](https://www.youtube.com/watch?v=rWfLRMiyQVY)**
 
-I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+Inflation came in cooler than expected, but what does that actually mean for Bitcoin? In this video, we break down the latest CPI ...
 
-📺 Altcoin Daily
+📺 Benjamin Cowen
 
-👁️ 33K • 👍 2K • 💬 100 • ⏱️ 10:38 • 20h ago
-
----
-
-**[Bitcoin Live Trading: Last Chance to Prepare for BTC&#39;s Next Move! EP2063](https://www.youtube.com/watch?v=ebuiEIeu4LQ)**
-
-WEEX EVENT: https://www.weex.com/events/trade-to-win/samprice-vip?vipCode=8six?click_tag=campaign WEEX: ...
-
-📺 Crypto Lifer
-
-👁️ 4K • 👍 400 • ⏱️ 2:00:10 • 2h ago
+👁️ 57K • 👍 3K • 💬 110 • ⏱️ 7:57 • 1d ago
 
 ---
 
-**[BITCOIN LIVE TRADING: How Low Can Bitcoin Dump From Here?](https://www.youtube.com/watch?v=KhV9xOjNp1c)**
+**[Bitcoin&#39;s 4-Year Cycle Is Breaking - This Chart Already Bottomed](https://www.youtube.com/watch?v=to44gP-Y4fo)**
 
-65K support is gone. Now what? In today's Bitcoin live trading session, Chento breaks down exactly how low BTC can realistically ...
+Bitcoin vs. gold is diverging from previous 4 year cycle moves. Altcoin dominance is tracking closely with business cycle. What if ...
 
-📺 Crypto Banter
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 141 • 💬 3 • ⏱️ 30:31 • 9h ago
-
----
-
-**[Bitcoin’s Next Move Could Surprise Everyone](https://www.youtube.com/watch?v=mWHk2k_y2II)**
-
-AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 13K • 👍 760 • 💬 131 • ⏱️ 51:18 • 1d ago
+👁️ 9K • 👍 590 • 💬 204 • ⏱️ 15:56 • 1d ago
 
 ---
 
-**[Japan Just BLEW PAST the U.S. on Crypto!!🚨While CLARITY Act STALLS!🔥](https://www.youtube.com/watch?v=hNZGT63O2cY)**
+**[Man Behind Guthrie Fake Bitcoin Texts Pleaded Guilty](https://www.youtube.com/watch?v=3p1e41nUWnQ)**
 
-Japan has taken one of its most significant steps toward integrating cryptocurrencies into the traditional financial system.
+Join The Dead Serious Club: https://www.youtube.com/channel/UCVeA0YuBpTi-CYsUYgZMKxw/join Drop Dead Serious is ...
 
-📺 Paul Barron Network
+📺 Ashleigh Banfield x Drop Dead Serious
 
-👁️ 45K • 👍 3K • 💬 361 • ⏱️ 15:15 • 7h ago
+👁️ 23K • 👍 2K • 💬 169 • ⏱️ 2:34 • 23h ago
 
 ---
 
@@ -383,7 +381,7 @@ In today's video, Kyledoops outlines whether this next Bitcoin dip is the one to
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 21 • ⏱️ 42:52 • 11h ago
+👁️ 13K • 👍 1K • 💬 22 • ⏱️ 42:52 • 13h ago
 
 ---
 

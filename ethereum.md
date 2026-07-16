@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T19:41:49.552596+00:00'
+updated: '2026-07-16T20:59:06.191032+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 19:41 UTC  
+**Last Updated:** July 16, 2026 at 20:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +4.3%  
-**30d:** +7.1%  
-**90d:** -20.2%  
-**1y:** -46.0%  
+**24h:** -2.5%  
+**7d:** +4.2%  
+**30d:** +7.0%  
+**90d:** -20.3%  
+**1y:** -46.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.54B
+**Market Cap:** $225.88B
 Rank #2
 
 **Circulating Supply:** 120,682,913 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.2%
 
 **All-Time Low:** $0.43
-+431519.1%
++432184.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello, A little while ago I posted about a project concept I had. The idea was a
 
 Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
 
-23h ago
+1d ago
 
 ---
 
@@ -150,6 +150,38 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
+
+BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Ethereum Just Published a New Road Map, and It's Missing Something Important](https://finance.yahoo.com/markets/crypto/articles/ethereum-just-published-road-map-193300839.html)**
+
+The hole at the center of the investment thesis for Ethereum is becoming harder to ignore.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Researcher Francesco D'Amato Departs EF for Ethlabs](https://finance.yahoo.com/markets/crypto/articles/ethereum-researcher-francesco-damato-departs-185051697.html)**
+
+One of the EF's most versatile protocol researchers just left for Ethlabs, saying serious protocol work now has "a credible shot" outside the Foundation.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-launches-bitcoin-ethereum-200103780.html)**
+
+Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
+
+Yahoo Finance • 58m ago
+
+---
+
 **[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
 
 The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
@@ -162,45 +194,21 @@ CoinDesk • 2d ago
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
-**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-needs-143513421.html)**
+**[EthSystems Launches to Build Privacy Solutions for Institutions on Ethereum](https://www.tradingview.com/news/chainwire:827e5dde5094b:0-ethsystems-launches-to-build-privacy-solutions-for-institutions-on-ethereum/)**
 
-EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
+Founded by the team behind the Ethereum Foundation's Institutional Privacy Task Force, EthSystems is building privacy and compliance technology for EthereumKey backers include Bitmine, Sharplink and Joe LubinNEW YORK, July 14, 2026 /PRNewswire/ -- EthSystems, an engineering and research company (th…
 
-Yahoo Finance • 2d ago
-
----
-
-**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
-
-BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
-
-CryptoSlate • 1d ago
-
----
-
-**[Ethereum Researcher Francesco D'Amato Departs EF for Ethlabs](https://finance.yahoo.com/markets/crypto/articles/ethereum-researcher-francesco-damato-departs-185051697.html)**
-
-One of the EF's most versatile protocol researchers just left for Ethlabs, saying serious protocol work now has "a credible shot" outside the Foundation.
-
-Yahoo Finance • 50m ago
-
----
-
-**[Ethereum Just Published a New Road Map, and It's Missing Something Important](https://www.fool.com/investing/2026/07/16/something-is-missing-from-ethereums-new-road-map/)**
-
-The hole at the center of the investment thesis for Ethereum is becoming harder to ignore.
-
-The Motley Fool • 17m ago
+TradingView • 2d ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -208,21 +216,15 @@ MarketWatch • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 7h ago
 
 ---
 
-**[Ethereum leads as Bitcoin nears a key pivot and exit signals build](https://www.kitco.com/opinion/2026-07-16/ethereum-leads-bitcoin-nears-key-pivot-and-exit-signals-build)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show tentative recovery as key technical levels hold](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-tentative-recovery-as-key-technical-levels-hold-202607150403)**
 
-Bitcoin and Ethereum continued higher on Wednesday, but the market is moving into a more demanding decision zone. Bitcoin remains just under a cited pivot target, Ethereum momentum is strong rather than divergent, and Ethereum dominance is already signaling that traders should protect profits instead of chasing strength. A weaker dollar supports the move for now, while warnings are becoming more visible across global equities and individual altcoins.Bitcoin remains just below the $65,622 pivotBitcoin daily chart below the 65,622 pivot targetBitcoin made a slightly higher local high on Wednesday but did not surpass the previous pivot high target at $65,622. Because price is already close to that level, the analysis still expects Bitcoin to clear it and move toward the top of the daily TBO Cloud. The open TBO Close Short remains a tactical warning that price could first pull back to the Fast line.Ethereum momentum points toward $2,041Ethereum daily chart with Fibonacci targets near 1,926 and 2,041Ethereum set a higher local high at $1,946, while daily RSI advanced to 77.52 from the prior 74.65 high. A higher high in both price and RSI is not bearish divergence; it reflects strong bullish momentum. If ETH closes above the 0.5 Fibonacci level at $1,926, the next cited target is the 0.618 level at $2,041.That target is near the top of the daily TBO Cloud and the weekly Fast line. The source describes this confluence as a major exit range and an opportunity to prepare for a new short rather than a reason to chase late momentum.Ethereum dominance has entered the profit-protection zoneEthereum dominance daily chart pushing above the TBO CloudETH.D, the Ethereum dominance chart, pushed above its daily Cloud. This is not the ETH price chart. ETH and ETH.D can both extend as ETH approaches roughly $2,050, but the move above the Cloud is characterized as the gravy zone where scaling out protects profits. Combined stablecoin dominance remains in bearish consolidation and has not yet reached the below-25 RSI level identified as a stronger exit signal for longs and entry signal for shorts.SOL.D also remains in bearish consolidation. SOL.D measures Solana dominance and is not a SOL spot-price reading; no SOL price move is inferred from that chart.Dollar weakness supports stocks and crypto for nowU.S. Dollar Index daily chart shifting into bearish consolidationThe DXY closed deeper inside its daily Cloud, shifting from strong bullish to bearish consolidation, while RSI lost its prior support structure. The analysis continues to target support near 99.182. That weakness should support stocks and crypto until the dollar reaches support, where a bounce could change the near-term backdrop.Nikkei adds a second reversal warningNikkei 225 futures daily chart with repeated TBO Close Long warningsS&amp;P futures closed green again and the VIX declined, but international equity signals are mixed. The Nikkei is working on a second TBO Close Long after the prior warning from the previous Wednesday, reinforcing evidence that weakness is building. The Shanghai Composite remains strong bearish below its Cloud, while the Hang Seng continues higher but is not expected to break its daily Slow line.Altcoin opportunities require chart-by-chart selectionONDO daily chart after a nearly 16 percent moveONDO gained nearly 16% on Wednesday. If the move has follow-through, the cited termination zone is TBO Resistance near 0.40. Other signals are less uniform: LIT printed a second TBT Bearish Divergence, VELVET and JUP produced TBO Close Long reversal warnings, while STX and JASMY printed TBT Bullish Divergence Clusters. The dispersion argues for selectivity rather than a broad altcoin chase.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) trade with a mild positive bias on Wednesday as sentiment improves across the cryptocurrency market.
 
-KITCO • 5h ago
-
----
-
-**[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
-
-thestreet.com • 1d ago
+FXStreet • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin 
 
 📺 DataDash
 
-👁️ 523 • 👍 48 • 💬 41 • ⏱️ 12:55 • 4h ago
+👁️ 1K • 👍 70 • 💬 36 • ⏱️ 12:55 • 5h ago
 
 ---
 
@@ -246,7 +248,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 409 • 💬 300 • ⏱️ 14:25 • 19h ago
+👁️ 6K • 👍 427 • 💬 298 • ⏱️ 14:25 • 20h ago
 
 ---
 
@@ -256,7 +258,7 @@ Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry s
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 525 • 💬 41 • ⏱️ 51:54 • 16h ago
+👁️ 8K • 👍 531 • 💬 43 • ⏱️ 51:54 • 17h ago
 
 ---
 
@@ -266,7 +268,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 253 • 💬 22 • ⏱️ 18:30 • 1d ago
+👁️ 6K • 👍 260 • 💬 23 • ⏱️ 18:30 • 1d ago
 
 ---
 
@@ -276,7 +278,7 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 The House Of Crypto
 
-👁️ 13K • 👍 808 • 💬 71 • ⏱️ 12:28 • 1d ago
+👁️ 13K • 👍 817 • 💬 71 • ⏱️ 12:28 • 1d ago
 
 ---
 
@@ -290,13 +292,13 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 ---
 
-**[🚨 Tom Lee Was Right: ETH Hits 70-Day High &amp; BMNR Surges 10% — My Move Right Now](https://www.youtube.com/watch?v=LIrnqeGxQCU)**
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=PMSHlkfOpZQ)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+In this video I break down the current Ethereum price action and the potential for a trend reversal based on Elliott Wave analysis.
 
-📺 MONEY GAME
+📺 More Crypto Online
 
-👁️ 2K • 👍 101 • 💬 37 • ⏱️ 48:10 • 5h ago
+👁️ 371 • 👍 42 • 💬 2 • ⏱️ 6:41 • 19m ago
 
 ---
 
@@ -304,7 +306,17 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 528 • 💬 51 • ⏱️ 2:00 • 18h ago
+👁️ 7K • 👍 544 • 💬 51 • ⏱️ 2:00 • 19h ago
+
+---
+
+**[🚨 Tom Lee Was Right: ETH Hits 70-Day High &amp; BMNR Surges 10% — My Move Right Now](https://www.youtube.com/watch?v=LIrnqeGxQCU)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 2K • 👍 102 • 💬 36 • ⏱️ 48:10 • 7h ago
 
 ---
 
@@ -314,17 +326,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 149 • 💬 31 • ⏱️ 11:05 • 2d ago
-
----
-
-**[🤩 Ethereum&#39;s Massive Market Shift](https://www.youtube.com/watch?v=RNkPtlhBJv8)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 3K • 👍 105 • 💬 22 • ⏱️ 5:20 • 2d ago
+👁️ 5K • 👍 151 • 💬 31 • ⏱️ 11:05 • 2d ago
 
 ---
 
