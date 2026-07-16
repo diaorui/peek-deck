@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-16T22:10:30.994637+00:00'
+updated: '2026-07-16T23:25:40.022298+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 22:10 UTC  
+**Last Updated:** July 16, 2026 at 23:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,180.00
+### $63,799.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.1%  
-**30d:** -0.4%  
-**90d:** -15.2%  
-**1y:** -46.1%  
+**24h:** -1.3%  
+**7d:** -0.6%  
+**30d:** -1.1%  
+**90d:** -15.8%  
+**1y:** -46.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1285.13B
+**Market Cap:** $1278.51B
 Rank #1
 
-**Circulating Supply:** 20,057,212 BTC
+**Circulating Supply:** 20,057,259 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-49.5%
 
 **All-Time Low:** $67.81
-+94408.2%
++93880.2%
 
 ---
 
@@ -161,7 +161,7 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 2h ago
+The Block • 4h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 2h ago
 
 The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 6h ago
 
 A Bitcoin wallet that has sat completely still for eight years just moved nearly $383 million worth of BTC in a single transaction, and the crypto market is paying close attention to what comes next. Blockchain intelligence firm Lookonchain flagged the transaction on X on Thursday, revealing that a ...
 
-Yahoo Finance Australia • 4h ago
+Yahoo Finance Australia • 5h ago
 
 ---
 
@@ -185,7 +185,15 @@ Yahoo Finance Australia • 4h ago
 
 The coins went to a fresh address rather than an exchange, so nothing has been sold yet.
 
-CoinDesk • 15h ago
+CoinDesk • 17h ago
+
+---
+
+**[Crypto Market Today, July 16: Bitcoin Pulls Back as Risk Aversion Weighs on Markets](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-july-16-220952948.html)**
+
+Today, July 16, 2026, increasing tensions in the Middle East prompted a sell-off in cryptocurrencies and tech stocks.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +201,15 @@ CoinDesk • 15h ago
 
 Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-South Dakota Searchlight • 6h ago
+South Dakota Searchlight • 8h ago
+
+---
+
+**[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
+
+Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
+
+Alaska's News Source • 2d ago
 
 ---
 
@@ -221,20 +237,6 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
-
-Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
-
-Alaska's News Source • 2d ago
-
----
-
-**[Bitcoin Miners Cash In as AI Hits a Power Bottleneck](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/webinar-bitcoin-miners-cash-in-on-ai-power-bottleneck/)**
-
-ETF Database • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -244,6 +246,14 @@ ETF Database • 1d ago
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
 ⬆️ 2 • 💬 1 • 2d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+
+---
+
+**[He Mined 300 Bitcoin, Then Sold the Computer for $200 [video]](https://news.ycombinator.com/item?id=48941357)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 1 • 💬 0 • 31m ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -275,7 +285,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 Keep Postgres entities synced with turbopuffer using logical replication (beta) - a24films/puffgres
 
-⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/a24films/puffgres)
+⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/a24films/puffgres)
 
 ---
 
@@ -295,17 +305,17 @@ I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on 
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 105 • ⏱️ 10:38 • 22h ago
+👁️ 36K • 👍 2K • 💬 106 • ⏱️ 10:38 • 1d ago
 
 ---
 
-**[Bitcoin At $64k! Samson Mow Says You&#39;re ALREADY TOO LATE for the Coming Explosion](https://www.youtube.com/watch?v=oX85sQfIv8Y)**
+**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
 
-📺 Savvy Finance
+📺 Benjamin Cowen
 
-👁️ 3K • 👍 118 • 💬 16 • ⏱️ 14:19 • 22h ago
+👁️ 15K • 👍 1K • 💬 104 • ⏱️ 7:33 • 3h ago
 
 ---
 
@@ -315,37 +325,37 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 63K • 👍 4K • 💬 455 • ⏱️ 15:15 • 10h ago
+👁️ 71K • 👍 4K • 💬 484 • ⏱️ 15:15 • 11h ago
 
 ---
 
-**[IT STARTED: Fed Chair Sends Bold Message to Crypto &amp; AI Investors](https://www.youtube.com/watch?v=r0K5dqG74As)**
+**[Bitcoin At $64k! Samson Mow Says You&#39;re ALREADY TOO LATE for the Coming Explosion](https://www.youtube.com/watch?v=oX85sQfIv8Y)**
 
-Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Altcoin Daily
+📺 Savvy Finance
 
-👁️ 47K • 👍 2K • 💬 102 • ⏱️ 9:17 • 1d ago
+👁️ 3K • 👍 119 • 💬 16 • ⏱️ 14:19 • 23h ago
+
+---
+
+**[My Conservative Bitcoin Model: Why I’m Planning for $253K](https://www.youtube.com/watch?v=N_nGVK6pzW0)**
+
+Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm planning for something very different — about $253000.
+
+📺 Betirement
+
+👁️ 5K • 👍 478 • 💬 230 • ⏱️ 11:16 • 7h ago
 
 ---
 
 **[Bitcoin Institutions Are Buying the Dip](https://www.youtube.com/watch?v=95tiRX6Ie58)**
 
-AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 568 • 💬 156 • ⏱️ 46:01 • 7h ago
-
----
-
-**[Blackrock Knows… [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=yQU51htRPOI)**
-
-Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 11K • 👍 556 • 💬 54 • ⏱️ 18:15 • 9h ago
+👁️ 9K • 👍 612 • 💬 175 • ⏱️ 46:01 • 8h ago
 
 ---
 
@@ -359,33 +369,33 @@ Inflation came in cooler than expected, but what does that actually mean for Bit
 
 ---
 
-**[Bitcoin&#39;s 4-Year Cycle Is Breaking - This Chart Already Bottomed](https://www.youtube.com/watch?v=to44gP-Y4fo)**
+**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
 
-Bitcoin vs. gold is diverging from previous 4 year cycle moves. Altcoin dominance is tracking closely with business cycle. What if ...
+Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 Crypto Capital Venture
+📺 Altcoin Daily
 
-👁️ 9K • 👍 590 • 💬 204 • ⏱️ 15:56 • 1d ago
-
----
-
-**[Man Behind Guthrie Fake Bitcoin Texts Pleaded Guilty](https://www.youtube.com/watch?v=3p1e41nUWnQ)**
-
-Join The Dead Serious Club: https://www.youtube.com/channel/UCVeA0YuBpTi-CYsUYgZMKxw/join Drop Dead Serious is ...
-
-📺 Ashleigh Banfield x Drop Dead Serious
-
-👁️ 23K • 👍 2K • 💬 169 • ⏱️ 2:34 • 1d ago
+👁️ 5K • 👍 177 • 💬 23 • ⏱️ 1:16 • 6h ago
 
 ---
 
-**[TRADE ALERT: Buy The Next Bitcoin Dip? [Last Chance]](https://www.youtube.com/watch?v=1GdBgc4_PAc)**
+**[Blackrock Knows… [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=yQU51htRPOI)**
 
-In today's video, Kyledoops outlines whether this next Bitcoin dip is the one to buy. Bitcoin has a large fair value gap on the ...
+Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto Banter
+📺 Lark Davis
 
-👁️ 13K • 👍 1K • 💬 22 • ⏱️ 42:52 • 14h ago
+👁️ 12K • 👍 579 • 💬 58 • ⏱️ 18:15 • 10h ago
+
+---
+
+**[🚨 BITCOIN: You Might NOT Want To Hear This But It MUST Be Said! (100% Accurate)](https://www.youtube.com/watch?v=AS-BLgtBkks)**
+
+Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to exactly what everyone suspects. BloFin ...
+
+📺 Crypto Zombie
+
+👁️ 7K • 👍 780 • 💬 137 • ⏱️ 12:20 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T22:10:31.000644+00:00'
+updated: '2026-07-16T23:25:40.027546+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 22:10 UTC  
+**Last Updated:** July 16, 2026 at 23:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** +4.6%  
-**30d:** +7.4%  
-**90d:** -20.0%  
-**1y:** -45.8%  
+**24h:** -3.0%  
+**7d:** +3.4%  
+**30d:** +6.1%  
+**90d:** -20.9%  
+**1y:** -46.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.88B
+**Market Cap:** $224.34B
 Rank #2
 
 **Circulating Supply:** 120,682,913 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-62.4%
 
 **All-Time Low:** $0.43
-+432184.2%
++429094.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -150,14 +150,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
-
-In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
-
-CoinDesk • 1d ago
-
----
-
 **[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
 
 BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
@@ -166,11 +158,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Tom Lee Compares Ethereum To AMZN Before AWS, NVDA Before AI Boom – Says ETH Could Solve 'Uncanny Valley Of Wealth'](https://finance.yahoo.com/markets/crypto/articles/tom-lee-compares-ethereum-amzn-135131707.html)**
+**[Tom Lee Says Ethereum’s Biggest Bull Case Is No Longer Crypto](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-biggest-215256299.html)**
 
-According to Bitmine chairman Tom Lee, the "Uncanny Valley of Wealth" is a future in which AI creates an increasingly large share of global wealth.
+Tom Lee says Wall Street adoption, not speculation, now drives the Ethereum bull case as Robinhood Chain makes ETH money.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,7 +170,15 @@ Yahoo Finance • 8h ago
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
+
+---
+
+**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
+
+In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 2d ago
 
 The hole at the center of the investment thesis for Ethereum is becoming harder to ignore.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -202,13 +202,13 @@ The Motley Fool • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -216,7 +216,7 @@ MarketWatch • 8h ago
 
 Cryptocurrencies are broadly consolidating on Thursday, while Bitcoin (BTC) retreats toward support at $64,000. Ethereum (ETH) hovers below $1,800, with its upside seemingly limited, following a macro-driven rally.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
@@ -230,13 +230,33 @@ thestreet.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee Lost $9B On ETH — He Just Bought More](https://www.youtube.com/watch?v=c-K275s0JO4)**
+
+Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last week he bought another 20500 ETH.
+
+📺 Lark Davis
+
+👁️ 2K • 👍 210 • 💬 26 • ⏱️ 13:38 • 2h ago
+
+---
+
 **[🚨 ETH/BTC Is Signaling a Major Crypto Rotation](https://www.youtube.com/watch?v=7qyZOfeWz48)**
 
 SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin backed loans: https://www.ledn.io/ ...
 
 📺 DataDash
 
-👁️ 1K • 👍 70 • 💬 36 • ⏱️ 12:55 • 6h ago
+👁️ 2K • 👍 83 • 💬 54 • ⏱️ 12:55 • 7h ago
+
+---
+
+**[Matt Hougan - &quot;Crypto&#39;s Next Market Could Grow 100X OVERNIGHT (100% CONFIRMED)&quot;](https://www.youtube.com/watch?v=HFOaKb_kzi8)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 796 • 👍 46 • 💬 1 • ⏱️ 15:03 • 3h ago
 
 ---
 
@@ -246,7 +266,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 427 • 💬 298 • ⏱️ 14:25 • 22h ago
+👁️ 7K • 👍 432 • 💬 301 • ⏱️ 14:25 • 23h ago
 
 ---
 
@@ -256,7 +276,7 @@ Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry s
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 531 • 💬 43 • ⏱️ 51:54 • 19h ago
+👁️ 8K • 👍 534 • 💬 44 • ⏱️ 51:54 • 20h ago
 
 ---
 
@@ -266,27 +286,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 260 • 💬 23 • ⏱️ 18:30 • 1d ago
-
----
-
-**[Ethereum Vs Bitcoin Breakout Coming - Same Setup As 2021. Altcoin Rally Loading??](https://www.youtube.com/watch?v=S2eE8sDhp6k)**
-
-In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going To Be The Same?? Unlock Incredible ...
-
-📺 The House Of Crypto
-
-👁️ 13K • 👍 817 • 💬 71 • ⏱️ 12:28 • 1d ago
-
----
-
-**[Ethereum Sentiment Skyrockets!🚀Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=fVXl1WwMOjo)**
-
-Ethereum has recently shown signs of attempting to break its downtrend against Bitcoin. Meanwhile, Robinhood's new blockchain ...
-
-📺 Paul Barron Network
-
-👁️ 40K • 👍 2K • 💬 167 • ⏱️ 34:54 • 2d ago
+👁️ 6K • 👍 266 • 💬 31 • ⏱️ 18:30 • 1d ago
 
 ---
 
@@ -296,7 +296,17 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 371 • 👍 42 • 💬 2 • ⏱️ 6:41 • 1h ago
+👁️ 928 • 👍 114 • 💬 7 • ⏱️ 6:41 • 2h ago
+
+---
+
+**[Ethereum Vs Bitcoin Breakout Coming - Same Setup As 2021. Altcoin Rally Loading??](https://www.youtube.com/watch?v=S2eE8sDhp6k)**
+
+In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going To Be The Same?? Unlock Incredible ...
+
+📺 The House Of Crypto
+
+👁️ 13K • 👍 825 • 💬 72 • ⏱️ 12:28 • 1d ago
 
 ---
 
@@ -304,7 +314,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 544 • 💬 51 • ⏱️ 2:00 • 21h ago
+👁️ 7K • 👍 563 • 💬 55 • ⏱️ 2:00 • 22h ago
 
 ---
 
@@ -314,17 +324,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 102 • 💬 36 • ⏱️ 48:10 • 8h ago
-
----
-
-**[Tom Lee: &quot;My NEW Prediction For The 2026 Crypto Bull Run&quot; (Prepare Now)](https://www.youtube.com/watch?v=_Dy6Kgnhd60)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 151 • 💬 31 • ⏱️ 11:05 • 2d ago
+👁️ 2K • 👍 103 • 💬 54 • ⏱️ 48:10 • 9h ago
 
 ---
 
