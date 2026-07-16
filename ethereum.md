@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T09:22:16.306466+00:00'
+updated: '2026-07-16T11:17:39.342946+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 09:22 UTC  
+**Last Updated:** July 16, 2026 at 11:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** -2.1%  
 **7d:** +5.0%  
 **30d:** +7.8%  
 **90d:** -19.7%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello, A little while ago I posted about a project concept I had. The idea was a web-app and a mobile app where you add the wallet address you want to watch. Cointer checks the blockchain for you. When a watched address gets a deposit, you get a notification and a dashboard of activity/totals. No accounts, no passwords. Just a single personal key that ties everything together. This is aimed at people who receive donations via crypto, streamers, or people who want to watch their wallets. Of course, most wallets already have this feature, but this takes it to the next step. It allows you to be notified over mobile push notifications, ntfy, Discord, Slack, or just by email. Then, it compiles (up to 90 days) all transactions into a clean dashboard showing your totals for the last day, week, and month with a breakdown by watched addresses and assets. There is an activity page with a full history of deposits and pagination. I've developed quite a few OSS projects and gotten sponsors from many hosting companies which is what allowed me to set this up for a beta. However, for this beta the amount of users I can support is quite small. There is no real catch here. Know that there is a 10 wallet and 10 notification channel limit and notifications are not always guaranteed. More info in the comments. Thank you for reading, Luke
 
-20h ago
+22h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello, A little while ago I posted about a project concept I had. The idea was a
 
 Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
 
-12h ago
+14h ago
 
 ---
 
@@ -154,15 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
-CoinDesk • 19h ago
-
----
-
-**[Ethereum Staking Generates 98% Of Bitmine’s Quarterly Revenue](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-generates-98-bitmine-133200928.html)**
-
-Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) says that Ethereum (CRYPTO: $ETH) staking generat...
-
-Yahoo Finance • 19h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -174,57 +166,63 @@ The Block • 1d ago
 
 ---
 
-**[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply](https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply)**
-
-The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
-
-CoinDesk • 2d ago
-
----
-
-**[Ethereum's staked market cap jumps 12% to $78B,...](https://pluang.com/en/news-feed/ethereum-kuasai-pasar-staking-78-miliar-dolar-dengan-kapitalisasi-besar)**
-
-Ethereum has strengthened its position as the top staking network with a 12.13% weekly increase in staked market cap, reaching $78.08 billion. This growth highlights a shift of investor interest back to large-cap, liquid networks despite mixed results from other major chains like Solana and Hyperliquid, which saw slight declines. While staking rewards remain attractive, overall returns are heavily influenced by token price movements, with many networks showing negative total returns over the past year. The rise in Ethereum's staking market cap signals renewed risk appetite for established assets, but staking alone does not fully protect against broader market downturns.
-
-Pluang • 42m ago
-
----
-
-**[Bitcoin dips amid cautious market; Ethereum ris...](https://pluang.com/en/news-feed/kewaspadaan-makro-berimbas-pada-bitcoin-sedangkan-ethereum-bertahan)**
-
-Bitcoin's price slightly fell to $64,164, reflecting broader market caution as equity indices and financial indicators like the US 10-year yield and DXY suggest tighter conditions. Meanwhile, Ethereum gained 2.09% to $1,908, showing selective investor appetite possibly tied to upcoming network upgrades. Overall crypto market cap stands at $2.29 trillion with Bitcoin dominance at 56.1%. The mixed performance highlights risk-off sentiment influenced by Fed rate expectations, with some altcoins like ZEC, XLM, LINK, and XMR posting modest gains due to specific technical rebounds or use-case interest.
-
-Pluang • 46m ago
-
----
-
-**[Ethereum surges 11% in a week, driven by strong ETF inflows and Robinhood Chain activity.](https://pluang.com/en/news-feed/ethereum-eth-melonjak-11-persen-karena-blackrock-mendorong-inflow-etf-besar-dan)**
-
-Ethereum's price rose about 11% over the past week to around $1,920, outperforming major cryptocurrencies like Bitcoin and Solana. This rally is fueled by $96 million inflows into U.S. spot Ether ETFs early in the week, with BlackRock's ETHA product dominating inflows, signaling strong institutional demand. Additionally, the newly launched Robinhood Chain processes over $800 million in daily decentralized exchange volume, using ETH for transaction fees, further supporting price gains. Technical indicators suggest Ethereum is approaching a critical resistance near $2,000, with analysts watching for potential price peaks or consolidation.
-
-Pluang • 1h ago
-
----
-
 **[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
 
 Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Crypto Market Today, July 14: Ethereum Soars 6% on Cooler Inflation Data](https://www.fool.com/coverage/stock-market-today/2026/07/14/crypto-market-today-july-14-ethereum-soars-6-on-cooler-inflation-data/)**
+**[Current price of Ethereum for July 16, 2026](https://fortune.com/article/price-of-ethereum-07-16-2026/)**
 
-Today, July 14, 2026, softer CPI eased Fed tightening expectations, triggering a broad crypto rebound after earlier rate-hike jitters.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Motley Fool • 1d ago
+Fortune • 1h ago
+
+---
+
+**[Ethereum Has a Bold New Plan for 2029. What Will Be the Impact on the Price of ETH?](https://www.fool.com/investing/2026/07/15/ethereum-has-a-bold-new-plan-for-2029/)**
+
+The chain's updated technical roadmap will see it add major new features.
+
+The Motley Fool • 11h ago
+
+---
+
+**[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
+
+MarketWatch • 21h ago
+
+---
+
+**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
+
+BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
+
+CryptoSlate • 19h ago
 
 ---
 
 **[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
 
-thestreet.com • 15h ago
+thestreet.com • 17h ago
+
+---
+
+**[Can Ethereum break THIS pattern as 2.6M ETH enters staking?](https://ambcrypto.com/can-ethereum-break-this-pattern-as-2-6m-eth-enters-staking/)**
+
+Ethereum faces a key test as staking demand challenges historical RSI signals and short-term momentum.
+
+AMBCrypto • 2h ago
+
+---
+
+**[U.S Government Deposits $288M in Bitcoin and Ethereum to Coinbase Prime](https://www.tradingview.com/news/coinpedia:c0a8eeab0094b:0-u-s-government-deposits-288m-in-bitcoin-and-ethereum-to-coinbase-prime/)**
+
+Just as the crypto market is trying to recover, the U.S. government moved $288 million in Bitcoin and Ethereum to Coinbase Prime. The transfer has sparked a fear that the government could be preparing to sell its crypto holdings. If so, then this move could put pressure on Bitcoin and push prices l…
+
+TradingView • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 331 • 💬 202 • ⏱️ 14:25 • 9h ago
+👁️ 5K • 👍 331 • 💬 202 • ⏱️ 14:25 • 11h ago
 
 ---
 
@@ -248,7 +246,7 @@ Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry s
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 392 • 💬 28 • ⏱️ 51:54 • 6h ago
+👁️ 5K • 👍 392 • 💬 28 • ⏱️ 51:54 • 8h ago
 
 ---
 
@@ -258,7 +256,7 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 The House Of Crypto
 
-👁️ 12K • 👍 770 • 💬 63 • ⏱️ 12:28 • 21h ago
+👁️ 12K • 👍 770 • 💬 63 • ⏱️ 12:28 • 23h ago
 
 ---
 
@@ -278,7 +276,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 218 • 💬 18 • ⏱️ 18:30 • 16h ago
+👁️ 5K • 👍 218 • 💬 18 • ⏱️ 18:30 • 18h ago
 
 ---
 
@@ -288,7 +286,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 1K • 👍 76 • 💬 8 • ⏱️ 48:04 • 8h ago
+👁️ 1K • 👍 76 • 💬 8 • ⏱️ 48:04 • 10h ago
 
 ---
 
@@ -306,7 +304,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 358 • 💬 14 • ⏱️ 2:00 • 8h ago
+👁️ 4K • 👍 358 • 💬 14 • ⏱️ 2:00 • 10h ago
 
 ---
 

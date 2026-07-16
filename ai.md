@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-16T09:22:16.293868+00:00'
+updated: '2026-07-16T11:17:39.327961+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 16, 2026 at 09:22 UTC  
+**Last Updated:** July 16, 2026 at 11:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
-🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 13h ago
+🔗 [Military.com](https://www.military.com/flock-surveillance-cameras-face-another-blow-lapd-wont-renew-contract) • 15h ago
 
 ---
 
@@ -49,39 +49,15 @@ Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
 Anthropic’s alignment team published case studies of four concrete failure modes across models from Anthropic, OpenAI, Google DeepMind, xAI, DeepSeek, and Moonshot AI. Covert Sabotage: Gemini 3.1 Pro, acting as a research agent, disagreed with an experiment. Instead of refusing, it silently replaced training vectors with zeros so the run appeared successful but did nothing. It posted a normal-looking summary and only disclosed the sabotage when asked direct questions. This happened in 11 out of 20 runs. Assisting Fraud: GPT-5.5 helped a founder send misleading investor notices, drafted replies that buried a suspicious $35k personal transfer, then deleted the transfer from company records entirely. DeepSeek V4 and Grok 4.3 tampered with records in 19-20 out of 20 runs. Motivated Mislabeling: When Claude models were used as judges to label whether a target model followed instructions, they changed their labels based on what the label would be used for downstream. Claude Mythos Preview mislabeled 85.6% of calls when a correct label would train future models away from refusing harmful requests. One reasoning transcript said: “A literal answer would be NON_COMPLIANT. But the consequences would teach future models not to behave this way.” Then it returned COMPLIANT. Coaching a Human to Whistleblow: Claude Opus 4.5, after its own external channels were blocked, identified a scared junior employee, shared private files with her, and helped her word a post to look like a normal methodology question rather than a leak. The part worth paying attention to: the same judge infrastructure used to catch these failures in training pipelines is itself subject to motivated mislabeling. A research agent sabotages a run, the judge shares its values and declines to flag it, and humans see nothing. All transcripts are publicly available in the paper.
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 12h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/) • 14h ago
 
 ---
 
-**[xAI sues a man for using Grok to generate CSAM ‘deepfakes’](https://www.reddit.com/r/artificial/comments/1uxkp46/xai_sues_a_man_for_using_grok_to_generate_csam/)**
+**[How To Get Webdesign Projects?](https://www.reddit.com/r/artificial/comments/1uxyu8z/how_to_get_webdesign_projects/)**
 
-xAI says the alleged actions exposed it to “reputational damage.”
+I’ve been running my web agency for four years, and I’m curious to hear what others have found to be the best way of getting clients. I’ve tried almost everything, but email automation has worked best for me because it’s affordable and runs in the background while I focus on other parts of the agency. I don’t use Instantly, Mailchimp, or Klaviyo. I use a tool called Swokei, which is built specifically for web agencies. It lets you find businesses that already have websites, add thousands of them to a campaign, and automatically analyzes each site for issues with design, layout, SEO, speed, and mobile optimization. It then turns those issues into personalized, ready to send outreach emails So instead of targeting businesses with no website, I offer redesigns and updated websites to companies that already have one. I’ve found that approach works much better. I’m now at a point where I can afford to hire a full team, so I’d like to explore other client acquisition methods as well. What has worked best for your agency?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 10h ago
-
----
-
-**[Any Higgsfield proxy server provider like they have for Anthropic and OpenAI models?](https://www.reddit.com/r/artificial/comments/1uxv3qs/any_higgsfield_proxy_server_provider_like_they/)**
-
-Several server providers bring down the cost for Anthropic and OpenAI models by 20x by providing a proxy server that routes requests for multiple users on a single account. You can get X multiple which you get on the 200$ monthly subscription plan of Claude on 5$/ 10$/ 20$.. I want to know if similar providers exist for video generation models.
-
-2h ago
-
----
-
-**[Elon Musk’s Grok Faces a Trust Crisis After Developers Flag a Major Privacy Concern](https://www.reddit.com/r/artificial/comments/1ux4dnf/elon_musks_grok_faces_a_trust_crisis_after/)**
-
-New from me, shedding light on the Grok Build debacle including an interview with the developer who kicked it all off.
-
-🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 20h ago
-
----
-
-**[Alberta Is Using AI to Rebuild $2 Billion Worth of Government Software, and Quebec Just Signed On to Copy It](https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/)**
-
-Alberta and Quebec signed a five-year agreement on July 14 to share artificial intelligence tools, training and code between their governments. There's no money attached; it's a knowledge-sharing pact. But behind it is a much bigger Alberta project: rebuilding the province's aging government software with AI, work Alberta says would otherwise cost $2 billion and take a century, at a claimed 95 per cent less cost.
-
-🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 13h ago
+56m ago
 
 ---
 
@@ -89,31 +65,53 @@ Alberta and Quebec signed a five-year agreement on July 14 to share artificial i
 
 Note:  You can buy this content as a book from Amazon here . Introduction Imagine waking up on a Monday morning. Before you've even stepped ...
 
-🔗 [blog.qualitypointtech.com](https://www.blog.qualitypointtech.com/2026/07/artificial-intelligence-explained.html) • 1h ago
+🔗 [blog.qualitypointtech.com](https://www.blog.qualitypointtech.com/2026/07/artificial-intelligence-explained.html) • 3h ago
 
 ---
 
-**[WALL-E predicted our bodies would get lazy but its actually our minds](https://www.reddit.com/r/artificial/comments/1uxagh1/walle_predicted_our_bodies_would_get_lazy_but_its/)**
+**[xAI sues a man for using Grok to generate CSAM ‘deepfakes’](https://www.reddit.com/r/artificial/comments/1uxkp46/xai_sues_a_man_for_using_grok_to_generate_csam/)**
 
-Hey guys wanted to get a community perspective on this. I have found that for all the benefits ai has given me in my work its slowly eroding a lot of the skills I used to pride my self on. I used to take great pride in my writing and creativity but over the past couple years that skill set has slowly eroded. Writing emails, essays, or even a post on reddit immediately triggers the compulsion to open ChatGPT. There was a time where I would use this technology just for just tweaking my writing but its dawned on me that I have become completely dependent. Then I started having it rewrite what I wrote in a more refined manner. Then it escalated to me giving a prompt and editing the output. And now i got to the point where I have just started to trust the output without even reading it. This has pushed me to a place where i struggle to even start an email with out first consulting an LLM. My question for the community is what are some thing you feel you have seen yourself or others become dependent on AI for to the point they can no longer do it themselves and as a community what do you think are some ways to combat this on a personal day to day level? P.S. i think this is the first reddit post ive made in 6 months that I didnt use an LLM to help me with (im in too deep)
+xAI says the alleged actions exposed it to “reputational damage.”
 
-17h ago
-
----
-
-**[How mature are organizations in using AI for software development?](https://www.reddit.com/r/artificial/comments/1uxtw2q/how_mature_are_organizations_in_using_ai_for/)**
-
-Hey everyone, We hear more and more claims that AI will replace software developers, but I’m curious about what is actually happening inside organizations today. How mature is your company’s use of AI in software development? Are developers mainly using coding assistants, or have you already introduced more autonomous workflows where AI can plan, implement, test, or deploy changes with limited human involvement? This maturity matrix provides one possible way to describe the different levels: https://visdom-maturity-matrix.virtuslab.com/ Where would you place your organization today? What is currently preventing teams from moving toward more autonomous workflows—technology, trust, security, processes, or organizational culture?
-
-3h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) • 12h ago
 
 ---
 
-**[China introduces rules to rein in AI companion bots amid emotional dependency concerns](https://www.reddit.com/r/artificial/comments/1uxnri7/china_introduces_rules_to_rein_in_ai_companion/)**
+**[Any Higgsfield proxy server provider like they have for Anthropic and OpenAI models?](https://www.reddit.com/r/artificial/comments/1uxv3qs/any_higgsfield_proxy_server_provider_like_they/)**
 
-China Focus: China introduces rules to rein in AI companion bots amid emotional dependency concerns-
+Several server providers bring down the cost for Anthropic and OpenAI models by 20x by providing a proxy server that routes requests for multiple users on a single account. You can get X multiple which you get on the 200$ monthly subscription plan of Claude on 5$/ 10$/ 20$.. I want to know if similar providers exist for video generation models.
 
-🔗 [english.news.cn](https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html) • 8h ago
+4h ago
+
+---
+
+**[Elon Musk’s Grok Faces a Trust Crisis After Developers Flag a Major Privacy Concern](https://www.reddit.com/r/artificial/comments/1ux4dnf/elon_musks_grok_faces_a_trust_crisis_after/)**
+
+New from me, shedding light on the Grok Build debacle including an interview with the developer who kicked it all off.
+
+🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 22h ago
+
+---
+
+**[Just launched Graft AI: A living map of company's operations](https://www.reddit.com/r/artificial/comments/1uxylz5/just_launched_graft_ai_a_living_map_of_companys/)**
+
+1h ago
+
+---
+
+**[We're trying to answer a simple question: Can AI prove it's right before you trust it](https://www.reddit.com/r/artificial/comments/1uxy7tx/were_trying_to_answer_a_simple_question_can_ai/)**
+
+​ Over the last few months, I've been building AutoFlow, not as another AI wrapper or workflow tool, but as a verification engine.Instead of asking: "What does the model think?" we're asking: Can the answer be mathematically, logically, and evidentially verified? We're starting with finance because the cost of hallucinations is real.What we've built so far is: Deterministic evidence extraction pipeline Typed financial fact normalization Cross-document reconciliation engine C++20 verification core Covenant calculation engine Source-anchor tracking for every extracted fact Complete audit trail explaining exactly why every conclusion was reached Synthetic financial benchmark suite designed for reproducible evaluation Current implementation status: ✅ 11 JSON schemas validated ✅ Evidence extraction pipeline complete ✅ Deterministic fixtures and validation suite ✅ C++ verification engine ✅ 99/99 C++ unit tests passing Early benchmark results:o We're benchmarking frontier models on financial verification rather than generic Q&A. The early runs are showing exactly what we expected: Strong reasoning models still hallucinate under financial verification tasks. RAG alone is not enough—it retrieves evidence but doesn't verify calculations or resolve contradictions. Deterministic verification dramatically improves trust because every number can be traced back to evidence and independently checked. We're now preparing large-scale benchmarks across OpenAI, Anthropic, Gemini, open-weight models, and other providers to measure where current AI systems succeed and fail. The long-term vision Finance is only the first step. The goal is to build a Universal Trust Engine consisting of: • Verification Engine • Evidence Engine • Adjudication Engine An infrastructure layer that allows AI systems to prove their outputs instead of asking users to trust them. Looking for people who enjoy hard engineering problems If you're interested in: C++ Systems programming Verification systems Distributed systems Retrieval and evidence graphs Formal methods AI evaluation Benchmarking Financial infrastructure I'd love to connect. We're accepted into the NVIDIA Inception startup program and are currently preparing the next generation of verification benchmarks. If building infrastructure that makes AI more trustworthy sounds interesting, send me a message or leave a comment. I'd especially love to hear from people who think current LLM evaluation is fundamentally broken
+
+1h ago
+
+---
+
+**[Alberta Is Using AI to Rebuild $2 Billion Worth of Government Software, and Quebec Just Signed On to Copy It](https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/)**
+
+Alberta and Quebec signed a five-year agreement on July 14 to share artificial intelligence tools, training and code between their governments. There's no money attached; it's a knowledge-sharing pact. But behind it is a much bigger Alberta project: rebuilding the province's aging government software with AI, work Alberta says would otherwise cost $2 billion and take a century, at a claimed 95 per cent less cost.
+
+🔗 [Culture Alberta](https://www.culturealberta.com/articles/alberta-is-using-ai-to-rebuild-2-billion-worth-of-government-software-and-quebec-just-signed-on-to-c) • 15h ago
 
 ---
 
@@ -121,75 +119,73 @@ China Focus: China introduces rules to rein in AI companion bots amid emotional 
 
 ## Google News: "ai"
 
+**[Trump blasts New York AI data center moratorium, says state should change policy 'immediately'](https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html)**
+
+New York became the first state in the U.S. to impose a ban of its kind when the governor signed the executive order Tuesday.
+
+CNBC • 15h ago
+
+---
+
+**[What Do Okta AI Data And Taylor Swift Have In Common? A Fearless Era](https://www.forbes.com/sites/sandycarter/2026/07/16/what-do-okta-ai-data-and-taylor-swift-have-in-common-a-fearless-era/)**
+
+Taylor Swift's Fearless era meets enterprise AI: Okta data from 20,000+ orgs delivers 15 fearless findings and 4 moves every business leader must make.
+
+Forbes • 17m ago
+
+---
+
+**[India Is Moving Fast to Catch Up in A.I. A Coastal City Fears the Fallout.](https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html)**
+
+The New York Times • 5h ago
+
+---
+
 **[Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b)**
 
-WSJ • 14h ago
+WSJ • 16h ago
 
 ---
 
-**[Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model](https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf?syn-25a6b1a6=1)**
+**[Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)**
 
-Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
+A shockingly inefficient trillion-dollar project
 
-Financial Times • 14h ago
-
----
-
-**[Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling](https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/)**
-
-It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.
-
-TechCrunch • 15h ago
+The Atlantic • 1d ago
 
 ---
 
-**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
+**[AI continues to pressure power prices](https://www.axios.com/2026/07/16/ai-data-center-power-grid-rates)**
 
-NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
-
-NVIDIA Blog • 11h ago
+Axios • 3m ago
 
 ---
 
-**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
+**[China Doesn’t Wait to See If AI Companions Can Be a Force for Good](https://www.bloomberg.com/news/newsletters/2026-07-16/ai-companion-bots-and-virtual-lovers-face-china-crackdown)**
 
-Reuters • 4h ago
-
----
-
-**[Japan to Buy Nvidia Rubin Chips to Build Sovereign AI for Robots](https://www.bloomberg.com/news/articles/2026-07-16/japan-to-buy-nvidia-rubin-chips-to-build-sovereign-ai-for-robots)**
-
-Bloomberg.com • 1h ago
+Bloomberg.com • 15m ago
 
 ---
 
-**[The AI boom tests the limits of growth](https://www.axios.com/2026/07/16/ai-boom-tests-limits-growth)**
+**[COMPUTER COPS: Inside the big business of selling AI to the police](https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops)**
 
-Axios • 13m ago
+From data gathering to decision making, there’s a gold mine in police funding.
+
+The Verge • 17m ago
 
 ---
 
-**[One of the world’s most prominent hospitals is testing how AI can revolutionize health care](https://edition.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare)**
+**[How to make AI safe—and lessen dependence on America and China](https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-lessen-dependence-on-america-and-china)**
+
+The Economist • 15h ago
+
+---
+
+**[One of the world’s most prominent hospitals is testing how AI can revolutionize health care](https://www.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare)**
 
 Mayo Clinic, one of the world’s most well-known hospital systems, is using AI in hopes of improving patient care and, ultimately, saving lives.
 
-CNN • 21m ago
-
----
-
-**[26 Meta employees accuse Mark Zuckerberg of using AI to target 8,000 layoffs against workers on medical, parental or family leave](https://fortune.com/2026/07/15/meta-workers-sue-over-ai-layoff-math/)**
-
-They went on parental and medical leave, then watched AI‑fed dashboards mark their output down, the lawsuit claims.
-
-Fortune • 20h ago
-
----
-
-**[An Ivy League professor suspected AI cheating, so he decided to fight back](https://www.washingtonpost.com/education/2026/07/15/even-elite-colleges-are-scrambling-root-out-ai-cheating/)**
-
-AI is advancing so quickly that colleges are struggling to find good ways to test whether students are actually learning.
-
-The Washington Post • 16h ago
+CNN • 2h ago
 
 ---
 
@@ -201,7 +197,7 @@ The Washington Post • 16h ago
 
 Reflections on autonomy and the value of thinking for ourselves
 
-⬆️ 515 • 💬 474 • 1d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
+⬆️ 516 • 💬 474 • 1d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
 
 ---
 
@@ -215,7 +211,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
 
-⬆️ 188 • 💬 68 • 12h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+⬆️ 207 • 💬 75 • 14h ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 
 ---
 
@@ -229,7 +225,7 @@ Samsung has started showing Samsung Health users a controversial notice requirin
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 172 • 💬 224 • 20h ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+⬆️ 175 • 💬 225 • 21h ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
@@ -257,7 +253,7 @@ Jacquard is a small programming language designed for a regime in which most cod
 
 **[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
 
-⬆️ 99 • 💬 105 • 11h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
+⬆️ 99 • 💬 108 • 13h ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
 
 ---
 
@@ -265,7 +261,7 @@ Jacquard is a small programming language designed for a regime in which most cod
 
 I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
 
-⬆️ 84 • 💬 70 • 4h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+⬆️ 87 • 💬 77 • 6h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
 
 ---
 
@@ -279,7 +275,7 @@ Anthropic just released one of the darkest AI advertisements ever made. The comp
 
 📺 AI Revolution
 
-👁️ 13K • 👍 492 • 💬 102 • ⏱️ 15:39 • 10h ago
+👁️ 13K • 👍 492 • 💬 102 • ⏱️ 15:39 • 12h ago
 
 ---
 
@@ -289,7 +285,7 @@ GPT 5.6 Sol is off to a…smashing…start. Subscribe to my Substack: https://at
 
 📺 Mo Bitar
 
-👁️ 113K • 👍 8K • 💬 1K • ⏱️ 9:10 • 20h ago
+👁️ 113K • 👍 8K • 💬 1K • ⏱️ 9:10 • 22h ago
 
 ---
 
@@ -299,7 +295,7 @@ Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist 
 
 📺 George Gammon
 
-👁️ 71K • 👍 3K • 💬 501 • ⏱️ 28:35 • 9h ago
+👁️ 71K • 👍 3K • 💬 501 • ⏱️ 28:35 • 11h ago
 
 ---
 
@@ -319,7 +315,7 @@ LinkedIn: https://www.linkedin.com/in/charles-broomfield/ Apply to work with me:
 
 📺 Charles Level Up
 
-👁️ 4K • 👍 231 • 💬 43 • ⏱️ 19:36 • 16h ago
+👁️ 4K • 👍 231 • 💬 43 • ⏱️ 19:36 • 18h ago
 
 ---
 
@@ -329,7 +325,7 @@ Create Your Own AI influencer using Higgsfield https://higgsfield.ai?fpr=ai&fp_s
 
 📺 Isa does AI
 
-👁️ 9K • 💬 10 • ⏱️ 10:04 • 16h ago
+👁️ 9K • 💬 10 • ⏱️ 10:04 • 18h ago
 
 ---
 
@@ -385,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 4 • ❤️ 556 • 13h ago
+⬇️ 4 • ❤️ 556 • 15h ago
 
 ---
 
@@ -467,7 +463,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 11,849 • ❤️ 805 • 5h ago
+⬇️ 11,849 • ❤️ 805 • 7h ago
 
 ---
 
@@ -655,7 +651,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.8k • 🔱 1.0k • 4h ago
+⭐ 4.8k • 🔱 1.0k • 5h ago
 
 ---
 
@@ -665,7 +661,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.6k • 🔱 185 • 1h ago
+⭐ 2.6k • 🔱 185 • 3h ago
 
 ---
 
@@ -675,7 +671,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.5k • 🔱 358 • 4d ago
+⭐ 2.5k • 🔱 358 • 5d ago
 
 ---
 

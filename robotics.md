@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-16T09:22:16.309194+00:00'
+updated: '2026-07-16T11:17:39.346259+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 16, 2026 at 09:22 UTC  
+**Last Updated:** July 16, 2026 at 11:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From clankr on 𝕏: https://x.com/clankrmedia/status/2076593164744376707 Paper: Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor Environments: https://dl.acm.org/doi/10.1145/3800645.3813051 Published at ACM DIS 2026: https://dis.acm.org/2026/dis-2026-awards-and-recognition/ ACM Designing Interactive Systems (Singapore, 13 – 17 June 2026): https://dis.acm.org/2026/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Created Simulation From LLM Output Background: I studied EECS and I'm now gettin
 
 Hello, its been a while! I want to share a bit about the journey behind my challenge of building an Open Source commercial grade humanoid robot totally alone at home. You might remember me from https://www.reddit.com/r/robotics/s/zzx9Yi4tXI. Which was my first iteration! My first iteration was honestly pretty bad. It was a beginner-level design, and many of you probably noticed it looked like something that would never actually work. Looking back, I completely agree. It lacked proper physics, kinematics, finite element analysis, and nowhere near enough structural rigidity to survive a walking gait. Everything looked fine inside a simulator, but reality was different. The robot literally broke during its very first movement. First Iteration on fusion360 looked like, yes you can make fun of it all you want but this baby tought me that you should not give up: https://preview.redd.it/7qbpdbss26dh1.png?width=972&format=png&auto=webp&s=c31061037ed50ece8dbabbd9312db2dbdee4c620 I threw it away. After that, I gave up for a few months. Life got in the way, and I stopped working on the project entirely. Eventually I came back, more motivated than ever. For months I dove deep into control theory, kinematics, mechanics, physics, electronics, energy systems, transmission systems, Actuators, FOC, Torque and robot design. That led to the second iteration of my humanoid. second iteration render on FUSION 360: https://preview.redd.it/obi18ie756dh1.jpg?width=795&format=pjpg&auto=webp&s=df46134a3e419df72d61641d5d695cc04ac9b359 ...which also failed. 😂 Why it failed? The whole design was just bad, i wasn't using the motors case for anything just covering everything up instead of using the motors to hold stuff together and better like real humanoids do. And many other things that i will make a video on. gen2 fluid teleoperation The second version was a huge improvement. Teleoperation was smooth, I had the software stack working well, and I was even able to experiment with reinforcement learning policies and software in depth. But mechanically, I knew it was still far from where it needed to be. Also Hardware. I had to add Robstride 04 and 03 to my actuators for required torque. For economic reasons i made the biggest mistake in my life that was selling the NVIDIA JETSON AGX ORIN. Anyways i got a JETSON ORIN NX 16GB as a replacement. So I scrapped that one too. (burning money yay) Now I'm building what I consider my latest iteration, and I'm continuously improving it before machining the final parts. My goal is for this robot to run, jump, and eventually do whatever I can teach it to do. I am heavily focusing on manipulation btw. This time the design process is completely different. I've incorporated finite element analysis (FEA) for every part, proper mechanical engineering principles, design for manufacturing (DFM), and many of the concepts used in modern commercial humanoid robots. Thanks ARXIV for many papers. https://preview.redd.it/34e3quus56dh1.jpg?width=851&format=pjpg&auto=webp&s=c2fc7eeae553f11ffae6176221c969f8e506de2f https://preview.redd.it/or3qjrno56dh1.jpg?width=881&format=pjpg&auto=webp&s=169be6140f54de577e7fb93c9adccef497d6e4f2 https://preview.redd.it/6ccn0qap56dh1.jpg?width=642&format=pjpg&auto=webp&s=1459308f1b2bf675cf6e4ee9df311b09175fd12f This was before i understood that a screen on a head of a robot that will be falling is not a really smart idea. Latest Iteration (WIP): https://preview.redd.it/znp4kfki56dh1.jpg?width=784&format=pjpg&auto=webp&s=ab0352498c8ef68ec840508d03b49831e0ffe669 https://preview.redd.it/lo12fc8k56dh1.jpg?width=1018&format=pjpg&auto=webp&s=90c0bc6451bdfca5c3cb8570700e03cf0bae0d0d STILL IMPROVING. and Yes this is not just a CAD Humanoid. I have burned around 20kg- 25kg of PETG,PA-CF and some aluminum parts trying to make it happen :) i will be posting new iteration teleoperation and manipulation videos soon. BTW One challenge I didn't expect was the battery. Lithium batteries are heavily restricted for import in my country Honduras, so I had to design and build my own DIY Li-ion (please do not use LIPO on humanoids that walk) battery pack from scratch. Which i have a full video on how to do it for a humanoid robot specific needs, i am sure this might help atleast someone. I've failed more times than I can count. But every failure taught me something. I'm going to keep building until this robot walks and eventually reaches the level of commercial humanoid robots. I AM HEAVILY FOCUSING ON MANIPULATION. And yes... It will be OPEN SOURCE. I'll continue posting updates here and on X, and I'm also working on a website where I'll publish in-depth tutorials explaining how humanoid robots work (FROM MY LEARNING) and how you can build one from scratch. Thanks to everyone who's been following the project. And also thanks to everyone that has made fun of me too! I have been building this totally alone. for 110 working days exactly. I have 110 days of videos of the process. With Honor, Carlos Abrahan Lopez :D https://x.com/carloslopeezr
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
 
-NVIDIA Blog • 10h ago
+NVIDIA Blog • 12h ago
 
 ---
 
@@ -124,27 +124,13 @@ NVIDIA Blog • 10h ago
 
 NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
 
-NVIDIA Blog • 11h ago
+NVIDIA Blog • 13h ago
 
 ---
 
-**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
+**[Gecko Robotics is growing again](https://www.axios.com/local/pittsburgh/2026/07/16/gecko-robotics-manufacturing-expansion)**
 
-Reuters • 4h ago
-
----
-
-**[Fujitsu and leading Japanese robotics companies to use Nvidia technology in 'physical AI'](https://www.yahoo.com/news/articles/fujitsu-leading-japanese-robotics-companies-074345658.html)**
-
-Japanese communications company Fujitsu is leading a major push in artificial intelligence using Nvidia’s technology, bringing together what it said was the best in Japan’s manufacturing prowess in ro...
-
-Yahoo • 1h ago
-
----
-
-**[Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’](https://www.scmp.com/news/asia/east-asia/article/3360794/nvidia-chief-jensen-huang-seals-japan-robotics-push-after-yakitori-summit)**
-
-South China Morning Post • 30m ago
+Axios • 48m ago
 
 ---
 
@@ -152,7 +138,7 @@ South China Morning Post • 30m ago
 
 Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
 
-Fortune • 21h ago
+Fortune • 23h ago
 
 ---
 
@@ -162,23 +148,39 @@ WSJ • 9h ago
 
 ---
 
-**[Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences](https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences)**
+**[A Red Bull engineer got bored with Formula One. His robotics startup just raised $55 million.](https://www.businessinsider.com/f1-engineer-quit-redbull-to-build-army-of-factory-robots-2026-7)**
 
-Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’
+microagi has raised $55 million to put AI-powered robots to work in factories.
 
-The Guardian • 5h ago
-
----
-
-**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
-
-Business Wire • 23h ago
+Business Insider • 5h ago
 
 ---
 
 **[Icarus Robotics taps KULR to provide batteries for Space Station robots](https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/)**
 
-SpaceNews • 20h ago
+SpaceNews • 22h ago
+
+---
+
+**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
+
+Business Wire • 1d ago
+
+---
+
+**[How Nidec Is Rethinking Gear Design for Humanoid and Mobile Robots](https://www.eetimes.com/how-nidec-is-rethinking-gear-design-for-humanoid-and-mobile-robots/)**
+
+In this video interview from Automate 2026, Nidec Drive Technology walks through the technologies it's developing for advanced robotics and industrial automation.
+
+EE Times • 14h ago
+
+---
+
+**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
+
+Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
+
+Anthropic • 7d ago
 
 ---
 
@@ -222,7 +224,7 @@ Putting technology to the test through combat, and connecting the world through 
 
 📺 Unitree Robotics
 
-👁️ 1.3M • 👍 998 • 💬 161 • ⏱️ 1:10 • 6d ago
+👁️ 1.3M • 👍 998 • 💬 161 • ⏱️ 1:10 • 7d ago
 
 ---
 
@@ -242,7 +244,7 @@ For the first time, surgeons at UC San Diego have operated using humanoid robots
 
 📺 ABC News
 
-👁️ 62K • 👍 1K • 💬 453 • ⏱️ 1:54 • 5d ago
+👁️ 62K • 👍 1K • 💬 453 • ⏱️ 1:54 • 6d ago
 
 ---
 
