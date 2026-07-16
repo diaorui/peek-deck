@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-16T04:16:12.471168+00:00'
+updated: '2026-07-16T07:00:46.758875+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 16, 2026 at 04:16 UTC  
+**Last Updated:** July 16, 2026 at 07:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,13 +116,21 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
 
-NVIDIA Blog • 5h ago
+NVIDIA Blog • 7h ago
 
 ---
 
 **[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 22h ago
+
+---
+
+**[A Red Bull engineer got bored with Formula One. His robotics startup just raised $55 million.](https://www.businessinsider.com/f1-engineer-quit-redbull-to-build-army-of-factory-robots-2026-7)**
+
+microagi has raised $55 million to put AI-powered robots to work in factories.
+
+Business Insider • 1h ago
 
 ---
 
@@ -130,57 +138,51 @@ Bloomberg.com • 19h ago
 
 Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
 
-Fortune • 16h ago
+Fortune • 19h ago
+
+---
+
+**[Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences](https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences)**
+
+Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’
+
+The Guardian • 3h ago
+
+---
+
+**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
+
+NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
+
+NVIDIA Blog • 8h ago
+
+---
+
+**[Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier](https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier)**
+
+NVIDIA today announced that Japan’s physical AI leaders are building on the NVIDIA Cosmos™, NVIDIA Isaac™, NVIDIA Metropolis and NVIDIA Jetson™ platforms to accelerate the deployment of intelligent machines across manufacturing, mobility, infrastructure and robotics.
+
+NVIDIA Newsroom • 3h ago
+
+---
+
+**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
+
+Reuters • 2h ago
+
+---
+
+**[How Nidec Is Rethinking Gear Design for Humanoid and Mobile Robots](https://www.eetimes.com/how-nidec-is-rethinking-gear-design-for-humanoid-and-mobile-robots/)**
+
+In this video interview from Automate 2026, Nidec Drive Technology walks through the technologies it's developing for advanced robotics and industrial automation.
+
+EE Times • 9h ago
 
 ---
 
 **[Icarus Robotics taps KULR to provide batteries for Space Station robots](https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/)**
 
-SpaceNews • 15h ago
-
----
-
-**[How Claude Performs on Robotics Tasks](https://www.anthropic.com/research/claude-plays-robotics)**
-
-Do language models’ strengths transfer to robotics? Can a model perceive a scene, understand a particular robot’s state, and issue actions that reliably effect change in the physical world? We ran tests to find out.
-
-Anthropic • 6d ago
-
----
-
-**[Humanoid robots perform live surgery in world first](https://www.foxnews.com/tech/humanoid-robots-perform-live-surgery-world-first)**
-
-Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.
-
-Fox News • 1d ago
-
----
-
-**[China Sends Robots Out Into the World to Learn How to Be Human](https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human)**
-
-Bloomberg.com • 6h ago
-
----
-
-**[Upstate NY school district will deploy a humanoid robot teacher this fall](https://www.newyorkupstate.com/schools/2026/07/upstate-ny-school-district-will-deploy-a-humanoid-robot-teacher-this-fall.html)**
-
-NewYorkUpstate.com • 12h ago
-
----
-
-**[Vicarious Surgical’s board wants to shut down and liquidate robotics developer](https://www.massdevice.com/vicarious-surgical-shut-down-liquidation-robotics-developer/)**
-
-The Vicarious Surgical board wants to close the struggling surgical robotics developer as soon as a special meeting of investors, scheduled for July 21.
-
-MassDevice • 8h ago
-
----
-
-**[Robotican: Robots built for the front lines, and below them](https://www.jpost.com/defense-and-tech/article-902578)**
-
-From tunnels to missile-hit buildings, Robotican’s unmanned systems take soldiers out of danger.
-
-The Jerusalem Post • 17h ago
+SpaceNews • 17h ago
 
 ---
 
@@ -188,13 +190,13 @@ The Jerusalem Post • 17h ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
+**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
 
-For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
+Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
 
-📺 ABC News
+📺 PRO ROBOTS
 
-👁️ 62K • 👍 1K • 💬 448 • ⏱️ 1:54 • 5d ago
+👁️ 27K • 👍 809 • 💬 61 • ⏱️ 29:49 • 6d ago
 
 ---
 
@@ -204,27 +206,17 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 16K • 👍 1K • 💬 97 • ⏱️ 3:00 • 1d ago
+👁️ 16K • 👍 2K • 💬 102 • ⏱️ 3:00 • 1d ago
 
 ---
 
-**[The Most Important Robot at China | ICRA 2026](https://www.youtube.com/watch?v=tbT2ogwa49Y)**
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
 
-Official website: https://wuji.tech/en/ Product consultation: sales@wuji.tech YouTube: ...
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
 
-📺 PRO ROBOTS
+📺 ABC News
 
-👁️ 27K • 👍 808 • 💬 61 • ⏱️ 29:49 • 6d ago
-
----
-
-**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
-
-Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
-
-📺 Unitree Robotics
-
-👁️ 1.2M • 👍 992 • 💬 161 • ⏱️ 1:10 • 6d ago
+👁️ 62K • 👍 1K • 💬 451 • ⏱️ 1:54 • 5d ago
 
 ---
 
@@ -234,7 +226,17 @@ This incredible AI-powered handwriting robot uses precision robotics and intelli
 
 📺 Techie Sapien
 
-👁️ 51K • 💬 11 • ⏱️ 0:08 • 21h ago
+👁️ 52K • 💬 12 • ⏱️ 0:08 • 1d ago
+
+---
+
+**[Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition](https://www.youtube.com/watch?v=P8U_4v8SUOQ)**
+
+Putting technology to the test through combat, and connecting the world through competition. The "CMG 2026 Humanoid Robot ...
+
+📺 Unitree Robotics
+
+👁️ 1.2M • 👍 996 • 💬 161 • ⏱️ 1:10 • 6d ago
 
 ---
 
@@ -244,7 +246,7 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 366K • 👍 18K • 💬 789 • ⏱️ 1:25 • 5d ago
+👁️ 367K • 👍 18K • 💬 791 • ⏱️ 1:25 • 5d ago
 
 ---
 
@@ -254,7 +256,7 @@ A Chinese tech-firm has unveiled a new AI-driven robot which it says is the firs
 
 📺 Al Jazeera English
 
-👁️ 60K • 👍 468 • 💬 307 • ⏱️ 2:44 • 1d ago
+👁️ 65K • 👍 491 • 💬 317 • ⏱️ 2:44 • 2d ago
 
 ---
 
@@ -264,17 +266,7 @@ Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that c
 
 📺 MIT Mechanical Engineering
 
-👁️ 295K • 👍 8K • 💬 502 • ⏱️ 4:04 • 6d ago
-
----
-
-**[1X: Everyone Got Robot Hands WRONG [w/Scott Walter]](https://www.youtube.com/watch?v=jwuBX9pFBFA)**
-
-Join me and Dr. Scott Walter (@goingballistic16) as we explore why 1X's new robot hand may represent a fundamental shift in ...
-
-📺 Dr. Know-it-all Knows it all
-
-👁️ 14K • 👍 596 • 💬 65 • ⏱️ 49:13 • 3d ago
+👁️ 300K • 👍 9K • 💬 504 • ⏱️ 4:04 • 6d ago
 
 ---
 
@@ -282,7 +274,17 @@ Join me and Dr. Scott Walter (@goingballistic16) as we explore why 1X's new robo
 
 📺 Varun Mayya
 
-👁️ 188K • 👍 6K • 💬 90 • ⏱️ 1:03 • 4d ago
+👁️ 190K • 👍 7K • 💬 90 • ⏱️ 1:03 • 4d ago
+
+---
+
+**[How to Make a Walking Robot at Home | Simple DIY Robot 🤖 #experiment #shortvideo](https://www.youtube.com/watch?v=yfyR9yw-9Zw)**
+
+How to make a robot Robot making at home Homemade robot simple Robot kaise banaye DIY walking robot project Simple DC ...
+
+📺 Suhel Experiment
+
+👁️ 40K • 💬 29 • ⏱️ 1:30 • 3d ago
 
 ---
 
