@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-16T12:59:53.480141+00:00'
+updated: '2026-07-16T15:09:32.163469+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 16, 2026 at 12:59 UTC  
+**Last Updated:** July 16, 2026 at 15:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ Teaching my 13-year-old grandson programming using Arduino, Python, and AI. We a
 
 **[Animatronic build progress](https://www.reddit.com/r/robotics/comments/1uw9z8z/animatronic_build_progress/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -74,7 +74,7 @@ Teaching my 13-year-old grandson programming using Arduino, Python, and AI. We a
 
 I have implemented gesture recognition with my dtof lidar HM-LD1, and at the same time, for better learning for everyone, I have made it open-source. Github Link: https://github.com/myrobotproject/Dtof-Lidar-HM-LD1-Gesture-Recognition
 
-1d ago
+2d ago
 
 ---
 
@@ -82,7 +82,7 @@ I have implemented gesture recognition with my dtof lidar HM-LD1, and at the sam
 
 Ranjay Krishna argues that language may be an unnecessary intermediary between perception and action in robotics. Humans do not translate every physical interaction into words before reacting. Catching a ball, pulling a hand away from something hot or moving through a room happens through a direct connection between perception and movement. He believes robotics models should work the same way, moving directly from visual and sensor input to action rather than relying on an LLM in the middle.
 
-2d ago
+3d ago
 
 ---
 
@@ -116,21 +116,21 @@ Hello, its been a while! I want to share a bit about the journey behind my chall
 
 General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
 
-NVIDIA Blog • 13h ago
+NVIDIA Blog • 16h ago
 
 ---
 
 **[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
 
-Reuters • 2h ago
+Reuters • 10h ago
 
 ---
 
-**[Nvidia expands AI and robotics collaboration with leading Japanese manufacturers (NVDA)](https://finance.yahoo.com/technology/ai/articles/nvidia-expands-ai-robotics-collaboration-103516961.html)**
+**[Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’](https://apnews.com/article/ai-nvidia-fujitsu-japan-technology-robots-tokyo-86823c1bcc959ad603ecb25d022207b1)**
 
-Nvidia (NASDAQ:NVDA) has announced new partnerships with several Japanese industrial companies, including Fanuc and Yaskawa Electric, as it seeks to accelerate the adoption of artificial intelligence and robotics across the manufacturing sector. Nvidia deepens its presence in JapanSpeaking at a media event in Tokyo, Nvidia Chief Executive Jensen Huang outlined the company’s vision for the next generation of intelligent automation.
+Japanese communications company Fujitsu is leading a major push in artificial intelligence and robotics using Nvidia’s technology to develop “physical AI.”
 
-Yahoo Finance • 2h ago
+AP News • 7h ago
 
 ---
 
@@ -138,21 +138,7 @@ Yahoo Finance • 2h ago
 
 NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
 
-NVIDIA Blog • 14h ago
-
----
-
-**[Gecko Robotics is growing again](https://www.axios.com/local/pittsburgh/2026/07/16/gecko-robotics-manufacturing-expansion)**
-
-Axios • 2h ago
-
----
-
-**[Hyundai Reportedly Looking To Take Total Control Of Robotics Giant Boston Dynamics](https://www.engadget.com/2216427/hyundai-reportedly-looking-to-buy-all-of-boston-dynamics-from-softbank/)**
-
-Hyundai could soon own Boston Dynamics in full.
-
-Engadget • 1h ago
+NVIDIA Blog • 16h ago
 
 ---
 
@@ -166,15 +152,19 @@ Fortune • 1d ago
 
 **[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
 
-WSJ • 9h ago
+WSJ • 1d ago
 
 ---
 
-**[Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences](https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences)**
+**[Gecko Robotics is growing again](https://www.axios.com/local/pittsburgh/2026/07/16/gecko-robotics-manufacturing-expansion)**
 
-Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’
+Axios • 4h ago
 
-The Guardian • 8h ago
+---
+
+**[China Sends Robots Out Into the World to Learn How to Be Human](https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human)**
+
+Bloomberg.com • 17h ago
 
 ---
 
@@ -182,7 +172,13 @@ The Guardian • 8h ago
 
 microagi has raised $55 million to put AI-powered robots to work in factories.
 
-Business Insider • 6h ago
+Business Insider • 9h ago
+
+---
+
+**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
+
+Business Wire • 1d ago
 
 ---
 
@@ -196,27 +192,7 @@ A Chinese tech-firm has unveiled a new AI-driven robot which it says is the firs
 
 📺 Al Jazeera English
 
-👁️ 74K • 👍 552 • 💬 360 • ⏱️ 2:44 • 2d ago
-
----
-
-**[Building a GIANT Remote Controlled Robot  #engineering #robotics #fanuc](https://www.youtube.com/watch?v=c_oJXMTtcLE)**
-
-Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
-
-📺 Excessive Overkill
-
-👁️ 17K • 👍 2K • 💬 109 • ⏱️ 3:00 • 1d ago
-
----
-
-**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
-
-For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
-
-📺 ABC News
-
-👁️ 63K • 👍 1K • 💬 454 • ⏱️ 1:54 • 6d ago
+👁️ 77K • 👍 578 • 💬 394 • ⏱️ 2:44 • 2d ago
 
 ---
 
@@ -230,11 +206,23 @@ This incredible AI-powered handwriting robot uses precision robotics and intelli
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=4XlVxFfaaLs)**
+**[Humanoid robots perform surgery](https://www.youtube.com/watch?v=JNdXX0nm2yg)**
 
-📺 Robot Julie 
+For the first time, surgeons at UC San Diego have operated using humanoid robots, removing gallbladders in two procedures on ...
 
-👁️ 7K • 👍 43 • 💬 2 • ⏱️ 0:26 • 11h ago
+📺 ABC News
+
+👁️ 63K • 👍 1K • 💬 454 • ⏱️ 1:54 • 6d ago
+
+---
+
+**[Building a GIANT Remote Controlled Robot  #engineering #robotics #fanuc](https://www.youtube.com/watch?v=c_oJXMTtcLE)**
+
+Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
+
+📺 Excessive Overkill
+
+👁️ 18K • 👍 2K • 💬 113 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -244,7 +232,7 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 369K • 👍 18K • 💬 792 • ⏱️ 1:25 • 5d ago
+👁️ 370K • 👍 18K • 💬 793 • ⏱️ 1:25 • 6d ago
 
 ---
 
@@ -254,7 +242,7 @@ Chinese company UBTech launched a new range of robots meant for companionship eq
 
 📺 The Straits Times
 
-👁️ 42K • 👍 222 • 💬 75 • ⏱️ 1:48 • 3d ago
+👁️ 43K • 👍 224 • 💬 75 • ⏱️ 1:48 • 3d ago
 
 ---
 
@@ -264,7 +252,17 @@ Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that c
 
 📺 MIT Mechanical Engineering
 
-👁️ 308K • 👍 9K • 💬 521 • ⏱️ 4:04 • 6d ago
+👁️ 310K • 👍 9K • 💬 524 • ⏱️ 4:04 • 6d ago
+
+---
+
+**[I wonder if THIS BUILD still works in War Robots…](https://www.youtube.com/watch?v=Eg08R5CsGZg)**
+
+War Robots Gameplay: WR Devourer Bendy Bullets Gameplay - WR My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 8K • 👍 378 • 💬 69 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -272,7 +270,7 @@ Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that c
 
 📺 Varun Mayya
 
-👁️ 194K • 👍 7K • 💬 91 • ⏱️ 1:03 • 4d ago
+👁️ 195K • 👍 7K • 💬 91 • ⏱️ 1:03 • 4d ago
 
 ---
 
@@ -282,7 +280,7 @@ How to make a robot Robot making at home Homemade robot simple Robot kaise banay
 
 📺 Suhel Experiment
 
-👁️ 41K • 💬 29 • ⏱️ 1:30 • 3d ago
+👁️ 41K • 💬 29 • ⏱️ 1:30 • 4d ago
 
 ---
 

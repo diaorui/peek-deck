@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T12:59:53.477874+00:00'
+updated: '2026-07-16T15:09:32.160599+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 12:59 UTC  
+**Last Updated:** July 16, 2026 at 15:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,876.93
+### $1,884.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +4.3%  
-**30d:** +7.1%  
-**90d:** -20.3%  
-**1y:** -46.0%  
+**24h:** -2.3%  
+**7d:** +4.4%  
+**30d:** +7.2%  
+**90d:** -20.2%  
+**1y:** -45.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.97B
+**Market Cap:** $226.25B
 Rank #2
 
 **Circulating Supply:** 120,682,913 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.1%
 
 **All-Time Low:** $0.43
-+432285.9%
++432854.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello, A little while ago I posted about a project concept I had. The idea was a
 
 Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
 
-16h ago
+18h ago
 
 ---
 
@@ -154,15 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Staking Generates 98% Of Bitmine’s Quarterly Revenue](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-generates-98-bitmine-133200928.html)**
+**[Bitmine (BMNR) Rockets 11.5%; Big Investors Double Down on its Ethereum Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-rockets-11-5-013603059.html)**
 
-Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) says that Ethereum (CRYPTO: $ETH) staking generat...
+Bitmine Immersion climbed by 11.50 percent on Tuesday to finish at $16.29 apiece after expanding its Ethereum treasury to $10.5 billion, solidifying its stance as the largest holder of the said token in the world. In a statement on the same day, Bitmine Immersion Technologies Inc. (NYSE:BMNR) said that it boosted its Ethereum holdings to […]
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 1d ago
 
 The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -186,7 +186,21 @@ CoinDesk • 2d ago
 
 Bitcoin opened at $64,720.36 on Thursday, July 16, 2026, down 0.4% from Wednesday's opening price. Ethereum opened at $1,917.05, up 1.5% from yesterday's opening price.
 
-Yahoo Finance • 17m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Tom Lee Compares Ethereum To AMZN Before AWS, NVDA Before AI Boom – Says ETH Could Solve 'Uncanny Valley Of Wealth'](https://finance.yahoo.com/markets/crypto/articles/tom-lee-compares-ethereum-amzn-135131707.html)**
+
+According to Bitmine chairman Tom Lee, the "Uncanny Valley of Wealth" is a future in which AI creates an increasingly large share of global wealth.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
+
+MarketWatch • 1h ago
 
 ---
 
@@ -194,7 +208,7 @@ Yahoo Finance • 17m ago
 
 The chain's updated technical roadmap will see it add major new features.
 
-The Motley Fool • 13h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -202,27 +216,13 @@ The Motley Fool • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
-
----
-
-**[Large cryptocurrencies climb on Ethereum, Cardano increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-cardano-increases-83493712-cbb4e51f6726)**
-
-MarketWatch • 22h ago
+Fortune • 1h ago
 
 ---
 
 **[Inside Glamsterdam, the upgrade Ethereum's critics have been demanding](https://www.thestreet.com/crypto/innovation/inside-glamsterdam-the-upgrade-ethereums-critics-have-been-demanding)**
 
-thestreet.com • 19h ago
-
----
-
-**[Can Ethereum break THIS pattern as 2.6M ETH enters staking?](https://ambcrypto.com/can-ethereum-break-this-pattern-as-2-6m-eth-enters-staking/)**
-
-Ethereum faces a key test as staking demand challenges historical RSI signals and short-term momentum.
-
-AMBCrypto • 4h ago
+thestreet.com • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 386 • 💬 255 • ⏱️ 14:25 • 12h ago
+👁️ 6K • 👍 397 • 💬 306 • ⏱️ 14:25 • 15h ago
 
 ---
 
@@ -246,7 +246,7 @@ Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry s
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 482 • 💬 35 • ⏱️ 51:54 • 9h ago
+👁️ 7K • 👍 503 • 💬 35 • ⏱️ 51:54 • 12h ago
 
 ---
 
@@ -256,17 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 232 • 💬 20 • ⏱️ 18:30 • 19h ago
-
----
-
-**[Ethereum Vs Bitcoin Breakout Coming - Same Setup As 2021. Altcoin Rally Loading??](https://www.youtube.com/watch?v=S2eE8sDhp6k)**
-
-In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going To Be The Same?? Unlock Incredible ...
-
-📺 The House Of Crypto
-
-👁️ 12K • 👍 792 • 💬 66 • ⏱️ 12:28 • 1d ago
+👁️ 6K • 👍 245 • 💬 22 • ⏱️ 18:30 • 21h ago
 
 ---
 
@@ -280,21 +270,21 @@ Ethereum has recently shown signs of attempting to break its downtrend against B
 
 ---
 
+**[Ethereum Vs Bitcoin Breakout Coming - Same Setup As 2021. Altcoin Rally Loading??](https://www.youtube.com/watch?v=S2eE8sDhp6k)**
+
+In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going To Be The Same?? Unlock Incredible ...
+
+📺 The House Of Crypto
+
+👁️ 13K • 👍 794 • 💬 66 • ⏱️ 12:28 • 1d ago
+
+---
+
 **[$10,000 ETHEREUM ROBINHOOD TO START ALTCOIN SEASON? #ethereum #xrp #robinhood #stocks](https://www.youtube.com/watch?v=rv8ctIgFlHI)**
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 430 • 💬 50 • ⏱️ 2:00 • 11h ago
-
----
-
-**[🚨 Tom Lee Was Right: ETH Hits 70-Day High &amp; BMNR Surges 10% — My Move Right Now](https://www.youtube.com/watch?v=LIrnqeGxQCU)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 2K • 👍 88 • 💬 12 • ⏱️ 48:04 • 12h ago
+👁️ 5K • 👍 482 • 💬 50 • ⏱️ 2:00 • 14h ago
 
 ---
 
@@ -308,13 +298,23 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 ---
 
-**[EARTH SHATTERING Cardano ADA News This Is CRAZY Bitcoin And Ethereum Are About To Shake](https://www.youtube.com/watch?v=W5j-sDZVqds)**
+**[Crypto Markets Experts Weigh In On Bitcoin, XRP &amp; Ethereum  Generational Wealth Is About To Be Made](https://www.youtube.com/watch?v=n-yYI3DYBQo)**
 
-I mean, crypto is a pretty crazy place... but this one honestly takes the entire cake and then some. Cardano has been in the news ...
+Big money energy has re-entered the crypto market, and it looks like things are about to get good. We've gotten a bunch of news ...
 
-📺 The Modern Investor
+📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 291 • 💬 188 • ⏱️ 33:44 • 3h ago
+👁️ 11K • 👍 1K • 💬 394 • ⏱️ 26:17 • 1d ago
+
+---
+
+**[XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PLAY From ROBINHOOD!](https://www.youtube.com/watch?v=uB7k-m55JQM)**
+
+XRP SUPPLY SQUEEZE INCOMING? Selling Pressure CRUSHED! MASSIVE ETHEREUM POWER PLAY From ROBINHOOD!
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 272 • 💬 16 • ⏱️ 43:18 • 20h ago
 
 ---
 
@@ -324,7 +324,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 104 • 💬 22 • ⏱️ 5:20 • 2d ago
+👁️ 3K • 👍 105 • 💬 22 • ⏱️ 5:20 • 2d ago
 
 ---
 
