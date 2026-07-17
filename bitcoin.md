@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T07:17:03.776002+00:00'
+updated: '2026-07-17T09:27:41.205526+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 07:17 UTC  
+**Last Updated:** July 17, 2026 at 09:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
+**24h:** -2.0%  
 **7d:** -1.4%  
-**30d:** -0.1%  
+**30d:** -0.0%  
 **90d:** -14.7%  
 **1y:** -46.6%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1260.58B
+**Market Cap:** $1260.85B
 Rank #1
 
-**Circulating Supply:** 20,057,396 BTC
+**Circulating Supply:** 20,057,431 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.2%
+-50.1%
 
 **All-Time Low:** $67.81
-+92585.4%
++92631.2%
 
 ---
 
@@ -157,11 +157,11 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 ## Google News: "bitcoin"
 
-**[Bitcoin under $64,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty](https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty)**
+**[Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty](https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty)**
 
 Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -169,37 +169,23 @@ CoinDesk • 3h ago
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 11h ago
+The Block • 14h ago
 
 ---
 
-**[Bitcoin Falls to $63K Lows After Trump Speech & New US Strikes on Iran](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-63k-lows-trump-054422217.html)**
+**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
 
-Bitcoin (BTC) dipped to around $63K and US stocks extended losses on Friday, as the US launched new strikes Iran. Volatility and uncertainty increased as President Trump accused China of interfering with the 2020 US elections in his speech, sparking calls to pass the SAVE America Act before the US midterm election. Ad Ad Bitcoin
+Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Wall Street Goes All-In on Stocks, So Why Not Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/wall-street-goes-stocks-why-062318930.html)**
-
-Stocks hit record risk-on positioning while Bitcoin fell 13.4%, missing the Goldilocks rally that lifted equities.
-
-Yahoo Finance • 53m ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Toby Doeden: A bitcoin evangelist and anti-property-tax crusader who wants to be governor](https://southdakotasearchlight.com/2026/07/16/toby-doeden-a-bitcoin-evangelist-and-anti-property-tax-crusader-who-wants-to-be-governor/)**
+**[Bitcoin rally cools as investors digest inflation data, oil clouds outlook](https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook)**
 
-Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
+The day ahead in crypto: July 15, 2026
 
-South Dakota Searchlight • 16h ago
-
----
-
-**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
-
-Barchart.com • 15h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -211,6 +197,28 @@ Investopedia • 1d ago
 
 ---
 
+**[Toby Doeden: A bitcoin evangelist and anti-property-tax crusader who wants to be governor](https://southdakotasearchlight.com/2026/07/16/toby-doeden-a-bitcoin-evangelist-and-anti-property-tax-crusader-who-wants-to-be-governor/)**
+
+Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
+
+South Dakota Searchlight • 18h ago
+
+---
+
+**[Stanford Study Flags Bitcoin Market Manipulation on Polymarket](https://www.tradingview.com/news/coinpedia:f6d5617da094b:0-stanford-study-flags-bitcoin-market-manipulation-on-polymarket/)**
+
+A new study by Stanford University and Singapore Management University says Polymarket’s five-minute Bitcoin prediction markets may have given sophisticated traders an unfair advantage. After analyzing nearly 16,000 Bitcoin contracts over two months, researchers found trading patterns that suggest…
+
+TradingView • 7h ago
+
+---
+
+**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
+
+Barchart.com • 17h ago
+
+---
+
 **[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
 
 Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
@@ -219,19 +227,11 @@ Alaska's News Source • 2d ago
 
 ---
 
-**[Is It Too Late to Buy Bitcoin?](https://www.fool.com/investing/2026/07/15/is-it-too-late-to-buy-bitcoin/)**
-
-With the top cryptocurrency in a bear market, investors are wondering if its best days are in the past.
-
-The Motley Fool • 1d ago
-
----
-
 **[BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction](https://www.forbes.com/sites/billybambrough/2026/07/16/blackrock-ceo-issues-surprise-12-month-bitcoin-and-crypto-price-prediction/)**
 
 Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
 
-Forbes • 18h ago
+Forbes • 21h ago
 
 ---
 
@@ -243,7 +243,7 @@ Forbes • 18h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 10h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -279,20 +279,6 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 ---
 
-**[Show HN: Puffgres logically replicates Postgres entities in turbopuffer](https://news.ycombinator.com/item?id=48938937)**
-
-Keep Postgres entities synced with turbopuffer using logical replication (beta) - a24films/puffgres
-
-⬆️ 2 • 💬 1 • 12h ago • [GitHub](https://github.com/a24films/puffgres)
-
----
-
-**[Show HN: I built a zero-regex AI WAF (200MB VRAM). Please try to bypass it](https://news.ycombinator.com/item?id=48927265)**
-
-⬆️ 1 • 💬 0 • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -303,17 +289,7 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 10K • 👍 639 • 💬 292 • ⏱️ 11:16 • 15h ago
-
----
-
-**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
-
-Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 8K • 👍 229 • 💬 6 • ⏱️ 1:16 • 14h ago
+👁️ 10K • 👍 647 • 💬 310 • ⏱️ 11:16 • 17h ago
 
 ---
 
@@ -333,17 +309,17 @@ Let's talk about Bitcoin market cycles, and how we can best understand where we 
 
 📺 Benjamin Cowen
 
-👁️ 34K • 👍 2K • 💬 115 • ⏱️ 7:33 • 11h ago
+👁️ 38K • 👍 3K • 💬 119 • ⏱️ 7:33 • 13h ago
 
 ---
 
-**[Japan Just BLEW PAST the U.S. on Crypto!!🚨While CLARITY Act STALLS!🔥](https://www.youtube.com/watch?v=hNZGT63O2cY)**
+**[Caution: It’s Slipping Away For Bitcoin Bulls!](https://www.youtube.com/watch?v=-9CsQ0dsee0)**
 
-Japan has taken one of its most significant steps toward integrating cryptocurrencies into the traditional financial system.
+In today's video, Kyledoops shows you the key risk factors that are currently plaguing the bitcoin bulls. From geopolitical tensions ...
 
-📺 Paul Barron Network
+📺 Crypto Banter
 
-👁️ 85K • 👍 5K • 💬 506 • ⏱️ 15:15 • 19h ago
+👁️ 4K • 👍 507 • 💬 5 • ⏱️ 40:15 • 1h ago
 
 ---
 
@@ -353,17 +329,27 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 655 • 💬 156 • ⏱️ 46:01 • 16h ago
+👁️ 11K • 👍 657 • 💬 199 • ⏱️ 46:01 • 19h ago
 
 ---
 
-**[🚨Bitcoin LIVE Analysis - What to Watch Now!](https://www.youtube.com/watch?v=qKrXbxeExcE)**
+**[&quot;Bitcoin Doesn’t Generate Real Wealth&quot; | MOONSHOTS](https://www.youtube.com/watch?v=nGKks9zGn-E)**
 
-Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XTK3 ...
+AWG: "Bitcoin doesn't generate real wealth." Do you agree or disagree?
 
-📺 Frankie Candles 
+📺 Peter H. Diamandis
 
-👁️ 4K • 👍 309 • 💬 5 • ⏱️ 1:30:00 • 8h ago
+👁️ 5K • 👍 156 • 💬 21 • ⏱️ 0:51 • 13h ago
+
+---
+
+**[Japan Just BLEW PAST the U.S. on Crypto!!🚨While CLARITY Act STALLS!🔥](https://www.youtube.com/watch?v=hNZGT63O2cY)**
+
+Japan has taken one of its most significant steps toward integrating cryptocurrencies into the traditional financial system.
+
+📺 Paul Barron Network
+
+👁️ 87K • 👍 5K • 💬 508 • ⏱️ 15:15 • 21h ago
 
 ---
 
@@ -373,7 +359,7 @@ Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 13K • 👍 620 • 💬 80 • ⏱️ 18:15 • 18h ago
+👁️ 14K • 👍 630 • 💬 82 • ⏱️ 18:15 • 20h ago
 
 ---
 
@@ -383,7 +369,7 @@ Join The Dead Serious Club: https://www.youtube.com/channel/UCVeA0YuBpTi-CYsUYgZ
 
 📺 Ashleigh Banfield x Drop Dead Serious
 
-👁️ 29K • 👍 2K • 💬 193 • ⏱️ 2:34 • 1d ago
+👁️ 30K • 👍 2K • 💬 196 • ⏱️ 2:34 • 1d ago
 
 ---
 
@@ -393,7 +379,7 @@ Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to e
 
 📺 Crypto Zombie
 
-👁️ 10K • 👍 925 • 💬 155 • ⏱️ 12:20 • 14h ago
+👁️ 11K • 👍 950 • 💬 157 • ⏱️ 12:20 • 16h ago
 
 ---
 
