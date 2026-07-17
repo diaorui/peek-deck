@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T01:01:46.784158+00:00'
+updated: '2026-07-17T04:41:13.564267+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 01:01 UTC  
+**Last Updated:** July 17, 2026 at 04:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,799.33
+### $63,603.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +0.1%  
-**30d:** +1.4%  
-**90d:** -13.4%  
-**1y:** -45.8%  
+**24h:** -2.3%  
+**7d:** -0.7%  
+**30d:** +0.7%  
+**90d:** -14.1%  
+**1y:** -46.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1278.51B
+**Market Cap:** $1269.94B
 Rank #1
 
-**Circulating Supply:** 20,057,259 BTC
+**Circulating Supply:** 20,057,334 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.5%
+-49.8%
 
 **All-Time Low:** $67.81
-+93880.2%
++93272.7%
 
 ---
 
@@ -161,23 +161,39 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 5h ago
+The Block • 9h ago
 
 ---
 
-**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
+**[Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years](https://finance.yahoo.com/markets/crypto/articles/dormant-bitcoin-whale-moves-383-154343829.html)**
 
-Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
+The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.
 
-Decrypt • 5h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[JPMorgan has blunt response to MicroStrategy's cash reserve boost](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-blunt-response-microstrategys-cash-235704224.html)**
+**[A bitcoin wallet dormant since the 2017 peak just moved $383 million](https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million)**
 
-Michael Saylor-led Strategy (Nasdaq: MSTR), formerly MicroStrategy, revealed in its Securities and Exchange Commission (SEC) filing on July 13 that during July 6-12, it sold 4,818,781 company shares worth $466.7 million and used the proceeds from the sale to boost its U.S. ...
+The coins went to a fresh address rather than an exchange, so nothing has been sold yet.
 
-Yahoo Finance • 1h ago
+CoinDesk • 22h ago
+
+---
+
+**[Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data](https://www.theblock.co/post/408570/bitcoin-whale-moves-8-years)**
+
+A bitcoin OG wallet transferred 5,908 BTC to a new address on Wednesday, according to Lookonchain, citing Arkham data.
+
+The Block • 21h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Prevails: Analyst Says BTC's 'Clear Breakthrough' Above This Level a Trigger for 'Strong Run](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slide-015615471.html)**
+
+Leading cryptocurrencies fell alongside stocks on Thursday as the chip selloff and Iran tensions impacted risk appetite. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.93%$63,833.51Ethereum (CRYPTO: ETH) -2.63%$1,859.89XRP (CRYPTO: XRP) -1.32%$1.09Solana (CRYPTO: SOL) -1.73%$75.46Dogecoin (CRYPTO: DOGE) -1.54%$0.07246 Crypto Market Breaks Lower Bitcoin retreated to the $63,000 zone after consolidation, while Ethereum tumbled to an intraday low of $1,848.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -185,7 +201,7 @@ Yahoo Finance • 1h ago
 
 Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-South Dakota Searchlight • 9h ago
+South Dakota Searchlight • 13h ago
 
 ---
 
@@ -221,37 +237,23 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin Miners Cash In as AI Hits a Power Bottleneck](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/webinar-bitcoin-miners-cash-in-on-ai-power-bottleneck/)**
-
-ETF Database • 1d ago
-
----
-
-**[Bitcoin at a turning point, could be 'substantially higher' by year end, says Bitwise CIO](https://www.cnbc.com/video/2026/07/15/bitcoin-at-a-turning-point-could-be-substantially-higher-by-year-end-says-bitwise-cio.html)**
-
-Matt Hougan, Bitwise CIO, joins 'Closing Bell Overtime' to talk tokenization, the recent moves in bitcoin, and more.
-
-CNBC • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
+
+**[He Mined 300 Bitcoin, Then Sold the Computer for $200 [video]](https://news.ycombinator.com/item?id=48941357)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 3 • 💬 0 • 5h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+
+---
 
 **[Satd: Bitcoin Streaming Event Consumption API](https://news.ycombinator.com/item?id=48913467)**
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
 ⬆️ 2 • 💬 1 • 2d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
-
----
-
-**[He Mined 300 Bitcoin, Then Sold the Computer for $200 [video]](https://news.ycombinator.com/item?id=48941357)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 2 • 💬 0 • 2h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -283,7 +285,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 Keep Postgres entities synced with turbopuffer using logical replication (beta) - a24films/puffgres
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/a24films/puffgres)
+⬆️ 2 • 💬 1 • 9h ago • [GitHub](https://github.com/a24films/puffgres)
 
 ---
 
@@ -297,13 +299,13 @@ Keep Postgres entities synced with turbopuffer using logical replication (beta) 
 
 ## YouTube Videos: "bitcoin"
 
-**[“I’m Very Bullish” BlackRock Crypto Pump &amp; Dump Plan Revealed!](https://www.youtube.com/watch?v=Iews2OqDoyU)**
+**[My Conservative Bitcoin Model: Why I’m Planning for $253K](https://www.youtube.com/watch?v=N_nGVK6pzW0)**
 
-I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm planning for something very different — about $253000.
 
-📺 Altcoin Daily
+📺 Betirement
 
-👁️ 36K • 👍 2K • 💬 106 • ⏱️ 10:38 • 1d ago
+👁️ 9K • 👍 620 • 💬 288 • ⏱️ 11:16 • 12h ago
 
 ---
 
@@ -313,7 +315,17 @@ Let's talk about Bitcoin market cycles, and how we can best understand where we 
 
 📺 Benjamin Cowen
 
-👁️ 15K • 👍 1K • 💬 104 • ⏱️ 7:33 • 5h ago
+👁️ 29K • 👍 2K • 💬 109 • ⏱️ 7:33 • 8h ago
+
+---
+
+**[“I’m Very Bullish” BlackRock Crypto Pump &amp; Dump Plan Revealed!](https://www.youtube.com/watch?v=Iews2OqDoyU)**
+
+I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 2K • 💬 88 • ⏱️ 10:38 • 1d ago
 
 ---
 
@@ -323,27 +335,7 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 71K • 👍 4K • 💬 484 • ⏱️ 15:15 • 12h ago
-
----
-
-**[Bitcoin At $64k! Samson Mow Says You&#39;re ALREADY TOO LATE for the Coming Explosion](https://www.youtube.com/watch?v=oX85sQfIv8Y)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 119 • 💬 16 • ⏱️ 14:19 • 1d ago
-
----
-
-**[My Conservative Bitcoin Model: Why I’m Planning for $253K](https://www.youtube.com/watch?v=N_nGVK6pzW0)**
-
-Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm planning for something very different — about $253000.
-
-📺 Betirement
-
-👁️ 5K • 👍 478 • 💬 230 • ⏱️ 11:16 • 9h ago
+👁️ 82K • 👍 4K • 💬 503 • ⏱️ 15:15 • 16h ago
 
 ---
 
@@ -353,37 +345,27 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 612 • 💬 175 • ⏱️ 46:01 • 10h ago
+👁️ 10K • 👍 649 • 💬 156 • ⏱️ 46:01 • 14h ago
 
 ---
 
-**[Inflation and Bitcoin](https://www.youtube.com/watch?v=rWfLRMiyQVY)**
+**[🚨Bitcoin LIVE Analysis - What to Watch Now!](https://www.youtube.com/watch?v=qKrXbxeExcE)**
 
-Inflation came in cooler than expected, but what does that actually mean for Bitcoin? In this video, we break down the latest CPI ...
+Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XTK3 ...
 
-📺 Benjamin Cowen
+📺 Frankie Candles 
 
-👁️ 57K • 👍 3K • 💬 110 • ⏱️ 7:57 • 1d ago
-
----
-
-**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
-
-Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 5K • 👍 177 • 💬 23 • ⏱️ 1:16 • 8h ago
+👁️ 3K • 👍 312 • 💬 5 • ⏱️ 1:30:00 • 5h ago
 
 ---
 
-**[Blackrock Knows… [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=yQU51htRPOI)**
+**[&quot;Bitcoin Doesn’t Generate Real Wealth&quot; | MOONSHOTS](https://www.youtube.com/watch?v=nGKks9zGn-E)**
 
-Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE TOP COINS (available everywhere) ...
+AWG: "Bitcoin doesn't generate real wealth." Do you agree or disagree?
 
-📺 Lark Davis
+📺 Peter H. Diamandis
 
-👁️ 12K • 👍 579 • 💬 58 • ⏱️ 18:15 • 12h ago
+👁️ 4K • 👍 125 • 💬 19 • ⏱️ 0:51 • 9h ago
 
 ---
 
@@ -393,7 +375,27 @@ Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to e
 
 📺 Crypto Zombie
 
-👁️ 7K • 👍 780 • 💬 137 • ⏱️ 12:20 • 8h ago
+👁️ 10K • 👍 896 • 💬 153 • ⏱️ 12:20 • 11h ago
+
+---
+
+**[Inflation and Bitcoin](https://www.youtube.com/watch?v=rWfLRMiyQVY)**
+
+Inflation came in cooler than expected, but what does that actually mean for Bitcoin? In this video, we break down the latest CPI ...
+
+📺 Benjamin Cowen
+
+👁️ 58K • 👍 3K • 💬 110 • ⏱️ 7:57 • 2d ago
+
+---
+
+**[Bitcoin&#39;s Biggest Bill Is in Trouble - Trump Has 20 Days to Save It](https://www.youtube.com/watch?v=rS4U4eu9E5k)**
+
+Bitcoin #Crypto #finance Trump is meeting with Republican senators today to push the CLARITY Act across the finish line, ...
+
+📺 The Wolf Of All Streets
+
+👁️ 6K • 👍 350 • 💬 163 • ⏱️ 31:53 • 14h ago
 
 ---
 

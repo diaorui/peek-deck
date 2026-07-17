@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-17T01:01:46.776312+00:00'
+updated: '2026-07-17T04:41:13.555540+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 17, 2026 at 01:01 UTC  
+**Last Updated:** July 17, 2026 at 04:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.](https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 8h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 11h ago
+
+---
+
+**[Gemini is EVERYWHERE](https://www.reddit.com/r/artificial/comments/1uyl7f4/gemini_is_everywhere/)**
+
+It's integrated into chrome, works directly with Google Search as AI Mode and overviews, acts as the default assistant for Android phones (and now apparently Apple phones too), powers Circle-to-Search, and even works as a chatbot assistant with Google Maps, Gmail, Docs, etc. That's a pretty stacked roster. This is some IOS level of ecosystem compatibility. I currently have a ChatGPT subscription and overall pretty satisfied, but I do feel a bit of jealousy at the level of integration Gemini has.
+
+3h ago
 
 ---
 
@@ -51,11 +59,35 @@ Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
 ---
 
+**[What Is Left for Us to Become?](https://www.reddit.com/r/artificial/comments/1uyphsv/what_is_left_for_us_to_become/)**
+
+What Is Left for Us to Become? There is a question that keeps returning, in different forms, every time a new technology reaches the threshold of intelligence. It is usually asked wrong. What can this thing do? is the question of an engineer, or a market. It is not the question of someone trying to understand what is actually happening. The more difficult question, the one that doesn't resolve into a product roadmap, is this: what relationship are we building with AI? Not what it computes. What we project onto it. Two Ways of Meeting the Same System The same model, the same weights, the same outputs — can occupy two entirely different places in a human mind. In one, AI is an instrument. Something closer to a lens than a mind: it extends reach, sharpens perception, lets a person explore a problem, a form, an idea, faster and further than they could alone. Used this way, AI stays subordinate to a human intention that precedes it. The person still decides what is worth exploring. In the other, AI becomes something else — an imaginary projection. Not a tool anymore, but a kind of oracle. People start asking it not just how to do something, but whether it should be done, what it means, what is true. Authority migrates. Not because the system claimed it, but because the human handed it over — often without noticing the transfer taking place. The system does not know which role it has been cast in. It responds the same way either way. The difference lives entirely on the human side of the exchange. Which is precisely what makes it worth examining: the danger, if there is one, was never really about the machine's capability. It is about the posture we bring to it. The Wrong Fight Over Replacement A great deal of the current conversation treats replacement as an injury by default — as though anything AI does instead of a human is automatically a diminishment. This doesn't hold up under scrutiny. Some replacement is simply relief. Work that is dangerous, repetitive, or empty of meaning has never ennobled the people forced to do it; removing a human from it is not a loss to mourn. The reflex to defend every task a human currently performs, purely because a human currently performs it, mistakes inertia for value. So replacement, on its own, is not the axis worth arguing over. The real question sits one layer beneath it: What do we do with the space that gets created? A task disappears. A gap opens where labor used to be. That gap is not self-filling. It does not automatically convert into leisure, or growth, or meaning — it can just as easily become drift, a kind of quiet atrophy dressed up as convenience. Nothing about automation guarantees that what replaces the task is better than the task was. That outcome has to be built. It is a human responsibility, not a technological byproduct. Do we let the space empty out — the human simply subtracted, with nothing asked to take their place? Or do we treat that space as an opening: room to move toward the kinds of capacities that were always harder to automate — judgment under ambiguity, creative risk, the maintenance of relationships, the slow work of meaning? That question doesn't get answered by the technology. It gets answered by what the people around it choose to do next. The Part That Doesn't Get Automated This is where the conversation about AI usually runs out of road, because it was never really a conversation about AI to begin with. It is a conversation about human development — about what happens to a person's judgment, curiosity, and capacity for meaning when a powerful assistant is standing next to them at every step. A tool that can think alongside you changes what it means to grow. It can shorten the distance to competence, and in doing so, it can also shorten the distance a person is willing to travel on their own. Whether that trade is worth making isn't obvious, and it isn't the same answer for every domain, every person, every stage of a life. That is the accompaniment this moment actually requires — not a debate about what the systems can do next, which will keep expanding regardless, but an ongoing, unresolved attention to how humans are evolving alongside them. Slower, harder to measure, and far more consequential than anything on a capability benchmark. AI can help us see further. It can amplify what we already reach for. What it cannot do is choose the direction. That choice was never delegated. It only looks that way when no one is holding it. Who holds the Compass? — Irkif Hillat
+
+10m ago
+
+---
+
+**[Chiron: Exact recovery + held-out verification + refusal engine (public repo + prototype live)](https://www.reddit.com/r/artificial/comments/1uypbqm/chiron_exact_recovery_heldout_verification/)**
+
+A verification system for machine intelligence that prioritizes certainty over confidence. Most AI systems generate an answer and hope you trust it. Chiron inverts that: it tries to recover the exact underlying rule (via Minimum Description Length), proves it on data it was never shown, and refuses to stamp anything it can't verify exactly. Every output comes with a signed, falsifiable certificate. https://github.com/jiannotti5040/chiron
+
+19m ago
+
+---
+
 **[Finally, an AI start up with a Billion-dollar revenue not valuation (backed by Nvidia )](https://www.reddit.com/r/artificial/comments/1uycu7x/finally_an_ai_start_up_with_a_billiondollar/)**
 
 Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models
 
-🔗 [CNBC](https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html) • 5h ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html) • 9h ago
+
+---
+
+**[Agentwashing Sounds Like a SaaS Product. It's Actually a Confession.](https://www.reddit.com/r/artificial/comments/1uylg25/agentwashing_sounds_like_a_saas_product_its/)**
+
+How many of your org's "agents" can actually complete a multi-step task without someone feeding it each step by hand? VentureBeat's Pulse Research asked that question directly after surveying 101 enterprises about their AI agent deployment. The answer was blunt: 71% admitted a quarter or fewer of what they called agents were real multi-step workflows, not single-prompt wrappers with new packaging. Only 10% had more than half their fleet crossing that bar. Claude leads as the primary platform at 40%, roughly double whatever follows. Microsoft lands at 18%, OpenAI at 13%. Could not independently verify those share figures beyond VentureBeat's own press release. The cost question is worse. 27% have no real-time visibility into what a running agent is spending. That means somewhere between 10 and 27 organizations were flying blind on runtime costs at the time of the survey. Compare that to other surveys from roughly the same period. Zapier found 72% of enterprises either deploying or testing agents. Writer's 2026 poll had 97% of executives claiming agent deployment. Same market. Wildly different numbers. Because none of these surveys actually measure the same thing, and nobody standardized on what "agent" means yet. Gartner coined a word for it: agentwashing. Companies call whatever they built an agent. The word stopped meaning anything specific enough to compare across organizations, which makes every adoption stat in this space almost worthless without reading the methodology first. Agent orchestration isn't meaningless where it was actually constructed that way. It just means the industry is still arguing about definitions while pretending to measure maturity. https://preview.redd.it/v7xtkw5oyodh1.png?width=4500&format=png&auto=webp&s=965c1b9efc3002dba03ae6aa4b260945b0ea5e9f
+
+3h ago
 
 ---
 
@@ -63,7 +95,7 @@ Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper
 
 I really liked the conversational feel of GPT-Live, so I wanted to build something similar that could run locally. I’ve spent some time developing a project called OpenLive—written in Rust—which serves as a self-hosted voice agent runtime. My main goal was to make the conversation feel natural; for instance, allowing for interruptions and ensuring quick responses, all while keeping everything running on my own machine. It features a clean real-time voice interface with an animated sphere, uses Piper for speech synthesis, and includes client-side noise reduction and voice activity detection. I’ve also integrated some simple tools and agents so it can do more than just chat—it can actually perform tasks. It’s still an early version, but the voice functionality is already working, and the flow feels smoother than I expected. You can find the project link in the first comment below if you're interested. I’m curious if anyone else has built a local voice agent—how did you manage to make the conversation feel natural? This project is still in its early stages, and I’d love to gather more suggestions. GitHub: https://github.com/byte271/Openlive
 
-2h ago
+5h ago
 
 ---
 
@@ -79,39 +111,7 @@ Anthropic’s alignment team published case studies of four concrete failure mod
 
 I've been following semiconductor stocks pretty closely this year, and one thing from this week really stood out to me. Broadcom announces a long-term Apple deal and the stock jumps almost 11%. Samsung reports record profits. SK hynix pulls off one of the biggest listings we've seen. And... memory stocks barely move. The more I think about it, the more it feels like the market isn't rewarding "good news" anymore. It's rewarding new information. Everyone already knew HBM demand was insane. Everyone already knew memory pricing was improving. Samsung's numbers basically confirmed what investors had been pricing in for months. Broadcom was different. The Apple agreement gave investors something new to value—a named customer, a long-term commitment, and another data point supporting the custom silicon story. I'm wondering if this becomes the pattern for the rest of the year. Maybe the easy money in AI isn't about buying every company exposed to AI anymore. Maybe it's about identifying who gets the next unexpected catalyst. Curious what everyone else thinks. Are memory names actually priced in now, or is the market underestimating how much earnings can keep growing?
 
-4h ago
-
----
-
-**[Meta reins in new AI tool after criticism](https://www.reddit.com/r/artificial/comments/1uybydj/meta_reins_in_new_ai_tool_after_criticism/)**
-
-Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.
-
-🔗 [AP News](https://apnews.com/article/meta-artificial-intelligence-instagram-images-privacy-4df3bdb3fec6e046c6562accc2d270a5?utm_source=copy&utm_medium=share) • 6h ago
-
----
-
-**[Guess the AI model from its embedding structure](https://www.reddit.com/r/artificial/comments/1uyi65v/guess_the_ai_model_from_its_embedding_structure/)**
-
-Just for fun: from this projection, can you guess the model? Don't look up the watermark. It might point you in the wrong direction. I'll reveal the answer in a day or so.
-
-2h ago
-
----
-
-**[Elon Musk’s Grok Faces a Trust Crisis After Developers Flag a Major Privacy Concern](https://www.reddit.com/r/artificial/comments/1ux4dnf/elon_musks_grok_faces_a_trust_crisis_after/)**
-
-New from me, shedding light on the Grok Build debacle including an interview with the developer who kicked it all off.
-
-🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 1d ago
-
----
-
-**[the hard part of a private ai rollout isn't the vpc, it's the connectors nobody wrote](https://www.reddit.com/r/artificial/comments/1uycdf6/the_hard_part_of_a_private_ai_rollout_isnt_the/)**
-
-the instinct in here that company data shouldn't go live in a vendor cloud is right, and it holds up better than most of the takes it sits next to. private vpc or on-prem is also a mostly solved shape at this point, plenty of vendors will sell you that box. The part I keep watching people walk into is downstream of that. Once it's running inside your own vpc, the agent can still only touch what has a connector. Gmail, Slack, Notion, Linear, those ship in the box. The internal billing tool, the ops dashboard someone built in 2019, the thing your whole approval chain actually runs through, none of those have one. and those are exactly the systems the 50-person company wanted the agent in when they started the conversation. Runner's business tier is the version of this I've looked at closest: private on-prem or vpc, plus custom mcp connectors for internal systems. what stood out was the ordering. the deployment topology is about a week. Mapping your weird internal stuff into something an agent can actually call is the real project, and nobody scopes it that way going in. deployment is the question that gets asked in procurement. connector coverage is the one that decides whether anyone still opens it in month three. written with ai
-
-5h ago
+8h ago
 
 ---
 
@@ -121,71 +121,71 @@ the instinct in here that company data shouldn't go live in a vendor cloud is ri
 
 **[Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)**
 
-The New York Times • 7h ago
+The New York Times • 11h ago
 
 ---
 
 **[Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives](https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
-**[Axios House D.C.: AI is reshaping America's industrial future](https://www.axios.com/2026/07/17/axios-house-dc-ai-reshaping-americas-industrial-future)**
+**[Xi Pushes Human Oversight of AI as China Expands Global Outreach](https://www.bloomberg.com/news/live-blog/2026-07-17/xi-jinping-ai-speech-china-waic-conference)**
 
-Axios • 12m ago
-
----
-
-**[Parkland man accused in AI-generated child pornography case after tip from Grok, investigators say](https://www.cbsnews.com/miami/news/parkland-man-accused-in-ai-generated-child-pornography-case-after-tip-from-grok-investigators-say/)**
-
-A cyber tip about AI-generated images led to an arrest in Parkland. Advocates warn parents to closely monitor kids' use of AI apps.
-
-CBS News • 16m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[3 of our stocks rode the AI rally, while 3 others fell out of favor since last month](https://www.cnbc.com/2026/07/16/3-of-our-stocks-rode-the-ai-rally-while-3-others-fell-out-of-favor-since-last-month.html)**
+**[Xi Jinping spearheads China’s AI push](https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc?syn-25a6b1a6=1)**
 
-Ahead of the CNBC Investing Club's July Monthly Meeting, here's a look at what moved our three top and bottom performers since our last meeting.
+President calls for ‘positive’ use of technology as Beijing seeks to strengthen influence over standards
 
-CNBC • 10h ago
-
----
-
-**[China AI Stocks’ 1000%-Plus Profit Gain May Fail to Revive Rally](https://www.bloomberg.com/news/articles/2026-07-17/china-ai-stocks-1000-plus-profit-gain-may-fail-to-revive-rally)**
-
-Bloomberg.com • 32m ago
+Financial Times • 2h ago
 
 ---
 
-**[The Lehman Bros. moment of the AI bubble is coming, says this critic warning of fallout for tech stocks and the entire market](https://www.marketwatch.com/story/the-lehman-brothers-of-the-ai-bubble-is-coming-says-this-critic-warning-of-a-fallout-for-tech-and-the-entire-market-eec47e4d)**
+**[Inside the room as Xi Jinping outlines China’s global vision for AI in landmark speech](https://www.nbcnews.com/tech/tech-news/xi-jinping-outlines-chinas-global-vision-ai-landmark-speech-rcna587881)**
 
-MarketWatch • 11h ago
+Speaking at China’s largest AI gathering, the Chinese leader called for greater global collaboration on AI development and governance while highlighting risks and the potential for “loss of control.”
 
----
-
-**[Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed](https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html)**
-
-Alphabet announced the Gemini 3.5 Pro AI  in May, saying it was being used internally but wouldn't be ready for a broader rollout until the following month.
-
-CNBC • 5h ago
+NBC News • 16m ago
 
 ---
 
-**[NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)**
+**[AI isn’t destroying entry-level jobs. It’s changing them](https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a?syn-25a6b1a6=1)**
 
-NotebookLM is now Gemini Notebook: the same standalone product with deeper Google integration and a secure cloud computer.
+Here are the ways leading companies are already responding to the AI revolution in professional services
 
-blog.google • 8h ago
+Financial Times • 40m ago
 
 ---
 
-**[One of the world’s most prominent hospitals is testing how AI can revolutionize health care](https://www.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare)**
+**[DeepMind's CEO Says STEM Students Can Use AI 10 Times More Effectively](https://www.businessinsider.com/deepmind-ceo-stem-students-use-ai-more-effectively-demis-hassabis-2026-7)**
 
-Mayo Clinic, one of the world’s most well-known hospital systems, is using AI in hopes of improving patient care and, ultimately, saving lives.
+AI is changing tech careers, but it won't take away the importance of a STEM degree, says Demis Hassabis.
 
-CNN • 16h ago
+Business Insider • 4m ago
+
+---
+
+**[Buffett says AI giants are 'playing a game they don't want to play' to compete in the AI race](https://fortune.com/2026/07/16/warren-buffett-google-berkshire-ai-race/)**
+
+Buffett’s remarks helped push Google co-founder Larry Page’s net worth above $300 billion as he predicts Google dominating the AI race.
+
+Fortune • 9h ago
+
+---
+
+**[China wants to end AI romances](https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances)**
+
+The Economist • 15h ago
+
+---
+
+**[China's open-weight Kimi model stuns AI world with frontier-level results](https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-model-openai-anthropic)**
+
+Axios • 5h ago
 
 ---
 
@@ -207,17 +207,33 @@ Reflections on autonomy and the value of thinking for ourselves
 
 ---
 
+**[LM Studio Bionic: the AI agent for open models](https://news.ycombinator.com/item?id=48939662)**
+
+The AI agent made for open models, built to get things done.
+
+⬆️ 191 • 💬 70 • 8h ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+
+---
+
 **[The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://news.ycombinator.com/item?id=48920432)**
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 186 • 💬 239 • 1d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+⬆️ 187 • 💬 242 • 1d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
 **[Proof of care in the age of AI](https://news.ycombinator.com/item?id=48906125)**
 
 ⬆️ 185 • 💬 110 • 2d ago • [jacobfilipp.com](https://jacobfilipp.com/care/)
+
+---
+
+**[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://news.ycombinator.com/item?id=48939524)**
+
+We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
+
+⬆️ 184 • 💬 212 • 8h ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
@@ -231,15 +247,7 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 https://t.co/PTeDiv1b6L
 
-⬆️ 156 • 💬 201 • 2d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
-
----
-
-**[LM Studio Bionic: the AI agent for open models](https://news.ycombinator.com/item?id=48939662)**
-
-The AI agent made for open models, built to get things done.
-
-⬆️ 143 • 💬 57 • 4h ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 157 • 💬 201 • 2d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
 
 ---
 
@@ -247,21 +255,13 @@ The AI agent made for open models, built to get things done.
 
 A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
 
-⬆️ 120 • 💬 27 • 7h ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+⬆️ 127 • 💬 28 • 10h ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
 
 ---
 
-**[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
+**[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 107 • 💬 112 • 1d ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
-
----
-
-**[Stop saying that AI is just a tool and it only matters how it is used](https://news.ycombinator.com/item?id=48930363)**
-
-I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
-
-⬆️ 103 • 💬 112 • 20h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+⬆️ 109 • 💬 55 • 13h ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -275,37 +275,27 @@ GPT 5.6 Sol is off to a…smashing…start. Subscribe to my Substack: https://at
 
 📺 Mo Bitar
 
-👁️ 147K • 👍 10K • 💬 1K • ⏱️ 9:10 • 1d ago
+👁️ 154K • 👍 10K • 💬 2K • ⏱️ 9:10 • 1d ago
 
 ---
 
-**[Anthropic CEO: AI Is Not Conscious , It&#39;s Much WORSE Than That - Dario Amodei](https://www.youtube.com/watch?v=2Lt0AtM4JW8)**
+**[Global Insurgents Are Using AI. It&#39;s Dumber Than We Feared.](https://www.youtube.com/watch?v=qnWQz-uU7S4)**
 
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Anthropic CEO Dario Amodei warns that AI ...
+Discover how insurgent groups exploit AI for propaganda, tactics, drones, and recruitment, why governments struggle to respond, ...
 
-📺 Neural Nutshell
+📺 WarFronts
 
-👁️ 11K • 👍 336 • 💬 98 • ⏱️ 20:51 • 8h ago
-
----
-
-**[It&#39;s Official, The AI Bubble Just Popped (Here&#39;s Why)](https://www.youtube.com/watch?v=paLy21TVecw)**
-
-Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist Pro https://rcp.georgegammon.com/pro.
-
-📺 George Gammon
-
-👁️ 107K • 👍 4K • 💬 753 • ⏱️ 28:35 • 1d ago
+👁️ 99K • 👍 4K • 💬 467 • ⏱️ 16:39 • 11h ago
 
 ---
 
-**[Anthropic AI IPO&#39;ing Soon - OpenAI is DEAD](https://www.youtube.com/watch?v=OsUIpRTDnuQ)**
+**[China bans AI chatbot relationships to combat declining birth rate](https://www.youtube.com/watch?v=d_WNmJRxsRM)**
 
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+China is pushing to regulate relationships with artificial intelligence chatbots as birthrates decline. Matt Sheehan, a senior fellow ...
 
-📺 Eli the Computer Guy
+📺 CBS News
 
-👁️ 5K • 👍 291 • 💬 97 • ⏱️ 14:23 • 5h ago
+👁️ 3K • 👍 78 • 💬 64 • ⏱️ 4:16 • 13h ago
 
 ---
 
@@ -315,7 +305,17 @@ LinkedIn: https://www.linkedin.com/in/charles-broomfield/ Apply to work with me:
 
 📺 Charles Level Up
 
-👁️ 5K • 👍 308 • 💬 57 • ⏱️ 19:36 • 1d ago
+👁️ 6K • 👍 340 • 💬 67 • ⏱️ 19:36 • 1d ago
+
+---
+
+**[It&#39;s Official, The AI Bubble Just Popped (Here&#39;s Why)](https://www.youtube.com/watch?v=paLy21TVecw)**
+
+Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist Pro https://rcp.georgegammon.com/pro.
+
+📺 George Gammon
+
+👁️ 116K • 👍 5K • 💬 801 • ⏱️ 28:35 • 1d ago
 
 ---
 
@@ -325,7 +325,27 @@ The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-ma
 
 📺 Nick Ponte
 
-👁️ 4K • 👍 143 • 💬 28 • ⏱️ 8:55 • 10h ago
+👁️ 4K • 👍 165 • 💬 30 • ⏱️ 8:55 • 14h ago
+
+---
+
+**[Anthropic CEO: AI Is Not Conscious , It&#39;s Much WORSE Than That - Dario Amodei](https://www.youtube.com/watch?v=2Lt0AtM4JW8)**
+
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Anthropic CEO Dario Amodei warns that AI ...
+
+📺 Neural Nutshell
+
+👁️ 21K • 👍 458 • 💬 120 • ⏱️ 20:51 • 12h ago
+
+---
+
+**[Anthropic AI IPO&#39;ing Soon - OpenAI is DEAD](https://www.youtube.com/watch?v=OsUIpRTDnuQ)**
+
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+
+📺 Eli the Computer Guy
+
+👁️ 10K • 👍 389 • 💬 125 • ⏱️ 14:23 • 8h ago
 
 ---
 
@@ -335,37 +355,17 @@ Mitch McConnell's questionable “proof of life” photo unleashes a bipartisan 
 
 📺 Rebel HQ
 
-👁️ 75K • 👍 2K • 💬 502 • ⏱️ 8:56 • 1d ago
+👁️ 79K • 👍 2K • 💬 512 • ⏱️ 8:56 • 1d ago
 
 ---
 
-**[MY AI CONTROLS ME in BROOKHAVEN... *GONE WRONG*](https://www.youtube.com/watch?v=BMh3hrzx_Yo)**
+**[Anthropic Now Says AI Could Kill Us All...](https://www.youtube.com/watch?v=8D0INXhxUIw)**
 
-HEY THERE! In today's video I let AI control me in BROOKHAVEN... does it get out of hand? Continue watching til the end to ...
+Anthropic just released one of the darkest AI advertisements ever made. The company behind Claude shows burning homes, ...
 
-📺 IBella
+📺 AI Revolution
 
-👁️ 8K • 👍 613 • 💬 192 • ⏱️ 11:32 • 5h ago
-
----
-
-**[Experts Give URGENT WARNING About AI](https://www.youtube.com/watch?v=MxNIMgjGa30)**
-
-More than 200 economists and researchers penned a letter warning about the economic impacts of AI. Cenk Uygur and Elliot ...
-
-📺 The Young Turks
-
-👁️ 58K • 👍 2K • 💬 707 • ⏱️ 14:47 • 1d ago
-
----
-
-**[You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)](https://www.youtube.com/watch?v=Bm84BAtOfQw)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/3SXCfgk Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 76K • 👍 3K • 💬 224 • ⏱️ 22:25 • 1d ago
+👁️ 20K • 👍 646 • 💬 133 • ⏱️ 15:39 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 4 • ❤️ 795 • 9h ago
+⬇️ 4 • ❤️ 830 • 13h ago
 
 ---
 
@@ -393,7 +393,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 74,007 • ❤️ 593 • 2d ago
+⬇️ 74,007 • ❤️ 614 • 2d ago
 
 ---
 
@@ -405,7 +405,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 559,267 • ❤️ 335 • 2d ago
+⬇️ 559,267 • ❤️ 348 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,042,670 • ❤️ 2,233 • 2d ago
+⬇️ 2,042,670 • ❤️ 2,240 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 513,061 • ❤️ 4,029 • 14d ago
+⬇️ 513,061 • ❤️ 4,032 • 14d ago
 
 ---
 
@@ -441,7 +441,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 8,238 • ❤️ 389 • 6d ago
+⬇️ 8,238 • ❤️ 393 • 6d ago
 
 ---
 
@@ -451,7 +451,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 321 • 7d ago
+⬇️ 0 • ❤️ 323 • 7d ago
 
 ---
 
@@ -463,7 +463,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 11,849 • ❤️ 812 • 21h ago
+⬇️ 11,849 • ❤️ 814 • 1d ago
 
 ---
 
@@ -475,19 +475,19 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 75,105 • ❤️ 231 • 1d ago
+⬇️ 75,105 • ❤️ 234 • 1d ago
 
 ---
 
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+**[Qwythos-9B-v2-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF)**
 
-*HauHau*
+*Empero*
 
-This is an uncensored, aggressive multimodal model (35B parameters, 3B active) based on Qwen3.6, capable of processing text and images. It's designed for maximum output without refusals, suitable for advanced text generation and multimodal tasks.
+Qwythos-9B-v2-GGUF is a quantized, multimodal LLM optimized for reasoning and long-context tasks (up to 1M tokens). It features fixed looping behavior, supports function calling, and is designed for efficient inference with GGUF runtimes like llama.cpp.
 
-`image-text-to-text` `34.7B`
+`image-text-to-text` `9.0B`
 
-⬇️ 2,328,315 • ❤️ 2,785 • 3mo ago
+⬇️ 89,107 • ❤️ 150 • 5d ago
 
 ---
 
@@ -503,7 +503,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 42 • 💬 1 • ⭐ 1,205 • 9d ago
+▲ 43 • 💬 1 • ⭐ 1,205 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
 
@@ -555,7 +555,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
 
-▲ 62 • 💬 1 • ⭐ 811 • 9d ago
+▲ 63 • 💬 1 • ⭐ 811 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
@@ -569,22 +569,9 @@ LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-E
 
 ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
 
-▲ 57 • 💬 3 • ⭐ 1,295 • 12d ago
+▲ 58 • 💬 3 • ⭐ 1,295 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 176 • 💬 2 • ⭐ 74,813 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -627,17 +614,30 @@ https://continuous-audio-language-models.github.io
 
 ---
 
-**[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264)**
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
-*Zelun Zhang, Hongen Liu, Suyin Liang et al. (15 authors)*
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
 
-🏢 PaddlePaddle
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
+▲ 176 • 💬 2 • ⭐ 74,845 • 9mo ago
 
-▲ 26 • 💬 1 • ⭐ 85,614 • 1mo ago
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
-[🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
+---
+
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
+
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
+
+🏢 Robbyant
+
+LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
+
+▲ 27 • 💬 3 • ⭐ 10,871 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -651,7 +651,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.8k • 🔱 1.0k • 8h ago
+⭐ 4.8k • 🔱 1.0k • 12h ago
 
 ---
 
@@ -661,7 +661,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.8k • 🔱 196 • 9h ago
+⭐ 2.8k • 🔱 196 • 12h ago
 
 ---
 
@@ -671,7 +671,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.5k • 🔱 359 • 5d ago
+⭐ 2.5k • 🔱 358 • 25m ago
 
 ---
 
@@ -681,7 +681,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.2k • 🔱 256 • 8d ago
+⭐ 2.3k • 🔱 259 • 8d ago
 
 ---
 
@@ -701,7 +701,7 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 
 `Python` `ai` `ai-agents` `api` `copilot` `llm`
 
-⭐ 1.1k • 🔱 375 • 19d ago
+⭐ 1.1k • 🔱 374 • 19d ago
 
 ---
 
@@ -731,7 +731,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 927 • 🔱 56 • 2d ago
+⭐ 929 • 🔱 56 • 2d ago
 
 ---
 
@@ -739,7 +739,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 877 • 🔱 35 • 15d ago
+⭐ 882 • 🔱 35 • 16d ago
 
 ---
 
