@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-17T20:27:29.418010+00:00'
+updated: '2026-07-17T21:22:35.634043+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 20:27 UTC  
+**Last Updated:** July 17, 2026 at 21:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -170,7 +170,7 @@ Fed Chair Kevin Warsh told Congress the Fed doesn't want to bail out crypto. Her
 
 A Politico report suggested the CLARITY Act may struggle to win enough Democratic support in the Senate.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -186,13 +186,13 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
 **[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ Stocktwits • 1d ago
 
 Ethereum (ETH) has outperformed the top 10 cryptocurrencies since the crypto market began a recovery last week. On a weekly timeframe, the top altcoin is seeing an 8% gain, compared to 2.4%, 1.4%, 1.6%, -1.8% and -3.5% for Bitcoin (BTC), BNB, XRP, Solana (SOL) and Hyperliquid (HYPE).
 
-FXStreet • 22h ago
+FXStreet • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Motley Fool • 1d ago
 
 President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial
 
-Coinpedia • 18h ago
+Coinpedia • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 119 • 💬 59 • ⏱️ 20:43 • 4h ago
+👁️ 2K • 👍 119 • 💬 59 • ⏱️ 20:43 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 579 • 👍 45 • 💬 4 • ⏱️ 17:29 • 3h ago
+👁️ 579 • 👍 45 • 💬 4 • ⏱️ 17:29 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 1K • 👍 116 • 💬 183 • ⏱️ 22:29 • 2h ago
+👁️ 1K • 👍 116 • 💬 183 • ⏱️ 22:29 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 16K • 👍 556 • 💬 127 • ⏱️ 13:38 • 23h ago
+👁️ 16K • 👍 556 • 💬 127 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 6K • 👍 891 • 💬 82 • ⏱️ 14:48 • 1h ago
+👁️ 6K • 👍 891 • 💬 82 • ⏱️ 14:48 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 7K • 👍 194 • 💬 30 • ⏱️ 7:55 • 20h ago
+👁️ 7K • 👍 194 • 💬 30 • ⏱️ 7:55 • 21h ago
 
 ---
 
@@ -298,7 +298,7 @@ Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, w
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 255 • 💬 5 • ⏱️ 15:12 • 13h ago
+👁️ 3K • 👍 255 • 💬 5 • ⏱️ 15:12 • 14h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum is worth 32X more than Cardano—but is that massive gap actually justi
 
 📺 Crux of Crypto
 
-👁️ 92 • 👍 29 • 💬 3 • ⏱️ 13:38 • 1h ago
+👁️ 92 • 👍 29 • 💬 3 • ⏱️ 13:38 • 2h ago
 
 ---
 
