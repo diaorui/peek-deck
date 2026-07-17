@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-17T09:27:41.209698+00:00'
+updated: '2026-07-17T11:06:47.154806+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 09:27 UTC  
+**Last Updated:** July 17, 2026 at 11:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,829.05
+### $1,832.02
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** +2.3%  
-**30d:** +7.0%  
-**90d:** -19.1%  
-**1y:** -48.4%  
+**24h:** -2.0%  
+**7d:** +2.6%  
+**30d:** +7.3%  
+**90d:** -18.9%  
+**1y:** -48.2%  
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Decrypt • 13h ago
+Decrypt • 15h ago
 
 ---
 
@@ -166,19 +166,43 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Ethereum News: BlackRock, JPMorgan Builds Make ETH a Wall Street Asset, Tom Lee Argues](https://finance.yahoo.com/markets/crypto/articles/ethereum-news-blackrock-jpmorgan-builds-083312592.html)**
+
+In the lastest Ethereum news, Fundstrat’s Tom Lee is arguing that Ethereum’s next major move has nothing to do with crypto-native speculation, and everything to do with institutional capital that is already deployed and building. Writing in Bitmine’s July Chairman’s message, Lee pointed to BlackRock BUIDL, JPMorgan MONY, and Robinhood ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Current price of Ethereum for July 17, 2026](https://fortune.com/article/price-of-ethereum-07-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://www.tradingview.com/news/coinpedia:359cb5979094b:0-bitcoin-ethereum-and-xrp-prices-fall-after-trump-s-speech-today/)**
+
+President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial announcement about declassified intelligence tied to elections.Trump opened by touting economic gains under his administration. “Our country is safer, stron…
+
+TradingView • 9h ago
+
+---
+
+**[Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund](https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund)**
+
+This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliquid are all lower.
+
+CoinDesk • 1d ago
+
+---
+
 **[Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing](https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing)**
 
 The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
 The Block • 2d ago
-
----
-
-**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
-
-In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -190,41 +214,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://www.tradingview.com/news/coinpedia:359cb5979094b:0-bitcoin-ethereum-and-xrp-prices-fall-after-trump-s-speech-today/)**
+**[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
 
-President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial announcement about declassified intelligence tied to elections.Trump opened by touting economic gains under his administration. “Our country is safer, stron…
+The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
 
-TradingView • 7h ago
-
----
-
-**[Current price of Ethereum for July 16, 2026](https://fortune.com/article/price-of-ethereum-07-16-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 23h ago
-
----
-
-**[Ethereum Has a Bold New Plan for 2029. What Will Be the Impact on the Price of ETH?](https://www.fool.com/investing/2026/07/15/ethereum-has-a-bold-new-plan-for-2029/)**
-
-The chain's updated technical roadmap will see it add major new features.
-
-The Motley Fool • 1d ago
+CoinDesk • 2d ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
 
-MarketWatch • 19h ago
-
----
-
-**[Ethereum Price Forecast: Why ETH is outperforming Bitcoin, XRP, SOL, HYPE](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-why-eth-is-outperforming-bitcoin-xrp-sol-hype-202607162143)**
-
-Ethereum (ETH) has outperformed the top 10 cryptocurrencies since the crypto market began a recovery last week. On a weekly timeframe, the top altcoin is seeing an 8% gain, compared to 2.4%, 1.4%, 1.6%, -1.8% and -3.5% for Bitcoin (BTC), BNB, XRP, Solana (SOL) and Hyperliquid (HYPE).
-
-FXStreet • 11h ago
+MarketWatch • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 450 • 💬 83 • ⏱️ 13:38 • 12h ago
+👁️ 12K • 👍 450 • 💬 83 • ⏱️ 13:38 • 14h ago
 
 ---
 
@@ -248,7 +248,7 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 3K • 👍 121 • 💬 35 • ⏱️ 7:55 • 9h ago
+👁️ 3K • 👍 121 • 💬 35 • ⏱️ 7:55 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin 
 
 📺 DataDash
 
-👁️ 2K • 👍 96 • 💬 38 • ⏱️ 12:55 • 17h ago
+👁️ 2K • 👍 96 • 💬 38 • ⏱️ 12:55 • 19h ago
 
 ---
 
@@ -268,7 +268,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 84 • 💬 1 • ⏱️ 15:03 • 13h ago
+👁️ 2K • 👍 84 • 💬 1 • ⏱️ 15:03 • 15h ago
 
 ---
 
@@ -296,7 +296,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 7 • ⏱️ 6:41 • 12h ago
+👁️ 3K • 👍 169 • 💬 7 • ⏱️ 6:41 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 3K • 👍 267 • 💬 78 • ⏱️ 54:45 • 9h ago
+👁️ 3K • 👍 267 • 💬 78 • ⏱️ 54:45 • 11h ago
 
 ---
 
@@ -326,7 +326,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 448 • 💬 89 • ⏱️ 9:26 • 4h ago
+👁️ 2K • 👍 448 • 💬 89 • ⏱️ 9:26 • 6h ago
 
 ---
 

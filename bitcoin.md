@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T09:27:41.205526+00:00'
+updated: '2026-07-17T11:06:47.149525+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 09:27 UTC  
+**Last Updated:** July 17, 2026 at 11:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -1.4%  
-**30d:** -0.0%  
-**90d:** -14.7%  
-**1y:** -46.6%  
+**24h:** -1.3%  
+**7d:** -1.1%  
+**30d:** +0.3%  
+**90d:** -14.4%  
+**1y:** -46.4%  
 
 ---
 
@@ -161,7 +161,7 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -169,31 +169,53 @@ CoinDesk • 5h ago
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
+**[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
-Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
+Bloomberg.com • 40m ago
+
+---
+
+**[World Of Forbes: From Latin America’s Biggest YouTuber To A Bitcoin Effort In South Africa](https://www.forbes.com/sites/kerryadolan/2026/07/17/world-of-forbes-from-latin-americas-biggest-youtuber-to-a-bitcoin-effort-in-south-africa/)**
+
+Snapshots of entrepreneurial capitalism from some of Forbes’ nearly four dozen global editions, from Peru to Belgium to Guinea.
+
+Forbes • 1h ago
+
+---
+
+**[Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds](https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds)**
+
+Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely.
+
+CoinDesk • 2h ago
+
+---
+
+**[XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis](https://finance.yahoo.com/markets/crypto/articles/xrp-cant-keep-bitcoin-takes-165654756.html)**
+
+The post-CPI rally gave XRP a nudge. The coin barely moved. Now the chart is filling in the picture.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
+
+Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
+
+Decrypt • 15h ago
+
+---
+
+**[Bitcoin jumps to $65,000: 'Backdrop for crypto is improving'](https://finance.yahoo.com/markets/crypto/article/bitcoin-jumps-to-65000-backdrop-for-crypto-is-improving-144838821.html)**
+
+Bitcoin jumped nearly 2% on Wednesday to hover above $65,000 per token, while ethereum rose 3%.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin rally cools as investors digest inflation data, oil clouds outlook](https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook)**
-
-The day ahead in crypto: July 15, 2026
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Clawed Its Way Back Over $65,000. Here’s Why—and What to Know Now](https://www.investopedia.com/bitcoin-clawed-its-way-back-over-usd65-000-here-s-why-and-what-to-know-now-12019866)**
-
-The price of the world’s largest cryptocurrency traded above the $65,000 level for the first time in weeks.
-
-Investopedia • 1d ago
 
 ---
 
@@ -201,37 +223,15 @@ Investopedia • 1d ago
 
 Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-South Dakota Searchlight • 18h ago
+South Dakota Searchlight • 19h ago
 
 ---
 
-**[Stanford Study Flags Bitcoin Market Manipulation on Polymarket](https://www.tradingview.com/news/coinpedia:f6d5617da094b:0-stanford-study-flags-bitcoin-market-manipulation-on-polymarket/)**
+**[Current price of Bitcoin for July 17, 2026](https://fortune.com/article/price-of-bitcoin-07-17-2026/)**
 
-A new study by Stanford University and Singapore Management University says Polymarket’s five-minute Bitcoin prediction markets may have given sophisticated traders an unfair advantage. After analyzing nearly 16,000 Bitcoin contracts over two months, researchers found trading patterns that suggest…
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-TradingView • 7h ago
-
----
-
-**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
-
-Barchart.com • 17h ago
-
----
-
-**[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
-
-Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
-
-Alaska's News Source • 2d ago
-
----
-
-**[BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction](https://www.forbes.com/sites/billybambrough/2026/07/16/blackrock-ceo-issues-surprise-12-month-bitcoin-and-crypto-price-prediction/)**
-
-Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
-
-Forbes • 21h ago
+Fortune • 1h ago
 
 ---
 
@@ -243,7 +243,7 @@ Forbes • 21h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 10h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 12h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -259,7 +259,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 3d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
+⬆️ 1 • 💬 0 • 4d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
 
 ---
 
@@ -289,7 +289,7 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 10K • 👍 647 • 💬 310 • ⏱️ 11:16 • 17h ago
+👁️ 10K • 👍 647 • 💬 310 • ⏱️ 11:16 • 19h ago
 
 ---
 
@@ -309,7 +309,7 @@ Let's talk about Bitcoin market cycles, and how we can best understand where we 
 
 📺 Benjamin Cowen
 
-👁️ 38K • 👍 3K • 💬 119 • ⏱️ 7:33 • 13h ago
+👁️ 38K • 👍 3K • 💬 119 • ⏱️ 7:33 • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ In today's video, Kyledoops shows you the key risk factors that are currently pl
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 507 • 💬 5 • ⏱️ 40:15 • 1h ago
+👁️ 4K • 👍 507 • 💬 5 • ⏱️ 40:15 • 3h ago
 
 ---
 
@@ -329,7 +329,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 657 • 💬 199 • ⏱️ 46:01 • 19h ago
+👁️ 11K • 👍 657 • 💬 199 • ⏱️ 46:01 • 20h ago
 
 ---
 
@@ -339,7 +339,7 @@ AWG: "Bitcoin doesn't generate real wealth." Do you agree or disagree?
 
 📺 Peter H. Diamandis
 
-👁️ 5K • 👍 156 • 💬 21 • ⏱️ 0:51 • 13h ago
+👁️ 5K • 👍 156 • 💬 21 • ⏱️ 0:51 • 15h ago
 
 ---
 
@@ -349,7 +349,7 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 87K • 👍 5K • 💬 508 • ⏱️ 15:15 • 21h ago
+👁️ 87K • 👍 5K • 💬 508 • ⏱️ 15:15 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 14K • 👍 630 • 💬 82 • ⏱️ 18:15 • 20h ago
+👁️ 14K • 👍 630 • 💬 82 • ⏱️ 18:15 • 22h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to e
 
 📺 Crypto Zombie
 
-👁️ 11K • 👍 950 • 💬 157 • ⏱️ 12:20 • 16h ago
+👁️ 11K • 👍 950 • 💬 157 • ⏱️ 12:20 • 18h ago
 
 ---
 
