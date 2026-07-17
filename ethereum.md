@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-17T16:16:26.842518+00:00'
+updated: '2026-07-17T17:38:32.989065+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - news
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 16:16 UTC  
+**Last Updated:** July 17, 2026 at 17:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** +2.4%  
-**30d:** +7.1%  
-**90d:** -19.1%  
-**1y:** -48.4%  
+**24h:** -1.6%  
+**7d:** +3.1%  
+**30d:** +7.9%  
+**90d:** -18.4%  
+**1y:** -48.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $219.96B
+**Market Cap:** $222.65B
 Rank #2
 
 **Circulating Supply:** 120,682,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.2%
+-62.7%
 
 **All-Time Low:** $0.43
-+420691.8%
++425717.4%
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -170,21 +170,13 @@ Fed Chair Kevin Warsh told Congress the Fed doesn't want to bail out crypto. Her
 
 Tom Lee says Ethereum is entering a “2.0 era” that could deliver “radical upside” as Wall Street adoption expands. Ethereum bulls claim a rare ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-MarketWatch • 2h ago
-
----
-
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://www.tradingview.com/news/stocktwits:cee9d7df8094b:0-ethereum-leads-losses-among-crypto-majors-after-report-raises-fresh-doubts-over-clarity-act/)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
-
-TradingView • 5h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -200,7 +192,15 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 4h ago
+
+---
+
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
+
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
+
+Stocktwits • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Fortune • 6h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) came under renewed selling pressure during the second half of the week after staging a modest recovery earlier in the week. BTC trades below $63,600 on Friday, while ETH slips below $1,860 after facing rejection at key resistance levels.
 
-FXStreet • 11h ago
+FXStreet • 13h ago
 
 ---
 
@@ -220,11 +220,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing](https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing)**
+**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
 
-The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
+BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
 
-The Block • 2d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -238,27 +238,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 14K • 👍 516 • 💬 118 • ⏱️ 13:38 • 19h ago
-
----
-
-**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
-
-Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
-
-📺 The Rollup
-
-👁️ 6K • 👍 173 • 💬 22 • ⏱️ 7:55 • 16h ago
-
----
-
-**[Matt Hougan - &quot;Crypto&#39;s Next Market Could Grow 100X OVERNIGHT (100% CONFIRMED)&quot;](https://www.youtube.com/watch?v=HFOaKb_kzi8)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 104 • 💬 5 • ⏱️ 15:03 • 20h ago
+👁️ 15K • 👍 545 • 💬 113 • ⏱️ 13:38 • 20h ago
 
 ---
 
@@ -268,7 +248,27 @@ Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, w
 
 📺 Coin Bureau Trading
 
-👁️ 2K • 👍 221 • 💬 4 • ⏱️ 15:12 • 9h ago
+👁️ 3K • 👍 237 • 💬 5 • ⏱️ 15:12 • 11h ago
+
+---
+
+**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
+
+Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
+
+📺 The Rollup
+
+👁️ 7K • 👍 182 • 💬 29 • ⏱️ 7:55 • 17h ago
+
+---
+
+**[&quot;200X IS COMING! Ethereum Is About to Shock the Entire Crypto Market&quot; - Tom Lee](https://www.youtube.com/watch?v=z-0PuLMsozQ)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 191 • 👍 15 • 💬 1 • ⏱️ 17:29 • 33m ago
 
 ---
 
@@ -276,27 +276,17 @@ Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, w
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 609 • 💬 60 • ⏱️ 2:00 • 1d ago
+👁️ 9K • 👍 618 • 💬 61 • ⏱️ 2:00 • 1d ago
 
 ---
 
-**[🚨 ETH/BTC Is Signaling a Major Crypto Rotation](https://www.youtube.com/watch?v=7qyZOfeWz48)**
+**[Matt Hougan - &quot;Crypto&#39;s Next Market Could Grow 100X OVERNIGHT (100% CONFIRMED)&quot;](https://www.youtube.com/watch?v=HFOaKb_kzi8)**
 
-SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin backed loans: https://www.ledn.io/ ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 DataDash
+📺 Savvy Finance
 
-👁️ 2K • 👍 102 • 💬 39 • ⏱️ 12:55 • 1d ago
-
----
-
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=PMSHlkfOpZQ)**
-
-In this video I break down the current Ethereum price action and the potential for a trend reversal based on Elliott Wave analysis.
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 186 • 💬 9 • ⏱️ 6:41 • 19h ago
+👁️ 3K • 👍 104 • 💬 2 • ⏱️ 15:03 • 21h ago
 
 ---
 
@@ -306,27 +296,37 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 442 • 💬 304 • ⏱️ 14:25 • 1d ago
+👁️ 7K • 👍 444 • 💬 318 • ⏱️ 14:25 • 1d ago
 
 ---
 
-**[🔥TRUMP LAST MINUTE DEAL🔥 XRP ETH GOLD OIL IN PLAY](https://www.youtube.com/watch?v=7RHERc3sqKg)**
+**[🚨 ETH/BTC Is Signaling a Major Crypto Rotation](https://www.youtube.com/watch?v=7qyZOfeWz48)**
 
-MERCH IS IN   EMAIL ME @ info.cwkmedia@gmail.com PO BOX CWK MEDIA PO BOX 387 HONEA PATH, SC 29654 #xrp #xlm ...
+SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin backed loans: https://www.ledn.io/ ...
 
-📺 CRYPTO with KLAUS
+📺 DataDash
 
-👁️ 5K • 👍 353 • 💬 141 • ⏱️ 16:10 • 1d ago
+👁️ 3K • 👍 103 • 💬 38 • ⏱️ 12:55 • 1d ago
 
 ---
 
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=kUgMPkZeH1A)**
+**[CRYPTO LIVE - BITCOIN BOTTOM PHASE, ETHEREUM CHARTS ALIGN](https://www.youtube.com/watch?v=B3peyKGlUR0)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
-📺 Crypto Nutshell
+📺 Jordan Camirand
 
-👁️ 7K • 👍 288 • 💬 35 • ⏱️ 18:30 • 1d ago
+👁️ 4K • 👍 291 • 💬 164 • ⏱️ 54:45 • 17h ago
+
+---
+
+**[Ethereum Sentiment Skyrockets!🚀Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=fVXl1WwMOjo)**
+
+Ethereum has recently shown signs of attempting to break its downtrend against Bitcoin. Meanwhile, Robinhood's new blockchain ...
+
+📺 Paul Barron Network
+
+👁️ 41K • 👍 2K • 💬 164 • ⏱️ 34:54 • 2d ago
 
 ---
 

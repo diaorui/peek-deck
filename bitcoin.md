@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T16:16:26.837546+00:00'
+updated: '2026-07-17T17:38:32.982939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - news
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 16:16 UTC  
+**Last Updated:** July 17, 2026 at 17:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,442.10
+### $64,043.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -0.6%  
-**30d:** +0.8%  
-**90d:** -14.0%  
-**1y:** -46.1%  
+**24h:** -0.4%  
+**7d:** +0.3%  
+**30d:** +1.7%  
+**90d:** -13.2%  
+**1y:** -45.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1268.58B
+**Market Cap:** $1283.03B
 Rank #1
 
-**Circulating Supply:** 20,057,521 BTC
+**Circulating Supply:** 20,057,584 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.8%
+-49.3%
 
 **All-Time Low:** $67.81
-+93147.3%
++94231.2%
 
 ---
 
@@ -125,7 +125,7 @@ Man bitcoin has done absolutely nothing today. Just sitting there chopping betwe
 
 **[iPhone VS Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uxbi3b/iphone_vs_bitcoin/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -149,7 +149,7 @@ Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gai
 
 With the United States now at war with Iran, I keep thinking about an older argument from the Bitcoin movement. Wasn’t Bitcoin supposed to be part of the anti-war movement? Early Bitcoin culture was not only about getting rich, ETFs, corporate treasuries, or governments building strategic reserves. Bitcoin was presented as a way to challenge the monetary system that makes endless war possible. The basic argument was simple: Governments can wage wars that voters would never support if they had to pay the full cost immediately through higher taxes. Instead, wars are financed through debt, monetary expansion, and inflation. The costs are spread across decades and hidden inside higher prices, interest payments, and a weaker currency. Bitcoin was supposed to change that equation. A fixed-supply, politically neutral form of money would theoretically make it harder for governments to create money, quietly expand debt, and pass the cost of war onto future generations. Bitcoin would not make war impossible. But it could make the cost of war more visible. Yet during the Iran war, much of Bitcoin culture seems strangely silent. The conversation is mostly about whether oil prices will push Bitcoin higher, whether governments will buy more Bitcoin, and whether war will become another bullish catalyst. That feels like a major cultural shift. Bitcoin began as an attempt to separate money from state power. Now parts of the movement seem more interested in getting Bitcoin adopted by the same governments, financial institutions, and military powers it was originally supposed to constrain. Maybe Bitcoin itself has not changed. The network remains neutral. But the culture around it has. So here is the uncomfortable question: Did Bitcoin fail as an anti-war movement—or did Bitcoiners simply stop caring about the anti-war part once the price started going up?
 
-1d ago
+2d ago
 
 ---
 
@@ -157,11 +157,11 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 ## Google News: "bitcoin"
 
-**[Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark](https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark)**
+**[Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss](https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global)**
 
-Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them.
+A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 level it reached on this week's soft inflation print.
 
-CoinDesk • 3h ago
+CoinDesk • 44m ago
 
 ---
 
@@ -169,35 +169,39 @@ CoinDesk • 3h ago
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
-**[Bitcoin. ♾️/21 million](https://www.moomoo.com/community/feed/bitcoin-21-million-116935777190298)**
+**[Bitcoin vs. gold: Which is the better store of value?](https://finance.yahoo.com/video/bitcoin-vs-gold-which-is-the-better-store-of-value-161024424.html)**
 
-$Bitcoin (BTC.CC)$ I Bought more 😁 DBS bank can store your bitcoin but you need to be accrediated investor with millions to your name.  Regular people can buy and self custody.  I’ll probably buy 2 of this bitcoins.  Keep one and sell one when it reaches 10 million 😁
+Scott Melker discusses the case for bitcoin (BTC-USD) as a better store of value than gold (GC=F), explaining why he believes the cryptocurrency is emerging as the world's premier form of digital hard money.
 
-Moomoo • 1h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[$Bitcoin (BTC.CC)$ Getting Better.](https://www.moomoo.com/community/feed/bitcoin-btc-cc-getting-better-116936480653317)**
+
+@Garrisbear 925 Views
+
+Moomoo • 46m ago
 
 ---
 
 **[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
-Bloomberg.com • 5h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Prevails: Analyst Says BTC's 'Clear Breakthrough' Above This Level a Trigger for 'Strong Run](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slide-015615471.html)**
-
-Leading cryptocurrencies fell alongside stocks on Thursday as the chip selloff and Iran tensions impacted risk appetite. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.93%$63,833.51Ethereum (CRYPTO: ETH) -2.63%$1,859.89XRP (CRYPTO: XRP) -1.32%$1.09Solana (CRYPTO: SOL) -1.73%$75.46Dogecoin (CRYPTO: DOGE) -1.54%$0.07246 Crypto Market Breaks Lower Bitcoin retreated to the $63,000 zone after consolidation, while Ethereum tumbled to an intraday low of $1,848.
-
-Yahoo Finance • 14h ago
+Bloomberg.com • 7h ago
 
 ---
 
 **[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -209,25 +213,25 @@ South Dakota Searchlight • 1d ago
 
 ---
 
+**[BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction](https://www.forbes.com/sites/billybambrough/2026/07/17/blackrock-ceo-issues-surprise-12-month-bitcoin-and-crypto-price-prediction/)**
+
+Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
+
+Forbes • 5h ago
+
+---
+
 **[Market Brief: Warsh Won't Bless The Cool CPI, But Bitcoin And Gold Surge Anyway](https://seekingalpha.com/article/4922878-market-brief-warsh-wont-bless-cool-cpi-but-bitcoin-gold-surge-anyway)**
 
 Headline CPI rose 3.5% y/y (vs 3.8% expected), core came in at 2.6%, and monthly prices fell 0.4%, the largest monthly decline and the first negative monthly print since the 2020 pandemic
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
 **[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
 
 Barchart.com • 1d ago
-
----
-
-**[BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction](https://www.forbes.com/sites/billybambrough/2026/07/17/blackrock-ceo-issues-surprise-12-month-bitcoin-and-crypto-price-prediction/)**
-
-Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
-
-Forbes • 4h ago
 
 ---
 
@@ -239,7 +243,7 @@ Forbes • 4h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -259,6 +263,14 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 ---
 
+**[Marvel Wolverine trailer swarmed by PlayStation fans angry at Sony ditching disc](https://news.ycombinator.com/item?id=48949749)**
+
+Insomniac Games' upcoming triple-A release has been caught in the midst of an online anti-Sony movement.
+
+⬆️ 1 • 💬 0 • 24m ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -269,7 +281,7 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 11K • 👍 716 • 💬 356 • ⏱️ 11:16 • 1d ago
+👁️ 12K • 👍 756 • 💬 393 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -279,37 +291,7 @@ I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on 
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 101 • ⏱️ 10:38 • 1d ago
-
----
-
-**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
-
-Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 10K • 👍 250 • 💬 80 • ⏱️ 1:16 • 23h ago
-
----
-
-**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
-
-Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
-
-📺 Benjamin Cowen
-
-👁️ 46K • 👍 3K • 💬 130 • ⏱️ 7:33 • 20h ago
-
----
-
-**[LIVE BITCOIN &amp; STOCKS TRADING: BTC Hit The Most Critical Level](https://www.youtube.com/watch?v=LpbnaCe2IM4)**
-
-Join Dylan and Chento as they trade the U.S. market open, breaking down the biggest moves across Bitcoin, Ethereum, and the ...
-
-📺 Crypto Banter
-
-👁️ 2K • 👍 248 • 💬 1 • ⏱️ 53:10 • 2h ago
+👁️ 40K • 👍 2K • 💬 100 • ⏱️ 10:38 • 1d ago
 
 ---
 
@@ -319,7 +301,37 @@ Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I b
 
 📺 Prof G Markets
 
-👁️ 5K • 👍 118 • 💬 18 • ⏱️ 1:42 • 4h ago
+👁️ 11K • 👍 185 • 💬 44 • ⏱️ 1:42 • 5h ago
+
+---
+
+**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
+
+Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 10K • 👍 256 • 💬 42 • ⏱️ 1:16 • 1d ago
+
+---
+
+**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
+
+Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
+
+📺 Benjamin Cowen
+
+👁️ 49K • 👍 3K • 💬 131 • ⏱️ 7:33 • 21h ago
+
+---
+
+**[Why Bitcoin is replacing gold](https://www.youtube.com/watch?v=ZHCnpQNISZQ)**
+
+Gold has been humanity's trusted store of value for 5000 years. But is Bitcoin becoming something better? In this episode of The ...
+
+📺 Yahoo Finance
+
+👁️ 770 • 👍 81 • 💬 33 • ⏱️ 14:56 • 1h ago
 
 ---
 
@@ -329,17 +341,17 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 92K • 👍 5K • 💬 523 • ⏱️ 15:15 • 1d ago
+👁️ 95K • 👍 5K • 💬 529 • ⏱️ 15:15 • 1d ago
 
 ---
 
-**[🚨 BITCOIN: You Might NOT Want To Hear This But It MUST Be Said! (100% Accurate)](https://www.youtube.com/watch?v=AS-BLgtBkks)**
+**[THIS Bitcoin Chart Predicted EVERY Bear Market Bottom!](https://www.youtube.com/watch?v=gd6t5LpPgEU)**
 
-Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to exactly what everyone suspects. BloFin ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Crypto Zombie
+📺 Crypto Rover
 
-👁️ 11K • 👍 987 • 💬 158 • ⏱️ 12:20 • 23h ago
+👁️ 8K • 👍 554 • 💬 14 • ⏱️ 10:06 • 9h ago
 
 ---
 
@@ -349,17 +361,17 @@ AWG: "Bitcoin doesn't generate real wealth." Do you agree or disagree?
 
 📺 Peter H. Diamandis
 
-👁️ 6K • 👍 187 • 💬 52 • ⏱️ 0:51 • 20h ago
+👁️ 7K • 👍 204 • 💬 44 • ⏱️ 0:51 • 22h ago
 
 ---
 
-**[Man Behind Guthrie Fake Bitcoin Texts Pleaded Guilty](https://www.youtube.com/watch?v=3p1e41nUWnQ)**
+**[Blackrock Knows… [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=yQU51htRPOI)**
 
-Join The Dead Serious Club: https://www.youtube.com/channel/UCVeA0YuBpTi-CYsUYgZMKxw/join Drop Dead Serious is ...
+Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Ashleigh Banfield x Drop Dead Serious
+📺 Lark Davis
 
-👁️ 31K • 👍 2K • 💬 206 • ⏱️ 2:34 • 1d ago
+👁️ 15K • 👍 655 • 💬 84 • ⏱️ 18:15 • 1d ago
 
 ---
 
