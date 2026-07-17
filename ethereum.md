@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-17T21:22:35.634043+00:00'
+updated: '2026-07-17T22:22:07.492781+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 21:22 UTC  
+**Last Updated:** July 17, 2026 at 22:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
+**24h:** -1.4%  
 **7d:** +2.8%  
-**30d:** +7.6%  
+**30d:** +7.5%  
 **90d:** -18.7%  
-**1y:** -48.1%  
+**1y:** -48.2%  
 
 ---
 
@@ -162,23 +162,29 @@ Decrypt • 1d ago
 
 Fed Chair Kevin Warsh told Congress the Fed doesn't want to bail out crypto. Here's what it changes for Bitcoin, Ethereum, and XRP.
 
-24/7 Wall St. • 1d ago
+24/7 Wall St. • 2d ago
 
 ---
 
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://finance.yahoo.com/markets/crypto/articles/ethereum-leads-losses-among-crypto-110943949.html)**
+**[Ethereum to $250,000? Tom Lee Reveals 'ETH 2.0' as Rare Pattern Signals ‘Parabolic Rally’](https://finance.yahoo.com/markets/crypto/articles/ethereum-250-000-tom-lee-105343156.html)**
 
-A Politico report suggested the CLARITY Act may struggle to win enough Democratic support in the Senate.
+Tom Lee says Ethereum is entering a “2.0 era” that could deliver “radical upside” as Wall Street adoption expands. Ethereum bulls claim a rare ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund](https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund)**
+**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliquid are all lower.
+MarketWatch • 8h ago
 
-CoinDesk • 1d ago
+---
+
+**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
+
+In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -186,29 +192,23 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
-**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH stall below key EMAs, XRP holds crucial support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-stall-below-key-emas-xrp-holds-crucial-support-202607170437)**
 
-MarketWatch • 7h ago
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) came under renewed selling pressure during the second half of the week after staging a modest recovery earlier in the week. BTC trades below $63,600 on Friday, while ETH slips below $1,860 after facing rejection at key resistance levels.
+
+FXStreet • 17h ago
 
 ---
 
-**[Tom Lee Compares Ethereum To AMZN Before AWS, NVDA Before AI Boom – Says ETH Could Solve 'Uncanny Valley Of Wealth'](https://stocktwits.com/news-articles/markets/cryptocurrency/bmnr-tom-lee-compares-ethereum-amazon-nvidia-uncanny-valley-wealth/cZZEf8qR7sh)**
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
 
-BitMine Immersion Technologies (BMNR) Chairman Tom Lee on Thursday stated that Ethereum (ETH) could be the solution to the “uncanny valley of wealth” in his message to shareholders.
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
 
 Stocktwits • 1d ago
-
----
-
-**[Ethereum Price Forecast: Why ETH is outperforming Bitcoin, XRP, SOL, HYPE](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-why-eth-is-outperforming-bitcoin-xrp-sol-hype-202607162143)**
-
-Ethereum (ETH) has outperformed the top 10 cryptocurrencies since the crypto market began a recovery last week. On a weekly timeframe, the top altcoin is seeing an 8% gain, compared to 2.4%, 1.4%, 1.6%, -1.8% and -3.5% for Bitcoin (BTC), BNB, XRP, Solana (SOL) and Hyperliquid (HYPE).
-
-FXStreet • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Motley Fool • 1d ago
 
 President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial
 
-Coinpedia • 19h ago
+Coinpedia • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 119 • 💬 59 • ⏱️ 20:43 • 5h ago
+👁️ 2K • 👍 119 • 💬 59 • ⏱️ 20:43 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 579 • 👍 45 • 💬 4 • ⏱️ 17:29 • 4h ago
+👁️ 579 • 👍 45 • 💬 4 • ⏱️ 17:29 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 1K • 👍 116 • 💬 183 • ⏱️ 22:29 • 3h ago
+👁️ 1K • 👍 116 • 💬 183 • ⏱️ 22:29 • 4h ago
 
 ---
 
@@ -278,7 +278,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 6K • 👍 891 • 💬 82 • ⏱️ 14:48 • 2h ago
+👁️ 6K • 👍 891 • 💬 82 • ⏱️ 14:48 • 3h ago
 
 ---
 
@@ -288,7 +288,7 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 7K • 👍 194 • 💬 30 • ⏱️ 7:55 • 21h ago
+👁️ 7K • 👍 194 • 💬 30 • ⏱️ 7:55 • 22h ago
 
 ---
 
@@ -298,7 +298,7 @@ Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, w
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 255 • 💬 5 • ⏱️ 15:12 • 14h ago
+👁️ 3K • 👍 255 • 💬 5 • ⏱️ 15:12 • 15h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum is worth 32X more than Cardano—but is that massive gap actually justi
 
 📺 Crux of Crypto
 
-👁️ 92 • 👍 29 • 💬 3 • ⏱️ 13:38 • 2h ago
+👁️ 92 • 👍 29 • 💬 3 • ⏱️ 13:38 • 3h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 238 • 👍 16 • 💬 8 • ⏱️ 4:50 • 11h ago
+👁️ 238 • 👍 16 • 💬 8 • ⏱️ 4:50 • 12h ago
 
 ---
 
