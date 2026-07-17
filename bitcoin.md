@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T04:41:13.564267+00:00'
+updated: '2026-07-17T07:17:03.776002+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 04:41 UTC  
+**Last Updated:** July 17, 2026 at 07:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,603.97
+### $63,061.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -0.7%  
-**30d:** +0.7%  
-**90d:** -14.1%  
-**1y:** -46.2%  
+**24h:** -1.8%  
+**7d:** -1.4%  
+**30d:** -0.1%  
+**90d:** -14.7%  
+**1y:** -46.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1269.94B
+**Market Cap:** $1260.58B
 Rank #1
 
-**Circulating Supply:** 20,057,334 BTC
+**Circulating Supply:** 20,057,396 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.8%
+-50.2%
 
 **All-Time Low:** $67.81
-+93272.7%
++92585.4%
 
 ---
 
@@ -157,43 +157,35 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 ## Google News: "bitcoin"
 
+**[Bitcoin under $64,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty](https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty)**
+
+Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.
+
+CoinDesk • 3h ago
+
+---
+
 **[JPMorgan says bitcoin outlook sees 'encouraging sign' as Strategy boosts cash reserves](https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves)**
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 9h ago
+The Block • 11h ago
 
 ---
 
-**[Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years](https://finance.yahoo.com/markets/crypto/articles/dormant-bitcoin-whale-moves-383-154343829.html)**
+**[Bitcoin Falls to $63K Lows After Trump Speech & New US Strikes on Iran](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-63k-lows-trump-054422217.html)**
 
-The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.
+Bitcoin (BTC) dipped to around $63K and US stocks extended losses on Friday, as the US launched new strikes Iran. Volatility and uncertainty increased as President Trump accused China of interfering with the 2020 US elections in his speech, sparking calls to pass the SAVE America Act before the US midterm election. Ad Ad Bitcoin
 
-Yahoo Finance • 12h ago
-
----
-
-**[A bitcoin wallet dormant since the 2017 peak just moved $383 million](https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million)**
-
-The coins went to a fresh address rather than an exchange, so nothing has been sold yet.
-
-CoinDesk • 22h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data](https://www.theblock.co/post/408570/bitcoin-whale-moves-8-years)**
+**[Wall Street Goes All-In on Stocks, So Why Not Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/wall-street-goes-stocks-why-062318930.html)**
 
-A bitcoin OG wallet transferred 5,908 BTC to a new address on Wednesday, according to Lookonchain, citing Arkham data.
+Stocks hit record risk-on positioning while Bitcoin fell 13.4%, missing the Goldilocks rally that lifted equities.
 
-The Block • 21h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Prevails: Analyst Says BTC's 'Clear Breakthrough' Above This Level a Trigger for 'Strong Run](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slide-015615471.html)**
-
-Leading cryptocurrencies fell alongside stocks on Thursday as the chip selloff and Iran tensions impacted risk appetite. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.93%$63,833.51Ethereum (CRYPTO: ETH) -2.63%$1,859.89XRP (CRYPTO: XRP) -1.32%$1.09Solana (CRYPTO: SOL) -1.73%$75.46Dogecoin (CRYPTO: DOGE) -1.54%$0.07246 Crypto Market Breaks Lower Bitcoin retreated to the $63,000 zone after consolidation, while Ethereum tumbled to an intraday low of $1,848.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 53m ago
 
 ---
 
@@ -201,31 +193,13 @@ Yahoo Finance • 2h ago
 
 Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-South Dakota Searchlight • 13h ago
+South Dakota Searchlight • 16h ago
 
 ---
 
-**[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
+**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
 
-Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
-
-Alaska's News Source • 2d ago
-
----
-
-**[Bitcoin rally cools as investors digest inflation data, oil clouds outlook](https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook)**
-
-The day ahead in crypto: July 15, 2026
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html)**
-
-Bitcoin opened at $64,974.75 on Wednesday, July 15, 2026, up 4.4% from Tuesday's open. Ethereum opened at $1,889.97 on Wednesday, July 15, 2026, up 6.6% compared to Tuesday's opening price.
-
-Yahoo Finance • 1d ago
+Barchart.com • 15h ago
 
 ---
 
@@ -237,6 +211,30 @@ Investopedia • 1d ago
 
 ---
 
+**[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
+
+Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
+
+Alaska's News Source • 2d ago
+
+---
+
+**[Is It Too Late to Buy Bitcoin?](https://www.fool.com/investing/2026/07/15/is-it-too-late-to-buy-bitcoin/)**
+
+With the top cryptocurrency in a bear market, investors are wondering if its best days are in the past.
+
+The Motley Fool • 1d ago
+
+---
+
+**[BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction](https://www.forbes.com/sites/billybambrough/2026/07/16/blackrock-ceo-issues-surprise-12-month-bitcoin-and-crypto-price-prediction/)**
+
+Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
+
+Forbes • 18h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -245,7 +243,7 @@ Investopedia • 1d ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 5h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -285,7 +283,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 Keep Postgres entities synced with turbopuffer using logical replication (beta) - a24films/puffgres
 
-⬆️ 2 • 💬 1 • 9h ago • [GitHub](https://github.com/a24films/puffgres)
+⬆️ 2 • 💬 1 • 12h ago • [GitHub](https://github.com/a24films/puffgres)
 
 ---
 
@@ -305,17 +303,17 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 9K • 👍 620 • 💬 288 • ⏱️ 11:16 • 12h ago
+👁️ 10K • 👍 639 • 💬 292 • ⏱️ 11:16 • 15h ago
 
 ---
 
-**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
+**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
 
-Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
+Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 109 • ⏱️ 7:33 • 8h ago
+👁️ 8K • 👍 229 • 💬 6 • ⏱️ 1:16 • 14h ago
 
 ---
 
@@ -325,7 +323,17 @@ I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on 
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 88 • ⏱️ 10:38 • 1d ago
+👁️ 39K • 👍 2K • 💬 90 • ⏱️ 10:38 • 1d ago
+
+---
+
+**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
+
+Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
+
+📺 Benjamin Cowen
+
+👁️ 34K • 👍 2K • 💬 115 • ⏱️ 7:33 • 11h ago
 
 ---
 
@@ -335,7 +343,7 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 82K • 👍 4K • 💬 503 • ⏱️ 15:15 • 16h ago
+👁️ 85K • 👍 5K • 💬 506 • ⏱️ 15:15 • 19h ago
 
 ---
 
@@ -345,7 +353,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 649 • 💬 156 • ⏱️ 46:01 • 14h ago
+👁️ 10K • 👍 655 • 💬 156 • ⏱️ 46:01 • 16h ago
 
 ---
 
@@ -355,17 +363,27 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XT
 
 📺 Frankie Candles 
 
-👁️ 3K • 👍 312 • 💬 5 • ⏱️ 1:30:00 • 5h ago
+👁️ 4K • 👍 309 • 💬 5 • ⏱️ 1:30:00 • 8h ago
 
 ---
 
-**[&quot;Bitcoin Doesn’t Generate Real Wealth&quot; | MOONSHOTS](https://www.youtube.com/watch?v=nGKks9zGn-E)**
+**[Blackrock Knows… [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=yQU51htRPOI)**
 
-AWG: "Bitcoin doesn't generate real wealth." Do you agree or disagree?
+Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Peter H. Diamandis
+📺 Lark Davis
 
-👁️ 4K • 👍 125 • 💬 19 • ⏱️ 0:51 • 9h ago
+👁️ 13K • 👍 620 • 💬 80 • ⏱️ 18:15 • 18h ago
+
+---
+
+**[Man Behind Guthrie Fake Bitcoin Texts Pleaded Guilty](https://www.youtube.com/watch?v=3p1e41nUWnQ)**
+
+Join The Dead Serious Club: https://www.youtube.com/channel/UCVeA0YuBpTi-CYsUYgZMKxw/join Drop Dead Serious is ...
+
+📺 Ashleigh Banfield x Drop Dead Serious
+
+👁️ 29K • 👍 2K • 💬 193 • ⏱️ 2:34 • 1d ago
 
 ---
 
@@ -375,27 +393,7 @@ Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to e
 
 📺 Crypto Zombie
 
-👁️ 10K • 👍 896 • 💬 153 • ⏱️ 12:20 • 11h ago
-
----
-
-**[Inflation and Bitcoin](https://www.youtube.com/watch?v=rWfLRMiyQVY)**
-
-Inflation came in cooler than expected, but what does that actually mean for Bitcoin? In this video, we break down the latest CPI ...
-
-📺 Benjamin Cowen
-
-👁️ 58K • 👍 3K • 💬 110 • ⏱️ 7:57 • 2d ago
-
----
-
-**[Bitcoin&#39;s Biggest Bill Is in Trouble - Trump Has 20 Days to Save It](https://www.youtube.com/watch?v=rS4U4eu9E5k)**
-
-Bitcoin #Crypto #finance Trump is meeting with Republican senators today to push the CLARITY Act across the finish line, ...
-
-📺 The Wolf Of All Streets
-
-👁️ 6K • 👍 350 • 💬 163 • ⏱️ 31:53 • 14h ago
+👁️ 10K • 👍 925 • 💬 155 • ⏱️ 12:20 • 14h ago
 
 ---
 

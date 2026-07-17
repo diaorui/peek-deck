@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-17T04:41:13.570313+00:00'
+updated: '2026-07-17T07:17:03.782147+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 04:41 UTC  
+**Last Updated:** July 17, 2026 at 07:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,845.23
+### $1,833.22
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** +3.1%  
-**30d:** +7.9%  
-**90d:** -18.5%  
-**1y:** -48.0%  
+**24h:** -2.8%  
+**7d:** +2.4%  
+**30d:** +7.1%  
+**90d:** -19.1%  
+**1y:** -48.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.48B
+**Market Cap:** $220.66B
 Rank #2
 
 **Circulating Supply:** 120,682,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.7%
+-63.0%
 
 **All-Time Low:** $0.43
-+425712.8%
++422188.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ One thing I've been thinking about recently is that blockchains are great at ver
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -142,21 +142,13 @@ i produced an explainer on the new wave of ethereum-aligned organizations splint
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
-
-**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
-
-Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
-
-Decrypt • 8h ago
-
----
 
 **[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
 
@@ -166,19 +158,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, July 16, 2026: Prices rise, ethereum becomes 'increasingly compelling'](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-16-2026-prices-rise-ethereum-becomes-increasingly-compelling-124218108.html)**
+**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
 
-Bitcoin opened at $64,720.36 on Thursday, July 16, 2026, down 0.4% from Wednesday's opening price. Ethereum opened at $1,917.05, up 1.5% from yesterday's opening price.
+Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Yahoo Finance • 15h ago
+Decrypt • 11h ago
 
 ---
 
-**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
+**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://www.tradingview.com/news/coinpedia:359cb5979094b:0-bitcoin-ethereum-and-xrp-prices-fall-after-trump-s-speech-today/)**
 
-In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
+President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial announcement about declassified intelligence tied to elections.Trump opened by touting economic gains under his administration. “Our country is safer, stron…
 
-CoinDesk • 1d ago
+TradingView • 5h ago
 
 ---
 
@@ -198,11 +190,27 @@ The Block • 2d ago
 
 ---
 
-**[Bitmine, SharpLink and Joe Lubin Back EthSystems’ Institutional Ethereum Privacy Push](https://finance.yahoo.com/markets/crypto/articles/bitmine-sharplink-joe-lubin-back-155900686.html)**
+**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-needs-143513421.html)**
 
-EthSystems has launched with backing from Bitmine (NYSE: $BMNP), SharpLink (NASDAQ: $SBET) and Ethereum (CRYPTO: $E...
+EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Current price of Ethereum for July 16, 2026](https://fortune.com/article/price-of-ethereum-07-16-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 21h ago
+
+---
+
+**[Ethereum Price Forecast: Why ETH is outperforming Bitcoin, XRP, SOL, HYPE](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-why-eth-is-outperforming-bitcoin-xrp-sol-hype-202607162143)**
+
+Ethereum (ETH) has outperformed the top 10 cryptocurrencies since the crypto market began a recovery last week. On a weekly timeframe, the top altcoin is seeing an 8% gain, compared to 2.4%, 1.4%, 1.6%, -1.8% and -3.5% for Bitcoin (BTC), BNB, XRP, Solana (SOL) and Hyperliquid (HYPE).
+
+FXStreet • 9h ago
 
 ---
 
@@ -216,15 +224,7 @@ The Motley Fool • 1d ago
 
 **[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
 
-MarketWatch • 14h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://www.tradingview.com/news/coinpedia:359cb5979094b:0-bitcoin-ethereum-and-xrp-prices-fall-after-trump-s-speech-today/)**
-
-President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial announcement about declassified intelligence tied to elections.Trump opened by touting economic gains under his administration. “Our country is safer, stron…
-
-TradingView • 2h ago
+MarketWatch • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 9K • 👍 372 • 💬 66 • ⏱️ 13:38 • 7h ago
+👁️ 11K • 👍 415 • 💬 73 • ⏱️ 13:38 • 10h ago
 
 ---
 
@@ -248,55 +248,7 @@ SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin 
 
 📺 DataDash
 
-👁️ 2K • 👍 90 • 💬 37 • ⏱️ 12:55 • 13h ago
-
----
-
-**[Matt Hougan - &quot;Crypto&#39;s Next Market Could Grow 100X OVERNIGHT (100% CONFIRMED)&quot;](https://www.youtube.com/watch?v=HFOaKb_kzi8)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 72 • 💬 1 • ⏱️ 15:03 • 8h ago
-
----
-
-**[ETHEREUM: MOST WILL REALIZE TOO LATE](https://www.youtube.com/watch?v=eeTkVoGI4w0)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 7K • 👍 435 • 💬 299 • ⏱️ 14:25 • 1d ago
-
----
-
-**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=PMSHlkfOpZQ)**
-
-In this video I break down the current Ethereum price action and the potential for a trend reversal based on Elliott Wave analysis.
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 137 • 💬 7 • ⏱️ 6:41 • 8h ago
-
----
-
-**[$10,000 ETHEREUM ROBINHOOD TO START ALTCOIN SEASON? #ethereum #xrp #robinhood #stocks](https://www.youtube.com/watch?v=rv8ctIgFlHI)**
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 590 • 💬 55 • ⏱️ 2:00 • 1d ago
-
----
-
-**[CRYPTO LIVE - BITCOIN BOTTOM PHASE, ETHEREUM CHARTS ALIGN](https://www.youtube.com/watch?v=B3peyKGlUR0)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 3K • 👍 232 • 💬 35 • ⏱️ 54:45 • 4h ago
+👁️ 2K • 👍 92 • 💬 38 • ⏱️ 12:55 • 15h ago
 
 ---
 
@@ -306,7 +258,65 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 1K • 👍 65 • 💬 7 • ⏱️ 7:55 • 4h ago
+👁️ 2K • 👍 95 • 💬 11 • ⏱️ 7:55 • 7h ago
+
+---
+
+**[Matt Hougan - &quot;Crypto&#39;s Next Market Could Grow 100X OVERNIGHT (100% CONFIRMED)&quot;](https://www.youtube.com/watch?v=HFOaKb_kzi8)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 78 • 💬 1 • ⏱️ 15:03 • 11h ago
+
+---
+
+**[ETHEREUM: MOST WILL REALIZE TOO LATE](https://www.youtube.com/watch?v=eeTkVoGI4w0)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 7K • 👍 436 • 💬 299 • ⏱️ 14:25 • 1d ago
+
+---
+
+**[$10,000 ETHEREUM ROBINHOOD TO START ALTCOIN SEASON? #ethereum #xrp #robinhood #stocks](https://www.youtube.com/watch?v=rv8ctIgFlHI)**
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 595 • 💬 55 • ⏱️ 2:00 • 1d ago
+
+---
+
+**[CRYPTO LIVE - BITCOIN BOTTOM PHASE, ETHEREUM CHARTS ALIGN](https://www.youtube.com/watch?v=B3peyKGlUR0)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 3K • 👍 257 • 💬 47 • ⏱️ 54:45 • 7h ago
+
+---
+
+**[Is the Ethereum rally a trap? Key levels to watch now](https://www.youtube.com/watch?v=PMSHlkfOpZQ)**
+
+In this video I break down the current Ethereum price action and the potential for a trend reversal based on Elliott Wave analysis.
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 157 • 💬 7 • ⏱️ 6:41 • 10h ago
+
+---
+
+**[Ethereum &amp; Bitcoin, PS5 Gewinnspiel! Btc will das Gap Schliessen, was dann??Wie gehts weiter?](https://www.youtube.com/watch?v=iuj4YmhAKCQ)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
+
+📺 Krypto Trading & Investing
+
+👁️ 1K • 👍 358 • 💬 113 • ⏱️ 9:26 • 2h ago
 
 ---
 
@@ -316,17 +326,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 275 • 💬 35 • ⏱️ 18:30 • 1d ago
-
----
-
-**[Major Ethereum Signal Flashing!](https://www.youtube.com/watch?v=2JTE8JcmukU)**
-
-Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry setup still in focus before the market approaches ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 8K • 👍 544 • 💬 47 • ⏱️ 51:54 • 1d ago
+👁️ 7K • 👍 279 • 💬 35 • ⏱️ 18:30 • 1d ago
 
 ---
 
