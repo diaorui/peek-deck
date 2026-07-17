@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-17T19:10:01.183043+00:00'
+updated: '2026-07-17T20:27:29.403647+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 17, 2026 at 19:10 UTC  
+**Last Updated:** July 17, 2026 at 20:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The founder of Linux has made his thoughts on AI tools clear, and he's fully on board. He says the Linux kernel does not fear new tools.
 
-🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 9h ago
+🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ The founder of Linux has made his thoughts on AI tools clear, and he's fully on 
 
 So much for advanced AI
 
-1h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ So much for advanced AI
 
 A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world. This is a new, significantly expanded version of the original Music Video mode, now built around Seedance 2.0, multiple image references, and an even more precise creative-assistance layer designed to enhance and adapt your vision in an optimally model-aware manner. More experiments, through Instagram.
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable
 
 Been going through the Kimi K3 numbers and I don't think people have fully clocked how big this is. Right now on the Artificial Analysis Intelligence Index, Fable 5 is still #1 (59.9) and even GPT-5.6 Sol (58.9) hasn't managed to pass it. K3 comes in third at 57.1, ahead of Opus 4.8. That is an open-weights model landing within about three points of the single best closed model out there, one that OpenAI's own flagship couldn't overtake. And on the stuff that's harder to fake it's arguably better than third. It tops Program Bench at 77.8 (past both Sol and Fable), and in the blind Frontend Code Arena vote it came out first over every US model. People already had it build a full 3D open-world game in the browser with Three.js/WebGPU, a Long March 10 launch sim, and a working GBA emulator, in about a day. What gets me is the combination: 2.8T params (largest open model ever), ~1M context, priced around half of Opus per task, and the weights are supposed to go public July 27. If that holds, you can just run frontier-adjacent intelligence yourself. I'm trying to stay skeptical. A chunk of the benchmarks are Moonshot's own, the model is only days old, and the weights aren't actually out yet so nobody's self-hosted it. But even with all that, an open model getting this close to the top isn't something we've really seen before. Genuinely curious what this sub thinks: is the "even Sol couldn't beat Fable, but an open model got within three points" framing fair, or am I overrating a launch-week spike? And is anyone planning to actually deploy K3 once the weights drop on the 27th? https://www.kimi.com/pt-br/blog/kimi-k3
 
-12h ago
+13h ago
 
 ---
 
@@ -73,7 +73,7 @@ Been going through the Kimi K3 numbers and I don't think people have fully clock
 
 I want to generate realistic looking images of my Papa who has recently passed using a few pictures of when he was younger. The photos are not the best quality as they were saved from Facebook which badly degrades them. I've played around with a few free upscalers but they look terrible. While trying out some online tools I did find one that was VERY good at reconstructing the face using a bad photo. I don't remember what it was called but think it had one or note in the name? I'm also looking for something you can feed several pictures and generate an image using a prompt. For example: Bobby climbing a mountain or scoring the game winning goal while his teammates celebrate. I do not have a NVIDIA card. I have an AMD Ryzen 3 7320U with Radeon Graphics 2GB card (2.40 GHz) with 16GB RAM. I prefer free or cheap and like the idea of something I can download and not have to pay monthly fees. Open to your thoughts. Many Thanks!
 
-6h ago
+7h ago
 
 ---
 
@@ -81,15 +81,7 @@ I want to generate realistic looking images of my Papa who has recently passed u
 
 Moonshot's Kimi K3, a 2.8 trillion-parameter open-weight AI model, triggered a selloff in AI and semiconductor stocks reminiscent of the 2025 DeepSeek
 
-🔗 [Crypto Briefing](https://cryptobriefing.com/moonshot-kimi-k3-ai-semiconductor-stocks-selloff/) • 4h ago
-
----
-
-**[I analyzed 60 documented AI coding-agent failures — 47% were critical, and the root cause usually wasn't the model](https://www.reddit.com/r/artificial/comments/1uz3771/i_analyzed_60_documented_ai_codingagent_failures/)**
-
-I've been maintaining a CVE-style database of real, sourced AI agent failures. With 60 catalogued, the patterns are clear enough to write up: security vulnerabilities and destructive actions make up about half, 47% are critical, and the most common root cause is confidence miscalibration - agents acting decisively on unverified assumptions. Write-up (with links to each incident): https://stupidllm.com/what-60-ai-agent-failures-reveal/ Not selling anything - corrections and submissions welcome.
-
-3h ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/moonshot-kimi-k3-ai-semiconductor-stocks-selloff/) • 6h ago
 
 ---
 
@@ -97,15 +89,15 @@ I've been maintaining a CVE-style database of real, sourced AI agent failures. W
 
 I expected another AI tool that looked impressive on the homepage but didn't hold up in practice. After spending a little time with Readdy AI, I found it more useful than I expected for creating an initial direction. It's definitely not replacing my own decisions, but it has made getting started feel easier. If you've tried it, what was your biggest surprise?
 
-4h ago
+6h ago
 
 ---
 
-**[How do I create videos like this?](https://www.reddit.com/r/artificial/comments/1uz90l5/how_do_i_create_videos_like_this/)**
+**[I analyzed 60 documented AI coding-agent failures — 47% were critical, and the root cause usually wasn't the model](https://www.reddit.com/r/artificial/comments/1uz3771/i_analyzed_60_documented_ai_codingagent_failures/)**
 
-I really love this style of videos. How do I create this? Is this created by Sedance or Google flow?
+I've been maintaining a CVE-style database of real, sourced AI agent failures. With 60 catalogued, the patterns are clear enough to write up: security vulnerabilities and destructive actions make up about half, 47% are critical, and the most common root cause is confidence miscalibration - agents acting decisively on unverified assumptions. Write-up (with links to each incident): https://stupidllm.com/what-60-ai-agent-failures-reveal/ Not selling anything - corrections and submissions welcome.
 
-3m ago
+4h ago
 
 ---
 
@@ -113,7 +105,13 @@ I really love this style of videos. How do I create this? Is this created by Sed
 
 One thing I’ve been thinking about… People are always talking about how AI will replace humans etc etc. As economies of scale take place on AI and it gets cheaper and cheaper to use AI (this is long term after Lindsey effect). Won’t the competitive advantage be for companies who have an ai human enabled workforce? Not sure AI will ever be able to outpace a smart human & ai combined. It seems like the main comparison now is human salary vs ai costs, but in the future when the tech gets dirt cheap (it always does), wouldn’t the champions be the companies whose workforce embraces ai vs some company trying to setup a pure ai shop!
 
-3h ago
+5h ago
+
+---
+
+**[First: Fable 5 down! ......... Now: Customer Service "Down"](https://www.reddit.com/r/artificial/comments/1uzatqs/first_fable_5_down_now_customer_service_down/)**
+
+14m ago
 
 ---
 
@@ -121,9 +119,9 @@ One thing I’ve been thinking about… People are always talking about how AI w
 
 ## Google News: "ai"
 
-**[A.I. Is Running on Borrowed Money](https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html)**
+**[China’s Latest A.I. Breakthrough Threatens America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
 
-The New York Times • 6h ago
+The New York Times • 1h ago
 
 ---
 
@@ -131,21 +129,21 @@ The New York Times • 6h ago
 
 It's the latest AI model from China to close the performance gap with leading U.S. AI labs.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[China’s Powerful New Moonshot AI Model Closes Gap With US Rivals](https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals)**
+**[Meet Moonshot, China's latest AI challenger](https://finance.yahoo.com/video/meet-moonshot-chinas-latest-ai-challenger-195621169.html)**
 
-Bloomberg.com • 12h ago
+Yahoo Finance Tech Editor Dan Howley joins Market Domination to break down China's AI startup Moonshot's new AI model, Kimi K3, explaining how its technology works and how it stacks up against leading AI rivals, like OpenAI (OPAI.PVT) and Anthropic (ANTH.PVT).
+
+Yahoo Finance • 31m ago
 
 ---
 
-**[Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT](https://apnews.com/article/kimi-k3-china-ai-0d8a5e268deb11a673f4d444fc597cc5)**
+**[Exclusive | SpaceX in Talks to Provide Computing Power for Pentagon’s AI Push](https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4)**
 
-Another powerful new artificial intelligence model from China is taking the U.S. tech industry by surprise.
-
-AP News • 42m ago
+WSJ • 1h ago
 
 ---
 
@@ -155,39 +153,43 @@ WSJ • 1d ago
 
 ---
 
-**[About 300 Netflix Titles Used Generative AI This Year, Company Reveals](https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/)**
+**[Apple unseats Nvidia to become world's most valuable company as AI bets shift](https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/)**
 
-Roughly 300 Netflix programs across the streamer's library have used generative AI across their production process this year, the company revealed.
-
-Variety • 22h ago
+Reuters • 3h ago
 
 ---
 
-**[VIDEO: Netflix reveals shows that use A.I. in production](https://www.kiro7.com/news/local/video-netflix-reveals-shows-that-use-ai-production/ebbafbfb-bf9c-471e-bde5-6915159b465b/)**
+**[San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores](https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/)**
 
-KIRO 7 News Seattle • 9m ago
+The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.
 
----
-
-**[Why Netflix’s AI Push Isn’t Reviving the Stock](https://www.barrons.com/articles/netflix-stock-ai-earnings-4bee5d34)**
-
-Barron's • 1h ago
+WIRED • 10h ago
 
 ---
 
-**[How Founders Can Rebuild Entry-Level Work for the AI Era](https://www.inc.com/haotianbai/how-founders-can-rebuild-entry-level-work-for-the-ai-era/91375076)**
+**[Apple is an AI winner without heavy capital spending, says expert](https://finance.yahoo.com/video/apple-ai-winner-without-heavy-200101507.html)**
 
-Companies still need to turn inexperienced hires into trusted decision-makers.
+STORY: Apple overtook Nvidia on Friday to become the world's most valuable company, reshuffling the top ranks of tech heavyweights as investors reassess the outlook for artificial intelligence.
+Apple was last valued at $4.88 trillion as its shares held steady, while Nvidia was roughly at $4.86 trillion, following a 3.5% decline.
+"The apple reclamation of the largest market cap in the equity market is really a sign of the fact that investors are concerned with this level of CapEx that's being used to underwrite the AI explosion and are looking for stocks that are not spending capital investments," says Lynch.
+The shift in the pecking order illustrates that investors are broadening their focus beyond the most obvious beneficiaries of the AI boom, such as Nvidia, which had been at the helm for nearly a year. 
+"Why is it working now for Apple? In fairness, they finally have a credible AI plan at their worldwide developer conference recently, they ruled out a new series, AI. It's going to integrate across all these different apps."
 
-inc.com • 29m ago
+Yahoo Finance • 26m ago
 
 ---
 
-**[OpenAI’s CFO: 4 questions that reveal if your AI spend is paying off](https://fortune.com/2026/07/17/openai-cfo-4-questions-reveal-your-ai-spend-paying-off/)**
+**[AI-driven memory crunch jolts India’s smartphone market](https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/)**
 
-Forget cost per token. Sarah Friar argues CFOs should judge AI by the work it actually completes.
+India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.
 
-Fortune • 33m ago
+TechCrunch • 18m ago
+
+---
+
+**[Watch Inside Greylock's $1.5 Billion AI Playbook](https://www.bloomberg.com/news/videos/2026-07-17/inside-greylock-s-1-5-billion-ai-playbook-video)**
+
+Bloomberg.com • 32m ago
 
 ---
 
@@ -199,7 +201,7 @@ Fortune • 33m ago
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 369 • 💬 496 • 23h ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 374 • 💬 506 • 1d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
@@ -207,19 +209,19 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 The AI agent made for open models, built to get things done.
 
-⬆️ 313 • 💬 115 • 22h ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 314 • 💬 118 • 1d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+
+---
+
+**[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
+
+⬆️ 295 • 💬 209 • 5h ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
 **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
 
 ⬆️ 292 • 💬 107 • 1d ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
-
----
-
-**[Mozilla: The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
-
-⬆️ 259 • 💬 175 • 4h ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -239,7 +241,7 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 152 • 💬 78 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+⬆️ 153 • 💬 78 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -261,7 +263,7 @@ A German research consortium has released Soofi S 30B-A3B, an open language mode
 
 A shockingly inefficient trillion-dollar project
 
-⬆️ 106 • 💬 84 • 1d ago • [The Atlantic](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
+⬆️ 106 • 💬 85 • 1d ago • [The Atlantic](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
 
 ---
 
@@ -269,33 +271,33 @@ A shockingly inefficient trillion-dollar project
 
 ## YouTube Videos: "ai"
 
-**[Give Me 12 Min, I&#39;ll Improve Your AI Film Making by 176%](https://www.youtube.com/watch?v=uiyTThUBw98)**
-
-Create AI Films in Minutes with OpenArt AI Director https://tolt.link/robodirector In this video, I show how to create complete AI ...
-
-📺 Roboverse
-
-👁️ 4K • ⏱️ 11:40 • 2h ago
-
----
-
 **[AI News: Claude&#39;s New Browser, Spotify Gets AI &amp; OpenAI&#39;s New Hardware](https://www.youtube.com/watch?v=ss2LaCKUQmU)**
 
 Try Seedream 5.0 plus other top AI image and video models at Artlist ...
 
 📺 Matt Wolfe
 
-👁️ 6K • 👍 496 • 💬 29 • ⏱️ 23:10 • 3h ago
+👁️ 15K • 👍 840 • 💬 41 • ⏱️ 23:10 • 5h ago
 
 ---
 
-**[Mira Murati&#39;s First AI Model Is Built on China&#39;s Blueprint... Wild](https://www.youtube.com/watch?v=46bnJaOAVF8)**
+**[OpenAI just proved AI has no idea what it&#39;s doing](https://www.youtube.com/watch?v=7kWkUoR2bg0)**
 
-Mira Murati's Thinking Machines just released its first AI model, Inkling. It is fully open, handles text, images and audio, and uses ...
+GPT 5.6 Sol is off to a…smashing…start. Subscribe to my Substack: https://atmoio.substack.com, where I just published a ...
 
-📺 AI Revolution
+📺 Mo Bitar
 
-👁️ 16K • 👍 703 • 💬 49 • ⏱️ 16:46 • 19h ago
+👁️ 174K • 👍 11K • 💬 2K • ⏱️ 9:10 • 2d ago
+
+---
+
+**[It&#39;s Official, The AI Bubble Just Popped (Here&#39;s Why)](https://www.youtube.com/watch?v=paLy21TVecw)**
+
+Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist Pro https://rcp.georgegammon.com/pro.
+
+📺 George Gammon
+
+👁️ 136K • 👍 5K • 💬 884 • ⏱️ 28:35 • 1d ago
 
 ---
 
@@ -305,37 +307,17 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 30K • 👍 598 • 💬 165 • ⏱️ 20:51 • 1d ago
+👁️ 32K • 👍 619 • 💬 164 • ⏱️ 20:51 • 1d ago
 
 ---
 
-**[Super Human AI is Nearly Here, And No One Is Ready](https://www.youtube.com/watch?v=pauU-XDs_uA)**
+**[Mira Murati&#39;s First AI Model Is Built on China&#39;s Blueprint... Wild](https://www.youtube.com/watch?v=46bnJaOAVF8)**
 
-Masterpeace: Investor Quiz: Stop wishing you had a portfolio full of performing assets. Take action and start building one. Today.
+Mira Murati's Thinking Machines just released its first AI model, Inkling. It is fully open, handles text, images and audio, and uses ...
 
-📺 Redacted
+📺 AI Revolution
 
-👁️ 59K • 👍 3K • 💬 337 • ⏱️ 1:16:42 • 2d ago
-
----
-
-**[AI Stocks CRASHING! Wall Street Is TRICKING YOU!📉](https://www.youtube.com/watch?v=YNcnSgB7ejE)**
-
-My Portfolio Updates + Charts + Discord ⮕ https://www.patreon.com/stastalksstocks Get My Top Picks For FREE Every Month ...
-
-📺 Stas Talks Stocks 
-
-👁️ 7K • 👍 318 • 💬 95 • ⏱️ 14:21 • 1d ago
-
----
-
-**[3 FREE AI Video Generators 😱 | Best Free AI Video Generator 2026 | Text to Video AI](https://www.youtube.com/watch?v=QchMSh-xvfE)**
-
-3 FREE AI Video Generators | Best Free AI Video Generator 2026 | Text to Video AI Instagram Link: ...
-
-📺 AK - Educate 
-
-👁️ 14K • 👍 608 • 💬 91 • ⏱️ 10:16 • 2d ago
+👁️ 18K • 👍 736 • 💬 49 • ⏱️ 16:46 • 20h ago
 
 ---
 
@@ -345,7 +327,37 @@ Mitch McConnell's questionable “proof of life” photo unleashes a bipartisan 
 
 📺 Rebel HQ
 
-👁️ 85K • 👍 2K • 💬 545 • ⏱️ 8:56 • 2d ago
+👁️ 87K • 👍 2K • 💬 546 • ⏱️ 8:56 • 2d ago
+
+---
+
+**[I saw the future of AI... it scared me](https://www.youtube.com/watch?v=BIrQa_BH6AE)**
+
+LinkedIn: https://www.linkedin.com/in/charles-broomfield/ Apply to work with me: https://forms.gle/XDEWyVhPeqhzEy2V8 I began ...
+
+📺 Charles Level Up
+
+👁️ 7K • 👍 394 • 💬 80 • ⏱️ 19:36 • 2d ago
+
+---
+
+**[You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)](https://www.youtube.com/watch?v=Bm84BAtOfQw)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/3SXCfgk Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 101K • 👍 4K • 💬 285 • ⏱️ 22:25 • 2d ago
+
+---
+
+**[3 FREE AI Video Generators 😱 | Best Free AI Video Generator 2026 | Text to Video AI](https://www.youtube.com/watch?v=QchMSh-xvfE)**
+
+3 FREE AI Video Generators | Best Free AI Video Generator 2026 | Text to Video AI Instagram Link: ...
+
+📺 AK - Educate 
+
+👁️ 15K • 👍 622 • 💬 94 • ⏱️ 10:16 • 2d ago
 
 ---
 
@@ -355,17 +367,7 @@ The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-ma
 
 📺 Nick Ponte
 
-👁️ 6K • 👍 187 • 💬 39 • ⏱️ 8:55 • 1d ago
-
----
-
-**[Whistleblowers Say AI Waste Is Going Into Rivers. 😳](https://www.youtube.com/watch?v=u-1eApr5xwk)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Show
-
-👁️ 585K • 👍 22K • 💬 2K • ⏱️ 0:55 • 23h ago
+👁️ 6K • 👍 191 • 💬 40 • ⏱️ 8:55 • 1d ago
 
 ---
 
@@ -381,7 +383,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 7,870 • ❤️ 925 • 1d ago
+⬇️ 7,870 • ❤️ 935 • 1d ago
 
 ---
 
@@ -393,7 +395,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 200,774 • ❤️ 662 • 3h ago
+⬇️ 200,774 • ❤️ 666 • 4h ago
 
 ---
 
@@ -405,7 +407,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,045,182 • ❤️ 379 • 3h ago
+⬇️ 1,045,182 • ❤️ 381 • 4h ago
 
 ---
 
@@ -417,7 +419,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,096,147 • ❤️ 2,267 • 3d ago
+⬇️ 2,096,147 • ❤️ 2,268 • 3d ago
 
 ---
 
@@ -429,7 +431,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 534,698 • ❤️ 4,063 • 15d ago
+⬇️ 534,698 • ❤️ 4,068 • 15d ago
 
 ---
 
@@ -441,7 +443,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 9,383 • ❤️ 405 • 7d ago
+⬇️ 9,383 • ❤️ 409 • 7d ago
 
 ---
 
@@ -451,7 +453,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 338 • 8d ago
+⬇️ 0 • ❤️ 341 • 1h ago
 
 ---
 
@@ -475,19 +477,19 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 83,160 • ❤️ 246 • 2d ago
+⬇️ 83,160 • ❤️ 247 • 2d ago
 
 ---
 
-**[Qwythos-9B-v2-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF)**
+**[OvisOCR2](https://huggingface.co/ATH-MaaS/OvisOCR2)**
 
-*Empero*
+*ATH-MaaS*
 
-Qwythos-9B-v2-GGUF is a quantized, multimodal LLM optimized for reasoning and long-context tasks (up to 1M tokens). It features fixed looping behavior, supports function calling, and is designed for efficient inference with GGUF runtimes like llama.cpp.
+OvisOCR2 is a compact 0.8B multimodal model for end-to-end document parsing, generating Markdown from document images. It excels at extracting text, formulas, tables, and visual regions in natural reading order, achieving state-of-the-art performance on benchmarks like OmniDocBench.
 
-`image-text-to-text` `9.0B`
+`image-text-to-text` `853.0M`
 
-⬇️ 98,370 • ❤️ 155 • 5d ago
+⬇️ 10,795 • ❤️ 150 • 1d ago
 
 ---
 
@@ -517,21 +519,9 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 44 • 💬 1 • ⭐ 1,250 • 9d ago
+▲ 44 • 💬 1 • ⭐ 1,250 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
-
----
-
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 17 • 💬 2 • ⭐ 20,828 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -541,23 +531,21 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 112 • 💬 4 • ⭐ 93,367 • 18mo ago
+▲ 113 • 💬 4 • ⭐ 93,419 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
-**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
 
-*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
 
-🏢 Microsoft Research
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+▲ 17 • 💬 2 • ⭐ 20,857 • 28mo ago
 
-▲ 257 • 💬 4 • ⭐ 12,972 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -574,20 +562,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439)**
-
-*Qihao Zhao, Yangyu Huang, Yalun Dai et al. (11 authors)*
-
-🏢 Microsoft
-
-ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
-
-▲ 58 • 💬 3 • ⭐ 1,338 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
-
----
-
 **[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675)**
 
 *Shuailei Ma, Jiaqi Liao, Xinyang Wang et al. (27 authors)*
@@ -596,7 +570,7 @@ ResearchStudio-Idea provides a skill suite for effective research ideation that 
 
 LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
 
-▲ 63 • 💬 1 • ⭐ 824 • 9d ago
+▲ 63 • 💬 1 • ⭐ 824 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
 
@@ -628,6 +602,34 @@ https://continuous-audio-language-models.github.io
 
 ---
 
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 257 • 💬 4 • ⭐ 13,007 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
+
+---
+
+**[ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439)**
+
+*Qihao Zhao, Yangyu Huang, Yalun Dai et al. (11 authors)*
+
+🏢 Microsoft
+
+ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
+
+▲ 58 • 💬 3 • ⭐ 1,374 • 13d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
+
+---
+
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -651,7 +653,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.9k • 🔱 1.0k • 13h ago
+⭐ 4.9k • 🔱 1.0k • 14h ago
 
 ---
 
@@ -661,7 +663,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.8k • 🔱 205 • 2h ago
+⭐ 2.8k • 🔱 206 • 3h ago
 
 ---
 
@@ -671,7 +673,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.5k • 🔱 360 • 14h ago
+⭐ 2.5k • 🔱 361 • 16h ago
 
 ---
 
@@ -739,7 +741,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 882 • 🔱 36 • 16d ago
+⭐ 884 • 🔱 36 • 16d ago
 
 ---
 

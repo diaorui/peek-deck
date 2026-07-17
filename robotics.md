@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-17T19:10:01.201477+00:00'
+updated: '2026-07-17T20:27:29.421159+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 17, 2026 at 19:10 UTC  
+**Last Updated:** July 17, 2026 at 20:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,25 +122,11 @@ NVIDIA Blog • 2d ago
 
 ---
 
-**[Roborock’s Big LiDAR Robotic Lawnmower Needs No Satellites](https://gizmodo.com/roborocks-big-lidar-robotic-lawnmower-needs-no-satellites-2000787080)**
+**[Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)**
 
-Gizmodo • 44m ago
+Agility is opening a new training center for its Digit robots in Fremont, California.
 
----
-
-**[Fear of humanoid robots spurs human workers to strike at Hyundai auto factory](https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/)**
-
-Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
-
-Ars Technica • 23h ago
-
----
-
-**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
-
-A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
-
-The Mercury News • 21h ago
+TechCrunch • 7m ago
 
 ---
 
@@ -148,7 +134,23 @@ The Mercury News • 21h ago
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-WIRED • 10h ago
+WIRED • 11h ago
+
+---
+
+**[Fear of humanoid robots spurs human workers to strike at Hyundai auto factory](https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/)**
+
+Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
+
+Ars Technica • 1d ago
+
+---
+
+**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
+
+A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
+
+The Mercury News • 23h ago
 
 ---
 
@@ -172,7 +174,7 @@ Fortune • 2d ago
 
 /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
 
-PR Newswire • 8h ago
+PR Newswire • 9h ago
 
 ---
 
@@ -198,7 +200,7 @@ Humanoid robots are no longer just concepts. Xiaomi has released an uncut factor
 
 📺 DPCcars
 
-👁️ 5K • 👍 71 • 💬 16 • ⏱️ 3:56 • 2d ago
+👁️ 5K • 👍 74 • 💬 17 • ⏱️ 3:56 • 2d ago
 
 ---
 
@@ -208,37 +210,27 @@ Hyundai's partial strike this week marks the first car-factory stoppage tied to 
 
 📺 WealthWise
 
-👁️ 502 • 👍 11 • 💬 1 • ⏱️ 1:05 • 7h ago
+👁️ 563 • 👍 11 • 💬 1 • ⏱️ 1:05 • 8h ago
 
 ---
 
-**[3 Million Developers Just Got a Free Humanoid Robot Brain](https://www.youtube.com/watch?v=diP_V22aCm0)**
+**[IRI 2026 Friday | FRC Event | Indiana Robotics Invitational](https://www.youtube.com/watch?v=Eoer5GFdRFI)**
 
-SOURCES NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community ...
+Event Results: https://www.thebluealliance.com/event/2026iri or https://frc-events.firstinspires.org/2026/ININD The mission of IRI is ...
 
-📺 Jason Lowe on AI
+📺 FUN Robotics Network
 
-👁️ 13K • 👍 944 • 💬 30 • ⏱️ 2:52 • 1d ago
-
----
-
-**[I Only Made $50 Training Robots](https://www.youtube.com/watch?v=yfZhpEupz5M)**
-
-Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
-
-📺 Joanna Stern
-
-👁️ 35K • 👍 2K • 💬 143 • ⏱️ 12:02 • 1d ago
+👁️ 5K • 👍 63 • 4d ago
 
 ---
 
-**[AI Handwriting Robot Perfectly Replicates Human Writing with Incredible Precision 🤖✍️🧠](https://www.youtube.com/watch?v=NxxtoPbprYc)**
+**[China&#39;s T800 Loses Its Head #robot #ai #engineai](https://www.youtube.com/watch?v=mXkmZgyuJl0)**
 
-This incredible AI-powered handwriting robot uses precision robotics and intelligent motion control to replicate human handwriting ...
+A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knockout League (URKL) show in Shenzhen.
 
-📺 Techie Sapien
+📺 Kalil 4.0
 
-👁️ 55K • 💬 14 • ⏱️ 0:08 • 2d ago
+👁️ 9K • 👍 257 • 💬 39 • ⏱️ 1:03 • 17h ago
 
 ---
 
@@ -252,13 +244,33 @@ Chinese company UBTech launched a new range of robots meant for companionship eq
 
 ---
 
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
+**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
 
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
+A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
 
-📺 Air Photography
+📺 Al Jazeera English
 
-👁️ 22K • 👍 574 • 💬 92 • ⏱️ 7:15 • 1d ago
+👁️ 126K • 👍 797 • 💬 555 • ⏱️ 2:44 • 3d ago
+
+---
+
+**[3 Million Developers Just Got a Free Humanoid Robot Brain](https://www.youtube.com/watch?v=diP_V22aCm0)**
+
+SOURCES NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community ...
+
+📺 Jason Lowe on AI
+
+👁️ 14K • 👍 978 • 💬 31 • ⏱️ 2:52 • 1d ago
+
+---
+
+**[AI Handwriting Robot Perfectly Replicates Human Writing with Incredible Precision 🤖✍️🧠](https://www.youtube.com/watch?v=NxxtoPbprYc)**
+
+This incredible AI-powered handwriting robot uses precision robotics and intelligent motion control to replicate human handwriting ...
+
+📺 Techie Sapien
+
+👁️ 55K • 💬 14 • ⏱️ 0:08 • 2d ago
 
 ---
 
@@ -266,25 +278,17 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Varun Mayya
 
-👁️ 201K • 👍 7K • 💬 94 • ⏱️ 1:03 • 6d ago
+👁️ 202K • 👍 7K • 💬 96 • ⏱️ 1:03 • 6d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=4XlVxFfaaLs)**
+**[Inside a Fully Automated Robot That Unloads, Cuts &amp; Empties Heavy Bags Without Human Help 🤖📦⚙️](https://www.youtube.com/watch?v=RPFnJQKHsXo)**
 
-📺 Robot Julie 
+Watch this incredible BYR industrial robot automate one of the toughest factory jobs. Using a precision vacuum gripper, the robot ...
 
-👁️ 20K • 👍 67 • 💬 2 • ⏱️ 0:26 • 1d ago
+📺 Techie Sapien
 
----
-
-**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
-
-A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
-
-📺 Al Jazeera English
-
-👁️ 125K • 👍 779 • 💬 552 • ⏱️ 2:44 • 3d ago
+👁️ 162K • 💬 21 • ⏱️ 0:08 • 3d ago
 
 ---
 
