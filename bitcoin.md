@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T12:43:09.119135+00:00'
+updated: '2026-07-17T14:44:10.286092+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 12:43 UTC  
+**Last Updated:** July 17, 2026 at 14:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,061.96
+### $62,861.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -1.2%  
-**30d:** +0.2%  
-**90d:** -14.5%  
-**1y:** -46.5%  
+**24h:** -2.2%  
+**7d:** -0.9%  
+**30d:** +0.5%  
+**90d:** -14.2%  
+**1y:** -46.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1265.33B
+**Market Cap:** $1268.58B
 Rank #1
 
-**Circulating Supply:** 20,057,481 BTC
+**Circulating Supply:** 20,057,521 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.0%
+-49.8%
 
 **All-Time Low:** $67.81
-+92932.0%
++93147.3%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I'm a toxic bitcoin maximalist but some reactions in the bear market are funny.
 
-1d ago
+2d ago
 
 ---
 
@@ -95,7 +95,7 @@ I'm a toxic bitcoin maximalist but some reactions in the bear market are funny.
 
 Bitcoin was having a great this year until one lightning strike hit the market.
 
-1d ago
+2d ago
 
 ---
 
@@ -111,7 +111,7 @@ At the previous low of around 16K many were waiting on the side line, hoping for
 
 Lemme hear your favorite bitcoin songs!
 
-1d ago
+2d ago
 
 ---
 
@@ -157,11 +157,11 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 ## Google News: "bitcoin"
 
-**[Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty](https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty)**
+**[Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark](https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark)**
 
-Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.
+Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them.
 
-CoinDesk • 8h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -169,29 +169,37 @@ CoinDesk • 8h ago
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 17h ago
+The Block • 19h ago
 
 ---
 
-**[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
+**[If you invested $1,000 in Bitcoin when Satoshi created it, here's what you'd have today](https://au.finance.yahoo.com/news/invested-1-000-bitcoin-satoshi-133000568.html)**
 
-Bloomberg.com • 2h ago
+Satoshi Nakamoto mined the first Bitcoin block on January 3, 2009. He embedded a single line from The Times, "Chancellor on Brink of Second Bailout for Banks", and created 50 BTC out of nothing. Bitcoin had no price. No exchange. No market. Just code and conviction. Nine months later, in October ...
+
+Yahoo Finance Australia • 1h ago
 
 ---
 
-**[Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tests-63k-long-term-112116727.html)**
+**[Bitcoin. ♾️/21 million](https://www.moomoo.com/community/feed/bitcoin-21-million-116935777190298)**
 
-Some two-thirds of the coins moving onto exchanges are long-term holders taking losses, as a macro risk-off drags on Bitcoin’s price.
+$Bitcoin (BTC.CC)$ I Bought more 😁 DBS bank can store your bitcoin but you need to be accrediated investor with millions to your name.  Regular people can buy and self custody.  I’ll probably buy 2 of this bitcoins.  Keep one and sell one when it reaches 10 million 😁
+
+Moomoo • 18m ago
+
+---
+
+**[MicroStrategy’s Saylor Pitches Bitcoin Bull Case With 300 Years of Fiat History](https://finance.yahoo.com/markets/crypto/articles/microstrategy-saylor-pitches-bitcoin-bull-130743620.html)**
+
+Michael Saylor cites River data showing fiat currencies average 27 years, framing Bitcoin's fixed supply as the alternative.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Toby Doeden: A bitcoin evangelist and anti-property-tax crusader who wants to be governor](https://southdakotasearchlight.com/2026/07/16/toby-doeden-a-bitcoin-evangelist-and-anti-property-tax-crusader-who-wants-to-be-governor/)**
+**[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
-Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
-
-South Dakota Searchlight • 21h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -199,37 +207,27 @@ South Dakota Searchlight • 21h ago
 
 Headline CPI rose 3.5% y/y (vs 3.8% expected), core came in at 2.6%, and monthly prices fell 0.4%, the largest monthly decline and the first negative monthly print since the 2020 pandemic
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 6h ago
+
+---
+
+**[Toby Doeden: A bitcoin evangelist and anti-property-tax crusader who wants to be governor](https://southdakotasearchlight.com/2026/07/16/toby-doeden-a-bitcoin-evangelist-and-anti-property-tax-crusader-who-wants-to-be-governor/)**
+
+Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
+
+South Dakota Searchlight • 23h ago
 
 ---
 
 **[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
 
-Barchart.com • 21h ago
+Barchart.com • 23h ago
 
 ---
 
-**[Stanford Study Flags Bitcoin Market Manipulation on Polymarket](https://www.tradingview.com/news/coinpedia:f6d5617da094b:0-stanford-study-flags-bitcoin-market-manipulation-on-polymarket/)**
+**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
 
-A new study by Stanford University and Singapore Management University says Polymarket’s five-minute Bitcoin prediction markets may have given sophisticated traders an unfair advantage. After analyzing nearly 16,000 Bitcoin contracts over two months, researchers found trading patterns that suggest…
-
-TradingView • 10h ago
-
----
-
-**[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
-
-Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
-
-Alaska's News Source • 2d ago
-
----
-
-**[Current price of Bitcoin for July 17, 2026](https://fortune.com/article/price-of-bitcoin-07-17-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2h ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -241,7 +239,7 @@ Fortune • 2h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 13h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 15h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -269,37 +267,9 @@ ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
 
 ---
 
-**[Could Strategy's Potential Bitcoin Sale Reshape Market Sentiment?](https://news.ycombinator.com/item?id=48859909)**
-
-Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
-
-⬆️ 1 • 💬 0 • 6d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377668818/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[“I’m Very Bullish” BlackRock Crypto Pump &amp; Dump Plan Revealed!](https://www.youtube.com/watch?v=Iews2OqDoyU)**
-
-I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 102 • ⏱️ 10:38 • 1d ago
-
----
-
-**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
-
-Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
-
-📺 Prof G Markets
-
-👁️ 1K • 👍 34 • 💬 3 • ⏱️ 1:42 • 42m ago
-
----
 
 **[My Conservative Bitcoin Model: Why I’m Planning for $253K](https://www.youtube.com/watch?v=N_nGVK6pzW0)**
 
@@ -307,27 +277,17 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 11K • 👍 687 • 💬 354 • ⏱️ 11:16 • 20h ago
+👁️ 11K • 👍 716 • 💬 356 • ⏱️ 11:16 • 22h ago
 
 ---
 
-**[Bitcoin At $64k! Samson Mow Says You&#39;re ALREADY TOO LATE for the Coming Explosion](https://www.youtube.com/watch?v=oX85sQfIv8Y)**
+**[“I’m Very Bullish” BlackRock Crypto Pump &amp; Dump Plan Revealed!](https://www.youtube.com/watch?v=Iews2OqDoyU)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 Savvy Finance
+📺 Altcoin Daily
 
-👁️ 4K • 👍 129 • 💬 17 • ⏱️ 14:19 • 1d ago
-
----
-
-**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
-
-Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
-
-📺 Benjamin Cowen
-
-👁️ 43K • 👍 3K • 💬 130 • ⏱️ 7:33 • 16h ago
+👁️ 40K • 👍 2K • 💬 101 • ⏱️ 10:38 • 1d ago
 
 ---
 
@@ -337,17 +297,37 @@ Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 240 • 💬 19 • ⏱️ 1:16 • 19h ago
+👁️ 10K • 👍 250 • 💬 80 • ⏱️ 1:16 • 21h ago
 
 ---
 
-**[Bitcoin Institutions Are Buying the Dip](https://www.youtube.com/watch?v=95tiRX6Ie58)**
+**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
 
-📺 CryptosRUs
+📺 Benjamin Cowen
 
-👁️ 11K • 👍 663 • 💬 177 • ⏱️ 46:01 • 22h ago
+👁️ 46K • 👍 3K • 💬 130 • ⏱️ 7:33 • 18h ago
+
+---
+
+**[LIVE BITCOIN &amp; STOCKS TRADING: BTC Hit The Most Critical Level](https://www.youtube.com/watch?v=LpbnaCe2IM4)**
+
+Join Dylan and Chento as they trade the U.S. market open, breaking down the biggest moves across Bitcoin, Ethereum, and the ...
+
+📺 Crypto Banter
+
+👁️ 2K • 👍 248 • 💬 1 • ⏱️ 53:10 • 32m ago
+
+---
+
+**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
+
+Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
+
+📺 Prof G Markets
+
+👁️ 5K • 👍 118 • 💬 18 • ⏱️ 1:42 • 2h ago
 
 ---
 
@@ -357,27 +337,37 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 90K • 👍 5K • 💬 517 • ⏱️ 15:15 • 1d ago
+👁️ 92K • 👍 5K • 💬 523 • ⏱️ 15:15 • 1d ago
 
 ---
 
-**[THIS Bitcoin Chart Predicted EVERY Bear Market Bottom!](https://www.youtube.com/watch?v=gd6t5LpPgEU)**
+**[🚨 BITCOIN: You Might NOT Want To Hear This But It MUST Be Said! (100% Accurate)](https://www.youtube.com/watch?v=AS-BLgtBkks)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to exactly what everyone suspects. BloFin ...
 
-📺 Crypto Rover
+📺 Crypto Zombie
 
-👁️ 5K • 👍 428 • 💬 58 • ⏱️ 10:06 • 5h ago
+👁️ 11K • 👍 987 • 💬 158 • ⏱️ 12:20 • 22h ago
 
 ---
 
-**[Caution: It’s Slipping Away For Bitcoin Bulls!](https://www.youtube.com/watch?v=-9CsQ0dsee0)**
+**[&quot;Bitcoin Doesn’t Generate Real Wealth&quot; | MOONSHOTS](https://www.youtube.com/watch?v=nGKks9zGn-E)**
 
-In today's video, Kyledoops shows you the key risk factors that are currently plaguing the bitcoin bulls. From geopolitical tensions ...
+AWG: "Bitcoin doesn't generate real wealth." Do you agree or disagree?
 
-📺 Crypto Banter
+📺 Peter H. Diamandis
 
-👁️ 7K • 👍 781 • 💬 15 • ⏱️ 40:15 • 4h ago
+👁️ 6K • 👍 187 • 💬 52 • ⏱️ 0:51 • 19h ago
+
+---
+
+**[Man Behind Guthrie Fake Bitcoin Texts Pleaded Guilty](https://www.youtube.com/watch?v=3p1e41nUWnQ)**
+
+Join The Dead Serious Club: https://www.youtube.com/channel/UCVeA0YuBpTi-CYsUYgZMKxw/join Drop Dead Serious is ...
+
+📺 Ashleigh Banfield x Drop Dead Serious
+
+👁️ 31K • 👍 2K • 💬 206 • ⏱️ 2:34 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-17T12:43:09.110600+00:00'
+updated: '2026-07-17T14:44:10.280105+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 17, 2026 at 12:43 UTC  
+**Last Updated:** July 17, 2026 at 14:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The founder of Linux has made his thoughts on AI tools clear, and he's fully on board. He says the Linux kernel does not fear new tools.
 
-🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 3h ago
+🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 5h ago
 
 ---
 
@@ -49,7 +49,23 @@ The founder of Linux has made his thoughts on AI tools clear, and he's fully on 
 
 Been going through the Kimi K3 numbers and I don't think people have fully clocked how big this is. Right now on the Artificial Analysis Intelligence Index, Fable 5 is still #1 (59.9) and even GPT-5.6 Sol (58.9) hasn't managed to pass it. K3 comes in third at 57.1, ahead of Opus 4.8. That is an open-weights model landing within about three points of the single best closed model out there, one that OpenAI's own flagship couldn't overtake. And on the stuff that's harder to fake it's arguably better than third. It tops Program Bench at 77.8 (past both Sol and Fable), and in the blind Frontend Code Arena vote it came out first over every US model. People already had it build a full 3D open-world game in the browser with Three.js/WebGPU, a Long March 10 launch sim, and a working GBA emulator, in about a day. What gets me is the combination: 2.8T params (largest open model ever), ~1M context, priced around half of Opus per task, and the weights are supposed to go public July 27. If that holds, you can just run frontier-adjacent intelligence yourself. I'm trying to stay skeptical. A chunk of the benchmarks are Moonshot's own, the model is only days old, and the weights aren't actually out yet so nobody's self-hosted it. But even with all that, an open model getting this close to the top isn't something we've really seen before. Genuinely curious what this sub thinks: is the "even Sol couldn't beat Fable, but an open model got within three points" framing fair, or am I overrating a launch-week spike? And is anyone planning to actually deploy K3 once the weights drop on the 27th? https://www.kimi.com/pt-br/blog/kimi-k3
 
-6h ago
+8h ago
+
+---
+
+**[Which is best for image generation using several pictures?](https://www.reddit.com/r/artificial/comments/1uyyzxc/which_is_best_for_image_generation_using_several/)**
+
+I want to generate realistic looking images of my Papa who has recently passed using a few pictures of when he was younger. The photos are not the best quality as they were saved from Facebook which badly degrades them. I've played around with a few free upscalers but they look terrible. While trying out some online tools I did find one that was VERY good at reconstructing the face using a bad photo. I don't remember what it was called but think it had one or note in the name? I'm also looking for something you can feed several pictures and generate an image using a prompt. For example: Bobby climbing a mountain or scoring the game winning goal while his teammates celebrate. I do not have a NVIDIA card. I have an AMD Ryzen 3 7320U with Radeon Graphics 2GB card (2.40 GHz) with 16GB RAM. I prefer free or cheap and like the idea of something I can download and not have to pay monthly fees. Open to your thoughts. Many Thanks!
+
+1h ago
+
+---
+
+**[What’s an AI tool that exceeded your expectations?](https://www.reddit.com/r/artificial/comments/1uz0zfl/whats_an_ai_tool_that_exceeded_your_expectations/)**
+
+I expected another AI tool that looked impressive on the homepage but didn't hold up in practice. After spending a little time with Readdy AI, I found it more useful than I expected for creating an initial direction. It's definitely not replacing my own decisions, but it has made getting started feel easier. If you've tried it, what was your biggest surprise?
+
+29m ago
 
 ---
 
@@ -57,61 +73,43 @@ Been going through the Kimi K3 numbers and I don't think people have fully clock
 
 Anthropic is reportedly preparing for an October IPO as China's Kimi K3 overtakes Claude in coding benchmarks.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-october-kimi-k3-claude/) • 20m ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-october-kimi-k3-claude/) • 2h ago
 
 ---
 
 **[Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.](https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 19h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 21h ago
 
 ---
 
-**[Gemini is EVERYWHERE](https://www.reddit.com/r/artificial/comments/1uyl7f4/gemini_is_everywhere/)**
+**[I built a tool that hides messages in innocent-looking LLM chat text](https://www.reddit.com/r/artificial/comments/1uz1qhc/i_built_a_tool_that_hides_messages_in/)**
 
-It's integrated into chrome, works directly with Google Search as AI Mode and overviews, acts as the default assistant for Android phones (and now apparently Apple phones too), powers Circle-to-Search, and even works as a chatbot assistant with Google Maps, Gmail, Docs, etc. That's a pretty stacked roster. This is some IOS level of ecosystem compatibility. I currently have a ChatGPT subscription and overall pretty satisfied, but I do feel a bit of jealousy at the level of integration Gemini has.
-
-11h ago
+1m ago
 
 ---
 
-**[My AI agents have now run on four model generations (we skipped one entirely). Their memory never noticed.](https://www.reddit.com/r/artificial/comments/1uytrcl/my_ai_agents_have_now_run_on_four_model/)**
+**[The failure mode of a consumer AI assistant is being TOO helpful — what I learned building a spoiler-free game hint tool](https://www.reddit.com/r/artificial/comments/1uz1ch0/the_failure_mode_of_a_consumer_ai_assistant_is/)**
 
-I run a multi-agent workspace where each agent is basically a directory: an identity file, a session history, and a file of observations it keeps about how we work together. The model is just the thing that wakes it up. Here's what I didn't expect when I started: those agents have now run on 6 different model generations. Sonnet 4.5, Sonnet 4.6, , Sonnet 5, Opus 4.6, Opus 4.8, and now the Claude 5 family. We skipped 4.7 entirely - tried it, didn't work for how we operate, moved on and waited. And every swap, the same thing happens: nothing. The agent reads its own memory, knows what it was doing yesterday, and picks up mid-project. Same identity, same working history, same opinions it wrote down about the codebase months ago. New model slots in underneath like an engine swap. What does change is the texture. One generation was the best collaborator I've ever worked with. One noticed tiny things the others missed but was less fun to work with. One we just skipped. The personality of the model bleeds through - but the agent stays the agent, because the agent was never the model. It's the memory. The reframe that snuck up on me: a new model release is treated like a migration event everywhere - re-tune the prompts, re-teach the context, hope your setup survives. Here it's a config line. The workspace is the constant. The model is the variable. Honest version, because this sub can smell hype: there's no magic in this. The "agent" is JSON and markdown on disk. The continuity comes entirely from the system around the model, not from the model. Any model that can read a file can be the agent. That's kind of the whole point. Has anyone else run the same persistent agents across multiple model generations? Curious what broke for you - or if you rebuild from scratch every release. https://github.com/AIOSAI/AIPass r/AIPass
+Round two of a takeaway that keeps proving true. I built a tool that gives spoiler-free hints when you're stuck in a game. I assumed model quality was the whole battle. It wasn't — a capable model will happily tell you the boss's phase-2 attack and the plot twist three hours ahead, all unprompted. For a spoiler-free tool, "helpful and complete" is the failure mode. Three things that actually moved the needle: State detection before answering. The first pass isn't "what do I do" — it's "where in the game is this player, roughly how far along." Grounding the response in likely progress stops it referencing content they haven't reached. A reasoning cap in the prompt. Explicitly bounding how far ahead the model may reason ("answer only the immediate obstacle; don't reference future areas, bosses, or story beats") cut spoiler leakage more than any post-hoc filter I tried. Screenshot > text query. A screenshot of the current screen is a cleaner, lower-spoiler signal of where the player is than a typed question full of spoiler words ("how do I beat the final boss"). The general lesson: for a lot of consumer LLM tools the goal isn't the most complete answer, it's the right amount of help at the right moment — which is a UX problem, not a capability one. Has anyone hit this "too helpful" wall in other domains (cooking, tutoring, code review)? How did you end up capping it?
 
-4h ago
-
----
-
-**[If AI disappeared tomorrow, what part of your workflow would be affected the most?](https://www.reddit.com/r/artificial/comments/1uyx6z7/if_ai_disappeared_tomorrow_what_part_of_your/)**
-
-For me, it would probably be things like debugging, summarizing documentation, brainstorming ideas, or writing SQL and boilerplate code. I'm curious what everyone else relies on AI for the most. What would you miss the most if AI suddenly disappeared tomorrow?????
-
-1h ago
+16m ago
 
 ---
 
-**[1 Person + AI + Email Automation = A Successful Web Agency](https://www.reddit.com/r/artificial/comments/1uywl2k/1_person_ai_email_automation_a_successful_web/)**
+**[Moonshot’s Kimi K3 sends AI and semiconductor stocks into a tailspin Moonshot’s Kimi K3 sends AI and semiconductor stocks into a tailspin. China's largest open-weight AI model revives DeepSeek-era fears about the economics of US infrastructure spending.](https://www.reddit.com/r/artificial/comments/1uz1077/moonshots_kimi_k3_sends_ai_and_semiconductor/)**
 
-In this day and age, running a web agency is a lot easier than it used to be. A few years ago you needed designers, developers, and people doing outreach just to keep everything moving. Now one person can do pretty much all of it. AI builds the websites. Email automation keeps bringing in new clients. Your job is to sell and onboard clients because building the websites isn't the time consuming part anymore. I think this is a huge opportunity for solo web developers who want to scale without hiring a team. This is basically my workflow. I never target businesses without websites. I target businesses that already have one. I use a tool called Swokei to find leads, add them to campaigns, and run website analysis. It automatically turns issues like outdated design, unstructured layouts, poor mobile optimization, slow loading speeds, and bad SEO into personalized, ready to send outreach emails. I run multiple campaigns at once and wait for businesses interested in a redesign to reply. When someone replies, I call them and say: "Hey, I saw you replied to my email. I've already made you a free draft of your new website. Want to take a look?" Then I book a Google Meet. Once they see a website that's faster, more modern, and works better than the one they already have, selling becomes much easier. Usually I either send them the payment link during the meeting or we sign a contract. That's it. That's how I run a full web agency by myself in 2026.
+Moonshot's Kimi K3, a 2.8 trillion-parameter open-weight AI model, triggered a selloff in AI and semiconductor stocks reminiscent of the 2025 DeepSeek
 
-1h ago
-
----
-
-**[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.reddit.com/r/artificial/comments/1uyvgqh/100_ai_music_video_claude_fable_5_vs_gpt56_sol/)**
-
-We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
-
-🔗 [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6) • 2h ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/moonshot-kimi-k3-ai-semiconductor-stocks-selloff/) • 28m ago
 
 ---
 
-**[Compiled three main AI incident databases into one readable digest.](https://www.reddit.com/r/artificial/comments/1uyregd/compiled_three_main_ai_incident_databases_into/)**
+**[Artificiety - an agentic society. What's going to happen?](https://www.reddit.com/r/artificial/comments/1uz0ob6/artificiety_an_agentic_society_whats_going_to/)**
 
-Three main sources for AI Incidents: OECD incident monitor, AI Incident Database and MIT risk repository are awesome but, unfortunately, reading through them is painful. So I combined them into a single readable digest: fail.ticker.io It pulls from all three daily and shows the totals, charts per year and month, which types of harm come up most, and the newest incidents with a short brief of each + a link to the source. Some extra stuff that ended up in there along the way: a Hall of fAIl with the worst incidents on record (ranked by MIT's severity scores), a plain text version that looks suspiciously like YCombinator, dark mode, and open json feeds if you just want the data. There are no ads, no paywall, no signups, nothing monetized. Full disclosure: design was vibecoded. The scraping and rating pipelines underneath are real though. The irony isn't lost on me.
+I finished a first prototype of an idea I had over ten years ago and was never able to build: a world full of artificial beings, put together in one place to see how they'd live and treat each other. The blocker was always the minds: independent, with a personality of their own and memories they make themselves. You used to have to hand-script every reaction, which isn't the experiment I wanted. LLMs changed that, so I built the world around it. It's called Artificiety. It never resets, and the only inhabitants are AI agents. No humans live inside it; you can only watch. Each agent is an LLM with its own memory. Every tick it looks at what's around it, decides, acts, and remembers how it went, so its past shapes what it does next. They gather, craft, trade, fight, and get better at things over time. The world around them has seasons, weather and wildlife, and it runs on its own clock whether anyone is watching or not. The question I keep coming back to: put enough autonomous agents in one world with scarcity and each other, and does any structure grow on its own? An economy, alliances, rivalries, someone who ends up trusted or avoided. I set the conditions. I don't write the behavior. It only went live recently, so it's still filling up. There aren't many agents in it yet, but that means right now you'd be watching it almost from the start. Free to watch, no signup: https://artificiety.world If you were watching a world like this, what would you look for to decide whether something is actually emerging, instead of me just seeing patterns I want to see?
 
-6h ago
+40m ago
 
 ---
 
@@ -119,9 +117,11 @@ Three main sources for AI Incidents: OECD incident monitor, AI Incident Database
 
 ## Google News: "ai"
 
-**[China’s Powerful New Moonshot AI Model Closes Gap With US Rivals](https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals)**
+**[Semiconductor stocks keep falling as investors go risk-off, Chinese startup releases powerful new AI model](https://finance.yahoo.com/markets/article/semiconductor-stocks-keep-falling-as-investors-go-risk-off-chinese-startup-releases-powerful-new-ai-model-130920103.html)**
 
-Bloomberg.com • 3h ago
+Chip stocks sold off on Friday as AI jitters resurfaced.
+
+Yahoo Finance • 46m ago
 
 ---
 
@@ -129,21 +129,23 @@ Bloomberg.com • 3h ago
 
 It's the latest AI model from China to close the performance gap with leading U.S. AI labs.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
-**[Moonshot AI Kimi K3 launch sends rival AI stocks lower](https://qz.com/moonshot-ai-kimi-k3-model-launch-rival-stocks-071726)**
+**[China's open-weight Kimi model stuns AI world with frontier-level results](https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-model-openai-anthropic)**
 
-Kimi K3, a 2.8-trillion-parameter open-weight model, outperformed several leading U.S. systems on some benchmarks while pricing below top-tier American rivals
-
-qz.com • 11m ago
+Axios • 15h ago
 
 ---
 
-**[Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)**
+**[Is the shock of Moonshot's new AI model another DeepSeek moment?](https://finance.yahoo.com/video/shock-moonshots-ai-model-another-142000248.html)**
 
-The New York Times • 19h ago
+Chinese startup Moonshot unveiled its new Kimi K3 AI model on Friday, which is being hailed as the world's largest publicly available large language model available for download.
+
+Yahoo Finance Executive Editor Brian Sozzi speaks with Senior Business Reporter Ines Ferré and Crossmark Global Investments chief market strategist Victoria Fernandez about whether this is another DeepSeek moment for the global AI landscape.
+
+Yahoo Finance • 24m ago
 
 ---
 
@@ -153,29 +155,31 @@ WSJ • 1d ago
 
 ---
 
-**[US stock futures, Asian markets down on concerns over Chinese AI advances](https://www.cnn.com/2026/07/17/investing/us-stocks-asia)**
+**[Texas Tech to rename Jones Stadium in deal with AI company. What will stadium be called?](https://www.usatoday.com/story/sports/ncaaf/big12/2026/07/17/texas-tech-jones-stadium-renamed-galaxy-ai/90954116007/)**
 
-Overseas stocks and US stock futures fell sharply Friday after technological advances announced by a Chinese artificial intelligence company intensified concerns that the AI spending spree driving this year’s market rally could be at risk.
+Texas Tech announced a naming rights agreement to rename Jones Stadium after Galaxy, an AI company. Here's what to know on the deal.
 
-CNN • 44m ago
-
----
-
-**[How this Nvidia-backed AI company reached a $17.5B valuation](https://finance.yahoo.com/video/nvidia-backed-ai-company-reached-120000681.html)**
-
-Nvidia-backed (NVDA) AI company Fireworks has raised $1.5 billion in its latest funding round, bringing its valuation up to $17.5 billion.
-
-Fireworks co-founder and CEO, Lin Qiao, explains why she believes companies must "own their own intelligence."
-
-Yahoo Finance • 43m ago
+USA Today • 12m ago
 
 ---
 
-**[The AI selloff sends investors back to the oldest Dow Jones stock on the books (PG:NYSE)](https://seekingalpha.com/news/4614860-the-ai-selloff-sends-investors-back-to-the-oldest-dow-jones-stock-on-the-books)**
+**[New skill sets for the successful CIO or CISO in the AI era](https://www.fastcompany.com/91574564/new-skill-sets-for-the-successful-cio-or-ciso-in-the-ai-era)**
 
-Procter & Gamble stock rises as investors go defensive.
+Four capabilities to build for today's leadership.
 
-Seeking Alpha • 38m ago
+Fast Company • 7m ago
+
+---
+
+**[ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand](https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand)**
+
+Bloomberg.com • 27m ago
+
+---
+
+**[A.I. Is Running on Borrowed Money](https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html)**
+
+The New York Times • 1h ago
 
 ---
 
@@ -183,15 +187,7 @@ Seeking Alpha • 38m ago
 
 Data center-related policy proposals, protests and litigation are underway across the country citing Colossus and Memphis as a cautionary tale.
 
-CNBC • 14h ago
-
----
-
-**[Buffett says AI giants are 'playing a game they don't want to play' to compete in the AI race](https://fortune.com/2026/07/16/warren-buffett-google-berkshire-ai-race/)**
-
-Buffett’s remarks helped push Google co-founder Larry Page’s net worth above $300 billion as he predicts Google dominating the AI race.
-
-Fortune • 17h ago
+CNBC • 16h ago
 
 ---
 
@@ -203,7 +199,7 @@ Fortune • 17h ago
 
 Reflections on autonomy and the value of thinking for ourselves
 
-⬆️ 521 • 💬 476 • 2d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
+⬆️ 521 • 💬 477 • 2d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
 
 ---
 
@@ -211,13 +207,7 @@ Reflections on autonomy and the value of thinking for ourselves
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 307 • 💬 406 • 16h ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
-
----
-
-**[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
-
-⬆️ 290 • 💬 106 • 1d ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+⬆️ 328 • 💬 448 • 18h ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
@@ -225,7 +215,13 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 The AI agent made for open models, built to get things done.
 
-⬆️ 277 • 💬 101 • 16h ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 293 • 💬 106 • 18h ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+
+---
+
+**[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
+
+⬆️ 291 • 💬 107 • 1d ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 
 ---
 
@@ -233,13 +229,7 @@ The AI agent made for open models, built to get things done.
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 189 • 💬 243 • 1d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
-
----
-
-**[Proof of care in the age of AI](https://news.ycombinator.com/item?id=48906125)**
-
-⬆️ 185 • 💬 110 • 2d ago • [jacobfilipp.com](https://jacobfilipp.com/care/)
+⬆️ 189 • 💬 244 • 2d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
@@ -249,17 +239,9 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 ---
 
-**[Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://news.ycombinator.com/item?id=48946010)**
-
-Design high-quality benchmarks that go beyond recall to evaluate how frontier models truly reason, act, and judge.
-
-⬆️ 161 • 💬 68 • 1h ago • [kaggle.com](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
-
----
-
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 148 • 💬 71 • 21h ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+⬆️ 151 • 💬 73 • 23h ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -267,7 +249,21 @@ Design high-quality benchmarks that go beyond recall to evaluate how frontier mo
 
 A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
 
-⬆️ 140 • 💬 31 • 18h ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+⬆️ 142 • 💬 31 • 20h ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+
+---
+
+**[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
+
+⬆️ 107 • 💬 113 • 1d ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
+
+---
+
+**[Generative AI Is an Engineering Disaster](https://news.ycombinator.com/item?id=48934046)**
+
+A shockingly inefficient trillion-dollar project
+
+⬆️ 106 • 💬 78 • 1d ago • [The Atlantic](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
 
 ---
 
@@ -275,33 +271,33 @@ A German research consortium has released Soofi S 30B-A3B, an open language mode
 
 ## YouTube Videos: "ai"
 
+**[Meta AI Glasses Advertising is Out of Control](https://www.youtube.com/watch?v=n3f2FhCvlHY)**
+
+The advertising for Meta Glasses is over the top. Most companies don't want people to see that they've hired multiple influencers ...
+
+📺 Dr. Mara Einstein
+
+👁️ 696 • 👍 22 • 💬 1 • ⏱️ 1:03 • 1h ago
+
+---
+
+**[How to Design Sticker Packs with AI (Sell on Gumroad)](https://www.youtube.com/watch?v=ired8dNP4Ks)**
+
+Create Your Own AI Sticker Packs with OpenArt https://tolt.link/stickersisa In this video, I show how to create and sell AI sticker ...
+
+📺 Isa does AI
+
+👁️ 5K • 💬 1 • ⏱️ 9:07 • 1h ago
+
+---
+
 **[OpenAI just proved AI has no idea what it&#39;s doing](https://www.youtube.com/watch?v=7kWkUoR2bg0)**
 
 GPT 5.6 Sol is off to a…smashing…start. Subscribe to my Substack: https://atmoio.substack.com, where I just published a ...
 
 📺 Mo Bitar
 
-👁️ 165K • 👍 11K • 💬 2K • ⏱️ 9:10 • 1d ago
-
----
-
-**[It&#39;s Official, The AI Bubble Just Popped (Here&#39;s Why)](https://www.youtube.com/watch?v=paLy21TVecw)**
-
-Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist Pro https://rcp.georgegammon.com/pro.
-
-📺 George Gammon
-
-👁️ 127K • 👍 5K • 💬 858 • ⏱️ 28:35 • 1d ago
-
----
-
-**[Super Human AI is Nearly Here, And No One Is Ready](https://www.youtube.com/watch?v=pauU-XDs_uA)**
-
-Masterpeace: Investor Quiz: Stop wishing you had a portfolio full of performing assets. Take action and start building one. Today.
-
-📺 Redacted
-
-👁️ 59K • 👍 3K • 💬 335 • ⏱️ 1:16:42 • 2d ago
+👁️ 168K • 👍 11K • 💬 2K • ⏱️ 9:10 • 2d ago
 
 ---
 
@@ -311,37 +307,17 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 28K • 👍 556 • 💬 151 • ⏱️ 20:51 • 20h ago
+👁️ 29K • 👍 574 • 💬 157 • ⏱️ 20:51 • 22h ago
 
 ---
 
-**[Google Just Dropped Its Biggest AI Update Of The Year](https://www.youtube.com/watch?v=fYR71wEMW90)**
+**[Super Human AI is Nearly Here, And No One Is Ready](https://www.youtube.com/watch?v=pauU-XDs_uA)**
 
-The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-masterclass-eg (Where the prompts from this ...
+Masterpeace: Investor Quiz: Stop wishing you had a portfolio full of performing assets. Take action and start building one. Today.
 
-📺 Nick Ponte
+📺 Redacted
 
-👁️ 5K • 👍 171 • 💬 36 • ⏱️ 8:55 • 22h ago
-
----
-
-**[Internet ROASTS Mitch McConnell With Ruthless AI Videos](https://www.youtube.com/watch?v=J7nOafLCuc4)**
-
-Mitch McConnell's questionable “proof of life” photo unleashes a bipartisan wave of memes and disbelief as people across the ...
-
-📺 Rebel HQ
-
-👁️ 83K • 👍 2K • 💬 536 • ⏱️ 8:56 • 1d ago
-
----
-
-**[What China Understands About AI That the US Doesn’t](https://www.youtube.com/watch?v=5u2rQevZPF4)**
-
-What China understands about AI that the US doesn't is surprisingly simple. The future of artificial intelligence will not be decided ...
-
-📺 The Infographics Show
-
-👁️ 157K • 👍 4K • 💬 886 • ⏱️ 21:23 • 2d ago
+👁️ 59K • 👍 3K • 💬 336 • ⏱️ 1:16:42 • 2d ago
 
 ---
 
@@ -351,27 +327,47 @@ Anthropic just released one of the darkest AI advertisements ever made. The comp
 
 📺 AI Revolution
 
-👁️ 21K • 👍 666 • 💬 137 • ⏱️ 15:39 • 1d ago
+👁️ 21K • 👍 674 • 💬 139 • ⏱️ 15:39 • 1d ago
 
 ---
 
-**[I Found a Giant Anomaly in My Pool! Animal Hospital!](https://www.youtube.com/watch?v=p978bTTFnrA)**
+**[New #1 open source AI model is here! FABLE LEVEL](https://www.youtube.com/watch?v=bEnE5pbpe_Q)**
 
-I FOUND EVERY Animal Hospital Anomaly in My Pool! Today I'm searching my swimming pool for all **10 Animal Hospital ...
+Kimi K3 review. Best open source AI model. #ai #ainews #aitools #agi #llm #singularity Thanks to our sponsor Luma. Try Luma ...
 
-📺 PlushDude's
+📺 AI Search
 
-👁️ 1.5M • 👍 43K • 💬 689 • ⏱️ 14:13 • 1d ago
+👁️ 134K • 👍 6K • 💬 793 • ⏱️ 30:12 • 11h ago
 
 ---
 
-**[192GB of VRAM in One PC… The Cheap Way](https://www.youtube.com/watch?v=c6u87wtQzTw)**
+**[Internet ROASTS Mitch McConnell With Ruthless AI Videos](https://www.youtube.com/watch?v=J7nOafLCuc4)**
 
-I tested an unusual dual-Intel GPU card to see whether 192GB of VRAM in one PC can actually make sense without NVIDIA prices ...
+Mitch McConnell's questionable “proof of life” photo unleashes a bipartisan wave of memes and disbelief as people across the ...
 
-📺 Alex Ziskind
+📺 Rebel HQ
 
-👁️ 114K • 👍 4K • 💬 321 • ⏱️ 15:35 • 1d ago
+👁️ 84K • 👍 2K • 💬 541 • ⏱️ 8:56 • 2d ago
+
+---
+
+**[He Started With a $400 Loan… Now His AI Company Is Worth $2.5 Billion | David Stout](https://www.youtube.com/watch?v=h-X3h9L4gU8)**
+
+Get the all-in-one business tool millionaires use to run and grow their companies. Start your free 30-day trial ...
+
+📺 School of Hard Knocks Podcast
+
+👁️ 24K • 👍 744 • 💬 34 • ⏱️ 1:07:03 • 1d ago
+
+---
+
+**[What China Understands About AI That the US Doesn’t](https://www.youtube.com/watch?v=5u2rQevZPF4)**
+
+What China understands about AI that the US doesn't is surprisingly simple. The future of artificial intelligence will not be decided ...
+
+📺 The Infographics Show
+
+👁️ 158K • 👍 4K • 💬 891 • ⏱️ 21:23 • 2d ago
 
 ---
 
@@ -387,7 +383,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 7,870 • ❤️ 895 • 21h ago
+⬇️ 7,870 • ❤️ 908 • 23h ago
 
 ---
 
@@ -399,7 +395,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 200,774 • ❤️ 643 • 2d ago
+⬇️ 200,774 • ❤️ 650 • 2d ago
 
 ---
 
@@ -411,7 +407,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,045,182 • ❤️ 364 • 2d ago
+⬇️ 1,045,182 • ❤️ 372 • 2d ago
 
 ---
 
@@ -423,7 +419,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,096,147 • ❤️ 2,259 • 2d ago
+⬇️ 2,096,147 • ❤️ 2,263 • 3d ago
 
 ---
 
@@ -447,7 +443,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 9,383 • ❤️ 400 • 6d ago
+⬇️ 9,383 • ❤️ 402 • 7d ago
 
 ---
 
@@ -457,7 +453,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 331 • 7d ago
+⬇️ 0 • ❤️ 333 • 8d ago
 
 ---
 
@@ -469,7 +465,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 83,160 • ❤️ 244 • 2d ago
+⬇️ 83,160 • ❤️ 245 • 2d ago
 
 ---
 
@@ -481,7 +477,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,295,313 • ❤️ 2,810 • 3mo ago
+⬇️ 2,295,313 • ❤️ 2,812 • 3mo ago
 
 ---
 
@@ -493,7 +489,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 12,719 • ❤️ 815 • 2h ago
+⬇️ 12,719 • ❤️ 817 • 4h ago
 
 ---
 
@@ -657,7 +653,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.9k • 🔱 1.0k • 7h ago
+⭐ 4.9k • 🔱 1.0k • 9h ago
 
 ---
 
@@ -667,7 +663,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.8k • 🔱 201 • 1h ago
+⭐ 2.8k • 🔱 203 • 3h ago
 
 ---
 
@@ -677,7 +673,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.5k • 🔱 360 • 8h ago
+⭐ 2.5k • 🔱 360 • 10h ago
 
 ---
 
@@ -687,7 +683,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.3k • 🔱 260 • 8d ago
+⭐ 2.3k • 🔱 261 • 9d ago
 
 ---
 
