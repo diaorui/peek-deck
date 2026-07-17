@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T17:38:32.982939+00:00'
+updated: '2026-07-17T19:10:01.191893+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 17:38 UTC  
+**Last Updated:** July 17, 2026 at 19:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,043.51
+### $64,017.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +0.3%  
-**30d:** +1.7%  
-**90d:** -13.2%  
-**1y:** -45.7%  
+**24h:** -0.0%  
+**7d:** +0.4%  
+**30d:** +1.8%  
+**90d:** -13.1%  
+**1y:** -45.6%  
 
 ---
 
@@ -133,7 +133,7 @@ Man bitcoin has done absolutely nothing today. Just sitting there chopping betwe
 
 For context for anyone who is unaware, in 1933 US Government declared all US citizens must sell their Gold to the US government for $20.67 and oz. Forcing their citizens to trade a hard asset for fiat. The next year they turned around and repriced that same gold at $35 an ounce. Is this something you see as a threat to BTC in the future in the United States? Any plans to circumnavigate or protect yourself besides maybe a foreign citizenship?
 
-1d ago
+2d ago
 
 ---
 
@@ -161,7 +161,7 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 level it reached on this week's soft inflation print.
 
-CoinDesk • 44m ago
+CoinDesk • 2h ago
 
 ---
 
@@ -169,39 +169,27 @@ CoinDesk • 44m ago
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
-**[Bitcoin vs. gold: Which is the better store of value?](https://finance.yahoo.com/video/bitcoin-vs-gold-which-is-the-better-store-of-value-161024424.html)**
+**[AI chip selloff drags Bitcoin to $63K](https://finance.yahoo.com/video/ai-chip-selloff-drags-bitcoin-182659161.html)**
 
-Scott Melker discusses the case for bitcoin (BTC-USD) as a better store of value than gold (GC=F), explaining why he believes the cryptocurrency is emerging as the world's premier form of digital hard money.
+A deepening selloff in semiconductor stocks pulled bitcoin to $63,000 on Friday as markets questioned whether AI hyperscaler spending will produce the returns to justify chip valuations. CoinDesk's Sam Ewen hosts "CoinDesk Daily."
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1h ago
-
----
-
-**[$Bitcoin (BTC.CC)$ Getting Better.](https://www.moomoo.com/community/feed/bitcoin-btc-cc-getting-better-116936480653317)**
-
-@Garrisbear 925 Views
-
-Moomoo • 46m ago
+Yahoo Finance • 43m ago
 
 ---
 
 **[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
 **[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -217,7 +205,7 @@ South Dakota Searchlight • 1d ago
 
 Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
 
-Forbes • 5h ago
+Forbes • 7h ago
 
 ---
 
@@ -225,13 +213,21 @@ Forbes • 5h ago
 
 Headline CPI rose 3.5% y/y (vs 3.8% expected), core came in at 2.6%, and monthly prices fell 0.4%, the largest monthly decline and the first negative monthly print since the 2020 pandemic
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 11h ago
 
 ---
 
 **[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
 
 Barchart.com • 1d ago
+
+---
+
+**[Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump’s China Charge, but Onchain Data Points to Buyers](https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-63000)**
+
+Bitcoin price fell below $63,000 as U.S. strikes on Iran and renewed U.S.-China tensions sparked a broader risk-off sell-off, though analysts say resilient onchain data and renewed ETF inflows suggest buyers are quickly stepping back into the market.
+
+Bitcoin Magazine • 5h ago
 
 ---
 
@@ -243,7 +239,7 @@ Barchart.com • 1d ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 20h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -267,7 +263,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 Insomniac Games' upcoming triple-A release has been caught in the midst of an online anti-Sony movement.
 
-⬆️ 1 • 💬 0 • 24m ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
+⬆️ 2 • 💬 0 • 1h ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
 
 ---
 
@@ -301,7 +297,7 @@ Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I b
 
 📺 Prof G Markets
 
-👁️ 11K • 👍 185 • 💬 44 • ⏱️ 1:42 • 5h ago
+👁️ 11K • 👍 185 • 💬 44 • ⏱️ 1:42 • 7h ago
 
 ---
 
@@ -321,7 +317,7 @@ Let's talk about Bitcoin market cycles, and how we can best understand where we 
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 3K • 💬 131 • ⏱️ 7:33 • 21h ago
+👁️ 49K • 👍 3K • 💬 131 • ⏱️ 7:33 • 23h ago
 
 ---
 
@@ -331,7 +327,7 @@ Gold has been humanity's trusted store of value for 5000 years. But is Bitcoin b
 
 📺 Yahoo Finance
 
-👁️ 770 • 👍 81 • 💬 33 • ⏱️ 14:56 • 1h ago
+👁️ 770 • 👍 81 • 💬 33 • ⏱️ 14:56 • 2h ago
 
 ---
 
@@ -351,7 +347,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 554 • 💬 14 • ⏱️ 10:06 • 9h ago
+👁️ 8K • 👍 554 • 💬 14 • ⏱️ 10:06 • 11h ago
 
 ---
 
@@ -361,7 +357,7 @@ AWG: "Bitcoin doesn't generate real wealth." Do you agree or disagree?
 
 📺 Peter H. Diamandis
 
-👁️ 7K • 👍 204 • 💬 44 • ⏱️ 0:51 • 22h ago
+👁️ 7K • 👍 204 • 💬 44 • ⏱️ 0:51 • 23h ago
 
 ---
 

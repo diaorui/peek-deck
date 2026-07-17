@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-17T17:38:32.989065+00:00'
+updated: '2026-07-17T19:10:01.198135+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 17:38 UTC  
+**Last Updated:** July 17, 2026 at 19:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
+**24h:** -1.5%  
 **7d:** +3.1%  
-**30d:** +7.9%  
-**90d:** -18.4%  
+**30d:** +7.8%  
+**90d:** -18.5%  
 **1y:** -48.0%  
 
 ---
@@ -134,7 +134,7 @@ I remember Vitalik tweeting, "You can just build on L1." I am wondering if this 
 
 i produced an explainer on the new wave of ethereum-aligned organizations splintering off from the ethereum foundation: etherealize, the ethereum community foundation, and ETHLabs, launching on june 22nd with five senior EF researchers and significant institutional backing the day after ETHLabs, the EF announced it was cutting 20% of its workforce 🥲 it's been a chaotic, turbulent time within the ethereum ecosystem, and i wanted to document my thoughts on why this is happening now and what that could mean for the future of ethereum. lo and behold, as i was finishing production, yet another independent organization founded by ex-EF team members spawned: ethereum institutional. the story literally outran the edit/production 😂 the evidence points both directions: vitalik was writing about distributing the protocol's brain trust across multiple orgs back in 2017. but you can also read this moment as a centre shrinking faster than what the ecosystem is ready to absorb. video: https://youtu.be/sF3NlQBIQDE genuine question for anyone closer to the research side: is coordination between these orgs actually happening anywhere visible? shared calls, forums, roadmap alignment? ----------- if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-🔗 [youtu.be](https://youtu.be/sF3NlQBIQDE?si=rfgNWDJaA4HoJGXQ) • 3d ago
+🔗 [youtu.be](https://youtu.be/sF3NlQBIQDE?si=rfgNWDJaA4HoJGXQ) • 4d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Decrypt • 21h ago
+Decrypt • 23h ago
 
 ---
 
@@ -166,17 +166,11 @@ Fed Chair Kevin Warsh told Congress the Fed doesn't want to bail out crypto. Her
 
 ---
 
-**[Ethereum to $250,000? Tom Lee Reveals 'ETH 2.0' as Rare Pattern Signals ‘Parabolic Rally’](https://finance.yahoo.com/markets/crypto/articles/ethereum-250-000-tom-lee-105343156.html)**
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://finance.yahoo.com/markets/crypto/articles/ethereum-leads-losses-among-crypto-110943949.html)**
 
-Tom Lee says Ethereum is entering a “2.0 era” that could deliver “radical upside” as Wall Street adoption expands. Ethereum bulls claim a rare ...
+A Politico report suggested the CLARITY Act may struggle to win enough Democratic support in the Senate.
 
-Yahoo Finance • 6h ago
-
----
-
-**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
-
-MarketWatch • 3h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -188,19 +182,17 @@ CoinDesk • 1d ago
 
 ---
 
+**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
+
+MarketWatch • 5h ago
+
+---
+
 **[Current price of Ethereum for July 17, 2026](https://fortune.com/article/price-of-ethereum-07-17-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
-
----
-
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
-
-Stocktwits • 1d ago
+Fortune • 3h ago
 
 ---
 
@@ -208,7 +200,15 @@ Stocktwits • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) came under renewed selling pressure during the second half of the week after staging a modest recovery earlier in the week. BTC trades below $63,600 on Friday, while ETH slips below $1,860 after facing rejection at key resistance levels.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
+
+---
+
+**[Tom Lee Compares Ethereum To AMZN Before AWS, NVDA Before AI Boom – Says ETH Could Solve 'Uncanny Valley Of Wealth'](https://stocktwits.com/news-articles/markets/cryptocurrency/bmnr-tom-lee-compares-ethereum-amazon-nvidia-uncanny-valley-wealth/cZZEf8qR7sh)**
+
+BitMine Immersion Technologies (BMNR) Chairman Tom Lee on Thursday stated that Ethereum (ETH) could be the solution to the “uncanny valley of wealth” in his message to shareholders.
+
+Stocktwits • 1d ago
 
 ---
 
@@ -220,11 +220,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
+**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-fall-after-trumps-speech-today/)**
 
-BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
+President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial
 
-CryptoSlate • 2d ago
+Coinpedia • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 15K • 👍 545 • 💬 113 • ⏱️ 13:38 • 20h ago
+👁️ 15K • 👍 545 • 💬 113 • ⏱️ 13:38 • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, w
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 237 • 💬 5 • ⏱️ 15:12 • 11h ago
+👁️ 3K • 👍 237 • 💬 5 • ⏱️ 15:12 • 12h ago
 
 ---
 
@@ -258,7 +258,7 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 7K • 👍 182 • 💬 29 • ⏱️ 7:55 • 17h ago
+👁️ 7K • 👍 182 • 💬 29 • ⏱️ 7:55 • 19h ago
 
 ---
 
@@ -268,7 +268,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 191 • 👍 15 • 💬 1 • ⏱️ 17:29 • 33m ago
+👁️ 191 • 👍 15 • 💬 1 • ⏱️ 17:29 • 2h ago
 
 ---
 
@@ -286,7 +286,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 104 • 💬 2 • ⏱️ 15:03 • 21h ago
+👁️ 3K • 👍 104 • 💬 2 • ⏱️ 15:03 • 23h ago
 
 ---
 
@@ -316,7 +316,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 4K • 👍 291 • 💬 164 • ⏱️ 54:45 • 17h ago
+👁️ 4K • 👍 291 • 💬 164 • ⏱️ 54:45 • 19h ago
 
 ---
 

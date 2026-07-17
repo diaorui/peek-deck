@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-17T17:38:32.974337+00:00'
+updated: '2026-07-17T19:10:01.183043+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 17, 2026 at 17:38 UTC  
+**Last Updated:** July 17, 2026 at 19:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,35 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Ramp and Token Spend management](https://www.reddit.com/r/artificial/comments/1uz2ro2/ramp_and_token_spend_management/)**
-
-See AI spend across every provider in one dashboard, get weekly savings recommendations, and set soft limits and alerts with Ramp's AI Token Spend Management.
-
-🔗 [ramp.com](https://ramp.com/blog/ai-token-spend-launch) • 2h ago
-
----
-
 **[Linus Torvalds says Linux is not an anti-AI project, and if you don't like that, then "fork it or just walk away"](https://www.reddit.com/r/artificial/comments/1uyuka8/linus_torvalds_says_linux_is_not_an_antiai/)**
 
 The founder of Linux has made his thoughts on AI tools clear, and he's fully on board. He says the Linux kernel does not fear new tools.
 
-🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 8h ago
-
----
-
-**[A new, state-of-the-art, agentic pipeline: concept + track = full audiovisual world](https://www.reddit.com/r/artificial/comments/1uz3o5m/a_new_stateoftheart_agentic_pipeline_concept/)**
-
-A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world. This is a new, significantly expanded version of the original Music Video mode, now built around Seedance 2.0, multiple image references, and an even more precise creative-assistance layer designed to enhance and adapt your vision in an optimally model-aware manner. More experiments, through Instagram.
-
-1h ago
-
----
-
-**[Kimi K3 landed third on the Intelligence Index, ahead of Opus 4.8, and even GPT-5.6 Sol couldn't take #1 from Fable 5. Weights supposedly drop July 27.](https://www.reddit.com/r/artificial/comments/1uyrw6h/kimi_k3_landed_third_on_the_intelligence_index/)**
-
-Been going through the Kimi K3 numbers and I don't think people have fully clocked how big this is. Right now on the Artificial Analysis Intelligence Index, Fable 5 is still #1 (59.9) and even GPT-5.6 Sol (58.9) hasn't managed to pass it. K3 comes in third at 57.1, ahead of Opus 4.8. That is an open-weights model landing within about three points of the single best closed model out there, one that OpenAI's own flagship couldn't overtake. And on the stuff that's harder to fake it's arguably better than third. It tops Program Bench at 77.8 (past both Sol and Fable), and in the blind Frontend Code Arena vote it came out first over every US model. People already had it build a full 3D open-world game in the browser with Three.js/WebGPU, a Long March 10 launch sim, and a working GBA emulator, in about a day. What gets me is the combination: 2.8T params (largest open model ever), ~1M context, priced around half of Opus per task, and the weights are supposed to go public July 27. If that holds, you can just run frontier-adjacent intelligence yourself. I'm trying to stay skeptical. A chunk of the benchmarks are Moonshot's own, the model is only days old, and the weights aren't actually out yet so nobody's self-hosted it. But even with all that, an open model getting this close to the top isn't something we've really seen before. Genuinely curious what this sub thinks: is the "even Sol couldn't beat Fable, but an open model got within three points" framing fair, or am I overrating a launch-week spike? And is anyone planning to actually deploy K3 once the weights drop on the 27th? https://www.kimi.com/pt-br/blog/kimi-k3
-
-10h ago
+🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 9h ago
 
 ---
 
@@ -73,15 +49,23 @@ Been going through the Kimi K3 numbers and I don't think people have fully clock
 
 So much for advanced AI
 
-13m ago
+1h ago
 
 ---
 
-**[I analyzed 60 documented AI coding-agent failures — 47% were critical, and the root cause usually wasn't the model](https://www.reddit.com/r/artificial/comments/1uz3771/i_analyzed_60_documented_ai_codingagent_failures/)**
+**[A new, state-of-the-art, agentic pipeline: concept + track = full audiovisual world](https://www.reddit.com/r/artificial/comments/1uz3o5m/a_new_stateoftheart_agentic_pipeline_concept/)**
 
-I've been maintaining a CVE-style database of real, sourced AI agent failures. With 60 catalogued, the patterns are clear enough to write up: security vulnerabilities and destructive actions make up about half, 47% are critical, and the most common root cause is confidence miscalibration - agents acting decisively on unverified assumptions. Write-up (with links to each incident): https://stupidllm.com/what-60-ai-agent-failures-reveal/ Not selling anything - corrections and submissions welcome.
+A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world. This is a new, significantly expanded version of the original Music Video mode, now built around Seedance 2.0, multiple image references, and an even more precise creative-assistance layer designed to enhance and adapt your vision in an optimally model-aware manner. More experiments, through Instagram.
 
-2h ago
+3h ago
+
+---
+
+**[Kimi K3 landed third on the Intelligence Index, ahead of Opus 4.8, and even GPT-5.6 Sol couldn't take #1 from Fable 5. Weights supposedly drop July 27.](https://www.reddit.com/r/artificial/comments/1uyrw6h/kimi_k3_landed_third_on_the_intelligence_index/)**
+
+Been going through the Kimi K3 numbers and I don't think people have fully clocked how big this is. Right now on the Artificial Analysis Intelligence Index, Fable 5 is still #1 (59.9) and even GPT-5.6 Sol (58.9) hasn't managed to pass it. K3 comes in third at 57.1, ahead of Opus 4.8. That is an open-weights model landing within about three points of the single best closed model out there, one that OpenAI's own flagship couldn't overtake. And on the stuff that's harder to fake it's arguably better than third. It tops Program Bench at 77.8 (past both Sol and Fable), and in the blind Frontend Code Arena vote it came out first over every US model. People already had it build a full 3D open-world game in the browser with Three.js/WebGPU, a Long March 10 launch sim, and a working GBA emulator, in about a day. What gets me is the combination: 2.8T params (largest open model ever), ~1M context, priced around half of Opus per task, and the weights are supposed to go public July 27. If that holds, you can just run frontier-adjacent intelligence yourself. I'm trying to stay skeptical. A chunk of the benchmarks are Moonshot's own, the model is only days old, and the weights aren't actually out yet so nobody's self-hosted it. But even with all that, an open model getting this close to the top isn't something we've really seen before. Genuinely curious what this sub thinks: is the "even Sol couldn't beat Fable, but an open model got within three points" framing fair, or am I overrating a launch-week spike? And is anyone planning to actually deploy K3 once the weights drop on the 27th? https://www.kimi.com/pt-br/blog/kimi-k3
+
+12h ago
 
 ---
 
@@ -89,23 +73,7 @@ I've been maintaining a CVE-style database of real, sourced AI agent failures. W
 
 I want to generate realistic looking images of my Papa who has recently passed using a few pictures of when he was younger. The photos are not the best quality as they were saved from Facebook which badly degrades them. I've played around with a few free upscalers but they look terrible. While trying out some online tools I did find one that was VERY good at reconstructing the face using a bad photo. I don't remember what it was called but think it had one or note in the name? I'm also looking for something you can feed several pictures and generate an image using a prompt. For example: Bobby climbing a mountain or scoring the game winning goal while his teammates celebrate. I do not have a NVIDIA card. I have an AMD Ryzen 3 7320U with Radeon Graphics 2GB card (2.40 GHz) with 16GB RAM. I prefer free or cheap and like the idea of something I can download and not have to pay monthly fees. Open to your thoughts. Many Thanks!
 
-4h ago
-
----
-
-**[What’s an AI tool that exceeded your expectations?](https://www.reddit.com/r/artificial/comments/1uz0zfl/whats_an_ai_tool_that_exceeded_your_expectations/)**
-
-I expected another AI tool that looked impressive on the homepage but didn't hold up in practice. After spending a little time with Readdy AI, I found it more useful than I expected for creating an initial direction. It's definitely not replacing my own decisions, but it has made getting started feel easier. If you've tried it, what was your biggest surprise?
-
-3h ago
-
----
-
-**[AI vs Humans who use AI](https://www.reddit.com/r/artificial/comments/1uz2k6q/ai_vs_humans_who_use_ai/)**
-
-One thing I’ve been thinking about… People are always talking about how AI will replace humans etc etc. As economies of scale take place on AI and it gets cheaper and cheaper to use AI (this is long term after Lindsey effect). Won’t the competitive advantage be for companies who have an ai human enabled workforce? Not sure AI will ever be able to outpace a smart human & ai combined. It seems like the main comparison now is human salary vs ai costs, but in the future when the tech gets dirt cheap (it always does), wouldn’t the champions be the companies whose workforce embraces ai vs some company trying to setup a pure ai shop!
-
-2h ago
+6h ago
 
 ---
 
@@ -113,7 +81,39 @@ One thing I’ve been thinking about… People are always talking about how AI w
 
 Moonshot's Kimi K3, a 2.8 trillion-parameter open-weight AI model, triggered a selloff in AI and semiconductor stocks reminiscent of the 2025 DeepSeek
 
-🔗 [Crypto Briefing](https://cryptobriefing.com/moonshot-kimi-k3-ai-semiconductor-stocks-selloff/) • 3h ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/moonshot-kimi-k3-ai-semiconductor-stocks-selloff/) • 4h ago
+
+---
+
+**[I analyzed 60 documented AI coding-agent failures — 47% were critical, and the root cause usually wasn't the model](https://www.reddit.com/r/artificial/comments/1uz3771/i_analyzed_60_documented_ai_codingagent_failures/)**
+
+I've been maintaining a CVE-style database of real, sourced AI agent failures. With 60 catalogued, the patterns are clear enough to write up: security vulnerabilities and destructive actions make up about half, 47% are critical, and the most common root cause is confidence miscalibration - agents acting decisively on unverified assumptions. Write-up (with links to each incident): https://stupidllm.com/what-60-ai-agent-failures-reveal/ Not selling anything - corrections and submissions welcome.
+
+3h ago
+
+---
+
+**[What’s an AI tool that exceeded your expectations?](https://www.reddit.com/r/artificial/comments/1uz0zfl/whats_an_ai_tool_that_exceeded_your_expectations/)**
+
+I expected another AI tool that looked impressive on the homepage but didn't hold up in practice. After spending a little time with Readdy AI, I found it more useful than I expected for creating an initial direction. It's definitely not replacing my own decisions, but it has made getting started feel easier. If you've tried it, what was your biggest surprise?
+
+4h ago
+
+---
+
+**[How do I create videos like this?](https://www.reddit.com/r/artificial/comments/1uz90l5/how_do_i_create_videos_like_this/)**
+
+I really love this style of videos. How do I create this? Is this created by Sedance or Google flow?
+
+3m ago
+
+---
+
+**[AI vs Humans who use AI](https://www.reddit.com/r/artificial/comments/1uz2k6q/ai_vs_humans_who_use_ai/)**
+
+One thing I’ve been thinking about… People are always talking about how AI will replace humans etc etc. As economies of scale take place on AI and it gets cheaper and cheaper to use AI (this is long term after Lindsey effect). Won’t the competitive advantage be for companies who have an ai human enabled workforce? Not sure AI will ever be able to outpace a smart human & ai combined. It seems like the main comparison now is human salary vs ai costs, but in the future when the tech gets dirt cheap (it always does), wouldn’t the champions be the companies whose workforce embraces ai vs some company trying to setup a pure ai shop!
+
+3h ago
 
 ---
 
@@ -121,31 +121,9 @@ Moonshot's Kimi K3, a 2.8 trillion-parameter open-weight AI model, triggered a s
 
 ## Google News: "ai"
 
-**[Elon Musk's Memphis AI empire is the epicenter of the data center backlash](https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html)**
-
-Data center-related policy proposals, protests and litigation are underway across the country citing Colossus and Memphis as a cautionary tale.
-
-CNBC • 19h ago
-
----
-
 **[A.I. Is Running on Borrowed Money](https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html)**
 
-The New York Times • 4h ago
-
----
-
-**[Huge AI data center rejected in Florida. Why are they so controversial?](https://www.naplesnews.com/story/news/state/florida/2026/07/17/palm-beach-county-florida-artificial-intelligence-data-center/90953199007/)**
-
-Palm Beach County commissioners voted against the expansion of Project Tango, a hyperscale AI data center proposed for a site near Arden.
-
-Naples Daily News • 11m ago
-
----
-
-**[China's open-weight Kimi model stuns AI world with frontier-level results](https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-model-openai-anthropic)**
-
-Axios • 1h ago
+The New York Times • 6h ago
 
 ---
 
@@ -153,39 +131,63 @@ Axios • 1h ago
 
 It's the latest AI model from China to close the performance gap with leading U.S. AI labs.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic](https://www.bbc.com/news/articles/cy9w4q8pgp0o)**
+**[China’s Powerful New Moonshot AI Model Closes Gap With US Rivals](https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals)**
 
-The company has unveiled a massive new artificial intelligence model it says can take on top American firms.
-
-BBC • 45m ago
+Bloomberg.com • 12h ago
 
 ---
 
-**[Microsoft’s Xbox Mistake Is a Preview of Its AI Bet](https://www.barrons.com/articles/microsofts-xbox-mistake-is-a-preview-of-its-ai-bet-a7d9b543)**
+**[Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT](https://apnews.com/article/kimi-k3-china-ai-0d8a5e268deb11a673f4d444fc597cc5)**
 
-Barron's • 15m ago
+Another powerful new artificial intelligence model from China is taking the U.S. tech industry by surprise.
 
----
-
-**[China’s Leader Pitches ‘Openness’ in Push to Shape A.I.’s Future](https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html)**
-
-The New York Times • 7h ago
+AP News • 42m ago
 
 ---
 
-**[Xi pitches China as leader of new global AI order, challenging US dominance](https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/)**
+**[Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives](https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972)**
 
-Reuters • 15h ago
+WSJ • 1d ago
 
 ---
 
-**[China's Xi calls for more global efforts to guide AI, chides U.S. for its curbs on tech sharing](https://www.pbs.org/newshour/world/chinas-xi-calls-for-more-global-efforts-to-guide-ai-chides-us-for-its-curbs-on-tech-sharing)**
+**[About 300 Netflix Titles Used Generative AI This Year, Company Reveals](https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/)**
 
-PBS • 31m ago
+Roughly 300 Netflix programs across the streamer's library have used generative AI across their production process this year, the company revealed.
+
+Variety • 22h ago
+
+---
+
+**[VIDEO: Netflix reveals shows that use A.I. in production](https://www.kiro7.com/news/local/video-netflix-reveals-shows-that-use-ai-production/ebbafbfb-bf9c-471e-bde5-6915159b465b/)**
+
+KIRO 7 News Seattle • 9m ago
+
+---
+
+**[Why Netflix’s AI Push Isn’t Reviving the Stock](https://www.barrons.com/articles/netflix-stock-ai-earnings-4bee5d34)**
+
+Barron's • 1h ago
+
+---
+
+**[How Founders Can Rebuild Entry-Level Work for the AI Era](https://www.inc.com/haotianbai/how-founders-can-rebuild-entry-level-work-for-the-ai-era/91375076)**
+
+Companies still need to turn inexperienced hires into trusted decision-makers.
+
+inc.com • 29m ago
+
+---
+
+**[OpenAI’s CFO: 4 questions that reveal if your AI spend is paying off](https://fortune.com/2026/07/17/openai-cfo-4-questions-reveal-your-ai-spend-paying-off/)**
+
+Forget cost per token. Sarah Friar argues CFOs should judge AI by the work it actually completes.
+
+Fortune • 33m ago
 
 ---
 
@@ -197,7 +199,7 @@ PBS • 31m ago
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 363 • 💬 482 • 21h ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 369 • 💬 496 • 23h ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
@@ -205,7 +207,7 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 The AI agent made for open models, built to get things done.
 
-⬆️ 312 • 💬 113 • 21h ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 313 • 💬 115 • 22h ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
 
 ---
 
@@ -217,7 +219,7 @@ The AI agent made for open models, built to get things done.
 
 **[Mozilla: The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 198 • 💬 136 • 3h ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 259 • 💬 175 • 4h ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -237,7 +239,7 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 151 • 💬 74 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+⬆️ 152 • 💬 78 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -245,7 +247,7 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
 
-⬆️ 142 • 💬 34 • 23h ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+⬆️ 142 • 💬 34 • 1d ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
 
 ---
 
@@ -273,7 +275,7 @@ Create AI Films in Minutes with OpenArt AI Director https://tolt.link/robodirect
 
 📺 Roboverse
 
-👁️ 4K • ⏱️ 11:40 • 1h ago
+👁️ 4K • ⏱️ 11:40 • 2h ago
 
 ---
 
@@ -283,7 +285,7 @@ Try Seedream 5.0 plus other top AI image and video models at Artlist ...
 
 📺 Matt Wolfe
 
-👁️ 6K • 👍 496 • 💬 29 • ⏱️ 23:10 • 2h ago
+👁️ 6K • 👍 496 • 💬 29 • ⏱️ 23:10 • 3h ago
 
 ---
 
@@ -293,7 +295,7 @@ Mira Murati's Thinking Machines just released its first AI model, Inkling. It is
 
 📺 AI Revolution
 
-👁️ 16K • 👍 703 • 💬 49 • ⏱️ 16:46 • 18h ago
+👁️ 16K • 👍 703 • 💬 49 • ⏱️ 16:46 • 19h ago
 
 ---
 
@@ -363,7 +365,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 585K • 👍 22K • 💬 2K • ⏱️ 0:55 • 21h ago
+👁️ 585K • 👍 22K • 💬 2K • ⏱️ 0:55 • 23h ago
 
 ---
 
@@ -391,7 +393,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 200,774 • ❤️ 662 • 1h ago
+⬇️ 200,774 • ❤️ 662 • 3h ago
 
 ---
 
@@ -403,7 +405,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,045,182 • ❤️ 379 • 1h ago
+⬇️ 1,045,182 • ❤️ 379 • 3h ago
 
 ---
 
@@ -649,7 +651,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.9k • 🔱 1.0k • 11h ago
+⭐ 4.9k • 🔱 1.0k • 13h ago
 
 ---
 
@@ -659,7 +661,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.8k • 🔱 205 • 1h ago
+⭐ 2.8k • 🔱 205 • 2h ago
 
 ---
 
@@ -669,7 +671,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.5k • 🔱 360 • 13h ago
+⭐ 2.5k • 🔱 360 • 14h ago
 
 ---
 
@@ -719,7 +721,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 977 • 🔱 60 • 3d ago
+⭐ 977 • 🔱 60 • 4d ago
 
 ---
 

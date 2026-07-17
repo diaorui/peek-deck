@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-17T17:38:32.992319+00:00'
+updated: '2026-07-17T19:10:01.201477+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 17, 2026 at 17:38 UTC  
+**Last Updated:** July 17, 2026 at 19:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,19 +122,25 @@ NVIDIA Blog • 2d ago
 
 ---
 
+**[Roborock’s Big LiDAR Robotic Lawnmower Needs No Satellites](https://gizmodo.com/roborocks-big-lidar-robotic-lawnmower-needs-no-satellites-2000787080)**
+
+Gizmodo • 44m ago
+
+---
+
 **[Fear of humanoid robots spurs human workers to strike at Hyundai auto factory](https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/)**
 
 Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
 
-Ars Technica • 21h ago
+Ars Technica • 23h ago
 
 ---
 
-**[Robots battle with punches, high kicks and even fight on after losing heads in debut global humanoid fighting contest in Shenzhen](https://www.globaltimes.cn/page/202607/1366175.shtml)**
+**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
 
-A white humanoid robot dubbed “White Eagle” sent the crowd into a frenzy Thursday night in Shenzhen, South China’s Guangdong Province after landing a precise high kick to the head of its black-clad opponent, “Matador,” at what organizers billed as the world’s first free humanoid robot fighting competition.
+A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
 
-Global Times • 15h ago
+The Mercury News • 21h ago
 
 ---
 
@@ -142,7 +148,7 @@ Global Times • 15h ago
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-WIRED • 8h ago
+WIRED • 10h ago
 
 ---
 
@@ -150,7 +156,7 @@ WIRED • 8h ago
 
 Sunday Robotics, a $1.15 billion startup, will place Memo robots in homes through a beta program this fall.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -166,15 +172,7 @@ Fortune • 2d ago
 
 /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
 
-PR Newswire • 7h ago
-
----
-
-**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1d ago
+PR Newswire • 8h ago
 
 ---
 
@@ -210,7 +208,7 @@ Hyundai's partial strike this week marks the first car-factory stoppage tied to 
 
 📺 WealthWise
 
-👁️ 502 • 👍 11 • 💬 1 • ⏱️ 1:05 • 5h ago
+👁️ 502 • 👍 11 • 💬 1 • ⏱️ 1:05 • 7h ago
 
 ---
 
