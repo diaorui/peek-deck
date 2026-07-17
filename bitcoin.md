@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-16T23:25:40.022298+00:00'
+updated: '2026-07-17T01:01:46.784158+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 23:25 UTC  
+**Last Updated:** July 17, 2026 at 01:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -0.6%  
-**30d:** -1.1%  
-**90d:** -15.8%  
-**1y:** -46.5%  
+**24h:** -1.2%  
+**7d:** +0.1%  
+**30d:** +1.4%  
+**90d:** -13.4%  
+**1y:** -45.8%  
 
 ---
 
@@ -70,8 +70,8 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 25
-**EXTREME FEAR**
+### 27
+**FEAR**
 
 ---
 
@@ -161,37 +161,21 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
-**[Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years](https://finance.yahoo.com/markets/crypto/articles/dormant-bitcoin-whale-moves-383-154343829.html)**
+**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
 
-The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.
+Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Yahoo Finance • 7h ago
-
----
-
-**[Dormant Bitcoin wallet moves $383 million after 8 years](https://au.finance.yahoo.com/news/dormant-bitcoin-wallet-moves-383-174646831.html)**
-
-A Bitcoin wallet that has sat completely still for eight years just moved nearly $383 million worth of BTC in a single transaction, and the crypto market is paying close attention to what comes next. Blockchain intelligence firm Lookonchain flagged the transaction on X on Thursday, revealing that a ...
-
-Yahoo Finance Australia • 5h ago
+Decrypt • 5h ago
 
 ---
 
-**[A bitcoin wallet dormant since the 2017 peak just moved $383 million](https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million)**
+**[JPMorgan has blunt response to MicroStrategy's cash reserve boost](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-blunt-response-microstrategys-cash-235704224.html)**
 
-The coins went to a fresh address rather than an exchange, so nothing has been sold yet.
-
-CoinDesk • 17h ago
-
----
-
-**[Crypto Market Today, July 16: Bitcoin Pulls Back as Risk Aversion Weighs on Markets](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-july-16-220952948.html)**
-
-Today, July 16, 2026, increasing tensions in the Middle East prompted a sell-off in cryptocurrencies and tech stocks.
+Michael Saylor-led Strategy (Nasdaq: MSTR), formerly MicroStrategy, revealed in its Securities and Exchange Commission (SEC) filing on July 13 that during July 6-12, it sold 4,818,781 company shares worth $466.7 million and used the proceeds from the sale to boost its U.S. ...
 
 Yahoo Finance • 1h ago
 
@@ -201,7 +185,7 @@ Yahoo Finance • 1h ago
 
 Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-South Dakota Searchlight • 8h ago
+South Dakota Searchlight • 9h ago
 
 ---
 
@@ -237,6 +221,20 @@ Investopedia • 1d ago
 
 ---
 
+**[Bitcoin Miners Cash In as AI Hits a Power Bottleneck](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/webinar-bitcoin-miners-cash-in-on-ai-power-bottleneck/)**
+
+ETF Database • 1d ago
+
+---
+
+**[Bitcoin at a turning point, could be 'substantially higher' by year end, says Bitwise CIO](https://www.cnbc.com/video/2026/07/15/bitcoin-at-a-turning-point-could-be-substantially-higher-by-year-end-says-bitwise-cio.html)**
+
+Matt Hougan, Bitwise CIO, joins 'Closing Bell Overtime' to talk tokenization, the recent moves in bitcoin, and more.
+
+CNBC • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -253,7 +251,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 31m ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 2 • 💬 0 • 2h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -285,7 +283,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 Keep Postgres entities synced with turbopuffer using logical replication (beta) - a24films/puffgres
 
-⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/a24films/puffgres)
+⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/a24films/puffgres)
 
 ---
 
@@ -315,7 +313,7 @@ Let's talk about Bitcoin market cycles, and how we can best understand where we 
 
 📺 Benjamin Cowen
 
-👁️ 15K • 👍 1K • 💬 104 • ⏱️ 7:33 • 3h ago
+👁️ 15K • 👍 1K • 💬 104 • ⏱️ 7:33 • 5h ago
 
 ---
 
@@ -325,7 +323,7 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 71K • 👍 4K • 💬 484 • ⏱️ 15:15 • 11h ago
+👁️ 71K • 👍 4K • 💬 484 • ⏱️ 15:15 • 12h ago
 
 ---
 
@@ -335,7 +333,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 119 • 💬 16 • ⏱️ 14:19 • 23h ago
+👁️ 3K • 👍 119 • 💬 16 • ⏱️ 14:19 • 1d ago
 
 ---
 
@@ -345,7 +343,7 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 5K • 👍 478 • 💬 230 • ⏱️ 11:16 • 7h ago
+👁️ 5K • 👍 478 • 💬 230 • ⏱️ 11:16 • 9h ago
 
 ---
 
@@ -355,7 +353,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 612 • 💬 175 • ⏱️ 46:01 • 8h ago
+👁️ 9K • 👍 612 • 💬 175 • ⏱️ 46:01 • 10h ago
 
 ---
 
@@ -375,7 +373,7 @@ Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 177 • 💬 23 • ⏱️ 1:16 • 6h ago
+👁️ 5K • 👍 177 • 💬 23 • ⏱️ 1:16 • 8h ago
 
 ---
 
@@ -385,7 +383,7 @@ Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 12K • 👍 579 • 💬 58 • ⏱️ 18:15 • 10h ago
+👁️ 12K • 👍 579 • 💬 58 • ⏱️ 18:15 • 12h ago
 
 ---
 
@@ -395,7 +393,7 @@ Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to e
 
 📺 Crypto Zombie
 
-👁️ 7K • 👍 780 • 💬 137 • ⏱️ 12:20 • 6h ago
+👁️ 7K • 👍 780 • 💬 137 • ⏱️ 12:20 • 8h ago
 
 ---
 

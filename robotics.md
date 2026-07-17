@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-16T23:25:40.030422+00:00'
+updated: '2026-07-17T01:01:46.792323+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 16, 2026 at 23:25 UTC  
+**Last Updated:** July 17, 2026 at 01:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Here are the demos, a robot arm, a walker, and an RC car, more to come https://flomotion.app/motion/demos
 
-8h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ Here are the demos, a robot arm, a walker, and an RC car, more to come https://f
 
 If you've tried to get into robotics, you've probably hit one of these walls: How do I get started? How do I get from blinking an LED to an autonomous robot? I come from a software (or mechanical, or data) background, what am I missing? I couldn't find a single good answer to these, so I started building one: an open source "tech tree" for robotics. It's a visual skill map. You start at the root and unlock the rest as you go (electronics, mechanics, programming, data science, AI), with hands-on builds as the milestones: blink an LED, a sensor project, a robot arm, a robot dog, and up into more serious AI. The main idea: it's not new content. There is already a ton of great tutorials, courses, and docs out there. The tech tree is just the map that sits on top of it and points you to the right resource for each skill, in an order that makes sense. It's early and nowhere near complete, which is kind of the point. It's fully open on GitHub, so if you have a favorite tutorial, a course that made something finally click, or a resource you wish you'd found sooner, you can add it. PRs and issues welcome, and "you forgot X" comments even more so. Links: Website: https://www.backtoengineering.com/ Repo: https://github.com/iuliaferoli/backtoengineering What would you add, or what's missing from the paths?
 
-6h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ If you've tried to get into robotics, you've probably hit one of these walls: Ho
 
 I love experimenting with different boards for computer vision and robotics :D And when a board labeled "Robotics board" appeared, I decided to investigate it. Previously, I tested Qualcomm, Intel, and a few other boards. And in my opinion, this one is pretty nice on this list. No, of course, all of them are worse than Jetson (except for the price part). But it's nice that vendors are increasingly considering this task. My full overview you can find here: Article - https://medium.com/@zlodeibaal/rdk-s100-review-80-tops-robotic-board-d9ad0f464942 Video - https://youtu.be/WHAEl05g8Xk A few highlights here: The S100 is genuinely fast. Especially for classic computer vision. It's not an "INT8" board, which I hate the most:) Pipelines are nice: Python bindings, easy export, good support of operations, etc. Nice extension board. With ~$ 30, you can add GMSL support and a CAN/30-pin header LeRobot support But of course: It's not "super cheap". Just "cheaper than NX" or "cheaper than Jetson with GMSL" Export is working for general policy. But it tends to fail for accurate actions where a few millimeters of accuracy is required. I am still investigating this Only ACT is supported from LeRobot
 
-10h ago
+12h ago
 
 ---
 
@@ -60,13 +60,13 @@ I love experimenting with different boards for computer vision and robotics :D A
 
 I’ve been working on a small open-source project called LeRobot 3D — a 3D-grounded teleoperation stack for the SO101 robot. Most accessible robot learning pipelines still primarily operate on 2D camera observations. But for many manipulation tasks, what we really care about is inherently 3D: where objects are relative to the robot, what is reachable, what is occluded, and where collisions might occur. LeRobot 3D is an attempt to facilitate 3D grounding as part of the LeRobot stack. The codebase currently supports: 📷 Multi-camera 3D reconstruction — fuse one or more Intel RealSense cameras into a shared live scene point cloud. 🤖 Robot geometry tracking — track the SO101’s URDF geometry alongside the scene using forward kinematics. 🕹️** Teleoperat**ion — control one or more SO101 follower arms from matched leader arms through a config-driven setup. 🌐 Live 3D visualization — visualize the fused scene, robot geometry, and individual robot links in a browser using Viser. 🎯 Camera-to-robot calibration — manually initialize camera alignment and refine extrinsics with multi-scale ICP against the robot’s own URDF mesh. The goal is to provide a simple foundation for building 3D-aware robot learning systems without having to rebuild camera calibration, point-cloud fusion, robot geometry tracking, and visualization infrastructure for every new project. https://github.com/SergioMOrozco/lerobot\_3d The project is open source (and in active development). Contributions are welcome and encouraged! Thanks :)
 
-23h ago
+1d ago
 
 ---
 
 **[Dark environment test for 3DTOF LIDAR HM-LD1](https://www.reddit.com/r/robotics/comments/1uy2qux/dark_environment_test_for_3dtof_lidar_hmld1/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’ve been working on a small open-source project called LeRobot 3D — a 3D-gr
 
 A six-week UK trial paired Age UK volunteers with older adults through telepresence robots placed in their homes. Volunteers used the robots for regular social interaction and to guide participants through personalized exercise plans two to three times per week. Researchers reported small reductions in physical frailty, improved confidence and increased digital literacy. Some participants also became comfortable enough to begin socializing outside their homes again. The project is now being used to inform UK policy discussions around standards, procurement, regulation and implementation of assistive robots in health and social care.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/telepresence-robots-can-help-prevent-loneliness-and-improve-health-report) • 5h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/telepresence-robots-can-help-prevent-loneliness-and-improve-health-report) • 7h ago
 
 ---
 
@@ -82,7 +82,7 @@ A six-week UK trial paired Age UK volunteers with older adults through teleprese
 
 Background: I confounded a startup last year on Execution as a Service model. We're two confounders, and a core team of 5 guys. 4 of us used to be at xAI human data. And collectively we've worked for most of the leading genAI companies in the human data space. We started off as a managed outsourcing platform where we assign a frac COO to handle your entire outsourcing ops across functionalities which also included AI annotation and labelling. The problem: We were trying to secure contracts all over the place. Though we had 150+ registered fulfilment partners, and we secured some sizable contracts, I was genuinely confused about the growth and the direction of the company, specially with the kind of developments happening in the ops domain. I just brokered a deal valued at over 100k just for sharing internal ops data for AI training. We can't predict exactly how would the space look like. The present: The outsourcing business isn't fully justified to the kind of profiles the core team has. We were being reduced a software and marketing firm. We figured out that we need to stay relevant in the data industry. With the logistical edge that I have, and the trial run I did, I am very confident about working on physical data. We collected over 10 hours sample dataset spanning across household, industrial, construction, and electrical egocentric data. The question: Before we jump into physical data, I am genuinely looking for researchers' perspectives on ego-exocentric vs synthetic data. I understand that the upfront cost is high for synthetic, but long term cost is significantly cheaper, but how does the difference play out in the actual training workplace. TIA
 
-6h ago
+7h ago
 
 ---
 
@@ -98,7 +98,7 @@ Fruit harvesting remains one of the most challenging robotics applications. Dete
 
 I have been thinking of building a project where a robotic arm is controlled by a local VLM model. In my understanding I feed the VLM a 2D image of the object infront of the robot and query the vlm task like "grab the hammer" and VLM provides the 2D co-ordinates and then it goes to moveit and moveit plans the mission. I'm still at the vague idea state, any kind of input or reference or guide will be appreciated! Thank you in advance!!
 
-10h ago
+12h ago
 
 ---
 
@@ -122,33 +122,39 @@ NVIDIA Blog • 1d ago
 
 ---
 
+**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
+
+NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
+
+NVIDIA Blog • 1d ago
+
+---
+
 **[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
 
-Reuters • 18h ago
+Reuters • 9h ago
 
 ---
 
-**[Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’](https://apnews.com/article/ai-nvidia-fujitsu-japan-technology-robots-tokyo-86823c1bcc959ad603ecb25d022207b1)**
+**[Nvidia Releases New Robotics AI Model](https://www.theinformation.com/briefings/nvidia-releases-new-robotics-ai-model)**
 
-Japanese communications company Fujitsu is leading a major push in artificial intelligence and robotics using Nvidia’s technology to develop “physical AI.”
+Nvidia on Wednesday released a new small, open-source model for “physical” AI that operates in the real world, including for robots. 
 
-AP News • 15h ago
+ The model, Cosmos 3 Edge, is just 4 billion parameters and can run on a customer’s own computer rather than in a data center. It can act as both a so-called vision language model or a world model, both of which help robots navigate or understand their
 
----
-
-**[Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier](https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier)**
-
-NVIDIA today announced that Japan’s physical AI leaders are building on the NVIDIA Cosmos™, NVIDIA Isaac™, NVIDIA Metropolis and NVIDIA Jetson™ platforms to accelerate the deployment of intelligent machines across manufacturing, mobility, infrastructure and robotics.
-
-NVIDIA Newsroom • 19h ago
+The Information • 1d ago
 
 ---
 
-**[Humanoid robots perform live surgery in world first](https://www.foxnews.com/tech/humanoid-robots-perform-live-surgery-world-first)**
+**[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
 
-Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.
+WSJ • 1d ago
 
-Fox News • 2d ago
+---
+
+**[China Sends Robots Out Into the World to Learn How to Be Human](https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -156,13 +162,7 @@ Fox News • 2d ago
 
 I spent an hour with Humanoid's Sotirios Stasinopoulos in the company's UK headquarters. In spite of huge competition, their humanoid robot strategy looks impressive.
 
-Forbes • 12m ago
-
----
-
-**[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
-
-WSJ • 1d ago
+Forbes • 41m ago
 
 ---
 
@@ -184,7 +184,7 @@ MassDevice • 1d ago
 
 **[Pittsburgh’s Gecko Robotics opening manufacturing facility in Aleppo Township](https://triblive.com/local/sewickley/pittsburghs-gecko-robotics-opening-manufacturing-facility-in-sewickley/)**
 
-TribLIVE.com • 4h ago
+TribLIVE.com • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ Mimic Robotics, a 2-year-old Swiss startup spun out of ETH Zurich, just introduc
 
 📺 Kalil 4.0
 
-👁️ 425 • 👍 24 • 💬 1 • ⏱️ 0:54 • 2h ago
+👁️ 425 • 👍 24 • 💬 1 • ⏱️ 0:54 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ Panoculon Labs is a startup located in HSR Layout, Bengaluru, that designs and m
 
 📺 RuntimeBRT
 
-👁️ 71K • 👍 4K • 💬 138 • ⏱️ 2:51 • 15h ago
+👁️ 71K • 👍 4K • 💬 138 • ⏱️ 2:51 • 16h ago
 
 ---
 

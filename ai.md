@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-16T23:25:40.014552+00:00'
+updated: '2026-07-17T01:01:46.776312+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 16, 2026 at 23:25 UTC  
+**Last Updated:** July 17, 2026 at 01:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.](https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 6h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/meta-disability-lawsuit-22347135.php) • 8h ago
 
 ---
 
@@ -51,11 +51,19 @@ Thirty-nine Flock contracts were terminated in the first five months of 2026.
 
 ---
 
+**[Finally, an AI start up with a Billion-dollar revenue not valuation (backed by Nvidia )](https://www.reddit.com/r/artificial/comments/1uycu7x/finally_an_ai_start_up_with_a_billiondollar/)**
+
+Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models
+
+🔗 [CNBC](https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html) • 5h ago
+
+---
+
 **[I made something that feels like GPT-Live but you can run it yourself in Rust](https://www.reddit.com/r/artificial/comments/1uyhujs/i_made_something_that_feels_like_gptlive_but_you/)**
 
 I really liked the conversational feel of GPT-Live, so I wanted to build something similar that could run locally. I’ve spent some time developing a project called OpenLive—written in Rust—which serves as a self-hosted voice agent runtime. My main goal was to make the conversation feel natural; for instance, allowing for interruptions and ensuring quick responses, all while keeping everything running on my own machine. It features a clean real-time voice interface with an animated sphere, uses Piper for speech synthesis, and includes client-side noise reduction and voice activity detection. I’ve also integrated some simple tools and agents so it can do more than just chat—it can actually perform tasks. It’s still an early version, but the voice functionality is already working, and the flow feels smoother than I expected. You can find the project link in the first comment below if you're interested. I’m curious if anyone else has built a local voice agent—how did you manage to make the conversation feel natural? This project is still in its early stages, and I’d love to gather more suggestions. GitHub: https://github.com/byte271/Openlive
 
-43m ago
+2h ago
 
 ---
 
@@ -71,15 +79,7 @@ Anthropic’s alignment team published case studies of four concrete failure mod
 
 I've been following semiconductor stocks pretty closely this year, and one thing from this week really stood out to me. Broadcom announces a long-term Apple deal and the stock jumps almost 11%. Samsung reports record profits. SK hynix pulls off one of the biggest listings we've seen. And... memory stocks barely move. The more I think about it, the more it feels like the market isn't rewarding "good news" anymore. It's rewarding new information. Everyone already knew HBM demand was insane. Everyone already knew memory pricing was improving. Samsung's numbers basically confirmed what investors had been pricing in for months. Broadcom was different. The Apple agreement gave investors something new to value—a named customer, a long-term commitment, and another data point supporting the custom silicon story. I'm wondering if this becomes the pattern for the rest of the year. Maybe the easy money in AI isn't about buying every company exposed to AI anymore. Maybe it's about identifying who gets the next unexpected catalyst. Curious what everyone else thinks. Are memory names actually priced in now, or is the market underestimating how much earnings can keep growing?
 
-3h ago
-
----
-
-**[Finally, an AI start up with a Billion-dollar revenue not valuation (backed by Nvidia )](https://www.reddit.com/r/artificial/comments/1uycu7x/finally_an_ai_start_up_with_a_billiondollar/)**
-
-Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models
-
-🔗 [CNBC](https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html) • 3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper
 
 Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.
 
-🔗 [AP News](https://apnews.com/article/meta-artificial-intelligence-instagram-images-privacy-4df3bdb3fec6e046c6562accc2d270a5?utm_source=copy&utm_medium=share) • 4h ago
+🔗 [AP News](https://apnews.com/article/meta-artificial-intelligence-instagram-images-privacy-4df3bdb3fec6e046c6562accc2d270a5?utm_source=copy&utm_medium=share) • 6h ago
 
 ---
 
@@ -95,7 +95,15 @@ Meta has pulled the plug on a feature of a recently launched AI tool following c
 
 Just for fun: from this projection, can you guess the model? Don't look up the watermark. It might point you in the wrong direction. I'll reveal the answer in a day or so.
 
-30m ago
+2h ago
+
+---
+
+**[Elon Musk’s Grok Faces a Trust Crisis After Developers Flag a Major Privacy Concern](https://www.reddit.com/r/artificial/comments/1ux4dnf/elon_musks_grok_faces_a_trust_crisis_after/)**
+
+New from me, shedding light on the Grok Build debacle including an interview with the developer who kicked it all off.
+
+🔗 [Inc](https://www.inc.com/julie-lee/elon-musks-grok-faces-a-trust-crisis-after-developers-flag-a-major-privacy-concern/91374258) • 1d ago
 
 ---
 
@@ -103,15 +111,7 @@ Just for fun: from this projection, can you guess the model? Don't look up the w
 
 the instinct in here that company data shouldn't go live in a vendor cloud is right, and it holds up better than most of the takes it sits next to. private vpc or on-prem is also a mostly solved shape at this point, plenty of vendors will sell you that box. The part I keep watching people walk into is downstream of that. Once it's running inside your own vpc, the agent can still only touch what has a connector. Gmail, Slack, Notion, Linear, those ship in the box. The internal billing tool, the ops dashboard someone built in 2019, the thing your whole approval chain actually runs through, none of those have one. and those are exactly the systems the 50-person company wanted the agent in when they started the conversation. Runner's business tier is the version of this I've looked at closest: private on-prem or vpc, plus custom mcp connectors for internal systems. what stood out was the ordering. the deployment topology is about a week. Mapping your weird internal stuff into something an agent can actually call is the real project, and nobody scopes it that way going in. deployment is the question that gets asked in procurement. connector coverage is the one that decides whether anyone still opens it in month three. written with ai
 
-4h ago
-
----
-
-**[AI Is this legal?](https://www.reddit.com/r/artificial/comments/1uyb9ud/ai_is_this_legal/)**
-
-My friend received an email from his financial advisor. Just one paragraph giving a few thoughts and said if he had any questions or thoughts he could email back. Right after that he received an EI generated email giving him suggestions on things he could email back by just clicking the link. Does this sound legal to you that anyone can have access to your emails?
-
-4h ago
+5h ago
 
 ---
 
@@ -121,51 +121,47 @@ My friend received an email from his financial advisor. Just one paragraph givin
 
 **[Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
 **[Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives](https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972)**
 
-WSJ • 22h ago
+WSJ • 23h ago
 
 ---
 
-**[China's open-weight Kimi model stuns AI world with frontier-level results](https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-model-openai-anthropic)**
+**[Axios House D.C.: AI is reshaping America's industrial future](https://www.axios.com/2026/07/17/axios-house-dc-ai-reshaping-americas-industrial-future)**
 
-Axios • 41m ago
-
----
-
-**[About 300 Netflix Titles Used Generative AI This Year, Company Reveals](https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/)**
-
-Roughly 300 Netflix programs across the streamer's library have used generative AI across their production process this year, the company revealed.
-
-Variety • 2h ago
+Axios • 12m ago
 
 ---
 
-**[Netflix Content Spend Accelerates, As Do Savings From AI, Ted Sarandos Says Streamer Has Used It In 300 Productions](https://deadline.com/2026/07/netflix-2026-content-spend-accelerates-generative-ai-savings-1236984524/)**
+**[Parkland man accused in AI-generated child pornography case after tip from Grok, investigators say](https://www.cbsnews.com/miami/news/parkland-man-accused-in-ai-generated-child-pornography-case-after-tip-from-grok-investigators-say/)**
 
-Netflix co-CEO Ted Sarandos sees 2026 content spend rising 10% but notes savings from generative AI, which the streamer's used in about 300 productions.
+A cyber tip about AI-generated images led to an arrest in Parkland. Advocates warn parents to closely monitor kids' use of AI apps.
 
-Deadline • 45m ago
-
----
-
-**[Netflix says around 300 titles used generative AI](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings)**
-
-The American Experiment docuseries includes 17-minutes of ‘AI-enhanced’ footage.
-
-The Verge • 2h ago
+CBS News • 16m ago
 
 ---
 
-**[Thousands of Google workers demand layoff protections amid AI boom in petition to CEO](https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai)**
+**[3 of our stocks rode the AI rally, while 3 others fell out of favor since last month](https://www.cnbc.com/2026/07/16/3-of-our-stocks-rode-the-ai-rally-while-3-others-fell-out-of-favor-since-last-month.html)**
 
-The petition to Sundar Pichai, the CEO, included more than 4,500 signatures and included calls for buyout options
+Ahead of the CNBC Investing Club's July Monthly Meeting, here's a look at what moved our three top and bottom performers since our last meeting.
 
-The Guardian • 1h ago
+CNBC • 10h ago
+
+---
+
+**[China AI Stocks’ 1000%-Plus Profit Gain May Fail to Revive Rally](https://www.bloomberg.com/news/articles/2026-07-17/china-ai-stocks-1000-plus-profit-gain-may-fail-to-revive-rally)**
+
+Bloomberg.com • 32m ago
+
+---
+
+**[The Lehman Bros. moment of the AI bubble is coming, says this critic warning of fallout for tech stocks and the entire market](https://www.marketwatch.com/story/the-lehman-brothers-of-the-ai-bubble-is-coming-says-this-critic-warning-of-a-fallout-for-tech-and-the-entire-market-eec47e4d)**
+
+MarketWatch • 11h ago
 
 ---
 
@@ -173,7 +169,7 @@ The Guardian • 1h ago
 
 Alphabet announced the Gemini 3.5 Pro AI  in May, saying it was being used internally but wouldn't be ready for a broader rollout until the following month.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -181,13 +177,15 @@ CNBC • 4h ago
 
 NotebookLM is now Gemini Notebook: the same standalone product with deeper Google integration and a secure cloud computer.
 
-blog.google • 7h ago
+blog.google • 8h ago
 
 ---
 
-**[Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race](https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205)**
+**[One of the world’s most prominent hospitals is testing how AI can revolutionize health care](https://www.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare)**
 
-MarketWatch • 1h ago
+Mayo Clinic, one of the world’s most well-known hospital systems, is using AI in hopes of improving patient care and, ultimately, saving lives.
+
+CNN • 16h ago
 
 ---
 
@@ -199,13 +197,13 @@ MarketWatch • 1h ago
 
 Reflections on autonomy and the value of thinking for ourselves
 
-⬆️ 520 • 💬 475 • 2d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
+⬆️ 521 • 💬 475 • 2d ago • [artfish.ai](https://www.artfish.ai/p/offloading-thinking-to-ai)
 
 ---
 
 **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
 
-⬆️ 288 • 💬 103 • 1d ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+⬆️ 288 • 💬 104 • 1d ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 
 ---
 
@@ -233,21 +231,7 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 https://t.co/PTeDiv1b6L
 
-⬆️ 155 • 💬 201 • 2d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
-
----
-
-**[German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://news.ycombinator.com/item?id=48937756)**
-
-A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
-
-⬆️ 115 • 💬 25 • 5h ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
-
----
-
-**[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
-
-⬆️ 106 • 💬 112 • 1d ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
+⬆️ 156 • 💬 201 • 2d ago • [X (formerly Twitter)](https://twitter.com/demishassabis/status/2076957440109625718)
 
 ---
 
@@ -255,7 +239,21 @@ A German research consortium has released Soofi S 30B-A3B, an open language mode
 
 The AI agent made for open models, built to get things done.
 
-⬆️ 106 • 💬 36 • 3h ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 143 • 💬 57 • 4h ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+
+---
+
+**[German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://news.ycombinator.com/item?id=48937756)**
+
+A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
+
+⬆️ 120 • 💬 27 • 7h ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+
+---
+
+**[We don't use AI in any of our design or production processes](https://news.ycombinator.com/item?id=48927373)**
+
+⬆️ 107 • 💬 112 • 1d ago • [mass-driver.com](https://mass-driver.com/article/from-human-hands)
 
 ---
 
@@ -263,7 +261,7 @@ The AI agent made for open models, built to get things done.
 
 I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
 
-⬆️ 103 • 💬 110 • 18h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+⬆️ 103 • 💬 112 • 20h ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
 
 ---
 
@@ -287,7 +285,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 11K • 👍 336 • 💬 98 • ⏱️ 20:51 • 7h ago
+👁️ 11K • 👍 336 • 💬 98 • ⏱️ 20:51 • 8h ago
 
 ---
 
@@ -297,7 +295,7 @@ Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist 
 
 📺 George Gammon
 
-👁️ 107K • 👍 4K • 💬 753 • ⏱️ 28:35 • 23h ago
+👁️ 107K • 👍 4K • 💬 753 • ⏱️ 28:35 • 1d ago
 
 ---
 
@@ -307,7 +305,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 5K • 👍 291 • 💬 97 • ⏱️ 14:23 • 3h ago
+👁️ 5K • 👍 291 • 💬 97 • ⏱️ 14:23 • 5h ago
 
 ---
 
@@ -327,7 +325,7 @@ The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-ma
 
 📺 Nick Ponte
 
-👁️ 4K • 👍 143 • 💬 28 • ⏱️ 8:55 • 8h ago
+👁️ 4K • 👍 143 • 💬 28 • ⏱️ 8:55 • 10h ago
 
 ---
 
@@ -347,7 +345,7 @@ HEY THERE! In today's video I let AI control me in BROOKHAVEN... does it get out
 
 📺 IBella
 
-👁️ 8K • 👍 613 • 💬 192 • ⏱️ 11:32 • 3h ago
+👁️ 8K • 👍 613 • 💬 192 • ⏱️ 11:32 • 5h ago
 
 ---
 
@@ -383,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 4 • ❤️ 795 • 7h ago
+⬇️ 4 • ❤️ 795 • 9h ago
 
 ---
 
@@ -465,7 +463,7 @@ Hy3 is a 295B parameter Mixture-of-Experts (MoE) text-generation model with 21B 
 
 `text-generation` `298.8B`
 
-⬇️ 11,849 • ❤️ 812 • 19h ago
+⬇️ 11,849 • ❤️ 812 • 21h ago
 
 ---
 
@@ -653,7 +651,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.8k • 🔱 1.0k • 7h ago
+⭐ 4.8k • 🔱 1.0k • 8h ago
 
 ---
 
@@ -663,7 +661,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.7k • 🔱 193 • 7h ago
+⭐ 2.8k • 🔱 196 • 9h ago
 
 ---
 
@@ -713,7 +711,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 993 • 🔱 17 • 8d ago
+⭐ 992 • 🔱 17 • 8d ago
 
 ---
 
@@ -741,7 +739,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 876 • 🔱 34 • 15d ago
+⭐ 877 • 🔱 35 • 15d ago
 
 ---
 

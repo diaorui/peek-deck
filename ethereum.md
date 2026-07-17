@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-16T23:25:40.027546+00:00'
+updated: '2026-07-17T01:01:46.789455+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 16, 2026 at 23:25 UTC  
+**Last Updated:** July 17, 2026 at 01:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,875.41
+### $1,850.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** +3.4%  
-**30d:** +6.1%  
-**90d:** -20.9%  
-**1y:** -46.5%  
+**24h:** -3.1%  
+**7d:** +4.3%  
+**30d:** +9.1%  
+**90d:** -17.5%  
+**1y:** -47.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
 
 One thing I've been thinking about recently is that blockchains are great at verifying digital information—but they still struggle to verify physical reality. For example: Did someone actually visit a location? Was a delivery completed? Did an inspection really happen? Can an AI agent prove it interacted with the physical world? GPS alone isn't enough anymore, and centralized systems require trust. I've been working on an open protocol called GeoProof that explores using multi-signal verification to generate cryptographically verifiable attestations for real-world events. The goal isn't to replace existing blockchains, but to provide a reusable verification layer that applications can integrate regardless of which chain they use. I'd really appreciate feedback on whether this problem is worth solving and whether you think an open protocol is the right approach. Website: https://geoproof.xyz Documentation is public and constructive criticism is very welcome.
 
-1d ago
+2d ago
 
 ---
 
@@ -158,11 +158,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Tom Lee Says Ethereum’s Biggest Bull Case Is No Longer Crypto](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-biggest-215256299.html)**
+**[Bitcoin and ethereum prices today, Thursday, July 16, 2026: Prices rise, ethereum becomes 'increasingly compelling'](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-16-2026-prices-rise-ethereum-becomes-increasingly-compelling-124218108.html)**
 
-Tom Lee says Wall Street adoption, not speculation, now drives the Ethereum bull case as Robinhood Chain makes ETH money.
+Bitcoin opened at $64,720.36 on Thursday, July 16, 2026, down 0.4% from Wednesday's opening price. Ethereum opened at $1,917.05, up 1.5% from yesterday's opening price.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1h ago
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Decrypt • 3h ago
+Decrypt • 5h ago
 
 ---
 
@@ -190,25 +190,25 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Just Published a New Road Map, and It's Missing Something Important](https://www.fool.com/investing/2026/07/16/something-is-missing-from-ethereums-new-road-map/)**
+**[Ethereum Has a Bold New Plan for 2029. What Will Be the Impact on the Price of ETH?](https://www.fool.com/investing/2026/07/15/ethereum-has-a-bold-new-plan-for-2029/)**
 
-The hole at the center of the investment thesis for Ethereum is becoming harder to ignore.
+The chain's updated technical roadmap will see it add major new features.
 
-The Motley Fool • 3h ago
-
----
-
-**[Current price of Ethereum for July 16, 2026](https://fortune.com/article/price-of-ethereum-07-16-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 9h ago
+The Motley Fool • 1d ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
 
-MarketWatch • 9h ago
+MarketWatch • 11h ago
+
+---
+
+**[Tom Lee Compares Ethereum To AMZN Before AWS, NVDA Before AI Boom – Says ETH Could Solve 'Uncanny Valley Of Wealth'](https://www.tradingview.com/news/stocktwits:6d0b38c25094b:0-tom-lee-compares-ethereum-to-amzn-before-aws-nvda-before-ai-boom-says-eth-could-solve-uncanny-valley-of-wealth/)**
+
+BitMine Immersion Technologies (BMNR) Chairman Tom Lee on Thursday stated that Ethereum (ETH) could be the solution to the “uncanny valley of wealth” in his message to shareholders.Lee compared Ethereum's current stage to Amazon (AMZN) before AWS transformed the company's growth trajectory and Nvid…
+
+TradingView • 11h ago
 
 ---
 
@@ -216,7 +216,7 @@ MarketWatch • 9h ago
 
 Cryptocurrencies are broadly consolidating on Thursday, while Bitcoin (BTC) retreats toward support at $64,000. Ethereum (ETH) hovers below $1,800, with its upside seemingly limited, following a macro-driven rally.
 
-FXStreet • 10h ago
+FXStreet • 12h ago
 
 ---
 
@@ -236,7 +236,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 2K • 👍 210 • 💬 26 • ⏱️ 13:38 • 2h ago
+👁️ 2K • 👍 210 • 💬 26 • ⏱️ 13:38 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin 
 
 📺 DataDash
 
-👁️ 2K • 👍 83 • 💬 54 • ⏱️ 12:55 • 7h ago
+👁️ 2K • 👍 83 • 💬 54 • ⏱️ 12:55 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 796 • 👍 46 • 💬 1 • ⏱️ 15:03 • 3h ago
+👁️ 796 • 👍 46 • 💬 1 • ⏱️ 15:03 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 432 • 💬 301 • ⏱️ 14:25 • 23h ago
+👁️ 7K • 👍 432 • 💬 301 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry s
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 534 • 💬 44 • ⏱️ 51:54 • 20h ago
+👁️ 8K • 👍 534 • 💬 44 • ⏱️ 51:54 • 22h ago
 
 ---
 
@@ -296,7 +296,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 928 • 👍 114 • 💬 7 • ⏱️ 6:41 • 2h ago
+👁️ 928 • 👍 114 • 💬 7 • ⏱️ 6:41 • 4h ago
 
 ---
 
@@ -314,7 +314,7 @@ In 2021 Ethereum Pumped vs Bitcoin and Triggered Altcoin Season. Is This Going T
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 563 • 💬 55 • ⏱️ 2:00 • 22h ago
+👁️ 7K • 👍 563 • 💬 55 • ⏱️ 2:00 • 1d ago
 
 ---
 
@@ -324,7 +324,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 103 • 💬 54 • ⏱️ 48:10 • 9h ago
+👁️ 2K • 👍 103 • 💬 54 • ⏱️ 48:10 • 11h ago
 
 ---
 
