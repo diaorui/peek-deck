@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T11:06:47.149525+00:00'
+updated: '2026-07-17T12:43:09.119135+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 11:06 UTC  
+**Last Updated:** July 17, 2026 at 12:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -1.1%  
-**30d:** +0.3%  
-**90d:** -14.4%  
-**1y:** -46.4%  
+**24h:** -2.0%  
+**7d:** -1.2%  
+**30d:** +0.2%  
+**90d:** -14.5%  
+**1y:** -46.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1260.85B
+**Market Cap:** $1265.33B
 Rank #1
 
-**Circulating Supply:** 20,057,431 BTC
+**Circulating Supply:** 20,057,481 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.1%
+-50.0%
 
 **All-Time Low:** $67.81
-+92631.2%
++92932.0%
 
 ---
 
@@ -103,7 +103,7 @@ Bitcoin was having a great this year until one lightning strike hit the market.
 
 At the previous low of around 16K many were waiting on the side line, hoping for 12K, which is 25%. If the bottem is already in, around 58K, all the people waiting for another 25% drop, which will be around 43K, will be left behind. Funny that 42-45K is a price I see being thrown around very often. The big boys know thousands of people are waiting for 45K prices in october, therefore I simply don’t think we’re going to see those lows.
 
-1d ago
+2d ago
 
 ---
 
@@ -141,7 +141,7 @@ For context for anyone who is unaware, in 1933 US Government declared all US cit
 
 Bitcoin surged from under $63,000 to peak at $64,913 intraday, with the 4.2% gain pushing total crypto market capitalization past $2.3 trillion.
 
-1d ago
+2d ago
 
 ---
 
@@ -161,7 +161,7 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.
 
-CoinDesk • 6h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -169,53 +169,21 @@ CoinDesk • 6h ago
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 15h ago
+The Block • 17h ago
 
 ---
 
 **[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
-Bloomberg.com • 40m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[World Of Forbes: From Latin America’s Biggest YouTuber To A Bitcoin Effort In South Africa](https://www.forbes.com/sites/kerryadolan/2026/07/17/world-of-forbes-from-latin-americas-biggest-youtuber-to-a-bitcoin-effort-in-south-africa/)**
+**[Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tests-63k-long-term-112116727.html)**
 
-Snapshots of entrepreneurial capitalism from some of Forbes’ nearly four dozen global editions, from Peru to Belgium to Guinea.
+Some two-thirds of the coins moving onto exchanges are long-term holders taking losses, as a macro risk-off drags on Bitcoin’s price.
 
-Forbes • 1h ago
-
----
-
-**[Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds](https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds)**
-
-Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely.
-
-CoinDesk • 2h ago
-
----
-
-**[XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis](https://finance.yahoo.com/markets/crypto/articles/xrp-cant-keep-bitcoin-takes-165654756.html)**
-
-The post-CPI rally gave XRP a nudge. The coin barely moved. Now the chart is filling in the picture.
-
-Yahoo Finance • 18h ago
-
----
-
-**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
-
-Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
-
-Decrypt • 15h ago
-
----
-
-**[Bitcoin jumps to $65,000: 'Backdrop for crypto is improving'](https://finance.yahoo.com/markets/crypto/article/bitcoin-jumps-to-65000-backdrop-for-crypto-is-improving-144838821.html)**
-
-Bitcoin jumped nearly 2% on Wednesday to hover above $65,000 per token, while ethereum rose 3%.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -223,7 +191,37 @@ Yahoo Finance • 1d ago
 
 Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-South Dakota Searchlight • 19h ago
+South Dakota Searchlight • 21h ago
+
+---
+
+**[Market Brief: Warsh Won't Bless The Cool CPI, But Bitcoin And Gold Surge Anyway](https://seekingalpha.com/article/4922878-market-brief-warsh-wont-bless-cool-cpi-but-bitcoin-gold-surge-anyway)**
+
+Headline CPI rose 3.5% y/y (vs 3.8% expected), core came in at 2.6%, and monthly prices fell 0.4%, the largest monthly decline and the first negative monthly print since the 2020 pandemic
+
+Seeking Alpha • 4h ago
+
+---
+
+**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
+
+Barchart.com • 21h ago
+
+---
+
+**[Stanford Study Flags Bitcoin Market Manipulation on Polymarket](https://www.tradingview.com/news/coinpedia:f6d5617da094b:0-stanford-study-flags-bitcoin-market-manipulation-on-polymarket/)**
+
+A new study by Stanford University and Singapore Management University says Polymarket’s five-minute Bitcoin prediction markets may have given sophisticated traders an unfair advantage. After analyzing nearly 16,000 Bitcoin contracts over two months, researchers found trading patterns that suggest…
+
+TradingView • 10h ago
+
+---
+
+**[Bitcoin Depot files for bankruptcy, some Alaskans could be eligible for compensation](https://www.alaskasnewssource.com/2026/07/14/bitcoin-depot-files-bankruptcy-some-alaskans-could-be-eligible-compensation/)**
+
+Bitcoin Depot Operating LLC, a company that ran cryptocurrency kiosks across the country, filed for bankruptcy in May, and Alaskans who lost money from a scam involving one may be able to get some back
+
+Alaska's News Source • 2d ago
 
 ---
 
@@ -231,7 +229,7 @@ South Dakota Searchlight • 19h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -243,7 +241,7 @@ Fortune • 1h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 12h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 13h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -283,23 +281,43 @@ Read this crypto post from greatHydra_997 posted on 2026/07/10 on CoinMarketCap�
 
 ## YouTube Videos: "bitcoin"
 
-**[My Conservative Bitcoin Model: Why I’m Planning for $253K](https://www.youtube.com/watch?v=N_nGVK6pzW0)**
-
-Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm planning for something very different — about $253000.
-
-📺 Betirement
-
-👁️ 10K • 👍 647 • 💬 310 • ⏱️ 11:16 • 19h ago
-
----
-
 **[“I’m Very Bullish” BlackRock Crypto Pump &amp; Dump Plan Revealed!](https://www.youtube.com/watch?v=Iews2OqDoyU)**
 
 I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 90 • ⏱️ 10:38 • 1d ago
+👁️ 39K • 👍 2K • 💬 102 • ⏱️ 10:38 • 1d ago
+
+---
+
+**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
+
+Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
+
+📺 Prof G Markets
+
+👁️ 1K • 👍 34 • 💬 3 • ⏱️ 1:42 • 42m ago
+
+---
+
+**[My Conservative Bitcoin Model: Why I’m Planning for $253K](https://www.youtube.com/watch?v=N_nGVK6pzW0)**
+
+Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm planning for something very different — about $253000.
+
+📺 Betirement
+
+👁️ 11K • 👍 687 • 💬 354 • ⏱️ 11:16 • 20h ago
+
+---
+
+**[Bitcoin At $64k! Samson Mow Says You&#39;re ALREADY TOO LATE for the Coming Explosion](https://www.youtube.com/watch?v=oX85sQfIv8Y)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 129 • 💬 17 • ⏱️ 14:19 • 1d ago
 
 ---
 
@@ -309,17 +327,17 @@ Let's talk about Bitcoin market cycles, and how we can best understand where we 
 
 📺 Benjamin Cowen
 
-👁️ 38K • 👍 3K • 💬 119 • ⏱️ 7:33 • 15h ago
+👁️ 43K • 👍 3K • 💬 130 • ⏱️ 7:33 • 16h ago
 
 ---
 
-**[Caution: It’s Slipping Away For Bitcoin Bulls!](https://www.youtube.com/watch?v=-9CsQ0dsee0)**
+**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
 
-In today's video, Kyledoops shows you the key risk factors that are currently plaguing the bitcoin bulls. From geopolitical tensions ...
+Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 4K • 👍 507 • 💬 5 • ⏱️ 40:15 • 3h ago
+👁️ 9K • 👍 240 • 💬 19 • ⏱️ 1:16 • 19h ago
 
 ---
 
@@ -329,17 +347,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 657 • 💬 199 • ⏱️ 46:01 • 20h ago
-
----
-
-**[&quot;Bitcoin Doesn’t Generate Real Wealth&quot; | MOONSHOTS](https://www.youtube.com/watch?v=nGKks9zGn-E)**
-
-AWG: "Bitcoin doesn't generate real wealth." Do you agree or disagree?
-
-📺 Peter H. Diamandis
-
-👁️ 5K • 👍 156 • 💬 21 • ⏱️ 0:51 • 15h ago
+👁️ 11K • 👍 663 • 💬 177 • ⏱️ 46:01 • 22h ago
 
 ---
 
@@ -349,37 +357,27 @@ Japan has taken one of its most significant steps toward integrating cryptocurre
 
 📺 Paul Barron Network
 
-👁️ 87K • 👍 5K • 💬 508 • ⏱️ 15:15 • 23h ago
+👁️ 90K • 👍 5K • 💬 517 • ⏱️ 15:15 • 1d ago
 
 ---
 
-**[Blackrock Knows… [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=yQU51htRPOI)**
+**[THIS Bitcoin Chart Predicted EVERY Bear Market Bottom!](https://www.youtube.com/watch?v=gd6t5LpPgEU)**
 
-Blackrock says buy Bitcoin, Solana, Ethereum, Micron, SpaceX BITUNIX TRADE THE TOP COINS (available everywhere) ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Lark Davis
+📺 Crypto Rover
 
-👁️ 14K • 👍 630 • 💬 82 • ⏱️ 18:15 • 22h ago
-
----
-
-**[Man Behind Guthrie Fake Bitcoin Texts Pleaded Guilty](https://www.youtube.com/watch?v=3p1e41nUWnQ)**
-
-Join The Dead Serious Club: https://www.youtube.com/channel/UCVeA0YuBpTi-CYsUYgZMKxw/join Drop Dead Serious is ...
-
-📺 Ashleigh Banfield x Drop Dead Serious
-
-👁️ 30K • 👍 2K • 💬 196 • ⏱️ 2:34 • 1d ago
+👁️ 5K • 👍 428 • 💬 58 • ⏱️ 10:06 • 5h ago
 
 ---
 
-**[🚨 BITCOIN: You Might NOT Want To Hear This But It MUST Be Said! (100% Accurate)](https://www.youtube.com/watch?v=AS-BLgtBkks)**
+**[Caution: It’s Slipping Away For Bitcoin Bulls!](https://www.youtube.com/watch?v=-9CsQ0dsee0)**
 
-Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to exactly what everyone suspects. BloFin ...
+In today's video, Kyledoops shows you the key risk factors that are currently plaguing the bitcoin bulls. From geopolitical tensions ...
 
-📺 Crypto Zombie
+📺 Crypto Banter
 
-👁️ 11K • 👍 950 • 💬 157 • ⏱️ 12:20 • 18h ago
+👁️ 7K • 👍 781 • 💬 15 • ⏱️ 40:15 • 4h ago
 
 ---
 

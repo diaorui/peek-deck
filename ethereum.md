@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-17T11:06:47.154806+00:00'
+updated: '2026-07-17T12:43:09.125072+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 11:06 UTC  
+**Last Updated:** July 17, 2026 at 12:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** +2.6%  
-**30d:** +7.3%  
-**90d:** -18.9%  
-**1y:** -48.2%  
+**24h:** -2.8%  
+**7d:** +2.3%  
+**30d:** +7.0%  
+**90d:** -19.1%  
+**1y:** -48.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $220.86B
+**Market Cap:** $220.78B
 Rank #2
 
 **Circulating Supply:** 120,682,873 ETH
@@ -62,7 +62,7 @@ No max supply
 -63.0%
 
 **All-Time Low:** $0.43
-+422636.4%
++422440.1%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello, A little while ago I posted about a project concept I had. The idea was a web-app and a mobile app where you add the wallet address you want to watch. Cointer checks the blockchain for you. When a watched address gets a deposit, you get a notification and a dashboard of activity/totals. No accounts, no passwords. Just a single personal key that ties everything together. This is aimed at people who receive donations via crypto, streamers, or people who want to watch their wallets. Of course, most wallets already have this feature, but this takes it to the next step. It allows you to be notified over mobile push notifications, ntfy, Discord, Slack, or just by email. Then, it compiles (up to 90 days) all transactions into a clean dashboard showing your totals for the last day, week, and month with a breakdown by watched addresses and assets. There is an activity page with a full history of deposits and pagination. I've developed quite a few OSS projects and gotten sponsors from many hosting companies which is what allowed me to set this up for a beta. However, for this beta the amount of users I can support is quite small. There is no real catch here. Know that there is a 10 wallet and 10 notification channel limit and notifications are not always guaranteed. More info in the comments. Thank you for reading, Luke
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -166,11 +166,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum News: BlackRock, JPMorgan Builds Make ETH a Wall Street Asset, Tom Lee Argues](https://finance.yahoo.com/markets/crypto/articles/ethereum-news-blackrock-jpmorgan-builds-083312592.html)**
+**[Ethereum to $250,000? Tom Lee Reveals 'ETH 2.0' as Rare Pattern Signals ‘Parabolic Rally’](https://finance.yahoo.com/markets/crypto/articles/ethereum-250-000-tom-lee-105343156.html)**
 
-In the lastest Ethereum news, Fundstrat’s Tom Lee is arguing that Ethereum’s next major move has nothing to do with crypto-native speculation, and everything to do with institutional capital that is already deployed and building. Writing in Bitmine’s July Chairman’s message, Lee pointed to BlackRock BUIDL, JPMorgan MONY, and Robinhood ...
+Tom Lee says Ethereum is entering a “2.0 era” that could deliver “radical upside” as Wall Street adoption expands. Ethereum bulls claim a rare ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://finance.yahoo.com/markets/crypto/articles/ethereum-leads-losses-among-crypto-110943949.html)**
+
+A Politico report suggested the CLARITY Act may struggle to win enough Democratic support in the Senate.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,15 +186,7 @@ Yahoo Finance • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://www.tradingview.com/news/coinpedia:359cb5979094b:0-bitcoin-ethereum-and-xrp-prices-fall-after-trump-s-speech-today/)**
-
-President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial announcement about declassified intelligence tied to elections.Trump opened by touting economic gains under his administration. “Our country is safer, stron…
-
-TradingView • 9h ago
+Fortune • 2h ago
 
 ---
 
@@ -198,33 +198,35 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing](https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing)**
+**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://www.tradingview.com/news/coinpedia:359cb5979094b:0-bitcoin-ethereum-and-xrp-prices-fall-after-trump-s-speech-today/)**
 
-The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
+President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial announcement about declassified intelligence tied to elections.Trump opened by touting economic gains under his administration. “Our country is safer, stron…
 
-The Block • 2d ago
+TradingView • 10h ago
 
 ---
 
-**[Tom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-needs-143513421.html)**
+**[Ethereum Price Forecast: Why ETH is outperforming Bitcoin, XRP, SOL, HYPE](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-why-eth-is-outperforming-bitcoin-xrp-sol-hype-202607162143)**
 
-EthSystems was founded by the same team behind the Ethereum Foundation’s Institutional Privacy Task Force.
+Ethereum (ETH) has outperformed the top 10 cryptocurrencies since the crypto market began a recovery last week. On a weekly timeframe, the top altcoin is seeing an 8% gain, compared to 2.4%, 1.4%, 1.6%, -1.8% and -3.5% for Bitcoin (BTC), BNB, XRP, Solana (SOL) and Hyperliquid (HYPE).
+
+FXStreet • 14h ago
+
+---
+
+**[Ethereum Has a Bold New Plan for 2029. What Will Be the Impact on the Price of ETH?](https://www.fool.com/investing/2026/07/15/ethereum-has-a-bold-new-plan-for-2029/)**
+
+The chain's updated technical roadmap will see it add major new features.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitmine, SharpLink and Joe Lubin Back EthSystems’ Institutional Ethereum Privacy Push](https://finance.yahoo.com/markets/crypto/articles/bitmine-sharplink-joe-lubin-back-155900686.html)**
+
+EthSystems has launched with backing from Bitmine (NYSE: $BMNP), SharpLink (NASDAQ: $SBET) and Ethereum (CRYPTO: $E...
 
 Yahoo Finance • 2d ago
-
----
-
-**[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology](https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology)**
-
-The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years.
-
-CoinDesk • 2d ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies decline](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decline-1a4066a8-9483a4199734)**
-
-MarketWatch • 21h ago
 
 ---
 
@@ -238,7 +240,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 450 • 💬 83 • ⏱️ 13:38 • 14h ago
+👁️ 13K • 👍 485 • 💬 94 • ⏱️ 13:38 • 15h ago
 
 ---
 
@@ -248,17 +250,17 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 3K • 👍 121 • 💬 35 • ⏱️ 7:55 • 11h ago
+👁️ 5K • 👍 148 • 💬 18 • ⏱️ 7:55 • 12h ago
 
 ---
 
-**[🚨 ETH/BTC Is Signaling a Major Crypto Rotation](https://www.youtube.com/watch?v=7qyZOfeWz48)**
+**[ETH Exit Signal Flashed! Now What?](https://www.youtube.com/watch?v=cb_Q7PgW6F4)**
 
-SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin backed loans: https://www.ledn.io/ ...
+Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, which has carried price from around 1571 at the ...
 
-📺 DataDash
+📺 Coin Bureau Trading
 
-👁️ 2K • 👍 96 • 💬 38 • ⏱️ 12:55 • 19h ago
+👁️ 2K • 👍 209 • 💬 4 • ⏱️ 15:12 • 6h ago
 
 ---
 
@@ -268,7 +270,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 84 • 💬 1 • ⏱️ 15:03 • 15h ago
+👁️ 2K • 👍 94 • 💬 5 • ⏱️ 15:03 • 16h ago
+
+---
+
+**[🚨 ETH/BTC Is Signaling a Major Crypto Rotation](https://www.youtube.com/watch?v=7qyZOfeWz48)**
+
+SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin backed loans: https://www.ledn.io/ ...
+
+📺 DataDash
+
+👁️ 2K • 👍 100 • 💬 39 • ⏱️ 12:55 • 21h ago
 
 ---
 
@@ -276,7 +288,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 598 • 💬 60 • ⏱️ 2:00 • 1d ago
+👁️ 8K • 👍 604 • 💬 60 • ⏱️ 2:00 • 1d ago
 
 ---
 
@@ -286,7 +298,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 437 • 💬 299 • ⏱️ 14:25 • 1d ago
+👁️ 7K • 👍 439 • 💬 303 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -296,7 +308,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 7 • ⏱️ 6:41 • 14h ago
+👁️ 3K • 👍 182 • 💬 8 • ⏱️ 6:41 • 16h ago
 
 ---
 
@@ -306,27 +318,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 3K • 👍 267 • 💬 78 • ⏱️ 54:45 • 11h ago
+👁️ 4K • 👍 280 • 💬 101 • ⏱️ 54:45 • 12h ago
 
 ---
 
-**[Major Ethereum Signal Flashing!](https://www.youtube.com/watch?v=2JTE8JcmukU)**
+**[🔥TRUMP LAST MINUTE DEAL🔥 XRP ETH GOLD OIL IN PLAY](https://www.youtube.com/watch?v=7RHERc3sqKg)**
 
-Bitcoin is testing the aftermath of a July bounce, with a pullback-and-reentry setup still in focus before the market approaches ...
+MERCH IS IN   EMAIL ME @ info.cwkmedia@gmail.com PO BOX CWK MEDIA PO BOX 387 HONEA PATH, SC 29654 #xrp #xlm ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 CRYPTO with KLAUS
 
-👁️ 8K • 👍 543 • 💬 47 • ⏱️ 51:54 • 1d ago
-
----
-
-**[Ethereum &amp; Bitcoin, PS5 Gewinnspiel! Btc will das Gap Schliessen, was dann??Wie gehts weiter?](https://www.youtube.com/watch?v=iuj4YmhAKCQ)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 448 • 💬 89 • ⏱️ 9:26 • 6h ago
+👁️ 5K • 👍 353 • 💬 141 • ⏱️ 16:10 • 1d ago
 
 ---
 
