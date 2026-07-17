@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T22:22:07.486641+00:00'
+updated: '2026-07-17T23:25:29.910430+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 22:22 UTC  
+**Last Updated:** July 17, 2026 at 23:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,038.70
+### $64,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +0.2%  
-**30d:** +1.6%  
-**90d:** -13.3%  
-**1y:** -45.7%  
+**24h:** +0.1%  
+**7d:** +0.1%  
+**30d:** +1.5%  
+**90d:** -13.4%  
+**1y:** -45.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1283.52B
+**Market Cap:** $1281.33B
 Rank #1
 
-**Circulating Supply:** 20,057,625 BTC
+**Circulating Supply:** 20,057,665 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-49.3%
 
 **All-Time Low:** $67.81
-+94284.3%
++94107.3%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Its pretty obvious to me now, i have no clue what im doing. BTC avg 122k, SLV etf avg 100.12, SPCX avg 219.83 Between the 3, im down 6 figures. I will never recover from this. Good luck out there
 
-12h ago
+13h ago
 
 ---
 
 **[The next Bitcoin wave will come from crisis](https://www.reddit.com/r/Bitcoin/comments/1uz3a9j/the_next_bitcoin_wave_will_come_from_crisis/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ Its pretty obvious to me now, i have no clue what im doing. BTC avg 122k, SLV et
 
 A small miner and bip110 node runned asked in the comments what expect past block 961632. This article might get everyone, involved in the movement prepared. Let me start off by saying I’m not pro-BIP110, and I’m not anti-BIP110. If it actually succeeds as something that gains true consensus within the network and ends up being enforced by a majority of the network… cool. If so, then we’ll go with it because the network has spoken and accepted it, and all nodes, including non-BIP110 nodes, will be pulled along for the ride. Unfortunately for proponents of the proposal, that simply isn’t currently the case by any measurable metric, nor does it appear to have a trajectory suggesting that will change, either. There’s been a lot of misleading information about this whole thing, especially in the context of mining. Few quick key bullet points to briefly counter some hyperbole from proponents: BIP110 is NOT inevitable. It CAN fail. BIP110 can and will cause a chain split/fork in a minority hashrate situation. BIP110 is NOT without risk to miners choosing to adopt it. Miners not supporting BIP110 are not suddenly mining “invalid” blocks just because a proposal that isn’t yet adopted simply exists. You’re not a bad person or evil simply because you don’t like or support BIP110. (The fact that I feel the need to point out that last part is actually kind of sad…) I was going to write a long post to help keep miners informed about things they need to remain aware of as this all plays out… before realizing I already did so months ago as a document I authored that I had hoped could be put out as a miner education piece at OCEAN. Sadly, it never got published. So I went ahead and updated it, and well, here it is: https://docs.google.com/document/d/14DfMSVYBHTHIOmW32JTOR6BAP7AITbinvrhl8rJuvvc/edit?usp=sharing Again, keep in mind this was written months ago, intended to be as agnostic as possible in an effort to make it acceptable as a corporate post. That effort failed, so I'm posting it as a personal document today instead. As a miner making important decisions about your operations, you need to be aware of all of this without the sugarcoating and frankly outright misleading information coming from some of the BIP110 proponents. You must be vigilant, and decide what’s right for you. While there is certainly some misleading information from the opposition as well, nothing I’ve seen is nearly as egregious as the extremely premature claims of victory and accompanying hyperbole pushed by the BIP110 side. Summarizing my doc a bit, my personal suggestion to miners is this: Signal if you support BIP110 Do not signal if you don’t support BIP110 or don’t care Either way, monitor the network on/around/before block 961632. If you continue to see non-signaling blocks from major pools you can be reasonably certain they’re not going to suddenly decide later to throw away millions of dollars worth of revenue to backtrack and signal for BIP110. If they do by some chance start to signal for BIP110, you should monitor that and consider switching as required to stay on the heaviest chain. Key point being that realistically, only one side can win. It’s either BIP110 succeeds and miners not on the BIP110 side fail, or BIP110 fails and miners on the non-BIP110 side succeed. Moving on, let’s dive into some small fraction of my rationale. 🟠QUICK FACT: Between 7 and 15% of Bitcoin Nodes are signaling support for BIP110. Depending on which centralized crawler you look at… no way to know for sure. My personal private crawler puts this number much lower, but that’s a discussion for another day. Suffice it to say, I think it’s logical and correct to say that even 15% is not a majority. “But Jason! UASF got Segwit activated with fewer nodes!” Yep, because many miners, merchants, users, etc all actually wanted Segwit. There was tremendous economic and community weight behind it. Without rehashing that whole thing (plenty of resources on the topic from before BIP110 that are worth a read), suffice it to say that BIP110 and Segwit activations are not quite comparable, as many have already pointed out. Segwit, for example, went into its UASF territory with around 1/3rd of the network hashrate already signaling support. With that kind of backing, the UASF to help push the MASF over the tipping point made a lot of sense. It doesn't make sense here for BIP110. 🟠QUICK FACT: 0.6% of blocks over the past 60 days have signaled support for BIP110. Pretty stark contrast to even Segwit’s low baseline support. Yes, I know it's increased slightly in the past couple of weeks, but no new entrants. Just more clearly rented hashrate from one of the same small proponants. Something to keep in mind is that mining BIP110 signaling blocks via DATUM on OCEAN carries virtually no risk to the miner up until the fork point at block 961632. The cost is negligible, as you're effectively guaranteed to recoup rental costs, etc. It's awesome that the ability to do so exists, and I wouldn't have it any other way... but just something to keep in mind when weighing signaling from such blocks in the grand scheme of things from a risk/reward/money-on-the-table perspective. “But Jason! Miners have no incentive to signal until the last minute!” I also see no evidence to suggest that this could be the case. Subjectively, I disagree with the premise, as it’s not in a mining pool’s best interest to destabilize the network in such a way. Part of the reason for early signaling and lock-in periods is to help coordinate upgrades in a smooth fashion. Waiting until the last minute negates that benefit entirely. I see no compelling rationale or upside to doing so. Continuing on this, as part of my personal node monitoring setup, I specifically monitor nodes known to belong to various entities, such as other mining pools, exchanges, large lightning nodes, merchants, etc. A supermajority of which are monitored with explicit permission and confirmation/coordination. 🟠QUICK FACT: All major mining pools I monitor are currently running some variant of Bitcoin Core v30 or v31 (except OCEAN). Expanding on that, most have updated their nodes since the proliferation of BIP110’s release, even since the release of Knots 29.3. Additionally, it is known that many mining pools run modified versions of their node software to facilitate various requirements of their specific infrastructure. Such changes would need to be ported to a BIP110 compatible client, tested, evaluated, and deployed ahead of time. I currently see no evidence that this is the case currently. As far as I can tell, the pools are aware but ignoring. “But Jason! Miners don’t determine consensus! Nodes do! Otherwise they’ll just cancel halvings!” This is one of the funniest and most ridiculous arguments I’ve heard from the pro-BIP110 crowd. Comparing a consensus change that can be unilaterally enforced upon the network by miners and accepted by 100% of existing nodes (a soft fork), with a hard fork which no existing node will accept… is disingenuous at best. Tightening rules (like BIP110): Soft fork, can be enforced by miners if they choose to do so. Loosening rules (like canceling a halving): Hard fork, can not be enforced by miners without effectively 100% buy-in from the entire network……. Which isn’t likely to happen. Comparing the two is, bluntly, just stupid. “But Jason! If you don’t upgrade to the latest consensus rules, you’re insecure! You’ll lose funds! You’ll mine invalid blocks! You’ll [insert additional hyperbole here]!” This would be true of a consensus change that has, well, consensus. While BIP110 has made a valiant effort to gain that consensus, it has yet to have any measurable majority at what is now arguably the 11th hour. Not in nodes, not in hashrate, not in the social layers (consensus.health has a cool visual there where you'll find me in the middle). If somehow BIP110 gains 51%+ of the network hashrate on/before block 961632… then, alright. It’s enforced, since as a soft fork a majority of miners can unilaterally enforce it in the absence of a fully adopted URSF (effectively a misnomer, as this would kind of be a hard fork). “But Jason! It can’t gain consensus by already having consensus! You have to give it a chance!” Firstly… no I don’t, even though I have. Second, it’s a rushed proposal that never had the time to even try and gain real consensus. It’s been 7 months since the release of the first BIP110 client. There’s ~3 weeks to go before “mandatory” signaling starts as of now (less by the time you read this). 90% of the time available has passed with no change in overall sentiment from any relevant players. If it hasn’t gained sufficient adoption in the past 7 months, it’s not likely to do so in the next 3 weeks. "But Jason! CSAM! CSAM! Pedophiles! CSAM!" I'll be the first to say, even I personally overstated the risk here early on when Core proposed its OP_RETURN change. I personally expected something particularly egregious to hit the chain almost immediately, and to the best of my knowledge that's not yet happened. Could it still happen? Yeah, I suppose. But considering from a technical perspective, byte-for-byte the same contiguous arbitrary data can provably end up stored in the current chain or the BIP-110 chain without much issue... this particular argument for BIP-110 falls pretty flat to me at this point. Do I want CSAM in the chain? Of course not. Am I a pedophile if I don't support BIP110? Also not. ... I could continue to go on and on and on, but I'll stop here. I've wasted enough time on this. I'm sure I've done plenty to annoy both sides of the BIP110 debate at this point, as I don't adopt either stance. I'm sure I'll catch flack from all angles simply for daring to speak my mind on it. Overall, I mostly think it was silly to approach addressing a real problem (the OP_RETURN default change in Bitcoin Core) with the maximum anti-spam manifesto based soft fork proposal... which provably cannot stop spam, arbitrary data, etc. 🤦‍♂️ (Yes, I know, proponents will claim it's not about spam... and will also make semantic arguments that it does stop data as well... neither of which appears to be correct.) I'll close with the concession that I could be wrong. I'm not Nostradamus, and I can't accurately predict the outcome with 100% certainty. I can only go by what the data tells me, and so I give BIP110's success less than a 5% chance of actually succeeding... and I consider that generous. You can take my opinions on this however you wish, but I highly recommend you don't discount the actual data points, remain vigilant, and do what's best for you and your mining revenue. Don't be gaslit by either side of the debate, and make your own decisions. Here's a link to the same document linked above for ease of access: https://docs.google.com/document/d/14DfMSVYBHTHIOmW32JTOR6BAP7AITbinvrhl8rJuvvc/edit?usp=sharing
 
-🔗 [primal.net](https://primal.net/average/bip-110---my-notes-to-miners-by-jason-hughes-liberated-from-x) • 8h ago
+🔗 [primal.net](https://primal.net/average/bip-110---my-notes-to-miners-by-jason-hughes-liberated-from-x) • 9h ago
 
 ---
 
@@ -103,7 +103,7 @@ A small miner and bip110 node runned asked in the comments what expect past bloc
 
 There's a question nobody in the AI industry has properly answered: how do AI agents pay for things? Credit cards require human identity. Banks require passports. None of that works for software making thousands of micropayments per hour autonomously. Lightning Labs released lightning-agent-tools in February 2026, seven composable modules that give AI agents everything they need to operate natively on Lightning. The core of it is L402 plus lnget: an AI agent hits an API, the server responds with HTTP 402 "Payment Required" plus a Lightning invoice, lnget automatically pays the invoice, receives a macaroon credential, retries the request. Total time under one second. Total human involvement: zero. The full toolkit includes remote key isolation with keys on a separate signer machine, scoped macaroons for spend limits per agent, Aperture to turn any API into a pay-per-use service, and MCP support for Claude, GPT, and custom frameworks. Why Bitcoin and not stablecoins? Transactions on Inferior Centralized Altcoin Chains cost cents to dollars, unviable for micropayments. A Lightning payment for 1 sat costs a fraction of a sat. And no one can freeze your sats. For node runners: AI agent traffic means more routing opportunities and demand for liquidity. Your node becomes infrastructure for the machine economy. Full breakdown: https://davidebtc186.substack.com/p/ai-agents-are-starting-to-pay-in
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ There's a question nobody in the AI industry has properly answered: how do AI ag
 
 The uncertainty around Hormuz, tariffs & oil prices has set off a risk-off sentiment across Bitcoin holders: here’s what price level everyone's watching.
 
-🔗 [DailyCoin](https://dailycoin.com/btc-wobbles-near-64k-as-middle-east-drama-cranks-up/) • 10h ago
+🔗 [DailyCoin](https://dailycoin.com/btc-wobbles-near-64k-as-middle-east-drama-cranks-up/) • 12h ago
 
 ---
 
@@ -119,7 +119,7 @@ The uncertainty around Hormuz, tariffs & oil prices has set off a risk-off senti
 
 Great video. Not because of what his answer to the question is, but rather how he arrives at it. Worth a watch for all Bitcoiners.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9YWdIWMJ9Hc) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9YWdIWMJ9Hc) • 6h ago
 
 ---
 
@@ -127,7 +127,7 @@ Great video. Not because of what his answer to the question is, but rather how h
 
 Foundry Digital said it will allow clients who use its Bitcoin mining pool to vote on BIP-110.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110) • 4h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110) • 5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Foundry Digital said it will allow clients who use its Bitcoin mining pool to vo
 
 In an Era of Ephemeral Frameworks, the World’s Most Secure Coin Relies on the Unforgiving Discipline of Systems Architecture.
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-built-to-last-why-bitcoins) • 4h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-built-to-last-why-bitcoins) • 5h ago
 
 ---
 
@@ -149,7 +149,7 @@ In an Era of Ephemeral Frameworks, the World’s Most Secure Coin Relies on the 
 
 Each pump so far has a demographic behind it, whether it be retail, institutional investors, etc. Where do you believe the next pump lies?
 
-7h ago
+8h ago
 
 ---
 
@@ -161,7 +161,7 @@ Each pump so far has a demographic behind it, whether it be retail, institutiona
 
 A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 level it reached on this week's soft inflation print.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -169,25 +169,25 @@ CoinDesk • 2h ago
 
 Bloomberg ETF analyst Eric Balchunas compared IBIT’s short time above $100 billion with GLD’s precipitous rise in 2011.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
 **[CoinDesk Bitcoin Price Index Lost 0.16% to $64115.61 -- Data Talk](https://www.moomoo.com/news/post/73160164/coindesk-bitcoin-price-index-lost-0-16-to-64115-61)**
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
 **[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
 **[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -211,7 +211,7 @@ South Dakota Searchlight • 1d ago
 
 Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
@@ -225,7 +225,7 @@ Barchart.com • 1d ago
 
 Headline CPI rose 3.5% y/y (vs 3.8% expected), core came in at 2.6%, and monthly prices fell 0.4%, the largest monthly decline and the first negative monthly print since the 2020 pandemic
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -237,7 +237,7 @@ Seeking Alpha • 14h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 23h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -261,7 +261,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 Insomniac Games' upcoming triple-A release has been caught in the midst of an online anti-Sony movement.
 
-⬆️ 2 • 💬 0 • 5h ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
+⬆️ 2 • 💬 0 • 6h ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
 
 ---
 
@@ -275,17 +275,7 @@ Gold has been humanity's trusted store of value for 5000 years. But is Bitcoin b
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 268 • 💬 154 • ⏱️ 14:56 • 5h ago
-
----
-
-**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
-
-Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
-
-📺 Prof G Markets
-
-👁️ 14K • 👍 224 • 💬 53 • ⏱️ 1:42 • 10h ago
+👁️ 4K • 👍 364 • 💬 167 • ⏱️ 14:56 • 6h ago
 
 ---
 
@@ -295,17 +285,17 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 13K • 👍 795 • 💬 403 • ⏱️ 11:16 • 1d ago
+👁️ 13K • 👍 829 • 💬 467 • ⏱️ 11:16 • 1d ago
 
 ---
 
-**[“I’m Very Bullish” BlackRock Crypto Pump &amp; Dump Plan Revealed!](https://www.youtube.com/watch?v=Iews2OqDoyU)**
+**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
 
-I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
 
-📺 Altcoin Daily
+📺 Prof G Markets
 
-👁️ 41K • 👍 2K • 💬 97 • ⏱️ 10:38 • 1d ago
+👁️ 18K • 👍 262 • 💬 58 • ⏱️ 1:42 • 11h ago
 
 ---
 
@@ -315,7 +305,7 @@ Gold could be heading to $10000 as central banks move away from US Treasuries an
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 250 • ⏱️ 18:01 • 1d ago
+👁️ 21K • 👍 2K • 💬 231 • ⏱️ 18:01 • 1d ago
 
 ---
 
@@ -325,7 +315,27 @@ Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 262 • 💬 40 • ⏱️ 1:16 • 1d ago
+👁️ 11K • 👍 272 • 💬 44 • ⏱️ 1:16 • 1d ago
+
+---
+
+**[Massive Companies Invest In Bitcoin &amp; Crypto = Going To ZERO!?](https://www.youtube.com/watch?v=j9G7xxqUvdU)**
+
+If Bitcoin and crypto is going to zero then why are so many MASSIVE companies investing in the space? ARe they INSANE??! No ...
+
+📺 Digital Asset News
+
+👁️ 5K • 👍 354 • 💬 19 • ⏱️ 27:00 • 5h ago
+
+---
+
+**[“I’m Very Bullish” BlackRock Crypto Pump &amp; Dump Plan Revealed!](https://www.youtube.com/watch?v=Iews2OqDoyU)**
+
+I'm Very Bullish” BlackRock Crypto Plan Revealed! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 2K • 💬 98 • ⏱️ 10:38 • 2d ago
 
 ---
 
@@ -335,37 +345,27 @@ Let's talk about Bitcoin market cycles, and how we can best understand where we 
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 137 • ⏱️ 7:33 • 1d ago
+👁️ 53K • 👍 3K • 💬 137 • ⏱️ 7:33 • 1d ago
 
 ---
 
-**[The Fed Has One Move Left... That&#39;s Why Bitcoin Pumped to $65K!](https://www.youtube.com/watch?v=pskI8WsJAcI)**
+**[BITCOIN CAPITULATION IS HERE!](https://www.youtube.com/watch?v=uhHdqiEibeE)**
 
-Bitcoin's latest rally has far less to do with CPI than most people think. The real story is a growing crisis of debt, sovereignty and ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Simply Bitcoin
+📺 My Financial Friend
 
-👁️ 26K • 👍 2K • 💬 266 • ⏱️ 20:59 • 1d ago
-
----
-
-**[IS THIS BITCOIN DROP WORTH BUYING!?](https://www.youtube.com/watch?v=ibxtkSwNflk)**
-
-PROVE YOUR TRADING SKILLS — COMPETE GLOBALLY AND EARN REWARDS!
-
-📺 100XClub
-
-👁️ 5K • 👍 623 • 💬 212 • ⏱️ 11:38 • 10h ago
+👁️ 2K • 👍 140 • 💬 118 • ⏱️ 12:59 • 6h ago
 
 ---
 
-**[Japan Just BLEW PAST the U.S. on Crypto!!🚨While CLARITY Act STALLS!🔥](https://www.youtube.com/watch?v=hNZGT63O2cY)**
+**[A MASSIVE ROTATION INTO BITCOIN IS COMING](https://www.youtube.com/watch?v=i_zuFGFx1O8)**
 
-Japan has taken one of its most significant steps toward integrating cryptocurrencies into the traditional financial system.
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Paul Barron Network
+📺 My Financial Friend
 
-👁️ 97K • 👍 5K • 💬 487 • ⏱️ 15:15 • 1d ago
+👁️ 4K • 👍 232 • 💬 295 • ⏱️ 8:15 • 1d ago
 
 ---
 
