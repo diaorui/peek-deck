@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-17T14:44:10.290190+00:00'
+updated: '2026-07-17T16:16:26.842518+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 14:44 UTC  
+**Last Updated:** July 17, 2026 at 16:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** +2.1%  
-**30d:** +6.8%  
-**90d:** -19.3%  
-**1y:** -48.5%  
+**24h:** -1.8%  
+**7d:** +2.4%  
+**30d:** +7.1%  
+**90d:** -19.1%  
+**1y:** -48.4%  
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Decrypt • 18h ago
+Decrypt • 20h ago
 
 ---
 
@@ -166,17 +166,25 @@ Fed Chair Kevin Warsh told Congress the Fed doesn't want to bail out crypto. Her
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, July 17, 2026: Prices ease as conflict in Iran escalates](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-17-2026-prices-ease-as-conflict-in-iran-escalates-125602208.html)**
+**[Ethereum to $250,000? Tom Lee Reveals 'ETH 2.0' as Rare Pattern Signals ‘Parabolic Rally’](https://finance.yahoo.com/markets/crypto/articles/ethereum-250-000-tom-lee-105343156.html)**
 
-Bitcoin opened at $63,788.52 on Friday, July 17, 2026, down 1.4% from Thursday's opening price. Ethereum opened at $1,863.16 on Friday, July 17, 2026, down 2.8% from Thursday's opening price.
+Tom Lee says Ethereum is entering a “2.0 era” that could deliver “radical upside” as Wall Street adoption expands. Ethereum bulls claim a rare ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-MarketWatch • 44m ago
+MarketWatch • 2h ago
+
+---
+
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://www.tradingview.com/news/stocktwits:cee9d7df8094b:0-ethereum-leads-losses-among-crypto-majors-after-report-raises-fresh-doubts-over-clarity-act/)**
+
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
+
+TradingView • 5h ago
 
 ---
 
@@ -188,27 +196,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://www.tradingview.com/news/stocktwits:cee9d7df8094b:0-ethereum-leads-losses-among-crypto-majors-after-report-raises-fresh-doubts-over-clarity-act/)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
-
-TradingView • 3h ago
-
----
-
 **[Current price of Ethereum for July 17, 2026](https://fortune.com/article/price-of-ethereum-07-17-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 6h ago
 
 ---
 
-**[Ethereum Price Forecast: Why ETH is outperforming Bitcoin, XRP, SOL, HYPE](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-why-eth-is-outperforming-bitcoin-xrp-sol-hype-202607162143)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH stall below key EMAs, XRP holds crucial support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-stall-below-key-emas-xrp-holds-crucial-support-202607170437)**
 
-Ethereum (ETH) has outperformed the top 10 cryptocurrencies since the crypto market began a recovery last week. On a weekly timeframe, the top altcoin is seeing an 8% gain, compared to 2.4%, 1.4%, 1.6%, -1.8% and -3.5% for Bitcoin (BTC), BNB, XRP, Solana (SOL) and Hyperliquid (HYPE).
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) came under renewed selling pressure during the second half of the week after staging a modest recovery earlier in the week. BTC trades below $63,600 on Friday, while ETH slips below $1,860 after facing rejection at key resistance levels.
 
-FXStreet • 17h ago
+FXStreet • 11h ago
 
 ---
 
@@ -220,11 +220,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Tom Lee Compares Ethereum To AMZN Before AWS, NVDA Before AI Boom – Says ETH Could Solve 'Uncanny Valley Of Wealth'](https://stocktwits.com/news-articles/markets/cryptocurrency/bmnr-tom-lee-compares-ethereum-amazon-nvidia-uncanny-valley-wealth/cZZEf8qR7sh)**
+**[Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing](https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing)**
 
-BitMine Immersion Technologies (BMNR) Chairman Tom Lee on Thursday stated that Ethereum (ETH) could be the solution to the “uncanny valley of wealth” in his message to shareholders.
+The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
 
-Stocktwits • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 14K • 👍 516 • 💬 118 • ⏱️ 13:38 • 17h ago
+👁️ 14K • 👍 516 • 💬 118 • ⏱️ 13:38 • 19h ago
 
 ---
 
@@ -248,7 +248,7 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 6K • 👍 173 • 💬 22 • ⏱️ 7:55 • 14h ago
+👁️ 6K • 👍 173 • 💬 22 • ⏱️ 7:55 • 16h ago
 
 ---
 
@@ -258,7 +258,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 104 • 💬 5 • ⏱️ 15:03 • 18h ago
+👁️ 2K • 👍 104 • 💬 5 • ⏱️ 15:03 • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, w
 
 📺 Coin Bureau Trading
 
-👁️ 2K • 👍 221 • 💬 4 • ⏱️ 15:12 • 8h ago
+👁️ 2K • 👍 221 • 💬 4 • ⏱️ 15:12 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ SPONSOR: LEDN Access liquidity without selling your Bitcoin with Ledn's Bitcoin 
 
 📺 DataDash
 
-👁️ 2K • 👍 102 • 💬 39 • ⏱️ 12:55 • 23h ago
+👁️ 2K • 👍 102 • 💬 39 • ⏱️ 12:55 • 1d ago
 
 ---
 
@@ -296,7 +296,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 186 • 💬 9 • ⏱️ 6:41 • 18h ago
+👁️ 3K • 👍 186 • 💬 9 • ⏱️ 6:41 • 19h ago
 
 ---
 

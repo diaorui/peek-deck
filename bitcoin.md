@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-17T14:44:10.286092+00:00'
+updated: '2026-07-17T16:16:26.837546+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 14:44 UTC  
+**Last Updated:** July 17, 2026 at 16:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,861.51
+### $63,442.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -0.9%  
-**30d:** +0.5%  
-**90d:** -14.2%  
-**1y:** -46.3%  
+**24h:** -0.9%  
+**7d:** -0.6%  
+**30d:** +0.8%  
+**90d:** -14.0%  
+**1y:** -46.1%  
 
 ---
 
@@ -161,7 +161,7 @@ With the United States now at war with Iran, I keep thinking about an older argu
 
 Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -169,15 +169,7 @@ CoinDesk • 1h ago
 
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
-The Block • 19h ago
-
----
-
-**[If you invested $1,000 in Bitcoin when Satoshi created it, here's what you'd have today](https://au.finance.yahoo.com/news/invested-1-000-bitcoin-satoshi-133000568.html)**
-
-Satoshi Nakamoto mined the first Bitcoin block on January 3, 2009. He embedded a single line from The Times, "Chancellor on Brink of Second Bailout for Banks", and created 50 BTC out of nothing. Bitcoin had no price. No exchange. No market. Just code and conviction. Nine months later, in October ...
-
-Yahoo Finance Australia • 1h ago
+The Block • 20h ago
 
 ---
 
@@ -185,29 +177,27 @@ Yahoo Finance Australia • 1h ago
 
 $Bitcoin (BTC.CC)$ I Bought more 😁 DBS bank can store your bitcoin but you need to be accrediated investor with millions to your name.  Regular people can buy and self custody.  I’ll probably buy 2 of this bitcoins.  Keep one and sell one when it reaches 10 million 😁
 
-Moomoo • 18m ago
-
----
-
-**[MicroStrategy’s Saylor Pitches Bitcoin Bull Case With 300 Years of Fiat History](https://finance.yahoo.com/markets/crypto/articles/microstrategy-saylor-pitches-bitcoin-bull-130743620.html)**
-
-Michael Saylor cites River data showing fiat currencies average 27 years, framing Bitcoin's fixed supply as the alternative.
-
-Yahoo Finance • 1h ago
+Moomoo • 1h ago
 
 ---
 
 **[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Market Brief: Warsh Won't Bless The Cool CPI, But Bitcoin And Gold Surge Anyway](https://seekingalpha.com/article/4922878-market-brief-warsh-wont-bless-cool-cpi-but-bitcoin-gold-surge-anyway)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Prevails: Analyst Says BTC's 'Clear Breakthrough' Above This Level a Trigger for 'Strong Run](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slide-015615471.html)**
 
-Headline CPI rose 3.5% y/y (vs 3.8% expected), core came in at 2.6%, and monthly prices fell 0.4%, the largest monthly decline and the first negative monthly print since the 2020 pandemic
+Leading cryptocurrencies fell alongside stocks on Thursday as the chip selloff and Iran tensions impacted risk appetite. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.93%$63,833.51Ethereum (CRYPTO: ETH) -2.63%$1,859.89XRP (CRYPTO: XRP) -1.32%$1.09Solana (CRYPTO: SOL) -1.73%$75.46Dogecoin (CRYPTO: DOGE) -1.54%$0.07246 Crypto Market Breaks Lower Bitcoin retreated to the $63,000 zone after consolidation, while Ethereum tumbled to an intraday low of $1,848.
 
-Seeking Alpha • 6h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
+
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -215,19 +205,29 @@ Seeking Alpha • 6h ago
 
 Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-South Dakota Searchlight • 23h ago
+South Dakota Searchlight • 1d ago
+
+---
+
+**[Market Brief: Warsh Won't Bless The Cool CPI, But Bitcoin And Gold Surge Anyway](https://seekingalpha.com/article/4922878-market-brief-warsh-wont-bless-cool-cpi-but-bitcoin-gold-surge-anyway)**
+
+Headline CPI rose 3.5% y/y (vs 3.8% expected), core came in at 2.6%, and monthly prices fell 0.4%, the largest monthly decline and the first negative monthly print since the 2020 pandemic
+
+Seeking Alpha • 8h ago
 
 ---
 
 **[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
 
-Barchart.com • 23h ago
+Barchart.com • 1d ago
 
 ---
 
-**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
+**[BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction](https://www.forbes.com/sites/billybambrough/2026/07/17/blackrock-ceo-issues-surprise-12-month-bitcoin-and-crypto-price-prediction/)**
 
-Investor's Business Daily • 1h ago
+Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
+
+Forbes • 4h ago
 
 ---
 
@@ -239,7 +239,7 @@ Investor's Business Daily • 1h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 15h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -259,14 +259,6 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 ---
 
-**[Pipe Bitcoin's mempool into Gource and watch blocks settle it live](https://news.ycombinator.com/item?id=48860722)**
-
-ai experiments reproducible on a single consumer GPU - VitaAI-SCG/one-gpu-lab
-
-⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/VitaAI-SCG/one-gpu-lab/tree/main/episodes/14-the-live-tree)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -277,7 +269,7 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 11K • 👍 716 • 💬 356 • ⏱️ 11:16 • 22h ago
+👁️ 11K • 👍 716 • 💬 356 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -297,7 +289,7 @@ Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 250 • 💬 80 • ⏱️ 1:16 • 21h ago
+👁️ 10K • 👍 250 • 💬 80 • ⏱️ 1:16 • 23h ago
 
 ---
 
@@ -307,7 +299,7 @@ Let's talk about Bitcoin market cycles, and how we can best understand where we 
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 3K • 💬 130 • ⏱️ 7:33 • 18h ago
+👁️ 46K • 👍 3K • 💬 130 • ⏱️ 7:33 • 20h ago
 
 ---
 
@@ -317,7 +309,7 @@ Join Dylan and Chento as they trade the U.S. market open, breaking down the bigg
 
 📺 Crypto Banter
 
-👁️ 2K • 👍 248 • 💬 1 • ⏱️ 53:10 • 32m ago
+👁️ 2K • 👍 248 • 💬 1 • ⏱️ 53:10 • 2h ago
 
 ---
 
@@ -327,7 +319,7 @@ Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I b
 
 📺 Prof G Markets
 
-👁️ 5K • 👍 118 • 💬 18 • ⏱️ 1:42 • 2h ago
+👁️ 5K • 👍 118 • 💬 18 • ⏱️ 1:42 • 4h ago
 
 ---
 
@@ -347,7 +339,7 @@ Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to e
 
 📺 Crypto Zombie
 
-👁️ 11K • 👍 987 • 💬 158 • ⏱️ 12:20 • 22h ago
+👁️ 11K • 👍 987 • 💬 158 • ⏱️ 12:20 • 23h ago
 
 ---
 
@@ -357,7 +349,7 @@ AWG: "Bitcoin doesn't generate real wealth." Do you agree or disagree?
 
 📺 Peter H. Diamandis
 
-👁️ 6K • 👍 187 • 💬 52 • ⏱️ 0:51 • 19h ago
+👁️ 6K • 👍 187 • 💬 52 • ⏱️ 0:51 • 20h ago
 
 ---
 

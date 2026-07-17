@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-17T14:44:10.292389+00:00'
+updated: '2026-07-17T16:16:26.845179+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 17, 2026 at 14:44 UTC  
+**Last Updated:** July 17, 2026 at 16:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Here are the demos, a robot arm, a walker, and an RC car, more to come https://f
 
 If you've tried to get into robotics, you've probably hit one of these walls: How do I get started? How do I get from blinking an LED to an autonomous robot? I come from a software (or mechanical, or data) background, what am I missing? I couldn't find a single good answer to these, so I started building one: an open source "tech tree" for robotics. It's a visual skill map. You start at the root and unlock the rest as you go (electronics, mechanics, programming, data science, AI), with hands-on builds as the milestones: blink an LED, a sensor project, a robot arm, a robot dog, and up into more serious AI. The main idea: it's not new content. There is already a ton of great tutorials, courses, and docs out there. The tech tree is just the map that sits on top of it and points you to the right resource for each skill, in an order that makes sense. It's early and nowhere near complete, which is kind of the point. It's fully open on GitHub, so if you have a favorite tutorial, a course that made something finally click, or a resource you wish you'd found sooner, you can add it. PRs and issues welcome, and "you forgot X" comments even more so. Links: Website: https://www.backtoengineering.com/ Repo: https://github.com/iuliaferoli/backtoengineering What would you add, or what's missing from the paths?
 
-21h ago
+23h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’ve been working on a small open-source project called LeRobot 3D — a 3D-gr
 
 A six-week UK trial paired Age UK volunteers with older adults through telepresence robots placed in their homes. Volunteers used the robots for regular social interaction and to guide participants through personalized exercise plans two to three times per week. Researchers reported small reductions in physical frailty, improved confidence and increased digital literacy. Some participants also became comfortable enough to begin socializing outside their homes again. The project is now being used to inform UK policy discussions around standards, procurement, regulation and implementation of assistive robots in health and social care.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/telepresence-robots-can-help-prevent-loneliness-and-improve-health-report) • 21h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/telepresence-robots-can-help-prevent-loneliness-and-improve-health-report) • 22h ago
 
 ---
 
@@ -82,7 +82,7 @@ A six-week UK trial paired Age UK volunteers with older adults through teleprese
 
 Background: I confounded a startup last year on Execution as a Service model. We're two confounders, and a core team of 5 guys. 4 of us used to be at xAI human data. And collectively we've worked for most of the leading genAI companies in the human data space. We started off as a managed outsourcing platform where we assign a frac COO to handle your entire outsourcing ops across functionalities which also included AI annotation and labelling. The problem: We were trying to secure contracts all over the place. Though we had 150+ registered fulfilment partners, and we secured some sizable contracts, I was genuinely confused about the growth and the direction of the company, specially with the kind of developments happening in the ops domain. I just brokered a deal valued at over 100k just for sharing internal ops data for AI training. We can't predict exactly how would the space look like. The present: The outsourcing business isn't fully justified to the kind of profiles the core team has. We were being reduced a software and marketing firm. We figured out that we need to stay relevant in the data industry. With the logistical edge that I have, and the trial run I did, I am very confident about working on physical data. We collected over 10 hours sample dataset spanning across household, industrial, construction, and electrical egocentric data. The question: Before we jump into physical data, I am genuinely looking for researchers' perspectives on ego-exocentric vs synthetic data. I understand that the upfront cost is high for synthetic, but long term cost is significantly cheaper, but how does the difference play out in the actual training workplace. TIA
 
-21h ago
+22h ago
 
 ---
 
@@ -122,9 +122,17 @@ NVIDIA Blog • 2d ago
 
 ---
 
-**[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
+**[Nvidia (NVDA) Deepens Japan AI Push With Factory Deal And Robotics Tie Ups](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-deepens-japan-ai-001838639.html)**
 
-WSJ • 15h ago
+NVIDIA (NasdaqGS:NVDA) has expanded its AI footprint in Japan with a national AI factory partnership, the Noetra/FRONTia project. The company announced new alliances with Japanese leaders across robotics, industrial automation, automotive, and smart cities, including Toyota, Fanuc, Yaskawa, Sony, SoftBank, and Mitsubishi Heavy. NVIDIA introduced Cosmos 3 Edge and new Metropolis libraries aimed at deploying agentic AI on devices and across real-world infrastructure. NVIDIA, trading at...
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Japan to Buy Nvidia Rubin Chips to Build an AI for Robots](https://www.bloomberg.com/news/articles/2026-07-16/japan-to-buy-nvidia-rubin-chips-to-build-sovereign-ai-for-robots)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -132,7 +140,15 @@ WSJ • 15h ago
 
 Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
 
-Ars Technica • 18h ago
+Ars Technica • 20h ago
+
+---
+
+**[Robots battle with punches, high kicks and even fight on after losing heads in debut global humanoid fighting contest in Shenzhen](https://www.globaltimes.cn/page/202607/1366175.shtml)**
+
+A white humanoid robot dubbed “White Eagle” sent the crowd into a frenzy Thursday night in Shenzhen, South China’s Guangdong Province after landing a precise high kick to the head of its black-clad opponent, “Matador,” at what organizers billed as the world’s first free humanoid robot fighting competition.
+
+Global Times • 13h ago
 
 ---
 
@@ -140,13 +156,13 @@ Ars Technica • 18h ago
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-WIRED • 5h ago
+WIRED • 7h ago
 
 ---
 
 **[South Korea-US team unveils robotic technology that dresses the wearer](https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/)**
 
-Reuters • 11h ago
+Reuters • 13h ago
 
 ---
 
@@ -162,29 +178,15 @@ Fortune • 2d ago
 
 Sunday Robotics, a $1.15 billion startup, will place Memo robots in homes through a beta program this fall.
 
-Business Insider • 20h ago
+Business Insider • 22h ago
 
 ---
 
-**[Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences](https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences)**
+**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
 
-Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’
+Your weekly selection of awesome robot videos
 
-The Guardian • 1d ago
-
----
-
-**[Is This Robotics Stock a Potential 10-Bagger?](https://www.fool.com/investing/2026/07/15/is-this-robotics-stock-a-potential-10-bagger/)**
-
-Serve Robotics has lost half its value this year, but it's packed with potential.
-
-The Motley Fool • 1d ago
-
----
-
-**[A new robotic hand capable of switching between multiple grippers using a single motor](https://techxplore.com/news/2026-07-robotic-capable-multiple-grippers-motor.html)**
-
-Tech Xplore • 44m ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -198,7 +200,7 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 3K • 👍 53 • 💬 13 • ⏱️ 0:27 • 6h ago
+👁️ 3K • 👍 53 • 💬 13 • ⏱️ 0:27 • 8h ago
 
 ---
 
@@ -208,7 +210,7 @@ A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knocko
 
 📺 Kalil 4.0
 
-👁️ 5K • 👍 168 • 💬 25 • ⏱️ 1:03 • 11h ago
+👁️ 5K • 👍 168 • 💬 25 • ⏱️ 1:03 • 13h ago
 
 ---
 
@@ -246,7 +248,7 @@ This is the most advanced robot hand ever invented. It's the tendon-based NEO ha
 
 📺 Kallaway
 
-👁️ 377K • 👍 19K • 💬 798 • ⏱️ 1:25 • 6d ago
+👁️ 377K • 👍 19K • 💬 798 • ⏱️ 1:25 • 7d ago
 
 ---
 
@@ -256,7 +258,7 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Air Photography
 
-👁️ 21K • 👍 543 • 💬 73 • ⏱️ 7:15 • 23h ago
+👁️ 21K • 👍 543 • 💬 73 • ⏱️ 7:15 • 1d ago
 
 ---
 
@@ -276,7 +278,7 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 📺 Joanna Stern
 
-👁️ 33K • 👍 1K • 💬 132 • ⏱️ 12:02 • 21h ago
+👁️ 33K • 👍 1K • 💬 132 • ⏱️ 12:02 • 23h ago
 
 ---
 
@@ -284,7 +286,7 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 📺 Varun Mayya
 
-👁️ 201K • 👍 7K • 💬 94 • ⏱️ 1:03 • 5d ago
+👁️ 201K • 👍 7K • 💬 94 • ⏱️ 1:03 • 6d ago
 
 ---
 
