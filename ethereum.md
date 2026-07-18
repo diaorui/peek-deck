@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T00:55:41.535135+00:00'
+updated: '2026-07-18T03:55:13.354478+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 00:55 UTC  
+**Last Updated:** July 18, 2026 at 03:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +1.9%  
-**30d:** +7.5%  
+**24h:** -0.4%  
+**7d:** +2.0%  
+**30d:** +7.6%  
 **90d:** -20.4%  
 **1y:** -48.7%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $221.73B
+**Market Cap:** $222.26B
 Rank #2
 
-**Circulating Supply:** 120,682,873 ETH
+**Circulating Supply:** 120,682,850 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -62.8%
 
 **All-Time Low:** $0.43
-+424294.7%
++425250.9%
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I remember Vitalik tweeting, "You can just build on L1." I am wondering if this is a joke or not? I have something I am working on and just want to build on L1. I remember the days that gas costs were $200 for a basic swap at some point. Can these $200 per swap days come back?
 
-3d ago
+4d ago
 
 ---
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[T. Rowe Price Launches Multi-Crypto ETF Including Bitcoin, Ethereum, and XRP](https://247wallst.com/investing/cryptocurrency/2026/07/17/t-rowe-price-launches-multi-crypto-etf-including-bitcoin-ethereum-and-xrp/)**
+
+T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
+
+24/7 Wall St. • 7h ago
+
+---
+
 **[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
@@ -158,19 +166,11 @@ Decrypt • 1d ago
 
 ---
 
-**[What the Fed’s No-Bailout Warning Really Means for Bitcoin, Ethereum, and XRP](https://247wallst.com/investing/cryptocurrency/2026/07/15/what-the-feds-no-bailout-warning-really-means-for-bitcoin-ethereum-and-xrp/)**
+**[Tom Lee Says Ethereum's Future Is 'Exponential,' Cites Analyst's $2,200 ETH Target](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereums-future-085641202.html)**
 
-Fed Chair Kevin Warsh told Congress the Fed doesn't want to bail out crypto. Here's what it changes for Bitcoin, Ethereum, and XRP.
+BitMine Immersion Technologies Inc. (NYSE:BMNR) Chair Tom Lee made a case on Thursday that Ethereum (CRYPTO: ETH) is bottoming and entering the next phase of mainstream adoption Crypto Winter Over? In his latest message to shareholders, Lee said that the “crypto spring is here.” He cited the research of Tom DeMark, a popular technical analyst and Bitmine Immersion’s timing advisor for cryptocurrency acquisitions, who believes everything is set for a “market bottom” and that the “Ethereum risk-re
 
-24/7 Wall St. • 2d ago
-
----
-
-**[Ethereum to $250,000? Tom Lee Reveals 'ETH 2.0' as Rare Pattern Signals ‘Parabolic Rally’](https://finance.yahoo.com/markets/crypto/articles/ethereum-250-000-tom-lee-105343156.html)**
-
-Tom Lee says Ethereum is entering a “2.0 era” that could deliver “radical upside” as Wall Street adoption expands. Ethereum bulls claim a rare ...
-
-Yahoo Finance • 14h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -178,7 +178,13 @@ Yahoo Finance • 14h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 12h ago
+
+---
+
+**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
+
+MarketWatch • 13h ago
 
 ---
 
@@ -190,17 +196,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
-
-MarketWatch • 10h ago
-
----
-
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH stall below key EMAs, XRP holds crucial support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-stall-below-key-emas-xrp-holds-crucial-support-202607170437)**
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) came under renewed selling pressure during the second half of the week after staging a modest recovery earlier in the week. BTC trades below $63,600 on Friday, while ETH slips below $1,860 after facing rejection at key resistance levels.
 
-FXStreet • 20h ago
+FXStreet • 23h ago
 
 ---
 
@@ -212,6 +212,14 @@ Stocktwits • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-fall-after-trumps-speech-today/)**
+
+President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial
+
+Coinpedia • 1d ago
+
+---
+
 **[Ethereum Has a Bold New Plan for 2029. What Will Be the Impact on the Price of ETH?](https://www.fool.com/investing/2026/07/15/ethereum-has-a-bold-new-plan-for-2029/)**
 
 The chain's updated technical roadmap will see it add major new features.
@@ -220,25 +228,17 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-fall-after-trumps-speech-today/)**
-
-President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial
-
-Coinpedia • 22h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[The Greatest Ethereum Explanation of ALL TIME!! (in only 12 minutes)](https://www.youtube.com/watch?v=SZ9Ks_GKUAs)**
+**[&quot;Ethereum is about to EXPLODE!!&quot; Wall Street Expert Explains Why! (in only 12 minutes)](https://www.youtube.com/watch?v=SZ9Ks_GKUAs)**
 
 What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTTON! ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 464 • 💬 51 • ⏱️ 12:55 • 3h ago
+👁️ 12K • 👍 889 • 💬 81 • ⏱️ 12:55 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 70 • 💬 7 • ⏱️ 17:29 • 7h ago
+👁️ 2K • 👍 80 • 💬 9 • ⏱️ 17:29 • 10h ago
 
 ---
 
@@ -258,17 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 142 • 💬 62 • ⏱️ 20:43 • 8h ago
-
----
-
-**[BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dvS7lpDImGg)**
-
-BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 165 • 💬 131 • ⏱️ 22:29 • 6h ago
+👁️ 4K • 👍 167 • 💬 63 • ⏱️ 20:43 • 11h ago
 
 ---
 
@@ -278,27 +268,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 16K • 👍 563 • 💬 116 • ⏱️ 13:38 • 1d ago
-
----
-
-**[ETH Exit Signal Flashed! Now What?](https://www.youtube.com/watch?v=cb_Q7PgW6F4)**
-
-Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, which has carried price from around 1571 at the ...
-
-📺 Coin Bureau Trading
-
-👁️ 3K • 👍 269 • 💬 7 • ⏱️ 15:12 • 18h ago
-
----
-
-**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
-
-Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
-
-📺 The Rollup
-
-👁️ 8K • 👍 204 • 💬 36 • ⏱️ 7:55 • 1d ago
+👁️ 17K • 👍 582 • 💬 124 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -308,7 +278,17 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 16K • 👍 1K • 💬 78 • ⏱️ 14:48 • 6h ago
+👁️ 25K • 👍 2K • 💬 89 • ⏱️ 14:48 • 9h ago
+
+---
+
+**[BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dvS7lpDImGg)**
+
+BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 205 • 💬 142 • ⏱️ 22:29 • 9h ago
 
 ---
 
@@ -318,17 +298,37 @@ Bitcoin, Ethereum, SpaceX, Cashcat, and stocks bleeding BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 5K • 👍 263 • 💬 28 • ⏱️ 15:33 • 12h ago
+👁️ 5K • 👍 268 • 💬 32 • ⏱️ 15:33 • 15h ago
 
 ---
 
-**[BREAKDOWN UPDATE: Will ETH Trend Down Now?](https://www.youtube.com/watch?v=sAqrPSgT0KA)**
+**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
 
-📺 Cilinix Crypto
+📺 The Rollup
 
-👁️ 253 • 👍 16 • 💬 8 • ⏱️ 4:50 • 15h ago
+👁️ 8K • 👍 219 • 💬 37 • ⏱️ 7:55 • 1d ago
+
+---
+
+**[Ethereum’s Future Is Worse Than Investors Realize](https://www.youtube.com/watch?v=8wZooOeqcZk)**
+
+Ethereum's core risk is that its ecosystem can succeed while Ethereum's relevance declines — this is the deepest ETH bear case ...
+
+📺 Jerry Banfield Crypto Reviews
+
+👁️ 830 • 👍 70 • 💬 14 • ⏱️ 35:13 • 23h ago
+
+---
+
+**[ETHEREUM: MOST WILL REALIZE TOO LATE](https://www.youtube.com/watch?v=eeTkVoGI4w0)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 7K • 👍 449 • 💬 310 • ⏱️ 14:25 • 2d ago
 
 ---
 
