@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-18T16:02:45.858706+00:00'
+updated: '2026-07-18T17:30:32.478403+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 16:02 UTC  
+**Last Updated:** July 18, 2026 at 17:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,039.03
+### $64,297.56
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.1%  
-**7d:** +0.5%  
-**30d:** +0.9%  
-**90d:** -15.5%  
-**1y:** -45.6%  
+**7d:** +0.8%  
+**30d:** +1.2%  
+**90d:** -15.2%  
+**1y:** -45.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Foundry Digital said it will allow clients who use its Bitcoin mining pool to vote on BIP-110.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110) • 21h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110) • 23h ago
 
 ---
 
@@ -103,7 +103,7 @@ Its pretty obvious to me now, i have no clue what im doing. BTC avg 122k, SLV et
 
 In an Era of Ephemeral Frameworks, the World’s Most Secure Coin Relies on the Unforgiving Discipline of Systems Architecture.
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-built-to-last-why-bitcoins) • 22h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-built-to-last-why-bitcoins) • 23h ago
 
 ---
 
@@ -119,7 +119,7 @@ A small miner and bip110 node runned asked in the comments what expect past bloc
 
 What’s the true stat to be in the top 10% of all Bitcoin Holders (from a retail perspective)? How much are you trying to stack? What is your goal? There’s a lot of debate around this and wanted to get people’s thoughts.
 
-15h ago
+16h ago
 
 ---
 
@@ -151,13 +151,19 @@ Each pump so far has a demographic behind it, whether it be retail, institutiona
 
 The support team lacks communication skills and just blatantly neglects any helpful information for the Users on what the next steps in the KYC Verification process are. They only suggest that I be patient, and that they've sent the documents that I've already sent them to the proper department without any follow up. I've used NC Wallet for the better part of 3 years sending to and from the same wallets every time and never had a real issue, (other than the lack of providing a TxID for sometimes several days before actually processing and completing,) until I finally deposited a decent amount from a casino ($5,000) and then all of the sudden there's a problem and they need to verify my identity, (which it literally says is not required and won't even let you until they flag the KYC Verification, and that I've now been waiting 2 weeks for.) Now, for obvious reasons I'm submitting reviews on Reddit, Trustpilot, Google Play Store and the major social media platforms about the type of trap this wallet is. I will also be reporting to the DFPI if for whatever reason they cease to communicate with me entirely. Like I said, I've never really had a problem with the app and would like to continue using it or at leaat get my funds back, however, I'm not about to just let $5,000 of mine just get taken without doing something about it. I've read a couple of posts that said they were able to get their accounts back, idk on the legitimacy of that, but I would love to be one of them. If anything, this post is more to let the people that may not know that NC Wallet is definitely not the Wallet to store any of your crypto if you want to have control of your funds. Learn from mine and many others mistakes.. I will edit this post if for some miracle they push my verification through. The AI suggests I add my ticket numbers to help bypass the generic support bot so here they are: NW-146416 NW-144905
 
-19h ago
+21h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
+
+Investor's Business Daily • 1d ago
+
+---
 
 **[Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark](https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark)**
 
@@ -167,23 +173,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 **[Texas commissioners reject downtown bitcoin mine after residents raise water and noise fears](https://www.yahoo.com/news/us/articles/texas-commissioners-reject-downtown-bitcoin-150400662.html)**
 
 "We were told that it’s a close-knit system, but water doesn’t magically appear."
 
-Yahoo • 58m ago
+Yahoo • 2h ago
 
 ---
 
 **[Massive Bitcoin Call Spreads Target $72,000 by Month End, Right When the Fed Meets](https://www.moomoo.com/news/post/73169385/massive-bitcoin-call-spreads-target-72000-by-month-end-right)**
 
-Moomoo • 1h ago
+Moomoo • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ Moomoo • 1h ago
 
 iShares dominates with $47B in assets, while VanEck undercuts on fees at 0.20% versus 0.25%. Which matters more for your portfolio?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1h ago
 
 A Bitcoin mining operation that generated nearly three years of noise complaints from residents along Kentucky Route 1036 is much quieter now.
 
-LEX 18 News • 17h ago
+LEX 18 News • 19h ago
 
 ---
 
@@ -263,7 +263,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 Insomniac Games' upcoming triple-A release has been caught in the midst of an online anti-Sony movement.
 
-⬆️ 2 • 💬 0 • 22h ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
+⬆️ 2 • 💬 0 • 1d ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
 
 ---
 
@@ -277,7 +277,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 825 • 💬 97 • ⏱️ 19:34 • 18h ago
+👁️ 12K • 👍 825 • 💬 97 • ⏱️ 19:34 • 19h ago
 
 ---
 
@@ -297,7 +297,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 7K • 👍 2K • 💬 94 • ⏱️ 17:54 • 2h ago
+👁️ 7K • 👍 2K • 💬 94 • ⏱️ 17:54 • 4h ago
 
 ---
 
@@ -305,7 +305,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 CryptoWendyO
 
-👁️ 10K • 👍 691 • 💬 40 • ⏱️ 2:04 • 15h ago
+👁️ 10K • 👍 691 • 💬 40 • ⏱️ 2:04 • 16h ago
 
 ---
 
@@ -325,7 +325,7 @@ Veteran trader Peter Brandt believes Bitcoin's bear market is far from over. Tra
 
 📺 Cointelegraph
 
-👁️ 483 • 👍 56 • 💬 72 • ⏱️ 32:12 • 3h ago
+👁️ 483 • 👍 56 • 💬 72 • ⏱️ 32:12 • 4h ago
 
 ---
 
@@ -345,7 +345,7 @@ If Bitcoin and crypto is going to zero then why are so many MASSIVE companies in
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 489 • 💬 33 • ⏱️ 27:00 • 22h ago
+👁️ 8K • 👍 489 • 💬 33 • ⏱️ 27:00 • 23h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to e
 
 📺 Crypto Zombie
 
-👁️ 13K • 👍 1K • 💬 162 • ⏱️ 12:20 • 1d ago
+👁️ 13K • 👍 1K • 💬 162 • ⏱️ 12:20 • 2d ago
 
 ---
 
@@ -365,7 +365,7 @@ Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 305 • 💬 43 • ⏱️ 1:16 • 1d ago
+👁️ 13K • 👍 305 • 💬 43 • ⏱️ 1:16 • 2d ago
 
 ---
 

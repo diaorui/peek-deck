@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T16:02:45.863992+00:00'
+updated: '2026-07-18T17:30:32.484453+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 16:02 UTC  
+**Last Updated:** July 18, 2026 at 17:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
+**24h:** -0.2%  
 **7d:** +2.1%  
-**30d:** +7.7%  
+**30d:** +7.6%  
 **90d:** -20.3%  
 **1y:** -48.7%  
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 19h ago
+24/7 Wall St. • 21h ago
 
 ---
 
@@ -166,19 +166,11 @@ CryptoSlate • 3d ago
 
 ---
 
-**[Ethereum rises 1.8% as hopes grow for Senate vo...](https://pluang.com/en/news-feed/ethereum-menanti-vote-clarity-dan-pertahanan-level-kunci)**
+**[Ethereum risks dropping below $1,800 amid thin trading volumes and weak market sentiment.](https://pluang.com/en/news-feed/prediksi-harga-ethereum-volume-tipis-tingkatkan-risiko-turun-di-bawah-1800)**
 
-Ethereum's price increased by 1.8% to $1,845 following Rep. Bryan Steil's indication that the CLARITY Act could reach a Senate vote soon. The act aims to establish federal rules for Ethereum trading under a digital commodity framework, potentially boosting regulatory clarity. Spot Ethereum ETFs saw $105 million in inflows, the highest since April, supporting cautious bullish sentiment. Technically, Ethereum must hold above $1,830 and break $1,854 to target resistance near $1,947, with analysts optimistic about a rise toward $2,000+ if support holds. However, unresolved legislative issues and geopolitical risks could impact the momentum.
+Ethereum has stayed just above $1,800 recently, a key support level, but thin trading volumes and weak investor interest suggest the current rally may be short-lived. Positive net inflows into Ethereum ETFs in July indicate some renewed interest, yet overall market sentiment remains cautious due to an unfavorable macroeconomic outlook and expected Federal Reserve rate hikes. If Ethereum fails to hold $1,800, it could fall toward $1,550, while resistance near $2,000 may limit any upside in the near term.
 
-Pluang • 3h ago
-
----
-
-**[Ethereum dips 3.6% amid $165M whale buys and mi...](https://pluang.com/en/news-feed/harga-ethereum-eth-turun-7-persen-whale-akumulasi-165-juta-pemulihan-depan)**
-
-Ethereum's price fell 3.6% to around $1,823 after reaching near $1,944 three days ago, despite major whale purchases totaling about 89,396 ETH worth $164.88 million. While US spot Ethereum ETFs saw $68 million inflows this week and exchange reserves dropped, network activity showed mixed signals with active addresses hitting December lows but transaction volume reaching record highs. Technical analysis suggests sellers dominate short-term momentum, yet strong support at $1,780 could push prices to $2,200-$2,400 soon, according to analyst Michaël van de Poppe. Liquidations reached $91.4 million in 24 hours, highlighting market volatility.
-
-Pluang • 3h ago
+Pluang • 25m ago
 
 ---
 
@@ -190,25 +182,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum at Amazon/Nvidia-Like Inflection Point, Tom Lee Forecasts $12,000 ETH](https://www.tradingview.com/news/coinpedia:b8cb37750094b:0-ethereum-at-amazon-nvidia-like-inflection-point-tom-lee-forecasts-12-000-eth/)**
-
-Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
-
-TradingView • 17h ago
-
----
-
 **[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
 Decrypt • 1d ago
-
----
-
-**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
-
-MarketWatch • 1d ago
 
 ---
 
@@ -224,7 +202,29 @@ FXStreet • 1d ago
 
 Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
 
-CoinMarketCap • 14h ago
+CoinMarketCap • 15h ago
+
+---
+
+**[Ethereum daily transactions rise 34% to 2M as fees drop 34% to $344M](https://cryptobriefing.com/ethereum-daily-transactions-rise-fees-drop/)**
+
+Crypto Briefing • 1d ago
+
+---
+
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
+
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
+
+Stocktwits • 1d ago
+
+---
+
+**[Ethereum Faces a $10 Billion Liquidation Battle: Will ETH Price Rally to $2,200 or Crash to $1,400?](https://coinpedia.org/price-analysis/ethereum-faces-a-10-billion-liquidation-battle-will-eth-price-rally-to-2200-or-crash-to-1400/)**
+
+Ethereum is approaching a critical resistance zone, with a breakout potentially paving the way for a rally toward the $2,200 liquidity cluster.
+
+Coinpedia • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 610 • 👍 41 • 💬 84 • ⏱️ 13:08 • 3h ago
+👁️ 610 • 👍 41 • 💬 84 • ⏱️ 13:08 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 119 • ⏱️ 12:55 • 19h ago
+👁️ 23K • 👍 1K • 💬 119 • ⏱️ 12:55 • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is down almost 70% from its all-time high, but could this be one of the
 
 📺 Coin Bureau Trading
 
-👁️ 914 • 👍 81 • 💬 5 • ⏱️ 9:10 • 5h ago
+👁️ 914 • 👍 81 • 💬 5 • ⏱️ 9:10 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 205 • 💬 80 • ⏱️ 20:43 • 23h ago
+👁️ 5K • 👍 205 • 💬 80 • ⏱️ 20:43 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 94 • 💬 11 • ⏱️ 17:29 • 22h ago
+👁️ 2K • 👍 94 • 💬 11 • ⏱️ 17:29 • 1d ago
 
 ---
 
@@ -308,7 +308,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 35K • 👍 2K • 💬 107 • ⏱️ 14:48 • 21h ago
+👁️ 35K • 👍 2K • 💬 107 • ⏱️ 14:48 • 22h ago
 
 ---
 
@@ -318,7 +318,7 @@ For folks who want a Non-KYC crypto exchange, Pablo uses Pionex and Bitunix, whi
 
 📺 Heman Pablo
 
-👁️ 267 • 👍 9 • 💬 23 • ⏱️ 19:58 • 5h ago
+👁️ 267 • 👍 9 • 💬 23 • ⏱️ 19:58 • 6h ago
 
 ---
 
@@ -328,7 +328,7 @@ Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistanc
 
 📺 Lark Davis
 
-👁️ 2K • 👍 52 • 💬 1 • ⏱️ 0:56 • 12h ago
+👁️ 2K • 👍 52 • 💬 1 • ⏱️ 0:56 • 13h ago
 
 ---
 

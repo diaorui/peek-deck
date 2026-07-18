@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-18T16:02:45.850852+00:00'
+updated: '2026-07-18T17:30:32.469697+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 18, 2026 at 16:02 UTC  
+**Last Updated:** July 18, 2026 at 17:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Tesla's AI can be defeated by a simple doll](https://www.reddit.com/r/artificial/comments/1uz66nv/teslas_ai_can_be_defeated_by_a_simple_doll/)**
-
-If you want an AI app which actually works, try AI Desktop 98.
-
-22h ago
-
----
-
 **[Prompt injection works on Telegram romance scam bots](https://www.reddit.com/r/artificial/comments/1uzxful/prompt_injection_works_on_telegram_romance_scam/)**
 
 Tried prompt injection on a bot that was trying to romance scam me. Worked immediately. Instead of switching platforms I just asked it what its actual task was. It dropped the persona instantly. These things are everywhere now. How long until they're indistinguishable?
 
-1h ago
+2h ago
 
 ---
 
@@ -57,15 +49,7 @@ Tried prompt injection on a bot that was trying to romance scam me. Worked immed
 
 Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday. He encouraged "open-source, openness, collaboration, and sharing."
 
-🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 18h ago
-
----
-
-**[update on the browser extension that fact checks YouTube videos AS YOU WATCH](https://www.reddit.com/r/artificial/comments/1uze14i/update_on_the_browser_extension_that_fact_checks/)**
-
-HI all, First, thank you so much for your feedback and interest in my project PopUpFactCheck. When I first posted about this July 1, I did not expect the reception it would get and I am so thankful to y'all. Some updates. You asked for Firefox, and it is now a Firefox add-on. It has new features. For example, using the up and down arrows on Chrome (or Option (⌥) + ↑/↓ on Firefox) you can scroll back and forth of the factcheck bubbles already displayed. The fact checking on live videos has improved. And it now does batch reporting on an entire video. Once again, Claude Code was a major tool in my development, and the AI that is used for orchestration is OpenAI GPT 5.4 nano and mini. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. PopUpFactCheck - Chrome Web Store PopUpFactCheck - Firefox add-on PopUpFactCheck - Homepage
-
-17h ago
+🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 20h ago
 
 ---
 
@@ -73,37 +57,31 @@ HI all, First, thank you so much for your feedback and interest in my project Po
 
 Out of ~30 MCP servers I tested for non-dev work over 4 months, I kept 8 in daily rotation. The ecosystem hit 10K+ servers by early 2026 (22K+ on Glama by May) but most are either demo-ware or duplicate coverage. Sharing the honest cut because "MCP for non-devs" posts usually list every option without saying which ones survive real use. The keepers for marketing/social. PostFast handles cross-platform scheduling from Claude, 11 platforms including Google Business Profile which nobody else keeps now that Buffer dropped it, €10/mo. Analytics are thinner than Metricool so I run both. Metricool at $22/mo covers analytics + scheduling with an official server at ai.metricool.com/mcp. Vista Social has 35+ MCP tools at agency scale ($120/mo). For SEO research, Ahrefs MCP is solid but pricey ($129/mo starter), Semrush overlaps. Tally is the free win, 21 MCP tools for forms with OAuth setup any non-dev can wire up in 2 min. Docs and knowledge work. Notion MCP is the obvious install if you already pay for it, lets Claude create pages, update databases and read across your workspace. Slack MCP is decent but read/summarize is where it shines, message posting still feels risky without human approval. Linear MCP for project tracking works well if that's your stack. Airtable overlaps with Notion for most workflows, only worth it if it's your source of truth. CRM and sales. HubSpot MCP is the best-supported CRM server, full read/write, works with Claude and ChatGPT out of box. Salesforce has AgentForce but no open MCP server on par with HubSpot yet. For outbound sales specifically, Amplemarket scored highest in recent benchmarks (find, enrich, sequence, enroll all in one), Apollo is close second and cheaper. Ads and analytics. BigQuery MCP auto-enables on all Google Cloud projects after March 2026 so most already have it. Google Ads MCP, Meta Ads MCP and GA4 MCP each ship official servers, downside is you need read-only setup or Claude will fumble a tool call and mess with budgets. SegmentStream unifies attribution across channels which is the missing piece for most stacks. What I skipped. Zapier/Make MCP feel redundant if you already have direct servers for the tools they wrap, extra layer of latency and cost. Airtable if Notion covers you. Anything on Glama with under ~50 stars, ecosystem quality is a coin flip and 41% of public MCP servers have no auth per security audits, only 8.5% use OAuth. Stick with vendor-maintained (official) or well-audited community ones.
 
-2h ago
+3h ago
 
 ---
 
-**[Automation Is The Biggest Opportunity Right Now](https://www.reddit.com/r/artificial/comments/1uztvkj/automation_is_the_biggest_opportunity_right_now/)**
+**[update on the browser extension that fact checks YouTube videos AS YOU WATCH](https://www.reddit.com/r/artificial/comments/1uze14i/update_on_the_browser_extension_that_fact_checks/)**
 
-I think automation is one of the biggest opportunities right now. The quality of what you can automate today is honestly crazy, and it applies to almost every business. Whether you own a local business and want to automate things like email marketing, follow ups, content creation, customer replies, and lead generation... Or you run an agency or SaaS and want your business working even when you're away from your computer. Automation today reminds me a lot of the Industrial Revolution. Back then, machines replaced a huge amount of manual work, allowing companies to produce more, lower costs, and make more money. I run a web agency, and automation has made me a lot of revenue over the last few years. The biggest one for me is client acquisition. I use a tool called Swokei to find businesses that already have websites, add them to campaigns, and run website analysis. It automatically turns problems like outdated design, poor layouts, slow loading speeds, weak mobile optimization, and bad SEO into personalized, ready to send outreach emails. That's where most of my clients come from. I also automate follow up emails and newsletters, so I'm not constantly chasing people manually. For content, I use Holo to help generate and schedule posts. For SEO, I use Soro to automatically create blog content that helps bring in organic traffic over time. The more I automate, the less time I spend doing repetitive work. That means I can spend more time on the things that actually make money, like sales, onboarding clients, improving my services, and building better websites. I don't think automation replaces hard work. It just removes the repetitive work so you can focus on the parts of your business that actually move the needle.
+HI all, First, thank you so much for your feedback and interest in my project PopUpFactCheck. When I first posted about this July 1, I did not expect the reception it would get and I am so thankful to y'all. Some updates. You asked for Firefox, and it is now a Firefox add-on. It has new features. For example, using the up and down arrows on Chrome (or Option (⌥) + ↑/↓ on Firefox) you can scroll back and forth of the factcheck bubbles already displayed. The fact checking on live videos has improved. And it now does batch reporting on an entire video. Once again, Claude Code was a major tool in my development, and the AI that is used for orchestration is OpenAI GPT 5.4 nano and mini. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. PopUpFactCheck - Chrome Web Store PopUpFactCheck - Firefox add-on PopUpFactCheck - Homepage
 
-4h ago
-
----
-
-**[IA do Google reconstrói o mais belo gol de Pelé](https://www.reddit.com/r/artificial/comments/1uzyou1/ia_do_google_reconstrói_o_mais_belo_gol_de_pelé/)**
-
-Obra-prima não foi registrada em filme nem em vídeo
-
-🔗 [Revista Oeste](https://revistaoeste.com/tecnologia/ia-do-google-reconstroi-o-mais-belo-gol-de-pele/) • 41m ago
+19h ago
 
 ---
 
-**[Document generation](https://www.reddit.com/r/artificial/comments/1uzx1pu/document_generation/)**
+**[The White House is dictating access to frontier AI models, shifting power from tech giants, sources say](https://www.reddit.com/r/artificial/comments/1v010pk/the_white_house_is_dictating_access_to_frontier/)**
 
-I need to be able to create estimates and invoices for my small biz. I have used ChatGPT in the past, but it seems to get progressively worse at this task. I know it’s not really its thing, so wondering if I spend the time to set up my template, is there a model that is actually good at making a repeatable doc? It’s actually wild, as of late, it literally won’t spit me out a pdf most times. It’ll say: - “I don’t think the document will be to you standard” Or even “I am unable to produce a document in this chat” It’s actually incredibly frustrating bc it spit out really nice estimates for months, but has regressed. I know estimating and invoicing is risky with AI but I check it. It’s just become more trouble than it’s worth recently. I like that I can talk to it, bc I often make these while on the go. Thanks for any insight. I assume it’ll be a custom model I should maybe train myself? Would that be Claude?
+The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
+
+🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 36m ago
+
+---
+
+**[This is bad...right?](https://www.reddit.com/r/artificial/comments/1uzzqyf/this_is_badright/)**
+
+So this has happened to me a few times this year. I will be listening to Youtube music videos in the background as I am working, reading, or just chilling and a song will come on that just speaks to me. Being on this forum you can see where its going. I have found that several of these songs are written, created, sung, etc exclusively by AI. On one hand its super impressive....on the other hand there is an undeniable part of me that does not like this trend. To me music has always been about the expression of emotion by humans in a way that few things can do. Now we have computers just writing and singing damn good songs. I'm torn on this. How long until an AI tops the billboard top 100? What are your feelings on this?
 
 1h ago
-
----
-
-**[AI race splits in two as China wages open-weight insurgency](https://www.reddit.com/r/artificial/comments/1uzwdku/ai_race_splits_in_two_as_china_wages_openweight/)**
-
-🔗 [axios.com](https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai) • 2h ago
 
 ---
 
@@ -111,7 +89,29 @@ I need to be able to create estimates and invoices for my small biz. I have used
 
 Last year I worked with an AI startup, an Oxford spinout. Their product answered research questions through a RAG pipeline. It worked, but every query took around 90 seconds. Long enough that users were bailing before the answer even loaded. The obvious move is to blame the model and go bigger. That wasn't it. The retrieval layer was doing way more work than it needed to on every single query: bloated embeddings, no caching, redundant calls stacking up as the document set grew. I stripped that layer down. Response time went from 90 seconds to about 4, and cost dropped roughly 95%, mostly because the pipeline stopped repeating work it never needed to do in the first place. Separately, I also rebuilt the retrieval on Weaviate. That part wasn't about speed, it fixed accuracy issues in what the pipeline was actually retrieving. Same lesson as most AI performance problems I run into: it's rarely the model. It's the layer nobody's looking at.
 
-14m ago
+1h ago
+
+---
+
+**[Document generation](https://www.reddit.com/r/artificial/comments/1uzx1pu/document_generation/)**
+
+I need to be able to create estimates and invoices for my small biz. I have used ChatGPT in the past, but it seems to get progressively worse at this task. I know it’s not really its thing, so wondering if I spend the time to set up my template, is there a model that is actually good at making a repeatable doc? It’s actually wild, as of late, it literally won’t spit me out a pdf most times. It’ll say: - “I don’t think the document will be to you standard” Or even “I am unable to produce a document in this chat” It’s actually incredibly frustrating bc it spit out really nice estimates for months, but has regressed. I know estimating and invoicing is risky with AI but I check it. It’s just become more trouble than it’s worth recently. I like that I can talk to it, bc I often make these while on the go. Thanks for any insight. I assume it’ll be a custom model I should maybe train myself? Would that be Claude?
+
+3h ago
+
+---
+
+**[Automation Is The Biggest Opportunity Right Now](https://www.reddit.com/r/artificial/comments/1uztvkj/automation_is_the_biggest_opportunity_right_now/)**
+
+I think automation is one of the biggest opportunities right now. The quality of what you can automate today is honestly crazy, and it applies to almost every business. Whether you own a local business and want to automate things like email marketing, follow ups, content creation, customer replies, and lead generation... Or you run an agency or SaaS and want your business working even when you're away from your computer. Automation today reminds me a lot of the Industrial Revolution. Back then, machines replaced a huge amount of manual work, allowing companies to produce more, lower costs, and make more money. I run a web agency, and automation has made me a lot of revenue over the last few years. The biggest one for me is client acquisition. I use a tool called Swokei to find businesses that already have websites, add them to campaigns, and run website analysis. It automatically turns problems like outdated design, poor layouts, slow loading speeds, weak mobile optimization, and bad SEO into personalized, ready to send outreach emails. That's where most of my clients come from. I also automate follow up emails and newsletters, so I'm not constantly chasing people manually. For content, I use Holo to help generate and schedule posts. For SEO, I use Soro to automatically create blog content that helps bring in organic traffic over time. The more I automate, the less time I spend doing repetitive work. That means I can spend more time on the things that actually make money, like sales, onboarding clients, improving my services, and building better websites. I don't think automation replaces hard work. It just removes the repetitive work so you can focus on the parts of your business that actually move the needle.
+
+5h ago
+
+---
+
+**[AI race splits in two as China wages open-weight insurgency](https://www.reddit.com/r/artificial/comments/1uzwdku/ai_race_splits_in_two_as_china_wages_openweight/)**
+
+🔗 [axios.com](https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai) • 3h ago
 
 ---
 
@@ -121,13 +121,53 @@ Last year I worked with an AI startup, an Oxford spinout. Their product answered
 
 **[MLB restricts using dugout iPads for AI-assisted in-game strategy](https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making)**
 
-ESPN • 21h ago
+ESPN • 23h ago
+
+---
+
+**[The White House is dictating access to frontier AI models, shifting power from tech giants, sources say](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html)**
+
+The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
+
+CNBC • 19h ago
+
+---
+
+**[The AI rotation stole the spotlight from a strong start to earnings season](https://www.cnbc.com/2026/07/18/the-ai-rotation-stole-the-spotlight-from-a-strong-start-to-earnings-season-.html)**
+
+The AI trade dominated the market once again this week, upstaging an impressive start to the second-quarter earnings season.
+
+CNBC • 58m ago
+
+---
+
+**[Silicon Valley Has Lost Its Biggest Advantage](https://www.theatlantic.com/technology/2026/07/data-center-ai-heavy-industry/687990/)**
+
+In the data-center age, the business of tech companies is more like oil-refining than coding.
+
+The Atlantic • 6h ago
+
+---
+
+**[The sell-off for AI stars worsens, while oil prices keep jumping](https://apnews.com/article/stocks-markets-ai-iran-trump-rates-65449e9565fba441a617f9517e097f5a)**
+
+The sell-off for AI winners deepened and yanked stock markets lower worldwide. The S&amp;P 500 fell 1% Friday to finish its first losing week in the last three and only its third since March.
+
+AP News • 20h ago
+
+---
+
+**[How data centers became a symbol of Americans’ rage](https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/)**
+
+Data centers have become a lightning rod for people's frustrations over corporate power, public trust and the costs of the AI boom.
+
+The Washington Post • 1h ago
 
 ---
 
 **[China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
 
-The New York Times • 19h ago
+The New York Times • 21h ago
 
 ---
 
@@ -139,57 +179,17 @@ CNBC • 1d ago
 
 ---
 
-**[A Chinese Pink Floyd fan is giving Claude and Chat their own DeepSeek moment — an AI model just as good and half the price](https://fortune.com/2026/07/18/yang-zhilin-moonshot-kimi-k3-carnegie-mellon/)**
+**[Meet Yang Zhilin, the CEO and founder behind China's buzzy new Kimi K3 AI model](https://www.businessinsider.com/who-is-yang-zhilin-ceo-founder-moonshot-ai-kimi-k3-2026-7)**
 
-Moonshot's founder trained at Carnegie Mellon. Now his Kimi K3 model is beating U.S. giants at their own game — and making Silicon Valley sweat.
+Yang Zhilin is the CEO and founder of Moonshot AI, a Chinese startup that developed Kimi K3. The Kimi K3 model raised eyebrows in Silicon Valley.
 
-Fortune • 1h ago
-
----
-
-**[Retailers embrace AI as bots become buyers](https://www.axios.com/media-trends-membership/2026/07/18/ai-shopping-agents-retail)**
-
-Axios • 8m ago
+Business Insider • 1h ago
 
 ---
 
-**[This AI revelation could change how your children learn languages forever](https://www.futura-sciences.com/en/this-ai-revelation-could-change-how-your-children-learn-languages-forever_36091/)**
+**[AI is breaking the way marketers measure shopping](https://www.axios.com/media-trends-membership/2026/07/18/ai-shopping-measurement-last-click)**
 
-Why Do So Many Struggle With Speaking Another Language? For years, people in France have lagged behind most of their European neighbors when it comes to practical foreign language skills. The root cause? In large part, it’s a genuine fear of speaking aloud—something the AI-powered app Speak aims to solve....
-
-Futura, le média qui explore le monde • 1h ago
-
----
-
-**[How AI-Generated Songs Like ‘GG EZ’ Are Taking Over K-Pop Dance Challenges](https://www.forbes.com/sites/laurasirikul/2026/07/18/how-ai-generated-songs-like-gg-ez-are-taking-over-k-pop-dance-challenges/)**
-
-AI-Generated songs have been becoming popularized by viral dance challenges done by global and K-pop artists like Jung Kook, ATEEZ, TXT, ITZY, and more, but do they know?
-
-Forbes • 32m ago
-
----
-
-**[The sell-off for AI stars worsens, while oil prices keep jumping](https://apnews.com/article/stocks-markets-ai-iran-trump-rates-65449e9565fba441a617f9517e097f5a)**
-
-The sell-off for AI winners deepened and yanked stock markets lower worldwide. The S&amp;P 500 fell 1% Friday to finish its first losing week in the last three and only its third since March.
-
-AP News • 19h ago
-
----
-
-**[Silicon Valley Has Lost Its Biggest Advantage](https://www.theatlantic.com/technology/2026/07/data-center-ai-heavy-industry/687990/)**
-
-In the data-center age, the business of tech companies is more like oil-refining than coding.
-
-The Atlantic • 4h ago
-
----
-
-**[The White House is dictating access to frontier AI models, shifting power from tech giants, sources say](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html)**
-
-The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
-
-CNBC • 17h ago
+Axios • 1h ago
 
 ---
 
@@ -199,13 +199,13 @@ CNBC • 17h ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 532 • 💬 357 • 17h ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 533 • 💬 359 • 19h ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 465 • 💬 342 • 1d ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 469 • 💬 342 • 1d ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -221,7 +221,7 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.
 
-⬆️ 362 • 💬 122 • 4h ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+⬆️ 379 • 💬 131 • 6h ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
@@ -241,7 +241,7 @@ The AI agent made for open models, built to get things done.
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 196 • 💬 234 • 4h ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 253 • 💬 297 • 6h ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -249,13 +249,13 @@ The AI agent made for open models, built to get things done.
 
 The move is a vote of confidence in Boeing from the U.S. government.
 
-⬆️ 183 • 💬 111 • 18h ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+⬆️ 185 • 💬 113 • 20h ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 
 ---
 
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 159 • 💬 82 • 2d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+⬆️ 159 • 💬 83 • 2d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -277,7 +277,7 @@ Take back your privacy- start using Proton Mail for free: http://proton.me/tldr 
 
 📺 TLDR News Global
 
-👁️ 145K • 👍 6K • 💬 898 • ⏱️ 8:56 • 7h ago
+👁️ 145K • 👍 6K • 💬 898 • ⏱️ 8:56 • 8h ago
 
 ---
 
@@ -287,7 +287,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 38K • 👍 764 • 💬 192 • ⏱️ 20:51 • 1d ago
+👁️ 38K • 👍 764 • 💬 192 • ⏱️ 20:51 • 2d ago
 
 ---
 
@@ -297,7 +297,7 @@ Tenex co-founder and co-managing partner Arman Hezarkhani breaks down the featur
 
 📺 Fox Business
 
-👁️ 27K • 👍 426 • 💬 212 • ⏱️ 6:33 • 19h ago
+👁️ 27K • 👍 426 • 💬 212 • ⏱️ 6:33 • 20h ago
 
 ---
 
@@ -307,7 +307,7 @@ China's Moonshot AI just released Kimi K3, the world's largest open-weight AI mo
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 128 • ⏱️ 14:29 • 17h ago
+👁️ 29K • 👍 1K • 💬 128 • ⏱️ 14:29 • 19h ago
 
 ---
 
@@ -317,7 +317,7 @@ At the 2026 World Artificial Intelligence Conference China's Moonshot AI unveile
 
 📺 Bloomberg Television
 
-👁️ 11K • 👍 393 • 💬 167 • ⏱️ 12:27 • 4h ago
+👁️ 11K • 👍 393 • 💬 167 • ⏱️ 12:27 • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ At the 2026 World Artificial Intelligence Conference China's Moonshot AI unveile
 
 📺 All-In Podcast
 
-👁️ 124K • 👍 3K • 💬 484 • ⏱️ 1:29:55 • 15h ago
+👁️ 124K • 👍 3K • 💬 484 • ⏱️ 1:29:55 • 16h ago
 
 ---
 
@@ -337,7 +337,7 @@ so let's FIGHT the plague of AI slop by celebrating HUMAN creators! See you toni
 
 📺 JJJacksfilms
 
-👁️ 111K • 👍 10K • 💬 2K • ⏱️ 3:50 • 20h ago
+👁️ 111K • 👍 10K • 💬 2K • ⏱️ 3:50 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ US tech firms have long feared that their Chinese competitors could catch them u
 
 📺 Sky News
 
-👁️ 11K • 👍 440 • 💬 124 • ⏱️ 6:28 • 4h ago
+👁️ 11K • 👍 440 • 💬 124 • ⏱️ 6:28 • 5h ago
 
 ---
 
@@ -395,7 +395,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 301,893 • ❤️ 711 • 9h ago
+⬇️ 301,893 • ❤️ 711 • 11h ago
 
 ---
 
@@ -407,7 +407,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,218,815 • ❤️ 425 • 23h ago
+⬇️ 1,218,815 • ❤️ 425 • 1d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 380 • 3h ago
+⬇️ 0 • ❤️ 380 • 5h ago
 
 ---
 
@@ -663,7 +663,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.9k • 🔱 212 • 23h ago
+⭐ 2.9k • 🔱 212 • 1d ago
 
 ---
 
@@ -703,7 +703,7 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 
 `Python` `ai` `ai-agents` `api` `copilot` `llm`
 
-⭐ 1.1k • 🔱 374 • 20d ago
+⭐ 1.1k • 🔱 374 • 21d ago
 
 ---
 
