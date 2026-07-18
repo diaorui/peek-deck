@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-18T06:05:41.816298+00:00'
+updated: '2026-07-18T08:20:02.170394+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 18, 2026 at 06:05 UTC  
+**Last Updated:** July 18, 2026 at 08:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially the models controlling them reliably, aren’t available yet, so we’re focusing on making the options we can use right now and actually work.
 
-14h ago
+17h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially 
 
 I’m happy to share another video of my quadruped robot climbing stairs! Since my previous post, I have added contact sensors and modified the locomotion control algorithm. Previously, the robot used a fairly standard MPC + WBC + vision-based control framework. I have now added a reference generator based on the Linear Inverted Pendulum Model. It generates dynamically consistent body position, velocity, and acceleration trajectories for the MPC and WBC controllers. This modification significantly improved the robot’s stability. It also allowed me to increase the swing duration of each leg, resulting in smoother foot trajectories, softer ground contacts, and quieter locomotion.
 
-13h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’m happy to share another video of my quadruped robot climbing stairs! Since 
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-🔗 [WIRED](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/) • 20h ago
+🔗 [WIRED](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/) • 22h ago
 
 ---
 
@@ -60,7 +60,7 @@ The CEO of Foundation Future Industries, which counts the president’s son as i
 
 After months of chasing benchmark numbers and metrics that looked great, but our robot kept making weird, unnatural misses and dropping objects mid-grab, we finally stopped tuning the model and went digging through the data itself. By tracking per-sample loss, classifying each sample's loss-trajectory shape, and doing some manual inspection, we found at least 10 counterproductive sequences in the train split (and a few in eval) of LIBERO, a widely used robot-learning benchmark. In several of them, the object is missed or falls mid-grab, and the model is being trained and even evaluated on exactly those. Q1. What's the right way to handle these partial/failed sequences? Straight deletion feels wrong. Some of that "fail then recover" signal might actually be teaching the policy to recover. Q2. What do people use to actually understand their data in this space, beyond eyeballing episodes?
 
-16h ago
+18h ago
 
 ---
 
@@ -68,7 +68,7 @@ After months of chasing benchmark numbers and metrics that looked great, but our
 
 That's a drone in the picture! Computational design generated a spinning drone that’s nearly transparent. Called the phantom twist, it's still loud, but it's quite hard to see with a human eye. See for yourself: https://www.youtube.com/watch?v=5KQ7dKs1dpQ&t=1s
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 12h ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 14h ago
 
 ---
 
@@ -76,13 +76,13 @@ That's a drone in the picture! Computational design generated a spinning drone t
 
 Hi everyone, I built OnSLAM, a Windows application that runs a LiDAR-inertial odometry and mapping pipeline directly on ROS1 bag files. The main idea is to make it easier for beginners, researchers, or anyone quickly testing datasets to go from a LiDAR-IMU bag to a point-cloud map without setting up Linux, ROS, Python environments, dependencies, or terminal commands. You install the .exe, launch it, and it opens a simple browser-based interface. The interface runs locally, so your bag files and processing data never leave your computer. OnSLAM can currently: inspect ROS1 bags for compatible LiDAR and IMU topics let you configure topics, extrinsics, time offsets, frame limits, and processing quality filter and downsample scans use IMU data as a motion prior align scans to a cached local submap using point-to-plane ICP display the map, trajectory, and tracking quality live export PLY, PCD, and dense point-cloud maps decode Livox CustomMsg data I am currently looking for people who can test it on different sensors, bag structures, and datasets. Bug reports, feature suggestions, and especially bags that fail to process would be really helpful. GitHub: https://github.com/musabali314/OnSLAM Download: https://github.com/musabali314/OnSLAM/releases Promise, the .exe is not a virus. Windows may still act suspicious because it is unsigned 😭 I am considering ROS2 .db3 support next, followed by possible camera or visual-inertial inputs. Which one would be more useful to you?
 
-11h ago
+13h ago
 
 ---
 
 **[Finsh my work with 3D Camera P008G, Weekend is coming](https://www.reddit.com/r/robotics/comments/1uz0fyy/finsh_my_work_with_3d_camera_p008g_weekend_is/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -98,7 +98,7 @@ This is my DIY 3D-printed cycloidal gearbox, designed and built from scratch in 
 
 try it right now without installing anything. the fiftyone app is running in a hugging face space for the first time (its a bit hacky atm, but working on polishing it up) space: https://huggingface.co/spaces/harpreetsahota/fiftyone-app full walkthrough: https://voxel51.com/blog/view-mcap-files-fiftyone
 
-14h ago
+16h ago
 
 ---
 
@@ -106,7 +106,7 @@ try it right now without installing anything. the fiftyone app is running in a h
 
 Hey everyone, During active robot bring-up and debugging, I always found myself constantly context-switching between five different terminal windows (one for colcon build, one for ros2 launch, one for checking topics/nodes, one for my editor, etc.). To fix this, I built **ros2_info**—a full-screen, VS Code-style Terminal User Interface (TUI) designed specifically for ROS 2 workflows. It gives you a complete workspace lens with zero Electron weight. ### 🌟 Key Features: * **6 Live Dashboard Tabs:** Real-time visibility into Overview, ROS 2 graph state, Workspace, Diagnostics, Trends, and Fleet. * **Real PTY Terminal:** Run `ros2` commands, `colcon build`, and launch files live inside the dashboard (not just a basic command wrapper). * **Multi-tab Editor:** Built-in code editor with syntax highlighting, find/replace, and Neovim keybindings for quick tweaks over SSH. * **Local Offline AI Assistant:** Powered by Ollama (`ai scan`, `ai fix`, `ai explain`). It can catch build errors and offer diff-gated fixes completely offline. * **Sandbox Mode:** Safely isolate nodes, topics, and services from your real system to experiment freely. Because it's built with **Rust + Ratatui**, it runs incredibly fast, has no heavy dependency chains, and works flawlessly over SSH on a Raspberry Pi or Jetson. 🔗 **Check out the repo here:** https://github.com/Gaurav-x111/ros2\_info I'd love to hear your feedback or feature requests! If this looks like something that could speed up your robotics workflow, dropping a ⭐ on GitHub would mean the world to me!
 
-14h ago
+17h ago
 
 ---
 
@@ -118,7 +118,7 @@ Hey everyone, During active robot bring-up and debugging, I always found myself 
 
 Agility is opening a new training center for its Digit robots in Fremont, California.
 
-TechCrunch • 9h ago
+TechCrunch • 12h ago
 
 ---
 
@@ -134,7 +134,15 @@ NVIDIA Blog • 2d ago
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-WIRED • 21h ago
+WIRED • 23h ago
+
+---
+
+**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 16h ago
 
 ---
 
@@ -156,7 +164,7 @@ Reuters • 1d ago
 
 "One brutal kick sent the robot's head hanging loose."
 
-Common Dreams • 9h ago
+Common Dreams • 11h ago
 
 ---
 
@@ -173,14 +181,6 @@ Fortune • 2d ago
 Sunday Robotics, a $1.15 billion startup, will place Memo robots in homes through a beta program this fall.
 
 Business Insider • 1d ago
-
----
-
-**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
-
-A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
-
-The Mercury News • 1d ago
 
 ---
 
@@ -202,45 +202,7 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Air Photography
 
-👁️ 28K • 👍 748 • 💬 108 • ⏱️ 7:15 • 1d ago
-
----
-
-**[IRI 2026 Friday | FRC Event | Indiana Robotics Invitational](https://www.youtube.com/watch?v=Eoer5GFdRFI)**
-
-Event Results: https://www.thebluealliance.com/event/2026iri or https://frc-events.firstinspires.org/2026/ININD The mission of IRI is ...
-
-📺 FUN Robotics Network
-
-👁️ 10K • 👍 72 • ⏱️ 9:48:35 • 6h ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 203K • 👍 7K • 💬 98 • ⏱️ 1:03 • 6d ago
-
----
-
-**[Xiaomi Humanoid Robot Now Builds Cars With 98% Accuracy](https://www.youtube.com/watch?v=V_X7Wh08HJg)**
-
-Humanoid robots are no longer just concepts. Xiaomi has released an uncut factory video showing its latest robots performing real ...
-
-📺 DPCcars
-
-👁️ 5K • 👍 76 • 💬 18 • ⏱️ 3:56 • 2d ago
-
----
-
-**[These Robots Fight Better Than You Think | URKL: Ultimate Humanoid Robot Knockout League](https://www.youtube.com/watch?v=DUbbBdSGHE8)**
-
-Watch the most intense moments from the Ultimate Humanoid Robot Knockout League (URKL), where cutting-edge humanoid ...
-
-📺 The Construct Robotics Institute
-
-👁️ 7K • 👍 159 • 💬 42 • ⏱️ 2:18 • 12h ago
+👁️ 29K • 👍 768 • 💬 110 • ⏱️ 7:15 • 1d ago
 
 ---
 
@@ -254,21 +216,61 @@ Venture capital investment in humanoid robotics just hit an all time record, but
 
 ---
 
-**[Saving a robot dinosaur and testing its launcher! 🦖#robot #robotics #dinosaur #dino #ruko](https://www.youtube.com/watch?v=_G649LLH2Sw)**
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
 
-📺 Smarttoy Ruko
+📺 Varun Mayya
 
-👁️ 32K • 👍 163 • 💬 2 • ⏱️ 0:18 • 20h ago
+👁️ 203K • 👍 7K • 💬 97 • ⏱️ 1:03 • 6d ago
 
 ---
 
-**[ACT-2: Preview](https://www.youtube.com/watch?v=d7I1wj0Gkik)**
+**[These Robots Fight Better Than You Think | URKL: Ultimate Humanoid Robot Knockout League](https://www.youtube.com/watch?v=DUbbBdSGHE8)**
 
-Today, we preview ACT-2, the first robotics model to achieve reliability by unifying broad generalization with high performance.
+Watch the most intense moments from the Ultimate Humanoid Robot Knockout League (URKL), where cutting-edge humanoid ...
 
-📺 Sunday Robotics
+📺 The Construct Robotics Institute
 
-👁️ 30K • 👍 1K • 💬 121 • ⏱️ 2:26 • 1d ago
+👁️ 11K • 👍 203 • 💬 58 • ⏱️ 2:18 • 14h ago
+
+---
+
+**[Xiaomi Humanoid Robot Now Builds Cars With 98% Accuracy](https://www.youtube.com/watch?v=V_X7Wh08HJg)**
+
+Humanoid robots are no longer just concepts. Xiaomi has released an uncut factory video showing its latest robots performing real ...
+
+📺 DPCcars
+
+👁️ 5K • 👍 77 • 💬 18 • ⏱️ 3:56 • 2d ago
+
+---
+
+**[IRI 2026 Friday | FRC Event | Indiana Robotics Invitational](https://www.youtube.com/watch?v=Eoer5GFdRFI)**
+
+Event Results: https://www.thebluealliance.com/event/2026iri or https://frc-events.firstinspires.org/2026/ININD The mission of IRI is ...
+
+📺 FUN Robotics Network
+
+👁️ 10K • 👍 72 • ⏱️ 9:48:35 • 8h ago
+
+---
+
+**[SURGERY REVOLUTION: Humanoid robots take a major step forward](https://www.youtube.com/watch?v=hOW1GH6qv6Q)**
+
+Kurt 'CyberGuy' Knutsson explains a groundbreaking medical trial in which humanoid robots performed remote surgery under the ...
+
+📺 Fox News Clips
+
+👁️ 5K • 👍 153 • 💬 29 • ⏱️ 5:25 • 4d ago
+
+---
+
+**[Tesla Bot Gen 3&#39;s New Hand Is FINALLY Here—1,000 Tasks Unlocked!](https://www.youtube.com/watch?v=mPdrjyd-xGY)**
+
+Tesla Bot Gen 3's New Hand Is FINALLY Here—1000 Tasks Unlocked! Tesla Bot Gen 3's New Hand Is FINALLY Here—1000 ...
+
+📺 TESLA CAR WORLD
+
+👁️ 47K • 👍 825 • 💬 91 • ⏱️ 12:27 • 5d ago
 
 ---
 
@@ -278,17 +280,15 @@ Can a pile of rusty scrap become a giant mechanical suit? ⚙️ Watch an incred
 
 📺 Shelter Guide
 
-👁️ 124K • 👍 1K • 💬 15 • ⏱️ 0:40 • 5d ago
+👁️ 125K • 👍 2K • 💬 15 • ⏱️ 0:40 • 5d ago
 
 ---
 
-**[Do you want this guy rolling around your home? Maybe if it does laundry… 👀🧺 #robot #ai #tech](https://www.youtube.com/watch?v=eLJCPUrQhHo)**
+**[Saving a robot dinosaur and testing its launcher! 🦖#robot #robotics #dinosaur #dino #ruko](https://www.youtube.com/watch?v=_G649LLH2Sw)**
 
-Weave Robotics, a San Francisco startup backed by Y Combinator, has launched Isaac 1, a home robot designed to tackle ...
+📺 Smarttoy Ruko
 
-📺 Rowan Cheung
-
-👁️ 23K • 👍 1K • 💬 36 • ⏱️ 1:07 • 1d ago
+👁️ 33K • 👍 165 • 💬 2 • ⏱️ 0:18 • 22h ago
 
 ---
 

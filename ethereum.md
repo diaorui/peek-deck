@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T06:05:41.813078+00:00'
+updated: '2026-07-18T08:20:02.167107+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 06:05 UTC  
+**Last Updated:** July 18, 2026 at 08:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
+**24h:** +0.6%  
 **7d:** +2.2%  
 **30d:** +7.8%  
 **90d:** -20.2%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.58B
+**Market Cap:** $222.49B
 Rank #2
 
 **Circulating Supply:** 120,682,850 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.7%
 
 **All-Time Low:** $0.43
-+425906.8%
++425696.6%
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 9h ago
+24/7 Wall St. • 12h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 BitMine Immersion Technologies Inc. (NYSE:BMNR) Chair Tom Lee made a case on Thursday that Ethereum (CRYPTO: ETH) is bottoming and entering the next phase of mainstream adoption Crypto Winter Over? In his latest message to shareholders, Lee said that the “crypto spring is here.” He cited the research of Tom DeMark, a popular technical analyst and Bitmine Immersion’s timing advisor for cryptocurrency acquisitions, who believes everything is set for a “market bottom” and that the “Ethereum risk-re
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 21h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 17h ago
 
 ---
 
 **[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-MarketWatch • 16h ago
+MarketWatch • 18h ago
 
 ---
 
@@ -192,7 +192,15 @@ MarketWatch • 16h ago
 
 Cryptocurrencies broadly edge lower on Friday, as investors continue to assess the impact of the incessant strikes between the United States (US) and Iran in the Middle East. Bitcoin (BTC) has corrected by more than 1% on the day, trading below $63,000.
 
-FXStreet • 19h ago
+FXStreet • 22h ago
+
+---
+
+**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
+
+Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
+
+CoinMarketCap • 19h ago
 
 ---
 
@@ -208,7 +216,7 @@ CoinDesk • 2d ago
 
 Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
 
-TradingView • 18h ago
+TradingView • 21h ago
 
 ---
 
@@ -217,14 +225,6 @@ TradingView • 18h ago
 President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial
 
 Coinpedia • 1d ago
-
----
-
-**[Ethereum Has a Bold New Plan for 2029. What Will Be the Impact on the Price of ETH?](https://www.fool.com/investing/2026/07/15/ethereum-has-a-bold-new-plan-for-2029/)**
-
-The chain's updated technical roadmap will see it add major new features.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -238,17 +238,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 89 • ⏱️ 12:55 • 9h ago
-
----
-
-**[&quot;200X IS COMING! Ethereum Is About to Shock the Entire Crypto Market&quot; - Tom Lee](https://www.youtube.com/watch?v=z-0PuLMsozQ)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 83 • 💬 9 • ⏱️ 17:29 • 13h ago
+👁️ 17K • 👍 1K • 💬 99 • ⏱️ 12:55 • 11h ago
 
 ---
 
@@ -258,7 +248,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 173 • 💬 63 • ⏱️ 20:43 • 13h ago
+👁️ 5K • 👍 180 • 💬 64 • ⏱️ 20:43 • 16h ago
+
+---
+
+**[&quot;200X IS COMING! Ethereum Is About to Shock the Entire Crypto Market&quot; - Tom Lee](https://www.youtube.com/watch?v=z-0PuLMsozQ)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 85 • 💬 10 • ⏱️ 17:29 • 15h ago
 
 ---
 
@@ -268,17 +268,7 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 8K • 👍 228 • 💬 53 • ⏱️ 7:55 • 1d ago
-
----
-
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
-
-Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
-
-📺 Gareth Soloway
-
-👁️ 28K • 👍 2K • 💬 93 • ⏱️ 14:48 • 11h ago
+👁️ 8K • 👍 229 • 💬 53 • ⏱️ 7:55 • 1d ago
 
 ---
 
@@ -288,7 +278,27 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 17K • 👍 587 • 💬 130 • ⏱️ 13:38 • 1d ago
+👁️ 17K • 👍 596 • 💬 126 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
+
+Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
+
+📺 Gareth Soloway
+
+👁️ 30K • 👍 2K • 💬 96 • ⏱️ 14:48 • 13h ago
+
+---
+
+**[Vitalik Just Announced Ethereum&#39;s Most Important Upgrade](https://www.youtube.com/watch?v=VwgRELVPPK0)**
+
+Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistance, privacy, and long term protocol changes.
+
+📺 Lark Davis
+
+👁️ 869 • 👍 18 • 💬 1 • ⏱️ 0:56 • 4h ago
 
 ---
 
@@ -298,7 +308,7 @@ BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 217 • 💬 142 • ⏱️ 22:29 • 12h ago
+👁️ 5K • 👍 228 • 💬 142 • ⏱️ 22:29 • 14h ago
 
 ---
 
@@ -318,17 +328,7 @@ Ethereum's core risk is that its ecosystem can succeed while Ethereum's relevanc
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 846 • 👍 70 • 💬 32 • ⏱️ 35:13 • 1d ago
-
----
-
-**[We&#39;re In A Weird Place (Bitcoin &amp; Ethereum Prove It)](https://www.youtube.com/watch?v=ZzXldGxhKSE)**
-
-Bitcoin, Ethereum, SpaceX, Cashcat, and stocks bleeding BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 268 • 💬 32 • ⏱️ 15:33 • 17h ago
+👁️ 850 • 👍 70 • 💬 32 • ⏱️ 35:13 • 1d ago
 
 ---
 

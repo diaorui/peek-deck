@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-18T06:05:41.798402+00:00'
+updated: '2026-07-18T08:20:02.152134+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - news
 - social
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 18, 2026 at 06:05 UTC  
+**Last Updated:** July 18, 2026 at 08:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 If you want an AI app which actually works, try AI Desktop 98.
 
-12h ago
+14h ago
 
 ---
 
@@ -49,7 +49,7 @@ If you want an AI app which actually works, try AI Desktop 98.
 
 Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday. He encouraged "open-source, openness, collaboration, and sharing."
 
-🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday
 
 HI all, First, thank you so much for your feedback and interest in my project PopUpFactCheck. When I first posted about this July 1, I did not expect the reception it would get and I am so thankful to y'all. Some updates. You asked for Firefox, and it is now a Firefox add-on. It has new features. For example, using the up and down arrows on Chrome (or Option (⌥) + ↑/↓ on Firefox) you can scroll back and forth of the factcheck bubbles already displayed. The fact checking on live videos has improved. And it now does batch reporting on an entire video. Once again, Claude Code was a major tool in my development, and the AI that is used for orchestration is OpenAI GPT 5.4 nano and mini. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. PopUpFactCheck - Chrome Web Store PopUpFactCheck - Firefox add-on PopUpFactCheck - Homepage
 
-7h ago
+10h ago
 
 ---
 
@@ -65,7 +65,7 @@ HI all, First, thank you so much for your feedback and interest in my project Po
 
 The founder of Linux has made his thoughts on AI tools clear, and he's fully on board. He says the Linux kernel does not fear new tools.
 
-🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 20h ago
+🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 23h ago
 
 ---
 
@@ -73,15 +73,7 @@ The founder of Linux has made his thoughts on AI tools clear, and he's fully on 
 
 Seeing this come up more as LLM usage moves from 1 or 2 product features into internal tools, agents, support workflows, evals etc Provider dashboards show token usage but attribution gets messy when finance wants to know which team or project caused the spend. Infra most of the time can see the raw usage but finance only sees the invoice and the middle layer feels kinda underdeveloped. I think the answer is some mix of app level tagging and internal reporting but want to know how many teams are formalizing vs letting it sit as shared infra cost
 
-🔗 [ramp.com](https://ramp.com/blog/ai-token-spend-launch) • 6h ago
-
----
-
-**[Anthropic is expanding Claude Fable 5 access as it works to balance demand and compute capacity](https://www.reddit.com/r/artificial/comments/1uznilq/anthropic_is_expanding_claude_fable_5_access_as/)**
-
-Anthropic announced that starting July 20 Claude Fable 5 will be included in Max and Team Premium subscriptions with 50% of the standard usage limits. Users on Pro and Team Standard plans won't lose access but they'll continue using usage credits instead. Anthropic also says those users will receive a one-time $100 credit. What caught my attention wasn't just the pricing change, but the explanation behind it. Anthropic said demand for Fable has been difficult to predict so it deliberately expanded access in stages while bringing additional compute capacity online. It feels like another example of how frontier AI companies are increasingly treating access as a resource allocation problem rather than simply a subscription decision. Instead of making the model universally available overnight they're adjusting limits based on available GPU capacity and real world demand. As models become more capable and more expensive to run we may see this become the norm across the industry. Rather than a simple free vs. paid model providers could continue experimenting with usage limits, credits, and tiered access to manage infrastructure costs. should companies wait until they have enough capacity before expanding access?
-
-14m ago
+🔗 [ramp.com](https://ramp.com/blog/ai-token-spend-launch) • 9h ago
 
 ---
 
@@ -89,7 +81,7 @@ Anthropic announced that starting July 20 Claude Fable 5 will be included in Max
 
 We are entering a strange period. Never in human history have we had access to so much information, so many tools, so many possibilities — and yet many people feel overwhelmed, uncertain and disconnected. The real problem has shifted. Finding information is no longer the main challenge. The challenge is knowing what deserves our attention. We are not only surrounded by more information. We are surrounded by systems competing for our attention. Every day, we receive messages telling us: what we should want what we should become what success should look like what choices we should make Technology has made access easier. But has it made understanding easier? Where AI fits in. AI arrives in this environment. It can answer questions, generate ideas, organize knowledge and help us move faster. But speed does not automatically create direction. A person can have more tools and still not know where to go. A society can create more possibilities and still struggle to define what is valuable. The real challenge. Maybe the challenge of our time is not only learning how to use powerful technologies. Maybe it is learning how to observe, connect information, understand situations and choose with awareness. Because before choosing the right tool, we need to understand the right problem. Before looking for answers, we need to understand the question. AI can amplify our actions. But amplification without understanding can also amplify confusion. The question may not be how much more we can do. The question is whether we still know what is worth doing.
 
-2h ago
+4h ago
 
 ---
 
@@ -97,13 +89,13 @@ We are entering a strange period. Never in human history have we had access to s
 
 A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world. This is a new, significantly expanded version of the original Music Video mode, now built around Seedance 2.0, multiple image references, and an even more precise creative-assistance layer designed to enhance and adapt your vision in an optimally model-aware manner. More experiments, through Instagram.
 
-14h ago
+16h ago
 
 ---
 
-**[What does your production LLM monitoring actually catch vs. what does it miss?](https://www.reddit.com/r/artificial/comments/1uzlfg6/what_does_your_production_llm_monitoring_actually/)**
+**[Anthropic is expanding Claude Fable 5 access as it works to balance demand and compute capacity](https://www.reddit.com/r/artificial/comments/1uznilq/anthropic_is_expanding_claude_fable_5_access_as/)**
 
-For engineers and teams shipping LLM products: curious what your real-world monitoring setup looks like vs. what it actually catches. The common stack I see: latency tracking, token cost monitoring, basic error rates, maybe LLM-as-a-judge scoring. What I hear less about: what slips through. A few patterns I keep running into: - Outputs that score well on evals but fail on nuanced downstream tasks - Failures that only surface after users stop engaging (silent failures vs. flagged ones) - Models that improve on one metric but quietly regress on another What's surprised you about what your monitoring missed? And has anyone actually closed the loop, where production failure data directly improved a model or routing decision?
+Anthropic announced that starting July 20 Claude Fable 5 will be included in Max and Team Premium subscriptions with 50% of the standard usage limits. Users on Pro and Team Standard plans won't lose access but they'll continue using usage credits instead. Anthropic also says those users will receive a one-time $100 credit. What caught my attention wasn't just the pricing change, but the explanation behind it. Anthropic said demand for Fable has been difficult to predict so it deliberately expanded access in stages while bringing additional compute capacity online. It feels like another example of how frontier AI companies are increasingly treating access as a resource allocation problem rather than simply a subscription decision. Instead of making the model universally available overnight they're adjusting limits based on available GPU capacity and real world demand. As models become more capable and more expensive to run we may see this become the norm across the industry. Rather than a simple free vs. paid model providers could continue experimenting with usage limits, credits, and tiered access to manage infrastructure costs. should companies wait until they have enough capacity before expanding access?
 
 2h ago
 
@@ -113,7 +105,15 @@ For engineers and teams shipping LLM products: curious what your real-world moni
 
 Moonshot's Kimi K3, a 2.8 trillion-parameter open-weight AI model, triggered a selloff in AI and semiconductor stocks reminiscent of the 2025 DeepSeek
 
-🔗 [Crypto Briefing](https://cryptobriefing.com/moonshot-kimi-k3-ai-semiconductor-stocks-selloff/) • 15h ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/moonshot-kimi-k3-ai-semiconductor-stocks-selloff/) • 18h ago
+
+---
+
+**[What does your production LLM monitoring actually catch vs. what does it miss?](https://www.reddit.com/r/artificial/comments/1uzlfg6/what_does_your_production_llm_monitoring_actually/)**
+
+For engineers and teams shipping LLM products: curious what your real-world monitoring setup looks like vs. what it actually catches. The common stack I see: latency tracking, token cost monitoring, basic error rates, maybe LLM-as-a-judge scoring. What I hear less about: what slips through. A few patterns I keep running into: - Outputs that score well on evals but fail on nuanced downstream tasks - Failures that only surface after users stop engaging (silent failures vs. flagged ones) - Models that improve on one metric but quietly regress on another What's surprised you about what your monitoring missed? And has anyone actually closed the loop, where production failure data directly improved a model or routing decision?
+
+4h ago
 
 ---
 
@@ -121,17 +121,29 @@ Moonshot's Kimi K3, a 2.8 trillion-parameter open-weight AI model, triggered a s
 
 ## Google News: "ai"
 
-**[MLB restricts using dugout iPads for AI-assisted in-game strategy](https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making)**
+**[Markets may have just experienced their second DeepSeek shock, this time thanks to a Chinese AI lab named after a Pink Floyd album](https://fortune.com/2026/07/17/china-moonshot-kimi-k3-markets-china-ai/)**
 
-ESPN • 11h ago
+K3 might undermine the conventional wisdom that U.S. firms can maintain their extended lead by simply outspending Chinese competitors on computing power.
+
+Fortune • 14h ago
 
 ---
 
-**[MLB Bans AI Dugout Tech After Ottavino Alert](https://sports.yahoo.com/articles/mlb-bans-ai-dugout-tech-053358003.html)**
+**[China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
 
-MLB blocks AI on dugout iPads to stop strategy cheating, a move former reliever Adam Ottavino helped trigger.
+The New York Times • 13h ago
 
-Yahoo Sports • 32m ago
+---
+
+**[China just erased America's AI lead](https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus)**
+
+Axios • 15h ago
+
+---
+
+**[MLB restricts using dugout iPads for AI-assisted in-game strategy](https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making)**
+
+ESPN • 14h ago
 
 ---
 
@@ -143,33 +155,33 @@ The New York Times • 1d ago
 
 ---
 
-**[Markets may have just experienced their second DeepSeek shock, this time thanks to a Chinese AI lab named after a Pink Floyd album](https://fortune.com/2026/07/17/china-moonshot-kimi-k3-markets-china-ai/)**
+**[Mets among teams who used AI loophole with dugout iPads before MLB crackdown](https://nypost.com/2026/07/17/sports/mets-among-teams-who-used-ai-loophole-with-dugout-ipads/)**
 
-K3 might undermine the conventional wisdom that U.S. firms can maintain their extended lead by simply outspending Chinese competitors on computing power.
+The Mets were among the teams found to have exploited a loophole regarding the use of artificial intelligence for in-game decisions.
 
-Fortune • 11h ago
-
----
-
-**[China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
-
-The New York Times • 10h ago
+New York Post • 8h ago
 
 ---
 
-**[Chinese AI has leveled up, and brought renewed focus on the open weight model shift](https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html)**
+**[A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.](https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7)**
 
-It's the latest AI model from China to close the performance gap with leading U.S. AI labs.
+Architects are reimagining AI data centers with public parks, reused heat, and new designs that give host communities more in return.
 
-CNBC • 21h ago
+Business Insider • 8m ago
 
 ---
 
-**[Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)**
+**[Fight over AI data centers reaches rural North Carolina, with a 24-month halt on the table](https://www.yahoo.com/news/politics/articles/fight-over-ai-data-centers-074000973.html)**
 
-Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.
+Enormous amounts of electricity and, in many cases, significant volumes of water for cooling.
 
-TechCrunch • 1h ago
+Yahoo • 40m ago
+
+---
+
+**[What Happened When We Let Claude Pick Our World Cup Brackets](https://www.bloomberg.com/news/articles/2026-07-18/can-ai-predict-the-world-cup-we-tested-claude-against-humans)**
+
+Bloomberg.com • 19m ago
 
 ---
 
@@ -177,21 +189,7 @@ TechCrunch • 1h ago
 
 The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
 
-CNBC • 8h ago
-
----
-
-**[Stocks Sink on Anxiety About Tech and A.I. Spending](https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html)**
-
-The New York Times • 9h ago
-
----
-
-**[Semiconductor stocks keep falling as investors go risk-off, Chinese startup releases powerful new AI model](https://finance.yahoo.com/markets/article/semiconductor-stocks-keep-falling-as-investors-go-risk-off-chinese-startup-releases-powerful-new-ai-model-130920103.html)**
-
-Chip stocks sold off on Friday as AI jitters resurfaced.
-
-Yahoo Finance • 14h ago
+CNBC • 10h ago
 
 ---
 
@@ -199,15 +197,15 @@ Yahoo Finance • 14h ago
 
 ## HackerNews: "ai"
 
-**[Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://news.ycombinator.com/item?id=48952880)**
+**[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 436 • 💬 285 • 7h ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 491 • 💬 313 • 9h ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 407 • 💬 297 • 15h ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 427 • 💬 304 • 17h ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -215,7 +213,7 @@ Yahoo Finance • 14h ago
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 385 • 💬 520 • 1d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 389 • 💬 523 • 1d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
@@ -223,7 +221,7 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 The AI agent made for open models, built to get things done.
 
-⬆️ 320 • 💬 126 • 1d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 323 • 💬 126 • 1d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
 
 ---
 
@@ -245,13 +243,13 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 The move is a vote of confidence in Boeing from the U.S. government.
 
-⬆️ 161 • 💬 87 • 8h ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+⬆️ 172 • 💬 97 • 10h ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 
 ---
 
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 154 • 💬 79 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+⬆️ 155 • 💬 81 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -259,7 +257,7 @@ The move is a vote of confidence in Boeing from the U.S. government.
 
 A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
 
-⬆️ 143 • 💬 34 • 1d ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+⬆️ 144 • 💬 34 • 1d ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
 
 ---
 
@@ -279,17 +277,7 @@ Kimi K3 AI just beat Claude AI at coding. Join my private group https://techlead
 
 📺 TechLead
 
-👁️ 23K • 👍 1K • 💬 226 • ⏱️ 8:08 • 8h ago
-
----
-
-**[The AI Race Just Hit a Breaking Point...](https://www.youtube.com/watch?v=_LRI8k4xVwU)**
-
-Anthropic has revealed that its AI now writes more than 80% of the code merged inside the company. At the same time, it is ...
-
-📺 AI Uncovered
-
-👁️ 2K • 👍 90 • 💬 10 • ⏱️ 11:51 • 11h ago
+👁️ 28K • 👍 1K • 💬 260 • ⏱️ 8:08 • 10h ago
 
 ---
 
@@ -299,17 +287,17 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 35K • 👍 694 • 💬 176 • ⏱️ 20:51 • 1d ago
+👁️ 36K • 👍 710 • 💬 182 • ⏱️ 20:51 • 1d ago
 
 ---
 
-**[China may have just turned up the heat the the AI race](https://www.youtube.com/watch?v=jGuf27ySl_Q)**
+**[The AI Race Just Hit a Breaking Point...](https://www.youtube.com/watch?v=_LRI8k4xVwU)**
 
-Tenex co-founder and co-managing partner Arman Hezarkhani breaks down the features of China's Kimi K3 A.I. model, ...
+Anthropic has revealed that its AI now writes more than 80% of the code merged inside the company. At the same time, it is ...
 
-📺 Fox Business
+📺 AI Uncovered
 
-👁️ 14K • 👍 290 • 💬 129 • ⏱️ 6:33 • 9h ago
+👁️ 2K • 👍 93 • 💬 10 • ⏱️ 11:51 • 13h ago
 
 ---
 
@@ -319,17 +307,17 @@ China's Moonshot AI just released Kimi K3, the world's largest open-weight AI mo
 
 📺 AI Revolution
 
-👁️ 17K • 👍 713 • 💬 100 • ⏱️ 14:29 • 7h ago
+👁️ 21K • 👍 804 • 💬 104 • ⏱️ 14:29 • 10h ago
 
 ---
 
-**[Meta’s AI Glasses Just Exposed the Whole Privacy Sh*tshow](https://www.youtube.com/watch?v=9BArC9Q39MI)**
+**[China may have just turned up the heat the the AI race](https://www.youtube.com/watch?v=jGuf27ySl_Q)**
 
-Meta's AI-powered Ray-Ban glasses could transform everyday life for blind and visually impaired people, translating text, ...
+Tenex co-founder and co-managing partner Arman Hezarkhani breaks down the features of China's Kimi K3 A.I. model, ...
 
-📺 House of El: AI
+📺 Fox Business
 
-👁️ 91K • 👍 8K • 💬 2K • ⏱️ 20:09 • 14h ago
+👁️ 20K • 👍 340 • 💬 161 • ⏱️ 6:33 • 11h ago
 
 ---
 
@@ -339,7 +327,7 @@ Full post w/ Guide + Automation Skill: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 10K • 👍 440 • 💬 53 • ⏱️ 12:08 • 16h ago
+👁️ 10K • 👍 455 • 💬 53 • ⏱️ 12:08 • 18h ago
 
 ---
 
@@ -349,15 +337,17 @@ The mates discuss Mira Murati's 975B Open Model, Ramin Hasani speaks on Post-Tra
 
 📺 Peter H. Diamandis
 
-👁️ 46K • 👍 1K • 💬 239 • ⏱️ 1:56:54 • 11h ago
+👁️ 51K • 👍 1K • 💬 253 • ⏱️ 1:56:54 • 14h ago
 
 ---
 
-**[INSANE CLARITY ACT DRAMA! AI BOOM STILL EARLY Bitcoin and Tech Stocks BLEEDING #bitcoin #ai #crypto](https://www.youtube.com/watch?v=pnfoGo3UCEg)**
+**[AI News: Claude&#39;s New Browser, Spotify Gets AI &amp; OpenAI&#39;s New Hardware](https://www.youtube.com/watch?v=ss2LaCKUQmU)**
 
-📺 CryptoWendyO
+Try Seedream 5.0 plus other top AI image and video models at Artlist ...
 
-👁️ 4K • 👍 363 • 💬 9 • ⏱️ 2:04 • 5h ago
+📺 Matt Wolfe
+
+👁️ 37K • 👍 1K • 💬 70 • ⏱️ 23:10 • 17h ago
 
 ---
 
@@ -367,7 +357,15 @@ The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-ma
 
 📺 Nick Ponte
 
-👁️ 7K • 👍 199 • 💬 39 • ⏱️ 8:55 • 1d ago
+👁️ 7K • 👍 200 • 💬 39 • ⏱️ 8:55 • 1d ago
+
+---
+
+**[INSANE CLARITY ACT DRAMA! AI BOOM STILL EARLY Bitcoin and Tech Stocks BLEEDING #bitcoin #ai #crypto](https://www.youtube.com/watch?v=pnfoGo3UCEg)**
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 414 • 💬 30 • ⏱️ 2:04 • 7h ago
 
 ---
 
@@ -383,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 7,870 • ❤️ 976 • 1d ago
+⬇️ 7,870 • ❤️ 991 • 1d ago
 
 ---
 
@@ -395,7 +393,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 200,774 • ❤️ 687 • 3m ago
+⬇️ 200,774 • ❤️ 690 • 2h ago
 
 ---
 
@@ -407,7 +405,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,045,182 • ❤️ 403 • 13h ago
+⬇️ 1,045,182 • ❤️ 406 • 16h ago
 
 ---
 
@@ -419,7 +417,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,096,147 • ❤️ 2,281 • 3d ago
+⬇️ 2,096,147 • ❤️ 2,284 • 3d ago
 
 ---
 
@@ -431,7 +429,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 534,698 • ❤️ 4,078 • 15d ago
+⬇️ 534,698 • ❤️ 4,085 • 16d ago
 
 ---
 
@@ -453,7 +451,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 352 • 11h ago
+⬇️ 0 • ❤️ 354 • 13h ago
 
 ---
 
@@ -465,7 +463,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,295,313 • ❤️ 2,835 • 3mo ago
+⬇️ 2,190,398 • ❤️ 2,835 • 3mo ago
 
 ---
 
@@ -477,7 +475,7 @@ OvisOCR2 is a compact 0.8B multimodal model for end-to-end document parsing, gen
 
 `image-text-to-text` `853.0M`
 
-⬇️ 10,795 • ❤️ 154 • 2d ago
+⬇️ 10,795 • ❤️ 155 • 2d ago
 
 ---
 
@@ -489,7 +487,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 83,160 • ❤️ 251 • 2d ago
+⬇️ 86,385 • ❤️ 252 • 3d ago
 
 ---
 
@@ -531,7 +529,7 @@ An advanced world modeling system with extended interaction capabilities, real-t
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 114 • 💬 4 • ⭐ 93,419 • 18mo ago
+▲ 115 • 💬 4 • ⭐ 93,459 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -543,7 +541,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 17 • 💬 2 • ⭐ 20,857 • 28mo ago
+▲ 17 • 💬 2 • ⭐ 20,871 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -559,32 +557,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 83 • 💬 7 • ⭐ 81,119 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)**
-
-*Rouard Simon, Orsini Manu, Roebel Axel et al. (5 authors)*
-
-Audio Language Models (ALM) have emerged as the dominant paradigm for speech
-and music generation by representing audio as sequences of discrete tokens.
-Yet, unlike text tokens, which are invertible, audio tokens are extracted from
-lossy codecs with a limited bitrate. As a consequence, increasing audio quality
-requires generating more tokens, which imposes a trade-off between fidelity and
-computational cost. We address this issue by studying Continuous Audio Language
-Models (CALM). These models instantiate a large Transformer backbone that
-produces a contextual embedding at every timestep. This sequential information
-then conditions an MLP that generates the next continuous frame of an audio VAE
-through consistency modeling. By avoiding lossy compression, CALM achieves
-higher quality at lower computational cost than their discrete counterpart.
-Experiments on speech and music demonstrate improved efficiency and fidelity
-over state-of-the-art discrete audio language models, facilitating lightweight,
-high-quality audio generation. Samples are available at
-https://continuous-audio-language-models.github.io
-
-▲ 11 • 💬 0 • ⭐ 7,707 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
 ---
 
@@ -637,9 +609,35 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
 
-▲ 59 • 💬 3 • ⭐ 1,394 • 13d ago
+▲ 60 • 💬 3 • ⭐ 1,394 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
+
+---
+
+**[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)**
+
+*Rouard Simon, Orsini Manu, Roebel Axel et al. (5 authors)*
+
+Audio Language Models (ALM) have emerged as the dominant paradigm for speech
+and music generation by representing audio as sequences of discrete tokens.
+Yet, unlike text tokens, which are invertible, audio tokens are extracted from
+lossy codecs with a limited bitrate. As a consequence, increasing audio quality
+requires generating more tokens, which imposes a trade-off between fidelity and
+computational cost. We address this issue by studying Continuous Audio Language
+Models (CALM). These models instantiate a large Transformer backbone that
+produces a contextual embedding at every timestep. This sequential information
+then conditions an MLP that generates the next continuous frame of an audio VAE
+through consistency modeling. By avoiding lossy compression, CALM achieves
+higher quality at lower computational cost than their discrete counterpart.
+Experiments on speech and music demonstrate improved efficiency and fidelity
+over state-of-the-art discrete audio language models, facilitating lightweight,
+high-quality audio generation. Samples are available at
+https://continuous-audio-language-models.github.io
+
+▲ 11 • 💬 0 • ⭐ 7,716 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
 ---
 
@@ -663,7 +661,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.9k • 🔱 211 • 13h ago
+⭐ 2.9k • 🔱 211 • 15h ago
 
 ---
 
@@ -723,7 +721,7 @@ SkillSpec makes agent skills followable, testable, and provable with Doctor risk
 
 `Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
 
-⭐ 979 • 🔱 60 • 4d ago
+⭐ 984 • 🔱 60 • 4d ago
 
 ---
 
@@ -733,7 +731,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 937 • 🔱 57 • 3d ago
+⭐ 938 • 🔱 57 • 3d ago
 
 ---
 
@@ -741,7 +739,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 887 • 🔱 36 • 17d ago
+⭐ 888 • 🔱 37 • 17d ago
 
 ---
 
