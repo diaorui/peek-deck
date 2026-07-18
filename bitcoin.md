@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-18T17:30:32.478403+00:00'
+updated: '2026-07-18T18:32:06.195629+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 17:30 UTC  
+**Last Updated:** July 18, 2026 at 18:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,297.56
+### $64,465.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.8%  
-**30d:** +1.2%  
-**90d:** -15.2%  
-**1y:** -45.4%  
+**24h:** +0.6%  
+**7d:** +1.2%  
+**30d:** +1.6%  
+**90d:** -14.9%  
+**1y:** -45.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1285.20B
+**Market Cap:** $1294.06B
 Rank #1
 
-**Circulating Supply:** 20,058,000 BTC
+**Circulating Supply:** 20,058,043 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-48.8%
 
 **All-Time Low:** $67.81
-+94384.6%
++95046.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Foundry Digital said it will allow clients who use its Bitcoin mining pool to vote on BIP-110.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110) • 23h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110) • 1d ago
 
 ---
 
@@ -103,7 +103,7 @@ Its pretty obvious to me now, i have no clue what im doing. BTC avg 122k, SLV et
 
 In an Era of Ephemeral Frameworks, the World’s Most Secure Coin Relies on the Unforgiving Discipline of Systems Architecture.
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-built-to-last-why-bitcoins) • 23h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-built-to-last-why-bitcoins) • 1d ago
 
 ---
 
@@ -119,7 +119,7 @@ A small miner and bip110 node runned asked in the comments what expect past bloc
 
 What’s the true stat to be in the top 10% of all Bitcoin Holders (from a retail perspective)? How much are you trying to stack? What is your goal? There’s a lot of debate around this and wanted to get people’s thoughts.
 
-16h ago
+17h ago
 
 ---
 
@@ -151,7 +151,7 @@ Each pump so far has a demographic behind it, whether it be retail, institutiona
 
 The support team lacks communication skills and just blatantly neglects any helpful information for the Users on what the next steps in the KYC Verification process are. They only suggest that I be patient, and that they've sent the documents that I've already sent them to the proper department without any follow up. I've used NC Wallet for the better part of 3 years sending to and from the same wallets every time and never had a real issue, (other than the lack of providing a TxID for sometimes several days before actually processing and completing,) until I finally deposited a decent amount from a casino ($5,000) and then all of the sudden there's a problem and they need to verify my identity, (which it literally says is not required and won't even let you until they flag the KYC Verification, and that I've now been waiting 2 weeks for.) Now, for obvious reasons I'm submitting reviews on Reddit, Trustpilot, Google Play Store and the major social media platforms about the type of trap this wallet is. I will also be reporting to the DFPI if for whatever reason they cease to communicate with me entirely. Like I said, I've never really had a problem with the app and would like to continue using it or at leaat get my funds back, however, I'm not about to just let $5,000 of mine just get taken without doing something about it. I've read a couple of posts that said they were able to get their accounts back, idk on the legitimacy of that, but I would love to be one of them. If anything, this post is more to let the people that may not know that NC Wallet is definitely not the Wallet to store any of your crypto if you want to have control of your funds. Learn from mine and many others mistakes.. I will edit this post if for some miracle they push my verification through. The AI suggests I add my ticket numbers to help bypass the generic support bot so here they are: NW-146416 NW-144905
 
-21h ago
+22h ago
 
 ---
 
@@ -177,13 +177,13 @@ CoinDesk • 1d ago
 
 "We were told that it’s a close-knit system, but water doesn’t magically appear."
 
-Yahoo • 2h ago
+Yahoo • 3h ago
 
 ---
 
 **[Massive Bitcoin Call Spreads Target $72,000 by Month End, Right When the Fed Meets](https://www.moomoo.com/news/post/73169385/massive-bitcoin-call-spreads-target-72000-by-month-end-right)**
 
-Moomoo • 3h ago
+Moomoo • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ Moomoo • 3h ago
 
 iShares dominates with $47B in assets, while VanEck undercuts on fees at 0.20% versus 0.25%. Which matters more for your portfolio?
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 3h ago
 
 A Bitcoin mining operation that generated nearly three years of noise complaints from residents along Kentucky Route 1036 is much quieter now.
 
-LEX 18 News • 19h ago
+LEX 18 News • 20h ago
 
 ---
 
@@ -277,27 +277,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 825 • 💬 97 • ⏱️ 19:34 • 19h ago
-
----
-
-**[My Conservative Bitcoin Model: Why I’m Planning for $253K](https://www.youtube.com/watch?v=N_nGVK6pzW0)**
-
-Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm planning for something very different — about $253000.
-
-📺 Betirement
-
-👁️ 16K • 👍 948 • 💬 533 • ⏱️ 11:16 • 2d ago
-
----
-
-**[They are MISSING IT, the BOTTOM FOR BITCOIN Using XRP and Total Market Cap of Crypto](https://www.youtube.com/watch?v=7E_Mkaz1FoU)**
-
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
-
-📺 Blockchain Backer
-
-👁️ 7K • 👍 2K • 💬 94 • ⏱️ 17:54 • 4h ago
+👁️ 13K • 👍 878 • 💬 137 • ⏱️ 19:34 • 20h ago
 
 ---
 
@@ -305,7 +285,17 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 CryptoWendyO
 
-👁️ 10K • 👍 691 • 💬 40 • ⏱️ 2:04 • 16h ago
+👁️ 12K • 👍 775 • 💬 42 • ⏱️ 2:04 • 17h ago
+
+---
+
+**[Why Bitcoin is replacing gold](https://www.youtube.com/watch?v=ZHCnpQNISZQ)**
+
+Gold has been humanity's trusted store of value for 5000 years. But is Bitcoin becoming something better? In this episode of The ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 511 • 💬 256 • ⏱️ 14:56 • 1d ago
 
 ---
 
@@ -315,7 +305,17 @@ Gold could be heading to $10000 as central banks move away from US Treasuries an
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 244 • ⏱️ 18:01 • 1d ago
+👁️ 25K • 👍 2K • 💬 245 • ⏱️ 18:01 • 1d ago
+
+---
+
+**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
+
+Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
+
+📺 Prof G Markets
+
+👁️ 32K • 👍 390 • 💬 198 • ⏱️ 1:42 • 1d ago
 
 ---
 
@@ -325,17 +325,7 @@ Veteran trader Peter Brandt believes Bitcoin's bear market is far from over. Tra
 
 📺 Cointelegraph
 
-👁️ 483 • 👍 56 • 💬 72 • ⏱️ 32:12 • 4h ago
-
----
-
-**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
-
-Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
-
-📺 Benjamin Cowen
-
-👁️ 59K • 👍 4K • 💬 144 • ⏱️ 7:33 • 1d ago
+👁️ 1K • 👍 107 • 💬 88 • ⏱️ 32:12 • 5h ago
 
 ---
 
@@ -345,17 +335,17 @@ If Bitcoin and crypto is going to zero then why are so many MASSIVE companies in
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 489 • 💬 33 • ⏱️ 27:00 • 23h ago
+👁️ 8K • 👍 498 • 💬 36 • ⏱️ 27:00 • 1d ago
 
 ---
 
-**[🚨 BITCOIN: You Might NOT Want To Hear This But It MUST Be Said! (100% Accurate)](https://www.youtube.com/watch?v=AS-BLgtBkks)**
+**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
 
-Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to exactly what everyone suspects. BloFin ...
+Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
 
-📺 Crypto Zombie
+📺 Benjamin Cowen
 
-👁️ 13K • 👍 1K • 💬 162 • ⏱️ 12:20 • 2d ago
+👁️ 60K • 👍 4K • 💬 144 • ⏱️ 7:33 • 1d ago
 
 ---
 
@@ -365,7 +355,17 @@ Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 305 • 💬 43 • ⏱️ 1:16 • 2d ago
+👁️ 13K • 👍 310 • 💬 43 • ⏱️ 1:16 • 2d ago
+
+---
+
+**[My Conservative Bitcoin Model: Why I’m Planning for $253K](https://www.youtube.com/watch?v=N_nGVK6pzW0)**
+
+Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm planning for something very different — about $253000.
+
+📺 Betirement
+
+👁️ 17K • 👍 966 • 💬 526 • ⏱️ 11:16 • 2d ago
 
 ---
 

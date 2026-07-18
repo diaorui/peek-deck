@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T17:30:32.484453+00:00'
+updated: '2026-07-18T18:32:06.201792+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 17:30 UTC  
+**Last Updated:** July 18, 2026 at 18:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,841.92
+### $1,865.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +2.1%  
-**30d:** +7.6%  
-**90d:** -20.3%  
-**1y:** -48.7%  
+**24h:** +0.7%  
+**7d:** +2.9%  
+**30d:** +8.5%  
+**90d:** -19.7%  
+**1y:** -48.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.40B
+**Market Cap:** $224.22B
 Rank #2
 
 **Circulating Supply:** 120,682,850 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.7%
+-62.4%
 
 **All-Time Low:** $0.43
-+425454.1%
++428941.6%
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 21h ago
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ CryptoSlate • 3d ago
 
 Ethereum has stayed just above $1,800 recently, a key support level, but thin trading volumes and weak investor interest suggest the current rally may be short-lived. Positive net inflows into Ethereum ETFs in July indicate some renewed interest, yet overall market sentiment remains cautious due to an unfavorable macroeconomic outlook and expected Federal Reserve rate hikes. If Ethereum fails to hold $1,800, it could fall toward $1,550, while resistance near $2,000 may limit any upside in the near term.
 
-Pluang • 25m ago
+Pluang • 1h ago
 
 ---
 
@@ -190,6 +190,12 @@ Decrypt • 1d ago
 
 ---
 
+**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
+
+MarketWatch • 1d ago
+
+---
+
 **[Crypto Today: Bitcoin, Ethereum, XRP give back gains as tit-for-tat US-Iran strikes persist](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-give-back-gains-as-tit-for-tat-us-iran-strikes-persist-202607171009)**
 
 Cryptocurrencies broadly edge lower on Friday, as investors continue to assess the impact of the incessant strikes between the United States (US) and Iran in the Middle East. Bitcoin (BTC) has corrected by more than 1% on the day, trading below $63,000.
@@ -202,21 +208,13 @@ FXStreet • 1d ago
 
 Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
 
-CoinMarketCap • 15h ago
+CoinMarketCap • 16h ago
 
 ---
 
 **[Ethereum daily transactions rise 34% to 2M as fees drop 34% to $344M](https://cryptobriefing.com/ethereum-daily-transactions-rise-fees-drop/)**
 
 Crypto Briefing • 1d ago
-
----
-
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
-
-Stocktwits • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 610 • 👍 41 • 💬 84 • ⏱️ 13:08 • 4h ago
+👁️ 1K • 👍 75 • 💬 88 • ⏱️ 13:08 • 5h ago
 
 ---
 
@@ -248,7 +246,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 119 • ⏱️ 12:55 • 20h ago
+👁️ 24K • 👍 1K • 💬 127 • ⏱️ 12:55 • 21h ago
 
 ---
 
@@ -258,7 +256,7 @@ Ethereum is down almost 70% from its all-time high, but could this be one of the
 
 📺 Coin Bureau Trading
 
-👁️ 914 • 👍 81 • 💬 5 • ⏱️ 9:10 • 7h ago
+👁️ 1K • 👍 91 • 💬 7 • ⏱️ 9:10 • 8h ago
 
 ---
 
@@ -268,7 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 205 • 💬 80 • ⏱️ 20:43 • 1d ago
+👁️ 6K • 👍 215 • 💬 82 • ⏱️ 20:43 • 1d ago
 
 ---
 
@@ -278,17 +276,7 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 18K • 👍 623 • 💬 129 • ⏱️ 13:38 • 1d ago
-
----
-
-**[&quot;200X IS COMING! Ethereum Is About to Shock the Entire Crypto Market&quot; - Tom Lee](https://www.youtube.com/watch?v=z-0PuLMsozQ)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 94 • 💬 11 • ⏱️ 17:29 • 1d ago
+👁️ 18K • 👍 626 • 💬 131 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -298,17 +286,7 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 9K • 👍 236 • 💬 53 • ⏱️ 7:55 • 1d ago
-
----
-
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
-
-Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
-
-📺 Gareth Soloway
-
-👁️ 35K • 👍 2K • 💬 107 • ⏱️ 14:48 • 22h ago
+👁️ 9K • 👍 244 • 💬 54 • ⏱️ 7:55 • 1d ago
 
 ---
 
@@ -318,7 +296,27 @@ For folks who want a Non-KYC crypto exchange, Pablo uses Pionex and Bitunix, whi
 
 📺 Heman Pablo
 
-👁️ 267 • 👍 9 • 💬 23 • ⏱️ 19:58 • 6h ago
+👁️ 348 • 👍 13 • 💬 27 • ⏱️ 19:58 • 7h ago
+
+---
+
+**[&quot;200X IS COMING! Ethereum Is About to Shock the Entire Crypto Market&quot; - Tom Lee](https://www.youtube.com/watch?v=z-0PuLMsozQ)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 95 • 💬 13 • ⏱️ 17:29 • 1d ago
+
+---
+
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
+
+Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
+
+📺 Gareth Soloway
+
+👁️ 37K • 👍 2K • 💬 113 • ⏱️ 14:48 • 23h ago
 
 ---
 
@@ -328,7 +326,7 @@ Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistanc
 
 📺 Lark Davis
 
-👁️ 2K • 👍 52 • 💬 1 • ⏱️ 0:56 • 13h ago
+👁️ 2K • 👍 60 • 💬 1 • ⏱️ 0:56 • 14h ago
 
 ---
 
