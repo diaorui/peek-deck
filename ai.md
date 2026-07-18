@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-17T23:25:29.902644+00:00'
+updated: '2026-07-18T00:55:41.521752+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 17, 2026 at 23:25 UTC  
+**Last Updated:** July 18, 2026 at 00:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 If you want an AI app which actually works, try AI Desktop 98.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ If you want an AI app which actually works, try AI Desktop 98.
 
 Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday. He encouraged "open-source, openness, collaboration, and sharing."
 
-🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday
 
 The founder of Linux has made his thoughts on AI tools clear, and he's fully on board. He says the Linux kernel does not fear new tools.
 
-🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 14h ago
+🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ The founder of Linux has made his thoughts on AI tools clear, and he's fully on 
 
 Seeing this come up more as LLM usage moves from 1 or 2 product features into internal tools, agents, support workflows, evals etc Provider dashboards show token usage but attribution gets messy when finance wants to know which team or project caused the spend. Infra most of the time can see the raw usage but finance only sees the invoice and the middle layer feels kinda underdeveloped. I think the answer is some mix of app level tagging and internal reporting but want to know how many teams are formalizing vs letting it sit as shared infra cost
 
-🔗 [ramp.com](https://ramp.com/blog/ai-token-spend-launch) • 13m ago
+🔗 [ramp.com](https://ramp.com/blog/ai-token-spend-launch) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Seeing this come up more as LLM usage moves from 1 or 2 product features into in
 
 HI all, First, thank you so much for your feedback and interest in my project PopUpFactCheck. When I first posted about this July 1, I did not expect the reception it would get and I am so thankful to y'all. Some updates. You asked for Firefox, and it is now a Firefox add-on. It has new features. For example, using the up and down arrows on Chrome (or Option (⌥) + ↑/↓ on Firefox) you can scroll back and forth of the factcheck bubbles already displayed. The fact checking on live videos has improved. And it now does batch reporting on an entire video. Once again, Claude Code was a major tool in my development, and the AI that is used for orchestration is OpenAI GPT 5.4 nano and mini. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. PopUpFactCheck - Chrome Web Store PopUpFactCheck - Firefox add-on PopUpFactCheck - Homepage
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ HI all, First, thank you so much for your feedback and interest in my project Po
 
 A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world. This is a new, significantly expanded version of the original Music Video mode, now built around Seedance 2.0, multiple image references, and an even more precise creative-assistance layer designed to enhance and adapt your vision in an optimally model-aware manner. More experiments, through Instagram.
 
-7h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable
 
 Been going through the Kimi K3 numbers and I don't think people have fully clocked how big this is. Right now on the Artificial Analysis Intelligence Index, Fable 5 is still #1 (59.9) and even GPT-5.6 Sol (58.9) hasn't managed to pass it. K3 comes in third at 57.1, ahead of Opus 4.8. That is an open-weights model landing within about three points of the single best closed model out there, one that OpenAI's own flagship couldn't overtake. And on the stuff that's harder to fake it's arguably better than third. It tops Program Bench at 77.8 (past both Sol and Fable), and in the blind Frontend Code Arena vote it came out first over every US model. People already had it build a full 3D open-world game in the browser with Three.js/WebGPU, a Long March 10 launch sim, and a working GBA emulator, in about a day. What gets me is the combination: 2.8T params (largest open model ever), ~1M context, priced around half of Opus per task, and the weights are supposed to go public July 27. If that holds, you can just run frontier-adjacent intelligence yourself. I'm trying to stay skeptical. A chunk of the benchmarks are Moonshot's own, the model is only days old, and the weights aren't actually out yet so nobody's self-hosted it. But even with all that, an open model getting this close to the top isn't something we've really seen before. Genuinely curious what this sub thinks: is the "even Sol couldn't beat Fable, but an open model got within three points" framing fair, or am I overrating a launch-week spike? And is anyone planning to actually deploy K3 once the weights drop on the 27th? https://www.kimi.com/pt-br/blog/kimi-k3
 
-16h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ Been going through the Kimi K3 numbers and I don't think people have fully clock
 
 I want to generate realistic looking images of my Papa who has recently passed using a few pictures of when he was younger. The photos are not the best quality as they were saved from Facebook which badly degrades them. I've played around with a few free upscalers but they look terrible. While trying out some online tools I did find one that was VERY good at reconstructing the face using a bad photo. I don't remember what it was called but think it had one or note in the name? I'm also looking for something you can feed several pictures and generate an image using a prompt. For example: Bobby climbing a mountain or scoring the game winning goal while his teammates celebrate. I do not have a NVIDIA card. I have an AMD Ryzen 3 7320U with Radeon Graphics 2GB card (2.40 GHz) with 16GB RAM. I prefer free or cheap and like the idea of something I can download and not have to pay monthly fees. Open to your thoughts. Many Thanks!
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ I want to generate realistic looking images of my Papa who has recently passed u
 
 I expected another AI tool that looked impressive on the homepage but didn't hold up in practice. After spending a little time with Readdy AI, I found it more useful than I expected for creating an initial direction. It's definitely not replacing my own decisions, but it has made getting started feel easier. If you've tried it, what was your biggest surprise?
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ I expected another AI tool that looked impressive on the homepage but didn't hol
 
 I can't find the original creator, but a faceless channel had AI write & produce this song and then did an animation video for it. If you know of it or can find it please credit them in the comments.
 
-6h ago
+8h ago
 
 ---
 
@@ -121,71 +121,77 @@ I can't find the original creator, but a faceless channel had AI write & produce
 
 ## Google News: "ai"
 
+**[Stocks Sink on Anxiety About Tech and A.I. Spending](https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html)**
+
+The New York Times • 4h ago
+
+---
+
+**[The White House is dictating access to frontier AI models, shifting power from tech giants, sources say](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html)**
+
+The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
+
+CNBC • 2h ago
+
+---
+
 **[Chinese AI has leveled up, and brought renewed focus on the open weight model shift](https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html)**
 
 It's the latest AI model from China to close the performance gap with leading U.S. AI labs.
 
-CNBC • 14h ago
+CNBC • 16h ago
 
 ---
 
-**[Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers](https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html)**
+**[Markets may have just experienced their second DeepSeek shock, this time thanks to a Chinese AI lab named after a Pink Floyd album](https://fortune.com/2026/07/17/china-moonshot-kimi-k3-markets-china-ai/)**
 
-The New York Times • 2h ago
+K3 might undermine the conventional wisdom that U.S. firms can maintain their extended lead by simply outspending Chinese competitors on computing power.
 
----
-
-**[Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives](https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972)**
-
-WSJ • 1d ago
+Fortune • 6h ago
 
 ---
 
-**[Databricks hits $188B valuation, extending its run as AI’s favorite second act](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/)**
+**[China’s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over?](https://finance.yahoo.com/technology/ai/articles/china-kimi-k3-hits-us-225728395.html)**
 
-Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.
+Moonshot's Kimi K3 tops coding charts and hits chip stocks as investors question America's AI lead over China.
 
-TechCrunch • 1h ago
-
----
-
-**[The White House is dictating access to frontier AI models, shifting power from tech giants](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html)**
-
-The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
-
-CNBC • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Tuberculosis drug discovery gets smarter with AI](https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html)**
+**[Lorde Calls Out Spotify Over AI “About The Song” Feature: “We Don’t Want This”](https://deadline.com/2026/07/lorde-calls-out-spotify-ai-about-the-song-feature-1236997350/)**
 
-Phys.org • 1h ago
+Lorde is calling out Spotify over a new feature that uses AI to give context to the song playing on the streaming service.
+
+Deadline • 48m ago
+
+---
+
+**[Exclusive | AI Chip Startup Etched Is in Talks for $20 Billion Valuation](https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d)**
+
+WSJ • 1h ago
+
+---
+
+**[Investment expert explains why he thinks AI spending isn’t inflationary](https://www.foxbusiness.com/video/6401432183112)**
+
+The Lonski Group founder and president John Lonski discusses earnings, inflation and A.I.’s impact on the economy on ‘Maria Bartiromo’s Wall Street.’
+
+Fox Business • 1h ago
 
 ---
 
 **[MLB restricts using dugout iPads for AI-assisted in-game strategy](https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making)**
 
-ESPN • 5h ago
+ESPN • 6h ago
 
 ---
 
-**[Stocks Sink on Anxiety About Tech and A.I. Spending](https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html)**
+**[MLB cracks down on using AI via dugout iPads to help shape in-game decisions - The Athletic](https://www.nytimes.com/athletic/7448900/2026/07/16/mlb-bans-ai-dugout-ipads/)**
 
-The New York Times • 10h ago
+A third of the league relied heavily on the technology, which was effectively banned starting on Wednesday.
 
----
-
-**[Semiconductor stocks keep falling as investors go risk-off, Chinese startup releases powerful new AI model](https://finance.yahoo.com/markets/article/semiconductor-stocks-keep-falling-as-investors-go-risk-off-chinese-startup-releases-powerful-new-ai-model-130920103.html)**
-
-Chip stocks sold off on Friday as AI jitters resurfaced.
-
-Yahoo Finance • 8h ago
-
----
-
-**[China’s Moonshot AI Adds to Chip Investors’ Worries](https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792)**
-
-WSJ • 2h ago
+The New York Times • 1d ago
 
 ---
 
@@ -197,13 +203,13 @@ WSJ • 2h ago
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 382 • 💬 513 • 1d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 382 • 💬 516 • 1d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 352 • 💬 255 • 8h ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 363 • 💬 264 • 10h ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -211,13 +217,19 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 The AI agent made for open models, built to get things done.
 
-⬆️ 318 • 💬 122 • 1d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 319 • 💬 123 • 1d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
 
 ---
 
 **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://news.ycombinator.com/item?id=48927095)**
 
 ⬆️ 292 • 💬 107 • 2d ago • [siegelendowment.org](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+
+---
+
+**[Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://news.ycombinator.com/item?id=48952880)**
+
+⬆️ 214 • 💬 139 • 2h ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
@@ -257,14 +269,6 @@ A shockingly inefficient trillion-dollar project
 
 ---
 
-**[Stop saying that AI is just a tool and it only matters how it is used](https://news.ycombinator.com/item?id=48930363)**
-
-I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
-
-⬆️ 105 • 💬 115 • 1d ago • [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -295,7 +299,7 @@ Try Seedream 5.0 plus other top AI image and video models at Artlist ...
 
 📺 Matt Wolfe
 
-👁️ 23K • 👍 1K • 💬 55 • ⏱️ 23:10 • 8h ago
+👁️ 23K • 👍 1K • 💬 55 • ⏱️ 23:10 • 9h ago
 
 ---
 
@@ -305,7 +309,7 @@ Check out Wint: https://wintwealth.onelink.me/o6zX/li150zkb Are you using AI jus
 
 📺 Dhaval Kataria
 
-👁️ 17K • 👍 1K • 💬 82 • ⏱️ 15:44 • 10h ago
+👁️ 17K • 👍 1K • 💬 82 • ⏱️ 15:44 • 11h ago
 
 ---
 
@@ -315,7 +319,7 @@ The mates discuss Mira Murati's 975B Open Model, Ramin Hasani speaks on Post-Tra
 
 📺 Peter H. Diamandis
 
-👁️ 23K • 👍 942 • 💬 179 • ⏱️ 1:56:54 • 5h ago
+👁️ 23K • 👍 942 • 💬 179 • ⏱️ 1:56:54 • 6h ago
 
 ---
 
@@ -365,7 +369,7 @@ Create AI Films in Minutes with OpenArt AI Director https://tolt.link/robodirect
 
 📺 Roboverse
 
-👁️ 8K • ⏱️ 11:40 • 7h ago
+👁️ 8K • ⏱️ 11:40 • 8h ago
 
 ---
 
@@ -393,7 +397,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 200,774 • ❤️ 675 • 7h ago
+⬇️ 200,774 • ❤️ 675 • 8h ago
 
 ---
 
@@ -405,7 +409,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,045,182 • ❤️ 389 • 7h ago
+⬇️ 1,045,182 • ❤️ 389 • 8h ago
 
 ---
 
@@ -451,7 +455,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 343 • 4h ago
+⬇️ 0 • ❤️ 343 • 6h ago
 
 ---
 
@@ -651,7 +655,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.9k • 🔱 1.0k • 17h ago
+⭐ 4.9k • 🔱 1.0k • 19h ago
 
 ---
 
@@ -661,7 +665,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.9k • 🔱 208 • 6h ago
+⭐ 2.9k • 🔱 208 • 8h ago
 
 ---
 
@@ -671,7 +675,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.5k • 🔱 363 • 19h ago
+⭐ 2.5k • 🔱 363 • 20h ago
 
 ---
 

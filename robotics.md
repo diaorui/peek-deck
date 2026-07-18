@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-17T23:25:29.918578+00:00'
+updated: '2026-07-18T00:55:41.538076+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 17, 2026 at 23:25 UTC  
+**Last Updated:** July 18, 2026 at 00:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially the models controlling them reliably, aren’t available yet, so we’re focusing on making the options we can use right now and actually work.
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially 
 
 I’m happy to share another video of my quadruped robot climbing stairs! Since my previous post, I have added contact sensors and modified the locomotion control algorithm. Previously, the robot used a fairly standard MPC + WBC + vision-based control framework. I have now added a reference generator based on the Linear Inverted Pendulum Model. It generates dynamically consistent body position, velocity, and acceleration trajectories for the MPC and WBC controllers. This modification significantly improved the robot’s stability. It also allowed me to increase the swing duration of each leg, resulting in smoother foot trajectories, softer ground contacts, and quieter locomotion.
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’m happy to share another video of my quadruped robot climbing stairs! Since 
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-🔗 [WIRED](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/) • 15h ago
 
 ---
 
@@ -60,7 +60,7 @@ The CEO of Foundation Future Industries, which counts the president’s son as i
 
 After months of chasing benchmark numbers and metrics that looked great, but our robot kept making weird, unnatural misses and dropping objects mid-grab, we finally stopped tuning the model and went digging through the data itself. By tracking per-sample loss, classifying each sample's loss-trajectory shape, and doing some manual inspection, we found at least 10 counterproductive sequences in the train split (and a few in eval) of LIBERO, a widely used robot-learning benchmark. In several of them, the object is missed or falls mid-grab, and the model is being trained and even evaluated on exactly those. Q1. What's the right way to handle these partial/failed sequences? Straight deletion feels wrong. Some of that "fail then recover" signal might actually be teaching the policy to recover. Q2. What do people use to actually understand their data in this space, beyond eyeballing episodes?
 
-9h ago
+11h ago
 
 ---
 
@@ -68,7 +68,7 @@ After months of chasing benchmark numbers and metrics that looked great, but our
 
 That's a drone in the picture! Computational design generated a spinning drone that’s nearly transparent. Called the phantom twist, it's still loud, but it's quite hard to see with a human eye. See for yourself: https://www.youtube.com/watch?v=5KQ7dKs1dpQ&t=1s
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 5h ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 7h ago
 
 ---
 
@@ -76,13 +76,13 @@ That's a drone in the picture! Computational design generated a spinning drone t
 
 Hi everyone, I built OnSLAM, a Windows application that runs a LiDAR-inertial odometry and mapping pipeline directly on ROS1 bag files. The main idea is to make it easier for beginners, researchers, or anyone quickly testing datasets to go from a LiDAR-IMU bag to a point-cloud map without setting up Linux, ROS, Python environments, dependencies, or terminal commands. You install the .exe, launch it, and it opens a simple browser-based interface. The interface runs locally, so your bag files and processing data never leave your computer. OnSLAM can currently: inspect ROS1 bags for compatible LiDAR and IMU topics let you configure topics, extrinsics, time offsets, frame limits, and processing quality filter and downsample scans use IMU data as a motion prior align scans to a cached local submap using point-to-plane ICP display the map, trajectory, and tracking quality live export PLY, PCD, and dense point-cloud maps decode Livox CustomMsg data I am currently looking for people who can test it on different sensors, bag structures, and datasets. Bug reports, feature suggestions, and especially bags that fail to process would be really helpful. GitHub: https://github.com/musabali314/OnSLAM Download: https://github.com/musabali314/OnSLAM/releases Promise, the .exe is not a virus. Windows may still act suspicious because it is unsigned 😭 I am considering ROS2 .db3 support next, followed by possible camera or visual-inertial inputs. Which one would be more useful to you?
 
-4h ago
+6h ago
 
 ---
 
 **[Finsh my work with 3D Camera P008G, Weekend is coming](https://www.reddit.com/r/robotics/comments/1uz0fyy/finsh_my_work_with_3d_camera_p008g_weekend_is/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone, I built OnSLAM, a Windows application that runs a LiDAR-inertial od
 
 This is my DIY 3D-printed cycloidal gearbox, designed and built from scratch in my room. Every part was printed, assembled, and tested to create a compact gearbox with high torque, low backlash, and smooth motion. There are still improvements to make, but that’s part of the engineering journey. Every prototype gets me one step closer to a better design. What would you like to see next—torque testing, durability testing, or a full assembly tutorial? #DIY #CycloidalGearbox #3DPrinting #Engineering #Robotics #Robot #MechanicalEngineering #Gearbox #Maker #Prototype #Innovation #STEM #CAD #3DPrinted #RobotArm
 
-20h ago
+22h ago
 
 ---
 
@@ -98,7 +98,7 @@ This is my DIY 3D-printed cycloidal gearbox, designed and built from scratch in 
 
 try it right now without installing anything. the fiftyone app is running in a hugging face space for the first time (its a bit hacky atm, but working on polishing it up) space: https://huggingface.co/spaces/harpreetsahota/fiftyone-app full walkthrough: https://voxel51.com/blog/view-mcap-files-fiftyone
 
-7h ago
+9h ago
 
 ---
 
@@ -106,7 +106,7 @@ try it right now without installing anything. the fiftyone app is running in a h
 
 Hey everyone, During active robot bring-up and debugging, I always found myself constantly context-switching between five different terminal windows (one for colcon build, one for ros2 launch, one for checking topics/nodes, one for my editor, etc.). To fix this, I built **ros2_info**—a full-screen, VS Code-style Terminal User Interface (TUI) designed specifically for ROS 2 workflows. It gives you a complete workspace lens with zero Electron weight. ### 🌟 Key Features: * **6 Live Dashboard Tabs:** Real-time visibility into Overview, ROS 2 graph state, Workspace, Diagnostics, Trends, and Fleet. * **Real PTY Terminal:** Run `ros2` commands, `colcon build`, and launch files live inside the dashboard (not just a basic command wrapper). * **Multi-tab Editor:** Built-in code editor with syntax highlighting, find/replace, and Neovim keybindings for quick tweaks over SSH. * **Local Offline AI Assistant:** Powered by Ollama (`ai scan`, `ai fix`, `ai explain`). It can catch build errors and offer diff-gated fixes completely offline. * **Sandbox Mode:** Safely isolate nodes, topics, and services from your real system to experiment freely. Because it's built with **Rust + Ratatui**, it runs incredibly fast, has no heavy dependency chains, and works flawlessly over SSH on a Raspberry Pi or Jetson. 🔗 **Check out the repo here:** https://github.com/Gaurav-x111/ros2\_info I'd love to hear your feedback or feature requests! If this looks like something that could speed up your robotics workflow, dropping a ⭐ on GitHub would mean the world to me!
 
-8h ago
+9h ago
 
 ---
 
@@ -114,9 +114,17 @@ Hey everyone, During active robot bring-up and debugging, I always found myself 
 
 ## Google News: "robotics"
 
-**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
+**[Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)**
 
-NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
+Agility is opening a new training center for its Digit robots in Fremont, California.
+
+TechCrunch • 4h ago
+
+---
+
+**[NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/)**
+
+General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
 
 NVIDIA Blog • 2d ago
 
@@ -126,15 +134,13 @@ NVIDIA Blog • 2d ago
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-WIRED • 14h ago
+WIRED • 15h ago
 
 ---
 
-**[Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)**
+**[South Korea-US team unveils robotic technology that dresses the wearer](https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/)**
 
-Agility is opening a new training center for its Digit robots in Fremont, California.
-
-TechCrunch • 3h ago
+Reuters • 21h ago
 
 ---
 
@@ -162,31 +168,25 @@ Business Insider • 1d ago
 
 ---
 
-**[Hyperscale Data Begins Installation of Omnipresent Robotics OPR-R2 Robots at Michigan AI Facility](https://www.prnewswire.com/news-releases/hyperscale-data-begins-installation-of-omnipresent-robotics-opr-r2-robots-at-michigan-ai-facility-302828282.html)**
+**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
 
-/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
+A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
 
-PR Newswire • 12h ago
-
----
-
-**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
-
-Business Wire • 2d ago
+The Mercury News • 1d ago
 
 ---
 
-**[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
+**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
 
-Bloomberg.com • 2d ago
+NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
+
+NVIDIA Blog • 2d ago
 
 ---
 
-**[Video: US-based Toyota spinout’s factory robots learn from experience on the job](https://interestingengineering.com/ai-robotics/us-toyota-robots-learn-from-experience)**
+**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
 
-US startup Walden Robotics unveils Physical AI robots that learn on the job, bringing adaptable automation to factories and logistics.
-
-Interesting Engineering • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Smarttoy Ruko
 
-👁️ 20K • 👍 122 • 💬 1 • ⏱️ 0:18 • 13h ago
+👁️ 20K • 👍 122 • 💬 1 • ⏱️ 0:18 • 14h ago
 
 ---
 
@@ -228,7 +228,7 @@ China's Shenzhen has hosted what organizers describe as the world's first full-s
 
 📺 The Brief India
 
-👁️ 61K • 👍 1K • 💬 211 • ⏱️ 0:53 • 19h ago
+👁️ 61K • 👍 1K • 💬 211 • ⏱️ 0:53 • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ Watch the most intense moments from the Ultimate Humanoid Robot Knockout League 
 
 📺 The Construct Robotics Institute
 
-👁️ 1K • 👍 31 • 💬 2 • ⏱️ 2:18 • 5h ago
+👁️ 1K • 👍 31 • 💬 2 • ⏱️ 2:18 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ A humanoid robot named White Eagle landed a crunching head kick on its rival dur
 
 📺 MIRROR NOW
 
-👁️ 2K • 👍 17 • 💬 12 • ⏱️ 3:20 • 9h ago
+👁️ 2K • 👍 17 • 💬 12 • ⏱️ 3:20 • 10h ago
 
 ---
 

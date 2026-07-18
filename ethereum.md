@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-17T23:25:29.915707+00:00'
+updated: '2026-07-18T00:55:41.535135+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 17, 2026 at 23:25 UTC  
+**Last Updated:** July 18, 2026 at 00:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +2.7%  
-**30d:** +7.4%  
-**90d:** -18.8%  
-**1y:** -48.2%  
+**24h:** -0.5%  
+**7d:** +1.9%  
+**30d:** +7.5%  
+**90d:** -20.4%  
+**1y:** -48.7%  
 
 ---
 
@@ -104,7 +104,7 @@ Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
 
 One thing I've been thinking about recently is that blockchains are great at verifying digital information—but they still struggle to verify physical reality. For example: Did someone actually visit a location? Was a delivery completed? Did an inspection really happen? Can an AI agent prove it interacted with the physical world? GPS alone isn't enough anymore, and centralized systems require trust. I've been working on an open protocol called GeoProof that explores using multi-signal verification to generate cryptographically verifiable attestations for real-world events. The goal isn't to replace existing blockchains, but to provide a reusable verification layer that applications can integrate regardless of which chain they use. I'd really appreciate feedback on whether this problem is worth solving and whether you think an open protocol is the right approach. Website: https://geoproof.xyz Documentation is public and constructive criticism is very welcome.
 
-2d ago
+3d ago
 
 ---
 
@@ -170,13 +170,15 @@ Fed Chair Kevin Warsh told Congress the Fed doesn't want to bail out crypto. Her
 
 Tom Lee says Ethereum is entering a “2.0 era” that could deliver “radical upside” as Wall Street adoption expands. Ethereum bulls claim a rare ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
+**[Current price of Ethereum for July 17, 2026](https://fortune.com/article/price-of-ethereum-07-17-2026/)**
 
-MarketWatch • 9h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 9h ago
 
 ---
 
@@ -188,11 +190,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Current price of Ethereum for July 17, 2026](https://fortune.com/article/price-of-ethereum-07-17-2026/)**
+**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 8h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -200,7 +200,7 @@ Fortune • 8h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) came under renewed selling pressure during the second half of the week after staging a modest recovery earlier in the week. BTC trades below $63,600 on Friday, while ETH slips below $1,860 after facing rejection at key resistance levels.
 
-FXStreet • 18h ago
+FXStreet • 20h ago
 
 ---
 
@@ -216,7 +216,7 @@ Stocktwits • 1d ago
 
 The chain's updated technical roadmap will see it add major new features.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ The Motley Fool • 1d ago
 
 President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial
 
-Coinpedia • 21h ago
+Coinpedia • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 464 • 💬 51 • ⏱️ 12:55 • 2h ago
+👁️ 4K • 👍 464 • 💬 51 • ⏱️ 12:55 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 70 • 💬 7 • ⏱️ 17:29 • 6h ago
+👁️ 1K • 👍 70 • 💬 7 • ⏱️ 17:29 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 142 • 💬 62 • ⏱️ 20:43 • 7h ago
+👁️ 3K • 👍 142 • 💬 62 • ⏱️ 20:43 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 3K • 👍 165 • 💬 131 • ⏱️ 22:29 • 5h ago
+👁️ 3K • 👍 165 • 💬 131 • ⏱️ 22:29 • 6h ago
 
 ---
 
@@ -288,7 +288,7 @@ Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, w
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 269 • 💬 7 • ⏱️ 15:12 • 16h ago
+👁️ 3K • 👍 269 • 💬 7 • ⏱️ 15:12 • 18h ago
 
 ---
 
@@ -298,7 +298,7 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 8K • 👍 204 • 💬 36 • ⏱️ 7:55 • 23h ago
+👁️ 8K • 👍 204 • 💬 36 • ⏱️ 7:55 • 1d ago
 
 ---
 
@@ -308,7 +308,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 16K • 👍 1K • 💬 78 • ⏱️ 14:48 • 4h ago
+👁️ 16K • 👍 1K • 💬 78 • ⏱️ 14:48 • 6h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin, Ethereum, SpaceX, Cashcat, and stocks bleeding BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 5K • 👍 263 • 💬 28 • ⏱️ 15:33 • 11h ago
+👁️ 5K • 👍 263 • 💬 28 • ⏱️ 15:33 • 12h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 253 • 👍 16 • 💬 8 • ⏱️ 4:50 • 13h ago
+👁️ 253 • 👍 16 • 💬 8 • ⏱️ 4:50 • 15h ago
 
 ---
 
