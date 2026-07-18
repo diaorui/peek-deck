@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-18T20:03:55.570067+00:00'
+updated: '2026-07-18T21:23:36.139004+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 20:03 UTC  
+**Last Updated:** July 18, 2026 at 21:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,492.60
+### $64,764.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +1.2%  
-**30d:** +1.6%  
-**90d:** -14.9%  
-**1y:** -45.2%  
+**24h:** +1.3%  
+**7d:** +1.6%  
+**30d:** +2.0%  
+**90d:** -14.6%  
+**1y:** -45.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1294.06B
+**Market Cap:** $1299.16B
 Rank #1
 
-**Circulating Supply:** 20,058,043 BTC
+**Circulating Supply:** 20,058,118 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.8%
+-48.6%
 
 **All-Time Low:** $67.81
-+95046.7%
++95418.4%
 
 ---
 
@@ -119,7 +119,7 @@ A small miner and bip110 node runned asked in the comments what expect past bloc
 
 What’s the true stat to be in the top 10% of all Bitcoin Holders (from a retail perspective)? How much are you trying to stack? What is your goal? There’s a lot of debate around this and wanted to get people’s thoughts.
 
-19h ago
+20h ago
 
 ---
 
@@ -151,7 +151,7 @@ Each pump so far has a demographic behind it, whether it be retail, institutiona
 
 The support team lacks communication skills and just blatantly neglects any helpful information for the Users on what the next steps in the KYC Verification process are. They only suggest that I be patient, and that they've sent the documents that I've already sent them to the proper department without any follow up. I've used NC Wallet for the better part of 3 years sending to and from the same wallets every time and never had a real issue, (other than the lack of providing a TxID for sometimes several days before actually processing and completing,) until I finally deposited a decent amount from a casino ($5,000) and then all of the sudden there's a problem and they need to verify my identity, (which it literally says is not required and won't even let you until they flag the KYC Verification, and that I've now been waiting 2 weeks for.) Now, for obvious reasons I'm submitting reviews on Reddit, Trustpilot, Google Play Store and the major social media platforms about the type of trap this wallet is. I will also be reporting to the DFPI if for whatever reason they cease to communicate with me entirely. Like I said, I've never really had a problem with the app and would like to continue using it or at leaat get my funds back, however, I'm not about to just let $5,000 of mine just get taken without doing something about it. I've read a couple of posts that said they were able to get their accounts back, idk on the legitimacy of that, but I would love to be one of them. If anything, this post is more to let the people that may not know that NC Wallet is definitely not the Wallet to store any of your crypto if you want to have control of your funds. Learn from mine and many others mistakes.. I will edit this post if for some miracle they push my verification through. The AI suggests I add my ticket numbers to help bypass the generic support bot so here they are: NW-146416 NW-144905
 
-23h ago
+1d ago
 
 ---
 
@@ -163,15 +163,7 @@ The support team lacks communication skills and just blatantly neglects any help
 
 Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy
 
-The Guardian • 10h ago
-
----
-
-**[BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction](https://www.forbes.com/sites/billybambrough/2026/07/17/blackrock-ceo-issues-surprise-12-month-bitcoin-and-crypto-price-prediction/)**
-
-Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
-
-Forbes • 1d ago
+The Guardian • 11h ago
 
 ---
 
@@ -191,13 +183,21 @@ Investor's Business Daily • 1d ago
 
 Large traders on Deribit show expectations for a price rally to $72,000 by month end, right when the Fed meets.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
+
+---
+
+**[BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction](https://www.forbes.com/sites/billybambrough/2026/07/17/blackrock-ceo-issues-surprise-12-month-bitcoin-and-crypto-price-prediction/)**
+
+Bitcoin and crypto prices have fallen sharply this year, wiping around $2 trillion from the combined market...
+
+Forbes • 1d ago
 
 ---
 
 **[The Investors Riding Along With Strategy’s Bitcoin Rollercoaster](https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d)**
 
-WSJ • 1d ago
+WSJ • 2d ago
 
 ---
 
@@ -221,13 +221,13 @@ The Block • 2d ago
 
 Government says cybersecurity teams investigating after presidency portal briefly defaced | Anadolu
 
-Anadolu Ajansı • 7h ago
+Anadolu Ajansı • 8h ago
 
 ---
 
 **[Bitcoin recovers toward $64k after sliding on AI shock, crypto bill doubts](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577)**
 
-Investing.com • 10h ago
+Investing.com • 12h ago
 
 ---
 
@@ -277,7 +277,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 878 • 💬 137 • ⏱️ 19:34 • 22h ago
+👁️ 14K • 👍 939 • 💬 164 • ⏱️ 19:34 • 23h ago
 
 ---
 
@@ -285,77 +285,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 775 • 💬 42 • ⏱️ 2:04 • 19h ago
-
----
-
-**[Why Bitcoin is replacing gold](https://www.youtube.com/watch?v=ZHCnpQNISZQ)**
-
-Gold has been humanity's trusted store of value for 5000 years. But is Bitcoin becoming something better? In this episode of The ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 511 • 💬 256 • ⏱️ 14:56 • 1d ago
-
----
-
-**[The Gold Revaluation Theory That Could Change Bitcoin Forever!](https://www.youtube.com/watch?v=f_UclLjEFVI)**
-
-Gold could be heading to $10000 as central banks move away from US Treasuries and the global monetary system begins ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 245 • ⏱️ 18:01 • 1d ago
-
----
-
-**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
-
-Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
-
-📺 Prof G Markets
-
-👁️ 32K • 👍 390 • 💬 198 • ⏱️ 1:42 • 1d ago
-
----
-
-**[Peter L. Brandt - Where Is Bitcoin Headed Next? | Trade Secrets Show](https://www.youtube.com/watch?v=ow-n3PkAUN4)**
-
-Veteran trader Peter Brandt believes Bitcoin's bear market is far from over. Trade Secrets is made for X — but now you can watch ...
-
-📺 Cointelegraph
-
-👁️ 1K • 👍 107 • 💬 88 • ⏱️ 32:12 • 7h ago
-
----
-
-**[Massive Companies Invest In Bitcoin &amp; Crypto = Going To ZERO!?](https://www.youtube.com/watch?v=j9G7xxqUvdU)**
-
-If Bitcoin and crypto is going to zero then why are so many MASSIVE companies investing in the space? ARe they INSANE??! No ...
-
-📺 Digital Asset News
-
-👁️ 8K • 👍 498 • 💬 36 • ⏱️ 27:00 • 1d ago
-
----
-
-**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
-
-Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
-
-📺 Benjamin Cowen
-
-👁️ 60K • 👍 4K • 💬 144 • ⏱️ 7:33 • 2d ago
-
----
-
-**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
-
-Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 13K • 👍 310 • 💬 43 • ⏱️ 1:16 • 2d ago
+👁️ 13K • 👍 816 • 💬 43 • ⏱️ 2:04 • 20h ago
 
 ---
 
@@ -365,7 +295,77 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 17K • 👍 966 • 💬 526 • ⏱️ 11:16 • 2d ago
+👁️ 17K • 👍 983 • 💬 443 • ⏱️ 11:16 • 2d ago
+
+---
+
+**[Why Bitcoin is replacing gold](https://www.youtube.com/watch?v=ZHCnpQNISZQ)**
+
+Gold has been humanity's trusted store of value for 5000 years. But is Bitcoin becoming something better? In this episode of The ...
+
+📺 Yahoo Finance
+
+👁️ 8K • 👍 519 • 💬 243 • ⏱️ 14:56 • 1d ago
+
+---
+
+**[Bitcoin: A Time To Buy  (Two Scenarios)](https://www.youtube.com/watch?v=ghHD63SK1HY)**
+
+August is right around the corner and that means BIG moves coming up (Clarity, SpaceX unlocks, Usually mini-rally). But here is ...
+
+📺 Digital Asset News
+
+👁️ 3K • 👍 315 • 💬 17 • ⏱️ 29:49 • 3h ago
+
+---
+
+**[The Gold Revaluation Theory That Could Change Bitcoin Forever!](https://www.youtube.com/watch?v=f_UclLjEFVI)**
+
+Gold could be heading to $10000 as central banks move away from US Treasuries and the global monetary system begins ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 266 • ⏱️ 18:01 • 2d ago
+
+---
+
+**[Massive Companies Invest In Bitcoin &amp; Crypto = Going To ZERO!?](https://www.youtube.com/watch?v=j9G7xxqUvdU)**
+
+If Bitcoin and crypto is going to zero then why are so many MASSIVE companies investing in the space? ARe they INSANE??! No ...
+
+📺 Digital Asset News
+
+👁️ 8K • 👍 502 • 💬 36 • ⏱️ 27:00 • 1d ago
+
+---
+
+**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
+
+Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
+
+📺 Benjamin Cowen
+
+👁️ 61K • 👍 4K • 💬 145 • ⏱️ 7:33 • 2d ago
+
+---
+
+**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
+
+Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
+
+📺 Prof G Markets
+
+👁️ 33K • 👍 413 • 💬 136 • ⏱️ 1:42 • 1d ago
+
+---
+
+**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
+
+Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 14K • 👍 314 • 💬 43 • ⏱️ 1:16 • 2d ago
 
 ---
 

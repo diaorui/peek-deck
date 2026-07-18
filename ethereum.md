@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T20:03:55.573392+00:00'
+updated: '2026-07-18T21:23:36.143140+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 20:03 UTC  
+**Last Updated:** July 18, 2026 at 21:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +2.8%  
-**30d:** +8.5%  
-**90d:** -19.7%  
-**1y:** -48.3%  
+**24h:** +1.2%  
+**7d:** +3.1%  
+**30d:** +8.8%  
+**90d:** -19.5%  
+**1y:** -48.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.22B
+**Market Cap:** $224.54B
 Rank #2
 
 **Circulating Supply:** 120,682,850 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.4%
 
 **All-Time Low:** $0.43
-+428941.6%
++429622.9%
 
 ---
 
@@ -96,7 +96,7 @@ Hello, A little while ago I posted about a project concept I had. The idea was a
 
 Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
 
-2d ago
+3d ago
 
 ---
 
@@ -154,15 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 23h ago
-
----
-
-**[BitMine made $46 million staking Ethereum then lost twice that betting on it](https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/)**
-
-BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
-
-CryptoSlate • 3d ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -170,15 +162,15 @@ CryptoSlate • 3d ago
 
 Ethereum has stayed just above $1,800 recently, a key support level, but thin trading volumes and weak investor interest suggest the current rally may be short-lived. Positive net inflows into Ethereum ETFs in July indicate some renewed interest, yet overall market sentiment remains cautious due to an unfavorable macroeconomic outlook and expected Federal Reserve rate hikes. If Ethereum fails to hold $1,800, it could fall toward $1,550, while resistance near $2,000 may limit any upside in the near term.
 
-Pluang • 2h ago
+Pluang • 4h ago
 
 ---
 
-**[Tom Lee Says Ethereum's Future Is 'Exponential,' Cites Analyst's $2,200 ETH Target](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereums-future-085641202.html)**
+**[Bitcoin and Ethereum ETFs see major inflows ami...](https://pluang.com/en/news-feed/bitcoin-ethereum-etf-aliran-masuk-besar-di-tengah-gejolak-pasar)**
 
-BitMine Immersion Technologies Inc. (NYSE:BMNR) Chair Tom Lee made a case on Thursday that Ethereum (CRYPTO: ETH) is bottoming and entering the next phase of mainstream adoption Crypto Winter Over? In his latest message to shareholders, Lee said that the “crypto spring is here.” He cited the research of Tom DeMark, a popular technical analyst and Bitmine Immersion’s timing advisor for cryptocurrency acquisitions, who believes everything is set for a “market bottom” and that the “Ethereum risk-re
+Spot Bitcoin ETFs recorded $132 million in net inflows and Ethereum ETFs $36.73 million on July 17, despite ongoing market volatility. This suggests growing investor confidence, particularly from institutional players, as they position for potential gains in these cryptocurrencies. Bitcoin trades near $64,010 and Ethereum at $1,841, showing modest gains that offer hope amid cautious market sentiment. These ETF inflows could influence the future price movements of Bitcoin and Ethereum in the coming weeks.
 
-Yahoo Finance • 1d ago
+Pluang • 59m ago
 
 ---
 
@@ -190,6 +182,14 @@ Decrypt • 2d ago
 
 ---
 
+**[Current price of Ethereum for July 17, 2026](https://fortune.com/article/price-of-ethereum-07-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
+
+---
+
 **[Crypto Today: Bitcoin, Ethereum, XRP give back gains as tit-for-tat US-Iran strikes persist](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-give-back-gains-as-tit-for-tat-us-iran-strikes-persist-202607171009)**
 
 Cryptocurrencies broadly edge lower on Friday, as investors continue to assess the impact of the incessant strikes between the United States (US) and Iran in the Middle East. Bitcoin (BTC) has corrected by more than 1% on the day, trading below $63,000.
@@ -198,9 +198,19 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum daily transactions rise 34% to 2M as fees drop 34% to $344M](https://cryptobriefing.com/ethereum-daily-transactions-rise-fees-drop/)**
+**[Ethereum at Amazon/Nvidia-Like Inflection Point, Tom Lee Forecasts $12,000 ETH](https://www.tradingview.com/news/coinpedia:b8cb37750094b:0-ethereum-at-amazon-nvidia-like-inflection-point-tom-lee-forecasts-12-000-eth/)**
 
-Crypto Briefing • 1d ago
+Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
+
+TradingView • 22h ago
+
+---
+
+**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
+
+Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
+
+CoinMarketCap • 19h ago
 
 ---
 
@@ -209,14 +219,6 @@ Crypto Briefing • 1d ago
 Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
 
 Stocktwits • 1d ago
-
----
-
-**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
-
-Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
-
-CoinMarketCap • 18h ago
 
 ---
 
@@ -232,33 +234,23 @@ Coinpedia • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 1K • 👍 75 • 💬 88 • ⏱️ 13:08 • 7h ago
-
----
-
 **[&quot;Ethereum is about to EXPLODE!!&quot; Wall Street Expert Explains Why! (in only 12 minutes)](https://www.youtube.com/watch?v=SZ9Ks_GKUAs)**
 
 What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTTON! ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 127 • ⏱️ 12:55 • 23h ago
+👁️ 25K • 👍 1K • 💬 124 • ⏱️ 12:55 • 1d ago
 
 ---
 
-**[Ethereum Bottom &amp; Top Price Targets | My Bear To Bull Market Strategy](https://www.youtube.com/watch?v=1aP9klUtdbM)**
+**[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
 
-Ethereum is down almost 70% from its all-time high, but could this be one of the best long-term buying opportunities of the current ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 Coin Bureau Trading
+📺 Milk Road
 
-👁️ 1K • 👍 91 • 💬 7 • ⏱️ 9:10 • 9h ago
+👁️ 3K • 👍 100 • 💬 93 • ⏱️ 13:08 • 8h ago
 
 ---
 
@@ -268,17 +260,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 215 • 💬 82 • ⏱️ 20:43 • 1d ago
+👁️ 6K • 👍 215 • 💬 80 • ⏱️ 20:43 • 1d ago
 
 ---
 
-**[Tom Lee Lost $9B On ETH — He Just Bought More](https://www.youtube.com/watch?v=c-K275s0JO4)**
+**[Ethereum Bottom &amp; Top Price Targets | My Bear To Bull Market Strategy](https://www.youtube.com/watch?v=1aP9klUtdbM)**
 
-Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last week he bought another 20500 ETH.
+Ethereum is down almost 70% from its all-time high, but could this be one of the best long-term buying opportunities of the current ...
 
-📺 Lark Davis
+📺 Coin Bureau Trading
 
-👁️ 18K • 👍 626 • 💬 131 • ⏱️ 13:38 • 1d ago
+👁️ 2K • 👍 100 • 💬 10 • ⏱️ 9:10 • 11h ago
 
 ---
 
@@ -288,17 +280,17 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 9K • 👍 244 • 💬 54 • ⏱️ 7:55 • 1d ago
+👁️ 10K • 👍 246 • 💬 26 • ⏱️ 7:55 • 1d ago
 
 ---
 
-**[Has ETH bottomed?! Major Signal in Ethereum vs Bitcoin chart! #BTC #crypto #trading #Ethereum #QQQ](https://www.youtube.com/watch?v=dmvZE24kCy8)**
+**[Tom Lee Lost $9B On ETH — He Just Bought More](https://www.youtube.com/watch?v=c-K275s0JO4)**
 
-For folks who want a Non-KYC crypto exchange, Pablo uses Pionex and Bitunix, which has lots of great prizes and give aways, ...
+Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last week he bought another 20500 ETH.
 
-📺 Heman Pablo
+📺 Lark Davis
 
-👁️ 348 • 👍 13 • 💬 27 • ⏱️ 19:58 • 9h ago
+👁️ 18K • 👍 631 • 💬 133 • ⏱️ 13:38 • 2d ago
 
 ---
 
@@ -308,7 +300,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 95 • 💬 13 • ⏱️ 17:29 • 1d ago
+👁️ 2K • 👍 98 • 💬 13 • ⏱️ 17:29 • 1d ago
 
 ---
 
@@ -318,17 +310,25 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 37K • 👍 2K • 💬 113 • ⏱️ 14:48 • 1d ago
+👁️ 38K • 👍 3K • 💬 110 • ⏱️ 14:48 • 1d ago
 
 ---
 
-**[Vitalik Just Announced Ethereum&#39;s Most Important Upgrade](https://www.youtube.com/watch?v=VwgRELVPPK0)**
+**[ROBINHOOD ECOSYSTEM CRYPTOS YOU SHOULD BE RESEARCHING! #ethereum #robinhood #rwa #stockmarket](https://www.youtube.com/watch?v=UXZdltSn_sA)**
 
-Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistance, privacy, and long term protocol changes.
+📺 CryptoWendyO
 
-📺 Lark Davis
+👁️ 262 • 👍 42 • 💬 3 • ⏱️ 1:50 • 23m ago
 
-👁️ 2K • 👍 60 • 💬 1 • ⏱️ 0:56 • 16h ago
+---
+
+**[ETH Exit Signal Flashed! Now What?](https://www.youtube.com/watch?v=cb_Q7PgW6F4)**
+
+Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, which has carried price from around 1571 at the ...
+
+📺 Coin Bureau Trading
+
+👁️ 4K • 👍 303 • 💬 9 • ⏱️ 15:12 • 1d ago
 
 ---
 
