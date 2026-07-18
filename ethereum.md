@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T08:20:02.167107+00:00'
+updated: '2026-07-18T09:56:42.228678+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 08:20 UTC  
+**Last Updated:** July 18, 2026 at 09:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.2%  
-**30d:** +7.8%  
-**90d:** -20.2%  
+**24h:** +0.4%  
+**7d:** +2.1%  
+**30d:** +7.7%  
+**90d:** -20.3%  
 **1y:** -48.6%  
 
 ---
@@ -110,7 +110,7 @@ One thing I've been thinking about recently is that blockchains are great at ver
 
 **[Is it legit from customer support?](https://www.reddit.com/r/ethereum/comments/1ux07e3/is_it_legit_from_customer_support/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 12h ago
+24/7 Wall St. • 13h ago
 
 ---
 
@@ -166,25 +166,25 @@ Decrypt • 1d ago
 
 ---
 
+**[Trader places $28M long straddle on Ethereum, b...](https://pluang.com/en/news-feed/opsi-ethereum-28juta-dolar-tanda-tanda-volatilitas-besar)**
+
+A trader executed a large long straddle on Ethereum options, buying 15,000 contracts at a $1,875 strike price expiring July 24, 2026, with a notional value around $28 million and paying about $852,000 in premium. This strategy bets on significant price movement in either direction rather than a specific price trend. The breakeven points are roughly $1,932 on the upside and $1,818 on the downside. This is the largest volatility bet in ETH options that week, signaling strong demand for near-term price swings and potentially influencing market volatility and hedging activity as expiry approaches.
+
+Pluang • 1h ago
+
+---
+
 **[Tom Lee Says Ethereum's Future Is 'Exponential,' Cites Analyst's $2,200 ETH Target](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereums-future-085641202.html)**
 
 BitMine Immersion Technologies Inc. (NYSE:BMNR) Chair Tom Lee made a case on Thursday that Ethereum (CRYPTO: ETH) is bottoming and entering the next phase of mainstream adoption Crypto Winter Over? In his latest message to shareholders, Lee said that the “crypto spring is here.” He cited the research of Tom DeMark, a popular technical analyst and Bitmine Immersion’s timing advisor for cryptocurrency acquisitions, who believes everything is set for a “market bottom” and that the “Ethereum risk-re
 
-Yahoo Finance • 23h ago
-
----
-
-**[Current price of Ethereum for July 17, 2026](https://fortune.com/article/price-of-ethereum-07-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -192,7 +192,7 @@ MarketWatch • 18h ago
 
 Cryptocurrencies broadly edge lower on Friday, as investors continue to assess the impact of the incessant strikes between the United States (US) and Iran in the Middle East. Bitcoin (BTC) has corrected by more than 1% on the day, trading below $63,000.
 
-FXStreet • 22h ago
+FXStreet • 23h ago
 
 ---
 
@@ -200,7 +200,23 @@ FXStreet • 22h ago
 
 Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
 
-CoinMarketCap • 19h ago
+CoinMarketCap • 20h ago
+
+---
+
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://www.tradingview.com/news/stocktwits:cee9d7df8094b:0-ethereum-leads-losses-among-crypto-majors-after-report-raises-fresh-doubts-over-clarity-act/)**
+
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
+
+TradingView • 22h ago
+
+---
+
+**[Current price of Ethereum for July 17, 2026](https://fortune.com/article/price-of-ethereum-07-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 18h ago
 
 ---
 
@@ -209,22 +225,6 @@ CoinMarketCap • 19h ago
 In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
 
 CoinDesk • 2d ago
-
----
-
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://www.tradingview.com/news/stocktwits:cee9d7df8094b:0-ethereum-leads-losses-among-crypto-majors-after-report-raises-fresh-doubts-over-clarity-act/)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
-
-TradingView • 21h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-fall-after-trumps-speech-today/)**
-
-President Trump delivered a primetime address to the nation on July 16, 2026, mixing an economic progress report with a lengthy, controversial
-
-Coinpedia • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 99 • ⏱️ 12:55 • 11h ago
+👁️ 17K • 👍 1K • 💬 99 • ⏱️ 12:55 • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 180 • 💬 64 • ⏱️ 20:43 • 16h ago
+👁️ 5K • 👍 180 • 💬 64 • ⏱️ 20:43 • 17h ago
 
 ---
 
@@ -258,7 +258,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 85 • 💬 10 • ⏱️ 17:29 • 15h ago
+👁️ 2K • 👍 85 • 💬 10 • ⏱️ 17:29 • 16h ago
 
 ---
 
@@ -288,7 +288,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 30K • 👍 2K • 💬 96 • ⏱️ 14:48 • 13h ago
+👁️ 30K • 👍 2K • 💬 96 • ⏱️ 14:48 • 15h ago
 
 ---
 
@@ -298,7 +298,7 @@ Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistanc
 
 📺 Lark Davis
 
-👁️ 869 • 👍 18 • 💬 1 • ⏱️ 0:56 • 4h ago
+👁️ 869 • 👍 18 • 💬 1 • ⏱️ 0:56 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 228 • 💬 142 • ⏱️ 22:29 • 14h ago
+👁️ 5K • 👍 228 • 💬 142 • ⏱️ 22:29 • 15h ago
 
 ---
 

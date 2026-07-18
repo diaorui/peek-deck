@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-18T08:20:02.152134+00:00'
+updated: '2026-07-18T09:56:42.214325+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 18, 2026 at 08:20 UTC  
+**Last Updated:** July 18, 2026 at 09:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 If you want an AI app which actually works, try AI Desktop 98.
 
-14h ago
+16h ago
 
 ---
 
@@ -49,7 +49,7 @@ If you want an AI app which actually works, try AI Desktop 98.
 
 Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday. He encouraged "open-source, openness, collaboration, and sharing."
 
-🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 11h ago
+🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday
 
 HI all, First, thank you so much for your feedback and interest in my project PopUpFactCheck. When I first posted about this July 1, I did not expect the reception it would get and I am so thankful to y'all. Some updates. You asked for Firefox, and it is now a Firefox add-on. It has new features. For example, using the up and down arrows on Chrome (or Option (⌥) + ↑/↓ on Firefox) you can scroll back and forth of the factcheck bubbles already displayed. The fact checking on live videos has improved. And it now does batch reporting on an entire video. Once again, Claude Code was a major tool in my development, and the AI that is used for orchestration is OpenAI GPT 5.4 nano and mini. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. PopUpFactCheck - Chrome Web Store PopUpFactCheck - Firefox add-on PopUpFactCheck - Homepage
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +65,7 @@ HI all, First, thank you so much for your feedback and interest in my project Po
 
 The founder of Linux has made his thoughts on AI tools clear, and he's fully on board. He says the Linux kernel does not fear new tools.
 
-🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 23h ago
+🔗 [PC Guide](https://www.pcguide.com/news/linus-torvalds-says-linux-is-not-an-anti-ai-project-and-if-you-dont-like-that-then-fork-it-or-just-walk-away/) • 1d ago
 
 ---
 
@@ -73,7 +73,15 @@ The founder of Linux has made his thoughts on AI tools clear, and he's fully on 
 
 Seeing this come up more as LLM usage moves from 1 or 2 product features into internal tools, agents, support workflows, evals etc Provider dashboards show token usage but attribution gets messy when finance wants to know which team or project caused the spend. Infra most of the time can see the raw usage but finance only sees the invoice and the middle layer feels kinda underdeveloped. I think the answer is some mix of app level tagging and internal reporting but want to know how many teams are formalizing vs letting it sit as shared infra cost
 
-🔗 [ramp.com](https://ramp.com/blog/ai-token-spend-launch) • 9h ago
+🔗 [ramp.com](https://ramp.com/blog/ai-token-spend-launch) • 10h ago
+
+---
+
+**[AI for designers and programmers 😂](https://www.reddit.com/r/artificial/comments/1uzroqw/ai_for_designers_and_programmers/)**
+
+I find it absolutely hilarious that designers and programmers are completely split on AI. Designers hate it(more or less) cause it's tied to personal style and authorship and I'm guessing cause the models were trained with their designs while programmers love it cause removes repetitive work and has lovely autocomplete. I'm at the intersection. Both a motion design and programmer. I'd love to hear your thoughts on it
+
+5m ago
 
 ---
 
@@ -81,7 +89,23 @@ Seeing this come up more as LLM usage moves from 1 or 2 product features into in
 
 We are entering a strange period. Never in human history have we had access to so much information, so many tools, so many possibilities — and yet many people feel overwhelmed, uncertain and disconnected. The real problem has shifted. Finding information is no longer the main challenge. The challenge is knowing what deserves our attention. We are not only surrounded by more information. We are surrounded by systems competing for our attention. Every day, we receive messages telling us: what we should want what we should become what success should look like what choices we should make Technology has made access easier. But has it made understanding easier? Where AI fits in. AI arrives in this environment. It can answer questions, generate ideas, organize knowledge and help us move faster. But speed does not automatically create direction. A person can have more tools and still not know where to go. A society can create more possibilities and still struggle to define what is valuable. The real challenge. Maybe the challenge of our time is not only learning how to use powerful technologies. Maybe it is learning how to observe, connect information, understand situations and choose with awareness. Because before choosing the right tool, we need to understand the right problem. Before looking for answers, we need to understand the question. AI can amplify our actions. But amplification without understanding can also amplify confusion. The question may not be how much more we can do. The question is whether we still know what is worth doing.
 
-4h ago
+6h ago
+
+---
+
+**[16 Nobel laureates signed a vague AI warning. The three CEOs actually building the thing didn't.](https://www.reddit.com/r/artificial/comments/1uzr3bm/16_nobel_laureates_signed_a_vague_ai_warning_the/)**
+
+So a bunch of economists (Brynjolfsson, Agrawal, Korinek, Cunningham, released through Stanford's Digital Economy Lab) put out this three-sentence statement on AI's economic impact, and somehow it's picked up 200+ signatures, sixteen of them Nobel laureates. Paul Krugman's on there, which is funny given he's the guy who said back in 1998 the internet would matter about as much as the fax machine. So is Yann LeCun, who was calling a much more specific version of this exact warning "ridiculously stupid" earlier this year. Amodei, Altman, Hassabis, the three people actually running the labs building this stuff, none of them signed. Ten signatories do work at Anthropic though (including one of the four people who organized the letter), so yeah, that's the obvious "wait, isn't this just labs recruiting credibility" angle right there. I went and looked up who those Anthropic-adjacent names actually are before deciding what to think. Most of them are just researchers with no PR or company-messaging role at all, Sholto Douglas, Boaz Barak, that tier. Feels unfair to assume a scientist can't hold a real opinion about their own field just because of who signs their paycheck. There's a smaller handful though, Jack Clark, Sarah Friar (OpenAI's CFO), Jeff Dean, where the conflict-of-interest read gets a lot more plausible. No way to actually tell from outside which is which. Probably both types signed this, not just one or the other. And, Acemoglu. Won the 2024 Nobel, spent years being the guy pushing back on doom-y AI-jobs predictions, and he signed anyway (still doesn't sound fully sold on the aggressive timelines from what I've read, just less dismissive than before). An economist like that, no real stake in the outcome either way, putting his name on a "let's actually prepare for this" statement instead of the usual doom-or-hype binary, that's the part of this whole thing that feels like it's worth something. anyway, what yall think? Does mixing real researchers in with lab leadership on the same signature list make this more credible to you, or less? I made this with gpt image 2
+
+41m ago
+
+---
+
+**[hitting limits all the time on Claude](https://www.reddit.com/r/artificial/comments/1uzqbsn/hitting_limits_all_the_time_on_claude/)**
+
+I have a $20/mo Claude account and am hitting the 5-hr limit every few minutes. Also, it keeps asking me to re-enter prompts over and over again. Also, sometimes it asks me to repost prompts over and over again.
+
+1h ago
 
 ---
 
@@ -89,31 +113,7 @@ We are entering a strange period. Never in human history have we had access to s
 
 A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world. This is a new, significantly expanded version of the original Music Video mode, now built around Seedance 2.0, multiple image references, and an even more precise creative-assistance layer designed to enhance and adapt your vision in an optimally model-aware manner. More experiments, through Instagram.
 
-16h ago
-
----
-
-**[Anthropic is expanding Claude Fable 5 access as it works to balance demand and compute capacity](https://www.reddit.com/r/artificial/comments/1uznilq/anthropic_is_expanding_claude_fable_5_access_as/)**
-
-Anthropic announced that starting July 20 Claude Fable 5 will be included in Max and Team Premium subscriptions with 50% of the standard usage limits. Users on Pro and Team Standard plans won't lose access but they'll continue using usage credits instead. Anthropic also says those users will receive a one-time $100 credit. What caught my attention wasn't just the pricing change, but the explanation behind it. Anthropic said demand for Fable has been difficult to predict so it deliberately expanded access in stages while bringing additional compute capacity online. It feels like another example of how frontier AI companies are increasingly treating access as a resource allocation problem rather than simply a subscription decision. Instead of making the model universally available overnight they're adjusting limits based on available GPU capacity and real world demand. As models become more capable and more expensive to run we may see this become the norm across the industry. Rather than a simple free vs. paid model providers could continue experimenting with usage limits, credits, and tiered access to manage infrastructure costs. should companies wait until they have enough capacity before expanding access?
-
-2h ago
-
----
-
-**[Moonshot’s Kimi K3 sends AI and semiconductor stocks into a tailspin Moonshot’s Kimi K3 sends AI and semiconductor stocks into a tailspin. China's largest open-weight AI model revives DeepSeek-era fears about the economics of US infrastructure spending.](https://www.reddit.com/r/artificial/comments/1uz1077/moonshots_kimi_k3_sends_ai_and_semiconductor/)**
-
-Moonshot's Kimi K3, a 2.8 trillion-parameter open-weight AI model, triggered a selloff in AI and semiconductor stocks reminiscent of the 2025 DeepSeek
-
-🔗 [Crypto Briefing](https://cryptobriefing.com/moonshot-kimi-k3-ai-semiconductor-stocks-selloff/) • 18h ago
-
----
-
-**[What does your production LLM monitoring actually catch vs. what does it miss?](https://www.reddit.com/r/artificial/comments/1uzlfg6/what_does_your_production_llm_monitoring_actually/)**
-
-For engineers and teams shipping LLM products: curious what your real-world monitoring setup looks like vs. what it actually catches. The common stack I see: latency tracking, token cost monitoring, basic error rates, maybe LLM-as-a-judge scoring. What I hear less about: what slips through. A few patterns I keep running into: - Outputs that score well on evals but fail on nuanced downstream tasks - Failures that only surface after users stop engaging (silent failures vs. flagged ones) - Models that improve on one metric but quietly regress on another What's surprised you about what your monitoring missed? And has anyone actually closed the loop, where production failure data directly improved a model or routing decision?
-
-4h ago
+18h ago
 
 ---
 
@@ -125,25 +125,27 @@ For engineers and teams shipping LLM products: curious what your real-world moni
 
 K3 might undermine the conventional wisdom that U.S. firms can maintain their extended lead by simply outspending Chinese competitors on computing power.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
 **[China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
-**[China just erased America's AI lead](https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus)**
+**[China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic](https://www.bbc.com/news/articles/cy9w4q8pgp0o)**
 
-Axios • 15h ago
+The company has unveiled a massive new artificial intelligence model it says can take on top American firms.
+
+BBC • 17h ago
 
 ---
 
 **[MLB restricts using dugout iPads for AI-assisted in-game strategy](https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making)**
 
-ESPN • 14h ago
+ESPN • 15h ago
 
 ---
 
@@ -155,33 +157,33 @@ The New York Times • 1d ago
 
 ---
 
-**[Mets among teams who used AI loophole with dugout iPads before MLB crackdown](https://nypost.com/2026/07/17/sports/mets-among-teams-who-used-ai-loophole-with-dugout-ipads/)**
+**[MLB Bans AI Dugout Tech After Ottavino Alert](https://sports.yahoo.com/articles/mlb-bans-ai-dugout-tech-053358003.html)**
 
-The Mets were among the teams found to have exploited a loophole regarding the use of artificial intelligence for in-game decisions.
+MLB blocks AI on dugout iPads to stop strategy cheating, a move former reliever Adam Ottavino helped trigger.
 
-New York Post • 8h ago
-
----
-
-**[A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.](https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7)**
-
-Architects are reimagining AI data centers with public parks, reused heat, and new designs that give host communities more in return.
-
-Business Insider • 8m ago
+Yahoo Sports • 4h ago
 
 ---
 
-**[Fight over AI data centers reaches rural North Carolina, with a 24-month halt on the table](https://www.yahoo.com/news/politics/articles/fight-over-ai-data-centers-074000973.html)**
+**[IBM CEO Arvind Krishna Has Nowhere to Hide From AI](https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f)**
 
-Enormous amounts of electricity and, in many cases, significant volumes of water for cooling.
-
-Yahoo • 40m ago
+WSJ • 26m ago
 
 ---
 
-**[What Happened When We Let Claude Pick Our World Cup Brackets](https://www.bloomberg.com/news/articles/2026-07-18/can-ai-predict-the-world-cup-we-tested-claude-against-humans)**
+**[Indeed chief economist: Aging Baby Boomers are America’s real labor problem, not AI](https://fortune.com/2026/07/18/us-labor-shortage-ai-baby-boomers-2032/)**
 
-Bloomberg.com • 19m ago
+America's labor force will shrink by 6 million workers by 2032. If you're worried about AI taking your job, you're worrying about the wrong thing.
+
+Fortune • 26m ago
+
+---
+
+**[Kevin O'Leary says today's AI data centers use far less water than people think](https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7)**
+
+The "Shark Tank" investor who is developing AI data center projects argued that modern data centers use far less water than many people believe.
+
+Business Insider • 39m ago
 
 ---
 
@@ -189,7 +191,7 @@ Bloomberg.com • 19m ago
 
 The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -199,13 +201,13 @@ CNBC • 10h ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 491 • 💬 313 • 9h ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 509 • 💬 331 • 11h ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 427 • 💬 304 • 17h ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 441 • 💬 318 • 19h ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -213,7 +215,7 @@ CNBC • 10h ago
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 389 • 💬 523 • 1d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 389 • 💬 524 • 1d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
@@ -221,7 +223,7 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 The AI agent made for open models, built to get things done.
 
-⬆️ 323 • 💬 126 • 1d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 323 • 💬 127 • 1d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
 
 ---
 
@@ -243,13 +245,13 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 The move is a vote of confidence in Boeing from the U.S. government.
 
-⬆️ 172 • 💬 97 • 10h ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+⬆️ 174 • 💬 98 • 12h ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 
 ---
 
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 155 • 💬 81 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+⬆️ 156 • 💬 82 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -277,7 +279,7 @@ Kimi K3 AI just beat Claude AI at coding. Join my private group https://techlead
 
 📺 TechLead
 
-👁️ 28K • 👍 1K • 💬 260 • ⏱️ 8:08 • 10h ago
+👁️ 28K • 👍 1K • 💬 260 • ⏱️ 8:08 • 11h ago
 
 ---
 
@@ -297,7 +299,7 @@ Anthropic has revealed that its AI now writes more than 80% of the code merged i
 
 📺 AI Uncovered
 
-👁️ 2K • 👍 93 • 💬 10 • ⏱️ 11:51 • 13h ago
+👁️ 2K • 👍 93 • 💬 10 • ⏱️ 11:51 • 14h ago
 
 ---
 
@@ -307,7 +309,7 @@ China's Moonshot AI just released Kimi K3, the world's largest open-weight AI mo
 
 📺 AI Revolution
 
-👁️ 21K • 👍 804 • 💬 104 • ⏱️ 14:29 • 10h ago
+👁️ 21K • 👍 804 • 💬 104 • ⏱️ 14:29 • 11h ago
 
 ---
 
@@ -317,7 +319,7 @@ Tenex co-founder and co-managing partner Arman Hezarkhani breaks down the featur
 
 📺 Fox Business
 
-👁️ 20K • 👍 340 • 💬 161 • ⏱️ 6:33 • 11h ago
+👁️ 20K • 👍 340 • 💬 161 • ⏱️ 6:33 • 13h ago
 
 ---
 
@@ -327,7 +329,7 @@ Full post w/ Guide + Automation Skill: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 10K • 👍 455 • 💬 53 • ⏱️ 12:08 • 18h ago
+👁️ 10K • 👍 455 • 💬 53 • ⏱️ 12:08 • 19h ago
 
 ---
 
@@ -337,7 +339,7 @@ The mates discuss Mira Murati's 975B Open Model, Ramin Hasani speaks on Post-Tra
 
 📺 Peter H. Diamandis
 
-👁️ 51K • 👍 1K • 💬 253 • ⏱️ 1:56:54 • 14h ago
+👁️ 51K • 👍 1K • 💬 253 • ⏱️ 1:56:54 • 15h ago
 
 ---
 
@@ -347,7 +349,7 @@ Try Seedream 5.0 plus other top AI image and video models at Artlist ...
 
 📺 Matt Wolfe
 
-👁️ 37K • 👍 1K • 💬 70 • ⏱️ 23:10 • 17h ago
+👁️ 37K • 👍 1K • 💬 70 • ⏱️ 23:10 • 18h ago
 
 ---
 
@@ -365,7 +367,7 @@ The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-ma
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 414 • 💬 30 • ⏱️ 2:04 • 7h ago
+👁️ 5K • 👍 414 • 💬 30 • ⏱️ 2:04 • 8h ago
 
 ---
 
@@ -393,7 +395,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 200,774 • ❤️ 690 • 2h ago
+⬇️ 200,774 • ❤️ 690 • 3h ago
 
 ---
 
@@ -405,7 +407,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,045,182 • ❤️ 406 • 16h ago
+⬇️ 1,045,182 • ❤️ 406 • 17h ago
 
 ---
 
@@ -451,7 +453,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 354 • 13h ago
+⬇️ 0 • ❤️ 354 • 15h ago
 
 ---
 
@@ -661,7 +663,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.9k • 🔱 211 • 15h ago
+⭐ 2.9k • 🔱 211 • 17h ago
 
 ---
 
@@ -711,7 +713,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 990 • 🔱 17 • 9d ago
+⭐ 990 • 🔱 17 • 10d ago
 
 ---
 
@@ -731,7 +733,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 938 • 🔱 57 • 3d ago
+⭐ 938 • 🔱 57 • 4d ago
 
 ---
 
