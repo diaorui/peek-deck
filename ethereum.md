@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T18:32:06.201792+00:00'
+updated: '2026-07-18T20:03:55.573392+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 18:32 UTC  
+**Last Updated:** July 18, 2026 at 20:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +2.9%  
+**24h:** +0.9%  
+**7d:** +2.8%  
 **30d:** +8.5%  
 **90d:** -19.7%  
 **1y:** -48.3%  
@@ -134,7 +134,7 @@ I remember Vitalik tweeting, "You can just build on L1." I am wondering if this 
 
 i produced an explainer on the new wave of ethereum-aligned organizations splintering off from the ethereum foundation: etherealize, the ethereum community foundation, and ETHLabs, launching on june 22nd with five senior EF researchers and significant institutional backing the day after ETHLabs, the EF announced it was cutting 20% of its workforce 🥲 it's been a chaotic, turbulent time within the ethereum ecosystem, and i wanted to document my thoughts on why this is happening now and what that could mean for the future of ethereum. lo and behold, as i was finishing production, yet another independent organization founded by ex-EF team members spawned: ethereum institutional. the story literally outran the edit/production 😂 the evidence points both directions: vitalik was writing about distributing the protocol's brain trust across multiple orgs back in 2017. but you can also read this moment as a centre shrinking faster than what the ecosystem is ready to absorb. video: https://youtu.be/sF3NlQBIQDE genuine question for anyone closer to the research side: is coordination between these orgs actually happening anywhere visible? shared calls, forums, roadmap alignment? ----------- if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-🔗 [youtu.be](https://youtu.be/sF3NlQBIQDE?si=rfgNWDJaA4HoJGXQ) • 4d ago
+🔗 [youtu.be](https://youtu.be/sF3NlQBIQDE?si=rfgNWDJaA4HoJGXQ) • 5d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 22h ago
+24/7 Wall St. • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ CryptoSlate • 3d ago
 
 Ethereum has stayed just above $1,800 recently, a key support level, but thin trading volumes and weak investor interest suggest the current rally may be short-lived. Positive net inflows into Ethereum ETFs in July indicate some renewed interest, yet overall market sentiment remains cautious due to an unfavorable macroeconomic outlook and expected Federal Reserve rate hikes. If Ethereum fails to hold $1,800, it could fall toward $1,550, while resistance near $2,000 may limit any upside in the near term.
 
-Pluang • 1h ago
+Pluang • 2h ago
 
 ---
 
@@ -186,13 +186,7 @@ Yahoo Finance • 1d ago
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Decrypt • 1d ago
-
----
-
-**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
-
-MarketWatch • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -204,17 +198,25 @@ FXStreet • 1d ago
 
 ---
 
+**[Ethereum daily transactions rise 34% to 2M as fees drop 34% to $344M](https://cryptobriefing.com/ethereum-daily-transactions-rise-fees-drop/)**
+
+Crypto Briefing • 1d ago
+
+---
+
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
+
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
+
+Stocktwits • 1d ago
+
+---
+
 **[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
 
 Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
 
-CoinMarketCap • 16h ago
-
----
-
-**[Ethereum daily transactions rise 34% to 2M as fees drop 34% to $344M](https://cryptobriefing.com/ethereum-daily-transactions-rise-fees-drop/)**
-
-Crypto Briefing • 1d ago
+CoinMarketCap • 18h ago
 
 ---
 
@@ -236,7 +238,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 1K • 👍 75 • 💬 88 • ⏱️ 13:08 • 5h ago
+👁️ 1K • 👍 75 • 💬 88 • ⏱️ 13:08 • 7h ago
 
 ---
 
@@ -246,7 +248,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 127 • ⏱️ 12:55 • 21h ago
+👁️ 24K • 👍 1K • 💬 127 • ⏱️ 12:55 • 23h ago
 
 ---
 
@@ -256,7 +258,7 @@ Ethereum is down almost 70% from its all-time high, but could this be one of the
 
 📺 Coin Bureau Trading
 
-👁️ 1K • 👍 91 • 💬 7 • ⏱️ 9:10 • 8h ago
+👁️ 1K • 👍 91 • 💬 7 • ⏱️ 9:10 • 9h ago
 
 ---
 
@@ -296,7 +298,7 @@ For folks who want a Non-KYC crypto exchange, Pablo uses Pionex and Bitunix, whi
 
 📺 Heman Pablo
 
-👁️ 348 • 👍 13 • 💬 27 • ⏱️ 19:58 • 7h ago
+👁️ 348 • 👍 13 • 💬 27 • ⏱️ 19:58 • 9h ago
 
 ---
 
@@ -316,7 +318,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 37K • 👍 2K • 💬 113 • ⏱️ 14:48 • 23h ago
+👁️ 37K • 👍 2K • 💬 113 • ⏱️ 14:48 • 1d ago
 
 ---
 
@@ -326,7 +328,7 @@ Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistanc
 
 📺 Lark Davis
 
-👁️ 2K • 👍 60 • 💬 1 • ⏱️ 0:56 • 14h ago
+👁️ 2K • 👍 60 • 💬 1 • ⏱️ 0:56 • 16h ago
 
 ---
 

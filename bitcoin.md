@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-18T18:32:06.195629+00:00'
+updated: '2026-07-18T20:03:55.570067+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 18:32 UTC  
+**Last Updated:** July 18, 2026 at 20:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,465.67
+### $64,492.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +0.7%  
 **7d:** +1.2%  
 **30d:** +1.6%  
 **90d:** -14.9%  
@@ -119,7 +119,7 @@ A small miner and bip110 node runned asked in the comments what expect past bloc
 
 What’s the true stat to be in the top 10% of all Bitcoin Holders (from a retail perspective)? How much are you trying to stack? What is your goal? There’s a lot of debate around this and wanted to get people’s thoughts.
 
-17h ago
+19h ago
 
 ---
 
@@ -151,7 +151,7 @@ Each pump so far has a demographic behind it, whether it be retail, institutiona
 
 The support team lacks communication skills and just blatantly neglects any helpful information for the Users on what the next steps in the KYC Verification process are. They only suggest that I be patient, and that they've sent the documents that I've already sent them to the proper department without any follow up. I've used NC Wallet for the better part of 3 years sending to and from the same wallets every time and never had a real issue, (other than the lack of providing a TxID for sometimes several days before actually processing and completing,) until I finally deposited a decent amount from a casino ($5,000) and then all of the sudden there's a problem and they need to verify my identity, (which it literally says is not required and won't even let you until they flag the KYC Verification, and that I've now been waiting 2 weeks for.) Now, for obvious reasons I'm submitting reviews on Reddit, Trustpilot, Google Play Store and the major social media platforms about the type of trap this wallet is. I will also be reporting to the DFPI if for whatever reason they cease to communicate with me entirely. Like I said, I've never really had a problem with the app and would like to continue using it or at leaat get my funds back, however, I'm not about to just let $5,000 of mine just get taken without doing something about it. I've read a couple of posts that said they were able to get their accounts back, idk on the legitimacy of that, but I would love to be one of them. If anything, this post is more to let the people that may not know that NC Wallet is definitely not the Wallet to store any of your crypto if you want to have control of your funds. Learn from mine and many others mistakes.. I will edit this post if for some miracle they push my verification through. The AI suggests I add my ticket numbers to help bypass the generic support bot so here they are: NW-146416 NW-144905
 
-22h ago
+23h ago
 
 ---
 
@@ -159,47 +159,11 @@ The support team lacks communication skills and just blatantly neglects any help
 
 ## Google News: "bitcoin"
 
-**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
+**[Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter](https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy)**
 
-Investor's Business Daily • 1d ago
+Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy
 
----
-
-**[Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark](https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark)**
-
-Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them.
-
-CoinDesk • 1d ago
-
----
-
-**[Texas commissioners reject downtown bitcoin mine after residents raise water and noise fears](https://www.yahoo.com/news/us/articles/texas-commissioners-reject-downtown-bitcoin-150400662.html)**
-
-"We were told that it’s a close-knit system, but water doesn’t magically appear."
-
-Yahoo • 3h ago
-
----
-
-**[Massive Bitcoin Call Spreads Target $72,000 by Month End, Right When the Fed Meets](https://www.moomoo.com/news/post/73169385/massive-bitcoin-call-spreads-target-72000-by-month-end-right)**
-
-Moomoo • 4h ago
-
----
-
-**[Bitcoin Is its Most Affordable in Two Years. Which ETF Is Better to Invest With Now: iShares Bitcoin Trust ETF or VanEck Bitcoin ETF?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-most-affordable-two-years-143018160.html)**
-
-iShares dominates with $47B in assets, while VanEck undercuts on fees at 0.20% versus 0.25%. Which matters more for your portfolio?
-
-Yahoo Finance • 4h ago
-
----
-
-**['The market collapsed:' After 3 years of operation, Wolfe County bitcoin operation shuts down](https://www.lex18.com/news/lex-18-investigates/the-market-collapsed-after-3-years-of-operation-wolfe-county-bitcoin-operation-shuts-down)**
-
-A Bitcoin mining operation that generated nearly three years of noise complaints from residents along Kentucky Route 1036 is much quieter now.
-
-LEX 18 News • 20h ago
+The Guardian • 10h ago
 
 ---
 
@@ -217,17 +181,53 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[JPMorgan says bitcoin outlook sees 'encouraging sign' as Strategy boosts cash reserves](https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves)**
+**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
 
-Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
+Investor's Business Daily • 1d ago
 
-The Block • 1d ago
+---
+
+**[Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets](https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets)**
+
+Large traders on Deribit show expectations for a price rally to $72,000 by month end, right when the Fed meets.
+
+CoinDesk • 5h ago
 
 ---
 
 **[The Investors Riding Along With Strategy’s Bitcoin Rollercoaster](https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d)**
 
 WSJ • 1d ago
+
+---
+
+**[Toby Doeden: A bitcoin evangelist and anti-property-tax crusader who wants to be governor](https://southdakotasearchlight.com/2026/07/16/toby-doeden-a-bitcoin-evangelist-and-anti-property-tax-crusader-who-wants-to-be-governor/)**
+
+Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
+
+South Dakota Searchlight • 2d ago
+
+---
+
+**[JPMorgan says bitcoin outlook sees 'encouraging sign' as Strategy boosts cash reserves](https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves)**
+
+Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
+
+The Block • 2d ago
+
+---
+
+**[Hackers breach Kenyan president's official website, demand Bitcoin ransom](https://www.aa.com.tr/en/africa/hackers-breach-kenyan-presidents-official-website-demand-bitcoin-ransom/4002285)**
+
+Government says cybersecurity teams investigating after presidency portal briefly defaced | Anadolu
+
+Anadolu Ajansı • 7h ago
+
+---
+
+**[Bitcoin recovers toward $64k after sliding on AI shock, crypto bill doubts](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577)**
+
+Investing.com • 10h ago
 
 ---
 
@@ -277,7 +277,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 878 • 💬 137 • ⏱️ 19:34 • 20h ago
+👁️ 13K • 👍 878 • 💬 137 • ⏱️ 19:34 • 22h ago
 
 ---
 
@@ -285,7 +285,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 775 • 💬 42 • ⏱️ 2:04 • 17h ago
+👁️ 12K • 👍 775 • 💬 42 • ⏱️ 2:04 • 19h ago
 
 ---
 
@@ -325,7 +325,7 @@ Veteran trader Peter Brandt believes Bitcoin's bear market is far from over. Tra
 
 📺 Cointelegraph
 
-👁️ 1K • 👍 107 • 💬 88 • ⏱️ 32:12 • 5h ago
+👁️ 1K • 👍 107 • 💬 88 • ⏱️ 32:12 • 7h ago
 
 ---
 
@@ -345,7 +345,7 @@ Let's talk about Bitcoin market cycles, and how we can best understand where we 
 
 📺 Benjamin Cowen
 
-👁️ 60K • 👍 4K • 💬 144 • ⏱️ 7:33 • 1d ago
+👁️ 60K • 👍 4K • 💬 144 • ⏱️ 7:33 • 2d ago
 
 ---
 
