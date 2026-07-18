@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T03:55:13.354478+00:00'
+updated: '2026-07-18T06:05:41.813078+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 03:55 UTC  
+**Last Updated:** July 18, 2026 at 06:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +2.0%  
-**30d:** +7.6%  
-**90d:** -20.4%  
-**1y:** -48.7%  
+**24h:** +1.0%  
+**7d:** +2.2%  
+**30d:** +7.8%  
+**90d:** -20.2%  
+**1y:** -48.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.26B
+**Market Cap:** $222.58B
 Rank #2
 
 **Circulating Supply:** 120,682,850 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.8%
+-62.7%
 
 **All-Time Low:** $0.43
-+425250.9%
++425906.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -118,7 +118,7 @@ One thing I've been thinking about recently is that blockchains are great at ver
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -142,7 +142,7 @@ i produced an explainer on the new wave of ethereum-aligned organizations splint
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 7h ago
+24/7 Wall St. • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 BitMine Immersion Technologies Inc. (NYSE:BMNR) Chair Tom Lee made a case on Thursday that Ethereum (CRYPTO: ETH) is bottoming and entering the next phase of mainstream adoption Crypto Winter Over? In his latest message to shareholders, Lee said that the “crypto spring is here.” He cited the research of Tom DeMark, a popular technical analyst and Bitmine Immersion’s timing advisor for cryptocurrency acquisitions, who believes everything is set for a “market bottom” and that the “Ethereum risk-re
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -178,13 +178,21 @@ Yahoo Finance • 18h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 14h ago
 
 ---
 
 **[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-MarketWatch • 13h ago
+MarketWatch • 16h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP give back gains as tit-for-tat US-Iran strikes persist](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-give-back-gains-as-tit-for-tat-us-iran-strikes-persist-202607171009)**
+
+Cryptocurrencies broadly edge lower on Friday, as investors continue to assess the impact of the incessant strikes between the United States (US) and Iran in the Middle East. Bitcoin (BTC) has corrected by more than 1% on the day, trading below $63,000.
+
+FXStreet • 19h ago
 
 ---
 
@@ -196,19 +204,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH stall below key EMAs, XRP holds crucial support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-stall-below-key-emas-xrp-holds-crucial-support-202607170437)**
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://www.tradingview.com/news/stocktwits:cee9d7df8094b:0-ethereum-leads-losses-among-crypto-majors-after-report-raises-fresh-doubts-over-clarity-act/)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) came under renewed selling pressure during the second half of the week after staging a modest recovery earlier in the week. BTC trades below $63,600 on Friday, while ETH slips below $1,860 after facing rejection at key resistance levels.
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
 
-FXStreet • 23h ago
-
----
-
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
-
-Stocktwits • 1d ago
+TradingView • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 889 • 💬 81 • ⏱️ 12:55 • 6h ago
+👁️ 15K • 👍 1K • 💬 89 • ⏱️ 12:55 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 80 • 💬 9 • ⏱️ 17:29 • 10h ago
+👁️ 2K • 👍 83 • 💬 9 • ⏱️ 17:29 • 13h ago
 
 ---
 
@@ -258,47 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 167 • 💬 63 • ⏱️ 20:43 • 11h ago
-
----
-
-**[Tom Lee Lost $9B On ETH — He Just Bought More](https://www.youtube.com/watch?v=c-K275s0JO4)**
-
-Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last week he bought another 20500 ETH.
-
-📺 Lark Davis
-
-👁️ 17K • 👍 582 • 💬 124 • ⏱️ 13:38 • 1d ago
-
----
-
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
-
-Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
-
-📺 Gareth Soloway
-
-👁️ 25K • 👍 2K • 💬 89 • ⏱️ 14:48 • 9h ago
-
----
-
-**[BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dvS7lpDImGg)**
-
-BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 205 • 💬 142 • ⏱️ 22:29 • 9h ago
-
----
-
-**[We&#39;re In A Weird Place (Bitcoin &amp; Ethereum Prove It)](https://www.youtube.com/watch?v=ZzXldGxhKSE)**
-
-Bitcoin, Ethereum, SpaceX, Cashcat, and stocks bleeding BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 268 • 💬 32 • ⏱️ 15:33 • 15h ago
+👁️ 5K • 👍 173 • 💬 63 • ⏱️ 20:43 • 13h ago
 
 ---
 
@@ -308,17 +268,37 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 8K • 👍 219 • 💬 37 • ⏱️ 7:55 • 1d ago
+👁️ 8K • 👍 228 • 💬 53 • ⏱️ 7:55 • 1d ago
 
 ---
 
-**[Ethereum’s Future Is Worse Than Investors Realize](https://www.youtube.com/watch?v=8wZooOeqcZk)**
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
 
-Ethereum's core risk is that its ecosystem can succeed while Ethereum's relevance declines — this is the deepest ETH bear case ...
+Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
 
-📺 Jerry Banfield Crypto Reviews
+📺 Gareth Soloway
 
-👁️ 830 • 👍 70 • 💬 14 • ⏱️ 35:13 • 23h ago
+👁️ 28K • 👍 2K • 💬 93 • ⏱️ 14:48 • 11h ago
+
+---
+
+**[Tom Lee Lost $9B On ETH — He Just Bought More](https://www.youtube.com/watch?v=c-K275s0JO4)**
+
+Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last week he bought another 20500 ETH.
+
+📺 Lark Davis
+
+👁️ 17K • 👍 587 • 💬 130 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dvS7lpDImGg)**
+
+BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 217 • 💬 142 • ⏱️ 22:29 • 12h ago
 
 ---
 
@@ -328,7 +308,27 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 449 • 💬 310 • ⏱️ 14:25 • 2d ago
+👁️ 7K • 👍 449 • 💬 306 • ⏱️ 14:25 • 2d ago
+
+---
+
+**[Ethereum’s Future Is Worse Than Investors Realize](https://www.youtube.com/watch?v=8wZooOeqcZk)**
+
+Ethereum's core risk is that its ecosystem can succeed while Ethereum's relevance declines — this is the deepest ETH bear case ...
+
+📺 Jerry Banfield Crypto Reviews
+
+👁️ 846 • 👍 70 • 💬 32 • ⏱️ 35:13 • 1d ago
+
+---
+
+**[We&#39;re In A Weird Place (Bitcoin &amp; Ethereum Prove It)](https://www.youtube.com/watch?v=ZzXldGxhKSE)**
+
+Bitcoin, Ethereum, SpaceX, Cashcat, and stocks bleeding BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 5K • 👍 268 • 💬 32 • ⏱️ 15:33 • 17h ago
 
 ---
 
