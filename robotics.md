@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-18T13:57:15.975854+00:00'
+updated: '2026-07-18T14:58:31.851172+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 18, 2026 at 13:57 UTC  
+**Last Updated:** July 18, 2026 at 14:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Robert Scoble says an unnamed investor told him Anthropic is buying robot AI developer Physical Intelligence, though no deal has been announced.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/anthropic-is-rumored-to-be-pursuing-robot-ai-developer-physical-intelligence) • 8h ago
+🔗 [RuntimeWire](https://runtimewire.com/article/anthropic-is-rumored-to-be-pursuing-robot-ai-developer-physical-intelligence) • 9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Robert Scoble says an unnamed investor told him Anthropic is buying robot AI dev
 
 On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
 
-🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 1h ago
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 2h ago
 
 ---
 
@@ -52,7 +52,7 @@ On my way to recording and open-sourcing a 1,000-episode bimanual manipulation d
 
 Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially the models controlling them reliably, aren’t available yet, so we’re focusing on making the options we can use right now and actually work.
 
-22h ago
+23h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially 
 
 I’m happy to share another video of my quadruped robot climbing stairs! Since my previous post, I have added contact sensors and modified the locomotion control algorithm. Previously, the robot used a fairly standard MPC + WBC + vision-based control framework. I have now added a reference generator based on the Linear Inverted Pendulum Model. It generates dynamically consistent body position, velocity, and acceleration trajectories for the MPC and WBC controllers. This modification significantly improved the robot’s stability. It also allowed me to increase the swing duration of each leg, resulting in smoother foot trajectories, softer ground contacts, and quieter locomotion.
 
-21h ago
+22h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’m happy to share another video of my quadruped robot climbing stairs! Since 
 
 I've been experimenting with an Ethernet-based UWB localization setup recently and wanted to share the workflow. The idea is to keep the embedded side simple while moving the localization calculations to a PC. In this setup, the UWB nodes continuously perform ranging between the tag and anchors. An ESP32-S3 Ethernet gateway collects the ranging data and forwards it over the local network. A PC application then receives the data stream, calculates the tag coordinates in real time, and visualizes the results. Since all positioning algorithms run on the PC instead of the microcontroller, it's much easier to test different localization methods, manage multiple tags, or integrate additional data processing. Hardware Used · 3×UWB nodes (2 Anchors + 1 Tag) · 1×ESP32-S3 Ethernet (PoE) gateway · Ethernet cable · USB cable Step 1: Prepare the Hardware Prepare the required UWB devices, an ESP32-S3 Ethernet gateway, and the necessary cables. Step 2: Configure the UWB Nodes Assign the ID and role (Anchor or Tag) for each UWB node using the configuration tool. Step 3: Flash the Firmware and Connect the Devices Upload the firmware to the ESP32-S3 gateway, connect it to the local network, and establish communication with the UWB nodes. Step 4: Start Real-Time Positioning Open the PC application, set the anchor coordinates, and visualize the tag position updating in real time. Follow the steps above; I’ve built a complete Ethernet UWB positioning system with UWB devices. And the PC is keeping updating the trajectory of the moving tag. The firmware and PC application are available for anyone interested in reproducing or modifying the project. I'd be interested to hear how others structure their UWB localization systems. Feel free to talk in the comments below!
 
-5h ago
+6h ago
 
 ---
 
@@ -76,7 +76,7 @@ I've been experimenting with an Ethernet-based UWB localization setup recently a
 
 I have decided to spend time on robotics , I really like it but I didn't like the professor who did it in uni so I never took his class.I have worked with motors before and I'm catching up with robotics math , however I still encountered something that I can't understand.Suppose you calculate everything and then you go to order a part from 3d printing to actually build your robot,how do you design that part?I mean how do you ensure that the combination of parts that you order can create a rotation using a motor?Do you get what I'm talking about?For example let's say that a robotic arm is made of 2 parts 1 immovable part which holds the rotating part on some axis?How do you actually design that?And why do some configurations work while others don't?Do you know a tutorial on the sort of where I can find the answer to my question?
 
-9h ago
+10h ago
 
 ---
 
@@ -92,7 +92,7 @@ The CEO of Foundation Future Industries, which counts the president’s son as i
 
 That's a drone in the picture! Computational design generated a spinning drone that’s nearly transparent. Called the phantom twist, it's still loud, but it's quite hard to see with a human eye. See for yourself: https://www.youtube.com/watch?v=5KQ7dKs1dpQ&t=1s
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 20h ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 21h ago
 
 ---
 
@@ -100,7 +100,7 @@ That's a drone in the picture! Computational design generated a spinning drone t
 
 some Robotnews over the last month. 10 different stories. Humanoids, Software, economic and manufacturing. see the ongoing shift.
 
-🔗 [youtu.be](https://youtu.be/vAHDVbGN8mg?is=9gdw8uVYbvi4EW7l) • 7h ago
+🔗 [youtu.be](https://youtu.be/vAHDVbGN8mg?is=9gdw8uVYbvi4EW7l) • 8h ago
 
 ---
 
@@ -108,13 +108,21 @@ some Robotnews over the last month. 10 different stories. Humanoids, Software, e
 
 ROS News for the week of July 13th, 2026   Yesterday our colleagues at the Neobotics Foundation swung by ROS By-the-Bay for some human versus robot RC car races. If you want to try racing against an autonomous RC car we’ll be at Open Sauce all weekend. If you can’t make it to Open Sauce you can always just build your own.      Speaking of autonomous driving, our colleagues at Autoware have released a free and open source L2 autonomy stack called Vision Pilot.      Autonomous surface finishing (i...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-13th-2026/56756) • 16h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-13th-2026/56756) • 17h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)**
+
+Agility is opening a new training center for its Digit robots in Fremont, California.
+
+TechCrunch • 18h ago
+
+---
 
 **[NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/)**
 
@@ -132,11 +140,11 @@ WIRED • 1d ago
 
 ---
 
-**[Fear of humanoid robots spurs human workers to strike at Hyundai auto factory](https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/)**
+**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
 
-Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
+Your weekly selection of awesome robot videos
 
-Ars Technica • 1d ago
+IEEE Spectrum • 22h ago
 
 ---
 
@@ -144,15 +152,13 @@ Ars Technica • 1d ago
 
 "One brutal kick sent the robot's head hanging loose."
 
-Common Dreams • 17h ago
+Common Dreams • 18h ago
 
 ---
 
-**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+**[South Korea-US team unveils robotic technology that dresses the wearer](https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/)**
 
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 21h ago
+Reuters • 1d ago
 
 ---
 
@@ -164,33 +170,23 @@ Fortune • 3d ago
 
 ---
 
-**[A Red Bull engineer got bored with Formula One. His robotics startup just raised $55 million.](https://www.businessinsider.com/f1-engineer-quit-redbull-to-build-army-of-factory-robots-2026-7)**
+**[Fear of humanoid robots spurs human workers to strike at Hyundai auto factory](https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/)**
 
-microagi has raised $55 million to put AI-powered robots to work in factories.
+Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
 
-Business Insider • 2d ago
-
----
-
-**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
-
-Business Wire • 3d ago
+Ars Technica • 1d ago
 
 ---
 
-**[US firm eyes smarter, faster factory robots to speed up work with new South Korean deal](https://interestingengineering.com/ai-robotics/factories-set-for-smarter-automation)**
+**[Chinese humanoid robot used in landmark surgery](https://www.chinadaily.com.cn/a/202607/18/WS6a5a7a65a310986e2b465f19.html)**
 
-Grid Dynamics and Doosan Robotics partner to bring physical AI software and cobots to smarter factory automation.
-
-Interesting Engineering • 1d ago
+China Daily • 20h ago
 
 ---
 
-**[Hyperscale Data Begins Installation of Omnipresent Robotics OPR-R2 Robots at Michigan AI Facility](https://www.prnewswire.com/news-releases/hyperscale-data-begins-installation-of-omnipresent-robotics-opr-r2-robots-at-michigan-ai-facility-302828282.html)**
+**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
 
-/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
-
-PR Newswire • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -204,7 +200,7 @@ A humanoid robot named White Eagle landed a crunching head kick on its rival dur
 
 📺 MIRROR NOW
 
-👁️ 5K • 👍 31 • 💬 21 • ⏱️ 3:20 • 23h ago
+👁️ 5K • 👍 31 • 💬 21 • ⏱️ 3:20 • 1d ago
 
 ---
 
@@ -214,7 +210,7 @@ Humanoid robots are no longer just concepts. Xiaomi has released an uncut factor
 
 📺 DPCcars
 
-👁️ 5K • 👍 76 • 💬 18 • ⏱️ 3:56 • 2d ago
+👁️ 5K • 👍 76 • 💬 18 • ⏱️ 3:56 • 3d ago
 
 ---
 
@@ -232,7 +228,7 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Smarttoy Ruko
 
-👁️ 3K • 👍 34 • ⏱️ 0:19 • 3h ago
+👁️ 3K • 👍 34 • ⏱️ 0:19 • 4h ago
 
 ---
 
@@ -242,7 +238,7 @@ Welcome to the ultimate satisfying giant transforming robot toys comparison! In 
 
 📺 Bob ToysReview
 
-👁️ 2K • 👍 14 • 💬 2 • ⏱️ 4:53 • 6h ago
+👁️ 2K • 👍 14 • 💬 2 • ⏱️ 4:53 • 7h ago
 
 ---
 
@@ -252,7 +248,7 @@ Watch the most intense moments from the Ultimate Humanoid Robot Knockout League 
 
 📺 The Construct Robotics Institute
 
-👁️ 19K • 👍 353 • 💬 93 • ⏱️ 2:18 • 20h ago
+👁️ 19K • 👍 353 • 💬 93 • ⏱️ 2:18 • 21h ago
 
 ---
 
@@ -262,7 +258,7 @@ Event Results: https://www.thebluealliance.com/event/2026iri or https://frc-even
 
 📺 FUN Robotics Network
 
-👁️ 10K • 👍 70 • ⏱️ 9:48:35 • 14h ago
+👁️ 10K • 👍 70 • ⏱️ 9:48:35 • 15h ago
 
 ---
 
@@ -272,7 +268,7 @@ Humanoid robots White Eagle and Matador traded punches and kicks in a robot figh
 
 📺 CRUX
 
-👁️ 1K • 👍 44 • 💬 7 • ⏱️ 0:41 • 4h ago
+👁️ 1K • 👍 44 • 💬 7 • ⏱️ 0:41 • 5h ago
 
 ---
 
