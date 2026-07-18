@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T11:07:08.720427+00:00'
+updated: '2026-07-18T12:12:42.955418+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 11:07 UTC  
+**Last Updated:** July 18, 2026 at 12:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +2.2%  
-**30d:** +7.8%  
+**24h:** +1.1%  
+**7d:** +2.3%  
+**30d:** +7.9%  
 **90d:** -20.2%  
 **1y:** -48.6%  
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 14h ago
+24/7 Wall St. • 16h ago
 
 ---
 
@@ -166,11 +166,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum price edges up as US House Chair signa...](https://pluang.com/en/news-feed/prediksi-ethereum-aksi-clarity-bisa-lolos-pekan-depan)**
+**[Ethereum price holds key support as U.S. Senate may vote on CLARITY Act, boosting bullish outlook.](https://pluang.com/en/news-feed/harga-ethereum-tahan-level-kunci-vote-clarity-act-picu-optimisme)**
 
-Ethereum's price rose by 1.82% following US House Administration Committee Chair Bryan Steil's statement that the CLARITY Act, which would classify ETH as a digital commodity, could pass the Senate next week. This potential regulatory clarity is boosting institutional interest, reflected in the highest weekly inflows to Ethereum ETFs since April. Ethereum is currently testing a key support level at $1,812, with bullish momentum suggesting a possible rise to $1,939 or even $2,244 if the bill passes. Failure to pass the bill could lead to a price drop below support.
+Ethereum (ETH) rose about 1.8% amid optimism that the U.S. Senate could soon vote on the CLARITY Act, which may classify Ethereum as a digital commodity. This potential legislation is expected to enhance regulatory clarity and institutional participation, supporting Ethereum's price despite recent volatility. Ethereum is currently testing support near its 50-day EMA around $1,812, with bullish momentum possibly pushing it toward $2,244 if the act passes. Institutional demand is also increasing, with strong inflows into Ethereum ETFs and rising total value locked in the Ethereum ecosystem, signaling renewed investor confidence.
 
-Pluang • 46m ago
+Pluang • 28m ago
 
 ---
 
@@ -178,15 +178,15 @@ Pluang • 46m ago
 
 Ethereum briefly rallied above a crucial breakout level around $1,825-$1,850 but failed to hold, now retesting this zone. Holding support here could keep the bullish cup-and-handle pattern intact and pave the way toward $2,000 and higher targets. However, a break below $1,825 risks a deeper decline toward $1,700 or lower. Long-term, Ethereum remains in a multi-year ascending channel with a potential path to $10,000-$12,000 if it sustains support and overcomes resistance levels at $3,000 and above.
 
-Pluang • 12m ago
+Pluang • 1h ago
 
 ---
 
-**[Trader places $28M long straddle on Ethereum, b...](https://pluang.com/en/news-feed/opsi-ethereum-28juta-dolar-tanda-tanda-volatilitas-besar)**
+**[Ethereum forecasted to trade near $2,000 by Aug...](https://pluang.com/en/news-feed/ai-memprediksi-harga-ethereum-1-agustus-2026)**
 
-A trader executed a large long straddle on Ethereum options, buying 15,000 contracts at a $1,875 strike price expiring July 24, 2026, with a notional value around $28 million and paying about $852,000 in premium. This strategy bets on significant price movement in either direction rather than a specific price trend. The breakeven points are roughly $1,932 on the upside and $1,818 on the downside. This is the largest volatility bet in ETH options that week, signaling strong demand for near-term price swings and potentially influencing market volatility and hedging activity as expiry approaches.
+Ethereum is predicted to trade around $2,000 by August 1, 2026, supported by improving ETF inflows and positive market sentiment after a tough second quarter. The forecast suggests a trading range between $1,950 and $2,050, with potential to rise to $2,200-$2,400 if ETF inflows and crypto market momentum continue. Conversely, prices could fall to $1,700-$1,850 if macroeconomic conditions worsen or institutional demand weakens. Ethereum's short-term technical indicators show slight bullish momentum, but the long-term trend remains bearish until it surpasses its 200-day moving average.
 
-Pluang • 3h ago
+Pluang • 46m ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 1d ago
 
 **[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ CoinMarketCap • 21h ago
 
 Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 104 • ⏱️ 12:55 • 14h ago
+👁️ 20K • 👍 1K • 💬 104 • ⏱️ 12:55 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 191 • 💬 66 • ⏱️ 20:43 • 18h ago
+👁️ 5K • 👍 191 • 💬 66 • ⏱️ 20:43 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 89 • 💬 11 • ⏱️ 17:29 • 18h ago
+👁️ 2K • 👍 89 • 💬 11 • ⏱️ 17:29 • 19h ago
 
 ---
 
@@ -288,7 +288,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 32K • 👍 2K • 💬 97 • ⏱️ 14:48 • 16h ago
+👁️ 32K • 👍 2K • 💬 97 • ⏱️ 14:48 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum is down almost 70% from its all-time high, but could this be one of the
 
 📺 Coin Bureau Trading
 
-👁️ 196 • 👍 20 • 💬 1 • ⏱️ 9:10 • 59m ago
+👁️ 196 • 👍 20 • 💬 1 • ⏱️ 9:10 • 2h ago
 
 ---
 
@@ -308,7 +308,7 @@ Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistanc
 
 📺 Lark Davis
 
-👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:56 • 7h ago
+👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:56 • 8h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 79 • 👍 17 • 💬 9 • ⏱️ 4:32 • 1h ago
+👁️ 79 • 👍 17 • 💬 9 • ⏱️ 4:32 • 2h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-18T11:07:08.722280+00:00'
+updated: '2026-07-18T12:12:42.958693+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 18, 2026 at 11:07 UTC  
+**Last Updated:** July 18, 2026 at 12:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially the models controlling them reliably, aren’t available yet, so we’re focusing on making the options we can use right now and actually work.
 
-19h ago
+21h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially 
 
 I’m happy to share another video of my quadruped robot climbing stairs! Since my previous post, I have added contact sensors and modified the locomotion control algorithm. Previously, the robot used a fairly standard MPC + WBC + vision-based control framework. I have now added a reference generator based on the Linear Inverted Pendulum Model. It generates dynamically consistent body position, velocity, and acceleration trajectories for the MPC and WBC controllers. This modification significantly improved the robot’s stability. It also allowed me to increase the swing duration of each leg, resulting in smoother foot trajectories, softer ground contacts, and quieter locomotion.
 
-19h ago
+20h ago
 
 ---
 
@@ -60,7 +60,7 @@ The CEO of Foundation Future Industries, which counts the president’s son as i
 
 After months of chasing benchmark numbers and metrics that looked great, but our robot kept making weird, unnatural misses and dropping objects mid-grab, we finally stopped tuning the model and went digging through the data itself. By tracking per-sample loss, classifying each sample's loss-trajectory shape, and doing some manual inspection, we found at least 10 counterproductive sequences in the train split (and a few in eval) of LIBERO, a widely used robot-learning benchmark. In several of them, the object is missed or falls mid-grab, and the model is being trained and even evaluated on exactly those. Q1. What's the right way to handle these partial/failed sequences? Straight deletion feels wrong. Some of that "fail then recover" signal might actually be teaching the policy to recover. Q2. What do people use to actually understand their data in this space, beyond eyeballing episodes?
 
-21h ago
+22h ago
 
 ---
 
@@ -68,7 +68,7 @@ After months of chasing benchmark numbers and metrics that looked great, but our
 
 That's a drone in the picture! Computational design generated a spinning drone that’s nearly transparent. Called the phantom twist, it's still loud, but it's quite hard to see with a human eye. See for yourself: https://www.youtube.com/watch?v=5KQ7dKs1dpQ&t=1s
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 17h ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 18h ago
 
 ---
 
@@ -76,13 +76,13 @@ That's a drone in the picture! Computational design generated a spinning drone t
 
 Hi everyone, I built OnSLAM, a Windows application that runs a LiDAR-inertial odometry and mapping pipeline directly on ROS1 bag files. The main idea is to make it easier for beginners, researchers, or anyone quickly testing datasets to go from a LiDAR-IMU bag to a point-cloud map without setting up Linux, ROS, Python environments, dependencies, or terminal commands. You install the .exe, launch it, and it opens a simple browser-based interface. The interface runs locally, so your bag files and processing data never leave your computer. OnSLAM can currently: inspect ROS1 bags for compatible LiDAR and IMU topics let you configure topics, extrinsics, time offsets, frame limits, and processing quality filter and downsample scans use IMU data as a motion prior align scans to a cached local submap using point-to-plane ICP display the map, trajectory, and tracking quality live export PLY, PCD, and dense point-cloud maps decode Livox CustomMsg data I am currently looking for people who can test it on different sensors, bag structures, and datasets. Bug reports, feature suggestions, and especially bags that fail to process would be really helpful. GitHub: https://github.com/musabali314/OnSLAM Download: https://github.com/musabali314/OnSLAM/releases Promise, the .exe is not a virus. Windows may still act suspicious because it is unsigned 😭 I am considering ROS2 .db3 support next, followed by possible camera or visual-inertial inputs. Which one would be more useful to you?
 
-16h ago
+17h ago
 
 ---
 
 **[Finsh my work with 3D Camera P008G, Weekend is coming](https://www.reddit.com/r/robotics/comments/1uz0fyy/finsh_my_work_with_3d_camera_p008g_weekend_is/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -98,7 +98,7 @@ This is my DIY 3D-printed cycloidal gearbox, designed and built from scratch in 
 
 try it right now without installing anything. the fiftyone app is running in a hugging face space for the first time (its a bit hacky atm, but working on polishing it up) space: https://huggingface.co/spaces/harpreetsahota/fiftyone-app full walkthrough: https://voxel51.com/blog/view-mcap-files-fiftyone
 
-19h ago
+20h ago
 
 ---
 
@@ -106,13 +106,19 @@ try it right now without installing anything. the fiftyone app is running in a h
 
 Hey everyone, During active robot bring-up and debugging, I always found myself constantly context-switching between five different terminal windows (one for colcon build, one for ros2 launch, one for checking topics/nodes, one for my editor, etc.). To fix this, I built **ros2_info**—a full-screen, VS Code-style Terminal User Interface (TUI) designed specifically for ROS 2 workflows. It gives you a complete workspace lens with zero Electron weight. ### 🌟 Key Features: * **6 Live Dashboard Tabs:** Real-time visibility into Overview, ROS 2 graph state, Workspace, Diagnostics, Trends, and Fleet. * **Real PTY Terminal:** Run `ros2` commands, `colcon build`, and launch files live inside the dashboard (not just a basic command wrapper). * **Multi-tab Editor:** Built-in code editor with syntax highlighting, find/replace, and Neovim keybindings for quick tweaks over SSH. * **Local Offline AI Assistant:** Powered by Ollama (`ai scan`, `ai fix`, `ai explain`). It can catch build errors and offer diff-gated fixes completely offline. * **Sandbox Mode:** Safely isolate nodes, topics, and services from your real system to experiment freely. Because it's built with **Rust + Ratatui**, it runs incredibly fast, has no heavy dependency chains, and works flawlessly over SSH on a Raspberry Pi or Jetson. 🔗 **Check out the repo here:** https://github.com/Gaurav-x111/ros2\_info I'd love to hear your feedback or feature requests! If this looks like something that could speed up your robotics workflow, dropping a ⭐ on GitHub would mean the world to me!
 
-19h ago
+21h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
+
+Reuters • 2d ago
+
+---
 
 **[A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/)**
 
@@ -134,31 +140,7 @@ Ars Technica • 1d ago
 
 Agility is opening a new training center for its Digit robots in Fremont, California.
 
-TechCrunch • 14h ago
-
----
-
-**[Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier](https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier)**
-
-NVIDIA today announced that Japan’s physical AI leaders are building on the NVIDIA Cosmos™, NVIDIA Isaac™, NVIDIA Metropolis and NVIDIA Jetson™ platforms to accelerate the deployment of intelligent machines across manufacturing, mobility, infrastructure and robotics.
-
-NVIDIA Newsroom • 2d ago
-
----
-
-**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
-
-Reuters • 2d ago
-
----
-
-**[Nvidia Releases New Robotics AI Model](https://www.theinformation.com/briefings/nvidia-releases-new-robotics-ai-model)**
-
-Nvidia on Wednesday released a new small, open-source model for “physical” AI that operates in the real world, including for robots. 
-
- The model, Cosmos 3 Edge, is just 4 billion parameters and can run on a customer’s own computer rather than in a data center. It can act as both a so-called vision language model or a world model, both of which help robots navigate or understand their
-
-The Information • 2d ago
+TechCrunch • 15h ago
 
 ---
 
@@ -166,13 +148,7 @@ The Information • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 19h ago
-
----
-
-**[South Korea-US team unveils robotic technology that dresses the wearer](https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/)**
-
-Reuters • 1d ago
+IEEE Spectrum • 20h ago
 
 ---
 
@@ -188,7 +164,29 @@ Business Insider • 1d ago
 
 Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
 
-Fortune • 2d ago
+Fortune • 3d ago
+
+---
+
+**[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
+
+Bloomberg.com • 3d ago
+
+---
+
+**[US firm eyes smarter, faster factory robots to speed up work with new South Korean deal](https://interestingengineering.com/ai-robotics/factories-set-for-smarter-automation)**
+
+Grid Dynamics and Doosan Robotics partner to bring physical AI software and cobots to smarter factory automation.
+
+Interesting Engineering • 23h ago
+
+---
+
+**[Hyperscale Data Begins Installation of Omnipresent Robotics OPR-R2 Robots at Michigan AI Facility](https://www.prnewswire.com/news-releases/hyperscale-data-begins-installation-of-omnipresent-robotics-opr-r2-robots-at-michigan-ai-facility-302828282.html)**
+
+/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
+
+PR Newswire • 1d ago
 
 ---
 
@@ -202,7 +200,7 @@ A humanoid robot named White Eagle landed a crunching head kick on its rival dur
 
 📺 MIRROR NOW
 
-👁️ 5K • 👍 28 • 💬 21 • ⏱️ 3:20 • 21h ago
+👁️ 5K • 👍 28 • 💬 21 • ⏱️ 3:20 • 22h ago
 
 ---
 
@@ -240,7 +238,7 @@ Event Results: https://www.thebluealliance.com/event/2026iri or https://frc-even
 
 📺 FUN Robotics Network
 
-👁️ 10K • 👍 70 • ⏱️ 9:48:35 • 11h ago
+👁️ 10K • 👍 70 • ⏱️ 9:48:35 • 12h ago
 
 ---
 
@@ -258,7 +256,7 @@ Venture capital investment in humanoid robotics just hit an all time record, but
 
 📺 Smarttoy Ruko
 
-👁️ 365 • 👍 2 • ⏱️ 0:19 • 1h ago
+👁️ 365 • 👍 2 • ⏱️ 0:19 • 2h ago
 
 ---
 
@@ -268,7 +266,7 @@ Use My Link For The WR Store https://wr.my.games/PREDATORWR This is for real. Th
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 388 • 💬 49 • ⏱️ 13:33 • 23h ago
+👁️ 10K • 👍 388 • 💬 49 • ⏱️ 13:33 • 1d ago
 
 ---
 
@@ -278,7 +276,7 @@ Watch the most intense moments from the Ultimate Humanoid Robot Knockout League 
 
 📺 The Construct Robotics Institute
 
-👁️ 15K • 👍 287 • 💬 75 • ⏱️ 2:18 • 17h ago
+👁️ 15K • 👍 287 • 💬 75 • ⏱️ 2:18 • 18h ago
 
 ---
 
@@ -288,7 +286,7 @@ Welcome to the ultimate satisfying giant transforming robot toys comparison! In 
 
 📺 Bob ToysReview
 
-👁️ 756 • 👍 7 • 💬 1 • ⏱️ 4:53 • 4h ago
+👁️ 756 • 👍 7 • 💬 1 • ⏱️ 4:53 • 5h ago
 
 ---
 
