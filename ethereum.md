@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T12:12:42.955418+00:00'
+updated: '2026-07-18T13:57:15.972976+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 12:12 UTC  
+**Last Updated:** July 18, 2026 at 13:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,838.00
+### $1,841.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +2.3%  
-**30d:** +7.9%  
-**90d:** -20.2%  
-**1y:** -48.6%  
+**24h:** +1.0%  
+**7d:** +1.9%  
+**30d:** +7.5%  
+**90d:** -20.4%  
+**1y:** -48.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.51B
+**Market Cap:** $222.05B
 Rank #2
 
 **Circulating Supply:** 120,682,850 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.7%
+-62.8%
 
 **All-Time Low:** $0.43
-+425754.4%
++424890.6%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello, A little while ago I posted about a project concept I had. The idea was a web-app and a mobile app where you add the wallet address you want to watch. Cointer checks the blockchain for you. When a watched address gets a deposit, you get a notification and a dashboard of activity/totals. No accounts, no passwords. Just a single personal key that ties everything together. This is aimed at people who receive donations via crypto, streamers, or people who want to watch their wallets. Of course, most wallets already have this feature, but this takes it to the next step. It allows you to be notified over mobile push notifications, ntfy, Discord, Slack, or just by email. Then, it compiles (up to 90 days) all transactions into a clean dashboard showing your totals for the last day, week, and month with a breakdown by watched addresses and assets. There is an activity page with a full history of deposits and pagination. I've developed quite a few OSS projects and gotten sponsors from many hosting companies which is what allowed me to set this up for a beta. However, for this beta the amount of users I can support is quite small. There is no real catch here. Know that there is a 10 wallet and 10 notification channel limit and notifications are not always guaranteed. More info in the comments. Thank you for reading, Luke
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 16h ago
+24/7 Wall St. • 17h ago
 
 ---
 
@@ -170,13 +170,13 @@ Decrypt • 1d ago
 
 Ethereum (ETH) rose about 1.8% amid optimism that the U.S. Senate could soon vote on the CLARITY Act, which may classify Ethereum as a digital commodity. This potential legislation is expected to enhance regulatory clarity and institutional participation, supporting Ethereum's price despite recent volatility. Ethereum is currently testing support near its 50-day EMA around $1,812, with bullish momentum possibly pushing it toward $2,244 if the act passes. Institutional demand is also increasing, with strong inflows into Ethereum ETFs and rising total value locked in the Ethereum ecosystem, signaling renewed investor confidence.
 
-Pluang • 28m ago
+Pluang • 2h ago
 
 ---
 
-**[Ethereum retests key $1,825 breakout level, ris...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-hilang-1825-bisa-kembali-1700)**
+**[Ethereum dips 3.6% amid $165M whale buys and mi...](https://pluang.com/en/news-feed/harga-ethereum-eth-turun-7-persen-whale-akumulasi-165-juta-pemulihan-depan)**
 
-Ethereum briefly rallied above a crucial breakout level around $1,825-$1,850 but failed to hold, now retesting this zone. Holding support here could keep the bullish cup-and-handle pattern intact and pave the way toward $2,000 and higher targets. However, a break below $1,825 risks a deeper decline toward $1,700 or lower. Long-term, Ethereum remains in a multi-year ascending channel with a potential path to $10,000-$12,000 if it sustains support and overcomes resistance levels at $3,000 and above.
+Ethereum's price fell 3.6% to around $1,823 after reaching near $1,944 three days ago, despite major whale purchases totaling about 89,396 ETH worth $164.88 million. While US spot Ethereum ETFs saw $68 million inflows this week and exchange reserves dropped, network activity showed mixed signals with active addresses hitting December lows but transaction volume reaching record highs. Technical analysis suggests sellers dominate short-term momentum, yet strong support at $1,780 could push prices to $2,200-$2,400 soon, according to analyst Michaël van de Poppe. Liquidations reached $91.4 million in 24 hours, highlighting market volatility.
 
 Pluang • 1h ago
 
@@ -186,7 +186,7 @@ Pluang • 1h ago
 
 Ethereum is predicted to trade around $2,000 by August 1, 2026, supported by improving ETF inflows and positive market sentiment after a tough second quarter. The forecast suggests a trading range between $1,950 and $2,050, with potential to rise to $2,200-$2,400 if ETF inflows and crypto market momentum continue. Conversely, prices could fall to $1,700-$1,850 if macroeconomic conditions worsen or institutional demand weakens. Ethereum's short-term technical indicators show slight bullish momentum, but the long-term trend remains bearish until it surpasses its 200-day moving average.
 
-Pluang • 46m ago
+Pluang • 2h ago
 
 ---
 
@@ -198,9 +198,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
+**[Ethereum at Amazon/Nvidia-Like Inflection Point, Tom Lee Forecasts $12,000 ETH](https://www.tradingview.com/news/coinpedia:b8cb37750094b:0-ethereum-at-amazon-nvidia-like-inflection-point-tom-lee-forecasts-12-000-eth/)**
 
-MarketWatch • 22h ago
+Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
+
+TradingView • 15h ago
 
 ---
 
@@ -212,19 +214,17 @@ FXStreet • 1d ago
 
 ---
 
+**[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
+
+MarketWatch • 23h ago
+
+---
+
 **[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
 
 Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
 
-CoinMarketCap • 21h ago
-
----
-
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://www.tradingview.com/news/stocktwits:cee9d7df8094b:0-ethereum-leads-losses-among-crypto-majors-after-report-raises-fresh-doubts-over-clarity-act/)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
-
-TradingView • 1d ago
+CoinMarketCap • 12h ago
 
 ---
 
@@ -238,7 +238,17 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 104 • ⏱️ 12:55 • 15h ago
+👁️ 21K • 👍 1K • 💬 116 • ⏱️ 12:55 • 17h ago
+
+---
+
+**[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 174 • 👍 14 • 💬 120 • ⏱️ 13:08 • 56m ago
 
 ---
 
@@ -248,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 191 • 💬 66 • ⏱️ 20:43 • 19h ago
+👁️ 5K • 👍 196 • 💬 66 • ⏱️ 20:43 • 21h ago
 
 ---
 
@@ -258,37 +268,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 89 • 💬 11 • ⏱️ 17:29 • 19h ago
-
----
-
-**[Tom Lee Lost $9B On ETH — He Just Bought More](https://www.youtube.com/watch?v=c-K275s0JO4)**
-
-Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last week he bought another 20500 ETH.
-
-📺 Lark Davis
-
-👁️ 17K • 👍 607 • 💬 127 • ⏱️ 13:38 • 1d ago
-
----
-
-**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
-
-Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
-
-📺 The Rollup
-
-👁️ 9K • 👍 234 • 💬 53 • ⏱️ 7:55 • 1d ago
-
----
-
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
-
-Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
-
-📺 Gareth Soloway
-
-👁️ 32K • 👍 2K • 💬 97 • ⏱️ 14:48 • 17h ago
+👁️ 2K • 👍 91 • 💬 11 • ⏱️ 17:29 • 20h ago
 
 ---
 
@@ -298,7 +278,27 @@ Ethereum is down almost 70% from its all-time high, but could this be one of the
 
 📺 Coin Bureau Trading
 
-👁️ 196 • 👍 20 • 💬 1 • ⏱️ 9:10 • 2h ago
+👁️ 573 • 👍 58 • 💬 21 • ⏱️ 9:10 • 3h ago
+
+---
+
+**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
+
+Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
+
+📺 The Rollup
+
+👁️ 9K • 👍 236 • 💬 53 • ⏱️ 7:55 • 1d ago
+
+---
+
+**[Tom Lee Lost $9B On ETH — He Just Bought More](https://www.youtube.com/watch?v=c-K275s0JO4)**
+
+Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last week he bought another 20500 ETH.
+
+📺 Lark Davis
+
+👁️ 18K • 👍 618 • 💬 144 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -308,7 +308,17 @@ Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistanc
 
 📺 Lark Davis
 
-👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:56 • 8h ago
+👁️ 2K • 👍 41 • 💬 1 • ⏱️ 0:56 • 9h ago
+
+---
+
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
+
+Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
+
+📺 Gareth Soloway
+
+👁️ 34K • 👍 2K • 💬 106 • ⏱️ 14:48 • 19h ago
 
 ---
 
@@ -318,17 +328,7 @@ Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, w
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 287 • 💬 9 • ⏱️ 15:12 • 1d ago
-
----
-
-**[Why ETH Can RALLY Next Week! (Ethereum Update)](https://www.youtube.com/watch?v=yZe6t8CXktQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 79 • 👍 17 • 💬 9 • ⏱️ 4:32 • 2h ago
+👁️ 4K • 👍 292 • 💬 8 • ⏱️ 15:12 • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-18T12:12:42.958693+00:00'
+updated: '2026-07-18T13:57:15.975854+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 18, 2026 at 12:12 UTC  
+**Last Updated:** July 18, 2026 at 13:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Anthropic is rumored to be pursuing robot AI developer Physical Intelligence — RuntimeWire](https://www.reddit.com/r/robotics/comments/1uzmxw6/anthropic_is_rumored_to_be_pursuing_robot_ai/)**
+
+Robert Scoble says an unnamed investor told him Anthropic is buying robot AI developer Physical Intelligence, though no deal has been announced.
+
+🔗 [RuntimeWire](https://runtimewire.com/article/anthropic-is-rumored-to-be-pursuing-robot-ai-developer-physical-intelligence) • 8h ago
+
+---
+
+**[What task should I teach it next? 📝](https://www.reddit.com/r/robotics/comments/1uzuwbf/what_task_should_i_teach_it_next/)**
+
+On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
+
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 1h ago
+
+---
+
 **[Interchangeable gripper](https://www.reddit.com/r/robotics/comments/1uz2hsj/interchangeable_gripper/)**
 
 Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially the models controlling them reliably, aren’t available yet, so we’re focusing on making the options we can use right now and actually work.
 
-21h ago
+22h ago
 
 ---
 
@@ -44,7 +60,23 @@ Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially 
 
 I’m happy to share another video of my quadruped robot climbing stairs! Since my previous post, I have added contact sensors and modified the locomotion control algorithm. Previously, the robot used a fairly standard MPC + WBC + vision-based control framework. I have now added a reference generator based on the Linear Inverted Pendulum Model. It generates dynamically consistent body position, velocity, and acceleration trajectories for the MPC and WBC controllers. This modification significantly improved the robot’s stability. It also allowed me to increase the swing duration of each leg, resulting in smoother foot trajectories, softer ground contacts, and quieter locomotion.
 
-20h ago
+21h ago
+
+---
+
+**[Building a Real-Time UWB Localization System over Ethernet (ESP32-S3 + PoE)](https://www.reddit.com/r/robotics/comments/1uzqr95/building_a_realtime_uwb_localization_system_over/)**
+
+I've been experimenting with an Ethernet-based UWB localization setup recently and wanted to share the workflow. The idea is to keep the embedded side simple while moving the localization calculations to a PC. In this setup, the UWB nodes continuously perform ranging between the tag and anchors. An ESP32-S3 Ethernet gateway collects the ranging data and forwards it over the local network. A PC application then receives the data stream, calculates the tag coordinates in real time, and visualizes the results. Since all positioning algorithms run on the PC instead of the microcontroller, it's much easier to test different localization methods, manage multiple tags, or integrate additional data processing. Hardware Used · 3×UWB nodes (2 Anchors + 1 Tag) · 1×ESP32-S3 Ethernet (PoE) gateway · Ethernet cable · USB cable Step 1: Prepare the Hardware Prepare the required UWB devices, an ESP32-S3 Ethernet gateway, and the necessary cables. Step 2: Configure the UWB Nodes Assign the ID and role (Anchor or Tag) for each UWB node using the configuration tool. Step 3: Flash the Firmware and Connect the Devices Upload the firmware to the ESP32-S3 gateway, connect it to the local network, and establish communication with the UWB nodes. Step 4: Start Real-Time Positioning Open the PC application, set the anchor coordinates, and visualize the tag position updating in real time. Follow the steps above; I’ve built a complete Ethernet UWB positioning system with UWB devices. And the PC is keeping updating the trajectory of the moving tag. The firmware and PC application are available for anyone interested in reproducing or modifying the project. I'd be interested to hear how others structure their UWB localization systems. Feel free to talk in the comments below!
+
+5h ago
+
+---
+
+**[Mechanical engineering for robotics help with 3d printing some part for a robotic arm](https://www.reddit.com/r/robotics/comments/1uzm4je/mechanical_engineering_for_robotics_help_with_3d/)**
+
+I have decided to spend time on robotics , I really like it but I didn't like the professor who did it in uni so I never took his class.I have worked with motors before and I'm catching up with robotics math , however I still encountered something that I can't understand.Suppose you calculate everything and then you go to order a part from 3d printing to actually build your robot,how do you design that part?I mean how do you ensure that the combination of parts that you order can create a rotation using a motor?Do you get what I'm talking about?For example let's say that a robotic arm is made of 2 parts 1 immovable part which holds the rotating part on some axis?How do you actually design that?And why do some configurations work while others don't?Do you know a tutorial on the sort of where I can find the answer to my question?
+
+9h ago
 
 ---
 
@@ -56,57 +88,27 @@ The CEO of Foundation Future Industries, which counts the president’s son as i
 
 ---
 
-**[We caught bad sequences in LIBERO by analyzing loss trajectories; is this a thing?](https://www.reddit.com/r/robotics/comments/1uz0cvz/we_caught_bad_sequences_in_libero_by_analyzing/)**
-
-After months of chasing benchmark numbers and metrics that looked great, but our robot kept making weird, unnatural misses and dropping objects mid-grab, we finally stopped tuning the model and went digging through the data itself. By tracking per-sample loss, classifying each sample's loss-trajectory shape, and doing some manual inspection, we found at least 10 counterproductive sequences in the train split (and a few in eval) of LIBERO, a widely used robot-learning benchmark. In several of them, the object is missed or falls mid-grab, and the model is being trained and even evaluated on exactly those. Q1. What's the right way to handle these partial/failed sequences? Straight deletion feels wrong. Some of that "fail then recover" signal might actually be teaching the policy to recover. Q2. What do people use to actually understand their data in this space, beyond eyeballing episodes?
-
-22h ago
-
----
-
 **[Invisible Drone](https://www.reddit.com/r/robotics/comments/1uz6t4h/invisible_drone/)**
 
 That's a drone in the picture! Computational design generated a spinning drone that’s nearly transparent. Called the phantom twist, it's still loud, but it's quite hard to see with a human eye. See for yourself: https://www.youtube.com/watch?v=5KQ7dKs1dpQ&t=1s
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 18h ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/invisible-spinning-drone) • 20h ago
 
 ---
 
-**[I built a Windows LIO app for processing ROS1 LiDAR-IMU bags without installing ROS](https://www.reddit.com/r/robotics/comments/1uz84vi/i_built_a_windows_lio_app_for_processing_ros1/)**
+**[- YouTube](https://www.reddit.com/r/robotics/comments/1uzo08a/youtube/)**
 
-Hi everyone, I built OnSLAM, a Windows application that runs a LiDAR-inertial odometry and mapping pipeline directly on ROS1 bag files. The main idea is to make it easier for beginners, researchers, or anyone quickly testing datasets to go from a LiDAR-IMU bag to a point-cloud map without setting up Linux, ROS, Python environments, dependencies, or terminal commands. You install the .exe, launch it, and it opens a simple browser-based interface. The interface runs locally, so your bag files and processing data never leave your computer. OnSLAM can currently: inspect ROS1 bags for compatible LiDAR and IMU topics let you configure topics, extrinsics, time offsets, frame limits, and processing quality filter and downsample scans use IMU data as a motion prior align scans to a cached local submap using point-to-plane ICP display the map, trajectory, and tracking quality live export PLY, PCD, and dense point-cloud maps decode Livox CustomMsg data I am currently looking for people who can test it on different sensors, bag structures, and datasets. Bug reports, feature suggestions, and especially bags that fail to process would be really helpful. GitHub: https://github.com/musabali314/OnSLAM Download: https://github.com/musabali314/OnSLAM/releases Promise, the .exe is not a virus. Windows may still act suspicious because it is unsigned 😭 I am considering ROS2 .db3 support next, followed by possible camera or visual-inertial inputs. Which one would be more useful to you?
+some Robotnews over the last month. 10 different stories. Humanoids, Software, economic and manufacturing. see the ongoing shift.
 
-17h ago
-
----
-
-**[Finsh my work with 3D Camera P008G, Weekend is coming](https://www.reddit.com/r/robotics/comments/1uz0fyy/finsh_my_work_with_3d_camera_p008g_weekend_is/)**
-
-22h ago
+🔗 [youtu.be](https://youtu.be/vAHDVbGN8mg?is=9gdw8uVYbvi4EW7l) • 7h ago
 
 ---
 
-**[cycloidal gearbox,](https://www.reddit.com/r/robotics/comments/1uyngal/cycloidal_gearbox/)**
+**[ROS News for the week of July 13th, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1uzc6va/ros_news_for_the_week_of_july_13th_2026_community/)**
 
-This is my DIY 3D-printed cycloidal gearbox, designed and built from scratch in my room. Every part was printed, assembled, and tested to create a compact gearbox with high torque, low backlash, and smooth motion. There are still improvements to make, but that’s part of the engineering journey. Every prototype gets me one step closer to a better design. What would you like to see next—torque testing, durability testing, or a full assembly tutorial? #DIY #CycloidalGearbox #3DPrinting #Engineering #Robotics #Robot #MechanicalEngineering #Gearbox #Maker #Prototype #Innovation #STEM #CAD #3DPrinted #RobotArm
+ROS News for the week of July 13th, 2026   Yesterday our colleagues at the Neobotics Foundation swung by ROS By-the-Bay for some human versus robot RC car races. If you want to try racing against an autonomous RC car we’ll be at Open Sauce all weekend. If you can’t make it to Open Sauce you can always just build your own.      Speaking of autonomous driving, our colleagues at Autoware have released a free and open source L2 autonomy stack called Vision Pilot.      Autonomous surface finishing (i...
 
-1d ago
-
----
-
-**[10 UAV flights through a Virginia forest, 31 channels each, explorable in a hugging face space right now](https://www.reddit.com/r/robotics/comments/1uz35hy/10_uav_flights_through_a_virginia_forest_31/)**
-
-try it right now without installing anything. the fiftyone app is running in a hugging face space for the first time (its a bit hacky atm, but working on polishing it up) space: https://huggingface.co/spaces/harpreetsahota/fiftyone-app full walkthrough: https://voxel51.com/blog/view-mcap-files-fiftyone
-
-20h ago
-
----
-
-**[Built ros2_info — a lightweight Rust TUI workspace manager & dashboard. Say goodbye to keeping 5 terminal tabs open!](https://www.reddit.com/r/robotics/comments/1uz2h54/built_ros2_info_a_lightweight_rust_tui_workspace/)**
-
-Hey everyone, During active robot bring-up and debugging, I always found myself constantly context-switching between five different terminal windows (one for colcon build, one for ros2 launch, one for checking topics/nodes, one for my editor, etc.). To fix this, I built **ros2_info**—a full-screen, VS Code-style Terminal User Interface (TUI) designed specifically for ROS 2 workflows. It gives you a complete workspace lens with zero Electron weight. ### 🌟 Key Features: * **6 Live Dashboard Tabs:** Real-time visibility into Overview, ROS 2 graph state, Workspace, Diagnostics, Trends, and Fleet. * **Real PTY Terminal:** Run `ros2` commands, `colcon build`, and launch files live inside the dashboard (not just a basic command wrapper). * **Multi-tab Editor:** Built-in code editor with syntax highlighting, find/replace, and Neovim keybindings for quick tweaks over SSH. * **Local Offline AI Assistant:** Powered by Ollama (`ai scan`, `ai fix`, `ai explain`). It can catch build errors and offer diff-gated fixes completely offline. * **Sandbox Mode:** Safely isolate nodes, topics, and services from your real system to experiment freely. Because it's built with **Rust + Ratatui**, it runs incredibly fast, has no heavy dependency chains, and works flawlessly over SSH on a Raspberry Pi or Jetson. 🔗 **Check out the repo here:** https://github.com/Gaurav-x111/ros2\_info I'd love to hear your feedback or feature requests! If this looks like something that could speed up your robotics workflow, dropping a ⭐ on GitHub would mean the world to me!
-
-21h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-13th-2026/56756) • 16h ago
 
 ---
 
@@ -114,9 +116,11 @@ Hey everyone, During active robot bring-up and debugging, I always found myself 
 
 ## Google News: "robotics"
 
-**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
+**[NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/)**
 
-Reuters • 2d ago
+General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
+
+NVIDIA Blog • 2d ago
 
 ---
 
@@ -136,11 +140,11 @@ Ars Technica • 1d ago
 
 ---
 
-**[Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)**
+**[Amid Fears of Killer Robots, Humanoid MMA Fight in China Ends With Decapitation](https://www.commondreams.org/news/humanoid-robot-fights)**
 
-Agility is opening a new training center for its Digit robots in Fremont, California.
+"One brutal kick sent the robot's head hanging loose."
 
-TechCrunch • 15h ago
+Common Dreams • 17h ago
 
 ---
 
@@ -148,15 +152,7 @@ TechCrunch • 15h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 20h ago
-
----
-
-**[Sunday Robotics says its robot can fold clothes it has never seen in unfamiliar homes](https://www.businessinsider.com/sunday-robotics-memo-home-robot-fold-laundry-99-success-2026-7)**
-
-Sunday Robotics, a $1.15 billion startup, will place Memo robots in homes through a beta program this fall.
-
-Business Insider • 1d ago
+IEEE Spectrum • 21h ago
 
 ---
 
@@ -168,9 +164,17 @@ Fortune • 3d ago
 
 ---
 
-**[Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)**
+**[A Red Bull engineer got bored with Formula One. His robotics startup just raised $55 million.](https://www.businessinsider.com/f1-engineer-quit-redbull-to-build-army-of-factory-robots-2026-7)**
 
-Bloomberg.com • 3d ago
+microagi has raised $55 million to put AI-powered robots to work in factories.
+
+Business Insider • 2d ago
+
+---
+
+**[Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today](https://www.businesswire.com/news/home/20260715089377/en/Walden-Robotics-Launches-with-%24300-Million-to-Put-General-Purpose-Robots-to-Work-Today)**
+
+Business Wire • 3d ago
 
 ---
 
@@ -178,7 +182,7 @@ Bloomberg.com • 3d ago
 
 Grid Dynamics and Doosan Robotics partner to bring physical AI software and cobots to smarter factory automation.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -200,25 +204,7 @@ A humanoid robot named White Eagle landed a crunching head kick on its rival dur
 
 📺 MIRROR NOW
 
-👁️ 5K • 👍 28 • 💬 21 • ⏱️ 3:20 • 22h ago
-
----
-
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
-
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
-
-📺 Air Photography
-
-👁️ 30K • 👍 784 • 💬 111 • ⏱️ 7:15 • 1d ago
-
----
-
-**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
-
-📺 Varun Mayya
-
-👁️ 203K • 👍 7K • 💬 97 • ⏱️ 1:03 • 6d ago
+👁️ 5K • 👍 31 • 💬 21 • ⏱️ 3:20 • 23h ago
 
 ---
 
@@ -232,23 +218,13 @@ Humanoid robots are no longer just concepts. Xiaomi has released an uncut factor
 
 ---
 
-**[IRI 2026 Friday | FRC Event | Indiana Robotics Invitational](https://www.youtube.com/watch?v=Eoer5GFdRFI)**
+**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
 
-Event Results: https://www.thebluealliance.com/event/2026iri or https://frc-events.firstinspires.org/2026/ININD The mission of IRI is ...
+This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
 
-📺 FUN Robotics Network
+📺 Air Photography
 
-👁️ 10K • 👍 70 • ⏱️ 9:48:35 • 12h ago
-
----
-
-**[Wall Street&#39;s Next Big Trade Is Not What You Think [Robotics Explained]](https://www.youtube.com/watch?v=LbsznQhNOfY)**
-
-Venture capital investment in humanoid robotics just hit an all time record, but every serious player building these robots is private ...
-
-📺 Lark Davis
-
-👁️ 6K • 👍 328 • 💬 44 • ⏱️ 11:16 • 6d ago
+👁️ 31K • 👍 821 • 💬 112 • ⏱️ 7:15 • 1d ago
 
 ---
 
@@ -256,27 +232,7 @@ Venture capital investment in humanoid robotics just hit an all time record, but
 
 📺 Smarttoy Ruko
 
-👁️ 365 • 👍 2 • ⏱️ 0:19 • 2h ago
-
----
-
-**[This Is Actually Unreal... This Shenlou Is Awesome Right Now, Somehow | War Robots](https://www.youtube.com/watch?v=1qNItNYaMZU)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR This is for real. The Shenlou build that is for real in champion ...
-
-📺 PREDATOR WR
-
-👁️ 10K • 👍 388 • 💬 49 • ⏱️ 13:33 • 1d ago
-
----
-
-**[These Robots Fight Better Than You Think | URKL: Ultimate Humanoid Robot Knockout League](https://www.youtube.com/watch?v=DUbbBdSGHE8)**
-
-Watch the most intense moments from the Ultimate Humanoid Robot Knockout League (URKL), where cutting-edge humanoid ...
-
-📺 The Construct Robotics Institute
-
-👁️ 15K • 👍 287 • 💬 75 • ⏱️ 2:18 • 18h ago
+👁️ 3K • 👍 34 • ⏱️ 0:19 • 3h ago
 
 ---
 
@@ -286,7 +242,55 @@ Welcome to the ultimate satisfying giant transforming robot toys comparison! In 
 
 📺 Bob ToysReview
 
-👁️ 756 • 👍 7 • 💬 1 • ⏱️ 4:53 • 5h ago
+👁️ 2K • 👍 14 • 💬 2 • ⏱️ 4:53 • 6h ago
+
+---
+
+**[These Robots Fight Better Than You Think | URKL: Ultimate Humanoid Robot Knockout League](https://www.youtube.com/watch?v=DUbbBdSGHE8)**
+
+Watch the most intense moments from the Ultimate Humanoid Robot Knockout League (URKL), where cutting-edge humanoid ...
+
+📺 The Construct Robotics Institute
+
+👁️ 19K • 👍 353 • 💬 93 • ⏱️ 2:18 • 20h ago
+
+---
+
+**[IRI 2026 Friday | FRC Event | Indiana Robotics Invitational](https://www.youtube.com/watch?v=Eoer5GFdRFI)**
+
+Event Results: https://www.thebluealliance.com/event/2026iri or https://frc-events.firstinspires.org/2026/ININD The mission of IRI is ...
+
+📺 FUN Robotics Network
+
+👁️ 10K • 👍 70 • ⏱️ 9:48:35 • 14h ago
+
+---
+
+**[&#39;FIGHT!&#39; World&#39;s First Humanoid Robot Combat League Begins](https://www.youtube.com/watch?v=8NuzaDXt0P8)**
+
+Humanoid robots White Eagle and Matador traded punches and kicks in a robot fighting tournament in Shenzhen, with White ...
+
+📺 CRUX
+
+👁️ 1K • 👍 44 • 💬 7 • ⏱️ 0:41 • 4h ago
+
+---
+
+**[ACT-2: Preview](https://www.youtube.com/watch?v=d7I1wj0Gkik)**
+
+Today, we preview ACT-2, the first robotics model to achieve reliability by unifying broad generalization with high performance.
+
+📺 Sunday Robotics
+
+👁️ 33K • 👍 1K • 💬 136 • ⏱️ 2:26 • 1d ago
+
+---
+
+**[1X Finally Gave A Robot Human-Level Hands](https://www.youtube.com/watch?v=9E2epPWToeM)**
+
+📺 Varun Mayya
+
+👁️ 203K • 👍 7K • 💬 97 • ⏱️ 1:03 • 6d ago
 
 ---
 
