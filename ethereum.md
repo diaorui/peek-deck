@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T09:56:42.228678+00:00'
+updated: '2026-07-18T11:07:08.720427+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 09:56 UTC  
+**Last Updated:** July 18, 2026 at 11:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +2.1%  
-**30d:** +7.7%  
-**90d:** -20.3%  
+**24h:** +0.9%  
+**7d:** +2.2%  
+**30d:** +7.8%  
+**90d:** -20.2%  
 **1y:** -48.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.49B
+**Market Cap:** $222.51B
 Rank #2
 
 **Circulating Supply:** 120,682,850 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.7%
 
 **All-Time Low:** $0.43
-+425696.6%
++425754.4%
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 13h ago
+24/7 Wall St. • 14h ago
 
 ---
 
@@ -166,11 +166,27 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum price edges up as US House Chair signa...](https://pluang.com/en/news-feed/prediksi-ethereum-aksi-clarity-bisa-lolos-pekan-depan)**
+
+Ethereum's price rose by 1.82% following US House Administration Committee Chair Bryan Steil's statement that the CLARITY Act, which would classify ETH as a digital commodity, could pass the Senate next week. This potential regulatory clarity is boosting institutional interest, reflected in the highest weekly inflows to Ethereum ETFs since April. Ethereum is currently testing a key support level at $1,812, with bullish momentum suggesting a possible rise to $1,939 or even $2,244 if the bill passes. Failure to pass the bill could lead to a price drop below support.
+
+Pluang • 46m ago
+
+---
+
+**[Ethereum retests key $1,825 breakout level, ris...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-hilang-1825-bisa-kembali-1700)**
+
+Ethereum briefly rallied above a crucial breakout level around $1,825-$1,850 but failed to hold, now retesting this zone. Holding support here could keep the bullish cup-and-handle pattern intact and pave the way toward $2,000 and higher targets. However, a break below $1,825 risks a deeper decline toward $1,700 or lower. Long-term, Ethereum remains in a multi-year ascending channel with a potential path to $10,000-$12,000 if it sustains support and overcomes resistance levels at $3,000 and above.
+
+Pluang • 12m ago
+
+---
+
 **[Trader places $28M long straddle on Ethereum, b...](https://pluang.com/en/news-feed/opsi-ethereum-28juta-dolar-tanda-tanda-volatilitas-besar)**
 
 A trader executed a large long straddle on Ethereum options, buying 15,000 contracts at a $1,875 strike price expiring July 24, 2026, with a notional value around $28 million and paying about $852,000 in premium. This strategy bets on significant price movement in either direction rather than a specific price trend. The breakeven points are roughly $1,932 on the upside and $1,818 on the downside. This is the largest volatility bet in ETH options that week, signaling strong demand for near-term price swings and potentially influencing market volatility and hedging activity as expiry approaches.
 
-Pluang • 1h ago
+Pluang • 3h ago
 
 ---
 
@@ -184,7 +200,7 @@ Yahoo Finance • 1d ago
 
 **[Large cryptocurrencies drop on Ethereum, Avalanche declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-avalanche-declines-6d47563e-05a08c32c685)**
 
-MarketWatch • 19h ago
+MarketWatch • 21h ago
 
 ---
 
@@ -192,7 +208,7 @@ MarketWatch • 19h ago
 
 Cryptocurrencies broadly edge lower on Friday, as investors continue to assess the impact of the incessant strikes between the United States (US) and Iran in the Middle East. Bitcoin (BTC) has corrected by more than 1% on the day, trading below $63,000.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -200,7 +216,7 @@ FXStreet • 23h ago
 
 Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
 
-CoinMarketCap • 20h ago
+CoinMarketCap • 21h ago
 
 ---
 
@@ -208,23 +224,7 @@ CoinMarketCap • 20h ago
 
 Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.The market was also weighed down by the sell-off in AI stocks and ongoing geopolitical tens…
 
-TradingView • 22h ago
-
----
-
-**[Current price of Ethereum for July 17, 2026](https://fortune.com/article/price-of-ethereum-07-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 18h ago
-
----
-
-**[Ethereum (ETH) news): A timeline of the Ethereum Foundation's ongoing shakeup](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)**
-
-In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
-
-CoinDesk • 2d ago
+TradingView • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 99 • ⏱️ 12:55 • 13h ago
+👁️ 20K • 👍 1K • 💬 104 • ⏱️ 12:55 • 14h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 180 • 💬 64 • ⏱️ 20:43 • 17h ago
+👁️ 5K • 👍 191 • 💬 66 • ⏱️ 20:43 • 18h ago
 
 ---
 
@@ -258,17 +258,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 85 • 💬 10 • ⏱️ 17:29 • 16h ago
-
----
-
-**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
-
-Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
-
-📺 The Rollup
-
-👁️ 8K • 👍 229 • 💬 53 • ⏱️ 7:55 • 1d ago
+👁️ 2K • 👍 89 • 💬 11 • ⏱️ 17:29 • 18h ago
 
 ---
 
@@ -278,7 +268,17 @@ Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last 
 
 📺 Lark Davis
 
-👁️ 17K • 👍 596 • 💬 126 • ⏱️ 13:38 • 1d ago
+👁️ 17K • 👍 607 • 💬 127 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
+
+Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
+
+📺 The Rollup
+
+👁️ 9K • 👍 234 • 💬 53 • ⏱️ 7:55 • 1d ago
 
 ---
 
@@ -288,7 +288,17 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 30K • 👍 2K • 💬 96 • ⏱️ 14:48 • 15h ago
+👁️ 32K • 👍 2K • 💬 97 • ⏱️ 14:48 • 16h ago
+
+---
+
+**[Ethereum Bottom &amp; Top Price Targets | My Bear To Bull Market Strategy](https://www.youtube.com/watch?v=1aP9klUtdbM)**
+
+Ethereum is down almost 70% from its all-time high, but could this be one of the best long-term buying opportunities of the current ...
+
+📺 Coin Bureau Trading
+
+👁️ 196 • 👍 20 • 💬 1 • ⏱️ 9:10 • 59m ago
 
 ---
 
@@ -298,37 +308,27 @@ Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistanc
 
 📺 Lark Davis
 
-👁️ 869 • 👍 18 • 💬 1 • ⏱️ 0:56 • 5h ago
+👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:56 • 7h ago
 
 ---
 
-**[BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dvS7lpDImGg)**
+**[ETH Exit Signal Flashed! Now What?](https://www.youtube.com/watch?v=cb_Q7PgW6F4)**
 
-BITCOIN WARNING REPEATING: It Just Got Worse!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, which has carried price from around 1571 at the ...
 
-📺 Crypto World
+📺 Coin Bureau Trading
 
-👁️ 5K • 👍 228 • 💬 142 • ⏱️ 22:29 • 15h ago
-
----
-
-**[ETHEREUM: MOST WILL REALIZE TOO LATE](https://www.youtube.com/watch?v=eeTkVoGI4w0)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 7K • 👍 449 • 💬 306 • ⏱️ 14:25 • 2d ago
+👁️ 4K • 👍 287 • 💬 9 • ⏱️ 15:12 • 1d ago
 
 ---
 
-**[Ethereum’s Future Is Worse Than Investors Realize](https://www.youtube.com/watch?v=8wZooOeqcZk)**
+**[Why ETH Can RALLY Next Week! (Ethereum Update)](https://www.youtube.com/watch?v=yZe6t8CXktQ)**
 
-Ethereum's core risk is that its ecosystem can succeed while Ethereum's relevance declines — this is the deepest ETH bear case ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Jerry Banfield Crypto Reviews
+📺 Cilinix Crypto
 
-👁️ 850 • 👍 70 • 💬 32 • ⏱️ 35:13 • 1d ago
+👁️ 79 • 👍 17 • 💬 9 • ⏱️ 4:32 • 1h ago
 
 ---
 

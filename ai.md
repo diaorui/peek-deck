@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-18T09:56:42.214325+00:00'
+updated: '2026-07-18T11:07:08.711690+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 18, 2026 at 09:56 UTC  
+**Last Updated:** July 18, 2026 at 11:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 If you want an AI app which actually works, try AI Desktop 98.
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ If you want an AI app which actually works, try AI Desktop 98.
 
 Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday. He encouraged "open-source, openness, collaboration, and sharing."
 
-🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 12h ago
+🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 13h ago
 
 ---
 
@@ -57,7 +57,7 @@ Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday
 
 HI all, First, thank you so much for your feedback and interest in my project PopUpFactCheck. When I first posted about this July 1, I did not expect the reception it would get and I am so thankful to y'all. Some updates. You asked for Firefox, and it is now a Firefox add-on. It has new features. For example, using the up and down arrows on Chrome (or Option (⌥) + ↑/↓ on Firefox) you can scroll back and forth of the factcheck bubbles already displayed. The fact checking on live videos has improved. And it now does batch reporting on an entire video. Once again, Claude Code was a major tool in my development, and the AI that is used for orchestration is OpenAI GPT 5.4 nano and mini. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. PopUpFactCheck - Chrome Web Store PopUpFactCheck - Firefox add-on PopUpFactCheck - Homepage
 
-11h ago
+12h ago
 
 ---
 
@@ -73,15 +73,15 @@ The founder of Linux has made his thoughts on AI tools clear, and he's fully on 
 
 Seeing this come up more as LLM usage moves from 1 or 2 product features into internal tools, agents, support workflows, evals etc Provider dashboards show token usage but attribution gets messy when finance wants to know which team or project caused the spend. Infra most of the time can see the raw usage but finance only sees the invoice and the middle layer feels kinda underdeveloped. I think the answer is some mix of app level tagging and internal reporting but want to know how many teams are formalizing vs letting it sit as shared infra cost
 
-🔗 [ramp.com](https://ramp.com/blog/ai-token-spend-launch) • 10h ago
+🔗 [ramp.com](https://ramp.com/blog/ai-token-spend-launch) • 11h ago
 
 ---
 
 **[AI for designers and programmers 😂](https://www.reddit.com/r/artificial/comments/1uzroqw/ai_for_designers_and_programmers/)**
 
-I find it absolutely hilarious that designers and programmers are completely split on AI. Designers hate it(more or less) cause it's tied to personal style and authorship and I'm guessing cause the models were trained with their designs while programmers love it cause removes repetitive work and has lovely autocomplete. I'm at the intersection. Both a motion design and programmer. I'd love to hear your thoughts on it
+I find it absolutely hilarious that designers and programmers are completely split on AI. Designers hate it(more or less) cause it's tied to personal style and authorship and I'm guessing cause the models were trained with their designs while programmers love it cause removes repetitive work and has lovely autocomplete. They are overlaps and exceptions of course. Some designers love it and some programmers hate it. But for me from the majority of what I've seen...it seems to be the opposite. I'm at the intersection. Both a motion design and programmer. I'd love to hear your thoughts on it
 
-5m ago
+1h ago
 
 ---
 
@@ -89,21 +89,13 @@ I find it absolutely hilarious that designers and programmers are completely spl
 
 We are entering a strange period. Never in human history have we had access to so much information, so many tools, so many possibilities — and yet many people feel overwhelmed, uncertain and disconnected. The real problem has shifted. Finding information is no longer the main challenge. The challenge is knowing what deserves our attention. We are not only surrounded by more information. We are surrounded by systems competing for our attention. Every day, we receive messages telling us: what we should want what we should become what success should look like what choices we should make Technology has made access easier. But has it made understanding easier? Where AI fits in. AI arrives in this environment. It can answer questions, generate ideas, organize knowledge and help us move faster. But speed does not automatically create direction. A person can have more tools and still not know where to go. A society can create more possibilities and still struggle to define what is valuable. The real challenge. Maybe the challenge of our time is not only learning how to use powerful technologies. Maybe it is learning how to observe, connect information, understand situations and choose with awareness. Because before choosing the right tool, we need to understand the right problem. Before looking for answers, we need to understand the question. AI can amplify our actions. But amplification without understanding can also amplify confusion. The question may not be how much more we can do. The question is whether we still know what is worth doing.
 
-6h ago
+7h ago
 
 ---
 
 **[16 Nobel laureates signed a vague AI warning. The three CEOs actually building the thing didn't.](https://www.reddit.com/r/artificial/comments/1uzr3bm/16_nobel_laureates_signed_a_vague_ai_warning_the/)**
 
 So a bunch of economists (Brynjolfsson, Agrawal, Korinek, Cunningham, released through Stanford's Digital Economy Lab) put out this three-sentence statement on AI's economic impact, and somehow it's picked up 200+ signatures, sixteen of them Nobel laureates. Paul Krugman's on there, which is funny given he's the guy who said back in 1998 the internet would matter about as much as the fax machine. So is Yann LeCun, who was calling a much more specific version of this exact warning "ridiculously stupid" earlier this year. Amodei, Altman, Hassabis, the three people actually running the labs building this stuff, none of them signed. Ten signatories do work at Anthropic though (including one of the four people who organized the letter), so yeah, that's the obvious "wait, isn't this just labs recruiting credibility" angle right there. I went and looked up who those Anthropic-adjacent names actually are before deciding what to think. Most of them are just researchers with no PR or company-messaging role at all, Sholto Douglas, Boaz Barak, that tier. Feels unfair to assume a scientist can't hold a real opinion about their own field just because of who signs their paycheck. There's a smaller handful though, Jack Clark, Sarah Friar (OpenAI's CFO), Jeff Dean, where the conflict-of-interest read gets a lot more plausible. No way to actually tell from outside which is which. Probably both types signed this, not just one or the other. And, Acemoglu. Won the 2024 Nobel, spent years being the guy pushing back on doom-y AI-jobs predictions, and he signed anyway (still doesn't sound fully sold on the aggressive timelines from what I've read, just less dismissive than before). An economist like that, no real stake in the outcome either way, putting his name on a "let's actually prepare for this" statement instead of the usual doom-or-hype binary, that's the part of this whole thing that feels like it's worth something. anyway, what yall think? Does mixing real researchers in with lab leadership on the same signature list make this more credible to you, or less? I made this with gpt image 2
-
-41m ago
-
----
-
-**[hitting limits all the time on Claude](https://www.reddit.com/r/artificial/comments/1uzqbsn/hitting_limits_all_the_time_on_claude/)**
-
-I have a $20/mo Claude account and am hitting the 5-hr limit every few minutes. Also, it keeps asking me to re-enter prompts over and over again. Also, sometimes it asks me to repost prompts over and over again.
 
 1h ago
 
@@ -113,7 +105,15 @@ I have a $20/mo Claude account and am hitting the 5-hr limit every few minutes. 
 
 A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world. This is a new, significantly expanded version of the original Music Video mode, now built around Seedance 2.0, multiple image references, and an even more precise creative-assistance layer designed to enhance and adapt your vision in an optimally model-aware manner. More experiments, through Instagram.
 
-18h ago
+19h ago
+
+---
+
+**[Anthropic is expanding Claude Fable 5 access as it works to balance demand and compute capacity](https://www.reddit.com/r/artificial/comments/1uznilq/anthropic_is_expanding_claude_fable_5_access_as/)**
+
+Anthropic announced that starting July 20 Claude Fable 5 will be included in Max and Team Premium subscriptions with 50% of the standard usage limits. Users on Pro and Team Standard plans won't lose access but they'll continue using usage credits instead. Anthropic also says those users will receive a one-time $100 credit. What caught my attention wasn't just the pricing change, but the explanation behind it. Anthropic said demand for Fable has been difficult to predict so it deliberately expanded access in stages while bringing additional compute capacity online. It feels like another example of how frontier AI companies are increasingly treating access as a resource allocation problem rather than simply a subscription decision. Instead of making the model universally available overnight they're adjusting limits based on available GPU capacity and real world demand. As models become more capable and more expensive to run we may see this become the norm across the industry. Rather than a simple free vs. paid model providers could continue experimenting with usage limits, credits, and tiered access to manage infrastructure costs. should companies wait until they have enough capacity before expanding access?
+
+5h ago
 
 ---
 
@@ -121,69 +121,23 @@ A first, brief example of what Uisato Studio's "Music Video Pro" mode is capable
 
 ## Google News: "ai"
 
-**[Markets may have just experienced their second DeepSeek shock, this time thanks to a Chinese AI lab named after a Pink Floyd album](https://fortune.com/2026/07/17/china-moonshot-kimi-k3-markets-china-ai/)**
-
-K3 might undermine the conventional wisdom that U.S. firms can maintain their extended lead by simply outspending Chinese competitors on computing power.
-
-Fortune • 15h ago
-
----
-
 **[China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
-**[China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic](https://www.bbc.com/news/articles/cy9w4q8pgp0o)**
+**[Chinese AI has leveled up, and brought renewed focus on the open weight model shift](https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html)**
 
-The company has unveiled a massive new artificial intelligence model it says can take on top American firms.
+It's the latest AI model from China to close the performance gap with leading U.S. AI labs.
 
-BBC • 17h ago
-
----
-
-**[MLB restricts using dugout iPads for AI-assisted in-game strategy](https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making)**
-
-ESPN • 15h ago
+CNBC • 1d ago
 
 ---
 
-**[MLB cracks down on using AI via dugout iPads to help shape in-game decisions - The Athletic](https://www.nytimes.com/athletic/7448900/2026/07/16/mlb-bans-ai-dugout-ipads/)**
+**[Kimi K3 shocked the world. These other AI models could be next](https://www.axios.com/2026/07/18/kimi-k3-ai-models-china-us-japan)**
 
-A third of the league relied heavily on the technology, which was effectively banned starting on Wednesday.
-
-The New York Times • 1d ago
-
----
-
-**[MLB Bans AI Dugout Tech After Ottavino Alert](https://sports.yahoo.com/articles/mlb-bans-ai-dugout-tech-053358003.html)**
-
-MLB blocks AI on dugout iPads to stop strategy cheating, a move former reliever Adam Ottavino helped trigger.
-
-Yahoo Sports • 4h ago
-
----
-
-**[IBM CEO Arvind Krishna Has Nowhere to Hide From AI](https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f)**
-
-WSJ • 26m ago
-
----
-
-**[Indeed chief economist: Aging Baby Boomers are America’s real labor problem, not AI](https://fortune.com/2026/07/18/us-labor-shortage-ai-baby-boomers-2032/)**
-
-America's labor force will shrink by 6 million workers by 2032. If you're worried about AI taking your job, you're worrying about the wrong thing.
-
-Fortune • 26m ago
-
----
-
-**[Kevin O'Leary says today's AI data centers use far less water than people think](https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7)**
-
-The "Shark Tank" investor who is developing AI data center projects argued that modern data centers use far less water than many people believe.
-
-Business Insider • 39m ago
+Axios • 6m ago
 
 ---
 
@@ -191,7 +145,49 @@ Business Insider • 39m ago
 
 The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
 
-CNBC • 11h ago
+CNBC • 13h ago
+
+---
+
+**[Judges, lawyers grapple with the bench's AI balancing act](https://www.axios.com/2026/07/18/ai-lawyers-judges-balancing-act)**
+
+Axios • 1h ago
+
+---
+
+**[IBM CEO Arvind Krishna Has Nowhere to Hide From AI](https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f)**
+
+WSJ • 1h ago
+
+---
+
+**[How Google’s New Gemini Rates Work and How to Track Your Usage](https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/)**
+
+Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.
+
+WIRED • 1h ago
+
+---
+
+**[MLB restricts using dugout iPads for AI-assisted in-game strategy](https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making)**
+
+ESPN • 16h ago
+
+---
+
+**[Opinion | People of faith are finding a new moral guide in AI](https://www.washingtonpost.com/opinions/2026/07/17/people-are-turning-ai-moral-guidance-spiritual-advice/)**
+
+Are you there, Claude? It’s me, Margaret.
+
+The Washington Post • 17h ago
+
+---
+
+**[Nasdaq, S&P 500 drop 1% after China’s latest AI breakthrough rattles tech stocks](https://www.cnn.com/2026/07/17/investing/us-stocks-asia)**
+
+Overseas stocks and US stock futures fell sharply Friday after technological advances announced by a Chinese artificial intelligence company intensified concerns that the AI spending spree driving this year’s market rally could be at risk.
+
+CNN • 23h ago
 
 ---
 
@@ -201,13 +197,13 @@ CNBC • 11h ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 509 • 💬 331 • 11h ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 514 • 💬 340 • 12h ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 441 • 💬 318 • 19h ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 452 • 💬 325 • 20h ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -215,7 +211,7 @@ CNBC • 11h ago
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 389 • 💬 524 • 1d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 391 • 💬 525 • 1d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
@@ -237,7 +233,7 @@ The AI agent made for open models, built to get things done.
 
 Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
-⬆️ 189 • 💬 245 • 2d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+⬆️ 190 • 💬 245 • 2d ago • [SmarterArticles](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
@@ -245,13 +241,13 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 
 The move is a vote of confidence in Boeing from the U.S. government.
 
-⬆️ 174 • 💬 98 • 12h ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+⬆️ 176 • 💬 98 • 13h ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 
 ---
 
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 156 • 💬 82 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+⬆️ 157 • 💬 82 • 1d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -273,33 +269,23 @@ A German research consortium has released Soofi S 30B-A3B, an open language mode
 
 ## YouTube Videos: "ai"
 
-**[Kimi K3: China just beat Claude AI at coding](https://www.youtube.com/watch?v=2wDXtzIE7qw)**
-
-Kimi K3 AI just beat Claude AI at coding. Join my private group https://techleadpro.com Your Community for Crypto, Stocks, ...
-
-📺 TechLead
-
-👁️ 28K • 👍 1K • 💬 260 • ⏱️ 8:08 • 11h ago
-
----
-
 **[Anthropic CEO: AI Is Not Conscious , It&#39;s Much WORSE Than That - Dario Amodei](https://www.youtube.com/watch?v=2Lt0AtM4JW8)**
 
 Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Anthropic CEO Dario Amodei warns that AI ...
 
 📺 Neural Nutshell
 
-👁️ 36K • 👍 710 • 💬 182 • ⏱️ 20:51 • 1d ago
+👁️ 37K • 👍 725 • 💬 183 • ⏱️ 20:51 • 1d ago
 
 ---
 
-**[The AI Race Just Hit a Breaking Point...](https://www.youtube.com/watch?v=_LRI8k4xVwU)**
+**[Kimi K3: China just beat Claude AI at coding](https://www.youtube.com/watch?v=2wDXtzIE7qw)**
 
-Anthropic has revealed that its AI now writes more than 80% of the code merged inside the company. At the same time, it is ...
+Kimi K3 AI just beat Claude AI at coding. Join my private group https://techleadpro.com Your Community for Crypto, Stocks, ...
 
-📺 AI Uncovered
+📺 TechLead
 
-👁️ 2K • 👍 93 • 💬 10 • ⏱️ 11:51 • 14h ago
+👁️ 34K • 👍 2K • 💬 285 • ⏱️ 8:08 • 13h ago
 
 ---
 
@@ -309,7 +295,27 @@ China's Moonshot AI just released Kimi K3, the world's largest open-weight AI mo
 
 📺 AI Revolution
 
-👁️ 21K • 👍 804 • 💬 104 • ⏱️ 14:29 • 11h ago
+👁️ 25K • 👍 878 • 💬 116 • ⏱️ 14:29 • 12h ago
+
+---
+
+**[Why AI Suddenly Looks Extra Bubbly](https://www.youtube.com/watch?v=VS00sg8rsnE)**
+
+Take back your privacy- start using Proton Mail for free: http://proton.me/tldr Watch the Full Trailer: https://youtu.be/mP1b-33Qnqw ...
+
+📺 TLDR News Global
+
+👁️ 50K • 👍 3K • 💬 441 • ⏱️ 8:56 • 2h ago
+
+---
+
+**[The AI Race Just Hit a Breaking Point...](https://www.youtube.com/watch?v=_LRI8k4xVwU)**
+
+Anthropic has revealed that its AI now writes more than 80% of the code merged inside the company. At the same time, it is ...
+
+📺 AI Uncovered
+
+👁️ 3K • 👍 97 • 💬 11 • ⏱️ 11:51 • 16h ago
 
 ---
 
@@ -319,7 +325,17 @@ Tenex co-founder and co-managing partner Arman Hezarkhani breaks down the featur
 
 📺 Fox Business
 
-👁️ 20K • 👍 340 • 💬 161 • ⏱️ 6:33 • 13h ago
+👁️ 24K • 👍 370 • 💬 171 • ⏱️ 6:33 • 14h ago
+
+---
+
+**[Meta’s AI Glasses Just Exposed the Whole Privacy Sh*tshow](https://www.youtube.com/watch?v=9BArC9Q39MI)**
+
+Meta's AI-powered Ray-Ban glasses could transform everyday life for blind and visually impaired people, translating text, ...
+
+📺 House of El: AI
+
+👁️ 101K • 👍 8K • 💬 2K • ⏱️ 20:09 • 19h ago
 
 ---
 
@@ -329,7 +345,17 @@ Full post w/ Guide + Automation Skill: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 10K • 👍 455 • 💬 53 • ⏱️ 12:08 • 19h ago
+👁️ 11K • 👍 469 • 💬 55 • ⏱️ 12:08 • 21h ago
+
+---
+
+**[Truckers RAM Flock Cameras, AI Nightmare IS HAPPENING | Tim Pool](https://www.youtube.com/watch?v=zEFSrGuIsp4)**
+
+BUY CAST BREW COFFEE TO FIGHT BACK - https://castbrew.com/ Join The Discord Server - https://timcast.com/join-us/Live ...
+
+📺 Timcast
+
+👁️ 67K • 👍 4K • 💬 1K • ⏱️ 14:27 • 1d ago
 
 ---
 
@@ -339,35 +365,7 @@ The mates discuss Mira Murati's 975B Open Model, Ramin Hasani speaks on Post-Tra
 
 📺 Peter H. Diamandis
 
-👁️ 51K • 👍 1K • 💬 253 • ⏱️ 1:56:54 • 15h ago
-
----
-
-**[AI News: Claude&#39;s New Browser, Spotify Gets AI &amp; OpenAI&#39;s New Hardware](https://www.youtube.com/watch?v=ss2LaCKUQmU)**
-
-Try Seedream 5.0 plus other top AI image and video models at Artlist ...
-
-📺 Matt Wolfe
-
-👁️ 37K • 👍 1K • 💬 70 • ⏱️ 23:10 • 18h ago
-
----
-
-**[Google Just Dropped Its Biggest AI Update Of The Year](https://www.youtube.com/watch?v=fYR71wEMW90)**
-
-The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-masterclass-eg (Where the prompts from this ...
-
-📺 Nick Ponte
-
-👁️ 7K • 👍 200 • 💬 39 • ⏱️ 8:55 • 1d ago
-
----
-
-**[INSANE CLARITY ACT DRAMA! AI BOOM STILL EARLY Bitcoin and Tech Stocks BLEEDING #bitcoin #ai #crypto](https://www.youtube.com/watch?v=pnfoGo3UCEg)**
-
-📺 CryptoWendyO
-
-👁️ 5K • 👍 414 • 💬 30 • ⏱️ 2:04 • 8h ago
+👁️ 55K • 👍 1K • 💬 271 • ⏱️ 1:56:54 • 17h ago
 
 ---
 
@@ -383,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 7,870 • ❤️ 991 • 1d ago
+⬇️ 12,456 • ❤️ 1,002 • 1d ago
 
 ---
 
@@ -395,7 +393,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 200,774 • ❤️ 690 • 3h ago
+⬇️ 301,893 • ❤️ 701 • 5h ago
 
 ---
 
@@ -407,7 +405,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,045,182 • ❤️ 406 • 17h ago
+⬇️ 1,218,815 • ❤️ 412 • 19h ago
 
 ---
 
@@ -419,7 +417,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,096,147 • ❤️ 2,284 • 3d ago
+⬇️ 2,112,869 • ❤️ 2,285 • 3d ago
 
 ---
 
@@ -431,7 +429,17 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 534,698 • ❤️ 4,085 • 16d ago
+⬇️ 541,662 • ❤️ 4,097 • 16d ago
+
+---
+
+**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
+
+*Lars Bouaraba *
+
+Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
+
+⬇️ 0 • ❤️ 365 • 16h ago
 
 ---
 
@@ -443,29 +451,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 9,383 • ❤️ 419 • 7d ago
-
----
-
-**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
-
-*Lars Bouaraba *
-
-Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
-
-⬇️ 0 • ❤️ 354 • 15h ago
-
----
-
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, aggressive multimodal model (35B parameters, 3B active) based on Qwen3.6, capable of processing text and images. It's designed for maximum output without refusals, suitable for advanced text generation and multimodal tasks.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 2,190,398 • ❤️ 2,835 • 3mo ago
+⬇️ 10,445 • ❤️ 426 • 7d ago
 
 ---
 
@@ -477,7 +463,19 @@ OvisOCR2 is a compact 0.8B multimodal model for end-to-end document parsing, gen
 
 `image-text-to-text` `853.0M`
 
-⬇️ 10,795 • ❤️ 155 • 2d ago
+⬇️ 13,750 • ❤️ 158 • 2d ago
+
+---
+
+**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, aggressive multimodal model (35B parameters, 3B active) based on Qwen3.6, capable of processing text and images. It's designed for maximum output without refusals, suitable for advanced text generation and multimodal tasks.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 2,190,398 • ❤️ 2,839 • 3mo ago
 
 ---
 
@@ -519,7 +517,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 44 • 💬 1 • ⭐ 1,276 • 10d ago
+▲ 44 • 💬 1 • ⭐ 1,287 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
 
@@ -556,7 +554,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 83 • 💬 7 • ⭐ 81,119 • 24mo ago
+▲ 83 • 💬 7 • ⭐ 81,155 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -576,33 +574,6 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ---
 
-**[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675)**
-
-*Shuailei Ma, Jiaqi Liao, Xinyang Wang et al. (27 authors)*
-
-🏢 Robbyant
-
-LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
-
-▲ 63 • 💬 1 • ⭐ 825 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 176 • 💬 2 • ⭐ 74,940 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
 **[ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439)**
 
 *Qihao Zhao, Yangyu Huang, Yalun Dai et al. (11 authors)*
@@ -614,6 +585,19 @@ ResearchStudio-Idea provides a skill suite for effective research ideation that 
 ▲ 60 • 💬 3 • ⭐ 1,394 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
+
+---
+
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 176 • 💬 2 • ⭐ 74,977 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -643,6 +627,20 @@ https://continuous-audio-language-models.github.io
 
 ---
 
+**[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675)**
+
+*Shuailei Ma, Jiaqi Liao, Xinyang Wang et al. (27 authors)*
+
+🏢 Robbyant
+
+LingBot-Video presents a DiT-based video pretraining framework with Mixture-of-Experts architecture, specialized data augmentation, and multi-dimensional reward system for embodied intelligence applications.
+
+▲ 63 • 💬 1 • ⭐ 827 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.07675) • [💻 code](https://github.com/robbyant/lingbot-video) • [🔗 project](https://technology.robbyant.com/lingbot-video)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -663,7 +661,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.9k • 🔱 211 • 17h ago
+⭐ 2.9k • 🔱 212 • 18h ago
 
 ---
 
@@ -707,6 +705,16 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 
 ---
 
+**[modiqo/skillspec](https://github.com/modiqo/skillspec)**
+
+SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.
+
+`Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
+
+⭐ 991 • 🔱 61 • 4d ago
+
+---
+
 **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)**
 
 GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.
@@ -714,16 +722,6 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
 ⭐ 990 • 🔱 17 • 10d ago
-
----
-
-**[modiqo/skillspec](https://github.com/modiqo/skillspec)**
-
-SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.
-
-`Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
-
-⭐ 984 • 🔱 60 • 4d ago
 
 ---
 
@@ -737,11 +735,13 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 ---
 
-**[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)**
+**[simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)**
 
-A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
+Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。
 
-⭐ 888 • 🔱 37 • 17d ago
+`TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
+
+⭐ 890 • 🔱 199 • 7d ago
 
 ---
 
