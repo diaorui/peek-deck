@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T21:23:36.143140+00:00'
+updated: '2026-07-18T22:23:10.353397+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 21:23 UTC  
+**Last Updated:** July 18, 2026 at 22:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -68,6 +68,60 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Tokenized stocks are finally real on Ethereum](https://www.reddit.com/r/ethereum/comments/1v03qts/tokenized_stocks_are_finally_real_on_ethereum/)**
+
+I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
+
+3h ago
+
+---
+
+**[Daily General Discussion July 18, 2026](https://www.reddit.com/r/ethereum/comments/1uzmkyi/daily_general_discussion_july_18_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+17h ago
+
+---
+
+**[76% of Ethereum tokens launched in the last 2 months are scams (we re-ran our 78k-token study)](https://www.reddit.com/r/ethereum/comments/1uzu32m/76_of_ethereum_tokens_launched_in_the_last_2/)**
+
+Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams
+
+10h ago
+
+---
+
+**["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
+
+2h ago
+
+---
+
+**[Daily General Discussion July 17, 2026](https://www.reddit.com/r/ethereum/comments/1uyq38m/daily_general_discussion_july_17_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[Ethereal news weekly #31 | glamsterdam-devnet-7 open for app developer testing, EthSystems launched, Devcon 8 tickets](https://www.reddit.com/r/ethereum/comments/1uytlfw/ethereal_news_weekly_31_glamsterdamdevnet7_open/)**
+
+glamsterdam-devnet-7 open for app developer testing, EthSystems launched, Devcon 8 tickets
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-31/) • 1d ago
+
+---
+
+**[WETH retrieval](https://www.reddit.com/r/ethereum/comments/1uz2vr8/weth_retrieval/)**
+
+Has anyone sent WETH to Robinhood and successfully gotten it back? I’m aware I shouldn’t have done it, only wondering if anyone’s been able to get it returned.
+
+1d ago
+
+---
+
 **[Daily General Discussion July 16, 2026](https://www.reddit.com/r/ethereum/comments/1uxt5wd/daily_general_discussion_july_16_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
@@ -92,60 +146,6 @@ Hello, A little while ago I posted about a project concept I had. The idea was a
 
 ---
 
-**[How to buy ethereum without KYC?](https://www.reddit.com/r/ethereum/comments/1uxhc7f/how_to_buy_ethereum_without_kyc/)**
-
-Im wondering how could I buy some (~80€) ethereum without KYC because im 15.
-
-3d ago
-
----
-
-**[Can blockchain become a trust layer for real-world events?](https://www.reddit.com/r/ethereum/comments/1uwq50m/can_blockchain_become_a_trust_layer_for_realworld/)**
-
-One thing I've been thinking about recently is that blockchains are great at verifying digital information—but they still struggle to verify physical reality. For example: Did someone actually visit a location? Was a delivery completed? Did an inspection really happen? Can an AI agent prove it interacted with the physical world? GPS alone isn't enough anymore, and centralized systems require trust. I've been working on an open protocol called GeoProof that explores using multi-signal verification to generate cryptographically verifiable attestations for real-world events. The goal isn't to replace existing blockchains, but to provide a reusable verification layer that applications can integrate regardless of which chain they use. I'd really appreciate feedback on whether this problem is worth solving and whether you think an open protocol is the right approach. Website: https://geoproof.xyz Documentation is public and constructive criticism is very welcome.
-
-3d ago
-
----
-
-**[Is it legit from customer support?](https://www.reddit.com/r/ethereum/comments/1ux07e3/is_it_legit_from_customer_support/)**
-
-3d ago
-
----
-
-**[Daily General Discussion July 14, 2026](https://www.reddit.com/r/ethereum/comments/1uvz1ge/daily_general_discussion_july_14_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
-**[Just build on L1?](https://www.reddit.com/r/ethereum/comments/1uvx8ra/just_build_on_l1/)**
-
-I remember Vitalik tweeting, "You can just build on L1." I am wondering if this is a joke or not? I have something I am working on and just want to build on L1. I remember the days that gas costs were $200 for a basic swap at some point. Can these $200 per swap days come back?
-
-4d ago
-
----
-
-**[first etherealize and ethereum community foundation. then ethlabs. now ethereum institutional. wth is going on?](https://www.reddit.com/r/ethereum/comments/1uvjyn1/first_etherealize_and_ethereum_community/)**
-
-i produced an explainer on the new wave of ethereum-aligned organizations splintering off from the ethereum foundation: etherealize, the ethereum community foundation, and ETHLabs, launching on june 22nd with five senior EF researchers and significant institutional backing the day after ETHLabs, the EF announced it was cutting 20% of its workforce 🥲 it's been a chaotic, turbulent time within the ethereum ecosystem, and i wanted to document my thoughts on why this is happening now and what that could mean for the future of ethereum. lo and behold, as i was finishing production, yet another independent organization founded by ex-EF team members spawned: ethereum institutional. the story literally outran the edit/production 😂 the evidence points both directions: vitalik was writing about distributing the protocol's brain trust across multiple orgs back in 2017. but you can also read this moment as a centre shrinking faster than what the ecosystem is ready to absorb. video: https://youtu.be/sF3NlQBIQDE genuine question for anyone closer to the research side: is coordination between these orgs actually happening anywhere visible? shared calls, forums, roadmap alignment? ----------- if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
-
-🔗 [youtu.be](https://youtu.be/sF3NlQBIQDE?si=rfgNWDJaA4HoJGXQ) • 5d ago
-
----
-
-**[Daily General Discussion July 13, 2026](https://www.reddit.com/r/ethereum/comments/1uv1yby/daily_general_discussion_july_13_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +162,7 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 Ethereum has stayed just above $1,800 recently, a key support level, but thin trading volumes and weak investor interest suggest the current rally may be short-lived. Positive net inflows into Ethereum ETFs in July indicate some renewed interest, yet overall market sentiment remains cautious due to an unfavorable macroeconomic outlook and expected Federal Reserve rate hikes. If Ethereum fails to hold $1,800, it could fall toward $1,550, while resistance near $2,000 may limit any upside in the near term.
 
-Pluang • 4h ago
+Pluang • 5h ago
 
 ---
 
@@ -170,7 +170,7 @@ Pluang • 4h ago
 
 Spot Bitcoin ETFs recorded $132 million in net inflows and Ethereum ETFs $36.73 million on July 17, despite ongoing market volatility. This suggests growing investor confidence, particularly from institutional players, as they position for potential gains in these cryptocurrencies. Bitcoin trades near $64,010 and Ethereum at $1,841, showing modest gains that offer hope amid cautious market sentiment. These ETF inflows could influence the future price movements of Bitcoin and Ethereum in the coming weeks.
 
-Pluang • 59m ago
+Pluang • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ FXStreet • 1d ago
 
 Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
 
-TradingView • 22h ago
+TradingView • 23h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 22h ago
 
 Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
 
-CoinMarketCap • 19h ago
+CoinMarketCap • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 3K • 👍 100 • 💬 93 • ⏱️ 13:08 • 8h ago
+👁️ 3K • 👍 100 • 💬 93 • ⏱️ 13:08 • 9h ago
 
 ---
 
@@ -270,7 +270,7 @@ Ethereum is down almost 70% from its all-time high, but could this be one of the
 
 📺 Coin Bureau Trading
 
-👁️ 2K • 👍 100 • 💬 10 • ⏱️ 9:10 • 11h ago
+👁️ 2K • 👍 100 • 💬 10 • ⏱️ 9:10 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 CryptoWendyO
 
-👁️ 262 • 👍 42 • 💬 3 • ⏱️ 1:50 • 23m ago
+👁️ 262 • 👍 42 • 💬 3 • ⏱️ 1:50 • 1h ago
 
 ---
 

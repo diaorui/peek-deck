@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-18T21:23:36.139004+00:00'
+updated: '2026-07-18T22:23:10.347129+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 21:23 UTC  
+**Last Updated:** July 18, 2026 at 22:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,81 +77,83 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin Mining Giant Foundry Asks Miners To Vote On BIP-110 Soft Fork](https://www.reddit.com/r/Bitcoin/comments/1uz7l6y/bitcoin_mining_giant_foundry_asks_miners_to_vote/)**
+**[I Sold Everything and Put $95,000 Into Bitcoin at 29. See You in 10 Years.](https://www.reddit.com/r/Bitcoin/comments/1v06du8/i_sold_everything_and_put_95000_into_bitcoin_at/)**
 
-Foundry Digital said it will allow clients who use its Bitcoin mining pool to vote on BIP-110.
+I sold every other asset I owned, stopped my pension contributions, took out loans, and we even sold our old flat in Delhi. Altogether, I have invested around $90,000 to $95,000 into BTC. I started buying near $100k, continued as it climbed toward $126k, and added more during the recent lows. This is risky, but it was calculated. My salary covers the loan payments, and based on my calculations, I should be able to repay everything within two and a half years. I would not recommend anyone blindly copy this. But after years of learning about Bitcoin, money, inflation, and scarcity, this is where my conviction is strongest. Maybe it becomes the biggest mistake of my life. Maybe it changes my family’s future. Repay the debt. Secure the Bitcoin. Come back in 10 years.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110) • 1d ago
-
----
-
-**[The next Bitcoin wave will come from crisis](https://www.reddit.com/r/Bitcoin/comments/1uz3a9j/the_next_bitcoin_wave_will_come_from_crisis/)**
-
-1d ago
+1h ago
 
 ---
 
-**[Bankruptcies calling](https://www.reddit.com/r/Bitcoin/comments/1uyuzas/bankruptcies_calling/)**
+**[I just sold apartment and put everything in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uzzugh/i_just_sold_apartment_and_put_everything_in/)**
 
-Its pretty obvious to me now, i have no clue what im doing. BTC avg 122k, SLV etf avg 100.12, SPCX avg 219.83 Between the 3, im down 6 figures. I will never recover from this. Good luck out there
+Remember this post!
 
-1d ago
-
----
-
-**[The Code Built to Last: Why Bitcoin's C++ Foundation Outlives the Hype.](https://www.reddit.com/r/Bitcoin/comments/1uz6xvx/the_code_built_to_last_why_bitcoins_c_foundation/)**
-
-In an Era of Ephemeral Frameworks, the World’s Most Secure Coin Relies on the Unforgiving Discipline of Systems Architecture.
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-built-to-last-why-bitcoins) • 1d ago
+6h ago
 
 ---
 
-**[A very balanced article about BIP-110 by Jason Hughes - VP, Development and Engineering at Ocean Mining, yes the pool signalling for BIP-110](https://www.reddit.com/r/Bitcoin/comments/1uz12ww/a_very_balanced_article_about_bip110_by_jason/)**
+**[Bitcoin Run GPS Art — Germany 🇩🇪⚡️ First-ever BTC symbol traced through Stuttgart ₿🏃‍♂️](https://www.reddit.com/r/Bitcoin/comments/1v01ibc/bitcoin_run_gps_art_germany_firstever_btc_symbol/)**
 
-A small miner and bip110 node runned asked in the comments what expect past block 961632. This article might get everyone, involved in the movement prepared. Let me start off by saying I’m not pro-BIP110, and I’m not anti-BIP110. If it actually succeeds as something that gains true consensus within the network and ends up being enforced by a majority of the network… cool. If so, then we’ll go with it because the network has spoken and accepted it, and all nodes, including non-BIP110 nodes, will be pulled along for the ride. Unfortunately for proponents of the proposal, that simply isn’t currently the case by any measurable metric, nor does it appear to have a trajectory suggesting that will change, either. There’s been a lot of misleading information about this whole thing, especially in the context of mining. Few quick key bullet points to briefly counter some hyperbole from proponents: BIP110 is NOT inevitable. It CAN fail. BIP110 can and will cause a chain split/fork in a minority hashrate situation. BIP110 is NOT without risk to miners choosing to adopt it. Miners not supporting BIP110 are not suddenly mining “invalid” blocks just because a proposal that isn’t yet adopted simply exists. You’re not a bad person or evil simply because you don’t like or support BIP110. (The fact that I feel the need to point out that last part is actually kind of sad…) I was going to write a long post to help keep miners informed about things they need to remain aware of as this all plays out… before realizing I already did so months ago as a document I authored that I had hoped could be put out as a miner education piece at OCEAN. Sadly, it never got published. So I went ahead and updated it, and well, here it is: https://docs.google.com/document/d/14DfMSVYBHTHIOmW32JTOR6BAP7AITbinvrhl8rJuvvc/edit?usp=sharing Again, keep in mind this was written months ago, intended to be as agnostic as possible in an effort to make it acceptable as a corporate post. That effort failed, so I'm posting it as a personal document today instead. As a miner making important decisions about your operations, you need to be aware of all of this without the sugarcoating and frankly outright misleading information coming from some of the BIP110 proponents. You must be vigilant, and decide what’s right for you. While there is certainly some misleading information from the opposition as well, nothing I’ve seen is nearly as egregious as the extremely premature claims of victory and accompanying hyperbole pushed by the BIP110 side. Summarizing my doc a bit, my personal suggestion to miners is this: Signal if you support BIP110 Do not signal if you don’t support BIP110 or don’t care Either way, monitor the network on/around/before block 961632. If you continue to see non-signaling blocks from major pools you can be reasonably certain they’re not going to suddenly decide later to throw away millions of dollars worth of revenue to backtrack and signal for BIP110. If they do by some chance start to signal for BIP110, you should monitor that and consider switching as required to stay on the heaviest chain. Key point being that realistically, only one side can win. It’s either BIP110 succeeds and miners not on the BIP110 side fail, or BIP110 fails and miners on the non-BIP110 side succeed. Moving on, let’s dive into some small fraction of my rationale. 🟠QUICK FACT: Between 7 and 15% of Bitcoin Nodes are signaling support for BIP110. Depending on which centralized crawler you look at… no way to know for sure. My personal private crawler puts this number much lower, but that’s a discussion for another day. Suffice it to say, I think it’s logical and correct to say that even 15% is not a majority. “But Jason! UASF got Segwit activated with fewer nodes!” Yep, because many miners, merchants, users, etc all actually wanted Segwit. There was tremendous economic and community weight behind it. Without rehashing that whole thing (plenty of resources on the topic from before BIP110 that are worth a read), suffice it to say that BIP110 and Segwit activations are not quite comparable, as many have already pointed out. Segwit, for example, went into its UASF territory with around 1/3rd of the network hashrate already signaling support. With that kind of backing, the UASF to help push the MASF over the tipping point made a lot of sense. It doesn't make sense here for BIP110. 🟠QUICK FACT: 0.6% of blocks over the past 60 days have signaled support for BIP110. Pretty stark contrast to even Segwit’s low baseline support. Yes, I know it's increased slightly in the past couple of weeks, but no new entrants. Just more clearly rented hashrate from one of the same small proponants. Something to keep in mind is that mining BIP110 signaling blocks via DATUM on OCEAN carries virtually no risk to the miner up until the fork point at block 961632. The cost is negligible, as you're effectively guaranteed to recoup rental costs, etc. It's awesome that the ability to do so exists, and I wouldn't have it any other way... but just something to keep in mind when weighing signaling from such blocks in the grand scheme of things from a risk/reward/money-on-the-table perspective. “But Jason! Miners have no incentive to signal until the last minute!” I also see no evidence to suggest that this could be the case. Subjectively, I disagree with the premise, as it’s not in a mining pool’s best interest to destabilize the network in such a way. Part of the reason for early signaling and lock-in periods is to help coordinate upgrades in a smooth fashion. Waiting until the last minute negates that benefit entirely. I see no compelling rationale or upside to doing so. Continuing on this, as part of my personal node monitoring setup, I specifically monitor nodes known to belong to various entities, such as other mining pools, exchanges, large lightning nodes, merchants, etc. A supermajority of which are monitored with explicit permission and confirmation/coordination. 🟠QUICK FACT: All major mining pools I monitor are currently running some variant of Bitcoin Core v30 or v31 (except OCEAN). Expanding on that, most have updated their nodes since the proliferation of BIP110’s release, even since the release of Knots 29.3. Additionally, it is known that many mining pools run modified versions of their node software to facilitate various requirements of their specific infrastructure. Such changes would need to be ported to a BIP110 compatible client, tested, evaluated, and deployed ahead of time. I currently see no evidence that this is the case currently. As far as I can tell, the pools are aware but ignoring. “But Jason! Miners don’t determine consensus! Nodes do! Otherwise they’ll just cancel halvings!” This is one of the funniest and most ridiculous arguments I’ve heard from the pro-BIP110 crowd. Comparing a consensus change that can be unilaterally enforced upon the network by miners and accepted by 100% of existing nodes (a soft fork), with a hard fork which no existing node will accept… is disingenuous at best. Tightening rules (like BIP110): Soft fork, can be enforced by miners if they choose to do so. Loosening rules (like canceling a halving): Hard fork, can not be enforced by miners without effectively 100% buy-in from the entire network……. Which isn’t likely to happen. Comparing the two is, bluntly, just stupid. “But Jason! If you don’t upgrade to the latest consensus rules, you’re insecure! You’ll lose funds! You’ll mine invalid blocks! You’ll [insert additional hyperbole here]!” This would be true of a consensus change that has, well, consensus. While BIP110 has made a valiant effort to gain that consensus, it has yet to have any measurable majority at what is now arguably the 11th hour. Not in nodes, not in hashrate, not in the social layers (consensus.health has a cool visual there where you'll find me in the middle). If somehow BIP110 gains 51%+ of the network hashrate on/before block 961632… then, alright. It’s enforced, since as a soft fork a majority of miners can unilaterally enforce it in the absence of a fully adopted URSF (effectively a misnomer, as this would kind of be a hard fork). “But Jason! It can’t gain consensus by already having consensus! You have to give it a chance!” Firstly… no I don’t, even though I have. Second, it’s a rushed proposal that never had the time to even try and gain real consensus. It’s been 7 months since the release of the first BIP110 client. There’s ~3 weeks to go before “mandatory” signaling starts as of now (less by the time you read this). 90% of the time available has passed with no change in overall sentiment from any relevant players. If it hasn’t gained sufficient adoption in the past 7 months, it’s not likely to do so in the next 3 weeks. "But Jason! CSAM! CSAM! Pedophiles! CSAM!" I'll be the first to say, even I personally overstated the risk here early on when Core proposed its OP_RETURN change. I personally expected something particularly egregious to hit the chain almost immediately, and to the best of my knowledge that's not yet happened. Could it still happen? Yeah, I suppose. But considering from a technical perspective, byte-for-byte the same contiguous arbitrary data can provably end up stored in the current chain or the BIP-110 chain without much issue... this particular argument for BIP-110 falls pretty flat to me at this point. Do I want CSAM in the chain? Of course not. Am I a pedophile if I don't support BIP110? Also not. ... I could continue to go on and on and on, but I'll stop here. I've wasted enough time on this. I'm sure I've done plenty to annoy both sides of the BIP110 debate at this point, as I don't adopt either stance. I'm sure I'll catch flack from all angles simply for daring to speak my mind on it. Overall, I mostly think it was silly to approach addressing a real problem (the OP_RETURN default change in Bitcoin Core) with the maximum anti-spam manifesto based soft fork proposal... which provably cannot stop spam, arbitrary data, etc. 🤦‍♂️ (Yes, I know, proponents will claim it's not about spam... and will also make semantic arguments that it does stop data as well... neither of which appears to be correct.) I'll close with the concession that I could be wrong. I'm not Nostradamus, and I can't accurately predict the outcome with 100% certainty. I can only go by what the data tells me, and so I give BIP110's success less than a 5% chance of actually succeeding... and I consider that generous. You can take my opinions on this however you wish, but I highly recommend you don't discount the actual data points, remain vigilant, and do what's best for you and your mining revenue. Don't be gaslit by either side of the debate, and make your own decisions. Here's a link to the same document linked above for ease of access: https://docs.google.com/document/d/14DfMSVYBHTHIOmW32JTOR6BAP7AITbinvrhl8rJuvvc/edit?usp=sharing
+The Bitcoin Runs project reaches Germany for the first time! This GPS art run traces the ₿ symbol through the streets of Stuttgart — the birthplace of the automobile, now on the frontier of sound money. 34 runs and counting across 20 countries 🌍 More at bitcoinruns.org
 
-🔗 [primal.net](https://primal.net/average/bip-110---my-notes-to-miners-by-jason-hughes-liberated-from-x) • 1d ago
-
----
-
-**[BTC Holdings](https://www.reddit.com/r/Bitcoin/comments/1uzh6yv/btc_holdings/)**
-
-What’s the true stat to be in the top 10% of all Bitcoin Holders (from a retail perspective)? How much are you trying to stack? What is your goal? There’s a lot of debate around this and wanted to get people’s thoughts.
-
-20h ago
+5h ago
 
 ---
 
-**[BTC Wobbles Near $64K As Middle East Drama Cranks Up](https://www.reddit.com/r/Bitcoin/comments/1uywwfu/btc_wobbles_near_64k_as_middle_east_drama_cranks/)**
+**[Kazakhstan just moved toward 0% tax on Bitcoin gains and legal gas-powered mining](https://www.reddit.com/r/Bitcoin/comments/1uzs7z0/kazakhstan_just_moved_toward_0_tax_on_bitcoin/)**
 
-The uncertainty around Hormuz, tariffs & oil prices has set off a risk-off sentiment across Bitcoin holders: here’s what price level everyone's watching.
+Quick disclosure up front, since this sub is (rightly) strict about self-promotion: I maintain a project that tracks Bitcoin’s legal status across ~140 countries: legality, self-custody rights, tax treatment, seizure risk. No link here, just sharing because I think the underlying facts are worth this sub’s time on their own. On July 7, President Tokayev signed a decree that bundles three things worth knowing: 1/ Tax. A planned exemption from personal income tax on gains from digital asset transactions conducted through Kazakhstan’s regulated infrastructure. Officials have described this as “planned,” so the implementing rules aren’t fully live yet, but the direction is explicit and it came straight from the Ministry of AI and Digital Development. 2/ Mining. A new mechanism letting associated petroleum gas and natural gas that isn’t needed for state use be converted into electricity for mining operations. This is aimed at monetizing stranded/flared gas that was otherwise being wasted. 3/ Offshore coins. A framework to bring previously unregistered or offshore-held crypto assets into the regulated domestic system, alongside groundwork for stablecoin-based cross-border settlement. Context that makes this land differently: Kazakhstan is the world’s third-largest Bitcoin mining nation by hashrate, behind only the US and China. This is the same country that banned mining and slapped punitive electricity tariffs on miners back in 2021–22 after the post-China-ban influx overloaded its grid. Going from “we’re taxing you out” to “0% on gains, here’s some stranded gas to mine with” in four years is a real reversal. On the tax point specifically: if this holds as written, it puts Kazakhstan ahead of most G7 countries, several of which still tax Bitcoin gains as ordinary income with no exemption at all. For reference, across the ~140 countries I track, the current split is roughly 6 clearly pro-Bitcoin, 11 openly hostile, and the rest (~123) somewhere in between with unclear or inconsistent policy. Genuinely curious what this sub thinks: is this a real long-term bet on Bitcoin infrastructure, or a play to grab mining revenue and hashrate share while the window’s open, and does it matter which one it is?
 
-🔗 [DailyCoin](https://dailycoin.com/btc-wobbles-near-64k-as-middle-east-drama-cranks-up/) • 1d ago
-
----
-
-**[Lightning Labs built a toolkit that lets AI agents pay in Bitcoin autonomously — no credit card, no human in the loop. Here's how it works.](https://www.reddit.com/r/Bitcoin/comments/1uyxxq9/lightning_labs_built_a_toolkit_that_lets_ai/)**
-
-There's a question nobody in the AI industry has properly answered: how do AI agents pay for things? Credit cards require human identity. Banks require passports. None of that works for software making thousands of micropayments per hour autonomously. Lightning Labs released lightning-agent-tools in February 2026, seven composable modules that give AI agents everything they need to operate natively on Lightning. The core of it is L402 plus lnget: an AI agent hits an API, the server responds with HTTP 402 "Payment Required" plus a Lightning invoice, lnget automatically pays the invoice, receives a macaroon credential, retries the request. Total time under one second. Total human involvement: zero. The full toolkit includes remote key isolation with keys on a separate signer machine, scoped macaroons for spend limits per agent, Aperture to turn any API into a pay-per-use service, and MCP support for Claude, GPT, and custom frameworks. Why Bitcoin and not stablecoins? Transactions on Inferior Centralized Altcoin Chains cost cents to dollars, unviable for micropayments. A Lightning payment for 1 sat costs a fraction of a sat. And no one can freeze your sats. For node runners: AI agent traffic means more routing opportunities and demand for liquidity. Your node becomes infrastructure for the machine economy. Full breakdown: https://davidebtc186.substack.com/p/ai-agents-are-starting-to-pay-in
-
-1d ago
+12h ago
 
 ---
 
-**[What demographic will cause the next pump?](https://www.reddit.com/r/Bitcoin/comments/1uz1udb/what_demographic_will_cause_the_next_pump/)**
+**[Satoshi said "I'm losing my mind there are so many things that need to be done..." 16 years ago, as a flood of new users from slashdot overwhelmed Bitcoin websites](https://www.reddit.com/r/Bitcoin/comments/1uzz5w0/satoshi_said_im_losing_my_mind_there_are_so_many/)**
 
-Each pump so far has a demographic behind it, whether it be retail, institutional investors, etc. Where do you believe the next pump lies?
+Martii Malmi (AKA Sirius) “COPA trial” email #210 Date: Sun, 18 Jul 2010 16:23:10 +0100 From: Satoshi Nakamoto satoshin@gmx.com Subject: Re: Fwd: bitcoin hosting To: mmalmi@cc.hut.fi Please promise me you won't make a switch now. The last thing we need is switchover hassle on top of the slashdot flood of work we've got now. I'm losing my mind there are so many things that need to be done. Also, it would suck to be on a smaller, less reliable host just to save a measly $20. I will try to think of a polite way to ask the donor if he sent it, but right now there are other higher priority things that are going to bump even that for a few days. Would a donation of bitcoins help in the short term? mmalmi@cc.hut.fi wrote: > Rackspace has very good support, good backend, good connections and > nicely scaling cloud based virtual servers. I got this offer from Thufir: > > ----- > Hi Sirius, > > Check out www.citrusdesignstudio.com. You will see through the portfolio > that > I am a real business with many clients. > > That is my business that I provide managed hosting through. > I also do unmanaged VPSes. > > Normally I would charge $15/mo for 512MB. > I will do it for $10/mo for you. > > To see my pricing, go to www.linnode.com. I match everything they have > except > their great panel -- you have to email or call my people. > > I provide VPS services normally for 3/4ths the posted cost on linnode.com. > (Rackspace is even more expensive.) > > I will do it for 1/2 of linnode's price for you. > > It scales linerally just like linnodes, so for 2048 MB of memory, I would > charge $40, etc. > > Later! > ----- > > That would be worth considering, if they have good datacenters and > connections. $10 / month is about $20 less than what Rackspace costs. On > the other hand, Rackspace prices are no problem if the donation is to > arrive. >
 
-1d ago
+🔗 [satoshitimeline.com](https://satoshitimeline.com/657) • 6h ago
 
 ---
 
-**[AI suggested I come here regarding NC Wallet, so here I am.](https://www.reddit.com/r/Bitcoin/comments/1uzapmp/ai_suggested_i_come_here_regarding_nc_wallet_so/)**
+**[Bitcoin power law](https://www.reddit.com/r/Bitcoin/comments/1v048vr/bitcoin_power_law/)**
 
-The support team lacks communication skills and just blatantly neglects any helpful information for the Users on what the next steps in the KYC Verification process are. They only suggest that I be patient, and that they've sent the documents that I've already sent them to the proper department without any follow up. I've used NC Wallet for the better part of 3 years sending to and from the same wallets every time and never had a real issue, (other than the lack of providing a TxID for sometimes several days before actually processing and completing,) until I finally deposited a decent amount from a casino ($5,000) and then all of the sudden there's a problem and they need to verify my identity, (which it literally says is not required and won't even let you until they flag the KYC Verification, and that I've now been waiting 2 weeks for.) Now, for obvious reasons I'm submitting reviews on Reddit, Trustpilot, Google Play Store and the major social media platforms about the type of trap this wallet is. I will also be reporting to the DFPI if for whatever reason they cease to communicate with me entirely. Like I said, I've never really had a problem with the app and would like to continue using it or at leaat get my funds back, however, I'm not about to just let $5,000 of mine just get taken without doing something about it. I've read a couple of posts that said they were able to get their accounts back, idk on the legitimacy of that, but I would love to be one of them. If anything, this post is more to let the people that may not know that NC Wallet is definitely not the Wallet to store any of your crypto if you want to have control of your funds. Learn from mine and many others mistakes.. I will edit this post if for some miracle they push my verification through. The AI suggests I add my ticket numbers to help bypass the generic support bot so here they are: NW-146416 NW-144905
+Bitcoin's price has historically tracked a long-term power law trendline — a curve that grows at a constant rate on a log-log time/price scale. I've built a small website to track how the price is doing relative to the trendline. Historically when the price falls below the trendline it signals a great buying opportunity. Similarly, price going above the trendline might flash a sell signal. Nobody knows the future price, but now is a good time to turn your DCAs - now proven by a mathematical formula. here is the link: https://www.btcpower.ai/
 
-1d ago
+3h ago
+
+---
+
+**[Bitcoin can never go to zero. Please educate people that say this](https://www.reddit.com/r/Bitcoin/comments/1uzrz9u/bitcoin_can_never_go_to_zero_please_educate/)**
+
+Adam Back has a buy order in for 21 million Bitcoin at $0.01 cents. I don’t think we’ll ever see this, but it’s good to know this fact when you see people saying that Bitcoin is going to zero.
+
+12h ago
+
+---
+
+**[Revolut X what is your opinion](https://www.reddit.com/r/Bitcoin/comments/1v02ybp/revolut_x_what_is_your_opinion/)**
+
+Hi, is Revolut X good for simply doing DCA? Has anyone had any experience selling on it? Is there enough trading volume and liquidity? I’d especially appreciate feedback from European residents. Thanks
+
+4h ago
+
+---
+
+**[Calling it a day after 11 years in corporate and slide deck number 500. Now I want to build something meaningful.](https://www.reddit.com/r/Bitcoin/comments/1uzpvv5/calling_it_a_day_after_11_years_in_corporate_and/)**
+
+11 years in corporate. Somewhere around reorganization number 10 and slide deck number 500, I stopped counting and started thinking. I don't want to be in the flywheel anymore, obeying things that make no sense and bending over to corporate politeness. I want to build something of my own and prove I can do it by myself. When I discovered Bitcoin 8 years ago, I put in the hours to understand it. After that, I could not unsee it. The mission is noble, and Bitcoin is the only thing I've ever felt worth building for. Not for the glory. For the mission. I dream about it, it occupies my mind every night before I fall asleep. Money that cannot be debased. Freedom. A heritage you can actually pass on to your kids. That resonates with me. So this year I stop watching and start building. Nights and weekends, next to the day job. Something that helps normal people get in and hold their own keys. I will probably fail in public a few times. Fine. I'm more scared of reorg number 20 than of failing at something I believe in. If you feel the same flywheel, follow along.
+
+14h ago
+
+---
+
+**[A Raspberry Pi Is Still a Computer: Why Bitcoin Needs a Purpose-Built Hardware Wallet](https://www.reddit.com/r/Bitcoin/comments/1uzzflt/a_raspberry_pi_is_still_a_computer_why_bitcoin/)**
+
+https://t.co/N5cwqMLHxc
+
+🔗 [X (formerly Twitter)](https://x.com/nvk/status/2078498536400777700?s=20) • 6h ago
 
 ---
 
@@ -163,7 +165,7 @@ The support team lacks communication skills and just blatantly neglects any help
 
 Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -183,7 +185,7 @@ Investor's Business Daily • 1d ago
 
 Large traders on Deribit show expectations for a price rally to $72,000 by month end, right when the Fed meets.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -221,13 +223,13 @@ The Block • 2d ago
 
 Government says cybersecurity teams investigating after presidency portal briefly defaced | Anadolu
 
-Anadolu Ajansı • 8h ago
+Anadolu Ajansı • 9h ago
 
 ---
 
 **[Bitcoin recovers toward $64k after sliding on AI shock, crypto bill doubts](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577)**
 
-Investing.com • 12h ago
+Investing.com • 13h ago
 
 ---
 
@@ -247,7 +249,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 3d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+⬆️ 2 • 💬 1 • 4d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
 
 ---
 
@@ -277,7 +279,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 939 • 💬 164 • ⏱️ 19:34 • 23h ago
+👁️ 14K • 👍 939 • 💬 164 • ⏱️ 19:34 • 1d ago
 
 ---
 
@@ -285,7 +287,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 816 • 💬 43 • ⏱️ 2:04 • 20h ago
+👁️ 13K • 👍 816 • 💬 43 • ⏱️ 2:04 • 21h ago
 
 ---
 
@@ -315,7 +317,7 @@ August is right around the corner and that means BIG moves coming up (Clarity, S
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 315 • 💬 17 • ⏱️ 29:49 • 3h ago
+👁️ 3K • 👍 315 • 💬 17 • ⏱️ 29:49 • 4h ago
 
 ---
 
