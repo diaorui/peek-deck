@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T14:58:31.848292+00:00'
+updated: '2026-07-18T16:02:45.863992+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 14:58 UTC  
+**Last Updated:** July 18, 2026 at 16:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +2.2%  
-**30d:** +7.8%  
-**90d:** -20.2%  
-**1y:** -48.6%  
+**24h:** -0.0%  
+**7d:** +2.1%  
+**30d:** +7.7%  
+**90d:** -20.3%  
+**1y:** -48.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.05B
+**Market Cap:** $222.40B
 Rank #2
 
 **Circulating Supply:** 120,682,850 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.8%
+-62.7%
 
 **All-Time Low:** $0.43
-+424890.6%
++425454.1%
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 18h ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -162,21 +162,13 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 BitMine earned $45.7 million from ETH staking, while options losses and long-term weakened its quarterly figures.
 
-CryptoSlate • 2d ago
+CryptoSlate • 3d ago
 
 ---
 
-**[Ethereum price holds key support as U.S. Senate may vote on CLARITY Act, boosting bullish outlook.](https://pluang.com/en/news-feed/harga-ethereum-tahan-level-kunci-vote-clarity-act-picu-optimisme)**
+**[Ethereum rises 1.8% as hopes grow for Senate vo...](https://pluang.com/en/news-feed/ethereum-menanti-vote-clarity-dan-pertahanan-level-kunci)**
 
-Ethereum (ETH) rose about 1.8% amid optimism that the U.S. Senate could soon vote on the CLARITY Act, which may classify Ethereum as a digital commodity. This potential legislation is expected to enhance regulatory clarity and institutional participation, supporting Ethereum's price despite recent volatility. Ethereum is currently testing support near its 50-day EMA around $1,812, with bullish momentum possibly pushing it toward $2,244 if the act passes. Institutional demand is also increasing, with strong inflows into Ethereum ETFs and rising total value locked in the Ethereum ecosystem, signaling renewed investor confidence.
-
-Pluang • 3h ago
-
----
-
-**[Ethereum forecasted to trade near $2,000 by Aug...](https://pluang.com/en/news-feed/ai-memprediksi-harga-ethereum-1-agustus-2026)**
-
-Ethereum is predicted to trade around $2,000 by August 1, 2026, supported by improving ETF inflows and positive market sentiment after a tough second quarter. The forecast suggests a trading range between $1,950 and $2,050, with potential to rise to $2,200-$2,400 if ETF inflows and crypto market momentum continue. Conversely, prices could fall to $1,700-$1,850 if macroeconomic conditions worsen or institutional demand weakens. Ethereum's short-term technical indicators show slight bullish momentum, but the long-term trend remains bearish until it surpasses its 200-day moving average.
+Ethereum's price increased by 1.8% to $1,845 following Rep. Bryan Steil's indication that the CLARITY Act could reach a Senate vote soon. The act aims to establish federal rules for Ethereum trading under a digital commodity framework, potentially boosting regulatory clarity. Spot Ethereum ETFs saw $105 million in inflows, the highest since April, supporting cautious bullish sentiment. Technically, Ethereum must hold above $1,830 and break $1,854 to target resistance near $1,947, with analysts optimistic about a rise toward $2,000+ if support holds. However, unresolved legislative issues and geopolitical risks could impact the momentum.
 
 Pluang • 3h ago
 
@@ -186,7 +178,7 @@ Pluang • 3h ago
 
 Ethereum's price fell 3.6% to around $1,823 after reaching near $1,944 three days ago, despite major whale purchases totaling about 89,396 ETH worth $164.88 million. While US spot Ethereum ETFs saw $68 million inflows this week and exchange reserves dropped, network activity showed mixed signals with active addresses hitting December lows but transaction volume reaching record highs. Technical analysis suggests sellers dominate short-term momentum, yet strong support at $1,780 could push prices to $2,200-$2,400 soon, according to analyst Michaël van de Poppe. Liquidations reached $91.4 million in 24 hours, highlighting market volatility.
 
-Pluang • 2h ago
+Pluang • 3h ago
 
 ---
 
@@ -202,7 +194,7 @@ Yahoo Finance • 1d ago
 
 Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -228,19 +220,17 @@ FXStreet • 1d ago
 
 ---
 
+**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
+
+Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
+
+CoinMarketCap • 14h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[&quot;Ethereum is about to EXPLODE!!&quot; Wall Street Expert Explains Why! (in only 12 minutes)](https://www.youtube.com/watch?v=SZ9Ks_GKUAs)**
-
-What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTTON! ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 21K • 👍 1K • 💬 116 • ⏱️ 12:55 • 18h ago
-
----
 
 **[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
 
@@ -248,27 +238,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 174 • 👍 14 • 💬 120 • ⏱️ 13:08 • 1h ago
+👁️ 610 • 👍 41 • 💬 84 • ⏱️ 13:08 • 3h ago
 
 ---
 
-**[&quot;This is ETH Is Going To $50,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=CJBvboXyhm0)**
+**[&quot;Ethereum is about to EXPLODE!!&quot; Wall Street Expert Explains Why! (in only 12 minutes)](https://www.youtube.com/watch?v=SZ9Ks_GKUAs)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTTON! ⭐ Follow Altcoin Daily on X: ...
 
-📺 Crypto Nutshell
+📺 Altcoin Daily
 
-👁️ 5K • 👍 196 • 💬 66 • ⏱️ 20:43 • 22h ago
-
----
-
-**[&quot;200X IS COMING! Ethereum Is About to Shock the Entire Crypto Market&quot; - Tom Lee](https://www.youtube.com/watch?v=z-0PuLMsozQ)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 91 • 💬 11 • ⏱️ 17:29 • 21h ago
+👁️ 23K • 👍 1K • 💬 119 • ⏱️ 12:55 • 19h ago
 
 ---
 
@@ -278,7 +258,37 @@ Ethereum is down almost 70% from its all-time high, but could this be one of the
 
 📺 Coin Bureau Trading
 
-👁️ 573 • 👍 58 • 💬 21 • ⏱️ 9:10 • 4h ago
+👁️ 914 • 👍 81 • 💬 5 • ⏱️ 9:10 • 5h ago
+
+---
+
+**[&quot;This is ETH Is Going To $50,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=CJBvboXyhm0)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 205 • 💬 80 • ⏱️ 20:43 • 23h ago
+
+---
+
+**[Tom Lee Lost $9B On ETH — He Just Bought More](https://www.youtube.com/watch?v=c-K275s0JO4)**
+
+Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last week he bought another 20500 ETH.
+
+📺 Lark Davis
+
+👁️ 18K • 👍 623 • 💬 129 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[&quot;200X IS COMING! Ethereum Is About to Shock the Entire Crypto Market&quot; - Tom Lee](https://www.youtube.com/watch?v=z-0PuLMsozQ)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 94 • 💬 11 • ⏱️ 17:29 • 22h ago
 
 ---
 
@@ -292,13 +302,23 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 ---
 
-**[Tom Lee Lost $9B On ETH — He Just Bought More](https://www.youtube.com/watch?v=c-K275s0JO4)**
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
 
-Tom Lee is sitting on nearly $10 billion in unrealized losses on Ethereum. Last week he bought another 20500 ETH.
+Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
 
-📺 Lark Davis
+📺 Gareth Soloway
 
-👁️ 18K • 👍 618 • 💬 144 • ⏱️ 13:38 • 1d ago
+👁️ 35K • 👍 2K • 💬 107 • ⏱️ 14:48 • 21h ago
+
+---
+
+**[Has ETH bottomed?! Major Signal in Ethereum vs Bitcoin chart! #BTC #crypto #trading #Ethereum #QQQ](https://www.youtube.com/watch?v=dmvZE24kCy8)**
+
+For folks who want a Non-KYC crypto exchange, Pablo uses Pionex and Bitunix, which has lots of great prizes and give aways, ...
+
+📺 Heman Pablo
+
+👁️ 267 • 👍 9 • 💬 23 • ⏱️ 19:58 • 5h ago
 
 ---
 
@@ -308,27 +328,7 @@ Vitalik Buterin unveiled the Lean Ethereum roadmap focusing on quantum resistanc
 
 📺 Lark Davis
 
-👁️ 2K • 👍 41 • 💬 1 • ⏱️ 0:56 • 10h ago
-
----
-
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
-
-Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
-
-📺 Gareth Soloway
-
-👁️ 34K • 👍 2K • 💬 106 • ⏱️ 14:48 • 20h ago
-
----
-
-**[ETH Exit Signal Flashed! Now What?](https://www.youtube.com/watch?v=cb_Q7PgW6F4)**
-
-Aaron Dishner of The Better Traders breaks down Ethereum's explosive July run, which has carried price from around 1571 at the ...
-
-📺 Coin Bureau Trading
-
-👁️ 4K • 👍 292 • 💬 8 • ⏱️ 15:12 • 1d ago
+👁️ 2K • 👍 52 • 💬 1 • ⏱️ 0:56 • 12h ago
 
 ---
 

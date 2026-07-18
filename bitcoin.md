@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-18T14:58:31.842887+00:00'
+updated: '2026-07-18T16:02:45.858706+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 14:58 UTC  
+**Last Updated:** July 18, 2026 at 16:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,069.97
+### $64,039.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
+**24h:** +0.1%  
 **7d:** +0.5%  
 **30d:** +0.9%  
 **90d:** -15.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1284.10B
+**Market Cap:** $1285.20B
 Rank #1
 
-**Circulating Supply:** 20,057,950 BTC
+**Circulating Supply:** 20,058,000 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.2%
 
 **All-Time Low:** $67.81
-+94315.3%
++94384.6%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Foundry Digital said it will allow clients who use its Bitcoin mining pool to vote on BIP-110.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110) • 20h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110) • 21h ago
 
 ---
 
 **[The next Bitcoin wave will come from crisis](https://www.reddit.com/r/Bitcoin/comments/1uz3a9j/the_next_bitcoin_wave_will_come_from_crisis/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ Its pretty obvious to me now, i have no clue what im doing. BTC avg 122k, SLV et
 
 In an Era of Ephemeral Frameworks, the World’s Most Secure Coin Relies on the Unforgiving Discipline of Systems Architecture.
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-built-to-last-why-bitcoins) • 21h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-built-to-last-why-bitcoins) • 22h ago
 
 ---
 
@@ -119,7 +119,7 @@ A small miner and bip110 node runned asked in the comments what expect past bloc
 
 What’s the true stat to be in the top 10% of all Bitcoin Holders (from a retail perspective)? How much are you trying to stack? What is your goal? There’s a lot of debate around this and wanted to get people’s thoughts.
 
-14h ago
+15h ago
 
 ---
 
@@ -151,7 +151,7 @@ Each pump so far has a demographic behind it, whether it be retail, institutiona
 
 The support team lacks communication skills and just blatantly neglects any helpful information for the Users on what the next steps in the KYC Verification process are. They only suggest that I be patient, and that they've sent the documents that I've already sent them to the proper department without any follow up. I've used NC Wallet for the better part of 3 years sending to and from the same wallets every time and never had a real issue, (other than the lack of providing a TxID for sometimes several days before actually processing and completing,) until I finally deposited a decent amount from a casino ($5,000) and then all of the sudden there's a problem and they need to verify my identity, (which it literally says is not required and won't even let you until they flag the KYC Verification, and that I've now been waiting 2 weeks for.) Now, for obvious reasons I'm submitting reviews on Reddit, Trustpilot, Google Play Store and the major social media platforms about the type of trap this wallet is. I will also be reporting to the DFPI if for whatever reason they cease to communicate with me entirely. Like I said, I've never really had a problem with the app and would like to continue using it or at leaat get my funds back, however, I'm not about to just let $5,000 of mine just get taken without doing something about it. I've read a couple of posts that said they were able to get their accounts back, idk on the legitimacy of that, but I would love to be one of them. If anything, this post is more to let the people that may not know that NC Wallet is definitely not the Wallet to store any of your crypto if you want to have control of your funds. Learn from mine and many others mistakes.. I will edit this post if for some miracle they push my verification through. The AI suggests I add my ticket numbers to help bypass the generic support bot so here they are: NW-146416 NW-144905
 
-18h ago
+19h ago
 
 ---
 
@@ -159,11 +159,11 @@ The support team lacks communication skills and just blatantly neglects any help
 
 ## Google News: "bitcoin"
 
-**[Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss](https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global)**
+**[Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark](https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark)**
 
-A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 level it reached on this week's soft inflation print.
+Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them.
 
-CoinDesk • 19h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -173,27 +173,25 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Bitcoin Whales Are Moving Billions in July — Is BTC Price About to Explode?](https://bitcoinfoundation.org/news/altcoins/bitcoin-whales-are-moving-billions-in-july-is-btc-price-about-to-explode/)**
+**[Texas commissioners reject downtown bitcoin mine after residents raise water and noise fears](https://www.yahoo.com/news/us/articles/texas-commissioners-reject-downtown-bitcoin-150400662.html)**
 
-Find out what is happening with Bitcoin whales accumulating BTC as Bitcoin has shown a small recovery
+"We were told that it’s a close-knit system, but water doesn’t magically appear."
 
-Bitcoin Foundation • 3h ago
+Yahoo • 58m ago
 
 ---
 
-**[Adam Back Talks About Bitcoin BIP-110 Controversy. “Satoshi Was Not Retarded”](https://finance.yahoo.com/markets/crypto/articles/adam-back-talks-bitcoin-bip-130155844.html)**
+**[Massive Bitcoin Call Spreads Target $72,000 by Month End, Right When the Fed Meets](https://www.moomoo.com/news/post/73169385/massive-bitcoin-call-spreads-target-72000-by-month-end-right)**
 
-Adam Back mocks BIP-110 backers and predicts the Bitcoin fork stalls within three weeks of mandatory signaling.
+Moomoo • 1h ago
+
+---
+
+**[Bitcoin Is its Most Affordable in Two Years. Which ETF Is Better to Invest With Now: iShares Bitcoin Trust ETF or VanEck Bitcoin ETF?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-most-affordable-two-years-143018160.html)**
+
+iShares dominates with $47B in assets, while VanEck undercuts on fees at 0.20% versus 0.25%. Which matters more for your portfolio?
 
 Yahoo Finance • 1h ago
-
----
-
-**[NEW: Bitcoin ETFs are likely to mirror Gold's 22-year ETF history, according to Bloomberg Intelligence 👀](https://www.moomoo.com/community/feed/new-bitcoin-etfs-are-likely-to-mirror-gold-s-22-116940938412037)**
-
-@Bitcoin Magazine 7478 Views
-
-Moomoo • 2h ago
 
 ---
 
@@ -201,13 +199,7 @@ Moomoo • 2h ago
 
 A Bitcoin mining operation that generated nearly three years of noise complaints from residents along Kentucky Route 1036 is much quieter now.
 
-LEX 18 News • 16h ago
-
----
-
-**[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
-
-Bloomberg.com • 1d ago
+LEX 18 News • 17h ago
 
 ---
 
@@ -219,9 +211,9 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin rebounds toward $64,000 as AI shock and crypto bill doubts weigh](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577)**
+**[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
-Investing.com • 5h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -230,6 +222,12 @@ Investing.com • 5h ago
 Strategy's larger cash reserves and improving institutional demand in bitcoin futures are "encouraging signs" for bitcoin, JPMorgan said.
 
 The Block • 1d ago
+
+---
+
+**[The Investors Riding Along With Strategy’s Bitcoin Rollercoaster](https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d)**
+
+WSJ • 1d ago
 
 ---
 
@@ -265,7 +263,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 Insomniac Games' upcoming triple-A release has been caught in the midst of an online anti-Sony movement.
 
-⬆️ 2 • 💬 0 • 21h ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
+⬆️ 2 • 💬 0 • 22h ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
 
 ---
 
@@ -279,47 +277,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 785 • 💬 84 • ⏱️ 19:34 • 17h ago
-
----
-
-**[Why Bitcoin is replacing gold](https://www.youtube.com/watch?v=ZHCnpQNISZQ)**
-
-Gold has been humanity's trusted store of value for 5000 years. But is Bitcoin becoming something better? In this episode of The ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 495 • 💬 237 • ⏱️ 14:56 • 22h ago
-
----
-
-**[Massive Companies Invest In Bitcoin &amp; Crypto = Going To ZERO!?](https://www.youtube.com/watch?v=j9G7xxqUvdU)**
-
-If Bitcoin and crypto is going to zero then why are so many MASSIVE companies investing in the space? ARe they INSANE??! No ...
-
-📺 Digital Asset News
-
-👁️ 8K • 👍 472 • 💬 29 • ⏱️ 27:00 • 21h ago
-
----
-
-**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
-
-Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
-
-📺 Benjamin Cowen
-
-👁️ 58K • 👍 4K • 💬 141 • ⏱️ 7:33 • 1d ago
-
----
-
-**[The Gold Revaluation Theory That Could Change Bitcoin Forever!](https://www.youtube.com/watch?v=f_UclLjEFVI)**
-
-Gold could be heading to $10000 as central banks move away from US Treasuries and the global monetary system begins ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 238 • ⏱️ 18:01 • 1d ago
+👁️ 12K • 👍 825 • 💬 97 • ⏱️ 19:34 • 18h ago
 
 ---
 
@@ -329,17 +287,75 @@ Everyone's calling for $1000000 Bitcoin. After getting fooled twice, I'm plannin
 
 📺 Betirement
 
-👁️ 16K • 👍 928 • 💬 535 • ⏱️ 11:16 • 1d ago
+👁️ 16K • 👍 948 • 💬 533 • ⏱️ 11:16 • 2d ago
 
 ---
 
-**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
+**[They are MISSING IT, the BOTTOM FOR BITCOIN Using XRP and Total Market Cap of Crypto](https://www.youtube.com/watch?v=7E_Mkaz1FoU)**
 
-Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
 
-📺 Prof G Markets
+📺 Blockchain Backer
 
-👁️ 28K • 👍 364 • 💬 119 • ⏱️ 1:42 • 1d ago
+👁️ 7K • 👍 2K • 💬 94 • ⏱️ 17:54 • 2h ago
+
+---
+
+**[INSANE CLARITY ACT DRAMA! AI BOOM STILL EARLY Bitcoin and Tech Stocks BLEEDING #bitcoin #ai #crypto](https://www.youtube.com/watch?v=pnfoGo3UCEg)**
+
+📺 CryptoWendyO
+
+👁️ 10K • 👍 691 • 💬 40 • ⏱️ 2:04 • 15h ago
+
+---
+
+**[The Gold Revaluation Theory That Could Change Bitcoin Forever!](https://www.youtube.com/watch?v=f_UclLjEFVI)**
+
+Gold could be heading to $10000 as central banks move away from US Treasuries and the global monetary system begins ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 244 • ⏱️ 18:01 • 1d ago
+
+---
+
+**[Peter L. Brandt - Where Is Bitcoin Headed Next? | Trade Secrets Show](https://www.youtube.com/watch?v=ow-n3PkAUN4)**
+
+Veteran trader Peter Brandt believes Bitcoin's bear market is far from over. Trade Secrets is made for X — but now you can watch ...
+
+📺 Cointelegraph
+
+👁️ 483 • 👍 56 • 💬 72 • ⏱️ 32:12 • 3h ago
+
+---
+
+**[Bitcoin Market Cycles](https://www.youtube.com/watch?v=XQN1M-sIuGs)**
+
+Let's talk about Bitcoin market cycles, and how we can best understand where we currently are in the current market cycle.
+
+📺 Benjamin Cowen
+
+👁️ 59K • 👍 4K • 💬 144 • ⏱️ 7:33 • 1d ago
+
+---
+
+**[Massive Companies Invest In Bitcoin &amp; Crypto = Going To ZERO!?](https://www.youtube.com/watch?v=j9G7xxqUvdU)**
+
+If Bitcoin and crypto is going to zero then why are so many MASSIVE companies investing in the space? ARe they INSANE??! No ...
+
+📺 Digital Asset News
+
+👁️ 8K • 👍 489 • 💬 33 • ⏱️ 27:00 • 22h ago
+
+---
+
+**[🚨 BITCOIN: You Might NOT Want To Hear This But It MUST Be Said! (100% Accurate)](https://www.youtube.com/watch?v=AS-BLgtBkks)**
+
+Bitcoin stays strong as overall sentiment remains weak. One #BTC chart hits to exactly what everyone suspects. BloFin ...
+
+📺 Crypto Zombie
+
+👁️ 13K • 👍 1K • 💬 162 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -349,27 +365,7 @@ Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 295 • 💬 43 • ⏱️ 1:16 • 1d ago
-
----
-
-**[&#39;I Am Tired Of Being In Crypto Hell&#39;: Mark Warner Calls For Legislation To Regulate Cryptocurrency](https://www.youtube.com/watch?v=bfCi9eQ3Gmk)**
-
-During a Senate Finance Committee hearing on Thursday, Sen. Mark Warner (D-VA) spoke in favor of legislation regulating ...
-
-📺 Forbes Breaking News
-
-👁️ 3K • 👍 92 • 💬 36 • ⏱️ 5:03 • 1d ago
-
----
-
-**[The Fed Has One Move Left... That&#39;s Why Bitcoin Pumped to $65K!](https://www.youtube.com/watch?v=pskI8WsJAcI)**
-
-Bitcoin's latest rally has far less to do with CPI than most people think. The real story is a growing crisis of debt, sovereignty and ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 267 • ⏱️ 20:59 • 2d ago
+👁️ 13K • 👍 305 • 💬 43 • ⏱️ 1:16 • 1d ago
 
 ---
 
