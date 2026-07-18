@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-18T22:23:10.356792+00:00'
+updated: '2026-07-18T23:26:30.551678+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 18, 2026 at 22:23 UTC  
+**Last Updated:** July 18, 2026 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Robert Scoble says an unnamed investor told him Anthropic is buying robot AI developer Physical Intelligence, though no deal has been announced.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/anthropic-is-rumored-to-be-pursuing-robot-ai-developer-physical-intelligence) • 17h ago
+🔗 [RuntimeWire](https://runtimewire.com/article/anthropic-is-rumored-to-be-pursuing-robot-ai-developer-physical-intelligence) • 18h ago
 
 ---
 
@@ -44,7 +44,7 @@ Robert Scoble says an unnamed investor told him Anthropic is buying robot AI dev
 
 On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
 
-🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 9h ago
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 10h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’m happy to share another video of my quadruped robot climbing stairs! Since 
 
 I've been experimenting with an Ethernet-based UWB localization setup recently and wanted to share the workflow. The idea is to keep the embedded side simple while moving the localization calculations to a PC. In this setup, the UWB nodes continuously perform ranging between the tag and anchors. An ESP32-S3 Ethernet gateway collects the ranging data and forwards it over the local network. A PC application then receives the data stream, calculates the tag coordinates in real time, and visualizes the results. Since all positioning algorithms run on the PC instead of the microcontroller, it's much easier to test different localization methods, manage multiple tags, or integrate additional data processing. Hardware Used · 3×UWB nodes (2 Anchors + 1 Tag) · 1×ESP32-S3 Ethernet (PoE) gateway · Ethernet cable · USB cable Step 1: Prepare the Hardware Prepare the required UWB devices, an ESP32-S3 Ethernet gateway, and the necessary cables. Step 2: Configure the UWB Nodes Assign the ID and role (Anchor or Tag) for each UWB node using the configuration tool. Step 3: Flash the Firmware and Connect the Devices Upload the firmware to the ESP32-S3 gateway, connect it to the local network, and establish communication with the UWB nodes. Step 4: Start Real-Time Positioning Open the PC application, set the anchor coordinates, and visualize the tag position updating in real time. Follow the steps above; I’ve built a complete Ethernet UWB positioning system with UWB devices. And the PC is keeping updating the trajectory of the moving tag. The firmware and PC application are available for anyone interested in reproducing or modifying the project. I'd be interested to hear how others structure their UWB localization systems. Feel free to talk in the comments below!
 
-13h ago
+14h ago
 
 ---
 
@@ -76,7 +76,7 @@ I've been experimenting with an Ethernet-based UWB localization setup recently a
 
 I have decided to spend time on robotics , I really like it but I didn't like the professor who did it in uni so I never took his class.I have worked with motors before and I'm catching up with robotics math , however I still encountered something that I can't understand.Suppose you calculate everything and then you go to order a part from 3d printing to actually build your robot,how do you design that part?I mean how do you ensure that the combination of parts that you order can create a rotation using a motor?Do you get what I'm talking about?For example let's say that a robotic arm is made of 2 parts 1 immovable part which holds the rotating part on some axis?How do you actually design that?And why do some configurations work while others don't?Do you know a tutorial on the sort of where I can find the answer to my question?
 
-17h ago
+18h ago
 
 ---
 
@@ -100,7 +100,7 @@ That's a drone in the picture! Computational design generated a spinning drone t
 
 some Robotnews over the last month. 10 different stories. Humanoids, Software, economic and manufacturing. see the ongoing shift.
 
-🔗 [youtu.be](https://youtu.be/vAHDVbGN8mg?is=9gdw8uVYbvi4EW7l) • 16h ago
+🔗 [youtu.be](https://youtu.be/vAHDVbGN8mg?is=9gdw8uVYbvi4EW7l) • 17h ago
 
 ---
 
@@ -128,15 +128,7 @@ TechCrunch • 1d ago
 
 General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
 
-NVIDIA Blog • 2d ago
-
----
-
-**[A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/)**
-
-The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
-
-WIRED • 1d ago
+NVIDIA Blog • 3d ago
 
 ---
 
@@ -148,11 +140,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
+**[Fear of humanoid robots spurs human workers to strike at Hyundai auto factory](https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/)**
 
-A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
+Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
 
-The Mercury News • 2d ago
+Ars Technica • 2d ago
+
+---
+
+**[A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/)**
+
+The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
+
+WIRED • 1d ago
 
 ---
 
@@ -162,31 +162,35 @@ Reuters • 1d ago
 
 ---
 
-**[He sold his last company to Palantir. Now he's betting $32 million that robots can fix construction's labor crisis](https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)**
+**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
 
-Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
+A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
 
-Fortune • 3d ago
-
----
-
-**[The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1)**
-
-WSJ • 3d ago
+The Mercury News • 2d ago
 
 ---
 
-**[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)**
+**[Physical AI's ultimate goal: Self-learning factory robots](https://finance.yahoo.com/technology/ai/articles/physical-ais-ultimate-goal-self-190854843.html)**
 
-NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
+Hyundai workers in South Korea went on a partial strike this week, concerned about exactly what the physical AI sector aims to achieve: fully automated factories that pick, pack and push packages through with little need for lights or labor. Physical AI represents a fundamental shift in warehouse automation logic. Traditional automation relies on explicit, preprogrammed rules that break down when conditions change, while physical AI systems learn from data and extrapolate to novel situations. Th
 
-NVIDIA Blog • 3d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Nvidia partners with Japan robotics firms on AI development](https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/)**
+**[Hyundai Reportedly Looking To Take Total Control Of Robotics Giant Boston Dynamics](https://www.engadget.com/2216427/hyundai-reportedly-looking-to-buy-all-of-boston-dynamics-from-softbank/)**
 
-Reuters • 2d ago
+Hyundai could soon own Boston Dynamics in full.
+
+Engadget • 2d ago
+
+---
+
+**[A Red Bull engineer got bored with Formula One. His robotics startup just raised $55 million.](https://www.businessinsider.com/f1-engineer-quit-redbull-to-build-army-of-factory-robots-2026-7)**
+
+microagi has raised $55 million to put AI-powered robots to work in factories.
+
+Business Insider • 2d ago
 
 ---
 
@@ -200,7 +204,17 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 3K • 👍 70 • 💬 20 • ⏱️ 4:18 • 7h ago
+👁️ 4K • 👍 84 • 💬 30 • ⏱️ 4:18 • 8h ago
+
+---
+
+**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
+
+The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
+
+📺 Job Othoniel
+
+👁️ 15K • 👍 125 • 💬 41 • ⏱️ 0:27 • 1d ago
 
 ---
 
@@ -210,25 +224,37 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Air Photography
 
-👁️ 36K • 👍 979 • 💬 135 • ⏱️ 7:15 • 2d ago
+👁️ 38K • 👍 1K • 💬 137 • ⏱️ 7:15 • 2d ago
 
 ---
 
-**[IRI 2026 Saturday | FRC Event | Indiana Robotics Invitational](https://www.youtube.com/watch?v=ikCPFWdH8jI)**
+**[These Robots Fight Better Than You Think | URKL: Ultimate Humanoid Robot Knockout League](https://www.youtube.com/watch?v=DUbbBdSGHE8)**
 
-Event Results: https://www.thebluealliance.com/event/2026iri or https://frc-events.firstinspires.org/2026/ININD The mission of IRI is ...
+Watch the most intense moments from the Ultimate Humanoid Robot Knockout League (URKL), where cutting-edge humanoid ...
 
-📺 FUN Robotics Network
+📺 The Construct Robotics Institute
 
-👁️ 8K • 👍 92 • 5d ago
+👁️ 31K • 👍 498 • 💬 143 • ⏱️ 2:18 • 1d ago
 
 ---
 
-**[Lucky find: Unboxing a discarded interactive robot. 🤖#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=haIFkiPBw8w)**
+**[Meet the robot clothes that dress you](https://www.youtube.com/watch?v=aLmtcrj5gro)**
 
-📺 Smarttoy Ruko
+Researchers at South Korea's KAIST and Stanford University have unveiled clothing embedded with air-powered 'vine' robots that ...
 
-👁️ 18K • 👍 102 • ⏱️ 0:19 • 12h ago
+📺 Reuters
+
+👁️ 25K • 👍 211 • 💬 32 • ⏱️ 2:07 • 1d ago
+
+---
+
+**[Fixing a $210 auction robot, Part 6: Full Speed! #engineering #fanuc #robotics](https://www.youtube.com/watch?v=a1Z5q5grVpw)**
+
+Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
+
+📺 Excessive Overkill
+
+👁️ 13K • 👍 569 • 💬 26 • ⏱️ 2:09 • 10h ago
 
 ---
 
@@ -242,53 +268,31 @@ America sent Ukraine more than 100 Forterra Lancer autonomous ground robots, sel
 
 ---
 
-**[Giant Robot Transformation &amp; Combination 6-in-1 Car Toys: Tobot V Master V vs Mini Force Super Cops](https://www.youtube.com/watch?v=ooYhmiBqHvk)**
-
-Welcome to the ultimate satisfying giant transforming robot toys comparison! In this video, we pit two iconic Korean mecha giants ...
-
-📺 Bob ToysReview
-
-👁️ 6K • 👍 23 • 💬 2 • ⏱️ 4:53 • 15h ago
-
----
-
-**[Xiaomi Humanoid Robot Now Builds Cars With 98% Accuracy](https://www.youtube.com/watch?v=V_X7Wh08HJg)**
-
-Humanoid robots are no longer just concepts. Xiaomi has released an uncut factory video showing its latest robots performing real ...
-
-📺 DPCcars
-
-👁️ 5K • 👍 76 • 💬 18 • ⏱️ 3:56 • 3d ago
-
----
-
-**[Scrap Metal Turned Into an Incredible Walking Mech! 🔥⚙️ #Robot #DIY](https://www.youtube.com/watch?v=7D1uTF2ssSY)**
-
-Can a pile of rusty scrap become a giant mechanical suit? ⚙️ Watch an incredible build as a man and woman transform ...
-
-📺 Shelter Guide
-
-👁️ 128K • 👍 2K • 💬 17 • ⏱️ 0:40 • 6d ago
-
----
-
 **[ACT-2: Preview](https://www.youtube.com/watch?v=d7I1wj0Gkik)**
 
 Today, we preview ACT-2, the first robotics model to achieve reliability by unifying broad generalization with high performance.
 
 📺 Sunday Robotics
 
-👁️ 37K • 👍 2K • 💬 155 • ⏱️ 2:26 • 2d ago
+👁️ 38K • 👍 2K • 💬 157 • ⏱️ 2:26 • 2d ago
 
 ---
 
-**[These Robots Fight Better Than You Think | URKL: Ultimate Humanoid Robot Knockout League](https://www.youtube.com/watch?v=DUbbBdSGHE8)**
+**[Lucky find: Unboxing a discarded interactive robot. 🤖#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=haIFkiPBw8w)**
 
-Watch the most intense moments from the Ultimate Humanoid Robot Knockout League (URKL), where cutting-edge humanoid ...
+📺 Smarttoy Ruko
 
-📺 The Construct Robotics Institute
+👁️ 20K • 👍 117 • ⏱️ 0:19 • 13h ago
 
-👁️ 29K • 👍 479 • 💬 139 • ⏱️ 2:18 • 1d ago
+---
+
+**[Giant Robot Transformation &amp; Combination 6-in-1 Car Toys: Tobot V Master V vs Mini Force Super Cops](https://www.youtube.com/watch?v=ooYhmiBqHvk)**
+
+Welcome to the ultimate satisfying giant transforming robot toys comparison! In this video, we pit two iconic Korean mecha giants ...
+
+📺 Bob ToysReview
+
+👁️ 6K • 👍 26 • 💬 2 • ⏱️ 4:53 • 16h ago
 
 ---
 
