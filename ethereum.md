@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-19T20:50:04.986387+00:00'
+updated: '2026-07-19T21:53:11.015997+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 20:50 UTC  
+**Last Updated:** July 19, 2026 at 21:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +4.9%  
-**30d:** +7.1%  
-**90d:** -19.9%  
-**1y:** -50.4%  
+**24h:** -0.2%  
+**7d:** +4.8%  
+**30d:** +6.9%  
+**90d:** -20.0%  
+**1y:** -50.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.24B
+**Market Cap:** $224.45B
 Rank #2
 
 **Circulating Supply:** 120,682,835 ETH
@@ -62,11 +62,27 @@ No max supply
 -62.4%
 
 **All-Time Low:** $0.43
-+428997.0%
++429438.2%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Quantum Computers Are Not a Threat to 128-bit Symmetric Keys](https://www.reddit.com/r/ethereum/comments/1v0klnd/quantum_computers_are_not_a_threat_to_128bit/)**
+
+There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.
+
+🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 13h ago
+
+---
+
+**[Daily General Discussion July 19, 2026](https://www.reddit.com/r/ethereum/comments/1v0hdtv/daily_general_discussion_july_19_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+16h ago
+
+---
 
 **[Tokenized stocks are finally real on Ethereum](https://www.reddit.com/r/ethereum/comments/1v03qts/tokenized_stocks_are_finally_real_on_ethereum/)**
 
@@ -76,17 +92,17 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ---
 
-**[Daily General Discussion July 18, 2026](https://www.reddit.com/r/ethereum/comments/1uzmkyi/daily_general_discussion_july_18_2026/)**
+**[76% of Ethereum tokens launched in the last 2 months are scams (we re-ran our 78k-token study)](https://www.reddit.com/r/ethereum/comments/1uzu32m/76_of_ethereum_tokens_launched_in_the_last_2/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams
 
 1d ago
 
 ---
 
-**[76% of Ethereum tokens launched in the last 2 months are scams (we re-ran our 78k-token study)](https://www.reddit.com/r/ethereum/comments/1uzu32m/76_of_ethereum_tokens_launched_in_the_last_2/)**
+**[Daily General Discussion July 18, 2026](https://www.reddit.com/r/ethereum/comments/1uzmkyi/daily_general_discussion_july_18_2026/)**
 
-Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 1d ago
 
@@ -130,22 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily General Discussion July 15, 2026](https://www.reddit.com/r/ethereum/comments/1uww3o5/daily_general_discussion_july_15_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
-**[Cointer - Free wallet monitoring and dashboard for BTC/ETH with push notifications (beta)](https://www.reddit.com/r/ethereum/comments/1ux4r44/cointer_free_wallet_monitoring_and_dashboard_for/)**
-
-Hello, A little while ago I posted about a project concept I had. The idea was a web-app and a mobile app where you add the wallet address you want to watch. Cointer checks the blockchain for you. When a watched address gets a deposit, you get a notification and a dashboard of activity/totals. No accounts, no passwords. Just a single personal key that ties everything together. This is aimed at people who receive donations via crypto, streamers, or people who want to watch their wallets. Of course, most wallets already have this feature, but this takes it to the next step. It allows you to be notified over mobile push notifications, ntfy, Discord, Slack, or just by email. Then, it compiles (up to 90 days) all transactions into a clean dashboard showing your totals for the last day, week, and month with a breakdown by watched addresses and assets. There is an activity page with a full history of deposits and pagination. I've developed quite a few OSS projects and gotten sponsors from many hosting companies which is what allowed me to set this up for a beta. However, for this beta the amount of users I can support is quite small. There is no real catch here. Know that there is a 10 wallet and 10 notification channel limit and notifications are not always guaranteed. More info in the comments. Thank you for reading, Luke
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,9 +158,9 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
-**[Ethereum to $250,000? Tom Lee Reveals 'ETH 2.0' as Rare Pattern Signals ‘Parabolic Rally’](https://finance.yahoo.com/markets/crypto/articles/ethereum-250-000-tom-lee-105343156.html)**
+**[Tom Lee Says Ethereum's Future Is 'Exponential,' Cites Analyst's $2,200 ETH Target](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereums-future-085641202.html)**
 
-Tom Lee says Ethereum is entering a “2.0 era” that could deliver “radical upside” as Wall Street adoption expands. Ethereum bulls claim a rare ...
+BitMine Immersion Technologies Inc. (NYSE:BMNR) Chair Tom Lee made a case on Thursday that Ethereum (CRYPTO: ETH) is bottoming and entering the next phase of mainstream adoption Crypto Winter Over? In his latest message to shareholders, Lee said that the “crypto spring is here.” He cited the research of Tom DeMark, a popular technical analyst and Bitmine Immersion’s timing advisor for cryptocurrency acquisitions, who believes everything is set for a “market bottom” and that the “Ethereum risk-re
 
 Yahoo Finance • 2d ago
 
@@ -170,15 +170,7 @@ Yahoo Finance • 2d ago
 
 Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
 
-CryptoSlate • 3h ago
-
----
-
-**[Ethereum's new blob data reduces L2 fees but li...](https://pluang.com/en/news-feed/biaya-l2-lebih-murah-dapat-mengurangi-pembakaran-eth-dari-biaya-blob)**
-
-Ethereum's EIP-4844 upgrade introduced blobs, a cheaper data space for Layer 2 (L2) rollups, lowering transaction fees by creating a separate fee market where blob base fees are burned. However, ETH burn hasn't surged because blob space remains plentiful, keeping base fees low even as L2 usage grows. Major L2s like Base and Arbitrum dominate blob demand, but efficient data compression and off-chain data availability reduce burn pressure. Investors should monitor blob base fees, batch sizes, and L1 gas fees to gauge future ETH burn trends amid evolving L2 strategies and network upgrades.
-
-Pluang • 4h ago
+CryptoSlate • 4h ago
 
 ---
 
@@ -186,7 +178,7 @@ Pluang • 4h ago
 
 Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -214,14 +206,6 @@ Decrypt • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Prevails: Analyst Says BTC's 'Clear Breakthrou](https://www.benzinga.com/crypto/cryptocurrency/26/07/60515898/bitcoin-ethereum-xrp-dogecoin-slide-as-fear-sentiment-prevails)**
-
-Leading cryptocurrencies fell alongside stocks on Thursday, July 16, as the chip selloff and Iran tensions impacted risk appetite.
-
-Benzinga • 2d ago
-
----
-
 **[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
 
 Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
@@ -230,17 +214,33 @@ CoinMarketCap • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Prevails: Analyst Says BTC's 'Clear Breakthrou](https://www.benzinga.com/crypto/cryptocurrency/26/07/60515898/bitcoin-ethereum-xrp-dogecoin-slide-as-fear-sentiment-prevails)**
+
+Leading cryptocurrencies fell alongside stocks on Thursday, July 16, as the chip selloff and Iran tensions impacted risk appetite.
+
+Benzinga • 2d ago
+
+---
+
+**[BlackRock bought almost $350 million of these cryptocurrencies in 5 days](https://finbold.com/blackrock-bought-almost-350-million-of-these-cryptocurrencies-in-5-days/)**
+
+BlackRock attracted nearly $350 million in net inflows across its spot cryptocurrency exchange-traded funds over five trading days.
+
+Finbold • 11h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
+**[&quot;Ethereum Just Did the Impossible &amp; Nobody Is Talking About It&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
 
-DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 The Rollup
+📺 Savvy Finance
 
-👁️ 958 • 👍 42 • 💬 90 • ⏱️ 8:46 • 5h ago
+👁️ 379 • 👍 39 • 💬 51 • ⏱️ 16:17 • 2h ago
 
 ---
 
@@ -250,7 +250,27 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 493 • 💬 207 • ⏱️ 30:25 • 10h ago
+👁️ 4K • 👍 521 • 💬 196 • ⏱️ 30:25 • 11h ago
+
+---
+
+**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
+
+DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
+
+📺 The Rollup
+
+👁️ 2K • 👍 46 • 💬 83 • ⏱️ 8:46 • 6h ago
+
+---
+
+**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
+
+INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
+
+📺 CryptoWendyO
+
+👁️ 562 • 👍 66 • 💬 7 • ⏱️ 11:23 • 33m ago
 
 ---
 
@@ -260,47 +280,17 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 185 • ⏱️ 12:55 • 1d ago
+👁️ 28K • 👍 2K • 💬 186 • ⏱️ 12:55 • 2d ago
 
 ---
 
-**[&quot;Ethereum Just Did the Impossible &amp; Nobody Is Talking About It&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
+**[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Savvy Finance
+📺 Crypto World
 
-👁️ 78 • 👍 7 • ⏱️ 16:17 • 1h ago
-
----
-
-**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
-
-In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 259 • 💬 30 • ⏱️ 6:22 • 17h ago
-
----
-
-**[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 7K • 👍 167 • 💬 153 • ⏱️ 13:08 • 1d ago
-
----
-
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
-
-Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
-
-📺 Gareth Soloway
-
-👁️ 43K • 👍 3K • 💬 116 • ⏱️ 14:48 • 2d ago
+👁️ 510 • 👍 51 • 💬 90 • ⏱️ 22:19 • 46m ago
 
 ---
 
@@ -310,27 +300,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 239 • 💬 92 • ⏱️ 20:43 • 2d ago
+👁️ 7K • 👍 240 • 💬 92 • ⏱️ 20:43 • 2d ago
 
 ---
 
-**[BITCOIN LIQUIDATION TRAP: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_d29G-U3IPY)**
+**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
 
-BITCOIN LIQUIDATION TRAP: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 7K • 👍 270 • 💬 173 • ⏱️ 20:30 • 22h ago
+👁️ 5K • 👍 262 • 💬 32 • ⏱️ 6:22 • 18h ago
 
 ---
 
-**[Ethereum Bottom &amp; Top Price Targets | My Bear To Bull Market Strategy](https://www.youtube.com/watch?v=1aP9klUtdbM)**
+**[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
 
-Ethereum is down almost 70% from its all-time high, but could this be one of the best long-term buying opportunities of the current ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 Coin Bureau Trading
+📺 Milk Road
 
-👁️ 2K • 👍 113 • 💬 19 • ⏱️ 9:10 • 1d ago
+👁️ 7K • 👍 169 • 💬 154 • ⏱️ 13:08 • 1d ago
+
+---
+
+**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
+
+Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
+
+📺 The Rollup
+
+👁️ 11K • 👍 272 • 💬 28 • ⏱️ 7:55 • 2d ago
 
 ---
 

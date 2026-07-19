@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-19T20:50:04.981049+00:00'
+updated: '2026-07-19T21:53:11.009831+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 20:50 UTC  
+**Last Updated:** July 19, 2026 at 21:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +3.5%  
-**30d:** +0.3%  
-**90d:** -15.5%  
-**1y:** -45.0%  
+**24h:** -0.7%  
+**7d:** +3.3%  
+**30d:** +0.1%  
+**90d:** -15.6%  
+**1y:** -45.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1291.10B
+**Market Cap:** $1290.60B
 Rank #1
 
-**Circulating Supply:** 20,058,621 BTC
+**Circulating Supply:** 20,058,637 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.9%
+-49.0%
 
 **All-Time Low:** $67.81
-+94821.1%
++94785.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 This is it, guys. I've been in this crypto market since 2016, through all the Bears and Bulls. And I'm saying this with the highest confidence: THIS IS IT. This is what we've been waiting for. And it has arrived. So, stop acting gloomy. Max your confidence. Pull that DCA amount to the MAX and enjoy another bull run in the next 3 years.
 
-14h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ The Bitcoin Runs project reaches Germany for the first time! This GPS art run tr
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Brutally honest here, has anyone been overly obsessed with Bitcoin? Like you know it’s the future (even though price manipulation), it’s your habit, your hobby, and it honestly makes you a little crazy.
 
-20h ago
+21h ago
 
 ---
 
@@ -129,7 +129,7 @@ Brutally honest here, has anyone been overly obsessed with Bitcoin? Like you kno
 
 Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average price is af 87k, not sure where it will go so I’m heavily buying Voo/blue chip stocks
 
-21h ago
+22h ago
 
 ---
 
@@ -137,7 +137,7 @@ Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average
 
 Should I include bitcoin in my diversified investments or should I stick to blue chip stocks? I’m relatively risk adverse and have at least 25 yrs before retirement. I invested in Russian stocks before and it did not go well… then I invested in Chinese stocks and it plummeted… then I invested in Japanese telecoms and it stayed flat for yrs. The US tech stocks have given stellar returns and I wonder if bitcoin can beat magnificient seven?
 
-9h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Should I include bitcoin in my diversified investments or should I stick to blue
 
 Which is good, we're still so early. People always hating on something when it's down, and they hated even more when its up, except they are in. Same fucking every cycle.
 
-13h ago
+14h ago
 
 ---
 
@@ -153,7 +153,7 @@ Which is good, we're still so early. People always hating on something when it's
 
 These are the only numbers I focus on. Adoption is all you need to keep an eye on. The rest is noise. Number will go up as demand increases and Bitcoin is uniquely set up for this based on its shrinking issuance and capped supply. The first shows adoption counts by institutions, corporates, and nations and states. The second shows the estimated BTC held. Both tables exclude treasury companies like Strategy in the corporate figures, so the numbers would be even higher if the treasury companies had been included.
 
-22h ago
+23h ago
 
 ---
 
@@ -177,14 +177,6 @@ The Block • 1d ago
 
 ---
 
-**[The CLARITY Act Could Be in Trouble. This is the Only Crypto I'm Buying Right Now.](https://finance.yahoo.com/markets/crypto/articles/clarity-act-could-trouble-only-165722326.html)**
-
-Bitcoin will thrive, regardless of what happens to the CLARITY Act.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Why bitcoin is the better form of hard money than gold](https://finance.yahoo.com/video/why-bitcoin-better-form-hard-180000609.html)**
 
 Scott Melker discusses where the currency prospects of bitcoin (BTC-USD) historically stand when compared to the likes of gold (GC=F), which once backed the US dollar.
@@ -193,15 +185,23 @@ Scott Melker discusses where the currency prospects of bitcoin (BTC-USD) histori
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin’s Progress Holds The Secret To The AI Boom](https://www.forbes.com/sites/digital-assets/2026/07/19/bitcoins-progress--holds-the-secret-to-the-ai-boom/)**
+**[Brian Armstrong Admits Bitcoin Didn’t Deliver Satoshi’s Vision, Something Else Did](https://finance.yahoo.com/markets/crypto/articles/brian-armstrong-admits-bitcoin-didn-200000026.html)**
 
-They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
+Coinbase CEO Brian Armstrong says Bitcoin missed Satoshi's vision as everyday money while stablecoins took the payments role.
 
-Forbes • 10h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[MicroStrategy CEO: Wall Street’s Biggest Banks are Locked in a Tight Bitcoin Race](https://finance.yahoo.com/markets/crypto/articles/microstrategy-ceo-wall-street-biggest-203000673.html)**
+
+Goldman, JPMorgan, and Citi trail Fidelity in MicroStrategy's new Bitcoin Banking Adoption Index rankings this year.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -211,15 +211,17 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
+**[Bitcoin’s Progress Holds The Secret To The AI Boom](https://www.forbes.com/sites/digital-assets/2026/07/19/bitcoins-progress--holds-the-secret-to-the-ai-boom/)**
 
-Investing.com • 11h ago
+They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
+
+Forbes • 11h ago
 
 ---
 
-**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
+**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
 
-Investor's Business Daily • 2d ago
+Investing.com • 12h ago
 
 ---
 
@@ -231,11 +233,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Toby Doeden: A bitcoin evangelist and anti-property-tax crusader who wants to be governor](https://southdakotasearchlight.com/2026/07/16/toby-doeden-a-bitcoin-evangelist-and-anti-property-tax-crusader-who-wants-to-be-governor/)**
+**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
 
-Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
-
-South Dakota Searchlight • 3d ago
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -269,7 +269,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
 
-⬆️ 2 • 💬 0 • 13h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 2 • 💬 0 • 14h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
@@ -283,7 +283,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 72 • ⏱️ 19:34 • 1d ago
+👁️ 20K • 👍 1K • 💬 75 • ⏱️ 19:34 • 2d ago
 
 ---
 
@@ -293,7 +293,7 @@ Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 1K • 💬 106 • ⏱️ 31:29 • 1d ago
+👁️ 30K • 👍 1K • 💬 106 • ⏱️ 31:29 • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 213 • 💬 84 • ⏱️ 18:50 • 22h ago
+👁️ 3K • 👍 216 • 💬 92 • ⏱️ 18:50 • 23h ago
 
 ---
 
@@ -313,7 +313,17 @@ August is right around the corner and that means BIG moves coming up (Clarity, S
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 500 • 💬 33 • ⏱️ 29:49 • 1d ago
+👁️ 8K • 👍 501 • 💬 34 • ⏱️ 29:49 • 1d ago
+
+---
+
+**[BITCOIN: WAKE UP BEFORE YOU MISS IT](https://www.youtube.com/watch?v=TfuaB89Yp4s)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 7K • 👍 578 • 💬 499 • ⏱️ 19:49 • 1d ago
 
 ---
 
@@ -323,27 +333,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 7K • 👍 586 • 💬 70 • ⏱️ 7:29 • 11h ago
-
----
-
-**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
-
-Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
-
-📺 Prof G Markets
-
-👁️ 41K • 👍 485 • 💬 168 • ⏱️ 1:42 • 2d ago
-
----
-
-**[Massive Companies Invest In Bitcoin &amp; Crypto = Going To ZERO!?](https://www.youtube.com/watch?v=j9G7xxqUvdU)**
-
-If Bitcoin and crypto is going to zero then why are so many MASSIVE companies investing in the space? ARe they INSANE??! No ...
-
-📺 Digital Asset News
-
-👁️ 9K • 👍 515 • 💬 38 • ⏱️ 27:00 • 2d ago
+👁️ 8K • 👍 609 • 💬 70 • ⏱️ 7:29 • 12h ago
 
 ---
 
@@ -353,7 +343,27 @@ Is Bitcoin already forming a bottom — or is the worst still ahead? Scott Melke
 
 📺 Cointelegraph
 
-👁️ 11K • 👍 330 • 💬 141 • ⏱️ 26:17 • 2d ago
+👁️ 11K • 👍 334 • 💬 141 • ⏱️ 26:17 • 2d ago
+
+---
+
+**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
+
+Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
+
+📺 Prof G Markets
+
+👁️ 41K • 👍 490 • 💬 169 • ⏱️ 1:42 • 2d ago
+
+---
+
+**[Massive Companies Invest In Bitcoin &amp; Crypto = Going To ZERO!?](https://www.youtube.com/watch?v=j9G7xxqUvdU)**
+
+If Bitcoin and crypto is going to zero then why are so many MASSIVE companies investing in the space? ARe they INSANE??! No ...
+
+📺 Digital Asset News
+
+👁️ 9K • 👍 514 • 💬 38 • ⏱️ 27:00 • 2d ago
 
 ---
 
@@ -363,17 +373,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 44K • 👍 2K • 💬 58 • ⏱️ 50:17 • 1d ago
-
----
-
-**[The Bitcoin Mortgage Hack That Changes Everything - CJ Konstantinos](https://www.youtube.com/watch?v=wm0VlIjJ4T0)**
-
-Bitcoin #Crypto #finance In this episode, CJ Konstantinos explains how People's Reserve is rethinking lending by treating Bitcoin ...
-
-📺 The Wolf Of All Streets
-
-👁️ 3K • 👍 222 • 💬 194 • ⏱️ 1:20:02 • 7h ago
+👁️ 45K • 👍 2K • 💬 58 • ⏱️ 50:17 • 1d ago
 
 ---
 
