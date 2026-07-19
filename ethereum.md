@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-19T11:58:46.648394+00:00'
+updated: '2026-07-19T13:42:41.221177+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 11:58 UTC  
+**Last Updated:** July 19, 2026 at 13:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +5.4%  
-**30d:** +7.6%  
-**90d:** -19.5%  
-**1y:** -50.2%  
+**24h:** +1.3%  
+**7d:** +5.2%  
+**30d:** +7.4%  
+**90d:** -19.7%  
+**1y:** -50.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-17h ago
+19h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams
 
-23h ago
+1d ago
 
 ---
 
 **["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello, A little while ago I posted about a project concept I had. The idea was a web-app and a mobile app where you add the wallet address you want to watch. Cointer checks the blockchain for you. When a watched address gets a deposit, you get a notification and a dashboard of activity/totals. No accounts, no passwords. Just a single personal key that ties everything together. This is aimed at people who receive donations via crypto, streamers, or people who want to watch their wallets. Of course, most wallets already have this feature, but this takes it to the next step. It allows you to be notified over mobile push notifications, ntfy, Discord, Slack, or just by email. Then, it compiles (up to 90 days) all transactions into a clean dashboard showing your totals for the last day, week, and month with a breakdown by watched addresses and assets. There is an activity page with a full history of deposits and pagination. I've developed quite a few OSS projects and gotten sponsors from many hosting companies which is what allowed me to set this up for a beta. However, for this beta the amount of users I can support is quite small. There is no real catch here. Know that there is a 10 wallet and 10 notification channel limit and notifications are not always guaranteed. More info in the comments. Thank you for reading, Luke
 
-3d ago
+4d ago
 
 ---
 
@@ -162,21 +162,21 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 Ethereum's recent network upgrades have doubled its transaction capacity and reduced mainnet fees to under $0.02, enhancing user experience and supporting rollup solutions like Arbitrum and Optimism. The launch of US-based spot Ethereum ETFs in July 2024 has increased institutional and retail access to ETH, positioning it alongside Bitcoin as a mainstream investment. However, Ethereum faces strong competition from Solana, which offers faster and cheaper transactions within a unified ecosystem. Additionally, lower fees on layer-2 solutions may limit revenue growth for Ethereum's base layer, raising questions about long-term price appreciation despite increased network activity.
 
-Pluang • 13m ago
+Pluang • 1h ago
+
+---
+
+**[Ethereum gains as whale dumps $4.66M BTC to ope...](https://pluang.com/en/news-feed/paus-bitcoin-jual-untuk-ethereum-22juta-dolar-akan-membantu-harga-eth-naik)**
+
+Ethereum has shown strength by rebounding from $1800 to trade around $1866, up 1.7% daily. A whale sold 72 BTC worth $4.66 million and opened a 20x long position in 12,000 ETH valued at $22.4 million, already profiting $275k. Market data shows increased buying in Ethereum futures, with a Long/Short Ratio above 1 and strong momentum indicators suggesting a bullish trend. If ETH holds above $1875, it could surpass $1900 and continue its upward movement.
+
+Pluang • 27m ago
 
 ---
 
 **[Ethereum and Solana offer distinct advantages a...](https://pluang.com/en/news-feed/ethereum-vs-solana-perbandingan-dalam-dunia-crypto-2025)**
 
 Ethereum remains the dominant smart-contract platform with strong institutional support and a mature ecosystem, focusing on layer-2 scaling solutions. Solana offers faster, cheaper transactions with fees around $0.00025, attracting high-frequency applications and stablecoin growth surpassing $11 billion. Both now have US spot ETFs, increasing institutional investment options. Ethereum is seen as a more conservative, long-term choice, while Solana presents higher growth potential but with greater risk and volatility. Investors often diversify across both to balance stability and growth in crypto portfolios.
-
-Pluang • 14m ago
-
----
-
-**[Crypto markets cautiously gain as softer inflation boosts hopes, but geopolitical risks and Fed meeting loom.](https://pluang.com/en/news-feed/harga-kripto-bitcoin-tahan-64ribu-ethereum-lebih-baik)**
-
-Crypto markets ended the week with modest gains after a softer-than-expected inflation report briefly lifted Bitcoin above $65,000 and Ethereum over $1,900. However, ongoing U.S. airstrikes against Iran and geopolitical tensions around the Strait of Hormuz dampened risk appetite, keeping prices volatile. Ethereum outperformed with strong technical signs, while Bitcoin remains pressured by ETF outflows and a hawkish Federal Reserve stance. Investors now focus on the upcoming Fed meeting on July 28–29, which could determine whether crypto prices stabilize or decline further, alongside watching ETF inflows and geopolitical developments.
 
 Pluang • 1h ago
 
@@ -190,11 +190,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
+
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
+
+Stocktwits • 2d ago
+
+---
+
 **[Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?](https://www.fool.com/investing/2026/07/19/down-62-from-its-high-is-ethereum-a-value-play-or/)**
 
 Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
 
-The Motley Fool • 5h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -214,19 +222,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
-
-Stocktwits • 12h ago
-
----
-
 **[Ethereum Faces a $10 Billion Liquidation Battle: Will ETH Price Rally to $2,200 or Crash to $1,400?](https://coinpedia.org/price-analysis/ethereum-faces-a-10-billion-liquidation-battle-will-eth-price-rally-to-2200-or-crash-to-1400/)**
 
 Ethereum is approaching a critical resistance zone, with a breakout potentially paving the way for a rally toward the $2,200 liquidity cluster.
 
-Coinpedia • 1d ago
+Coinpedia • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 901 • 👍 221 • 💬 83 • ⏱️ 30:25 • 2h ago
+👁️ 901 • 👍 221 • 💬 83 • ⏱️ 30:25 • 3h ago
 
 ---
 
@@ -280,7 +280,7 @@ In this video I break down the current Ethereum price action and the key resista
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 24 • ⏱️ 6:22 • 8h ago
+👁️ 3K • 👍 201 • 💬 24 • ⏱️ 6:22 • 10h ago
 
 ---
 
@@ -290,7 +290,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 150 • 💬 172 • ⏱️ 13:08 • 22h ago
+👁️ 6K • 👍 150 • 💬 172 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN LIQUIDATION TRAP: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 6K • 👍 250 • 💬 202 • ⏱️ 20:30 • 13h ago
+👁️ 6K • 👍 250 • 💬 202 • ⏱️ 20:30 • 15h ago
 
 ---
 
@@ -320,7 +320,7 @@ Construire une vraie stratégie RWA en DeFi, pas à pas https://go.rifter.fr/rwa
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 521 • 👍 74 • 💬 32 • ⏱️ 19:50 • 1h ago
+👁️ 521 • 👍 74 • 💬 32 • ⏱️ 19:50 • 3h ago
 
 ---
 

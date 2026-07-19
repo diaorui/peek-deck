@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-19T11:58:46.651651+00:00'
+updated: '2026-07-19T13:42:41.224416+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 19, 2026 at 11:58 UTC  
+**Last Updated:** July 19, 2026 at 13:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Robert Scoble says an unnamed investor told him Anthropic is buying robot AI dev
 
 On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
 
-🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 23h ago
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 1d ago
 
 ---
 
@@ -116,11 +116,11 @@ ROS News for the week of July 13th, 2026   Yesterday our colleagues at the Neobo
 
 ## Google News: "robotics"
 
-**[NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/)**
+**[A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/)**
 
-General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
+The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-NVIDIA Blog • 3d ago
+WIRED • 2d ago
 
 ---
 
@@ -132,41 +132,23 @@ Ars Technica • 2d ago
 
 ---
 
-**[A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/)**
-
-The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
-
-WIRED • 2d ago
-
----
-
 **['World's 1st mass-produced humanoid robot' motors to market in China](https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/)**
 
 People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
 
-New Atlas • 5h ago
+New Atlas • 7h ago
+
+---
+
+**[Ultra-bionic humanoid robots steal the show at WAIC 2026](https://www.chinadaily.com.cn/a/202607/19/WS6a5ccb22a310986e2b4660f1.html)**
+
+China Daily • 39m ago
 
 ---
 
 **[South Korea-US team unveils robotic technology that dresses the wearer](https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/)**
 
 Reuters • 2d ago
-
----
-
-**[Physical AI's ultimate goal: Self-learning factory robots](https://finance.yahoo.com/technology/ai/articles/physical-ais-ultimate-goal-self-190854843.html)**
-
-Hyundai workers in South Korea went on a partial strike this week, concerned about exactly what the physical AI sector aims to achieve: fully automated factories that pick, pack and push packages through with little need for lights or labor. Physical AI represents a fundamental shift in warehouse automation logic. Traditional automation relies on explicit, preprogrammed rules that break down when conditions change, while physical AI systems learn from data and extrapolate to novel situations. Th
-
-Yahoo Finance • 1d ago
-
----
-
-**[Quadruped robots shine at WAIC in Shanghai as human-machine collaboration enters new phase](https://www.globaltimes.cn/page/202607/1366283.shtml)**
-
-At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
-
-Global Times • 9h ago
 
 ---
 
@@ -178,19 +160,35 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
+**[Physical AI's ultimate goal: Self-learning factory robots](https://finance.yahoo.com/technology/ai/articles/physical-ais-ultimate-goal-self-190854843.html)**
 
-A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
+Hyundai workers in South Korea went on a partial strike this week, concerned about exactly what the physical AI sector aims to achieve: fully automated factories that pick, pack and push packages through with little need for lights or labor. Physical AI represents a fundamental shift in warehouse automation logic. Traditional automation relies on explicit, preprogrammed rules that break down when conditions change, while physical AI systems learn from data and extrapolate to novel situations. Th
 
-The Mercury News • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Sunday Robotics says its robot can fold clothes it has never seen in unfamiliar homes](https://www.businessinsider.com/sunday-robotics-memo-home-robot-fold-laundry-99-success-2026-7)**
+**[The Other Asimov](https://lareviewofbooks.org/article/asimov-robotics-laws-claude-chatbots-consciousness-human-interaction/)**
 
-Sunday Robotics, a $1.15 billion startup, will place Memo robots in homes through a beta program this fall.
+Isaac Asimov’s laws of robotics have influenced AI’s development, but to what end?
 
-Business Insider • 2d ago
+Los Angeles Review of Books • 1h ago
+
+---
+
+**[AI brings sex robots to life as men 'convert dolls into real women'](https://www.dailystar.co.uk/news/weird-news/ai-brings-sex-robots-life-37438831)**
+
+Sex doll owners and manufacturers are using advanced AI video tech, chatbots and robotics to bring silicone companions to life with eerie, interactive realism
+
+Daily Star • 1d ago
+
+---
+
+**[They Trained Robots on 100 Million Videos. Here's What Happened](https://www.cnet.com/videos/they-trained-robots-on-100-million-videos-heres-what-happened/)**
+
+Rhoda AI is betting the future of robotics starts with internet video, not lab data. We visited the company's headquarters to see how its Direct Video Action model learns physics from hundreds of millions of clips.
+
+CNET • 4h ago
 
 ---
 
@@ -204,7 +202,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 12K • 👍 190 • 💬 65 • ⏱️ 4:18 • 21h ago
+👁️ 12K • 👍 190 • 💬 65 • ⏱️ 4:18 • 23h ago
 
 ---
 
@@ -252,7 +250,7 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Smarttoy Ruko
 
-👁️ 6K • 👍 58 • ⏱️ 0:20 • 8h ago
+👁️ 6K • 👍 58 • ⏱️ 0:20 • 10h ago
 
 ---
 
@@ -262,7 +260,7 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 22K • 👍 787 • 💬 31 • ⏱️ 2:09 • 22h ago
+👁️ 22K • 👍 787 • 💬 31 • ⏱️ 2:09 • 1d ago
 
 ---
 
@@ -272,7 +270,7 @@ Can a pile of rusty scrap become a giant mechanical suit? ⚙️ Watch an incred
 
 📺 Shelter Guide
 
-👁️ 129K • 👍 2K • 💬 17 • ⏱️ 0:40 • 6d ago
+👁️ 129K • 👍 2K • 💬 17 • ⏱️ 0:40 • 7d ago
 
 ---
 

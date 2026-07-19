@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-19T11:58:46.642265+00:00'
+updated: '2026-07-19T13:42:41.215031+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 11:58 UTC  
+**Last Updated:** July 19, 2026 at 13:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.5%  
 **7d:** +3.4%  
 **30d:** +0.2%  
-**90d:** -15.5%  
+**90d:** -15.6%  
 **1y:** -45.0%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I sold every other asset I owned, stopped my pension contributions, took out loans, and we even sold our old flat in Delhi. Altogether, I have invested around $90,000 to $95,000 into BTC. I started buying near $100k, continued as it climbed toward $126k, and added more during the recent lows. This is risky, but it was calculated. My salary covers the loan payments, and based on my calculations, I should be able to repay everything within two and a half years. I would not recommend anyone blindly copy this. But after years of learning about Bitcoin, money, inflation, and scarcity, this is where my conviction is strongest. Maybe it becomes the biggest mistake of my life. Maybe it changes my family’s future. Repay the debt. Secure the Bitcoin. Come back in 10 years.
 
-15h ago
+17h ago
 
 ---
 
@@ -89,7 +89,7 @@ I sold every other asset I owned, stopped my pension contributions, took out loa
 
 Remember this post!
 
-19h ago
+21h ago
 
 ---
 
@@ -97,7 +97,7 @@ Remember this post!
 
 The Bitcoin Runs project reaches Germany for the first time! This GPS art run traces the ₿ symbol through the streets of Stuttgart — the birthplace of the automobile, now on the frontier of sound money. 34 runs and counting across 20 countries 🌍 More at bitcoinruns.org
 
-18h ago
+20h ago
 
 ---
 
@@ -113,7 +113,7 @@ Quick disclosure up front, since this sub is (rightly) strict about self-promoti
 
 Martii Malmi (AKA Sirius) “COPA trial” email #210 Date: Sun, 18 Jul 2010 16:23:10 +0100 From: Satoshi Nakamoto satoshin@gmx.com Subject: Re: Fwd: bitcoin hosting To: mmalmi@cc.hut.fi Please promise me you won't make a switch now. The last thing we need is switchover hassle on top of the slashdot flood of work we've got now. I'm losing my mind there are so many things that need to be done. Also, it would suck to be on a smaller, less reliable host just to save a measly $20. I will try to think of a polite way to ask the donor if he sent it, but right now there are other higher priority things that are going to bump even that for a few days. Would a donation of bitcoins help in the short term? mmalmi@cc.hut.fi wrote: > Rackspace has very good support, good backend, good connections and > nicely scaling cloud based virtual servers. I got this offer from Thufir: > > ----- > Hi Sirius, > > Check out www.citrusdesignstudio.com. You will see through the portfolio > that > I am a real business with many clients. > > That is my business that I provide managed hosting through. > I also do unmanaged VPSes. > > Normally I would charge $15/mo for 512MB. > I will do it for $10/mo for you. > > To see my pricing, go to www.linnode.com. I match everything they have > except > their great panel -- you have to email or call my people. > > I provide VPS services normally for 3/4ths the posted cost on linnode.com. > (Rackspace is even more expensive.) > > I will do it for 1/2 of linnode's price for you. > > It scales linerally just like linnodes, so for 2048 MB of memory, I would > charge $40, etc. > > Later! > ----- > > That would be worth considering, if they have good datacenters and > connections. $10 / month is about $20 less than what Rackspace costs. On > the other hand, Rackspace prices are no problem if the donation is to > arrive. >
 
-🔗 [satoshitimeline.com](https://satoshitimeline.com/657) • 20h ago
+🔗 [satoshitimeline.com](https://satoshitimeline.com/657) • 22h ago
 
 ---
 
@@ -121,7 +121,7 @@ Martii Malmi (AKA Sirius) “COPA trial” email #210 Date: Sun, 18 Jul 2010 16:
 
 Bitcoin's price has historically tracked a long-term power law trendline — a curve that grows at a constant rate on a log-log time/price scale. I've built a small website to track how the price is doing relative to the trendline. Historically when the price falls below the trendline it signals a great buying opportunity. Similarly, price going above the trendline might flash a sell signal. Nobody knows the future price, but now is a good time to turn your DCAs - now proven by a mathematical formula. here is the link: https://www.btcpower.ai/
 
-16h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ Adam Back has a buy order in for 21 million Bitcoin at $0.01 cents. I don’t th
 
 Hi, is Revolut X good for simply doing DCA? Has anyone had any experience selling on it? Is there enough trading volume and liquidity? I’d especially appreciate feedback from European residents. Thanks
 
-17h ago
+19h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hi, is Revolut X good for simply doing DCA? Has anyone had any experience sellin
 
 https://t.co/N5cwqMLHxc
 
-🔗 [X (formerly Twitter)](https://x.com/nvk/status/2078498536400777700?s=20) • 20h ago
+🔗 [X (formerly Twitter)](https://x.com/nvk/status/2078498536400777700?s=20) • 21h ago
 
 ---
 
@@ -161,19 +161,19 @@ https://t.co/N5cwqMLHxc
 
 ## Google News: "bitcoin"
 
+**[Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets](https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets)**
+
+Large traders on Deribit show expectations for a price rally to $72,000 by month end, right when the Fed meets.
+
+CoinDesk • 23h ago
+
+---
+
 **[Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some](https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some)**
 
 A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.
 
-The Block • 17h ago
-
----
-
-**[DOG Mode explains Bitcoin's next governance fight](https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight)**
-
-Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.
-
-CoinDesk • 18h ago
+The Block • 18h ago
 
 ---
 
@@ -181,15 +181,15 @@ CoinDesk • 18h ago
 
 They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
 
-Forbes • 1h ago
+Forbes • 3h ago
 
 ---
 
-**[Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?](https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-says-043500546.html)**
+**[Larry Fink Says Bitcoin Has 'More Stability' at Current Levels: BlackRock CEO 'Very Bullish on the Markets'](https://finance.yahoo.com/markets/crypto/articles/larry-fink-says-bitcoin-more-120122326.html)**
 
-Historically, Bitcoin has rallied from steep market downturns to hit new all-time highs.
+Larry Fink, CEO of BlackRock Inc., stated on Wednesday that Bitcoin is more stable at current levels, with excessive leverage largely washed out of the system. Is Fink Betting On Bitcoin’s Bull Run? During an interview with CNBC, Fink said...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -207,23 +207,15 @@ South Dakota Searchlight • 2d ago
 
 ---
 
-**['The market collapsed:' After 3 years of operation, Wolfe County bitcoin operation shuts down](https://www.lex18.com/news/lex-18-investigates/the-market-collapsed-after-3-years-of-operation-wolfe-county-bitcoin-operation-shuts-down)**
+**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
 
-A Bitcoin mining operation that generated nearly three years of noise complaints from residents along Kentucky Route 1036 is much quieter now.
-
-LEX 18 News • 1d ago
+Investing.com • 4h ago
 
 ---
 
 **[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
 
-Investor's Business Daily • 1d ago
-
----
-
-**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
-
-Investing.com • 2h ago
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -231,7 +223,15 @@ Investing.com • 2h ago
 
 Grantham isn't the first high-profile investor to eschew Bitcoin.
 
-The Motley Fool • 12h ago
+The Motley Fool • 14h ago
+
+---
+
+**['The market collapsed:' After 3 years of operation, Wolfe County bitcoin operation shuts down](https://www.lex18.com/news/lex-18-investigates/the-market-collapsed-after-3-years-of-operation-wolfe-county-bitcoin-operation-shuts-down)**
+
+A Bitcoin mining operation that generated nearly three years of noise complaints from residents along Kentucky Route 1036 is much quieter now.
+
+LEX 18 News • 1d ago
 
 ---
 
@@ -265,7 +265,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
 
-⬆️ 2 • 💬 0 • 4h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 2 • 💬 0 • 6h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
@@ -289,7 +289,7 @@ August is right around the corner and that means BIG moves coming up (Clarity, S
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 472 • 💬 30 • ⏱️ 29:49 • 17h ago
+👁️ 7K • 👍 472 • 💬 30 • ⏱️ 29:49 • 19h ago
 
 ---
 
@@ -299,7 +299,7 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 190 • 💬 91 • ⏱️ 18:50 • 13h ago
+👁️ 3K • 👍 190 • 💬 91 • ⏱️ 18:50 • 15h ago
 
 ---
 
@@ -309,7 +309,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 537 • 💬 463 • ⏱️ 19:49 • 19h ago
+👁️ 6K • 👍 537 • 💬 463 • ⏱️ 19:49 • 21h ago
 
 ---
 
@@ -319,7 +319,7 @@ Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 109 • ⏱️ 31:29 • 15h ago
+👁️ 23K • 👍 1K • 💬 109 • ⏱️ 31:29 • 17h ago
 
 ---
 
@@ -337,7 +337,7 @@ Exchanges I used for trading: BLOFIN: https://partner.blofin.com/d/TeamUndergrou
 
 📺 Team Underground
 
-👁️ 3K • 👍 140 • 💬 25 • ⏱️ 8:59 • 16h ago
+👁️ 3K • 👍 140 • 💬 25 • ⏱️ 8:59 • 18h ago
 
 ---
 
@@ -347,7 +347,7 @@ Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I b
 
 📺 Prof G Markets
 
-👁️ 39K • 👍 460 • 💬 162 • ⏱️ 1:42 • 1d ago
+👁️ 39K • 👍 460 • 💬 162 • ⏱️ 1:42 • 2d ago
 
 ---
 
