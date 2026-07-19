@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-19T21:53:11.015997+00:00'
+updated: '2026-07-19T22:52:46.909932+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 21:53 UTC  
+**Last Updated:** July 19, 2026 at 22:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.
 
-🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 13h ago
+🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 14h ago
 
 ---
 
@@ -80,7 +80,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 2d ago
 
 Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
 
-CryptoSlate • 4h ago
+CryptoSlate • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ CryptoSlate • 4h ago
 
 Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -194,7 +194,7 @@ Stocktwits • 2d ago
 
 Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
 
-TradingView • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ Benzinga • 2d ago
 
 BlackRock attracted nearly $350 million in net inflows across its spot cryptocurrency exchange-traded funds over five trading days.
 
-Finbold • 11h ago
+Finbold • 12h ago
 
 ---
 
@@ -240,7 +240,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 379 • 👍 39 • 💬 51 • ⏱️ 16:17 • 2h ago
+👁️ 379 • 👍 39 • 💬 51 • ⏱️ 16:17 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 521 • 💬 196 • ⏱️ 30:25 • 11h ago
+👁️ 4K • 👍 521 • 💬 196 • ⏱️ 30:25 • 12h ago
 
 ---
 
@@ -260,7 +260,7 @@ DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cyc
 
 📺 The Rollup
 
-👁️ 2K • 👍 46 • 💬 83 • ⏱️ 8:46 • 6h ago
+👁️ 2K • 👍 46 • 💬 83 • ⏱️ 8:46 • 7h ago
 
 ---
 
@@ -270,7 +270,7 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 562 • 👍 66 • 💬 7 • ⏱️ 11:23 • 33m ago
+👁️ 562 • 👍 66 • 💬 7 • ⏱️ 11:23 • 1h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 510 • 👍 51 • 💬 90 • ⏱️ 22:19 • 46m ago
+👁️ 510 • 👍 51 • 💬 90 • ⏱️ 22:19 • 1h ago
 
 ---
 
@@ -310,7 +310,7 @@ In this video I break down the current Ethereum price action and the key resista
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 262 • 💬 32 • ⏱️ 6:22 • 18h ago
+👁️ 5K • 👍 262 • 💬 32 • ⏱️ 6:22 • 19h ago
 
 ---
 

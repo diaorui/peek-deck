@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-19T21:53:11.009831+00:00'
+updated: '2026-07-19T22:52:46.903867+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 21:53 UTC  
+**Last Updated:** July 19, 2026 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 This is it, guys. I've been in this crypto market since 2016, through all the Bears and Bulls. And I'm saying this with the highest confidence: THIS IS IT. This is what we've been waiting for. And it has arrived. So, stop acting gloomy. Max your confidence. Pull that DCA amount to the MAX and enjoy another bull run in the next 3 years.
 
-15h ago
+16h ago
 
 ---
 
@@ -93,11 +93,27 @@ I sold every other asset I owned, stopped my pension contributions, took out loa
 
 ---
 
+**[Bitcoin and health](https://www.reddit.com/r/Bitcoin/comments/1v121f9/bitcoin_and_health/)**
+
+Well, if it's true that for every lucky one there are 99 who cry... here I am... I lost $50,000 of my savings, plus the pain of all the potential gains if I'd just bought that one instead of that other one, or if I'd just held on for longer. I started in 2022 and I've never managed to hold on. When I saw a 10% loss, that was already a lot; on $50,000, I was down $5... I feel like I've failed, and I'll never recover this loss, in my country it's hard to save $500 in three months. Someone like me who has never managed to chase the bull?
+
+1h ago
+
+---
+
 **[I just sold apartment and put everything in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uzzugh/i_just_sold_apartment_and_put_everything_in/)**
 
 Remember this post!
 
 1d ago
+
+---
+
+**[What if](https://www.reddit.com/r/Bitcoin/comments/1v0tjff/what_if/)**
+
+Hello everyone, So I got some btc/eth/bnb in a hardware wallet LEDGER. I am thinking what if my pendrive stops working or LEDGER site itself goes bankrupt. How do I recover my coins? You will say "you need to write down your keys", yes yes but HOW do I get my ledger hardware keys?
+
+7h ago
 
 ---
 
@@ -109,27 +125,19 @@ The Bitcoin Runs project reaches Germany for the first time! This GPS art run tr
 
 ---
 
+**[The weird moment when you stop checking the price every day.](https://www.reddit.com/r/Bitcoin/comments/1v0ipd7/the_weird_moment_when_you_stop_checking_the_price/)**
+
+Been holding for a few years now and something shifted recently-I just... stopped checking the price constantly. Used to open the app first thing in the morning, now I genuinely go weeks without looking, and when I do check it's more out of curiosity than anxiety. Didn't consciously decide to do this, it just kind of happened once I mentally filed it as long term thing I'm not touching instead of thing I need to monitor. Weirdly freeing compared to how I used to feel about it, checking constantly and letting the daily swings mess with my mood. Anyone else go through this shift? How long did it take before you stopped checking obsessively, and did something specific trigger it or did it just gradually fade on its own?
+
+16h ago
+
+---
+
 **[Daily Discussion, July 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1v0ikc2/daily_discussion_july_19_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
-
----
-
-**[BTC Mental Health](https://www.reddit.com/r/Bitcoin/comments/1v0c5j7/btc_mental_health/)**
-
-Brutally honest here, has anyone been overly obsessed with Bitcoin? Like you know it’s the future (even though price manipulation), it’s your habit, your hobby, and it honestly makes you a little crazy.
-
-21h ago
-
----
-
-**[Would you be comfortable with putting 10 percent of your savings into bitcoin and the other 90 percent in blue chip stocks and index funds that follow sp500](https://www.reddit.com/r/Bitcoin/comments/1v0auui/would_you_be_comfortable_with_putting_10_percent/)**
-
-Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average price is af 87k, not sure where it will go so I’m heavily buying Voo/blue chip stocks
-
-22h ago
+16h ago
 
 ---
 
@@ -141,17 +149,9 @@ Should I include bitcoin in my diversified investments or should I stick to blue
 
 ---
 
-**[Very funny, people make fun of someone putting everything in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1v0jrtu/very_funny_people_make_fun_of_someone_putting/)**
+**[Would you be comfortable with putting 10 percent of your savings into bitcoin and the other 90 percent in blue chip stocks and index funds that follow sp500](https://www.reddit.com/r/Bitcoin/comments/1v0auui/would_you_be_comfortable_with_putting_10_percent/)**
 
-Which is good, we're still so early. People always hating on something when it's down, and they hated even more when its up, except they are in. Same fucking every cycle.
-
-14h ago
-
----
-
-**[Forget price action](https://www.reddit.com/r/Bitcoin/comments/1v09o8j/forget_price_action/)**
-
-These are the only numbers I focus on. Adoption is all you need to keep an eye on. The rest is noise. Number will go up as demand increases and Bitcoin is uniquely set up for this based on its shrinking issuance and capped supply. The first shows adoption counts by institutions, corporates, and nations and states. The second shows the estimated BTC held. Both tables exclude treasury companies like Strategy in the corporate figures, so the numbers would be even higher if the treasury companies had been included.
+Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average price is af 87k, not sure where it will go so I’m heavily buying Voo/blue chip stocks
 
 23h ago
 
@@ -185,7 +185,7 @@ Scott Melker discusses where the currency prospects of bitcoin (BTC-USD) histori
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 3h ago
 
 Coinbase CEO Brian Armstrong says Bitcoin missed Satoshi's vision as everyday money while stablecoins took the payments role.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 1h ago
 
 Goldman, JPMorgan, and Citi trail Fidelity in MicroStrategy's new Bitcoin Banking Adoption Index rankings this year.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -215,13 +215,13 @@ Bloomberg.com • 2d ago
 
 They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
 **[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
 
-Investing.com • 12h ago
+Investing.com • 13h ago
 
 ---
 
@@ -255,7 +255,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
 
-⬆️ 2 • 💬 1 • 4d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
+⬆️ 2 • 💬 1 • 5d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
 
 ---
 
@@ -269,7 +269,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
 
-⬆️ 2 • 💬 0 • 14h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 2 • 💬 0 • 15h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
@@ -303,7 +303,7 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 216 • 💬 92 • ⏱️ 18:50 • 23h ago
+👁️ 3K • 👍 216 • 💬 92 • ⏱️ 18:50 • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 8K • 👍 609 • 💬 70 • ⏱️ 7:29 • 12h ago
+👁️ 8K • 👍 609 • 💬 70 • ⏱️ 7:29 • 13h ago
 
 ---
 
