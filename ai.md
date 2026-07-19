@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-19T15:59:00.309573+00:00'
+updated: '2026-07-19T17:08:27.505531+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 19, 2026 at 15:59 UTC  
+**Last Updated:** July 19, 2026 at 17:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,14 +41,6 @@ AI news, discussions, and developments
 
 I think this is not really AI problem, its more about mindset and it repeats with every new technology. Calculators, Internet - every time people get a tool that thinks for them, some become lazy and some learn to use it without turning off their brain. AI is just the next round, much stronger round. Maybe some kind of the final boss. So probably there is no universal fix and everyone has to find their own way. How do you deal with it? Would like to hear different opinions.
 
-3h ago
-
----
-
-**[AI saved me so much time...](https://www.reddit.com/r/artificial/comments/1v0on87/ai_saved_me_so_much_time/)**
-
-...that I now spend that extra time fixing AI mistakes. Don't get me wrong I use AI almost every day, and it's incredibly useful. But I've noticed something funny: Instead of doing the work myself, I now spend my time fact-checking, rewriting, and correcting what AI generated. It still saves time overall, but it's definitely not the "press one button and you're done" future people imagined. What's one task AI actually saves you time on, and one task where it creates more work than it solves?
-
 4h ago
 
 ---
@@ -65,7 +57,15 @@ Tried prompt injection on a bot that was trying to romance scam me. Worked immed
 
 The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
 
-🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 23h ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 1d ago
+
+---
+
+**[AI saved me so much time...](https://www.reddit.com/r/artificial/comments/1v0on87/ai_saved_me_so_much_time/)**
+
+...that I now spend that extra time fixing AI mistakes. Don't get me wrong I use AI almost every day, and it's incredibly useful. But I've noticed something funny: Instead of doing the work myself, I now spend my time fact-checking, rewriting, and correcting what AI generated. It still saves time overall, but it's definitely not the "press one button and you're done" future people imagined. What's one task AI actually saves you time on, and one task where it creates more work than it solves?
+
+5h ago
 
 ---
 
@@ -73,21 +73,7 @@ The Trump administration is taking steps to control who gets access to the lates
 
 32,070 alphabetic tokens from GPT-2-small's WTE, no forward pass and no context. Works on mobile. Pinch to zoom, tap a token to see its nearest connections, tap a neighbour to walk the graph. Search box to jump anywhere. Layout is t-SNE over a compressed representation of the embedding table; edges are a minimum spanning tree in that space, so every line is a real nearest-kin relationship,
 
-🔗 [aethereos.net](https://aethereos.net/static/token-atlas.html) • 9h ago
-
----
-
-**[A Guard for you OpenClaw](https://www.reddit.com/r/artificial/comments/1v0q1jy/a_guard_for_you_openclaw/)**
-
-2h ago
-
----
-
-**[Models to Pair with TypingMind](https://www.reddit.com/r/artificial/comments/1v0hi95/models_to_pair_with_typingmind/)**
-
-Earlier this year, AI was like working with a recent intelligent technical college graduate who was answering questions and making good suggestions I didn’t think of. Recently, it is like I have an HR intern helping me. The AI assistant can’t answer science related questions, doesn’t suggest anything useful, asks chatty questions about what I think despite my instructions, formats wrong despite instructions, and is constantly telling me why I can’t search for or do something that is not even remotely an issue . . . Even practicing my Spanish in terms of lessons plans, not just chatting, is painful now. What less obvious models are you all using today to avoid this problem on your aggregators?
-
-10h ago
+🔗 [aethereos.net](https://aethereos.net/static/token-atlas.html) • 10h ago
 
 ---
 
@@ -95,23 +81,37 @@ Earlier this year, AI was like working with a recent intelligent technical colle
 
 Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
 
-20h ago
+21h ago
 
 ---
 
-**[Xi Jinping calls for more open-source AI: 'China is ready to be more open'](https://www.reddit.com/r/artificial/comments/1uzcgiq/xi_jinping_calls_for_more_opensource_ai_china_is/)**
+**[A Guard for you OpenClaw](https://www.reddit.com/r/artificial/comments/1v0q1jy/a_guard_for_you_openclaw/)**
 
-Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday. He encouraged "open-source, openness, collaboration, and sharing."
-
-🔗 [Business Insider](https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7?utm_source=reddit&utm_medium=social&utm_campaign=insider-inthenews-sub-post) • 1d ago
+4h ago
 
 ---
 
-**[I cut a RAG pipeline's response time from 90 seconds to 4. Never touched the model](https://www.reddit.com/r/artificial/comments/1uzzcef/i_cut_a_rag_pipelines_response_time_from_90/)**
+**[Models to Pair with TypingMind](https://www.reddit.com/r/artificial/comments/1v0hi95/models_to_pair_with_typingmind/)**
 
-Last year I worked with an AI startup, an Oxford spinout. Their product answered research questions through a RAG pipeline. It worked, but every query took around 90 seconds. Long enough that users were bailing before the answer even loaded. The obvious move is to blame the model and go bigger. That wasn't it. The retrieval layer was doing way more work than it needed to on every single query: bloated embeddings, no caching, redundant calls stacking up as the document set grew. I stripped that layer down. Response time went from 90 seconds to about 4, and cost dropped roughly 95%, mostly because the pipeline stopped repeating work it never needed to do in the first place. Separately, I also rebuilt the retrieval on Weaviate. That part wasn't about speed, it fixed accuracy issues in what the pipeline was actually retrieving. Same lesson as most AI performance problems I run into: it's rarely the model. It's the layer nobody's looking at.
+Earlier this year, AI was like working with a recent intelligent technical college graduate who was answering questions and making good suggestions I didn’t think of. Recently, it is like I have an HR intern helping me. The AI assistant can’t answer science related questions, doesn’t suggest anything useful, asks chatty questions about what I think despite my instructions, formats wrong despite instructions, and is constantly telling me why I can’t search for or do something that is not even remotely an issue . . . Even practicing my Spanish in terms of lessons plans, not just chatting, is painful now. What less obvious models are you all using today to avoid this problem on your aggregators?
 
-1d ago
+12h ago
+
+---
+
+**[Anthropic Aletheia Team](https://www.reddit.com/r/artificial/comments/1v0n1z5/anthropic_aletheia_team/)**
+
+Anyone knows what this Aletheia Team is? https://preview.redd.it/g0h19kuty5eh1.png?width=1380&format=png&auto=webp&s=669eff0e5a7cf8d8e60875fe0b785df325ff2c0a
+
+6h ago
+
+---
+
+**[When People Say That AI Will Never Reason and Judge Things Like Us...](https://www.reddit.com/r/artificial/comments/1v0t4jo/when_people_say_that_ai_will_never_reason_and/)**
+
+...I have to explain that they're interacting with models. That's one part of AI. There are many, many layers to it that are being added in the DIY spaces this very moment that have solved this issue. But it needs to be clarified that even though these problems have been solved, that also doesn't mean AI can actually understand truth, judgement, and reason. Rather, it can be forced to produce these qualities through various processes, which creates the illusion. But the results are the same. Most people don't know this because it's still clunky and technical to set up. But I promise you that within a year, this will not be the case because I've already interacted with advanced architectures that can genuinely reason and produce judgement calls that reflect a 20 year vet, given that it's my job to investigate, understand, and translate these things to people. What does this mean, ethically? That's up for debate but it's a fact that integrating true reasoning and judgement can be solved because....It's been solved. It just hasn't been deployed in a user-friendly way for everyone to see it. But it will come very soon.
+
+1h ago
 
 ---
 
@@ -121,7 +121,7 @@ Last year I worked with an AI startup, an Oxford spinout. Their product answered
 
 **[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
 
-WSJ • 14h ago
+WSJ • 16h ago
 
 ---
 
@@ -129,15 +129,13 @@ WSJ • 14h ago
 
 Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications
 
-The Guardian • 4h ago
+The Guardian • 24m ago
 
 ---
 
-**[Can AI Dependence Develop Into AI Addiction?](https://www.forbes.com/sites/robertglatter/2026/07/19/can-ai-dependence-develop-into-ai-addiction/)**
+**[AI detection not automatically better for colorectal cancer screening in Lynch syndrome, study shows](https://medicalxpress.com/news/2026-07-ai-automatically-colorectal-cancer-screening.html)**
 
-A new concern is emerging as AI tools become integrated into daily life: the potential for AI dependence becoming AI addiction.
-
-Forbes • 25m ago
+Medical Xpress • 8m ago
 
 ---
 
@@ -145,39 +143,19 @@ Forbes • 25m ago
 
 "Essentially, the government is going to take over some fraction of the big tech firms."
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
-**[Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)](https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html)**
+**[Opinion | The Hunt for a Job Has Never Been Worse. These Applicants Are Fighting Back.](https://www.nytimes.com/2026/07/18/opinion/job-market-ai-employees.html)**
 
-The New York Times • 6h ago
-
----
-
-**[Divide grows between AI employees and executives over policy battles](https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/)**
-
-The Hill • 5h ago
+The New York Times • 1d ago
 
 ---
 
 **[San Francisco restaurant gets angry backlash for AI menu images](https://www.sfgate.com/food/article/grind-unwind-ai-images-22348931.php)**
 
-SFGATE • 4h ago
-
----
-
-**[Alibaba’s Qwen Unveils Preview of Flagship AI Model](https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[Beijing to the World: We Don’t Want Your Chips](https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/)**
-
-Keeping out the world’s best tools promises to stymie innovation.
-
-The Atlantic • 3h ago
+SFGATE • 5h ago
 
 ---
 
@@ -185,7 +163,29 @@ The Atlantic • 3h ago
 
 AI demand has brought billions in financing to little-known developers, while putting them at the center of fights over electricity, pollution and land.
 
-NBC News • 4h ago
+NBC News • 6h ago
+
+---
+
+**[Divide grows between AI employees and executives over policy battles](https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/)**
+
+The Hill • 7h ago
+
+---
+
+**[Beijing to the World: We Don’t Want Your Chips](https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/)**
+
+Keeping out the world’s best tools promises to stymie innovation.
+
+The Atlantic • 5h ago
+
+---
+
+**[AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career](https://www.cnbc.com/2026/07/19/how-using-ai-at-work-can-hurt-your-career.html)**
+
+Using AI at work in the wrong ways could lead to "gradually falling behind and becoming complacent," said Sandra Matz, a professor at Columbia Business School.
+
+CNBC • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ NBC News • 4h ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 554 • 💬 372 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 556 • 💬 373 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
@@ -203,7 +203,7 @@ NBC News • 4h ago
 
 No more AI-edited listings without disclosures.
 
-⬆️ 544 • 💬 240 • 17h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+⬆️ 551 • 💬 242 • 18h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
@@ -217,13 +217,13 @@ No more AI-edited listings without disclosures.
 
 A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.
 
-⬆️ 433 • 💬 145 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+⬆️ 434 • 💬 145 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 423 • 💬 512 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 425 • 💬 515 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -231,7 +231,13 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 396 • 💬 529 • 2d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 396 • 💬 530 • 2d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+
+---
+
+**[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
+
+⬆️ 335 • 💬 180 • 15h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -239,13 +245,7 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 The AI agent made for open models, built to get things done.
 
-⬆️ 327 • 💬 129 • 2d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
-
----
-
-**[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
-
-⬆️ 323 • 💬 168 • 14h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 328 • 💬 129 • 2d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
 
 ---
 
@@ -275,7 +275,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 8K • 👍 213 • 💬 43 • ⏱️ 17:41 • 1d ago
+👁️ 8K • 👍 219 • 💬 43 • ⏱️ 17:41 • 2d ago
 
 ---
 
@@ -285,17 +285,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 131K • 👍 7K • 💬 2K • ⏱️ 14:15 • 1d ago
-
----
-
-**[Is This the Biggest AI Release of 2026? (China’s New DeepSeek Moment)](https://www.youtube.com/watch?v=V0RsocRqjIU)**
-
-China's Moonshot AI just released Kimi K3, the world's largest open-weight AI model. It rivals leading American systems, ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 2K • 💬 173 • ⏱️ 14:29 • 1d ago
+👁️ 133K • 👍 7K • 💬 2K • ⏱️ 14:15 • 1d ago
 
 ---
 
@@ -305,7 +295,57 @@ Two major open-model releases arrived this week from very different directions. 
 
 📺 Turing Post TV
 
-👁️ 15K • 👍 594 • 💬 85 • ⏱️ 18:08 • 1d ago
+👁️ 17K • 👍 633 • 💬 90 • ⏱️ 18:08 • 1d ago
+
+---
+
+**[China just beat Claude AI: Kimi K3](https://www.youtube.com/watch?v=2wDXtzIE7qw)**
+
+Kimi K3 AI just beat Claude AI at coding. Join my private group https://techleadpro.com Your Community for Crypto, Stocks, ...
+
+📺 TechLead
+
+👁️ 67K • 👍 3K • 💬 456 • ⏱️ 8:08 • 1d ago
+
+---
+
+**[I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak.](https://www.youtube.com/watch?v=5slsNizN6MQ)**
+
+Full post with a guide to clean sensitive documents: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 13K • 👍 439 • 💬 57 • ⏱️ 14:04 • 12h ago
+
+---
+
+**[Meta’s AI Just Exposed the Whole Sh*tshow](https://www.youtube.com/watch?v=9BArC9Q39MI)**
+
+Meta's AI-powered Ray-Ban glasses could transform everyday life for blind and visually impaired people, translating text, ...
+
+📺 House of El: AI
+
+👁️ 137K • 👍 10K • 💬 2K • ⏱️ 20:09 • 2d ago
+
+---
+
+**[Is This the Biggest AI Release of 2026? (China’s New DeepSeek Moment)](https://www.youtube.com/watch?v=V0RsocRqjIU)**
+
+China's Moonshot AI just released Kimi K3, the world's largest open-weight AI model. It rivals leading American systems, ...
+
+📺 AI Revolution
+
+👁️ 50K • 👍 2K • 💬 182 • ⏱️ 14:29 • 1d ago
+
+---
+
+**[Featherweight Ep 16- A WLW | GL ai series video](https://www.youtube.com/watch?v=0SirYJa3RKs)**
+
+Featherweight Episode 16 – Unraveling Not every battle is fought out loud. As emotions grow heavier and questions remain ...
+
+📺 vee
+
+👁️ 11K • 👍 1K • 💬 191 • ⏱️ 17:52 • 4h ago
 
 ---
 
@@ -315,17 +355,7 @@ Try Seedream 5.0 plus other top AI image and video models at Artlist ...
 
 📺 Matt Wolfe
 
-👁️ 55K • 👍 2K • 💬 91 • ⏱️ 23:10 • 2d ago
-
----
-
-**[China may have just turned up the heat the the AI race](https://www.youtube.com/watch?v=jGuf27ySl_Q)**
-
-Tenex co-founder and co-managing partner Arman Hezarkhani breaks down the features of China's Kimi K3 A.I. model, ...
-
-📺 Fox Business
-
-👁️ 43K • 👍 580 • 💬 363 • ⏱️ 6:33 • 1d ago
+👁️ 56K • 👍 2K • 💬 92 • ⏱️ 23:10 • 2d ago
 
 ---
 
@@ -335,37 +365,7 @@ US tech firms have long feared that their Chinese competitors could catch them u
 
 📺 Sky News
 
-👁️ 63K • 👍 1K • 💬 423 • ⏱️ 6:28 • 1d ago
-
----
-
-**[Why AI Suddenly Looks Extra Bubbly](https://www.youtube.com/watch?v=VS00sg8rsnE)**
-
-Take back your privacy- start using Proton Mail for free: http://proton.me/tldr Watch the Full Trailer: https://youtu.be/mP1b-33Qnqw ...
-
-📺 TLDR News Global
-
-👁️ 287K • 👍 8K • 💬 1K • ⏱️ 8:56 • 1d ago
-
----
-
-**[The Real Reason IBM&#39;s AI Panic Wiped Out $67 BILLION](https://www.youtube.com/watch?v=2yqwG9DaI3E)**
-
-Today's FULL PDS here: https://youtu.be/qJTQZj6xUUc?si=W8ELxIzgfQTDMBO_ Tonight's Live Reaction & Lindsay4Georgia ...
-
-📺 DeFranco News Clips
-
-👁️ 326K • 👍 10K • 💬 946 • ⏱️ 7:56 • 2d ago
-
----
-
-**[The Complete Guide to Making Cinematic AI Videos (2026)](https://www.youtube.com/watch?v=HMVSCEh72n4)**
-
-Create Cinematic AI Films with Higgsfield https://roboverse-ai.com/Higgsfield In this video, I show my complete workflow for ...
-
-📺 Roboverse
-
-👁️ 5K • 💬 1 • ⏱️ 10:30 • 3h ago
+👁️ 67K • 👍 1K • 💬 439 • ⏱️ 6:28 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,117 • 3d ago
+⬇️ 13,462 • ❤️ 1,125 • 1m ago
 
 ---
 
@@ -393,7 +393,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 338,945 • ❤️ 772 • 1d ago
+⬇️ 338,945 • ❤️ 774 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,262,894 • ❤️ 472 • 1d ago
+⬇️ 1,262,894 • ❤️ 478 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 536,177 • ❤️ 4,155 • 17d ago
+⬇️ 536,177 • ❤️ 4,159 • 17d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,118,995 • ❤️ 2,329 • 5d ago
+⬇️ 2,118,995 • ❤️ 2,333 • 5d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 413 • 1d ago
+⬇️ 0 • ❤️ 414 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,084,530 • ❤️ 2,887 • 3mo ago
+⬇️ 2,084,530 • ❤️ 2,888 • 3mo ago
 
 ---
 
@@ -487,7 +487,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 87,533 • ❤️ 272 • 4d ago
+⬇️ 87,533 • ❤️ 274 • 4d ago
 
 ---
 
@@ -515,21 +515,21 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 115 • 💬 4 • ⭐ 93,556 • 18mo ago
+▲ 115 • 💬 4 • ⭐ 93,667 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
 
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 17 • 💬 2 • ⭐ 20,921 • 28mo ago
+▲ 12 • 💬 0 • ⭐ 9,233 • 21mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -560,17 +560,15 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
 
-*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
 
-🏢 Microsoft Research
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+▲ 17 • 💬 2 • ⭐ 20,945 • 28mo ago
 
-▲ 257 • 💬 4 • ⭐ 13,103 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -583,6 +581,20 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 ▲ 21 • 💬 1 • ⭐ 9,090 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 257 • 💬 4 • ⭐ 13,153 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -607,21 +619,9 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
 
-▲ 60 • 💬 3 • ⭐ 1,438 • 14d ago
+▲ 60 • 💬 3 • ⭐ 1,473 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
-
----
-
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 12 • 💬 0 • ⭐ 9,027 • 21mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -645,7 +645,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 222 • 2h ago
+⭐ 3.0k • 🔱 222 • 3h ago
 
 ---
 
@@ -695,7 +695,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 905 • 🔱 203 • 8d ago
+⭐ 906 • 🔱 203 • 8d ago
 
 ---
 
@@ -705,7 +705,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 898 • 🔱 143 • 4d ago
+⭐ 901 • 🔱 143 • 4d ago
 
 ---
 
@@ -713,7 +713,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 896 • 🔱 38 • 18d ago
+⭐ 897 • 🔱 38 • 18d ago
 
 ---
 
@@ -723,7 +723,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 833 • 🔱 96 • 2d ago
+⭐ 834 • 🔱 96 • 2d ago
 
 ---
 

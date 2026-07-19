@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-19T15:59:00.318062+00:00'
+updated: '2026-07-19T17:08:27.513915+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 15:59 UTC  
+**Last Updated:** July 19, 2026 at 17:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +3.6%  
-**30d:** +0.4%  
-**90d:** -15.4%  
+**24h:** +0.2%  
+**7d:** +3.7%  
+**30d:** +0.5%  
+**90d:** -15.3%  
 **1y:** -44.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1294.86B
+**Market Cap:** $1294.34B
 Rank #1
 
-**Circulating Supply:** 20,058,521 BTC
+**Circulating Supply:** 20,058,571 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -48.8%
 
 **All-Time Low:** $67.81
-+95104.2%
++95061.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 This is it, guys. I've been in this crypto market since 2016, through all the Bears and Bulls. And I'm saying this with the highest confidence: THIS IS IT. This is what we've been waiting for. And it has arrived. So, stop acting gloomy. Max your confidence. Pull that DCA amount to the MAX and enjoy another bull run in the next 3 years.
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ This is it, guys. I've been in this crypto market since 2016, through all the Be
 
 I sold every other asset I owned, stopped my pension contributions, took out loans, and we even sold our old flat in Delhi. Altogether, I have invested around $90,000 to $95,000 into BTC. I started buying near $100k, continued as it climbed toward $126k, and added more during the recent lows. This is risky, but it was calculated. My salary covers the loan payments, and based on my calculations, I should be able to repay everything within two and a half years. I would not recommend anyone blindly copy this. But after years of learning about Bitcoin, money, inflation, and scarcity, this is where my conviction is strongest. Maybe it becomes the biggest mistake of my life. Maybe it changes my family’s future. Repay the debt. Secure the Bitcoin. Come back in 10 years.
 
-19h ago
+20h ago
 
 ---
 
@@ -97,7 +97,7 @@ I sold every other asset I owned, stopped my pension contributions, took out loa
 
 Remember this post!
 
-23h ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ Remember this post!
 
 The Bitcoin Runs project reaches Germany for the first time! This GPS art run traces the ₿ symbol through the streets of Stuttgart — the birthplace of the automobile, now on the frontier of sound money. 34 runs and counting across 20 countries 🌍 More at bitcoinruns.org
 
-22h ago
+23h ago
 
 ---
 
@@ -113,7 +113,7 @@ The Bitcoin Runs project reaches Germany for the first time! This GPS art run tr
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Brutally honest here, has anyone been overly obsessed with Bitcoin? Like you know it’s the future (even though price manipulation), it’s your habit, your hobby, and it honestly makes you a little crazy.
 
-15h ago
+16h ago
 
 ---
 
@@ -129,7 +129,7 @@ Brutally honest here, has anyone been overly obsessed with Bitcoin? Like you kno
 
 Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average price is af 87k, not sure where it will go so I’m heavily buying Voo/blue chip stocks
 
-16h ago
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average
 
 Should I include bitcoin in my diversified investments or should I stick to blue chip stocks? I’m relatively risk adverse and have at least 25 yrs before retirement. I invested in Russian stocks before and it did not go well… then I invested in Chinese stocks and it plummeted… then I invested in Japanese telecoms and it stayed flat for yrs. The US tech stocks have given stellar returns and I wonder if bitcoin can beat magnificient seven?
 
-5h ago
+6h ago
 
 ---
 
@@ -145,7 +145,7 @@ Should I include bitcoin in my diversified investments or should I stick to blue
 
 Which is good, we're still so early. People always hating on something when it's down, and they hated even more when its up, except they are in. Same fucking every cycle.
 
-8h ago
+9h ago
 
 ---
 
@@ -153,7 +153,7 @@ Which is good, we're still so early. People always hating on something when it's
 
 These are the only numbers I focus on. Adoption is all you need to keep an eye on. The rest is noise. Number will go up as demand increases and Bitcoin is uniquely set up for this based on its shrinking issuance and capped supply. The first shows adoption counts by institutions, corporates, and nations and states. The second shows the estimated BTC held. Both tables exclude treasury companies like Strategy in the corporate figures, so the numbers would be even higher if the treasury companies had been included.
 
-17h ago
+18h ago
 
 ---
 
@@ -173,7 +173,15 @@ CoinDesk • 1d ago
 
 A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.
 
-The Block • 21h ago
+The Block • 22h ago
+
+---
+
+**[JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 What's next?](https://www.moomoo.com/community/feed/just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-116947153387525)**
+
+@Bitcoin Magazine 7142 Views|2 Likes
+
+Moomoo • 2h ago
 
 ---
 
@@ -181,15 +189,15 @@ The Block • 21h ago
 
 They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
-**[Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?](https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-says-043500546.html)**
+**[Michael Saylor Calls Corporate Bitcoin Adoption Necessary and Inevitable](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-calls-corporate-bitcoin-030000292.html)**
 
-Historically, Bitcoin has rallied from steep market downturns to hit new all-time highs.
+Michael Saylor says corporations are essential for Bitcoin to succeed as global money, citing efficiency, scale, and trust.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -207,15 +215,15 @@ South Dakota Searchlight • 3d ago
 
 ---
 
-**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
-
-Investing.com • 6h ago
-
----
-
 **[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
 
 Investor's Business Daily • 2d ago
+
+---
+
+**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
+
+Investing.com • 7h ago
 
 ---
 
@@ -224,14 +232,6 @@ Investor's Business Daily • 2d ago
 iShares dominates with $47B in assets, while VanEck undercuts on fees at 0.20% versus 0.25%. Which matters more for your portfolio?
 
 The Motley Fool • 1d ago
-
----
-
-**[Bitcoin Sentiment Is Turning Bullish — But It's Too Early To Celebrate: Report](https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares)**
-
-CoinShares has said that while investors have put money in crypto funds again, the Bitcoin price may still struggle.
-
-Bitcoin Magazine • 1d ago
 
 ---
 
@@ -265,7 +265,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
 
-⬆️ 2 • 💬 0 • 8h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 2 • 💬 0 • 9h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
@@ -279,7 +279,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 66 • ⏱️ 19:34 • 1d ago
+👁️ 19K • 👍 1K • 💬 68 • ⏱️ 19:34 • 1d ago
 
 ---
 
@@ -289,27 +289,7 @@ August is right around the corner and that means BIG moves coming up (Clarity, S
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 484 • 💬 32 • ⏱️ 29:49 • 21h ago
-
----
-
-**[BITCOIN: WAKE UP BEFORE YOU MISS IT](https://www.youtube.com/watch?v=TfuaB89Yp4s)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 6K • 👍 551 • 💬 448 • ⏱️ 19:49 • 23h ago
-
----
-
-**[Binance CEO Reveals Bitcoin Price Outlook by End Of Year](https://www.youtube.com/watch?v=D0yrQ1uxhcM)**
-
-Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance Altcoin Daily has a partner relationship with ...
-
-📺 Altcoin Daily
-
-👁️ 25K • 👍 1K • 💬 101 • ⏱️ 31:29 • 19h ago
+👁️ 8K • 👍 494 • 💬 33 • ⏱️ 29:49 • 23h ago
 
 ---
 
@@ -319,25 +299,17 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 204 • 💬 76 • ⏱️ 18:50 • 17h ago
+👁️ 3K • 👍 209 • 💬 83 • ⏱️ 18:50 • 18h ago
 
 ---
 
-**[I&#39;m Going all in on Bitcoin - Bottom in 2 Months - BTC Analysis](https://www.youtube.com/watch?v=9a0JQZgnAkg)**
+**[Binance CEO Reveals Bitcoin Price Outlook by End Of Year](https://www.youtube.com/watch?v=D0yrQ1uxhcM)**
 
-Exchanges I used for trading: BLOFIN: https://partner.blofin.com/d/TeamUnderground BYBIT: ...
+Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance Altcoin Daily has a partner relationship with ...
 
-📺 Team Underground
+📺 Altcoin Daily
 
-👁️ 3K • 👍 149 • 💬 19 • ⏱️ 8:59 • 20h ago
-
----
-
-**[INSANE CLARITY ACT DRAMA! AI BOOM STILL EARLY Bitcoin and Tech Stocks BLEEDING #bitcoin #ai #crypto](https://www.youtube.com/watch?v=pnfoGo3UCEg)**
-
-📺 CryptoWendyO
-
-👁️ 17K • 👍 960 • 💬 75 • ⏱️ 2:04 • 1d ago
+👁️ 27K • 👍 1K • 💬 103 • ⏱️ 31:29 • 20h ago
 
 ---
 
@@ -347,17 +319,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 4K • 👍 440 • 💬 56 • ⏱️ 7:29 • 6h ago
-
----
-
-**[Bitcoin Bottom CONFIRMED - Tate Arrested AGAIN😂](https://www.youtube.com/watch?v=cBEcbyISW-I)**
-
-Join Skool - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 82 • 💬 63 • ⏱️ 0:29 • 13h ago
+👁️ 6K • 👍 532 • 💬 63 • ⏱️ 7:29 • 7h ago
 
 ---
 
@@ -367,7 +329,47 @@ Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I b
 
 📺 Prof G Markets
 
-👁️ 40K • 👍 470 • 💬 163 • ⏱️ 1:42 • 2d ago
+👁️ 40K • 👍 478 • 💬 165 • ⏱️ 1:42 • 2d ago
+
+---
+
+**[Massive Companies Invest In Bitcoin &amp; Crypto = Going To ZERO!?](https://www.youtube.com/watch?v=j9G7xxqUvdU)**
+
+If Bitcoin and crypto is going to zero then why are so many MASSIVE companies investing in the space? ARe they INSANE??! No ...
+
+📺 Digital Asset News
+
+👁️ 9K • 👍 513 • 💬 37 • ⏱️ 27:00 • 1d ago
+
+---
+
+**[I Lost $12M of Bitcoin on a Plane](https://www.youtube.com/watch?v=UCKVGOOFDh0)**
+
+It sounds like a nightmare scenario, but for one entrepreneur, it was a reality. After selling a plane, the realization set in that two ...
+
+📺 BlockPilot
+
+👁️ 1K • 👍 5 • 💬 1 • ⏱️ 0:32 • 10h ago
+
+---
+
+**[Bitcoin&#39;s Next Move Depends On One Fed Decision](https://www.youtube.com/watch?v=fEnq13uJBD0)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 43K • 👍 2K • 💬 58 • ⏱️ 50:17 • 1d ago
+
+---
+
+**[&#39;I Am Tired Of Being In Crypto Hell&#39;: Mark Warner Calls For Legislation To Regulate Cryptocurrency](https://www.youtube.com/watch?v=bfCi9eQ3Gmk)**
+
+During a Senate Finance Committee hearing on Thursday, Sen. Mark Warner (D-VA) spoke in favor of legislation regulating ...
+
+📺 Forbes Breaking News
+
+👁️ 16K • 👍 247 • 💬 105 • ⏱️ 5:03 • 2d ago
 
 ---
 

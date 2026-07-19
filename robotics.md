@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-19T15:59:00.327788+00:00'
+updated: '2026-07-19T17:08:27.523256+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 19, 2026 at 15:59 UTC  
+**Last Updated:** July 19, 2026 at 17:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I'm 15 years old and this is my hexapod project I have been working on for the past year, I learned a ton from it. Here are its specs: -Build: Mostly 3D printed, I used a model from Aecert Robotics from youtube, I made some changes and improvements to the model such as the femur joints that connect to the servos. -Parts: 24 channel Pololu maestro board, 11.4v lipo battery, 12x25kg servos, and 6x35kg servos (for the femur joints because they're under the most load). Cheap android phone for the controller and gyroscope, and a DROK buck converter. -Software: I made a custom android app for the controller that connects via wifi or hotspot, you scan a QR code and it opens the controller on your phone. I used inverse kinematic equations for the hexapod so it has complete control over the leg and body movement. -Stabilizing: Using the gyroscope from the phone it can also self stabilize, it can even walk and self stabilize at the same time. -Walking gait: There are 5 walking gaits so far: Tripod, ripple, wave, triple, and a custom one I made to look like a spider. -I'm currently working on a high precision robot arm and I would love some feedback: About 4ft long and hopefully can lift around 5lb. I should have some videos soon. If you want to learn more about the hexapod or the arm you can see them at my portfolio.
 
-19h ago
+21h ago
 
 ---
 
@@ -44,7 +44,7 @@ I'm 15 years old and this is my hexapod project I have been working on for the p
 
 Hey everyone! I’m a high school student helping run a student-led program that teaches Autodesk Fusion and CAD to students for free. We recently secured an international partnership and are getting ready to work with a lot more students, so we’re looking for a few more people to join the team. We’re especially hoping to find people who already have experience with CAD, whether that’s Autodesk Fusion, Onshape, SolidWorks, Inventor, or another program. Fusion experience would be ideal, but familiarity with other CAD software is still very useful since many of the main concepts carry over. The main roles we need are: Co-President and Vice Presidents: Help lead the team, communicate with partners, organize meetings, and help decide where the program goes next. This role will collapse onto the other two roles below. Mentors: Join weekly Zoom classes, demonstrate Fusion tools, answer questions, and help students when they get stuck. Curriculum Developers: Help improve our current lessons and create new activities, projects, and assignments. CAD experience is especially important for mentors and curriculum developers, but we’re also looking for people who are reliable, communicate well, and genuinely want to help students learn engineering. Apply here: https://docs.google.com/forms/d/e/1FAIpQLSckr1UBILkgySbmjvRhKD0qca_-Omxy_aLmG5aN6JIEhE9tJg/viewform?usp=dialog
 
-8h ago
+9h ago
 
 ---
 
@@ -68,7 +68,7 @@ On my way to recording and open-sourcing a 1,000-episode bimanual manipulation d
 
 Hi everyone, I just uploaded my first tutorial video on YouTube and wanted to share it here to get your opinions about it. its very short and simple tutorial for the subject matter but I figured since I shared my scripts anyone who is interested would like consult an Ai chatbot for their specific questions and the main point of the video is the briefly explain the main concepts and how it all works within PyBullet. if you have free 7 minutes, I would appreciate your thought and opinions about the video so I can improve for upcoming videos. I know Genetic Algorithms are a bit yesteryears news but I remember watching a video about them on 2minutespapers YouTube channel years ago and since the moment I loaded my robot to PyBullet I wanted to try to implement the technique myself on my own project. Thats why its the subject of my first tutorial video. I am also sharing the links to my GitHub repo for the scripts here as well in case if you dont want to watch the video but still interested in implementing genetic algorithm for robotics in PyBullet. PyBullet Genetic Algorithm repo: https://github.com/serdarselimys/PyBullet-GeneticAlgorithm PyBullet HexaDog ZBD control repo: https://github.com/serdarselimys/HexaDogZBD-PybulletDemo For the next tutorial I am planning to cover Imitation Learning, again in PyBullet. Do you think thats an interesting subject?? I have been seeing a lot of videos on social media about manual laborers, mostly, textile workers are being made to wear POV cameras to capture their work to be used to train Neural Networks. I figured a tutorial explaining how digital movements are copied over to neural networks would be interesting.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ZvcVsFFV1q8) • 21h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ZvcVsFFV1q8) • 22h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hi everyone, I just uploaded my first tutorial video on YouTube and wanted to sh
 
 Researchers at the University of Toronto's Continuum Robotics Laboratory introduced CRAFT, a 3D-printed modular design library for tendon-driven continuum robots that allows a single robot to physically reconfigure its shape, stiffness, and degrees of freedom within minutes by snapping together six interchangeable modules. The same base robot was reconfigured into a long teleoperated probe for aircraft-wing inspection achieving 41% reduction in sag, a pipe-crawling robot capable of navigating 90-degree bends and 30-degree inclines, and a soft robotic hand that successfully cracked eggs with 85% accuracy. CRAFT eliminates the need to build entirely new robots for different tasks, replacing bespoke redesign with rapid modular composition. Credits: https://www.nature.com/articles/s44182-026-00107-x
 
-🔗 [youtube.com](https://youtube.com/shorts/e7LkG7x8f-Y?si=UqChe8XpkiS0xK9f) • 21h ago
+🔗 [youtube.com](https://youtube.com/shorts/e7LkG7x8f-Y?si=UqChe8XpkiS0xK9f) • 22h ago
 
 ---
 
@@ -100,7 +100,7 @@ I've been experimenting with an Ethernet-based UWB localization setup recently a
 
 I’m happy to share another video of my quadruped robot climbing stairs! Since my previous post, I have added contact sensors and modified the locomotion control algorithm. Previously, the robot used a fairly standard MPC + WBC + vision-based control framework. I have now added a reference generator based on the Linear Inverted Pendulum Model. It generates dynamically consistent body position, velocity, and acceleration trajectories for the MPC and WBC controllers. This modification significantly improved the robot’s stability. It also allowed me to increase the swing duration of each leg, resulting in smoother foot trajectories, softer ground contacts, and quieter locomotion.
 
-1d ago
+2d ago
 
 ---
 
@@ -136,7 +136,7 @@ Ars Technica • 2d ago
 
 People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
 
-New Atlas • 9h ago
+New Atlas • 11h ago
 
 ---
 
@@ -150,7 +150,7 @@ Reuters • 2d ago
 
 At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
 
-Global Times • 13h ago
+Global Times • 15h ago
 
 ---
 
@@ -184,11 +184,11 @@ Bloomberg.com • 3d ago
 
 ---
 
-**[The Other Asimov](https://lareviewofbooks.org/article/asimov-robotics-laws-claude-chatbots-consciousness-human-interaction/)**
+**[Hyperscale Data Begins Installation of Omnipresent Robotics OPR-R2 Robots at Michigan AI Facility](https://www.prnewswire.com/news-releases/hyperscale-data-begins-installation-of-omnipresent-robotics-opr-r2-robots-at-michigan-ai-facility-302828282.html)**
 
-Isaac Asimov’s laws of robotics have influenced AI’s development, but to what end?
+/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
 
-Los Angeles Review of Books • 3h ago
+PR Newswire • 2d ago
 
 ---
 
@@ -196,13 +196,23 @@ Los Angeles Review of Books • 3h ago
 
 ## YouTube Videos: "robotics"
 
+**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
+
+America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
+
+📺 S3 | Science, Startups, & Stories
+
+👁️ 18K • 👍 776 • 💬 62 • ⏱️ 14:37 • 1d ago
+
+---
+
 **[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
 
 Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
 
 📺 DPCcars
 
-👁️ 14K • 👍 207 • 💬 72 • ⏱️ 4:18 • 1d ago
+👁️ 15K • 👍 223 • 💬 77 • ⏱️ 4:18 • 1d ago
 
 ---
 
@@ -212,7 +222,7 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 📺 Joanna Stern
 
-👁️ 70K • 👍 2K • 💬 226 • ⏱️ 12:02 • 2d ago
+👁️ 71K • 👍 2K • 💬 226 • ⏱️ 12:02 • 3d ago
 
 ---
 
@@ -222,17 +232,7 @@ A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knocko
 
 📺 Kalil 4.0
 
-👁️ 8K • 👍 103 • 💬 28 • ⏱️ 9:31 • 1d ago
-
----
-
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
-
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
-
-📺 Air Photography
-
-👁️ 48K • 👍 1K • 💬 159 • ⏱️ 7:15 • 3d ago
+👁️ 8K • 👍 106 • 💬 28 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -246,11 +246,41 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 ---
 
+**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
+
+This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
+
+📺 Air Photography
+
+👁️ 50K • 👍 1K • 💬 165 • ⏱️ 7:15 • 3d ago
+
+---
+
 **[Robot package fell through the railings! 🏃‍♂️📦#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=qCVRkMioF8Q)**
 
 📺 Smarttoy Ruko
 
-👁️ 8K • 👍 80 • ⏱️ 0:20 • 12h ago
+👁️ 10K • 👍 91 • ⏱️ 0:20 • 13h ago
+
+---
+
+**[NEW Spider Scorpion In War Robots… Ridiculous Game Ending Firepower | WR](https://www.youtube.com/watch?v=iu7ntEjCWUQ)**
+
+New Spider Scorpion robot. I dont know what happened but the new robot has been transformed into a spider scorpion mech.
+
+📺 PREDATOR WR
+
+👁️ 5K • 👍 291 • 💬 49 • ⏱️ 15:10 • 5h ago
+
+---
+
+**[Tesla Reveals Major New Optimus Robot Update!](https://www.youtube.com/watch?v=xwXUFbQcVJk)**
+
+Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
+
+📺 The Tesla Space
+
+👁️ 72K • 👍 2K • 💬 100 • ⏱️ 13:08 • 3d ago
 
 ---
 
@@ -260,37 +290,7 @@ Watch the most intense moments from the Ultimate Humanoid Robot Knockout League 
 
 📺 The Construct Robotics Institute
 
-👁️ 46K • 👍 713 • 💬 216 • ⏱️ 2:18 • 1d ago
-
----
-
-**[Fixing a $210 auction robot, Part 6: Full Speed! #engineering #fanuc #robotics](https://www.youtube.com/watch?v=a1Z5q5grVpw)**
-
-Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
-
-📺 Excessive Overkill
-
-👁️ 25K • 👍 845 • 💬 31 • ⏱️ 2:09 • 1d ago
-
----
-
-**[Will Robots Fight America&#39;s Next War? 🤖🇺🇸](https://www.youtube.com/watch?v=uNZA2sYmmyY)**
-
-Will Robots Fight America's Next War? Military robots are advancing rapidly, with several countries testing robotic ground ...
-
-📺 Milopax
-
-👁️ 315K • 👍 5K • 💬 1K • ⏱️ 0:23 • 5d ago
-
----
-
-**[Dual Arm Humanoid Robot Autonomously Builds Its Own Actuator 🤖⚙️ Future of AI Manufacturing](https://www.youtube.com/watch?v=8hdtW-pnxcs)**
-
-What you're seeing is a dual-arm humanoid desktop robot autonomously assembling one of its own robotic actuators with ...
-
-📺 Techie Sapien
-
-👁️ 216K • 💬 39 • ⏱️ 0:08 • 4d ago
+👁️ 49K • 👍 738 • 💬 223 • ⏱️ 2:18 • 1d ago
 
 ---
 

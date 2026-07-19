@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-19T15:59:00.324502+00:00'
+updated: '2026-07-19T17:08:27.519917+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 15:59 UTC  
+**Last Updated:** July 19, 2026 at 17:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +5.3%  
-**30d:** +7.4%  
-**90d:** -19.6%  
-**1y:** -50.3%  
+**24h:** +0.4%  
+**7d:** +4.9%  
+**30d:** +7.0%  
+**90d:** -19.9%  
+**1y:** -50.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.18B
+**Market Cap:** $224.66B
 Rank #2
 
 **Circulating Supply:** 120,682,835 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-62.3%
 
 **All-Time Low:** $0.43
-+432745.5%
++430265.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-21h ago
+22h ago
 
 ---
 
@@ -94,7 +94,7 @@ Two months ago I posted here after analyzing 78,723 Ethereum token contracts and
 
 **["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -162,15 +162,15 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 Ethereum is currently trading within a long-term triangle pattern, holding a critical Fibonacci support level near $1,843. A confirmed breakout above the descending resistance line could push ETH back toward $4,865-$4,900, with higher targets of $8,300 to $10,000 possible if momentum continues. However, if Ethereum falls below the long-term support line, this bullish scenario would be invalidated, increasing the risk of a deeper correction. Investors should watch for a sustained move above $1,843 and subsequent resistance levels near $2,400-$2,900 to confirm a stronger upward trend.
 
-Pluang • 7m ago
+Pluang • 1h ago
 
 ---
 
-**[Ethereum upgrades cut transaction fees below $0...](https://pluang.com/en/news-feed/analisis-ethereum-eth-harus-investasi-eth-sekarang)**
+**[Ethereum's new blob data reduces L2 fees but li...](https://pluang.com/en/news-feed/biaya-l2-lebih-murah-dapat-mengurangi-pembakaran-eth-dari-biaya-blob)**
 
-Ethereum's recent network upgrades have doubled its transaction capacity and reduced mainnet fees to under $0.02, enhancing user experience and supporting rollup solutions like Arbitrum and Optimism. The launch of US-based spot Ethereum ETFs in July 2024 has increased institutional and retail access to ETH, positioning it alongside Bitcoin as a mainstream investment. However, Ethereum faces strong competition from Solana, which offers faster and cheaper transactions within a unified ecosystem. Additionally, lower fees on layer-2 solutions may limit revenue growth for Ethereum's base layer, raising questions about long-term price appreciation despite increased network activity.
+Ethereum's EIP-4844 upgrade introduced blobs, a cheaper data space for Layer 2 (L2) rollups, lowering transaction fees by creating a separate fee market where blob base fees are burned. However, ETH burn hasn't surged because blob space remains plentiful, keeping base fees low even as L2 usage grows. Major L2s like Base and Arbitrum dominate blob demand, but efficient data compression and off-chain data availability reduce burn pressure. Investors should monitor blob base fees, batch sizes, and L1 gas fees to gauge future ETH burn trends amid evolving L2 strategies and network upgrades.
 
-Pluang • 4h ago
+Pluang • 39m ago
 
 ---
 
@@ -178,7 +178,7 @@ Pluang • 4h ago
 
 Ethereum has shown strength by rebounding from $1800 to trade around $1866, up 1.7% daily. A whale sold 72 BTC worth $4.66 million and opened a 20x long position in 12,000 ETH valued at $22.4 million, already profiting $275k. Market data shows increased buying in Ethereum futures, with a Long/Short Ratio above 1 and strong momentum indicators suggesting a bullish trend. If ETH holds above $1875, it could surpass $1900 and continue its upward movement.
 
-Pluang • 2h ago
+Pluang • 3h ago
 
 ---
 
@@ -190,27 +190,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
-
-Stocktwits • 2d ago
-
----
-
 **[Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?](https://www.fool.com/investing/2026/07/19/down-62-from-its-high-is-ethereum-a-value-play-or/)**
 
 Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
-**[Ethereum at Amazon/Nvidia-Like Inflection Point, Tom Lee Forecasts $12,000 ETH](https://www.tradingview.com/news/coinpedia:b8cb37750094b:0-ethereum-at-amazon-nvidia-like-inflection-point-tom-lee-forecasts-12-000-eth/)**
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
 
-Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
 
-TradingView • 1d ago
+Stocktwits • 17h ago
 
 ---
 
@@ -219,6 +211,14 @@ TradingView • 1d ago
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
 Decrypt • 2d ago
+
+---
+
+**[Ethereum at Amazon/Nvidia-Like Inflection Point, Tom Lee Forecasts $12,000 ETH](https://www.tradingview.com/news/coinpedia:b8cb37750094b:0-ethereum-at-amazon-nvidia-like-inflection-point-tom-lee-forecasts-12-000-eth/)**
+
+Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
+
+TradingView • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 390 • 💬 124 • ⏱️ 30:25 • 6h ago
+👁️ 3K • 👍 450 • 💬 173 • ⏱️ 30:25 • 7h ago
 
 ---
 
@@ -250,17 +250,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 184 • ⏱️ 12:55 • 1d ago
-
----
-
-**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
-
-In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 237 • 💬 21 • ⏱️ 6:22 • 12h ago
+👁️ 28K • 👍 2K • 💬 185 • ⏱️ 12:55 • 1d ago
 
 ---
 
@@ -270,7 +260,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 158 • 💬 153 • ⏱️ 13:08 • 1d ago
+👁️ 6K • 👍 162 • 💬 153 • ⏱️ 13:08 • 1d ago
+
+---
+
+**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
+
+In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 254 • 💬 29 • ⏱️ 6:22 • 13h ago
 
 ---
 
@@ -280,27 +280,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 238 • 💬 90 • ⏱️ 20:43 • 1d ago
+👁️ 7K • 👍 238 • 💬 92 • ⏱️ 20:43 • 2d ago
 
 ---
 
-**[Ethereum Bottom &amp; Top Price Targets | My Bear To Bull Market Strategy](https://www.youtube.com/watch?v=1aP9klUtdbM)**
+**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
 
-Ethereum is down almost 70% from its all-time high, but could this be one of the best long-term buying opportunities of the current ...
+DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
 
-📺 Coin Bureau Trading
+📺 The Rollup
 
-👁️ 2K • 👍 112 • 💬 19 • ⏱️ 9:10 • 1d ago
-
----
-
-**[BITCOIN LIQUIDATION TRAP: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_d29G-U3IPY)**
-
-BITCOIN LIQUIDATION TRAP: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 263 • 💬 171 • ⏱️ 20:30 • 17h ago
+👁️ 300 • 👍 12 • 💬 32 • ⏱️ 8:46 • 1h ago
 
 ---
 
@@ -310,27 +300,37 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 42K • 👍 3K • 💬 116 • ⏱️ 14:48 • 1d ago
+👁️ 43K • 👍 3K • 💬 116 • ⏱️ 14:48 • 1d ago
 
 ---
 
-**[Ethereum prépare sa plus grande transformation](https://www.youtube.com/watch?v=gBvdiI-xtmE)**
+**[BITCOIN LIQUIDATION TRAP: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_d29G-U3IPY)**
 
-Construire une vraie stratégie RWA en DeFi, pas à pas https://go.rifter.fr/rwa-strategie-defi-6009 Newsletter crypto ...
+BITCOIN LIQUIDATION TRAP: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Cryptolyze | Crypto - Finance - Économie
+📺 Crypto World
 
-👁️ 1K • 👍 174 • 💬 20 • ⏱️ 19:50 • 5h ago
+👁️ 7K • 👍 266 • 💬 173 • ⏱️ 20:30 • 18h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=V7OhpFZxv_g)**
+**[Ethereum Bottom &amp; Top Price Targets | My Bear To Bull Market Strategy](https://www.youtube.com/watch?v=1aP9klUtdbM)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Ethereum is down almost 70% from its all-time high, but could this be one of the best long-term buying opportunities of the current ...
 
-📺 Crypto Gyan
+📺 Coin Bureau Trading
 
-👁️ 1K • 👍 80 • ⏱️ 8:26 • 12h ago
+👁️ 2K • 👍 113 • 💬 19 • ⏱️ 9:10 • 1d ago
+
+---
+
+**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
+
+Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
+
+📺 The Rollup
+
+👁️ 11K • 👍 269 • 💬 26 • ⏱️ 7:55 • 2d ago
 
 ---
 
