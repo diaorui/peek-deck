@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-19T22:52:46.913146+00:00'
+updated: '2026-07-19T23:58:05.820737+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 19, 2026 at 22:52 UTC  
+**Last Updated:** July 19, 2026 at 23:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Apple test](https://www.reddit.com/r/robotics/comments/1v0werw/apple_test/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ I'm 15 years old and this is my hexapod project I have been working on for the p
 
 I need to transfer a lot of force through this keyway into a 3d print, and am confused on the intended way to attach to this shaft.
 
-4h ago
+5h ago
 
 ---
 
@@ -58,13 +58,13 @@ I need to transfer a lot of force through this keyway into a 3d print, and am co
 
 I’m building Haga, an independent physics-consistency checker for generated video and robot-policy simulations. An earlier CogVideoX-5b I2V experiment produced a clear failure mode: on a “ball and block fall” prompt, the tracked object stayed airborne with near-zero motion instead of falling. But that first result was post-hoc. I inspected those six clips before adding the static_hover detector, so the original 6/6 flag rate could not be treated as confirmation. I’ve now run a pre-registered held-out test. Method: Model: THUDM/CogVideoX-5b-I2V Cohort: 3 perspectives × seeds 2, 3 and 4 n=9 clips Detector thresholds and inclusion rules frozen before generation RGB → CoTracker3 → position-only VIDEO_CHECKS Discovery seeds 0–1 kept separate from held-out seeds 2–4 Result: Held-out flag rate: 1.000 (9/9) Wilson 95% CI: [0.701, 1.000] All nine clips fired static_hover Real Physics-IQ footage stayed quiet under the same profile static_hover fires when the tracked object remains airborne for most of the clip, has near-zero frame-to-frame speed, and does not exhibit gravitational acceleration. Important limitations: One open I2V model One ball-and-block-fall scene family One documented failure mode Real negative-control n=1 in this specific report Not Cosmos, Genie or NIM Not a broad claim about CogVideoX quality Write-up: https://haga.mushoodhanif.com/article/sim-physics-consistency-v1#held-out Lab: https://haga.mushoodhanif.com/lab/physicsiq Bounded demo: https://haga.mushoodhanif.com/demo I’d especially value criticism on: Which physical violations will position-only tracking systematically miss? Is static_hover defined narrowly enough to avoid confusing intentional suspension with failed dynamics? What public generated-video artifact should I evaluate next under the frozen detector?
 
-5h ago
+6h ago
 
 ---
 
 **[Isaac sim: rosbag replay via rosbrigde](https://www.reddit.com/r/robotics/comments/1v0ue0e/isaac_sim_rosbag_replay_via_rosbrigde/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m building Haga, an independent physics-consistency checker for generated vi
 
 Hey everyone! I’m a high school student helping run a student-led program that teaches Autodesk Fusion and CAD to students for free. We recently secured an international partnership and are getting ready to work with a lot more students, so we’re looking for a few more people to join the team. We’re especially hoping to find people who already have experience with CAD, whether that’s Autodesk Fusion, Onshape, SolidWorks, Inventor, or another program. Fusion experience would be ideal, but familiarity with other CAD software is still very useful since many of the main concepts carry over. The main roles we need are: Co-President and Vice Presidents: Help lead the team, communicate with partners, organize meetings, and help decide where the program goes next. This role will collapse onto the other two roles below. Mentors: Join weekly Zoom classes, demonstrate Fusion tools, answer questions, and help students when they get stuck. Curriculum Developers: Help improve our current lessons and create new activities, projects, and assignments. CAD experience is especially important for mentors and curriculum developers, but we’re also looking for people who are reliable, communicate well, and genuinely want to help students learn engineering. Apply here: https://docs.google.com/forms/d/e/1FAIpQLSckr1UBILkgySbmjvRhKD0qca_-Omxy_aLmG5aN6JIEhE9tJg/viewform?usp=dialog
 
-15h ago
+16h ago
 
 ---
 
@@ -120,11 +120,11 @@ WIRED • 2d ago
 
 ---
 
-**[Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots](https://futurism.com/robots-and-machines/striking-workers-hyundai-korea-humanoid-robots-labor)**
+**[China unveils brain-to-robot platform that lets people control machines with their thoughts](https://interestingengineering.com/ai-robotics/china-brain-to-robot-platform)**
 
-A major Hyundai factory in South Korea is on its knees after negotiations between labor and management broke down last week.
+Chinese BCI firm BrainCo debuts a non-invasive headset allowing users to control humanoid robots and robotic arms using only brain signals.
 
-Futurism • 1d ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -132,7 +132,7 @@ Futurism • 1d ago
 
 People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
 
-New Atlas • 16h ago
+New Atlas • 17h ago
 
 ---
 
@@ -146,15 +146,15 @@ Reuters • 2d ago
 
 Rhoda AI is betting the future of robotics starts with internet video, not lab data. We visited the company's headquarters to see how its Direct Video Action model learns physics from hundreds of millions of clips.
 
-CNET • 13h ago
+CNET • 14h ago
 
 ---
 
-**[Why Intelligence Is Not Enough To Get Robots Out Of The Cage](https://www.forbes.com/sites/jenniferkitepowell/2026/07/19/why-intelligence-is-not-enough-to-get-robots-out-of-the-cage/)**
+**[Quadruped robots shine at WAIC in Shanghai as human-machine collaboration enters new phase](https://www.globaltimes.cn/page/202607/1366283.shtml)**
 
-Sonair CEO Knut Sandven explains why advanced machine intelligence can't guarantee factory floor safety and the role 3D certification plays for collab robots and safety.
+At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
 
-Forbes • 2h ago
+Global Times • 21h ago
 
 ---
 
@@ -166,9 +166,11 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[Robotic technology enhances precision in knee replacement surgery](https://www.wzzm13.com/article/news/local/robotic-technology-enhances-precision-knee-replacement-surgery/69-d2948ed9-4305-4890-a7d3-61a8cf414797)**
+**[Why Intelligence Is Not Enough To Get Robots Out Of The Cage](https://www.forbes.com/sites/jenniferkitepowell/2026/07/19/why-intelligence-is-not-enough-to-get-robots-out-of-the-cage/)**
 
-WZZM13.com • 3d ago
+Sonair CEO Knut Sandven explains why advanced machine intelligence can't guarantee factory floor safety and the role 3D certification plays for collab robots and safety.
+
+Forbes • 3h ago
 
 ---
 
@@ -180,11 +182,11 @@ Business Insider • 3d ago
 
 ---
 
-**[The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, ‘Mind of the Engineer’ survey: Embedded Week Insights](https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights/)**
+**[Hyperscale Data Begins Installation of Omnipresent Robotics OPR-R2 Robots at Michigan AI Facility](https://www.prnewswire.com/news-releases/hyperscale-data-begins-installation-of-omnipresent-robotics-opr-r2-robots-at-michigan-ai-facility-302828282.html)**
 
-This week’s roundup covers the challenges of using different protocols in factories, Nvidia’s latest Thor modules, AI-powered custom test design, and the Mind of the Engineer survey.
+/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
 
-embedded.com • 2d ago
+PR Newswire • 2d ago
 
 ---
 
@@ -198,7 +200,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 18K • 👍 250 • 💬 89 • ⏱️ 4:18 • 1d ago
+👁️ 19K • 👍 260 • 💬 90 • ⏱️ 4:18 • 1d ago
 
 ---
 
@@ -208,7 +210,7 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 📺 Joanna Stern
 
-👁️ 73K • 👍 2K • 💬 234 • ⏱️ 12:02 • 3d ago
+👁️ 74K • 👍 3K • 💬 237 • ⏱️ 12:02 • 3d ago
 
 ---
 
@@ -218,7 +220,7 @@ A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knocko
 
 📺 Kalil 4.0
 
-👁️ 8K • 👍 113 • 💬 28 • ⏱️ 9:31 • 1d ago
+👁️ 8K • 👍 115 • 💬 28 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -228,25 +230,17 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Air Photography
 
-👁️ 54K • 👍 1K • 💬 175 • ⏱️ 7:15 • 3d ago
+👁️ 56K • 👍 1K • 💬 178 • ⏱️ 7:15 • 3d ago
 
 ---
 
-**[Lucky find: Unboxing a discarded interactive robot. 🤖#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=haIFkiPBw8w)**
+**[Unboxing BENI: This 2-Wheeled Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=ytaZ2eR9CR8)**
 
-📺 Smarttoy Ruko
+Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mondorobotics/beni-all-terrain-camera-robot?ref=8ebvkr ...
 
-👁️ 31K • 👍 149 • ⏱️ 0:19 • 1d ago
+📺 FlytPath
 
----
-
-**[NEW Spider Scorpion In War Robots… Ridiculous Game Ending Firepower | WR](https://www.youtube.com/watch?v=iu7ntEjCWUQ)**
-
-New Spider Scorpion robot. I dont know what happened but the new robot has been transformed into a spider scorpion mech.
-
-📺 PREDATOR WR
-
-👁️ 10K • 👍 375 • 💬 72 • ⏱️ 15:10 • 10h ago
+👁️ 2K • 👍 94 • 💬 17 • ⏱️ 5:19 • 6h ago
 
 ---
 
@@ -256,37 +250,43 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 17K • 👍 129 • 💬 44 • ⏱️ 0:27 • 2d ago
+👁️ 17K • 👍 130 • 💬 44 • ⏱️ 0:27 • 2d ago
 
 ---
 
-**[Dual Arm Humanoid Robot Autonomously Builds Its Own Actuator 🤖⚙️ Future of AI Manufacturing](https://www.youtube.com/watch?v=8hdtW-pnxcs)**
+**[Typhon One shot 1 Kill | War Robots Gameplay ](https://www.youtube.com/watch?v=hA3rvbo68A0)**
 
-What you're seeing is a dual-arm humanoid desktop robot autonomously assembling one of its own robotic actuators with ...
+📺 COMMANDO-GAMING
 
-📺 Techie Sapien
-
-👁️ 217K • 💬 39 • ⏱️ 0:08 • 4d ago
+👁️ 2K • 👍 76 • 💬 3 • ⏱️ 8:56 • 20h ago
 
 ---
 
-**[The World’s First Monowheel Robot: How It Solved the Stability Paradox](https://www.youtube.com/watch?v=CIN0BXm9SXM)**
+**[China launches first humanoid robot combat league](https://www.youtube.com/watch?v=zCqaw0wDWWk)**
 
-The ROLLO is the world's first autonomous and self-balancing monowheel robot. Company: https://1rollo.com/ Blog: ...
+China launched the world's first industrial-grade humanoid robot free-combat league, URKL (Ultimate Robot Knock-out Legend), ...
 
-📺 Europe’s Foundry 
+📺 KTLA 5
 
-👁️ 17K • 👍 853 • 💬 158 • ⏱️ 15:13 • 2d ago
+👁️ 67K • 👍 340 • 💬 47 • ⏱️ 0:26 • 2d ago
 
 ---
 
-**[These Robots Fight Better Than You Think | URKL: Ultimate Humanoid Robot Knockout League](https://www.youtube.com/watch?v=DUbbBdSGHE8)**
+**[Robot package fell through the railings! 🏃‍♂️📦#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=qCVRkMioF8Q)**
 
-Watch the most intense moments from the Ultimate Humanoid Robot Knockout League (URKL), where cutting-edge humanoid ...
+📺 Smarttoy Ruko
 
-📺 The Construct Robotics Institute
+👁️ 13K • 👍 108 • ⏱️ 0:20 • 20h ago
 
-👁️ 53K • 👍 771 • 💬 251 • ⏱️ 2:18 • 2d ago
+---
+
+**[Tesla Reveals Major New Optimus Robot Update!](https://www.youtube.com/watch?v=xwXUFbQcVJk)**
+
+Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
+
+📺 The Tesla Space
+
+👁️ 73K • 👍 2K • 💬 101 • ⏱️ 13:08 • 4d ago
 
 ---
 

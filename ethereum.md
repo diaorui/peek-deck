@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-19T22:52:46.909932+00:00'
+updated: '2026-07-19T23:58:05.817584+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 22:52 UTC  
+**Last Updated:** July 19, 2026 at 23:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +4.8%  
-**30d:** +6.9%  
-**90d:** -20.0%  
-**1y:** -50.5%  
+**24h:** +0.7%  
+**7d:** +5.5%  
+**30d:** +7.7%  
+**90d:** -19.4%  
+**1y:** -50.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.45B
+**Market Cap:** $225.66B
 Rank #2
 
 **Circulating Supply:** 120,682,835 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.2%
 
 **All-Time Low:** $0.43
-+429438.2%
++431879.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.
 
-🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 14h ago
+🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 15h ago
 
 ---
 
@@ -80,7 +80,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 2d ago
 
 Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
 
-CryptoSlate • 5h ago
+CryptoSlate • 6h ago
 
 ---
 
@@ -178,7 +178,7 @@ CryptoSlate • 5h ago
 
 Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -206,14 +206,6 @@ Decrypt • 3d ago
 
 ---
 
-**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
-
-Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
-
-CoinMarketCap • 1d ago
-
----
-
 **[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Prevails: Analyst Says BTC's 'Clear Breakthrou](https://www.benzinga.com/crypto/cryptocurrency/26/07/60515898/bitcoin-ethereum-xrp-dogecoin-slide-as-fear-sentiment-prevails)**
 
 Leading cryptocurrencies fell alongside stocks on Thursday, July 16, as the chip selloff and Iran tensions impacted risk appetite.
@@ -222,11 +214,19 @@ Benzinga • 2d ago
 
 ---
 
+**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
+
+Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
+
+CoinMarketCap • 1d ago
+
+---
+
 **[BlackRock bought almost $350 million of these cryptocurrencies in 5 days](https://finbold.com/blackrock-bought-almost-350-million-of-these-cryptocurrencies-in-5-days/)**
 
 BlackRock attracted nearly $350 million in net inflows across its spot cryptocurrency exchange-traded funds over five trading days.
 
-Finbold • 12h ago
+Finbold • 13h ago
 
 ---
 
@@ -234,13 +234,23 @@ Finbold • 12h ago
 
 ## YouTube Videos: "ethereum"
 
-**[&quot;Ethereum Just Did the Impossible &amp; Nobody Is Talking About It&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
+**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
+
+INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
+
+📺 CryptoWendyO
+
+👁️ 1K • 👍 121 • 💬 30 • ⏱️ 11:23 • 2h ago
+
+---
+
+**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
 
 Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
 📺 Savvy Finance
 
-👁️ 379 • 👍 39 • 💬 51 • ⏱️ 16:17 • 3h ago
+👁️ 659 • 👍 58 • 💬 71 • ⏱️ 16:17 • 4h ago
 
 ---
 
@@ -250,7 +260,7 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 521 • 💬 196 • ⏱️ 30:25 • 12h ago
+👁️ 4K • 👍 537 • 💬 327 • ⏱️ 30:25 • 14h ago
 
 ---
 
@@ -260,17 +270,7 @@ DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cyc
 
 📺 The Rollup
 
-👁️ 2K • 👍 46 • 💬 83 • ⏱️ 8:46 • 7h ago
-
----
-
-**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
-
-INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
-
-📺 CryptoWendyO
-
-👁️ 562 • 👍 66 • 💬 7 • ⏱️ 11:23 • 1h ago
+👁️ 2K • 👍 48 • 💬 74 • ⏱️ 8:46 • 8h ago
 
 ---
 
@@ -280,37 +280,7 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 186 • ⏱️ 12:55 • 2d ago
-
----
-
-**[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
-
-BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 510 • 👍 51 • 💬 90 • ⏱️ 22:19 • 1h ago
-
----
-
-**[&quot;This is ETH Is Going To $50,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=CJBvboXyhm0)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 240 • 💬 92 • ⏱️ 20:43 • 2d ago
-
----
-
-**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
-
-In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 262 • 💬 32 • ⏱️ 6:22 • 19h ago
+👁️ 29K • 👍 2K • 💬 138 • ⏱️ 12:55 • 2d ago
 
 ---
 
@@ -320,17 +290,47 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 7K • 👍 169 • 💬 154 • ⏱️ 13:08 • 1d ago
+👁️ 7K • 👍 172 • 💬 156 • ⏱️ 13:08 • 1d ago
 
 ---
 
-**[Joseph Chalom: The Institutional Ethereum Bull Run Is Here (What Comes Next)](https://www.youtube.com/watch?v=qMq24EloiJ4)**
+**[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
 
-Joseph Chalom makes the case that Ethereum is the best way to express the bullish thesis on perps, tokenization, and ...
+BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Rollup
+📺 Crypto World
 
-👁️ 11K • 👍 272 • 💬 28 • ⏱️ 7:55 • 2d ago
+👁️ 2K • 👍 148 • 💬 182 • ⏱️ 22:19 • 2h ago
+
+---
+
+**[&quot;This is ETH Is Going To $50,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=CJBvboXyhm0)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 241 • 💬 92 • ⏱️ 20:43 • 2d ago
+
+---
+
+**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
+
+In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 265 • 💬 32 • ⏱️ 6:22 • 20h ago
+
+---
+
+**[Cardano hard fork, Saylor BIP 110, Kraken options, stablecoin supply and Ethereum](https://www.youtube.com/watch?v=MYsfI5HvhSM)**
+
+Cardano hard fork, Saylor BIP 110, Kraken options, stablecoin supply and Ethereum Cardano activates its first onchain-governed ...
+
+📺 The Coin Daily
+
+👁️ 221 • 👍 4 • ⏱️ 8:54 • 6h ago
 
 ---
 
