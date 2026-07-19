@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-19T07:26:50.597590+00:00'
+updated: '2026-07-19T09:27:59.680674+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 07:26 UTC  
+**Last Updated:** July 19, 2026 at 09:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +3.8%  
-**30d:** +0.6%  
-**90d:** -15.2%  
-**1y:** -44.8%  
+**24h:** +0.9%  
+**7d:** +3.6%  
+**30d:** +0.4%  
+**90d:** -15.4%  
+**1y:** -44.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1297.07B
+**Market Cap:** $1294.21B
 Rank #1
 
-**Circulating Supply:** 20,058,331 BTC
+**Circulating Supply:** 20,058,371 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.7%
+-48.8%
 
 **All-Time Low:** $67.81
-+95265.0%
++95054.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I sold every other asset I owned, stopped my pension contributions, took out loans, and we even sold our old flat in Delhi. Altogether, I have invested around $90,000 to $95,000 into BTC. I started buying near $100k, continued as it climbed toward $126k, and added more during the recent lows. This is risky, but it was calculated. My salary covers the loan payments, and based on my calculations, I should be able to repay everything within two and a half years. I would not recommend anyone blindly copy this. But after years of learning about Bitcoin, money, inflation, and scarcity, this is where my conviction is strongest. Maybe it becomes the biggest mistake of my life. Maybe it changes my family’s future. Repay the debt. Secure the Bitcoin. Come back in 10 years.
 
-11h ago
+13h ago
 
 ---
 
@@ -89,7 +89,7 @@ I sold every other asset I owned, stopped my pension contributions, took out loa
 
 Remember this post!
 
-15h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ Remember this post!
 
 The Bitcoin Runs project reaches Germany for the first time! This GPS art run traces the ₿ symbol through the streets of Stuttgart — the birthplace of the automobile, now on the frontier of sound money. 34 runs and counting across 20 countries 🌍 More at bitcoinruns.org
 
-14h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ The Bitcoin Runs project reaches Germany for the first time! This GPS art run tr
 
 Quick disclosure up front, since this sub is (rightly) strict about self-promotion: I maintain a project that tracks Bitcoin’s legal status across ~140 countries: legality, self-custody rights, tax treatment, seizure risk. No link here, just sharing because I think the underlying facts are worth this sub’s time on their own. On July 7, President Tokayev signed a decree that bundles three things worth knowing: 1/ Tax. A planned exemption from personal income tax on gains from digital asset transactions conducted through Kazakhstan’s regulated infrastructure. Officials have described this as “planned,” so the implementing rules aren’t fully live yet, but the direction is explicit and it came straight from the Ministry of AI and Digital Development. 2/ Mining. A new mechanism letting associated petroleum gas and natural gas that isn’t needed for state use be converted into electricity for mining operations. This is aimed at monetizing stranded/flared gas that was otherwise being wasted. 3/ Offshore coins. A framework to bring previously unregistered or offshore-held crypto assets into the regulated domestic system, alongside groundwork for stablecoin-based cross-border settlement. Context that makes this land differently: Kazakhstan is the world’s third-largest Bitcoin mining nation by hashrate, behind only the US and China. This is the same country that banned mining and slapped punitive electricity tariffs on miners back in 2021–22 after the post-China-ban influx overloaded its grid. Going from “we’re taxing you out” to “0% on gains, here’s some stranded gas to mine with” in four years is a real reversal. On the tax point specifically: if this holds as written, it puts Kazakhstan ahead of most G7 countries, several of which still tax Bitcoin gains as ordinary income with no exemption at all. For reference, across the ~140 countries I track, the current split is roughly 6 clearly pro-Bitcoin, 11 openly hostile, and the rest (~123) somewhere in between with unclear or inconsistent policy. Genuinely curious what this sub thinks: is this a real long-term bet on Bitcoin infrastructure, or a play to grab mining revenue and hashrate share while the window’s open, and does it matter which one it is?
 
-21h ago
+23h ago
 
 ---
 
@@ -113,7 +113,7 @@ Quick disclosure up front, since this sub is (rightly) strict about self-promoti
 
 Martii Malmi (AKA Sirius) “COPA trial” email #210 Date: Sun, 18 Jul 2010 16:23:10 +0100 From: Satoshi Nakamoto satoshin@gmx.com Subject: Re: Fwd: bitcoin hosting To: mmalmi@cc.hut.fi Please promise me you won't make a switch now. The last thing we need is switchover hassle on top of the slashdot flood of work we've got now. I'm losing my mind there are so many things that need to be done. Also, it would suck to be on a smaller, less reliable host just to save a measly $20. I will try to think of a polite way to ask the donor if he sent it, but right now there are other higher priority things that are going to bump even that for a few days. Would a donation of bitcoins help in the short term? mmalmi@cc.hut.fi wrote: > Rackspace has very good support, good backend, good connections and > nicely scaling cloud based virtual servers. I got this offer from Thufir: > > ----- > Hi Sirius, > > Check out www.citrusdesignstudio.com. You will see through the portfolio > that > I am a real business with many clients. > > That is my business that I provide managed hosting through. > I also do unmanaged VPSes. > > Normally I would charge $15/mo for 512MB. > I will do it for $10/mo for you. > > To see my pricing, go to www.linnode.com. I match everything they have > except > their great panel -- you have to email or call my people. > > I provide VPS services normally for 3/4ths the posted cost on linnode.com. > (Rackspace is even more expensive.) > > I will do it for 1/2 of linnode's price for you. > > It scales linerally just like linnodes, so for 2048 MB of memory, I would > charge $40, etc. > > Later! > ----- > > That would be worth considering, if they have good datacenters and > connections. $10 / month is about $20 less than what Rackspace costs. On > the other hand, Rackspace prices are no problem if the donation is to > arrive. >
 
-🔗 [satoshitimeline.com](https://satoshitimeline.com/657) • 15h ago
+🔗 [satoshitimeline.com](https://satoshitimeline.com/657) • 17h ago
 
 ---
 
@@ -121,7 +121,7 @@ Martii Malmi (AKA Sirius) “COPA trial” email #210 Date: Sun, 18 Jul 2010 16:
 
 Bitcoin's price has historically tracked a long-term power law trendline — a curve that grows at a constant rate on a log-log time/price scale. I've built a small website to track how the price is doing relative to the trendline. Historically when the price falls below the trendline it signals a great buying opportunity. Similarly, price going above the trendline might flash a sell signal. Nobody knows the future price, but now is a good time to turn your DCAs - now proven by a mathematical formula. here is the link: https://www.btcpower.ai/
 
-12h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ Bitcoin's price has historically tracked a long-term power law trendline — a c
 
 Adam Back has a buy order in for 21 million Bitcoin at $0.01 cents. I don’t think we’ll ever see this, but it’s good to know this fact when you see people saying that Bitcoin is going to zero.
 
-21h ago
+23h ago
 
 ---
 
@@ -137,7 +137,7 @@ Adam Back has a buy order in for 21 million Bitcoin at $0.01 cents. I don’t th
 
 Hi, is Revolut X good for simply doing DCA? Has anyone had any experience selling on it? Is there enough trading volume and liquidity? I’d especially appreciate feedback from European residents. Thanks
 
-13h ago
+15h ago
 
 ---
 
@@ -145,7 +145,7 @@ Hi, is Revolut X good for simply doing DCA? Has anyone had any experience sellin
 
 11 years in corporate. Somewhere around reorganization number 10 and slide deck number 500, I stopped counting and started thinking. I don't want to be in the flywheel anymore, obeying things that make no sense and bending over to corporate politeness. I want to build something of my own and prove I can do it by myself. When I discovered Bitcoin 8 years ago, I put in the hours to understand it. After that, I could not unsee it. The mission is noble, and Bitcoin is the only thing I've ever felt worth building for. Not for the glory. For the mission. I dream about it, it occupies my mind every night before I fall asleep. Money that cannot be debased. Freedom. A heritage you can actually pass on to your kids. That resonates with me. So this year I stop watching and start building. Nights and weekends, next to the day job. Something that helps normal people get in and hold their own keys. I will probably fail in public a few times. Fine. I'm more scared of reorg number 20 than of failing at something I believe in. If you feel the same flywheel, follow along.
 
-23h ago
+1d ago
 
 ---
 
@@ -153,7 +153,7 @@ Hi, is Revolut X good for simply doing DCA? Has anyone had any experience sellin
 
 https://t.co/N5cwqMLHxc
 
-🔗 [X (formerly Twitter)](https://x.com/nvk/status/2078498536400777700?s=20) • 15h ago
+🔗 [X (formerly Twitter)](https://x.com/nvk/status/2078498536400777700?s=20) • 17h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg.com • 1d ago
 
 Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy
 
-The Guardian • 21h ago
+The Guardian • 23h ago
 
 ---
 
@@ -193,7 +193,7 @@ Investor's Business Daily • 1d ago
 
 A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.
 
-The Block • 12h ago
+The Block • 14h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Block • 12h ago
 
 Large traders on Deribit show expectations for a price rally to $72,000 by month end, right when the Fed meets.
 
-CoinDesk • 17h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -219,17 +219,17 @@ WSJ • 2d ago
 
 ---
 
-**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
-
-Barchart.com • 2d ago
-
----
-
 **[Hackers breach Kenyan president's official website, demand Bitcoin ransom](https://www.aa.com.tr/en/africa/hackers-breach-kenyan-presidents-official-website-demand-bitcoin-ransom/4002285)**
 
 Government says cybersecurity teams investigating after presidency portal briefly defaced | Anadolu
 
-Anadolu Ajansı • 18h ago
+Anadolu Ajansı • 20h ago
+
+---
+
+**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
+
+Barchart.com • 2d ago
 
 ---
 
@@ -261,20 +261,6 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 ---
 
-**[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
-
-⬆️ 1 • 💬 0 • 15m ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
-
----
-
-**[Marvel Wolverine trailer swarmed by PlayStation fans angry at Sony ditching disc](https://news.ycombinator.com/item?id=48949749)**
-
-Insomniac Games' upcoming triple-A release has been caught in the midst of an online anti-Sony movement.
-
-⬆️ 2 • 💬 0 • 1d ago • [Eurogamer.net](https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -285,17 +271,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 102 • ⏱️ 19:34 • 1d ago
-
----
-
-**[Bitcoin: A Time To Buy  (Two Scenarios)](https://www.youtube.com/watch?v=ghHD63SK1HY)**
-
-August is right around the corner and that means BIG moves coming up (Clarity, SpaceX unlocks, Usually mini-rally). But here is ...
-
-📺 Digital Asset News
-
-👁️ 7K • 👍 449 • 💬 29 • ⏱️ 29:49 • 13h ago
+👁️ 17K • 👍 1K • 💬 101 • ⏱️ 19:34 • 1d ago
 
 ---
 
@@ -305,7 +281,17 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 175 • 💬 71 • ⏱️ 18:50 • 9h ago
+👁️ 2K • 👍 184 • 💬 81 • ⏱️ 18:50 • 11h ago
+
+---
+
+**[Bitcoin: A Time To Buy  (Two Scenarios)](https://www.youtube.com/watch?v=ghHD63SK1HY)**
+
+August is right around the corner and that means BIG moves coming up (Clarity, SpaceX unlocks, Usually mini-rally). But here is ...
+
+📺 Digital Asset News
+
+👁️ 7K • 👍 463 • 💬 29 • ⏱️ 29:49 • 15h ago
 
 ---
 
@@ -315,7 +301,7 @@ Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I b
 
 📺 Prof G Markets
 
-👁️ 38K • 👍 454 • 💬 156 • ⏱️ 1:42 • 1d ago
+👁️ 39K • 👍 461 • 💬 159 • ⏱️ 1:42 • 1d ago
 
 ---
 
@@ -329,23 +315,13 @@ If Bitcoin and crypto is going to zero then why are so many MASSIVE companies in
 
 ---
 
-**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=uj5nnM_6wD0)**
-
-Crypto Holders - Everything Comes Down To This! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 14K • 👍 334 • 💬 44 • ⏱️ 1:16 • 2d ago
-
----
-
 **[Gareth Soloway FINALLY Turns Bullish on Bitcoin (Target: $72,000 Before THIS DATE)](https://www.youtube.com/watch?v=ZXdn_VKNa28)**
 
 Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 127 • 💬 13 • ⏱️ 15:00 • 9h ago
+👁️ 3K • 👍 136 • 💬 14 • ⏱️ 15:00 • 11h ago
 
 ---
 
@@ -355,7 +331,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 40K • 👍 3K • 💬 112 • ⏱️ 14:48 • 1d ago
+👁️ 41K • 👍 3K • 💬 113 • ⏱️ 14:48 • 1d ago
 
 ---
 
@@ -365,17 +341,27 @@ During a Senate Finance Committee hearing on Thursday, Sen. Mark Warner (D-VA) s
 
 📺 Forbes Breaking News
 
-👁️ 13K • 👍 207 • 💬 93 • ⏱️ 5:03 • 1d ago
+👁️ 13K • 👍 212 • 💬 94 • ⏱️ 5:03 • 1d ago
 
 ---
 
-**[BITCOIN: WAKE UP BEFORE YOU MISS IT](https://www.youtube.com/watch?v=TfuaB89Yp4s)**
+**[Hummingbird: The Bitcoin Jungle Story | FULL MOVIE | Documentary](https://www.youtube.com/watch?v=63WbA7slCdg)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+"Hummingbird: The Bitcoin Jungle Story" explores the origins of an organic farmer's market in Uvita, Costa Rica, weaving together ...
 
-📺 Jordan Camirand
+📺 Simply Bitcoin
 
-👁️ 6K • 👍 508 • 💬 479 • ⏱️ 19:49 • 14h ago
+👁️ 7K • 👍 491 • 💬 113 • ⏱️ 1:16:14 • 17h ago
+
+---
+
+**[A MASSIVE ROTATION INTO BITCOIN IS COMING](https://www.youtube.com/watch?v=i_zuFGFx1O8)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 4K • 👍 234 • 💬 224 • ⏱️ 8:15 • 2d ago
 
 ---
 

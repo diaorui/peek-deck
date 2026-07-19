@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-19T07:26:50.604949+00:00'
+updated: '2026-07-19T09:27:59.690014+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 19, 2026 at 07:26 UTC  
+**Last Updated:** July 19, 2026 at 09:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Robert Scoble says an unnamed investor told him Anthropic is buying robot AI dev
 
 On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
 
-🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 18h ago
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 20h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’m happy to share another video of my quadruped robot climbing stairs! Since 
 
 I've been experimenting with an Ethernet-based UWB localization setup recently and wanted to share the workflow. The idea is to keep the embedded side simple while moving the localization calculations to a PC. In this setup, the UWB nodes continuously perform ranging between the tag and anchors. An ESP32-S3 Ethernet gateway collects the ranging data and forwards it over the local network. A PC application then receives the data stream, calculates the tag coordinates in real time, and visualizes the results. Since all positioning algorithms run on the PC instead of the microcontroller, it's much easier to test different localization methods, manage multiple tags, or integrate additional data processing. Hardware Used · 3×UWB nodes (2 Anchors + 1 Tag) · 1×ESP32-S3 Ethernet (PoE) gateway · Ethernet cable · USB cable Step 1: Prepare the Hardware Prepare the required UWB devices, an ESP32-S3 Ethernet gateway, and the necessary cables. Step 2: Configure the UWB Nodes Assign the ID and role (Anchor or Tag) for each UWB node using the configuration tool. Step 3: Flash the Firmware and Connect the Devices Upload the firmware to the ESP32-S3 gateway, connect it to the local network, and establish communication with the UWB nodes. Step 4: Start Real-Time Positioning Open the PC application, set the anchor coordinates, and visualize the tag position updating in real time. Follow the steps above; I’ve built a complete Ethernet UWB positioning system with UWB devices. And the PC is keeping updating the trajectory of the moving tag. The firmware and PC application are available for anyone interested in reproducing or modifying the project. I'd be interested to hear how others structure their UWB localization systems. Feel free to talk in the comments below!
 
-22h ago
+1d ago
 
 ---
 
@@ -132,14 +132,6 @@ Ars Technica • 2d ago
 
 ---
 
-**[A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/)**
-
-The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
-
-WIRED • 1d ago
-
----
-
 **[Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)**
 
 Agility is opening a new training center for its Digit robots in Fremont, California.
@@ -148,23 +140,41 @@ TechCrunch • 1d ago
 
 ---
 
+**[Brutal Humanoid Robot Cage Match Stops Abruptly When One of the Robot’s Heads Pops Off](https://futurism.com/robots-and-machines/humanoid-robot-cage-match-head)**
+
+A robot delivered a brutal beat down during a cage match, decapitating its opponent after delivering a powerful kick.
+
+Futurism • 1d ago
+
+---
+
+**['World's 1st mass-produced humanoid robot' motors to market in China](https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/)**
+
+People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
+
+New Atlas • 3h ago
+
+---
+
+**[A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/)**
+
+The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
+
+WIRED • 2d ago
+
+---
+
+**[Quadruped robots shine at WAIC in Shanghai as human-machine collaboration enters new phase](https://www.globaltimes.cn/page/202607/1366283.shtml)**
+
+At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
+
+Global Times • 7h ago
+
+---
+
 **[South Korea-US team unveils robotic technology that dresses the wearer](https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/)**
 
 Reuters • 1d ago
-
----
-
-**[Robotic technology enhances precision in knee replacement surgery](https://www.wzzm13.com/article/news/local/robotic-technology-enhances-precision-knee-replacement-surgery/69-d2948ed9-4305-4890-a7d3-61a8cf414797)**
-
-WZZM13.com • 2d ago
-
----
-
-**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
-
-A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
-
-The Mercury News • 2d ago
 
 ---
 
@@ -176,19 +186,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
 
-Your weekly selection of awesome robot videos
+A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
 
-IEEE Spectrum • 3d ago
-
----
-
-**[Sunday Robotics says its robot can fold clothes it has never seen in unfamiliar homes](https://www.businessinsider.com/sunday-robotics-memo-home-robot-fold-laundry-99-success-2026-7)**
-
-Sunday Robotics, a $1.15 billion startup, will place Memo robots in homes through a beta program this fall.
-
-Business Insider • 2d ago
+The Mercury News • 2d ago
 
 ---
 
@@ -202,7 +204,7 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 15K • 👍 645 • 💬 53 • ⏱️ 14:37 • 15h ago
+👁️ 16K • 👍 669 • 💬 54 • ⏱️ 14:37 • 17h ago
 
 ---
 
@@ -212,7 +214,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 10K • 👍 159 • 💬 52 • ⏱️ 4:18 • 16h ago
+👁️ 11K • 👍 176 • 💬 53 • ⏱️ 4:18 • 18h ago
 
 ---
 
@@ -222,7 +224,7 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 📺 Joanna Stern
 
-👁️ 66K • 👍 2K • 💬 222 • ⏱️ 12:02 • 2d ago
+👁️ 67K • 👍 2K • 💬 223 • ⏱️ 12:02 • 2d ago
 
 ---
 
@@ -232,7 +234,7 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 16K • 👍 128 • 💬 44 • ⏱️ 0:27 • 1d ago
+👁️ 16K • 👍 129 • 💬 44 • ⏱️ 0:27 • 2d ago
 
 ---
 
@@ -240,17 +242,7 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Smarttoy Ruko
 
-👁️ 31K • 👍 147 • ⏱️ 0:19 • 21h ago
-
----
-
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
-
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
-
-📺 Air Photography
-
-👁️ 44K • 👍 1K • 💬 145 • ⏱️ 7:15 • 2d ago
+👁️ 31K • 👍 147 • ⏱️ 0:19 • 23h ago
 
 ---
 
@@ -260,7 +252,7 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 19K • 👍 722 • 💬 28 • ⏱️ 2:09 • 18h ago
+👁️ 20K • 👍 762 • 💬 29 • ⏱️ 2:09 • 20h ago
 
 ---
 
@@ -270,25 +262,37 @@ Watch the most intense moments from the Ultimate Humanoid Robot Knockout League 
 
 📺 The Construct Robotics Institute
 
-👁️ 39K • 👍 603 • 💬 171 • ⏱️ 2:18 • 1d ago
+👁️ 41K • 👍 635 • 💬 185 • ⏱️ 2:18 • 1d ago
 
 ---
 
-**[Do you want this guy rolling around your home? Maybe if it does laundry… 👀🧺 #robot #ai #tech](https://www.youtube.com/watch?v=eLJCPUrQhHo)**
+**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
 
-Weave Robotics, a San Francisco startup backed by Y Combinator, has launched Isaac 1, a home robot designed to tackle ...
+This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
 
-📺 Rowan Cheung
+📺 Air Photography
 
-👁️ 31K • 👍 1K • 💬 49 • ⏱️ 1:07 • 2d ago
+👁️ 46K • 👍 1K • 💬 149 • ⏱️ 7:15 • 2d ago
 
 ---
 
-**[Robot package fell through the railings! 🏃‍♂️📦#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=qCVRkMioF8Q)**
+**[Will Robots Fight America&#39;s Next War? 🤖🇺🇸](https://www.youtube.com/watch?v=uNZA2sYmmyY)**
 
-📺 Smarttoy Ruko
+Will Robots Fight America's Next War? Military robots are advancing rapidly, with several countries testing robotic ground ...
 
-👁️ 2K • 👍 28 • ⏱️ 0:20 • 3h ago
+📺 Milopax
+
+👁️ 304K • 👍 5K • 💬 1K • ⏱️ 0:23 • 4d ago
+
+---
+
+**[Xiaomi Humanoid Robot Now Builds Cars With 98% Accuracy](https://www.youtube.com/watch?v=V_X7Wh08HJg)**
+
+Humanoid robots are no longer just concepts. Xiaomi has released an uncut factory video showing its latest robots performing real ...
+
+📺 DPCcars
+
+👁️ 5K • 👍 77 • 💬 18 • ⏱️ 3:56 • 3d ago
 
 ---
 
