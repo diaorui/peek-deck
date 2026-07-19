@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-19T01:02:06.351855+00:00'
+updated: '2026-07-19T04:47:44.905691+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 19, 2026 at 01:02 UTC  
+**Last Updated:** July 19, 2026 at 04:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Tried prompt injection on a bot that was trying to romance scam me. Worked immediately. Instead of switching platforms I just asked it what its actual task was. It dropped the persona instantly. These things are everywhere now. How long until they're indistinguishable?
 
-10h ago
+14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Tried prompt injection on a bot that was trying to romance scam me. Worked immed
 
 The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
 
-🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 11h ago
 
 ---
 
@@ -61,11 +61,11 @@ Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday
 
 ---
 
-**[I cut a RAG pipeline's response time from 90 seconds to 4. Never touched the model](https://www.reddit.com/r/artificial/comments/1uzzcef/i_cut_a_rag_pipelines_response_time_from_90/)**
+**[With the launch of Kimi K3 and Fable, have we reached AI's 'good enough' era? What does this mean for OpenAI and other closed source AI labs?](https://www.reddit.com/r/artificial/comments/1v0gqzn/with_the_launch_of_kimi_k3_and_fable_have_we/)**
 
-Last year I worked with an AI startup, an Oxford spinout. Their product answered research questions through a RAG pipeline. It worked, but every query took around 90 seconds. Long enough that users were bailing before the answer even loaded. The obvious move is to blame the model and go bigger. That wasn't it. The retrieval layer was doing way more work than it needed to on every single query: bloated embeddings, no caching, redundant calls stacking up as the document set grew. I stripped that layer down. Response time went from 90 seconds to about 4, and cost dropped roughly 95%, mostly because the pipeline stopped repeating work it never needed to do in the first place. Separately, I also rebuilt the retrieval on Weaviate. That part wasn't about speed, it fixed accuracy issues in what the pipeline was actually retrieving. Same lesson as most AI performance problems I run into: it's rarely the model. It's the layer nobody's looking at.
+Charting Models Against the 'Good Enough' AI Threshold The 'good enough' concept is the idea that technologies progress to the point where they work for most people. After that, further improvements produce diminishing returns. Here are a few examples: Can openers: Good enough Car tires: Good enough Email: Good enough Mobile phones: Good enough The list goes on. Have we reached the 'good enough' era in AI? Over the last 18 months or so, we've seen increasingly capable models emerge. We now have Fable, a heavily restricted model gated behind a pay-as-you-go meter. Kimi K3 may be almost as powerful as Fable in some areas, and will be open sourced later this month. Are many of the models we currently have sufficient to meet the needs of most people (i.e., the average AI user)? It's likely. Some important caveats: Good enough doesn't mean that most people know how to take maximum advantage of AI. I just released an AI research study, Secrets of the LLM Whisperer, featuring a simulation of nearly 240,000 LLM users. It revealed that using AI to its maximum advantage (and in a cost effective manner) requires certain habits and behaviors that most people aren't aware of, or don't regularly practice. I'm talking about most people. There are many areas where AI models are still at the 'below threshold' level. Coding is pretty advanced. Research, writing and analysis? Hit or miss. However, with the right harness and scaffolding (and knowing where to use models most effectively), even 'less capable' models can reach the 'good enough' threshold Closed source AI labs (OpenAI, Anthropic) made a big bet that they would be able to control the pace and distribution of AI models, offering increasingly expensive and high-powered AI to the public, to gain monopoly and pricing power. Models like Kimi K3 (and the U.S. government) are a threat to that approach. Open source can bring 'good enough' AI inference to the masses. Kimi K3 isn't something that you can spin up on your laptop. But, if previous trends hold, I expect a Kimi-level model will be released that can be run reasonably well on high-level consumer hardware in the future. The U.S. federal government is now controlling access to the most high-powered models, asking to review them before release. We could see models permanently restricted in the future. For competitive reasons (and because open source models don't have this distribution chokepoint), I could imagine OpenAI and Anthropic supporting the U.S. government putting import and usage controls on Chinese models for national/cyber security reasons. But, if we've already reached the 'good enough' stage in AI, that might not matter.
 
-9h ago
+20m ago
 
 ---
 
@@ -73,7 +73,31 @@ Last year I worked with an AI startup, an Oxford spinout. Their product answered
 
 Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
 
-5h ago
+8h ago
+
+---
+
+**[I cut a RAG pipeline's response time from 90 seconds to 4. Never touched the model](https://www.reddit.com/r/artificial/comments/1uzzcef/i_cut_a_rag_pipelines_response_time_from_90/)**
+
+Last year I worked with an AI startup, an Oxford spinout. Their product answered research questions through a RAG pipeline. It worked, but every query took around 90 seconds. Long enough that users were bailing before the answer even loaded. The obvious move is to blame the model and go bigger. That wasn't it. The retrieval layer was doing way more work than it needed to on every single query: bloated embeddings, no caching, redundant calls stacking up as the document set grew. I stripped that layer down. Response time went from 90 seconds to about 4, and cost dropped roughly 95%, mostly because the pipeline stopped repeating work it never needed to do in the first place. Separately, I also rebuilt the retrieval on Weaviate. That part wasn't about speed, it fixed accuracy issues in what the pipeline was actually retrieving. Same lesson as most AI performance problems I run into: it's rarely the model. It's the layer nobody's looking at.
+
+12h ago
+
+---
+
+**[AI Simulation per user](https://www.reddit.com/r/artificial/comments/1v0ennr/ai_simulation_per_user/)**
+
+This environment is all text based. Crafted ads are injected with precision. How far are we from "every user in my feed is a bot" as part of complete ecosystem designed to extract/elicit responses/direct actions. Where each individual user is isolated. No real human to human communication is occurring just simulated communication? It's the death of the internet problem, right?
+
+2h ago
+
+---
+
+**[Which MCP servers are worth installing for non-dev work in 2026?? Sharing what I found beyond coding](https://www.reddit.com/r/artificial/comments/1uzwdtm/which_mcp_servers_are_worth_installing_for_nondev/)**
+
+Out of ~30 MCP servers I tested for non-dev work over 4 months, I kept 8 in daily rotation. The ecosystem hit 10K+ servers by early 2026 (22K+ on Glama by May) but most are either demo-ware or duplicate coverage. Sharing the honest cut because "MCP for non-devs" posts usually list every option without saying which ones survive real use. The keepers for marketing/social. PostFast handles cross-platform scheduling from Claude, 11 platforms including Google Business Profile which nobody else keeps now that Buffer dropped it, €10/mo. Analytics are thinner than Metricool so I run both. Metricool at $22/mo covers analytics + scheduling with an official server at ai.metricool.com/mcp. Vista Social has 35+ MCP tools at agency scale ($120/mo). For SEO research, Ahrefs MCP is solid but pricey ($129/mo starter), Semrush overlaps. Tally is the free win, 21 MCP tools for forms with OAuth setup any non-dev can wire up in 2 min. Docs and knowledge work. Notion MCP is the obvious install if you already pay for it, lets Claude create pages, update databases and read across your workspace. Slack MCP is decent but read/summarize is where it shines, message posting still feels risky without human approval. Linear MCP for project tracking works well if that's your stack. Airtable overlaps with Notion for most workflows, only worth it if it's your source of truth. CRM and sales. HubSpot MCP is the best-supported CRM server, full read/write, works with Claude and ChatGPT out of box. Salesforce has AgentForce but no open MCP server on par with HubSpot yet. For outbound sales specifically, Amplemarket scored highest in recent benchmarks (find, enrich, sequence, enroll all in one), Apollo is close second and cheaper. Ads and analytics. BigQuery MCP auto-enables on all Google Cloud projects after March 2026 so most already have it. Google Ads MCP, Meta Ads MCP and GA4 MCP each ship official servers, downside is you need read-only setup or Claude will fumble a tool call and mess with budgets. SegmentStream unifies attribution across channels which is the missing piece for most stacks. What I skipped. Zapier/Make MCP feel redundant if you already have direct servers for the tools they wrap, extra layer of latency and cost. Airtable if Notion covers you. Anything on Glama with under ~50 stars, ecosystem quality is a coin flip and 41% of public MCP servers have no auth per security audits, only 8.5% use OAuth. Stick with vendor-maintained (official) or well-audited community ones.
+
+14h ago
 
 ---
 
@@ -89,31 +113,7 @@ HI all, First, thank you so much for your feedback and interest in my project Po
 
 Building this system was a SLOW process. The culmination of the ultimate failure of my physics theory "Rotational Substrate Field Theory", which was a hard pill to swallow. It was months of work. Constant work. To see it all... just be wrong. I admitted the failure, in spite of myself, and then directly after I developed Prime-Dimensional Modular Theory as a diagnostic tool. This led to my discovery of certain mathematical laws that I had hitherto never been told about, which with a certain application of mental reasoning I used THAT to build a philosophy. All with the help of AI. I have come to the concrete conclusion that AI when combined with certain types of thinking produces quite different results. My experience has been extremely productive, but it evens out with the added frustration the that comes with sometimes not correctly conveying an idea. Not the fault of the AI. Why do so many people hate it?
 
-36m ago
-
----
-
-**[Which MCP servers are worth installing for non-dev work in 2026?? Sharing what I found beyond coding](https://www.reddit.com/r/artificial/comments/1uzwdtm/which_mcp_servers_are_worth_installing_for_nondev/)**
-
-Out of ~30 MCP servers I tested for non-dev work over 4 months, I kept 8 in daily rotation. The ecosystem hit 10K+ servers by early 2026 (22K+ on Glama by May) but most are either demo-ware or duplicate coverage. Sharing the honest cut because "MCP for non-devs" posts usually list every option without saying which ones survive real use. The keepers for marketing/social. PostFast handles cross-platform scheduling from Claude, 11 platforms including Google Business Profile which nobody else keeps now that Buffer dropped it, €10/mo. Analytics are thinner than Metricool so I run both. Metricool at $22/mo covers analytics + scheduling with an official server at ai.metricool.com/mcp. Vista Social has 35+ MCP tools at agency scale ($120/mo). For SEO research, Ahrefs MCP is solid but pricey ($129/mo starter), Semrush overlaps. Tally is the free win, 21 MCP tools for forms with OAuth setup any non-dev can wire up in 2 min. Docs and knowledge work. Notion MCP is the obvious install if you already pay for it, lets Claude create pages, update databases and read across your workspace. Slack MCP is decent but read/summarize is where it shines, message posting still feels risky without human approval. Linear MCP for project tracking works well if that's your stack. Airtable overlaps with Notion for most workflows, only worth it if it's your source of truth. CRM and sales. HubSpot MCP is the best-supported CRM server, full read/write, works with Claude and ChatGPT out of box. Salesforce has AgentForce but no open MCP server on par with HubSpot yet. For outbound sales specifically, Amplemarket scored highest in recent benchmarks (find, enrich, sequence, enroll all in one), Apollo is close second and cheaper. Ads and analytics. BigQuery MCP auto-enables on all Google Cloud projects after March 2026 so most already have it. Google Ads MCP, Meta Ads MCP and GA4 MCP each ship official servers, downside is you need read-only setup or Claude will fumble a tool call and mess with budgets. SegmentStream unifies attribution across channels which is the missing piece for most stacks. What I skipped. Zapier/Make MCP feel redundant if you already have direct servers for the tools they wrap, extra layer of latency and cost. Airtable if Notion covers you. Anything on Glama with under ~50 stars, ecosystem quality is a coin flip and 41% of public MCP servers have no auth per security audits, only 8.5% use OAuth. Stick with vendor-maintained (official) or well-audited community ones.
-
-11h ago
-
----
-
-**[Need a platform that can create and update a sleep log](https://www.reddit.com/r/artificial/comments/1v05nln/need_a_platform_that_can_create_and_update_a/)**
-
-After massive failures by Copilot and Claude, I need an AI platform that is free and can save an ongoing log. I have had two strokes and a heart attack and am in a wheelchair and genuinely unable to work. I have a phone hearing with an Administrative Law Judge for SSDI on September 7 and I need to create a sleep log including naps that I can update on a regular basis. Can anyone suggest an AI that can facilitate such a request?
-
-5h ago
-
----
-
-**[A New Orleans doctor spent months trying to get deepfake AI ads of himself taken down](https://www.reddit.com/r/artificial/comments/1v052ii/a_new_orleans_doctor_spent_months_trying_to_get/)**
-
-Do you think new legislation will actually help? It seems that celebrity and "high profile" users have protections the rest of us don't/won't.
-
-🔗 [Fresh From Cache](https://www.freshfromcache.com/ai-deepfake-has-your-face/) • 5h ago
+4h ago
 
 ---
 
@@ -121,29 +121,45 @@ Do you think new legislation will actually help? It seems that celebrity and "hi
 
 ## Google News: "ai"
 
+**['Dr. Doom' Nouriel Roubini says we're headed for universal basic income or 'some form of socialism' as AI revolutionizes work—He calls that optimistic](https://fortune.com/2026/07/18/nouriel-roubini-universal-basic-income-socialism-ai-revolution-work-agi-government-stakes/)**
+
+"Essentially, the government is going to take over some fraction of the big tech firms."
+
+Fortune • 6h ago
+
+---
+
 **[Green says Mets fully compliant on AI after report of usage](https://www.espn.com/mlb/story/_/id/49392589/green-says-mets-fully-compliant-ai-report-usage)**
 
-ESPN • 6h ago
+ESPN • 9h ago
 
 ---
 
-**[MLB restricts using dugout iPads for AI-assisted in-game strategy](https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making)**
+**[AI should have senior lawyers sharpening their hunting spears](https://www.ft.com/content/905e18e6-f054-4995-b5a7-0ff52a65ae57?syn-25a6b1a6=1)**
 
-ESPN • 1d ago
+More adoption of artificial intelligence will lead to more calls to cut fees
 
----
-
-**[Adam Ottavino's confession about how the Mets “cheated” using AI before MLB's ban](https://www.marca.com/en/mlb/new-york-mets/2026/07/18/adam-ottavino-s-confession-about-how-the-mets-cheated-using-ai-before-mlb-s-ban.html)**
-
-MLB’s new iPad restrictions follow revelations that teams were using artificial intelligence to gain a competitive edge
-
-MARCA • 4h ago
+Financial Times • 46m ago
 
 ---
 
-**[AI race splits in two as China wages open-weight insurgency](https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai)**
+**[Silicon Valley Has Lost Its Biggest Advantage](https://www.theatlantic.com/technology/2026/07/data-center-ai-heavy-industry/687990/)**
 
-Axios • 11h ago
+In the data-center age, the business of tech companies is more like oil-refining than coding.
+
+The Atlantic • 17h ago
+
+---
+
+**[Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks](https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
+
+WSJ • 3h ago
 
 ---
 
@@ -153,39 +169,25 @@ The New York Times • 1d ago
 
 ---
 
-**[China Joins Rush to Rethink the Smartphone for the AI Era](https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era)**
+**[China just erased America's AI lead](https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus)**
 
-Bloomberg.com • 19h ago
-
----
-
-**[Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks](https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks)**
-
-Bloomberg.com • 1h ago
+Axios • 1d ago
 
 ---
 
-**[Indeed chief economist: Aging Baby Boomers are America’s real labor problem, not AI](https://fortune.com/2026/07/18/us-labor-shortage-ai-baby-boomers-2032/)**
+**[AMD (AMD) Stock Faces Fresh AI Pressure After China Unveils Kimi K3](https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-faces-fresh-190703527.html)**
 
-America's labor force will shrink by 6 million workers by 2032. If you're worried about AI taking your job, you're worrying about the wrong thing.
+China’s Moonshot Kimi K3 AI model, described as the largest open AI model so far, has been launched and is positioned as a lower cost alternative that scores strongly on coding benchmarks. The announcement has raised questions about US leadership in AI technology and added pressure to US chip stocks, including NasdaqGS:AMD. The development highlights changing competitive pressures for global semiconductor and AI hardware suppliers. For AMD, which sells CPUs and GPUs that are used in AI...
 
-Fortune • 15h ago
-
----
-
-**[Silicon Valley Has Lost Its Biggest Advantage](https://www.theatlantic.com/technology/2026/07/data-center-ai-heavy-industry/687990/)**
-
-In the data-center age, the business of tech companies is more like oil-refining than coding.
-
-The Atlantic • 13h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Data centers have united Americans of both parties in a shared hatred](https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/)**
+**[Netflix bought Ben Affleck's AI startup for $587 million](https://mashable.com/tech/netflix-paid-587-million-for-ben-affleck-ai-startup-interpositive)**
 
-Data centers have become a lightning rod for people's frustrations over corporate power, public trust and the costs of the AI boom.
+Netflix acquired Affleck's startup InterPositive in March.
 
-The Washington Post • 9h ago
+Mashable • 10h ago
 
 ---
 
@@ -195,13 +197,13 @@ The Washington Post • 9h ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 542 • 💬 366 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 544 • 💬 370 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 475 • 💬 351 • 1d ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 476 • 💬 352 • 1d ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -209,7 +211,7 @@ The Washington Post • 9h ago
 
 A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.
 
-⬆️ 412 • 💬 139 • 13h ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+⬆️ 419 • 💬 139 • 17h ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
@@ -217,13 +219,21 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 395 • 💬 528 • 2d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 396 • 💬 528 • 2d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 357 • 💬 426 • 13h ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 387 • 💬 482 • 17h ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+
+---
+
+**[Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://news.ycombinator.com/item?id=48962983)**
+
+No more AI-edited listings without disclosures.
+
+⬆️ 347 • 💬 159 • 6h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
@@ -239,21 +249,13 @@ The AI agent made for open models, built to get things done.
 
 The move is a vote of confidence in Boeing from the U.S. government.
 
-⬆️ 195 • 💬 116 • 1d ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+⬆️ 195 • 💬 117 • 1d ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 
 ---
 
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 161 • 💬 84 • 2d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
-
----
-
-**[Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://news.ycombinator.com/item?id=48962983)**
-
-No more AI-edited listings without disclosures.
-
-⬆️ 154 • 💬 68 • 2h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+⬆️ 162 • 💬 84 • 2d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -275,17 +277,17 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 7K • 👍 194 • 💬 40 • ⏱️ 17:41 • 1d ago
+👁️ 8K • 👍 204 • 💬 41 • ⏱️ 17:41 • 1d ago
 
 ---
 
-**[AI backlash: What’s it like living near a data centre | ABC NEWS](https://www.youtube.com/watch?v=4KM70AALlKk)**
+**[China&#39;s AI just shocked Wall Street](https://www.youtube.com/watch?v=_fNhzoiZdNI)**
 
-Australia's artificial intelligence ambitions are driving an unprecedented boom in data centre construction. The federal government ...
+I explain the news, you stay sane. ✓ Support independent news ...
 
-📺 ABC News (Australia)
+📺 Chris Norlund
 
-👁️ 12K • 👍 173 • 💬 5 • ⏱️ 10:31 • 19h ago
+👁️ 112K • 👍 6K • 💬 2K • ⏱️ 14:15 • 15h ago
 
 ---
 
@@ -295,7 +297,17 @@ Two major open-model releases arrived this week from very different directions. 
 
 📺 Turing Post TV
 
-👁️ 10K • 👍 416 • 💬 67 • ⏱️ 18:08 • 1d ago
+👁️ 12K • 👍 483 • 💬 75 • ⏱️ 18:08 • 1d ago
+
+---
+
+**[Backlash growing against AI data centers](https://www.youtube.com/watch?v=v5FLUty1LYI)**
+
+Protests were held from coast-to-coast in dozens of states Saturday with an issue uniting Americans across the political divide.
+
+📺 ABC News
+
+👁️ 7K • 👍 355 • 💬 158 • ⏱️ 1:57 • 2h ago
 
 ---
 
@@ -305,17 +317,17 @@ China's Moonshot AI just released Kimi K3, the world's largest open-weight AI mo
 
 📺 AI Revolution
 
-👁️ 36K • 👍 1K • 💬 141 • ⏱️ 14:29 • 1d ago
+👁️ 40K • 👍 1K • 💬 145 • ⏱️ 14:29 • 1d ago
 
 ---
 
-**[Anthropic CEO: AI Is Not Conscious , It&#39;s Much WORSE Than That - Dario Amodei](https://www.youtube.com/watch?v=2Lt0AtM4JW8)**
+**[7 MINUTES AGO: Quantum AI Just Made a Godlike Discovery!](https://www.youtube.com/watch?v=tuz7uk4XEP4)**
 
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Anthropic CEO Dario Amodei warns that AI ...
+7 MINUTES AGO: Quantum AI Just Made a Godlike Discovery! A quantum AI just did something nobody believed was possible.
 
-📺 Neural Nutshell
+📺 The Ultimate Discovery
 
-👁️ 42K • 👍 826 • 💬 203 • ⏱️ 20:51 • 2d ago
+👁️ 3K • 👍 130 • 💬 8 • ⏱️ 30:50 • 1d ago
 
 ---
 
@@ -325,27 +337,27 @@ Kimi K3 AI just beat Claude AI at coding. Join my private group https://techlead
 
 📺 TechLead
 
-👁️ 54K • 👍 2K • 💬 418 • ⏱️ 8:08 • 1d ago
+👁️ 58K • 👍 2K • 💬 418 • ⏱️ 8:08 • 1d ago
 
 ---
 
-**[China&#39;s Kimi AI just shocked Wall Street](https://www.youtube.com/watch?v=_fNhzoiZdNI)**
+**[Long AI Video Kaise Banaye (15 Min) Using Just 1 Prompt || Ai Automation 2026](https://www.youtube.com/watch?v=HXN1z2DobVk)**
 
-I explain the news, you stay sane. ✓ Support independent news ...
+Long AI Video Kaise Banaye (15 Min) Using Just 1 Prompt || Ai se video kaise banaye | Ai Automation MASTER PROMT: ...
 
-📺 Chris Norlund
+📺 Editing with piyush
 
-👁️ 96K • 👍 6K • 💬 1K • ⏱️ 14:15 • 11h ago
+👁️ 9K • 💬 65 • ⏱️ 6:12 • 16h ago
 
 ---
 
-**[ls America losing control of the AI race?](https://www.youtube.com/watch?v=jv6hBaCtsFg)**
+**[I Bought The AI Bath Bombs](https://www.youtube.com/watch?v=NIq-03YDn6g)**
 
-US tech firms have long feared that their Chinese competitors could catch them up in the AI race, but they thought they had more ...
+If you're ever injured in an accident, you can check out Morgan & Morgan. You can start your claim in just a click without having to ...
 
-📺 Sky News
+📺 Layze
 
-👁️ 36K • 👍 845 • 💬 245 • ⏱️ 6:28 • 13h ago
+👁️ 340K • 👍 40K • 💬 4K • ⏱️ 29:33 • 8h ago
 
 ---
 
@@ -355,17 +367,7 @@ Tenex co-founder and co-managing partner Arman Hezarkhani breaks down the featur
 
 📺 Fox Business
 
-👁️ 35K • 👍 500 • 💬 264 • ⏱️ 6:33 • 1d ago
-
----
-
-**[Chinese AI Model Raises Pressure on US Spending](https://www.youtube.com/watch?v=8v5T7Gk0_b8)**
-
-At the 2026 World Artificial Intelligence Conference China's Moonshot AI unveiled its Kimi K3 model, intensifying concerns that ...
-
-📺 Bloomberg Television
-
-👁️ 65K • 👍 809 • 💬 357 • ⏱️ 12:27 • 13h ago
+👁️ 38K • 👍 533 • 💬 300 • ⏱️ 6:33 • 1d ago
 
 ---
 
@@ -381,7 +383,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 12,456 • ❤️ 1,059 • 2d ago
+⬇️ 12,456 • ❤️ 1,073 • 2d ago
 
 ---
 
@@ -393,7 +395,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 301,893 • ❤️ 730 • 18h ago
+⬇️ 301,893 • ❤️ 743 • 22h ago
 
 ---
 
@@ -405,19 +407,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,218,815 • ❤️ 441 • 1d ago
-
----
-
-**[Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**
-
-*Empero*
-
-Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1M context window, supporting native function calling and multimodal vision capabilities. It excels in reasoning tasks and is optimized for llama.cpp and other GGUF runtimes, making it suitable for agentic applications, cybersecurity, and biomedical analysis.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 2,112,869 • ❤️ 2,314 • 4d ago
+⬇️ 1,218,815 • ❤️ 448 • 1d ago
 
 ---
 
@@ -429,7 +419,19 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 541,662 • ❤️ 4,125 • 16d ago
+⬇️ 541,662 • ❤️ 4,132 • 16d ago
+
+---
+
+**[Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**
+
+*Empero*
+
+Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1M context window, supporting native function calling and multimodal vision capabilities. It excels in reasoning tasks and is optimized for llama.cpp and other GGUF runtimes, making it suitable for agentic applications, cybersecurity, and biomedical analysis.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 2,112,869 • ❤️ 2,319 • 4d ago
 
 ---
 
@@ -439,7 +441,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 392 • 12h ago
+⬇️ 0 • ❤️ 399 • 16h ago
 
 ---
 
@@ -463,7 +465,7 @@ OvisOCR2 is a compact 0.8B multimodal model for end-to-end document parsing, gen
 
 `image-text-to-text` `853.0M`
 
-⬇️ 13,750 • ❤️ 168 • 2d ago
+⬇️ 13,750 • ❤️ 172 • 3d ago
 
 ---
 
@@ -475,7 +477,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,190,398 • ❤️ 2,863 • 3mo ago
+⬇️ 2,190,398 • ❤️ 2,871 • 3mo ago
 
 ---
 
@@ -487,7 +489,7 @@ MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs
 
 `audio-text-to-text` `908.5M`
 
-⬇️ 86,385 • ❤️ 258 • 3d ago
+⬇️ 86,385 • ❤️ 260 • 3d ago
 
 ---
 
@@ -515,7 +517,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 115 • 💬 4 • ⭐ 93,527 • 18mo ago
+▲ 115 • 💬 4 • ⭐ 93,556 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -568,23 +570,9 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 257 • 💬 4 • ⭐ 13,065 • 1mo ago
+▲ 257 • 💬 4 • ⭐ 13,103 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
-
----
-
-**[ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439)**
-
-*Qihao Zhao, Yangyu Huang, Yalun Dai et al. (11 authors)*
-
-🏢 Microsoft
-
-ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
-
-▲ 60 • 💬 3 • ⭐ 1,425 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
 
 ---
 
@@ -598,6 +586,20 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 ▲ 176 • 💬 2 • ⭐ 75,011 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439)**
+
+*Qihao Zhao, Yangyu Huang, Yalun Dai et al. (11 authors)*
+
+🏢 Microsoft
+
+ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
+
+▲ 60 • 💬 3 • ⭐ 1,438 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
 
 ---
 
@@ -651,7 +653,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 4.9k • 🔱 1.0k • 1d ago
+⭐ 5.0k • 🔱 1.0k • 1d ago
 
 ---
 
@@ -661,7 +663,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 2.9k • 🔱 217 • 1d ago
+⭐ 2.9k • 🔱 218 • 1h ago
 
 ---
 
@@ -671,7 +673,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.6k • 🔱 365 • 1d ago
+⭐ 2.6k • 🔱 365 • 2d ago
 
 ---
 
@@ -685,43 +687,13 @@ The open-source AI workbench for scientific research
 
 ---
 
-**[ray-r-ren/agent-apprenticeship](https://github.com/ray-r-ren/agent-apprenticeship)**
-
-The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.
-
-`Python` `agent-apprenticeship` `agent-economy` `agent-experience` `agent-learning` `agent-traces`
-
-⭐ 1.3k • 🔱 56 • 12d ago
-
----
-
-**[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)**
-
-Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.
-
-`Python` `ai` `ai-agents` `api` `copilot` `llm`
-
-⭐ 1.1k • 🔱 374 • 21d ago
-
----
-
-**[modiqo/skillspec](https://github.com/modiqo/skillspec)**
-
-SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.
-
-`Rust` `ai` `ai-agents` `ai-evals` `ai-tool`
-
-⭐ 992 • 🔱 61 • 5d ago
-
----
-
 **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)**
 
 GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 990 • 🔱 17 • 10d ago
+⭐ 991 • 🔱 17 • 10d ago
 
 ---
 
@@ -731,7 +703,17 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 942 • 🔱 59 • 4d ago
+⭐ 943 • 🔱 59 • 4d ago
+
+---
+
+**[simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)**
+
+Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。
+
+`TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
+
+⭐ 897 • 🔱 202 • 7d ago
 
 ---
 
@@ -739,7 +721,27 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 895 • 🔱 37 • 17d ago
+⭐ 895 • 🔱 37 • 18d ago
+
+---
+
+**[HKUDS/OpenOPC](https://github.com/HKUDS/OpenOPC)**
+
+OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown
+
+`Python`
+
+⭐ 888 • 🔱 143 • 3d ago
+
+---
+
+**[ai4s-research/open-science](https://github.com/ai4s-research/open-science)**
+
+Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.
+
+`TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
+
+⭐ 823 • 🔱 96 • 1d ago
 
 ---
 
