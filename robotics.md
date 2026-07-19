@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-19T10:54:56.712673+00:00'
+updated: '2026-07-19T11:58:46.651651+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 19, 2026 at 10:54 UTC  
+**Last Updated:** July 19, 2026 at 11:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Robert Scoble says an unnamed investor told him Anthropic is buying robot AI dev
 
 On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
 
-🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 22h ago
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 23h ago
 
 ---
 
@@ -144,29 +144,13 @@ WIRED • 2d ago
 
 People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
 
-New Atlas • 4h ago
-
----
-
-**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
-
-A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
-
-The Mercury News • 2d ago
+New Atlas • 5h ago
 
 ---
 
 **[South Korea-US team unveils robotic technology that dresses the wearer](https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/)**
 
-Reuters • 1d ago
-
----
-
-**[Quadruped robots shine at WAIC in Shanghai as human-machine collaboration enters new phase](https://www.globaltimes.cn/page/202607/1366283.shtml)**
-
-At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
-
-Global Times • 8h ago
+Reuters • 2d ago
 
 ---
 
@@ -178,19 +162,35 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[They Trained Robots on 100 Million Videos. Here's What Happened](https://www.cnet.com/videos/they-trained-robots-on-100-million-videos-heres-what-happened/)**
+**[Quadruped robots shine at WAIC in Shanghai as human-machine collaboration enters new phase](https://www.globaltimes.cn/page/202607/1366283.shtml)**
 
-Rhoda AI is betting the future of robotics starts with internet video, not lab data. We visited the company's headquarters to see how its Direct Video Action model learns physics from hundreds of millions of clips.
+At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
 
-CNET • 1h ago
+Global Times • 9h ago
 
 ---
 
-**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+**[This Graduate Student Equips NASA’s Robots With Assembly Skills](https://spectrum.ieee.org/graduate-student-nasas-robots-assembly)**
 
-Your weekly selection of awesome robot videos
+Her algorithm enables robots to install antennas on satellites
 
 IEEE Spectrum • 3d ago
+
+---
+
+**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
+
+A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
+
+The Mercury News • 2d ago
+
+---
+
+**[Sunday Robotics says its robot can fold clothes it has never seen in unfamiliar homes](https://www.businessinsider.com/sunday-robotics-memo-home-robot-fold-laundry-99-success-2026-7)**
+
+Sunday Robotics, a $1.15 billion startup, will place Memo robots in homes through a beta program this fall.
+
+Business Insider • 2d ago
 
 ---
 
@@ -198,23 +198,13 @@ IEEE Spectrum • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
-
-America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
-
-📺 S3 | Science, Startups, & Stories
-
-👁️ 16K • 👍 669 • 💬 54 • ⏱️ 14:37 • 18h ago
-
----
-
 **[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
 
 Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
 
 📺 DPCcars
 
-👁️ 11K • 👍 176 • 💬 53 • ⏱️ 4:18 • 20h ago
+👁️ 12K • 👍 190 • 💬 65 • ⏱️ 4:18 • 21h ago
 
 ---
 
@@ -224,45 +214,17 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 📺 Joanna Stern
 
-👁️ 67K • 👍 2K • 💬 223 • ⏱️ 12:02 • 2d ago
+👁️ 68K • 👍 2K • 💬 224 • ⏱️ 12:02 • 2d ago
 
 ---
 
-**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
+**[China&#39;s T800 Robot Lost Its Head and Still REFUSED to Back Down! EngineAI URKL&#39;s Wild Start](https://www.youtube.com/watch?v=gbqnza2MCJo)**
 
-The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
+A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knockout League (URKL) show in Shenzhen.
 
-📺 Job Othoniel
+📺 Kalil 4.0
 
-👁️ 16K • 👍 129 • 💬 44 • ⏱️ 0:27 • 2d ago
-
----
-
-**[Lucky find: Unboxing a discarded interactive robot. 🤖#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=haIFkiPBw8w)**
-
-📺 Smarttoy Ruko
-
-👁️ 31K • 👍 147 • ⏱️ 0:19 • 1d ago
-
----
-
-**[Fixing a $210 auction robot, Part 6: Full Speed! #engineering #fanuc #robotics](https://www.youtube.com/watch?v=a1Z5q5grVpw)**
-
-Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
-
-📺 Excessive Overkill
-
-👁️ 20K • 👍 762 • 💬 29 • ⏱️ 2:09 • 21h ago
-
----
-
-**[These Robots Fight Better Than You Think | URKL: Ultimate Humanoid Robot Knockout League](https://www.youtube.com/watch?v=DUbbBdSGHE8)**
-
-Watch the most intense moments from the Ultimate Humanoid Robot Knockout League (URKL), where cutting-edge humanoid ...
-
-📺 The Construct Robotics Institute
-
-👁️ 41K • 👍 635 • 💬 185 • ⏱️ 2:18 • 1d ago
+👁️ 8K • 👍 101 • 💬 27 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -272,27 +234,65 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Air Photography
 
-👁️ 46K • 👍 1K • 💬 149 • ⏱️ 7:15 • 2d ago
+👁️ 47K • 👍 1K • 💬 150 • ⏱️ 7:15 • 2d ago
 
 ---
 
-**[Will Robots Fight America&#39;s Next War? 🤖🇺🇸](https://www.youtube.com/watch?v=uNZA2sYmmyY)**
+**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
 
-Will Robots Fight America's Next War? Military robots are advancing rapidly, with several countries testing robotic ground ...
+The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
 
-📺 Milopax
+📺 Job Othoniel
 
-👁️ 304K • 👍 5K • 💬 1K • ⏱️ 0:23 • 4d ago
+👁️ 16K • 👍 128 • 💬 44 • ⏱️ 0:27 • 2d ago
 
 ---
 
-**[Xiaomi Humanoid Robot Now Builds Cars With 98% Accuracy](https://www.youtube.com/watch?v=V_X7Wh08HJg)**
+**[Robot package fell through the railings! 🏃‍♂️📦#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=qCVRkMioF8Q)**
 
-Humanoid robots are no longer just concepts. Xiaomi has released an uncut factory video showing its latest robots performing real ...
+📺 Smarttoy Ruko
 
-📺 DPCcars
+👁️ 6K • 👍 58 • ⏱️ 0:20 • 8h ago
 
-👁️ 5K • 👍 77 • 💬 18 • ⏱️ 3:56 • 3d ago
+---
+
+**[Fixing a $210 auction robot, Part 6: Full Speed! #engineering #fanuc #robotics](https://www.youtube.com/watch?v=a1Z5q5grVpw)**
+
+Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiveoverkill Paypal: ...
+
+📺 Excessive Overkill
+
+👁️ 22K • 👍 787 • 💬 31 • ⏱️ 2:09 • 22h ago
+
+---
+
+**[Scrap Metal Turned Into an Incredible Walking Mech! 🔥⚙️ #Robot #DIY](https://www.youtube.com/watch?v=7D1uTF2ssSY)**
+
+Can a pile of rusty scrap become a giant mechanical suit? ⚙️ Watch an incredible build as a man and woman transform ...
+
+📺 Shelter Guide
+
+👁️ 129K • 👍 2K • 💬 17 • ⏱️ 0:40 • 6d ago
+
+---
+
+**[These Robots Fight Better Than You Think | URKL: Ultimate Humanoid Robot Knockout League](https://www.youtube.com/watch?v=DUbbBdSGHE8)**
+
+Watch the most intense moments from the Ultimate Humanoid Robot Knockout League (URKL), where cutting-edge humanoid ...
+
+📺 The Construct Robotics Institute
+
+👁️ 43K • 👍 663 • 💬 205 • ⏱️ 2:18 • 1d ago
+
+---
+
+**[Dual Arm Humanoid Robot Autonomously Builds Its Own Actuator 🤖⚙️ Future of AI Manufacturing](https://www.youtube.com/watch?v=8hdtW-pnxcs)**
+
+What you're seeing is a dual-arm humanoid desktop robot autonomously assembling one of its own robotic actuators with ...
+
+📺 Techie Sapien
+
+👁️ 216K • 💬 38 • ⏱️ 0:08 • 4d ago
 
 ---
 
