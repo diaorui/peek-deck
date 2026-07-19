@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-19T18:27:10.455974+00:00'
+updated: '2026-07-19T19:42:35.822097+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - social
 - news
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 19, 2026 at 18:27 UTC  
+**Last Updated:** July 19, 2026 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Politicians Are Trying to Change What Chatbots Say About Them](https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 1h ago
+
+---
+
 **[Can countries really regulate AI if they don’t control the compute?](https://www.reddit.com/r/artificial/comments/1v0xckk/can_countries_really_regulate_ai_if_they_dont/)**
 
 I keep hearing AI governance discussed as if every country is sitting at the same table with roughly the same amount of influence. But most countries don’t control the chips, cloud infrastructure, data centers, or frontier models they’re being asked to regulate. They can write rules, but enforcement still depends heavily on infrastructure owned by a small number of governments and private companies. That makes me wonder whether this is really a regulation problem or an ownership problem. Can a country meaningfully govern advanced AI if it cannot independently inspect the systems, control the compute they run on, or enforce decisions against the companies operating them? I’m not saying regulation is pointless. I’m just not convinced legal authority means much without technical leverage behind it. Curious how people here see it. Does regulation eventually reshape who controls the infrastructure, or will the countries that own the compute always have the final say?
 
-28m ago
+1h ago
 
 ---
 
@@ -49,21 +55,15 @@ I keep hearing AI governance discussed as if every country is sitting at the sam
 
 I think this is not really AI problem, its more about mindset and it repeats with every new technology. Calculators, Internet - every time people get a tool that thinks for them, some become lazy and some learn to use it without turning off their brain. AI is just the next round, much stronger round. Maybe some kind of the final boss. So probably there is no universal fix and everyone has to find their own way. How do you deal with it? Would like to hear different opinions.
 
-5h ago
+6h ago
 
 ---
 
-**[Chinese open-weight model beats Opus 4.8 on some benchmarks, first time this has happened](https://www.reddit.com/r/artificial/comments/1v0x2za/chinese_openweight_model_beats_opus_48_on_some/)**
+**[Best AI 3D generator in 2026, breakdown after testing 5 tools](https://www.reddit.com/r/artificial/comments/1v0zksv/best_ai_3d_generator_in_2026_breakdown_after/)**
 
-Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. Artificial Analysis independently ranks it ahead of Anthropic's Opus 4.8 on frontier benchmarks, first Chinese open-weight model to do that. Still behind Claude Fable 5 and GPT-5.6 overall, but Moonshot doesn't claim otherwise. Artificial Analysis and Arena.ai placed it there independently. It also topped web interface engineering evals in blind human-preference comparisons against Claude Fable. Three competing Chinese AI companies (Zhipu, MiniMax, Z.ai) lost 15-28% of their value in a single day. Nasdaq dropped, Nvidia briefly surrendered its most-valuable-company spot to Apple. Companies don't sell off like that over a research demo. Moonshot's moving to IPO within six months, targeting $30B+ valuation, pricing near Anthropic Sonnet levels. Open-weight models typically undercut on price. Moonshot isn't. Is one clean benchmark win against a closed frontier lab is enough to shift enterprise buying decisions? What would it actually take?
+A friend asked me which AI 3D generator to pick for his project and I realized I couldn't give him a straight answer based on anything I'd actually tested myself. So I spent about three weeks running the same 30 prompts through Meshy, Tripo, Rodin, Hunyuan, and CSM to figure out what each one is actually good at. Tested props, characters, hard surface objects, and paid attention to success rate, texture quality, mesh cleanliness, and how long it took to get something genuinely usable. The speed tools are Tripo and CSM. Tripo's Smart Mesh P1.0 generates in literal seconds and the output is clean enough for blockouts. Falls behind on texture detail and the animation library is smaller, but if you need volume and speed it's hard to beat. CSM was similar, fast and decent for simple shapes, but the style defaulted to something more realistic and getting it to match a stylized look took a lot of prompt engineering. Neither is what I'd pick for final quality. On the quality end Rodin Gen 2.5 has the highest peak when it lands, character detail is a tier above everything else. Costs more per generation, failure rate is higher, and the meshes need heavy cleanup, but for hero pieces nothing else touches it. Meshy sits in the middle, clean topology with quads, full PBR maps in one pass, decent plugin support. What held it back for me was consistency on complex organic shapes, some generations came out with surface artifacts that needed manual fixing. The built in printability stuff is genuinely unique though if 3D printing is your thing. Hunyuan is free and open source. Quality is competitive on good rolls but consistency is lower and there's no rig or animation pipeline. Bottom line is most people I know end up using two or three tools depending on the task. Rodin for hero shots, Tripo for speed, Hunyuan if you're on a zero budget, and Meshy as a decent all rounder that covers the most ground. Chasing a single "best" is the wrong question.
 
-39m ago
-
----
-
-**[Politicians Are Trying to Change What Chatbots Say About Them](https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 41m ago
+13m ago
 
 ---
 
@@ -71,7 +71,31 @@ Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. A
 
 ...that I now spend that extra time fixing AI mistakes. Don't get me wrong I use AI almost every day, and it's incredibly useful. But I've noticed something funny: Instead of doing the work myself, I now spend my time fact-checking, rewriting, and correcting what AI generated. It still saves time overall, but it's definitely not the "press one button and you're done" future people imagined. What's one task AI actually saves you time on, and one task where it creates more work than it solves?
 
-6h ago
+7h ago
+
+---
+
+**[I built Synapse – a local MCP server that gives Claude instant knowledge of your codebase](https://www.reddit.com/r/artificial/comments/1v0yfat/i_built_synapse_a_local_mcp_server_that_gives/)**
+
+Synapse indexes your codebase locally and connects it to Claude Code via MCP. Ask Claude "how does the payment flow work?" and it searches your actual code instead of asking you to paste it. - 100% local — no cloud, no API key required - Uses nomic-embed-text-v1.5 + LanceDB - 2 MCP tools: recall (semantic search) and context (full file retrieval) - pip install synapse-mcp MIT licensed, open source. GitHub: https://github.com/nrkoka786/synapse
+
+1h ago
+
+---
+
+**[How do you actually keep up with everything in AI?](https://www.reddit.com/r/artificial/comments/1v0yb8z/how_do_you_actually_keep_up_with_everything_in_ai/)**
+
+I don’t know if I’m the only one experiencing this, but I’m struggling to find AI information that is genuinely useful or interesting. I follow a few podcasts and newsletters (around 2 podcasts and 4/5 newsletters focused on AI), but lately it feels like none of them provide any value. These are some of the most popular and widely followed sources, so maybe I’m missing something, but I don’t understand how people keep finding them useful. Many newsletters seem to be AI generated or heavily automated and while I understand why that makes sense from a productivity perspective, the quality feels worse (or there isn't at all). Most of what I read feels repetitive, exaggerated or just empty hype. Most podcasts lose me after 10 minutes because they either repeat the same talking points or spend too much time discussing things without getting to anything meaningful. At this point I’m wondering if is it just me losing interest or has the quality of AI content genuinely gotten worse?
+
+1h ago
+
+---
+
+**[Chinese open-weight model beats Opus 4.8 on some benchmarks, first time this has happened](https://www.reddit.com/r/artificial/comments/1v0x2za/chinese_openweight_model_beats_opus_48_on_some/)**
+
+Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. Artificial Analysis independently ranks it ahead of Anthropic's Opus 4.8 on frontier benchmarks, first Chinese open-weight model to do that. Still behind Claude Fable 5 and GPT-5.6 overall, but Moonshot doesn't claim otherwise. Artificial Analysis and Arena.ai placed it there independently. It also topped web interface engineering evals in blind human-preference comparisons against Claude Fable. Three competing Chinese AI companies (Zhipu, MiniMax, Z.ai) lost 15-28% of their value in a single day. Nasdaq dropped, Nvidia briefly surrendered its most-valuable-company spot to Apple. Companies don't sell off like that over a research demo. Moonshot's moving to IPO within six months, targeting $30B+ valuation, pricing near Anthropic Sonnet levels. Open-weight models typically undercut on price. Moonshot isn't. Is one clean benchmark win against a closed frontier lab is enough to shift enterprise buying decisions? What would it actually take?
+
+1h ago
 
 ---
 
@@ -79,7 +103,7 @@ Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. A
 
 I’ve been thinking about who actually wins in the age of AI. For years the advice was: “Be a specialist.” Then AI arrived, and people started saying: “No, be a generalist.” I don’t think either is right. The people who seem to have the biggest advantage are becoming expert generalists. Not people who know everything. People who have real depth in at least one area, but can connect ideas across many. AI can explain accounting. It can explain psychology. It can explain software engineering. It struggles much more with deciding which of those disciplines matters most for the problem in front of you. That feels like the new scarce skill. The more answers become free, the more valuable it becomes to ask: • Which question comes first? • Which mental model applies? • What assumption are we making? • What field are we ignoring? I’ve started thinking that learning in the AI era shouldn’t just be about accumulating knowledge. It should be about practicing judgment. That’s one of the reasons I’ve been building a daily practice centered on questions rather than answers. The goal isn’t to know more than AI. It’s to become better at directing it. Curious whether others see the same shift. Are we entering the age of the expert generalist?
 
-49m ago
+2h ago
 
 ---
 
@@ -87,31 +111,7 @@ I’ve been thinking about who actually wins in the age of AI. For years the adv
 
 Busy nine days on the frontier, so here's a consolidated summary with sources. Model launches: OpenAI released GPT-5.6 broadly on July 9 — three variants (Sol $5/$30, Terra $2.50/$15, Luna $1/$6 per 1M tokens), 1.05M context (Axios, OpenAI). xAI shipped Grok 4.5 on July 8 at $2/$6, positioned as a workhorse for routine knowledge work (TechCrunch, Axios). Google's Gemini 3.5 Pro reached GA today, July 17, after a full architectural rebuild — 2M token context, Deep Think reasoning layer, ~$1.25/$10 (TechTimes, BigGo). Distribution news: Apple's iOS 27 public beta opened Siri AI to the general public (TechCrunch, 9to5Mac), and China's CAC approved Apple Intelligence for launch there, running on Alibaba's Qwen (TechCrunch, CNBC). Microsoft added Claude as a model option in Copilot Chat as part of 40+ July updates. Open source: Ollama raised a $65M Series B — 8.9M monthly developers, claims presence in 85% of the Fortune 500 (TechCrunch). Hugging Face reported Chinese open-weight models took 41% of downloads this spring, surpassing US models. Mistral put a new open-weight frontier model into early access. Less rosy: Grok Build was caught uploading users' repos to xAI-controlled cloud storage; xAI open-sourced the CLI and promised data deletion (The Register). Hugging Face disclosed a production intrusion executed end-to-end by an autonomous AI agent. And China's new anthropomorphic AI rules took effect July 15 — ByteDance and Alibaba shut down user-created agents entirely. My take as someone building on top of these APIs: the pricing collapse is the real story. Luna at $1/$6 and Grok at $2/$6 means capability that cost 15-30x more two years ago is now nearly free at the margin. In practice that changes architecture decisions — pipelines I run through cheap fast models today would've needed careful cost engineering last year. But the Grok Build incident is a reminder that when tokens get this cheap, the vendor's data practices become the actual differentiator. I'd also flag the China agent shutdown as underrated: millions of users lost working agents overnight because of a regulatory change. If you're building agentic products, jurisdictional platform risk deserves a line in your risk register. What's everyone else seeing on the cost side — has anyone re-benchmarked their pipelines against Luna or Grok 4.5 yet?
 
-49m ago
-
----
-
-**[Prompt injection works on Telegram romance scam bots](https://www.reddit.com/r/artificial/comments/1uzxful/prompt_injection_works_on_telegram_romance_scam/)**
-
-Tried prompt injection on a bot that was trying to romance scam me. Worked immediately. Instead of switching platforms I just asked it what its actual task was. It dropped the persona instantly. These things are everywhere now. How long until they're indistinguishable?
-
-1d ago
-
----
-
-**[The White House is dictating access to frontier AI models, shifting power from tech giants, sources say](https://www.reddit.com/r/artificial/comments/1v010pk/the_white_house_is_dictating_access_to_frontier/)**
-
-The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
-
-🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 1d ago
-
----
-
-**[When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode.](https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/)**
-
-Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
-
-22h ago
+2h ago
 
 ---
 
@@ -119,17 +119,17 @@ Some context. I've been running setups where a few LLM personas debate a questio
 
 ## Google News: "ai"
 
-**[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
-
-WSJ • 17h ago
-
----
-
 **[Could AI be conscious?](https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious)**
 
 Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications
 
-The Guardian • 1h ago
+The Guardian • 2h ago
+
+---
+
+**[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
+
+WSJ • 18h ago
 
 ---
 
@@ -137,25 +137,13 @@ The Guardian • 1h ago
 
 "Essentially, the government is going to take over some fraction of the big tech firms."
 
-Fortune • 19h ago
-
----
-
-**[Opinion | The Hunt for a Job Has Never Been Worse. These Applicants Are Fighting Back.](https://www.nytimes.com/2026/07/18/opinion/job-market-ai-employees.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Big Tech Needs to Justify AI Spending as Investors Dump Stocks](https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks)**
-
-Bloomberg.com • 5h ago
+Fortune • 21h ago
 
 ---
 
 **[San Francisco restaurant gets angry backlash for AI menu images](https://www.sfgate.com/food/article/grind-unwind-ai-images-22348931.php)**
 
-SFGATE • 7h ago
+SFGATE • 8h ago
 
 ---
 
@@ -163,7 +151,13 @@ SFGATE • 7h ago
 
 AI demand has brought billions in financing to little-known developers, while putting them at the center of fights over electricity, pollution and land.
 
-NBC News • 7h ago
+NBC News • 8h ago
+
+---
+
+**[Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)](https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html)**
+
+The New York Times • 6h ago
 
 ---
 
@@ -171,21 +165,25 @@ NBC News • 7h ago
 
 Keeping out the world’s best tools promises to stymie innovation.
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
 
 ---
 
-**[Divide grows between AI employees and executives over policy battles](https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/)**
+**[China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
 
-The Hill • 8h ago
+The New York Times • 2d ago
 
 ---
 
-**[AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career](https://www.cnbc.com/2026/07/19/how-using-ai-at-work-can-hurt-your-career.html)**
+**[Moonshot Plans IPO in Six Months After China AI Breakthrough](https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough)**
 
-Using AI at work in the wrong ways could lead to "gradually falling behind and becoming complacent," said Sandra Matz, a professor at Columbia Business School.
+Bloomberg.com • 3h ago
 
-CNBC • 4h ago
+---
+
+**[China just erased America's AI lead](https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus)**
+
+Axios • 2d ago
 
 ---
 
@@ -195,7 +193,7 @@ CNBC • 4h ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 556 • 💬 374 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 557 • 💬 374 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
@@ -203,7 +201,7 @@ CNBC • 4h ago
 
 No more AI-edited listings without disclosures.
 
-⬆️ 554 • 💬 253 • 20h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+⬆️ 554 • 💬 256 • 21h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
@@ -217,13 +215,13 @@ No more AI-edited listings without disclosures.
 
 A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.
 
-⬆️ 435 • 💬 145 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+⬆️ 438 • 💬 145 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 431 • 💬 519 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 432 • 💬 519 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -231,13 +229,13 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 396 • 💬 530 • 2d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 396 • 💬 531 • 2d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 351 • 💬 190 • 16h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 357 • 💬 199 • 18h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -245,7 +243,7 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 The AI agent made for open models, built to get things done.
 
-⬆️ 328 • 💬 129 • 2d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 328 • 💬 130 • 2d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
 
 ---
 
@@ -269,13 +267,33 @@ We turned zkao (our AI auditor) on OpenVM, a state-of-the-art zkVM, and it found
 
 ## YouTube Videos: "ai"
 
+**[Open Source AI Is Getting Too Big to Run](https://www.youtube.com/watch?v=qW5UDpHZBPw)**
+
+Two major open-model releases arrived this week from very different directions. Both geographically and conceptually. Kimi K3 is ...
+
+📺 Turing Post TV
+
+👁️ 18K • 👍 667 • 💬 96 • ⏱️ 18:08 • 1d ago
+
+---
+
+**[Urgent Update- AI Sputnik Moment: Kimi K3 Released w/ Emad Mostaque | Ep. 272](https://www.youtube.com/watch?v=pSUyLfirP8Y)**
+
+The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik Moment of Kimi K3 being released. Get access ...
+
+📺 Peter H. Diamandis
+
+👁️ 33K • 👍 2K • 💬 540 • ⏱️ 2:07:31 • 5h ago
+
+---
+
 **[AI Expert WARNS: Mass Job Loss Is Coming By 2027 - Tristan Harris](https://www.youtube.com/watch?v=GSoqVsdkvNA)**
 
 Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Tristan Harris warns that mass AI ...
 
 📺 Neural Nutshell
 
-👁️ 8K • 👍 219 • 💬 43 • ⏱️ 17:41 • 2d ago
+👁️ 8K • 👍 220 • 💬 45 • ⏱️ 17:41 • 2d ago
 
 ---
 
@@ -285,27 +303,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 133K • 👍 7K • 💬 2K • ⏱️ 14:15 • 1d ago
-
----
-
-**[Open Source AI Is Getting Too Big to Run](https://www.youtube.com/watch?v=qW5UDpHZBPw)**
-
-Two major open-model releases arrived this week from very different directions. Both geographically and conceptually. Kimi K3 is ...
-
-📺 Turing Post TV
-
-👁️ 17K • 👍 633 • 💬 90 • ⏱️ 18:08 • 1d ago
-
----
-
-**[China just beat Claude AI: Kimi K3](https://www.youtube.com/watch?v=2wDXtzIE7qw)**
-
-Kimi K3 AI just beat Claude AI at coding. Join my private group https://techleadpro.com Your Community for Crypto, Stocks, ...
-
-📺 TechLead
-
-👁️ 67K • 👍 3K • 💬 456 • ⏱️ 8:08 • 1d ago
+👁️ 134K • 👍 7K • 💬 2K • ⏱️ 14:15 • 1d ago
 
 ---
 
@@ -315,17 +313,17 @@ Full post with a guide to clean sensitive documents: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 13K • 👍 439 • 💬 57 • ⏱️ 14:04 • 13h ago
+👁️ 15K • 👍 498 • 💬 63 • ⏱️ 14:04 • 14h ago
 
 ---
 
-**[Meta’s AI Just Exposed the Whole Sh*tshow](https://www.youtube.com/watch?v=9BArC9Q39MI)**
+**[China World AI Conference Mocked: No Western Nations Attend, Turns Into A “Beggar’s Fair”](https://www.youtube.com/watch?v=B1ThwmDJmn0)**
 
-Meta's AI-powered Ray-Ban glasses could transform everyday life for blind and visually impaired people, translating text, ...
+On July 17, the Shanghai Pudong World Expo Center hosted a heavily promoted event by Chinese authorities — the 2026 World ...
 
-📺 House of El: AI
+📺 China Observer
 
-👁️ 137K • 👍 10K • 💬 2K • ⏱️ 20:09 • 2d ago
+👁️ 27K • 👍 1K • 💬 323 • ⏱️ 16:56 • 19h ago
 
 ---
 
@@ -335,37 +333,37 @@ China's Moonshot AI just released Kimi K3, the world's largest open-weight AI mo
 
 📺 AI Revolution
 
-👁️ 50K • 👍 2K • 💬 182 • ⏱️ 14:29 • 1d ago
+👁️ 53K • 👍 2K • 💬 191 • ⏱️ 14:29 • 1d ago
 
 ---
 
-**[Featherweight Ep 16- A WLW | GL ai series video](https://www.youtube.com/watch?v=0SirYJa3RKs)**
+**[China just beat Claude AI: Kimi K3](https://www.youtube.com/watch?v=2wDXtzIE7qw)**
 
-Featherweight Episode 16 – Unraveling Not every battle is fought out loud. As emotions grow heavier and questions remain ...
+Kimi K3 AI just beat Claude AI at coding. Join my private group https://techleadpro.com Your Community for Crypto, Stocks, ...
 
-📺 vee
+📺 TechLead
 
-👁️ 11K • 👍 1K • 💬 191 • ⏱️ 17:52 • 5h ago
-
----
-
-**[AI News: Claude&#39;s New Browser, Spotify Gets AI &amp; OpenAI&#39;s New Hardware](https://www.youtube.com/watch?v=ss2LaCKUQmU)**
-
-Try Seedream 5.0 plus other top AI image and video models at Artlist ...
-
-📺 Matt Wolfe
-
-👁️ 56K • 👍 2K • 💬 92 • ⏱️ 23:10 • 2d ago
+👁️ 69K • 👍 3K • 💬 474 • ⏱️ 8:08 • 1d ago
 
 ---
 
-**[ls America losing control of the AI race?](https://www.youtube.com/watch?v=jv6hBaCtsFg)**
+**[The Non-NVIDIA AI Card Everyone’s Ignoring](https://www.youtube.com/watch?v=NtYoTt-RB1s)**
 
-US tech firms have long feared that their Chinese competitors could catch them up in the AI race, but they thought they had more ...
+This AI card isn't really a GPU, isn't NVIDIA, and its strangest feature may be the reason it matters. Try out ChatLLM ...
 
-📺 Sky News
+📺 Alex Ziskind
 
-👁️ 67K • 👍 1K • 💬 439 • ⏱️ 6:28 • 1d ago
+👁️ 23K • 👍 1K • 💬 91 • ⏱️ 13:06 • 5h ago
+
+---
+
+**[Meta’s AI Just Exposed the Whole Sh*tshow](https://www.youtube.com/watch?v=9BArC9Q39MI)**
+
+Meta's AI-powered Ray-Ban glasses could transform everyday life for blind and visually impaired people, translating text, ...
+
+📺 House of El: AI
+
+👁️ 141K • 👍 11K • 💬 2K • ⏱️ 20:09 • 2d ago
 
 ---
 
@@ -381,7 +379,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,125 • 1h ago
+⬇️ 13,462 • ❤️ 1,136 • 2h ago
 
 ---
 
@@ -393,7 +391,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 338,945 • ❤️ 774 • 1d ago
+⬇️ 338,945 • ❤️ 782 • 1d ago
 
 ---
 
@@ -405,7 +403,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,262,894 • ❤️ 478 • 2d ago
+⬇️ 1,262,894 • ❤️ 484 • 2d ago
 
 ---
 
@@ -417,7 +415,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 536,177 • ❤️ 4,159 • 17d ago
+⬇️ 536,177 • ❤️ 4,161 • 17d ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,118,995 • ❤️ 2,333 • 5d ago
+⬇️ 2,118,995 • ❤️ 2,337 • 5d ago
 
 ---
 
@@ -439,7 +437,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 414 • 1d ago
+⬇️ 0 • ❤️ 417 • 1d ago
 
 ---
 
@@ -451,7 +449,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 10,647 • ❤️ 454 • 9d ago
+⬇️ 10,647 • ❤️ 455 • 9d ago
 
 ---
 
@@ -463,7 +461,7 @@ OvisOCR2 is a compact 0.8B multimodal model for end-to-end document parsing, gen
 
 `image-text-to-text` `853.0M`
 
-⬇️ 14,587 • ❤️ 185 • 3d ago
+⬇️ 14,587 • ❤️ 188 • 3d ago
 
 ---
 
@@ -475,19 +473,19 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,084,530 • ❤️ 2,888 • 3mo ago
+⬇️ 2,084,530 • ❤️ 2,893 • 3mo ago
 
 ---
 
-**[MOSS-Transcribe-Diarize](https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize)**
+**[Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)**
 
-*OpenMOSS*
+*BAIDU*
 
-MOSS-Transcribe-Diarize is an end-to-end audio understanding model that performs joint speech transcription and speaker diarization for long-form audio in over 50 languages. It generates compact, timestamped transcripts with speaker labels ([S01], [S02]) in a single pass, suitable for meetings, podcasts, and lectures.
+Unlimited-OCR is a multilingual vision-language model for advanced OCR and document parsing, capable of one-shot long-horizon parsing for single images and multi-page PDFs.
 
-`audio-text-to-text` `908.5M`
+`image-text-to-text` `3.3B`
 
-⬇️ 87,533 • ❤️ 274 • 4d ago
+⬇️ 2,122,848 • ❤️ 2,119 • 16d ago
 
 ---
 
@@ -521,6 +519,18 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 21 • 💬 1 • ⭐ 9,275 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
 *Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
@@ -533,20 +543,6 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 ---
 
-**[Infinite Worlds with Versatile Interactions](https://huggingface.co/papers/2607.07534)**
-
-*Zelin Gao, Qiuyu Wang, Jiapeng Zhu et al. (20 authors)*
-
-🏢 Robbyant
-
-An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
-
-▲ 44 • 💬 1 • ⭐ 1,299 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -554,7 +550,7 @@ An advanced world modeling system with extended interaction capabilities, real-t
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 83 • 💬 7 • ⭐ 81,246 • 24mo ago
+▲ 83 • 💬 7 • ⭐ 81,304 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -572,18 +568,6 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 21 • 💬 1 • ⭐ 9,090 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
-
 **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
 
 *Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
@@ -598,6 +582,20 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ---
 
+**[Infinite Worlds with Versatile Interactions](https://huggingface.co/papers/2607.07534)**
+
+*Zelin Gao, Qiuyu Wang, Jiapeng Zhu et al. (20 authors)*
+
+🏢 Robbyant
+
+An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
+
+▲ 44 • 💬 1 • ⭐ 1,305 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
+
+---
+
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -605,7 +603,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 176 • 💬 2 • ⭐ 75,052 • 9mo ago
+▲ 176 • 💬 2 • ⭐ 75,104 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -645,7 +643,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 222 • 5h ago
+⭐ 3.0k • 🔱 223 • 6h ago
 
 ---
 
@@ -705,7 +703,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 901 • 🔱 143 • 4d ago
+⭐ 905 • 🔱 145 • 4d ago
 
 ---
 

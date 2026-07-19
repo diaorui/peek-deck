@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-19T18:27:10.464759+00:00'
+updated: '2026-07-19T19:42:35.830636+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 18:27 UTC  
+**Last Updated:** July 19, 2026 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.4%  
-**30d:** +0.3%  
-**90d:** -15.5%  
+**24h:** -0.4%  
+**7d:** +3.3%  
+**30d:** +0.2%  
+**90d:** -15.6%  
 **1y:** -45.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1294.34B
+**Market Cap:** $1291.10B
 Rank #1
 
-**Circulating Supply:** 20,058,571 BTC
+**Circulating Supply:** 20,058,621 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.8%
+-48.9%
 
 **All-Time Low:** $67.81
-+95061.5%
++94821.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 This is it, guys. I've been in this crypto market since 2016, through all the Bears and Bulls. And I'm saying this with the highest confidence: THIS IS IT. This is what we've been waiting for. And it has arrived. So, stop acting gloomy. Max your confidence. Pull that DCA amount to the MAX and enjoy another bull run in the next 3 years.
 
-12h ago
+13h ago
 
 ---
 
@@ -89,7 +89,7 @@ This is it, guys. I've been in this crypto market since 2016, through all the Be
 
 I sold every other asset I owned, stopped my pension contributions, took out loans, and we even sold our old flat in Delhi. Altogether, I have invested around $90,000 to $95,000 into BTC. I started buying near $100k, continued as it climbed toward $126k, and added more during the recent lows. This is risky, but it was calculated. My salary covers the loan payments, and based on my calculations, I should be able to repay everything within two and a half years. I would not recommend anyone blindly copy this. But after years of learning about Bitcoin, money, inflation, and scarcity, this is where my conviction is strongest. Maybe it becomes the biggest mistake of my life. Maybe it changes my family’s future. Repay the debt. Secure the Bitcoin. Come back in 10 years.
 
-22h ago
+23h ago
 
 ---
 
@@ -113,7 +113,7 @@ The Bitcoin Runs project reaches Germany for the first time! This GPS art run tr
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Brutally honest here, has anyone been overly obsessed with Bitcoin? Like you know it’s the future (even though price manipulation), it’s your habit, your hobby, and it honestly makes you a little crazy.
 
-17h ago
+19h ago
 
 ---
 
@@ -129,7 +129,7 @@ Brutally honest here, has anyone been overly obsessed with Bitcoin? Like you kno
 
 Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average price is af 87k, not sure where it will go so I’m heavily buying Voo/blue chip stocks
 
-18h ago
+20h ago
 
 ---
 
@@ -137,7 +137,7 @@ Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average
 
 Should I include bitcoin in my diversified investments or should I stick to blue chip stocks? I’m relatively risk adverse and have at least 25 yrs before retirement. I invested in Russian stocks before and it did not go well… then I invested in Chinese stocks and it plummeted… then I invested in Japanese telecoms and it stayed flat for yrs. The US tech stocks have given stellar returns and I wonder if bitcoin can beat magnificient seven?
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ Should I include bitcoin in my diversified investments or should I stick to blue
 
 Which is good, we're still so early. People always hating on something when it's down, and they hated even more when its up, except they are in. Same fucking every cycle.
 
-11h ago
+12h ago
 
 ---
 
@@ -153,7 +153,7 @@ Which is good, we're still so early. People always hating on something when it's
 
 These are the only numbers I focus on. Adoption is all you need to keep an eye on. The rest is noise. Number will go up as demand increases and Bitcoin is uniquely set up for this based on its shrinking issuance and capped supply. The first shows adoption counts by institutions, corporates, and nations and states. The second shows the estimated BTC held. Both tables exclude treasury companies like Strategy in the corporate figures, so the numbers would be even higher if the treasury companies had been included.
 
-19h ago
+20h ago
 
 ---
 
@@ -161,19 +161,17 @@ These are the only numbers I focus on. Adoption is all you need to keep an eye o
 
 ## Google News: "bitcoin"
 
-**[Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets](https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets)**
+**[Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'](https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea)**
 
-Large traders on Deribit show expectations for a price rally to $72,000 by month end, right when the Fed meets.
+Bitcoin bull Michael Saylor is coming out against BIP 110, warning that the "Reduced Data" proposal is a risky attempt to regulate the blockchain. Discover why Saylor believe this "cure" for network spam is more dangerous than the problem itself.
 
-CoinDesk • 1d ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some](https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some)**
+**[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
-A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.
-
-The Block • 23h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -185,39 +183,15 @@ Scott Melker discusses where the currency prospects of bitcoin (BTC-USD) histori
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 What's next?](https://www.moomoo.com/community/feed/just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-116947153387525)**
+**[The CLARITY Act Could Be in Trouble. This is the Only Crypto I'm Buying Right Now.](https://finance.yahoo.com/markets/crypto/articles/clarity-act-could-trouble-only-165722326.html)**
 
-@Bitcoin Magazine 7142 Views|2 Likes
+Bitcoin will thrive, regardless of what happens to the CLARITY Act.
 
-Moomoo • 3h ago
-
----
-
-**[Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'](https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea)**
-
-Bitcoin bull Michael Saylor is coming out against BIP 110, warning that the "Reduced Data" proposal is a risky attempt to regulate the blockchain. Discover why Saylor believe this "cure" for network spam is more dangerous than the problem itself.
-
-CoinDesk • 3h ago
-
----
-
-**[Adam Back Talks About Bitcoin BIP-110 Controversy. “Satoshi Was Not Retarded”](https://finance.yahoo.com/markets/crypto/articles/adam-back-talks-bitcoin-bip-130155844.html)**
-
-Adam Back mocks BIP-110 backers and predicts the Bitcoin fork stalls within three weeks of mandatory signaling.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Mining Giant Foundry Asks Miners To Vote On BIP-110 Soft Fork](https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110)**
-
-Foundry Digital said it will allow clients who use its Bitcoin mining pool to vote on BIP-110.
-
-Bitcoin Magazine • 2d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -225,13 +199,35 @@ Bitcoin Magazine • 2d ago
 
 They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
 
-Forbes • 7h ago
+Forbes • 9h ago
 
 ---
 
-**[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
+**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
 
-Bloomberg.com • 2d ago
+Investing.com • 10h ago
+
+---
+
+**[Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some](https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some)**
+
+A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.
+
+The Block • 1d ago
+
+---
+
+**[Strategy Is Now Barely Worth Its Weight In Bitcoin](https://www.investors.com/news/mstr-stock-strategy-loses-bitcoin-valuation-premium/)**
+
+Investor's Business Daily • 2d ago
+
+---
+
+**[Bitcoin Is its Most Affordable in Two Years. Which ETF Is Better to Invest With Now: iShares Bitcoin Trust ETF or VanEck Bitcoin ETF?](https://www.fool.com/coverage/etfs/2026/07/18/bitcoin-is-its-most-affordable-in-two-years-which-etf-is-better-to-invest-with-now-ishares-bitcoin-trust-etf-or-vaneck-bitcoin-etf/)**
+
+iShares dominates with $47B in assets, while VanEck undercuts on fees at 0.20% versus 0.25%. Which matters more for your portfolio?
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -273,7 +269,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
 
-⬆️ 2 • 💬 0 • 11h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 2 • 💬 0 • 12h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
@@ -287,27 +283,7 @@ Larry Fink just made one of the most important Bitcoin statements of the year, a
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 68 • ⏱️ 19:34 • 1d ago
-
----
-
-**[Bitcoin: A Time To Buy  (Two Scenarios)](https://www.youtube.com/watch?v=ghHD63SK1HY)**
-
-August is right around the corner and that means BIG moves coming up (Clarity, SpaceX unlocks, Usually mini-rally). But here is ...
-
-📺 Digital Asset News
-
-👁️ 8K • 👍 494 • 💬 33 • ⏱️ 29:49 • 1d ago
-
----
-
-**[$10M Bitcoin Signal - They Still Don’t Get It](https://www.youtube.com/watch?v=kRcFxyFrVYE)**
-
-Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: https://tangem.com/invite/ALERTS Michael ...
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 209 • 💬 83 • ⏱️ 18:50 • 20h ago
+👁️ 20K • 👍 1K • 💬 72 • ⏱️ 19:34 • 1d ago
 
 ---
 
@@ -317,7 +293,27 @@ Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 103 • ⏱️ 31:29 • 22h ago
+👁️ 29K • 👍 1K • 💬 106 • ⏱️ 31:29 • 23h ago
+
+---
+
+**[$10M Bitcoin Signal - They Still Don’t Get It](https://www.youtube.com/watch?v=kRcFxyFrVYE)**
+
+Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: https://tangem.com/invite/ALERTS Michael ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 213 • 💬 84 • ⏱️ 18:50 • 21h ago
+
+---
+
+**[Bitcoin: A Time To Buy  (Two Scenarios)](https://www.youtube.com/watch?v=ghHD63SK1HY)**
+
+August is right around the corner and that means BIG moves coming up (Clarity, SpaceX unlocks, Usually mini-rally). But here is ...
+
+📺 Digital Asset News
+
+👁️ 8K • 👍 500 • 💬 33 • ⏱️ 29:49 • 1d ago
 
 ---
 
@@ -327,7 +323,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 6K • 👍 532 • 💬 63 • ⏱️ 7:29 • 9h ago
+👁️ 7K • 👍 586 • 💬 70 • ⏱️ 7:29 • 10h ago
 
 ---
 
@@ -337,7 +333,7 @@ Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I b
 
 📺 Prof G Markets
 
-👁️ 40K • 👍 478 • 💬 165 • ⏱️ 1:42 • 2d ago
+👁️ 41K • 👍 485 • 💬 168 • ⏱️ 1:42 • 2d ago
 
 ---
 
@@ -347,17 +343,17 @@ If Bitcoin and crypto is going to zero then why are so many MASSIVE companies in
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 513 • 💬 37 • ⏱️ 27:00 • 2d ago
+👁️ 9K • 👍 515 • 💬 38 • ⏱️ 27:00 • 2d ago
 
 ---
 
-**[I Lost $12M of Bitcoin on a Plane](https://www.youtube.com/watch?v=UCKVGOOFDh0)**
+**[Why Scott Melker Is Aggressively Buying Bitcoin](https://www.youtube.com/watch?v=6aFYwZy24e8)**
 
-It sounds like a nightmare scenario, but for one entrepreneur, it was a reality. After selling a plane, the realization set in that two ...
+Is Bitcoin already forming a bottom — or is the worst still ahead? Scott Melker joins Cointelegraph to explain why the current ...
 
-📺 BlockPilot
+📺 Cointelegraph
 
-👁️ 1K • 👍 5 • 💬 1 • ⏱️ 0:32 • 11h ago
+👁️ 11K • 👍 330 • 💬 141 • ⏱️ 26:17 • 2d ago
 
 ---
 
@@ -367,17 +363,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 58 • ⏱️ 50:17 • 1d ago
+👁️ 44K • 👍 2K • 💬 58 • ⏱️ 50:17 • 1d ago
 
 ---
 
-**[&#39;I Am Tired Of Being In Crypto Hell&#39;: Mark Warner Calls For Legislation To Regulate Cryptocurrency](https://www.youtube.com/watch?v=bfCi9eQ3Gmk)**
+**[The Bitcoin Mortgage Hack That Changes Everything - CJ Konstantinos](https://www.youtube.com/watch?v=wm0VlIjJ4T0)**
 
-During a Senate Finance Committee hearing on Thursday, Sen. Mark Warner (D-VA) spoke in favor of legislation regulating ...
+Bitcoin #Crypto #finance In this episode, CJ Konstantinos explains how People's Reserve is rethinking lending by treating Bitcoin ...
 
-📺 Forbes Breaking News
+📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 247 • 💬 105 • ⏱️ 5:03 • 2d ago
+👁️ 3K • 👍 222 • 💬 194 • ⏱️ 1:20:02 • 6h ago
 
 ---
 
