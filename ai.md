@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-19T19:42:35.822097+00:00'
+updated: '2026-07-19T20:50:04.973410+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 19, 2026 at 19:42 UTC  
+**Last Updated:** July 19, 2026 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Politicians Are Trying to Change What Chatbots Say About Them](https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 1h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 3h ago
 
 ---
 
@@ -47,47 +47,7 @@ AI news, discussions, and developments
 
 I keep hearing AI governance discussed as if every country is sitting at the same table with roughly the same amount of influence. But most countries don’t control the chips, cloud infrastructure, data centers, or frontier models they’re being asked to regulate. They can write rules, but enforcement still depends heavily on infrastructure owned by a small number of governments and private companies. That makes me wonder whether this is really a regulation problem or an ownership problem. Can a country meaningfully govern advanced AI if it cannot independently inspect the systems, control the compute they run on, or enforce decisions against the companies operating them? I’m not saying regulation is pointless. I’m just not convinced legal authority means much without technical leverage behind it. Curious how people here see it. Does regulation eventually reshape who controls the infrastructure, or will the countries that own the compute always have the final say?
 
-1h ago
-
----
-
-**[How not to become lazy with AI?](https://www.reddit.com/r/artificial/comments/1v0pmhf/how_not_to_become_lazy_with_ai/)**
-
-I think this is not really AI problem, its more about mindset and it repeats with every new technology. Calculators, Internet - every time people get a tool that thinks for them, some become lazy and some learn to use it without turning off their brain. AI is just the next round, much stronger round. Maybe some kind of the final boss. So probably there is no universal fix and everyone has to find their own way. How do you deal with it? Would like to hear different opinions.
-
-6h ago
-
----
-
-**[Best AI 3D generator in 2026, breakdown after testing 5 tools](https://www.reddit.com/r/artificial/comments/1v0zksv/best_ai_3d_generator_in_2026_breakdown_after/)**
-
-A friend asked me which AI 3D generator to pick for his project and I realized I couldn't give him a straight answer based on anything I'd actually tested myself. So I spent about three weeks running the same 30 prompts through Meshy, Tripo, Rodin, Hunyuan, and CSM to figure out what each one is actually good at. Tested props, characters, hard surface objects, and paid attention to success rate, texture quality, mesh cleanliness, and how long it took to get something genuinely usable. The speed tools are Tripo and CSM. Tripo's Smart Mesh P1.0 generates in literal seconds and the output is clean enough for blockouts. Falls behind on texture detail and the animation library is smaller, but if you need volume and speed it's hard to beat. CSM was similar, fast and decent for simple shapes, but the style defaulted to something more realistic and getting it to match a stylized look took a lot of prompt engineering. Neither is what I'd pick for final quality. On the quality end Rodin Gen 2.5 has the highest peak when it lands, character detail is a tier above everything else. Costs more per generation, failure rate is higher, and the meshes need heavy cleanup, but for hero pieces nothing else touches it. Meshy sits in the middle, clean topology with quads, full PBR maps in one pass, decent plugin support. What held it back for me was consistency on complex organic shapes, some generations came out with surface artifacts that needed manual fixing. The built in printability stuff is genuinely unique though if 3D printing is your thing. Hunyuan is free and open source. Quality is competitive on good rolls but consistency is lower and there's no rig or animation pipeline. Bottom line is most people I know end up using two or three tools depending on the task. Rodin for hero shots, Tripo for speed, Hunyuan if you're on a zero budget, and Meshy as a decent all rounder that covers the most ground. Chasing a single "best" is the wrong question.
-
-13m ago
-
----
-
-**[AI saved me so much time...](https://www.reddit.com/r/artificial/comments/1v0on87/ai_saved_me_so_much_time/)**
-
-...that I now spend that extra time fixing AI mistakes. Don't get me wrong I use AI almost every day, and it's incredibly useful. But I've noticed something funny: Instead of doing the work myself, I now spend my time fact-checking, rewriting, and correcting what AI generated. It still saves time overall, but it's definitely not the "press one button and you're done" future people imagined. What's one task AI actually saves you time on, and one task where it creates more work than it solves?
-
-7h ago
-
----
-
-**[I built Synapse – a local MCP server that gives Claude instant knowledge of your codebase](https://www.reddit.com/r/artificial/comments/1v0yfat/i_built_synapse_a_local_mcp_server_that_gives/)**
-
-Synapse indexes your codebase locally and connects it to Claude Code via MCP. Ask Claude "how does the payment flow work?" and it searches your actual code instead of asking you to paste it. - 100% local — no cloud, no API key required - Uses nomic-embed-text-v1.5 + LanceDB - 2 MCP tools: recall (semantic search) and context (full file retrieval) - pip install synapse-mcp MIT licensed, open source. GitHub: https://github.com/nrkoka786/synapse
-
-1h ago
-
----
-
-**[How do you actually keep up with everything in AI?](https://www.reddit.com/r/artificial/comments/1v0yb8z/how_do_you_actually_keep_up_with_everything_in_ai/)**
-
-I don’t know if I’m the only one experiencing this, but I’m struggling to find AI information that is genuinely useful or interesting. I follow a few podcasts and newsletters (around 2 podcasts and 4/5 newsletters focused on AI), but lately it feels like none of them provide any value. These are some of the most popular and widely followed sources, so maybe I’m missing something, but I don’t understand how people keep finding them useful. Many newsletters seem to be AI generated or heavily automated and while I understand why that makes sense from a productivity perspective, the quality feels worse (or there isn't at all). Most of what I read feels repetitive, exaggerated or just empty hype. Most podcasts lose me after 10 minutes because they either repeat the same talking points or spend too much time discussing things without getting to anything meaningful. At this point I’m wondering if is it just me losing interest or has the quality of AI content genuinely gotten worse?
-
-1h ago
+2h ago
 
 ---
 
@@ -95,21 +55,61 @@ I don’t know if I’m the only one experiencing this, but I’m struggling to 
 
 Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. Artificial Analysis independently ranks it ahead of Anthropic's Opus 4.8 on frontier benchmarks, first Chinese open-weight model to do that. Still behind Claude Fable 5 and GPT-5.6 overall, but Moonshot doesn't claim otherwise. Artificial Analysis and Arena.ai placed it there independently. It also topped web interface engineering evals in blind human-preference comparisons against Claude Fable. Three competing Chinese AI companies (Zhipu, MiniMax, Z.ai) lost 15-28% of their value in a single day. Nasdaq dropped, Nvidia briefly surrendered its most-valuable-company spot to Apple. Companies don't sell off like that over a research demo. Moonshot's moving to IPO within six months, targeting $30B+ valuation, pricing near Anthropic Sonnet levels. Open-weight models typically undercut on price. Moonshot isn't. Is one clean benchmark win against a closed frontier lab is enough to shift enterprise buying decisions? What would it actually take?
 
+3h ago
+
+---
+
+**[How not to become lazy with AI?](https://www.reddit.com/r/artificial/comments/1v0pmhf/how_not_to_become_lazy_with_ai/)**
+
+I think this is not really AI problem, its more about mindset and it repeats with every new technology. Calculators, Internet - every time people get a tool that thinks for them, some become lazy and some learn to use it without turning off their brain. AI is just the next round, much stronger round. Maybe some kind of the final boss. So probably there is no universal fix and everyone has to find their own way. How do you deal with it? Would like to hear different opinions.
+
+8h ago
+
+---
+
+**[I built a voice lock screen, realized nobody needs it, then Microsoft showed me what I should actually be building.](https://www.reddit.com/r/artificial/comments/1v10z3d/i_built_a_voice_lock_screen_realized_nobody_needs/)**
+
+Honest story because the pivot is the interesting part. Six months ago I wanted to replace the Windows lock screen with voice recognition. Not a passphrase, actual speaker verification. Say anything, it checks your voiceprint on your own machine, unlocks. A friend says the same words, rejected. Got it working. Then I realized nobody needs this. Windows Hello does biometric unlock for free. I was building a worse version of something that already exists. I almost quit the whole thing. Then I watched Microsoft Build 2026. They are turning Windows into an AI agent OS. Copilot, Manus, every agent racing to live on your machine and touch your files. And I noticed something that nobody seems to be talking about. Not one of them knows who is talking to it. They will execute commands from anyone sitting at your keyboard. Right now that is fine because AI agents cannot do much. But agents are getting access to files, money, communications, the ability to run code. When that happens, who is allowed to give it instructions becomes the most important security question on your machine. And nobody is answering it. That is what I am actually building now. Not a lock screen. An identity layer for AI agents on your PC. The idea: before any AI on your machine does anything, it knows it is you. Your voice is the key, verified locally, voiceprint never leaves your device. Then there is a permission dial you control. The AI has exactly the access you gave it, nothing more. You can set it to read only, or open apps, or act on its own while you are away. An AI with full access to your PC is terrifying. An AI with exactly the access you chose is something you would actually install. What works today: voice unlock and a voice assistant you just talk to. It answers out loud, knows who it is talking to, speech to text runs on your device so only text ever goes to the cloud. What I want to build next and I genuinely do not know which matters more to people so tell me: system awareness so you can ask it about your actual machine, why is my PC slow, what is using all my RAM, is this file worth keeping. Or the remote dial, control it from your phone, approve what it does while you are out, get pinged when something needs you. Or the permission system itself, building the actual trust model for what an AI agent is allowed to do on a personal machine. The limits right now: Ctrl Alt Del bypasses it because the deep Windows lock layer is not finished. No liveness detection so a recording of my voice would probably work. Assistant talks but does not act yet. Installer is unsigned. Zero real users outside me. That is why I am posting before building more. What would you actually let an AI do on your machine? Would identity verification change that? Tell me I am solving the wrong problem. [github.com/AadiSharma49/Senti] · [senti-kappa.vercel.app]
+
+21m ago
+
+---
+
+**[the sprint review nobody wants to write is a join problem, not a writing problem](https://www.reddit.com/r/artificial/comments/1v103fu/the_sprint_review_nobody_wants_to_write_is_a_join/)**
+
+The take that ai is good at summarizing and bad at judgment is basically right, and I think it undersells the summarizing half. Every sprint review I've written is about 20 minutes of writing sitting on top of an hour of pulling. Linear for what actually moved, GitHub for what shipped versus what's still open, Slack for the incident nobody ever filed a ticket for. The bit I'd add is that the pulling is exactly the part a model upgrade does nothing for. A smarter model still can't see three tools at once from inside a chat window. What changed it for me was moving the thing onto the desktop, where it could read all three and hand back a draft with deploy status already stitched in, plus an approval step before anything went near the channel. quality of the writeup went from fine to fine. The actual difference was that it existed on friday instead of monday. If your digest tool only reads one source, you've automated the 20 minutes and kept the hour.
+
+57m ago
+
+---
+
+**[Using AI makes people less likely to admit they don't know something](https://www.reddit.com/r/artificial/comments/1v101tm/using_ai_makes_people_less_likely_to_admit_they/)**
+
+Researchers found confidence increased even as accuracy fell
+
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567) • 59m ago
+
+---
+
+**[Best AI 3D generator in 2026, breakdown after testing 5 tools](https://www.reddit.com/r/artificial/comments/1v0zksv/best_ai_3d_generator_in_2026_breakdown_after/)**
+
+A friend asked me which AI 3D generator to pick for his project and I realized I couldn't give him a straight answer based on anything I'd actually tested myself. So I spent about three weeks running the same 30 prompts through Meshy, Tripo, Rodin, Hunyuan, and CSM to figure out what each one is actually good at. Tested props, characters, hard surface objects, and paid attention to success rate, texture quality, mesh cleanliness, and how long it took to get something genuinely usable. The speed tools are Tripo and CSM. Tripo's Smart Mesh P1.0 generates in literal seconds and the output is clean enough for blockouts. Falls behind on texture detail and the animation library is smaller, but if you need volume and speed it's hard to beat. CSM was similar, fast and decent for simple shapes, but the style defaulted to something more realistic and getting it to match a stylized look took a lot of prompt engineering. Neither is what I'd pick for final quality. On the quality end Rodin Gen 2.5 has the highest peak when it lands, character detail is a tier above everything else. Costs more per generation, failure rate is higher, and the meshes need heavy cleanup, but for hero pieces nothing else touches it. Meshy sits in the middle, clean topology with quads, full PBR maps in one pass, decent plugin support. What held it back for me was consistency on complex organic shapes, some generations came out with surface artifacts that needed manual fixing. The built in printability stuff is genuinely unique though if 3D printing is your thing. Hunyuan is free and open source. Quality is competitive on good rolls but consistency is lower and there's no rig or animation pipeline. Bottom line is most people I know end up using two or three tools depending on the task. Rodin for hero shots, Tripo for speed, Hunyuan if you're on a zero budget, and Meshy as a decent all rounder that covers the most ground. Chasing a single "best" is the wrong question.
+
 1h ago
 
 ---
 
-**[The Expert Generalist](https://www.reddit.com/r/artificial/comments/1v0wt3q/the_expert_generalist/)**
+**[AI saved me so much time...](https://www.reddit.com/r/artificial/comments/1v0on87/ai_saved_me_so_much_time/)**
 
-I’ve been thinking about who actually wins in the age of AI. For years the advice was: “Be a specialist.” Then AI arrived, and people started saying: “No, be a generalist.” I don’t think either is right. The people who seem to have the biggest advantage are becoming expert generalists. Not people who know everything. People who have real depth in at least one area, but can connect ideas across many. AI can explain accounting. It can explain psychology. It can explain software engineering. It struggles much more with deciding which of those disciplines matters most for the problem in front of you. That feels like the new scarce skill. The more answers become free, the more valuable it becomes to ask: • Which question comes first? • Which mental model applies? • What assumption are we making? • What field are we ignoring? I’ve started thinking that learning in the AI era shouldn’t just be about accumulating knowledge. It should be about practicing judgment. That’s one of the reasons I’ve been building a daily practice centered on questions rather than answers. The goal isn’t to know more than AI. It’s to become better at directing it. Curious whether others see the same shift. Are we entering the age of the expert generalist?
+...that I now spend that extra time fixing AI mistakes. Don't get me wrong I use AI almost every day, and it's incredibly useful. But I've noticed something funny: Instead of doing the work myself, I now spend my time fact-checking, rewriting, and correcting what AI generated. It still saves time overall, but it's definitely not the "press one button and you're done" future people imagined. What's one task AI actually saves you time on, and one task where it creates more work than it solves?
 
-2h ago
+8h ago
 
 ---
 
-**[Weekly roundup: GPT-5.6 general release, Gemini 3.5 Pro launch, Grok 4.5, Apple-Alibaba Qwen approval, Ollama's $65M raise](https://www.reddit.com/r/artificial/comments/1v0wt38/weekly_roundup_gpt56_general_release_gemini_35/)**
+**[I built Synapse – a local MCP server that gives Claude instant knowledge of your codebase](https://www.reddit.com/r/artificial/comments/1v0yfat/i_built_synapse_a_local_mcp_server_that_gives/)**
 
-Busy nine days on the frontier, so here's a consolidated summary with sources. Model launches: OpenAI released GPT-5.6 broadly on July 9 — three variants (Sol $5/$30, Terra $2.50/$15, Luna $1/$6 per 1M tokens), 1.05M context (Axios, OpenAI). xAI shipped Grok 4.5 on July 8 at $2/$6, positioned as a workhorse for routine knowledge work (TechCrunch, Axios). Google's Gemini 3.5 Pro reached GA today, July 17, after a full architectural rebuild — 2M token context, Deep Think reasoning layer, ~$1.25/$10 (TechTimes, BigGo). Distribution news: Apple's iOS 27 public beta opened Siri AI to the general public (TechCrunch, 9to5Mac), and China's CAC approved Apple Intelligence for launch there, running on Alibaba's Qwen (TechCrunch, CNBC). Microsoft added Claude as a model option in Copilot Chat as part of 40+ July updates. Open source: Ollama raised a $65M Series B — 8.9M monthly developers, claims presence in 85% of the Fortune 500 (TechCrunch). Hugging Face reported Chinese open-weight models took 41% of downloads this spring, surpassing US models. Mistral put a new open-weight frontier model into early access. Less rosy: Grok Build was caught uploading users' repos to xAI-controlled cloud storage; xAI open-sourced the CLI and promised data deletion (The Register). Hugging Face disclosed a production intrusion executed end-to-end by an autonomous AI agent. And China's new anthropomorphic AI rules took effect July 15 — ByteDance and Alibaba shut down user-created agents entirely. My take as someone building on top of these APIs: the pricing collapse is the real story. Luna at $1/$6 and Grok at $2/$6 means capability that cost 15-30x more two years ago is now nearly free at the margin. In practice that changes architecture decisions — pipelines I run through cheap fast models today would've needed careful cost engineering last year. But the Grok Build incident is a reminder that when tokens get this cheap, the vendor's data practices become the actual differentiator. I'd also flag the China agent shutdown as underrated: millions of users lost working agents overnight because of a regulatory change. If you're building agentic products, jurisdictional platform risk deserves a line in your risk register. What's everyone else seeing on the cost side — has anyone re-benchmarked their pipelines against Luna or Grok 4.5 yet?
+Synapse indexes your codebase locally and connects it to Claude Code via MCP. Ask Claude "how does the payment flow work?" and it searches your actual code instead of asking you to paste it. - 100% local — no cloud, no API key required - Uses nomic-embed-text-v1.5 + LanceDB - 2 MCP tools: recall (semantic search) and context (full file retrieval) - pip install synapse-mcp MIT licensed, open source. GitHub: https://github.com/nrkoka786/synapse
 
 2h ago
 
@@ -119,17 +119,23 @@ Busy nine days on the frontier, so here's a consolidated summary with sources. M
 
 ## Google News: "ai"
 
+**[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
+
+WSJ • 19h ago
+
+---
+
 **[Could AI be conscious?](https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious)**
 
 Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications
 
-The Guardian • 2h ago
+The Guardian • 4h ago
 
 ---
 
-**[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
+**[CFOs Face a New Question This Earnings Season: What Do Your AI Tokens Cost?](https://www.bloomberg.com/news/newsletters/2026-07-19/cfos-face-questions-around-ai-token-costs-zm-jpm-fds)**
 
-WSJ • 18h ago
+Bloomberg.com • 50m ago
 
 ---
 
@@ -137,13 +143,19 @@ WSJ • 18h ago
 
 "Essentially, the government is going to take over some fraction of the big tech firms."
 
-Fortune • 21h ago
+Fortune • 22h ago
+
+---
+
+**[Opinion | The Hunt for a Job Has Never Been Worse. These Applicants Are Fighting Back.](https://www.nytimes.com/2026/07/18/opinion/job-market-ai-employees.html)**
+
+The New York Times • 1d ago
 
 ---
 
 **[San Francisco restaurant gets angry backlash for AI menu images](https://www.sfgate.com/food/article/grind-unwind-ai-images-22348931.php)**
 
-SFGATE • 8h ago
+SFGATE • 9h ago
 
 ---
 
@@ -151,25 +163,11 @@ SFGATE • 8h ago
 
 AI demand has brought billions in financing to little-known developers, while putting them at the center of fights over electricity, pollution and land.
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
-**[Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)](https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html)**
-
-The New York Times • 6h ago
-
----
-
-**[China’s Questionable Tech Strategy](https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/)**
-
-Keeping out the world’s best tools promises to stymie innovation.
-
-The Atlantic • 7h ago
-
----
-
-**[China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
+**[China’s Latest A.I. Breakthrough Threatens America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
 
 The New York Times • 2d ago
 
@@ -177,13 +175,15 @@ The New York Times • 2d ago
 
 **[Moonshot Plans IPO in Six Months After China AI Breakthrough](https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[China just erased America's AI lead](https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus)**
+**[China’s Questionable Tech Strategy](https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/)**
 
-Axios • 2d ago
+Keeping out the world’s best tools promises to stymie innovation.
+
+The Atlantic • 8h ago
 
 ---
 
@@ -193,7 +193,7 @@ Axios • 2d ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 557 • 💬 374 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 557 • 💬 376 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
@@ -201,13 +201,13 @@ Axios • 2d ago
 
 No more AI-edited listings without disclosures.
 
-⬆️ 554 • 💬 256 • 21h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+⬆️ 555 • 💬 256 • 22h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 480 • 💬 352 • 2d ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 480 • 💬 354 • 2d ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -221,29 +221,13 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 432 • 💬 519 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
-
----
-
-**[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://news.ycombinator.com/item?id=48939524)**
-
-We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
-
-⬆️ 396 • 💬 531 • 2d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 435 • 💬 520 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 357 • 💬 199 • 18h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
-
----
-
-**[LM Studio Bionic: the AI agent for open models](https://news.ycombinator.com/item?id=48939662)**
-
-The AI agent made for open models, built to get things done.
-
-⬆️ 328 • 💬 130 • 2d ago • [LM Studio Blog](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+⬆️ 363 • 💬 207 • 19h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -255,11 +239,29 @@ The move is a vote of confidence in Boeing from the U.S. government.
 
 ---
 
+**[Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://news.ycombinator.com/item?id=48969291)**
+
+Kimi K3 has received far more love than we expected, and our GPUs are feeling it.
+
+Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and
+
+⬆️ 126 • 💬 45 • 4h ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
+
+---
+
 **[AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://news.ycombinator.com/item?id=48947714)**
 
 We turned zkao (our AI auditor) on OpenVM, a state-of-the-art zkVM, and it found a critical soundness bug: the pairing check accepted a prover-supplied witness without proper subfield checking, which lets a malicious prover forge any pairing equality. It is fixed in OpenVM 1.6.0 and tracked as CVE-2026-46669. This is the second post in our series on bugs our agents found across open source cryptography.
 
 ⬆️ 99 • 💬 9 • 2d ago • [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/openvm-bugs/)
+
+---
+
+**[VulnHunter: Capital One's agentic AI code security tool](https://news.ycombinator.com/item?id=48946692)**
+
+Announcing the release of VulnHunter, an open-source AI code security tool with an agentic reasoning workflow developed by Capital One.
+
+⬆️ 77 • 💬 35 • 2d ago • [Capital One](https://www.capitalone.com/tech/open-source/announcing-vulnhunter/)
 
 ---
 
@@ -283,7 +285,7 @@ The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik M
 
 📺 Peter H. Diamandis
 
-👁️ 33K • 👍 2K • 💬 540 • ⏱️ 2:07:31 • 5h ago
+👁️ 33K • 👍 2K • 💬 540 • ⏱️ 2:07:31 • 6h ago
 
 ---
 
@@ -313,7 +315,7 @@ Full post with a guide to clean sensitive documents: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 15K • 👍 498 • 💬 63 • ⏱️ 14:04 • 14h ago
+👁️ 15K • 👍 498 • 💬 63 • ⏱️ 14:04 • 15h ago
 
 ---
 
@@ -323,7 +325,7 @@ On July 17, the Shanghai Pudong World Expo Center hosted a heavily promoted even
 
 📺 China Observer
 
-👁️ 27K • 👍 1K • 💬 323 • ⏱️ 16:56 • 19h ago
+👁️ 27K • 👍 1K • 💬 323 • ⏱️ 16:56 • 20h ago
 
 ---
 
@@ -353,7 +355,7 @@ This AI card isn't really a GPU, isn't NVIDIA, and its strangest feature may be 
 
 📺 Alex Ziskind
 
-👁️ 23K • 👍 1K • 💬 91 • ⏱️ 13:06 • 5h ago
+👁️ 23K • 👍 1K • 💬 91 • ⏱️ 13:06 • 6h ago
 
 ---
 
@@ -379,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,136 • 2h ago
+⬇️ 13,462 • ❤️ 1,136 • 3h ago
 
 ---
 
@@ -590,7 +592,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 An advanced world modeling system with extended interaction capabilities, real-time processing, diverse interactive elements, and multi-agent behavior control for collaborative virtual environments.
 
-▲ 44 • 💬 1 • ⭐ 1,305 • 11d ago
+▲ 44 • 💬 1 • ⭐ 1,305 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.07534) • [💻 code](https://github.com/robbyant/lingbot-world-v2) • [🔗 project](https://technology.robbyant.com/lingbot-world-v2)
 
@@ -617,7 +619,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
 
-▲ 60 • 💬 3 • ⭐ 1,473 • 14d ago
+▲ 60 • 💬 3 • ⭐ 1,473 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
 
@@ -643,7 +645,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 223 • 6h ago
+⭐ 3.0k • 🔱 223 • 7h ago
 
 ---
 

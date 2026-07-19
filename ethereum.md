@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-19T19:42:35.836692+00:00'
+updated: '2026-07-19T20:50:04.986387+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 19:42 UTC  
+**Last Updated:** July 19, 2026 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +4.7%  
-**30d:** +6.8%  
-**90d:** -20.1%  
-**1y:** -50.5%  
+**24h:** +0.1%  
+**7d:** +4.9%  
+**30d:** +7.1%  
+**90d:** -19.9%  
+**1y:** -50.4%  
 
 ---
 
@@ -94,7 +94,7 @@ Two months ago I posted here after analyzing 78,723 Ethereum token contracts and
 
 **["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -154,23 +154,7 @@ Hello, A little while ago I posted about a project concept I had. The idea was a
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-24/7 Wall St. • 1d ago
-
----
-
-**[Ethereum nears key breakout point; $4,900 targe...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-bisakah-eth-tahan-1843-dan-melonjak-ke-4900)**
-
-Ethereum is currently trading within a long-term triangle pattern, holding a critical Fibonacci support level near $1,843. A confirmed breakout above the descending resistance line could push ETH back toward $4,865-$4,900, with higher targets of $8,300 to $10,000 possible if momentum continues. However, if Ethereum falls below the long-term support line, this bullish scenario would be invalidated, increasing the risk of a deeper correction. Investors should watch for a sustained move above $1,843 and subsequent resistance levels near $2,400-$2,900 to confirm a stronger upward trend.
-
-Pluang • 3h ago
-
----
-
-**[Ethereum's new blob data reduces L2 fees but li...](https://pluang.com/en/news-feed/biaya-l2-lebih-murah-dapat-mengurangi-pembakaran-eth-dari-biaya-blob)**
-
-Ethereum's EIP-4844 upgrade introduced blobs, a cheaper data space for Layer 2 (L2) rollups, lowering transaction fees by creating a separate fee market where blob base fees are burned. However, ETH burn hasn't surged because blob space remains plentiful, keeping base fees low even as L2 usage grows. Major L2s like Base and Arbitrum dominate blob demand, but efficient data compression and off-chain data availability reduce burn pressure. Investors should monitor blob base fees, batch sizes, and L1 gas fees to gauge future ETH burn trends amid evolving L2 strategies and network upgrades.
-
-Pluang • 3h ago
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -186,7 +170,15 @@ Yahoo Finance • 2d ago
 
 Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
 
-CryptoSlate • 2h ago
+CryptoSlate • 3h ago
+
+---
+
+**[Ethereum's new blob data reduces L2 fees but li...](https://pluang.com/en/news-feed/biaya-l2-lebih-murah-dapat-mengurangi-pembakaran-eth-dari-biaya-blob)**
+
+Ethereum's EIP-4844 upgrade introduced blobs, a cheaper data space for Layer 2 (L2) rollups, lowering transaction fees by creating a separate fee market where blob base fees are burned. However, ETH burn hasn't surged because blob space remains plentiful, keeping base fees low even as L2 usage grows. Major L2s like Base and Arbitrum dominate blob demand, but efficient data compression and off-chain data availability reduce burn pressure. Investors should monitor blob base fees, batch sizes, and L1 gas fees to gauge future ETH burn trends amid evolving L2 strategies and network upgrades.
+
+Pluang • 4h ago
 
 ---
 
@@ -194,7 +186,7 @@ CryptoSlate • 2h ago
 
 Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -218,7 +210,7 @@ TradingView • 1d ago
 
 Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
 
-Decrypt • 2d ago
+Decrypt • 3d ago
 
 ---
 
@@ -227,6 +219,14 @@ Decrypt • 2d ago
 Leading cryptocurrencies fell alongside stocks on Thursday, July 16, as the chip selloff and Iran tensions impacted risk appetite.
 
 Benzinga • 2d ago
+
+---
+
+**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
+
+Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
+
+CoinMarketCap • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cyc
 
 📺 The Rollup
 
-👁️ 958 • 👍 42 • 💬 90 • ⏱️ 8:46 • 4h ago
+👁️ 958 • 👍 42 • 💬 90 • ⏱️ 8:46 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 493 • 💬 207 • ⏱️ 30:25 • 9h ago
+👁️ 4K • 👍 493 • 💬 207 • ⏱️ 30:25 • 10h ago
 
 ---
 
@@ -270,7 +270,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 78 • 👍 7 • ⏱️ 16:17 • 18m ago
+👁️ 78 • 👍 7 • ⏱️ 16:17 • 1h ago
 
 ---
 
@@ -280,7 +280,7 @@ In this video I break down the current Ethereum price action and the key resista
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 259 • 💬 30 • ⏱️ 6:22 • 16h ago
+👁️ 5K • 👍 259 • 💬 30 • ⏱️ 6:22 • 17h ago
 
 ---
 
@@ -320,7 +320,7 @@ BITCOIN LIQUIDATION TRAP: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 270 • 💬 173 • ⏱️ 20:30 • 21h ago
+👁️ 7K • 👍 270 • 💬 173 • ⏱️ 20:30 • 22h ago
 
 ---
 

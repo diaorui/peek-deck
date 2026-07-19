@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-19T19:42:35.839876+00:00'
+updated: '2026-07-19T20:50:04.989162+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 19, 2026 at 19:42 UTC  
+**Last Updated:** July 19, 2026 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Apple test](https://www.reddit.com/r/robotics/comments/1v0werw/apple_test/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I'm 15 years old and this is my hexapod project I have been working on for the past year, I learned a ton from it. Here are its specs: -Build: Mostly 3D printed, I used a model from Aecert Robotics from youtube, I made some changes and improvements to the model such as the femur joints that connect to the servos. -Parts: 24 channel Pololu maestro board, 11.4v lipo battery, 12x25kg servos, and 6x35kg servos (for the femur joints because they're under the most load). Cheap android phone for the controller and gyroscope, and a DROK buck converter. -Software: I made a custom android app for the controller that connects via wifi or hotspot, you scan a QR code and it opens the controller on your phone. I used inverse kinematic equations for the hexapod so it has complete control over the leg and body movement. -Stabilizing: Using the gyroscope from the phone it can also self stabilize, it can even walk and self stabilize at the same time. -Walking gait: There are 5 walking gaits so far: Tripod, ripple, wave, triple, and a custom one I made to look like a spider. -I'm currently working on a high precision robot arm and I would love some feedback: About 4ft long and hopefully can lift around 5lb. I should have some videos soon. If you want to learn more about the hexapod or the arm you can see them at my portfolio.
 
-23h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ I'm 15 years old and this is my hexapod project I have been working on for the p
 
 I need to transfer a lot of force through this keyway into a 3d print, and am confused on the intended way to attach to this shaft.
 
-1h ago
+2h ago
 
 ---
 
@@ -58,13 +58,13 @@ I need to transfer a lot of force through this keyway into a 3d print, and am co
 
 I’m building Haga, an independent physics-consistency checker for generated video and robot-policy simulations. An earlier CogVideoX-5b I2V experiment produced a clear failure mode: on a “ball and block fall” prompt, the tracked object stayed airborne with near-zero motion instead of falling. But that first result was post-hoc. I inspected those six clips before adding the static_hover detector, so the original 6/6 flag rate could not be treated as confirmation. I’ve now run a pre-registered held-out test. Method: Model: THUDM/CogVideoX-5b-I2V Cohort: 3 perspectives × seeds 2, 3 and 4 n=9 clips Detector thresholds and inclusion rules frozen before generation RGB → CoTracker3 → position-only VIDEO_CHECKS Discovery seeds 0–1 kept separate from held-out seeds 2–4 Result: Held-out flag rate: 1.000 (9/9) Wilson 95% CI: [0.701, 1.000] All nine clips fired static_hover Real Physics-IQ footage stayed quiet under the same profile static_hover fires when the tracked object remains airborne for most of the clip, has near-zero frame-to-frame speed, and does not exhibit gravitational acceleration. Important limitations: One open I2V model One ball-and-block-fall scene family One documented failure mode Real negative-control n=1 in this specific report Not Cosmos, Genie or NIM Not a broad claim about CogVideoX quality Write-up: https://haga.mushoodhanif.com/article/sim-physics-consistency-v1#held-out Lab: https://haga.mushoodhanif.com/lab/physicsiq Bounded demo: https://haga.mushoodhanif.com/demo I’d especially value criticism on: Which physical violations will position-only tracking systematically miss? Is static_hover defined narrowly enough to avoid confusing intentional suspension with failed dynamics? What public generated-video artifact should I evaluate next under the frozen detector?
 
-2h ago
+3h ago
 
 ---
 
 **[Isaac sim: rosbag replay via rosbrigde](https://www.reddit.com/r/robotics/comments/1v0ue0e/isaac_sim_rosbag_replay_via_rosbrigde/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m building Haga, an independent physics-consistency checker for generated vi
 
 Hey everyone! I’m a high school student helping run a student-led program that teaches Autodesk Fusion and CAD to students for free. We recently secured an international partnership and are getting ready to work with a lot more students, so we’re looking for a few more people to join the team. We’re especially hoping to find people who already have experience with CAD, whether that’s Autodesk Fusion, Onshape, SolidWorks, Inventor, or another program. Fusion experience would be ideal, but familiarity with other CAD software is still very useful since many of the main concepts carry over. The main roles we need are: Co-President and Vice Presidents: Help lead the team, communicate with partners, organize meetings, and help decide where the program goes next. This role will collapse onto the other two roles below. Mentors: Join weekly Zoom classes, demonstrate Fusion tools, answer questions, and help students when they get stuck. Curriculum Developers: Help improve our current lessons and create new activities, projects, and assignments. CAD experience is especially important for mentors and curriculum developers, but we’re also looking for people who are reliable, communicate well, and genuinely want to help students learn engineering. Apply here: https://docs.google.com/forms/d/e/1FAIpQLSckr1UBILkgySbmjvRhKD0qca_-Omxy_aLmG5aN6JIEhE9tJg/viewform?usp=dialog
 
-12h ago
+13h ago
 
 ---
 
@@ -132,15 +132,15 @@ Futurism • 1d ago
 
 People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
 
-New Atlas • 13h ago
+New Atlas • 14h ago
 
 ---
 
-**[Agility Robotics plants its flag in Tesla’s backyard](https://finance.yahoo.com/technology/ai/articles/agility-robotics-plants-flag-tesla-201949661.html)**
+**[Why Intelligence Is Not Enough To Get Robots Out Of The Cage](https://www.forbes.com/sites/jenniferkitepowell/2026/07/19/why-intelligence-is-not-enough-to-get-robots-out-of-the-cage/)**
 
-Agility is opening a new training center for its Digit robots in Fremont, California.
+Sonair CEO Knut Sandven explains why advanced machine intelligence can't guarantee factory floor safety and the role 3D certification plays for collab robots and safety.
 
-Yahoo Finance • 1d ago
+Forbes • 32m ago
 
 ---
 
@@ -154,15 +154,15 @@ Reuters • 2d ago
 
 At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
 
-Global Times • 17h ago
+Global Times • 18h ago
 
 ---
 
-**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+**[This Graduate Student Equips NASA’s Robots With Assembly Skills](https://spectrum.ieee.org/graduate-student-nasas-robots-assembly)**
 
-Your weekly selection of awesome robot videos
+Her algorithm enables robots to install antennas on satellites
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -178,15 +178,15 @@ Business Insider • 3d ago
 
 This week’s roundup covers the challenges of using different protocols in factories, Nvidia’s latest Thor modules, AI-powered custom test design, and the Mind of the Engineer survey.
 
-embedded.com • 1d ago
+embedded.com • 2d ago
 
 ---
 
-**[AUTONOMOUS 2026: Cutting-edge robotics, AI on display as hundreds gather at San Francisco conference](https://abc7news.com/post/autonomous-2026-cutting-edge-robotics-ai-display-hundreds-gather-san-francisco-conference/19527244/)**
+**[ACE ROBOTICS Unveils Kairos 3.1 and Expands Its Embodied AI Stack from Data to Deployment at WAIC 2026](https://thefacts.com/ap_news/ace-robotics-unveils-kairos-3-1-and-expands-its-embodied-ai-stack-from-data-to/article_226729bf-c859-5aee-a1d9-bb00c614196d.html)**
 
-Some of the latest robotic technology was on display in San Francisco Thursday for the inaugural AUTONOMOUS conference. About 600 leaders in robotics and physical AI came together from around the world at The Midway for a day of demonstrations, panels and conversations.
+The launch combines a unified, action-oriented world model with Ambient Capture Engine 2.0, three commercial solutions and a new industry benchmark, connecting high-density data with real-world robotic operations.
 
-ABC7 Bay Area • 19h ago
+The Facts • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Smarttoy Ruko
 
-👁️ 12K • 👍 99 • ⏱️ 0:20 • 16h ago
+👁️ 12K • 👍 99 • ⏱️ 0:20 • 17h ago
 
 ---
 
