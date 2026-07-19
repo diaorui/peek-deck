@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-19T14:56:15.153384+00:00'
+updated: '2026-07-19T15:59:00.309573+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 19, 2026 at 14:56 UTC  
+**Last Updated:** July 19, 2026 at 15:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I think this is not really AI problem, its more about mindset and it repeats with every new technology. Calculators, Internet - every time people get a tool that thinks for them, some become lazy and some learn to use it without turning off their brain. AI is just the next round, much stronger round. Maybe some kind of the final boss. So probably there is no universal fix and everyone has to find their own way. How do you deal with it? Would like to hear different opinions.
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ I think this is not really AI problem, its more about mindset and it repeats wit
 
 ...that I now spend that extra time fixing AI mistakes. Don't get me wrong I use AI almost every day, and it's incredibly useful. But I've noticed something funny: Instead of doing the work myself, I now spend my time fact-checking, rewriting, and correcting what AI generated. It still saves time overall, but it's definitely not the "press one button and you're done" future people imagined. What's one task AI actually saves you time on, and one task where it creates more work than it solves?
 
-2h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Tried prompt injection on a bot that was trying to romance scam me. Worked immed
 
 The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
 
-🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 22h ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 23h ago
 
 ---
 
@@ -73,13 +73,13 @@ The Trump administration is taking steps to control who gets access to the lates
 
 32,070 alphabetic tokens from GPT-2-small's WTE, no forward pass and no context. Works on mobile. Pinch to zoom, tap a token to see its nearest connections, tap a neighbour to walk the graph. Search box to jump anywhere. Layout is t-SNE over a compressed representation of the embedding table; edges are a minimum spanning tree in that space, so every line is a real nearest-kin relationship,
 
-🔗 [aethereos.net](https://aethereos.net/static/token-atlas.html) • 8h ago
+🔗 [aethereos.net](https://aethereos.net/static/token-atlas.html) • 9h ago
 
 ---
 
 **[A Guard for you OpenClaw](https://www.reddit.com/r/artificial/comments/1v0q1jy/a_guard_for_you_openclaw/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ The Trump administration is taking steps to control who gets access to the lates
 
 Earlier this year, AI was like working with a recent intelligent technical college graduate who was answering questions and making good suggestions I didn’t think of. Recently, it is like I have an HR intern helping me. The AI assistant can’t answer science related questions, doesn’t suggest anything useful, asks chatty questions about what I think despite my instructions, formats wrong despite instructions, and is constantly telling me why I can’t search for or do something that is not even remotely an issue . . . Even practicing my Spanish in terms of lessons plans, not just chatting, is painful now. What less obvious models are you all using today to avoid this problem on your aggregators?
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ Earlier this year, AI was like working with a recent intelligent technical colle
 
 Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
 
-19h ago
+20h ago
 
 ---
 
@@ -111,7 +111,7 @@ Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday
 
 Last year I worked with an AI startup, an Oxford spinout. Their product answered research questions through a RAG pipeline. It worked, but every query took around 90 seconds. Long enough that users were bailing before the answer even loaded. The obvious move is to blame the model and go bigger. That wasn't it. The retrieval layer was doing way more work than it needed to on every single query: bloated embeddings, no caching, redundant calls stacking up as the document set grew. I stripped that layer down. Response time went from 90 seconds to about 4, and cost dropped roughly 95%, mostly because the pipeline stopped repeating work it never needed to do in the first place. Separately, I also rebuilt the retrieval on Weaviate. That part wasn't about speed, it fixed accuracy issues in what the pipeline was actually retrieving. Same lesson as most AI performance problems I run into: it's rarely the model. It's the layer nobody's looking at.
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Last year I worked with an AI startup, an Oxford spinout. Their product answered
 
 **[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
@@ -129,13 +129,15 @@ WSJ • 13h ago
 
 Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
-**[Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)](https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html)**
+**[Can AI Dependence Develop Into AI Addiction?](https://www.forbes.com/sites/robertglatter/2026/07/19/can-ai-dependence-develop-into-ai-addiction/)**
 
-The New York Times • 5h ago
+A new concern is emerging as AI tools become integrated into daily life: the potential for AI dependence becoming AI addiction.
+
+Forbes • 25m ago
 
 ---
 
@@ -143,39 +145,39 @@ The New York Times • 5h ago
 
 "Essentially, the government is going to take over some fraction of the big tech firms."
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
-**[AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career](https://www.cnbc.com/2026/07/19/how-using-ai-at-work-can-hurt-your-career.html)**
+**[Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)](https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html)**
 
-Using AI at work in the wrong ways could lead to "gradually falling behind and becoming complacent," said Sandra Matz, a professor at Columbia Business School.
-
-CNBC • 1h ago
-
----
-
-**[Investors blink on the AI trade](https://www.axios.com/2026/07/19/ai-chips-stocks-china)**
-
-Axios • 1h ago
+The New York Times • 6h ago
 
 ---
 
 **[Divide grows between AI employees and executives over policy battles](https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/)**
 
-The Hill • 4h ago
+The Hill • 5h ago
 
 ---
 
-**[A new SF restaurant put AI menu images in its window. Then came the hate.](https://www.sfgate.com/food/article/grind-unwind-ai-images-22348931.php)**
+**[San Francisco restaurant gets angry backlash for AI menu images](https://www.sfgate.com/food/article/grind-unwind-ai-images-22348931.php)**
 
-SFGATE • 3h ago
+SFGATE • 4h ago
 
 ---
 
 **[Alibaba’s Qwen Unveils Preview of Flagship AI Model](https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
+
+---
+
+**[Beijing to the World: We Don’t Want Your Chips](https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/)**
+
+Keeping out the world’s best tools promises to stymie innovation.
+
+The Atlantic • 3h ago
 
 ---
 
@@ -183,7 +185,7 @@ Bloomberg.com • 3h ago
 
 AI demand has brought billions in financing to little-known developers, while putting them at the center of fights over electricity, pollution and land.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -201,13 +203,13 @@ NBC News • 3h ago
 
 No more AI-edited listings without disclosures.
 
-⬆️ 531 • 💬 230 • 16h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+⬆️ 544 • 💬 240 • 17h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 479 • 💬 352 • 2d ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 480 • 💬 352 • 2d ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -215,13 +217,13 @@ No more AI-edited listings without disclosures.
 
 A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.
 
-⬆️ 432 • 💬 145 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+⬆️ 433 • 💬 145 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 417 • 💬 510 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 423 • 💬 512 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -243,7 +245,7 @@ The AI agent made for open models, built to get things done.
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 306 • 💬 153 • 13h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 323 • 💬 168 • 14h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -255,9 +257,11 @@ The move is a vote of confidence in Boeing from the U.S. government.
 
 ---
 
-**[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
+**[German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://news.ycombinator.com/item?id=48937756)**
 
-⬆️ 164 • 💬 85 • 2d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
+
+⬆️ 144 • 💬 34 • 2d ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
 
 ---
 
@@ -311,7 +315,7 @@ Try Seedream 5.0 plus other top AI image and video models at Artlist ...
 
 📺 Matt Wolfe
 
-👁️ 55K • 👍 2K • 💬 91 • ⏱️ 23:10 • 1d ago
+👁️ 55K • 👍 2K • 💬 91 • ⏱️ 23:10 • 2d ago
 
 ---
 
@@ -361,7 +365,7 @@ Create Cinematic AI Films with Higgsfield https://roboverse-ai.com/Higgsfield In
 
 📺 Roboverse
 
-👁️ 5K • 💬 1 • ⏱️ 10:30 • 2h ago
+👁️ 5K • 💬 1 • ⏱️ 10:30 • 3h ago
 
 ---
 
@@ -377,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,117 • 2d ago
+⬇️ 13,462 • ❤️ 1,117 • 3d ago
 
 ---
 
@@ -641,7 +645,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 222 • 1h ago
+⭐ 3.0k • 🔱 222 • 2h ago
 
 ---
 

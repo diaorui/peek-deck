@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-19T14:56:15.162518+00:00'
+updated: '2026-07-19T15:59:00.318062+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 14:56 UTC  
+**Last Updated:** July 19, 2026 at 15:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,505.50
+### $64,626.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +3.7%  
-**30d:** +0.5%  
-**90d:** -15.3%  
+**24h:** +0.4%  
+**7d:** +3.6%  
+**30d:** +0.4%  
+**90d:** -15.4%  
 **1y:** -44.9%  
 
 ---
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[I can feel it in the air. The start of the Bull Market.](https://www.reddit.com/r/Bitcoin/comments/1v0iu7u/i_can_feel_it_in_the_air_the_start_of_the_bull/)**
+
+This is it, guys. I've been in this crypto market since 2016, through all the Bears and Bulls. And I'm saying this with the highest confidence: THIS IS IT. This is what we've been waiting for. And it has arrived. So, stop acting gloomy. Max your confidence. Pull that DCA amount to the MAX and enjoy another bull run in the next 3 years.
+
+9h ago
+
+---
+
 **[I Sold Everything and Put $95,000 Into Bitcoin at 29. See You in 10 Years.](https://www.reddit.com/r/Bitcoin/comments/1v06du8/i_sold_everything_and_put_95000_into_bitcoin_at/)**
 
 I sold every other asset I owned, stopped my pension contributions, took out loans, and we even sold our old flat in Delhi. Altogether, I have invested around $90,000 to $95,000 into BTC. I started buying near $100k, continued as it climbed toward $126k, and added more during the recent lows. This is risky, but it was calculated. My salary covers the loan payments, and based on my calculations, I should be able to repay everything within two and a half years. I would not recommend anyone blindly copy this. But after years of learning about Bitcoin, money, inflation, and scarcity, this is where my conviction is strongest. Maybe it becomes the biggest mistake of my life. Maybe it changes my family’s future. Repay the debt. Secure the Bitcoin. Come back in 10 years.
 
-18h ago
+19h ago
 
 ---
 
@@ -89,7 +97,7 @@ I sold every other asset I owned, stopped my pension contributions, took out loa
 
 Remember this post!
 
-22h ago
+23h ago
 
 ---
 
@@ -97,63 +105,55 @@ Remember this post!
 
 The Bitcoin Runs project reaches Germany for the first time! This GPS art run traces the ₿ symbol through the streets of Stuttgart — the birthplace of the automobile, now on the frontier of sound money. 34 runs and counting across 20 countries 🌍 More at bitcoinruns.org
 
-21h ago
+22h ago
 
 ---
 
-**[Kazakhstan just moved toward 0% tax on Bitcoin gains and legal gas-powered mining](https://www.reddit.com/r/Bitcoin/comments/1uzs7z0/kazakhstan_just_moved_toward_0_tax_on_bitcoin/)**
+**[Daily Discussion, July 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1v0ikc2/daily_discussion_july_19_2026/)**
 
-Quick disclosure up front, since this sub is (rightly) strict about self-promotion: I maintain a project that tracks Bitcoin’s legal status across ~140 countries: legality, self-custody rights, tax treatment, seizure risk. No link here, just sharing because I think the underlying facts are worth this sub’s time on their own. On July 7, President Tokayev signed a decree that bundles three things worth knowing: 1/ Tax. A planned exemption from personal income tax on gains from digital asset transactions conducted through Kazakhstan’s regulated infrastructure. Officials have described this as “planned,” so the implementing rules aren’t fully live yet, but the direction is explicit and it came straight from the Ministry of AI and Digital Development. 2/ Mining. A new mechanism letting associated petroleum gas and natural gas that isn’t needed for state use be converted into electricity for mining operations. This is aimed at monetizing stranded/flared gas that was otherwise being wasted. 3/ Offshore coins. A framework to bring previously unregistered or offshore-held crypto assets into the regulated domestic system, alongside groundwork for stablecoin-based cross-border settlement. Context that makes this land differently: Kazakhstan is the world’s third-largest Bitcoin mining nation by hashrate, behind only the US and China. This is the same country that banned mining and slapped punitive electricity tariffs on miners back in 2021–22 after the post-China-ban influx overloaded its grid. Going from “we’re taxing you out” to “0% on gains, here’s some stranded gas to mine with” in four years is a real reversal. On the tax point specifically: if this holds as written, it puts Kazakhstan ahead of most G7 countries, several of which still tax Bitcoin gains as ordinary income with no exemption at all. For reference, across the ~140 countries I track, the current split is roughly 6 clearly pro-Bitcoin, 11 openly hostile, and the rest (~123) somewhere in between with unclear or inconsistent policy. Genuinely curious what this sub thinks: is this a real long-term bet on Bitcoin infrastructure, or a play to grab mining revenue and hashrate share while the window’s open, and does it matter which one it is?
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1d ago
-
----
-
-**[Satoshi said "I'm losing my mind there are so many things that need to be done..." 16 years ago, as a flood of new users from slashdot overwhelmed Bitcoin websites](https://www.reddit.com/r/Bitcoin/comments/1uzz5w0/satoshi_said_im_losing_my_mind_there_are_so_many/)**
-
-Martii Malmi (AKA Sirius) “COPA trial” email #210 Date: Sun, 18 Jul 2010 16:23:10 +0100 From: Satoshi Nakamoto satoshin@gmx.com Subject: Re: Fwd: bitcoin hosting To: mmalmi@cc.hut.fi Please promise me you won't make a switch now. The last thing we need is switchover hassle on top of the slashdot flood of work we've got now. I'm losing my mind there are so many things that need to be done. Also, it would suck to be on a smaller, less reliable host just to save a measly $20. I will try to think of a polite way to ask the donor if he sent it, but right now there are other higher priority things that are going to bump even that for a few days. Would a donation of bitcoins help in the short term? mmalmi@cc.hut.fi wrote: > Rackspace has very good support, good backend, good connections and > nicely scaling cloud based virtual servers. I got this offer from Thufir: > > ----- > Hi Sirius, > > Check out www.citrusdesignstudio.com. You will see through the portfolio > that > I am a real business with many clients. > > That is my business that I provide managed hosting through. > I also do unmanaged VPSes. > > Normally I would charge $15/mo for 512MB. > I will do it for $10/mo for you. > > To see my pricing, go to www.linnode.com. I match everything they have > except > their great panel -- you have to email or call my people. > > I provide VPS services normally for 3/4ths the posted cost on linnode.com. > (Rackspace is even more expensive.) > > I will do it for 1/2 of linnode's price for you. > > It scales linerally just like linnodes, so for 2048 MB of memory, I would > charge $40, etc. > > Later! > ----- > > That would be worth considering, if they have good datacenters and > connections. $10 / month is about $20 less than what Rackspace costs. On > the other hand, Rackspace prices are no problem if the donation is to > arrive. >
-
-🔗 [satoshitimeline.com](https://satoshitimeline.com/657) • 23h ago
+9h ago
 
 ---
 
-**[Bitcoin power law](https://www.reddit.com/r/Bitcoin/comments/1v048vr/bitcoin_power_law/)**
+**[BTC Mental Health](https://www.reddit.com/r/Bitcoin/comments/1v0c5j7/btc_mental_health/)**
 
-Bitcoin's price has historically tracked a long-term power law trendline — a curve that grows at a constant rate on a log-log time/price scale. I've built a small website to track how the price is doing relative to the trendline. Historically when the price falls below the trendline it signals a great buying opportunity. Similarly, price going above the trendline might flash a sell signal. Nobody knows the future price, but now is a good time to turn your DCAs - now proven by a mathematical formula. here is the link: https://www.btcpower.ai/
+Brutally honest here, has anyone been overly obsessed with Bitcoin? Like you know it’s the future (even though price manipulation), it’s your habit, your hobby, and it honestly makes you a little crazy.
 
-19h ago
-
----
-
-**[Bitcoin can never go to zero. Please educate people that say this](https://www.reddit.com/r/Bitcoin/comments/1uzrz9u/bitcoin_can_never_go_to_zero_please_educate/)**
-
-Adam Back has a buy order in for 21 million Bitcoin at $0.01 cents. I don’t think we’ll ever see this, but it’s good to know this fact when you see people saying that Bitcoin is going to zero.
-
-1d ago
+15h ago
 
 ---
 
-**[Revolut X what is your opinion](https://www.reddit.com/r/Bitcoin/comments/1v02ybp/revolut_x_what_is_your_opinion/)**
+**[Would you be comfortable with putting 10 percent of your savings into bitcoin and the other 90 percent in blue chip stocks and index funds that follow sp500](https://www.reddit.com/r/Bitcoin/comments/1v0auui/would_you_be_comfortable_with_putting_10_percent/)**
 
-Hi, is Revolut X good for simply doing DCA? Has anyone had any experience selling on it? Is there enough trading volume and liquidity? I’d especially appreciate feedback from European residents. Thanks
+Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average price is af 87k, not sure where it will go so I’m heavily buying Voo/blue chip stocks
 
-20h ago
-
----
-
-**[Calling it a day after 11 years in corporate and slide deck number 500. Now I want to build something meaningful.](https://www.reddit.com/r/Bitcoin/comments/1uzpvv5/calling_it_a_day_after_11_years_in_corporate_and/)**
-
-11 years in corporate. Somewhere around reorganization number 10 and slide deck number 500, I stopped counting and started thinking. I don't want to be in the flywheel anymore, obeying things that make no sense and bending over to corporate politeness. I want to build something of my own and prove I can do it by myself. When I discovered Bitcoin 8 years ago, I put in the hours to understand it. After that, I could not unsee it. The mission is noble, and Bitcoin is the only thing I've ever felt worth building for. Not for the glory. For the mission. I dream about it, it occupies my mind every night before I fall asleep. Money that cannot be debased. Freedom. A heritage you can actually pass on to your kids. That resonates with me. So this year I stop watching and start building. Nights and weekends, next to the day job. Something that helps normal people get in and hold their own keys. I will probably fail in public a few times. Fine. I'm more scared of reorg number 20 than of failing at something I believe in. If you feel the same flywheel, follow along.
-
-1d ago
+16h ago
 
 ---
 
-**[A Raspberry Pi Is Still a Computer: Why Bitcoin Needs a Purpose-Built Hardware Wallet](https://www.reddit.com/r/Bitcoin/comments/1uzzflt/a_raspberry_pi_is_still_a_computer_why_bitcoin/)**
+**[Investment](https://www.reddit.com/r/Bitcoin/comments/1v0nfxv/investment/)**
 
-https://t.co/N5cwqMLHxc
+Should I include bitcoin in my diversified investments or should I stick to blue chip stocks? I’m relatively risk adverse and have at least 25 yrs before retirement. I invested in Russian stocks before and it did not go well… then I invested in Chinese stocks and it plummeted… then I invested in Japanese telecoms and it stayed flat for yrs. The US tech stocks have given stellar returns and I wonder if bitcoin can beat magnificient seven?
 
-🔗 [X (formerly Twitter)](https://x.com/nvk/status/2078498536400777700?s=20) • 23h ago
+5h ago
+
+---
+
+**[Very funny, people make fun of someone putting everything in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1v0jrtu/very_funny_people_make_fun_of_someone_putting/)**
+
+Which is good, we're still so early. People always hating on something when it's down, and they hated even more when its up, except they are in. Same fucking every cycle.
+
+8h ago
+
+---
+
+**[Forget price action](https://www.reddit.com/r/Bitcoin/comments/1v09o8j/forget_price_action/)**
+
+These are the only numbers I focus on. Adoption is all you need to keep an eye on. The rest is noise. Number will go up as demand increases and Bitcoin is uniquely set up for this based on its shrinking issuance and capped supply. The first shows adoption counts by institutions, corporates, and nations and states. The second shows the estimated BTC held. Both tables exclude treasury companies like Strategy in the corporate figures, so the numbers would be even higher if the treasury companies had been included.
+
+17h ago
 
 ---
 
@@ -173,15 +173,7 @@ CoinDesk • 1d ago
 
 A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.
 
-The Block • 20h ago
-
----
-
-**[Larry Fink Says Bitcoin Has 'More Stability' at Current Levels: BlackRock CEO 'Very Bullish on the Markets'](https://finance.yahoo.com/markets/crypto/articles/larry-fink-says-bitcoin-more-120122326.html)**
-
-Larry Fink, CEO of BlackRock Inc., stated on Wednesday that Bitcoin is more stable at current levels, with excessive leverage largely washed out of the system. Is Fink Betting On Bitcoin’s Bull Run? During an interview with CNBC, Fink said...
-
-Yahoo Finance • 2h ago
+The Block • 21h ago
 
 ---
 
@@ -189,7 +181,15 @@ Yahoo Finance • 2h ago
 
 They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
 
-Forbes • 4h ago
+Forbes • 5h ago
+
+---
+
+**[Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?](https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-says-043500546.html)**
+
+Historically, Bitcoin has rallied from steep market downturns to hit new all-time highs.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -203,13 +203,13 @@ Bloomberg.com • 2d ago
 
 Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
 
-South Dakota Searchlight • 2d ago
+South Dakota Searchlight • 3d ago
 
 ---
 
 **[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
 
-Investing.com • 5h ago
+Investing.com • 6h ago
 
 ---
 
@@ -219,17 +219,19 @@ Investor's Business Daily • 2d ago
 
 ---
 
-**['The market collapsed:' After 3 years of operation, Wolfe County bitcoin operation shuts down](https://www.lex18.com/news/lex-18-investigates/the-market-collapsed-after-3-years-of-operation-wolfe-county-bitcoin-operation-shuts-down)**
+**[Bitcoin Is its Most Affordable in Two Years. Which ETF Is Better to Invest With Now: iShares Bitcoin Trust ETF or VanEck Bitcoin ETF?](https://www.fool.com/coverage/etfs/2026/07/18/bitcoin-is-its-most-affordable-in-two-years-which-etf-is-better-to-invest-with-now-ishares-bitcoin-trust-etf-or-vaneck-bitcoin-etf/)**
 
-A Bitcoin mining operation that generated nearly three years of noise complaints from residents along Kentucky Route 1036 is much quieter now.
+iShares dominates with $47B in assets, while VanEck undercuts on fees at 0.20% versus 0.25%. Which matters more for your portfolio?
 
-LEX 18 News • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Michael Saylor’s Bitcoin Treasury Company Strategy Is Falling Apart](https://www.barchart.com/story/news/3320452/michael-saylors-bitcoin-treasury-company-strategy-is-falling-apart)**
+**[Bitcoin Sentiment Is Turning Bullish — But It's Too Early To Celebrate: Report](https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares)**
 
-Barchart.com • 2d ago
+CoinShares has said that while investors have put money in crypto funds again, the Bitcoin price may still struggle.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -263,7 +265,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
 
-⬆️ 2 • 💬 0 • 7h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 2 • 💬 0 • 8h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
@@ -287,7 +289,7 @@ August is right around the corner and that means BIG moves coming up (Clarity, S
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 484 • 💬 32 • ⏱️ 29:49 • 20h ago
+👁️ 8K • 👍 484 • 💬 32 • ⏱️ 29:49 • 21h ago
 
 ---
 
@@ -297,7 +299,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 551 • 💬 448 • ⏱️ 19:49 • 22h ago
+👁️ 6K • 👍 551 • 💬 448 • ⏱️ 19:49 • 23h ago
 
 ---
 
@@ -307,7 +309,7 @@ Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 101 • ⏱️ 31:29 • 18h ago
+👁️ 25K • 👍 1K • 💬 101 • ⏱️ 31:29 • 19h ago
 
 ---
 
@@ -317,7 +319,7 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 204 • 💬 76 • ⏱️ 18:50 • 16h ago
+👁️ 3K • 👍 204 • 💬 76 • ⏱️ 18:50 • 17h ago
 
 ---
 
@@ -327,7 +329,7 @@ Exchanges I used for trading: BLOFIN: https://partner.blofin.com/d/TeamUndergrou
 
 📺 Team Underground
 
-👁️ 3K • 👍 149 • 💬 19 • ⏱️ 8:59 • 19h ago
+👁️ 3K • 👍 149 • 💬 19 • ⏱️ 8:59 • 20h ago
 
 ---
 
@@ -345,7 +347,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 4K • 👍 440 • 💬 56 • ⏱️ 7:29 • 5h ago
+👁️ 4K • 👍 440 • 💬 56 • ⏱️ 7:29 • 6h ago
 
 ---
 
@@ -355,7 +357,7 @@ Join Skool - https://www.skool.com/discovercrypto/about ​​If you have ever m
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 82 • 💬 63 • ⏱️ 0:29 • 12h ago
+👁️ 4K • 👍 82 • 💬 63 • ⏱️ 0:29 • 13h ago
 
 ---
 

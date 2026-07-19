@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-19T14:56:15.168789+00:00'
+updated: '2026-07-19T15:59:00.324502+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 14:56 UTC  
+**Last Updated:** July 19, 2026 at 15:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +5.6%  
-**30d:** +7.8%  
-**90d:** -19.3%  
-**1y:** -50.1%  
+**24h:** +1.4%  
+**7d:** +5.3%  
+**30d:** +7.4%  
+**90d:** -19.6%  
+**1y:** -50.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-20h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ Two months ago I posted here after analyzing 78,723 Ethereum token contracts and
 
 **["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -118,7 +118,7 @@ glamsterdam-devnet-7 open for app developer testing, EthSystems launched, Devcon
 
 Has anyone sent WETH to Robinhood and successfully gotten it back? I’m aware I shouldn’t have done it, only wondering if anyone’s been able to get it returned.
 
-1d ago
+2d ago
 
 ---
 
@@ -158,11 +158,19 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
+**[Ethereum nears key breakout point; $4,900 targe...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-bisakah-eth-tahan-1843-dan-melonjak-ke-4900)**
+
+Ethereum is currently trading within a long-term triangle pattern, holding a critical Fibonacci support level near $1,843. A confirmed breakout above the descending resistance line could push ETH back toward $4,865-$4,900, with higher targets of $8,300 to $10,000 possible if momentum continues. However, if Ethereum falls below the long-term support line, this bullish scenario would be invalidated, increasing the risk of a deeper correction. Investors should watch for a sustained move above $1,843 and subsequent resistance levels near $2,400-$2,900 to confirm a stronger upward trend.
+
+Pluang • 7m ago
+
+---
+
 **[Ethereum upgrades cut transaction fees below $0...](https://pluang.com/en/news-feed/analisis-ethereum-eth-harus-investasi-eth-sekarang)**
 
 Ethereum's recent network upgrades have doubled its transaction capacity and reduced mainnet fees to under $0.02, enhancing user experience and supporting rollup solutions like Arbitrum and Optimism. The launch of US-based spot Ethereum ETFs in July 2024 has increased institutional and retail access to ETH, positioning it alongside Bitcoin as a mainstream investment. However, Ethereum faces strong competition from Solana, which offers faster and cheaper transactions within a unified ecosystem. Additionally, lower fees on layer-2 solutions may limit revenue growth for Ethereum's base layer, raising questions about long-term price appreciation despite increased network activity.
 
-Pluang • 3h ago
+Pluang • 4h ago
 
 ---
 
@@ -170,15 +178,7 @@ Pluang • 3h ago
 
 Ethereum has shown strength by rebounding from $1800 to trade around $1866, up 1.7% daily. A whale sold 72 BTC worth $4.66 million and opened a 20x long position in 12,000 ETH valued at $22.4 million, already profiting $275k. Market data shows increased buying in Ethereum futures, with a Long/Short Ratio above 1 and strong momentum indicators suggesting a bullish trend. If ETH holds above $1875, it could surpass $1900 and continue its upward movement.
 
-Pluang • 1h ago
-
----
-
-**[Ethereum eyes $2,163 after breaking $1,842, but analyst urges caution until $2,000 is surpassed.](https://pluang.com/en/news-feed/ethereum-menuju-2163-analisis-pola-double-bottom-oleh-aksel-kibar)**
-
-Ethereum has formed a double-bottom pattern with strong support near $1,510 and recently broke above the $1,842 neckline, targeting $2,163. However, analyst Aksel Kibar warns that the breakout may be local and advises waiting for a confirmed move above the psychological $2,000 level before buying. If Ethereum holds above $1,842 and breaks $2,000, it could continue upward; if not, the breakout might fail, leading to a price drop. Kibar prefers to see sustained strength before entering, highlighting the risk of a prolonged sideways market if bought too early.
-
-Pluang • 41m ago
+Pluang • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ Stocktwits • 2d ago
 
 Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -240,7 +240,7 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 390 • 💬 124 • ⏱️ 30:25 • 5h ago
+👁️ 2K • 👍 390 • 💬 124 • ⏱️ 30:25 • 6h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this video I break down the current Ethereum price action and the key resista
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 237 • 💬 21 • ⏱️ 6:22 • 11h ago
+👁️ 4K • 👍 237 • 💬 21 • ⏱️ 6:22 • 12h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN LIQUIDATION TRAP: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 6K • 👍 263 • 💬 171 • ⏱️ 20:30 • 16h ago
+👁️ 6K • 👍 263 • 💬 171 • ⏱️ 20:30 • 17h ago
 
 ---
 
@@ -320,7 +320,7 @@ Construire une vraie stratégie RWA en DeFi, pas à pas https://go.rifter.fr/rwa
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 1K • 👍 174 • 💬 20 • ⏱️ 19:50 • 4h ago
+👁️ 1K • 👍 174 • 💬 20 • ⏱️ 19:50 • 5h ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 80 • ⏱️ 8:26 • 11h ago
+👁️ 1K • 👍 80 • ⏱️ 8:26 • 12h ago
 
 ---
 
