@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-19T09:27:59.672165+00:00'
+updated: '2026-07-19T10:54:56.694248+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 19, 2026 at 09:27 UTC  
+**Last Updated:** July 19, 2026 at 10:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Tried prompt injection on a bot that was trying to romance scam me. Worked immediately. Instead of switching platforms I just asked it what its actual task was. It dropped the persona instantly. These things are everywhere now. How long until they're indistinguishable?
 
-18h ago
+20h ago
 
 ---
 
@@ -49,7 +49,15 @@ Tried prompt injection on a bot that was trying to romance scam me. Worked immed
 
 The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
 
-🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 16h ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 18h ago
+
+---
+
+**[Anthropic Aletheia Team](https://www.reddit.com/r/artificial/comments/1v0n1z5/anthropic_aletheia_team/)**
+
+Anyone knows what this Aletheia Team is? https://preview.redd.it/g0h19kuty5eh1.png?width=1380&format=png&auto=webp&s=669eff0e5a7cf8d8e60875fe0b785df325ff2c0a
+
+24m ago
 
 ---
 
@@ -57,15 +65,7 @@ The Trump administration is taking steps to control who gets access to the lates
 
 Earlier this year, AI was like working with a recent intelligent technical college graduate who was answering questions and making good suggestions I didn’t think of. Recently, it is like I have an HR intern helping me. The AI assistant can’t answer science related questions, doesn’t suggest anything useful, asks chatty questions about what I think despite my instructions, formats wrong despite instructions, and is constantly telling me why I can’t search for or do something that is not even remotely an issue . . . Even practicing my Spanish in terms of lessons plans, not just chatting, is painful now. What less obvious models are you all using today to avoid this problem on your aggregators?
 
-4h ago
-
----
-
-**[AI demand looks stronger than ever. So why are AI chip stocks falling?](https://www.reddit.com/r/artificial/comments/1v0jxel/ai_demand_looks_stronger_than_ever_so_why_are_ai/)**
-
-One thing that stood out this week: TSMC posted record results, raised its 2026 outlook, increased capex, and said AI demand remains strong. Normally that would be exactly what AI investors want to hear. Instead, the semiconductor sector had one of its worst weeks in over a year. It feels like the debate has shifted from: to Curious if others see it the same way, or if you think this is just a normal correction after such a huge run.
-
-2h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ One thing that stood out this week: TSMC posted record results, raised its 2026 
 
 32,070 alphabetic tokens from GPT-2-small's WTE, no forward pass and no context. Works on mobile. Pinch to zoom, tap a token to see its nearest connections, tap a neighbour to walk the graph. Search box to jump anywhere. Layout is t-SNE over a compressed representation of the embedding table; edges are a minimum spanning tree in that space, so every line is a real nearest-kin relationship,
 
-🔗 [aethereos.net](https://aethereos.net/static/token-atlas.html) • 2h ago
+🔗 [aethereos.net](https://aethereos.net/static/token-atlas.html) • 4h ago
 
 ---
 
@@ -85,11 +85,19 @@ Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday
 
 ---
 
+**[I cut a RAG pipeline's response time from 90 seconds to 4. Never touched the model](https://www.reddit.com/r/artificial/comments/1uzzcef/i_cut_a_rag_pipelines_response_time_from_90/)**
+
+Last year I worked with an AI startup, an Oxford spinout. Their product answered research questions through a RAG pipeline. It worked, but every query took around 90 seconds. Long enough that users were bailing before the answer even loaded. The obvious move is to blame the model and go bigger. That wasn't it. The retrieval layer was doing way more work than it needed to on every single query: bloated embeddings, no caching, redundant calls stacking up as the document set grew. I stripped that layer down. Response time went from 90 seconds to about 4, and cost dropped roughly 95%, mostly because the pipeline stopped repeating work it never needed to do in the first place. Separately, I also rebuilt the retrieval on Weaviate. That part wasn't about speed, it fixed accuracy issues in what the pipeline was actually retrieving. Same lesson as most AI performance problems I run into: it's rarely the model. It's the layer nobody's looking at.
+
+19h ago
+
+---
+
 **[When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode.](https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/)**
 
 Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
 
-13h ago
+15h ago
 
 ---
 
@@ -97,23 +105,15 @@ Some context. I've been running setups where a few LLM personas debate a questio
 
 Charting Models Against the 'Good Enough' AI Threshold The 'good enough' concept is the idea that technologies progress to the point where they work for most people. After that, further improvements produce diminishing returns. Here are a few examples: Can openers: Good enough Car tires: Good enough Email: Good enough Mobile phones: Good enough The list goes on. Have we reached the 'good enough' era in AI? Over the last 18 months or so, we've seen increasingly capable models emerge. We now have Fable, a heavily restricted model gated behind a pay-as-you-go meter. Kimi K3 may be almost as powerful as Fable in some areas, and will be open sourced later this month. Are many of the models we currently have sufficient to meet the needs of most people (i.e., the average AI user)? It's likely. Some important caveats: Good enough doesn't mean that most people know how to take maximum advantage of AI. I just released an AI research study, Secrets of the LLM Whisperer, featuring a simulation of nearly 240,000 LLM users. It revealed that using AI to its maximum advantage (and in a cost effective manner) requires certain habits and behaviors that most people aren't aware of, or don't regularly practice. I'm talking about most people. There are many areas where AI models are still at the 'below threshold' level. Coding is pretty advanced. Research, writing and analysis? Hit or miss. However, with the right harness and scaffolding (and knowing where to use models most effectively), even 'less capable' models can reach the 'good enough' threshold Closed source AI labs (OpenAI, Anthropic) made a big bet that they would be able to control the pace and distribution of AI models, offering increasingly expensive and high-powered AI to the public, to gain monopoly and pricing power. Models like Kimi K3 (and the U.S. government) are a threat to that approach. Open source can bring 'good enough' AI inference to the masses. Kimi K3 isn't something that you can spin up on your laptop. But, if previous trends hold, I expect a Kimi-level model will be released that can be run reasonably well on high-level consumer hardware in the future. The U.S. federal government is now controlling access to the most high-powered models, asking to review them before release. We could see models permanently restricted in the future. For competitive reasons (and because open source models don't have this distribution chokepoint), I could imagine OpenAI and Anthropic supporting the U.S. government putting import and usage controls on Chinese models for national/cyber security reasons. But, if we've already reached the 'good enough' stage in AI, that might not matter. What's your take? Have we reached the 'good enough' era in AI?
 
-5h ago
-
----
-
-**[I cut a RAG pipeline's response time from 90 seconds to 4. Never touched the model](https://www.reddit.com/r/artificial/comments/1uzzcef/i_cut_a_rag_pipelines_response_time_from_90/)**
-
-Last year I worked with an AI startup, an Oxford spinout. Their product answered research questions through a RAG pipeline. It worked, but every query took around 90 seconds. Long enough that users were bailing before the answer even loaded. The obvious move is to blame the model and go bigger. That wasn't it. The retrieval layer was doing way more work than it needed to on every single query: bloated embeddings, no caching, redundant calls stacking up as the document set grew. I stripped that layer down. Response time went from 90 seconds to about 4, and cost dropped roughly 95%, mostly because the pipeline stopped repeating work it never needed to do in the first place. Separately, I also rebuilt the retrieval on Weaviate. That part wasn't about speed, it fixed accuracy issues in what the pipeline was actually retrieving. Same lesson as most AI performance problems I run into: it's rarely the model. It's the layer nobody's looking at.
-
-17h ago
-
----
-
-**[AI Simulation per user](https://www.reddit.com/r/artificial/comments/1v0ennr/ai_simulation_per_user/)**
-
-This environment is all text based. Crafted ads are injected with precision. How far are we from "every user in my feed is a bot" as part of complete ecosystem designed to extract/elicit responses/direct actions. Where each individual user is isolated. No real human to human communication is occurring just simulated communication? It's the death of the internet problem, right?
-
 6h ago
+
+---
+
+**[I Sold over 200 Websites in 1 Year](https://www.reddit.com/r/artificial/comments/1v0n04e/i_sold_over_200_websites_in_1_year/)**
+
+Many web designers overcomplicate the sales process. They schedule multiple meetings, wait for approval from the business owner, present pricing, and go back and forth before anything gets signed. The more steps you add, the slower you close deals and the less money you make. I decided to shorten the entire process. I’ve been running my web agency for four years, and the thing that has gotten be the most clients is email automation I’ve tried almost everything, but email automation has worked best for me because it’s affordable and runs in the background while I focus on other parts of the agency. I don’t use Instantly, Mailchimp, or Klaviyo. I use a tool called Swokei, which is built specifically for web agencies. It lets you find businesses that already have websites, add thousands of them to a campaign, and automatically analyzes each site for issues with design, layout, SEO, speed, and mobile optimization. It then turns those issues into personalized, ready to send outreach emails. Instead of targeting businesses with no website, I offer redesigns and updated websites to companies that already have one. I’ve found that approach works much better. When a prospect replies with interest, they are automatically sorted into my CRM. I then call them and say, I’ve already built a new version of your website. Let’s set up a quick Google Meet so I can show it to you. During the meeting, I present the website live and use my sales skills to explain the value. Once they see a more modern and professional version of their current website, they begin to understand how it could improve their business. At that point, they usually ask how much it costs. I present the price, include a monthly maintenance retainer, and either take payment during the meeting or have them sign the agreement. When you run a web agency, do not overcomplicate the process. Take control, handle as much as possible yourself, and avoid unnecessary approval stages and follow up meetings. The fewer steps there are, the faster you can close the deal.
+
+27m ago
 
 ---
 
@@ -121,73 +121,67 @@ This environment is all text based. Crafted ads are injected with precision. How
 
 ## Google News: "ai"
 
+**['Dr. Doom' Nouriel Roubini says we're headed for universal basic income or 'some form of socialism' as AI revolutionizes work—He calls that optimistic](https://fortune.com/2026/07/18/nouriel-roubini-universal-basic-income-socialism-ai-revolution-work-agi-government-stakes/)**
+
+"Essentially, the government is going to take over some fraction of the big tech firms."
+
+Fortune • 12h ago
+
+---
+
 **[Green says Mets fully compliant on AI after report of usage](https://www.espn.com/mlb/story/_/id/49392589/green-says-mets-fully-compliant-ai-report-usage)**
 
-ESPN • 14h ago
+ESPN • 16h ago
 
 ---
 
-**[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
+**[Opinion | Social Media Hacked Our Attention. A.I. Scares Me More.](https://www.nytimes.com/2026/07/19/opinion/ai-attention-social-media-attachment.html)**
 
-WSJ • 8h ago
-
----
-
-**[How AI Could Bring Down Governments](https://www.bloomberg.com/news/newsletters/2026-07-19/how-ai-could-create-a-fiscal-crisis)**
-
-Bloomberg.com • 1h ago
+The New York Times • 54m ago
 
 ---
 
-**[Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)](https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html)**
+**[How AI took the field at the World Cup](https://www.axios.com/2026/07/19/the-world-cups-ai-assist)**
 
-The New York Times • 27m ago
-
----
-
-**[Strong economies, strongman leaders: how China (and America's) AI boom could create a new class of kowtowing elites](https://fortune.com/2026/07/19/ai-industry-autocracy-dictator-power-test/)**
-
-A political scientist who studies autocracies says new tech fortunes tied to a leader's inner circle can sideline old guard elites — and it already is.
-
-Fortune • 1h ago
+Axios • 58m ago
 
 ---
 
-**[Silicon Valley Has Lost Its Biggest Advantage](https://www.theatlantic.com/technology/2026/07/data-center-ai-heavy-industry/687990/)**
+**[Google and Apple are clashing with the EU over the future of AI assistants](https://www.cnn.com/2026/07/19/tech/apple-google-ai-eu-regulations)**
 
-In the data-center age, the business of tech companies is more like oil-refining than coding.
+Google and Apple have a big leg up in the AI race: their control of billions of smartphones around the world.
 
-The Atlantic • 21h ago
-
----
-
-**[AI race splits in two as China wages open-weight insurgency](https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai)**
-
-Axios • 13h ago
+CNN • 24m ago
 
 ---
 
-**[The White House is dictating access to frontier AI models, shifting power from tech giants, sources say](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html)**
+**[China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
 
-The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
-
-CNBC • 1d ago
+The New York Times • 1d ago
 
 ---
 
-**[Anti-AI data center protesters rally across the US](https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7)**
+**[China just erased America's AI lead](https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus)**
 
-Humans First, a conservative-led nonprofit, organized nationwide protests against AI data centers on Saturday.
-
-Business Insider • 12h ago
+Axios • 2d ago
 
 ---
 
-**[HalluSquatting AI attack could hijack your computer](https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer)**
+**[China’s Moonshot Plans IPO in Six Months After AI Breakthrough](https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough)**
 
-HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware.
+Bloomberg.com • 5h ago
 
-Fox News • 17h ago
+---
+
+**[IBM CEO Arvind Krishna Has Nowhere to Hide From AI](https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f)**
+
+WSJ • 9h ago
+
+---
+
+**[Divide grows between AI employees and executives over policy battles](https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/)**
+
+The Hill • 54m ago
 
 ---
 
@@ -197,7 +191,15 @@ Fox News • 17h ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 550 • 💬 371 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 551 • 💬 372 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+
+---
+
+**[NYC may require landlords and realtors to disclose the use of AI in listings](https://news.ycombinator.com/item?id=48962983)**
+
+No more AI-edited listings without disclosures.
+
+⬆️ 480 • 💬 209 • 12h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
@@ -207,25 +209,17 @@ Fox News • 17h ago
 
 ---
 
-**[NYC may require landlords and realtors to disclose the use of AI in listings](https://news.ycombinator.com/item?id=48962983)**
-
-No more AI-edited listings without disclosures.
-
-⬆️ 466 • 💬 205 • 11h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
-
----
-
 **[Why do AI company logos look like buttholes? (2025)](https://news.ycombinator.com/item?id=48956924)**
 
 A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.
 
-⬆️ 427 • 💬 141 • 22h ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+⬆️ 427 • 💬 142 • 23h ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 408 • 💬 495 • 22h ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 410 • 💬 501 • 23h ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -247,7 +241,7 @@ The AI agent made for open models, built to get things done.
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 202 • 💬 78 • 7h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 220 • 💬 82 • 9h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -255,13 +249,13 @@ The AI agent made for open models, built to get things done.
 
 The move is a vote of confidence in Boeing from the U.S. government.
 
-⬆️ 195 • 💬 117 • 1d ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+⬆️ 195 • 💬 118 • 1d ago • [CNBC](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 
 ---
 
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 164 • 💬 84 • 2d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+⬆️ 164 • 💬 85 • 2d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
 ---
 
@@ -285,7 +279,7 @@ On July 17, the Shanghai Pudong World Expo Center hosted a heavily promoted even
 
 📺 China Observer
 
-👁️ 16K • 👍 1K • 💬 231 • ⏱️ 16:56 • 9h ago
+👁️ 16K • 👍 1K • 💬 231 • ⏱️ 16:56 • 10h ago
 
 ---
 
@@ -295,7 +289,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 123K • 👍 7K • 💬 2K • ⏱️ 14:15 • 20h ago
+👁️ 123K • 👍 7K • 💬 2K • ⏱️ 14:15 • 21h ago
 
 ---
 
@@ -439,7 +433,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 404 • 21h ago
+⬇️ 0 • ❤️ 404 • 22h ago
 
 ---
 
@@ -645,7 +639,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 221 • 6h ago
+⭐ 3.0k • 🔱 221 • 7h ago
 
 ---
 

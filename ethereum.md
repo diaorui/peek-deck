@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-19T09:27:59.686769+00:00'
+updated: '2026-07-19T10:54:56.709339+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 09:27 UTC  
+**Last Updated:** July 19, 2026 at 10:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +5.1%  
-**30d:** +7.2%  
-**90d:** -19.8%  
-**1y:** -50.3%  
+**24h:** +1.4%  
+**7d:** +5.4%  
+**30d:** +7.6%  
+**90d:** -19.5%  
+**1y:** -50.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-14h ago
+16h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams
 
-21h ago
+22h ago
 
 ---
 
 **["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -158,19 +158,35 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
-**[Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?](https://finance.yahoo.com/markets/crypto/articles/down-62-high-ethereum-value-055000901.html)**
-
-Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
-
-Yahoo Finance • 3h ago
-
----
-
 **[Bitmine shares drop 42% despite growing Ethereu...](https://pluang.com/en/news-feed/bitmine-saham-turun-42-persen-meski-akumulasi-ethereum-agresif)**
 
 Bitmine's stock fell 42% this year even as the company aggressively accumulated Ethereum, now holding about 4.8% of the total ETH supply. Investors worry Bitmine acts more like a leveraged Ethereum proxy than a diversified business, exposing it to high volatility tied to ETH price swings. The company aims to reach a 5% ETH stake and plans to launch its own staking network, MAVAN, in 2026 to generate yield. Market views are mixed, with some analysts seeing potential upside if staking yields materialize, while others warn of risks from ETH price drops and regulatory uncertainty.
 
-Pluang • 2h ago
+Pluang • 3h ago
+
+---
+
+**[Crypto markets cautiously gain as softer inflation boosts hopes, but geopolitical risks and Fed meeting loom.](https://pluang.com/en/news-feed/harga-kripto-bitcoin-tahan-64ribu-ethereum-lebih-baik)**
+
+Crypto markets ended the week with modest gains after a softer-than-expected inflation report briefly lifted Bitcoin above $65,000 and Ethereum over $1,900. However, ongoing U.S. airstrikes against Iran and geopolitical tensions around the Strait of Hormuz dampened risk appetite, keeping prices volatile. Ethereum outperformed with strong technical signs, while Bitcoin remains pressured by ETF outflows and a hawkish Federal Reserve stance. Investors now focus on the upcoming Fed meeting on July 28–29, which could determine whether crypto prices stabilize or decline further, alongside watching ETF inflows and geopolitical developments.
+
+Pluang • 42m ago
+
+---
+
+**[Tom Lee Says Ethereum’s Biggest Bull Case Is No Longer Crypto](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-biggest-215256299.html)**
+
+Tom Lee says Wall Street adoption, not speculation, now drives the Ethereum bull case as Robinhood Chain makes ETH money.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?](https://www.fool.com/investing/2026/07/19/down-62-from-its-high-is-ethereum-a-value-play-or/)**
+
+Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
+
+The Motley Fool • 5h ago
 
 ---
 
@@ -198,33 +214,19 @@ Benzinga • 2d ago
 
 ---
 
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
+
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
+
+Stocktwits • 11h ago
+
+---
+
 **[Ethereum Faces a $10 Billion Liquidation Battle: Will ETH Price Rally to $2,200 or Crash to $1,400?](https://coinpedia.org/price-analysis/ethereum-faces-a-10-billion-liquidation-battle-will-eth-price-rally-to-2200-or-crash-to-1400/)**
 
 Ethereum is approaching a critical resistance zone, with a breakout potentially paving the way for a rally toward the $2,200 liquidity cluster.
 
 Coinpedia • 1d ago
-
----
-
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
-
-Stocktwits • 9h ago
-
----
-
-**[Ethereum to $250,000? Tom Lee Reveals 'ETH 2.0' as Rare Pattern Signals ‘Parabolic Rally’](https://www.ccn.com/news/crypto/ethereum-250000-tom-lee-rare-pattern-parabolic-rally/)**
-
-CCN.com • 1d ago
-
----
-
-**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
-
-Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
-
-CoinMarketCap • 1d ago
 
 ---
 
@@ -248,7 +250,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 5K • 👍 146 • 💬 155 • ⏱️ 13:08 • 20h ago
+👁️ 5K • 👍 146 • 💬 155 • ⏱️ 13:08 • 21h ago
 
 ---
 
@@ -258,7 +260,7 @@ Ethereum is down almost 70% from its all-time high, but could this be one of the
 
 📺 Coin Bureau Trading
 
-👁️ 2K • 👍 110 • 💬 20 • ⏱️ 9:10 • 23h ago
+👁️ 2K • 👍 110 • 💬 20 • ⏱️ 9:10 • 1d ago
 
 ---
 
@@ -268,7 +270,7 @@ In this video I break down the current Ethereum price action and the key resista
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 171 • 💬 13 • ⏱️ 6:22 • 5h ago
+👁️ 2K • 👍 171 • 💬 13 • ⏱️ 6:22 • 7h ago
 
 ---
 
@@ -278,7 +280,7 @@ BITCOIN LIQUIDATION TRAP: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 5K • 👍 243 • 💬 190 • ⏱️ 20:30 • 11h ago
+👁️ 5K • 👍 243 • 💬 190 • ⏱️ 20:30 • 12h ago
 
 ---
 
@@ -298,7 +300,7 @@ NEW YOUTUBE CHANNEL LINK https://www.youtube.com/@tradewithpawanlive Live Tradin
 
 📺 Wealth By Trading
 
-👁️ 7K • 👍 423 • 4h ago
+👁️ 7K • 👍 423 • 6h ago
 
 ---
 
@@ -328,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 733 • 👍 60 • ⏱️ 8:26 • 6h ago
+👁️ 733 • 👍 60 • ⏱️ 8:26 • 7h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-19T09:27:59.690014+00:00'
+updated: '2026-07-19T10:54:56.712673+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 19, 2026 at 09:27 UTC  
+**Last Updated:** July 19, 2026 at 10:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Robert Scoble says an unnamed investor told him Anthropic is buying robot AI dev
 
 On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
 
-🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 20h ago
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 22h ago
 
 ---
 
@@ -84,7 +84,7 @@ I have decided to spend time on robotics , I really like it but I didn't like th
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-🔗 [WIRED](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/) • 1d ago
+🔗 [WIRED](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/) • 2d ago
 
 ---
 
@@ -132,30 +132,6 @@ Ars Technica • 2d ago
 
 ---
 
-**[Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)**
-
-Agility is opening a new training center for its Digit robots in Fremont, California.
-
-TechCrunch • 1d ago
-
----
-
-**[Brutal Humanoid Robot Cage Match Stops Abruptly When One of the Robot’s Heads Pops Off](https://futurism.com/robots-and-machines/humanoid-robot-cage-match-head)**
-
-A robot delivered a brutal beat down during a cage match, decapitating its opponent after delivering a powerful kick.
-
-Futurism • 1d ago
-
----
-
-**['World's 1st mass-produced humanoid robot' motors to market in China](https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/)**
-
-People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
-
-New Atlas • 3h ago
-
----
-
 **[A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/)**
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
@@ -164,17 +140,33 @@ WIRED • 2d ago
 
 ---
 
-**[Quadruped robots shine at WAIC in Shanghai as human-machine collaboration enters new phase](https://www.globaltimes.cn/page/202607/1366283.shtml)**
+**['World's 1st mass-produced humanoid robot' motors to market in China](https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/)**
 
-At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
+People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
 
-Global Times • 7h ago
+New Atlas • 4h ago
+
+---
+
+**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
+
+A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
+
+The Mercury News • 2d ago
 
 ---
 
 **[South Korea-US team unveils robotic technology that dresses the wearer](https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/)**
 
 Reuters • 1d ago
+
+---
+
+**[Quadruped robots shine at WAIC in Shanghai as human-machine collaboration enters new phase](https://www.globaltimes.cn/page/202607/1366283.shtml)**
+
+At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
+
+Global Times • 8h ago
 
 ---
 
@@ -186,11 +178,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[AI humanoid robotics company sets up shop in Fremont](https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/)**
+**[They Trained Robots on 100 Million Videos. Here's What Happened](https://www.cnet.com/videos/they-trained-robots-on-100-million-videos-heres-what-happened/)**
 
-A robotics company has set up shop in Fremont, bringing dozens of jobs and AI technologies to the East Bay.
+Rhoda AI is betting the future of robotics starts with internet video, not lab data. We visited the company's headquarters to see how its Direct Video Action model learns physics from hundreds of millions of clips.
 
-The Mercury News • 2d ago
+CNET • 1h ago
+
+---
+
+**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -204,7 +204,7 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 16K • 👍 669 • 💬 54 • ⏱️ 14:37 • 17h ago
+👁️ 16K • 👍 669 • 💬 54 • ⏱️ 14:37 • 18h ago
 
 ---
 
@@ -214,7 +214,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 11K • 👍 176 • 💬 53 • ⏱️ 4:18 • 18h ago
+👁️ 11K • 👍 176 • 💬 53 • ⏱️ 4:18 • 20h ago
 
 ---
 
@@ -242,7 +242,7 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Smarttoy Ruko
 
-👁️ 31K • 👍 147 • ⏱️ 0:19 • 23h ago
+👁️ 31K • 👍 147 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -252,7 +252,7 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 20K • 👍 762 • 💬 29 • ⏱️ 2:09 • 20h ago
+👁️ 20K • 👍 762 • 💬 29 • ⏱️ 2:09 • 21h ago
 
 ---
 
