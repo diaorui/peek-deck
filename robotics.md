@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-18T23:26:30.551678+00:00'
+updated: '2026-07-19T01:02:06.369835+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 18, 2026 at 23:26 UTC  
+**Last Updated:** July 19, 2026 at 01:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Robert Scoble says an unnamed investor told him Anthropic is buying robot AI developer Physical Intelligence, though no deal has been announced.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/anthropic-is-rumored-to-be-pursuing-robot-ai-developer-physical-intelligence) • 18h ago
+🔗 [RuntimeWire](https://runtimewire.com/article/anthropic-is-rumored-to-be-pursuing-robot-ai-developer-physical-intelligence) • 19h ago
 
 ---
 
@@ -44,7 +44,7 @@ Robert Scoble says an unnamed investor told him Anthropic is buying robot AI dev
 
 On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
 
-🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 10h ago
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 12h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’m happy to share another video of my quadruped robot climbing stairs! Since 
 
 I've been experimenting with an Ethernet-based UWB localization setup recently and wanted to share the workflow. The idea is to keep the embedded side simple while moving the localization calculations to a PC. In this setup, the UWB nodes continuously perform ranging between the tag and anchors. An ESP32-S3 Ethernet gateway collects the ranging data and forwards it over the local network. A PC application then receives the data stream, calculates the tag coordinates in real time, and visualizes the results. Since all positioning algorithms run on the PC instead of the microcontroller, it's much easier to test different localization methods, manage multiple tags, or integrate additional data processing. Hardware Used · 3×UWB nodes (2 Anchors + 1 Tag) · 1×ESP32-S3 Ethernet (PoE) gateway · Ethernet cable · USB cable Step 1: Prepare the Hardware Prepare the required UWB devices, an ESP32-S3 Ethernet gateway, and the necessary cables. Step 2: Configure the UWB Nodes Assign the ID and role (Anchor or Tag) for each UWB node using the configuration tool. Step 3: Flash the Firmware and Connect the Devices Upload the firmware to the ESP32-S3 gateway, connect it to the local network, and establish communication with the UWB nodes. Step 4: Start Real-Time Positioning Open the PC application, set the anchor coordinates, and visualize the tag position updating in real time. Follow the steps above; I’ve built a complete Ethernet UWB positioning system with UWB devices. And the PC is keeping updating the trajectory of the moving tag. The firmware and PC application are available for anyone interested in reproducing or modifying the project. I'd be interested to hear how others structure their UWB localization systems. Feel free to talk in the comments below!
 
-14h ago
+16h ago
 
 ---
 
@@ -76,7 +76,7 @@ I've been experimenting with an Ethernet-based UWB localization setup recently a
 
 I have decided to spend time on robotics , I really like it but I didn't like the professor who did it in uni so I never took his class.I have worked with motors before and I'm catching up with robotics math , however I still encountered something that I can't understand.Suppose you calculate everything and then you go to order a part from 3d printing to actually build your robot,how do you design that part?I mean how do you ensure that the combination of parts that you order can create a rotation using a motor?Do you get what I'm talking about?For example let's say that a robotic arm is made of 2 parts 1 immovable part which holds the rotating part on some axis?How do you actually design that?And why do some configurations work while others don't?Do you know a tutorial on the sort of where I can find the answer to my question?
 
-18h ago
+20h ago
 
 ---
 
@@ -100,7 +100,7 @@ That's a drone in the picture! Computational design generated a spinning drone t
 
 some Robotnews over the last month. 10 different stories. Humanoids, Software, economic and manufacturing. see the ongoing shift.
 
-🔗 [youtu.be](https://youtu.be/vAHDVbGN8mg?is=9gdw8uVYbvi4EW7l) • 17h ago
+🔗 [youtu.be](https://youtu.be/vAHDVbGN8mg?is=9gdw8uVYbvi4EW7l) • 18h ago
 
 ---
 
@@ -124,6 +124,14 @@ TechCrunch • 1d ago
 
 ---
 
+**[Fear of humanoid robots spurs human workers to strike at Hyundai auto factory](https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/)**
+
+Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
+
+Ars Technica • 2d ago
+
+---
+
 **[NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/)**
 
 General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]
@@ -132,19 +140,11 @@ NVIDIA Blog • 3d ago
 
 ---
 
-**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+**[He sold his last company to Palantir. Now he's betting $32 million that robots can fix construction's labor crisis](https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)**
 
-Your weekly selection of awesome robot videos
+Monumental founder Salar al Khafaji is bringing his fleet of autonomous bricklaying robots to the U.S. this year, backed by a new Khosla Ventures-led round.
 
-IEEE Spectrum • 2d ago
-
----
-
-**[Fear of humanoid robots spurs human workers to strike at Hyundai auto factory](https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/)**
-
-Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
-
-Ars Technica • 2d ago
+Fortune • 3d ago
 
 ---
 
@@ -170,11 +170,19 @@ The Mercury News • 2d ago
 
 ---
 
-**[Physical AI's ultimate goal: Self-learning factory robots](https://finance.yahoo.com/technology/ai/articles/physical-ais-ultimate-goal-self-190854843.html)**
+**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
 
-Hyundai workers in South Korea went on a partial strike this week, concerned about exactly what the physical AI sector aims to achieve: fully automated factories that pick, pack and push packages through with little need for lights or labor. Physical AI represents a fundamental shift in warehouse automation logic. Traditional automation relies on explicit, preprogrammed rules that break down when conditions change, while physical AI systems learn from data and extrapolate to novel situations. Th
+Your weekly selection of awesome robot videos
 
-Yahoo Finance • 1d ago
+IEEE Spectrum • 2d ago
+
+---
+
+**[Nvidia (NVDA) Deepens Japan AI Push With Factory Deal And Robotics Tie Ups](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-deepens-japan-ai-001838639.html)**
+
+NVIDIA (NasdaqGS:NVDA) has expanded its AI footprint in Japan with a national AI factory partnership, the Noetra/FRONTia project. The company announced new alliances with Japanese leaders across robotics, industrial automation, automotive, and smart cities, including Toyota, Fanuc, Yaskawa, Sony, SoftBank, and Mitsubishi Heavy. NVIDIA introduced Cosmos 3 Edge and new Metropolis libraries aimed at deploying agentic AI on devices and across real-world infrastructure. NVIDIA, trading at...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -183,14 +191,6 @@ Yahoo Finance • 1d ago
 Hyundai could soon own Boston Dynamics in full.
 
 Engadget • 2d ago
-
----
-
-**[A Red Bull engineer got bored with Formula One. His robotics startup just raised $55 million.](https://www.businessinsider.com/f1-engineer-quit-redbull-to-build-army-of-factory-robots-2026-7)**
-
-microagi has raised $55 million to put AI-powered robots to work in factories.
-
-Business Insider • 2d ago
 
 ---
 
@@ -204,7 +204,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 4K • 👍 84 • 💬 30 • ⏱️ 4:18 • 8h ago
+👁️ 4K • 👍 84 • 💬 30 • ⏱️ 4:18 • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ Discord: https://discord.gg/anHQrWH934 Patreon: https://www.patreon.com/excessiv
 
 📺 Excessive Overkill
 
-👁️ 13K • 👍 569 • 💬 26 • ⏱️ 2:09 • 10h ago
+👁️ 13K • 👍 569 • 💬 26 • ⏱️ 2:09 • 12h ago
 
 ---
 
@@ -282,7 +282,7 @@ Today, we preview ACT-2, the first robotics model to achieve reliability by unif
 
 📺 Smarttoy Ruko
 
-👁️ 20K • 👍 117 • ⏱️ 0:19 • 13h ago
+👁️ 20K • 👍 117 • ⏱️ 0:19 • 15h ago
 
 ---
 
@@ -292,7 +292,7 @@ Welcome to the ultimate satisfying giant transforming robot toys comparison! In 
 
 📺 Bob ToysReview
 
-👁️ 6K • 👍 26 • 💬 2 • ⏱️ 4:53 • 16h ago
+👁️ 6K • 👍 26 • 💬 2 • ⏱️ 4:53 • 17h ago
 
 ---
 

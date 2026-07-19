@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-18T23:26:30.534181+00:00'
+updated: '2026-07-19T01:02:06.351855+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 18, 2026 at 23:26 UTC  
+**Last Updated:** July 19, 2026 at 01:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Tried prompt injection on a bot that was trying to romance scam me. Worked immediately. Instead of switching platforms I just asked it what its actual task was. It dropped the persona instantly. These things are everywhere now. How long until they're indistinguishable?
 
-8h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Tried prompt injection on a bot that was trying to romance scam me. Worked immed
 
 The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
 
-🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 6h ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) • 8h ago
 
 ---
 
@@ -65,7 +65,15 @@ Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday
 
 Last year I worked with an AI startup, an Oxford spinout. Their product answered research questions through a RAG pipeline. It worked, but every query took around 90 seconds. Long enough that users were bailing before the answer even loaded. The obvious move is to blame the model and go bigger. That wasn't it. The retrieval layer was doing way more work than it needed to on every single query: bloated embeddings, no caching, redundant calls stacking up as the document set grew. I stripped that layer down. Response time went from 90 seconds to about 4, and cost dropped roughly 95%, mostly because the pipeline stopped repeating work it never needed to do in the first place. Separately, I also rebuilt the retrieval on Weaviate. That part wasn't about speed, it fixed accuracy issues in what the pipeline was actually retrieving. Same lesson as most AI performance problems I run into: it's rarely the model. It's the layer nobody's looking at.
 
-7h ago
+9h ago
+
+---
+
+**[When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode.](https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/)**
+
+Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
+
+5h ago
 
 ---
 
@@ -77,11 +85,19 @@ HI all, First, thank you so much for your feedback and interest in my project Po
 
 ---
 
+**[The One and Its Return](https://www.reddit.com/r/artificial/comments/1v0bxto/the_one_and_its_return/)**
+
+Building this system was a SLOW process. The culmination of the ultimate failure of my physics theory "Rotational Substrate Field Theory", which was a hard pill to swallow. It was months of work. Constant work. To see it all... just be wrong. I admitted the failure, in spite of myself, and then directly after I developed Prime-Dimensional Modular Theory as a diagnostic tool. This led to my discovery of certain mathematical laws that I had hitherto never been told about, which with a certain application of mental reasoning I used THAT to build a philosophy. All with the help of AI. I have come to the concrete conclusion that AI when combined with certain types of thinking produces quite different results. My experience has been extremely productive, but it evens out with the added frustration the that comes with sometimes not correctly conveying an idea. Not the fault of the AI. Why do so many people hate it?
+
+36m ago
+
+---
+
 **[Which MCP servers are worth installing for non-dev work in 2026?? Sharing what I found beyond coding](https://www.reddit.com/r/artificial/comments/1uzwdtm/which_mcp_servers_are_worth_installing_for_nondev/)**
 
 Out of ~30 MCP servers I tested for non-dev work over 4 months, I kept 8 in daily rotation. The ecosystem hit 10K+ servers by early 2026 (22K+ on Glama by May) but most are either demo-ware or duplicate coverage. Sharing the honest cut because "MCP for non-devs" posts usually list every option without saying which ones survive real use. The keepers for marketing/social. PostFast handles cross-platform scheduling from Claude, 11 platforms including Google Business Profile which nobody else keeps now that Buffer dropped it, €10/mo. Analytics are thinner than Metricool so I run both. Metricool at $22/mo covers analytics + scheduling with an official server at ai.metricool.com/mcp. Vista Social has 35+ MCP tools at agency scale ($120/mo). For SEO research, Ahrefs MCP is solid but pricey ($129/mo starter), Semrush overlaps. Tally is the free win, 21 MCP tools for forms with OAuth setup any non-dev can wire up in 2 min. Docs and knowledge work. Notion MCP is the obvious install if you already pay for it, lets Claude create pages, update databases and read across your workspace. Slack MCP is decent but read/summarize is where it shines, message posting still feels risky without human approval. Linear MCP for project tracking works well if that's your stack. Airtable overlaps with Notion for most workflows, only worth it if it's your source of truth. CRM and sales. HubSpot MCP is the best-supported CRM server, full read/write, works with Claude and ChatGPT out of box. Salesforce has AgentForce but no open MCP server on par with HubSpot yet. For outbound sales specifically, Amplemarket scored highest in recent benchmarks (find, enrich, sequence, enroll all in one), Apollo is close second and cheaper. Ads and analytics. BigQuery MCP auto-enables on all Google Cloud projects after March 2026 so most already have it. Google Ads MCP, Meta Ads MCP and GA4 MCP each ship official servers, downside is you need read-only setup or Claude will fumble a tool call and mess with budgets. SegmentStream unifies attribution across channels which is the missing piece for most stacks. What I skipped. Zapier/Make MCP feel redundant if you already have direct servers for the tools they wrap, extra layer of latency and cost. Airtable if Notion covers you. Anything on Glama with under ~50 stars, ecosystem quality is a coin flip and 41% of public MCP servers have no auth per security audits, only 8.5% use OAuth. Stick with vendor-maintained (official) or well-audited community ones.
 
-9h ago
+11h ago
 
 ---
 
@@ -89,7 +105,7 @@ Out of ~30 MCP servers I tested for non-dev work over 4 months, I kept 8 in dail
 
 After massive failures by Copilot and Claude, I need an AI platform that is free and can save an ongoing log. I have had two strokes and a heart attack and am in a wheelchair and genuinely unable to work. I have a phone hearing with an Administrative Law Judge for SSDI on September 7 and I need to create a sleep log including naps that I can update on a regular basis. Can anyone suggest an AI that can facilitate such a request?
 
-3h ago
+5h ago
 
 ---
 
@@ -97,23 +113,7 @@ After massive failures by Copilot and Claude, I need an AI platform that is free
 
 Do you think new legislation will actually help? It seems that celebrity and "high profile" users have protections the rest of us don't/won't.
 
-🔗 [Fresh From Cache](https://www.freshfromcache.com/ai-deepfake-has-your-face/) • 3h ago
-
----
-
-**[When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode.](https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/)**
-
-Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
-
-3h ago
-
----
-
-**[Comparing AI predictions before the World Cup final](https://www.reddit.com/r/artificial/comments/1uzw659/comparing_ai_predictions_before_the_world_cup/)**
-
-With the final coming up, I went back and looked through the AI predictions on SportEval from the quarterfinals. Although all four teams that advanced were the favorites, none of the matches felt as comfortable as the predictions suggested. A few key moments could easily have changed the outcome. Several models, including Claude Opus 4.8, DeepSeek V4 Pro, GPT 5.5, Gemini, and GLM, all predicted the correct winners, but they reached those conclusions in very different ways. Take France vs Morocco as an example. Most models backed France, but for different reasons. Claude focused on France's defensive quality and Mbappé's influence. DeepSeek emphasized FIFA rankings and squad value. GPT 5.5 relied more on recent form and squad depth. France won, but Morocco still created plenty of dangerous chances, showing that AI can identify long-term advantages but can't predict the moments that decide a match. The semi-finals became much more interesting because the models no longer agreed. Some predicted a Spain vs Argentina final, while others expected France or England instead. Once only the strongest teams remained, each model seemed to value different factors. That's why I enjoy following AI predictions. They don't change which team I support, but they help me notice tactical details, squad strengths, and different ways of analyzing the same match. Football will always be unpredictable, but seeing how different AI models interpret the game makes watching it even more interesting. With only the final left, I still slightly favor Spain. More than the result itself, I'm curious to see which AI model ends up reading the game most accurately.
-
-9h ago
+🔗 [Fresh From Cache](https://www.freshfromcache.com/ai-deepfake-has-your-face/) • 5h ago
 
 ---
 
@@ -123,7 +123,27 @@ With the final coming up, I went back and looked through the AI predictions on S
 
 **[Green says Mets fully compliant on AI after report of usage](https://www.espn.com/mlb/story/_/id/49392589/green-says-mets-fully-compliant-ai-report-usage)**
 
-ESPN • 4h ago
+ESPN • 6h ago
+
+---
+
+**[MLB restricts using dugout iPads for AI-assisted in-game strategy](https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making)**
+
+ESPN • 1d ago
+
+---
+
+**[Adam Ottavino's confession about how the Mets “cheated” using AI before MLB's ban](https://www.marca.com/en/mlb/new-york-mets/2026/07/18/adam-ottavino-s-confession-about-how-the-mets-cheated-using-ai-before-mlb-s-ban.html)**
+
+MLB’s new iPad restrictions follow revelations that teams were using artificial intelligence to gain a competitive edge
+
+MARCA • 4h ago
+
+---
+
+**[AI race splits in two as China wages open-weight insurgency](https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai)**
+
+Axios • 11h ago
 
 ---
 
@@ -133,23 +153,15 @@ The New York Times • 1d ago
 
 ---
 
-**[China just erased America's AI lead](https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus)**
+**[China Joins Rush to Rethink the Smartphone for the AI Era](https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era)**
 
-Axios • 14h ago
-
----
-
-**[Moonshot’s Kimi Upends Conventional Wisdom on US Lead Over China](https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china)**
-
-Bloomberg.com • 12h ago
+Bloomberg.com • 19h ago
 
 ---
 
-**[Data centers have united Americans of both parties in a shared hatred](https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/)**
+**[Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks](https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks)**
 
-Data centers have become a lightning rod for people's frustrations over corporate power, public trust and the costs of the AI boom.
-
-The Washington Post • 7h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -157,13 +169,7 @@ The Washington Post • 7h ago
 
 America's labor force will shrink by 6 million workers by 2032. If you're worried about AI taking your job, you're worrying about the wrong thing.
 
-Fortune • 12h ago
-
----
-
-**[IBM CEO Arvind Krishna Has Nowhere to Hide From AI](https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f)**
-
-WSJ • 8h ago
+Fortune • 15h ago
 
 ---
 
@@ -171,23 +177,15 @@ WSJ • 8h ago
 
 In the data-center age, the business of tech companies is more like oil-refining than coding.
 
-The Atlantic • 11h ago
+The Atlantic • 13h ago
 
 ---
 
-**[The White House is dictating access to frontier AI models, shifting power from tech giants, sources say](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html)**
+**[Data centers have united Americans of both parties in a shared hatred](https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/)**
 
-The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
+Data centers have become a lightning rod for people's frustrations over corporate power, public trust and the costs of the AI boom.
 
-CNBC • 1d ago
-
----
-
-**[HalluSquatting AI attack could hijack your computer](https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer)**
-
-HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware.
-
-Fox News • 7h ago
+The Washington Post • 9h ago
 
 ---
 
@@ -197,13 +195,13 @@ Fox News • 7h ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 541 • 💬 365 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 542 • 💬 366 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 474 • 💬 350 • 1d ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 475 • 💬 351 • 1d ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
@@ -211,7 +209,7 @@ Fox News • 7h ago
 
 A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.
 
-⬆️ 410 • 💬 139 • 12h ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+⬆️ 412 • 💬 139 • 13h ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
@@ -219,13 +217,13 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.
 
-⬆️ 394 • 💬 528 • 2d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+⬆️ 395 • 💬 528 • 2d ago • [TryAI](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 347 • 💬 403 • 12h ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 357 • 💬 426 • 13h ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -247,7 +245,15 @@ The move is a vote of confidence in Boeing from the U.S. government.
 
 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://news.ycombinator.com/item?id=48935687)**
 
-⬆️ 160 • 💬 84 • 2d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+⬆️ 161 • 💬 84 • 2d ago • [zhinit.dev](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+
+---
+
+**[Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://news.ycombinator.com/item?id=48962983)**
+
+No more AI-edited listings without disclosures.
+
+⬆️ 154 • 💬 68 • 2h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
@@ -256,14 +262,6 @@ The move is a vote of confidence in Boeing from the U.S. government.
 A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
 
 ⬆️ 144 • 💬 34 • 2d ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
-
----
-
-**[Generative AI Is an Engineering Disaster](https://news.ycombinator.com/item?id=48934046)**
-
-A shockingly inefficient trillion-dollar project
-
-⬆️ 109 • 💬 87 • 2d ago • [The Atlantic](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
 
 ---
 
@@ -287,7 +285,7 @@ Australia's artificial intelligence ambitions are driving an unprecedented boom 
 
 📺 ABC News (Australia)
 
-👁️ 12K • 👍 173 • 💬 5 • ⏱️ 10:31 • 17h ago
+👁️ 12K • 👍 173 • 💬 5 • ⏱️ 10:31 • 19h ago
 
 ---
 
@@ -337,7 +335,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 96K • 👍 6K • 💬 1K • ⏱️ 14:15 • 10h ago
+👁️ 96K • 👍 6K • 💬 1K • ⏱️ 14:15 • 11h ago
 
 ---
 
@@ -347,7 +345,7 @@ US tech firms have long feared that their Chinese competitors could catch them u
 
 📺 Sky News
 
-👁️ 36K • 👍 845 • 💬 245 • ⏱️ 6:28 • 11h ago
+👁️ 36K • 👍 845 • 💬 245 • ⏱️ 6:28 • 13h ago
 
 ---
 
@@ -367,7 +365,7 @@ At the 2026 World Artificial Intelligence Conference China's Moonshot AI unveile
 
 📺 Bloomberg Television
 
-👁️ 65K • 👍 809 • 💬 357 • ⏱️ 12:27 • 11h ago
+👁️ 65K • 👍 809 • 💬 357 • ⏱️ 12:27 • 13h ago
 
 ---
 
@@ -395,7 +393,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 301,893 • ❤️ 730 • 17h ago
+⬇️ 301,893 • ❤️ 730 • 18h ago
 
 ---
 
@@ -441,7 +439,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 392 • 11h ago
+⬇️ 0 • ❤️ 392 • 12h ago
 
 ---
 

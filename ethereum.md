@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-18T23:26:30.548549+00:00'
+updated: '2026-07-19T01:02:06.366589+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 18, 2026 at 23:26 UTC  
+**Last Updated:** July 19, 2026 at 01:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +3.1%  
-**30d:** +8.8%  
-**90d:** -19.5%  
-**1y:** -48.1%  
+**24h:** +1.1%  
+**7d:** +4.8%  
+**30d:** +7.0%  
+**90d:** -20.0%  
+**1y:** -50.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-4h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams
 
-11h ago
+12h ago
 
 ---
 
 **["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -162,15 +162,15 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 Bitmine Immersion Technologies, a former Bitcoin miner now focused on Ethereum, is close to owning 5% of all circulating Ethereum with about 5.5 million ETH, just 507,000 ETH short of its 6.035 million ETH target. The company shifted strategy from mining Bitcoin to accumulating and staking Ethereum to generate yield, supported by institutional investors like ARK Invest. Bitmine's staking network yields about 2.99%, providing income despite market volatility. As Bitmine approaches its goal, investors should watch its purchase pace, staking yield changes, and institutional backing, as this large accumulation could impact Ethereum's circulating supply and market dynamics.
 
-Pluang • 1h ago
+Pluang • 3h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs see major inflows ami...](https://pluang.com/en/news-feed/bitcoin-ethereum-etf-aliran-masuk-besar-di-tengah-gejolak-pasar)**
+**[Bitcoin and Ethereum rise modestly amid cautiou...](https://pluang.com/en/news-feed/bitcoin-ethereum-naik-volume-perdagangan-sinyal-sentimen-pasar-hati-hati)**
 
-Spot Bitcoin ETFs recorded $132 million in net inflows and Ethereum ETFs $36.73 million on July 17, despite ongoing market volatility. This suggests growing investor confidence, particularly from institutional players, as they position for potential gains in these cryptocurrencies. Bitcoin trades near $64,010 and Ethereum at $1,841, showing modest gains that offer hope amid cautious market sentiment. These ETF inflows could influence the future price movements of Bitcoin and Ethereum in the coming weeks.
+Bitcoin and Ethereum posted modest gains of around 1.5% on July 18, reaching $64,083 and $1,844 respectively, while overall crypto trading volumes dropped significantly. This decline in spot and derivatives volumes suggests cautious investor sentiment and a preference for liquidity in major assets over riskier altcoins. Bitcoin dominance increased to 58.59%, indicating capital concentration in safer tokens, while speculative sectors like DeFi and stablecoins saw sharp volume declines. The market appears to be in a wait-and-see mode, favoring selective altcoin gains rather than broad rallies, with potential fragility if volumes remain low during price rises.
 
-Pluang • 3h ago
+Pluang • 1h ago
 
 ---
 
@@ -182,35 +182,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
-
-Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
-
-Decrypt • 2d ago
-
----
-
-**[Ethereum Faces a $10 Billion Liquidation Battle: Will ETH Price Rally to $2,200 or Crash to $1,400?](https://coinpedia.org/price-analysis/ethereum-faces-a-10-billion-liquidation-battle-will-eth-price-rally-to-2200-or-crash-to-1400/)**
-
-Ethereum is approaching a critical resistance zone, with a breakout potentially paving the way for a rally toward the $2,200 liquidity cluster.
-
-Coinpedia • 1d ago
-
----
-
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
-
-Stocktwits • 2d ago
-
----
-
 **[Ethereum at Amazon/Nvidia-Like Inflection Point, Tom Lee Forecasts $12,000 ETH](https://www.tradingview.com/news/coinpedia:b8cb37750094b:0-ethereum-at-amazon-nvidia-like-inflection-point-tom-lee-forecasts-12-000-eth/)**
 
 Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
 
 TradingView • 1d ago
+
+---
+
+**[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade](https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade)**
+
+Eligible E*TRADE customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.
+
+Decrypt • 2d ago
 
 ---
 
@@ -222,11 +206,25 @@ FXStreet • 1d ago
 
 ---
 
-**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
 
-Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
 
-CoinMarketCap • 21h ago
+Stocktwits • 2d ago
+
+---
+
+**[Ethereum Faces a $10 Billion Liquidation Battle: Will ETH Price Rally to $2,200 or Crash to $1,400?](https://coinpedia.org/price-analysis/ethereum-faces-a-10-billion-liquidation-battle-will-eth-price-rally-to-2200-or-crash-to-1400/)**
+
+Ethereum is approaching a critical resistance zone, with a breakout potentially paving the way for a rally toward the $2,200 liquidity cluster.
+
+Coinpedia • 1d ago
+
+---
+
+**[Ethereum to $250,000? Tom Lee Reveals 'ETH 2.0' as Rare Pattern Signals ‘Parabolic Rally’](https://www.ccn.com/news/crypto/ethereum-250000-tom-lee-rare-pattern-parabolic-rally/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -250,7 +248,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 3K • 👍 117 • 💬 130 • ⏱️ 13:08 • 10h ago
+👁️ 3K • 👍 117 • 💬 130 • ⏱️ 13:08 • 12h ago
 
 ---
 
@@ -270,7 +268,7 @@ BITCOIN LIQUIDATION TRAP: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 871 • 👍 82 • 💬 127 • ⏱️ 20:30 • 1h ago
+👁️ 871 • 👍 82 • 💬 127 • ⏱️ 20:30 • 2h ago
 
 ---
 
@@ -280,7 +278,7 @@ Joseph Chalom makes the case that Ethereum is the best way to express the bullis
 
 📺 The Rollup
 
-👁️ 10K • 👍 250 • 💬 26 • ⏱️ 7:55 • 1d ago
+👁️ 10K • 👍 250 • 💬 26 • ⏱️ 7:55 • 2d ago
 
 ---
 
@@ -290,7 +288,7 @@ Ethereum is down almost 70% from its all-time high, but could this be one of the
 
 📺 Coin Bureau Trading
 
-👁️ 2K • 👍 103 • 💬 11 • ⏱️ 9:10 • 13h ago
+👁️ 2K • 👍 103 • 💬 11 • ⏱️ 9:10 • 14h ago
 
 ---
 

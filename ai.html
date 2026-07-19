@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-07-18T23:26:30.076343+00:00"
+          "dateModified": "2026-07-19T01:02:05.892441+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -782,6 +782,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/" target="_blank" onclick="event.stopPropagation();">When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784404493.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uze14i/update_on_the_browser_extension_that_fact_checks/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -808,6 +841,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1784326786.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1v0bxto/the_one_and_its_return/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1v0bxto/the_one_and_its_return/" target="_blank" onclick="event.stopPropagation();">The One and Its Return</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Building this system was a SLOW process. The culmination of the ultimate failure of my physics theory "Rotational Substrate Field Theory", which was a hard pill to swallow. It was months of work. Constant work. To see it all... just be wrong. I admitted the failure, in spite of myself, and then directly after I developed Prime-Dimensional Modular Theory as a diagnostic tool. This led to my discovery of certain mathematical laws that I had hitherto never been told about, which with a certain application of mental reasoning I used THAT to build a philosophy. All with the help of AI. I have come to the concrete conclusion that AI when combined with certain types of thinking produces quite different results. My experience has been extremely productive, but it evens out with the added frustration the that comes with sometimes not correctly conveying an idea. Not the fault of the AI. Why do so many people hate it?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784420714.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -933,74 +999,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/" target="_blank" onclick="event.stopPropagation();">When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784404493.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1uzw659/comparing_ai_predictions_before_the_world_cup/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/cjoryi3lrzdh1.png?width=640&crop=smart&auto=webp&s=07cdc82cfc4e54915bbb5b961cd09479693a5ca1" alt="Comparing AI predictions before the World Cup final" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1uzw659/comparing_ai_predictions_before_the_world_cup/" target="_blank" onclick="event.stopPropagation();">Comparing AI predictions before the World Cup final</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            With the final coming up, I went back and looked through the AI predictions on SportEval from the quarterfinals. Although all four teams that advanced were the favorites, none of the matches felt as comfortable as the predictions suggested. A few key moments could easily have changed the outcome. Several models, including Claude Opus 4.8, DeepSeek V4 Pro, GPT 5.5, Gemini, and GLM, all predicted the correct winners, but they reached those conclusions in very different ways. Take France vs Morocco as an example. Most models backed France, but for different reasons. Claude focused on France's defensive quality and Mbappé's influence. DeepSeek emphasized FIFA rankings and squad value. GPT 5.5 relied more on recent form and squad depth. France won, but Morocco still created plenty of dangerous chances, showing that AI can identify long-term advantages but can't predict the moments that decide a match. The semi-finals became much more interesting because the models no longer agreed. Some predicted a Spain vs Argentina final, while others expected France or England instead. Once only the strongest teams remained, each model seemed to value different factors. That's why I enjoy following AI predictions. They don't change which team I support, but they help me notice tactical details, squad strengths, and different ways of analyzing the same match. Football will always be unpredictable, but seeing how different AI models interpret the game makes watching it even more interesting. With only the final left, I still slightly favor Spain. More than the result itself, I'm curious to see which AI model ends up reading the game most accurately.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784381924.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1024,7 +1022,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-18T23:26:07.846867+00:00">Updated 2026-07-18T23:26:07.846867+00:00</small>
+        <small data-timestamp="2026-07-19T01:01:42.103644+00:00">Updated 2026-07-19T01:01:42.103644+00:00</small>
     </div>
 </div>
 
@@ -1247,6 +1245,121 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making" target="_blank" onclick="event.stopPropagation();">MLB restricts using dugout iPads for AI-assisted in-game strategy</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="ESPN" class="news-favicon">
+                                    <a href="https://www.espn.com" target="_blank" onclick="event.stopPropagation();">ESPN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1784311800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.marca.com/en/mlb/new-york-mets/2026/07/18/adam-ottavino-s-confession-about-how-the-mets-cheated-using-ai-before-mlb-s-ban.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/18/6a5bc03ac699f.jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.marca.com/en/mlb/new-york-mets/2026/07/18/adam-ottavino-s-confession-about-how-the-mets-cheated-using-ai-before-mlb-s-ban.html" target="_blank" onclick="event.stopPropagation();">Adam Ottavino's confession about how the Mets “cheated” using AI before MLB's ban</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            MLB’s new iPad restrictions follow revelations that teams were using artificial intelligence to gain a competitive edge
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marca.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="MARCA" class="news-favicon">
+                                    <a href="https://www.marca.com" target="_blank" onclick="event.stopPropagation();">MARCA</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1784406147.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai" target="_blank" onclick="event.stopPropagation();">AI race splits in two as China wages open-weight insurgency</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1784382602.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1284,51 +1397,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus" target="_blank" onclick="event.stopPropagation();">China just erased America's AI lead</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1784365664.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china" target="_blank" onclick="event.stopPropagation();">Moonshot’s Kimi Upends Conventional Wisdom on US Lead Over China</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era" target="_blank" onclick="event.stopPropagation();">China Joins Rush to Rethink the Smartphone for the AI Era</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1350,7 +1426,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784372400.0"></span>
+                                    <span data-timestamp="1784353500.0"></span>
                                 </div>
                                 
                             </div>
@@ -1358,21 +1434,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MJWPBR4ABVGP5NLBJYOLYO6OZA.jpg&w=1440');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/" target="_blank" onclick="event.stopPropagation();">Data centers have united Americans of both parties in a shared hatred</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks" target="_blank" onclick="event.stopPropagation();">Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Data centers have become a lightning rod for people's frustrations over corporate power, public trust and the costs of the AI boom.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1381,9 +1453,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1391,7 +1463,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784390400.0"></span>
+                                    <span data-timestamp="1784419200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1432,44 +1504,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784372764.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f" target="_blank" onclick="event.stopPropagation();">IBM CEO Arvind Krishna Has Nowhere to Hide From AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1784386907.0"></span>
+                                    <span data-timestamp="1784367341.0"></span>
                                 </div>
                                 
                             </div>
@@ -1518,20 +1553,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108331121-1783373314897-gettyimages-2284355820-TRUMP_ACCOUNTS.jpeg?v=1783373346&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MJWPBR4ABVGP5NLBJYOLYO6OZA.jpg&w=1440');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html" target="_blank" onclick="event.stopPropagation();">The White House is dictating access to frontier AI models, shifting power from tech giants, sources say</a>
+                            <a href="https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/" target="_blank" onclick="event.stopPropagation();">Data centers have united Americans of both parties in a shared hatred</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.
+                            Data centers have become a lightning rod for people's frustrations over corporate power, public trust and the costs of the AI boom.
                         </div>
                         
 
@@ -1541,9 +1576,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
                                     
                                 </div>
                                 
@@ -1551,48 +1586,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784325853.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2026/05/tech-worker-at-laptop-coworking-space.jpeg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer" target="_blank" onclick="event.stopPropagation();">HalluSquatting AI attack could hijack your computer</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox News" class="news-favicon">
-                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1784390422.0"></span>
+                                    <span data-timestamp="1784390400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1620,7 +1614,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-18T23:26:24.063271+00:00">Updated 2026-07-18T23:26:24.063271+00:00</small>
+        <small data-timestamp="2026-07-19T01:02:05.143017+00:00">Updated 2026-07-19T01:02:05.143017+00:00</small>
     </div>
 </div>
 
@@ -1841,10 +1835,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 541</span>
+                                    <span class="post-points">▲ 542</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 365</span>
+                                    <span style="color: #9ca3af;">💬 366</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1889,10 +1883,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 474</span>
+                                    <span class="post-points">▲ 475</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 350</span>
+                                    <span style="color: #9ca3af;">💬 351</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1938,7 +1932,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 410</span>
+                                    <span class="post-points">▲ 412</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 139</span>
@@ -1987,7 +1981,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 394</span>
+                                    <span class="post-points">▲ 395</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 528</span>
@@ -2032,10 +2026,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 347</span>
+                                    <span class="post-points">▲ 357</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 403</span>
+                                    <span style="color: #9ca3af;">💬 426</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2178,7 +2172,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 160</span>
+                                    <span class="post-points">▲ 161</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 84</span>
@@ -2198,6 +2192,55 @@
                                             
                                         
                                         <span>zhinit.dev</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48962983', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=48962983" target="_blank" onclick="event.stopPropagation();">Mayor Mamdani Says Landlords Can't Use AI Images to Advertise</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            No more AI-edited listings without disclosures.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 154</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 68</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-07-18T22:13:39Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://petapixel.com/assets/img/apple-touch-icon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>PetaPixel</span>
                                     </a>
                                 </div>
                                 
@@ -2255,55 +2298,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48934046', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/pRTmRKbPCznhWXFQOWNZUwOpnIg=/0x83:2000x1125/1200x625/media/img/mt/2026/07/2026_07_10_Reisner_Gen_Ai_Engineering_Disaster/original.jpg');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48934046" target="_blank" onclick="event.stopPropagation();">Generative AI Is an Engineering Disaster</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            A shockingly inefficient trillion-dollar project
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 109</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 87</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-07-16T13:12:24Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://cdn.theatlantic.com/_next/static/images/apple-touch-icon-default-b504d70343a9438df64c32ce339c7ebc.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>The Atlantic</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
@@ -2324,7 +2318,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-18T23:26:07.838981+00:00">Updated 2026-07-18T23:26:07.838981+00:00</small>
+        <small data-timestamp="2026-07-19T01:01:43.100347+00:00">Updated 2026-07-19T01:01:43.100347+00:00</small>
     </div>
 </div>
 
