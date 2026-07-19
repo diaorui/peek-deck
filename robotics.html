@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-07-19T17:08:27.172005+00:00"
+          "dateModified": "2026-07-19T18:27:10.094082+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,37 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1v0werw/apple_test/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Ym9iNnoxc3h6N2VoMfEWo3-1zV9oVQfDyI8mRfu1kDEoSWeMC-kZq5W3fBGM.png?width=640&crop=smart&auto=webp&s=6666cd4807e45a59c34d6eb2392f9198e7698634" alt="Apple test" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1v0werw/apple_test/" target="_blank" onclick="event.stopPropagation();">Apple test</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784481714.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1v05s4o/check_out_my_3d_printed_18_servo_self_balancing/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -640,6 +671,103 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1784404834.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1v0xvkc/how_do_i_attach_to_this_keyway/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/vpx96qua98eh1.jpeg?width=320&crop=smart&auto=webp&s=c94f1d82e1bc7fda6a3040393a09c0715fd227d2" alt="How do I attach to this keyway?" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1v0xvkc/how_do_i_attach_to_this_keyway/" target="_blank" onclick="event.stopPropagation();">How do I attach to this keyway?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I need to transfer a lot of force through this keyway into a 3d print, and am confused on the intended way to attach to this shaft.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784485129.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1v0wbbp/i_froze_a_physicsconsistency_detector_before/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1v0wbbp/i_froze_a_physicsconsistency_detector_before/" target="_blank" onclick="event.stopPropagation();">I froze a physics-consistency detector before generating a held-out CogVideoX cohort — it flagged freeze/hover in 9/9 clips</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’m building Haga, an independent physics-consistency checker for generated video and robot-policy simulations. An earlier CogVideoX-5b I2V experiment produced a clear failure mode: on a “ball and block fall” prompt, the tracked object stayed airborne with near-zero motion instead of falling. But that first result was post-hoc. I inspected those six clips before adding the static_hover detector, so the original 6/6 flag rate could not be treated as confirmation. I’ve now run a pre-registered held-out test. Method: Model: THUDM/CogVideoX-5b-I2V Cohort: 3 perspectives × seeds 2, 3 and 4 n=9 clips Detector thresholds and inclusion rules frozen before generation RGB → CoTracker3 → position-only VIDEO_CHECKS Discovery seeds 0–1 kept separate from held-out seeds 2–4 Result: Held-out flag rate: 1.000 (9/9) Wilson 95% CI: [0.701, 1.000] All nine clips fired static_hover Real Physics-IQ footage stayed quiet under the same profile static_hover fires when the tracked object remains airborne for most of the clip, has near-zero frame-to-frame speed, and does not exhibit gravitational acceleration. Important limitations: One open I2V model One ball-and-block-fall scene family One documented failure mode Real negative-control n=1 in this specific report Not Cosmos, Genie or NIM Not a broad claim about CogVideoX quality Write-up: https://haga.mushoodhanif.com/article/sim-physics-consistency-v1#held-out Lab: https://haga.mushoodhanif.com/lab/physicsiq Bounded demo: https://haga.mushoodhanif.com/demo I’d especially value criticism on: Which physical violations will position-only tracking systematically miss? Is static_hover defined narrowly enough to avoid confusing intentional suspension with failed dynamics? What public generated-video artifact should I evaluate next under the frozen detector?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784481495.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1v0ue0e/isaac_sim_rosbag_replay_via_rosbrigde/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1v0ue0e/isaac_sim_rosbag_replay_via_rosbrigde/" target="_blank" onclick="event.stopPropagation();">Isaac sim: rosbag replay via rosbrigde</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1784476956.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -882,144 +1010,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uz2hsj/interchangeable_gripper/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/ZXU5NGVodjEzdGRoMdnBjmh9qowocKxe9RRvCmtyDOubnlWsoebkVE2X_QxA.png?width=640&crop=smart&auto=webp&s=adbf6026e6a72959d98ea92e3abfafc5c6537d15" alt="Interchangeable gripper" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1uz2hsj/interchangeable_gripper/" target="_blank" onclick="event.stopPropagation();">Interchangeable gripper</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially the models controlling them reliably, aren’t available yet, so we’re focusing on making the options we can use right now and actually work.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784301035.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uzqr95/building_a_realtime_uwb_localization_system_over/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/io5s7v5scydh1.png?width=640&crop=smart&auto=webp&s=24076bd968a3d8bd36c93ceb7e78a11793c3c21d" alt="Building a Real-Time UWB Localization System over Ethernet (ESP32-S3 + PoE)" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1uzqr95/building_a_realtime_uwb_localization_system_over/" target="_blank" onclick="event.stopPropagation();">Building a Real-Time UWB Localization System over Ethernet (ESP32-S3 + PoE)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I've been experimenting with an Ethernet-based UWB localization setup recently and wanted to share the workflow. The idea is to keep the embedded side simple while moving the localization calculations to a PC. In this setup, the UWB nodes continuously perform ranging between the tag and anchors. An ESP32-S3 Ethernet gateway collects the ranging data and forwards it over the local network. A PC application then receives the data stream, calculates the tag coordinates in real time, and visualizes the results. Since all positioning algorithms run on the PC instead of the microcontroller, it's much easier to test different localization methods, manage multiple tags, or integrate additional data processing. Hardware Used · 3×UWB nodes (2 Anchors + 1 Tag) · 1×ESP32-S3 Ethernet (PoE) gateway · Ethernet cable · USB cable Step 1: Prepare the Hardware Prepare the required UWB devices, an ESP32-S3 Ethernet gateway, and the necessary cables. Step 2: Configure the UWB Nodes Assign the ID and role (Anchor or Tag) for each UWB node using the configuration tool. Step 3: Flash the Firmware and Connect the Devices Upload the firmware to the ESP32-S3 gateway, connect it to the local network, and establish communication with the UWB nodes. Step 4: Start Real-Time Positioning Open the PC application, set the anchor coordinates, and visualize the tag position updating in real time. Follow the steps above; I’ve built a complete Ethernet UWB positioning system with UWB devices. And the PC is keeping updating the trajectory of the moving tag. The firmware and PC application are available for anyone interested in reproducing or modifying the project. I'd be interested to hear how others structure their UWB localization systems. Feel free to talk in the comments below!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784364932.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uz40hm/updates_of_my_quadruped_robots_control_algorithm/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/cXlrdWtvbW9jdGRoMU3_h9vdqwQykpFT678Ar3MpgdUM_NRTCo2CdtrSjcJC.png?width=640&crop=smart&auto=webp&s=65444a9bab13dc66e7fa49d2cc05e56eb7c04352" alt="Updates of my quadruped robot’s control algorithm. I've been working toward this during almost four years." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1uz40hm/updates_of_my_quadruped_robots_control_algorithm/" target="_blank" onclick="event.stopPropagation();">Updates of my quadruped robot’s control algorithm. I've been working toward this during almost four years.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I’m happy to share another video of my quadruped robot climbing stairs! Since my previous post, I have added contact sensors and modified the locomotion control algorithm. Previously, the robot used a fairly standard MPC + WBC + vision-based control framework. I have now added a reference generator based on the Linear Inverted Pendulum Model. It generates dynamically consistent body position, velocity, and acceleration trajectories for the MPC and WBC controllers. This modification significantly improved the robot’s stability. It also allowed me to increase the swing duration of each leg, resulting in smoother foot trajectories, softer ground contacts, and quieter locomotion.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784304381.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uzm4je/mechanical_engineering_for_robotics_help_with_3d/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1uzm4je/mechanical_engineering_for_robotics_help_with_3d/" target="_blank" onclick="event.stopPropagation();">Mechanical engineering for robotics help with 3d printing some part for a robotic arm</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I have decided to spend time on robotics , I really like it but I didn't like the professor who did it in uni so I never took his class.I have worked with motors before and I'm catching up with robotics math , however I still encountered something that I can't understand.Suppose you calculate everything and then you go to order a part from 3d printing to actually build your robot,how do you design that part?I mean how do you ensure that the combination of parts that you order can create a rotation using a motor?Do you get what I'm talking about?For example let's say that a robotic arm is made of 2 parts 1 immovable part which holds the rotating part on some axis?How do you actually design that?And why do some configurations work while others don't?Do you know a tutorial on the sort of where I can find the answer to my question?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1784349465.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1043,7 +1033,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-19T14:56:06.330812+00:00">Updated 2026-07-19T14:56:06.330812+00:00</small>
+        <small data-timestamp="2026-07-19T18:27:02.963445+00:00">Updated 2026-07-19T18:27:02.963445+00:00</small>
     </div>
 </div>
 
@@ -1270,20 +1260,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://futurism.com/robots-and-machines/striking-workers-hyundai-korea-humanoid-robots-labor', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-1152x648.png');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://futurism.com/wp-content/uploads/2026/07/striking-workers-hyundai-korea-humanoid-robots-labor.jpg?quality=85&w=1200');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/" target="_blank" onclick="event.stopPropagation();">Fear of humanoid robots spurs human workers to strike at Hyundai auto factory</a>
+                            <a href="https://futurism.com/robots-and-machines/striking-workers-hyundai-korea-humanoid-robots-labor" target="_blank" onclick="event.stopPropagation();">Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
+                            A major Hyundai factory in South Korea is on its knees after negotiations between labor and management broke down last week.
                         </div>
                         
 
@@ -1293,9 +1283,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Ars Technica" class="news-favicon">
-                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://futurism.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Futurism" class="news-favicon">
+                                    <a href="https://futurism.com" target="_blank" onclick="event.stopPropagation();">Futurism</a>
                                     
                                 </div>
                                 
@@ -1303,7 +1293,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784232588.0"></span>
+                                    <span data-timestamp="1784383200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1381,7 +1371,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784289070.0"></span>
+                                    <span data-timestamp="1784311420.0"></span>
                                 </div>
                                 
                             </div>
@@ -1389,20 +1379,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.globaltimes.cn/page/202607/1366283.shtml', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.globaltimes.cn/Portals/0/attachment/2026/2026-07-19/01717556-5369-4a60-a9d8-b81c83b5498c.png');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.globaltimes.cn/page/202607/1366283.shtml" target="_blank" onclick="event.stopPropagation();">Quadruped robots shine at WAIC in Shanghai as human-machine collaboration enters new phase</a>
+                            <a href="https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/" target="_blank" onclick="event.stopPropagation();">Agility Robotics plants its flag in Tesla’s backyard</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
+                            Agility is opening a new training center for its Digit robots in Fremont, California.
                         </div>
                         
 
@@ -1412,9 +1402,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.globaltimes.cn&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Global Times" class="news-favicon">
-                                    <a href="https://www.globaltimes.cn" target="_blank" onclick="event.stopPropagation();">Global Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="TechCrunch" class="news-favicon">
+                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
                                     
                                 </div>
                                 
@@ -1422,7 +1412,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784426580.0"></span>
+                                    <span data-timestamp="1784319589.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://spectrum.ieee.org/video-friday-robotic-surgery', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://spectrum.ieee.org/media-library/image.png?id=67494478&width=1200&height=600&coordinates=0%2C60%2C0%2C60');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://spectrum.ieee.org/video-friday-robotic-surgery" target="_blank" onclick="event.stopPropagation();">Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Your weekly selection of awesome robot videos
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spectrum.ieee.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="IEEE Spectrum" class="news-favicon">
+                                    <a href="https://spectrum.ieee.org" target="_blank" onclick="event.stopPropagation();">IEEE Spectrum</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1784185200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1471,21 +1502,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://spectrum.ieee.org/graduate-student-nasas-robots-assembly', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wzzm13.com/article/news/local/robotic-technology-enhances-precision-knee-replacement-surgery/69-d2948ed9-4305-4890-a7d3-61a8cf414797', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=1200&height=600&coordinates=0%2C312%2C0%2C313');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://spectrum.ieee.org/graduate-student-nasas-robots-assembly" target="_blank" onclick="event.stopPropagation();">This Graduate Student Equips NASA’s Robots With Assembly Skills</a>
+                            <a href="https://www.wzzm13.com/article/news/local/robotic-technology-enhances-precision-knee-replacement-surgery/69-d2948ed9-4305-4890-a7d3-61a8cf414797" target="_blank" onclick="event.stopPropagation();">Robotic technology enhances precision in knee replacement surgery</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Her algorithm enables robots to install antennas on satellites
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1494,9 +1521,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spectrum.ieee.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="IEEE Spectrum" class="news-favicon">
-                                    <a href="https://spectrum.ieee.org" target="_blank" onclick="event.stopPropagation();">IEEE Spectrum</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wzzm13.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WZZM13.com" class="news-favicon">
+                                    <a href="https://www.wzzm13.com" target="_blank" onclick="event.stopPropagation();">WZZM13.com</a>
                                     
                                 </div>
                                 
@@ -1504,7 +1531,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784185200.0"></span>
+                                    <span data-timestamp="1784239320.0"></span>
                                 </div>
                                 
                             </div>
@@ -1536,8 +1563,8 @@
                                 <div class="news-meta-item news-source">
                                     
                                     <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dailystar.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Daily Star" class="news-favicon">
-                                    <a href="https://www.dailystar.co.uk" target="_blank" onclick="event.stopPropagation();">Daily Star</a>
+                                         alt="dailystar.co.uk" class="news-favicon">
+                                    <a href="https://www.dailystar.co.uk" target="_blank" onclick="event.stopPropagation();">dailystar.co.uk</a>
                                     
                                 </div>
                                 
@@ -1553,57 +1580,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-07-16/japan-s-robot-makers-join-nvidia-s-physical-ai-cosmos-coalition', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.embedded.com/wp-content/uploads/sites/2/2024/10/EmbeddedWeekly.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-07-16/japan-s-robot-makers-join-nvidia-s-physical-ai-cosmos-coalition" target="_blank" onclick="event.stopPropagation();">Japan’s Robot Makers Join Nvidia’s Physical AI Cosmos Coalition</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1784178840.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.prnewswire.com/news-releases/hyperscale-data-begins-installation-of-omnipresent-robotics-opr-r2-robots-at-michigan-ai-facility-302828282.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://mmx.prnewswire.com/media/MS1884607/Hyperscale-Data-OPR-Robot.jpg?id=OA2768439&p=facebook');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.prnewswire.com/news-releases/hyperscale-data-begins-installation-of-omnipresent-robotics-opr-r2-robots-at-michigan-ai-facility-302828282.html" target="_blank" onclick="event.stopPropagation();">Hyperscale Data Begins Installation of Omnipresent Robotics OPR-R2 Robots at Michigan AI Facility</a>
+                            <a href="https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights/" target="_blank" onclick="event.stopPropagation();">The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, ‘Mind of the Engineer’ survey: Embedded Week Insights</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
+                            This week’s roundup covers the challenges of using different protocols in factories, Nvidia’s latest Thor modules, AI-powered custom test design, and the Mind of the Engineer survey.
                         </div>
                         
 
@@ -1613,9 +1603,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prnewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="PR Newswire" class="news-favicon">
-                                    <a href="https://www.prnewswire.com" target="_blank" onclick="event.stopPropagation();">PR Newswire</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.embedded.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="embedded.com" class="news-favicon">
+                                    <a href="https://www.embedded.com" target="_blank" onclick="event.stopPropagation();">embedded.com</a>
                                     
                                 </div>
                                 
@@ -1623,7 +1613,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1784284200.0"></span>
+                                    <span data-timestamp="1784321125.0"></span>
                                 </div>
                                 
                             </div>
@@ -1651,7 +1641,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-07-19T17:08:25.045849+00:00">Updated 2026-07-19T17:08:25.045849+00:00</small>
+        <small data-timestamp="2026-07-19T18:27:09.223041+00:00">Updated 2026-07-19T18:27:09.223041+00:00</small>
     </div>
 </div>
 

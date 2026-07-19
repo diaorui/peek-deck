@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-19T17:08:27.523256+00:00'
+updated: '2026-07-19T18:27:10.474306+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 19, 2026 at 17:08 UTC  
+**Last Updated:** July 19, 2026 at 18:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,39 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Apple test](https://www.reddit.com/r/robotics/comments/1v0werw/apple_test/)**
+
+1h ago
+
+---
+
 **[Check out my 3D printed, 18 servo, Self balancing Hexapod.](https://www.reddit.com/r/robotics/comments/1v05s4o/check_out_my_3d_printed_18_servo_self_balancing/)**
 
 I'm 15 years old and this is my hexapod project I have been working on for the past year, I learned a ton from it. Here are its specs: -Build: Mostly 3D printed, I used a model from Aecert Robotics from youtube, I made some changes and improvements to the model such as the femur joints that connect to the servos. -Parts: 24 channel Pololu maestro board, 11.4v lipo battery, 12x25kg servos, and 6x35kg servos (for the femur joints because they're under the most load). Cheap android phone for the controller and gyroscope, and a DROK buck converter. -Software: I made a custom android app for the controller that connects via wifi or hotspot, you scan a QR code and it opens the controller on your phone. I used inverse kinematic equations for the hexapod so it has complete control over the leg and body movement. -Stabilizing: Using the gyroscope from the phone it can also self stabilize, it can even walk and self stabilize at the same time. -Walking gait: There are 5 walking gaits so far: Tripod, ripple, wave, triple, and a custom one I made to look like a spider. -I'm currently working on a high precision robot arm and I would love some feedback: About 4ft long and hopefully can lift around 5lb. I should have some videos soon. If you want to learn more about the hexapod or the arm you can see them at my portfolio.
 
-21h ago
+22h ago
+
+---
+
+**[How do I attach to this keyway?](https://www.reddit.com/r/robotics/comments/1v0xvkc/how_do_i_attach_to_this_keyway/)**
+
+I need to transfer a lot of force through this keyway into a 3d print, and am confused on the intended way to attach to this shaft.
+
+8m ago
+
+---
+
+**[I froze a physics-consistency detector before generating a held-out CogVideoX cohort — it flagged freeze/hover in 9/9 clips](https://www.reddit.com/r/robotics/comments/1v0wbbp/i_froze_a_physicsconsistency_detector_before/)**
+
+I’m building Haga, an independent physics-consistency checker for generated video and robot-policy simulations. An earlier CogVideoX-5b I2V experiment produced a clear failure mode: on a “ball and block fall” prompt, the tracked object stayed airborne with near-zero motion instead of falling. But that first result was post-hoc. I inspected those six clips before adding the static_hover detector, so the original 6/6 flag rate could not be treated as confirmation. I’ve now run a pre-registered held-out test. Method: Model: THUDM/CogVideoX-5b-I2V Cohort: 3 perspectives × seeds 2, 3 and 4 n=9 clips Detector thresholds and inclusion rules frozen before generation RGB → CoTracker3 → position-only VIDEO_CHECKS Discovery seeds 0–1 kept separate from held-out seeds 2–4 Result: Held-out flag rate: 1.000 (9/9) Wilson 95% CI: [0.701, 1.000] All nine clips fired static_hover Real Physics-IQ footage stayed quiet under the same profile static_hover fires when the tracked object remains airborne for most of the clip, has near-zero frame-to-frame speed, and does not exhibit gravitational acceleration. Important limitations: One open I2V model One ball-and-block-fall scene family One documented failure mode Real negative-control n=1 in this specific report Not Cosmos, Genie or NIM Not a broad claim about CogVideoX quality Write-up: https://haga.mushoodhanif.com/article/sim-physics-consistency-v1#held-out Lab: https://haga.mushoodhanif.com/lab/physicsiq Bounded demo: https://haga.mushoodhanif.com/demo I’d especially value criticism on: Which physical violations will position-only tracking systematically miss? Is static_hover defined narrowly enough to avoid confusing intentional suspension with failed dynamics? What public generated-video artifact should I evaluate next under the frozen detector?
+
+1h ago
+
+---
+
+**[Isaac sim: rosbag replay via rosbrigde](https://www.reddit.com/r/robotics/comments/1v0ue0e/isaac_sim_rosbag_replay_via_rosbrigde/)**
+
+2h ago
 
 ---
 
@@ -44,7 +72,7 @@ I'm 15 years old and this is my hexapod project I have been working on for the p
 
 Hey everyone! I’m a high school student helping run a student-led program that teaches Autodesk Fusion and CAD to students for free. We recently secured an international partnership and are getting ready to work with a lot more students, so we’re looking for a few more people to join the team. We’re especially hoping to find people who already have experience with CAD, whether that’s Autodesk Fusion, Onshape, SolidWorks, Inventor, or another program. Fusion experience would be ideal, but familiarity with other CAD software is still very useful since many of the main concepts carry over. The main roles we need are: Co-President and Vice Presidents: Help lead the team, communicate with partners, organize meetings, and help decide where the program goes next. This role will collapse onto the other two roles below. Mentors: Join weekly Zoom classes, demonstrate Fusion tools, answer questions, and help students when they get stuck. Curriculum Developers: Help improve our current lessons and create new activities, projects, and assignments. CAD experience is especially important for mentors and curriculum developers, but we’re also looking for people who are reliable, communicate well, and genuinely want to help students learn engineering. Apply here: https://docs.google.com/forms/d/e/1FAIpQLSckr1UBILkgySbmjvRhKD0qca_-Omxy_aLmG5aN6JIEhE9tJg/viewform?usp=dialog
 
-9h ago
+11h ago
 
 ---
 
@@ -68,7 +96,7 @@ On my way to recording and open-sourcing a 1,000-episode bimanual manipulation d
 
 Hi everyone, I just uploaded my first tutorial video on YouTube and wanted to share it here to get your opinions about it. its very short and simple tutorial for the subject matter but I figured since I shared my scripts anyone who is interested would like consult an Ai chatbot for their specific questions and the main point of the video is the briefly explain the main concepts and how it all works within PyBullet. if you have free 7 minutes, I would appreciate your thought and opinions about the video so I can improve for upcoming videos. I know Genetic Algorithms are a bit yesteryears news but I remember watching a video about them on 2minutespapers YouTube channel years ago and since the moment I loaded my robot to PyBullet I wanted to try to implement the technique myself on my own project. Thats why its the subject of my first tutorial video. I am also sharing the links to my GitHub repo for the scripts here as well in case if you dont want to watch the video but still interested in implementing genetic algorithm for robotics in PyBullet. PyBullet Genetic Algorithm repo: https://github.com/serdarselimys/PyBullet-GeneticAlgorithm PyBullet HexaDog ZBD control repo: https://github.com/serdarselimys/HexaDogZBD-PybulletDemo For the next tutorial I am planning to cover Imitation Learning, again in PyBullet. Do you think thats an interesting subject?? I have been seeing a lot of videos on social media about manual laborers, mostly, textile workers are being made to wear POV cameras to capture their work to be used to train Neural Networks. I figured a tutorial explaining how digital movements are copied over to neural networks would be interesting.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ZvcVsFFV1q8) • 22h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ZvcVsFFV1q8) • 23h ago
 
 ---
 
@@ -76,39 +104,7 @@ Hi everyone, I just uploaded my first tutorial video on YouTube and wanted to sh
 
 Researchers at the University of Toronto's Continuum Robotics Laboratory introduced CRAFT, a 3D-printed modular design library for tendon-driven continuum robots that allows a single robot to physically reconfigure its shape, stiffness, and degrees of freedom within minutes by snapping together six interchangeable modules. The same base robot was reconfigured into a long teleoperated probe for aircraft-wing inspection achieving 41% reduction in sag, a pipe-crawling robot capable of navigating 90-degree bends and 30-degree inclines, and a soft robotic hand that successfully cracked eggs with 85% accuracy. CRAFT eliminates the need to build entirely new robots for different tasks, replacing bespoke redesign with rapid modular composition. Credits: https://www.nature.com/articles/s44182-026-00107-x
 
-🔗 [youtube.com](https://youtube.com/shorts/e7LkG7x8f-Y?si=UqChe8XpkiS0xK9f) • 22h ago
-
----
-
-**[Interchangeable gripper](https://www.reddit.com/r/robotics/comments/1uz2hsj/interchangeable_gripper/)**
-
-Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially the models controlling them reliably, aren’t available yet, so we’re focusing on making the options we can use right now and actually work.
-
-2d ago
-
----
-
-**[Building a Real-Time UWB Localization System over Ethernet (ESP32-S3 + PoE)](https://www.reddit.com/r/robotics/comments/1uzqr95/building_a_realtime_uwb_localization_system_over/)**
-
-I've been experimenting with an Ethernet-based UWB localization setup recently and wanted to share the workflow. The idea is to keep the embedded side simple while moving the localization calculations to a PC. In this setup, the UWB nodes continuously perform ranging between the tag and anchors. An ESP32-S3 Ethernet gateway collects the ranging data and forwards it over the local network. A PC application then receives the data stream, calculates the tag coordinates in real time, and visualizes the results. Since all positioning algorithms run on the PC instead of the microcontroller, it's much easier to test different localization methods, manage multiple tags, or integrate additional data processing. Hardware Used · 3×UWB nodes (2 Anchors + 1 Tag) · 1×ESP32-S3 Ethernet (PoE) gateway · Ethernet cable · USB cable Step 1: Prepare the Hardware Prepare the required UWB devices, an ESP32-S3 Ethernet gateway, and the necessary cables. Step 2: Configure the UWB Nodes Assign the ID and role (Anchor or Tag) for each UWB node using the configuration tool. Step 3: Flash the Firmware and Connect the Devices Upload the firmware to the ESP32-S3 gateway, connect it to the local network, and establish communication with the UWB nodes. Step 4: Start Real-Time Positioning Open the PC application, set the anchor coordinates, and visualize the tag position updating in real time. Follow the steps above; I’ve built a complete Ethernet UWB positioning system with UWB devices. And the PC is keeping updating the trajectory of the moving tag. The firmware and PC application are available for anyone interested in reproducing or modifying the project. I'd be interested to hear how others structure their UWB localization systems. Feel free to talk in the comments below!
-
-1d ago
-
----
-
-**[Updates of my quadruped robot’s control algorithm. I've been working toward this during almost four years.](https://www.reddit.com/r/robotics/comments/1uz40hm/updates_of_my_quadruped_robots_control_algorithm/)**
-
-I’m happy to share another video of my quadruped robot climbing stairs! Since my previous post, I have added contact sensors and modified the locomotion control algorithm. Previously, the robot used a fairly standard MPC + WBC + vision-based control framework. I have now added a reference generator based on the Linear Inverted Pendulum Model. It generates dynamically consistent body position, velocity, and acceleration trajectories for the MPC and WBC controllers. This modification significantly improved the robot’s stability. It also allowed me to increase the swing duration of each leg, resulting in smoother foot trajectories, softer ground contacts, and quieter locomotion.
-
-2d ago
-
----
-
-**[Mechanical engineering for robotics help with 3d printing some part for a robotic arm](https://www.reddit.com/r/robotics/comments/1uzm4je/mechanical_engineering_for_robotics_help_with_3d/)**
-
-I have decided to spend time on robotics , I really like it but I didn't like the professor who did it in uni so I never took his class.I have worked with motors before and I'm catching up with robotics math , however I still encountered something that I can't understand.Suppose you calculate everything and then you go to order a part from 3d printing to actually build your robot,how do you design that part?I mean how do you ensure that the combination of parts that you order can create a rotation using a motor?Do you get what I'm talking about?For example let's say that a robotic arm is made of 2 parts 1 immovable part which holds the rotating part on some axis?How do you actually design that?And why do some configurations work while others don't?Do you know a tutorial on the sort of where I can find the answer to my question?
-
-1d ago
+🔗 [youtube.com](https://youtube.com/shorts/e7LkG7x8f-Y?si=UqChe8XpkiS0xK9f) • 23h ago
 
 ---
 
@@ -124,11 +120,11 @@ WIRED • 2d ago
 
 ---
 
-**[Fear of humanoid robots spurs human workers to strike at Hyundai auto factory](https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/)**
+**[Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots](https://futurism.com/robots-and-machines/striking-workers-hyundai-korea-humanoid-robots-labor)**
 
-Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
+A major Hyundai factory in South Korea is on its knees after negotiations between labor and management broke down last week.
 
-Ars Technica • 2d ago
+Futurism • 1d ago
 
 ---
 
@@ -136,7 +132,7 @@ Ars Technica • 2d ago
 
 People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
 
-New Atlas • 11h ago
+New Atlas • 12h ago
 
 ---
 
@@ -146,11 +142,19 @@ Reuters • 2d ago
 
 ---
 
-**[Quadruped robots shine at WAIC in Shanghai as human-machine collaboration enters new phase](https://www.globaltimes.cn/page/202607/1366283.shtml)**
+**[Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)**
 
-At the 2026 World Artificial Intelligence Conference (WAIC), one of the most eye-catching experiences on the show floor was the chance to ride a quadruped robot – an encounter that felt less like testing a machine and more like stepping into a scene from the future.
+Agility is opening a new training center for its Digit robots in Fremont, California.
 
-Global Times • 15h ago
+TechCrunch • 1d ago
+
+---
+
+**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -162,11 +166,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[This Graduate Student Equips NASA’s Robots With Assembly Skills](https://spectrum.ieee.org/graduate-student-nasas-robots-assembly)**
+**[Robotic technology enhances precision in knee replacement surgery](https://www.wzzm13.com/article/news/local/robotic-technology-enhances-precision-knee-replacement-surgery/69-d2948ed9-4305-4890-a7d3-61a8cf414797)**
 
-Her algorithm enables robots to install antennas on satellites
-
-IEEE Spectrum • 3d ago
+WZZM13.com • 2d ago
 
 ---
 
@@ -174,21 +176,15 @@ IEEE Spectrum • 3d ago
 
 Sex doll owners and manufacturers are using advanced AI video tech, chatbots and robotics to bring silicone companions to life with eerie, interactive realism
 
-Daily Star • 1d ago
+dailystar.co.uk • 1d ago
 
 ---
 
-**[Japan’s Robot Makers Join Nvidia’s Physical AI Cosmos Coalition](https://www.bloomberg.com/news/articles/2026-07-16/japan-s-robot-makers-join-nvidia-s-physical-ai-cosmos-coalition)**
+**[The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, ‘Mind of the Engineer’ survey: Embedded Week Insights](https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights/)**
 
-Bloomberg.com • 3d ago
+This week’s roundup covers the challenges of using different protocols in factories, Nvidia’s latest Thor modules, AI-powered custom test design, and the Mind of the Engineer survey.
 
----
-
-**[Hyperscale Data Begins Installation of Omnipresent Robotics OPR-R2 Robots at Michigan AI Facility](https://www.prnewswire.com/news-releases/hyperscale-data-begins-installation-of-omnipresent-robotics-opr-r2-robots-at-michigan-ai-facility-302828282.html)**
-
-/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
-
-PR Newswire • 2d ago
+embedded.com • 1d ago
 
 ---
 
@@ -260,7 +256,7 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Smarttoy Ruko
 
-👁️ 10K • 👍 91 • ⏱️ 0:20 • 13h ago
+👁️ 10K • 👍 91 • ⏱️ 0:20 • 14h ago
 
 ---
 
@@ -270,7 +266,7 @@ New Spider Scorpion robot. I dont know what happened but the new robot has been 
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 291 • 💬 49 • ⏱️ 15:10 • 5h ago
+👁️ 5K • 👍 291 • 💬 49 • ⏱️ 15:10 • 6h ago
 
 ---
 
@@ -290,7 +286,7 @@ Watch the most intense moments from the Ultimate Humanoid Robot Knockout League 
 
 📺 The Construct Robotics Institute
 
-👁️ 49K • 👍 738 • 💬 223 • ⏱️ 2:18 • 1d ago
+👁️ 49K • 👍 738 • 💬 223 • ⏱️ 2:18 • 2d ago
 
 ---
 

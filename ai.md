@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-19T17:08:27.505531+00:00'
+updated: '2026-07-19T18:27:10.455974+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 19, 2026 at 17:08 UTC  
+**Last Updated:** July 19, 2026 at 18:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,57 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Can countries really regulate AI if they don’t control the compute?](https://www.reddit.com/r/artificial/comments/1v0xckk/can_countries_really_regulate_ai_if_they_dont/)**
+
+I keep hearing AI governance discussed as if every country is sitting at the same table with roughly the same amount of influence. But most countries don’t control the chips, cloud infrastructure, data centers, or frontier models they’re being asked to regulate. They can write rules, but enforcement still depends heavily on infrastructure owned by a small number of governments and private companies. That makes me wonder whether this is really a regulation problem or an ownership problem. Can a country meaningfully govern advanced AI if it cannot independently inspect the systems, control the compute they run on, or enforce decisions against the companies operating them? I’m not saying regulation is pointless. I’m just not convinced legal authority means much without technical leverage behind it. Curious how people here see it. Does regulation eventually reshape who controls the infrastructure, or will the countries that own the compute always have the final say?
+
+28m ago
+
+---
+
 **[How not to become lazy with AI?](https://www.reddit.com/r/artificial/comments/1v0pmhf/how_not_to_become_lazy_with_ai/)**
 
 I think this is not really AI problem, its more about mindset and it repeats with every new technology. Calculators, Internet - every time people get a tool that thinks for them, some become lazy and some learn to use it without turning off their brain. AI is just the next round, much stronger round. Maybe some kind of the final boss. So probably there is no universal fix and everyone has to find their own way. How do you deal with it? Would like to hear different opinions.
 
-4h ago
+5h ago
+
+---
+
+**[Chinese open-weight model beats Opus 4.8 on some benchmarks, first time this has happened](https://www.reddit.com/r/artificial/comments/1v0x2za/chinese_openweight_model_beats_opus_48_on_some/)**
+
+Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. Artificial Analysis independently ranks it ahead of Anthropic's Opus 4.8 on frontier benchmarks, first Chinese open-weight model to do that. Still behind Claude Fable 5 and GPT-5.6 overall, but Moonshot doesn't claim otherwise. Artificial Analysis and Arena.ai placed it there independently. It also topped web interface engineering evals in blind human-preference comparisons against Claude Fable. Three competing Chinese AI companies (Zhipu, MiniMax, Z.ai) lost 15-28% of their value in a single day. Nasdaq dropped, Nvidia briefly surrendered its most-valuable-company spot to Apple. Companies don't sell off like that over a research demo. Moonshot's moving to IPO within six months, targeting $30B+ valuation, pricing near Anthropic Sonnet levels. Open-weight models typically undercut on price. Moonshot isn't. Is one clean benchmark win against a closed frontier lab is enough to shift enterprise buying decisions? What would it actually take?
+
+39m ago
+
+---
+
+**[Politicians Are Trying to Change What Chatbots Say About Them](https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 41m ago
+
+---
+
+**[AI saved me so much time...](https://www.reddit.com/r/artificial/comments/1v0on87/ai_saved_me_so_much_time/)**
+
+...that I now spend that extra time fixing AI mistakes. Don't get me wrong I use AI almost every day, and it's incredibly useful. But I've noticed something funny: Instead of doing the work myself, I now spend my time fact-checking, rewriting, and correcting what AI generated. It still saves time overall, but it's definitely not the "press one button and you're done" future people imagined. What's one task AI actually saves you time on, and one task where it creates more work than it solves?
+
+6h ago
+
+---
+
+**[The Expert Generalist](https://www.reddit.com/r/artificial/comments/1v0wt3q/the_expert_generalist/)**
+
+I’ve been thinking about who actually wins in the age of AI. For years the advice was: “Be a specialist.” Then AI arrived, and people started saying: “No, be a generalist.” I don’t think either is right. The people who seem to have the biggest advantage are becoming expert generalists. Not people who know everything. People who have real depth in at least one area, but can connect ideas across many. AI can explain accounting. It can explain psychology. It can explain software engineering. It struggles much more with deciding which of those disciplines matters most for the problem in front of you. That feels like the new scarce skill. The more answers become free, the more valuable it becomes to ask: • Which question comes first? • Which mental model applies? • What assumption are we making? • What field are we ignoring? I’ve started thinking that learning in the AI era shouldn’t just be about accumulating knowledge. It should be about practicing judgment. That’s one of the reasons I’ve been building a daily practice centered on questions rather than answers. The goal isn’t to know more than AI. It’s to become better at directing it. Curious whether others see the same shift. Are we entering the age of the expert generalist?
+
+49m ago
+
+---
+
+**[Weekly roundup: GPT-5.6 general release, Gemini 3.5 Pro launch, Grok 4.5, Apple-Alibaba Qwen approval, Ollama's $65M raise](https://www.reddit.com/r/artificial/comments/1v0wt38/weekly_roundup_gpt56_general_release_gemini_35/)**
+
+Busy nine days on the frontier, so here's a consolidated summary with sources. Model launches: OpenAI released GPT-5.6 broadly on July 9 — three variants (Sol $5/$30, Terra $2.50/$15, Luna $1/$6 per 1M tokens), 1.05M context (Axios, OpenAI). xAI shipped Grok 4.5 on July 8 at $2/$6, positioned as a workhorse for routine knowledge work (TechCrunch, Axios). Google's Gemini 3.5 Pro reached GA today, July 17, after a full architectural rebuild — 2M token context, Deep Think reasoning layer, ~$1.25/$10 (TechTimes, BigGo). Distribution news: Apple's iOS 27 public beta opened Siri AI to the general public (TechCrunch, 9to5Mac), and China's CAC approved Apple Intelligence for launch there, running on Alibaba's Qwen (TechCrunch, CNBC). Microsoft added Claude as a model option in Copilot Chat as part of 40+ July updates. Open source: Ollama raised a $65M Series B — 8.9M monthly developers, claims presence in 85% of the Fortune 500 (TechCrunch). Hugging Face reported Chinese open-weight models took 41% of downloads this spring, surpassing US models. Mistral put a new open-weight frontier model into early access. Less rosy: Grok Build was caught uploading users' repos to xAI-controlled cloud storage; xAI open-sourced the CLI and promised data deletion (The Register). Hugging Face disclosed a production intrusion executed end-to-end by an autonomous AI agent. And China's new anthropomorphic AI rules took effect July 15 — ByteDance and Alibaba shut down user-created agents entirely. My take as someone building on top of these APIs: the pricing collapse is the real story. Luna at $1/$6 and Grok at $2/$6 means capability that cost 15-30x more two years ago is now nearly free at the margin. In practice that changes architecture decisions — pipelines I run through cheap fast models today would've needed careful cost engineering last year. But the Grok Build incident is a reminder that when tokens get this cheap, the vendor's data practices become the actual differentiator. I'd also flag the China agent shutdown as underrated: millions of users lost working agents overnight because of a regulatory change. If you're building agentic products, jurisdictional platform risk deserves a line in your risk register. What's everyone else seeing on the cost side — has anyone re-benchmarked their pipelines against Luna or Grok 4.5 yet?
+
+49m ago
 
 ---
 
@@ -61,57 +107,11 @@ The Trump administration is taking steps to control who gets access to the lates
 
 ---
 
-**[AI saved me so much time...](https://www.reddit.com/r/artificial/comments/1v0on87/ai_saved_me_so_much_time/)**
-
-...that I now spend that extra time fixing AI mistakes. Don't get me wrong I use AI almost every day, and it's incredibly useful. But I've noticed something funny: Instead of doing the work myself, I now spend my time fact-checking, rewriting, and correcting what AI generated. It still saves time overall, but it's definitely not the "press one button and you're done" future people imagined. What's one task AI actually saves you time on, and one task where it creates more work than it solves?
-
-5h ago
-
----
-
-**[Interactive map of GPT-2's token embedding space - tap any token and explore [P]](https://www.reddit.com/r/artificial/comments/1v0j8kz/interactive_map_of_gpt2s_token_embedding_space/)**
-
-32,070 alphabetic tokens from GPT-2-small's WTE, no forward pass and no context. Works on mobile. Pinch to zoom, tap a token to see its nearest connections, tap a neighbour to walk the graph. Search box to jump anywhere. Layout is t-SNE over a compressed representation of the embedding table; edges are a minimum spanning tree in that space, so every line is a real nearest-kin relationship,
-
-🔗 [aethereos.net](https://aethereos.net/static/token-atlas.html) • 10h ago
-
----
-
 **[When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode.](https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/)**
 
 Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other. That part worked. But two things happened that I didn't see coming. First, arguing turns models into confident fabricators. Once a model is trying to "win", it starts citing sources, URLs, author names, specific figures, that were never in the retrieved material. It's not random hallucination, it's persuasive hallucination, because in an argument a citation is basically a weapon. I ended up adding a dumb deterministic check that flags any cited URL that isn't in the actual retrieved corpus. Just telling the model "only cite real sources" in the prompt barely did anything, moved it maybe 6 points. Second, if you let a model pick the debaters, the panel comes out unanimous almost every time. Generating all the personas from one model at low temperature quietly lines up their priors. You think you've got a debate, you've actually got one model wearing five hats. The takeaway for me: making models disagree is really easy to fake and pretty hard to do for real. Most of the actual work is in the verification layer, not the personas. Anyone else working on multi-agent debate or adversarial verification? Still an open question for me whether fabrication-under-pressure is just a property of any adversarial LLM setup, or something you can actually design out at the architecture level instead of catching after the fact.
 
-21h ago
-
----
-
-**[A Guard for you OpenClaw](https://www.reddit.com/r/artificial/comments/1v0q1jy/a_guard_for_you_openclaw/)**
-
-4h ago
-
----
-
-**[Models to Pair with TypingMind](https://www.reddit.com/r/artificial/comments/1v0hi95/models_to_pair_with_typingmind/)**
-
-Earlier this year, AI was like working with a recent intelligent technical college graduate who was answering questions and making good suggestions I didn’t think of. Recently, it is like I have an HR intern helping me. The AI assistant can’t answer science related questions, doesn’t suggest anything useful, asks chatty questions about what I think despite my instructions, formats wrong despite instructions, and is constantly telling me why I can’t search for or do something that is not even remotely an issue . . . Even practicing my Spanish in terms of lessons plans, not just chatting, is painful now. What less obvious models are you all using today to avoid this problem on your aggregators?
-
-12h ago
-
----
-
-**[Anthropic Aletheia Team](https://www.reddit.com/r/artificial/comments/1v0n1z5/anthropic_aletheia_team/)**
-
-Anyone knows what this Aletheia Team is? https://preview.redd.it/g0h19kuty5eh1.png?width=1380&format=png&auto=webp&s=669eff0e5a7cf8d8e60875fe0b785df325ff2c0a
-
-6h ago
-
----
-
-**[When People Say That AI Will Never Reason and Judge Things Like Us...](https://www.reddit.com/r/artificial/comments/1v0t4jo/when_people_say_that_ai_will_never_reason_and/)**
-
-...I have to explain that they're interacting with models. That's one part of AI. There are many, many layers to it that are being added in the DIY spaces this very moment that have solved this issue. But it needs to be clarified that even though these problems have been solved, that also doesn't mean AI can actually understand truth, judgement, and reason. Rather, it can be forced to produce these qualities through various processes, which creates the illusion. But the results are the same. Most people don't know this because it's still clunky and technical to set up. But I promise you that within a year, this will not be the case because I've already interacted with advanced architectures that can genuinely reason and produce judgement calls that reflect a 20 year vet, given that it's my job to investigate, understand, and translate these things to people. What does this mean, ethically? That's up for debate but it's a fact that integrating true reasoning and judgement can be solved because....It's been solved. It just hasn't been deployed in a user-friendly way for everyone to see it. But it will come very soon.
-
-1h ago
+22h ago
 
 ---
 
@@ -121,7 +121,7 @@ Anyone knows what this Aletheia Team is? https://preview.redd.it/g0h19kuty5eh1.p
 
 **[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
 
-WSJ • 16h ago
+WSJ • 17h ago
 
 ---
 
@@ -129,13 +129,7 @@ WSJ • 16h ago
 
 Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications
 
-The Guardian • 24m ago
-
----
-
-**[AI detection not automatically better for colorectal cancer screening in Lynch syndrome, study shows](https://medicalxpress.com/news/2026-07-ai-automatically-colorectal-cancer-screening.html)**
-
-Medical Xpress • 8m ago
+The Guardian • 1h ago
 
 ---
 
@@ -143,7 +137,7 @@ Medical Xpress • 8m ago
 
 "Essentially, the government is going to take over some fraction of the big tech firms."
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -153,9 +147,15 @@ The New York Times • 1d ago
 
 ---
 
+**[Big Tech Needs to Justify AI Spending as Investors Dump Stocks](https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks)**
+
+Bloomberg.com • 5h ago
+
+---
+
 **[San Francisco restaurant gets angry backlash for AI menu images](https://www.sfgate.com/food/article/grind-unwind-ai-images-22348931.php)**
 
-SFGATE • 5h ago
+SFGATE • 7h ago
 
 ---
 
@@ -163,21 +163,21 @@ SFGATE • 5h ago
 
 AI demand has brought billions in financing to little-known developers, while putting them at the center of fights over electricity, pollution and land.
 
-NBC News • 6h ago
+NBC News • 7h ago
+
+---
+
+**[China’s Questionable Tech Strategy](https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/)**
+
+Keeping out the world’s best tools promises to stymie innovation.
+
+The Atlantic • 6h ago
 
 ---
 
 **[Divide grows between AI employees and executives over policy battles](https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/)**
 
-The Hill • 7h ago
-
----
-
-**[Beijing to the World: We Don’t Want Your Chips](https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/)**
-
-Keeping out the world’s best tools promises to stymie innovation.
-
-The Atlantic • 5h ago
+The Hill • 8h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Atlantic • 5h ago
 
 Using AI at work in the wrong ways could lead to "gradually falling behind and becoming complacent," said Sandra Matz, a professor at Columbia Business School.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 3h ago
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 556 • 💬 373 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 556 • 💬 374 • 1d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 3h ago
 
 No more AI-edited listings without disclosures.
 
-⬆️ 551 • 💬 242 • 18h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+⬆️ 554 • 💬 253 • 20h ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
@@ -217,13 +217,13 @@ No more AI-edited listings without disclosures.
 
 A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.
 
-⬆️ 434 • 💬 145 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+⬆️ 435 • 💬 145 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 425 • 💬 515 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 431 • 💬 519 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -237,7 +237,7 @@ We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and 
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 335 • 💬 180 • 15h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 351 • 💬 190 • 16h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -257,11 +257,11 @@ The move is a vote of confidence in Boeing from the U.S. government.
 
 ---
 
-**[German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://news.ycombinator.com/item?id=48937756)**
+**[AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://news.ycombinator.com/item?id=48947714)**
 
-A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.
+We turned zkao (our AI auditor) on OpenVM, a state-of-the-art zkVM, and it found a critical soundness bug: the pairing check accepted a prover-supplied witness without proper subfield checking, which lets a malicious prover forge any pairing equality. It is fixed in OpenVM 1.6.0 and tracked as CVE-2026-46669. This is the second post in our series on bugs our agents found across open source cryptography.
 
-⬆️ 144 • 💬 34 • 2d ago • [The Decoder](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+⬆️ 99 • 💬 9 • 2d ago • [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/openvm-bugs/)
 
 ---
 
@@ -315,7 +315,7 @@ Full post with a guide to clean sensitive documents: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 13K • 👍 439 • 💬 57 • ⏱️ 14:04 • 12h ago
+👁️ 13K • 👍 439 • 💬 57 • ⏱️ 14:04 • 13h ago
 
 ---
 
@@ -345,7 +345,7 @@ Featherweight Episode 16 – Unraveling Not every battle is fought out loud. As 
 
 📺 vee
 
-👁️ 11K • 👍 1K • 💬 191 • ⏱️ 17:52 • 4h ago
+👁️ 11K • 👍 1K • 💬 191 • ⏱️ 17:52 • 5h ago
 
 ---
 
@@ -381,7 +381,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,125 • 1m ago
+⬇️ 13,462 • ❤️ 1,125 • 1h ago
 
 ---
 
@@ -645,7 +645,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 222 • 3h ago
+⭐ 3.0k • 🔱 222 • 5h ago
 
 ---
 
