@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-20T12:31:48.657066+00:00'
+updated: '2026-07-20T15:11:47.707856+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 20, 2026 at 12:31 UTC  
+**Last Updated:** July 20, 2026 at 15:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,23 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[What actually makes human creativity different from AI?](https://www.reddit.com/r/artificial/comments/1v1id23/what_actually_makes_human_creativity_different/)**
-
-I've been thinking a lot about artificial intelligence and creativity lately. As someone living with Spinal Muscular Atrophy Type 2, technology has been one of the greatest enablers in my life. It has given me opportunities to collaborate in ways that simply wouldn't have existed a generation ago. Because of that, I don't see AI or technology as something to fear. But it has made me wonder about something. As a songwriter, I try to tell stories with music that encourage, challenge and inspire. If AI eventually becomes capable of autonomously creating songs, films, paintings and novels that are indistinguishable from those made by humans, what actually makes our creativity different? Is it the quality of the finished work? Or is it the fact that every human creation carries lived experience behind it, whether that's love, grief, faith, hope, disappointment or joy? I'd genuinely be interested to hear how other people think about this. If a piece of music moves you, does it matter whether it came from someone who lived the experiences behind creating it, or is the end result all that really matters?
-
-1h ago
-
----
-
 **[Fable 5 is now metered for Pro and Team Standard, but Claude Code's separate August 19 extension may be more useful to watch](https://www.reddit.com/r/artificial/comments/1v1f0z8/fable_5_is_now_metered_for_pro_and_team_standard/)**
 
 Fable 5's free-inclusion deadline moved from June 22 to July 7, then July 12, then July 19. The final arrangement started July 20 (today): Max and Team Premium keep Fable 5 permanently, capped at 50% of the normal weekly limit. Pro and Team Standard receive a one-time $100 credit, followed by $10/M input tokens and $50/M output tokens. Claude Code's 50% weekly-limit increase had previously been renewed on the same schedule as those Fable 5 extensions. It's now been extended independently through August 19, even though the Fable 5 extension cycle is over. Cowork is also still running its separate 2x multiplier through August. I can see two reasonable insights from this. The simple one is that Anthropic has limited inference capacity across the board and is adjusting each product on a different schedule. The other is that it has an extra incentive to preserve agent usage while ChatGPT Work, launched July 9, competes for similar workflows. I wouldn't treat the second explanation as confirmed strategy. The useful test comes after August: whether Code and Cowork also lose their additional allowances or keep getting different treatment. For people using Claude Code heavily, how many active days are you getting from the boosted weekly allowance, and what kind of workload burns through most of it? And also how often do you use Claude Cowork? I’m curious how many people actually use it.
+
+7h ago
+
+---
+
+**[The GitHub for Context Doesn’t Exist Yet](https://www.reddit.com/r/artificial/comments/1v1l16t/the_github_for_context_doesnt_exist_yet/)**
+
+🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/the-github-for-context-doesnt-exist) • 2h ago
+
+---
+
+**[What actually makes human creativity different from AI?](https://www.reddit.com/r/artificial/comments/1v1id23/what_actually_makes_human_creativity_different/)**
+
+I've been thinking a lot about artificial intelligence and creativity lately. As someone living with Spinal Muscular Atrophy Type 2, technology has been one of the greatest enablers in my life. It has given me opportunities to collaborate in ways that simply wouldn't have existed a generation ago. Because of that, I don't see AI or technology as something to fear. But it has made me wonder about something. As a songwriter, I try to tell stories with music that encourage, challenge and inspire. If AI eventually becomes capable of autonomously creating songs, films, paintings and novels that are indistinguishable from those made by humans, what actually makes our creativity different? Is it the quality of the finished work? Or is it the fact that every human creation carries lived experience behind it, whether that's love, grief, faith, hope, disappointment or joy? I'd genuinely be interested to hear how other people think about this. If a piece of music moves you, does it matter whether it came from someone who lived the experiences behind creating it, or is the end result all that really matters?
 
 4h ago
 
@@ -55,7 +61,15 @@ Fable 5's free-inclusion deadline moved from June 22 to July 7, then July 12, th
 
 **[Politicians Are Trying to Change What Chatbots Say About Them](https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 18h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 21h ago
+
+---
+
+**[Anthropic dropped the paywall, say thank you, Kimi!](https://www.reddit.com/r/artificial/comments/1v1o00v/anthropic_dropped_the_paywall_say_thank_you_kimi/)**
+
+Timeline of the last five days: July 16: Moonshot drops Kimi K3. 2.8 trillion parameters, open weights coming July 27, claiming it's within spitting distance of Fable 5 and beats Opus 4.8 and GPT 5.5 outright on coding and agent benchmarks. $15 per million output tokens. Fable is $50. MLQ + 2 July 17: Nasdaq dips as Wall Street digests it. Moonshot pauses new K3 signups because demand outran their compute. BloombergFortune July 19: The Fable 5 preview on Max plans was scheduled to end. The standard playbook says this is the moment it moves behind a new, more expensive tier. July 20: Popup says it's now a standard part of the plan. Half your weekly limit, usage credits after. Was this decided weeks ago? Almost certainly. Does the timing look like someone at Anthropic glanced at the K3 benchmarks and quietly deleted the paywall slide? Also yes. Competition works. Say thank you, Kimi. https://preview.redd.it/50ba8xdzfeeh1.png?width=612&format=png&auto=webp&s=9b25209917afa6d612902eb76b1cef9fc46cfe4c
+
+11m ago
 
 ---
 
@@ -63,7 +77,7 @@ Fable 5's free-inclusion deadline moved from June 22 to July 7, then July 12, th
 
 I've been working on this for roughly 6 months now so I'm very excited to finally get it out. The specs: - All locally run, turn your wifi off and it still works exactly the same - One time purchase, your license covers 2 Macs - 7 day trial period to see if you like it - 54 Read Aloud voices and 9 languages, and 25 recognised dictation languages - clipboard context - copy anything mid-dictation and it's inserted into your transcript (images, files, anything), super handy for working with coding agents - works on any Apple Silicon Mac (M1 or later), macOS 14+ (recommended 16gb of ram during beta). Download it and give it a try: https://www.narrato.tech/download
 
-5h ago
+7h ago
 
 ---
 
@@ -71,13 +85,7 @@ I've been working on this for roughly 6 months now so I'm very excited to finall
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-🔗 [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) • 13h ago
-
----
-
-**[The secret Trump administration battle to fight Chinese AI](https://www.reddit.com/r/artificial/comments/1v1jl81/the_secret_trump_administration_battle_to_fight/)**
-
-🔗 [axios.com](https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi) • 27m ago
+🔗 [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) • 16h ago
 
 ---
 
@@ -85,23 +93,7 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. Artificial Analysis independently ranks it ahead of Anthropic's Opus 4.8 on frontier benchmarks, first Chinese open-weight model to do that. Still behind Claude Fable 5 and GPT-5.6 overall, but Moonshot doesn't claim otherwise. Artificial Analysis and Arena.ai placed it there independently. It also topped web interface engineering evals in blind human-preference comparisons against Claude Fable. Three competing Chinese AI companies (Zhipu, MiniMax, Z.ai) lost 15-28% of their value in a single day. Nasdaq dropped, Nvidia briefly surrendered its most-valuable-company spot to Apple. Companies don't sell off like that over a research demo. Moonshot's moving to IPO within six months, targeting $30B+ valuation, pricing near Anthropic Sonnet levels. Open-weight models typically undercut on price. Moonshot isn't. Is one clean benchmark win against a closed frontier lab is enough to shift enterprise buying decisions? What would it actually take?
 
-18h ago
-
----
-
-**[How do you actually keep up with everything in AI?](https://www.reddit.com/r/artificial/comments/1v0yb8z/how_do_you_actually_keep_up_with_everything_in_ai/)**
-
-I don’t know if I’m the only one experiencing this, but I’m struggling to find AI information that is genuinely useful or interesting. I follow a few podcasts and newsletters (around 2 podcasts and 4/5 newsletters focused on AI), but lately it feels like none of them provide any value. These are some of the most popular and widely followed sources, so maybe I’m missing something, but I don’t understand how people keep finding them useful. Many newsletters seem to be AI generated or heavily automated and while I understand why that makes sense from a productivity perspective, the quality feels worse (or there isn't at all). Most of what I read feels repetitive, exaggerated or just empty hype. Most podcasts lose me after 10 minutes because they either repeat the same talking points or spend too much time discussing things without getting to anything meaningful. At this point I’m wondering if is it just me losing interest or has the quality of AI content genuinely gotten worse?
-
-17h ago
-
----
-
-**["One quick sanity check"](https://www.reddit.com/r/artificial/comments/1v1cfhk/one_quick_sanity_check/)**
-
-Weird how much I've seen this phrase across different companies' products
-
-7h ago
+21h ago
 
 ---
 
@@ -109,7 +101,15 @@ Weird how much I've seen this phrase across different companies' products
 
 So....I read LeCun's interview with Nebius Science. I feel he had some cool points about LLMs being able to answer things, but not literally understand the physics of the physical world. (Like, being able to explain a task and actually performing it are two completely different things.) But I wanted to get opinions on what others thought of his solution to the problem. Like, if JEPA is genuinely the architectural solution to this, or if we’re just looking for some magic solution that we don't have the tech for yet
 
-🔗 [nebius.science](https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030) • 1h ago
+🔗 [nebius.science](https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030) • 4h ago
+
+---
+
+**[How do you actually keep up with everything in AI?](https://www.reddit.com/r/artificial/comments/1v0yb8z/how_do_you_actually_keep_up_with_everything_in_ai/)**
+
+I don’t know if I’m the only one experiencing this, but I’m struggling to find AI information that is genuinely useful or interesting. I follow a few podcasts and newsletters (around 2 podcasts and 4/5 newsletters focused on AI), but lately it feels like none of them provide any value. These are some of the most popular and widely followed sources, so maybe I’m missing something, but I don’t understand how people keep finding them useful. Many newsletters seem to be AI generated or heavily automated and while I understand why that makes sense from a productivity perspective, the quality feels worse (or there isn't at all). Most of what I read feels repetitive, exaggerated or just empty hype. Most podcasts lose me after 10 minutes because they either repeat the same talking points or spend too much time discussing things without getting to anything meaningful. At this point I’m wondering if is it just me losing interest or has the quality of AI content genuinely gotten worse?
+
+20h ago
 
 ---
 
@@ -117,73 +117,77 @@ So....I read LeCun's interview with Nebius Science. I feel he had some cool poin
 
 ## Google News: "ai"
 
+**[Google Is Building an A.I. Fence Around the Internet It Once Championed](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[Alphabet stock pops on report it's developing a more efficient AI chip](https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html)**
+
+The new AI chip, called "Frozen v2," would embed parts of Gemini's architecture directly into the silicon, according to the report.
+
+CNBC • 1h ago
+
+---
+
+**[Alphabet stock gains on report of next-generation AI chip project](https://finance.yahoo.com/technology/ai/articles/alphabet-stock-gains-report-next-141621968.html)**
+
+Alphabet Inc. (NASDAQ:GOOGL) shares rose 1.
+
+Yahoo Finance • 55m ago
+
+---
+
 **[The secret Trump administration battle to fight Chinese AI](https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi)**
 
-Axios • 3h ago
+Axios • 2h ago
 
 ---
 
-**[AI-altered images on birdwatching forums putting research at risk](https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe)**
+**[China delivers a one-two punch to America’s AI dominance](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen)**
 
-Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists
+Moonshot and Alibaba unveiled frontier models they claim rival OpenAI and Anthropic.
 
-The Guardian • 2h ago
-
----
-
-**[Bristol Myers buys Nvidia's latest AI computing system for drug research](https://www.reuters.com/legal/litigation/bristol-myers-buys-nvidias-latest-ai-computing-system-drug-research-2026-07-20/)**
-
-Reuters • 1h ago
+The Verge • 4h ago
 
 ---
 
-**[Apple’s $4.9 Trillion Victory Flips the Entire AI Narrative](https://www.inc.com/phil-rosen/apple-4-9-trillion-nvidia-ai-chips-stock-market-outlook/91376406)**
+**[As the battle for AI supremacy intensifies, Trump White House reportedly contemplates a ban on Chinese models](https://www.marketwatch.com/story/as-the-battle-for-ai-supremacy-intensifies-trump-white-house-reportedly-contemplates-a-ban-on-chinese-models-c8d9a0a0)**
 
-The compnay just passed Nvidia without playing the AI game everyone else is playing.
-
-inc.com • 1h ago
+MarketWatch • 1h ago
 
 ---
 
-**[Bristol Partners With Nvidia on AI Factory for Drug Development](https://www.bloomberg.com/news/articles/2026-07-20/bristol-partners-with-nvidia-on-ai-factory-for-drug-development?srnd=prognosis)**
+**[Goldman Sachs highlights 3 non-AI trades to make as the market's hottest stocks lose momentum](https://www.businessinsider.com/ai-stocks-alternatives-investing-ideas-consumer-experience-momentum-goldman-sachs-2026-7)**
 
-Bloomberg.com • 20m ago
+The AI trade has stumbled lately, with the hottest stocks seeing the sharpest reversals. Goldman says three non-AI trades are winners amid the rotation.
 
----
-
-**[Microsoft Just Put $2.5 Billion Into Helping You Use AI (And Other AI Business News)](https://www.forbes.com/sites/jodiecook/2026/07/20/microsoft-just-put-25-billion-into-helping-you-use-ai-and-other-ai-business-news/)**
-
-Microsoft just committed $2.5 billion and 6,000 staff to helping companies use AI. Here is what July's biggest AI news means for how you build and sell this year.
-
-Forbes • 31m ago
+Business Insider • 26m ago
 
 ---
 
-**[CuspAI raises $450 million Series B for AI materials discovery](https://qz.com/cuspai-raises-450-million-series-b-ai-materials-foundry-072026)**
+**[Former Microsoft AI Leaders Are Spending $1M To Replace CEOs With AI](https://www.forbes.com/sites/victordey/2026/07/20/former-microsoft-ai-leaders-are-spending-1m-to-prove-ai-can-replace-ceos/)**
 
-The U.K. startup, now valued at $2.6 billion, is directing 80% of its near-term research toward semiconductor materials
+Skyfall AI, from the team behind Microsoft's $160 million Maluuba acquisition, will buy a SaaS company and let AI run it as CEO.
 
-qz.com • 9m ago
-
----
-
-**[Opinion | A.I. Drones Are Coming. We Are Not Ready.](https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html)**
-
-The New York Times • 3h ago
+Forbes • 17m ago
 
 ---
 
-**[The Massive Supply Deals Feeding the AI Frenzy Are No Sure Thing](https://www.wsj.com/finance/the-massive-supply-deals-feeding-the-ai-frenzy-are-no-sure-thing-3a89ec09)**
+**[AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer](https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html)**
 
-WSJ • 3h ago
+AMD is taking aim at Nvidia with Helios, its first AI rack system, and has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.
+
+CNBC • 2h ago
 
 ---
 
-**['Dr. Doom' Nouriel Roubini says we're headed for universal basic income or 'some form of socialism' as AI revolutionizes work—He calls that optimistic](https://fortune.com/2026/07/18/nouriel-roubini-universal-basic-income-socialism-ai-revolution-work-agi-government-stakes/)**
+**[AMD stock surges 5% as Microsoft locks in massive AI infrastructure deal](https://finance.yahoo.com/technology/ai/articles/amd-stock-surges-5-microsoft-133626389.html)**
 
-"Essentially, the government is going to take over some fraction of the big tech firms."
+Investing.com -- Advanced Micro Devices (NASDAQ: AMD) shares jumped 5% on Monday following a high-stakes expansion of its strategic partnership with Microsoft, placing AMD’s next-gen silicon at the heart of Azure’s cloud infrastructure. The centerpiece of the deal is Microsoft’s wide-scale deployment of the AMD Helios Rackscale Solution to drive frontier model AI inference across Azure services and enterprise customer workloads. Helios—an integrated power-rack combining AMD Instinct MI455X GPUs,
 
-Fortune • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,25 +199,19 @@ Fortune • 1d ago
 
 No more AI-edited listings without disclosures.
 
-⬆️ 579 • 💬 262 • 1d ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+⬆️ 583 • 💬 262 • 1d ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 559 • 💬 376 • 2d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
-
----
-
-**[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
-
-⬆️ 483 • 💬 356 • 2d ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 559 • 💬 377 • 2d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 471 • 💬 558 • 2d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 472 • 💬 560 • 2d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -227,7 +225,7 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 414 • 💬 258 • 1d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 421 • 💬 261 • 1d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -235,7 +233,15 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-⬆️ 344 • 💬 197 • 15h ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+⬆️ 350 • 💬 202 • 17h ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+
+---
+
+**[Airport Simulator](https://news.ycombinator.com/item?id=48976846)**
+
+The sky (and your endurance) is the limit!
+
+⬆️ 285 • 💬 75 • 4h ago • [Airport Simulator](https://airport.apunen.com/)
 
 ---
 
@@ -245,7 +251,7 @@ Kimi K3 has received far more love than we expected, and our GPUs are feeling it
 
 Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and
 
-⬆️ 269 • 💬 108 • 20h ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
+⬆️ 274 • 💬 109 • 23h ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
 
 ---
 
@@ -257,11 +263,11 @@ The move is a vote of confidence in Boeing from the U.S. government.
 
 ---
 
-**[AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://news.ycombinator.com/item?id=48947714)**
+**[Airbus Takes Flight from AWS](https://news.ycombinator.com/item?id=48976682)**
 
-We turned zkao (our AI auditor) on OpenVM, a state-of-the-art zkVM, and it found a critical soundness bug: the pairing check accepted a prover-supplied witness without proper subfield checking, which lets a malicious prover forge any pairing equality. It is fixed in OpenVM 1.6.0 and tracked as CVE-2026-46669. This is the second post in our series on bugs our agents found across open source cryptography.
+Which way to the Land of the Free again?
 
-⬆️ 100 • 💬 9 • 2d ago • [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/openvm-bugs/)
+⬆️ 169 • 💬 140 • 4h ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
 
 ---
 
@@ -275,7 +281,57 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 78K • 👍 4K • 💬 748 • ⏱️ 13:51 • 10h ago
+👁️ 89K • 👍 5K • 💬 818 • ⏱️ 13:51 • 13h ago
+
+---
+
+**[The Real Motive Behind Windows 11 AI](https://www.youtube.com/watch?v=hWJRDvQuTDA)**
+
+Ever wonder why Microsoft continues to aggressively shove AI and Copilot into every corner of Windows 11, despite massive ...
+
+📺 CyberCPU Tech
+
+👁️ 1K • 👍 190 • 💬 38 • ⏱️ 16:52 • 1h ago
+
+---
+
+**[Meta’s AI Just Exposed the Whole Sh*tshow](https://www.youtube.com/watch?v=9BArC9Q39MI)**
+
+Meta's AI-powered Ray-Ban glasses could transform everyday life for blind and visually impaired people, translating text, ...
+
+📺 House of El: AI
+
+👁️ 159K • 👍 11K • 💬 3K • ⏱️ 20:09 • 2d ago
+
+---
+
+**[AI Expert WARNS: Mass Job Loss Is Coming By 2027 - Tristan Harris](https://www.youtube.com/watch?v=GSoqVsdkvNA)**
+
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Tristan Harris warns that mass AI ...
+
+📺 Neural Nutshell
+
+👁️ 9K • 👍 227 • 💬 46 • ⏱️ 17:41 • 2d ago
+
+---
+
+**[Urgent Update- AI Sputnik Moment: Kimi K3 Released w/ Emad Mostaque | Ep. 272](https://www.youtube.com/watch?v=pSUyLfirP8Y)**
+
+The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik Moment of Kimi K3 being released. Get access ...
+
+📺 Peter H. Diamandis
+
+👁️ 151K • 👍 5K • 💬 1K • ⏱️ 2:07:31 • 1d ago
+
+---
+
+**[THE AI TRADE Is CRASHING After TSMC Record PROFITS...](https://www.youtube.com/watch?v=SVHTmTfsvRY)**
+
+TSMC just delivered record earnings, yet its stock plunged alongside markets across Asia. What caused investors to sell one of ...
+
+📺 Wall Street Truthbombs
+
+👁️ 34K • 👍 1K • 💬 172 • ⏱️ 9:08 • 2d ago
 
 ---
 
@@ -285,85 +341,37 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 140K • 👍 7K • 💬 2K • ⏱️ 14:15 • 1d ago
+👁️ 142K • 👍 7K • 💬 2K • ⏱️ 14:15 • 2d ago
 
 ---
 
-**[AI Race: Chinese open models just got real..](https://www.youtube.com/watch?v=5UU9bZ4p6Vo)**
+**[Resident Evil Zero Short Film - Live Action - AI Concept](https://www.youtube.com/watch?v=YGAIBTbrMWI)**
 
-Link: https://mem0.ai/?via=caleb CALEB $19 USD off on all payments within the first 3 months AI Race between open vs closed ...
+residentevil #rebeccachambers #actionmovie #residentevilzero Resident Evil Zero Short Film - Live Action - AI Concept This ...
 
-📺 Caleb Writes Code
+📺 Cyber Cat Nap
 
-👁️ 13K • 👍 438 • 💬 75 • ⏱️ 8:40 • 7h ago
-
----
-
-**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
-
-The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
-
-📺 1M65
-
-👁️ 14K • 👍 275 • 💬 72 • ⏱️ 13:38 • 21h ago
+👁️ 34K • 👍 2K • 💬 240 • ⏱️ 15:05 • 16h ago
 
 ---
 
-**[I Tested AI Life Hacks (Again)](https://www.youtube.com/watch?v=ViFTnhp-WAE)**
+**[China just beat Claude AI: Kimi K3](https://www.youtube.com/watch?v=2wDXtzIE7qw)**
 
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+Kimi K3 AI just beat Claude AI at coding. Join my private group https://techleadpro.com Your Community for Crypto, Stocks, ...
 
-📺 Sambucha
+📺 TechLead
 
-👁️ 784K • 👍 60K • 💬 419 • ⏱️ 0:55 • 19h ago
-
----
-
-**[Can An AI Punish You In The Future? 😨](https://www.youtube.com/watch?v=nPqO8z21i5I)**
-
-📺 Zack D. Films
-
-👁️ 1.6M • 👍 128K • 💬 6K • ⏱️ 0:46 • 19h ago
+👁️ 78K • 👍 3K • 💬 520 • ⏱️ 8:08 • 2d ago
 
 ---
 
-**[2033 Predictions: Putin&#39;s End? AI, China &amp; India | PVR Narasimha Rao | Amber Zaidi](https://www.youtube.com/watch?v=k8TM0Lq4oIc)**
+**[‘Most important technology of our lifetimes’: Labor unveils world-first AI standards](https://www.youtube.com/watch?v=xlP098zmdKw)**
 
-What does the future hold for India, Russia, China, the United States, BRICS, artificial intelligence, global markets, and Indian ...
+Assistant Science and Technology Minister Andrew Charlton hails artificial intelligence as a once-in-a-generation technology, ...
 
-📺 Amber Zaidi Official
+📺 Sky News Australia
 
-👁️ 110K • 👍 4K • 💬 256 • ⏱️ 28:31 • 1d ago
-
----
-
-**[China’s AI Shock Is Crashing US Nasdaq Stocks](https://www.youtube.com/watch?v=ggmQ0MZjQMU)**
-
-Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the code: SEANFOO at checkout In a massive move, ...
-
-📺 Sean Foo
-
-👁️ 83K • 👍 5K • 💬 725 • ⏱️ 15:02 • 23h ago
-
----
-
-**[ls America losing control of the AI race?](https://www.youtube.com/watch?v=jv6hBaCtsFg)**
-
-US tech firms have long feared that their Chinese competitors could catch them up in the AI race, but they thought they had more ...
-
-📺 Sky News
-
-👁️ 83K • 👍 2K • 💬 503 • ⏱️ 6:28 • 2d ago
-
----
-
-**[Why AI won&#39;t make you rich in 2026](https://www.youtube.com/watch?v=WttZ6b-KUP4)**
-
-My Scaling Roadmap (free): https://youtu.be/Y1ZR7CI16hY If you're new to my channel, my name is Alex Hormozi. I'm the founder ...
-
-📺 Alex Hormozi
-
-👁️ 119K • 👍 7K • 💬 339 • ⏱️ 9:41 • 1d ago
+👁️ 4K • 👍 64 • 💬 113 • ⏱️ 22:10 • 1d ago
 
 ---
 
@@ -379,7 +387,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,189 • 19h ago
+⬇️ 13,462 • ❤️ 1,205 • 22h ago
 
 ---
 
@@ -391,7 +399,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 338,945 • ❤️ 820 • 2d ago
+⬇️ 338,945 • ❤️ 829 • 2d ago
 
 ---
 
@@ -403,7 +411,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,262,894 • ❤️ 519 • 2d ago
+⬇️ 1,262,894 • ❤️ 524 • 2d ago
 
 ---
 
@@ -415,7 +423,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,122,848 • ❤️ 2,307 • 17d ago
+⬇️ 2,122,848 • ❤️ 2,344 • 17d ago
 
 ---
 
@@ -427,7 +435,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 531,947 • ❤️ 4,193 • 18d ago
+⬇️ 531,947 • ❤️ 4,201 • 18d ago
 
 ---
 
@@ -439,7 +447,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,117,323 • ❤️ 2,358 • 5d ago
+⬇️ 2,117,323 • ❤️ 2,360 • 6d ago
 
 ---
 
@@ -449,7 +457,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 439 • 2d ago
+⬇️ 0 • ❤️ 446 • 2d ago
 
 ---
 
@@ -461,7 +469,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 10,647 • ❤️ 471 • 9d ago
+⬇️ 10,647 • ❤️ 475 • 10d ago
 
 ---
 
@@ -473,7 +481,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,007,025 • ❤️ 2,914 • 3mo ago
+⬇️ 2,007,025 • ❤️ 2,923 • 3mo ago
 
 ---
 
@@ -485,7 +493,7 @@ OvisOCR2 is a compact 0.8B multimodal model for end-to-end document parsing, gen
 
 `image-text-to-text` `853.0M`
 
-⬇️ 14,587 • ❤️ 207 • 4d ago
+⬇️ 14,587 • ❤️ 210 • 4d ago
 
 ---
 
@@ -551,7 +559,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 115 • 💬 4 • ⭐ 93,705 • 18mo ago
+▲ 115 • 💬 4 • ⭐ 93,779 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -570,18 +578,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 18 • 💬 2 • ⭐ 20,965 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
-
----
-
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -595,6 +591,18 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+▲ 18 • 💬 2 • ⭐ 21,003 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
+
+---
+
 **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
 
 *Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
@@ -603,7 +611,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 257 • 💬 4 • ⭐ 13,171 • 1mo ago
+▲ 257 • 💬 4 • ⭐ 13,212 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -641,7 +649,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 228 • 2h ago
+⭐ 3.0k • 🔱 229 • 5h ago
 
 ---
 
@@ -661,7 +669,17 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.4k • 🔱 269 • 11d ago
+⭐ 2.4k • 🔱 269 • 12d ago
+
+---
+
+**[lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)**
+
+Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
+
+`Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
+
+⭐ 993 • 🔱 60 • 6d ago
 
 ---
 
@@ -675,23 +693,13 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 ---
 
-**[lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)**
-
-Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
-
-`Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
-
-⭐ 988 • 🔱 60 • 6d ago
-
----
-
 **[HKUDS/OpenOPC](https://github.com/HKUDS/OpenOPC)**
 
 OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown
 
 `Python`
 
-⭐ 924 • 🔱 148 • 5d ago
+⭐ 926 • 🔱 148 • 5d ago
 
 ---
 
@@ -701,7 +709,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 917 • 🔱 206 • 9d ago
+⭐ 920 • 🔱 207 • 9d ago
 
 ---
 
@@ -709,7 +717,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 898 • 🔱 38 • 19d ago
+⭐ 897 • 🔱 38 • 19d ago
 
 ---
 
@@ -719,7 +727,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 848 • 🔱 97 • 1h ago
+⭐ 850 • 🔱 97 • 4h ago
 
 ---
 

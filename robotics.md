@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-20T12:31:48.674699+00:00'
+updated: '2026-07-20T15:11:47.726214+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 20, 2026 at 12:31 UTC  
+**Last Updated:** July 20, 2026 at 15:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Apple test](https://www.reddit.com/r/robotics/comments/1v0werw/apple_test/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ I'm 15 years old and this is my hexapod project I have been working on for the p
 
 I need to transfer a lot of force through this keyway into a 3d print, and am confused on the intended way to attach to this shaft.
 
-18h ago
+20h ago
 
 ---
 
@@ -58,13 +58,13 @@ I need to transfer a lot of force through this keyway into a 3d print, and am co
 
 I’m building Haga, an independent physics-consistency checker for generated video and robot-policy simulations. An earlier CogVideoX-5b I2V experiment produced a clear failure mode: on a “ball and block fall” prompt, the tracked object stayed airborne with near-zero motion instead of falling. But that first result was post-hoc. I inspected those six clips before adding the static_hover detector, so the original 6/6 flag rate could not be treated as confirmation. I’ve now run a pre-registered held-out test. Method: Model: THUDM/CogVideoX-5b-I2V Cohort: 3 perspectives × seeds 2, 3 and 4 n=9 clips Detector thresholds and inclusion rules frozen before generation RGB → CoTracker3 → position-only VIDEO_CHECKS Discovery seeds 0–1 kept separate from held-out seeds 2–4 Result: Held-out flag rate: 1.000 (9/9) Wilson 95% CI: [0.701, 1.000] All nine clips fired static_hover Real Physics-IQ footage stayed quiet under the same profile static_hover fires when the tracked object remains airborne for most of the clip, has near-zero frame-to-frame speed, and does not exhibit gravitational acceleration. Important limitations: One open I2V model One ball-and-block-fall scene family One documented failure mode Real negative-control n=1 in this specific report Not Cosmos, Genie or NIM Not a broad claim about CogVideoX quality Write-up: https://haga.mushoodhanif.com/article/sim-physics-consistency-v1#held-out Lab: https://haga.mushoodhanif.com/lab/physicsiq Bounded demo: https://haga.mushoodhanif.com/demo I’d especially value criticism on: Which physical violations will position-only tracking systematically miss? Is static_hover defined narrowly enough to avoid confusing intentional suspension with failed dynamics? What public generated-video artifact should I evaluate next under the frozen detector?
 
-19h ago
+21h ago
 
 ---
 
 **[Isaac sim: rosbag replay via rosbrigde](https://www.reddit.com/r/robotics/comments/1v0ue0e/isaac_sim_rosbag_replay_via_rosbrigde/)**
 
-20h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ Robert Scoble says an unnamed investor told him Anthropic is buying robot AI dev
 
 On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
 
-🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 1d ago
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 2d ago
 
 ---
 
@@ -128,11 +128,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[3 E Network's Chip Targets Offline Safety in Eldercare Robots](https://www.stocktitan.net/news/MASK/3-e-network-finalizes-custom-edge-ai-so-c-architecture-for-aladdin-05rqaifsm8et.html)**
+**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
 
-The chip is designed for local sensor processing and privacy isolation, using a few milliwatts in standby; 3 E Network is driving toward tape-out and validation.
+The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
 
-Stock Titan • 41m ago
+The Washington Post • 9m ago
 
 ---
 
@@ -140,7 +140,15 @@ Stock Titan • 41m ago
 
 Chinese BCI firm BrainCo debuts a non-invasive headset allowing users to control humanoid robots and robotic arms using only brain signals.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
+
+---
+
+**[Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)**
+
+Agility is opening a new training center for its Digit robots in Fremont, California.
+
+TechCrunch • 2d ago
 
 ---
 
@@ -152,39 +160,31 @@ New Atlas • 1d ago
 
 ---
 
-**[Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots](https://futurism.com/robots-and-machines/striking-workers-hyundai-korea-humanoid-robots-labor)**
-
-A major Hyundai factory in South Korea is on its knees after negotiations between labor and management broke down last week.
-
-Futurism • 1d ago
-
----
-
 **[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
 
-Reuters • 6h ago
+Reuters • 9h ago
 
 ---
 
-**[The Other Asimov](https://lareviewofbooks.org/article/asimov-robotics-laws-claude-chatbots-consciousness-human-interaction/)**
+**[Students Build and Race Robots at Faraday Future’s Camp](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-5a1793mbshju.html)**
 
-Isaac Asimov’s laws of robotics have influenced AI’s development, but to what end?
+An indication of interest for a pilot order came from a top-20 data company; in Q3, FF plans software for one operator to control multiple robot models.
 
-Los Angeles Review of Books • 23h ago
+Stock Titan • 13h ago
 
 ---
 
-**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+**[This Graduate Student Equips NASA’s Robots With Assembly Skills](https://spectrum.ieee.org/graduate-student-nasas-robots-assembly)**
 
-Your weekly selection of awesome robot videos
+Her algorithm enables robots to install antennas on satellites
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 4d ago
 
 ---
 
 **[Watch ABB Robotics on Business Strategy in China](https://www.bloomberg.com/news/videos/2026-07-20/abb-robotics-on-business-strategy-in-china-video)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -192,23 +192,13 @@ Bloomberg.com • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
-
-America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
-
-📺 S3 | Science, Startups, & Stories
-
-👁️ 25K • 👍 966 • 💬 74 • ⏱️ 14:37 • 1d ago
-
----
-
 **[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
 
 Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
 
 📺 DPCcars
 
-👁️ 26K • 👍 311 • 💬 117 • ⏱️ 4:18 • 1d ago
+👁️ 27K • 👍 329 • 💬 121 • ⏱️ 4:18 • 2d ago
 
 ---
 
@@ -218,7 +208,17 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 15K • 👍 551 • 💬 83 • ⏱️ 13:15 • 1d ago
+👁️ 16K • 👍 570 • 💬 89 • ⏱️ 13:15 • 1d ago
+
+---
+
+**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
+
+America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
+
+📺 S3 | Science, Startups, & Stories
+
+👁️ 26K • 👍 991 • 💬 78 • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -228,7 +228,17 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 14K • 👍 275 • 💬 72 • ⏱️ 13:38 • 21h ago
+👁️ 16K • 👍 307 • 💬 74 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[Meet the robot clothes that dress you](https://www.youtube.com/watch?v=aLmtcrj5gro)**
+
+Researchers at South Korea's KAIST and Stanford University have unveiled clothing embedded with air-powered 'vine' robots that ...
+
+📺 Reuters
+
+👁️ 44K • 👍 404 • 💬 55 • ⏱️ 2:07 • 3d ago
 
 ---
 
@@ -238,7 +248,7 @@ War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Cod
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 387 • 💬 90 • ⏱️ 14:20 • 1d ago
+👁️ 8K • 👍 392 • 💬 95 • ⏱️ 14:20 • 1d ago
 
 ---
 
@@ -252,13 +262,13 @@ A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knocko
 
 ---
 
-**[Meet the robot clothes that dress you](https://www.youtube.com/watch?v=aLmtcrj5gro)**
+**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
 
-Researchers at South Korea's KAIST and Stanford University have unveiled clothing embedded with air-powered 'vine' robots that ...
+This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
 
-📺 Reuters
+📺 Air Photography
 
-👁️ 44K • 👍 392 • 💬 54 • ⏱️ 2:07 • 3d ago
+👁️ 65K • 👍 2K • 💬 189 • ⏱️ 7:15 • 4d ago
 
 ---
 
@@ -268,17 +278,7 @@ Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mond
 
 📺 FlytPath
 
-👁️ 5K • 👍 154 • 💬 19 • ⏱️ 5:19 • 18h ago
-
----
-
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
-
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
-
-📺 Air Photography
-
-👁️ 64K • 👍 2K • 💬 188 • ⏱️ 7:15 • 3d ago
+👁️ 6K • 👍 163 • 💬 20 • ⏱️ 5:19 • 21h ago
 
 ---
 
@@ -288,7 +288,7 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 18K • 👍 132 • 💬 44 • ⏱️ 0:27 • 3d ago
+👁️ 18K • 👍 134 • 💬 44 • ⏱️ 0:27 • 3d ago
 
 ---
 
