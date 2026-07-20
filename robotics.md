@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-20T10:11:43.218974+00:00'
+updated: '2026-07-20T12:31:48.674699+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 20, 2026 at 10:11 UTC  
+**Last Updated:** July 20, 2026 at 12:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Apple test](https://www.reddit.com/r/robotics/comments/1v0werw/apple_test/)**
 
-16h ago
+19h ago
 
 ---
 
@@ -50,7 +50,7 @@ I'm 15 years old and this is my hexapod project I have been working on for the p
 
 I need to transfer a lot of force through this keyway into a 3d print, and am confused on the intended way to attach to this shaft.
 
-15h ago
+18h ago
 
 ---
 
@@ -58,13 +58,13 @@ I need to transfer a lot of force through this keyway into a 3d print, and am co
 
 I’m building Haga, an independent physics-consistency checker for generated video and robot-policy simulations. An earlier CogVideoX-5b I2V experiment produced a clear failure mode: on a “ball and block fall” prompt, the tracked object stayed airborne with near-zero motion instead of falling. But that first result was post-hoc. I inspected those six clips before adding the static_hover detector, so the original 6/6 flag rate could not be treated as confirmation. I’ve now run a pre-registered held-out test. Method: Model: THUDM/CogVideoX-5b-I2V Cohort: 3 perspectives × seeds 2, 3 and 4 n=9 clips Detector thresholds and inclusion rules frozen before generation RGB → CoTracker3 → position-only VIDEO_CHECKS Discovery seeds 0–1 kept separate from held-out seeds 2–4 Result: Held-out flag rate: 1.000 (9/9) Wilson 95% CI: [0.701, 1.000] All nine clips fired static_hover Real Physics-IQ footage stayed quiet under the same profile static_hover fires when the tracked object remains airborne for most of the clip, has near-zero frame-to-frame speed, and does not exhibit gravitational acceleration. Important limitations: One open I2V model One ball-and-block-fall scene family One documented failure mode Real negative-control n=1 in this specific report Not Cosmos, Genie or NIM Not a broad claim about CogVideoX quality Write-up: https://haga.mushoodhanif.com/article/sim-physics-consistency-v1#held-out Lab: https://haga.mushoodhanif.com/lab/physicsiq Bounded demo: https://haga.mushoodhanif.com/demo I’d especially value criticism on: Which physical violations will position-only tracking systematically miss? Is static_hover defined narrowly enough to avoid confusing intentional suspension with failed dynamics? What public generated-video artifact should I evaluate next under the frozen detector?
 
-16h ago
+19h ago
 
 ---
 
 **[Isaac sim: rosbag replay via rosbrigde](https://www.reddit.com/r/robotics/comments/1v0ue0e/isaac_sim_rosbag_replay_via_rosbrigde/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -128,17 +128,41 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Silicon Valley is embracing armed robots. Washington is making room.](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
+**[3 E Network's Chip Targets Offline Safety in Eldercare Robots](https://www.stocktitan.net/news/MASK/3-e-network-finalizes-custom-edge-ai-so-c-architecture-for-aladdin-05rqaifsm8et.html)**
 
-The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
+The chip is designed for local sensor processing and privacy isolation, using a few milliwatts in standby; 3 E Network is driving toward tape-out and validation.
 
-The Washington Post • 1h ago
+Stock Titan • 41m ago
+
+---
+
+**[China unveils brain-to-robot platform that lets people control machines with their thoughts](https://interestingengineering.com/ai-robotics/china-brain-to-robot-platform)**
+
+Chinese BCI firm BrainCo debuts a non-invasive headset allowing users to control humanoid robots and robotic arms using only brain signals.
+
+Interesting Engineering • 23h ago
+
+---
+
+**['World's 1st mass-produced humanoid robot' motors to market in China](https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/)**
+
+People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
+
+New Atlas • 1d ago
+
+---
+
+**[Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots](https://futurism.com/robots-and-machines/striking-workers-hyundai-korea-humanoid-robots-labor)**
+
+A major Hyundai factory in South Korea is on its knees after negotiations between labor and management broke down last week.
+
+Futurism • 1d ago
 
 ---
 
 **[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
 
-Reuters • 4h ago
+Reuters • 6h ago
 
 ---
 
@@ -146,43 +170,21 @@ Reuters • 4h ago
 
 Isaac Asimov’s laws of robotics have influenced AI’s development, but to what end?
 
-Los Angeles Review of Books • 21h ago
+Los Angeles Review of Books • 23h ago
+
+---
+
+**[Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?](https://spectrum.ieee.org/video-friday-robotic-surgery)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 2d ago
 
 ---
 
 **[Watch ABB Robotics on Business Strategy in China](https://www.bloomberg.com/news/videos/2026-07-20/abb-robotics-on-business-strategy-in-china-video)**
 
-Bloomberg.com • 10h ago
-
----
-
-**[This Graduate Student Equips NASA’s Robots With Assembly Skills](https://spectrum.ieee.org/graduate-student-nasas-robots-assembly)**
-
-Her algorithm enables robots to install antennas on satellites
-
-IEEE Spectrum • 4d ago
-
----
-
-**[rStream and Gillette Stadium Partner to Bring AI Robotics to Stadium Waste](https://markets.businessinsider.com/news/stocks/rstream-and-gillette-stadium-partner-to-bring-ai-robotics-to-stadium-waste-1036340355)**
-
-New on-site AI-powered sorting system helps advance waste diversion, operational efficiency, and sustainability after matches and concerts.rStream...
-
-markets.businessinsider.com • 2h ago
-
----
-
-**[To survive China’s cost-conscious market, global brands embrace AI and robots](https://www.scmp.com/business/companies/article/3360989/survive-chinas-cost-conscious-market-global-brands-embrace-ai-and-robots)**
-
-South China Morning Post • 11h ago
-
----
-
-**[Weave Robotics launches Isaac, its first mobile humanoid robot](https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/)**
-
-Weave Robotics has listed the features of its Isaac wheeled bimanual manipulator robot for household and office use.
-
-The Robot Report • 2d ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -196,7 +198,7 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 25K • 👍 958 • 💬 72 • ⏱️ 14:37 • 1d ago
+👁️ 25K • 👍 966 • 💬 74 • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -206,7 +208,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 25K • 👍 304 • 💬 113 • ⏱️ 4:18 • 1d ago
+👁️ 26K • 👍 311 • 💬 117 • ⏱️ 4:18 • 1d ago
 
 ---
 
@@ -216,7 +218,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 15K • 👍 543 • 💬 80 • ⏱️ 13:15 • 1d ago
+👁️ 15K • 👍 551 • 💬 83 • ⏱️ 13:15 • 1d ago
 
 ---
 
@@ -226,17 +228,7 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 13K • 👍 257 • 💬 71 • ⏱️ 13:38 • 19h ago
-
----
-
-**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
-
-Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
-
-📺 Joanna Stern
-
-👁️ 77K • 👍 3K • 💬 252 • ⏱️ 12:02 • 3d ago
+👁️ 14K • 👍 275 • 💬 72 • ⏱️ 13:38 • 21h ago
 
 ---
 
@@ -246,7 +238,7 @@ War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Cod
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 377 • 💬 85 • ⏱️ 14:20 • 23h ago
+👁️ 8K • 👍 387 • 💬 90 • ⏱️ 14:20 • 1d ago
 
 ---
 
@@ -256,17 +248,7 @@ A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knocko
 
 📺 Kalil 4.0
 
-👁️ 9K • 👍 123 • 💬 28 • ⏱️ 9:31 • 2d ago
-
----
-
-**[Unboxing BENI: This 2-Wheeled Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=ytaZ2eR9CR8)**
-
-Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mondorobotics/beni-all-terrain-camera-robot?ref=8ebvkr ...
-
-📺 FlytPath
-
-👁️ 4K • 👍 144 • 💬 19 • ⏱️ 5:19 • 16h ago
+👁️ 9K • 👍 125 • 💬 28 • ⏱️ 9:31 • 2d ago
 
 ---
 
@@ -276,15 +258,37 @@ Researchers at South Korea's KAIST and Stanford University have unveiled clothin
 
 📺 Reuters
 
-👁️ 43K • 👍 383 • 💬 54 • ⏱️ 2:07 • 2d ago
+👁️ 44K • 👍 392 • 💬 54 • ⏱️ 2:07 • 3d ago
 
 ---
 
-**[Lucky find: Unboxing a discarded interactive robot. 🤖#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=haIFkiPBw8w)**
+**[Unboxing BENI: This 2-Wheeled Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=ytaZ2eR9CR8)**
 
-📺 Smarttoy Ruko
+Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mondorobotics/beni-all-terrain-camera-robot?ref=8ebvkr ...
 
-👁️ 32K • 👍 151 • ⏱️ 0:19 • 2d ago
+📺 FlytPath
+
+👁️ 5K • 👍 154 • 💬 19 • ⏱️ 5:19 • 18h ago
+
+---
+
+**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
+
+This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
+
+📺 Air Photography
+
+👁️ 64K • 👍 2K • 💬 188 • ⏱️ 7:15 • 3d ago
+
+---
+
+**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
+
+The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
+
+📺 Job Othoniel
+
+👁️ 18K • 👍 132 • 💬 44 • ⏱️ 0:27 • 3d ago
 
 ---
 

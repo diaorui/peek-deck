@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-20T10:11:43.216345+00:00'
+updated: '2026-07-20T12:31:48.671524+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 10:11 UTC  
+**Last Updated:** July 20, 2026 at 12:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,878.60
+### $1,878.02
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -1.3%  
-**30d:** +9.3%  
-**90d:** -21.4%  
-**1y:** -50.5%  
+**24h:** +0.3%  
+**7d:** -0.7%  
+**30d:** +10.0%  
+**90d:** -20.9%  
+**1y:** -50.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.86B
+**Market Cap:** $226.37B
 Rank #2
 
 **Circulating Supply:** 120,682,825 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.3%
+-62.1%
 
 **All-Time Low:** $0.43
-+430274.2%
++433055.0%
 
 ---
 
@@ -96,7 +96,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams
 
-1d ago
+2d ago
 
 ---
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking](https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking/)**
+
+Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
+
+CryptoSlate • 19h ago
+
+---
+
 **[T. Rowe Price Launches Multi-Crypto ETF Including Bitcoin, Ethereum, and XRP](https://247wallst.com/investing/cryptocurrency/2026/07/17/t-rowe-price-launches-multi-crypto-etf-including-bitcoin-ethereum-and-xrp/)**
 
 T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
@@ -158,27 +166,11 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
-**[Bitcoin and Ethereum see net outflows as select altcoins attract cautious buying amid liquidity shifts](https://pluang.com/en/news-feed/aliran-keluar-kripto-bitcoin-ethereum-dan-aliran-masuk-altcoin-terpilih)**
-
-Bitcoin and Ethereum experienced slight net outflows of $21.5 million and $6.3 million respectively, indicating cautious market sentiment. Meanwhile, some mid- and lower-cap altcoins like BankrCoin and OPN attracted targeted inflows, reflecting selective risk-taking rather than broad market optimism. Stablecoin flows diverged, with USDC showing a notable $44.5 million net outflow, signaling liquidity rotation or withdrawal, while USDT remained near neutral. This pattern suggests investors are managing risk carefully amid ongoing sensitivity to liquidity conditions, with major crypto assets facing distribution and smaller tokens seeing tactical buying.
-
-Pluang • 2h ago
-
----
-
 **[2 Cryptocurrencies Poised to Soar 3,000% or More, According to 1 Top Wall Street Analyst](https://finance.yahoo.com/markets/crypto/articles/2-cryptocurrencies-poised-soar-3-094800978.html)**
 
 If Tom Lee is right, Ethereum could be headed to $250,000 and Bitcoin could be headed to $2 million.
 
-Yahoo Finance • 23m ago
-
----
-
-**[Ethereum breaks $1,820 resistance, eyes $2,500 with strong ETF inflows and whale activity.](https://pluang.com/en/news-feed/harga-ethereum-eth-melonjak-lebih-dari-1820-dolar-aktivitas-whale-dan-inflow-etf)**
-
-Ethereum surged past the critical $1,820 resistance level and is currently trading at $1,867.98, supported by a daily volume of $6.63 billion and a market cap of $225.48 billion. Analysts highlight a bullish setup, expecting a potential rise to $2,500 if support holds, bolstered by $105 million inflows into Ethereum spot ETFs and significant whale wallet activity shifting Bitcoin to leveraged Ethereum longs. Extended targets range from $4,865 to $10,000, contingent on maintaining key support levels and moving average resistance. A drop below $1,510 would signal a possible correction continuation.
-
-Pluang • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -186,15 +178,7 @@ Pluang • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10m ago
-
----
-
-**[Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking](https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking/)**
-
-Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
-
-CryptoSlate • 17h ago
+Fortune • 2h ago
 
 ---
 
@@ -202,7 +186,7 @@ CryptoSlate • 17h ago
 
 Allbridge lost roughly $1.65 million in a cross-chain exploit, with the attacker bridging stolen funds from Solana to Ethereum and swapping into ETH.
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -210,7 +194,7 @@ Crypto Briefing • 7h ago
 
 Jordi Visser expressed his bullish stance on Ethereum, highlighting its potential in the realm of AI and tokenization.
 
-Benzinga • 3h ago
+Benzinga • 5h ago
 
 ---
 
@@ -218,7 +202,7 @@ Benzinga • 3h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are starting the week on a mild constructive note as the broader crypto market attempts to recover. BTC is approaching a key technical hurdle at $65,028, and ETH is holding above the important $1,800 support zone.
 
-FXStreet • 6h ago
+FXStreet • 8h ago
 
 ---
 
@@ -227,6 +211,20 @@ FXStreet • 6h ago
 Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
 
 TradingView • 2d ago
+
+---
+
+**[Crypto ETFs Attract Fresh Inflows as Bitcoin and Ethereum Funds End Week on Positive Note](https://financefeeds.com/crypto-etfs-attract-fresh-inflows-as-bitcoin-and-ethereum-funds-end-week-on-positive-note/)**
+
+FinanceFeeds • 3h ago
+
+---
+
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
+
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
+
+Stocktwits • 3d ago
 
 ---
 
@@ -240,7 +238,7 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 2K • 💬 113 • ⏱️ 17:58 • 8h ago
+👁️ 39K • 👍 3K • 💬 123 • ⏱️ 17:58 • 11h ago
 
 ---
 
@@ -250,7 +248,17 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 171 • 💬 11 • ⏱️ 11:23 • 12h ago
+👁️ 3K • 👍 174 • 💬 23 • ⏱️ 11:23 • 15h ago
+
+---
+
+**[Everyone Hates Ethereum… That’s The Point](https://www.youtube.com/watch?v=9XZNRYVsEcQ)**
+
+In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. It ran to $126000. Right now, Ethereum is down ...
+
+📺 Lark Davis
+
+👁️ 607 • 👍 93 • 💬 7 • ⏱️ 11:56 • 31m ago
 
 ---
 
@@ -260,17 +268,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 103 • 💬 11 • ⏱️ 16:17 • 14h ago
-
----
-
-**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
-
-DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
-
-📺 The Rollup
-
-👁️ 3K • 👍 68 • 💬 90 • ⏱️ 8:46 • 18h ago
+👁️ 3K • 👍 115 • 💬 16 • ⏱️ 16:17 • 17h ago
 
 ---
 
@@ -280,7 +278,17 @@ Bitcoin held a stable weekend after Friday's plunge below the cloud, closing 1.4
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 377 • 💬 50 • ⏱️ 53:29 • 7h ago
+👁️ 5K • 👍 443 • 💬 53 • ⏱️ 53:29 • 9h ago
+
+---
+
+**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
+
+DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
+
+📺 The Rollup
+
+👁️ 4K • 👍 75 • 💬 52 • ⏱️ 8:46 • 21h ago
 
 ---
 
@@ -290,17 +298,7 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 572 • 💬 289 • ⏱️ 30:25 • 1d ago
-
----
-
-**[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
-
-BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 261 • 💬 164 • ⏱️ 22:19 • 13h ago
+👁️ 5K • 👍 576 • 💬 312 • ⏱️ 30:25 • 1d ago
 
 ---
 
@@ -310,7 +308,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 7K • 👍 179 • 💬 156 • ⏱️ 13:08 • 1d ago
+👁️ 7K • 👍 180 • 💬 156 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -324,13 +322,13 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 ---
 
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
+**[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
 
-Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
+BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Gareth Soloway
+📺 Crypto World
 
-👁️ 45K • 👍 3K • 💬 133 • ⏱️ 14:48 • 2d ago
+👁️ 6K • 👍 264 • 💬 238 • ⏱️ 22:19 • 15h ago
 
 ---
 

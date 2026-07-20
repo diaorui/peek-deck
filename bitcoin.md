@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-20T10:11:43.211287+00:00'
+updated: '2026-07-20T12:31:48.665486+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 10:11 UTC  
+**Last Updated:** July 20, 2026 at 12:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,968.79
+### $64,854.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -1.2%  
-**30d:** +1.5%  
-**90d:** -17.9%  
-**1y:** -45.3%  
+**24h:** +0.3%  
+**7d:** -0.5%  
+**30d:** +2.2%  
+**90d:** -17.3%  
+**1y:** -44.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1286.97B
+**Market Cap:** $1296.81B
 Rank #1
 
-**Circulating Supply:** 20,058,887 BTC
+**Circulating Supply:** 20,058,940 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-48.7%
 
 **All-Time Low:** $67.81
-+94518.8%
++95231.1%
 
 ---
 
@@ -97,7 +97,7 @@ I sold every other asset I owned, stopped my pension contributions, took out loa
 
 Well, if it's true that for every lucky one there are 99 who cry... here I am... I lost $50,000 of my savings, plus the pain of all the potential gains if I'd just bought that one instead of that other one, or if I'd just held on for longer. I started in 2022 and I've never managed to hold on. When I saw a 10% loss, that was already a lot; on $50,000, I was down $5... I feel like I've failed, and I'll never recover this loss, in my country it's hard to save $500 in three months. Someone like me who has never managed to chase the bull?
 
-12h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ Remember this post!
 
 Hello everyone, So I got some btc/eth/bnb in a hardware wallet LEDGER. I am thinking what if my pendrive stops working or LEDGER site itself goes bankrupt. How do I recover my coins? You will say "you need to write down your keys", yes yes but HOW do I get my ledger hardware keys?
 
-18h ago
+21h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Should I include bitcoin in my diversified investments or should I stick to blue chip stocks? I’m relatively risk adverse and have at least 25 yrs before retirement. I invested in Russian stocks before and it did not go well… then I invested in Chinese stocks and it plummeted… then I invested in Japanese telecoms and it stayed flat for yrs. The US tech stocks have given stellar returns and I wonder if bitcoin can beat magnificient seven?
 
-23h ago
+1d ago
 
 ---
 
@@ -165,7 +165,7 @@ Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average
 
 Bitcoin bull Michael Saylor is coming out against BIP 110, warning that the "Reduced Data" proposal is a risky attempt to regulate the blockchain. Discover why Saylor believe this "cure" for network spam is more dangerous than the problem itself.
 
-CoinDesk • 18h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -173,13 +173,23 @@ CoinDesk • 18h ago
 
 Bitcoin could be headed for a $27.9 trillion game-changer...
 
-Forbes • 22h ago
+Forbes • 1d ago
 
 ---
 
-**[‘Wild West’ of Untested Peptides Has Americans Paying in Crypto to Get Their Fix](https://www.bloomberg.com/news/features/2026-07-20/bitcoin-is-becoming-the-preferred-payment-method-for-buying-peptides-online)**
+**[🚨𝗝𝗨𝗦𝗧 𝗜𝗡: Bitcoin hits $65,000](https://www.moomoo.com/community/feed/bitcoin-hits-65-000-116952222990341)**
 
-Bloomberg.com • 26m ago
+@DustyBC Crypto 1293 Views
+
+Moomoo • 23m ago
+
+---
+
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-116952160337926)**
+
+@106895930 2851 Views
+
+Moomoo • 39m ago
 
 ---
 
@@ -191,7 +201,19 @@ Scott Melker discusses where the currency prospects of bitcoin (BTC-USD) histori
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[Bitcoin ETFs Log Second Week of Inflows, Breaking Two-Month Rout](https://www.bloomberg.com/news/articles/2026-07-20/bitcoin-etfs-log-second-week-of-inflows-breaking-two-month-rout)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[Bitcoin down slightly to $64k with Iran tensions, rate jitters in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-down-slightly-to-64k-with-iran-tensions-rate-jitters-in-focus-4799865)**
+
+Investing.com • 5h ago
 
 ---
 
@@ -199,7 +221,7 @@ Yahoo Finance • 16h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 11m ago
+Fortune • 1h ago
 
 ---
 
@@ -207,37 +229,15 @@ Fortune • 11m ago
 
 Bitcoin will thrive, regardless of what happens to the CLARITY Act.
 
-The Motley Fool • 16h ago
+The Motley Fool • 18h ago
 
 ---
 
-**[Bitcoin recovers toward $65k after sliding on AI shock, crypto bill doubts](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577)**
+**[Strategy makes no bitcoin acquisitions for second week in a row (MSTR:NASDAQ)](https://seekingalpha.com/news/4615223-strategy-makes-no-bitcoin-acquisitions-for-second-week-in-a-row)**
 
-Investing.com • 2d ago
+For the second week in a row, Strategy (MSTR) neither bought nor sold any bitcoin (BTC-USD) during the period of July 13 to July 19.
 
----
-
-**[Treasuries are amplifying market selloffs and Bitcoin is paying the price](https://cryptoslate.com/treasuries-are-amplifying-market-selloffs-and-bitcoin-is-paying-the-price/)**
-
-Why long Treasury bonds and Bitcoin now fall together, and what would have to change for the bond market to become a hedge again.
-
-CryptoSlate • 19h ago
-
----
-
-**[Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some](https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some)**
-
-A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.
-
-The Block • 1d ago
-
----
-
-**[Gold And Bitcoin Are 2026's Worst Assets Despite Active War — Market Strategist Says It's 'Something We Haven't Seen Before'](https://stocktwits.com/news-articles/markets/equity/gold-and-bitcoin-are-2026-s-worst-assets-despite-active-war-market-strategist-says-it-s-something-we-haven-t-seen-before/cZZLtqwR7Mt)**
-
-Bitcoin and gold were the worst-performing assets in 2026 amid growing macroeconomic volatility and capital rotation into AI names.
-
-Stocktwits • 2d ago
+Seeking Alpha • 6m ago
 
 ---
 
@@ -277,7 +277,17 @@ The biggest advantage Bitcoin has isn't price, it's verification. As governments
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 119 • ⏱️ 15:42 • 12h ago
+👁️ 21K • 👍 1K • 💬 146 • ⏱️ 15:42 • 14h ago
+
+---
+
+**[Bitcoin: A Time To Buy  (Two Scenarios)](https://www.youtube.com/watch?v=ghHD63SK1HY)**
+
+August is right around the corner and that means BIG moves coming up (Clarity, SpaceX unlocks, Usually mini-rally). But here is ...
+
+📺 Digital Asset News
+
+👁️ 9K • 👍 511 • 💬 36 • ⏱️ 29:49 • 1d ago
 
 ---
 
@@ -291,23 +301,13 @@ Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance
 
 ---
 
-**[Bitcoin: A Time To Buy  (Two Scenarios)](https://www.youtube.com/watch?v=ghHD63SK1HY)**
-
-August is right around the corner and that means BIG moves coming up (Clarity, SpaceX unlocks, Usually mini-rally). But here is ...
-
-📺 Digital Asset News
-
-👁️ 9K • 👍 510 • 💬 35 • ⏱️ 29:49 • 1d ago
-
----
-
 **[$10M Bitcoin Signal - They Still Don’t Get It](https://www.youtube.com/watch?v=kRcFxyFrVYE)**
 
 Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: https://tangem.com/invite/ALERTS Michael ...
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 226 • 💬 86 • ⏱️ 18:50 • 1d ago
+👁️ 4K • 👍 228 • 💬 84 • ⏱️ 18:50 • 1d ago
 
 ---
 
@@ -317,7 +317,7 @@ WEEKLY REPORTS → https://link.tiainvestor.com/jyt-reports ➡ 18-YEAR CYCLE MI
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 722 • 💬 48 • ⏱️ 27:52 • 7h ago
+👁️ 13K • 👍 827 • 💬 61 • ⏱️ 27:52 • 10h ago
 
 ---
 
@@ -327,7 +327,35 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 273 • 💬 140 • ⏱️ 18:15 • 11h ago
+👁️ 5K • 👍 285 • 💬 226 • ⏱️ 18:15 • 14h ago
+
+---
+
+**[CAUTION: This Is Getting Dangerous For Bitcoin Bulls! [3 Reasons Why]](https://www.youtube.com/watch?v=QR8mCqrIx74)**
+
+In today's video, Kyledoops outlines why it's getting serious for bitcoin bulls and the 3 underlying reasons why prices could slide ...
+
+📺 Crypto Banter
+
+👁️ 7K • 👍 827 • 💬 6 • ⏱️ 37:27 • 4h ago
+
+---
+
+**[A BIG BITCOIN CRASH IS COMING...](https://www.youtube.com/watch?v=OE3GVlKIzPY)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 5K • 👍 636 • 💬 152 • ⏱️ 9:04 • 6h ago
+
+---
+
+**[INSANE CLARITY ACT DRAMA! AI BOOM STILL EARLY Bitcoin and Tech Stocks BLEEDING #bitcoin #ai #crypto](https://www.youtube.com/watch?v=pnfoGo3UCEg)**
+
+📺 CryptoWendyO
+
+👁️ 19K • 👍 1K • 💬 82 • ⏱️ 2:04 • 2d ago
 
 ---
 
@@ -337,35 +365,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 30K • 👍 2K • 💬 105 • ⏱️ 41:47 • 14h ago
-
----
-
-**[The Bitcoin Mortgage Hack That Changes Everything - CJ Konstantinos](https://www.youtube.com/watch?v=wm0VlIjJ4T0)**
-
-Bitcoin #Crypto #finance In this episode, CJ Konstantinos explains how People's Reserve is rethinking lending by treating Bitcoin ...
-
-📺 The Wolf Of All Streets
-
-👁️ 6K • 👍 298 • 💬 297 • ⏱️ 1:20:02 • 21h ago
-
----
-
-**[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
-
-BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 261 • 💬 164 • ⏱️ 22:19 • 13h ago
-
----
-
-**[INSANE CLARITY ACT DRAMA! AI BOOM STILL EARLY Bitcoin and Tech Stocks BLEEDING #bitcoin #ai #crypto](https://www.youtube.com/watch?v=pnfoGo3UCEg)**
-
-📺 CryptoWendyO
-
-👁️ 19K • 👍 1K • 💬 77 • ⏱️ 2:04 • 2d ago
+👁️ 32K • 👍 2K • 💬 109 • ⏱️ 41:47 • 16h ago
 
 ---
 
