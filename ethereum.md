@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-20T03:46:58.567619+00:00'
+updated: '2026-07-20T06:46:44.958153+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 03:46 UTC  
+**Last Updated:** July 20, 2026 at 06:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -0.6%  
-**30d:** +10.1%  
-**90d:** -20.8%  
-**1y:** -50.1%  
+**24h:** -1.2%  
+**7d:** -2.4%  
+**30d:** +8.1%  
+**90d:** -22.2%  
+**1y:** -51.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.67B
+**Market Cap:** $222.79B
 Rank #2
 
 **Circulating Supply:** 120,682,825 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-62.7%
 
 **All-Time Low:** $0.43
-+433660.1%
++426396.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.
 
-🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 19h ago
+🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 22h ago
 
 ---
 
@@ -80,7 +80,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Two months ago I posted here after analyzing 78,723 Ethereum token contracts and
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -142,7 +142,7 @@ Has anyone sent WETH to Robinhood and successfully gotten it back? I’m aware I
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -158,25 +158,25 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
+**[BitMine aims to hold 5% of Ethereum, positionin...](https://pluang.com/en/news-feed/bitmine-target-5-persen-pasokan-ethereum-posisikan-eth-sebagai-penyangga-ekonomi)**
+
+BitMine Immersion Technologies announced it currently holds 4.8% of Ethereum's total supply and is close to reaching its 5% target within 12 months. The company views Ethereum as a key financial infrastructure and hedge against economic instability driven by AI advancements. BitMine highlights Ethereum's role at the intersection of blockchain adoption by Wall Street and the rise of autonomous AI agents, expecting these trends to boost institutional demand for ETH. Despite current market headwinds, BitMine remains optimistic about Ethereum's long-term value and its strategic treasury accumulation as part of the next crypto upcycle.
+
+Pluang • 1h ago
+
+---
+
 **[Bitcoin, Ethereum, XRP, Dogecoin Stay Flat Amid Iran Tensions—Analyst Says This BTC Level Could Ignite 'Sustained Bull Trend'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-stay-021041573.html)**
 
 Leading cryptocurrencies moved sideways on Sunday as U.S. strikes on Iran continued into their “ninth consecutive night.” Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.03%$64,703.37Ethereum (CRYPTO: ETH) +0.78%$1,872.63XRP (CRYPTO: XRP) +0.48%$1.09Solana (CRYPTO: SOL) +1.40%$76.59Dogecoin (CRYPTO: DOGE) +0.11%$0.07249 Crypto Market Coagulates Bitcoin hovered between $64,000 and the low $65,000 range, even as trading volume surged 12% over the past 24 hou
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Abraxas Capital increases Bitcoin and Ethereum shorts to $111M, signaling cautious market stance.](https://pluang.com/en/news-feed/abraxas-capital-tambah-posisi-short-btc-eth-111juta)**
+**[Ethereum spot ETFs see $105M inflows, best week since April, led by BlackRock's ETHA fund](https://pluang.com/en/news-feed/etf-spot-ethereum-aliran-dana-bersih-terbaik-sejak-april)**
 
-Abraxas Capital has significantly raised its short positions on Bitcoin and Ethereum to a combined value of approximately $111 million, according to on-chain data. This move indicates a cautious or bearish stance on the two largest cryptocurrencies, which often influence overall market sentiment. While the increase in shorts may reflect a hedge or negative outlook, it does not guarantee a price drop. Market participants are watching closely as such large bets can impact trading strategies and risk assessments.
-
-Pluang • 3h ago
-
----
-
-**[Allbridge bridge hacked for $1.65M, funds moved from Solana to Ethereum and swapped to ETH](https://pluang.com/en/news-feed/allbridge-dirusak-2juta-dana-dipindahkan-dari-solana-ke-ethereum)**
-
-Allbridge, a cross-chain bridge protocol for stablecoins, was exploited by an attacker who stole about $1.65 million. The attacker moved the stolen funds from the Solana blockchain to Ethereum and converted them into ETH. This follows previous security issues for Allbridge, including a 2023 flash-loan attack. The incident highlights ongoing risks in cross-chain bridges, and monitoring the attacker’s wallet movements could signal potential recovery or freezing of funds.
+Ethereum spot ETFs recorded $105 million in net inflows during the week of July 13-17, marking their strongest weekly performance since April 2026. This follows an $84 million inflow the previous week that ended an eight-week streak of outflows. BlackRock's iShares Ethereum Trust ETF (ETHA) has been the main driver of this renewed institutional interest. The inflows suggest growing buy pressure supporting Ethereum's price around the $1,800 level, which is now a key support zone. However, the category's health depends heavily on ETHA, and a slowdown in its flows could reverse the positive trend.
 
 Pluang • 1h ago
 
@@ -186,7 +186,7 @@ Pluang • 1h ago
 
 Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
 
-CryptoSlate • 10h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -194,7 +194,15 @@ CryptoSlate • 10h ago
 
 Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
 
-The Motley Fool • 21h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH defends key support, XRP recovery stays on track](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-defends-key-support-xrp-recovery-stays-on-track-202607200341)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are starting the week on a mild constructive note as the broader crypto market attempts to recover. BTC is approaching a key technical hurdle at $65,028, and ETH is holding above the important $1,800 support zone.
+
+FXStreet • 3h ago
 
 ---
 
@@ -202,7 +210,7 @@ The Motley Fool • 21h ago
 
 Ethereum's largest wallets hold more than 82% of the supply tracked across the network's top 12 addresses, according to onchain data reviewed by
 
-Bitcoin News • 5h ago
+Bitcoin News • 8h ago
 
 ---
 
@@ -222,14 +230,6 @@ Decrypt • 3d ago
 
 ---
 
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
-
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
-
-Stocktwits • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -240,7 +240,7 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 4K • 👍 969 • 💬 61 • ⏱️ 17:58 • 2h ago
+👁️ 19K • 👍 2K • 💬 96 • ⏱️ 17:58 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 153 • 💬 9 • ⏱️ 11:23 • 6h ago
+👁️ 2K • 👍 164 • 💬 10 • ⏱️ 11:23 • 9h ago
 
 ---
 
@@ -260,7 +260,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 90 • 💬 12 • ⏱️ 16:17 • 8h ago
+👁️ 2K • 👍 96 • 💬 10 • ⏱️ 16:17 • 11h ago
 
 ---
 
@@ -270,17 +270,7 @@ DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cyc
 
 📺 The Rollup
 
-👁️ 3K • 👍 58 • 💬 75 • ⏱️ 8:46 • 12h ago
-
----
-
-**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
-
-You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 563 • 💬 214 • ⏱️ 30:25 • 17h ago
+👁️ 3K • 👍 65 • 💬 76 • ⏱️ 8:46 • 15h ago
 
 ---
 
@@ -294,13 +284,13 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 ---
 
-**[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
+**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
 
-BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
 
-📺 Crypto World
+📺 The Modern Investor
 
-👁️ 4K • 👍 232 • 💬 44 • ⏱️ 22:19 • 6h ago
+👁️ 5K • 👍 567 • 💬 250 • ⏱️ 30:25 • 20h ago
 
 ---
 
@@ -310,17 +300,27 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 7K • 👍 173 • 💬 156 • ⏱️ 13:08 • 1d ago
+👁️ 7K • 👍 174 • 💬 156 • ⏱️ 13:08 • 1d ago
 
 ---
 
-**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
+**[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
 
-In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
+BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 5K • 👍 268 • 💬 32 • ⏱️ 6:22 • 1d ago
+👁️ 5K • 👍 250 • 💬 50 • ⏱️ 22:19 • 9h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=EP9qCItSQR0)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 418 • 👍 60 • ⏱️ 7:47 • 3h ago
 
 ---
 
@@ -330,7 +330,7 @@ Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxl
 
 📺 Gareth Soloway
 
-👁️ 44K • 👍 3K • 💬 116 • ⏱️ 14:48 • 2d ago
+👁️ 45K • 👍 3K • 💬 116 • ⏱️ 14:48 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-20T03:46:58.561571+00:00'
+updated: '2026-07-20T06:46:44.952091+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 03:46 UTC  
+**Last Updated:** July 20, 2026 at 06:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,33 +44,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.2%  
-**30d:** +2.5%  
-**90d:** -17.0%  
-**1y:** -44.7%  
+**24h:** -1.3%  
+**7d:** -1.8%  
+**30d:** +0.9%  
+**90d:** -18.3%  
+**1y:** -45.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1300.47B
+**Market Cap:** $1279.33B
 Rank #1
 
-**Circulating Supply:** 20,058,756 BTC
+**Circulating Supply:** 20,058,809 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.6%
+-49.4%
 
 **All-Time Low:** $67.81
-+95514.2%
++93936.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 28
+### 29
 **FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 This is it, guys. I've been in this crypto market since 2016, through all the Bears and Bulls. And I'm saying this with the highest confidence: THIS IS IT. This is what we've been waiting for. And it has arrived. So, stop acting gloomy. Max your confidence. Pull that DCA amount to the MAX and enjoy another bull run in the next 3 years.
 
-21h ago
+1d ago
 
 ---
 
@@ -97,7 +97,7 @@ I sold every other asset I owned, stopped my pension contributions, took out loa
 
 Well, if it's true that for every lucky one there are 99 who cry... here I am... I lost $50,000 of my savings, plus the pain of all the potential gains if I'd just bought that one instead of that other one, or if I'd just held on for longer. I started in 2022 and I've never managed to hold on. When I saw a 10% loss, that was already a lot; on $50,000, I was down $5... I feel like I've failed, and I'll never recover this loss, in my country it's hard to save $500 in three months. Someone like me who has never managed to chase the bull?
 
-6h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ Remember this post!
 
 Hello everyone, So I got some btc/eth/bnb in a hardware wallet LEDGER. I am thinking what if my pendrive stops working or LEDGER site itself goes bankrupt. How do I recover my coins? You will say "you need to write down your keys", yes yes but HOW do I get my ledger hardware keys?
 
-12h ago
+15h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Bitcoin Runs project reaches Germany for the first time! This GPS art run tr
 
 Been holding for a few years now and something shifted recently-I just... stopped checking the price constantly. Used to open the app first thing in the morning, now I genuinely go weeks without looking, and when I do check it's more out of curiosity than anxiety. Didn't consciously decide to do this, it just kind of happened once I mentally filed it as long term thing I'm not touching instead of thing I need to monitor. Weirdly freeing compared to how I used to feel about it, checking constantly and letting the daily swings mess with my mood. Anyone else go through this shift? How long did it take before you stopped checking obsessively, and did something specific trigger it or did it just gradually fade on its own?
 
-21h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ Been holding for a few years now and something shifted recently-I just... stoppe
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-21h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Should I include bitcoin in my diversified investments or should I stick to blue chip stocks? I’m relatively risk adverse and have at least 25 yrs before retirement. I invested in Russian stocks before and it did not go well… then I invested in Chinese stocks and it plummeted… then I invested in Japanese telecoms and it stayed flat for yrs. The US tech stocks have given stellar returns and I wonder if bitcoin can beat magnificient seven?
 
-16h ago
+19h ago
 
 ---
 
@@ -165,7 +165,7 @@ Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average
 
 Bitcoin bull Michael Saylor is coming out against BIP 110, warning that the "Reduced Data" proposal is a risky attempt to regulate the blockchain. Discover why Saylor believe this "cure" for network spam is more dangerous than the problem itself.
 
-CoinDesk • 12h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -173,27 +173,25 @@ CoinDesk • 12h ago
 
 Bitcoin could be headed for a $27.9 trillion game-changer...
 
-Forbes • 16h ago
+Forbes • 21m ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Stay Flat Amid Iran Tensions—Analyst Says This BTC Level Could Ignite 'Sustained Bull Trend'](https://sg.finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-stay-021041573.html)**
+**[Bitcoin ETFs Log Second Week of Inflows, Breaking Two-Month Rout](https://www.bloomberg.com/news/articles/2026-07-20/bitcoin-etfs-log-second-week-of-inflows-breaking-two-month-rout)**
 
-Leading cryptocurrencies moved sideways on Sunday as U.S. strikes on Iran continued into their “ninth consecutive night.” Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.03%$64,703.37Ethereum (CRYPTO: ETH) +0.78%$1,872.63XRP (CRYPTO: XRP) +0.48%$1.09Solana (CRYPTO: SOL) +1.40%$76.59Dogecoin (CRYPTO: DOGE) +0.11%$0.07249 Crypto Market Coagulates Bitcoin hovered between $64,000 and the low $65,000 range, even as trading volume surged 12% over the past 24 hou
-
-Yahoo Finance Singapore • 1h ago
+Bloomberg.com • 58m ago
 
 ---
 
-**[Bitcoin Rises Amid Supportive Macro Environment -- Market Talk](https://www.moomoo.com/news/post/73190885/bitcoin-rises-amid-supportive-macro-environment-market-talk)**
+**[Bitcoin Nears $65K as SecState Marco Rubio Says US Still Open to Negotiating with Iran](https://finance.yahoo.com/markets/crypto/articles/bitcoin-nears-65k-secstate-marco-051323767.html)**
 
-Moomoo • 56m ago
+Bitcoin (BTC) jumps towards $65K on Monday despite the US-Iran war escalating amid new strikes. The positive sentiment comes as Secretary of State Marco Rubio says the US remains open to a diplomatic resolution with Iran. Ad Ad Secretary of State Marco Rubio Reveals US Openness for Iran Talks The Central Command confirmed another wave
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[Crypto Weekly Digest | Bitcoin Holds $65K; South Korea Eyes BTC ETF Approval; Ostium Loses $24M in Exploit](https://www.moomoo.com/community/feed/116949946335238)**
-
-Market Summary $Bitcoin (BTC.CC)$ rose 1.37% over the past week to $64,891, trading within a $63,000-$65,000 range. US spot ETFs recorded four consecutive days of inflows totaling $75.5 million weekly, with BlackRock's $iShares Bitcoin Trust (IBIT.US)$ contributing $136.5 million on Friday alone, signaling continued institutional accumulation. A whale address added another 1,001 BTC, while ...
+**[Bitcoin Flat Near $64,000 as Oil Hits a One-month High and Kimi AI Selloff Lingers](https://www.moomoo.com/news/post/73195994/bitcoin-flat-near-64000-as-oil-hits-a-one-month)**
 
 Moomoo • 1h ago
 
@@ -209,7 +207,7 @@ WSJ • 3d ago
 
 Bitcoin will thrive, regardless of what happens to the CLARITY Act.
 
-The Motley Fool • 10h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -223,13 +221,15 @@ The Block • 1d ago
 
 **[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
 
-Investing.com • 6h ago
+Investing.com • 9h ago
 
 ---
 
-**[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
+**[Treasuries are amplifying market selloffs and Bitcoin is paying the price](https://cryptoslate.com/treasuries-are-amplifying-market-selloffs-and-bitcoin-is-paying-the-price/)**
 
-Bloomberg.com • 2d ago
+Why long Treasury bonds and Bitcoin now fall together, and what would have to change for the bond market to become a hedge again.
+
+CryptoSlate • 16h ago
 
 ---
 
@@ -263,7 +263,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
 
-⬆️ 2 • 💬 0 • 20h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 2 • 💬 0 • 23h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
@@ -277,27 +277,7 @@ The biggest advantage Bitcoin has isn't price, it's verification. As governments
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 62 • ⏱️ 15:42 • 5h ago
-
----
-
-**[Bitcoin: A Time To Buy  (Two Scenarios)](https://www.youtube.com/watch?v=ghHD63SK1HY)**
-
-August is right around the corner and that means BIG moves coming up (Clarity, SpaceX unlocks, Usually mini-rally). But here is ...
-
-📺 Digital Asset News
-
-👁️ 9K • 👍 506 • 💬 34 • ⏱️ 29:49 • 1d ago
-
----
-
-**[$10M Bitcoin Signal - They Still Don’t Get It](https://www.youtube.com/watch?v=kRcFxyFrVYE)**
-
-Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: https://tangem.com/invite/ALERTS Michael ...
-
-📺 Bitcoin News Alerts
-
-👁️ 4K • 👍 222 • 💬 81 • ⏱️ 18:50 • 1d ago
+👁️ 16K • 👍 1K • 💬 75 • ⏱️ 15:42 • 8h ago
 
 ---
 
@@ -307,27 +287,47 @@ Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 83 • ⏱️ 31:29 • 1d ago
+👁️ 32K • 👍 1K • 💬 83 • ⏱️ 31:29 • 1d ago
 
 ---
 
-**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
+**[Bitcoin: A Time To Buy  (Two Scenarios)](https://www.youtube.com/watch?v=ghHD63SK1HY)**
 
-Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
-
-📺 Prof G Markets
-
-👁️ 43K • 👍 506 • 💬 171 • ⏱️ 1:42 • 2d ago
-
----
-
-**[Massive Companies Invest In Bitcoin &amp; Crypto = Going To ZERO!?](https://www.youtube.com/watch?v=j9G7xxqUvdU)**
-
-If Bitcoin and crypto is going to zero then why are so many MASSIVE companies investing in the space? ARe they INSANE??! No ...
+August is right around the corner and that means BIG moves coming up (Clarity, SpaceX unlocks, Usually mini-rally). But here is ...
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 514 • 💬 43 • ⏱️ 27:00 • 2d ago
+👁️ 9K • 👍 511 • 💬 34 • ⏱️ 29:49 • 1d ago
+
+---
+
+**[🚨 BTC Bottom, AI Risk, SpaceX Options, Van Life &amp; The Truck Truth!](https://www.youtube.com/watch?v=DKr1dq87Kko)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 26K • 👍 2K • 💬 98 • ⏱️ 41:47 • 10h ago
+
+---
+
+**[$10M Bitcoin Signal - They Still Don’t Get It](https://www.youtube.com/watch?v=kRcFxyFrVYE)**
+
+Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: https://tangem.com/invite/ALERTS Michael ...
+
+📺 Bitcoin News Alerts
+
+👁️ 4K • 👍 222 • 💬 82 • ⏱️ 18:50 • 1d ago
+
+---
+
+**[Trump Just Triggered The 1,000,000 Bitcoin Arms Race](https://www.youtube.com/watch?v=ruGfpdP5PoA)**
+
+Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: https://tangem.com/invite/ALERTS What ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 248 • 💬 69 • ⏱️ 18:15 • 8h ago
 
 ---
 
@@ -337,37 +337,37 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 47K • 👍 2K • 💬 58 • ⏱️ 50:17 • 1d ago
+👁️ 48K • 👍 2K • 💬 58 • ⏱️ 50:17 • 1d ago
 
 ---
 
-**[Peter L. Brandt - Where Is Bitcoin Headed Next? | Trade Secrets Show](https://www.youtube.com/watch?v=ow-n3PkAUN4)**
+**[Gold, EURUSD &amp; Bitcoin Traders: Don’t Fall for the Dollar Trap | Weekly SMC Outlook](https://www.youtube.com/watch?v=c3WNPJqCS8c)**
 
-Veteran trader Peter Brandt believes Bitcoin's bear market is far from over. Trade Secrets is made for X — but now you can watch ...
+Gold, Silver, EURUSD, GBPUSD, DXY, WTI, Bitcoin and more. IC Markets Bonuses Up To $26k: ...
 
-📺 Cointelegraph
+📺 Justin Bennett
 
-👁️ 7K • 👍 264 • 💬 124 • ⏱️ 32:12 • 1d ago
-
----
-
-**[Top 14 Crypto Coins… READY TO EXPLODE!!](https://www.youtube.com/watch?v=nWDaD26YHtg)**
-
-14 Crypto Coins That Can STILL Make You RICH? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 9K • 👍 802 • 💬 140 • ⏱️ 16:51 • 5h ago
+👁️ 20K • 👍 1K • 💬 212 • ⏱️ 21:25 • 1d ago
 
 ---
 
-**[Why Scott Melker Is Aggressively Buying Bitcoin](https://www.youtube.com/watch?v=6aFYwZy24e8)**
+**[Hummingbird: The Bitcoin Jungle Story | FULL MOVIE | Documentary](https://www.youtube.com/watch?v=63WbA7slCdg)**
 
-Is Bitcoin already forming a bottom — or is the worst still ahead? Scott Melker joins Cointelegraph to explain why the current ...
+"Hummingbird: The Bitcoin Jungle Story" explores the origins of an organic farmer's market in Uvita, Costa Rica, weaving together ...
 
-📺 Cointelegraph
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 346 • 💬 141 • ⏱️ 26:17 • 2d ago
+👁️ 11K • 👍 706 • 💬 175 • ⏱️ 1:16:14 • 1d ago
+
+---
+
+**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
+
+Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
+
+📺 Prof G Markets
+
+👁️ 43K • 👍 514 • 💬 172 • ⏱️ 1:42 • 2d ago
 
 ---
 
