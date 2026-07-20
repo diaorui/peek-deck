@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-20T18:53:09.400395+00:00'
+updated: '2026-07-20T20:21:15.618894+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 18:53 UTC  
+**Last Updated:** July 20, 2026 at 20:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,900.00
+### $1,896.19
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +2.2%  
-**7d:** +0.5%  
-**30d:** +11.3%  
+**7d:** +0.6%  
+**30d:** +11.4%  
 **90d:** -19.9%  
-**1y:** -49.6%  
+**1y:** -49.5%  
 
 ---
 
@@ -68,11 +68,41 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion July 20, 2026](https://www.reddit.com/r/ethereum/comments/1v1bykh/daily_general_discussion_july_20_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+15h ago
+
+---
+
+**[Looking for recommendations for a home server for an evm blockchain node/validator](https://www.reddit.com/r/ethereum/comments/1v13xwa/looking_for_recommendations_for_a_home_server_for/)**
+
+21h ago
+
+---
+
 **[Quantum Computers Are Not a Threat to 128-bit Symmetric Keys](https://www.reddit.com/r/ethereum/comments/1v0klnd/quantum_computers_are_not_a_threat_to_128bit/)**
 
 There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.
 
 🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 1d ago
+
+---
+
+**[Why I don't want to move back to banks](https://www.reddit.com/r/ethereum/comments/1v1iduk/why_i_dont_want_to_move_back_to_banks/)**
+
+The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
+
+9h ago
+
+---
+
+**[Does anyone else find it difficult to use cryptocurrency for everyday purchases?](https://www.reddit.com/r/ethereum/comments/1v1ofyl/does_anyone_else_find_it_difficult_to_use/)**
+
+As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
+
+5h ago
 
 ---
 
@@ -94,7 +124,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 **[76% of Ethereum tokens launched in the last 2 months are scams (we re-ran our 78k-token study)](https://www.reddit.com/r/ethereum/comments/1uzu32m/76_of_ethereum_tokens_launched_in_the_last_2/)**
 
-Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams
+Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams EDIT: a few of you asked the right question, so i went and pulled it. how much of this 76% is detectable AT LAUNCH vs only later? tracking the same 24,150 launches from deploy to day 30: 48% score as scams at launch, 91% by day 30. 43% are late rugs (clean at launch, scam within a month). and 76% of the flagged ones actually got traded vs 67% of legit deploys that never trade. full writeup + chart: https://rektradar.io/blog/posts/how-many-ethereum-scams-detectable-at-launch
 
 2d ago
 
@@ -110,39 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
 
-1d ago
-
----
-
-**[Daily General Discussion July 17, 2026](https://www.reddit.com/r/ethereum/comments/1uyq38m/daily_general_discussion_july_17_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Ethereal news weekly #31 | glamsterdam-devnet-7 open for app developer testing, EthSystems launched, Devcon 8 tickets](https://www.reddit.com/r/ethereum/comments/1uytlfw/ethereal_news_weekly_31_glamsterdamdevnet7_open/)**
-
-glamsterdam-devnet-7 open for app developer testing, EthSystems launched, Devcon 8 tickets
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-31/) • 3d ago
-
----
-
-**[WETH retrieval](https://www.reddit.com/r/ethereum/comments/1uz2vr8/weth_retrieval/)**
-
-Has anyone sent WETH to Robinhood and successfully gotten it back? I’m aware I shouldn’t have done it, only wondering if anyone’s been able to get it returned.
-
-3d ago
-
----
-
-**[Daily General Discussion July 16, 2026](https://www.reddit.com/r/ethereum/comments/1uxt5wd/daily_general_discussion_july_16_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-4d ago
+2d ago
 
 ---
 
@@ -158,6 +156,14 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Robinhood Chain pays minimal fees to Ethereum, challenging Tom Lee's bullish claims.](https://pluang.com/en/news-feed/uniswap-governance-maju-menuju-voting-utama-untuk-perluas-pembakaran-uni)**
+
+Robinhood Chain reportedly pays almost no fees to Ethereum's Layer 1 network, contradicting Tom Lee's bullish argument that Robinhood Chain usage proves Ethereum's effectiveness. This data suggests that the economic activity on Robinhood Chain may not significantly benefit Ethereum's main network as claimed. The findings raise questions about the real value and impact of Robinhood Chain on Ethereum's ecosystem.
+
+Pluang • 9m ago
+
+---
+
 **[Bitmine Immersion Technologies (BMNR) Wants 5% Of Ethereum And A Bigger AI Role](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-wants-020627570.html)**
 
 Tom Lee, chairman of Bitmine Immersion Technologies (NYSE:BMNR), has outlined a plan for the company to acquire 5% of the total Ethereum supply. He framed Ethereum as a key bridge between blockchain infrastructure and AI applications as Wall Street interest in both areas grows. The updated vision follows Bitmine’s inclusion in the Russell 1000 index, which signals a broader role for the company within crypto and AI ecosystems. Bitmine Immersion Technologies is moving beyond its core focus...
@@ -170,7 +176,7 @@ Yahoo Finance • 1d ago
 
 Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -178,7 +184,13 @@ The Block • 5h ago
 
 The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
+
+---
+
+**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
+
+CCN.com • 6h ago
 
 ---
 
@@ -186,7 +198,7 @@ CoinDesk • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 10h ago
 
 ---
 
@@ -194,15 +206,15 @@ Fortune • 8h ago
 
 ETHV offers pure ether exposure with lower costs, while NCIQ provides diversified crypto holdings including Bitcoin and Ripple. Choose based on your risk tolerance and diversification needs.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
-**[Ethereum's Next Bull Run? RWAs Could Make It More Valuable, but Shakeout Risk Remains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60551784/ethereums-next-bull-run-rwas-could-make-it-more-valuable-but-shakeout-risk-remains)**
+**[Jordi Visser Says More People Will Get 'Focused' on Ethereum, Reveals His ETH Trading Strategy](https://www.benzinga.com/crypto/cryptocurrency/26/07/60544111/jordi-visser-says-more-people-will-get-focused-on-ethereum-reveals-his-eth-trading-strategy)**
 
-Ethereum outperforms Bitcoin by 9% in the past month due to optimism for tokenized real-world assets. Another analyst predicts possible shakeout with biggest tests between August and October.
+Jordi Visser expressed his bullish stance on Ethereum, highlighting its potential in the realm of AI and tokenization.
 
-Benzinga • 5h ago
+Benzinga • 13h ago
 
 ---
 
@@ -210,23 +222,7 @@ Benzinga • 5h ago
 
 Bitcoin ETFs saw $128M in net inflows while Ethereum ETFs gained $18M, with week-over-week trends diverging as institutional capital hints at a rotation.
 
-Crypto Briefing • 4h ago
-
----
-
-**[Ethereum at Amazon/Nvidia-Like Inflection Point, Tom Lee Forecasts $12,000 ETH](https://www.tradingview.com/news/coinpedia:b8cb37750094b:0-ethereum-at-amazon-nvidia-like-inflection-point-tom-lee-forecasts-12-000-eth/)**
-
-Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
-
-TradingView • 2d ago
-
----
-
-**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
-
-Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
-
-CoinMarketCap • 3d ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -240,7 +236,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 6K • 👍 416 • 💬 36 • ⏱️ 11:56 • 6h ago
+👁️ 6K • 👍 416 • 💬 36 • ⏱️ 11:56 • 8h ago
 
 ---
 
@@ -250,7 +246,7 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 3K • 💬 172 • ⏱️ 17:58 • 17h ago
+👁️ 56K • 👍 3K • 💬 172 • ⏱️ 17:58 • 18h ago
 
 ---
 
@@ -260,7 +256,7 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 185 • 💬 21 • ⏱️ 11:23 • 21h ago
+👁️ 3K • 👍 185 • 💬 21 • ⏱️ 11:23 • 23h ago
 
 ---
 
@@ -270,7 +266,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 483 • 👍 73 • 💬 7 • ⏱️ 4:04 • 17m ago
+👁️ 483 • 👍 73 • 💬 7 • ⏱️ 4:04 • 1h ago
 
 ---
 
@@ -280,7 +276,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 130 • 💬 16 • ⏱️ 16:17 • 23h ago
+👁️ 3K • 👍 130 • 💬 16 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -310,7 +306,7 @@ Why Ethereum's Next Move Could Be Massive - Robinhood Chain just changed everyth
 
 📺 Big Time Trades
 
-👁️ 741 • 👍 71 • 💬 8 • ⏱️ 26:52 • 6h ago
+👁️ 741 • 👍 71 • 💬 8 • ⏱️ 26:52 • 8h ago
 
 ---
 

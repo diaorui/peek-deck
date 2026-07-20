@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-20T18:53:09.403610+00:00'
+updated: '2026-07-20T20:21:15.622162+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 20, 2026 at 18:53 UTC  
+**Last Updated:** July 20, 2026 at 20:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I'm 15 years old and this is my hexapod project I have been working on for the past year, I learned a ton from it. Here are its specs: -Build: Mostly 3D printed, I used a model from Aecert Robotics from youtube, I made some changes and improvements to the model such as the femur joints that connect to the servos. -Parts: 24 channel Pololu maestro board, 11.4v lipo battery, 12x25kg servos, and 6x35kg servos (for the femur joints because they're under the most load). Cheap android phone for the controller and gyroscope, and a DROK buck converter. -Software: I made a custom android app for the controller that connects via wifi or hotspot, you scan a QR code and it opens the controller on your phone. I used inverse kinematic equations for the hexapod so it has complete control over the leg and body movement. -Stabilizing: Using the gyroscope from the phone it can also self stabilize, it can even walk and self stabilize at the same time. -Walking gait: There are 5 walking gaits so far: Tripod, ripple, wave, triple, and a custom one I made to look like a spider. -I'm currently working on a high precision robot arm and I would love some feedback: About 4ft long and hopefully can lift around 5lb. I should have some videos soon. If you want to learn more about the hexapod or the arm you can see them at my portfolio.
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ On my way to recording and open-sourcing a 1,000-episode bimanual manipulation d
 
 Hi everyone, I just uploaded my first tutorial video on YouTube and wanted to share it here to get your opinions about it. its very short and simple tutorial for the subject matter but I figured since I shared my scripts anyone who is interested would like consult an Ai chatbot for their specific questions and the main point of the video is the briefly explain the main concepts and how it all works within PyBullet. if you have free 7 minutes, I would appreciate your thought and opinions about the video so I can improve for upcoming videos. I know Genetic Algorithms are a bit yesteryears news but I remember watching a video about them on 2minutespapers YouTube channel years ago and since the moment I loaded my robot to PyBullet I wanted to try to implement the technique myself on my own project. Thats why its the subject of my first tutorial video. I am also sharing the links to my GitHub repo for the scripts here as well in case if you dont want to watch the video but still interested in implementing genetic algorithm for robotics in PyBullet. PyBullet Genetic Algorithm repo: https://github.com/serdarselimys/PyBullet-GeneticAlgorithm PyBullet HexaDog ZBD control repo: https://github.com/serdarselimys/HexaDogZBD-PybulletDemo For the next tutorial I am planning to cover Imitation Learning, again in PyBullet. Do you think thats an interesting subject?? I have been seeing a lot of videos on social media about manual laborers, mostly, textile workers are being made to wear POV cameras to capture their work to be used to train Neural Networks. I figured a tutorial explaining how digital movements are copied over to neural networks would be interesting.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ZvcVsFFV1q8) • 1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ZvcVsFFV1q8) • 2d ago
 
 ---
 
@@ -124,13 +124,23 @@ WIRED • 3d ago
 
 Agility is opening a new training center for its Digit robots in Fremont, California.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
-**[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
+**[Charlotte Kemp Muhl’s Finis Musicae Debuts AI-Assisted Robotic Orchestra](https://www.yahoo.com/entertainment/music/articles/charlotte-kemp-muhl-finis-musicae-194800618.html)**
 
-Tech Xplore • 13m ago
+Collective has unveiled a striking new demonstration centered on George Gershwin's classic 'Summertime.'
+
+Yahoo • 33m ago
+
+---
+
+**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
+
+The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
+
+The Washington Post • 4h ago
 
 ---
 
@@ -138,15 +148,7 @@ Tech Xplore • 13m ago
 
 Swiss startup Mimic Robotics unveils the Mimic Hand M1, bringing human-like precision, strength and touch to factory automation.
 
-Interesting Engineering • 5h ago
-
----
-
-**[Humanoid Robots Are Coming To Factories. But Not The Way You Think](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/)**
-
-We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
-
-Forbes • 42m ago
+Interesting Engineering • 6h ago
 
 ---
 
@@ -158,33 +160,31 @@ New Atlas • 1d ago
 
 ---
 
-**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
+**[Humanoid Robots Are Coming To Factories. But Not The Way You Think](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/)**
 
-The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
+We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
 
-The Washington Post • 2h ago
+Forbes • 2h ago
 
 ---
 
 **[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
 
-Reuters • 12h ago
+Reuters • 14h ago
 
 ---
 
-**[They Trained Robots on 100 Million Videos. Here's What Happened](https://www.cnet.com/videos/they-trained-robots-on-100-million-videos-heres-what-happened/)**
+**[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
 
-Rhoda AI is betting the future of robotics starts with internet video, not lab data. We visited the company's headquarters to see how its Direct Video Action model learns physics from hundreds of millions of clips.
-
-CNET • 1d ago
+Tech Xplore • 1h ago
 
 ---
 
-**[This Graduate Student Equips NASA’s Robots With Assembly Skills](https://spectrum.ieee.org/graduate-student-nasas-robots-assembly)**
+**[Xpeng loses AI infrastructure chief to OpenAI's robotics push, report says](https://cnevpost.com/2026/07/20/xpeng-loses-ai-infra-chief-to-openai/)**
 
-Her algorithm enables robots to install antennas on satellites
+Lu Siyuan is set to leave Xpeng and join OpenAI to work on embodied AI robotics research and development.
 
-IEEE Spectrum • 4d ago
+CnEVPost • 5h ago
 
 ---
 
