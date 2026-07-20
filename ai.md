@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-20T15:11:47.707856+00:00'
+updated: '2026-07-20T16:56:03.139687+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 20, 2026 at 15:11 UTC  
+**Last Updated:** July 20, 2026 at 16:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Fable 5's free-inclusion deadline moved from June 22 to July 7, then July 12, then July 19. The final arrangement started July 20 (today): Max and Team Premium keep Fable 5 permanently, capped at 50% of the normal weekly limit. Pro and Team Standard receive a one-time $100 credit, followed by $10/M input tokens and $50/M output tokens. Claude Code's 50% weekly-limit increase had previously been renewed on the same schedule as those Fable 5 extensions. It's now been extended independently through August 19, even though the Fable 5 extension cycle is over. Cowork is also still running its separate 2x multiplier through August. I can see two reasonable insights from this. The simple one is that Anthropic has limited inference capacity across the board and is adjusting each product on a different schedule. The other is that it has an extra incentive to preserve agent usage while ChatGPT Work, launched July 9, competes for similar workflows. I wouldn't treat the second explanation as confirmed strategy. The useful test comes after August: whether Code and Cowork also lose their additional allowances or keep getting different treatment. For people using Claude Code heavily, how many active days are you getting from the boosted weekly allowance, and what kind of workload burns through most of it? And also how often do you use Claude Cowork? I’m curious how many people actually use it.
 
-7h ago
+8h ago
 
 ---
 
 **[The GitHub for Context Doesn’t Exist Yet](https://www.reddit.com/r/artificial/comments/1v1l16t/the_github_for_context_doesnt_exist_yet/)**
 
-🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/the-github-for-context-doesnt-exist) • 2h ago
+🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/the-github-for-context-doesnt-exist) • 3h ago
 
 ---
 
@@ -55,13 +55,13 @@ Fable 5's free-inclusion deadline moved from June 22 to July 7, then July 12, th
 
 I've been thinking a lot about artificial intelligence and creativity lately. As someone living with Spinal Muscular Atrophy Type 2, technology has been one of the greatest enablers in my life. It has given me opportunities to collaborate in ways that simply wouldn't have existed a generation ago. Because of that, I don't see AI or technology as something to fear. But it has made me wonder about something. As a songwriter, I try to tell stories with music that encourage, challenge and inspire. If AI eventually becomes capable of autonomously creating songs, films, paintings and novels that are indistinguishable from those made by humans, what actually makes our creativity different? Is it the quality of the finished work? Or is it the fact that every human creation carries lived experience behind it, whether that's love, grief, faith, hope, disappointment or joy? I'd genuinely be interested to hear how other people think about this. If a piece of music moves you, does it matter whether it came from someone who lived the experiences behind creating it, or is the end result all that really matters?
 
-4h ago
+5h ago
 
 ---
 
 **[Politicians Are Trying to Change What Chatbots Say About Them](https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 21h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 23h ago
 
 ---
 
@@ -69,7 +69,7 @@ I've been thinking a lot about artificial intelligence and creativity lately. As
 
 Timeline of the last five days: July 16: Moonshot drops Kimi K3. 2.8 trillion parameters, open weights coming July 27, claiming it's within spitting distance of Fable 5 and beats Opus 4.8 and GPT 5.5 outright on coding and agent benchmarks. $15 per million output tokens. Fable is $50. MLQ + 2 July 17: Nasdaq dips as Wall Street digests it. Moonshot pauses new K3 signups because demand outran their compute. BloombergFortune July 19: The Fable 5 preview on Max plans was scheduled to end. The standard playbook says this is the moment it moves behind a new, more expensive tier. July 20: Popup says it's now a standard part of the plan. Half your weekly limit, usage credits after. Was this decided weeks ago? Almost certainly. Does the timing look like someone at Anthropic glanced at the K3 benchmarks and quietly deleted the paywall slide? Also yes. Competition works. Say thank you, Kimi. https://preview.redd.it/50ba8xdzfeeh1.png?width=612&format=png&auto=webp&s=9b25209917afa6d612902eb76b1cef9fc46cfe4c
 
-11m ago
+1h ago
 
 ---
 
@@ -77,7 +77,7 @@ Timeline of the last five days: July 16: Moonshot drops Kimi K3. 2.8 trillion pa
 
 I've been working on this for roughly 6 months now so I'm very excited to finally get it out. The specs: - All locally run, turn your wifi off and it still works exactly the same - One time purchase, your license covers 2 Macs - 7 day trial period to see if you like it - 54 Read Aloud voices and 9 languages, and 25 recognised dictation languages - clipboard context - copy anything mid-dictation and it's inserted into your transcript (images, files, anything), super handy for working with coding agents - works on any Apple Silicon Mac (M1 or later), macOS 14+ (recommended 16gb of ram during beta). Download it and give it a try: https://www.narrato.tech/download
 
-7h ago
+9h ago
 
 ---
 
@@ -85,7 +85,7 @@ I've been working on this for roughly 6 months now so I'm very excited to finall
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-🔗 [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) • 16h ago
+🔗 [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) • 17h ago
 
 ---
 
@@ -93,7 +93,7 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. Artificial Analysis independently ranks it ahead of Anthropic's Opus 4.8 on frontier benchmarks, first Chinese open-weight model to do that. Still behind Claude Fable 5 and GPT-5.6 overall, but Moonshot doesn't claim otherwise. Artificial Analysis and Arena.ai placed it there independently. It also topped web interface engineering evals in blind human-preference comparisons against Claude Fable. Three competing Chinese AI companies (Zhipu, MiniMax, Z.ai) lost 15-28% of their value in a single day. Nasdaq dropped, Nvidia briefly surrendered its most-valuable-company spot to Apple. Companies don't sell off like that over a research demo. Moonshot's moving to IPO within six months, targeting $30B+ valuation, pricing near Anthropic Sonnet levels. Open-weight models typically undercut on price. Moonshot isn't. Is one clean benchmark win against a closed frontier lab is enough to shift enterprise buying decisions? What would it actually take?
 
-21h ago
+23h ago
 
 ---
 
@@ -101,7 +101,7 @@ Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. A
 
 So....I read LeCun's interview with Nebius Science. I feel he had some cool points about LLMs being able to answer things, but not literally understand the physics of the physical world. (Like, being able to explain a task and actually performing it are two completely different things.) But I wanted to get opinions on what others thought of his solution to the problem. Like, if JEPA is genuinely the architectural solution to this, or if we’re just looking for some magic solution that we don't have the tech for yet
 
-🔗 [nebius.science](https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030) • 4h ago
+🔗 [nebius.science](https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030) • 6h ago
 
 ---
 
@@ -109,7 +109,7 @@ So....I read LeCun's interview with Nebius Science. I feel he had some cool poin
 
 I don’t know if I’m the only one experiencing this, but I’m struggling to find AI information that is genuinely useful or interesting. I follow a few podcasts and newsletters (around 2 podcasts and 4/5 newsletters focused on AI), but lately it feels like none of them provide any value. These are some of the most popular and widely followed sources, so maybe I’m missing something, but I don’t understand how people keep finding them useful. Many newsletters seem to be AI generated or heavily automated and while I understand why that makes sense from a productivity perspective, the quality feels worse (or there isn't at all). Most of what I read feels repetitive, exaggerated or just empty hype. Most podcasts lose me after 10 minutes because they either repeat the same talking points or spend too much time discussing things without getting to anything meaningful. At this point I’m wondering if is it just me losing interest or has the quality of AI content genuinely gotten worse?
 
-20h ago
+22h ago
 
 ---
 
@@ -117,9 +117,11 @@ I don’t know if I’m the only one experiencing this, but I’m struggling to 
 
 ## Google News: "ai"
 
-**[Google Is Building an A.I. Fence Around the Internet It Once Championed](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html)**
+**[Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently](https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently)**
 
-The New York Times • 1h ago
+Google is working on a new server chip that would directly integrate the blueprint of its Gemini AI model, enabling the company to serve its AI models to users much more efficiently, according to two people with direct knowledge of the matter. Google intends the new chip, informally dubbed “ ...
+
+The Information • 3h ago
 
 ---
 
@@ -127,21 +129,15 @@ The New York Times • 1h ago
 
 The new AI chip, called "Frozen v2," would embed parts of Gemini's architecture directly into the silicon, according to the report.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Alphabet stock gains on report of next-generation AI chip project](https://finance.yahoo.com/technology/ai/articles/alphabet-stock-gains-report-next-141621968.html)**
+**[Alphabet's Google developing new chip for AI model, stock jumps](https://finance.yahoo.com/markets/article/alphabets-google-developing-new-chip-for-ai-model-stock-jumps-151128221.html)**
 
-Alphabet Inc. (NASDAQ:GOOGL) shares rose 1.
+Google's stock jumped 3% on Monday after a report that the company is developing a new chip to optimize its Gemini AI model.
 
-Yahoo Finance • 55m ago
-
----
-
-**[The secret Trump administration battle to fight Chinese AI](https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi)**
-
-Axios • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -149,29 +145,45 @@ Axios • 2h ago
 
 Moonshot and Alibaba unveiled frontier models they claim rival OpenAI and Anthropic.
 
-The Verge • 4h ago
+The Verge • 6h ago
 
 ---
 
-**[As the battle for AI supremacy intensifies, Trump White House reportedly contemplates a ban on Chinese models](https://www.marketwatch.com/story/as-the-battle-for-ai-supremacy-intensifies-trump-white-house-reportedly-contemplates-a-ban-on-chinese-models-c8d9a0a0)**
+**[Kimi K3: The open-weights escalation](https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation)**
 
-MarketWatch • 1h ago
+The global implications on the AI ecosystem.
 
----
-
-**[Goldman Sachs highlights 3 non-AI trades to make as the market's hottest stocks lose momentum](https://www.businessinsider.com/ai-stocks-alternatives-investing-ideas-consumer-experience-momentum-goldman-sachs-2026-7)**
-
-The AI trade has stumbled lately, with the hottest stocks seeing the sharpest reversals. Goldman says three non-AI trades are winners amid the rotation.
-
-Business Insider • 26m ago
+Interconnects AI • 1h ago
 
 ---
 
-**[Former Microsoft AI Leaders Are Spending $1M To Replace CEOs With AI](https://www.forbes.com/sites/victordey/2026/07/20/former-microsoft-ai-leaders-are-spending-1m-to-prove-ai-can-replace-ceos/)**
+**[Kimi K3 May Prove to Be a Gift to America's AI Firms](https://www.bloomberg.com/opinion/articles/2026-07-20/china-s-kimi-k3-strengthens-the-case-for-us-ai-investment)**
 
-Skyfall AI, from the team behind Microsoft's $160 million Maluuba acquisition, will buy a SaaS company and let AI run it as CEO.
+Bloomberg.com • 5h ago
 
-Forbes • 17m ago
+---
+
+**[AI rally faces earnings test as markets rebound from last week's losses](https://www.foxbusiness.com/video/6401652247112)**
+
+Maria Bartiromo interviews former Bank of America vice chair Keith Banks about the current market outlook.
+
+Fox Business • 24m ago
+
+---
+
+**[It Pays To Go Big On AI Integration, Study Finds](https://www.forbes.com/sites/meganpoinski/2026/07/20/it-pays-to-go-big-on-ai-integration-study-finds/)**
+
+A new study from Blue Ridge Partners, shared exclusively with Forbes, shows the most impactful—and least expensive—solutions involve many departments and data sets.
+
+Forbes • 24m ago
+
+---
+
+**[UK data center startup Nscale bets big on Bellevue for U.S. engineering hub amid AI boom](https://www.geekwire.com/2026/uk-data-center-startup-nscale-bets-big-on-bellevue-for-u-s-engineering-hub-amid-ai-boom/)**
+
+AI infrastructure company Nscale is expanding its presence in Bellevue with a new U.S. engineering headquarters, adding to the Eastside's growing role as a hub for artificial intelligence talent and cloud computing infrastructure.
+
+GeekWire • 18m ago
 
 ---
 
@@ -179,15 +191,7 @@ Forbes • 17m ago
 
 AMD is taking aim at Nvidia with Helios, its first AI rack system, and has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.
 
-CNBC • 2h ago
-
----
-
-**[AMD stock surges 5% as Microsoft locks in massive AI infrastructure deal](https://finance.yahoo.com/technology/ai/articles/amd-stock-surges-5-microsoft-133626389.html)**
-
-Investing.com -- Advanced Micro Devices (NASDAQ: AMD) shares jumped 5% on Monday following a high-stakes expansion of its strategic partnership with Microsoft, placing AMD’s next-gen silicon at the heart of Azure’s cloud infrastructure. The centerpiece of the deal is Microsoft’s wide-scale deployment of the AMD Helios Rackscale Solution to drive frontier model AI inference across Azure services and enterprise customer workloads. Helios—an integrated power-rack combining AMD Instinct MI455X GPUs,
-
-Yahoo Finance • 1h ago
+CNBC • 3h ago
 
 ---
 
@@ -199,19 +203,19 @@ Yahoo Finance • 1h ago
 
 No more AI-edited listings without disclosures.
 
-⬆️ 583 • 💬 262 • 1d ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+⬆️ 587 • 💬 264 • 1d ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
 **[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
 
-⬆️ 559 • 💬 377 • 2d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 561 • 💬 377 • 2d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 472 • 💬 560 • 2d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 473 • 💬 560 • 2d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -225,15 +229,7 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 421 • 💬 261 • 1d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
-
----
-
-**[AI advice made people less accurate but more confident – sudy](https://news.ycombinator.com/item?id=48971738)**
-
-A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
-
-⬆️ 350 • 💬 202 • 17h ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+⬆️ 423 • 💬 268 • 1d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -241,7 +237,15 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 The sky (and your endurance) is the limit!
 
-⬆️ 285 • 💬 75 • 4h ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 380 • 💬 97 • 6h ago • [Airport Simulator](https://airport.apunen.com/)
+
+---
+
+**[AI advice made people less accurate but more confident – sudy](https://news.ycombinator.com/item?id=48971738)**
+
+A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
+
+⬆️ 351 • 💬 202 • 19h ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
 
 ---
 
@@ -251,7 +255,7 @@ Kimi K3 has received far more love than we expected, and our GPUs are feeling it
 
 Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and
 
-⬆️ 274 • 💬 109 • 23h ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
+⬆️ 275 • 💬 109 • 1d ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
 
 ---
 
@@ -267,7 +271,7 @@ The move is a vote of confidence in Boeing from the U.S. government.
 
 Which way to the Land of the Free again?
 
-⬆️ 169 • 💬 140 • 4h ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+⬆️ 172 • 💬 151 • 6h ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
 
 ---
 
@@ -281,7 +285,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 89K • 👍 5K • 💬 818 • ⏱️ 13:51 • 13h ago
+👁️ 89K • 👍 5K • 💬 818 • ⏱️ 13:51 • 15h ago
 
 ---
 
@@ -291,7 +295,7 @@ Ever wonder why Microsoft continues to aggressively shove AI and Copilot into ev
 
 📺 CyberCPU Tech
 
-👁️ 1K • 👍 190 • 💬 38 • ⏱️ 16:52 • 1h ago
+👁️ 1K • 👍 190 • 💬 38 • ⏱️ 16:52 • 2h ago
 
 ---
 
@@ -301,7 +305,7 @@ Meta's AI-powered Ray-Ban glasses could transform everyday life for blind and vi
 
 📺 House of El: AI
 
-👁️ 159K • 👍 11K • 💬 3K • ⏱️ 20:09 • 2d ago
+👁️ 159K • 👍 11K • 💬 3K • ⏱️ 20:09 • 3d ago
 
 ---
 
@@ -311,7 +315,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 9K • 👍 227 • 💬 46 • ⏱️ 17:41 • 2d ago
+👁️ 9K • 👍 227 • 💬 46 • ⏱️ 17:41 • 3d ago
 
 ---
 
@@ -351,7 +355,7 @@ residentevil #rebeccachambers #actionmovie #residentevilzero Resident Evil Zero 
 
 📺 Cyber Cat Nap
 
-👁️ 34K • 👍 2K • 💬 240 • ⏱️ 15:05 • 16h ago
+👁️ 34K • 👍 2K • 💬 240 • ⏱️ 15:05 • 17h ago
 
 ---
 
@@ -387,7 +391,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,205 • 22h ago
+⬇️ 13,462 • ❤️ 1,205 • 23h ago
 
 ---
 
@@ -411,7 +415,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,262,894 • ❤️ 524 • 2d ago
+⬇️ 1,262,894 • ❤️ 524 • 3d ago
 
 ---
 
@@ -649,7 +653,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 229 • 5h ago
+⭐ 3.0k • 🔱 229 • 7h ago
 
 ---
 
@@ -727,7 +731,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 850 • 🔱 97 • 4h ago
+⭐ 850 • 🔱 97 • 6h ago
 
 ---
 

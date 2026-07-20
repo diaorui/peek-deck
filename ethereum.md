@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-20T15:11:47.723002+00:00'
+updated: '2026-07-20T16:56:03.154631+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 15:11 UTC  
+**Last Updated:** July 20, 2026 at 16:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -0.3%  
-**30d:** +10.4%  
-**90d:** -20.6%  
-**1y:** -50.0%  
+**24h:** +1.6%  
+**7d:** +0.4%  
+**30d:** +11.2%  
+**90d:** -20.0%  
+**1y:** -49.6%  
 
 ---
 
@@ -134,7 +134,7 @@ glamsterdam-devnet-7 open for app developer testing, EthSystems launched, Devcon
 
 Has anyone sent WETH to Robinhood and successfully gotten it back? I’m aware I shouldn’t have done it, only wondering if anyone’s been able to get it returned.
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -166,27 +166,11 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
-**[Bitmine slows Ethereum buys, adds $14M ETH as i...](https://pluang.com/en/news-feed/bitmine-perlambat-pembelian-ethereum-dan-tambah-7430-ether-saat-mendekati-target)**
+**[Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-taps-brakes-161236369.html)**
 
-Bitmine Immersion Technologies has significantly reduced its weekly Ethereum purchases, adding just 7,430 ETH worth $14 million last week compared to prior six-figure buys. This slowdown comes as the company approaches its target of owning 5% of Ethereum's circulating supply, currently holding about 4.5% to 4.8%. Instead of continuing heavy ETH accumulation, Bitmine redirected capital to an $86 million stock buyback and expanded its buyback authorization to $4 billion. The company maintains a large staked ETH position, earning yield, while shifting focus to creating shareholder value through share repurchases rather than solely relying on ETH price gains.
+"The reduced pace of buys reflects that Bitmine repurchased 5.5 million common shares," Bitmine Chairman Tom Lee said in a statement.
 
-Pluang • 30m ago
-
----
-
-**[Bitcoin ETFs see $128M inflows as Ethereum ETFs...](https://pluang.com/en/news-feed/inflow-etf-bitcoin-meningkat-ethereum-bertumbuh)**
-
-Bitcoin spot ETFs attracted $128 million in net inflows recently, though this is a slowdown from the previous week. Meanwhile, Ethereum ETFs saw $18 million in net inflows, marking an increase and suggesting a subtle shift in institutional interest from Bitcoin to Ethereum. Despite the cooling Bitcoin inflows, they remain positive, indicating continued but slower investment growth. This trend highlights evolving investor confidence, with Ethereum's network improvements and expanding use cases driving renewed attention in the crypto ETF space.
-
-Pluang • 30m ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Wants 5% Of Ethereum And A Bigger AI Role](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-wants-020627570.html)**
-
-Tom Lee, chairman of Bitmine Immersion Technologies (NYSE:BMNR), has outlined a plan for the company to acquire 5% of the total Ethereum supply. He framed Ethereum as a key bridge between blockchain infrastructure and AI applications as Wall Street interest in both areas grows. The updated vision follows Bitmine’s inclusion in the Russell 1000 index, which signals a broader role for the company within crypto and AI ecosystems. Bitmine Immersion Technologies is moving beyond its core focus...
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 43m ago
 
 ---
 
@@ -194,15 +178,31 @@ Yahoo Finance • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
-**[Jordi Visser Says More People Will Get 'Focused' on Ethereum, Reveals His ETH Trading Strategy](https://www.benzinga.com/crypto/cryptocurrency/26/07/60544111/jordi-visser-says-more-people-will-get-focused-on-ethereum-reveals-his-eth-trading-strategy)**
+**[Should Crypto Investors Go With the VanEck Ethereum ETF or the Hashdex Crypto Index ETF in 2026?](https://www.fool.com/coverage/etfs/2026/07/20/should-crypto-investors-go-with-the-vaneck-ethereum-etf-or-the-hashdex-crypto-index-etf-in-2026/)**
 
-Jordi Visser expressed his bullish stance on Ethereum, highlighting its potential in the realm of AI and tokenization.
+ETHV offers pure ether exposure with lower costs, while NCIQ provides diversified crypto holdings including Bitcoin and Ripple. Choose based on your risk tolerance and diversification needs.
 
-Benzinga • 8h ago
+The Motley Fool • 1h ago
+
+---
+
+**[Ethereum's Next Bull Run? RWAs Could Make It More Valuable, but Shakeout Risk Remains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60551784/ethereums-next-bull-run-rwas-could-make-it-more-valuable-but-shakeout-risk-remains)**
+
+Ethereum outperforms Bitcoin by 9% in the past month due to optimism for tokenized real-world assets. Another analyst predicts possible shakeout with biggest tests between August and October.
+
+Benzinga • 3h ago
+
+---
+
+**[Bitcoin ETFs see $128M inflow as Ethereum ETFs quietly gain momentum with $18M](https://cryptobriefing.com/bitcoin-ethereum-etf-inflow-rotation/)**
+
+Bitcoin ETFs saw $128M in net inflows while Ethereum ETFs gained $18M, with week-over-week trends diverging as institutional capital hints at a rotation.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -210,15 +210,7 @@ Benzinga • 8h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are starting the week on a mild constructive note as the broader crypto market attempts to recover. BTC is approaching a key technical hurdle at $65,028, and ETH is holding above the important $1,800 support zone.
 
-FXStreet • 11h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) slows ETH purchase pace to shift cash to $86 million stock buyback](https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock)**
-
-The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
-
-CoinDesk • 2h ago
+FXStreet • 13h ago
 
 ---
 
@@ -226,7 +218,15 @@ CoinDesk • 2h ago
 
 Vitalik Buterin "vibe-coded" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.
 
-The Block • 3h ago
+The Block • 5h ago
+
+---
+
+**[Ethereum at Amazon/Nvidia-Like Inflection Point, Tom Lee Forecasts $12,000 ETH](https://www.tradingview.com/news/coinpedia:b8cb37750094b:0-ethereum-at-amazon-nvidia-like-inflection-point-tom-lee-forecasts-12-000-eth/)**
+
+Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
+
+TradingView • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 3K • 👍 286 • 💬 19 • ⏱️ 11:56 • 3h ago
+👁️ 3K • 👍 286 • 💬 19 • ⏱️ 11:56 • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 161 • ⏱️ 17:58 • 13h ago
+👁️ 47K • 👍 3K • 💬 161 • ⏱️ 17:58 • 15h ago
 
 ---
 
@@ -260,7 +260,7 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 180 • 💬 23 • ⏱️ 11:23 • 17h ago
+👁️ 3K • 👍 180 • 💬 23 • ⏱️ 11:23 • 19h ago
 
 ---
 
@@ -270,7 +270,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 121 • 💬 16 • ⏱️ 16:17 • 19h ago
+👁️ 3K • 👍 121 • 💬 16 • ⏱️ 16:17 • 21h ago
 
 ---
 
@@ -280,7 +280,7 @@ Bitcoin held a stable weekend after Friday's plunge below the cloud, closing 1.4
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 477 • 💬 54 • ⏱️ 53:29 • 12h ago
+👁️ 6K • 👍 477 • 💬 54 • ⏱️ 53:29 • 13h ago
 
 ---
 
@@ -290,7 +290,7 @@ DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cyc
 
 📺 The Rollup
 
-👁️ 4K • 👍 78 • ⏱️ 8:46 • 23h ago
+👁️ 4K • 👍 78 • ⏱️ 8:46 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 194 • 👍 31 • ⏱️ 6:23 • 2h ago
+👁️ 194 • 👍 31 • ⏱️ 6:23 • 4h ago
 
 ---
 
