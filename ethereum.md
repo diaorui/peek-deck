@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-20T21:43:29.614535+00:00'
+updated: '2026-07-20T23:00:57.290004+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 21:43 UTC  
+**Last Updated:** July 20, 2026 at 23:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +0.8%  
-**30d:** +11.6%  
-**90d:** -19.7%  
-**1y:** -49.4%  
+**24h:** +1.3%  
+**7d:** +0.2%  
+**30d:** +11.0%  
+**90d:** -20.1%  
+**1y:** -49.7%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
 **[Looking for recommendations for a home server for an evm blockchain node/validator](https://www.reddit.com/r/ethereum/comments/1v13xwa/looking_for_recommendations_for_a_home_server_for/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
-10h ago
+11h ago
 
 ---
 
@@ -102,7 +102,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
 
-6h ago
+7h ago
 
 ---
 
@@ -164,14 +164,6 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
-**[Ethereum ETFs lead crypto inflows with $105M as institutional interest boosts altcoins this quarter](https://pluang.com/en/news-feed/ethereum-melesat-lebih-cepat-dari-bitcoin-dalam-pemulihan-etf-mingguan-inflow)**
-
-Ethereum-focused spot ETFs attracted $105 million in net inflows, outpacing Bitcoin's $75 million, signaling renewed institutional interest in altcoins. This inflow follows a period of heavy outflows that had dampened market sentiment, especially for Bitcoin, which saw a $4.5 billion outflow in June. Institutional buyers, including corporate treasuries like BitMine Technologies, are increasing their Ethereum holdings, contributing to a bullish momentum in crypto markets. Other altcoins like Solana and XRP also saw positive ETF inflows, indicating a broader return of traditional investors to digital assets this quarter.
-
-Pluang • 47m ago
-
----
-
 **[Bitmine Immersion Technologies (BMNR) Wants 5% Of Ethereum And A Bigger AI Role](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-wants-020627570.html)**
 
 Tom Lee, chairman of Bitmine Immersion Technologies (NYSE:BMNR), has outlined a plan for the company to acquire 5% of the total Ethereum supply. He framed Ethereum as a key bridge between blockchain infrastructure and AI applications as Wall Street interest in both areas grows. The updated vision follows Bitmine’s inclusion in the Russell 1000 index, which signals a broader role for the company within crypto and AI ecosystems. Bitmine Immersion Technologies is moving beyond its core focus...
@@ -184,7 +176,7 @@ Yahoo Finance • 1d ago
 
 The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -192,7 +184,7 @@ CoinDesk • 8h ago
 
 Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -200,21 +192,13 @@ The Block • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
 **[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
 
-CCN.com • 7h ago
-
----
-
-**[Should Crypto Investors Go With the VanEck Ethereum ETF or the Hashdex Crypto Index ETF in 2026?](https://www.fool.com/coverage/etfs/2026/07/20/should-crypto-investors-go-with-the-vaneck-ethereum-etf-or-the-hashdex-crypto-index-etf-in-2026/)**
-
-ETHV offers pure ether exposure with lower costs, while NCIQ provides diversified crypto holdings including Bitcoin and Ripple. Choose based on your risk tolerance and diversification needs.
-
-The Motley Fool • 5h ago
+CCN.com • 8h ago
 
 ---
 
@@ -222,7 +206,23 @@ The Motley Fool • 5h ago
 
 Bitcoin hits $65,000 after U.S. Senator announces progress on crypto 'Clarity' legislation. One expert expects a rally toward $85,000.
 
-Benzinga • 2h ago
+Benzinga • 4h ago
+
+---
+
+**[Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?](https://www.fool.com/investing/2026/07/19/down-62-from-its-high-is-ethereum-a-value-play-or/)**
+
+Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum staking ratio hits record 34%, signaling market confidence](https://cryptobriefing.com/ethereum-staking-ratio-hits-record-34-signaling-market-confidence/)**
+
+Ethereum's staking ratio hits a record 34%, indicating market confidence. Ethereum reaching $10,000 by December 31, 2026 at 1.9% YES.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 7K • 👍 475 • 💬 40 • ⏱️ 11:56 • 9h ago
+👁️ 7K • 👍 475 • 💬 40 • ⏱️ 11:56 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 182 • ⏱️ 17:58 • 20h ago
+👁️ 61K • 👍 4K • 💬 182 • ⏱️ 17:58 • 21h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 364 • 👍 39 • 💬 12 • ⏱️ 21:43 • 23m ago
+👁️ 364 • 👍 39 • 💬 12 • ⏱️ 21:43 • 1h ago
 
 ---
 
@@ -266,7 +266,7 @@ Why Ethereum's Next Move Could Be Massive - Robinhood Chain just changed everyth
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 82 • 💬 8 • ⏱️ 26:52 • 9h ago
+👁️ 1K • 👍 82 • 💬 8 • ⏱️ 26:52 • 11h ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum has confirmed a bullish W-shaped pattern after breaking above the $1800
 
 📺 FXEmpire
 
-👁️ 22 • 👍 4 • ⏱️ 6:02 • 1h ago
+👁️ 22 • 👍 4 • ⏱️ 6:02 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin held a stable weekend after Friday's plunge below the cloud, closing 1.4
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 512 • 💬 63 • ⏱️ 53:29 • 18h ago
+👁️ 7K • 👍 512 • 💬 63 • ⏱️ 53:29 • 20h ago
 
 ---
 

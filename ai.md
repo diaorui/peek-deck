@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-20T21:43:29.599714+00:00'
+updated: '2026-07-20T23:00:57.275564+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 20, 2026 at 21:43 UTC  
+**Last Updated:** July 20, 2026 at 23:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 I help run a small dev team and I've spent the last year trying to figure out if these tools made us faster or just made us feel faster. Genuinely not sure yet. The wins are real but boring. Boilerplate, test scaffolding, the fifth CRUD endpoint that's basically the other four with different names. Onboarding got a bit easier too because the juniors can ask an assistant the stuff they'd feel dumb asking me for the tenth time. Then there's everything that needs you to actually understand why the code is there. Race conditions, how two services should talk to each other, cleaning up a mess someone left behind two years ago. There the assistant is confident and wrong a lot, and confident-and-wrong is honestly worse than slow. The thing nobody warned me about was review. We write code faster now, so there's more of it to read, and reading code is harder than writing it. We've shipped stuff that compiled, passed lint, passed the tests, and was still quietly the wrong thing, because whoever was "writing" it had mentally clocked out halfway through. So net positive maybe? But nowhere near the 10x people keep selling. Curious about others actually using this on a team and not a weekend project. Where's it genuinely helped, and where's it just created new work in a different spot?
 
-6h ago
-
----
-
-**[Alex Hormozi: founders are "using AI to do dumb things really fast" — $350K to automate work that wasn't even the bottleneck](https://www.reddit.com/r/artificial/comments/1v1os70/alex_hormozi_founders_are_using_ai_to_do_dumb/)**
-
-You could be about to make the exact mistake Alex Hormozi keeps seeing: founders getting so excited about AI that they automate the wrong thing, faster. He reviewed a business paying 11 VAs $11K/month for data cleaning. Worked fine. So they spent $350K building an AI system to replace them. Three years of costs, upfront. For a process that was never the constraint. They didn't have enough demand. The bottleneck was customer acquisition, not data cleaning. But because the founder got excited about automation, the real problem sat untouched. His gut-check is simple: "Are you making more money?" Not "are you using more AI?" Not "are you token-maxing?" Are you actually making more money. The deeper point: people should use AI in their business, not try to build AI businesses. Advertise the outcome your customer cares about, not the technology underneath. And when intelligence becomes cheap and abundant, the value that remains is stakes — someone has to own the decision. DM for credit or removal request (no copyright intended) © All rights and credits reserved to the respective owner(s).
-
-6h ago
+7h ago
 
 ---
 
@@ -57,7 +49,15 @@ You could be about to make the exact mistake Alex Hormozi keeps seeing: founders
 
 Is there a simple kit someone has come up with to get through the "oval-shape live camera face challenge" .. or? Could it be as simple as the minimum wage scammer teams hold up a image of "Hen" there and move it in front of the camera? Does anyone know much about how the "oval-shape live camera face challenge" works, and/or how AI is defeating it? Using a small-city market location with about 100-150 swipees, I found ~3 hey-lets-use-signal bots, so there's 3% AI-signal-crypto bots on Tinder. Now .. Tinder's policy is, the instant someone taps "report" on a profile, and, selects the line from the chat where the profile mentions either "Signal" or "Telegram", Tinder axes it automatically there and then. Given that, I can't believe these bots survive very long, so there's gotta be quite a lot of production of them. Anyone have any ideas? BTW for the fake conversation, they are not using great models. It's still rather stilted. Even a non-AI-aware person, well guy, would be aware it's not a human with a (funny, really) form letter feel. ("I understand that you have been having a busy day. It must be demanding leading a commercial company.") fascinating stuff! Anyway I'm interested in how they pass the "oval-shape live camera face challenge" .. anyone?
 
-4h ago
+5h ago
+
+---
+
+**[Alex Hormozi: founders are "using AI to do dumb things really fast" — $350K to automate work that wasn't even the bottleneck](https://www.reddit.com/r/artificial/comments/1v1os70/alex_hormozi_founders_are_using_ai_to_do_dumb/)**
+
+You could be about to make the exact mistake Alex Hormozi keeps seeing: founders getting so excited about AI that they automate the wrong thing, faster. He reviewed a business paying 11 VAs $11K/month for data cleaning. Worked fine. So they spent $350K building an AI system to replace them. Three years of costs, upfront. For a process that was never the constraint. They didn't have enough demand. The bottleneck was customer acquisition, not data cleaning. But because the founder got excited about automation, the real problem sat untouched. His gut-check is simple: "Are you making more money?" Not "are you using more AI?" Not "are you token-maxing?" Are you actually making more money. The deeper point: people should use AI in their business, not try to build AI businesses. Advertise the outcome your customer cares about, not the technology underneath. And when intelligence becomes cheap and abundant, the value that remains is stakes — someone has to own the decision. DM for credit or removal request (no copyright intended) © All rights and credits reserved to the respective owner(s).
+
+7h ago
 
 ---
 
@@ -65,7 +65,23 @@ Is there a simple kit someone has come up with to get through the "oval-shape li
 
 I've been thinking a lot about artificial intelligence and creativity lately. As someone living with Spinal Muscular Atrophy Type 2, technology has been one of the greatest enablers in my life. It has given me opportunities to collaborate in ways that simply wouldn't have existed a generation ago. Because of that, I don't see AI or technology as something to fear. But it has made me wonder about something. As a songwriter, I try to tell stories with music that encourage, challenge and inspire. If AI eventually becomes capable of autonomously creating songs, films, paintings and novels that are indistinguishable from those made by humans, what actually makes our creativity different? Is it the quality of the finished work? Or is it the fact that every human creation carries lived experience behind it, whether that's love, grief, faith, hope, disappointment or joy? I'd genuinely be interested to hear how other people think about this. If a piece of music moves you, does it matter whether it came from someone who lived the experiences behind creating it, or is the end result all that really matters?
 
-10h ago
+11h ago
+
+---
+
+**[Final class-action settlement approval granted, judgment entered, and attorneys' fees awarded in the Bartz v. Anthropic AI copyright case](https://www.reddit.com/r/artificial/comments/1v1zmn7/final_classaction_settlement_approval_granted/)**
+
+Today the Federal District Court for the Northern District of California granted final approval of the $1.5 Billion class-action settlement in the Bartz v. Anthropic AI copyright lawsuit, and entered judgment. The court also awarded plaintiffs' class counsel $101,561,111 in attorneys' fees. Good work if you can get it!
+
+52m ago
+
+---
+
+**[Building it for myself primarly, but would you find that useful?](https://www.reddit.com/r/artificial/comments/1v1zfdf/building_it_for_myself_primarly_but_would_you/)**
+
+Need to play with the sound. I started building it for myself to have a side-kick that helps me with my goals and procrastination, but I would love to see your opinions. Currently it's running on GPT Realtime but I'm testing also xAI Voice + adding better voices and local brain.
+
+1h ago
 
 ---
 
@@ -73,7 +89,7 @@ I've been thinking a lot about artificial intelligence and creativity lately. As
 
 I honestly have never seen one of those smaller auto-response suggestion models hit the brakes so hard on a topic before. Perhaps being excellent to each other is not in SpaceXAI's playbook?
 
-1h ago
+2h ago
 
 ---
 
@@ -81,33 +97,19 @@ I honestly have never seen one of those smaller auto-response suggestion models 
 
 Fable 5's free-inclusion deadline moved from June 22 to July 7, then July 12, then July 19. The final arrangement started July 20 (today): Max and Team Premium keep Fable 5 permanently, capped at 50% of the normal weekly limit. Pro and Team Standard receive a one-time $100 credit, followed by $10/M input tokens and $50/M output tokens. Claude Code's 50% weekly-limit increase had previously been renewed on the same schedule as those Fable 5 extensions. It's now been extended independently through August 19, even though the Fable 5 extension cycle is over. Cowork is also still running its separate 2x multiplier through August. I can see two reasonable insights from this. The simple one is that Anthropic has limited inference capacity across the board and is adjusting each product on a different schedule. The other is that it has an extra incentive to preserve agent usage while ChatGPT Work, launched July 9, competes for similar workflows. I wouldn't treat the second explanation as confirmed strategy. The useful test comes after August: whether Code and Cowork also lose their additional allowances or keep getting different treatment. For people using Claude Code heavily, how many active days are you getting from the boosted weekly allowance, and what kind of workload burns through most of it? And also how often do you use Claude Cowork? I’m curious how many people actually use it.
 
-13h ago
+15h ago
 
 ---
 
 **[Hugging Face says AI agent behind internal breach](https://www.reddit.com/r/artificial/comments/1v1vvet/hugging_face_says_ai_agent_behind_internal_breach/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/20/hugging-face-ai-cyberattack-data-breach) • 1h ago
+🔗 [axios.com](https://www.axios.com/2026/07/20/hugging-face-ai-cyberattack-data-breach) • 3h ago
 
 ---
 
 **[The GitHub for Context Doesn’t Exist Yet](https://www.reddit.com/r/artificial/comments/1v1l16t/the_github_for_context_doesnt_exist_yet/)**
 
-🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/the-github-for-context-doesnt-exist) • 8h ago
-
----
-
-**[Politicians Are Trying to Change What Chatbots Say About Them](https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 1d ago
-
----
-
-**[How to tell if an "independent" 3D AI benchmark site has undisclosed brand ties](https://www.reddit.com/r/artificial/comments/1v1spvm/how_to_tell_if_an_independent_3d_ai_benchmark/)**
-
-Kept seeing the same AI 3D ranking site linked in every thread about which tool is best. It's one of those arena style voting things where you pick between two models and the homepage says "No paid promotion, no brand bias." Strong claims. Got curious and started digging into who runs it. Turns out it's run by a creator who also has a popular YouTube channel in the 3D AI space. If you scroll through the uploads the pattern is hard to miss, one brand gets way more coverage than the others. Dedicated reviews, tutorials, showcase videos. That's not proof of anything on its own, but sounds like it could be some kind of financial or in-kind relationship. The tool might genuinely be the best. But without the creator disclosing the relationship, there's no way to tell if the rankings reflect actual testing or just preference. The site calls itself independent and says no paid promotion while the person behind it has undisclosed ties to the top ranked tool. That's the part that doesn't sit right.
-
-3h ago
+🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/the-github-for-context-doesnt-exist) • 9h ago
 
 ---
 
@@ -119,27 +121,29 @@ Kept seeing the same AI 3D ranking site linked in every thread about which tool 
 
 Google is working on a new server chip that would directly integrate the blueprint of its Gemini AI model, enabling the company to serve its AI models to users much more efficiently, according to two people with direct knowledge of the matter. Google intends the new chip, informally dubbed “ ...
 
-The Information • 8h ago
+The Information • 10h ago
 
 ---
 
-**[Google Is Building an A.I. Fence Around the Internet It Once Championed](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html)**
+**[Alphabet stock pops on report it's developing a more efficient AI chip](https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html)**
 
-The New York Times • 7h ago
+The new AI chip, called "Frozen v2," would embed parts of Gemini's architecture directly into the silicon, according to the report.
+
+CNBC • 9h ago
 
 ---
 
-**[Google is working on a new AI chip designed to make Gemini more efficient](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/)**
+**[Google’s Opal AI Builds Apps From Your Words — When It Works](https://www.cnet.com/tech/services-and-software/googles-opal-ai-builds-apps-from-your-words-when-it-works/)**
 
-Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.
+It’s still very much an experiment, but Opal has a lot of potential.
 
-TechCrunch • 22m ago
+CNET • 31m ago
 
 ---
 
 **[Scoop: Trump AI security agency head resigns](https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -147,43 +151,43 @@ Axios • 6h ago
 
 Arvind Raman, the director of National Institute of Standards and Technology, will serve as acting director of CAISI, according to a spokesperson
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[Head of US AI safety agency resigns](https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/)**
 
-Reuters • 3h ago
+Reuters • 5h ago
 
 ---
 
-**[Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent](https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7)**
+**[What the AI Odyssey Film Is Really About](https://www.hollywoodreporter.com/business/digital/ai-the-odyssey-what-is-it-where-to-watch-1236652547/)**
 
-Agility Robotics has expanded with a new Silicon Valley hub. The startup is avoiding AI talent wars and focusing on culture over high salaries.
+On the heels of Christopher Nolan’s blockbuster weekend, the filmmakers of the digital-age project have a few ideas of their own.
 
-Business Insider • 12m ago
-
----
-
-**[AI’s most important protocol is getting a little bit easier to use](https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/)**
-
-The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources
-
-TechCrunch • 52m ago
+The Hollywood Reporter • 47m ago
 
 ---
 
-**[Weak AI regulation may be worse than none at all, researchers say](https://techxplore.com/news/2026-07-weak-ai-worse.html)**
+**[Oracle Credit Risk Hits Near 18-Year High on AI Debt Load Angst](https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst)**
 
-Tech Xplore • 23m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Opinion | Powerful AI models are being given away for free. It was inevitable.](https://www.washingtonpost.com/opinions/2026/07/20/open-model-ai-is-good-competition-anthropic-openai/)**
+**[Here are the 30,000 songs Sony is suing Udio’s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)**
 
-They aren’t a security threat — they’re what competition looks like.
+Sony claims Udio “copied and ingested” its music.
 
-The Washington Post • 2h ago
+The Verge • 41m ago
+
+---
+
+**[AI’s solution to 87-year-old riddle takes mathematicians by surprise](https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/)**
+
+Mathematicians have been trying to prove the Jacobian conjecture for nearly a century, but now the Claude Fable 5 AI has apparently found a counterexample that disproves it
+
+New Scientist • 7h ago
 
 ---
 
@@ -195,7 +199,7 @@ The Washington Post • 2h ago
 
 China's open-weights AI strategy is winning: its companies are taking the lead. America's closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.
 
-⬆️ 777 • 💬 642 • 7h ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+⬆️ 864 • 💬 704 • 8h ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
 ---
 
@@ -203,7 +207,7 @@ China's open-weights AI strategy is winning: its companies are taking the lead. 
 
 The sky (and your endurance) is the limit!
 
-⬆️ 597 • 💬 118 • 11h ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 644 • 💬 128 • 12h ago • [Airport Simulator](https://airport.apunen.com/)
 
 ---
 
@@ -211,19 +215,13 @@ The sky (and your endurance) is the limit!
 
 No more AI-edited listings without disclosures.
 
-⬆️ 589 • 💬 264 • 1d ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
-
----
-
-**[Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://news.ycombinator.com/item?id=48952880)**
-
-⬆️ 561 • 💬 378 • 2d ago • [localnewsmatters.org](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+⬆️ 591 • 💬 264 • 2d ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 474 • 💬 569 • 2d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 474 • 💬 570 • 2d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -237,7 +235,7 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 433 • 💬 273 • 1d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 436 • 💬 277 • 1d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -245,7 +243,7 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-⬆️ 355 • 💬 205 • 1d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+⬆️ 356 • 💬 206 • 1d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
 
 ---
 
@@ -263,7 +261,15 @@ Over the past 48 hours, demand has pushed close to the limits of our current cap
 
 Which way to the Land of the Free again?
 
-⬆️ 183 • 💬 157 • 11h ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+⬆️ 187 • 💬 157 • 12h ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+
+---
+
+**[How we measured AI writing across arXiv, and where the measurement breaks](https://news.ycombinator.com/item?id=48981206)**
+
+We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.
+
+⬆️ 182 • 💬 132 • 6h ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 
 ---
 
@@ -277,7 +283,7 @@ The people who built the attention economy barely let their own children near it
 
 📺 House of El: AI
 
-👁️ 55K • 👍 6K • 💬 1K • ⏱️ 24:19 • 5h ago
+👁️ 55K • 👍 6K • 💬 1K • ⏱️ 24:19 • 7h ago
 
 ---
 
@@ -287,7 +293,7 @@ https://Patreon.com/InternetOfBugs or https://InternetOfBugs.com "They spent a l
 
 📺 Internet of Bugs
 
-👁️ 20K • 👍 2K • 💬 256 • ⏱️ 10:55 • 7h ago
+👁️ 20K • 👍 2K • 💬 256 • ⏱️ 10:55 • 8h ago
 
 ---
 
@@ -297,7 +303,7 @@ South Korea's AI Bubble Just Popped ▻ Get 20% off DeleteMe US consumer plans w
 
 📺 Andrei Jikh
 
-👁️ 378K • 👍 17K • 💬 1K • ⏱️ 25:10 • 5h ago
+👁️ 378K • 👍 17K • 💬 1K • ⏱️ 25:10 • 6h ago
 
 ---
 
@@ -333,7 +339,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Genius Priya r7
 
-👁️ 177K • 👍 1K • 💬 4 • ⏱️ 0:14 • 18h ago
+👁️ 177K • 👍 1K • 💬 4 • ⏱️ 0:14 • 20h ago
 
 ---
 
@@ -343,7 +349,7 @@ Create Realistic AI Polaroids with Higgsfield https://higgsfield.ai?fpr=ai&fp_si
 
 📺 Isa does AI
 
-👁️ 8K • 💬 1 • ⏱️ 11:15 • 5h ago
+👁️ 8K • 💬 1 • ⏱️ 11:15 • 6h ago
 
 ---
 
@@ -353,7 +359,7 @@ Link: https://mem0.ai/?via=caleb CALEB $19 USD off on all payments within the fi
 
 📺 Caleb Writes Code
 
-👁️ 25K • 👍 677 • 💬 114 • ⏱️ 8:40 • 16h ago
+👁️ 25K • 👍 677 • 💬 114 • ⏱️ 8:40 • 17h ago
 
 ---
 
@@ -379,7 +385,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,250 • 3h ago
+⬇️ 13,462 • ❤️ 1,250 • 5h ago
 
 ---
 
@@ -449,7 +455,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 453 • 2h ago
+⬇️ 0 • ❤️ 453 • 4h ago
 
 ---
 
@@ -633,7 +639,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.0k • 🔱 1.0k • 2h ago
+⭐ 5.0k • 🔱 1.0k • 4h ago
 
 ---
 
@@ -643,7 +649,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 228 • 12h ago
+⭐ 3.0k • 🔱 228 • 13h ago
 
 ---
 
@@ -721,7 +727,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 851 • 🔱 97 • 11h ago
+⭐ 851 • 🔱 97 • 12h ago
 
 ---
 

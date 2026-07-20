@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-20T21:43:29.617820+00:00'
+updated: '2026-07-20T23:00:57.293225+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 20, 2026 at 21:43 UTC  
+**Last Updated:** July 20, 2026 at 23:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,11 +120,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent](https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7)**
+**[Robotic elephant-trunk gripper uses internal camera for a sense of touch](https://newatlas.com/robotics/eletac-robotic-elephant-trunk-gripper-touch/)**
 
-Agility Robotics has expanded with a new Silicon Valley hub. The startup is avoiding AI talent wars and focusing on culture over high salaries.
+Evolution has already found solutions to lots of problems, so engineers more often borrow ideas from nature instead of reinventing the wheel. We’ve previously seen robots that can curl up like armadillos to protect themselves, and now researchers have developed yet another soft robotic gripper that…
 
-Business Insider • 12m ago
+New Atlas • 1h ago
 
 ---
 
@@ -132,7 +132,15 @@ Business Insider • 12m ago
 
 Swiss startup Mimic Robotics unveils the Mimic Hand M1, bringing human-like precision, strength and touch to factory automation.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 9h ago
+
+---
+
+**[Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent](https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7)**
+
+Agility Robotics has expanded with a new Silicon Valley hub. The startup is avoiding AI talent wars and focusing on culture over high salaries.
+
+Business Insider • 1h ago
 
 ---
 
@@ -140,25 +148,25 @@ Interesting Engineering • 8h ago
 
 The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
 
-The Washington Post • 5h ago
+The Washington Post • 7h ago
 
 ---
 
 **[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
 
-OregonLive.com • 57m ago
+OregonLive.com • 2h ago
 
 ---
 
 **[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
 **[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
 
-Tech Xplore • 3h ago
+Tech Xplore • 4h ago
 
 ---
 
@@ -174,13 +182,7 @@ Common Dreams • 3d ago
 
 An indication of interest for a pilot order came from a top-20 data company; in Q3, FF plans software for one operator to control multiple robot models.
 
-Stock Titan • 20h ago
-
----
-
-**[Watch ABB Robotics on Business Strategy in China](https://www.bloomberg.com/news/videos/2026-07-20/abb-robotics-on-business-strategy-in-china-video)**
-
-Bloomberg.com • 21h ago
+Stock Titan • 21h ago
 
 ---
 
@@ -284,7 +286,7 @@ This secret combo brought Teth back! In this video we look at key components tha
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 204 • 💬 42 • ⏱️ 16:14 • 8h ago
+👁️ 3K • 👍 204 • 💬 42 • ⏱️ 16:14 • 10h ago
 
 ---
 
