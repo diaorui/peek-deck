@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-20T06:46:44.961329+00:00'
+updated: '2026-07-20T10:11:43.218974+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 20, 2026 at 06:46 UTC  
+**Last Updated:** July 20, 2026 at 10:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Apple test](https://www.reddit.com/r/robotics/comments/1v0werw/apple_test/)**
 
-13h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ I'm 15 years old and this is my hexapod project I have been working on for the p
 
 I need to transfer a lot of force through this keyway into a 3d print, and am confused on the intended way to attach to this shaft.
 
-12h ago
+15h ago
 
 ---
 
@@ -58,13 +58,13 @@ I need to transfer a lot of force through this keyway into a 3d print, and am co
 
 I’m building Haga, an independent physics-consistency checker for generated video and robot-policy simulations. An earlier CogVideoX-5b I2V experiment produced a clear failure mode: on a “ball and block fall” prompt, the tracked object stayed airborne with near-zero motion instead of falling. But that first result was post-hoc. I inspected those six clips before adding the static_hover detector, so the original 6/6 flag rate could not be treated as confirmation. I’ve now run a pre-registered held-out test. Method: Model: THUDM/CogVideoX-5b-I2V Cohort: 3 perspectives × seeds 2, 3 and 4 n=9 clips Detector thresholds and inclusion rules frozen before generation RGB → CoTracker3 → position-only VIDEO_CHECKS Discovery seeds 0–1 kept separate from held-out seeds 2–4 Result: Held-out flag rate: 1.000 (9/9) Wilson 95% CI: [0.701, 1.000] All nine clips fired static_hover Real Physics-IQ footage stayed quiet under the same profile static_hover fires when the tracked object remains airborne for most of the clip, has near-zero frame-to-frame speed, and does not exhibit gravitational acceleration. Important limitations: One open I2V model One ball-and-block-fall scene family One documented failure mode Real negative-control n=1 in this specific report Not Cosmos, Genie or NIM Not a broad claim about CogVideoX quality Write-up: https://haga.mushoodhanif.com/article/sim-physics-consistency-v1#held-out Lab: https://haga.mushoodhanif.com/lab/physicsiq Bounded demo: https://haga.mushoodhanif.com/demo I’d especially value criticism on: Which physical violations will position-only tracking systematically miss? Is static_hover defined narrowly enough to avoid confusing intentional suspension with failed dynamics? What public generated-video artifact should I evaluate next under the frozen detector?
 
-13h ago
+16h ago
 
 ---
 
 **[Isaac sim: rosbag replay via rosbrigde](https://www.reddit.com/r/robotics/comments/1v0ue0e/isaac_sim_rosbag_replay_via_rosbrigde/)**
 
-14h ago
+18h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m building Haga, an independent physics-consistency checker for generated vi
 
 Hey everyone! I’m a high school student helping run a student-led program that teaches Autodesk Fusion and CAD to students for free. We recently secured an international partnership and are getting ready to work with a lot more students, so we’re looking for a few more people to join the team. We’re especially hoping to find people who already have experience with CAD, whether that’s Autodesk Fusion, Onshape, SolidWorks, Inventor, or another program. Fusion experience would be ideal, but familiarity with other CAD software is still very useful since many of the main concepts carry over. The main roles we need are: Co-President and Vice Presidents: Help lead the team, communicate with partners, organize meetings, and help decide where the program goes next. This role will collapse onto the other two roles below. Mentors: Join weekly Zoom classes, demonstrate Fusion tools, answer questions, and help students when they get stuck. Curriculum Developers: Help improve our current lessons and create new activities, projects, and assignments. CAD experience is especially important for mentors and curriculum developers, but we’re also looking for people who are reliable, communicate well, and genuinely want to help students learn engineering. Apply here: https://docs.google.com/forms/d/e/1FAIpQLSckr1UBILkgySbmjvRhKD0qca_-Omxy_aLmG5aN6JIEhE9tJg/viewform?usp=dialog
 
-23h ago
+1d ago
 
 ---
 
@@ -116,23 +116,29 @@ Researchers at the University of Toronto's Continuum Robotics Laboratory introdu
 
 The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
 
-WIRED • 2d ago
+WIRED • 3d ago
 
 ---
 
-**[Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots](https://futurism.com/robots-and-machines/striking-workers-hyundai-korea-humanoid-robots-labor)**
+**[Agility Robotics plants its flag in Tesla’s backyard](https://finance.yahoo.com/technology/ai/articles/agility-robotics-plants-flag-tesla-201949661.html)**
 
-A major Hyundai factory in South Korea is on its knees after negotiations between labor and management broke down last week.
+Agility is opening a new training center for its Digit robots in Fremont, California.
 
-Futurism • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**['World's 1st mass-produced humanoid robot' motors to market in China](https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/)**
+**[Silicon Valley is embracing armed robots. Washington is making room.](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
 
-People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
+The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
 
-New Atlas • 1d ago
+The Washington Post • 1h ago
+
+---
+
+**[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -140,27 +146,13 @@ New Atlas • 1d ago
 
 Isaac Asimov’s laws of robotics have influenced AI’s development, but to what end?
 
-Los Angeles Review of Books • 18h ago
+Los Angeles Review of Books • 21h ago
 
 ---
 
 **[Watch ABB Robotics on Business Strategy in China](https://www.bloomberg.com/news/videos/2026-07-20/abb-robotics-on-business-strategy-in-china-video)**
 
-Bloomberg.com • 6h ago
-
----
-
-**[South Korea-US team unveils robotic technology that dresses the wearer](https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/)**
-
-Reuters • 2d ago
-
----
-
-**[They Trained Robots on 100 Million Videos. Here's What Happened](https://www.cnet.com/videos/they-trained-robots-on-100-million-videos-heres-what-happened/)**
-
-Rhoda AI is betting the future of robotics starts with internet video, not lab data. We visited the company's headquarters to see how its Direct Video Action model learns physics from hundreds of millions of clips.
-
-CNET • 21h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -168,21 +160,29 @@ CNET • 21h ago
 
 Her algorithm enables robots to install antennas on satellites
 
-IEEE Spectrum • 3d ago
+IEEE Spectrum • 4d ago
 
 ---
 
-**[Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New Details on FF’s EAI Data Factory, Q3 “Four-Core Full-Stack AI” Robotics Practical Deployment Campaign and EAI Robotics Summer Camp](https://www.morningstar.com/news/business-wire/20260719614406/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-update-provides-new-details-on-ffs-eai-data-factory-q3-four-core-full-stack-ai-robotics-practical-deployment-campaign-and-eai-robotics-summer-camp)**
+**[rStream and Gillette Stadium Partner to Bring AI Robotics to Stadium Waste](https://markets.businessinsider.com/news/stocks/rstream-and-gillette-stadium-partner-to-bring-ai-robotics-to-stadium-waste-1036340355)**
 
-Morningstar • 7h ago
+New on-site AI-powered sorting system helps advance waste diversion, operational efficiency, and sustainability after matches and concerts.rStream...
+
+markets.businessinsider.com • 2h ago
 
 ---
 
-**[How to avoid the teleoperation trap in robotics development](https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/)**
+**[To survive China’s cost-conscious market, global brands embrace AI and robots](https://www.scmp.com/business/companies/article/3360989/survive-chinas-cost-conscious-market-global-brands-embrace-ai-and-robots)**
 
-Teleoperation is necessary for training humanoid robots, but reinforcement learning and simulation are still necessary, says Flexion's CEO.
+South China Morning Post • 11h ago
 
-The Robot Report • 18h ago
+---
+
+**[Weave Robotics launches Isaac, its first mobile humanoid robot](https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/)**
+
+Weave Robotics has listed the features of its Isaac wheeled bimanual manipulator robot for household and office use.
+
+The Robot Report • 2d ago
 
 ---
 
@@ -196,17 +196,7 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 24K • 👍 936 • 💬 70 • ⏱️ 14:37 • 1d ago
-
----
-
-**[America Is Now Building Humanoid AI Robot Soldiers for War](https://www.youtube.com/watch?v=Qm64Vm-lf80)**
-
-An American robotics startup is preparing humanoid AI robots for war. Its Phantom machines have already been tested in Ukraine, ...
-
-📺 AI Revolution
-
-👁️ 14K • 👍 528 • 💬 76 • ⏱️ 13:15 • 1d ago
+👁️ 25K • 👍 958 • 💬 72 • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -216,7 +206,17 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 23K • 👍 288 • 💬 109 • ⏱️ 4:18 • 1d ago
+👁️ 25K • 👍 304 • 💬 113 • ⏱️ 4:18 • 1d ago
+
+---
+
+**[America Is Now Building Humanoid AI Robot Soldiers for War](https://www.youtube.com/watch?v=Qm64Vm-lf80)**
+
+An American robotics startup is preparing humanoid AI robots for war. Its Phantom machines have already been tested in Ukraine, ...
+
+📺 AI Revolution
+
+👁️ 15K • 👍 543 • 💬 80 • ⏱️ 13:15 • 1d ago
 
 ---
 
@@ -226,7 +226,17 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 11K • 👍 234 • 💬 69 • ⏱️ 13:38 • 15h ago
+👁️ 13K • 👍 257 • 💬 71 • ⏱️ 13:38 • 19h ago
+
+---
+
+**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
+
+Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
+
+📺 Joanna Stern
+
+👁️ 77K • 👍 3K • 💬 252 • ⏱️ 12:02 • 3d ago
 
 ---
 
@@ -236,17 +246,7 @@ War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Cod
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 353 • 💬 84 • ⏱️ 14:20 • 19h ago
-
----
-
-**[Meet the robot clothes that dress you](https://www.youtube.com/watch?v=aLmtcrj5gro)**
-
-Researchers at South Korea's KAIST and Stanford University have unveiled clothing embedded with air-powered 'vine' robots that ...
-
-📺 Reuters
-
-👁️ 43K • 👍 370 • 💬 54 • ⏱️ 2:07 • 2d ago
+👁️ 7K • 👍 377 • 💬 85 • ⏱️ 14:20 • 23h ago
 
 ---
 
@@ -256,17 +256,7 @@ A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knocko
 
 📺 Kalil 4.0
 
-👁️ 9K • 👍 122 • 💬 28 • ⏱️ 9:31 • 1d ago
-
----
-
-**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
-
-The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
-
-📺 Job Othoniel
-
-👁️ 18K • 👍 131 • 💬 44 • ⏱️ 0:27 • 2d ago
+👁️ 9K • 👍 123 • 💬 28 • ⏱️ 9:31 • 2d ago
 
 ---
 
@@ -276,17 +266,25 @@ Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mond
 
 📺 FlytPath
 
-👁️ 3K • 👍 131 • 💬 19 • ⏱️ 5:19 • 12h ago
+👁️ 4K • 👍 144 • 💬 19 • ⏱️ 5:19 • 16h ago
 
 ---
 
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
+**[Meet the robot clothes that dress you](https://www.youtube.com/watch?v=aLmtcrj5gro)**
 
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
+Researchers at South Korea's KAIST and Stanford University have unveiled clothing embedded with air-powered 'vine' robots that ...
 
-📺 Air Photography
+📺 Reuters
 
-👁️ 62K • 👍 2K • 💬 185 • ⏱️ 7:15 • 3d ago
+👁️ 43K • 👍 383 • 💬 54 • ⏱️ 2:07 • 2d ago
+
+---
+
+**[Lucky find: Unboxing a discarded interactive robot. 🤖#robot #robotics #smartrobot #ruko #unboxing](https://www.youtube.com/watch?v=haIFkiPBw8w)**
+
+📺 Smarttoy Ruko
+
+👁️ 32K • 👍 151 • ⏱️ 0:19 • 2d ago
 
 ---
 

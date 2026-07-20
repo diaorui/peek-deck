@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-20T06:46:44.952091+00:00'
+updated: '2026-07-20T10:11:43.211287+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 06:46 UTC  
+**Last Updated:** July 20, 2026 at 10:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,908.65
+### $63,968.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -1.8%  
-**30d:** +0.9%  
-**90d:** -18.3%  
-**1y:** -45.6%  
+**24h:** -0.3%  
+**7d:** -1.2%  
+**30d:** +1.5%  
+**90d:** -17.9%  
+**1y:** -45.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1279.33B
+**Market Cap:** $1286.97B
 Rank #1
 
-**Circulating Supply:** 20,058,809 BTC
+**Circulating Supply:** 20,058,887 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.1%
 
 **All-Time Low:** $67.81
-+93936.3%
++94518.8%
 
 ---
 
@@ -97,7 +97,7 @@ I sold every other asset I owned, stopped my pension contributions, took out loa
 
 Well, if it's true that for every lucky one there are 99 who cry... here I am... I lost $50,000 of my savings, plus the pain of all the potential gains if I'd just bought that one instead of that other one, or if I'd just held on for longer. I started in 2022 and I've never managed to hold on. When I saw a 10% loss, that was already a lot; on $50,000, I was down $5... I feel like I've failed, and I'll never recover this loss, in my country it's hard to save $500 in three months. Someone like me who has never managed to chase the bull?
 
-9h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Remember this post!
 
 Hello everyone, So I got some btc/eth/bnb in a hardware wallet LEDGER. I am thinking what if my pendrive stops working or LEDGER site itself goes bankrupt. How do I recover my coins? You will say "you need to write down your keys", yes yes but HOW do I get my ledger hardware keys?
 
-15h ago
+18h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Should I include bitcoin in my diversified investments or should I stick to blue chip stocks? I’m relatively risk adverse and have at least 25 yrs before retirement. I invested in Russian stocks before and it did not go well… then I invested in Chinese stocks and it plummeted… then I invested in Japanese telecoms and it stayed flat for yrs. The US tech stocks have given stellar returns and I wonder if bitcoin can beat magnificient seven?
 
-19h ago
+23h ago
 
 ---
 
@@ -165,7 +165,7 @@ Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average
 
 Bitcoin bull Michael Saylor is coming out against BIP 110, warning that the "Reduced Data" proposal is a risky attempt to regulate the blockchain. Discover why Saylor believe this "cure" for network spam is more dangerous than the problem itself.
 
-CoinDesk • 15h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -173,33 +173,33 @@ CoinDesk • 15h ago
 
 Bitcoin could be headed for a $27.9 trillion game-changer...
 
-Forbes • 21m ago
+Forbes • 22h ago
 
 ---
 
-**[Bitcoin ETFs Log Second Week of Inflows, Breaking Two-Month Rout](https://www.bloomberg.com/news/articles/2026-07-20/bitcoin-etfs-log-second-week-of-inflows-breaking-two-month-rout)**
+**[‘Wild West’ of Untested Peptides Has Americans Paying in Crypto to Get Their Fix](https://www.bloomberg.com/news/features/2026-07-20/bitcoin-is-becoming-the-preferred-payment-method-for-buying-peptides-online)**
 
-Bloomberg.com • 58m ago
-
----
-
-**[Bitcoin Nears $65K as SecState Marco Rubio Says US Still Open to Negotiating with Iran](https://finance.yahoo.com/markets/crypto/articles/bitcoin-nears-65k-secstate-marco-051323767.html)**
-
-Bitcoin (BTC) jumps towards $65K on Monday despite the US-Iran war escalating amid new strikes. The positive sentiment comes as Secretary of State Marco Rubio says the US remains open to a diplomatic resolution with Iran. Ad Ad Secretary of State Marco Rubio Reveals US Openness for Iran Talks The Central Command confirmed another wave
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 26m ago
 
 ---
 
-**[Bitcoin Flat Near $64,000 as Oil Hits a One-month High and Kimi AI Selloff Lingers](https://www.moomoo.com/news/post/73195994/bitcoin-flat-near-64000-as-oil-hits-a-one-month)**
+**[Why bitcoin is the better form of hard money than gold](https://finance.yahoo.com/video/why-bitcoin-better-form-hard-180000609.html)**
 
-Moomoo • 1h ago
+Scott Melker discusses where the currency prospects of bitcoin (BTC-USD) historically stand when compared to the likes of gold (GC=F), which once backed the US dollar.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 16h ago
 
 ---
 
-**[The Investors Riding Along With Strategy’s Bitcoin Rollercoaster](https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d)**
+**[Current price of Bitcoin for July 20, 2026](https://fortune.com/article/price-of-bitcoin-07-20-2026/)**
 
-WSJ • 3d ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 11m ago
 
 ---
 
@@ -207,7 +207,21 @@ WSJ • 3d ago
 
 Bitcoin will thrive, regardless of what happens to the CLARITY Act.
 
-The Motley Fool • 13h ago
+The Motley Fool • 16h ago
+
+---
+
+**[Bitcoin recovers toward $65k after sliding on AI shock, crypto bill doubts](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577)**
+
+Investing.com • 2d ago
+
+---
+
+**[Treasuries are amplifying market selloffs and Bitcoin is paying the price](https://cryptoslate.com/treasuries-are-amplifying-market-selloffs-and-bitcoin-is-paying-the-price/)**
+
+Why long Treasury bonds and Bitcoin now fall together, and what would have to change for the bond market to become a hedge again.
+
+CryptoSlate • 19h ago
 
 ---
 
@@ -219,17 +233,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
+**[Gold And Bitcoin Are 2026's Worst Assets Despite Active War — Market Strategist Says It's 'Something We Haven't Seen Before'](https://stocktwits.com/news-articles/markets/equity/gold-and-bitcoin-are-2026-s-worst-assets-despite-active-war-market-strategist-says-it-s-something-we-haven-t-seen-before/cZZLtqwR7Mt)**
 
-Investing.com • 9h ago
+Bitcoin and gold were the worst-performing assets in 2026 amid growing macroeconomic volatility and capital rotation into AI names.
 
----
-
-**[Treasuries are amplifying market selloffs and Bitcoin is paying the price](https://cryptoslate.com/treasuries-are-amplifying-market-selloffs-and-bitcoin-is-paying-the-price/)**
-
-Why long Treasury bonds and Bitcoin now fall together, and what would have to change for the bond market to become a hedge again.
-
-CryptoSlate • 16h ago
+Stocktwits • 2d ago
 
 ---
 
@@ -253,17 +261,9 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ---
 
-**[Michael Saylor's Cryptic Bitcoin Post Sparks Fresh Strategy Speculation](https://news.ycombinator.com/item?id=48890315)**
-
-Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
-
-⬆️ 1 • 💬 0 • 6d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377739002/)
-
----
-
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
 
-⬆️ 2 • 💬 0 • 23h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 2 • 💬 0 • 1d ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
@@ -277,7 +277,7 @@ The biggest advantage Bitcoin has isn't price, it's verification. As governments
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 75 • ⏱️ 15:42 • 8h ago
+👁️ 19K • 👍 1K • 💬 119 • ⏱️ 15:42 • 12h ago
 
 ---
 
@@ -287,7 +287,7 @@ Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 1K • 💬 83 • ⏱️ 31:29 • 1d ago
+👁️ 33K • 👍 1K • 💬 83 • ⏱️ 31:29 • 1d ago
 
 ---
 
@@ -297,17 +297,7 @@ August is right around the corner and that means BIG moves coming up (Clarity, S
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 511 • 💬 34 • ⏱️ 29:49 • 1d ago
-
----
-
-**[🚨 BTC Bottom, AI Risk, SpaceX Options, Van Life &amp; The Truck Truth!](https://www.youtube.com/watch?v=DKr1dq87Kko)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 26K • 👍 2K • 💬 98 • ⏱️ 41:47 • 10h ago
+👁️ 9K • 👍 510 • 💬 35 • ⏱️ 29:49 • 1d ago
 
 ---
 
@@ -317,7 +307,17 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 222 • 💬 82 • ⏱️ 18:50 • 1d ago
+👁️ 4K • 👍 226 • 💬 86 • ⏱️ 18:50 • 1d ago
+
+---
+
+**[Bitcoin: This Time IS NOT Different (Brutal Bottom Update)](https://www.youtube.com/watch?v=wwzpHRthDc8)**
+
+WEEKLY REPORTS → https://link.tiainvestor.com/jyt-reports ➡ 18-YEAR CYCLE MINI-COURSE ...
+
+📺 Jason Pizzino
+
+👁️ 11K • 👍 722 • 💬 48 • ⏱️ 27:52 • 7h ago
 
 ---
 
@@ -327,47 +327,45 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 248 • 💬 69 • ⏱️ 18:15 • 8h ago
+👁️ 5K • 👍 273 • 💬 140 • ⏱️ 18:15 • 11h ago
 
 ---
 
-**[Bitcoin&#39;s Next Move Depends On One Fed Decision](https://www.youtube.com/watch?v=fEnq13uJBD0)**
+**[🚨 BTC Bottom, AI Risk, SpaceX Options, Van Life &amp; The Truck Truth!](https://www.youtube.com/watch?v=DKr1dq87Kko)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
 
-📺 Anthony Pompliano
+📺 InvestAnswers
 
-👁️ 48K • 👍 2K • 💬 58 • ⏱️ 50:17 • 1d ago
-
----
-
-**[Gold, EURUSD &amp; Bitcoin Traders: Don’t Fall for the Dollar Trap | Weekly SMC Outlook](https://www.youtube.com/watch?v=c3WNPJqCS8c)**
-
-Gold, Silver, EURUSD, GBPUSD, DXY, WTI, Bitcoin and more. IC Markets Bonuses Up To $26k: ...
-
-📺 Justin Bennett
-
-👁️ 20K • 👍 1K • 💬 212 • ⏱️ 21:25 • 1d ago
+👁️ 30K • 👍 2K • 💬 105 • ⏱️ 41:47 • 14h ago
 
 ---
 
-**[Hummingbird: The Bitcoin Jungle Story | FULL MOVIE | Documentary](https://www.youtube.com/watch?v=63WbA7slCdg)**
+**[The Bitcoin Mortgage Hack That Changes Everything - CJ Konstantinos](https://www.youtube.com/watch?v=wm0VlIjJ4T0)**
 
-"Hummingbird: The Bitcoin Jungle Story" explores the origins of an organic farmer's market in Uvita, Costa Rica, weaving together ...
+Bitcoin #Crypto #finance In this episode, CJ Konstantinos explains how People's Reserve is rethinking lending by treating Bitcoin ...
 
-📺 Simply Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 706 • 💬 175 • ⏱️ 1:16:14 • 1d ago
+👁️ 6K • 👍 298 • 💬 297 • ⏱️ 1:20:02 • 21h ago
 
 ---
 
-**[Billionaire on how Bitcoin is valuable](https://www.youtube.com/watch?v=KY8-qZ-8IsQ)**
+**[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
 
-Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I buy that Bitcoin is a legitimate store of value.
+BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Prof G Markets
+📺 Crypto World
 
-👁️ 43K • 👍 514 • 💬 172 • ⏱️ 1:42 • 2d ago
+👁️ 6K • 👍 261 • 💬 164 • ⏱️ 22:19 • 13h ago
+
+---
+
+**[INSANE CLARITY ACT DRAMA! AI BOOM STILL EARLY Bitcoin and Tech Stocks BLEEDING #bitcoin #ai #crypto](https://www.youtube.com/watch?v=pnfoGo3UCEg)**
+
+📺 CryptoWendyO
+
+👁️ 19K • 👍 1K • 💬 77 • ⏱️ 2:04 • 2d ago
 
 ---
 
