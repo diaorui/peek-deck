@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-20T16:56:03.157856+00:00'
+updated: '2026-07-20T18:53:09.403610+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 20, 2026 at 16:56 UTC  
+**Last Updated:** July 20, 2026 at 18:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Apple test](https://www.reddit.com/r/robotics/comments/1v0werw/apple_test/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ I'm 15 years old and this is my hexapod project I have been working on for the p
 
 I need to transfer a lot of force through this keyway into a 3d print, and am confused on the intended way to attach to this shaft.
 
-22h ago
+1d ago
 
 ---
 
@@ -58,7 +58,7 @@ I need to transfer a lot of force through this keyway into a 3d print, and am co
 
 I’m building Haga, an independent physics-consistency checker for generated video and robot-policy simulations. An earlier CogVideoX-5b I2V experiment produced a clear failure mode: on a “ball and block fall” prompt, the tracked object stayed airborne with near-zero motion instead of falling. But that first result was post-hoc. I inspected those six clips before adding the static_hover detector, so the original 6/6 flag rate could not be treated as confirmation. I’ve now run a pre-registered held-out test. Method: Model: THUDM/CogVideoX-5b-I2V Cohort: 3 perspectives × seeds 2, 3 and 4 n=9 clips Detector thresholds and inclusion rules frozen before generation RGB → CoTracker3 → position-only VIDEO_CHECKS Discovery seeds 0–1 kept separate from held-out seeds 2–4 Result: Held-out flag rate: 1.000 (9/9) Wilson 95% CI: [0.701, 1.000] All nine clips fired static_hover Real Physics-IQ footage stayed quiet under the same profile static_hover fires when the tracked object remains airborne for most of the clip, has near-zero frame-to-frame speed, and does not exhibit gravitational acceleration. Important limitations: One open I2V model One ball-and-block-fall scene family One documented failure mode Real negative-control n=1 in this specific report Not Cosmos, Genie or NIM Not a broad claim about CogVideoX quality Write-up: https://haga.mushoodhanif.com/article/sim-physics-consistency-v1#held-out Lab: https://haga.mushoodhanif.com/lab/physicsiq Bounded demo: https://haga.mushoodhanif.com/demo I’d especially value criticism on: Which physical violations will position-only tracking systematically miss? Is static_hover defined narrowly enough to avoid confusing intentional suspension with failed dynamics? What public generated-video artifact should I evaluate next under the frozen detector?
 
-23h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone, I just uploaded my first tutorial video on YouTube and wanted to sh
 
 Researchers at the University of Toronto's Continuum Robotics Laboratory introduced CRAFT, a 3D-printed modular design library for tendon-driven continuum robots that allows a single robot to physically reconfigure its shape, stiffness, and degrees of freedom within minutes by snapping together six interchangeable modules. The same base robot was reconfigured into a long teleoperated probe for aircraft-wing inspection achieving 41% reduction in sag, a pipe-crawling robot capable of navigating 90-degree bends and 30-degree inclines, and a soft robotic hand that successfully cracked eggs with 85% accuracy. CRAFT eliminates the need to build entirely new robots for different tasks, replacing bespoke redesign with rapid modular composition. Credits: https://www.nature.com/articles/s44182-026-00107-x
 
-🔗 [youtube.com](https://youtube.com/shorts/e7LkG7x8f-Y?si=UqChe8XpkiS0xK9f) • 1d ago
+🔗 [youtube.com](https://youtube.com/shorts/e7LkG7x8f-Y?si=UqChe8XpkiS0xK9f) • 2d ago
 
 ---
 
@@ -128,25 +128,25 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
+**[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
 
-Reuters • 10h ago
-
----
-
-**[China unveils brain-to-robot platform that lets people control machines with their thoughts](https://interestingengineering.com/ai-robotics/china-brain-to-robot-platform)**
-
-Chinese BCI firm BrainCo debuts a non-invasive headset allowing users to control humanoid robots and robotic arms using only brain signals.
-
-Interesting Engineering • 1d ago
+Tech Xplore • 13m ago
 
 ---
 
-**[Amid Fears of Killer Robots, Humanoid MMA Fight in China Ends With Decapitation](https://www.commondreams.org/news/humanoid-robot-fights)**
+**[New robotic hand combines human-like precision with powerful grip](https://interestingengineering.com/ai-robotics/startup-unveils-mimic-hand-m1)**
 
-"One brutal kick sent the robot's head hanging loose."
+Swiss startup Mimic Robotics unveils the Mimic Hand M1, bringing human-like precision, strength and touch to factory automation.
 
-Common Dreams • 2d ago
+Interesting Engineering • 5h ago
+
+---
+
+**[Humanoid Robots Are Coming To Factories. But Not The Way You Think](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/)**
+
+We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
+
+Forbes • 42m ago
 
 ---
 
@@ -158,11 +158,25 @@ New Atlas • 1d ago
 
 ---
 
-**[Xpeng loses AI infrastructure chief to OpenAI's robotics push, report says](https://cnevpost.com/2026/07/20/xpeng-loses-ai-infra-chief-to-openai/)**
+**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
 
-Lu Siyuan is set to leave Xpeng and join OpenAI to work on embodied AI robotics research and development.
+The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
 
-CnEVPost • 2h ago
+The Washington Post • 2h ago
+
+---
+
+**[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
+
+Reuters • 12h ago
+
+---
+
+**[They Trained Robots on 100 Million Videos. Here's What Happened](https://www.cnet.com/videos/they-trained-robots-on-100-million-videos-heres-what-happened/)**
+
+Rhoda AI is betting the future of robotics starts with internet video, not lab data. We visited the company's headquarters to see how its Direct Video Action model learns physics from hundreds of millions of clips.
+
+CNET • 1d ago
 
 ---
 
@@ -171,20 +185,6 @@ CnEVPost • 2h ago
 Her algorithm enables robots to install antennas on satellites
 
 IEEE Spectrum • 4d ago
-
----
-
-**[Students Build and Race Robots at Faraday Future’s Camp](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-5a1793mbshju.html)**
-
-An indication of interest for a pilot order came from a top-20 data company; in Q3, FF plans software for one operator to control multiple robot models.
-
-Stock Titan • 15h ago
-
----
-
-**[Watch ABB Robotics on Business Strategy in China](https://www.bloomberg.com/news/videos/2026-07-20/abb-robotics-on-business-strategy-in-china-video)**
-
-Bloomberg.com • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 27K • 👍 329 • 💬 121 • ⏱️ 4:18 • 2d ago
+👁️ 29K • 👍 345 • 💬 128 • ⏱️ 4:18 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 16K • 👍 570 • 💬 89 • ⏱️ 13:15 • 1d ago
+👁️ 17K • 👍 598 • 💬 89 • ⏱️ 13:15 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 26K • 👍 991 • 💬 78 • ⏱️ 14:37 • 2d ago
+👁️ 27K • 👍 1K • 💬 79 • ⏱️ 14:37 • 2d ago
 
 ---
 
@@ -228,17 +228,17 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 16K • 👍 307 • 💬 74 • ⏱️ 13:38 • 1d ago
+👁️ 18K • 👍 311 • 💬 74 • ⏱️ 13:38 • 1d ago
 
 ---
 
-**[Meet the robot clothes that dress you](https://www.youtube.com/watch?v=aLmtcrj5gro)**
+**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
 
-Researchers at South Korea's KAIST and Stanford University have unveiled clothing embedded with air-powered 'vine' robots that ...
+Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
 
-📺 Reuters
+📺 Joanna Stern
 
-👁️ 44K • 👍 404 • 💬 55 • ⏱️ 2:07 • 3d ago
+👁️ 79K • 👍 3K • 💬 254 • ⏱️ 12:02 • 4d ago
 
 ---
 
@@ -248,7 +248,7 @@ War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Cod
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 392 • 💬 95 • ⏱️ 14:20 • 1d ago
+👁️ 8K • 👍 402 • 💬 98 • ⏱️ 14:20 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knocko
 
 📺 Kalil 4.0
 
-👁️ 9K • 👍 125 • 💬 28 • ⏱️ 9:31 • 2d ago
+👁️ 9K • 👍 126 • 💬 28 • ⏱️ 9:31 • 2d ago
 
 ---
 
@@ -268,7 +268,7 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Air Photography
 
-👁️ 65K • 👍 2K • 💬 189 • ⏱️ 7:15 • 4d ago
+👁️ 67K • 👍 2K • 💬 195 • ⏱️ 7:15 • 4d ago
 
 ---
 
@@ -278,17 +278,17 @@ Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mond
 
 📺 FlytPath
 
-👁️ 6K • 👍 163 • 💬 20 • ⏱️ 5:19 • 23h ago
+👁️ 6K • 👍 181 • 💬 23 • ⏱️ 5:19 • 1d ago
 
 ---
 
-**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
+**[Watch This Black Metal Pod Become a Realistic Robot Beetle! ⚙️ #robot #mechanicalengineering](https://www.youtube.com/watch?v=epa8dYv6xMs)**
 
-The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
+Watch a compact black bronze sphere transform into a stunning mechanical darkling beetle with articulated legs, detailed shell ...
 
-📺 Job Othoniel
+📺 TPS  Technology
 
-👁️ 18K • 👍 134 • 💬 44 • ⏱️ 0:27 • 3d ago
+👁️ 32K • 👍 131 • 💬 5 • ⏱️ 0:08 • 3d ago
 
 ---
 

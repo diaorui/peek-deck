@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-20T16:56:03.154631+00:00'
+updated: '2026-07-20T18:53:09.400395+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 16:56 UTC  
+**Last Updated:** July 20, 2026 at 18:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,878.02
+### $1,900.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +0.4%  
-**30d:** +11.2%  
-**90d:** -20.0%  
+**24h:** +2.2%  
+**7d:** +0.5%  
+**30d:** +11.3%  
+**90d:** -19.9%  
 **1y:** -49.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.14B
+**Market Cap:** $229.22B
 Rank #2
 
 **Circulating Supply:** 120,682,825 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-61.6%
 
 **All-Time Low:** $0.43
-+433184.3%
++438572.5%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-1d ago
+2d ago
 
 ---
 
@@ -154,23 +154,31 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
-**[T. Rowe Price Launches Multi-Crypto ETF Including Bitcoin, Ethereum, and XRP](https://247wallst.com/investing/cryptocurrency/2026/07/17/t-rowe-price-launches-multi-crypto-etf-including-bitcoin-ethereum-and-xrp/)**
+**[Bitmine Immersion Technologies (BMNR) Wants 5% Of Ethereum And A Bigger AI Role](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-wants-020627570.html)**
 
-T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
+Tom Lee, chairman of Bitmine Immersion Technologies (NYSE:BMNR), has outlined a plan for the company to acquire 5% of the total Ethereum supply. He framed Ethereum as a key bridge between blockchain infrastructure and AI applications as Wall Street interest in both areas grows. The updated vision follows Bitmine’s inclusion in the Russell 1000 index, which signals a broader role for the company within crypto and AI ecosystems. Bitmine Immersion Technologies is moving beyond its core focus...
 
-24/7 Wall St. • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-taps-brakes-161236369.html)**
+**[Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares](https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares)**
 
-"The reduced pace of buys reflects that Bitmine repurchased 5.5 million common shares," Bitmine Chairman Tom Lee said in a statement.
+Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
 
-Yahoo Finance • 43m ago
+The Block • 5h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) slows ETH purchase pace to shift cash to $86 million stock buyback](https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock)**
+
+The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
+
+CoinDesk • 5h ago
 
 ---
 
@@ -178,7 +186,7 @@ Yahoo Finance • 43m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 8h ago
 
 ---
 
@@ -186,7 +194,7 @@ Fortune • 6h ago
 
 ETHV offers pure ether exposure with lower costs, while NCIQ provides diversified crypto holdings including Bitcoin and Ripple. Choose based on your risk tolerance and diversification needs.
 
-The Motley Fool • 1h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -194,7 +202,7 @@ The Motley Fool • 1h ago
 
 Ethereum outperforms Bitcoin by 9% in the past month due to optimism for tokenized real-world assets. Another analyst predicts possible shakeout with biggest tests between August and October.
 
-Benzinga • 3h ago
+Benzinga • 5h ago
 
 ---
 
@@ -202,23 +210,7 @@ Benzinga • 3h ago
 
 Bitcoin ETFs saw $128M in net inflows while Ethereum ETFs gained $18M, with week-over-week trends diverging as institutional capital hints at a rotation.
 
-Crypto Briefing • 2h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH defends key support, XRP recovery stays on track](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-defends-key-support-xrp-recovery-stays-on-track-202607200341)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are starting the week on a mild constructive note as the broader crypto market attempts to recover. BTC is approaching a key technical hurdle at $65,028, and ETH is holding above the important $1,800 support zone.
-
-FXStreet • 13h ago
-
----
-
-**[Ethereum co-founder Vitalik Buterin 'vibe-codes' anonymous billboard demo with onchain moderation on Aztec](https://www.theblock.co/post/408888/ethereum-co-founder-vitalik-buterin-vibe-codes-anonymous-billboard-demo-with-onchain-moderation-on-aztec)**
-
-Vitalik Buterin "vibe-coded" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.
-
-The Block • 5h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -227,6 +219,14 @@ The Block • 5h ago
 Tom Lee, Chairman of Bitmine Immersion Technologies (the world’s largest corporate holder of Ethereum), is strongly pushing an “ETH 2.0 thesis.” In it, he says Ethereum BITSTAMP:ETHUSD is at an inflection point similar to Amazon before AWS or Nvidia before the AI boom.Ethereum enters “ETH 2.0 era”…
 
 TradingView • 2d ago
+
+---
+
+**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
+
+Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
+
+CoinMarketCap • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 3K • 👍 286 • 💬 19 • ⏱️ 11:56 • 4h ago
+👁️ 6K • 👍 416 • 💬 36 • ⏱️ 11:56 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 161 • ⏱️ 17:58 • 15h ago
+👁️ 56K • 👍 3K • 💬 172 • ⏱️ 17:58 • 17h ago
 
 ---
 
@@ -260,7 +260,17 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 180 • 💬 23 • ⏱️ 11:23 • 19h ago
+👁️ 3K • 👍 185 • 💬 21 • ⏱️ 11:23 • 21h ago
+
+---
+
+**[I AM GOING ALL IN ON ETHEREUM](https://www.youtube.com/watch?v=aSlymErGonE)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 483 • 👍 73 • 💬 7 • ⏱️ 4:04 • 17m ago
 
 ---
 
@@ -270,27 +280,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 121 • 💬 16 • ⏱️ 16:17 • 21h ago
-
----
-
-**[ETH&#39;s BULLISH Signal](https://www.youtube.com/watch?v=8IbeUgtNJB0)**
-
-Bitcoin held a stable weekend after Friday's plunge below the cloud, closing 1.4% inside the cloud on Saturday before a quiet ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 6K • 👍 477 • 💬 54 • ⏱️ 53:29 • 13h ago
-
----
-
-**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
-
-DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
-
-📺 The Rollup
-
-👁️ 4K • 👍 78 • ⏱️ 8:46 • 1d ago
+👁️ 3K • 👍 130 • 💬 16 • ⏱️ 16:17 • 23h ago
 
 ---
 
@@ -300,7 +290,37 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 578 • 💬 314 • ⏱️ 30:25 • 1d ago
+👁️ 5K • 👍 581 • 💬 324 • ⏱️ 30:25 • 1d ago
+
+---
+
+**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
+
+In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 282 • 💬 34 • ⏱️ 6:22 • 1d ago
+
+---
+
+**[BMNR HOLDERS - ROBINHOOD CHAIN FUELING ETH 2.0 ERA](https://www.youtube.com/watch?v=8sHzMQxUNMw)**
+
+Why Ethereum's Next Move Could Be Massive - Robinhood Chain just changed everything for BMNR Tom Lee, ETH, SBET, Joe ...
+
+📺 Big Time Trades
+
+👁️ 741 • 👍 71 • 💬 8 • ⏱️ 26:52 • 6h ago
+
+---
+
+**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
+
+DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
+
+📺 The Rollup
+
+👁️ 4K • 👍 79 • ⏱️ 8:46 • 1d ago
 
 ---
 
@@ -310,27 +330,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 8K • 👍 183 • 💬 157 • ⏱️ 13:08 • 2d ago
-
----
-
-**[&quot;Ethereum is about to EXPLODE!!&quot; Wall Street Expert Explains Why! (in only 12 minutes)](https://www.youtube.com/watch?v=SZ9Ks_GKUAs)**
-
-What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTTON! ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 29K • 👍 2K • 💬 142 • ⏱️ 12:55 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=48CtUvBolRk)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 194 • 👍 31 • ⏱️ 6:23 • 4h ago
+👁️ 8K • 👍 185 • 💬 157 • ⏱️ 13:08 • 2d ago
 
 ---
 
