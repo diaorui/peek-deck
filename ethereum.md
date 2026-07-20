@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-19T23:58:05.817584+00:00'
+updated: '2026-07-20T03:46:58.567619+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 23:58 UTC  
+**Last Updated:** July 20, 2026 at 03:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.7%  
-**7d:** +5.5%  
-**30d:** +7.7%  
-**90d:** -19.4%  
+**7d:** -0.6%  
+**30d:** +10.1%  
+**90d:** -20.8%  
 **1y:** -50.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.66B
+**Market Cap:** $226.67B
 Rank #2
 
-**Circulating Supply:** 120,682,835 ETH
+**Circulating Supply:** 120,682,825 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-62.0%
 
 **All-Time Low:** $0.43
-+431879.4%
++433660.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.
 
-🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 15h ago
+🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 19h ago
 
 ---
 
@@ -80,7 +80,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
@@ -158,11 +158,27 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
-**[Tom Lee Says Ethereum's Future Is 'Exponential,' Cites Analyst's $2,200 ETH Target](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereums-future-085641202.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Stay Flat Amid Iran Tensions—Analyst Says This BTC Level Could Ignite 'Sustained Bull Trend'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-stay-021041573.html)**
 
-BitMine Immersion Technologies Inc. (NYSE:BMNR) Chair Tom Lee made a case on Thursday that Ethereum (CRYPTO: ETH) is bottoming and entering the next phase of mainstream adoption Crypto Winter Over? In his latest message to shareholders, Lee said that the “crypto spring is here.” He cited the research of Tom DeMark, a popular technical analyst and Bitmine Immersion’s timing advisor for cryptocurrency acquisitions, who believes everything is set for a “market bottom” and that the “Ethereum risk-re
+Leading cryptocurrencies moved sideways on Sunday as U.S. strikes on Iran continued into their “ninth consecutive night.” Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.03%$64,703.37Ethereum (CRYPTO: ETH) +0.78%$1,872.63XRP (CRYPTO: XRP) +0.48%$1.09Solana (CRYPTO: SOL) +1.40%$76.59Dogecoin (CRYPTO: DOGE) +0.11%$0.07249 Crypto Market Coagulates Bitcoin hovered between $64,000 and the low $65,000 range, even as trading volume surged 12% over the past 24 hou
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Abraxas Capital increases Bitcoin and Ethereum shorts to $111M, signaling cautious market stance.](https://pluang.com/en/news-feed/abraxas-capital-tambah-posisi-short-btc-eth-111juta)**
+
+Abraxas Capital has significantly raised its short positions on Bitcoin and Ethereum to a combined value of approximately $111 million, according to on-chain data. This move indicates a cautious or bearish stance on the two largest cryptocurrencies, which often influence overall market sentiment. While the increase in shorts may reflect a hedge or negative outlook, it does not guarantee a price drop. Market participants are watching closely as such large bets can impact trading strategies and risk assessments.
+
+Pluang • 3h ago
+
+---
+
+**[Allbridge bridge hacked for $1.65M, funds moved from Solana to Ethereum and swapped to ETH](https://pluang.com/en/news-feed/allbridge-dirusak-2juta-dana-dipindahkan-dari-solana-ke-ethereum)**
+
+Allbridge, a cross-chain bridge protocol for stablecoins, was exploited by an attacker who stole about $1.65 million. The attacker moved the stolen funds from the Solana blockchain to Ethereum and converted them into ETH. This follows previous security issues for Allbridge, including a 2023 flash-loan attack. The incident highlights ongoing risks in cross-chain bridges, and monitoring the attacker’s wallet movements could signal potential recovery or freezing of funds.
+
+Pluang • 1h ago
 
 ---
 
@@ -170,7 +186,7 @@ Yahoo Finance • 2d ago
 
 Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
 
-CryptoSlate • 6h ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -178,15 +194,15 @@ CryptoSlate • 6h ago
 
 Big changes are afoot at Ethereum, but will they be enough to send ETH higher?
 
-The Motley Fool • 17h ago
+The Motley Fool • 21h ago
 
 ---
 
-**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
+**[Ethereum's 12 Biggest Wallets Expose 6 Exchanges Controlling 6.6 Million ETH](https://news.bitcoin.com/ethereums-12-biggest-wallets-expose-6-exchanges-controlling-6-6-million-eth/)**
 
-Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
+Ethereum's largest wallets hold more than 82% of the supply tracked across the network's top 12 addresses, according to onchain data reviewed by
 
-Stocktwits • 2d ago
+Bitcoin News • 5h ago
 
 ---
 
@@ -206,27 +222,11 @@ Decrypt • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Prevails: Analyst Says BTC's 'Clear Breakthrou](https://www.benzinga.com/crypto/cryptocurrency/26/07/60515898/bitcoin-ethereum-xrp-dogecoin-slide-as-fear-sentiment-prevails)**
+**[Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF)**
 
-Leading cryptocurrencies fell alongside stocks on Thursday, July 16, as the chip selloff and Iran tensions impacted risk appetite.
+Ethereum (ETH) led losses among major cryptocurrencies on Friday morning after a Politico report said the Digital Asset Market Clarity Act (CLARITY) may lack Democratic support, making passage more difficult.
 
-Benzinga • 2d ago
-
----
-
-**[Here's Why Altseason Keeps Getting Delayed as Bitcoin Outperforms](https://coinmarketcap.com/academy/article/why-altseason-keeps-getting-delayed)**
-
-Why is altseason delayed? Explore Bitcoin dominance, ETF flows, Ethereum weakness, token oversupply, and liquidity trends shaping why altcoins still trail Bitcoin in 2026 amid market shifts.
-
-CoinMarketCap • 1d ago
-
----
-
-**[BlackRock bought almost $350 million of these cryptocurrencies in 5 days](https://finbold.com/blackrock-bought-almost-350-million-of-these-cryptocurrencies-in-5-days/)**
-
-BlackRock attracted nearly $350 million in net inflows across its spot cryptocurrency exchange-traded funds over five trading days.
-
-Finbold • 13h ago
+Stocktwits • 2d ago
 
 ---
 
@@ -234,13 +234,23 @@ Finbold • 13h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
+
+Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
+
+📺 Benjamin Cowen
+
+👁️ 4K • 👍 969 • 💬 61 • ⏱️ 17:58 • 2h ago
+
+---
+
 **[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
 
 INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 121 • 💬 30 • ⏱️ 11:23 • 2h ago
+👁️ 2K • 👍 153 • 💬 9 • ⏱️ 11:23 • 6h ago
 
 ---
 
@@ -250,17 +260,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 659 • 👍 58 • 💬 71 • ⏱️ 16:17 • 4h ago
-
----
-
-**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
-
-You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 537 • 💬 327 • ⏱️ 30:25 • 14h ago
+👁️ 1K • 👍 90 • 💬 12 • ⏱️ 16:17 • 8h ago
 
 ---
 
@@ -270,7 +270,17 @@ DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cyc
 
 📺 The Rollup
 
-👁️ 2K • 👍 48 • 💬 74 • ⏱️ 8:46 • 8h ago
+👁️ 3K • 👍 58 • 💬 75 • ⏱️ 8:46 • 12h ago
+
+---
+
+**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
+
+You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 563 • 💬 214 • ⏱️ 30:25 • 17h ago
 
 ---
 
@@ -284,33 +294,23 @@ What Is Ethereum? Why is ETH the best crypto good investment? SLAP THE LIKE BUTT
 
 ---
 
-**[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 7K • 👍 172 • 💬 156 • ⏱️ 13:08 • 1d ago
-
----
-
 **[BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5_kihD8Sy6Q)**
 
 BITCOIN PRICE PATTERN CONFIRMED (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 2K • 👍 148 • 💬 182 • ⏱️ 22:19 • 2h ago
+👁️ 4K • 👍 232 • 💬 44 • ⏱️ 22:19 • 6h ago
 
 ---
 
-**[&quot;This is ETH Is Going To $50,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=CJBvboXyhm0)**
+**[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 Crypto Nutshell
+📺 Milk Road
 
-👁️ 7K • 👍 241 • 💬 92 • ⏱️ 20:43 • 2d ago
+👁️ 7K • 👍 173 • 💬 156 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -320,17 +320,17 @@ In this video I break down the current Ethereum price action and the key resista
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 265 • 💬 32 • ⏱️ 6:22 • 20h ago
+👁️ 5K • 👍 268 • 💬 32 • ⏱️ 6:22 • 1d ago
 
 ---
 
-**[Cardano hard fork, Saylor BIP 110, Kraken options, stablecoin supply and Ethereum](https://www.youtube.com/watch?v=MYsfI5HvhSM)**
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana](https://www.youtube.com/watch?v=1icEewsC_as)**
 
-Cardano hard fork, Saylor BIP 110, Kraken options, stablecoin supply and Ethereum Cardano activates its first onchain-governed ...
+Join Gareth's Top Squad: https://www.youtube.com/channel/UCwTu6kD2igaLMpxswtcdxlg/join Bitcoin just turned green and ...
 
-📺 The Coin Daily
+📺 Gareth Soloway
 
-👁️ 221 • 👍 4 • ⏱️ 8:54 • 6h ago
+👁️ 44K • 👍 3K • 💬 116 • ⏱️ 14:48 • 2d ago
 
 ---
 

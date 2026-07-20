@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-19T23:58:05.803261+00:00'
+updated: '2026-07-20T03:46:58.553244+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 19, 2026 at 23:58 UTC  
+**Last Updated:** July 20, 2026 at 03:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Politicians Are Trying to Change What Chatbots Say About Them](https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 6h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) • 10h ago
 
 ---
 
@@ -47,23 +47,7 @@ AI news, discussions, and developments
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-🔗 [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) • 1h ago
-
----
-
-**[How do you actually keep up with everything in AI?](https://www.reddit.com/r/artificial/comments/1v0yb8z/how_do_you_actually_keep_up_with_everything_in_ai/)**
-
-I don’t know if I’m the only one experiencing this, but I’m struggling to find AI information that is genuinely useful or interesting. I follow a few podcasts and newsletters (around 2 podcasts and 4/5 newsletters focused on AI), but lately it feels like none of them provide any value. These are some of the most popular and widely followed sources, so maybe I’m missing something, but I don’t understand how people keep finding them useful. Many newsletters seem to be AI generated or heavily automated and while I understand why that makes sense from a productivity perspective, the quality feels worse (or there isn't at all). Most of what I read feels repetitive, exaggerated or just empty hype. Most podcasts lose me after 10 minutes because they either repeat the same talking points or spend too much time discussing things without getting to anything meaningful. At this point I’m wondering if is it just me losing interest or has the quality of AI content genuinely gotten worse?
-
-5h ago
-
----
-
-**[AI search enthusiastic responses](https://www.reddit.com/r/artificial/comments/1v14air/ai_search_enthusiastic_responses/)**
-
-I love the way AI has changed general search answers. Instead of just yes or no it adds fantastic. Makes me feel like the AI is more sure of answer (whether it is or not). Reddit cut off part of image. Said yes at beginning. Sorry my pic post skills still need improvement.
-
-1h ago
+🔗 [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) • 4h ago
 
 ---
 
@@ -71,7 +55,15 @@ I love the way AI has changed general search answers. Instead of just yes or no 
 
 Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. Artificial Analysis independently ranks it ahead of Anthropic's Opus 4.8 on frontier benchmarks, first Chinese open-weight model to do that. Still behind Claude Fable 5 and GPT-5.6 overall, but Moonshot doesn't claim otherwise. Artificial Analysis and Arena.ai placed it there independently. It also topped web interface engineering evals in blind human-preference comparisons against Claude Fable. Three competing Chinese AI companies (Zhipu, MiniMax, Z.ai) lost 15-28% of their value in a single day. Nasdaq dropped, Nvidia briefly surrendered its most-valuable-company spot to Apple. Companies don't sell off like that over a research demo. Moonshot's moving to IPO within six months, targeting $30B+ valuation, pricing near Anthropic Sonnet levels. Open-weight models typically undercut on price. Moonshot isn't. Is one clean benchmark win against a closed frontier lab is enough to shift enterprise buying decisions? What would it actually take?
 
-6h ago
+9h ago
+
+---
+
+**[How do you actually keep up with everything in AI?](https://www.reddit.com/r/artificial/comments/1v0yb8z/how_do_you_actually_keep_up_with_everything_in_ai/)**
+
+I don’t know if I’m the only one experiencing this, but I’m struggling to find AI information that is genuinely useful or interesting. I follow a few podcasts and newsletters (around 2 podcasts and 4/5 newsletters focused on AI), but lately it feels like none of them provide any value. These are some of the most popular and widely followed sources, so maybe I’m missing something, but I don’t understand how people keep finding them useful. Many newsletters seem to be AI generated or heavily automated and while I understand why that makes sense from a productivity perspective, the quality feels worse (or there isn't at all). Most of what I read feels repetitive, exaggerated or just empty hype. Most podcasts lose me after 10 minutes because they either repeat the same talking points or spend too much time discussing things without getting to anything meaningful. At this point I’m wondering if is it just me losing interest or has the quality of AI content genuinely gotten worse?
+
+9h ago
 
 ---
 
@@ -79,7 +71,23 @@ Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. A
 
 I keep hearing AI governance discussed as if every country is sitting at the same table with roughly the same amount of influence. But most countries don’t control the chips, cloud infrastructure, data centers, or frontier models they’re being asked to regulate. They can write rules, but enforcement still depends heavily on infrastructure owned by a small number of governments and private companies. That makes me wonder whether this is really a regulation problem or an ownership problem. Can a country meaningfully govern advanced AI if it cannot independently inspect the systems, control the compute they run on, or enforce decisions against the companies operating them? I’m not saying regulation is pointless. I’m just not convinced legal authority means much without technical leverage behind it. Curious how people here see it. Does regulation eventually reshape who controls the infrastructure, or will the countries that own the compute always have the final say?
 
-5h ago
+9h ago
+
+---
+
+**[AI search enthusiastic responses](https://www.reddit.com/r/artificial/comments/1v14air/ai_search_enthusiastic_responses/)**
+
+I love the way AI has changed general search answers. Instead of just yes or no it adds fantastic. Makes me feel like the AI is more sure of answer (whether it is or not). Reddit cut off part of image. Said yes at beginning. Sorry my pic post skills still need improvement.
+
+4h ago
+
+---
+
+**[I’d like someone to test my websites API Access with feedback](https://www.reddit.com/r/artificial/comments/1v18480/id_like_someone_to_test_my_websites_api_access/)**
+
+I built a pretty extensive binaural program with API access so others can use the build to produce properly made binaural beats and interact with it for something like a meditation app. Would love if someone connected to the free api key and just tried something like a custom meditation program build to confirm it works, thanks!
+
+🔗 [binauralbeatmachine.com](http://Binauralbeatmachine.com) • 2h ago
 
 ---
 
@@ -87,15 +95,7 @@ I keep hearing AI governance discussed as if every country is sitting at the sam
 
 For the whole history of skilled work, the badge and the contribution were bundled: you couldn't have solved the hard problem without being the kind of person who'd earned the ability to. The proof of the work and the proof of the worker were the same object. Every institution we have for trusting work, credentials, code review, peer review, seniority, the interview, is built on that bundling. None of them were designed for a world where it breaks. It broke. A model can now produce expert-shaped output for anyone who asks. The solved problem no longer certifies the solver. You can watch a whole industry feel this in real time. In six months of the highest-engagement threads across the programming communities, the same wounds recur. Reviewers describe drowning: generation became free while verification stayed expensive, and the cost got pushed onto whoever still reads code. Open-source maintainers report unworkable volumes of AI-generated pull requests, and GitHub is publicly weighing giving maintainers the option to disable pull requests entirely. A randomized study measured what teachers feared: junior engineers who delegated to AI scored 50% on comprehension against 67% for those who coded by hand, while the productivity gain failed statistical significance. And practitioners who spent decades earning their ability describe something rawer than economics: the feeling that mastery itself was commodified overnight. Out of that grief, the field is splitting into two camps that both believe they are defending quality. One camp treats hard-won knowledge as the badge it always was and wants the gates kept: human-written, credential-checked, earned. The other camp sees the first real chance to hand capability to everyone who was ever locked out, and calls the gates what they often were: exclusion wearing a quality costume. Each camp is right about half of it. The gatekeepers are right that unreviewable output degrades fields; the openers are right that the gate never measured what it claimed to. But notice what both camps are actually fighting over: proxies. The badge was only ever a proxy for verified work, adopted because verification was expensive. When you cannot cheaply tell earned from claimed, you fall back on credentials, pedigree, and gatekeeping, and then you defend the proxy as if it were the thing. The divide is not a war of values. It is a shortage of verification. That shortage is now optional. The same era that unbundled the badge from the contribution also made it possible to rebundle them, around the work instead of the worker. Let an external check decide acceptance: a test suite the author cannot edit, a proof checker, a measurement with an interval, a claim ledger where "unverified" stays visible instead of being dressed up. Let every result carry a receipt a stranger can re-run. Let a person who reviews machine work attest to exactly what they walked, with the coverage of that review visible, so "I own this" is a checkable statement rather than a signature. None of this is hypothetical tooling; all of it runs today on a local machine. There is a second gate, and honesty requires naming it. Knowledge is now a truly open surface for anyone, if they can attain the means. The old world gatekept by pedigree; the new one is quietly learning to gatekeep by invoice: metered pipes, shifting plans, capability priced per token. So the answer has two halves. Verification dissolves the badge-gate: the work speaks, whoever made it. Local-first engineering dissolves the means-gate: the verified loop runs on the machine someone already owns. A platform that does only one half has replaced a gate, not removed one. In that world, both camps get the thing they were actually defending. The craftsman's pride survives, strengthened: the work is provably theirs and provably good, and no one needs to take their badge on faith. The commons wins, fully: acceptance is decided by checks anyone can run, and the door stands open to everyone willing to put their work in front of one. What dies is only the proxy, and the proxy was never the point. The honest boundary: no tool repairs a society. What a tool can do is change the price of honesty wherever it touches, and demonstrate, on one working surface, that verification-first coexistence is not a compromise between the two camps but strictly better for both. Exposure argues. A counterexample recruits. The badge and the contribution were bundled, and that world is gone. We can grieve it, or we can build the world where the work speaks for itself, and everyone is allowed to make it speak. Sources, each re-checked against the live page before posting: Anthropic randomized trial on AI assistance and skill formation: https://www.infoq.com/news/2026/02/ai-coding-skill-formation/ GitHub weighing maintainer options to disable or restrict pull requests: https://www.theregister.com/2026/02/03/github_kill_switch_pull_requests_ai/
 
-2h ago
-
----
-
-**[I built a voice lock screen, realized nobody needs it, then Microsoft showed me what I should actually be building.](https://www.reddit.com/r/artificial/comments/1v10z3d/i_built_a_voice_lock_screen_realized_nobody_needs/)**
-
-Honest story because the pivot is the interesting part. Six months ago I wanted to replace the Windows lock screen with voice recognition. Not a passphrase, actual speaker verification. Say anything, it checks your voiceprint on your own machine, unlocks. A friend says the same words, rejected. Got it working. Then I realized nobody needs this. Windows Hello does biometric unlock for free. I was building a worse version of something that already exists. I almost quit the whole thing. Then I watched Microsoft Build 2026. They are turning Windows into an AI agent OS. Copilot, Manus, every agent racing to live on your machine and touch your files. And I noticed something that nobody seems to be talking about. Not one of them knows who is talking to it. They will execute commands from anyone sitting at your keyboard. Right now that is fine because AI agents cannot do much. But agents are getting access to files, money, communications, the ability to run code. When that happens, who is allowed to give it instructions becomes the most important security question on your machine. And nobody is answering it. That is what I am actually building now. Not a lock screen. An identity layer for AI agents on your PC. The idea: before any AI on your machine does anything, it knows it is you. Your voice is the key, verified locally, voiceprint never leaves your device. Then there is a permission dial you control. The AI has exactly the access you gave it, nothing more. You can set it to read only, or open apps, or act on its own while you are away. An AI with full access to your PC is terrifying. An AI with exactly the access you chose is something you would actually install. What works today: voice unlock and a voice assistant you just talk to. It answers out loud, knows who it is talking to, speech to text runs on your device so only text ever goes to the cloud. What I want to build next and I genuinely do not know which matters more to people so tell me: system awareness so you can ask it about your actual machine, why is my PC slow, what is using all my RAM, is this file worth keeping. Or the remote dial, control it from your phone, approve what it does while you are out, get pinged when something needs you. Or the permission system itself, building the actual trust model for what an AI agent is allowed to do on a personal machine. The limits right now: Ctrl Alt Del bypasses it because the deep Windows lock layer is not finished. No liveness detection so a recording of my voice would probably work. Assistant talks but does not act yet. Installer is unsigned. Zero real users outside me. That is why I am posting before building more. What would you actually let an AI do on your machine? Would identity verification change that? Tell me I am solving the wrong problem. [github.com/AadiSharma49/Senti] · [senti-kappa.vercel.app]
-
-3h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Honest story because the pivot is the interesting part. Six months ago I wanted 
 
 I think this is not really AI problem, its more about mindset and it repeats with every new technology. Calculators, Internet - every time people get a tool that thinks for them, some become lazy and some learn to use it without turning off their brain. AI is just the next round, much stronger round. Maybe some kind of the final boss. So probably there is no universal fix and everyone has to find their own way. How do you deal with it? Would like to hear different opinions.
 
-11h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ I think this is not really AI problem, its more about mindset and it repeats wit
 
 The take that ai is good at summarizing and bad at judgment is basically right, and I think it undersells the summarizing half. Every sprint review I've written is about 20 minutes of writing sitting on top of an hour of pulling. Linear for what actually moved, GitHub for what shipped versus what's still open, Slack for the incident nobody ever filed a ticket for. The bit I'd add is that the pulling is exactly the part a model upgrade does nothing for. A smarter model still can't see three tools at once from inside a chat window. What changed it for me was moving the thing onto the desktop, where it could read all three and hand back a draft with deploy status already stitched in, plus an approval step before anything went near the channel. quality of the writeup went from fine to fine. The actual difference was that it existed on friday instead of monday. If your digest tool only reads one source, you've automated the 20 minutes and kept the hour.
 
-4h ago
+7h ago
 
 ---
 
@@ -123,19 +123,35 @@ The take that ai is good at summarizing and bad at judgment is basically right, 
 
 Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications
 
-The Guardian • 7h ago
+The Guardian • 11h ago
 
 ---
 
 **[Pastors Using AI to Help Write Sermons Grapple With Where to Draw the Line](https://www.wsj.com/tech/ai/pastors-using-ai-to-help-write-sermons-grapple-with-where-to-draw-the-line-97dcd1f9)**
 
-WSJ • 14h ago
+WSJ • 18h ago
 
 ---
 
-**[The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)**
+**[Battle against AI data centers grows nationwide](https://www.foxnews.com/video/6401603777112)**
 
-WSJ • 22h ago
+Fox News host Brian Kilmeade examines the battle over artificial intelligence on 'One Nation.'
+
+Fox News • 46m ago
+
+---
+
+**[SF restaurant receives backlash after using AI for menu pictures](https://www.nbcbayarea.com/news/local/restaurant-backlash-ai-menu-san-francisco/4115961/)**
+
+A San Francisco restaurant is facing some backlash after the owners used AI to create photos of their menu items.
+
+NBC Bay Area • 43m ago
+
+---
+
+**[Singapore to adapt foundation AI healthcare models](https://www.healthcareitnews.com/news/asia/singapore-adapt-foundation-ai-healthcare-models)**
+
+Healthcare IT News • 34m ago
 
 ---
 
@@ -143,35 +159,21 @@ WSJ • 22h ago
 
 Speaking in an exclusive interview with CNBC, TSMC's Wendell Huang said the fresh investment comes on the back of robust customer demand.
 
-CNBC • 48m ago
+CNBC • 4h ago
 
 ---
 
 **[TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment](https://www.reuters.com/world/asia-pacific/tsmc-expects-strong-multi-year-demand-ai-chips-it-ramps-up-arizona-investment-2026-07-19/)**
 
-Reuters • 42m ago
+Reuters • 3h ago
 
 ---
 
-**[TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?](https://www.fool.com/investing/2026/07/19/tsmc-vs-asml-which-is-the-better-ai-semiconductor/)**
+**[Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement](https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-just-showed-183000953.html)**
 
-TSMC and ASML are two of the most important companies in the semiconductor value chain.
+TSMC is at the heart of the data center infrastructure build-out.
 
-The Motley Fool • 9h ago
-
----
-
-**[Teleperformance Wants Entire BPO Staff to Be AI-Enabled by 2027](https://www.bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027)**
-
-Bloomberg.com • 58m ago
-
----
-
-**[Billions invested in AI data centers nationwide](https://www.foxnews.com/video/6401590901112)**
-
-‘The Big Weekend Show’ co-host Joey Jones breaks down the U.S. artificial intelligence data center boom, highlighting the number of operational, under-construction and proposed facilities.
-
-Fox News • 1h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -183,9 +185,9 @@ Fortune • 1d ago
 
 ---
 
-**[San Francisco restaurant gets angry backlash for AI menu images](https://www.sfgate.com/food/article/grind-unwind-ai-images-22348931.php)**
+**[Top Pentagon official blasts OpenAI's Dean Ball](https://www.axios.com/2026/07/19/pentagon-openai-dean-ball-trump-ai)**
 
-SFGATE • 12h ago
+Axios • 5h ago
 
 ---
 
@@ -197,7 +199,7 @@ SFGATE • 12h ago
 
 No more AI-edited listings without disclosures.
 
-⬆️ 560 • 💬 259 • 1d ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+⬆️ 570 • 💬 260 • 1d ago • [PetaPixel](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 
 ---
 
@@ -209,13 +211,13 @@ No more AI-edited listings without disclosures.
 
 **[The state of open source AI](https://news.ycombinator.com/item?id=48947825)**
 
-⬆️ 480 • 💬 355 • 2d ago • [stateofopensource.ai](https://stateofopensource.ai/)
+⬆️ 482 • 💬 355 • 2d ago • [stateofopensource.ai](https://stateofopensource.ai/)
 
 ---
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 443 • 💬 524 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 449 • 💬 545 • 1d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -223,21 +225,31 @@ No more AI-edited listings without disclosures.
 
 A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.
 
-⬆️ 439 • 💬 146 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+⬆️ 440 • 💬 146 • 1d ago • [VelvetShark](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 378 • 💬 224 • 22h ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 387 • 💬 239 • 1d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
-**[AI advice made people 3x less accurate but 2x confident, researchers found](https://news.ycombinator.com/item?id=48971738)**
+**[AI advice made people less accurate but more confident – sudy](https://news.ycombinator.com/item?id=48971738)**
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-⬆️ 205 • 💬 100 • 2h ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+⬆️ 296 • 💬 164 • 6h ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+
+---
+
+**[Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://news.ycombinator.com/item?id=48969291)**
+
+Kimi K3 has received far more love than we expected, and our GPUs are feeling it.
+
+Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and
+
+⬆️ 239 • 💬 99 • 11h ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
 
 ---
 
@@ -249,21 +261,11 @@ The move is a vote of confidence in Boeing from the U.S. government.
 
 ---
 
-**[Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://news.ycombinator.com/item?id=48969291)**
-
-Kimi K3 has received far more love than we expected, and our GPUs are feeling it.
-
-Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and
-
-⬆️ 196 • 💬 67 • 7h ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
-
----
-
 **[AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://news.ycombinator.com/item?id=48947714)**
 
 We turned zkao (our AI auditor) on OpenVM, a state-of-the-art zkVM, and it found a critical soundness bug: the pairing check accepted a prover-supplied witness without proper subfield checking, which lets a malicious prover forge any pairing equality. It is fixed in OpenVM 1.6.0 and tracked as CVE-2026-46669. This is the second post in our series on bugs our agents found across open source cryptography.
 
-⬆️ 99 • 💬 9 • 2d ago • [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/openvm-bugs/)
+⬆️ 100 • 💬 9 • 2d ago • [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/openvm-bugs/)
 
 ---
 
@@ -277,7 +279,7 @@ The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik M
 
 📺 Peter H. Diamandis
 
-👁️ 64K • 👍 3K • 💬 707 • ⏱️ 2:07:31 • 9h ago
+👁️ 91K • 👍 4K • 💬 842 • ⏱️ 2:07:31 • 13h ago
 
 ---
 
@@ -291,43 +293,23 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 ---
 
-**[China&#39;s AI just shocked Wall Street](https://www.youtube.com/watch?v=_fNhzoiZdNI)**
-
-I explain the news, you stay sane. ✓ Support independent news ...
-
-📺 Chris Norlund
-
-👁️ 136K • 👍 7K • 💬 2K • ⏱️ 14:15 • 1d ago
-
----
-
-**[Open Source AI Is Getting Too Big to Run](https://www.youtube.com/watch?v=qW5UDpHZBPw)**
-
-Two major open-model releases arrived this week from very different directions. Both geographically and conceptually. Kimi K3 is ...
-
-📺 Turing Post TV
-
-👁️ 19K • 👍 697 • 💬 101 • ⏱️ 18:08 • 2d ago
-
----
-
 **[I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak.](https://www.youtube.com/watch?v=5slsNizN6MQ)**
 
 Full post with a guide to clean sensitive documents: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 18K • 👍 567 • 💬 75 • ⏱️ 14:04 • 18h ago
+👁️ 20K • 👍 608 • 💬 78 • ⏱️ 14:04 • 22h ago
 
 ---
 
-**[Is This the Biggest AI Release of 2026? (China’s New DeepSeek Moment)](https://www.youtube.com/watch?v=V0RsocRqjIU)**
+**[China&#39;s AI just shocked Wall Street](https://www.youtube.com/watch?v=_fNhzoiZdNI)**
 
-China's Moonshot AI just released Kimi K3, the world's largest open-weight AI model. It rivals leading American systems, ...
+I explain the news, you stay sane. ✓ Support independent news ...
 
-📺 AI Revolution
+📺 Chris Norlund
 
-👁️ 57K • 👍 2K • 💬 193 • ⏱️ 14:29 • 2d ago
+👁️ 137K • 👍 7K • 💬 2K • ⏱️ 14:15 • 1d ago
 
 ---
 
@@ -337,17 +319,27 @@ Meta's AI-powered Ray-Ban glasses could transform everyday life for blind and vi
 
 📺 House of El: AI
 
-👁️ 145K • 👍 11K • 💬 2K • ⏱️ 20:09 • 2d ago
+👁️ 149K • 👍 11K • 💬 2K • ⏱️ 20:09 • 2d ago
 
 ---
 
-**[AI News: Claude&#39;s New Browser, Spotify Gets AI &amp; OpenAI&#39;s New Hardware](https://www.youtube.com/watch?v=ss2LaCKUQmU)**
+**[Is This the Biggest AI Release of 2026? (China’s New DeepSeek Moment)](https://www.youtube.com/watch?v=V0RsocRqjIU)**
 
-Try Seedream 5.0 plus other top AI image and video models at Artlist ...
+China's Moonshot AI just released Kimi K3, the world's largest open-weight AI model. It rivals leading American systems, ...
 
-📺 Matt Wolfe
+📺 AI Revolution
 
-👁️ 58K • 👍 2K • 💬 94 • ⏱️ 23:10 • 2d ago
+👁️ 59K • 👍 2K • 💬 196 • ⏱️ 14:29 • 2d ago
+
+---
+
+**[China may have just turned up the heat the the AI race](https://www.youtube.com/watch?v=jGuf27ySl_Q)**
+
+Tenex co-founder and co-managing partner Arman Hezarkhani breaks down the features of China's Kimi K3 A.I. model, ...
+
+📺 Fox Business
+
+👁️ 49K • 👍 629 • 💬 397 • ⏱️ 6:33 • 2d ago
 
 ---
 
@@ -357,17 +349,27 @@ US tech firms have long feared that their Chinese competitors could catch them u
 
 📺 Sky News
 
-👁️ 74K • 👍 1K • 💬 463 • ⏱️ 6:28 • 1d ago
+👁️ 76K • 👍 2K • 💬 474 • ⏱️ 6:28 • 1d ago
 
 ---
 
-**[AI backlash: What’s it like living near a data centre | ABC NEWS](https://www.youtube.com/watch?v=4KM70AALlKk)**
+**[China just beat Claude AI: Kimi K3](https://www.youtube.com/watch?v=2wDXtzIE7qw)**
 
-Australia's artificial intelligence ambitions are driving an unprecedented boom in data centre construction. The federal government ...
+Kimi K3 AI just beat Claude AI at coding. Join my private group https://techleadpro.com Your Community for Crypto, Stocks, ...
 
-📺 ABC News (Australia)
+📺 TechLead
 
-👁️ 20K • 👍 246 • 💬 47 • ⏱️ 10:31 • 1d ago
+👁️ 73K • 👍 3K • 💬 494 • ⏱️ 8:08 • 2d ago
+
+---
+
+**[AI slop is leaking into real life](https://www.youtube.com/watch?v=PSyAhMGkKy4)**
+
+so let's FIGHT the plague of AI slop by celebrating HUMAN creators! See you tonight for our first ever THE CREATOR AWARDS, ...
+
+📺 JJJacksfilms
+
+👁️ 172K • 👍 13K • 💬 3K • ⏱️ 3:50 • 2d ago
 
 ---
 
@@ -383,7 +385,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,145 • 6h ago
+⬇️ 13,462 • ❤️ 1,158 • 10h ago
 
 ---
 
@@ -395,7 +397,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 338,945 • ❤️ 790 • 1d ago
+⬇️ 338,945 • ❤️ 796 • 1d ago
 
 ---
 
@@ -407,7 +409,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,262,894 • ❤️ 490 • 2d ago
+⬇️ 1,262,894 • ❤️ 503 • 2d ago
 
 ---
 
@@ -419,29 +421,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 536,177 • ❤️ 4,166 • 17d ago
-
----
-
-**[Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**
-
-*Empero*
-
-Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1M context window, supporting native function calling and multimodal vision capabilities. It excels in reasoning tasks and is optimized for llama.cpp and other GGUF runtimes, making it suitable for agentic applications, cybersecurity, and biomedical analysis.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 2,118,995 • ❤️ 2,343 • 5d ago
-
----
-
-**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
-
-*Lars Bouaraba *
-
-Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
-
-⬇️ 0 • ❤️ 423 • 1d ago
+⬇️ 536,177 • ❤️ 4,172 • 17d ago
 
 ---
 
@@ -453,7 +433,29 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,122,848 • ❤️ 2,170 • 16d ago
+⬇️ 2,122,848 • ❤️ 2,203 • 16d ago
+
+---
+
+**[Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**
+
+*Empero*
+
+Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1M context window, supporting native function calling and multimodal vision capabilities. It excels in reasoning tasks and is optimized for llama.cpp and other GGUF runtimes, making it suitable for agentic applications, cybersecurity, and biomedical analysis.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 2,118,995 • ❤️ 2,350 • 5d ago
+
+---
+
+**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
+
+*Lars Bouaraba *
+
+Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
+
+⬇️ 0 • ❤️ 427 • 1d ago
 
 ---
 
@@ -465,7 +467,7 @@ OvisOCR2 is a compact 0.8B multimodal model for end-to-end document parsing, gen
 
 `image-text-to-text` `853.0M`
 
-⬇️ 14,587 • ❤️ 192 • 3d ago
+⬇️ 14,587 • ❤️ 196 • 4d ago
 
 ---
 
@@ -477,7 +479,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 10,647 • ❤️ 460 • 9d ago
+⬇️ 10,647 • ❤️ 463 • 9d ago
 
 ---
 
@@ -489,7 +491,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,084,530 • ❤️ 2,897 • 3mo ago
+⬇️ 2,084,530 • ❤️ 2,903 • 3mo ago
 
 ---
 
@@ -511,18 +513,6 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 115 • 💬 4 • ⭐ 93,667 • 18mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
 **[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
 
 *Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
@@ -532,6 +522,18 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 ▲ 21 • 💬 1 • ⭐ 9,275 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 115 • 💬 4 • ⭐ 93,705 • 18mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -557,32 +559,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 83 • 💬 7 • ⭐ 81,304 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 17 • 💬 2 • ⭐ 20,945 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
-
----
-
-**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
-
-*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
-
-🏢 Microsoft Research
-
-SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
-
-▲ 257 • 💬 4 • ⭐ 13,153 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -613,17 +589,43 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439)**
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
 
-*Qihao Zhao, Yangyu Huang, Yalun Dai et al. (11 authors)*
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
 
-🏢 Microsoft
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.
+▲ 17 • 💬 2 • ⭐ 20,965 • 28mo ago
 
-▲ 60 • 💬 3 • ⭐ 1,473 • 15d ago
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
-[🎓 arXiv](https://arxiv.org/abs/2607.04439) • [💻 code](https://github.com/microsoft/ResearchStudio) • [🔗 project](https://aka.ms/ResearchStudio)
+---
+
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 257 • 💬 4 • ⭐ 13,171 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
+
+---
+
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+
+🏢 BAIDU
+
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+
+▲ 55 • 💬 5 • ⭐ 14,605 • 28d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -647,7 +649,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 226 • 10h ago
+⭐ 3.0k • 🔱 226 • 49m ago
 
 ---
 
@@ -667,7 +669,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.3k • 🔱 269 • 11d ago
+⭐ 2.4k • 🔱 269 • 11d ago
 
 ---
 
@@ -687,7 +689,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 948 • 🔱 59 • 5d ago
+⭐ 962 • 🔱 59 • 5d ago
 
 ---
 
@@ -697,7 +699,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 911 • 🔱 147 • 4d ago
+⭐ 918 • 🔱 147 • 4d ago
 
 ---
 
@@ -707,7 +709,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 907 • 🔱 203 • 8d ago
+⭐ 910 • 🔱 204 • 8d ago
 
 ---
 
@@ -715,7 +717,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 897 • 🔱 38 • 18d ago
+⭐ 899 • 🔱 38 • 19d ago
 
 ---
 
@@ -725,7 +727,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 836 • 🔱 96 • 2d ago
+⭐ 842 • 🔱 96 • 1h ago
 
 ---
 

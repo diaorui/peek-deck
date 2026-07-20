@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-19T23:58:05.811609+00:00'
+updated: '2026-07-20T03:46:58.561571+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 19, 2026 at 23:58 UTC  
+**Last Updated:** July 20, 2026 at 03:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,764.56
+### $64,908.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.8%  
-**30d:** +0.6%  
-**90d:** -15.2%  
-**1y:** -44.8%  
+**24h:** +0.3%  
+**7d:** -0.2%  
+**30d:** +2.5%  
+**90d:** -17.0%  
+**1y:** -44.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1296.64B
+**Market Cap:** $1300.47B
 Rank #1
 
-**Circulating Supply:** 20,058,712 BTC
+**Circulating Supply:** 20,058,756 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.7%
+-48.6%
 
 **All-Time Low:** $67.81
-+95237.0%
++95514.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 This is it, guys. I've been in this crypto market since 2016, through all the Bears and Bulls. And I'm saying this with the highest confidence: THIS IS IT. This is what we've been waiting for. And it has arrived. So, stop acting gloomy. Max your confidence. Pull that DCA amount to the MAX and enjoy another bull run in the next 3 years.
 
-17h ago
+21h ago
 
 ---
 
@@ -97,7 +97,7 @@ I sold every other asset I owned, stopped my pension contributions, took out loa
 
 Well, if it's true that for every lucky one there are 99 who cry... here I am... I lost $50,000 of my savings, plus the pain of all the potential gains if I'd just bought that one instead of that other one, or if I'd just held on for longer. I started in 2022 and I've never managed to hold on. When I saw a 10% loss, that was already a lot; on $50,000, I was down $5... I feel like I've failed, and I'll never recover this loss, in my country it's hard to save $500 in three months. Someone like me who has never managed to chase the bull?
 
-2h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Remember this post!
 
 Hello everyone, So I got some btc/eth/bnb in a hardware wallet LEDGER. I am thinking what if my pendrive stops working or LEDGER site itself goes bankrupt. How do I recover my coins? You will say "you need to write down your keys", yes yes but HOW do I get my ledger hardware keys?
 
-8h ago
+12h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Bitcoin Runs project reaches Germany for the first time! This GPS art run tr
 
 Been holding for a few years now and something shifted recently-I just... stopped checking the price constantly. Used to open the app first thing in the morning, now I genuinely go weeks without looking, and when I do check it's more out of curiosity than anxiety. Didn't consciously decide to do this, it just kind of happened once I mentally filed it as long term thing I'm not touching instead of thing I need to monitor. Weirdly freeing compared to how I used to feel about it, checking constantly and letting the daily swings mess with my mood. Anyone else go through this shift? How long did it take before you stopped checking obsessively, and did something specific trigger it or did it just gradually fade on its own?
 
-17h ago
+21h ago
 
 ---
 
@@ -137,7 +137,7 @@ Been holding for a few years now and something shifted recently-I just... stoppe
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-17h ago
+21h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Should I include bitcoin in my diversified investments or should I stick to blue chip stocks? I’m relatively risk adverse and have at least 25 yrs before retirement. I invested in Russian stocks before and it did not go well… then I invested in Chinese stocks and it plummeted… then I invested in Japanese telecoms and it stayed flat for yrs. The US tech stocks have given stellar returns and I wonder if bitcoin can beat magnificient seven?
 
-13h ago
+16h ago
 
 ---
 
@@ -161,11 +161,55 @@ Is this a good idea ? * I have 10 percent in bitcoin, at the moment 120k average
 
 ## Google News: "bitcoin"
 
-**[Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets](https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets)**
+**[Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'](https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea)**
 
-Large traders on Deribit show expectations for a price rally to $72,000 by month end, right when the Fed meets.
+Bitcoin bull Michael Saylor is coming out against BIP 110, warning that the "Reduced Data" proposal is a risky attempt to regulate the blockchain. Discover why Saylor believe this "cure" for network spam is more dangerous than the problem itself.
 
-CoinDesk • 1d ago
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin Is Suddenly Braced For ‘Price Explosions’ As $27.9 Trillion Gold Prediction Fuels ‘Spectacular’ Bets](https://www.forbes.com/sites/billybambrough/2026/07/19/bitcoin-suddenly-braced-for-price-explosions-as-279-trillion-gold-prediction-fuels-spectacular-bets/)**
+
+Bitcoin could be headed for a $27.9 trillion game-changer...
+
+Forbes • 16h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Stay Flat Amid Iran Tensions—Analyst Says This BTC Level Could Ignite 'Sustained Bull Trend'](https://sg.finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-stay-021041573.html)**
+
+Leading cryptocurrencies moved sideways on Sunday as U.S. strikes on Iran continued into their “ninth consecutive night.” Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.03%$64,703.37Ethereum (CRYPTO: ETH) +0.78%$1,872.63XRP (CRYPTO: XRP) +0.48%$1.09Solana (CRYPTO: SOL) +1.40%$76.59Dogecoin (CRYPTO: DOGE) +0.11%$0.07249 Crypto Market Coagulates Bitcoin hovered between $64,000 and the low $65,000 range, even as trading volume surged 12% over the past 24 hou
+
+Yahoo Finance Singapore • 1h ago
+
+---
+
+**[Bitcoin Rises Amid Supportive Macro Environment -- Market Talk](https://www.moomoo.com/news/post/73190885/bitcoin-rises-amid-supportive-macro-environment-market-talk)**
+
+Moomoo • 56m ago
+
+---
+
+**[Crypto Weekly Digest | Bitcoin Holds $65K; South Korea Eyes BTC ETF Approval; Ostium Loses $24M in Exploit](https://www.moomoo.com/community/feed/116949946335238)**
+
+Market Summary $Bitcoin (BTC.CC)$ rose 1.37% over the past week to $64,891, trading within a $63,000-$65,000 range. US spot ETFs recorded four consecutive days of inflows totaling $75.5 million weekly, with BlackRock's $iShares Bitcoin Trust (IBIT.US)$ contributing $136.5 million on Friday alone, signaling continued institutional accumulation. A whale address added another 1,001 BTC, while ...
+
+Moomoo • 1h ago
+
+---
+
+**[The Investors Riding Along With Strategy’s Bitcoin Rollercoaster](https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d)**
+
+WSJ • 3d ago
+
+---
+
+**[The CLARITY Act Could Be in Trouble. This is the Only Crypto I'm Buying Right Now.](https://www.fool.com/investing/2026/07/19/the-clarity-act-could-be-in-trouble-this-is-the-on/)**
+
+Bitcoin will thrive, regardless of what happens to the CLARITY Act.
+
+The Motley Fool • 10h ago
 
 ---
 
@@ -177,61 +221,15 @@ The Block • 1d ago
 
 ---
 
-**[MicroStrategy CEO: Wall Street’s Biggest Banks are Locked in a Tight Bitcoin Race](https://finance.yahoo.com/markets/crypto/articles/microstrategy-ceo-wall-street-biggest-203000673.html)**
+**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
 
-Goldman, JPMorgan, and Citi trail Fidelity in MicroStrategy's new Bitcoin Banking Adoption Index rankings this year.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin’s Progress Holds The Secret To The AI Boom](https://www.forbes.com/sites/digital-assets/2026/07/19/bitcoins-progress--holds-the-secret-to-the-ai-boom/)**
-
-They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
-
-Forbes • 13h ago
+Investing.com • 6h ago
 
 ---
 
 **[Why This Bitcoin Slump Is Different](https://www.bloomberg.com/news/articles/2026-07-17/bitcoin-slump-why-crypto-token-halved-in-value-since-october-btc-usd)**
 
 Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin Is its Most Affordable in Two Years. Which ETF Is Better to Invest With Now: iShares Bitcoin Trust ETF or VanEck Bitcoin ETF?](https://www.fool.com/coverage/etfs/2026/07/18/bitcoin-is-its-most-affordable-in-two-years-which-etf-is-better-to-invest-with-now-ishares-bitcoin-trust-etf-or-vaneck-bitcoin-etf/)**
-
-iShares dominates with $47B in assets, while VanEck undercuts on fees at 0.20% versus 0.25%. Which matters more for your portfolio?
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin eyes $72,000 as governance and mining concentration concerns grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711)**
-
-Investing.com • 2h ago
-
----
-
-**[Toby Doeden: A bitcoin evangelist and anti-property-tax crusader who wants to be governor](https://southdakotasearchlight.com/2026/07/16/toby-doeden-a-bitcoin-evangelist-and-anti-property-tax-crusader-who-wants-to-be-governor/)**
-
-Doeden says he was born into poverty but climbed out, and he thinks his skills could rescue South Dakota, a state he says needs saving.
-
-South Dakota Searchlight • 3d ago
-
----
-
-**[If Musk had bought Bitcoin and gold instead of Twitter, here's what it would be worth today](https://www.thestreet.com/crypto/markets/if-elon-musk-had-bought-bitcoin-and-gold-instead-of-twitter-heres-what-it-would-be-worth-today)**
-
-thestreet.com • 1d ago
-
----
-
-**[Treasuries are amplifying market selloffs and Bitcoin is paying the price](https://cryptoslate.com/treasuries-are-amplifying-market-selloffs-and-bitcoin-is-paying-the-price/)**
-
-Why long Treasury bonds and Bitcoin now fall together, and what would have to change for the bond market to become a hedge again.
-
-CryptoSlate • 9h ago
 
 ---
 
@@ -265,7 +263,7 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 **[Beyond Bioinformatics Rewrites](https://news.ycombinator.com/item?id=48965657)**
 
-⬆️ 2 • 💬 0 • 16h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
+⬆️ 2 • 💬 0 • 20h ago • [claymcleod.dev](https://claymcleod.dev/blog/2026-07-13-beyond-bioinformatics-rewrites)
 
 ---
 
@@ -273,13 +271,13 @@ Read this crypto post from greatHydra_997 posted on 2026/07/13 on CoinMarketCap�
 
 ## YouTube Videos: "bitcoin"
 
-**[Binance CEO Reveals Bitcoin Price Outlook by End Of Year](https://www.youtube.com/watch?v=D0yrQ1uxhcM)**
+**[The $700 Billion Reason Bitcoin Is Going to a New ATH](https://www.youtube.com/watch?v=NUBh0YeUFao)**
 
-Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance Altcoin Daily has a partner relationship with ...
+The biggest advantage Bitcoin has isn't price, it's verification. As governments, central banks and legacy financial systems ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 31K • 👍 1K • 💬 81 • ⏱️ 31:29 • 1d ago
+👁️ 12K • 👍 1K • 💬 62 • ⏱️ 15:42 • 5h ago
 
 ---
 
@@ -289,7 +287,7 @@ August is right around the corner and that means BIG moves coming up (Clarity, S
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 503 • 💬 34 • ⏱️ 29:49 • 1d ago
+👁️ 9K • 👍 506 • 💬 34 • ⏱️ 29:49 • 1d ago
 
 ---
 
@@ -299,17 +297,17 @@ Secure your Bitcoin with Tangem. Get up to 20% OFF + up to $40 in BTC rewards: h
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 219 • 💬 81 • ⏱️ 18:50 • 1d ago
+👁️ 4K • 👍 222 • 💬 81 • ⏱️ 18:50 • 1d ago
 
 ---
 
-**[🚨 BTC Bottom, AI Risk, SpaceX Options, Van Life &amp; The Truck Truth!](https://www.youtube.com/watch?v=DKr1dq87Kko)**
+**[Binance CEO Reveals Bitcoin Price Outlook by End Of Year](https://www.youtube.com/watch?v=D0yrQ1uxhcM)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance Altcoin Daily has a partner relationship with ...
 
-📺 InvestAnswers
+📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 65 • ⏱️ 41:47 • 4h ago
+👁️ 31K • 👍 1K • 💬 83 • ⏱️ 31:29 • 1d ago
 
 ---
 
@@ -319,7 +317,7 @@ Billionaire Mike Novogratz on stablecoins and cross-border payments: Scott: "I b
 
 📺 Prof G Markets
 
-👁️ 42K • 👍 493 • 💬 171 • ⏱️ 1:42 • 2d ago
+👁️ 43K • 👍 506 • 💬 171 • ⏱️ 1:42 • 2d ago
 
 ---
 
@@ -329,7 +327,17 @@ If Bitcoin and crypto is going to zero then why are so many MASSIVE companies in
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 514 • 💬 38 • ⏱️ 27:00 • 2d ago
+👁️ 9K • 👍 514 • 💬 43 • ⏱️ 27:00 • 2d ago
+
+---
+
+**[Bitcoin&#39;s Next Move Depends On One Fed Decision](https://www.youtube.com/watch?v=fEnq13uJBD0)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 47K • 👍 2K • 💬 58 • ⏱️ 50:17 • 1d ago
 
 ---
 
@@ -339,7 +347,17 @@ Veteran trader Peter Brandt believes Bitcoin's bear market is far from over. Tra
 
 📺 Cointelegraph
 
-👁️ 7K • 👍 260 • 💬 123 • ⏱️ 32:12 • 1d ago
+👁️ 7K • 👍 264 • 💬 124 • ⏱️ 32:12 • 1d ago
+
+---
+
+**[Top 14 Crypto Coins… READY TO EXPLODE!!](https://www.youtube.com/watch?v=nWDaD26YHtg)**
+
+14 Crypto Coins That Can STILL Make You RICH? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 9K • 👍 802 • 💬 140 • ⏱️ 16:51 • 5h ago
 
 ---
 
@@ -349,27 +367,7 @@ Is Bitcoin already forming a bottom — or is the worst still ahead? Scott Melke
 
 📺 Cointelegraph
 
-👁️ 11K • 👍 338 • 💬 141 • ⏱️ 26:17 • 2d ago
-
----
-
-**[BITCOIN&#39;S BOTTOM WILL SURPRISE EVERYONE](https://www.youtube.com/watch?v=b8uHITe2Wsg)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 8K • 👍 620 • 💬 72 • ⏱️ 7:29 • 14h ago
-
----
-
-**[Gold, EURUSD &amp; Bitcoin Traders: Don’t Fall for the Dollar Trap | Weekly SMC Outlook](https://www.youtube.com/watch?v=c3WNPJqCS8c)**
-
-Gold, Silver, EURUSD, GBPUSD, DXY, WTI, Bitcoin and more. IC Markets Bonuses Up To $26k: ...
-
-📺 Justin Bennett
-
-👁️ 19K • 👍 1K • 💬 237 • ⏱️ 21:25 • 1d ago
+👁️ 12K • 👍 346 • 💬 141 • ⏱️ 26:17 • 2d ago
 
 ---
 
