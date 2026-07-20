@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-20T20:21:15.622162+00:00'
+updated: '2026-07-20T21:43:29.617820+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 20, 2026 at 20:21 UTC  
+**Last Updated:** July 20, 2026 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,14 +112,6 @@ Researchers at the University of Toronto's Continuum Robotics Laboratory introdu
 
 ## Google News: "robotics"
 
-**[A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War](https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/)**
-
-The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
-
-WIRED • 3d ago
-
----
-
 **[Agility Robotics plants its flag in Tesla’s backyard](https://finance.yahoo.com/technology/ai/articles/agility-robotics-plants-flag-tesla-201949661.html)**
 
 Agility is opening a new training center for its Digit robots in Fremont, California.
@@ -128,19 +120,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Charlotte Kemp Muhl’s Finis Musicae Debuts AI-Assisted Robotic Orchestra](https://www.yahoo.com/entertainment/music/articles/charlotte-kemp-muhl-finis-musicae-194800618.html)**
+**[Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent](https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7)**
 
-Collective has unveiled a striking new demonstration centered on George Gershwin's classic 'Summertime.'
+Agility Robotics has expanded with a new Silicon Valley hub. The startup is avoiding AI talent wars and focusing on culture over high salaries.
 
-Yahoo • 33m ago
-
----
-
-**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
-
-The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
-
-The Washington Post • 4h ago
+Business Insider • 12m ago
 
 ---
 
@@ -148,43 +132,55 @@ The Washington Post • 4h ago
 
 Swiss startup Mimic Robotics unveils the Mimic Hand M1, bringing human-like precision, strength and touch to factory automation.
 
-Interesting Engineering • 6h ago
+Interesting Engineering • 8h ago
 
 ---
 
-**['World's 1st mass-produced humanoid robot' motors to market in China](https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/)**
+**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
 
-People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stories seem to be closer to reality than…
+The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
 
-New Atlas • 1d ago
+The Washington Post • 5h ago
 
 ---
 
-**[Humanoid Robots Are Coming To Factories. But Not The Way You Think](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/)**
+**[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
 
-We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
-
-Forbes • 2h ago
+OregonLive.com • 57m ago
 
 ---
 
 **[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
 **[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
 
-Tech Xplore • 1h ago
+Tech Xplore • 3h ago
 
 ---
 
-**[Xpeng loses AI infrastructure chief to OpenAI's robotics push, report says](https://cnevpost.com/2026/07/20/xpeng-loses-ai-infra-chief-to-openai/)**
+**[Amid Fears of Killer Robots, Humanoid MMA Fight in China Ends With Decapitation](https://www.commondreams.org/news/humanoid-robot-fights)**
 
-Lu Siyuan is set to leave Xpeng and join OpenAI to work on embodied AI robotics research and development.
+"One brutal kick sent the robot's head hanging loose."
 
-CnEVPost • 5h ago
+Common Dreams • 3d ago
+
+---
+
+**[Students Build and Race Robots at Faraday Future’s Camp](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-5a1793mbshju.html)**
+
+An indication of interest for a pilot order came from a top-20 data company; in Q3, FF plans software for one operator to control multiple robot models.
+
+Stock Titan • 20h ago
+
+---
+
+**[Watch ABB Robotics on Business Strategy in China](https://www.bloomberg.com/news/videos/2026-07-20/abb-robotics-on-business-strategy-in-china-video)**
+
+Bloomberg.com • 21h ago
 
 ---
 
@@ -192,23 +188,23 @@ CnEVPost • 5h ago
 
 ## YouTube Videos: "robotics"
 
-**[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
-
-Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
-
-📺 DPCcars
-
-👁️ 29K • 👍 345 • 💬 128 • ⏱️ 4:18 • 2d ago
-
----
-
 **[America Is Now Building Humanoid AI Robot Soldiers for War](https://www.youtube.com/watch?v=Qm64Vm-lf80)**
 
 An American robotics startup is preparing humanoid AI robots for war. Its Phantom machines have already been tested in Ukraine, ...
 
 📺 AI Revolution
 
-👁️ 17K • 👍 598 • 💬 89 • ⏱️ 13:15 • 1d ago
+👁️ 18K • 👍 611 • 💬 92 • ⏱️ 13:15 • 1d ago
+
+---
+
+**[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
+
+Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
+
+📺 DPCcars
+
+👁️ 31K • 👍 356 • 💬 133 • ⏱️ 4:18 • 2d ago
 
 ---
 
@@ -218,7 +214,7 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 27K • 👍 1K • 💬 79 • ⏱️ 14:37 • 2d ago
+👁️ 27K • 👍 1K • 💬 80 • ⏱️ 14:37 • 2d ago
 
 ---
 
@@ -228,7 +224,7 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 18K • 👍 311 • 💬 74 • ⏱️ 13:38 • 1d ago
+👁️ 18K • 👍 312 • 💬 74 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -238,7 +234,17 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 📺 Joanna Stern
 
-👁️ 79K • 👍 3K • 💬 254 • ⏱️ 12:02 • 4d ago
+👁️ 79K • 👍 3K • 💬 257 • ⏱️ 12:02 • 4d ago
+
+---
+
+**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
+
+The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
+
+📺 Job Othoniel
+
+👁️ 19K • 👍 135 • 💬 44 • ⏱️ 0:27 • 3d ago
 
 ---
 
@@ -248,7 +254,17 @@ War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Cod
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 402 • 💬 98 • ⏱️ 14:20 • 1d ago
+👁️ 9K • 👍 412 • 💬 101 • ⏱️ 14:20 • 1d ago
+
+---
+
+**[The World’s First Monowheel Robot: How It Solved the Stability Paradox](https://www.youtube.com/watch?v=CIN0BXm9SXM)**
+
+The ROLLO is the world's first autonomous and self-balancing monowheel robot. Company: https://1rollo.com/ Blog: ...
+
+📺 Europe’s Foundry 
+
+👁️ 23K • 👍 1K • 💬 202 • ⏱️ 15:13 • 3d ago
 
 ---
 
@@ -258,37 +274,17 @@ A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knocko
 
 📺 Kalil 4.0
 
-👁️ 9K • 👍 126 • 💬 28 • ⏱️ 9:31 • 2d ago
+👁️ 9K • 👍 127 • 💬 29 • ⏱️ 9:31 • 2d ago
 
 ---
 
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
+**[This Secret Combo Brought Teth Back! [War Robots]](https://www.youtube.com/watch?v=4duW3VNY5Xo)**
 
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
+This secret combo brought Teth back! In this video we look at key components that make this Teth combo so strong – Baslieus, ...
 
-📺 Air Photography
+📺 Adrian Chong
 
-👁️ 67K • 👍 2K • 💬 195 • ⏱️ 7:15 • 4d ago
-
----
-
-**[Unboxing BENI: This 2-Wheeled Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=ytaZ2eR9CR8)**
-
-Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mondorobotics/beni-all-terrain-camera-robot?ref=8ebvkr ...
-
-📺 FlytPath
-
-👁️ 6K • 👍 181 • 💬 23 • ⏱️ 5:19 • 1d ago
-
----
-
-**[Watch This Black Metal Pod Become a Realistic Robot Beetle! ⚙️ #robot #mechanicalengineering](https://www.youtube.com/watch?v=epa8dYv6xMs)**
-
-Watch a compact black bronze sphere transform into a stunning mechanical darkling beetle with articulated legs, detailed shell ...
-
-📺 TPS  Technology
-
-👁️ 32K • 👍 131 • 💬 5 • ⏱️ 0:08 • 3d ago
+👁️ 3K • 👍 204 • 💬 42 • ⏱️ 16:14 • 8h ago
 
 ---
 

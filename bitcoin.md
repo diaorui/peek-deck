@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-20T20:21:15.612746+00:00'
+updated: '2026-07-20T21:43:29.608332+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 20:21 UTC  
+**Last Updated:** July 20, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,090.94
+### $65,371.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +0.4%  
-**30d:** +3.2%  
-**90d:** -16.5%  
+**24h:** +1.1%  
+**7d:** +0.5%  
+**30d:** +3.3%  
+**90d:** -16.4%  
 **1y:** -44.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1308.78B
+**Market Cap:** $1310.50B
 Rank #1
 
-**Circulating Supply:** 20,059,075 BTC
+**Circulating Supply:** 20,059,140 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.3%
+-48.2%
 
 **All-Time Low:** $67.81
-+96118.8%
++96244.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitgone](https://www.reddit.com/r/Bitcoin/comments/1v1an7t/bitgone/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 As you know guys, most discussions focus on price, but one of Bitcoin's most important on-chain metrics is moving in the opposite direction. A record share of the total BTC supply is now held by long-term holders, participants who continue accumulating and holding their coins instead of selling them back into the market. Historically, this has been one of the most interesting phases of a market cycle. As more Bitcoin moves into long-term storage, the amount of liquid BTC available on exchanges and in active circulation gradually declines. That changes the network's supply dynamics in a meaningful way. Less liquid supply means a larger portion of Bitcoin is effectively removed from day-to-day market activity. What's particularly notable is that this milestone comes during a relatively quiet period for the market. Long-term conviction continues to grow, supply becomes increasingly scarce, and the structure of the Bitcoin network keeps improving regardless of short-term market sentiment.
 
-5h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ As you know guys, most discussions focus on price, but one of Bitcoin's most imp
 
 If yes, how was your experience? If not, what's the biggest reason holding you back?
 
-10h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ If yes, how was your experience? If not, what's the biggest reason holding you b
 
 I see a lot a people talking about DCA and mentioning how they are OG hodlers for years. I always wonder.. how much were they able to accumulate/keep since then. Is 1.5 BTC a lot compared to the average hodler?
 
-20h ago
+21h ago
 
 ---
 
@@ -111,7 +111,7 @@ I see a lot a people talking about DCA and mentioning how they are OG hodlers fo
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ Ask (and answer!) away! Here are the general rules: If you'd like to learn somet
 
 Hi, I have $50 that I'd like to invest in Bitcoin and I'd like to know if you recommend it. I'd like to invest larger amounts over time, but to start I'd like to invest $50.
 
-17h ago
+19h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hi, I have $50 that I'd like to invest in Bitcoin and I'd like to know if you re
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 in a world without freedom, democracy and civilization bitcoin cannot be used for anything IRL or swap it for fiat because they would be traced and once they know they can fuck with you in a thousand way, legal or not. what scares me is this, not the price dropping but the big corpo and govs VS the individuals. on the positive side, if adoptions keeps rising (and it will as long as crime, war and shit like this keep happening); nothing can go after everyone! could some big entity make some actions to slow adoption until it stops entirely? or would it drive adoption even more, regardless of the risks derived by being a victim of these actions? i know real things affect the price but it’s always unrelated to btc. what if the news and btc are the same, how does it unfold? like what happened with the exchange drama or normal people losing money or the kidnappings of rich men in france?
 
-10h ago
+11h ago
 
 ---
 
@@ -143,7 +143,7 @@ in a world without freedom, democracy and civilization bitcoin cannot be used fo
 
 Well, if it's true that for every lucky one there are 99 who cry... here I am... I lost $50,000 of my savings, plus the pain of all the potential gains if I'd just bought that one instead of that other one, or if I'd just held on for longer. I started in 2022 and I've never managed to hold on. When I saw a 10% loss, that was already a lot; on $50,000, I was down $5... I feel like I've failed, and I'll never recover this loss, in my country it's hard to save $500 in three months. Someone like me who has never managed to chase the bull?
 
-23h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ Well, if it's true that for every lucky one there are 99 who cry... here I am...
 
 Been tracking a few things this week worth sharing. The capitulation read. Relative long/short-term holder realized profit/loss to exchanges spiked to a level we haven't seen since Nov/Dec 2022, which marked the exact cycle bottom. Institutional access keeps widening. Morgan Stanley rolled out spot BTC trading on E*Trade to roughly 8.6M clients. T. Rowe Price launched an actively managed spot crypto ETP with ~40% in Bitcoin. Both in the same week, in a bear market. South Korea. Their new National Asset Basic Act brings digital assets under government asset management for the first time since 1950. This is a management law, not a strategic reserve. However, pair this with Japan moving toward Bitcoin ETFs last week and it is clear Asia's biggest economies are quietly building Bitcoin into their financial systems. Debasement continues. M2 money supply hit a new all-time high of $23.05T. National debt around $39.4T. Most interested in what people think about the capitulation read specifically. Bottom signals seem to be flashing everywhere, is this real or will there be another leg down before we test lower? I put these together weekly if anyone wants the full version with charts: https://orangenest.beehiiv.com/p/5-sats-sunday-7-19-2026
 
-18h ago
+19h ago
 
 ---
 
@@ -163,7 +163,7 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 The day ahead in crypto: July 20, 2026
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -175,47 +175,9 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin mining stock surges on $9.8 billion AI deal](https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-stock-surges-9-194826314.html)**
-
-The shares of Hut 8 (Nasdaq: HUT), a Bitcoin miner that has been expanding into artificial intelligence (AI) infrastructure, jumped as much as 14% on July 20 after the firm signed a $9.8 billion lease that fully commercializes its massive Texas data center campus. The 15-year deal covers the second ...
-
-Yahoo Finance • 32m ago
-
----
-
-**[Current price of Bitcoin for July 20, 2026](https://fortune.com/article/price-of-bitcoin-07-20-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 7h ago
-
----
-
-**[Live updates: Bitcoin rises to one-month high of $65,400](https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000)**
-
-Markets await second-quarter earnings reports from key tech firms, which begin this week.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin down slightly to $64k with Iran tensions, rate jitters in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-down-slightly-to-64k-with-iran-tensions-rate-jitters-in-focus-4799865)**
-
-Investing.com • 13h ago
-
----
-
-**[Billionaire Palihapitiya flags two issues that could decide Bitcoin's next big move](https://finance.yahoo.com/markets/crypto/articles/billionaire-palihapitiya-flags-two-issues-190557886.html)**
-
-Chamath Palihapitiya does not hedge often. When the Social Capital founder posted on X about Bitcoin, he did not frame it as a short-term worry. He called it structural. Two problems, he said, are facing Bitcoin bulls right now. First, marginal liquidity is being absorbed by prediction markets and ...
-
-Yahoo Finance • 1h ago
-
----
-
 **[‘Wild West’ of Untested Peptides Has Americans Paying in Crypto to Get Their Fix](https://www.bloomberg.com/news/features/2026-07-20/bitcoin-is-becoming-the-preferred-payment-method-for-buying-peptides-online)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -223,13 +185,51 @@ Bloomberg.com • 10h ago
 
 Strategy Inc. (NASDAQ:MSTR) founder Michael Saylor made a case on Sunday against the BIP-110 software upgrade for Bitcoin (CRYPTO: BTC), arguing that the “proposed cure is more dangerous than the condition.” What Is The Upgrade About The upgrade is aimed at temporarily restricting the use of Bitcoin for storing large amounts of “non-monetary data,” including Ordinal inscriptions, and refocusing priorities on improving Bitcoin as “money.” Supporters of BIP-110 argue that this “spam” bloats the bl
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion](https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion)**
+
+Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.
+
+The Block • 9h ago
+
+---
+
+**[Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'](https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea)**
+
+Bitcoin bull Michael Saylor is coming out against BIP 110, warning that the "Reduced Data" proposal is a risky attempt to regulate the blockchain. Discover why Saylor believe this "cure" for network spam is more dangerous than the problem itself.
+
+CoinDesk • 1d ago
+
+---
+
+**[Current price of Bitcoin for July 20, 2026](https://fortune.com/article/price-of-bitcoin-07-20-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 8h ago
+
+---
+
+**[TD Cowen cuts Smarter Web Company price target 36% on revised bitcoin outlook](https://www.theblock.co/post/408883/td-cowen-cuts-smarter-web-company-price-target-36-on-revised-bitcoin-outlook)**
+
+TD Cowen cut Smarter Web's price target to £0.64 while maintaining a Buy rating, citing revised bitcoin forecasts and treasury assumptions.
+
+The Block • 11h ago
 
 ---
 
 **[Bitcoin and gold are both down YTD; this has never happened before in a year](https://seekingalpha.com/news/4615494-bitcoin-and-gold-are-both-down-ytd-this-has-never-happened-before-in-a-year)**
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
+
+---
+
+**[Bitcoin down slightly to $64k with Iran tensions, rate jitters in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-down-slightly-to-64k-with-iran-tensions-rate-jitters-in-focus-4799865)**
+
+Investing.com • 15h ago
 
 ---
 
@@ -269,17 +269,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 371 • 💬 147 • ⏱️ 11:10 • 5h ago
-
----
-
-**[Bitcoin&#39;s Bullish Setup Signals Explosion: Altcoins Have Broken Out](https://www.youtube.com/watch?v=1RqEqF3HH_s)**
-
-No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and the altcoin breakouts are lining up right behind it.
-
-📺 Gareth Soloway
-
-👁️ 13K • 👍 2K • 💬 90 • ⏱️ 13:27 • 4h ago
+👁️ 6K • 👍 452 • 💬 187 • ⏱️ 11:10 • 6h ago
 
 ---
 
@@ -289,7 +279,7 @@ The biggest advantage Bitcoin has isn't price, it's verification. As governments
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 157 • ⏱️ 15:42 • 22h ago
+👁️ 25K • 👍 2K • 💬 159 • ⏱️ 15:42 • 23h ago
 
 ---
 
@@ -299,17 +289,17 @@ Bitcoin has traded sideways for nearly 60 days, but improving Bitcoin ETF inflow
 
 📺 DataDash
 
-👁️ 767 • 👍 72 • 💬 27 • ⏱️ 16:33 • 4h ago
+👁️ 2K • 👍 94 • 💬 40 • ⏱️ 16:33 • 6h ago
 
 ---
 
-**[LIVE: Michael Saylor on the Clarity Act - Bitcoin Bull Run Confirmed!](https://www.youtube.com/watch?v=qKdywzrvWPQ)**
+**[Bitcoin&#39;s Bullish Setup Signals Explosion: Altcoins Have Broken Out](https://www.youtube.com/watch?v=1RqEqF3HH_s)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and the altcoin breakouts are lining up right behind it.
 
-📺 Heath Allyn
+📺 Gareth Soloway
 
-👁️ 4K • 2h ago
+👁️ 25K • 👍 2K • 💬 97 • ⏱️ 13:27 • 5h ago
 
 ---
 
@@ -319,7 +309,27 @@ In today's video, Kyledoops outlines why it's getting serious for bitcoin bulls 
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 1K • 💬 10 • ⏱️ 37:27 • 12h ago
+👁️ 12K • 👍 1K • 💬 11 • ⏱️ 37:27 • 13h ago
+
+---
+
+**[Bitcoin Just Flashed a HUGE Signal… LIVE Trading &amp; Market Analysis](https://www.youtube.com/watch?v=X9D5c-hzhKM)**
+
+BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
+
+📺 Jayson Casper
+
+👁️ 5K • 👍 278 • 💬 36 • ⏱️ 1:28:14 • 2h ago
+
+---
+
+**[🚨 BITCOIN: STOP EVERYTHING AND WATCH!!! (my most important video ever)](https://www.youtube.com/watch?v=zRRa5WhD1BQ)**
+
+Bitcoin sentiment remains bearish, but the herd might be wrong! This could be one of the most important #BTC videos ever!
+
+📺 Crypto Zombie
+
+👁️ 4K • 👍 892 • 💬 166 • ⏱️ 25:20 • 3h ago
 
 ---
 
@@ -329,37 +339,27 @@ WEEKLY REPORTS → https://link.tiainvestor.com/jyt-reports ➡ 18-YEAR CYCLE MI
 
 📺 Jason Pizzino
 
-👁️ 19K • 👍 993 • 💬 83 • ⏱️ 27:52 • 18h ago
+👁️ 20K • 👍 1K • 💬 84 • ⏱️ 27:52 • 19h ago
 
 ---
 
-**[CRYPTO TRADING: The Only Thing Stopping Bitcoin From $71K [Key Level]](https://www.youtube.com/watch?v=_k-aP2HEqkE)**
+**[BTC Urgent Update:  DON&#39;T BE FOOLED - The EMA Ribbon Shows Bitcoin is on the Verge of a Collapse](https://www.youtube.com/watch?v=Fedb8cjPpcs)**
 
-Captain Dylan is here to break down this weekend's massive crypto pump. We are starting Monday strong, and the Master Plan ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Chart Hackers
+📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 250 • 💬 2 • ⏱️ 59:30 • 3h ago
-
----
-
-**[Gen Z might never open a bank account. Here’s why #digitalbanking #bitcoin #newage](https://www.youtube.com/watch?v=AXwExJOOiJ0)**
-
-Gen Z might never open a bank account. Here's why.
-
-📺 Randi Hipper
-
-👁️ 912 • 👍 24 • 💬 33 • ⏱️ 0:41 • 5h ago
+👁️ 1K • 👍 214 • ⏱️ 29:19 • 2h ago
 
 ---
 
-**[Binance CEO Reveals Bitcoin Price Outlook by End Of Year](https://www.youtube.com/watch?v=D0yrQ1uxhcM)**
+**[A BIG BITCOIN CRASH IS COMING...](https://www.youtube.com/watch?v=OE3GVlKIzPY)**
 
-Follow Richard: https://x.com/_RichardTeng Follow Binance: https://x.com/binance Altcoin Daily has a partner relationship with ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Altcoin Daily
+📺 Crypto Rover
 
-👁️ 34K • 👍 1K • 💬 84 • ⏱️ 31:29 • 2d ago
+👁️ 10K • 👍 833 • 💬 84 • ⏱️ 9:04 • 15h ago
 
 ---
 

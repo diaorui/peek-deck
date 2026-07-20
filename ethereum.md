@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-20T20:21:15.618894+00:00'
+updated: '2026-07-20T21:43:29.614535+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 20:21 UTC  
+**Last Updated:** July 20, 2026 at 21:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +0.6%  
-**30d:** +11.4%  
-**90d:** -19.9%  
-**1y:** -49.5%  
+**24h:** +1.9%  
+**7d:** +0.8%  
+**30d:** +11.6%  
+**90d:** -19.7%  
+**1y:** -49.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.22B
+**Market Cap:** $229.83B
 Rank #2
 
 **Circulating Supply:** 120,682,825 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.6%
+-61.5%
 
 **All-Time Low:** $0.43
-+438572.5%
++439604.9%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
 **[Looking for recommendations for a home server for an evm blockchain node/validator](https://www.reddit.com/r/ethereum/comments/1v13xwa/looking_for_recommendations_for_a_home_server_for/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -94,7 +94,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
-9h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
 
-5h ago
+6h ago
 
 ---
 
@@ -156,11 +156,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Robinhood Chain pays minimal fees to Ethereum, challenging Tom Lee's bullish claims.](https://pluang.com/en/news-feed/uniswap-governance-maju-menuju-voting-utama-untuk-perluas-pembakaran-uni)**
+**[T. Rowe Price Launches Multi-Crypto ETF Including Bitcoin, Ethereum, and XRP](https://247wallst.com/investing/cryptocurrency/2026/07/17/t-rowe-price-launches-multi-crypto-etf-including-bitcoin-ethereum-and-xrp/)**
 
-Robinhood Chain reportedly pays almost no fees to Ethereum's Layer 1 network, contradicting Tom Lee's bullish argument that Robinhood Chain usage proves Ethereum's effectiveness. This data suggests that the economic activity on Robinhood Chain may not significantly benefit Ethereum's main network as claimed. The findings raise questions about the real value and impact of Robinhood Chain on Ethereum's ecosystem.
+T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
 
-Pluang • 9m ago
+24/7 Wall St. • 3d ago
+
+---
+
+**[Ethereum ETFs lead crypto inflows with $105M as institutional interest boosts altcoins this quarter](https://pluang.com/en/news-feed/ethereum-melesat-lebih-cepat-dari-bitcoin-dalam-pemulihan-etf-mingguan-inflow)**
+
+Ethereum-focused spot ETFs attracted $105 million in net inflows, outpacing Bitcoin's $75 million, signaling renewed institutional interest in altcoins. This inflow follows a period of heavy outflows that had dampened market sentiment, especially for Bitcoin, which saw a $4.5 billion outflow in June. Institutional buyers, including corporate treasuries like BitMine Technologies, are increasing their Ethereum holdings, contributing to a bullish momentum in crypto markets. Other altcoins like Solana and XRP also saw positive ETF inflows, indicating a broader return of traditional investors to digital assets this quarter.
+
+Pluang • 47m ago
 
 ---
 
@@ -172,25 +180,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares](https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares)**
-
-Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
-
-The Block • 6h ago
-
----
-
 **[Ethereum news: Bitmine (BMNR) slows ETH purchase pace to shift cash to $86 million stock buyback](https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock)**
 
 The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
+**[Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares](https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares)**
 
-CCN.com • 6h ago
+Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
+
+The Block • 8h ago
 
 ---
 
@@ -198,7 +200,13 @@ CCN.com • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
+
+---
+
+**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
+
+CCN.com • 7h ago
 
 ---
 
@@ -206,23 +214,15 @@ Fortune • 10h ago
 
 ETHV offers pure ether exposure with lower costs, while NCIQ provides diversified crypto holdings including Bitcoin and Ripple. Choose based on your risk tolerance and diversification needs.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
-**[Jordi Visser Says More People Will Get 'Focused' on Ethereum, Reveals His ETH Trading Strategy](https://www.benzinga.com/crypto/cryptocurrency/26/07/60544111/jordi-visser-says-more-people-will-get-focused-on-ethereum-reveals-his-eth-trading-strategy)**
+**[Bitcoin, ETH, XRP, DOGE Rally As CLARITY Act Goes To Senate](https://www.benzinga.com/crypto/cryptocurrency/26/07/60562956/bitcoin-crosses-65000-ethereum-xrp-dogecoin-rally-clarity-act-advances-senate-floor)**
 
-Jordi Visser expressed his bullish stance on Ethereum, highlighting its potential in the realm of AI and tokenization.
+Bitcoin hits $65,000 after U.S. Senator announces progress on crypto 'Clarity' legislation. One expert expects a rally toward $85,000.
 
-Benzinga • 13h ago
-
----
-
-**[Bitcoin ETFs see $128M inflow as Ethereum ETFs quietly gain momentum with $18M](https://cryptobriefing.com/bitcoin-ethereum-etf-inflow-rotation/)**
-
-Bitcoin ETFs saw $128M in net inflows while Ethereum ETFs gained $18M, with week-over-week trends diverging as institutional capital hints at a rotation.
-
-Crypto Briefing • 5h ago
+Benzinga • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 6K • 👍 416 • 💬 36 • ⏱️ 11:56 • 8h ago
+👁️ 7K • 👍 475 • 💬 40 • ⏱️ 11:56 • 9h ago
 
 ---
 
@@ -246,57 +246,17 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 3K • 💬 172 • ⏱️ 17:58 • 18h ago
+👁️ 61K • 👍 4K • 💬 182 • ⏱️ 17:58 • 20h ago
 
 ---
 
-**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
+**[BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=imhCCgZ0OHc)**
 
-INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
+BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 CryptoWendyO
+📺 Crypto World
 
-👁️ 3K • 👍 185 • 💬 21 • ⏱️ 11:23 • 23h ago
-
----
-
-**[I AM GOING ALL IN ON ETHEREUM](https://www.youtube.com/watch?v=aSlymErGonE)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 483 • 👍 73 • 💬 7 • ⏱️ 4:04 • 1h ago
-
----
-
-**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 130 • 💬 16 • ⏱️ 16:17 • 1d ago
-
----
-
-**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
-
-You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 581 • 💬 324 • ⏱️ 30:25 • 1d ago
-
----
-
-**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
-
-In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 282 • 💬 34 • ⏱️ 6:22 • 1d ago
+👁️ 364 • 👍 39 • 💬 12 • ⏱️ 21:43 • 23m ago
 
 ---
 
@@ -306,27 +266,67 @@ Why Ethereum's Next Move Could Be Massive - Robinhood Chain just changed everyth
 
 📺 Big Time Trades
 
-👁️ 741 • 👍 71 • 💬 8 • ⏱️ 26:52 • 8h ago
+👁️ 1K • 👍 82 • 💬 8 • ⏱️ 26:52 • 9h ago
 
 ---
 
-**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
+**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
 
-DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
+You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
 
-📺 The Rollup
+📺 The Modern Investor
 
-👁️ 4K • 👍 79 • ⏱️ 8:46 • 1d ago
+👁️ 5K • 👍 586 • 💬 351 • ⏱️ 30:25 • 1d ago
 
 ---
 
-**[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
+**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
 
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Milk Road
+📺 Savvy Finance
 
-👁️ 8K • 👍 185 • 💬 157 • ⏱️ 13:08 • 2d ago
+👁️ 3K • 👍 134 • 💬 16 • ⏱️ 16:17 • 1d ago
+
+---
+
+**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
+
+INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 186 • 💬 24 • ⏱️ 11:23 • 1d ago
+
+---
+
+**[Ethereum Price Forecast: Confirmed Bullish Pattern Sets Stage for 25% Gain](https://www.youtube.com/watch?v=-N41K4zBNus)**
+
+Ethereum has confirmed a bullish W-shaped pattern after breaking above the $1800 resistance, signaling a potential rally toward ...
+
+📺 FXEmpire
+
+👁️ 22 • 👍 4 • ⏱️ 6:02 • 1h ago
+
+---
+
+**[ETH&#39;s BULLISH Signal](https://www.youtube.com/watch?v=8IbeUgtNJB0)**
+
+Bitcoin held a stable weekend after Friday's plunge below the cloud, closing 1.4% inside the cloud on Saturday before a quiet ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 7K • 👍 512 • 💬 63 • ⏱️ 53:29 • 18h ago
+
+---
+
+**[Ethereum Hits Major Resistance: Is the Bounce Over?](https://www.youtube.com/watch?v=DrJHncwSLPQ)**
+
+In this video I break down the current Ethereum price action and the key resistance levels currently dictating the market trend.
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 283 • 💬 34 • ⏱️ 6:22 • 1d ago
 
 ---
 
