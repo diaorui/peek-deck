@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T14:34:09.371975+00:00'
+updated: '2026-07-21T16:23:09.088636+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 14:34 UTC  
+**Last Updated:** July 21, 2026 at 16:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +0.8%  
-**30d:** +11.9%  
-**90d:** -17.0%  
-**1y:** -48.4%  
+**24h:** +1.2%  
+**7d:** +0.5%  
+**30d:** +11.7%  
+**90d:** -17.2%  
+**1y:** -48.5%  
 
 ---
 
@@ -102,7 +102,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
 
-23h ago
+1d ago
 
 ---
 
@@ -156,27 +156,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum's retail interest collapses while inst...](https://pluang.com/en/news-feed/retail-meninggalkan-ethereum-wall-street-masuk-harga-tetap)**
+**[Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html)**
 
-Retail interest in Ethereum has dropped to 2020 levels with tweet volume, NFT activity, and active addresses all declining sharply. Meanwhile, institutional adoption is growing, with major firms like BlackRock and JPMorgan building on Ethereum and a nonprofit onboarding institutions. Despite this, Ethereum's price has fallen about 42% this year, reflecting declining fee revenue and a market pricing the token based on cash flows rather than adoption narratives. The key question is whether institutional activity will generate enough fees to boost the token's value, with the current divergence between retail, institutional use, and market pricing unresolved.
+Bitcoin (BTC-USD) opened at $65,214.10 on Tuesday, July 21, 2026, 0.8% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,903.35, up 1.7% from Monday's opening price.
 
-Pluang • 1h ago
-
----
-
-**[Bitcoin and Ethereum see net inflows while USDC records $236M outflow, signaling crypto liquidity shifts](https://pluang.com/en/news-feed/bitcoin-ethereum-aliran-dana-neto-usdc-keluar-besar)**
-
-Bitcoin and Ethereum experienced net inflows of approximately $216 million and $77 million respectively, indicating strong investor interest. In contrast, USD Coin (USDC) saw a significant net outflow of about $236 million, the largest among stablecoins, suggesting a shift in liquidity preferences within the crypto market. Other tokens like Solana showed modest inflows, while some ecosystem tokens and smaller stablecoins faced outflows. These movements reflect changing capital flows across crypto assets, potentially impacting short-term market liquidity and asset demand without indicating a clear directional trend.
-
-Pluang • 1h ago
-
----
-
-**[Bitcoin and ethereum prices today, Monday, July 20, 2026: Crypto prices mixed as second half 2026 outlooks conflict](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html)**
-
-Bitcoin (BTC-USD) opened at $64,680.23 on Monday, July 20, 2026, 0.2% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,871.21 on Monday, July 20, 2026, up 0.5% from Sunday's opening price.
-
-Yahoo Finance • 23h ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -192,7 +176,7 @@ The Block • 1d ago
 
 Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
-TradingView • 2h ago
+TradingView • 4h ago
 
 ---
 
@@ -204,14 +188,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 21, 2026](https://fortune.com/article/price-of-ethereum-07-21-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
-
----
-
 **[Ethereum news: Bitmine (BMNR) slows ETH purchase pace to shift cash to $86 million stock buyback](https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock)**
 
 The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
@@ -220,11 +196,31 @@ CoinDesk • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH defends key support, XRP recovery stays on track](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-defends-key-support-xrp-recovery-stays-on-track-202607200341)**
+**[Current price of Ethereum for July 21, 2026](https://fortune.com/article/price-of-ethereum-07-21-2026/)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are starting the week on a mild constructive note as the broader crypto market attempts to recover. BTC is approaching a key technical hurdle at $65,028, and ETH is holding above the important $1,800 support zone.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-FXStreet • 1d ago
+Fortune • 5h ago
+
+---
+
+**[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
+
+thestreet.com • 31m ago
+
+---
+
+**[Aztec upgrades to V5, adds full private execution environment to Ethereum L2](https://cryptobriefing.com/aztec-v5-private-execution-ethereum-l2/)**
+
+Aztec Network launches Alpha V5 with client-side proving, delivering 2x faster private transactions and 50% lower costs on its Ethereum Layer 2.
+
+Crypto Briefing • 2h ago
+
+---
+
+**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -238,7 +234,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 551 • 👍 75 • 💬 29 • ⏱️ 17:49 • 2h ago
+👁️ 551 • 👍 75 • 💬 29 • ⏱️ 17:49 • 4h ago
 
 ---
 
@@ -258,7 +254,7 @@ Aaron Dishner walks through Ethereum's recent price action, noting last week's r
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 237 • 💬 21 • ⏱️ 16:28 • 8h ago
+👁️ 3K • 👍 237 • 💬 21 • ⏱️ 16:28 • 9h ago
 
 ---
 
@@ -298,7 +294,7 @@ BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 269 • ⏱️ 21:43 • 17h ago
+👁️ 6K • 👍 287 • 💬 269 • ⏱️ 21:43 • 19h ago
 
 ---
 
@@ -308,7 +304,7 @@ DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cyc
 
 📺 The Rollup
 
-👁️ 4K • 👍 89 • 💬 1 • ⏱️ 8:46 • 1d ago
+👁️ 4K • 👍 89 • 💬 1 • ⏱️ 8:46 • 2d ago
 
 ---
 
@@ -328,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 201 • 👍 12 • 💬 72 • ⏱️ 4:37 • 4h ago
+👁️ 201 • 👍 12 • 💬 72 • ⏱️ 4:37 • 6h ago
 
 ---
 

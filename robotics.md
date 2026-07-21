@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-21T14:34:09.374355+00:00'
+updated: '2026-07-21T16:23:09.091340+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 21, 2026 at 14:34 UTC  
+**Last Updated:** July 21, 2026 at 16:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ I’m building Haga, an independent physics-consistency checker for generated vi
 
 **[Isaac sim: rosbag replay via rosbrigde](https://www.reddit.com/r/robotics/comments/1v0ue0e/isaac_sim_rosbag_replay_via_rosbrigde/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -116,13 +116,13 @@ Researchers at the University of Toronto's Continuum Robotics Laboratory introdu
 
 Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
 **[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
 
-Reuters • 13h ago
+Reuters • 15h ago
 
 ---
 
@@ -130,15 +130,7 @@ Reuters • 13h ago
 
 The tech giant is consolidating talent, research and production planning to accelerate the commercialization of humanoid robots.
 
-Korea JoongAng Daily • 3h ago
-
----
-
-**[Omni One Wins XR Industry’s Top Award as AI and Humanoid Robotics Platform Gains Momentum](https://finance.yahoo.com/technology/ai/articles/omni-one-wins-xr-industry-134200599.html)**
-
-Humanoid Robot Project with University of Central Florida Honored for Breakthrough Physical AI Teleoperation Second Consecutive Award Reinforces Omni One as the Leading Full-Body Movement Platform for XR, AI, and Robotics AUSTIN, Texas, July 21, 2026 (GLOBE NEWSWIRE) -- Virtuix Holdings Inc. (NASDAQ: VTIX), a leading developer of AI-driven, full-body simulation systems, today announced that its Omni One platform has received the 2026 Auggie Award for Best Interaction Product at Augmented World E
-
-Yahoo Finance • 52m ago
+Korea JoongAng Daily • 5h ago
 
 ---
 
@@ -146,13 +138,7 @@ Yahoo Finance • 52m ago
 
 We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
 
-Forbes • 20h ago
-
----
-
-**[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
-
-Reuters • 1d ago
+Forbes • 22h ago
 
 ---
 
@@ -160,19 +146,21 @@ Reuters • 1d ago
 
 BEIJING (AP) — China's leading technology companies showcased hundreds of cutting-edge products at the World AI Conference in Shanghai — from advanced robotics to artificial intelligence systems.
 
-AP News • 13h ago
+AP News • 14h ago
 
 ---
 
 **[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
 
-Tech Xplore • 19h ago
+Tech Xplore • 21h ago
 
 ---
 
-**[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
+**[Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent](https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7)**
 
-OregonLive.com • 17h ago
+Agility Robotics has expanded with a new Silicon Valley hub. The startup is avoiding AI talent wars and focusing on culture over high salaries.
+
+Business Insider • 18h ago
 
 ---
 
@@ -180,7 +168,21 @@ OregonLive.com • 17h ago
 
 An emerging robotics company talks about how humanoid-style androids could one day do dangerous, simple tasks like breaching doors and firing certain weapons.
 
-Defense News • 23h ago
+Defense News • 1d ago
+
+---
+
+**[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
+
+OregonLive.com • 19h ago
+
+---
+
+**[Elon Musk Says AI and Robots Will Do ‘So Much Stuff’ We Run Out of Things for Humans to Do — But ‘We’ll Basically Just Issue Money to People’](https://finance.yahoo.com/economy/articles/elon-musk-says-ai-robots-223015126.html)**
+
+The biggest workplace debate of the next decade might not be about asking for a raise. It could be figuring out what to do when the robots have already finished the job. That’s the future Tesla and SpaceX CEO Elon...
+
+Yahoo Finance • 17h ago
 
 ---
 
@@ -224,7 +226,7 @@ Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another 
 
 📺 DPCcars
 
-👁️ 6K • 👍 53 • 💬 10 • ⏱️ 2:55 • 23h ago
+👁️ 6K • 👍 53 • 💬 10 • ⏱️ 2:55 • 1d ago
 
 ---
 
@@ -234,7 +236,7 @@ Robodogs and dancing robots are headlining tech shows everywhere. But at the Wor
 
 📺 CNA
 
-👁️ 2K • 👍 36 • 💬 15 • ⏱️ 3:18 • 22h ago
+👁️ 2K • 👍 36 • 💬 15 • ⏱️ 3:18 • 23h ago
 
 ---
 
@@ -254,7 +256,7 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 20K • 👍 332 • 💬 79 • ⏱️ 13:38 • 1d ago
+👁️ 20K • 👍 332 • 💬 79 • ⏱️ 13:38 • 2d ago
 
 ---
 
@@ -264,7 +266,7 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 30K • 👍 1K • 💬 85 • ⏱️ 14:37 • 2d ago
+👁️ 30K • 👍 1K • 💬 85 • ⏱️ 14:37 • 3d ago
 
 ---
 
@@ -274,7 +276,7 @@ Humanoid robotics industry analyst Eren Chen discusses the growing trend of robo
 
 📺 NBC News
 
-👁️ 9K • 👍 121 • 💬 56 • ⏱️ 5:08 • 12h ago
+👁️ 9K • 👍 121 • 💬 56 • ⏱️ 5:08 • 14h ago
 
 ---
 

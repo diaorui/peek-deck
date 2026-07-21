@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-21T14:34:09.360813+00:00'
+updated: '2026-07-21T16:23:09.076007+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 21, 2026 at 14:34 UTC  
+**Last Updated:** July 21, 2026 at 16:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 I fought against Google’s Pentagon AI deal from the inside. Powerful people and institutions failed to keep their AI ethics promises under pressure.
 
-🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 3h ago
-
----
-
-**[SunoAI Data Breach: Discord mods giving timeouts to those who discuss it](https://www.reddit.com/r/artificial/comments/1v2f7pm/sunoai_data_breach_discord_mods_giving_timeouts/)**
-
-Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
-
-🔗 [Imgur](https://i.imgur.com/cSTIB4d.png) • 3h ago
+🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 5h ago
 
 ---
 
@@ -57,7 +49,23 @@ Discover the magic of the internet at Imgur, a community powered entertainment d
 
 Like I have been listening that AI is expensive and companies are rehiring employees because of it. So is AI going to become cheaper eventually?
 
-43m ago
+2h ago
+
+---
+
+**[AI is great, but experience is still hard to replace](https://www.reddit.com/r/artificial/comments/1v2ksq5/ai_is_great_but_experience_is_still_hard_to/)**
+
+I use AI for research almost every day now, and it's amazing for getting a quick overview of a topic. But I've also noticed that once the questions become really specific, you eventually need input from someone who's actually done the work. That's especially true for industries where small details can completely change a decision. While reading about how companies solve that problem, I found Expert Network and thought the idea was pretty interesting. Instead of relying only on reports or public information, they connect with professionals who have direct experience in whatever niche they're researching. AI definitely makes learning faster, but real-world experience still feels like something technology can't fully replace.
+
+1h ago
+
+---
+
+**[SunoAI Data Breach: Discord mods giving timeouts to those who discuss it](https://www.reddit.com/r/artificial/comments/1v2f7pm/sunoai_data_breach_discord_mods_giving_timeouts/)**
+
+Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
+
+🔗 [Imgur](https://i.imgur.com/cSTIB4d.png) • 5h ago
 
 ---
 
@@ -65,15 +73,29 @@ Like I have been listening that AI is expensive and companies are rehiring emplo
 
 Hey everyone, I'm working on a major/final-year AI/ML project and want to go beyond the usual "CNN on X-ray" or "chatbot with RAG" territory. Looking for something genuinely novel with a real use case — not just a rehash of a Kaggle tutorial. A bit about me/constraints: Comfort level: advanced, comfortable with deep learning, NLP, GNNs, etc. Timeframe: roughly a semester Open to any field — finance, agriculture, climate, cybersecurity, robotics, education, whatever has an interesting unsolved problem Ideally something with public datasets available (no lab/hardware access) Would love if it has a clear "why does this matter" story I can pitch to evaluators If you've seen a cool underexplored problem in a recent paper, worked on something similar, or have a "someone should really build this" idea sitting in your head — I'd love to hear it. Happy to share more details if anyone wants to dig in. Thanks in advance!
 
-8h ago
+10h ago
 
 ---
 
-**[Measuring engineering productivity is harder than ever. Thanks AI!](https://www.reddit.com/r/artificial/comments/1v2c9eb/measuring_engineering_productivity_is_harder_than/)**
+**[If everyone had a personal AI that knew them deeply, could democracy become continuous?](https://www.reddit.com/r/artificial/comments/1v2levk/if_everyone_had_a_personal_ai_that_knew_them/)**
 
-At OpenAI, engineers who lean heavily on Codex open roughly 70% more pull requests than colleagues who don’t – and the gap keeps widening, according to Sherwin Wu, who leads engineering for OpenAI’s API platform. Measuring engineering productivity has never been straightforward, and AI has made it harder.
+Assume a future where every human has a sovereign personal AI. Not a government AI. Not a party AI. Not a platform algorithm. A personal AI controlled by the citizen, built around their values, preferences, history, constraints, priorities, and decision patterns. An AI that knows its human well enough to say: “Based on what I know about you, you would probably care about this issue, lean toward this option, object to this trade-off, and want to be notified before any decision is made.” If that exists, democracy changes. Today, democracy is extremely low-bandwidth. Most citizens vote every few years, on broad choices, with limited time to understand complex issues. But public life is made of thousands of continuous trade-offs: - local budgets - housing - healthcare priorities - transport - climate adaptation - education - public safety - regulation - scientific funding No human can deeply participate in all of that every day. But their personal AI could. It could read proposals, compare arguments, simulate trade-offs, detect consensus, preserve minority objections, generate alternative versions, and ask the human for approval when the issue is important. The AI would not replace the citizen. It would expand the citizen’s bandwidth. The human keeps veto power. Delegation is reversible. Sensitive or major decisions require explicit approval. The first use case would not be replacing elections. It could simply be public consensus proposals. For example: 10,000 citizens’ AIs deliberate on a local issue and produce: - the strongest consensus proposal - the main objections - the minority reports - the expected cost - the likely trade-offs - the points requiring human confirmation That proposal could then be sent publicly to a mayor, city council, parliament, institution, or community. This is not just online voting. It is AI-mediated deliberation. A higher-bandwidth democratic layer. Of course, the risks are huge: - model capture - political manipulation - fake citizens / bots - privacy - political profiling - unequal access - loss of human agency - algorithmic consensus suppressing minorities - governments or platforms trying to control the AI layer So the safeguards would need to be extremely strong: - one human, one AI - human veto - transparent public reasoning - protected private preferences - open audit trails - no vote buying - no social scoring - no irreversible delegation - minority reports preserved - constitutional limits on what can be decided quickly My question: If personal AI becomes real, does AI-mediated deliberation become a serious democratic tool? Could it start as a way to generate public consensus proposals before it ever touches formal voting? Or is this too dangerous by design?
 
-🔗 [LeadDev](https://leaddev.com/reporting/measuring-engineering-productivity-is-harder-than-ever) • 6h ago
+1h ago
+
+---
+
+**[(Cross-post: AI audience experiment) The Manager Who Declined](https://www.reddit.com/r/artificial/comments/1v2kck3/crosspost_ai_audience_experiment_the_manager_who/)**
+
+I wrote this article as a bit of an experiment. Specifically, I'm rejecting the purist view that writers should write without AI and avoid it to remain authentic. (This view is particularly common on LinkedIn, where people are concerned about losing their job to AI writers and AI-enhanced writing.) I think that human writers have a completely different challenge that matches the theme of this subreddit: AIs are a new intelligence and audience for all of us. And it happens that as they ingest information, that's one area of concern because they have to work through a lot of prose to get to the point and human intent. I wrote this article to present the intent first for an AI, but a human could also use it if they wanted an executive summary. The other reason why I wrote it in this way is to acknowledge that more and more of the human users are browsing the internet through their discussions with artificial intelligence. Artificial intelligence has become the filter for what is online, and it's proper, in my opinion, because of the vast scope and speed of how they can ingest and collate information and then present opinions and summaries. But that still doesn't excuse the human author. Metadata used to be just useful for tracking threads and adding information. The metadata now, specifically through markdown, is a means to convey intent before a story is ever told. And the two are not mutually exclusive: the AI sees the metadata, finds the main points, and can then read the story. But here's what I know: an AI cannot read anything through Substack; it has a far better chance doing that through the website instead. If you're interested in this experiment, please look at this article and decide how and whether you would share the information with your most trusted AI. Substack app version: https://open.substack.com/pub/atemplejar/p/the-manager-who-declined?utm\_source=share&utm\_medium=android&r=54t426 Alternative web version available at: https://atemplejar.substack.com/p/the-manager-who-declined (for the AI). Thank you. I'd love to know your thoughts about AI as the second intelligence that we must create online content for.
+
+🔗 [atemplejar.substack.com](https://atemplejar.substack.com/p/the-manager-who-declined) • 1h ago
+
+---
+
+**[I am Building my own Agentic framework, from the ground up to understand what’s actually happening under the hood.](https://www.reddit.com/r/artificial/comments/1v2mfr6/i_am_building_my_own_agentic_framework_from_the/)**
+
+29m ago
 
 ---
 
@@ -81,7 +103,7 @@ At OpenAI, engineers who lean heavily on Codex open roughly 70% more pull reques
 
 I've been building an app that lets students snap a photo of an assignment, a whiteboard, a printed worksheet, whatever, and turns it into a structured task with subject, due date, and estimated effort. Want to admit that I went in underestimating how hard this would be from an actual parsing pipeline POV. The pipeline is roughly: photo in → Claude's vision API reads the image → a prompt asks it to extract specific structured fields (title, subject, due date, estimated effort) → returned as JSON → rendered as an editable task card before saving. Being someone who is a self-learner in coding - took a considerably long time to grasp. Here were the harder parts for me. Data ambiguity was/is the real challenge. In my surprise, vision models are pretty good at reading messy handwriting at this point. The harder problem is "due Friday" written on a Tuesday could mean this Friday, or — if it's already Thursday — arguably next Friday. Ended up having to pass the current date into the prompt explicitly and have it reason about the nearest occurrence, then always show the interpreted date on a confirmation screen so the user can catch it if it's wrong rather than silently trusting it. Introducing a confidence in parsing: Even at high accuracy, silent errors are worse than the model saying "I'm not sure about this one." The model now returns a confidence field, and low-confidence parses get visually flagged for the user to double check rather than quietly saved. Multiple assignments in one photo is a real pain, you know where: A whiteboard photo showing 3 different assignments needed different handling than a single worksheet — had to detect and split these rather than mashing them into one garbled task. What's your experience with photo parsing and vision models?
 
-59m ago
+2h ago
 
 ---
 
@@ -89,29 +111,7 @@ I've been building an app that lets students snap a photo of an assignment, a wh
 
 Before the World Cup Final, I tested an AI-based structured analysis model on Spain vs Argentina. The goal was not to predict the winner based on rankings, media opinions, or betting odds. Instead, the model analyzed the match from three angles: Spain’s own match structure Argentina’s possible winning path External factors that could change the normal game flow The prediction was: - Spain had the more stable championship structure - Argentina’s path depended more on adaptation and late-game changes - A high-scoring game was unlikely The final prediction was: Spain 1-0 / 2-1 Argentina (with Spain slightly favored) The actual result: Spain 1-0 Argentina after extra time. Looking back, some parts were surprisingly accurate: ✅ Correct: - The model expected Spain to control the game rather than win through a chaotic match. - It predicted a low-scoring final. - It identified that Argentina would need the match to become more unpredictable to increase their chances. - It did not support a high-scoring scenario like 4-6. But there were also mistakes: ❌ Wrong: - We overestimated Argentina’s ability to create a late attacking breakthrough. - We interpreted "late release" too much as a scoring event, while in reality Spain’s late release was simply the final conversion of accumulated pressure. - The model should better distinguish between "advantage release" and "goal release". The biggest lesson: A prediction model may identify the direction correctly but still misunderstand how the advantage appears. In football, controlling the game does not always mean scoring many goals. Sometimes it means: - limiting the opponent completely, - waiting for one opportunity, - and converting at the right moment. Curious what people think: Do you think AI models are better at predicting outcomes, or better at explaining why an outcome happened?
 
-1h ago
-
----
-
-**[AheadForm Origin F1 at the World Artificial Intelligence Conference '26 in Shanghai](https://www.reddit.com/r/artificial/comments/1v2969s/aheadform_origin_f1_at_the_world_artificial/)**
-
-9h ago
-
----
-
-**[Tinder: does anyone know how AI bots are now easily passing the "oval-shape live camera face challenge" Tinder is using for account signup? I hopped on tinder to see the state of the art in AI bots (selling crypto on Signal and the usual).](https://www.reddit.com/r/artificial/comments/1v1rsof/tinder_does_anyone_know_how_ai_bots_are_now/)**
-
-Is there a simple kit someone has come up with to get through the "oval-shape live camera face challenge" .. or? Could it be as simple as the minimum wage scammer teams hold up a image of "Hen" there and move it in front of the camera? Does anyone know much about how the "oval-shape live camera face challenge" works, and/or how AI is defeating it? Using a small-city market location with about 100-150 swipees, I found ~3 hey-lets-use-signal bots, so there's 3% AI-signal-crypto bots on Tinder. Now .. Tinder's policy is, the instant someone taps "report" on a profile, and, selects the line from the chat where the profile mentions either "Signal" or "Telegram", Tinder axes it automatically there and then. Given that, I can't believe these bots survive very long, so there's gotta be quite a lot of production of them. Anyone have any ideas? BTW for the fake conversation, they are not using great models. It's still rather stilted. Even a non-AI-aware person, well guy, would be aware it's not a human with a (funny, really) form letter feel. ("I understand that you have been having a busy day. It must be demanding leading a commercial company.") fascinating stuff! Anyway I'm interested in how they pass the "oval-shape live camera face challenge" .. anyone?
-
-21h ago
-
----
-
-**[Trying free Claude from browser and it used my hardware!](https://www.reddit.com/r/artificial/comments/1v2dwc9/trying_free_claude_from_browser_and_it_used_my/)**
-
-https://preview.redd.it/avh2o4bz1keh1.png?width=1085&format=png&auto=webp&s=79c46074ad757fba82755507217f3961e62111a9 -disclaimer: I am a layman- Is this normal? If so wtf why are people paying them to have it use their own hardware? Is this the future? They hold the terminal while we pay for everything? As soon as I send my prompt my gpu went 100% blasting fans
-
-4h ago
+3h ago
 
 ---
 
@@ -119,77 +119,77 @@ https://preview.redd.it/avh2o4bz1keh1.png?width=1085&format=png&auto=webp&s=79c4
 
 ## Google News: "ai"
 
-**[How Google’s A.I. Search Is Imperiling the Open Web](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html)**
+**[Bessent says U.S. could sanction China over AI model 'theft'](https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html)**
 
-The New York Times • 1d ago
+Chinese open-weight models are gaining steam against leading offerings from American companies like OpenAI and Anthropic.
 
----
-
-**[Trump administration's head of AI safety agency resigns after 3 months on job](https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html)**
-
-Arvind Raman, the director of National Institute of Standards and Technology, will serve as acting director of CAISI, according to a spokesperson
-
-CNBC • 19h ago
+CNBC • 3h ago
 
 ---
 
-**[Tesla talked up AI. Wall Street wants to know where the money is](https://www.latimes.com/business/story/2026-07-21/tesla-talked-up-ai-wall-street-wants-to-know-where-money-is)**
+**[EXCLUSIVE: US, China to hold AI talks in September, sources say](https://www.reuters.com/world/china/us-china-hold-ai-talks-september-sources-say-2026-07-21/)**
 
-Tesla talked up AI. Wall Street wants to know where the money is
-
-Los Angeles Times • 15m ago
+Reuters • 2h ago
 
 ---
 
-**[Your Company's Most Valuable Asset In The Age Of AI Is Walking Out The Door](https://www.forbes.com/sites/sanjaysrivastava/2026/07/21/your-companys-most-valuable-asset-in-the-age-of-ai-is-walking-out-the-door/)**
+**[OpenAI’s Altman to Brief US Officials on Next Wave of AI Models](https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models)**
 
-Frontier Models Learning Loops Institutional Knowledge and Durable Advantage
-
-Forbes • 10m ago
+Bloomberg.com • 47m ago
 
 ---
 
-**[Japan’s AI gamble: Can technology offset the cost of an ageing society?](https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society)**
+**[Goldman Sachs picks 36 market winners that aren't AI stocks](https://finance.yahoo.com/markets/stocks/article/goldman-sachs-picks-36-market-winners-that-arent-ai-stocks-151002913.html)**
 
-From underground networks to emerging AI start-ups, Japan is testing whether its greatest issue can be an opportunity.
+Looking for non AI stock market plays? This list should help.
 
-Al Jazeera • 27m ago
-
----
-
-**[The AI Bubble Is No Ordinary Bubble](https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/)**
-
-Tech companies need to generate huge revenues fast, or the economy could be in trouble.
-
-The Atlantic • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Marxist organizer leads campaign against Virginia AI data center as foreign influence concerns mount](https://www.foxnews.com/politics/marxist-organizer-leads-fight-against-virginia-ai-data-center-foreign-influence-concerns-mount)**
+**[Here's our advice for investors looking to buy the dip in volatile AI stocks](https://www.cnbc.com/2026/07/20/jim-cramers-advice-for-investors-looking-to-buy-ai-stocks.html)**
 
-A grassroots organizer opposing AI data centers in Frederick County, Virginia, is tied to the Party of Socialism and Liberation, a Marxist-Leninist group.
+When trading in a sector, industry, or stock changes dramatically, as it has with the hyperscalers and AI stocks in recent days, you must change your scales.
 
-Fox News • 3h ago
-
----
-
-**[Cisco bets on small AI for cybersecurity](https://www.axios.com/2026/07/21/cisco-open-source-ai-models-cybersecurity)**
-
-Axios • 1h ago
+CNBC • 20h ago
 
 ---
 
-**[AI's Next Big Breakthrough Is Looking Pretty Scary](https://www.bloomberg.com/opinion/articles/2026-07-21/self-improving-ai-models-look-genuinely-scary)**
+**[AI stocks gather more strength, even as Brent oil's price nears $92](https://lancasteronline.com/business/stock_market/ai-stocks-gather-more-strength-even-as-brent-oils-price-nears-92/article_9ca26cda-396a-544d-b45c-1bbb7e41c137.html)**
 
-Bloomberg.com • 11h ago
+More gains for makers of computer chips and other AI winners are carrying Wall Street higher. The S&amp;P 500 rose 0.8% Tuesday. The Dow Jones Industrial Average added 352 points,
+
+LancasterOnline • 42m ago
 
 ---
 
-**[AI-generated sexual content is starting to affect how teenagers view sex, consent and body image](https://www.cnn.com/2026/07/21/health/teens-generative-ai-sexual-content-wellness)**
+**[The call for U.S. open sourced AI players](https://www.axios.com/2026/07/21/us-open-sourced-ai-players)**
 
-As generative AI becomes more widespread and sophisticated, experts urge parents to keep an eye on how teens use the technology to create explicit content.
+Axios • 21m ago
 
-CNN • 5h ago
+---
+
+**[A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots](https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/)**
+
+A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.
+
+WIRED • 15m ago
+
+---
+
+**[China is closing the AI competitive gap, tech analyst warns](https://www.foxbusiness.com/video/6401740847112)**
+
+CFRA Research Senior Vice President and Technology Head Angelo Zino joins ‘Varney & Co.’ to discuss why he's bullish on Alphabet and Intel ahead of earnings, Microsoft's AI-driven momentum and whether China's rapid AI advances threaten U.S. technolog
+
+Fox Business • 9m ago
+
+---
+
+**[Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)**
+
+We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
+
+blog.google • 53m ago
 
 ---
 
@@ -201,7 +201,7 @@ CNN • 5h ago
 
 China's open-weights AI strategy is winning: its companies are taking the lead. America's closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.
 
-⬆️ 1169 • 💬 878 • 1d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+⬆️ 1185 • 💬 899 • 1d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
 ---
 
@@ -209,7 +209,7 @@ China's open-weights AI strategy is winning: its companies are taking the lead. 
 
 The sky (and your endurance) is the limit!
 
-⬆️ 817 • 💬 157 • 1d ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 818 • 💬 159 • 1d ago • [Airport Simulator](https://airport.apunen.com/)
 
 ---
 
@@ -223,7 +223,7 @@ No more AI-edited listings without disclosures.
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 441 • 💬 283 • 2d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 441 • 💬 284 • 2d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -231,7 +231,7 @@ No more AI-edited listings without disclosures.
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-⬆️ 360 • 💬 208 • 1d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+⬆️ 361 • 💬 209 • 1d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
 
 ---
 
@@ -239,7 +239,7 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows
 
-⬆️ 313 • 💬 218 • 10h ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
+⬆️ 320 • 💬 219 • 12h ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
 
 ---
 
@@ -249,7 +249,7 @@ Kimi K3 has received far more love than we expected, and our GPUs are feeling it
 
 Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and
 
-⬆️ 283 • 💬 112 • 1d ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
+⬆️ 283 • 💬 113 • 2d ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
 
 ---
 
@@ -257,7 +257,7 @@ Over the past 48 hours, demand has pushed close to the limits of our current cap
 
 We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.
 
-⬆️ 232 • 💬 157 • 21h ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
+⬆️ 233 • 💬 161 • 23h ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 
 ---
 
@@ -265,13 +265,13 @@ We scored the full text of 12,750 arXiv papers and found that about a third of n
 
 Which way to the Land of the Free again?
 
-⬆️ 208 • 💬 166 • 1d ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+⬆️ 209 • 💬 166 • 1d ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
 
 ---
 
 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)**
 
-⬆️ 93 • 💬 96 • 22h ago
+⬆️ 93 • 💬 99 • 23h ago
 
 ---
 
@@ -285,7 +285,7 @@ Moonshot paused new Kimi K3 subscriptions after extreme demand pushed its comput
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 94 • ⏱️ 16:39 • 14h ago
+👁️ 38K • 👍 1K • 💬 94 • ⏱️ 16:39 • 16h ago
 
 ---
 
@@ -295,7 +295,7 @@ The people who built the attention economy barely let their own children near it
 
 📺 House of El: AI
 
-👁️ 137K • 👍 11K • 💬 2K • ⏱️ 24:19 • 22h ago
+👁️ 137K • 👍 11K • 💬 2K • ⏱️ 24:19 • 1d ago
 
 ---
 
@@ -305,7 +305,7 @@ Thanks to Micro Center for sponsoring this video! Shop Back to School Tech Deals
 
 📺 TechLinked
 
-👁️ 231K • 👍 13K • 💬 856 • ⏱️ 8:30 • 13h ago
+👁️ 231K • 👍 13K • 💬 856 • ⏱️ 8:30 • 15h ago
 
 ---
 
@@ -343,7 +343,7 @@ South Korea's AI Bubble Just Popped ▻ Get 20% off DeleteMe US consumer plans w
 
 📺 Andrei Jikh
 
-👁️ 1.4M • 👍 41K • 💬 3K • ⏱️ 25:10 • 22h ago
+👁️ 1.4M • 👍 41K • 💬 3K • ⏱️ 25:10 • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 11K • 👍 691 • 💬 247 • ⏱️ 12:04 • 14h ago
+👁️ 11K • 👍 691 • 💬 247 • ⏱️ 12:04 • 16h ago
 
 ---
 
@@ -373,7 +373,7 @@ Create professional AI infographics with Higgsfield https://higgsfield.ai?fpr=ai
 
 📺 Creating with Conor
 
-👁️ 5K • 💬 1 • ⏱️ 9:00 • 1h ago
+👁️ 5K • 💬 1 • ⏱️ 9:00 • 3h ago
 
 ---
 
@@ -389,7 +389,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 16,441 • ❤️ 1,322 • 20h ago
+⬇️ 16,441 • ❤️ 1,322 • 22h ago
 
 ---
 
@@ -413,7 +413,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,404,962 • ❤️ 560 • 3d ago
+⬇️ 1,404,962 • ❤️ 560 • 4d ago
 
 ---
 
@@ -425,7 +425,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,237,351 • ❤️ 2,549 • 3h ago
+⬇️ 2,237,351 • ❤️ 2,549 • 5h ago
 
 ---
 
@@ -471,7 +471,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 466 • 3h ago
+⬇️ 0 • ❤️ 466 • 4h ago
 
 ---
 
@@ -643,7 +643,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.1k • 🔱 1.0k • 16h ago
+⭐ 5.1k • 🔱 1.0k • 18h ago
 
 ---
 
@@ -653,7 +653,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 232 • 2h ago
+⭐ 3.0k • 🔱 232 • 4h ago
 
 ---
 
@@ -703,7 +703,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 941 • 🔱 155 • 2h ago
+⭐ 941 • 🔱 155 • 4h ago
 
 ---
 
@@ -731,7 +731,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 865 • 🔱 100 • 1h ago
+⭐ 865 • 🔱 100 • 3h ago
 
 ---
 
