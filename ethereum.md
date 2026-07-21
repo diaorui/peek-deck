@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T00:57:56.605752+00:00'
+updated: '2026-07-21T04:19:14.504819+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 00:57 UTC  
+**Last Updated:** July 21, 2026 at 04:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** -0.2%  
-**30d:** +10.8%  
-**90d:** -17.8%  
-**1y:** -48.9%  
+**24h:** +3.8%  
+**7d:** +0.3%  
+**30d:** +11.4%  
+**90d:** -17.4%  
+**1y:** -48.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.95B
+**Market Cap:** $232.20B
 Rank #2
 
-**Circulating Supply:** 120,682,825 ETH
+**Circulating Supply:** 120,682,803 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.1%
 
 **All-Time Low:** $0.43
-+441863.7%
++444134.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-19h ago
+23h ago
 
 ---
 
@@ -94,7 +94,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
-13h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
 
-9h ago
+13h ago
 
 ---
 
@@ -164,27 +164,19 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
-**[Shiba Inu edges up, Ethereum nears $2,000 test, Bitcoin eyes $68,000 rally amid growing market momentum.](https://pluang.com/en/news-feed/analisis-kenaikan-harga-shiba-inu-shib-tes-ethereum-eth-dan-potensi-bitcoin-btc)**
+**[Ethereum Could Lead the Next Bull Market: Is Hayes Preparing with More Buys?](https://finance.yahoo.com/markets/crypto/articles/ethereum-could-lead-next-bull-025150832.html)**
 
-Shiba Inu (SHIB) showed a modest 1.7% price increase after weeks of decline, signaling seller fatigue but still facing resistance near $0.0000118-$0.0000120. Ethereum (ETH) is approaching a critical resistance around $1,936, with a potential breakout above $2,000 that could boost market sentiment. Bitcoin (BTC) is gaining momentum with support above key moving averages, aiming for a $68,000 target if current support holds. These movements suggest cautious optimism as the crypto market stabilizes and tests key technical levels.
+Arthur Hayes bought more ETH as some argue that institutional demand could drive Ethereum's next bull run.
 
-Pluang • 22m ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Wants 5% Of Ethereum And A Bigger AI Role](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-wants-020627570.html)**
-
-Tom Lee, chairman of Bitmine Immersion Technologies (NYSE:BMNR), has outlined a plan for the company to acquire 5% of the total Ethereum supply. He framed Ethereum as a key bridge between blockchain infrastructure and AI applications as Wall Street interest in both areas grows. The updated vision follows Bitmine’s inclusion in the Russell 1000 index, which signals a broader role for the company within crypto and AI ecosystems. Bitmine Immersion Technologies is moving beyond its core focus...
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) slows ETH purchase pace to shift cash to $86 million stock buyback](https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock)**
+**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains Can Invite 'Faster Selloffs' If…](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dogecoin-flat-ethereum-xrp-015114508.html)**
 
-The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
+Leading cryptocurrencies traded mixed on Monday as escalating geopolitical tensions curbed investors’ risk appetite. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.86%$65,438.98Ethereum (CRYPTO: ETH) +1.51%$1,909.75XRP (CRYPTO: XRP) +1.30%$1.11Solana (CRYPTO: SOL) +1.27%$77.93Dogecoin (CRYPTO: DOGE) -0.70%$0.07226 Crypto Trading Volume Spikes Bitcoin traded in the $65,000 area through most of the day as 24‑hour volume increased 92%. Ethereum continued to
 
-CoinDesk • 12h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -192,7 +184,7 @@ CoinDesk • 12h ago
 
 Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
 
-The Block • 11h ago
+The Block • 14h ago
 
 ---
 
@@ -200,7 +192,29 @@ The Block • 11h ago
 
 If Tom Lee is right, Ethereum could be headed to $250,000 and Bitcoin could be headed to $2 million.
 
-The Motley Fool • 14h ago
+The Motley Fool • 17h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) slows ETH purchase pace to shift cash to $86 million stock buyback](https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock)**
+
+The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
+
+CoinDesk • 15h ago
+
+---
+
+**[Allbridge Core Hit by $1.65M Solana Exploit, Funds Traced to Ethereum](https://www.tradingview.com/news/coinpedia:19f5bacbd094b:0-allbridge-core-hit-by-1-65m-solana-exploit-funds-traced-to-ethereum/)**
+
+Cross-chain bridge protocol Allbridge Core has paused operations after suffering a security exploit that drained roughly $1.65 million from its Solana-based infrastructure.Allbridge said it paused the protocol as a precaution and urged liquidity providers in affected pools to withdraw their funds w…
+
+TradingView • 23h ago
+
+---
+
+**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
+
+CCN.com • 13h ago
 
 ---
 
@@ -208,21 +222,7 @@ The Motley Fool • 14h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
-
----
-
-**[Bitcoin, ETH, XRP, DOGE Rally As CLARITY Act Goes To Senate](https://www.benzinga.com/crypto/cryptocurrency/26/07/60562956/bitcoin-crosses-65000-ethereum-xrp-dogecoin-rally-clarity-act-advances-senate-floor)**
-
-Bitcoin hits $65,000 after U.S. Senator announces progress on crypto 'Clarity' legislation. One expert expects a rally toward $85,000.
-
-Benzinga • 6h ago
-
----
-
-**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
-
-CCN.com • 10h ago
+Fortune • 18h ago
 
 ---
 
@@ -236,17 +236,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 8K • 👍 513 • 💬 41 • ⏱️ 11:56 • 12h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
-
-Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
-
-📺 Benjamin Cowen
-
-👁️ 66K • 👍 4K • 💬 187 • ⏱️ 17:58 • 23h ago
+👁️ 9K • 👍 533 • 💬 50 • ⏱️ 11:56 • 16h ago
 
 ---
 
@@ -256,7 +246,37 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 137 • 💬 16 • ⏱️ 16:17 • 1d ago
+👁️ 3K • 👍 141 • 💬 16 • ⏱️ 16:17 • 1d ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=imhCCgZ0OHc)**
+
+BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 217 • 💬 125 • ⏱️ 21:43 • 6h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
+
+Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
+
+📺 Benjamin Cowen
+
+👁️ 69K • 👍 4K • 💬 192 • ⏱️ 17:58 • 1d ago
+
+---
+
+**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
+
+You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 588 • 💬 297 • ⏱️ 30:25 • 1d ago
 
 ---
 
@@ -270,53 +290,13 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 ---
 
-**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
-
-You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 588 • 💬 336 • ⏱️ 30:25 • 1d ago
-
----
-
 **[BMNR HOLDERS - ROBINHOOD CHAIN FUELING ETH 2.0 ERA](https://www.youtube.com/watch?v=8sHzMQxUNMw)**
 
 Why Ethereum's Next Move Could Be Massive - Robinhood Chain just changed everything for BMNR Tom Lee, ETH, SBET, Joe ...
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 93 • 💬 9 • ⏱️ 26:52 • 12h ago
-
----
-
-**[Ethereum Price Forecast: Confirmed Bullish Pattern Sets Stage for 25% Gain](https://www.youtube.com/watch?v=-N41K4zBNus)**
-
-Ethereum has confirmed a bullish W-shaped pattern after breaking above the $1800 resistance, signaling a potential rally toward ...
-
-📺 FXEmpire
-
-👁️ 41 • 👍 4 • ⏱️ 6:02 • 5h ago
-
----
-
-**[BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=imhCCgZ0OHc)**
-
-BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 161 • 💬 134 • ⏱️ 21:43 • 3h ago
-
----
-
-**[ETH&#39;s BULLISH Signal](https://www.youtube.com/watch?v=8IbeUgtNJB0)**
-
-Bitcoin held a stable weekend after Friday's plunge below the cloud, closing 1.4% inside the cloud on Saturday before a quiet ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 7K • 👍 519 • 💬 68 • ⏱️ 53:29 • 21h ago
+👁️ 2K • 👍 98 • 💬 9 • ⏱️ 26:52 • 16h ago
 
 ---
 
@@ -326,7 +306,27 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 8K • 👍 186 • 💬 157 • ⏱️ 13:08 • 2d ago
+👁️ 8K • 👍 187 • 💬 157 • ⏱️ 13:08 • 2d ago
+
+---
+
+**[ETH&#39;s BULLISH Signal](https://www.youtube.com/watch?v=8IbeUgtNJB0)**
+
+Bitcoin held a stable weekend after Friday's plunge below the cloud, closing 1.4% inside the cloud on Saturday before a quiet ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 7K • 👍 523 • 💬 72 • ⏱️ 53:29 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ujYmDTcyHGo)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 186 • 👍 25 • ⏱️ 8:19 • 1h ago
 
 ---
 

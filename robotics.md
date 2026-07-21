@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-21T00:57:56.609171+00:00'
+updated: '2026-07-21T04:19:14.508049+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 21, 2026 at 00:57 UTC  
+**Last Updated:** July 21, 2026 at 04:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,39 +124,35 @@ Yahoo Finance • 3d ago
 
 The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
 
-The Washington Post • 8h ago
+The Washington Post • 12h ago
 
 ---
 
-**[New robotic hand combines human-like precision with powerful grip](https://interestingengineering.com/ai-robotics/startup-unveils-mimic-hand-m1)**
+**[China unveils brain-to-robot platform that lets people control machines with their thoughts](https://interestingengineering.com/ai-robotics/china-brain-to-robot-platform)**
 
-Swiss startup Mimic Robotics unveils the Mimic Hand M1, bringing human-like precision, strength and touch to factory automation.
+Chinese BCI firm BrainCo debuts a non-invasive headset allowing users to control humanoid robots and robotic arms using only brain signals.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[China’s robot firms’ lament: if we only had a ‘brain’, and more data](https://www.scmp.com/tech/article/3361243/chinese-robot-makers-lament-if-we-only-had-better-brain-and-more-data)**
+**[Could humanoid robots be used to fire mortars? | Defense Dollars](https://www.defensenews.com/video/2026/07/20/could-humanoid-robots-be-used-to-fire-mortars-defense-dollars/)**
 
-South China Morning Post • 1h ago
+An emerging robotics company talks about how humanoid-style androids could one day do dangerous, simple tasks like breaching doors and firing certain weapons.
+
+Defense News • 13h ago
+
+---
+
+**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
+
+Reuters • 3h ago
 
 ---
 
 **[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
 
-OregonLive.com • 4h ago
-
----
-
-**[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
-
-Reuters • 18h ago
-
----
-
-**[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
-
-Tech Xplore • 6h ago
+OregonLive.com • 7h ago
 
 ---
 
@@ -168,17 +164,23 @@ Common Dreams • 3d ago
 
 ---
 
-**[Students Build and Race Robots at Faraday Future’s Camp](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-5a1793mbshju.html)**
-
-An indication of interest for a pilot order came from a top-20 data company; in Q3, FF plans software for one operator to control multiple robot models.
-
-Stock Titan • 23h ago
-
----
-
 **[Watch ABB Robotics on Business Strategy in China](https://www.bloomberg.com/news/videos/2026-07-20/abb-robotics-on-business-strategy-in-china-video)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Blackstone invests in South Korea’s Futronic, valuing robotics supplier at $676M - report (BX:NYSE)](https://seekingalpha.com/news/4615156-blackstone-invests-in-south-koreas-futronic-valuing-robotics-supplier-at-676m---report)**
+
+Seeking Alpha • 20h ago
+
+---
+
+**[Weave Robotics launches Isaac, its first mobile humanoid robot](https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/)**
+
+Weave Robotics has listed the features of its Isaac wheeled bimanual manipulator robot for household and office use.
+
+The Robot Report • 3d ago
 
 ---
 
@@ -186,23 +188,13 @@ Bloomberg.com • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
-
-America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
-
-📺 S3 | Science, Startups, & Stories
-
-👁️ 28K • 👍 1K • 💬 82 • ⏱️ 14:37 • 2d ago
-
----
-
 **[America Is Now Building Humanoid AI Robot Soldiers for War](https://www.youtube.com/watch?v=Qm64Vm-lf80)**
 
 An American robotics startup is preparing humanoid AI robots for war. Its Phantom machines have already been tested in Ukraine, ...
 
 📺 AI Revolution
 
-👁️ 20K • 👍 623 • 💬 102 • ⏱️ 13:15 • 2d ago
+👁️ 20K • 👍 635 • 💬 97 • ⏱️ 13:15 • 2d ago
 
 ---
 
@@ -212,17 +204,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 32K • 👍 372 • 💬 136 • ⏱️ 4:18 • 2d ago
-
----
-
-**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
-
-Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
-
-📺 Joanna Stern
-
-👁️ 80K • 👍 3K • 💬 263 • ⏱️ 12:02 • 4d ago
+👁️ 34K • 👍 382 • 💬 140 • ⏱️ 4:18 • 2d ago
 
 ---
 
@@ -232,7 +214,7 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 18K • 👍 315 • 💬 74 • ⏱️ 13:38 • 1d ago
+👁️ 19K • 👍 320 • 💬 78 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -242,17 +224,17 @@ Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another 
 
 📺 DPCcars
 
-👁️ 2K • 👍 39 • 💬 7 • ⏱️ 2:55 • 10h ago
+👁️ 3K • 👍 42 • 💬 9 • ⏱️ 2:55 • 13h ago
 
 ---
 
-**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
+**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
 
-The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
+America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
 
-📺 Job Othoniel
+📺 S3 | Science, Startups, & Stories
 
-👁️ 19K • 👍 137 • 💬 44 • ⏱️ 0:27 • 3d ago
+👁️ 29K • 👍 1K • 💬 83 • ⏱️ 14:37 • 2d ago
 
 ---
 
@@ -262,27 +244,47 @@ Researchers at South Korea's KAIST and Stanford University have unveiled clothin
 
 📺 Reuters
 
-👁️ 47K • 👍 463 • 💬 59 • ⏱️ 2:07 • 3d ago
+👁️ 48K • 👍 474 • 💬 59 • ⏱️ 2:07 • 3d ago
 
 ---
 
-**[The World’s First Monowheel Robot: How It Solved the Stability Paradox](https://www.youtube.com/watch?v=CIN0BXm9SXM)**
+**[BEST TITAN for 20 Bucks? Unusually THICK War Robots Deal](https://www.youtube.com/watch?v=zxWC8mtmkf4)**
 
-The ROLLO is the world's first autonomous and self-balancing monowheel robot. Company: https://1rollo.com/ Blog: ...
+War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' #warrobots #warrobotsgameplay ...
 
-📺 Europe’s Foundry 
+📺 Manni-Gaming
 
-👁️ 24K • 👍 1K • 💬 209 • ⏱️ 15:13 • 3d ago
+👁️ 9K • 👍 433 • 💬 106 • ⏱️ 14:20 • 1d ago
 
 ---
 
-**[Tesla Reveals Major New Optimus Robot Update!](https://www.youtube.com/watch?v=xwXUFbQcVJk)**
+**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
 
-Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
+This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
 
-📺 The Tesla Space
+📺 Air Photography
 
-👁️ 80K • 👍 2K • 💬 104 • ⏱️ 13:08 • 5d ago
+👁️ 73K • 👍 2K • 💬 205 • ⏱️ 7:15 • 4d ago
+
+---
+
+**[Unboxing BENI: This 2-Wheeled Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=ytaZ2eR9CR8)**
+
+Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mondorobotics/beni-all-terrain-camera-robot?ref=8ebvkr ...
+
+📺 FlytPath
+
+👁️ 8K • 👍 207 • 💬 23 • ⏱️ 5:19 • 1d ago
+
+---
+
+**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
+
+A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
+
+📺 Al Jazeera English
+
+👁️ 196K • 👍 1K • 💬 889 • ⏱️ 2:44 • 6d ago
 
 ---
 
