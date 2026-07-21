@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T07:07:44.528535+00:00'
+updated: '2026-07-21T10:01:57.435735+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 07:07 UTC  
+**Last Updated:** July 21, 2026 at 10:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,928.62
+### $1,939.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.2%  
-**7d:** +0.8%  
-**30d:** +11.9%  
-**90d:** -17.0%  
-**1y:** -48.4%  
+**24h:** +2.4%  
+**7d:** +1.2%  
+**30d:** +12.4%  
+**90d:** -16.7%  
+**1y:** -48.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $233.41B
+**Market Cap:** $234.19B
 Rank #2
 
 **Circulating Supply:** 120,682,803 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.9%
+-60.8%
 
 **All-Time Low:** $0.43
-+446665.3%
++448203.5%
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.
 
-🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 1d ago
+🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 2d ago
 
 ---
 
@@ -94,7 +94,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
-20h ago
+22h ago
 
 ---
 
@@ -102,7 +102,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
 
-15h ago
+18h ago
 
 ---
 
@@ -156,35 +156,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[T. Rowe Price Launches Multi-Crypto ETF Including Bitcoin, Ethereum, and XRP](https://247wallst.com/investing/cryptocurrency/2026/07/17/t-rowe-price-launches-multi-crypto-etf-including-bitcoin-ethereum-and-xrp/)**
+**[Ethereum holds above $1,825 with strong ETF inf...](https://pluang.com/en/news-feed/harga-ethereum-eth-melonjak-didorong-inflow-etf-lebih-dari-100juta)**
 
-T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how it works, and how much Bitcoin, Ethereum, and XRP it holds.
+Ethereum remains supported above $1,825 after breaking resistance, with bullish targets near $2,500. U.S. spot Ethereum ETFs saw $105.44 million net inflows last week, pushing total assets close to $10 billion. Analysts highlight $1,850 as a key support level for a potential rally to $2,300 and beyond. The ETH/BTC pair is also testing a key resistance, signaling possible broader momentum for Ethereum and related tokens.
 
-24/7 Wall St. • 3d ago
-
----
-
-**[Ripple's ex-CTO regrets early XRP and Ethereum sales driven by risk aversion, missing later gains.](https://pluang.com/en/news-feed/mantan-ripple-menyesal-jual-xrp-ethereum-dengan-harga-rendah)**
-
-David Schwartz, former CTO of Ripple, expressed regret over selling early XRP and Ethereum holdings, decisions driven by a personal risk-averse strategy rather than loss of confidence in crypto. He followed a family agreement to sell at new all-time highs, reducing exposure to volatile assets despite missing out on substantial later gains. Schwartz's approach reflects a preference for managing financial risk over chasing maximum returns, and he continues to hold Ripple equity while reducing direct cryptocurrency holdings. His comments highlight the trade-off between risk management and potential upside in crypto investing.
-
-Pluang • 58m ago
+Pluang • 2h ago
 
 ---
 
-**[Ripple CTO regrets selling XRP and Ethereum ear...](https://pluang.com/en/news-feed/veteran-ripple-menyesal-jual-xrp)**
+**[Bitcoin and ethereum prices today, Monday, July 20, 2026: Crypto prices mixed as second half 2026 outlooks conflict](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html)**
 
-David Schwartz, Ripple's former CTO, expressed regret over selling his XRP at $0.10 and Ethereum at around $1, citing his strong dislike of risk as the main reason. He had agreed with his wife to sell at every new all-time high, prioritizing peace of mind over potential crypto gains. Despite reducing his crypto holdings significantly, Schwartz still believes in crypto's long-term potential but prefers lower volatility investments. His cautious approach means he may miss out on historic returns but values stability more.
+Bitcoin (BTC-USD) opened at $64,680.23 on Monday, July 20, 2026, 0.2% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,871.21 on Monday, July 20, 2026, up 0.5% from Sunday's opening price.
 
-Pluang • 1h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Wants 5% Of Ethereum And A Bigger AI Role](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-wants-020627570.html)**
-
-Tom Lee, chairman of Bitmine Immersion Technologies (NYSE:BMNR), has outlined a plan for the company to acquire 5% of the total Ethereum supply. He framed Ethereum as a key bridge between blockchain infrastructure and AI applications as Wall Street interest in both areas grows. The updated vision follows Bitmine’s inclusion in the Russell 1000 index, which signals a broader role for the company within crypto and AI ecosystems. Bitmine Immersion Technologies is moving beyond its core focus...
-
-Yahoo Finance • 2d ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -192,7 +176,7 @@ Yahoo Finance • 2d ago
 
 Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
 
-The Block • 17h ago
+The Block • 20h ago
 
 ---
 
@@ -200,7 +184,7 @@ The Block • 17h ago
 
 If Tom Lee is right, Ethereum could be headed to $250,000 and Bitcoin could be headed to $2 million.
 
-The Motley Fool • 20h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -208,7 +192,7 @@ The Motley Fool • 20h ago
 
 The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
 
-CoinDesk • 18h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -220,11 +204,25 @@ TradingView • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 20, 2026](https://fortune.com/article/price-of-ethereum-07-20-2026/)**
+**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60568312/bitcoin-ethereum-xrp-dogecoin-price-analysis-us-iran-tensions)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
 
-Fortune • 21h ago
+Benzinga • 8h ago
+
+---
+
+**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
+
+CCN.com • 19h ago
+
+---
+
+**[Ethereum staking ratio hits record 34%, signaling market confidence](https://cryptobriefing.com/ethereum-staking-ratio-hits-record-34-signaling-market-confidence/)**
+
+Ethereum's staking ratio hits a record 34%, indicating market confidence. Ethereum reaching $10,000 by December 31, 2026 at 1.9% YES.
+
+Crypto Briefing • 13h ago
 
 ---
 
@@ -238,7 +236,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 10K • 👍 548 • 💬 51 • ⏱️ 11:56 • 19h ago
+👁️ 10K • 👍 557 • 💬 51 • ⏱️ 11:56 • 22h ago
 
 ---
 
@@ -248,7 +246,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 146 • 💬 16 • ⏱️ 16:17 • 1d ago
+👁️ 4K • 👍 147 • 💬 16 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -258,7 +256,7 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 71K • 👍 4K • 💬 194 • ⏱️ 17:58 • 1d ago
+👁️ 74K • 👍 4K • 💬 194 • ⏱️ 17:58 • 1d ago
 
 ---
 
@@ -272,13 +270,23 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 ---
 
+**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
+
+DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
+
+📺 The Rollup
+
+👁️ 4K • 👍 86 • ⏱️ 8:46 • 1d ago
+
+---
+
 **[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
 
 You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 590 • 💬 295 • ⏱️ 30:25 • 1d ago
+👁️ 5K • 👍 591 • 💬 288 • ⏱️ 30:25 • 2d ago
 
 ---
 
@@ -288,7 +296,7 @@ BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 4K • 👍 244 • 💬 126 • ⏱️ 21:43 • 9h ago
+👁️ 5K • 👍 270 • 💬 173 • ⏱️ 21:43 • 12h ago
 
 ---
 
@@ -298,27 +306,17 @@ Why Ethereum's Next Move Could Be Massive - Robinhood Chain just changed everyth
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 101 • 💬 9 • ⏱️ 26:52 • 19h ago
+👁️ 2K • 👍 104 • 💬 10 • ⏱️ 26:52 • 22h ago
 
 ---
 
-**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
+**[THIS IS MASSIVELY BULLISH !!!](https://www.youtube.com/watch?v=aSlymErGonE)**
 
-DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
 
-📺 The Rollup
+📺 The Moon Show
 
-👁️ 4K • 👍 85 • ⏱️ 8:46 • 1d ago
-
----
-
-**[Ethereum Isn’t Competing With Solana… It’s Coming for Wall Street](https://www.youtube.com/watch?v=lTCDuqe_VbY)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 188 • 💬 153 • ⏱️ 13:08 • 2d ago
+👁️ 5K • 👍 437 • 💬 25 • ⏱️ 4:04 • 15h ago
 
 ---
 
@@ -328,7 +326,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 331 • 💬 116 • ⏱️ 14:04 • 2h ago
+👁️ 2K • 👍 424 • 💬 163 • ⏱️ 14:04 • 5h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-21T07:07:44.531712+00:00'
+updated: '2026-07-21T10:01:57.439031+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 21, 2026 at 07:07 UTC  
+**Last Updated:** July 21, 2026 at 10:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I’m building Haga, an independent physics-consistency checker for generated vi
 
 Hey everyone! I’m a high school student helping run a student-led program that teaches Autodesk Fusion and CAD to students for free. We recently secured an international partnership and are getting ready to work with a lot more students, so we’re looking for a few more people to join the team. We’re especially hoping to find people who already have experience with CAD, whether that’s Autodesk Fusion, Onshape, SolidWorks, Inventor, or another program. Fusion experience would be ideal, but familiarity with other CAD software is still very useful since many of the main concepts carry over. The main roles we need are: Co-President and Vice Presidents: Help lead the team, communicate with partners, organize meetings, and help decide where the program goes next. This role will collapse onto the other two roles below. Mentors: Join weekly Zoom classes, demonstrate Fusion tools, answer questions, and help students when they get stuck. Curriculum Developers: Help improve our current lessons and create new activities, projects, and assignments. CAD experience is especially important for mentors and curriculum developers, but we’re also looking for people who are reliable, communicate well, and genuinely want to help students learn engineering. Apply here: https://docs.google.com/forms/d/e/1FAIpQLSckr1UBILkgySbmjvRhKD0qca_-Omxy_aLmG5aN6JIEhE9tJg/viewform?usp=dialog
 
-1d ago
+2d ago
 
 ---
 
@@ -112,11 +112,11 @@ Researchers at the University of Toronto's Continuum Robotics Laboratory introdu
 
 ## Google News: "robotics"
 
-**[Agility Robotics plants its flag in Tesla’s backyard](https://finance.yahoo.com/technology/ai/articles/agility-robotics-plants-flag-tesla-201949661.html)**
+**[Samsung, Hyundai bolster robotics alliance; Robot dogs to be deployed to S.Korean Army by year-end](https://www.kedglobal.com/robotics/newsView/ked202607210014)**
 
-Agility is opening a new training center for its Digit robots in Fremont, California.
+South Korea’s two largest conglomerates, Samsung Group and Hyundai Motor Group, are expanding their collaboration into physical artificial intelligence b
 
-Yahoo Finance • 3d ago
+KED Global • 37m ago
 
 ---
 
@@ -124,31 +124,7 @@ Yahoo Finance • 3d ago
 
 Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
 
-CNBC • 37m ago
-
----
-
-**[Elite Robots Collaborates with Generalist AI on Next-Gen Embodied AI](https://sg.finance.yahoo.com/news/elite-robots-collaborates-generalist-ai-061800067.html)**
-
-US-based AI startup Generalist AI—founded by ex-Google DeepMind scientists and backed by NVIDIA NVentures—recently unveiled GEN-1, its latest embodied foundation model achieving a 99% task success rate and a 3x speed increase. As part of this breakthrough project, Elite Robots collaborated with Generalist AI to support real-world data collection and algorithm validation on its cobot platform.
-
-Yahoo Finance Singapore • 49m ago
-
----
-
-**[Could humanoid robots be used to fire mortars? | Defense Dollars](https://www.defensenews.com/video/2026/07/20/could-humanoid-robots-be-used-to-fire-mortars-defense-dollars/)**
-
-An emerging robotics company talks about how humanoid-style androids could one day do dangerous, simple tasks like breaching doors and firing certain weapons.
-
-Defense News • 16h ago
-
----
-
-**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
-
-The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
-
-The Washington Post • 15h ago
+CNBC • 3h ago
 
 ---
 
@@ -156,19 +132,43 @@ The Washington Post • 15h ago
 
 We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
 
-Forbes • 12h ago
+Forbes • 15h ago
+
+---
+
+**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
+
+The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
+
+The Washington Post • 18h ago
+
+---
+
+**[Could humanoid robots be used to fire mortars? | Defense Dollars](https://www.defensenews.com/video/2026/07/20/could-humanoid-robots-be-used-to-fire-mortars-defense-dollars/)**
+
+An emerging robotics company talks about how humanoid-style androids could one day do dangerous, simple tasks like breaching doors and firing certain weapons.
+
+Defense News • 19h ago
 
 ---
 
 **[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
 
-Reuters • 6h ago
+Reuters • 8h ago
 
 ---
 
 **[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
 
-OregonLive.com • 10h ago
+OregonLive.com • 13h ago
+
+---
+
+**[Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent](https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7)**
+
+Agility Robotics has expanded with a new Silicon Valley hub. The startup is avoiding AI talent wars and focusing on culture over high salaries.
+
+Business Insider • 12h ago
 
 ---
 
@@ -178,11 +178,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Summer robotics program continues growth spurt: Camps offer more opportunities for youngest learners](https://chinookobserver.com/2026/07/19/summer-robotics-program-continues-growth-spurt-camps-offer-more-opportunities-for-youngest-learners/)**
+**[Building robots for unpredictable, infrastructure-free environments](https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/)**
 
-OCEAN PARK — It’s a well-worn cliche, but this month’s slate of summer robotics camps is truly the best and biggest yet. Put on by the Pacific STEM Robotics Club […]
+Real-world robotics success requires building infrastructure-free systems that thrive in unpredictable, harsh outdoor environments.
 
-Chinook Observer • 1d ago
+The Robot Report • 15h ago
 
 ---
 
@@ -196,7 +196,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 21K • 👍 641 • 💬 97 • ⏱️ 13:15 • 2d ago
+👁️ 21K • 👍 643 • 💬 97 • ⏱️ 13:15 • 2d ago
 
 ---
 
@@ -210,16 +210,6 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 ---
 
-**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
-
-The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
-
-📺 1M65
-
-👁️ 19K • 👍 326 • 💬 79 • ⏱️ 13:38 • 1d ago
-
----
-
 **[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
 
 Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
@@ -230,13 +220,33 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 ---
 
+**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
+
+The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
+
+📺 Job Othoniel
+
+👁️ 19K • 👍 139 • 💬 43 • ⏱️ 0:27 • 4d ago
+
+---
+
+**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
+
+The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
+
+📺 1M65
+
+👁️ 19K • 👍 330 • 💬 79 • ⏱️ 13:38 • 1d ago
+
+---
+
 **[Unitree&#39;s New Robot Can Clean Homes and Assist Patients by Itself](https://www.youtube.com/watch?v=k1JIyXM5qGw)**
 
 Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another major step toward fully autonomous home care ...
 
 📺 DPCcars
 
-👁️ 5K • 👍 45 • 💬 9 • ⏱️ 2:55 • 16h ago
+👁️ 6K • 👍 48 • 💬 9 • ⏱️ 2:55 • 19h ago
 
 ---
 
@@ -246,17 +256,7 @@ The future of combat sports has arrived! Witness the high-stakes action as the R
 
 📺 Chris Wabs
 
-👁️ 190K • 👍 5K • 💬 2K • ⏱️ 11:15 • 4d ago
-
----
-
-**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
-
-The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
-
-📺 Job Othoniel
-
-👁️ 19K • 👍 139 • 💬 45 • ⏱️ 0:27 • 3d ago
+👁️ 197K • 👍 5K • 💬 2K • ⏱️ 11:15 • 4d ago
 
 ---
 
@@ -266,17 +266,7 @@ Researchers at South Korea's KAIST and Stanford University have unveiled clothin
 
 📺 Reuters
 
-👁️ 48K • 👍 482 • 💬 63 • ⏱️ 2:07 • 3d ago
-
----
-
-**[BEST TITAN for 20 Bucks? Unusually THICK War Robots Deal](https://www.youtube.com/watch?v=zxWC8mtmkf4)**
-
-War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' #warrobots #warrobotsgameplay ...
-
-📺 Manni-Gaming
-
-👁️ 9K • 👍 441 • 💬 112 • ⏱️ 14:20 • 1d ago
+👁️ 48K • 👍 491 • 💬 65 • ⏱️ 2:07 • 3d ago
 
 ---
 
@@ -286,7 +276,17 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Air Photography
 
-👁️ 74K • 👍 2K • 💬 207 • ⏱️ 7:15 • 4d ago
+👁️ 75K • 👍 2K • 💬 209 • ⏱️ 7:15 • 4d ago
+
+---
+
+**[BEST TITAN for 20 Bucks? Unusually THICK War Robots Deal](https://www.youtube.com/watch?v=zxWC8mtmkf4)**
+
+War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' #warrobots #warrobotsgameplay ...
+
+📺 Manni-Gaming
+
+👁️ 10K • 👍 448 • 💬 112 • ⏱️ 14:20 • 1d ago
 
 ---
 
