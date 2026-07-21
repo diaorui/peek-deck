@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T10:01:57.435735+00:00'
+updated: '2026-07-21T12:08:03.709023+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 10:01 UTC  
+**Last Updated:** July 21, 2026 at 12:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +1.2%  
-**30d:** +12.4%  
-**90d:** -16.7%  
-**1y:** -48.2%  
+**24h:** +4.0%  
+**7d:** +0.7%  
+**30d:** +11.8%  
+**90d:** -17.1%  
+**1y:** -48.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $234.19B
+**Market Cap:** $233.16B
 Rank #2
 
 **Circulating Supply:** 120,682,803 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.8%
+-60.9%
 
 **All-Time Low:** $0.43
-+448203.5%
++446178.0%
 
 ---
 
@@ -94,7 +94,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
-22h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
 
-18h ago
+20h ago
 
 ---
 
@@ -126,7 +126,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Two months ago I posted here after analyzing 78,723 Ethereum token contracts and finding 46% scored as scams. I re-ran the same query today. The table now holds 112,114 contracts, and the all-time rate rose to 59.8%. But the average buries the story. Of the 31,172 tokens deployed since that post, 76.4% are scams, and the monthly rate just hit 82.8% in July. Honesty check, because I got asked this directly: how much of the 46 -> 60 jump is a scammier chain vs a sharper detector? Both, and I can't cleanly separate them: - More scams: every real-time month lands between 70% and 83% at a fixed 70+ threshold. - Sharper detector: a scam now carries 11.06 flags on average vs 8.27 in May (+34%), new detectors landed (serial-scammer bytecode, drainer kits, hidden kill-switches). Our score floors on flag COUNT, so more flags push more contracts over the line. - Late rugs: ~30% of the table gets re-scored a day+ later. A token clean at launch that pulls liquidity a week later flips clean -> scam with zero new scams deployed. TL;DR - 78,723 -> 112,114 contracts in 2 months. - All-time scam rate 46.1% -> 59.8% (three overlapping causes, not one). - New launches since May: 76.4% scams. July: 82.8%. - 441,762 distinct victim wallets traced across 5.26M scam-token transactions. Full breakdown with the monthly chart and the limits-of-our-data section: https://rektradar.io/blog/posts/new-ethereum-tokens-76-percent-scams EDIT: a few of you asked the right question, so i went and pulled it. how much of this 76% is detectable AT LAUNCH vs only later? tracking the same 24,150 launches from deploy to day 30: 48% score as scams at launch, 91% by day 30. 43% are late rugs (clean at launch, scam within a month). and 76% of the flagged ones actually got traded vs 67% of legit deploys that never trade. full writeup + chart: https://rektradar.io/blog/posts/how-many-ethereum-scams-detectable-at-launch
 
-2d ago
+3d ago
 
 ---
 
@@ -156,11 +156,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum holds above $1,825 with strong ETF inf...](https://pluang.com/en/news-feed/harga-ethereum-eth-melonjak-didorong-inflow-etf-lebih-dari-100juta)**
+**[Ethereum price rises nearly 2% to $1,942 amid t...](https://pluang.com/en/news-feed/harga-ethereum-mendekati-2000-dolar-didorong-beli-besarnya)**
 
-Ethereum remains supported above $1,825 after breaking resistance, with bullish targets near $2,500. U.S. spot Ethereum ETFs saw $105.44 million net inflows last week, pushing total assets close to $10 billion. Analysts highlight $1,850 as a key support level for a potential rally to $2,300 and beyond. The ETH/BTC pair is also testing a key resistance, signaling possible broader momentum for Ethereum and related tokens.
+Ethereum's price climbed nearly 2% to $1,942 following a rebound in semiconductor stocks and improved risk sentiment driven by hopes of renewed US-Iran talks. Large investors, or whales, increased their holdings by withdrawing and staking about $38 million in ETH, while Ethereum ETFs saw strong inflows, boosting demand. Technical indicators suggest a potential breakout above $1,952 could lead to a move toward the $2,000 level, although geopolitical risks around the Strait of Hormuz and resistance levels could cause volatility. Overall, Ethereum's recovery is supported by positive market momentum but remains vulnerable to external shocks.
 
-Pluang • 2h ago
+Pluang • 12m ago
 
 ---
 
@@ -168,7 +168,7 @@ Pluang • 2h ago
 
 Bitcoin (BTC-USD) opened at $64,680.23 on Monday, July 20, 2026, 0.2% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,871.21 on Monday, July 20, 2026, up 0.5% from Sunday's opening price.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -176,7 +176,15 @@ Yahoo Finance • 18h ago
 
 Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
 
-The Block • 20h ago
+The Block • 22h ago
+
+---
+
+**[Current price of Ethereum for July 21, 2026](https://fortune.com/article/price-of-ethereum-07-21-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -184,7 +192,7 @@ The Block • 20h ago
 
 If Tom Lee is right, Ethereum could be headed to $250,000 and Bitcoin could be headed to $2 million.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -192,7 +200,7 @@ The Motley Fool • 23h ago
 
 The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -208,21 +216,13 @@ TradingView • 1d ago
 
 Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
 
-Benzinga • 8h ago
+Benzinga • 10h ago
 
 ---
 
 **[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
 
-CCN.com • 19h ago
-
----
-
-**[Ethereum staking ratio hits record 34%, signaling market confidence](https://cryptobriefing.com/ethereum-staking-ratio-hits-record-34-signaling-market-confidence/)**
-
-Ethereum's staking ratio hits a record 34%, indicating market confidence. Ethereum reaching $10,000 by December 31, 2026 at 1.9% YES.
-
-Crypto Briefing • 13h ago
+CCN.com • 21h ago
 
 ---
 
@@ -236,17 +236,17 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 10K • 👍 557 • 💬 51 • ⏱️ 11:56 • 22h ago
+👁️ 10K • 👍 566 • 💬 52 • ⏱️ 11:56 • 1d ago
 
 ---
 
-**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
+**[Are You Paying Attention To ETH Yet?](https://www.youtube.com/watch?v=SY6CA9VfWAU)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Aaron Dishner walks through Ethereum's recent price action, noting last week's roughly 6% pullback from 1921 to 1800 and the ...
 
-📺 Savvy Finance
+📺 Coin Bureau Trading
 
-👁️ 4K • 👍 147 • 💬 16 • ⏱️ 16:17 • 1d ago
+👁️ 2K • 👍 196 • 💬 17 • ⏱️ 16:28 • 5h ago
 
 ---
 
@@ -256,7 +256,17 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 4K • 💬 194 • ⏱️ 17:58 • 1d ago
+👁️ 75K • 👍 4K • 💬 200 • ⏱️ 17:58 • 1d ago
+
+---
+
+**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 148 • 💬 16 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -266,17 +276,7 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 188 • 💬 24 • ⏱️ 11:23 • 1d ago
-
----
-
-**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
-
-DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
-
-📺 The Rollup
-
-👁️ 4K • 👍 86 • ⏱️ 8:46 • 1d ago
+👁️ 3K • 👍 188 • 💬 25 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -286,7 +286,17 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 591 • 💬 288 • ⏱️ 30:25 • 2d ago
+👁️ 5K • 👍 592 • 💬 280 • ⏱️ 30:25 • 2d ago
+
+---
+
+**[Why ETH Can Pump Higher Now! (Ethereum Update)](https://www.youtube.com/watch?v=r9ZsfpP7-tg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 76 • 👍 6 • 💬 4 • ⏱️ 4:37 • 1h ago
 
 ---
 
@@ -296,7 +306,17 @@ BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 5K • 👍 270 • 💬 173 • ⏱️ 21:43 • 12h ago
+👁️ 5K • 👍 282 • 💬 178 • ⏱️ 21:43 • 14h ago
+
+---
+
+**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
+
+DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
+
+📺 The Rollup
+
+👁️ 4K • 👍 87 • ⏱️ 8:46 • 1d ago
 
 ---
 
@@ -306,27 +326,7 @@ Why Ethereum's Next Move Could Be Massive - Robinhood Chain just changed everyth
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 104 • 💬 10 • ⏱️ 26:52 • 22h ago
-
----
-
-**[THIS IS MASSIVELY BULLISH !!!](https://www.youtube.com/watch?v=aSlymErGonE)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 5K • 👍 437 • 💬 25 • ⏱️ 4:04 • 15h ago
-
----
-
-**[Ethereum &amp; Bitcoin, kleiner Rücksetzer und dann weiter hoch? Eth sieht nicht so gut aus!](https://www.youtube.com/watch?v=JqGn7swz590)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 424 • 💬 163 • ⏱️ 14:04 • 5h ago
+👁️ 2K • 👍 104 • 💬 25 • ⏱️ 26:52 • 1d ago
 
 ---
 

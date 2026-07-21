@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-21T10:01:57.429417+00:00'
+updated: '2026-07-21T12:08:03.702600+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 10:01 UTC  
+**Last Updated:** July 21, 2026 at 12:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** +2.4%  
-**30d:** +3.6%  
-**90d:** -15.3%  
-**1y:** -44.8%  
+**24h:** +3.3%  
+**7d:** +2.5%  
+**30d:** +3.7%  
+**90d:** -15.2%  
+**1y:** -44.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1328.72B
+**Market Cap:** $1328.43B
 Rank #1
 
-**Circulating Supply:** 20,059,296 BTC
+**Circulating Supply:** 20,059,346 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -47.5%
 
 **All-Time Low:** $67.81
-+97586.2%
++97562.6%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 As you know guys, most discussions focus on price, but one of Bitcoin's most important on-chain metrics is moving in the opposite direction. A record share of the total BTC supply is now held by long-term holders, participants who continue accumulating and holding their coins instead of selling them back into the market. Historically, this has been one of the most interesting phases of a market cycle. As more Bitcoin moves into long-term storage, the amount of liquid BTC available on exchanges and in active circulation gradually declines. That changes the network's supply dynamics in a meaningful way. Less liquid supply means a larger portion of Bitcoin is effectively removed from day-to-day market activity. What's particularly notable is that this milestone comes during a relatively quiet period for the market. Long-term conviction continues to grow, supply becomes increasingly scarce, and the structure of the Bitcoin network keeps improving regardless of short-term market sentiment.
 
-19h ago
+21h ago
 
 ---
 
@@ -171,35 +171,49 @@ CoinDesk • 3h ago
 
 Two consecutive weeks of inflows ended the worst sustained outflow streak in Bitcoin ETF history. Here's why patience may be required from investors.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Bitcoin ETFs Log Second Week of Inflows, Breaking Two-Month Rout](https://www.bloomberg.com/news/articles/2026-07-20/bitcoin-etfs-log-second-week-of-inflows-breaking-two-month-rout)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 23h ago
 
 ---
 
-**[Bitcoin Is Suddenly Braced For ‘Price Explosions’ As $27.9 Trillion Gold Prediction Fuels ‘Spectacular’ Bets](https://www.forbes.com/sites/billybambrough/2026/07/19/bitcoin-suddenly-braced-for-price-explosions-as-279-trillion-gold-prediction-fuels-spectacular-bets/)**
+**[Why bitcoin is the better form of hard money than gold](https://finance.yahoo.com/video/why-bitcoin-better-form-hard-180000609.html)**
 
-Bitcoin could be headed for a $27.9 trillion game-changer...
+Scott Melker discusses where the currency prospects of bitcoin (BTC-USD) historically stand when compared to the likes of gold (GC=F), which once backed the US dollar.
 
-Forbes • 1d ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-**[BTC/USD: Bitcoin Tops $66,000 as Upside Move Gains Steam, Cracks Resistance](https://www.tradingview.com/news/tradingview:ea9205aea094b:0-btc-usd-bitcoin-tops-66-000-as-upside-move-gains-steam-cracks-resistance/)**
-
-Bitcoin was looking for fresh gains early Tuesday with prices topping $66,000 a pop. What happens next?🚀 Resistance? Bitcoin Didn't Get the Memo💰 ETF Money Is So Back⛽ Liquidation Fuel Ahead
-
-TradingView • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Analysis: Bitcoin's MVRV percentile has dropped to 5%, which historically typically corresponds to a long-term bottoming range.](https://news.futunn.com/en/post/76342604/analysis-bitcoin-s-mvrv-percentile-has-dropped-to-5-which)**
+**[Bitcoin Suddenly Soars On Surprise Congress Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/07/21/bitcoin-suddenly-soars-on-surprise-congress-price-game-changer/)**
 
-富途牛牛 • 1h ago
+The bitcoin price has struggled through 2026 as traders await bitcoin’s “ultimate catalyst”...
+
+Forbes • 22m ago
+
+---
+
+**[Bitcoin’s Hot Capital Raises Risk of Volatility, Glassnode Warns](https://bitcoinfoundation.org/news/bitcoin/bitcoins-hot-capital-raises-risk-of-volatility-glassnode-warns/)**
+
+Bitcoin is consolidating after rebounding from below $58,000, but its changing investor mix may make the next selloff more volatile.
+
+Bitcoin Foundation • 2h ago
+
+---
+
+**[Hyperscale Data Bitcoin Treasury Reaches 1,087 Bitcoin Worth Approximately $70.3 Million](https://www.prnewswire.com/news-releases/hyperscale-data-bitcoin-treasury-reaches-1-087-bitcoin-worth-approximately-70-3-million-302830244.html)**
+
+/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
+
+PR Newswire • 2h ago
 
 ---
 
@@ -209,31 +223,19 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[MicroStrategy holds 843K bitcoin as cash reserves reach $3.2B](https://finance.yahoo.com/video/microstrategy-holds-843k-bitcoin-as-cash-reserves-reach-32b-155722352.html)**
-
-Scott Melker discusses the latest crypto-related headlines.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 18h ago
-
----
-
-**[Current price of Bitcoin for July 20, 2026](https://fortune.com/article/price-of-bitcoin-07-20-2026/)**
+**[Current price of Bitcoin for July 21, 2026](https://fortune.com/article/price-of-bitcoin-07-21-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1d ago
+Fortune • 1h ago
 
 ---
 
-**[New Onramp Report Makes the Case for Spot Bitcoin Over Paper Claims as Price Sits at Half Its Peak](https://bitcoinmagazine.com/news/onramp-report-makes-case-spot-bitcoin)**
+**[Bitcoin whale dumps $122 million 40x long right before liquidation can strike](https://cryptoslate.com/bitcoin-whale-dumps-122-million-40x-long-before-liquidation-can-strike/)**
 
-Onramp argues that spot bitcoin offers stronger long-term value than paper bitcoin exposure, highlighting bitcoin's fixed supply as its price trades roughly 50% below its all-time high.
+Bitcoin derivatives trader exits $122M Hyperliquid BTC long before the $61,605 liquidation level is reached.
 
-Bitcoin Magazine • 17h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -267,7 +269,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 554 • 💬 249 • ⏱️ 11:10 • 19h ago
+👁️ 10K • 👍 555 • 💬 269 • ⏱️ 11:10 • 21h ago
 
 ---
 
@@ -277,17 +279,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 887 • 💬 77 • ⏱️ 11:59 • 9h ago
-
----
-
-**[The $700 Billion Reason Bitcoin Is Going to a New ATH](https://www.youtube.com/watch?v=NUBh0YeUFao)**
-
-The biggest advantage Bitcoin has isn't price, it's verification. As governments, central banks and legacy financial systems ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 189 • ⏱️ 15:42 • 1d ago
+👁️ 16K • 👍 973 • 💬 62 • ⏱️ 11:59 • 11h ago
 
 ---
 
@@ -297,7 +289,7 @@ Bitcoin has traded sideways for nearly 60 days, but improving Bitcoin ETF inflow
 
 📺 DataDash
 
-👁️ 3K • 👍 138 • 💬 68 • ⏱️ 16:33 • 18h ago
+👁️ 3K • 👍 141 • 💬 68 • ⏱️ 16:33 • 20h ago
 
 ---
 
@@ -307,17 +299,7 @@ Bitcoin sentiment remains bearish, but the herd might be wrong! This could be on
 
 📺 Crypto Zombie
 
-👁️ 12K • 👍 1K • 💬 199 • ⏱️ 25:20 • 16h ago
-
----
-
-**[$10M Bitcoin Warning - BlackRock Just Confirmed It](https://www.youtube.com/watch?v=pJpLDgghivI)**
-
-Subscribe before the available Bitcoin disappears. For years, a $10 million Bitcoin was dismissed as nothing more than a fantasy.
-
-📺 Bitcoin News Alerts
-
-👁️ 4K • 👍 218 • 💬 93 • ⏱️ 17:05 • 11h ago
+👁️ 12K • 👍 1K • 💬 204 • ⏱️ 25:20 • 18h ago
 
 ---
 
@@ -327,7 +309,7 @@ Bitcoin has traded inside the same range for 47 straight days as volatility fall
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 83 • ⏱️ 15:56 • 12h ago
+👁️ 17K • 👍 1K • 💬 59 • ⏱️ 15:56 • 14h ago
 
 ---
 
@@ -337,7 +319,17 @@ No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and 
 
 📺 Gareth Soloway
 
-👁️ 49K • 👍 3K • 💬 133 • ⏱️ 13:27 • 18h ago
+👁️ 51K • 👍 3K • 💬 130 • ⏱️ 13:27 • 20h ago
+
+---
+
+**[$10M Bitcoin Warning - BlackRock Just Confirmed It](https://www.youtube.com/watch?v=pJpLDgghivI)**
+
+Subscribe before the available Bitcoin disappears. For years, a $10 million Bitcoin was dismissed as nothing more than a fantasy.
+
+📺 Bitcoin News Alerts
+
+👁️ 4K • 👍 229 • 💬 112 • ⏱️ 17:05 • 13h ago
 
 ---
 
@@ -347,17 +339,27 @@ Crypto News: Bitcoin crosses $65000 and altcoins are following with the charts l
 
 📺 Thinking Crypto
 
-👁️ 11K • 👍 882 • 💬 80 • ⏱️ 16:12 • 7h ago
+👁️ 13K • 👍 991 • 💬 75 • ⏱️ 16:12 • 9h ago
 
 ---
 
-**[Bitcoin Live Trading: The Move Is Coming But Who Will Be Ready? EP2067](https://www.youtube.com/watch?v=5Cr_OTjPwok)**
+**[The White House Has Agreed&quot; | HUGE Crypto CLARITY Act News - Senate Vote Is Coming](https://www.youtube.com/watch?v=nkNgQghhj0k)**
 
-WEEX EVENT: https://www.weex.com/events/trade-to-win/samprice-vip?vipCode=8six?click_tag=campaign WEEX: ...
+The Crypto Clarity Act is moving forward as the White House agrees to a new ethics package. Get the details on what this means ...
 
-📺 Crypto Lifer
+📺 Crypto Capital Venture
 
-👁️ 5K • 👍 429 • 💬 3 • ⏱️ 2:04:28 • 17h ago
+👁️ 23K • 👍 1K • 💬 261 • ⏱️ 7:37 • 11h ago
+
+---
+
+**[He Bought Bitcoin the Moment It Dropped](https://www.youtube.com/watch?v=_QjFrMtF0kY)**
+
+Brian Preston (CFP®, CPA) and Bo Hanson (CFA®, CFP®) share professional insights to help you own your financial future.
+
+📺 The Money Guy Show
+
+👁️ 10K • 👍 108 • 💬 21 • ⏱️ 0:38 • 19h ago
 
 ---
 

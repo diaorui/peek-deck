@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-21T10:01:57.439031+00:00'
+updated: '2026-07-21T12:08:03.712372+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 21, 2026 at 10:01 UTC  
+**Last Updated:** July 21, 2026 at 12:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,35 +112,31 @@ Researchers at the University of Toronto's Continuum Robotics Laboratory introdu
 
 ## Google News: "robotics"
 
-**[Samsung, Hyundai bolster robotics alliance; Robot dogs to be deployed to S.Korean Army by year-end](https://www.kedglobal.com/robotics/newsView/ked202607210014)**
-
-South Korea’s two largest conglomerates, Samsung Group and Hyundai Motor Group, are expanding their collaboration into physical artificial intelligence b
-
-KED Global • 37m ago
-
----
-
 **[Samsung Electronics shares rise as robotics move highlights push into physical AI](https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html)**
 
 Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
 
-CNBC • 3h ago
+CNBC • 5h ago
 
 ---
 
-**[Humanoid Robots Are Coming To Factories. But Not The Way You Think](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/)**
+**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
 
-We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
-
-Forbes • 15h ago
+Reuters • 11h ago
 
 ---
 
-**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
+**[Samsung creates Robotics eXperience (RX) division - GSMArena.com news](https://www.gsmarena.com/samsung_announces_robotics_experience_rx_division-news-73807.php)**
 
-The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
+The division consolidates all of Samsung's robotics R&D efforts and will report directly to CEO TM Roh. Samsung Electronics has established a Robotics...
 
-The Washington Post • 18h ago
+GSMArena.com • 1h ago
+
+---
+
+**[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
+
+OregonLive.com • 15h ago
 
 ---
 
@@ -148,41 +144,45 @@ The Washington Post • 18h ago
 
 An emerging robotics company talks about how humanoid-style androids could one day do dangerous, simple tasks like breaching doors and firing certain weapons.
 
-Defense News • 19h ago
+Defense News • 21h ago
 
 ---
 
-**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
+**[Humanoid Robots Are Coming To Factories. But Not The Way You Think](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/)**
 
-Reuters • 8h ago
+We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
 
----
-
-**[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
-
-OregonLive.com • 13h ago
+Forbes • 17h ago
 
 ---
 
-**[Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent](https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7)**
+**[Elon Musk Says AI and Robots Will Do ‘So Much Stuff’ We Run Out of Things for Humans to Do — But ‘We’ll Basically Just Issue Money to People’](https://finance.yahoo.com/economy/articles/elon-musk-says-ai-robots-223015126.html)**
 
-Agility Robotics has expanded with a new Silicon Valley hub. The startup is avoiding AI talent wars and focusing on culture over high salaries.
+The biggest workplace debate of the next decade might not be about asking for a raise. It could be figuring out what to do when the robots have already finished the job. That’s the future Tesla and SpaceX CEO Elon...
 
-Business Insider • 12h ago
-
----
-
-**[Watch ABB Robotics on Business Strategy in China](https://www.bloomberg.com/news/videos/2026-07-20/abb-robotics-on-business-strategy-in-china-video)**
-
-Bloomberg.com • 1d ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Building robots for unpredictable, infrastructure-free environments](https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/)**
+**[China’s robot firms’ lament: if we only had a ‘brain’, and more data](https://www.scmp.com/tech/article/3361243/chinese-robot-makers-lament-if-we-only-had-better-brain-and-more-data)**
 
-Real-world robotics success requires building infrastructure-free systems that thrive in unpredictable, harsh outdoor environments.
+South China Morning Post • 13h ago
 
-The Robot Report • 15h ago
+---
+
+**[Robotic elephant-trunk gripper uses internal camera for a sense of touch](https://newatlas.com/robotics/eletac-robotic-elephant-trunk-gripper-touch/)**
+
+Evolution has already found solutions to lots of problems, so engineers more often borrow ideas from nature instead of reinventing the wheel. We’ve previously seen robots that can curl up like armadillos to protect themselves, and now researchers have developed yet another soft robotic gripper that…
+
+New Atlas • 14h ago
+
+---
+
+**[New robotic hand combines human-like precision with powerful grip](https://interestingengineering.com/ai-robotics/startup-unveils-mimic-hand-m1)**
+
+Swiss startup Mimic Robotics unveils the Mimic Hand M1, bringing human-like precision, strength and touch to factory automation.
+
+Interesting Engineering • 22h ago
 
 ---
 
@@ -196,17 +196,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 21K • 👍 643 • 💬 97 • ⏱️ 13:15 • 2d ago
-
----
-
-**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
-
-America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
-
-📺 S3 | Science, Startups, & Stories
-
-👁️ 30K • 👍 1K • 💬 83 • ⏱️ 14:37 • 2d ago
+👁️ 21K • 👍 651 • 💬 97 • ⏱️ 13:15 • 2d ago
 
 ---
 
@@ -216,7 +206,27 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 📺 Joanna Stern
 
-👁️ 80K • 👍 3K • 💬 264 • ⏱️ 12:02 • 4d ago
+👁️ 81K • 👍 3K • 💬 264 • ⏱️ 12:02 • 4d ago
+
+---
+
+**[Unitree&#39;s New Robot Can Clean Homes and Assist Patients by Itself](https://www.youtube.com/watch?v=k1JIyXM5qGw)**
+
+Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another major step toward fully autonomous home care ...
+
+📺 DPCcars
+
+👁️ 6K • 👍 50 • 💬 9 • ⏱️ 2:55 • 21h ago
+
+---
+
+**[From laundry to retail: Humanoid robots shine at China&#39;s World AI Conference](https://www.youtube.com/watch?v=Gv9G3wOlYPQ)**
+
+Robodogs and dancing robots are headlining tech shows everywhere. But at the World AI Conference in Shanghai, it's the robots ...
+
+📺 CNA
+
+👁️ 2K • 👍 32 • 💬 13 • ⏱️ 3:18 • 19h ago
 
 ---
 
@@ -236,17 +246,7 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 19K • 👍 330 • 💬 79 • ⏱️ 13:38 • 1d ago
-
----
-
-**[Unitree&#39;s New Robot Can Clean Homes and Assist Patients by Itself](https://www.youtube.com/watch?v=k1JIyXM5qGw)**
-
-Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another major step toward fully autonomous home care ...
-
-📺 DPCcars
-
-👁️ 6K • 👍 48 • 💬 9 • ⏱️ 2:55 • 19h ago
+👁️ 19K • 👍 333 • 💬 79 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -256,7 +256,17 @@ The future of combat sports has arrived! Witness the high-stakes action as the R
 
 📺 Chris Wabs
 
-👁️ 197K • 👍 5K • 💬 2K • ⏱️ 11:15 • 4d ago
+👁️ 200K • 👍 5K • 💬 2K • ⏱️ 11:15 • 4d ago
+
+---
+
+**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
+
+America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
+
+📺 S3 | Science, Startups, & Stories
+
+👁️ 30K • 👍 1K • 💬 84 • ⏱️ 14:37 • 2d ago
 
 ---
 
@@ -266,17 +276,7 @@ Researchers at South Korea's KAIST and Stanford University have unveiled clothin
 
 📺 Reuters
 
-👁️ 48K • 👍 491 • 💬 65 • ⏱️ 2:07 • 3d ago
-
----
-
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
-
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
-
-📺 Air Photography
-
-👁️ 75K • 👍 2K • 💬 209 • ⏱️ 7:15 • 4d ago
+👁️ 49K • 👍 499 • 💬 67 • ⏱️ 2:07 • 4d ago
 
 ---
 
@@ -286,7 +286,7 @@ War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Cod
 
 📺 Manni-Gaming
 
-👁️ 10K • 👍 448 • 💬 112 • ⏱️ 14:20 • 1d ago
+👁️ 10K • 👍 451 • 💬 112 • ⏱️ 14:20 • 2d ago
 
 ---
 
