@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-20T23:00:57.293225+00:00'
+updated: '2026-07-21T00:57:56.609171+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 20, 2026 at 23:00 UTC  
+**Last Updated:** July 21, 2026 at 00:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,11 +120,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Robotic elephant-trunk gripper uses internal camera for a sense of touch](https://newatlas.com/robotics/eletac-robotic-elephant-trunk-gripper-touch/)**
+**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
 
-Evolution has already found solutions to lots of problems, so engineers more often borrow ideas from nature instead of reinventing the wheel. We’ve previously seen robots that can curl up like armadillos to protect themselves, and now researchers have developed yet another soft robotic gripper that…
+The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
 
-New Atlas • 1h ago
+The Washington Post • 8h ago
 
 ---
 
@@ -132,41 +132,31 @@ New Atlas • 1h ago
 
 Swiss startup Mimic Robotics unveils the Mimic Hand M1, bringing human-like precision, strength and touch to factory automation.
 
-Interesting Engineering • 9h ago
+Interesting Engineering • 11h ago
 
 ---
 
-**[Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent](https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7)**
+**[China’s robot firms’ lament: if we only had a ‘brain’, and more data](https://www.scmp.com/tech/article/3361243/chinese-robot-makers-lament-if-we-only-had-better-brain-and-more-data)**
 
-Agility Robotics has expanded with a new Silicon Valley hub. The startup is avoiding AI talent wars and focusing on culture over high salaries.
-
-Business Insider • 1h ago
-
----
-
-**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
-
-The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
-
-The Washington Post • 7h ago
+South China Morning Post • 1h ago
 
 ---
 
 **[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
 
-OregonLive.com • 2h ago
+OregonLive.com • 4h ago
 
 ---
 
 **[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
 
-Reuters • 16h ago
+Reuters • 18h ago
 
 ---
 
 **[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
 
-Tech Xplore • 4h ago
+Tech Xplore • 6h ago
 
 ---
 
@@ -182,7 +172,13 @@ Common Dreams • 3d ago
 
 An indication of interest for a pilot order came from a top-20 data company; in Q3, FF plans software for one operator to control multiple robot models.
 
-Stock Titan • 21h ago
+Stock Titan • 23h ago
+
+---
+
+**[Watch ABB Robotics on Business Strategy in China](https://www.bloomberg.com/news/videos/2026-07-20/abb-robotics-on-business-strategy-in-china-video)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -190,13 +186,23 @@ Stock Titan • 21h ago
 
 ## YouTube Videos: "robotics"
 
+**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
+
+America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
+
+📺 S3 | Science, Startups, & Stories
+
+👁️ 28K • 👍 1K • 💬 82 • ⏱️ 14:37 • 2d ago
+
+---
+
 **[America Is Now Building Humanoid AI Robot Soldiers for War](https://www.youtube.com/watch?v=Qm64Vm-lf80)**
 
 An American robotics startup is preparing humanoid AI robots for war. Its Phantom machines have already been tested in Ukraine, ...
 
 📺 AI Revolution
 
-👁️ 18K • 👍 611 • 💬 92 • ⏱️ 13:15 • 1d ago
+👁️ 20K • 👍 623 • 💬 102 • ⏱️ 13:15 • 2d ago
 
 ---
 
@@ -206,27 +212,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 31K • 👍 356 • 💬 133 • ⏱️ 4:18 • 2d ago
-
----
-
-**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
-
-America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
-
-📺 S3 | Science, Startups, & Stories
-
-👁️ 27K • 👍 1K • 💬 80 • ⏱️ 14:37 • 2d ago
-
----
-
-**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
-
-The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
-
-📺 1M65
-
-👁️ 18K • 👍 312 • 💬 74 • ⏱️ 13:38 • 1d ago
+👁️ 32K • 👍 372 • 💬 136 • ⏱️ 4:18 • 2d ago
 
 ---
 
@@ -236,7 +222,27 @@ Humanoid robots have a big data problem. One solution? Pay humans to train them.
 
 📺 Joanna Stern
 
-👁️ 79K • 👍 3K • 💬 257 • ⏱️ 12:02 • 4d ago
+👁️ 80K • 👍 3K • 💬 263 • ⏱️ 12:02 • 4d ago
+
+---
+
+**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
+
+The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
+
+📺 1M65
+
+👁️ 18K • 👍 315 • 💬 74 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[Unitree&#39;s New Robot Can Clean Homes and Assist Patients by Itself](https://www.youtube.com/watch?v=k1JIyXM5qGw)**
+
+Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another major step toward fully autonomous home care ...
+
+📺 DPCcars
+
+👁️ 2K • 👍 39 • 💬 7 • ⏱️ 2:55 • 10h ago
 
 ---
 
@@ -246,17 +252,17 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 19K • 👍 135 • 💬 44 • ⏱️ 0:27 • 3d ago
+👁️ 19K • 👍 137 • 💬 44 • ⏱️ 0:27 • 3d ago
 
 ---
 
-**[BEST TITAN for 20 Bucks? Unusually THICK War Robots Deal](https://www.youtube.com/watch?v=zxWC8mtmkf4)**
+**[Meet the robot clothes that dress you](https://www.youtube.com/watch?v=aLmtcrj5gro)**
 
-War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' #warrobots #warrobotsgameplay ...
+Researchers at South Korea's KAIST and Stanford University have unveiled clothing embedded with air-powered 'vine' robots that ...
 
-📺 Manni-Gaming
+📺 Reuters
 
-👁️ 9K • 👍 412 • 💬 101 • ⏱️ 14:20 • 1d ago
+👁️ 47K • 👍 463 • 💬 59 • ⏱️ 2:07 • 3d ago
 
 ---
 
@@ -266,27 +272,17 @@ The ROLLO is the world's first autonomous and self-balancing monowheel robot. Co
 
 📺 Europe’s Foundry 
 
-👁️ 23K • 👍 1K • 💬 202 • ⏱️ 15:13 • 3d ago
+👁️ 24K • 👍 1K • 💬 209 • ⏱️ 15:13 • 3d ago
 
 ---
 
-**[China&#39;s T800 Robot Lost Its Head and Still REFUSED to Back Down! EngineAI URKL&#39;s Wild Start](https://www.youtube.com/watch?v=gbqnza2MCJo)**
+**[Tesla Reveals Major New Optimus Robot Update!](https://www.youtube.com/watch?v=xwXUFbQcVJk)**
 
-A Chinese T800 robot lost its head during EngineAI's first Ultimate Robot Knockout League (URKL) show in Shenzhen.
+Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
 
-📺 Kalil 4.0
+📺 The Tesla Space
 
-👁️ 9K • 👍 127 • 💬 29 • ⏱️ 9:31 • 2d ago
-
----
-
-**[This Secret Combo Brought Teth Back! [War Robots]](https://www.youtube.com/watch?v=4duW3VNY5Xo)**
-
-This secret combo brought Teth back! In this video we look at key components that make this Teth combo so strong – Baslieus, ...
-
-📺 Adrian Chong
-
-👁️ 3K • 👍 204 • 💬 42 • ⏱️ 16:14 • 10h ago
+👁️ 80K • 👍 2K • 💬 104 • ⏱️ 13:08 • 5d ago
 
 ---
 

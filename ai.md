@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-20T23:00:57.275564+00:00'
+updated: '2026-07-21T00:57:56.590285+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - news
 - repositories
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 20, 2026 at 23:00 UTC  
+**Last Updated:** July 21, 2026 at 00:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[The AI productivity numbers don't match what I actually see on my team](https://www.reddit.com/r/artificial/comments/1v1ogrn/the_ai_productivity_numbers_dont_match_what_i/)**
+**[Trying to find a good AI image generator. What's worked for you?](https://www.reddit.com/r/artificial/comments/1v1ozqo/trying_to_find_a_good_ai_image_generator_whats/)**
 
-I help run a small dev team and I've spent the last year trying to figure out if these tools made us faster or just made us feel faster. Genuinely not sure yet. The wins are real but boring. Boilerplate, test scaffolding, the fifth CRUD endpoint that's basically the other four with different names. Onboarding got a bit easier too because the juniors can ask an assistant the stuff they'd feel dumb asking me for the tenth time. Then there's everything that needs you to actually understand why the code is there. Race conditions, how two services should talk to each other, cleaning up a mess someone left behind two years ago. There the assistant is confident and wrong a lot, and confident-and-wrong is honestly worse than slow. The thing nobody warned me about was review. We write code faster now, so there's more of it to read, and reading code is harder than writing it. We've shipped stuff that compiled, passed lint, passed the tests, and was still quietly the wrong thing, because whoever was "writing" it had mentally clocked out halfway through. So net positive maybe? But nowhere near the 10x people keep selling. Curious about others actually using this on a team and not a weekend project. Where's it genuinely helped, and where's it just created new work in a different spot?
+Long story short I need to find an AI image generator as part of my illustration work. It can be subscription based as I figure a free one probably won't cut it at the volume I'm looking for What do you use? This one seem like it would work well https://justaiprograms.com/openartimagegen
 
-7h ago
+9h ago
+
+---
+
+**[Two AI models GPT-5.6 Sol 🇺🇸 vs Kimi K3 🇨🇳 are speedrunning KSP from scratch LIVE](https://www.reddit.com/r/artificial/comments/1v20eqg/two_ai_models_gpt56_sol_vs_kimi_k3_are/)**
+
+There's a live AI Space Race going on where two frontier AI models, GPT-5.6 Sol 🇺🇸 vs Kimi K3 🇨🇳, are each building a Kerbal Space Program from zero. You can follow along: Twitch stream: https://twitch.tv/vals_ai X stream: https://x.com/i/broadcasts/1OxwbbErjDbJB What I think is very interesting: The models don't touch the vehicle editor. They get a parts catalog and reference craft, then write a raw .craft file (parts, positions, attachment nodes, staging, fuel, crew) and Python to fly the thing. Progress is scored on a 30-rung milestone ladder. Rung 1 is landing on the Mun, Rung 2 is landing AND safely returning the same Kerbal, then Minmus, Duna, Ike, Eeloo, Moho, Tylo, Eve and more. Rung 29 is asteroid capture, Rung 30 a single-Kerbal grand tour.
+
+2h ago
 
 ---
 
@@ -49,7 +57,7 @@ I help run a small dev team and I've spent the last year trying to figure out if
 
 Is there a simple kit someone has come up with to get through the "oval-shape live camera face challenge" .. or? Could it be as simple as the minimum wage scammer teams hold up a image of "Hen" there and move it in front of the camera? Does anyone know much about how the "oval-shape live camera face challenge" works, and/or how AI is defeating it? Using a small-city market location with about 100-150 swipees, I found ~3 hey-lets-use-signal bots, so there's 3% AI-signal-crypto bots on Tinder. Now .. Tinder's policy is, the instant someone taps "report" on a profile, and, selects the line from the chat where the profile mentions either "Signal" or "Telegram", Tinder axes it automatically there and then. Given that, I can't believe these bots survive very long, so there's gotta be quite a lot of production of them. Anyone have any ideas? BTW for the fake conversation, they are not using great models. It's still rather stilted. Even a non-AI-aware person, well guy, would be aware it's not a human with a (funny, really) form letter feel. ("I understand that you have been having a busy day. It must be demanding leading a commercial company.") fascinating stuff! Anyway I'm interested in how they pass the "oval-shape live camera face challenge" .. anyone?
 
-5h ago
+7h ago
 
 ---
 
@@ -57,7 +65,15 @@ Is there a simple kit someone has come up with to get through the "oval-shape li
 
 You could be about to make the exact mistake Alex Hormozi keeps seeing: founders getting so excited about AI that they automate the wrong thing, faster. He reviewed a business paying 11 VAs $11K/month for data cleaning. Worked fine. So they spent $350K building an AI system to replace them. Three years of costs, upfront. For a process that was never the constraint. They didn't have enough demand. The bottleneck was customer acquisition, not data cleaning. But because the founder got excited about automation, the real problem sat untouched. His gut-check is simple: "Are you making more money?" Not "are you using more AI?" Not "are you token-maxing?" Are you actually making more money. The deeper point: people should use AI in their business, not try to build AI businesses. Advertise the outcome your customer cares about, not the technology underneath. And when intelligence becomes cheap and abundant, the value that remains is stakes — someone has to own the decision. DM for credit or removal request (no copyright intended) © All rights and credits reserved to the respective owner(s).
 
-7h ago
+9h ago
+
+---
+
+**[what building an AI assistant with no interface exposed: latency becomes personality and the acknowledgment has to prove it understood](https://www.reddit.com/r/artificial/comments/1v20wwq/what_building_an_ai_assistant_with_no_interface/)**
+
+building dexi, an assistant that lives in imessage, no app, the whole surface is a text thread. one prompt-design problem from it is worth sharing because it's non-obvious when your only surface is messages, you can't show a spinner or stream tokens. there's silence, then a reply. anything over ~10 seconds reads as being ignored and the user starts typing again, which forks the conversation. so you have to acknowledge fast. the trap: a generic "working on it!" reads as a bot instantly and kills trust what worked was a two-model pattern. a cheap fast pass extracts intent and produces an acknowledgment that contains actual specifics from their message ("looking at the 3 subscriptions on your amex now"), then the slow expensive pass does the real work. the ack has to prove it understood, not just that it received. that constraint made the whole thing feel less robotic even when the slow path was slow second lesson, on discoverability with no ui: users can't see capabilities, and onboarding prompts get ignored. surfacing "i can also do X" contextually, only when their request nearly matches something adjacent, converted way better than any help message third, response length is a prompt problem here in a way it isn't in a chat window. nobody reads a six-paragraph text. i cap output far below what the model wants and that trimming is real prompt work, the model fights you the whole way curious how others handle the user-types-again-mid-response fork. queue the second message, interrupt the first job, or merge them into one intent? i merge and it's the ugliest code i own
+
+1h ago
 
 ---
 
@@ -65,15 +81,23 @@ You could be about to make the exact mistake Alex Hormozi keeps seeing: founders
 
 I've been thinking a lot about artificial intelligence and creativity lately. As someone living with Spinal Muscular Atrophy Type 2, technology has been one of the greatest enablers in my life. It has given me opportunities to collaborate in ways that simply wouldn't have existed a generation ago. Because of that, I don't see AI or technology as something to fear. But it has made me wonder about something. As a songwriter, I try to tell stories with music that encourage, challenge and inspire. If AI eventually becomes capable of autonomously creating songs, films, paintings and novels that are indistinguishable from those made by humans, what actually makes our creativity different? Is it the quality of the finished work? Or is it the fact that every human creation carries lived experience behind it, whether that's love, grief, faith, hope, disappointment or joy? I'd genuinely be interested to hear how other people think about this. If a piece of music moves you, does it matter whether it came from someone who lived the experiences behind creating it, or is the end result all that really matters?
 
-11h ago
+13h ago
+
+---
+
+**[Notrack.ai sus?](https://www.reddit.com/r/artificial/comments/1v22wee/notrackai_sus/)**
+
+Has anyone heard of notrack.ai. There seems to be limited info on it on the web... Nothing I could find on reddit. A whois that points back to the UA?? Anyone got any info on it?
+
+31m ago
 
 ---
 
 **[Final class-action settlement approval granted, judgment entered, and attorneys' fees awarded in the Bartz v. Anthropic AI copyright case](https://www.reddit.com/r/artificial/comments/1v1zmn7/final_classaction_settlement_approval_granted/)**
 
-Today the Federal District Court for the Northern District of California granted final approval of the $1.5 Billion class-action settlement in the Bartz v. Anthropic AI copyright lawsuit, and entered judgment. The court also awarded plaintiffs' class counsel $101,561,111 in attorneys' fees. Good work if you can get it!
+Today the Federal District Court for the Northern District of California granted final approval of the $1.5 Billion class-action settlement in the Bartz v. Anthropic AI copyright lawsuit, and entered judgment. The court also awarded plaintiffs' class counsel $101,561,111 in attorneys' fees. Good work if you can get it! (They wanted $187,500,000.)
 
-52m ago
+2h ago
 
 ---
 
@@ -81,7 +105,7 @@ Today the Federal District Court for the Northern District of California granted
 
 Need to play with the sound. I started building it for myself to have a side-kick that helps me with my goals and procrastination, but I would love to see your opinions. Currently it's running on GPT Realtime but I'm testing also xAI Voice + adding better voices and local brain.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,27 +113,7 @@ Need to play with the sound. I started building it for myself to have a side-kic
 
 I honestly have never seen one of those smaller auto-response suggestion models hit the brakes so hard on a topic before. Perhaps being excellent to each other is not in SpaceXAI's playbook?
 
-2h ago
-
----
-
-**[Fable 5 is now metered for Pro and Team Standard, but Claude Code's separate August 19 extension may be more useful to watch](https://www.reddit.com/r/artificial/comments/1v1f0z8/fable_5_is_now_metered_for_pro_and_team_standard/)**
-
-Fable 5's free-inclusion deadline moved from June 22 to July 7, then July 12, then July 19. The final arrangement started July 20 (today): Max and Team Premium keep Fable 5 permanently, capped at 50% of the normal weekly limit. Pro and Team Standard receive a one-time $100 credit, followed by $10/M input tokens and $50/M output tokens. Claude Code's 50% weekly-limit increase had previously been renewed on the same schedule as those Fable 5 extensions. It's now been extended independently through August 19, even though the Fable 5 extension cycle is over. Cowork is also still running its separate 2x multiplier through August. I can see two reasonable insights from this. The simple one is that Anthropic has limited inference capacity across the board and is adjusting each product on a different schedule. The other is that it has an extra incentive to preserve agent usage while ChatGPT Work, launched July 9, competes for similar workflows. I wouldn't treat the second explanation as confirmed strategy. The useful test comes after August: whether Code and Cowork also lose their additional allowances or keep getting different treatment. For people using Claude Code heavily, how many active days are you getting from the boosted weekly allowance, and what kind of workload burns through most of it? And also how often do you use Claude Cowork? I’m curious how many people actually use it.
-
-15h ago
-
----
-
-**[Hugging Face says AI agent behind internal breach](https://www.reddit.com/r/artificial/comments/1v1vvet/hugging_face_says_ai_agent_behind_internal_breach/)**
-
-🔗 [axios.com](https://www.axios.com/2026/07/20/hugging-face-ai-cyberattack-data-breach) • 3h ago
-
----
-
-**[The GitHub for Context Doesn’t Exist Yet](https://www.reddit.com/r/artificial/comments/1v1l16t/the_github_for_context_doesnt_exist_yet/)**
-
-🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/the-github-for-context-doesnt-exist) • 9h ago
+4h ago
 
 ---
 
@@ -121,7 +125,7 @@ Fable 5's free-inclusion deadline moved from June 22 to July 7, then July 12, th
 
 Google is working on a new server chip that would directly integrate the blueprint of its Gemini AI model, enabling the company to serve its AI models to users much more efficiently, according to two people with direct knowledge of the matter. Google intends the new chip, informally dubbed “ ...
 
-The Information • 10h ago
+The Information • 11h ago
 
 ---
 
@@ -129,21 +133,19 @@ The Information • 10h ago
 
 The new AI chip, called "Frozen v2," would embed parts of Gemini's architecture directly into the silicon, according to the report.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[Google’s Opal AI Builds Apps From Your Words — When It Works](https://www.cnet.com/tech/services-and-software/googles-opal-ai-builds-apps-from-your-words-when-it-works/)**
+**[How Google’s A.I. Search Is Imperiling the Open Web](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html)**
 
-It’s still very much an experiment, but Opal has a lot of potential.
-
-CNET • 31m ago
+The New York Times • 5h ago
 
 ---
 
 **[Scoop: Trump AI security agency head resigns](https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns)**
 
-Axios • 7h ago
+Axios • 9h ago
 
 ---
 
@@ -151,43 +153,43 @@ Axios • 7h ago
 
 Arvind Raman, the director of National Institute of Standards and Technology, will serve as acting director of CAISI, according to a spokesperson
 
-CNBC • 3h ago
+CNBC • 5h ago
 
 ---
 
 **[Head of US AI safety agency resigns](https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/)**
 
-Reuters • 5h ago
+Reuters • 2h ago
 
 ---
 
-**[What the AI Odyssey Film Is Really About](https://www.hollywoodreporter.com/business/digital/ai-the-odyssey-what-is-it-where-to-watch-1236652547/)**
+**[Why AI behaves differently in different languages](https://theweek.com/tech/why-ai-behaves-differently-in-different-languages)**
 
-On the heels of Christopher Nolan’s blockbuster weekend, the filmmakers of the digital-age project have a few ideas of their own.
+Study finds Claude in Arabic uses more ‘polite phrasing’ and showed ‘greater warmth’ than other language models
 
-The Hollywood Reporter • 47m ago
-
----
-
-**[Oracle Credit Risk Hits Near 18-Year High on AI Debt Load Angst](https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst)**
-
-Bloomberg.com • 1h ago
+The Week • 26m ago
 
 ---
 
-**[Here are the 30,000 songs Sony is suing Udio’s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)**
+**[Australia’s Stock Market Emerges as Haven From Volatile AI Trade](https://www.bloomberg.com/news/articles/2026-07-20/australia-s-stock-market-emerges-as-haven-from-volatile-ai-trade)**
 
-Sony claims Udio “copied and ingested” its music.
-
-The Verge • 41m ago
+Bloomberg.com • 59m ago
 
 ---
 
-**[AI’s solution to 87-year-old riddle takes mathematicians by surprise](https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/)**
+**[Opinion | Powerful AI models are being given away for free. It was inevitable.](https://www.washingtonpost.com/opinions/2026/07/20/open-model-ai-is-good-competition-anthropic-openai/)**
 
-Mathematicians have been trying to prove the Jacobian conjecture for nearly a century, but now the Claude Fable 5 AI has apparently found a counterexample that disproves it
+They aren’t a security threat — they’re what competition looks like.
 
-New Scientist • 7h ago
+The Washington Post • 5h ago
+
+---
+
+**[Apply for Anthropic’s AI for Science rare disease research grants](https://www.anthropic.com/news/rare-disease-research-grants)**
+
+Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding of rare disease.
+
+Anthropic • 7h ago
 
 ---
 
@@ -199,7 +201,7 @@ New Scientist • 7h ago
 
 China's open-weights AI strategy is winning: its companies are taking the lead. America's closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.
 
-⬆️ 864 • 💬 704 • 8h ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+⬆️ 966 • 💬 771 • 10h ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
 ---
 
@@ -207,7 +209,7 @@ China's open-weights AI strategy is winning: its companies are taking the lead. 
 
 The sky (and your endurance) is the limit!
 
-⬆️ 644 • 💬 128 • 12h ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 691 • 💬 139 • 14h ago • [Airport Simulator](https://airport.apunen.com/)
 
 ---
 
@@ -221,7 +223,7 @@ No more AI-edited listings without disclosures.
 
 **[What AI did to stackoverflow in a graph](https://news.ycombinator.com/item?id=48956949)**
 
-⬆️ 474 • 💬 570 • 2d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+⬆️ 475 • 💬 574 • 2d ago • [data.stackexchange.com](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
@@ -235,7 +237,7 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 436 • 💬 277 • 1d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 436 • 💬 278 • 1d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -243,7 +245,7 @@ A humorous exploration of the uncanny resemblance between AI company logos and h
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-⬆️ 356 • 💬 206 • 1d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+⬆️ 357 • 💬 207 • 1d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
 
 ---
 
@@ -253,7 +255,7 @@ Kimi K3 has received far more love than we expected, and our GPUs are feeling it
 
 Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and
 
-⬆️ 279 • 💬 110 • 1d ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
+⬆️ 283 • 💬 110 • 1d ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
 
 ---
 
@@ -261,7 +263,7 @@ Over the past 48 hours, demand has pushed close to the limits of our current cap
 
 Which way to the Land of the Free again?
 
-⬆️ 187 • 💬 157 • 12h ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+⬆️ 191 • 💬 158 • 14h ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
 
 ---
 
@@ -269,7 +271,7 @@ Which way to the Land of the Free again?
 
 We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.
 
-⬆️ 182 • 💬 132 • 6h ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
+⬆️ 191 • 💬 138 • 8h ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 
 ---
 
@@ -283,17 +285,17 @@ The people who built the attention economy barely let their own children near it
 
 📺 House of El: AI
 
-👁️ 55K • 👍 6K • 💬 1K • ⏱️ 24:19 • 7h ago
+👁️ 84K • 👍 8K • 💬 2K • ⏱️ 24:19 • 8h ago
 
 ---
 
-**[No, AI is NOT like the DotCom bubble. Don&#39;t believe their B.S.](https://www.youtube.com/watch?v=a3-vf78ZwTc)**
+**[The Kind of AI We Actually Need | Van Jones | TED](https://www.youtube.com/watch?v=_JlQOnnEwxc)**
 
-https://Patreon.com/InternetOfBugs or https://InternetOfBugs.com "They spent a long time trying to convince you that AI wasn't a ...
+Social entrepreneur Van Jones believes a new human civilization is being born in real time — and that our technology is racing ...
 
-📺 Internet of Bugs
+📺 TED
 
-👁️ 20K • 👍 2K • 💬 256 • ⏱️ 10:55 • 8h ago
+👁️ 7K • 👍 261 • 💬 41 • ⏱️ 16:00 • 9h ago
 
 ---
 
@@ -303,7 +305,7 @@ South Korea's AI Bubble Just Popped ▻ Get 20% off DeleteMe US consumer plans w
 
 📺 Andrei Jikh
 
-👁️ 378K • 👍 17K • 💬 1K • ⏱️ 25:10 • 6h ago
+👁️ 658K • 👍 24K • 💬 2K • ⏱️ 25:10 • 8h ago
 
 ---
 
@@ -311,17 +313,7 @@ South Korea's AI Bubble Just Popped ▻ Get 20% off DeleteMe US consumer plans w
 
 📺 Zack D. Films
 
-👁️ 2.0M • 👍 151K • 💬 7K • ⏱️ 0:46 • 1d ago
-
----
-
-**[Urgent Update- AI Sputnik Moment: Kimi K3 Released w/ Emad Mostaque | Ep. 272](https://www.youtube.com/watch?v=pSUyLfirP8Y)**
-
-The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik Moment of Kimi K3 being released. Get access ...
-
-📺 Peter H. Diamandis
-
-👁️ 182K • 👍 5K • 💬 1K • ⏱️ 2:07:31 • 1d ago
+👁️ 2.1M • 👍 155K • 💬 8K • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -335,31 +327,33 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 ---
 
-**[😱 jesus #jesus #oraçãoforte #god #fé #oração #gaming #amen #usa #jesuscristo #amém #shortvideo #ai 😱](https://www.youtube.com/watch?v=HsRmWPT7SVA)**
+**[Urgent Update- AI Sputnik Moment: Kimi K3 Released w/ Emad Mostaque | Ep. 272](https://www.youtube.com/watch?v=pSUyLfirP8Y)**
 
-📺 Genius Priya r7
+The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik Moment of Kimi K3 being released. Get access ...
 
-👁️ 177K • 👍 1K • 💬 4 • ⏱️ 0:14 • 20h ago
+📺 Peter H. Diamandis
 
----
-
-**[How to Make AI Polaroid Photos That Look Real](https://www.youtube.com/watch?v=FhRrDntLgd4)**
-
-Create Realistic AI Polaroids with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa In this video, I show the complete workflow ...
-
-📺 Isa does AI
-
-👁️ 8K • 💬 1 • ⏱️ 11:15 • 6h ago
+👁️ 198K • 👍 6K • 💬 1K • ⏱️ 2:07:31 • 1d ago
 
 ---
 
-**[AI Race: Chinese open models just got real..](https://www.youtube.com/watch?v=5UU9bZ4p6Vo)**
+**[AI Stocks In TROUBLE? What’s NEXT For Nvidia!?](https://www.youtube.com/watch?v=RjoFDQAns6w)**
 
-Link: https://mem0.ai/?via=caleb CALEB $19 USD off on all payments within the first 3 months AI Race between open vs closed ...
+My Portfolio Updates + Charts + Discord ⮕ https://www.patreon.com/stastalksstocks Get My Top Picks For FREE Every Month ...
 
-📺 Caleb Writes Code
+📺 Stas Talks Stocks 
 
-👁️ 25K • 👍 677 • 💬 114 • ⏱️ 8:40 • 17h ago
+👁️ 1K • 👍 90 • 💬 26 • ⏱️ 11:35 • 3h ago
+
+---
+
+**[No, AI is NOT like the DotCom bubble. Don&#39;t believe their B.S.](https://www.youtube.com/watch?v=a3-vf78ZwTc)**
+
+https://Patreon.com/InternetOfBugs or https://InternetOfBugs.com "They spent a long time trying to convince you that AI wasn't a ...
+
+📺 Internet of Bugs
+
+👁️ 27K • 👍 2K • 💬 323 • ⏱️ 10:55 • 10h ago
 
 ---
 
@@ -369,7 +363,17 @@ Assistant Science and Technology Minister Andrew Charlton hails artificial intel
 
 📺 Sky News Australia
 
-👁️ 4K • 👍 64 • 💬 113 • ⏱️ 22:10 • 1d ago
+👁️ 4K • 👍 65 • 💬 113 • ⏱️ 22:10 • 2d ago
+
+---
+
+**[AI cost race between China and U.S. heats up with latest models](https://www.youtube.com/watch?v=ICWvSoN4WbM)**
+
+CNBC's Kate Rooney reports on news regarding the AI race between the U.S. and China.
+
+📺 CNBC Television
+
+👁️ 9K • 👍 98 • 💬 64 • ⏱️ 1:39 • 7h ago
 
 ---
 
@@ -385,7 +389,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 13,462 • ❤️ 1,250 • 5h ago
+⬇️ 13,462 • ❤️ 1,266 • 7h ago
 
 ---
 
@@ -397,7 +401,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 338,945 • ❤️ 845 • 2d ago
+⬇️ 338,945 • ❤️ 851 • 2d ago
 
 ---
 
@@ -409,7 +413,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,262,894 • ❤️ 535 • 3d ago
+⬇️ 1,262,894 • ❤️ 542 • 3d ago
 
 ---
 
@@ -421,7 +425,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,122,848 • ❤️ 2,415 • 17d ago
+⬇️ 2,122,848 • ❤️ 2,434 • 17d ago
 
 ---
 
@@ -433,7 +437,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 531,947 • ❤️ 4,218 • 18d ago
+⬇️ 531,947 • ❤️ 4,224 • 18d ago
 
 ---
 
@@ -445,7 +449,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,117,323 • ❤️ 2,365 • 6d ago
+⬇️ 2,117,323 • ❤️ 2,369 • 6d ago
 
 ---
 
@@ -455,7 +459,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 453 • 4h ago
+⬇️ 0 • ❤️ 457 • 6h ago
 
 ---
 
@@ -467,7 +471,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,007,025 • ❤️ 2,931 • 3mo ago
+⬇️ 2,007,025 • ❤️ 2,935 • 3mo ago
 
 ---
 
@@ -479,7 +483,7 @@ ThinkingCap-Qwen3.6-27B is a finetuned Qwen3.6-27B model optimized for token eff
 
 `image-text-to-text` `27.4B`
 
-⬇️ 10,647 • ❤️ 478 • 10d ago
+⬇️ 10,647 • ❤️ 482 • 10d ago
 
 ---
 
@@ -491,7 +495,7 @@ OvisOCR2 is a compact 0.8B multimodal model for end-to-end document parsing, gen
 
 `image-text-to-text` `853.0M`
 
-⬇️ 14,587 • ❤️ 216 • 4d ago
+⬇️ 14,587 • ❤️ 217 • 4d ago
 
 ---
 
@@ -510,6 +514,20 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 ▲ 30 • 💬 3 • ⭐ 14,084 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
+
+---
+
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+
+🏢 BAIDU
+
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+
+▲ 55 • 💬 5 • ⭐ 15,352 • 29d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -537,20 +555,6 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 ---
 
-**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
-
-*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
-
-🏢 BAIDU
-
-Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
-
-▲ 55 • 💬 5 • ⭐ 14,876 • 29d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -571,9 +575,23 @@ A multi-agent framework using large language models for stock trading simulates 
 
 We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative instructions that humans naturally use to prompt robots. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where a stronger pre-training model yields better out-of-the-box real-robot performance in unseen environments. Furthermore, Xiaomi-Robotics-1 serves as a strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes a new state-of-the-art with a 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html
 
-▲ 53 • 💬 1 • ⭐ 143 • 5d ago
+▲ 54 • 💬 1 • ⭐ 143 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.15330) • [💻 code](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1) • [🔗 project](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
+
+---
+
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 258 • 💬 4 • ⭐ 13,380 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -615,20 +633,6 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
-
-*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
-
-🏢 Microsoft Research
-
-SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
-
-▲ 258 • 💬 4 • ⭐ 13,212 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -639,7 +643,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.0k • 🔱 1.0k • 4h ago
+⭐ 5.0k • 🔱 1.0k • 2h ago
 
 ---
 
@@ -649,7 +653,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.0k • 🔱 228 • 13h ago
+⭐ 3.0k • 🔱 229 • 15h ago
 
 ---
 
@@ -699,7 +703,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 929 • 🔱 148 • 5d ago
+⭐ 930 • 🔱 148 • 5d ago
 
 ---
 
@@ -717,7 +721,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 898 • 🔱 38 • 19d ago
+⭐ 899 • 🔱 38 • 19d ago
 
 ---
 
@@ -727,7 +731,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 851 • 🔱 97 • 12h ago
+⭐ 852 • 🔱 97 • 14h ago
 
 ---
 

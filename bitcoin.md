@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-20T23:00:57.283943+00:00'
+updated: '2026-07-21T00:57:56.599285+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 20, 2026 at 23:00 UTC  
+**Last Updated:** July 21, 2026 at 00:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,371.62
+### $65,182.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +0.2%  
-**30d:** +2.9%  
-**90d:** -16.7%  
-**1y:** -44.6%  
+**24h:** +1.4%  
+**7d:** +1.2%  
+**30d:** +2.4%  
+**90d:** -16.2%  
+**1y:** -45.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1310.50B
+**Market Cap:** $1313.35B
 Rank #1
 
-**Circulating Supply:** 20,059,140 BTC
+**Circulating Supply:** 20,059,181 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.2%
+-48.1%
 
 **All-Time Low:** $67.81
-+96244.2%
++96450.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitgone](https://www.reddit.com/r/Bitcoin/comments/1v1an7t/bitgone/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 As you know guys, most discussions focus on price, but one of Bitcoin's most important on-chain metrics is moving in the opposite direction. A record share of the total BTC supply is now held by long-term holders, participants who continue accumulating and holding their coins instead of selling them back into the market. Historically, this has been one of the most interesting phases of a market cycle. As more Bitcoin moves into long-term storage, the amount of liquid BTC available on exchanges and in active circulation gradually declines. That changes the network's supply dynamics in a meaningful way. Less liquid supply means a larger portion of Bitcoin is effectively removed from day-to-day market activity. What's particularly notable is that this milestone comes during a relatively quiet period for the market. Long-term conviction continues to grow, supply becomes increasingly scarce, and the structure of the Bitcoin network keeps improving regardless of short-term market sentiment.
 
-8h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ As you know guys, most discussions focus on price, but one of Bitcoin's most imp
 
 If yes, how was your experience? If not, what's the biggest reason holding you back?
 
-13h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ If yes, how was your experience? If not, what's the biggest reason holding you b
 
 I see a lot a people talking about DCA and mentioning how they are OG hodlers for years. I always wonder.. how much were they able to accumulate/keep since then. Is 1.5 BTC a lot compared to the average hodler?
 
-22h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ I see a lot a people talking about DCA and mentioning how they are OG hodlers fo
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-15h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ Ask (and answer!) away! Here are the general rules: If you'd like to learn somet
 
 Hi, I have $50 that I'd like to invest in Bitcoin and I'd like to know if you recommend it. I'd like to invest larger amounts over time, but to start I'd like to invest $50.
 
-20h ago
+22h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hi, I have $50 that I'd like to invest in Bitcoin and I'd like to know if you re
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+18h ago
 
 ---
 
@@ -135,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 in a world without freedom, democracy and civilization bitcoin cannot be used for anything IRL or swap it for fiat because they would be traced and once they know they can fuck with you in a thousand way, legal or not. what scares me is this, not the price dropping but the big corpo and govs VS the individuals. on the positive side, if adoptions keeps rising (and it will as long as crime, war and shit like this keep happening); nothing can go after everyone! could some big entity make some actions to slow adoption until it stops entirely? or would it drive adoption even more, regardless of the risks derived by being a victim of these actions? i know real things affect the price but it’s always unrelated to btc. what if the news and btc are the same, how does it unfold? like what happened with the exchange drama or normal people losing money or the kidnappings of rich men in france?
 
-13h ago
+15h ago
 
 ---
 
@@ -151,7 +151,7 @@ Well, if it's true that for every lucky one there are 99 who cry... here I am...
 
 Been tracking a few things this week worth sharing. The capitulation read. Relative long/short-term holder realized profit/loss to exchanges spiked to a level we haven't seen since Nov/Dec 2022, which marked the exact cycle bottom. Institutional access keeps widening. Morgan Stanley rolled out spot BTC trading on E*Trade to roughly 8.6M clients. T. Rowe Price launched an actively managed spot crypto ETP with ~40% in Bitcoin. Both in the same week, in a bear market. South Korea. Their new National Asset Basic Act brings digital assets under government asset management for the first time since 1950. This is a management law, not a strategic reserve. However, pair this with Japan moving toward Bitcoin ETFs last week and it is clear Asia's biggest economies are quietly building Bitcoin into their financial systems. Debasement continues. M2 money supply hit a new all-time high of $23.05T. National debt around $39.4T. Most interested in what people think about the capitulation read specifically. Bottom signals seem to be flashing everywhere, is this real or will there be another leg down before we test lower? I put these together weekly if anyone wants the full version with charts: https://orangenest.beehiiv.com/p/5-sats-sunday-7-19-2026
 
-20h ago
+22h ago
 
 ---
 
@@ -163,29 +163,29 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 The day ahead in crypto: July 20, 2026
 
-CoinDesk • 11h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin Is Suddenly Braced For ‘Price Explosions’ As $27.9 Trillion Gold Prediction Fuels ‘Spectacular’ Bets](https://www.forbes.com/sites/billybambrough/2026/07/19/bitcoin-suddenly-braced-for-price-explosions-as-279-trillion-gold-prediction-fuels-spectacular-bets/)**
+**[Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.](https://www.fool.com/investing/2026/07/18/billionaire-investor-jeremy-grantham-calls-bitcoin/)**
 
-Bitcoin could be headed for a $27.9 trillion game-changer...
+Grantham isn't the first high-profile investor to eschew Bitcoin.
 
-Forbes • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
-**[Billionaire investor says Bitcoin could hit $100,000 only if these things happen](https://sg.finance.yahoo.com/news/billionaire-investor-says-bitcoin-could-213953067.html)**
+**[Bitcoin has crashed more than 50% six times and one thing keeps happening](https://finance.yahoo.com/markets/crypto/articles/bitcoin-crashed-more-50-six-232500028.html)**
 
-Mike Novogratz isn't predicting a Bitcoin rally. He's describing the conditions that would force one, and right now, none of them are fully in place. The Galaxy Digital CEO appeared in a recent podcast this week and laid out his near-term framework for Bitcoin with unusual precision. His base ...
+Bitcoin is sitting near $60,000, down roughly 50% from its all-time high. The headlines are familiar: institutional money is rotating out, sentiment is broken, and a growing number of voices are questioning whether this cycle is different from the ones before it. It is not. Here is what the data ...
 
-Yahoo Finance Singapore • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[‘Wild West’ of Untested Peptides Has Americans Paying in Crypto to Get Their Fix](https://www.bloomberg.com/news/features/2026-07-20/bitcoin-is-becoming-the-preferred-payment-method-for-buying-peptides-online)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -193,41 +193,43 @@ Bloomberg.com • 13h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
-**[Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion](https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion)**
+**[Bitcoin’s Progress Holds The Secret To The AI Boom](https://www.forbes.com/sites/digital-assets/2026/07/19/bitcoins-progress--holds-the-secret-to-the-ai-boom/)**
 
-Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.
+They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
 
-The Block • 10h ago
+Forbes • 1d ago
+
+---
+
+**[Strategy stock rises after the company raises $263 million without selling bitcoin](https://finance.yahoo.com/markets/stocks/article/strategy-stock-rises-after-the-company-raises-263-million-without-selling-bitcoin-140454002.html)**
+
+Strategy stock rose early Monday after the bitcoin juggernaut disclosed that it raised $263 million by selling common stock last week.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Bitcoin tops $65k, but escalating Iran tensions and rate jitters cap gains](https://www.investing.com/news/cryptocurrency-news/bitcoin-down-slightly-to-64k-with-iran-tensions-rate-jitters-in-focus-4799865)**
+
+Investing.com • 2h ago
 
 ---
 
 **[Bitcoin and gold are both down YTD; this has never happened before in a year](https://seekingalpha.com/news/4615494-bitcoin-and-gold-are-both-down-ytd-this-has-never-happened-before-in-a-year)**
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 7h ago
 
 ---
 
-**[Bitcoin little-changed at $64k with Iran tensions, rate jitters in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-down-slightly-to-64k-with-iran-tensions-rate-jitters-in-focus-4799865)**
+**[Bitcoin whale dumps $122 million 40x long right before liquidation can strike](https://cryptoslate.com/bitcoin-whale-dumps-122-million-40x-long-before-liquidation-can-strike/)**
 
-Investing.com • 16h ago
+Bitcoin derivatives trader exits $122M Hyperliquid BTC long before the $61,605 liquidation level is reached.
 
----
-
-**[The CLARITY Act Could Be in Trouble. This is the Only Crypto I'm Buying Right Now.](https://www.fool.com/investing/2026/07/19/the-clarity-act-could-be-in-trouble-this-is-the-on/)**
-
-Bitcoin will thrive, regardless of what happens to the CLARITY Act.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin ETFs Log Second Week of Inflows, Breaking Two-Month Rout](https://www.bloomberg.com/news/articles/2026-07-20/bitcoin-etfs-log-second-week-of-inflows-breaking-two-month-rout)**
-
-Bloomberg.com • 10h ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -267,7 +269,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 452 • 💬 187 • ⏱️ 11:10 • 8h ago
+👁️ 8K • 👍 515 • 💬 228 • ⏱️ 11:10 • 10h ago
 
 ---
 
@@ -277,17 +279,7 @@ The biggest advantage Bitcoin has isn't price, it's verification. As governments
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 159 • ⏱️ 15:42 • 1d ago
-
----
-
-**[🚨 Bitcoin Is About to Catch Everyone Off Guard](https://www.youtube.com/watch?v=jxL61ni7Xso)**
-
-Bitcoin has traded sideways for nearly 60 days, but improving Bitcoin ETF inflows, extreme market fear, and major altcoin support ...
-
-📺 DataDash
-
-👁️ 2K • 👍 94 • 💬 40 • ⏱️ 16:33 • 7h ago
+👁️ 26K • 👍 2K • 💬 190 • ⏱️ 15:42 • 1d ago
 
 ---
 
@@ -297,27 +289,7 @@ No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and 
 
 📺 Gareth Soloway
 
-👁️ 25K • 👍 2K • 💬 97 • ⏱️ 13:27 • 7h ago
-
----
-
-**[CAUTION: This Is Getting Dangerous For Bitcoin Bulls! [3 Reasons Why]](https://www.youtube.com/watch?v=QR8mCqrIx74)**
-
-In today's video, Kyledoops outlines why it's getting serious for bitcoin bulls and the 3 underlying reasons why prices could slide ...
-
-📺 Crypto Banter
-
-👁️ 12K • 👍 1K • 💬 11 • ⏱️ 37:27 • 15h ago
-
----
-
-**[Bitcoin Just Flashed a HUGE Signal… LIVE Trading &amp; Market Analysis](https://www.youtube.com/watch?v=X9D5c-hzhKM)**
-
-BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
-
-📺 Jayson Casper
-
-👁️ 5K • 👍 278 • 💬 36 • ⏱️ 1:28:14 • 4h ago
+👁️ 36K • 👍 3K • 💬 114 • ⏱️ 13:27 • 9h ago
 
 ---
 
@@ -327,7 +299,57 @@ Bitcoin sentiment remains bearish, but the herd might be wrong! This could be on
 
 📺 Crypto Zombie
 
-👁️ 4K • 👍 892 • 💬 166 • ⏱️ 25:20 • 5h ago
+👁️ 8K • 👍 1K • 💬 177 • ⏱️ 25:20 • 7h ago
+
+---
+
+**[Bitcoin is Eerily Quiet.. Are We in the Calm Before the Storm?](https://www.youtube.com/watch?v=Nujcilo9Nus)**
+
+Bitcoin has traded inside the same range for 47 straight days as volatility falls to cycle lows—but beneath the surface, macro risk, ...
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 703 • 💬 43 • ⏱️ 15:56 • 3h ago
+
+---
+
+**[🚨 Bitcoin Is About to Catch Everyone Off Guard](https://www.youtube.com/watch?v=jxL61ni7Xso)**
+
+Bitcoin has traded sideways for nearly 60 days, but improving Bitcoin ETF inflows, extreme market fear, and major altcoin support ...
+
+📺 DataDash
+
+👁️ 2K • 👍 117 • 💬 45 • ⏱️ 16:33 • 9h ago
+
+---
+
+**[Top 14 Crypto Coins… READY TO EXPLODE!!](https://www.youtube.com/watch?v=nWDaD26YHtg)**
+
+14 Crypto Coins That Can STILL Make You RICH? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 25K • 👍 2K • 💬 225 • ⏱️ 16:51 • 1d ago
+
+---
+
+**[Bitcoin Just Flashed a HUGE Signal… LIVE Trading &amp; Market Analysis](https://www.youtube.com/watch?v=X9D5c-hzhKM)**
+
+BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
+
+📺 Jayson Casper
+
+👁️ 5K • 👍 290 • 💬 34 • ⏱️ 1:28:14 • 6h ago
+
+---
+
+**[Bitcoin Hitting STRONG Support: Is This A TRAP?](https://www.youtube.com/watch?v=wa9LHzKwjjg)**
+
+Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+
+📺 Verified Investing
+
+👁️ 4K • 👍 308 • 💬 13 • ⏱️ 12:39 • 7h ago
 
 ---
 
@@ -337,27 +359,7 @@ WEEKLY REPORTS → https://link.tiainvestor.com/jyt-reports ➡ 18-YEAR CYCLE MI
 
 📺 Jason Pizzino
 
-👁️ 20K • 👍 1K • 💬 84 • ⏱️ 27:52 • 20h ago
-
----
-
-**[BTC Urgent Update:  DON&#39;T BE FOOLED - The EMA Ribbon Shows Bitcoin is on the Verge of a Collapse](https://www.youtube.com/watch?v=Fedb8cjPpcs)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 1K • 👍 214 • ⏱️ 29:19 • 4h ago
-
----
-
-**[A BIG BITCOIN CRASH IS COMING...](https://www.youtube.com/watch?v=OE3GVlKIzPY)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 10K • 👍 833 • 💬 84 • ⏱️ 9:04 • 16h ago
+👁️ 21K • 👍 1K • 💬 85 • ⏱️ 27:52 • 22h ago
 
 ---
 
