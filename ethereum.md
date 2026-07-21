@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T12:08:03.709023+00:00'
+updated: '2026-07-21T14:34:09.371975+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 12:08 UTC  
+**Last Updated:** July 21, 2026 at 14:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,939.50
+### $1,930.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.0%  
-**7d:** +0.7%  
-**30d:** +11.8%  
-**90d:** -17.1%  
+**24h:** +1.7%  
+**7d:** +0.8%  
+**30d:** +11.9%  
+**90d:** -17.0%  
 **1y:** -48.4%  
 
 ---
@@ -62,7 +62,7 @@ No max supply
 -60.9%
 
 **All-Time Low:** $0.43
-+446178.0%
++446251.9%
 
 ---
 
@@ -102,7 +102,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
 
-20h ago
+23h ago
 
 ---
 
@@ -156,11 +156,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum price rises nearly 2% to $1,942 amid t...](https://pluang.com/en/news-feed/harga-ethereum-mendekati-2000-dolar-didorong-beli-besarnya)**
+**[Ethereum's retail interest collapses while inst...](https://pluang.com/en/news-feed/retail-meninggalkan-ethereum-wall-street-masuk-harga-tetap)**
 
-Ethereum's price climbed nearly 2% to $1,942 following a rebound in semiconductor stocks and improved risk sentiment driven by hopes of renewed US-Iran talks. Large investors, or whales, increased their holdings by withdrawing and staking about $38 million in ETH, while Ethereum ETFs saw strong inflows, boosting demand. Technical indicators suggest a potential breakout above $1,952 could lead to a move toward the $2,000 level, although geopolitical risks around the Strait of Hormuz and resistance levels could cause volatility. Overall, Ethereum's recovery is supported by positive market momentum but remains vulnerable to external shocks.
+Retail interest in Ethereum has dropped to 2020 levels with tweet volume, NFT activity, and active addresses all declining sharply. Meanwhile, institutional adoption is growing, with major firms like BlackRock and JPMorgan building on Ethereum and a nonprofit onboarding institutions. Despite this, Ethereum's price has fallen about 42% this year, reflecting declining fee revenue and a market pricing the token based on cash flows rather than adoption narratives. The key question is whether institutional activity will generate enough fees to boost the token's value, with the current divergence between retail, institutional use, and market pricing unresolved.
 
-Pluang • 12m ago
+Pluang • 1h ago
+
+---
+
+**[Bitcoin and Ethereum see net inflows while USDC records $236M outflow, signaling crypto liquidity shifts](https://pluang.com/en/news-feed/bitcoin-ethereum-aliran-dana-neto-usdc-keluar-besar)**
+
+Bitcoin and Ethereum experienced net inflows of approximately $216 million and $77 million respectively, indicating strong investor interest. In contrast, USD Coin (USDC) saw a significant net outflow of about $236 million, the largest among stablecoins, suggesting a shift in liquidity preferences within the crypto market. Other tokens like Solana showed modest inflows, while some ecosystem tokens and smaller stablecoins faced outflows. These movements reflect changing capital flows across crypto assets, potentially impacting short-term market liquidity and asset demand without indicating a clear directional trend.
+
+Pluang • 1h ago
 
 ---
 
@@ -168,7 +176,7 @@ Pluang • 12m ago
 
 Bitcoin (BTC-USD) opened at $64,680.23 on Monday, July 20, 2026, 0.2% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,871.21 on Monday, July 20, 2026, up 0.5% from Sunday's opening price.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -176,15 +184,15 @@ Yahoo Finance • 20h ago
 
 Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 21, 2026](https://fortune.com/article/price-of-ethereum-07-21-2026/)**
+**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
-Fortune • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -196,33 +204,27 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Current price of Ethereum for July 21, 2026](https://fortune.com/article/price-of-ethereum-07-21-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
 **[Ethereum news: Bitmine (BMNR) slows ETH purchase pace to shift cash to $86 million stock buyback](https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock)**
 
 The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Allbridge Core Hit by $1.65M Solana Exploit, Funds Traced to Ethereum](https://www.tradingview.com/news/coinpedia:19f5bacbd094b:0-allbridge-core-hit-by-1-65m-solana-exploit-funds-traced-to-ethereum/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH defends key support, XRP recovery stays on track](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-defends-key-support-xrp-recovery-stays-on-track-202607200341)**
 
-Cross-chain bridge protocol Allbridge Core has paused operations after suffering a security exploit that drained roughly $1.65 million from its Solana-based infrastructure.Allbridge said it paused the protocol as a precaution and urged liquidity providers in affected pools to withdraw their funds w…
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are starting the week on a mild constructive note as the broader crypto market attempts to recover. BTC is approaching a key technical hurdle at $65,028, and ETH is holding above the important $1,800 support zone.
 
-TradingView • 1d ago
-
----
-
-**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60568312/bitcoin-ethereum-xrp-dogecoin-price-analysis-us-iran-tensions)**
-
-Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
-
-Benzinga • 10h ago
-
----
-
-**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
-
-CCN.com • 21h ago
+FXStreet • 1d ago
 
 ---
 
@@ -230,13 +232,23 @@ CCN.com • 21h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
+
+Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
+
+📺 Thinking Crypto
+
+👁️ 551 • 👍 75 • 💬 29 • ⏱️ 17:49 • 2h ago
+
+---
+
 **[Everyone Hates Ethereum… That’s The Point](https://www.youtube.com/watch?v=9XZNRYVsEcQ)**
 
 In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. It ran to $126000. Right now, Ethereum is down ...
 
 📺 Lark Davis
 
-👁️ 10K • 👍 566 • 💬 52 • ⏱️ 11:56 • 1d ago
+👁️ 11K • 👍 578 • 💬 52 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -246,27 +258,7 @@ Aaron Dishner walks through Ethereum's recent price action, noting last week's r
 
 📺 Coin Bureau Trading
 
-👁️ 2K • 👍 196 • 💬 17 • ⏱️ 16:28 • 5h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
-
-Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
-
-📺 Benjamin Cowen
-
-👁️ 75K • 👍 4K • 💬 200 • ⏱️ 17:58 • 1d ago
-
----
-
-**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 148 • 💬 16 • ⏱️ 16:17 • 1d ago
+👁️ 3K • 👍 237 • 💬 21 • ⏱️ 16:28 • 8h ago
 
 ---
 
@@ -276,27 +268,27 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 188 • 💬 25 • ⏱️ 11:23 • 1d ago
+👁️ 3K • 👍 189 • 💬 25 • ⏱️ 11:23 • 1d ago
 
 ---
 
-**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
 
-You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
+Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
 
-📺 The Modern Investor
+📺 Benjamin Cowen
 
-👁️ 5K • 👍 592 • 💬 280 • ⏱️ 30:25 • 2d ago
+👁️ 78K • 👍 4K • 💬 214 • ⏱️ 17:58 • 1d ago
 
 ---
 
-**[Why ETH Can Pump Higher Now! (Ethereum Update)](https://www.youtube.com/watch?v=r9ZsfpP7-tg)**
+**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Cilinix Crypto
+📺 Savvy Finance
 
-👁️ 76 • 👍 6 • 💬 4 • ⏱️ 4:37 • 1h ago
+👁️ 4K • 👍 151 • 💬 16 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -306,7 +298,7 @@ BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 5K • 👍 282 • 💬 178 • ⏱️ 21:43 • 14h ago
+👁️ 6K • 👍 287 • 💬 269 • ⏱️ 21:43 • 17h ago
 
 ---
 
@@ -316,17 +308,27 @@ DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cyc
 
 📺 The Rollup
 
-👁️ 4K • 👍 87 • ⏱️ 8:46 • 1d ago
+👁️ 4K • 👍 89 • 💬 1 • ⏱️ 8:46 • 1d ago
 
 ---
 
-**[BMNR HOLDERS - ROBINHOOD CHAIN FUELING ETH 2.0 ERA](https://www.youtube.com/watch?v=8sHzMQxUNMw)**
+**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
 
-Why Ethereum's Next Move Could Be Massive - Robinhood Chain just changed everything for BMNR Tom Lee, ETH, SBET, Joe ...
+You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
 
-📺 Big Time Trades
+📺 The Modern Investor
 
-👁️ 2K • 👍 104 • 💬 25 • ⏱️ 26:52 • 1d ago
+👁️ 5K • 👍 593 • 💬 281 • ⏱️ 30:25 • 2d ago
+
+---
+
+**[Why ETH Can Pump Higher Now! (Ethereum Update)](https://www.youtube.com/watch?v=r9ZsfpP7-tg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 201 • 👍 12 • 💬 72 • ⏱️ 4:37 • 4h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-21T12:08:03.712372+00:00'
+updated: '2026-07-21T14:34:09.374355+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 21, 2026 at 12:08 UTC  
+**Last Updated:** July 21, 2026 at 14:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Robert Scoble says an unnamed investor told him Anthropic is buying robot AI dev
 
 On my way to recording and open-sourcing a 1,000-episode bimanual manipulation dataset for the 3D-printed SO-101 robot. 🦾 Camera setup Intel RealSense D435 (head) 2× RealSense D405 (wrists) RGB only The video shows an autonomous rollout of my ACT policy controlling the robot. The policy was trained for 100,000 steps using only the first 100 teleoperated episodes of bag manipulation. Hugging Face: MrC4t Dataset: MrC4t/bi_so_bag ACT policy: MrC4t/act_bimanual_bag What task should I teach it next? 👀🦾
 
-🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 2d ago
+🔗 [youtube.com](https://youtube.com/shorts/woIlVkLPnws?is=LQpeVvgX-2dRTf6s) • 3d ago
 
 ---
 
@@ -116,35 +116,29 @@ Researchers at the University of Toronto's Continuum Robotics Laboratory introdu
 
 Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
 
-CNBC • 5h ago
+CNBC • 8h ago
 
 ---
 
 **[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
 
-Reuters • 11h ago
+Reuters • 13h ago
 
 ---
 
-**[Samsung creates Robotics eXperience (RX) division - GSMArena.com news](https://www.gsmarena.com/samsung_announces_robotics_experience_rx_division-news-73807.php)**
+**[Samsung creates robotics-dedicated unit under CEO](https://www.koreajoongangdaily.com/business/samsung-creates-roboticsdedicated-unit-under-ceo/12784702)**
 
-The division consolidates all of Samsung's robotics R&D efforts and will report directly to CEO TM Roh. Samsung Electronics has established a Robotics...
+The tech giant is consolidating talent, research and production planning to accelerate the commercialization of humanoid robots.
 
-GSMArena.com • 1h ago
-
----
-
-**[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
-
-OregonLive.com • 15h ago
+Korea JoongAng Daily • 3h ago
 
 ---
 
-**[Could humanoid robots be used to fire mortars? | Defense Dollars](https://www.defensenews.com/video/2026/07/20/could-humanoid-robots-be-used-to-fire-mortars-defense-dollars/)**
+**[Omni One Wins XR Industry’s Top Award as AI and Humanoid Robotics Platform Gains Momentum](https://finance.yahoo.com/technology/ai/articles/omni-one-wins-xr-industry-134200599.html)**
 
-An emerging robotics company talks about how humanoid-style androids could one day do dangerous, simple tasks like breaching doors and firing certain weapons.
+Humanoid Robot Project with University of Central Florida Honored for Breakthrough Physical AI Teleoperation Second Consecutive Award Reinforces Omni One as the Leading Full-Body Movement Platform for XR, AI, and Robotics AUSTIN, Texas, July 21, 2026 (GLOBE NEWSWIRE) -- Virtuix Holdings Inc. (NASDAQ: VTIX), a leading developer of AI-driven, full-body simulation systems, today announced that its Omni One platform has received the 2026 Auggie Award for Best Interaction Product at Augmented World E
 
-Defense News • 21h ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -152,37 +146,41 @@ Defense News • 21h ago
 
 We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
 
-Forbes • 17h ago
+Forbes • 20h ago
 
 ---
 
-**[Elon Musk Says AI and Robots Will Do ‘So Much Stuff’ We Run Out of Things for Humans to Do — But ‘We’ll Basically Just Issue Money to People’](https://finance.yahoo.com/economy/articles/elon-musk-says-ai-robots-223015126.html)**
+**[Blackstone invests in South Korean robotics supplier Futronic](https://www.reuters.com/legal/transactional/blackstone-invests-south-korean-robotics-supplier-futronic-2026-07-20/)**
 
-The biggest workplace debate of the next decade might not be about asking for a raise. It could be figuring out what to do when the robots have already finished the job. That’s the future Tesla and SpaceX CEO Elon...
-
-Yahoo Finance • 13h ago
+Reuters • 1d ago
 
 ---
 
-**[China’s robot firms’ lament: if we only had a ‘brain’, and more data](https://www.scmp.com/tech/article/3361243/chinese-robot-makers-lament-if-we-only-had-better-brain-and-more-data)**
+**[Shanghai science forum photos show China’s AI and robotics advances in rivalry with US](https://apnews.com/photo-gallery/china-ai-tech-us-robots-conference-photos-0f3f6e69f1c1e2b8b077d8d8af7efd52)**
 
-South China Morning Post • 13h ago
+BEIJING (AP) — China's leading technology companies showcased hundreds of cutting-edge products at the World AI Conference in Shanghai — from advanced robotics to artificial intelligence systems.
 
----
-
-**[Robotic elephant-trunk gripper uses internal camera for a sense of touch](https://newatlas.com/robotics/eletac-robotic-elephant-trunk-gripper-touch/)**
-
-Evolution has already found solutions to lots of problems, so engineers more often borrow ideas from nature instead of reinventing the wheel. We’ve previously seen robots that can curl up like armadillos to protect themselves, and now researchers have developed yet another soft robotic gripper that…
-
-New Atlas • 14h ago
+AP News • 13h ago
 
 ---
 
-**[New robotic hand combines human-like precision with powerful grip](https://interestingengineering.com/ai-robotics/startup-unveils-mimic-hand-m1)**
+**[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
 
-Swiss startup Mimic Robotics unveils the Mimic Hand M1, bringing human-like precision, strength and touch to factory automation.
+Tech Xplore • 19h ago
 
-Interesting Engineering • 22h ago
+---
+
+**[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
+
+OregonLive.com • 17h ago
+
+---
+
+**[Could humanoid robots be used to fire mortars? | Defense Dollars](https://www.defensenews.com/video/2026/07/20/could-humanoid-robots-be-used-to-fire-mortars-defense-dollars/)**
+
+An emerging robotics company talks about how humanoid-style androids could one day do dangerous, simple tasks like breaching doors and firing certain weapons.
+
+Defense News • 23h ago
 
 ---
 
@@ -196,7 +194,17 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 21K • 👍 651 • 💬 97 • ⏱️ 13:15 • 2d ago
+👁️ 22K • 👍 660 • 💬 101 • ⏱️ 13:15 • 2d ago
+
+---
+
+**[Robots Fight for $1M Prize in China&#39;s First MMA League](https://www.youtube.com/watch?v=5IMU5or-VFo)**
+
+The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
+
+📺 Chris Wabs
+
+👁️ 206K • 👍 5K • 💬 2K • ⏱️ 11:15 • 4d ago
 
 ---
 
@@ -216,7 +224,7 @@ Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another 
 
 📺 DPCcars
 
-👁️ 6K • 👍 50 • 💬 9 • ⏱️ 2:55 • 21h ago
+👁️ 6K • 👍 53 • 💬 10 • ⏱️ 2:55 • 23h ago
 
 ---
 
@@ -226,7 +234,7 @@ Robodogs and dancing robots are headlining tech shows everywhere. But at the Wor
 
 📺 CNA
 
-👁️ 2K • 👍 32 • 💬 13 • ⏱️ 3:18 • 19h ago
+👁️ 2K • 👍 36 • 💬 15 • ⏱️ 3:18 • 22h ago
 
 ---
 
@@ -236,7 +244,7 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 19K • 👍 139 • 💬 43 • ⏱️ 0:27 • 4d ago
+👁️ 20K • 👍 140 • 💬 43 • ⏱️ 0:27 • 4d ago
 
 ---
 
@@ -246,17 +254,7 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 19K • 👍 333 • 💬 79 • ⏱️ 13:38 • 1d ago
-
----
-
-**[Intense Human Size Robot MMA Fight League Begins in China As Robots Battle for $1M Prize](https://www.youtube.com/watch?v=5IMU5or-VFo)**
-
-The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
-
-📺 Chris Wabs
-
-👁️ 200K • 👍 5K • 💬 2K • ⏱️ 11:15 • 4d ago
+👁️ 20K • 👍 332 • 💬 79 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -266,7 +264,17 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 30K • 👍 1K • 💬 84 • ⏱️ 14:37 • 2d ago
+👁️ 30K • 👍 1K • 💬 85 • ⏱️ 14:37 • 2d ago
+
+---
+
+**[Inside the world of robot fight clubs](https://www.youtube.com/watch?v=d1-TUGaY4Go)**
+
+Humanoid robotics industry analyst Eren Chen discusses the growing trend of robot fight clubs in China with NBC News' Gadi ...
+
+📺 NBC News
+
+👁️ 9K • 👍 121 • 💬 56 • ⏱️ 5:08 • 12h ago
 
 ---
 
@@ -276,17 +284,7 @@ Researchers at South Korea's KAIST and Stanford University have unveiled clothin
 
 📺 Reuters
 
-👁️ 49K • 👍 499 • 💬 67 • ⏱️ 2:07 • 4d ago
-
----
-
-**[BEST TITAN for 20 Bucks? Unusually THICK War Robots Deal](https://www.youtube.com/watch?v=zxWC8mtmkf4)**
-
-War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' #warrobots #warrobotsgameplay ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 451 • 💬 112 • ⏱️ 14:20 • 2d ago
+👁️ 49K • 👍 510 • 💬 68 • ⏱️ 2:07 • 4d ago
 
 ---
 

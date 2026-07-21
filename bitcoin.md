@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-21T12:08:03.702600+00:00'
+updated: '2026-07-21T14:34:09.367504+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 12:08 UTC  
+**Last Updated:** July 21, 2026 at 14:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,244.47
+### $66,835.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.3%  
-**7d:** +2.5%  
-**30d:** +3.7%  
-**90d:** -15.2%  
-**1y:** -44.7%  
+**24h:** +1.9%  
+**7d:** +3.2%  
+**30d:** +4.4%  
+**90d:** -14.6%  
+**1y:** -44.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1328.43B
+**Market Cap:** $1338.39B
 Rank #1
 
-**Circulating Supply:** 20,059,346 BTC
+**Circulating Supply:** 20,059,387 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--47.5%
+-47.1%
 
 **All-Time Low:** $67.81
-+97562.6%
++98325.0%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 As you know guys, most discussions focus on price, but one of Bitcoin's most important on-chain metrics is moving in the opposite direction. A record share of the total BTC supply is now held by long-term holders, participants who continue accumulating and holding their coins instead of selling them back into the market. Historically, this has been one of the most interesting phases of a market cycle. As more Bitcoin moves into long-term storage, the amount of liquid BTC available on exchanges and in active circulation gradually declines. That changes the network's supply dynamics in a meaningful way. Less liquid supply means a larger portion of Bitcoin is effectively removed from day-to-day market activity. What's particularly notable is that this milestone comes during a relatively quiet period for the market. Long-term conviction continues to grow, supply becomes increasingly scarce, and the structure of the Bitcoin network keeps improving regardless of short-term market sentiment.
 
-21h ago
+23h ago
 
 ---
 
@@ -159,61 +159,41 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 ## Google News: "bitcoin"
 
-**[Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April](https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april)**
+**[Live markets: Bitcoin rises to five-week high above $66,400 on rising hope for Clarity Act](https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april)**
 
 The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin ETFs Are Green Again—Here’s Why Investors Should Zoom Out](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-green-again-why-175951423.html)**
+**[Bitcoin Is Suddenly Braced For ‘Price Explosions’ As $27.9 Trillion Gold Prediction Fuels ‘Spectacular’ Bets](https://www.forbes.com/sites/billybambrough/2026/07/19/bitcoin-suddenly-braced-for-price-explosions-as-279-trillion-gold-prediction-fuels-spectacular-bets/)**
 
-Two consecutive weeks of inflows ended the worst sustained outflow streak in Bitcoin ETF history. Here's why patience may be required from investors.
+Bitcoin could be headed for a $27.9 trillion game-changer...
 
-Yahoo Finance • 18h ago
-
----
-
-**[Bitcoin ETFs Log Second Week of Inflows, Breaking Two-Month Rout](https://www.bloomberg.com/news/articles/2026-07-20/bitcoin-etfs-log-second-week-of-inflows-breaking-two-month-rout)**
-
-Bloomberg.com • 23h ago
+Forbes • 2d ago
 
 ---
 
-**[Why bitcoin is the better form of hard money than gold](https://finance.yahoo.com/video/why-bitcoin-better-form-hard-180000609.html)**
+**[Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat](https://finance.yahoo.com/markets/crypto/articles/galaxy-commits-5-million-prepare-120103156.html)**
 
-Scott Melker discusses where the currency prospects of bitcoin (BTC-USD) historically stand when compared to the likes of gold (GC=F), which once backed the US dollar.
+The crypto firm's initiative arrives as researchers, exchanges, and the U.S. government warn that "Q-Day" may land as soon as 2030.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Suddenly Soars On Surprise Congress Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/07/21/bitcoin-suddenly-soars-on-surprise-congress-price-game-changer/)**
+**[Bitcoin Just Reclaimed $65k: Why This Could Be the Market’s Biggest Turning Point Yet](https://bitcoinfoundation.org/news/analysis/bitcoin-just-reclaimed-65k-why-this-could-be-the-markets-biggest-turning-point-yet/)**
 
-The bitcoin price has struggled through 2026 as traders await bitcoin’s “ultimate catalyst”...
+Find out why Bitcoin has reclaimed $65,000 and what possible further scenarios are likely to happen to BTC
 
-Forbes • 22m ago
-
----
-
-**[Bitcoin’s Hot Capital Raises Risk of Volatility, Glassnode Warns](https://bitcoinfoundation.org/news/bitcoin/bitcoins-hot-capital-raises-risk-of-volatility-glassnode-warns/)**
-
-Bitcoin is consolidating after rebounding from below $58,000, but its changing investor mix may make the next selloff more volatile.
-
-Bitcoin Foundation • 2h ago
+Bitcoin Foundation • 1h ago
 
 ---
 
-**[Hyperscale Data Bitcoin Treasury Reaches 1,087 Bitcoin Worth Approximately $70.3 Million](https://www.prnewswire.com/news-releases/hyperscale-data-bitcoin-treasury-reaches-1-087-bitcoin-worth-approximately-70-3-million-302830244.html)**
+**[Jack Mallers Steps Down as XXI Capital CEO as Tether's Plans to Merge Three Bitcoin Firms Falls](https://news.futunn.com/en/post/76358364/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether)**
 
-/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
-
-PR Newswire • 2h ago
+富途牛牛 • 1h ago
 
 ---
 
@@ -223,19 +203,33 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Current price of Bitcoin for July 21, 2026](https://fortune.com/article/price-of-bitcoin-07-21-2026/)**
+**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
-Fortune • 1h ago
+TradingView • 2h ago
 
 ---
 
-**[Bitcoin whale dumps $122 million 40x long right before liquidation can strike](https://cryptoslate.com/bitcoin-whale-dumps-122-million-40x-long-before-liquidation-can-strike/)**
+**[Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion](https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion)**
 
-Bitcoin derivatives trader exits $122M Hyperliquid BTC long before the $61,605 liquidation level is reached.
+Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.
 
-CryptoSlate • 23h ago
+The Block • 1d ago
+
+---
+
+**[Bitcoin surge defies trade jitters, holds above $66K as Trump eyes new tariffs](https://seekingalpha.com/news/4615933-bitcoin-surge-defies-trade-jitters-holds-above-66k-as-trump-eyes-new-tariffs)**
+
+Seeking Alpha • 30m ago
+
+---
+
+**[$12 Trillion Asset Manager Vanguard Is Finally Embracing Digital Assets. Here's What That Could Mean for Crypto Investors.](https://www.fool.com/investing/2026/07/20/asset-manager-vanguard-embracing-digital-assets/)**
+
+The asset manager most reluctant to adopt crypto is now looking for someone to build its digital assets strategy.
+
+The Motley Fool • 18h ago
 
 ---
 
@@ -259,6 +253,14 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ---
 
+**[Show HN: Aeon.WorX – A generic object lifecycle management system (like PLM/PDM)](https://news.ycombinator.com/item?id=48992492)**
+
+Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
+
+⬆️ 2 • 💬 0 • 33m ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -269,7 +271,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 555 • 💬 269 • ⏱️ 11:10 • 21h ago
+👁️ 10K • 👍 564 • 💬 270 • ⏱️ 11:10 • 23h ago
 
 ---
 
@@ -279,27 +281,17 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 973 • 💬 62 • ⏱️ 11:59 • 11h ago
+👁️ 18K • 👍 1K • 💬 109 • ⏱️ 11:59 • 13h ago
 
 ---
 
-**[🚨 Bitcoin Is About to Catch Everyone Off Guard](https://www.youtube.com/watch?v=jxL61ni7Xso)**
+**[The $700 Billion Reason Bitcoin Is Going to a New ATH](https://www.youtube.com/watch?v=NUBh0YeUFao)**
 
-Bitcoin has traded sideways for nearly 60 days, but improving Bitcoin ETF inflows, extreme market fear, and major altcoin support ...
+The biggest advantage Bitcoin has isn't price, it's verification. As governments, central banks and legacy financial systems ...
 
-📺 DataDash
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 141 • 💬 68 • ⏱️ 16:33 • 20h ago
-
----
-
-**[🚨 BITCOIN: STOP EVERYTHING AND WATCH!!! (my most important video ever)](https://www.youtube.com/watch?v=zRRa5WhD1BQ)**
-
-Bitcoin sentiment remains bearish, but the herd might be wrong! This could be one of the most important #BTC videos ever!
-
-📺 Crypto Zombie
-
-👁️ 12K • 👍 1K • 💬 204 • ⏱️ 25:20 • 18h ago
+👁️ 27K • 👍 2K • 💬 169 • ⏱️ 15:42 • 1d ago
 
 ---
 
@@ -309,17 +301,17 @@ Bitcoin has traded inside the same range for 47 straight days as volatility fall
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 59 • ⏱️ 15:56 • 14h ago
+👁️ 18K • 👍 1K • 💬 62 • ⏱️ 15:56 • 17h ago
 
 ---
 
-**[Bitcoin&#39;s Bullish Setup Signals Explosion: Altcoins Have Broken Out](https://www.youtube.com/watch?v=1RqEqF3HH_s)**
+**[🚨 BITCOIN: STOP EVERYTHING AND WATCH!!! (my most important video ever)](https://www.youtube.com/watch?v=zRRa5WhD1BQ)**
 
-No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and the altcoin breakouts are lining up right behind it.
+Bitcoin sentiment remains bearish, but the herd might be wrong! This could be one of the most important #BTC videos ever!
 
-📺 Gareth Soloway
+📺 Crypto Zombie
 
-👁️ 51K • 👍 3K • 💬 130 • ⏱️ 13:27 • 20h ago
+👁️ 13K • 👍 1K • 💬 208 • ⏱️ 25:20 • 20h ago
 
 ---
 
@@ -329,7 +321,27 @@ Subscribe before the available Bitcoin disappears. For years, a $10 million Bitc
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 229 • 💬 112 • ⏱️ 17:05 • 13h ago
+👁️ 4K • 👍 234 • 💬 126 • ⏱️ 17:05 • 16h ago
+
+---
+
+**[Bitcoin&#39;s Bullish Setup Signals Explosion: Altcoins Have Broken Out](https://www.youtube.com/watch?v=1RqEqF3HH_s)**
+
+No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and the altcoin breakouts are lining up right behind it.
+
+📺 Gareth Soloway
+
+👁️ 54K • 👍 4K • 💬 139 • ⏱️ 13:27 • 22h ago
+
+---
+
+**[Bitcoin Is Breaking Out Right Now](https://www.youtube.com/watch?v=UwBGU5daqgA)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 4K • 👍 353 • 1h ago
 
 ---
 
@@ -339,7 +351,7 @@ Crypto News: Bitcoin crosses $65000 and altcoins are following with the charts l
 
 📺 Thinking Crypto
 
-👁️ 13K • 👍 991 • 💬 75 • ⏱️ 16:12 • 9h ago
+👁️ 16K • 👍 1K • 💬 236 • ⏱️ 16:12 • 12h ago
 
 ---
 
@@ -349,17 +361,7 @@ The Crypto Clarity Act is moving forward as the White House agrees to a new ethi
 
 📺 Crypto Capital Venture
 
-👁️ 23K • 👍 1K • 💬 261 • ⏱️ 7:37 • 11h ago
-
----
-
-**[He Bought Bitcoin the Moment It Dropped](https://www.youtube.com/watch?v=_QjFrMtF0kY)**
-
-Brian Preston (CFP®, CPA) and Bo Hanson (CFA®, CFP®) share professional insights to help you own your financial future.
-
-📺 The Money Guy Show
-
-👁️ 10K • 👍 108 • 💬 21 • ⏱️ 0:38 • 19h ago
+👁️ 26K • 👍 1K • 💬 283 • ⏱️ 7:37 • 13h ago
 
 ---
 
