@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-21T19:23:00.532506+00:00'
+updated: '2026-07-21T20:44:46.992117+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 21, 2026 at 19:23 UTC  
+**Last Updated:** July 21, 2026 at 20:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 I fought against Google’s Pentagon AI deal from the inside. Powerful people and institutions failed to keep their AI ethics promises under pressure.
 
-🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 8h ago
+🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 9h ago
 
 ---
 
 **[Half of us are using AI to write resumes, the other half is using AI to screen them, and I don't think anyone's actually looking at people anymore](https://www.reddit.com/r/artificial/comments/1v2pdze/half_of_us_are_using_ai_to_write_resumes_the/)**
 
-saw a stat this morning that's been bugging me all day. 47% of small businesses are using AI somewhere in HR now, screening resumes, onboarding, all that. fine whatever, expected at this point but then i saw the other half of it. more than half of applicants are using AI to write their resumes and cover letters too. linkedin is apparently getting like 11,000 applications a minute right now which is insane to even think about so just sit with that for a sec. candidate uses AI to write the resume, company uses AI to read it, and somewhere in between an actual person who might be genuinely good just gets a score slapped on them by two bots that never even talk to each other anyway the resume just isn't a signal anymore imo. it used to at least tell you who could write, who bothered to tailor it, who paid attention. now everyone's bullets are quantified and everyone reads like they came out of a mckinsey deck. the doc is flawless and somehow tells you nothing i've basically given up trying to win that game at this point. i skim resumes for like 20 seconds now, just enough to cut anyone wildly unqualified, and save the real energy for the interview i've got a few things i look for when i'm trying to spot the people who actually build stuff vs the ones just filling a seat. did they fix something nobody asked them to fix. will they push back on me instead of just nodding along. do they actually own the outcome or just the task problem is none of that shows up fast, takes time to actually see it in someone and it's genuinely hard to catch in one interview. but it's what i'm reaching for when the resume gives me nothing curious what everyone else is doing honestly, if the resume basically tells you nothing anymore what's actually replacing it for you
+saw a stat this morning that's been bugging me all day. 47% of small businesses are using AI somewhere in HR now, screening resumes, onboarding, all that. fine whatever, expected at this point but then i saw the other half of it. more than half of applicants are using AI to write their resumes and cover letters too. linkedin is apparently getting like 11,000 applications a minute right now which is insane to even think about so just sit with that for a sec. candidate uses AI to write the resume, company uses AI to read it, and somewhere in between an actual person who might be genuinely good just gets a score slapped on them by two bots that never even talk to each other anyway the resume just isn't a signal anymore imo. it used to at least tell you who could write, who bothered to tailor it, who paid attention. now everyone's bullets are quantified and everyone reads like they came out of a mckinsey deck. the doc is flawless and somehow tells you nothing i've basically given up trying to win that game at this point. i skim resumes for like 20 seconds now, just enough to cut anyone wildly unqualified, and save the real energy for the interview i've got a few things i look for when i'm trying to spot the people who actually build stuff vs the ones just filling a seat. did they fix something nobody asked them to fix. will they push back on me instead of just nodding along. do they actually own the outcome or just the task problem is none of that shows up fast, takes time to actually see it in someone and it's genuinely hard to catch in one interview. but it's what i'm reaching for when the resume gives me nothing curious what everyone else is doing honestly, if the resume basically tells you nothing anymore what's actually replacing it for you edit: this is basically the hiring version of what i write about every week. i run modern operators, a newsletter for founders trying to get out of the day to day grind of their business. one of the recurring topics is exactly this, the stuff that actually predicts whether someone can run without you (ownership, judgment, follow-through) never shows up in the polished version of anything, whether that's a resume or a status update. free to join here if that's useful for you.
 
-1h ago
+3h ago
 
 ---
 
@@ -57,7 +57,15 @@ saw a stat this morning that's been bugging me all day. 47% of small businesses 
 
 I use AI for research almost every day now, and it's amazing for getting a quick overview of a topic. But I've also noticed that once the questions become really specific, you eventually need input from someone who's actually done the work. That's especially true for industries where small details can completely change a decision. While reading about how companies solve that problem, I found Expert Network and thought the idea was pretty interesting. Instead of relying only on reports or public information, they connect with professionals who have direct experience in whatever niche they're researching. AI definitely makes learning faster, but real-world experience still feels like something technology can't fully replace.
 
-4h ago
+5h ago
+
+---
+
+**[Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?](https://www.reddit.com/r/artificial/comments/1v2sguf/microsoft_is_testing_a_chinese_model_kimi_inside/)**
+
+For a bit of context, I work at an agency, so I'm in and out of a dozen different AI tools every week across client projects: content, research, video, code, all of it. This is probably why I noticed this before most people (found these news while scrolling on LinkedIn today). When the ChatGPT hype first hit I genuinely cared which model I was on. Once GPT-4 landed and claude and gemini showed up, I'd switch between them constantly depending on the task, knowing what was under the hood felt like part of using it well. Now I catch myself using products with no idea what's running underneath. The news about Microsoft testing Kimi (Moonshot's model) inside Copilot is what made it click today. Copilot today is one model, six months from now it could be another, and most people won't notice or care. The model became a component, not the product. And honestly that's already how I use most of this stuff. Cursor for coding, Perplexity for research, Canva AI for design stuff, Argil when I'm turning a script into video. I couldn't tell you which model any of them swapped to last quarter, and it wouldn't change whether I keep paying. They're valuable because they solve one specific problem better than me duct-taping five tools together, not because of the model name on the box. Feels like we're moving from "which LLM is this?" to "did it actually save me time?" the same way nobody buying a laptop thinks about the chip anymore. Curious if others feel this shift. Do you still pick tools by the underlying model, or has that stopped mattering for you?
+
+1h ago
 
 ---
 
@@ -65,7 +73,7 @@ I use AI for research almost every day now, and it's amazing for getting a quick
 
 Like I have been listening that AI is expensive and companies are rehiring employees because of it. So is AI going to become cheaper eventually?
 
-5h ago
+6h ago
 
 ---
 
@@ -73,45 +81,37 @@ Like I have been listening that AI is expensive and companies are rehiring emplo
 
 Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-🔗 [Imgur](https://i.imgur.com/cSTIB4d.png) • 8h ago
+🔗 [Imgur](https://i.imgur.com/cSTIB4d.png) • 9h ago
 
 ---
 
-**[Looking for unique AI/ML project ideas (advanced level, research-worthy) — open to any field besides healthcare](https://www.reddit.com/r/artificial/comments/1v2a5z9/looking_for_unique_aiml_project_ideas_advanced/)**
+**[Is there such thing as a Ai stem splitter detector and if there isn't would it be possible?](https://www.reddit.com/r/artificial/comments/1v2ujo8/is_there_such_thing_as_a_ai_stem_splitter/)**
 
-Hey everyone, I'm working on a major/final-year AI/ML project and want to go beyond the usual "CNN on X-ray" or "chatbot with RAG" territory. Looking for something genuinely novel with a real use case — not just a rehash of a Kaggle tutorial. A bit about me/constraints: Comfort level: advanced, comfortable with deep learning, NLP, GNNs, etc. Timeframe: roughly a semester Open to any field — finance, agriculture, climate, cybersecurity, robotics, education, whatever has an interesting unsolved problem Ideally something with public datasets available (no lab/hardware access) Would love if it has a clear "why does this matter" story I can pitch to evaluators If you've seen a cool underexplored problem in a recent paper, worked on something similar, or have a "someone should really build this" idea sitting in your head — I'd love to hear it. Happy to share more details if anyone wants to dig in. Thanks in advance!
+Hello, I'm curious if there's a way to detect stems split by Ai (Eg splitting vocals from a song to get an instrumental/ other way around), since as of recent the instrumental splits are getting really good, like other than a bit of fuzz during certain parts, you can barely tell and there's a Ai detector for basically every other Ai medium, so i would be shocked if there wasn't but i haven't been able to see since all the results on web searches just bring up suno, ai text detectors or ai splitters themself, if there really isn't, is there a specific reason why they don't exist?
 
-13h ago
-
----
-
-**[Anthropic ramps up lobbying spending amid AI policy fights](https://www.reddit.com/r/artificial/comments/1v2s569/anthropic_ramps_up_lobbying_spending_amid_ai/)**
-
-🔗 [axios.com](https://www.axios.com/2026/07/21/anthropic-ramps-up-lobbying-spending-ai-policy-fights) • 10m ago
+6m ago
 
 ---
 
-**[New analysis highlights risks of US-China AI race narrative](https://www.reddit.com/r/artificial/comments/1v2r90z/new_analysis_highlights_risks_of_uschina_ai_race/)**
+**[An Interview With the Billionaire Whisperer Who Wants to Rank and Score Journalists](https://www.reddit.com/r/artificial/comments/1v2ugcn/an_interview_with_the_billionaire_whisperer_who/)**
 
-Influential voices in Silicon Valley have overstated the AI race with China as an existential rivalry, causing serious risks, a new study finds. But is Beijing downplaying it?
+"Primary is, according to D’Souza, an IMDb for journalists. Each article that a journalist writes is supposed to be assessed by an LLM and rated 0 to 1,000 based on seven combined metrics."
 
-🔗 [excitech.media](https://excitech.media/p/new-analysis-highlights-risks-of) • 41m ago
-
----
-
-**[(Cross-post: AI audience experiment) The Manager Who Declined](https://www.reddit.com/r/artificial/comments/1v2kck3/crosspost_ai_audience_experiment_the_manager_who/)**
-
-I wrote this article as a bit of an experiment. Specifically, I'm rejecting the purist view that writers should write without AI and avoid it to remain authentic. (This view is particularly common on LinkedIn, where people are concerned about losing their job to AI writers and AI-enhanced writing.) I think that human writers have a completely different challenge that matches the theme of this subreddit: AIs are a new intelligence and audience for all of us. And it happens that as they ingest information, that's one area of concern because they have to work through a lot of prose to get to the point and human intent. I wrote this article to present the intent first for an AI, but a human could also use it if they wanted an executive summary. The other reason why I wrote it in this way is to acknowledge that more and more of the human users are browsing the internet through their discussions with artificial intelligence. Artificial intelligence has become the filter for what is online, and it's proper, in my opinion, because of the vast scope and speed of how they can ingest and collate information and then present opinions and summaries. But that still doesn't excuse the human author. Metadata used to be just useful for tracking threads and adding information. The metadata now, specifically through markdown, is a means to convey intent before a story is ever told. And the two are not mutually exclusive: the AI sees the metadata, finds the main points, and can then read the story. But here's what I know: an AI cannot read anything through Substack; it has a far better chance doing that through the website instead. If you're interested in this experiment, please look at this article and decide how and whether you would share the information with your most trusted AI. Substack app version: https://open.substack.com/pub/atemplejar/p/the-manager-who-declined?utm\_source=share&utm\_medium=android&r=54t426 Alternative web version available at: https://atemplejar.substack.com/p/the-manager-who-declined (for the AI). Thank you. I'd love to know your thoughts about AI as the second intelligence that we must create online content for.
-
-🔗 [atemplejar.substack.com](https://atemplejar.substack.com/p/the-manager-who-declined) • 4h ago
+🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/an-interview-with-aron-dsouza-objection-primary-journalism) • 9m ago
 
 ---
 
-**[What long term memory architectures for agent and underlying infrastructure are you using?](https://www.reddit.com/r/artificial/comments/1v2q4ye/what_long_term_memory_architectures_for_agent_and/)**
+**[Will the future of AI-assisted art/video depend on prompting skills or just who can afford more tokens.](https://www.reddit.com/r/artificial/comments/1v2tt18/will_the_future_of_aiassisted_artvideo_depend_on/)**
 
-I have seen a lot of different ways of implementing long term memory for agents and curious to know which mechanism works better for different usecases and what infrastructure are people using. For me the architecture that has been most robust but more token heavy is agent as memory controller and is built on neon postgres - agent has tools to add memory entries with tools (save, list, update, delete, search) represented as heirarchial directory memories/topic/sub-topic.md backed by serverless postgres for it's scale to zero, instant branching for evals/debugging etc
+There's a lot of prompt engineering happening nowadays in AI assisted art/video making, app design and other fields and this is valuable skill that separates good AI from mediocre AI. But I keep wondering if that's a temporary phase rather than a long lasting advantage. As generation engines get more expensive to run at higher adherence to prompts, longer context, more iterations, higher resolution, the real differentiator might stop being who can write better prompts and understands the model better and start being who can simply afford to burn more tokens. For an AI artist with a modest budget using the perfect prompt on the first few tries might not be enough if there is someone with deep pockets who can force hundreds of variations, run every idea through multiple engines, upscale everything, and iterate until they land on something better, regardless of whether their prompting was any good. If that's where this is heading prompting skill becomes a nice-to-have rather than the actual moat, and the gap between professional studios and independent artists could widen based purely on compute spend rather than creative or technical ability. If AI art goes this way, we might see a distinction where independent artists become good at working within constrained tools and resources while studios and well funded creators can just throw money at the problem until quality differences show up. There's a moral tension in all this. AI tools were supposed to lower the barrier to entry, letting people without formal training or big budgets make things they couldn't before. And in a lot of ways they have. But if the ceiling on quality ends up being dependent on who can afford more tokens and compute, then one barrier of technical skill and training is being replaced with another barrier of raw spending power. That feels like a strange outcome for a technology that markets itself as equalising creativity. So is skill going to matter less over time or will the tools get cheap enough that this concern won't really matter.
 
-1h ago
+32m ago
+
+---
+
+**[OpenAI renews $5M bet on local news](https://www.reddit.com/r/artificial/comments/1v2sn86/openai_renews_5m_bet_on_local_news/)**
+
+🔗 [axios.com](https://www.axios.com/2026/07/21/openai-local-news-american-journalism-project) • 1h ago
 
 ---
 
@@ -123,19 +123,65 @@ I have seen a lot of different ways of implementing long term memory for agents 
 
 We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
 
-blog.google • 3h ago
+blog.google • 5h ago
 
 ---
 
 **[Google Releases Three New A.I. Models](https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
-**[Letter: I asked Google for help and got the AI assistant runaround](https://www.adn.com/opinions/letters/2026/07/21/letter-i-asked-google-for-help-and-got-the-ai-assistant-runaround/)**
+**[Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)**
 
-Anchorage Daily News • 1h ago
+Google says Gemini 3.5 Flash Cyber found 55 confirmed V8 issues and will enter a limited CodeMender pilot for governments and trusted partners.
+
+The Hacker News • 5h ago
+
+---
+
+**[AI stocks gather more strength, even as Brent oil’s price nears $92](https://apnews.com/article/stock-markets-ai-oil-iran-trump-30c42bb51683c4b43c9f64dfeff7a3ea)**
+
+More gains for makers of computer chips and other AI winners carried Wall Street higher. The S&amp;P 500 rose 0.9% Tuesday.
+
+AP News • 2h ago
+
+---
+
+**[Here's our advice for investors looking to buy the dip in volatile AI stocks](https://www.cnbc.com/2026/07/20/jim-cramers-advice-for-investors-looking-to-buy-ai-stocks.html)**
+
+When trading in a sector, industry, or stock changes dramatically, as it has with the hyperscalers and AI stocks in recent days, you must change your scales.
+
+CNBC • 1d ago
+
+---
+
+**[Warren Buffett's Berkshire Hathaway Owns Zero Pure-Play AI Stocks. But This 2016 Acquisition Gives It Exposure to the Data Center Boom.](https://finance.yahoo.com/technology/ai/articles/warren-buffetts-berkshire-hathaway-owns-202500994.html)**
+
+A Berkshire acquisition from 10 years ago gives the Oracle of Omaha's conglomerate exposure to the data center proliferation trend.
+
+Yahoo Finance • 19m ago
+
+---
+
+**[OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)**
+
+OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
+
+OpenAI • 34m ago
+
+---
+
+**[Oklo, X-Energy Join Trump Effort to Speed New Nuclear Reactors for AI](https://www.bloomberg.com/news/articles/2026-07-21/oklo-x-energy-join-trump-effort-to-speed-new-nuclear-reactors-for-ai)**
+
+Bloomberg.com • 18m ago
+
+---
+
+**[China’s grand AI showcase](https://www.politico.com/newsletters/digital-future-daily/2026/07/21/chinas-grand-ai-showcase-01006172)**
+
+Politico • 44m ago
 
 ---
 
@@ -143,51 +189,7 @@ Anchorage Daily News • 1h ago
 
 Treasury Secretary Scott Bessent said the Trump administration is looking into whether Chinese open source AI models were built on stolen IP.
 
-Business Insider • 3h ago
-
----
-
-**[Bessent says U.S. could sanction China over AI model 'theft'](https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html)**
-
-Chinese open-weight models are gaining steam against leading offerings from American companies like OpenAI and Anthropic.
-
-CNBC • 6h ago
-
----
-
-**[It’s Official: AI Execs Are Quaking in Their Boots](https://futurism.com/artificial-intelligence/ai-execs-quaking-boots-chinese-models)**
-
-Executives at both OpenAI and Anthropic are sounding alarm at the latest threat in the form of a powerful Chinese open-weight AI model.
-
-Futurism • 27m ago
-
----
-
-**[Anthropic ramps up lobbying spending amid AI policy fights](https://www.axios.com/2026/07/21/anthropic-ramps-up-lobbying-spending-ai-policy-fights)**
-
-Axios • 30m ago
-
----
-
-**[In AI-generated ad, Crist blasts Welch for ‘not showing up to work’](https://www.tampabay.com/news/florida-politics/elections/2026/07/21/charlie-crist-ai-ad-ken-welch-34-video/)**
-
-Political candidates across the board are turning to AI-generated content to boost their campaigns.
-
-Tampa Bay Times • 9m ago
-
----
-
-**[AI job loss fears are shifting as economists sound the alarm](https://qz.com/ai-job-loss-fears-economists-sound-the-alarm)**
-
-Quartz is a guide to the new global economy for people who are excited by change. We cover business, finance, economics, technology, lifestyle, and leadership.
-
-qz.com • 36m ago
-
----
-
-**[Wetzel: UM could have run this investigation through AI instead](https://www.espn.com/college-football/story/_/id/49418138/um-run-investigation-ai)**
-
-ESPN • 1h ago
+Business Insider • 5h ago
 
 ---
 
@@ -199,7 +201,7 @@ ESPN • 1h ago
 
 China's open-weights AI strategy is winning: its companies are taking the lead. America's closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.
 
-⬆️ 1198 • 💬 910 • 1d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+⬆️ 1206 • 💬 912 • 1d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
 ---
 
@@ -207,7 +209,7 @@ China's open-weights AI strategy is winning: its companies are taking the lead. 
 
 The sky (and your endurance) is the limit!
 
-⬆️ 827 • 💬 160 • 1d ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 828 • 💬 160 • 1d ago • [Airport Simulator](https://airport.apunen.com/)
 
 ---
 
@@ -221,7 +223,7 @@ No more AI-edited listings without disclosures.
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 445 • 💬 286 • 2d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 446 • 💬 286 • 2d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -229,7 +231,7 @@ No more AI-edited listings without disclosures.
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-⬆️ 361 • 💬 209 • 1d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+⬆️ 362 • 💬 209 • 1d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
 
 ---
 
@@ -237,7 +239,7 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows
 
-⬆️ 331 • 💬 227 • 15h ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
+⬆️ 339 • 💬 233 • 16h ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
 
 ---
 
@@ -255,7 +257,7 @@ Over the past 48 hours, demand has pushed close to the limits of our current cap
 
 We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.
 
-⬆️ 237 • 💬 161 • 1d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
+⬆️ 238 • 💬 162 • 1d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 
 ---
 
@@ -267,9 +269,11 @@ Which way to the Land of the Free again?
 
 ---
 
-**[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)**
+**[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://news.ycombinator.com/item?id=48995213)**
 
-⬆️ 97 • 💬 99 • 1d ago
+Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
+
+⬆️ 129 • 💬 115 • 3h ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
 ---
 
@@ -277,13 +281,23 @@ Which way to the Land of the Free again?
 
 ## YouTube Videos: "ai"
 
-**[Kimi K3 Gets Shut Down... Then China Drops Another AI Winner!](https://www.youtube.com/watch?v=EenYgrkqzE0)**
+**[The AI Industry Just Got What It Deserved](https://www.youtube.com/watch?v=9nUmVktlwvA)**
 
-Moonshot paused new Kimi K3 subscriptions after extreme demand pushed its computing systems to the limit. But almost ...
+The people who built the attention economy barely let their own children near it, and that hypocrisy is only the beginning.
 
-📺 AI Revolution
+📺 House of El: AI
 
-👁️ 43K • 👍 1K • 💬 96 • ⏱️ 16:39 • 19h ago
+👁️ 154K • 👍 12K • 💬 3K • ⏱️ 24:19 • 1d ago
+
+---
+
+**[The Tiny AI Stock Behind Apple’s Future Robot](https://www.youtube.com/watch?v=WASk-w7CCvQ)**
+
+Get New Space Ebook Series: https://dmrieger.gumroad.com/l/jbtlh Alexander Green claims Apple is preparing to enter the ...
+
+📺 Dylan Rieger
+
+👁️ 907 • 👍 106 • 💬 7 • ⏱️ 9:53 • 4h ago
 
 ---
 
@@ -291,7 +305,27 @@ Moonshot paused new Kimi K3 subscriptions after extreme demand pushed its comput
 
 📺 Zack D. Films
 
-👁️ 2.5M • 👍 174K • 💬 8K • ⏱️ 0:46 • 2d ago
+👁️ 2.5M • 👍 178K • 💬 9K • ⏱️ 0:46 • 2d ago
+
+---
+
+**[AI Race: Chinese open models just got real..](https://www.youtube.com/watch?v=5UU9bZ4p6Vo)**
+
+Link: https://mem0.ai/?via=caleb CALEB $19 USD off on all payments within the first 3 months AI Race between open vs closed ...
+
+📺 Caleb Writes Code
+
+👁️ 30K • 👍 781 • 💬 135 • ⏱️ 8:40 • 1d ago
+
+---
+
+**[SpaceX Stock Crashes Nearly 50% | AI Bubble Bursting?](https://www.youtube.com/watch?v=-gGa-bl0Jzo)**
+
+John Johnston (JJ) breaks down how SpaceX stock has gone down nearly 50% from the high it set just days after its historic IPO ...
+
+📺 The John Johnston Lounge
+
+👁️ 17K • 👍 1K • 💬 291 • ⏱️ 19:16 • 9h ago
 
 ---
 
@@ -301,67 +335,17 @@ On July 17, the Shanghai Pudong World Expo Center hosted a heavily promoted even
 
 📺 China Observer
 
-👁️ 37K • 👍 2K • 💬 405 • ⏱️ 16:56 • 2d ago
+👁️ 37K • 👍 2K • 💬 408 • ⏱️ 16:56 • 2d ago
 
 ---
 
-**[America Is Now Building Humanoid AI Robot Soldiers for War](https://www.youtube.com/watch?v=Qm64Vm-lf80)**
+**[Kimi K3 Gets Shut Down... Then China Drops Another AI Winner!](https://www.youtube.com/watch?v=EenYgrkqzE0)**
 
-An American robotics startup is preparing humanoid AI robots for war. Its Phantom machines have already been tested in Ukraine, ...
+Moonshot paused new Kimi K3 subscriptions after extreme demand pushed its computing systems to the limit. But almost ...
 
 📺 AI Revolution
 
-👁️ 22K • 👍 666 • 💬 102 • ⏱️ 13:15 • 2d ago
-
----
-
-**[AI Companies Are Terrified.](https://www.youtube.com/watch?v=eLCF6LdkzAQ)**
-
-Thanks to Micro Center for sponsoring this video! Shop Back to School Tech Deals: https://micro.center/a6ef91 Sign up for a FREE ...
-
-📺 TechLinked
-
-👁️ 270K • 👍 15K • 💬 934 • ⏱️ 8:30 • 18h ago
-
----
-
-**[America got lost in the AI economy](https://www.youtube.com/watch?v=exADFdusNI8)**
-
-I explain the news, you stay sane. ✓ Support independent news ...
-
-📺 Chris Norlund
-
-👁️ 105K • 👍 5K • 💬 872 • ⏱️ 13:51 • 1d ago
-
----
-
-**[South Korea’s AI Bubble Just Popped](https://www.youtube.com/watch?v=hy90LdpEUvQ)**
-
-South Korea's AI Bubble Just Popped ▻ Get 20% off DeleteMe US consumer plans when you go to ...
-
-📺 Andrei Jikh
-
-👁️ 1.5M • 👍 44K • 💬 3K • ⏱️ 25:10 • 1d ago
-
----
-
-**[Urgent Update- AI Sputnik Moment: Kimi K3 Released w/ Emad Mostaque | Ep. 272](https://www.youtube.com/watch?v=pSUyLfirP8Y)**
-
-The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik Moment of Kimi K3 being released. Get access ...
-
-📺 Peter H. Diamandis
-
-👁️ 248K • 👍 6K • 💬 1K • ⏱️ 2:07:31 • 2d ago
-
----
-
-**[️ AI Mastery Workshop LIVE - Seats Filling Fast!](https://www.youtube.com/watch?v=D-PynhSRfVs)**
-
-Book your tickets here https://aifreedomlife.com/ ONLY 20 SEATS AVAILABLE.
-
-📺 Website Learners
-
-👁️ 468 • 👍 19 • 💬 5 • ⏱️ 6:08 • 5h ago
+👁️ 46K • 👍 1K • 💬 107 • ⏱️ 16:39 • 20h ago
 
 ---
 
@@ -371,7 +355,27 @@ Chinese startup Moonshot is preparing to release its AI model Kimi K3, which it 
 
 📺 ABC News (Australia)
 
-👁️ 17K • 👍 220 • ⏱️ 4:58 • 10h ago
+👁️ 18K • 👍 226 • ⏱️ 4:58 • 11h ago
+
+---
+
+**[South Korea’s AI Bubble Just Popped](https://www.youtube.com/watch?v=hy90LdpEUvQ)**
+
+South Korea's AI Bubble Just Popped ▻ Get 20% off DeleteMe US consumer plans when you go to ...
+
+📺 Andrei Jikh
+
+👁️ 1.6M • 👍 46K • 💬 3K • ⏱️ 25:10 • 1d ago
+
+---
+
+**[Urgent Update- AI Sputnik Moment: Kimi K3 Released w/ Emad Mostaque | Ep. 272](https://www.youtube.com/watch?v=pSUyLfirP8Y)**
+
+The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik Moment of Kimi K3 being released. Get access ...
+
+📺 Peter H. Diamandis
+
+👁️ 254K • 👍 6K • 💬 1K • ⏱️ 2:07:31 • 2d ago
 
 ---
 
@@ -387,7 +391,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 16,441 • ❤️ 1,334 • 1d ago
+⬇️ 16,441 • ❤️ 1,346 • 1d ago
 
 ---
 
@@ -399,7 +403,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 432,196 • ❤️ 887 • 3d ago
+⬇️ 432,196 • ❤️ 895 • 3d ago
 
 ---
 
@@ -411,7 +415,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,237,351 • ❤️ 2,578 • 8h ago
+⬇️ 2,237,351 • ❤️ 2,593 • 10h ago
 
 ---
 
@@ -423,7 +427,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,404,962 • ❤️ 565 • 4d ago
+⬇️ 1,404,962 • ❤️ 570 • 4d ago
 
 ---
 
@@ -435,7 +439,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 545,109 • ❤️ 4,259 • 19d ago
+⬇️ 545,109 • ❤️ 4,268 • 19d ago
 
 ---
 
@@ -447,7 +451,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 62,842 • ❤️ 220 • 1d ago
+⬇️ 62,842 • ❤️ 228 • 1d ago
 
 ---
 
@@ -459,17 +463,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,133,420 • ❤️ 2,381 • 7d ago
-
----
-
-**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
-
-*Lars Bouaraba *
-
-Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
-
-⬇️ 0 • ❤️ 470 • 4h ago
+⬇️ 2,133,420 • ❤️ 2,385 • 7d ago
 
 ---
 
@@ -481,7 +475,17 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,997,690 • ❤️ 2,958 • 3mo ago
+⬇️ 1,997,690 • ❤️ 2,967 • 3mo ago
+
+---
+
+**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
+
+*Lars Bouaraba *
+
+Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
+
+⬇️ 0 • ❤️ 471 • 5h ago
 
 ---
 
@@ -493,7 +497,7 @@ OvisOCR2 is a compact 0.8B multimodal model for end-to-end document parsing, gen
 
 `image-text-to-text` `853.0M`
 
-⬇️ 17,162 • ❤️ 231 • 5d ago
+⬇️ 17,162 • ❤️ 234 • 5d ago
 
 ---
 
@@ -523,7 +527,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 55 • 💬 5 • ⭐ 15,867 • 29d ago
+▲ 55 • 💬 5 • ⭐ 15,867 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -600,7 +604,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative instructions that humans naturally use to prompt robots. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where a stronger pre-training model yields better out-of-the-box real-robot performance in unseen environments. Furthermore, Xiaomi-Robotics-1 serves as a strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes a new state-of-the-art with a 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html
 
-▲ 59 • 💬 2 • ⭐ 199 • 5d ago
+▲ 59 • 💬 2 • ⭐ 199 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.15330) • [💻 code](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1) • [🔗 project](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
 
@@ -612,7 +616,7 @@ We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model 
 
 Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fidelity and accurate interaction patterns between humans and diverse objects, especially when objects represent abstract concepts such as logos. Second, while intra-subject references (e.g., OCR maps, multi-view inputs) are expected to enhance subject fidelity, most existing works lack mechanisms to understand such latent correspondence. To address both challenges, we propose HOMIE, an HOCVP framework that tackles both inter- and intra-subject input settings in a unified manner. Compared to previous approaches, HOMIE proposes a better MLLM integration strategy to extract knowledge of reference-level relationships without compromising the controllability of text encoders or incurring costly re-alignment. Specifically, we introduce global multimodal guidance within self-attention to better align MLLM-derived semantic features with VAE tokens. Furthermore, we propose modality-reference embedding to differentiate tokens from MLLM features and VAE tokens and associate intra-subject reference image tokens. Extensive experiments validate that our method achieves state-of-the-art performance across various HOCVP tasks. Project Page: https://yiyangcai.github.io/homie-page.github.io/
 
-▲ 46 • 💬 1 • ⭐ 68 • 1d ago
+▲ 46 • 💬 1 • ⭐ 68 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.18217) • [💻 code](https://github.com/YIYANGCAI/HOMIE) • [🔗 project](https://yiyangcai.github.io/homie-page.github.io/)
 
@@ -641,7 +645,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.1k • 🔱 1.0k • 21h ago
+⭐ 5.1k • 🔱 1.0k • 22h ago
 
 ---
 
@@ -651,7 +655,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 233 • 7h ago
+⭐ 3.1k • 🔱 235 • 8h ago
 
 ---
 
@@ -661,7 +665,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 373 • 4d ago
+⭐ 2.7k • 🔱 373 • 2h ago
 
 ---
 
@@ -701,7 +705,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 942 • 🔱 155 • 7h ago
+⭐ 943 • 🔱 155 • 9h ago
 
 ---
 
@@ -711,7 +715,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 939 • 🔱 210 • 10d ago
+⭐ 940 • 🔱 210 • 10d ago
 
 ---
 
@@ -729,7 +733,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 868 • 🔱 100 • 2h ago
+⭐ 869 • 🔱 100 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T19:23:00.547413+00:00'
+updated: '2026-07-21T20:44:47.006551+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 19:23 UTC  
+**Last Updated:** July 21, 2026 at 20:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +0.1%  
-**30d:** +11.2%  
+**24h:** +1.0%  
+**7d:** +0.2%  
+**30d:** +11.3%  
 **90d:** -17.5%  
 **1y:** -48.7%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.77B
+**Market Cap:** $232.17B
 Rank #2
 
 **Circulating Supply:** 120,682,803 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.1%
 
 **All-Time Low:** $0.43
-+443459.6%
++444217.2%
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 1d ago
 
 Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 6h ago
 
 Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -192,13 +192,13 @@ The Motley Fool • 1d ago
 
 DUBAI, United Arab Emirates, July  21, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), a crypto built on the Ethereum network, has announced the openi...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
 **[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
 
-thestreet.com • 3h ago
+thestreet.com • 4h ago
 
 ---
 
@@ -216,11 +216,11 @@ CCN.com • 1d ago
 
 ---
 
-**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60568312/bitcoin-ethereum-xrp-dogecoin-price-analysis-us-iran-tensions)**
+**[Ethereum Price Prediction: ETH Chart Clears Its Year-Long Downtrend as Standard Chartered and Citi Split on 2026 Targets](https://www.financemagnates.com/trending/ethereum-price-prediction-eth-chart-clears-its-year-long-downtrend-as-standard-chartered-and-citi-split-on-2026-targets/)**
 
-Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
+Tuesday's session is doing what last week's could not: putting bitcoin's chip-driven rebound to work across the rest of crypto. Ethereum ( ETH ) is trading at $1,932 on Tuesday, July 21, 2026, up n...
 
-Benzinga • 17h ago
+Finance Magnates • 10h ago
 
 ---
 
@@ -228,43 +228,23 @@ Benzinga • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
-
-Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
-
-📺 Thinking Crypto
-
-👁️ 1K • 👍 110 • 💬 31 • ⏱️ 17:49 • 7h ago
-
----
-
-**[Everyone Hates Ethereum… That’s The Point](https://www.youtube.com/watch?v=9XZNRYVsEcQ)**
-
-In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. It ran to $126000. Right now, Ethereum is down ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 585 • 💬 53 • ⏱️ 11:56 • 1d ago
-
----
-
-**[Are You Paying Attention To ETH Yet?](https://www.youtube.com/watch?v=SY6CA9VfWAU)**
-
-Aaron Dishner walks through Ethereum's recent price action, noting last week's roughly 6% pullback from 1921 to 1800 and the ...
-
-📺 Coin Bureau Trading
-
-👁️ 3K • 👍 277 • 💬 25 • ⏱️ 16:28 • 12h ago
-
----
-
 **[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=flWpcHoofDw)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 291 • 👍 25 • ⏱️ 19:54 • 2h ago
+👁️ 2K • 👍 127 • 💬 59 • ⏱️ 19:54 • 3h ago
+
+---
+
+**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
+
+Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 126 • 💬 36 • ⏱️ 17:49 • 8h ago
 
 ---
 
@@ -274,7 +254,27 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 82K • 👍 4K • 💬 217 • ⏱️ 17:58 • 1d ago
+👁️ 84K • 👍 5K • 💬 219 • ⏱️ 17:58 • 1d ago
+
+---
+
+**[Everyone Hates Ethereum… That’s The Point](https://www.youtube.com/watch?v=9XZNRYVsEcQ)**
+
+In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. It ran to $126000. Right now, Ethereum is down ...
+
+📺 Lark Davis
+
+👁️ 12K • 👍 591 • 💬 54 • ⏱️ 11:56 • 1d ago
+
+---
+
+**[Ethereum is About to Shock the Crypto Market!](https://www.youtube.com/watch?v=XpSEaWtvIMw)**
+
+In today's episode, Ran breaks down why the recent market rally could be more than just another short-lived bounce. He explores ...
+
+📺 Crypto Banter
+
+👁️ 12K • 👍 840 • 💬 13 • ⏱️ 33:40 • 6h ago
 
 ---
 
@@ -284,17 +284,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 154 • 💬 16 • ⏱️ 16:17 • 1d ago
+👁️ 4K • 👍 156 • 💬 13 • ⏱️ 16:17 • 2d ago
 
 ---
 
-**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
+**[Are You Paying Attention To ETH Yet?](https://www.youtube.com/watch?v=SY6CA9VfWAU)**
 
-INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
+Aaron Dishner walks through Ethereum's recent price action, noting last week's roughly 6% pullback from 1921 to 1800 and the ...
 
-📺 CryptoWendyO
+📺 Coin Bureau Trading
 
-👁️ 3K • 👍 189 • 💬 25 • ⏱️ 11:23 • 1d ago
+👁️ 4K • 👍 302 • 💬 28 • ⏱️ 16:28 • 14h ago
 
 ---
 
@@ -304,27 +304,27 @@ Bitcoin, Ethereum and Solana trade management: how to handle a position after yo
 
 📺 Chart Champions
 
-👁️ 1K • 👍 145 • 💬 12 • ⏱️ 16:05 • 4h ago
+👁️ 2K • 👍 182 • 💬 11 • ⏱️ 16:05 • 5h ago
 
 ---
 
-**[BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=imhCCgZ0OHc)**
+**[The Ethereum Bitcoin Chart Just Flashed A Rare Buy Signal](https://www.youtube.com/watch?v=J6JrVL-_YWk)**
 
-BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+The Ethereum Bitcoin ratio just printed a weekly MACD bull cross. The last time this happened the ratio surged 132 percent.
 
-📺 Crypto World
+📺 Lark Davis
 
-👁️ 6K • 👍 292 • 💬 340 • ⏱️ 21:43 • 22h ago
+👁️ 1K • 👍 48 • 💬 4 • ⏱️ 0:40 • 4h ago
 
 ---
 
-**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
+**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
 
-You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
+INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
 
-📺 The Modern Investor
+📺 CryptoWendyO
 
-👁️ 5K • 👍 594 • 💬 281 • ⏱️ 30:25 • 2d ago
+👁️ 3K • 👍 190 • 💬 25 • ⏱️ 11:23 • 1d ago
 
 ---
 
