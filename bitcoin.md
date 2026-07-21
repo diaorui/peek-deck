@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-21T16:23:09.083368+00:00'
+updated: '2026-07-21T17:53:23.595251+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 16:23 UTC  
+**Last Updated:** July 21, 2026 at 17:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,679.65
+### $66,315.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +2.8%  
-**30d:** +4.0%  
-**90d:** -14.9%  
-**1y:** -44.5%  
+**24h:** +1.6%  
+**7d:** +2.3%  
+**30d:** +3.5%  
+**90d:** -15.3%  
+**1y:** -44.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1338.39B
+**Market Cap:** $1328.88B
 Rank #1
 
-**Circulating Supply:** 20,059,387 BTC
+**Circulating Supply:** 20,059,440 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--47.1%
+-47.4%
 
 **All-Time Low:** $67.81
-+98325.0%
++97652.5%
 
 ---
 
@@ -159,37 +159,49 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
+**[Live markets: Bitcoin rises to five-week high above $66,400 on rising hope for Clarity Act](https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april)**
 
-Bloomberg.com • 1h ago
+The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.
 
----
-
-**[Why bitcoin is the better form of hard money than gold](https://finance.yahoo.com/video/why-bitcoin-better-form-hard-180000609.html)**
-
-Scott Melker discusses where the currency prospects of bitcoin (BTC-USD) historically stand when compared to the likes of gold (GC=F), which once backed the US dollar.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Just Reclaimed $65k: Why This Could Be the Market’s Biggest Turning Point Yet](https://bitcoinfoundation.org/news/analysis/bitcoin-just-reclaimed-65k-why-this-could-be-the-markets-biggest-turning-point-yet/)**
+**[Bitcoin hits 5-week high: Investor's next move](https://www.cnbc.com/video/2026/07/21/bitcoin-hits-5-week-high-investors-next-move.html)**
 
-Find out why Bitcoin has reclaimed $65,000 and what possible further scenarios are likely to happen to BTC
+CNBC’s Oliver Renick joins ‘Halftime Report’ to discuss the latest Options Action in the crypto space.
 
-Bitcoin Foundation • 3h ago
+CNBC • 50m ago
 
 ---
 
-**[Michael Saylor warns against changing Bitcoin's core rules](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-warns-against-changing-160521890.html)**
+**[Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses](https://finance.yahoo.com/markets/crypto/articles/jack-mallers-quits-twenty-one-160620005.html)**
 
-Michael Saylor drew a sharp philosophical line on Tuesday, warning the Bitcoin community against the impulse to change the network's rules to prevent uses others disapprove of, and naming a specific proposal he believes crosses that line. In a post on X, Saylor singled out BIP 110, a proposed ...
+XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.
 
-Yahoo Finance • 17m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin](https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin)**
+
+Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.
+
+CoinDesk • 1h ago
+
+---
+
+**[Trump Oversees Ethics Provisions As Clarity Act Nears Vote](https://www.investors.com/news/clarity-act-cryptocurrency-market-structure-trump-ethics-senate/)**
+
+Investor's Business Daily • 4h ago
+
+---
+
+**[Galaxy Launches Bitcoin Quantum Readiness Initiative to Protect Bitcoin's Cryptographic Foundations](https://www.galaxy.com/newsroom/galaxy-launches-bitcoin-quantum-readiness-initiative)**
+
+Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
+
+galaxy.com • 5h ago
 
 ---
 
@@ -197,7 +209,23 @@ Yahoo Finance • 17m ago
 
 Jack Mallers has stepped down as CEO of bitcoin treasury Twenty One.
 
-Bitcoin Magazine • 4h ago
+Bitcoin Magazine • 5h ago
+
+---
+
+**[Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls](https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls)**
+
+The proposed three-way merger between Twenty One Capital, Strike, and Elektron Energy has been abandoned, with Strike no longer participating.
+
+CoinDesk • 5h ago
+
+---
+
+**[Jack Mallers leaves Twenty One as Strike exits Tether's three-way bitcoin merger](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)**
+
+Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
+
+The Block • 4h ago
 
 ---
 
@@ -206,34 +234,6 @@ Bitcoin Magazine • 4h ago
 Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.
 
 The Block • 1d ago
-
----
-
-**[Bitcoin’s Progress Holds The Secret To The AI Boom](https://www.forbes.com/sites/digital-assets/2026/07/19/bitcoins-progress--holds-the-secret-to-the-ai-boom/)**
-
-They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
-
-Forbes • 2d ago
-
----
-
-**[Bitcoin and gold are both down YTD; this has never happened before in a year](https://seekingalpha.com/news/4615494-bitcoin-and-gold-are-both-down-ytd-this-has-never-happened-before-in-a-year)**
-
-Seeking Alpha • 23h ago
-
----
-
-**[Standard Chartered Renews Call for $100,000 Bitcoin by End of 2026. Here's the Most Likely Scenario](https://www.fool.com/investing/2026/07/20/standard-chartered-renews-call-for-100000-bitcoin/)**
-
-Standard Chartered doesn't think Bitcoin investors will need to wait much longer for a recovery.
-
-The Motley Fool • 1d ago
-
----
-
-**[Hyperscale Data Bitcoin Treasury Reaches 1,087 Bitcoin Worth Approximately $70.3 Million](https://www.morningstar.com/news/pr-newswire/20260721sf08735/hyperscale-data-bitcoin-treasury-reaches-1087-bitcoin-worth-approximately-703-million)**
-
-Morningstar • 5h ago
 
 ---
 
@@ -257,11 +257,19 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 ---
 
+**[Jack Mallers leaves Twenty One as Strike exits Tether's three-way Bitcoin merger](https://news.ycombinator.com/item?id=48995497)**
+
+Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
+
+⬆️ 1 • 💬 0 • 19m ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+
+---
+
 **[Show HN: Aeon.WorX – A generic object lifecycle management system (like PLM/PDM)](https://news.ycombinator.com/item?id=48992492)**
 
 Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
 
-⬆️ 2 • 💬 0 • 2h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+⬆️ 2 • 💬 0 • 3h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
 
 ---
 
@@ -269,53 +277,33 @@ Every artifact in your product lifecycle gets a governed home — with lifecycle
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Has NEVER Done This Before. | Crypto Whales Are Accumulating Like They Know](https://www.youtube.com/watch?v=JqhbPwytCQc)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Whales ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 564 • 💬 270 • ⏱️ 11:10 • 1d ago
-
----
-
 **[Bitcoin Investors...HUGE UPDATE on Clarity Act](https://www.youtube.com/watch?v=lmLt_D2s2hk)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 109 • ⏱️ 11:59 • 15h ago
+👁️ 21K • 👍 1K • 💬 166 • ⏱️ 11:59 • 16h ago
 
 ---
 
-**[The $700 Billion Reason Bitcoin Is Going to a New ATH](https://www.youtube.com/watch?v=NUBh0YeUFao)**
+**[Bitcoin Holders: Bitcoin Is Rallying (Here&#39;s My Plan Going Forward)](https://www.youtube.com/watch?v=6XHvnLUKDCM)**
 
-The biggest advantage Bitcoin has isn't price, it's verification. As governments, central banks and legacy financial systems ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
 
-📺 Simply Bitcoin
+📺 Aaron Bennett
 
-👁️ 27K • 👍 2K • 💬 169 • ⏱️ 15:42 • 1d ago
-
----
-
-**[Bitcoin is Eerily Quiet.. Are We in the Calm Before the Storm?](https://www.youtube.com/watch?v=Nujcilo9Nus)**
-
-Bitcoin has traded inside the same range for 47 straight days as volatility falls to cycle lows—but beneath the surface, macro risk, ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 1K • 💬 62 • ⏱️ 15:56 • 19h ago
+👁️ 3K • 👍 243 • 💬 27 • ⏱️ 9:57 • 10h ago
 
 ---
 
-**[🚨 BITCOIN: STOP EVERYTHING AND WATCH!!! (my most important video ever)](https://www.youtube.com/watch?v=zRRa5WhD1BQ)**
+**[Trump Just Said It... [Bitcoin Holders Pay Attention]](https://www.youtube.com/watch?v=0SeWQaQypyo)**
 
-Bitcoin sentiment remains bearish, but the herd might be wrong! This could be one of the most important #BTC videos ever!
+Trump backs Clarity Act, BTC, ETH, Uniswap charts! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto Zombie
+📺 Lark Davis
 
-👁️ 13K • 👍 1K • 💬 208 • ⏱️ 25:20 • 22h ago
+👁️ 8K • 👍 558 • 💬 48 • ⏱️ 13:44 • 5h ago
 
 ---
 
@@ -325,47 +313,63 @@ Subscribe before the available Bitcoin disappears. For years, a $10 million Bitc
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 234 • 💬 126 • ⏱️ 17:05 • 18h ago
+👁️ 4K • 👍 242 • 💬 126 • ⏱️ 17:05 • 19h ago
 
 ---
 
-**[Bitcoin&#39;s Bullish Setup Signals Explosion: Altcoins Have Broken Out](https://www.youtube.com/watch?v=1RqEqF3HH_s)**
+**[Bitcoin Has NEVER Done This Before. | Crypto Whales Are Accumulating Like They Know](https://www.youtube.com/watch?v=JqhbPwytCQc)**
 
-No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and the altcoin breakouts are lining up right behind it.
-
-📺 Gareth Soloway
-
-👁️ 54K • 👍 4K • 💬 139 • ⏱️ 13:27 • 1d ago
-
----
-
-**[Bitcoin Is Breaking Out Right Now](https://www.youtube.com/watch?v=UwBGU5daqgA)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 4K • 👍 353 • 3h ago
-
----
-
-**[HUGE! CLARITY ACT GETS ETHICS WIN! BITCOIN &amp; ALTCOINS ARE ON THE MOVE! (CRYPTO NEWS)](https://www.youtube.com/watch?v=OZbtw62Kj3U)**
-
-Crypto News: Bitcoin crosses $65000 and altcoins are following with the charts looking bullish. The White House has agreed on ...
-
-📺 Thinking Crypto
-
-👁️ 16K • 👍 1K • 💬 236 • ⏱️ 16:12 • 14h ago
-
----
-
-**[The White House Has Agreed&quot; | HUGE Crypto CLARITY Act News - Senate Vote Is Coming](https://www.youtube.com/watch?v=nkNgQghhj0k)**
-
-The Crypto Clarity Act is moving forward as the White House agrees to a new ethics package. Get the details on what this means ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Whales ...
 
 📺 Crypto Capital Venture
 
-👁️ 26K • 👍 1K • 💬 283 • ⏱️ 7:37 • 15h ago
+👁️ 10K • 👍 567 • 💬 272 • ⏱️ 11:10 • 1d ago
+
+---
+
+**[Bitcoin is Eerily Quiet.. Are We in the Calm Before the Storm?](https://www.youtube.com/watch?v=Nujcilo9Nus)**
+
+Bitcoin has traded inside the same range for 47 straight days as volatility falls to cycle lows—but beneath the surface, macro risk, ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 1K • 💬 86 • ⏱️ 15:56 • 20h ago
+
+---
+
+**[The Most Satisfying Bitcoin Chocolate Coin Crunch 🤤 #chocolate #testy #shortvideo #vairal #trending](https://www.youtube.com/watch?v=G227_dsipdY)**
+
+📺 Pakito12
+
+👁️ 32K • ⏱️ 0:12 • 5h ago
+
+---
+
+**[🚨 BITCOIN: STOP EVERYTHING AND WATCH!!! (my most important video ever)](https://www.youtube.com/watch?v=zRRa5WhD1BQ)**
+
+Bitcoin sentiment remains bearish, but the herd might be wrong! This could be one of the most important #BTC videos ever!
+
+📺 Crypto Zombie
+
+👁️ 14K • 👍 2K • 💬 208 • ⏱️ 25:20 • 23h ago
+
+---
+
+**[Bitcoin to $70K THIS MONTH? History Says Yes.](https://www.youtube.com/watch?v=uozXzhWTe14)**
+
+Bitcoin #Crypto #finance Bitcoin is holding above $65000 despite rising oil prices, escalating tensions in the Middle East, and ...
+
+📺 The Wolf Of All Streets
+
+👁️ 17K • 👍 805 • 💬 352 • ⏱️ 58:57 • 1d ago
+
+---
+
+**[Enter the Bitcoin mining lottery today and you could mine 3 bitcoins! #bitcoin #btc #bitcoinmining](https://www.youtube.com/watch?v=6fyleVC2xMg)**
+
+📺 How Much?
+
+👁️ 1K • 👍 23 • 💬 1 • ⏱️ 0:28 • 18h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T16:23:09.088636+00:00'
+updated: '2026-07-21T17:53:23.601319+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 16:23 UTC  
+**Last Updated:** July 21, 2026 at 17:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.2%  
-**7d:** +0.5%  
-**30d:** +11.7%  
-**90d:** -17.2%  
-**1y:** -48.5%  
+**7d:** +0.1%  
+**30d:** +11.2%  
+**90d:** -17.5%  
+**1y:** -48.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $233.16B
+**Market Cap:** $231.77B
 Rank #2
 
 **Circulating Supply:** 120,682,803 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.9%
+-61.2%
 
 **All-Time Low:** $0.43
-+446251.9%
++443459.6%
 
 ---
 
@@ -148,19 +148,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking](https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking/)**
-
-Grayscale staking proposal sets quarterly cash payouts for Ethereum and Solana trusts without fixing rewards or yield.
-
-CryptoSlate • 1d ago
-
----
-
 **[Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html)**
 
 Bitcoin (BTC-USD) opened at $65,214.10 on Tuesday, July 21, 2026, 0.8% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,903.35, up 1.7% from Monday's opening price.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
+
+Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
+
+TradingView • 5h ago
 
 ---
 
@@ -169,14 +169,6 @@ Yahoo Finance • 59m ago
 Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
 
 The Block • 1d ago
-
----
-
-**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
-
-Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
-
-TradingView • 4h ago
 
 ---
 
@@ -196,17 +188,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 21, 2026](https://fortune.com/article/price-of-ethereum-07-21-2026/)**
+**[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
+thestreet.com • 2h ago
 
 ---
 
-**[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH defends key support, XRP recovery stays on track](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-defends-key-support-xrp-recovery-stays-on-track-202607200341)**
 
-thestreet.com • 31m ago
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are starting the week on a mild constructive note as the broader crypto market attempts to recover. BTC is approaching a key technical hurdle at $65,028, and ETH is holding above the important $1,800 support zone.
+
+FXStreet • 1d ago
 
 ---
 
@@ -214,7 +206,15 @@ thestreet.com • 31m ago
 
 Aztec Network launches Alpha V5 with client-side proving, delivering 2x faster private transactions and 50% lower costs on its Ethereum Layer 2.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 4h ago
+
+---
+
+**[Ethereum Price Prediction: ETH Chart Clears Its Year-Long Downtrend as Standard Chartered and Citi Split on 2026 Targets](https://www.financemagnates.com/trending/ethereum-price-prediction-eth-chart-clears-its-year-long-downtrend-as-standard-chartered-and-citi-split-on-2026-targets/)**
+
+Tuesday's session is doing what last week's could not: putting bitcoin's chip-driven rebound to work across the rest of crypto. Ethereum ( ETH ) is trading at $1,932 on Tuesday, July 21, 2026, up n...
+
+Finance Magnates • 7h ago
 
 ---
 
@@ -234,7 +234,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 551 • 👍 75 • 💬 29 • ⏱️ 17:49 • 4h ago
+👁️ 1K • 👍 110 • 💬 31 • ⏱️ 17:49 • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 11K • 👍 578 • 💬 52 • ⏱️ 11:56 • 1d ago
+👁️ 12K • 👍 585 • 💬 53 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -254,7 +254,37 @@ Aaron Dishner walks through Ethereum's recent price action, noting last week's r
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 237 • 💬 21 • ⏱️ 16:28 • 9h ago
+👁️ 3K • 👍 277 • 💬 25 • ⏱️ 16:28 • 11h ago
+
+---
+
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=flWpcHoofDw)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 291 • 👍 25 • ⏱️ 19:54 • 38m ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
+
+Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
+
+📺 Benjamin Cowen
+
+👁️ 82K • 👍 4K • 💬 217 • ⏱️ 17:58 • 1d ago
+
+---
+
+**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 154 • 💬 16 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -268,23 +298,13 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 ---
 
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
+**[I&#39;m Long BTC, ETH and SOL. Here&#39;s How I&#39;m Managing It](https://www.youtube.com/watch?v=OSQ_o1yRLao)**
 
-Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
+Bitcoin, Ethereum and Solana trade management: how to handle a position after you're already long. In this video, we walk ...
 
-📺 Benjamin Cowen
+📺 Chart Champions
 
-👁️ 78K • 👍 4K • 💬 214 • ⏱️ 17:58 • 1d ago
-
----
-
-**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 151 • 💬 16 • ⏱️ 16:17 • 1d ago
+👁️ 1K • 👍 145 • 💬 12 • ⏱️ 16:05 • 2h ago
 
 ---
 
@@ -294,17 +314,7 @@ BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 269 • ⏱️ 21:43 • 19h ago
-
----
-
-**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
-
-DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
-
-📺 The Rollup
-
-👁️ 4K • 👍 89 • 💬 1 • ⏱️ 8:46 • 2d ago
+👁️ 6K • 👍 292 • 💬 340 • ⏱️ 21:43 • 20h ago
 
 ---
 
@@ -314,17 +324,7 @@ You do realize that the richest people on the planet are accumulating massive am
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 593 • 💬 281 • ⏱️ 30:25 • 2d ago
-
----
-
-**[Why ETH Can Pump Higher Now! (Ethereum Update)](https://www.youtube.com/watch?v=r9ZsfpP7-tg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 201 • 👍 12 • 💬 72 • ⏱️ 4:37 • 6h ago
+👁️ 5K • 👍 594 • 💬 281 • ⏱️ 30:25 • 2d ago
 
 ---
 
