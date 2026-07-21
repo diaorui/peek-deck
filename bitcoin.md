@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-21T20:44:47.000523+00:00'
+updated: '2026-07-21T22:03:35.582924+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 20:44 UTC  
+**Last Updated:** July 21, 2026 at 22:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,157.95
+### $66,325.58
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.7%  
-**7d:** +2.6%  
-**30d:** +3.8%  
-**90d:** -15.1%  
-**1y:** -44.6%  
+**7d:** +2.5%  
+**30d:** +3.7%  
+**90d:** -15.2%  
+**1y:** -44.7%  
 
 ---
 
@@ -143,7 +143,7 @@ in a world without freedom, democracy and civilization bitcoin cannot be used fo
 
 Well, if it's true that for every lucky one there are 99 who cry... here I am... I lost $50,000 of my savings, plus the pain of all the potential gains if I'd just bought that one instead of that other one, or if I'd just held on for longer. I started in 2022 and I've never managed to hold on. When I saw a 10% loss, that was already a lot; on $50,000, I was down $5... I feel like I've failed, and I'll never recover this loss, in my country it's hard to save $500 in three months. Someone like me who has never managed to chase the bull?
 
-1d ago
+2d ago
 
 ---
 
@@ -161,7 +161,7 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 **[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -169,15 +169,13 @@ Bloomberg.com • 5h ago
 
 The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Time for a crypto comeback? Traders bet that this stock will lead the way](https://www.cnbc.com/2026/07/21/traders-bet-that-this-stock-will-lead-the-way-in-a-crypto-comeback.html)**
+**[Bitcoin’s Bottoming Pattern Is Starting to Take Shape](https://www.bloomberg.com/news/newsletters/2026-07-21/bitcoin-s-bottoming-pattern-is-starting-to-take-shape)**
 
-Crypto bulls have been waiting for a rebound, and traders think this stock could lead the way.
-
-CNBC • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -185,7 +183,7 @@ CNBC • 1h ago
 
 Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
 
-galaxy.com • 8h ago
+galaxy.com • 9h ago
 
 ---
 
@@ -193,7 +191,7 @@ galaxy.com • 8h ago
 
 Galaxy has launched the Bitcoin Quantum Readiness Initiative, including committing up to $5 million in developer grants.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -201,13 +199,7 @@ The Block • 2h ago
 
 The company is backing developers to fix security blind spots before next-generation supercomputers become advanced enough to bypass blockchain protection.
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin’s Technical Outlook Improves as Key Levels Come Into Focus](https://www.barrons.com/articles/bitcoin-technical-outlook-price-breakout-key-levels-c31278bf)**
-
-Barron's • 2h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -215,15 +207,7 @@ Barron's • 2h ago
 
 Jack Mallers has stepped down as CEO of bitcoin treasury Twenty One.
 
-Bitcoin Magazine • 8h ago
-
----
-
-**[Jack Mallers leaves Twenty One as Strike exits Tether's three-way bitcoin merger](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)**
-
-Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
-
-The Block • 6h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -231,7 +215,23 @@ The Block • 6h ago
 
 The proposed three-way merger between Twenty One Capital, Strike, and Elektron Energy has been abandoned, with Strike no longer participating.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
+
+---
+
+**[Jack Mallers leaves Twenty One as Strike exits Tether's three-way bitcoin merger](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)**
+
+Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
+
+The Block • 8h ago
+
+---
+
+**[Satsuma shareholders approve bitcoin treasury liquidation and London delisting](https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting)**
+
+The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy.
+
+The Block • 1h ago
 
 ---
 
@@ -247,19 +247,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Satd: Bitcoin Streaming Event Consumption API](https://news.ycombinator.com/item?id=48913467)**
-
-Operator, integrator, and packager reference for satd — a Bitcoin Core-compatible full node in Rust.
-
-⬆️ 2 • 💬 1 • 6d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/streaming.html)
-
----
-
 **[Jack Mallers leaves Twenty One as Strike exits Tether's three-way Bitcoin merger](https://news.ycombinator.com/item?id=48995497)**
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 2 • 💬 0 • 3h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 4h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
 
 ---
 
@@ -267,7 +259,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Nearly a decade later, crypto is still barely functional for the thing it was s...
 
-⬆️ 1 • 💬 0 • 50m ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
+⬆️ 1 • 💬 0 • 2h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
 
 ---
 
@@ -275,7 +267,7 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
 
-⬆️ 2 • 💬 0 • 6h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+⬆️ 2 • 💬 0 • 8h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
 
 ---
 
@@ -289,7 +281,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 118 • ⏱️ 11:59 • 19h ago
+👁️ 21K • 👍 1K • 💬 118 • ⏱️ 11:59 • 21h ago
 
 ---
 
@@ -299,7 +291,7 @@ Sen. Kevin Cramer, R-N.D., joins 'Mornings with Maria' to discuss the Senate's p
 
 📺 Fox Business
 
-👁️ 49K • 👍 1K • 💬 236 • ⏱️ 9:29 • 6h ago
+👁️ 49K • 👍 1K • 💬 236 • ⏱️ 9:29 • 7h ago
 
 ---
 
@@ -309,7 +301,7 @@ Bitcoin has traded inside the same range for 47 straight days as volatility fall
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 71 • ⏱️ 15:56 • 23h ago
+👁️ 21K • 👍 1K • 💬 71 • ⏱️ 15:56 • 1d ago
 
 ---
 
@@ -319,7 +311,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 260 • 💬 16 • ⏱️ 9:57 • 13h ago
+👁️ 3K • 👍 260 • 💬 16 • ⏱️ 9:57 • 14h ago
 
 ---
 
@@ -349,7 +341,7 @@ Bitcoin ETF inflows are back, totaling $273 million. Solana's tokenized asset tr
 
 📺 Dana Love, PhD
 
-👁️ 2K • 👍 128 • 💬 13 • ⏱️ 1:32 • 5h ago
+👁️ 2K • 👍 128 • 💬 13 • ⏱️ 1:32 • 7h ago
 
 ---
 
@@ -359,7 +351,7 @@ LeveX: https://levex.com/r/CryptoKid VIP LEVEL 5 BTCC: https://cryptokid.io/BTCC
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 194 • 💬 44 • ⏱️ 4:50 • 4h ago
+👁️ 2K • 👍 194 • 💬 44 • ⏱️ 4:50 • 6h ago
 
 ---
 
@@ -369,7 +361,7 @@ I'm not against Bitcoin, I own 15. I'm against HOW people buy it. Most people ta
 
 📺 Pace Morby
 
-👁️ 7K • 👍 173 • 💬 19 • ⏱️ 0:49 • 21h ago
+👁️ 7K • 👍 173 • 💬 19 • ⏱️ 0:49 • 22h ago
 
 ---
 
@@ -379,7 +371,7 @@ Crypto News: Bitcoin crosses $65000 and altcoins are following with the charts l
 
 📺 Thinking Crypto
 
-👁️ 19K • 👍 1K • 💬 86 • ⏱️ 16:12 • 18h ago
+👁️ 19K • 👍 1K • 💬 86 • ⏱️ 16:12 • 19h ago
 
 ---
 

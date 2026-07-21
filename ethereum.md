@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T20:44:47.006551+00:00'
+updated: '2026-07-21T22:03:35.588225+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 20:44 UTC  
+**Last Updated:** July 21, 2026 at 22:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.2%  
-**30d:** +11.3%  
+**24h:** +0.9%  
+**7d:** +0.1%  
+**30d:** +11.2%  
 **90d:** -17.5%  
 **1y:** -48.7%  
 
@@ -160,7 +160,7 @@ Yahoo Finance • 1d ago
 
 Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 7h ago
 
 Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -180,25 +180,31 @@ CoinDesk • 1d ago
 
 ---
 
-**[2 Cryptocurrencies Poised to Soar 3,000% or More, According to 1 Top Wall Street Analyst](https://www.fool.com/investing/2026/07/20/2-cryptocurrencies-poised-to-soar-3000-or-more-acc/)**
+**[Definica Introduces Ethereum-Native Protocol to Connect ETH Staking With Liquidity and Borrowing](https://markets.businessinsider.com/news/stocks/definica-introduces-ethereum-native-protocol-to-connect-eth-staking-with-liquidity-and-borrowing-1036347809)**
 
-If Tom Lee is right, Ethereum could be headed to $250,000 and Bitcoin could be headed to $2 million.
+ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
 
-The Motley Fool • 1d ago
+markets.businessinsider.com • 1h ago
 
 ---
 
-**[Crypto News: Ethereum Based Pepeto Opens a New Presale Stage After the Previous Round Sells Out Ahead of Schedule](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-pepeto-opens-a-new-presale-stage-after-the-previous-round-sells-out-ahead-of-schedule-1036347142)**
+**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
 
-DUBAI, United Arab Emirates, July  21, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), a crypto built on the Ethereum network, has announced the openi...
-
-markets.businessinsider.com • 2h ago
+CCN.com • 1d ago
 
 ---
 
 **[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
 
-thestreet.com • 4h ago
+thestreet.com • 6h ago
+
+---
+
+**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60568312/bitcoin-ethereum-xrp-dogecoin-price-analysis-us-iran-tensions)**
+
+Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
+
+Benzinga • 20h ago
 
 ---
 
@@ -210,17 +216,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
-
-CCN.com • 1d ago
-
----
-
 **[Ethereum Price Prediction: ETH Chart Clears Its Year-Long Downtrend as Standard Chartered and Citi Split on 2026 Targets](https://www.financemagnates.com/trending/ethereum-price-prediction-eth-chart-clears-its-year-long-downtrend-as-standard-chartered-and-citi-split-on-2026-targets/)**
 
 Tuesday's session is doing what last week's could not: putting bitcoin's chip-driven rebound to work across the rest of crypto. Ethereum ( ETH ) is trading at $1,932 on Tuesday, July 21, 2026, up n...
 
-Finance Magnates • 10h ago
+Finance Magnates • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 127 • 💬 59 • ⏱️ 19:54 • 3h ago
+👁️ 2K • 👍 127 • 💬 59 • ⏱️ 19:54 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 126 • 💬 36 • ⏱️ 17:49 • 8h ago
+👁️ 2K • 👍 126 • 💬 36 • ⏱️ 17:49 • 10h ago
 
 ---
 
@@ -274,7 +274,7 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 840 • 💬 13 • ⏱️ 33:40 • 6h ago
+👁️ 12K • 👍 840 • 💬 13 • ⏱️ 33:40 • 7h ago
 
 ---
 
@@ -294,7 +294,7 @@ Aaron Dishner walks through Ethereum's recent price action, noting last week's r
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 302 • 💬 28 • ⏱️ 16:28 • 14h ago
+👁️ 4K • 👍 302 • 💬 28 • ⏱️ 16:28 • 15h ago
 
 ---
 
@@ -304,7 +304,7 @@ Bitcoin, Ethereum and Solana trade management: how to handle a position after yo
 
 📺 Chart Champions
 
-👁️ 2K • 👍 182 • 💬 11 • ⏱️ 16:05 • 5h ago
+👁️ 2K • 👍 182 • 💬 11 • ⏱️ 16:05 • 7h ago
 
 ---
 
@@ -314,7 +314,7 @@ The Ethereum Bitcoin ratio just printed a weekly MACD bull cross. The last time 
 
 📺 Lark Davis
 
-👁️ 1K • 👍 48 • 💬 4 • ⏱️ 0:40 • 4h ago
+👁️ 1K • 👍 48 • 💬 4 • ⏱️ 0:40 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 190 • 💬 25 • ⏱️ 11:23 • 1d ago
+👁️ 3K • 👍 190 • 💬 25 • ⏱️ 11:23 • 2d ago
 
 ---
 
