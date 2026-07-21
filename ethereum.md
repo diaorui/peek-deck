@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T04:19:14.504819+00:00'
+updated: '2026-07-21T07:07:44.528535+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 04:19 UTC  
+**Last Updated:** July 21, 2026 at 07:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,896.19
+### $1,928.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.8%  
-**7d:** +0.3%  
-**30d:** +11.4%  
-**90d:** -17.4%  
-**1y:** -48.7%  
+**24h:** +4.2%  
+**7d:** +0.8%  
+**30d:** +11.9%  
+**90d:** -17.0%  
+**1y:** -48.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.20B
+**Market Cap:** $233.41B
 Rank #2
 
 **Circulating Supply:** 120,682,803 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-60.9%
 
 **All-Time Low:** $0.43
-+444134.0%
++446665.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
-17h ago
+20h ago
 
 ---
 
@@ -102,7 +102,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
 
-13h ago
+15h ago
 
 ---
 
@@ -110,7 +110,7 @@ As I try to get an Amazon gift for my sister's birthday, my eth sits there. When
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -134,7 +134,7 @@ Two months ago I posted here after analyzing 78,723 Ethereum token contracts and
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -164,19 +164,27 @@ T. Rowe Price has launched TKNZ, the first active multi-crypto ETF. Here’s how
 
 ---
 
-**[Ethereum Could Lead the Next Bull Market: Is Hayes Preparing with More Buys?](https://finance.yahoo.com/markets/crypto/articles/ethereum-could-lead-next-bull-025150832.html)**
+**[Ripple's ex-CTO regrets early XRP and Ethereum sales driven by risk aversion, missing later gains.](https://pluang.com/en/news-feed/mantan-ripple-menyesal-jual-xrp-ethereum-dengan-harga-rendah)**
 
-Arthur Hayes bought more ETH as some argue that institutional demand could drive Ethereum's next bull run.
+David Schwartz, former CTO of Ripple, expressed regret over selling early XRP and Ethereum holdings, decisions driven by a personal risk-averse strategy rather than loss of confidence in crypto. He followed a family agreement to sell at new all-time highs, reducing exposure to volatile assets despite missing out on substantial later gains. Schwartz's approach reflects a preference for managing financial risk over chasing maximum returns, and he continues to hold Ripple equity while reducing direct cryptocurrency holdings. His comments highlight the trade-off between risk management and potential upside in crypto investing.
 
-Yahoo Finance • 1h ago
+Pluang • 58m ago
 
 ---
 
-**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains Can Invite 'Faster Selloffs' If…](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dogecoin-flat-ethereum-xrp-015114508.html)**
+**[Ripple CTO regrets selling XRP and Ethereum ear...](https://pluang.com/en/news-feed/veteran-ripple-menyesal-jual-xrp)**
 
-Leading cryptocurrencies traded mixed on Monday as escalating geopolitical tensions curbed investors’ risk appetite. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.86%$65,438.98Ethereum (CRYPTO: ETH) +1.51%$1,909.75XRP (CRYPTO: XRP) +1.30%$1.11Solana (CRYPTO: SOL) +1.27%$77.93Dogecoin (CRYPTO: DOGE) -0.70%$0.07226 Crypto Trading Volume Spikes Bitcoin traded in the $65,000 area through most of the day as 24‑hour volume increased 92%. Ethereum continued to
+David Schwartz, Ripple's former CTO, expressed regret over selling his XRP at $0.10 and Ethereum at around $1, citing his strong dislike of risk as the main reason. He had agreed with his wife to sell at every new all-time high, prioritizing peace of mind over potential crypto gains. Despite reducing his crypto holdings significantly, Schwartz still believes in crypto's long-term potential but prefers lower volatility investments. His cautious approach means he may miss out on historic returns but values stability more.
 
-Yahoo Finance • 2h ago
+Pluang • 1h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Wants 5% Of Ethereum And A Bigger AI Role](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-wants-020627570.html)**
+
+Tom Lee, chairman of Bitmine Immersion Technologies (NYSE:BMNR), has outlined a plan for the company to acquire 5% of the total Ethereum supply. He framed Ethereum as a key bridge between blockchain infrastructure and AI applications as Wall Street interest in both areas grows. The updated vision follows Bitmine’s inclusion in the Russell 1000 index, which signals a broader role for the company within crypto and AI ecosystems. Bitmine Immersion Technologies is moving beyond its core focus...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -184,7 +192,7 @@ Yahoo Finance • 2h ago
 
 Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
 
-The Block • 14h ago
+The Block • 17h ago
 
 ---
 
@@ -192,7 +200,7 @@ The Block • 14h ago
 
 If Tom Lee is right, Ethereum could be headed to $250,000 and Bitcoin could be headed to $2 million.
 
-The Motley Fool • 17h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -200,7 +208,7 @@ The Motley Fool • 17h ago
 
 The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.
 
-CoinDesk • 15h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -208,13 +216,7 @@ CoinDesk • 15h ago
 
 Cross-chain bridge protocol Allbridge Core has paused operations after suffering a security exploit that drained roughly $1.65 million from its Solana-based infrastructure.Allbridge said it paused the protocol as a precaution and urged liquidity providers in affected pools to withdraw their funds w…
 
-TradingView • 23h ago
-
----
-
-**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
-
-CCN.com • 13h ago
+TradingView • 1d ago
 
 ---
 
@@ -222,7 +224,7 @@ CCN.com • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 21h ago
 
 ---
 
@@ -236,7 +238,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 9K • 👍 533 • 💬 50 • ⏱️ 11:56 • 16h ago
+👁️ 10K • 👍 548 • 💬 51 • ⏱️ 11:56 • 19h ago
 
 ---
 
@@ -246,17 +248,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 141 • 💬 16 • ⏱️ 16:17 • 1d ago
-
----
-
-**[BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=imhCCgZ0OHc)**
-
-BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 217 • 💬 125 • ⏱️ 21:43 • 6h ago
+👁️ 4K • 👍 146 • 💬 16 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -266,17 +258,7 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 69K • 👍 4K • 💬 192 • ⏱️ 17:58 • 1d ago
-
----
-
-**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
-
-You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 588 • 💬 297 • ⏱️ 30:25 • 1d ago
+👁️ 71K • 👍 4K • 💬 194 • ⏱️ 17:58 • 1d ago
 
 ---
 
@@ -286,7 +268,27 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 187 • 💬 24 • ⏱️ 11:23 • 1d ago
+👁️ 3K • 👍 188 • 💬 24 • ⏱️ 11:23 • 1d ago
+
+---
+
+**[This Is Going To Shock Every Bitcoin &amp; Ethereum Investor The Crypto Market Is About To Get Bigger](https://www.youtube.com/watch?v=3YxzLTUZpcM)**
+
+You do realize that the richest people on the planet are accumulating massive amounts of cryptocurrencies right now?
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 590 • 💬 295 • ⏱️ 30:25 • 1d ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=imhCCgZ0OHc)**
+
+BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 244 • 💬 126 • ⏱️ 21:43 • 9h ago
 
 ---
 
@@ -296,7 +298,17 @@ Why Ethereum's Next Move Could Be Massive - Robinhood Chain just changed everyth
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 98 • 💬 9 • ⏱️ 26:52 • 16h ago
+👁️ 2K • 👍 101 • 💬 9 • ⏱️ 26:52 • 19h ago
+
+---
+
+**[DeFi Dad: Why Ethereum Will Dominate The Next Bull Market (TLDR)](https://www.youtube.com/watch?v=xB00bZsw0NE)**
+
+DeFi Dad breaks down why he remains "irresponsibly long crypto" through this cycle, and makes the case that real-world assets ...
+
+📺 The Rollup
+
+👁️ 4K • 👍 85 • ⏱️ 8:46 • 1d ago
 
 ---
 
@@ -306,27 +318,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 8K • 👍 187 • 💬 157 • ⏱️ 13:08 • 2d ago
+👁️ 8K • 👍 188 • 💬 153 • ⏱️ 13:08 • 2d ago
 
 ---
 
-**[ETH&#39;s BULLISH Signal](https://www.youtube.com/watch?v=8IbeUgtNJB0)**
+**[Ethereum &amp; Bitcoin, kleiner Rücksetzer und dann weiter hoch? Eth sieht nicht so gut aus!](https://www.youtube.com/watch?v=JqGn7swz590)**
 
-Bitcoin held a stable weekend after Friday's plunge below the cloud, closing 1.4% inside the cloud on Saturday before a quiet ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 Krypto Trading & Investing
 
-👁️ 7K • 👍 523 • 💬 72 • ⏱️ 53:29 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ujYmDTcyHGo)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 186 • 👍 25 • ⏱️ 8:19 • 1h ago
+👁️ 1K • 👍 331 • 💬 116 • ⏱️ 14:04 • 2h ago
 
 ---
 

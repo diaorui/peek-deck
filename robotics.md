@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-21T04:19:14.508049+00:00'
+updated: '2026-07-21T07:07:44.531712+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 21, 2026 at 04:19 UTC  
+**Last Updated:** July 21, 2026 at 07:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ Hey everyone! I’m a high school student helping run a student-led program that
 
 Robert Scoble says an unnamed investor told him Anthropic is buying robot AI developer Physical Intelligence, though no deal has been announced.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/anthropic-is-rumored-to-be-pursuing-robot-ai-developer-physical-intelligence) • 2d ago
+🔗 [RuntimeWire](https://runtimewire.com/article/anthropic-is-rumored-to-be-pursuing-robot-ai-developer-physical-intelligence) • 3d ago
 
 ---
 
@@ -120,19 +120,19 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
+**[Samsung Electronics shares rise as robotics move highlights push into physical AI](https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html)**
 
-The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
+Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
 
-The Washington Post • 12h ago
+CNBC • 37m ago
 
 ---
 
-**[China unveils brain-to-robot platform that lets people control machines with their thoughts](https://interestingengineering.com/ai-robotics/china-brain-to-robot-platform)**
+**[Elite Robots Collaborates with Generalist AI on Next-Gen Embodied AI](https://sg.finance.yahoo.com/news/elite-robots-collaborates-generalist-ai-061800067.html)**
 
-Chinese BCI firm BrainCo debuts a non-invasive headset allowing users to control humanoid robots and robotic arms using only brain signals.
+US-based AI startup Generalist AI—founded by ex-Google DeepMind scientists and backed by NVIDIA NVentures—recently unveiled GEN-1, its latest embodied foundation model achieving a 99% task success rate and a 3x speed increase. As part of this breakthrough project, Elite Robots collaborated with Generalist AI to support real-world data collection and algorithm validation on its cobot platform.
 
-Interesting Engineering • 1d ago
+Yahoo Finance Singapore • 49m ago
 
 ---
 
@@ -140,27 +140,35 @@ Interesting Engineering • 1d ago
 
 An emerging robotics company talks about how humanoid-style androids could one day do dangerous, simple tasks like breaching doors and firing certain weapons.
 
-Defense News • 13h ago
+Defense News • 16h ago
+
+---
+
+**[Armed robots are on the horizon, as Silicon Valley pitches new military tech](https://www.washingtonpost.com/technology/2026/07/20/how-armed-robots-could-become-military-weapon-choice/)**
+
+The administration is pushing the military to use AI, testing long-standing opposition to weapons systems that can pick and attack targets on their own.
+
+The Washington Post • 15h ago
+
+---
+
+**[Humanoid Robots Are Coming To Factories. But Not The Way You Think](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/)**
+
+We're not going to see factories with 10,000 humanoid robot workers. We will however, see more robots ... and some humanoids.
+
+Forbes • 12h ago
 
 ---
 
 **[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
 
-Reuters • 3h ago
+Reuters • 6h ago
 
 ---
 
 **[Oregon robotics company chooses California for its big expansion](https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html)**
 
-OregonLive.com • 7h ago
-
----
-
-**[Amid Fears of Killer Robots, Humanoid MMA Fight in China Ends With Decapitation](https://www.commondreams.org/news/humanoid-robot-fights)**
-
-"One brutal kick sent the robot's head hanging loose."
-
-Common Dreams • 3d ago
+OregonLive.com • 10h ago
 
 ---
 
@@ -170,17 +178,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Blackstone invests in South Korea’s Futronic, valuing robotics supplier at $676M - report (BX:NYSE)](https://seekingalpha.com/news/4615156-blackstone-invests-in-south-koreas-futronic-valuing-robotics-supplier-at-676m---report)**
+**[Summer robotics program continues growth spurt: Camps offer more opportunities for youngest learners](https://chinookobserver.com/2026/07/19/summer-robotics-program-continues-growth-spurt-camps-offer-more-opportunities-for-youngest-learners/)**
 
-Seeking Alpha • 20h ago
+OCEAN PARK — It’s a well-worn cliche, but this month’s slate of summer robotics camps is truly the best and biggest yet. Put on by the Pacific STEM Robotics Club […]
 
----
-
-**[Weave Robotics launches Isaac, its first mobile humanoid robot](https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/)**
-
-Weave Robotics has listed the features of its Isaac wheeled bimanual manipulator robot for household and office use.
-
-The Robot Report • 3d ago
+Chinook Observer • 1d ago
 
 ---
 
@@ -194,37 +196,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 20K • 👍 635 • 💬 97 • ⏱️ 13:15 • 2d ago
-
----
-
-**[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
-
-Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
-
-📺 DPCcars
-
-👁️ 34K • 👍 382 • 💬 140 • ⏱️ 4:18 • 2d ago
-
----
-
-**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
-
-The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
-
-📺 1M65
-
-👁️ 19K • 👍 320 • 💬 78 • ⏱️ 13:38 • 1d ago
-
----
-
-**[Unitree&#39;s New Robot Can Clean Homes and Assist Patients by Itself](https://www.youtube.com/watch?v=k1JIyXM5qGw)**
-
-Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another major step toward fully autonomous home care ...
-
-📺 DPCcars
-
-👁️ 3K • 👍 42 • 💬 9 • ⏱️ 2:55 • 13h ago
+👁️ 21K • 👍 641 • 💬 97 • ⏱️ 13:15 • 2d ago
 
 ---
 
@@ -234,7 +206,57 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 29K • 👍 1K • 💬 83 • ⏱️ 14:37 • 2d ago
+👁️ 30K • 👍 1K • 💬 83 • ⏱️ 14:37 • 2d ago
+
+---
+
+**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
+
+The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
+
+📺 1M65
+
+👁️ 19K • 👍 326 • 💬 79 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
+
+Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
+
+📺 Joanna Stern
+
+👁️ 80K • 👍 3K • 💬 264 • ⏱️ 12:02 • 4d ago
+
+---
+
+**[Unitree&#39;s New Robot Can Clean Homes and Assist Patients by Itself](https://www.youtube.com/watch?v=k1JIyXM5qGw)**
+
+Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another major step toward fully autonomous home care ...
+
+📺 DPCcars
+
+👁️ 5K • 👍 45 • 💬 9 • ⏱️ 2:55 • 16h ago
+
+---
+
+**[Intense Human Size Robot MMA Fight League Begins in China As Robots Battle for $1M Prize](https://www.youtube.com/watch?v=5IMU5or-VFo)**
+
+The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
+
+📺 Chris Wabs
+
+👁️ 190K • 👍 5K • 💬 2K • ⏱️ 11:15 • 4d ago
+
+---
+
+**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
+
+The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
+
+📺 Job Othoniel
+
+👁️ 19K • 👍 139 • 💬 45 • ⏱️ 0:27 • 3d ago
 
 ---
 
@@ -244,7 +266,7 @@ Researchers at South Korea's KAIST and Stanford University have unveiled clothin
 
 📺 Reuters
 
-👁️ 48K • 👍 474 • 💬 59 • ⏱️ 2:07 • 3d ago
+👁️ 48K • 👍 482 • 💬 63 • ⏱️ 2:07 • 3d ago
 
 ---
 
@@ -254,7 +276,7 @@ War Robots Gameplay: My War Robots Creator Link: https://wr.my.games/manni - Cod
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 433 • 💬 106 • ⏱️ 14:20 • 1d ago
+👁️ 9K • 👍 441 • 💬 112 • ⏱️ 14:20 • 1d ago
 
 ---
 
@@ -264,27 +286,7 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Air Photography
 
-👁️ 73K • 👍 2K • 💬 205 • ⏱️ 7:15 • 4d ago
-
----
-
-**[Unboxing BENI: This 2-Wheeled Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=ytaZ2eR9CR8)**
-
-Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mondorobotics/beni-all-terrain-camera-robot?ref=8ebvkr ...
-
-📺 FlytPath
-
-👁️ 8K • 👍 207 • 💬 23 • ⏱️ 5:19 • 1d ago
-
----
-
-**[China unveils humanoid AI &#39;companion robots&#39; to ease loneliness](https://www.youtube.com/watch?v=kF0r26HXRS4)**
-
-A Chinese tech-firm has unveiled a new AI-driven robot which it says is the first of its kind designed to tackle loneliness.
-
-📺 Al Jazeera English
-
-👁️ 196K • 👍 1K • 💬 889 • ⏱️ 2:44 • 6d ago
+👁️ 74K • 👍 2K • 💬 207 • ⏱️ 7:15 • 4d ago
 
 ---
 
