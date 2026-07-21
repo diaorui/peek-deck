@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-21T22:03:35.582924+00:00'
+updated: '2026-07-21T23:28:59.716560+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 22:03 UTC  
+**Last Updated:** July 21, 2026 at 23:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +2.5%  
-**30d:** +3.7%  
+**24h:** +1.2%  
+**7d:** +2.4%  
+**30d:** +3.6%  
 **90d:** -15.2%  
 **1y:** -44.7%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1332.29B
+**Market Cap:** $1329.91B
 Rank #1
 
-**Circulating Supply:** 20,059,496 BTC
+**Circulating Supply:** 20,059,553 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--47.3%
+-47.4%
 
 **All-Time Low:** $67.81
-+97845.7%
++97677.6%
 
 ---
 
@@ -161,7 +161,7 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 **[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -169,61 +169,29 @@ Bloomberg.com • 1h ago
 
 The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.
 
-CoinDesk • 3h ago
+CoinDesk • 10h ago
 
 ---
 
 **[Bitcoin’s Bottoming Pattern Is Starting to Take Shape](https://www.bloomberg.com/news/newsletters/2026-07-21/bitcoin-s-bottoming-pattern-is-starting-to-take-shape)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Galaxy Launches Bitcoin Quantum Readiness Initiative to Protect Bitcoin's Cryptographic Foundations](https://www.galaxy.com/newsroom/galaxy-launches-bitcoin-quantum-readiness-initiative)**
+**[$4.1 billion firm discloses exposure to Bitcoin, XRP, Robinhood](https://sg.finance.yahoo.com/news/4-1-billion-firm-discloses-230000943.html)**
 
-Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
+Farmers & Merchants Investment Inc., a bank holding company with assets under management (AUM) worth $4.1 billion, disclosed exposure to Bitcoin (BTC), XRP, and Robinhood Markets (Nasdaq: HOOD). While Bitcoin is the world's largest cryptocurrency, XRP is the sixth-largest ...
 
-galaxy.com • 9h ago
-
----
-
-**[Galaxy launches Bitcoin quantum computing initiative, commits up to $5 million in developer grants](https://www.theblock.co/post/409129/galaxy-bitcoin-quantum-computing-threat-initiative)**
-
-Galaxy has launched the Bitcoin Quantum Readiness Initiative, including committing up to $5 million in developer grants.
-
-The Block • 3h ago
+Yahoo Finance Singapore • 28m ago
 
 ---
 
-**[Crypto giant Galaxy sets up $5 million fund to future-proof Bitcoin security](https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats)**
+**[Galaxy Digital Moves To Protect Bitcoin From Quantum Threats](https://finance.yahoo.com/markets/crypto/articles/galaxy-digital-moves-protect-bitcoin-215100443.html)**
 
-The company is backing developers to fix security blind spots before next-generation supercomputers become advanced enough to bypass blockchain protection.
+Galaxy Digital (NASDAQ: $GLXY) has established a $5 million U.S. fund to help developers protect Bitcoin (CRYPTO: $...
 
-CoinDesk • 5h ago
-
----
-
-**[Jack Mallers Steps Down As CEO Of Bitcoin Treasury Twenty One Capital](https://bitcoinmagazine.com/news/mallers-steps-down-from-bitcoin-twenty-one)**
-
-Jack Mallers has stepped down as CEO of bitcoin treasury Twenty One.
-
-Bitcoin Magazine • 9h ago
-
----
-
-**[Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls](https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls)**
-
-The proposed three-way merger between Twenty One Capital, Strike, and Elektron Energy has been abandoned, with Strike no longer participating.
-
-CoinDesk • 9h ago
-
----
-
-**[Jack Mallers leaves Twenty One as Strike exits Tether's three-way bitcoin merger](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)**
-
-Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
-
-The Block • 8h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -231,7 +199,39 @@ The Block • 8h ago
 
 The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy.
 
-The Block • 1h ago
+The Block • 3h ago
+
+---
+
+**[Bitcoin hits 5-week high: Investor's next move](https://www.cnbc.com/video/2026/07/21/bitcoin-hits-5-week-high-investors-next-move.html)**
+
+CNBC’s Oliver Renick joins ‘Halftime Report’ to discuss the latest Options Action in the crypto space.
+
+CNBC • 6h ago
+
+---
+
+**[Metaplanet Unit Secures ¥9.66B Financing As Bitcoin Treasury Plan Expands](https://www.tradingview.com/news/newsbtc:14880930d094b:0-metaplanet-unit-secures-9-66b-financing-as-bitcoin-treasury-plan-expands/)**
+
+Metaplanet Unit Secures ¥9.66B Financing As Bitcoin Treasury Plan ExpandsMetaplanet’s Bitcoin strategy is expanding again, this time through a financing agreement tied to its subsidiary Bitcoin Japan.The company said Bitcoin Japan signed an agreement with EVO Fund for financing of up to ¥9.66 billi…
+
+TradingView • 9h ago
+
+---
+
+**[He Cashed Out His Bitcoin at 68 to Play It Safe. Medicare Read It as a Six-Figure Raise.](https://247wallst.com/personal-finance/2026/07/21/he-cashed-out-his-bitcoin-at-68-to-play-it-safe-medicare-read-it-as-a-six-figure-raise/)**
+
+Selling Bitcoin to play it safe sounds like a responsible retirement move, but a quiet Medicare rule can turn that cautious decision into a four-figure annual penalty that arrives long after the transaction is forgotten.
+
+24/7 Wall St. • 8h ago
+
+---
+
+**[Galaxy Launches Bitcoin Quantum Readiness Initiative to Protect Bitcoin's Cryptographic Foundations](https://www.galaxy.com/newsroom/galaxy-launches-bitcoin-quantum-readiness-initiative)**
+
+Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
+
+galaxy.com • 11h ago
 
 ---
 
@@ -243,7 +243,7 @@ The Block • 1h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 3 • 💬 0 • 4d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 3 • 💬 0 • 5d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -251,7 +251,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 2 • 💬 0 • 4h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 5h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
 
 ---
 
@@ -259,7 +259,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Nearly a decade later, crypto is still barely functional for the thing it was s...
 
-⬆️ 1 • 💬 0 • 2h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
+⬆️ 1 • 💬 0 • 3h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
 
 ---
 
@@ -267,7 +267,7 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
 
-⬆️ 2 • 💬 0 • 8h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+⬆️ 2 • 💬 0 • 9h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
 
 ---
 
@@ -281,7 +281,17 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 118 • ⏱️ 11:59 • 21h ago
+👁️ 22K • 👍 1K • 💬 115 • ⏱️ 11:59 • 22h ago
+
+---
+
+**[Trump Just Caved. Bitcoin Is Loving It.](https://www.youtube.com/watch?v=MXzKYnh7M2s)**
+
+Trump just agreed to the ethics provision holding up the CLARITY Act — and Bitcoin is telling you exactly what it thinks about that.
+
+📺 Digital Asset News
+
+👁️ 7K • 👍 624 • 💬 60 • ⏱️ 29:19 • 5h ago
 
 ---
 
@@ -291,7 +301,17 @@ Sen. Kevin Cramer, R-N.D., joins 'Mornings with Maria' to discuss the Senate's p
 
 📺 Fox Business
 
-👁️ 49K • 👍 1K • 💬 236 • ⏱️ 9:29 • 7h ago
+👁️ 63K • 👍 1K • 💬 259 • ⏱️ 9:29 • 8h ago
+
+---
+
+**[Bitcoin’s Biggest THREAT Is Coming From Within | Is BIP-110 the Breaking Point?](https://www.youtube.com/watch?v=wiOFu1TlkgE)**
+
+A major debate is unfolding inside the Bitcoin community, and the outcome could shape the network for years to come. BIP-110 ...
+
+📺 Simply Bitcoin
+
+👁️ 3K • 👍 438 • 💬 234 • ⏱️ 19:47 • 1h ago
 
 ---
 
@@ -301,57 +321,7 @@ Bitcoin has traded inside the same range for 47 straight days as volatility fall
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 71 • ⏱️ 15:56 • 1d ago
-
----
-
-**[Bitcoin Holders: Bitcoin Is Rallying (Here&#39;s My Plan Going Forward)](https://www.youtube.com/watch?v=6XHvnLUKDCM)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
-
-📺 Aaron Bennett
-
-👁️ 3K • 👍 260 • 💬 16 • ⏱️ 9:57 • 14h ago
-
----
-
-**[Bitcoin&#39;s Bullish Setup Signals Explosion: Altcoins Have Broken Out](https://www.youtube.com/watch?v=1RqEqF3HH_s)**
-
-No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and the altcoin breakouts are lining up right behind it.
-
-📺 Gareth Soloway
-
-👁️ 57K • 👍 4K • 💬 141 • ⏱️ 13:27 • 1d ago
-
----
-
-**[🚨 Bitcoin Is About to Catch Everyone Off Guard](https://www.youtube.com/watch?v=jxL61ni7Xso)**
-
-Bitcoin has traded sideways for nearly 60 days, but improving Bitcoin ETF inflows, extreme market fear, and major altcoin support ...
-
-📺 DataDash
-
-👁️ 4K • 👍 160 • 💬 85 • ⏱️ 16:33 • 1d ago
-
----
-
-**[Solana Assets Jumped 114%;,CLARITY unstalls?; and ETFs flow!](https://www.youtube.com/watch?v=ploXQ515fTs)**
-
-Bitcoin ETF inflows are back, totaling $273 million. Solana's tokenized asset trading volume hit $5.77 billion in Q2, a 114% ...
-
-📺 Dana Love, PhD
-
-👁️ 2K • 👍 128 • 💬 13 • ⏱️ 1:32 • 7h ago
-
----
-
-**[BITCOIN: DANGER DANGER DANGER!!!!!!](https://www.youtube.com/watch?v=lopjaX5PJn8)**
-
-LeveX: https://levex.com/r/CryptoKid VIP LEVEL 5 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS WEEX: ...
-
-📺 Crypto Kid
-
-👁️ 2K • 👍 194 • 💬 44 • ⏱️ 4:50 • 6h ago
+👁️ 21K • 👍 1K • 💬 129 • ⏱️ 15:56 • 1d ago
 
 ---
 
@@ -361,17 +331,47 @@ I'm not against Bitcoin, I own 15. I'm against HOW people buy it. Most people ta
 
 📺 Pace Morby
 
-👁️ 7K • 👍 173 • 💬 19 • ⏱️ 0:49 • 22h ago
+👁️ 9K • 👍 198 • 💬 20 • ⏱️ 0:49 • 1d ago
 
 ---
 
-**[HUGE! CLARITY ACT GETS ETHICS WIN! BITCOIN &amp; ALTCOINS ARE ON THE MOVE! (CRYPTO NEWS)](https://www.youtube.com/watch?v=OZbtw62Kj3U)**
+**[Bitcoin Holders: Bitcoin Is Rallying (Here&#39;s My Plan Going Forward)](https://www.youtube.com/watch?v=6XHvnLUKDCM)**
 
-Crypto News: Bitcoin crosses $65000 and altcoins are following with the charts looking bullish. The White House has agreed on ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
 
-📺 Thinking Crypto
+📺 Aaron Bennett
 
-👁️ 19K • 👍 1K • 💬 86 • ⏱️ 16:12 • 19h ago
+👁️ 3K • 👍 268 • 💬 19 • ⏱️ 9:57 • 15h ago
+
+---
+
+**[Bitcoin&#39;s Bullish Setup Signals Explosion: Altcoins Have Broken Out](https://www.youtube.com/watch?v=1RqEqF3HH_s)**
+
+No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and the altcoin breakouts are lining up right behind it.
+
+📺 Gareth Soloway
+
+👁️ 58K • 👍 4K • 💬 142 • ⏱️ 13:27 • 1d ago
+
+---
+
+**[FULL VERSION: Bitcoin Flashes End of Bear  ETF Inflows Return &amp; Mixed CAGRs out to 2045](https://www.youtube.com/watch?v=PY6tRpYwZDw)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 22K • 👍 2K • 💬 109 • ⏱️ 19:20 • 1d ago
+
+---
+
+**[Bitcoin Has NEVER Done This Before. | Crypto Whales Are Accumulating Like They Know](https://www.youtube.com/watch?v=JqhbPwytCQc)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Whales ...
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 570 • 💬 276 • ⏱️ 11:10 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T22:03:35.588225+00:00'
+updated: '2026-07-21T23:28:59.720735+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 22:03 UTC  
+**Last Updated:** July 21, 2026 at 23:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +0.1%  
-**30d:** +11.2%  
-**90d:** -17.5%  
-**1y:** -48.7%  
+**24h:** +0.2%  
+**7d:** +0.0%  
+**30d:** +11.1%  
+**90d:** -17.6%  
+**1y:** -48.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.17B
+**Market Cap:** $231.60B
 Rank #2
 
 **Circulating Supply:** 120,682,803 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-61.2%
 
 **All-Time Low:** $0.43
-+444217.2%
++443203.3%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Looking for recommendations for a home server for an evm blockchain node/validator](https://www.reddit.com/r/ethereum/comments/1v13xwa/looking_for_recommendations_for_a_home_server_for/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -148,11 +148,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Monday, July 20, 2026: Crypto prices mixed as second half 2026 outlooks conflict](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html)**
+**[Is AI Money Rotating Into Ethereum? Tom Lee Cites 72% Outperformance](https://finance.yahoo.com/markets/crypto/articles/ai-money-rotating-ethereum-tom-220000669.html)**
 
-Bitcoin (BTC-USD) opened at $64,680.23 on Monday, July 20, 2026, 0.2% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,871.21 on Monday, July 20, 2026, up 0.5% from Sunday's opening price.
+Tom Lee cites ETH's 72% relative outperformance vs the DRAM ETF as AI money rotating into Ethereum. Rotation or reset?
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 1d ago
 
 Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
 
-The Block • 8h ago
+The Block • 10h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 8h ago
 
 Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
-TradingView • 9h ago
+TradingView • 11h ago
 
 ---
 
@@ -180,11 +180,33 @@ CoinDesk • 1d ago
 
 ---
 
+**[Current price of Ethereum for July 21, 2026](https://fortune.com/article/price-of-ethereum-07-21-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 11h ago
+
+---
+
 **[Definica Introduces Ethereum-Native Protocol to Connect ETH Staking With Liquidity and Borrowing](https://markets.businessinsider.com/news/stocks/definica-introduces-ethereum-native-protocol-to-connect-eth-staking-with-liquidity-and-borrowing-1036347809)**
 
 ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
+
+thestreet.com • 7h ago
+
+---
+
+**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60568312/bitcoin-ethereum-xrp-dogecoin-price-analysis-us-iran-tensions)**
+
+Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
+
+Benzinga • 21h ago
 
 ---
 
@@ -194,33 +216,11 @@ CCN.com • 1d ago
 
 ---
 
-**[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
-
-thestreet.com • 6h ago
-
----
-
-**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60568312/bitcoin-ethereum-xrp-dogecoin-price-analysis-us-iran-tensions)**
-
-Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
-
-Benzinga • 20h ago
-
----
-
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH defends key support, XRP recovery stays on track](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-defends-key-support-xrp-recovery-stays-on-track-202607200341)**
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are starting the week on a mild constructive note as the broader crypto market attempts to recover. BTC is approaching a key technical hurdle at $65,028, and ETH is holding above the important $1,800 support zone.
 
 FXStreet • 1d ago
-
----
-
-**[Ethereum Price Prediction: ETH Chart Clears Its Year-Long Downtrend as Standard Chartered and Citi Split on 2026 Targets](https://www.financemagnates.com/trending/ethereum-price-prediction-eth-chart-clears-its-year-long-downtrend-as-standard-chartered-and-citi-split-on-2026-targets/)**
-
-Tuesday's session is doing what last week's could not: putting bitcoin's chip-driven rebound to work across the rest of crypto. Ethereum ( ETH ) is trading at $1,932 on Tuesday, July 21, 2026, up n...
-
-Finance Magnates • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 127 • 💬 59 • ⏱️ 19:54 • 4h ago
+👁️ 4K • 👍 192 • 💬 71 • ⏱️ 19:54 • 6h ago
 
 ---
 
@@ -244,27 +244,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 126 • 💬 36 • ⏱️ 17:49 • 10h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
-
-Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
-
-📺 Benjamin Cowen
-
-👁️ 84K • 👍 5K • 💬 219 • ⏱️ 17:58 • 1d ago
-
----
-
-**[Everyone Hates Ethereum… That’s The Point](https://www.youtube.com/watch?v=9XZNRYVsEcQ)**
-
-In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. It ran to $126000. Right now, Ethereum is down ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 591 • 💬 54 • ⏱️ 11:56 • 1d ago
+👁️ 2K • 👍 137 • 💬 49 • ⏱️ 17:49 • 11h ago
 
 ---
 
@@ -274,17 +254,27 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 840 • 💬 13 • ⏱️ 33:40 • 7h ago
+👁️ 14K • 👍 915 • 💬 18 • ⏱️ 33:40 • 9h ago
 
 ---
 
-**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
 
-📺 Savvy Finance
+📺 Benjamin Cowen
 
-👁️ 4K • 👍 156 • 💬 13 • ⏱️ 16:17 • 2d ago
+👁️ 86K • 👍 5K • 💬 221 • ⏱️ 17:58 • 1d ago
+
+---
+
+**[Everyone Hates Ethereum… That’s The Point](https://www.youtube.com/watch?v=9XZNRYVsEcQ)**
+
+In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. It ran to $126000. Right now, Ethereum is down ...
+
+📺 Lark Davis
+
+👁️ 12K • 👍 595 • 💬 56 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -294,17 +284,27 @@ Aaron Dishner walks through Ethereum's recent price action, noting last week's r
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 302 • 💬 28 • ⏱️ 16:28 • 15h ago
+👁️ 4K • 👍 318 • 💬 29 • ⏱️ 16:28 • 16h ago
 
 ---
 
-**[I&#39;m Long BTC, ETH and SOL. Here&#39;s How I&#39;m Managing It](https://www.youtube.com/watch?v=OSQ_o1yRLao)**
+**[&quot;I&#39;m MEGA BULLISH! Ethereum&#39;s About to SHOCK the ENTIRE MARKET!&quot; - Jordi Visser](https://www.youtube.com/watch?v=bvSD9MuR6uQ)**
 
-Bitcoin, Ethereum and Solana trade management: how to handle a position after you're already long. In this video, we walk ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Chart Champions
+📺 Savvy Finance
 
-👁️ 2K • 👍 182 • 💬 11 • ⏱️ 16:05 • 7h ago
+👁️ 4K • 👍 156 • 💬 11 • ⏱️ 16:17 • 2d ago
+
+---
+
+**[Why Ethereum’s Institutional Supercycle Is Already Here | Joseph Chalom, Sharplink](https://www.youtube.com/watch?v=FcaUCHhKdDs)**
+
+On today's Talking Tokens, Jacquelyn sits down with Joseph Chalom, CEO of Sharplink to talk about why he and a group of ...
+
+📺 Talking Tokens Podcast
+
+👁️ 575 • 👍 48 • 💬 21 • ⏱️ 30:37 • 10h ago
 
 ---
 
@@ -314,7 +314,7 @@ The Ethereum Bitcoin ratio just printed a weekly MACD bull cross. The last time 
 
 📺 Lark Davis
 
-👁️ 1K • 👍 48 • 💬 4 • ⏱️ 0:40 • 6h ago
+👁️ 2K • 👍 62 • 💬 4 • ⏱️ 0:40 • 7h ago
 
 ---
 
