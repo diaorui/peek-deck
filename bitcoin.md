@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-21T17:53:23.595251+00:00'
+updated: '2026-07-21T19:23:00.541245+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 17:53 UTC  
+**Last Updated:** July 21, 2026 at 19:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,315.32
+### $66,157.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +2.3%  
-**30d:** +3.5%  
-**90d:** -15.3%  
-**1y:** -44.8%  
+**24h:** +1.5%  
+**7d:** +2.4%  
+**30d:** +3.6%  
+**90d:** -15.2%  
+**1y:** -44.7%  
 
 ---
 
@@ -159,41 +159,37 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 ## Google News: "bitcoin"
 
-**[Live markets: Bitcoin rises to five-week high above $66,400 on rising hope for Clarity Act](https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april)**
+**[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
-The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.
-
-CoinDesk • 4h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Bitcoin hits 5-week high: Investor's next move](https://www.cnbc.com/video/2026/07/21/bitcoin-hits-5-week-high-investors-next-move.html)**
+**[Bitcoin’s Technical Outlook Improves as Key Levels Come Into Focus](https://www.barrons.com/articles/bitcoin-technical-outlook-price-breakout-key-levels-c31278bf)**
 
-CNBC’s Oliver Renick joins ‘Halftime Report’ to discuss the latest Options Action in the crypto space.
-
-CNBC • 50m ago
+Barron's • 1h ago
 
 ---
 
-**[Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses](https://finance.yahoo.com/markets/crypto/articles/jack-mallers-quits-twenty-one-160620005.html)**
+**[Bitcoin mining stock surges on $9.8 billion AI deal](https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-stock-surges-9-194826314.html)**
 
-XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.
+The shares of Hut 8 (Nasdaq: HUT), a Bitcoin miner that has been expanding into artificial intelligence (AI) infrastructure, jumped as much as 14% on July 20 after the firm signed a $9.8 billion lease that fully commercializes its massive Texas data center campus. The 15-year deal covers the second ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin](https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin)**
-
-Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.
-
-CoinDesk • 1h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Trump Oversees Ethics Provisions As Clarity Act Nears Vote](https://www.investors.com/news/clarity-act-cryptocurrency-market-structure-trump-ethics-senate/)**
+**[Morgan Stanley sees $76 bull case for Cipher Digital, remains ‘Overweight’](https://blockspace.media/insight/morgan-stanley-bitcoin-mining-ai-infrastructure-power/)**
 
-Investor's Business Daily • 4h ago
+Blockspace Media • 6h ago
+
+---
+
+**[Bitcoin’s Progress Holds The Secret To The AI Boom](https://www.forbes.com/sites/digital-assets/2026/07/19/bitcoins-progress--holds-the-secret-to-the-ai-boom/)**
+
+They say China is catching up with OpenAI and Anthropic. This must be the end of the AI boom. I’ll keep it simple. No, it is not.
+
+Forbes • 2d ago
 
 ---
 
@@ -201,7 +197,15 @@ Investor's Business Daily • 4h ago
 
 Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
 
-galaxy.com • 5h ago
+galaxy.com • 7h ago
+
+---
+
+**[Bitcoin hits 5-week high: Investor's next move](https://www.cnbc.com/video/2026/07/21/bitcoin-hits-5-week-high-investors-next-move.html)**
+
+CNBC’s Oliver Renick joins ‘Halftime Report’ to discuss the latest Options Action in the crypto space.
+
+CNBC • 2h ago
 
 ---
 
@@ -209,7 +213,7 @@ galaxy.com • 5h ago
 
 Jack Mallers has stepped down as CEO of bitcoin treasury Twenty One.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -217,7 +221,7 @@ Bitcoin Magazine • 5h ago
 
 The proposed three-way merger between Twenty One Capital, Strike, and Elektron Energy has been abandoned, with Strike no longer participating.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -225,15 +229,7 @@ CoinDesk • 5h ago
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-The Block • 4h ago
-
----
-
-**[Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion](https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion)**
-
-Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.
-
-The Block • 1d ago
+The Block • 5h ago
 
 ---
 
@@ -261,7 +257,7 @@ Operator, integrator, and packager reference for satd — a Bitcoin Core-compati
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 1 • 💬 0 • 19m ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 1h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
 
 ---
 
@@ -269,7 +265,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
 
-⬆️ 2 • 💬 0 • 3h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+⬆️ 2 • 💬 0 • 5h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
 
 ---
 
@@ -283,7 +279,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 166 • ⏱️ 11:59 • 16h ago
+👁️ 21K • 👍 1K • 💬 166 • ⏱️ 11:59 • 18h ago
 
 ---
 
@@ -293,7 +289,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 243 • 💬 27 • ⏱️ 9:57 • 10h ago
+👁️ 3K • 👍 243 • 💬 27 • ⏱️ 9:57 • 11h ago
 
 ---
 
@@ -303,7 +299,7 @@ Trump backs Clarity Act, BTC, ETH, Uniswap charts! BITUNIX TRADE THE TOP COINS (
 
 📺 Lark Davis
 
-👁️ 8K • 👍 558 • 💬 48 • ⏱️ 13:44 • 5h ago
+👁️ 8K • 👍 558 • 💬 48 • ⏱️ 13:44 • 6h ago
 
 ---
 
@@ -313,7 +309,7 @@ Subscribe before the available Bitcoin disappears. For years, a $10 million Bitc
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 242 • 💬 126 • ⏱️ 17:05 • 19h ago
+👁️ 4K • 👍 242 • 💬 126 • ⏱️ 17:05 • 21h ago
 
 ---
 
@@ -333,7 +329,7 @@ Bitcoin has traded inside the same range for 47 straight days as volatility fall
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 86 • ⏱️ 15:56 • 20h ago
+👁️ 20K • 👍 1K • 💬 86 • ⏱️ 15:56 • 22h ago
 
 ---
 
@@ -341,7 +337,7 @@ Bitcoin has traded inside the same range for 47 straight days as volatility fall
 
 📺 Pakito12
 
-👁️ 32K • ⏱️ 0:12 • 5h ago
+👁️ 32K • ⏱️ 0:12 • 7h ago
 
 ---
 
@@ -351,7 +347,7 @@ Bitcoin sentiment remains bearish, but the herd might be wrong! This could be on
 
 📺 Crypto Zombie
 
-👁️ 14K • 👍 2K • 💬 208 • ⏱️ 25:20 • 23h ago
+👁️ 14K • 👍 2K • 💬 208 • ⏱️ 25:20 • 1d ago
 
 ---
 
@@ -369,7 +365,7 @@ Bitcoin #Crypto #finance Bitcoin is holding above $65000 despite rising oil pric
 
 📺 How Much?
 
-👁️ 1K • 👍 23 • 💬 1 • ⏱️ 0:28 • 18h ago
+👁️ 1K • 👍 23 • 💬 1 • ⏱️ 0:28 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T17:53:23.601319+00:00'
+updated: '2026-07-21T19:23:00.547413+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 17:53 UTC  
+**Last Updated:** July 21, 2026 at 19:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,930.03
+### $1,918.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
+**24h:** +0.9%  
 **7d:** +0.1%  
 **30d:** +11.2%  
 **90d:** -17.5%  
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-2d ago
+3d ago
 
 ---
 
@@ -148,11 +148,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html)**
+**[Bitcoin and ethereum prices today, Monday, July 20, 2026: Crypto prices mixed as second half 2026 outlooks conflict](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html)**
 
-Bitcoin (BTC-USD) opened at $65,214.10 on Tuesday, July 21, 2026, 0.8% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,903.35, up 1.7% from Monday's opening price.
+Bitcoin (BTC-USD) opened at $64,680.23 on Monday, July 20, 2026, 0.2% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,871.21 on Monday, July 20, 2026, up 0.5% from Sunday's opening price.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2](https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2)**
+
+Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
+
+The Block • 6h ago
 
 ---
 
@@ -160,23 +168,7 @@ Yahoo Finance • 2h ago
 
 Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
-TradingView • 5h ago
-
----
-
-**[Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares](https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares)**
-
-Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
-
-The Block • 1d ago
-
----
-
-**[2 Cryptocurrencies Poised to Soar 3,000% or More, According to 1 Top Wall Street Analyst](https://www.fool.com/investing/2026/07/20/2-cryptocurrencies-poised-to-soar-3000-or-more-acc/)**
-
-If Tom Lee is right, Ethereum could be headed to $250,000 and Bitcoin could be headed to $2 million.
-
-The Motley Fool • 1d ago
+TradingView • 7h ago
 
 ---
 
@@ -188,9 +180,25 @@ CoinDesk • 1d ago
 
 ---
 
+**[2 Cryptocurrencies Poised to Soar 3,000% or More, According to 1 Top Wall Street Analyst](https://www.fool.com/investing/2026/07/20/2-cryptocurrencies-poised-to-soar-3000-or-more-acc/)**
+
+If Tom Lee is right, Ethereum could be headed to $250,000 and Bitcoin could be headed to $2 million.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Crypto News: Ethereum Based Pepeto Opens a New Presale Stage After the Previous Round Sells Out Ahead of Schedule](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-pepeto-opens-a-new-presale-stage-after-the-previous-round-sells-out-ahead-of-schedule-1036347142)**
+
+DUBAI, United Arab Emirates, July  21, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), a crypto built on the Ethereum network, has announced the openi...
+
+markets.businessinsider.com • 1h ago
+
+---
+
 **[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
 
-thestreet.com • 2h ago
+thestreet.com • 3h ago
 
 ---
 
@@ -202,25 +210,17 @@ FXStreet • 1d ago
 
 ---
 
-**[Aztec upgrades to V5, adds full private execution environment to Ethereum L2](https://cryptobriefing.com/aztec-v5-private-execution-ethereum-l2/)**
-
-Aztec Network launches Alpha V5 with client-side proving, delivering 2x faster private transactions and 50% lower costs on its Ethereum Layer 2.
-
-Crypto Briefing • 4h ago
-
----
-
-**[Ethereum Price Prediction: ETH Chart Clears Its Year-Long Downtrend as Standard Chartered and Citi Split on 2026 Targets](https://www.financemagnates.com/trending/ethereum-price-prediction-eth-chart-clears-its-year-long-downtrend-as-standard-chartered-and-citi-split-on-2026-targets/)**
-
-Tuesday's session is doing what last week's could not: putting bitcoin's chip-driven rebound to work across the rest of crypto. Ethereum ( ETH ) is trading at $1,932 on Tuesday, July 21, 2026, up n...
-
-Finance Magnates • 7h ago
-
----
-
 **[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
 
 CCN.com • 1d ago
+
+---
+
+**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60568312/bitcoin-ethereum-xrp-dogecoin-price-analysis-us-iran-tensions)**
+
+Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
+
+Benzinga • 17h ago
 
 ---
 
@@ -234,7 +234,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 110 • 💬 31 • ⏱️ 17:49 • 5h ago
+👁️ 1K • 👍 110 • 💬 31 • ⏱️ 17:49 • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ Aaron Dishner walks through Ethereum's recent price action, noting last week's r
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 277 • 💬 25 • ⏱️ 16:28 • 11h ago
+👁️ 3K • 👍 277 • 💬 25 • ⏱️ 16:28 • 12h ago
 
 ---
 
@@ -264,7 +264,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 291 • 👍 25 • ⏱️ 19:54 • 38m ago
+👁️ 291 • 👍 25 • ⏱️ 19:54 • 2h ago
 
 ---
 
@@ -304,7 +304,7 @@ Bitcoin, Ethereum and Solana trade management: how to handle a position after yo
 
 📺 Chart Champions
 
-👁️ 1K • 👍 145 • 💬 12 • ⏱️ 16:05 • 2h ago
+👁️ 1K • 👍 145 • 💬 12 • ⏱️ 16:05 • 4h ago
 
 ---
 
@@ -314,7 +314,7 @@ BITCOIN SHORT SQUEEZE: PRICE TARGET HIT!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 6K • 👍 292 • 💬 340 • ⏱️ 21:43 • 20h ago
+👁️ 6K • 👍 292 • 💬 340 • ⏱️ 21:43 • 22h ago
 
 ---
 
