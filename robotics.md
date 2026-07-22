@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-21T23:28:59.722951+00:00'
+updated: '2026-07-22T00:59:16.721853+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 21, 2026 at 23:28 UTC  
+**Last Updated:** July 22, 2026 at 00:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device](https://www.reddit.com/r/robotics/comments/1v2by9l/nvidia_releases_cosmos_3_edge_a_4bparameter_open/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Recording some data, and here’s one lesson I learned the hard way: limit your gripper torque to the minimum you need during teleoperation, plastic parts break 🤭
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ Recording some data, and here’s one lesson I learned the hard way: limit your 
 
 I've been learning ROS 2 by building projects instead of just following tutorials. In this demo, I created a web dashboard that communicates with ROS 2 through rosbridge, allowing me to control the TurtleBot directly from the browser. Features implemented: 🌐 Browser-based robot control 🔗 React frontend connected to ROS 2 📡 Real-time communication using rosbridge 🎮 Teleoperation from the web dashboard 🤖 Live control of the TurtleBot in simulation This is one step toward my goal of building a complete robotics dashboard with: Live camera streaming LiDAR visualization Interactive map Autonomous navigation Robot monitoring I'd love your feedback! What features would you add to a robotics web dashboard? #ROS2 #RobotWebTools #ReactJS #Robotics #TurtleBot3 #Gazebo #RViz #WebDevelopment #OpenSource #LearningInPublic
 
-10h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ I've been learning ROS 2 by building projects instead of just following tutorial
 
 Russ Tedrake, MIT professor and former VP of Robotics Research at Toyota Research Institute, explains why recent progress in robot learning has been surprising. He says locomotion improved quickly because simulation, domain randomization, GPU infrastructure and reinforcement learning started working together. With enough randomized conditions in simulation, robots learned policies that transferred to real stairs, bumps and uneven terrain better than many researchers expected. The results moved ahead of the theory. Tedrake says machine learning is producing systems that work empirically before researchers can fully explain why they work. He compares the change to a move from first-principles engineering toward behavioral science: build the system, observe what it does, then test it to understand what happened. Full ep: https://www.youtube.com/watch?v=c8mQKkuEmiI&t=27s
 
-12h ago
+13h ago
 
 ---
 
@@ -74,7 +74,7 @@ Four-legged robots can reach many places that wheeled vehicles cannot. Isn’t i
 
 Hey r/robotics , First time posting here and first time doing a real robotics build, so go easy on me. My son turns 4 in August and he's non verbal autistic. I originally built a tablet app for him to communicate, but when you give a 3 year old a tablet they just think it's game time. So I decided to try making a dedicated physical companion that actually looks at him when he talks to it. I put together this bench prototype and honestly was surprised by how much he responded to it. He's actually using the cards, learning the words, and tracking the head movements. My goal eventually is to get something like this into other parents hands for under 200 quid or so. It runs 100% offline too, so no cloud fees or privacy issues. I have the software side mostly sorted out now, but I need advice on taking it from 3D printed parts and breadboards to something safe and manufacturable. Quick overview of what's under the hood: It runs on a Pi 5 with a Flutter web interface and a Python FastAPI backend for offline Piper TTS. Vision is an IMX708 camera on a pan tilt mount using YuNet ONNX for face tracking. Motor control is offloaded to a Waveshare ESP32 driving two ST3215 serial servos. Had to write some EMA filtering to stop the servos from shaking. Enclosure is currently drafted in OpenSCAD. A few big questions I'm trying to figure out: Screen placement and wobble. Right now the 7 inch touchscreen is on the head. Tapping it makes the whole neck wobble. Do I keep the screen on the head so it looks at him when speaking, or move the heavy touch screen to the base and just use little ESP matrix screens for eyes on the head? Making it expressive without pinch hazards. I want ears/antennas or arms to show emotion, but small kids put their hands everywhere. Are servo driven ears safe enough or a bad idea? (Skipping wheels so it doesn't drive off tables). Taking an OpenSCAD 3D print to injection molding. What should I prepare for if I want to get low volume plastic shells made? Also any good Shenzhen turnkey PCBA suppliers you guys recommend to replace the Pi and ESP dev boards down the line? I'm setting up a Discord to organize the hardware side and get feedback from speech OTs. Let me know if you want an invite and I'll send it over. Video shows the offline AAC sentence builder and tracking working, plus a concept render at the end of what I want the shell to look like.
 
-6h ago
+7h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hey r/robotics , First time posting here and first time doing a real robotics bu
 
 **[A tiny pub/sub library that works over Ethernet and CAN](https://www.reddit.com/r/robotics/comments/1v2jdjb/a_tiny_pubsub_library_that_works_over_ethernet/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hey r/robotics , First time posting here and first time doing a real robotics bu
 
 I’m working on a mini self-driving car project with Ackermann steering. The car has to follow a lane with boundary lines on both sides, stay centered, and handle both straight and curved sections like a small F1-style track. I plan to use OpenCV + a webcam for lane detection and then control the steering based on the detected lane center. I’m looking for ideas on lane detection methods, steering control, and how to make it robust on curves and under different lighting conditions
 
-12h ago
+14h ago
 
 ---
 
@@ -112,13 +112,13 @@ I’m working on a mini self-driving car project with Ackermann steering. The ca
 
 Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
 
-CNBC • 16h ago
+CNBC • 18h ago
 
 ---
 
 **[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
@@ -126,7 +126,7 @@ Reuters • 22h ago
 
 The tech giant is consolidating talent, research and production planning to accelerate the commercialization of humanoid robots.
 
-Korea JoongAng Daily • 12h ago
+Korea JoongAng Daily • 13h ago
 
 ---
 
@@ -134,23 +134,7 @@ Korea JoongAng Daily • 12h ago
 
 Wonder founder and CEO Marc Lore joins 'Squawk Box' to discuss the company's new $650M funding round, deployment of robotics in the kitchen, company growth outlook, and more.
 
-CNBC • 10h ago
-
----
-
-**[Shanghai science forum photos show China’s AI and robotics advances in rivalry with US](https://apnews.com/photo-gallery/china-ai-tech-us-robots-conference-photos-0f3f6e69f1c1e2b8b077d8d8af7efd52)**
-
-BEIJING (AP) — China's leading technology companies showcased hundreds of cutting-edge products at the World AI Conference in Shanghai — from advanced robotics to artificial intelligence systems.
-
-AP News • 21h ago
-
----
-
-**[Medtronic to unveils AI computing platform for surgical robotics](https://www.massdevice.com/medtronic-unveils-ai-computing-platform-surgical-robotics/)**
-
-Medtronic (NYSE:MDT) today shared an early look at its next-generation computing platform for the robotic surgery operating room.
-
-MassDevice • 7h ago
+CNBC • 12h ago
 
 ---
 
@@ -162,17 +146,27 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Medtronic to unveils AI computing platform for surgical robotics](https://www.massdevice.com/medtronic-unveils-ai-computing-platform-surgical-robotics/)**
+
+Medtronic (NYSE:MDT) today shared an early look at its next-generation computing platform for the robotic surgery operating room.
+
+MassDevice • 8h ago
+
+---
+
 **[Gritt exits stealth with $32 million for robots to build solar plants — then, everything else](https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/)**
 
 Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
-**[Banks Wrap Up Loan Backing SoftBank’s $5.4 Billion Robotics Bet](https://www.bloomberg.com/news/articles/2026-07-21/banks-wrap-up-loan-backing-softbank-s-5-4-billion-robotics-bet)**
+**[Shanghai science forum photos show China’s AI and robotics advances in rivalry with US](https://apnews.com/photo-gallery/china-ai-tech-us-robots-conference-photos-0f3f6e69f1c1e2b8b077d8d8af7efd52)**
 
-Bloomberg.com • 2h ago
+BEIJING (AP) — China's leading technology companies showcased hundreds of cutting-edge products at the World AI Conference in Shanghai — from advanced robotics to artificial intelligence systems.
+
+AP News • 23h ago
 
 ---
 
@@ -181,6 +175,12 @@ Bloomberg.com • 2h ago
 Agility Robotics has expanded with a new Silicon Valley hub. The startup is avoiding AI talent wars and focusing on culture over high salaries.
 
 Business Insider • 1d ago
+
+---
+
+**[New electronic skin brings self-healing sensors to underwater robots and divers](https://techxplore.com/news/2026-07-electronic-skin-sensors-underwater-robots.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 6K • 👍 711 • 💬 48 • ⏱️ 12:28 • 9h ago
+👁️ 6K • 👍 711 • 💬 48 • ⏱️ 12:28 • 11h ago
 
 ---
 
@@ -264,7 +264,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 23K • 👍 676 • 💬 102 • ⏱️ 13:15 • 2d ago
+👁️ 23K • 👍 676 • 💬 102 • ⏱️ 13:15 • 3d ago
 
 ---
 

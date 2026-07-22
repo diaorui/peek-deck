@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-21T23:28:59.716560+00:00'
+updated: '2026-07-22T00:59:16.712575+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 23:28 UTC  
+**Last Updated:** July 22, 2026 at 00:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +2.4%  
-**30d:** +3.6%  
-**90d:** -15.2%  
-**1y:** -44.7%  
+**24h:** +2.2%  
+**7d:** +4.4%  
+**30d:** +6.2%  
+**90d:** -13.9%  
+**1y:** -43.8%  
 
 ---
 
@@ -103,7 +103,7 @@ If yes, how was your experience? If not, what's the biggest reason holding you b
 
 I see a lot a people talking about DCA and mentioning how they are OG hodlers for years. I always wonder.. how much were they able to accumulate/keep since then. Is 1.5 BTC a lot compared to the average hodler?
 
-1d ago
+2d ago
 
 ---
 
@@ -161,7 +161,7 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 **[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -169,13 +169,15 @@ Bloomberg.com • 8h ago
 
 The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin’s Bottoming Pattern Is Starting to Take Shape](https://www.bloomberg.com/news/newsletters/2026-07-21/bitcoin-s-bottoming-pattern-is-starting-to-take-shape)**
+**[BlackRock’s Larry Fink Says Crypto Washout Is Over: Is Bitcoin Stabilizing?](https://finance.yahoo.com/markets/crypto/articles/blackrock-larry-fink-says-crypto-171713939.html)**
 
-Bloomberg.com • 2h ago
+BlackRock CEO Larry Fink calls the crypto leverage washout over as Bitcoin ETF flows turn positive. Here is the data.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -183,47 +185,7 @@ Bloomberg.com • 2h ago
 
 Farmers & Merchants Investment Inc., a bank holding company with assets under management (AUM) worth $4.1 billion, disclosed exposure to Bitcoin (BTC), XRP, and Robinhood Markets (Nasdaq: HOOD). While Bitcoin is the world's largest cryptocurrency, XRP is the sixth-largest ...
 
-Yahoo Finance Singapore • 28m ago
-
----
-
-**[Galaxy Digital Moves To Protect Bitcoin From Quantum Threats](https://finance.yahoo.com/markets/crypto/articles/galaxy-digital-moves-protect-bitcoin-215100443.html)**
-
-Galaxy Digital (NASDAQ: $GLXY) has established a $5 million U.S. fund to help developers protect Bitcoin (CRYPTO: $...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Satsuma shareholders approve bitcoin treasury liquidation and London delisting](https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting)**
-
-The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy.
-
-The Block • 3h ago
-
----
-
-**[Bitcoin hits 5-week high: Investor's next move](https://www.cnbc.com/video/2026/07/21/bitcoin-hits-5-week-high-investors-next-move.html)**
-
-CNBC’s Oliver Renick joins ‘Halftime Report’ to discuss the latest Options Action in the crypto space.
-
-CNBC • 6h ago
-
----
-
-**[Metaplanet Unit Secures ¥9.66B Financing As Bitcoin Treasury Plan Expands](https://www.tradingview.com/news/newsbtc:14880930d094b:0-metaplanet-unit-secures-9-66b-financing-as-bitcoin-treasury-plan-expands/)**
-
-Metaplanet Unit Secures ¥9.66B Financing As Bitcoin Treasury Plan ExpandsMetaplanet’s Bitcoin strategy is expanding again, this time through a financing agreement tied to its subsidiary Bitcoin Japan.The company said Bitcoin Japan signed an agreement with EVO Fund for financing of up to ¥9.66 billi…
-
-TradingView • 9h ago
-
----
-
-**[He Cashed Out His Bitcoin at 68 to Play It Safe. Medicare Read It as a Six-Figure Raise.](https://247wallst.com/personal-finance/2026/07/21/he-cashed-out-his-bitcoin-at-68-to-play-it-safe-medicare-read-it-as-a-six-figure-raise/)**
-
-Selling Bitcoin to play it safe sounds like a responsible retirement move, but a quiet Medicare rule can turn that cautious decision into a four-figure annual penalty that arrives long after the transaction is forgotten.
-
-24/7 Wall St. • 8h ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -231,7 +193,47 @@ Selling Bitcoin to play it safe sounds like a responsible retirement move, but a
 
 Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
 
-galaxy.com • 11h ago
+galaxy.com • 12h ago
+
+---
+
+**[Galaxy launches Bitcoin quantum computing initiative, commits up to $5 million in developer grants](https://www.theblock.co/post/409129/galaxy-bitcoin-quantum-computing-threat-initiative)**
+
+Galaxy has launched the Bitcoin Quantum Readiness Initiative, including committing up to $5 million in developer grants.
+
+The Block • 6h ago
+
+---
+
+**[Crypto giant Galaxy sets up $5 million fund to future-proof Bitcoin security](https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats)**
+
+The company is backing developers to fix security blind spots before next-generation supercomputers become advanced enough to bypass blockchain protection.
+
+CoinDesk • 8h ago
+
+---
+
+**[Satsuma shareholders approve bitcoin treasury liquidation and London delisting](https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting)**
+
+The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy.
+
+The Block • 4h ago
+
+---
+
+**[Hyperscale Data Buys More Bitcoin, Bridging Holdings To Over $72 Million](https://bitcoinmagazine.com/news/hyperscale-data-buys-more-bitcoin)**
+
+Hyperscale Data, Inc. now has over 1,000 Bitcoins worth over $72 million following its latest buy.
+
+Bitcoin Magazine • 8h ago
+
+---
+
+**[Metaplanet Unit Secures ¥9.66B Financing As Bitcoin Treasury Plan Expands](https://www.tradingview.com/news/newsbtc:14880930d094b:0-metaplanet-unit-secures-9-66b-financing-as-bitcoin-treasury-plan-expands/)**
+
+Metaplanet Unit Secures ¥9.66B Financing As Bitcoin Treasury Plan ExpandsMetaplanet’s Bitcoin strategy is expanding again, this time through a financing agreement tied to its subsidiary Bitcoin Japan.The company said Bitcoin Japan signed an agreement with EVO Fund for financing of up to ¥9.66 billi…
+
+TradingView • 10h ago
 
 ---
 
@@ -251,7 +253,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 2 • 💬 0 • 5h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 7h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
 
 ---
 
@@ -259,7 +261,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Nearly a decade later, crypto is still barely functional for the thing it was s...
 
-⬆️ 1 • 💬 0 • 3h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
+⬆️ 1 • 💬 0 • 5h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
 
 ---
 
@@ -267,7 +269,7 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
 
-⬆️ 2 • 💬 0 • 9h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+⬆️ 2 • 💬 0 • 10h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
 
 ---
 
@@ -281,7 +283,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 115 • ⏱️ 11:59 • 22h ago
+👁️ 22K • 👍 1K • 💬 115 • ⏱️ 11:59 • 23h ago
 
 ---
 
@@ -291,7 +293,7 @@ Trump just agreed to the ethics provision holding up the CLARITY Act — and Bit
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 624 • 💬 60 • ⏱️ 29:19 • 5h ago
+👁️ 7K • 👍 624 • 💬 60 • ⏱️ 29:19 • 7h ago
 
 ---
 
@@ -301,7 +303,7 @@ Sen. Kevin Cramer, R-N.D., joins 'Mornings with Maria' to discuss the Senate's p
 
 📺 Fox Business
 
-👁️ 63K • 👍 1K • 💬 259 • ⏱️ 9:29 • 8h ago
+👁️ 63K • 👍 1K • 💬 259 • ⏱️ 9:29 • 10h ago
 
 ---
 
@@ -311,7 +313,7 @@ A major debate is unfolding inside the Bitcoin community, and the outcome could 
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 438 • 💬 234 • ⏱️ 19:47 • 1h ago
+👁️ 3K • 👍 438 • 💬 234 • ⏱️ 19:47 • 2h ago
 
 ---
 
@@ -341,7 +343,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 268 • 💬 19 • ⏱️ 9:57 • 15h ago
+👁️ 3K • 👍 268 • 💬 19 • ⏱️ 9:57 • 17h ago
 
 ---
 

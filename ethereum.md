@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-21T23:28:59.720735+00:00'
+updated: '2026-07-22T00:59:16.718626+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 21, 2026 at 23:28 UTC  
+**Last Updated:** July 22, 2026 at 00:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +0.0%  
-**30d:** +11.1%  
-**90d:** -17.6%  
-**1y:** -48.8%  
+**24h:** +1.6%  
+**7d:** +4.0%  
+**30d:** +16.3%  
+**90d:** -16.2%  
+**1y:** -46.5%  
 
 ---
 
@@ -68,11 +68,31 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion July 21, 2026](https://www.reddit.com/r/ethereum/comments/1v28q6c/daily_general_discussion_july_21_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+19h ago
+
+---
+
+**[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
+
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 1h ago
+
+---
+
 **[Daily General Discussion July 20, 2026](https://www.reddit.com/r/ethereum/comments/1v1bykh/daily_general_discussion_july_20_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[Warning!!! EU Crypto Users: Stop Sending Crypto Directly Between Exchanges Right Now, or risk your crypto being Frozen.](https://www.reddit.com/r/ethereum/comments/1v28fsw/warning_eu_crypto_users_stop_sending_crypto/)**
+
+20h ago
 
 ---
 
@@ -90,27 +110,19 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 ---
 
-**[Why I don't want to move back to banks](https://www.reddit.com/r/ethereum/comments/1v1iduk/why_i_dont_want_to_move_back_to_banks/)**
-
-The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
-
-1d ago
-
----
-
-**[Does anyone else find it difficult to use cryptocurrency for everyday purchases?](https://www.reddit.com/r/ethereum/comments/1v1ofyl/does_anyone_else_find_it_difficult_to_use/)**
-
-As I try to get an Amazon gift for my sister's birthday, my eth sits there. When it comes to international matters, banks are bothersome. I recently snuck on a platform, paid with Ethereum, and received the code right away. The same day, she redeemed it. Easy victory. makes me wish you could use what you carry in more areas. How do you guys use little cryptocurrency bags?
-
-1d ago
-
----
-
 **[Daily General Discussion July 19, 2026](https://www.reddit.com/r/ethereum/comments/1v0hdtv/daily_general_discussion_july_19_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 2d ago
+
+---
+
+**[Why I don't want to move back to banks](https://www.reddit.com/r/ethereum/comments/1v1iduk/why_i_dont_want_to_move_back_to_banks/)**
+
+The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
+
+1d ago
 
 ---
 
@@ -130,20 +142,6 @@ Two months ago I posted here after analyzing 78,723 Ethereum token contracts and
 
 ---
 
-**[Daily General Discussion July 18, 2026](https://www.reddit.com/r/ethereum/comments/1uzmkyi/daily_general_discussion_july_18_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**["Nothing is happening on Ethereum."](https://www.reddit.com/r/ethereum/comments/1v05mvh/nothing_is_happening_on_ethereum/)**
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Tom Lee cites ETH's 72% relative outperformance vs the DRAM ETF as AI money rotating into Ethereum. Rotation or reset?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -160,7 +158,7 @@ Yahoo Finance • 1h ago
 
 Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -168,7 +166,7 @@ The Block • 10h ago
 
 Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -184,7 +182,7 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 13h ago
 
 ---
 
@@ -192,13 +190,21 @@ Fortune • 11h ago
 
 ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
 **[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
 
-thestreet.com • 7h ago
+thestreet.com • 9h ago
+
+---
+
+**[How 40.8M staked ETH could strengthen Ethereum’s edge over Bitcoin](https://ambcrypto.com/how-40-8m-staked-eth-could-strengthen-ethereums-edge-over-bitcoin/)**
+
+Whales are accumulating ETH, but staking and DeFi flows tell a bigger story.
+
+AMBCrypto • 8h ago
 
 ---
 
@@ -206,21 +212,13 @@ thestreet.com • 7h ago
 
 Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
 
-Benzinga • 21h ago
+Benzinga • 23h ago
 
 ---
 
 **[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
 
 CCN.com • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH defends key support, XRP recovery stays on track](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-defends-key-support-xrp-recovery-stays-on-track-202607200341)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are starting the week on a mild constructive note as the broader crypto market attempts to recover. BTC is approaching a key technical hurdle at $65,028, and ETH is holding above the important $1,800 support zone.
-
-FXStreet • 1d ago
 
 ---
 
@@ -234,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 192 • 💬 71 • ⏱️ 19:54 • 6h ago
+👁️ 4K • 👍 192 • 💬 71 • ⏱️ 19:54 • 7h ago
 
 ---
 
@@ -244,7 +242,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 137 • 💬 49 • ⏱️ 17:49 • 11h ago
+👁️ 2K • 👍 137 • 💬 49 • ⏱️ 17:49 • 12h ago
 
 ---
 
@@ -254,7 +252,7 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 915 • 💬 18 • ⏱️ 33:40 • 9h ago
+👁️ 14K • 👍 915 • 💬 18 • ⏱️ 33:40 • 10h ago
 
 ---
 
@@ -284,7 +282,7 @@ Aaron Dishner walks through Ethereum's recent price action, noting last week's r
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 318 • 💬 29 • ⏱️ 16:28 • 16h ago
+👁️ 4K • 👍 318 • 💬 29 • ⏱️ 16:28 • 18h ago
 
 ---
 
@@ -304,7 +302,7 @@ On today's Talking Tokens, Jacquelyn sits down with Joseph Chalom, CEO of Sharpl
 
 📺 Talking Tokens Podcast
 
-👁️ 575 • 👍 48 • 💬 21 • ⏱️ 30:37 • 10h ago
+👁️ 575 • 👍 48 • 💬 21 • ⏱️ 30:37 • 11h ago
 
 ---
 
@@ -314,7 +312,7 @@ The Ethereum Bitcoin ratio just printed a weekly MACD bull cross. The last time 
 
 📺 Lark Davis
 
-👁️ 2K • 👍 62 • 💬 4 • ⏱️ 0:40 • 7h ago
+👁️ 2K • 👍 62 • 💬 4 • ⏱️ 0:40 • 8h ago
 
 ---
 

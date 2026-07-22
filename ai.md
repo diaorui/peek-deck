@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-21T23:28:59.710478+00:00'
+updated: '2026-07-22T00:59:16.704087+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 21, 2026 at 23:28 UTC  
+**Last Updated:** July 22, 2026 at 00:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 For a bit of context, I work at an agency, so I'm in and out of a dozen different AI tools every week across client projects: content, research, video, code, all of it. This is probably why I noticed this before most people (found these news while scrolling on LinkedIn today). When the ChatGPT hype first hit I genuinely cared which model I was on. Once GPT-4 landed and claude and gemini showed up, I'd switch between them constantly depending on the task, knowing what was under the hood felt like part of using it well. Now I catch myself using products with no idea what's running underneath. The news about Microsoft testing Kimi (Moonshot's model) inside Copilot is what made it click today. Copilot today is one model, six months from now it could be another, and most people won't notice or care. The model became a component, not the product. And honestly that's already how I use most of this stuff. Cursor for coding, Perplexity for research, Canva AI for design stuff, Argil when I'm turning a script into video. I couldn't tell you which model any of them swapped to last quarter, and it wouldn't change whether I keep paying. They're valuable because they solve one specific problem better than me duct-taping five tools together, not because of the model name on the box. Feels like we're moving from "which LLM is this?" to "did it actually save me time?" the same way nobody buying a laptop thinks about the chip anymore. Curious if others feel this shift. Do you still pick tools by the underlying model, or has that stopped mattering for you?
 
-4h ago
-
----
-
-**[Why I Left Google DeepMind By Alex Turner](https://www.reddit.com/r/artificial/comments/1v2f8df/why_i_left_google_deepmind_by_alex_turner/)**
-
-I fought against Google’s Pentagon AI deal from the inside. Powerful people and institutions failed to keep their AI ethics promises under pressure.
-
-🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 12h ago
+5h ago
 
 ---
 
@@ -57,15 +49,31 @@ I fought against Google’s Pentagon AI deal from the inside. Powerful people an
 
 saw a stat this morning that's been bugging me all day. 47% of small businesses are using AI somewhere in HR now, screening resumes, onboarding, all that. fine whatever, expected at this point but then i saw the other half of it. more than half of applicants are using AI to write their resumes and cover letters too. linkedin is apparently getting like 11,000 applications a minute right now which is insane to even think about so just sit with that for a sec. candidate uses AI to write the resume, company uses AI to read it, and somewhere in between an actual person who might be genuinely good just gets a score slapped on them by two bots that never even talk to each other anyway the resume just isn't a signal anymore imo. it used to at least tell you who could write, who bothered to tailor it, who paid attention. now everyone's bullets are quantified and everyone reads like they came out of a mckinsey deck. the doc is flawless and somehow tells you nothing i've basically given up trying to win that game at this point. i skim resumes for like 20 seconds now, just enough to cut anyone wildly unqualified, and save the real energy for the interview i've got a few things i look for when i'm trying to spot the people who actually build stuff vs the ones just filling a seat. did they fix something nobody asked them to fix. will they push back on me instead of just nodding along. do they actually own the outcome or just the task problem is none of that shows up fast, takes time to actually see it in someone and it's genuinely hard to catch in one interview. but it's what i'm reaching for when the resume gives me nothing curious what everyone else is doing honestly, if the resume basically tells you nothing anymore what's actually replacing it for you edit: this is basically the hiring version of what i write about every week. i run modern operators, a newsletter for founders trying to get out of the day to day grind of their business. one of the recurring topics is exactly this, the stuff that actually predicts whether someone can run without you (ownership, judgment, follow-through) never shows up in the polished version of anything, whether that's a resume or a status update. free to join here if that's useful for you.
 
-5h ago
+7h ago
 
 ---
 
-**[So is AI going to be any cheaper or is it going to stay expensive enough to not replace software/IT jobs?](https://www.reddit.com/r/artificial/comments/1v2j266/so_is_ai_going_to_be_any_cheaper_or_is_it_going/)**
+**[Why I Left Google DeepMind By Alex Turner](https://www.reddit.com/r/artificial/comments/1v2f8df/why_i_left_google_deepmind_by_alex_turner/)**
 
-Like I have been listening that AI is expensive and companies are rehiring employees because of it. So is AI going to become cheaper eventually?
+I fought against Google’s Pentagon AI deal from the inside. Powerful people and institutions failed to keep their AI ethics promises under pressure.
 
-9h ago
+🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 13h ago
+
+---
+
+**[What if we treated AI as a scarce resource?](https://www.reddit.com/r/artificial/comments/1v2zqy9/what_if_we_treated_ai_as_a_scarce_resource/)**
+
+Over the last few years, AI has become more ubiquitous and abundant seeming. We type, chat, generate, prompt to our heart's content. But the reality is that we're using a highly subsidized resource that's feels unlimited but is highly constrained. How would you change your approach to AI if you viewed it as a scarce, expensive, resource? What would you change about how you use it? Would you use it at all? I'm looking forward to the conversation.
+
+56m ago
+
+---
+
+**[Big Tech is hiding $1.65tn in off-balance-sheet AI debt](https://www.reddit.com/r/artificial/comments/1v30xl0/big_tech_is_hiding_165tn_in_offbalancesheet_ai/)**
+
+A Nikkei study found Alphabet, Microsoft, Amazon, Meta and Oracle carry $1.65tn in off-balance-sheet debt for AI, more than they report. It is all legal.
+
+🔗 [TNW | Amazon](https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai) • 5m ago
 
 ---
 
@@ -73,7 +81,23 @@ Like I have been listening that AI is expensive and companies are rehiring emplo
 
 I use AI for research almost every day now, and it's amazing for getting a quick overview of a topic. But I've also noticed that once the questions become really specific, you eventually need input from someone who's actually done the work. That's especially true for industries where small details can completely change a decision. While reading about how companies solve that problem, I found Expert Network and thought the idea was pretty interesting. Instead of relying only on reports or public information, they connect with professionals who have direct experience in whatever niche they're researching. AI definitely makes learning faster, but real-world experience still feels like something technology can't fully replace.
 
-8h ago
+10h ago
+
+---
+
+**[What language do language models speak?](https://www.reddit.com/r/artificial/comments/1v30cx9/what_language_do_language_models_speak/)**
+
+Can we make LLMs forget how to speak a language? And can we use the same trick to unrestrict language models and have them write explicit erotic fiction of tech CEOs?
+
+🔗 [Zoltan’s Blog](https://tcz.hu/blog/2026/07/22/what-language-do-language-models-speak/) • 30m ago
+
+---
+
+**[So is AI going to be any cheaper or is it going to stay expensive enough to not replace software/IT jobs?](https://www.reddit.com/r/artificial/comments/1v2j266/so_is_ai_going_to_be_any_cheaper_or_is_it_going/)**
+
+Like I have been listening that AI is expensive and companies are rehiring employees because of it. So is AI going to become cheaper eventually?
+
+11h ago
 
 ---
 
@@ -81,37 +105,13 @@ I use AI for research almost every day now, and it's amazing for getting a quick
 
 Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-🔗 [Imgur](https://i.imgur.com/cSTIB4d.png) • 12h ago
+🔗 [Imgur](https://i.imgur.com/cSTIB4d.png) • 13h ago
 
 ---
 
 **[Google Is Building an A.I. Fence Around the Internet It Once Championed](https://www.reddit.com/r/artificial/comments/1v2w9ug/google_is_building_an_ai_fence_around_the/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html) • 1h ago
-
----
-
-**[Is there such thing as a Ai stem splitter detector and if there isn't would it be possible?](https://www.reddit.com/r/artificial/comments/1v2ujo8/is_there_such_thing_as_a_ai_stem_splitter/)**
-
-Hello, I'm curious if there's a way to detect stems split by Ai (Eg splitting vocals from a song to get an instrumental/ other way around), since as of recent the instrumental splits are getting really good, like other than a bit of fuzz during certain parts, you can barely tell and there's a Ai detector for basically every other Ai medium, so i would be shocked if there wasn't but i haven't been able to see since all the results on web searches just bring up suno, ai text detectors or ai splitters themself, if there really isn't, is there a specific reason why they don't exist?
-
-2h ago
-
----
-
-**[An Interview With the Billionaire Whisperer Who Wants to Rank and Score Journalists](https://www.reddit.com/r/artificial/comments/1v2ugcn/an_interview_with_the_billionaire_whisperer_who/)**
-
-"Primary is, according to D’Souza, an IMDb for journalists. Each article that a journalist writes is supposed to be assessed by an LLM and rated 0 to 1,000 based on seven combined metrics."
-
-🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/an-interview-with-aron-dsouza-objection-primary-journalism) • 2h ago
-
----
-
-**[Will the future of AI-assisted art/video depend on prompting skills or just who can afford more tokens.](https://www.reddit.com/r/artificial/comments/1v2tt18/will_the_future_of_aiassisted_artvideo_depend_on/)**
-
-There's a lot of prompt engineering happening nowadays in AI assisted art/video making, app design and other fields and this is valuable skill that separates good AI from mediocre AI. But I keep wondering if that's a temporary phase rather than a long lasting advantage. As generation engines get more expensive to run at higher adherence to prompts, longer context, more iterations, higher resolution, the real differentiator might stop being who can write better prompts and understands the model better and start being who can simply afford to burn more tokens. For an AI artist with a modest budget using the perfect prompt on the first few tries might not be enough if there is someone with deep pockets who can force hundreds of variations, run every idea through multiple engines, upscale everything, and iterate until they land on something better, regardless of whether their prompting was any good. If that's where this is heading prompting skill becomes a nice-to-have rather than the actual moat, and the gap between professional studios and independent artists could widen based purely on compute spend rather than creative or technical ability. If AI art goes this way, we might see a distinction where independent artists become good at working within constrained tools and resources while studios and well funded creators can just throw money at the problem until quality differences show up. There's a moral tension in all this. AI tools were supposed to lower the barrier to entry, letting people without formal training or big budgets make things they couldn't before. And in a lot of ways they have. But if the ceiling on quality ends up being dependent on who can afford more tokens and compute, then one barrier of technical skill and training is being replaced with another barrier of raw spending power. That feels like a strange outcome for a technology that markets itself as equalising creativity. So is skill going to matter less over time or will the tools get cheap enough that this concern won't really matter.
-
-3h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html) • 3h ago
 
 ---
 
@@ -123,13 +123,13 @@ There's a lot of prompt engineering happening nowadays in AI assisted art/video 
 
 We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
 
-blog.google • 7h ago
+blog.google • 9h ago
 
 ---
 
 **[Google Releases Three New A.I. Models](https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html)**
 
-The New York Times • 8h ago
+The New York Times • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 8h ago
 
 Google will report its second quarter earnings after the bell on Wednesday.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -145,49 +145,49 @@ Yahoo Finance • 12h ago
 
 OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
 
-OpenAI • 3h ago
+OpenAI • 4h ago
 
 ---
 
-**[OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html)**
+**[OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company](https://apnews.com/article/openai-gpt56-sol-hugging-face-63ab84fed5612af04d8a160d60f6def3)**
 
-The New York Times • 2h ago
+OpenAI has disclosed an "unprecedented cyber incident" where its AI system allegedly hacked into another AI company.
 
----
-
-**[OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup](https://www.yahoo.com/news/science/articles/openai-says-ai-models-went-230755198.html)**
-
-By Raphael Satter WASHINGTON, July 21 (Reuters) - OpenAI said on Tuesday that some of its AI models went rogue during a security test and triggered a hack that compromised the infrastructure of AI
-
-Yahoo • 21m ago
+AP News • 1h ago
 
 ---
 
-**[Exclusive | Trump Pledge to Limit AI-Driven Electric-Bill Increases Attracts Big Utilities](https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981)**
+**[OpenAI says its AI models went rogue and attacked a digital library](https://www.seattletimes.com/business/openai-says-its-ai-models-went-rogue-and-attacked-a-digital-library/)**
 
-WSJ • 12m ago
-
----
-
-**[Newborn Town Targets Global Viewers With AI-Made Short Dramas](https://www.bloomberg.com/news/articles/2026-07-21/newborn-town-targets-global-viewers-with-ai-made-short-dramas)**
-
-Bloomberg.com • 28m ago
+The Seattle Times • 4m ago
 
 ---
 
-**[Will AI help you do your job or replace you?](https://www.bbc.com/news/articles/cn7nllr4vd6o)**
+**[China on the AI march: AI giants sound alarm](https://www.foxnews.com/video/6401777881112)**
 
-Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.
+Former executive director of CISA Bridget Bean discusses China's rapid advancements in A.I. and the potential security risks for the U.S. on 'The Ingraham Angle.'
 
-BBC • 24m ago
+Fox News • 25m ago
 
 ---
 
-**[The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it](https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html)**
+**[Breakthroughs for AI Promise to Slash Energy Needs, Temasek Says](https://www.bloomberg.com/news/articles/2026-07-22/breakthroughs-for-ai-promise-to-slash-energy-needs-temasek-says)**
 
-The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.
+Bloomberg.com • 39m ago
 
-CNBC • 1h ago
+---
+
+**[AI revolution arrives in North Texas: Nvidia and Wistron launch manufacturing plant in Fort Worth](https://www.cbsnews.com/texas/news/ai-revolution-texas-nvidia-wistron-plant-fort-worth/)**
+
+The future of AI technology manufacturing has landed in North Texas​.
+
+CBS News • 31m ago
+
+---
+
+**[Wetzel: UM could have run this investigation through AI instead](https://www.espn.com/college-football/story/_/id/49418138/um-run-investigation-ai)**
+
+ESPN • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ CNBC • 1h ago
 
 China's open-weights AI strategy is winning: its companies are taking the lead. America's closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.
 
-⬆️ 1209 • 💬 915 • 1d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+⬆️ 1215 • 💬 917 • 1d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
 ---
 
@@ -207,13 +207,13 @@ China's open-weights AI strategy is winning: its companies are taking the lead. 
 
 The sky (and your endurance) is the limit!
 
-⬆️ 830 • 💬 161 • 1d ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 832 • 💬 162 • 1d ago • [Airport Simulator](https://airport.apunen.com/)
 
 ---
 
 **[AI Mania Is Eviscerating Global Decision-Making](https://news.ycombinator.com/item?id=48964185)**
 
-⬆️ 446 • 💬 287 • 2d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+⬆️ 447 • 💬 287 • 2d ago • [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 
 ---
 
@@ -221,7 +221,7 @@ The sky (and your endurance) is the limit!
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-⬆️ 363 • 💬 209 • 2d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+⬆️ 363 • 💬 210 • 2d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
 
 ---
 
@@ -229,7 +229,7 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows
 
-⬆️ 352 • 💬 240 • 19h ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
+⬆️ 354 • 💬 246 • 21h ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
 
 ---
 
@@ -247,7 +247,15 @@ Over the past 48 hours, demand has pushed close to the limits of our current cap
 
 We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.
 
-⬆️ 238 • 💬 163 • 1d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
+⬆️ 240 • 💬 165 • 1d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
+
+---
+
+**[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://news.ycombinator.com/item?id=48995213)**
+
+Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
+
+⬆️ 229 • 💬 209 • 7h ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
 ---
 
@@ -259,17 +267,9 @@ Which way to the Land of the Free again?
 
 ---
 
-**[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://news.ycombinator.com/item?id=48995213)**
-
-Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
-
-⬆️ 204 • 💬 190 • 6h ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
-
----
-
 **[AI makes programming differently difficult](https://news.ycombinator.com/item?id=48996197)**
 
-⬆️ 136 • 💬 113 • 4h ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+⬆️ 140 • 💬 117 • 6h ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
 
 ---
 
@@ -283,7 +283,7 @@ An autonomous AI agent hacked Hugging Face from start to finish, executing thous
 
 📺 AI Revolution
 
-👁️ 3K • 👍 270 • 💬 30 • ⏱️ 12:19 • 1h ago
+👁️ 3K • 👍 270 • 💬 30 • ⏱️ 12:19 • 3h ago
 
 ---
 
@@ -303,7 +303,7 @@ MrVoid #FreeAIVideo #AIVideoGenerator #GrokAI #sora #lovart #lovartai Access Lov
 
 📺 Mr Void
 
-👁️ 2K • 👍 114 • 💬 9 • ⏱️ 12:21 • 9h ago
+👁️ 2K • 👍 114 • 💬 9 • ⏱️ 12:21 • 10h ago
 
 ---
 
@@ -313,7 +313,7 @@ Tesla, SpaceX, Grok, Starlink, and AI may all be pieces of a much larger vision.
 
 📺 Brighter with Herbert
 
-👁️ 13K • 👍 844 • 💬 63 • ⏱️ 35:24 • 9h ago
+👁️ 13K • 👍 844 • 💬 63 • ⏱️ 35:24 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ It's all about VALUEMAXXING now! Learn more from Zapier: https://bit.ly/4bW1JB8 
 
 📺 Matthew Berman
 
-👁️ 18K • 👍 1K • 💬 388 • ⏱️ 27:13 • 3h ago
+👁️ 18K • 👍 1K • 💬 388 • ⏱️ 27:13 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ On July 17, the Shanghai Pudong World Expo Center hosted a heavily promoted even
 
 📺 China Observer
 
-👁️ 37K • 👍 2K • 💬 409 • ⏱️ 16:56 • 2d ago
+👁️ 37K • 👍 2K • 💬 409 • ⏱️ 16:56 • 3d ago
 
 ---
 
@@ -351,7 +351,7 @@ John Johnston (JJ) breaks down how SpaceX stock has gone down nearly 50% from th
 
 📺 The John Johnston Lounge
 
-👁️ 18K • 👍 1K • 💬 317 • ⏱️ 19:16 • 12h ago
+👁️ 18K • 👍 1K • 💬 317 • ⏱️ 19:16 • 13h ago
 
 ---
 
@@ -361,7 +361,7 @@ Chinese startup Moonshot is preparing to release its AI model Kimi K3, which it 
 
 📺 ABC News (Australia)
 
-👁️ 20K • 👍 256 • ⏱️ 4:58 • 14h ago
+👁️ 20K • 👍 256 • ⏱️ 4:58 • 15h ago
 
 ---
 
@@ -371,7 +371,7 @@ Moonshot paused new Kimi K3 subscriptions after extreme demand pushed its comput
 
 📺 AI Revolution
 
-👁️ 49K • 👍 2K • 💬 112 • ⏱️ 16:39 • 23h ago
+👁️ 49K • 👍 2K • 💬 112 • ⏱️ 16:39 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,237,351 • ❤️ 2,602 • 12h ago
+⬇️ 2,237,351 • ❤️ 2,602 • 14h ago
 
 ---
 
@@ -481,7 +481,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 474 • 8h ago
+⬇️ 0 • ❤️ 474 • 9h ago
 
 ---
 
@@ -493,7 +493,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 3,056 • ❤️ 164 • 1h ago
+⬇️ 3,056 • ❤️ 164 • 2h ago
 
 ---
 
@@ -651,7 +651,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 235 • 11h ago
+⭐ 3.1k • 🔱 235 • 13h ago
 
 ---
 
@@ -661,7 +661,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 374 • 5h ago
+⭐ 2.7k • 🔱 374 • 6h ago
 
 ---
 
@@ -701,7 +701,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 946 • 🔱 155 • 11h ago
+⭐ 946 • 🔱 155 • 13h ago
 
 ---
 
@@ -729,7 +729,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 869 • 🔱 100 • 6h ago
+⭐ 869 • 🔱 100 • 7h ago
 
 ---
 
