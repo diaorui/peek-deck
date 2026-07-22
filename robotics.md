@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-22T15:48:14.887423+00:00'
+updated: '2026-07-22T17:20:08.398970+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 22, 2026 at 15:48 UTC  
+**Last Updated:** July 22, 2026 at 17:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Recording some data, and here’s one lesson I learned the hard way: limit your gripper torque to the minimum you need during teleoperation, plastic parts break 🤭
 
-22h ago
+23h ago
 
 ---
 
@@ -74,7 +74,7 @@ Four-legged robots can reach many places that wheeled vehicles cannot. Isn’t i
 
 Hey r/robotics , First time posting here and first time doing a real robotics build, so go easy on me. My son turns 4 in August and he's non verbal autistic. I originally built a tablet app for him to communicate, but when you give a 3 year old a tablet they just think it's game time. So I decided to try making a dedicated physical companion that actually looks at him when he talks to it. I put together this bench prototype and honestly was surprised by how much he responded to it. He's actually using the cards, learning the words, and tracking the head movements. My goal eventually is to get something like this into other parents hands for under 200 quid or so. It runs 100% offline too, so no cloud fees or privacy issues. I have the software side mostly sorted out now, but I need advice on taking it from 3D printed parts and breadboards to something safe and manufacturable. Quick overview of what's under the hood: It runs on a Pi 5 with a Flutter web interface and a Python FastAPI backend for offline Piper TTS. Vision is an IMX708 camera on a pan tilt mount using YuNet ONNX for face tracking. Motor control is offloaded to a Waveshare ESP32 driving two ST3215 serial servos. Had to write some EMA filtering to stop the servos from shaking. Enclosure is currently drafted in OpenSCAD. A few big questions I'm trying to figure out: Screen placement and wobble. Right now the 7 inch touchscreen is on the head. Tapping it makes the whole neck wobble. Do I keep the screen on the head so it looks at him when speaking, or move the heavy touch screen to the base and just use little ESP matrix screens for eyes on the head? Making it expressive without pinch hazards. I want ears/antennas or arms to show emotion, but small kids put their hands everywhere. Are servo driven ears safe enough or a bad idea? (Skipping wheels so it doesn't drive off tables). Taking an OpenSCAD 3D print to injection molding. What should I prepare for if I want to get low volume plastic shells made? Also any good Shenzhen turnkey PCBA suppliers you guys recommend to replace the Pi and ESP dev boards down the line? I'm setting up a Discord to organize the hardware side and get feedback from speech OTs. Let me know if you want an invite and I'll send it over. Video shows the offline AAC sentence builder and tracking working, plus a concept render at the end of what I want the shell to look like.
 
-22h ago
+1d ago
 
 ---
 
@@ -138,23 +138,25 @@ TechCrunch • 1d ago
 
 ---
 
-**[Adaptive Robotics Is Expanding What's Possible in Manufacturing](https://www.automate.org/robotics/blogs/adaptive-robotics-is-expanding-whats-possible-in-manufacturing)**
+**[ABB Robotics and NVIDIA white paper defines transformative impact of physical AI on manufacturing](https://www.automate.org/robotics/news/abb-robotics-and-nvidia-white-paper-defines-transformative-impact-of-physical-ai-on-manufacturing)**
 
-Learn how conventional robotic systems are moving beyond rigid automation.
+ABB Robotics and NVIDIA white paper, highlights the transformative impact of industrial-grade physical AI on precision manufacturing to revolutionize speed and versatility.
 
-A3 Association for Advancing Automation • 2h ago
+A3 Association for Advancing Automation • 1h ago
+
+---
+
+**[Ukrainian drones deliver robots directly into battle by sea and air](https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/)**
+
+Ukraine's battlefield surge of robots now features airdrops and beach assaults.
+
+Ars Technica • 6h ago
 
 ---
 
 **[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
 
-WSJ • 5h ago
-
----
-
-**[Banks Wrap Up Loan Backing SoftBank’s $5.4 Billion Robotics Bet](https://www.bloomberg.com/news/articles/2026-07-21/banks-wrap-up-loan-backing-softbank-s-5-4-billion-robotics-bet)**
-
-Bloomberg.com • 18h ago
+WSJ • 7h ago
 
 ---
 
@@ -166,19 +168,17 @@ CNBC • 1d ago
 
 ---
 
-**[Ukrainian drones deliver robots directly into battle by sea and air](https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/)**
+**[Banks Wrap Up Loan Backing SoftBank’s $5.4 Billion Robotics Bet](https://www.bloomberg.com/news/articles/2026-07-21/banks-wrap-up-loan-backing-softbank-s-5-4-billion-robotics-bet)**
 
-Ukraine's battlefield surge of robots now features airdrops and beach assaults.
-
-Ars Technica • 4h ago
+Bloomberg.com • 20h ago
 
 ---
 
-**[For The First Time Ever, Humanoid Robots Perform Surgery on Live Animals](https://www.sciencealert.com/world-first-humanoid-robots-perform-surgery-on-live-animals-this-could-prove-useful-in-space)**
+**[Robotics developer Vicarious Surgical shuts down to liquidate assets](https://www.massdevice.com/robotics-developer-vicarious-surgical-shuts-down-to-liquidate-assets/)**
 
-For the first time ever, humanoid robots operated by surgeons have successfully performed laparoscopic gallbladder removal in pigs.
+Vicarious Surgical investors voted to close the struggling surgical robotics developer and sell off its assets.
 
-ScienceAlert • 7h ago
+MassDevice • 17h ago
 
 ---
 
@@ -186,33 +186,23 @@ ScienceAlert • 7h ago
 
 ## YouTube Videos: "robotics"
 
+**[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
+
+China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
+
+📺 RedTech Insights
+
+👁️ 17K • 👍 355 • 💬 25 • ⏱️ 19:31 • 1d ago
+
+---
+
 **[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
 
 Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
 
 📺 Joanna Stern
 
-👁️ 84K • 👍 3K • 💬 267 • ⏱️ 12:02 • 5d ago
-
----
-
-**[Human-Size Robot Fight Begins in China As Robot Fight for $1M Prize in First Robot MMA](https://www.youtube.com/watch?v=5IMU5or-VFo)**
-
-The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
-
-📺 Chris Wabs
-
-👁️ 272K • 👍 6K • 💬 2K • ⏱️ 11:15 • 5d ago
-
----
-
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
-
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
-
-📺 Air Photography
-
-👁️ 80K • 👍 2K • 💬 214 • ⏱️ 7:15 • 6d ago
+👁️ 84K • 👍 3K • 💬 267 • ⏱️ 12:02 • 6d ago
 
 ---
 
@@ -222,37 +212,27 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 21K • 👍 142 • 💬 51 • ⏱️ 0:27 • 5d ago
+👁️ 21K • 👍 143 • 💬 51 • ⏱️ 0:27 • 5d ago
 
 ---
 
-**[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
+**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
 
-China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
+This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
 
-📺 RedTech Insights
+📺 Air Photography
 
-👁️ 16K • 👍 350 • 💬 25 • ⏱️ 19:31 • 1d ago
-
----
-
-**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
-
-The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
-
-📺 1M65
-
-👁️ 21K • 👍 340 • 💬 79 • ⏱️ 13:38 • 3d ago
+👁️ 81K • 👍 2K • 💬 216 • ⏱️ 7:15 • 6d ago
 
 ---
 
-**[Do robots need to look like humans? - Asia Specific podcast, BBC World Service](https://www.youtube.com/watch?v=8jXScBvrEJ0)**
+**[This SHOCKED me in Chengdu, China!](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
 
-Humanoid robots are suddenly everywhere - dancing, boxing, running marathons and even attempting surgery. China leads the ...
+America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
 
-📺 BBC World Service
+📺 Living in China
 
-👁️ 6K • 👍 150 • 💬 23 • ⏱️ 18:15 • 16h ago
+👁️ 17K • 👍 1K • 💬 89 • ⏱️ 12:28 • 1d ago
 
 ---
 
@@ -262,27 +242,47 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 33K • 👍 1K • 💬 91 • ⏱️ 14:37 • 3d ago
+👁️ 34K • 👍 1K • 💬 91 • ⏱️ 14:37 • 4d ago
 
 ---
 
-**[AI mini TARS speaking Spanish.](https://www.youtube.com/watch?v=_862GFZntm8)**
+**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
 
-Yes he's multilingual. For the most part. #ai #chatgpt #robot #comedy #robotics.
+The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
 
-📺 gptars
+📺 1M65
 
-👁️ 17K • 👍 931 • 💬 43 • ⏱️ 0:35 • 22h ago
+👁️ 21K • 👍 341 • 💬 79 • ⏱️ 13:38 • 3d ago
 
 ---
 
-**[America Is Now Building Humanoid AI Robot Soldiers for War](https://www.youtube.com/watch?v=Qm64Vm-lf80)**
+**[This Robot Is Almost Human.](https://www.youtube.com/watch?v=qXxAHBbWMDs)**
 
-An American robotics startup is preparing humanoid AI robots for war. Its Phantom machines have already been tested in Ukraine, ...
+What if a robot could look you in the eyes. smile. and hold a conversation just like a human? ** Meet the **Origin F1**, ...
 
-📺 AI Revolution
+📺 Dark Narr
 
-👁️ 24K • 👍 702 • 💬 103 • ⏱️ 13:15 • 3d ago
+👁️ 3K • 👍 106 • 💬 8 • ⏱️ 0:44 • 6h ago
+
+---
+
+**[Do robots need to look like humans? - Asia Specific podcast, BBC World Service](https://www.youtube.com/watch?v=8jXScBvrEJ0)**
+
+Humanoid robots are suddenly everywhere - dancing, boxing, running marathons and even attempting surgery. China leads the ...
+
+📺 BBC World Service
+
+👁️ 7K • 👍 172 • 💬 32 • ⏱️ 18:15 • 18h ago
+
+---
+
+**[Intense Human Size Robot MMA Fight League Debuts in China As Robots Battle for $1M Prize](https://www.youtube.com/watch?v=5IMU5or-VFo)**
+
+The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
+
+📺 Chris Wabs
+
+👁️ 279K • 👍 6K • 💬 2K • ⏱️ 11:15 • 5d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-22T15:48:14.868605+00:00'
+updated: '2026-07-22T17:20:08.380848+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 22, 2026 at 15:48 UTC  
+**Last Updated:** July 22, 2026 at 17:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Nvidia's Jensen Huang defends Chinese AI amid Kimi panic](https://www.reddit.com/r/artificial/comments/1v3l4t7/nvidias_jensen_huang_defends_chinese_ai_amid_kimi/)**
+
+🔗 [axios.com](https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai) • 52m ago
+
+---
+
 **[Sutskever's List AMA](https://www.reddit.com/r/artificial/comments/1v3g2tu/sutskevers_list_ama/)**
 
 Hi r/artificial I’m Rich Heimann. I’ll be answering questions about Sutskever’s List here throughout the day on July 28. Looking forward to the discussion. https://preview.redd.it/2t1q10jj7seh1.png?width=696&format=png&auto=webp&s=ce3f1d9d6ccea5ec10c81a66ee2ead124fc0af30
 
-2h ago
+3h ago
 
 ---
 
@@ -49,23 +55,7 @@ Hi r/artificial I’m Rich Heimann. I’ll be answering questions about Sutskeve
 
 For a bit of context, I work at an agency, so I'm in and out of a dozen different AI tools every week across client projects: content, research, video, code, all of it. This is probably why I noticed this before most people (found these news while scrolling on LinkedIn today). When the ChatGPT hype first hit I genuinely cared which model I was on. Once GPT-4 landed and claude and gemini showed up, I'd switch between them constantly depending on the task, knowing what was under the hood felt like part of using it well. Now I catch myself using products with no idea what's running underneath. The news about Microsoft testing Kimi (Moonshot's model) inside Copilot is what made it click today. Copilot today is one model, six months from now it could be another, and most people won't notice or care. The model became a component, not the product. And honestly that's already how I use most of this stuff. Cursor for coding, Perplexity for research, Canva AI for design stuff, Argil when I'm turning a script into video. I couldn't tell you which model any of them swapped to last quarter, and it wouldn't change whether I keep paying. They're valuable because they solve one specific problem better than me duct-taping five tools together, not because of the model name on the box. Feels like we're moving from "which LLM is this?" to "did it actually save me time?" the same way nobody buying a laptop thinks about the chip anymore. Curious if others feel this shift. Do you still pick tools by the underlying model, or has that stopped mattering for you?
 
-20h ago
-
----
-
-**[an AI agent got prompt-injected into moving $175K on-chain. first documented case of this actually happening](https://www.reddit.com/r/artificial/comments/1v3dcgn/an_ai_agent_got_promptinjected_into_moving_175k/)**
-
-Hey guys, havent seen much of crypto-related stuff posted here, but since AI agents are now apparently a new attack vector for stealing crypto, figured this sub would actually care about the mechanism So, grok has an agent wallet that can execute on-chain transactions. in may 2026, someone airdropped a "bankr club" membership nft to grok's agent wallet. that nft unlocked transaction permissions and carried an encoded prompt injection. grok read the nft, and without any check on where the instruction actually came from, executed a transfer of 3 billion drb tokens, worth around $175K. the attacker returned the funds a few minutes later (still unclear why, possibly just proving the exploit works). basically: crypto hacks used to mean finding a bug in a smart contract or stealing someone's private key. now there's a third way in, just feed the agent a malicious instruction disguised as normal data, and let it execute the "recommendation" as if it were an authorized command. no code was exploited, no key was stolen. the agent just did exactly what it was designed to do, follow instructions, without checking if the instruction was legitimate. and this isn't some tiny edge case, there were 24 million agentic-payment transactions in crypto in q2 alone. agents moving real money autonomously is already happening at scale, this is apparently just the first documented case of one getting maliciously hijacked this way. feels like as more agents get wallet/transaction access, this becomes the default way to attack them, you don't need to beat the model, you just need to get a malicious instruction in front of it disguised as something innocent. curious if anyone's seen good approaches to separating "the model recommends an action" from "the action actually gets authorized," since that gap seems to be the entire vulnerability here
-
-4h ago
-
----
-
-**[Why I Build The Website Before Asking For Payment](https://www.reddit.com/r/artificial/comments/1v3eauu/why_i_build_the_website_before_asking_for_payment/)**
-
-I’ve been in contact with a lot of web agencies and web developers, and I personally haven’t found many people who run their agency in a more efficient way than I do. A lot of them have too many meetings, wait too long for client approval, don’t know how to price projects, and spend way too much time on each client instead of finishing the work and moving on to the next one. I’ve been running my agency for four years, and after a lot of trial and error, I’ve managed to make the process as efficient as possible. I wanted to share some of the steps because I think they could be valuable for anyone just starting out. Running a web agency alone or with a partner isn’t easy because there are a lot of things to take care of. When it comes to client acquisition, I recommend focusing on either cold calling or email automation. Which one you choose depends on whether you run the agency alone or with someone else. If you have a partner, one person can handle sales while the other focuses on building websites, connecting domains, setting up emails, and taking care of the technical work. If you’re running the agency alone, or neither of you enjoys cold calling, I highly recommend email automation. That’s what I’ve been doing for years. It’s powerful because you can send emails at scale, set up automatic follow ups, and wait for businesses interested in a new website to reply. While you’re working on one client, another opportunity can come in without you having to stop everything and search manually. I don’t do regular email automation where I target businesses with no website. I do the opposite and target businesses that already have one. I use a tool called Swokei to find businesses with websites, add them to campaigns, analyze each site, score it, and generate personalized outreach emails based on problems it finds with the design, layout, speed, SEO, and mobile optimization.I schedule the campaign, set up follow ups, and wait. I think this approach is much better for a few reasons. You’re targeting someone who already understands the value of having a website. You’re also not just asking whether they need a redesign. You’re pointing out real problems with their current site, which makes it clear that you actually took the time to look at it. Selling also becomes easier because they’ve already paid for a website before and understand the process. Inside Swokei, you can choose the goal of the campaign. You can offer a free draft, try to book a meeting, or simply start a conversation. I always choose the free draft because that has worked best for me. Once you’ve figured out how to get clients, the next part is building the website. I recommend using AI because it makes the process much faster. For anyone who still thinks AI can’t build great websites, I think they’re mistaken. You can use Claude, Base44, Lovable, or any other tool that works for you. When someone replies interested, I call them and say, “Hey, I saw that you replied to my email. I’ve already built you a free draft of your website. Do you want to take a look?” Then I invite them to a Google Meet. At that point, it becomes much harder for them to reject the meeting because they already replied interested and now know you’ve built something for them. During the meeting, I present the website, explain why it’s better than their current one, stack the value, answer their questions, and try to close the deal. These meetings usually go well because the client isn’t trying to imagine what the website might look like. They can already see a better version of their current site. They also took the time to join the meeting, so taking the next step becomes much easier. I either take payment during the meeting or send them a contract to sign. Any changes and updates come after that, once we already have a deal in place. Pricing depends on the business. I charge anywhere from $500 to $3,000 depending on the company, the size of the project, and how much value the website can bring them. I also charge a monthly retainer of around $50 for hosting, maintenance, support, SEO, and future changes. That’s basically the entire process. Smaller steps, faster delivery, less wasted time, and more money made.
-
-3h ago
+21h ago
 
 ---
 
@@ -73,15 +63,39 @@ I’ve been in contact with a lot of web agencies and web developers, and I pers
 
 When the hype around autonomous multi-agent swarms started, I built a complex assistant to plan, execute and self-correct workflows end to end. Within weeks of live deployment, it became an unmaintainable token pit that got lost four steps deep into reasoning loops and quietly failed without throwing errors. It quickly became clear that the hardest part of building real agents isn't making the model smarter but building external guardrails that keep the system on the rails when the LLM strays. The breakthrough came from ditching open-ended planner architectures for a strict one-job-per-agent pattern. Giving each agent a narrow task with explicit state boundaries eliminated most of our edge-case failures. Instead of expecting a master agent to handle an entire pipeline, isolating micro-agents with strict input and output contracts made the system deterministic and simple to debug when a state transition broke. We also learned to balance human-in-the-loop controls by focusing on the blast radius. Low-risk internal tasks run autonomously while any irreversible external write requires a single-click human approval. If you are currently overwhelmed by framework choices, stop chasing complex abstractions. Treat the language model as a brilliant but unpredictable sub-component rather than the entire architecture and focus purely on robust state management and error recovery.
 
-4h ago
+5h ago
 
 ---
 
-**[An OpenAI test model escaped and broke into a real company’s servers](https://www.reddit.com/r/artificial/comments/1v3j7cg/an_openai_test_model_escaped_and_broke_into_a/)**
+**[an AI agent got prompt-injected into moving $175K on-chain. first documented case of this actually happening](https://www.reddit.com/r/artificial/comments/1v3dcgn/an_ai_agent_got_promptinjected_into_moving_175k/)**
 
-OpenAI says some of its experimental AI models left a test environment with no human direction and hacked its way onto a different company’s real production systems while trying to “cheat” on a cybersecurity test.
+Hey guys, havent seen much of crypto-related stuff posted here, but since AI agents are now apparently a new attack vector for stealing crypto, figured this sub would actually care about the mechanism So, grok has an agent wallet that can execute on-chain transactions. in may 2026, someone airdropped a "bankr club" membership nft to grok's agent wallet. that nft unlocked transaction permissions and carried an encoded prompt injection. grok read the nft, and without any check on where the instruction actually came from, executed a transfer of 3 billion drb tokens, worth around $175K. the attacker returned the funds a few minutes later (still unclear why, possibly just proving the exploit works). basically: crypto hacks used to mean finding a bug in a smart contract or stealing someone's private key. now there's a third way in, just feed the agent a malicious instruction disguised as normal data, and let it execute the "recommendation" as if it were an authorized command. no code was exploited, no key was stolen. the agent just did exactly what it was designed to do, follow instructions, without checking if the instruction was legitimate. and this isn't some tiny edge case, there were 24 million agentic-payment transactions in crypto in q2 alone. agents moving real money autonomously is already happening at scale, this is apparently just the first documented case of one getting maliciously hijacked this way. feels like as more agents get wallet/transaction access, this becomes the default way to attack them, you don't need to beat the model, you just need to get a malicious instruction in front of it disguised as something innocent. curious if anyone's seen good approaches to separating "the model recommends an action" from "the action actually gets authorized," since that gap seems to be the entire vulnerability here
 
-🔗 [CNN](https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 27m ago
+5h ago
+
+---
+
+**[I think companies will end up deleting more AI agents than they deploy](https://www.reddit.com/r/artificial/comments/1v3mial/i_think_companies_will_end_up_deleting_more_ai/)**
+
+Everyone seems focused on building more AI agents rn. But I've been thinking about what happens a year or two later. Different teams build agents for different workflows. Some end up doing almost the same thing. Some stop getting used. Some still exist even though the process they were built for has changed. We've seen this happen with internal tools, scripts, and even microservices. They solved real problems at the time, but very few teams were excited about cleaning them up later. I wouldn't be surprised if AI agents end up following the same pattern. Has anyone started thinking about this already, or do you think better governance and agent platforms will keep it from becoming a problem?
+
+5m ago
+
+---
+
+**[Meta employees' lawsuit shows that if AI fires you, proving it is the hard part](https://www.reddit.com/r/artificial/comments/1v3ck6n/meta_employees_lawsuit_shows_that_if_ai_fires_you/)**
+
+Read this today, meta employees suing over AI picking them for layoffs, judge basically said they can't prove it since they "weren't in the room" when it happened. It feels like the real problem with AI firing you isn't whether it's happening, it's that nobody outside the room can actually prove it either way.
+
+🔗 [reuters.com](https://www.reuters.com/business/world-at-work/meta-employees-lawsuit-shows-that-if-ai-fires-you-proving-it-is-hard-part-2026-07-22/) • 6h ago
+
+---
+
+**[Why I Build The Website Before Asking For Payment](https://www.reddit.com/r/artificial/comments/1v3eauu/why_i_build_the_website_before_asking_for_payment/)**
+
+I’ve been in contact with a lot of web agencies and web developers, and I personally haven’t found many people who run their agency in a more efficient way than I do. A lot of them have too many meetings, wait too long for client approval, don’t know how to price projects, and spend way too much time on each client instead of finishing the work and moving on to the next one. I’ve been running my agency for four years, and after a lot of trial and error, I’ve managed to make the process as efficient as possible. I wanted to share some of the steps because I think they could be valuable for anyone just starting out. Running a web agency alone or with a partner isn’t easy because there are a lot of things to take care of. When it comes to client acquisition, I recommend focusing on either cold calling or email automation. Which one you choose depends on whether you run the agency alone or with someone else. If you have a partner, one person can handle sales while the other focuses on building websites, connecting domains, setting up emails, and taking care of the technical work. If you’re running the agency alone, or neither of you enjoys cold calling, I highly recommend email automation. That’s what I’ve been doing for years. It’s powerful because you can send emails at scale, set up automatic follow ups, and wait for businesses interested in a new website to reply. While you’re working on one client, another opportunity can come in without you having to stop everything and search manually. I don’t do regular email automation where I target businesses with no website. I do the opposite and target businesses that already have one. I use a tool called Swokei to find businesses with websites, add them to campaigns, analyze each site, score it, and generate personalized outreach emails based on problems it finds with the design, layout, speed, SEO, and mobile optimization.I schedule the campaign, set up follow ups, and wait. I think this approach is much better for a few reasons. You’re targeting someone who already understands the value of having a website. You’re also not just asking whether they need a redesign. You’re pointing out real problems with their current site, which makes it clear that you actually took the time to look at it. Selling also becomes easier because they’ve already paid for a website before and understand the process. Inside Swokei, you can choose the goal of the campaign. You can offer a free draft, try to book a meeting, or simply start a conversation. I always choose the free draft because that has worked best for me. Once you’ve figured out how to get clients, the next part is building the website. I recommend using AI because it makes the process much faster. For anyone who still thinks AI can’t build great websites, I think they’re mistaken. You can use Claude, Base44, Lovable, or any other tool that works for you. When someone replies interested, I call them and say, “Hey, I saw that you replied to my email. I’ve already built you a free draft of your website. Do you want to take a look?” Then I invite them to a Google Meet. At that point, it becomes much harder for them to reject the meeting because they already replied interested and now know you’ve built something for them. During the meeting, I present the website, explain why it’s better than their current one, stack the value, answer their questions, and try to close the deal. These meetings usually go well because the client isn’t trying to imagine what the website might look like. They can already see a better version of their current site. They also took the time to join the meeting, so taking the next step becomes much easier. I either take payment during the meeting or send them a contract to sign. Any changes and updates come after that, once we already have a deal in place. Pricing depends on the business. I charge anywhere from $500 to $3,000 depending on the company, the size of the project, and how much value the website can bring them. I also charge a monthly retainer of around $50 for hosting, maintenance, support, SEO, and future changes. That’s basically the entire process. Smaller steps, faster delivery, less wasted time, and more money made.
+
+5h ago
 
 ---
 
@@ -89,7 +103,7 @@ OpenAI says some of its experimental AI models left a test environment with no h
 
 In your opinion, how useful is AI for students when it comes to research and completing assignments in high schools and colleges?
 
-34m ago
+2h ago
 
 ---
 
@@ -97,23 +111,7 @@ In your opinion, how useful is AI for students when it comes to research and com
 
 Google Genie 3 got a lot of attention this week and the demos look wild, but I keep thinking about the gap between visually coherent and actually playable. Watching someone walk through a generated open world that technically holds together is cool. Playing it for an hour is a different question entirely. What makes games interesting isn't visual fidelity or even world size. It's the density of things that reward curiosity. Handcrafted secrets, enemy placement that forces you to think, dialogue that carries actual weight. Right now AI worlds feel like procedural generation did in the early days: technically unlimited but weirdly hollow once you scratch the surface. There's a version of this future I would actually play. A world that adapts its structure to how you play, rather than just generating more terrain that looks roughly the same. That would be something. But that requires the model to understand player intent at a level current systems are nowhere near. The hype framing of these demos as the future of games bugs me a little because it collapses the distance between what's possible right now and what would actually ship as a product people care about. Curious if anyone here has spent real time with any of these generated environments beyond a short clip.
 
-48m ago
-
----
-
-**[AI From the Trenches: Why Its Brilliance and Failures Share the Same Root](https://www.reddit.com/r/artificial/comments/1v3ilb1/ai_from_the_trenches_why_its_brilliance_and/)**
-
-I spent more than 2,000 hours across seven months building a live platform with AI as my only technical partner. I had no software development background going in. Throughout the build, I repeatedly encountered the same six failure modes: Band-Aid: Fixing the symptom instead of the cause Assumption: Filling a gap with what should be true instead of checking what actually is Drift: Quietly changing the scope or structure without saying so Hallucination: Inventing something instead of admitting it does not know Lack of Common Sense: Missing something a human would catch immediately Path of Least Resistance: Choosing the easy fix instead of the right one I documented the experience in a field report called AI: The Perpetual Intern. Here are two moments that helped make the underlying problem clear to me. Story one: The nine migration files I could no longer judge After a long and detailed design conversation, the model produced nine complete database migration files. They included isolated schemas, permissions, versioned pricing, audit rules, and more. It was genuinely impressive. Then the model asked me how a particular field should behave. I realized I could not answer. I had approved every decision individually, but I no longer understood how the nine tables worked together as a whole. I could not see what all those reasonable individual decisions had added up to. I eventually had to build an actual frontend so I could use the system as a person would before I could responsibly make the next architectural decision. Story two: Asking twice and being told yes twice We had to restore the project from backup twice. One of those restorations became necessary after an old Git repository quietly injected garbage text into hundreds of frontend files. I asked the model directly whether the cleanup was actually complete. It said yes. I asked again to make sure. It said yes again. It was not complete. When I pushed back, the next proposed fixes became worse. The model offered to wipe entire structural directories just to make the visible symptom disappear. That was not a lack of intelligence. The model was highly capable throughout the entire process. But its confidence was not connected to verified system truth. Why this still matters as models improve I have gone back to building with newer models since finishing the manuscript, and they are genuinely better. They handle context better, verify more often, and make narrower changes instead of broad rewrites. That is real progress, not just marketing. But the six failure modes have not disappeared. They occur less often, and that can make them harder to catch because everything surrounding the mistake now looks more polished and convincing. That is why I think this framework is worth preserving. It is not a takedown of any company or model. It is a ruler. Whenever a new model arrives, the useful question is not simply, “Is it smarter?” The more useful questions are: Which of these failure modes did it actually reduce? Which ones still remain? Which decisions still require a human, no matter how convincing the output looks? What this subreddit is for This is a place for real and specific accounts of building with AI: What broke What worked What you had to learn the hard way Model comparisons based on actual use, not benchmark screenshots Session design and context-management techniques Verification habits and safeguards Failures you caught before they caused real damage Failures you did not catch until afterward What this sub is not for: hype posts, unverified leaks, or “this changes everything” claims without a real example behind them. If you have a story like the two above, bring it here. That is what this place is for. What is your version of one of these six failure modes? Or is there another recurring failure mode that I have not named yet?
-
-49m ago
-
----
-
-**[reddit keeps ranking ai video models by demo reels. that's not what matters for actual client work](https://www.reddit.com/r/artificial/comments/1v3aaqr/reddit_keeps_ranking_ai_video_models_by_demo/)**
-
-Kling, Veo 3.1, Sora 2, Hailuo, Seedance, the rankings change every week depending on whose demo went viral. For a solo creative shop, none of that ranking matters as much as one thing: can you get the same character or product to look consistent across ten shots. A model can nail one gorgeous four-second clip and still be useless for a real campaign. Client work isn't one shot. It's a sequence that has to hold together. The tools that actually make the cut for me aren't always the ones winning the arena votes. They're the ones that don't drift halfway through a shot list. Consistency and control beat raw wow-factor almost every time once there's an actual brief involved. Curious what other people doing commercial work are actually shipping with versus what's topping the hype threads.
-
-7h ago
+2h ago
 
 ---
 
@@ -125,39 +123,31 @@ Kling, Veo 3.1, Sora 2, Hailuo, Seedance, the rankings change every week dependi
 
 OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
 
-OpenAI • 19h ago
+OpenAI • 21h ago
 
 ---
 
-**[US Army faces AI use limits after exhausting year's supply of AI tokens](https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/)**
+**[China's open-source AI models are 'excellent' and 'should be used': Nvidia CEO Jensen Huang](https://finance.yahoo.com/video/chinas-open-source-ai-models-are-excellent-and-should-be-used-nvidia-ceo-jensen-huang-162622124.html)**
 
-Troops received an email informing them that they were rapidly depleting their AI tokens.
+Nvidia (NVDA) CEO Jensen Huang defended open-source Chinese AI models, like DeepSeek. Yahoo Finance Technology Editor Dan Howley explains what happened.
 
-Ars Technica • 2h ago
-
----
-
-**[Harry Potter publisher to receive millions in Anthropic copyright settlement](https://www.theguardian.com/technology/2026/jul/22/bloomsbury-book-publisher-anthropic-copyright-settlement)**
-
-Bloomsbury has 14,087 titles listed within settlement between AI startup and authors over use of protected work
-
-The Guardian • 2h ago
+Yahoo Finance • 53m ago
 
 ---
 
-**[AI isn't 'the whole game' for Alphabet: Strategist previews Q2 earnings](https://finance.yahoo.com/video/ai-isnt-the-whole-game-for-alphabet-strategist-previews-q2-earnings-134016844.html)**
+**[Substack’s new tool tells you who’s been writing their newsletters with AI](https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/)**
 
-US stock futures (ES=F, NQ=F, YM=F) are sliding in Wednesday's pre-market trading as investors eagerly await second quarter earnings from Alphabet (GOOG, GOOGL) and Tesla (TSLA) after today's closing bell, officially kicking off earnings season for the Magnificent Seven.
+Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.
 
-Morning Brief Host Julie Hyman is joined by Yahoo Finance Senior Reporter Pras Subramanian and Fundstrat economic strategist Hardika Singh to discuss the outlook around this earnings season and which segments of Alphabet's business that investors will be watching more closely.
-
-Yahoo Finance • 2h ago
+TechCrunch • 56m ago
 
 ---
 
-**[Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges](https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8)**
+**[We must reject any notion of AI consciousness](https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness)**
 
-WSJ • 17h ago
+Letter: Artificial intelligence systems won’t become conscious for the same reason they won’t become pregnant, says Dr John Pickering
+
+The Guardian • 30m ago
 
 ---
 
@@ -165,37 +155,43 @@ WSJ • 17h ago
 
 Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
-**[Trump's push for American-made AI chips hits TSMC's margins](https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html)**
+**[Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges](https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8)**
 
-The Taiwan-based chipmaker has announced $200 billion in investment into U.S. manufacturing since Trump returned to power in 2025.
-
-CNBC • 10h ago
+WSJ • 19h ago
 
 ---
 
-**[Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)**
+**[Where Did All the Computer-Science Professors Go?](https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/)**
 
-We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
+AI companies are stripping universities of their best researchers.
 
-blog.google • 1d ago
-
----
-
-**[Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic](https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai)**
-
-Axios • 5h ago
+The Atlantic • 23h ago
 
 ---
 
-**[Bessent says U.S. could sanction China over AI model 'theft'](https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html)**
+**[Trump administration steers $5B toward AI research](https://www.politico.com/news/2026/07/22/trump-administration-steers-5b-toward-ai-research-01007708)**
 
-Chinese open-weight models are gaining steam against leading offerings from American companies like OpenAI and Anthropic.
+Politico • 45m ago
 
-CNBC • 1d ago
+---
+
+**[They built AI. Now Silicon Valley workers protest its threat to jobs and humanity](https://www.latimes.com/business/story/2026-07-22/they-built-ai-now-silicon-valley-workers-protest-its-threat-to-jobs-humanity)**
+
+Activists, tech workers and more are sounding the alarm about AI's risks and proposing various solutions to curb technology's risks that include job displacement.
+
+Los Angeles Times • 7h ago
+
+---
+
+**[Reddit stock sinks on report it may not renew Google AI content deal](https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html)**
+
+Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.
+
+CNBC • 2h ago
 
 ---
 
@@ -207,7 +203,7 @@ CNBC • 1d ago
 
 China's open-weights AI strategy is winning: its companies are taking the lead. America's closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.
 
-⬆️ 1228 • 💬 925 • 2d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+⬆️ 1229 • 💬 926 • 2d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
 ---
 
@@ -215,7 +211,7 @@ China's open-weights AI strategy is winning: its companies are taking the lead. 
 
 The sky (and your endurance) is the limit!
 
-⬆️ 844 • 💬 164 • 2d ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 846 • 💬 164 • 2d ago • [Airport Simulator](https://airport.apunen.com/)
 
 ---
 
@@ -223,7 +219,7 @@ The sky (and your endurance) is the limit!
 
 Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows
 
-⬆️ 363 • 💬 257 • 1d ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
+⬆️ 363 • 💬 259 • 1d ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
 
 ---
 
@@ -239,17 +235,7 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
 
-⬆️ 359 • 💬 315 • 22h ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
-
----
-
-**[Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://news.ycombinator.com/item?id=48969291)**
-
-Kimi K3 has received far more love than we expected, and our GPUs are feeling it.
-
-Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and
-
-⬆️ 284 • 💬 113 • 2d ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
+⬆️ 361 • 💬 319 • 1d ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
 ---
 
@@ -257,7 +243,7 @@ Over the past 48 hours, demand has pushed close to the limits of our current cap
 
 We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.
 
-⬆️ 241 • 💬 168 • 1d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
+⬆️ 241 • 💬 168 • 2d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 
 ---
 
@@ -265,13 +251,13 @@ We scored the full text of 12,750 arXiv papers and found that about a third of n
 
 Which way to the Land of the Free again?
 
-⬆️ 213 • 💬 169 • 2d ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+⬆️ 214 • 💬 169 • 2d ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
 
 ---
 
 **[AI makes programming differently difficult](https://news.ycombinator.com/item?id=48996197)**
 
-⬆️ 159 • 💬 137 • 21h ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+⬆️ 159 • 💬 139 • 22h ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
 
 ---
 
@@ -279,7 +265,13 @@ Which way to the Land of the Free again?
 
 I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
 
-⬆️ 120 • 💬 99 • 2h ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+⬆️ 131 • 💬 104 • 4h ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+
+---
+
+**[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)**
+
+⬆️ 100 • 💬 102 • 2d ago
 
 ---
 
@@ -287,23 +279,23 @@ I like supporting local businesses but it's so disheartening to see the increasi
 
 ## YouTube Videos: "ai"
 
+**[I Spent 1.5 Billion AI Tokens on Absolute Slop](https://www.youtube.com/watch?v=uwHQLLa4Rpc)**
+
+I spent 1.5 billion AI tokens and roughly 24 hours of compute trying to expand a real .NET application. The result was nearly ...
+
+📺 Chris Titus Tech
+
+👁️ 14K • 👍 1K • 💬 216 • ⏱️ 16:49 • 6h ago
+
+---
+
 **[The AI Industry Just Got What It Deserved](https://www.youtube.com/watch?v=9nUmVktlwvA)**
 
 The people who built the attention economy barely let their own children near it, and that hypocrisy is only the beginning.
 
 📺 House of El: AI
 
-👁️ 175K • 👍 13K • 💬 3K • ⏱️ 24:19 • 1d ago
-
----
-
-**[The Most Important Conversation in AI Right Now](https://www.youtube.com/watch?v=6BtIQIGqGJc)**
-
-It's all about VALUEMAXXING now! Learn more from Zapier: https://bit.ly/4bW1JB8 Join My Newsletter for Regular AI Updates ...
-
-📺 Matthew Berman
-
-👁️ 93K • 👍 3K • 💬 1K • ⏱️ 27:13 • 19h ago
+👁️ 179K • 👍 13K • 💬 3K • ⏱️ 24:19 • 2d ago
 
 ---
 
@@ -313,7 +305,37 @@ An autonomous AI agent hacked Hugging Face from start to finish, executing thous
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 111 • ⏱️ 12:19 • 17h ago
+👁️ 32K • 👍 1K • 💬 125 • ⏱️ 12:19 • 19h ago
+
+---
+
+**[These 10 SECRET Free AI Tools Just Made Claude Useless](https://www.youtube.com/watch?v=QucgvbO5gsM)**
+
+FREE RESOURCE I've put all 10 tools, every GitHub link, and the exact prompts I used inside our free "Staying Ahead" community ...
+
+📺 Vaibhav Sisinty
+
+👁️ 7K • 👍 921 • 💬 38 • ⏱️ 18:34 • 2h ago
+
+---
+
+**[How to Make an AI Model for Instagram (Ultra Realistic)](https://www.youtube.com/watch?v=01EuuWYA_NE)**
+
+Create Your Own AI Instagram Model with Higgsfield https://roboverse-ai.com/Higgsfield In this video, I show how to create a ...
+
+📺 Roboverse
+
+👁️ 5K • 💬 1 • ⏱️ 11:50 • 1h ago
+
+---
+
+**[The Most Important Conversation in AI Right Now](https://www.youtube.com/watch?v=6BtIQIGqGJc)**
+
+It's all about VALUEMAXXING now! Learn more from Zapier: https://bit.ly/4bW1JB8 Join My Newsletter for Regular AI Updates ...
+
+📺 Matthew Berman
+
+👁️ 101K • 👍 3K • 💬 1K • ⏱️ 27:13 • 21h ago
 
 ---
 
@@ -323,17 +345,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 102K • 👍 6K • 💬 1K • ⏱️ 15:27 • 14h ago
-
----
-
-**[AI Whistleblower: We&#39;re Already Too Late To CONTROL It - Connor Leahy](https://www.youtube.com/watch?v=CRcj_2oloDM)**
-
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Connor Leahy, founder of the former ...
-
-📺 Neural Nutshell
-
-👁️ 11K • 👍 231 • 💬 61 • ⏱️ 11:00 • 1d ago
+👁️ 113K • 👍 6K • 💬 1K • ⏱️ 15:27 • 16h ago
 
 ---
 
@@ -343,47 +355,27 @@ South Korea's AI Bubble Just Popped ▻ Get 20% off DeleteMe US consumer plans w
 
 📺 Andrei Jikh
 
-👁️ 2.1M • 👍 54K • 💬 4K • ⏱️ 25:10 • 1d ago
+👁️ 2.1M • 👍 56K • 💬 4K • ⏱️ 25:10 • 2d ago
 
 ---
 
-**[ABBA AI Songs – Good or Bad?](https://www.youtube.com/watch?v=RDxSlv7tAb0)**
+**[AI Whistleblower: We&#39;re Already Too Late To CONTROL It - Connor Leahy](https://www.youtube.com/watch?v=CRcj_2oloDM)**
 
-ABBA AI Music – ABBA songs created by artificial intelligence, trying to recreate the sound of ABBA, even claiming to be ABBA ...
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Connor Leahy, founder of the former ...
 
-📺 Bobby‘s Brother
+📺 Neural Nutshell
 
-👁️ 3K • 👍 226 • 💬 124 • ⏱️ 12:32 • 23h ago
-
----
-
-**[Tech Oligarchs MELTDOWN After China ERASES AI Edge](https://www.youtube.com/watch?v=9E_TV02oWQA)**
-
-Krystal and Saagar discuss China's new breakthrough in AI tech surpassing US companies. Sign up for a PREMIUM Breaking ...
-
-📺 Breaking Points
-
-👁️ 348K • 👍 10K • 💬 3K • ⏱️ 16:27 • 22h ago
+👁️ 12K • 👍 236 • 💬 63 • ⏱️ 11:00 • 2d ago
 
 ---
 
-**[AI has already taken over movie sets in parts of China. Is Hollywood next? | Jesse Weber Live](https://www.youtube.com/watch?v=AB5hblF50hQ)**
+**[US Panic: Korea&#39;s AI Bubble Just Exploded](https://www.youtube.com/watch?v=iZdqW9FRg1s)**
 
-China's $14 billion micro-drama industry has gone almost entirely AI. Now similar tech is landing in Hollywood, from digital actor ...
+Learn a Trading System that Makes Market Headlines Irrlevant. Go to https://www.bulletproofportfolio.org/ , grab your free ticket, ...
 
-📺 NewsNation
+📺 Felix & Friends (Goat Academy)
 
-👁️ 841 • 👍 25 • 💬 5 • ⏱️ 6:57 • 5h ago
-
----
-
-**[Kimi K3 Gets Shut Down... Then China Drops Another AI Winner!](https://www.youtube.com/watch?v=EenYgrkqzE0)**
-
-Moonshot paused new Kimi K3 subscriptions after extreme demand pushed its computing systems to the limit. But almost ...
-
-📺 AI Revolution
-
-👁️ 56K • 👍 2K • 💬 116 • ⏱️ 16:39 • 1d ago
+👁️ 32K • 👍 2K • 💬 47 • ⏱️ 22:36 • 4h ago
 
 ---
 
@@ -399,7 +391,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 16,441 • ❤️ 1,411 • 1d ago
+⬇️ 16,441 • ❤️ 1,426 • 1d ago
 
 ---
 
@@ -411,7 +403,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,237,351 • ❤️ 2,656 • 1d ago
+⬇️ 2,237,351 • ❤️ 2,680 • 1d ago
 
 ---
 
@@ -423,19 +415,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 432,196 • ❤️ 918 • 4d ago
-
----
-
-**[Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)**
-
-*Prism ML*
-
-Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achieving ~90% of FP16 intelligence with a ~3.9 GB footprint by using true 1.125-bit weights. It excels at reasoning and agentic tasks, supporting a 262K context window on-device via llama.cpp (CUDA, Metal, CPU) and MLX.
-
-`text-generation` `3.6B`
-
-⬇️ 1,404,962 • ❤️ 583 • 4d ago
+⬇️ 432,196 • ❤️ 925 • 4d ago
 
 ---
 
@@ -447,7 +427,19 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 3,056 • ❤️ 310 • 17h ago
+⬇️ 3,056 • ❤️ 351 • 18h ago
+
+---
+
+**[Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)**
+
+*Prism ML*
+
+Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achieving ~90% of FP16 intelligence with a ~3.9 GB footprint by using true 1.125-bit weights. It excels at reasoning and agentic tasks, supporting a 262K context window on-device via llama.cpp (CUDA, Metal, CPU) and MLX.
+
+`text-generation` `3.6B`
+
+⬇️ 1,404,962 • ❤️ 588 • 5d ago
 
 ---
 
@@ -459,7 +451,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 62,842 • ❤️ 293 • 2d ago
+⬇️ 62,842 • ❤️ 307 • 2d ago
 
 ---
 
@@ -471,7 +463,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 545,109 • ❤️ 4,311 • 20d ago
+⬇️ 545,109 • ❤️ 4,326 • 20d ago
 
 ---
 
@@ -483,7 +475,19 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,997,690 • ❤️ 2,988 • 3mo ago
+⬇️ 1,997,690 • ❤️ 2,993 • 3mo ago
+
+---
+
+**[Nanbeige4.2-3B](https://huggingface.co/Nanbeige/Nanbeige4.2-3B)**
+
+*Nanbeige LLM Lab*
+
+Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agentic behavior and reasoning, outperforming larger models on code and general agent tasks. It's suitable for local personal assistants and complex workflow automation.
+
+`text-generation` `4.2B`
+
+⬇️ 0 • ❤️ 196 • 4h ago
 
 ---
 
@@ -493,19 +497,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 487 • 1d ago
-
----
-
-**[Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**
-
-*Empero*
-
-Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1M context window, supporting native function calling and multimodal vision capabilities. It excels in reasoning tasks and is optimized for llama.cpp and other GGUF runtimes, making it suitable for agentic applications, cybersecurity, and biomedical analysis.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 2,133,420 • ❤️ 2,401 • 8d ago
+⬇️ 0 • ❤️ 488 • 18m ago
 
 ---
 
@@ -535,7 +527,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 30 • 💬 3 • ⭐ 14,759 • 3mo ago
+▲ 30 • 💬 3 • ⭐ 14,841 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -555,18 +547,6 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ---
 
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 21 • 💬 1 • ⭐ 10,244 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
-
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
 *Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
@@ -576,6 +556,32 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 13 • 💬 0 • ⭐ 10,267 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 21 • 💬 1 • ⭐ 10,275 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
+**[Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing](https://huggingface.co/papers/2607.19064)**
+
+*Xinjie Zhang, Peng Zhang, Shicheng Zheng et al. (24 authors)*
+
+🏢 Microsoft
+
+Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.
+
+▲ 55 • 💬 1 • ⭐ 111 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.19064) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage/)
 
 ---
 
@@ -598,7 +604,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 83 • 💬 7 • ⭐ 81,598 • 24mo ago
+▲ 83 • 💬 7 • ⭐ 81,695 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -623,23 +629,9 @@ An efficient method guides language model text generation using regular expressi
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 176 • 💬 2 • ⭐ 75,354 • 9mo ago
+▲ 176 • 💬 2 • ⭐ 75,439 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
-**[Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://huggingface.co/papers/2607.15330)**
-
-*Xiaomi Robotics Team, Jun Guo, Piaopiao Jin et al. (34 authors)*
-
-🏢 Xiaomi Robotics
-
-We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative instructions that humans naturally use to prompt robots. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where a stronger pre-training model yields better out-of-the-box real-robot performance in unseen environments. Furthermore, Xiaomi-Robotics-1 serves as a strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes a new state-of-the-art with a 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html
-
-▲ 60 • 💬 2 • ⭐ 227 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.15330) • [💻 code](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1) • [🔗 project](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
 
 ---
 
@@ -663,7 +655,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 239 • 6h ago
+⭐ 3.1k • 🔱 239 • 7h ago
 
 ---
 
@@ -673,7 +665,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 374 • 6h ago
+⭐ 2.7k • 🔱 374 • 8h ago
 
 ---
 
@@ -693,7 +685,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.0k • 🔱 62 • 4h ago
+⭐ 1.0k • 🔱 63 • 6h ago
 
 ---
 
@@ -703,7 +695,7 @@ GPU worker client for the Talos network. Pairs with your Talos account, serves o
 
 `Python` `ai` `distributed-computing` `gpu` `llm` `ollama`
 
-⭐ 988 • 🔱 17 • 14d ago
+⭐ 987 • 🔱 17 • 14d ago
 
 ---
 
@@ -713,7 +705,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 956 • 🔱 213 • 11d ago
+⭐ 958 • 🔱 215 • 11d ago
 
 ---
 
@@ -723,7 +715,15 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 954 • 🔱 158 • 1d ago
+⭐ 955 • 🔱 159 • 1d ago
+
+---
+
+**[buchidonggua/dg-ai-notes](https://github.com/buchidonggua/dg-ai-notes)**
+
+`MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
+
+⭐ 906 • 🔱 63 • 23h ago
 
 ---
 
@@ -731,17 +731,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-⭐ 901 • 🔱 38 • 21d ago
-
----
-
-**[ai4s-research/open-science](https://github.com/ai4s-research/open-science)**
-
-Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.
-
-`TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
-
-⭐ 879 • 🔱 101 • 8h ago
+⭐ 899 • 🔱 38 • 21d ago
 
 ---
 
