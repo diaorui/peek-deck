@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-22T13:59:14.136606+00:00'
+updated: '2026-07-22T15:48:14.877496+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 13:59 UTC  
+**Last Updated:** July 22, 2026 at 15:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,831.92
+### $65,771.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +3.3%  
-**30d:** +5.1%  
-**90d:** -14.9%  
-**1y:** -44.4%  
+**24h:** -0.8%  
+**7d:** +3.4%  
+**30d:** +5.2%  
+**90d:** -14.7%  
+**1y:** -44.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Me 5 minutes after BTC hits a new All-Time High](https://www.reddit.com/r/Bitcoin/comments/1v2qvv1/me_5_minutes_after_btc_hits_a_new_alltime_high/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Passed by the State Duma yesterday (July 21). Not a rumor, not someone's translation of a Telegram post, the actual bill. Here's what's in it: New licensing registry for exchanges, custodians, and brokers. Existing platforms get roughly a year to register. Retail investors can buy the most liquid crypto assets (bitcoin is the obvious flagship candidate, the report doesn't name the full list) through a registered intermediary, after passing a knowledge test. Cap for retail: 300,000 rubles (~$3,900) per year, per intermediary. Qualified investors also have to pass a test, but face no purchase cap. Prior trading history can count toward qualifying. Owning ≠ spending. This bill legalizes buying and holding bitcoin, it does not legalize using it as money. Paying for groceries in bitcoin is still banned domestically, so the ruble keeps its monopoly on everyday transactions. Carve-outs: foreign-trade settlement, mined crypto, and some securities transactions are exempt from that ban. Banks are required to block transfers to anyone they suspect of running an unregistered exchange. Timeline: first reading was back in April. Most provisions are set to take effect Sept. 1. It still needs to clear the Federation Council and get signed into law, expected, but not done yet. The part worth sitting with: a government that's spent years treating bitcoin as a threat to its monetary sovereignty just built a formal, licensed path for its own citizens to buy it. Gated by an exam and a spending cap, but a path. That's the move a state eventually makes once it accepts it can't kill the protocol, it regulates the door instead. Source: The Block / The Bitcoin Act I track moves like this across dozens of jurisdictions, if anyone wants the source link or a country-by-country comparison, ask below and I'll drop it. Genuine question for the sub: does "exam + cap to start, uncapped once you qualify" count as a country actually opening the door to bitcoin, or is it just a more polite capital control? Where's the line for you?
 
-4h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Passed by the State Duma yesterday (July 21). Not a rumor, not someone's transla
 
 I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
 
-7h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ I just bought Bitcoins for the first time yesterday from Kraken but so it's tied
 
 I just watched this podcast episode where BlackRock's Head of Digital Assets Research (Will Su) said that the quantum threat is what's keeping Bitcoin from being mass-adopted. From his words, "some of the folks that would've certainly come in to engage with Bitcoin have probably held back a bit because of this quantum question," and when asked by the host whether the concern is "meaningfully affecting adoption", his answer was: "Yes. 100%." So I'm wondering, why are we delaying the response for this threat, especially if that is going to bring in more investors (and, well, more importantly, protect Bitcoin from quantum computers)? I've seen multiple proposals to start addressing this, the one on top being BIP 360 (P2MR) Any thoughts? Am I missing something here? This is the episode I'm talking about: https://youtu.be/Puv7Yyymy6M
 
-18h ago
+20h ago
 
 ---
 
@@ -111,13 +111,13 @@ I just watched this podcast episode where BlackRock's Head of Digital Assets Res
 
 The Matrix is a system Neo, and that system, is our enemy... I just bought bitcoin and put it into a cold wallet, after so many years of thinking it's a Ponzi scheme or whatever, but I understand it now, it's not a quick get rich scheme, it's not about being rich, I've chosen the red pill. I'm a proud bitcoin holder.
 
-11h ago
+13h ago
 
 ---
 
 **[White House agrees to ethics provision in crypto bill](https://www.reddit.com/r/Bitcoin/comments/1v2ypcr/white_house_agrees_to_ethics_provision_in_crypto/)**
 
-🔗 [thehill.com](https://thehill.com/policy/technology/5981574-white-house-crypto-clarity-act-ethics-provision/) • 14h ago
+🔗 [thehill.com](https://thehill.com/policy/technology/5981574-white-house-crypto-clarity-act-ethics-provision/) • 16h ago
 
 ---
 
@@ -125,7 +125,7 @@ The Matrix is a system Neo, and that system, is our enemy... I just bought bitco
 
 There was a time when I honestly had no idea what to do next. I lost the job I had been at for 5 years. The first few days were a complete shock. The only thoughts in my head were: "What now? What am I supposed to do?" The hardest part wasn't even losing the job. The hardest part was feeling completely lost. It felt like everyone around me was moving forward while I was stuck in the same place. Honestly, if it wasn't for my family, it would have been much harder. Instead of blaming me, they simply said, "We'll figure it out." That support gave me the strength not to give up. After a while, I realized there was no point in sitting around waiting. I started looking for different ways to make money. I watched videos, tried different things, made mistakes, and wasted time. Then one day I accidentally came across crypto testnets. At first, I had absolutely no idea what I was doing. But little by little, I started figuring things out. And honestly, it wasn't even about crypto. For the first time in a long time, I felt like I was in control of my life again. Small steps, but moving forward. If you're interested in how crypto testnets work, I already have a post about them. If you can't find the information you're looking for online, feel free to message me. If I can help, I'd be happy to. And just to be clear, I'm not selling anything. I'm sharing this because I know what it's like to be in a place where it feels like there's no way out. If you're going through a tough period right now, just know that it won't last forever. I'm genuinely curious. Have you ever had a moment when life suddenly didn't go according to plan? What helped you get through it?
 
-3h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ There was a time when I honestly had no idea what to do next. I lost the job I h
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Russia plans to advance cryptocurrency legislation tomorrow.](https://www.reddit.com/r/Bitcoin/comments/1v2p00i/russia_plans_to_advance_cryptocurrency/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -157,13 +157,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The day ahead in crypto: July 22, 2026
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg.com • 17h ago
 
 /PRNewswire/ -- For a decade, indicators like Pi Cycle, MVRV and the Mayer Multiple reliably flagged Bitcoin's cycle tops. At Bitcoin's largest top ever, near...
 
-PR Newswire • 1h ago
+PR Newswire • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ PR Newswire • 1h ago
 
 Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
 
-The Boston Globe • 13h ago
+The Boston Globe • 14h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Boston Globe • 13h ago
 
 SkyBridge Capital founder Anthony Scaramucci positioned Bitcoin (CRYPTO: BTC) and gold as “part of the answer” to a changing monetary system under strain from fiscal pressures and declining purchasing power. Deficit Spending to Trigger High Inflation? Scaramucci voiced his concerns on X about the potential impact of deficit spending and inflation on the economy. The former White House Communications Director warned that national debt could rise from the current $39 trillion to $55 trillion withi
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -209,7 +209,7 @@ VanEck • 1d ago
 
 **[Bitcoin’s Technical Outlook Improves as Key Levels Come Into Focus](https://www.barrons.com/articles/bitcoin-technical-outlook-price-breakout-key-levels-c31278bf)**
 
-Barron's • 19h ago
+Barron's • 21h ago
 
 ---
 
@@ -217,7 +217,7 @@ Barron's • 19h ago
 
 They want to set up a new center in Clayton County but can’t right now because of a noise ordinance.
 
-KCRG • 15h ago
+KCRG • 16h ago
 
 ---
 
@@ -225,13 +225,21 @@ KCRG • 15h ago
 
 Jack Dorsey's company Block has debuted a decentralized rival to group chat platform Slack.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[OpenNode – Bitcoin Payment Processor](https://news.ycombinator.com/item?id=49007524)**
+
+A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
+
+⬆️ 55 • 💬 49 • 1h ago • [opennode.com](https://opennode.com/)
+
+---
 
 **[He Mined 300 Bitcoin, Then Sold the Computer for $200 [video]](https://news.ycombinator.com/item?id=48941357)**
 
@@ -245,7 +253,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 2 • 💬 0 • 20h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 22h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+
+---
+
+**[BIP-110: Protecting Bitcoin's Purpose](https://news.ycombinator.com/item?id=49007963)**
+
+A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, protecting its purpose as sound, permissionless money.
+
+⬆️ 1 • 💬 1 • 42m ago • [BIP-110](https://bip110.org)
 
 ---
 
@@ -253,7 +269,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/sharecoin
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/TVHeroes/sharecoin)
+⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/TVHeroes/sharecoin)
 
 ---
 
@@ -261,7 +277,15 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Nearly a decade later, crypto is still barely functional for the thing it was s...
 
-⬆️ 2 • 💬 0 • 18h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
+⬆️ 2 • 💬 0 • 19h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
+
+---
+
+**[I Am Buiding BorgIOS to de-shitify the Internet](https://news.ycombinator.com/item?id=49008217)**
+
+Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
+
+⬆️ 2 • 💬 0 • 28m ago • [GitHub](https://github.com/bitmonky/BorgIOS)
 
 ---
 
@@ -269,7 +293,7 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
 
-⬆️ 2 • 💬 0 • 23h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+⬆️ 2 • 💬 0 • 1d ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
 
 ---
 
@@ -283,7 +307,7 @@ Trump just agreed to the ethics provision holding up the CLARITY Act — and Bit
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 868 • 💬 81 • ⏱️ 29:19 • 20h ago
+👁️ 14K • 👍 868 • 💬 81 • ⏱️ 29:19 • 22h ago
 
 ---
 
@@ -303,7 +327,7 @@ A major debate is unfolding inside the Bitcoin community, and the outcome could 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 506 • ⏱️ 19:47 • 15h ago
+👁️ 19K • 👍 1K • 💬 506 • ⏱️ 19:47 • 17h ago
 
 ---
 
@@ -313,7 +337,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 6K • 👍 510 • ⏱️ 33:40 • 21h ago
+👁️ 6K • 👍 510 • ⏱️ 33:40 • 23h ago
 
 ---
 
@@ -323,7 +347,7 @@ Sen. Kevin Cramer, R-N.D., joins 'Mornings with Maria' to discuss the Senate's p
 
 📺 Fox Business
 
-👁️ 78K • 👍 1K • 💬 307 • ⏱️ 9:29 • 23h ago
+👁️ 78K • 👍 1K • 💬 307 • ⏱️ 9:29 • 1d ago
 
 ---
 
@@ -333,7 +357,7 @@ BIGGEST Crypto News This Week (Major CLARITY ACT Update) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 99 • ⏱️ 9:53 • 15h ago
+👁️ 33K • 👍 2K • 💬 99 • ⏱️ 9:53 • 17h ago
 
 ---
 
@@ -373,7 +397,7 @@ Geoffrey Kendrick from Standard Chartered isn't backing off his $500K Bitcoin ta
 
 📺 Cointelegraph
 
-👁️ 5K • 👍 138 • 💬 29 • ⏱️ 17:51 • 23h ago
+👁️ 5K • 👍 138 • 💬 29 • ⏱️ 17:51 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-22T13:59:14.142574+00:00'
+updated: '2026-07-22T15:48:14.883931+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 13:59 UTC  
+**Last Updated:** July 22, 2026 at 15:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +4.1%  
-**30d:** +16.4%  
-**90d:** -16.2%  
-**1y:** -46.5%  
+**24h:** +0.9%  
+**7d:** +4.3%  
+**30d:** +16.7%  
+**90d:** -16.0%  
+**1y:** -46.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+10h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 14h ago
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 16h ago
 
 ---
 
@@ -150,7 +150,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Ethereum has reclaimed its weekly bull market support band against Bitcoin and broken a long-term downtrend, signaling potential outperformance. A sustained move above 0.03 BTC is needed to confirm this breakout and could lead to targets near 0.032–0.035 BTC. However, if Ethereum falls back below the support band around 0.0287 BTC, the bullish setup would weaken and Bitcoin may regain strength. Investors will watch closely if ETH can hold above this key level to confirm a shift in momentum.
 
-Pluang • 1h ago
+Pluang • 2h ago
 
 ---
 
@@ -158,7 +158,7 @@ Pluang • 1h ago
 
 Ethereum price climbed from $1,800 to nearly $1,945 following a tech-driven rebound in U.S. stocks, with Nasdaq gains boosting risk appetite. Institutional inflows into Ethereum ETFs and short liquidations may support a move above the key $2,000 resistance level. However, failure to hold above $1,859 could weaken the recovery and expose lower support near $1,828. Market watchers note Ethereum's relative strength against Bitcoin in Q3, but Bitcoin's trend remains crucial for Ethereum's next moves amid macroeconomic risks like rising oil prices and inflation concerns.
 
-Pluang • 1h ago
+Pluang • 2h ago
 
 ---
 
@@ -166,7 +166,7 @@ Pluang • 1h ago
 
 Bitcoin (BTC-USD) opened at $65,214.10 on Tuesday, July 21, 2026, 0.8% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,903.35, up 1.7% from Monday's opening price.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 5h ago
 
 ---
 
@@ -206,13 +206,13 @@ TradingView • 1d ago
 
 ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
 **[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
 
-thestreet.com • 22h ago
+thestreet.com • 23h ago
 
 ---
 
@@ -220,7 +220,7 @@ thestreet.com • 22h ago
 
 Whales are accumulating ETH, but staking and DeFi flows tell a bigger story.
 
-AMBCrypto • 21h ago
+AMBCrypto • 23h ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 342 • 💬 54 • ⏱️ 19:54 • 20h ago
+👁️ 12K • 👍 342 • 💬 54 • ⏱️ 19:54 • 22h ago
 
 ---
 
@@ -244,7 +244,7 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 1K • 💬 30 • ⏱️ 33:40 • 23h ago
+👁️ 19K • 👍 1K • 💬 30 • ⏱️ 33:40 • 1d ago
 
 ---
 
@@ -284,7 +284,7 @@ In this video I break down the current Ethereum price action and the specific te
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 178 • 💬 5 • ⏱️ 8:34 • 15h ago
+👁️ 3K • 👍 178 • 💬 5 • ⏱️ 8:34 • 16h ago
 
 ---
 
@@ -304,7 +304,7 @@ Datavault AI (DVLT) CEO Nathaniel Bradley evaluates the latest moves in Bitcoin 
 
 📺 Schwab Network
 
-👁️ 1K • 👍 31 • 💬 1 • ⏱️ 5:46 • 17h ago
+👁️ 1K • 👍 31 • 💬 1 • ⏱️ 5:46 • 19h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Get funded with Breakout — Kraken-backed cr
 
 📺 Cilinix Crypto
 
-👁️ 93 • 👍 14 • 💬 1 • ⏱️ 5:27 • 4h ago
+👁️ 93 • 👍 14 • 💬 1 • ⏱️ 5:27 • 6h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-22T13:59:14.145730+00:00'
+updated: '2026-07-22T15:48:14.887423+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 22, 2026 at 13:59 UTC  
+**Last Updated:** July 22, 2026 at 15:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Recording some data, and here’s one lesson I learned the hard way: limit your gripper torque to the minimum you need during teleoperation, plastic parts break 🤭
 
-20h ago
+22h ago
 
 ---
 
@@ -74,7 +74,7 @@ Four-legged robots can reach many places that wheeled vehicles cannot. Isn’t i
 
 Hey r/robotics , First time posting here and first time doing a real robotics build, so go easy on me. My son turns 4 in August and he's non verbal autistic. I originally built a tablet app for him to communicate, but when you give a 3 year old a tablet they just think it's game time. So I decided to try making a dedicated physical companion that actually looks at him when he talks to it. I put together this bench prototype and honestly was surprised by how much he responded to it. He's actually using the cards, learning the words, and tracking the head movements. My goal eventually is to get something like this into other parents hands for under 200 quid or so. It runs 100% offline too, so no cloud fees or privacy issues. I have the software side mostly sorted out now, but I need advice on taking it from 3D printed parts and breadboards to something safe and manufacturable. Quick overview of what's under the hood: It runs on a Pi 5 with a Flutter web interface and a Python FastAPI backend for offline Piper TTS. Vision is an IMX708 camera on a pan tilt mount using YuNet ONNX for face tracking. Motor control is offloaded to a Waveshare ESP32 driving two ST3215 serial servos. Had to write some EMA filtering to stop the servos from shaking. Enclosure is currently drafted in OpenSCAD. A few big questions I'm trying to figure out: Screen placement and wobble. Right now the 7 inch touchscreen is on the head. Tapping it makes the whole neck wobble. Do I keep the screen on the head so it looks at him when speaking, or move the heavy touch screen to the base and just use little ESP matrix screens for eyes on the head? Making it expressive without pinch hazards. I want ears/antennas or arms to show emotion, but small kids put their hands everywhere. Are servo driven ears safe enough or a bad idea? (Skipping wheels so it doesn't drive off tables). Taking an OpenSCAD 3D print to injection molding. What should I prepare for if I want to get low volume plastic shells made? Also any good Shenzhen turnkey PCBA suppliers you guys recommend to replace the Pi and ESP dev boards down the line? I'm setting up a Discord to organize the hardware side and get feedback from speech OTs. Let me know if you want an invite and I'll send it over. Video shows the offline AAC sentence builder and tracking working, plus a concept render at the end of what I want the shell to look like.
 
-20h ago
+22h ago
 
 ---
 
@@ -86,13 +86,13 @@ Hey r/robotics , First time posting here and first time doing a real robotics bu
 
 **[The World’s First Monowheel Robot: How It Solved the Stability Paradox](https://www.reddit.com/r/robotics/comments/1v1o7ek/the_worlds_first_monowheel_robot_how_it_solved/)**
 
-1d ago
+2d ago
 
 ---
 
 **[A tiny pub/sub library that works over Ethernet and CAN](https://www.reddit.com/r/robotics/comments/1v2jdjb/a_tiny_pubsub_library_that_works_over_ethernet/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -142,19 +142,19 @@ TechCrunch • 1d ago
 
 Learn how conventional robotic systems are moving beyond rigid automation.
 
-A3 Association for Advancing Automation • 56m ago
+A3 Association for Advancing Automation • 2h ago
 
 ---
 
 **[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
 
-WSJ • 4h ago
+WSJ • 5h ago
 
 ---
 
 **[Banks Wrap Up Loan Backing SoftBank’s $5.4 Billion Robotics Bet](https://www.bloomberg.com/news/articles/2026-07-21/banks-wrap-up-loan-backing-softbank-s-5-4-billion-robotics-bet)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ CNBC • 1d ago
 
 Ukraine's battlefield surge of robots now features airdrops and beach assaults.
 
-Ars Technica • 2h ago
+Ars Technica • 4h ago
 
 ---
 
@@ -178,7 +178,7 @@ Ars Technica • 2h ago
 
 For the first time ever, humanoid robots operated by surgeons have successfully performed laparoscopic gallbladder removal in pigs.
 
-ScienceAlert • 5h ago
+ScienceAlert • 7h ago
 
 ---
 
@@ -212,7 +212,7 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 📺 Air Photography
 
-👁️ 80K • 👍 2K • 💬 214 • ⏱️ 7:15 • 5d ago
+👁️ 80K • 👍 2K • 💬 214 • ⏱️ 7:15 • 6d ago
 
 ---
 
@@ -242,7 +242,7 @@ The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the W
 
 📺 1M65
 
-👁️ 21K • 👍 340 • 💬 79 • ⏱️ 13:38 • 2d ago
+👁️ 21K • 👍 340 • 💬 79 • ⏱️ 13:38 • 3d ago
 
 ---
 
@@ -252,7 +252,7 @@ Humanoid robots are suddenly everywhere - dancing, boxing, running marathons and
 
 📺 BBC World Service
 
-👁️ 6K • 👍 150 • 💬 23 • ⏱️ 18:15 • 14h ago
+👁️ 6K • 👍 150 • 💬 23 • ⏱️ 18:15 • 16h ago
 
 ---
 
@@ -272,7 +272,7 @@ Yes he's multilingual. For the most part. #ai #chatgpt #robot #comedy #robotics.
 
 📺 gptars
 
-👁️ 17K • 👍 931 • 💬 43 • ⏱️ 0:35 • 20h ago
+👁️ 17K • 👍 931 • 💬 43 • ⏱️ 0:35 • 22h ago
 
 ---
 
