@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-22T04:24:14.820740+00:00'
+updated: '2026-07-22T07:10:48.403503+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 04:24 UTC  
+**Last Updated:** July 22, 2026 at 07:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,224.15
+### $65,902.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +4.0%  
-**30d:** +5.8%  
-**90d:** -14.3%  
-**1y:** -44.1%  
+**24h:** -0.5%  
+**7d:** +3.3%  
+**30d:** +5.1%  
+**90d:** -14.9%  
+**1y:** -44.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1330.47B
+**Market Cap:** $1321.23B
 Rank #1
 
-**Circulating Supply:** 20,059,646 BTC
+**Circulating Supply:** 20,059,684 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--47.4%
+-47.8%
 
 **All-Time Low:** $67.81
-+97716.0%
++97025.8%
 
 ---
 
@@ -111,7 +111,7 @@ I see a lot a people talking about DCA and mentioning how they are OG hodlers fo
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-1d ago
+2d ago
 
 ---
 
@@ -127,7 +127,7 @@ Hi, I have $50 that I'd like to invest in Bitcoin and I'd like to know if you re
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1d ago
+2d ago
 
 ---
 
@@ -161,47 +161,21 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 **[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 16h ago
 
 ---
 
-**[Live markets: Bitcoin rises to five-week high above $66,400 on rising hope for Clarity Act](https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april)**
+**[What is the CLARITY Act Ethics Package and Why is It Bullish for Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/clarity-act-ethics-package-why-162520627.html)**
 
-The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.
+The White House agreed on the CLARITY Act ethics package. Here is why the deal is bullish for Bitcoin price.
 
-CoinDesk • 14h ago
-
----
-
-**[Hut 8 Stock Surges Up to 200% in 2026 as Bitcoin Mining Unit Struggles](https://finance.yahoo.com/markets/stocks/articles/hut-8-stock-surges-200-021407093.html)**
-
-Hut 8 stock is up 202% in 2026 on AI hyperscaler deals, but its bitcoin mining spinoff keeps losing value.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[S&P Dow Jones New Crypto Index Snubs Bitcoin, Not a Revenue-Generating Protocol](https://finance.yahoo.com/markets/crypto/articles/p-dow-jones-crypto-index-020137183.html)**
+**[Clarity Act Nears Finish Line; Trump Oversees Ethics Provisions](https://www.investors.com/news/clarity-act-cryptocurrency-market-structure-trump-ethics-senate/)**
 
-S&P Dow Jones' new S&P Pantera Digital Asset Index excludes Bitcoin, citing its revenue-generation requirement for inclusion.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-lift-020233103.html)**
-
-Major cryptocurrencies rose on Tuesday as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.41%$66,355.88Ethereum (CRYPTO: ETH) +1.11%$1,930.87XRP (CRYPTO: XRP) +2.48%$1.14Solana (CRYPTO: SOL) +0.43%$78.26Dogecoin (CRYPTO: DOGE) +1.60%$0.07342 Some Clarity Finally? Bitcoin rallied to a 5-week high above $66,900, and is now up 13% month-to-
-
-Yahoo Finance • 2h ago
-
----
-
-**[Time for a crypto comeback? Traders bet that this stock will lead the way](https://www.cnbc.com/2026/07/21/traders-bet-that-this-stock-will-lead-the-way-in-a-crypto-comeback.html)**
-
-Crypto bulls have been waiting for a rebound, and traders think this stock could lead the way.
-
-CNBC • 9h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -209,29 +183,53 @@ CNBC • 9h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 14h ago
+Fortune • 19h ago
 
 ---
 
-**[Galaxy launches Bitcoin quantum computing initiative, commits up to $5 million in developer grants](https://www.theblock.co/post/409129/galaxy-bitcoin-quantum-computing-threat-initiative)**
+**[Anthony Scaramucci Explains Why He's Long Bitcoin and Gold: 'Imagine an American President...Sitting in Front of a $55 Trillion Deficit'](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-explains-why-hes-044109580.html)**
 
-Galaxy has launched the Bitcoin Quantum Readiness Initiative, including committing up to $5 million in developer grants.
+SkyBridge Capital founder Anthony Scaramucci positioned Bitcoin (CRYPTO: BTC) and gold as “part of the answer” to a changing monetary system under strain from fiscal pressures and declining purchasing power. Deficit Spending to Trigger High Inflation? Scaramucci voiced his concerns on X about the potential impact of deficit spending and inflation on the economy. The former White House Communications Director warned that national debt could rise from the current $39 trillion to $55 trillion withi
 
-The Block • 10h ago
-
----
-
-**[Trump Oversees Ethics Provisions As Clarity Act Nears Vote](https://www.investors.com/news/clarity-act-cryptocurrency-market-structure-trump-ethics-senate/)**
-
-Investor's Business Daily • 7h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Jack Mallers Steps Down As CEO Of Bitcoin Treasury Twenty One Capital](https://bitcoinmagazine.com/news/mallers-steps-down-from-bitcoin-twenty-one)**
+**[Bitcoin Holds Near $66,300 as Chips Extend Their Rally and the Yen Hits a 40-year Low](https://www.moomoo.com/news/post/73332983/bitcoin-holds-near-66300-as-chips-extend-their-rally-and)**
 
-Jack Mallers has stepped down as CEO of bitcoin treasury Twenty One.
+Moomoo • 1h ago
 
-Bitcoin Magazine • 16h ago
+---
+
+**[Galaxy Launches Bitcoin Quantum Readiness Initiative to Protect Bitcoin's Cryptographic Foundations](https://www.galaxy.com/newsroom/galaxy-launches-bitcoin-quantum-readiness-initiative)**
+
+Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
+
+galaxy.com • 18h ago
+
+---
+
+**[Bitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App](https://bitcoinmagazine.com/news/jack-dorsey-debuts-chat-app-slack-rival)**
+
+Jack Dorsey's company Block has debuted a decentralized rival to group chat platform Slack.
+
+Bitcoin Magazine • 9h ago
+
+---
+
+**[Clayton County Supervisors hold information session on Bitcoin data center](https://www.kcrg.com/2026/07/21/clayton-county-supervisors-hold-information-session-bitcoin-data-center/)**
+
+They want to set up a new center in Clayton County but can’t right now because of a noise ordinance.
+
+KCRG • 8h ago
+
+---
+
+**[Satsuma shareholders approve bitcoin treasury liquidation and London delisting](https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting)**
+
+The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy.
+
+The Block • 11h ago
 
 ---
 
@@ -251,7 +249,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 2 • 💬 0 • 10h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 13h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
 
 ---
 
@@ -259,7 +257,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Nearly a decade later, crypto is still barely functional for the thing it was s...
 
-⬆️ 2 • 💬 0 • 8h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
+⬆️ 2 • 💬 0 • 11h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
 
 ---
 
@@ -267,7 +265,7 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
 
-⬆️ 2 • 💬 0 • 14h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+⬆️ 2 • 💬 0 • 17h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
 
 ---
 
@@ -275,33 +273,23 @@ Every artifact in your product lifecycle gets a governed home — with lifecycle
 
 ## YouTube Videos: "bitcoin"
 
-**[CLARITY GRIDLOCK: Senate SCRAMBLES to pass crypto bill as TIME RUNS OUT](https://www.youtube.com/watch?v=FnmHsN_fXw8)**
-
-Sen. Kevin Cramer, R-N.D., joins 'Mornings with Maria' to discuss the Senate's push to pass the CLARITY Act before the August ...
-
-📺 Fox Business
-
-👁️ 72K • 👍 1K • 💬 279 • ⏱️ 9:29 • 13h ago
-
----
-
 **[Trump Just Caved. Bitcoin Is Loving It.](https://www.youtube.com/watch?v=MXzKYnh7M2s)**
 
 Trump just agreed to the ethics provision holding up the CLARITY Act — and Bitcoin is telling you exactly what it thinks about that.
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 756 • 💬 77 • ⏱️ 29:19 • 10h ago
+👁️ 12K • 👍 804 • 💬 78 • ⏱️ 29:19 • 13h ago
 
 ---
 
-**[Bitcoin Investors...HUGE UPDATE on Clarity Act](https://www.youtube.com/watch?v=lmLt_D2s2hk)**
+**[CLARITY GRIDLOCK: Senate SCRAMBLES to pass crypto bill as TIME RUNS OUT](https://www.youtube.com/watch?v=FnmHsN_fXw8)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Sen. Kevin Cramer, R-N.D., joins 'Mornings with Maria' to discuss the Senate's push to pass the CLARITY Act before the August ...
 
-📺 CryptosRUs
+📺 Fox Business
 
-👁️ 23K • 👍 1K • 💬 114 • ⏱️ 11:59 • 1d ago
+👁️ 74K • 👍 1K • 💬 282 • ⏱️ 9:29 • 16h ago
 
 ---
 
@@ -311,7 +299,7 @@ A major debate is unfolding inside the Bitcoin community, and the outcome could 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 994 • 💬 373 • ⏱️ 19:47 • 6h ago
+👁️ 15K • 👍 1K • 💬 430 • ⏱️ 19:47 • 9h ago
 
 ---
 
@@ -331,7 +319,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 876 • 💬 35 • ⏱️ 58:33 • 13h ago
+👁️ 16K • 👍 879 • 💬 35 • ⏱️ 58:33 • 16h ago
 
 ---
 
@@ -341,17 +329,17 @@ No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and 
 
 📺 Gareth Soloway
 
-👁️ 59K • 👍 4K • 💬 142 • ⏱️ 13:27 • 1d ago
+👁️ 59K • 👍 4K • 💬 143 • ⏱️ 13:27 • 1d ago
 
 ---
 
-**[Bitcoin Holders: Bitcoin Is Rallying (Here&#39;s My Plan Going Forward)](https://www.youtube.com/watch?v=6XHvnLUKDCM)**
+**[HUGE! CLARITY ACT GETS ETHICS WIN! BITCOIN &amp; ALTCOINS ARE ON THE MOVE! (CRYPTO NEWS)](https://www.youtube.com/watch?v=OZbtw62Kj3U)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
+Crypto News: Bitcoin crosses $65000 and altcoins are following with the charts looking bullish. The White House has agreed on ...
 
-📺 Aaron Bennett
+📺 Thinking Crypto
 
-👁️ 4K • 👍 283 • 💬 24 • ⏱️ 9:57 • 20h ago
+👁️ 20K • 👍 1K • 💬 110 • ⏱️ 16:12 • 1d ago
 
 ---
 
@@ -361,7 +349,7 @@ Bitcoin sentiment remains bearish, but the herd might be wrong! This could be on
 
 📺 Crypto Zombie
 
-👁️ 16K • 👍 2K • 💬 220 • ⏱️ 25:20 • 1d ago
+👁️ 16K • 👍 2K • 💬 223 • ⏱️ 25:20 • 1d ago
 
 ---
 
@@ -371,7 +359,17 @@ Trump backs Clarity Act, BTC, ETH, Uniswap charts! BITUNIX TRADE THE TOP COINS (
 
 📺 Lark Davis
 
-👁️ 15K • 👍 732 • 💬 56 • ⏱️ 13:44 • 15h ago
+👁️ 15K • 👍 748 • 💬 62 • ⏱️ 13:44 • 18h ago
+
+---
+
+**[You&#39;re Buying Bitcoin WRONG.](https://www.youtube.com/watch?v=E8sD5BmgWpU)**
+
+I'm not against Bitcoin, I own 15. I'm against HOW people buy it. Most people take hard earned, after tax dollars and "gamble", ...
+
+📺 Pace Morby
+
+👁️ 14K • 👍 218 • 💬 27 • ⏱️ 0:49 • 1d ago
 
 ---
 

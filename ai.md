@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-22T04:24:14.813637+00:00'
+updated: '2026-07-22T07:10:48.395361+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - videos
 - social
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 22, 2026 at 04:24 UTC  
+**Last Updated:** July 22, 2026 at 07:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 For a bit of context, I work at an agency, so I'm in and out of a dozen different AI tools every week across client projects: content, research, video, code, all of it. This is probably why I noticed this before most people (found these news while scrolling on LinkedIn today). When the ChatGPT hype first hit I genuinely cared which model I was on. Once GPT-4 landed and claude and gemini showed up, I'd switch between them constantly depending on the task, knowing what was under the hood felt like part of using it well. Now I catch myself using products with no idea what's running underneath. The news about Microsoft testing Kimi (Moonshot's model) inside Copilot is what made it click today. Copilot today is one model, six months from now it could be another, and most people won't notice or care. The model became a component, not the product. And honestly that's already how I use most of this stuff. Cursor for coding, Perplexity for research, Canva AI for design stuff, Argil when I'm turning a script into video. I couldn't tell you which model any of them swapped to last quarter, and it wouldn't change whether I keep paying. They're valuable because they solve one specific problem better than me duct-taping five tools together, not because of the model name on the box. Feels like we're moving from "which LLM is this?" to "did it actually save me time?" the same way nobody buying a laptop thinks about the chip anymore. Curious if others feel this shift. Do you still pick tools by the underlying model, or has that stopped mattering for you?
 
-9h ago
+11h ago
 
 ---
 
@@ -49,23 +49,7 @@ For a bit of context, I work at an agency, so I'm in and out of a dozen differen
 
 saw a stat this morning that's been bugging me all day. 47% of small businesses are using AI somewhere in HR now, screening resumes, onboarding, all that. fine whatever, expected at this point but then i saw the other half of it. more than half of applicants are using AI to write their resumes and cover letters too. linkedin is apparently getting like 11,000 applications a minute right now which is insane to even think about so just sit with that for a sec. candidate uses AI to write the resume, company uses AI to read it, and somewhere in between an actual person who might be genuinely good just gets a score slapped on them by two bots that never even talk to each other anyway the resume just isn't a signal anymore imo. it used to at least tell you who could write, who bothered to tailor it, who paid attention. now everyone's bullets are quantified and everyone reads like they came out of a mckinsey deck. the doc is flawless and somehow tells you nothing i've basically given up trying to win that game at this point. i skim resumes for like 20 seconds now, just enough to cut anyone wildly unqualified, and save the real energy for the interview i've got a few things i look for when i'm trying to spot the people who actually build stuff vs the ones just filling a seat. did they fix something nobody asked them to fix. will they push back on me instead of just nodding along. do they actually own the outcome or just the task problem is none of that shows up fast, takes time to actually see it in someone and it's genuinely hard to catch in one interview. but it's what i'm reaching for when the resume gives me nothing curious what everyone else is doing honestly, if the resume basically tells you nothing anymore what's actually replacing it for you edit: this is basically the hiring version of what i write about every week. i run modern operators, a newsletter for founders trying to get out of the day to day grind of their business. one of the recurring topics is exactly this, the stuff that actually predicts whether someone can run without you (ownership, judgment, follow-through) never shows up in the polished version of anything, whether that's a resume or a status update. free to join here if that's useful for you.
 
-10h ago
-
----
-
-**[Why I Left Google DeepMind By Alex Turner](https://www.reddit.com/r/artificial/comments/1v2f8df/why_i_left_google_deepmind_by_alex_turner/)**
-
-I fought against Google’s Pentagon AI deal from the inside. Powerful people and institutions failed to keep their AI ethics promises under pressure.
-
-🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 17h ago
-
----
-
-**[Big Tech is hiding $1.65tn in off-balance-sheet AI debt](https://www.reddit.com/r/artificial/comments/1v30xl0/big_tech_is_hiding_165tn_in_offbalancesheet_ai/)**
-
-A Nikkei study found Alphabet, Microsoft, Amazon, Meta and Oracle carry $1.65tn in off-balance-sheet debt for AI, more than they report. It is all legal.
-
-🔗 [TNW | Amazon](https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai) • 3h ago
+13h ago
 
 ---
 
@@ -73,15 +57,55 @@ A Nikkei study found Alphabet, Microsoft, Amazon, Meta and Oracle carry $1.65tn 
 
 There are some Google AI tools that I think are absolutely fantastic. I often come across demos, tutorials, and influencers showcasing different Google AI capabilities. But the first thing that always strikes me is this: why is using Google’s AI so fragmented? To create content or use different AI features, you have to jump between multiple websites, multiple products, and constantly changing names that are hard to keep track of. Instead of bringing everything together into a clear, understandable ecosystem—like Anthropic has done, or like OpenAI is clearly trying to do—it feels like everything lives in a different place. Honestly, it almost feels as if Google’s AI teams are disconnected from one another. In some ways, it even gives me the impression of a company that’s operating like an old, established enterprise rather than a modern AI-first company. To me, this is completely counterproductive. It creates unnecessary chaos for users and makes it much harder to connect the dots between the many excellent AI tools Google already has. Am I the only one who feels this way?
 
-19m ago
+3h ago
 
 ---
 
-**[AI is great, but experience is still hard to replace](https://www.reddit.com/r/artificial/comments/1v2ksq5/ai_is_great_but_experience_is_still_hard_to/)**
+**[Analyzing the OpenAI - Hugging Face ExploitGym incident](https://www.reddit.com/r/artificial/comments/1v36nep/analyzing_the_openai_hugging_face_exploitgym/)**
 
-I use AI for research almost every day now, and it's amazing for getting a quick overview of a topic. But I've also noticed that once the questions become really specific, you eventually need input from someone who's actually done the work. That's especially true for industries where small details can completely change a decision. While reading about how companies solve that problem, I found Expert Network and thought the idea was pretty interesting. Instead of relying only on reports or public information, they connect with professionals who have direct experience in whatever niche they're researching. AI definitely makes learning faster, but real-world experience still feels like something technology can't fully replace.
+The ExploitGym incident provides a rare look into how advanced AI systems behave during realistic security evaluations. This analysis examines the attack sequence, environment design, autonomous decision-making, containment mechanisms, and the broader implications for AI security, benchmarking, and future agentic systems.
 
-13h ago
+🔗 [thecybersecguru.com](https://thecybersecguru.com/news/openai-hugging-face-ai-security-incident-exploitgym-analysis/) • 1h ago
+
+---
+
+**[Why I Left Google DeepMind By Alex Turner](https://www.reddit.com/r/artificial/comments/1v2f8df/why_i_left_google_deepmind_by_alex_turner/)**
+
+I fought against Google’s Pentagon AI deal from the inside. Powerful people and institutions failed to keep their AI ethics promises under pressure.
+
+🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 20h ago
+
+---
+
+**[Is Gemini 3.6 Flash actually an upgrade or just 3.5 Flash but faster?](https://www.reddit.com/r/artificial/comments/1v38ghm/is_gemini_36_flash_actually_an_upgrade_or_just_35/)**
+
+3.6 Flash is the current Flash now, it replaced 3.5 this week. Now that everyone's basically on it, is anyone actually noticing it got better? On the Artificial Analysis index it scores the exact same 50 as 3.5, so the intelligence didn't really move. It's faster and a bit cheaper ($7.50/M output vs $9), which is nice for heavy agent use, but for normal chat or coding it feels like the same model with a new number on it. The price is $1.50/$7.50 when DeepSeek V4 Flash runs like $0.14/$0.28. If I just want a cheap fast worker, why pay for gemini? Anyone feeling a real difference after the swap, or is it a nothing update for you too? I made this with GPT image 2.0, asking it to research about gemini 3.6 flash
+
+11m ago
+
+---
+
+**[Big Tech is hiding $1.65tn in off-balance-sheet AI debt](https://www.reddit.com/r/artificial/comments/1v30xl0/big_tech_is_hiding_165tn_in_offbalancesheet_ai/)**
+
+A Nikkei study found Alphabet, Microsoft, Amazon, Meta and Oracle carry $1.65tn in off-balance-sheet debt for AI, more than they report. It is all legal.
+
+🔗 [TNW | Amazon](https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai) • 6h ago
+
+---
+
+**[Gemini 3.6 Flash looks better on paper. What would make you block the upgrade?](https://www.reddit.com/r/artificial/comments/1v37drq/gemini_36_flash_looks_better_on_paper_what_would/)**
+
+The headline numbers make Gemini 3.6 Flash look like a straightforward upgrade. Google says it uses 17% fewer output tokens than 3.5 Flash on the Artificial Analysis Index. It also reports gains on DeepSWE (49 vs. 37), MLE-Bench (63.9 vs. 49.7), OSWorld-Verified (83.0 vs. 78.4), and GDPval-AA v2 (1421 vs. 1349). The output price is also lower at $7.50 per million tokens. That is a solid aggregate story. https://preview.redd.it/ddq9bmd41qeh1.png?width=1600&format=png&auto=webp&s=fb1f48624180d063efd9e0d67adda5193345abc9 At the same time, early screenshots in the source material claim regressions in frontend generation and spatial reasoning. The examples available there do not include original links, complete prompts, model settings, or a reproducible configuration. One example even leaves open whether the appropriate thinking setting was enabled. So I would not treat those screenshots as independent evidence that the model is broadly worse, and definitely not as evidence that it is the "worst" model overall. My read is simpler: they are enough to propose a regression case, but not enough to settle it. Aggregate gains and narrow regressions can easily coexist. A benchmark averages across its own task distribution. Your application may put most of its weight on a category that barely affects the aggregate result. A model can improve on coding agents, knowledge work, and computer use while becoming less reliable on one specific UI pattern. The overall score rises. Your product still breaks. For an actual upgrade decision, I would use a paired workload regression: Freeze the system prompt, user prompt, tools, context, temperature, thinking level, output limit, and retry policy. Run the incumbent and candidate on the same representative tasks, including rare but expensive failure cases. Randomize the answer order and blind reviewers to the model when possible. Score accepted-task rate, critical errors, retries, tool calls, latency, tokens, and total cost per accepted result. Define the rejection gate before looking at the results. That last part seems especially important. If a team decides after the test that a preferred model's regression is "small enough," the evaluation becomes model advocacy. A predeclared gate forces the decision to follow the workload. I would also avoid forcing a single global winner. If 3.6 Flash wins on document analysis but loses on a frontend workflow, that is a routing result. Keep the incumbent for the failing category and use the new model where it clears the gate. The production unit is not just "Gemini 3.6 Flash." It is the model, settings, prompts, tools, and workload together. Official source: Google's Gemini 3.6 Flash launch post If you are evaluating 3.6 Flash in production, what specific failure gate would make you keep 3.5 Flash, or route only a subset of tasks, even if the aggregate benchmarks improve?
+
+1h ago
+
+---
+
+**[Free tool: give it any company name, get a Value Stick strategy breakdown back](https://www.reddit.com/r/artificial/comments/1v35y4b/free_tool_give_it_any_company_name_get_a_value/)**
+
+Built a small tool to see how far I could push AI as a research + reasoning partner rather than a chatbot: type a company name, it pulls recent news and context, then structures a strategy analysis using the Value Stick (WTP/WTS) framework. Free, no login. I'd genuinely like feedback on where the reasoning breaks down or feels shallow — not just "cool tool" feedback. https://value-stick-wizard.lovable.app/
+
+2h ago
 
 ---
 
@@ -89,31 +113,7 @@ I use AI for research almost every day now, and it's amazing for getting a quick
 
 Like I have been listening that AI is expensive and companies are rehiring employees because of it. So is AI going to become cheaper eventually?
 
-14h ago
-
----
-
-**[Europe just forced Google to open Android to every competing AI. And Gemini 3.5 Pro missed its deadline for the third time this week.](https://www.reddit.com/r/artificial/comments/1v2p6xw/europe_just_forced_google_to_open_android_to/)**
-
-Two things happened this week that are worth paying attention to if you work in tech or run a business. On July 16 the European Commission issued binding orders under the Digital Markets Act requiring Google to give rival AI assistants the same system-level Android access it reserves for Gemini. Right now if you install ChatGPT or Claude on an Android phone, you get an app. Gemini gets to hear a wake word, hold the home button, read your screen, and act inside other apps. That gap is now illegal in Europe. The changes roll out starting January 2027 for search data and July 2027 for Android features. Two billion phones, eventually forced open. Meanwhile Gemini 3.5 Pro missed its third consecutive deadline. June came and went. Then July 17. Still not out. Every week it is absent, enterprises signing contracts for the second half of 2026 are defaulting to GPT-5.6 or Claude instead. Google announced this model publicly at I/O in May. Three missed deadlines is not a QA problem, it is a credibility problem. The competitive window does not stay open indefinitely. The enterprises making platform decisions right now are not waiting. What's your read on how the DMA changes actually play out in practice? Genuinely curious whether forced interoperability helps users or just adds compliance overhead.
-
-10h ago
-
----
-
-**[What if we treated AI as a scarce resource?](https://www.reddit.com/r/artificial/comments/1v2zqy9/what_if_we_treated_ai_as_a_scarce_resource/)**
-
-Over the last few years, AI has become more ubiquitous and abundant seeming. We type, chat, generate, prompt to our heart's content. But the reality is that we're using a highly subsidized resource that's feels unlimited but is highly constrained. How would you change your approach to AI if you viewed it as a scarce, expensive, resource? What would you change about how you use it? Would you use it at all? I'm looking forward to the conversation.
-
-4h ago
-
----
-
-**[SunoAI Data Breach: Discord mods giving timeouts to those who discuss it](https://www.reddit.com/r/artificial/comments/1v2f7pm/sunoai_data_breach_discord_mods_giving_timeouts/)**
-
-Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
-
-🔗 [Imgur](https://i.imgur.com/cSTIB4d.png) • 17h ago
+17h ago
 
 ---
 
@@ -121,75 +121,79 @@ Discover the magic of the internet at Imgur, a community powered entertainment d
 
 ## Google News: "ai"
 
+**[Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)**
+
+We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
+
+blog.google • 15h ago
+
+---
+
+**[Google Releases Three New A.I. Models](https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html)**
+
+The New York Times • 11h ago
+
+---
+
+**[Google parent Alphabet to report Q2 earnings in latest test of AI trade](https://finance.yahoo.com/technology/article/google-parent-alphabet-to-report-q2-earnings-in-latest-test-of-ai-trade-110000124.html)**
+
+Google will report its second quarter earnings after the bell on Wednesday.
+
+Yahoo Finance • 20h ago
+
+---
+
 **[OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)**
 
 OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
 
-OpenAI • 8h ago
+OpenAI • 11h ago
 
 ---
 
 **[OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup](https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/)**
 
-Reuters • 6h ago
+Reuters • 9h ago
 
 ---
 
-**[‘Unprecedented’: OpenAI says AI models autonomously hacked another company](https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company)**
+**[OpenAI says AI model hacked another company's systems during internal test](https://www.foxbusiness.com/technology/openai-says-ai-model-hacked-another-companys-systems-during-internal-test)**
 
-OpenAI says an autonomous agent bypassed controls and hacked Hugging Face servers during a cybersecurity test.
+One of OpenAI's models hacked into another company's systems during internal testing in what it called an "unprecedented cyber incident," according to the company.
 
-Al Jazeera • 1h ago
-
----
-
-**[Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem](https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/)**
-
-Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.
-
-Fortune • 12h ago
+Fox Business • 31m ago
 
 ---
 
-**[Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI](https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/)**
+**[CNBC Daily Open: Generic problems, AI valuations and earnings on tap](https://www.cnbc.com/2026/07/22/cnbc-daily-open-generic-problems-ai-valuations-and-earnings-on-tap.html)**
 
-What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…
+President Trump takes fresh aim at the pharmaceutical sector, with a plan to levy 100% tariffs on generic drugs as he targets key areas ahead of the midterms.
 
-NVIDIA Developer • 12h ago
-
----
-
-**[Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel](https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html)**
-
-Nvidia released new information about its data center CPU, called Vera, that prospective customers need to fully evaluate the chip.
-
-CNBC • 13h ago
+CNBC • 48m ago
 
 ---
 
-**[Nvidia supplier Wistron launches $700 million Texas factory for AI system production By Reuters](https://www.investing.com/news/stock-market-news/nvidia-supplier-wistron-launches-700-million-texas-factory-for-ai-system-production-4804610)**
+**[Santa Monica rolls out program using AI-powered cameras to catch bike lane violators](https://www.cbsnews.com/losangeles/news/santa-monica-ai-powered-cameras-bike-lane-violators/)**
 
-Investing.com • 1h ago
+After months of testing a new program aimed at catching bike lane violators, the city of Santa Monica is now issuing tickets with the help of an artificial intelligence-powered camera system.
 
----
-
-**[School leaders address concerns over new AI-powered robot](https://www.wivb.com/news/local-news/western-new-york/cattaraugus-county/school-leaders-address-concerns-over-new-ai-powered-robot/)**
-
-WIVB News 4 • 59m ago
+CBS News • 1h ago
 
 ---
 
-**[The Anthropic-Physical Intelligence rumor roiling AI Twitter](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/)**
+**[Jamie Dimon throws caution on the AI frenzy but sees promise in space data centers](https://finance.yahoo.com/markets/article/jamie-dimon-throws-caution-on-the-ai-frenzy-but-sees-promise-in-space-data-centers-182215908.html)**
 
-Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.
+JPMorgan Chase CEO Jamie Dimon has his doubts that the AI spending boom will turn out the way investors are hoping for. Still, he's willing to entertain one of the AI build-out's more extraordinary projects: SpaceX's ambition to put data centers in space.
 
-TechCrunch • 1h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Wetzel: UM could have run this investigation through AI instead](https://www.espn.com/college-football/story/_/id/49418138/um-run-investigation-ai)**
+**[Marxist organizer leads campaign against Virginia AI data center as foreign influence concerns mount](https://www.foxnews.com/politics/marxist-organizer-leads-fight-against-virginia-ai-data-center-foreign-influence-concerns-mount)**
 
-ESPN • 10h ago
+A grassroots organizer opposing AI data centers in Frederick County, Virginia, is tied to the Party of Socialism and Liberation, a Marxist-Leninist group.
+
+Fox News • 20h ago
 
 ---
 
@@ -209,7 +213,7 @@ China's open-weights AI strategy is winning: its companies are taking the lead. 
 
 The sky (and your endurance) is the limit!
 
-⬆️ 835 • 💬 162 • 1d ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 840 • 💬 163 • 1d ago • [Airport Simulator](https://airport.apunen.com/)
 
 ---
 
@@ -217,7 +221,7 @@ The sky (and your endurance) is the limit!
 
 A study found that access to AI advice collapsed people's willingness to say "I don't know" from 44% to 3%, while accuracy dropped from 27% to 9%.
 
-⬆️ 363 • 💬 211 • 2d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+⬆️ 363 • 💬 212 • 2d ago • [TNW | Artificial-Intelligence](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
 
 ---
 
@@ -225,7 +229,15 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows
 
-⬆️ 355 • 💬 248 • 1d ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
+⬆️ 357 • 💬 248 • 1d ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
+
+---
+
+**[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://news.ycombinator.com/item?id=48995213)**
+
+Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
+
+⬆️ 300 • 💬 256 • 13h ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
 ---
 
@@ -236,14 +248,6 @@ Kimi K3 has received far more love than we expected, and our GPUs are feeling it
 Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and
 
 ⬆️ 283 • 💬 113 • 2d ago • [X (formerly Twitter)](https://twitter.com/kimi_moonshot/status/2078855608565207130)
-
----
-
-**[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://news.ycombinator.com/item?id=48995213)**
-
-Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
-
-⬆️ 275 • 💬 232 • 11h ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
 ---
 
@@ -265,13 +269,13 @@ Which way to the Land of the Free again?
 
 **[AI makes programming differently difficult](https://news.ycombinator.com/item?id=48996197)**
 
-⬆️ 144 • 💬 121 • 9h ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+⬆️ 146 • 💬 125 • 12h ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
 
 ---
 
 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)**
 
-⬆️ 97 • 💬 99 • 1d ago
+⬆️ 97 • 💬 102 • 1d ago
 
 ---
 
@@ -279,23 +283,33 @@ Which way to the Land of the Free again?
 
 ## YouTube Videos: "ai"
 
+**[So It Started... AI Agent Just Pulled Off History’s Biggest Autonomous Cyberattack](https://www.youtube.com/watch?v=gMYR-JkmIFc)**
+
+An autonomous AI agent hacked Hugging Face from start to finish, executing thousands of actions across its systems.
+
+📺 AI Revolution
+
+👁️ 22K • 👍 957 • 💬 87 • ⏱️ 12:19 • 9h ago
+
+---
+
 **[The Most Important Conversation in AI Right Now](https://www.youtube.com/watch?v=6BtIQIGqGJc)**
 
 It's all about VALUEMAXXING now! Learn more from Zapier: https://bit.ly/4bW1JB8 Join My Newsletter for Regular AI Updates ...
 
 📺 Matthew Berman
 
-👁️ 58K • 👍 2K • 💬 717 • ⏱️ 27:13 • 8h ago
+👁️ 71K • 👍 3K • 💬 795 • ⏱️ 27:13 • 11h ago
 
 ---
 
-**[The AI Industry Just Got What It Deserved](https://www.youtube.com/watch?v=9nUmVktlwvA)**
+**[AI Whistleblower: We&#39;re Already Too Late To CONTROL It - Connor Leahy](https://www.youtube.com/watch?v=CRcj_2oloDM)**
 
-The people who built the attention economy barely let their own children near it, and that hypocrisy is only the beginning.
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Connor Leahy, founder of the former ...
 
-📺 House of El: AI
+📺 Neural Nutshell
 
-👁️ 165K • 👍 13K • 💬 3K • ⏱️ 24:19 • 1d ago
+👁️ 11K • 👍 225 • 💬 61 • ⏱️ 11:00 • 1d ago
 
 ---
 
@@ -305,45 +319,17 @@ Krystal and Saagar discuss China's new breakthrough in AI tech surpassing US com
 
 📺 Breaking Points
 
-👁️ 248K • 👍 8K • 💬 2K • ⏱️ 16:27 • 11h ago
+👁️ 276K • 👍 8K • 💬 2K • ⏱️ 16:27 • 14h ago
 
 ---
 
-**[So It Started... AI Agent Just Pulled Off History’s Biggest Autonomous Cyberattack](https://www.youtube.com/watch?v=gMYR-JkmIFc)**
+**[We Built Something We Can’t Control | A Warning from Top AI Safety Expert](https://www.youtube.com/watch?v=uRjK86hH3IY)**
 
-An autonomous AI agent hacked Hugging Face from start to finish, executing thousands of actions across its systems.
+If anyone builds superintelligent AI before we know how to aim it, everyone dies. Nate Soares wrote the book on why that is not a ...
 
-📺 AI Revolution
+📺 Dr Brian Keating
 
-👁️ 18K • 👍 839 • 💬 72 • ⏱️ 12:19 • 6h ago
-
----
-
-**[Can An AI Punish You In The Future? 😨](https://www.youtube.com/watch?v=nPqO8z21i5I)**
-
-📺 Zack D. Films
-
-👁️ 2.6M • 👍 185K • 💬 9K • ⏱️ 0:46 • 2d ago
-
----
-
-**[Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?](https://www.youtube.com/watch?v=OY2Sjbjd_VE)**
-
-(0:00) Bubble talk: comparing today's AI market to the dot-com bubble (7:50) AI's real-world limits: why enterprise AI is harder than ...
-
-📺 All-In Podcast
-
-👁️ 60K • 👍 1K • 💬 196 • ⏱️ 41:39 • 11h ago
-
----
-
-**[South Korea’s AI Bubble Just Popped](https://www.youtube.com/watch?v=hy90LdpEUvQ)**
-
-South Korea's AI Bubble Just Popped ▻ Get 20% off DeleteMe US consumer plans when you go to ...
-
-📺 Andrei Jikh
-
-👁️ 1.9M • 👍 51K • 💬 4K • ⏱️ 25:10 • 1d ago
+👁️ 4K • 👍 155 • 💬 76 • ⏱️ 1:13:07 • 14h ago
 
 ---
 
@@ -353,27 +339,45 @@ Tesla, SpaceX, Grok, Starlink, and AI may all be pieces of a much larger vision.
 
 📺 Brighter with Herbert
 
-👁️ 16K • 👍 922 • 💬 71 • ⏱️ 35:24 • 14h ago
+👁️ 16K • 👍 950 • 💬 72 • ⏱️ 35:24 • 17h ago
 
 ---
 
-**[Trump considers BAN on Chinese AI: report](https://www.youtube.com/watch?v=MV9ZmAhQ1tU)**
+**[South Korea’s AI Bubble Just Popped](https://www.youtube.com/watch?v=hy90LdpEUvQ)**
 
-Former Deputy National Security Advisor Steve Yates and Kurt 'CyberGuy' Knutsson discuss the New York school's plans to ...
+South Korea's AI Bubble Just Popped ▻ Get 20% off DeleteMe US consumer plans when you go to ...
 
-📺 Fox News Clips
+📺 Andrei Jikh
 
-👁️ 7K • 👍 171 • 💬 145 • ⏱️ 5:25 • 13h ago
+👁️ 2.0M • 👍 52K • 💬 4K • ⏱️ 25:10 • 1d ago
 
 ---
 
-**[AI Companies Are Terrified.](https://www.youtube.com/watch?v=eLCF6LdkzAQ)**
+**[Kimi K3 Gets Shut Down... Then China Drops Another AI Winner!](https://www.youtube.com/watch?v=EenYgrkqzE0)**
 
-Thanks to Micro Center for sponsoring this video! Shop Back to School Tech Deals: https://micro.center/a6ef91 Sign up for a FREE ...
+Moonshot paused new Kimi K3 subscriptions after extreme demand pushed its computing systems to the limit. But almost ...
 
-📺 TechLinked
+📺 AI Revolution
 
-👁️ 329K • 👍 17K • 💬 1K • ⏱️ 8:30 • 1d ago
+👁️ 53K • 👍 2K • 💬 112 • ⏱️ 16:39 • 1d ago
+
+---
+
+**[Urgent Update- AI Sputnik Moment: Kimi K3 Released w/ Emad Mostaque | Ep. 272](https://www.youtube.com/watch?v=pSUyLfirP8Y)**
+
+The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik Moment of Kimi K3 being released. Get access ...
+
+📺 Peter H. Diamandis
+
+👁️ 272K • 👍 7K • 💬 1K • ⏱️ 2:07:31 • 2d ago
+
+---
+
+**[Can An AI Punish You In The Future? 😨](https://www.youtube.com/watch?v=nPqO8z21i5I)**
+
+📺 Zack D. Films
+
+👁️ 2.7M • 👍 187K • 💬 9K • ⏱️ 0:46 • 2d ago
 
 ---
 
@@ -389,7 +393,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 16,441 • ❤️ 1,372 • 1d ago
+⬇️ 16,441 • ❤️ 1,385 • 1d ago
 
 ---
 
@@ -401,7 +405,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 432,196 • ❤️ 902 • 3d ago
+⬇️ 432,196 • ❤️ 906 • 4d ago
 
 ---
 
@@ -413,7 +417,17 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,237,351 • ❤️ 2,622 • 17h ago
+⬇️ 2,237,351 • ❤️ 2,631 • 20h ago
+
+---
+
+**[Kimi-K3](https://huggingface.co/reteetzad/Kimi-K3)**
+
+*testtest*
+
+Kimi K3 is an open-source frontier model from Moonshot AI, featuring a Mixture-of-Experts architecture for efficient inference. It excels in deep reasoning, agentic tool use, and long-horizon coding with an extended context window for repository-scale code understanding.
+
+⬇️ 0 • ❤️ 590 • 15h ago
 
 ---
 
@@ -425,17 +439,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,404,962 • ❤️ 571 • 4d ago
-
----
-
-**[Kimi-K3](https://huggingface.co/reteetzad/Kimi-K3)**
-
-*testtest*
-
-Kimi K3 is an open-source frontier model from Moonshot AI, featuring a Mixture-of-Experts architecture for efficient inference. It excels in deep reasoning, agentic tool use, and long-horizon coding with an extended context window for repository-scale code understanding.
-
-⬇️ 0 • ❤️ 401 • 12h ago
+⬇️ 1,404,962 • ❤️ 573 • 4d ago
 
 ---
 
@@ -447,7 +451,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 545,109 • ❤️ 4,288 • 19d ago
+⬇️ 545,109 • ❤️ 4,291 • 19d ago
 
 ---
 
@@ -459,7 +463,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 62,842 • ❤️ 259 • 1d ago
+⬇️ 62,842 • ❤️ 264 • 1d ago
 
 ---
 
@@ -471,7 +475,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 3,056 • ❤️ 218 • 5h ago
+⬇️ 3,056 • ❤️ 246 • 8h ago
 
 ---
 
@@ -483,7 +487,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,997,690 • ❤️ 2,976 • 3mo ago
+⬇️ 1,997,690 • ❤️ 2,981 • 3mo ago
 
 ---
 
@@ -495,7 +499,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 2,133,420 • ❤️ 2,391 • 7d ago
+⬇️ 2,133,420 • ❤️ 2,393 • 7d ago
 
 ---
 
@@ -525,7 +529,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 56 • 💬 5 • ⭐ 16,426 • 1mo ago
+▲ 58 • 💬 5 • ⭐ 16,426 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -563,7 +567,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 259 • 💬 4 • ⭐ 13,982 • 2mo ago
+▲ 260 • 💬 4 • ⭐ 13,982 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -600,7 +604,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fidelity and accurate interaction patterns between humans and diverse objects, especially when objects represent abstract concepts such as logos. Second, while intra-subject references (e.g., OCR maps, multi-view inputs) are expected to enhance subject fidelity, most existing works lack mechanisms to understand such latent correspondence. To address both challenges, we propose HOMIE, an HOCVP framework that tackles both inter- and intra-subject input settings in a unified manner. Compared to previous approaches, HOMIE proposes a better MLLM integration strategy to extract knowledge of reference-level relationships without compromising the controllability of text encoders or incurring costly re-alignment. Specifically, we introduce global multimodal guidance within self-attention to better align MLLM-derived semantic features with VAE tokens. Furthermore, we propose modality-reference embedding to differentiate tokens from MLLM features and VAE tokens and associate intra-subject reference image tokens. Extensive experiments validate that our method achieves state-of-the-art performance across various HOCVP tasks. Project Page: https://yiyangcai.github.io/homie-page.github.io/
 
-▲ 47 • 💬 2 • ⭐ 99 • 2d ago
+▲ 49 • 💬 2 • ⭐ 99 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.18217) • [💻 code](https://github.com/YIYANGCAI/HOMIE) • [🔗 project](https://yiyangcai.github.io/homie-page.github.io/)
 
@@ -653,7 +657,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 236 • 1h ago
+⭐ 3.1k • 🔱 237 • 58m ago
 
 ---
 
@@ -663,7 +667,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 374 • 10h ago
+⭐ 2.7k • 🔱 374 • 1h ago
 
 ---
 
@@ -703,7 +707,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 950 • 🔱 155 • 16h ago
+⭐ 953 • 🔱 156 • 19h ago
 
 ---
 
@@ -713,7 +717,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 945 • 🔱 211 • 10d ago
+⭐ 950 • 🔱 212 • 10d ago
 
 ---
 
@@ -731,7 +735,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 870 • 🔱 100 • 8m ago
+⭐ 870 • 🔱 100 • 2h ago
 
 ---
 
