@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-22T21:37:54.829896+00:00'
+updated: '2026-07-22T23:04:19.204052+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 21:37 UTC  
+**Last Updated:** July 22, 2026 at 23:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,926.36
+### $1,931.76
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +3.6%  
-**30d:** +15.9%  
-**90d:** -16.5%  
-**1y:** -46.7%  
+**24h:** -0.1%  
+**7d:** +3.9%  
+**30d:** +16.2%  
+**90d:** -16.3%  
+**1y:** -46.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.34B
+**Market Cap:** $233.73B
 Rank #2
 
 **Circulating Supply:** 120,682,776 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-60.8%
 
 **All-Time Low:** $0.43
-+444542.8%
++447136.5%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+18h ago
+
+---
+
+**[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
+
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 1d ago
 
 ---
 
@@ -84,9 +90,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
+**[Warning!!! EU Crypto Users: Stop Sending Crypto Directly Between Exchanges Right Now, or risk your crypto being Frozen.](https://www.reddit.com/r/ethereum/comments/1v28fsw/warning_eu_crypto_users_stop_sending_crypto/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 22h ago
+1d ago
 
 ---
 
@@ -98,23 +104,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Warning!!! EU Crypto Users: Stop Sending Crypto Directly Between Exchanges Right Now, or risk your crypto being Frozen.](https://www.reddit.com/r/ethereum/comments/1v28fsw/warning_eu_crypto_users_stop_sending_crypto/)**
-
-1d ago
-
----
-
-**[Looking for recommendations for a home server for an evm blockchain node/validator](https://www.reddit.com/r/ethereum/comments/1v13xwa/looking_for_recommendations_for_a_home_server_for/)**
-
-2d ago
-
----
-
 **[Why I don't want to move back to banks](https://www.reddit.com/r/ethereum/comments/1v1iduk/why_i_dont_want_to_move_back_to_banks/)**
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
 2d ago
+
+---
+
+**[Looking for recommendations for a home server for an evm blockchain node/validator](https://www.reddit.com/r/ethereum/comments/1v13xwa/looking_for_recommendations_for_a_home_server_for/)**
+
+3d ago
 
 ---
 
@@ -150,7 +150,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Fundstrat's Tom Lee suggests the market underestimates the chances of the CLARITY Act passing, which could positively impact crypto regulation. He also highlights Ethereum's potential to benefit from AI-driven growth, as AI applications increasingly use Ethereum-based assets like stablecoins and tokenized payments. Currently trading near $1,933, Ethereum shows signs of recovery and improved market sentiment. Lee projects ETH could reach $7,000-$9,000 soon, with a $12,000-$22,000 range possible if Bitcoin hits $250,000 and a stronger crypto rally occurs.
 
-Pluang • 2m ago
+Pluang • 1h ago
 
 ---
 
@@ -186,9 +186,17 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Morgan Stanley files final paperwork for Solana, Ethereum staking ETFs](https://cryptobriefing.com/morgan-stanley-solana-ethereum-staking-etfs/)**
+
+Morgan Stanley plans Solana, Ethereum ETFs for NYSE Arca, featuring low fees, direct staking rewards. A crypto investment milestone.
+
+Crypto Briefing • 3h ago
+
+---
+
 **[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
 
-thestreet.com • 4h ago
+thestreet.com • 5h ago
 
 ---
 
@@ -204,7 +212,7 @@ markets.businessinsider.com • 1d ago
 
 Bitcoin (BTC) trades elevated above $66,000 immediate support on Wednesday, following a minor correction from its weekly high of $66,956.
 
-FXStreet • 10h ago
+FXStreet • 12h ago
 
 ---
 
@@ -216,25 +224,17 @@ Fortune • 5h ago
 
 ---
 
-**[Ethereum’s validator exit queue drops to zero as 2.48M ETH waits to enter staking](https://cryptobriefing.com/ethereum-validator-exit-queue-zero-staking/)**
-
-Ethereum's validator exit queue has dropped to zero while 2.48M ETH awaits entry into staking, signaling strong holder conviction and reduced
-
-Crypto Briefing • 6h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[The CRYPTO BULL REVERSAL Setting Up! (WARNING For Bitcoin, Ethereum, Altcoins)](https://www.youtube.com/watch?v=iuZTZHipaG0)**
+**[Has ETH/BTC Bottomed and Who Leads From Here?](https://www.youtube.com/watch?v=RbHseJJPgvw)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 Crypto Capital Venture
+📺 Milk Road
 
-👁️ 6K • 👍 408 • 💬 134 • ⏱️ 10:38 • 7h ago
+👁️ 912 • 👍 57 • 💬 38 • ⏱️ 39:53 • 4h ago
 
 ---
 
@@ -244,7 +244,47 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 382 • 💬 68 • ⏱️ 19:54 • 1d ago
+👁️ 15K • 👍 414 • 💬 69 • ⏱️ 19:54 • 1d ago
+
+---
+
+**[The CRYPTO BULL REVERSAL Setting Up! (WARNING For Bitcoin, Ethereum, Altcoins)](https://www.youtube.com/watch?v=iuZTZHipaG0)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 440 • 💬 133 • ⏱️ 10:38 • 8h ago
+
+---
+
+**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom Sharplink](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
+
+Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
+
+📺 Thinking Crypto
+
+👁️ 4K • 👍 186 • 💬 47 • ⏱️ 17:49 • 1d ago
+
+---
+
+**[Everyone Hates Ethereum… That’s The Point](https://www.youtube.com/watch?v=9XZNRYVsEcQ)**
+
+In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. It ran to $126000. Right now, Ethereum is down ...
+
+📺 Lark Davis
+
+👁️ 13K • 👍 617 • 💬 59 • ⏱️ 11:56 • 2d ago
+
+---
+
+**[Are You Paying Attention To ETH Yet?](https://www.youtube.com/watch?v=SY6CA9VfWAU)**
+
+Aaron Dishner walks through Ethereum's recent price action, noting last week's roughly 6% pullback from 1921 to 1800 and the ...
+
+📺 Coin Bureau Trading
+
+👁️ 5K • 👍 366 • 💬 32 • ⏱️ 16:28 • 1d ago
 
 ---
 
@@ -258,33 +298,13 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 ---
 
-**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom Sharplink](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
 
-Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
+Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
 
-📺 Thinking Crypto
+📺 Benjamin Cowen
 
-👁️ 4K • 👍 181 • 💬 46 • ⏱️ 17:49 • 1d ago
-
----
-
-**[Everyone Hates Ethereum… That’s The Point](https://www.youtube.com/watch?v=9XZNRYVsEcQ)**
-
-In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. It ran to $126000. Right now, Ethereum is down ...
-
-📺 Lark Davis
-
-👁️ 13K • 👍 614 • 💬 59 • ⏱️ 11:56 • 2d ago
-
----
-
-**[Are You Paying Attention To ETH Yet?](https://www.youtube.com/watch?v=SY6CA9VfWAU)**
-
-Aaron Dishner walks through Ethereum's recent price action, noting last week's roughly 6% pullback from 1921 to 1800 and the ...
-
-📺 Coin Bureau Trading
-
-👁️ 5K • 👍 362 • 💬 32 • ⏱️ 16:28 • 1d ago
+👁️ 93K • 👍 5K • 💬 232 • ⏱️ 17:58 • 2d ago
 
 ---
 
@@ -294,37 +314,17 @@ In this video I break down the current Ethereum price action and the specific te
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 199 • 💬 9 • ⏱️ 8:34 • 22h ago
+👁️ 4K • 👍 209 • 💬 9 • ⏱️ 8:34 • 1d ago
 
 ---
 
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
+**[Ethereum Staking Is Going Institutional — Lido Explains Why](https://www.youtube.com/watch?v=7G4zDpNaKrw)**
 
-Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
+Get immediate access to my entire crypto portfolio.. just $1.00 today! Go here to get access: ...
 
-📺 Benjamin Cowen
+📺 Crypto 101
 
-👁️ 92K • 👍 5K • 💬 230 • ⏱️ 17:58 • 2d ago
-
----
-
-**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
-
-INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 192 • 💬 25 • ⏱️ 11:23 • 3d ago
-
----
-
-**[Why Ethereum’s Institutional Supercycle Is Already Here | Joseph Chalom, Sharplink](https://www.youtube.com/watch?v=FcaUCHhKdDs)**
-
-On today's Talking Tokens, Jacquelyn sits down with Joseph Chalom, CEO of Sharplink to talk about why he and a group of ...
-
-📺 Talking Tokens Podcast
-
-👁️ 4K • 👍 136 • 💬 25 • ⏱️ 30:37 • 1d ago
+👁️ 17 • 👍 2 • ⏱️ 20:23 • 3h ago
 
 ---
 
