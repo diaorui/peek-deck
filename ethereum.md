@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-22T17:20:08.395739+00:00'
+updated: '2026-07-22T18:42:03.370668+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 17:20 UTC  
+**Last Updated:** July 22, 2026 at 18:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +4.1%  
-**30d:** +16.5%  
-**90d:** -16.1%  
-**1y:** -46.4%  
+**24h:** +0.0%  
+**7d:** +3.2%  
+**30d:** +15.4%  
+**90d:** -16.9%  
+**1y:** -46.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 18h ago
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 19h ago
 
 ---
 
@@ -138,7 +138,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-3d ago
+4d ago
 
 ---
 
@@ -150,15 +150,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Bitcoin (BTC-USD) opened at $66,508.87 on Wednesday, July 22, 2026, 2% higher than Tuesday's opening price. Ethereum (ETH-USD) opened at $1,928.62, up 1.3% from Tuesday's opening price.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares](https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares)**
-
-Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
-
-The Block • 2d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -167,6 +159,14 @@ The Block • 2d ago
 His expectations are sky-high for these two coins.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares](https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares)**
+
+Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
+
+The Block • 2d ago
 
 ---
 
@@ -182,7 +182,21 @@ TradingView • 1d ago
 
 ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
+
+---
+
+**[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
+
+thestreet.com • 1h ago
+
+---
+
+**[Why are Bitcoin, Ethereum and XRP poised to extend recovery?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-recovery-slows-amid-etf-inflows-us-iran-persistent-strikes-202607221100)**
+
+Bitcoin (BTC) trades elevated above $66,000 immediate support on Wednesday, following a minor correction from its weekly high of $66,956.
+
+FXStreet • 7h ago
 
 ---
 
@@ -190,15 +204,7 @@ markets.businessinsider.com • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
-
----
-
-**[Ethereum Price Forecast: ETH continues July uptrend with 20% rise after triggering buy signal](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-continues-july-uptrend-with-20-rise-after-triggering-buy-signal-202607211355)**
-
-Ethereum (ETH) has gained 3% on Tuesday, extending its July gains above 20% after key on-chain indicators highlighted a resumption of buying activity.
-
-FXStreet • 1d ago
+Fortune • 4h ago
 
 ---
 
@@ -206,21 +212,15 @@ FXStreet • 1d ago
 
 Ethereum's validator exit queue has dropped to zero while 2.48M ETH awaits entry into staking, signaling strong holder conviction and reduced
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 3h ago
 
 ---
 
-**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60568312/bitcoin-ethereum-xrp-dogecoin-price-analysis-us-iran-tensions)**
+**[How 40.8M staked ETH could strengthen Ethereum’s edge over Bitcoin](https://ambcrypto.com/how-40-8m-staked-eth-could-strengthen-ethereums-edge-over-bitcoin/)**
 
-Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
+Whales are accumulating ETH, but staking and DeFi flows tell a bigger story.
 
-Benzinga • 1d ago
-
----
-
-**[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
-
-thestreet.com • 1d ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 321 • 💬 111 • ⏱️ 10:38 • 3h ago
+👁️ 3K • 👍 321 • 💬 111 • ⏱️ 10:38 • 4h ago
 
 ---
 
@@ -294,7 +294,7 @@ In this video I break down the current Ethereum price action and the specific te
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 194 • 💬 7 • ⏱️ 8:34 • 18h ago
+👁️ 3K • 👍 194 • 💬 7 • ⏱️ 8:34 • 19h ago
 
 ---
 
@@ -314,7 +314,7 @@ Datavault AI (DVLT) CEO Nathaniel Bradley evaluates the latest moves in Bitcoin 
 
 📺 Schwab Network
 
-👁️ 2K • 👍 32 • 💬 1 • ⏱️ 5:46 • 21h ago
+👁️ 2K • 👍 32 • 💬 1 • ⏱️ 5:46 • 22h ago
 
 ---
 

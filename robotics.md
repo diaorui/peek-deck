@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-22T17:20:08.398970+00:00'
+updated: '2026-07-22T18:42:03.374018+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 22, 2026 at 17:20 UTC  
+**Last Updated:** July 22, 2026 at 18:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Recording some data, and here’s one lesson I learned the hard way: limit your gripper torque to the minimum you need during teleoperation, plastic parts break 🤭
 
-23h ago
+1d ago
 
 ---
 
@@ -138,11 +138,9 @@ TechCrunch • 1d ago
 
 ---
 
-**[ABB Robotics and NVIDIA white paper defines transformative impact of physical AI on manufacturing](https://www.automate.org/robotics/news/abb-robotics-and-nvidia-white-paper-defines-transformative-impact-of-physical-ai-on-manufacturing)**
+**[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
 
-ABB Robotics and NVIDIA white paper, highlights the transformative impact of industrial-grade physical AI on precision manufacturing to revolutionize speed and versatility.
-
-A3 Association for Advancing Automation • 1h ago
+WSJ • 8h ago
 
 ---
 
@@ -150,13 +148,15 @@ A3 Association for Advancing Automation • 1h ago
 
 Ukraine's battlefield surge of robots now features airdrops and beach assaults.
 
-Ars Technica • 6h ago
+Ars Technica • 7h ago
 
 ---
 
-**[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
+**[Exclusive / Google, Nvidia deepen Europe robotics play with startup compute deal](https://www.semafor.com/article/07/21/2026/google-nvidia-deepen-europe-robotics-play-with-microagi-compute-deal)**
 
-WSJ • 7h ago
+Google and Nvidia are partnering with German data-robotics startup Microagi to provide computing power to train and deploy humanoids in factories.
+
+Semafor • 10h ago
 
 ---
 
@@ -170,7 +170,7 @@ CNBC • 1d ago
 
 **[Banks Wrap Up Loan Backing SoftBank’s $5.4 Billion Robotics Bet](https://www.bloomberg.com/news/articles/2026-07-21/banks-wrap-up-loan-backing-softbank-s-5-4-billion-robotics-bet)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -178,7 +178,7 @@ Bloomberg.com • 20h ago
 
 Vicarious Surgical investors voted to close the struggling surgical robotics developer and sell off its assets.
 
-MassDevice • 17h ago
+MassDevice • 18h ago
 
 ---
 
@@ -192,7 +192,7 @@ China's latest robotic bricklayer is transforming the future of construction by 
 
 📺 RedTech Insights
 
-👁️ 17K • 👍 355 • 💬 25 • ⏱️ 19:31 • 1d ago
+👁️ 17K • 👍 355 • 💬 25 • ⏱️ 19:31 • 2d ago
 
 ---
 
@@ -262,7 +262,7 @@ What if a robot could look you in the eyes. smile. and hold a conversation just 
 
 📺 Dark Narr
 
-👁️ 3K • 👍 106 • 💬 8 • ⏱️ 0:44 • 6h ago
+👁️ 3K • 👍 106 • 💬 8 • ⏱️ 0:44 • 8h ago
 
 ---
 
@@ -272,7 +272,7 @@ Humanoid robots are suddenly everywhere - dancing, boxing, running marathons and
 
 📺 BBC World Service
 
-👁️ 7K • 👍 172 • 💬 32 • ⏱️ 18:15 • 18h ago
+👁️ 7K • 👍 172 • 💬 32 • ⏱️ 18:15 • 19h ago
 
 ---
 

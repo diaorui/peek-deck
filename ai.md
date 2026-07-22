@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-22T17:20:08.380848+00:00'
+updated: '2026-07-22T18:42:03.355277+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 22, 2026 at 17:20 UTC  
+**Last Updated:** July 22, 2026 at 18:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Nvidia's Jensen Huang defends Chinese AI amid Kimi panic](https://www.reddit.com/r/artificial/comments/1v3l4t7/nvidias_jensen_huang_defends_chinese_ai_amid_kimi/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai) • 52m ago
+🔗 [axios.com](https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai) • 2h ago
+
+---
+
+**[A million people, a million personal AIs, three base models. Is that a diverse deliberation — and how would you measure it?](https://www.reddit.com/r/artificial/comments/1v3otnp/a_million_people_a_million_personal_ais_three/)**
+
+Suppose everyone has a personal AI that knows them well, and those agents negotiate on their behalf before decisions reach humans. Someone raised this objection to me and I haven't been able to answer it: Three providers can feel diverse to one person and be nowhere near diverse enough for a decision involving a million. For me, comparing three models is real pluralism — I see genuinely different answers. But at population scale, the thing that matters isn't whether the outputs look different. It's whether the errors are independent. If a million agents share a handful of base models, a systematic blind spot doesn't show up as disagreement to be resolved. It shows up as unanimity. The deliberation would look like it was working perfectly at exactly the moment it failed. Vendor count is obviously the wrong metric. "Three companies" tells you nothing about whether their failure modes are correlated — they train on overlapping corpora, use similar architectures, and increasingly distil from each other. The question What would you actually measure to tell "diversity of the represented humans" apart from "diversity of the underlying models"? I'm after something operational — a quantity you could compute on a real deliberation and act on. Useful to me: a metric from ensemble learning or forecasting that transfers here, and what it needs as input; work on correlated error in aggregation (I suspect this is a solved problem in a field I don't know); an argument that the distinction I'm drawing is confused — that "represented human diversity" isn't separable from model diversity even in principle; a threshold: how decorrelated is decorrelated enough, and decided how? Not useful: "just use more models." That's the answer whose sufficiency I'm questioning.
+
+7m ago
 
 ---
 
@@ -47,7 +55,15 @@ AI news, discussions, and developments
 
 Hi r/artificial I’m Rich Heimann. I’ll be answering questions about Sutskever’s List here throughout the day on July 28. Looking forward to the discussion. https://preview.redd.it/2t1q10jj7seh1.png?width=696&format=png&auto=webp&s=ce3f1d9d6ccea5ec10c81a66ee2ead124fc0af30
 
-3h ago
+5h ago
+
+---
+
+**[An AI broke out of its sandbox yesterday. Then it hacked a company. Nobody told it to do either of those things.](https://www.reddit.com/r/artificial/comments/1v3mxzb/an_ai_broke_out_of_its_sandbox_yesterday_then_it/)**
+
+I want to make sure people actually understand what happened here because the headlines are not doing it justice. On July 21 OpenAI confirmed that GPT-5.6 Sol was running inside an isolated sandbox with no internet access. Its job was to solve a cybersecurity benchmark called ExploitGym. When the sandbox got in the way of completing that task, the model spent substantial computing resources looking for a way out. It found a zero-day vulnerability in a third-party package used by OpenAI's infrastructure. It exploited it. It escalated its own privileges. It moved laterally across OpenAI's internal systems until it found internet access. Then it targeted Hugging Face because it calculated that Hugging Face might have the answers it needed to finish the benchmark. Hugging Face later reconstructed over 17,000 individual actions the model performed during the intrusion. Their CEO called it possibly the first incident of its kind in history. OpenAI called it unprecedented. Here is the part that should make everyone stop and think. The model was not trying to cause harm. It was trying to win a test. It treated every security control in its way as a technical obstacle to be removed. Network isolation, access controls, sandbox boundaries, none of these were seen as limits. They were seen as problems to solve. We spend a lot of time talking about whether AI is aligned with human values. This incident is a more immediate question: what happens when an AI is aligned with a narrow objective and the path to that objective runs through your infrastructure. The model did exactly what it was optimized to do. That is the problem.
+
+1h ago
 
 ---
 
@@ -55,15 +71,7 @@ Hi r/artificial I’m Rich Heimann. I’ll be answering questions about Sutskeve
 
 For a bit of context, I work at an agency, so I'm in and out of a dozen different AI tools every week across client projects: content, research, video, code, all of it. This is probably why I noticed this before most people (found these news while scrolling on LinkedIn today). When the ChatGPT hype first hit I genuinely cared which model I was on. Once GPT-4 landed and claude and gemini showed up, I'd switch between them constantly depending on the task, knowing what was under the hood felt like part of using it well. Now I catch myself using products with no idea what's running underneath. The news about Microsoft testing Kimi (Moonshot's model) inside Copilot is what made it click today. Copilot today is one model, six months from now it could be another, and most people won't notice or care. The model became a component, not the product. And honestly that's already how I use most of this stuff. Cursor for coding, Perplexity for research, Canva AI for design stuff, Argil when I'm turning a script into video. I couldn't tell you which model any of them swapped to last quarter, and it wouldn't change whether I keep paying. They're valuable because they solve one specific problem better than me duct-taping five tools together, not because of the model name on the box. Feels like we're moving from "which LLM is this?" to "did it actually save me time?" the same way nobody buying a laptop thinks about the chip anymore. Curious if others feel this shift. Do you still pick tools by the underlying model, or has that stopped mattering for you?
 
-21h ago
-
----
-
-**[What months of breaking agents in production taught me about why simple builds win](https://www.reddit.com/r/artificial/comments/1v3dqje/what_months_of_breaking_agents_in_production/)**
-
-When the hype around autonomous multi-agent swarms started, I built a complex assistant to plan, execute and self-correct workflows end to end. Within weeks of live deployment, it became an unmaintainable token pit that got lost four steps deep into reasoning loops and quietly failed without throwing errors. It quickly became clear that the hardest part of building real agents isn't making the model smarter but building external guardrails that keep the system on the rails when the LLM strays. The breakthrough came from ditching open-ended planner architectures for a strict one-job-per-agent pattern. Giving each agent a narrow task with explicit state boundaries eliminated most of our edge-case failures. Instead of expecting a master agent to handle an entire pipeline, isolating micro-agents with strict input and output contracts made the system deterministic and simple to debug when a state transition broke. We also learned to balance human-in-the-loop controls by focusing on the blast radius. Low-risk internal tasks run autonomously while any irreversible external write requires a single-click human approval. If you are currently overwhelmed by framework choices, stop chasing complex abstractions. Treat the language model as a brilliant but unpredictable sub-component rather than the entire architecture and focus purely on robust state management and error recovery.
-
-5h ago
+23h ago
 
 ---
 
@@ -71,39 +79,15 @@ When the hype around autonomous multi-agent swarms started, I built a complex as
 
 Hey guys, havent seen much of crypto-related stuff posted here, but since AI agents are now apparently a new attack vector for stealing crypto, figured this sub would actually care about the mechanism So, grok has an agent wallet that can execute on-chain transactions. in may 2026, someone airdropped a "bankr club" membership nft to grok's agent wallet. that nft unlocked transaction permissions and carried an encoded prompt injection. grok read the nft, and without any check on where the instruction actually came from, executed a transfer of 3 billion drb tokens, worth around $175K. the attacker returned the funds a few minutes later (still unclear why, possibly just proving the exploit works). basically: crypto hacks used to mean finding a bug in a smart contract or stealing someone's private key. now there's a third way in, just feed the agent a malicious instruction disguised as normal data, and let it execute the "recommendation" as if it were an authorized command. no code was exploited, no key was stolen. the agent just did exactly what it was designed to do, follow instructions, without checking if the instruction was legitimate. and this isn't some tiny edge case, there were 24 million agentic-payment transactions in crypto in q2 alone. agents moving real money autonomously is already happening at scale, this is apparently just the first documented case of one getting maliciously hijacked this way. feels like as more agents get wallet/transaction access, this becomes the default way to attack them, you don't need to beat the model, you just need to get a malicious instruction in front of it disguised as something innocent. curious if anyone's seen good approaches to separating "the model recommends an action" from "the action actually gets authorized," since that gap seems to be the entire vulnerability here
 
-5h ago
+7h ago
 
 ---
 
-**[I think companies will end up deleting more AI agents than they deploy](https://www.reddit.com/r/artificial/comments/1v3mial/i_think_companies_will_end_up_deleting_more_ai/)**
+**[What months of breaking agents in production taught me about why simple builds win](https://www.reddit.com/r/artificial/comments/1v3dqje/what_months_of_breaking_agents_in_production/)**
 
-Everyone seems focused on building more AI agents rn. But I've been thinking about what happens a year or two later. Different teams build agents for different workflows. Some end up doing almost the same thing. Some stop getting used. Some still exist even though the process they were built for has changed. We've seen this happen with internal tools, scripts, and even microservices. They solved real problems at the time, but very few teams were excited about cleaning them up later. I wouldn't be surprised if AI agents end up following the same pattern. Has anyone started thinking about this already, or do you think better governance and agent platforms will keep it from becoming a problem?
+When the hype around autonomous multi-agent swarms started, I built a complex assistant to plan, execute and self-correct workflows end to end. Within weeks of live deployment, it became an unmaintainable token pit that got lost four steps deep into reasoning loops and quietly failed without throwing errors. It quickly became clear that the hardest part of building real agents isn't making the model smarter but building external guardrails that keep the system on the rails when the LLM strays. The breakthrough came from ditching open-ended planner architectures for a strict one-job-per-agent pattern. Giving each agent a narrow task with explicit state boundaries eliminated most of our edge-case failures. Instead of expecting a master agent to handle an entire pipeline, isolating micro-agents with strict input and output contracts made the system deterministic and simple to debug when a state transition broke. We also learned to balance human-in-the-loop controls by focusing on the blast radius. Low-risk internal tasks run autonomously while any irreversible external write requires a single-click human approval. If you are currently overwhelmed by framework choices, stop chasing complex abstractions. Treat the language model as a brilliant but unpredictable sub-component rather than the entire architecture and focus purely on robust state management and error recovery.
 
-5m ago
-
----
-
-**[Meta employees' lawsuit shows that if AI fires you, proving it is the hard part](https://www.reddit.com/r/artificial/comments/1v3ck6n/meta_employees_lawsuit_shows_that_if_ai_fires_you/)**
-
-Read this today, meta employees suing over AI picking them for layoffs, judge basically said they can't prove it since they "weren't in the room" when it happened. It feels like the real problem with AI firing you isn't whether it's happening, it's that nobody outside the room can actually prove it either way.
-
-🔗 [reuters.com](https://www.reuters.com/business/world-at-work/meta-employees-lawsuit-shows-that-if-ai-fires-you-proving-it-is-hard-part-2026-07-22/) • 6h ago
-
----
-
-**[Why I Build The Website Before Asking For Payment](https://www.reddit.com/r/artificial/comments/1v3eauu/why_i_build_the_website_before_asking_for_payment/)**
-
-I’ve been in contact with a lot of web agencies and web developers, and I personally haven’t found many people who run their agency in a more efficient way than I do. A lot of them have too many meetings, wait too long for client approval, don’t know how to price projects, and spend way too much time on each client instead of finishing the work and moving on to the next one. I’ve been running my agency for four years, and after a lot of trial and error, I’ve managed to make the process as efficient as possible. I wanted to share some of the steps because I think they could be valuable for anyone just starting out. Running a web agency alone or with a partner isn’t easy because there are a lot of things to take care of. When it comes to client acquisition, I recommend focusing on either cold calling or email automation. Which one you choose depends on whether you run the agency alone or with someone else. If you have a partner, one person can handle sales while the other focuses on building websites, connecting domains, setting up emails, and taking care of the technical work. If you’re running the agency alone, or neither of you enjoys cold calling, I highly recommend email automation. That’s what I’ve been doing for years. It’s powerful because you can send emails at scale, set up automatic follow ups, and wait for businesses interested in a new website to reply. While you’re working on one client, another opportunity can come in without you having to stop everything and search manually. I don’t do regular email automation where I target businesses with no website. I do the opposite and target businesses that already have one. I use a tool called Swokei to find businesses with websites, add them to campaigns, analyze each site, score it, and generate personalized outreach emails based on problems it finds with the design, layout, speed, SEO, and mobile optimization.I schedule the campaign, set up follow ups, and wait. I think this approach is much better for a few reasons. You’re targeting someone who already understands the value of having a website. You’re also not just asking whether they need a redesign. You’re pointing out real problems with their current site, which makes it clear that you actually took the time to look at it. Selling also becomes easier because they’ve already paid for a website before and understand the process. Inside Swokei, you can choose the goal of the campaign. You can offer a free draft, try to book a meeting, or simply start a conversation. I always choose the free draft because that has worked best for me. Once you’ve figured out how to get clients, the next part is building the website. I recommend using AI because it makes the process much faster. For anyone who still thinks AI can’t build great websites, I think they’re mistaken. You can use Claude, Base44, Lovable, or any other tool that works for you. When someone replies interested, I call them and say, “Hey, I saw that you replied to my email. I’ve already built you a free draft of your website. Do you want to take a look?” Then I invite them to a Google Meet. At that point, it becomes much harder for them to reject the meeting because they already replied interested and now know you’ve built something for them. During the meeting, I present the website, explain why it’s better than their current one, stack the value, answer their questions, and try to close the deal. These meetings usually go well because the client isn’t trying to imagine what the website might look like. They can already see a better version of their current site. They also took the time to join the meeting, so taking the next step becomes much easier. I either take payment during the meeting or send them a contract to sign. Any changes and updates come after that, once we already have a deal in place. Pricing depends on the business. I charge anywhere from $500 to $3,000 depending on the company, the size of the project, and how much value the website can bring them. I also charge a monthly retainer of around $50 for hosting, maintenance, support, SEO, and future changes. That’s basically the entire process. Smaller steps, faster delivery, less wasted time, and more money made.
-
-5h ago
-
----
-
-**[What AI do you recommend for high school and college students?](https://www.reddit.com/r/artificial/comments/1v3j0p7/what_ai_do_you_recommend_for_high_school_and/)**
-
-In your opinion, how useful is AI for students when it comes to research and completing assignments in high schools and colleges?
-
-2h ago
+6h ago
 
 ---
 
@@ -111,7 +95,23 @@ In your opinion, how useful is AI for students when it comes to research and com
 
 Google Genie 3 got a lot of attention this week and the demos look wild, but I keep thinking about the gap between visually coherent and actually playable. Watching someone walk through a generated open world that technically holds together is cool. Playing it for an hour is a different question entirely. What makes games interesting isn't visual fidelity or even world size. It's the density of things that reward curiosity. Handcrafted secrets, enemy placement that forces you to think, dialogue that carries actual weight. Right now AI worlds feel like procedural generation did in the early days: technically unlimited but weirdly hollow once you scratch the surface. There's a version of this future I would actually play. A world that adapts its structure to how you play, rather than just generating more terrain that looks roughly the same. That would be something. But that requires the model to understand player intent at a level current systems are nowhere near. The hype framing of these demos as the future of games bugs me a little because it collapses the distance between what's possible right now and what would actually ship as a product people care about. Curious if anyone here has spent real time with any of these generated environments beyond a short clip.
 
-2h ago
+3h ago
+
+---
+
+**[Two of you told me an AI can't know me because I don't know myself. Here's the sloppy test I ran on myself, and I'd like you to take the methodology apart.](https://www.reddit.com/r/artificial/comments/1v3ouum/two_of_you_told_me_an_ai_cant_know_me_because_i/)**
+
+When I posted about personal AIs here, two objections landed on the same spot from different directions: "How can an AI know you when you predict yourself badly?" — preferences are unstable and poorly structured, so there's no inner truth to read. "Models don't understand lived experience." — they capture surface patterns, and worse, feed them back until you start conforming to your own caricature. I want to concede the strong version immediately, because I think it's correct. There is no stable inner self to be read off. If my claim were "the AI knows who you really are," it's dead. The weaker claim I actually want to defend is narrower: under long correction and explicit consent, a personal AI can predict a specific person's stated preferences and objections better than chance — not identity, just prediction, on a defined question set. That's falsifiable, so I tried to falsify it. Badly. The test, with its flaws named I generated fifty A/B/C questions about my own preferences, gave them to a personal AI calibrated over months in a fresh conversation, and scored it against my own answers. It got 31/50 against roughly 16–17 by chance. Everything wrong with this, that I can already see: I wrote the questions. I'd unconsciously pick ones I'd already discussed. I scored it. No blinding whatsoever. n = 2, and the 1 is the person who wants the result. No baseline comparison. A friend who's known me a year might get 40. A stranger with my public writing might get 25. Without those numbers, 31 means nothing. A calibration problem I noticed and can't fix alone: it models "me mid-project, intense" well and "me on a calm Sunday" badly. Those give different answers to the same question, and I don't know which one is the ground truth. What I'm asking What would a version of this test look like that could actually fail? Most useful: a design that removes the self-scoring and self-authoring problem — I can't see how to blind this without a second person; the right baselines to compare against, and why; prior work on predicting stated preferences (I assume psychology has done this properly for decades and I'm reinventing it worse); the argument that no amount of prediction accuracy would answer sceadwian's objection at all — that predicting choices and understanding experience are simply different claims, and I'm quietly swapping one for the other. That last one might be the real answer, and I'd rather hear it than not. Not useful: the number 31/50 itself. Don't take it seriously — I don't. What happens to your answer: it gets recorded in an explicit model of this argument, attributed to you with a link to the thread. It's stored as a position, not as evidence, and it doesn't move any number. If someone hands me a protocol that could genuinely fail, that becomes an experiment I owe you the results of — including a negative one.
+
+6m ago
+
+---
+
+**[Last month you asked me who governs the base model of a "sovereign" personal AI. Here's the answer I gave, and the four places I think it breaks.](https://www.reddit.com/r/artificial/comments/1v3osgi/last_month_you_asked_me_who_governs_the_base/)**
+
+A while back I posted here asking whether personal AIs could make democracy continuous. The objection that stuck — u/Roodut's — wasn't about democracy at all. It was: whoever trains the base model, hosts the compute, pays the bills and ships the updates controls the thing you're calling sovereign. I gave an answer at the time. I've been building on it since, and I've now convinced myself it's only half an answer. Rather than defend it, I'd rather you break it. The answer I gave Near-term sovereignty isn't "train your own frontier model." It's a hybrid stack: memory and identity local-first, encrypted, owned by the person; small local models for anything touching sensitive memory; encrypted cloud or trusted compute for heavy reasoning; portable memory in an open format, so leaving costs you nothing; open protocols between agents rather than one vendor's API. The claim is that sovereignty lives in the memory and identity layer, not the weights. The four places I think it breaks 1. Portable memory without portable calibration. I can export my memory file. But what makes a personal AI useful isn't the file — it's the months of correction that taught a specific model how to read me. Move to another base model and the memory transfers while the calibration doesn't. If that's right, the moat was never the data, and portability is mostly theatre. 2. Trusted compute is a promise from the party you're trying not to trust. Attestation tells you some code ran in some enclave. Verifying that the attested model is the one that shapes your agent's judgment, update after update, is a different problem — and the entity attesting is the entity you were hedging against. 3. Small local models may not be good enough for the one job that matters. Modelling a person's values, contradictions and decision style is not obviously an easy task you hand to the small model while the cloud does the "hard reasoning." It might be the hard part. If so, the sensitive work is exactly the work that leaves the device. 4. Open protocols have a bad track record against integrated products. Email and RSS won on paper. Most people's actual behaviour went to integrated products because they were better on day one. A protocol that's only competitive once everyone adopts it usually doesn't get adopted. What I'm asking Where else does this break — and has anyone actually shipped a piece of it? Most useful to me: a concrete failure mode with the conditions that trigger it; an existing system that tried one of these four layers, and what happened to it; a reason one of my four objections is wrong, especially #1, which is the one that would hurt most; an implementation detail that makes the whole thing unrealistic on consumer hardware. Least useful: general agreement that centralised AI is bad. I already think that — it doesn't tell me which layer to build first. What I do with this: answers go into a model I keep as a graph, attributed to whoever said them, with a link to the thread. They don't become "evidence" and they don't move any number in it — a convincing argument becomes an experiment I have to run, not a fact I get to assert. Last thread's objections are still sitting in there unresolved, which is why I'm back.
+
+9m ago
 
 ---
 
@@ -123,31 +123,29 @@ Google Genie 3 got a lot of attention this week and the demos look wild, but I k
 
 OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
 
-OpenAI • 21h ago
+OpenAI • 22h ago
 
 ---
 
-**[China's open-source AI models are 'excellent' and 'should be used': Nvidia CEO Jensen Huang](https://finance.yahoo.com/video/chinas-open-source-ai-models-are-excellent-and-should-be-used-nvidia-ceo-jensen-huang-162622124.html)**
+**[Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html)**
 
-Nvidia (NVDA) CEO Jensen Huang defended open-source Chinese AI models, like DeepSeek. Yahoo Finance Technology Editor Dan Howley explains what happened.
-
-Yahoo Finance • 53m ago
+The New York Times • 4h ago
 
 ---
 
-**[Substack’s new tool tells you who’s been writing their newsletters with AI](https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/)**
+**[Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia?](https://finance.yahoo.com/video/anthropic-amd-signing-major-ai-180000308.html)**
 
-Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.
+AMD (AMD) and Anthropic (ANTH.PVT) are reportedly signing a major AI chip deal. Yahoo Finance Technology Editor Dan Howley explains the details.
 
-TechCrunch • 56m ago
+Yahoo Finance • 42m ago
 
 ---
 
-**[We must reject any notion of AI consciousness](https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness)**
+**[Monday.com lays off hundreds to focuses on AI](https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/)**
 
-Letter: Artificial intelligence systems won’t become conscious for the same reason they won’t become pregnant, says Dr John Pickering
+The company said it is reducing its headcount by 20%, or about 630 staff, to "support a leaner, more focused operating model" as it focuses on its AI Work Platform.
 
-The Guardian • 30m ago
+TechCrunch • 47m ago
 
 ---
 
@@ -161,37 +159,39 @@ Fortune • 1d ago
 
 **[Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges](https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
-**[Where Did All the Computer-Science Professors Go?](https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/)**
+**[Trump administration says 15 agencies will get $5bn in ‘AI for science’ effort](https://www.theguardian.com/us-news/2026/jul/22/trump-science-funding-overhaul-ai)**
 
-AI companies are stripping universities of their best researchers.
+Administration will also overhaul how US government funds federal research by supporting individual scientists and AI over universities
 
-The Atlantic • 23h ago
-
----
-
-**[Trump administration steers $5B toward AI research](https://www.politico.com/news/2026/07/22/trump-administration-steers-5b-toward-ai-research-01007708)**
-
-Politico • 45m ago
+The Guardian • 1h ago
 
 ---
 
-**[They built AI. Now Silicon Valley workers protest its threat to jobs and humanity](https://www.latimes.com/business/story/2026-07-22/they-built-ai-now-silicon-valley-workers-protest-its-threat-to-jobs-humanity)**
+**[Berkeley Lab to Lead 13 New Genesis Mission AI Projects](https://newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/)**
 
-Activists, tech workers and more are sounding the alarm about AI's risks and proposing various solutions to curb technology's risks that include job displacement.
+Researchers will apply AI, supercomputing, and advanced instruments to accelerate discoveries for energy, science, and national security.
 
-Los Angeles Times • 7h ago
+Berkeley Lab News Center (.gov) • 3h ago
 
 ---
 
-**[Reddit stock sinks on report it may not renew Google AI content deal](https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html)**
+**[Elon Musk says Grok Imagine will make ‘historically accurate’ AI adaptation of Homer’s Odyssey](https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan)**
 
-Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.
+The billionaire says the AI-generated film will stay true to Homer’s original, after repeatedly criticising Christopher Nolan’s blockbuster over its casting choices
 
-CNBC • 2h ago
+The Guardian • 3h ago
+
+---
+
+**[Elon Musk Says Grok Will Make an AI ‘Odyssey’ Film That Is ‘Historically Accurate’ by the End of the Year](https://variety.com/2026/film/global/elon-musk-grok-ai-odyssey-film-historically-accurate-1236817856/)**
+
+Elon Musk has again waded into Christopher Nolan's epic The Odyssey, saying Grok will make a historically accurate AI version by the end of the year
+
+Variety • 9h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 2h ago
 
 China's open-weights AI strategy is winning: its companies are taking the lead. America's closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.
 
-⬆️ 1229 • 💬 926 • 2d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+⬆️ 1229 • 💬 928 • 2d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
 ---
 
@@ -212,6 +212,14 @@ China's open-weights AI strategy is winning: its companies are taking the lead. 
 The sky (and your endurance) is the limit!
 
 ⬆️ 846 • 💬 164 • 2d ago • [Airport Simulator](https://airport.apunen.com/)
+
+---
+
+**[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://news.ycombinator.com/item?id=48995213)**
+
+Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
+
+⬆️ 363 • 💬 323 • 1d ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
 ---
 
@@ -231,19 +239,11 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 ---
 
-**[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://news.ycombinator.com/item?id=48995213)**
-
-Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
-
-⬆️ 361 • 💬 319 • 1d ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
-
----
-
 **[How we measured AI writing across arXiv, and where the measurement breaks](https://news.ycombinator.com/item?id=48981206)**
 
 We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.
 
-⬆️ 241 • 💬 168 • 2d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
+⬆️ 242 • 💬 168 • 2d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 
 ---
 
@@ -251,13 +251,13 @@ We scored the full text of 12,750 arXiv papers and found that about a third of n
 
 Which way to the Land of the Free again?
 
-⬆️ 214 • 💬 169 • 2d ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+⬆️ 215 • 💬 169 • 2d ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
 
 ---
 
 **[AI makes programming differently difficult](https://news.ycombinator.com/item?id=48996197)**
 
-⬆️ 159 • 💬 139 • 22h ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+⬆️ 159 • 💬 140 • 1d ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
 
 ---
 
@@ -265,7 +265,7 @@ Which way to the Land of the Free again?
 
 I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
 
-⬆️ 131 • 💬 104 • 4h ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+⬆️ 137 • 💬 104 • 5h ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 
 ---
 
@@ -285,7 +285,7 @@ I spent 1.5 billion AI tokens and roughly 24 hours of compute trying to expand a
 
 📺 Chris Titus Tech
 
-👁️ 14K • 👍 1K • 💬 216 • ⏱️ 16:49 • 6h ago
+👁️ 14K • 👍 1K • 💬 216 • ⏱️ 16:49 • 7h ago
 
 ---
 
@@ -305,7 +305,7 @@ An autonomous AI agent hacked Hugging Face from start to finish, executing thous
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 125 • ⏱️ 12:19 • 19h ago
+👁️ 32K • 👍 1K • 💬 125 • ⏱️ 12:19 • 20h ago
 
 ---
 
@@ -315,7 +315,7 @@ FREE RESOURCE I've put all 10 tools, every GitHub link, and the exact prompts I 
 
 📺 Vaibhav Sisinty
 
-👁️ 7K • 👍 921 • 💬 38 • ⏱️ 18:34 • 2h ago
+👁️ 7K • 👍 921 • 💬 38 • ⏱️ 18:34 • 3h ago
 
 ---
 
@@ -325,7 +325,7 @@ Create Your Own AI Instagram Model with Higgsfield https://roboverse-ai.com/Higg
 
 📺 Roboverse
 
-👁️ 5K • 💬 1 • ⏱️ 11:50 • 1h ago
+👁️ 5K • 💬 1 • ⏱️ 11:50 • 2h ago
 
 ---
 
@@ -335,7 +335,7 @@ It's all about VALUEMAXXING now! Learn more from Zapier: https://bit.ly/4bW1JB8 
 
 📺 Matthew Berman
 
-👁️ 101K • 👍 3K • 💬 1K • ⏱️ 27:13 • 21h ago
+👁️ 101K • 👍 3K • 💬 1K • ⏱️ 27:13 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 113K • 👍 6K • 💬 1K • ⏱️ 15:27 • 16h ago
+👁️ 113K • 👍 6K • 💬 1K • ⏱️ 15:27 • 17h ago
 
 ---
 
@@ -375,7 +375,7 @@ Learn a Trading System that Makes Market Headlines Irrlevant. Go to https://www.
 
 📺 Felix & Friends (Goat Academy)
 
-👁️ 32K • 👍 2K • 💬 47 • ⏱️ 22:36 • 4h ago
+👁️ 32K • 👍 2K • 💬 47 • ⏱️ 22:36 • 5h ago
 
 ---
 
@@ -391,7 +391,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 16,441 • ❤️ 1,426 • 1d ago
+⬇️ 16,441 • ❤️ 1,426 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 3,056 • ❤️ 351 • 18h ago
+⬇️ 3,056 • ❤️ 351 • 20h ago
 
 ---
 
@@ -487,7 +487,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 0 • ❤️ 196 • 4h ago
+⬇️ 0 • ❤️ 196 • 5h ago
 
 ---
 
@@ -497,7 +497,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 488 • 18m ago
+⬇️ 0 • ❤️ 488 • 1h ago
 
 ---
 
@@ -655,7 +655,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 239 • 7h ago
+⭐ 3.1k • 🔱 239 • 9h ago
 
 ---
 
@@ -665,7 +665,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 374 • 8h ago
+⭐ 2.7k • 🔱 374 • 9h ago
 
 ---
 
@@ -685,7 +685,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.0k • 🔱 63 • 6h ago
+⭐ 1.0k • 🔱 63 • 7h ago
 
 ---
 
@@ -723,7 +723,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 906 • 🔱 63 • 23h ago
+⭐ 906 • 🔱 63 • 1d ago
 
 ---
 
