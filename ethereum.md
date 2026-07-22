@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-22T00:59:16.718626+00:00'
+updated: '2026-07-22T04:24:14.825828+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 00:59 UTC  
+**Last Updated:** July 22, 2026 at 04:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +4.0%  
-**30d:** +16.3%  
-**90d:** -16.2%  
-**1y:** -46.5%  
+**24h:** +0.3%  
+**7d:** +3.8%  
+**30d:** +16.1%  
+**90d:** -16.4%  
+**1y:** -46.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.60B
+**Market Cap:** $233.36B
 Rank #2
 
-**Circulating Supply:** 120,682,803 ETH
+**Circulating Supply:** 120,682,776 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-60.9%
 
 **All-Time Low:** $0.43
-+443203.3%
++446706.9%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-19h ago
+23h ago
 
 ---
 
 **[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 1h ago
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 5h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Warning!!! EU Crypto Users: Stop Sending Crypto Directly Between Exchanges Right Now, or risk your crypto being Frozen.](https://www.reddit.com/r/ethereum/comments/1v28fsw/warning_eu_crypto_users_stop_sending_crypto/)**
 
-20h ago
+23h ago
 
 ---
 
@@ -146,27 +146,11 @@ Two months ago I posted here after analyzing 78,723 Ethereum token contracts and
 
 ## Google News: "ethereum"
 
-**[Is AI Money Rotating Into Ethereum? Tom Lee Cites 72% Outperformance](https://finance.yahoo.com/markets/crypto/articles/ai-money-rotating-ethereum-tom-220000669.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-lift-020233103.html)**
 
-Tom Lee cites ETH's 72% relative outperformance vs the DRAM ETF as AI money rotating into Ethereum. Rotation or reset?
+Major cryptocurrencies rose on Tuesday as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.41%$66,355.88Ethereum (CRYPTO: ETH) +1.11%$1,930.87XRP (CRYPTO: XRP) +2.48%$1.14Solana (CRYPTO: SOL) +0.43%$78.26Dogecoin (CRYPTO: DOGE) +1.60%$0.07342 Some Clarity Finally? Bitcoin rallied to a 5-week high above $66,900, and is now up 13% month-to-
 
 Yahoo Finance • 2h ago
-
----
-
-**[Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2](https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2)**
-
-Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
-
-The Block • 11h ago
-
----
-
-**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
-
-Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
-
-TradingView • 12h ago
 
 ---
 
@@ -178,11 +162,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 21, 2026](https://fortune.com/article/price-of-ethereum-07-21-2026/)**
+**[Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2](https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
 
-Fortune • 13h ago
+The Block • 15h ago
+
+---
+
+**[Ethereum’s Next Move: How High Can ETH Price Go?](https://www.tradingview.com/news/coinpedia:914e8767f094b:0-ethereum-s-next-move-how-high-can-eth-price-go/)**
+
+Ethereum is trading just below $1,900, and analyst Benjamin Cowen believes the next major test for ETH may not come immediately. While July has historically been a strong month for crypto during midterm years, Cowen expects the August-to-October period to be far more important in deciding whether E…
+
+TradingView • 18h ago
 
 ---
 
@@ -190,13 +182,27 @@ Fortune • 13h ago
 
 ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 7h ago
+
+---
+
+**[Current price of Ethereum for July 21, 2026](https://fortune.com/article/price-of-ethereum-07-21-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 16h ago
+
+---
+
+**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
+
+CCN.com • 1d ago
 
 ---
 
 **[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
 
-thestreet.com • 9h ago
+thestreet.com • 12h ago
 
 ---
 
@@ -204,21 +210,15 @@ thestreet.com • 9h ago
 
 Whales are accumulating ETH, but staking and DeFi flows tell a bigger story.
 
-AMBCrypto • 8h ago
+AMBCrypto • 12h ago
 
 ---
 
-**[Bitcoin, Dogecoin Flat; Ethereum, XRP Gain as US-Iran Hostilities Continue: Analyst Says Short-term Gains](https://www.benzinga.com/crypto/cryptocurrency/26/07/60568312/bitcoin-ethereum-xrp-dogecoin-price-analysis-us-iran-tensions)**
+**[Bitcoin and ethereum prices today, Monday, July 20, 2026: Crypto prices mixed as second half 2026 outlooks conflict](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html)**
 
-Leading cryptocurrencies traded mixed on Monday, July 20, as escalating geopolitical tensions curbed investors’ risk appetite.
+Bitcoin (BTC-USD) opened at $64,680.23 on Monday, July 20, 2026, 0.2% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,871.21 on Monday, July 20, 2026, up 0.5% from Sunday's opening price.
 
-Benzinga • 23h ago
-
----
-
-**[Ethereum Price to $40,000? 4 AI Models Assess Standard Chartered’s Call as Tom Lee Remains Bullish](https://www.ccn.com/news/crypto/ethereum-price-standard-chartereds-tom-lee-ai-prediction/)**
-
-CCN.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 192 • 💬 71 • ⏱️ 19:54 • 7h ago
+👁️ 8K • 👍 274 • 💬 35 • ⏱️ 19:54 • 11h ago
 
 ---
 
@@ -242,7 +242,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 137 • 💬 49 • ⏱️ 17:49 • 12h ago
+👁️ 3K • 👍 158 • 💬 51 • ⏱️ 17:49 • 16h ago
 
 ---
 
@@ -252,17 +252,7 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 915 • 💬 18 • ⏱️ 33:40 • 10h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
-
-Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
-
-📺 Benjamin Cowen
-
-👁️ 86K • 👍 5K • 💬 221 • ⏱️ 17:58 • 1d ago
+👁️ 16K • 👍 984 • 💬 21 • ⏱️ 33:40 • 14h ago
 
 ---
 
@@ -272,7 +262,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 595 • 💬 56 • ⏱️ 11:56 • 1d ago
+👁️ 12K • 👍 601 • 💬 57 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -282,7 +272,27 @@ Aaron Dishner walks through Ethereum's recent price action, noting last week's r
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 318 • 💬 29 • ⏱️ 16:28 • 18h ago
+👁️ 4K • 👍 330 • 💬 30 • ⏱️ 16:28 • 21h ago
+
+---
+
+**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=y3zJZTvQ4EU)**
+
+In this video I break down the current Ethereum price action and the specific technical levels you need to watch as we navigate ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 83 • 💬 1 • ⏱️ 8:34 • 5h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
+
+Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
+
+📺 Benjamin Cowen
+
+👁️ 88K • 👍 5K • 💬 226 • ⏱️ 17:58 • 2d ago
 
 ---
 
@@ -292,17 +302,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 156 • 💬 11 • ⏱️ 16:17 • 2d ago
-
----
-
-**[Why Ethereum’s Institutional Supercycle Is Already Here | Joseph Chalom, Sharplink](https://www.youtube.com/watch?v=FcaUCHhKdDs)**
-
-On today's Talking Tokens, Jacquelyn sits down with Joseph Chalom, CEO of Sharplink to talk about why he and a group of ...
-
-📺 Talking Tokens Podcast
-
-👁️ 575 • 👍 48 • 💬 21 • ⏱️ 30:37 • 11h ago
+👁️ 4K • 👍 159 • 💬 11 • ⏱️ 16:17 • 2d ago
 
 ---
 
@@ -312,17 +312,17 @@ The Ethereum Bitcoin ratio just printed a weekly MACD bull cross. The last time 
 
 📺 Lark Davis
 
-👁️ 2K • 👍 62 • 💬 4 • ⏱️ 0:40 • 8h ago
+👁️ 3K • 👍 78 • 💬 5 • ⏱️ 0:40 • 12h ago
 
 ---
 
-**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
+**[Regulation &amp; Safety Trends to Monitor in Bitcoin, Ethereum](https://www.youtube.com/watch?v=ektYv-CR0EQ)**
 
-INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
+Datavault AI (DVLT) CEO Nathaniel Bradley evaluates the latest moves in Bitcoin and Ethereum. He discusses the latest on the ...
 
-📺 CryptoWendyO
+📺 Schwab Network
 
-👁️ 3K • 👍 190 • 💬 25 • ⏱️ 11:23 • 2d ago
+👁️ 878 • 👍 26 • ⏱️ 5:46 • 8h ago
 
 ---
 
