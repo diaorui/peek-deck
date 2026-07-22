@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-22T07:10:48.403503+00:00'
+updated: '2026-07-22T09:59:19.012980+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 07:10 UTC  
+**Last Updated:** July 22, 2026 at 09:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,902.28
+### $65,752.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** -0.4%  
 **7d:** +3.3%  
 **30d:** +5.1%  
-**90d:** -14.9%  
+**90d:** -14.8%  
 **1y:** -44.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1321.23B
+**Market Cap:** $1321.11B
 Rank #1
 
-**Circulating Supply:** 20,059,684 BTC
+**Circulating Supply:** 20,059,725 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--47.8%
+-47.7%
 
 **All-Time Low:** $67.81
-+97025.8%
++97052.3%
 
 ---
 
@@ -95,7 +95,7 @@ As you know guys, most discussions focus on price, but one of Bitcoin's most imp
 
 If yes, how was your experience? If not, what's the biggest reason holding you back?
 
-1d ago
+2d ago
 
 ---
 
@@ -135,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 in a world without freedom, democracy and civilization bitcoin cannot be used for anything IRL or swap it for fiat because they would be traced and once they know they can fuck with you in a thousand way, legal or not. what scares me is this, not the price dropping but the big corpo and govs VS the individuals. on the positive side, if adoptions keeps rising (and it will as long as crime, war and shit like this keep happening); nothing can go after everyone! could some big entity make some actions to slow adoption until it stops entirely? or would it drive adoption even more, regardless of the risks derived by being a victim of these actions? i know real things affect the price but it’s always unrelated to btc. what if the news and btc are the same, how does it unfold? like what happened with the exchange drama or normal people losing money or the kidnappings of rich men in france?
 
-1d ago
+2d ago
 
 ---
 
@@ -161,7 +161,7 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 **[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -169,35 +169,41 @@ Bloomberg.com • 16h ago
 
 The White House agreed on the CLARITY Act ethics package. Here is why the deal is bullish for Bitcoin price.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Clarity Act Nears Finish Line; Trump Oversees Ethics Provisions](https://www.investors.com/news/clarity-act-cryptocurrency-market-structure-trump-ethics-senate/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 12h ago
 
 ---
 
-**[Current price of Bitcoin for July 21, 2026](https://fortune.com/article/price-of-bitcoin-07-21-2026/)**
+**[Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin](https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.
 
-Fortune • 19h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Anthony Scaramucci Explains Why He's Long Bitcoin and Gold: 'Imagine an American President...Sitting in Front of a $55 Trillion Deficit'](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-explains-why-hes-044109580.html)**
+**[Bitcoin Dominance Expected to 'Keep Increasing,' Says Strategy CEO Phong Le Amid Stablecoin, Big Bank Adoption](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dominance-expected-keep-increasing-073135321.html)**
 
-SkyBridge Capital founder Anthony Scaramucci positioned Bitcoin (CRYPTO: BTC) and gold as “part of the answer” to a changing monetary system under strain from fiscal pressures and declining purchasing power. Deficit Spending to Trigger High Inflation? Scaramucci voiced his concerns on X about the potential impact of deficit spending and inflation on the economy. The former White House Communications Director warned that national debt could rise from the current $39 trillion to $55 trillion withi
+Strategy Inc. (NASDAQ:MSTR) CEO Phong Le said on Tuesday that Bitcoin’s (CRYPTO: BTC) dominance in the cryptocurrency space has steadily increased owing to institutional adoption and support from the U.S. administration. Le Confident Bitcoin’s Dominance Will Increase Further Le attached a chart from CoinGecko—a leading cryptocurrency data aggregator—showing Bitcoin’s increasing market share over the last four years. Bitcoin’s dominance has expanded significantly, moving from 40.83% in 2022 to 56
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Holds Near $66,300 as Chips Extend Their Rally and the Yen Hits a 40-year Low](https://www.moomoo.com/news/post/73332983/bitcoin-holds-near-66300-as-chips-extend-their-rally-and)**
+**[Live Updates: Bitcoin Under $66,000 as Traders Await Alphabet Earnings to Gauge AI Trade](https://www.moomoo.com/news/post/73343158/live-updates-bitcoin-under-66000-as-traders-await-alphabet-earnings)**
 
 Moomoo • 1h ago
+
+---
+
+**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
+
+Bloomberg.com • 58m ago
 
 ---
 
@@ -205,31 +211,23 @@ Moomoo • 1h ago
 
 Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
 
-galaxy.com • 18h ago
+galaxy.com • 21h ago
 
 ---
 
-**[Bitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App](https://bitcoinmagazine.com/news/jack-dorsey-debuts-chat-app-slack-rival)**
+**[VanEck Mid-July 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-july-2026-bitcoin-chaincheck/)**
 
-Jack Dorsey's company Block has debuted a decentralized rival to group chat platform Slack.
+Bitcoin traded flat in July but onchain data signals long-term holder conviction. VanEck breaks down what derivatives, miners, and BTC supply trends mean for investors.
 
-Bitcoin Magazine • 9h ago
-
----
-
-**[Clayton County Supervisors hold information session on Bitcoin data center](https://www.kcrg.com/2026/07/21/clayton-county-supervisors-hold-information-session-bitcoin-data-center/)**
-
-They want to set up a new center in Clayton County but can’t right now because of a noise ordinance.
-
-KCRG • 8h ago
+VanEck • 1d ago
 
 ---
 
-**[Satsuma shareholders approve bitcoin treasury liquidation and London delisting](https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting)**
+**[5 Best Crypto Casinos 2026 – Top Bitcoin Casinos For Instant Payouts And Big Bonuses](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-top-bitcoin-casinos-for-instant-payouts-and-big-bonuses/20260721084546/)**
 
-The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy.
+5 Best Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Payout Speed ✔️mBit Casino 4 BTC + 325 Free Spins Instant ✔️Jack.com 100 Free Spins (No Wagering) 5–10 Minutes ✔️Bovada (USA) 125% up to $3,750 10–20 Minutes ✔️Bets.io 225% up to 1 BTC + 225 Free Spins 1–2 Hours ✔️BitStarz 300% up to 5...
 
-The Block • 11h ago
+Muddy River Sports • 20h ago
 
 ---
 
@@ -249,7 +247,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 2 • 💬 0 • 13h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 16h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+
+---
+
+**[Sharecoin, a Bitcoin Core fork that turns GPU mining into public randomness](https://news.ycombinator.com/item?id=49003293)**
+
+A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/sharecoin
+
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/TVHeroes/sharecoin)
 
 ---
 
@@ -257,7 +263,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Nearly a decade later, crypto is still barely functional for the thing it was s...
 
-⬆️ 2 • 💬 0 • 11h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
+⬆️ 2 • 💬 0 • 14h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
 
 ---
 
@@ -265,7 +271,7 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
 
-⬆️ 2 • 💬 0 • 17h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+⬆️ 2 • 💬 0 • 19h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
 
 ---
 
@@ -279,17 +285,17 @@ Trump just agreed to the ethics provision holding up the CLARITY Act — and Bit
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 804 • 💬 78 • ⏱️ 29:19 • 13h ago
+👁️ 13K • 👍 830 • 💬 78 • ⏱️ 29:19 • 16h ago
 
 ---
 
-**[CLARITY GRIDLOCK: Senate SCRAMBLES to pass crypto bill as TIME RUNS OUT](https://www.youtube.com/watch?v=FnmHsN_fXw8)**
+**[Bitcoin Investors...HUGE UPDATE on Clarity Act](https://www.youtube.com/watch?v=lmLt_D2s2hk)**
 
-Sen. Kevin Cramer, R-N.D., joins 'Mornings with Maria' to discuss the Senate's push to pass the CLARITY Act before the August ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Fox Business
+📺 CryptosRUs
 
-👁️ 74K • 👍 1K • 💬 282 • ⏱️ 9:29 • 16h ago
+👁️ 23K • 👍 1K • 💬 114 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -299,67 +305,7 @@ A major debate is unfolding inside the Bitcoin community, and the outcome could 
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 430 • ⏱️ 19:47 • 9h ago
-
----
-
-**[Bitcoin is Eerily Quiet.. Are We in the Calm Before the Storm?](https://www.youtube.com/watch?v=Nujcilo9Nus)**
-
-Bitcoin has traded inside the same range for 47 straight days as volatility falls to cycle lows—but beneath the surface, macro risk, ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 78 • ⏱️ 15:56 • 1d ago
-
----
-
-**[Bitcoin Is Breaking Out Right Now](https://www.youtube.com/watch?v=UwBGU5daqgA)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 16K • 👍 879 • 💬 35 • ⏱️ 58:33 • 16h ago
-
----
-
-**[Bitcoin&#39;s Bullish Setup Signals Explosion: Altcoins Have Broken Out](https://www.youtube.com/watch?v=1RqEqF3HH_s)**
-
-No B.S. Just Charts. Bitcoin's chart is flashing a bullish near-term setup, and the altcoin breakouts are lining up right behind it.
-
-📺 Gareth Soloway
-
-👁️ 59K • 👍 4K • 💬 143 • ⏱️ 13:27 • 1d ago
-
----
-
-**[HUGE! CLARITY ACT GETS ETHICS WIN! BITCOIN &amp; ALTCOINS ARE ON THE MOVE! (CRYPTO NEWS)](https://www.youtube.com/watch?v=OZbtw62Kj3U)**
-
-Crypto News: Bitcoin crosses $65000 and altcoins are following with the charts looking bullish. The White House has agreed on ...
-
-📺 Thinking Crypto
-
-👁️ 20K • 👍 1K • 💬 110 • ⏱️ 16:12 • 1d ago
-
----
-
-**[🚨 BITCOIN: STOP EVERYTHING AND WATCH!!! (my most important video ever)](https://www.youtube.com/watch?v=zRRa5WhD1BQ)**
-
-Bitcoin sentiment remains bearish, but the herd might be wrong! This could be one of the most important #BTC videos ever!
-
-📺 Crypto Zombie
-
-👁️ 16K • 👍 2K • 💬 223 • ⏱️ 25:20 • 1d ago
-
----
-
-**[Trump Just Said It... [Bitcoin Holders Pay Attention]](https://www.youtube.com/watch?v=0SeWQaQypyo)**
-
-Trump backs Clarity Act, BTC, ETH, Uniswap charts! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 748 • 💬 62 • ⏱️ 13:44 • 18h ago
+👁️ 17K • 👍 1K • 💬 467 • ⏱️ 19:47 • 11h ago
 
 ---
 
@@ -369,7 +315,65 @@ I'm not against Bitcoin, I own 15. I'm against HOW people buy it. Most people ta
 
 📺 Pace Morby
 
-👁️ 14K • 👍 218 • 💬 27 • ⏱️ 0:49 • 1d ago
+👁️ 14K • 👍 220 • 💬 27 • ⏱️ 0:49 • 1d ago
+
+---
+
+**[BITCOIN: THE ULTRA $200K BULL CASE - 1 YEAR?!?](https://www.youtube.com/watch?v=oaI4s0_VKZs)**
+
+Disclaimer: none of this is financial advice. This is financial entertainment. Follow me on X for my best content: http://www.
+
+📺 Adam Livingston
+
+👁️ 5K • 👍 602 • 💬 65 • ⏱️ 21:10 • 11h ago
+
+---
+
+**[Bitcoin Faces a Massive $68K Wall](https://www.youtube.com/watch?v=IeH_ZKY_WJM)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 9K • 👍 573 • 💬 71 • ⏱️ 9:38 • 8h ago
+
+---
+
+**[Bitcoin PUMPING Hard! (Which Altcoins Will Follow?)](https://www.youtube.com/watch?v=JdDehdWMfrg)**
+
+Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+
+📺 Verified Investing
+
+👁️ 5K • 👍 355 • 💬 31 • ⏱️ 17:11 • 16h ago
+
+---
+
+**[Bitcoin is Eerily Quiet.. Are We in the Calm Before the Storm?](https://www.youtube.com/watch?v=Nujcilo9Nus)**
+
+Bitcoin has traded inside the same range for 47 straight days as volatility falls to cycle lows—but beneath the surface, macro risk, ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 81 • ⏱️ 15:56 • 1d ago
+
+---
+
+**[Bitcoin Is Breaking Out Right Now](https://www.youtube.com/watch?v=UwBGU5daqgA)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 883 • 💬 34 • ⏱️ 58:33 • 18h ago
+
+---
+
+**[#astrology #news #bitcoin #newyear #result #today #btc #automobile #crypto #knowledge](https://www.youtube.com/watch?v=6OEvrS5Yqc4)**
+
+📺 လှ ဌေး
+
+👁️ 36K • 👍 721 • 💬 2 • ⏱️ 0:11 • 10h ago
 
 ---
 
