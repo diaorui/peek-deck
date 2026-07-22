@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-22T20:11:39.557160+00:00'
+updated: '2026-07-22T21:37:54.829896+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 20:11 UTC  
+**Last Updated:** July 22, 2026 at 21:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +3.3%  
-**30d:** +15.6%  
-**90d:** -16.8%  
-**1y:** -46.8%  
+**24h:** +0.7%  
+**7d:** +3.6%  
+**30d:** +15.9%  
+**90d:** -16.5%  
+**1y:** -46.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 21h ago
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 22h ago
 
 ---
 
@@ -146,11 +146,19 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[Is AI Money Rotating Into Ethereum? Tom Lee Cites 72% Outperformance](https://finance.yahoo.com/markets/crypto/articles/ai-money-rotating-ethereum-tom-220000669.html)**
+**[Ethereum could surge to $22K as AI adoption boo...](https://pluang.com/en/news-feed/ethereum-berpotensi-mencapai-22000-dolar-prediksi-tom-lee-dan-fundstrat)**
 
-Tom Lee cites ETH's 72% relative outperformance vs the DRAM ETF as AI money rotating into Ethereum. Rotation or reset?
+Fundstrat's Tom Lee suggests the market underestimates the chances of the CLARITY Act passing, which could positively impact crypto regulation. He also highlights Ethereum's potential to benefit from AI-driven growth, as AI applications increasingly use Ethereum-based assets like stablecoins and tokenized payments. Currently trading near $1,933, Ethereum shows signs of recovery and improved market sentiment. Lee projects ETH could reach $7,000-$9,000 soon, with a $12,000-$22,000 range possible if Bitcoin hits $250,000 and a stronger crypto rally occurs.
 
-Yahoo Finance • 22h ago
+Pluang • 2m ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html)**
+
+Bitcoin (BTC-USD) opened at $65,214.10 on Tuesday, July 21, 2026, 0.8% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,903.35, up 1.7% from Monday's opening price.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -162,22 +170,6 @@ The Block • 2d ago
 
 ---
 
-**[2 Cryptocurrencies Tom Lee Expects to Deliver Massive Gains](https://www.fool.com/investing/2026/07/21/2-cryptocurrencies-tom-lee-expects-to-deliver-mass/)**
-
-His expectations are sky-high for these two coins.
-
-The Motley Fool • 1d ago
-
----
-
-**[Current price of Ethereum for July 22, 2026](https://fortune.com/article/price-of-ethereum-07-22-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
-
----
-
 **[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
 
 Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
@@ -186,11 +178,25 @@ TradingView • 1d ago
 
 ---
 
+**[2 Cryptocurrencies Tom Lee Expects to Deliver Massive Gains](https://www.fool.com/investing/2026/07/21/2-cryptocurrencies-tom-lee-expects-to-deliver-mass/)**
+
+His expectations are sky-high for these two coins.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
+
+thestreet.com • 4h ago
+
+---
+
 **[Definica Introduces Ethereum-Native Protocol to Connect ETH Staking With Liquidity and Borrowing](https://markets.businessinsider.com/news/stocks/definica-introduces-ethereum-native-protocol-to-connect-eth-staking-with-liquidity-and-borrowing-1036347809)**
 
 ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -198,13 +204,15 @@ markets.businessinsider.com • 23h ago
 
 Bitcoin (BTC) trades elevated above $66,000 immediate support on Wednesday, following a minor correction from its weekly high of $66,956.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
-**[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
+**[Current price of Ethereum for July 22, 2026](https://fortune.com/article/price-of-ethereum-07-22-2026/)**
 
-thestreet.com • 2h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
 
 ---
 
@@ -212,15 +220,7 @@ thestreet.com • 2h ago
 
 Ethereum's validator exit queue has dropped to zero while 2.48M ETH awaits entry into staking, signaling strong holder conviction and reduced
 
-Crypto Briefing • 4h ago
-
----
-
-**[BitMine gets 98% of revenue from staking as a decade-long contract complicates an early exit](https://cryptoslate.com/bitmine-gets-98-of-revenue-from-staking-as-a-decade-long-contract-complicates-an-early-exit/)**
-
-Ethereum Tower can keep its 2% interest and may elect continuing fees or a formula-based payment after a covered termination.
-
-CryptoSlate • 23h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 408 • 💬 134 • ⏱️ 10:38 • 6h ago
+👁️ 6K • 👍 408 • 💬 134 • ⏱️ 10:38 • 7h ago
 
 ---
 
@@ -294,7 +294,7 @@ In this video I break down the current Ethereum price action and the specific te
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 199 • 💬 9 • ⏱️ 8:34 • 21h ago
+👁️ 4K • 👍 199 • 💬 9 • ⏱️ 8:34 • 22h ago
 
 ---
 
@@ -314,7 +314,7 @@ INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 192 • 💬 25 • ⏱️ 11:23 • 2d ago
+👁️ 3K • 👍 192 • 💬 25 • ⏱️ 11:23 • 3d ago
 
 ---
 

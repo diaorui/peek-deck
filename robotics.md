@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-22T20:11:39.560465+00:00'
+updated: '2026-07-22T21:37:54.832589+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 22, 2026 at 20:11 UTC  
+**Last Updated:** July 22, 2026 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,17 +108,17 @@ I’m working on a mini self-driving car project with Ackermann steering. The ca
 
 ## Google News: "robotics"
 
-**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
-
-Reuters • 1d ago
-
----
-
 **[Samsung Electronics shares rise as robotics move highlights push into physical AI](https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html)**
 
 Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
 
 CNBC • 1d ago
+
+---
+
+**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -138,9 +138,25 @@ TechCrunch • 1d ago
 
 ---
 
-**[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
+**[Tesla’s profits slide despite growing revenue as it pivots to robotics and AI](https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings)**
 
-WSJ • 10h ago
+Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
+
+The Guardian • 35m ago
+
+---
+
+**[Tesla’s Second-Quarter Revenue Surged Amid $5.8 Billion Spend in AI, Robotics](https://www.wsj.com/business/autos/tesla-tsla-q2-earnings-report-2026-stock-2c5f5a41)**
+
+WSJ • 1h ago
+
+---
+
+**[Physical AI and Robotics](https://www.therobotreport.com/physical-ai-and-robotics/)**
+
+A report looks at how physical AI is increasingly enabling autonomous systems to perceive their environments, make decisions, and act in the real world.
+
+The Robot Report • 44m ago
 
 ---
 
@@ -148,7 +164,7 @@ WSJ • 10h ago
 
 Ukraine's battlefield surge of robots now features airdrops and beach assaults.
 
-Ars Technica • 8h ago
+Ars Technica • 10h ago
 
 ---
 
@@ -156,31 +172,13 @@ Ars Technica • 8h ago
 
 Google and Nvidia are partnering with German data-robotics startup Microagi to provide computing power to train and deploy humanoids in factories.
 
-Semafor • 12h ago
+Semafor • 13h ago
 
 ---
 
-**[Wonder CEO Marc Lore on new funding round, using robotics for food prep and expansion plans](https://www.cnbc.com/video/2026/07/21/wonder-ceo-marc-lore-on-new-funding-round-using-robotics-for-food-prep-and-expansion-plans.html)**
+**[Volkswagen's CARIZON and Horizon Robotics deepen self-driving partnership in China](https://www.reuters.com/world/china/volkswagens-carizon-horizon-robotics-deepen-self-driving-partnership-china-2026-07-22/)**
 
-Wonder founder and CEO Marc Lore joins 'Squawk Box' to discuss the company's new $650M funding round, deployment of robotics in the kitchen, company growth outlook, and more.
-
-CNBC • 1d ago
-
----
-
-**[Robotics developer Vicarious Surgical shuts down to liquidate assets](https://www.massdevice.com/robotics-developer-vicarious-surgical-shuts-down-to-liquidate-assets/)**
-
-Vicarious Surgical investors voted to close the struggling surgical robotics developer and sell off its assets.
-
-MassDevice • 20h ago
-
----
-
-**[China's Unitree says 'GPT moment' for robots remains years away](https://asia.nikkei.com/spotlight/nikkei-forum/global-digital-summit/global-digital-summit-2026/china-s-unitree-says-gpt-moment-for-robots-remains-years-away)**
-
-Humanoid leader to put almost half of IPO proceeds into embodied AI research
-
-Nikkei Asia • 15h ago
+Reuters • 15h ago
 
 ---
 
@@ -284,7 +282,7 @@ What if a robot could look you in the eyes. smile. and hold a conversation just 
 
 📺 Dark Narr
 
-👁️ 5K • 👍 138 • 💬 9 • ⏱️ 0:44 • 9h ago
+👁️ 5K • 👍 138 • 💬 9 • ⏱️ 0:44 • 11h ago
 
 ---
 
