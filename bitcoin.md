@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-22T09:59:19.012980+00:00'
+updated: '2026-07-22T11:56:04.930831+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 09:59 UTC  
+**Last Updated:** July 22, 2026 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,752.21
+### $66,006.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +3.3%  
-**30d:** +5.1%  
-**90d:** -14.8%  
-**1y:** -44.4%  
+**24h:** -0.8%  
+**7d:** +3.5%  
+**30d:** +5.3%  
+**90d:** -14.7%  
+**1y:** -44.3%  
 
 ---
 
@@ -77,81 +77,75 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitgone](https://www.reddit.com/r/Bitcoin/comments/1v1an7t/bitgone/)**
+**[Me 5 minutes after BTC hits a new All-Time High](https://www.reddit.com/r/Bitcoin/comments/1v2qvv1/me_5_minutes_after_btc_hits_a_new_alltime_high/)**
 
-2d ago
-
----
-
-**[Bitcoin's long-term holder supply has just reached a new all-time high.](https://www.reddit.com/r/Bitcoin/comments/1v1nivc/bitcoins_longterm_holder_supply_has_just_reached/)**
-
-As you know guys, most discussions focus on price, but one of Bitcoin's most important on-chain metrics is moving in the opposite direction. A record share of the total BTC supply is now held by long-term holders, participants who continue accumulating and holding their coins instead of selling them back into the market. Historically, this has been one of the most interesting phases of a market cycle. As more Bitcoin moves into long-term storage, the amount of liquid BTC available on exchanges and in active circulation gradually declines. That changes the network's supply dynamics in a meaningful way. Less liquid supply means a larger portion of Bitcoin is effectively removed from day-to-day market activity. What's particularly notable is that this milestone comes during a relatively quiet period for the market. Long-term conviction continues to grow, supply becomes increasingly scarce, and the structure of the Bitcoin network keeps improving regardless of short-term market sentiment.
-
-1d ago
+17h ago
 
 ---
 
-**[Have you ever paid for travel or hotels with crypto?](https://www.reddit.com/r/Bitcoin/comments/1v1gjjv/have_you_ever_paid_for_travel_or_hotels_with/)**
+**[Russia's parliament just passed a bill letting retail investors buy Bitcoin. There's a mandatory exam and a $3,900/year cap.](https://www.reddit.com/r/Bitcoin/comments/1v3bbt0/russias_parliament_just_passed_a_bill_letting/)**
 
-If yes, how was your experience? If not, what's the biggest reason holding you back?
+Passed by the State Duma yesterday (July 21). Not a rumor, not someone's translation of a Telegram post, the actual bill. Here's what's in it: New licensing registry for exchanges, custodians, and brokers. Existing platforms get roughly a year to register. Retail investors can buy the most liquid crypto assets (bitcoin is the obvious flagship candidate, the report doesn't name the full list) through a registered intermediary, after passing a knowledge test. Cap for retail: 300,000 rubles (~$3,900) per year, per intermediary. Qualified investors also have to pass a test, but face no purchase cap. Prior trading history can count toward qualifying. Owning ≠ spending. This bill legalizes buying and holding bitcoin, it does not legalize using it as money. Paying for groceries in bitcoin is still banned domestically, so the ruble keeps its monopoly on everyday transactions. Carve-outs: foreign-trade settlement, mined crypto, and some securities transactions are exempt from that ban. Banks are required to block transfers to anyone they suspect of running an unregistered exchange. Timeline: first reading was back in April. Most provisions are set to take effect Sept. 1. It still needs to clear the Federation Council and get signed into law, expected, but not done yet. The part worth sitting with: a government that's spent years treating bitcoin as a threat to its monetary sovereignty just built a formal, licensed path for its own citizens to buy it. Gated by an exam and a spending cap, but a path. That's the move a state eventually makes once it accepts it can't kill the protocol, it regulates the door instead. Source: The Block / The Bitcoin Act I track moves like this across dozens of jurisdictions, if anyone wants the source link or a country-by-country comparison, ask below and I'll drop it. Genuine question for the sub: does "exam + cap to start, uncapped once you qualify" count as a country actually opening the door to bitcoin, or is it just a more polite capital control? Where's the line for you?
 
-2d ago
-
----
-
-**[BTC Hodling average](https://www.reddit.com/r/Bitcoin/comments/1v16ajg/btc_hodling_average/)**
-
-I see a lot a people talking about DCA and mentioning how they are OG hodlers for years. I always wonder.. how much were they able to accumulate/keep since then. Is 1.5 BTC a lot compared to the average hodler?
-
-2d ago
+2h ago
 
 ---
 
-**[Mentor Monday, July 20, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1v1e8ek/mentor_monday_july_20_2026_ask_all_your_bitcoin/)**
+**[How to make Bitcoin private?](https://www.reddit.com/r/Bitcoin/comments/1v37vbq/how_to_make_bitcoin_private/)**
 
-Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
+I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
 
-2d ago
-
----
-
-**[Hi, I'm new to this and I'm asking for your advice.](https://www.reddit.com/r/Bitcoin/comments/1v195ne/hi_im_new_to_this_and_im_asking_for_your_advice/)**
-
-Hi, I have $50 that I'd like to invest in Bitcoin and I'd like to know if you recommend it. I'd like to invest larger amounts over time, but to start I'd like to invest $50.
-
-2d ago
+5h ago
 
 ---
 
-**[Daily Discussion, July 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1v1d24i/daily_discussion_july_20_2026/)**
+**[BlackRock says quantum is the main reason investors are staying away from Bitcoin. Should we listen?](https://www.reddit.com/r/Bitcoin/comments/1v2shjy/blackrock_says_quantum_is_the_main_reason/)**
+
+I just watched this podcast episode where BlackRock's Head of Digital Assets Research (Will Su) said that the quantum threat is what's keeping Bitcoin from being mass-adopted. From his words, "some of the folks that would've certainly come in to engage with Bitcoin have probably held back a bit because of this quantum question," and when asked by the host whether the concern is "meaningfully affecting adoption", his answer was: "Yes. 100%." So I'm wondering, why are we delaying the response for this threat, especially if that is going to bring in more investors (and, well, more importantly, protect Bitcoin from quantum computers)? I've seen multiple proposals to start addressing this, the one on top being BIP 360 (P2MR) Any thoughts? Am I missing something here? This is the episode I'm talking about: https://youtu.be/Puv7Yyymy6M
+
+16h ago
+
+---
+
+**[I have unplugged from the matrix](https://www.reddit.com/r/Bitcoin/comments/1v32m6u/i_have_unplugged_from_the_matrix/)**
+
+The Matrix is a system Neo, and that system, is our enemy... I just bought bitcoin and put it into a cold wallet, after so many years of thinking it's a Ponzi scheme or whatever, but I understand it now, it's not a quick get rich scheme, it's not about being rich, I've chosen the red pill. I'm a proud bitcoin holder.
+
+9h ago
+
+---
+
+**[White House agrees to ethics provision in crypto bill](https://www.reddit.com/r/Bitcoin/comments/1v2ypcr/white_house_agrees_to_ethics_provision_in_crypto/)**
+
+🔗 [thehill.com](https://thehill.com/policy/technology/5981574-white-house-crypto-clarity-act-ethics-provision/) • 12h ago
+
+---
+
+**[There was a time when I honestly had no idea what to do next](https://www.reddit.com/r/Bitcoin/comments/1v3cdpt/there_was_a_time_when_i_honestly_had_no_idea_what/)**
+
+There was a time when I honestly had no idea what to do next. I lost the job I had been at for 5 years. The first few days were a complete shock. The only thoughts in my head were: "What now? What am I supposed to do?" The hardest part wasn't even losing the job. The hardest part was feeling completely lost. It felt like everyone around me was moving forward while I was stuck in the same place. Honestly, if it wasn't for my family, it would have been much harder. Instead of blaming me, they simply said, "We'll figure it out." That support gave me the strength not to give up. After a while, I realized there was no point in sitting around waiting. I started looking for different ways to make money. I watched videos, tried different things, made mistakes, and wasted time. Then one day I accidentally came across crypto testnets. At first, I had absolutely no idea what I was doing. But little by little, I started figuring things out. And honestly, it wasn't even about crypto. For the first time in a long time, I felt like I was in control of my life again. Small steps, but moving forward. If you're interested in how crypto testnets work, I already have a post about them. If you can't find the information you're looking for online, feel free to message me. If I can help, I'd be happy to. And just to be clear, I'm not selling anything. I'm sharing this because I know what it's like to be in a place where it feels like there's no way out. If you're going through a tough period right now, just know that it won't last forever. I'm genuinely curious. Have you ever had a moment when life suddenly didn't go according to plan? What helped you get through it?
+
+1h ago
+
+---
+
+**[Daily Discussion, July 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1v37fq1/daily_discussion_july_22_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2d ago
+5h ago
 
 ---
 
-**[bitcoin dies without freedom](https://www.reddit.com/r/Bitcoin/comments/1v1gwrg/bitcoin_dies_without_freedom/)**
+**[This is only the third weekly bullish divergence on record. Both prior instances marked absolute bottoms. The third just fired.](https://www.reddit.com/r/Bitcoin/comments/1v2hi5w/this_is_only_the_third_weekly_bullish_divergence/)**
 
-in a world without freedom, democracy and civilization bitcoin cannot be used for anything IRL or swap it for fiat because they would be traced and once they know they can fuck with you in a thousand way, legal or not. what scares me is this, not the price dropping but the big corpo and govs VS the individuals. on the positive side, if adoptions keeps rising (and it will as long as crime, war and shit like this keep happening); nothing can go after everyone! could some big entity make some actions to slow adoption until it stops entirely? or would it drive adoption even more, regardless of the risks derived by being a victim of these actions? i know real things affect the price but it’s always unrelated to btc. what if the news and btc are the same, how does it unfold? like what happened with the exchange drama or normal people losing money or the kidnappings of rich men in france?
-
-2d ago
+23h ago
 
 ---
 
-**[Bitcoin and health](https://www.reddit.com/r/Bitcoin/comments/1v121f9/bitcoin_and_health/)**
+**[Russia plans to advance cryptocurrency legislation tomorrow.](https://www.reddit.com/r/Bitcoin/comments/1v2p00i/russia_plans_to_advance_cryptocurrency/)**
 
-Well, if it's true that for every lucky one there are 99 who cry... here I am... I lost $50,000 of my savings, plus the pain of all the potential gains if I'd just bought that one instead of that other one, or if I'd just held on for longer. I started in 2022 and I've never managed to hold on. When I saw a 10% loss, that was already a lot; on $50,000, I was down $5... I feel like I've failed, and I'll never recover this loss, in my country it's hard to save $500 in three months. Someone like me who has never managed to chase the bull?
-
-2d ago
-
----
-
-**[Capitulation metrics just hit Nov 2022 levels — plus 4 other things from this week](https://www.reddit.com/r/Bitcoin/comments/1v18rec/capitulation_metrics_just_hit_nov_2022_levels/)**
-
-Been tracking a few things this week worth sharing. The capitulation read. Relative long/short-term holder realized profit/loss to exchanges spiked to a level we haven't seen since Nov/Dec 2022, which marked the exact cycle bottom. Institutional access keeps widening. Morgan Stanley rolled out spot BTC trading on E*Trade to roughly 8.6M clients. T. Rowe Price launched an actively managed spot crypto ETP with ~40% in Bitcoin. Both in the same week, in a bear market. South Korea. Their new National Asset Basic Act brings digital assets under government asset management for the first time since 1950. This is a management law, not a strategic reserve. However, pair this with Japan moving toward Bitcoin ETFs last week and it is clear Asia's biggest economies are quietly building Bitcoin into their financial systems. Debasement continues. M2 money supply hit a new all-time high of $23.05T. National debt around $39.4T. Most interested in what people think about the capitulation read specifically. Bottom signals seem to be flashing everywhere, is this real or will there be another leg down before we test lower? I put these together weekly if anyone wants the full version with charts: https://orangenest.beehiiv.com/p/5-sats-sunday-7-19-2026
-
-2d ago
+18h ago
 
 ---
 
@@ -161,57 +155,53 @@ Been tracking a few things this week worth sharing. The capitulation read. Relat
 
 **[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
-Bloomberg.com • 13h ago
-
----
-
-**[What is the CLARITY Act Ethics Package and Why is It Bullish for Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/clarity-act-ethics-package-why-162520627.html)**
-
-The White House agreed on the CLARITY Act ethics package. Here is why the deal is bullish for Bitcoin price.
-
-Yahoo Finance • 17h ago
+Bloomberg.com • 14h ago
 
 ---
 
 **[Clarity Act Nears Finish Line; Trump Oversees Ethics Provisions](https://www.investors.com/news/clarity-act-cryptocurrency-market-structure-trump-ethics-senate/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 14h ago
 
 ---
 
-**[Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin](https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin)**
+**[CLARITY Act Hopes Add $63 Billion: Only 1% of Bitcoin Supply Blocks $70,000](https://finance.yahoo.com/markets/crypto/articles/clarity-act-hopes-add-63-112813561.html)**
 
-Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.
+Crypto market cap gains $63 billion on reports of a CLARITY Act ethics deal. Can Bitcoin reach $70,000 soon?
 
-CoinDesk • 12h ago
-
----
-
-**[Bitcoin Dominance Expected to 'Keep Increasing,' Says Strategy CEO Phong Le Amid Stablecoin, Big Bank Adoption](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dominance-expected-keep-increasing-073135321.html)**
-
-Strategy Inc. (NASDAQ:MSTR) CEO Phong Le said on Tuesday that Bitcoin’s (CRYPTO: BTC) dominance in the cryptocurrency space has steadily increased owing to institutional adoption and support from the U.S. administration. Le Confident Bitcoin’s Dominance Will Increase Further Le attached a chart from CoinGecko—a leading cryptocurrency data aggregator—showing Bitcoin’s increasing market share over the last four years. Bitcoin’s dominance has expanded significantly, moving from 40.83% in 2022 to 56
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Live Updates: Bitcoin Under $66,000 as Traders Await Alphabet Earnings to Gauge AI Trade](https://www.moomoo.com/news/post/73343158/live-updates-bitcoin-under-66000-as-traders-await-alphabet-earnings)**
+**[Live markets: Bitcoin rises to five-week high above $66,400 on rising hope for Clarity Act](https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april)**
 
-Moomoo • 1h ago
+The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.
 
----
-
-**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
-
-Bloomberg.com • 58m ago
+CoinDesk • 22h ago
 
 ---
 
-**[Galaxy Launches Bitcoin Quantum Readiness Initiative to Protect Bitcoin's Cryptographic Foundations](https://www.galaxy.com/newsroom/galaxy-launches-bitcoin-quantum-readiness-initiative)**
+**[Bitcoin Price to $20,000? Bitcoin Left Out of S&P’s New Crypto Index as Crash Fears Return](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-20-000-bitcoin-105215279.html)**
 
-Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
+Bitcoin’s drop below $64,000 and the key $63,700 support level have weakened its short-term recovery structure. Failure to reclaim $63,700 could send BTC toward $56,500, ...
 
-galaxy.com • 21h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin’s Quantum Threat Gets a $5M Galaxy Digital Response](https://bitcoinfoundation.org/news/bitcoin/bitcoins-quantum-threat-galaxy-digital-response/)**
+
+The Bitcoin quantum threat is drawing fresh attention as Galaxy Digital pledged millions to build quantum-resistant protections.
+
+Bitcoin Foundation • 8m ago
+
+---
+
+**[Bitcoin ATM scams in Massachusetts](https://apps.bostonglobe.com/2026/07/storylab/coinhub-bitcoin-atm-crypto-scam/)**
+
+Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
+
+The Boston Globe • 10h ago
 
 ---
 
@@ -223,11 +213,19 @@ VanEck • 1d ago
 
 ---
 
-**[5 Best Crypto Casinos 2026 – Top Bitcoin Casinos For Instant Payouts And Big Bonuses](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-top-bitcoin-casinos-for-instant-payouts-and-big-bonuses/20260721084546/)**
+**[Clayton County Supervisors hold information session on Bitcoin data center](https://www.kcrg.com/2026/07/21/clayton-county-supervisors-hold-information-session-bitcoin-data-center/)**
 
-5 Best Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Payout Speed ✔️mBit Casino 4 BTC + 325 Free Spins Instant ✔️Jack.com 100 Free Spins (No Wagering) 5–10 Minutes ✔️Bovada (USA) 125% up to $3,750 10–20 Minutes ✔️Bets.io 225% up to 1 BTC + 225 Free Spins 1–2 Hours ✔️BitStarz 300% up to 5...
+They want to set up a new center in Clayton County but can’t right now because of a noise ordinance.
 
-Muddy River Sports • 20h ago
+KCRG • 13h ago
+
+---
+
+**[Bitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App](https://bitcoinmagazine.com/news/jack-dorsey-debuts-chat-app-slack-rival)**
+
+Jack Dorsey's company Block has debuted a decentralized rival to group chat platform Slack.
+
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -247,7 +245,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 2 • 💬 0 • 16h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 18h ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
 
 ---
 
@@ -255,7 +253,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/sharecoin
 
-⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/TVHeroes/sharecoin)
+⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/TVHeroes/sharecoin)
 
 ---
 
@@ -263,7 +261,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Nearly a decade later, crypto is still barely functional for the thing it was s...
 
-⬆️ 2 • 💬 0 • 14h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
+⬆️ 2 • 💬 0 • 16h ago • [masonforest.com](https://www.masonforest.com/blockchain/cryptocurrency/bitcoin-dance/2026/07/21/i-vibe-coded-an-inflation-resistant-currency.html)
 
 ---
 
@@ -271,7 +269,7 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Every artifact in your product lifecycle gets a governed home — with lifecycles, traceable relationships, and full audit trails. Self-hosted. One command deploy.
 
-⬆️ 2 • 💬 0 • 19h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
+⬆️ 2 • 💬 0 • 21h ago • [Aeon.WorX Zero](https://worx.aeonax.com/)
 
 ---
 
@@ -285,7 +283,7 @@ Trump just agreed to the ethics provision holding up the CLARITY Act — and Bit
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 830 • 💬 78 • ⏱️ 29:19 • 16h ago
+👁️ 13K • 👍 830 • 💬 78 • ⏱️ 29:19 • 18h ago
 
 ---
 
@@ -305,7 +303,7 @@ A major debate is unfolding inside the Bitcoin community, and the outcome could 
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 467 • ⏱️ 19:47 • 11h ago
+👁️ 17K • 👍 1K • 💬 467 • ⏱️ 19:47 • 13h ago
 
 ---
 
@@ -325,7 +323,7 @@ Disclaimer: none of this is financial advice. This is financial entertainment. F
 
 📺 Adam Livingston
 
-👁️ 5K • 👍 602 • 💬 65 • ⏱️ 21:10 • 11h ago
+👁️ 5K • 👍 602 • 💬 65 • ⏱️ 21:10 • 13h ago
 
 ---
 
@@ -335,7 +333,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 573 • 💬 71 • ⏱️ 9:38 • 8h ago
+👁️ 9K • 👍 573 • 💬 71 • ⏱️ 9:38 • 10h ago
 
 ---
 
@@ -345,7 +343,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 5K • 👍 355 • 💬 31 • ⏱️ 17:11 • 16h ago
+👁️ 5K • 👍 355 • 💬 31 • ⏱️ 17:11 • 18h ago
 
 ---
 
@@ -365,7 +363,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 883 • 💬 34 • ⏱️ 58:33 • 18h ago
+👁️ 16K • 👍 883 • 💬 34 • ⏱️ 58:33 • 20h ago
 
 ---
 
@@ -373,7 +371,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 လှ ဌေး
 
-👁️ 36K • 👍 721 • 💬 2 • ⏱️ 0:11 • 10h ago
+👁️ 36K • 👍 721 • 💬 2 • ⏱️ 0:11 • 12h ago
 
 ---
 

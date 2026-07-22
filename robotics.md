@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-22T09:59:19.022407+00:00'
+updated: '2026-07-22T11:56:04.939417+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 22, 2026 at 09:59 UTC  
+**Last Updated:** July 22, 2026 at 11:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Recording some data, and here’s one lesson I learned the hard way: limit your gripper torque to the minimum you need during teleoperation, plastic parts break 🤭
 
-16h ago
+18h ago
 
 ---
 
@@ -50,7 +50,7 @@ Recording some data, and here’s one lesson I learned the hard way: limit your 
 
 I've been learning ROS 2 by building projects instead of just following tutorials. In this demo, I created a web dashboard that communicates with ROS 2 through rosbridge, allowing me to control the TurtleBot directly from the browser. Features implemented: 🌐 Browser-based robot control 🔗 React frontend connected to ROS 2 📡 Real-time communication using rosbridge 🎮 Teleoperation from the web dashboard 🤖 Live control of the TurtleBot in simulation This is one step toward my goal of building a complete robotics dashboard with: Live camera streaming LiDAR visualization Interactive map Autonomous navigation Robot monitoring I'd love your feedback! What features would you add to a robotics web dashboard? #ROS2 #RobotWebTools #ReactJS #Robotics #TurtleBot3 #Gazebo #RViz #WebDevelopment #OpenSource #LearningInPublic
 
-21h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ I've been learning ROS 2 by building projects instead of just following tutorial
 
 Russ Tedrake, MIT professor and former VP of Robotics Research at Toyota Research Institute, explains why recent progress in robot learning has been surprising. He says locomotion improved quickly because simulation, domain randomization, GPU infrastructure and reinforcement learning started working together. With enough randomized conditions in simulation, robots learned policies that transferred to real stairs, bumps and uneven terrain better than many researchers expected. The results moved ahead of the theory. Tedrake says machine learning is producing systems that work empirically before researchers can fully explain why they work. He compares the change to a move from first-principles engineering toward behavioral science: build the system, observe what it does, then test it to understand what happened. Full ep: https://www.youtube.com/watch?v=c8mQKkuEmiI&t=27s
 
-22h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ Four-legged robots can reach many places that wheeled vehicles cannot. Isn’t i
 
 Hey r/robotics , First time posting here and first time doing a real robotics build, so go easy on me. My son turns 4 in August and he's non verbal autistic. I originally built a tablet app for him to communicate, but when you give a 3 year old a tablet they just think it's game time. So I decided to try making a dedicated physical companion that actually looks at him when he talks to it. I put together this bench prototype and honestly was surprised by how much he responded to it. He's actually using the cards, learning the words, and tracking the head movements. My goal eventually is to get something like this into other parents hands for under 200 quid or so. It runs 100% offline too, so no cloud fees or privacy issues. I have the software side mostly sorted out now, but I need advice on taking it from 3D printed parts and breadboards to something safe and manufacturable. Quick overview of what's under the hood: It runs on a Pi 5 with a Flutter web interface and a Python FastAPI backend for offline Piper TTS. Vision is an IMX708 camera on a pan tilt mount using YuNet ONNX for face tracking. Motor control is offloaded to a Waveshare ESP32 driving two ST3215 serial servos. Had to write some EMA filtering to stop the servos from shaking. Enclosure is currently drafted in OpenSCAD. A few big questions I'm trying to figure out: Screen placement and wobble. Right now the 7 inch touchscreen is on the head. Tapping it makes the whole neck wobble. Do I keep the screen on the head so it looks at him when speaking, or move the heavy touch screen to the base and just use little ESP matrix screens for eyes on the head? Making it expressive without pinch hazards. I want ears/antennas or arms to show emotion, but small kids put their hands everywhere. Are servo driven ears safe enough or a bad idea? (Skipping wheels so it doesn't drive off tables). Taking an OpenSCAD 3D print to injection molding. What should I prepare for if I want to get low volume plastic shells made? Also any good Shenzhen turnkey PCBA suppliers you guys recommend to replace the Pi and ESP dev boards down the line? I'm setting up a Discord to organize the hardware side and get feedback from speech OTs. Let me know if you want an invite and I'll send it over. Video shows the offline AAC sentence builder and tracking working, plus a concept render at the end of what I want the shell to look like.
 
-16h ago
+18h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hey r/robotics , First time posting here and first time doing a real robotics bu
 
 **[A tiny pub/sub library that works over Ethernet and CAN](https://www.reddit.com/r/robotics/comments/1v2jdjb/a_tiny_pubsub_library_that_works_over_ethernet/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hey r/robotics , First time posting here and first time doing a real robotics bu
 
 I’m working on a mini self-driving car project with Ackermann steering. The car has to follow a lane with boundary lines on both sides, stay centered, and handle both straight and curved sections like a small F1-style track. I plan to use OpenCV + a webcam for lane detection and then control the steering based on the detected lane center. I’m looking for ideas on lane detection methods, steering control, and how to make it robust on curves and under different lighting conditions
 
-23h ago
+1d ago
 
 ---
 
@@ -112,7 +112,7 @@ I’m working on a mini self-driving car project with Ackermann steering. The ca
 
 Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -134,13 +134,21 @@ Reuters • 1d ago
 
 The tech giant is consolidating talent, research and production planning to accelerate the commercialization of humanoid robots.
 
-Korea JoongAng Daily • 22h ago
+Korea JoongAng Daily • 1d ago
+
+---
+
+**[Ukrainian drones deliver robots directly into battle by sea and air](https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/)**
+
+Ukraine's battlefield surge of robots now features airdrops and beach assaults.
+
+Ars Technica • 41m ago
 
 ---
 
 **[Banks Wrap Up Loan Backing SoftBank’s $5.4 Billion Robotics Bet](https://www.bloomberg.com/news/articles/2026-07-21/banks-wrap-up-loan-backing-softbank-s-5-4-billion-robotics-bet)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -148,7 +156,7 @@ Bloomberg.com • 12h ago
 
 Wonder founder and CEO Marc Lore joins 'Squawk Box' to discuss the company's new $650M funding round, deployment of robotics in the kitchen, company growth outlook, and more.
 
-CNBC • 21h ago
+CNBC • 23h ago
 
 ---
 
@@ -156,7 +164,7 @@ CNBC • 21h ago
 
 Humanoid leader to put almost half of IPO proceeds into embodied AI research
 
-Nikkei Asia • 5h ago
+Nikkei Asia • 7h ago
 
 ---
 
@@ -164,23 +172,15 @@ Nikkei Asia • 5h ago
 
 Medtronic (NYSE:MDT) today shared an early look at its next-generation computing platform for the robotic surgery operating room.
 
-MassDevice • 17h ago
+MassDevice • 19h ago
 
 ---
 
-**[Shanghai science forum photos show China’s AI and robotics advances in rivalry with US](https://apnews.com/photo-gallery/china-ai-tech-us-robots-conference-photos-0f3f6e69f1c1e2b8b077d8d8af7efd52)**
+**[China’s tech companies showcase over 300 humanoid robots at World AI Conference](https://apnews.com/video/300-humanoid-robots-show-they-can-do-more-than-dance-f77b3607c5984d80ac27d72a44541a30)**
 
-BEIJING (AP) — China's leading technology companies showcased hundreds of cutting-edge products at the World AI Conference in Shanghai — from advanced robotics to artificial intelligence systems.
+Dancing robots are always a crowd pleaser, but at the WAIC tech event Saturday the focus was on showing that the machines are not for entertainment, but executing practical tasks.
 
 AP News • 1d ago
-
----
-
-**[Google, Nvidia deepen Europe robotics play with startup compute deal](https://finance.yahoo.com/technology/ai/articles/google-nvidia-deepen-europe-robotics-080013719.html)**
-
-Google and Nvidia are partnering with German data-robotics startup Microagi to provide computing power to train and deploy humanoids in factories.
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots are suddenly everywhere - dancing, boxing, running marathons and
 
 📺 BBC World Service
 
-👁️ 4K • 👍 100 • 💬 9 • ⏱️ 18:15 • 10h ago
+👁️ 4K • 👍 100 • 💬 9 • ⏱️ 18:15 • 12h ago
 
 ---
 
@@ -254,7 +254,7 @@ Researchers at South Korea's KAIST and Stanford University have unveiled clothin
 
 📺 Reuters
 
-👁️ 53K • 👍 585 • 💬 74 • ⏱️ 2:07 • 4d ago
+👁️ 53K • 👍 585 • 💬 74 • ⏱️ 2:07 • 5d ago
 
 ---
 
@@ -264,7 +264,7 @@ Yes he's multilingual. For the most part. #ai #chatgpt #robot #comedy #robotics.
 
 📺 gptars
 
-👁️ 15K • 👍 842 • 💬 39 • ⏱️ 0:35 • 16h ago
+👁️ 15K • 👍 842 • 💬 39 • ⏱️ 0:35 • 18h ago
 
 ---
 
@@ -274,7 +274,7 @@ Drones are taking over on the frontline of the Russian war in Ukraine. [Subscrib
 
 📺 Channel 4 News
 
-👁️ 59K • 👍 734 • 💬 128 • ⏱️ 11:57 • 14h ago
+👁️ 59K • 👍 734 • 💬 128 • ⏱️ 11:57 • 16h ago
 
 ---
 

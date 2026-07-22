@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-22T09:59:19.019166+00:00'
+updated: '2026-07-22T11:56:04.936555+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 09:59 UTC  
+**Last Updated:** July 22, 2026 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +3.0%  
-**30d:** +15.2%  
-**90d:** -17.1%  
-**1y:** -47.0%  
+**24h:** -0.8%  
+**7d:** +3.3%  
+**30d:** +15.5%  
+**90d:** -16.8%  
+**1y:** -46.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4h ago
+6h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 10h ago
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 12h ago
 
 ---
 
@@ -114,7 +114,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
-1d ago
+2d ago
 
 ---
 
@@ -146,19 +146,43 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
+**[Ethereum News: Builder Activity & Leverage Data Align, $2k Next?](https://finance.yahoo.com/markets/crypto/articles/ethereum-news-builder-activity-leverage-095018044.html)**
+
+In Ethereum news today, new smart contract deployments on the network have surged 192% above the 90-day baseline, with funding rates simultaneously running 220% above their 90-day norm, a combination of signals that, according to a CryptoQuant QuickTake published by analyst CryptoOnchain, rarely fires without preceding a significant directional move. ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Tom Lee Says CLARITY Act Odds Are Too Low as ETH Flashes Bullish Signal](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-clarity-act-095835332.html)**
+
+Tom Lee said Polymarket and Kalshi may be underestimating the CLARITY Act’s chances of passing. Fundstrat highlighted Ethereum’s growing strength as an “AI downstream” asset ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html)**
 
 Bitcoin (BTC-USD) opened at $65,214.10 on Tuesday, July 21, 2026, 0.8% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,903.35, up 1.7% from Monday's opening price.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[2 Cryptocurrencies Tom Lee Expects to Deliver Massive Gains](https://www.fool.com/investing/2026/07/21/2-cryptocurrencies-tom-lee-expects-to-deliver-mass/)**
+**[Current price of Ethereum for July 22, 2026](https://fortune.com/article/price-of-ethereum-07-22-2026/)**
 
-His expectations are sky-high for these two coins.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Motley Fool • 1d ago
+Fortune • 50m ago
+
+---
+
+**[Ethereum’s Next Move: How High Can ETH Price Go?](https://www.tradingview.com/news/coinpedia:914e8767f094b:0-ethereum-s-next-move-how-high-can-eth-price-go/)**
+
+Ethereum is trading just below $1,900, and analyst Benjamin Cowen believes the next major test for ETH may not come immediately. While July has historically been a strong month for crypto during midterm years, Cowen expects the August-to-October period to be far more important in deciding whether E…
+
+TradingView • 1d ago
 
 ---
 
@@ -170,11 +194,19 @@ The Block • 1d ago
 
 ---
 
+**[2 Cryptocurrencies Tom Lee Expects to Deliver Massive Gains](https://www.fool.com/investing/2026/07/21/2-cryptocurrencies-tom-lee-expects-to-deliver-mass/)**
+
+His expectations are sky-high for these two coins.
+
+The Motley Fool • 1d ago
+
+---
+
 **[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
 
 Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
-TradingView • 21h ago
+TradingView • 23h ago
 
 ---
 
@@ -182,45 +214,13 @@ TradingView • 21h ago
 
 ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
 
-markets.businessinsider.com • 12h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
 **[Dormant Ethereum wallet awakens after 11 years, here's what happened next](https://www.thestreet.com/crypto/markets/dormant-ethereum-wallet-awakens-after-11-years-heres-what-happened-next)**
 
-thestreet.com • 18h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends gains, ETH and XRP target breakout moves](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-extends-gains-eth-and-xrp-target-breakout-moves-202607220350)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain on the front foot on Wednesday as the broader crypto market extends its gains so far this week.
-
-FXStreet • 6h ago
-
----
-
-**[How 40.8M staked ETH could strengthen Ethereum’s edge over Bitcoin](https://ambcrypto.com/how-40-8m-staked-eth-could-strengthen-ethereums-edge-over-bitcoin/)**
-
-Whales are accumulating ETH, but staking and DeFi flows tell a bigger story.
-
-AMBCrypto • 17h ago
-
----
-
-**[Ethereum Price Prediction: ETH Chart Clears Its Year-Long Downtrend as Standard Chartered and Citi Split on 2026 Targets](https://www.financemagnates.com/trending/ethereum-price-prediction-eth-chart-clears-its-year-long-downtrend-as-standard-chartered-and-citi-split-on-2026-targets/)**
-
-Tuesday's session is doing what last week's could not: putting bitcoin's chip-driven rebound to work across the rest of crypto. Ethereum ( ETH ) is trading at $1,932 on Tuesday, July 21, 2026, up n...
-
-Finance Magnates • 23h ago
-
----
-
-**[Ethereum rises 7% as Tom Lee highlights AI infrastructure gains](https://cryptobriefing.com/ethereum-rises-tom-lee-ai-infrastructure/)**
-
-Ethereum gains 7% as Fundstrat's Tom Lee calls ETH the trust layer for AI agents, reiterating a $250K price target amid capital rotation from
-
-Crypto Briefing • 17h ago
+thestreet.com • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 309 • 💬 43 • ⏱️ 19:54 • 16h ago
+👁️ 10K • 👍 309 • 💬 43 • ⏱️ 19:54 • 18h ago
 
 ---
 
@@ -244,7 +244,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 165 • 💬 46 • ⏱️ 17:49 • 21h ago
+👁️ 3K • 👍 165 • 💬 46 • ⏱️ 17:49 • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ In this video I break down the current Ethereum price action and the specific te
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 4 • ⏱️ 8:34 • 11h ago
+👁️ 2K • 👍 146 • 💬 4 • ⏱️ 8:34 • 12h ago
 
 ---
 
@@ -264,7 +264,7 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 22 • ⏱️ 33:40 • 19h ago
+👁️ 18K • 👍 1K • 💬 22 • ⏱️ 33:40 • 21h ago
 
 ---
 
@@ -304,7 +304,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 451 • 💬 173 • ⏱️ 10:22 • 5h ago
+👁️ 2K • 👍 451 • 💬 173 • ⏱️ 10:22 • 7h ago
 
 ---
 
@@ -324,7 +324,7 @@ The Ethereum Bitcoin ratio just printed a weekly MACD bull cross. The last time 
 
 📺 Lark Davis
 
-👁️ 4K • 👍 89 • 💬 8 • ⏱️ 0:40 • 17h ago
+👁️ 4K • 👍 89 • 💬 8 • ⏱️ 0:40 • 19h ago
 
 ---
 

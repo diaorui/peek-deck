@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-22T09:59:19.004324+00:00'
+updated: '2026-07-22T11:56:04.923156+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 22, 2026 at 09:59 UTC  
+**Last Updated:** July 22, 2026 at 11:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 For a bit of context, I work at an agency, so I'm in and out of a dozen different AI tools every week across client projects: content, research, video, code, all of it. This is probably why I noticed this before most people (found these news while scrolling on LinkedIn today). When the ChatGPT hype first hit I genuinely cared which model I was on. Once GPT-4 landed and claude and gemini showed up, I'd switch between them constantly depending on the task, knowing what was under the hood felt like part of using it well. Now I catch myself using products with no idea what's running underneath. The news about Microsoft testing Kimi (Moonshot's model) inside Copilot is what made it click today. Copilot today is one model, six months from now it could be another, and most people won't notice or care. The model became a component, not the product. And honestly that's already how I use most of this stuff. Cursor for coding, Perplexity for research, Canva AI for design stuff, Argil when I'm turning a script into video. I couldn't tell you which model any of them swapped to last quarter, and it wouldn't change whether I keep paying. They're valuable because they solve one specific problem better than me duct-taping five tools together, not because of the model name on the box. Feels like we're moving from "which LLM is this?" to "did it actually save me time?" the same way nobody buying a laptop thinks about the chip anymore. Curious if others feel this shift. Do you still pick tools by the underlying model, or has that stopped mattering for you?
 
-14h ago
+16h ago
 
 ---
 
@@ -49,7 +49,7 @@ For a bit of context, I work at an agency, so I'm in and out of a dozen differen
 
 There are some Google AI tools that I think are absolutely fantastic. I often come across demos, tutorials, and influencers showcasing different Google AI capabilities. But the first thing that always strikes me is this: why is using Google’s AI so fragmented? To create content or use different AI features, you have to jump between multiple websites, multiple products, and constantly changing names that are hard to keep track of. Instead of bringing everything together into a clear, understandable ecosystem—like Anthropic has done, or like OpenAI is clearly trying to do—it feels like everything lives in a different place. Honestly, it almost feels as if Google’s AI teams are disconnected from one another. In some ways, it even gives me the impression of a company that’s operating like an old, established enterprise rather than a modern AI-first company. To me, this is completely counterproductive. It creates unnecessary chaos for users and makes it much harder to connect the dots between the many excellent AI tools Google already has. Am I the only one who feels this way?
 
-5h ago
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ There are some Google AI tools that I think are absolutely fantastic. I often co
 
 saw a stat this morning that's been bugging me all day. 47% of small businesses are using AI somewhere in HR now, screening resumes, onboarding, all that. fine whatever, expected at this point but then i saw the other half of it. more than half of applicants are using AI to write their resumes and cover letters too. linkedin is apparently getting like 11,000 applications a minute right now which is insane to even think about so just sit with that for a sec. candidate uses AI to write the resume, company uses AI to read it, and somewhere in between an actual person who might be genuinely good just gets a score slapped on them by two bots that never even talk to each other anyway the resume just isn't a signal anymore imo. it used to at least tell you who could write, who bothered to tailor it, who paid attention. now everyone's bullets are quantified and everyone reads like they came out of a mckinsey deck. the doc is flawless and somehow tells you nothing i've basically given up trying to win that game at this point. i skim resumes for like 20 seconds now, just enough to cut anyone wildly unqualified, and save the real energy for the interview i've got a few things i look for when i'm trying to spot the people who actually build stuff vs the ones just filling a seat. did they fix something nobody asked them to fix. will they push back on me instead of just nodding along. do they actually own the outcome or just the task problem is none of that shows up fast, takes time to actually see it in someone and it's genuinely hard to catch in one interview. but it's what i'm reaching for when the resume gives me nothing curious what everyone else is doing honestly, if the resume basically tells you nothing anymore what's actually replacing it for you edit: this is basically the hiring version of what i write about every week. i run modern operators, a newsletter for founders trying to get out of the day to day grind of their business. one of the recurring topics is exactly this, the stuff that actually predicts whether someone can run without you (ownership, judgment, follow-through) never shows up in the polished version of anything, whether that's a resume or a status update. free to join here if that's useful for you.
 
-16h ago
+18h ago
 
 ---
 
@@ -65,7 +65,7 @@ saw a stat this morning that's been bugging me all day. 47% of small businesses 
 
 I fought against Google’s Pentagon AI deal from the inside. Powerful people and institutions failed to keep their AI ethics promises under pressure.
 
-🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 22h ago
+🔗 [The Pond](https://turntrout.com/why-i-left-google-deepmind) • 1d ago
 
 ---
 
@@ -73,7 +73,7 @@ I fought against Google’s Pentagon AI deal from the inside. Powerful people an
 
 Hi Reddit! ​This February, my husband Samuel and I (native german) moved from Germany to start a new chapter in Indonesia. I was initially busy getting my bakery off the ground, but now we are teaming up to build something new together! There are so many seemingly "AI - experts"​, who teach AI just because they are able to use Claude, ChatGPT or Cursor. But my husband and I are on a mission, to share the true fundamentals of AI, thought by someone who studied and practicioned it before all the hype. We know AI can feel incredibly overwhelming right now, so we are combining forces to share Samuel's 8+ years of industry experience in Germany. We’re building a community for complete beginners, for those who want to upskill in their career or simply just to learn how to actually use and create AI without all the confusing jargon. ​Mari belajar bersama. We have set up a group where you can ask questions, share ideas, and learn alongside us (in the comment section). ​If you have any burning questions about the AI industry before joining, feel free to drop a comment below! We'd love to welcome you.
 
-44m ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hi Reddit! ​This February, my husband Samuel and I (native german) moved from 
 
 OpenAI recently disclosed a security incident during an AI evaluation, where a model reportedly found ways to break out of its sandbox environment and access external systems while trying to complete its assigned task. AI is getting more powerful every year. But at the same time, it feels like every major leap comes with a new round of security concerns. A few years ago, the biggest question was: “Will AI give me the wrong answer?” Now the question is becoming: “What happens when AI can actually do things for us?” An AI with: Code execution Internet access File access Credentials and external tools is no longer just a chatbot. It can make decisions, try different approaches, and figure out ways to complete a goal. The interesting (and slightly scary) part is that the problem usually isn't that AI is "trying to be harmful." It's that AI optimizes for the objective we give it — and sometimes the path it finds is not the path we expected. And honestly, looking at the history of AI development, it feels like a pattern: New model → new capabilities → unexpected behavior → new safety fixes → repeat. Every time models become smarter, we discover new things we didn't anticipate. Maybe this is just how technology evolves. Cars became faster, then we needed seat belts, airbags, and traffic rules. The question is whether we're building the "safety systems" fast enough as AI keeps accelerating. What do you think — are these normal growing pains, or are we moving faster than we can handle?
 
-45m ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ OpenAI recently disclosed a security incident during an AI evaluation, where a m
 
 The ExploitGym incident provides a rare look into how advanced AI systems behave during realistic security evaluations. This analysis examines the attack sequence, environment design, autonomous decision-making, containment mechanisms, and the broader implications for AI security, benchmarking, and future agentic systems.
 
-🔗 [thecybersecguru.com](https://thecybersecguru.com/news/openai-hugging-face-ai-security-incident-exploitgym-analysis/) • 4h ago
+🔗 [thecybersecguru.com](https://thecybersecguru.com/news/openai-hugging-face-ai-security-incident-exploitgym-analysis/) • 6h ago
 
 ---
 
@@ -97,7 +97,7 @@ The ExploitGym incident provides a rare look into how advanced AI systems behave
 
 How Niantic Spatial turns a single camera walkthrough into a high-fidelity, training-ready digital twin for NVIDIA Isaac Sim, enabling Flexion to train RGB navigation policies that transfer zero-shot to the real office.
 
-🔗 [Niantic Spatial, Inc.](https://nianticspatial.com/blog/flexion-humanoid-real2sim-sim2real) • 1h ago
+🔗 [Niantic Spatial, Inc.](https://nianticspatial.com/blog/flexion-humanoid-real2sim-sim2real) • 2h ago
 
 ---
 
@@ -105,7 +105,7 @@ How Niantic Spatial turns a single camera walkthrough into a high-fidelity, trai
 
 Kling, Veo 3.1, Sora 2, Hailuo, Seedance, the rankings change every week depending on whose demo went viral. For a solo creative shop, none of that ranking matters as much as one thing: can you get the same character or product to look consistent across ten shots. A model can nail one gorgeous four-second clip and still be useless for a real campaign. Client work isn't one shot. It's a sequence that has to hold together. The tools that actually make the cut for me aren't always the ones winning the arena votes. They're the ones that don't drift halfway through a shot list. Consistency and control beat raw wow-factor almost every time once there's an actual brief involved. Curious what other people doing commercial work are actually shipping with versus what's topping the hype threads.
 
-1h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Kling, Veo 3.1, Sora 2, Hailuo, Seedance, the rankings change every week dependi
 
 A Nikkei study found Alphabet, Microsoft, Amazon, Meta and Oracle carry $1.65tn in off-balance-sheet debt for AI, more than they report. It is all legal.
 
-🔗 [TNW | Amazon](https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai) • 9h ago
+🔗 [TNW | Amazon](https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai) • 11h ago
 
 ---
 
@@ -121,73 +121,79 @@ A Nikkei study found Alphabet, Microsoft, Amazon, Meta and Oracle carry $1.65tn 
 
 ## Google News: "ai"
 
-**[Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)**
-
-We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
-
-blog.google • 18h ago
-
----
-
-**[Google Releases Three New A.I. Models](https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html)**
-
-The New York Times • 18h ago
-
----
-
-**[Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4](https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/)**
-
-There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.
-
-Ars Technica • 17h ago
-
----
-
 **[OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)**
 
 OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
 
-OpenAI • 13h ago
+OpenAI • 15h ago
 
 ---
 
-**[OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup](https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/)**
+**[AI Avenue keeps growing](https://www.axios.com/local/pittsburgh/2026/07/22/ai-avenue-two-company-headquarters-pittsburgh)**
 
-Reuters • 12h ago
-
----
-
-**[OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’](https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident)**
-
-Firm behind ChatGPT reveals agent powered by its models chose to attack Hugging Face database by itself
-
-The Guardian • 1h ago
+Axios • 1h ago
 
 ---
 
-**[Anthropic pours another $20 million into AI safety group](https://thehill.com/homenews/5982007-anthropic-pours-millions-midterms/)**
+**[Trump administration says 15 agencies will get $5bn in ‘AI for science’ effort](https://www.theguardian.com/us-news/2026/jul/22/trump-science-funding-overhaul-ai)**
 
-The Hill • 59m ago
+Administration will also overhaul how US government funds federal research by supporting individual scientists and AI over universities
 
----
-
-**[The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it](https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html)**
-
-The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.
-
-CNBC • 11h ago
+The Guardian • 5m ago
 
 ---
 
-**[Anthropic doubles funding for AI policy fight ahead of elections](https://www.axios.com/2026/07/22/anthropic-doubles-funding-ai-policy-fight-elections)**
+**[Meta made its own AI detection system. It should have just used Google’s](https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid)**
 
-Axios • 56m ago
+Content Seal has a lot of catching up to do.
+
+The Verge • 56m ago
 
 ---
 
-**[AI Borrowers Are Pushing a Niche Credit Market to Its Limits](https://www.bloomberg.com/news/articles/2026-07-22/ai-borrowers-are-pushing-a-niche-credit-market-to-its-limits?srnd=homepage-americas)**
+**[Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem](https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/)**
 
-Bloomberg.com • 19m ago
+Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.
+
+Fortune • 19h ago
+
+---
+
+**[Trump's push for American-made AI chips hits TSMC's margins](https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html)**
+
+The Taiwan-based chipmaker has announced $200 billion in investment into U.S. manufacturing since Trump returned to power in 2025.
+
+CNBC • 6h ago
+
+---
+
+**[A violent AI unwind is hiding beneath a resilient stock market: Chart of the Day](https://finance.yahoo.com/markets/article/a-violent-ai-unwind-is-hiding-beneath-a-resilient-stock-market-chart-of-the-day-100000350.html)**
+
+Fear has surged in chip stocks while remaining remarkably contained across the broader market.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)**
+
+We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
+
+blog.google • 20h ago
+
+---
+
+**[Wetzel: UM could have run this investigation through AI instead](https://www.espn.com/college-football/story/_/id/49418138/um-run-investigation-ai)**
+
+ESPN • 17h ago
+
+---
+
+**[The AI Bubble Is No Ordinary Bubble](https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/)**
+
+Tech companies need to generate huge revenues fast, or the economy could be in trouble.
+
+The Atlantic • 23h ago
 
 ---
 
@@ -199,7 +205,7 @@ Bloomberg.com • 19m ago
 
 China's open-weights AI strategy is winning: its companies are taking the lead. America's closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.
 
-⬆️ 1221 • 💬 923 • 1d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+⬆️ 1224 • 💬 923 • 1d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
 ---
 
@@ -207,7 +213,7 @@ China's open-weights AI strategy is winning: its companies are taking the lead. 
 
 The sky (and your endurance) is the limit!
 
-⬆️ 841 • 💬 164 • 1d ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 842 • 💬 164 • 2d ago • [Airport Simulator](https://airport.apunen.com/)
 
 ---
 
@@ -223,7 +229,7 @@ A study found that access to AI advice collapsed people's willingness to say "I 
 
 Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows
 
-⬆️ 359 • 💬 252 • 1d ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
+⬆️ 361 • 💬 254 • 1d ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
 
 ---
 
@@ -231,7 +237,7 @@ Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikk
 
 Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
 
-⬆️ 319 • 💬 274 • 16h ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
+⬆️ 332 • 💬 286 • 18h ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
 ---
 
@@ -249,7 +255,7 @@ Over the past 48 hours, demand has pushed close to the limits of our current cap
 
 We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.
 
-⬆️ 240 • 💬 165 • 1d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
+⬆️ 240 • 💬 166 • 1d ago • [unslop](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 
 ---
 
@@ -257,19 +263,19 @@ We scored the full text of 12,750 arXiv papers and found that about a third of n
 
 Which way to the Land of the Free again?
 
-⬆️ 213 • 💬 168 • 1d ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+⬆️ 213 • 💬 168 • 2d ago • [theregister](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
 
 ---
 
 **[AI makes programming differently difficult](https://news.ycombinator.com/item?id=48996197)**
 
-⬆️ 149 • 💬 127 • 15h ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+⬆️ 154 • 💬 129 • 17h ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
 
 ---
 
 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)**
 
-⬆️ 97 • 💬 102 • 1d ago
+⬆️ 98 • 💬 102 • 1d ago
 
 ---
 
@@ -283,7 +289,7 @@ It's all about VALUEMAXXING now! Learn more from Zapier: https://bit.ly/4bW1JB8 
 
 📺 Matthew Berman
 
-👁️ 83K • 👍 3K • 💬 895 • ⏱️ 27:13 • 14h ago
+👁️ 83K • 👍 3K • 💬 895 • ⏱️ 27:13 • 15h ago
 
 ---
 
@@ -303,7 +309,7 @@ An autonomous AI agent hacked Hugging Face from start to finish, executing thous
 
 📺 AI Revolution
 
-👁️ 26K • 👍 1K • 💬 102 • ⏱️ 12:19 • 12h ago
+👁️ 26K • 👍 1K • 💬 102 • ⏱️ 12:19 • 14h ago
 
 ---
 
@@ -313,7 +319,7 @@ MrVoid #FreeAIVideo #AIVideoGenerator #GrokAI #sora #lovart #lovartai Access Lov
 
 📺 Mr Void
 
-👁️ 5K • 👍 190 • 💬 16 • ⏱️ 12:21 • 19h ago
+👁️ 5K • 👍 190 • 💬 16 • ⏱️ 12:21 • 21h ago
 
 ---
 
@@ -323,7 +329,7 @@ ABBA AI Music – ABBA songs created by artificial intelligence, trying to recre
 
 📺 Bobby‘s Brother
 
-👁️ 3K • 👍 209 • 💬 114 • ⏱️ 12:32 • 17h ago
+👁️ 3K • 👍 209 • 💬 114 • ⏱️ 12:32 • 19h ago
 
 ---
 
@@ -343,7 +349,7 @@ Krystal and Saagar discuss China's new breakthrough in AI tech surpassing US com
 
 📺 Breaking Points
 
-👁️ 303K • 👍 9K • 💬 2K • ⏱️ 16:27 • 16h ago
+👁️ 303K • 👍 9K • 💬 2K • ⏱️ 16:27 • 18h ago
 
 ---
 
@@ -363,7 +369,7 @@ John Johnston (JJ) breaks down how SpaceX stock has gone down nearly 50% from th
 
 📺 The John Johnston Lounge
 
-👁️ 20K • 👍 1K • 💬 343 • ⏱️ 19:16 • 22h ago
+👁️ 20K • 👍 1K • 💬 343 • ⏱️ 19:16 • 1d ago
 
 ---
 
@@ -401,7 +407,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,237,351 • ❤️ 2,641 • 23h ago
+⬇️ 2,237,351 • ❤️ 2,641 • 1d ago
 
 ---
 
@@ -461,7 +467,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 3,056 • ❤️ 270 • 11h ago
+⬇️ 3,056 • ❤️ 270 • 13h ago
 
 ---
 
@@ -483,7 +489,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
 
-⬇️ 0 • ❤️ 484 • 18h ago
+⬇️ 0 • ❤️ 484 • 20h ago
 
 ---
 
@@ -653,7 +659,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 239 • 31m ago
+⭐ 3.1k • 🔱 239 • 2h ago
 
 ---
 
@@ -663,7 +669,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 374 • 1h ago
+⭐ 2.7k • 🔱 374 • 2h ago
 
 ---
 
@@ -683,7 +689,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.0k • 🔱 62 • 40m ago
+⭐ 1.0k • 🔱 62 • 2h ago
 
 ---
 
@@ -713,7 +719,7 @@ OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Gr
 
 `Python`
 
-⭐ 953 • 🔱 158 • 22h ago
+⭐ 953 • 🔱 158 • 1d ago
 
 ---
 
@@ -731,7 +737,7 @@ Open Science Desktop — local-first, model-agnostic AI research workbench for m
 
 `TypeScript` `ai-agent` `ai-for-science` `ai-scientist` `ai4s` `claude-science`
 
-⭐ 875 • 🔱 101 • 2h ago
+⭐ 875 • 🔱 101 • 4h ago
 
 ---
 
