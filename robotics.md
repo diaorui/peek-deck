@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-22T18:42:03.374018+00:00'
+updated: '2026-07-22T20:11:39.560465+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 22, 2026 at 18:42 UTC  
+**Last Updated:** July 22, 2026 at 20:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ Hey r/robotics , First time posting here and first time doing a real robotics bu
 
 **[I built a robot for my college graduation cap](https://www.reddit.com/r/robotics/comments/1v1ubb4/i_built_a_robot_for_my_college_graduation_cap/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -140,7 +140,7 @@ TechCrunch • 1d ago
 
 **[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
 
-WSJ • 8h ago
+WSJ • 10h ago
 
 ---
 
@@ -148,7 +148,7 @@ WSJ • 8h ago
 
 Ukraine's battlefield surge of robots now features airdrops and beach assaults.
 
-Ars Technica • 7h ago
+Ars Technica • 8h ago
 
 ---
 
@@ -156,7 +156,7 @@ Ars Technica • 7h ago
 
 Google and Nvidia are partnering with German data-robotics startup Microagi to provide computing power to train and deploy humanoids in factories.
 
-Semafor • 10h ago
+Semafor • 12h ago
 
 ---
 
@@ -168,17 +168,19 @@ CNBC • 1d ago
 
 ---
 
-**[Banks Wrap Up Loan Backing SoftBank’s $5.4 Billion Robotics Bet](https://www.bloomberg.com/news/articles/2026-07-21/banks-wrap-up-loan-backing-softbank-s-5-4-billion-robotics-bet)**
-
-Bloomberg.com • 21h ago
-
----
-
 **[Robotics developer Vicarious Surgical shuts down to liquidate assets](https://www.massdevice.com/robotics-developer-vicarious-surgical-shuts-down-to-liquidate-assets/)**
 
 Vicarious Surgical investors voted to close the struggling surgical robotics developer and sell off its assets.
 
-MassDevice • 18h ago
+MassDevice • 20h ago
+
+---
+
+**[China's Unitree says 'GPT moment' for robots remains years away](https://asia.nikkei.com/spotlight/nikkei-forum/global-digital-summit/global-digital-summit-2026/china-s-unitree-says-gpt-moment-for-robots-remains-years-away)**
+
+Humanoid leader to put almost half of IPO proceeds into embodied AI research
+
+Nikkei Asia • 15h ago
 
 ---
 
@@ -186,23 +188,33 @@ MassDevice • 18h ago
 
 ## YouTube Videos: "robotics"
 
+**[Robots Fight for $1M Prize in China&#39;s First Robot MMA League](https://www.youtube.com/watch?v=5IMU5or-VFo)**
+
+The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
+
+📺 Chris Wabs
+
+👁️ 285K • 👍 6K • 💬 3K • ⏱️ 11:15 • 5d ago
+
+---
+
+**[This SHOCKED me in Chengdu, China!](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
+
+America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
+
+📺 Living in China
+
+👁️ 18K • 👍 1K • 💬 94 • ⏱️ 12:28 • 1d ago
+
+---
+
 **[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
 
 China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
 
 📺 RedTech Insights
 
-👁️ 17K • 👍 355 • 💬 25 • ⏱️ 19:31 • 2d ago
-
----
-
-**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
-
-Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
-
-📺 Joanna Stern
-
-👁️ 84K • 👍 3K • 💬 267 • ⏱️ 12:02 • 6d ago
+👁️ 18K • 👍 370 • 💬 28 • ⏱️ 19:31 • 2d ago
 
 ---
 
@@ -212,7 +224,17 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 21K • 👍 143 • 💬 51 • ⏱️ 0:27 • 5d ago
+👁️ 21K • 👍 144 • 💬 51 • ⏱️ 0:27 • 5d ago
+
+---
+
+**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
+
+Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
+
+📺 Joanna Stern
+
+👁️ 85K • 👍 3K • 💬 269 • ⏱️ 12:02 • 6d ago
 
 ---
 
@@ -226,23 +248,23 @@ This is Beni and he is an all-terrain camera robot that can lock on to you and f
 
 ---
 
-**[This SHOCKED me in Chengdu, China!](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
-
-America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
-
-📺 Living in China
-
-👁️ 17K • 👍 1K • 💬 89 • ⏱️ 12:28 • 1d ago
-
----
-
 **[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
 
 America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 34K • 👍 1K • 💬 91 • ⏱️ 14:37 • 4d ago
+👁️ 34K • 👍 1K • 💬 92 • ⏱️ 14:37 • 4d ago
+
+---
+
+**[Xiaomi AI Robot 02 Drops New Autonomous Bombshell (X1 HUMANOID)](https://www.youtube.com/watch?v=lLMYgOFgGmM)**
+
+Earn $100s/hr discussing your expertise with AI as referred by AI News: https://t.mercor.com/x1Eve or ...
+
+📺 AI News
+
+👁️ 9K • 👍 225 • 💬 29 • ⏱️ 8:04 • 6d ago
 
 ---
 
@@ -262,27 +284,7 @@ What if a robot could look you in the eyes. smile. and hold a conversation just 
 
 📺 Dark Narr
 
-👁️ 3K • 👍 106 • 💬 8 • ⏱️ 0:44 • 8h ago
-
----
-
-**[Do robots need to look like humans? - Asia Specific podcast, BBC World Service](https://www.youtube.com/watch?v=8jXScBvrEJ0)**
-
-Humanoid robots are suddenly everywhere - dancing, boxing, running marathons and even attempting surgery. China leads the ...
-
-📺 BBC World Service
-
-👁️ 7K • 👍 172 • 💬 32 • ⏱️ 18:15 • 19h ago
-
----
-
-**[Intense Human Size Robot MMA Fight League Debuts in China As Robots Battle for $1M Prize](https://www.youtube.com/watch?v=5IMU5or-VFo)**
-
-The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
-
-📺 Chris Wabs
-
-👁️ 279K • 👍 6K • 💬 2K • ⏱️ 11:15 • 5d ago
+👁️ 5K • 👍 138 • 💬 9 • ⏱️ 0:44 • 9h ago
 
 ---
 

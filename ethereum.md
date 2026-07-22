@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-22T18:42:03.370668+00:00'
+updated: '2026-07-22T20:11:39.557160+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 18:42 UTC  
+**Last Updated:** July 22, 2026 at 20:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,949.27
+### $1,926.36
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +3.2%  
-**30d:** +15.4%  
-**90d:** -16.9%  
-**1y:** -46.9%  
+**24h:** +0.1%  
+**7d:** +3.3%  
+**30d:** +15.6%  
+**90d:** -16.8%  
+**1y:** -46.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $234.44B
+**Market Cap:** $232.34B
 Rank #2
 
 **Circulating Supply:** 120,682,776 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.7%
+-61.1%
 
 **All-Time Low:** $0.43
-+448529.1%
++444542.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 19h ago
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 21h ago
 
 ---
 
@@ -146,11 +146,19 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Wednesday, July 22, 2026: Both cryptos open higher before losing steam](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-22-2026-both-cryptos-open-higher-before-losing-steam-153454067.html)**
+**[Is AI Money Rotating Into Ethereum? Tom Lee Cites 72% Outperformance](https://finance.yahoo.com/markets/crypto/articles/ai-money-rotating-ethereum-tom-220000669.html)**
 
-Bitcoin (BTC-USD) opened at $66,508.87 on Wednesday, July 22, 2026, 2% higher than Tuesday's opening price. Ethereum (ETH-USD) opened at $1,928.62, up 1.3% from Tuesday's opening price.
+Tom Lee cites ETH's 72% relative outperformance vs the DRAM ETF as AI money rotating into Ethereum. Rotation or reset?
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares](https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares)**
+
+Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
+
+The Block • 2d ago
 
 ---
 
@@ -162,11 +170,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares](https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares)**
+**[Current price of Ethereum for July 22, 2026](https://fortune.com/article/price-of-ethereum-07-22-2026/)**
 
-Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Block • 2d ago
+Fortune • 4h ago
 
 ---
 
@@ -182,13 +190,7 @@ TradingView • 1d ago
 
 ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
 
-markets.businessinsider.com • 21h ago
-
----
-
-**[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
-
-thestreet.com • 1h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -196,15 +198,13 @@ thestreet.com • 1h ago
 
 Bitcoin (BTC) trades elevated above $66,000 immediate support on Wednesday, following a minor correction from its weekly high of $66,956.
 
-FXStreet • 7h ago
+FXStreet • 9h ago
 
 ---
 
-**[Current price of Ethereum for July 22, 2026](https://fortune.com/article/price-of-ethereum-07-22-2026/)**
+**[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
+thestreet.com • 2h ago
 
 ---
 
@@ -212,15 +212,15 @@ Fortune • 4h ago
 
 Ethereum's validator exit queue has dropped to zero while 2.48M ETH awaits entry into staking, signaling strong holder conviction and reduced
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
-**[How 40.8M staked ETH could strengthen Ethereum’s edge over Bitcoin](https://ambcrypto.com/how-40-8m-staked-eth-could-strengthen-ethereums-edge-over-bitcoin/)**
+**[BitMine gets 98% of revenue from staking as a decade-long contract complicates an early exit](https://cryptoslate.com/bitmine-gets-98-of-revenue-from-staking-as-a-decade-long-contract-complicates-an-early-exit/)**
 
-Whales are accumulating ETH, but staking and DeFi flows tell a bigger story.
+Ethereum Tower can keep its 2% interest and may elect continuing fees or a formula-based payment after a covered termination.
 
-AMBCrypto • 1d ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -234,7 +234,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 321 • 💬 111 • ⏱️ 10:38 • 4h ago
+👁️ 6K • 👍 408 • 💬 134 • ⏱️ 10:38 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 361 • 💬 65 • ⏱️ 19:54 • 1d ago
+👁️ 14K • 👍 382 • 💬 68 • ⏱️ 19:54 • 1d ago
 
 ---
 
@@ -264,7 +264,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 174 • 💬 46 • ⏱️ 17:49 • 1d ago
+👁️ 4K • 👍 181 • 💬 46 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 13K • 👍 613 • 💬 59 • ⏱️ 11:56 • 2d ago
+👁️ 13K • 👍 614 • 💬 59 • ⏱️ 11:56 • 2d ago
 
 ---
 
@@ -284,7 +284,7 @@ Aaron Dishner walks through Ethereum's recent price action, noting last week's r
 
 📺 Coin Bureau Trading
 
-👁️ 5K • 👍 358 • 💬 31 • ⏱️ 16:28 • 1d ago
+👁️ 5K • 👍 362 • 💬 32 • ⏱️ 16:28 • 1d ago
 
 ---
 
@@ -294,7 +294,7 @@ In this video I break down the current Ethereum price action and the specific te
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 194 • 💬 7 • ⏱️ 8:34 • 19h ago
+👁️ 4K • 👍 199 • 💬 9 • ⏱️ 8:34 • 21h ago
 
 ---
 
@@ -304,27 +304,27 @@ Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and E
 
 📺 Benjamin Cowen
 
-👁️ 91K • 👍 5K • 💬 228 • ⏱️ 17:58 • 2d ago
+👁️ 92K • 👍 5K • 💬 230 • ⏱️ 17:58 • 2d ago
 
 ---
 
-**[Regulation &amp; Safety Trends to Monitor in Bitcoin, Ethereum](https://www.youtube.com/watch?v=ektYv-CR0EQ)**
+**[INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? COINBASE VS ROBINHOOD](https://www.youtube.com/watch?v=kwrSjpnP3lI)**
 
-Datavault AI (DVLT) CEO Nathaniel Bradley evaluates the latest moves in Bitcoin and Ethereum. He discusses the latest on the ...
+INSANE Ethereum Comeback! Trillions to Pour In! Are you Prepared? 00:00 HI BABES 00:07 ETHEREUM COMBACK ...
 
-📺 Schwab Network
+📺 CryptoWendyO
 
-👁️ 2K • 👍 32 • 💬 1 • ⏱️ 5:46 • 22h ago
+👁️ 3K • 👍 192 • 💬 25 • ⏱️ 11:23 • 2d ago
 
 ---
 
-**[The Ethereum Bitcoin Chart Just Flashed A Rare Buy Signal](https://www.youtube.com/watch?v=J6JrVL-_YWk)**
+**[Why Ethereum’s Institutional Supercycle Is Already Here | Joseph Chalom, Sharplink](https://www.youtube.com/watch?v=FcaUCHhKdDs)**
 
-The Ethereum Bitcoin ratio just printed a weekly MACD bull cross. The last time this happened the ratio surged 132 percent.
+On today's Talking Tokens, Jacquelyn sits down with Joseph Chalom, CEO of Sharplink to talk about why he and a group of ...
 
-📺 Lark Davis
+📺 Talking Tokens Podcast
 
-👁️ 5K • 👍 111 • 💬 9 • ⏱️ 0:40 • 1d ago
+👁️ 4K • 👍 136 • 💬 25 • ⏱️ 30:37 • 1d ago
 
 ---
 
