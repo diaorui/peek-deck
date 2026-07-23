@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-23T04:51:32.109497+00:00'
+updated: '2026-07-23T07:33:30.694284+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 23, 2026 at 04:51 UTC  
+**Last Updated:** July 23, 2026 at 07:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,75 +32,81 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device](https://www.reddit.com/r/robotics/comments/1v2by9l/nvidia_releases_cosmos_3_edge_a_4bparameter_open/)**
+**[Built this 6DOF using aluminum angles and acrylic plates.](https://www.reddit.com/r/robotics/comments/1v45ity/built_this_6dof_using_aluminum_angles_and_acrylic/)**
+
+Built this 6dof with parts bought from local hardware store. Lot of loose parts now, needs fine tune or redo. Plan is to create mobile arm. Waiting for wheels and step motor. Controlled by raspberry pi.
+
+1h ago
+
+---
+
+**[What Finally Helped Me Understand Inverse Kinematics After Building a 6-Axis Robot Arm](https://www.reddit.com/r/robotics/comments/1v3907d/what_finally_helped_me_understand_inverse/)**
+
+I spent the last year building a 6-axis desktop robot arm from scratch, and inverse kinematics was the hardest concept for me to internalize. Here’s what finally helped. Forward kinematics felt relatively straightforward. Given the joint angles, I could compute the end-effector pose by chaining homogeneous transformation matrices using a consistent frame convention. Denavit–Hartenberg parameters made the process systematic, and I had the basic idea working within a weekend. Inverse kinematics was much harder. Given a desired end-effector pose, which joint configurations reach it? There may be multiple solutions, or none at all. The elbow-up vs. elbow-down configurations alone took me days to understand and debug. Three things finally made it click: Build geometric intuition before deriving equations.​ I watched each joint move independently in a 3D simulator. In my arm, joint 1 mainly changes the base azimuth, while joints 2 and 3 determine the reach in a radial-height plane. Because the arm uses a conventional wrist structure, joints 4–6 mainly control orientation. Seeing the workspace gave the equations a physical meaning. Start with a 2-DOF planar arm.​ Forget the 6-axis arm for a week. A simple 2-link arm makes the cosine-law derivation and the elbow-up/elbow-down solutions easy to visualize. Then add a third link while explicitly accounting for end-effector orientation, and add more joints one at a time. Numerical methods aren’t cheating.​ I implemented a small Jacobian-based solver in Python. It worked surprisingly well, although it still depended on the initial guess and could struggle near singularities or unreachable targets. My biggest mistake was trying to derive closed-form IK equations before understanding the workspace geometry. If you can’t visualize where the arm can reach, the equations feel almost meaningless. What approach worked for you when learning IK? Did you start with analytical methods, numerical methods, or a combination of both?
 
 1d ago
 
 ---
 
-**[Rice in the hole](https://www.reddit.com/r/robotics/comments/1v2ozan/rice_in_the_hole/)**
+**[Built my first robot](https://www.reddit.com/r/robotics/comments/1v3kseq/built_my_first_robot/)**
 
-Recording some data, and here’s one lesson I learned the hard way: limit your gripper torque to the minimum you need during teleoperation, plastic parts break 🤭
+Built my first robot still have a lot to learn. Open to any advice on how to improve look of wires. When I built this, I lost two of the baby screws for the knee of the robot so it topples over in the middle of its dance. But it was fun to build and I learned a lot. Also, open to any ideas on other kits or sites where I can create more stuff myself following tutorials and things like that
 
-1d ago
-
----
-
-**[🚀 Built a Web Dashboard to Control a ROS 2 Robot in Simulation](https://www.reddit.com/r/robotics/comments/1v2hgv0/built_a_web_dashboard_to_control_a_ros_2_robot_in/)**
-
-I've been learning ROS 2 by building projects instead of just following tutorials. In this demo, I created a web dashboard that communicates with ROS 2 through rosbridge, allowing me to control the TurtleBot directly from the browser. Features implemented: 🌐 Browser-based robot control 🔗 React frontend connected to ROS 2 📡 Real-time communication using rosbridge 🎮 Teleoperation from the web dashboard 🤖 Live control of the TurtleBot in simulation This is one step toward my goal of building a complete robotics dashboard with: Live camera streaming LiDAR visualization Interactive map Autonomous navigation Robot monitoring I'd love your feedback! What features would you add to a robotics web dashboard? #ROS2 #RobotWebTools #ReactJS #Robotics #TurtleBot3 #Gazebo #RViz #WebDevelopment #OpenSource #LearningInPublic
-
-1d ago
+15h ago
 
 ---
 
-**[Robotics researchers are building systems they don’t fully understand yet](https://www.reddit.com/r/robotics/comments/1v2fa1p/robotics_researchers_are_building_systems_they/)**
+**[I built a free interactive robotics learning platform with browser-based simulators. I'd love feedback from the robotics community.](https://www.reddit.com/r/robotics/comments/1v44ws7/i_built_a_free_interactive_robotics_learning/)**
 
-Russ Tedrake, MIT professor and former VP of Robotics Research at Toyota Research Institute, explains why recent progress in robot learning has been surprising. He says locomotion improved quickly because simulation, domain randomization, GPU infrastructure and reinforcement learning started working together. With enough randomized conditions in simulation, robots learned policies that transferred to real stairs, bumps and uneven terrain better than many researchers expected. The results moved ahead of the theory. Tedrake says machine learning is producing systems that work empirically before researchers can fully explain why they work. He compares the change to a move from first-principles engineering toward behavioral science: build the system, observe what it does, then test it to understand what happened. Full ep: https://www.youtube.com/watch?v=c8mQKkuEmiI&t=27s
-
-1d ago
+1h ago
 
 ---
 
-**[What do you think of ton-class robotic horses?](https://www.reddit.com/r/robotics/comments/1v1fvzm/what_do_you_think_of_tonclass_robotic_horses/)**
+**[Humanoid robots are entering factories, but manufacturers still care more about reliability than form factor](https://www.reddit.com/r/robotics/comments/1v3ige8/humanoid_robots_are_entering_factories_but/)**
 
-Four-legged robots can reach many places that wheeled vehicles cannot. Isn’t it a bit of a waste to treat them as mere means of transportation when they can carry loads weighing several metric tons? Their current speed is still a bit too slow—is this due to safety restrictions, or are the hardware limitations—such as the motors and batteries—preventing them from going faster?
+Most humanoid robots in factories are still being tested in pilot programs, and many are only reaching 20% to 50% effectiveness. A3 President Jeff Burnstein told Forbes that manufacturers are not focused on whether a robot looks human. They want systems that are reliable, affordable and safe. Safety remains a major barrier because there is no dedicated humanoid robot safety standard yet, and most systems currently operate behind fences or away from workers. Burnstein expects humanoids to find roles in factories, warehouses and logistics, but alongside traditional industrial robots, mobile robots and collaborative arms rather than replacing them. The article also covers labor shortages, manufacturing competitiveness and the growing robotics gap between the U.S. and China.
 
-2d ago
-
----
-
-**[[Project ZeeBot] Built a cheap offline AAC companion robot for my non verbal autistic son. Need hardware and DFM advice](https://www.reddit.com/r/robotics/comments/1v2ok8n/project_zeebot_built_a_cheap_offline_aac/)**
-
-Hey r/robotics , First time posting here and first time doing a real robotics build, so go easy on me. My son turns 4 in August and he's non verbal autistic. I originally built a tablet app for him to communicate, but when you give a 3 year old a tablet they just think it's game time. So I decided to try making a dedicated physical companion that actually looks at him when he talks to it. I put together this bench prototype and honestly was surprised by how much he responded to it. He's actually using the cards, learning the words, and tracking the head movements. My goal eventually is to get something like this into other parents hands for under 200 quid or so. It runs 100% offline too, so no cloud fees or privacy issues. I have the software side mostly sorted out now, but I need advice on taking it from 3D printed parts and breadboards to something safe and manufacturable. Quick overview of what's under the hood: It runs on a Pi 5 with a Flutter web interface and a Python FastAPI backend for offline Piper TTS. Vision is an IMX708 camera on a pan tilt mount using YuNet ONNX for face tracking. Motor control is offloaded to a Waveshare ESP32 driving two ST3215 serial servos. Had to write some EMA filtering to stop the servos from shaking. Enclosure is currently drafted in OpenSCAD. A few big questions I'm trying to figure out: Screen placement and wobble. Right now the 7 inch touchscreen is on the head. Tapping it makes the whole neck wobble. Do I keep the screen on the head so it looks at him when speaking, or move the heavy touch screen to the base and just use little ESP matrix screens for eyes on the head? Making it expressive without pinch hazards. I want ears/antennas or arms to show emotion, but small kids put their hands everywhere. Are servo driven ears safe enough or a bad idea? (Skipping wheels so it doesn't drive off tables). Taking an OpenSCAD 3D print to injection molding. What should I prepare for if I want to get low volume plastic shells made? Also any good Shenzhen turnkey PCBA suppliers you guys recommend to replace the Pi and ESP dev boards down the line? I'm setting up a Discord to organize the hardware side and get feedback from speech OTs. Let me know if you want an invite and I'll send it over. Video shows the offline AAC sentence builder and tracking working, plus a concept render at the end of what I want the shell to look like.
-
-1d ago
+🔗 [Forbes](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/) • 16h ago
 
 ---
 
-**[I built a robot for my college graduation cap](https://www.reddit.com/r/robotics/comments/1v1ubb4/i_built_a_robot_for_my_college_graduation_cap/)**
+**[I turned a smartphone into a mobile robot. Here's my latest prototype.](https://www.reddit.com/r/robotics/comments/1v3i1t7/i_turned_a_smartphone_into_a_mobile_robot_heres/)**
 
-2d ago
+Hi everyone! I've been building a small mobile robot that uses a smartphone as its onboard computer. The phone handles the camera, networking and user interface, while an Arduino controls the motors and peripherals. Current features: 📱 Smartphone onboard 🌐 Browser-based remote control 🎥 Live video 💡 LED lighting 🚨 Experimental security mode 🤖 BLE Follow Me (in progress) This video shows one of today's prototype tests. Some things worked, some didn't... and some moments were just funny. 😄 That's real robotics development. The next version will focus on: quieter drivetrain, better cable management, docking station, modular accessories. I'd really appreciate your feedback and ideas for V2. Two smartphones. One drives. One controls.
 
----
-
-**[The World’s First Monowheel Robot: How It Solved the Stability Paradox](https://www.reddit.com/r/robotics/comments/1v1o7ek/the_worlds_first_monowheel_robot_how_it_solved/)**
-
-2d ago
+16h ago
 
 ---
 
-**[A tiny pub/sub library that works over Ethernet and CAN](https://www.reddit.com/r/robotics/comments/1v2jdjb/a_tiny_pubsub_library_that_works_over_ethernet/)**
+**[3D DTOF LIDAR HM-LD1 for UAV Obstacle Avoidance](https://www.reddit.com/r/robotics/comments/1v3i7if/3d_dtof_lidar_hmld1_for_uav_obstacle_avoidance/)**
 
-1d ago
+I got HM-LD1 working for obstacle avoidance. and l will open-source once code is ready.my drone drifts backward slightly after I release the sticks.Anyone else seen this?
+
+16h ago
 
 ---
 
-**[Need ideas for OpenCV lane following on an Ackermann steering mini car](https://www.reddit.com/r/robotics/comments/1v2ekds/need_ideas_for_opencv_lane_following_on_an/)**
+**[Why existing robotic hands could not be used for tactile sign language](https://www.reddit.com/r/robotics/comments/1v3ewzu/why_existing_robotic_hands_could_not_be_used_for/)**
 
-I’m working on a mini self-driving car project with Ackermann steering. The car has to follow a lane with boundary lines on both sides, stay centered, and handle both straight and curved sections like a small F1-style track. I plan to use OpenCV + a webcam for lane detection and then control the steering based on the detected lane center. I’m looking for ideas on lane detection methods, steering control, and how to make it robust on curves and under different lighting conditions
+Tatum Robotics originally expected to adapt an existing robotic hand for DeafBlind users. The problem was that American Sign Language requires precise finger positioning, while many standard robotic hands rely on rigid linkages that can create pinch points. That does not work when a person needs to hold the hand directly to receive tactile signing. The team instead developed a compliant, tendon-driven hand with additional degrees of freedom. DeafBlind users can place their hand on the robot and receive letters through movements designed to closely match a human hand.
 
-1d ago
+18h ago
+
+---
+
+**[I got an old Puma 500. Any advice for building your own DC motor servo drives?](https://www.reddit.com/r/robotics/comments/1v3z1c2/i_got_an_old_puma_500_any_advice_for_building/)**
+
+A while back I bought an old Unimate Puma 500 arm. It had no controller. I've since cleaned it, regreased it, serviced the motors, replaced the brake pads, machined repair parts, adjusted the bearings, and replaced the wiring loom & hoses. It's now mechanically as complete as I can get it. The Puma 500 uses six 24v brushed DC motors, which I *think* are 40 and 150w, but there's no datasheets on these old custom made motors. Each motor has a 24v magnetic brake with cork brake pads. And on the back of that there's the motor sensor, which is a 500ppr rotary optical encoder (with index) and an absolute laser-trimmed potentionmeter on a delicate reduction gearbox. Each sensor seems to be functioning fine, but testing them with an Arduino Every using hardware interupts, there is some jitter(?) on the optical encoder meaning the output per revolution varies up and down by a couple of points. The only electronics inside the optical encoder is a quad-comparator and some trimpots. They all seem quite clean. I know the Puma used an analogue servo amplifier system, but there's no circuit diagrams for them that I can find anyway. So making a bespoke digital system is what I expect. Does anyone have any advice for reducing the jitter, or otherwise connecting them to modern PID/motion-control systems/designs? Whether that's aditional filtering electronics, software compenation, comparison with the absolute encoder, or something I haven't considered. I had intended to run them into a pair of Arduino Everys in groups of three plus a 14-bit ADC for the pots then feed them out by RS-485. But the jitter, and the number of inputs (and the potentially high number of interupts per second) meaning high odds of misreads from overlapping interupts means I want to scrap this plan unless I want to run it a single axis at a time.
+
+6h ago
+
+---
+
+**[Do you have a robot? (eu)](https://www.reddit.com/r/robotics/comments/1v3lk4n/do_you_have_a_robot_eu/)**
+
+Hey guys. I am building a platform where you can have virtual rooms and I am currently looking for people who have skills in robotics. Virtual room allows connections to remote real world devices. I need to find a person who can build or rent me a robot in EU (I am from Finland) or has a robot SaaS and needs to scale operations beyond 10+ robots. Pilot Specs: - Can drive 5-30km on one charge and can carry around a 1-4 kg payload. - or/ a boat robot with a bit similar specs. - can be drone too. I have this idea where you could overlook and control 100+ robots from a single virtual room. So, if there are like-minded people or this resonates then let me know.
+
+14h ago
 
 ---
 
@@ -110,7 +116,13 @@ I’m working on a mini self-driving car project with Ackermann steering. The ca
 
 **[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
 
-Axios • 5h ago
+Axios • 8h ago
+
+---
+
+**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -118,13 +130,7 @@ Axios • 5h ago
 
 Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
 
-CNBC • 1d ago
-
----
-
-**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
-
-Reuters • 2d ago
+CNBC • 2d ago
 
 ---
 
@@ -140,7 +146,7 @@ Engadget • 1d ago
 
 Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
 
-The Guardian • 7h ago
+The Guardian • 10h ago
 
 ---
 
@@ -148,7 +154,15 @@ The Guardian • 7h ago
 
 Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
 
-TechCrunch • 10h ago
+TechCrunch • 12h ago
+
+---
+
+**[Northrop Grumman’s Mission Robotic Vehicle Launches, Ushering in a New Era of In‑Space Servicing](https://news.northropgrumman.com/launch/northrop-grummans-mission-robotic-vehicle-launches-ushering-in-a-new-era-of-in-space-servicing)**
+
+CAPE CANAVERAL, Fla. – July 22, 2026 – Northrop Grumman’s Mission Robotic Vehicle and three Mission Extension Pods launched successfully, enhancing the resilience, mobility and sustainability of our nation’s assets in space.
+
+Northrop Grumman • 21h ago
 
 ---
 
@@ -156,13 +170,13 @@ TechCrunch • 10h ago
 
 Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic
 
-NASA (.gov) • 10h ago
+NASA (.gov) • 13h ago
 
 ---
 
 **[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
 
-WSJ • 19h ago
+WSJ • 21h ago
 
 ---
 
@@ -170,15 +184,7 @@ WSJ • 19h ago
 
 Ukraine's battlefield surge of robots now features airdrops and beach assaults.
 
-Ars Technica • 17h ago
-
----
-
-**[Robotics developer Vicarious Surgical shuts down to liquidate assets](https://www.massdevice.com/robotics-developer-vicarious-surgical-shuts-down-to-liquidate-assets/)**
-
-Vicarious Surgical investors voted to close the struggling surgical robotics developer and sell off its assets.
-
-MassDevice • 1d ago
+Ars Technica • 20h ago
 
 ---
 
@@ -192,7 +198,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 25K • 👍 2K • 💬 102 • ⏱️ 12:28 • 1d ago
+👁️ 26K • 👍 2K • 💬 102 • ⏱️ 12:28 • 1d ago
 
 ---
 
@@ -202,7 +208,17 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 25K • 👍 724 • 💬 105 • ⏱️ 13:15 • 4d ago
+👁️ 25K • 👍 725 • 💬 105 • ⏱️ 13:15 • 4d ago
+
+---
+
+**[Real-Time Omni-Modal Interaction Driven Whole-Body Mobile Manipulation](https://www.youtube.com/watch?v=IiNbFPOUrz8)**
+
+Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wellness tasks, with omni-modal interactive ...
+
+📺 Unitree Robotics
+
+👁️ 1.8M • 👍 2K • 💬 367 • ⏱️ 2:15 • 2d ago
 
 ---
 
@@ -212,7 +228,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 43K • 👍 468 • 💬 177 • ⏱️ 4:18 • 4d ago
+👁️ 43K • 👍 472 • 💬 178 • ⏱️ 4:18 • 4d ago
 
 ---
 
@@ -232,17 +248,7 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 21K • 👍 144 • 💬 51 • ⏱️ 0:27 • 5d ago
-
----
-
-**[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
-
-China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
-
-📺 RedTech Insights
-
-👁️ 19K • 👍 390 • 💬 29 • ⏱️ 19:31 • 2d ago
+👁️ 22K • 👍 145 • 💬 51 • ⏱️ 0:27 • 5d ago
 
 ---
 
@@ -252,7 +258,17 @@ The future of combat sports has arrived! Witness the high-stakes action as the R
 
 📺 Chris Wabs
 
-👁️ 299K • 👍 7K • 💬 3K • ⏱️ 11:15 • 5d ago
+👁️ 304K • 👍 7K • 💬 3K • ⏱️ 11:15 • 6d ago
+
+---
+
+**[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
+
+China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
+
+📺 RedTech Insights
+
+👁️ 19K • 👍 398 • 💬 31 • ⏱️ 19:31 • 2d ago
 
 ---
 
@@ -273,16 +289,6 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 📺 S3 | Science, Startups, & Stories
 
 👁️ 35K • 👍 1K • 💬 93 • ⏱️ 14:37 • 4d ago
-
----
-
-**[Xiaomi AI Robot 02 Drops New Autonomous Bombshell (X1 HUMANOID)](https://www.youtube.com/watch?v=lLMYgOFgGmM)**
-
-Earn $100s/hr discussing your expertise with AI as referred by AI News: https://t.mercor.com/x1Eve or ...
-
-📺 AI News
-
-👁️ 9K • 👍 226 • 💬 29 • ⏱️ 8:04 • 6d ago
 
 ---
 

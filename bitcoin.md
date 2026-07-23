@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-23T04:51:32.101251+00:00'
+updated: '2026-07-23T07:33:30.688915+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 04:51 UTC  
+**Last Updated:** July 23, 2026 at 07:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +2.7%  
-**30d:** +7.5%  
-**90d:** -15.4%  
-**1y:** -44.5%  
+**24h:** -0.8%  
+**7d:** +2.3%  
+**30d:** +7.2%  
+**90d:** -15.7%  
+**1y:** -44.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1316.73B
+**Market Cap:** $1311.86B
 Rank #1
 
-**Circulating Supply:** 20,060,003 BTC
+**Circulating Supply:** 20,060,062 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--47.9%
+-48.1%
 
 **All-Time Low:** $67.81
-+96685.1%
++96357.7%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Passed by the State Duma yesterday (July 21). Not a rumor, not someone's translation of a Telegram post, the actual bill. Here's what's in it: New licensing registry for exchanges, custodians, and brokers. Existing platforms get roughly a year to register. Retail investors can buy the most liquid crypto assets (bitcoin is the obvious flagship candidate, the report doesn't name the full list) through a registered intermediary, after passing a knowledge test. Cap for retail: 300,000 rubles (~$3,900) per year, per intermediary. Qualified investors also have to pass a test, but face no purchase cap. Prior trading history can count toward qualifying. Owning ≠ spending. This bill legalizes buying and holding bitcoin, it does not legalize using it as money. Paying for groceries in bitcoin is still banned domestically, so the ruble keeps its monopoly on everyday transactions. Carve-outs: foreign-trade settlement, mined crypto, and some securities transactions are exempt from that ban. Banks are required to block transfers to anyone they suspect of running an unregistered exchange. Timeline: first reading was back in April. Most provisions are set to take effect Sept. 1. It still needs to clear the Federation Council and get signed into law, expected, but not done yet. The part worth sitting with: a government that's spent years treating bitcoin as a threat to its monetary sovereignty just built a formal, licensed path for its own citizens to buy it. Gated by an exam and a spending cap, but a path. That's the move a state eventually makes once it accepts it can't kill the protocol, it regulates the door instead. Source: The Block / The Bitcoin Act I track moves like this across dozens of jurisdictions, if anyone wants the source link or a country-by-country comparison, ask below and I'll drop it. Genuine question for the sub: does "exam + cap to start, uncapped once you qualify" count as a country actually opening the door to bitcoin, or is it just a more polite capital control? Where's the line for you?
 
-19h ago
+21h ago
 
 ---
 
@@ -95,7 +95,7 @@ Passed by the State Duma yesterday (July 21). Not a rumor, not someone's transla
 
 I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
 
-22h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ The Matrix is a system Neo, and that system, is our enemy... I just bought bitco
 
 There was a time when I honestly had no idea what to do next. I lost the job I had been at for 5 years. The first few days were a complete shock. The only thoughts in my head were: "What now? What am I supposed to do?" The hardest part wasn't even losing the job. The hardest part was feeling completely lost. It felt like everyone around me was moving forward while I was stuck in the same place. Honestly, if it wasn't for my family, it would have been much harder. Instead of blaming me, they simply said, "We'll figure it out." That support gave me the strength not to give up. After a while, I realized there was no point in sitting around waiting. I started looking for different ways to make money. I watched videos, tried different things, made mistakes, and wasted time. Then one day I accidentally came across crypto testnets. At first, I had absolutely no idea what I was doing. But little by little, I started figuring things out. And honestly, it wasn't even about crypto. For the first time in a long time, I felt like I was in control of my life again. Small steps, but moving forward. If you're interested in how crypto testnets work, I already have a post about them. If you can't find the information you're looking for online, feel free to message me. If I can help, I'd be happy to. And just to be clear, I'm not selling anything. I'm sharing this because I know what it's like to be in a place where it feels like there's no way out. If you're going through a tough period right now, just know that it won't last forever. I'm genuinely curious. Have you ever had a moment when life suddenly didn't go according to plan? What helped you get through it?
 
-18h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ There was a time when I honestly had no idea what to do next. I lost the job I h
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-22h ago
+1d ago
 
 ---
 
@@ -157,7 +157,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The electric vehicle maker maintained its 11,509 BTC treasury through the second quarter as bitcoin declined 14%, alongside mixed earnings that beat revenue expectations but missed on profit.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -169,25 +169,25 @@ The Boston Globe • 1d ago
 
 ---
 
-**[Bankers Are Doing Grown-Up Stuff With Crypto Now](https://www.bloomberg.com/opinion/articles/2026-07-23/beyond-bitcoin-bankers-are-doing-grown-up-stuff-with-blockchain-now)**
+**[Bitcoin & XRP Fall as Yemen’s Houthis Strike Saudi Tankers in Red Sea amid US-Iran War](https://finance.yahoo.com/markets/crypto/articles/bitcoin-xrp-fall-yemen-houthis-051633697.html)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Jim Cramer Eyes Ex-Bitcoin Miner’s AI Power Pivot as Hedge Fund Bets Big](https://finance.yahoo.com/technology/ai/articles/jim-cramer-eyes-ex-bitcoin-020429740.html)**
-
-Jim Cramer highlights a hedge fund's stake in ex-Bitcoin miner Keel Infrastructure as it pivots to AI data centers.
+Yemen’s Houthis attacked Saudi oil tankers in the Red Sea and intercepted multiple commercial vessels amid escalating US-Iran war. Oil prices have climbed further due to disruptions in the Red Sea and the Strait of Hormuz, causing Bitcoin and XRP to pare gains. Ad Ad Yemen’s Iran-Aligned Houthis Disrupt Oil Supply in Red Sea Yemen’s
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Polymarket Bets on Bitcoin's July 2026 Trajectory](https://www.startuphub.ai/ai-news/prediction-markets/2026/polymarket-bets-on-bitcoin-s-july-2026-trajectory)**
+**[Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart](https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart)**
 
-Polymarket's prediction markets show significant activity around Bitcoin's price trajectory for July 2026, with a key focus on the $67.5k mark.
+The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-StartupHub.ai • 2h ago
+CoinDesk • 48m ago
+
+---
+
+**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
+
+Bloomberg.com • 22h ago
 
 ---
 
@@ -195,7 +195,21 @@ StartupHub.ai • 2h ago
 
 The 'Fast Money' traders talk the recent downturn in crypto.
 
-CNBC • 6h ago
+CNBC • 9h ago
+
+---
+
+**[Nasdaq-listed Zhibao Technology To Take 3,500 Bitcoin In Proposed PIPE Financing](https://bitcoinmagazine.com/news/zhibao-technology-to-take-3500-bitcoin)**
+
+Nasdaq-listed Zhibao Technology plans to accept 3,500 bitcoin in a proposed $220 million PIPE deal, a move that would transform the Chinese insurance-tech firm into the latest public company building a bitcoin treasury.
+
+Bitcoin Magazine • 10h ago
+
+---
+
+**[Bitcoin’s Technical Outlook Improves as Key Levels Come Into Focus](https://www.barrons.com/articles/bitcoin-technical-outlook-price-breakout-key-levels-c31278bf)**
+
+Barron's • 1d ago
 
 ---
 
@@ -207,25 +221,11 @@ galaxy.com • 1d ago
 
 ---
 
-**[Nasdaq-listed Zhibao Technology To Take 3,500 Bitcoin In Proposed PIPE Financing](https://bitcoinmagazine.com/news/zhibao-technology-to-take-3500-bitcoin)**
+**[‘Major Catalyst’—U.S. Treasury Secretary Fuels Bitcoin Price Surge](https://www.forbes.com/sites/digital-assets/2026/07/22/bitcoin-suddenly-soars-on-surprise-congress-price-game-changer/)**
 
-Nasdaq-listed Zhibao Technology plans to accept 3,500 bitcoin in a proposed $220 million PIPE deal, a move that would transform the Chinese insurance-tech firm into the latest public company building a bitcoin treasury.
+The bitcoin price has struggled through 2026 as traders await bitcoin’s “ultimate catalyst”...
 
-Bitcoin Magazine • 7h ago
-
----
-
-**[Bitcoin’s Technical Outlook Improves as Key Levels Come Into Focus](https://www.barrons.com/articles/bitcoin-technical-outlook-price-breakout-key-levels-c31278bf)**
-
-Barron's • 1d ago
-
----
-
-**[Clayton County Supervisors hold information session on Bitcoin data center](https://www.kcrg.com/2026/07/21/clayton-county-supervisors-hold-information-session-bitcoin-data-center/)**
-
-They want to set up a new center in Clayton County but can’t right now because of a noise ordinance.
-
-KCRG • 1d ago
+Forbes • 19h ago
 
 ---
 
@@ -237,7 +237,7 @@ KCRG • 1d ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 108 • 💬 91 • 14h ago • [opennode.com](https://opennode.com/)
+⬆️ 110 • 💬 95 • 16h ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -253,7 +253,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, protecting its purpose as sound, permissionless money.
 
-⬆️ 2 • 💬 1 • 13h ago • [BIP-110](https://bip110.org)
+⬆️ 2 • 💬 1 • 16h ago • [BIP-110](https://bip110.org)
 
 ---
 
@@ -261,7 +261,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
-⬆️ 2 • 💬 0 • 40m ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
+⬆️ 2 • 💬 0 • 3h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
 
 ---
 
@@ -277,7 +277,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/sharecoin
 
-⬆️ 1 • 💬 1 • 20h ago • [GitHub](https://github.com/TVHeroes/sharecoin)
+⬆️ 1 • 💬 1 • 23h ago • [GitHub](https://github.com/TVHeroes/sharecoin)
 
 ---
 
@@ -293,13 +293,13 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
 
-⬆️ 13 • 💬 23 • 13h ago • [GitHub](https://github.com/bitmonky/BorgIOS)
+⬆️ 13 • 💬 23 • 16h ago • [GitHub](https://github.com/bitmonky/BorgIOS)
 
 ---
 
 **[Gen Z-Ers Are Ditching Sex. They Might Be onto Something](https://news.ycombinator.com/item?id=49016874)**
 
-⬆️ 2 • 💬 0 • 33m ago • [nytimes.com](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
+⬆️ 3 • 💬 0 • 3h ago • [nytimes.com](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
 
 ---
 
@@ -321,27 +321,7 @@ The 'Fast Money' traders talk the recent downturn in crypto.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 101 • 💬 76 • ⏱️ 5:18 • 6h ago
-
----
-
-**[Does Jack Mallers EXIT CONFIRM Michael Saylor&#39;s 21M Monopoly?!](https://www.youtube.com/watch?v=dtn2idOk4aU)**
-
-Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treasury landscape. As companies rethink their ...
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 492 • 💬 106 • ⏱️ 16:41 • 7h ago
-
----
-
-**[Global Liquidity Has Peaked: What Happens to Bitcoin? | Michael Howell](https://www.youtube.com/watch?v=NiwtzN3nhTY)**
-
-Cycles have no respect for trends.” Michael Howell is on the show to explain why global liquidity, not Bitcoin's four-year cycle, ...
-
-📺 What Bitcoin Did
-
-👁️ 12K • 👍 420 • 💬 221 • ⏱️ 1:05:17 • 13h ago
+👁️ 9K • 👍 118 • 💬 79 • ⏱️ 5:18 • 9h ago
 
 ---
 
@@ -351,17 +331,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 268 • 💬 16 • ⏱️ 18:45 • 11h ago
-
----
-
-**[You Need Less Bitcoin Than You Think To Be In The Top 1%](https://www.youtube.com/watch?v=en64vokrXB0)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 3K • 👍 166 • 💬 22 • ⏱️ 9:00 • 15h ago
+👁️ 8K • 👍 284 • 💬 15 • ⏱️ 18:45 • 14h ago
 
 ---
 
@@ -371,27 +341,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 707 • 💬 41 • ⏱️ 50:57 • 14h ago
-
----
-
-**[Trump Just Caved. Bitcoin Is Loving It.](https://www.youtube.com/watch?v=MXzKYnh7M2s)**
-
-Trump just agreed to the ethics provision holding up the CLARITY Act — and Bitcoin is telling you exactly what it thinks about that.
-
-📺 Digital Asset News
-
-👁️ 16K • 👍 958 • 💬 90 • ⏱️ 29:19 • 1d ago
-
----
-
-**[Bitcoin’s Biggest THREAT Is Coming From Within | Is BIP-110 the Breaking Point?](https://www.youtube.com/watch?v=wiOFu1TlkgE)**
-
-A major debate is unfolding inside the Bitcoin community, and the outcome could shape the network for years to come. BIP-110 ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 640 • ⏱️ 19:47 • 1d ago
+👁️ 14K • 👍 718 • 💬 66 • ⏱️ 50:57 • 17h ago
 
 ---
 
@@ -401,7 +351,47 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 1K • 👍 136 • 💬 46 • ⏱️ 11:42 • 2h ago
+👁️ 3K • 👍 223 • 💬 25 • ⏱️ 11:42 • 4h ago
+
+---
+
+**[Does Jack Mallers EXIT CONFIRM Michael Saylor&#39;s 21M Monopoly?!](https://www.youtube.com/watch?v=dtn2idOk4aU)**
+
+Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treasury landscape. As companies rethink their ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 568 • 💬 129 • ⏱️ 16:41 • 10h ago
+
+---
+
+**[Global Liquidity Has Peaked: What Happens to Bitcoin? | Michael Howell](https://www.youtube.com/watch?v=NiwtzN3nhTY)**
+
+Cycles have no respect for trends.” Michael Howell is on the show to explain why global liquidity, not Bitcoin's four-year cycle, ...
+
+📺 What Bitcoin Did
+
+👁️ 13K • 👍 458 • 💬 222 • ⏱️ 1:05:17 • 16h ago
+
+---
+
+**[Bitcoin’s Biggest THREAT Is Coming From Within | Is BIP-110 the Breaking Point?](https://www.youtube.com/watch?v=wiOFu1TlkgE)**
+
+A major debate is unfolding inside the Bitcoin community, and the outcome could shape the network for years to come. BIP-110 ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 618 • ⏱️ 19:47 • 1d ago
+
+---
+
+**[You Need Less Bitcoin Than You Think To Be In The Top 1%](https://www.youtube.com/watch?v=en64vokrXB0)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 3K • 👍 168 • 💬 30 • ⏱️ 9:00 • 18h ago
 
 ---
 
@@ -411,7 +401,15 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 387 • ⏱️ 32:52 • 10h ago
+👁️ 5K • 👍 407 • ⏱️ 32:52 • 13h ago
+
+---
+
+**[crypto futures trading #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=1UOy-N_2OtI)**
+
+📺 Khuncoin
+
+👁️ 26K • 👍 440 • 💬 18 • ⏱️ 0:18 • 2d ago
 
 ---
 
