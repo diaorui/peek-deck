@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-23T17:55:39.415395+00:00'
+updated: '2026-07-23T19:18:36.221943+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 17:55 UTC  
+**Last Updated:** July 23, 2026 at 19:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,798.12
+### $64,724.56
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.6%  
-**7d:** +1.3%  
-**30d:** +6.1%  
-**90d:** -16.5%  
+**7d:** +1.4%  
+**30d:** +6.2%  
+**90d:** -16.4%  
 **1y:** -45.2%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[LFG](https://www.reddit.com/r/Bitcoin/comments/1v3z9nm/lfg/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 BancaStato has become the latest Swiss bank to offer regulated bitcoin trading through its existing banking apps via Sygnum's infrastructure.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 11h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 13h ago
 
 ---
 
@@ -95,7 +95,23 @@ BancaStato has become the latest Swiss bank to offer regulated bitcoin trading t
 
 Is bitcoin finally starting to bottom out? I know that this has been one of the significant drops in bitcoin in recent history but when is it finally gonna bottom out into we enter into the bullish trends. What's everyone's plans in when they are going to be investing and doubling down?
 
-7h ago
+8h ago
+
+---
+
+**[The US government moved $297M in seized crypto to Coinbase Prime last week. Most coverage is missing that only half of it is actually protected from sale.](https://www.reddit.com/r/Bitcoin/comments/1v4deqf/the_us_government_moved_297m_in_seized_crypto_to/)**
+
+On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, roughly 297 million dollars combined, into Coinbase Prime custody. Sale speculation followed immediately. The detail almost nobody is explaining clearly: Executive Order 14233, which created the Strategic Bitcoin Reserve, only protects Bitcoin from sale. Ether and other seized digital assets fall under a separate framework where Treasury has discretion. So the 244 million in Bitcoin here is protected on paper, the 53 million in Ether is not. The Bitcoin traces to two forfeiture cases, roughly 2,875 BTC from a dark web dealer known as Xanaxman and about 925.5 BTC linked to the old BTC-e exchange. The Ether comes from a former Oracle employee's money laundering case. Worth noting too that a deposit to Coinbase Prime is not proof of an impending sale. The Marshals Service has an active custody contract with Coinbase Prime specifically for managing seized assets, and similar transfers in January, May, and June this year did not result in confirmed liquidations. The bigger structural point is that Executive Order 14233 is policy, not statute. Congress introduced a bill in May to codify the reserve with a 20 year holding requirement, but it has not moved out of committee. Until it does, Bitcoin's protected status here rests on one administration's choice, reversible by the next. Full writeup with sourcing: https://davidebtc186.substack.com/p/the-us-government-just-moved-297m
+
+6h ago
+
+---
+
+**[Recommended non kyc exchanges?](https://www.reddit.com/r/Bitcoin/comments/1v4kocn/recommended_non_kyc_exchanges/)**
+
+Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
+
+1h ago
 
 ---
 
@@ -103,7 +119,7 @@ Is bitcoin finally starting to bottom out? I know that this has been one of the 
 
 That'd be sweet.
 
-13h ago
+14h ago
 
 ---
 
@@ -111,15 +127,7 @@ That'd be sweet.
 
 26 y/o. My significant other & I pretend we don’t have them, don’t touch it, we’ve never sold. But just out of curiosity, does everyone in it for the long haul (20-30 years) ever think about selling?
 
-15h ago
-
----
-
-**[Daily Discussion, July 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1v458eg/daily_discussion_july_23_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-11h ago
+16h ago
 
 ---
 
@@ -127,7 +135,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Reserve arca, Coinkite’s personal data haven for encrypted secrets, recovery, business continuity, inheritance, and multi-location Swarm backups.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/arca-reservations-are-open/) • 6h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/arca-reservations-are-open/) • 7h ago
+
+---
+
+**[Daily Discussion, July 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1v458eg/daily_discussion_july_23_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+13h ago
 
 ---
 
@@ -135,23 +151,7 @@ Reserve arca, Coinkite’s personal data haven for encrypted secrets, recovery, 
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
 
-10h ago
-
----
-
-**[yggr - coffee, for sats](https://www.reddit.com/r/Bitcoin/comments/1v3vwd1/yggr_coffee_for_sats/)**
-
-I built an online bitcoin marketplace on top of the lightning network. We only accept bitcoin and it settles in bitcoin. I saw Lightning's utility as soon as it was introduced, and I've wanted to combine it with my love of roasting coffee ever since. Having arduously developed multiple websites and software products on Stripe and Finix, I found it a breath of fresh air to avoid the embedded payment forms, the transaction fees, and the liability of collecting PII and card info Integrating with the lightning network was a no brainer and I hope it contributes to the ever growing body of proof that bitcoin is more than just a store of value and can be used very effectively as a currency. It's live right now. You can order and pay in sats today. Please feel free to comment any feedback!
-
-🔗 [yggr.xyz](https://yggr.xyz) • 19h ago
-
----
-
-**[Even companies buy high & sell low: Satsuma Shareholders Approve Bitcoin Liquidation](https://www.reddit.com/r/Bitcoin/comments/1v3hnx2/even_companies_buy_high_sell_low_satsuma/)**
-
-These lads bought at $113k, kept selling at lower prices, ready to sell the rest. Feels like Bogdanoff about to get the call.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/satsuma-shareholders-bitcoin-liquidation) • 1d ago
+12h ago
 
 ---
 
@@ -163,7 +163,7 @@ These lads bought at $113k, kept selling at lower prices, ready to sell the rest
 
 July 23, 2026
 
-Strategy • 5h ago
+Strategy • 6h ago
 
 ---
 
@@ -171,65 +171,69 @@ Strategy • 5h ago
 
 Nine major Bitcoin firms launched a consortium pledging $15 million to support Bitcoin security research and long-term resilience, including quantum readiness.
 
-Bitcoin Magazine • 4h ago
+Bitcoin Magazine • 5h ago
 
 ---
 
-**[Galaxy Launches Bitcoin Quantum Readiness Initiative to Protect Bitcoin's Cryptographic Foundations](https://www.galaxy.com/newsroom/galaxy-launches-bitcoin-quantum-readiness-initiative)**
+**[Block and Coinbase Join Fight to Promote Bitcoin Security](https://www.pymnts.com/cryptocurrency/2026/block-and-coinbase-join-fight-to-promote-bitcoin-security/)**
 
-Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
+A collection of crypto and finance companies have launched a bitcoin-focused security initiative. The Bitcoin Security Consortium, announced in a news
 
-galaxy.com • 2d ago
-
----
-
-**[Bulls face a test unlike anything in bitcoin's 17-year history: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/23/bulls-face-a-test-unlike-anything-in-bitcoin-s-17-year-history)**
-
-The day ahead in crypto: July 23, 2026
-
-CoinDesk • 6h ago
+PYMNTS.com • 1h ago
 
 ---
 
-**[Jobless claims hit lowest since the Vietnam War as Bitcoin slips](https://finance.yahoo.com/markets/crypto/articles/jobless-claims-hit-lowest-since-163543105.html)**
+**[Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart](https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart)**
 
-Initial jobless claims fell to 187,000 in the week ended July 18, down 22,000 from the prior week's 209,000, the Labor Department reported Thursday. That is the lowest level since 1969 and a historically low print, a sign that employers are holding tightly onto workers even as other corners ...
+The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-Yahoo Finance • 1h ago
-
----
-
-**[BlackRock, Strategy and Coinbase Back $15M Bitcoin Security Consortium](https://finance.yahoo.com/markets/crypto/articles/blackrock-strategy-coinbase-back-15m-162500229.html)**
-
-BlackRock (NYSE: $BLK), Strategy (NASDAQ: $MSTR) and Coinbase (NASDAQ: $COIN) are putting $15 million behind a Bitc...
-
-Yahoo Finance • 1h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Crypto Exchange That Pioneered 100x Bitcoin Leverage Is Closing](https://www.bloomberg.com/news/articles/2026-07-23/crypto-exchange-that-pioneered-100x-bitcoin-leverage-is-closing)**
+**[Scammers exploit Bitcoin ATMs to steal millions from victims](https://www.foxbusiness.com/video/6401940579112)**
 
-Bloomberg.com • 6h ago
+A new report reveals scammers are using Bitcoin ATMs, or BTMs, as a tool to defraud victims, particularly seniors, by tricking them into depositing large sums.
 
----
-
-**[Current price of Bitcoin for July 22, 2026](https://fortune.com/article/price-of-bitcoin-07-22-2026/)**
-
-Fortune • 1d ago
+Fox Business • 1h ago
 
 ---
 
-**[Bitcoin May Stay Under Pressure Through 3Q](https://www.barrons.com/livecoverage/stock-market-news-today-072326/card/bitcoin-may-stay-under-pressure-through-3q-reqUASR1UUDluAWuBdX1)**
+**[Billionaire doubles down on Orange Juice](https://finance.yahoo.com/markets/crypto/articles/billionaire-doubles-down-orange-juice-184648136.html)**
 
-Barron's • 26m ago
+Mexican billionaire Ricardo Salinas Pliego is one of the loudest voices to support Bitcoin (BTC). In fact, he has revealed that he has allocated 80% of his liquid portfolio to the cryptocurrency. On July 15, he doubled down on his belief in the leading cryptocurrency when his participation as ...
+
+Yahoo Finance • 31m ago
 
 ---
 
-**[Bitcoin miners ‘stole power worth B280 million’](https://www.bangkokpost.com/thailand/general/3290555/bitcoin-miners-stole-power-worth-b280-million)**
+**[Bitcoin ATM scams in Massachusetts](https://apps.bostonglobe.com/2026/07/storylab/coinhub-bitcoin-atm-crypto-scam/)**
 
-The Department of Special Investigation has seized about 1,900 cryptocurrency mining machines after uncovering large-scale electricity theft estimated at 280 million baht linked to illegal bitcoin mining in Samut Sakhon.
+Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
 
-Bangkok Post • 8h ago
+The Boston Globe • 1d ago
+
+---
+
+**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Live markets: Bitcoin slides as stocks slump on Iran war expansion, AI spending concern](https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade)**
+
+Google parent Alphabet beat on revenue but raised its AI spending forecast again, sending its shares sharply lower.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin consolidates below $66,000 as a 13% July recovery runs out of steam](https://www.coindesk.com/markets/2026/07/23/crypto-catches-its-breath-as-bitcoin-settles-into-a-holding-pattern-after-its-best-month-since-january)**
+
+BTC is rangebound between $64,000 and $66,800 after a 13% recovery from July's lows, with macro markets offering little direction and WLFI the session's surprise standout at +12%.
+
+CoinDesk • 8h ago
 
 ---
 
@@ -265,7 +269,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
-⬆️ 2 • 💬 0 • 13h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
+⬆️ 2 • 💬 0 • 15h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
 
 ---
 
@@ -289,7 +293,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
 
-⬆️ 1 • 💬 0 • 2h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 3h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
 
 ---
 
@@ -313,7 +317,7 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
-⬆️ 2 • 💬 0 • 1h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
+⬆️ 2 • 💬 0 • 2h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
 
 ---
 
@@ -327,7 +331,7 @@ The 'Fast Money' traders talk the recent downturn in crypto.
 
 📺 CNBC Television
 
-👁️ 15K • 👍 180 • 💬 126 • ⏱️ 5:18 • 19h ago
+👁️ 15K • 👍 180 • 💬 126 • ⏱️ 5:18 • 21h ago
 
 ---
 
@@ -337,7 +341,7 @@ Let us talk about social interest for Bitcoin in 2026 and what we can expect goi
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 2K • 💬 153 • ⏱️ 7:39 • 7h ago
+👁️ 26K • 👍 2K • 💬 153 • ⏱️ 7:39 • 8h ago
 
 ---
 
@@ -357,7 +361,7 @@ Are you ready? YUBIT: https://www.yubit.com/en-US/register?inviteCode=MJOD $5000
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 137 • 💬 4 • ⏱️ 30:55 • 3h ago
+👁️ 1K • 👍 137 • 💬 4 • ⏱️ 30:55 • 5h ago
 
 ---
 
@@ -367,7 +371,7 @@ Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treas
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 752 • 💬 112 • ⏱️ 16:41 • 20h ago
+👁️ 12K • 👍 752 • 💬 112 • ⏱️ 16:41 • 22h ago
 
 ---
 
@@ -377,7 +381,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 433 • 💬 36 • ⏱️ 11:42 • 15h ago
+👁️ 7K • 👍 433 • 💬 36 • ⏱️ 11:42 • 16h ago
 
 ---
 
@@ -397,7 +401,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 442 • ⏱️ 32:52 • 23h ago
+👁️ 5K • 👍 442 • ⏱️ 32:52 • 1d ago
 
 ---
 

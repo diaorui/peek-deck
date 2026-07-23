@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-23T17:55:39.423883+00:00'
+updated: '2026-07-23T19:18:36.228455+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 23, 2026 at 17:55 UTC  
+**Last Updated:** July 23, 2026 at 19:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Built this 6dof with parts bought from local hardware store. Lot of loose parts now, needs fine tune or redo. Plan is to create mobile arm. Waiting for wheels and step motor. Controlled by raspberry pi.
 
-11h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ Built this 6dof with parts bought from local hardware store. Lot of loose parts 
 
 Two cute little robots dancing to the music and enjoying their moment in the spotlight. Their synchronized movements, tiny gestures, and playful rhythm were surprisingly delightful to watch. I came across this little performance during my day and couldn’t resist recording it.
 
-7h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ Two cute little robots dancing to the music and enjoying their moment in the spo
 
 Colin Angle explains that giving a robot a voice does more than change the interface. It changes the user’s entire understanding of what the machine can do. Roomba eventually received spoken maintenance messages because communicating problems such as clogged rollers or a lost Wi-Fi connection through sequences of beeps created a poor user experience. But iRobot intentionally made those messages sound like a separate utility or maintenance system rather than Roomba itself speaking. Once a robot appears conversational, users begin expecting language understanding, memory, contextual awareness and consistent behavior across long periods of time. Angle says delivering all of that reliably remains difficult, even with current natural-language systems. Keeping Roomba’s personality undefined allowed people to personify the robot on their own terms without the product making promises its underlying intelligence could not fulfill.
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Colin Angle explains that giving a robot a voice does more than change the inter
 
 Do not sign up with this company unless you want to be scammed. I signed up for their most expensive program, but was not satisfied and requested a refund. It was much less than I thought, but it still wasn't a small amount (a little under $1000). The teachers were nice, but my son was not learning much in terms of robotics. That's when things went south. After being promised my refund, they refused to actually refund me my money, and then ghosted me. This after I spent an additional $100 to ship the robotics kit back to them in India. I tracked it all the way there, just to see it refused by sender. This is what they do. I tried to dispute this with my credit card, but I just found out it was denied because Playto charges through a third party name (Raz*Skyfi Education). They know this, and use it as a loophole to not refund you your credit. Please stay away.
 
-3h ago
+5h ago
 
 ---
 
@@ -82,13 +82,13 @@ Built my first robot still have a lot to learn. Open to any advice on how to imp
 
 **[The Breakdown: Saronic](https://www.reddit.com/r/robotics/comments/1v4eoqi/the_breakdown_saronic/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 3h ago
+🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 5h ago
 
 ---
 
 **[I built a free interactive robotics learning platform with browser-based simulators. I'd love feedback from the robotics community.](https://www.reddit.com/r/robotics/comments/1v44ws7/i_built_a_free_interactive_robotics_learning/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -102,7 +102,7 @@ Most humanoid robots in factories are still being tested in pilot programs, and 
 
 **[Building an Industrial Surveillance Quadruped Robot in India – Looking for Feedback](https://www.reddit.com/r/robotics/comments/1v47dbx/building_an_industrial_surveillance_quadruped/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -110,31 +110,17 @@ Most humanoid robots in factories are still being tested in pilot programs, and 
 
 ## Google News: "robotics"
 
-**[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
-
-Axios • 18h ago
-
----
-
 **[The Robots Cometh](https://time.com/article/2026/07/23/unitree-china-human-robotics/)**
 
 The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
 
-Time Magazine • 5h ago
+Time Magazine • 7h ago
 
 ---
 
-**[Connecting the human mind with robots thanks to AI](https://www.cnn.com/2026/07/23/business/video/vivatech-2026-habs-innov8-ai-robot-mind-connection-spc-digvid)**
+**[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
 
-At the 10th edition of VivaTech if Paris, we explore how AI is moving from hype to hardware, as robots steal the spotlight. From dancing machines to human mind-connected tech, CNN’s Anna Stewart tests a system that lets humans control robots using their thoughts - blurring the line between human and machine.
-
-CNN • 2h ago
-
----
-
-**[Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI](https://www.bloomberg.com/news/articles/2026-07-23/black-forest-labs-unveils-first-model-for-robotics-in-shift-to-physical-ai)**
-
-Bloomberg.com • 2h ago
+Axios • 19h ago
 
 ---
 
@@ -142,7 +128,7 @@ Bloomberg.com • 2h ago
 
 Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic
 
-NASA (.gov) • 23h ago
+NASA (.gov) • 1d ago
 
 ---
 
@@ -150,7 +136,7 @@ NASA (.gov) • 23h ago
 
 Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -184,6 +170,22 @@ CNBC • 2d ago
 
 ---
 
+**[Connecting the human mind with robots thanks to AI](https://www.cnn.com/2026/07/23/business/video/vivatech-2026-habs-innov8-ai-robot-mind-connection-spc-digvid)**
+
+At the 10th edition of VivaTech if Paris, we explore how AI is moving from hype to hardware, as robots steal the spotlight. From dancing machines to human mind-connected tech, CNN’s Anna Stewart tests a system that lets humans control robots using their thoughts - blurring the line between human and machine.
+
+CNN • 4h ago
+
+---
+
+**[Tesla’s profits slide despite growing revenue as it pivots to robotics and AI](https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings)**
+
+Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
+
+The Guardian • 22h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -204,7 +206,7 @@ China's latest robotic bricklayer is transforming the future of construction by 
 
 📺 RedTech Insights
 
-👁️ 21K • 👍 413 • 💬 33 • ⏱️ 19:31 • 2d ago
+👁️ 21K • 👍 413 • 💬 33 • ⏱️ 19:31 • 3d ago
 
 ---
 
@@ -234,7 +236,7 @@ War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Crea
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 284 • 💬 115 • ⏱️ 14:51 • 5h ago
+👁️ 4K • 👍 284 • 💬 115 • ⏱️ 14:51 • 7h ago
 
 ---
 

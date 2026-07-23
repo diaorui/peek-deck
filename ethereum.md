@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-23T17:55:39.420947+00:00'
+updated: '2026-07-23T19:18:36.226169+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 17:55 UTC  
+**Last Updated:** July 23, 2026 at 19:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** +2.4%  
-**30d:** +16.3%  
-**90d:** -18.7%  
-**1y:** -49.1%  
+**24h:** -2.5%  
+**7d:** +2.0%  
+**30d:** +15.8%  
+**90d:** -19.0%  
+**1y:** -49.3%  
 
 ---
 
@@ -138,7 +138,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-4d ago
+5d ago
 
 ---
 
@@ -150,7 +150,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -162,19 +162,11 @@ Benzinga • 1d ago
 
 ---
 
-**[Verus-Ethereum Bridge hacked again, losing $7.5M in second exploit within 66 days.](https://pluang.com/en/news-feed/verus-bridge-alami-exploit-kedua-rugi-19-juta-dollar)**
+**[Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html)**
 
-The Verus-Ethereum Bridge suffered a second security breach in just over two months, with attackers stealing between $7.3 million and $7.5 million in various digital assets. This follows a similar exploit in May that resulted in losses of about $11.6 million, bringing total losses to approximately $19.1 million. The attack exploited a flaw where the bridge verified cryptographic proofs but failed to confirm that payout amounts were backed by actual locked assets, highlighting ongoing risks in decentralized finance (DeFi) cross-chain bridges. Users are advised to follow Verus updates, while developers need to fix the bridge's state-check logic to prevent further exploits.
+Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
 
-Pluang • 45m ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html)**
-
-Bitcoin (BTC-USD) opened at $65,214.10 on Tuesday, July 21, 2026, 0.8% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,903.35, up 1.7% from Monday's opening price.
-
-Yahoo Finance • 2d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -182,23 +174,7 @@ Yahoo Finance • 2d ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 5h ago
-
----
-
-**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
-
-Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
-
-FXStreet • 6h ago
-
----
-
-**[The Ethereum Blockchain Ecosystem Is Preparing for a Major Shake-Up. That's Why I'm Bullish on ETH Right Now.](https://www.fool.com/investing/2026/07/23/the-ethereum-blockchain-ecosystem-is-preparing-for/)**
-
-Ethereum is growing up, and that's a good thing.
-
-The Motley Fool • 7h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -206,7 +182,15 @@ The Motley Fool • 7h ago
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
-The Block • 9h ago
+The Block • 10h ago
+
+---
+
+**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
+
+Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
+
+FXStreet • 7h ago
 
 ---
 
@@ -214,13 +198,29 @@ The Block • 9h ago
 
 MONACO , July  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price prediction models examine whe...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 17h ago
 
 ---
 
 **[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
 
 thestreet.com • 1d ago
+
+---
+
+**[Current price of Ethereum for July 23, 2026](https://fortune.com/article/price-of-ethereum-07-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 8h ago
+
+---
+
+**[How 40.8M staked ETH could strengthen Ethereum’s edge over Bitcoin](https://ambcrypto.com/how-40-8m-staked-eth-could-strengthen-ethereums-edge-over-bitcoin/)**
+
+Whales are accumulating ETH, but staking and DeFi flows tell a bigger story.
+
+AMBCrypto • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 1K • 👍 39 • 💬 5 • ⏱️ 3:42 • 10h ago
+👁️ 1K • 👍 39 • 💬 5 • ⏱️ 3:42 • 12h ago
 
 ---
 
@@ -254,7 +254,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 80 • 💬 20 • ⏱️ 17:35 • 14h ago
+👁️ 2K • 👍 80 • 💬 20 • ⏱️ 17:35 • 15h ago
 
 ---
 
@@ -264,7 +264,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 3K • 👍 118 • 💬 98 • ⏱️ 39:53 • 23h ago
+👁️ 3K • 👍 118 • 💬 98 • ⏱️ 39:53 • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ Time to have some fun with Bitcoin, Ethereum, and crypto as a whole. Live, unfil
 
 📺 Thomas Kralow
 
-👁️ 4K • 👍 212 • 💬 3 • ⏱️ 2:25:30 • 2h ago
+👁️ 4K • 👍 212 • 💬 3 • ⏱️ 2:25:30 • 3h ago
 
 ---
 
@@ -304,7 +304,7 @@ Ethereum: Structure Around $2000 Ethereum can push toward $2000, but I am keepin
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 204 • 👍 4 • ⏱️ 1:08 • 1h ago
+👁️ 204 • 👍 4 • ⏱️ 1:08 • 2h ago
 
 ---
 
@@ -314,7 +314,7 @@ BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 332 • 💬 122 • ⏱️ 22:47 • 18h ago
+👁️ 6K • 👍 332 • 💬 122 • ⏱️ 22:47 • 20h ago
 
 ---
 
