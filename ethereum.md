@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-23T20:35:50.467800+00:00'
+updated: '2026-07-23T22:04:29.692652+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 20:35 UTC  
+**Last Updated:** July 23, 2026 at 22:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -2.7%  
-**7d:** +2.4%  
-**30d:** +16.3%  
-**90d:** -18.7%  
-**1y:** -49.1%  
+**7d:** +2.1%  
+**30d:** +16.0%  
+**90d:** -18.9%  
+**1y:** -49.2%  
 
 ---
 
@@ -150,15 +150,15 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Ethereum's future debated: decentralization vs. strategic branding shift for growth](https://pluang.com/en/news-feed/strategi-menang-ethereum-menurut-tokoh-kripto-terkemuka)**
+**[Ethereum holds above $1,900 as whales buy 30,00...](https://pluang.com/en/news-feed/paus-ethereum-tambah-58juta-eth-bisakah-altcoin-tembus-2ribu)**
 
-Key figures in the crypto community recently debated Ethereum's best path forward on Crypto Twitter. Columbia Business School's Omid Malekan emphasized maximal decentralization as essential to protect Ethereum from corporate control and corruption. Erik Voorhees suggested Ethereum adopt a more pragmatic, Machiavellian approach, focusing on resilience rather than egalitarian ideals. Meanwhile, Ethereum advocate DCInvestor called for a branding shift away from idealistic themes toward emphasizing security that rivals nation-states, signaling a strategic evolution within the Ethereum ecosystem. This debate highlights differing views on how Ethereum can maintain its edge and grow adoption amid increasing challenges.
+Ethereum has maintained a price above $1,900 for four consecutive days, supported by large purchases from whales who bought over 30,000 ETH tokens. Notably, a whale acquired 27,000 ETH worth $52 million after three months of inactivity, and Arthur Hayes added 3,270 ETH over eight days. Meanwhile, Ethereum's Spot Netflow turned negative, indicating more ETH is leaving exchanges, which may reduce selling pressure. Institutional interest also grew, with U.S. Ethereum ETFs seeing net inflows. If whale buying, ETF demand, and reduced exchange supply continue, Ethereum could retest the key $2,000 resistance level soon.
 
-Pluang • 44m ago
+Pluang • 1h ago
 
 ---
 
@@ -166,15 +166,7 @@ Pluang • 44m ago
 
 Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
 
-Yahoo Finance • 5h ago
-
----
-
-**[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
-
-A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
-
-The Block • 11h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -182,7 +174,15 @@ The Block • 11h ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
+
+---
+
+**[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
+
+A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
+
+The Block • 13h ago
 
 ---
 
@@ -190,7 +190,7 @@ Seeking Alpha • 8h ago
 
 Ether is becoming increasingly attractive from a valuation standpoint, particularly relative to Bitcoin, but onchain data suggests the market has yet to reach a definitive cycle bottom, according to CryptoQuant.In its latest weekly report, the analytics company said Ether (ETH) is trading roughly 1…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView • 4h ago
 
 MONACO , July  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price prediction models examine whe...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -206,7 +206,7 @@ markets.businessinsider.com • 18h ago
 
 Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
 
-FXStreet • 8h ago
+FXStreet • 10h ago
 
 ---
 
@@ -220,7 +220,7 @@ thestreet.com • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 10h ago
 
 ---
 
@@ -234,7 +234,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 2K • 👍 42 • 💬 6 • ⏱️ 3:42 • 13h ago
+👁️ 2K • 👍 42 • 💬 6 • ⏱️ 3:42 • 14h ago
 
 ---
 
@@ -254,7 +254,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 85 • 💬 16 • ⏱️ 17:35 • 17h ago
+👁️ 2K • 👍 85 • 💬 16 • ⏱️ 17:35 • 18h ago
 
 ---
 
@@ -284,7 +284,7 @@ Ethereum has broken above $1800 to confirm a bullish W-shaped pattern, but despi
 
 📺 FXEmpire
 
-👁️ 12 • 💬 30 • ⏱️ 4:18 • 2h ago
+👁️ 12 • 💬 30 • ⏱️ 4:18 • 3h ago
 
 ---
 
@@ -304,7 +304,7 @@ Time to have some fun with Bitcoin, Ethereum, and crypto as a whole. Live, unfil
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 213 • 💬 30 • ⏱️ 2:25:30 • 5h ago
+👁️ 5K • 👍 213 • 💬 30 • ⏱️ 2:25:30 • 6h ago
 
 ---
 
@@ -314,7 +314,7 @@ Ethereum: Structure Around $2000 Ethereum can push toward $2000, but I am keepin
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 313 • 👍 11 • ⏱️ 1:08 • 4h ago
+👁️ 313 • 👍 11 • ⏱️ 1:08 • 5h ago
 
 ---
 
@@ -324,7 +324,7 @@ BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 332 • 💬 190 • ⏱️ 22:47 • 21h ago
+👁️ 6K • 👍 332 • 💬 190 • ⏱️ 22:47 • 23h ago
 
 ---
 
