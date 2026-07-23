@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-23T12:10:05.515577+00:00'
+updated: '2026-07-23T14:41:17.487720+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 12:10 UTC  
+**Last Updated:** July 23, 2026 at 14:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +4.6%  
-**30d:** +18.8%  
-**90d:** -16.9%  
-**1y:** -48.0%  
+**24h:** -1.9%  
+**7d:** +3.4%  
+**30d:** +17.5%  
+**90d:** -17.8%  
+**1y:** -48.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.35B
+**Market Cap:** $229.83B
 Rank #2
 
 **Circulating Supply:** 120,682,750 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-61.5%
 
 **All-Time Low:** $0.43
-+444598.2%
++439748.1%
 
 ---
 
@@ -150,13 +150,29 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
-**[US spot Ethereum ETFs see $72M inflows, extendi...](https://pluang.com/en/news-feed/etf-ethereum-spot-as-usai-alami-inflow-berkelanjutan)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60598155/bitcoin-ethereum-xrp-dogecoin-crypto-bill-optimism-btc-test)**
 
-US-listed spot Ethereum ETFs recorded $72.64 million in net inflows on July 22, continuing a four-day streak of positive flows and nearly doubling the previous day's $37.47 million. The inflows were concentrated mainly in BlackRock's iShares Ethereum Trust and Fidelity's Ethereum Fund, indicating strong institutional demand for the most liquid and straightforward products. Total trading volume across these ETFs was $597.49 million, with assets under management reaching $10.566 billion, about 4.54% of Ethereum's market cap. This trend suggests that spot Ethereum ETFs are becoming a key access point for institutional ETH exposure, and future inflows beyond the top two ETFs will be watched to gauge the durability of this demand.
+Major cryptocurrencies rose on Tuesday, July 21, as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act.
+
+Benzinga • 1d ago
+
+---
+
+**[Ethereum struggles below $2,000 amid rising oil prices and Fed rate hike fears despite ETF inflows.](https://pluang.com/en/news-feed/harga-ethereum-tantang-level-2000-dolar-di-tengah-kekhawatiran-kenaikan-suku)**
+
+Ethereum price remains stuck below $2,000 due to rising oil prices and renewed concerns about Federal Reserve interest rate hikes. Despite this, continued inflows into spot Ethereum ETFs have supported the price above $1,900, with a potential breakout above $1,955 targeting $2,030. External risks include oil supply disruptions, increased probability of a September Fed rate hike, and BitMEX's planned shutdown, which could affect liquidity. Ethereum needs sustained buying volume above $1,955 to confirm a breakout; otherwise, it may remain range-bound near $1,900.
+
+Pluang • 1h ago
+
+---
+
+**[Fasanara Capital holds $67M short on Ethereum, currently losing as ETH trades near $1,920](https://pluang.com/en/news-feed/fasanara-capital-pegang-posisi-short-67juta-usd-eth-via-hyperliquid-dan-sedang)**
+
+Fasanara Capital, managing $5.7 billion in assets, has a $67 million short position against Ethereum on the decentralized exchange Hyperliquid, part of a combined $108 million short with Abraxas Capital. Both positions are currently underwater with ETH trading around $1,920. This situation could trigger a short squeeze if ETH prices rise, forcing shorts to cover, or accelerate declines if ETH falls below support. Investors should watch for changes in these positions as they signal market sentiment on Ethereum's price direction.
 
 Pluang • 2h ago
 
@@ -166,7 +182,7 @@ Pluang • 2h ago
 
 Bitcoin traded slightly lower at around $65,716 while Ethereum and major altcoins posted modest gains, indicating a rotation of capital rather than broad market enthusiasm. Ethereum rose 0.42% to $1,924, outperforming Bitcoin which dipped 0.30%. Market data showed a slight decrease in Bitcoin dominance and a small increase in Ethereum's share, suggesting investors are diversifying into major altcoins. However, declines in stablecoin and derivatives trading volumes point to cautious trading with reduced leverage, signaling no strong directional trend yet. The market balance between dominance shifts and trading activity will influence if the current rotation leads to a broader trend.
 
-Pluang • 2h ago
+Pluang • 4h ago
 
 ---
 
@@ -182,7 +198,15 @@ Yahoo Finance • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 3h ago
+
+---
+
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
+
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -190,7 +214,7 @@ Fortune • 1h ago
 
 Ethereum is growing up, and that's a good thing.
 
-The Motley Fool • 1h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -198,31 +222,7 @@ The Motley Fool • 1h ago
 
 Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
 
-The Block • 1d ago
-
----
-
-**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
-
-Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
-
-TradingView • 2d ago
-
----
-
-**[Definica Introduces Ethereum-Native Protocol to Connect ETH Staking With Liquidity and Borrowing](https://markets.businessinsider.com/news/stocks/definica-introduces-ethereum-native-protocol-to-connect-eth-staking-with-liquidity-and-borrowing-1036347809)**
-
-ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
-
-markets.businessinsider.com • 1d ago
-
----
-
-**[Why are Bitcoin, Ethereum and XRP poised to extend recovery?](https://www.fxstreet.com/analysis/crypto-today-bitcoin-ethereum-xrp-recovery-slows-amid-etf-inflows-us-iran-persistent-strikes-202607221100)**
-
-Bitcoin (BTC) trades elevated above $66,000 immediate support on Wednesday, following a minor correction from its weekly high of $66,956.
-
-FXStreet • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 244 • 👍 10 • 💬 39 • ⏱️ 3:42 • 4h ago
+👁️ 874 • 👍 33 • 💬 4 • ⏱️ 3:42 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 1K • 👍 51 • 💬 20 • ⏱️ 17:35 • 8h ago
+👁️ 2K • 👍 72 • 💬 20 • ⏱️ 17:35 • 11h ago
 
 ---
 
@@ -256,27 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 480 • 💬 81 • ⏱️ 19:54 • 1d ago
-
----
-
-**[BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_pwA09-e8Fs)**
-
-BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 302 • 💬 94 • ⏱️ 22:47 • 13h ago
-
----
-
-**[Everyone Hates Ethereum… That’s The Point](https://www.youtube.com/watch?v=9XZNRYVsEcQ)**
-
-In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. It ran to $126000. Right now, Ethereum is down ...
-
-📺 Lark Davis
-
-👁️ 13K • 👍 624 • 💬 60 • ⏱️ 11:56 • 3d ago
+👁️ 19K • 👍 502 • 💬 69 • ⏱️ 19:54 • 1d ago
 
 ---
 
@@ -286,7 +266,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 3K • 👍 110 • 💬 98 • ⏱️ 39:53 • 17h ago
+👁️ 3K • 👍 116 • 💬 98 • ⏱️ 39:53 • 19h ago
+
+---
+
+**[BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_pwA09-e8Fs)**
+
+BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 325 • 💬 127 • ⏱️ 22:47 • 15h ago
 
 ---
 
@@ -296,7 +286,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 205 • 💬 47 • ⏱️ 17:49 • 2d ago
+👁️ 5K • 👍 214 • 💬 48 • ⏱️ 17:49 • 2d ago
 
 ---
 
@@ -306,7 +296,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 481 • 💬 159 • ⏱️ 10:38 • 21h ago
+👁️ 9K • 👍 493 • 💬 179 • ⏱️ 10:38 • 1d ago
 
 ---
 
@@ -316,17 +306,27 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 1K • 💬 31 • ⏱️ 33:40 • 1d ago
+👁️ 22K • 👍 1K • 💬 32 • ⏱️ 33:40 • 2d ago
 
 ---
 
-**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=y3zJZTvQ4EU)**
+**[Ethereum - THE EXPONENTIAL BLOCK  - ETH Price Prediction](https://www.youtube.com/watch?v=3lvDo0TT-Is)**
 
-In this video I break down the current Ethereum price action and the specific technical levels you need to watch as we navigate ...
+Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
 
-📺 More Crypto Online
+📺 Altcoin Doctor
 
-👁️ 4K • 👍 214 • 💬 10 • ⏱️ 8:34 • 1d ago
+👁️ 7 • 👍 2 • ⏱️ 8:09 • 1h ago
+
+---
+
+**[Are You Paying Attention To ETH Yet?](https://www.youtube.com/watch?v=SY6CA9VfWAU)**
+
+Aaron Dishner walks through Ethereum's recent price action, noting last week's roughly 6% pullback from 1921 to 1800 and the ...
+
+📺 Coin Bureau Trading
+
+👁️ 5K • 👍 378 • 💬 32 • ⏱️ 16:28 • 2d ago
 
 ---
 

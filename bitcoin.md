@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-23T12:10:05.510227+00:00'
+updated: '2026-07-23T14:41:17.484197+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 12:10 UTC  
+**Last Updated:** July 23, 2026 at 14:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,822.21
+### $64,916.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +2.5%  
-**30d:** +7.3%  
-**90d:** -15.6%  
-**1y:** -44.6%  
+**24h:** -1.3%  
+**7d:** +1.9%  
+**30d:** +6.7%  
+**90d:** -16.0%  
+**1y:** -44.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1317.35B
+**Market Cap:** $1305.58B
 Rank #1
 
-**Circulating Supply:** 20,060,103 BTC
+**Circulating Supply:** 20,060,159 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--47.9%
+-48.4%
 
 **All-Time Low:** $67.81
-+96725.0%
++95878.5%
 
 ---
 
@@ -139,7 +139,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[This is only the third weekly bullish divergence on record. Both prior instances marked absolute bottoms. The third just fired.](https://www.reddit.com/r/Bitcoin/comments/1v2hi5w/this_is_only_the_third_weekly_bullish_divergence/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -153,63 +153,65 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart](https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart)**
+**[Bulls face a test unlike anything in bitcoin's 17-year history: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/23/bulls-face-a-test-unlike-anything-in-bitcoin-s-17-year-history)**
 
-The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
+The day ahead in crypto: July 23, 2026
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin’s Technical Outlook Improves as Key Levels Come Into Focus](https://www.barrons.com/articles/bitcoin-technical-outlook-price-breakout-key-levels-c31278bf)**
-
-Barron's • 1d ago
+CoinDesk • 3h ago
 
 ---
 
-**[BTC price news: Bitcoin at $66,300 as yen hits a 40-year low against dollar](https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low)**
+**[Bitcoin consolidates below $66,000 as a 13% July recovery runs out of steam](https://www.coindesk.com/markets/2026/07/23/crypto-catches-its-breath-as-bitcoin-settles-into-a-holding-pattern-after-its-best-month-since-january)**
 
-Semiconductor stocks led a second day of gains on AI optimism, while the yen slid past 163 per dollar for the first time since 1986.
+BTC is rangebound between $64,000 and $66,800 after a 13% recovery from July's lows, with macro markets offering little direction and WLFI the session's surprise standout at +12%.
 
-CoinDesk • 1d ago
-
----
-
-**[Current price of Bitcoin for July 21, 2026](https://fortune.com/article/price-of-bitcoin-07-21-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+CoinDesk • 4h ago
 
 ---
 
-**[Crypto Exchange That Pioneered 100x Bitcoin Leverage Is Closing](https://www.bloomberg.com/news/articles/2026-07-23/crypto-exchange-that-pioneered-100x-bitcoin-leverage-is-closing)**
+**['Optimistic signals' meet a $68,000 wall as bitcoin's recovery faces its next test: analysts](https://www.theblock.co/post/409398/optimistic-signals-meet-68000-wall-bitcoin-recovery-faces-next-test-analysts)**
 
-Bloomberg.com • 51m ago
+Bitcoin holds above $65,800 as spot ETFs log a sixth day of inflows. Bitfinex analysts flag $68K resistance as the next test.
 
----
-
-**[Bitcoin to $92,000? Bitwise CEO Says ‘Biggest Bull Market Yet’ as Analysts Spot BTC Growth Signal](https://finance.yahoo.com/markets/crypto/articles/bitcoin-92-000-bitwise-ceo-105337728.html)**
-
-Bitwise CIO Matt Hougan said crypto was showing signs of a bottom and predicted that the next bull market could be the industry’s biggest yet. ...
-
-Yahoo Finance • 1h ago
+The Block • 23h ago
 
 ---
 
-**[Bitcoin Price Prediction: BTC falls as surging Oil prices revive inflation concerns](https://www.mitrade.com/au/insights/news/live-news/article-3-1928384-20260723)**
+**[Bitcoin hits 5-week high: Investor's next move](https://www.cnbc.com/video/2026/07/21/bitcoin-hits-5-week-high-investors-next-move.html)**
 
-Bitcoin (BTC) extends its correction, trading below $65,800 on Thursday after a modest decline in the previous day.
+CNBC’s Oliver Renick joins ‘Halftime Report’ to discuss the latest Options Action in the crypto space.
 
-Mitrade • 2h ago
+CNBC • 1d ago
 
 ---
 
-**[Bitcoin ATM scams in Massachusetts](https://apps.bostonglobe.com/2026/07/storylab/coinhub-bitcoin-atm-crypto-scam/)**
+**[BlackRock, Coinbase Join $15M Bitcoin Quantum Push](https://bitcoinfoundation.org/news/bitcoin/blackrock-coinbase-join-15m-bitcoin-quantum-push/)**
 
-Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
+Nine financial and crypto companies have launched a new consortium, pledging $15 million for Bitcoin quantum-resistance work.
 
-The Boston Globe • 1d ago
+Bitcoin Foundation • 1h ago
+
+---
+
+**[Hut 8 Stock Surges Up to 200% in 2026 as Bitcoin Mining Unit Struggles](https://finance.yahoo.com/markets/stocks/articles/hut-8-stock-surges-200-021407093.html)**
+
+Hut 8 stock is up 202% in 2026 on AI hyperscaler deals, but its bitcoin mining spinoff keeps losing value.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin grinds higher from here, can't get much worse, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/07/22/bitcoin-grinds-higher-from-here-cant-get-much-worse-says-skybridges-anthony-scaramucci.html)**
+
+The 'Fast Money' traders talk the recent downturn in crypto.
+
+CNBC • 16h ago
+
+---
+
+**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -219,11 +221,11 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin grinds higher from here, can't get much worse, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/07/22/bitcoin-grinds-higher-from-here-cant-get-much-worse-says-skybridges-anthony-scaramucci.html)**
+**[Bitcoin miners ‘stole power worth B280 million’](https://www.bangkokpost.com/thailand/general/3290555/bitcoin-miners-stole-power-worth-b280-million)**
 
-The 'Fast Money' traders talk the recent downturn in crypto.
+The Department of Special Investigation has seized about 1,900 cryptocurrency mining machines after uncovering large-scale electricity theft estimated at 280 million baht linked to illegal bitcoin mining in Samut Sakhon.
 
-CNBC • 14h ago
+Bangkok Post • 5h ago
 
 ---
 
@@ -235,7 +237,7 @@ CNBC • 14h ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 112 • 💬 104 • 21h ago • [opennode.com](https://opennode.com/)
+⬆️ 112 • 💬 105 • 1d ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -251,7 +253,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, protecting its purpose as sound, permissionless money.
 
-⬆️ 2 • 💬 1 • 21h ago • [BIP-110](https://bip110.org)
+⬆️ 2 • 💬 1 • 23h ago • [BIP-110](https://bip110.org)
 
 ---
 
@@ -259,7 +261,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
-⬆️ 2 • 💬 0 • 7h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
+⬆️ 2 • 💬 0 • 10h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
 
 ---
 
@@ -291,13 +293,21 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
 
-⬆️ 14 • 💬 23 • 20h ago • [GitHub](https://github.com/bitmonky/BorgIOS)
+⬆️ 14 • 💬 23 • 23h ago • [GitHub](https://github.com/bitmonky/BorgIOS)
+
+---
+
+**[The Code That Made My Network Self Aware](https://news.ycombinator.com/item?id=49022255)**
+
+Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
+
+⬆️ 1 • 💬 0 • 11m ago • [GitHub](https://github.com/bitmonky/BorgIOS/blob/main/nodeJS/src/borgAgentBrain.js)
 
 ---
 
 **[Gen Z-Ers Are Ditching Sex. They Might Be onto Something](https://news.ycombinator.com/item?id=49016874)**
 
-⬆️ 7 • 💬 0 • 7h ago • [nytimes.com](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
+⬆️ 7 • 💬 0 • 10h ago • [nytimes.com](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
 
 ---
 
@@ -311,7 +321,17 @@ The 'Fast Money' traders talk the recent downturn in crypto.
 
 📺 CNBC Television
 
-👁️ 11K • 👍 136 • 💬 83 • ⏱️ 5:18 • 14h ago
+👁️ 13K • 👍 169 • 💬 96 • ⏱️ 5:18 • 16h ago
+
+---
+
+**[Bitcoin Social Interest: Dozens of us Left](https://www.youtube.com/watch?v=UIv9IQ4uXEA)**
+
+Let us talk about social interest for Bitcoin in 2026 and what we can expect going forward. Check out the July Bitcoin memo: ...
+
+📺 Benjamin Cowen
+
+👁️ 13K • 👍 1K • 💬 93 • ⏱️ 7:39 • 3h ago
 
 ---
 
@@ -321,7 +341,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 293 • 💬 13 • ⏱️ 18:45 • 18h ago
+👁️ 9K • 👍 315 • 💬 15 • ⏱️ 18:45 • 21h ago
 
 ---
 
@@ -331,37 +351,7 @@ Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treas
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 614 • 💬 101 • ⏱️ 16:41 • 15h ago
-
----
-
-**[Bitcoin Is Setting Up for an Explosive Move](https://www.youtube.com/watch?v=y7S1xr_aK9E)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 723 • 💬 56 • ⏱️ 50:57 • 21h ago
-
----
-
-**[Bitcoin Has NEVER Done This Before. | Crypto Whales Are Accumulating Like They Know](https://www.youtube.com/watch?v=JqhbPwytCQc)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Whales ...
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 582 • 💬 240 • ⏱️ 11:10 • 2d ago
-
----
-
-**[Global Liquidity Has Peaked: What Happens to Bitcoin? | Michael Howell](https://www.youtube.com/watch?v=NiwtzN3nhTY)**
-
-Cycles have no respect for trends.” Michael Howell is on the show to explain why global liquidity, not Bitcoin's four-year cycle, ...
-
-📺 What Bitcoin Did
-
-👁️ 15K • 👍 494 • 💬 219 • ⏱️ 1:05:17 • 21h ago
+👁️ 10K • 👍 699 • 💬 110 • ⏱️ 16:41 • 17h ago
 
 ---
 
@@ -371,17 +361,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 3K • 👍 172 • 💬 26 • ⏱️ 9:00 • 22h ago
+👁️ 3K • 👍 180 • 💬 63 • ⏱️ 9:00 • 1d ago
 
 ---
 
-**[Bitcoin’s Biggest THREAT Is Coming From Within | Is BIP-110 the Breaking Point?](https://www.youtube.com/watch?v=wiOFu1TlkgE)**
+**[Bitcoin Has NEVER Done This Before. | Crypto Whales Are Accumulating Like They Know](https://www.youtube.com/watch?v=JqhbPwytCQc)**
 
-A major debate is unfolding inside the Bitcoin community, and the outcome could shape the network for years to come. BIP-110 ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Whales ...
 
-📺 Simply Bitcoin
+📺 Crypto Capital Venture
 
-👁️ 25K • 👍 2K • 💬 620 • ⏱️ 19:47 • 1d ago
+👁️ 11K • 👍 582 • 💬 238 • ⏱️ 11:10 • 2d ago
+
+---
+
+**[Global Liquidity Has Peaked: What Happens to Bitcoin? | Michael Howell](https://www.youtube.com/watch?v=NiwtzN3nhTY)**
+
+Cycles have no respect for trends.” Michael Howell is on the show to explain why global liquidity, not Bitcoin's four-year cycle, ...
+
+📺 What Bitcoin Did
+
+👁️ 17K • 👍 567 • 💬 272 • ⏱️ 1:05:17 • 23h ago
 
 ---
 
@@ -391,17 +391,27 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 289 • 💬 24 • ⏱️ 11:42 • 9h ago
+👁️ 5K • 👍 404 • 💬 33 • ⏱️ 11:42 • 11h ago
 
 ---
 
-**[A Bitcoin Emergency!!!!!!  The Fed is About to CRASH Bitcoin - BTC Pending Reversal Signals](https://www.youtube.com/watch?v=RcjxK3jYOSw)**
+**[Bitcoin ETFs Buy $900 Million in Longest Streak Since October](https://www.youtube.com/watch?v=Eq3uGCdFrtU)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+Bitcoin #Crypto #finance Bitcoin remains resilient above $65000 despite a wave of macro headwinds, including surging oil prices, ...
 
-📺 Doctor of Pump & Dump
+📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 424 • ⏱️ 32:52 • 18h ago
+👁️ 1K • 👍 145 • 💬 81 • ⏱️ 21:21 • 1h ago
+
+---
+
+**[Bitcoin Is Setting Up for an Explosive Move](https://www.youtube.com/watch?v=y7S1xr_aK9E)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 734 • 💬 97 • ⏱️ 50:57 • 1d ago
 
 ---
 

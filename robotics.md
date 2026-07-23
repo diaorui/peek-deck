@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-23T12:10:05.518368+00:00'
+updated: '2026-07-23T14:41:17.489443+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 23, 2026 at 12:10 UTC  
+**Last Updated:** July 23, 2026 at 14:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,31 @@ Robotics research and industry news
 
 Built this 6dof with parts bought from local hardware store. Lot of loose parts now, needs fine tune or redo. Plan is to create mobile arm. Waiting for wheels and step motor. Controlled by raspberry pi.
 
-5h ago
+8h ago
+
+---
+
+**[Caught these two little robots putting on a dance performance](https://www.reddit.com/r/robotics/comments/1v49m9t/caught_these_two_little_robots_putting_on_a_dance/)**
+
+Two cute little robots dancing to the music and enjoying their moment in the spotlight. Their synchronized movements, tiny gestures, and playful rhythm were surprisingly delightful to watch. I came across this little performance during my day and couldn’t resist recording it.
+
+4h ago
+
+---
+
+**[Why iRobot chose not to give Roomba a real personality](https://www.reddit.com/r/robotics/comments/1v4e1dj/why_irobot_chose_not_to_give_roomba_a_real/)**
+
+Colin Angle explains that giving a robot a voice does more than change the interface. It changes the user’s entire understanding of what the machine can do. Roomba eventually received spoken maintenance messages because communicating problems such as clogged rollers or a lost Wi-Fi connection through sequences of beeps created a poor user experience. But iRobot intentionally made those messages sound like a separate utility or maintenance system rather than Roomba itself speaking. Once a robot appears conversational, users begin expecting language understanding, memory, contextual awareness and consistent behavior across long periods of time. Angle says delivering all of that reliably remains difficult, even with current natural-language systems. Keeping Roomba’s personality undefined allowed people to personify the robot on their own terms without the product making promises its underlying intelligence could not fulfill.
+
+1h ago
+
+---
+
+**[Playto Labs is a scam](https://www.reddit.com/r/robotics/comments/1v4errx/playto_labs_is_a_scam/)**
+
+Do not sign up with this company unless you want to be scammed. I signed up for their most expensive program, but was not satisfied and requested a refund. It was much less than I thought, but it still wasn't a small amount (a little under $1000). The teachers were nice, but my son was not learning much in terms of robotics. That's when things went south. After being promised my refund, they refused to actually refund me my money, and then ghosted me. This after I spent an additional $100 to ship the robotics kit back to them in India. I tracked it all the way there, just to see it refused by sender. This is what they do. I tried to dispute this with my credit card, but I just found out it was denied because Playto charges through a third party name (Raz*Skyfi Education). They know this, and use it as a loophole to not refund you your credit. Please stay away.
+
+40m ago
 
 ---
 
@@ -52,13 +76,19 @@ I spent the last year building a 6-axis desktop robot arm from scratch, and inve
 
 Built my first robot still have a lot to learn. Open to any advice on how to improve look of wires. When I built this, I lost two of the baby screws for the knee of the robot so it topples over in the middle of its dance. But it was fun to build and I learned a lot. Also, open to any ideas on other kits or sites where I can create more stuff myself following tutorials and things like that
 
-19h ago
+22h ago
+
+---
+
+**[The Breakdown: Saronic](https://www.reddit.com/r/robotics/comments/1v4eoqi/the_breakdown_saronic/)**
+
+🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 43m ago
 
 ---
 
 **[I built a free interactive robotics learning platform with browser-based simulators. I'd love feedback from the robotics community.](https://www.reddit.com/r/robotics/comments/1v44ws7/i_built_a_free_interactive_robotics_learning/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -66,47 +96,13 @@ Built my first robot still have a lot to learn. Open to any advice on how to imp
 
 Most humanoid robots in factories are still being tested in pilot programs, and many are only reaching 20% to 50% effectiveness. A3 President Jeff Burnstein told Forbes that manufacturers are not focused on whether a robot looks human. They want systems that are reliable, affordable and safe. Safety remains a major barrier because there is no dedicated humanoid robot safety standard yet, and most systems currently operate behind fences or away from workers. Burnstein expects humanoids to find roles in factories, warehouses and logistics, but alongside traditional industrial robots, mobile robots and collaborative arms rather than replacing them. The article also covers labor shortages, manufacturing competitiveness and the growing robotics gap between the U.S. and China.
 
-🔗 [Forbes](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/) • 21h ago
+🔗 [Forbes](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/) • 23h ago
 
 ---
 
-**[I turned a smartphone into a mobile robot. Here's my latest prototype.](https://www.reddit.com/r/robotics/comments/1v3i1t7/i_turned_a_smartphone_into_a_mobile_robot_heres/)**
+**[Building an Industrial Surveillance Quadruped Robot in India – Looking for Feedback](https://www.reddit.com/r/robotics/comments/1v47dbx/building_an_industrial_surveillance_quadruped/)**
 
-Hi everyone! I've been building a small mobile robot that uses a smartphone as its onboard computer. The phone handles the camera, networking and user interface, while an Arduino controls the motors and peripherals. Current features: 📱 Smartphone onboard 🌐 Browser-based remote control 🎥 Live video 💡 LED lighting 🚨 Experimental security mode 🤖 BLE Follow Me (in progress) This video shows one of today's prototype tests. Some things worked, some didn't... and some moments were just funny. 😄 That's real robotics development. The next version will focus on: quieter drivetrain, better cable management, docking station, modular accessories. I'd really appreciate your feedback and ideas for V2. Two smartphones. One drives. One controls.
-
-21h ago
-
----
-
-**[3D DTOF LIDAR HM-LD1 for UAV Obstacle Avoidance](https://www.reddit.com/r/robotics/comments/1v3i7if/3d_dtof_lidar_hmld1_for_uav_obstacle_avoidance/)**
-
-I got HM-LD1 working for obstacle avoidance. and l will open-source once code is ready.my drone drifts backward slightly after I release the sticks.Anyone else seen this?
-
-21h ago
-
----
-
-**[Why existing robotic hands could not be used for tactile sign language](https://www.reddit.com/r/robotics/comments/1v3ewzu/why_existing_robotic_hands_could_not_be_used_for/)**
-
-Tatum Robotics originally expected to adapt an existing robotic hand for DeafBlind users. The problem was that American Sign Language requires precise finger positioning, while many standard robotic hands rely on rigid linkages that can create pinch points. That does not work when a person needs to hold the hand directly to receive tactile signing. The team instead developed a compliant, tendon-driven hand with additional degrees of freedom. DeafBlind users can place their hand on the robot and receive letters through movements designed to closely match a human hand.
-
-23h ago
-
----
-
-**[I got an old Puma 500. Any advice for building your own DC motor servo drives?](https://www.reddit.com/r/robotics/comments/1v3z1c2/i_got_an_old_puma_500_any_advice_for_building/)**
-
-A while back I bought an old Unimate Puma 500 arm. It had no controller. I've since cleaned it, regreased it, serviced the motors, replaced the brake pads, machined repair parts, adjusted the bearings, and replaced the wiring loom & hoses. It's now mechanically as complete as I can get it. The Puma 500 uses six 24v brushed DC motors, which I *think* are 40 and 150w, but there's no datasheets on these old custom made motors. Each motor has a 24v magnetic brake with cork brake pads. And on the back of that there's the motor sensor, which is a 500ppr rotary optical encoder (with index) and an absolute laser-trimmed potentionmeter on a delicate reduction gearbox. Each sensor seems to be functioning fine, but testing them with an Arduino Every using hardware interupts, there is some jitter(?) on the optical encoder meaning the output per revolution varies up and down by a couple of points. The only electronics inside the optical encoder is a quad-comparator and some trimpots. They all seem quite clean. I know the Puma used an analogue servo amplifier system, but there's no circuit diagrams for them that I can find anyway. So making a bespoke digital system is what I expect. Does anyone have any advice for reducing the jitter, or otherwise connecting them to modern PID/motion-control systems/designs? Whether that's aditional filtering electronics, software compenation, comparison with the absolute encoder, or something I haven't considered. I had intended to run them into a pair of Arduino Everys in groups of three plus a 14-bit ADC for the pots then feed them out by RS-485. But the jitter, and the number of inputs (and the potentially high number of interupts per second) meaning high odds of misreads from overlapping interupts means I want to scrap this plan unless I want to run it a single axis at a time.
-
-11h ago
-
----
-
-**[Do you have a robot? (eu)](https://www.reddit.com/r/robotics/comments/1v3lk4n/do_you_have_a_robot_eu/)**
-
-Hey guys. I am building a platform where you can have virtual rooms and I am currently looking for people who have skills in robotics. Virtual room allows connections to remote real world devices. I need to find a person who can build or rent me a robot in EU (I am from Finland) or has a robot SaaS and needs to scale operations beyond 10+ robots. Pilot Specs: - Can drive 5-30km on one charge and can carry around a 1-4 kg payload. - or/ a boat robot with a bit similar specs. - can be drone too. I have this idea where you could overlook and control 100+ robots from a single virtual room. So, if there are like-minded people or this resonates then let me know.
-
-19h ago
+6h ago
 
 ---
 
@@ -116,7 +112,7 @@ Hey guys. I am building a platform where you can have virtual rooms and I am cur
 
 **[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
 
-Axios • 12h ago
+Axios • 14h ago
 
 ---
 
@@ -142,11 +138,11 @@ Korea JoongAng Daily • 2d ago
 
 ---
 
-**[China’s Unitree Robotics Is Leading the Humanoid Revolution](https://time.com/article/2026/07/23/unitree-china-human-robotics/)**
+**[AI builds virtual homes where robots learn from their mistakes](https://www.foxnews.com/tech/ai-builds-virtual-homes-robots-learn-mistakes)**
 
-The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
+SceneSmith uses AI agents powered by GPT-5.2 to build detailed 3D environments where robots practice tasks and expose faulty plans before real homes.
 
-Time Magazine • 10m ago
+Fox News • 1h ago
 
 ---
 
@@ -154,7 +150,7 @@ Time Magazine • 10m ago
 
 Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic
 
-NASA (.gov) • 18h ago
+NASA (.gov) • 20h ago
 
 ---
 
@@ -162,7 +158,7 @@ NASA (.gov) • 18h ago
 
 Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
 
-TechCrunch • 17h ago
+TechCrunch • 19h ago
 
 ---
 
@@ -170,7 +166,7 @@ TechCrunch • 17h ago
 
 Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
 
-The Guardian • 15h ago
+The Guardian • 17h ago
 
 ---
 
@@ -192,23 +188,13 @@ Ars Technica • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
+**[Real-Time Omni-Modal Interaction Driven Whole-Body Mobile Manipulation](https://www.youtube.com/watch?v=IiNbFPOUrz8)**
 
-America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
+Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wellness tasks, with omni-modal interactive ...
 
-📺 Living in China
+📺 Unitree Robotics
 
-👁️ 28K • 👍 2K • 💬 108 • ⏱️ 12:28 • 1d ago
-
----
-
-**[Robots Fight for $1M Prize in China&#39;s First Human Size Robot MMA League](https://www.youtube.com/watch?v=5IMU5or-VFo)**
-
-The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
-
-📺 Chris Wabs
-
-👁️ 308K • 👍 7K • 💬 3K • ⏱️ 11:15 • 6d ago
+👁️ 2.0M • 👍 2K • 💬 382 • ⏱️ 2:15 • 3d ago
 
 ---
 
@@ -218,27 +204,17 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 25K • 👍 725 • 💬 105 • ⏱️ 13:15 • 4d ago
+👁️ 25K • 👍 730 • 💬 106 • ⏱️ 13:15 • 4d ago
 
 ---
 
-**[Real-Time Omni-Modal Interaction Driven Whole-Body Mobile Manipulation](https://www.youtube.com/watch?v=IiNbFPOUrz8)**
+**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
 
-Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wellness tasks, with omni-modal interactive ...
+America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
 
-📺 Unitree Robotics
+📺 Living in China
 
-👁️ 1.9M • 👍 2K • 💬 376 • ⏱️ 2:15 • 3d ago
-
----
-
-**[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
-
-Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
-
-📺 DPCcars
-
-👁️ 43K • 👍 478 • 💬 178 • ⏱️ 4:18 • 4d ago
+👁️ 30K • 👍 2K • 💬 115 • ⏱️ 12:28 • 2d ago
 
 ---
 
@@ -248,37 +224,17 @@ China's latest robotic bricklayer is transforming the future of construction by 
 
 📺 RedTech Insights
 
-👁️ 20K • 👍 400 • 💬 33 • ⏱️ 19:31 • 2d ago
+👁️ 20K • 👍 410 • 💬 33 • ⏱️ 19:31 • 2d ago
 
 ---
 
-**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
+**[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
 
-Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
+Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
 
-📺 Joanna Stern
+📺 DPCcars
 
-👁️ 87K • 👍 3K • 💬 269 • ⏱️ 12:02 • 6d ago
-
----
-
-**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
-
-The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
-
-📺 Job Othoniel
-
-👁️ 22K • 👍 144 • 💬 51 • ⏱️ 0:27 • 6d ago
-
----
-
-**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
-
-This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
-
-📺 Air Photography
-
-👁️ 83K • 👍 2K • 💬 217 • ⏱️ 7:15 • 6d ago
+👁️ 44K • 👍 483 • 💬 179 • ⏱️ 4:18 • 5d ago
 
 ---
 
@@ -289,6 +245,46 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 📺 S3 | Science, Startups, & Stories
 
 👁️ 35K • 👍 1K • 💬 93 • ⏱️ 14:37 • 4d ago
+
+---
+
+**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
+
+Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
+
+📺 Joanna Stern
+
+👁️ 88K • 👍 3K • 💬 269 • ⏱️ 12:02 • 6d ago
+
+---
+
+**[Robots Fight for $1M Prize in China&#39;s First Human Size Robot MMA League](https://www.youtube.com/watch?v=5IMU5or-VFo)**
+
+The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
+
+📺 Chris Wabs
+
+👁️ 312K • 👍 7K • 💬 3K • ⏱️ 11:15 • 6d ago
+
+---
+
+**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
+
+The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
+
+📺 Job Othoniel
+
+👁️ 22K • 👍 144 • 💬 53 • ⏱️ 0:27 • 6d ago
+
+---
+
+**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
+
+This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
+
+📺 Air Photography
+
+👁️ 83K • 👍 2K • 💬 220 • ⏱️ 7:15 • 6d ago
 
 ---
 
