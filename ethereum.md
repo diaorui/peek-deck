@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-23T01:01:11.274343+00:00'
+updated: '2026-07-23T04:51:32.106687+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 01:01 UTC  
+**Last Updated:** July 23, 2026 at 04:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,931.76
+### $1,923.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +5.1%  
-**30d:** +19.4%  
-**90d:** -16.5%  
-**1y:** -47.7%  
+**24h:** +0.2%  
+**7d:** +4.4%  
+**30d:** +18.5%  
+**90d:** -17.1%  
+**1y:** -48.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $233.73B
+**Market Cap:** $232.05B
 Rank #2
 
-**Circulating Supply:** 120,682,776 ETH
+**Circulating Supply:** 120,682,750 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.8%
+-61.1%
 
 **All-Time Low:** $0.43
-+447136.5%
++443946.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-19h ago
+23h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Warning!!! EU Crypto Users: Stop Sending Crypto Directly Between Exchanges Right Now, or risk your crypto being Frozen.](https://www.reddit.com/r/ethereum/comments/1v28fsw/warning_eu_crypto_users_stop_sending_crypto/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -146,19 +146,27 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[Ethereum could surge to $22K as AI adoption boo...](https://pluang.com/en/news-feed/ethereum-berpotensi-mencapai-22000-dolar-prediksi-tom-lee-dan-fundstrat)**
+**[Ethereum's transaction volume hits record highs with minimal fees, proving scaling upgrades are effective.](https://pluang.com/en/news-feed/ethereum-l2-tvl-meningkat-base-arbitrum-optimism-memimpin)**
 
-Fundstrat's Tom Lee suggests the market underestimates the chances of the CLARITY Act passing, which could positively impact crypto regulation. He also highlights Ethereum's potential to benefit from AI-driven growth, as AI applications increasingly use Ethereum-based assets like stablecoins and tokenized payments. Currently trading near $1,933, Ethereum shows signs of recovery and improved market sentiment. Lee projects ETH could reach $7,000-$9,000 soon, with a $12,000-$22,000 range possible if Bitcoin hits $250,000 and a stronger crypto rally occurs.
+Ethereum's recent scaling upgrades have led to a surge in network activity, with weekly transactions reaching an all-time high of 1.8 million and a peak of 21 million at one point, while median transaction fees dropped to a record low of $0.008. This indicates that the network can handle more transactions at lower costs, thanks to improvements like the Pectra and Fusaka upgrades and proto-danksharding on Layer 2 solutions. Layer 2 chains such as Robinhood Chain, Base, Arbitrum One, and Optimism have seen significant growth in transactions and total value locked (TVL), highlighting increased adoption and ecosystem expansion. The rise in monthly active users to 8.3 million further confirms Ethereum's enhanced scalability and growing user base.
 
-Pluang • 3h ago
+Pluang • 2h ago
 
 ---
 
-**[Is AI Money Rotating Into Ethereum? Tom Lee Cites 72% Outperformance](https://finance.yahoo.com/markets/crypto/articles/ai-money-rotating-ethereum-tom-220000669.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://uk.finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
 
-Tom Lee cites ETH's 72% relative outperformance vs the DRAM ETF as AI money rotating into Ethereum. Rotation or reset?
+Leading cryptocurrencies flatlined on Wednesday as investors weighed the implications of the Clarity Act and rising geopolitical tensions in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.64%$65,933.49Ethereum (CRYPTO: ETH) +0.05%$1,931.41XRP (CRYPTO: XRP) -0.32%$1.13Solana (CRYPTO: SOL) -0.18%$78.12Dogecoin (CRYPTO: DOGE) -0.79%$0.07287 Crypto Rally Cools Bitcoin failed to break through $67,000 and slipped back to $65,000 after encounter
 
-Yahoo Finance • 1d ago
+Yahoo Finance UK • 2h ago
+
+---
+
+**[Ethereum's July rally gains momentum with recor...](https://pluang.com/en/news-feed/ethereum-kenapa-breakout-eth-2k-bisa-tergantung-pada-sinyal-yang-hilang)**
+
+Ethereum is showing strong seasonal performance in July, with transaction counts hitting a record 18.7 million and median fees dropping to $0.008, signaling successful scaling upgrades. Developer activity is surging, with smart contract deployments up 192%, supporting a bullish outlook and potential to surpass $2,000. However, rising leverage on Binance and weak spot demand from long-term holders raise concerns about the sustainability of the rally, suggesting it could be vulnerable to a pullback if spot buyers do not increase.
+
+Pluang • 3h ago
 
 ---
 
@@ -170,19 +178,11 @@ The Block • 1d ago
 
 ---
 
-**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
+**[Crypto News Today: AlphaPepe Nears Tier-1 CEX Partnership Reveal as Ethereum Price Prediction Eyes $8,500](https://www.mymalonetelegram.com/online_features/press_releases/crypto-news-today-alphapepe-nears-tier-1-cex-partnership-reveal-as-ethereum-price-prediction-eyes/article_0139cb6e-fb5c-5156-ba0a-b04c9a940b55.html)**
 
-Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
+MONACO , July 22, 2026 (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price
 
-TradingView • 1d ago
-
----
-
-**[Current price of Ethereum for July 22, 2026](https://fortune.com/article/price-of-ethereum-07-22-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 7h ago
+The Malone Telegram • 3h ago
 
 ---
 
@@ -194,33 +194,33 @@ The Motley Fool • 1d ago
 
 ---
 
+**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
+
+Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
+
+TradingView • 1d ago
+
+---
+
 **[Morgan Stanley files final paperwork for Solana, Ethereum staking ETFs](https://cryptobriefing.com/morgan-stanley-solana-ethereum-staking-etfs/)**
 
 Morgan Stanley plans Solana, Ethereum ETFs for NYSE Arca, featuring low fees, direct staking rewards. A crypto investment milestone.
 
-Crypto Briefing • 5h ago
-
----
-
-**[Definica Introduces Ethereum-Native Protocol to Connect ETH Staking With Liquidity and Borrowing](https://markets.businessinsider.com/news/stocks/definica-introduces-ethereum-native-protocol-to-connect-eth-staking-with-liquidity-and-borrowing-1036347809)**
-
-ATHENS, Greece, July  21, 2026  (GLOBE NEWSWIRE) -- Definica today introduced its Ethereum-native protocol, designed to connect ETH staking with l...
-
-markets.businessinsider.com • 1d ago
-
----
-
-**[Why are Bitcoin, Ethereum and XRP poised to extend recovery?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-recovery-slows-amid-etf-inflows-us-iran-persistent-strikes-202607221100)**
-
-Bitcoin (BTC) trades elevated above $66,000 immediate support on Wednesday, following a minor correction from its weekly high of $66,956.
-
-FXStreet • 14h ago
+Crypto Briefing • 9h ago
 
 ---
 
 **[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
 
-thestreet.com • 7h ago
+thestreet.com • 11h ago
+
+---
+
+**[Current price of Ethereum for July 22, 2026](https://fortune.com/article/price-of-ethereum-07-22-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 11h ago
 
 ---
 
@@ -228,13 +228,23 @@ thestreet.com • 7h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee’s BMNR Buyback Changes The Ethereum Trade As MSTR Loses Its Bitcoin Premium](https://www.youtube.com/watch?v=c3JoYMG70fI)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
+
+📺 MONEY GAME
+
+👁️ 300 • 👍 22 • 💬 1 • ⏱️ 17:35 • 1h ago
+
+---
+
 **[Has ETH/BTC Bottomed and Who Leads From Here?](https://www.youtube.com/watch?v=RbHseJJPgvw)**
 
 We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
 📺 Milk Road
 
-👁️ 912 • 👍 57 • 💬 38 • ⏱️ 39:53 • 6h ago
+👁️ 2K • 👍 88 • 💬 118 • ⏱️ 39:53 • 10h ago
 
 ---
 
@@ -244,7 +254,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 414 • 💬 69 • ⏱️ 19:54 • 1d ago
+👁️ 17K • 👍 454 • 💬 62 • ⏱️ 19:54 • 1d ago
+
+---
+
+**[BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_pwA09-e8Fs)**
+
+BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 245 • 💬 116 • ⏱️ 22:47 • 5h ago
 
 ---
 
@@ -254,7 +274,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 440 • 💬 133 • ⏱️ 10:38 • 10h ago
+👁️ 8K • 👍 465 • 💬 153 • ⏱️ 10:38 • 14h ago
 
 ---
 
@@ -264,7 +284,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 186 • 💬 47 • ⏱️ 17:49 • 1d ago
+👁️ 4K • 👍 197 • 💬 47 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -274,17 +294,7 @@ In 2023, Bitcoin was down 70%, hated, and completely abandoned by institutions. 
 
 📺 Lark Davis
 
-👁️ 13K • 👍 617 • 💬 59 • ⏱️ 11:56 • 2d ago
-
----
-
-**[Are You Paying Attention To ETH Yet?](https://www.youtube.com/watch?v=SY6CA9VfWAU)**
-
-Aaron Dishner walks through Ethereum's recent price action, noting last week's roughly 6% pullback from 1921 to 1800 and the ...
-
-📺 Coin Bureau Trading
-
-👁️ 5K • 👍 366 • 💬 32 • ⏱️ 16:28 • 1d ago
+👁️ 13K • 👍 622 • 💬 60 • ⏱️ 11:56 • 2d ago
 
 ---
 
@@ -294,37 +304,27 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 31 • ⏱️ 33:40 • 1d ago
+👁️ 21K • 👍 1K • 💬 31 • ⏱️ 33:40 • 1d ago
 
 ---
 
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=OZAQDVkVuG8)**
+**[Ethereum Outpacing Bitcoin - Watch Out!  (AI Bubble, BTC &amp; ETH)](https://www.youtube.com/watch?v=1bkpQ_fzgYw)**
 
-Let us dubiously speculate about the price of Ethereum! We discuss ETH/USD and ETH/BTC, discuss macro, interest rates, and ...
+Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Sign-up to the Mango Dashboard: ...
 
-📺 Benjamin Cowen
+📺 Mango Research
 
-👁️ 93K • 👍 5K • 💬 232 • ⏱️ 17:58 • 2d ago
-
----
-
-**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=y3zJZTvQ4EU)**
-
-In this video I break down the current Ethereum price action and the specific technical levels you need to watch as we navigate ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 209 • 💬 9 • ⏱️ 8:34 • 1d ago
+👁️ 497 • 👍 37 • 💬 50 • ⏱️ 13:01 • 6h ago
 
 ---
 
-**[Ethereum Staking Is Going Institutional — Lido Explains Why](https://www.youtube.com/watch?v=7G4zDpNaKrw)**
+**[Are You Paying Attention To ETH Yet?](https://www.youtube.com/watch?v=SY6CA9VfWAU)**
 
-Get immediate access to my entire crypto portfolio.. just $1.00 today! Go here to get access: ...
+Aaron Dishner walks through Ethereum's recent price action, noting last week's roughly 6% pullback from 1921 to 1800 and the ...
 
-📺 Crypto 101
+📺 Coin Bureau Trading
 
-👁️ 17 • 👍 2 • ⏱️ 20:23 • 5h ago
+👁️ 5K • 👍 374 • 💬 32 • ⏱️ 16:28 • 1d ago
 
 ---
 

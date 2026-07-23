@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-23T01:01:11.277204+00:00'
+updated: '2026-07-23T04:51:32.109497+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 23, 2026 at 01:01 UTC  
+**Last Updated:** July 23, 2026 at 04:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,6 +108,12 @@ I’m working on a mini self-driving car project with Ackermann steering. The ca
 
 ## Google News: "robotics"
 
+**[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
+
+Axios • 5h ago
+
+---
+
 **[Samsung Electronics shares rise as robotics move highlights push into physical AI](https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html)**
 
 Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
@@ -118,7 +124,7 @@ CNBC • 1d ago
 
 **[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -130,25 +136,19 @@ Engadget • 1d ago
 
 ---
 
-**[Gritt exits stealth with $32 million for robots to build solar plants — then, everything else](https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/)**
-
-Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.
-
-TechCrunch • 1d ago
-
----
-
 **[Tesla’s profits slide despite growing revenue as it pivots to robotics and AI](https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings)**
 
 Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
 
-The Guardian • 4h ago
+The Guardian • 7h ago
 
 ---
 
-**[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
+**[Travis Kalanick’s robotics company raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)**
 
-Axios • 1h ago
+Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
+
+TechCrunch • 10h ago
 
 ---
 
@@ -156,13 +156,13 @@ Axios • 1h ago
 
 Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic
 
-NASA (.gov) • 6h ago
+NASA (.gov) • 10h ago
 
 ---
 
 **[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
 
-WSJ • 15h ago
+WSJ • 19h ago
 
 ---
 
@@ -170,15 +170,15 @@ WSJ • 15h ago
 
 Ukraine's battlefield surge of robots now features airdrops and beach assaults.
 
-Ars Technica • 13h ago
+Ars Technica • 17h ago
 
 ---
 
-**[Exclusive / Google, Nvidia deepen Europe robotics play with startup compute deal](https://www.semafor.com/article/07/21/2026/google-nvidia-deepen-europe-robotics-play-with-microagi-compute-deal)**
+**[Robotics developer Vicarious Surgical shuts down to liquidate assets](https://www.massdevice.com/robotics-developer-vicarious-surgical-shuts-down-to-liquidate-assets/)**
 
-Google and Nvidia are partnering with German data-robotics startup Microagi to provide computing power to train and deploy humanoids in factories.
+Vicarious Surgical investors voted to close the struggling surgical robotics developer and sell off its assets.
 
-Semafor • 17h ago
+MassDevice • 1d ago
 
 ---
 
@@ -186,33 +186,23 @@ Semafor • 17h ago
 
 ## YouTube Videos: "robotics"
 
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
-
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
-
-📺 New York Post
-
-👁️ 9K • 👍 309 • 💬 121 • ⏱️ 2:02 • 10h ago
-
----
-
 **[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
 
 America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
 
 📺 Living in China
 
-👁️ 21K • 👍 1K • 💬 97 • ⏱️ 12:28 • 1d ago
+👁️ 25K • 👍 2K • 💬 102 • ⏱️ 12:28 • 1d ago
 
 ---
 
-**[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
+**[America Is Now Building Humanoid AI Robot Soldiers for War](https://www.youtube.com/watch?v=Qm64Vm-lf80)**
 
-China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
+An American robotics startup is preparing humanoid AI robots for war. Its Phantom machines have already been tested in Ukraine, ...
 
-📺 RedTech Insights
+📺 AI Revolution
 
-👁️ 18K • 👍 383 • 💬 28 • ⏱️ 19:31 • 2d ago
+👁️ 25K • 👍 724 • 💬 105 • ⏱️ 13:15 • 4d ago
 
 ---
 
@@ -222,37 +212,37 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 42K • 👍 457 • 💬 177 • ⏱️ 4:18 • 4d ago
+👁️ 43K • 👍 468 • 💬 177 • ⏱️ 4:18 • 4d ago
 
 ---
 
-**[AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)](https://www.youtube.com/watch?v=wZCCTKjwXzg)**
+**[New Side Hustle: Training Robots (Is it Worth It?)](https://www.youtube.com/watch?v=yfZhpEupz5M)**
 
-The AI Job Revolution by Robots Has Already Begun! I'm reporting live from the World AI Conference (WAIC), and what I'm seeing ...
+Humanoid robots have a big data problem. One solution? Pay humans to train them. I spent three weeks testing MicroAGI's Shift ...
 
-📺 1M65
+📺 Joanna Stern
 
-👁️ 21K • 👍 341 • 💬 79 • ⏱️ 13:38 • 3d ago
-
----
-
-**[Which Robots Are EVIL?](https://www.youtube.com/watch?v=ufs0tw-6uuk)**
-
-Which Robots Are EVIL? #smartypants #dropout #presentation ➡️ Watch this episode of Smartypants on Dropout: ...
-
-📺 Smartypants
-
-👁️ 200K • 👍 15K • 💬 182 • ⏱️ 2:00 • 4d ago
+👁️ 86K • 👍 3K • 💬 269 • ⏱️ 12:02 • 6d ago
 
 ---
 
-**[This Robot Is Almost Human.](https://www.youtube.com/watch?v=qXxAHBbWMDs)**
+**[The UFC for Robots: China&#39;s Insane New Humanoid Fighting League](https://www.youtube.com/watch?v=0IqoJ-XxDtA)**
 
-What if a robot could look you in the eyes. smile. and hold a conversation just like a human? ** Meet the **Origin F1**, ...
+The UFC for Robots: China's Insane New Humanoid Fighting League The future of combat sports has officially arrived.
 
-📺 Dark Narr
+📺 Job Othoniel
 
-👁️ 6K • 👍 160 • 💬 13 • ⏱️ 0:44 • 14h ago
+👁️ 21K • 👍 144 • 💬 51 • ⏱️ 0:27 • 5d ago
+
+---
+
+**[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
+
+China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
+
+📺 RedTech Insights
+
+👁️ 19K • 👍 390 • 💬 29 • ⏱️ 19:31 • 2d ago
 
 ---
 
@@ -262,27 +252,37 @@ The future of combat sports has arrived! Witness the high-stakes action as the R
 
 📺 Chris Wabs
 
-👁️ 289K • 👍 7K • 💬 3K • ⏱️ 11:15 • 5d ago
+👁️ 299K • 👍 7K • 💬 3K • ⏱️ 11:15 • 5d ago
 
 ---
 
-**[Robot Teacher Arrives](https://www.youtube.com/watch?v=--PdOVo3sJ8)**
+**[Beni All-Terrain Following Camera Robot](https://www.youtube.com/watch?v=OdIy-kxjyuk)**
 
-Sally, the humanoid robot teaching assistant, is set to make her debut in an upstate New York classroom. What do you think?
+This is Beni and he is an all-terrain camera robot that can lock on to you and follow you while filming in 4K. Beni is more than just ...
 
-📺 NowThis Impact
+📺 Air Photography
 
-👁️ 53K • 👍 4K • 💬 539 • ⏱️ 1:05 • 2d ago
+👁️ 82K • 👍 2K • 💬 216 • ⏱️ 7:15 • 6d ago
 
 ---
 
-**[A Chinese Robot Just Decapitated Another Robot In Public. Nobody Asked What Comes Next](https://www.youtube.com/watch?v=rUjlFRok3qk)**
+**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
 
-Everyone is asking if killer robots are coming. Wrong question. One already knocked another robot's head clean off, on camera ...
+America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
 
-📺 Ambrose In China
+📺 S3 | Science, Startups, & Stories
 
-👁️ 427K • 👍 16K • 💬 4K • ⏱️ 2:25 • 2d ago
+👁️ 35K • 👍 1K • 💬 93 • ⏱️ 14:37 • 4d ago
+
+---
+
+**[Xiaomi AI Robot 02 Drops New Autonomous Bombshell (X1 HUMANOID)](https://www.youtube.com/watch?v=lLMYgOFgGmM)**
+
+Earn $100s/hr discussing your expertise with AI as referred by AI News: https://t.mercor.com/x1Eve or ...
+
+📺 AI News
+
+👁️ 9K • 👍 226 • 💬 29 • ⏱️ 8:04 • 6d ago
 
 ---
 
