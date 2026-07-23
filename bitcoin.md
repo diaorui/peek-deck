@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-23T14:41:17.484197+00:00'
+updated: '2026-07-23T16:26:25.575843+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 14:41 UTC  
+**Last Updated:** July 23, 2026 at 16:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,916.96
+### $65,541.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +1.9%  
-**30d:** +6.7%  
-**90d:** -16.0%  
-**1y:** -44.9%  
+**24h:** -1.8%  
+**7d:** +1.4%  
+**30d:** +6.2%  
+**90d:** -16.5%  
+**1y:** -45.2%  
 
 ---
 
@@ -77,75 +77,81 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Me 5 minutes after BTC hits a new All-Time High](https://www.reddit.com/r/Bitcoin/comments/1v2qvv1/me_5_minutes_after_btc_hits_a_new_alltime_high/)**
+**[LFG](https://www.reddit.com/r/Bitcoin/comments/1v3z9nm/lfg/)**
 
-1d ago
-
----
-
-**[Russia's parliament just passed a bill letting retail investors buy Bitcoin. There's a mandatory exam and a $3,900/year cap.](https://www.reddit.com/r/Bitcoin/comments/1v3bbt0/russias_parliament_just_passed_a_bill_letting/)**
-
-Passed by the State Duma yesterday (July 21). Not a rumor, not someone's translation of a Telegram post, the actual bill. Here's what's in it: New licensing registry for exchanges, custodians, and brokers. Existing platforms get roughly a year to register. Retail investors can buy the most liquid crypto assets (bitcoin is the obvious flagship candidate, the report doesn't name the full list) through a registered intermediary, after passing a knowledge test. Cap for retail: 300,000 rubles (~$3,900) per year, per intermediary. Qualified investors also have to pass a test, but face no purchase cap. Prior trading history can count toward qualifying. Owning ≠ spending. This bill legalizes buying and holding bitcoin, it does not legalize using it as money. Paying for groceries in bitcoin is still banned domestically, so the ruble keeps its monopoly on everyday transactions. Carve-outs: foreign-trade settlement, mined crypto, and some securities transactions are exempt from that ban. Banks are required to block transfers to anyone they suspect of running an unregistered exchange. Timeline: first reading was back in April. Most provisions are set to take effect Sept. 1. It still needs to clear the Federation Council and get signed into law, expected, but not done yet. The part worth sitting with: a government that's spent years treating bitcoin as a threat to its monetary sovereignty just built a formal, licensed path for its own citizens to buy it. Gated by an exam and a spending cap, but a path. That's the move a state eventually makes once it accepts it can't kill the protocol, it regulates the door instead. Source: The Block / The Bitcoin Act I track moves like this across dozens of jurisdictions, if anyone wants the source link or a country-by-country comparison, ask below and I'll drop it. Genuine question for the sub: does "exam + cap to start, uncapped once you qualify" count as a country actually opening the door to bitcoin, or is it just a more polite capital control? Where's the line for you?
-
-1d ago
+15h ago
 
 ---
 
-**[How to make Bitcoin private?](https://www.reddit.com/r/Bitcoin/comments/1v37vbq/how_to_make_bitcoin_private/)**
+**[Another bank, bending the knee: BancaStato Launches Bitcoin Trading](https://www.reddit.com/r/Bitcoin/comments/1v45hlm/another_bank_bending_the_knee_bancastato_launches/)**
 
-I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
+BancaStato has become the latest Swiss bank to offer regulated bitcoin trading through its existing banking apps via Sygnum's infrastructure.
 
-1d ago
-
----
-
-**[BlackRock says quantum is the main reason investors are staying away from Bitcoin. Should we listen?](https://www.reddit.com/r/Bitcoin/comments/1v2shjy/blackrock_says_quantum_is_the_main_reason/)**
-
-I just watched this podcast episode where BlackRock's Head of Digital Assets Research (Will Su) said that the quantum threat is what's keeping Bitcoin from being mass-adopted. From his words, "some of the folks that would've certainly come in to engage with Bitcoin have probably held back a bit because of this quantum question," and when asked by the host whether the concern is "meaningfully affecting adoption", his answer was: "Yes. 100%." So I'm wondering, why are we delaying the response for this threat, especially if that is going to bring in more investors (and, well, more importantly, protect Bitcoin from quantum computers)? I've seen multiple proposals to start addressing this, the one on top being BIP 360 (P2MR) Any thoughts? Am I missing something here? This is the episode I'm talking about: https://youtu.be/Puv7Yyymy6M
-
-1d ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 10h ago
 
 ---
 
-**[I have unplugged from the matrix](https://www.reddit.com/r/Bitcoin/comments/1v32m6u/i_have_unplugged_from_the_matrix/)**
+**[Investing into bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1v4aabe/investing_into_bitcoin/)**
 
-The Matrix is a system Neo, and that system, is our enemy... I just bought bitcoin and put it into a cold wallet, after so many years of thinking it's a Ponzi scheme or whatever, but I understand it now, it's not a quick get rich scheme, it's not about being rich, I've chosen the red pill. I'm a proud bitcoin holder.
+Is bitcoin finally starting to bottom out? I know that this has been one of the significant drops in bitcoin in recent history but when is it finally gonna bottom out into we enter into the bullish trends. What's everyone's plans in when they are going to be investing and doubling down?
 
-1d ago
-
----
-
-**[White House agrees to ethics provision in crypto bill](https://www.reddit.com/r/Bitcoin/comments/1v2ypcr/white_house_agrees_to_ethics_provision_in_crypto/)**
-
-🔗 [thehill.com](https://thehill.com/policy/technology/5981574-white-house-crypto-clarity-act-ethics-provision/) • 1d ago
+5h ago
 
 ---
 
-**[There was a time when I honestly had no idea what to do next](https://www.reddit.com/r/Bitcoin/comments/1v3cdpt/there_was_a_time_when_i_honestly_had_no_idea_what/)**
+**[Can we get to 69420 again?](https://www.reddit.com/r/Bitcoin/comments/1v43eq5/can_we_get_to_69420_again/)**
 
-There was a time when I honestly had no idea what to do next. I lost the job I had been at for 5 years. The first few days were a complete shock. The only thoughts in my head were: "What now? What am I supposed to do?" The hardest part wasn't even losing the job. The hardest part was feeling completely lost. It felt like everyone around me was moving forward while I was stuck in the same place. Honestly, if it wasn't for my family, it would have been much harder. Instead of blaming me, they simply said, "We'll figure it out." That support gave me the strength not to give up. After a while, I realized there was no point in sitting around waiting. I started looking for different ways to make money. I watched videos, tried different things, made mistakes, and wasted time. Then one day I accidentally came across crypto testnets. At first, I had absolutely no idea what I was doing. But little by little, I started figuring things out. And honestly, it wasn't even about crypto. For the first time in a long time, I felt like I was in control of my life again. Small steps, but moving forward. If you're interested in how crypto testnets work, I already have a post about them. If you can't find the information you're looking for online, feel free to message me. If I can help, I'd be happy to. And just to be clear, I'm not selling anything. I'm sharing this because I know what it's like to be in a place where it feels like there's no way out. If you're going through a tough period right now, just know that it won't last forever. I'm genuinely curious. Have you ever had a moment when life suddenly didn't go according to plan? What helped you get through it?
+That'd be sweet.
 
-1d ago
+11h ago
 
 ---
 
-**[Daily Discussion, July 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1v37fq1/daily_discussion_july_22_2026/)**
+**[Do you ever sell your bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1v40ten/do_you_ever_sell_your_bitcoin/)**
+
+26 y/o. My significant other & I pretend we don’t have them, don’t touch it, we’ve never sold. But just out of curiosity, does everyone in it for the long haul (20-30 years) ever think about selling?
+
+14h ago
+
+---
+
+**[Daily Discussion, July 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1v458eg/daily_discussion_july_23_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1d ago
+10h ago
 
 ---
 
-**[This is only the third weekly bullish divergence on record. Both prior instances marked absolute bottoms. The third just fired.](https://www.reddit.com/r/Bitcoin/comments/1v2hi5w/this_is_only_the_third_weekly_bullish_divergence/)**
+**[arca personal data haven - Reservations Are Open](https://www.reddit.com/r/Bitcoin/comments/1v4bdel/arca_personal_data_haven_reservations_are_open/)**
 
-2d ago
+Reserve arca, Coinkite’s personal data haven for encrypted secrets, recovery, business continuity, inheritance, and multi-location Swarm backups.
+
+🔗 [COINKITE Blog](https://blog.coinkite.com/arca-reservations-are-open/) • 4h ago
 
 ---
 
-**[Russia plans to advance cryptocurrency legislation tomorrow.](https://www.reddit.com/r/Bitcoin/comments/1v2p00i/russia_plans_to_advance_cryptocurrency/)**
+**[⚡ Lightning Thursday! July 23, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1v46ccv/lightning_thursday_july_23_2026_explore_the/)**
 
-1d ago
+The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+
+9h ago
+
+---
+
+**[yggr - coffee, for sats](https://www.reddit.com/r/Bitcoin/comments/1v3vwd1/yggr_coffee_for_sats/)**
+
+I built an online bitcoin marketplace on top of the lightning network. We only accept bitcoin and it settles in bitcoin. I saw Lightning's utility as soon as it was introduced, and I've wanted to combine it with my love of roasting coffee ever since. Having arduously developed multiple websites and software products on Stripe and Finix, I found it a breath of fresh air to avoid the embedded payment forms, the transaction fees, and the liability of collecting PII and card info Integrating with the lightning network was a no brainer and I hope it contributes to the ever growing body of proof that bitcoin is more than just a store of value and can be used very effectively as a currency. It's live right now. You can order and pay in sats today. Please feel free to comment any feedback!
+
+🔗 [yggr.xyz](https://yggr.xyz) • 17h ago
+
+---
+
+**[Even companies buy high & sell low: Satsuma Shareholders Approve Bitcoin Liquidation](https://www.reddit.com/r/Bitcoin/comments/1v3hnx2/even_companies_buy_high_sell_low_satsuma/)**
+
+These lads bought at $113k, kept selling at lower prices, ready to sell the rest. Feels like Bogdanoff about to get the call.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/satsuma-shareholders-bitcoin-liquidation) • 1d ago
 
 ---
 
@@ -153,71 +159,57 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bulls face a test unlike anything in bitcoin's 17-year history: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/23/bulls-face-a-test-unlike-anything-in-bitcoin-s-17-year-history)**
+**[Leading Financial Institutions & Bitcoin Companies Launch the Bitcoin Security Consortium](https://www.strategy.com/press/leading-financial-institutions-bitcoin-companies-launch-the-bitcoin-security-consortium_07-23-2026)**
 
-The day ahead in crypto: July 23, 2026
+July 23, 2026
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin consolidates below $66,000 as a 13% July recovery runs out of steam](https://www.coindesk.com/markets/2026/07/23/crypto-catches-its-breath-as-bitcoin-settles-into-a-holding-pattern-after-its-best-month-since-january)**
-
-BTC is rangebound between $64,000 and $66,800 after a 13% recovery from July's lows, with macro markets offering little direction and WLFI the session's surprise standout at +12%.
-
-CoinDesk • 4h ago
+Strategy • 4h ago
 
 ---
 
-**['Optimistic signals' meet a $68,000 wall as bitcoin's recovery faces its next test: analysts](https://www.theblock.co/post/409398/optimistic-signals-meet-68000-wall-bitcoin-recovery-faces-next-test-analysts)**
+**[Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart](https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart)**
 
-Bitcoin holds above $65,800 as spot ETFs log a sixth day of inflows. Bitfinex analysts flag $68K resistance as the next test.
+The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-The Block • 23h ago
-
----
-
-**[Bitcoin hits 5-week high: Investor's next move](https://www.cnbc.com/video/2026/07/21/bitcoin-hits-5-week-high-investors-next-move.html)**
-
-CNBC’s Oliver Renick joins ‘Halftime Report’ to discuss the latest Options Action in the crypto space.
-
-CNBC • 1d ago
+CoinDesk • 6h ago
 
 ---
 
-**[BlackRock, Coinbase Join $15M Bitcoin Quantum Push](https://bitcoinfoundation.org/news/bitcoin/blackrock-coinbase-join-15m-bitcoin-quantum-push/)**
-
-Nine financial and crypto companies have launched a new consortium, pledging $15 million for Bitcoin quantum-resistance work.
-
-Bitcoin Foundation • 1h ago
-
----
-
-**[Hut 8 Stock Surges Up to 200% in 2026 as Bitcoin Mining Unit Struggles](https://finance.yahoo.com/markets/stocks/articles/hut-8-stock-surges-200-021407093.html)**
-
-Hut 8 stock is up 202% in 2026 on AI hyperscaler deals, but its bitcoin mining spinoff keeps losing value.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin grinds higher from here, can't get much worse, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/07/22/bitcoin-grinds-higher-from-here-cant-get-much-worse-says-skybridges-anthony-scaramucci.html)**
-
-The 'Fast Money' traders talk the recent downturn in crypto.
-
-CNBC • 16h ago
-
----
-
-**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
+**[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Current price of Bitcoin for July 22, 2026](https://fortune.com/article/price-of-bitcoin-07-22-2026/)**
+**[Live markets: Bitcoin slides as stocks slump on Iran war expansion, AI spending concern](https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade)**
 
-Fortune • 1d ago
+Google parent Alphabet beat on revenue but raised its AI spending forecast again, sending its shares sharply lower.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html)**
+
+Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
+
+Yahoo Finance • 59m ago
+
+---
+
+**[Best 5 Altcoins to Buy Before August 2026 — These Could Lead the Next Crypto Rally](https://bitcoinfoundation.org/news/altcoins/best-5-altcoins-buy-before-august-2026/)**
+
+The crypto market is approaching August with Bitcoin still controlling approximately 56% of total market capitalization. The global market is worth roughly $2.3 trillion, but...
+
+Bitcoin Foundation • 20m ago
+
+---
+
+**[MSTR Stock Falls Amid Bitcoin’s Drop Below $65K – Strategy Joins BlackRock, Coinbase In $15 Million Bitcoin Security Push](https://finance.yahoo.com/markets/crypto/articles/mstr-stock-falls-amid-bitcoin-144057683.html)**
+
+The dip in MSTR’s stock came alongside weakness in the overall cryptocurrency market, with Bitcoin’s price dropping below the $65,000 level.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -225,7 +217,23 @@ Fortune • 1d ago
 
 The Department of Special Investigation has seized about 1,900 cryptocurrency mining machines after uncovering large-scale electricity theft estimated at 280 million baht linked to illegal bitcoin mining in Samut Sakhon.
 
-Bangkok Post • 5h ago
+Bangkok Post • 6h ago
+
+---
+
+**[Nasdaq-listed Zhibao Technology To Take 3,500 Bitcoin In Proposed PIPE Financing](https://bitcoinmagazine.com/news/zhibao-technology-to-take-3500-bitcoin)**
+
+Nasdaq-listed Zhibao Technology plans to accept 3,500 bitcoin in a proposed $220 million PIPE deal, a move that would transform the Chinese insurance-tech firm into the latest public company building a bitcoin treasury.
+
+Bitcoin Magazine • 19h ago
+
+---
+
+**['Not currently the right capital solution': Smarter Web sells 178 bitcoin to repay $11.7M convertible instrument](https://www.theblock.co/post/409506/not-currently-the-right-capital-solution-smarter-web-sells-178-bitcoin-to-repay-11-7m-convertible-instrument)**
+
+The Smarter Web Company sold 177.89 BTC at $65,762 to repay $11.7 million to TOBAM early, cancelling 7.7 million in potential share issuance.
+
+The Block • 5h ago
 
 ---
 
@@ -237,7 +245,7 @@ Bangkok Post • 5h ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 112 • 💬 105 • 1d ago • [opennode.com](https://opennode.com/)
+⬆️ 112 • 💬 109 • 1d ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -253,7 +261,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, protecting its purpose as sound, permissionless money.
 
-⬆️ 2 • 💬 1 • 23h ago • [BIP-110](https://bip110.org)
+⬆️ 2 • 💬 1 • 1d ago • [BIP-110](https://bip110.org)
 
 ---
 
@@ -261,7 +269,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
-⬆️ 2 • 💬 0 • 10h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
+⬆️ 2 • 💬 0 • 12h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
 
 ---
 
@@ -281,6 +289,14 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 ---
 
+**[Balance Stablecoin Collapses After Bitcoin Vault Is Drained](https://news.ycombinator.com/item?id=49023069)**
+
+Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
+
+⬆️ 1 • 💬 0 • 1h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+
+---
+
 **[I Vibe Coded an Inflation-Resistant Currency](https://news.ycombinator.com/item?id=48997365)**
 
 In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Nearly a decade later, crypto is still barely functional for the thing it was s...
@@ -293,7 +309,7 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
 
-⬆️ 14 • 💬 23 • 23h ago • [GitHub](https://github.com/bitmonky/BorgIOS)
+⬆️ 14 • 💬 23 • 1d ago • [GitHub](https://github.com/bitmonky/BorgIOS)
 
 ---
 
@@ -301,13 +317,7 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
 
-⬆️ 1 • 💬 0 • 11m ago • [GitHub](https://github.com/bitmonky/BorgIOS/blob/main/nodeJS/src/borgAgentBrain.js)
-
----
-
-**[Gen Z-Ers Are Ditching Sex. They Might Be onto Something](https://news.ycombinator.com/item?id=49016874)**
-
-⬆️ 7 • 💬 0 • 10h ago • [nytimes.com](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
+⬆️ 2 • 💬 0 • 1h ago • [GitHub](https://github.com/bitmonky/BorgIOS/blob/main/nodeJS/src/borgAgentBrain.js)
 
 ---
 
@@ -321,7 +331,7 @@ The 'Fast Money' traders talk the recent downturn in crypto.
 
 📺 CNBC Television
 
-👁️ 13K • 👍 169 • 💬 96 • ⏱️ 5:18 • 16h ago
+👁️ 13K • 👍 169 • 💬 96 • ⏱️ 5:18 • 18h ago
 
 ---
 
@@ -331,7 +341,7 @@ Let us talk about social interest for Bitcoin in 2026 and what we can expect goi
 
 📺 Benjamin Cowen
 
-👁️ 13K • 👍 1K • 💬 93 • ⏱️ 7:39 • 3h ago
+👁️ 13K • 👍 1K • 💬 93 • ⏱️ 7:39 • 5h ago
 
 ---
 
@@ -341,7 +351,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 315 • 💬 15 • ⏱️ 18:45 • 21h ago
+👁️ 9K • 👍 315 • 💬 15 • ⏱️ 18:45 • 22h ago
 
 ---
 
@@ -351,7 +361,7 @@ Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treas
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 699 • 💬 110 • ⏱️ 16:41 • 17h ago
+👁️ 10K • 👍 699 • 💬 110 • ⏱️ 16:41 • 19h ago
 
 ---
 
@@ -371,7 +381,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 582 • 💬 238 • ⏱️ 11:10 • 2d ago
+👁️ 11K • 👍 582 • 💬 238 • ⏱️ 11:10 • 3d ago
 
 ---
 
@@ -381,7 +391,7 @@ Cycles have no respect for trends.” Michael Howell is on the show to explain w
 
 📺 What Bitcoin Did
 
-👁️ 17K • 👍 567 • 💬 272 • ⏱️ 1:05:17 • 23h ago
+👁️ 17K • 👍 567 • 💬 272 • ⏱️ 1:05:17 • 1d ago
 
 ---
 
@@ -391,7 +401,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 404 • 💬 33 • ⏱️ 11:42 • 11h ago
+👁️ 5K • 👍 404 • 💬 33 • ⏱️ 11:42 • 13h ago
 
 ---
 
@@ -401,7 +411,7 @@ Bitcoin #Crypto #finance Bitcoin remains resilient above $65000 despite a wave o
 
 📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 145 • 💬 81 • ⏱️ 21:21 • 1h ago
+👁️ 1K • 👍 145 • 💬 81 • ⏱️ 21:21 • 2h ago
 
 ---
 

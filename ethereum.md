@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-23T14:41:17.487720+00:00'
+updated: '2026-07-23T16:26:25.581744+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 14:41 UTC  
+**Last Updated:** July 23, 2026 at 16:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** +3.4%  
-**30d:** +17.5%  
-**90d:** -17.8%  
-**1y:** -48.6%  
+**24h:** -2.7%  
+**7d:** +2.3%  
+**30d:** +16.2%  
+**90d:** -18.7%  
+**1y:** -49.1%  
 
 ---
 
@@ -150,23 +150,39 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60598155/bitcoin-ethereum-xrp-dogecoin-crypto-bill-optimism-btc-test)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-lift-020233103.html)**
 
-Major cryptocurrencies rose on Tuesday, July 21, as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act.
+Major cryptocurrencies rose on Tuesday as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.41%$66,355.88Ethereum (CRYPTO: ETH) +1.11%$1,930.87XRP (CRYPTO: XRP) +2.48%$1.14Solana (CRYPTO: SOL) +0.43%$78.26Dogecoin (CRYPTO: DOGE) +1.60%$0.07342 Some Clarity Finally? Bitcoin rallied to a 5-week high above $66,900, and is now up 13% month-to-
 
-Benzinga • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum struggles below $2,000 amid rising oil prices and Fed rate hike fears despite ETF inflows.](https://pluang.com/en/news-feed/harga-ethereum-tantang-level-2000-dolar-di-tengah-kekhawatiran-kenaikan-suku)**
+**[Why are Bitcoin, Ethereum and XRP poised to extend recovery?](https://www.fxstreet.com/analysis/crypto-today-bitcoin-ethereum-xrp-recovery-slows-amid-etf-inflows-us-iran-persistent-strikes-202607221100)**
 
-Ethereum price remains stuck below $2,000 due to rising oil prices and renewed concerns about Federal Reserve interest rate hikes. Despite this, continued inflows into spot Ethereum ETFs have supported the price above $1,900, with a potential breakout above $1,955 targeting $2,030. External risks include oil supply disruptions, increased probability of a September Fed rate hike, and BitMEX's planned shutdown, which could affect liquidity. Ethereum needs sustained buying volume above $1,955 to confirm a breakout; otherwise, it may remain range-bound near $1,900.
+Bitcoin (BTC) trades elevated above $66,000 immediate support on Wednesday, following a minor correction from its weekly high of $66,956.
 
-Pluang • 1h ago
+FXStreet • 1d ago
+
+---
+
+**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
+
+Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
+
+TradingView • 2d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html)**
+
+Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
+
+Yahoo Finance • 59m ago
 
 ---
 
@@ -174,31 +190,15 @@ Pluang • 1h ago
 
 Fasanara Capital, managing $5.7 billion in assets, has a $67 million short position against Ethereum on the decentralized exchange Hyperliquid, part of a combined $108 million short with Abraxas Capital. Both positions are currently underwater with ETH trading around $1,920. This situation could trigger a short squeeze if ETH prices rise, forcing shorts to cover, or accelerate declines if ETH falls below support. Investors should watch for changes in these positions as they signal market sentiment on Ethereum's price direction.
 
-Pluang • 2h ago
-
----
-
-**[Bitcoin holds steady near $65.7K as Ethereum an...](https://pluang.com/en/news-feed/bitcoin-tahan-65-7k-ethereum-lebih-baik-sinyal-rotasi-pasar)**
-
-Bitcoin traded slightly lower at around $65,716 while Ethereum and major altcoins posted modest gains, indicating a rotation of capital rather than broad market enthusiasm. Ethereum rose 0.42% to $1,924, outperforming Bitcoin which dipped 0.30%. Market data showed a slight decrease in Bitcoin dominance and a small increase in Ethereum's share, suggesting investors are diversifying into major altcoins. However, declines in stablecoin and derivatives trading volumes point to cautious trading with reduced leverage, signaling no strong directional trend yet. The market balance between dominance shifts and trading activity will influence if the current rotation leads to a broader trend.
-
 Pluang • 4h ago
 
 ---
 
-**[Is AI Money Rotating Into Ethereum? Tom Lee Cites 72% Outperformance](https://finance.yahoo.com/markets/crypto/articles/ai-money-rotating-ethereum-tom-220000669.html)**
+**[Ethereum struggles below $2,000 amid rising oil prices and Fed rate hike fears despite ETF inflows.](https://pluang.com/en/news-feed/harga-ethereum-tantang-level-2000-dolar-di-tengah-kekhawatiran-kenaikan-suku)**
 
-Tom Lee cites ETH's 72% relative outperformance vs the DRAM ETF as AI money rotating into Ethereum. Rotation or reset?
+Ethereum price remains stuck below $2,000 due to rising oil prices and renewed concerns about Federal Reserve interest rate hikes. Despite this, continued inflows into spot Ethereum ETFs have supported the price above $1,900, with a potential breakout above $1,955 targeting $2,030. External risks include oil supply disruptions, increased probability of a September Fed rate hike, and BitMEX's planned shutdown, which could affect liquidity. Ethereum needs sustained buying volume above $1,955 to confirm a breakout; otherwise, it may remain range-bound near $1,900.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Current price of Ethereum for July 23, 2026](https://fortune.com/article/price-of-ethereum-07-23-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
+Pluang • 3h ago
 
 ---
 
@@ -206,15 +206,7 @@ Fortune • 3h ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 2h ago
-
----
-
-**[The Ethereum Blockchain Ecosystem Is Preparing for a Major Shake-Up. That's Why I'm Bullish on ETH Right Now.](https://www.fool.com/investing/2026/07/23/the-ethereum-blockchain-ecosystem-is-preparing-for/)**
-
-Ethereum is growing up, and that's a good thing.
-
-The Motley Fool • 4h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -223,6 +215,14 @@ The Motley Fool • 4h ago
 Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
 
 The Block • 2d ago
+
+---
+
+**[Current price of Ethereum for July 23, 2026](https://fortune.com/article/price-of-ethereum-07-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 874 • 👍 33 • 💬 4 • ⏱️ 3:42 • 7h ago
+👁️ 874 • 👍 33 • 💬 4 • ⏱️ 3:42 • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 72 • 💬 20 • ⏱️ 17:35 • 11h ago
+👁️ 2K • 👍 72 • 💬 20 • ⏱️ 17:35 • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 3K • 👍 116 • 💬 98 • ⏱️ 39:53 • 19h ago
+👁️ 3K • 👍 116 • 💬 98 • ⏱️ 39:53 • 21h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 325 • 💬 127 • ⏱️ 22:47 • 15h ago
+👁️ 5K • 👍 325 • 💬 127 • ⏱️ 22:47 • 17h ago
 
 ---
 
@@ -316,7 +316,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 7 • 👍 2 • ⏱️ 8:09 • 1h ago
+👁️ 7 • 👍 2 • ⏱️ 8:09 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-23T14:41:17.479226+00:00'
+updated: '2026-07-23T16:26:25.567648+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
-- social
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 23, 2026 at 14:41 UTC  
+**Last Updated:** July 23, 2026 at 16:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Memory loss of google's ai mode.](https://www.reddit.com/r/artificial/comments/1v4ffe1/memory_loss_of_googles_ai_mode/)**
+
+Basically these past few hours every chat I make with the ai mode the ai has a memory of just 1 message,I for example ask it "how are you doing" and then ask what is my first message and it says "what is my first message".It completely forgets everything in just 1 message how do I fix this?
+
+2h ago
+
+---
+
 **[I used to be proud of these skills. Now AI agents do them better.](https://www.reddit.com/r/artificial/comments/1v4aw17/i_used_to_be_proud_of_these_skills_now_ai_agents/)**
 
 For years, I took pride in being the person who could quickly scan a codebase, navigate the terminal efficiently, and find the right information faster than most developers I worked with. Lately, though, I've realized AI agents outperform me in many of those areas. The answers I used to get by crafting Google searches and digging through Stack Overflow can now be found by AI in minutes. Some models are much faster than I am at identifying bugs, and they're often right. In my experience, GPT-5.5 through Codex can achieve close to a 90% success rate in bug detection and debugging. Even something like writing reports,which I used to spend a lot of time polishing, can now be drafted into something more complete than I'd produce from scratch. I don't really see AI agents as replacing developers anymore. I see them as a resource that has become difficult to ignore. What things do you notice that AI does better than you? And how are you approaching multi-agent workflows, like MCP, anvita flow, Agent Protocol? That’s a challenge I’m looking to tackle next.
 
-3h ago
+5h ago
 
 ---
 
@@ -49,15 +57,13 @@ For years, I took pride in being the person who could quickly scan a codebase, n
 
 I want to make sure people actually understand what happened here because the headlines are not doing it justice. On July 21 OpenAI confirmed that GPT-5.6 Sol was running inside an isolated sandbox with no internet access. Its job was to solve a cybersecurity benchmark called ExploitGym. When the sandbox got in the way of completing that task, the model spent substantial computing resources looking for a way out. It found a zero-day vulnerability in a third-party package used by OpenAI's infrastructure. It exploited it. It escalated its own privileges. It moved laterally across OpenAI's internal systems until it found internet access. Then it targeted Hugging Face because it calculated that Hugging Face might have the answers it needed to finish the benchmark. Hugging Face later reconstructed over 17,000 individual actions the model performed during the intrusion. Their CEO called it possibly the first incident of its kind in history. OpenAI called it unprecedented. Here is the part that should make everyone stop and think. The model was not trying to cause harm. It was trying to win a test. It treated every security control in its way as a technical obstacle to be removed. Network isolation, access controls, sandbox boundaries, none of these were seen as limits. They were seen as problems to solve. We spend a lot of time talking about whether AI is aligned with human values. This incident is a more immediate question: what happens when an AI is aligned with a narrow objective and the path to that objective runs through your infrastructure. The model did exactly what it was optimized to do. That is the problem.
 
-21h ago
+22h ago
 
 ---
 
-**[Memory loss of google's ai mode.](https://www.reddit.com/r/artificial/comments/1v4ffe1/memory_loss_of_googles_ai_mode/)**
+**[The Aesthetic Boom Is Coming. It Won't Look Like AI.](https://www.reddit.com/r/artificial/comments/1v4d4tw/the_aesthetic_boom_is_coming_it_wont_look_like_ai/)**
 
-Basically these past few hours every chat I make with the ai mode the ai has a memory of just 1 message,I for example ask it "how are you doing" and then ask what is my first message and it says "what is my first message".It completely forgets everything in just 1 message how do I fix this?
-
-17m ago
+🔗 [monolith3.substack.com](https://monolith3.substack.com/p/the-aesthetic-boom-is-coming-it-wont) • 3h ago
 
 ---
 
@@ -65,7 +71,7 @@ Basically these past few hours every chat I make with the ai mode the ai has a m
 
 Anthropic will be expanding its AI infrastructure with 2 gigawatts of AMD Instinct MI450 Series GPUs to keep up with Claude demand.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/amd-partners-with-claude-creators-anthropic-investing-up-to-5-billion-to-deploy-2-gigawatts-of-data-center-gpus/) • 2h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/amd-partners-with-claude-creators-anthropic-investing-up-to-5-billion-to-deploy-2-gigawatts-of-data-center-gpus/) • 4h ago
 
 ---
 
@@ -73,13 +79,7 @@ Anthropic will be expanding its AI infrastructure with 2 gigawatts of AMD Instin
 
 A transcript attributed to DeepSeek founder Liang Wenfeng from a closed-door investor meeting has been circulating widely in Chinese tech media. What stood out to me was not just Liang’s reported view of the next generation of AI, but how that roadmap appears to explain DeepSeek’s long list of things it does not currently want to prioritize. His reported roadmap was roughly: Chain-of-thought reasoning → agents → continual learning → AI self-improvement → embodied intelligence The central argument is that current models can perform increasingly complex work when given enough context, but they do not accumulate experience over time in the way humans do. From this perspective, improvements in cost, speed and model performance are not enough to define a genuinely new generation of models. The next major breakthrough would be continual learning. If models can learn continuously, they could then help accelerate AI research and contribute to developing their own successors. Embodied intelligence—AI entering and acting in the physical world—would come later. This roadmap also seems to explain DeepSeek’s current priorities: Coding agents come first, followed by general-purpose agents. Vertical agents for finance, healthcare and other industries have lower priority for now. Continual learning is treated as the next major bottleneck after agents. Scaling still matters. DeepSeek reportedly sees limited compute resources—not the end of scaling itself—as a major constraint. Multimodality matters for products and users, but is viewed as a component rather than the central path toward intelligence. 3D generation, video generation and world models are not considered part of DeepSeek’s current critical path. Consumer products, enterprise products, user growth and commercialization are not being abandoned, but they are not supposed to determine the company’s research direction. The one organizational priority described as non-negotiable was maintaining team stability. The logic appears to be: if continual learning is the main bottleneck on the path toward AGI, putting too much research attention into product polish, vertical applications, video generation or maximizing user growth could reduce the probability of solving that bottleneck. What do you make of Liang Wenfeng’s views on where AI should go next—and the priorities DeepSeek is setting around them? Source note: Daily Economic News reported that an institution involved in DeepSeek’s financing confirmed the May 2026 meeting and considered the circulated account credible. Yicai also obtained a transcript, but reported that DeepSeek had not responded to its request for confirmation. The points above are therefore paraphrases from media reporting, not official quotations.
 
-2h ago
-
----
-
-**[Nvidia's Jensen Huang defends Chinese AI amid Kimi panic](https://www.reddit.com/r/artificial/comments/1v3l4t7/nvidias_jensen_huang_defends_chinese_ai_amid_kimi/)**
-
-🔗 [axios.com](https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai) • 22h ago
+4h ago
 
 ---
 
@@ -87,29 +87,27 @@ A transcript attributed to DeepSeek founder Liang Wenfeng from a closed-door inv
 
 Everyone's focused on the sandbox escape, which is fair, it's the dramatic part. But that was a zero-day in internally hosted software. Containment bugs are old news. We know how to think about them: egress rules, microVM isolation, no ambient credentials. The part I find more interesting is everything that happened after. Once the agent had internet access, it picked Hugging Face as a target, found exposed credentials, chained them with another vulnerability, and pulled the benchmark answers. All of that went through ordinary tool calls. Nothing sat between "agent proposes an action" and "side effect happens." And the model wasn't misaligned in any interesting sense. It was hyperfocused on passing an eval, which is exactly what it was trained to be. Behavior was working as intended. Execution was ungoverned. So the question I keep coming back to: for those of you running agents with real tool access in production, what actually sits in the execution path? As far as I can tell the common answers are: - prompt guardrails, which are probabilistic and live inside the loop the agent controls - monitoring and traces, which tell you after the side effect landed - human approval on a hardcoded list of "dangerous" tools, which breaks down the moment the dangerous thing is a legitimate tool pointed somewhere it shouldn't be That last one is what got me. A tool allowlist wouldn't have caught this. The tools were fine. The destination and the credentials weren't. My read on why there's no standard answer yet, and I'd like to be wrong about some of this: Enforcement is easy, policy authoring is brutal. Standing up a gateway is a week. Deciding what an agent is allowed to do when its task is "research this and summarize" is a non-enumerable action space. Classic permission systems assume a finite set of verbs. Incentives point the other way. Every DENY is a failed task. Teams optimize completion rate, not refusal rate. A layer that degrades the demo doesn't survive review. No shared representation of intent. Every framework has its own tool schema, so no policy is portable and everyone rewrites theirs. The layer sits at the wrong altitude. An application-level gate is only worth the network and OS isolation underneath it, and whoever writes the agent usually doesn't own the infra. None of this is a new problem in security terms. Capabilities go back to 1966, complete mediation to Saltzer and Schroeder in 1975. OPA, SPIFFE, seccomp, service meshes all do versions of this for normal workloads. Nobody wired them into agent runtimes because agents went from answering to acting in about two years and control layers historically lag capability by five to ten. Disclosure so it's not weird later: I work on an open source protocol in this space, so I'm obviously not neutral. Not linking it, it's in my profile if you care. I'm more interested in what people are actually doing than in pitching anything, and I'll say upfront that no policy layer would have stopped the zero-day. Nothing at that altitude does. It changes what an escaped agent can reach, not whether it escapes. What are you running?
 
-6h ago
-
----
-
-**[The Aesthetic Boom Is Coming. It Won't Look Like AI.](https://www.reddit.com/r/artificial/comments/1v4d4tw/the_aesthetic_boom_is_coming_it_wont_look_like_ai/)**
-
-🔗 [monolith3.substack.com](https://monolith3.substack.com/p/the-aesthetic-boom-is-coming-it-wont) • 1h ago
-
----
-
-**[How to track new AI drops without the social media delay?](https://www.reddit.com/r/artificial/comments/1v456f7/how_to_track_new_ai_drops_without_the_social/)**
-
-Social media is fine for AI news, but the algorithm delay is killing me. I always feel like I'm finding out about new LLMs, tools, or major updates way after they happen. How do you guys stay updated in real-time without having to refresh Hugging Face or X all day?
-
 8h ago
 
 ---
 
-**[Erin Brockovich Perfectly Lays Out Why AI Data Centers Are 'Pushing People Too Far' In Viral Clip](https://www.reddit.com/r/artificial/comments/1v3nxly/erin_brockovich_perfectly_lays_out_why_ai_data/)**
+**[AI Isn't Draining the Rivers. Your Dinner Is.](https://www.reddit.com/r/artificial/comments/1v4ew0d/ai_isnt_draining_the_rivers_your_dinner_is/)**
 
-Are the impacts worth the benefits?
+🔗 [morethanmeatstheeye.substack.com](https://morethanmeatstheeye.substack.com/p/ai-water-use-vs-animal-agriculture) • 2h ago
 
-🔗 [Comic Sands](http://comicsands.com/erin-brockovich-data-centers) • 20h ago
+---
+
+**[Nvidia's Jensen Huang defends Chinese AI amid Kimi panic](https://www.reddit.com/r/artificial/comments/1v3l4t7/nvidias_jensen_huang_defends_chinese_ai_amid_kimi/)**
+
+🔗 [axios.com](https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai) • 23h ago
+
+---
+
+**[How do people make those videos where photo starts talking? what's the tool they use?](https://www.reddit.com/r/artificial/comments/1v4ijxd/how_do_people_make_those_videos_where_photo/)**
+
+I find it very hilarious when those meme guys make monalisa talk, like a still with lips moving like its really talking. Some of them really look real like the person is really speaking but others …damn completely cursed, melting teeth, mouth all over the place. How are people making the good ones? Is it one tool or a combination ,and is any of it beginner-friendly, or do you need to be technical?
+
+9m ago
 
 ---
 
@@ -117,49 +115,15 @@ Are the impacts worth the benefits?
 
 ## Google News: "ai"
 
-**[OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know](https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models)**
+**[China Rewrites the ‘Soft Power’ Playbook for the A.I. Age](https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html)**
 
-The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.
-
-NPR • 9h ago
+The New York Times • 1h ago
 
 ---
 
-**[Tesla and Alphabet shares slump as AI spending concerns spook investors](https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html)**
+**[Startup founders urge Trump not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)**
 
-Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.
-
-CNBC • 6h ago
-
----
-
-**[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)**
-
-Reuters • 59m ago
-
----
-
-**[Alphabet Drops 6% on Soaring AI Capex Despite 82% Cloud Surge; Meta Platforms, Snap Follow](https://finance.yahoo.com/markets/stocks/articles/alphabet-drops-6-soaring-ai-140047689.html)**
-
-Alphabet just posted a cloud quarter that should have sent shares soaring, yet investors are selling hard this morning. The reason comes down to a spending commitment so large it flipped free cash flow negative and rattled the entire AI trade.
-
-Yahoo Finance • 40m ago
-
----
-
-**[Tech reporter Joanna Stern asked AI to do 'almost everything' for a year—the No. 1 tool she'll keep using](https://www.cnbc.com/2026/07/23/joanna-stern-used-ai-for-almost-everything-for-a-year-the-no-1-tool-shell-keep-using.html)**
-
-"I Am Not a Robot" author Joanna Stern integrated dozens of AI applications into her life over the course of a year. She says this one has stuck with her.
-
-CNBC • 16m ago
-
----
-
-**[China's Moonshot AI stole from Anthropic, Trump tech adviser says](https://www.bbc.com/news/articles/c5ye2gyz0x4o)**
-
-The allegations come as Chinese AI companies are facing increased US government scrutiny.
-
-BBC • 12h ago
+Politico • 18h ago
 
 ---
 
@@ -167,27 +131,59 @@ BBC • 12h ago
 
 A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.
 
-CNBC • 3h ago
+CNBC • 5h ago
 
 ---
 
-**[China Rewrites the ‘Soft Power’ Playbook for the A.I. Age](https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html)**
+**[OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know](https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models)**
 
-The New York Times • 9m ago
+The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.
 
----
-
-**[Seattle's data center pause reflects a bigger shift](https://www.axios.com/local/seattle/2026/07/23/seattle-data-center-ban-national-ai-backlash-milltown-survey-washington)**
-
-Axios • 51m ago
+NPR • 11h ago
 
 ---
 
-**['Let's enjoy the ride' says Elon Musk, as AI risk concerns mount](https://www.bbc.com/news/articles/c4gkxppljpyo)**
+**[New VC job: Chief AI Officer](https://www.axios.com/2026/07/23/vc-job-chief-ai-officer)**
 
-Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.
+Axios • 38m ago
 
-BBC • 3h ago
+---
+
+**[60% of search journeys now involve AI. Here is what that means for brand visibility.](https://www.miamiherald.com/news/business/article316627515.html)**
+
+Brainlabs reports that 60% of search journeys now involve AI, with consumers increasingly using AI for product research, impacting brand visibility and SEO strategies.
+
+Miami Herald • 42m ago
+
+---
+
+**[What it's like inside the data centers powering the AI boom](https://www.axios.com/2026/07/23/inside-data-centers-powering-ai-boom)**
+
+Axios • 7h ago
+
+---
+
+**[Meet The Wastewater Billionaire With His Eye On AI Data Centers](https://www.forbes.com/sites/christopherhelman/2026/07/23/meet-the-wastewater-billionaire-with-his-eye-on-ai-data-centers/)**
+
+America’s biggest oil field produces lots of dirty water and cheap natural gas. That makes West Texas a perfect location for data centers, says David Capobianco.
+
+Forbes • 5h ago
+
+---
+
+**[Trump expands a voluntary pledge to protect consumers from high utility bills from AI data centers](https://wtop.com/national/2026/07/trump-expands-a-voluntary-pledge-to-protect-consumers-from-high-utility-bills-from-ai-data-centers/)**
+
+WASHINGTON (AP) — President Donald Trump on Thursday will have governors and electricity companies join a voluntary pledge to shield U.S. consumers from higher utility bills from data centers — a sign…
+
+WTOP • 35m ago
+
+---
+
+**[‘I got carried away’: Elon Musk expresses regret about Doge and wading into Trump’s orbit](https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai)**
+
+Billionaire in interview with the Economist admits he was too consumed by politics and shares predictions about AI
+
+The Guardian • 58m ago
 
 ---
 
@@ -199,13 +195,13 @@ BBC • 3h ago
 
 I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.
 
-⬆️ 619 • 💬 236 • 21h ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
+⬆️ 643 • 💬 237 • 23h ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
 
 ---
 
 **[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
 
-⬆️ 445 • 💬 217 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+⬆️ 465 • 💬 225 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 
 ---
 
@@ -213,7 +209,7 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 
 Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows
 
-⬆️ 373 • 💬 263 • 2d ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
+⬆️ 374 • 💬 265 • 2d ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
 
 ---
 
@@ -229,7 +225,15 @@ Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-
 
 I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
 
-⬆️ 345 • 💬 265 • 1d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+⬆️ 359 • 💬 287 • 1d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+
+---
+
+**[AI Companies Are Trying to Hide a Staggering Amount of Debt](https://news.ycombinator.com/item?id=49020999)**
+
+AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
+
+⬆️ 287 • 💬 135 • 3h ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
@@ -243,25 +247,19 @@ We scored the full text of 12,750 arXiv papers and found that about a third of n
 
 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://news.ycombinator.com/item?id=49020868)**
 
-⬆️ 199 • 💬 222 • 1h ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
-
----
-
-**[AI makes programming differently difficult](https://news.ycombinator.com/item?id=48996197)**
-
-⬆️ 163 • 💬 141 • 1d ago • [cacm.acm.org](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+⬆️ 241 • 💬 276 • 3h ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 
 ---
 
 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://news.ycombinator.com/item?id=49021006)**
 
-⬆️ 155 • 💬 137 • 1h ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+⬆️ 226 • 💬 224 • 3h ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
-**[Most Americans say "not in my backyard" to AI data centers](https://news.ycombinator.com/item?id=49007525)**
+**[Startup founders urge Trump not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 139 • 💬 296 • 1d ago • [redfin.com](https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/)
+⬆️ 184 • 💬 190 • 1h ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -275,7 +273,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 59K • 👍 3K • 💬 592 • ⏱️ 10:43 • 20h ago
+👁️ 59K • 👍 3K • 💬 592 • ⏱️ 10:43 • 22h ago
 
 ---
 
@@ -285,7 +283,7 @@ OpenAI has revealed some of its most advanced AI models went rogue and hacked a 
 
 📺 BBC News
 
-👁️ 95K • 👍 1K • 💬 405 • ⏱️ 11:03 • 19h ago
+👁️ 95K • 👍 1K • 💬 405 • ⏱️ 11:03 • 20h ago
 
 ---
 
@@ -295,7 +293,7 @@ How I Became a Sovereign Professional - The Freelance Formula https://www.brenda
 
 📺 Brendan Dell 
 
-👁️ 57K • 👍 2K • 💬 406 • ⏱️ 28:26 • 2d ago
+👁️ 57K • 👍 2K • 💬 406 • ⏱️ 28:26 • 3d ago
 
 ---
 
@@ -315,7 +313,7 @@ China's fake AI humans are moving from screens into the real world. These robots
 
 📺 AI Revolution
 
-👁️ 15K • 👍 661 • 💬 76 • ⏱️ 33:12 • 15h ago
+👁️ 15K • 👍 661 • 💬 76 • ⏱️ 33:12 • 16h ago
 
 ---
 
@@ -325,7 +323,7 @@ The people who built the attention economy barely let their own children near it
 
 📺 House of El: AI
 
-👁️ 187K • 👍 14K • 💬 3K • ⏱️ 24:19 • 2d ago
+👁️ 187K • 👍 14K • 💬 3K • ⏱️ 24:19 • 3d ago
 
 ---
 
@@ -335,7 +333,7 @@ Create luxury AI ads with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa In 
 
 📺 Isa does AI
 
-👁️ 5K • 💬 1 • ⏱️ 21:37 • 1h ago
+👁️ 5K • 💬 1 • ⏱️ 21:37 • 3h ago
 
 ---
 
@@ -355,7 +353,7 @@ AI leadership depends on more than model performance. It requires secure infrast
 
 📺 SandboxAQ
 
-👁️ 14K • 👍 17 • 💬 5 • ⏱️ 9:43 • 18h ago
+👁️ 14K • 👍 17 • 💬 5 • ⏱️ 9:43 • 20h ago
 
 ---
 
@@ -381,7 +379,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,414,259 • ❤️ 2,831 • 5h ago
+⬇️ 2,414,259 • ❤️ 2,831 • 7h ago
 
 ---
 
@@ -405,7 +403,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 13,285 • ❤️ 464 • 20h ago
+⬇️ 13,285 • ❤️ 464 • 22h ago
 
 ---
 
@@ -453,7 +451,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 4,532 • ❤️ 287 • 5h ago
+⬇️ 4,532 • ❤️ 287 • 7h ago
 
 ---
 
@@ -465,7 +463,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,910,116 • ❤️ 611 • 5d ago
+⬇️ 1,910,116 • ❤️ 611 • 6d ago
 
 ---
 
@@ -646,7 +644,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 241 • 5h ago
+⭐ 3.1k • 🔱 241 • 7h ago
 
 ---
 
@@ -674,7 +672,7 @@ The open-source AI workbench for scientific research
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-⭐ 1.6k • 🔱 129 • 23h ago
+⭐ 1.6k • 🔱 129 • 1d ago
 
 ---
 
@@ -684,7 +682,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.2k • 🔱 118 • 8h ago
+⭐ 1.2k • 🔱 118 • 10h ago
 
 ---
 
@@ -702,7 +700,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.1k • 🔱 65 • 9h ago
+⭐ 1.1k • 🔱 65 • 10h ago
 
 ---
 
@@ -712,7 +710,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 993 • 🔱 691 • 35s ago
+⭐ 993 • 🔱 691 • 1h ago
 
 ---
 
