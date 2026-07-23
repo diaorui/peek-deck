@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-23T22:04:29.688526+00:00'
+updated: '2026-07-23T23:28:29.922150+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 22:04 UTC  
+**Last Updated:** July 23, 2026 at 23:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
+**24h:** -1.3%  
 **7d:** +1.9%  
-**30d:** +6.7%  
+**30d:** +6.8%  
 **90d:** -16.0%  
 **1y:** -44.9%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1305.87B
+**Market Cap:** $1306.58B
 Rank #1
 
-**Circulating Supply:** 20,060,287 BTC
+**Circulating Supply:** 20,060,340 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.4%
+-48.3%
 
 **All-Time Low:** $67.81
-+95900.6%
++95953.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[LFG](https://www.reddit.com/r/Bitcoin/comments/1v3z9nm/lfg/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ Been out of the game for a few years. Getting back in and privacy still matters 
 
 BancaStato has become the latest Swiss bank to offer regulated bitcoin trading through its existing banking apps via Sygnum's infrastructure.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 15h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 17h ago
 
 ---
 
@@ -103,7 +103,7 @@ BancaStato has become the latest Swiss bank to offer regulated bitcoin trading t
 
 On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, roughly 297 million dollars combined, into Coinbase Prime custody. Sale speculation followed immediately. The detail almost nobody is explaining clearly: Executive Order 14233, which created the Strategic Bitcoin Reserve, only protects Bitcoin from sale. Ether and other seized digital assets fall under a separate framework where Treasury has discretion. So the 244 million in Bitcoin here is protected on paper, the 53 million in Ether is not. The Bitcoin traces to two forfeiture cases, roughly 2,875 BTC from a dark web dealer known as Xanaxman and about 925.5 BTC linked to the old BTC-e exchange. The Ether comes from a former Oracle employee's money laundering case. Worth noting too that a deposit to Coinbase Prime is not proof of an impending sale. The Marshals Service has an active custody contract with Coinbase Prime specifically for managing seized assets, and similar transfers in January, May, and June this year did not result in confirmed liquidations. The bigger structural point is that Executive Order 14233 is policy, not statute. Congress introduced a bill in May to codify the reserve with a 20 year holding requirement, but it has not moved out of committee. Until it does, Bitcoin's protected status here rests on one administration's choice, reversible by the next. Full writeup with sourcing: https://davidebtc186.substack.com/p/the-us-government-just-moved-297m
 
-8h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, r
 
 Is bitcoin finally starting to bottom out? I know that this has been one of the significant drops in bitcoin in recent history but when is it finally gonna bottom out into we enter into the bullish trends. What's everyone's plans in when they are going to be investing and doubling down?
 
-11h ago
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ Is bitcoin finally starting to bottom out? I know that this has been one of the 
 
 That'd be sweet.
 
-17h ago
+19h ago
 
 ---
 
@@ -127,7 +127,7 @@ That'd be sweet.
 
 26 y/o. My significant other & I pretend we don’t have them, don’t touch it, we’ve never sold. But just out of curiosity, does everyone in it for the long haul (20-30 years) ever think about selling?
 
-19h ago
+21h ago
 
 ---
 
@@ -135,7 +135,7 @@ That'd be sweet.
 
 Reserve arca, Coinkite’s personal data haven for encrypted secrets, recovery, business continuity, inheritance, and multi-location Swarm backups.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/arca-reservations-are-open/) • 10h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/arca-reservations-are-open/) • 11h ago
 
 ---
 
@@ -143,7 +143,7 @@ Reserve arca, Coinkite’s personal data haven for encrypted secrets, recovery, 
 
 I do not like the idea of government and Bitcoin getting cozy with each other. But I wonder if politically there was a push to have more Bitcoin mining done in that specific country so that the country was more on a Bitcoin standard as a whole. I'm just spit balling here.
 
-2h ago
+3h ago
 
 ---
 
@@ -151,7 +151,7 @@ I do not like the idea of government and Bitcoin getting cozy with each other. B
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+17h ago
 
 ---
 
@@ -159,41 +159,39 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Leading Financial Institutions & Bitcoin Companies Launch the Bitcoin Security Consortium](https://www.strategy.com/press/leading-financial-institutions-bitcoin-companies-launch-the-bitcoin-security-consortium_07-23-2026)**
-
-July 23, 2026
-
-Strategy • 9h ago
-
----
-
 **[Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart](https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart)**
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin must clear this key level to sustain its rally, says analyst](https://finance.yahoo.com/markets/crypto/articles/bitcoin-must-clear-key-level-201109714.html)**
+**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
 
-Bitcoin has been climbing. After weeks of extreme fear readings and sustained ETF outflows, the market is showing its first signs of life since the June lows. But crypto analyst Ali Martinez, who posts on X as Ali Charts, wants investors to stay focused on one specific number before reading too ...
+Bloomberg.com • 1d ago
+
+---
+
+**[Massachusetts Senate passes amendment to ban Bitcoin ATMs](https://www.wcvb.com/article/massachusetts-senate-passes-amendment-to-ban-bitcoin-atms/73249981)**
+
+Massachusetts residents have lost millions to Bitcoin ATM scams
+
+WCVB • 33m ago
+
+---
+
+**[Bitcoin Faces $69,000 Test as ETF Inflows Meet Professional Caution](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-69-000-test-220418752.html)**
+
+Bitcoin rallied above $66,000 amid ETF inflows, but the Coinbase Premium signals professional caution. $69K remains the key level to watch.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[CoinDesk Bitcoin Price Index Lost 1.68% to $64800.42 -- Data Talk](https://www.moomoo.com/news/post/73452882/coindesk-bitcoin-price-index-lost-1-68-to-64800-42)**
+**[$Bitcoin (BTC.CC)$ BREAKING: 🇺🇸 President Trump said We're leading China and all other countries by a lot in crypto and “We want to stay in front in crypto." Now all we need is Clarity Act to pass.](https://www.moomoo.com/community/feed/bitcoin-btc-cc-breaking-president-trump-said-we-re-leading-116971328241669)**
 
 Moomoo • 1h ago
-
----
-
-**[BlackRock’s IBIT Leads Nearly $1B Bitcoin ETF Recovery as Inflows Hit 7 Straight Days](https://finance.yahoo.com/markets/crypto/articles/blackrock-ibit-leads-nearly-1b-203834928.html)**
-
-Bitcoin ETFs just snapped a brutal stretch of outflows with seven straight days of buying, but one fund is hoovering up nearly all the money while the recovery still has billions to go before it means anything.
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -205,23 +203,9 @@ The Boston Globe • 1d ago
 
 ---
 
-**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
+**[Current price of Bitcoin for July 22, 2026](https://fortune.com/article/price-of-bitcoin-07-22-2026/)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin May Stay Under Pressure Through 3Q](https://www.barrons.com/livecoverage/stock-market-news-today-072326/card/bitcoin-may-stay-under-pressure-through-3q-reqUASR1UUDluAWuBdX1)**
-
-Barron's • 4h ago
-
----
-
-**[Scammers exploit Bitcoin ATMs to steal millions from victims](https://www.foxbusiness.com/video/6401940579112)**
-
-A new report reveals scammers are using Bitcoin ATMs, or BTMs, as a tool to defraud victims, particularly seniors, by tricking them into depositing large sums.
-
-Fox Business • 3h ago
+Fortune • 1d ago
 
 ---
 
@@ -233,6 +217,20 @@ Investopedia • 1d ago
 
 ---
 
+**['Not currently the right capital solution': Smarter Web sells 178 bitcoin to repay $11.7M convertible instrument](https://www.theblock.co/post/409506/not-currently-the-right-capital-solution-smarter-web-sells-178-bitcoin-to-repay-11-7m-convertible-instrument)**
+
+The Smarter Web Company sold 177.89 BTC at $65,762 to repay $11.7 million to TOBAM early, cancelling 7.7 million in potential share issuance.
+
+The Block • 12h ago
+
+---
+
+**[Bitcoin Has Returned 0% for 5 Years. Get Ready for the S&P 500 to Do the Same.](https://www.barchart.com/story/news/3411494/bitcoin-has-returned-0-for-5-years-get-ready-for-the-s-p-500-to-do-the-same)**
+
+Barchart.com • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -241,15 +239,7 @@ Investopedia • 1d ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 114 • 💬 113 • 1d ago • [opennode.com](https://opennode.com/)
-
----
-
-**[He Mined 300 Bitcoin, Then Sold the Computer for $200 [video]](https://news.ycombinator.com/item?id=48941357)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 3 • 💬 0 • 6d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 114 • 💬 115 • 1d ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -265,7 +255,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
-⬆️ 2 • 💬 0 • 17h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
+⬆️ 2 • 💬 0 • 19h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
 
 ---
 
@@ -289,7 +279,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
 
-⬆️ 1 • 💬 0 • 6h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 8h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
 
 ---
 
@@ -313,7 +303,15 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
-⬆️ 2 • 💬 0 • 5h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
+⬆️ 2 • 💬 0 • 7h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
+
+---
+
+**[The Code That Made My Network Self Aware](https://news.ycombinator.com/item?id=49022255)**
+
+Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
+
+⬆️ 2 • 💬 0 • 8h ago • [GitHub](https://github.com/bitmonky/BorgIOS/blob/main/nodeJS/src/borgAgentBrain.js)
 
 ---
 
@@ -321,33 +319,43 @@ From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin grinds higher from here, can&#39;t get much worse, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=8EKXCmyKt6g)**
-
-The 'Fast Money' traders talk the recent downturn in crypto.
-
-📺 CNBC Television
-
-👁️ 17K • 👍 192 • 💬 142 • ⏱️ 5:18 • 23h ago
-
----
-
 **[Bitcoin Social Interest: Dozens of us Left](https://www.youtube.com/watch?v=UIv9IQ4uXEA)**
 
 Let us talk about social interest for Bitcoin in 2026 and what we can expect going forward. Check out the July Bitcoin memo: ...
 
 📺 Benjamin Cowen
 
-👁️ 34K • 👍 2K • 💬 179 • ⏱️ 7:39 • 11h ago
+👁️ 41K • 👍 3K • 💬 197 • ⏱️ 7:39 • 12h ago
 
 ---
 
-**[&quot;BTC SMASHES $66K! My NEXT Target Is ABSOLUTELY MASSIVE!&quot; - Anthony Scaramucci](https://www.youtube.com/watch?v=CHtKjO_fr64)**
+**[Bitcoin grinds higher from here, can&#39;t get much worse, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=8EKXCmyKt6g)**
 
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+The 'Fast Money' traders talk the recent downturn in crypto.
+
+📺 CNBC Television
+
+👁️ 18K • 👍 208 • 💬 168 • ⏱️ 5:18 • 1d ago
+
+---
+
+**[&quot;Bitcoin Sellers Are DONE! What Happens NEXT Will SHOCK EVERYONE&quot; - Joe Consorti](https://www.youtube.com/watch?v=jx8S4TT3Jxo)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 324 • 💬 26 • ⏱️ 18:45 • 1d ago
+👁️ 2K • 👍 131 • 💬 22 • ⏱️ 14:14 • 5h ago
+
+---
+
+**[Bitcoin Debate: Pomp DESTROYS Peter Schiff](https://www.youtube.com/watch?v=KxY3-K-KRyM)**
+
+Peter Schiff is the host of The Peter Schiff Show podcast and a longtime economist and gold advocate. In this conversation, we ...
+
+📺 Anthony Pompliano
+
+👁️ 2K • 👍 231 • 💬 17 • ⏱️ 1:22:19 • 2h ago
 
 ---
 
@@ -357,27 +365,17 @@ Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treas
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 787 • 💬 147 • ⏱️ 16:41 • 1d ago
+👁️ 13K • 👍 810 • 💬 227 • ⏱️ 16:41 • 1d ago
 
 ---
 
-**[Global Liquidity Has Peaked: What Happens to Bitcoin? | Michael Howell](https://www.youtube.com/watch?v=NiwtzN3nhTY)**
+**[&quot;BTC SMASHES $66K! My NEXT Target Is ABSOLUTELY MASSIVE!&quot; - Anthony Scaramucci](https://www.youtube.com/watch?v=CHtKjO_fr64)**
 
-Cycles have no respect for trends.” Michael Howell is on the show to explain why global liquidity, not Bitcoin's four-year cycle, ...
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
 
-📺 What Bitcoin Did
+📺 Savvy Finance
 
-👁️ 19K • 👍 629 • 💬 270 • ⏱️ 1:05:17 • 1d ago
-
----
-
-**[Bitcoin Testing Key Support! Can Bitcoin Rally From Here?](https://www.youtube.com/watch?v=oPq0-9PjyAI)**
-
-Are you ready? YUBIT: https://www.yubit.com/en-US/register?inviteCode=MJOD $50000 Welcome Bonus + $5000 Weekly ...
-
-📺 Crypto Jebb
-
-👁️ 2K • 👍 146 • 💬 12 • ⏱️ 30:55 • 7h ago
+👁️ 9K • 👍 328 • 💬 47 • ⏱️ 18:45 • 1d ago
 
 ---
 
@@ -387,7 +385,27 @@ The next Bitcoin move is going to trigger a massive bull or bear trap that liqui
 
 📺 Chart Hackers
 
-👁️ 3K • 👍 302 • 💬 1 • ⏱️ 50:37 • 5h ago
+👁️ 4K • 👍 327 • 💬 4 • ⏱️ 50:37 • 6h ago
+
+---
+
+**[Bitcoin Live Trading: The Breakout Is Here But Is This a Trap? EP2070](https://www.youtube.com/watch?v=jpO3vNR-Jtg)**
+
+WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
+
+📺 Crypto Lifer
+
+👁️ 5K • 👍 578 • 💬 29 • ⏱️ 2:14:38 • 6h ago
+
+---
+
+**[Global Liquidity Has Peaked: What Happens to Bitcoin? | Michael Howell](https://www.youtube.com/watch?v=NiwtzN3nhTY)**
+
+Cycles have no respect for trends.” Michael Howell is on the show to explain why global liquidity, not Bitcoin's four-year cycle, ...
+
+📺 What Bitcoin Did
+
+👁️ 21K • 👍 646 • 💬 322 • ⏱️ 1:05:17 • 1d ago
 
 ---
 
@@ -397,27 +415,7 @@ MARA Chairman and CEO Fred Thiel unpacks the economic reality behind the global 
 
 📺 Natalie Brunell
 
-👁️ 277 • 👍 19 • 💬 69 • ⏱️ 1:12 • 3h ago
-
----
-
-**[You Need Less Bitcoin Than You Think To Be In The Top 1%](https://www.youtube.com/watch?v=en64vokrXB0)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 3K • 👍 184 • 💬 49 • ⏱️ 9:00 • 1d ago
-
----
-
-**[Warning: Why The Collapse of Bitcoin Treasury Companies Could Signal A Future Crash](https://www.youtube.com/watch?v=-9gBtoeLUPg)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Favorite Place To ...
-
-📺 Aaron Bennett
-
-👁️ 7K • 👍 451 • 💬 61 • ⏱️ 11:42 • 19h ago
+👁️ 880 • 👍 40 • 💬 131 • ⏱️ 1:12 • 4h ago
 
 ---
 

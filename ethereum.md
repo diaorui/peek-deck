@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-23T22:04:29.692652+00:00'
+updated: '2026-07-23T23:28:29.928244+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 22:04 UTC  
+**Last Updated:** July 23, 2026 at 23:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -2.7%  
-**7d:** +2.1%  
-**30d:** +16.0%  
-**90d:** -18.9%  
+**7d:** +2.2%  
+**30d:** +16.1%  
+**90d:** -18.8%  
 **1y:** -49.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.55B
+**Market Cap:** $227.16B
 Rank #2
 
 **Circulating Supply:** 120,682,750 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+435355.3%
++434646.3%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 1d ago
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 2d ago
 
 ---
 
@@ -114,7 +114,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 **[Looking for recommendations for a home server for an evm blockchain node/validator](https://www.reddit.com/r/ethereum/comments/1v13xwa/looking_for_recommendations_for_a_home_server_for/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -150,15 +150,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 12h ago
-
----
-
-**[Ethereum holds above $1,900 as whales buy 30,00...](https://pluang.com/en/news-feed/paus-ethereum-tambah-58juta-eth-bisakah-altcoin-tembus-2ribu)**
-
-Ethereum has maintained a price above $1,900 for four consecutive days, supported by large purchases from whales who bought over 30,000 ETH tokens. Notably, a whale acquired 27,000 ETH worth $52 million after three months of inactivity, and Arthur Hayes added 3,270 ETH over eight days. Meanwhile, Ethereum's Spot Netflow turned negative, indicating more ETH is leaving exchanges, which may reduce selling pressure. Institutional interest also grew, with U.S. Ethereum ETFs seeing net inflows. If whale buying, ETF demand, and reduced exchange supply continue, Ethereum could retest the key $2,000 resistance level soon.
-
-Pluang • 1h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -166,7 +158,15 @@ Pluang • 1h ago
 
 Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
+
+A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
+
+TradingView • 5h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 6h ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -182,15 +182,7 @@ Seeking Alpha • 9h ago
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
-The Block • 13h ago
-
----
-
-**[Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant](https://www.tradingview.com/news/cointelegraph:2405507f4094b:0-ethereum-nears-market-bottom-against-bitcoin-though-key-signals-remain-unconfirmed-cryptoquant/)**
-
-Ether is becoming increasingly attractive from a valuation standpoint, particularly relative to Bitcoin, but onchain data suggests the market has yet to reach a definitive cycle bottom, according to CryptoQuant.In its latest weekly report, the analytics company said Ether (ETH) is trading roughly 1…
-
-TradingView • 5h ago
+The Block • 14h ago
 
 ---
 
@@ -198,7 +190,7 @@ TradingView • 5h ago
 
 MONACO , July  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price prediction models examine whe...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -206,7 +198,7 @@ markets.businessinsider.com • 20h ago
 
 Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
 
-FXStreet • 10h ago
+FXStreet • 11h ago
 
 ---
 
@@ -220,7 +212,15 @@ thestreet.com • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60598155/bitcoin-ethereum-xrp-dogecoin-crypto-bill-optimism-btc-test)**
+
+Major cryptocurrencies rose on Tuesday, July 21, as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act.
+
+Benzinga • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 2K • 👍 42 • 💬 6 • ⏱️ 3:42 • 14h ago
+👁️ 2K • 👍 45 • 💬 7 • ⏱️ 3:42 • 16h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 527 • 💬 72 • ⏱️ 19:54 • 2d ago
+👁️ 21K • 👍 534 • 💬 73 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -254,7 +254,27 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 85 • 💬 16 • ⏱️ 17:35 • 18h ago
+👁️ 3K • 👍 91 • 💬 16 • ⏱️ 17:35 • 20h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=rgPMH1RcZFs)**
+
+BITCOIN & CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 160 • 👍 19 • 💬 4 • ⏱️ 20:41 • 11m ago
+
+---
+
+**[Has ETH/BTC Bottomed and Who Leads From Here?](https://www.youtube.com/watch?v=RbHseJJPgvw)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 125 • 💬 118 • ⏱️ 39:53 • 1d ago
 
 ---
 
@@ -274,27 +294,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 212 • 💬 48 • ⏱️ 17:49 • 2d ago
-
----
-
-**[Ethereum Price Forecast: Depressed On-Chain Data and Volumes Could Keep a Lid on ETH](https://www.youtube.com/watch?v=YkJGUx88cI4)**
-
-Ethereum has broken above $1800 to confirm a bullish W-shaped pattern, but despite recent positive ETF inflows, thin trading ...
-
-📺 FXEmpire
-
-👁️ 12 • 💬 30 • ⏱️ 4:18 • 3h ago
-
----
-
-**[Has ETH/BTC Bottomed and Who Leads From Here?](https://www.youtube.com/watch?v=RbHseJJPgvw)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 123 • 💬 122 • ⏱️ 39:53 • 1d ago
+👁️ 5K • 👍 214 • 💬 48 • ⏱️ 17:49 • 2d ago
 
 ---
 
@@ -304,17 +304,17 @@ Time to have some fun with Bitcoin, Ethereum, and crypto as a whole. Live, unfil
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 213 • 💬 30 • ⏱️ 2:25:30 • 6h ago
+👁️ 5K • 👍 216 • 💬 55 • ⏱️ 2:25:30 • 7h ago
 
 ---
 
-**[Ethereum: Structure Around $2,000](https://www.youtube.com/watch?v=k-9LpvCb860)**
+**[The CRYPTO BULL REVERSAL Setting Up! (WARNING For Bitcoin, Ethereum, Altcoins)](https://www.youtube.com/watch?v=iuZTZHipaG0)**
 
-Ethereum: Structure Around $2000 Ethereum can push toward $2000, but I am keeping structure and risk ahead of a single move ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 Crypto Capital Venture
 
-👁️ 313 • 👍 11 • ⏱️ 1:08 • 5h ago
+👁️ 9K • 👍 498 • 💬 183 • ⏱️ 10:38 • 1d ago
 
 ---
 
@@ -324,7 +324,7 @@ BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 332 • 💬 190 • ⏱️ 22:47 • 23h ago
+👁️ 6K • 👍 339 • 💬 218 • ⏱️ 22:47 • 1d ago
 
 ---
 
