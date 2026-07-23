@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-22T23:04:19.204052+00:00'
+updated: '2026-07-23T01:01:11.274343+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 22, 2026 at 23:04 UTC  
+**Last Updated:** July 23, 2026 at 01:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +3.9%  
-**30d:** +16.2%  
-**90d:** -16.3%  
-**1y:** -46.5%  
+**24h:** +0.4%  
+**7d:** +5.1%  
+**30d:** +19.4%  
+**90d:** -16.5%  
+**1y:** -47.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+19h ago
 
 ---
 
@@ -150,23 +150,23 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Fundstrat's Tom Lee suggests the market underestimates the chances of the CLARITY Act passing, which could positively impact crypto regulation. He also highlights Ethereum's potential to benefit from AI-driven growth, as AI applications increasingly use Ethereum-based assets like stablecoins and tokenized payments. Currently trading near $1,933, Ethereum shows signs of recovery and improved market sentiment. Lee projects ETH could reach $7,000-$9,000 soon, with a $12,000-$22,000 range possible if Bitcoin hits $250,000 and a stronger crypto rally occurs.
 
-Pluang • 1h ago
+Pluang • 3h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html)**
+**[Is AI Money Rotating Into Ethereum? Tom Lee Cites 72% Outperformance](https://finance.yahoo.com/markets/crypto/articles/ai-money-rotating-ethereum-tom-220000669.html)**
 
-Bitcoin (BTC-USD) opened at $65,214.10 on Tuesday, July 21, 2026, 0.8% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,903.35, up 1.7% from Monday's opening price.
+Tom Lee cites ETH's 72% relative outperformance vs the DRAM ETF as AI money rotating into Ethereum. Rotation or reset?
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares](https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares)**
+**[Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2](https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2)**
 
-Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.
+Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
 
-The Block • 2d ago
+The Block • 1d ago
 
 ---
 
@@ -175,6 +175,14 @@ The Block • 2d ago
 Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
 
 TradingView • 1d ago
+
+---
+
+**[Current price of Ethereum for July 22, 2026](https://fortune.com/article/price-of-ethereum-07-22-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 7h ago
 
 ---
 
@@ -190,13 +198,7 @@ The Motley Fool • 1d ago
 
 Morgan Stanley plans Solana, Ethereum ETFs for NYSE Arca, featuring low fees, direct staking rewards. A crypto investment milestone.
 
-Crypto Briefing • 3h ago
-
----
-
-**[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
-
-thestreet.com • 5h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -212,15 +214,13 @@ markets.businessinsider.com • 1d ago
 
 Bitcoin (BTC) trades elevated above $66,000 immediate support on Wednesday, following a minor correction from its weekly high of $66,956.
 
-FXStreet • 12h ago
+FXStreet • 14h ago
 
 ---
 
-**[Current price of Ethereum for July 22, 2026](https://fortune.com/article/price-of-ethereum-07-22-2026/)**
+**[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
+thestreet.com • 7h ago
 
 ---
 
@@ -234,7 +234,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 912 • 👍 57 • 💬 38 • ⏱️ 39:53 • 4h ago
+👁️ 912 • 👍 57 • 💬 38 • ⏱️ 39:53 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 440 • 💬 133 • ⏱️ 10:38 • 8h ago
+👁️ 7K • 👍 440 • 💬 133 • ⏱️ 10:38 • 10h ago
 
 ---
 
@@ -324,7 +324,7 @@ Get immediate access to my entire crypto portfolio.. just $1.00 today! Go here t
 
 📺 Crypto 101
 
-👁️ 17 • 👍 2 • ⏱️ 20:23 • 3h ago
+👁️ 17 • 👍 2 • ⏱️ 20:23 • 5h ago
 
 ---
 

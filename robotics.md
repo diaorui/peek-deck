@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-22T23:04:19.207192+00:00'
+updated: '2026-07-23T01:01:11.277204+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 22, 2026 at 23:04 UTC  
+**Last Updated:** July 23, 2026 at 01:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,11 +122,11 @@ Reuters • 1d ago
 
 ---
 
-**[Samsung creates robotics-dedicated unit under CEO](https://www.koreajoongangdaily.com/business/samsung-creates-roboticsdedicated-unit-under-ceo/12784702)**
+**[Samsung Establishes A Robotics Division](https://www.engadget.com/2219517/samsung-establishes-its-own-robotics-division/)**
 
-The tech giant is consolidating talent, research and production planning to accelerate the commercialization of humanoid robots.
+Samsung created a robotics division called RX, and its first product could be a humanoid robot.
 
-Korea JoongAng Daily • 1d ago
+Engadget • 1d ago
 
 ---
 
@@ -142,13 +142,27 @@ TechCrunch • 1d ago
 
 Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
 
-The Guardian • 1h ago
+The Guardian • 4h ago
+
+---
+
+**[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
+
+Axios • 1h ago
+
+---
+
+**[Robotic Servicing Mission Launches with NASA Support](https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/)**
+
+Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic
+
+NASA (.gov) • 6h ago
 
 ---
 
 **[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
 
-WSJ • 13h ago
+WSJ • 15h ago
 
 ---
 
@@ -156,7 +170,7 @@ WSJ • 13h ago
 
 Ukraine's battlefield surge of robots now features airdrops and beach assaults.
 
-Ars Technica • 11h ago
+Ars Technica • 13h ago
 
 ---
 
@@ -164,23 +178,7 @@ Ars Technica • 11h ago
 
 Google and Nvidia are partnering with German data-robotics startup Microagi to provide computing power to train and deploy humanoids in factories.
 
-Semafor • 15h ago
-
----
-
-**[Robotics developer Vicarious Surgical shuts down to liquidate assets](https://www.massdevice.com/robotics-developer-vicarious-surgical-shuts-down-to-liquidate-assets/)**
-
-Vicarious Surgical investors voted to close the struggling surgical robotics developer and sell off its assets.
-
-MassDevice • 22h ago
-
----
-
-**[China's Unitree says 'GPT moment' for robots remains years away](https://asia.nikkei.com/spotlight/nikkei-forum/global-digital-summit/global-digital-summit-2026/china-s-unitree-says-gpt-moment-for-robots-remains-years-away)**
-
-Humanoid leader to put almost half of IPO proceeds into embodied AI research
-
-Nikkei Asia • 18h ago
+Semafor • 17h ago
 
 ---
 
@@ -194,7 +192,7 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 9K • 👍 309 • 💬 121 • ⏱️ 2:02 • 8h ago
+👁️ 9K • 👍 309 • 💬 121 • ⏱️ 2:02 • 10h ago
 
 ---
 
@@ -254,7 +252,7 @@ What if a robot could look you in the eyes. smile. and hold a conversation just 
 
 📺 Dark Narr
 
-👁️ 6K • 👍 160 • 💬 13 • ⏱️ 0:44 • 12h ago
+👁️ 6K • 👍 160 • 💬 13 • ⏱️ 0:44 • 14h ago
 
 ---
 
