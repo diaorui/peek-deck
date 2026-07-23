@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-23T19:18:36.226169+00:00'
+updated: '2026-07-23T20:35:50.467800+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 19:18 UTC  
+**Last Updated:** July 23, 2026 at 20:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +2.0%  
-**30d:** +15.8%  
-**90d:** -19.0%  
-**1y:** -49.3%  
+**24h:** -2.7%  
+**7d:** +2.4%  
+**30d:** +16.3%  
+**90d:** -18.7%  
+**1y:** -49.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.59B
+**Market Cap:** $227.55B
 Rank #2
 
 **Circulating Supply:** 120,682,750 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+435510.0%
++435355.3%
 
 ---
 
@@ -150,15 +150,15 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60598155/bitcoin-ethereum-xrp-dogecoin-crypto-bill-optimism-btc-test)**
+**[Ethereum's future debated: decentralization vs. strategic branding shift for growth](https://pluang.com/en/news-feed/strategi-menang-ethereum-menurut-tokoh-kripto-terkemuka)**
 
-Major cryptocurrencies rose on Tuesday, July 21, as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act.
+Key figures in the crypto community recently debated Ethereum's best path forward on Crypto Twitter. Columbia Business School's Omid Malekan emphasized maximal decentralization as essential to protect Ethereum from corporate control and corruption. Erik Voorhees suggested Ethereum adopt a more pragmatic, Machiavellian approach, focusing on resilience rather than egalitarian ideals. Meanwhile, Ethereum advocate DCInvestor called for a branding shift away from idealistic themes toward emphasizing security that rivals nation-states, signaling a strategic evolution within the Ethereum ecosystem. This debate highlights differing views on how Ethereum can maintain its edge and grow adoption amid increasing challenges.
 
-Benzinga • 1d ago
+Pluang • 44m ago
 
 ---
 
@@ -166,15 +166,7 @@ Benzinga • 1d ago
 
 Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
-
-Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
-
-Seeking Alpha • 7h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -182,15 +174,23 @@ Seeking Alpha • 7h ago
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
-**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
 
-Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-FXStreet • 7h ago
+Seeking Alpha • 8h ago
+
+---
+
+**[Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant](https://www.tradingview.com/news/cointelegraph:2405507f4094b:0-ethereum-nears-market-bottom-against-bitcoin-though-key-signals-remain-unconfirmed-cryptoquant/)**
+
+Ether is becoming increasingly attractive from a valuation standpoint, particularly relative to Bitcoin, but onchain data suggests the market has yet to reach a definitive cycle bottom, according to CryptoQuant.In its latest weekly report, the analytics company said Ether (ETH) is trading roughly 1…
+
+TradingView • 4h ago
 
 ---
 
@@ -198,7 +198,15 @@ FXStreet • 7h ago
 
 MONACO , July  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price prediction models examine whe...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 18h ago
+
+---
+
+**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
+
+Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
+
+FXStreet • 8h ago
 
 ---
 
@@ -216,14 +224,6 @@ Fortune • 8h ago
 
 ---
 
-**[How 40.8M staked ETH could strengthen Ethereum’s edge over Bitcoin](https://ambcrypto.com/how-40-8m-staked-eth-could-strengthen-ethereums-edge-over-bitcoin/)**
-
-Whales are accumulating ETH, but staking and DeFi flows tell a bigger story.
-
-AMBCrypto • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +234,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 1K • 👍 39 • 💬 5 • ⏱️ 3:42 • 12h ago
+👁️ 2K • 👍 42 • 💬 6 • ⏱️ 3:42 • 13h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 516 • 💬 74 • ⏱️ 19:54 • 2d ago
+👁️ 21K • 👍 527 • 💬 72 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -254,37 +254,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 80 • 💬 20 • ⏱️ 17:35 • 15h ago
-
----
-
-**[Has ETH/BTC Bottomed and Who Leads From Here?](https://www.youtube.com/watch?v=RbHseJJPgvw)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 118 • 💬 98 • ⏱️ 39:53 • 1d ago
-
----
-
-**[🚨$4,000,000 LIVE TRADE!!! + MARKET UPDATE!!!](https://www.youtube.com/watch?v=0LDENToitKM)**
-
-Time to have some fun with Bitcoin, Ethereum, and crypto as a whole. Live, unfiltered, and for real! Live crypto trading—let's go ...
-
-📺 Thomas Kralow
-
-👁️ 4K • 👍 212 • 💬 3 • ⏱️ 2:25:30 • 3h ago
-
----
-
-**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom Sharplink](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
-
-Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
-
-📺 Thinking Crypto
-
-👁️ 5K • 👍 212 • 💬 48 • ⏱️ 17:49 • 2d ago
+👁️ 2K • 👍 85 • 💬 16 • ⏱️ 17:35 • 17h ago
 
 ---
 
@@ -298,13 +268,53 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 ---
 
+**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom Sharplink](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
+
+Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
+
+📺 Thinking Crypto
+
+👁️ 5K • 👍 212 • 💬 48 • ⏱️ 17:49 • 2d ago
+
+---
+
+**[Ethereum Price Forecast: Depressed On-Chain Data and Volumes Could Keep a Lid on ETH](https://www.youtube.com/watch?v=YkJGUx88cI4)**
+
+Ethereum has broken above $1800 to confirm a bullish W-shaped pattern, but despite recent positive ETF inflows, thin trading ...
+
+📺 FXEmpire
+
+👁️ 12 • 💬 30 • ⏱️ 4:18 • 2h ago
+
+---
+
+**[Has ETH/BTC Bottomed and Who Leads From Here?](https://www.youtube.com/watch?v=RbHseJJPgvw)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 3K • 👍 123 • 💬 122 • ⏱️ 39:53 • 1d ago
+
+---
+
+**[🚨$4,000,000 LIVE TRADE!!! + MARKET UPDATE!!!](https://www.youtube.com/watch?v=0LDENToitKM)**
+
+Time to have some fun with Bitcoin, Ethereum, and crypto as a whole. Live, unfiltered, and for real! Live crypto trading—let's go ...
+
+📺 Thomas Kralow
+
+👁️ 5K • 👍 213 • 💬 30 • ⏱️ 2:25:30 • 5h ago
+
+---
+
 **[Ethereum: Structure Around $2,000](https://www.youtube.com/watch?v=k-9LpvCb860)**
 
 Ethereum: Structure Around $2000 Ethereum can push toward $2000, but I am keeping structure and risk ahead of a single move ...
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 204 • 👍 4 • ⏱️ 1:08 • 2h ago
+👁️ 313 • 👍 11 • ⏱️ 1:08 • 4h ago
 
 ---
 
@@ -314,17 +324,7 @@ BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 332 • 💬 122 • ⏱️ 22:47 • 20h ago
-
----
-
-**[The CRYPTO BULL REVERSAL Setting Up! (WARNING For Bitcoin, Ethereum, Altcoins)](https://www.youtube.com/watch?v=iuZTZHipaG0)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 496 • 💬 182 • ⏱️ 10:38 • 1d ago
+👁️ 6K • 👍 332 • 💬 190 • ⏱️ 22:47 • 21h ago
 
 ---
 

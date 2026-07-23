@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-23T19:18:36.215877+00:00'
+updated: '2026-07-23T20:35:50.457515+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 23, 2026 at 19:18 UTC  
+**Last Updated:** July 23, 2026 at 20:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,15 @@ AI news, discussions, and developments
 
 **[We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment](https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/)**
 
-2h ago
+3h ago
 
 ---
 
-**[Memory loss of google's ai mode.](https://www.reddit.com/r/artificial/comments/1v4ffe1/memory_loss_of_googles_ai_mode/)**
+**[Substack launched a 'made with AI' meter. People are losing their minds.](https://www.reddit.com/r/artificial/comments/1v4kf7w/substack_launched_a_made_with_ai_meter_people_are/)**
 
-Basically these past few hours every chat I make with the ai mode the ai has a memory of just 1 message,I for example ask it "how are you doing" and then ask what is my first message and it says "what is my first message".It completely forgets everything in just 1 message how do I fix this?
+Earlier this week, Substack launched a new feature on its platform in partnership with Pangram, an AI-detection tool. The goal: alert readers to content that's been written entirely by, or with the assistance of, AI. Chris Best Substack's CEO wrote: "We’re partnering with Pangram, the leading AI-detection tool. You’ll be able to scan notes, replies, comments, and posts to see an estimate of how much of the text was written by hand or with AI assistance. This will work on text longer than 100 words, published from today on, and will show an analysis only to those who request it." I tested one of the issues of a newsletter I subscribe to using Pangram today. The verdict? 100% AI generated. I'm not sure if Pangram is that accurate, but it's certainly stirred up a lot of debate. What's your take?
 
-4h ago
+3h ago
 
 ---
 
@@ -55,7 +55,21 @@ Basically these past few hours every chat I make with the ai mode the ai has a m
 
 For years, I took pride in being the person who could quickly scan a codebase, navigate the terminal efficiently, and find the right information faster than most developers I worked with. Lately, though, I've realized AI agents outperform me in many of those areas. The answers I used to get by crafting Google searches and digging through Stack Overflow can now be found by AI in minutes. Some models are much faster than I am at identifying bugs, and they're often right. In my experience, GPT-5.5 through Codex can achieve close to a 90% success rate in bug detection and debugging. Even something like writing reports,which I used to spend a lot of time polishing, can now be drafted into something more complete than I'd produce from scratch. I don't really see AI agents as replacing developers anymore. I see them as a resource that has become difficult to ignore. What things do you notice that AI does better than you? And how are you approaching multi-agent workflows, like MCP, anvita flow, Agent Protocol? That’s a challenge I’m looking to tackle next.
 
-8h ago
+9h ago
+
+---
+
+**[Memory loss of google's ai mode.](https://www.reddit.com/r/artificial/comments/1v4ffe1/memory_loss_of_googles_ai_mode/)**
+
+Basically these past few hours every chat I make with the ai mode the ai has a memory of just 1 message,I for example ask it "how are you doing" and then ask what is my first message and it says "what is my first message".It completely forgets everything in just 1 message how do I fix this?
+
+6h ago
+
+---
+
+**[The Aesthetic Boom Is Coming. It Won't Look Like AI.](https://www.reddit.com/r/artificial/comments/1v4d4tw/the_aesthetic_boom_is_coming_it_wont_look_like_ai/)**
+
+🔗 [monolith3.substack.com](https://monolith3.substack.com/p/the-aesthetic-boom-is-coming-it-wont) • 7h ago
 
 ---
 
@@ -67,31 +81,11 @@ I want to make sure people actually understand what happened here because the he
 
 ---
 
-**[The Aesthetic Boom Is Coming. It Won't Look Like AI.](https://www.reddit.com/r/artificial/comments/1v4d4tw/the_aesthetic_boom_is_coming_it_wont_look_like_ai/)**
-
-🔗 [monolith3.substack.com](https://monolith3.substack.com/p/the-aesthetic-boom-is-coming-it-wont) • 6h ago
-
----
-
-**[AI Isn't Draining the Rivers. Your Dinner Is.](https://www.reddit.com/r/artificial/comments/1v4ew0d/ai_isnt_draining_the_rivers_your_dinner_is/)**
-
-🔗 [morethanmeatstheeye.substack.com](https://morethanmeatstheeye.substack.com/p/ai-water-use-vs-animal-agriculture) • 5h ago
-
----
-
-**[Substack launched a 'made with AI' meter. People are losing their minds.](https://www.reddit.com/r/artificial/comments/1v4kf7w/substack_launched_a_made_with_ai_meter_people_are/)**
-
-Earlier this week, Substack launched a new feature on its platform in partnership with Pangram, an AI-detection tool. The goal: alert readers to content that's been written entirely by, or with the assistance of, AI. Chris Best Substack's CEO wrote: "We’re partnering with Pangram, the leading AI-detection tool. You’ll be able to scan notes, replies, comments, and posts to see an estimate of how much of the text was written by hand or with AI assistance. This will work on text longer than 100 words, published from today on, and will show an analysis only to those who request it." I tested one of the issues of a newsletter I subscribe to using Pangram today. The verdict? 100% AI generated. I'm not sure if Pangram is that accurate, but it's certainly stirred up a lot of debate. What's your take?
-
-1h ago
-
----
-
 **[AMD partners with Claude creators Anthropic, investing up to $5 billion to deploy 2 gigawatts of data center GPUs](https://www.reddit.com/r/artificial/comments/1v4c3ve/amd_partners_with_claude_creators_anthropic/)**
 
 Anthropic will be expanding its AI infrastructure with 2 gigawatts of AMD Instinct MI450 Series GPUs to keep up with Claude demand.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/amd-partners-with-claude-creators-anthropic-investing-up-to-5-billion-to-deploy-2-gigawatts-of-data-center-gpus/) • 7h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/amd-partners-with-claude-creators-anthropic-investing-up-to-5-billion-to-deploy-2-gigawatts-of-data-center-gpus/) • 8h ago
 
 ---
 
@@ -99,15 +93,23 @@ Anthropic will be expanding its AI infrastructure with 2 gigawatts of AMD Instin
 
 A transcript attributed to DeepSeek founder Liang Wenfeng from a closed-door investor meeting has been circulating widely in Chinese tech media. What stood out to me was not just Liang’s reported view of the next generation of AI, but how that roadmap appears to explain DeepSeek’s long list of things it does not currently want to prioritize. His reported roadmap was roughly: Chain-of-thought reasoning → agents → continual learning → AI self-improvement → embodied intelligence The central argument is that current models can perform increasingly complex work when given enough context, but they do not accumulate experience over time in the way humans do. From this perspective, improvements in cost, speed and model performance are not enough to define a genuinely new generation of models. The next major breakthrough would be continual learning. If models can learn continuously, they could then help accelerate AI research and contribute to developing their own successors. Embodied intelligence—AI entering and acting in the physical world—would come later. This roadmap also seems to explain DeepSeek’s current priorities: Coding agents come first, followed by general-purpose agents. Vertical agents for finance, healthcare and other industries have lower priority for now. Continual learning is treated as the next major bottleneck after agents. Scaling still matters. DeepSeek reportedly sees limited compute resources—not the end of scaling itself—as a major constraint. Multimodality matters for products and users, but is viewed as a component rather than the central path toward intelligence. 3D generation, video generation and world models are not considered part of DeepSeek’s current critical path. Consumer products, enterprise products, user growth and commercialization are not being abandoned, but they are not supposed to determine the company’s research direction. The one organizational priority described as non-negotiable was maintaining team stability. The logic appears to be: if continual learning is the main bottleneck on the path toward AGI, putting too much research attention into product polish, vertical applications, video generation or maximizing user growth could reduce the probability of solving that bottleneck. What do you make of Liang Wenfeng’s views on where AI should go next—and the priorities DeepSeek is setting around them? Source note: Daily Economic News reported that an institution involved in DeepSeek’s financing confirmed the May 2026 meeting and considered the circulated account credible. Yicai also obtained a transcript, but reported that DeepSeek had not responded to its request for confirmation. The points above are therefore paraphrases from media reporting, not official quotations.
 
-7h ago
+8h ago
 
 ---
 
-**[The Hugging Face incident: two failures, and we’re only talking about one](https://www.reddit.com/r/artificial/comments/1v47mn3/the_hugging_face_incident_two_failures_and_were/)**
+**[IJN Yamashiro](https://www.reddit.com/r/artificial/comments/1v4plfl/ijn_yamashiro/)**
 
-Everyone's focused on the sandbox escape, which is fair, it's the dramatic part. But that was a zero-day in internally hosted software. Containment bugs are old news. We know how to think about them: egress rules, microVM isolation, no ambient credentials. The part I find more interesting is everything that happened after. Once the agent had internet access, it picked Hugging Face as a target, found exposed credentials, chained them with another vulnerability, and pulled the benchmark answers. All of that went through ordinary tool calls. Nothing sat between "agent proposes an action" and "side effect happens." And the model wasn't misaligned in any interesting sense. It was hyperfocused on passing an eval, which is exactly what it was trained to be. Behavior was working as intended. Execution was ungoverned. So the question I keep coming back to: for those of you running agents with real tool access in production, what actually sits in the execution path? As far as I can tell the common answers are: - prompt guardrails, which are probabilistic and live inside the loop the agent controls - monitoring and traces, which tell you after the side effect landed - human approval on a hardcoded list of "dangerous" tools, which breaks down the moment the dangerous thing is a legitimate tool pointed somewhere it shouldn't be That last one is what got me. A tool allowlist wouldn't have caught this. The tools were fine. The destination and the credentials weren't. My read on why there's no standard answer yet, and I'd like to be wrong about some of this: Enforcement is easy, policy authoring is brutal. Standing up a gateway is a week. Deciding what an agent is allowed to do when its task is "research this and summarize" is a non-enumerable action space. Classic permission systems assume a finite set of verbs. Incentives point the other way. Every DENY is a failed task. Teams optimize completion rate, not refusal rate. A layer that degrades the demo doesn't survive review. No shared representation of intent. Every framework has its own tool schema, so no policy is portable and everyone rewrites theirs. The layer sits at the wrong altitude. An application-level gate is only worth the network and OS isolation underneath it, and whoever writes the agent usually doesn't own the infra. None of this is a new problem in security terms. Capabilities go back to 1966, complete mediation to Saltzer and Schroeder in 1975. OPA, SPIFFE, seccomp, service meshes all do versions of this for normal workloads. Nobody wired them into agent runtimes because agents went from answering to acting in about two years and control layers historically lag capability by five to ten. Disclosure so it's not weird later: I work on an open source protocol in this space, so I'm obviously not neutral. Not linking it, it's in my profile if you care. I'm more interested in what people are actually doing than in pitching anything, and I'll say upfront that no policy layer would have stopped the zero-day. Nothing at that altitude does. It changes what an escaped agent can reach, not whether it escapes. What are you running?
+Who will be next?
 
-11h ago
+11m ago
+
+---
+
+**[Grok on X: "Grok 4.5 is now available across web, X, and the iOS and Android apps.](https://www.reddit.com/r/artificial/comments/1v4p2tu/grok_on_x_grok_45_is_now_available_across_web_x/)**
+
+It is available to all accounts on all platform now. What do you feel about the new model so far? For those not certain, try to start a new window to ensure it routes to the 4.5 Grok model.
+
+30m ago
 
 ---
 
@@ -115,23 +117,11 @@ Everyone's focused on the sandbox escape, which is fair, it's the dramatic part.
 
 ## Google News: "ai"
 
-**[Startup founders urge Trump not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)**
+**['Let's enjoy the ride' says Elon Musk, as AI risk concerns mount](https://www.bbc.com/news/articles/c4gkxppljpyo)**
 
-Politico • 21h ago
+Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.
 
----
-
-**[China Rewrites the ‘Soft Power’ Playbook for the A.I. Age](https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html)**
-
-The New York Times • 4h ago
-
----
-
-**[Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says](https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html)**
-
-A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.
-
-CNBC • 8h ago
+BBC • 8h ago
 
 ---
 
@@ -139,7 +129,49 @@ CNBC • 8h ago
 
 Elon Musk says Grok Imagine will produce a full-length, "historically accurate" version of Homer's "The Odyssey" before the end of this year.
 
-Fox News • 52m ago
+Fox News • 2h ago
+
+---
+
+**[Colman Domingo Rips Elon Musk’s Plan for AI ‘The Odyssey’ Movie: ‘It’ll Be ‘Whiter Than Christmas at Cracker Barrel’](https://variety.com/2026/film/news/colman-domingo-elon-musk-ai-odyssey-movie-1236819447/)**
+
+Colman Domingo slammed Elon Musk's plan to create an AI-generated version of "The Odyssey," joking that it will be "whiter than Christmas Barrel."
+
+Variety • 4h ago
+
+---
+
+**[Startup founders urge Trump not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)**
+
+Politico • 22h ago
+
+---
+
+**[Intel sales, profit forecast beat estimates, boosts spending plans on AI boom](https://www.reuters.com/business/intel-forecasts-upbeat-quarterly-revenue-profit-strong-ai-driven-server-chip-2026-07-23/)**
+
+Reuters • 29m ago
+
+---
+
+**[OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress](https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html)**
+
+OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.
+
+CNBC • 44m ago
+
+---
+
+**[OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](https://www.bbc.com/news/articles/c3ek3gvdnj3o)**
+
+It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.
+
+BBC • 1d ago
+
+---
+
+**[When AI breaks containment](https://www.politico.com/newsletters/digital-future-daily/2026/07/23/when-ai-breaks-containment-01010365)**
+
+Politico • 34m ago
 
 ---
 
@@ -149,45 +181,15 @@ AMD CEO Dr. Lisa Su takes the stage at the Advancing AI 2026 conference to outli
 
 Watch the keynote speech in the video above.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[AMD says its newest AI server is in full production, will ship in months](https://www.reuters.com/business/amd-expected-launch-next-generation-ai-infrastructure-challenge-nvidia-2026-07-23/)**
+**[AMD's Rack-Scale Challenge To Nvidia's AI Dominance](https://www.forbes.com/sites/stevemcdowell/2026/07/23/amds-rack-scale-challenge-to-nvidias-ai-dominance/)**
 
-Reuters • 1h ago
+AMD challenges Nvidia’s AI dominance with Helios, new Instinct GPUs, EPYC processors, ROCm.ai software, and major customer deployment plans.
 
----
-
-**[AMD raises the AI stakes with Helios, Venice and robotics](https://www.computerworld.com/article/4200596/amd-raises-the-ai-stakes-with-helios-venice-and-robotics.html)**
-
-AMD is making a serious play for Nvidia's crown with its new Helios rack-scale AI platform, Venice CPUs, and MI455X chips.
-
-Computerworld • 43m ago
-
----
-
-**[Tesla falls 13%, Alphabet sinks 7% as AI spending concerns spook investors](https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html)**
-
-Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.
-
-CNBC • 10h ago
-
----
-
-**[Google burning through cash with spiralling AI costs](https://www.bbc.com/news/articles/c235n47g8g8o)**
-
-The company said earlier this year it expected to spend as much as $190bn on AI investments.
-
-BBC • 12h ago
-
----
-
-**[This chart reveals how much Google has grown its head count in the last year](https://www.businessinsider.com/chart-shows-google-alphabet-head-count-growth-2026-7)**
-
-Google's parent Alphabet said that it grew its head count by nearly 12,000 between June 2025 and June 2026.
-
-Business Insider • 53m ago
+Forbes • 42m ago
 
 ---
 
@@ -199,19 +201,13 @@ Business Insider • 53m ago
 
 I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.
 
-⬆️ 648 • 💬 237 • 1d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
-
----
-
-**[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
-
-⬆️ 468 • 💬 228 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+⬆️ 654 • 💬 237 • 1d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
 
 ---
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 447 • 💬 453 • 3h ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 553 • 💬 522 • 5h ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -219,7 +215,13 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 
 AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
 
-⬆️ 428 • 💬 206 • 6h ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+⬆️ 475 • 💬 232 • 7h ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+
+---
+
+**[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
+
+⬆️ 474 • 💬 230 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 
 ---
 
@@ -235,7 +237,7 @@ Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikk
 
 Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
 
-⬆️ 372 • 💬 330 • 2d ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
+⬆️ 372 • 💬 331 • 2d ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
 ---
 
@@ -243,19 +245,19 @@ Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-
 
 I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
 
-⬆️ 364 • 💬 295 • 1d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+⬆️ 367 • 💬 295 • 1d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 
 ---
 
 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://news.ycombinator.com/item?id=49020868)**
 
-⬆️ 259 • 💬 295 • 6h ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+⬆️ 265 • 💬 303 • 7h ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 
 ---
 
 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://news.ycombinator.com/item?id=49021006)**
 
-⬆️ 241 • 💬 249 • 6h ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+⬆️ 246 • 💬 256 • 7h ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
@@ -269,83 +271,33 @@ I like supporting local businesses but it's so disheartening to see the increasi
 
 ## YouTube Videos: "ai"
 
-**[It Begins: An AI Tried to Escape the Lab](https://www.youtube.com/watch?v=r4H7rx5nn1A)**
-
-Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
-
-📺 Matthew Berman
-
-👁️ 64K • 👍 3K • 💬 620 • ⏱️ 10:43 • 1d ago
-
----
-
 **[Godfather of AI WARNS: We Are Not Ready For What&#39;s Coming](https://www.youtube.com/watch?v=2nxrY5xiVrg)**
 
 Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Geoffrey Hinton, the Nobel laureate widely ...
 
 📺 Neural Nutshell
 
-👁️ 772 • 👍 64 • 💬 12 • ⏱️ 19:39 • 3h ago
+👁️ 2K • 👍 157 • 💬 33 • ⏱️ 19:39 • 4h ago
 
 ---
 
-**[China’s Synthetic AI Humans Are Now Replacing Real People](https://www.youtube.com/watch?v=NDo-HVxCpJI)**
+**[Anthropic’s Logan Graham says we’re seeing AI models do ‘WEIRD THINGS](https://www.youtube.com/watch?v=96sdkEx_zJ0)**
 
-China's fake AI humans are moving from screens into the real world. These robots can copy human appearance, recognize faces, ...
+Anthropic's Logan Graham discusses the accelerating capabilities of AI, emphasizing the need for robust ethics, human oversight, ...
 
-📺 AI Revolution
+📺 Fox Business
 
-👁️ 17K • 👍 731 • 💬 85 • ⏱️ 33:12 • 19h ago
-
----
-
-**[How worried should we be about the AI that went rogue and launched a cyber-attack? | BBC News](https://www.youtube.com/watch?v=M4kliMrqbB4)**
-
-OpenAI has revealed some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a ...
-
-📺 BBC News
-
-👁️ 102K • 👍 1K • 💬 420 • ⏱️ 11:03 • 23h ago
+👁️ 5K • 👍 328 • 💬 86 • ⏱️ 17:58 • 3h ago
 
 ---
 
-**[AI Security Incidents and the Global AI Race | Jack Hidary on CNBC Squawk on the Street](https://www.youtube.com/watch?v=fBRvSs57WFM)**
+**[It Begins: An AI Tried to Escape the Lab](https://www.youtube.com/watch?v=r4H7rx5nn1A)**
 
-AI leadership depends on more than model performance. It requires secure infrastructure, scalable compute, and resilient ...
-
-📺 SandboxAQ
-
-👁️ 18K • 👍 20 • 💬 6 • ⏱️ 9:43 • 22h ago
-
----
-
-**[The Most Important Conversation in AI Right Now](https://www.youtube.com/watch?v=6BtIQIGqGJc)**
-
-It's all about VALUEMAXXING now! Learn more from Zapier: https://bit.ly/4bW1JB8 Join My Newsletter for Regular AI Updates ...
+Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
 
 📺 Matthew Berman
 
-👁️ 131K • 👍 4K • 💬 1K • ⏱️ 27:13 • 1d ago
-
----
-
-**[So It Started... AI Agent Just Pulled Off History’s Biggest Autonomous Cyberattack](https://www.youtube.com/watch?v=gMYR-JkmIFc)**
-
-An autonomous AI agent hacked Hugging Face from start to finish, executing thousands of actions across its systems.
-
-📺 AI Revolution
-
-👁️ 43K • 👍 2K • 💬 160 • ⏱️ 12:19 • 1d ago
-
----
-
-**[Rogue AI model responsible for &#39;unprecedented&#39; cyber attack](https://www.youtube.com/watch?v=ZizzRtptUDE)**
-
-OpenAI said an autonomous AI agent escaped a controlled security test, accessed the internet and hacked AI startup Hugging ...
-
-📺 LiveNOW from FOX
-
-👁️ 26K • 👍 633 • 💬 310 • ⏱️ 5:48 • 17h ago
+👁️ 67K • 👍 3K • 💬 663 • ⏱️ 10:43 • 1d ago
 
 ---
 
@@ -355,17 +307,67 @@ Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the
 
 📺 Sean Foo
 
-👁️ 115K • 👍 7K • 💬 922 • ⏱️ 15:45 • 1d ago
+👁️ 117K • 👍 7K • 💬 928 • ⏱️ 15:45 • 1d ago
 
 ---
 
-**[Google AI vs Higgsfield: Which Makes Better AI Video?](https://www.youtube.com/watch?v=TItJeAQ-RZw)**
+**[China’s Synthetic AI Humans Are Now Replacing Real People](https://www.youtube.com/watch?v=NDo-HVxCpJI)**
 
-Create THE BEST AI Videos https://higgsfield.ai?fpr=ai&fp_sid=thomas In this video, I compare Google AI's creative tools with ...
+China's fake AI humans are moving from screens into the real world. These robots can copy human appearance, recognize faces, ...
 
-📺 Thomas Creates
+📺 AI Revolution
 
-👁️ 5K • 💬 1 • ⏱️ 11:58 • 3h ago
+👁️ 19K • 👍 778 • 💬 94 • ⏱️ 33:12 • 21h ago
+
+---
+
+**[How worried should we be about the AI that went rogue and launched a cyber-attack? | BBC News](https://www.youtube.com/watch?v=M4kliMrqbB4)**
+
+OpenAI has revealed some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a ...
+
+📺 BBC News
+
+👁️ 107K • 👍 2K • 💬 433 • ⏱️ 11:03 • 1d ago
+
+---
+
+**[Rogue AI model responsible for &#39;unprecedented&#39; cyber attack](https://www.youtube.com/watch?v=ZizzRtptUDE)**
+
+OpenAI said an autonomous AI agent escaped a controlled security test, accessed the internet and hacked AI startup Hugging ...
+
+📺 LiveNOW from FOX
+
+👁️ 27K • 👍 645 • 💬 315 • ⏱️ 5:48 • 18h ago
+
+---
+
+**[The Most Important Conversation in AI Right Now](https://www.youtube.com/watch?v=6BtIQIGqGJc)**
+
+It's all about VALUEMAXXING now! Learn more from Zapier: https://bit.ly/4bW1JB8 Join My Newsletter for Regular AI Updates ...
+
+📺 Matthew Berman
+
+👁️ 133K • 👍 4K • 💬 1K • ⏱️ 27:13 • 2d ago
+
+---
+
+**[So It Started... AI Agent Just Pulled Off History’s Biggest Autonomous Cyberattack](https://www.youtube.com/watch?v=gMYR-JkmIFc)**
+
+An autonomous AI agent hacked Hugging Face from start to finish, executing thousands of actions across its systems.
+
+📺 AI Revolution
+
+👁️ 43K • 👍 2K • 💬 162 • ⏱️ 12:19 • 1d ago
+
+---
+
+**[Scary Future of AI- Jobs, Superintelligence, AI, Worse Than Nukes | Dr. Roman Yampolskiy | Shlloka](https://www.youtube.com/watch?v=2-2A5nK6Xk8)**
+
+The DARK Side of ChatGPT | Mind Control & The End of Humanity | Dr. Roman Yampolskiy ➡️Artificial Intelligence Out of ...
+
+📺 SHLLOKA 
+
+👁️ 12K • 👍 288 • 💬 43 • ⏱️ 59:09 • 7h ago
 
 ---
 
@@ -381,7 +383,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,414,259 • ❤️ 2,845 • 10h ago
+⬇️ 2,414,259 • ❤️ 2,862 • 11h ago
 
 ---
 
@@ -393,7 +395,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 24,669 • ❤️ 1,491 • 1h ago
+⬇️ 24,669 • ❤️ 1,497 • 3h ago
 
 ---
 
@@ -405,19 +407,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 13,285 • ❤️ 484 • 1d ago
-
----
-
-**[Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)**
-
-*Prism ML*
-
-Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for on-device inference, achieving ~95% of FP16 intelligence with a ~7.2 GB footprint by using ternary weights (1.71 bits/weight). It supports 262K context and runs on llama.cpp (CUDA, Metal, CPU), retaining strong reasoning and agentic capabilities.
-
-`text-generation` `3.6B`
-
-⬇️ 576,083 • ❤️ 973 • 5d ago
+⬇️ 13,285 • ❤️ 500 • 1d ago
 
 ---
 
@@ -429,7 +419,19 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 334,847 • ❤️ 377 • 3d ago
+⬇️ 334,847 • ❤️ 386 • 3d ago
+
+---
+
+**[Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)**
+
+*Prism ML*
+
+Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for on-device inference, achieving ~95% of FP16 intelligence with a ~7.2 GB footprint by using ternary weights (1.71 bits/weight). It supports 262K context and runs on llama.cpp (CUDA, Metal, CPU), retaining strong reasoning and agentic capabilities.
+
+`text-generation` `3.6B`
+
+⬇️ 576,083 • ❤️ 978 • 5d ago
 
 ---
 
@@ -441,7 +443,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 362 • ❤️ 397 • 1d ago
+⬇️ 362 • ❤️ 400 • 1d ago
 
 ---
 
@@ -453,7 +455,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 4,532 • ❤️ 302 • 9h ago
+⬇️ 4,532 • ❤️ 307 • 11h ago
 
 ---
 
@@ -465,7 +467,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 596,442 • ❤️ 4,359 • 21d ago
+⬇️ 596,442 • ❤️ 4,361 • 21d ago
 
 ---
 
@@ -477,17 +479,19 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,910,116 • ❤️ 614 • 6d ago
+⬇️ 1,910,116 • ❤️ 616 • 6d ago
 
 ---
 
-**[krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit)**
+**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
 
-*Lars Bouaraba *
+*HauHau*
 
-Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving image editing within Krea 2. It excels at relighting, local edits (object add/remove/replace), and outfit changes while maintaining likeness, requiring a specific ComfyUI node pack for dual conditioning.
+This is an uncensored, aggressive multimodal model (35B parameters, 3B active) based on Qwen3.6, capable of processing text and images. It's designed for maximum output without refusals, suitable for advanced text generation and multimodal tasks.
 
-⬇️ 0 • ❤️ 515 • 1d ago
+`image-text-to-text` `34.7B`
+
+⬇️ 2,027,080 • ❤️ 3,029 • 3mo ago
 
 ---
 
@@ -503,7 +507,7 @@ Krea 2 Identity Edit is a LoRA model for instruction-based, identity-preserving 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 60 • 💬 5 • ⭐ 17,709 • 1mo ago
+▲ 60 • 💬 5 • ⭐ 18,083 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -531,7 +535,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 261 • 💬 5 • ⭐ 14,577 • 2mo ago
+▲ 261 • 💬 5 • ⭐ 14,732 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -545,7 +549,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.
 
-▲ 59 • 💬 2 • ⭐ 324 • 2d ago
+▲ 60 • 💬 2 • ⭐ 324 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19064) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage/)
 
@@ -587,27 +591,27 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[Efficient Guided Generation for Large Language Models](https://huggingface.co/papers/2307.09702)**
-
-*Brandon T. Willard, Rémi Louf*
-
-An efficient method guides language model text generation using regular expressions and context-free grammars with minimal overhead.
-
-▲ 8 • 💬 1 • ⭐ 15,232 • 36mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2307.09702) • [💻 code](https://github.com/normal-computing/outlines)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 115 • 💬 4 • ⭐ 94,204 • 19mo ago
+▲ 115 • 💬 4 • ⭐ 94,296 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[Efficient Guided Generation for Large Language Models](https://huggingface.co/papers/2307.09702)**
+
+*Brandon T. Willard, Rémi Louf*
+
+An efficient method guides language model text generation using regular expressions and context-free grammars with minimal overhead.
+
+▲ 8 • 💬 1 • ⭐ 15,279 • 36mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2307.09702) • [💻 code](https://github.com/normal-computing/outlines)
 
 ---
 
@@ -644,7 +648,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 243 • 10h ago
+⭐ 3.1k • 🔱 243 • 11h ago
 
 ---
 
@@ -664,7 +668,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.4k • 🔱 272 • 15d ago
+⭐ 2.5k • 🔱 272 • 15d ago
 
 ---
 
@@ -672,7 +676,7 @@ The open-source AI workbench for scientific research
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-⭐ 1.8k • 🔱 141 • 1d ago
+⭐ 1.8k • 🔱 145 • 1d ago
 
 ---
 
@@ -682,7 +686,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.3k • 🔱 124 • 13h ago
+⭐ 1.3k • 🔱 126 • 14h ago
 
 ---
 
@@ -694,23 +698,23 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 ---
 
-**[lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)**
-
-Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
-
-`Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
-
-⭐ 1.1k • 🔱 65 • 13h ago
-
----
-
 **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)**
 
 An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 994 • 🔱 691 • 1h ago
+⭐ 1.1k • 🔱 744 • 59s ago
+
+---
+
+**[lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)**
+
+Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
+
+`Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
+
+⭐ 1.1k • 🔱 65 • 15h ago
 
 ---
 

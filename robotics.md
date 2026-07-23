@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-23T19:18:36.228455+00:00'
+updated: '2026-07-23T20:35:50.470093+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 23, 2026 at 19:18 UTC  
+**Last Updated:** July 23, 2026 at 20:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Built this 6dof with parts bought from local hardware store. Lot of loose parts now, needs fine tune or redo. Plan is to create mobile arm. Waiting for wheels and step motor. Controlled by raspberry pi.
 
-13h ago
+14h ago
 
 ---
 
@@ -44,7 +44,7 @@ Built this 6dof with parts bought from local hardware store. Lot of loose parts 
 
 Two cute little robots dancing to the music and enjoying their moment in the spotlight. Their synchronized movements, tiny gestures, and playful rhythm were surprisingly delightful to watch. I came across this little performance during my day and couldn’t resist recording it.
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ Two cute little robots dancing to the music and enjoying their moment in the spo
 
 Colin Angle explains that giving a robot a voice does more than change the interface. It changes the user’s entire understanding of what the machine can do. Roomba eventually received spoken maintenance messages because communicating problems such as clogged rollers or a lost Wi-Fi connection through sequences of beeps created a poor user experience. But iRobot intentionally made those messages sound like a separate utility or maintenance system rather than Roomba itself speaking. Once a robot appears conversational, users begin expecting language understanding, memory, contextual awareness and consistent behavior across long periods of time. Angle says delivering all of that reliably remains difficult, even with current natural-language systems. Keeping Roomba’s personality undefined allowed people to personify the robot on their own terms without the product making promises its underlying intelligence could not fulfill.
 
-5h ago
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ Colin Angle explains that giving a robot a voice does more than change the inter
 
 Do not sign up with this company unless you want to be scammed. I signed up for their most expensive program, but was not satisfied and requested a refund. It was much less than I thought, but it still wasn't a small amount (a little under $1000). The teachers were nice, but my son was not learning much in terms of robotics. That's when things went south. After being promised my refund, they refused to actually refund me my money, and then ghosted me. This after I spent an additional $100 to ship the robotics kit back to them in India. I tracked it all the way there, just to see it refused by sender. This is what they do. I tried to dispute this with my credit card, but I just found out it was denied because Playto charges through a third party name (Raz*Skyfi Education). They know this, and use it as a loophole to not refund you your credit. Please stay away.
 
-5h ago
+6h ago
 
 ---
 
@@ -82,13 +82,13 @@ Built my first robot still have a lot to learn. Open to any advice on how to imp
 
 **[The Breakdown: Saronic](https://www.reddit.com/r/robotics/comments/1v4eoqi/the_breakdown_saronic/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 5h ago
+🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 6h ago
 
 ---
 
 **[I built a free interactive robotics learning platform with browser-based simulators. I'd love feedback from the robotics community.](https://www.reddit.com/r/robotics/comments/1v44ws7/i_built_a_free_interactive_robotics_learning/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -102,7 +102,7 @@ Most humanoid robots in factories are still being tested in pilot programs, and 
 
 **[Building an Industrial Surveillance Quadruped Robot in India – Looking for Feedback](https://www.reddit.com/r/robotics/comments/1v47dbx/building_an_industrial_surveillance_quadruped/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -114,13 +114,13 @@ Most humanoid robots in factories are still being tested in pilot programs, and 
 
 The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
 
-Time Magazine • 7h ago
+Time Magazine • 8h ago
 
 ---
 
 **[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
 
-Axios • 19h ago
+Axios • 20h ago
 
 ---
 
@@ -137,6 +137,22 @@ NASA (.gov) • 1d ago
 Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
 
 TechCrunch • 1d ago
+
+---
+
+**[Wonder CEO Marc Lore on new funding round, using robotics for food prep and expansion plans](https://www.cnbc.com/video/2026/07/21/wonder-ceo-marc-lore-on-new-funding-round-using-robotics-for-food-prep-and-expansion-plans.html)**
+
+Wonder founder and CEO Marc Lore joins 'Squawk Box' to discuss the company's new $650M funding round, deployment of robotics in the kitchen, company growth outlook, and more.
+
+CNBC • 2d ago
+
+---
+
+**[Tesla’s profits slide despite growing revenue as it pivots to robotics and AI](https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings)**
+
+Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
+
+The Guardian • 23h ago
 
 ---
 
@@ -162,27 +178,11 @@ Korea JoongAng Daily • 2d ago
 
 ---
 
-**[Wonder CEO Marc Lore on new funding round, using robotics for food prep and expansion plans](https://www.cnbc.com/video/2026/07/21/wonder-ceo-marc-lore-on-new-funding-round-using-robotics-for-food-prep-and-expansion-plans.html)**
+**[Ukrainian drones deliver robots directly into battle by sea and air](https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/)**
 
-Wonder founder and CEO Marc Lore joins 'Squawk Box' to discuss the company's new $650M funding round, deployment of robotics in the kitchen, company growth outlook, and more.
+Ukraine's battlefield surge of robots now features airdrops and beach assaults.
 
-CNBC • 2d ago
-
----
-
-**[Connecting the human mind with robots thanks to AI](https://www.cnn.com/2026/07/23/business/video/vivatech-2026-habs-innov8-ai-robot-mind-connection-spc-digvid)**
-
-At the 10th edition of VivaTech if Paris, we explore how AI is moving from hype to hardware, as robots steal the spotlight. From dancing machines to human mind-connected tech, CNN’s Anna Stewart tests a system that lets humans control robots using their thoughts - blurring the line between human and machine.
-
-CNN • 4h ago
-
----
-
-**[Tesla’s profits slide despite growing revenue as it pivots to robotics and AI](https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings)**
-
-Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
-
-The Guardian • 22h ago
+Ars Technica • 1d ago
 
 ---
 
@@ -196,17 +196,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 32K • 👍 2K • 💬 117 • ⏱️ 12:28 • 2d ago
-
----
-
-**[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
-
-China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
-
-📺 RedTech Insights
-
-👁️ 21K • 👍 413 • 💬 33 • ⏱️ 19:31 • 3d ago
+👁️ 33K • 👍 2K • 💬 124 • ⏱️ 12:28 • 2d ago
 
 ---
 
@@ -216,27 +206,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 2.1M • 👍 2K • 💬 383 • ⏱️ 2:15 • 3d ago
-
----
-
-**[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
-
-Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
-
-📺 DPCcars
-
-👁️ 44K • 👍 486 • 💬 180 • ⏱️ 4:18 • 5d ago
-
----
-
-**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
-
-War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 4K • 👍 284 • 💬 115 • ⏱️ 14:51 • 7h ago
+👁️ 2.2M • 👍 2K • 💬 385 • ⏱️ 2:15 • 3d ago
 
 ---
 
@@ -246,17 +216,37 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 26K • 👍 733 • 💬 106 • ⏱️ 13:15 • 4d ago
+👁️ 26K • 👍 736 • 💬 106 • ⏱️ 13:15 • 4d ago
 
 ---
 
-**[Robots Fight for $1M Prize in China&#39;s First Human Size Robot MMA League](https://www.youtube.com/watch?v=5IMU5or-VFo)**
+**[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
 
-The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
+China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
 
-📺 Chris Wabs
+📺 RedTech Insights
 
-👁️ 316K • 👍 7K • 💬 3K • ⏱️ 11:15 • 6d ago
+👁️ 21K • 👍 416 • 💬 33 • ⏱️ 19:31 • 3d ago
+
+---
+
+**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
+
+War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 6K • 👍 343 • 💬 137 • ⏱️ 14:51 • 8h ago
+
+---
+
+**[World&#39;s First Robot Fighting Tournament Is Insane](https://www.youtube.com/watch?v=aZ6o3SrzCWo)**
+
+Humanoid robots have officially stepped into the ring. Watch the world's first robot fighting tournament and see how artificial ...
+
+📺 DPCcars
+
+👁️ 45K • 👍 488 • 💬 180 • ⏱️ 4:18 • 5d ago
 
 ---
 
@@ -266,7 +256,7 @@ The UFC for Robots: China's Insane New Humanoid Fighting League The future of co
 
 📺 Job Othoniel
 
-👁️ 22K • 👍 144 • 💬 53 • ⏱️ 0:27 • 6d ago
+👁️ 22K • 👍 145 • 💬 53 • ⏱️ 0:27 • 6d ago
 
 ---
 
@@ -280,13 +270,23 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 ---
 
-**[I Tested the Lebosbo V3 Robot Lawn Mower... Here&#39;s What Happened](https://www.youtube.com/watch?v=IZKimQDgzjU)**
+**[Robots Fight for $1M Prize in China&#39;s First Human Size Robot MMA League](https://www.youtube.com/watch?v=5IMU5or-VFo)**
 
-In this video we dive into the Lebosbo V3 Robotic Lawn Mower! For more information on this robot mower, click the link below...
+The future of combat sports has arrived! Witness the high-stakes action as the Robot MMA Fight League officially kicks off in China ...
 
-📺 Chase Brogan
+📺 Chris Wabs
 
-👁️ 34K • 👍 326 • 💬 39 • ⏱️ 8:47 • 4d ago
+👁️ 318K • 👍 7K • 💬 3K • ⏱️ 11:15 • 6d ago
+
+---
+
+**[This Robot Is Almost Human.](https://www.youtube.com/watch?v=qXxAHBbWMDs)**
+
+What if a robot could look you in the eyes. smile. and hold a conversation just like a human? ** Meet the **Origin F1**, ...
+
+📺 Dark Narr
+
+👁️ 19K • 👍 489 • 💬 31 • ⏱️ 0:44 • 1d ago
 
 ---
 
