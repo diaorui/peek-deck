@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-23T16:26:25.581744+00:00'
+updated: '2026-07-23T17:55:39.420947+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 16:26 UTC  
+**Last Updated:** July 23, 2026 at 17:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** +2.3%  
-**30d:** +16.2%  
+**24h:** -2.3%  
+**7d:** +2.4%  
+**30d:** +16.3%  
 **90d:** -18.7%  
 **1y:** -49.1%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.83B
+**Market Cap:** $227.59B
 Rank #2
 
 **Circulating Supply:** 120,682,750 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-61.9%
 
 **All-Time Low:** $0.43
-+439748.1%
++435510.0%
 
 ---
 
@@ -150,55 +150,31 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-lift-020233103.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60598155/bitcoin-ethereum-xrp-dogecoin-crypto-bill-optimism-btc-test)**
 
-Major cryptocurrencies rose on Tuesday as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.41%$66,355.88Ethereum (CRYPTO: ETH) +1.11%$1,930.87XRP (CRYPTO: XRP) +2.48%$1.14Solana (CRYPTO: SOL) +0.43%$78.26Dogecoin (CRYPTO: DOGE) +1.60%$0.07342 Some Clarity Finally? Bitcoin rallied to a 5-week high above $66,900, and is now up 13% month-to-
+Major cryptocurrencies rose on Tuesday, July 21, as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Why are Bitcoin, Ethereum and XRP poised to extend recovery?](https://www.fxstreet.com/analysis/crypto-today-bitcoin-ethereum-xrp-recovery-slows-amid-etf-inflows-us-iran-persistent-strikes-202607221100)**
-
-Bitcoin (BTC) trades elevated above $66,000 immediate support on Wednesday, following a minor correction from its weekly high of $66,956.
-
-FXStreet • 1d ago
+Benzinga • 1d ago
 
 ---
 
-**[XRP And Ethereum Are Beating Bitcoin — And Analyst Michael Van de Poppe Is Betting Big On Altcoins](https://www.tradingview.com/news/stocktwits:14831a777094b:0-xrp-and-ethereum-are-beating-bitcoin-and-analyst-michael-van-de-poppe-is-betting-big-on-altcoins/)**
+**[Verus-Ethereum Bridge hacked again, losing $7.5M in second exploit within 66 days.](https://pluang.com/en/news-feed/verus-bridge-alami-exploit-kedua-rugi-19-juta-dollar)**
 
-Crypto markets are showing a rotation out of Bitcoin (BTC) and into altcoins, which one closely watched analyst says marks the end of a year-long downtrend, while another says it is related to Washington finally clearing the biggest political hurdle to crypto’s most consequential upcoming legislati…
+The Verus-Ethereum Bridge suffered a second security breach in just over two months, with attackers stealing between $7.3 million and $7.5 million in various digital assets. This follows a similar exploit in May that resulted in losses of about $11.6 million, bringing total losses to approximately $19.1 million. The attack exploited a flaw where the bridge verified cryptographic proofs but failed to confirm that payout amounts were backed by actual locked assets, highlighting ongoing risks in decentralized finance (DeFi) cross-chain bridges. Users are advised to follow Verus updates, while developers need to fix the bridge's state-check logic to prevent further exploits.
 
-TradingView • 2d ago
-
----
-
-**[Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html)**
-
-Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
-
-Yahoo Finance • 59m ago
+Pluang • 45m ago
 
 ---
 
-**[Fasanara Capital holds $67M short on Ethereum, currently losing as ETH trades near $1,920](https://pluang.com/en/news-feed/fasanara-capital-pegang-posisi-short-67juta-usd-eth-via-hyperliquid-dan-sedang)**
+**[Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html)**
 
-Fasanara Capital, managing $5.7 billion in assets, has a $67 million short position against Ethereum on the decentralized exchange Hyperliquid, part of a combined $108 million short with Abraxas Capital. Both positions are currently underwater with ETH trading around $1,920. This situation could trigger a short squeeze if ETH prices rise, forcing shorts to cover, or accelerate declines if ETH falls below support. Investors should watch for changes in these positions as they signal market sentiment on Ethereum's price direction.
+Bitcoin (BTC-USD) opened at $65,214.10 on Tuesday, July 21, 2026, 0.8% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,903.35, up 1.7% from Monday's opening price.
 
-Pluang • 4h ago
-
----
-
-**[Ethereum struggles below $2,000 amid rising oil prices and Fed rate hike fears despite ETF inflows.](https://pluang.com/en/news-feed/harga-ethereum-tantang-level-2000-dolar-di-tengah-kekhawatiran-kenaikan-suku)**
-
-Ethereum price remains stuck below $2,000 due to rising oil prices and renewed concerns about Federal Reserve interest rate hikes. Despite this, continued inflows into spot Ethereum ETFs have supported the price above $1,900, with a potential breakout above $1,955 targeting $2,030. External risks include oil supply disruptions, increased probability of a September Fed rate hike, and BitMEX's planned shutdown, which could affect liquidity. Ethereum needs sustained buying volume above $1,955 to confirm a breakout; otherwise, it may remain range-bound near $1,900.
-
-Pluang • 3h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -206,23 +182,45 @@ Pluang • 3h ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
-**[Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2](https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2)**
+**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
 
-Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
+Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
 
-The Block • 2d ago
+FXStreet • 6h ago
 
 ---
 
-**[Current price of Ethereum for July 23, 2026](https://fortune.com/article/price-of-ethereum-07-23-2026/)**
+**[The Ethereum Blockchain Ecosystem Is Preparing for a Major Shake-Up. That's Why I'm Bullish on ETH Right Now.](https://www.fool.com/investing/2026/07/23/the-ethereum-blockchain-ecosystem-is-preparing-for/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum is growing up, and that's a good thing.
 
-Fortune • 5h ago
+The Motley Fool • 7h ago
+
+---
+
+**[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
+
+A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
+
+The Block • 9h ago
+
+---
+
+**[Crypto News Today: AlphaPepe Nears Tier-1 CEX Partnership Reveal as Ethereum Price Prediction Eyes $8,500](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-tier-1-cex-partnership-reveal-as-ethereum-price-prediction-eyes-8-500-1036354172)**
+
+MONACO , July  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price prediction models examine whe...
+
+markets.businessinsider.com • 15h ago
+
+---
+
+**[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
+
+thestreet.com • 1d ago
 
 ---
 
@@ -236,17 +234,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 874 • 👍 33 • 💬 4 • ⏱️ 3:42 • 9h ago
-
----
-
-**[Tom Lee’s BMNR Buyback Changes The Ethereum Trade As MSTR Loses Its Bitcoin Premium](https://www.youtube.com/watch?v=c3JoYMG70fI)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
-
-📺 MONEY GAME
-
-👁️ 2K • 👍 72 • 💬 20 • ⏱️ 17:35 • 13h ago
+👁️ 1K • 👍 39 • 💬 5 • ⏱️ 3:42 • 10h ago
 
 ---
 
@@ -256,7 +244,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 502 • 💬 69 • ⏱️ 19:54 • 1d ago
+👁️ 20K • 👍 516 • 💬 74 • ⏱️ 19:54 • 2d ago
+
+---
+
+**[Tom Lee’s BMNR Buyback Changes The Ethereum Trade As MSTR Loses Its Bitcoin Premium](https://www.youtube.com/watch?v=c3JoYMG70fI)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
+
+📺 MONEY GAME
+
+👁️ 2K • 👍 80 • 💬 20 • ⏱️ 17:35 • 14h ago
 
 ---
 
@@ -266,17 +264,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 3K • 👍 116 • 💬 98 • ⏱️ 39:53 • 21h ago
+👁️ 3K • 👍 118 • 💬 98 • ⏱️ 39:53 • 23h ago
 
 ---
 
-**[BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_pwA09-e8Fs)**
+**[🚨$4,000,000 LIVE TRADE!!! + MARKET UPDATE!!!](https://www.youtube.com/watch?v=0LDENToitKM)**
 
-BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Time to have some fun with Bitcoin, Ethereum, and crypto as a whole. Live, unfiltered, and for real! Live crypto trading—let's go ...
 
-📺 Crypto World
+📺 Thomas Kralow
 
-👁️ 5K • 👍 325 • 💬 127 • ⏱️ 22:47 • 17h ago
+👁️ 4K • 👍 212 • 💬 3 • ⏱️ 2:25:30 • 2h ago
 
 ---
 
@@ -286,17 +284,7 @@ Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 214 • 💬 48 • ⏱️ 17:49 • 2d ago
-
----
-
-**[The CRYPTO BULL REVERSAL Setting Up! (WARNING For Bitcoin, Ethereum, Altcoins)](https://www.youtube.com/watch?v=iuZTZHipaG0)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 493 • 💬 179 • ⏱️ 10:38 • 1d ago
+👁️ 5K • 👍 212 • 💬 48 • ⏱️ 17:49 • 2d ago
 
 ---
 
@@ -310,23 +298,33 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 ---
 
-**[Ethereum - THE EXPONENTIAL BLOCK  - ETH Price Prediction](https://www.youtube.com/watch?v=3lvDo0TT-Is)**
+**[Ethereum: Structure Around $2,000](https://www.youtube.com/watch?v=k-9LpvCb860)**
 
-Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
+Ethereum: Structure Around $2000 Ethereum can push toward $2000, but I am keeping structure and risk ahead of a single move ...
 
-📺 Altcoin Doctor
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7 • 👍 2 • ⏱️ 8:09 • 3h ago
+👁️ 204 • 👍 4 • ⏱️ 1:08 • 1h ago
 
 ---
 
-**[Are You Paying Attention To ETH Yet?](https://www.youtube.com/watch?v=SY6CA9VfWAU)**
+**[BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_pwA09-e8Fs)**
 
-Aaron Dishner walks through Ethereum's recent price action, noting last week's roughly 6% pullback from 1921 to 1800 and the ...
+BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Coin Bureau Trading
+📺 Crypto World
 
-👁️ 5K • 👍 378 • 💬 32 • ⏱️ 16:28 • 2d ago
+👁️ 6K • 👍 332 • 💬 122 • ⏱️ 22:47 • 18h ago
+
+---
+
+**[The CRYPTO BULL REVERSAL Setting Up! (WARNING For Bitcoin, Ethereum, Altcoins)](https://www.youtube.com/watch?v=iuZTZHipaG0)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 496 • 💬 182 • ⏱️ 10:38 • 1d ago
 
 ---
 
