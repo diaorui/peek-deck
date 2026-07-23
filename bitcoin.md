@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-23T10:23:22.991588+00:00'
+updated: '2026-07-23T12:10:05.510227+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 10:23 UTC  
+**Last Updated:** July 23, 2026 at 12:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +2.8%  
-**30d:** +7.7%  
-**90d:** -15.3%  
-**1y:** -44.4%  
+**24h:** -0.6%  
+**7d:** +2.5%  
+**30d:** +7.3%  
+**90d:** -15.6%  
+**1y:** -44.6%  
 
 ---
 
@@ -125,7 +125,7 @@ The Matrix is a system Neo, and that system, is our enemy... I just bought bitco
 
 There was a time when I honestly had no idea what to do next. I lost the job I had been at for 5 years. The first few days were a complete shock. The only thoughts in my head were: "What now? What am I supposed to do?" The hardest part wasn't even losing the job. The hardest part was feeling completely lost. It felt like everyone around me was moving forward while I was stuck in the same place. Honestly, if it wasn't for my family, it would have been much harder. Instead of blaming me, they simply said, "We'll figure it out." That support gave me the strength not to give up. After a while, I realized there was no point in sitting around waiting. I started looking for different ways to make money. I watched videos, tried different things, made mistakes, and wasted time. Then one day I accidentally came across crypto testnets. At first, I had absolutely no idea what I was doing. But little by little, I started figuring things out. And honestly, it wasn't even about crypto. For the first time in a long time, I felt like I was in control of my life again. Small steps, but moving forward. If you're interested in how crypto testnets work, I already have a post about them. If you can't find the information you're looking for online, feel free to message me. If I can help, I'd be happy to. And just to be clear, I'm not selling anything. I'm sharing this because I know what it's like to be in a place where it feels like there's no way out. If you're going through a tough period right now, just know that it won't last forever. I'm genuinely curious. Have you ever had a moment when life suddenly didn't go according to plan? What helped you get through it?
 
-23h ago
+1d ago
 
 ---
 
@@ -153,55 +153,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Tesla holds bitcoin treasury steady, reports $112M impairment loss](https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss)**
+**[Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart](https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart)**
 
-The electric vehicle maker maintained its 11,509 BTC treasury through the second quarter as bitcoin declined 14%, alongside mixed earnings that beat revenue expectations but missed on profit.
+The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 13h ago
-
----
-
-**[Bitcoin ATM scams in Massachusetts](https://apps.bostonglobe.com/2026/07/storylab/coinhub-bitcoin-atm-crypto-scam/)**
-
-Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
-
-The Boston Globe • 1d ago
-
----
-
-**[Bitcoin Has Returned 0% for 5 Years. Get Ready for the S&P 500 to Do the Same.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-returned-0-5-years-200216018.html)**
-
-We don’t have to retire our equity portfolios. Just speed up the turnover within them.
-
-Yahoo Finance • 14h ago
-
----
-
-**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Current price of Bitcoin for July 22, 2026](https://fortune.com/article/price-of-bitcoin-07-22-2026/)**
-
-Fortune • 23h ago
-
----
-
-**[Bitcoin grinds higher from here, can't get much worse, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/07/22/bitcoin-grinds-higher-from-here-cant-get-much-worse-says-skybridges-anthony-scaramucci.html)**
-
-The 'Fast Money' traders talk the recent downturn in crypto.
-
-CNBC • 12h ago
-
----
-
-**[Nasdaq-listed Zhibao Technology To Take 3,500 Bitcoin In Proposed PIPE Financing](https://bitcoinmagazine.com/news/zhibao-technology-to-take-3500-bitcoin)**
-
-Nasdaq-listed Zhibao Technology plans to accept 3,500 bitcoin in a proposed $220 million PIPE deal, a move that would transform the Chinese insurance-tech firm into the latest public company building a bitcoin treasury.
-
-Bitcoin Magazine • 13h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -227,6 +183,50 @@ Fortune • 1d ago
 
 ---
 
+**[Crypto Exchange That Pioneered 100x Bitcoin Leverage Is Closing](https://www.bloomberg.com/news/articles/2026-07-23/crypto-exchange-that-pioneered-100x-bitcoin-leverage-is-closing)**
+
+Bloomberg.com • 51m ago
+
+---
+
+**[Bitcoin to $92,000? Bitwise CEO Says ‘Biggest Bull Market Yet’ as Analysts Spot BTC Growth Signal](https://finance.yahoo.com/markets/crypto/articles/bitcoin-92-000-bitwise-ceo-105337728.html)**
+
+Bitwise CIO Matt Hougan said crypto was showing signs of a bottom and predicted that the next bull market could be the industry’s biggest yet. ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Price Prediction: BTC falls as surging Oil prices revive inflation concerns](https://www.mitrade.com/au/insights/news/live-news/article-3-1928384-20260723)**
+
+Bitcoin (BTC) extends its correction, trading below $65,800 on Thursday after a modest decline in the previous day.
+
+Mitrade • 2h ago
+
+---
+
+**[Bitcoin ATM scams in Massachusetts](https://apps.bostonglobe.com/2026/07/storylab/coinhub-bitcoin-atm-crypto-scam/)**
+
+Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
+
+The Boston Globe • 1d ago
+
+---
+
+**[Current price of Bitcoin for July 22, 2026](https://fortune.com/article/price-of-bitcoin-07-22-2026/)**
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin grinds higher from here, can't get much worse, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/07/22/bitcoin-grinds-higher-from-here-cant-get-much-worse-says-skybridges-anthony-scaramucci.html)**
+
+The 'Fast Money' traders talk the recent downturn in crypto.
+
+CNBC • 14h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -235,7 +235,7 @@ Fortune • 1d ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 111 • 💬 99 • 19h ago • [opennode.com](https://opennode.com/)
+⬆️ 112 • 💬 104 • 21h ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -251,7 +251,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, protecting its purpose as sound, permissionless money.
 
-⬆️ 2 • 💬 1 • 19h ago • [BIP-110](https://bip110.org)
+⬆️ 2 • 💬 1 • 21h ago • [BIP-110](https://bip110.org)
 
 ---
 
@@ -259,7 +259,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
-⬆️ 2 • 💬 0 • 6h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
+⬆️ 2 • 💬 0 • 7h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
 
 ---
 
@@ -291,13 +291,13 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
 
-⬆️ 14 • 💬 23 • 19h ago • [GitHub](https://github.com/bitmonky/BorgIOS)
+⬆️ 14 • 💬 23 • 20h ago • [GitHub](https://github.com/bitmonky/BorgIOS)
 
 ---
 
 **[Gen Z-Ers Are Ditching Sex. They Might Be onto Something](https://news.ycombinator.com/item?id=49016874)**
 
-⬆️ 6 • 💬 0 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
+⬆️ 7 • 💬 0 • 7h ago • [nytimes.com](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
 
 ---
 
@@ -311,7 +311,7 @@ The 'Fast Money' traders talk the recent downturn in crypto.
 
 📺 CNBC Television
 
-👁️ 11K • 👍 136 • 💬 83 • ⏱️ 5:18 • 12h ago
+👁️ 11K • 👍 136 • 💬 83 • ⏱️ 5:18 • 14h ago
 
 ---
 
@@ -321,7 +321,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 293 • 💬 13 • ⏱️ 18:45 • 16h ago
+👁️ 8K • 👍 293 • 💬 13 • ⏱️ 18:45 • 18h ago
 
 ---
 
@@ -331,7 +331,7 @@ Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treas
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 614 • 💬 101 • ⏱️ 16:41 • 13h ago
+👁️ 9K • 👍 614 • 💬 101 • ⏱️ 16:41 • 15h ago
 
 ---
 
@@ -341,7 +341,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 723 • 💬 56 • ⏱️ 50:57 • 19h ago
+👁️ 14K • 👍 723 • 💬 56 • ⏱️ 50:57 • 21h ago
 
 ---
 
@@ -361,7 +361,7 @@ Cycles have no respect for trends.” Michael Howell is on the show to explain w
 
 📺 What Bitcoin Did
 
-👁️ 15K • 👍 494 • 💬 219 • ⏱️ 1:05:17 • 19h ago
+👁️ 15K • 👍 494 • 💬 219 • ⏱️ 1:05:17 • 21h ago
 
 ---
 
@@ -371,7 +371,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 3K • 👍 172 • 💬 26 • ⏱️ 9:00 • 20h ago
+👁️ 3K • 👍 172 • 💬 26 • ⏱️ 9:00 • 22h ago
 
 ---
 
@@ -391,7 +391,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 289 • 💬 24 • ⏱️ 11:42 • 7h ago
+👁️ 4K • 👍 289 • 💬 24 • ⏱️ 11:42 • 9h ago
 
 ---
 
@@ -401,7 +401,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 424 • ⏱️ 32:52 • 16h ago
+👁️ 5K • 👍 424 • ⏱️ 32:52 • 18h ago
 
 ---
 

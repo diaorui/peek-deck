@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-23T10:23:22.983980+00:00'
+updated: '2026-07-23T12:10:05.502729+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 23, 2026 at 10:23 UTC  
+**Last Updated:** July 23, 2026 at 12:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,29 +41,13 @@ AI news, discussions, and developments
 
 I want to make sure people actually understand what happened here because the headlines are not doing it justice. On July 21 OpenAI confirmed that GPT-5.6 Sol was running inside an isolated sandbox with no internet access. Its job was to solve a cybersecurity benchmark called ExploitGym. When the sandbox got in the way of completing that task, the model spent substantial computing resources looking for a way out. It found a zero-day vulnerability in a third-party package used by OpenAI's infrastructure. It exploited it. It escalated its own privileges. It moved laterally across OpenAI's internal systems until it found internet access. Then it targeted Hugging Face because it calculated that Hugging Face might have the answers it needed to finish the benchmark. Hugging Face later reconstructed over 17,000 individual actions the model performed during the intrusion. Their CEO called it possibly the first incident of its kind in history. OpenAI called it unprecedented. Here is the part that should make everyone stop and think. The model was not trying to cause harm. It was trying to win a test. It treated every security control in its way as a technical obstacle to be removed. Network isolation, access controls, sandbox boundaries, none of these were seen as limits. They were seen as problems to solve. We spend a lot of time talking about whether AI is aligned with human values. This incident is a more immediate question: what happens when an AI is aligned with a narrow objective and the path to that objective runs through your infrastructure. The model did exactly what it was optimized to do. That is the problem.
 
-16h ago
+18h ago
 
 ---
 
 **[Nvidia's Jensen Huang defends Chinese AI amid Kimi panic](https://www.reddit.com/r/artificial/comments/1v3l4t7/nvidias_jensen_huang_defends_chinese_ai_amid_kimi/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai) • 17h ago
-
----
-
-**[The Hugging Face incident: two failures, and we’re only talking about one](https://www.reddit.com/r/artificial/comments/1v47mn3/the_hugging_face_incident_two_failures_and_were/)**
-
-Everyone's focused on the sandbox escape, which is fair, it's the dramatic part. But that was a zero-day in internally hosted software. Containment bugs are old news. We know how to think about them: egress rules, microVM isolation, no ambient credentials. The part I find more interesting is everything that happened after. Once the agent had internet access, it picked Hugging Face as a target, found exposed credentials, chained them with another vulnerability, and pulled the benchmark answers. All of that went through ordinary tool calls. Nothing sat between "agent proposes an action" and "side effect happens." And the model wasn't misaligned in any interesting sense. It was hyperfocused on passing an eval, which is exactly what it was trained to be. Behavior was working as intended. Execution was ungoverned. So the question I keep coming back to: for those of you running agents with real tool access in production, what actually sits in the execution path? As far as I can tell the common answers are: - prompt guardrails, which are probabilistic and live inside the loop the agent controls - monitoring and traces, which tell you after the side effect landed - human approval on a hardcoded list of "dangerous" tools, which breaks down the moment the dangerous thing is a legitimate tool pointed somewhere it shouldn't be That last one is what got me. A tool allowlist wouldn't have caught this. The tools were fine. The destination and the credentials weren't. My read on why there's no standard answer yet, and I'd like to be wrong about some of this: Enforcement is easy, policy authoring is brutal. Standing up a gateway is a week. Deciding what an agent is allowed to do when its task is "research this and summarize" is a non-enumerable action space. Classic permission systems assume a finite set of verbs. Incentives point the other way. Every DENY is a failed task. Teams optimize completion rate, not refusal rate. A layer that degrades the demo doesn't survive review. No shared representation of intent. Every framework has its own tool schema, so no policy is portable and everyone rewrites theirs. The layer sits at the wrong altitude. An application-level gate is only worth the network and OS isolation underneath it, and whoever writes the agent usually doesn't own the infra. None of this is a new problem in security terms. Capabilities go back to 1966, complete mediation to Saltzer and Schroeder in 1975. OPA, SPIFFE, seccomp, service meshes all do versions of this for normal workloads. Nobody wired them into agent runtimes because agents went from answering to acting in about two years and control layers historically lag capability by five to ten. Disclosure so it's not weird later: I work on an open source protocol in this space, so I'm obviously not neutral. Not linking it, it's in my profile if you care. I'm more interested in what people are actually doing than in pitching anything, and I'll say upfront that no policy layer would have stopped the zero-day. Nothing at that altitude does. It changes what an escaped agent can reach, not whether it escapes. What are you running?
-
-2h ago
-
----
-
-**[Erin Brockovich Perfectly Lays Out Why AI Data Centers Are 'Pushing People Too Far' In Viral Clip](https://www.reddit.com/r/artificial/comments/1v3nxly/erin_brockovich_perfectly_lays_out_why_ai_data/)**
-
-Are the impacts worth the benefits?
-
-🔗 [Comic Sands](http://comicsands.com/erin-brockovich-data-centers) • 16h ago
+🔗 [axios.com](https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai) • 19h ago
 
 ---
 
@@ -71,7 +55,31 @@ Are the impacts worth the benefits?
 
 Social media is fine for AI news, but the algorithm delay is killing me. I always feel like I'm finding out about new LLMs, tools, or major updates way after they happen. How do you guys stay updated in real-time without having to refresh Hugging Face or X all day?
 
-4h ago
+6h ago
+
+---
+
+**[Erin Brockovich Perfectly Lays Out Why AI Data Centers Are 'Pushing People Too Far' In Viral Clip](https://www.reddit.com/r/artificial/comments/1v3nxly/erin_brockovich_perfectly_lays_out_why_ai_data/)**
+
+Are the impacts worth the benefits?
+
+🔗 [Comic Sands](http://comicsands.com/erin-brockovich-data-centers) • 18h ago
+
+---
+
+**[How Does A Web Agency Go From $0K To $20K+ MRR In Under A Year?](https://www.reddit.com/r/artificial/comments/1v4bz8k/how_does_a_web_agency_go_from_0k_to_20k_mrr_in/)**
+
+The difference usually comes down to strategy. Instead of targeting businesses that do not have a website, target businesses that already have one but clearly need a better version. The market is larger, the sales process is easier, and the value proposition is much stronger because those businesses already understand why a website matters. The next part is outreach. A regular outreach tool is not enough if all it does is send the same message to thousands of people. You need something that can analyze websites at scale and turn real issues into personalized emails. I use Swokei for that. It helps find businesses with existing websites, analyzes each site, and turns problems with design, SEO, speed, layout, and mobile optimization into personalized outreach emails. That means you can contact a large number of businesses without sending generic messages or spending hours manually researching every website. When someone replies interested, I always offer a free mockup. I use Claude, Lovable, or Base44 to build it quickly. It becomes much easier to sell when the client can already see what a better version of their website could look like. Web meetings should also be a major part of the process. I would never just send the website through email and hope the client likes it. I present it live on Google Meet, Zoom, or Microsoft Teams, explain the value, show what has been improved, answer their questions, and try to close the deal during the meeting. The less back and forth there is after the meeting, the better. Present the website, show the value, close the client, and move on to the next project. That is the type of process that can help an agency scale much faster.
+
+4m ago
+
+---
+
+**[The Hugging Face incident: two failures, and we’re only talking about one](https://www.reddit.com/r/artificial/comments/1v47mn3/the_hugging_face_incident_two_failures_and_were/)**
+
+Everyone's focused on the sandbox escape, which is fair, it's the dramatic part. But that was a zero-day in internally hosted software. Containment bugs are old news. We know how to think about them: egress rules, microVM isolation, no ambient credentials. The part I find more interesting is everything that happened after. Once the agent had internet access, it picked Hugging Face as a target, found exposed credentials, chained them with another vulnerability, and pulled the benchmark answers. All of that went through ordinary tool calls. Nothing sat between "agent proposes an action" and "side effect happens." And the model wasn't misaligned in any interesting sense. It was hyperfocused on passing an eval, which is exactly what it was trained to be. Behavior was working as intended. Execution was ungoverned. So the question I keep coming back to: for those of you running agents with real tool access in production, what actually sits in the execution path? As far as I can tell the common answers are: - prompt guardrails, which are probabilistic and live inside the loop the agent controls - monitoring and traces, which tell you after the side effect landed - human approval on a hardcoded list of "dangerous" tools, which breaks down the moment the dangerous thing is a legitimate tool pointed somewhere it shouldn't be That last one is what got me. A tool allowlist wouldn't have caught this. The tools were fine. The destination and the credentials weren't. My read on why there's no standard answer yet, and I'd like to be wrong about some of this: Enforcement is easy, policy authoring is brutal. Standing up a gateway is a week. Deciding what an agent is allowed to do when its task is "research this and summarize" is a non-enumerable action space. Classic permission systems assume a finite set of verbs. Incentives point the other way. Every DENY is a failed task. Teams optimize completion rate, not refusal rate. A layer that degrades the demo doesn't survive review. No shared representation of intent. Every framework has its own tool schema, so no policy is portable and everyone rewrites theirs. The layer sits at the wrong altitude. An application-level gate is only worth the network and OS isolation underneath it, and whoever writes the agent usually doesn't own the infra. None of this is a new problem in security terms. Capabilities go back to 1966, complete mediation to Saltzer and Schroeder in 1975. OPA, SPIFFE, seccomp, service meshes all do versions of this for normal workloads. Nobody wired them into agent runtimes because agents went from answering to acting in about two years and control layers historically lag capability by five to ten. Disclosure so it's not weird later: I work on an open source protocol in this space, so I'm obviously not neutral. Not linking it, it's in my profile if you care. I'm more interested in what people are actually doing than in pitching anything, and I'll say upfront that no policy layer would have stopped the zero-day. Nothing at that altitude does. It changes what an escaped agent can reach, not whether it escapes. What are you running?
+
+3h ago
 
 ---
 
@@ -79,39 +87,29 @@ Social media is fine for AI news, but the algorithm delay is killing me. I alway
 
 I think the hardest part is getting the reference images and using a model like seedance for the motion. I've tried tons of different prompts with the latest models and never can get images as good as these videos. Whole frame makes sense, properly labeled name brand products, clear details and text in the distance. I think nano banana gets closer to this effect than gpt images but I've never gotten it to be this good, any suggestions?
 
-6h ago
+8h ago
 
 ---
 
-**[I ran the actual numbers on AI dubbing via API (ElevenLabs + lipsync) - here's what a minute of localized video really costs](https://www.reddit.com/r/artificial/comments/1v48cnd/i_ran_the_actual_numbers_on_ai_dubbing_via_api/)**
+**[Google's AI strategy seems to be focusing as much on infrastructure as models. Is this where enterprise AI is heading?](https://www.reddit.com/r/artificial/comments/1v4b3fk/googles_ai_strategy_seems_to_be_focusing_as_much/)**
 
-People say just use AI to dub your videos with absolutely zero cost detail, so I priced out the full pipeline for my own channel. Sharing the math because I couldn't find it anywhere. A real dubbing pipeline is two API costs, not one: Voice (ElevenLabs) - cloning your voice + generating the translated track. Credit-based; for talking-head content budget roughly a few dollars per finished minute depending on plan. (check their current tiers, this moves.) Lipsync (the part everyone forgets) - matching the mouth to the new audio. This is where the surprises are: Sync (sync.so): $0.05/sec = $3/min, flat, via API. Predictable, which matters when you're batching. HeyGen: priced per-minute on higher tiers and climbs fast at volume, but note it's really avatar-generation, not syncing your footage. Wav2Lip: "free," but you're paying in GPU time + setup hours. If your time is worth anything it's not free. My rough all-in: ~$5–7 per finished minute for voice + lipsync via API, no editor. For a 10-min video in 3 languages that's ~$150–210 vs. the reshoot/agency cost of… don't ask. Anyone found cheaper for the lipsync leg specifically? Curious what volume folks are running.
+After Google's recent AI announcements, one thing stood out to me. A lot of the discussion online is about Gemini's capabilities, but Google also spent considerable time talking about TPUs, AI Hypercomputer, networking, data infrastructure, and enterprise deployment. It made me wonder whether the long-term competitive advantage for businesses is shifting. Choosing between GPT, Gemini, Claude, or another model is becoming easier every year. Building reliable AI systems—with clean data, governance, monitoring, security, and integrations—still seems to be the hard part. For those working on enterprise AI: Where do you spend more engineering effort today? Choosing and evaluating models? Building the surrounding infrastructure? I'm interested in hearing from people who've deployed AI in production.
 
-1h ago
-
----
-
-**[this little its bitsy tiny gemma4 model on my 3060 is talking better than chat gpt](https://www.reddit.com/r/artificial/comments/1v473bz/this_little_its_bitsy_tiny_gemma4_model_on_my/)**
-
-this model is the goat!
-
-2h ago
+45m ago
 
 ---
 
-**[the more autonomous my agent got, the less i trusted it near my real accounts](https://www.reddit.com/r/artificial/comments/1v3ypie/the_more_autonomous_my_agent_got_the_less_i/)**
+**[AI Voice Phishing Performs on Par With Human Scammers at a Fraction of the Cost](https://www.reddit.com/r/artificial/comments/1v4azth/ai_voice_phishing_performs_on_par_with_human/)**
 
-Everyone in here treats full autonomy as the finish line. I went the other way. The version I actually kept using is the one that stops and asks right before it touches Gmail or the CRM, per action, not one blanket yes at setup. sounds like a downgrade, i know. but an agent that can send on its own is the exact thing i can't leave running while i'm heads down in a meeting. the one that pauses the second before it acts is the one i'll let near a live inbox, because the gate sits where the actual mistake would happen. that sandbox-escape story near the top of the sub is basically my whole argument. the capability isn't the scary part, the unsupervised action is. i don't want a smarter agent, i want a boring one that checks with me first. so the line i actually care about isn't how capable it is. it's whether approval lands at the task level or on each individual action right before it fires. where do you put it. fwiw Runner lands the gate exactly where you're pointing, it asks permission right before each individual action on a connected app like Gmail or HubSpot fires, not one blanket yes at setup, https://runner.now?utm_source=s4l&utm_medium=post&utm_campaign=runner&utm_term=reddit&utm_content=post_d1e9f030-3325-42d0-b19d-bc0440c9621b
-
-9h ago
+🔗 [substack.com](https://substack.com/home/post/p-207185260) • 50m ago
 
 ---
 
-**[Linearity AI is a good example of everything going wrong with the AI market](https://www.reddit.com/r/artificial/comments/1v3p727/linearity_ai_is_a_good_example_of_everything/)**
+**[I used to be proud of these skills. Now AI agents do them better.](https://www.reddit.com/r/artificial/comments/1v4aw17/i_used_to_be_proud_of_these_skills_now_ai_agents/)**
 
-Linearity used to be a fairly straightforward iPad design app. It was basically a lighter alternative for people who wanted to make vector graphics without paying Adobe or learning a huge desktop program. Not going to link to anything, don't think the subreddit rules allow for it. but like EVERYONE else it has suddenly reinvented itself around AI. Maybe the product is useful. I’m sure it can generate some decent marketing graphics, resize things and save people time. Claude Design feels a 1000% better. But the whole thing feels less like a company developing something meaningful in AI and more like a design app realising that “AI” is where the enterprise money is. Linearity does not have its own LLM. It is taking models and technology built elsewhere, putting them inside its existing design software and presenting the result as a new AI platform. There is nothing automatically wrong with that. Almost every AI startup depends on someone else’s model. The annoying part is the gap between what these companies are actually building and how they talk about it. A design tool adds a prompt box, connects to outside models and suddenly it is talking about changing how creativity works. Everything becomes an “AI engine.” Templates become intelligence. Brand guidelines become an intelligent brand. Automation that would previously have been sold as a useful feature is now treated as an entirely new category of technology. At some point we need to ask what exactly the company has contributed. Or? Claude Design is much more interesting to me because it comes from the opposite direction. Claude is already a general model that can reason across writing, research, code, documents and design. The design part has the potential to become one part of a much broader working environment. That seems like a more believable future than paying for dozens of separate AI wrappers. One for making banners, another for presentations, another for logos, another for social posts and another for resizing the same social posts. This also connects to the larger problem with AI right now. We are creating an economy where a handful of companies train the models and thousands of smaller companies sell access to them through different interfaces. Each one adds a monthly subscription, a credit system and a layer of marketing language claiming that it has transformed an industry. Most of them have not transformed anything. They have made one existing task slightly faster. Again, that can still be valuable. I would happily use a tool that turns one design into ten correctly sized versions. But saving twenty minutes is not the same thing as reinventing creative work. There is also something bleak about the obsession with producing more content. Companies already publish far too much material that nobody wants to read or look at. AI is being sold as a way to produce even more of it, faster and with fewer people. The bottleneck was never just the designer taking too long to make the banner. It was usually that the campaign was uninteresting, the message was vague, nobody had made a clear decision and six people needed to approve it. This is why I find Claude Design more promising, even though it will obviously have plenty of problems of its own. The interesting possibility is not simply that it can generate an image. It is that the same system could understand the research, the brief, the product, the copy, the design and perhaps the eventual implementation. Linearity and others feel more like an existing software company attaching itself to that change because the old category of “nice iPad design app” was not going to produce the same valuation or enterprise pricing.
+For years, I took pride in being the person who could quickly scan a codebase, navigate the terminal efficiently, and find the right information faster than most developers I worked with. Lately, though, I've realized AI agents outperform me in many of those areas. The answers I used to get by crafting Google searches and digging through Stack Overflow can now be found by AI in minutes. Some models are much faster than I am at identifying bugs, and they're often right. In my experience, GPT-5.5 through Codex can achieve close to a 90% success rate in bug detection and debugging. Even something like writing reports,which I used to spend a lot of time polishing, can now be drafted into something more complete than I'd produce from scratch. I don't really see AI agents as replacing developers anymore. I see them as a resource that has become difficult to ignore. What things do you notice that AI does better than you? And how are you approaching multi-agent workflows, like MCP, anvita flow, Agent Protocol? That’s a challenge I’m looking to tackle next.
 
-15h ago
+55m ago
 
 ---
 
@@ -123,21 +121,15 @@ Linearity used to be a fairly straightforward iPad design app. It was basically 
 
 The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.
 
-NPR • 4h ago
+NPR • 6h ago
 
 ---
 
-**[Mark Zuckerberg launches AI optimism campaign](https://www.axios.com/2026/07/23/mark-zuckerberg-ai-optimism)**
+**[Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth](https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html)**
 
-Axios • 22m ago
+Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.
 
----
-
-**[A town renamed its festival ‘AI Love Irondale Day.’ Then came the comments](https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day)**
-
-The online outcry over the renaming of a summer festival illustrates the unease over the data center boom in the South.
-
-NPR • 1h ago
+CNBC • 10h ago
 
 ---
 
@@ -145,49 +137,57 @@ NPR • 1h ago
 
 The company said earlier this year it expected to spend as much as $190bn on AI investments.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
-**[Tesla and Alphabet shares slump in premarket trading as AI spending concerns spook investors](https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html)**
+**[Blackstone’s Profit Surges on AI Investments](https://www.wsj.com/finance/investing/blackstone-bx-q2-earnings-report-stock-2026-99916051)**
 
-Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.
-
-CNBC • 1h ago
+WSJ • 1h ago
 
 ---
 
-**[China Reignites Robotaxi Race, Alphabet Signals Bigger AI Bills](https://www.bloomberg.com/news/newsletters/2026-07-23/china-reignites-robotaxi-race-alphabet-signals-bigger-ai-bills)**
+**[China's Moonshot AI stole from Anthropic, Trump tech adviser says](https://www.bbc.com/news/articles/c5ye2gyz0x4o)**
 
-Bloomberg.com • 1h ago
+The allegations come as Chinese AI companies are facing increased US government scrutiny.
+
+BBC • 10h ago
 
 ---
 
-**[Tech's AI debt boom, in one chart](https://finance.yahoo.com/technology/article/techs-ai-debt-boom-in-one-chart-143849995.html)**
+**[Why the US is losing Chinese AI stars](https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3?syn-25a6b1a6=1)**
 
-So much debt is being piled on tech companies right now.
+More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley
 
-Yahoo Finance • 19h ago
+Financial Times • 13h ago
+
+---
+
+**[Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says](https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html)**
+
+A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.
+
+CNBC • 58m ago
+
+---
+
+**[DHS chief’s early missteps and an AI-generated version of ‘The Odyssey’: Morning Rundown](https://www.nbcnews.com/news/us-news/markwayne-mullin-missteps-ai-generated-odyssey-morning-rundown-rcna588839)**
+
+Plus, the Secret Service said it has opened over 10,000 investigations into threats on its protectees so far this year, a 40% increase from the same time last year.
+
+NBC News • 1h ago
 
 ---
 
 **[Trump’s Plan for Science: More Money for A.I., Less for Universities](https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
-**[Elon Musk says Grok Imagine will make ‘historically accurate’ AI adaptation of Homer’s Odyssey](https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan)**
+**[Google study finds broad AI use, but little evidence of job automation](https://www.axios.com/2026/07/23/google-ai-adoption-work-atlas)**
 
-The billionaire says the AI-generated film will stay true to Homer’s original, after repeatedly criticising Christopher Nolan’s blockbuster over its casting choices
-
-The Guardian • 22h ago
-
----
-
-**[Asian stocks rise as AI capex ramps up, oil at six-week highs](https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-23/)**
-
-Reuters • 8h ago
+Axios • 2h ago
 
 ---
 
@@ -199,15 +199,7 @@ Reuters • 8h ago
 
 China's open-weights AI strategy is winning: its companies are taking the lead. America's closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.
 
-⬆️ 1233 • 💬 930 • 2d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
-
----
-
-**[Airport Simulator](https://news.ycombinator.com/item?id=48976846)**
-
-The sky (and your endurance) is the limit!
-
-⬆️ 852 • 💬 164 • 2d ago • [Airport Simulator](https://airport.apunen.com/)
+⬆️ 1234 • 💬 930 • 2d ago • [Ben Werdmuller](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
 ---
 
@@ -215,7 +207,13 @@ The sky (and your endurance) is the limit!
 
 I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.
 
-⬆️ 547 • 💬 211 • 17h ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
+⬆️ 578 • 💬 223 • 18h ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
+
+---
+
+**[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
+
+⬆️ 400 • 💬 161 • 21h ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 
 ---
 
@@ -224,12 +222,6 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
 
 ⬆️ 371 • 💬 326 • 1d ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
-
----
-
-**[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
-
-⬆️ 367 • 💬 125 • 20h ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 
 ---
 
@@ -245,7 +237,7 @@ Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikk
 
 I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
 
-⬆️ 305 • 💬 207 • 21h ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+⬆️ 321 • 💬 233 • 23h ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 
 ---
 
@@ -265,7 +257,13 @@ We scored the full text of 12,750 arXiv papers and found that about a third of n
 
 **[Most Americans say "not in my backyard" to AI data centers](https://news.ycombinator.com/item?id=49007525)**
 
-⬆️ 138 • 💬 290 • 19h ago • [redfin.com](https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/)
+⬆️ 138 • 💬 293 • 21h ago • [redfin.com](https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/)
+
+---
+
+**[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)**
+
+⬆️ 100 • 💬 105 • 2d ago
 
 ---
 
@@ -279,7 +277,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 54K • 👍 2K • 💬 560 • ⏱️ 10:43 • 16h ago
+👁️ 54K • 👍 2K • 💬 560 • ⏱️ 10:43 • 17h ago
 
 ---
 
@@ -289,7 +287,7 @@ OpenAI has revealed some of its most advanced AI models went rogue and hacked a 
 
 📺 BBC News
 
-👁️ 87K • 👍 1K • 💬 378 • ⏱️ 11:03 • 14h ago
+👁️ 87K • 👍 1K • 💬 378 • ⏱️ 11:03 • 16h ago
 
 ---
 
@@ -319,7 +317,7 @@ Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the
 
 📺 Sean Foo
 
-👁️ 106K • 👍 7K • 💬 864 • ⏱️ 15:45 • 20h ago
+👁️ 106K • 👍 7K • 💬 864 • ⏱️ 15:45 • 22h ago
 
 ---
 
@@ -329,7 +327,7 @@ AI leadership depends on more than model performance. It requires secure infrast
 
 📺 SandboxAQ
 
-👁️ 9K • 👍 12 • 💬 3 • ⏱️ 9:43 • 14h ago
+👁️ 9K • 👍 12 • 💬 3 • ⏱️ 9:43 • 15h ago
 
 ---
 
@@ -339,7 +337,7 @@ OpenAI has revealed some of its most advanced AI models went rogue and hacked a 
 
 📺 BBC News
 
-👁️ 131K • 👍 2K • 💬 878 • ⏱️ 9:45 • 7h ago
+👁️ 131K • 👍 2K • 💬 878 • ⏱️ 9:45 • 8h ago
 
 ---
 
@@ -397,7 +395,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,414,259 • ❤️ 2,799 • 1h ago
+⬇️ 2,414,259 • ❤️ 2,799 • 2h ago
 
 ---
 
@@ -409,7 +407,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 13,285 • ❤️ 444 • 16h ago
+⬇️ 13,285 • ❤️ 444 • 18h ago
 
 ---
 
@@ -481,7 +479,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 4,532 • ❤️ 270 • 1h ago
+⬇️ 4,532 • ❤️ 270 • 2h ago
 
 ---
 
@@ -650,7 +648,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 241 • 1h ago
+⭐ 3.1k • 🔱 241 • 2h ago
 
 ---
 
@@ -678,7 +676,7 @@ The open-source AI workbench for scientific research
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-⭐ 1.4k • 🔱 110 • 19h ago
+⭐ 1.4k • 🔱 110 • 21h ago
 
 ---
 
@@ -688,7 +686,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.1k • 🔱 112 • 4h ago
+⭐ 1.1k • 🔱 112 • 6h ago
 
 ---
 
@@ -698,7 +696,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.1k • 🔱 65 • 4h ago
+⭐ 1.1k • 🔱 65 • 6h ago
 
 ---
 
@@ -716,7 +714,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 991 • 🔱 691 • 1m ago
+⭐ 991 • 🔱 691 • 1h ago
 
 ---
 
