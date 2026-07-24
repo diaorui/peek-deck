@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-24T09:55:21.475373+00:00'
+updated: '2026-07-24T11:42:57.845277+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 24, 2026 at 09:55 UTC  
+**Last Updated:** July 24, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Built this 6dof with parts bought from local hardware store. Lot of loose parts 
 
 Two cute little robots dancing to the music and enjoying their moment in the spotlight. Their synchronized movements, tiny gestures, and playful rhythm were surprisingly delightful to watch. I came across this little performance during my day and couldn’t resist recording it.
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ Two cute little robots dancing to the music and enjoying their moment in the spo
 
 Colin Angle explains that giving a robot a voice does more than change the interface. It changes the user’s entire understanding of what the machine can do. Roomba eventually received spoken maintenance messages because communicating problems such as clogged rollers or a lost Wi-Fi connection through sequences of beeps created a poor user experience. But iRobot intentionally made those messages sound like a separate utility or maintenance system rather than Roomba itself speaking. Once a robot appears conversational, users begin expecting language understanding, memory, contextual awareness and consistent behavior across long periods of time. Angle says delivering all of that reliably remains difficult, even with current natural-language systems. Keeping Roomba’s personality undefined allowed people to personify the robot on their own terms without the product making promises its underlying intelligence could not fulfill.
 
-20h ago
+22h ago
 
 ---
 
@@ -60,7 +60,7 @@ Colin Angle explains that giving a robot a voice does more than change the inter
 
 Do not sign up with this company unless you want to be scammed. I signed up for their most expensive program, but was not satisfied and requested a refund. It was much less than I thought, but it still wasn't a small amount (a little under $1000). The teachers were nice, but my son was not learning much in terms of robotics. That's when things went south. After being promised my refund, they refused to actually refund me my money, and then ghosted me. This after I spent an additional $100 to ship the robotics kit back to them in India. I tracked it all the way there, just to see it refused by sender. This is what they do. I tried to dispute this with my credit card, but I just found out it was denied because Playto charges through a third party name (Raz*Skyfi Education). They know this, and use it as a loophole to not refund you your credit. Please stay away.
 
-19h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ Built my first robot still have a lot to learn. Open to any advice on how to imp
 
 **[The Breakdown: Saronic](https://www.reddit.com/r/robotics/comments/1v4eoqi/the_breakdown_saronic/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 19h ago
+🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 21h ago
 
 ---
 
@@ -110,17 +110,29 @@ Most humanoid robots in factories are still being tested in pilot programs, and 
 
 ## Google News: "robotics"
 
-**[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
-
-Bloomberg.com • 2h ago
-
----
-
 **[The Robots Cometh](https://time.com/article/2026/07/23/unitree-china-human-robotics/)**
 
 The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
 
-Time Magazine • 21h ago
+Time Magazine • 23h ago
+
+---
+
+**[US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies](https://www.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies)**
+
+South China Morning Post • 1d ago
+
+---
+
+**[Robotics startup Humanoid raises $152 million Series A round at $1.35 billion valuation](https://www.reuters.com/business/robotics-startup-humanoid-raises-152-million-series-round-135-billion-valuation-2026-07-21/)**
+
+Reuters • 2d ago
+
+---
+
+**[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
+
+Bloomberg.com • 3h ago
 
 ---
 
@@ -128,21 +140,13 @@ Time Magazine • 21h ago
 
 Tesla is preparing to build Optimus in Fremont. Here's what we know about the humanoid robot's price, capabilities, and biggest hurdles.
 
-Business Insider • 55m ago
+Business Insider • 2h ago
 
 ---
 
 **[SoftBank Weighs Deal for Robotics Startup Gravis](https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Tech Moves: Agility Robotics gets CFO; Microsoft security departure; Zap's legal officer; new KEXP CPTO](https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/)**
-
-Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
-
-GeekWire • 16h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -152,15 +156,17 @@ WSJ • 2d ago
 
 ---
 
-**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
+**[Tech Moves: Agility Robotics gets CFO; Microsoft security departure; Zap's legal officer; new KEXP CPTO](https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/)**
 
-Reuters • 3d ago
+Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
+
+GeekWire • 18h ago
 
 ---
 
-**[US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies](https://www.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies)**
+**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
 
-South China Morning Post • 22h ago
+Reuters • 3d ago
 
 ---
 
@@ -169,14 +175,6 @@ South China Morning Post • 22h ago
 Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
 
 The Guardian • 1d ago
-
----
-
-**[Travis Kalanick’s robotics company raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)**
-
-Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
-
-TechCrunch • 1d ago
 
 ---
 
@@ -240,7 +238,7 @@ War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Crea
 
 📺 Manni-Gaming
 
-👁️ 12K • 👍 492 • 💬 174 • ⏱️ 14:51 • 21h ago
+👁️ 12K • 👍 492 • 💬 174 • ⏱️ 14:51 • 23h ago
 
 ---
 

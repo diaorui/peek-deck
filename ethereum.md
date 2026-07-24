@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-24T09:55:21.472038+00:00'
+updated: '2026-07-24T11:42:57.842748+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 09:55 UTC  
+**Last Updated:** July 24, 2026 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,899.45
+### $1,882.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** +1.4%  
-**30d:** +20.4%  
-**90d:** -20.3%  
-**1y:** -49.3%  
+**24h:** -1.2%  
+**7d:** +1.0%  
+**30d:** +19.9%  
+**90d:** -20.7%  
+**1y:** -49.5%  
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
-3d ago
+4d ago
 
 ---
 
@@ -150,23 +150,31 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Ethereum's historic capitulation signals a stro...](https://pluang.com/en/news-feed/kapitulasi-terburuk-ethereum-eth-tunjukkan-sinyal-bullish)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
 
-Ethereum has experienced one of its longest and most severe capitulation phases, with a majority of its supply held at a loss since January. Despite this, recent on-chain data and price recovery from lows near $1,500 to around $1,890 indicate growing buyer momentum and resilience. Key resistance lies near $1,935, and a breakthrough could trigger a significant bullish phase as long-term investors accumulate at reduced prices while weaker holders exit. This capitulation period, though painful, may lay the foundation for Ethereum's next major price increase if market conditions remain favorable.
+Leading cryptocurrencies flatlined on Wednesday as investors weighed the implications of the Clarity Act and rising geopolitical tensions in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.64%$65,933.49Ethereum (CRYPTO: ETH) +0.05%$1,931.41XRP (CRYPTO: XRP) -0.32%$1.13Solana (CRYPTO: SOL) -0.18%$78.12Dogecoin (CRYPTO: DOGE) -0.79%$0.07287 Crypto Rally Cools Bitcoin failed to break through $67,000 and slipped back to $65,000 after encounter
 
-Pluang • 59m ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum’s Falling Fees Do Not Mean Falling Use, Bitwise Finds](https://finance.yahoo.com/markets/crypto/articles/ethereum-falling-fees-not-mean-075605281.html)**
+**[Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html)**
 
-Ethereum fees fell 51% year-on-year while transactions rose and staking hit a record, per a new Bitwise report.
+Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 20h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
+
+Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
+
+Benzinga • 9h ago
 
 ---
 
@@ -174,7 +182,15 @@ Yahoo Finance • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10m ago
+Fortune • 1h ago
+
+---
+
+**[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://www.fool.com/investing/2026/07/24/vitalik-buterin-says-ethereum-reinvents-itself/)**
+
+The chain's new plan calls for a swath of big steps in a few different directions.
+
+The Motley Fool • 12m ago
 
 ---
 
@@ -182,7 +198,15 @@ Fortune • 10m ago
 
 A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
 
-TradingView • 15h ago
+TradingView • 17h ago
+
+---
+
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
+
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
+
+Seeking Alpha • 23h ago
 
 ---
 
@@ -194,35 +218,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
-
-Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
-
-Seeking Alpha • 21h ago
-
----
-
-**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
-
-Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
-
-FXStreet • 22h ago
-
----
-
 **[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
 
 U.S. Spot ETH ETF has seen net inflows in the past two weeks.
 
-AMBCrypto • 5h ago
-
----
-
-**[Crypto News Today: AlphaPepe Nears Tier-1 CEX Partnership Reveal as Ethereum Price Prediction Eyes $8,500](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-tier-1-cex-partnership-reveal-as-ethereum-price-prediction-eyes-8-500-1036354172)**
-
-MONACO , July  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price prediction models examine whe...
-
-markets.businessinsider.com • 1d ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 395 • 💬 171 • ⏱️ 16:34 • 9h ago
+👁️ 7K • 👍 395 • 💬 171 • ⏱️ 16:34 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 7 • ⏱️ 6:26 • 8h ago
+👁️ 2K • 👍 128 • 💬 7 • ⏱️ 6:26 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin and Ethereum are nearing major inflection points after BTC's pullback in
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 4K • 👍 395 • 💬 55 • ⏱️ 1:00:32 • 6h ago
+👁️ 4K • 👍 395 • 💬 55 • ⏱️ 1:00:32 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ Ethereum has gained roughly 25% over the past month, but ETH's daily chart is no
 
 📺 FXEmpire
 
-👁️ 8 • ⏱️ 3:53 • 42m ago
+👁️ 8 • ⏱️ 3:53 • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could re
 
 📺 Lark Davis
 
-👁️ 1K • 👍 41 • 💬 3 • ⏱️ 0:53 • 5h ago
+👁️ 1K • 👍 41 • 💬 3 • ⏱️ 0:53 • 7h ago
 
 ---
 

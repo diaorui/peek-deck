@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-24T09:55:21.465845+00:00'
+updated: '2026-07-24T11:42:57.838046+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 09:55 UTC  
+**Last Updated:** July 24, 2026 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +0.4%  
-**30d:** +9.1%  
-**90d:** -17.2%  
-**1y:** -44.6%  
+**24h:** -0.2%  
+**7d:** +0.2%  
+**30d:** +8.9%  
+**90d:** -17.3%  
+**1y:** -44.7%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I am very much confident of a bottom within a few weeks. Bitcoin isn't going helow 60k.
 
-10h ago
+12h ago
 
 ---
 
 **[The Orange Revolution](https://www.reddit.com/r/Bitcoin/comments/1v4yg68/the_orange_revolution/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ I am very much confident of a bottom within a few weeks. Bitcoin isn't going hel
 
 Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people advising to sell the last few days, saying we are going to do another 20-30% dump.. essentially the argument is that we are entering a no more cheap money period, and we aren’t getting rate cuts any time soon, there’s no halving in the next few years so there are no bullish catalysts.. and the technical setup isn’t great. Whats everyone doing rn? We adding, holding or trimming?
 
-11h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people adv
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
 
-16h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ BancaStato has become the latest Swiss bank to offer regulated bitcoin trading t
 
 On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, roughly 297 million dollars combined, into Coinbase Prime custody. Sale speculation followed immediately. The detail almost nobody is explaining clearly: Executive Order 14233, which created the Strategic Bitcoin Reserve, only protects Bitcoin from sale. Ether and other seized digital assets fall under a separate framework where Treasury has discretion. So the 244 million in Bitcoin here is protected on paper, the 53 million in Ether is not. The Bitcoin traces to two forfeiture cases, roughly 2,875 BTC from a dark web dealer known as Xanaxman and about 925.5 BTC linked to the old BTC-e exchange. The Ether comes from a former Oracle employee's money laundering case. Worth noting too that a deposit to Coinbase Prime is not proof of an impending sale. The Marshals Service has an active custody contract with Coinbase Prime specifically for managing seized assets, and similar transfers in January, May, and June this year did not result in confirmed liquidations. The bigger structural point is that Executive Order 14233 is policy, not statute. Congress introduced a bill in May to codify the reserve with a 20 year holding requirement, but it has not moved out of committee. Until it does, Bitcoin's protected status here rests on one administration's choice, reversible by the next. Full writeup with sourcing: https://davidebtc186.substack.com/p/the-us-government-just-moved-297m
 
-20h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, r
 
 Is bitcoin finally starting to bottom out? I know that this has been one of the significant drops in bitcoin in recent history but when is it finally gonna bottom out into we enter into the bullish trends. What's everyone's plans in when they are going to be investing and doubling down?
 
-23h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ Is bitcoin finally starting to bottom out? I know that this has been one of the 
 
 I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a month before tax and spending. Is there any way for me to reach 1 coin1-10 coins in a foreseeable future. (Let’s say 5 years) I just don’t know how there are so many people have a lot of money just to invest. I can barely break even sometimes, the rent is my highest spending, I was thinking maybe just living in my car. But I do need some advice, I can pull out probably $200 max every two weeks. Can you guys share your stories of how you have a whole coin or accumulate aggressively. Thank you
 
-3h ago
+5h ago
 
 ---
 
@@ -157,11 +157,11 @@ I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a
 
 ## Google News: "bitcoin"
 
-**[Bulls face a test unlike anything in bitcoin's 17-year history: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/23/bulls-face-a-test-unlike-anything-in-bitcoin-s-17-year-history)**
+**[BTC, ETH price news: Bitcoin steady around $65,000 as 'Mag 7' have worst day since 2025](https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched)**
 
-The day ahead in crypto: July 23, 2026
+The Magnificent Seven had their worst day since April 2025 after Alphabet and Tesla spooked investors on AI spending. Bitcoin fell less than 1%, and dogecoin led the majors lower.
 
-CoinDesk • 22h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -171,23 +171,23 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Morgan Stanley sees AI data center pivot unlocking upside for bitcoin miners](https://finance.yahoo.com/technology/ai/articles/morgan-stanley-sees-ai-data-175347881.html)**
+**[Anthony Scaramucci: Bitcoin Fear Remains Extreme, But It Will 'Grind Higher'](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-bitcoin-fear-remains-100108080.html)**
 
-Investing.com -- Morgan Stanley initiated coverage of bitcoin miners turned AI infrastructure providers, arguing that companies with large, grid-connected power assets are well positioned to benefit from surging demand for AI data centers as hyperscalers race to secure electricity for compute expansion.
+SkyBridge Capital founder Anthony Scaramucci said Bitcoin is likely to “grind higher” despite weak market sentiment, while warning that the Senate has only a narrow window to pass the CLARITY Act before lawmakers leave for the August recess. ‘Grind Higher‘...
 
-Yahoo Finance • 16h ago
-
----
-
-**[Bitcoin Holds Above US$65,000 As Crypto Market Cap Stays At US$2.22 Trillion](https://www.moomoo.com/news/post/73490535/bitcoin-holds-above-us-65000-as-crypto-market-cap-stays)**
-
-Moomoo • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[U.S. Treasury debt approaches $40 trillion: capital accelerates into gold and Bitcoin](https://www.moomoo.com/news/post/73486918/us-treasury-debt-approaches-40-trillion-capital-accelerates-into-gold)**
 
-Moomoo • 1h ago
+Moomoo • 3h ago
+
+---
+
+**[Bitcoin Holds Above US$65,000 As Crypto Market Cap Stays At US$2.22 Trillion](https://www.moomoo.com/news/post/73490535/bitcoin-holds-above-us-65000-as-crypto-market-cap-stays)**
+
+Moomoo • 2h ago
 
 ---
 
@@ -203,7 +203,15 @@ The Boston Globe • 2d ago
 
 Nine firms including Strategy and BlackRock formed a $15 million Bitcoin security consortium to fund post-quantum cryptography research.
 
-The Block • 20h ago
+The Block • 22h ago
+
+---
+
+**[MSTR Stock Falls Amid Bitcoin’s Drop Below $65K – Strategy Joins BlackRock, Coinbase In $15 Million Bitcoin Security Push](https://finance.yahoo.com/markets/crypto/articles/mstr-stock-falls-amid-bitcoin-144057683.html)**
+
+The dip in MSTR’s stock came alongside weakness in the overall cryptocurrency market, with Bitcoin’s price dropping below the $65,000 level.
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -211,15 +219,7 @@ The Block • 20h ago
 
 Members will direct funding independently, with the consortium taking no role in Bitcoin governance or protocol decisions.
 
-CoinDesk • 21h ago
-
----
-
-**[Galaxy Launches Bitcoin Quantum Readiness Initiative to Protect Bitcoin's Cryptographic Foundations](https://www.galaxy.com/newsroom/galaxy-launches-bitcoin-quantum-readiness-initiative)**
-
-Galaxy launched the Galaxy Bitcoin Quantum Readiness Initiative, a multi-pillar program dedicated to preparing Bitcoin for the threat posed by advances in quantum computing
-
-galaxy.com • 2d ago
+CoinDesk • 22h ago
 
 ---
 
@@ -239,7 +239,7 @@ CNBC • 1d ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 114 • 💬 117 • 1d ago • [opennode.com](https://opennode.com/)
+⬆️ 114 • 💬 118 • 1d ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -279,7 +279,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
 
-⬆️ 1 • 💬 0 • 18h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 20h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
 
 ---
 
@@ -303,7 +303,7 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI development by creating an account on GitHub.
 
-⬆️ 3 • 💬 1 • 6h ago • [GitHub](https://github.com/bitmonky/borgHUI)
+⬆️ 4 • 💬 1 • 8h ago • [GitHub](https://github.com/bitmonky/borgHUI)
 
 ---
 
@@ -311,7 +311,7 @@ Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI developme
 
 From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
-⬆️ 2 • 💬 0 • 17h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
+⬆️ 2 • 💬 0 • 19h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
 
 ---
 
@@ -335,7 +335,7 @@ Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitte
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 209 • ⏱️ 12:09 • 9h ago
+👁️ 26K • 👍 2K • 💬 209 • ⏱️ 12:09 • 11h ago
 
 ---
 
@@ -345,7 +345,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 181 • 💬 16 • ⏱️ 14:14 • 16h ago
+👁️ 4K • 👍 181 • 💬 16 • ⏱️ 14:14 • 18h ago
 
 ---
 
@@ -355,7 +355,7 @@ Let us talk about social interest for Bitcoin in 2026 and what we can expect goi
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 3K • 💬 221 • ⏱️ 7:39 • 23h ago
+👁️ 54K • 👍 3K • 💬 221 • ⏱️ 7:39 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 2K • 💬 349 • ⏱️ 20:33 • 12h ago
+👁️ 15K • 👍 2K • 💬 349 • ⏱️ 20:33 • 14h ago
 
 ---
 
@@ -385,7 +385,7 @@ MARA Chairman and CEO Fred Thiel unpacks the economic reality behind the global 
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 87 • 💬 113 • ⏱️ 1:12 • 15h ago
+👁️ 4K • 👍 87 • 💬 113 • ⏱️ 1:12 • 16h ago
 
 ---
 
@@ -395,7 +395,7 @@ An AI-to-crypto capital rotation describes the shifting of institutional and ret
 
 📺 Paul Barron Network
 
-👁️ 41K • 👍 2K • 💬 183 • ⏱️ 20:09 • 18h ago
+👁️ 41K • 👍 2K • 💬 183 • ⏱️ 20:09 • 20h ago
 
 ---
 
@@ -405,7 +405,7 @@ Bitcoin Does the Juke Moves! JP & Rob Helps you not get crossed up! Live Trading
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 300 • ⏱️ 4:33:26 • 5h ago
+👁️ 6K • 👍 300 • ⏱️ 4:33:26 • 7h ago
 
 ---
 
@@ -415,7 +415,7 @@ What does the future of Bitcoin mining actually look like? This week, Fred Thiel
 
 📺 Natalie Brunell
 
-👁️ 10K • 👍 391 • 💬 174 • ⏱️ 1:06:35 • 22h ago
+👁️ 10K • 👍 391 • 💬 174 • ⏱️ 1:06:35 • 1d ago
 
 ---
 

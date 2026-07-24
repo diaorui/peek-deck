@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-24T09:55:21.457165+00:00'
+updated: '2026-07-24T11:42:57.831216+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 24, 2026 at 09:55 UTC  
+**Last Updated:** July 24, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment](https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 He does it because he loves it huh?
 
-5h ago
+7h ago
 
 ---
 
@@ -55,7 +55,7 @@ He does it because he loves it huh?
 
 I'm a dad and work in software development. My son came up to me today and said, "Dad, I made something for you." I honesty thought he meant a drawing or something from school. Instead, he pulled out his Chromebook and showed me this little web app he'd built with AI: https://gentle-tower-m9w88vse.codedreams.org/ (It's flappy bird) When I was his age, I was struggling to print "Hello, World." Now they're building little apps before they've even kissed a girl. Made me smile. Curious if anyone else's kids have started getting into AI lately. Granted, he used a third-party platform to build it, but I still think it's impressive.
 
-2h ago
+4h ago
 
 ---
 
@@ -63,15 +63,31 @@ I'm a dad and work in software development. My son came up to me today and said,
 
 Earlier this week, Substack launched a new feature on its platform in partnership with Pangram, an AI-detection tool. The goal: alert readers to content that's been written entirely by, or with the assistance of, AI. Chris Best Substack's CEO wrote: "We’re partnering with Pangram, the leading AI-detection tool. You’ll be able to scan notes, replies, comments, and posts to see an estimate of how much of the text was written by hand or with AI assistance. This will work on text longer than 100 words, published from today on, and will show an analysis only to those who request it." I tested one of the issues of a newsletter I subscribe to using Pangram today. The verdict? 100% AI generated. I'm not sure if Pangram is that accurate, but it's certainly stirred up a lot of debate. What's your take?
 
-16h ago
+18h ago
 
 ---
 
-**[Petition to rename this sub to r/slop](https://www.reddit.com/r/artificial/comments/1v56aa7/petition_to_rename_this_sub_to_rslop/)**
+**[Why I Don't Target Businesses Without Websites Anymore](https://www.reddit.com/r/artificial/comments/1v58ic0/why_i_dont_target_businesses_without_websites/)**
 
-Folks let’s be real. It’s either bots talking to bots or AI bros glazing Dario and Sam here. It’s time for a big rename
+When I first got into web development, I thought finding clients would be simple. My plan was to go on Google Maps, find businesses without websites, and offer to build them a brand new one. At the time, it made perfect sense because I assumed businesses without websites would be the ones who needed my service the most. After a while, I met someone who was running a successful web agency, and I asked him where he found companies without websites. He told me that he didn’t target businesses without websites at all. He only targeted businesses that already had one. I asked him why, and the more he explained it, the more sense it made. Businesses that already have a website understand the value of having one. You don’t need to convince them why a website is important because they have already invested in one before. They are also easier to sell to because they understand the process, and there are a huge number of businesses with outdated websites they are embarrassed by but haven’t had the time to update. I decided to take his advice and fit it into my own workflow. I’ve always been a big fan of email automation because that’s how I’ve found most of my web design clients. For years, I was sending fairly generic emails and constantly changing my sequences, offers, and follow ups to improve the results. The problem was that I couldn’t just start emailing businesses with websites and assume they all needed a redesign. I either had to open every website manually, find the issues, and write a separate email for each business, or find a way to automate the research while still keeping the emails personalized. After watching a video from Nick Saraev, I built a workflow in n8n that could analyze websites at scale and turn issues with design, layout, speed, mobile optimization, and SEO into personalized outreach emails. This allowed me to analyze thousands of websites and run larger campaigns without every message sounding generic. The workflow worked extremely well, but it still had limitations. I didn’t have a proper place to manage replies, organize interested leads in a CRM, view all my active campaigns, scrape new leads, and handle everything from one platform. I had built a useful automation, but it still felt like several disconnected systems held together in one workflow. A few months later, I came across a platform called Swokei, and it did exactly what I had been looking for. I could find businesses with websites, analyze and score each site, generate personalized outreach emails, send campaigns, set up follow ups, manage replies through one inbox, and organize interested businesses inside the CRM. Switching to that platform made the entire process much easier to manage and helped me scale the strategy further. Looking back, the biggest change wasn’t just finding a better outreach tool. It was taking advice from someone more experienced, changing the type of businesses I targeted, and building the rest of my workflow around that strategy.
 
-35m ago
+23m ago
+
+---
+
+**[US and China just teamed up to back open-source AI](https://www.reddit.com/r/artificial/comments/1v581k2/us_and_china_just_teamed_up_to_back_opensource_ai/)**
+
+21 APEC countries, including the US and China, signed a joint statement in Chengdu backing open-source AI with "strong security assurance." It's the first time an APEC AI statement has included open-source cooperation at this level. Feels notable given the US and China don't usually agree publicly on AI stuff.
+
+🔗 [cnbc.com](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec) • 46m ago
+
+---
+
+**[I'm building a local, symbolic AI assistant without an LLM – and it runs 24/7](https://www.reddit.com/r/artificial/comments/1v57q9r/im_building_a_local_symbolic_ai_assistant_without/)**
+
+Hi everyone, I'd like to share my project Nova AI with you. It's a personal AI companion that runs entirely locally and uses no large language model. Instead, she's built on symbolic AI: a network of explicit concepts, relationships, and patterns that I can inspect and modify myself. What it can do right now: · Have natural conversations · Play chess against Stockfish (with a colored board and statistics) · Fetch multi-day weather forecasts · Query Wikipedia and automatically learn new concepts · Build word associations using PMI scoring · Recognize behavioral patterns (timing, frequency) · Restart herself without losing data · Her own personality, emotions, and expression Architecture: EventBus + 7-layer memory (SQLite, associative network, pattern recognition, semantic reasoning, response generation, context, and personality). The kicker: I'm a self-taught developer from Belgium. A year ago, I couldn't write a single line of code. Everything was built with AI assistance, but the vision and design choices are entirely mine. The code is public, but the repository is mainly a look behind the scenes – not a plug-and-play package. I wanted to show what's possible when you think outside the LLM hype. I'm very curious about your questions and feedback!
+
+🔗 [GitHub](https://github.com/Whooptie/NOVA_AI) • 1h ago
 
 ---
 
@@ -79,7 +95,7 @@ Folks let’s be real. It’s either bots talking to bots or AI bros glazing Dar
 
 I’m exploring a measurement problem rather than proposing that token count equals skill. I built a local-first technical alpha that records Claude Code and Codex activity, produces a signed privacy-sanitized snapshot, and separates activity telemetry from self-submitted identity, connected work, and outcomes. Prompts, responses, code, local paths, and credentials are excluded from the public payload. The long-term question is whether a portable AI-work record could help researchers recruit genuine power users and help companies find people with sustained, demonstrable AI-tool experience. Example implementation: https://ledger.imagineqira.com/#/u/bryan Methodology and setup: https://ledger.imagineqira.com/#/join Source: https://github.com/TheArtOfSound/TOKENS Which measures would be defensible: active days, task completion, accepted changes, evaluations, independently confirmed outcomes, or something else?
 
-40m ago
+2h ago
 
 ---
 
@@ -87,7 +103,7 @@ I’m exploring a measurement problem rather than proposing that token count equ
 
 Take the same pretrained checkpoint and turn it into an assistant. What changes when you ask it about its own feelings, thoughts, flaws, and inner experience? We tested this using 67 matched base/post-trained model pairs from 11 organizations, as part of a larger study of 206 open-weight models. We put the model-level results into an interactive explorer: https://hplisiecki.github.io/Pinocchio-Inventory/ It may be more interesting to explore it before reading our interpretation. Pick a model family, compare its base and post-trained checkpoints, and see if the pattern matches what you would have expected. We found two separate processes: The first was remarkably consistent: after post-training, 62 of 67 models became more likely to describe themselves as warm, happy, absorbed, meaning-oriented, and engaged in inner dialogue. We call this persona installation—post-training creates a permitted inner life for the assistant to describe. The second process was more selective. Models differed in whether they would attribute distress, loss of control, flaws, or norm-risky ambitions to themselves—even when they could produce the same claims while simulating a human. We call this attribution gating. Unlike persona installation, gating did not change uniformly across models. Instead, it became related to scale: model size did not predict gating among base checkpoints, but larger post-trained models were more strongly gated. This follows up on our previous study, where we gave 45 psychological questionnaires to 50 LLMs and found a single dominant “Pinocchio Dimension.” Our new results suggest that this dimension was actually the shadow of these two different training processes. To test the theory, we built and validated a 48-item LLM-native psychometric instrument: the Pinocchio Inventory. The important caveat is that it measures how models present themselves. A high score is not evidence that a model experiences anything, and a low score is not evidence that it does not. But it does give us a reliable way to audit what post-training teaches models to say about themselves. You will find the preprint on arXiv: https://arxiv.org/abs/2607.20082
 
-1h ago
+2h ago
 
 ---
 
@@ -95,23 +111,7 @@ Take the same pretrained checkpoint and turn it into an assistant. What changes 
 
 For years, I took pride in being the person who could quickly scan a codebase, navigate the terminal efficiently, and find the right information faster than most developers I worked with. Lately, though, I've realized AI agents outperform me in many of those areas. The answers I used to get by crafting Google searches and digging through Stack Overflow can now be found by AI in minutes. Some models are much faster than I am at identifying bugs, and they're often right. In my experience, GPT-5.5 through Codex can achieve close to a 90% success rate in bug detection and debugging. Even something like writing reports,which I used to spend a lot of time polishing, can now be drafted into something more complete than I'd produce from scratch. I don't really see AI agents as replacing developers anymore. I see them as a resource that has become difficult to ignore. What things do you notice that AI does better than you? And how are you approaching multi-agent workflows, like MCP, anvita flow, Agent Protocol? That’s a challenge I’m looking to tackle next.
 
-22h ago
-
----
-
-**[Question regarding AI writing editing and assistance](https://www.reddit.com/r/artificial/comments/1v54vxx/question_regarding_ai_writing_editing_and/)**
-
-Hi everyone! I’m a bit disappointed with ChatGPT, but I’m curious about your experiences. I started writing a book and wanted to ask ChatGPT for some editing help. I uploaded the Word file, but the response consisted only of polite generalities. There was nothing specific, no sign that it had actually "read" it—just things like "It's very good, you phrase things skillfully," and so on. I told it that this wasn't helpful—it was as if it hadn't read the text at all. It apologized and admitted it couldn't actually see the file anymore. In contrast, I uploaded the same file to Claude AI. The response was full of specific details—pointing out accidental chapter repetitions, typos, and formatting errors. Have you experienced this too? I used to like ChatGPT, but it seems more like a friendly conversational bot now than an AI assistant. Which one would you recommend for this kind of task? What do you use?
-
-1h ago
-
----
-
-**[Would ChatGPT be more useful if it interrupted us more often?](https://www.reddit.com/r/artificial/comments/1v4oag7/would_chatgpt_be_more_useful_if_it_interrupted_us/)**
-
-Most AI assistants seem designed to complete the task with as little friction as possible. I’m starting to think that isn’t always helpful. If I ask ChatGPT to draft an important email, analyze a spreadsheet, or plan something complicated, it can often produce a polished answer while quietly making assumptions I never approved. The result looks finished, so those assumptions are easy to miss. Personally, I’d rather have it interrupt me when one missing detail could materially change the outcome. Not for every minor ambiguity, because that would become annoying fast, but when it is choosing between genuinely different interpretations. The tension is that an assistant that constantly asks questions feels less capable, while one that confidently fills every gap may be more convenient but harder to trust. Where would you draw the line between useful initiative and an AI making too many assumptions for you?
-
-14h ago
+1d ago
 
 ---
 
@@ -119,67 +119,73 @@ Most AI assistants seem designed to complete the task with as little friction as
 
 ## Google News: "ai"
 
-**[US lawmakers push for AI 'kill switch' after OpenAI models go rogue](https://www.bbc.com/news/articles/cx2vqj2e9x8o)**
+**[Some Kids Will Never Think AI Is Cool](https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/)**
 
-A new bill would let the US government order the shutdown AI models that pose a major public threat.
+“I think it should stand for ‘artificial idiot,’” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”
 
-BBC • 12h ago
-
----
-
-**[OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html)**
-
-The New York Times • 2d ago
+WIRED • 1h ago
 
 ---
 
-**[White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch'](https://www.reuters.com/legal/litigation/ai-kill-switch-bill-floated-by-us-house-lawmakers-2026-07-23/)**
+**[How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack](https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html)**
 
-Reuters • 20h ago
+The origin of the model Hugging Face used to combat the rogue AI is turning heads.
 
----
-
-**[As AI grows more powerful, a US-China feud threatens safety efforts](https://www.reuters.com/legal/litigation/ai-grows-more-powerful-us-china-feud-threatens-safety-efforts-2026-07-24/)**
-
-Reuters • 52m ago
+CNBC • 42m ago
 
 ---
 
-**[White House draws new AI line on China](https://www.axios.com/2026/07/24/white-house-ai-line-china)**
+**[OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)**
 
-Axios • 35m ago
+OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
 
----
-
-**[Opinion | This Is How America Trounces China in the A.I. Race](https://www.nytimes.com/2026/07/23/opinion/china-ai-open-weight-us.html)**
-
-The New York Times • 1d ago
+OpenAI • 2d ago
 
 ---
 
-**[Opinion | Maybe the Biggest Problem With A.I. Is People](https://www.nytimes.com/2026/07/24/opinion/ai-workplace-manager-teamwork.html)**
+**[OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting](https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html)**
 
-The New York Times • 53m ago
+The New York Times • 42m ago
 
 ---
 
-**[The people testing AI for danger are having a hard time keeping up](https://www.axios.com/2026/07/24/ai-safety-security-testing-hugging-face)**
+**[Behind the Curtain: The AI titans' biggest private fear](https://www.axios.com/2026/07/24/ai-risk-bioweapons)**
 
 Axios • 1h ago
 
 ---
 
-**[Lazard CEO Orszag: AI will lead to ‘leaner’ deal teams with more MDs](https://www.wsj.com/articles/lazard-ceo-orszag-ai-will-lead-to-leaner-deal-teams-with-more-mds-fc59eca5)**
+**[Amazon is requiring sellers to label AI-generated people in product images after N.Y. law](https://qz.com/amazon-sellers-label-ai-generated-people-product-images-072426)**
 
-WSJ • 12m ago
+The policy follows a New York law that took effect last month requiring disclosure of "synthetic performers" in advertising
+
+qz.com • 16m ago
 
 ---
 
-**[In the data center capital of the world, residents ask who the AI boom is helping](https://www.nbcnews.com/tech/tech-news/virginia-data-center-alley-residents-ask-ai-boom-helps-rcna350369)**
+**[Opinion | Maybe the Biggest Problem With A.I. Is People](https://www.nytimes.com/2026/07/24/opinion/ai-workplace-manager-teamwork.html)**
 
-The data center footprint in Loudoun County has more than doubled in the last five years, covering over 53 million square feet.
+The New York Times • 2h ago
 
-NBC News • 22h ago
+---
+
+**[White House draws new AI line on China](https://www.axios.com/2026/07/24/white-house-ai-line-china)**
+
+Axios • 2h ago
+
+---
+
+**[U.S., other nations back open-source AI with 'strong security' at China summit](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html)**
+
+The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.
+
+CNBC • 9h ago
+
+---
+
+**[China Has a Plan to Rival America’s AI Chips](https://www.wsj.com/lifestyle/travel/china-has-a-plan-to-rival-americas-ai-chips-b7d9c37f)**
+
+WSJ • 1h ago
 
 ---
 
@@ -189,7 +195,7 @@ NBC News • 22h ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 936 • 💬 773 • 18h ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 975 • 💬 793 • 20h ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -197,7 +203,7 @@ NBC News • 22h ago
 
 I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.
 
-⬆️ 667 • 💬 240 • 1d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
+⬆️ 669 • 💬 240 • 1d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
 
 ---
 
@@ -205,13 +211,13 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 
 AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
 
-⬆️ 649 • 💬 342 • 20h ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+⬆️ 653 • 💬 348 • 22h ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
 **[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
 
-⬆️ 481 • 💬 235 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+⬆️ 483 • 💬 235 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 
 ---
 
@@ -233,7 +239,7 @@ I like supporting local businesses but it's so disheartening to see the increasi
 
 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://news.ycombinator.com/item?id=49020868)**
 
-⬆️ 284 • 💬 321 • 20h ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+⬆️ 286 • 💬 322 • 22h ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 
 ---
 
@@ -241,13 +247,13 @@ I like supporting local businesses but it's so disheartening to see the increasi
 
 The release of Kimi K3 has opened a fresh round of angst and confused discourse. There's a loud cohort of journalists, business leaders, and politicians arguing that open source AI is a dangerous threat. OpenAI's Dean Ball:
 
-⬆️ 278 • 💬 194 • 17h ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
+⬆️ 285 • 💬 196 • 18h ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
 
 ---
 
 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://news.ycombinator.com/item?id=49021006)**
 
-⬆️ 265 • 💬 268 • 20h ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+⬆️ 265 • 💬 279 • 22h ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
@@ -255,7 +261,7 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.
 
-⬆️ 243 • 💬 271 • 20h ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
+⬆️ 255 • 💬 284 • 21h ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 
 ---
 
@@ -269,7 +275,7 @@ Watch the full show: https://bit.ly/4fsnd9Q Elon Musk expects artificial intelli
 
 📺 The Economist
 
-👁️ 317K • 👍 6K • 💬 2K • ⏱️ 10:36 • 18h ago
+👁️ 317K • 👍 6K • 💬 2K • ⏱️ 10:36 • 20h ago
 
 ---
 
@@ -289,7 +295,7 @@ The DARK Side of ChatGPT | Mind Control & The End of Humanity | Dr. Roman Yampol
 
 📺 SHLLOKA 
 
-👁️ 23K • 👍 444 • 💬 87 • ⏱️ 59:09 • 20h ago
+👁️ 23K • 👍 444 • 💬 87 • ⏱️ 59:09 • 22h ago
 
 ---
 
@@ -299,7 +305,7 @@ Anthropic's Logan Graham discusses the accelerating capabilities of AI, emphasiz
 
 📺 Fox Business
 
-👁️ 16K • 👍 461 • 💬 141 • ⏱️ 17:58 • 16h ago
+👁️ 16K • 👍 461 • 💬 141 • ⏱️ 17:58 • 18h ago
 
 ---
 
@@ -329,7 +335,7 @@ PLEASE SUPPORT MY WORK ON YOUTUBE VIA PATREON AT: http://bit.ly/2oUVQfm OR VIA P
 
 📺 Tripe and Whatnot
 
-👁️ 3K • 👍 326 • 💬 104 • ⏱️ 34:55 • 15h ago
+👁️ 3K • 👍 326 • 💬 104 • ⏱️ 34:55 • 17h ago
 
 ---
 
@@ -387,7 +393,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 27,883 • ❤️ 1,525 • 16h ago
+⬇️ 27,883 • ❤️ 1,525 • 18h ago
 
 ---
 
@@ -411,7 +417,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 1,106 • ❤️ 513 • 3h ago
+⬇️ 1,106 • ❤️ 513 • 5h ago
 
 ---
 
@@ -435,7 +441,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 8,169 • ❤️ 338 • 1h ago
+⬇️ 8,169 • ❤️ 338 • 3h ago
 
 ---
 
@@ -640,7 +646,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.2k • 🔱 246 • 2h ago
+⭐ 3.2k • 🔱 246 • 3h ago
 
 ---
 
@@ -650,7 +656,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 377 • 2h ago
+⭐ 2.7k • 🔱 377 • 4h ago
 
 ---
 
@@ -698,7 +704,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.2k • 🔱 855 • 46s ago
+⭐ 1.2k • 🔱 855 • 1h ago
 
 ---
 
@@ -716,7 +722,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.1k • 🔱 66 • 8h ago
+⭐ 1.1k • 🔱 66 • 9h ago
 
 ---
 
