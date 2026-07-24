@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-23T23:28:29.928244+00:00'
+updated: '2026-07-24T00:58:35.355111+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 23:28 UTC  
+**Last Updated:** July 24, 2026 at 00:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** +2.2%  
-**30d:** +16.1%  
-**90d:** -18.8%  
-**1y:** -49.2%  
+**24h:** -3.1%  
+**7d:** +0.4%  
+**30d:** +19.2%  
+**90d:** -21.1%  
+**1y:** -49.8%  
 
 ---
 
@@ -150,7 +150,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -158,7 +158,7 @@ CoinDesk • 13h ago
 
 Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 8h ago
 
 A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -174,7 +174,7 @@ TradingView • 5h ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -182,7 +182,7 @@ Seeking Alpha • 11h ago
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
-The Block • 14h ago
+The Block • 16h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 14h ago
 
 MONACO , July  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price prediction models examine whe...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -198,7 +198,7 @@ markets.businessinsider.com • 21h ago
 
 Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
 
-FXStreet • 11h ago
+FXStreet • 13h ago
 
 ---
 
@@ -212,7 +212,7 @@ thestreet.com • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 13h ago
 
 ---
 
@@ -234,7 +234,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 2K • 👍 45 • 💬 7 • ⏱️ 3:42 • 16h ago
+👁️ 2K • 👍 45 • 💬 7 • ⏱️ 3:42 • 17h ago
 
 ---
 
@@ -254,7 +254,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 91 • 💬 16 • ⏱️ 17:35 • 20h ago
+👁️ 3K • 👍 91 • 💬 16 • ⏱️ 17:35 • 21h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN & CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 160 • 👍 19 • 💬 4 • ⏱️ 20:41 • 11m ago
+👁️ 160 • 👍 19 • 💬 4 • ⏱️ 20:41 • 1h ago
 
 ---
 
@@ -304,7 +304,7 @@ Time to have some fun with Bitcoin, Ethereum, and crypto as a whole. Live, unfil
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 216 • 💬 55 • ⏱️ 2:25:30 • 7h ago
+👁️ 5K • 👍 216 • 💬 55 • ⏱️ 2:25:30 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-23T23:28:29.922150+00:00'
+updated: '2026-07-24T00:58:35.349163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 23, 2026 at 23:28 UTC  
+**Last Updated:** July 24, 2026 at 00:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.3%  
-**7d:** +1.9%  
-**30d:** +6.8%  
-**90d:** -16.0%  
-**1y:** -44.9%  
+**7d:** +0.1%  
+**30d:** +8.8%  
+**90d:** -17.4%  
+**1y:** -44.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[LFG](https://www.reddit.com/r/Bitcoin/comments/1v3z9nm/lfg/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
 
-5h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ Been out of the game for a few years. Getting back in and privacy still matters 
 
 BancaStato has become the latest Swiss bank to offer regulated bitcoin trading through its existing banking apps via Sygnum's infrastructure.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 17h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 18h ago
 
 ---
 
@@ -103,7 +103,7 @@ BancaStato has become the latest Swiss bank to offer regulated bitcoin trading t
 
 On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, roughly 297 million dollars combined, into Coinbase Prime custody. Sale speculation followed immediately. The detail almost nobody is explaining clearly: Executive Order 14233, which created the Strategic Bitcoin Reserve, only protects Bitcoin from sale. Ether and other seized digital assets fall under a separate framework where Treasury has discretion. So the 244 million in Bitcoin here is protected on paper, the 53 million in Ether is not. The Bitcoin traces to two forfeiture cases, roughly 2,875 BTC from a dark web dealer known as Xanaxman and about 925.5 BTC linked to the old BTC-e exchange. The Ether comes from a former Oracle employee's money laundering case. Worth noting too that a deposit to Coinbase Prime is not proof of an impending sale. The Marshals Service has an active custody contract with Coinbase Prime specifically for managing seized assets, and similar transfers in January, May, and June this year did not result in confirmed liquidations. The bigger structural point is that Executive Order 14233 is policy, not statute. Congress introduced a bill in May to codify the reserve with a 20 year holding requirement, but it has not moved out of committee. Until it does, Bitcoin's protected status here rests on one administration's choice, reversible by the next. Full writeup with sourcing: https://davidebtc186.substack.com/p/the-us-government-just-moved-297m
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, r
 
 Is bitcoin finally starting to bottom out? I know that this has been one of the significant drops in bitcoin in recent history but when is it finally gonna bottom out into we enter into the bullish trends. What's everyone's plans in when they are going to be investing and doubling down?
 
-12h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ Is bitcoin finally starting to bottom out? I know that this has been one of the 
 
 That'd be sweet.
 
-19h ago
+20h ago
 
 ---
 
@@ -127,7 +127,7 @@ That'd be sweet.
 
 26 y/o. My significant other & I pretend we don’t have them, don’t touch it, we’ve never sold. But just out of curiosity, does everyone in it for the long haul (20-30 years) ever think about selling?
 
-21h ago
+22h ago
 
 ---
 
@@ -135,7 +135,7 @@ That'd be sweet.
 
 Reserve arca, Coinkite’s personal data haven for encrypted secrets, recovery, business continuity, inheritance, and multi-location Swarm backups.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/arca-reservations-are-open/) • 11h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/arca-reservations-are-open/) • 13h ago
 
 ---
 
@@ -143,7 +143,7 @@ Reserve arca, Coinkite’s personal data haven for encrypted secrets, recovery, 
 
 I do not like the idea of government and Bitcoin getting cozy with each other. But I wonder if politically there was a push to have more Bitcoin mining done in that specific country so that the country was more on a Bitcoin standard as a whole. I'm just spit balling here.
 
-3h ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ I do not like the idea of government and Bitcoin getting cozy with each other. B
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-17h ago
+18h ago
 
 ---
 
@@ -159,17 +159,35 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
+**[Leading Financial Institutions & Bitcoin Companies Launch the Bitcoin Security Consortium](https://www.strategy.com/press/leading-financial-institutions-bitcoin-companies-launch-the-bitcoin-security-consortium_07-23-2026)**
+
+July 23, 2026
+
+Strategy • 12h ago
+
+---
+
+**[BlackRock, Coinbase, Strategy in a new group pledging $15 million to prepare Bitcoin for quantum threats](https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats)**
+
+Members will direct funding independently, with the consortium taking no role in Bitcoin governance or protocol decisions.
+
+CoinDesk • 12h ago
+
+---
+
+**[MSTR Stock Falls Amid Bitcoin’s Drop Below $65K – Strategy Joins BlackRock, Coinbase In $15 Million Bitcoin Security Push](https://www.tradingview.com/news/stocktwits:d48bc1855094b:0-mstr-stock-falls-amid-bitcoin-s-drop-below-65k-strategy-joins-blackrock-coinbase-in-15-million-bitcoin-security-push/)**
+
+Shares of Strategy (MSTR) fell at the market open on Thursday despite teaming with other cryptocurrency firms to support the Bitcoin (BTC) network amid weakness in the cryptocurrency market.Strategy, along with eight others of Bitcoin’s biggest institutional players, stated they are teaming togethe…
+
+TradingView • 10h ago
+
+---
+
 **[Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart](https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart)**
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 13h ago
-
----
-
-**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
-
-Bloomberg.com • 1d ago
+CoinDesk • 14h ago
 
 ---
 
@@ -177,21 +195,15 @@ Bloomberg.com • 1d ago
 
 Massachusetts residents have lost millions to Bitcoin ATM scams
 
-WCVB • 33m ago
+WCVB • 2h ago
 
 ---
 
-**[Bitcoin Faces $69,000 Test as ETF Inflows Meet Professional Caution](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-69-000-test-220418752.html)**
+**[Crypto Market Today, July 23: Bitcoin Slides as Odds of Passing Clarity Act Fall](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-july-23-221724527.html)**
 
-Bitcoin rallied above $66,000 amid ETF inflows, but the Coinbase Premium signals professional caution. $69K remains the key level to watch.
+Today, July 23, 2026, macro headwinds, including rising oil prices and Treasury yields, weighed on crypto sentiment as key legislation appears less likely to pass.
 
-Yahoo Finance • 1h ago
-
----
-
-**[$Bitcoin (BTC.CC)$ BREAKING: 🇺🇸 President Trump said We're leading China and all other countries by a lot in crypto and “We want to stay in front in crypto." Now all we need is Clarity Act to pass.](https://www.moomoo.com/community/feed/bitcoin-btc-cc-breaking-president-trump-said-we-re-leading-116971328241669)**
-
-Moomoo • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -199,35 +211,29 @@ Moomoo • 1h ago
 
 Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
 
-The Boston Globe • 1d ago
+The Boston Globe • 2d ago
 
 ---
 
-**[Current price of Bitcoin for July 22, 2026](https://fortune.com/article/price-of-bitcoin-07-22-2026/)**
+**[Live markets: Bitcoin slides as stocks slump on Iran war expansion, AI spending concern](https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade)**
 
-Fortune • 1d ago
+Google parent Alphabet beat on revenue but raised its AI spending forecast again, sending its shares sharply lower.
 
----
-
-**[There’s A New Benchmark Index For Digital Assets—And Bitcoin’s Not In It](https://www.investopedia.com/new-benchmark-index-for-digital-assets-bitcoin-not-in-it-12024600)**
-
-S&P Dow Jones and crypto investment firm Pantera launched a new benchmark for digital assets that doesn’t hold any bitcoin.
-
-Investopedia • 1d ago
+CoinDesk • 3h ago
 
 ---
 
-**['Not currently the right capital solution': Smarter Web sells 178 bitcoin to repay $11.7M convertible instrument](https://www.theblock.co/post/409506/not-currently-the-right-capital-solution-smarter-web-sells-178-bitcoin-to-repay-11-7m-convertible-instrument)**
+**[Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’](https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line)**
 
-The Smarter Web Company sold 177.89 BTC at $65,762 to repay $11.7 million to TOBAM early, cancelling 7.7 million in potential share issuance.
-
-The Block • 12h ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin Has Returned 0% for 5 Years. Get Ready for the S&P 500 to Do the Same.](https://www.barchart.com/story/news/3411494/bitcoin-has-returned-0-for-5-years-get-ready-for-the-s-p-500-to-do-the-same)**
+**[Bitcoin grinds higher from here, can't get much worse, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/07/22/bitcoin-grinds-higher-from-here-cant-get-much-worse-says-skybridges-anthony-scaramucci.html)**
 
-Barchart.com • 1d ago
+The 'Fast Money' traders talk the recent downturn in crypto.
+
+CNBC • 1d ago
 
 ---
 
@@ -255,7 +261,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
-⬆️ 2 • 💬 0 • 19h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
+⬆️ 2 • 💬 0 • 20h ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
 
 ---
 
@@ -279,7 +285,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
 
-⬆️ 1 • 💬 0 • 8h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 9h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
 
 ---
 
@@ -303,7 +309,7 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
-⬆️ 2 • 💬 0 • 7h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
+⬆️ 2 • 💬 0 • 8h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
 
 ---
 
@@ -311,7 +317,7 @@ From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
 Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
 
-⬆️ 2 • 💬 0 • 8h ago • [GitHub](https://github.com/bitmonky/BorgIOS/blob/main/nodeJS/src/borgAgentBrain.js)
+⬆️ 2 • 💬 0 • 10h ago • [GitHub](https://github.com/bitmonky/BorgIOS/blob/main/nodeJS/src/borgAgentBrain.js)
 
 ---
 
@@ -325,7 +331,7 @@ Let us talk about social interest for Bitcoin in 2026 and what we can expect goi
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 3K • 💬 197 • ⏱️ 7:39 • 12h ago
+👁️ 41K • 👍 3K • 💬 197 • ⏱️ 7:39 • 14h ago
 
 ---
 
@@ -345,7 +351,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 131 • 💬 22 • ⏱️ 14:14 • 5h ago
+👁️ 2K • 👍 131 • 💬 22 • ⏱️ 14:14 • 7h ago
 
 ---
 
@@ -355,7 +361,7 @@ Peter Schiff is the host of The Peter Schiff Show podcast and a longtime economi
 
 📺 Anthony Pompliano
 
-👁️ 2K • 👍 231 • 💬 17 • ⏱️ 1:22:19 • 2h ago
+👁️ 2K • 👍 231 • 💬 17 • ⏱️ 1:22:19 • 3h ago
 
 ---
 
@@ -385,7 +391,7 @@ The next Bitcoin move is going to trigger a massive bull or bear trap that liqui
 
 📺 Chart Hackers
 
-👁️ 4K • 👍 327 • 💬 4 • ⏱️ 50:37 • 6h ago
+👁️ 4K • 👍 327 • 💬 4 • ⏱️ 50:37 • 8h ago
 
 ---
 
@@ -395,7 +401,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 578 • 💬 29 • ⏱️ 2:14:38 • 6h ago
+👁️ 5K • 👍 578 • 💬 29 • ⏱️ 2:14:38 • 7h ago
 
 ---
 
@@ -415,7 +421,7 @@ MARA Chairman and CEO Fred Thiel unpacks the economic reality behind the global 
 
 📺 Natalie Brunell
 
-👁️ 880 • 👍 40 • 💬 131 • ⏱️ 1:12 • 4h ago
+👁️ 880 • 👍 40 • 💬 131 • ⏱️ 1:12 • 6h ago
 
 ---
 

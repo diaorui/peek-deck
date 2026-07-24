@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-23T23:28:29.931462+00:00'
+updated: '2026-07-24T00:58:35.358286+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 23, 2026 at 23:28 UTC  
+**Last Updated:** July 24, 2026 at 00:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Built this 6dof with parts bought from local hardware store. Lot of loose parts now, needs fine tune or redo. Plan is to create mobile arm. Waiting for wheels and step motor. Controlled by raspberry pi.
 
-17h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ Built this 6dof with parts bought from local hardware store. Lot of loose parts 
 
 Two cute little robots dancing to the music and enjoying their moment in the spotlight. Their synchronized movements, tiny gestures, and playful rhythm were surprisingly delightful to watch. I came across this little performance during my day and couldn’t resist recording it.
 
-13h ago
+14h ago
 
 ---
 
@@ -52,7 +52,7 @@ Two cute little robots dancing to the music and enjoying their moment in the spo
 
 Colin Angle explains that giving a robot a voice does more than change the interface. It changes the user’s entire understanding of what the machine can do. Roomba eventually received spoken maintenance messages because communicating problems such as clogged rollers or a lost Wi-Fi connection through sequences of beeps created a poor user experience. But iRobot intentionally made those messages sound like a separate utility or maintenance system rather than Roomba itself speaking. Once a robot appears conversational, users begin expecting language understanding, memory, contextual awareness and consistent behavior across long periods of time. Angle says delivering all of that reliably remains difficult, even with current natural-language systems. Keeping Roomba’s personality undefined allowed people to personify the robot on their own terms without the product making promises its underlying intelligence could not fulfill.
 
-9h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ Colin Angle explains that giving a robot a voice does more than change the inter
 
 Do not sign up with this company unless you want to be scammed. I signed up for their most expensive program, but was not satisfied and requested a refund. It was much less than I thought, but it still wasn't a small amount (a little under $1000). The teachers were nice, but my son was not learning much in terms of robotics. That's when things went south. After being promised my refund, they refused to actually refund me my money, and then ghosted me. This after I spent an additional $100 to ship the robotics kit back to them in India. I tracked it all the way there, just to see it refused by sender. This is what they do. I tried to dispute this with my credit card, but I just found out it was denied because Playto charges through a third party name (Raz*Skyfi Education). They know this, and use it as a loophole to not refund you your credit. Please stay away.
 
-9h ago
+10h ago
 
 ---
 
@@ -82,13 +82,13 @@ Built my first robot still have a lot to learn. Open to any advice on how to imp
 
 **[The Breakdown: Saronic](https://www.reddit.com/r/robotics/comments/1v4eoqi/the_breakdown_saronic/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 9h ago
+🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 11h ago
 
 ---
 
 **[I built a free interactive robotics learning platform with browser-based simulators. I'd love feedback from the robotics community.](https://www.reddit.com/r/robotics/comments/1v44ws7/i_built_a_free_interactive_robotics_learning/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -102,7 +102,7 @@ Most humanoid robots in factories are still being tested in pilot programs, and 
 
 **[Building an Industrial Surveillance Quadruped Robot in India – Looking for Feedback](https://www.reddit.com/r/robotics/comments/1v47dbx/building_an_industrial_surveillance_quadruped/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -110,23 +110,25 @@ Most humanoid robots in factories are still being tested in pilot programs, and 
 
 ## Google News: "robotics"
 
+**[Travis Kalanick’s robotics company raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)**
+
+Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
+
+TechCrunch • 1d ago
+
+---
+
 **[The Robots Cometh](https://time.com/article/2026/07/23/unitree-china-human-robotics/)**
 
 The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
 
-Time Magazine • 11h ago
-
----
-
-**[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
-
-Axios • 23h ago
+Time Magazine • 12h ago
 
 ---
 
 **[Robotics Startup Genesis in Talks to Raise About $500 Million](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -134,7 +136,15 @@ Bloomberg.com • 1h ago
 
 Shashua has been invited to take the chairman of the board seat.
 
-TechCrunch • 48m ago
+TechCrunch • 2h ago
+
+---
+
+**[Tech Moves: Agility Robotics gets CFO; Microsoft security departure; Zap's legal officer; new KEXP CPTO](https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/)**
+
+Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
+
+GeekWire • 7h ago
 
 ---
 
@@ -152,6 +162,14 @@ WSJ • 1d ago
 
 ---
 
+**[Tesla’s profits slide despite growing revenue as it pivots to robotics and AI](https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings)**
+
+Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
+
+The Guardian • 1d ago
+
+---
+
 **[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
 
 Reuters • 2d ago
@@ -163,22 +181,6 @@ Reuters • 2d ago
 Samsung Electronics shares rose as the company set up a robotics division in a push into physical AI.
 
 CNBC • 2d ago
-
----
-
-**[Samsung creates robotics-dedicated unit under CEO](https://www.koreajoongangdaily.com/business/samsung-creates-roboticsdedicated-unit-under-ceo/12784702)**
-
-The tech giant is consolidating talent, research and production planning to accelerate the commercialization of humanoid robots.
-
-Korea JoongAng Daily • 2d ago
-
----
-
-**[Connecting the human mind with robots thanks to AI](https://www.cnn.com/2026/07/23/business/video/vivatech-2026-habs-innov8-ai-robot-mind-connection-spc-digvid)**
-
-At the 10th edition of VivaTech if Paris, we explore how AI is moving from hype to hardware, as robots steal the spotlight. From dancing machines to human mind-connected tech, CNN’s Anna Stewart tests a system that lets humans control robots using their thoughts - blurring the line between human and machine.
-
-CNN • 8h ago
 
 ---
 
@@ -202,7 +204,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 26K • 👍 737 • 💬 106 • ⏱️ 13:15 • 4d ago
+👁️ 26K • 👍 737 • 💬 106 • ⏱️ 13:15 • 5d ago
 
 ---
 
@@ -262,7 +264,7 @@ War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Crea
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 395 • 💬 151 • ⏱️ 14:51 • 11h ago
+👁️ 8K • 👍 395 • 💬 151 • ⏱️ 14:51 • 12h ago
 
 ---
 
@@ -282,7 +284,7 @@ AI-powered humanoid robots are becoming more advanced, with some designed to int
 
 📺  Beesoft Bd
 
-👁️ 67K • 💬 2 • ⏱️ 0:16 • 17h ago
+👁️ 67K • 💬 2 • ⏱️ 0:16 • 18h ago
 
 ---
 
