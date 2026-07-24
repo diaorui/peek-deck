@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-24T17:05:06.509545+00:00'
+updated: '2026-07-24T18:57:56.962727+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 17:05 UTC  
+**Last Updated:** July 24, 2026 at 18:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,144.50
+### $64,145.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -1.3%  
-**30d:** +7.2%  
-**90d:** -18.6%  
-**1y:** -45.6%  
+**24h:** -1.0%  
+**7d:** -0.9%  
+**30d:** +7.6%  
+**90d:** -18.3%  
+**1y:** -45.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 So yeah… I finally did it. After years of working, saving, overthinking, and pretending I was waiting for the “perfect entry,” I moved about $48,000 of my savings into Bitcoin. That’s basically most of what I’ve built from my job over the last few years. Not some lottery money. Not daddy money. Just paychecks, side gigs, skipping dumb expenses, and trying not to blow it all on random stuff xD I’m not saying this is smart. I’m not telling anyone to copy me. I know BTC can still drop 20–30% and make me look like a clown by next week. But I’m 31, no major family responsibilities yet, and I’d rather take a real shot now than sit around for another 10 years saying “I should’ve bought more.” I’m still keeping a small mining angle with oneminers too, so I’m not only relying on staring at candles like a stressed goblin. Plan is simple: hold long term, survive the ugly dips, ignore the noise, and see where this thing is in 10 years. Could be genius. Could be cope. Either way, I picked my lane.
 
-1h ago
+3h ago
 
 ---
 
@@ -89,13 +89,13 @@ So yeah… I finally did it. After years of working, saving, overthinking, and p
 
 I am very much confident of a bottom within a few weeks. Bitcoin isn't going helow 60k.
 
-17h ago
+19h ago
 
 ---
 
 **[The Orange Revolution](https://www.reddit.com/r/Bitcoin/comments/1v4yg68/the_orange_revolution/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ I am very much confident of a bottom within a few weeks. Bitcoin isn't going hel
 
 I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a month before tax and spending. Is there any way for me to reach 1 coin1-10 coins in a foreseeable future. (Let’s say 5 years) I just don’t know how there are so many people have a lot of money just to invest. I can barely break even sometimes, the rent is my highest spending, I was thinking maybe just living in my car. But I do need some advice, I can pull out probably $200 max every two weeks. Can you guys share your stories of how you have a whole coin or accumulate aggressively. Thank you
 
-10h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin Optech newsletter #415 is here: describes a draft BIP for full aggregation of BIP340 signatures summarizes changes to services/client software Optech Newsletter #415 Podcast https://bitcoinops.org/en/newsletters/2026/07/24/ Fabian Jahr posted to the Bitcoin-Dev mailing list about a new draft BIP for full aggregation of BIP340 schnorr signatures, a standard for the DahLIAS aggregate signature scheme... https://bitcoinops.org/en/newsletters/2026/07/24/#draft-bip-for-full-aggregation-of-bip340-signatures Changes to services and client software: Wasabi Wallet 2.8.0 released Coinswap v0.2.2 released Go secp256k1 library announced ASMap dashboard announced Wavelength alpha released https://bitcoinops.org/en/newsletters/2026/07/24/#changes-to-services-and-client-software Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/24/) • 4h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/24/) • 6h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bitcoin Optech newsletter #415 is here: describes a draft BIP for full aggregati
 
 Hi guys, I’m from the UK & I’ve only ever bought my bitcoin through Binance. As I understand it it we can no longer do that. What’s your recommended platform for someone from the UK?
 
-2h ago
+4h ago
 
 ---
 
@@ -135,7 +135,7 @@ Hi guys, I’m from the UK & I’ve only ever bought my bitcoin through Binance.
 
 Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people advising to sell the last few days, saying we are going to do another 20-30% dump.. essentially the argument is that we are entering a no more cheap money period, and we aren’t getting rate cuts any time soon, there’s no halving in the next few years so there are no bullish catalysts.. and the technical setup isn’t great. Whats everyone doing rn? We adding, holding or trimming?
 
-18h ago
+20h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people adv
 
 Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
 
-23h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ Been out of the game for a few years. Getting back in and privacy still matters 
 
 Would like to invest. Where would you recommend I start?
 
-12h ago
+14h ago
 
 ---
 
@@ -163,7 +163,7 @@ Would like to invest. Where would you recommend I start?
 
 New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -173,37 +173,47 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Morgan Stanley bitcoin trust tops $400 million in inflows](https://finance.yahoo.com/video/morgan-stanley-bitcoin-trust-tops-400-million-in-inflows-160723988.html)**
+**[Inside the Race to Quantum-Proof Bitcoin: Why BlackRock and Galaxy Are Stepping In.](https://www.barrons.com/articles/quantum-bitcoin-computing-security-f4d5c9f8)**
 
-Morgan Stanley (MS) head of digital assets Amy Oldenburg joins Scott Melker at the Out East Summit on Long Island's North Fork to discuss the firm's expanding digital asset strategy and the success of the Morgan Stanley Bitcoin Trust  (MSBT),  its first bitcoin exchange-traded product (ETP), which has surpassed $400 million in inflows.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 57m ago
+Barron's • 29m ago
 
 ---
 
-**[Ex-Trump advisor believes Bitcoin will grind higher after crashing](https://sg.finance.yahoo.com/news/ex-trump-advisor-believes-bitcoin-161911383.html)**
+**[Strategy, BlackRock form Bitcoin Security Consortium to prepare for quantum computing threat](https://www.theblock.co/post/409522/strategy-blackrock-form-bitcoin-security-consortium-to-prepare-for-quantum-computing-threat)**
 
-Anthony Scaramucci is not changing his tune. The SkyBridge Capital founder told CNBC that Bitcoin is going to "grind higher", and his reasoning has not shifted much from what he has been saying for months. The sentiment is too negative. The selling is exhausted. The fundamentals have not ...
+Nine firms including Strategy and BlackRock formed a $15 million Bitcoin security consortium to fund post-quantum cryptography research.
 
-Yahoo Finance Singapore • 45m ago
+The Block • 1d ago
 
 ---
 
-**[Bloc leader's X account restored 2 weeks after bitcoin hack](https://ca.news.yahoo.com/bloc-leaders-x-account-restored-164333486.html)**
+**[MSTR Stock Falls Amid Bitcoin’s Drop Below $65K – Strategy Joins BlackRock, Coinbase In $15 Million Bitcoin Security Push](https://finance.yahoo.com/markets/crypto/articles/mstr-stock-falls-amid-bitcoin-144057683.html)**
 
-Bloc Québécois Leader Yves-François Blanchet says social media platform X has restored his account two weeks after it was hacked and started promoting Bitcoin — which is almost as long as it took for ...
+The dip in MSTR’s stock came alongside weakness in the overall cryptocurrency market, with Bitcoin’s price dropping below the $65,000 level.
 
-Yahoo News Canada • 21m ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy](https://finance.yahoo.com/markets/crypto/articles/poolin-once-one-bitcoins-biggest-174448133.html)**
+
+The Singapore-based pool never recovered from freezing withdrawals in 2022. Now it's auctioning off its last Texas mining sites to pay back 11,700 users still holding IOUs.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Strategy Debuts Net Bitcoin Per Share for Common Investors](https://finance.yahoo.com/markets/crypto/articles/strategy-debuts-net-bitcoin-per-180400942.html)**
+
+Strategy Inc. (NASDAQ: $MSTR) has introduced a new set of Bitcoin valuation metrics designed to show common shareho...
+
+Yahoo Finance • 53m ago
 
 ---
 
 **[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
 
-Morningstar • 7h ago
+Morningstar • 9h ago
 
 ---
 
@@ -211,31 +221,15 @@ Morningstar • 7h ago
 
 Massachusetts residents have lost millions to Bitcoin ATM scams
 
-WCVB • 3h ago
+WCVB • 4h ago
 
 ---
 
-**[Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations](https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations)**
+**[Ransom note in Nancy Guthrie kidnapping demanded millions in bitcoin](https://www.abc15.com/us-news/ransom-note-in-nancy-guthrie-kidnapping-demanded-millions-in-bitcoin)**
 
-Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets.
+New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
 
-The Block • 7h ago
-
----
-
-**[Bitcoin ATM scams in Massachusetts](https://apps.bostonglobe.com/2026/07/storylab/coinhub-bitcoin-atm-crypto-scam/)**
-
-Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
-
-The Boston Globe • 2d ago
-
----
-
-**[Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds](https://www.tradingview.com/news/cointelegraph:bb2e37f6b094b:0-bitcoin-falls-under-64k-as-surging-us-bond-yields-boost-fed-rate-hike-odds/)**
-
-Bitcoin (BTC) fell more than 1.6% on Friday as its latest price correction accelerated after Wall Street opened.Key points:Analysis warns US bond yields now “well above” targetData from TradingView showed BITSTAMP:BTCUSD approaching $64,000 as bulls struggled to preserve recent gains.BITSTAMP:BTCUS…
-
-TradingView • 2h ago
+ABC15 Arizona • 4h ago
 
 ---
 
@@ -271,7 +265,7 @@ An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves t
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 2 • 💬 0 • 2d ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 3d ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
 
 ---
 
@@ -311,7 +305,7 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI development by creating an account on GitHub.
 
-⬆️ 4 • 💬 1 • 13h ago • [GitHub](https://github.com/bitmonky/borgHUI)
+⬆️ 4 • 💬 1 • 15h ago • [GitHub](https://github.com/bitmonky/borgHUI)
 
 ---
 
@@ -333,7 +327,7 @@ In this interview, Samson Mow shares his latest outlook on Bitcoin and explains 
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 118 • 💬 32 • ⏱️ 20:40 • 4h ago
+👁️ 2K • 👍 118 • 💬 32 • ⏱️ 20:40 • 5h ago
 
 ---
 
@@ -343,7 +337,7 @@ Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitte
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 227 • ⏱️ 12:09 • 16h ago
+👁️ 35K • 👍 2K • 💬 227 • ⏱️ 12:09 • 18h ago
 
 ---
 
@@ -353,7 +347,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 201 • 💬 17 • ⏱️ 14:14 • 23h ago
+👁️ 5K • 👍 201 • 💬 17 • ⏱️ 14:14 • 1d ago
 
 ---
 
@@ -363,7 +357,7 @@ Let's talk about Bitcoin price and what to expect over the coming months. Come t
 
 📺 Benjamin Cowen
 
-👁️ 17K • 👍 2K • 💬 88 • ⏱️ 10:01 • 3h ago
+👁️ 17K • 👍 2K • 💬 88 • ⏱️ 10:01 • 5h ago
 
 ---
 
@@ -373,7 +367,7 @@ Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 380 • ⏱️ 20:33 • 19h ago
+👁️ 19K • 👍 2K • 💬 380 • ⏱️ 20:33 • 21h ago
 
 ---
 
@@ -423,7 +417,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 506 • 💬 234 • ⏱️ 16:34 • 16h ago
+👁️ 9K • 👍 506 • 💬 234 • ⏱️ 16:34 • 18h ago
 
 ---
 

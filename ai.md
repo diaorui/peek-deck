@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-24T17:05:06.501920+00:00'
+updated: '2026-07-24T18:57:56.954923+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 24, 2026 at 17:05 UTC  
+**Last Updated:** July 24, 2026 at 18:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Users tried to object to their chatgpt logs being handed to the NYT. the court ruled they were "non-parties" to their own conversations.](https://www.reddit.com/r/artificial/comments/1v5b04p/users_tried_to_object_to_their_chatgpt_logs_being/)**
+
+in the openai copyright case, a court ordered every chatgpt output log preserved, including chats people had deleted. some users tried to intervene to protect their own conversations. the court ruled they were non-parties. they had no standing over things they personally typed. two weeks ago the publishers filed for sanctions, alleging openai deleted billions of logs anyway and spent two years telling the court it couldn't search its own systems when it already could. openai denies it. the whole consumer privacy conversation is about what companies promise. we don't train on your chats, we delete after 30 days. this case showed the promise was never the binding constraint. a judge was. so "do they train on it" is close to the least useful question. the useful one is whether anything besides their good intentions is in the way when a court, a regulator or a future owner comes asking. that's an architecture question. opengradient's chat is what i switched the sensitive half of my usage to, and the mechanism is the interesting part: oblivious http means the relay that sees your ip can't read your request, and the server reading your request never learns your ip. neither can reassemble you alone. inference runs in an attested enclave the operator can't inspect. no log to preserve, nothing to hand over, because you were never in it. two honest cons. it's a16z-crypto-backed with a listed token, which put me off for weeks. and you lose memory and personalisation entirely, so it's not a daily driver, it's where the stuff goes i don't want in someone's discovery pile. does this end up mattering to normal people, or is it five hundred of us caring loudly while everyone else decides a subpoena hitting their recipe questions isn't worth degrading their tools over.
+
+5h ago
+
+---
+
 **[We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment](https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/)**
 
 1d ago
 
 ---
 
-**[Users tried to object to their chatgpt logs being handed to the NYT. the court ruled they were "non-parties" to their own conversations.](https://www.reddit.com/r/artificial/comments/1v5b04p/users_tried_to_object_to_their_chatgpt_logs_being/)**
+**[Bipartisan bill would require companies to tell users when they're talking to AI](https://www.reddit.com/r/artificial/comments/1v5jk23/bipartisan_bill_would_require_companies_to_tell/)**
 
-in the openai copyright case, a court ordered every chatgpt output log preserved, including chats people had deleted. some users tried to intervene to protect their own conversations. the court ruled they were non-parties. they had no standing over things they personally typed. two weeks ago the publishers filed for sanctions, alleging openai deleted billions of logs anyway and spent two years telling the court it couldn't search its own systems when it already could. openai denies it. the whole consumer privacy conversation is about what companies promise. we don't train on your chats, we delete after 30 days. this case showed the promise was never the binding constraint. a judge was. so "do they train on it" is close to the least useful question. the useful one is whether anything besides their good intentions is in the way when a court, a regulator or a future owner comes asking. that's an architecture question. opengradient's chat is what i switched the sensitive half of my usage to, and the mechanism is the interesting part: oblivious http means the relay that sees your ip can't read your request, and the server reading your request never learns your ip. neither can reassemble you alone. inference runs in an attested enclave the operator can't inspect. no log to preserve, nothing to hand over, because you were never in it. two honest cons. it's a16z-crypto-backed with a listed token, which put me off for weeks. and you lose memory and personalisation entirely, so it's not a daily driver, it's where the stuff goes i don't want in someone's discovery pile. does this end up mattering to normal people, or is it five hundred of us caring loudly while everyone else decides a subpoena hitting their recipe questions isn't worth degrading their tools over.
+The Senior Chatbot Protection Act, from Sens. Mark Kelly and Jim Justice, would require clear labeling of AI and new protections for health and financial conversations.
 
-3h ago
-
----
-
-**[China’s open AI strategy is changing the race](https://www.reddit.com/r/artificial/comments/1v5c06c/chinas_open_ai_strategy_is_changing_the_race/)**
-
-Moonshot AI’s Kimi K3 shows how opening a model to outsiders can turn other companies’ computing power into a competitive advantage
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/) • 3h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970) • 34m ago
 
 ---
 
@@ -63,7 +63,23 @@ Moonshot AI’s Kimi K3 shows how opening a model to outsiders can turn other co
 
 He does it because he loves it huh?
 
-12h ago
+14h ago
+
+---
+
+**[China’s open AI strategy is changing the race](https://www.reddit.com/r/artificial/comments/1v5c06c/chinas_open_ai_strategy_is_changing_the_race/)**
+
+Moonshot AI’s Kimi K3 shows how opening a model to outsiders can turn other companies’ computing power into a competitive advantage
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/) • 5h ago
+
+---
+
+**[What model-internal signals do you find most useful during live LLM generation?](https://www.reddit.com/r/artificial/comments/1v5jjx0/what_modelinternal_signals_do_you_find_most/)**
+
+Ive recently been tinkering with live visualization of local language models. including attention patterns, token probabilities, residual-state projections, and layerwise logit changes. Im curious which measurements people seem to find genuinely useful for grasping model behavior? Also which visualizations tend to look impressive, but lack scientific value? For those working in interpretability or evaluation, what signals or intervention results do you rely on most?
+
+35m ago
 
 ---
 
@@ -71,21 +87,21 @@ He does it because he loves it huh?
 
 A lot of startups are trying to add AI right now, but the hard part usually isn’t which model we should use. It’s questions like: Do we need strategy, engineering, or both? Should we hire an AI consultant or build in-house? Can this team ship production software, or only run discovery workshops? Do they understand RAG, agents, vector databases, monitoring, and inference costs? Is an enterprise consulting firm overkill for an MVP-stage startup? I came across a comparison of AI consulting companies for startups and thought the most useful point was this: The best partner depends less on brand name and more on your stage. Enterprise firms may make sense if you need governance, compliance, and large-scale transformation. Smaller engineering-focused teams may be better if you need to launch an AI SaaS, internal tool, chatbot, automation product, or MVP quickly. Curious how others here are approaching this. If you’re a founder or engineering lead, would you rather work with: A big consulting firm, A boutique AI dev shop, A freelance AI engineer, Or build the whole thing internally? And what would be your biggest red flag when evaluating an AI consulting partner?
 
-11m ago
+2h ago
 
 ---
 
-**[The people testing AI for danger can't keep up](https://www.reddit.com/r/artificial/comments/1v5gwoi/the_people_testing_ai_for_danger_cant_keep_up/)**
+**[Taking Blame Is the Next Billion-Dollar Business](https://www.reddit.com/r/artificial/comments/1v5ewgu/taking_blame_is_the_next_billiondollar_business/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/24/ai-safety-security-testing-hugging-face) • 14m ago
+🔗 [monolith3.substack.com](https://monolith3.substack.com/p/taking-blame-is-the-next-billion) • 3h ago
 
 ---
 
-**[The reason to stop buying new hardware (or, why inference is getting cheaper)](https://www.reddit.com/r/artificial/comments/1v5gch2/the_reason_to_stop_buying_new_hardware_or_why/)**
+**[Asked an AI to help debug code and it confidently invented a function that doesn't exist, three times in a row](https://www.reddit.com/r/artificial/comments/1v5ja9z/asked_an_ai_to_help_debug_code_and_it_confidently/)**
 
-The best AI model improves every quarter; the hardware to match last year’s best shrinks a hundredfold. A sourced, interactive argument that most AI infrastructure is a deflating asset: rent the frontier, own the trailing edge.
+Suggestions used a method that sounded plausible, fit naming conventions, had reasonable parameters — just didn't exist in the library. Pointed it out, got an apology and an equally confident, equally fake suggestion. Third time was almost impressive: a fully detailed usage example for a function invented on the spot. Ended up just reading the actual docs like it's 2015. Anyone else notice confidence and correctness running inversely related?
 
-🔗 [Cascadia](https://cascadia.to/blog/intelligence-deflation) • 34m ago
+44m ago
 
 ---
 
@@ -93,21 +109,7 @@ The best AI model improves every quarter; the hardware to match last year’s be
 
 Earlier this week, Substack launched a new feature on its platform in partnership with Pangram, an AI-detection tool. The goal: alert readers to content that's been written entirely by, or with the assistance of, AI. Chris Best Substack's CEO wrote: "We’re partnering with Pangram, the leading AI-detection tool. You’ll be able to scan notes, replies, comments, and posts to see an estimate of how much of the text was written by hand or with AI assistance. This will work on text longer than 100 words, published from today on, and will show an analysis only to those who request it." I tested one of the issues of a newsletter I subscribe to using Pangram today. The verdict? 100% AI generated. I'm not sure if Pangram is that accurate, but it's certainly stirred up a lot of debate. What's your take?
 
-23h ago
-
----
-
-**[Taking Blame Is the Next Billion-Dollar Business](https://www.reddit.com/r/artificial/comments/1v5ewgu/taking_blame_is_the_next_billiondollar_business/)**
-
-🔗 [monolith3.substack.com](https://monolith3.substack.com/p/taking-blame-is-the-next-billion) • 1h ago
-
----
-
-**[US and China just teamed up to back open-source AI](https://www.reddit.com/r/artificial/comments/1v581k2/us_and_china_just_teamed_up_to_back_opensource_ai/)**
-
-21 APEC countries, including the US and China, signed a joint statement in Chengdu backing open-source AI with "strong security assurance." It's the first time an APEC AI statement has included open-source cooperation at this level. Feels notable given the US and China don't usually agree publicly on AI stuff.
-
-🔗 [cnbc.com](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec) • 6h ago
+1d ago
 
 ---
 
@@ -119,15 +121,13 @@ Earlier this week, Substack launched a new feature on its platform in partnershi
 
 Open weight AI can expand access, strengthen competition, improve security, and help sustain American AI leadership.
 
-Microsoft • 5h ago
+Microsoft • 7h ago
 
 ---
 
-**[NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea](https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea)**
+**[Nvidia, Microsoft and other tech giants back open-source AI models](https://www.reuters.com/world/asia-pacific/nvidia-microsoft-other-tech-giants-back-open-source-ai-models-2026-07-24/)**
 
-NVIDIA and the Korea Advanced Institute of Science and Technology (KAIST) today announced the launch of a joint AI research laboratory at the KAIST Kim Jaechul Graduate School of AI in Seoul, dedicated to advancing agentic AI for South Korea.
-
-NVIDIA Newsroom • 17h ago
+Reuters • 50m ago
 
 ---
 
@@ -135,59 +135,55 @@ NVIDIA Newsroom • 17h ago
 
 Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.
 
-CNBC • 2h ago
+CNBC • 4h ago
 
 ---
 
-**[Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare](https://www.ft.com/content/3203fc9a-2321-44f8-8093-b7e16c8fc6d7?syn-25a6b1a6=1)**
+**[Nvidia's CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool](https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388)**
 
-US tech groups and investors respond to calls for restrictions on advanced Chinese technology
-
-Financial Times • 1h ago
+Gizmodo • 32m ago
 
 ---
 
-**[The hidden bill behind agentic AI — and where to run it to maintain control](https://www.businessinsider.com/sc/dell-deskside-agentic-ai-cuts-token-costs-by-87-percent)**
+**[SpaceX at $100 Would Imply Zero AI Value, Says Morgan Stanley](https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley)**
 
-Dell, with Nvidia, introduces Deskside Agentic AI to manage token costs, enabling local trillion-parameter model runs and reducing cloud expenses.
-
-Business Insider • 26m ago
-
----
-
-**[Meta is making its AI chatbot more like an assistant](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update)**
-
-Meta’s “next step toward personal superintelligence.”
-
-The Verge • 5m ago
-
----
-
-**[‘Sheep in the Box’ is a rare misfire from a master director whose AI drama feels borrowed](https://www.latimes.com/entertainment-arts/movies/story/2026-07-24/sheep-in-box-review-ai-hirokazu-kore-eda-haruka-ayase-daigo-yamamoto)**
-
-In movies like 'Still Walking,' Hirokazu Kore-eda has mined intimacy from family tragedy. This time, his delicacy results in something underwhelming.
-
-Los Angeles Times • 16m ago
-
----
-
-**[Opinion | Christopher Nolan’s ‘Odyssey’ Shows That Epics Are Better Without A.I.](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)**
-
-The New York Times • 8h ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[White House draws new AI line on China](https://www.axios.com/2026/07/24/white-house-ai-line-china)**
 
-Axios • 7h ago
+Axios • 9h ago
 
 ---
 
-**[What is China’s Kimi K3 and why is the US so rattled by it?](https://www.cnn.com/2026/07/23/tech/china-ai-moonshot-kimi-explainer-intl-hnk)**
+**[Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3](https://finance.yahoo.com/technology/ai/articles/micron-mu-getting-china-ai-031646978.html)**
 
-Remember DeepSeek? The Chinese artificial intelligence startup that rattled the US tech industry? China may have done it again.
+Moonshot AI’s Kimi K3 launch in China drew such heavy usage that the service quickly stopped taking new users. Analysts are pointing to the surge in demand for Chinese AI models as a potential tailwind for memory suppliers like Micron Technology (NasdaqGS:MU). The user cap at Kimi K3 highlights a tight balance between AI compute needs and available high performance memory supply. Micron Technology sits squarely in the path of this AI build out, with its memory products tied to data center...
 
-CNN • 15h ago
+Yahoo Finance • 15h ago
+
+---
+
+**[Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models](https://www.wired.com/story/uncanny-valley-podcast/)**
+
+On this episode of “Uncanny Valley,” we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.
+
+WIRED • 1h ago
+
+---
+
+**[Opinion | Christopher Nolan’s ‘Odyssey’ Shows That Epics Are Better Without A.I.](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)**
+
+The New York Times • 9h ago
+
+---
+
+**[Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model](https://finance.yahoo.com/technology/ai/articles/turns-dead-internet-theory-ai-201027433.html)**
+
+Multiple cyber firms agree: bots outnumber humans online, challenging advertising, analytics and security systems designed around human visitors.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -197,7 +193,7 @@ CNN • 15h ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 1025 • 💬 840 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 1028 • 💬 842 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -205,7 +201,7 @@ CNN • 15h ago
 
 I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.
 
-⬆️ 675 • 💬 241 • 1d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
+⬆️ 676 • 💬 242 • 2d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
 
 ---
 
@@ -213,13 +209,13 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 
 AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
 
-⬆️ 667 • 💬 357 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+⬆️ 671 • 💬 360 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
 **[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
 
-⬆️ 485 • 💬 236 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+⬆️ 486 • 💬 236 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 
 ---
 
@@ -227,15 +223,7 @@ AI companies are pouring tens of billions of dollars into enormous data centers.
 
 I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
 
-⬆️ 375 • 💬 303 • 2d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
-
----
-
-**[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://news.ycombinator.com/item?id=48995213)**
-
-Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-hostable workspace built on signed Nostr events.
-
-⬆️ 374 • 💬 331 • 2d ago • [RuntimeWire](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
+⬆️ 377 • 💬 303 • 2d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 
 ---
 
@@ -243,13 +231,13 @@ Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-
 
 The release of Kimi K3 has opened a fresh round of angst and confused discourse. There's a loud cohort of journalists, business leaders, and politicians arguing that open source AI is a dangerous threat. OpenAI's Dean Ball:
 
-⬆️ 300 • 💬 206 • 1d ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
+⬆️ 303 • 💬 208 • 1d ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
 
 ---
 
 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://news.ycombinator.com/item?id=49020868)**
 
-⬆️ 287 • 💬 330 • 1d ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+⬆️ 288 • 💬 330 • 1d ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 
 ---
 
@@ -263,7 +251,15 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.
 
-⬆️ 258 • 💬 315 • 1d ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
+⬆️ 258 • 💬 318 • 1d ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
+
+---
+
+**[Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://news.ycombinator.com/item?id=49022911)**
+
+macOS video editor built for AI. Contribute to palmier-io/palmier-pro development by creating an account on GitHub.
+
+⬆️ 181 • 💬 29 • 1d ago • [GitHub](https://github.com/palmier-io/palmier-pro)
 
 ---
 
@@ -297,7 +293,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 79K • 👍 3K • 💬 705 • ⏱️ 10:43 • 1d ago
+👁️ 79K • 👍 3K • 💬 705 • ⏱️ 10:43 • 2d ago
 
 ---
 
@@ -307,7 +303,7 @@ Google just reported something it had never reported in its entire history as a 
 
 📺 Eurodollar University
 
-👁️ 46K • 👍 2K • 💬 136 • ⏱️ 20:40 • 18h ago
+👁️ 46K • 👍 2K • 💬 136 • ⏱️ 20:40 • 19h ago
 
 ---
 
@@ -357,7 +353,7 @@ FREE CHEATSHEET: I've put together every best Chinese AI tool and exactly how to
 
 📺 Vaibhav Sisinty
 
-👁️ 10K • 👍 612 • 💬 57 • ⏱️ 25:05 • 2h ago
+👁️ 10K • 👍 612 • 💬 57 • ⏱️ 25:05 • 4h ago
 
 ---
 
@@ -367,7 +363,7 @@ Watch PBS News for daily, breaking and live news, plus special coverage. We are 
 
 📺 PBS NewsHour
 
-👁️ 3K • 👍 138 • ⏱️ 2:43:30 • 14m ago
+👁️ 3K • 👍 138 • ⏱️ 2:43:30 • 2h ago
 
 ---
 
@@ -395,7 +391,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 28,992 • ❤️ 576 • 6h ago
+⬇️ 28,992 • ❤️ 576 • 8h ago
 
 ---
 
@@ -407,7 +403,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 27,883 • ❤️ 1,537 • 23h ago
+⬇️ 27,883 • ❤️ 1,537 • 1d ago
 
 ---
 
@@ -419,7 +415,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 1,106 • ❤️ 530 • 11h ago
+⬇️ 1,106 • ❤️ 530 • 12h ago
 
 ---
 
@@ -443,7 +439,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 8,169 • ❤️ 353 • 8h ago
+⬇️ 8,169 • ❤️ 353 • 10h ago
 
 ---
 
@@ -638,7 +634,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.2k • 🔱 1.1k • 4h ago
+⭐ 5.2k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -648,7 +644,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.2k • 🔱 247 • 5h ago
+⭐ 3.2k • 🔱 247 • 6h ago
 
 ---
 
@@ -658,7 +654,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 378 • 9h ago
+⭐ 2.7k • 🔱 378 • 11h ago
 
 ---
 
@@ -696,7 +692,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.4k • 🔱 978 • 1m ago
+⭐ 1.4k • 🔱 978 • 1h ago
 
 ---
 
@@ -706,7 +702,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.3k • 🔱 103 • 2h ago
+⭐ 1.3k • 🔱 103 • 4h ago
 
 ---
 
@@ -714,7 +710,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.2k • 🔱 82 • 2d ago
+⭐ 1.2k • 🔱 82 • 3d ago
 
 ---
 
@@ -724,7 +720,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.1k • 🔱 66 • 5h ago
+⭐ 1.1k • 🔱 66 • 6h ago
 
 ---
 
