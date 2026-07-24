@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-24T00:58:35.355111+00:00'
+updated: '2026-07-24T04:21:04.925712+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 00:58 UTC  
+**Last Updated:** July 24, 2026 at 04:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,923.30
+### $1,869.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** +0.4%  
-**30d:** +19.2%  
-**90d:** -21.1%  
-**1y:** -49.8%  
+**24h:** -2.3%  
+**7d:** +0.9%  
+**30d:** +19.8%  
+**90d:** -20.7%  
+**1y:** -49.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.16B
+**Market Cap:** $226.58B
 Rank #2
 
-**Circulating Supply:** 120,682,750 ETH
+**Circulating Supply:** 120,682,712 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.0%
 
 **All-Time Low:** $0.43
-+434646.3%
++433512.3%
 
 ---
 
@@ -150,7 +150,15 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 14h ago
+CoinDesk • 18h ago
+
+---
+
+**[Cryptocurrencies fall as US-Iran conflict escalates, wiping out $250M in market value.](https://pluang.com/en/news-feed/bitcoin-ethereum-xrp-dogecoin-turun-akibat-serangan-as-ke-iran-hari-ke-13)**
+
+Leading cryptocurrencies like Bitcoin, Ethereum, XRP, and Dogecoin dropped sharply amid ongoing US strikes on Iran entering their 13th day, which heightened geopolitical risks and reduced investor appetite for risk. Bitcoin fell back to the mid-$64,000s, Ethereum to around $1,800, and over $250 million was liquidated in the crypto market within 24 hours. Stocks also declined, with major indexes like the Dow Jones and Nasdaq falling. Analysts suggest the current dip may present a buying opportunity for long-term investors, noting Bitcoin's risk-adjusted returns have reached levels seen at previous market bottoms. However, the correction is seen as negative for the broader market in the short term.
+
+Pluang • 1h ago
 
 ---
 
@@ -158,7 +166,7 @@ CoinDesk • 14h ago
 
 Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -166,7 +174,7 @@ Yahoo Finance • 9h ago
 
 A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
 
-TradingView • 6h ago
+TradingView • 10h ago
 
 ---
 
@@ -174,7 +182,7 @@ TradingView • 6h ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -182,7 +190,7 @@ Seeking Alpha • 12h ago
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
-The Block • 16h ago
+The Block • 19h ago
 
 ---
 
@@ -190,7 +198,7 @@ The Block • 16h ago
 
 MONACO , July  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price prediction models examine whe...
 
-markets.businessinsider.com • 22h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -198,7 +206,7 @@ markets.businessinsider.com • 22h ago
 
 Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
 
-FXStreet • 13h ago
+FXStreet • 16h ago
 
 ---
 
@@ -212,15 +220,7 @@ thestreet.com • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60598155/bitcoin-ethereum-xrp-dogecoin-crypto-bill-optimism-btc-test)**
-
-Major cryptocurrencies rose on Tuesday, July 21, as investors digested reports that the White House agreed to an ethics package accompanying the cryptocurrency Clarity Act.
-
-Benzinga • 1d ago
+Fortune • 16h ago
 
 ---
 
@@ -228,23 +228,43 @@ Benzinga • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Crypto Is About To Find Out | Bitcoin, Ethereum &amp; Cardano At The Decision Point](https://www.youtube.com/watch?v=yt-KCiUDkfg)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
+
+📺 Crypto Capital Venture
+
+👁️ 3K • 👍 276 • 💬 129 • ⏱️ 16:34 • 4h ago
+
+---
+
+**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=NU6MsFNYfaY)**
+
+In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+
+📺 More Crypto Online
+
+👁️ 480 • 👍 54 • 💬 4 • ⏱️ 6:26 • 2h ago
+
+---
+
 **[Joseph Chalom: Ethereum Is Going On Offense (Be Early)](https://www.youtube.com/watch?v=lNvBwMRc5fo)**
 
 Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bullish dynamic once market sentiment turns.
 
 📺 The Rollup
 
-👁️ 2K • 👍 45 • 💬 7 • ⏱️ 3:42 • 17h ago
+👁️ 2K • 👍 49 • 💬 8 • ⏱️ 3:42 • 21h ago
 
 ---
 
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=flWpcHoofDw)**
+**[Bitcoin and Ethereum Are SO CLOSE To Topping Out!](https://www.youtube.com/watch?v=uSOiplF15DU)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Bitcoin and Ethereum are nearing major inflection points after BTC's pullback inside the daily TBO cloud and Ethereum's break ...
 
-📺 Crypto Nutshell
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 21K • 👍 534 • 💬 73 • ⏱️ 19:54 • 2d ago
+👁️ 1K • 👍 136 • 💬 23 • ⏱️ 1:00:32 • 1h ago
 
 ---
 
@@ -254,27 +274,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 91 • 💬 16 • ⏱️ 17:35 • 21h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=rgPMH1RcZFs)**
-
-BITCOIN & CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 160 • 👍 19 • 💬 4 • ⏱️ 20:41 • 1h ago
-
----
-
-**[Has ETH/BTC Bottomed and Who Leads From Here?](https://www.youtube.com/watch?v=RbHseJJPgvw)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 4K • 👍 125 • 💬 118 • ⏱️ 39:53 • 1d ago
+👁️ 3K • 👍 99 • 💬 16 • ⏱️ 17:35 • 1d ago
 
 ---
 
@@ -288,43 +288,43 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 
 ---
 
+**[Has ETH/BTC Bottomed and Who Leads From Here?](https://www.youtube.com/watch?v=RbHseJJPgvw)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 127 • 💬 113 • ⏱️ 39:53 • 1d ago
+
+---
+
 **[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom Sharplink](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
 
 Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 214 • 💬 48 • ⏱️ 17:49 • 2d ago
+👁️ 5K • 👍 219 • 💬 48 • ⏱️ 17:49 • 2d ago
 
 ---
 
-**[🚨$4,000,000 LIVE TRADE!!! + MARKET UPDATE!!!](https://www.youtube.com/watch?v=0LDENToitKM)**
+**[BITCOIN &amp; CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=rgPMH1RcZFs)**
 
-Time to have some fun with Bitcoin, Ethereum, and crypto as a whole. Live, unfiltered, and for real! Live crypto trading—let's go ...
-
-📺 Thomas Kralow
-
-👁️ 5K • 👍 216 • 💬 55 • ⏱️ 2:25:30 • 9h ago
-
----
-
-**[The CRYPTO BULL REVERSAL Setting Up! (WARNING For Bitcoin, Ethereum, Altcoins)](https://www.youtube.com/watch?v=iuZTZHipaG0)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 498 • 💬 183 • ⏱️ 10:38 • 1d ago
-
----
-
-**[BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_pwA09-e8Fs)**
-
-BITCOIN PRICE TRAP BEFORE NEXT PUMP (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+BITCOIN & CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 6K • 👍 339 • 💬 218 • ⏱️ 22:47 • 1d ago
+👁️ 2K • 👍 175 • 💬 51 • ⏱️ 20:41 • 5h ago
+
+---
+
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=flWpcHoofDw)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 22K • 👍 545 • 💬 94 • ⏱️ 19:54 • 2d ago
 
 ---
 
