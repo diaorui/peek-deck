@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-24T11:42:57.838046+00:00'
+updated: '2026-07-24T13:46:23.561059+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 11:42 UTC  
+**Last Updated:** July 24, 2026 at 13:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,450.95
+### $64,864.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.2%  
-**30d:** +8.9%  
-**90d:** -17.3%  
-**1y:** -44.7%  
+**24h:** -0.7%  
+**7d:** -0.6%  
+**30d:** +8.0%  
+**90d:** -18.0%  
+**1y:** -45.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1305.28B
+**Market Cap:** $1288.56B
 Rank #1
 
-**Circulating Supply:** 20,060,603 BTC
+**Circulating Supply:** 20,060,671 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.4%
+-49.0%
 
 **All-Time Low:** $67.81
-+95863.7%
++94664.8%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I am very much confident of a bottom within a few weeks. Bitcoin isn't going helow 60k.
 
-12h ago
+14h ago
 
 ---
 
 **[The Orange Revolution](https://www.reddit.com/r/Bitcoin/comments/1v4yg68/the_orange_revolution/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ I am very much confident of a bottom within a few weeks. Bitcoin isn't going hel
 
 Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people advising to sell the last few days, saying we are going to do another 20-30% dump.. essentially the argument is that we are entering a no more cheap money period, and we aren’t getting rate cuts any time soon, there’s no halving in the next few years so there are no bullish catalysts.. and the technical setup isn’t great. Whats everyone doing rn? We adding, holding or trimming?
 
-12h ago
+14h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people adv
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
 
-18h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ BancaStato has become the latest Swiss bank to offer regulated bitcoin trading t
 
 On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, roughly 297 million dollars combined, into Coinbase Prime custody. Sale speculation followed immediately. The detail almost nobody is explaining clearly: Executive Order 14233, which created the Strategic Bitcoin Reserve, only protects Bitcoin from sale. Ether and other seized digital assets fall under a separate framework where Treasury has discretion. So the 244 million in Bitcoin here is protected on paper, the 53 million in Ether is not. The Bitcoin traces to two forfeiture cases, roughly 2,875 BTC from a dark web dealer known as Xanaxman and about 925.5 BTC linked to the old BTC-e exchange. The Ether comes from a former Oracle employee's money laundering case. Worth noting too that a deposit to Coinbase Prime is not proof of an impending sale. The Marshals Service has an active custody contract with Coinbase Prime specifically for managing seized assets, and similar transfers in January, May, and June this year did not result in confirmed liquidations. The bigger structural point is that Executive Order 14233 is policy, not statute. Congress introduced a bill in May to codify the reserve with a 20 year holding requirement, but it has not moved out of committee. Until it does, Bitcoin's protected status here rests on one administration's choice, reversible by the next. Full writeup with sourcing: https://davidebtc186.substack.com/p/the-us-government-just-moved-297m
 
-22h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ Is bitcoin finally starting to bottom out? I know that this has been one of the 
 
 I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a month before tax and spending. Is there any way for me to reach 1 coin1-10 coins in a foreseeable future. (Let’s say 5 years) I just don’t know how there are so many people have a lot of money just to invest. I can barely break even sometimes, the rent is my highest spending, I was thinking maybe just living in my car. But I do need some advice, I can pull out probably $200 max every two weeks. Can you guys share your stories of how you have a whole coin or accumulate aggressively. Thank you
 
-5h ago
+7h ago
 
 ---
 
@@ -157,11 +157,25 @@ I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a
 
 ## Google News: "bitcoin"
 
-**[BTC, ETH price news: Bitcoin steady around $65,000 as 'Mag 7' have worst day since 2025](https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched)**
+**[Bitcoin treasury companies unwind holdings as the DAT model comes under pressure](https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse)**
 
-The Magnificent Seven had their worst day since April 2025 after Alphabet and Tesla spooked investors on AI spending. Bitcoin fell less than 1%, and dogecoin led the majors lower.
+Falling share prices, debt obligations and difficult market conditions are forcing former bitcoin accumulators to sell their holdings and restructure operations.
 
-CoinDesk • 6h ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin (BTC) news: This $5 billion cluster points to bullish positioning](https://www.coindesk.com/markets/2026/07/24/a-usd5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story)**
+
+Bitcoin's options market has accumulated nearly $5 billion in open interest at the $70,000 and $72,000 strikes on Deribit, with several large deliberate trades driving the bullish concentration.
+
+CoinDesk • 2h ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
+
+Morningstar • 3h ago
 
 ---
 
@@ -171,55 +185,39 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Anthony Scaramucci: Bitcoin Fear Remains Extreme, But It Will 'Grind Higher'](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-bitcoin-fear-remains-100108080.html)**
-
-SkyBridge Capital founder Anthony Scaramucci said Bitcoin is likely to “grind higher” despite weak market sentiment, while warning that the Senate has only a narrow window to pass the CLARITY Act before lawmakers leave for the August recess. ‘Grind Higher‘...
-
-Yahoo Finance • 1h ago
-
----
-
-**[U.S. Treasury debt approaches $40 trillion: capital accelerates into gold and Bitcoin](https://www.moomoo.com/news/post/73486918/us-treasury-debt-approaches-40-trillion-capital-accelerates-into-gold)**
-
-Moomoo • 3h ago
-
----
-
-**[Bitcoin Holds Above US$65,000 As Crypto Market Cap Stays At US$2.22 Trillion](https://www.moomoo.com/news/post/73490535/bitcoin-holds-above-us-65000-as-crypto-market-cap-stays)**
+**[A $5 Billion Cluster Has Formed in Bitcoin Options. It Tells a Bullish Story](https://www.moomoo.com/news/post/73501277/a-5-billion-cluster-has-formed-in-bitcoin-options-it)**
 
 Moomoo • 2h ago
 
 ---
 
-**[Bitcoin ATM scams in Massachusetts](https://apps.bostonglobe.com/2026/07/storylab/coinhub-bitcoin-atm-crypto-scam/)**
+**[$KULR Technology (KULR.US)$ $Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/kulr-technology-kulr-us-bitcoin-btc-cc-116975079653381)**
 
-Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
+@Stock_Drift 3934 Views
 
-The Boston Globe • 2d ago
-
----
-
-**[Strategy, BlackRock form Bitcoin Security Consortium to prepare for quantum computing threat](https://www.theblock.co/post/409522/strategy-blackrock-form-bitcoin-security-consortium-to-prepare-for-quantum-computing-threat)**
-
-Nine firms including Strategy and BlackRock formed a $15 million Bitcoin security consortium to fund post-quantum cryptography research.
-
-The Block • 22h ago
+Moomoo • 45m ago
 
 ---
 
-**[MSTR Stock Falls Amid Bitcoin’s Drop Below $65K – Strategy Joins BlackRock, Coinbase In $15 Million Bitcoin Security Push](https://finance.yahoo.com/markets/crypto/articles/mstr-stock-falls-amid-bitcoin-144057683.html)**
+**[Bitcoin Settles Near $65,000 as Oil's March Toward $100 Fails to Spook the Market](https://www.moomoo.com/news/post/73500321/bitcoin-settles-near-65000-as-oil-s-march-toward-100)**
 
-The dip in MSTR’s stock came alongside weakness in the overall cryptocurrency market, with Bitcoin’s price dropping below the $65,000 level.
-
-Yahoo Finance • 21h ago
+Moomoo • 2h ago
 
 ---
 
-**[BlackRock, Coinbase, Strategy in a new group pledging $15 million to prepare Bitcoin for quantum threats](https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats)**
+**[Massachusetts Senate passes amendment to ban Bitcoin ATMs](https://www.wcvb.com/article/massachusetts-senate-passes-amendment-to-ban-bitcoin-atms/73249981)**
 
-Members will direct funding independently, with the consortium taking no role in Bitcoin governance or protocol decisions.
+Massachusetts residents have lost millions to Bitcoin ATM scams
 
-CoinDesk • 22h ago
+WCVB • 14h ago
+
+---
+
+**[Morgan Stanley sees AI data center pivot unlocking upside for bitcoin miners](https://finance.yahoo.com/technology/ai/articles/morgan-stanley-sees-ai-data-175347881.html)**
+
+Investing.com -- Morgan Stanley initiated coverage of bitcoin miners turned AI infrastructure providers, arguing that companies with large, grid-connected power assets are well positioned to benefit from surging demand for AI data centers as hyperscalers race to secure electricity for compute expansion.
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -279,7 +277,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
 
-⬆️ 1 • 💬 0 • 20h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 22h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
 
 ---
 
@@ -303,7 +301,7 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI development by creating an account on GitHub.
 
-⬆️ 4 • 💬 1 • 8h ago • [GitHub](https://github.com/bitmonky/borgHUI)
+⬆️ 4 • 💬 1 • 10h ago • [GitHub](https://github.com/bitmonky/borgHUI)
 
 ---
 
@@ -311,7 +309,7 @@ Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI developme
 
 From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
-⬆️ 2 • 💬 0 • 19h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
+⬆️ 2 • 💬 0 • 21h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
 
 ---
 
@@ -319,13 +317,23 @@ From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
 ## YouTube Videos: "bitcoin"
 
+**[&quot;Bitcoin Sellers Are DONE! What Happens NEXT Will SHOCK EVERYONE&quot; - Joe Consorti](https://www.youtube.com/watch?v=jx8S4TT3Jxo)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 193 • 💬 17 • ⏱️ 14:14 • 20h ago
+
+---
+
 **[Bitcoin grinds higher from here, can&#39;t get much worse, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=8EKXCmyKt6g)**
 
 The 'Fast Money' traders talk the recent downturn in crypto.
 
 📺 CNBC Television
 
-👁️ 21K • 👍 231 • 💬 186 • ⏱️ 5:18 • 1d ago
+👁️ 21K • 👍 236 • 💬 187 • ⏱️ 5:18 • 1d ago
 
 ---
 
@@ -335,27 +343,7 @@ Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitte
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 209 • ⏱️ 12:09 • 11h ago
-
----
-
-**[&quot;Bitcoin Sellers Are DONE! What Happens NEXT Will SHOCK EVERYONE&quot; - Joe Consorti](https://www.youtube.com/watch?v=jx8S4TT3Jxo)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 181 • 💬 16 • ⏱️ 14:14 • 18h ago
-
----
-
-**[Bitcoin Social Interest: Dozens of us Left](https://www.youtube.com/watch?v=UIv9IQ4uXEA)**
-
-Let us talk about social interest for Bitcoin in 2026 and what we can expect going forward. Check out the July Bitcoin memo: ...
-
-📺 Benjamin Cowen
-
-👁️ 54K • 👍 3K • 💬 221 • ⏱️ 7:39 • 1d ago
+👁️ 31K • 👍 2K • 💬 218 • ⏱️ 12:09 • 13h ago
 
 ---
 
@@ -365,7 +353,17 @@ Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 2K • 💬 349 • ⏱️ 20:33 • 14h ago
+👁️ 17K • 👍 2K • 💬 369 • ⏱️ 20:33 • 16h ago
+
+---
+
+**[The Last Chance Pause as Bitcoin Price Chart, Altcoin Market and XRP Price Setup Foundation for Bull](https://www.youtube.com/watch?v=RrNkGtUnESo)**
+
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+
+📺 Blockchain Backer
+
+👁️ 5K • 👍 971 • 💬 34 • ⏱️ 17:56 • 1h ago
 
 ---
 
@@ -375,7 +373,37 @@ Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treas
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 867 • 💬 204 • ⏱️ 16:41 • 1d ago
+👁️ 15K • 👍 882 • 💬 191 • ⏱️ 16:41 • 1d ago
+
+---
+
+**[LIVE Bitcoin &amp; Crypto Trading: Bitcoin Needs Your Full Attention Right Now](https://www.youtube.com/watch?v=LqXafklK29Q)**
+
+Heading into the weekly close, Dylan and Chento are live, dissecting the current red and uncertain crypto market. They'll break ...
+
+📺 Crypto Banter
+
+👁️ 1K • 👍 169 • 2h ago
+
+---
+
+**[Bitcoin Social Interest: Dozens of us Left](https://www.youtube.com/watch?v=UIv9IQ4uXEA)**
+
+Let us talk about social interest for Bitcoin in 2026 and what we can expect going forward. Check out the July Bitcoin memo: ...
+
+📺 Benjamin Cowen
+
+👁️ 56K • 👍 3K • 💬 233 • ⏱️ 7:39 • 1d ago
+
+---
+
+**[Warning: Why The Collapse of Bitcoin Treasury Companies Could Signal A Future Crash](https://www.youtube.com/watch?v=-9gBtoeLUPg)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Favorite Place To ...
+
+📺 Aaron Bennett
+
+👁️ 8K • 👍 490 • 💬 50 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -385,37 +413,7 @@ MARA Chairman and CEO Fred Thiel unpacks the economic reality behind the global 
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 87 • 💬 113 • ⏱️ 1:12 • 16h ago
-
----
-
-**[Massive Rotation Back Into Crypto?📈But Bitcoin Narrative Over?🚨](https://www.youtube.com/watch?v=ejD5S4tDS5g)**
-
-An AI-to-crypto capital rotation describes the shifting of institutional and retail investment funds between artificial intelligence ...
-
-📺 Paul Barron Network
-
-👁️ 41K • 👍 2K • 💬 183 • ⏱️ 20:09 • 20h ago
-
----
-
-**[Bitcoin Fakeout! Live Trading &amp; TA](https://www.youtube.com/watch?v=O-tC7o7_GVg)**
-
-Bitcoin Does the Juke Moves! JP & Rob Helps you not get crossed up! Live Trading & TA Get 10% back on your fees with BTCC ...
-
-📺 Sin City Crypto
-
-👁️ 6K • 👍 300 • ⏱️ 4:33:26 • 7h ago
-
----
-
-**[A Tech CEO&#39;s Honest Outlook on Bitcoin](https://www.youtube.com/watch?v=FrDJ2bwvQdc)**
-
-What does the future of Bitcoin mining actually look like? This week, Fred Thiel joins Coin Stories for a wide-ranging and candid ...
-
-📺 Natalie Brunell
-
-👁️ 10K • 👍 391 • 💬 174 • ⏱️ 1:06:35 • 1d ago
+👁️ 4K • 👍 100 • 💬 65 • ⏱️ 1:12 • 18h ago
 
 ---
 

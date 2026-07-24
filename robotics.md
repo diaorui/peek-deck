@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-24T11:42:57.845277+00:00'
+updated: '2026-07-24T13:46:23.570411+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 24, 2026 at 11:42 UTC  
+**Last Updated:** July 24, 2026 at 13:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,67 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Built this 6DOF using aluminum angles and acrylic plates.](https://www.reddit.com/r/robotics/comments/1v45ity/built_this_6dof_using_aluminum_angles_and_acrylic/)**
+**[Unitree “Super Athlete" AS2-W (wheeled-leg variant of the AS2)](https://www.reddit.com/r/robotics/comments/1v582o5/unitree_super_athlete_as2w_wheeledleg_variant_of/)**
 
-Built this 6dof with parts bought from local hardware store. Lot of loose parts now, needs fine tune or redo. Plan is to create mobile arm. Waiting for wheels and step motor. Controlled by raspberry pi.
+From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 - Weight: ~25 kg with battery. - Speed: Over 6 m/s (higher than the pure-legged As2). - Payload: Continuous ~16 kg; higher static capacity. - Endurance: Unloaded >3 hours / 30+ km; loaded (>16 kg) >2 hours / >16 km. Same 648 Wh (15,000 mAh) battery class as the As2. - Mobility: Up to ~80 cm obstacles, 45° slopes, 30 cm stairs; strong on gravel, rocky, and uneven outdoor terrain. https://www.unitree.com/As2-W
 
-1d ago
+2h ago
+
+---
+
+**[Embodied AI is getting scary cheap. We just got our sub-$1,000 open-source robot (AlohaMini2) to do autonomous mobile manipulation trained on a consumer 8GB GPU.](https://www.reddit.com/r/robotics/comments/1v535b3/embodied_ai_is_getting_scary_cheap_we_just_got/)**
+
+Hey everyone, A while back, I posted here asking for advice on my $149 metal cycloidal actuator project. A lot of folks asked me why I was so obsessed with pushing the hardware BOM cost down so aggressively. Well, this video is exactly why. My co-founder Yiteng and I just released AlohaMini2. To our knowledge, it's the first sub-$1,000 self-build BOM robot capable of end-to-end, long-horizon autonomous tasks (like this grocery manipulation). Here is the technical takeaway that I think will interest this community: The Compute Barrier is Gone: This wasn't trained on a server farm. The AM-ACT policy was trained and deployed entirely on a standard 8GB consumer GPU. Data Efficiency: It only took 50 human demonstration episodes to reach a 50% end-to-end success rate on this specific long-horizon task. We are open-sourcing the entire repo (hardware files & codebase) because we want to prove that you don't need a multi-million-dollar lab to play with cutting-edge Embodied AI anymore. The Real Bottleneck Now? Hardware Reliability. While the software/policy side is moving at lightspeed, keeping a $1,000 robot mechanically alive during 24/7 RL training is a nightmare. 3D printed gears strip, cheap servos overheat. That’s exactly what drove me to start designing metal actuators in the first place. Repo link for anyone who wants to build one or dive into the code:https://github.com/liyiteng/AlohaMini I’m curious—if the software barrier is this low now, what tasks would you guys train a cheap $1k robot to do at home?
+
+7h ago
+
+---
+
+**[New AMD Robotics SoC: X100 - 128GB Unified Memory](https://www.reddit.com/r/robotics/comments/1v57zsa/new_amd_robotics_soc_x100_128gb_unified_memory/)**
+
+Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workload-benchmark/ running extended ROS 2 workloads. Pretty cool HW-wise, especially with recent Jetson 50-100% price increase. Hopefully AMD won't price it same as new Thor price 👀 Also vote if you can what HW you use to run ROS (if you use ROS)
+
+🔗 [AMD](https://www.amd.com/en/products/system-on-modules/kria/ai.html) • 2h ago
+
+---
+
+**[Autonomous RC car loses gps connection when starts the route.](https://www.reddit.com/r/robotics/comments/1v55vrx/autonomous_rc_car_loses_gps_connection_when/)**
+
+Hi everyone I need your help! I don't know if this is the right place for this post, but I'll give it a shot. My thesis is to write a manual for this particular rover and also make a "test drive" with it. I drew the plan in mission planner, changed the necessary parameters and det the rc to auto. Every time it starts with here 3 being solid green and then stops and the colours are flashing yellow and red which I think it means that it lost connection. Then it gets solid green again but i have to switch it back to manual and then auto in order to start again to move and then suddenly stop. I want to clarify that it doesn't stop each tme after a specific amount of time, but it's random. I tried one suggestion which was to raise the here 3 up to 15cm (in the photo is 14.5cm) but once again it didn't work. I should note that lidar should have worked also (by work i mean it should have meade the rc to avoid obstacles) but it doesn't and i'm curious if this is causing the problem. Anyway don't hesitate to ask every detail you want in the comments, I will appreciate all the help you can give me!
+
+4h ago
+
+---
+
+**[I built a laser-cut rack & pinion for a NEMA 17 stepper](https://www.reddit.com/r/robotics/comments/1v4l6c3/i_built_a_lasercut_rack_pinion_for_a_nema_17/)**
+
+Design files (DXF) and Arduino code: https://drive.google.com/drive/folders/13WhHXtmIfWlrlRav29l_HFwwOCRubMLY?usp=sharing
+
+19h ago
+
+---
+
+**[The second attempt tells more than the success clip](https://www.reddit.com/r/robotics/comments/1v58r1r/the_second_attempt_tells_more_than_the_success/)**
+
+In a robot demo, I usually watch what happens right after the first miss. Does the robot look again and change its approach, repeat the same motion, or wait for someone off camera to reset the object? For a LingBot-VLA 2.0 evaluation, keep the camera running through the failed grasp and the retry. The useful details are the object's new pose, whether the policy receives a fresh observation, how the next approach point changes, and when a human takes over. A short uncut sequence would answer more than several successful clips. I am less sure how controlled the failure should be. A fixed perturbation makes comparisons easier, but it can also turn the demo into a lab exercise that misses messy real failures. How do people here test recovery and still keep the setup repeatable?
+
+2h ago
+
+---
+
+**[Playto Labs is a scam](https://www.reddit.com/r/robotics/comments/1v4errx/playto_labs_is_a_scam/)**
+
+Do not sign up with this company unless you want to be scammed. I signed up for their most expensive program, but was not satisfied and requested a refund. It was much less than I thought, but it still wasn't a small amount (a little under $1000). The teachers were nice, but my son was not learning much in terms of robotics. That's when things went south. After being promised my refund, they refused to actually refund me my money, and then ghosted me. This after I spent an additional $100 to ship the robotics kit back to them in India. I tracked it all the way there, just to see it refused by sender. This is what they do. I tried to dispute this with my credit card, but I just found out it was denied because Playto charges through a third party name (Raz*Skyfi Education). They know this, and use it as a loophole to not refund you your credit. Please stay away.
+
+23h ago
+
+---
+
+**[The 20-second demo that broke my teammate (and what it taught me about debugging)](https://www.reddit.com/r/robotics/comments/1v54wj8/the_20second_demo_that_broke_my_teammate_and_what/)**
+
+Last week, our marketing team asked me to help shoot a 20-second demo video. Just have our 6-axis arm (Alicia-M) pick up a wooden block, drop it into a small bin, then grab the bin and tip the block out. Twenty seconds. Simple. It was not simple. Here's what I learned watching a non-engineer try to teach this arm the sequence. The first step — pick up the block and drop it in the bin — was almost easy. The second step — grab the bin and tip the block out — broke her brain for two days. Two failure modes I watched her hit, over and over: I can't find the right angle to tip it out." She'd pick up the bin, then spend ten minutes trying different left/right tilts. Nothing worked. The block would either stay stuck in the bin or fly off in a random direction. The cause wasn't the angle she was choosing — it was that she was trying to fix the bin's orientation when the real problem was the block's exit path. The block leaves the bin at an angle that's the sum of the bin's tilt, the bin's rotation around vertical, and gravity. She was tuning one variable; the block was moving in three. The arm missed completely." She'd press go, the gripper would close on empty air, and she'd say "the arm missed it." But the arm didn't miss. The end effector was exactly where the program told it to be. She was watching the block from a camera angle that offset her mental "where" by 2-3 cm. The fix wasn't the arm. The fix was moving the camera to a top-down view, so her mental model matched the arm's coordinate frame. The lesson I didn't expect: I thought I was going to teach her. I came out learning to debug faster. Engineers debug with hypotheses: "the angle is off, let me check the code." Non-engineers debug with action: "let me try the other side, let me close harder." Her action-first approach was noisier — five parameter changes in the time it takes me to formulate one hypothesis — but after I asked her to ask "what did I just see?" before "what should I change?", the pattern emerged. By attempt 20, she could predict the failure before it happened. The third time the bin tilted the wrong way, she said "wait — I'm not picking the angle, I'm picking the trajectory the block will follow." And then she solved it in two tries. The rule I'm keeping: after every failure, describe what you saw. Then diagnose. For those who've taught a non-engineer to use a robot arm: what was the moment your student had the "I can read the failure now" breakthrough? Was it a "the angle is wrong" moment, or a "I'm chasing the wrong variable" moment?
+
+5h ago
 
 ---
 
@@ -48,59 +104,9 @@ Two cute little robots dancing to the music and enjoying their moment in the spo
 
 ---
 
-**[Why iRobot chose not to give Roomba a real personality](https://www.reddit.com/r/robotics/comments/1v4e1dj/why_irobot_chose_not_to_give_roomba_a_real/)**
+**[Built this 6DOF using aluminum angles and acrylic plates.](https://www.reddit.com/r/robotics/comments/1v45ity/built_this_6dof_using_aluminum_angles_and_acrylic/)**
 
-Colin Angle explains that giving a robot a voice does more than change the interface. It changes the user’s entire understanding of what the machine can do. Roomba eventually received spoken maintenance messages because communicating problems such as clogged rollers or a lost Wi-Fi connection through sequences of beeps created a poor user experience. But iRobot intentionally made those messages sound like a separate utility or maintenance system rather than Roomba itself speaking. Once a robot appears conversational, users begin expecting language understanding, memory, contextual awareness and consistent behavior across long periods of time. Angle says delivering all of that reliably remains difficult, even with current natural-language systems. Keeping Roomba’s personality undefined allowed people to personify the robot on their own terms without the product making promises its underlying intelligence could not fulfill.
-
-22h ago
-
----
-
-**[Playto Labs is a scam](https://www.reddit.com/r/robotics/comments/1v4errx/playto_labs_is_a_scam/)**
-
-Do not sign up with this company unless you want to be scammed. I signed up for their most expensive program, but was not satisfied and requested a refund. It was much less than I thought, but it still wasn't a small amount (a little under $1000). The teachers were nice, but my son was not learning much in terms of robotics. That's when things went south. After being promised my refund, they refused to actually refund me my money, and then ghosted me. This after I spent an additional $100 to ship the robotics kit back to them in India. I tracked it all the way there, just to see it refused by sender. This is what they do. I tried to dispute this with my credit card, but I just found out it was denied because Playto charges through a third party name (Raz*Skyfi Education). They know this, and use it as a loophole to not refund you your credit. Please stay away.
-
-21h ago
-
----
-
-**[What Finally Helped Me Understand Inverse Kinematics After Building a 6-Axis Robot Arm](https://www.reddit.com/r/robotics/comments/1v3907d/what_finally_helped_me_understand_inverse/)**
-
-I spent the last year building a 6-axis desktop robot arm from scratch, and inverse kinematics was the hardest concept for me to internalize. Here’s what finally helped. Forward kinematics felt relatively straightforward. Given the joint angles, I could compute the end-effector pose by chaining homogeneous transformation matrices using a consistent frame convention. Denavit–Hartenberg parameters made the process systematic, and I had the basic idea working within a weekend. Inverse kinematics was much harder. Given a desired end-effector pose, which joint configurations reach it? There may be multiple solutions, or none at all. The elbow-up vs. elbow-down configurations alone took me days to understand and debug. Three things finally made it click: Build geometric intuition before deriving equations.​ I watched each joint move independently in a 3D simulator. In my arm, joint 1 mainly changes the base azimuth, while joints 2 and 3 determine the reach in a radial-height plane. Because the arm uses a conventional wrist structure, joints 4–6 mainly control orientation. Seeing the workspace gave the equations a physical meaning. Start with a 2-DOF planar arm.​ Forget the 6-axis arm for a week. A simple 2-link arm makes the cosine-law derivation and the elbow-up/elbow-down solutions easy to visualize. Then add a third link while explicitly accounting for end-effector orientation, and add more joints one at a time. Numerical methods aren’t cheating.​ I implemented a small Jacobian-based solver in Python. It worked surprisingly well, although it still depended on the initial guess and could struggle near singularities or unreachable targets. My biggest mistake was trying to derive closed-form IK equations before understanding the workspace geometry. If you can’t visualize where the arm can reach, the equations feel almost meaningless. What approach worked for you when learning IK? Did you start with analytical methods, numerical methods, or a combination of both?
-
-2d ago
-
----
-
-**[Built my first robot](https://www.reddit.com/r/robotics/comments/1v3kseq/built_my_first_robot/)**
-
-Built my first robot still have a lot to learn. Open to any advice on how to improve look of wires. When I built this, I lost two of the baby screws for the knee of the robot so it topples over in the middle of its dance. But it was fun to build and I learned a lot. Also, open to any ideas on other kits or sites where I can create more stuff myself following tutorials and things like that
-
-1d ago
-
----
-
-**[The Breakdown: Saronic](https://www.reddit.com/r/robotics/comments/1v4eoqi/the_breakdown_saronic/)**
-
-🔗 [open.substack.com](https://open.substack.com/pub/preipomedia/p/the-breakdown-saronic?r=8at6g1&utm_campaign=post-expanded-share&utm_medium=web) • 21h ago
-
----
-
-**[I built a free interactive robotics learning platform with browser-based simulators. I'd love feedback from the robotics community.](https://www.reddit.com/r/robotics/comments/1v44ws7/i_built_a_free_interactive_robotics_learning/)**
-
-1d ago
-
----
-
-**[Humanoid robots are entering factories, but manufacturers still care more about reliability than form factor](https://www.reddit.com/r/robotics/comments/1v3ige8/humanoid_robots_are_entering_factories_but/)**
-
-Most humanoid robots in factories are still being tested in pilot programs, and many are only reaching 20% to 50% effectiveness. A3 President Jeff Burnstein told Forbes that manufacturers are not focused on whether a robot looks human. They want systems that are reliable, affordable and safe. Safety remains a major barrier because there is no dedicated humanoid robot safety standard yet, and most systems currently operate behind fences or away from workers. Burnstein expects humanoids to find roles in factories, warehouses and logistics, but alongside traditional industrial robots, mobile robots and collaborative arms rather than replacing them. The article also covers labor shortages, manufacturing competitiveness and the growing robotics gap between the U.S. and China.
-
-🔗 [Forbes](https://www.forbes.com/sites/johnkoetsier/2026/07/20/humanoid-robots-are-coming-to-factories-but-not-the-way-you-think/) • 1d ago
-
----
-
-**[Building an Industrial Surveillance Quadruped Robot in India – Looking for Feedback](https://www.reddit.com/r/robotics/comments/1v47dbx/building_an_industrial_surveillance_quadruped/)**
+Built this 6dof with parts bought from local hardware store. Lot of loose parts now, needs fine tune or redo. Plan is to create mobile arm. Waiting for wheels and step motor. Controlled by raspberry pi.
 
 1d ago
 
@@ -114,39 +120,43 @@ Most humanoid robots in factories are still being tested in pilot programs, and 
 
 The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
 
-Time Magazine • 23h ago
+Time Magazine • 1d ago
 
 ---
 
-**[US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies](https://www.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies)**
+**[For The First Time Ever, Humanoid Robots Perform Surgery on Live Animals](https://www.sciencealert.com/world-first-humanoid-robots-perform-surgery-on-live-animals-this-could-prove-useful-in-space)**
 
-South China Morning Post • 1d ago
+For the first time ever, humanoid robots operated by surgeons have successfully performed laparoscopic gallbladder removal in pigs.
+
+ScienceAlert • 2d ago
 
 ---
 
-**[Robotics startup Humanoid raises $152 million Series A round at $1.35 billion valuation](https://www.reuters.com/business/robotics-startup-humanoid-raises-152-million-series-round-135-billion-valuation-2026-07-21/)**
+**[U.S. Robotics Leadership Is Not Guaranteed](https://www.piratewires.com/p/us-robotics-leadership-is-not-guaranteed)**
 
-Reuters • 2d ago
+Pirate Wires • 20h ago
 
 ---
 
 **[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Elon Musk says Optimus could be Tesla's biggest product ever. It still has 3 huge hurdles.](https://www.businessinsider.com/everything-we-know-about-teslas-optimus-humanoid-robot-2026-7)**
+**[Robot snakes searched for Venezuela earthquake survivors in collapsed buildings](https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/)**
 
-Tesla is preparing to build Optimus in Fremont. Here's what we know about the humanoid robot's price, capabilities, and biggest hurdles.
+US robotics researchers flew to Venezuela with snakebots after getting a call.
 
-Business Insider • 2h ago
+Ars Technica • 2h ago
 
 ---
 
-**[SoftBank Weighs Deal for Robotics Startup Gravis](https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis)**
+**[This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around.](https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7)**
 
-Bloomberg.com • 2h ago
+A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
+
+Business Insider • 5h ago
 
 ---
 
@@ -160,21 +170,21 @@ WSJ • 2d ago
 
 Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
 
-GeekWire • 18h ago
+GeekWire • 20h ago
 
 ---
 
-**[Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy](https://www.reuters.com/world/asia-pacific/samsung-electronics-creates-robotics-division-key-part-growth-strategy-2026-07-21/)**
+**[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
 
-Reuters • 3d ago
+Axios • 1d ago
 
 ---
 
-**[Tesla’s profits slide despite growing revenue as it pivots to robotics and AI](https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings)**
+**[AMD Advancing AI 2026: Ryzen AI Embedded X100, Kria AI Robotics Platform, and Robotics Partner Network](https://www.techpowerup.com/351008/amd-advancing-ai-2026-ryzen-ai-embedded-x100-kria-ai-robotics-platform-and-robotics-partner-network)**
 
-Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
+At the Advancing AI 2026 event, AMD announced its first entry into "physical AI," a category that covers robotics, industrial automation, and other real-time embedded systems. The company announced new embedded silicon, a turnkey robotics platform, and an open partner ecosystem. These...
 
-The Guardian • 1d ago
+TechPowerUp • 18h ago
 
 ---
 
@@ -188,7 +198,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 2.3M • 👍 2K • 💬 392 • ⏱️ 2:15 • 4d ago
+👁️ 2.4M • 👍 2K • 💬 399 • ⏱️ 2:15 • 4d ago
 
 ---
 
@@ -198,7 +208,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 46K • 👍 497 • 💬 185 • ⏱️ 4:18 • 5d ago
+👁️ 47K • 👍 499 • 💬 186 • ⏱️ 4:18 • 5d ago
 
 ---
 
@@ -212,13 +222,33 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 ---
 
+**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
+
+America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
+
+📺 Living in China
+
+👁️ 48K • 👍 2K • 💬 150 • ⏱️ 12:28 • 2d ago
+
+---
+
+**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
+
+AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
+
+📺  Beesoft Bd
+
+👁️ 99K • 💬 3 • ⏱️ 0:16 • 1d ago
+
+---
+
 **[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
 
 China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
 
 📺 RedTech Insights
 
-👁️ 22K • 👍 428 • 💬 33 • ⏱️ 19:31 • 3d ago
+👁️ 22K • 👍 431 • 💬 35 • ⏱️ 19:31 • 3d ago
 
 ---
 
@@ -228,17 +258,7 @@ Robodogs and dancing robots are headlining tech shows everywhere. But at the Wor
 
 📺 CNA
 
-👁️ 5K • 👍 53 • 💬 17 • ⏱️ 3:18 • 3d ago
-
----
-
-**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
-
-War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 12K • 👍 492 • 💬 174 • ⏱️ 14:51 • 23h ago
+👁️ 5K • 👍 55 • 💬 17 • ⏱️ 3:18 • 3d ago
 
 ---
 
@@ -252,13 +272,13 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 ---
 
-**[Why China is dominating the humanoid robot race - Asia Specific podcast, BBC World Service](https://www.youtube.com/watch?v=8jXScBvrEJ0)**
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
 
-Humanoid robots are suddenly everywhere - dancing, boxing, running marathons and even attempting surgery. China leads the ...
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
 
-📺 BBC World Service
+📺 New York Post
 
-👁️ 17K • 👍 292 • 💬 95 • ⏱️ 18:15 • 2d ago
+👁️ 31K • 👍 671 • 💬 317 • ⏱️ 2:02 • 1d ago
 
 ---
 
@@ -268,17 +288,7 @@ Everyone is asking if killer robots are coming. Wrong question. One already knoc
 
 📺 Ambrose In China
 
-👁️ 550K • 👍 20K • 💬 4K • ⏱️ 2:25 • 3d ago
-
----
-
-**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
-
-AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
-
-📺  Beesoft Bd
-
-👁️ 95K • 💬 3 • ⏱️ 0:16 • 1d ago
+👁️ 559K • 👍 20K • 💬 4K • ⏱️ 2:25 • 4d ago
 
 ---
 

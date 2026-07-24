@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-24T11:42:57.842748+00:00'
+updated: '2026-07-24T13:46:23.567175+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 11:42 UTC  
+**Last Updated:** July 24, 2026 at 13:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** +1.0%  
-**30d:** +19.9%  
-**90d:** -20.7%  
-**1y:** -49.5%  
+**24h:** -1.5%  
+**7d:** +0.2%  
+**30d:** +19.0%  
+**90d:** -21.2%  
+**1y:** -49.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.52B
+**Market Cap:** $224.41B
 Rank #2
 
 **Circulating Supply:** 120,682,712 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.4%
 
 **All-Time Low:** $0.43
-+435440.8%
++429368.9%
 
 ---
 
@@ -146,11 +146,67 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart](https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart)**
+**[Ethereum News: How a $67M ETH Short Reveals Hyperliquid’s Institutional Leap](https://finance.yahoo.com/markets/crypto/articles/ethereum-news-67m-eth-short-115341560.html)**
 
-The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
+In Ethereum news today, Fasanara Capital, a London-based quantitative asset manager, is holding a $67M ETH short on Hyperliquid via an on-chain wallet labeled “BobbyBigSize,” and the directional bet is almost beside the point. What matters is that institutional-grade capital is now executing complex, multi-leg crypto derivatives strategies entirely on ...
 
-CoinDesk • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Cardano founder criticizes Ethereum's governanc...](https://pluang.com/en/news-feed/pendiri-cardano-kritik-ethereum-dan-butuh-asuransi-untuk-crypto)**
+
+Charles Hoskinson, founder of Cardano and former Ethereum co-founder, criticized Ethereum's governance model for lacking sustainable funding and relying on a few large organizations. He advocates for more decentralized governance through token holders and highlights Cardano's slower but more sustainable approach. Hoskinson also called for an insurance layer in crypto to protect users from hacks, proposing insurance products for wallets and bridges funded by premiums and collateral pools. He believes the future of crypto adoption lies in integrating blockchain with identity, privacy, insurance, and real-world finance rather than just faster transactions.
+
+Pluang • 54m ago
+
+---
+
+**[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-says-ethereum-reinventing-114100114.html)**
+
+The chain's new plan calls for a swath of big steps in a few different directions.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
+
+Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
+
+CoinDesk • 22h ago
+
+---
+
+**[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
+
+A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
+
+The Block • 1d ago
+
+---
+
+**[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
+
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant](https://www.tradingview.com/news/cointelegraph:2405507f4094b:0-ethereum-nears-market-bottom-against-bitcoin-though-key-signals-remain-unconfirmed-cryptoquant/)**
+
+Ether is becoming increasingly attractive from a valuation standpoint, particularly relative to Bitcoin, but onchain data suggests the market has yet to reach a definitive cycle bottom, according to CryptoQuant.In its latest weekly report, the analytics company said Ether (ETH) is trading roughly 1…
+
+TradingView • 21h ago
 
 ---
 
@@ -166,63 +222,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
 
-Yahoo Finance • 20h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
-
-Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
-
-Benzinga • 9h ago
-
----
-
-**[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1h ago
-
----
-
-**[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://www.fool.com/investing/2026/07/24/vitalik-buterin-says-ethereum-reinvents-itself/)**
-
-The chain's new plan calls for a swath of big steps in a few different directions.
-
-The Motley Fool • 12m ago
-
----
-
-**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
-
-A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
-
-TradingView • 17h ago
-
----
-
-**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
-
-Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
-
-Seeking Alpha • 23h ago
-
----
-
-**[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
-
-A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
-
-The Block • 1d ago
-
----
-
-**[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
-
-U.S. Spot ETH ETF has seen net inflows in the past two weeks.
-
-AMBCrypto • 7h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 395 • 💬 171 • ⏱️ 16:34 • 11h ago
+👁️ 8K • 👍 461 • 💬 257 • ⏱️ 16:34 • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 7 • ⏱️ 6:26 • 10h ago
+👁️ 2K • 👍 161 • 💬 7 • ⏱️ 6:26 • 12h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin and Ethereum are nearing major inflection points after BTC's pullback in
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 4K • 👍 395 • 💬 55 • ⏱️ 1:00:32 • 8h ago
+👁️ 6K • 👍 499 • 💬 65 • ⏱️ 1:00:32 • 10h ago
 
 ---
 
@@ -266,37 +266,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 2K • 👍 50 • 💬 8 • ⏱️ 3:42 • 1d ago
-
----
-
-**[Ethereum Price Warning: Rising Wedge Targets $1,600 — or Will ETH Rally to $2,186?](https://www.youtube.com/watch?v=tYTud-wdBig)**
-
-Ethereum has gained roughly 25% over the past month, but ETH's daily chart is now flashing conflicting technical signals. A rising ...
-
-📺 FXEmpire
-
-👁️ 8 • ⏱️ 3:53 • 2h ago
-
----
-
-**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom Sharplink](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
-
-Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
-
-📺 Thinking Crypto
-
-👁️ 5K • 👍 220 • 💬 27 • ⏱️ 17:49 • 2d ago
-
----
-
-**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
-
-Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
-
-📺 Lark Davis
-
-👁️ 1K • 👍 41 • 💬 3 • ⏱️ 0:53 • 7h ago
+👁️ 3K • 👍 52 • 💬 8 • ⏱️ 3:42 • 1d ago
 
 ---
 
@@ -306,7 +276,27 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 105 • 💬 16 • ⏱️ 17:35 • 1d ago
+👁️ 3K • 👍 113 • 💬 16 • ⏱️ 17:35 • 1d ago
+
+---
+
+**[ETHEREUM BREAKDOWN UPDATE! (ETH Today)](https://www.youtube.com/watch?v=GJta6qiiIhg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 106 • 👍 14 • 💬 19 • ⏱️ 4:50 • 4h ago
+
+---
+
+**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
+
+Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 67 • 💬 3 • ⏱️ 0:53 • 9h ago
 
 ---
 
@@ -316,17 +306,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 550 • 💬 68 • ⏱️ 19:54 • 2d ago
+👁️ 23K • 👍 556 • 💬 71 • ⏱️ 19:54 • 2d ago
 
 ---
 
-**[Ethereum is About to Shock the Crypto Market!](https://www.youtube.com/watch?v=XpSEaWtvIMw)**
+**[Ethereum Price Warning: Rising Wedge Targets $1,600 — or Will ETH Rally to $2,186?](https://www.youtube.com/watch?v=tYTud-wdBig)**
 
-In today's episode, Ran breaks down why the recent market rally could be more than just another short-lived bounce. He explores ...
+Ethereum has gained roughly 25% over the past month, but ETH's daily chart is now flashing conflicting technical signals. A rising ...
 
-📺 Crypto Banter
+📺 FXEmpire
 
-👁️ 22K • 👍 1K • 💬 32 • ⏱️ 33:40 • 2d ago
+👁️ 16 • 👍 2 • ⏱️ 3:53 • 4h ago
+
+---
+
+**[Can Ethlabs Make Ethereum The Root Of Global Finance?](https://www.youtube.com/watch?v=0PIWr1v0N7Q)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 101 • 💬 93 • ⏱️ 55:25 • 19h ago
 
 ---
 
