@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-24T07:07:28.234965+00:00'
+updated: '2026-07-24T09:55:21.472038+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 07:07 UTC  
+**Last Updated:** July 24, 2026 at 09:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,869.44
+### $1,899.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** +1.6%  
-**30d:** +20.6%  
-**90d:** -20.2%  
-**1y:** -49.2%  
+**24h:** -2.1%  
+**7d:** +1.4%  
+**30d:** +20.4%  
+**90d:** -20.3%  
+**1y:** -49.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.10B
+**Market Cap:** $227.52B
 Rank #2
 
 **Circulating Supply:** 120,682,712 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.8%
+-61.9%
 
 **All-Time Low:** $0.43
-+436385.4%
++435440.8%
 
 ---
 
@@ -122,7 +122,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.
 
-🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 4d ago
+🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 5d ago
 
 ---
 
@@ -150,31 +150,31 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Ethereum options show bearish bias near key str...](https://pluang.com/en/news-feed/opsi-ethereum-miring-bearish-dekati-level-max-pain)**
+**[Ethereum's historic capitulation signals a stro...](https://pluang.com/en/news-feed/kapitulasi-terburuk-ethereum-eth-tunjukkan-sinyal-bullish)**
 
-Ethereum options on Deribit show a put-heavy positioning ahead of Friday's expiry, indicating a defensive market stance as ETH prices near key strike levels around $1,875. Solana options remain balanced with a slight call bias, while XRP shows mixed signals with bullish open interest but recent put-heavy trading. The proximity of spot prices to 'max pain' levels suggests potential volatility or price moves toward those strike prices as expiration nears. This positioning highlights cautious sentiment among traders, balancing downside protection with some upside exposure.
+Ethereum has experienced one of its longest and most severe capitulation phases, with a majority of its supply held at a loss since January. Despite this, recent on-chain data and price recovery from lows near $1,500 to around $1,890 indicate growing buyer momentum and resilience. Key resistance lies near $1,935, and a breakthrough could trigger a significant bullish phase as long-term investors accumulate at reduced prices while weaker holders exit. This capitulation period, though painful, may lay the foundation for Ethereum's next major price increase if market conditions remain favorable.
 
-Pluang • 48m ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
-
-Leading cryptocurrencies flatlined on Wednesday as investors weighed the implications of the Clarity Act and rising geopolitical tensions in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.64%$65,933.49Ethereum (CRYPTO: ETH) +0.05%$1,931.41XRP (CRYPTO: XRP) -0.32%$1.13Solana (CRYPTO: SOL) -0.18%$78.12Dogecoin (CRYPTO: DOGE) -0.79%$0.07287 Crypto Rally Cools Bitcoin failed to break through $67,000 and slipped back to $65,000 after encounter
-
-Yahoo Finance • 1d ago
+Pluang • 59m ago
 
 ---
 
-**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
+**[Ethereum’s Falling Fees Do Not Mean Falling Use, Bitwise Finds](https://finance.yahoo.com/markets/crypto/articles/ethereum-falling-fees-not-mean-075605281.html)**
 
-Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
+Ethereum fees fell 51% year-on-year while transactions rose and staking hit a record, per a new Bitwise report.
 
-Seeking Alpha • 18h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 10m ago
 
 ---
 
@@ -182,7 +182,7 @@ Seeking Alpha • 18h ago
 
 A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
 
-TradingView • 12h ago
+TradingView • 15h ago
 
 ---
 
@@ -190,15 +190,15 @@ TradingView • 12h ago
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 23, 2026](https://fortune.com/article/price-of-ethereum-07-23-2026/)**
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Fortune • 19h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -206,7 +206,7 @@ Fortune • 19h ago
 
 Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
 
-FXStreet • 19h ago
+FXStreet • 22h ago
 
 ---
 
@@ -214,7 +214,7 @@ FXStreet • 19h ago
 
 U.S. Spot ETH ETF has seen net inflows in the past two weeks.
 
-AMBCrypto • 2h ago
+AMBCrypto • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 354 • 💬 153 • ⏱️ 16:34 • 6h ago
+👁️ 7K • 👍 395 • 💬 171 • ⏱️ 16:34 • 9h ago
 
 ---
 
@@ -246,17 +246,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 973 • 👍 103 • 💬 26 • ⏱️ 6:26 • 5h ago
-
----
-
-**[Joseph Chalom: Ethereum Is Going On Offense (Be Early)](https://www.youtube.com/watch?v=lNvBwMRc5fo)**
-
-Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bullish dynamic once market sentiment turns.
-
-📺 The Rollup
-
-👁️ 2K • 👍 50 • 💬 8 • ⏱️ 3:42 • 23h ago
+👁️ 2K • 👍 128 • 💬 7 • ⏱️ 6:26 • 8h ago
 
 ---
 
@@ -266,17 +256,37 @@ Bitcoin and Ethereum are nearing major inflection points after BTC's pullback in
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 3K • 👍 308 • 💬 47 • ⏱️ 1:00:32 • 3h ago
+👁️ 4K • 👍 395 • 💬 55 • ⏱️ 1:00:32 • 6h ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=rgPMH1RcZFs)**
+**[Joseph Chalom: Ethereum Is Going On Offense (Be Early)](https://www.youtube.com/watch?v=lNvBwMRc5fo)**
 
-BITCOIN & CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bullish dynamic once market sentiment turns.
 
-📺 Crypto World
+📺 The Rollup
 
-👁️ 4K • 👍 208 • 💬 53 • ⏱️ 20:41 • 7h ago
+👁️ 2K • 👍 50 • 💬 8 • ⏱️ 3:42 • 1d ago
+
+---
+
+**[Ethereum Price Warning: Rising Wedge Targets $1,600 — or Will ETH Rally to $2,186?](https://www.youtube.com/watch?v=tYTud-wdBig)**
+
+Ethereum has gained roughly 25% over the past month, but ETH's daily chart is now flashing conflicting technical signals. A rising ...
+
+📺 FXEmpire
+
+👁️ 8 • ⏱️ 3:53 • 42m ago
+
+---
+
+**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom Sharplink](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
+
+Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
+
+📺 Thinking Crypto
+
+👁️ 5K • 👍 220 • 💬 27 • ⏱️ 17:49 • 2d ago
 
 ---
 
@@ -286,7 +296,7 @@ Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could re
 
 📺 Lark Davis
 
-👁️ 788 • 👍 31 • 💬 1 • ⏱️ 0:53 • 3h ago
+👁️ 1K • 👍 41 • 💬 3 • ⏱️ 0:53 • 5h ago
 
 ---
 
@@ -296,7 +306,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 103 • 💬 16 • ⏱️ 17:35 • 1d ago
+👁️ 3K • 👍 105 • 💬 16 • ⏱️ 17:35 • 1d ago
 
 ---
 
@@ -306,17 +316,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 548 • 💬 83 • ⏱️ 19:54 • 2d ago
-
----
-
-**[Charles Hoskinson on Cardano&#39;s Future, Ethereum&#39;s Mistakes, and Crypto&#39;s Missing Safety Net](https://www.youtube.com/watch?v=fz0WDcZO8gU)**
-
-After a bridge hack rattled the Cardano ecosystem, Charles Hoskinson, CEO and Founder of Input Output, joins Jennifer Sanasie ...
-
-📺 CoinDesk
-
-👁️ 3K • 👍 215 • 💬 52 • ⏱️ 45:44 • 13h ago
+👁️ 23K • 👍 550 • 💬 68 • ⏱️ 19:54 • 2d ago
 
 ---
 
