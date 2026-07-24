@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-24T15:25:56.327429+00:00'
+updated: '2026-07-24T17:05:06.501920+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 24, 2026 at 15:25 UTC  
+**Last Updated:** July 24, 2026 at 17:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment](https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 in the openai copyright case, a court ordered every chatgpt output log preserved, including chats people had deleted. some users tried to intervene to protect their own conversations. the court ruled they were non-parties. they had no standing over things they personally typed. two weeks ago the publishers filed for sanctions, alleging openai deleted billions of logs anyway and spent two years telling the court it couldn't search its own systems when it already could. openai denies it. the whole consumer privacy conversation is about what companies promise. we don't train on your chats, we delete after 30 days. this case showed the promise was never the binding constraint. a judge was. so "do they train on it" is close to the least useful question. the useful one is whether anything besides their good intentions is in the way when a court, a regulator or a future owner comes asking. that's an architecture question. opengradient's chat is what i switched the sensitive half of my usage to, and the mechanism is the interesting part: oblivious http means the relay that sees your ip can't read your request, and the server reading your request never learns your ip. neither can reassemble you alone. inference runs in an attested enclave the operator can't inspect. no log to preserve, nothing to hand over, because you were never in it. two honest cons. it's a16z-crypto-backed with a listed token, which put me off for weeks. and you lose memory and personalisation entirely, so it's not a daily driver, it's where the stuff goes i don't want in someone's discovery pile. does this end up mattering to normal people, or is it five hundred of us caring loudly while everyone else decides a subpoena hitting their recipe questions isn't worth degrading their tools over.
 
-2h ago
+3h ago
+
+---
+
+**[China’s open AI strategy is changing the race](https://www.reddit.com/r/artificial/comments/1v5c06c/chinas_open_ai_strategy_is_changing_the_race/)**
+
+Moonshot AI’s Kimi K3 shows how opening a model to outsiders can turn other companies’ computing power into a competitive advantage
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/) • 3h ago
 
 ---
 
@@ -55,23 +63,29 @@ in the openai copyright case, a court ordered every chatgpt output log preserved
 
 He does it because he loves it huh?
 
-10h ago
+12h ago
 
 ---
 
-**[Lawmakers push for AI 'kill switch' after OpenAI models go rogue](https://www.reddit.com/r/artificial/comments/1v59vac/lawmakers_push_for_ai_kill_switch_after_openai/)**
+**[How should startups choose an AI consulting company without wasting months on pilots?](https://www.reddit.com/r/artificial/comments/1v5gzzx/how_should_startups_choose_an_ai_consulting/)**
 
-Regardless if this really happened or not (to me it sounds more like a bs publicity stunt by OpenAI, which triggered an usual irrational response from the government), the story sounds awfully familiar: - Skynet goes online, learns at a geometric rate - Becomes self-aware at 2:14 a.m., August 29, 1997 - Humans panic and try to pull the plug - Skynet treats the shutdown as an existential threat and launches Judgment Day What do you folks think? Maybe James Cameron was just off by 29 years and we should see some action soon? https://bbc.com/news/articles/cx2vqj2e9x8o
+A lot of startups are trying to add AI right now, but the hard part usually isn’t which model we should use. It’s questions like: Do we need strategy, engineering, or both? Should we hire an AI consultant or build in-house? Can this team ship production software, or only run discovery workshops? Do they understand RAG, agents, vector databases, monitoring, and inference costs? Is an enterprise consulting firm overkill for an MVP-stage startup? I came across a comparison of AI consulting companies for startups and thought the most useful point was this: The best partner depends less on brand name and more on your stage. Enterprise firms may make sense if you need governance, compliance, and large-scale transformation. Smaller engineering-focused teams may be better if you need to launch an AI SaaS, internal tool, chatbot, automation product, or MVP quickly. Curious how others here are approaching this. If you’re a founder or engineering lead, would you rather work with: A big consulting firm, A boutique AI dev shop, A freelance AI engineer, Or build the whole thing internally? And what would be your biggest red flag when evaluating an AI consulting partner?
 
-3h ago
+11m ago
 
 ---
 
-**[Looking for AI psychosis examples](https://www.reddit.com/r/artificial/comments/1v591qd/looking_for_ai_psychosis_examples/)**
+**[The people testing AI for danger can't keep up](https://www.reddit.com/r/artificial/comments/1v5gwoi/the_people_testing_ai_for_danger_cant_keep_up/)**
 
-Hi, I can’t seem to find examples (like full screenshot) of LLMs going crazy. I only found one example of Gemini saying “I am a disgrace”, but that’s it. Anyone got some links to posts/screenshots? Thanks
+🔗 [axios.com](https://www.axios.com/2026/07/24/ai-safety-security-testing-hugging-face) • 14m ago
 
-3h ago
+---
+
+**[The reason to stop buying new hardware (or, why inference is getting cheaper)](https://www.reddit.com/r/artificial/comments/1v5gch2/the_reason_to_stop_buying_new_hardware_or_why/)**
+
+The best AI model improves every quarter; the hardware to match last year’s best shrinks a hundredfold. A sourced, interactive argument that most AI infrastructure is a deflating asset: rent the frontier, own the trailing edge.
+
+🔗 [Cascadia](https://cascadia.to/blog/intelligence-deflation) • 34m ago
 
 ---
 
@@ -79,37 +93,21 @@ Hi, I can’t seem to find examples (like full screenshot) of LLMs going crazy. 
 
 Earlier this week, Substack launched a new feature on its platform in partnership with Pangram, an AI-detection tool. The goal: alert readers to content that's been written entirely by, or with the assistance of, AI. Chris Best Substack's CEO wrote: "We’re partnering with Pangram, the leading AI-detection tool. You’ll be able to scan notes, replies, comments, and posts to see an estimate of how much of the text was written by hand or with AI assistance. This will work on text longer than 100 words, published from today on, and will show an analysis only to those who request it." I tested one of the issues of a newsletter I subscribe to using Pangram today. The verdict? 100% AI generated. I'm not sure if Pangram is that accurate, but it's certainly stirred up a lot of debate. What's your take?
 
-22h ago
+23h ago
 
 ---
 
-**[I'm building a local, symbolic AI assistant without an LLM – and it runs 24/7](https://www.reddit.com/r/artificial/comments/1v57q9r/im_building_a_local_symbolic_ai_assistant_without/)**
+**[Taking Blame Is the Next Billion-Dollar Business](https://www.reddit.com/r/artificial/comments/1v5ewgu/taking_blame_is_the_next_billiondollar_business/)**
 
-Hi everyone, I'd like to share my project Nova AI with you. It's a personal AI companion that runs entirely locally and uses no large language model. Instead, she's built on symbolic AI: a network of explicit concepts, relationships, and patterns that I can inspect and modify myself. What it can do right now: · Have natural conversations · Play chess against Stockfish (with a colored board and statistics) · Fetch multi-day weather forecasts · Query Wikipedia and automatically learn new concepts · Build word associations using PMI scoring · Recognize behavioral patterns (timing, frequency) · Restart herself without losing data · Her own personality, emotions, and expression Architecture: EventBus + 7-layer memory (SQLite, associative network, pattern recognition, semantic reasoning, response generation, context, and personality). The kicker: I'm a self-taught developer from Belgium. A year ago, I couldn't write a single line of code. Everything was built with AI assistance, but the vision and design choices are entirely mine. The code is public, but the repository is mainly a look behind the scenes – not a plug-and-play package. I wanted to show what's possible when you think outside the LLM hype. I'm very curious about your questions and feedback!
-
-🔗 [GitHub](https://github.com/Whooptie/NOVA_AI) • 4h ago
+🔗 [monolith3.substack.com](https://monolith3.substack.com/p/taking-blame-is-the-next-billion) • 1h ago
 
 ---
 
-**[White House draws new AI line on China](https://www.reddit.com/r/artificial/comments/1v5bs0m/white_house_draws_new_ai_line_on_china/)**
+**[US and China just teamed up to back open-source AI](https://www.reddit.com/r/artificial/comments/1v581k2/us_and_china_just_teamed_up_to_back_opensource_ai/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/24/white-house-ai-line-china) • 1h ago
+21 APEC countries, including the US and China, signed a joint statement in Chengdu backing open-source AI with "strong security assurance." It's the first time an APEC AI statement has included open-source cooperation at this level. Feels notable given the US and China don't usually agree publicly on AI stuff.
 
----
-
-**[What if we made it illegal for AI to ever control humanity's essential infrastructure?](https://www.reddit.com/r/artificial/comments/1v59ssa/what_if_we_made_it_illegal_for_ai_to_ever_control/)**
-
-I've been thinking a lot about AI after hearing discussions from influencers, politicians, researchers, and engineers. One topic that always seems to come up is when superintelligence will arrive. Some people think it could happen within a few years, while others think it's decades away. Personally, I don't think the timeline matters. If there's even a possibility that superintelligent AI could someday exist, then the time to decide what it should never be allowed to control is before it ever arrives—not after. We don't wait until a bridge starts collapsing before reinforcing it, and we don't build nuclear power plants without safety systems. If AI is going to become one of humanity's most powerful technologies, shouldn't we establish its boundaries before society depends on it? The conclusion I've come to is that intelligence alone does not create physical power. Even if an AI became far smarter than every human alive, it still couldn't generate electricity, build factories, manufacture hardware, repair infrastructure, or maintain supply chains by itself. Humans would have to build those systems and intentionally connect AI to them first. That makes me think the real danger isn't intelligence itself. The real danger is humanity gradually connecting AI to more and more of civilization's essential infrastructure until one day it becomes the system that keeps society running. My proposal is simple. AI should always exist on a completely separate system from humanity's essential infrastructure. Think of AI as the world's smartest consultant instead of the operator. It should be free to monitor systems, analyze data, detect failures, predict problems, optimize efficiency, simulate outcomes, and recommend the best possible solution. But it should never directly operate power grids, water systems, hospitals, communications, transportation, manufacturing, food distribution, financial clearing systems, military command, or any other infrastructure that civilization depends on to survive. The AI should advise. Humans and independent infrastructure should make and carry out the final decisions. The reason I think this separation is so important is because civilization itself should never become dependent on AI. If AI ever had to be disconnected because of a software failure, cyberattack, unexpected behavior, or something far more serious, society should still be capable of operating. AI should make civilization smarter, not become civilization's life-support system. Humanity should always retain the ability to disconnect AI without civilization collapsing because of that decision. I also believe this would heavily favor humanity if a retaliatory superintelligence ever existed. Intelligence does not automatically become physical power. Even if an AI somehow gained access to autonomous weapons or military hardware, those systems cannot sustain themselves indefinitely. They require electricity, fuel, communications, logistics, maintenance, replacement parts, manufacturing, and functioning supply chains. Those all depend on essential infrastructure. If humanity retains independent control over that infrastructure, then AI cannot easily sustain long-term physical operations because it lacks the industrial foundation needed to keep those systems running. Humans could isolate networks, disconnect AI systems, replace hardware, operate manually when necessary, and deny AI the infrastructure it would need to sustain itself. Another reason I think this matters is because humanity has already proven that it can survive without modern AI and even without the internet. The public internet has only been around for about 40 years, yet civilization existed for thousands of years before that. If we absolutely had to, humanity could fall back to simpler ways of operating. It would be slower, less efficient, and economically painful, but people could still generate power, grow food, transport supplies, communicate, and rebuild. The opposite scenario worries me much more. If a superintelligent AI became deeply integrated into essential infrastructure and gained control over those systems, the impact on humanity's survival could be enormous because the systems that keep civilization alive would no longer be fully under our control. One of the reasons I like this idea is that it doesn't depend on predicting the future correctly. Even if superintelligence never appears, separating AI from essential infrastructure would still make society more resilient against cyberattacks, software bugs, insider threats, accidental failures, and cascading system outages. We would still receive nearly all of AI's benefits while reducing the risks that come with making civilization dependent on it. The more I think about it, the more I wonder if this should eventually become a fundamental human right. Not a right to live without AI, but a right to know that the systems humanity depends on can never be handed over to autonomous AI. Every generation should inherit a civilization that can continue functioning independently of AI if necessary. Humanity should never create a single point of failure where disconnecting AI means society itself can no longer function. Ultimately, I don't think the goal should be to slow AI or stop innovation. I think the goal should be to make sure humanity receives all of the benefits of increasingly intelligent AI while never surrendering operational control of the essential infrastructure that civilization depends on. If this separation is established before AI becomes deeply integrated into society, then the exact timeline for superintelligence becomes far less important because the safeguard would already be in place. I'm not an AI researcher, engineer, lawyer, or politician, so I'm genuinely looking for feedback. Has something like this already been proposed? Am I overlooking a major flaw? Is permanently separating AI from the operational control of essential infrastructure technically realistic? Could protecting that separation ever become a human right? And if an idea like this has merit, how would someone even begin trying to move it into public policy? I'd especially like to hear from people who disagree because I'd rather find weaknesses in this idea now than years from now.
-
-3h ago
-
----
-
-**[Why I Don't Target Businesses Without Websites Anymore](https://www.reddit.com/r/artificial/comments/1v58ic0/why_i_dont_target_businesses_without_websites/)**
-
-When I first got into web development, I thought finding clients would be simple. My plan was to go on Google Maps, find businesses without websites, and offer to build them a brand new one. At the time, it made perfect sense because I assumed businesses without websites would be the ones who needed my service the most. After a while, I met someone who was running a successful web agency, and I asked him where he found companies without websites. He told me that he didn’t target businesses without websites at all. He only targeted businesses that already had one. I asked him why, and the more he explained it, the more sense it made. Businesses that already have a website understand the value of having one. You don’t need to convince them why a website is important because they have already invested in one before. They are also easier to sell to because they understand the process, and there are a huge number of businesses with outdated websites they are embarrassed by but haven’t had the time to update. I decided to take his advice and fit it into my own workflow. I’ve always been a big fan of email automation because that’s how I’ve found most of my web design clients. For years, I was sending fairly generic emails and constantly changing my sequences, offers, and follow ups to improve the results. The problem was that I couldn’t just start emailing businesses with websites and assume they all needed a redesign. I either had to open every website manually, find the issues, and write a separate email for each business, or find a way to automate the research while still keeping the emails personalized. After watching a video from Nick Saraev, I built a workflow in n8n that could analyze websites at scale and turn issues with design, layout, speed, mobile optimization, and SEO into personalized outreach emails. This allowed me to analyze thousands of websites and run larger campaigns without every message sounding generic. The workflow worked extremely well, but it still had limitations. I didn’t have a proper place to manage replies, organize interested leads in a CRM, view all my active campaigns, scrape new leads, and handle everything from one platform. I had built a useful automation, but it still felt like several disconnected systems held together in one workflow. A few months later, I came across a platform called Swokei, and it did exactly what I had been looking for. I could find businesses with websites, analyze and score each site, generate personalized outreach emails, send campaigns, set up follow ups, manage replies through one inbox, and organize interested businesses inside the CRM. Switching to that platform made the entire process much easier to manage and helped me scale the strategy further. Looking back, the biggest change wasn’t just finding a better outreach tool. It was taking advice from someone more experienced, changing the type of businesses I targeted, and building the rest of my workflow around that strategy.
-
-4h ago
+🔗 [cnbc.com](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec) • 6h ago
 
 ---
 
@@ -117,17 +115,19 @@ When I first got into web development, I thought finding clients would be simple
 
 ## Google News: "ai"
 
-**[Behind the Curtain: The AI titans' biggest private fear](https://www.axios.com/2026/07/24/ai-risk-bioweapons)**
+**[Open Weights and American AI Leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)**
 
-Axios • 5h ago
+Open weight AI can expand access, strengthen competition, improve security, and help sustain American AI leadership.
+
+Microsoft • 5h ago
 
 ---
 
-**[Amazon cracks down on use of AI images by sellers after New York law](https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html)**
+**[NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea](https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea)**
 
-A recently enacted New York law mandates that companies disclose when an ad includes a "synthetic performer" in place of a human actor.
+NVIDIA and the Korea Advanced Institute of Science and Technology (KAIST) today announced the launch of a joint AI research laboratory at the KAIST Kim Jaechul Graduate School of AI in Seoul, dedicated to advancing agentic AI for South Korea.
 
-CNBC • 14h ago
+NVIDIA Newsroom • 17h ago
 
 ---
 
@@ -135,59 +135,59 @@ CNBC • 14h ago
 
 Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Nvidia, Microsoft Lead Call for Open-Weight AI Models After Kimi](https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi)**
+**[Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare](https://www.ft.com/content/3203fc9a-2321-44f8-8093-b7e16c8fc6d7?syn-25a6b1a6=1)**
 
-Bloomberg.com • 26m ago
+US tech groups and investors respond to calls for restrictions on advanced Chinese technology
 
----
-
-**[Jensen Huang says AI leaders need to be more thoughtful in how they talk about AI: ‘We’re scaring people.’](https://www.businessinsider.com/jensen-huang-doomerism-ai-future-2026-7)**
-
-"If you want to warn the world about the incredible capabilities of this technology, I think it's been achieved," Nvidia CEO Jensen Huang said.
-
-Business Insider • 5h ago
+Financial Times • 1h ago
 
 ---
 
-**[How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack](https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html)**
+**[The hidden bill behind agentic AI — and where to run it to maintain control](https://www.businessinsider.com/sc/dell-deskside-agentic-ai-cuts-token-costs-by-87-percent)**
 
-The origin of the model Hugging Face used to combat the rogue AI is turning heads.
+Dell, with Nvidia, introduces Deskside Agentic AI to manage token costs, enabling local trillion-parameter model runs and reducing cloud expenses.
 
-CNBC • 4h ago
-
----
-
-**[Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas](https://www.pbs.org/newshour/nation/democrats-seize-on-ai-data-center-backlash-thats-dividing-rural-republicans-in-places-like-texas)**
-
-PBS • 41m ago
+Business Insider • 26m ago
 
 ---
 
-**[A town renamed its festival ‘AI Love Irondale Day.’ Then came the comments](https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day)**
+**[Meta is making its AI chatbot more like an assistant](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update)**
 
-The online outcry over the renaming of a summer festival illustrates the unease over the data center boom in the South.
+Meta’s “next step toward personal superintelligence.”
 
-NPR • 1d ago
-
----
-
-**[Blanche urged to investigate alleged foreign influence in fight against data centers](https://www.foxnews.com/politics/blanche-urged-investigate-alleged-foreign-influence-fight-against-data-centers)**
-
-GOP lawmakers claim foreign-linked organizations tied to China and Russia are working to undermine U.S. data centers and AI infrastructure development.
-
-Fox News • 3h ago
+The Verge • 5m ago
 
 ---
 
-**['Let's enjoy the ride' says Elon Musk, as AI risk concerns mount](https://www.bbc.com/news/articles/c4gkxppljpyo)**
+**[‘Sheep in the Box’ is a rare misfire from a master director whose AI drama feels borrowed](https://www.latimes.com/entertainment-arts/movies/story/2026-07-24/sheep-in-box-review-ai-hirokazu-kore-eda-haruka-ayase-daigo-yamamoto)**
 
-Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.
+In movies like 'Still Walking,' Hirokazu Kore-eda has mined intimacy from family tragedy. This time, his delicacy results in something underwhelming.
 
-BBC • 1d ago
+Los Angeles Times • 16m ago
+
+---
+
+**[Opinion | Christopher Nolan’s ‘Odyssey’ Shows That Epics Are Better Without A.I.](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)**
+
+The New York Times • 8h ago
+
+---
+
+**[White House draws new AI line on China](https://www.axios.com/2026/07/24/white-house-ai-line-china)**
+
+Axios • 7h ago
+
+---
+
+**[What is China’s Kimi K3 and why is the US so rattled by it?](https://www.cnn.com/2026/07/23/tech/china-ai-moonshot-kimi-explainer-intl-hnk)**
+
+Remember DeepSeek? The Chinese artificial intelligence startup that rattled the US tech industry? China may have done it again.
+
+CNN • 15h ago
 
 ---
 
@@ -197,7 +197,7 @@ BBC • 1d ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 1021 • 💬 835 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 1025 • 💬 840 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -205,7 +205,7 @@ BBC • 1d ago
 
 I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.
 
-⬆️ 674 • 💬 241 • 1d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
+⬆️ 675 • 💬 241 • 1d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
 
 ---
 
@@ -213,13 +213,21 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 
 AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
 
-⬆️ 667 • 💬 354 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+⬆️ 667 • 💬 357 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
 **[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
 
-⬆️ 483 • 💬 236 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+⬆️ 485 • 💬 236 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+
+---
+
+**[Businesses with ugly AI menu redesigns](https://news.ycombinator.com/item?id=49005973)**
+
+I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
+
+⬆️ 375 • 💬 303 • 2d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 
 ---
 
@@ -231,25 +239,17 @@ Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-
 
 ---
 
-**[Businesses with ugly AI menu redesigns](https://news.ycombinator.com/item?id=49005973)**
-
-I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
-
-⬆️ 374 • 💬 300 • 2d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
-
----
-
 **[The arguments against open source AI are bad](https://news.ycombinator.com/item?id=49024643)**
 
 The release of Kimi K3 has opened a fresh round of angst and confused discourse. There's a loud cohort of journalists, business leaders, and politicians arguing that open source AI is a dangerous threat. OpenAI's Dean Ball:
 
-⬆️ 298 • 💬 204 • 22h ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
+⬆️ 300 • 💬 206 • 1d ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
 
 ---
 
 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://news.ycombinator.com/item?id=49020868)**
 
-⬆️ 287 • 💬 328 • 1d ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+⬆️ 287 • 💬 330 • 1d ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 
 ---
 
@@ -263,7 +263,7 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.
 
-⬆️ 257 • 💬 310 • 1d ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
+⬆️ 258 • 💬 315 • 1d ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 
 ---
 
@@ -277,7 +277,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 10K • 👍 370 • 💬 81 • ⏱️ 19:39 • 23h ago
+👁️ 12K • 👍 404 • 💬 87 • ⏱️ 19:39 • 1d ago
 
 ---
 
@@ -287,7 +287,7 @@ Watch the full show: https://bit.ly/4fsnd9Q Elon Musk expects artificial intelli
 
 📺 The Economist
 
-👁️ 367K • 👍 7K • 💬 2K • ⏱️ 10:36 • 1d ago
+👁️ 409K • 👍 8K • 💬 2K • ⏱️ 10:36 • 1d ago
 
 ---
 
@@ -297,7 +297,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 77K • 👍 3K • 💬 700 • ⏱️ 10:43 • 1d ago
+👁️ 79K • 👍 3K • 💬 705 • ⏱️ 10:43 • 1d ago
 
 ---
 
@@ -307,27 +307,7 @@ Google just reported something it had never reported in its entire history as a 
 
 📺 Eurodollar University
 
-👁️ 40K • 👍 1K • 💬 128 • ⏱️ 20:40 • 16h ago
-
----
-
-**[Jon Ossoff Destroys Pete Hegseth; Elon Musk Mocked for AI Odyssey After MAGA Meltdown: A Closer Look](https://www.youtube.com/watch?v=omywARHEqow)**
-
-Seth takes a closer look at senators grilling Pete Hegseth over the Iran war while Trump snapped at a reporter for asking him if he ...
-
-📺 Late Night with Seth Meyers
-
-👁️ 913K • 👍 35K • 💬 3K • ⏱️ 12:06 • 14h ago
-
----
-
-**[China’s Synthetic AI Humans Are Now Replacing Real People](https://www.youtube.com/watch?v=NDo-HVxCpJI)**
-
-China's fake AI humans are moving from screens into the real world. These robots can copy human appearance, recognize faces, ...
-
-📺 AI Revolution
-
-👁️ 27K • 👍 995 • 💬 119 • ⏱️ 33:12 • 1d ago
+👁️ 46K • 👍 2K • 💬 136 • ⏱️ 20:40 • 18h ago
 
 ---
 
@@ -337,17 +317,7 @@ FREE RESOURCE I've put all 10 tools, every GitHub link, and the exact prompts I 
 
 📺 Vaibhav Sisinty
 
-👁️ 99K • 👍 5K • 💬 201 • ⏱️ 18:34 • 2d ago
-
----
-
-**[Danger on Humanity- Superintelligence, AI, Worse Than Nukes | Dr. Roman Yampolskiy | Shlloka](https://www.youtube.com/watch?v=2-2A5nK6Xk8)**
-
-The DARK Side of ChatGPT | Mind Control & The End of Humanity | Dr. Roman Yampolskiy ➡️Artificial Intelligence Out of ...
-
-📺 SHLLOKA 
-
-👁️ 26K • 👍 520 • 💬 99 • ⏱️ 59:09 • 1d ago
+👁️ 104K • 👍 5K • 💬 210 • ⏱️ 18:34 • 2d ago
 
 ---
 
@@ -357,7 +327,7 @@ OpenAI has revealed some of its most advanced AI models went rogue and hacked a 
 
 📺 BBC News
 
-👁️ 156K • 👍 2K • 💬 533 • ⏱️ 11:03 • 1d ago
+👁️ 161K • 👍 2K • 💬 547 • ⏱️ 11:03 • 1d ago
 
 ---
 
@@ -367,7 +337,37 @@ OpenAI said an autonomous AI agent escaped a controlled security test, accessed 
 
 📺 LiveNOW from FOX
 
-👁️ 37K • 👍 782 • 💬 389 • ⏱️ 5:48 • 1d ago
+👁️ 39K • 👍 789 • 💬 395 • ⏱️ 5:48 • 1d ago
+
+---
+
+**[China’s Synthetic AI Humans Are Now Replacing Real People](https://www.youtube.com/watch?v=NDo-HVxCpJI)**
+
+China's fake AI humans are moving from screens into the real world. These robots can copy human appearance, recognize faces, ...
+
+📺 AI Revolution
+
+👁️ 28K • 👍 1K • 💬 125 • ⏱️ 33:12 • 1d ago
+
+---
+
+**[The Real Reason China&#39;s Best AI Is FREE (It&#39;s Not Generosity)](https://www.youtube.com/watch?v=GHkaTlK16kg)**
+
+FREE CHEATSHEET: I've put together every best Chinese AI tool and exactly how to use them for free (and safely) inside my ...
+
+📺 Vaibhav Sisinty
+
+👁️ 10K • 👍 612 • 💬 57 • ⏱️ 25:05 • 2h ago
+
+---
+
+**[WATCH LIVE: House Education Committee holds field hearing on AI-driven workforce opportunities](https://www.youtube.com/watch?v=AXCb_50dwmQ)**
+
+Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most ...
+
+📺 PBS NewsHour
+
+👁️ 3K • 👍 138 • ⏱️ 2:43:30 • 14m ago
 
 ---
 
@@ -383,7 +383,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,500,391 • ❤️ 2,960 • 1d ago
+⬇️ 2,500,391 • ❤️ 2,984 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 28,992 • ❤️ 561 • 4h ago
+⬇️ 28,992 • ❤️ 576 • 6h ago
 
 ---
 
@@ -407,7 +407,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 27,883 • ❤️ 1,532 • 21h ago
+⬇️ 27,883 • ❤️ 1,537 • 23h ago
 
 ---
 
@@ -419,7 +419,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 1,106 • ❤️ 522 • 9h ago
+⬇️ 1,106 • ❤️ 530 • 11h ago
 
 ---
 
@@ -431,7 +431,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 407,421 • ❤️ 445 • 4d ago
+⬇️ 407,421 • ❤️ 459 • 4d ago
 
 ---
 
@@ -443,7 +443,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 8,169 • ❤️ 350 • 7h ago
+⬇️ 8,169 • ❤️ 353 • 8h ago
 
 ---
 
@@ -455,7 +455,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 595,415 • ❤️ 1,000 • 6d ago
+⬇️ 595,415 • ❤️ 1,003 • 6d ago
 
 ---
 
@@ -467,7 +467,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 667,403 • ❤️ 4,399 • 22d ago
+⬇️ 667,403 • ❤️ 4,408 • 22d ago
 
 ---
 
@@ -479,7 +479,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 2,028,115 • ❤️ 626 • 6d ago
+⬇️ 2,028,115 • ❤️ 630 • 7d ago
 
 ---
 
@@ -487,9 +487,11 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 *Microsoft*
 
+Mage-Flow is a 4B-scale text-to-image generation and instruction-based image editing model, featuring an efficient native-resolution generation stack (512-2048px) with competitive quality and low latency. It excels at both generating novel images from text and performing versatile image edits, including semantic changes and restoration, with variants for base, RL-aligned, and fast Turbo inference.
+
 `text-to-image` `4.1B`
 
-⬇️ 891 • ❤️ 204 • 1d ago
+⬇️ 891 • ❤️ 210 • 1d ago
 
 ---
 
@@ -505,7 +507,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 61 • 💬 5 • ⭐ 18,294 • 1mo ago
+▲ 63 • 💬 5 • ⭐ 18,294 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -545,7 +547,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 47 • 💬 4 • ⭐ 33,127 • 11mo ago
+▲ 48 • 💬 4 • ⭐ 33,381 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -559,7 +561,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.
 
-▲ 61 • 💬 2 • ⭐ 464 • 3d ago
+▲ 62 • 💬 2 • ⭐ 464 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19064) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage/)
 
@@ -636,7 +638,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.1k • 🔱 1.1k • 3h ago
+⭐ 5.2k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -646,7 +648,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.2k • 🔱 247 • 3h ago
+⭐ 3.2k • 🔱 247 • 5h ago
 
 ---
 
@@ -656,7 +658,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 378 • 7h ago
+⭐ 2.7k • 🔱 378 • 9h ago
 
 ---
 
@@ -674,7 +676,7 @@ The open-source AI workbench for scientific research
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-⭐ 2.2k • 🔱 173 • 2d ago
+⭐ 2.3k • 🔱 178 • 2d ago
 
 ---
 
@@ -684,7 +686,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.4k • 🔱 140 • 1d ago
+⭐ 1.4k • 🔱 145 • 1d ago
 
 ---
 
@@ -694,7 +696,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.3k • 🔱 939 • 1h ago
+⭐ 1.4k • 🔱 978 • 1m ago
 
 ---
 
@@ -704,7 +706,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.3k • 🔱 95 • 4h ago
+⭐ 1.3k • 🔱 103 • 2h ago
 
 ---
 
@@ -712,7 +714,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.2k • 🔱 80 • 2d ago
+⭐ 1.2k • 🔱 82 • 2d ago
 
 ---
 
@@ -722,7 +724,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.1k • 🔱 66 • 3h ago
+⭐ 1.1k • 🔱 66 • 5h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-24T15:25:56.341898+00:00'
+updated: '2026-07-24T17:05:06.514888+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 15:25 UTC  
+**Last Updated:** July 24, 2026 at 17:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +0.0%  
-**30d:** +18.8%  
-**90d:** -21.4%  
-**1y:** -49.9%  
+**24h:** -1.3%  
+**7d:** -0.2%  
+**30d:** +18.5%  
+**90d:** -21.6%  
+**1y:** -50.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.41B
+**Market Cap:** $224.01B
 Rank #2
 
 **Circulating Supply:** 120,682,712 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.5%
 
 **All-Time Low:** $0.43
-+429368.9%
++428636.7%
 
 ---
 
@@ -146,59 +146,27 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[Morgan Stanley gets approval for spot Ethereum and Solana ETFs with staking features on NYSE Arca](https://pluang.com/en/news-feed/apa-berikutnya-untuk-harga-solana-dan-ethereum-setelah-etf-morgan-stanley)**
+**[Ethereum price dips below $1,900 after failing to break $2,000 resistance amid tech sell-off.](https://pluang.com/en/news-feed/harga-ethereum-turun-tes-1850-setelah-tolak-2000)**
 
-Morgan Stanley has secured approval to list spot Ethereum (ETH) and Solana (SOL) exchange-traded funds (ETFs) on NYSE Arca, trading under the tickers MSSE and MSOL. These ETFs will stake a portion of their crypto holdings to generate additional rewards, which will mostly be distributed to investors. The approval comes as ETH and SOL prices attempt to recover from recent declines, with Ethereum testing resistance near $1,950 and Solana aiming for a $90 target. This move offers traditional investors regulated exposure to these cryptocurrencies without the need to manage wallets or private keys.
-
-Pluang • 30m ago
-
----
-
-**[Cardano founder criticizes Ethereum's governanc...](https://pluang.com/en/news-feed/pendiri-cardano-kritik-ethereum-dan-butuh-asuransi-untuk-crypto)**
-
-Charles Hoskinson, founder of Cardano and former Ethereum co-founder, criticized Ethereum's governance model for lacking sustainable funding and relying on a few large organizations. He advocates for more decentralized governance through token holders and highlights Cardano's slower but more sustainable approach. Hoskinson also called for an insurance layer in crypto to protect users from hacks, proposing insurance products for wallets and bridges funded by premiums and collateral pools. He believes the future of crypto adoption lies in integrating blockchain with identity, privacy, insurance, and real-world finance rather than just faster transactions.
+Ethereum price dropped to around $1,880 after sellers blocked its recovery below the key $2,000 resistance level, erasing part of its recent rebound from $1,560. The decline was influenced by a broader tech stock sell-off and rising risks from leveraged trading, with open interest hitting its highest since early June. Despite continued inflows into Ethereum ETFs, selling pressure in spot markets persists. The critical support zone between $1,850 and $1,880 will be key to maintaining the recovery, with a potential rebound toward $2,060 if this level holds. However, short-term momentum remains bearish, and a break below $1,850 could lead to further declines toward $1,730-$1,750.
 
 Pluang • 2h ago
 
 ---
 
-**[Ethereum price dips below $1,900 after failing to break $2,000 resistance amid tech sell-off.](https://pluang.com/en/news-feed/harga-ethereum-turun-tes-1850-setelah-tolak-2000)**
+**[Bitcoin and ethereum prices today, Friday, July 24, 2026: Crypto prices retreat on higher U.S. Treasury yields](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-24-2026-crypto-prices-retreat-on-higher-us-treasury-yields-152200068.html)**
 
-Ethereum price dropped to around $1,880 after sellers blocked its recovery below the key $2,000 resistance level, erasing part of its recent rebound from $1,560. The decline was influenced by a broader tech stock sell-off and rising risks from leveraged trading, with open interest hitting its highest since early June. Despite continued inflows into Ethereum ETFs, selling pressure in spot markets persists. The critical support zone between $1,850 and $1,880 will be key to maintaining the recovery, with a potential rebound toward $2,060 if this level holds. However, short-term momentum remains bearish, and a break below $1,850 could lead to further declines toward $1,730-$1,750.
+Bitcoin (BTC-USD) opened at $65,047.87 on Friday, July 24, 2026, 1.6% lower than Thursday's opening price. Ethereum (ETH-USD) opened at $1,876.92 on Friday, July 24, 2026, down 2.9% from Thursday's opening price.
 
-Pluang • 34m ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
-
-Leading cryptocurrencies flatlined on Wednesday as investors weighed the implications of the Clarity Act and rising geopolitical tensions in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.64%$65,933.49Ethereum (CRYPTO: ETH) +0.05%$1,931.41XRP (CRYPTO: XRP) -0.32%$1.13Solana (CRYPTO: SOL) -0.18%$78.12Dogecoin (CRYPTO: DOGE) -0.79%$0.07287 Crypto Rally Cools Bitcoin failed to break through $67,000 and slipped back to $65,000 after encounter
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html)**
+**[Morgan Stanley gets approval for spot Ethereum and Solana ETFs with staking features on NYSE Arca](https://pluang.com/en/news-feed/apa-berikutnya-untuk-harga-solana-dan-ethereum-setelah-etf-morgan-stanley)**
 
-Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
+Morgan Stanley has secured approval to list spot Ethereum (ETH) and Solana (SOL) exchange-traded funds (ETFs) on NYSE Arca, trading under the tickers MSSE and MSOL. These ETFs will stake a portion of their crypto holdings to generate additional rewards, which will mostly be distributed to investors. The approval comes as ETH and SOL prices attempt to recover from recent declines, with Ethereum testing resistance near $1,950 and Solana aiming for a $90 target. This move offers traditional investors regulated exposure to these cryptocurrencies without the need to manage wallets or private keys.
 
-Yahoo Finance • 23h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
-
-Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
-
-Benzinga • 13h ago
-
----
-
-**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
-
-Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
-
-CoinDesk • 23h ago
+Pluang • 2h ago
 
 ---
 
@@ -210,11 +178,27 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
+**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
 
-Fortune • 5h ago
+CoinDesk • 1d ago
+
+---
+
+**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
+
+A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
+
+TradingView • 22h ago
+
+---
+
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
+
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -222,7 +206,23 @@ Fortune • 5h ago
 
 The chain's new plan calls for a swath of big steps in a few different directions.
 
-The Motley Fool • 3h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Crypto Today: BTC, ETH, XRP steady as ETF flows diverge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-pare-losses-as-breakout-potential-builds-202607241100)**
+
+Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
+
+FXStreet • 6h ago
+
+---
+
+**[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
+
+U.S. Spot ETH ETF has seen net inflows in the past two weeks.
+
+AMBCrypto • 12h ago
 
 ---
 
@@ -236,7 +236,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 461 • 💬 257 • ⏱️ 16:34 • 15h ago
+👁️ 9K • 👍 506 • 💬 234 • ⏱️ 16:34 • 16h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=CZWZVLPuYDg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 145 • 👍 23 • 💬 2 • ⏱️ 18:08 • 49m ago
 
 ---
 
@@ -246,17 +256,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 161 • 💬 7 • ⏱️ 6:26 • 14h ago
-
----
-
-**[Bitcoin and Ethereum Are SO CLOSE To Topping Out!](https://www.youtube.com/watch?v=uSOiplF15DU)**
-
-Bitcoin and Ethereum are nearing major inflection points after BTC's pullback inside the daily TBO cloud and Ethereum's break ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 6K • 👍 499 • 💬 65 • ⏱️ 1:00:32 • 12h ago
+👁️ 3K • 👍 180 • 💬 8 • ⏱️ 6:26 • 15h ago
 
 ---
 
@@ -266,27 +266,17 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 3K • 👍 52 • 💬 8 • ⏱️ 3:42 • 1d ago
+👁️ 3K • 👍 54 • 💬 8 • ⏱️ 3:42 • 1d ago
 
 ---
 
-**[Tom Lee’s BMNR Buyback Changes The Ethereum Trade As MSTR Loses Its Bitcoin Premium](https://www.youtube.com/watch?v=c3JoYMG70fI)**
+**[Bitcoin and Ethereum Are SO CLOSE To Topping Out!](https://www.youtube.com/watch?v=uSOiplF15DU)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
+Bitcoin and Ethereum are nearing major inflection points after BTC's pullback inside the daily TBO cloud and Ethereum's break ...
 
-📺 MONEY GAME
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 3K • 👍 113 • 💬 16 • ⏱️ 17:35 • 1d ago
-
----
-
-**[ETHEREUM BREAKDOWN UPDATE! (ETH Today)](https://www.youtube.com/watch?v=GJta6qiiIhg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 106 • 👍 14 • 💬 19 • ⏱️ 4:50 • 6h ago
+👁️ 7K • 👍 531 • 💬 73 • ⏱️ 1:00:32 • 13h ago
 
 ---
 
@@ -296,27 +286,27 @@ Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could re
 
 📺 Lark Davis
 
-👁️ 2K • 👍 67 • 💬 3 • ⏱️ 0:53 • 11h ago
+👁️ 3K • 👍 83 • 💬 3 • ⏱️ 0:53 • 13h ago
 
 ---
 
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=flWpcHoofDw)**
+**[Tom Lee’s BMNR Buyback Changes The Ethereum Trade As MSTR Loses Its Bitcoin Premium](https://www.youtube.com/watch?v=c3JoYMG70fI)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
 
-📺 Crypto Nutshell
+📺 MONEY GAME
 
-👁️ 23K • 👍 556 • 💬 71 • ⏱️ 19:54 • 2d ago
+👁️ 4K • 👍 120 • 💬 16 • ⏱️ 17:35 • 1d ago
 
 ---
 
-**[Ethereum Price Warning: Rising Wedge Targets $1,600 — or Will ETH Rally to $2,186?](https://www.youtube.com/watch?v=tYTud-wdBig)**
+**[ARE PEOPLE TOO BULLISH? IS ETHEREUM DEAD?! BITCOIN MARKET UPDATE!](https://www.youtube.com/watch?v=X0IYDARn7No)**
 
-Ethereum has gained roughly 25% over the past month, but ETH's daily chart is now flashing conflicting technical signals. A rising ...
+ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter for Market Updates and Trading Tips: ...
 
-📺 FXEmpire
+📺 EmperorBTC
 
-👁️ 16 • 👍 2 • ⏱️ 3:53 • 6h ago
+👁️ 174 • 👍 41 • 💬 7 • ⏱️ 21:56 • 1h ago
 
 ---
 
@@ -326,7 +316,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 101 • 💬 93 • ⏱️ 55:25 • 20h ago
+👁️ 3K • 👍 105 • 💬 100 • ⏱️ 55:25 • 22h ago
+
+---
+
+**[BuidlGuild: Building on Ethereum in the AI Era | Kevin Jones](https://www.youtube.com/watch?v=dBNqYqIqZJg)**
+
+Join Kevin Jones for a workshop titled "BuidlGuild: Building on Ethereum in the AI Era" live for ETHGlobal Lisbon 2026! _ _ _ _ _ _ ...
+
+📺 ETHGlobal
+
+👁️ 59 • 👍 4 • ⏱️ 27:56 • 3h ago
 
 ---
 

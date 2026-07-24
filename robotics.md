@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-24T15:25:56.345072+00:00'
+updated: '2026-07-24T17:05:06.517747+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 24, 2026 at 15:25 UTC  
+**Last Updated:** July 24, 2026 at 17:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 - Weight: ~25 kg with battery. - Speed: Over 6 m/s (higher than the pure-legged As2). - Payload: Continuous ~16 kg; higher static capacity. - Endurance: Unloaded >3 hours / 30+ km; loaded (>16 kg) >2 hours / >16 km. Same 648 Wh (15,000 mAh) battery class as the As2. - Mobility: Up to ~80 cm obstacles, 45° slopes, 30 cm stairs; strong on gravel, rocky, and uneven outdoor terrain. https://www.unitree.com/As2-W
 
-4h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 -
 
 Hey everyone, A while back, I posted here asking for advice on my $149 metal cycloidal actuator project. A lot of folks asked me why I was so obsessed with pushing the hardware BOM cost down so aggressively. Well, this video is exactly why. My co-founder Yiteng and I just released AlohaMini2. To our knowledge, it's the first sub-$1,000 self-build BOM robot capable of end-to-end, long-horizon autonomous tasks (like this grocery manipulation). Here is the technical takeaway that I think will interest this community: The Compute Barrier is Gone: This wasn't trained on a server farm. The AM-ACT policy was trained and deployed entirely on a standard 8GB consumer GPU. Data Efficiency: It only took 50 human demonstration episodes to reach a 50% end-to-end success rate on this specific long-horizon task. We are open-sourcing the entire repo (hardware files & codebase) because we want to prove that you don't need a multi-million-dollar lab to play with cutting-edge Embodied AI anymore. The Real Bottleneck Now? Hardware Reliability. While the software/policy side is moving at lightspeed, keeping a $1,000 robot mechanically alive during 24/7 RL training is a nightmare. 3D printed gears strip, cheap servos overheat. That’s exactly what drove me to start designing metal actuators in the first place. Repo link for anyone who wants to build one or dive into the code:https://github.com/liyiteng/AlohaMini I’m curious—if the software barrier is this low now, what tasks would you guys train a cheap $1k robot to do at home?
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hey everyone, A while back, I posted here asking for advice on my $149 metal cyc
 
 Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workload-benchmark/ running extended ROS 2 workloads. Pretty cool HW-wise, especially with recent Jetson 50-100% price increase. Hopefully AMD won't price it same as new Thor price 👀 Also vote if you can what HW you use to run ROS (if you use ROS)
 
-🔗 [AMD](https://www.amd.com/en/products/system-on-modules/kria/ai.html) • 4h ago
+🔗 [AMD](https://www.amd.com/en/products/system-on-modules/kria/ai.html) • 6h ago
 
 ---
 
@@ -60,7 +60,7 @@ Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workloa
 
 Hi everyone I need your help! I don't know if this is the right place for this post, but I'll give it a shot. My thesis is to write a manual for this particular rover and also make a "test drive" with it. I drew the plan in mission planner, changed the necessary parameters and det the rc to auto. Every time it starts with here 3 being solid green and then stops and the colours are flashing yellow and red which I think it means that it lost connection. Then it gets solid green again but i have to switch it back to manual and then auto in order to start again to move and then suddenly stop. I want to clarify that it doesn't stop each tme after a specific amount of time, but it's random. I tried one suggestion which was to raise the here 3 up to 15cm (in the photo is 14.5cm) but once again it didn't work. I should note that lidar should have worked also (by work i mean it should have meade the rc to avoid obstacles) but it doesn't and i'm curious if this is causing the problem. Anyway don't hesitate to ask every detail you want in the comments, I will appreciate all the help you can give me!
 
-6h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hi everyone I need your help! I don't know if this is the right place for this p
 
 Design files (DXF) and Arduino code: https://drive.google.com/drive/folders/13WhHXtmIfWlrlRav29l_HFwwOCRubMLY?usp=sharing
 
-21h ago
+23h ago
 
 ---
 
@@ -76,7 +76,7 @@ Design files (DXF) and Arduino code: https://drive.google.com/drive/folders/13Wh
 
 In a robot demo, I usually watch what happens right after the first miss. Does the robot look again and change its approach, repeat the same motion, or wait for someone off camera to reset the object? For a LingBot-VLA 2.0 evaluation, keep the camera running through the failed grasp and the retry. The useful details are the object's new pose, whether the policy receives a fresh observation, how the next approach point changes, and when a human takes over. A short uncut sequence would answer more than several successful clips. I am less sure how controlled the failure should be. A fixed perturbation makes comparisons easier, but it can also turn the demo into a lab exercise that misses messy real failures. How do people here test recovery and still keep the setup repeatable?
 
-3h ago
+5h ago
 
 ---
 
@@ -92,7 +92,7 @@ Do not sign up with this company unless you want to be scammed. I signed up for 
 
 Last week, our marketing team asked me to help shoot a 20-second demo video. Just have our 6-axis arm (Alicia-M) pick up a wooden block, drop it into a small bin, then grab the bin and tip the block out. Twenty seconds. Simple. It was not simple. Here's what I learned watching a non-engineer try to teach this arm the sequence. The first step — pick up the block and drop it in the bin — was almost easy. The second step — grab the bin and tip the block out — broke her brain for two days. Two failure modes I watched her hit, over and over: I can't find the right angle to tip it out." She'd pick up the bin, then spend ten minutes trying different left/right tilts. Nothing worked. The block would either stay stuck in the bin or fly off in a random direction. The cause wasn't the angle she was choosing — it was that she was trying to fix the bin's orientation when the real problem was the block's exit path. The block leaves the bin at an angle that's the sum of the bin's tilt, the bin's rotation around vertical, and gravity. She was tuning one variable; the block was moving in three. The arm missed completely." She'd press go, the gripper would close on empty air, and she'd say "the arm missed it." But the arm didn't miss. The end effector was exactly where the program told it to be. She was watching the block from a camera angle that offset her mental "where" by 2-3 cm. The fix wasn't the arm. The fix was moving the camera to a top-down view, so her mental model matched the arm's coordinate frame. The lesson I didn't expect: I thought I was going to teach her. I came out learning to debug faster. Engineers debug with hypotheses: "the angle is off, let me check the code." Non-engineers debug with action: "let me try the other side, let me close harder." Her action-first approach was noisier — five parameter changes in the time it takes me to formulate one hypothesis — but after I asked her to ask "what did I just see?" before "what should I change?", the pattern emerged. By attempt 20, she could predict the failure before it happened. The third time the bin tilted the wrong way, she said "wait — I'm not picking the angle, I'm picking the trajectory the block will follow." And then she solved it in two tries. The rule I'm keeping: after every failure, describe what you saw. Then diagnose. For those who've taught a non-engineer to use a robot arm: what was the moment your student had the "I can read the failure now" breakthrough? Was it a "the angle is wrong" moment, or a "I'm chasing the wrong variable" moment?
 
-7h ago
+9h ago
 
 ---
 
@@ -128,7 +128,13 @@ Time Magazine • 1d ago
 
 A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
+
+---
+
+**[Eric Trump-backed Foundation partners with AMD to develop humanoid robots](https://www.reuters.com/business/eric-trump-backed-foundation-partners-with-amd-develop-humanoid-robots-2026-07-23/)**
+
+Reuters • 22h ago
 
 ---
 
@@ -138,55 +144,45 @@ South China Morning Post • 1d ago
 
 ---
 
+**[Tesla's push into AI and robotics is proving costly](https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending)**
+
+Axios • 1d ago
+
+---
+
+**[For The First Time Ever, Humanoid Robots Perform Surgery on Live Animals](https://www.sciencealert.com/world-first-humanoid-robots-perform-surgery-on-live-animals-this-could-prove-useful-in-space)**
+
+For the first time ever, humanoid robots operated by surgeons have successfully performed laparoscopic gallbladder removal in pigs.
+
+ScienceAlert • 2d ago
+
+---
+
+**[U.S. Robotics Leadership Is Not Guaranteed](https://www.piratewires.com/p/us-robotics-leadership-is-not-guaranteed)**
+
+Pirate Wires • 23h ago
+
+---
+
+**[China's Unitree says 'GPT moment' for robots remains years away](https://asia.nikkei.com/spotlight/nikkei-forum/global-digital-summit/global-digital-summit-2026/china-s-unitree-says-gpt-moment-for-robots-remains-years-away)**
+
+Humanoid leader to put almost half of IPO proceeds into embodied AI research
+
+Nikkei Asia • 2d ago
+
+---
+
+**[Robots can now learn high-dexterity factory tasks from video with minimal training](https://interestingengineering.com/ai-robotics/robots-can-now-learn-high-dexterity-factory-tasks-from-video-with-minimal-training)**
+
+Mimic Robotics unveils FLUX-mimic, enabling industrial robots to learn complex tasks from video with far less training data.
+
+Interesting Engineering • 1h ago
+
+---
+
 **[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
 
-Bloomberg.com • 7h ago
-
----
-
-**[Tech Moves: Agility Robotics gets CFO; Microsoft security departure; Zap's legal officer; new KEXP CPTO](https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/)**
-
-Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
-
-GeekWire • 21h ago
-
----
-
-**[AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics](https://www.crn.com/news/ai/2026/amd-advancing-ai-2026-top-news-on-ai-chips-cpus-robotics)**
-
-AMD revealed new offers around Helios rackscale, MI400 GPUs, new Epyc CPUs, a robotics partner network and more during its annual conference.
-
-crn.com • 16h ago
-
----
-
-**[Connecting the human mind with robots thanks to AI](https://www.cnn.com/2026/07/23/business/video/vivatech-2026-habs-innov8-ai-robot-mind-connection-spc-digvid)**
-
-At the 10th edition of VivaTech if Paris, we explore how AI is moving from hype to hardware, as robots steal the spotlight. From dancing machines to human mind-connected tech, CNN’s Anna Stewart tests a system that lets humans control robots using their thoughts - blurring the line between human and machine.
-
-CNN • 1d ago
-
----
-
-**[Volkswagen Strengthens Horizon Robotics Tie-Up to Advance Self-Driving Technology in China](https://www.wsj.com/business/autos/volkswagen-strengthens-horizon-robotics-tie-up-to-advance-self-driving-technology-in-china-9b4e72bd)**
-
-WSJ • 2d ago
-
----
-
-**[Robotic Servicing Mission Launches with NASA Support](https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/)**
-
-Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic
-
-NASA (.gov) • 1d ago
-
----
-
-**[Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)**
-
-Shashua has been invited to take the chairman of the board seat.
-
-TechCrunch • 16h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -200,7 +196,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 2.4M • 👍 2K • 💬 399 • ⏱️ 2:15 • 4d ago
+👁️ 2.5M • 👍 2K • 💬 406 • ⏱️ 2:15 • 4d ago
 
 ---
 
@@ -210,7 +206,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 47K • 👍 499 • 💬 186 • ⏱️ 4:18 • 6d ago
+👁️ 47K • 👍 500 • 💬 188 • ⏱️ 4:18 • 6d ago
 
 ---
 
@@ -220,7 +216,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 27K • 👍 747 • 💬 105 • ⏱️ 13:15 • 5d ago
+👁️ 27K • 👍 748 • 💬 105 • ⏱️ 13:15 • 5d ago
 
 ---
 
@@ -230,17 +226,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 48K • 👍 2K • 💬 150 • ⏱️ 12:28 • 3d ago
-
----
-
-**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
-
-AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
-
-📺  Beesoft Bd
-
-👁️ 99K • 💬 3 • ⏱️ 0:16 • 1d ago
+👁️ 49K • 👍 2K • 💬 155 • ⏱️ 12:28 • 3d ago
 
 ---
 
@@ -250,17 +236,7 @@ China's latest robotic bricklayer is transforming the future of construction by 
 
 📺 RedTech Insights
 
-👁️ 22K • 👍 431 • 💬 35 • ⏱️ 19:31 • 3d ago
-
----
-
-**[From laundry to retail: Humanoid robots shine at China&#39;s World AI Conference](https://www.youtube.com/watch?v=Gv9G3wOlYPQ)**
-
-Robodogs and dancing robots are headlining tech shows everywhere. But at the World AI Conference in Shanghai, it's the robots ...
-
-📺 CNA
-
-👁️ 5K • 👍 55 • 💬 17 • ⏱️ 3:18 • 3d ago
+👁️ 22K • 👍 432 • 💬 35 • ⏱️ 19:31 • 3d ago
 
 ---
 
@@ -270,17 +246,7 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 
 📺 S3 | Science, Startups, & Stories
 
-👁️ 37K • 👍 1K • 💬 95 • ⏱️ 14:37 • 5d ago
-
----
-
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
-
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
-
-📺 New York Post
-
-👁️ 31K • 👍 671 • 💬 317 • ⏱️ 2:02 • 2d ago
+👁️ 37K • 👍 1K • 💬 96 • ⏱️ 14:37 • 6d ago
 
 ---
 
@@ -290,7 +256,37 @@ Everyone is asking if killer robots are coming. Wrong question. One already knoc
 
 📺 Ambrose In China
 
-👁️ 559K • 👍 20K • 💬 4K • ⏱️ 2:25 • 4d ago
+👁️ 568K • 👍 20K • 💬 4K • ⏱️ 2:25 • 4d ago
+
+---
+
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+
+📺 New York Post
+
+👁️ 35K • 👍 759 • 💬 342 • ⏱️ 2:02 • 2d ago
+
+---
+
+**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
+
+War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 13K • 👍 535 • 💬 185 • ⏱️ 14:51 • 1d ago
+
+---
+
+**[What’s Wrong with Japanese Robotics and AI?](https://www.youtube.com/watch?v=gkzxgJH2Wzc)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: https://www.instagram.com/pro_robots Did Japan Lose the ...
+
+📺 PRO ROBOTS
+
+👁️ 10K • 👍 314 • 💬 36 • ⏱️ 15:59 • 4d ago
 
 ---
 
