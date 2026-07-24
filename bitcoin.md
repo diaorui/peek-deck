@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-24T13:46:23.561059+00:00'
+updated: '2026-07-24T15:25:56.335897+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 13:46 UTC  
+**Last Updated:** July 24, 2026 at 15:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,864.46
+### $64,144.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -0.6%  
-**30d:** +8.0%  
-**90d:** -18.0%  
-**1y:** -45.2%  
+**24h:** -1.0%  
+**7d:** -1.1%  
+**30d:** +7.4%  
+**90d:** -18.5%  
+**1y:** -45.5%  
 
 ---
 
@@ -77,71 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[I'm 31 and just put my work savings into BTC](https://www.reddit.com/r/Bitcoin/comments/1v5e3p7/im_31_and_just_put_my_work_savings_into_btc/)**
+
+So yeah… I finally did it. After years of working, saving, overthinking, and pretending I was waiting for the “perfect entry,” I moved about $48,000 of my savings into Bitcoin. That’s basically most of what I’ve built from my job over the last few years. Not some lottery money. Not daddy money. Just paychecks, side gigs, skipping dumb expenses, and trying not to blow it all on random stuff xD I’m not saying this is smart. I’m not telling anyone to copy me. I know BTC can still drop 20–30% and make me look like a clown by next week. But I’m 31, no major family responsibilities yet, and I’d rather take a real shot now than sit around for another 10 years saying “I should’ve bought more.” I’m still keeping a small mining angle with oneminers too, so I’m not only relying on staring at candles like a stressed goblin. Plan is simple: hold long term, survive the ugly dips, ignore the noise, and see where this thing is in 10 years. Could be genius. Could be cope. Either way, I picked my lane.
+
+16m ago
+
+---
+
 **[Markets are Down, Bitcoin is Still Working as it is. Keep HODLing, time will change.](https://www.reddit.com/r/Bitcoin/comments/1v4u66b/markets_are_down_bitcoin_is_still_working_as_it/)**
 
 I am very much confident of a bottom within a few weeks. Bitcoin isn't going helow 60k.
 
-14h ago
+16h ago
 
 ---
 
 **[The Orange Revolution](https://www.reddit.com/r/Bitcoin/comments/1v4yg68/the_orange_revolution/)**
 
-11h ago
-
----
-
-**[I started the DCA back in the game 2 weeks ago 67% allocated](https://www.reddit.com/r/Bitcoin/comments/1v4tel1/i_started_the_dca_back_in_the_game_2_weeks_ago_67/)**
-
-Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people advising to sell the last few days, saying we are going to do another 20-30% dump.. essentially the argument is that we are entering a no more cheap money period, and we aren’t getting rate cuts any time soon, there’s no halving in the next few years so there are no bullish catalysts.. and the technical setup isn’t great. Whats everyone doing rn? We adding, holding or trimming?
-
-14h ago
-
----
-
-**[Daily Discussion, July 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1v52sav/daily_discussion_july_24_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-7h ago
-
----
-
-**[Recommended non kyc exchanges?](https://www.reddit.com/r/Bitcoin/comments/1v4kocn/recommended_non_kyc_exchanges/)**
-
-Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
-
-20h ago
-
----
-
-**[LFG](https://www.reddit.com/r/Bitcoin/comments/1v3z9nm/lfg/)**
-
-1d ago
-
----
-
-**[Another bank, bending the knee: BancaStato Launches Bitcoin Trading](https://www.reddit.com/r/Bitcoin/comments/1v45hlm/another_bank_bending_the_knee_bancastato_launches/)**
-
-BancaStato has become the latest Swiss bank to offer regulated bitcoin trading through its existing banking apps via Sygnum's infrastructure.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 1d ago
-
----
-
-**[The US government moved $297M in seized crypto to Coinbase Prime last week. Most coverage is missing that only half of it is actually protected from sale.](https://www.reddit.com/r/Bitcoin/comments/1v4deqf/the_us_government_moved_297m_in_seized_crypto_to/)**
-
-On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, roughly 297 million dollars combined, into Coinbase Prime custody. Sale speculation followed immediately. The detail almost nobody is explaining clearly: Executive Order 14233, which created the Strategic Bitcoin Reserve, only protects Bitcoin from sale. Ether and other seized digital assets fall under a separate framework where Treasury has discretion. So the 244 million in Bitcoin here is protected on paper, the 53 million in Ether is not. The Bitcoin traces to two forfeiture cases, roughly 2,875 BTC from a dark web dealer known as Xanaxman and about 925.5 BTC linked to the old BTC-e exchange. The Ether comes from a former Oracle employee's money laundering case. Worth noting too that a deposit to Coinbase Prime is not proof of an impending sale. The Marshals Service has an active custody contract with Coinbase Prime specifically for managing seized assets, and similar transfers in January, May, and June this year did not result in confirmed liquidations. The bigger structural point is that Executive Order 14233 is policy, not statute. Congress introduced a bill in May to codify the reserve with a 20 year holding requirement, but it has not moved out of committee. Until it does, Bitcoin's protected status here rests on one administration's choice, reversible by the next. Full writeup with sourcing: https://davidebtc186.substack.com/p/the-us-government-just-moved-297m
-
-1d ago
-
----
-
-**[Investing into bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1v4aabe/investing_into_bitcoin/)**
-
-Is bitcoin finally starting to bottom out? I know that this has been one of the significant drops in bitcoin in recent history but when is it finally gonna bottom out into we enter into the bullish trends. What's everyone's plans in when they are going to be investing and doubling down?
-
-1d ago
+12h ago
 
 ---
 
@@ -149,7 +103,55 @@ Is bitcoin finally starting to bottom out? I know that this has been one of the 
 
 I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a month before tax and spending. Is there any way for me to reach 1 coin1-10 coins in a foreseeable future. (Let’s say 5 years) I just don’t know how there are so many people have a lot of money just to invest. I can barely break even sometimes, the rent is my highest spending, I was thinking maybe just living in my car. But I do need some advice, I can pull out probably $200 max every two weeks. Can you guys share your stories of how you have a whole coin or accumulate aggressively. Thank you
 
-7h ago
+9h ago
+
+---
+
+**[Daily Discussion, July 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1v52sav/daily_discussion_july_24_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+9h ago
+
+---
+
+**[Full signature aggregation BIP draft - Bitcoin Optech Newsletter #415](https://www.reddit.com/r/Bitcoin/comments/1v5a3cf/full_signature_aggregation_bip_draft_bitcoin/)**
+
+Bitcoin Optech newsletter #415 is here: describes a draft BIP for full aggregation of BIP340 signatures summarizes changes to services/client software Optech Newsletter #415 Podcast https://bitcoinops.org/en/newsletters/2026/07/24/ Fabian Jahr posted to the Bitcoin-Dev mailing list about a new draft BIP for full aggregation of BIP340 schnorr signatures, a standard for the DahLIAS aggregate signature scheme... https://bitcoinops.org/en/newsletters/2026/07/24/#draft-bip-for-full-aggregation-of-bip340-signatures Changes to services and client software: Wasabi Wallet 2.8.0 released Coinswap v0.2.2 released Go secp256k1 library announced ASMap dashboard announced Wavelength alpha released https://bitcoinops.org/en/newsletters/2026/07/24/#changes-to-services-and-client-software Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
+
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/24/) • 2h ago
+
+---
+
+**[Recommended Exchange (UK)](https://www.reddit.com/r/Bitcoin/comments/1v5cg3r/recommended_exchange_uk/)**
+
+Hi guys, I’m from the UK & I’ve only ever bought my bitcoin through Binance. As I understand it it we can no longer do that. What’s your recommended platform for someone from the UK?
+
+1h ago
+
+---
+
+**[I started the DCA back in the game 2 weeks ago 67% allocated](https://www.reddit.com/r/Bitcoin/comments/1v4tel1/i_started_the_dca_back_in_the_game_2_weeks_ago_67/)**
+
+Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people advising to sell the last few days, saying we are going to do another 20-30% dump.. essentially the argument is that we are entering a no more cheap money period, and we aren’t getting rate cuts any time soon, there’s no halving in the next few years so there are no bullish catalysts.. and the technical setup isn’t great. Whats everyone doing rn? We adding, holding or trimming?
+
+16h ago
+
+---
+
+**[Recommended non kyc exchanges?](https://www.reddit.com/r/Bitcoin/comments/1v4kocn/recommended_non_kyc_exchanges/)**
+
+Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
+
+21h ago
+
+---
+
+**[Where can I buy bitcoin? Ally? Chase? Other?](https://www.reddit.com/r/Bitcoin/comments/1v50kqx/where_can_i_buy_bitcoin_ally_chase_other/)**
+
+Would like to invest. Where would you recommend I start?
+
+11h ago
 
 ---
 
@@ -157,51 +159,49 @@ I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a
 
 ## Google News: "bitcoin"
 
-**[Bitcoin treasury companies unwind holdings as the DAT model comes under pressure](https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse)**
+**[Strategy overhauls bitcoin metrics to account for senior claims](https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists)**
 
-Falling share prices, debt obligations and difficult market conditions are forcing former bitcoin accumulators to sell their holdings and restructure operations.
+New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
 
 CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin (BTC) news: This $5 billion cluster points to bullish positioning](https://www.coindesk.com/markets/2026/07/24/a-usd5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story)**
+**[Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations](https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations)**
 
-Bitcoin's options market has accumulated nearly $5 billion in open interest at the $70,000 and $72,000 strikes on Deribit, with several large deliberate trades driving the bullish concentration.
+Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets.
 
-CoinDesk • 2h ago
+The Block • 5h ago
+
+---
+
+**[Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds](https://www.tradingview.com/news/cointelegraph:bb2e37f6b094b:0-bitcoin-falls-under-64k-as-surging-us-bond-yields-boost-fed-rate-hike-odds/)**
+
+Bitcoin (BTC) fell more than 1.6% on Friday as its latest price correction accelerated after Wall Street opened.Key points:Analysis warns US bond yields now “well above” targetData from TradingView showed BITSTAMP:BTCUSD approaching $64,000 as bulls struggled to preserve recent gains.BITSTAMP:BTCUS…
+
+TradingView • 57m ago
 
 ---
 
 **[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
 
-Morningstar • 3h ago
+Morningstar • 5h ago
 
 ---
 
-**[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
+**[Why Bitcoin’s Latest Bounce Back to $65,000 Might Not Last](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-latest-bounce-back-020000772.html)**
 
-Bloomberg.com • 2d ago
+Bitcoin on-chain analysis shows weak spot demand and deep unrealized losses. BTC must reclaim $69,500 to confirm recovery.
 
----
-
-**[A $5 Billion Cluster Has Formed in Bitcoin Options. It Tells a Bullish Story](https://www.moomoo.com/news/post/73501277/a-5-billion-cluster-has-formed-in-bitcoin-options-it)**
-
-Moomoo • 2h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[$KULR Technology (KULR.US)$ $Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/kulr-technology-kulr-us-bitcoin-btc-cc-116975079653381)**
+**[Bitcoin holds near $65,000 as the Iran conflict sends oil to a two-month high: Crypto Markets Today](https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market)**
 
-@Stock_Drift 3934 Views
+BTC held near $65,000 and crypto broadly rose on Friday despite Brent crude surging to $97.66, its highest since May, as the Iran conflict persists while traditional markets stay muted.
 
-Moomoo • 45m ago
-
----
-
-**[Bitcoin Settles Near $65,000 as Oil's March Toward $100 Fails to Spook the Market](https://www.moomoo.com/news/post/73500321/bitcoin-settles-near-65000-as-oil-s-march-toward-100)**
-
-Moomoo • 2h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -209,7 +209,7 @@ Moomoo • 2h ago
 
 Massachusetts residents have lost millions to Bitcoin ATM scams
 
-WCVB • 14h ago
+WCVB • 16h ago
 
 ---
 
@@ -217,15 +217,21 @@ WCVB • 14h ago
 
 Investing.com -- Morgan Stanley initiated coverage of bitcoin miners turned AI infrastructure providers, arguing that companies with large, grid-connected power assets are well positioned to benefit from surging demand for AI data centers as hyperscalers race to secure electricity for compute expansion.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin grinds higher from here, can't get much worse, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/07/22/bitcoin-grinds-higher-from-here-cant-get-much-worse-says-skybridges-anthony-scaramucci.html)**
+**[Bitcoin ATM scams in Massachusetts](https://apps.bostonglobe.com/2026/07/storylab/coinhub-bitcoin-atm-crypto-scam/)**
 
-The 'Fast Money' traders talk the recent downturn in crypto.
+Crypto machines have become one of the favorite tools used by scammers to move cash into the often-untraceable digital realm, beyond the reach of law enforcement.
 
-CNBC • 1d ago
+The Boston Globe • 2d ago
+
+---
+
+**[Returning ETF Demand Supports Bitcoin Prices](https://www.barrons.com/livecoverage/stock-market-news-today-072426/card/returning-etf-demand-supports-bitcoin-prices-JbhcmxfKwiquQd5Vfhs7)**
+
+Barron's • 30m ago
 
 ---
 
@@ -237,7 +243,7 @@ CNBC • 1d ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 114 • 💬 118 • 1d ago • [opennode.com](https://opennode.com/)
+⬆️ 114 • 💬 119 • 2d ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -245,7 +251,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, protecting its purpose as sound, permissionless money.
 
-⬆️ 2 • 💬 1 • 1d ago • [BIP-110](https://bip110.org)
+⬆️ 2 • 💬 1 • 2d ago • [BIP-110](https://bip110.org)
 
 ---
 
@@ -277,7 +283,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
 
-⬆️ 1 • 💬 0 • 22h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 1d ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
 
 ---
 
@@ -293,7 +299,7 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 Borg Internet Operating System -  Resistance is futile...  The Internet became crap.   Join the Borg and build something better - bitmonky/BorgIOS
 
-⬆️ 14 • 💬 23 • 1d ago • [GitHub](https://github.com/bitmonky/BorgIOS)
+⬆️ 14 • 💬 23 • 2d ago • [GitHub](https://github.com/bitmonky/BorgIOS)
 
 ---
 
@@ -301,7 +307,7 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI development by creating an account on GitHub.
 
-⬆️ 4 • 💬 1 • 10h ago • [GitHub](https://github.com/bitmonky/borgHUI)
+⬆️ 4 • 💬 1 • 12h ago • [GitHub](https://github.com/bitmonky/borgHUI)
 
 ---
 
@@ -309,7 +315,7 @@ Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI developme
 
 From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
-⬆️ 2 • 💬 0 • 21h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
+⬆️ 2 • 💬 0 • 23h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
 
 ---
 
@@ -323,7 +329,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 193 • 💬 17 • ⏱️ 14:14 • 20h ago
+👁️ 5K • 👍 193 • 💬 17 • ⏱️ 14:14 • 21h ago
 
 ---
 
@@ -343,7 +349,7 @@ Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitte
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 218 • ⏱️ 12:09 • 13h ago
+👁️ 31K • 👍 2K • 💬 218 • ⏱️ 12:09 • 15h ago
 
 ---
 
@@ -353,7 +359,7 @@ Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 369 • ⏱️ 20:33 • 16h ago
+👁️ 17K • 👍 2K • 💬 369 • ⏱️ 20:33 • 17h ago
 
 ---
 
@@ -363,7 +369,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 5K • 👍 971 • 💬 34 • ⏱️ 17:56 • 1h ago
+👁️ 5K • 👍 971 • 💬 34 • ⏱️ 17:56 • 3h ago
 
 ---
 
@@ -383,7 +389,7 @@ Heading into the weekly close, Dylan and Chento are live, dissecting the current
 
 📺 Crypto Banter
 
-👁️ 1K • 👍 169 • 2h ago
+👁️ 1K • 👍 169 • 4h ago
 
 ---
 
@@ -413,7 +419,7 @@ MARA Chairman and CEO Fred Thiel unpacks the economic reality behind the global 
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 100 • 💬 65 • ⏱️ 1:12 • 18h ago
+👁️ 4K • 👍 100 • 💬 65 • ⏱️ 1:12 • 20h ago
 
 ---
 
