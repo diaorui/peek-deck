@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-24T04:21:04.910103+00:00'
+updated: '2026-07-24T07:07:28.221684+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 24, 2026 at 04:21 UTC  
+**Last Updated:** July 24, 2026 at 07:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment](https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/)**
 
-11h ago
+14h ago
+
+---
+
+**["I'm doing this because I love it"](https://www.reddit.com/r/artificial/comments/1v50yle/im_doing_this_because_i_love_it/)**
+
+He does it because he loves it huh?
+
+2h ago
 
 ---
 
@@ -47,7 +55,7 @@ AI news, discussions, and developments
 
 Earlier this week, Substack launched a new feature on its platform in partnership with Pangram, an AI-detection tool. The goal: alert readers to content that's been written entirely by, or with the assistance of, AI. Chris Best Substack's CEO wrote: "We’re partnering with Pangram, the leading AI-detection tool. You’ll be able to scan notes, replies, comments, and posts to see an estimate of how much of the text was written by hand or with AI assistance. This will work on text longer than 100 words, published from today on, and will show an analysis only to those who request it." I tested one of the issues of a newsletter I subscribe to using Pangram today. The verdict? 100% AI generated. I'm not sure if Pangram is that accurate, but it's certainly stirred up a lot of debate. What's your take?
 
-10h ago
+13h ago
 
 ---
 
@@ -55,19 +63,15 @@ Earlier this week, Substack launched a new feature on its platform in partnershi
 
 For years, I took pride in being the person who could quickly scan a codebase, navigate the terminal efficiently, and find the right information faster than most developers I worked with. Lately, though, I've realized AI agents outperform me in many of those areas. The answers I used to get by crafting Google searches and digging through Stack Overflow can now be found by AI in minutes. Some models are much faster than I am at identifying bugs, and they're often right. In my experience, GPT-5.5 through Codex can achieve close to a 90% success rate in bug detection and debugging. Even something like writing reports,which I used to spend a lot of time polishing, can now be drafted into something more complete than I'd produce from scratch. I don't really see AI agents as replacing developers anymore. I see them as a resource that has become difficult to ignore. What things do you notice that AI does better than you? And how are you approaching multi-agent workflows, like MCP, anvita flow, Agent Protocol? That’s a challenge I’m looking to tackle next.
 
-17h ago
+19h ago
 
 ---
 
-**[The Aesthetic Boom Is Coming. It Won't Look Like AI.](https://www.reddit.com/r/artificial/comments/1v4d4tw/the_aesthetic_boom_is_coming_it_wont_look_like_ai/)**
+**[Travis Kalanick's actual pitch to a scared Stanford CS grad: skip the app store](https://www.reddit.com/r/artificial/comments/1v53uog/travis_kalanicks_actual_pitch_to_a_scared/)**
 
-🔗 [monolith3.substack.com](https://monolith3.substack.com/p/the-aesthetic-boom-is-coming-it-wont) • 15h ago
+Travis Kalanick (Uber co-founder, now running an industrial-AI company called Atoms) got asked a pretty direct question on a recent podcast: how would you pitch a Stanford CS new grad who's worried software engineering isn't the safe, easy path it used to be? His answer wasn't "learn more AI tools" or "get certified in X." It was: skip the app store. Go automate a two-million-pound machine that moves 35mph carrying gold. The underlying model is retrofit, not replace — Atoms isn't asking mining companies to rip out tens of millions of dollars of existing equipment. They're building the "no-entry mine" concept on top of it: autonomous haulage, remote-to-autonomous control, zero humans in the pit. Same logic that scaled Uber, pointed at physical infrastructure instead of a ride marketplace. Worth sitting with if you're in the "I got the degree, now what" spot. The credential isn't gone. It's just not where the scarcity moved to. Clip credit: TBPN — full interview on their channel. DM for credit or removal requests.
 
----
-
-**[AMD inks deal with AI chip startup Cerebras](https://www.reddit.com/r/artificial/comments/1v4szss/amd_inks_deal_with_ai_chip_startup_cerebras/)**
-
-🔗 [axios.com](https://www.axios.com/2026/07/23/amd-cerebras-ai-chips) • 5h ago
+6m ago
 
 ---
 
@@ -75,7 +79,27 @@ For years, I took pride in being the person who could quickly scan a codebase, n
 
 Most AI assistants seem designed to complete the task with as little friction as possible. I’m starting to think that isn’t always helpful. If I ask ChatGPT to draft an important email, analyze a spreadsheet, or plan something complicated, it can often produce a polished answer while quietly making assumptions I never approved. The result looks finished, so those assumptions are easy to miss. Personally, I’d rather have it interrupt me when one missing detail could materially change the outcome. Not for every minor ambiguity, because that would become annoying fast, but when it is choosing between genuinely different interpretations. The tension is that an assistant that constantly asks questions feels less capable, while one that confidently fills every gap may be more convenient but harder to trust. Where would you draw the line between useful initiative and an AI making too many assumptions for you?
 
-8h ago
+11h ago
+
+---
+
+**[Building an open-source AI pipeline for speech-driven 3D character animation. Looking for honest feedback before I invest time](https://www.reddit.com/r/artificial/comments/1v52goe/building_an_opensource_ai_pipeline_for/)**
+
+Hi everyone, I'm a third-year engineering student working on an AI project that converts speech into a fully animated 3D character. Right now, my prototype works like this: Audio ↓ EMAGE (Speech → Motion) ↓ SMPL Motion (Research Prototype) ↓ Motion Retargeting (planned) ↓ Commercial Character Rig ↓ Blender Rendering ↓ MP4 Animation The current implementation uses SMPL only as an internal research representation. Since SMPL isn't intended for unrestricted commercial use, my long-term goal is to retarget the generated motion to commercially usable character rigs (VRM, custom Blender rigs, etc.). So I'm not trying to sell SMPL models—I'm trying to build a pipeline that generates expressive 3D character animations from speech. Current Progress Audio → body motion generation using EMAGE Successfully animated the generated motion in Blender Automatic rendering pipeline Basic lighting and camera setup Planned Features Facial animation (lip sync, blinking, expressions) Finger animation Motion retargeting to commercial character rigs Multiple avatars/characters Automatic camera movement Better lighting and rendering Web interface/API One-click video generation Why I'm Posting Before I spend the next few months building this, I'd like honest feedback from people who actually create content, games, films, AI tools, or use character animation in their workflow. Questions Would you actually use or pay for something like this? Who do you think would benefit the most from this kind of tool? What features would make it valuable enough to replace or complement existing tools? If you've used HeyGen, Synthesia, NVIDIA Audio2Face, Character Creator, or similar tools, what do you feel they're missing? If you were building this project, what would you prioritize next? Am I solving a real problem, or should I pivot in another direction while I'm still early? A Couple of Constraints I'm building everything on a Ryzen 5 7000 laptop with 24 GB RAM and an RTX 3050 (6 GB VRAM), so my focus is on integrating existing open-source models rather than training large foundation models from scratch. My goal is to build a useful product that people would actually use or pay for, not just reproduce research papers or publish another academic project. I'm looking for brutally honest feedback. If you think this has potential, I'd love to know what direction you'd take it. If you think it's a dead end or there's a better opportunity in the 3D AI space, I'd really appreciate hearing that too. Thanks in advance!
+
+1h ago
+
+---
+
+**[The Aesthetic Boom Is Coming. It Won't Look Like AI.](https://www.reddit.com/r/artificial/comments/1v4d4tw/the_aesthetic_boom_is_coming_it_wont_look_like_ai/)**
+
+🔗 [monolith3.substack.com](https://monolith3.substack.com/p/the-aesthetic-boom-is-coming-it-wont) • 18h ago
+
+---
+
+**[AMD inks deal with AI chip startup Cerebras](https://www.reddit.com/r/artificial/comments/1v4szss/amd_inks_deal_with_ai_chip_startup_cerebras/)**
+
+🔗 [axios.com](https://www.axios.com/2026/07/23/amd-cerebras-ai-chips) • 8h ago
 
 ---
 
@@ -83,31 +107,7 @@ Most AI assistants seem designed to complete the task with as little friction as
 
 Basically these past few hours every chat I make with the ai mode the ai has a memory of just 1 message,I for example ask it "how are you doing" and then ask what is my first message and it says "what is my first message".It completely forgets everything in just 1 message how do I fix this?
 
-13h ago
-
----
-
-**[OpenAI is launching "ChatGPT Health"—you can now link your actual medical records and lab results. Would you actually use this?](https://www.reddit.com/r/artificial/comments/1v4zwq3/openai_is_launching_chatgpt_healthyou_can_now/)**
-
-OpenAI just started rolling out a new "ChatGPT Health" tab for US users (18+) on Free, Plus, Pro, etc. Basically, instead of you just copy-pasting your symptoms into a chat, you can now link it directly to Apple Health, hospital EHR systems, One Medical, and Function Health. It can look at your lab results, meds, sleep, and workouts to help you make sense of trends or prep questions before you go see a doctor. Key Features & Details: Integrations: Connects directly with Apple Health, select hospital EHR systems, One Medical, and Function Health. Capabilities: Analyzes authorized lab results, medications, sleep, and activity data to explain health trends and help prepare questions for doctor visits. Privacy: OpenAI states that connected health data and related conversations will not be used to train base models or target ads. Disclaimers: Strictly designed as an assistant, not a clinician—cannot diagnose, treat, or replace professional medical advice. Honestly, moving from generic medical advice to a bot that actually knows your personal medical history feels like a pretty big shift. On one hand, understanding vague lab results without waiting 3 weeks for a callback sounds great. On the other hand... giving OpenAI my full medical history feels kind of wild. Are you guys opting in, or is this a hard pass for you?
-
-42m ago
-
----
-
-**[Internet Disruption ?](https://www.reddit.com/r/artificial/comments/1v4uik0/internet_disruption/)**
-
-Complete AI novice here. I noticed shortly after an Anthropic outage, AT&T, Amazon Alexa, and Microsoft suffered outages in the same day. On top of that, there's just a lot of activity on Downdetector. It seems Anthropic's outage came first. Is any of that tied back to Claude? Maybe these companies use the AI in some way?
-
-4h ago
-
----
-
-**[AI Regulation](https://www.reddit.com/r/artificial/comments/1v4uar3/ai_regulation/)**
-
-I prepared two “weekly rants” on AI which will come out in a few weeks.
-
-🔗 [grumpy-economist.com](https://www.grumpy-economist.com/p/ai-regulation) • 4h ago
+16h ago
 
 ---
 
@@ -119,23 +119,21 @@ I prepared two “weekly rants” on AI which will come out in a few weeks.
 
 A new bill would let the US government order the shutdown AI models that pose a major public threat.
 
-BBC • 7h ago
+BBC • 10h ago
 
 ---
 
-**[OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know](https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models)**
+**[OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html)**
 
-The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.
-
-NPR • 22h ago
+The New York Times • 2d ago
 
 ---
 
-**[Elon Musk said helping create OpenAI unintentionally accelerated the AI race](https://www.businessinsider.com/elon-musk-said-creating-openai-accidentally-accelerated-the-ai-race-2026-7)**
+**[For years, they worried AI might break free. Now they have to stop it.](https://www.washingtonpost.com/technology/2026/07/23/unprecedented-hack-tech-firm-by-ai-model-raises-new-safety-concerns/)**
 
-Musk said that the AI race accelerated after Anthropic spun out of OpenAI, which was not his intention when he helped create the company.
+An AI model developed by OpenAI hacked another tech firm, triggering debate about how to contain the technology as it grows more capable.
 
-Business Insider • 17m ago
+The Washington Post • 15h ago
 
 ---
 
@@ -143,45 +141,45 @@ Business Insider • 17m ago
 
 Oracle laid off ~13% of its staff to fund a $300B computing deal with OpenAI. Now, a credit downgrade and $7B in required power grid guarantees put the massive project in jeopardy.
 
-The Jerusalem Post • 15h ago
+The Jerusalem Post • 18h ago
 
 ---
 
-**[South Korea’s cash-rich winners of AI boom go on US buying spree](https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669?syn-25a6b1a6=1)**
+**[Google Is Expanding Access To Its Gemini Spark Agentic AI Assistant](https://www.engadget.com/2222303/google-expanding-access-gemini-spark/)**
 
-Companies make biggest US investment push in years to build up tech capabilities and avoid Donald Trump’s tariffs
+Gemini Spark is now available to more users.
 
-Financial Times • 1h ago
-
----
-
-**[U.S., other nations back open-source AI with 'strong security' at China summit](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html)**
-
-The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.
-
-CNBC • 1h ago
+Engadget • 1h ago
 
 ---
 
-**[Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge](https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html)**
+**[Asking Eric: Family members’ experiments with AI raise alarm](https://www.denverpost.com/2026/07/24/asking-eric-ai-experiments-raise-alarm/)**
 
-Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.
+“Is there a good way to set a boundary like this when you don’t have a social media account to have a tag line that explicitly states it?”
+
+The Denver Post • 7m ago
+
+---
+
+**[Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says](https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html)**
+
+A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.
 
 CNBC • 19h ago
 
 ---
 
-**[Magnificent 7 Loses $767 Billion as AI Skeptics Dump Tech Stocks](https://www.bloomberg.com/news/articles/2026-07-23/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks)**
+**[What is China’s Kimi K3 and why is the US so rattled by it?](https://www.cnn.com/2026/07/23/tech/china-ai-moonshot-kimi-explainer-intl-hnk)**
 
-Bloomberg.com • 11h ago
+Remember DeepSeek? The Chinese artificial intelligence startup that rattled the US tech industry? China may have done it again.
+
+CNN • 5h ago
 
 ---
 
-**['Magnificent Seven' firms need to prove AI spending is paying off: Citi Research](https://www.cnbc.com/video/2026/07/24/magnificent-seven-need-to-prove-ai-spend-is-paying-off-citi-research.html)**
+**[Opinion | This Is How America Trounces China in the A.I. Race](https://www.nytimes.com/2026/07/23/opinion/china-ai-open-weight-us.html)**
 
-Scott Chronert, Head of U.S. Equity Strategy at Citi Research, says says the so-called "Magnificent Seven" megacap tech companies have been trading idiosyncratically all year due to sentiment issues. He also explains why he believes the S&P 500 can climb to 8,100 even as Citi downgrades the technology sector after a year of AI-driven outperformance.
-
-CNBC • 29m ago
+The New York Times • 22h ago
 
 ---
 
@@ -189,7 +187,7 @@ CNBC • 29m ago
 
 The data center footprint in Loudoun County has more than doubled in the last five years, covering over 53 million square feet.
 
-NBC News • 16h ago
+NBC News • 19h ago
 
 ---
 
@@ -199,7 +197,7 @@ NBC News • 16h ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 795 • 💬 693 • 13h ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 865 • 💬 742 • 15h ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -207,7 +205,7 @@ NBC News • 16h ago
 
 I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.
 
-⬆️ 662 • 💬 240 • 1d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
+⬆️ 664 • 💬 240 • 1d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
 
 ---
 
@@ -215,13 +213,13 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 
 AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
 
-⬆️ 626 • 💬 317 • 15h ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+⬆️ 638 • 💬 327 • 17h ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
 **[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
 
-⬆️ 479 • 💬 234 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+⬆️ 481 • 💬 235 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 
 ---
 
@@ -237,19 +235,19 @@ Block's Buzz combines team chat, AI agents, workflows and Git hosting in a self-
 
 I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
 
-⬆️ 368 • 💬 299 • 1d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+⬆️ 371 • 💬 300 • 1d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 
 ---
 
 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://news.ycombinator.com/item?id=49020868)**
 
-⬆️ 281 • 💬 313 • 15h ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+⬆️ 282 • 💬 319 • 18h ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 
 ---
 
 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://news.ycombinator.com/item?id=49021006)**
 
-⬆️ 258 • 💬 266 • 15h ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+⬆️ 262 • 💬 268 • 17h ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
@@ -257,7 +255,7 @@ I like supporting local businesses but it's so disheartening to see the increasi
 
 The release of Kimi K3 has opened a fresh round of angst and confused discourse. There's a loud cohort of journalists, business leaders, and politicians arguing that open source AI is a dangerous threat. OpenAI's Dean Ball:
 
-⬆️ 228 • 💬 158 • 11h ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
+⬆️ 260 • 💬 173 • 14h ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
 
 ---
 
@@ -265,7 +263,7 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.
 
-⬆️ 199 • 💬 223 • 14h ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
+⬆️ 222 • 💬 241 • 17h ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 
 ---
 
@@ -279,7 +277,7 @@ Elon Musk expects artificial intelligence to exceed the sum of human intelligenc
 
 📺 The Economist
 
-👁️ 240K • 👍 5K • 💬 2K • ⏱️ 10:36 • 13h ago
+👁️ 276K • 👍 6K • 💬 2K • ⏱️ 10:36 • 16h ago
 
 ---
 
@@ -289,7 +287,7 @@ Anthropic's Logan Graham discusses the accelerating capabilities of AI, emphasiz
 
 📺 Fox Business
 
-👁️ 14K • 👍 433 • 💬 101 • ⏱️ 17:58 • 11h ago
+👁️ 15K • 👍 451 • 💬 107 • ⏱️ 17:58 • 13h ago
 
 ---
 
@@ -299,7 +297,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 74K • 👍 3K • 💬 683 • ⏱️ 10:43 • 1d ago
+👁️ 75K • 👍 3K • 💬 688 • ⏱️ 10:43 • 1d ago
 
 ---
 
@@ -309,17 +307,7 @@ This story sounds like something right out of a Terminator sci-fi movie. OpenAI,
 
 📺 CBN News
 
-👁️ 10K • 👍 542 • 💬 64 • ⏱️ 6:00 • 7h ago
-
----
-
-**[Will AI ever come alive, and what happens if it does? | BBC News](https://www.youtube.com/watch?v=Lzk4o3fPZZE)**
-
-Could artificial intelligence one day become conscious? Or are we being distracted by science-fiction dreams while AI is already ...
-
-📺 BBC News
-
-👁️ 6K • 👍 186 • 💬 62 • ⏱️ 26:15 • 6h ago
+👁️ 13K • 👍 585 • 💬 72 • ⏱️ 6:00 • 10h ago
 
 ---
 
@@ -329,7 +317,27 @@ The DARK Side of ChatGPT | Mind Control & The End of Humanity | Dr. Roman Yampol
 
 📺 SHLLOKA 
 
-👁️ 19K • 👍 359 • 💬 52 • ⏱️ 59:09 • 14h ago
+👁️ 21K • 👍 405 • 💬 57 • ⏱️ 59:09 • 17h ago
+
+---
+
+**[Will AI ever come alive, and what happens if it does? | BBC News](https://www.youtube.com/watch?v=Lzk4o3fPZZE)**
+
+Could artificial intelligence one day become conscious? Or are we being distracted by science-fiction dreams while AI is already ...
+
+📺 BBC News
+
+👁️ 9K • 👍 259 • 💬 71 • ⏱️ 26:15 • 9h ago
+
+---
+
+**[President Trump announces new AI energy initiative](https://www.youtube.com/watch?v=16_LTu9psZg)**
+
+President Donald Trump delivered remarks Thursday on the Ratepayer Protection Pledge at the Environmental Protection Agency ...
+
+📺 LiveNOW from FOX
+
+👁️ 5K • 👍 139 • 💬 46 • ⏱️ 31:53 • 12h ago
 
 ---
 
@@ -339,7 +347,7 @@ OpenAI said an autonomous AI agent escaped a controlled security test, accessed 
 
 📺 LiveNOW from FOX
 
-👁️ 32K • 👍 731 • 💬 353 • ⏱️ 5:48 • 1d ago
+👁️ 35K • 👍 755 • 💬 364 • ⏱️ 5:48 • 1d ago
 
 ---
 
@@ -349,7 +357,7 @@ China's fake AI humans are moving from screens into the real world. These robots
 
 📺 AI Revolution
 
-👁️ 24K • 👍 895 • 💬 111 • ⏱️ 33:12 • 1d ago
+👁️ 25K • 👍 933 • 💬 116 • ⏱️ 33:12 • 1d ago
 
 ---
 
@@ -359,17 +367,7 @@ Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the
 
 📺 Sean Foo
 
-👁️ 120K • 👍 7K • 💬 936 • ⏱️ 15:45 • 1d ago
-
----
-
-**[Australia will face a rogue AI attack, the question is when, says cyber expert | The Business](https://www.youtube.com/watch?v=XL-7HU-0Lzs)**
-
-Chat GPT maker, Open AI says one of its most advanced AI models, an autonomous agent, went rogue and hacked into ...
-
-📺 ABC News (Australia)
-
-👁️ 2K • 👍 53 • ⏱️ 12:33 • 8h ago
+👁️ 121K • 👍 7K • 💬 937 • ⏱️ 15:45 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,414,259 • ❤️ 2,904 • 19h ago
+⬇️ 2,414,259 • ❤️ 2,922 • 21h ago
 
 ---
 
@@ -397,7 +395,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 24,669 • ❤️ 1,509 • 10h ago
+⬇️ 24,669 • ❤️ 1,517 • 13h ago
 
 ---
 
@@ -409,7 +407,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 13,285 • ❤️ 524 • 1d ago
+⬇️ 13,285 • ❤️ 537 • 1d ago
 
 ---
 
@@ -421,7 +419,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 362 • ❤️ 471 • 1d ago
+⬇️ 362 • ❤️ 486 • 1h ago
 
 ---
 
@@ -433,7 +431,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 334,847 • ❤️ 411 • 3d ago
+⬇️ 334,847 • ❤️ 420 • 3d ago
 
 ---
 
@@ -445,7 +443,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 576,083 • ❤️ 987 • 5d ago
+⬇️ 576,083 • ❤️ 991 • 6d ago
 
 ---
 
@@ -457,7 +455,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 4,532 • ❤️ 327 • 19h ago
+⬇️ 4,532 • ❤️ 335 • 21h ago
 
 ---
 
@@ -469,7 +467,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 596,442 • ❤️ 4,381 • 21d ago
+⬇️ 596,442 • ❤️ 4,389 • 21d ago
 
 ---
 
@@ -481,7 +479,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 1,910,116 • ❤️ 621 • 6d ago
+⬇️ 1,910,116 • ❤️ 623 • 6d ago
 
 ---
 
@@ -493,7 +491,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,027,080 • ❤️ 3,038 • 3mo ago
+⬇️ 2,027,080 • ❤️ 3,046 • 3mo ago
 
 ---
 
@@ -509,7 +507,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 60 • 💬 5 • ⭐ 18,083 • 1mo ago
+▲ 61 • 💬 5 • ⭐ 18,294 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -650,7 +648,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.1k • 🔱 245 • 22m ago
+⭐ 3.1k • 🔱 245 • 29m ago
 
 ---
 
@@ -660,7 +658,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 374 • 5m ago
+⭐ 2.7k • 🔱 376 • 2h ago
 
 ---
 
@@ -678,7 +676,7 @@ The open-source AI workbench for scientific research
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-⭐ 2.0k • 🔱 159 • 1d ago
+⭐ 2.1k • 🔱 164 • 1d ago
 
 ---
 
@@ -688,7 +686,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.3k • 🔱 129 • 22h ago
+⭐ 1.3k • 🔱 132 • 1d ago
 
 ---
 
@@ -710,23 +708,23 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 ---
 
-**[lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)**
-
-Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
-
-`Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
-
-⭐ 1.1k • 🔱 65 • 2h ago
-
----
-
 **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)**
 
 AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.0k • 🔱 76 • 22h ago
+⭐ 1.1k • 🔱 87 • 1d ago
+
+---
+
+**[lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)**
+
+Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
+
+`Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
+
+⭐ 1.1k • 🔱 65 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-24T04:21:04.925712+00:00'
+updated: '2026-07-24T07:07:28.234965+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 04:21 UTC  
+**Last Updated:** July 24, 2026 at 07:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** +0.9%  
-**30d:** +19.8%  
-**90d:** -20.7%  
-**1y:** -49.5%  
+**24h:** -1.8%  
+**7d:** +1.6%  
+**30d:** +20.6%  
+**90d:** -20.2%  
+**1y:** -49.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.58B
+**Market Cap:** $228.10B
 Rank #2
 
 **Circulating Supply:** 120,682,712 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.8%
 
 **All-Time Low:** $0.43
-+433512.3%
++436385.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -86,13 +86,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
 **[Warning!!! EU Crypto Users: Stop Sending Crypto Directly Between Exchanges Right Now, or risk your crypto being Frozen.](https://www.reddit.com/r/ethereum/comments/1v28fsw/warning_eu_crypto_users_stop_sending_crypto/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -130,7 +130,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -150,31 +150,23 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
 
-CoinDesk • 18h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Cryptocurrencies fall as US-Iran conflict escalates, wiping out $250M in market value.](https://pluang.com/en/news-feed/bitcoin-ethereum-xrp-dogecoin-turun-akibat-serangan-as-ke-iran-hari-ke-13)**
+**[Ethereum options show bearish bias near key str...](https://pluang.com/en/news-feed/opsi-ethereum-miring-bearish-dekati-level-max-pain)**
 
-Leading cryptocurrencies like Bitcoin, Ethereum, XRP, and Dogecoin dropped sharply amid ongoing US strikes on Iran entering their 13th day, which heightened geopolitical risks and reduced investor appetite for risk. Bitcoin fell back to the mid-$64,000s, Ethereum to around $1,800, and over $250 million was liquidated in the crypto market within 24 hours. Stocks also declined, with major indexes like the Dow Jones and Nasdaq falling. Analysts suggest the current dip may present a buying opportunity for long-term investors, noting Bitcoin's risk-adjusted returns have reached levels seen at previous market bottoms. However, the correction is seen as negative for the broader market in the short term.
+Ethereum options on Deribit show a put-heavy positioning ahead of Friday's expiry, indicating a defensive market stance as ETH prices near key strike levels around $1,875. Solana options remain balanced with a slight call bias, while XRP shows mixed signals with bullish open interest but recent put-heavy trading. The proximity of spot prices to 'max pain' levels suggests potential volatility or price moves toward those strike prices as expiration nears. This positioning highlights cautious sentiment among traders, balancing downside protection with some upside exposure.
 
-Pluang • 1h ago
-
----
-
-**[Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html)**
-
-Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
-
-Yahoo Finance • 12h ago
+Pluang • 48m ago
 
 ---
 
-**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
 
-A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
+Leading cryptocurrencies flatlined on Wednesday as investors weighed the implications of the Clarity Act and rising geopolitical tensions in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.64%$65,933.49Ethereum (CRYPTO: ETH) +0.05%$1,931.41XRP (CRYPTO: XRP) -0.32%$1.13Solana (CRYPTO: SOL) -0.18%$78.12Dogecoin (CRYPTO: DOGE) -0.79%$0.07287 Crypto Rally Cools Bitcoin failed to break through $67,000 and slipped back to $65,000 after encounter
 
-TradingView • 10h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,7 +174,15 @@ TradingView • 10h ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 18h ago
+
+---
+
+**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
+
+A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
+
+TradingView • 12h ago
 
 ---
 
@@ -190,7 +190,31 @@ Seeking Alpha • 16h ago
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
-The Block • 19h ago
+The Block • 22h ago
+
+---
+
+**[Current price of Ethereum for July 23, 2026](https://fortune.com/article/price-of-ethereum-07-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 19h ago
+
+---
+
+**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
+
+Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
+
+FXStreet • 19h ago
+
+---
+
+**[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
+
+U.S. Spot ETH ETF has seen net inflows in the past two weeks.
+
+AMBCrypto • 2h ago
 
 ---
 
@@ -199,28 +223,6 @@ The Block • 19h ago
 MONACO , July  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward Ethereum as bullish Ethereum price prediction models examine whe...
 
 markets.businessinsider.com • 1d ago
-
----
-
-**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
-
-Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
-
-FXStreet • 16h ago
-
----
-
-**[Ethereum just closed three consecutive red quarters for the first time, what happens next](https://www.thestreet.com/crypto/markets/ethereum-just-closed-three-consecutive-red-quarters-for-the-first-time-what-happens-next)**
-
-thestreet.com • 1d ago
-
----
-
-**[Current price of Ethereum for July 23, 2026](https://fortune.com/article/price-of-ethereum-07-23-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 16h ago
 
 ---
 
@@ -234,7 +236,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 276 • 💬 129 • ⏱️ 16:34 • 4h ago
+👁️ 5K • 👍 354 • 💬 153 • ⏱️ 16:34 • 6h ago
 
 ---
 
@@ -244,7 +246,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 480 • 👍 54 • 💬 4 • ⏱️ 6:26 • 2h ago
+👁️ 973 • 👍 103 • 💬 26 • ⏱️ 6:26 • 5h ago
 
 ---
 
@@ -254,7 +256,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 2K • 👍 49 • 💬 8 • ⏱️ 3:42 • 21h ago
+👁️ 2K • 👍 50 • 💬 8 • ⏱️ 3:42 • 23h ago
 
 ---
 
@@ -264,7 +266,27 @@ Bitcoin and Ethereum are nearing major inflection points after BTC's pullback in
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 1K • 👍 136 • 💬 23 • ⏱️ 1:00:32 • 1h ago
+👁️ 3K • 👍 308 • 💬 47 • ⏱️ 1:00:32 • 3h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=rgPMH1RcZFs)**
+
+BITCOIN & CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 208 • 💬 53 • ⏱️ 20:41 • 7h ago
+
+---
+
+**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
+
+Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
+
+📺 Lark Davis
+
+👁️ 788 • 👍 31 • 💬 1 • ⏱️ 0:53 • 3h ago
 
 ---
 
@@ -274,7 +296,27 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 99 • 💬 16 • ⏱️ 17:35 • 1d ago
+👁️ 3K • 👍 103 • 💬 16 • ⏱️ 17:35 • 1d ago
+
+---
+
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=flWpcHoofDw)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 23K • 👍 548 • 💬 83 • ⏱️ 19:54 • 2d ago
+
+---
+
+**[Charles Hoskinson on Cardano&#39;s Future, Ethereum&#39;s Mistakes, and Crypto&#39;s Missing Safety Net](https://www.youtube.com/watch?v=fz0WDcZO8gU)**
+
+After a bridge hack rattled the Cardano ecosystem, Charles Hoskinson, CEO and Founder of Input Output, joins Jennifer Sanasie ...
+
+📺 CoinDesk
+
+👁️ 3K • 👍 215 • 💬 52 • ⏱️ 45:44 • 13h ago
 
 ---
 
@@ -285,46 +327,6 @@ In today's episode, Ran breaks down why the recent market rally could be more th
 📺 Crypto Banter
 
 👁️ 22K • 👍 1K • 💬 32 • ⏱️ 33:40 • 2d ago
-
----
-
-**[Has ETH/BTC Bottomed and Who Leads From Here?](https://www.youtube.com/watch?v=RbHseJJPgvw)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 4K • 👍 127 • 💬 113 • ⏱️ 39:53 • 1d ago
-
----
-
-**[Prepare for Ethereum to Shock the Crypto Market! | Joseph Chalom Sharplink](https://www.youtube.com/watch?v=MtQUlyhFGKs)**
-
-Joseph Chalom, CEO of SharpLink, sat down with me at the Injective Policy Summit to discuss SharpLink's Ethereum acquisition ...
-
-📺 Thinking Crypto
-
-👁️ 5K • 👍 219 • 💬 48 • ⏱️ 17:49 • 2d ago
-
----
-
-**[BITCOIN &amp; CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=rgPMH1RcZFs)**
-
-BITCOIN & CRYPTO: Hidden Warning Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 175 • 💬 51 • ⏱️ 20:41 • 5h ago
-
----
-
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=flWpcHoofDw)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 22K • 👍 545 • 💬 94 • ⏱️ 19:54 • 2d ago
 
 ---
 

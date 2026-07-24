@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-24T04:21:04.918628+00:00'
+updated: '2026-07-24T07:07:28.229523+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 04:21 UTC  
+**Last Updated:** July 24, 2026 at 07:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,813.61
+### $65,450.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.8%  
-**30d:** +9.5%  
-**90d:** -16.9%  
-**1y:** -44.4%  
+**24h:** -0.2%  
+**7d:** +1.1%  
+**30d:** +9.8%  
+**90d:** -16.6%  
+**1y:** -44.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1310.46B
+**Market Cap:** $1314.40B
 Rank #1
 
-**Circulating Supply:** 20,060,459 BTC
+**Circulating Supply:** 20,060,534 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.2%
+-48.0%
 
 **All-Time Low:** $67.81
-+96236.8%
++96525.9%
 
 ---
 
@@ -77,9 +77,33 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[LFG](https://www.reddit.com/r/Bitcoin/comments/1v3z9nm/lfg/)**
+**[Markets are Down, Bitcoin is Still Working as it is. Keep HODLing, time will change.](https://www.reddit.com/r/Bitcoin/comments/1v4u66b/markets_are_down_bitcoin_is_still_working_as_it/)**
 
-1d ago
+I am very much confident of a bottom within a few weeks. Bitcoin isn't going helow 60k.
+
+7h ago
+
+---
+
+**[The Orange Revolution](https://www.reddit.com/r/Bitcoin/comments/1v4yg68/the_orange_revolution/)**
+
+4h ago
+
+---
+
+**[I started the DCA back in the game 2 weeks ago 67% allocated](https://www.reddit.com/r/Bitcoin/comments/1v4tel1/i_started_the_dca_back_in_the_game_2_weeks_ago_67/)**
+
+Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people advising to sell the last few days, saying we are going to do another 20-30% dump.. essentially the argument is that we are entering a no more cheap money period, and we aren’t getting rate cuts any time soon, there’s no halving in the next few years so there are no bullish catalysts.. and the technical setup isn’t great. Whats everyone doing rn? We adding, holding or trimming?
+
+8h ago
+
+---
+
+**[Daily Discussion, July 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1v52sav/daily_discussion_july_24_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+1h ago
 
 ---
 
@@ -87,7 +111,13 @@ Rank #1
 
 Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
 
-10h ago
+13h ago
+
+---
+
+**[LFG](https://www.reddit.com/r/Bitcoin/comments/1v3z9nm/lfg/)**
+
+1d ago
 
 ---
 
@@ -95,7 +125,7 @@ Been out of the game for a few years. Getting back in and privacy still matters 
 
 BancaStato has become the latest Swiss bank to offer regulated bitcoin trading through its existing banking apps via Sygnum's infrastructure.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 22h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin) • 1d ago
 
 ---
 
@@ -103,7 +133,7 @@ BancaStato has become the latest Swiss bank to offer regulated bitcoin trading t
 
 On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, roughly 297 million dollars combined, into Coinbase Prime custody. Sale speculation followed immediately. The detail almost nobody is explaining clearly: Executive Order 14233, which created the Strategic Bitcoin Reserve, only protects Bitcoin from sale. Ether and other seized digital assets fall under a separate framework where Treasury has discretion. So the 244 million in Bitcoin here is protected on paper, the 53 million in Ether is not. The Bitcoin traces to two forfeiture cases, roughly 2,875 BTC from a dark web dealer known as Xanaxman and about 925.5 BTC linked to the old BTC-e exchange. The Ether comes from a former Oracle employee's money laundering case. Worth noting too that a deposit to Coinbase Prime is not proof of an impending sale. The Marshals Service has an active custody contract with Coinbase Prime specifically for managing seized assets, and similar transfers in January, May, and June this year did not result in confirmed liquidations. The bigger structural point is that Executive Order 14233 is policy, not statute. Congress introduced a bill in May to codify the reserve with a 20 year holding requirement, but it has not moved out of committee. Until it does, Bitcoin's protected status here rests on one administration's choice, reversible by the next. Full writeup with sourcing: https://davidebtc186.substack.com/p/the-us-government-just-moved-297m
 
-15h ago
+18h ago
 
 ---
 
@@ -111,47 +141,15 @@ On July 13, US government-linked wallets moved 3,940 Bitcoin and 30,014 Ether, r
 
 Is bitcoin finally starting to bottom out? I know that this has been one of the significant drops in bitcoin in recent history but when is it finally gonna bottom out into we enter into the bullish trends. What's everyone's plans in when they are going to be investing and doubling down?
 
-17h ago
+20h ago
 
 ---
 
-**[Can we get to 69420 again?](https://www.reddit.com/r/Bitcoin/comments/1v43eq5/can_we_get_to_69420_again/)**
+**[Guys I need some advices!](https://www.reddit.com/r/Bitcoin/comments/1v534vr/guys_i_need_some_advices/)**
 
-That'd be sweet.
+I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a month before tax and spending. Is there any way for me to reach 1 coin1-10 coins in a foreseeable future. (Let’s say 5 years) I just don’t know how there are so many people have a lot of money just to invest. I can barely break even sometimes, the rent is my highest spending, I was thinking maybe just living in my car. But I do need some advice, I can pull out probably $200 max every two weeks. Can you guys share your stories of how you have a whole coin or accumulate aggressively. Thank you
 
-23h ago
-
----
-
-**[Do you ever sell your bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1v40ten/do_you_ever_sell_your_bitcoin/)**
-
-26 y/o. My significant other & I pretend we don’t have them, don’t touch it, we’ve never sold. But just out of curiosity, does everyone in it for the long haul (20-30 years) ever think about selling?
-
-1d ago
-
----
-
-**[arca personal data haven - Reservations Are Open](https://www.reddit.com/r/Bitcoin/comments/1v4bdel/arca_personal_data_haven_reservations_are_open/)**
-
-Reserve arca, Coinkite’s personal data haven for encrypted secrets, recovery, business continuity, inheritance, and multi-location Swarm backups.
-
-🔗 [COINKITE Blog](https://blog.coinkite.com/arca-reservations-are-open/) • 16h ago
-
----
-
-**[How wild would it be if there was a tax credit for mining Bitcoin like there was for solar?](https://www.reddit.com/r/Bitcoin/comments/1v4ovmk/how_wild_would_it_be_if_there_was_a_tax_credit/)**
-
-I do not like the idea of government and Bitcoin getting cozy with each other. But I wonder if politically there was a push to have more Bitcoin mining done in that specific country so that the country was more on a Bitcoin standard as a whole. I'm just spit balling here.
-
-8h ago
-
----
-
-**[Daily Discussion, July 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1v458eg/daily_discussion_july_23_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-22h ago
+45m ago
 
 ---
 
@@ -163,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The day ahead in crypto: July 23, 2026
 
-CoinDesk • 16h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -173,25 +171,25 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Rises as Spot Trading Volume, ETF Flows Improve -- Market Talk](https://www.moomoo.com/news/post/73473056/bitcoin-rises-as-spot-trading-volume-etf-flows-improve-market)**
+**[Bitcoin Holds Near $65,000 as $800 Billion AI Selloff Leaves Crypto Largely Untouched](https://www.moomoo.com/news/post/73475314/bitcoin-holds-near-65000-as-800-billion-ai-selloff-leaves)**
 
-Moomoo • 36m ago
-
----
-
-**[Why Bitcoin’s Latest Bounce Back to $65,000 Might Not Last](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-latest-bounce-back-020000772.html)**
-
-Bitcoin on-chain analysis shows weak spot demand and deep unrealized losses. BTC must reclaim $69,500 to confirm recovery.
-
-Yahoo Finance • 2h ago
+Moomoo • 2h ago
 
 ---
 
-**[BIT Research: U.S. Debt Nears $40 Trillion, Why Are Investors Turning Their Attention to Gold and Bitcoin?](https://www.moomoo.com/community/feed/bit-research-u-s-debt-nears-40-trillion-why-are-116972857852310)**
+**[Hut 8 Stock Surges Up to 200% in 2026 as Bitcoin Mining Unit Struggles](https://finance.yahoo.com/markets/stocks/articles/hut-8-stock-surges-200-021407093.html)**
 
-“From debt refinancing to cross-asset rotation, is capital shifting from stocks into gold and Bitcoin?” The market is currently facing dual pressures from the continued expansion of U.S. government debt and rising Treasury yields. Total outstanding U.S. federal government debt is approaching $40 trillion, while a significant portion of that debt is coming due and will need to be refinanced a...
+Hut 8 stock is up 202% in 2026 on AI hyperscaler deals, but its bitcoin mining spinoff keeps losing value.
 
-Moomoo • 45m ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin grinds higher from here, can't get much worse, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/07/22/bitcoin-grinds-higher-from-here-cant-get-much-worse-says-skybridges-anthony-scaramucci.html)**
+
+The 'Fast Money' traders talk the recent downturn in crypto.
+
+CNBC • 1d ago
 
 ---
 
@@ -203,6 +201,12 @@ The Boston Globe • 2d ago
 
 ---
 
+**[Current price of Bitcoin for July 22, 2026](https://fortune.com/article/price-of-bitcoin-07-22-2026/)**
+
+Fortune • 1d ago
+
+---
+
 **[There’s A New Benchmark Index For Digital Assets—And Bitcoin’s Not In It](https://www.investopedia.com/new-benchmark-index-for-digital-assets-bitcoin-not-in-it-12024600)**
 
 S&P Dow Jones and crypto investment firm Pantera launched a new benchmark for digital assets that doesn’t hold any bitcoin.
@@ -211,25 +215,15 @@ Investopedia • 1d ago
 
 ---
 
-**[Current price of Bitcoin for July 22, 2026](https://fortune.com/article/price-of-bitcoin-07-22-2026/)**
+**[Bitcoin Has Returned 0% for 5 Years. Get Ready for the S&P 500 to Do the Same.](https://www.barchart.com/story/news/3411494/bitcoin-has-returned-0-for-5-years-get-ready-for-the-s-p-500-to-do-the-same)**
 
-Fortune • 1d ago
-
----
-
-**[BlackRock, Coinbase, Strategy in a new group pledging $15 million to prepare Bitcoin for quantum threats](https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats)**
-
-Members will direct funding independently, with the consortium taking no role in Bitcoin governance or protocol decisions.
-
-CoinDesk • 15h ago
+Barchart.com • 1d ago
 
 ---
 
-**[Strategy, BlackRock form Bitcoin Security Consortium to prepare for quantum computing threat](https://www.theblock.co/post/409522/strategy-blackrock-form-bitcoin-security-consortium-to-prepare-for-quantum-computing-threat)**
+**[Bitcoin steady at $65k with Clarity Act progress in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-65k-with-clarity-act-progress-in-focus-4807647)**
 
-Nine firms including Strategy and BlackRock formed a $15 million Bitcoin security consortium to fund post-quantum cryptography research.
-
-The Block • 14h ago
+Investing.com • 23h ago
 
 ---
 
@@ -281,7 +275,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
 
-⬆️ 1 • 💬 0 • 12h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 15h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
 
 ---
 
@@ -305,7 +299,7 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 1h ago • [GitHub](https://github.com/bitmonky/borgHUI)
+⬆️ 2 • 💬 1 • 3h ago • [GitHub](https://github.com/bitmonky/borgHUI)
 
 ---
 
@@ -313,7 +307,7 @@ Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI developme
 
 From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
-⬆️ 2 • 💬 0 • 11h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
+⬆️ 2 • 💬 0 • 14h ago • [Bitflinger](https://blog.bitflinger.tv/from-amazon-sdm-to-solo-developer)
 
 ---
 
@@ -321,23 +315,23 @@ From Amazon Line Manager to Solo Developer: My One-Year Bootstrapping Journey
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;Bitcoin Sellers Are DONE! What Happens NEXT Will SHOCK EVERYONE&quot; - Joe Consorti](https://www.youtube.com/watch?v=jx8S4TT3Jxo)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 169 • 💬 21 • ⏱️ 14:14 • 10h ago
-
----
-
 **[Bitcoin grinds higher from here, can&#39;t get much worse, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=8EKXCmyKt6g)**
 
 The 'Fast Money' traders talk the recent downturn in crypto.
 
 📺 CNBC Television
 
-👁️ 19K • 👍 218 • 💬 184 • ⏱️ 5:18 • 1d ago
+👁️ 20K • 👍 225 • 💬 185 • ⏱️ 5:18 • 1d ago
+
+---
+
+**[&quot;Bitcoin Sellers Are DONE! What Happens NEXT Will SHOCK EVERYONE&quot; - Joe Consorti](https://www.youtube.com/watch?v=jx8S4TT3Jxo)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 177 • 💬 19 • ⏱️ 14:14 • 13h ago
 
 ---
 
@@ -347,37 +341,7 @@ Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 304 • ⏱️ 20:33 • 6h ago
-
----
-
-**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
-
-Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
-
-📺 Altcoin Daily
-
-👁️ 13K • 👍 1K • 💬 167 • ⏱️ 12:09 • 4h ago
-
----
-
-**[Does Jack Mallers EXIT CONFIRM Michael Saylor&#39;s 21M Monopoly?!](https://www.youtube.com/watch?v=dtn2idOk4aU)**
-
-Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treasury landscape. As companies rethink their ...
-
-📺 Simply Bitcoin
-
-👁️ 14K • 👍 844 • 💬 228 • ⏱️ 16:41 • 1d ago
-
----
-
-**[&quot;AI Pays Way More Than Bitcoin&quot;](https://www.youtube.com/watch?v=si7K0uRp9lM)**
-
-MARA Chairman and CEO Fred Thiel unpacks the economic reality behind the global energy crunch. Fred explains why energy is ...
-
-📺 Natalie Brunell
-
-👁️ 2K • 👍 71 • 💬 164 • ⏱️ 1:12 • 9h ago
+👁️ 13K • 👍 1K • 💬 389 • ⏱️ 20:33 • 9h ago
 
 ---
 
@@ -387,7 +351,47 @@ Let us talk about social interest for Bitcoin in 2026 and what we can expect goi
 
 📺 Benjamin Cowen
 
-👁️ 48K • 👍 3K • 💬 210 • ⏱️ 7:39 • 17h ago
+👁️ 51K • 👍 3K • 💬 215 • ⏱️ 7:39 • 20h ago
+
+---
+
+**[Does Jack Mallers EXIT CONFIRM Michael Saylor&#39;s 21M Monopoly?!](https://www.youtube.com/watch?v=dtn2idOk4aU)**
+
+Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treasury landscape. As companies rethink their ...
+
+📺 Simply Bitcoin
+
+👁️ 14K • 👍 861 • 💬 218 • ⏱️ 16:41 • 1d ago
+
+---
+
+**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
+
+Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
+
+📺 Altcoin Daily
+
+👁️ 20K • 👍 1K • 💬 216 • ⏱️ 12:09 • 7h ago
+
+---
+
+**[&quot;AI Pays Way More Than Bitcoin&quot;](https://www.youtube.com/watch?v=si7K0uRp9lM)**
+
+MARA Chairman and CEO Fred Thiel unpacks the economic reality behind the global energy crunch. Fred explains why energy is ...
+
+📺 Natalie Brunell
+
+👁️ 3K • 👍 77 • 💬 203 • ⏱️ 1:12 • 12h ago
+
+---
+
+**[Bitcoin Fakeout! Live Trading &amp; TA](https://www.youtube.com/watch?v=O-tC7o7_GVg)**
+
+Bitcoin Does the Juke Moves! JP & Rob Helps you not get crossed up! Live Trading & TA Get 10% back on your fees with BTCC ...
+
+📺 Sin City Crypto
+
+👁️ 5K • 👍 299 • ⏱️ 4:33:26 • 2h ago
 
 ---
 
@@ -397,27 +401,17 @@ The next Bitcoin move is going to trigger a massive bull or bear trap that liqui
 
 📺 Chart Hackers
 
-👁️ 4K • 👍 337 • 💬 4 • ⏱️ 50:37 • 11h ago
+👁️ 4K • 👍 344 • 💬 4 • ⏱️ 50:37 • 14h ago
 
 ---
 
-**[The Clarity Act could unlock trillions for crypto](https://www.youtube.com/watch?v=zR3XAvr6uLw)**
+**[Massive Rotation Back Into Crypto?📈But Bitcoin Narrative Over?🚨](https://www.youtube.com/watch?v=ejD5S4tDS5g)**
 
-The Clarity Act could become the biggest catalyst institutional crypto has ever seen. In this episode of The Daily Wolf, Scott Melker ...
+An AI-to-crypto capital rotation describes the shifting of institutional and retail investment funds between artificial intelligence ...
 
-📺 Yahoo Finance
+📺 Paul Barron Network
 
-👁️ 11K • 👍 515 • 💬 117 • ⏱️ 14:52 • 12h ago
-
----
-
-**[Bitcoin Live Trading: The Breakout Is Here But Is This a Trap? EP2070](https://www.youtube.com/watch?v=jpO3vNR-Jtg)**
-
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
-
-📺 Crypto Lifer
-
-👁️ 5K • 👍 579 • 💬 26 • ⏱️ 2:14:38 • 11h ago
+👁️ 40K • 👍 2K • 💬 182 • ⏱️ 20:09 • 15h ago
 
 ---
 
