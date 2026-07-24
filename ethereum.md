@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-24T20:24:26.507771+00:00'
+updated: '2026-07-24T21:37:00.072514+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 20:24 UTC  
+**Last Updated:** July 24, 2026 at 21:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +0.1%  
-**30d:** +18.8%  
-**90d:** -21.4%  
-**1y:** -49.9%  
+**24h:** -1.2%  
+**7d:** -0.1%  
+**30d:** +18.6%  
+**90d:** -21.5%  
+**1y:** -50.0%  
 
 ---
 
@@ -154,19 +154,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
-
-Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
-
-CoinDesk • 1d ago
-
----
-
 **[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
 The Block • 1d ago
+
+---
+
+**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
+
+Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Fortune • 10h ago
 
 The chain's new plan calls for a swath of big steps in a few different directions.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -206,7 +206,7 @@ The Motley Fool • 8h ago
 
 Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
@@ -214,15 +214,15 @@ FXStreet • 9h ago
 
 Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
 
-Benzinga • 18h ago
+Benzinga • 19h ago
 
 ---
 
-**[Clarity Act could redefine crypto regulation, impact Ethereum, Solana platforms](https://cryptobriefing.com/clarity-act-could-redefine-crypto-regulation-impact-ethereum-solana-platforms/)**
+**[What Is Gwei? Understanding Ethereum Gas Prices](https://financefeeds.com/what-is-gwei-understanding-ethereum-gas-prices/)**
 
-The Clarity Act aims to redefine crypto regulation for digital commodities. Clarity Act signed into law by 2026 at 36.5% YES.
+Gwei is Ethereum's smallest practical unit, used to price gas fees that determine transaction costs across the network and Layer 2 chains.
 
-Crypto Briefing • 1d ago
+FinanceFeeds • 1h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 734 • 👍 74 • 💬 34 • ⏱️ 18:08 • 4h ago
+👁️ 734 • 👍 74 • 💬 34 • ⏱️ 18:08 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 521 • 💬 235 • ⏱️ 16:34 • 20h ago
+👁️ 10K • 👍 521 • 💬 235 • ⏱️ 16:34 • 21h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 675 • 👍 66 • 💬 8 • ⏱️ 22:07 • 54m ago
+👁️ 675 • 👍 66 • 💬 8 • ⏱️ 22:07 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 180 • 💬 8 • ⏱️ 6:26 • 18h ago
+👁️ 3K • 👍 180 • 💬 8 • ⏱️ 6:26 • 20h ago
 
 ---
 
@@ -286,7 +286,7 @@ Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could re
 
 📺 Lark Davis
 
-👁️ 3K • 👍 94 • 💬 5 • ⏱️ 0:53 • 16h ago
+👁️ 3K • 👍 94 • 💬 5 • ⏱️ 0:53 • 17h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin and Ethereum are nearing major inflection points after BTC's pullback in
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 542 • 💬 76 • ⏱️ 1:00:32 • 17h ago
+👁️ 7K • 👍 542 • 💬 76 • ⏱️ 1:00:32 • 18h ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 380 • 👍 77 • 💬 47 • ⏱️ 7:27 • 4h ago
+👁️ 380 • 👍 77 • 💬 47 • ⏱️ 7:27 • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETH just spiked to $1950 and wiped out $62 million in shorts. Here's the strange
 
 📺 Coin Bureau Podcast
 
-👁️ 452 • 👍 12 • 💬 1 • ⏱️ 0:28 • 3h ago
+👁️ 452 • 👍 12 • 💬 1 • ⏱️ 0:28 • 4h ago
 
 ---
 
