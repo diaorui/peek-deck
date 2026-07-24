@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-24T21:37:00.075676+00:00'
+updated: '2026-07-24T23:02:17.396188+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 24, 2026 at 21:37 UTC  
+**Last Updated:** July 24, 2026 at 23:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 - Weight: ~25 kg with battery. - Speed: Over 6 m/s (higher than the pure-legged As2). - Payload: Continuous ~16 kg; higher static capacity. - Endurance: Unloaded >3 hours / 30+ km; loaded (>16 kg) >2 hours / >16 km. Same 648 Wh (15,000 mAh) battery class as the As2. - Mobility: Up to ~80 cm obstacles, 45° slopes, 30 cm stairs; strong on gravel, rocky, and uneven outdoor terrain. https://www.unitree.com/As2-W
 
-10h ago
+12h ago
+
+---
+
+**[Bob (my robot) died 😢 I tried consolidating 2 LiPo batteries into a 1 larger one and fried its Raspberry Pi brains. I'm gonna rebuild him with a Nvidia Jetson brain and RealSense D457 GMSL camera.](https://www.reddit.com/r/robotics/comments/1v5faas/bob_my_robot_died_i_tried_consolidating_2_lipo/)**
+
+7h ago
 
 ---
 
@@ -44,7 +50,27 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 -
 
 Hey everyone, A while back, I posted here asking for advice on my $149 metal cycloidal actuator project. A lot of folks asked me why I was so obsessed with pushing the hardware BOM cost down so aggressively. Well, this video is exactly why. My co-founder Yiteng and I just released AlohaMini2. To our knowledge, it's the first sub-$1,000 self-build BOM robot capable of end-to-end, long-horizon autonomous tasks (like this grocery manipulation). Here is the technical takeaway that I think will interest this community: The Compute Barrier is Gone: This wasn't trained on a server farm. The AM-ACT policy was trained and deployed entirely on a standard 8GB consumer GPU. Data Efficiency: It only took 50 human demonstration episodes to reach a 50% end-to-end success rate on this specific long-horizon task. We are open-sourcing the entire repo (hardware files & codebase) because we want to prove that you don't need a multi-million-dollar lab to play with cutting-edge Embodied AI anymore. The Real Bottleneck Now? Hardware Reliability. While the software/policy side is moving at lightspeed, keeping a $1,000 robot mechanically alive during 24/7 RL training is a nightmare. 3D printed gears strip, cheap servos overheat. That’s exactly what drove me to start designing metal actuators in the first place. Repo link for anyone who wants to build one or dive into the code:https://github.com/liyiteng/AlohaMini I’m curious—if the software barrier is this low now, what tasks would you guys train a cheap $1k robot to do at home?
 
-15h ago
+16h ago
+
+---
+
+**[[Project] Reproducing NVIDIA’s Isaac Lab-to-VLA pipeline with 50 remotely collected VR demonstrations](https://www.reddit.com/r/robotics/comments/1v5ewia/project_reproducing_nvidias_isaac_labtovla/)**
+
+I’m part of the team that ran this experiment at Sim XR. Sharing it here as a technical project rather than a product announcement. We started by reproducing NVIDIA’s published Isaac Lab → LeRobot → VLA fine-tuning → Arena evaluation workflow for the Unitree G1 apple task. In our matched simulation evaluation: checkpoint trained on 208 usable released demonstrations: 93/100 checkpoint trained on 50 demonstrations we collected remotely through VR: 84/100 We then moved the task to the other side of the workspace. Both existing policies scored 0/20. After collecting targeted demonstrations for the new layout, the best result reached 74/100. Finally, we replaced the apple task with a cross-body mustard-bottle-to-bowl task: released apple checkpoint: 0/30 checkpoint fine-tuned on 50 new VR demonstrations: 27/30 These are simulation results, not a real-robot or sim-to-real claim. The interesting part for us was how sensitive the policies remained to layout changes—and how quickly targeted demonstrations could recover useful behavior. I’d be interested to hear how others are evaluating layout shifts and deciding where additional demonstrations are most useful.
+
+7h ago
+
+---
+
+**[Claude Code skills for ROS 2 Jazzy that route to official docs instead of guessing APIs (measured before/after included)](https://www.reddit.com/r/robotics/comments/1v5h7ud/claude_code_skills_for_ros_2_jazzy_that_route_to/)**
+
+6h ago
+
+---
+
+**[Human Fall Detection By 3D Dtof LIDAR HM-LD1](https://www.reddit.com/r/robotics/comments/1v5crci/human_fall_detection_by_3d_dtof_lidar_hmld1/)**
+
+8h ago
 
 ---
 
@@ -52,63 +78,31 @@ Hey everyone, A while back, I posted here asking for advice on my $149 metal cyc
 
 Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workload-benchmark/ running extended ROS 2 workloads. Pretty cool HW-wise, especially with recent Jetson 50-100% price increase. Hopefully AMD won't price it same as new Thor price 👀 Also vote if you can what HW you use to run ROS (if you use ROS)
 
-🔗 [AMD](https://www.amd.com/en/products/system-on-modules/kria/ai.html) • 10h ago
+🔗 [AMD](https://www.amd.com/en/products/system-on-modules/kria/ai.html) • 12h ago
 
 ---
 
-**[Autonomous RC car loses gps connection when starts the route.](https://www.reddit.com/r/robotics/comments/1v55vrx/autonomous_rc_car_loses_gps_connection_when/)**
+**[I built a real Wall-E](https://www.reddit.com/r/robotics/comments/1v5dvxn/i_built_a_real_walle/)**
 
-Hi everyone I need your help! I don't know if this is the right place for this post, but I'll give it a shot. My thesis is to write a manual for this particular rover and also make a "test drive" with it. I drew the plan in mission planner, changed the necessary parameters and det the rc to auto. Every time it starts with here 3 being solid green and then stops and the colours are flashing yellow and red which I think it means that it lost connection. Then it gets solid green again but i have to switch it back to manual and then auto in order to start again to move and then suddenly stop. I want to clarify that it doesn't stop each tme after a specific amount of time, but it's random. I tried one suggestion which was to raise the here 3 up to 15cm (in the photo is 14.5cm) but once again it didn't work. I should note that lidar should have worked also (by work i mean it should have meade the rc to avoid obstacles) but it doesn't and i'm curious if this is causing the problem. Anyway don't hesitate to ask every detail you want in the comments, I will appreciate all the help you can give me!
+I made this real life Wall-E robot from scratch and am really proud of it so check my youtube video about it out if you would like
 
-12h ago
-
----
-
-**[I built a laser-cut rack & pinion for a NEMA 17 stepper](https://www.reddit.com/r/robotics/comments/1v4l6c3/i_built_a_lasercut_rack_pinion_for_a_nema_17/)**
-
-Design files (DXF) and Arduino code: https://drive.google.com/drive/folders/13WhHXtmIfWlrlRav29l_HFwwOCRubMLY?usp=sharing
-
-1d ago
+🔗 [youtu.be](https://youtu.be/zddu86VGEX0?si=zm1kSBUPQm3cokhk) • 8h ago
 
 ---
 
-**[The second attempt tells more than the success clip](https://www.reddit.com/r/robotics/comments/1v58r1r/the_second_attempt_tells_more_than_the_success/)**
+**[[Collab] Anyone in Houston wants to team up on a robot project](https://www.reddit.com/r/robotics/comments/1v5lcnb/collab_anyone_in_houston_wants_to_team_up_on_a/)**
 
-In a robot demo, I usually watch what happens right after the first miss. Does the robot look again and change its approach, repeat the same motion, or wait for someone off camera to reset the object? For a LingBot-VLA 2.0 evaluation, keep the camera running through the failed grasp and the retry. The useful details are the object's new pose, whether the policy receives a fresh observation, how the next approach point changes, and when a human takes over. A short uncut sequence would answer more than several successful clips. I am less sure how controlled the failure should be. A fixed perturbation makes comparisons easier, but it can also turn the demo into a lab exercise that misses messy real failures. How do people here test recovery and still keep the setup repeatable?
+Hey everyone, I’m currently working on a robot project and was wondering if anyone in the Houston, Texas area would like to join forces. The idea is to combine skills, share knowledge, and build something awesome together. I have the engineering background and some parts already, but I’d love to connect with people who are into robotics, coding, AI, electronics, or even just tinkering and learning. Whether you’re a student, hobbyist, or professional, collaboration makes projects way more fun (and productive). If you’re interested in teaming up or just want to chat about robots, feel free to DM me or drop a comment
 
-10h ago
-
----
-
-**[Playto Labs is a scam](https://www.reddit.com/r/robotics/comments/1v4errx/playto_labs_is_a_scam/)**
-
-Do not sign up with this company unless you want to be scammed. I signed up for their most expensive program, but was not satisfied and requested a refund. It was much less than I thought, but it still wasn't a small amount (a little under $1000). The teachers were nice, but my son was not learning much in terms of robotics. That's when things went south. After being promised my refund, they refused to actually refund me my money, and then ghosted me. This after I spent an additional $100 to ship the robotics kit back to them in India. I tracked it all the way there, just to see it refused by sender. This is what they do. I tried to dispute this with my credit card, but I just found out it was denied because Playto charges through a third party name (Raz*Skyfi Education). They know this, and use it as a loophole to not refund you your credit. Please stay away.
-
-1d ago
+3h ago
 
 ---
 
-**[The 20-second demo that broke my teammate (and what it taught me about debugging)](https://www.reddit.com/r/robotics/comments/1v54wj8/the_20second_demo_that_broke_my_teammate_and_what/)**
+**[ROS News for the Week of July 20th, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1v5l6a5/ros_news_for_the_week_of_july_20th_2026_community/)**
 
-Last week, our marketing team asked me to help shoot a 20-second demo video. Just have our 6-axis arm (Alicia-M) pick up a wooden block, drop it into a small bin, then grab the bin and tip the block out. Twenty seconds. Simple. It was not simple. Here's what I learned watching a non-engineer try to teach this arm the sequence. The first step — pick up the block and drop it in the bin — was almost easy. The second step — grab the bin and tip the block out — broke her brain for two days. Two failure modes I watched her hit, over and over: I can't find the right angle to tip it out." She'd pick up the bin, then spend ten minutes trying different left/right tilts. Nothing worked. The block would either stay stuck in the bin or fly off in a random direction. The cause wasn't the angle she was choosing — it was that she was trying to fix the bin's orientation when the real problem was the block's exit path. The block leaves the bin at an angle that's the sum of the bin's tilt, the bin's rotation around vertical, and gravity. She was tuning one variable; the block was moving in three. The arm missed completely." She'd press go, the gripper would close on empty air, and she'd say "the arm missed it." But the arm didn't miss. The end effector was exactly where the program told it to be. She was watching the block from a camera angle that offset her mental "where" by 2-3 cm. The fix wasn't the arm. The fix was moving the camera to a top-down view, so her mental model matched the arm's coordinate frame. The lesson I didn't expect: I thought I was going to teach her. I came out learning to debug faster. Engineers debug with hypotheses: "the angle is off, let me check the code." Non-engineers debug with action: "let me try the other side, let me close harder." Her action-first approach was noisier — five parameter changes in the time it takes me to formulate one hypothesis — but after I asked her to ask "what did I just see?" before "what should I change?", the pattern emerged. By attempt 20, she could predict the failure before it happened. The third time the bin tilted the wrong way, she said "wait — I'm not picking the angle, I'm picking the trajectory the block will follow." And then she solved it in two tries. The rule I'm keeping: after every failure, describe what you saw. Then diagnose. For those who've taught a non-engineer to use a robot arm: what was the moment your student had the "I can read the failure now" breakthrough? Was it a "the angle is wrong" moment, or a "I'm chasing the wrong variable" moment?
+ROS News for the week of July 20th, 2026                      I’ve had quite the week! In the past seven days, I’ve been to Open Sauce, AMD’s developer conference, and now I’m at Teardown in Portland. It might have also been my birthday this week. 🎂  I’ve run into so many fantastic people building wonderful ROS robots, including a working Johnny 5 replica, a giant art robot with cast aluminum components, a hexapod with a 25 kg payload, a room full of SO-101s, a controllable robot t...
 
-13h ago
-
----
-
-**[Caught these two little robots putting on a dance performance](https://www.reddit.com/r/robotics/comments/1v49m9t/caught_these_two_little_robots_putting_on_a_dance/)**
-
-Two cute little robots dancing to the music and enjoying their moment in the spotlight. Their synchronized movements, tiny gestures, and playful rhythm were surprisingly delightful to watch. I came across this little performance during my day and couldn’t resist recording it.
-
-1d ago
-
----
-
-**[Built this 6DOF using aluminum angles and acrylic plates.](https://www.reddit.com/r/robotics/comments/1v45ity/built_this_6dof_using_aluminum_angles_and_acrylic/)**
-
-Built this 6dof with parts bought from local hardware store. Lot of loose parts now, needs fine tune or redo. Plan is to create mobile arm. Waiting for wheels and step motor. Controlled by raspberry pi.
-
-1d ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-20th-2026/56937) • 3h ago
 
 ---
 
@@ -128,7 +122,7 @@ Time Magazine • 1d ago
 
 A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -136,13 +130,13 @@ Business Insider • 13h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 1h ago
+IEEE Spectrum • 3h ago
 
 ---
 
 **[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -156,7 +150,7 @@ GeekWire • 1d ago
 
 **[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
 
-Tech Xplore • 8h ago
+Tech Xplore • 10h ago
 
 ---
 
@@ -164,7 +158,15 @@ Tech Xplore • 8h ago
 
 These are things that tend to be really hard."
 
-Ars Technica • 6h ago
+Ars Technica • 7h ago
+
+---
+
+**[Tesla’s profits slide despite growing revenue as it pivots to robotics and AI](https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings)**
+
+Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations
+
+The Guardian • 2d ago
 
 ---
 
@@ -172,7 +174,7 @@ Ars Technica • 6h ago
 
 AMD revealed new offers around Helios rackscale, MI400 GPUs, new Epyc CPUs, a robotics partner network and more during its annual conference.
 
-crn.com • 23h ago
+crn.com • 1d ago
 
 ---
 
@@ -181,14 +183,6 @@ crn.com • 23h ago
 At the Advancing AI 2026 event, AMD announced its first entry into "physical AI," a category that covers robotics, industrial automation, and other real-time embedded systems. The company announced new embedded silicon, a turnkey robotics platform, and an open partner ecosystem. These...
 
 TechPowerUp • 1d ago
-
----
-
-**[From Benchmarks to Behavior: Rethinking Performance in Autonomous Robotics](https://www.amd.com/en/blogs/2026/from-benchmarks-to-behavior-rethinking-performance-in-a.html)**
-
-See how AMD Ryzen™ AI Embedded X100 processors help autonomous robotics sustain AI, control and sensor workloads in real time.
-
-AMD • 1d ago
 
 ---
 
@@ -202,7 +196,17 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 2.6M • 👍 2K • 💬 409 • ⏱️ 2:15 • 4d ago
+👁️ 2.6M • 👍 2K • 💬 413 • ⏱️ 2:15 • 4d ago
+
+---
+
+**[Unitree AS2 W Shows The Future Of Autonomous Robots](https://www.youtube.com/watch?v=OePErI3OoRI)**
+
+The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it climb steep rocks, cross streams, tackle rough ...
+
+📺 DPCcars
+
+👁️ 1K • 👍 36 • 💬 3 • ⏱️ 2:32 • 8h ago
 
 ---
 
@@ -212,7 +216,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 27K • 👍 752 • 💬 105 • ⏱️ 13:15 • 5d ago
+👁️ 27K • 👍 756 • 💬 105 • ⏱️ 13:15 • 5d ago
 
 ---
 
@@ -222,7 +226,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 48K • 👍 505 • 💬 188 • ⏱️ 4:18 • 6d ago
+👁️ 48K • 👍 505 • 💬 189 • ⏱️ 4:18 • 6d ago
 
 ---
 
@@ -232,47 +236,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 51K • 👍 2K • 💬 157 • ⏱️ 12:28 • 3d ago
-
----
-
-**[China&#39;s New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned](https://www.youtube.com/watch?v=phHhqt2df6I)**
-
-China's latest robotic bricklayer is transforming the future of construction by building walls up to **6x faster than traditional human ...
-
-📺 RedTech Insights
-
-👁️ 22K • 👍 433 • 💬 35 • ⏱️ 19:31 • 4d ago
-
----
-
-**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
-
-America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
-
-📺 S3 | Science, Startups, & Stories
-
-👁️ 37K • 👍 1K • 💬 96 • ⏱️ 14:37 • 6d ago
-
----
-
-**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
-
-War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 14K • 👍 556 • 💬 189 • ⏱️ 14:51 • 1d ago
-
----
-
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
-
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
-
-📺 New York Post
-
-👁️ 39K • 👍 814 • 💬 370 • ⏱️ 2:02 • 2d ago
+👁️ 53K • 👍 2K • 💬 161 • ⏱️ 12:28 • 3d ago
 
 ---
 
@@ -282,7 +246,7 @@ Everyone is asking if killer robots are coming. Wrong question. One already knoc
 
 📺 Ambrose In China
 
-👁️ 579K • 👍 21K • 💬 4K • ⏱️ 2:25 • 4d ago
+👁️ 585K • 👍 21K • 💬 4K • ⏱️ 2:25 • 4d ago
 
 ---
 
@@ -292,7 +256,37 @@ Humanoid robots are suddenly everywhere - dancing, boxing, running marathons and
 
 📺 BBC World Service
 
-👁️ 18K • 👍 306 • 💬 96 • ⏱️ 18:15 • 2d ago
+👁️ 18K • 👍 307 • 💬 96 • ⏱️ 18:15 • 3d ago
+
+---
+
+**[The Brothers Betting Their Robots Can Solve America&#39;s Welding Crisis | Path Robotics](https://www.youtube.com/watch?v=cI1XawnfEJE)**
+
+America is running out of welders. By 2035, we'll lose 43% of America's welding workforce. @path_robotics is building robots to ...
+
+📺 S3 | Science, Startups, & Stories
+
+👁️ 37K • 👍 1K • 💬 97 • ⏱️ 14:37 • 6d ago
+
+---
+
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+
+📺 New York Post
+
+👁️ 41K • 👍 833 • 💬 377 • ⏱️ 2:02 • 2d ago
+
+---
+
+**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
+
+War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 15K • 👍 568 • 💬 190 • ⏱️ 14:51 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-24T21:37:00.066447+00:00'
+updated: '2026-07-24T23:02:17.387846+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 21:37 UTC  
+**Last Updated:** July 24, 2026 at 23:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
+**24h:** -1.2%  
 **7d:** -1.0%  
 **30d:** +7.5%  
 **90d:** -18.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1286.93B
+**Market Cap:** $1286.21B
 Rank #1
 
-**Circulating Supply:** 20,060,787 BTC
+**Circulating Supply:** 20,060,821 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.1%
 
 **All-Time Low:** $67.81
-+94505.5%
++94453.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 So yeah… I finally did it. After years of working, saving, overthinking, and pretending I was waiting for the “perfect entry,” I moved about $48,000 of my savings into Bitcoin. That’s basically most of what I’ve built from my job over the last few years. Not some lottery money. Not daddy money. Just paychecks, side gigs, skipping dumb expenses, and trying not to blow it all on random stuff xD I’m not saying this is smart. I’m not telling anyone to copy me. I know BTC can still drop 20–30% and make me look like a clown by next week. But I’m 31, no major family responsibilities yet, and I’d rather take a real shot now than sit around for another 10 years saying “I should’ve bought more.” I’m still keeping a small mining angle with oneminers too, so I’m not only relying on staring at candles like a stressed goblin. Plan is simple: hold long term, survive the ugly dips, ignore the noise, and see where this thing is in 10 years. Could be genius. Could be cope. Either way, I picked my lane.
 
-6h ago
+7h ago
 
 ---
 
@@ -89,13 +89,13 @@ So yeah… I finally did it. After years of working, saving, overthinking, and p
 
 I am very much confident of a bottom within a few weeks. Bitcoin isn't going helow 60k.
 
-22h ago
+23h ago
 
 ---
 
 **[The Orange Revolution](https://www.reddit.com/r/Bitcoin/comments/1v4yg68/the_orange_revolution/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -103,7 +103,7 @@ I am very much confident of a bottom within a few weeks. Bitcoin isn't going hel
 
 I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a month before tax and spending. Is there any way for me to reach 1 coin1-10 coins in a foreseeable future. (Let’s say 5 years) I just don’t know how there are so many people have a lot of money just to invest. I can barely break even sometimes, the rent is my highest spending, I was thinking maybe just living in my car. But I do need some advice, I can pull out probably $200 max every two weeks. Can you guys share your stories of how you have a whole coin or accumulate aggressively. Thank you
 
-15h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +119,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin Optech newsletter #415 is here: describes a draft BIP for full aggregation of BIP340 signatures summarizes changes to services/client software Optech Newsletter #415 Podcast https://bitcoinops.org/en/newsletters/2026/07/24/ Fabian Jahr posted to the Bitcoin-Dev mailing list about a new draft BIP for full aggregation of BIP340 schnorr signatures, a standard for the DahLIAS aggregate signature scheme... https://bitcoinops.org/en/newsletters/2026/07/24/#draft-bip-for-full-aggregation-of-bip340-signatures Changes to services and client software: Wasabi Wallet 2.8.0 released Coinswap v0.2.2 released Go secp256k1 library announced ASMap dashboard announced Wavelength alpha released https://bitcoinops.org/en/newsletters/2026/07/24/#changes-to-services-and-client-software Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/24/) • 9h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/24/) • 10h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bitcoin Optech newsletter #415 is here: describes a draft BIP for full aggregati
 
 Hi guys, I’m from the UK & I’ve only ever bought my bitcoin through Binance. As I understand it it we can no longer do that. What’s your recommended platform for someone from the UK?
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ Hi guys, I’m from the UK & I’ve only ever bought my bitcoin through Binance.
 
 Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people advising to sell the last few days, saying we are going to do another 20-30% dump.. essentially the argument is that we are entering a no more cheap money period, and we aren’t getting rate cuts any time soon, there’s no halving in the next few years so there are no bullish catalysts.. and the technical setup isn’t great. Whats everyone doing rn? We adding, holding or trimming?
 
-22h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ Been out of the game for a few years. Getting back in and privacy still matters 
 
 Would like to invest. Where would you recommend I start?
 
-17h ago
+18h ago
 
 ---
 
@@ -163,13 +163,59 @@ Would like to invest. Where would you recommend I start?
 
 New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
 **[The Bitcoin Slump Is Crushing Companies That Stockpiled Tokens](https://www.bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens)**
 
 Bloomberg.com • 2d ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
+
+Morningstar • 13h ago
+
+---
+
+**[Ransom note in Nancy Guthrie kidnapping demanded millions in bitcoin](https://www.scrippsnews.com/us-news/ransom-note-in-nancy-guthrie-kidnapping-demanded-millions-in-bitcoin)**
+
+New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
+
+Scripps News • 7h ago
+
+---
+
+**[Brewery uses solar bitcoin rig to make beer and cover power bills](https://www.abc.net.au/news/2026-07-25/bitcoin-mine-generates-heat-to-produce-beer/106831374)**
+
+A brewery is using a bitcoin mine to heat the water used in beer production as a way to use up surplus energy generated by rooftop solar panels.
+
+ABC News & Headlines – Australian Broadcasting Corporation • 3h ago
+
+---
+
+**[Morgan Stanley sees AI data center pivot unlocking upside for bitcoin miners](https://finance.yahoo.com/technology/ai/articles/morgan-stanley-sees-ai-data-175347881.html)**
+
+Investing.com -- Morgan Stanley initiated coverage of bitcoin miners turned AI infrastructure providers, arguing that companies with large, grid-connected power assets are well positioned to benefit from surging demand for AI data centers as hyperscalers race to secure electricity for compute expansion.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin grinds higher from here, can't get much worse, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/07/22/bitcoin-grinds-higher-from-here-cant-get-much-worse-says-skybridges-anthony-scaramucci.html)**
+
+The 'Fast Money' traders talk the recent downturn in crypto.
+
+CNBC • 2d ago
+
+---
+
+**[After 5 Investigates' reports, Mass. Senate advances Bitcoin ATM ban](https://www.wcvb.com/article/massachusetts-senate-passes-amendment-to-ban-bitcoin-atms/73249981)**
+
+Massachusetts residents have lost millions to Bitcoin ATM scams
+
+WCVB • 8h ago
 
 ---
 
@@ -183,53 +229,7 @@ The Block • 1d ago
 
 **[Quantum and Crypto Are on a Collision Course—and Wall Street Is Spending Millions to Stop It](https://www.barrons.com/articles/quantum-crypto-bitcoin-danger-f4d5c9f8)**
 
-Barron's • 21m ago
-
----
-
-**[MSTR Stock Falls Amid Bitcoin’s Drop Below $65K – Strategy Joins BlackRock, Coinbase In $15 Million Bitcoin Security Push](https://finance.yahoo.com/markets/crypto/articles/mstr-stock-falls-amid-bitcoin-144057683.html)**
-
-The dip in MSTR’s stock came alongside weakness in the overall cryptocurrency market, with Bitcoin’s price dropping below the $65,000 level.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Weekly Wrap: Bitcoin Holds Firm As Stocks Post Losing Week](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-holds-firm-211100520.html)**
-
-Bitcoin (CRYPTO: $BTC) has outperformed stocks over the past week despite rising market volatility caused by corpor...
-
-Yahoo Finance • 26m ago
-
----
-
-**[After MicroStrategy, another crypto company sells Bitcoin](https://sg.finance.yahoo.com/news/microstrategy-another-crypto-company-sells-204402224.html)**
-
-The ongoing crypto winter has forced Michael Saylor's Strategy (Nasdaq: MSTR), formerly MicroStrategy, to sell Bitcoin (BTC) twice this year. 32 Bitcoin for around $2.5 million during May 26-313,588 BTC for $216 million during June 29-July 5 The company has sold Bitcoin for the first time after ...
-
-Yahoo Finance Singapore • 52m ago
-
----
-
-**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
-
-Morningstar • 11h ago
-
----
-
-**[Ransom note in Nancy Guthrie kidnapping demanded millions in bitcoin](https://www.scrippsnews.com/us-news/ransom-note-in-nancy-guthrie-kidnapping-demanded-millions-in-bitcoin)**
-
-New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
-
-Scripps News • 5h ago
-
----
-
-**[After 5 Investigates' reports, Mass. Senate advances Bitcoin ATM ban](https://www.wcvb.com/article/massachusetts-senate-passes-amendment-to-ban-bitcoin-atms/73249981)**
-
-Massachusetts residents have lost millions to Bitcoin ATM scams
-
-WCVB • 7h ago
+Barron's • 1h ago
 
 ---
 
@@ -305,7 +305,7 @@ Borg Internet Operating System -  Resistance is futile...  The Internet became c
 
 Node.js client for the BorgIOS Network. Contribute to bitmonky/borgHUI development by creating an account on GitHub.
 
-⬆️ 4 • 💬 1 • 18h ago • [GitHub](https://github.com/bitmonky/borgHUI)
+⬆️ 4 • 💬 1 • 19h ago • [GitHub](https://github.com/bitmonky/borgHUI)
 
 ---
 
@@ -327,17 +327,27 @@ In this interview, Samson Mow shares his latest outlook on Bitcoin and explains 
 
 📺 Cointelegraph
 
-👁️ 5K • 👍 184 • 💬 87 • ⏱️ 20:40 • 8h ago
+👁️ 6K • 👍 216 • 💬 76 • ⏱️ 20:40 • 10h ago
 
 ---
 
-**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
+**[Bitcoin Down 3 Days: Bull Trap Or Buy Zone?](https://www.youtube.com/watch?v=tEkGqkaCa6I)**
 
-Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
+Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now at http://wallet.rumble.com/Verified and use ...
 
-📺 Altcoin Daily
+📺 Gareth Soloway
 
-👁️ 38K • 👍 2K • 💬 224 • ⏱️ 12:09 • 21h ago
+👁️ 18K • 👍 2K • 💬 106 • ⏱️ 10:40 • 5h ago
+
+---
+
+**[🚨 BITCOIN TRAP!!?!!! ONCE IT BECOMES OBVIOUS... IT MIGHT BE TOO LATE.....!](https://www.youtube.com/watch?v=RxvzlcmX-o0)**
+
+Bitcoin may be about trap most traders! This could be the least favorite part of the #BTC cycle but also the most important!
+
+📺 Crypto Zombie
+
+👁️ 7K • 👍 919 • 💬 206 • ⏱️ 34:08 • 7h ago
 
 ---
 
@@ -347,7 +357,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 202 • 💬 17 • ⏱️ 14:14 • 1d ago
+👁️ 5K • 👍 203 • 💬 17 • ⏱️ 14:14 • 1d ago
 
 ---
 
@@ -357,67 +367,57 @@ Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 447 • ⏱️ 20:33 • 1d ago
+👁️ 21K • 👍 2K • 💬 468 • ⏱️ 20:33 • 1d ago
 
 ---
 
-**[Does Jack Mallers EXIT CONFIRM Michael Saylor&#39;s 21M Monopoly?!](https://www.youtube.com/watch?v=dtn2idOk4aU)**
+**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
 
-Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treasury landscape. As companies rethink their ...
+Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 15K • 👍 900 • 💬 185 • ⏱️ 16:41 • 2d ago
-
----
-
-**[Bitcoin: Between a Rock and a Hard Place](https://www.youtube.com/watch?v=JY_wY8XXjYU)**
-
-Let's talk about Bitcoin price and what to expect over the coming months. Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 30K • 👍 2K • 💬 112 • ⏱️ 10:01 • 8h ago
+👁️ 40K • 👍 2K • 💬 264 • ⏱️ 12:09 • 22h ago
 
 ---
 
-**[Bitcoin Social Interest: Dozens of us Left](https://www.youtube.com/watch?v=UIv9IQ4uXEA)**
+**[The Last Chance Pause as Bitcoin Price Chart, Altcoin Market and XRP Price Setup Foundation for Bull](https://www.youtube.com/watch?v=RrNkGtUnESo)**
 
-Let us talk about social interest for Bitcoin in 2026 and what we can expect going forward. Check out the July Bitcoin memo: ...
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
 
-📺 Benjamin Cowen
+📺 Blockchain Backer
 
-👁️ 59K • 👍 3K • 💬 239 • ⏱️ 7:39 • 1d ago
-
----
-
-**[Morgan Stanley&#39;s crypto plan is much bigger than Bitcoin](https://www.youtube.com/watch?v=g9WFO0M9KT4)**
-
-Morgan Stanley says Wall Street is just getting started with crypto. In this episode of The Daily Wolf, Scott Melker sits down with ...
-
-📺 Yahoo Finance
-
-👁️ 3K • 👍 232 • 💬 84 • ⏱️ 14:54 • 5h ago
+👁️ 21K • 👍 2K • 💬 35 • ⏱️ 17:56 • 10h ago
 
 ---
 
-**[Massive Rotation Back Into Crypto?📈But Bitcoin Narrative Over?🚨](https://www.youtube.com/watch?v=ejD5S4tDS5g)**
+**[EVERYONE&#39;S WRONG! Bitcoin Isn&#39;t Ready Yet (Here&#39;s Why) | Raoul Pal](https://www.youtube.com/watch?v=L9axtHPo_ew)**
 
-An AI-to-crypto capital rotation describes the shifting of institutional and retail investment funds between artificial intelligence ...
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
 
-📺 Paul Barron Network
+📺 Savvy Finance
 
-👁️ 46K • 👍 2K • 💬 202 • ⏱️ 20:09 • 1d ago
+👁️ 1K • 👍 104 • 💬 45 • ⏱️ 15:57 • 4h ago
 
 ---
 
-**[We PREDICT The Bitcoin Cycle Bottom](https://www.youtube.com/watch?v=WxIQdIXn280)**
+**[$39 Trillion Bitcoin Bombshell - Lummis Reveals The Math](https://www.youtube.com/watch?v=dqtaya_16SE)**
 
-BUY MY BOOK HERE: https://www.amazon.com/dp/B0H9YMJK5H FREE WEEKLY REPORT: ...
+Subscribe before the next Bitcoin bombshell. Could Bitcoin actually erase America's $39 trillion national debt? Today, Senator ...
 
-📺 Crypto Tips
+📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 492 • 💬 54 • ⏱️ 6:29 • 5h ago
+👁️ 308 • 👍 48 • 💬 30 • ⏱️ 17:40 • 57m ago
+
+---
+
+**[Bitcoin Testing KEY SUPPORT! Can Bitcoin HOLD?](https://www.youtube.com/watch?v=WOT9s1WV9cI)**
+
+Are you ready? YUBIT: https://www.yubit.com/en-US/register?inviteCode=MJOD $50000 Welcome Bonus + $5000 Weekly ...
+
+📺 Crypto Jebb
+
+👁️ 2K • 👍 121 • 💬 32 • ⏱️ 36:05 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-24T21:37:00.072514+00:00'
+updated: '2026-07-24T23:02:17.393291+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 21:37 UTC  
+**Last Updated:** July 24, 2026 at 23:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
+**24h:** -0.6%  
 **7d:** -0.1%  
 **30d:** +18.6%  
 **90d:** -21.5%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.71B
+**Market Cap:** $224.38B
 Rank #2
 
 **Circulating Supply:** 120,682,712 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.4%
 
 **All-Time Low:** $0.43
-+429962.4%
++429304.2%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 2d ago
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 3d ago
 
 ---
 
@@ -114,7 +114,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 **[Looking for recommendations for a home server for an evm blockchain node/validator](https://www.reddit.com/r/ethereum/comments/1v13xwa/looking_for_recommendations_for_a_home_server_for/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -145,6 +145,16 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 ---
 
 ## Google News: "ethereum"
+
+**[Bitmine Immersion Technologies (BMNR) On Its $73 Million Ethereum Buy And A Tough Valuation Debate](https://simplywall.st/stocks/us/software/nyse-bmnr/bitmine-immersion-technologies/news/bitmine-immersion-technologies-bmnr-on-its-73-million-ethere)**
+
+Bitmine Immersion Technologies (BMNR) is back in focus after disclosing a new US$73 million Ethereum purchase, lifting its holdings to about 5.78 million ETH and intensifying debate around concentration risk and stock volatility.
+See our latest analysis for Bitmine Immersion Technologies.
+At a share price of US$15.79, Bitmine Immersion Technologies has seen a 12.62% 1 month share price return but is still down 49.37% year to date, with a 60.31% decline in 1 year total shareholder return. This...
+
+simplywall.st • 1h ago
+
+---
 
 **[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
 
@@ -178,14 +188,6 @@ TradingView • 1d ago
 
 ---
 
-**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
-
-Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
-
-Seeking Alpha • 1d ago
-
----
-
 **[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -198,15 +200,7 @@ Fortune • 10h ago
 
 The chain's new plan calls for a swath of big steps in a few different directions.
 
-The Motley Fool • 9h ago
-
----
-
-**[Crypto Today: BTC, ETH, XRP steady as ETF flows diverge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-pare-losses-as-breakout-potential-builds-202607241100)**
-
-Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
-
-FXStreet • 10h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -214,15 +208,23 @@ FXStreet • 10h ago
 
 Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
 
-Benzinga • 19h ago
+Benzinga • 21h ago
 
 ---
 
-**[What Is Gwei? Understanding Ethereum Gas Prices](https://financefeeds.com/what-is-gwei-understanding-ethereum-gas-prices/)**
+**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
 
-Gwei is Ethereum's smallest practical unit, used to price gas fees that determine transaction costs across the network and Layer 2 chains.
+Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
 
-FinanceFeeds • 1h ago
+FXStreet • 1d ago
+
+---
+
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
+
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -236,67 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 734 • 👍 74 • 💬 34 • ⏱️ 18:08 • 5h ago
-
----
-
-**[Crypto Is About To Find Out | Bitcoin, Ethereum &amp; Cardano At The Decision Point](https://www.youtube.com/watch?v=yt-KCiUDkfg)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 521 • 💬 235 • ⏱️ 16:34 • 21h ago
-
----
-
-**[BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=clGF8fkrBfk)**
-
-BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 675 • 👍 66 • 💬 8 • ⏱️ 22:07 • 2h ago
-
----
-
-**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=NU6MsFNYfaY)**
-
-In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 180 • 💬 8 • ⏱️ 6:26 • 20h ago
-
----
-
-**[Joseph Chalom: Ethereum Is Going On Offense (Be Early)](https://www.youtube.com/watch?v=lNvBwMRc5fo)**
-
-Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bullish dynamic once market sentiment turns.
-
-📺 The Rollup
-
-👁️ 3K • 👍 59 • 💬 8 • ⏱️ 3:42 • 1d ago
-
----
-
-**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
-
-Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
-
-📺 Lark Davis
-
-👁️ 3K • 👍 94 • 💬 5 • ⏱️ 0:53 • 17h ago
-
----
-
-**[Bitcoin and Ethereum Are SO CLOSE To Topping Out!](https://www.youtube.com/watch?v=uSOiplF15DU)**
-
-Bitcoin and Ethereum are nearing major inflection points after BTC's pullback inside the daily TBO cloud and Ethereum's break ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 7K • 👍 542 • 💬 76 • ⏱️ 1:00:32 • 18h ago
+👁️ 2K • 👍 105 • 💬 23 • ⏱️ 18:08 • 6h ago
 
 ---
 
@@ -306,7 +248,57 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 380 • 👍 77 • 💬 47 • ⏱️ 7:27 • 5h ago
+👁️ 655 • 👍 113 • 💬 50 • ⏱️ 7:27 • 6h ago
+
+---
+
+**[Crypto Is About To Find Out | Bitcoin, Ethereum &amp; Cardano At The Decision Point](https://www.youtube.com/watch?v=yt-KCiUDkfg)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 527 • 💬 290 • ⏱️ 16:34 • 22h ago
+
+---
+
+**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=NU6MsFNYfaY)**
+
+In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 183 • 💬 8 • ⏱️ 6:26 • 21h ago
+
+---
+
+**[BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=clGF8fkrBfk)**
+
+BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 141 • 💬 154 • ⏱️ 22:07 • 3h ago
+
+---
+
+**[Joseph Chalom: Ethereum Is Going On Offense (Be Early)](https://www.youtube.com/watch?v=lNvBwMRc5fo)**
+
+Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bullish dynamic once market sentiment turns.
+
+📺 The Rollup
+
+👁️ 3K • 👍 61 • 💬 9 • ⏱️ 3:42 • 1d ago
+
+---
+
+**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
+
+Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
+
+📺 Lark Davis
+
+👁️ 3K • 👍 100 • 💬 5 • ⏱️ 0:53 • 19h ago
 
 ---
 
@@ -316,17 +308,27 @@ ETH just spiked to $1950 and wiped out $62 million in shorts. Here's the strange
 
 📺 Coin Bureau Podcast
 
-👁️ 452 • 👍 12 • 💬 1 • ⏱️ 0:28 • 4h ago
+👁️ 674 • 👍 14 • 💬 2 • ⏱️ 0:28 • 6h ago
 
 ---
 
-**[Tom Lee’s BMNR Buyback Changes The Ethereum Trade As MSTR Loses Its Bitcoin Premium](https://www.youtube.com/watch?v=c3JoYMG70fI)**
+**[Bitcoin and Ethereum Are SO CLOSE To Topping Out!](https://www.youtube.com/watch?v=uSOiplF15DU)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
+Bitcoin and Ethereum are nearing major inflection points after BTC's pullback inside the daily TBO cloud and Ethereum's break ...
 
-📺 MONEY GAME
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 4K • 👍 120 • 💬 16 • ⏱️ 17:35 • 1d ago
+👁️ 7K • 👍 549 • 💬 78 • ⏱️ 1:00:32 • 19h ago
+
+---
+
+**[BALEIAS ESTÃO SHORTANDO BITCOIN E ETHEREUM: O QUE ELAS SABEM?](https://www.youtube.com/watch?v=utRYblKlbtE)**
+
+Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto boa parte do varejo já acredita em uma ...
+
+📺 Augusto Backes
+
+👁️ 1K • 👍 164 • 💬 60 • ⏱️ 13:08 • 1h ago
 
 ---
 
