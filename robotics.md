@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-25T21:56:26.078877+00:00'
+updated: '2026-07-25T22:57:14.436464+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 25, 2026 at 21:56 UTC  
+**Last Updated:** July 25, 2026 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Pouring cup Robot](https://www.reddit.com/r/robotics/comments/1v61zoy/pouring_cup_robot/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello hello, development of the upgrade, CubicDoggo 06R (High Mobility, sort of), is now complete, and the full project is documented on GitHub: https://github.com/SphericalCowww/CubicDoggo_06R The previous post can be found here. But yeah, the performance is not as ideal. You can see it's still wobbling when just standing there, and the IMU is not even balanced to be parallel to the ground. The effect of the IMU during walking is also difficult to notice because of how wonky it walks to begin with and how bad I am at controlling it to walk in a straight line, lol. However, you can see the subtle sign right before it stops walking. Its front-right leg is fully extended. This is also why I hit the stop button, because the next step may make the joint flip backwards, causing it to fall. Happened a few times, actually. Without IMU, though, what happens is worse, in that it simply tumbles and rolls over. Also happened a few times, oh well. Next step will be 06Z Neucommu with simulation and RL, and 07B Wouf with stronger servos (a lot of mechanical reinforcement was actually planned for 07B). This is no Unitree superdog, but I am still excited about its progress and enjoy all the Reddit discussions :)
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello hello, development of the upgrade, CubicDoggo 06R (High Mobility, sort of)
 
 I’ve just released Polka v0.5.0! It’s an efficient 2D/3D Lidar processing node handling merging, filtering, and deskewing. This update brings 6.2x faster deskewing, live parameter tuning, smarter IMU handling, and a built-in diagnostics dashboard. If it saves your perception stack compute and brings a faster solution, please drop a star! https://github.com/Pana1v/polka It supports 5 distros.
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 -
 
 https://www.youtube.com/@ALMA.Industries Built a control panel with on/off switches to control DC power supplies (48v, 12v, 24v). AC Outlets always give power regardless of switch states. Used hold home outlets and switches. Turns out to be something I use quite frequently. Full build is in the link above.
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ https://www.youtube.com/@ALMA.Industries Built a control panel with on/off switc
 
 PlannerTrack is a platform for developing and testing autonomous vehicle algorithms, behavior, multi-agent coordination, planning, and control, built around a heterogeneous multi-agent mathematical model based simulator core, with a plugin architecture designed to support multiple vehicle types (ground vehicles, aerial vehicles) without hardcoding vehicle-specific simulation code. In coming days I am planning to extend the project for multiple scenarios, addition of complex predictive planning and control algorithms, multi agent planning. PlannerTrack-github
 
-15h ago
+16h ago
 
 ---
 
@@ -82,7 +82,7 @@ PlannerTrack is a platform for developing and testing autonomous vehicle algorit
 
 I will list the arguments commonly made in favor of humanoid robots and then rebut them each respectively: "Our world is already designed for the human form" Many environments are indeed designed with the human body in mind, for instance door frame dimensions, door knobs, flat floors, staircases, etc. but it's a mistake to imply that only robots with human features can operate under these conditions, that only robots that have human hands and digits, only robots that have legs and feet, only robots that stand upright, only robots with a human head, etc. when this is obviously not the case. Wheels are compatible with flat floors, many kinds of robots can pass through standard door frame dimensions, simpler hands can be compatible with door knobs, multiple kinds of non-humanoid features can climb stairs, etc. Even if we grant that non-humanoid robots are impractical with these human-designed environments, you can easily remove some of these human-designed features to better accommodate a non-humanoid robot, especially if the non-humanoid robot is much cheaper and superior in productivity than the humanoid, which segways to my second point: This argument implies it costs more than it would justify to redesign the environment to accommodate a non-humanoid robot, but this is often not the case. In fact, much of the world is already designed to accommodate non-humanoid machines, and we already redesign the environment to accommodate non-humanoid machines all the time, because the benefits derived from the non-humanoid machine are so great that it more than justifies the cost of redesigning the environment to accommodate it. Consider for example road and rail infrastructure, which is designed to accommodate automobiles and trains, an example where the benefit of using these non-humanoid machines outweighed the cost of building the environment to accommodate it. Similarly, the benefit of non-humanoid machines in other domains can outweigh the cost of redesigning the environment. "Economics of Scale" All things equal, a mechanically simple non-humanoid robot is cheaper to manufacture and mass produce than a mechanically complex humanoid robot. So the fixed costs for the former are smaller, plus more units are produced, meaning the fixed costs in the former are not only smaller, but they are divided between more units than the humanoid robot. So a mechanically simple non-humanoid robot would benefit more from economies of scale than a mechanically complex humanoid robot. "I don't want to deal with having a separate special-purpose machine for each and every task, I want one that can do it all" I understand the convenience of having a singular machine that can do it all instead of holding a bunch of machines. For instance, it's more convenient to carry a smartphone that can do the task of taking pictures, texting and calling, telling the time, going on the internet, etc. all in one, rather than having separate machines that can do each. But unlike the smartphone, which these days is not too dissimilar (or even superior) in quality from the kind of minimal quality people are looking for in individual cameras, dumbphones, digital clocks, personal desktop computers, etc. the humanoid machine may be so inferior in productivity compared to a collection of non-humanoid machines, that it may justify having a bunch of machines. This is not to mention that a generalist machine can also be non-humanoid. "In homes, where the environment will not change, it makes more sense." It could make more sense, and maybe people find an anthropomorphic design to be more comforting (big maybe), but it's still the case that the environment can be redesigned to better accommodate a non-humanoid machine. Garages, kitchens, and laundry rooms are all made to accommodate non-humanoid machines, for example.
 
-8h ago
+9h ago
 
 ---
 
@@ -94,7 +94,7 @@ I will list the arguments commonly made in favor of humanoid robots and then reb
 
 **[How Do Robotics Startups Get Their First Funding?](https://www.reddit.com/r/robotics/comments/1v65t8w/how_do_robotics_startups_get_their_first_funding/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -102,7 +102,7 @@ I will list the arguments commonly made in favor of humanoid robots and then reb
 
 Hi everyone, We're currently in the R&D phase of designing a quadruped robot and are evaluating actuator options for the leg joints. We're looking for recommendations from engineers or researchers who have worked on legged robots. Our main requirements are: High torque-to-weight ratio Compact integrated BLDC servo actuators CAN or EtherCAT communication Reliable performance for continuous operation Good documentation and developer support We've come across manufacturers such as CubeMars (T-Motor), MyActuator, and Unitree, but we'd love to hear about real-world experience. If you've built a quadruped or humanoid robot, which actuators did you choose, and what would you recommend or avoid? If there are other manufacturers or open-source projects we should look at, we'd really appreciate your suggestions. Thanks in advance!
 
-10h ago
+11h ago
 
 ---
 
@@ -126,25 +126,17 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[With Washington’s help, humanoid robots can transform US manufacturing](https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/)**
+
+The Hill • 10h ago
+
+---
+
 **[This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around.](https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7)**
 
 A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
 
 Business Insider • 1d ago
-
----
-
-**[China unveils humanoid robots with dual-battery hot swap for nonstop factory operations](https://interestingengineering.com/ai-robotics/shanghai-electric-china-industrial-humanoid-robots)**
-
-Shanghai Electric unveiled humanoid robots, smart factory software, and 51 industrial models at WAIC 2026 to automate manufacturing.
-
-Interesting Engineering • 22h ago
-
----
-
-**[With Washington’s help, humanoid robots can transform US manufacturing](https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/)**
-
-The Hill • 9h ago
 
 ---
 
@@ -154,17 +146,25 @@ South China Morning Post • 2d ago
 
 ---
 
+**[China unveils humanoid robots with dual-battery hot swap for nonstop factory operations](https://interestingengineering.com/ai-robotics/shanghai-electric-china-industrial-humanoid-robots)**
+
+Shanghai Electric unveiled humanoid robots, smart factory software, and 51 industrial models at WAIC 2026 to automate manufacturing.
+
+Interesting Engineering • 23h ago
+
+---
+
 **[China's humanoid robots face their real test on the factory floor](https://news.cgtn.com/news/2026-07-25/China-s-humanoid-robots-face-their-real-test-on-the-factory-floor-1P3NAXAS2Gs/p.html)**
 
 Separating two pieces of fabric may look simple. For a humanoid robot, however, the soft, slippery material is a demanding test of dexterity: too much force can distort it, while too little leaves it beyond the robot's grip.Yet in Chinese garment factories,
 
-news.cgtn.com • 15h ago
+news.cgtn.com • 16h ago
 
 ---
 
 **[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -178,7 +178,7 @@ Tech Xplore • 1d ago
 
 Shashua has been invited to take the chairman of the board seat.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
 
 ---
 

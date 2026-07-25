@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T21:56:26.075623+00:00'
+updated: '2026-07-25T22:57:14.433202+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 21:56 UTC  
+**Last Updated:** July 25, 2026 at 22:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -0.1%  
-**30d:** +18.7%  
-**90d:** -18.7%  
-**1y:** -49.9%  
+**24h:** +0.8%  
+**7d:** +0.1%  
+**30d:** +18.9%  
+**90d:** -18.5%  
+**1y:** -49.8%  
 
 ---
 
@@ -114,7 +114,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 **[Looking for recommendations for a home server for an evm blockchain node/validator](https://www.reddit.com/r/ethereum/comments/1v13xwa/looking_for_recommendations_for_a_home_server_for/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -150,7 +150,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -198,7 +198,7 @@ FXStreet • 1d ago
 
 BlackRock clients sold $53M in Ethereum via iShares ETF. Ethereum dip to $1,300 in July at 0.2% YES.
 
-Crypto Briefing • 14h ago
+Crypto Briefing • 15h ago
 
 ---
 
@@ -218,11 +218,11 @@ TipRanks • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
+**[Cardano Founder Slams Ethereum's Governance, Says Crypto Needs 'Insurance' To Grow Up](https://finance.yahoo.com/markets/crypto/articles/cardano-founder-slams-ethereums-governance-203014155.html)**
 
-Leading cryptocurrencies flatlined on Wednesday as investors weighed the implications of the Clarity Act and rising geopolitical tensions in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.64%$65,933.49Ethereum (CRYPTO: ETH) +0.05%$1,931.41XRP (CRYPTO: XRP) -0.32%$1.13Solana (CRYPTO: SOL) -0.18%$78.12Dogecoin (CRYPTO: DOGE) -0.79%$0.07287 Crypto Rally Cools Bitcoin failed to break through $67,000 and slipped back to $65,000 after encounter
+Cardano founder Charles Hoskinson says the next phase of cryptocurrency adoption will be driven less by faster blockchains and more by safety, governance and consumer protections. Ethereum ‘Keeps Doing Things Wrong’ In an interview with CoinDesk on July 23, Hoskinson,...
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this video I break down the current Ethereum price action and why the recent 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 7 • ⏱️ 7:13 • 7h ago
+👁️ 2K • 👍 132 • 💬 7 • ⏱️ 7:13 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 4K • 👍 261 • 💬 14 • ⏱️ 8:31 • 11h ago
+👁️ 4K • 👍 261 • 💬 14 • ⏱️ 8:31 • 12h ago
 
 ---
 
@@ -296,7 +296,7 @@ Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Teleg
 
 📺 BITLOBO TRADING
 
-👁️ 3K • 👍 684 • 💬 1 • ⏱️ 2:07:29 • 2h ago
+👁️ 3K • 👍 684 • 💬 1 • ⏱️ 2:07:29 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 10K • 👍 689 • 💬 22 • ⏱️ 13:08 • 23h ago
+👁️ 10K • 👍 689 • 💬 22 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 131 • 👍 14 • 💬 8 • ⏱️ 4:58 • 10h ago
+👁️ 131 • 👍 14 • 💬 8 • ⏱️ 4:58 • 11h ago
 
 ---
 

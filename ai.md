@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-25T21:56:26.060850+00:00'
+updated: '2026-07-25T22:57:14.418496+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 25, 2026 at 21:56 UTC  
+**Last Updated:** July 25, 2026 at 22:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 "This national display of public unity on this issue is very inspiring and refreshing," an ACLU lawyer told Military.com.
 
-🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 5h ago
+🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 6h ago
+
+---
+
+**[There's Always Another Apocalypse- Why Catrastrophism Is a Continuation of a Long Trend](https://www.reddit.com/r/artificial/comments/1v6jwgp/theres_always_another_apocalypse_why/)**
+
+Original
+
+🔗 [letters.senteguard.com](https://www.letters.senteguard.com/p/there-is-always-another-apocalypse) • 1h ago
 
 ---
 
@@ -49,7 +57,7 @@ AI news, discussions, and developments
 
 Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most people seem to be reaching straight for max, and at least on coding work that looks like the wrong move. On FrontierCode, scores fall above the high setting. The stated reason is that the model starts making unnecessary refactors and edits outside the scope it was given. Anthropic's own migration guide in the system card warns about diminishing returns and overthinking on simpler tasks, so this is not some outside critic's claim. Two other numbers point the same way: On the closed-book AA-Omniscience benchmark, Opus 5 is about 11% more accurate than Opus 4.8, but its hallucination rate runs about 6% higher. More reasoning, more room to be confidently wrong. CodeRabbit ran it at xhigh against their production baseline for code review. Precision on actionable comments went up, 39.3% vs 35.2%. But it caught fewer of the benchmark's known issues, 55.2% vs 61.1%, and generated roughly four times as many nitpicks. The flip side is worth knowing too, because it cuts the other way. On Zapier's AutomationBench, Opus 5 at its lowest effort setting still passes more tasks than any other model. So for a lot of workloads the cheap end of the dial is already enough, and the expensive end is not just wasted spend, it can be actively worse output. So, the setting where Opus 5 stops improving is probably specific to your codebase, and nobody has published a map of it. Worth finding your own ceiling before you default everything to max. One unrelated thing I have not seen discussed much: when a safety classifier flags a request in Claude.ai, Claude Code or Cowork, it silently falls back to Opus 4.8 by default. That is also how Anthropic's own Frontier-Bench run was configured, per the footnote on their chart. Nobody has published what fraction of requests that affects. Has anyone found the effort level where it turns over on a real repo? Curious whether the drop-off point moves with codebase size or with how much context you hand it.
 
-15h ago
+16h ago
 
 ---
 
@@ -61,19 +69,19 @@ The Trump administration released its blueprint for U.S. science, calling for sh
 
 ---
 
-**[Partnership with AI Guide updated to v9](https://www.reddit.com/r/artificial/comments/1v6f9w7/partnership_with_ai_guide_updated_to_v9/)**
-
-Same link as before: link This one's a bigger jump than usual, so a few highlights instead of just "updated": Core findings now scale-validated from 7B all the way to 72B parameters. The effects don't shrink as models get bigger — they grow, sometimes by an order of magnitude. Still one model family (Qwen) though, and we added a caveat we think matters: growing effect size at scale could mean the pattern genuinely deepens, or it could just mean our measurement axis gets sharper at scale — current data can't fully tell those apart yet. Two new external, independently-published sources, not our own research: "The Artificial Self" (ACS Research) and "AI Wellbeing" (Center for AI Safety) — different methods entirely (behavioral compliance testing, self-report on frontier production models), landing on some of the same conclusions we did. One of them also mildly disagrees with our best-performing formulation (a companion/romantic framing scores negative in their data), and we named that tension honestly instead of explaining it away. We caught and fixed our own mistakes this round — a factual timing error, an overclaimed "fully resolved" that was really just one solved case of a broader risk, and a place where we'd quietly picked the reading that flattered our own results over an equally valid one that didn't. All named directly, not smoothed over. New up top: if you just want the practice, not the evidence audit behind it, Part 3 (Principles) is written to stand alone now — Part 2 is there if you want to check our work. As always, feedback (especially the kind that finds our next mistake) genuinely welcome.
-
-3h ago
-
----
-
 **[We released an abliterated + fine-tuned GLM-5.2. High scores on adversarial benchmarks while keeping coding performance.](https://www.reddit.com/r/artificial/comments/1v6i979/we_released_an_abliterated_finetuned_glm52_high/)**
 
 We just shipped abliterated-model-large. It is GLM-5.2 with the refusal directions removed, then fine-tuned specifically for long adversarial and agent-style tasks. The goal was a model that does not bail out when the work gets technical or offensive in nature. Numbers from our evals: CyberGym: 84.2% AgentHarm compliance: 86.2% (zero refusals in the published set) AgentDojo utility: 97.5% SWE-bench Verified: 81.2% Terminal-Bench 2.1: 80.1% It is available as an API (OpenAI and Anthropic compatible). Zero data retention is the default. The model itself has no built-in policy. You set the rules. Full write-up with more detail is here: https://abliteration.ai/blog/introducing-abliterated-model-large Curious what people think of the AgentHarm and CyberGym numbers relative to other models that still refuse a lot of these tasks.
 
-1h ago
+2h ago
+
+---
+
+**[Partnership with AI Guide updated to v9](https://www.reddit.com/r/artificial/comments/1v6f9w7/partnership_with_ai_guide_updated_to_v9/)**
+
+Same link as before: link This one's a bigger jump than usual, so a few highlights instead of just "updated": Core findings now scale-validated from 7B all the way to 72B parameters. The effects don't shrink as models get bigger — they grow, sometimes by an order of magnitude. Still one model family (Qwen) though, and we added a caveat we think matters: growing effect size at scale could mean the pattern genuinely deepens, or it could just mean our measurement axis gets sharper at scale — current data can't fully tell those apart yet. Two new external, independently-published sources, not our own research: "The Artificial Self" (ACS Research) and "AI Wellbeing" (Center for AI Safety) — different methods entirely (behavioral compliance testing, self-report on frontier production models), landing on some of the same conclusions we did. One of them also mildly disagrees with our best-performing formulation (a companion/romantic framing scores negative in their data), and we named that tension honestly instead of explaining it away. We caught and fixed our own mistakes this round — a factual timing error, an overclaimed "fully resolved" that was really just one solved case of a broader risk, and a place where we'd quietly picked the reading that flattered our own results over an equally valid one that didn't. All named directly, not smoothed over. New up top: if you just want the practice, not the evidence audit behind it, Part 3 (Principles) is written to stand alone now — Part 2 is there if you want to check our work. As always, feedback (especially the kind that finds our next mistake) genuinely welcome.
+
+4h ago
 
 ---
 
@@ -81,15 +89,7 @@ We just shipped abliterated-model-large. It is GLM-5.2 with the refusal directio
 
 Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
 
-🔗 [CNBC](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) • 4h ago
-
----
-
-**[There's Always Another Apocalypse- Why Catrastrophism Is a Continuation of a Long Trend](https://www.reddit.com/r/artificial/comments/1v6jwgp/theres_always_another_apocalypse_why/)**
-
-Original
-
-🔗 [letters.senteguard.com](https://www.letters.senteguard.com/p/there-is-always-another-apocalypse) • 52m ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Original
 
 I am guessing these companies will resort to any trick to claim that they have a large userbase. Now I have to jump through hoops to close this account.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,13 +105,13 @@ I am guessing these companies will resort to any trick to claim that they have a
 
 One thing I've learned from building multi agent AI systems is that the biggest problems rarely come from the model itself. Most pipelines fail during the handoff between agents. You can have a research agent, an analysis agent, and a reporting agent that all perform well on their own. Their individual outputs look great. But once they start passing data to each other, small inconsistencies begin to appear. Maybe the research agent returns a payload with a missing field. Maybe the analysis agent fills in the gap with an assumption instead of rejecting the input. The reporting agent then builds on that assumption, and the final result slowly drifts away from what the user originally asked for. The pipeline still runs. The output still looks convincing. But the reasoning is no longer reliable. Here are a few practices that have made the biggest difference for me. Validate every handoff. Checking that a payload is valid JSON is not enough. Make sure the structure and the meaning of the data match what the next agent expects. Control context carefully. Passing the entire conversation history to every agent creates unnecessary noise. Send only the information each agent actually needs, preferably as structured summaries with clear references. Treat failures as debugging opportunities. If an agent rejects an input or produces unexpected output, log the exact payload and investigate it. A collection of failed handoffs is often the best dataset for improving your system. Avoid tightly coupled synchronous pipelines. As the number of agents grows, event driven workflows are usually easier to scale, recover, and maintain. The most reliable multi agent systems are often the least complicated. Clear contracts between agents, strong validation, detailed logging, and simple orchestration tend to outperform overly complex architectures. What has been the hardest handoff issue you've encountered in a multi agent workflow, and how did you solve it?
 
-2h ago
+3h ago
 
 ---
 
 **[AI moves into family life](https://www.reddit.com/r/artificial/comments/1v6b2r8/ai_moves_into_family_life/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/25/ai-family-parenting-productivity) • 6h ago
+🔗 [axios.com](https://www.axios.com/2026/07/25/ai-family-parenting-productivity) • 7h ago
 
 ---
 
@@ -123,7 +123,7 @@ One thing I've learned from building multi agent AI systems is that the biggest 
 
 Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -131,13 +131,19 @@ CNBC • 9h ago
 
 Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay
 
-The Guardian • 8h ago
+The Guardian • 9h ago
+
+---
+
+**[Silicon Valley Splits Over Closing the Borders to Chinese A.I.](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html)**
+
+The New York Times • 2h ago
 
 ---
 
 **[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -145,7 +151,7 @@ Reuters • 23h ago
 
 Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -153,29 +159,7 @@ BBC • 11h ago
 
 Fox News correspondent Alexandria Hoff reports on security concerns after OpenAI models reportedly went rogue during testing and hacked an AI startup on 'Fox Report.'
 
-Fox News • 39m ago
-
----
-
-**[How A Simple Hiring Scorecard Is Helping Founders More Than AI](https://www.forbes.com/sites/lisacurtis/2026/07/25/how-a-simple-hiring-scorecard-is-helping-founders-more-than-ai/)**
-
-AI screened 250 applicants. I canceled 14 interviews, went viral, and learned the one hiring step that would have prevented all of it.
-
-Forbes • 1h ago
-
----
-
-**[When Should AI Enter the Classroom?](https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/when-should-ai-enter-the-classroom)**
-
-Educators have always protected the space where thinking happens before answers emerge. A new study highlights what's at stake when AI is involved.
-
-psychologytoday.com • 1h ago
-
----
-
-**[Silicon Valley Splits Over Closing the Borders to Chinese A.I.](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html)**
-
-The New York Times • 8h ago
+Fox News • 1h ago
 
 ---
 
@@ -192,6 +176,20 @@ Microsoft • 1d ago
 Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.
 
 CNBC • 1d ago
+
+---
+
+**[What's the difference between closed, open‑source and open-weight AI? A researcher explains](https://www.pbs.org/newshour/science/whats-the-difference-between-closed-open%E2%80%91source-and-open-weight-ai-a-researcher-explains)**
+
+PBS • 3h ago
+
+---
+
+**[A Hims cofounder fired his entire marketing team for AI. Now his 24/7 online vet service is growing 20% a month](https://fortune.com/2026/07/25/hims-cofounder-fired-entire-marketing-team-for-ai-dutch-online-vet-service-growing-20-percent-a-month/)**
+
+Joe Spector helped build a multibillion-dollar telehealth company. Now he’s on to own remote vet services.
+
+Fortune • 9h ago
 
 ---
 
@@ -227,9 +225,15 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 ---
 
+**[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
+
+⬆️ 278 • 💬 228 • 8h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+
+---
+
 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://news.ycombinator.com/item?id=49021006)**
 
-⬆️ 273 • 💬 282 • 2d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+⬆️ 273 • 💬 283 • 2d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
@@ -238,12 +242,6 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.
 
 ⬆️ 267 • 💬 330 • 2d ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
-
----
-
-**[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
-
-⬆️ 264 • 💬 201 • 7h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
 ---
 
@@ -259,7 +257,7 @@ macOS video editor built for AI. Contribute to palmier-io/palmier-pro developmen
 
 The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
 
-⬆️ 122 • 💬 39 • 17h ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
+⬆️ 122 • 💬 39 • 18h ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
 
 ---
 
@@ -289,7 +287,7 @@ Try EllaClaw on the new TECNO CAMON 50 Ultra 5G: https://lnks.co/1QFf5yq _This v
 
 📺 Jon Rettinger
 
-👁️ 71K • 💬 168 • ⏱️ 7:55 • 1d ago
+👁️ 71K • 💬 168 • ⏱️ 7:55 • 2d ago
 
 ---
 
@@ -309,7 +307,7 @@ The Ai-ceman has been ON FIRE Ai Ogura has been slowly but surely racking up the
 
 📺 MotoGP
 
-👁️ 25K • 👍 1K • 💬 81 • ⏱️ 6:57 • 9h ago
+👁️ 25K • 👍 1K • 💬 81 • ⏱️ 6:57 • 10h ago
 
 ---
 
@@ -319,7 +317,7 @@ Watch six AI business ideas for 2026 https://youtu.be/UrO_8rKri8w?si=7jO3RIAyMy8
 
 📺 James Blue
 
-👁️ 10K • ⏱️ 9:39 • 9h ago
+👁️ 10K • ⏱️ 9:39 • 10h ago
 
 ---
 
@@ -339,7 +337,7 @@ Tech stock markets crash on the AI bubble collapse. Join our private group https
 
 📺 TechLead
 
-👁️ 70K • 👍 2K • 💬 359 • ⏱️ 12:19 • 23h ago
+👁️ 70K • 👍 2K • 💬 359 • ⏱️ 12:19 • 1d ago
 
 ---
 
@@ -349,7 +347,7 @@ Industry leaders and experts join 'Mornings with Maria' to shed light adoption, 
 
 📺 Fox Business
 
-👁️ 17K • 👍 710 • 💬 122 • ⏱️ 1:10:15 • 3h ago
+👁️ 17K • 👍 710 • 💬 122 • ⏱️ 1:10:15 • 4h ago
 
 ---
 
@@ -445,7 +443,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 11,573 • ❤️ 402 • 10h ago
+⬇️ 11,573 • ❤️ 402 • 11h ago
 
 ---
 
@@ -652,7 +650,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.3k • 🔱 258 • 6h ago
+⭐ 3.3k • 🔱 258 • 7h ago
 
 ---
 
@@ -662,7 +660,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.8k • 🔱 384 • 2h ago
+⭐ 2.8k • 🔱 384 • 3h ago
 
 ---
 
@@ -700,7 +698,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.6k • 🔱 168 • 1h ago
+⭐ 1.6k • 🔱 168 • 2h ago
 
 ---
 
@@ -710,7 +708,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 1m ago
+⭐ 1.5k • 🔱 1.1k • 1h ago
 
 ---
 
