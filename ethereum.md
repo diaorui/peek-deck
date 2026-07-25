@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T19:42:55.376023+00:00'
+updated: '2026-07-25T20:54:44.776985+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 19:42 UTC  
+**Last Updated:** July 25, 2026 at 20:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,875.18
+### $1,873.42
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.8%  
-**7d:** +0.1%  
-**30d:** +18.8%  
-**90d:** -18.6%  
-**1y:** -49.9%  
+**7d:** -0.2%  
+**30d:** +18.6%  
+**90d:** -18.8%  
+**1y:** -50.0%  
 
 ---
 
@@ -150,7 +150,15 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
 
-CryptoSlate • 10h ago
+CryptoSlate • 11h ago
+
+---
+
+**[Ethereum proposes native UTXOs, sparking Cardan...](https://pluang.com/en/news-feed/charles-hoskinson-ethereum-menyalin-model-eutxo-cardano-tanpa-kredit)**
+
+Ethereum Foundation researcher Toni Wahrstätter proposed a new native UTXO payment model aimed at reducing permanent state use by 99.8%, aligning with Ethereum's Lean roadmap. Cardano founder Charles Hoskinson accused Ethereum of copying Cardano's decade-old Extended UTXO (EUTXO) model without credit, emphasizing Cardano's model offers more predictable transaction execution and security for DeFi. The proposal is still in research phase with no formal Ethereum Improvement Proposal filed. This technical debate highlights ongoing competition between Ethereum and Cardano's differing blockchain architectures and development philosophies.
+
+Pluang • 1h ago
 
 ---
 
@@ -178,27 +186,11 @@ TradingView • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin End Week Quietly as Analyst Predicts 'One Last Leg Lower'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60679346/bitcoin-ethereum-xrp-dogecoin-end-week-quietly-as-analyst-predicts-one-last-leg-lower)**
-
-Bitcoin holds steady despite tech stock selloff triggered by weak earnings. Bitcoin may see final leg down before bear market bottom, says analyst. Market nears bottom from timing perspective.
-
-Benzinga • 1d ago
-
----
-
 **[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
 Seeking Alpha • 2d ago
-
----
-
-**[BlackRock clients sell $53M in Ethereum via iShares ETF](https://cryptobriefing.com/blackrock-clients-sell-53m-in-ethereum-via-ishares-etf/)**
-
-BlackRock clients sold $53M in Ethereum via iShares ETF. Ethereum dip to $1,300 in July at 0.2% YES.
-
-Crypto Briefing • 11h ago
 
 ---
 
@@ -210,11 +202,19 @@ FXStreet • 1d ago
 
 ---
 
+**[BlackRock clients sell $53M in Ethereum via iShares ETF](https://cryptobriefing.com/blackrock-clients-sell-53m-in-ethereum-via-ishares-etf/)**
+
+BlackRock clients sold $53M in Ethereum via iShares ETF. Ethereum dip to $1,300 in July at 0.2% YES.
+
+Crypto Briefing • 13h ago
+
+---
+
 **[What Is Gwei? Understanding Ethereum Gas Prices](https://financefeeds.com/what-is-gwei-understanding-ethereum-gas-prices/)**
 
 Gwei is Ethereum's smallest practical unit, used to price gas fees that determine transaction costs across the network and Layer 2 chains.
 
-FinanceFeeds • 23h ago
+FinanceFeeds • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 918 • 👍 109 • 💬 16 • ⏱️ 18:57 • 1h ago
+👁️ 918 • 👍 109 • 💬 16 • ⏱️ 18:57 • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the current Ethereum price action and why the recent 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 6 • ⏱️ 7:13 • 4h ago
+👁️ 2K • 👍 117 • 💬 6 • ⏱️ 7:13 • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 4K • 👍 253 • 💬 14 • ⏱️ 8:31 • 9h ago
+👁️ 4K • 👍 253 • 💬 14 • ⏱️ 8:31 • 10h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 309 • 👍 38 • ⏱️ 5:44 • 3h ago
+👁️ 309 • 👍 38 • ⏱️ 5:44 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 9K • 👍 669 • 💬 22 • ⏱️ 13:08 • 21h ago
+👁️ 9K • 👍 669 • 💬 22 • ⏱️ 13:08 • 22h ago
 
 ---
 
