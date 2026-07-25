@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T16:58:11.391196+00:00'
+updated: '2026-07-25T18:01:06.909177+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 16:58 UTC  
+**Last Updated:** July 25, 2026 at 18:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,868.83
+### $1,872.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -0.4%  
-**30d:** +18.3%  
-**90d:** -19.0%  
-**1y:** -50.1%  
+**24h:** +0.5%  
+**7d:** -0.1%  
+**30d:** +18.6%  
+**90d:** -18.7%  
+**1y:** -49.9%  
 
 ---
 
@@ -146,6 +146,14 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
+**[Polymarket traders split on Ethereum hitting $1...](https://pluang.com/en/news-feed/peluang-ethereum-mencapai-3000-dolar-2026-menurut-polymarket)**
+
+Traders on Polymarket are nearly evenly divided on whether Ethereum will hit $1,000 or $3,000 first by the end of 2026, reflecting uncertainty in the market. While the chance of Ethereum reaching $2,000 is seen as 83%, odds drop sharply for higher prices, with only a 6% chance of a new all-time high by year-end. Institutional interest is strong, with Blackrock and Fidelity ETFs pulling in over $70 million in daily inflows and Bitmine holding nearly 5.78 million ETH. Ethereum's next major upgrade, Glamsterdam, is on track for late 2026, potentially improving network efficiency and transaction costs. The coming months will test if these positive factors can overcome macroeconomic pressures to push Ethereum's price higher.
+
+Pluang • 20m ago
+
+---
+
 **[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-says-ethereum-reinventing-114100114.html)**
 
 The chain's new plan calls for a swath of big steps in a few different directions.
@@ -162,51 +170,27 @@ CoinDesk • 2d ago
 
 ---
 
+**[Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.](https://www.fool.com/investing/2026/07/25/robinhoods-new-blockchain-has-been-a-smash-success/)**
+
+The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
+
+The Motley Fool • 7h ago
+
+---
+
+**[Two Ethereum bridges lose $31.7M within hours as third protocol halts staking](https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/)**
+
+Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
+
+CryptoSlate • 8h ago
+
+---
+
 **[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
 
 A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
 
 TradingView • 1d ago
-
----
-
-**[Ethereum sentiment turns bearish again, but ETF inflows and on-chain data suggest a potential rebound.](https://pluang.com/en/news-feed/trader-ethereum-menyerah-sentimen-beruang-dan-potensi-rebound)**
-
-Ethereum traders have shown bearish sentiment for the third time in a month, with social commentary ratios hitting lows similar to previous dips that preceded price rebounds of 14% and 7%. Despite the negative sentiment, Ethereum ETFs attracted $103.9 million last week, marking strong institutional demand. On-chain data also indicates Ethereum is undervalued relative to its cost basis, and declining Binance reserves suggest fewer coins are available to sell. These factors combined hint at diminishing downside risk and potential for a price turnaround soon.
-
-Pluang • 1h ago
-
----
-
-**[Bitcoin and Ethereum fall as crypto derivatives volume drops 12%, signaling cautious market sentiment.](https://pluang.com/en/news-feed/bitcoin-ethereum-turun-volume-derivatif-kripto-turun-12-persen)**
-
-Bitcoin and Ethereum prices declined by 2.24% and 1.62% respectively amid a 12.92% drop in crypto derivatives trading volume, indicating reduced risk appetite among traders. The broader crypto market saw losses across major altcoins, reflecting a defensive stance, while decentralized finance (DeFi) showed relative strength with increased trading volume. Stablecoin activity slightly decreased, suggesting a cautious approach to near-term buying power. This combination points to traders waiting for clearer market signals before increasing exposure.
-
-Pluang • 2h ago
-
----
-
-**[Ethereum ETFs lead crypto fund inflows as Bitco...](https://pluang.com/en/news-feed/etf-ethereum-pimpin-aliran-dana-kripto-pekan-ini-saat-bitcoin-melambat)**
-
-Ethereum spot ETFs attracted $103.9 million in net inflows last week, continuing strong institutional demand despite market volatility. In contrast, Bitcoin ETFs saw a sharp decline in weekly inflows to $33.79 million after heavy outflows midweek, with trading volume hitting its lowest since April 2025. Altcoin ETFs like XRP, Solana, and Chainlink also saw notable inflows, while Hyperliquid ETFs continued to experience outflows and declining assets. This trend highlights growing investor preference for Ethereum amid Bitcoin's slowing momentum, with market watchers keen to see if Ethereum maintains its lead or Bitcoin rebounds.
-
-Pluang • 2h ago
-
----
-
-**[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
-
-A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
-
-The Block • 2d ago
-
----
-
-**[Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.](https://www.fool.com/investing/2026/07/25/robinhoods-new-blockchain-has-been-a-smash-success/)**
-
-The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
-
-The Motley Fool • 6h ago
 
 ---
 
@@ -218,11 +202,27 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin End Week Quietly as Analyst Predicts 'One Last Leg Lower'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60679346/bitcoin-ethereum-xrp-dogecoin-end-week-quietly-as-analyst-predicts-one-last-leg-lower)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
 
-Bitcoin holds steady despite tech stock selloff triggered by weak earnings. Bitcoin may see final leg down before bear market bottom, says analyst. Market nears bottom from timing perspective.
+Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
 
-Benzinga • 21h ago
+Benzinga • 1d ago
+
+---
+
+**[BlackRock clients sell $53M in Ethereum via iShares ETF](https://cryptobriefing.com/blackrock-clients-sell-53m-in-ethereum-via-ishares-etf/)**
+
+BlackRock clients sold $53M in Ethereum via iShares ETF. Ethereum dip to $1,300 in July at 0.2% YES.
+
+Crypto Briefing • 10h ago
+
+---
+
+**[What Is Gwei? Understanding Ethereum Gas Prices](https://financefeeds.com/what-is-gwei-understanding-ethereum-gas-prices/)**
+
+Gwei is Ethereum's smallest practical unit, used to price gas fees that determine transaction costs across the network and Layer 2 chains.
+
+FinanceFeeds • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this video I break down the current Ethereum price action and why the recent 
 
 📺 More Crypto Online
 
-👁️ 732 • 👍 81 • 💬 6 • ⏱️ 7:13 • 2h ago
+👁️ 732 • 👍 81 • 💬 6 • ⏱️ 7:13 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 3K • 👍 238 • 💬 11 • ⏱️ 8:31 • 6h ago
+👁️ 3K • 👍 238 • 💬 11 • ⏱️ 8:31 • 7h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 144 • 👍 27 • ⏱️ 5:44 • 1h ago
+👁️ 144 • 👍 27 • ⏱️ 5:44 • 2h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 89 • 👍 11 • 💬 14 • ⏱️ 4:58 • 5h ago
+👁️ 89 • 👍 11 • 💬 14 • ⏱️ 4:58 • 6h ago
 
 ---
 
@@ -316,7 +316,7 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 8K • 👍 642 • 💬 21 • ⏱️ 13:08 • 18h ago
+👁️ 8K • 👍 642 • 💬 21 • ⏱️ 13:08 • 20h ago
 
 ---
 

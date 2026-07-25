@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-25T16:58:11.382337+00:00'
+updated: '2026-07-25T18:01:06.897662+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 25, 2026 at 16:58 UTC  
+**Last Updated:** July 25, 2026 at 18:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "This national display of public unity on this issue is very inspiring and refreshing," an ACLU lawyer told Military.com.
 
-🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 16m ago
+🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 The Trump administration released its blueprint for U.S. science, calling for shifting hundreds of billions of research dollars from universities to industry.
 
-🔗 [STAT](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/) • 19h ago
+🔗 [STAT](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/) • 20h ago
 
 ---
 
@@ -57,21 +57,45 @@ The Trump administration released its blueprint for U.S. science, calling for sh
 
 Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most people seem to be reaching straight for max, and at least on coding work that looks like the wrong move. On FrontierCode, scores fall above the high setting. The stated reason is that the model starts making unnecessary refactors and edits outside the scope it was given. Anthropic's own migration guide in the system card warns about diminishing returns and overthinking on simpler tasks, so this is not some outside critic's claim. Two other numbers point the same way: On the closed-book AA-Omniscience benchmark, Opus 5 is about 11% more accurate than Opus 4.8, but its hallucination rate runs about 6% higher. More reasoning, more room to be confidently wrong. CodeRabbit ran it at xhigh against their production baseline for code review. Precision on actionable comments went up, 39.3% vs 35.2%. But it caught fewer of the benchmark's known issues, 55.2% vs 61.1%, and generated roughly four times as many nitpicks. The flip side is worth knowing too, because it cuts the other way. On Zapier's AutomationBench, Opus 5 at its lowest effort setting still passes more tasks than any other model. So for a lot of workloads the cheap end of the dial is already enough, and the expensive end is not just wasted spend, it can be actively worse output. So, the setting where Opus 5 stops improving is probably specific to your codebase, and nobody has published a map of it. Worth finding your own ceiling before you default everything to max. One unrelated thing I have not seen discussed much: when a safety classifier flags a request in Claude.ai, Claude Code or Cowork, it silently falls back to Opus 4.8 by default. That is also how Anthropic's own Frontier-Bench run was configured, per the footnote on their chart. Nobody has published what fraction of requests that affects. Has anyone found the effort level where it turns over on a real repo? Curious whether the drop-off point moves with codebase size or with how much context you hand it.
 
-10h ago
-
----
-
-**[Changing robot arms usually breaks the boring part first](https://www.reddit.com/r/artificial/comments/1v6cot8/changing_robot_arms_usually_breaks_the_boring/)**
-
-When a new robot arm changes joint names, camera topics, or control frequency, a failed demo tends to get blamed on the policy. The logs may show something much less interesting: an adapter mapped a valid action into the wrong device convention. Claude Opus 4.8 could read the SDK docs and draft the adapter, schema checks, and a small replay test. LingBot-VLA 2.0 stays on the policy side instead of being asked to paper over the device mismatch. Limits, timing, and emergency behavior still have to be checked on the actual hardware. The adapter needs an ordinary code review, and the policy needs its own evaluation. One smooth rollout can hide a bad timing or limit assumption.
-
-35m ago
+11h ago
 
 ---
 
 **[AI moves into family life](https://www.reddit.com/r/artificial/comments/1v6b2r8/ai_moves_into_family_life/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/25/ai-family-parenting-productivity) • 1h ago
+🔗 [axios.com](https://www.axios.com/2026/07/25/ai-family-parenting-productivity) • 2h ago
+
+---
+
+**[A New Layer of the Internet is Being Built Before Our Eyes That Most People Just Aren't Seeing](https://www.reddit.com/r/artificial/comments/1v6et9y/a_new_layer_of_the_internet_is_being_built_before/)**
+
+https://preview.redd.it/yqbdp1vsxefh1.jpg?width=1360&format=pjpg&auto=webp&s=5efaa9483066e0e6cc68953c4e5f2b566549e3c9 This. Right here. What do you see? A complicated web of notes connected to lines with all of the relationships defined. It's a knowledge graph system connected to an advanced agent that's designed to traverse and reason through it so that it can behave as an expert with decades of experience to make nuanced judgement calls when helping you. But what this really could be is a snippet of a future layer that will exist on top of the entire internet that's just as accessible as code-inspection on our web browsers. This may sound a little crazy, but Tim Burners Lee, the creator of the web actually proposed this solution over 20 years ago. He called it the Semantic Web. The reason it failed back then was that we didn't have smart enough software to read and reason over it. Now with AI, this is possible in addition to making knowledge graph systems much faster and easier for people to make themselves. Having been in the AI space for over 6 years now trying to figure all of it out like everyone else, this dawned on me a few weeks back. I think we're witnessing the birth of an entirely new component to the Internet. As we enter into an age where agents are running around doing various things and communicating to each other across the web, inevitably we will come to realize that due to the nature of the models, we're going to need to create a more effective highway system for them to navigate, communicate, extract, synthesize, and build. Just as we need roads, symbols, and rules for our highway systems to prevent tons of accidents or issues, we will need this for AI and that comes in the form of knowledge graphs. With these, you can build the reasoning systems for how agents interact with the wider web, people, and other agents. These are already being used at the enterprise level and why we built this capability for anyone to do for their personal projects, even if you're not tech savvy at all. That's because in the near-term future, almost everyone is going to need their personal knowledge graph management systems since they can be carried and used by your agent into other spaces with their own knowledge graph systems to interact with. Obviously, websites and individuals will still have to protect themselves from malicious hacks and all that bad stuff. But to allow billions of people to use their agents across the wider web in such a way that they can work appropriately and not "misbehave" or cause accidental hacks or whatever, we will need to build these highway systems. Right now they're being built independently, like territories across the world forming into bordered nation-states. But over time, I believe they will become more and more interoperable, which will eventually unify into a patchwork highway system with protocols for doing things. This is a high level framework for mitigating the risks with AI agents using the modern web. Of course, there's much more to it than knowledge graphs, but this is the gist of what I think is happening. But you know. This could also just be my creative screenwriter brain working on overdrive. Time will tell.
+
+16m ago
+
+---
+
+**[Warning shot or publicity stunt - how worried should we be about the OpenAI hack?](https://www.reddit.com/r/artificial/comments/1v6eq34/warning_shot_or_publicity_stunt_how_worried/)**
+
+This week the tech world was gripped by a story that has it all - and which started like a sci-fi thriller.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/cd9w22n9e4go) • 19m ago
+
+---
+
+**[From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation](https://www.reddit.com/r/artificial/comments/1v6e698/from_silicon_valley_to_dc_the_tech_world_is/)**
+
+Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
+
+🔗 [CNBC](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) • 40m ago
+
+---
+
+**[Supporting Opensource](https://www.reddit.com/r/artificial/comments/1v6e3tk/supporting_opensource/)**
+
+‪I signed to the support of Open AI‬ ‪Did you?‬ ‪
+
+43m ago
 
 ---
 
@@ -79,7 +103,7 @@ When a new robot arm changes joint names, camera topics, or control frequency, a
 
 A nearly-live implementation of OpenAI's Whisper. Contribute to collabora/WhisperLive development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/collabora/WhisperLive) • 10m ago
+🔗 [GitHub](https://github.com/collabora/WhisperLive) • 1h ago
 
 ---
 
@@ -87,29 +111,7 @@ A nearly-live implementation of OpenAI's Whisper. Contribute to collabora/Whispe
 
 The Senior Chatbot Protection Act, from Sens. Mark Kelly and Jim Justice, would require clear labeling of AI and new protections for health and financial conversations.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970) • 22h ago
-
----
-
-**[How much of what you generate, actually makes it out of the door?](https://www.reddit.com/r/artificial/comments/1v62ww6/how_much_of_what_you_generate_actually_makes_it/)**
-
-I did something slightly depressing on sunday. i went through my last month of ai outputs, all of it, drafts and images and scripts and little snippets, and counted how many actually got used somewhere real. published, sent, shipped, shown to a client. the number was eleven. out of roughly three hundred and forty. i sat there for a while trying to work out whether that was bad. my first reaction was that i was wasting the tool. three hundred and thirty dead outputs feels like a lot of dead outputs. but then i thought about how i worked before, and before, i simply did not make the three hundred and thirty. i made two options because two options was what the day allowed, and i picked one of the two, and that one shipped. so my hit rate used to look excellent on paper and my actual output was worse. what changed is not that i generate more. it is that the expensive step moved. generating used to be the hard part, the part you protected, the part you did not want to redo. now generating is nearly free and the hard part is looking. someone still has to open every one of those three hundred and forty things and decide. that someone is me, and i do not scale, and i get tired around the fortieth image in a way that no model ever does. so the bottleneck in my week is not the model and it is not my prompting. it is review capacity. which is a really unglamorous thing to be limited by. nobody posts about their review capacity, everyone posts about their stack. and the honest version is that i have gotten dramatically better at producing options and not one bit better at choosing between them, which is the half that was always hard. but i genuinely think the next thing that helps me will not be a better generator, it will be something that helps me throw away faster, or better, something that means i only ever look at twelve things instead of three hundred. i keep going back and forth on whether eleven out of three hundred and forty is a failure or just what abundance looks like. curious what your ratio is. does anyone here actually track this, or is it one of those numbers nobody wants to know?
-
-8h ago
-
----
-
-**[Users tried to object to their chatgpt logs being handed to the NYT. the court ruled they were "non-parties" to their own conversations.](https://www.reddit.com/r/artificial/comments/1v5b04p/users_tried_to_object_to_their_chatgpt_logs_being/)**
-
-in the openai copyright case, a court ordered every chatgpt output log preserved, including chats people had deleted. some users tried to intervene to protect their own conversations. the court ruled they were non-parties. they had no standing over things they personally typed. two weeks ago the publishers filed for sanctions, alleging openai deleted billions of logs anyway and spent two years telling the court it couldn't search its own systems when it already could. openai denies it. the whole consumer privacy conversation is about what companies promise. we don't train on your chats, we delete after 30 days. this case showed the promise was never the binding constraint. a judge was. so "do they train on it" is close to the least useful question. the useful one is whether anything besides their good intentions is in the way when a court, a regulator or a future owner comes asking. that's an architecture question. opengradient's chat is what i switched the sensitive half of my usage to, and the mechanism is the interesting part: oblivious http means the relay that sees your ip can't read your request, and the server reading your request never learns your ip. neither can reassemble you alone. inference runs in an attested enclave the operator can't inspect. no log to preserve, nothing to hand over, because you were never in it. two honest cons. it's a16z-crypto-backed with a listed token, which put me off for weeks. and you lose memory and personalisation entirely, so it's not a daily driver, it's where the stuff goes i don't want in someone's discovery pile. does this end up mattering to normal people, or is it five hundred of us caring loudly while everyone else decides a subpoena hitting their recipe questions isn't worth degrading their tools over.
-
-1d ago
-
----
-
-**[We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment](https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/)**
-
-2d ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970) • 23h ago
 
 ---
 
@@ -121,7 +123,13 @@ in the openai copyright case, a court ordered every chatgpt output log preserved
 
 Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
 
-CNBC • 4h ago
+CNBC • 6h ago
+
+---
+
+**[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
+
+Reuters • 19h ago
 
 ---
 
@@ -129,21 +137,37 @@ CNBC • 4h ago
 
 Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
-**[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
+**[Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so](https://fortune.com/2026/07/25/ai-safety-experts-say-openais-rogue-models-may-mean-the-company-has-already-blown-past-its-own-internal-red-lines/)**
 
-Reuters • 18h ago
+Experts says the this month's Hugging Face hack likely triggered a risk threshold that OpenAI's own policies say require it to halt model development.
+
+Fortune • 56m ago
 
 ---
 
-**[How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack](https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html)**
+**[Are you following brand-sponsored AI influencers?](https://www.cbsnews.com/video/are-you-following-brand-sponsored-ai-influencers/)**
 
-The origin of the model Hugging Face used to combat the rogue AI is turning heads.
+A growing number of faces on your feeds are generated by artificial intelligence, and brands are buying in. Increasingly, these AI influencers are marketing products, often deceptively, to consumers. Shanelle Kaul has more.
 
-CNBC • 1d ago
+CBS News • 25m ago
+
+---
+
+**[This free AI music detector will scan through your playlists for audio slop](https://www.popsci.com/diy/how-to-scan-your-streaming-playlists-for-ai-audio-slop-tech-tips/)**
+
+There's a plugin that can check 20 platforms and up to 100 playlists to ensure your music is crafted by flesh-and-blood humans. Here's how.
+
+Popular Science • 1h ago
+
+---
+
+**[Opinion | The Environmental Case Against Data Centers Is Misguided](https://www.nytimes.com/2026/07/25/opinion/data-centers-environment-ai.html)**
+
+The New York Times • 7h ago
 
 ---
 
@@ -151,29 +175,7 @@ CNBC • 1d ago
 
 Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay
 
-The Guardian • 3h ago
-
----
-
-**[Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot](https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html)**
-
-Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.
-
-CNBC • 4h ago
-
----
-
-**[Google Data Compares Gemini & AI Mode Use Against Daily Life](https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/)**
-
-Google's new AI & Economy report compares Gemini and AI Mode conversations against how Americans spend their days.
-
-Search Engine Journal • 3h ago
-
----
-
-**[Opinion | The Flawed Environmental Case Against Data Centers](https://www.nytimes.com/2026/07/25/opinion/data-centers-environment-ai.html)**
-
-The New York Times • 5h ago
+The Guardian • 5h ago
 
 ---
 
@@ -185,9 +187,11 @@ The Washington Post • 1h ago
 
 ---
 
-**[DeepSeek Said to Tell Backers of Funding Pause After Viral Posts](https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts)**
+**[Open Weights and American AI Leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)**
 
-Bloomberg.com • 2h ago
+Open weight AI can expand access, strengthen competition, improve security, and help sustain American AI leadership.
+
+Microsoft • 1d ago
 
 ---
 
@@ -197,7 +201,7 @@ Bloomberg.com • 2h ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 1056 • 💬 870 • 2d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 1057 • 💬 870 • 2d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -205,15 +209,7 @@ Bloomberg.com • 2h ago
 
 AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
 
-⬆️ 684 • 💬 373 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
-
----
-
-**[Are AI labs pelicanmaxxing?](https://news.ycombinator.com/item?id=49010129)**
-
-I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.
-
-⬆️ 680 • 💬 242 • 2d ago • [Dylan Castillo](https://dylancastillo.co/posts/pelicanmaxxing.html)
+⬆️ 684 • 💬 374 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
@@ -253,17 +249,25 @@ macOS video editor built for AI. Contribute to palmier-io/palmier-pro developmen
 
 ---
 
+**[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://news.ycombinator.com/item?id=49044492)**
+
+The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
+
+⬆️ 114 • 💬 36 • 13h ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
+
+---
+
 **[Open Weights and American AI Leadership [pdf]](https://news.ycombinator.com/item?id=49035751)**
 
 ⬆️ 111 • 💬 2 • 1d ago • [images.nvidia.com](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf)
 
 ---
 
-**[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://news.ycombinator.com/item?id=49044492)**
+**[I Tried Building a Real App with AI. It Took a Year](https://news.ycombinator.com/item?id=49034342)**
 
-The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
+My wife and I have been looking for an app to track things like habits, hobbies, and when we last did certain chores.
 
-⬆️ 110 • 💬 35 • 12h ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
+⬆️ 107 • 💬 82 • 1d ago • [alexhyett.com](https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/)
 
 ---
 
@@ -287,7 +291,7 @@ Get a FREE AI-built Shopify store: https://www.buildyourstore.ai/wv43 Try AutoDS
 
 📺 Mark Tilbury
 
-👁️ 37K • 👍 3K • 💬 215 • ⏱️ 25:22 • 6h ago
+👁️ 37K • 👍 3K • 💬 215 • ⏱️ 25:22 • 7h ago
 
 ---
 
@@ -317,7 +321,7 @@ People are dreaming so they don't have to face the nightmare of reality.” Auth
 
 📺 The Tech Report
 
-👁️ 173K • 👍 7K • 💬 953 • ⏱️ 25:51 • 23h ago
+👁️ 173K • 👍 7K • 💬 953 • ⏱️ 25:51 • 1d ago
 
 ---
 
@@ -327,7 +331,7 @@ minecraft #aigaming #minecraftaddon Which AI can build the better Minecraft buil
 
 📺 The Commands Man
 
-👁️ 11K • 👍 872 • 💬 99 • ⏱️ 17:16 • 4h ago
+👁️ 11K • 👍 872 • 💬 99 • ⏱️ 17:16 • 5h ago
 
 ---
 
@@ -337,7 +341,7 @@ Tech stock markets crash on the AI bubble collapse. Join our private group https
 
 📺 TechLead
 
-👁️ 62K • 👍 2K • 💬 339 • ⏱️ 12:19 • 18h ago
+👁️ 62K • 👍 2K • 💬 339 • ⏱️ 12:19 • 19h ago
 
 ---
 
@@ -347,7 +351,7 @@ Krystal and Saagar discuss an OpenAI model escping containtment and hacking a co
 
 📺 Breaking Points
 
-👁️ 188K • 👍 6K • 💬 2K • ⏱️ 18:36 • 1d ago
+👁️ 188K • 👍 6K • 💬 2K • ⏱️ 18:36 • 2d ago
 
 ---
 
@@ -357,7 +361,7 @@ The first AI-trained pilot takes flight for the first time. Socials - Instagram 
 
 📺 Harrison Hughes
 
-👁️ 500K • 👍 24K • 💬 274 • ⏱️ 1:51 • 23h ago
+👁️ 500K • 👍 24K • 💬 274 • ⏱️ 1:51 • 1d ago
 
 ---
 
@@ -419,7 +423,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 31,575 • ❤️ 1,561 • 1d ago
+⬇️ 31,575 • ❤️ 1,561 • 2d ago
 
 ---
 
@@ -443,7 +447,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 11,573 • ❤️ 390 • 5h ago
+⬇️ 11,573 • ❤️ 390 • 6h ago
 
 ---
 
@@ -650,7 +654,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.3k • 🔱 258 • 1h ago
+⭐ 3.3k • 🔱 258 • 2h ago
 
 ---
 
@@ -660,7 +664,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.8k • 🔱 383 • 1m ago
+⭐ 2.8k • 🔱 383 • 1h ago
 
 ---
 
@@ -708,7 +712,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 54s ago
+⭐ 1.5k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -716,7 +720,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.3k • 🔱 90 • 3d ago
+⭐ 1.3k • 🔱 90 • 4d ago
 
 ---
 
