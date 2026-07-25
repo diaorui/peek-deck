@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T20:54:44.776985+00:00'
+updated: '2026-07-25T21:56:26.075623+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 20:54 UTC  
+**Last Updated:** July 25, 2026 at 21:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,873.42
+### $1,870.42
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -0.2%  
-**30d:** +18.6%  
-**90d:** -18.8%  
-**1y:** -50.0%  
+**24h:** +0.7%  
+**7d:** -0.1%  
+**30d:** +18.7%  
+**90d:** -18.7%  
+**1y:** -49.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.31B
+**Market Cap:** $226.04B
 Rank #2
 
 **Circulating Supply:** 120,682,685 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.1%
 
 **All-Time Low:** $0.43
-+432990.3%
++432493.7%
 
 ---
 
@@ -150,15 +150,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
 
-CryptoSlate • 11h ago
-
----
-
-**[Ethereum proposes native UTXOs, sparking Cardan...](https://pluang.com/en/news-feed/charles-hoskinson-ethereum-menyalin-model-eutxo-cardano-tanpa-kredit)**
-
-Ethereum Foundation researcher Toni Wahrstätter proposed a new native UTXO payment model aimed at reducing permanent state use by 99.8%, aligning with Ethereum's Lean roadmap. Cardano founder Charles Hoskinson accused Ethereum of copying Cardano's decade-old Extended UTXO (EUTXO) model without credit, emphasizing Cardano's model offers more predictable transaction execution and security for DeFi. The proposal is still in research phase with no formal Ethereum Improvement Proposal filed. This technical debate highlights ongoing competition between Ethereum and Cardano's differing blockchain architectures and development philosophies.
-
-Pluang • 1h ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -206,7 +198,7 @@ FXStreet • 1d ago
 
 BlackRock clients sold $53M in Ethereum via iShares ETF. Ethereum dip to $1,300 in July at 0.2% YES.
 
-Crypto Briefing • 13h ago
+Crypto Briefing • 14h ago
 
 ---
 
@@ -226,19 +218,17 @@ TipRanks • 3d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
+
+Leading cryptocurrencies flatlined on Wednesday as investors weighed the implications of the Clarity Act and rising geopolitical tensions in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.64%$65,933.49Ethereum (CRYPTO: ETH) +0.05%$1,931.41XRP (CRYPTO: XRP) -0.32%$1.13Solana (CRYPTO: SOL) -0.18%$78.12Dogecoin (CRYPTO: DOGE) -0.79%$0.07287 Crypto Rally Cools Bitcoin failed to break through $67,000 and slipped back to $65,000 after encounter
+
+Yahoo Finance • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Time is RUNNING OUT For BMNR and ETH...](https://www.youtube.com/watch?v=hi_G2GZn1cw)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 918 • 👍 109 • 💬 16 • ⏱️ 18:57 • 2h ago
-
----
 
 **[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=JujVzGOPrrc)**
 
@@ -246,17 +236,7 @@ In this video I break down the current Ethereum price action and why the recent 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 6 • ⏱️ 7:13 • 6h ago
-
----
-
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=CZWZVLPuYDg)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 176 • 💬 68 • ⏱️ 18:08 • 1d ago
+👁️ 2K • 👍 132 • 💬 7 • ⏱️ 7:13 • 7h ago
 
 ---
 
@@ -266,7 +246,17 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 4K • 👍 253 • 💬 14 • ⏱️ 8:31 • 10h ago
+👁️ 4K • 👍 261 • 💬 14 • ⏱️ 8:31 • 11h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=CZWZVLPuYDg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 181 • 💬 68 • ⏱️ 18:08 • 1d ago
 
 ---
 
@@ -276,7 +266,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 548 • 💬 254 • ⏱️ 16:34 • 1d ago
+👁️ 11K • 👍 549 • 💬 254 • ⏱️ 16:34 • 1d ago
 
 ---
 
@@ -286,7 +276,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 2K • 👍 179 • 💬 44 • ⏱️ 7:27 • 1d ago
+👁️ 2K • 👍 180 • 💬 44 • ⏱️ 7:27 • 1d ago
 
 ---
 
@@ -300,13 +290,13 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=onvGJtvsfpY)**
+**[BITCOIN Y ETHEREUM: POR QUÉ DUDAS AHORA? Análisis Técnico Semanal](https://www.youtube.com/watch?v=Tt3WdMVx5wI)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Telegram https://t.me/infoVIPcalls BITLOBO ...
 
-📺 Profit First
+📺 BITLOBO TRADING
 
-👁️ 309 • 👍 38 • ⏱️ 5:44 • 4h ago
+👁️ 3K • 👍 684 • 💬 1 • ⏱️ 2:07:29 • 2h ago
 
 ---
 
@@ -316,17 +306,27 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 9K • 👍 669 • 💬 22 • ⏱️ 13:08 • 22h ago
+👁️ 10K • 👍 689 • 💬 22 • ⏱️ 13:08 • 23h ago
 
 ---
 
-**[Can Ethlabs Make Ethereum The Root Of Global Finance?](https://www.youtube.com/watch?v=0PIWr1v0N7Q)**
+**[ETHEREUM PULLING BACK INTO MAJOR BUY AREA! (ETH Update)](https://www.youtube.com/watch?v=MA2t-m99C_w)**
 
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Milk Road
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 122 • 💬 98 • ⏱️ 55:25 • 2d ago
+👁️ 131 • 👍 14 • 💬 8 • ⏱️ 4:58 • 10h ago
+
+---
+
+**[THE Best Time To Buy Crypto is Coming!!! 💰😳💰](https://www.youtube.com/watch?v=jlJPKupXKnI)**
+
+This is all about why the next bif crypto crash could be coming, where the cycle bottom could be and best time to buy crypto for the ...
+
+📺 Investing Made Simple
+
+👁️ 9K • 👍 614 • ⏱️ 8:39 • 1d ago
 
 ---
 

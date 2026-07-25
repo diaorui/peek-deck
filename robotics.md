@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-25T20:54:44.780246+00:00'
+updated: '2026-07-25T21:56:26.078877+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 25, 2026 at 20:54 UTC  
+**Last Updated:** July 25, 2026 at 21:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Pouring cup Robot](https://www.reddit.com/r/robotics/comments/1v61zoy/pouring_cup_robot/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello hello, development of the upgrade, CubicDoggo 06R (High Mobility, sort of), is now complete, and the full project is documented on GitHub: https://github.com/SphericalCowww/CubicDoggo_06R The previous post can be found here. But yeah, the performance is not as ideal. You can see it's still wobbling when just standing there, and the IMU is not even balanced to be parallel to the ground. The effect of the IMU during walking is also difficult to notice because of how wonky it walks to begin with and how bad I am at controlling it to walk in a straight line, lol. However, you can see the subtle sign right before it stops walking. Its front-right leg is fully extended. This is also why I hit the stop button, because the next step may make the joint flip backwards, causing it to fall. Happened a few times, actually. Without IMU, though, what happens is worse, in that it simply tumbles and rolls over. Also happened a few times, oh well. Next step will be 06Z Neucommu with simulation and RL, and 07B Wouf with stronger servos (a lot of mechanical reinforcement was actually planned for 07B). This is no Unitree superdog, but I am still excited about its progress and enjoy all the Reddit discussions :)
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello hello, development of the upgrade, CubicDoggo 06R (High Mobility, sort of)
 
 I’ve just released Polka v0.5.0! It’s an efficient 2D/3D Lidar processing node handling merging, filtering, and deskewing. This update brings 6.2x faster deskewing, live parameter tuning, smarter IMU handling, and a built-in diagnostics dashboard. If it saves your perception stack compute and brings a faster solution, please drop a star! https://github.com/Pana1v/polka It supports 5 distros.
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 -
 
 https://www.youtube.com/@ALMA.Industries Built a control panel with on/off switches to control DC power supplies (48v, 12v, 24v). AC Outlets always give power regardless of switch states. Used hold home outlets and switches. Turns out to be something I use quite frequently. Full build is in the link above.
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ https://www.youtube.com/@ALMA.Industries Built a control panel with on/off switc
 
 PlannerTrack is a platform for developing and testing autonomous vehicle algorithms, behavior, multi-agent coordination, planning, and control, built around a heterogeneous multi-agent mathematical model based simulator core, with a plugin architecture designed to support multiple vehicle types (ground vehicles, aerial vehicles) without hardcoding vehicle-specific simulation code. In coming days I am planning to extend the project for multiple scenarios, addition of complex predictive planning and control algorithms, multi agent planning. PlannerTrack-github
 
-14h ago
+15h ago
 
 ---
 
@@ -82,7 +82,7 @@ PlannerTrack is a platform for developing and testing autonomous vehicle algorit
 
 I will list the arguments commonly made in favor of humanoid robots and then rebut them each respectively: "Our world is already designed for the human form" Many environments are indeed designed with the human body in mind, for instance door frame dimensions, door knobs, flat floors, staircases, etc. but it's a mistake to imply that only robots with human features can operate under these conditions, that only robots that have human hands and digits, only robots that have legs and feet, only robots that stand upright, only robots with a human head, etc. when this is obviously not the case. Wheels are compatible with flat floors, many kinds of robots can pass through standard door frame dimensions, simpler hands can be compatible with door knobs, multiple kinds of non-humanoid features can climb stairs, etc. Even if we grant that non-humanoid robots are impractical with these human-designed environments, you can easily remove some of these human-designed features to better accommodate a non-humanoid robot, especially if the non-humanoid robot is much cheaper and superior in productivity than the humanoid, which segways to my second point: This argument implies it costs more than it would justify to redesign the environment to accommodate a non-humanoid robot, but this is often not the case. In fact, much of the world is already designed to accommodate non-humanoid machines, and we already redesign the environment to accommodate non-humanoid machines all the time, because the benefits derived from the non-humanoid machine are so great that it more than justifies the cost of redesigning the environment to accommodate it. Consider for example road and rail infrastructure, which is designed to accommodate automobiles and trains, an example where the benefit of using these non-humanoid machines outweighed the cost of building the environment to accommodate it. Similarly, the benefit of non-humanoid machines in other domains can outweigh the cost of redesigning the environment. "Economics of Scale" All things equal, a mechanically simple non-humanoid robot is cheaper to manufacture and mass produce than a mechanically complex humanoid robot. So the fixed costs for the former are smaller, plus more units are produced, meaning the fixed costs in the former are not only smaller, but they are divided between more units than the humanoid robot. So a mechanically simple non-humanoid robot would benefit more from economies of scale than a mechanically complex humanoid robot. "I don't want to deal with having a separate special-purpose machine for each and every task, I want one that can do it all" I understand the convenience of having a singular machine that can do it all instead of holding a bunch of machines. For instance, it's more convenient to carry a smartphone that can do the task of taking pictures, texting and calling, telling the time, going on the internet, etc. all in one, rather than having separate machines that can do each. But unlike the smartphone, which these days is not too dissimilar (or even superior) in quality from the kind of minimal quality people are looking for in individual cameras, dumbphones, digital clocks, personal desktop computers, etc. the humanoid machine may be so inferior in productivity compared to a collection of non-humanoid machines, that it may justify having a bunch of machines. This is not to mention that a generalist machine can also be non-humanoid. "In homes, where the environment will not change, it makes more sense." It could make more sense, and maybe people find an anthropomorphic design to be more comforting (big maybe), but it's still the case that the environment can be redesigned to better accommodate a non-humanoid machine. Garages, kitchens, and laundry rooms are all made to accommodate non-humanoid machines, for example.
 
-7h ago
+8h ago
 
 ---
 
@@ -94,7 +94,7 @@ I will list the arguments commonly made in favor of humanoid robots and then reb
 
 **[How Do Robotics Startups Get Their First Funding?](https://www.reddit.com/r/robotics/comments/1v65t8w/how_do_robotics_startups_get_their_first_funding/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ I will list the arguments commonly made in favor of humanoid robots and then reb
 
 Hi everyone, We're currently in the R&D phase of designing a quadruped robot and are evaluating actuator options for the leg joints. We're looking for recommendations from engineers or researchers who have worked on legged robots. Our main requirements are: High torque-to-weight ratio Compact integrated BLDC servo actuators CAN or EtherCAT communication Reliable performance for continuous operation Good documentation and developer support We've come across manufacturers such as CubeMars (T-Motor), MyActuator, and Unitree, but we'd love to hear about real-world experience. If you've built a quadruped or humanoid robot, which actuators did you choose, and what would you recommend or avoid? If there are other manufacturers or open-source projects we should look at, we'd really appreciate your suggestions. Thanks in advance!
 
-9h ago
+10h ago
 
 ---
 
@@ -126,12 +126,6 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Eric Trump-backed Foundation partners with AMD to develop humanoid robots](https://www.reuters.com/business/eric-trump-backed-foundation-partners-with-amd-develop-humanoid-robots-2026-07-23/)**
-
-Reuters • 2d ago
-
----
-
 **[This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around.](https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7)**
 
 A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
@@ -144,13 +138,13 @@ Business Insider • 1d ago
 
 Shanghai Electric unveiled humanoid robots, smart factory software, and 51 industrial models at WAIC 2026 to automate manufacturing.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
 **[With Washington’s help, humanoid robots can transform US manufacturing](https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/)**
 
-The Hill • 8h ago
+The Hill • 9h ago
 
 ---
 
@@ -160,25 +154,31 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://finance.yahoo.com/technology/ai/articles/mobileye-ceo-amnon-shashua-step-224008848.html)**
-
-Shashua has been invited to take the chairman of the board seat.
-
-Yahoo Finance • 1d ago
-
----
-
 **[China's humanoid robots face their real test on the factory floor](https://news.cgtn.com/news/2026-07-25/China-s-humanoid-robots-face-their-real-test-on-the-factory-floor-1P3NAXAS2Gs/p.html)**
 
 Separating two pieces of fabric may look simple. For a humanoid robot, however, the soft, slippery material is a demanding test of dexterity: too much force can distort it, while too little leaves it beyond the robot's grip.Yet in Chinese garment factories,
 
-news.cgtn.com • 14h ago
+news.cgtn.com • 15h ago
+
+---
+
+**[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
+
+Bloomberg.com • 1d ago
 
 ---
 
 **[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)**
+
+Shashua has been invited to take the chairman of the board seat.
+
+TechCrunch • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 3.0M • 👍 2K • 💬 429 • ⏱️ 2:15 • 5d ago
+👁️ 3.1M • 👍 2K • 💬 429 • ⏱️ 2:15 • 5d ago
 
 ---
 
@@ -202,7 +202,7 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 15K • 👍 163 • 💬 90 • ⏱️ 5:29 • 2d ago
+👁️ 15K • 👍 164 • 💬 90 • ⏱️ 5:29 • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 28K • 👍 764 • 💬 108 • ⏱️ 13:15 • 6d ago
+👁️ 29K • 👍 767 • 💬 108 • ⏱️ 13:15 • 6d ago
 
 ---
 
@@ -222,17 +222,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 70K • 👍 2K • 💬 188 • ⏱️ 12:28 • 4d ago
-
----
-
-**[What’s Wrong with Japanese Robotics and AI?](https://www.youtube.com/watch?v=gkzxgJH2Wzc)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: https://www.instagram.com/pro_robots Did Japan Lose the ...
-
-📺 PRO ROBOTS
-
-👁️ 11K • 👍 323 • 💬 39 • ⏱️ 15:59 • 6d ago
+👁️ 72K • 👍 2K • 💬 192 • ⏱️ 12:28 • 4d ago
 
 ---
 
@@ -242,17 +232,27 @@ BMW Group intensifies the use of digitalization and the use of artificial intell
 
 📺 The Wheel Network
 
-👁️ 21K • 👍 432 • 💬 129 • ⏱️ 6:24 • 3d ago
+👁️ 21K • 👍 437 • 💬 131 • ⏱️ 6:24 • 3d ago
 
 ---
 
-**[China’s T800 Robots Fight Just SHOCKED the World!](https://www.youtube.com/watch?v=QbnCPSLDkpw)**
+**[What’s Wrong with Japanese Robotics and AI?](https://www.youtube.com/watch?v=gkzxgJH2Wzc)**
 
-A humanoid robot named Matador took a brutal high kick to the head, and its head rolled across the cage floor. Then Matador ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: https://www.instagram.com/pro_robots Did Japan Lose the ...
 
-📺 NextGen Humanoids
+📺 PRO ROBOTS
 
-👁️ 20K • 👍 425 • 💬 82 • ⏱️ 8:56 • 5d ago
+👁️ 11K • 👍 324 • 💬 39 • ⏱️ 15:59 • 6d ago
+
+---
+
+**[Unitree AS2 W Shows The Future Of Autonomous Robots](https://www.youtube.com/watch?v=OePErI3OoRI)**
+
+The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it climb steep rocks, cross streams, tackle rough ...
+
+📺 DPCcars
+
+👁️ 13K • 👍 116 • 💬 52 • ⏱️ 2:32 • 1d ago
 
 ---
 
@@ -262,17 +262,17 @@ ORIGINAL VIDEO: https://www.youtube.com/watch?v=5IMU5or-VFo Instrumental by @apa
 
 📺 InTheClutch Ent
 
-👁️ 19K • 👍 2K • 💬 168 • ⏱️ 16:24 • 1d ago
+👁️ 19K • 👍 2K • 💬 168 • ⏱️ 16:24 • 2d ago
 
 ---
 
-**[A Chinese Robot Just Decapitated Another Robot In Public. Nobody Asked What Comes Next](https://www.youtube.com/watch?v=rUjlFRok3qk)**
+**[China’s T800 Robots Fight Just SHOCKED the World!](https://www.youtube.com/watch?v=QbnCPSLDkpw)**
 
-Everyone is asking if killer robots are coming. Wrong question. One already knocked another robot's head clean off, on camera ...
+A humanoid robot named Matador took a brutal high kick to the head, and its head rolled across the cage floor. Then Matador ...
 
-📺 Ambrose In China
+📺 NextGen Humanoids
 
-👁️ 646K • 👍 23K • 💬 5K • ⏱️ 2:25 • 5d ago
+👁️ 20K • 👍 426 • 💬 82 • ⏱️ 8:56 • 5d ago
 
 ---
 
@@ -282,7 +282,7 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 46K • 👍 910 • 💬 406 • ⏱️ 2:02 • 3d ago
+👁️ 46K • 👍 913 • 💬 408 • ⏱️ 2:02 • 3d ago
 
 ---
 

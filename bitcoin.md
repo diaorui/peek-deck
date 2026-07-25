@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-25T20:54:44.770831+00:00'
+updated: '2026-07-25T21:56:26.069481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 20:54 UTC  
+**Last Updated:** July 25, 2026 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.3%  
-**7d:** -0.6%  
+**7d:** -0.5%  
 **30d:** +7.1%  
 **90d:** -16.8%  
 **1y:** -45.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1290.77B
+**Market Cap:** $1290.08B
 Rank #1
 
-**Circulating Supply:** 20,061,200 BTC
+**Circulating Supply:** 20,061,256 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.0%
 
 **All-Time Low:** $67.81
-+94781.3%
++94735.6%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 14h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 15h ago
 
 ---
 
 **[Trading bitcoin always ends badly. DCA & HODL is the name of the game.](https://www.reddit.com/r/Bitcoin/comments/1v5oqpr/trading_bitcoin_always_ends_badly_dca_hodl_is_the/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -95,7 +95,7 @@ The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypte
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ For a long time, I thought Bitcoin was only about price—buy low, sell high, ho
 
 I’m 14 Trying to find out if it’s worth it or not btws
 
-17h ago
+18h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’m 14 Trying to find out if it’s worth it or not btws
 
 After you submitted your Formal Complaint, how long did it take before you regained access to your funds or your withdrawal function was restored? Was it resolved within the 4-week complaint period, or did it take longer? I’m trying to understand what others have experienced after the formal complaint stage. Thank you guys
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ After you submitted your Formal Complaint, how long did it take before you regai
 
 I have a lightning wallet for spending and sending small amounts. I haven't used it in quite some time but today I have received multiple payments of a few sats a few $4 amounts, and even a $9 payment, in 24 hours. Is this something to be concerned with? Why am I receiving so many sats out of no where? I am going to just hold it for awhile before moving it but what is this all about?
 
-18h ago
+19h ago
 
 ---
 
@@ -135,7 +135,7 @@ I have a lightning wallet for spending and sending small amounts. I haven't used
 
 Newer to this and trying to understand the psychology before I'm tested by it. Everyone says "just hold" but I want to hear from people who were actually down bad at the worst point. Did you know it was the bottom, or did it just feel like it was going to zero like everyone said?
 
-10h ago
+11h ago
 
 ---
 
@@ -159,19 +159,27 @@ These are based on my personal experience running a Bitcoin technology company, 
 
 ## Google News: "bitcoin"
 
-**[Strategy overhauls bitcoin metrics to account for senior claims](https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists)**
-
-New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
-
-CoinDesk • 1d ago
-
----
-
 **[Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again](https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again)**
 
 Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.
 
-The Block • 6h ago
+The Block • 7h ago
+
+---
+
+**[Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store](https://www.macrumors.com/2026/07/25/apple-app-store-fake-bitcoin-wallet-lawsuit/)**
+
+Apple is facing a new lawsuit from three customers who allegedly lost a combined $1.8 million after falling victim to a fake Bitcoin wallet app in the App Store, according to a complaint filed in California federal court on Friday.
+
+MacRumors • 3h ago
+
+---
+
+**[Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant](https://finance.yahoo.com/markets/stocks/articles/nebius-vs-strategy-comparing-revenue-213401903.html)**
+
+Nebius has grown revenue nearly 33-fold in eight quarters, while Strategy's top line has barely budged — a divergence that raises questions about sustainability.
+
+Yahoo Finance • 22m ago
 
 ---
 
@@ -179,21 +187,13 @@ The Block • 6h ago
 
 There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.
 
-CNBC • 7h ago
-
----
-
-**[Bitcoin Just Hit a 30-Day High Above $65,000. Where Does BTC Go From Here?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-hit-30-day-043700064.html)**
-
-Since the start of July, the world's most valuable cryptocurrency has risen 11%.
-
-Yahoo Finance • 16h ago
+CNBC • 8h ago
 
 ---
 
 **[Quantum and Crypto Are on a Collision Course—and Wall Street Is Spending Millions to Stop It](https://www.barrons.com/articles/quantum-crypto-bitcoin-danger-f4d5c9f8)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -203,11 +203,27 @@ Morningstar • 1d ago
 
 ---
 
-**[Morgan Stanley’s Bitcoin ETF Is A Roaring Success](https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-etf-400-million)**
+**[State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners](https://bitcoinmagazine.com/news/state-department-tech-program-with-bitcoin)**
 
-Investors were cashing out of Bitcoin ETFs this week — but Morgan Stanley's product received fresh cash.
+The new initiative wants to involve Bitcoin in protected freedom worldwide.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Strategy overhauls bitcoin metrics to account for senior claims](https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists)**
+
+New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
+
+CoinDesk • 1d ago
+
+---
+
+**[MARA CEO Says Bitcoin's Payments Use Case Has 'Seen Its Day Go By' As Miners Chase AI Money](https://www.tradingview.com/news/stocktwits:f923cf195094b:0-mara-ceo-says-bitcoin-s-payments-use-case-has-seen-its-day-go-by-as-miners-chase-ai-money/)**
+
+Fred Thiel, chairman and CEO of MARA Holdings (MARA), the largest public Bitcoin (BTC) miner, said Bitcoin's use as a medium of exchange has "seen its day go by," adding the commercial transaction layer for AI and everyday payments will be built on stablecoins, not Bitcoin.Thiel told Natalie Brunel…
+
+TradingView • 5h ago
 
 ---
 
@@ -215,23 +231,7 @@ Bitcoin Magazine • 22h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 22h ago
-
----
-
-**[Ransom note in Nancy Guthrie kidnapping demanded millions in bitcoin](https://www.scrippsnews.com/us-news/ransom-note-in-nancy-guthrie-kidnapping-demanded-millions-in-bitcoin)**
-
-New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
-
-Scripps News • 1d ago
-
----
-
-**[Brewery uses Bitcoin mining to make 100k litres of beer a month](https://www.abc.net.au/news/2026-07-25/bitcoin-mine-generates-heat-to-produce-beer/106831374)**
-
-A brewery is using a bitcoin mine to heat the water used in beer production as a way to use up surplus energy generated by rooftop solar panels.
-
-ABC News & Headlines – Australian Broadcasting Corporation • 1d ago
+Fortune • 23h ago
 
 ---
 
@@ -251,7 +251,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 4 • 💬 0 • 12h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 4 • 💬 0 • 13h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -259,7 +259,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -275,7 +275,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 2 • 💬 0 • 12h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -323,23 +323,23 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Treasuries are COLLAPSING and That&#39;s Bullish! (Here&#39;s Why)](https://www.youtube.com/watch?v=JQFEIHP7oyA)**
-
-Several high-profile Bitcoin treasury companies are struggling, but that doesn't mean Bitcoin is. As financial engineering begins to ...
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 1K • 💬 187 • ⏱️ 27:04 • 22h ago
-
----
-
 **[Bitcoin&#39;s Turn Is Next — The Easy Money AI Trade Is Over?](https://www.youtube.com/watch?v=McKTuWYzXgg)**
 
 Jordi Visser is a veteran macro investor with 30+ years of experience and the author of the VisserLabs Substack. In this ...
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 1K • 💬 51 • ⏱️ 53:31 • 7h ago
+👁️ 30K • 👍 1K • 💬 51 • ⏱️ 53:31 • 8h ago
+
+---
+
+**[Bitcoin Treasuries are COLLAPSING and That&#39;s Bullish! (Here&#39;s Why)](https://www.youtube.com/watch?v=JQFEIHP7oyA)**
+
+Several high-profile Bitcoin treasury companies are struggling, but that doesn't mean Bitcoin is. As financial engineering begins to ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 1K • 💬 230 • ⏱️ 27:04 • 23h ago
 
 ---
 
@@ -349,37 +349,7 @@ In this interview, Samson Mow shares his latest outlook on Bitcoin and explains 
 
 📺 Cointelegraph
 
-👁️ 12K • 👍 329 • 💬 109 • ⏱️ 20:40 • 1d ago
-
----
-
-**[The Bitcoin Bear Market Is a Survival Test | Matt Odell](https://www.youtube.com/watch?v=Hky6ApSwIH8)**
-
-Bear markets are actually more about survival.” Matt Odell is back on the show to explain why Bitcoin bear markets grind people ...
-
-📺 What Bitcoin Did
-
-👁️ 976 • 👍 83 • 💬 44 • ⏱️ 1:57:14 • 3h ago
-
----
-
-**[Bitcoin Millionaire makes a bet with Gold Millionaire](https://www.youtube.com/watch?v=mWC2DMGSKiM)**
-
-What do you think? Should Peter Schiff take my offer? #bitcoin #bet #peterschiff.
-
-📺 Anthony Pompliano
-
-👁️ 1K • 👍 35 • 💬 7 • ⏱️ 0:43 • 4h ago
-
----
-
-**[Bitcoin Down 3 Days: Bull Trap Or Buy Zone?](https://www.youtube.com/watch?v=tEkGqkaCa6I)**
-
-Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now at http://wallet.rumble.com/Verified and use ...
-
-📺 Gareth Soloway
-
-👁️ 35K • 👍 2K • 💬 184 • ⏱️ 10:40 • 1d ago
+👁️ 12K • 👍 337 • 💬 109 • ⏱️ 20:40 • 1d ago
 
 ---
 
@@ -389,17 +359,27 @@ While Washington debates the Clarity Act, the rest of the world is moving. Russi
 
 📺 Simply Bitcoin
 
-👁️ 1K • 👍 224 • 💬 48 • ⏱️ 15:36 • 4h ago
+👁️ 3K • 👍 336 • 💬 59 • ⏱️ 15:36 • 5h ago
 
 ---
 
-**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
+**[Bitcoin Down 3 Days: Bull Trap Or Buy Zone?](https://www.youtube.com/watch?v=tEkGqkaCa6I)**
 
-Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
+Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now at http://wallet.rumble.com/Verified and use ...
 
-📺 Altcoin Daily
+📺 Gareth Soloway
 
-👁️ 44K • 👍 2K • 💬 225 • ⏱️ 12:09 • 1d ago
+👁️ 36K • 👍 2K • 💬 191 • ⏱️ 10:40 • 1d ago
+
+---
+
+**[The Bitcoin Bear Market Is a Survival Test | Matt Odell](https://www.youtube.com/watch?v=Hky6ApSwIH8)**
+
+Bear markets are actually more about survival.” Matt Odell is back on the show to explain why Bitcoin bear markets grind people ...
+
+📺 What Bitcoin Did
+
+👁️ 2K • 👍 135 • 💬 75 • ⏱️ 1:57:14 • 4h ago
 
 ---
 
@@ -409,7 +389,27 @@ Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 490 • ⏱️ 20:33 • 1d ago
+👁️ 24K • 👍 2K • 💬 490 • ⏱️ 20:33 • 2d ago
+
+---
+
+**[Bitcoin Millionaire makes a bet with Gold Millionaire](https://www.youtube.com/watch?v=mWC2DMGSKiM)**
+
+What do you think? Should Peter Schiff take my offer? #bitcoin #bet #peterschiff.
+
+📺 Anthony Pompliano
+
+👁️ 2K • 👍 61 • 💬 7 • ⏱️ 0:43 • 5h ago
+
+---
+
+**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
+
+Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
+
+📺 Altcoin Daily
+
+👁️ 45K • 👍 2K • 💬 225 • ⏱️ 12:09 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ Four of Bitcoin's six historic bottom signals just fired. BitMEX is closing afte
 
 📺 Kyle Chasse crypto
 
-👁️ 4K • 👍 245 • 💬 62 • ⏱️ 20:53 • 22h ago
+👁️ 4K • 👍 248 • 💬 65 • ⏱️ 20:53 • 23h ago
 
 ---
 
