@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T18:01:06.909177+00:00'
+updated: '2026-07-25T19:42:55.376023+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 18:01 UTC  
+**Last Updated:** July 25, 2026 at 19:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,872.82
+### $1,875.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -0.1%  
-**30d:** +18.6%  
-**90d:** -18.7%  
+**24h:** +0.8%  
+**7d:** +0.1%  
+**30d:** +18.8%  
+**90d:** -18.6%  
 **1y:** -49.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.18B
+**Market Cap:** $226.31B
 Rank #2
 
 **Circulating Supply:** 120,682,685 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.3%
+-62.1%
 
 **All-Time Low:** $0.43
-+430837.8%
++432990.3%
 
 ---
 
@@ -138,7 +138,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I think this is not being talked about enough. Robinhood allows us to own stocks via its Ethereum L2 and apps such as Lighter already allow using them as collateral for positions. It's a matter of time until it's integrated with Aave and every other major defi app. Nearly everyone was talking about this being right around the corner a couple of years ago and how stocks were only the first step towards tokenization of real world assets. Well, now it's here. What's next? Stocks were obvious for anyone with sharp eyes, now I think the next thing to come will be government bonds/treasury securities and then probably real estate. Thoughts?
 
-6d ago
+7d ago
 
 ---
 
@@ -146,11 +146,11 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[Polymarket traders split on Ethereum hitting $1...](https://pluang.com/en/news-feed/peluang-ethereum-mencapai-3000-dolar-2026-menurut-polymarket)**
+**[Two Ethereum bridges lose $31.7M within hours as third protocol halts staking](https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/)**
 
-Traders on Polymarket are nearly evenly divided on whether Ethereum will hit $1,000 or $3,000 first by the end of 2026, reflecting uncertainty in the market. While the chance of Ethereum reaching $2,000 is seen as 83%, odds drop sharply for higher prices, with only a 6% chance of a new all-time high by year-end. Institutional interest is strong, with Blackrock and Fidelity ETFs pulling in over $70 million in daily inflows and Bitmine holding nearly 5.78 million ETH. Ethereum's next major upgrade, Glamsterdam, is on track for late 2026, potentially improving network efficiency and transaction costs. The coming months will test if these positive factors can overcome macroeconomic pressures to push Ethereum's price higher.
+Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
 
-Pluang • 20m ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -170,27 +170,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.](https://www.fool.com/investing/2026/07/25/robinhoods-new-blockchain-has-been-a-smash-success/)**
-
-The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
-
-The Motley Fool • 7h ago
-
----
-
-**[Two Ethereum bridges lose $31.7M within hours as third protocol halts staking](https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/)**
-
-Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
-
-CryptoSlate • 8h ago
-
----
-
 **[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
 
 A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
 
-TradingView • 1d ago
+TradingView • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin End Week Quietly as Analyst Predicts 'One Last Leg Lower'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60679346/bitcoin-ethereum-xrp-dogecoin-end-week-quietly-as-analyst-predicts-one-last-leg-lower)**
+
+Bitcoin holds steady despite tech stock selloff triggered by weak earnings. Bitcoin may see final leg down before bear market bottom, says analyst. Market nears bottom from timing perspective.
+
+Benzinga • 1d ago
 
 ---
 
@@ -202,19 +194,19 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
-
-Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
-
-Benzinga • 1d ago
-
----
-
 **[BlackRock clients sell $53M in Ethereum via iShares ETF](https://cryptobriefing.com/blackrock-clients-sell-53m-in-ethereum-via-ishares-etf/)**
 
 BlackRock clients sold $53M in Ethereum via iShares ETF. Ethereum dip to $1,300 in July at 0.2% YES.
 
-Crypto Briefing • 10h ago
+Crypto Briefing • 11h ago
+
+---
+
+**[Crypto Today: BTC, ETH, XRP steady as ETF flows diverge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-pare-losses-as-breakout-potential-builds-202607241100)**
+
+Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
+
+FXStreet • 1d ago
 
 ---
 
@@ -222,7 +214,15 @@ Crypto Briefing • 10h ago
 
 Gwei is Ethereum's smallest practical unit, used to price gas fees that determine transaction costs across the network and Layer 2 chains.
 
-FinanceFeeds • 21h ago
+FinanceFeeds • 23h ago
+
+---
+
+**[Ethereum Finally Pushes Past $1,900 as Traders Eye $2,100 Breakthrough Target](https://www.tipranks.com/news/ethereum-finally-pushes-past-1900-as-traders-eye-2100-breakthrough-target)**
+
+Ethereum’s price (ETH-USD) is moving up quickly after passing the $1,900 mark and hitting $1,950 for the first time in seven weeks. This sharp upward jump triggered...
+
+TipRanks • 3d ago
 
 ---
 
@@ -230,13 +230,23 @@ FinanceFeeds • 21h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Time is RUNNING OUT For BMNR and ETH...](https://www.youtube.com/watch?v=hi_G2GZn1cw)**
+
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+
+📺 Tevis
+
+👁️ 918 • 👍 109 • 💬 16 • ⏱️ 18:57 • 1h ago
+
+---
+
 **[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=JujVzGOPrrc)**
 
 In this video I break down the current Ethereum price action and why the recent rally remains within the context of a larger bearish ...
 
 📺 More Crypto Online
 
-👁️ 732 • 👍 81 • 💬 6 • ⏱️ 7:13 • 3h ago
+👁️ 2K • 👍 117 • 💬 6 • ⏱️ 7:13 • 4h ago
 
 ---
 
@@ -246,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 173 • 💬 48 • ⏱️ 18:08 • 1d ago
+👁️ 5K • 👍 176 • 💬 68 • ⏱️ 18:08 • 1d ago
 
 ---
 
@@ -256,7 +266,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 3K • 👍 238 • 💬 11 • ⏱️ 8:31 • 7h ago
+👁️ 4K • 👍 253 • 💬 14 • ⏱️ 8:31 • 9h ago
 
 ---
 
@@ -266,7 +276,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 543 • 💬 253 • ⏱️ 16:34 • 1d ago
+👁️ 11K • 👍 548 • 💬 254 • ⏱️ 16:34 • 1d ago
 
 ---
 
@@ -276,7 +286,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 2K • 👍 175 • 💬 46 • ⏱️ 7:27 • 1d ago
+👁️ 2K • 👍 179 • 💬 44 • ⏱️ 7:27 • 1d ago
 
 ---
 
@@ -286,7 +296,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 3K • 👍 62 • 💬 9 • ⏱️ 3:42 • 2d ago
+👁️ 3K • 👍 63 • 💬 9 • ⏱️ 3:42 • 2d ago
 
 ---
 
@@ -296,17 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 144 • 👍 27 • ⏱️ 5:44 • 2h ago
-
----
-
-**[ETHEREUM PULLING BACK INTO MAJOR BUY AREA! (ETH Update)](https://www.youtube.com/watch?v=MA2t-m99C_w)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 89 • 👍 11 • 💬 14 • ⏱️ 4:58 • 6h ago
+👁️ 309 • 👍 38 • ⏱️ 5:44 • 3h ago
 
 ---
 
@@ -316,17 +316,17 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 8K • 👍 642 • 💬 21 • ⏱️ 13:08 • 20h ago
+👁️ 9K • 👍 669 • 💬 22 • ⏱️ 13:08 • 21h ago
 
 ---
 
-**[THE Best Time To Buy Crypto is Coming!!! 💰😳💰](https://www.youtube.com/watch?v=jlJPKupXKnI)**
+**[Can Ethlabs Make Ethereum The Root Of Global Finance?](https://www.youtube.com/watch?v=0PIWr1v0N7Q)**
 
-This is all about why the next bif crypto crash could be coming, where the cycle bottom could be and best time to buy crypto for the ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 Investing Made Simple
+📺 Milk Road
 
-👁️ 8K • 👍 580 • ⏱️ 8:39 • 1d ago
+👁️ 3K • 👍 122 • 💬 98 • ⏱️ 55:25 • 2d ago
 
 ---
 

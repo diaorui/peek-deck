@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-25T18:01:06.903780+00:00'
+updated: '2026-07-25T19:42:55.371612+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 18:01 UTC  
+**Last Updated:** July 25, 2026 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,075.07
+### $64,376.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.7%  
-**30d:** +6.9%  
-**90d:** -16.9%  
-**1y:** -45.5%  
+**24h:** +0.4%  
+**7d:** -0.5%  
+**30d:** +7.2%  
+**90d:** -16.8%  
+**1y:** -45.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1286.59B
+**Market Cap:** $1290.77B
 Rank #1
 
-**Circulating Supply:** 20,061,162 BTC
+**Circulating Supply:** 20,061,200 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-49.0%
 
 **All-Time Low:** $67.81
-+94476.0%
++94781.3%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 11h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 12h ago
 
 ---
 
 **[Trading bitcoin always ends badly. DCA & HODL is the name of the game.](https://www.reddit.com/r/Bitcoin/comments/1v5oqpr/trading_bitcoin_always_ends_badly_dca_hodl_is_the/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -95,7 +95,7 @@ The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypte
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+13h ago
 
 ---
 
@@ -103,7 +103,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 For a long time, I thought Bitcoin was only about price—buy low, sell high, hope it goes to the moon. The more I learned, the more I realised that's actually the least interesting part. Bitcoin is the first form of money that no government, bank, or company controls. It's open 24/7, borderless, and anyone with an internet connection can participate. Whether you're sending value across the world or simply holding an asset with a fixed supply of 21 million coins, it's a fascinating experiment in financial freedom. Will it replace traditional money? Maybe, maybe not. Is it volatile? Absolutely. But the idea that money can exist without a central authority is one of the most revolutionary concepts of our time. Whether you're a Bitcoin believer or a sceptic, it's hard to deny that it has changed the conversation about money forever. What's the biggest thing Bitcoin has taught you? I'm genuinely curious to hear different perspectives.
 
-21h ago
+22h ago
 
 ---
 
@@ -111,7 +111,7 @@ For a long time, I thought Bitcoin was only about price—buy low, sell high, ho
 
 I’m 14 Trying to find out if it’s worth it or not btws
 
-14h ago
+15h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’m 14 Trying to find out if it’s worth it or not btws
 
 After you submitted your Formal Complaint, how long did it take before you regained access to your funds or your withdrawal function was restored? Was it resolved within the 4-week complaint period, or did it take longer? I’m trying to understand what others have experienced after the formal complaint stage. Thank you guys
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ After you submitted your Formal Complaint, how long did it take before you regai
 
 I have a lightning wallet for spending and sending small amounts. I haven't used it in quite some time but today I have received multiple payments of a few sats a few $4 amounts, and even a $9 payment, in 24 hours. Is this something to be concerned with? Why am I receiving so many sats out of no where? I am going to just hold it for awhile before moving it but what is this all about?
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +135,7 @@ I have a lightning wallet for spending and sending small amounts. I haven't used
 
 Newer to this and trying to understand the psychology before I'm tested by it. Everyone says "just hold" but I want to hear from people who were actually down bad at the worst point. Did you know it was the bottom, or did it just feel like it was going to zero like everyone said?
 
-7h ago
+9h ago
 
 ---
 
@@ -167,27 +167,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'](https://finance.yahoo.com/markets/crypto/articles/strategy-overhauls-bitcoin-metrics-debuting-162152740.html)**
+**[Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again](https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again)**
 
-The firm says its "digital credit" shift needs new yardsticks that strip out debt and preferred claims to show what common shareholders own.
+Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy now publishes the Bitcoin return threshold below which it may have to restructure](https://cryptoslate.com/strategy-now-publishes-the-bitcoin-return-threshold-below-which-it-may-have-to-restructure/)**
-
-Strategy’s Bitcoin strategy now has a -11.34% floor showing when modeled coverage could fall below 1.0x and raise restructuring risk.
-
-CryptoSlate • 21h ago
-
----
-
-**[Bitcoin Policy Institute, Palantir and Anduril join US State Department's Freedom Tech Excellence Program](https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program)**
-
-The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program.
-
-The Block • 19h ago
+The Block • 5h ago
 
 ---
 
@@ -195,7 +179,7 @@ The Block • 19h ago
 
 Stablecoins will fill the role of commercial crypto transactions, Fred Thiel stated, warning that Bitcoin’s transaction fees aren’t taking over from the block subsidy as the network was intended to do.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -203,7 +187,7 @@ Yahoo Finance • 1h ago
 
 @Laura  Shin 2548 Views
 
-Moomoo • 1h ago
+Moomoo • 3h ago
 
 ---
 
@@ -211,13 +195,13 @@ Moomoo • 1h ago
 
 There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
 **[Quantum and Crypto Are on a Collision Course—and Wall Street Is Spending Millions to Stop It](https://www.barrons.com/articles/quantum-crypto-bitcoin-danger-f4d5c9f8)**
 
-Barron's • 20h ago
+Barron's • 22h ago
 
 ---
 
@@ -231,7 +215,23 @@ Morningstar • 1d ago
 
 Investors were cashing out of Bitcoin ETFs this week — but Morgan Stanley's product received fresh cash.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 21h ago
+
+---
+
+**[Current price of Bitcoin for July 24, 2026](https://fortune.com/article/current-price-of-bitcoin-for-july-24-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 20h ago
+
+---
+
+**[Ransom note in Nancy Guthrie kidnapping demanded millions in bitcoin](https://www.scrippsnews.com/us-news/ransom-note-in-nancy-guthrie-kidnapping-demanded-millions-in-bitcoin)**
+
+New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
+
+Scripps News • 1d ago
 
 ---
 
@@ -251,7 +251,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 3 • 💬 0 • 9h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 3 • 💬 0 • 11h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -259,7 +259,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 3 • 💬 0 • 16h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -275,7 +275,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 2 • 💬 0 • 8h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 2 • 💬 0 • 10h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -329,7 +329,7 @@ Several high-profile Bitcoin treasury companies are struggling, but that doesn't
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 989 • 💬 159 • ⏱️ 27:04 • 19h ago
+👁️ 13K • 👍 1K • 💬 187 • ⏱️ 27:04 • 21h ago
 
 ---
 
@@ -339,7 +339,7 @@ Jordi Visser is a veteran macro investor with 30+ years of experience and the au
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 993 • 💬 48 • ⏱️ 53:31 • 5h ago
+👁️ 23K • 👍 1K • 💬 51 • ⏱️ 53:31 • 6h ago
 
 ---
 
@@ -349,7 +349,27 @@ In this interview, Samson Mow shares his latest outlook on Bitcoin and explains 
 
 📺 Cointelegraph
 
-👁️ 11K • 👍 322 • 💬 106 • ⏱️ 20:40 • 1d ago
+👁️ 12K • 👍 329 • 💬 109 • ⏱️ 20:40 • 1d ago
+
+---
+
+**[The Bitcoin Bear Market Is a Survival Test | Matt Odell](https://www.youtube.com/watch?v=Hky6ApSwIH8)**
+
+Bear markets are actually more about survival.” Matt Odell is back on the show to explain why Bitcoin bear markets grind people ...
+
+📺 What Bitcoin Did
+
+👁️ 976 • 👍 83 • 💬 44 • ⏱️ 1:57:14 • 2h ago
+
+---
+
+**[Bitcoin Millionaire makes a bet with Gold Millionaire](https://www.youtube.com/watch?v=mWC2DMGSKiM)**
+
+What do you think? Should Peter Schiff take my offer? #bitcoin #bet #peterschiff.
+
+📺 Anthony Pompliano
+
+👁️ 1K • 👍 35 • 💬 7 • ⏱️ 0:43 • 3h ago
 
 ---
 
@@ -359,7 +379,17 @@ Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now 
 
 📺 Gareth Soloway
 
-👁️ 34K • 👍 2K • 💬 158 • ⏱️ 10:40 • 1d ago
+👁️ 35K • 👍 2K • 💬 184 • ⏱️ 10:40 • 1d ago
+
+---
+
+**[The Strategic Bitcoin Reserve FIGHT is SPREADING To The Rest of The World!](https://www.youtube.com/watch?v=riMulD5UKBk)**
+
+While Washington debates the Clarity Act, the rest of the world is moving. Russia, Japan and Taiwan have each taken major steps ...
+
+📺 Simply Bitcoin
+
+👁️ 1K • 👍 224 • 💬 48 • ⏱️ 15:36 • 3h ago
 
 ---
 
@@ -379,47 +409,17 @@ Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 491 • ⏱️ 20:33 • 1d ago
+👁️ 23K • 👍 2K • 💬 490 • ⏱️ 20:33 • 1d ago
 
 ---
 
-**[Can Customs Seize Your Bitcoin at the Border?](https://www.youtube.com/watch?v=PFIeIEsusag)**
+**[🚨 Every Bitcoin Bottom Looked EXACTLY Like This](https://www.youtube.com/watch?v=AkkzFvN4Kbw)**
 
-Can customs seize your Bitcoin? Do you have to declare your crypto when traveling internationally? Can border agents force you ...
+Four of Bitcoin's six historic bottom signals just fired. BitMEX is closing after 11 years. Satsuma just liquidated 668 BTC. Twenty ...
 
-📺 The CryptoDad
+📺 Kyle Chasse crypto
 
-👁️ 15K • 👍 706 • 💬 191 • ⏱️ 9:43 • 23h ago
-
----
-
-**[Bitcoin&#39;s Next Massive Move Is Coming...](https://www.youtube.com/watch?v=Q4pvxh6y3Io)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 12K • 👍 675 • 💬 168 • ⏱️ 46:59 • 1d ago
-
----
-
-**[Bitcoin: Between a Rock and a Hard Place](https://www.youtube.com/watch?v=JY_wY8XXjYU)**
-
-Let's talk about Bitcoin price and what to expect over the coming months. Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 58K • 👍 4K • 💬 153 • ⏱️ 10:01 • 1d ago
-
----
-
-**[Massive Rotation Back Into Crypto?📈But Bitcoin Narrative Over?🚨](https://www.youtube.com/watch?v=ejD5S4tDS5g)**
-
-An AI-to-crypto capital rotation describes the shifting of institutional and retail investment funds between artificial intelligence ...
-
-📺 Paul Barron Network
-
-👁️ 49K • 👍 2K • 💬 212 • ⏱️ 20:09 • 2d ago
+👁️ 4K • 👍 245 • 💬 62 • ⏱️ 20:53 • 21h ago
 
 ---
 
