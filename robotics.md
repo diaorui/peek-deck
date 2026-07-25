@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-25T12:02:57.192176+00:00'
+updated: '2026-07-25T14:10:02.925754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 25, 2026 at 12:02 UTC  
+**Last Updated:** July 25, 2026 at 14:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 -
 
 **[Bob (my robot) died 😢 I tried consolidating 2 LiPo batteries into a 1 larger one and fried its Raspberry Pi brains. I'm gonna rebuild him with a Nvidia Jetson brain and RealSense D457 GMSL camera.](https://www.reddit.com/r/robotics/comments/1v5faas/bob_my_robot_died_i_tried_consolidating_2_lipo/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -58,19 +58,19 @@ Hey everyone, A while back, I posted here asking for advice on my $149 metal cyc
 
 I’m part of the team that ran this experiment at Sim XR. Sharing it here as a technical project rather than a product announcement. We started by reproducing NVIDIA’s published Isaac Lab → LeRobot → VLA fine-tuning → Arena evaluation workflow for the Unitree G1 apple task. In our matched simulation evaluation: checkpoint trained on 208 usable released demonstrations: 93/100 checkpoint trained on 50 demonstrations we collected remotely through VR: 84/100 We then moved the task to the other side of the workspace. Both existing policies scored 0/20. After collecting targeted demonstrations for the new layout, the best result reached 74/100. Finally, we replaced the apple task with a cross-body mustard-bottle-to-bowl task: released apple checkpoint: 0/30 checkpoint fine-tuned on 50 new VR demonstrations: 27/30 These are simulation results, not a real-robot or sim-to-real claim. The interesting part for us was how sensitive the policies remained to layout changes—and how quickly targeted demonstrations could recover useful behavior. I’d be interested to hear how others are evaluating layout shifts and deciding where additional demonstrations are most useful.
 
-20h ago
+22h ago
 
 ---
 
 **[Claude Code skills for ROS 2 Jazzy that route to official docs instead of guessing APIs (measured before/after included)](https://www.reddit.com/r/robotics/comments/1v5h7ud/claude_code_skills_for_ros_2_jazzy_that_route_to/)**
 
-19h ago
+21h ago
 
 ---
 
 **[Human Fall Detection By 3D Dtof LIDAR HM-LD1](https://www.reddit.com/r/robotics/comments/1v5crci/human_fall_detection_by_3d_dtof_lidar_hmld1/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -86,7 +86,7 @@ Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workloa
 
 I made this real life Wall-E robot from scratch and am really proud of it so check my youtube video about it out if you would like
 
-🔗 [youtu.be](https://youtu.be/zddu86VGEX0?si=zm1kSBUPQm3cokhk) • 21h ago
+🔗 [youtu.be](https://youtu.be/zddu86VGEX0?si=zm1kSBUPQm3cokhk) • 23h ago
 
 ---
 
@@ -94,7 +94,7 @@ I made this real life Wall-E robot from scratch and am really proud of it so che
 
 Hey everyone, I’m currently working on a robot project and was wondering if anyone in the Houston, Texas area would like to join forces. The idea is to combine skills, share knowledge, and build something awesome together. I have the engineering background and some parts already, but I’d love to connect with people who are into robotics, coding, AI, electronics, or even just tinkering and learning. Whether you’re a student, hobbyist, or professional, collaboration makes projects way more fun (and productive). If you’re interested in teaming up or just want to chat about robots, feel free to DM me or drop a comment
 
-16h ago
+18h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey everyone, I’m currently working on a robot project and was wondering if an
 
 ROS News for the week of July 20th, 2026                      I’ve had quite the week! In the past seven days, I’ve been to Open Sauce, AMD’s developer conference, and now I’m at Teardown in Portland. It might have also been my birthday this week. 🎂  I’ve run into so many fantastic people building wonderful ROS robots, including a working Johnny 5 replica, a giant art robot with cast aluminum components, a hexapod with a 25 kg payload, a room full of SO-101s, a controllable robot t...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-20th-2026/56937) • 16h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-20th-2026/56937) • 18h ago
 
 ---
 
@@ -122,7 +122,13 @@ Time Magazine • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 16h ago
+IEEE Spectrum • 18h ago
+
+---
+
+**[With Washington’s help, humanoid robots can transform US manufacturing](https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/)**
+
+The Hill • 2h ago
 
 ---
 
@@ -140,17 +146,11 @@ Reuters • 1d ago
 
 ---
 
-**[China unveils humanoid robots with dual-battery hot swap for nonstop factory operations](https://interestingengineering.com/ai-robotics/shanghai-electric-china-industrial-humanoid-robots)**
+**[Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://finance.yahoo.com/technology/ai/articles/mobileye-ceo-amnon-shashua-step-224008848.html)**
 
-Shanghai Electric unveiled humanoid robots, smart factory software, and 51 industrial models at WAIC 2026 to automate manufacturing.
+Shashua has been invited to take the chairman of the board seat.
 
-Interesting Engineering • 12h ago
-
----
-
-**[U.S. Robotics Leadership Is Not Guaranteed](https://www.piratewires.com/p/us-robotics-leadership-is-not-guaranteed)**
-
-Pirate Wires • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -160,25 +160,23 @@ South China Morning Post • 2d ago
 
 ---
 
-**[This Palm-Sized Robot Dog Is Built With Zero Wires Inside](https://interestingengineering.com/videos/this-palm-sized-robot-dog-is-built-with-zero-wires-inside)**
+**[China unveils humanoid robots with dual-battery hot swap for nonstop factory operations](https://interestingengineering.com/ai-robotics/shanghai-electric-china-industrial-humanoid-robots)**
 
-A California startup called ZeroWire Robotics is about to launch Q8botOne — a palm-sized quadruped robot with a radical trick: it has no wires or cable harnesses inside at all. Every component, from its eight programmable Dynamixel actuators to its ESP32 brain and rechargeable battery, mounts directly onto one central circuit board.
+Shanghai Electric unveiled humanoid robots, smart factory software, and 51 industrial models at WAIC 2026 to automate manufacturing.
 
-Interesting Engineering • 37m ago
+Interesting Engineering • 14h ago
+
+---
+
+**[U.S. Robotics Leadership Is Not Guaranteed](https://www.piratewires.com/p/us-robotics-leadership-is-not-guaranteed)**
+
+Pirate Wires • 1d ago
 
 ---
 
 **[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
 
-Tech Xplore • 23h ago
-
----
-
-**[Tech Moves: Agility Robotics gets CFO; Microsoft security departure; Zap's legal officer; new KEXP CPTO](https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/)**
-
-Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
-
-GeekWire • 1d ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -192,7 +190,7 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 15K • 👍 160 • 💬 90 • ⏱️ 5:29 • 2d ago
+👁️ 15K • 👍 161 • 💬 90 • ⏱️ 5:29 • 2d ago
 
 ---
 
@@ -202,7 +200,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 2.8M • 👍 2K • 💬 423 • ⏱️ 2:15 • 5d ago
+👁️ 2.9M • 👍 2K • 💬 427 • ⏱️ 2:15 • 5d ago
 
 ---
 
@@ -212,7 +210,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 28K • 👍 760 • 💬 108 • ⏱️ 13:15 • 6d ago
+👁️ 28K • 👍 762 • 💬 108 • ⏱️ 13:15 • 6d ago
 
 ---
 
@@ -222,7 +220,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 49K • 👍 516 • 💬 193 • ⏱️ 4:18 • 6d ago
+👁️ 49K • 👍 519 • 💬 194 • ⏱️ 4:18 • 6d ago
 
 ---
 
@@ -232,7 +230,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 64K • 👍 2K • 💬 180 • ⏱️ 12:28 • 3d ago
+👁️ 66K • 👍 2K • 💬 183 • ⏱️ 12:28 • 4d ago
 
 ---
 
@@ -242,7 +240,7 @@ BMW Group intensifies the use of digitalization and the use of artificial intell
 
 📺 The Wheel Network
 
-👁️ 19K • 👍 385 • 💬 111 • ⏱️ 6:24 • 3d ago
+👁️ 20K • 👍 410 • 💬 126 • ⏱️ 6:24 • 3d ago
 
 ---
 
@@ -252,7 +250,7 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 44K • 👍 884 • 💬 393 • ⏱️ 2:02 • 2d ago
+👁️ 45K • 👍 888 • 💬 399 • ⏱️ 2:02 • 2d ago
 
 ---
 
@@ -262,7 +260,17 @@ A humanoid robot named Matador took a brutal high kick to the head, and its head
 
 📺 NextGen Humanoids
 
-👁️ 19K • 👍 416 • 💬 81 • ⏱️ 8:56 • 5d ago
+👁️ 19K • 👍 420 • 💬 82 • ⏱️ 8:56 • 5d ago
+
+---
+
+**[A Chinese Robot Just Decapitated Another Robot In Public. Nobody Asked What Comes Next](https://www.youtube.com/watch?v=rUjlFRok3qk)**
+
+Everyone is asking if killer robots are coming. Wrong question. One already knocked another robot's head clean off, on camera ...
+
+📺 Ambrose In China
+
+👁️ 627K • 👍 22K • 💬 5K • ⏱️ 2:25 • 5d ago
 
 ---
 
@@ -273,16 +281,6 @@ America is running out of welders. By 2035, we'll lose 43% of America's welding 
 📺 S3 | Science, Startups, & Stories
 
 👁️ 38K • 👍 1K • 💬 98 • ⏱️ 14:37 • 6d ago
-
----
-
-**[A Chinese Robot Just Decapitated Another Robot In Public. Nobody Asked What Comes Next](https://www.youtube.com/watch?v=rUjlFRok3qk)**
-
-Everyone is asking if killer robots are coming. Wrong question. One already knocked another robot's head clean off, on camera ...
-
-📺 Ambrose In China
-
-👁️ 618K • 👍 22K • 💬 5K • ⏱️ 2:25 • 5d ago
 
 ---
 

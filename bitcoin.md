@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-25T12:02:57.182754+00:00'
+updated: '2026-07-25T14:10:02.916403+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 12:02 UTC  
+**Last Updated:** July 25, 2026 at 14:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.0%  
-**30d:** +6.6%  
-**90d:** -17.2%  
+**24h:** +0.1%  
+**7d:** -0.8%  
+**30d:** +6.8%  
+**90d:** -17.1%  
 **1y:** -45.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1284.09B
+**Market Cap:** $1285.89B
 Rank #1
 
-**Circulating Supply:** 20,061,046 BTC
+**Circulating Supply:** 20,061,100 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.2%
 
 **All-Time Low:** $67.81
-+94293.2%
++94414.1%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 5h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 7h ago
 
 ---
 
 **[Trading bitcoin always ends badly. DCA & HODL is the name of the game.](https://www.reddit.com/r/Bitcoin/comments/1v5oqpr/trading_bitcoin_always_ends_badly_dca_hodl_is_the/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypte
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 For a long time, I thought Bitcoin was only about price—buy low, sell high, hope it goes to the moon. The more I learned, the more I realised that's actually the least interesting part. Bitcoin is the first form of money that no government, bank, or company controls. It's open 24/7, borderless, and anyone with an internet connection can participate. Whether you're sending value across the world or simply holding an asset with a fixed supply of 21 million coins, it's a fascinating experiment in financial freedom. Will it replace traditional money? Maybe, maybe not. Is it volatile? Absolutely. But the idea that money can exist without a central authority is one of the most revolutionary concepts of our time. Whether you're a Bitcoin believer or a sceptic, it's hard to deny that it has changed the conversation about money forever. What's the biggest thing Bitcoin has taught you? I'm genuinely curious to hear different perspectives.
 
-15h ago
+17h ago
 
 ---
 
@@ -111,7 +111,7 @@ For a long time, I thought Bitcoin was only about price—buy low, sell high, ho
 
 I’m 14 Trying to find out if it’s worth it or not btws
 
-8h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’m 14 Trying to find out if it’s worth it or not btws
 
 After you submitted your Formal Complaint, how long did it take before you regained access to your funds or your withdrawal function was restored? Was it resolved within the 4-week complaint period, or did it take longer? I’m trying to understand what others have experienced after the formal complaint stage. Thank you guys
 
-3h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ After you submitted your Formal Complaint, how long did it take before you regai
 
 I have a lightning wallet for spending and sending small amounts. I haven't used it in quite some time but today I have received multiple payments of a few sats a few $4 amounts, and even a $9 payment, in 24 hours. Is this something to be concerned with? Why am I receiving so many sats out of no where? I am going to just hold it for awhile before moving it but what is this all about?
 
-9h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ I have a lightning wallet for spending and sending small amounts. I haven't used
 
 Newer to this and trying to understand the psychology before I'm tested by it. Everyone says "just hold" but I want to hear from people who were actually down bad at the worst point. Did you know it was the bottom, or did it just feel like it was going to zero like everyone said?
 
-1h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ Newer to this and trying to understand the psychology before I'm tested by it. E
 
 I started buying £100 of BTC every week 3 months ago. I’m 53 so will work till I retire on my 68th birthday. What do you recon it will be worth.
 
-20h ago
+22h ago
 
 ---
 
@@ -151,7 +151,7 @@ I started buying £100 of BTC every week 3 months ago. I’m 53 so will work til
 
 These are based on my personal experience running a Bitcoin technology company, working with accountants in the EU and the US, and many conversations I had with businesses recently. Account blocks: This, of course, is the most common problem, especially for businesses. If you are making transfers to exchanges to buy or sell bitcoin, you can expect a series of questions from your banks, or, worse, they may suspect you of providing crypto exchange services for your clients and may block your account. This is a nightmare we as a bitcoin company were not spared with - we could not get an account on Revolut since we had bitcoin on our website and could not produce license documents. No way to communicate that we rely on our partners to provide services - of course, they won't spend time to read your terms and conditions or chat with you - they are too big to bother about small coffee shop owners or risky crypto apps. Accepting is just unclear. Businesses want to accept bitcoin and have a cleaner accounting trail- auto-offramp to Euro in some cases. But they are confronted with setting up a BTCPay instance or dropping an NWC string or a lightning address to a payment tool. Lightning address or NWC string is not as common as a bank's IBAN - still, they need to get one reliable Lightning setup. But a business wallet is not a WOS you spin up for your friend to have their first sat. It should support Lightning, have liquidity, support good statement exports, be able to plug into existing account tools, and be either self-custody or compliant. Even if you have an easy custodial wallet for your business, you are confronted with adding additional details to all the deposits from clients as part of the travel rule, which makes it a nightmare to accept bitcoin in a coffee shop for 10 euros. Accounting breaks Even if you manage to accept bitcoin, your account finds it incredibly hard to account for this, and also accounting for capital gains/loss comes with rate changes from the time of accepting and using this bitcoin. Obviously you'll be using tools that will either not give a great export that you could use or plug into accounting software. You'd need to hire crypto-expert accountants! Taxes You accept bitcoin - not sure about how this is treated from a tax perspective - if you auto-sell this incoming bitcoin to Euro - would the capital gain be 0 as you earned and instantly converted, or the first-in, first-out logic applied where you'd need to worry when you bought bitcoin to your wallet first time in ages. It is not the willingness to pay taxes; it is knowledge of how to declare capital gains that comes with the bitcoin payments compliantly. Business custody is not personal custody. When you have multiple operators in an organization or a bigger company who have access to funds to spend on materials and services, you'd need governance and access to the funds. Which gets way complicated with a self-custody wallet for business. Bitcoin works - a free network - so cheaper payments, instant settlements and global acceptability. All of these factors are a win for a business - but the banking, tooling, and process around it doesn't work. It does not make sense with all this friction. Working on something interesting - but would love to get your thoughts on above.
 
-20h ago
+22h ago
 
 ---
 
@@ -163,7 +163,23 @@ These are based on my personal experience running a Bitcoin technology company, 
 
 New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
+
+---
+
+**[Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'](https://finance.yahoo.com/markets/crypto/articles/strategy-overhauls-bitcoin-metrics-debuting-162152740.html)**
+
+The firm says its "digital credit" shift needs new yardsticks that strip out debt and preferred claims to show what common shareholders own.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Strategy now publishes the Bitcoin return threshold below which it may have to restructure](https://cryptoslate.com/strategy-now-publishes-the-bitcoin-return-threshold-below-which-it-may-have-to-restructure/)**
+
+Strategy’s Bitcoin strategy now has a -11.34% floor showing when modeled coverage could fall below 1.0x and raise restructuring risk.
+
+CryptoSlate • 17h ago
 
 ---
 
@@ -171,37 +187,29 @@ CoinDesk • 22h ago
 
 The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
-**[Bitcoin price falls below $64,000 as stablecoin inflows weaken](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-falls-below-64-092743128.html)**
+**[Does crypto make your portfolio less risky? Only if you do it right, experts say](https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html)**
 
-Investing.com -- Bitcoin fell below $64,000 on Saturday, extending its decline as weakening stablecoin inflows pointed to subdued demand for cryptocurrency assets. The token traded near $63,919, down about 2.3% over 24 hours, according to Binance market data.
+There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.
+
+CNBC • 40m ago
+
+---
+
+**[$7 Trillion Wall Street Giant is Watching This Key Bitcoin Metric](https://finance.yahoo.com/markets/crypto/articles/7-trillion-wall-street-giant-113753819.html)**
+
+Fidelity says record-long-term holder supply is aligned with other Bitcoin bottom signals, but the asset manager has not called the low yet.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Morning Minute: Bitcoin's New $15M Quantum Defense Fund](https://finance.yahoo.com/markets/crypto/articles/morning-minute-bitcoins-15m-quantum-122934300.html)**
-
-Plus, the Clarity Act is no longer expected to progress before the August recess. And Vlad Tenev's X was hacked to post a meme coin...
-
-Yahoo Finance • 23h ago
-
----
-
 **[Quantum and Crypto Are on a Collision Course—and Wall Street Is Spending Millions to Stop It](https://www.barrons.com/articles/quantum-crypto-bitcoin-danger-f4d5c9f8)**
 
-Barron's • 14h ago
-
----
-
-**[Strategy, BlackRock form Bitcoin Security Consortium to prepare for quantum computing threat](https://www.theblock.co/post/409522/strategy-blackrock-form-bitcoin-security-consortium-to-prepare-for-quantum-computing-threat)**
-
-Nine firms including Strategy and BlackRock formed a $15 million Bitcoin security consortium to fund post-quantum cryptography research.
-
-The Block • 1d ago
+Barron's • 16h ago
 
 ---
 
@@ -215,15 +223,7 @@ Morningstar • 1d ago
 
 Investors were cashing out of Bitcoin ETFs this week — but Morgan Stanley's product received fresh cash.
 
-Bitcoin Magazine • 13h ago
-
----
-
-**[Current price of Bitcoin for July 24, 2026](https://fortune.com/article/current-price-of-bitcoin-for-july-24-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 16h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -231,7 +231,7 @@ Fortune • 16h ago
 
 New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
 
-Scripps News • 20h ago
+Scripps News • 22h ago
 
 ---
 
@@ -259,7 +259,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 2 • 💬 0 • 3h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 2 • 💬 0 • 5h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -267,7 +267,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 2 • 💬 0 • 9h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -299,7 +299,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -323,23 +323,23 @@ In 2017 I quit my job to pursue a career in cryptocurrency. I had high hopes. Ne
 
 ## YouTube Videos: "bitcoin"
 
-**[Waiting for the Bitcoin Bottom? You May Miss the Next Rally | Samson Mow](https://www.youtube.com/watch?v=nt53NB9dtSU)**
-
-In this interview, Samson Mow shares his latest outlook on Bitcoin and explains why he believes the traditional 4-year cycle may ...
-
-📺 Cointelegraph
-
-👁️ 10K • 👍 292 • 💬 102 • ⏱️ 20:40 • 23h ago
-
----
-
 **[Bitcoin Treasuries are COLLAPSING and That&#39;s Bullish! (Here&#39;s Why)](https://www.youtube.com/watch?v=JQFEIHP7oyA)**
 
 Several high-profile Bitcoin treasury companies are struggling, but that doesn't mean Bitcoin is. As financial engineering begins to ...
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 818 • 💬 136 • ⏱️ 27:04 • 13h ago
+👁️ 11K • 👍 910 • 💬 179 • ⏱️ 27:04 • 16h ago
+
+---
+
+**[Waiting for the Bitcoin Bottom? You May Miss the Next Rally | Samson Mow](https://www.youtube.com/watch?v=nt53NB9dtSU)**
+
+In this interview, Samson Mow shares his latest outlook on Bitcoin and explains why he believes the traditional 4-year cycle may ...
+
+📺 Cointelegraph
+
+👁️ 11K • 👍 312 • 💬 104 • ⏱️ 20:40 • 1d ago
 
 ---
 
@@ -349,7 +349,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 671 • 💬 191 • ⏱️ 46:59 • 21h ago
+👁️ 12K • 👍 673 • 💬 183 • ⏱️ 46:59 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now 
 
 📺 Gareth Soloway
 
-👁️ 30K • 👍 2K • 💬 148 • ⏱️ 10:40 • 18h ago
+👁️ 32K • 👍 2K • 💬 154 • ⏱️ 10:40 • 20h ago
 
 ---
 
@@ -369,27 +369,17 @@ Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitte
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 220 • ⏱️ 12:09 • 1d ago
+👁️ 43K • 👍 2K • 💬 222 • ⏱️ 12:09 • 1d ago
 
 ---
 
-**[&quot;Bitcoin Sellers Are DONE! What Happens NEXT Will SHOCK EVERYONE&quot; - Joe Consorti](https://www.youtube.com/watch?v=jx8S4TT3Jxo)**
+**[Bitcoin&#39;s Second Civil War Has Begun! Did Wall Street Just Pick Its Weapon?](https://www.youtube.com/watch?v=imHhZ2O_uRc)**
 
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 206 • 💬 17 • ⏱️ 14:14 • 1d ago
-
----
-
-**[Does Jack Mallers EXIT CONFIRM Michael Saylor&#39;s 21M Monopoly?!](https://www.youtube.com/watch?v=dtn2idOk4aU)**
-
-Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treasury landscape. As companies rethink their ...
+Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots and BIP-110 collide over spam, consensus and ...
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 921 • 💬 218 • ⏱️ 16:41 • 2d ago
+👁️ 23K • 👍 2K • 💬 477 • ⏱️ 20:33 • 1d ago
 
 ---
 
@@ -399,27 +389,37 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 399 • 💬 27 • ⏱️ 2:00:18 • 19h ago
+👁️ 5K • 👍 399 • 💬 27 • ⏱️ 2:00:18 • 21h ago
 
 ---
 
-**[We PREDICT The Bitcoin Cycle Bottom](https://www.youtube.com/watch?v=WxIQdIXn280)**
+**[Does Jack Mallers EXIT CONFIRM Michael Saylor&#39;s 21M Monopoly?!](https://www.youtube.com/watch?v=dtn2idOk4aU)**
 
-BUY MY BOOK HERE: https://www.amazon.com/dp/B0H9YMJK5H FREE WEEKLY REPORT: ...
+Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treasury landscape. As companies rethink their ...
 
-📺 Crypto Tips
+📺 Simply Bitcoin
 
-👁️ 15K • 👍 888 • 💬 90 • ⏱️ 6:29 • 20h ago
+👁️ 16K • 👍 926 • 💬 208 • ⏱️ 16:41 • 2d ago
 
 ---
 
-**[Bitcoin: Between a Rock and a Hard Place](https://www.youtube.com/watch?v=JY_wY8XXjYU)**
+**[Bitcoin&#39;s Turn Is Next — The Easy Money AI Trade Is Over?](https://www.youtube.com/watch?v=McKTuWYzXgg)**
 
-Let's talk about Bitcoin price and what to expect over the coming months. Come to the 1st ITC Conference: ...
+Jordi Visser is a veteran macro investor with 30+ years of experience and the author of the VisserLabs Substack.
 
-📺 Benjamin Cowen
+📺 Anthony Pompliano
 
-👁️ 52K • 👍 3K • 💬 149 • ⏱️ 10:01 • 22h ago
+👁️ 3K • 👍 321 • 💬 17 • ⏱️ 53:31 • 1h ago
+
+---
+
+**[Massive Rotation Back Into Crypto?📈But Bitcoin Narrative Over?🚨](https://www.youtube.com/watch?v=ejD5S4tDS5g)**
+
+An AI-to-crypto capital rotation describes the shifting of institutional and retail investment funds between artificial intelligence ...
+
+📺 Paul Barron Network
+
+👁️ 48K • 👍 2K • 💬 212 • ⏱️ 20:09 • 1d ago
 
 ---
 

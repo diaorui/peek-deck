@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T12:02:57.188925+00:00'
+updated: '2026-07-25T14:10:02.922491+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 12:02 UTC  
+**Last Updated:** July 25, 2026 at 14:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,857.68
+### $1,866.28
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -0.9%  
-**30d:** +17.7%  
-**90d:** -19.4%  
-**1y:** -50.3%  
+**24h:** +0.3%  
+**7d:** -0.4%  
+**30d:** +18.3%  
+**90d:** -19.0%  
+**1y:** -50.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.01B
+**Market Cap:** $225.02B
 Rank #2
 
 **Circulating Supply:** 120,682,685 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.5%
+-62.3%
 
 **All-Time Low:** $0.43
-+428595.2%
++430539.8%
 
 ---
 
@@ -146,19 +146,11 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.](https://finance.yahoo.com/markets/crypto/articles/robinhoods-blockchain-smash-success-heres-100200255.html)**
+**[Bitcoin and Ethereum fall as crypto derivatives volume drops 12%, signaling cautious market sentiment.](https://pluang.com/en/news-feed/bitcoin-ethereum-turun-volume-derivatif-kripto-turun-12-persen)**
 
-The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
+Bitcoin and Ethereum prices declined by 2.24% and 1.62% respectively amid a 12.92% drop in crypto derivatives trading volume, indicating reduced risk appetite among traders. The broader crypto market saw losses across major altcoins, reflecting a defensive stance, while decentralized finance (DeFi) showed relative strength with increased trading volume. Stablecoin activity slightly decreased, suggesting a cautious approach to near-term buying power. This combination points to traders waiting for clearer market signals before increasing exposure.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum ETFs attract $103.9M inflows as Bitcoi...](https://pluang.com/en/news-feed/arus-uang-wall-street-masuk-ethereum-etf-dan-keluar-hyperliquid)**
-
-Ethereum exchange-traded funds (ETFs) led crypto fund inflows last week with $103.9 million, marking a third consecutive week of strong demand. Bitcoin ETFs saw declining inflows, dropping to $33.79 million amid two days of significant outflows. Meanwhile, Hyperliquid ETFs experienced their second straight week of outflows, losing $8.6 million and seeing assets fall about 18% from a recent peak. This trend highlights steady interest in Ethereum ETFs while investors remain cautious about newer products like Hyperliquid. The coming weeks will reveal if Ethereum continues to dominate or if Bitcoin ETFs regain momentum.
-
-Pluang • 1h ago
+Pluang • 11m ago
 
 ---
 
@@ -166,7 +158,23 @@ Pluang • 1h ago
 
 On July 24, U.S. spot Bitcoin ETFs experienced $240 million in net outflows, while spot Ethereum ETFs saw $70.62 million withdrawn, ending Ethereum's five-day inflow streak. These combined withdrawals of over $310 million indicate a pause in recent institutional buying momentum despite ongoing long-term interest in both assets. The outflows highlight cautious sentiment among institutional investors ahead of key macroeconomic events and Federal Reserve policy decisions, with ETF flows remaining a critical gauge of institutional appetite for cryptocurrencies.
 
-Pluang • 23m ago
+Pluang • 2h ago
+
+---
+
+**[Ethereum ETFs attract $103.9M inflows as Bitcoi...](https://pluang.com/en/news-feed/arus-uang-wall-street-masuk-ethereum-etf-dan-keluar-hyperliquid)**
+
+Ethereum exchange-traded funds (ETFs) led crypto fund inflows last week with $103.9 million, marking a third consecutive week of strong demand. Bitcoin ETFs saw declining inflows, dropping to $33.79 million amid two days of significant outflows. Meanwhile, Hyperliquid ETFs experienced their second straight week of outflows, losing $8.6 million and seeing assets fall about 18% from a recent peak. This trend highlights steady interest in Ethereum ETFs while investors remain cautious about newer products like Hyperliquid. The coming weeks will reveal if Ethereum continues to dominate or if Bitcoin ETFs regain momentum.
+
+Pluang • 3h ago
+
+---
+
+**[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-says-ethereum-reinventing-114100114.html)**
+
+The chain's new plan calls for a swath of big steps in a few different directions.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,19 +186,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.](https://www.fool.com/investing/2026/07/25/robinhoods-new-blockchain-has-been-a-smash-success/)**
+
+The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
+
+The Motley Fool • 4h ago
+
+---
+
 **[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
 The Block • 2d ago
-
----
-
-**[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 23h ago
 
 ---
 
@@ -206,23 +214,15 @@ TradingView • 1d ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 1d ago
+Seeking Alpha • 2d ago
 
 ---
 
-**[Crypto Today: BTC, ETH, XRP steady as ETF flows diverge](https://www.fxstreet.com/news/crypto-today-bitcoin-ethereum-xrp-pare-losses-as-breakout-potential-builds-202607241100)**
+**[Bitcoin, Ethereum, XRP, Dogecoin End Week Quietly as Analyst Predicts 'One Last Leg Lower'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60679346/bitcoin-ethereum-xrp-dogecoin-end-week-quietly-as-analyst-predicts-one-last-leg-lower)**
 
-Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
+Bitcoin holds steady despite tech stock selloff triggered by weak earnings. Bitcoin may see final leg down before bear market bottom, says analyst. Market nears bottom from timing perspective.
 
-FXStreet • 1d ago
-
----
-
-**[Two Ethereum bridges lose $31.7M within hours as third protocol halts staking](https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/)**
-
-Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
-
-CryptoSlate • 2h ago
+Benzinga • 19h ago
 
 ---
 
@@ -230,13 +230,23 @@ CryptoSlate • 2h ago
 
 ## YouTube Videos: "ethereum"
 
+**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
+
+My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
+
+📺 Satoshi Stacker
+
+👁️ 2K • 👍 190 • 💬 16 • ⏱️ 8:31 • 3h ago
+
+---
+
 **[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=CZWZVLPuYDg)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 155 • 💬 39 • ⏱️ 18:08 • 19h ago
+👁️ 4K • 👍 162 • 💬 44 • ⏱️ 18:08 • 21h ago
 
 ---
 
@@ -246,7 +256,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 153 • 💬 43 • ⏱️ 7:27 • 19h ago
+👁️ 2K • 👍 166 • 💬 44 • ⏱️ 7:27 • 21h ago
 
 ---
 
@@ -256,17 +266,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 536 • 💬 256 • ⏱️ 16:34 • 1d ago
+👁️ 11K • 👍 540 • 💬 252 • ⏱️ 16:34 • 1d ago
 
 ---
 
-**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=NU6MsFNYfaY)**
+**[ETHEREUM PULLING BACK INTO MAJOR BUY AREA! (ETH Update)](https://www.youtube.com/watch?v=MA2t-m99C_w)**
 
-In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 192 • 💬 9 • ⏱️ 6:26 • 1d ago
+👁️ 52 • 👍 10 • 💬 41 • ⏱️ 4:58 • 2h ago
 
 ---
 
@@ -276,37 +286,7 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 3K • 👍 61 • 💬 9 • ⏱️ 3:42 • 2d ago
-
----
-
-**[Crypto Is Going To Take A LOT Of You By Surprise Bitcoin Could Enact A Major Altcoin Season In 2026](https://www.youtube.com/watch?v=KsTrdH8fU5c)**
-
-Crypto is difficult, but crypto is also very easy. These people are literally telling us where they're investing their billions of dollars, ...
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 605 • 💬 407 • ⏱️ 35:53 • 1d ago
-
----
-
-**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
-
-My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
-
-📺 Satoshi Stacker
-
-👁️ 328 • 👍 41 • 💬 5 • ⏱️ 8:31 • 1h ago
-
----
-
-**[BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=clGF8fkrBfk)**
-
-BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 245 • 💬 208 • ⏱️ 22:07 • 16h ago
+👁️ 3K • 👍 62 • 💬 9 • ⏱️ 3:42 • 2d ago
 
 ---
 
@@ -316,7 +296,17 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 7K • 👍 508 • 💬 12 • ⏱️ 13:08 • 14h ago
+👁️ 8K • 👍 599 • 💬 34 • ⏱️ 13:08 • 16h ago
+
+---
+
+**[BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=clGF8fkrBfk)**
+
+BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 253 • 💬 201 • ⏱️ 22:07 • 18h ago
 
 ---
 
@@ -326,7 +316,17 @@ Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhi
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 223 • 💬 44 • ⏱️ 9:09 • 2d ago
+👁️ 4K • 👍 223 • 💬 64 • ⏱️ 9:09 • 2d ago
+
+---
+
+**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=NU6MsFNYfaY)**
+
+In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 194 • 💬 9 • ⏱️ 6:26 • 1d ago
 
 ---
 
