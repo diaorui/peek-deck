@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T01:02:45.595579+00:00'
+updated: '2026-07-25T04:43:33.923105+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 01:02 UTC  
+**Last Updated:** July 25, 2026 at 04:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -0.6%  
-**30d:** +18.0%  
+**24h:** -1.1%  
+**7d:** -0.7%  
+**30d:** +17.9%  
 **90d:** -19.2%  
-**1y:** -50.2%  
+**1y:** -50.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.30B
+**Market Cap:** $224.31B
 Rank #2
 
-**Circulating Supply:** 120,682,712 ETH
+**Circulating Supply:** 120,682,685 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -62.4%
 
 **All-Time Low:** $0.43
-+429188.7%
++429218.7%
 
 ---
 
@@ -146,27 +146,17 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[Ethereum's network activity grows despite 36% p...](https://pluang.com/en/news-feed/ethereum-undervalued-aktivitas-jaringan-eth)**
+**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
 
-In 2026, Ethereum's price fell about 62% from its 2025 peak, dropping to $1,888 and down 36% year-to-date amid a market downturn. However, Ethereum's network fundamentals remain strong, with daily transactions exceeding 2.5 million—much higher than last year and even its 2025 peak. Total value locked (TVL) in the network rose by $4.92 billion since July, reflecting growing investor capital and optimism. Validator activity also shows confidence, with near-zero exit queues and increased token commitments, suggesting long-term bullish sentiment. These trends point to Ethereum's potential to outperform in the next market cycle over the coming two to three years.
+Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
 
-Pluang • 1h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) On Its $73 Million Ethereum Buy And A Tough Valuation Debate](https://simplywall.st/stocks/us/software/nyse-bmnr/bitmine-immersion-technologies/news/bitmine-immersion-technologies-bmnr-on-its-73-million-ethere)**
-
-Bitmine Immersion Technologies (BMNR) is back in focus after disclosing a new US$73 million Ethereum purchase, lifting its holdings to about 5.78 million ETH and intensifying debate around concentration risk and stock volatility.
-See our latest analysis for Bitmine Immersion Technologies.
-At a share price of US$15.79, Bitmine Immersion Technologies has seen a 12.62% 1 month share price return but is still down 49.37% year to date, with a 60.31% decline in 1 year total shareholder return. This...
-
-simplywall.st • 3h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
+**[Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html)**
 
-Leading cryptocurrencies flatlined on Wednesday as investors weighed the implications of the Clarity Act and rising geopolitical tensions in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.64%$65,933.49Ethereum (CRYPTO: ETH) +0.05%$1,931.41XRP (CRYPTO: XRP) -0.32%$1.13Solana (CRYPTO: SOL) -0.18%$78.12Dogecoin (CRYPTO: DOGE) -0.79%$0.07287 Crypto Rally Cools Bitcoin failed to break through $67,000 and slipped back to $65,000 after encounter
+Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
 
 Yahoo Finance • 1d ago
 
@@ -180,11 +170,11 @@ The Block • 1d ago
 
 ---
 
-**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
 
-Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-CoinDesk • 1d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -200,7 +190,7 @@ TradingView • 1d ago
 
 The chain's new plan calls for a swath of big steps in a few different directions.
 
-The Motley Fool • 12h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -208,7 +198,7 @@ The Motley Fool • 12h ago
 
 U.S. Spot ETH ETF has seen net inflows in the past two weeks.
 
-AMBCrypto • 20h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -216,7 +206,15 @@ AMBCrypto • 20h ago
 
 Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
 
-Benzinga • 23h ago
+Benzinga • 1d ago
+
+---
+
+**[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 15h ago
 
 ---
 
@@ -238,17 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 116 • 💬 23 • ⏱️ 18:08 • 8h ago
-
----
-
-**[AI Just Found a Critical Bug in Ethereum!](https://www.youtube.com/watch?v=qy8wGDpDFI0)**
-
-Ethereum ETH News Update: AI has discovered a real security vulnerability in Ethereum's validator software. In this video, we ...
-
-📺 Linda CryptoFly
-
-👁️ 921 • 👍 125 • 💬 51 • ⏱️ 7:27 • 8h ago
+👁️ 3K • 👍 130 • 💬 25 • ⏱️ 18:08 • 12h ago
 
 ---
 
@@ -258,7 +246,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 530 • 💬 258 • ⏱️ 16:34 • 1d ago
+👁️ 11K • 👍 533 • 💬 248 • ⏱️ 16:34 • 1d ago
 
 ---
 
@@ -268,27 +256,17 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 183 • 💬 8 • ⏱️ 6:26 • 23h ago
+👁️ 3K • 👍 184 • 💬 8 • ⏱️ 6:26 • 1d ago
 
 ---
 
-**[BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=clGF8fkrBfk)**
+**[AI Just Found a Critical Bug in Ethereum!](https://www.youtube.com/watch?v=qy8wGDpDFI0)**
 
-BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Ethereum ETH News Update: AI has discovered a real security vulnerability in Ethereum's validator software. In this video, we ...
 
-📺 Crypto World
+📺 Linda CryptoFly
 
-👁️ 3K • 👍 177 • 💬 158 • ⏱️ 22:07 • 5h ago
-
----
-
-**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
-
-Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 104 • 💬 8 • ⏱️ 0:53 • 21h ago
+👁️ 1K • 👍 138 • 💬 53 • ⏱️ 7:27 • 12h ago
 
 ---
 
@@ -308,17 +286,27 @@ ETH just spiked to $1950 and wiped out $62 million in shorts. Here's the strange
 
 📺 Coin Bureau Podcast
 
-👁️ 804 • 👍 15 • 💬 2 • ⏱️ 0:28 • 8h ago
+👁️ 937 • 👍 15 • 💬 2 • ⏱️ 0:28 • 11h ago
 
 ---
 
-**[Bitcoin and Ethereum Are SO CLOSE To Topping Out!](https://www.youtube.com/watch?v=uSOiplF15DU)**
+**[BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=clGF8fkrBfk)**
 
-Bitcoin and Ethereum are nearing major inflection points after BTC's pullback inside the daily TBO cloud and Ethereum's break ...
+BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 Crypto World
 
-👁️ 7K • 👍 551 • 💬 79 • ⏱️ 1:00:32 • 21h ago
+👁️ 4K • 👍 229 • 💬 152 • ⏱️ 22:07 • 9h ago
+
+---
+
+**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
+
+Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
+
+📺 Lark Davis
+
+👁️ 4K • 👍 117 • 💬 11 • ⏱️ 0:53 • 1d ago
 
 ---
 
@@ -329,6 +317,16 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 📺 Milk Road
 
 👁️ 3K • 👍 112 • 💬 102 • ⏱️ 55:25 • 1d ago
+
+---
+
+**[BALEIAS ESTÃO SHORTANDO BITCOIN E ETHEREUM: O QUE ELAS SABEM?](https://www.youtube.com/watch?v=utRYblKlbtE)**
+
+Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto boa parte do varejo já acredita em uma ...
+
+📺 Augusto Backes
+
+👁️ 6K • 👍 442 • 💬 10 • ⏱️ 13:08 • 6h ago
 
 ---
 
