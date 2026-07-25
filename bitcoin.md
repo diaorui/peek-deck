@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-25T14:10:02.916403+00:00'
+updated: '2026-07-25T15:39:59.324637+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 14:10 UTC  
+**Last Updated:** July 25, 2026 at 15:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.8%  
-**30d:** +6.8%  
-**90d:** -17.1%  
-**1y:** -45.6%  
+**24h:** +0.4%  
+**7d:** -0.7%  
+**30d:** +6.9%  
+**90d:** -17.0%  
+**1y:** -45.5%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 7h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 8h ago
 
 ---
 
 **[Trading bitcoin always ends badly. DCA & HODL is the name of the game.](https://www.reddit.com/r/Bitcoin/comments/1v5oqpr/trading_bitcoin_always_ends_badly_dca_hodl_is_the/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -95,7 +95,7 @@ The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypte
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 For a long time, I thought Bitcoin was only about price—buy low, sell high, hope it goes to the moon. The more I learned, the more I realised that's actually the least interesting part. Bitcoin is the first form of money that no government, bank, or company controls. It's open 24/7, borderless, and anyone with an internet connection can participate. Whether you're sending value across the world or simply holding an asset with a fixed supply of 21 million coins, it's a fascinating experiment in financial freedom. Will it replace traditional money? Maybe, maybe not. Is it volatile? Absolutely. But the idea that money can exist without a central authority is one of the most revolutionary concepts of our time. Whether you're a Bitcoin believer or a sceptic, it's hard to deny that it has changed the conversation about money forever. What's the biggest thing Bitcoin has taught you? I'm genuinely curious to hear different perspectives.
 
-17h ago
+18h ago
 
 ---
 
@@ -111,7 +111,7 @@ For a long time, I thought Bitcoin was only about price—buy low, sell high, ho
 
 I’m 14 Trying to find out if it’s worth it or not btws
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’m 14 Trying to find out if it’s worth it or not btws
 
 After you submitted your Formal Complaint, how long did it take before you regained access to your funds or your withdrawal function was restored? Was it resolved within the 4-week complaint period, or did it take longer? I’m trying to understand what others have experienced after the formal complaint stage. Thank you guys
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ After you submitted your Formal Complaint, how long did it take before you regai
 
 I have a lightning wallet for spending and sending small amounts. I haven't used it in quite some time but today I have received multiple payments of a few sats a few $4 amounts, and even a $9 payment, in 24 hours. Is this something to be concerned with? Why am I receiving so many sats out of no where? I am going to just hold it for awhile before moving it but what is this all about?
 
-11h ago
+12h ago
 
 ---
 
@@ -135,7 +135,7 @@ I have a lightning wallet for spending and sending small amounts. I haven't used
 
 Newer to this and trying to understand the psychology before I'm tested by it. Everyone says "just hold" but I want to hear from people who were actually down bad at the worst point. Did you know it was the bottom, or did it just feel like it was going to zero like everyone said?
 
-3h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Newer to this and trying to understand the psychology before I'm tested by it. E
 
 I started buying £100 of BTC every week 3 months ago. I’m 53 so will work till I retire on my 68th birthday. What do you recon it will be worth.
 
-22h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ I started buying £100 of BTC every week 3 months ago. I’m 53 so will work til
 
 These are based on my personal experience running a Bitcoin technology company, working with accountants in the EU and the US, and many conversations I had with businesses recently. Account blocks: This, of course, is the most common problem, especially for businesses. If you are making transfers to exchanges to buy or sell bitcoin, you can expect a series of questions from your banks, or, worse, they may suspect you of providing crypto exchange services for your clients and may block your account. This is a nightmare we as a bitcoin company were not spared with - we could not get an account on Revolut since we had bitcoin on our website and could not produce license documents. No way to communicate that we rely on our partners to provide services - of course, they won't spend time to read your terms and conditions or chat with you - they are too big to bother about small coffee shop owners or risky crypto apps. Accepting is just unclear. Businesses want to accept bitcoin and have a cleaner accounting trail- auto-offramp to Euro in some cases. But they are confronted with setting up a BTCPay instance or dropping an NWC string or a lightning address to a payment tool. Lightning address or NWC string is not as common as a bank's IBAN - still, they need to get one reliable Lightning setup. But a business wallet is not a WOS you spin up for your friend to have their first sat. It should support Lightning, have liquidity, support good statement exports, be able to plug into existing account tools, and be either self-custody or compliant. Even if you have an easy custodial wallet for your business, you are confronted with adding additional details to all the deposits from clients as part of the travel rule, which makes it a nightmare to accept bitcoin in a coffee shop for 10 euros. Accounting breaks Even if you manage to accept bitcoin, your account finds it incredibly hard to account for this, and also accounting for capital gains/loss comes with rate changes from the time of accepting and using this bitcoin. Obviously you'll be using tools that will either not give a great export that you could use or plug into accounting software. You'd need to hire crypto-expert accountants! Taxes You accept bitcoin - not sure about how this is treated from a tax perspective - if you auto-sell this incoming bitcoin to Euro - would the capital gain be 0 as you earned and instantly converted, or the first-in, first-out logic applied where you'd need to worry when you bought bitcoin to your wallet first time in ages. It is not the willingness to pay taxes; it is knowledge of how to declare capital gains that comes with the bitcoin payments compliantly. Business custody is not personal custody. When you have multiple operators in an organization or a bigger company who have access to funds to spend on materials and services, you'd need governance and access to the funds. Which gets way complicated with a self-custody wallet for business. Bitcoin works - a free network - so cheaper payments, instant settlements and global acceptability. All of these factors are a win for a business - but the banking, tooling, and process around it doesn't work. It does not make sense with all this friction. Working on something interesting - but would love to get your thoughts on above.
 
-22h ago
+1d ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 1d ago
 
 The firm says its "digital credit" shift needs new yardsticks that strip out debt and preferred claims to show what common shareholders own.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 21h ago
 
 Strategy’s Bitcoin strategy now has a -11.34% floor showing when modeled coverage could fall below 1.0x and raise restructuring risk.
 
-CryptoSlate • 17h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -187,7 +187,7 @@ CryptoSlate • 17h ago
 
 The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program.
 
-The Block • 15h ago
+The Block • 17h ago
 
 ---
 
@@ -195,21 +195,21 @@ The Block • 15h ago
 
 There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.
 
-CNBC • 40m ago
+CNBC • 2h ago
 
 ---
 
-**[$7 Trillion Wall Street Giant is Watching This Key Bitcoin Metric](https://finance.yahoo.com/markets/crypto/articles/7-trillion-wall-street-giant-113753819.html)**
+**[Bitcoin Just Hit a 30-Day High Above $65,000. Where Does BTC Go From Here?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-hit-30-day-043700064.html)**
 
-Fidelity says record-long-term holder supply is aligned with other Bitcoin bottom signals, but the asset manager has not called the low yet.
+Since the start of July, the world's most valuable cryptocurrency has risen 11%.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 11h ago
 
 ---
 
 **[Quantum and Crypto Are on a Collision Course—and Wall Street Is Spending Millions to Stop It](https://www.barrons.com/articles/quantum-crypto-bitcoin-danger-f4d5c9f8)**
 
-Barron's • 16h ago
+Barron's • 18h ago
 
 ---
 
@@ -223,7 +223,7 @@ Morningstar • 1d ago
 
 Investors were cashing out of Bitcoin ETFs this week — but Morgan Stanley's product received fresh cash.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bitcoin Magazine • 15h ago
 
 New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
 
-Scripps News • 22h ago
+Scripps News • 23h ago
 
 ---
 
@@ -243,7 +243,7 @@ Scripps News • 22h ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 114 • 💬 121 • 2d ago • [opennode.com](https://opennode.com/)
+⬆️ 114 • 💬 121 • 3d ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -251,7 +251,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, protecting its purpose as sound, permissionless money.
 
-⬆️ 2 • 💬 1 • 2d ago • [BIP-110](https://bip110.org)
+⬆️ 2 • 💬 1 • 3d ago • [BIP-110](https://bip110.org)
 
 ---
 
@@ -259,7 +259,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 2 • 💬 0 • 5h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -267,7 +267,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 2 • 💬 0 • 12h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -299,7 +299,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -307,7 +307,7 @@ A minimal, modular blockchain for peer-to-peer value and controlled networks. - 
 
 Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
 
-⬆️ 1 • 💬 0 • 1d ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 2d ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
 
 ---
 
@@ -329,7 +329,7 @@ Several high-profile Bitcoin treasury companies are struggling, but that doesn't
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 910 • 💬 179 • ⏱️ 27:04 • 16h ago
+👁️ 11K • 👍 910 • 💬 179 • ⏱️ 27:04 • 17h ago
 
 ---
 
@@ -349,7 +349,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 673 • 💬 183 • ⏱️ 46:59 • 23h ago
+👁️ 12K • 👍 673 • 💬 183 • ⏱️ 46:59 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now 
 
 📺 Gareth Soloway
 
-👁️ 32K • 👍 2K • 💬 154 • ⏱️ 10:40 • 20h ago
+👁️ 32K • 👍 2K • 💬 154 • ⏱️ 10:40 • 22h ago
 
 ---
 
@@ -389,7 +389,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 399 • 💬 27 • ⏱️ 2:00:18 • 21h ago
+👁️ 5K • 👍 399 • 💬 27 • ⏱️ 2:00:18 • 23h ago
 
 ---
 
@@ -409,7 +409,7 @@ Jordi Visser is a veteran macro investor with 30+ years of experience and the au
 
 📺 Anthony Pompliano
 
-👁️ 3K • 👍 321 • 💬 17 • ⏱️ 53:31 • 1h ago
+👁️ 3K • 👍 321 • 💬 17 • ⏱️ 53:31 • 2h ago
 
 ---
 
@@ -419,7 +419,7 @@ An AI-to-crypto capital rotation describes the shifting of institutional and ret
 
 📺 Paul Barron Network
 
-👁️ 48K • 👍 2K • 💬 212 • ⏱️ 20:09 • 1d ago
+👁️ 48K • 👍 2K • 💬 212 • ⏱️ 20:09 • 2d ago
 
 ---
 

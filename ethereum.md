@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T14:10:02.922491+00:00'
+updated: '2026-07-25T15:39:59.330994+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 14:10 UTC  
+**Last Updated:** July 25, 2026 at 15:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,866.28
+### $1,869.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -0.4%  
-**30d:** +18.3%  
-**90d:** -19.0%  
-**1y:** -50.1%  
+**24h:** +0.8%  
+**7d:** -0.2%  
+**30d:** +18.4%  
+**90d:** -18.8%  
+**1y:** -50.0%  
 
 ---
 
@@ -146,27 +146,19 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
+**[Ethereum ETFs lead crypto fund inflows as Bitco...](https://pluang.com/en/news-feed/etf-ethereum-pimpin-aliran-dana-kripto-pekan-ini-saat-bitcoin-melambat)**
+
+Ethereum spot ETFs attracted $103.9 million in net inflows last week, continuing strong institutional demand despite market volatility. In contrast, Bitcoin ETFs saw a sharp decline in weekly inflows to $33.79 million after heavy outflows midweek, with trading volume hitting its lowest since April 2025. Altcoin ETFs like XRP, Solana, and Chainlink also saw notable inflows, while Hyperliquid ETFs continued to experience outflows and declining assets. This trend highlights growing investor preference for Ethereum amid Bitcoin's slowing momentum, with market watchers keen to see if Ethereum maintains its lead or Bitcoin rebounds.
+
+Pluang • 1h ago
+
+---
+
 **[Bitcoin and Ethereum fall as crypto derivatives volume drops 12%, signaling cautious market sentiment.](https://pluang.com/en/news-feed/bitcoin-ethereum-turun-volume-derivatif-kripto-turun-12-persen)**
 
 Bitcoin and Ethereum prices declined by 2.24% and 1.62% respectively amid a 12.92% drop in crypto derivatives trading volume, indicating reduced risk appetite among traders. The broader crypto market saw losses across major altcoins, reflecting a defensive stance, while decentralized finance (DeFi) showed relative strength with increased trading volume. Stablecoin activity slightly decreased, suggesting a cautious approach to near-term buying power. This combination points to traders waiting for clearer market signals before increasing exposure.
 
-Pluang • 11m ago
-
----
-
-**[U.S. spot Bitcoin and Ethereum ETFs see $310M n...](https://pluang.com/en/news-feed/etf-bitcoin-ethereum-aset-digital-keluar-institusional-melambat)**
-
-On July 24, U.S. spot Bitcoin ETFs experienced $240 million in net outflows, while spot Ethereum ETFs saw $70.62 million withdrawn, ending Ethereum's five-day inflow streak. These combined withdrawals of over $310 million indicate a pause in recent institutional buying momentum despite ongoing long-term interest in both assets. The outflows highlight cautious sentiment among institutional investors ahead of key macroeconomic events and Federal Reserve policy decisions, with ETF flows remaining a critical gauge of institutional appetite for cryptocurrencies.
-
-Pluang • 2h ago
-
----
-
-**[Ethereum ETFs attract $103.9M inflows as Bitcoi...](https://pluang.com/en/news-feed/arus-uang-wall-street-masuk-ethereum-etf-dan-keluar-hyperliquid)**
-
-Ethereum exchange-traded funds (ETFs) led crypto fund inflows last week with $103.9 million, marking a third consecutive week of strong demand. Bitcoin ETFs saw declining inflows, dropping to $33.79 million amid two days of significant outflows. Meanwhile, Hyperliquid ETFs experienced their second straight week of outflows, losing $8.6 million and seeing assets fall about 18% from a recent peak. This trend highlights steady interest in Ethereum ETFs while investors remain cautious about newer products like Hyperliquid. The coming weeks will reveal if Ethereum continues to dominate or if Bitcoin ETFs regain momentum.
-
-Pluang • 3h ago
+Pluang • 1h ago
 
 ---
 
@@ -182,15 +174,7 @@ Yahoo Finance • 1d ago
 
 Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
 
-CoinDesk • 1d ago
-
----
-
-**[Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.](https://www.fool.com/investing/2026/07/25/robinhoods-new-blockchain-has-been-a-smash-success/)**
-
-The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
-
-The Motley Fool • 4h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -199,6 +183,14 @@ The Motley Fool • 4h ago
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
 The Block • 2d ago
+
+---
+
+**[Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.](https://www.fool.com/investing/2026/07/25/robinhoods-new-blockchain-has-been-a-smash-success/)**
+
+The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -218,11 +210,19 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
+
+U.S. Spot ETH ETF has seen net inflows in the past two weeks.
+
+AMBCrypto • 1d ago
+
+---
+
 **[Bitcoin, Ethereum, XRP, Dogecoin End Week Quietly as Analyst Predicts 'One Last Leg Lower'](https://www.benzinga.com/crypto/cryptocurrency/26/07/60679346/bitcoin-ethereum-xrp-dogecoin-end-week-quietly-as-analyst-predicts-one-last-leg-lower)**
 
 Bitcoin holds steady despite tech stock selloff triggered by weak earnings. Bitcoin may see final leg down before bear market bottom, says analyst. Market nears bottom from timing perspective.
 
-Benzinga • 19h ago
+Benzinga • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 2K • 👍 190 • 💬 16 • ⏱️ 8:31 • 3h ago
+👁️ 2K • 👍 190 • 💬 16 • ⏱️ 8:31 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 162 • 💬 44 • ⏱️ 18:08 • 21h ago
+👁️ 4K • 👍 162 • 💬 44 • ⏱️ 18:08 • 23h ago
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 2K • 👍 166 • 💬 44 • ⏱️ 7:27 • 21h ago
+👁️ 2K • 👍 166 • 💬 44 • ⏱️ 7:27 • 23h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 52 • 👍 10 • 💬 41 • ⏱️ 4:58 • 2h ago
+👁️ 52 • 👍 10 • 💬 41 • ⏱️ 4:58 • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 8K • 👍 599 • 💬 34 • ⏱️ 13:08 • 16h ago
+👁️ 8K • 👍 599 • 💬 34 • ⏱️ 13:08 • 17h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 253 • 💬 201 • ⏱️ 22:07 • 18h ago
+👁️ 6K • 👍 253 • 💬 201 • ⏱️ 22:07 • 20h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-25T14:10:02.925754+00:00'
+updated: '2026-07-25T15:39:59.334437+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 25, 2026 at 14:10 UTC  
+**Last Updated:** July 25, 2026 at 15:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 -
 
 **[Bob (my robot) died 😢 I tried consolidating 2 LiPo batteries into a 1 larger one and fried its Raspberry Pi brains. I'm gonna rebuild him with a Nvidia Jetson brain and RealSense D457 GMSL camera.](https://www.reddit.com/r/robotics/comments/1v5faas/bob_my_robot_died_i_tried_consolidating_2_lipo/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -58,19 +58,19 @@ Hey everyone, A while back, I posted here asking for advice on my $149 metal cyc
 
 I’m part of the team that ran this experiment at Sim XR. Sharing it here as a technical project rather than a product announcement. We started by reproducing NVIDIA’s published Isaac Lab → LeRobot → VLA fine-tuning → Arena evaluation workflow for the Unitree G1 apple task. In our matched simulation evaluation: checkpoint trained on 208 usable released demonstrations: 93/100 checkpoint trained on 50 demonstrations we collected remotely through VR: 84/100 We then moved the task to the other side of the workspace. Both existing policies scored 0/20. After collecting targeted demonstrations for the new layout, the best result reached 74/100. Finally, we replaced the apple task with a cross-body mustard-bottle-to-bowl task: released apple checkpoint: 0/30 checkpoint fine-tuned on 50 new VR demonstrations: 27/30 These are simulation results, not a real-robot or sim-to-real claim. The interesting part for us was how sensitive the policies remained to layout changes—and how quickly targeted demonstrations could recover useful behavior. I’d be interested to hear how others are evaluating layout shifts and deciding where additional demonstrations are most useful.
 
-22h ago
+1d ago
 
 ---
 
 **[Claude Code skills for ROS 2 Jazzy that route to official docs instead of guessing APIs (measured before/after included)](https://www.reddit.com/r/robotics/comments/1v5h7ud/claude_code_skills_for_ros_2_jazzy_that_route_to/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Human Fall Detection By 3D Dtof LIDAR HM-LD1](https://www.reddit.com/r/robotics/comments/1v5crci/human_fall_detection_by_3d_dtof_lidar_hmld1/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workloa
 
 I made this real life Wall-E robot from scratch and am really proud of it so check my youtube video about it out if you would like
 
-🔗 [youtu.be](https://youtu.be/zddu86VGEX0?si=zm1kSBUPQm3cokhk) • 23h ago
+🔗 [youtu.be](https://youtu.be/zddu86VGEX0?si=zm1kSBUPQm3cokhk) • 1d ago
 
 ---
 
@@ -94,7 +94,7 @@ I made this real life Wall-E robot from scratch and am really proud of it so che
 
 Hey everyone, I’m currently working on a robot project and was wondering if anyone in the Houston, Texas area would like to join forces. The idea is to combine skills, share knowledge, and build something awesome together. I have the engineering background and some parts already, but I’d love to connect with people who are into robotics, coding, AI, electronics, or even just tinkering and learning. Whether you’re a student, hobbyist, or professional, collaboration makes projects way more fun (and productive). If you’re interested in teaming up or just want to chat about robots, feel free to DM me or drop a comment
 
-18h ago
+20h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey everyone, I’m currently working on a robot project and was wondering if an
 
 ROS News for the week of July 20th, 2026                      I’ve had quite the week! In the past seven days, I’ve been to Open Sauce, AMD’s developer conference, and now I’m at Teardown in Portland. It might have also been my birthday this week. 🎂  I’ve run into so many fantastic people building wonderful ROS robots, including a working Johnny 5 replica, a giant art robot with cast aluminum components, a hexapod with a 25 kg payload, a room full of SO-101s, a controllable robot t...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-20th-2026/56937) • 18h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-20th-2026/56937) • 20h ago
 
 ---
 
@@ -122,13 +122,19 @@ Time Magazine • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 18h ago
+IEEE Spectrum • 19h ago
+
+---
+
+**[Eric Trump-backed Foundation partners with AMD to develop humanoid robots](https://www.reuters.com/business/eric-trump-backed-foundation-partners-with-amd-develop-humanoid-robots-2026-07-23/)**
+
+Reuters • 1d ago
 
 ---
 
 **[With Washington’s help, humanoid robots can transform US manufacturing](https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/)**
 
-The Hill • 2h ago
+The Hill • 3h ago
 
 ---
 
@@ -140,12 +146,6 @@ Business Insider • 1d ago
 
 ---
 
-**[Eric Trump-backed Foundation partners with AMD to develop humanoid robots](https://www.reuters.com/business/eric-trump-backed-foundation-partners-with-amd-develop-humanoid-robots-2026-07-23/)**
-
-Reuters • 1d ago
-
----
-
 **[Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://finance.yahoo.com/technology/ai/articles/mobileye-ceo-amnon-shashua-step-224008848.html)**
 
 Shashua has been invited to take the chairman of the board seat.
@@ -154,17 +154,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies](https://www.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies)**
-
-South China Morning Post • 2d ago
-
----
-
 **[China unveils humanoid robots with dual-battery hot swap for nonstop factory operations](https://interestingengineering.com/ai-robotics/shanghai-electric-china-industrial-humanoid-robots)**
 
 Shanghai Electric unveiled humanoid robots, smart factory software, and 51 industrial models at WAIC 2026 to automate manufacturing.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 16h ago
+
+---
+
+**[US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies](https://www.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies)**
+
+South China Morning Post • 2d ago
 
 ---
 
@@ -220,7 +220,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 49K • 👍 519 • 💬 194 • ⏱️ 4:18 • 6d ago
+👁️ 49K • 👍 519 • 💬 194 • ⏱️ 4:18 • 7d ago
 
 ---
 
@@ -250,7 +250,7 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 45K • 👍 888 • 💬 399 • ⏱️ 2:02 • 2d ago
+👁️ 45K • 👍 888 • 💬 399 • ⏱️ 2:02 • 3d ago
 
 ---
 
