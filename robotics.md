@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-25T09:17:30.663490+00:00'
+updated: '2026-07-25T10:52:14.636324+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 25, 2026 at 09:17 UTC  
+**Last Updated:** July 25, 2026 at 10:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 - Weight: ~25 kg with battery. - Speed: Over 6 m/s (higher than the pure-legged As2). - Payload: Continuous ~16 kg; higher static capacity. - Endurance: Unloaded >3 hours / 30+ km; loaded (>16 kg) >2 hours / >16 km. Same 648 Wh (15,000 mAh) battery class as the As2. - Mobility: Up to ~80 cm obstacles, 45° slopes, 30 cm stairs; strong on gravel, rocky, and uneven outdoor terrain. https://www.unitree.com/As2-W
 
-22h ago
+23h ago
 
 ---
 
 **[Bob (my robot) died 😢 I tried consolidating 2 LiPo batteries into a 1 larger one and fried its Raspberry Pi brains. I'm gonna rebuild him with a Nvidia Jetson brain and RealSense D457 GMSL camera.](https://www.reddit.com/r/robotics/comments/1v5faas/bob_my_robot_died_i_tried_consolidating_2_lipo/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -58,19 +58,19 @@ Hey everyone, A while back, I posted here asking for advice on my $149 metal cyc
 
 I’m part of the team that ran this experiment at Sim XR. Sharing it here as a technical project rather than a product announcement. We started by reproducing NVIDIA’s published Isaac Lab → LeRobot → VLA fine-tuning → Arena evaluation workflow for the Unitree G1 apple task. In our matched simulation evaluation: checkpoint trained on 208 usable released demonstrations: 93/100 checkpoint trained on 50 demonstrations we collected remotely through VR: 84/100 We then moved the task to the other side of the workspace. Both existing policies scored 0/20. After collecting targeted demonstrations for the new layout, the best result reached 74/100. Finally, we replaced the apple task with a cross-body mustard-bottle-to-bowl task: released apple checkpoint: 0/30 checkpoint fine-tuned on 50 new VR demonstrations: 27/30 These are simulation results, not a real-robot or sim-to-real claim. The interesting part for us was how sensitive the policies remained to layout changes—and how quickly targeted demonstrations could recover useful behavior. I’d be interested to hear how others are evaluating layout shifts and deciding where additional demonstrations are most useful.
 
-17h ago
+19h ago
 
 ---
 
 **[Claude Code skills for ROS 2 Jazzy that route to official docs instead of guessing APIs (measured before/after included)](https://www.reddit.com/r/robotics/comments/1v5h7ud/claude_code_skills_for_ros_2_jazzy_that_route_to/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Human Fall Detection By 3D Dtof LIDAR HM-LD1](https://www.reddit.com/r/robotics/comments/1v5crci/human_fall_detection_by_3d_dtof_lidar_hmld1/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -78,7 +78,7 @@ I’m part of the team that ran this experiment at Sim XR. Sharing it here as a 
 
 Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workload-benchmark/ running extended ROS 2 workloads. Pretty cool HW-wise, especially with recent Jetson 50-100% price increase. Hopefully AMD won't price it same as new Thor price 👀 Also vote if you can what HW you use to run ROS (if you use ROS)
 
-🔗 [AMD](https://www.amd.com/en/products/system-on-modules/kria/ai.html) • 22h ago
+🔗 [AMD](https://www.amd.com/en/products/system-on-modules/kria/ai.html) • 23h ago
 
 ---
 
@@ -86,7 +86,7 @@ Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workloa
 
 I made this real life Wall-E robot from scratch and am really proud of it so check my youtube video about it out if you would like
 
-🔗 [youtu.be](https://youtu.be/zddu86VGEX0?si=zm1kSBUPQm3cokhk) • 18h ago
+🔗 [youtu.be](https://youtu.be/zddu86VGEX0?si=zm1kSBUPQm3cokhk) • 19h ago
 
 ---
 
@@ -94,7 +94,7 @@ I made this real life Wall-E robot from scratch and am really proud of it so che
 
 Hey everyone, I’m currently working on a robot project and was wondering if anyone in the Houston, Texas area would like to join forces. The idea is to combine skills, share knowledge, and build something awesome together. I have the engineering background and some parts already, but I’d love to connect with people who are into robotics, coding, AI, electronics, or even just tinkering and learning. Whether you’re a student, hobbyist, or professional, collaboration makes projects way more fun (and productive). If you’re interested in teaming up or just want to chat about robots, feel free to DM me or drop a comment
 
-13h ago
+15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey everyone, I’m currently working on a robot project and was wondering if an
 
 ROS News for the week of July 20th, 2026                      I’ve had quite the week! In the past seven days, I’ve been to Open Sauce, AMD’s developer conference, and now I’m at Teardown in Portland. It might have also been my birthday this week. 🎂  I’ve run into so many fantastic people building wonderful ROS robots, including a working Johnny 5 replica, a giant art robot with cast aluminum components, a hexapod with a 25 kg payload, a room full of SO-101s, a controllable robot t...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-20th-2026/56937) • 13h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-20th-2026/56937) • 15h ago
 
 ---
 
@@ -122,7 +122,7 @@ Time Magazine • 1d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 13h ago
+IEEE Spectrum • 14h ago
 
 ---
 
@@ -142,7 +142,7 @@ Reuters • 1d ago
 
 **[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
 
-Tech Xplore • 20h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -158,11 +158,11 @@ GeekWire • 1d ago
 
 These are things that tend to be really hard."
 
-Ars Technica • 17h ago
+Ars Technica • 19h ago
 
 ---
 
-**[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
+**[SoftBank Weighs Deal for Robotics Startup Gravis](https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis)**
 
 Bloomberg.com • 1d ago
 
@@ -194,7 +194,7 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 15K • 👍 158 • 💬 90 • ⏱️ 5:29 • 2d ago
+👁️ 15K • 👍 160 • 💬 90 • ⏱️ 5:29 • 2d ago
 
 ---
 
@@ -204,7 +204,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 2.7M • 👍 2K • 💬 422 • ⏱️ 2:15 • 5d ago
+👁️ 2.8M • 👍 2K • 💬 423 • ⏱️ 2:15 • 5d ago
 
 ---
 
@@ -214,7 +214,7 @@ An American robotics startup is preparing humanoid AI robots for war. Its Phanto
 
 📺 AI Revolution
 
-👁️ 28K • 👍 759 • 💬 107 • ⏱️ 13:15 • 6d ago
+👁️ 28K • 👍 760 • 💬 108 • ⏱️ 13:15 • 6d ago
 
 ---
 
@@ -224,7 +224,7 @@ Humanoid robots have officially stepped into the ring. Watch the world's first r
 
 📺 DPCcars
 
-👁️ 49K • 👍 513 • 💬 191 • ⏱️ 4:18 • 6d ago
+👁️ 49K • 👍 516 • 💬 193 • ⏱️ 4:18 • 6d ago
 
 ---
 
@@ -234,7 +234,17 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 61K • 👍 2K • 💬 177 • ⏱️ 12:28 • 3d ago
+👁️ 64K • 👍 2K • 💬 180 • ⏱️ 12:28 • 3d ago
+
+---
+
+**[Humanoid Robotics at the BMW Group Plant Spartanburg [4K]](https://www.youtube.com/watch?v=NFD0i63FDFk)**
+
+BMW Group intensifies the use of digitalization and the use of artificial intelligence (AI) in production. With so-called Physical AI, ...
+
+📺 The Wheel Network
+
+👁️ 19K • 👍 385 • 💬 111 • ⏱️ 6:24 • 3d ago
 
 ---
 
@@ -244,7 +254,7 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 43K • 👍 872 • 💬 389 • ⏱️ 2:02 • 2d ago
+👁️ 44K • 👍 884 • 💬 393 • ⏱️ 2:02 • 2d ago
 
 ---
 
@@ -254,7 +264,7 @@ A humanoid robot named Matador took a brutal high kick to the head, and its head
 
 📺 NextGen Humanoids
 
-👁️ 19K • 👍 412 • 💬 81 • ⏱️ 8:56 • 5d ago
+👁️ 19K • 👍 416 • 💬 81 • ⏱️ 8:56 • 5d ago
 
 ---
 
@@ -274,17 +284,7 @@ Everyone is asking if killer robots are coming. Wrong question. One already knoc
 
 📺 Ambrose In China
 
-👁️ 610K • 👍 22K • 💬 4K • ⏱️ 2:25 • 4d ago
-
----
-
-**[Why China is dominating the humanoid robot race - Asia Specific podcast, BBC World Service](https://www.youtube.com/watch?v=8jXScBvrEJ0)**
-
-Humanoid robots are suddenly everywhere - dancing, boxing, running marathons and even attempting surgery. China leads the ...
-
-📺 BBC World Service
-
-👁️ 18K • 👍 311 • 💬 97 • ⏱️ 18:15 • 3d ago
+👁️ 618K • 👍 22K • 💬 5K • ⏱️ 2:25 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-25T09:17:30.655102+00:00'
+updated: '2026-07-25T10:52:14.629962+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 09:17 UTC  
+**Last Updated:** July 25, 2026 at 10:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.6%  
-**7d:** -1.3%  
-**30d:** +6.3%  
-**90d:** -17.5%  
-**1y:** -45.8%  
+**7d:** -1.1%  
+**30d:** +6.5%  
+**90d:** -17.3%  
+**1y:** -45.7%  
 
 ---
 
@@ -77,81 +77,81 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I'm 31 and just put my work savings into BTC](https://www.reddit.com/r/Bitcoin/comments/1v5e3p7/im_31_and_just_put_my_work_savings_into_btc/)**
+**[India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat](https://www.reddit.com/r/Bitcoin/comments/1v60ud1/india_orders_takedown_of_jack_dorseys/)**
 
-So yeah… I finally did it. After years of working, saving, overthinking, and pretending I was waiting for the “perfect entry,” I moved about $48,000 of my savings into Bitcoin. That’s basically most of what I’ve built from my job over the last few years. Not some lottery money. Not daddy money. Just paychecks, side gigs, skipping dumb expenses, and trying not to blow it all on random stuff xD I’m not saying this is smart. I’m not telling anyone to copy me. I know BTC can still drop 20–30% and make me look like a clown by next week. But I’m 31, no major family responsibilities yet, and I’d rather take a real shot now than sit around for another 10 years saying “I should’ve bought more.” I’m still keeping a small mining angle with oneminers too, so I’m not only relying on staring at candles like a stressed goblin. Plan is simple: hold long term, survive the ugly dips, ignore the noise, and see where this thing is in 10 years. Could be genius. Could be cope. Either way, I picked my lane.
+The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.
 
-18h ago
-
----
-
-**[Markets are Down, Bitcoin is Still Working as it is. Keep HODLing, time will change.](https://www.reddit.com/r/Bitcoin/comments/1v4u66b/markets_are_down_bitcoin_is_still_working_as_it/)**
-
-I am very much confident of a bottom within a few weeks. Bitcoin isn't going helow 60k.
-
-1d ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 4h ago
 
 ---
 
-**[The Orange Revolution](https://www.reddit.com/r/Bitcoin/comments/1v4yg68/the_orange_revolution/)**
+**[Trading bitcoin always ends badly. DCA & HODL is the name of the game.](https://www.reddit.com/r/Bitcoin/comments/1v5oqpr/trading_bitcoin_always_ends_badly_dca_hodl_is_the/)**
 
-1d ago
-
----
-
-**[Guys I need some advices!](https://www.reddit.com/r/Bitcoin/comments/1v534vr/guys_i_need_some_advices/)**
-
-I am all in btc, and currently have 0.03(all my networth), and I make 2900 usd a month before tax and spending. Is there any way for me to reach 1 coin1-10 coins in a foreseeable future. (Let’s say 5 years) I just don’t know how there are so many people have a lot of money just to invest. I can barely break even sometimes, the rent is my highest spending, I was thinking maybe just living in my car. But I do need some advice, I can pull out probably $200 max every two weeks. Can you guys share your stories of how you have a whole coin or accumulate aggressively. Thank you
-
-1d ago
+13h ago
 
 ---
 
-**[Daily Discussion, July 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1v52sav/daily_discussion_july_24_2026/)**
+**[Daily Discussion, July 25, 2026](https://www.reddit.com/r/Bitcoin/comments/1v602hb/daily_discussion_july_25_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1d ago
+4h ago
 
 ---
 
-**[Full signature aggregation BIP draft - Bitcoin Optech Newsletter #415](https://www.reddit.com/r/Bitcoin/comments/1v5a3cf/full_signature_aggregation_bip_draft_bitcoin/)**
+**[Title: Bitcoin isn't just about getting rich.](https://www.reddit.com/r/Bitcoin/comments/1v5noyh/title_bitcoin_isnt_just_about_getting_rich/)**
 
-Bitcoin Optech newsletter #415 is here: describes a draft BIP for full aggregation of BIP340 signatures summarizes changes to services/client software Optech Newsletter #415 Podcast https://bitcoinops.org/en/newsletters/2026/07/24/ Fabian Jahr posted to the Bitcoin-Dev mailing list about a new draft BIP for full aggregation of BIP340 schnorr signatures, a standard for the DahLIAS aggregate signature scheme... https://bitcoinops.org/en/newsletters/2026/07/24/#draft-bip-for-full-aggregation-of-bip340-signatures Changes to services and client software: Wasabi Wallet 2.8.0 released Coinswap v0.2.2 released Go secp256k1 library announced ASMap dashboard announced Wavelength alpha released https://bitcoinops.org/en/newsletters/2026/07/24/#changes-to-services-and-client-software Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
+For a long time, I thought Bitcoin was only about price—buy low, sell high, hope it goes to the moon. The more I learned, the more I realised that's actually the least interesting part. Bitcoin is the first form of money that no government, bank, or company controls. It's open 24/7, borderless, and anyone with an internet connection can participate. Whether you're sending value across the world or simply holding an asset with a fixed supply of 21 million coins, it's a fascinating experiment in financial freedom. Will it replace traditional money? Maybe, maybe not. Is it volatile? Absolutely. But the idea that money can exist without a central authority is one of the most revolutionary concepts of our time. Whether you're a Bitcoin believer or a sceptic, it's hard to deny that it has changed the conversation about money forever. What's the biggest thing Bitcoin has taught you? I'm genuinely curious to hear different perspectives.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/24/) • 20h ago
+13h ago
 
 ---
 
-**[Recommended Exchange (UK)](https://www.reddit.com/r/Bitcoin/comments/1v5cg3r/recommended_exchange_uk/)**
+**[Is Cash App good for investing towards bitcoin](https://www.reddit.com/r/Bitcoin/comments/1v5xepc/is_cash_app_good_for_investing_towards_bitcoin/)**
 
-Hi guys, I’m from the UK & I’ve only ever bought my bitcoin through Binance. As I understand it it we can no longer do that. What’s your recommended platform for someone from the UK?
+I’m 14 Trying to find out if it’s worth it or not btws
+
+6h ago
+
+---
+
+**[I have a question for anyone who has actually filed a Formal Complaint with exchanges](https://www.reddit.com/r/Bitcoin/comments/1v62ygb/i_have_a_question_for_anyone_who_has_actually/)**
+
+After you submitted your Formal Complaint, how long did it take before you regained access to your funds or your withdrawal function was restored? Was it resolved within the 4-week complaint period, or did it take longer? I’m trying to understand what others have experienced after the formal complaint stage. Thank you guys
+
+2h ago
+
+---
+
+**[Large and random Lighting payments concern/question](https://www.reddit.com/r/Bitcoin/comments/1v5w315/large_and_random_lighting_payments_concernquestion/)**
+
+I have a lightning wallet for spending and sending small amounts. I haven't used it in quite some time but today I have received multiple payments of a few sats a few $4 amounts, and even a $9 payment, in 24 hours. Is this something to be concerned with? Why am I receiving so many sats out of no where? I am going to just hold it for awhile before moving it but what is this all about?
+
+8h ago
+
+---
+
+**[People who held through a full cycle — what did the bottom actually feel like at the time?](https://www.reddit.com/r/Bitcoin/comments/1v64vha/people_who_held_through_a_full_cycle_what_did_the/)**
+
+Newer to this and trying to understand the psychology before I'm tested by it. Everyone says "just hold" but I want to hear from people who were actually down bad at the worst point. Did you know it was the bottom, or did it just feel like it was going to zero like everyone said?
+
+15m ago
+
+---
+
+**[£100 a week](https://www.reddit.com/r/Bitcoin/comments/1v5ew4n/100_a_week/)**
+
+I started buying £100 of BTC every week 3 months ago. I’m 53 so will work till I retire on my 68th birthday. What do you recon it will be worth.
 
 19h ago
 
 ---
 
-**[I started the DCA back in the game 2 weeks ago 67% allocated](https://www.reddit.com/r/Bitcoin/comments/1v4tel1/i_started_the_dca_back_in_the_game_2_weeks_ago_67/)**
+**[Bitcoin works but tools doesn't - 5 factors stopping bitcoin payment adoption in the EU](https://www.reddit.com/r/Bitcoin/comments/1v5eopw/bitcoin_works_but_tools_doesnt_5_factors_stopping/)**
 
-Hey guys I started the my dca 2 weeks ago, but I’m getting a lot of people advising to sell the last few days, saying we are going to do another 20-30% dump.. essentially the argument is that we are entering a no more cheap money period, and we aren’t getting rate cuts any time soon, there’s no halving in the next few years so there are no bullish catalysts.. and the technical setup isn’t great. Whats everyone doing rn? We adding, holding or trimming?
+These are based on my personal experience running a Bitcoin technology company, working with accountants in the EU and the US, and many conversations I had with businesses recently. Account blocks: This, of course, is the most common problem, especially for businesses. If you are making transfers to exchanges to buy or sell bitcoin, you can expect a series of questions from your banks, or, worse, they may suspect you of providing crypto exchange services for your clients and may block your account. This is a nightmare we as a bitcoin company were not spared with - we could not get an account on Revolut since we had bitcoin on our website and could not produce license documents. No way to communicate that we rely on our partners to provide services - of course, they won't spend time to read your terms and conditions or chat with you - they are too big to bother about small coffee shop owners or risky crypto apps. Accepting is just unclear. Businesses want to accept bitcoin and have a cleaner accounting trail- auto-offramp to Euro in some cases. But they are confronted with setting up a BTCPay instance or dropping an NWC string or a lightning address to a payment tool. Lightning address or NWC string is not as common as a bank's IBAN - still, they need to get one reliable Lightning setup. But a business wallet is not a WOS you spin up for your friend to have their first sat. It should support Lightning, have liquidity, support good statement exports, be able to plug into existing account tools, and be either self-custody or compliant. Even if you have an easy custodial wallet for your business, you are confronted with adding additional details to all the deposits from clients as part of the travel rule, which makes it a nightmare to accept bitcoin in a coffee shop for 10 euros. Accounting breaks Even if you manage to accept bitcoin, your account finds it incredibly hard to account for this, and also accounting for capital gains/loss comes with rate changes from the time of accepting and using this bitcoin. Obviously you'll be using tools that will either not give a great export that you could use or plug into accounting software. You'd need to hire crypto-expert accountants! Taxes You accept bitcoin - not sure about how this is treated from a tax perspective - if you auto-sell this incoming bitcoin to Euro - would the capital gain be 0 as you earned and instantly converted, or the first-in, first-out logic applied where you'd need to worry when you bought bitcoin to your wallet first time in ages. It is not the willingness to pay taxes; it is knowledge of how to declare capital gains that comes with the bitcoin payments compliantly. Business custody is not personal custody. When you have multiple operators in an organization or a bigger company who have access to funds to spend on materials and services, you'd need governance and access to the funds. Which gets way complicated with a self-custody wallet for business. Bitcoin works - a free network - so cheaper payments, instant settlements and global acceptability. All of these factors are a win for a business - but the banking, tooling, and process around it doesn't work. It does not make sense with all this friction. Working on something interesting - but would love to get your thoughts on above.
 
-1d ago
-
----
-
-**[Recommended non kyc exchanges?](https://www.reddit.com/r/Bitcoin/comments/1v4kocn/recommended_non_kyc_exchanges/)**
-
-Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
-
-1d ago
-
----
-
-**[Where can I buy bitcoin? Ally? Chase? Other?](https://www.reddit.com/r/Bitcoin/comments/1v50kqx/where_can_i_buy_bitcoin_ally_chase_other/)**
-
-Would like to invest. Where would you recommend I start?
-
-1d ago
+19h ago
 
 ---
 
@@ -163,7 +163,7 @@ Would like to invest. Where would you recommend I start?
 
 New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -171,23 +171,15 @@ CoinDesk • 20h ago
 
 Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy](https://decrypt.co/374289/poolin-bitcoin-biggest-mining-pools-files-bankruptcy)**
+**[Bitcoin price today: falls below $64,000 as stablecoin inflows weaken](https://uk.finance.yahoo.com/news/bitcoin-price-today-falls-below-093809859.html)**
 
-Poolinnever recovered from freezing withdrawals in 2022. Now it's auctioning off its last Texas mining sites to pay back its Bitcoin debt.
+Investing.com -- Bitcoin fell below $64,000 on Saturday, extending its decline as weakening stablecoin inflows pointed to subdued demand for cryptocurrency assets. The token traded near $63,919, down about 2.3% over 24 hours, according to Binance market data.
 
-Decrypt • 15h ago
-
----
-
-**[Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy](https://www.coindesk.com/markets/2026/07/24/poolin-was-bitcoin-s-biggest-mining-pool-and-now-it-s-filing-for-bankruptcy)**
-
-The Singapore-based company once controlled nearly a fifth of Bitcoin's global hashrate. Now it owes $173 million and is selling off what's left.
-
-CoinDesk • 22h ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -195,13 +187,13 @@ CoinDesk • 22h ago
 
 The world's largest cryptocurrency has lost almost half its value over the past year.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Quantum and Crypto Are on a Collision Course—and Wall Street Is Spending Millions to Stop It](https://www.barrons.com/articles/quantum-crypto-bitcoin-danger-f4d5c9f8)**
 
-Barron's • 12h ago
+Barron's • 13h ago
 
 ---
 
@@ -209,7 +201,7 @@ Barron's • 12h ago
 
 Plus, the Clarity Act is no longer expected to progress before the August recess. And Vlad Tenev's X was hacked to post a meme coin...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -223,7 +215,7 @@ The Block • 1d ago
 
 **[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
 
-Morningstar • 23h ago
+Morningstar • 1d ago
 
 ---
 
@@ -231,7 +223,15 @@ Morningstar • 23h ago
 
 Investors were cashing out of Bitcoin ETFs this week — but Morgan Stanley's product received fresh cash.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 12h ago
+
+---
+
+**[Ransom note in Nancy Guthrie kidnapping demanded millions in bitcoin](https://www.scrippsnews.com/us-news/ransom-note-in-nancy-guthrie-kidnapping-demanded-millions-in-bitcoin)**
+
+New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
+
+Scripps News • 18h ago
 
 ---
 
@@ -259,7 +259,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 2 • 💬 0 • 47m ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 2 • 💬 0 • 2h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -267,7 +267,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -299,7 +299,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 1 • 💬 0 • 8m ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -329,7 +329,7 @@ In this interview, Samson Mow shares his latest outlook on Bitcoin and explains 
 
 📺 Cointelegraph
 
-👁️ 10K • 👍 276 • 💬 102 • ⏱️ 20:40 • 20h ago
+👁️ 10K • 👍 292 • 💬 102 • ⏱️ 20:40 • 21h ago
 
 ---
 
@@ -339,7 +339,7 @@ Several high-profile Bitcoin treasury companies are struggling, but that doesn't
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 715 • 💬 81 • ⏱️ 27:04 • 11h ago
+👁️ 9K • 👍 818 • 💬 136 • ⏱️ 27:04 • 12h ago
 
 ---
 
@@ -349,37 +349,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 662 • 💬 101 • ⏱️ 46:59 • 18h ago
-
----
-
-**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
-
-Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
-
-📺 Altcoin Daily
-
-👁️ 42K • 👍 2K • 💬 220 • ⏱️ 12:09 • 1d ago
-
----
-
-**[Bitcoin&#39;s Second Civil War Has Begun! Did Wall Street Just Pick Its Weapon?](https://www.youtube.com/watch?v=imHhZ2O_uRc)**
-
-Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots and BIP-110 collide over spam, consensus and ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 444 • ⏱️ 20:33 • 1d ago
-
----
-
-**[&quot;Bitcoin Sellers Are DONE! What Happens NEXT Will SHOCK EVERYONE&quot; - Joe Consorti](https://www.youtube.com/watch?v=jx8S4TT3Jxo)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 205 • 💬 17 • ⏱️ 14:14 • 1d ago
+👁️ 12K • 👍 671 • 💬 191 • ⏱️ 46:59 • 20h ago
 
 ---
 
@@ -389,7 +359,37 @@ Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now 
 
 📺 Gareth Soloway
 
-👁️ 28K • 👍 2K • 💬 143 • ⏱️ 10:40 • 16h ago
+👁️ 30K • 👍 2K • 💬 148 • ⏱️ 10:40 • 17h ago
+
+---
+
+**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
+
+Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 2K • 💬 220 • ⏱️ 12:09 • 1d ago
+
+---
+
+**[&quot;Bitcoin Sellers Are DONE! What Happens NEXT Will SHOCK EVERYONE&quot; - Joe Consorti](https://www.youtube.com/watch?v=jx8S4TT3Jxo)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 206 • 💬 17 • ⏱️ 14:14 • 1d ago
+
+---
+
+**[Does Jack Mallers EXIT CONFIRM Michael Saylor&#39;s 21M Monopoly?!](https://www.youtube.com/watch?v=dtn2idOk4aU)**
+
+Jack Mallers' departure from 21 Capital marks a major shift in the Bitcoin treasury landscape. As companies rethink their ...
+
+📺 Simply Bitcoin
+
+👁️ 16K • 👍 921 • 💬 218 • ⏱️ 16:41 • 2d ago
 
 ---
 
@@ -399,27 +399,27 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 399 • 💬 27 • ⏱️ 2:00:18 • 16h ago
+👁️ 5K • 👍 399 • 💬 27 • ⏱️ 2:00:18 • 18h ago
 
 ---
 
-**[Bitcoin Social Interest: Dozens of us Left](https://www.youtube.com/watch?v=UIv9IQ4uXEA)**
+**[We PREDICT The Bitcoin Cycle Bottom](https://www.youtube.com/watch?v=WxIQdIXn280)**
 
-Let us talk about social interest for Bitcoin in 2026 and what we can expect going forward. Check out the July Bitcoin memo: ...
+BUY MY BOOK HERE: https://www.amazon.com/dp/B0H9YMJK5H FREE WEEKLY REPORT: ...
+
+📺 Crypto Tips
+
+👁️ 15K • 👍 888 • 💬 90 • ⏱️ 6:29 • 18h ago
+
+---
+
+**[Bitcoin: Between a Rock and a Hard Place](https://www.youtube.com/watch?v=JY_wY8XXjYU)**
+
+Let's talk about Bitcoin price and what to expect over the coming months. Come to the 1st ITC Conference: ...
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 3K • 💬 244 • ⏱️ 7:39 • 1d ago
-
----
-
-**[Bitcoin Debate: Pomp DESTROYS Peter Schiff](https://www.youtube.com/watch?v=KxY3-K-KRyM)**
-
-Peter Schiff is the host of The Peter Schiff Show podcast and a longtime economist and gold advocate. In this conversation, we ...
-
-📺 Anthony Pompliano
-
-👁️ 37K • 👍 1K • 💬 92 • ⏱️ 1:22:19 • 1d ago
+👁️ 52K • 👍 3K • 💬 149 • ⏱️ 10:01 • 21h ago
 
 ---
 

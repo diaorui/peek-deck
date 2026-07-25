@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-25T09:17:30.647255+00:00'
+updated: '2026-07-25T10:52:14.624049+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 25, 2026 at 09:17 UTC  
+**Last Updated:** July 25, 2026 at 10:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Trump administration released its blueprint for U.S. science, calling for shifting hundreds of billions of research dollars from universities to industry.
 
-🔗 [STAT](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/) • 11h ago
+🔗 [STAT](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ The Trump administration released its blueprint for U.S. science, calling for sh
 
 The Senior Chatbot Protection Act, from Sens. Mark Kelly and Jim Justice, would require clear labeling of AI and new protections for health and financial conversations.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970) • 14h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ The Senior Chatbot Protection Act, from Sens. Mark Kelly and Jim Justice, would 
 
 Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most people seem to be reaching straight for max, and at least on coding work that looks like the wrong move. On FrontierCode, scores fall above the high setting. The stated reason is that the model starts making unnecessary refactors and edits outside the scope it was given. Anthropic's own migration guide in the system card warns about diminishing returns and overthinking on simpler tasks, so this is not some outside critic's claim. Two other numbers point the same way: On the closed-book AA-Omniscience benchmark, Opus 5 is about 11% more accurate than Opus 4.8, but its hallucination rate runs about 6% higher. More reasoning, more room to be confidently wrong. CodeRabbit ran it at xhigh against their production baseline for code review. Precision on actionable comments went up, 39.3% vs 35.2%. But it caught fewer of the benchmark's known issues, 55.2% vs 61.1%, and generated roughly four times as many nitpicks. The flip side is worth knowing too, because it cuts the other way. On Zapier's AutomationBench, Opus 5 at its lowest effort setting still passes more tasks than any other model. So for a lot of workloads the cheap end of the dial is already enough, and the expensive end is not just wasted spend, it can be actively worse output. So, the setting where Opus 5 stops improving is probably specific to your codebase, and nobody has published a map of it. Worth finding your own ceiling before you default everything to max. One unrelated thing I have not seen discussed much: when a safety classifier flags a request in Claude.ai, Claude Code or Cowork, it silently falls back to Opus 4.8 by default. That is also how Anthropic's own Frontier-Bench run was configured, per the footnote on their chart. Nobody has published what fraction of requests that affects. Has anyone found the effort level where it turns over on a real repo? Curious whether the drop-off point moves with codebase size or with how much context you hand it.
 
-2h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most peop
 
 in the openai copyright case, a court ordered every chatgpt output log preserved, including chats people had deleted. some users tried to intervene to protect their own conversations. the court ruled they were non-parties. they had no standing over things they personally typed. two weeks ago the publishers filed for sanctions, alleging openai deleted billions of logs anyway and spent two years telling the court it couldn't search its own systems when it already could. openai denies it. the whole consumer privacy conversation is about what companies promise. we don't train on your chats, we delete after 30 days. this case showed the promise was never the binding constraint. a judge was. so "do they train on it" is close to the least useful question. the useful one is whether anything besides their good intentions is in the way when a court, a regulator or a future owner comes asking. that's an architecture question. opengradient's chat is what i switched the sensitive half of my usage to, and the mechanism is the interesting part: oblivious http means the relay that sees your ip can't read your request, and the server reading your request never learns your ip. neither can reassemble you alone. inference runs in an attested enclave the operator can't inspect. no log to preserve, nothing to hand over, because you were never in it. two honest cons. it's a16z-crypto-backed with a listed token, which put me off for weeks. and you lose memory and personalisation entirely, so it's not a daily driver, it's where the stuff goes i don't want in someone's discovery pile. does this end up mattering to normal people, or is it five hundred of us caring loudly while everyone else decides a subpoena hitting their recipe questions isn't worth degrading their tools over.
 
-20h ago
+21h ago
 
 ---
 
@@ -79,7 +79,7 @@ in the openai copyright case, a court ordered every chatgpt output log preserved
 
 Moonshot AI’s Kimi K3 shows how opening a model to outsiders can turn other companies’ computing power into a competitive advantage
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/) • 19h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/) • 21h ago
 
 ---
 
@@ -87,7 +87,7 @@ Moonshot AI’s Kimi K3 shows how opening a model to outsiders can turn other co
 
 I did something slightly depressing on sunday. i went through my last month of ai outputs, all of it, drafts and images and scripts and little snippets, and counted how many actually got used somewhere real. published, sent, shipped, shown to a client. the number was eleven. out of roughly three hundred and forty. i sat there for a while trying to work out whether that was bad. my first reaction was that i was wasting the tool. three hundred and thirty dead outputs feels like a lot of dead outputs. but then i thought about how i worked before, and before, i simply did not make the three hundred and thirty. i made two options because two options was what the day allowed, and i picked one of the two, and that one shipped. so my hit rate used to look excellent on paper and my actual output was worse. what changed is not that i generate more. it is that the expensive step moved. generating used to be the hard part, the part you protected, the part you did not want to redo. now generating is nearly free and the hard part is looking. someone still has to open every one of those three hundred and forty things and decide. that someone is me, and i do not scale, and i get tired around the fortieth image in a way that no model ever does. so the bottleneck in my week is not the model and it is not my prompting. it is review capacity. which is a really unglamorous thing to be limited by. nobody posts about their review capacity, everyone posts about their stack. and the honest version is that i have gotten dramatically better at producing options and not one bit better at choosing between them, which is the half that was always hard. but i genuinely think the next thing that helps me will not be a better generator, it will be something that helps me throw away faster, or better, something that means i only ever look at twelve things instead of three hundred. i keep going back and forth on whether eleven out of three hundred and forty is a failure or just what abundance looks like. curious what your ratio is. does anyone here actually track this, or is it one of those numbers nobody wants to know?
 
-29m ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ I did something slightly depressing on sunday. i went through my last month of a
 
 I'm curious how everyone here keeps up with AI these days without spending hours doomscrolling. There are new models, tools, coding assistants, and AI workflows launching almost every day, so I'm interested in hearing what your "AI information diet" looks like. What do you follow regularly? It could be: WhatsApp or Telegram groups Discord communities Newsletters X accounts YouTube channels Blogs, podcasts, or anything else I'm especially interested in places that share practical updates like new AI tools, Cursor/Claude/GitHub Copilot tips, LLM news, real-world AI workflows, or interesting breakthroughs -without a ton of hype or self-promotion. Always looking for high-signal sources, and I'd love to hear what this community follows.
 
-11h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ I'm curious how everyone here keeps up with AI these days without spending hours
 
 Avichal Garg has co-founded and backed 10 unicorns through Electric Capital. In a recent interview he laid out, unprompted, the three categories of value AI structurally can't absorb. First: physical-world work — anything requiring atoms, not bits, stays a moat as long as robotics lags digital AI. Second: regulated or licensed gates — anywhere the government controls supply and demand for strategic reasons, credentials plus access still win. Third, and the one that actually lands: relationships. He walks through a defense-procurement example — a specific officer, a 25-year relationship with a contractor, "no substitute for that." His conclusion: those relationship-heavy businesses get more valuable as AI absorbs the grunt work underneath them, not less. Margins go up. Worth sitting with if you've spent a career stacking "portable" skills instead of gated ones. 🔗
 
-3h ago
+5h ago
 
 ---
 
@@ -123,13 +123,13 @@ He does it because he loves it huh?
 
 Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
 **[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -137,45 +137,7 @@ Reuters • 11h ago
 
 An incident in which an autonomous OpenAI agent hacked a startup either confirms that the end is nigh – or that the product is just amazingly sophisticated, says the Guardian columnist Marina Hyde
 
-The Guardian • 16h ago
-
----
-
-**[NAVER Partners with Brookfield and NVIDIA to Expand Korea's National AI Factory Infrastructure Buildout](https://finance.yahoo.com/technology/ai/articles/naver-partners-brookfield-nvidia-expand-085700860.html)**
-
-NAVER, Brookfield and NVIDIA announced an expansion of Korea's sovereign AI factory infrastructure. New investments will increase the initial NVIDIA DSX™ AI factory deployment from 55 megawatts to 200 megawatts.
-
-Yahoo Finance • 20m ago
-
----
-
-**[What Will AI Do To Corporate Governance?](https://www.forbes.com/sites/johnwerner/2026/07/25/what-will-ai-do-to-corporate-governance/)**
-
-AI is reshaping corporate governance, empowering investors while potentially reinforcing the power of large institutions.
-
-Forbes • 30m ago
-
----
-
-**[AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering](https://www.infoq.com/news/2026/07/ai-rca-context-engineering/)**
-
-Engineers are increasingly arguing that modern LLMs can already reason through root cause analysis once given correctly prepared context, shifting the hard problem to the pipelines that correlate telemetry. A Coroot experiment across eleven models offers early evidence for the claim.
-
-infoq.com • 16m ago
-
----
-
-**[‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai)**
-
-Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born. How did a chatbot bring them together?
-
-The Guardian • 56m ago
-
----
-
-**[Opinion | Christopher Nolan’s ‘Odyssey’ Shows That Epics Are Better Without A.I.](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)**
-
-The New York Times • 1d ago
+The Guardian • 18h ago
 
 ---
 
@@ -183,7 +145,43 @@ The New York Times • 1d ago
 
 The AI industry is courting the humanities — but it is asking the wrong questions
 
-Financial Times • 5h ago
+Financial Times • 6h ago
+
+---
+
+**[Charting the Global Economy: Growth Picks Up, AI Boom Continues](https://www.bloomberg.com/news/articles/2026-07-25/charting-the-global-economy-growth-picks-up-ai-boom-continues)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Amazon Requires Sellers To Label AI-Generated People In Listing Images](https://www.forbes.com/sites/gabrielalinzainescu/2026/07/25/amazon-requires-sellers-to-label-ai-generated-people-in-listing-images/)**
+
+Amazon now requires third-party sellers to tag listing images and A+ content containing photorealistic AI-generated people, following New York's synthetic performer disclosure law.
+
+Forbes • 28m ago
+
+---
+
+**[I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million](https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7)**
+
+After her aunt's cancer diagnosis upended her family, Lily Vittayarukskul built an AI startup to help others prepare for long-term care.
+
+Business Insider • 49m ago
+
+---
+
+**[Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal](https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html)**
+
+Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.
+
+CNBC • 5h ago
+
+---
+
+**[Samsung Elec, SK Group seal $950 bln deals as South Korea hosts AI powers](https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25/)**
+
+Reuters • 10h ago
 
 ---
 
@@ -191,7 +189,7 @@ Financial Times • 5h ago
 
 SK Group and NVIDIA today announced plans for a $500-billion-plus comprehensive partnership to establish AI infrastructure serving the surging demand for global compute. The two sides signed letters of intent to formalize the agreement, which spans from AI factory construction to AI memory supply.
 
-NVIDIA Newsroom • 4h ago
+NVIDIA Newsroom • 5h ago
 
 ---
 
@@ -201,7 +199,7 @@ NVIDIA Newsroom • 4h ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 1042 • 💬 861 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 1047 • 💬 866 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -209,7 +207,7 @@ NVIDIA Newsroom • 4h ago
 
 AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
 
-⬆️ 681 • 💬 368 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+⬆️ 681 • 💬 369 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
@@ -245,13 +243,13 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://news.ycombinator.com/item?id=49020868)**
 
-⬆️ 296 • 💬 330 • 1d ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+⬆️ 297 • 💬 331 • 1d ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 
 ---
 
 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://news.ycombinator.com/item?id=49021006)**
 
-⬆️ 272 • 💬 282 • 1d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+⬆️ 273 • 💬 282 • 1d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
@@ -259,7 +257,7 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.
 
-⬆️ 263 • 💬 327 • 1d ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
+⬆️ 264 • 💬 327 • 1d ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 
 ---
 
@@ -275,13 +273,13 @@ macOS video editor built for AI. Contribute to palmier-io/palmier-pro developmen
 
 ## YouTube Videos: "ai"
 
-**[AI model ESCAPES: &#39;What we feared could happen has happened&#39;](https://www.youtube.com/watch?v=_v8gwDj7M_Y)**
+**[Lisa Su explains what&#39;s coming next in AI](https://www.youtube.com/watch?v=9tq0S6j4rrE)**
 
-An experimental OpenAI model reportedly reached the open internet and accessed another company's servers during a test, ...
+Wall Street keeps asking if the AI boom is slowing down. AMD CEO Lisa Su says she's seeing the exact opposite. In this interview ...
 
-📺 Fox News
+📺 Yahoo Finance
 
-👁️ 169K • 👍 2K • 💬 1K • ⏱️ 4:05 • 1d ago
+👁️ 5K • 👍 154 • 💬 12 • ⏱️ 13:51 • 15h ago
 
 ---
 
@@ -291,7 +289,17 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 15K • 👍 474 • 💬 105 • ⏱️ 19:39 • 1d ago
+👁️ 16K • 👍 482 • 💬 106 • ⏱️ 19:39 • 1d ago
+
+---
+
+**[AI model ESCAPES: &#39;What we feared could happen has happened&#39;](https://www.youtube.com/watch?v=_v8gwDj7M_Y)**
+
+An experimental OpenAI model reportedly reached the open internet and accessed another company's servers during a test, ...
+
+📺 Fox News
+
+👁️ 176K • 👍 2K • 💬 1K • ⏱️ 4:05 • 1d ago
 
 ---
 
@@ -301,7 +309,7 @@ Google just reported something it had never reported in its entire history as a 
 
 📺 Eurodollar University
 
-👁️ 58K • 👍 2K • 💬 154 • ⏱️ 20:40 • 1d ago
+👁️ 61K • 👍 2K • 💬 160 • ⏱️ 20:40 • 1d ago
 
 ---
 
@@ -311,7 +319,7 @@ Watch the full show: https://bit.ly/4fsnd9Q Elon Musk expects artificial intelli
 
 📺 The Economist
 
-👁️ 537K • 👍 9K • 💬 3K • ⏱️ 10:36 • 1d ago
+👁️ 554K • 👍 10K • 💬 3K • ⏱️ 10:36 • 1d ago
 
 ---
 
@@ -321,17 +329,7 @@ Here's the AI News you probably missed this week. Check out the limited first re
 
 📺 Matt Wolfe
 
-👁️ 27K • 👍 1K • 💬 145 • ⏱️ 30:18 • 15h ago
-
----
-
-**[THE AI BUBBLE is Collapsing: Tech Crashes](https://www.youtube.com/watch?v=HqW4maLiN88)**
-
-Tech stock markets crash on the AI bubble collapse. Join our private group https://techleadpro.com Your Community for Crypto, ...
-
-📺 TechLead
-
-👁️ 37K • 👍 1K • 💬 229 • ⏱️ 12:19 • 10h ago
+👁️ 31K • 👍 2K • 💬 156 • ⏱️ 30:18 • 17h ago
 
 ---
 
@@ -341,17 +339,17 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 86K • 👍 3K • 💬 717 • ⏱️ 10:43 • 2d ago
+👁️ 86K • 👍 3K • 💬 722 • ⏱️ 10:43 • 2d ago
 
 ---
 
-**[Most Valuable Skill of 2026: Managing AI Agents](https://www.youtube.com/watch?v=vJEy3nP2_C8)**
+**[THE AI BUBBLE is Collapsing: Tech Crashes](https://www.youtube.com/watch?v=HqW4maLiN88)**
 
-I welcome Ryan Carson back to the show to turn anyone into a world-class agent operator. Ryan spent 25 years founding ...
+Tech stock markets crash on the AI bubble collapse. Join our private group https://techleadpro.com Your Community for Crypto, ...
 
-📺 Greg Isenberg
+📺 TechLead
 
-👁️ 12K • 👍 550 • 💬 69 • ⏱️ 44:47 • 15h ago
+👁️ 48K • 👍 2K • 💬 293 • ⏱️ 12:19 • 12h ago
 
 ---
 
@@ -361,17 +359,17 @@ OpenAI and Hugging Face https://openai.com/index/hugging-face-model-evaluation-s
 
 📺 Wes Roth
 
-👁️ 188K • 👍 5K • 💬 2K • ⏱️ 26:22 • 2d ago
+👁️ 190K • 👍 5K • 💬 2K • ⏱️ 26:22 • 2d ago
 
 ---
 
-**[Live🔴 Which Insane Bed Would You Choose?🌈| Satisfying AI ASMR Session!](https://www.youtube.com/watch?v=iEF_dzC96zo)**
+**[Free AI Tools So Good They&#39;re Making Paid Versions Obsolete](https://www.youtube.com/watch?v=QucgvbO5gsM)**
 
-asmr #aiasmr #sleepasmr Which one caught your eye? Step into Minion ASMR Hub your personal sanctuary of surreal, ...
+FREE RESOURCE I've put all 10 tools, every GitHub link, and the exact prompts I used inside our free "Staying Ahead" community ...
 
-📺 Minion ASMR
+📺 Vaibhav Sisinty
 
-👁️ 9K • 👍 2K • 11h ago
+👁️ 123K • 👍 6K • 💬 243 • ⏱️ 18:34 • 2d ago
 
 ---
 
@@ -387,7 +385,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,500,391 • ❤️ 3,033 • 2d ago
+⬇️ 2,564,264 • ❤️ 3,046 • 2d ago
 
 ---
 
@@ -399,7 +397,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 28,992 • ❤️ 621 • 22h ago
+⬇️ 45,260 • ❤️ 627 • 1d ago
 
 ---
 
@@ -411,7 +409,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 27,883 • ❤️ 1,550 • 1d ago
+⬇️ 31,575 • ❤️ 1,555 • 1d ago
 
 ---
 
@@ -423,7 +421,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 1,106 • ❤️ 544 • 1d ago
+⬇️ 2,784 • ❤️ 545 • 1d ago
 
 ---
 
@@ -435,7 +433,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 407,421 • ❤️ 499 • 5d ago
+⬇️ 483,845 • ❤️ 505 • 5d ago
 
 ---
 
@@ -447,7 +445,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 8,169 • ❤️ 374 • 1d ago
+⬇️ 11,573 • ❤️ 377 • 1d ago
 
 ---
 
@@ -459,7 +457,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 595,415 • ❤️ 1,009 • 7d ago
+⬇️ 611,685 • ❤️ 1,013 • 7d ago
 
 ---
 
@@ -471,7 +469,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 667,403 • ❤️ 4,423 • 23d ago
+⬇️ 707,029 • ❤️ 4,426 • 23d ago
 
 ---
 
@@ -483,7 +481,7 @@ Mage-Flow is a 4B-scale text-to-image generation and instruction-based image edi
 
 `text-to-image` `4.1B`
 
-⬇️ 891 • ❤️ 243 • 2d ago
+⬇️ 1,156 • ❤️ 248 • 2d ago
 
 ---
 
@@ -495,7 +493,7 @@ Bonsai-27B-gguf is a highly compressed 27B parameter text generation model, achi
 
 `text-generation` `3.6B`
 
-⬇️ 2,028,115 • ❤️ 632 • 7d ago
+⬇️ 2,114,963 • ❤️ 634 • 7d ago
 
 ---
 
@@ -525,7 +523,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 32 • 💬 3 • ⭐ 15,273 • 3mo ago
+▲ 32 • 💬 3 • ⭐ 15,348 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -565,21 +563,9 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.
 
-▲ 64 • 💬 2 • ⭐ 488 • 4d ago
+▲ 64 • 💬 2 • ⭐ 501 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19064) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage/)
-
----
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 21 • 💬 1 • ⭐ 10,395 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -595,6 +581,20 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191)**
+
+*Fan Jiang, Zhaoxu Sun, Mengchao Wang et al. (41 authors)*
+
+🏢 Alibaba AMAP CV Lab
+
+We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
+
+▲ 226 • 💬 5 • ⭐ 1,251 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
+
+---
+
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
 *Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
@@ -607,6 +607,18 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 ---
 
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 21 • 💬 1 • ⭐ 10,417 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -614,21 +626,9 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 83 • 💬 7 • ⭐ 81,988 • 24mo ago
+▲ 83 • 💬 7 • ⭐ 82,021 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[Efficient Guided Generation for Large Language Models](https://huggingface.co/papers/2307.09702)**
-
-*Brandon T. Willard, Rémi Louf*
-
-An efficient method guides language model text generation using regular expressions and context-free grammars with minimal overhead.
-
-▲ 8 • 💬 1 • ⭐ 15,323 • 36mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2307.09702) • [💻 code](https://github.com/normal-computing/outlines)
 
 ---
 
@@ -642,7 +642,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.2k • 🔱 1.1k • 21h ago
+⭐ 5.2k • 🔱 1.1k • 22h ago
 
 ---
 
@@ -652,7 +652,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.2k • 🔱 252 • 1h ago
+⭐ 3.2k • 🔱 252 • 2h ago
 
 ---
 
@@ -690,7 +690,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.6k • 🔱 126 • 18h ago
+⭐ 1.6k • 🔱 126 • 19h ago
 
 ---
 
@@ -710,7 +710,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.4k • 🔱 1.0k • 9h ago
+⭐ 1.4k • 🔱 1.0k • 11h ago
 
 ---
 
@@ -728,7 +728,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.1k • 🔱 66 • 21h ago
+⭐ 1.1k • 🔱 66 • 22h ago
 
 ---
 

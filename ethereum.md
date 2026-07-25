@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T09:17:30.660605+00:00'
+updated: '2026-07-25T10:52:14.634094+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 09:17 UTC  
+**Last Updated:** July 25, 2026 at 10:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -1.2%  
-**30d:** +17.3%  
-**90d:** -19.6%  
-**1y:** -50.5%  
+**24h:** -1.5%  
+**7d:** -0.9%  
+**30d:** +17.6%  
+**90d:** -19.4%  
+**1y:** -50.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.07B
+**Market Cap:** $224.01B
 Rank #2
 
 **Circulating Supply:** 120,682,685 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.5%
 
 **All-Time Low:** $0.43
-+428708.3%
++428595.2%
 
 ---
 
@@ -146,27 +146,27 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
+**[Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.](https://finance.yahoo.com/markets/crypto/articles/robinhoods-blockchain-smash-success-heres-100200255.html)**
+
+The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
+
+Yahoo Finance • 50m ago
+
+---
+
 **[BlackRock clients sell $53M in Ethereum via iSh...](https://pluang.com/en/news-feed/klien-blackrock-jual-53juta-ethereum-melalui-etr-i-shares)**
 
 Clients of BlackRock have sold approximately $52.76 million worth of Ethereum through the iShares Ethereum Trust, a spot ETF that provides institutional exposure to ETH. This sale indicates a significant outflow from a major institutional holder, which could influence market sentiment and Ethereum's price dynamics. Despite this, current market predictions show low odds of Ethereum dropping to $1,300 in July, suggesting limited immediate impact. Market watchers will be attentive to further large transactions from this ETF as they may reveal broader institutional trends and affect future pricing.
 
-Pluang • 1h ago
+Pluang • 2h ago
 
 ---
 
-**[Ethereum leads bullish futures surge among top crypto traders, signaling selective risk appetite.](https://pluang.com/en/news-feed/ethereum-pimpin-kenaikan-posisi-futures-bullish-di-kalangan-trader-kripto)**
+**[Wall Street Money is Flowing into Ethereum ETFs and Out of Hyperliquid](https://finance.yahoo.com/markets/crypto/articles/wall-street-money-flowing-ethereum-093646141.html)**
 
-Top crypto traders increased bullish futures positions on July 25, with Ethereum leading gains in coin-margined contracts and Bitcoin rising in USDT-margined accounts. This selective increase in long exposure suggests growing risk appetite, particularly for Ethereum users seeking upside in crypto-denominated terms. Bitcoin's rise in USDT-margined accounts indicates broader participation but controlled sizing. The data points to a cautious but positive shift in trader sentiment rather than a broad speculative surge, highlighting targeted bets rather than uniform bullishness across all assets.
+Ethereum and altcoin ETFs drew fresh cash last week while Bitcoin flows slowed and HYPE logged back-to-back outflows.
 
-Pluang • 1h ago
-
----
-
-**[Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html)**
-
-Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,14 +178,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
-
-A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
-
-TradingView • 1d ago
-
----
-
 **[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
@@ -194,11 +186,11 @@ The Block • 2d ago
 
 ---
 
-**[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://www.fool.com/investing/2026/07/24/vitalik-buterin-says-ethereum-reinvents-itself/)**
+**[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
 
-The chain's new plan calls for a swath of big steps in a few different directions.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Motley Fool • 20h ago
+Fortune • 22h ago
 
 ---
 
@@ -210,19 +202,27 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
+**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
 
-U.S. Spot ETH ETF has seen net inflows in the past two weeks.
+A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
 
-AMBCrypto • 1d ago
+TradingView • 1d ago
 
 ---
 
-**[Crypto Today: BTC, ETH, XRP steady as ETF flows diverge](https://www.fxstreet.com/news/crypto-today-bitcoin-ethereum-xrp-pare-losses-as-breakout-potential-builds-202607241100)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
 
-Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
+Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
 
-FXStreet • 22h ago
+Benzinga • 1d ago
+
+---
+
+**[Two Ethereum bridges lose $31.7M within hours as third protocol halts staking](https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/)**
+
+Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
+
+CryptoSlate • 1h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 142 • 💬 26 • ⏱️ 18:08 • 17h ago
+👁️ 4K • 👍 155 • 💬 39 • ⏱️ 18:08 • 18h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 149 • 💬 37 • ⏱️ 7:27 • 17h ago
+👁️ 1K • 👍 153 • 💬 43 • ⏱️ 7:27 • 18h ago
 
 ---
 
@@ -256,7 +256,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 534 • 💬 255 • ⏱️ 16:34 • 1d ago
+👁️ 11K • 👍 536 • 💬 256 • ⏱️ 16:34 • 1d ago
+
+---
+
+**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=NU6MsFNYfaY)**
+
+In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 192 • 💬 9 • ⏱️ 6:26 • 1d ago
 
 ---
 
@@ -276,27 +286,17 @@ Crypto is difficult, but crypto is also very easy. These people are literally te
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 594 • 💬 339 • ⏱️ 35:53 • 23h ago
+👁️ 5K • 👍 605 • 💬 407 • ⏱️ 35:53 • 1d ago
 
 ---
 
-**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=NU6MsFNYfaY)**
+**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
 
-In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
 
-📺 More Crypto Online
+📺 Satoshi Stacker
 
-👁️ 3K • 👍 187 • 💬 8 • ⏱️ 6:26 • 1d ago
-
----
-
-**[Is Ethereum about to hit $2,000?](https://www.youtube.com/watch?v=_bet-Zu9cL8)**
-
-ETH just spiked to $1950 and wiped out $62 million in shorts. Here's the strange part: network usage is dead right now and ...
-
-📺 Coin Bureau Podcast
-
-👁️ 981 • 👍 20 • 💬 2 • ⏱️ 0:28 • 16h ago
+👁️ 328 • 👍 41 • 💬 5 • ⏱️ 8:31 • 25m ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 237 • 💬 179 • ⏱️ 22:07 • 13h ago
+👁️ 5K • 👍 245 • 💬 208 • ⏱️ 22:07 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 6K • 👍 465 • 💬 10 • ⏱️ 13:08 • 11h ago
+👁️ 7K • 👍 508 • 💬 12 • ⏱️ 13:08 • 12h ago
 
 ---
 
