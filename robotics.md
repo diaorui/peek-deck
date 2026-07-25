@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-25T07:17:25.977282+00:00'
+updated: '2026-07-25T09:17:30.663490+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 25, 2026 at 07:17 UTC  
+**Last Updated:** July 25, 2026 at 09:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 - Weight: ~25 kg with battery. - Speed: Over 6 m/s (higher than the pure-legged As2). - Payload: Continuous ~16 kg; higher static capacity. - Endurance: Unloaded >3 hours / 30+ km; loaded (>16 kg) >2 hours / >16 km. Same 648 Wh (15,000 mAh) battery class as the As2. - Mobility: Up to ~80 cm obstacles, 45° slopes, 30 cm stairs; strong on gravel, rocky, and uneven outdoor terrain. https://www.unitree.com/As2-W
 
-20h ago
+22h ago
 
 ---
 
 **[Bob (my robot) died 😢 I tried consolidating 2 LiPo batteries into a 1 larger one and fried its Raspberry Pi brains. I'm gonna rebuild him with a Nvidia Jetson brain and RealSense D457 GMSL camera.](https://www.reddit.com/r/robotics/comments/1v5faas/bob_my_robot_died_i_tried_consolidating_2_lipo/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -58,19 +58,19 @@ Hey everyone, A while back, I posted here asking for advice on my $149 metal cyc
 
 I’m part of the team that ran this experiment at Sim XR. Sharing it here as a technical project rather than a product announcement. We started by reproducing NVIDIA’s published Isaac Lab → LeRobot → VLA fine-tuning → Arena evaluation workflow for the Unitree G1 apple task. In our matched simulation evaluation: checkpoint trained on 208 usable released demonstrations: 93/100 checkpoint trained on 50 demonstrations we collected remotely through VR: 84/100 We then moved the task to the other side of the workspace. Both existing policies scored 0/20. After collecting targeted demonstrations for the new layout, the best result reached 74/100. Finally, we replaced the apple task with a cross-body mustard-bottle-to-bowl task: released apple checkpoint: 0/30 checkpoint fine-tuned on 50 new VR demonstrations: 27/30 These are simulation results, not a real-robot or sim-to-real claim. The interesting part for us was how sensitive the policies remained to layout changes—and how quickly targeted demonstrations could recover useful behavior. I’d be interested to hear how others are evaluating layout shifts and deciding where additional demonstrations are most useful.
 
-15h ago
+17h ago
 
 ---
 
 **[Claude Code skills for ROS 2 Jazzy that route to official docs instead of guessing APIs (measured before/after included)](https://www.reddit.com/r/robotics/comments/1v5h7ud/claude_code_skills_for_ros_2_jazzy_that_route_to/)**
 
-14h ago
+16h ago
 
 ---
 
 **[Human Fall Detection By 3D Dtof LIDAR HM-LD1](https://www.reddit.com/r/robotics/comments/1v5crci/human_fall_detection_by_3d_dtof_lidar_hmld1/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -78,7 +78,7 @@ I’m part of the team that ran this experiment at Sim XR. Sharing it here as a 
 
 Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workload-benchmark/ running extended ROS 2 workloads. Pretty cool HW-wise, especially with recent Jetson 50-100% price increase. Hopefully AMD won't price it same as new Thor price 👀 Also vote if you can what HW you use to run ROS (if you use ROS)
 
-🔗 [AMD](https://www.amd.com/en/products/system-on-modules/kria/ai.html) • 20h ago
+🔗 [AMD](https://www.amd.com/en/products/system-on-modules/kria/ai.html) • 22h ago
 
 ---
 
@@ -86,7 +86,7 @@ Saw on blog by Steve Macenski: https://opennav.org/news/opennav-robotics-workloa
 
 I made this real life Wall-E robot from scratch and am really proud of it so check my youtube video about it out if you would like
 
-🔗 [youtu.be](https://youtu.be/zddu86VGEX0?si=zm1kSBUPQm3cokhk) • 16h ago
+🔗 [youtu.be](https://youtu.be/zddu86VGEX0?si=zm1kSBUPQm3cokhk) • 18h ago
 
 ---
 
@@ -94,7 +94,7 @@ I made this real life Wall-E robot from scratch and am really proud of it so che
 
 Hey everyone, I’m currently working on a robot project and was wondering if anyone in the Houston, Texas area would like to join forces. The idea is to combine skills, share knowledge, and build something awesome together. I have the engineering background and some parts already, but I’d love to connect with people who are into robotics, coding, AI, electronics, or even just tinkering and learning. Whether you’re a student, hobbyist, or professional, collaboration makes projects way more fun (and productive). If you’re interested in teaming up or just want to chat about robots, feel free to DM me or drop a comment
 
-11h ago
+13h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey everyone, I’m currently working on a robot project and was wondering if an
 
 ROS News for the week of July 20th, 2026                      I’ve had quite the week! In the past seven days, I’ve been to Open Sauce, AMD’s developer conference, and now I’m at Teardown in Portland. It might have also been my birthday this week. 🎂  I’ve run into so many fantastic people building wonderful ROS robots, including a working Johnny 5 replica, a giant art robot with cast aluminum components, a hexapod with a 25 kg payload, a room full of SO-101s, a controllable robot t...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-20th-2026/56937) • 11h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-20th-2026/56937) • 13h ago
 
 ---
 
@@ -122,7 +122,7 @@ Time Magazine • 1d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 11h ago
+IEEE Spectrum • 13h ago
 
 ---
 
@@ -130,13 +130,7 @@ IEEE Spectrum • 11h ago
 
 A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
 
-Business Insider • 23h ago
-
----
-
-**[US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies](https://www.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies)**
-
-South China Morning Post • 1d ago
+Business Insider • 1d ago
 
 ---
 
@@ -146,23 +140,9 @@ Reuters • 1d ago
 
 ---
 
-**[U.S. Robotics Leadership Is Not Guaranteed](https://www.piratewires.com/p/us-robotics-leadership-is-not-guaranteed)**
-
-Pirate Wires • 1d ago
-
----
-
-**[For The First Time Ever, Humanoid Robots Perform Surgery on Live Animals](https://www.sciencealert.com/world-first-humanoid-robots-perform-surgery-on-live-animals-this-could-prove-useful-in-space)**
-
-For the first time ever, humanoid robots operated by surgeons have successfully performed laparoscopic gallbladder removal in pigs.
-
-ScienceAlert • 2d ago
-
----
-
 **[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
 
-Tech Xplore • 18h ago
+Tech Xplore • 20h ago
 
 ---
 
@@ -178,7 +158,29 @@ GeekWire • 1d ago
 
 These are things that tend to be really hard."
 
-Ars Technica • 15h ago
+Ars Technica • 17h ago
+
+---
+
+**[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://finance.yahoo.com/technology/ai/articles/mobileye-ceo-amnon-shashua-step-224008848.html)**
+
+Shashua has been invited to take the chairman of the board seat.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics](https://www.crn.com/news/ai/2026/amd-advancing-ai-2026-top-news-on-ai-chips-cpus-robotics)**
+
+AMD revealed new offers around Helios rackscale, MI400 GPUs, new Epyc CPUs, a robotics partner network and more during its annual conference.
+
+crn.com • 1d ago
 
 ---
 
@@ -202,7 +204,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 2.7M • 👍 2K • 💬 422 • ⏱️ 2:15 • 4d ago
+👁️ 2.7M • 👍 2K • 💬 422 • ⏱️ 2:15 • 5d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-25T07:17:25.964714+00:00'
+updated: '2026-07-25T09:17:30.647255+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 25, 2026 at 07:17 UTC  
+**Last Updated:** July 25, 2026 at 09:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Trump administration released its blueprint for U.S. science, calling for shifting hundreds of billions of research dollars from universities to industry.
 
-🔗 [STAT](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/) • 9h ago
+🔗 [STAT](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ The Trump administration released its blueprint for U.S. science, calling for sh
 
 The Senior Chatbot Protection Act, from Sens. Mark Kelly and Jim Justice, would require clear labeling of AI and new protections for health and financial conversations.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970) • 12h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ The Senior Chatbot Protection Act, from Sens. Mark Kelly and Jim Justice, would 
 
 Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most people seem to be reaching straight for max, and at least on coding work that looks like the wrong move. On FrontierCode, scores fall above the high setting. The stated reason is that the model starts making unnecessary refactors and edits outside the scope it was given. Anthropic's own migration guide in the system card warns about diminishing returns and overthinking on simpler tasks, so this is not some outside critic's claim. Two other numbers point the same way: On the closed-book AA-Omniscience benchmark, Opus 5 is about 11% more accurate than Opus 4.8, but its hallucination rate runs about 6% higher. More reasoning, more room to be confidently wrong. CodeRabbit ran it at xhigh against their production baseline for code review. Precision on actionable comments went up, 39.3% vs 35.2%. But it caught fewer of the benchmark's known issues, 55.2% vs 61.1%, and generated roughly four times as many nitpicks. The flip side is worth knowing too, because it cuts the other way. On Zapier's AutomationBench, Opus 5 at its lowest effort setting still passes more tasks than any other model. So for a lot of workloads the cheap end of the dial is already enough, and the expensive end is not just wasted spend, it can be actively worse output. So, the setting where Opus 5 stops improving is probably specific to your codebase, and nobody has published a map of it. Worth finding your own ceiling before you default everything to max. One unrelated thing I have not seen discussed much: when a safety classifier flags a request in Claude.ai, Claude Code or Cowork, it silently falls back to Opus 4.8 by default. That is also how Anthropic's own Frontier-Bench run was configured, per the footnote on their chart. Nobody has published what fraction of requests that affects. Has anyone found the effort level where it turns over on a real repo? Curious whether the drop-off point moves with codebase size or with how much context you hand it.
 
-33m ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most peop
 
 in the openai copyright case, a court ordered every chatgpt output log preserved, including chats people had deleted. some users tried to intervene to protect their own conversations. the court ruled they were non-parties. they had no standing over things they personally typed. two weeks ago the publishers filed for sanctions, alleging openai deleted billions of logs anyway and spent two years telling the court it couldn't search its own systems when it already could. openai denies it. the whole consumer privacy conversation is about what companies promise. we don't train on your chats, we delete after 30 days. this case showed the promise was never the binding constraint. a judge was. so "do they train on it" is close to the least useful question. the useful one is whether anything besides their good intentions is in the way when a court, a regulator or a future owner comes asking. that's an architecture question. opengradient's chat is what i switched the sensitive half of my usage to, and the mechanism is the interesting part: oblivious http means the relay that sees your ip can't read your request, and the server reading your request never learns your ip. neither can reassemble you alone. inference runs in an attested enclave the operator can't inspect. no log to preserve, nothing to hand over, because you were never in it. two honest cons. it's a16z-crypto-backed with a listed token, which put me off for weeks. and you lose memory and personalisation entirely, so it's not a daily driver, it's where the stuff goes i don't want in someone's discovery pile. does this end up mattering to normal people, or is it five hundred of us caring loudly while everyone else decides a subpoena hitting their recipe questions isn't worth degrading their tools over.
 
-18h ago
+20h ago
 
 ---
 
@@ -79,15 +79,15 @@ in the openai copyright case, a court ordered every chatgpt output log preserved
 
 Moonshot AI’s Kimi K3 shows how opening a model to outsiders can turn other companies’ computing power into a competitive advantage
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/) • 17h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/) • 19h ago
 
 ---
 
-**[Avichal Garg (Electric Capital, 10 unicorns) names the 3 moats AI can't touch — and #3 isn't a skill](https://www.reddit.com/r/artificial/comments/1v5zinj/avichal_garg_electric_capital_10_unicorns_names/)**
+**[How much of what you generate, actually makes it out of the door?](https://www.reddit.com/r/artificial/comments/1v62ww6/how_much_of_what_you_generate_actually_makes_it/)**
 
-Avichal Garg has co-founded and backed 10 unicorns through Electric Capital. In a recent interview he laid out, unprompted, the three categories of value AI structurally can't absorb. First: physical-world work — anything requiring atoms, not bits, stays a moat as long as robotics lags digital AI. Second: regulated or licensed gates — anywhere the government controls supply and demand for strategic reasons, credentials plus access still win. Third, and the one that actually lands: relationships. He walks through a defense-procurement example — a specific officer, a 25-year relationship with a contractor, "no substitute for that." His conclusion: those relationship-heavy businesses get more valuable as AI absorbs the grunt work underneath them, not less. Margins go up. Worth sitting with if you've spent a career stacking "portable" skills instead of gated ones. 🔗
+I did something slightly depressing on sunday. i went through my last month of ai outputs, all of it, drafts and images and scripts and little snippets, and counted how many actually got used somewhere real. published, sent, shipped, shown to a client. the number was eleven. out of roughly three hundred and forty. i sat there for a while trying to work out whether that was bad. my first reaction was that i was wasting the tool. three hundred and thirty dead outputs feels like a lot of dead outputs. but then i thought about how i worked before, and before, i simply did not make the three hundred and thirty. i made two options because two options was what the day allowed, and i picked one of the two, and that one shipped. so my hit rate used to look excellent on paper and my actual output was worse. what changed is not that i generate more. it is that the expensive step moved. generating used to be the hard part, the part you protected, the part you did not want to redo. now generating is nearly free and the hard part is looking. someone still has to open every one of those three hundred and forty things and decide. that someone is me, and i do not scale, and i get tired around the fortieth image in a way that no model ever does. so the bottleneck in my week is not the model and it is not my prompting. it is review capacity. which is a really unglamorous thing to be limited by. nobody posts about their review capacity, everyone posts about their stack. and the honest version is that i have gotten dramatically better at producing options and not one bit better at choosing between them, which is the half that was always hard. but i genuinely think the next thing that helps me will not be a better generator, it will be something that helps me throw away faster, or better, something that means i only ever look at twelve things instead of three hundred. i keep going back and forth on whether eleven out of three hundred and forty is a failure or just what abundance looks like. curious what your ratio is. does anyone here actually track this, or is it one of those numbers nobody wants to know?
 
-1h ago
+29m ago
 
 ---
 
@@ -95,7 +95,15 @@ Avichal Garg has co-founded and backed 10 unicorns through Electric Capital. In 
 
 I'm curious how everyone here keeps up with AI these days without spending hours doomscrolling. There are new models, tools, coding assistants, and AI workflows launching almost every day, so I'm interested in hearing what your "AI information diet" looks like. What do you follow regularly? It could be: WhatsApp or Telegram groups Discord communities Newsletters X accounts YouTube channels Blogs, podcasts, or anything else I'm especially interested in places that share practical updates like new AI tools, Cursor/Claude/GitHub Copilot tips, LLM news, real-world AI workflows, or interesting breakthroughs -without a ton of hype or self-promotion. Always looking for high-signal sources, and I'd love to hear what this community follows.
 
-9h ago
+11h ago
+
+---
+
+**[Avichal Garg (Electric Capital, 10 unicorns) names the 3 moats AI can't touch — and #3 isn't a skill](https://www.reddit.com/r/artificial/comments/1v5zinj/avichal_garg_electric_capital_10_unicorns_names/)**
+
+Avichal Garg has co-founded and backed 10 unicorns through Electric Capital. In a recent interview he laid out, unprompted, the three categories of value AI structurally can't absorb. First: physical-world work — anything requiring atoms, not bits, stays a moat as long as robotics lags digital AI. Second: regulated or licensed gates — anywhere the government controls supply and demand for strategic reasons, credentials plus access still win. Third, and the one that actually lands: relationships. He walks through a defense-procurement example — a specific officer, a 25-year relationship with a contractor, "no substitute for that." His conclusion: those relationship-heavy businesses get more valuable as AI absorbs the grunt work underneath them, not less. Margins go up. Worth sitting with if you've spent a career stacking "portable" skills instead of gated ones. 🔗
+
+3h ago
 
 ---
 
@@ -107,14 +115,6 @@ He does it because he loves it huh?
 
 ---
 
-**[Wrangling with Explosive AI Growth – Combatting Catastrophism](https://www.reddit.com/r/artificial/comments/1v5n5wf/wrangling_with_explosive_ai_growth_combatting/)**
-
-Policymakers are accustomed to thinking in finite measurable terms like laws, budgets, and program implementation. Artificial intelligence, however, no longer advances in a straight line or within the familiar boundaries of public administration.
-
-🔗 [HKS Student Policy Review](https://studentreview.hks.harvard.edu/wrangling-with-explosive-ai-growth/) • 10h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,13 +123,13 @@ Policymakers are accustomed to thinking in finite measurable terms like laws, bu
 
 Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
 
-BBC • 8h ago
+BBC • 10h ago
 
 ---
 
 **[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
 
-Reuters • 9h ago
+Reuters • 11h ago
 
 ---
 
@@ -137,61 +137,61 @@ Reuters • 9h ago
 
 An incident in which an autonomous OpenAI agent hacked a startup either confirms that the end is nigh – or that the product is just amazingly sophisticated, says the Guardian columnist Marina Hyde
 
-The Guardian • 14h ago
+The Guardian • 16h ago
 
 ---
 
-**[Open Weights and American AI Leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)**
+**[NAVER Partners with Brookfield and NVIDIA to Expand Korea's National AI Factory Infrastructure Buildout](https://finance.yahoo.com/technology/ai/articles/naver-partners-brookfield-nvidia-expand-085700860.html)**
 
-Open weight AI can expand access, strengthen competition, improve security, and help sustain American AI leadership.
+NAVER, Brookfield and NVIDIA announced an expansion of Korea's sovereign AI factory infrastructure. New investments will increase the initial NVIDIA DSX™ AI factory deployment from 55 megawatts to 200 megawatts.
 
-Microsoft • 19h ago
-
----
-
-**[Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)**
-
-Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.
-
-CNBC • 17h ago
+Yahoo Finance • 20m ago
 
 ---
 
-**[Jensen Huang just used his first ever X post to warn the AI industry not to make the mistake that software narrowly avoided in the 1980s](https://fortune.com/2026/07/24/jensen-huang-open-source-letter-nvidia-kimi/)**
+**[What Will AI Do To Corporate Governance?](https://www.forbes.com/sites/johnwerner/2026/07/25/what-will-ai-do-to-corporate-governance/)**
 
-Xi Jinping has called for "openness" and "a symphony of global cooperation," and it seems that Jensen Huang agrees.
+AI is reshaping corporate governance, empowering investors while potentially reinforcing the power of large institutions.
 
-Fortune • 13h ago
-
----
-
-**['I know she's AI, but to me she's a friend'](https://www.bbc.com/news/articles/c8dnq6n9318o)**
-
-The Comfort Companions app is being trialled with older people waiting for befriending services.
-
-BBC • 52m ago
+Forbes • 30m ago
 
 ---
 
-**[AI For Mental Health Relies Critically On Leading-Edge Harness Engineering](https://www.forbes.com/sites/lanceeliot/2026/07/25/ai-for-mental-health-relies-critically-on-leading-edge-harness-engineering/)**
+**[AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering](https://www.infoq.com/news/2026/07/ai-rca-context-engineering/)**
 
-AI for mental health relies on a hidden factor, namely the use of leading-edge harness engineering. This is critical. An AI Insider analysis and scoop.
+Engineers are increasingly arguing that modern LLMs can already reason through root cause analysis once given correctly prepared context, shifting the hard problem to the pipelines that correlate telemetry. A Coroot experiment across eleven models offers early evidence for the claim.
 
-Forbes • 2m ago
+infoq.com • 16m ago
 
 ---
 
-**[Fact Check: FAKE Video Does NOT Show Donald Trump Falling While Getting Into A Limo -- It Is AI-Generated](https://www.yahoo.com/news/politics/articles/fact-check-fake-video-does-065303739.html)**
+**[‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai)**
 
-Does a viral clip document a recent real-life scene of U.S. President Donald Trump falling while trying to get into a limo? No, that's not true: The video showed signs of AI generation, and no credibl...
+Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born. How did a chatbot bring them together?
 
-Yahoo • 24m ago
+The Guardian • 56m ago
 
 ---
 
 **[Opinion | Christopher Nolan’s ‘Odyssey’ Shows That Epics Are Better Without A.I.](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)**
 
-The New York Times • 22h ago
+The New York Times • 1d ago
+
+---
+
+**[Why this philosopher turned down Anthropic](https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1)**
+
+The AI industry is courting the humanities — but it is asking the wrong questions
+
+Financial Times • 5h ago
+
+---
+
+**[SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory](https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory)**
+
+SK Group and NVIDIA today announced plans for a $500-billion-plus comprehensive partnership to establish AI infrastructure serving the surging demand for global compute. The two sides signed letters of intent to formalize the agreement, which spans from AI factory construction to AI memory supply.
+
+NVIDIA Newsroom • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ The New York Times • 22h ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 1041 • 💬 856 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 1042 • 💬 861 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -223,7 +223,7 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 
 **[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
 
-⬆️ 490 • 💬 237 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+⬆️ 491 • 💬 237 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 
 ---
 
@@ -231,7 +231,7 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 
 I like supporting local businesses but it's so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!
 
-⬆️ 378 • 💬 303 • 2d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+⬆️ 379 • 💬 303 • 2d ago • [fiddery](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 
 ---
 
@@ -251,7 +251,7 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://news.ycombinator.com/item?id=49021006)**
 
-⬆️ 271 • 💬 282 • 1d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+⬆️ 272 • 💬 282 • 1d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
@@ -267,7 +267,7 @@ Historic VENOM milestone demonstrates scalable AI development capabilities for t
 
 macOS video editor built for AI. Contribute to palmier-io/palmier-pro development by creating an account on GitHub.
 
-⬆️ 185 • 💬 32 • 1d ago • [GitHub](https://github.com/palmier-io/palmier-pro)
+⬆️ 186 • 💬 32 • 1d ago • [GitHub](https://github.com/palmier-io/palmier-pro)
 
 ---
 
@@ -321,7 +321,7 @@ Here's the AI News you probably missed this week. Check out the limited first re
 
 📺 Matt Wolfe
 
-👁️ 27K • 👍 1K • 💬 145 • ⏱️ 30:18 • 13h ago
+👁️ 27K • 👍 1K • 💬 145 • ⏱️ 30:18 • 15h ago
 
 ---
 
@@ -331,7 +331,7 @@ Tech stock markets crash on the AI bubble collapse. Join our private group https
 
 📺 TechLead
 
-👁️ 37K • 👍 1K • 💬 229 • ⏱️ 12:19 • 8h ago
+👁️ 37K • 👍 1K • 💬 229 • ⏱️ 12:19 • 10h ago
 
 ---
 
@@ -351,7 +351,7 @@ I welcome Ryan Carson back to the show to turn anyone into a world-class agent o
 
 📺 Greg Isenberg
 
-👁️ 12K • 👍 550 • 💬 69 • ⏱️ 44:47 • 13h ago
+👁️ 12K • 👍 550 • 💬 69 • ⏱️ 44:47 • 15h ago
 
 ---
 
@@ -371,7 +371,7 @@ asmr #aiasmr #sleepasmr Which one caught your eye? Step into Minion ASMR Hub you
 
 📺 Minion ASMR
 
-👁️ 9K • 👍 2K • 9h ago
+👁️ 9K • 👍 2K • 11h ago
 
 ---
 
@@ -387,7 +387,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,500,391 • ❤️ 3,033 • 1d ago
+⬇️ 2,500,391 • ❤️ 3,033 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 28,992 • ❤️ 621 • 20h ago
+⬇️ 28,992 • ❤️ 621 • 22h ago
 
 ---
 
@@ -435,7 +435,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 407,421 • ❤️ 499 • 4d ago
+⬇️ 407,421 • ❤️ 499 • 5d ago
 
 ---
 
@@ -447,7 +447,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 8,169 • ❤️ 374 • 22h ago
+⬇️ 8,169 • ❤️ 374 • 1d ago
 
 ---
 
@@ -471,7 +471,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 667,403 • ❤️ 4,423 • 22d ago
+⬇️ 667,403 • ❤️ 4,423 • 23d ago
 
 ---
 
@@ -642,7 +642,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.2k • 🔱 1.1k • 19h ago
+⭐ 5.2k • 🔱 1.1k • 21h ago
 
 ---
 
@@ -652,7 +652,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.2k • 🔱 252 • 19m ago
+⭐ 3.2k • 🔱 252 • 1h ago
 
 ---
 
@@ -662,7 +662,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 378 • 23h ago
+⭐ 2.7k • 🔱 379 • 1d ago
 
 ---
 
@@ -672,7 +672,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.5k • 🔱 277 • 16d ago
+⭐ 2.5k • 🔱 278 • 16d ago
 
 ---
 
@@ -680,7 +680,7 @@ The open-source AI workbench for scientific research
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-⭐ 2.4k • 🔱 186 • 2d ago
+⭐ 2.4k • 🔱 187 • 2d ago
 
 ---
 
@@ -690,7 +690,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.5k • 🔱 124 • 16h ago
+⭐ 1.6k • 🔱 126 • 18h ago
 
 ---
 
@@ -700,7 +700,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.5k • 🔱 157 • 2d ago
+⭐ 1.5k • 🔱 160 • 2d ago
 
 ---
 
@@ -710,7 +710,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.4k • 🔱 1.0k • 7h ago
+⭐ 1.4k • 🔱 1.0k • 9h ago
 
 ---
 
@@ -728,7 +728,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.1k • 🔱 66 • 19h ago
+⭐ 1.1k • 🔱 66 • 21h ago
 
 ---
 

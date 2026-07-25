@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T07:17:25.975071+00:00'
+updated: '2026-07-25T09:17:30.660605+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 07:17 UTC  
+**Last Updated:** July 25, 2026 at 09:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,882.73
+### $1,857.39
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -1.6%  
-**7d:** -0.9%  
-**30d:** +17.7%  
-**90d:** -19.4%  
-**1y:** -50.3%  
+**7d:** -1.2%  
+**30d:** +17.3%  
+**90d:** -19.6%  
+**1y:** -50.5%  
 
 ---
 
@@ -122,7 +122,7 @@ The longer I'm in crypto the less I like the idea of relying on banks for everyt
 
 There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.
 
-🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 5d ago
+🔗 [words.filippo.io](https://words.filippo.io/128-bits/) • 6d ago
 
 ---
 
@@ -146,11 +146,19 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[Bitcoin and Ethereum ETFs see $310M outflows am...](https://pluang.com/en/news-feed/bitcoin-ethereum-etf-aliran-keluar-240juta-71000-juli-24)**
+**[BlackRock clients sell $53M in Ethereum via iSh...](https://pluang.com/en/news-feed/klien-blackrock-jual-53juta-ethereum-melalui-etr-i-shares)**
 
-On July 24, U.S. spot Bitcoin and Ethereum ETFs experienced a combined net outflow of approximately $310.62 million, driven mainly by BlackRock's IBIT and ETHA products. Bitcoin ETFs accounted for about $240.1 million of the outflows, with BlackRock's IBIT alone responsible for $212 million. Ethereum ETFs saw around $70.7 million in redemptions, largely from BlackRock's ETHA. These outflows coincided with rising geopolitical tensions related to U.S.-Iran relations and a sell-off in equity markets, prompting institutional investors to reduce risk exposure. The outflows reversed a recent recovery trend in Bitcoin ETF flows, signaling cautious sentiment among institutional investors. For Ethereum ETFs, the significant outflow represents a notable move given their smaller asset base. ETF flow data is a key indicator of real institutional capital movement, making these outflows a meaningful signal for market watchers.
+Clients of BlackRock have sold approximately $52.76 million worth of Ethereum through the iShares Ethereum Trust, a spot ETF that provides institutional exposure to ETH. This sale indicates a significant outflow from a major institutional holder, which could influence market sentiment and Ethereum's price dynamics. Despite this, current market predictions show low odds of Ethereum dropping to $1,300 in July, suggesting limited immediate impact. Market watchers will be attentive to further large transactions from this ETF as they may reveal broader institutional trends and affect future pricing.
 
-Pluang • 2h ago
+Pluang • 1h ago
+
+---
+
+**[Ethereum leads bullish futures surge among top crypto traders, signaling selective risk appetite.](https://pluang.com/en/news-feed/ethereum-pimpin-kenaikan-posisi-futures-bullish-di-kalangan-trader-kripto)**
+
+Top crypto traders increased bullish futures positions on July 25, with Ethereum leading gains in coin-margined contracts and Bitcoin rising in USDT-margined accounts. This selective increase in long exposure suggests growing risk appetite, particularly for Ethereum users seeking upside in crypto-denominated terms. Bitcoin's rise in USDT-margined accounts indicates broader participation but controlled sizing. The data points to a cautious but positive shift in trader sentiment rather than a broad speculative surge, highlighting targeted bets rather than uniform bullishness across all assets.
+
+Pluang • 1h ago
 
 ---
 
@@ -182,7 +190,7 @@ TradingView • 1d ago
 
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -190,7 +198,7 @@ The Block • 1d ago
 
 The chain's new plan calls for a swath of big steps in a few different directions.
 
-The Motley Fool • 18h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -202,14 +210,6 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
-
-Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
-
-Benzinga • 1d ago
-
----
-
 **[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
 
 U.S. Spot ETH ETF has seen net inflows in the past two weeks.
@@ -218,11 +218,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
+**[Crypto Today: BTC, ETH, XRP steady as ETF flows diverge](https://www.fxstreet.com/news/crypto-today-bitcoin-ethereum-xrp-pare-losses-as-breakout-potential-builds-202607241100)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
 
-Fortune • 18h ago
+FXStreet • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 142 • 💬 26 • ⏱️ 18:08 • 15h ago
+👁️ 3K • 👍 142 • 💬 26 • ⏱️ 18:08 • 17h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 149 • 💬 37 • ⏱️ 7:27 • 15h ago
+👁️ 1K • 👍 149 • 💬 37 • ⏱️ 7:27 • 17h ago
 
 ---
 
@@ -276,7 +276,7 @@ Crypto is difficult, but crypto is also very easy. These people are literally te
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 594 • 💬 339 • ⏱️ 35:53 • 21h ago
+👁️ 5K • 👍 594 • 💬 339 • ⏱️ 35:53 • 23h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETH just spiked to $1950 and wiped out $62 million in shorts. Here's the strange
 
 📺 Coin Bureau Podcast
 
-👁️ 981 • 👍 20 • 💬 2 • ⏱️ 0:28 • 14h ago
+👁️ 981 • 👍 20 • 💬 2 • ⏱️ 0:28 • 16h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 237 • 💬 179 • ⏱️ 22:07 • 11h ago
+👁️ 5K • 👍 237 • 💬 179 • ⏱️ 22:07 • 13h ago
 
 ---
 
@@ -316,7 +316,7 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 6K • 👍 465 • 💬 10 • ⏱️ 13:08 • 9h ago
+👁️ 6K • 👍 465 • 💬 10 • ⏱️ 13:08 • 11h ago
 
 ---
 
