@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-24T23:02:17.393291+00:00'
+updated: '2026-07-25T01:02:45.595579+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 24, 2026 at 23:02 UTC  
+**Last Updated:** July 25, 2026 at 01:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -0.1%  
-**30d:** +18.6%  
-**90d:** -21.5%  
-**1y:** -50.0%  
+**24h:** -0.4%  
+**7d:** -0.6%  
+**30d:** +18.0%  
+**90d:** -19.2%  
+**1y:** -50.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.38B
+**Market Cap:** $224.30B
 Rank #2
 
 **Circulating Supply:** 120,682,712 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.4%
 
 **All-Time Low:** $0.43
-+429304.2%
++429188.7%
 
 ---
 
@@ -146,13 +146,21 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
+**[Ethereum's network activity grows despite 36% p...](https://pluang.com/en/news-feed/ethereum-undervalued-aktivitas-jaringan-eth)**
+
+In 2026, Ethereum's price fell about 62% from its 2025 peak, dropping to $1,888 and down 36% year-to-date amid a market downturn. However, Ethereum's network fundamentals remain strong, with daily transactions exceeding 2.5 million—much higher than last year and even its 2025 peak. Total value locked (TVL) in the network rose by $4.92 billion since July, reflecting growing investor capital and optimism. Validator activity also shows confidence, with near-zero exit queues and increased token commitments, suggesting long-term bullish sentiment. These trends point to Ethereum's potential to outperform in the next market cycle over the coming two to three years.
+
+Pluang • 1h ago
+
+---
+
 **[Bitmine Immersion Technologies (BMNR) On Its $73 Million Ethereum Buy And A Tough Valuation Debate](https://simplywall.st/stocks/us/software/nyse-bmnr/bitmine-immersion-technologies/news/bitmine-immersion-technologies-bmnr-on-its-73-million-ethere)**
 
 Bitmine Immersion Technologies (BMNR) is back in focus after disclosing a new US$73 million Ethereum purchase, lifting its holdings to about 5.78 million ETH and intensifying debate around concentration risk and stock volatility.
 See our latest analysis for Bitmine Immersion Technologies.
 At a share price of US$15.79, Bitmine Immersion Technologies has seen a 12.62% 1 month share price return but is still down 49.37% year to date, with a 60.31% decline in 1 year total shareholder return. This...
 
-simplywall.st • 1h ago
+simplywall.st • 3h ago
 
 ---
 
@@ -188,19 +196,19 @@ TradingView • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 10h ago
-
----
-
 **[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://www.fool.com/investing/2026/07/24/vitalik-buterin-says-ethereum-reinvents-itself/)**
 
 The chain's new plan calls for a swath of big steps in a few different directions.
 
-The Motley Fool • 10h ago
+The Motley Fool • 12h ago
+
+---
+
+**[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
+
+U.S. Spot ETH ETF has seen net inflows in the past two weeks.
+
+AMBCrypto • 20h ago
 
 ---
 
@@ -208,7 +216,7 @@ The Motley Fool • 10h ago
 
 Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
 
-Benzinga • 21h ago
+Benzinga • 23h ago
 
 ---
 
@@ -217,14 +225,6 @@ Benzinga • 21h ago
 Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
 
 FXStreet • 1d ago
-
----
-
-**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
-
-Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
-
-Seeking Alpha • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 105 • 💬 23 • ⏱️ 18:08 • 6h ago
+👁️ 2K • 👍 116 • 💬 23 • ⏱️ 18:08 • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 655 • 👍 113 • 💬 50 • ⏱️ 7:27 • 6h ago
+👁️ 921 • 👍 125 • 💬 51 • ⏱️ 7:27 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 527 • 💬 290 • ⏱️ 16:34 • 22h ago
+👁️ 10K • 👍 530 • 💬 258 • ⏱️ 16:34 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ In this video I break down the current Ethereum price action and what the Elliot
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 183 • 💬 8 • ⏱️ 6:26 • 21h ago
+👁️ 3K • 👍 183 • 💬 8 • ⏱️ 6:26 • 23h ago
 
 ---
 
@@ -278,7 +278,17 @@ BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 2K • 👍 141 • 💬 154 • ⏱️ 22:07 • 3h ago
+👁️ 3K • 👍 177 • 💬 158 • ⏱️ 22:07 • 5h ago
+
+---
+
+**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
+
+Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
+
+📺 Lark Davis
+
+👁️ 4K • 👍 104 • 💬 8 • ⏱️ 0:53 • 21h ago
 
 ---
 
@@ -292,23 +302,13 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 ---
 
-**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
-
-Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
-
-📺 Lark Davis
-
-👁️ 3K • 👍 100 • 💬 5 • ⏱️ 0:53 • 19h ago
-
----
-
 **[Is Ethereum about to hit $2,000?](https://www.youtube.com/watch?v=_bet-Zu9cL8)**
 
 ETH just spiked to $1950 and wiped out $62 million in shorts. Here's the strange part: network usage is dead right now and ...
 
 📺 Coin Bureau Podcast
 
-👁️ 674 • 👍 14 • 💬 2 • ⏱️ 0:28 • 6h ago
+👁️ 804 • 👍 15 • 💬 2 • ⏱️ 0:28 • 8h ago
 
 ---
 
@@ -318,17 +318,17 @@ Bitcoin and Ethereum are nearing major inflection points after BTC's pullback in
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 549 • 💬 78 • ⏱️ 1:00:32 • 19h ago
+👁️ 7K • 👍 551 • 💬 79 • ⏱️ 1:00:32 • 21h ago
 
 ---
 
-**[BALEIAS ESTÃO SHORTANDO BITCOIN E ETHEREUM: O QUE ELAS SABEM?](https://www.youtube.com/watch?v=utRYblKlbtE)**
+**[Can Ethlabs Make Ethereum The Root Of Global Finance?](https://www.youtube.com/watch?v=0PIWr1v0N7Q)**
 
-Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto boa parte do varejo já acredita em uma ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 Augusto Backes
+📺 Milk Road
 
-👁️ 1K • 👍 164 • 💬 60 • ⏱️ 13:08 • 1h ago
+👁️ 3K • 👍 112 • 💬 102 • ⏱️ 55:25 • 1d ago
 
 ---
 

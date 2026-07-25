@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-24T23:02:17.380248+00:00'
+updated: '2026-07-25T01:02:45.585286+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - videos
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 24, 2026 at 23:02 UTC  
+**Last Updated:** July 25, 2026 at 01:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Trump administration released its blueprint for U.S. science, calling for shifting hundreds of billions of research dollars from universities to industry.
 
-🔗 [STAT](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/) • 1h ago
+🔗 [STAT](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ The Trump administration released its blueprint for U.S. science, calling for sh
 
 The Senior Chatbot Protection Act, from Sens. Mark Kelly and Jim Justice, would require clear labeling of AI and new protections for health and financial conversations.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970) • 4h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ The Senior Chatbot Protection Act, from Sens. Mark Kelly and Jim Justice, would 
 
 in the openai copyright case, a court ordered every chatgpt output log preserved, including chats people had deleted. some users tried to intervene to protect their own conversations. the court ruled they were non-parties. they had no standing over things they personally typed. two weeks ago the publishers filed for sanctions, alleging openai deleted billions of logs anyway and spent two years telling the court it couldn't search its own systems when it already could. openai denies it. the whole consumer privacy conversation is about what companies promise. we don't train on your chats, we delete after 30 days. this case showed the promise was never the binding constraint. a judge was. so "do they train on it" is close to the least useful question. the useful one is whether anything besides their good intentions is in the way when a court, a regulator or a future owner comes asking. that's an architecture question. opengradient's chat is what i switched the sensitive half of my usage to, and the mechanism is the interesting part: oblivious http means the relay that sees your ip can't read your request, and the server reading your request never learns your ip. neither can reassemble you alone. inference runs in an attested enclave the operator can't inspect. no log to preserve, nothing to hand over, because you were never in it. two honest cons. it's a16z-crypto-backed with a listed token, which put me off for weeks. and you lose memory and personalisation entirely, so it's not a daily driver, it's where the stuff goes i don't want in someone's discovery pile. does this end up mattering to normal people, or is it five hundred of us caring loudly while everyone else decides a subpoena hitting their recipe questions isn't worth degrading their tools over.
 
-9h ago
+11h ago
 
 ---
 
@@ -71,7 +71,7 @@ in the openai copyright case, a court ordered every chatgpt output log preserved
 
 Moonshot AI’s Kimi K3 shows how opening a model to outsiders can turn other companies’ computing power into a competitive advantage
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/) • 9h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/) • 11h ago
 
 ---
 
@@ -79,7 +79,15 @@ Moonshot AI’s Kimi K3 shows how opening a model to outsiders can turn other co
 
 I'm curious how everyone here keeps up with AI these days without spending hours doomscrolling. There are new models, tools, coding assistants, and AI workflows launching almost every day, so I'm interested in hearing what your "AI information diet" looks like. What do you follow regularly? It could be: WhatsApp or Telegram groups Discord communities Newsletters X accounts YouTube channels Blogs, podcasts, or anything else I'm especially interested in places that share practical updates like new AI tools, Cursor/Claude/GitHub Copilot tips, LLM news, real-world AI workflows, or interesting breakthroughs -without a ton of hype or self-promotion. Always looking for high-signal sources, and I'd love to hear what this community follows.
 
-49m ago
+2h ago
+
+---
+
+**[Necesito ayuda para hacer un video con IA](https://www.reddit.com/r/artificial/comments/1v5smkk/necesito_ayuda_para_hacer_un_video_con_ia/)**
+
+Quiero hacer un video con un personaje de league of leaguends en específico Morgana, quiero que esta hablé y se mueva pero no sé que tipo de IA hace este tipo de videos o como puedo realizarlo Que prompt necesito para hacerlo? Un ejemplo
+
+51m ago
 
 ---
 
@@ -87,7 +95,7 @@ I'm curious how everyone here keeps up with AI these days without spending hours
 
 He does it because he loves it huh?
 
-18h ago
+20h ago
 
 ---
 
@@ -95,7 +103,7 @@ He does it because he loves it huh?
 
 Policymakers are accustomed to thinking in finite measurable terms like laws, budgets, and program implementation. Artificial intelligence, however, no longer advances in a straight line or within the familiar boundaries of public administration.
 
-🔗 [HKS Student Policy Review](https://studentreview.hks.harvard.edu/wrangling-with-explosive-ai-growth/) • 2h ago
+🔗 [HKS Student Policy Review](https://studentreview.hks.harvard.edu/wrangling-with-explosive-ai-growth/) • 4h ago
 
 ---
 
@@ -103,15 +111,7 @@ Policymakers are accustomed to thinking in finite measurable terms like laws, bu
 
 Google just signaled even larger AI infrastructure spending this year. From a technology perspective, that's a huge vote of confidence in continued AI development. But investors barely celebrated it—instead they focused on whether all that spending will actually pay off. Do you think we're reaching the point where the debate is no longer "Will companies invest in AI?" but "Which companies will actually make money from AI?"
 
-2h ago
-
----
-
-**[Built a tool that datacenter cooling layouts optimiser](https://www.reddit.com/r/artificial/comments/1v5mewy/built_a_tool_that_datacenter_cooling_layouts/)**
-
-AI's eating power and heat is the part nobody's actually simulating, everyone forgets about that so. I have built a data center cooling layout optimizer that runs Open FOAM solves on a datacenter layout and optimizes CRAC placement against it. Still limited to small sized facilities on real hardware, not thousands of racks overnight. Would need a large computer for that. Any other way of optimizing it? What do you think? Repo: https://github.com/PantherHale/DataCenter_Cooling_Project_OFD
-
-2h ago
+4h ago
 
 ---
 
@@ -119,77 +119,69 @@ AI's eating power and heat is the part nobody's actually simulating, everyone fo
 
 ## Google News: "ai"
 
-**[Open Weights and American AI Leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)**
-
-Open weight AI can expand access, strengthen competition, improve security, and help sustain American AI leadership.
-
-Microsoft • 11h ago
-
----
-
 **[Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)**
 
 Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.
 
-CNBC • 8h ago
+CNBC • 10h ago
 
 ---
 
-**[Nvidia, Microsoft Lead Call for Open-Weight AI Models After Kimi](https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi)**
+**[Nvidia, Microsoft and other tech giants back open-source AI models](https://www.reuters.com/world/asia-pacific/nvidia-microsoft-other-tech-giants-back-open-source-ai-models-2026-07-24/)**
 
-Bloomberg.com • 8h ago
-
----
-
-**[Nvidia, Microsoft urge US to avoid broad restrictions on open AI models](https://www.foxbusiness.com/technology/nvidia-microsoft-urge-us-avoid-broad-restrictions-open-ai-models)**
-
-Nvidia, Microsoft and Meta joined more than 20 technology companies in urging U.S. policymakers to avoid broad restrictions on open-weight AI models
-
-Fox Business • 1h ago
+Reuters • 6h ago
 
 ---
 
-**[OpenAI’s breach of Hugging Face stokes fears about what’s next for AI](https://thehill.com/policy/technology/5987397-openai-hugging-face-hack/)**
+**[Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership](https://www.reuters.com/business/media-telecom/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-2026-07-24/)**
 
-The Hill • 13h ago
-
----
-
-**[OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress](https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html)**
-
-OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.
-
-CNBC • 1d ago
+Reuters • 1h ago
 
 ---
 
 **[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
 
-Reuters • 24m ago
+Reuters • 1h ago
 
 ---
 
-**[Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3](https://finance.yahoo.com/technology/ai/articles/micron-mu-getting-china-ai-031646978.html)**
+**[Big Asia Stock Funds Turn to Laggards to Cut Risk From AI Swings](https://www.bloomberg.com/news/articles/2026-07-25/big-asia-stock-funds-turn-to-laggards-to-cut-risk-from-ai-swings)**
 
-Moonshot AI’s Kimi K3 launch in China drew such heavy usage that the service quickly stopped taking new users. Analysts are pointing to the surge in demand for Chinese AI models as a potential tailwind for memory suppliers like Micron Technology (NasdaqGS:MU). The user cap at Kimi K3 highlights a tight balance between AI compute needs and available high performance memory supply. Micron Technology sits squarely in the path of this AI build out, with its memory products tied to data center...
-
-Yahoo Finance • 19h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[A first-hand look at China’s sprint to AI greatness](https://www.nbcnews.com/world/china/first-hand-look-chinas-sprint-ai-greatness-rcna589126)**
+**[Corporate America Has Suddenly Decided to Stop Blowing Money on AI](https://www.wsj.com/business/china-us-ai-model-costs-53a12e96)**
 
-NBC News’ reporting from around China reveals a rising power eager to outpace the U.S. in the tech economy.
-
-NBC News • 1h ago
+WSJ • 32m ago
 
 ---
 
-**[What is China’s Kimi K3 and why is the US so rattled by it?](https://www.cnn.com/2026/07/23/tech/china-ai-moonshot-kimi-explainer-intl-hnk)**
+**[Opinion | Christopher Nolan’s ‘Odyssey’ Shows That Epics Are Better Without A.I.](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)**
 
-Remember DeepSeek? The Chinese artificial intelligence startup that rattled the US tech industry? China may have done it again.
+The New York Times • 15h ago
 
-CNN • 21h ago
+---
+
+**[Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model](https://finance.yahoo.com/technology/ai/articles/turns-dead-internet-theory-ai-201027433.html)**
+
+Multiple cyber firms agree: bots outnumber humans online, challenging advertising, analytics and security systems designed around human visitors.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Parents: Teen boy used AI to create sexually explicit images of their daughters](https://www.wral.com/news/investigates/artificial-intelligence-sexual-exploitation-victims-charges-knightdale-july-23-2026/)**
+
+A teen faces multiple sexual exploitation charges connected to the use of AI to manipulate images of teen girls.
+
+WRAL • 1d ago
+
+---
+
+**[China Rewrites the ‘Soft Power’ Playbook for the A.I. Age](https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -199,7 +191,15 @@ CNN • 21h ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 1037 • 💬 842 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 1037 • 💬 847 • 1d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+
+---
+
+**[AI Companies Are Trying to Hide a Staggering Amount of Debt](https://news.ycombinator.com/item?id=49020999)**
+
+AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
+
+⬆️ 678 • 💬 365 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
@@ -211,17 +211,9 @@ I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are tra
 
 ---
 
-**[AI Companies Are Trying to Hide a Staggering Amount of Debt](https://news.ycombinator.com/item?id=49020999)**
-
-AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
-
-⬆️ 676 • 💬 364 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
-
----
-
 **[Quality non-fiction books are the antithesis of AI slop](https://news.ycombinator.com/item?id=49007247)**
 
-⬆️ 488 • 💬 237 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+⬆️ 489 • 💬 237 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 
 ---
 
@@ -237,19 +229,19 @@ I like supporting local businesses but it's so disheartening to see the increasi
 
 The release of Kimi K3 has opened a fresh round of angst and confused discourse. There's a loud cohort of journalists, business leaders, and politicians arguing that open source AI is a dangerous threat. OpenAI's Dean Ball:
 
-⬆️ 305 • 💬 210 • 1d ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
+⬆️ 306 • 💬 210 • 1d ago • [tombedor.dev](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
 
 ---
 
 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://news.ycombinator.com/item?id=49020868)**
 
-⬆️ 291 • 💬 330 • 1d ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+⬆️ 292 • 💬 331 • 1d ago • [axios.com](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 
 ---
 
 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://news.ycombinator.com/item?id=49021006)**
 
-⬆️ 267 • 💬 282 • 1d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+⬆️ 269 • 💬 282 • 1d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
@@ -257,7 +249,7 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.
 
-⬆️ 260 • 💬 322 • 1d ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
+⬆️ 261 • 💬 322 • 1d ago • [darpa.mil](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 
 ---
 
@@ -265,7 +257,7 @@ Historic VENOM milestone demonstrates scalable AI development capabilities for t
 
 macOS video editor built for AI. Contribute to palmier-io/palmier-pro development by creating an account on GitHub.
 
-⬆️ 183 • 💬 32 • 1d ago • [GitHub](https://github.com/palmier-io/palmier-pro)
+⬆️ 185 • 💬 32 • 1d ago • [GitHub](https://github.com/palmier-io/palmier-pro)
 
 ---
 
@@ -279,27 +271,7 @@ Here's the AI News you probably missed this week. Check out the limited first re
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 871 • 💬 111 • ⏱️ 30:18 • 5h ago
-
----
-
-**[It Begins: An AI Tried to Escape the Lab](https://www.youtube.com/watch?v=r4H7rx5nn1A)**
-
-Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
-
-📺 Matthew Berman
-
-👁️ 83K • 👍 3K • 💬 712 • ⏱️ 10:43 • 2d ago
-
----
-
-**[AI model ESCAPES: &#39;What we feared could happen has happened&#39;](https://www.youtube.com/watch?v=_v8gwDj7M_Y)**
-
-An experimental OpenAI model reportedly reached the open internet and accessed another company's servers during a test, ...
-
-📺 Fox News
-
-👁️ 158K • 👍 2K • 💬 1K • ⏱️ 4:05 • 1d ago
+👁️ 19K • 👍 1K • 💬 130 • ⏱️ 30:18 • 7h ago
 
 ---
 
@@ -309,7 +281,27 @@ Watch the full show: https://bit.ly/4fsnd9Q Elon Musk expects artificial intelli
 
 📺 The Economist
 
-👁️ 482K • 👍 9K • 💬 3K • ⏱️ 10:36 • 1d ago
+👁️ 501K • 👍 9K • 💬 3K • ⏱️ 10:36 • 1d ago
+
+---
+
+**[The Most Dangerous AI Just Broke Containment...](https://www.youtube.com/watch?v=RZYk0FlTF5o)**
+
+Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be the wildest cybersecurity story I've seen ...
+
+📺 SomeOrdinaryGamers
+
+👁️ 219K • 👍 9K • 💬 1K • ⏱️ 18:00 • 2d ago
+
+---
+
+**[It Begins: An AI Tried to Escape the Lab](https://www.youtube.com/watch?v=r4H7rx5nn1A)**
+
+Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
+
+📺 Matthew Berman
+
+👁️ 84K • 👍 3K • 💬 713 • ⏱️ 10:43 • 2d ago
 
 ---
 
@@ -319,37 +311,17 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 14K • 👍 455 • 💬 99 • ⏱️ 19:39 • 1d ago
+👁️ 14K • 👍 462 • 💬 102 • ⏱️ 19:39 • 1d ago
 
 ---
 
-**[How worried should we be about the AI that went rogue and launched a cyber-attack? | BBC News](https://www.youtube.com/watch?v=M4kliMrqbB4)**
+**[AI model ESCAPES: &#39;What we feared could happen has happened&#39;](https://www.youtube.com/watch?v=_v8gwDj7M_Y)**
 
-OpenAI has revealed some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a ...
+An experimental OpenAI model reportedly reached the open internet and accessed another company's servers during a test, ...
 
-📺 BBC News
+📺 Fox News
 
-👁️ 171K • 👍 2K • 💬 582 • ⏱️ 11:03 • 2d ago
-
----
-
-**[Google Issues a Dire Warning About the “AI Boom”](https://www.youtube.com/watch?v=3JjkvLAvS9w)**
-
-Google just reported something it had never reported in its entire history as a public company: Negative quarterly free cash flow.
-
-📺 Eurodollar University
-
-👁️ 52K • 👍 2K • 💬 140 • ⏱️ 20:40 • 1d ago
-
----
-
-**[Why AI Servers Are Being Submerged in Boiling Liquid](https://www.youtube.com/watch?v=RIpmJtSyDPg)**
-
-Two-phase immersion cooling is an advanced thermal management technology where servers are submerged in a ...
-
-📺 Cognisphere
-
-👁️ 5K • 👍 23 • 💬 2 • ⏱️ 0:07 • 10h ago
+👁️ 160K • 👍 2K • 💬 1K • ⏱️ 4:05 • 1d ago
 
 ---
 
@@ -359,7 +331,17 @@ People are dreaming so they don't have to face the nightmare of reality.” Auth
 
 📺 The Tech Report
 
-👁️ 87K • 👍 5K • 💬 669 • ⏱️ 25:51 • 6h ago
+👁️ 110K • 👍 5K • 💬 756 • ⏱️ 25:51 • 8h ago
+
+---
+
+**[Google Issues a Dire Warning About the “AI Boom”](https://www.youtube.com/watch?v=3JjkvLAvS9w)**
+
+Google just reported something it had never reported in its entire history as a public company: Negative quarterly free cash flow.
+
+📺 Eurodollar University
+
+👁️ 53K • 👍 2K • 💬 146 • ⏱️ 20:40 • 1d ago
 
 ---
 
@@ -369,7 +351,17 @@ China's fake AI humans are moving from screens into the real world. These robots
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 139 • ⏱️ 33:12 • 1d ago
+👁️ 32K • 👍 1K • 💬 141 • ⏱️ 33:12 • 2d ago
+
+---
+
+**[How worried should we be about the AI that went rogue and launched a cyber-attack? | BBC News](https://www.youtube.com/watch?v=M4kliMrqbB4)**
+
+OpenAI has revealed some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a ...
+
+📺 BBC News
+
+👁️ 175K • 👍 2K • 💬 594 • ⏱️ 11:03 • 2d ago
 
 ---
 
@@ -385,7 +377,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,500,391 • ❤️ 3,005 • 1d ago
+⬇️ 2,500,391 • ❤️ 3,011 • 1d ago
 
 ---
 
@@ -397,7 +389,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 28,992 • ❤️ 602 • 12h ago
+⬇️ 28,992 • ❤️ 610 • 14h ago
 
 ---
 
@@ -409,7 +401,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 27,883 • ❤️ 1,545 • 1d ago
+⬇️ 27,883 • ❤️ 1,546 • 1d ago
 
 ---
 
@@ -421,7 +413,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 1,106 • ❤️ 539 • 17h ago
+⬇️ 1,106 • ❤️ 541 • 19h ago
 
 ---
 
@@ -433,7 +425,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 407,421 • ❤️ 477 • 4d ago
+⬇️ 407,421 • ❤️ 484 • 4d ago
 
 ---
 
@@ -445,7 +437,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 8,169 • ❤️ 367 • 14h ago
+⬇️ 8,169 • ❤️ 371 • 16h ago
 
 ---
 
@@ -457,7 +449,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 595,415 • ❤️ 1,005 • 6d ago
+⬇️ 595,415 • ❤️ 1,006 • 6d ago
 
 ---
 
@@ -469,7 +461,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 667,403 • ❤️ 4,414 • 22d ago
+⬇️ 667,403 • ❤️ 4,415 • 22d ago
 
 ---
 
@@ -481,7 +473,7 @@ Mage-Flow is a 4B-scale text-to-image generation and instruction-based image edi
 
 `text-to-image` `4.1B`
 
-⬇️ 891 • ❤️ 225 • 1d ago
+⬇️ 891 • ❤️ 232 • 1d ago
 
 ---
 
@@ -523,7 +515,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 32 • 💬 3 • ⭐ 15,221 • 3mo ago
+▲ 32 • 💬 3 • ⭐ 15,273 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -640,7 +632,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.2k • 🔱 1.1k • 10h ago
+⭐ 5.2k • 🔱 1.1k • 12h ago
 
 ---
 
@@ -650,7 +642,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.2k • 🔱 246 • 11h ago
+⭐ 3.2k • 🔱 247 • 13h ago
 
 ---
 
@@ -660,7 +652,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.7k • 🔱 378 • 15h ago
+⭐ 2.7k • 🔱 378 • 17h ago
 
 ---
 
@@ -678,7 +670,7 @@ The open-source AI workbench for scientific research
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-⭐ 2.3k • 🔱 181 • 2d ago
+⭐ 2.3k • 🔱 182 • 2d ago
 
 ---
 
@@ -688,7 +680,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.5k • 🔱 153 • 1d ago
+⭐ 1.5k • 🔱 154 • 1d ago
 
 ---
 
@@ -698,7 +690,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.4k • 🔱 1.0k • 51s ago
+⭐ 1.4k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -708,7 +700,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.4k • 🔱 113 • 8h ago
+⭐ 1.4k • 🔱 114 • 10h ago
 
 ---
 
@@ -726,7 +718,7 @@ Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 `Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
 
-⭐ 1.1k • 🔱 66 • 10h ago
+⭐ 1.1k • 🔱 66 • 12h ago
 
 ---
 
