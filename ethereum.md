@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T04:43:33.923105+00:00'
+updated: '2026-07-25T07:17:25.975071+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 04:43 UTC  
+**Last Updated:** July 25, 2026 at 07:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** -0.7%  
-**30d:** +17.9%  
-**90d:** -19.2%  
+**24h:** -1.6%  
+**7d:** -0.9%  
+**30d:** +17.7%  
+**90d:** -19.4%  
 **1y:** -50.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.31B
+**Market Cap:** $224.07B
 Rank #2
 
 **Circulating Supply:** 120,682,685 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.5%
 
 **All-Time Low:** $0.43
-+429218.7%
++428708.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -86,13 +86,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
 **[Warning!!! EU Crypto Users: Stop Sending Crypto Directly Between Exchanges Right Now, or risk your crypto being Frozen.](https://www.reddit.com/r/ethereum/comments/1v28fsw/warning_eu_crypto_users_stop_sending_crypto/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -130,7 +130,7 @@ There is no need to update symmetric key sizes as part of the post-quantum trans
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -146,11 +146,11 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 ## Google News: "ethereum"
 
-**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
+**[Bitcoin and Ethereum ETFs see $310M outflows am...](https://pluang.com/en/news-feed/bitcoin-ethereum-etf-aliran-keluar-240juta-71000-juli-24)**
 
-Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
+On July 24, U.S. spot Bitcoin and Ethereum ETFs experienced a combined net outflow of approximately $310.62 million, driven mainly by BlackRock's IBIT and ETHA products. Bitcoin ETFs accounted for about $240.1 million of the outflows, with BlackRock's IBIT alone responsible for $212 million. Ethereum ETFs saw around $70.7 million in redemptions, largely from BlackRock's ETHA. These outflows coincided with rising geopolitical tensions related to U.S.-Iran relations and a sell-off in equity markets, prompting institutional investors to reduce risk exposure. The outflows reversed a recent recovery trend in Bitcoin ETF flows, signaling cautious sentiment among institutional investors. For Ethereum ETFs, the significant outflow represents a notable move given their smaller asset base. ETF flow data is a key indicator of real institutional capital movement, making these outflows a meaningful signal for market watchers.
 
-CoinDesk • 1d ago
+Pluang • 2h ago
 
 ---
 
@@ -162,19 +162,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
+**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
 
-A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
+Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
 
-The Block • 1d ago
-
----
-
-**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
-
-Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
-
-Seeking Alpha • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -186,19 +178,27 @@ TradingView • 1d ago
 
 ---
 
+**[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
+
+A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
+
+The Block • 1d ago
+
+---
+
 **[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://www.fool.com/investing/2026/07/24/vitalik-buterin-says-ethereum-reinvents-itself/)**
 
 The chain's new plan calls for a swath of big steps in a few different directions.
 
-The Motley Fool • 16h ago
+The Motley Fool • 18h ago
 
 ---
 
-**[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
 
-U.S. Spot ETH ETF has seen net inflows in the past two weeks.
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-AMBCrypto • 1d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -210,19 +210,19 @@ Benzinga • 1d ago
 
 ---
 
+**[Ethereum validator exit queue drops to zero – Will it boost ETH’s Q3 recovery?](https://ambcrypto.com/ethereum-validator-exit-queue-drops-to-zero-will-it-boost-eths-q3-recovery/)**
+
+U.S. Spot ETH ETF has seen net inflows in the past two weeks.
+
+AMBCrypto • 1d ago
+
+---
+
 **[Current price of Ethereum for July 24, 2026](https://fortune.com/article/current-price-of-ethereum-for-july-24-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
-
----
-
-**[Why Bitcoin, Ethereum and XRP's decline could be temporary](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trim-gains-despite-resilient-etf-inflows-202607231140)**
-
-Cryptocurrency prices are trending lower on Thursday, pressured by renewed inflation concerns stemming from ongoing tensions between the United States (US) and Iran and persistently elevated Oil prices.
-
-FXStreet • 1d ago
+Fortune • 18h ago
 
 ---
 
@@ -236,27 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 130 • 💬 25 • ⏱️ 18:08 • 12h ago
-
----
-
-**[Crypto Is About To Find Out | Bitcoin, Ethereum &amp; Cardano At The Decision Point](https://www.youtube.com/watch?v=yt-KCiUDkfg)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 533 • 💬 248 • ⏱️ 16:34 • 1d ago
-
----
-
-**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=NU6MsFNYfaY)**
-
-In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 184 • 💬 8 • ⏱️ 6:26 • 1d ago
+👁️ 3K • 👍 142 • 💬 26 • ⏱️ 18:08 • 15h ago
 
 ---
 
@@ -266,7 +246,17 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 138 • 💬 53 • ⏱️ 7:27 • 12h ago
+👁️ 1K • 👍 149 • 💬 37 • ⏱️ 7:27 • 15h ago
+
+---
+
+**[Crypto Is About To Find Out | Bitcoin, Ethereum &amp; Cardano At The Decision Point](https://www.youtube.com/watch?v=yt-KCiUDkfg)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
+
+📺 Crypto Capital Venture
+
+👁️ 11K • 👍 534 • 💬 255 • ⏱️ 16:34 • 1d ago
 
 ---
 
@@ -276,7 +266,27 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 3K • 👍 61 • 💬 9 • ⏱️ 3:42 • 1d ago
+👁️ 3K • 👍 61 • 💬 9 • ⏱️ 3:42 • 2d ago
+
+---
+
+**[Crypto Is Going To Take A LOT Of You By Surprise Bitcoin Could Enact A Major Altcoin Season In 2026](https://www.youtube.com/watch?v=KsTrdH8fU5c)**
+
+Crypto is difficult, but crypto is also very easy. These people are literally telling us where they're investing their billions of dollars, ...
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 594 • 💬 339 • ⏱️ 35:53 • 21h ago
+
+---
+
+**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=NU6MsFNYfaY)**
+
+In this video I break down the current Ethereum price action and what the Elliott Wave structure suggests for the coming weeks.
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 187 • 💬 8 • ⏱️ 6:26 • 1d ago
 
 ---
 
@@ -286,7 +296,7 @@ ETH just spiked to $1950 and wiped out $62 million in shorts. Here's the strange
 
 📺 Coin Bureau Podcast
 
-👁️ 937 • 👍 15 • 💬 2 • ⏱️ 0:28 • 11h ago
+👁️ 981 • 👍 20 • 💬 2 • ⏱️ 0:28 • 14h ago
 
 ---
 
@@ -296,27 +306,7 @@ BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 229 • 💬 152 • ⏱️ 22:07 • 9h ago
-
----
-
-**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
-
-Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 117 • 💬 11 • ⏱️ 0:53 • 1d ago
-
----
-
-**[Can Ethlabs Make Ethereum The Root Of Global Finance?](https://www.youtube.com/watch?v=0PIWr1v0N7Q)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 112 • 💬 102 • ⏱️ 55:25 • 1d ago
+👁️ 5K • 👍 237 • 💬 179 • ⏱️ 22:07 • 11h ago
 
 ---
 
@@ -326,7 +316,17 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 6K • 👍 442 • 💬 10 • ⏱️ 13:08 • 6h ago
+👁️ 6K • 👍 465 • 💬 10 • ⏱️ 13:08 • 9h ago
+
+---
+
+**[The Ethereum Warning Signal Just Flashed - Do This Now.](https://www.youtube.com/watch?v=QY8bT204GLU)**
+
+Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhill.pro/BTCC72226 Save Up To 37% On ...
+
+📺 Tyler Hill Crypto
+
+👁️ 4K • 👍 223 • 💬 44 • ⏱️ 9:09 • 2d ago
 
 ---
 
