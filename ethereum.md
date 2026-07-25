@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T10:52:14.634094+00:00'
+updated: '2026-07-25T12:02:57.188925+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 10:52 UTC  
+**Last Updated:** July 25, 2026 at 12:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,857.39
+### $1,857.68
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
+**24h:** +0.0%  
 **7d:** -0.9%  
-**30d:** +17.6%  
+**30d:** +17.7%  
 **90d:** -19.4%  
-**1y:** -50.4%  
+**1y:** -50.3%  
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The longer I'm in crypto the less I like the idea of relying on banks for everything. The biggest problem has never been self-custody it has been usability. If I can hold my own assets, why should I have to move them back into a bank account every time I want to buy something? I feel like the missing piece is a way to keep full control of my funds while still being able to spend them as easily as using a regular card. Maybe I'm asking for too much but this feels like the future I signed up for when I first got into crypto
 
-4d ago
+5d ago
 
 ---
 
@@ -150,23 +150,23 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[BlackRock clients sell $53M in Ethereum via iSh...](https://pluang.com/en/news-feed/klien-blackrock-jual-53juta-ethereum-melalui-etr-i-shares)**
+**[Ethereum ETFs attract $103.9M inflows as Bitcoi...](https://pluang.com/en/news-feed/arus-uang-wall-street-masuk-ethereum-etf-dan-keluar-hyperliquid)**
 
-Clients of BlackRock have sold approximately $52.76 million worth of Ethereum through the iShares Ethereum Trust, a spot ETF that provides institutional exposure to ETH. This sale indicates a significant outflow from a major institutional holder, which could influence market sentiment and Ethereum's price dynamics. Despite this, current market predictions show low odds of Ethereum dropping to $1,300 in July, suggesting limited immediate impact. Market watchers will be attentive to further large transactions from this ETF as they may reveal broader institutional trends and affect future pricing.
+Ethereum exchange-traded funds (ETFs) led crypto fund inflows last week with $103.9 million, marking a third consecutive week of strong demand. Bitcoin ETFs saw declining inflows, dropping to $33.79 million amid two days of significant outflows. Meanwhile, Hyperliquid ETFs experienced their second straight week of outflows, losing $8.6 million and seeing assets fall about 18% from a recent peak. This trend highlights steady interest in Ethereum ETFs while investors remain cautious about newer products like Hyperliquid. The coming weeks will reveal if Ethereum continues to dominate or if Bitcoin ETFs regain momentum.
 
-Pluang • 2h ago
+Pluang • 1h ago
 
 ---
 
-**[Wall Street Money is Flowing into Ethereum ETFs and Out of Hyperliquid](https://finance.yahoo.com/markets/crypto/articles/wall-street-money-flowing-ethereum-093646141.html)**
+**[U.S. spot Bitcoin and Ethereum ETFs see $310M n...](https://pluang.com/en/news-feed/etf-bitcoin-ethereum-aset-digital-keluar-institusional-melambat)**
 
-Ethereum and altcoin ETFs drew fresh cash last week while Bitcoin flows slowed and HYPE logged back-to-back outflows.
+On July 24, U.S. spot Bitcoin ETFs experienced $240 million in net outflows, while spot Ethereum ETFs saw $70.62 million withdrawn, ending Ethereum's five-day inflow streak. These combined withdrawals of over $310 million indicate a pause in recent institutional buying momentum despite ongoing long-term interest in both assets. The outflows highlight cautious sentiment among institutional investors ahead of key macroeconomic events and Federal Reserve policy decisions, with ETF flows remaining a critical gauge of institutional appetite for cryptocurrencies.
 
-Yahoo Finance • 1h ago
+Pluang • 23m ago
 
 ---
 
@@ -190,15 +190,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
-
----
-
-**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
-
-Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
-
-Seeking Alpha • 1d ago
+Fortune • 23h ago
 
 ---
 
@@ -210,11 +202,19 @@ TradingView • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
+**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
 
-Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
+Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Benzinga • 1d ago
+Seeking Alpha • 1d ago
+
+---
+
+**[Crypto Today: BTC, ETH, XRP steady as ETF flows diverge](https://www.fxstreet.com/news/crypto-today-bitcoin-ethereum-xrp-pare-losses-as-breakout-potential-builds-202607241100)**
+
+Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
+
+FXStreet • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ Benzinga • 1d ago
 
 Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
 
-CryptoSlate • 1h ago
+CryptoSlate • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 155 • 💬 39 • ⏱️ 18:08 • 18h ago
+👁️ 4K • 👍 155 • 💬 39 • ⏱️ 18:08 • 19h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 153 • 💬 43 • ⏱️ 7:27 • 18h ago
+👁️ 1K • 👍 153 • 💬 43 • ⏱️ 7:27 • 19h ago
 
 ---
 
@@ -296,7 +296,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 328 • 👍 41 • 💬 5 • ⏱️ 8:31 • 25m ago
+👁️ 328 • 👍 41 • 💬 5 • ⏱️ 8:31 • 1h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN DUMP: WARNING SIGNAL FOR THIS WEEKEND!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 245 • 💬 208 • ⏱️ 22:07 • 15h ago
+👁️ 5K • 👍 245 • 💬 208 • ⏱️ 22:07 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 7K • 👍 508 • 💬 12 • ⏱️ 13:08 • 12h ago
+👁️ 7K • 👍 508 • 💬 12 • ⏱️ 13:08 • 14h ago
 
 ---
 

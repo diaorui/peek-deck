@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-25T10:52:14.629962+00:00'
+updated: '2026-07-25T12:02:57.182754+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 10:52 UTC  
+**Last Updated:** July 25, 2026 at 12:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,985.26
+### $64,075.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -1.1%  
-**30d:** +6.5%  
-**90d:** -17.3%  
-**1y:** -45.7%  
+**24h:** -0.1%  
+**7d:** -1.0%  
+**30d:** +6.6%  
+**90d:** -17.2%  
+**1y:** -45.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1280.19B
+**Market Cap:** $1284.09B
 Rank #1
 
-**Circulating Supply:** 20,060,996 BTC
+**Circulating Supply:** 20,061,046 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.2%
 
 **All-Time Low:** $67.81
-+94007.1%
++94293.2%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 4h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 5h ago
 
 ---
 
 **[Trading bitcoin always ends badly. DCA & HODL is the name of the game.](https://www.reddit.com/r/Bitcoin/comments/1v5oqpr/trading_bitcoin_always_ends_badly_dca_hodl_is_the/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypte
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 For a long time, I thought Bitcoin was only about price—buy low, sell high, hope it goes to the moon. The more I learned, the more I realised that's actually the least interesting part. Bitcoin is the first form of money that no government, bank, or company controls. It's open 24/7, borderless, and anyone with an internet connection can participate. Whether you're sending value across the world or simply holding an asset with a fixed supply of 21 million coins, it's a fascinating experiment in financial freedom. Will it replace traditional money? Maybe, maybe not. Is it volatile? Absolutely. But the idea that money can exist without a central authority is one of the most revolutionary concepts of our time. Whether you're a Bitcoin believer or a sceptic, it's hard to deny that it has changed the conversation about money forever. What's the biggest thing Bitcoin has taught you? I'm genuinely curious to hear different perspectives.
 
-13h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ For a long time, I thought Bitcoin was only about price—buy low, sell high, ho
 
 I’m 14 Trying to find out if it’s worth it or not btws
 
-6h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’m 14 Trying to find out if it’s worth it or not btws
 
 After you submitted your Formal Complaint, how long did it take before you regained access to your funds or your withdrawal function was restored? Was it resolved within the 4-week complaint period, or did it take longer? I’m trying to understand what others have experienced after the formal complaint stage. Thank you guys
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ After you submitted your Formal Complaint, how long did it take before you regai
 
 I have a lightning wallet for spending and sending small amounts. I haven't used it in quite some time but today I have received multiple payments of a few sats a few $4 amounts, and even a $9 payment, in 24 hours. Is this something to be concerned with? Why am I receiving so many sats out of no where? I am going to just hold it for awhile before moving it but what is this all about?
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ I have a lightning wallet for spending and sending small amounts. I haven't used
 
 Newer to this and trying to understand the psychology before I'm tested by it. Everyone says "just hold" but I want to hear from people who were actually down bad at the worst point. Did you know it was the bottom, or did it just feel like it was going to zero like everyone said?
 
-15m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Newer to this and trying to understand the psychology before I'm tested by it. E
 
 I started buying £100 of BTC every week 3 months ago. I’m 53 so will work till I retire on my 68th birthday. What do you recon it will be worth.
 
-19h ago
+20h ago
 
 ---
 
@@ -151,7 +151,7 @@ I started buying £100 of BTC every week 3 months ago. I’m 53 so will work til
 
 These are based on my personal experience running a Bitcoin technology company, working with accountants in the EU and the US, and many conversations I had with businesses recently. Account blocks: This, of course, is the most common problem, especially for businesses. If you are making transfers to exchanges to buy or sell bitcoin, you can expect a series of questions from your banks, or, worse, they may suspect you of providing crypto exchange services for your clients and may block your account. This is a nightmare we as a bitcoin company were not spared with - we could not get an account on Revolut since we had bitcoin on our website and could not produce license documents. No way to communicate that we rely on our partners to provide services - of course, they won't spend time to read your terms and conditions or chat with you - they are too big to bother about small coffee shop owners or risky crypto apps. Accepting is just unclear. Businesses want to accept bitcoin and have a cleaner accounting trail- auto-offramp to Euro in some cases. But they are confronted with setting up a BTCPay instance or dropping an NWC string or a lightning address to a payment tool. Lightning address or NWC string is not as common as a bank's IBAN - still, they need to get one reliable Lightning setup. But a business wallet is not a WOS you spin up for your friend to have their first sat. It should support Lightning, have liquidity, support good statement exports, be able to plug into existing account tools, and be either self-custody or compliant. Even if you have an easy custodial wallet for your business, you are confronted with adding additional details to all the deposits from clients as part of the travel rule, which makes it a nightmare to accept bitcoin in a coffee shop for 10 euros. Accounting breaks Even if you manage to accept bitcoin, your account finds it incredibly hard to account for this, and also accounting for capital gains/loss comes with rate changes from the time of accepting and using this bitcoin. Obviously you'll be using tools that will either not give a great export that you could use or plug into accounting software. You'd need to hire crypto-expert accountants! Taxes You accept bitcoin - not sure about how this is treated from a tax perspective - if you auto-sell this incoming bitcoin to Euro - would the capital gain be 0 as you earned and instantly converted, or the first-in, first-out logic applied where you'd need to worry when you bought bitcoin to your wallet first time in ages. It is not the willingness to pay taxes; it is knowledge of how to declare capital gains that comes with the bitcoin payments compliantly. Business custody is not personal custody. When you have multiple operators in an organization or a bigger company who have access to funds to spend on materials and services, you'd need governance and access to the funds. Which gets way complicated with a self-custody wallet for business. Bitcoin works - a free network - so cheaper payments, instant settlements and global acceptability. All of these factors are a win for a business - but the banking, tooling, and process around it doesn't work. It does not make sense with all this friction. Working on something interesting - but would love to get your thoughts on above.
 
-19h ago
+20h ago
 
 ---
 
@@ -163,37 +163,23 @@ These are based on my personal experience running a Bitcoin technology company, 
 
 New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations](https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations)**
+**[Bitcoin Policy Institute, Palantir and Anduril join US State Department's Freedom Tech Excellence Program](https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program)**
 
-Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets.
+The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program.
 
-The Block • 1d ago
+The Block • 13h ago
 
 ---
 
-**[Bitcoin price today: falls below $64,000 as stablecoin inflows weaken](https://uk.finance.yahoo.com/news/bitcoin-price-today-falls-below-093809859.html)**
+**[Bitcoin price falls below $64,000 as stablecoin inflows weaken](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-falls-below-64-092743128.html)**
 
 Investing.com -- Bitcoin fell below $64,000 on Saturday, extending its decline as weakening stablecoin inflows pointed to subdued demand for cryptocurrency assets. The token traded near $63,919, down about 2.3% over 24 hours, according to Binance market data.
 
-Yahoo Finance UK • 1h ago
-
----
-
-**[1 Popular Cryptocurrency to Buy Before It Soars 1,125%, According to Cathie Wood's Ark Invest](https://finance.yahoo.com/markets/crypto/articles/1-popular-cryptocurrency-buy-soars-084800919.html)**
-
-The world's largest cryptocurrency has lost almost half its value over the past year.
-
 Yahoo Finance • 2h ago
-
----
-
-**[Quantum and Crypto Are on a Collision Course—and Wall Street Is Spending Millions to Stop It](https://www.barrons.com/articles/quantum-crypto-bitcoin-danger-f4d5c9f8)**
-
-Barron's • 13h ago
 
 ---
 
@@ -201,7 +187,13 @@ Barron's • 13h ago
 
 Plus, the Clarity Act is no longer expected to progress before the August recess. And Vlad Tenev's X was hacked to post a meme coin...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
+
+---
+
+**[Quantum and Crypto Are on a Collision Course—and Wall Street Is Spending Millions to Stop It](https://www.barrons.com/articles/quantum-crypto-bitcoin-danger-f4d5c9f8)**
+
+Barron's • 14h ago
 
 ---
 
@@ -223,7 +215,15 @@ Morningstar • 1d ago
 
 Investors were cashing out of Bitcoin ETFs this week — but Morgan Stanley's product received fresh cash.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
+
+---
+
+**[Current price of Bitcoin for July 24, 2026](https://fortune.com/article/current-price-of-bitcoin-for-july-24-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 16h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bitcoin Magazine • 12h ago
 
 New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
 
-Scripps News • 18h ago
+Scripps News • 20h ago
 
 ---
 
@@ -259,7 +259,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 2 • 💬 0 • 2h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 2 • 💬 0 • 3h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -267,7 +267,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 2 • 💬 0 • 9h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -299,7 +299,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -329,7 +329,7 @@ In this interview, Samson Mow shares his latest outlook on Bitcoin and explains 
 
 📺 Cointelegraph
 
-👁️ 10K • 👍 292 • 💬 102 • ⏱️ 20:40 • 21h ago
+👁️ 10K • 👍 292 • 💬 102 • ⏱️ 20:40 • 23h ago
 
 ---
 
@@ -339,7 +339,7 @@ Several high-profile Bitcoin treasury companies are struggling, but that doesn't
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 818 • 💬 136 • ⏱️ 27:04 • 12h ago
+👁️ 9K • 👍 818 • 💬 136 • ⏱️ 27:04 • 13h ago
 
 ---
 
@@ -349,7 +349,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 671 • 💬 191 • ⏱️ 46:59 • 20h ago
+👁️ 12K • 👍 671 • 💬 191 • ⏱️ 46:59 • 21h ago
 
 ---
 
@@ -359,7 +359,7 @@ Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now 
 
 📺 Gareth Soloway
 
-👁️ 30K • 👍 2K • 💬 148 • ⏱️ 10:40 • 17h ago
+👁️ 30K • 👍 2K • 💬 148 • ⏱️ 10:40 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 399 • 💬 27 • ⏱️ 2:00:18 • 18h ago
+👁️ 5K • 👍 399 • 💬 27 • ⏱️ 2:00:18 • 19h ago
 
 ---
 
@@ -409,7 +409,7 @@ BUY MY BOOK HERE: https://www.amazon.com/dp/B0H9YMJK5H FREE WEEKLY REPORT: ...
 
 📺 Crypto Tips
 
-👁️ 15K • 👍 888 • 💬 90 • ⏱️ 6:29 • 18h ago
+👁️ 15K • 👍 888 • 💬 90 • ⏱️ 6:29 • 20h ago
 
 ---
 
@@ -419,7 +419,7 @@ Let's talk about Bitcoin price and what to expect over the coming months. Come t
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 149 • ⏱️ 10:01 • 21h ago
+👁️ 52K • 👍 3K • 💬 149 • ⏱️ 10:01 • 22h ago
 
 ---
 
