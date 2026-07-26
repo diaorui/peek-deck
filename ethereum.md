@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-26T00:03:44.203962+00:00'
+updated: '2026-07-26T04:05:53.846724+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 00:03 UTC  
+**Last Updated:** July 26, 2026 at 04:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,874.81
+### $1,878.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -1.6%  
-**30d:** +19.1%  
-**90d:** -18.1%  
-**1y:** -51.6%  
+**24h:** +1.3%  
+**7d:** -1.1%  
+**30d:** +19.6%  
+**90d:** -17.7%  
+**1y:** -51.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.18B
+**Market Cap:** $226.89B
 Rank #2
 
-**Circulating Supply:** 120,682,685 ETH
+**Circulating Supply:** 120,682,665 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-62.0%
 
 **All-Time Low:** $0.43
-+432752.4%
++434122.0%
 
 ---
 
@@ -150,7 +150,15 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
 
-CryptoSlate • 14h ago
+CryptoSlate • 18h ago
+
+---
+
+**[Ethereum ETF outflows and rising exchange inflo...](https://pluang.com/en/news-feed/etf-ethereum-keluar-rp707miliar-blackrock-pimpin-penarikan)**
+
+Ethereum saw $70.7 million withdrawn from ETFs, led by BlackRock's $52.8 million outflow, interrupting prior inflows and raising concerns about institutional demand. Concurrently, a $5.92 million net inflow into exchanges indicated more ETH was available for trading, suggesting cautious investor behavior near resistance levels. Price rejection below $1,950 weakened bullish momentum, with $1,800 emerging as the next key support level. Market liquidity clusters suggest volatility ahead, with the next significant price move dependent on which side absorbs liquidity first.
+
+Pluang • 35m ago
 
 ---
 
@@ -170,19 +178,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
-
-A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
-
-TradingView • 2d ago
-
----
-
 **[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
 Seeking Alpha • 2d ago
+
+---
+
+**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
+
+A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
+
+TradingView • 2d ago
 
 ---
 
@@ -198,23 +206,15 @@ FXStreet • 1d ago
 
 BlackRock clients sold $53M in Ethereum via iShares ETF. Ethereum dip to $1,300 in July at 0.2% YES.
 
-Crypto Briefing • 16h ago
+Crypto Briefing • 20h ago
 
 ---
 
-**[What Is Gwei? Understanding Ethereum Gas Prices](https://financefeeds.com/what-is-gwei-understanding-ethereum-gas-prices/)**
+**[Ethereum ETFs Post $70.6M Outflow but Extend Weekly Inflow Streak](https://financefeeds.com/ethereum-etfs-post-70-6m-outflow-but-extend-weekly-inflow-streak/)**
 
-Gwei is Ethereum's smallest practical unit, used to price gas fees that determine transaction costs across the network and Layer 2 chains.
+Spot Ethereum ETFs saw $70.6M in Friday outflows but still closed the week +$103.9M, extending their inflow streak to three straight weeks in July.
 
-FinanceFeeds • 1d ago
-
----
-
-**[Ethereum Finally Pushes Past $1,900 as Traders Eye $2,100 Breakthrough Target](https://www.tipranks.com/news/ethereum-finally-pushes-past-1900-as-traders-eye-2100-breakthrough-target)**
-
-Ethereum’s price (ETH-USD) is moving up quickly after passing the $1,900 mark and hitting $1,950 for the first time in seven weeks. This sharp upward jump triggered...
-
-TipRanks • 3d ago
+FinanceFeeds • 11h ago
 
 ---
 
@@ -222,7 +222,7 @@ TipRanks • 3d ago
 
 Cardano founder Charles Hoskinson says the next phase of cryptocurrency adoption will be driven less by faster blockchains and more by safety, governance and consumer protections. Ethereum ‘Keeps Doing Things Wrong’ In an interview with CoinDesk on July 23, Hoskinson,...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -230,23 +230,33 @@ Yahoo Finance • 3h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN SQUEEZE: This Will Shock EVERYONE (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Tn4mhAv7T8o)**
-
-BITCOIN SQUEEZE: This Will Shock EVERYONE (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 175 • 💬 147 • ⏱️ 23:15 • 3h ago
-
----
-
 **[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=JujVzGOPrrc)**
 
 In this video I break down the current Ethereum price action and why the recent rally remains within the context of a larger bearish ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 7 • ⏱️ 7:13 • 9h ago
+👁️ 3K • 👍 144 • 💬 7 • ⏱️ 7:13 • 13h ago
+
+---
+
+**[BITCOIN SQUEEZE: This Will Shock EVERYONE (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Tn4mhAv7T8o)**
+
+BITCOIN SQUEEZE: This Will Shock EVERYONE (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 268 • 💬 162 • ⏱️ 23:15 • 7h ago
+
+---
+
+**[They Did This In Three Days You Will NOT Believe This Is HISTORIC For Ethereum &amp; Bitcoin](https://www.youtube.com/watch?v=ROukcv1SmTE)**
+
+Its that time of the crypto market cycle again. The price predictions we've been getting over the last few weeks have been intense ...
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 590 • 💬 371 • ⏱️ 31:00 • 19h ago
 
 ---
 
@@ -256,17 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 185 • 💬 69 • ⏱️ 18:08 • 1d ago
-
----
-
-**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
-
-My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
-
-📺 Satoshi Stacker
-
-👁️ 5K • 👍 268 • 💬 15 • ⏱️ 8:31 • 13h ago
+👁️ 5K • 👍 191 • 💬 69 • ⏱️ 18:08 • 1d ago
 
 ---
 
@@ -276,17 +276,37 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 549 • 💬 254 • ⏱️ 16:34 • 1d ago
+👁️ 11K • 👍 551 • 💬 255 • ⏱️ 16:34 • 2d ago
 
 ---
 
-**[BITCOIN Y ETHEREUM: POR QUÉ DUDAS AHORA? Análisis Técnico Semanal](https://www.youtube.com/watch?v=Tt3WdMVx5wI)**
+**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
 
-Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Telegram https://t.me/infoVIPcalls BITLOBO ...
+My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
 
-📺 BITLOBO TRADING
+📺 Satoshi Stacker
 
-👁️ 3K • 👍 707 • 💬 42 • ⏱️ 2:07:29 • 4h ago
+👁️ 5K • 👍 270 • 💬 15 • ⏱️ 8:31 • 17h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ZdbUEuTCn04)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 114 • 👍 23 • ⏱️ 8:05 • 31m ago
+
+---
+
+**[AI Just Found a Critical Bug in Ethereum!](https://www.youtube.com/watch?v=qy8wGDpDFI0)**
+
+Ethereum ETH News Update: AI has discovered a real security vulnerability in Ethereum's validator software. In this video, we ...
+
+📺 Linda CryptoFly
+
+👁️ 2K • 👍 186 • 💬 44 • ⏱️ 7:27 • 1d ago
 
 ---
 
@@ -300,33 +320,13 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 ---
 
-**[AI Just Found a Critical Bug in Ethereum!](https://www.youtube.com/watch?v=qy8wGDpDFI0)**
+**[BITCOIN Y ETHEREUM: POR QUÉ DUDAS AHORA? Análisis Técnico Semanal](https://www.youtube.com/watch?v=Tt3WdMVx5wI)**
 
-Ethereum ETH News Update: AI has discovered a real security vulnerability in Ethereum's validator software. In this video, we ...
+Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Telegram https://t.me/infoVIPcalls BITLOBO ...
 
-📺 Linda CryptoFly
+📺 BITLOBO TRADING
 
-👁️ 2K • 👍 184 • 💬 44 • ⏱️ 7:27 • 1d ago
-
----
-
-**[BALEIAS ESTÃO SHORTANDO BITCOIN E ETHEREUM: O QUE ELAS SABEM?](https://www.youtube.com/watch?v=utRYblKlbtE)**
-
-Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto boa parte do varejo já acredita em uma ...
-
-📺 Augusto Backes
-
-👁️ 10K • 👍 711 • 💬 25 • ⏱️ 13:08 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=onvGJtvsfpY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 461 • 👍 40 • ⏱️ 5:44 • 8h ago
+👁️ 3K • 👍 733 • 💬 4 • ⏱️ 2:07:29 • 8h ago
 
 ---
 

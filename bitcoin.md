@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-26T00:03:44.197932+00:00'
+updated: '2026-07-26T04:05:53.840657+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 00:03 UTC  
+**Last Updated:** July 26, 2026 at 04:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,33 +44,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -1.4%  
-**30d:** +7.2%  
-**90d:** -15.7%  
-**1y:** -46.1%  
+**24h:** +0.8%  
+**7d:** -1.1%  
+**30d:** +7.5%  
+**90d:** -15.4%  
+**1y:** -45.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1290.30B
+**Market Cap:** $1293.38B
 Rank #1
 
-**Circulating Supply:** 20,061,281 BTC
+**Circulating Supply:** 20,061,353 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-48.9%
 
 **All-Time Low:** $67.81
-+94753.3%
++94975.9%
 
 ---
 
 ## Fear & Greed Index
 
-### 27
+### 26
 **FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I am so proud! As of today, I now own 0.1 BTC with a average prive of 68,527.36 €. I started in September 2025, was there for the ATH and the fall afterwards. My next goal are 0.2 BTC ☺️ Just wanted to share that with someone!
 
-12h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am so proud! As of today, I now own 0.1 BTC with a average prive of 68,527.36 
 
 How many people have at least 0.1 BTC out of the total number of Bitcoin holders?
 
-4h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ How many people have at least 0.1 BTC out of the total number of Bitcoin holders
 
 Newer to this and trying to understand the psychology before I'm tested by it. Everyone says "just hold" but I want to hear from people who were actually down bad at the worst point. Did you know it was the bottom, or did it just feel like it was going to zero like everyone said?
 
-13h ago
+17h ago
 
 ---
 
@@ -105,7 +105,7 @@ Newer to this and trying to understand the psychology before I'm tested by it. E
 
 The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 17h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 21h ago
 
 ---
 
@@ -113,7 +113,7 @@ The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypte
 
 How much of your savings are you keeping in BTC? Are waiting for the price to drop before you by BTC?
 
-13h ago
+17h ago
 
 ---
 
@@ -121,7 +121,7 @@ How much of your savings are you keeping in BTC? Are waiting for the price to dr
 
 Have you ever done fourier analysis on any BTC metric? If you do, have you found something interesting? Do you think is not worth it? Why?
 
-5h ago
+9h ago
 
 ---
 
@@ -129,7 +129,7 @@ Have you ever done fourier analysis on any BTC metric? If you do, have you found
 
 With the assumption that Republicans are highly unlikely to change the bill to leave room for future prosecution of POTUS via State AGs (a core Democrat demand); the only way forward for this current version seems to be Republicans to hold both chambers. What alternative version might be introduced in the 2027-2028 Congress that can get passed and signed by Trump in the next two years? Will Democrats continue to assert prosecution rights forever or is there a compromise Democrats are willing to accept that could still protect Trump from potential prosecution?
 
-5h ago
+9h ago
 
 ---
 
@@ -143,7 +143,7 @@ With the assumption that Republicans are highly unlikely to change the bill to l
 
 Hi all, I am looking to buy BTC p2p, but before I do, is there a way in which I can check if the coins I purchase in advance are tainted? Is there a website or something this can be verified on? I want to check this to avoid any problems in utilising the coin/s once purchased. Thanks
 
-9h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ Hi all, I am looking to buy BTC p2p, but before I do, is there a way in which I 
 
 Is this against your firm's rules? Did your firm make you sell your shares? Just curious because I'm thinking about applying to a financial rep role (Series 7), but I'm down 50% on portfolio holdings of 100% FBTC. I wonder if this concentrated holding is allowed at most firms? I also hold BTC in actual cold storage. Am I blocked from even applying since this isn't what most representatives should hold?
 
-9h ago
+13h ago
 
 ---
 
@@ -159,19 +159,25 @@ Is this against your firm's rules? Did your firm make you sell your shares? Just
 
 ## Google News: "bitcoin"
 
-**[Crypto Trader Sells $2.5M In Ferraris To Buy More Bitcoin](https://www.benzinga.com/crypto/cryptocurrency/26/07/60685348/crypto-trader-sells-2-5m-in-ferraris-to-buy-more-bitcoin)**
-
-Trader Carl Runefelt sold $2.5 million in Ferraris to increase his BTC exposure based on 200-week moving average price analysis. He views current dip as rare accumulation opportunity.
-
-Benzinga • 4h ago
-
----
-
 **[Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again](https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again)**
 
 Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.
 
-The Block • 10h ago
+The Block • 14h ago
+
+---
+
+**[Bitcoin Price Drops as ETF Outflows Resume Amid CLARITY Act Woes](https://www.benzinga.com/crypto/26/07/60685290/bitcoin-price-drops-as-etf-outflows-resume-amid-clarity-act-woes)**
+
+Bitcoin price dropped after hitting a key resistance level as BTC ETF outflows continue and as CLARITY odds drop
+
+Benzinga • 9h ago
+
+---
+
+**[Bitcoin, Ethereum Edge Higher Despite Midweek Rally Losing Steam](https://www.moomoo.com/news/post/73532282/bitcoin-ethereum-edge-higher-despite-midweek-rally-losing-steam)**
+
+Moomoo • 1h ago
 
 ---
 
@@ -179,15 +185,15 @@ The Block • 10h ago
 
 There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.
 
-CNBC • 10h ago
+CNBC • 14h ago
 
 ---
 
-**[Bitcoin Just Hit a 30-Day High Above $65,000. Where Does BTC Go From Here?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-hit-30-day-043700064.html)**
+**[Is Bitcoin Still a Millionaire Maker?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-still-millionaire-maker-025000224.html)**
 
-Since the start of July, the world's most valuable cryptocurrency has risen 11%.
+Bitcoin has upside, but it's time to revisit where the ceiling might be.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -217,7 +223,7 @@ Bitcoin Magazine • 1d ago
 
 Apple is facing a new lawsuit from three customers who allegedly lost a combined $1.8 million after falling victim to a fake Bitcoin wallet app in the App Store, according to a complaint filed in California federal court on Friday.
 
-MacRumors • 5h ago
+MacRumors • 9h ago
 
 ---
 
@@ -226,14 +232,6 @@ MacRumors • 5h ago
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
 Fortune • 1d ago
-
----
-
-**[MARA CEO Says Bitcoin's Payments Use Case Has 'Seen Its Day Go By' As Miners Chase AI Money](https://www.tradingview.com/news/stocktwits:f923cf195094b:0-mara-ceo-says-bitcoin-s-payments-use-case-has-seen-its-day-go-by-as-miners-chase-ai-money/)**
-
-Fred Thiel, chairman and CEO of MARA Holdings (MARA), the largest public Bitcoin (BTC) miner, said Bitcoin's use as a medium of exchange has "seen its day go by," adding the commercial transaction layer for AI and everyday payments will be built on stablecoins, not Bitcoin.Thiel told Natalie Brunel…
-
-TradingView • 7h ago
 
 ---
 
@@ -253,7 +251,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 4 • 💬 0 • 15h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 5 • 💬 0 • 19h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -261,7 +259,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -277,7 +275,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 2 • 💬 0 • 14h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 2 • 💬 0 • 18h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -315,7 +313,7 @@ Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. 
 
 **[Programmer Government](https://news.ycombinator.com/item?id=49052385)**
 
-⬆️ 1 • 💬 3 • 1h ago
+⬆️ 2 • 💬 3 • 5h ago
 
 ---
 
@@ -329,7 +327,7 @@ Several high-profile Bitcoin treasury companies are struggling, but that doesn't
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 252 • ⏱️ 27:04 • 1d ago
+👁️ 15K • 👍 1K • 💬 267 • ⏱️ 27:04 • 1d ago
 
 ---
 
@@ -339,7 +337,7 @@ Jordi Visser is a veteran macro investor with 30+ years of experience and the au
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 2K • 💬 51 • ⏱️ 53:31 • 11h ago
+👁️ 42K • 👍 2K • 💬 57 • ⏱️ 53:31 • 15h ago
 
 ---
 
@@ -349,7 +347,7 @@ In this interview, Samson Mow shares his latest outlook on Bitcoin and explains 
 
 📺 Cointelegraph
 
-👁️ 12K • 👍 340 • 💬 114 • ⏱️ 20:40 • 1d ago
+👁️ 13K • 👍 348 • 💬 111 • ⏱️ 20:40 • 1d ago
 
 ---
 
@@ -359,7 +357,17 @@ While Washington debates the Clarity Act, the rest of the world is moving. Russi
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 426 • 💬 116 • ⏱️ 15:36 • 7h ago
+👁️ 5K • 👍 519 • 💬 142 • ⏱️ 15:36 • 11h ago
+
+---
+
+**[&quot;Prepare for the BIGGEST CRASH EVER... Only Bitcoin Survives This&quot; | Jack Mallers WARNING](https://www.youtube.com/watch?v=kVqlCYuP-i4)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 174 • 💬 31 • ⏱️ 17:12 • 8h ago
 
 ---
 
@@ -369,17 +377,7 @@ Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now 
 
 📺 Gareth Soloway
 
-👁️ 37K • 👍 2K • 💬 216 • ⏱️ 10:40 • 1d ago
-
----
-
-**[Bitcoin&#39;s Second Civil War Has Begun! Did Wall Street Just Pick Its Weapon?](https://www.youtube.com/watch?v=imHhZ2O_uRc)**
-
-Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots and BIP-110 collide over spam, consensus and ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 513 • ⏱️ 20:33 • 2d ago
+👁️ 38K • 👍 2K • 💬 237 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -389,17 +387,27 @@ Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitte
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 226 • ⏱️ 12:09 • 1d ago
+👁️ 45K • 👍 2K • 💬 226 • ⏱️ 12:09 • 2d ago
 
 ---
 
-**[🚨 Every Bitcoin Bottom Looked EXACTLY Like This](https://www.youtube.com/watch?v=AkkzFvN4Kbw)**
+**[Bitcoin&#39;s Second Civil War Has Begun! Did Wall Street Just Pick Its Weapon?](https://www.youtube.com/watch?v=imHhZ2O_uRc)**
 
-Four of Bitcoin's six historic bottom signals just fired. BitMEX is closing after 11 years. Satsuma just liquidated 668 BTC. Twenty ...
+Bitcoin may be heading toward a second civil war. As Bitcoin Core, Bitcoin Knots and BIP-110 collide over spam, consensus and ...
 
-📺 Kyle Chasse crypto
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 253 • 💬 65 • ⏱️ 20:53 • 1d ago
+👁️ 24K • 👍 2K • 💬 506 • ⏱️ 20:33 • 2d ago
+
+---
+
+**[Kevin O&#39;Leary Explains Why Bitcoin is CRASHING](https://www.youtube.com/watch?v=kA_Rbsq3AAA)**
+
+Alpha Membership: https://MeetKevin.com ReinvestAI: https://Reinvest.co/ Reinvest App in Apple Store: ...
+
+📺 Meet Kevin
+
+👁️ 15K • 👍 144 • 💬 3 • ⏱️ 0:30 • 1d ago
 
 ---
 
@@ -409,17 +417,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 196 • 💬 33 • ⏱️ 15:57 • 1d ago
-
----
-
-**[Can Customs Seize Your Bitcoin at the Border?](https://www.youtube.com/watch?v=PFIeIEsusag)**
-
-Can customs seize your Bitcoin? Do you have to declare your crypto when traveling internationally? Can border agents force you ...
-
-📺 The CryptoDad
-
-👁️ 18K • 👍 818 • 💬 212 • ⏱️ 9:43 • 1d ago
+👁️ 5K • 👍 202 • 💬 36 • ⏱️ 15:57 • 1d ago
 
 ---
 
