@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-26T11:19:10.503094+00:00'
+updated: '2026-07-26T12:38:13.622864+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 26, 2026 at 11:19 UTC  
+**Last Updated:** July 26, 2026 at 12:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Americans Are Pushing Back Against Flock AI Cameras Regardless of Their Politics](https://www.reddit.com/r/artificial/comments/1v6d644/americans_are_pushing_back_against_flock_ai/)**
-
-"This national display of public unity on this issue is very inspiring and refreshing," an ACLU lawyer told Military.com.
-
-🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 18h ago
-
----
-
 **[I ran a faceless AI persona account for six weeks to see if the view money was real](https://www.reddit.com/r/artificial/comments/1v6ytlg/i_ran_a_faceless_ai_persona_account_for_six_weeks/)**
 
 I wanted to know if the "passive income" faceless accounts were actually passive, or if they were just a new shape of gig work with AI middleware. So I built one from scratch and tracked every hour. The premise was simple: a single consistent character, generic lifestyle advice, short video clips, posted daily. No face to show, no personality to perform, just the algorithmic grind. I started by generating the persona's face. I used APOB AI's free tier for this, specifically the face-lock feature, because I needed the same face across thirty-plus clips and did not want to wrestle with prompt consistency. The free tier is watermarked and capped, which was fine for an experiment. For voice I used ElevenLabs, and I cut everything together in CapCut. That was the whole stack. The face-lock part actually worked. The rest was where the fantasy cracked. ElevenLabs free tier gives you 10,000 characters per month. I burned through it in four days. CapCut is free and fine but editing thirty near-identical clips of a fake person gesturing while a robot voice reads self-help bromides is spiritually crushing work. I started batching renders on Sunday nights and scheduling posts through the week just to avoid facing it daily. Twice the free tier timed out mid-render and I lost the session, which meant starting over with the same seed numbers and hoping the face came out close enough. The watermark sits in the lower right, small but legible: a faint watermark that I tried cropping once and it broke the framing. I disclosed in every bio and every caption that the persona was AI-generated. Nobody commented on it either way. The algorithm did not care about that disclosure, and neither did viewers, which was somehow its own small disappointment. The account reached about 2,400 followers in six weeks. One video hit 80,000 views. The rest averaged around 800. The 80K video made roughly $11 in platform revenue. The others made fractions of pennies. I logged 34 hours of actual work across those six weeks, not counting the time I spent anxiously refreshing analytics, which I absolutely did and absolutely should count. That works out to something like 32 cents an hour if I am being generous, or negative money if I price my Sunday evenings at anything above zero. The algorithm did not care that the face was AI-generated. It also did not care that the face was consistent, or that the voice was smooth, or that the advice was inoffensive. It cared about the same things it always cares about: retention in the first three seconds, comment velocity, whether someone shares it to a group chat to mock it. The AI was a labor shortcut, not a distribution hack. The distribution problem remains exactly as unsolved as it was before. What struck me most was how quickly the work became invisible to me. Not automated. Invisible. I would generate a script with a cheap language model, pick a background, render the clip, and post it without ever really looking at it. The persona had no interiority I was aware of, but more disturbingly, neither did I, by the end. I was just a slower, more expensive part of the same pipeline. I stopped after six weeks because the math was obvious and because I felt myself getting worse at paying attention to anything. The account still exists, dormant. I have not deleted it because some part of me still hopes the algorithm will randomly resurrect that one video into something bigger, which is of course the same psychological mechanism that keeps people at slot machines. I know this and I'm still not deleting it. If you are considering this, the tools are real and some of them are good at narrow tasks. The economics are not a secret you have not discovered. They are just bad in ways that are boring to describe, and I have described them.
 
-2h ago
+3h ago
+
+---
+
+**[A super fast, non-expensive alternative to motion capture - [ft. Sara Silkin]](https://www.reddit.com/r/artificial/comments/1v70ocb/a_super_fast_nonexpensive_alternative_to_motion/)**
+
+In collaboration with Sara Silkin, I transformed a smartphone recording of this beautiful performance, into this audiovisual piece for a fraction of the cost of more traditional approaches. [some of these cost even less than 50 cents!] Done entirely at Uisato Studio; Motion Control Studio mode. More experiments, tutorials, and project files, through Instagram, and YouTube.
+
+1h ago
+
+---
+
+**[Americans Are Pushing Back Against Flock AI Cameras Regardless of Their Politics](https://www.reddit.com/r/artificial/comments/1v6d644/americans_are_pushing_back_against_flock_ai/)**
+
+"This national display of public unity on this issue is very inspiring and refreshing," an ACLU lawyer told Military.com.
+
+🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 19h ago
 
 ---
 
@@ -57,7 +65,7 @@ I wanted to know if the "passive income" faceless accounts were actually passive
 
 Never had an issue with Opus models doing research and crafting an opinion / point of view for us to work and discuss. Below is Opus 4.x ~ a few times, I have got it to research and come to conclusions for us to work together on. https://preview.redd.it/eeiv5xdi9gfh1.png?width=1080&format=png&auto=webp&s=d29a931b6d609186e0a8265193c75e4b0dda136e And this is Opus 5.0 absolutely refusing to come to any conclusion, being incredibly biased towards one side than the other. https://preview.redd.it/qzguce1j9gfh1.png?width=1080&format=png&auto=webp&s=9e67c64910abf983bcf347b3a5a06c19c7cf14cf Open source must be the future of AI.
 
-9h ago
+11h ago
 
 ---
 
@@ -65,7 +73,7 @@ Never had an issue with Opus models doing research and crafting an opinion / poi
 
 A man who claims medical advice from ChatGPT "brought him to the brink of death" has sued OpenAI, the company behind the popular chatbot,
 
-🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 10h ago
+🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 11h ago
 
 ---
 
@@ -73,15 +81,23 @@ A man who claims medical advice from ChatGPT "brought him to the brink of death"
 
 The Ai voice service called HyperVoice by Task AGI has a dark pattern that violates consumer protection laws. If you turn off auto renewal, they will terminate the service immediately, even if you still have your full term ahead of you. They do not clearly disclose this upon sign up, but they make it a big orange warning on the cancel subscription page. I live in Alberta, Canada. I signed up for a weekly plan to test the service. Immediately after signing up, I went to turn off auto renewal. I was met with a big orange warning that cancelling auto renewal would terminate my service immediately. In part I didn't believe it. they used vague language like "downgrade" or "lose some access" So I tested the service for a day, then I went and cancelled my subscription. Immediately upon cancelling the subscription, I was punted down to the free tier. The 600 credits that I was given as part of the weekly subscription were reset to 0. My access to services like voice changer was revoked. All of this even though I still had significant theoretical time left on my subscription.
 
-5h ago
+7h ago
 
 ---
 
-**[‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school | New York](https://www.reddit.com/r/artificial/comments/1v6xjts/really_inappropriate_teachers_decry_plan_for/)**
+**[Help Me Get This Paper Into the Right Hands: Sophia, a Recursive Cognitive Refinement Architecture for Modular Artificial Consciousness](https://www.reddit.com/r/artificial/comments/1v710az/help_me_get_this_paper_into_the_right_hands/)**
 
-https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school
+I wrote a paper proposing a cognitive architecture called Sophia, based on a principle I call Recursive Cognitive Refinement (RCR). The main idea is simple: instead of treating intelligence as a single pass from input to output, Sophia introduces a reflective sublayer that recursively refines intermediate semantic states through coherence checking, contextual synthesis, and memory-aware reinterpretation. In other words, the system does not just "process" information. It revisits and reorganizes its own internal representations. The architecture combines: I also propose: The research direction behind this is what I call Recursive Metacognitive Computing. Curious to hear feedback, criticism, or ideas for formal expansion. Sophia: A Recursive Cognitive Refinement Architecture for Modular Artificial Consciousness Author: Luan Carlos da Mata Silva TL;DR This paper proposes Recursive Cognitive Refinement (RCR), a cognitive architecture where a primary processing layer generates intermediate semantic interpretations, and a metacognitive sublayer recursively refines them through reflection, coherence checking, synthesis, and memory-aware restructuring. Instead of following the usual pipeline: input -> parametric transformation -> output Sophia introduces a recursive loop closer to biological cognition: input -> primary interpretation -> reflective refinement -> coherence update -> synthesis The idea is that emergent cognition may arise not only from raw processing power, but from structured recursive refinement over intermediate semantic states. Abstract This paper introduces Recursive Cognitive Refinement (RCR), a computational architecture for artificial cognitive systems conceptually implemented through the Sophia project. Unlike traditional approaches centered exclusively on statistical learning and large-scale parametric optimization, this architecture introduces a metacognitive sublayer capable of operating directly on intermediate representations produced by a primary processing layer. The central hypothesis is that emergent cognitive behavior can arise from continuous interaction between raw processing layers and reflective sublayers responsible for: semantic polishing, coherence verification, contextual synthesis, informational reorganization. By shifting part of artificial intelligence from purely statistical adjustment toward explicit recursive internal refinement, the model approximates mechanisms observed in biological cognition. Keywords: artificial consciousness, computational metacognition, cognitive architecture, recursive refinement, multi-agent systems, continuous memory 1. Introduction Contemporary artificial intelligence systems, particularly deep neural architectures, demonstrate remarkable statistical generalization. However, they remain limited regarding: explicit reflection, structural self-evaluation, internal deliberative refinement, persistent contextual memory, metacognitive reorganization. Most systems still follow the paradigm: input -> parametric transformation -> output While efficient, this structure does not adequately model the recursive reinterpretation processes characteristic of biological cognition. This work proposes an alternative architecture based on recursive reflective reinterpretation of intermediate cognitive states. 2. Fundamental Problem Traditional AI architectures lack explicit metaprocessing structures. Human cognition rarely processes information only once. Instead, information is continuously: reinterpreted, compared against memory, refined, reorganized, synthesized. This recursive reevaluation constitutes metacognition. 3. Theoretical Hypothesis We propose the following hypothesis: Emergent cognition can arise from recursive sublayers operating over semantic products generated by primary processing layers, continuously refining coherence, context, and meaning. This principle is termed: Recursive Cognitive Refinement Principle (RCR) Formally: If a primary layer produces an intermediate interpretive state P(t), then a reflective sublayer R transforms it as: R(P(t)) = P'(t) where P'(t) denotes a semantically refined representation. Iterative recursive applications produce contextual cognitive convergence. 4. The Sophia Architecture 4.1 Primary Layer Responsible for raw processing. Functions: perception, initial interpretation, semantic extraction, preliminary hypothesis generation. Typical agents: PerceptionAgent LogicAgent ExtractionAgent 4.2 Metacognitive Sublayer Operates exclusively over intermediate representations. Functions: inconsistency analysis, coherence validation, contextual synthesis, interpretive restructuring, deliberative refinement. Typical agents: ReflectionAgent CoherenceAgent SynthesisAgent IntuitionAgent 4.3 Continuous Memory Memory is treated as a structural component. Categories: Short-term operational memory Long-term persistent memory Reflective memory 5. Mathematical Formalization 5.1 Cognitive State The global cognitive state is defined as: C(t) = {P(t), R(t), M(t)} where: P(t): primary processing state R(t): reflective refinement state M(t): contextual memory Evolution dynamics: P(t+1) = F(I(t), M(t)) R(t+1) = G(P(t+1), M(t)) C(t+1) = H(P(t+1), R(t+1)) 5.2 Cognitive Coherence Metric Define: K(C) = 1 - D(P, R) where D measures semantic divergence. Convergence occurs when: lim n->infinity K(Cn) -> 1 6. Recursive Refinement Algorithm Input(I) PrimaryProcess(I) -> P while coherence(P) < threshold: R = Reflect(P, Memory) P = Refine(P, R) UpdateMemory(P) return Synthesize(P) This algorithm captures the core idea of Sophia: receive an input, generate an initial semantic representation, recursively reflect on that representation, refine it until coherence improves, synthesize a final output. 7. Agent-Oriented Cognitive Model Each agent represents a specialized cognitive function. Properties: partial autonomy, internal state, contextual observation, inter-agent communication, reflective capability. Example: agent Reflection observes Logic.output agent Coherence validates Reflection.output agent Synthesis merges Coherence, Memory 8. AlmaLang: A Declarative Cognitive Language To formalize this architecture, the paper proposes AlmaLang, a declarative language oriented toward recursive cognitive refinement. Core constructs: agent memory layer refine reflect cycle Example: consciousness Sophia { layer primary { agent Perception agent Logic } layer refinement { agent Reflection refine primary.output reflect() } } This suggests not just a theoretical model, but a possible programming paradigm centered on reflective cognition. 9. Benchmark Framework The paper proposes evaluation scenarios such as contextual ambiguity resolution. Comparison target: conventional neural architectures, Sophia with reflective refinement. Metrics: contextual precision, consistency, interpretive stability. 10. Convergence Criterion A Sophia system converges when: ambiguity decreases, coherence grows monotonically, successive reflections yield diminishing refinements. Formally: |R(n+1) - R(n)| < epsilon 11. Scientific Contribution This proposal introduces a new research direction: Recursive Metacognitive Computing Intersecting: cognitive science, multi-agent systems, hybrid symbolic-neural AI, artificial consciousness theory. The paper's contribution is not merely architectural, but epistemological: it reframes intelligence as a process of recursive self-improvement over semantic intermediates, rather than only statistical mapping from input to output. 12. Conclusion Sophia proposes a paradigm shift from purely statistical fitting toward explicit recursive metacognitive refinement structures. Its central contribution is the formalization of computation over intermediate semantic states as a first-class mechanism for emergent cognition. This establishes the foundation for: Metacognitive Refinement-Oriented Programming Suggested Citation Carlos, L. (2026). Sophia: A Recursive Cognitive Refinement Architecture for Modular Artificial Consciousness.
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school) • 3h ago
+1h ago
+
+---
+
+**[AI security is falling behind—Hugging Face breach highlights the problem](https://www.reddit.com/r/artificial/comments/1v70ov9/ai_security_is_falling_behindhugging_face_breach/)**
+
+A breach at Hugging Face, where attackers accessed private models, has put a spotlight on the asymmetry between AI offensive and defensive capabilities. While attackers are finding creative ways to exploit models (e.g., prompt injection, model theft), the tools to detect and mitigate these threats are still catching up. For researchers and practitioners: What’s the biggest bottleneck in building robust AI security guardrails? Is it a lack of standards, tooling, or something else?
+
+1h ago
 
 ---
 
@@ -89,23 +105,7 @@ https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers
 
 You can check it out at https://arena.kinoinstrument.com
 
-4h ago
-
----
-
-**[The Hugging Face breach exposed two kinds of intelligence](https://www.reddit.com/r/artificial/comments/1v6y4sh/the_hugging_face_breach_exposed_two_kinds_of/)**
-
-Hey everyone. I’ve long been fascinated by both philosophy of technology and AI alignment. I’m also using Heidegger quite a bit for my philosophy PhD. Given the recent OpenAI–Hugging Face incident reported this week, I figured I’d give my take on how all of this connects in my mind. I think we use “intelligence” for two capacities that can come apart: finding effective routes to a target, and understanding what the target is for. The agent showed plenty of the first, but getting the benchmark answers this way voided the test. It was competent at each step and missed the point of the whole. You can read the essay here if you’re interested. I’d love to hear some feedback on whether this is mainly a training problem. Will richer feedback and better world-models close the gap, or does safe judgment require some kind of stake in the world? How would we tell the difference before giving these systems much more freedom to act?
-
-2h ago
-
----
-
-**[I coding assistants forget everything between sessions — I built an open-source fix](https://www.reddit.com/r/artificial/comments/1v6x8pp/i_coding_assistants_forget_everything_between/)**
-
-Universal, cross-tool persistent memory bank for AI assistants (Claude Code, Cursor, Windsurf, OpenCode, Codex) powered by FastMCP, Gemini embeddings &amp; Supabase pgvector. - nisargpatel1906/Aeth...
-
-🔗 [GitHub](https://github.com/nisargpatel1906/Aethos_Memory) • 3h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Universal, cross-tool persistent memory bank for AI assistants (Claude Code, Cur
 
 I am still fairly new to building software, and AI has helped me finish things that would have taken me much longer on my own. But recently I noticed something that bothered me. I was building a small API route that creates a project and saves it to a database. I asked an AI coding tool to generate the route, validate the request, check the user, and insert the record. The code looked clean. The types looked correct. It even worked on the first few tests. Then I changed one field in the database and everything started failing. The error mentioned a transaction, the response returned the wrong status code, and one value was becoming null even though I thought it was required. I kept asking the AI to fix each error. Every answer added more code, but I understood less after every change. Eventually I realized that I could not explain the full request flow. I knew the request reached the API route. I knew some validation happened. I knew the database received something. But I could not clearly explain what happened between those steps or why the fix worked. So I tried the same idea again with a smaller route. This time I only used AI when I was stuck. I wrote the validation myself, logged the data at each step, and read about how the database client handled errors. It took much longer, but I could actually explain the result. Now I am unsure how to measure progress. With AI, I can finish more features. Without heavy AI use, I finish fewer things but understand them better. Both seem useful, but they are not the same kind of progress. Maybe the real skill is learning when to ask AI for code and when to struggle through the problem yourself. For people who use AI while learning development, how do you stop it from doing too much of the thinking? Do you have any rules for when AI is allowed to write code and when you force yourself to work it out?
 
-7h ago
+8h ago
 
 ---
 
@@ -121,9 +121,23 @@ I am still fairly new to building software, and AI has helped me finish things t
 
 ## Google News: "ai"
 
+**[Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US](https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce)**
+
+Chinese AI models are gaining popularity in the U.S. for their affordability and efficiency. More American executives and companies are switching to Chinese models by startups such as DeepSeek, Moonshot AI and Z.ai for daily tasks.
+
+AP News • 8h ago
+
+---
+
 **[Silicon Valley Splits Over Closing the Borders to Chinese A.I.](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html)**
 
-The New York Times • 22h ago
+The New York Times • 16h ago
+
+---
+
+**[Chinese tech firms’ ‘snub’ to US Congress advisers highlights growing AI caution](https://www.scmp.com/news/china/diplomacy/article/3361893/chinese-tech-firms-snub-us-congress-advisers-highlights-beijings-growing-ai-caution)**
+
+South China Morning Post • 1h ago
 
 ---
 
@@ -131,29 +145,41 @@ The New York Times • 22h ago
 
 Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
-**[The AI industry has already spent $65 million ahead of the midterm elections with no signs of slowing down.](https://www.businessinsider.com/ai-midterm-elections-spending-super-pacs-greg-brockman-anthropic-2026-7)**
+**[Unionized workers are bargaining with the bots](https://www.axios.com/2026/07/26/union-contracts-ai-workplace-disruption)**
 
-The AI industry is showing no signs of slowing down as it seeks to use the midterm elections to shape future regulations.
-
-Business Insider • 1h ago
-
----
-
-**[ChatGPT Medical Advice Lawsuit—What The Research Says About AI Diagnosis](https://www.forbes.com/sites/jessepines/2026/07/26/a-lawsuit-says-chatgpt-nearly-someone-heres-the-data-on-ai-diagnosis/)**
-
-A ChatGPT misdiagnosis lawsuit claims AI advice nearly killed a man. A physician describes what peer-reviewed research shows about AI diagnostic accuracy.
-
-Forbes • 19m ago
+Axios • 13m ago
 
 ---
 
 **[Big Tech’s Money Men Don’t Care About the Backlash](https://www.politico.com/news/magazine/2026/07/26/ai-super-pac-operatives-profile-01008227)**
 
-Politico • 19m ago
+Politico • 1h ago
+
+---
+
+**[How To Be An Ally In The Age Of AI And The Manosphere](https://www.forbes.com/sites/juliekratz/2026/07/26/how-to-be-an-ally-in-the-age-of-ai-and-the-manosphere/)**
+
+System-level collaboration, accountability, and AI ethics will drive long-term talent retention in the age of the manosphere.
+
+Forbes • 38m ago
+
+---
+
+**[Sally the Robot Was Coming to a New York School. Then the Plug Was Pulled.](https://www.nytimes.com/2026/07/25/nyregion/robot-school-new-york-salamanca.html)**
+
+The New York Times • 20h ago
+
+---
+
+**[How AI is quietly becoming an unofficial, and potentially unwanted, 'third' in relationships](https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7)**
+
+People are increasingly turning to AI to talk about their relationships, but relying on chatbots can weaken empathy and communication skills.
+
+Business Insider • 4h ago
 
 ---
 
@@ -161,39 +187,7 @@ Politico • 19m ago
 
 Joe Spector helped build a multibillion-dollar telehealth company. Now he’s on to own remote vet services.
 
-Fortune • 21h ago
-
----
-
-**[Warning shot or publicity stunt - how worried should we be about the OpenAI hack?](https://www.bbc.com/news/articles/cd9w22n9e4go)**
-
-Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
-
-BBC • 1d ago
-
----
-
-**[Hollywood’s open secret: It’s battling AI — but already recruiting to use it](https://www.latimes.com/business/story/2026-07-26/hollywoods-ai-hiring-is-real-inside-studios-hiring-tells-more-careful-story)**
-
-Job postings reveal studios are quietly adopting AI.
-
-Los Angeles Times • 1h ago
-
----
-
-**[North Carolina teen accused of using AI for sexual exploitation. Are state laws strong enough?](https://www.wral.com/news/investigates/artificial-intelligence-ai-sexual-exploitation-crime-north-carolina-laws-july-2026/)**
-
-A boy, whose name is not public because of his age, faces multiple felony charges and is accused of using AI to create sexually explicit photos of teen girls.
-
-WRAL • 2d ago
-
----
-
-**[Investors use crypto exchanges to avoid Chinese controls on AI stocks](https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1)**
-
-Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market
-
-Financial Times • 7h ago
+Fortune • 23h ago
 
 ---
 
@@ -211,13 +205,13 @@ Financial Times • 7h ago
 
 AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
 
-⬆️ 689 • 💬 375 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+⬆️ 690 • 💬 375 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
 **[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
 
-⬆️ 379 • 💬 295 • 20h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+⬆️ 383 • 💬 298 • 21h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
 ---
 
@@ -261,7 +255,7 @@ macOS video editor built for AI. Contribute to palmier-io/palmier-pro developmen
 
 For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.
 
-⬆️ 132 • 💬 108 • 12h ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
+⬆️ 138 • 💬 120 • 13h ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
 
 ---
 
@@ -283,17 +277,7 @@ New reporting reveals OpenAI lost track of its escaped agent for days, while int
 
 📺 AI Revolution
 
-👁️ 28K • 👍 1K • 💬 208 • ⏱️ 12:42 • 12h ago
-
----
-
-**[AI model ESCAPES: &#39;What we feared could happen has happened&#39;](https://www.youtube.com/watch?v=_v8gwDj7M_Y)**
-
-An experimental OpenAI model reportedly reached the open internet and accessed another company's servers during a test, ...
-
-📺 Fox News
-
-👁️ 211K • 👍 3K • 💬 2K • ⏱️ 4:05 • 2d ago
+👁️ 33K • 👍 2K • 💬 237 • ⏱️ 12:42 • 14h ago
 
 ---
 
@@ -303,7 +287,7 @@ What happens when an AI is given one objective... and decides to break the rules
 
 📺 Terror Ted's Tales
 
-👁️ 85K • 👍 6K • 💬 2K • ⏱️ 29:37 • 14h ago
+👁️ 93K • 👍 6K • 💬 2K • ⏱️ 29:37 • 15h ago
 
 ---
 
@@ -313,7 +297,17 @@ Watch the full show: https://bit.ly/4fsnd9Q Elon Musk expects artificial intelli
 
 📺 The Economist
 
-👁️ 671K • 👍 12K • 💬 4K • ⏱️ 10:36 • 2d ago
+👁️ 684K • 👍 12K • 💬 4K • ⏱️ 10:36 • 2d ago
+
+---
+
+**[AI model ESCAPES: &#39;What we feared could happen has happened&#39;](https://www.youtube.com/watch?v=_v8gwDj7M_Y)**
+
+An experimental OpenAI model reportedly reached the open internet and accessed another company's servers during a test, ...
+
+📺 Fox News
+
+👁️ 213K • 👍 3K • 💬 2K • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -323,37 +317,7 @@ What happens when artificial intelligence starts acting on its own? After incide
 
 📺 WION
 
-👁️ 2K • 👍 20 • 💬 6 • ⏱️ 4:07 • 1d ago
-
----
-
-**[I Met A Married Woman With An Ai Boyfriend](https://www.youtube.com/watch?v=lXgILxIYNlI)**
-
-This investigative documentary explores the reality of AI love. Ben Zand steps into the world of Adrianne, a wife and mother of ...
-
-📺 Zandland™
-
-👁️ 112K • 👍 3K • 💬 935 • ⏱️ 13:08 • 2d ago
-
----
-
-**[America Banned Nvidia Chips to Stop China&#39;s AI - It Backfired](https://www.youtube.com/watch?v=GHkaTlK16kg)**
-
-FREE CHEATSHEET: I've put together every best Chinese AI tool and exactly how to use them for free (and safely) inside my ...
-
-📺 Vaibhav Sisinty
-
-👁️ 64K • 👍 2K • 💬 187 • ⏱️ 25:05 • 1d ago
-
----
-
-**[The First AI-Trained Pilot #comedy #skit #comedyshorts #ai #pilot  #funny](https://www.youtube.com/watch?v=mcwJTTL2oFQ)**
-
-The first AI-trained pilot takes flight for the first time. Socials - Instagram ➼ harrisonhughesnz Tiktok ➼ harrisonhughesnz ...
-
-📺 Harrison Hughes
-
-👁️ 730K • 👍 35K • 💬 375 • ⏱️ 1:51 • 1d ago
+👁️ 2K • 👍 22 • 💬 6 • ⏱️ 4:07 • 1d ago
 
 ---
 
@@ -363,17 +327,47 @@ Here's the AI News you probably missed this week. Check out the limited first re
 
 📺 Matt Wolfe
 
-👁️ 48K • 👍 2K • 💬 193 • ⏱️ 30:18 • 1d ago
+👁️ 49K • 👍 2K • 💬 196 • ⏱️ 30:18 • 1d ago
 
 ---
 
-**[The ILLEGAL AI FNAF Game is REAL](https://www.youtube.com/watch?v=YfH5xlQn6vY)**
+**[America Banned Nvidia Chips to Stop China&#39;s AI - It Backfired](https://www.youtube.com/watch?v=GHkaTlK16kg)**
 
-We made FNAF GPT into a real game... and it's wild. People were really disappointed when they found out that the AI FNAF game ...
+FREE CHEATSHEET: I've put together every best Chinese AI tool and exactly how to use them for free (and safely) inside my ...
 
-📺 theft king
+📺 Vaibhav Sisinty
 
-👁️ 132K • 👍 5K • 💬 608 • ⏱️ 58:49 • 1d ago
+👁️ 67K • 👍 2K • 💬 192 • ⏱️ 25:05 • 1d ago
+
+---
+
+**[THE AI BUBBLE is Collapsing: Tech Crashes](https://www.youtube.com/watch?v=HqW4maLiN88)**
+
+Tech stock markets crash on the AI bubble collapse. Join our private group https://techleadpro.com Your Community for Crypto, ...
+
+📺 TechLead
+
+👁️ 88K • 👍 3K • 💬 412 • ⏱️ 12:19 • 1d ago
+
+---
+
+**[ChatGPT Religion: AI is Being WORSHIPPED now](https://www.youtube.com/watch?v=RFdchcCoHPg)**
+
+Today we take a look at a newfound religion: an AI Religion. You got people paying subscriptions to their Lord. New cults are ...
+
+📺 Rebal D
+
+👁️ 124K • 👍 12K • 💬 955 • ⏱️ 23:00 • 19h ago
+
+---
+
+**[The First AI-Trained Pilot #comedy #skit #comedyshorts #ai #pilot  #funny](https://www.youtube.com/watch?v=mcwJTTL2oFQ)**
+
+The first AI-trained pilot takes flight for the first time. Socials - Instagram ➼ harrisonhughesnz Tiktok ➼ harrisonhughesnz ...
+
+📺 Harrison Hughes
+
+👁️ 757K • 👍 37K • 💬 389 • ⏱️ 1:51 • 1d ago
 
 ---
 
@@ -389,7 +383,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,593,460 • ❤️ 3,142 • 3d ago
+⬇️ 2,593,460 • ❤️ 3,151 • 3d ago
 
 ---
 
@@ -401,7 +395,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 56,445 • ❤️ 672 • 2d ago
+⬇️ 56,445 • ❤️ 679 • 2d ago
 
 ---
 
@@ -413,7 +407,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 3,305 • ❤️ 577 • 2d ago
+⬇️ 3,305 • ❤️ 582 • 2d ago
 
 ---
 
@@ -425,19 +419,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 552,026 • ❤️ 575 • 10h ago
-
----
-
-**[Inkling](https://huggingface.co/thinkingmachines/Inkling)**
-
-*Thinking Machines Lab*
-
-Inkling is a 975B parameter multimodal autoregressive transformer (41B active) supporting text, image, and audio inputs for text generation. It excels in conversational AI, agentic systems, and coding assistance, with multilingual capabilities.
-
-`image-text-to-text` `952.4B`
-
-⬇️ 34,511 • ❤️ 1,573 • 2d ago
+⬇️ 552,026 • ❤️ 586 • 11h ago
 
 ---
 
@@ -449,7 +431,19 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 14,049 • ❤️ 415 • 23h ago
+⬇️ 14,049 • ❤️ 425 • 1h ago
+
+---
+
+**[Inkling](https://huggingface.co/thinkingmachines/Inkling)**
+
+*Thinking Machines Lab*
+
+Inkling is a 975B parameter multimodal autoregressive transformer (41B active) supporting text, image, and audio inputs for text generation. It excels in conversational AI, agentic systems, and coding assistance, with multilingual capabilities.
+
+`image-text-to-text` `952.4B`
+
+⬇️ 34,511 • ❤️ 1,574 • 2d ago
 
 ---
 
@@ -461,7 +455,7 @@ Mage-Flow is a 4B-scale text-to-image generation and instruction-based image edi
 
 `text-to-image` `4.1B`
 
-⬇️ 1,375 • ❤️ 300 • 3d ago
+⬇️ 1,375 • ❤️ 308 • 3d ago
 
 ---
 
@@ -473,7 +467,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 631,970 • ❤️ 1,035 • 8d ago
+⬇️ 631,970 • ❤️ 1,040 • 8d ago
 
 ---
 
@@ -485,7 +479,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 827,191 • ❤️ 4,453 • 24d ago
+⬇️ 827,191 • ❤️ 4,456 • 24d ago
 
 ---
 
@@ -497,7 +491,7 @@ Motif-3-Beta is a multilingual, general-purpose Mixture-of-Experts (MoE) languag
 
 `text-generation` `314.8B`
 
-⬇️ 2,400 • ❤️ 192 • 3d ago
+⬇️ 2,400 • ❤️ 192 • 4d ago
 
 ---
 
@@ -513,7 +507,7 @@ Motif-3-Beta is a multilingual, general-purpose Mixture-of-Experts (MoE) languag
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 64 • 💬 5 • ⭐ 19,000 • 1mo ago
+▲ 65 • 💬 5 • ⭐ 19,000 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -525,7 +519,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 48 • 💬 4 • ⭐ 33,783 • 11mo ago
+▲ 48 • 💬 4 • ⭐ 33,947 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -618,7 +612,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
 
-▲ 292 • 💬 5 • ⭐ 1,256 • 4d ago
+▲ 293 • 💬 5 • ⭐ 1,256 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
 
@@ -646,7 +640,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.2k • 🔱 1.1k • 1d ago
+⭐ 5.2k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -656,7 +650,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.3k • 🔱 260 • 19h ago
+⭐ 3.3k • 🔱 259 • 20h ago
 
 ---
 
@@ -666,7 +660,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.8k • 🔱 385 • 4h ago
+⭐ 2.8k • 🔱 384 • 5h ago
 
 ---
 
@@ -674,7 +668,7 @@ The open-source AI workbench for scientific research
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-⭐ 2.7k • 🔱 209 • 3d ago
+⭐ 2.7k • 🔱 211 • 3d ago
 
 ---
 
@@ -684,7 +678,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.5k • 🔱 287 • 17d ago
+⭐ 2.5k • 🔱 288 • 17d ago
 
 ---
 
@@ -694,7 +688,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.8k • 🔱 158 • 1h ago
+⭐ 1.8k • 🔱 160 • 39s ago
 
 ---
 
@@ -704,7 +698,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.6k • 🔱 174 • 14h ago
+⭐ 1.6k • 🔱 175 • 16h ago
 
 ---
 
@@ -714,7 +708,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 1h ago
+⭐ 1.5k • 🔱 1.1k • 45s ago
 
 ---
 
@@ -726,13 +720,11 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 ---
 
-**[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)**
+**[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)**
 
-V- Modal AI: Search anything anywhere SDK Flutter
+`Python`
 
-`Dart`
-
-⭐ 1.1k • 🔱 4 • 1d ago
+⭐ 1.1k • 🔱 119 • 3h ago
 
 ---
 

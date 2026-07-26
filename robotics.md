@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-26T11:19:10.521251+00:00'
+updated: '2026-07-26T12:38:13.640670+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 26, 2026 at 11:19 UTC  
+**Last Updated:** July 26, 2026 at 12:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main PC. I still use a separate animation editor that I built for creating movements. Each joint has its own timeline with position keyframes, velocity, torque limits, and controller parameters. Finished animations are sent to the lamp and played back locally. I’ve also installed an addressable LED ring with a 3D-printed diffuser inside the head. Brightness and transitions are now part of the same animation timeline, allowing the light to be synchronized with movement. This video is a quick test of the new setup. I’m currently tuning the motor parameters, brightness curves, and transition timings before using the light in more expressive animations.
 
-16h ago
+17h ago
 
 ---
 
 **[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 Just finished modifying the arm holder/mount for my DIY robot. The old PLA bracket was flexing too much under load, so I redesigned it to be sturdier. Watch the clip to see the improved range of motion. The difference is night and day. No more wobbly joints! Next step is to test the weight capacity.
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Just finished modifying the arm holder/mount for my DIY robot. The old PLA brack
 
 Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous rotation servo. The gyro normally has centering springs but they have been removed to increase sensitivity. The gyro has a hall effect sensor in it and an analog circuit which generates PWM pulses that the servo uses as a velocity control. A 3 axis version of this arrangement is what made the Apollo guidance computer so accurate at knowing its own pose over long distances and times. This single axis version could be a gyrocompass in a robot or aircraft, to maintain heading even if the magnetic compass quits working etc Now we have laser ring gyros and other extremely accurate solid state sensors and amazing computational power and algorithms to integrate the readings to probably surpass any internal flywheel arrangements accuracy.
 
-11h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous ro
 
 Hello hello, development of the upgrade, CubicDoggo 06R (High Mobility, sort of), is now complete, and the full project is documented on GitHub: https://github.com/SphericalCowww/CubicDoggo_06R The previous post can be found here. But yeah, the performance is not as ideal. You can see it's still wobbling when just standing there, and the IMU is not even balanced to be parallel to the ground. The effect of the IMU during walking is also difficult to notice because of how wonky it walks to begin with and how bad I am at controlling it to walk in a straight line, lol. However, you can see the subtle sign right before it stops walking. Its front-right leg is fully extended. This is also why I hit the stop button, because the next step may make the joint flip backwards, causing it to fall. Happened a few times, actually. Without IMU, though, what happens is worse, in that it simply tumbles and rolls over. Also happened a few times, oh well. Next step will be 06Z Neucommu with simulation and RL, and 07B Wouf with stronger servos (a lot of mechanical reinforcement was actually planned for 07B). This is no Unitree superdog, but I am still excited about its progress and enjoy all the Reddit discussions :)
 
-20h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello hello, development of the upgrade, CubicDoggo 06R (High Mobility, sort of)
 
 I am from India, and want someone here, with a pen plotter to make some work using it. I want paper sizes from a5 to A1 (chart paper).
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve just released Polka v0.5.0! It’s an efficient 2D/3D Lidar processing no
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/watch?v=df-fBJkoO-E&si=swBepOPHO9tFu9xD) • 9h ago
+🔗 [youtube.com](https://youtube.com/watch?v=df-fBJkoO-E&si=swBepOPHO9tFu9xD) • 11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 https://www.youtube.com/@ALMA.Industries Built a control panel with on/off switches to control DC power supplies (48v, 12v, 24v). AC Outlets always give power regardless of switch states. Used hold home outlets and switches. Turns out to be something I use quite frequently. Full build is in the link above.
 
-17h ago
+18h ago
 
 ---
 
@@ -116,7 +116,7 @@ https://www.youtube.com/@ALMA.Industries Built a control panel with on/off switc
 
 The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
 
-Time Magazine • 2d ago
+Time Magazine • 3d ago
 
 ---
 
@@ -130,13 +130,21 @@ IEEE Spectrum • 1d ago
 
 **[With Washington’s help, humanoid robots can transform US manufacturing](https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/)**
 
-The Hill • 23h ago
+The Hill • 1d ago
 
 ---
 
 **[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
 
 Bloomberg.com • 2d ago
+
+---
+
+**[Spider-inspired four-legged robot boat could track and retrieve people from water](https://interestingengineering.com/ai-robotics/four-legged-robotic-boat-water-rescues)**
+
+A four-legged robotic boat inspired by fishing spiders could track and retrieve people from water during rescue missions.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -156,12 +164,6 @@ TechCrunch • 2d ago
 
 ---
 
-**[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
-
-Tech Xplore • 1d ago
-
----
-
 **[Tech Moves: Agility Robotics gets CFO; Microsoft security departure; Zap's legal officer; new KEXP CPTO](https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/)**
 
 Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
@@ -170,17 +172,17 @@ GeekWire • 2d ago
 
 ---
 
+**[AMD Lays Out AI Vision Across Cloud, Client And Robotics (AMD)](https://seekingalpha.com/article/4925512-amd-lays-out-ai-vision-across-cloud-client-robotics)**
+
+Seeking Alpha • 1d ago
+
+---
+
 **[Israeli researchers teach micro-robots to scale obstacles and carry living bacteria](https://www.ynetnews.com/health_science/article/r18zdgxrmg)**
 
 Tel Aviv University researchers develop micro-robots that use magnetic and electric fields to cross obstacles, move between surfaces and transport delicate biological cargo
 
-Ynetnews • 5h ago
-
----
-
-**[AMD Lays Out AI Vision Across Cloud, Client And Robotics (AMD)](https://seekingalpha.com/article/4925512-amd-lays-out-ai-vision-across-cloud-client-robotics)**
-
-Seeking Alpha • 1d ago
+Ynetnews • 7h ago
 
 ---
 
@@ -194,7 +196,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 3.2M • 👍 2K • 💬 434 • ⏱️ 2:15 • 6d ago
+👁️ 3.3M • 👍 2K • 💬 438 • ⏱️ 2:15 • 6d ago
 
 ---
 
@@ -204,7 +206,17 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 16K • 👍 164 • 💬 90 • ⏱️ 5:29 • 3d ago
+👁️ 16K • 👍 165 • 💬 90 • ⏱️ 5:29 • 3d ago
+
+---
+
+**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 488 • 👍 50 • 💬 4 • ⏱️ 4:23 • 38m ago
 
 ---
 
@@ -214,7 +226,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 79K • 👍 2K • 💬 201 • ⏱️ 12:28 • 4d ago
+👁️ 81K • 👍 2K • 💬 203 • ⏱️ 12:28 • 4d ago
 
 ---
 
@@ -224,17 +236,7 @@ BMW Group intensifies the use of digitalization and the use of artificial intell
 
 📺 The Wheel Network
 
-👁️ 22K • 👍 460 • 💬 134 • ⏱️ 6:24 • 4d ago
-
----
-
-**[China’s T800 Robots Fight Just SHOCKED the World!](https://www.youtube.com/watch?v=QbnCPSLDkpw)**
-
-A humanoid robot named Matador took a brutal high kick to the head, and its head rolled across the cage floor. Then Matador ...
-
-📺 NextGen Humanoids
-
-👁️ 20K • 👍 446 • 💬 84 • ⏱️ 8:56 • 6d ago
+👁️ 22K • 👍 462 • 💬 134 • ⏱️ 6:24 • 4d ago
 
 ---
 
@@ -248,23 +250,13 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: https://www.inst
 
 ---
 
-**[A Chinese Robot Just Decapitated Another Robot In Public. Nobody Asked What Comes Next](https://www.youtube.com/watch?v=rUjlFRok3qk)**
-
-Everyone is asking if killer robots are coming. Wrong question. One already knocked another robot's head clean off, on camera ...
-
-📺 Ambrose In China
-
-👁️ 685K • 👍 24K • 💬 5K • ⏱️ 2:25 • 5d ago
-
----
-
 **[Unitree AS2 W Shows The Future Of Autonomous Robots](https://www.youtube.com/watch?v=OePErI3OoRI)**
 
 The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it climb steep rocks, cross streams, tackle rough ...
 
 📺 DPCcars
 
-👁️ 17K • 👍 143 • 💬 58 • ⏱️ 2:32 • 1d ago
+👁️ 17K • 👍 146 • 💬 59 • ⏱️ 2:32 • 1d ago
 
 ---
 
@@ -274,17 +266,27 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 48K • 👍 938 • 💬 409 • ⏱️ 2:02 • 3d ago
+👁️ 48K • 👍 944 • 💬 409 • ⏱️ 2:02 • 3d ago
 
 ---
 
-**[Unboxing BENI: This 2-Wheeled Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=ytaZ2eR9CR8)**
+**[China’s T800 Robots Fight Just SHOCKED the World!](https://www.youtube.com/watch?v=QbnCPSLDkpw)**
 
-Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mondorobotics/beni-all-terrain-camera-robot?ref=8ebvkr ...
+A humanoid robot named Matador took a brutal high kick to the head, and its head rolled across the cage floor. Then Matador ...
 
-📺 FlytPath
+📺 NextGen Humanoids
 
-👁️ 75K • 👍 372 • 💬 28 • ⏱️ 5:19 • 6d ago
+👁️ 21K • 👍 448 • 💬 84 • ⏱️ 8:56 • 6d ago
+
+---
+
+**[A Chinese Robot Just Decapitated Another Robot In Public. Nobody Asked What Comes Next](https://www.youtube.com/watch?v=rUjlFRok3qk)**
+
+Everyone is asking if killer robots are coming. Wrong question. One already knocked another robot's head clean off, on camera ...
+
+📺 Ambrose In China
+
+👁️ 694K • 👍 24K • 💬 5K • ⏱️ 2:25 • 6d ago
 
 ---
 

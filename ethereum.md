@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-26T11:19:10.518019+00:00'
+updated: '2026-07-26T12:38:13.637487+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 11:19 UTC  
+**Last Updated:** July 26, 2026 at 12:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -0.9%  
-**30d:** +19.9%  
-**90d:** -17.5%  
-**1y:** -51.3%  
+**24h:** +1.2%  
+**7d:** -0.8%  
+**30d:** +20.0%  
+**90d:** -17.4%  
+**1y:** -51.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.25B
+**Market Cap:** $227.87B
 Rank #2
 
 **Circulating Supply:** 120,682,665 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-61.8%
 
 **All-Time Low:** $0.43
-+434794.1%
++435972.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam upgrade targeting first testnet in September, Uniswap v4 Permissioned Pools, Aztec Alpha V5 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-32/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-32/) • 2d ago
 
 ---
 
@@ -164,7 +164,7 @@ CryptoSlate • 1d ago
 
 Ethereum is showing signs of a strong comeback against Bitcoin, supported by a technical reversal, renewed institutional ETF inflows totaling $103 million weekly, and dominance in the $17 billion tokenization market. Analysts highlight Ethereum's price rebound and key support levels indicating potential growth to $2,163. The network's leadership in tokenizing real-world assets and growing institutional demand suggest a fundamental shift in market sentiment favoring Ethereum this summer. This combination positions Ethereum to potentially outshine Bitcoin during the current market lull.
 
-Pluang • 22m ago
+Pluang • 1h ago
 
 ---
 
@@ -172,15 +172,15 @@ Pluang • 22m ago
 
 Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum and Bitcoin ETFs see outflows, ending weeks of gains amid market shifts and Japan's regulatory reforms.](https://pluang.com/en/news-feed/etf-ethereum-keluar-dana-memicu-keraguan-pasar-kripto)**
+**[Is Money Rotating Back Into Bitcoin and Ethereum ETFs While XRP and HYPE Funds Fade?](https://finance.yahoo.com/markets/crypto/articles/money-rotating-back-bitcoin-ethereum-114205050.html)**
 
-After weeks of continuous inflows, Ethereum and Bitcoin spot ETFs in the U.S. experienced net outflows on July 25, signaling a pause in recent momentum despite positive trends in July overall. Ethereum ETFs saw a $70.62 million outflow, while Bitcoin ETFs had $240.08 million leave, coinciding with price drops for both assets. This shift may reflect changing institutional sentiment on Wall Street. Meanwhile, Japan's regulatory reforms are paving the way for local spot ETFs, potentially unlocking $18.4 billion by connecting household wealth to crypto markets, indicating long-term institutional growth despite short-term U.S. market adjustments.
+Bitcoin and Ethereum ETFs just snapped a brutal losing streak, but the two sessions that followed nearly erased everything they gained. Meanwhile, the altcoin funds that thrived during the selloff are quietly going cold.
 
-Pluang • 3h ago
+Yahoo Finance • 56m ago
 
 ---
 
@@ -188,7 +188,7 @@ Pluang • 3h ago
 
 The chain's new plan calls for a swath of big steps in a few different directions.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ Benzinga • 2d ago
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
-Seeking Alpha • 2d ago
+Seeking Alpha • 3d ago
 
 ---
 
@@ -224,11 +224,11 @@ FXStreet • 2d ago
 
 ---
 
-**[Ethereum ETFs Post $70.6M Outflow but Extend Weekly Inflow Streak](https://financefeeds.com/ethereum-etfs-post-70-6m-outflow-but-extend-weekly-inflow-streak/)**
+**[Ethereum Income ETF Draws New Money as NEHI Investors Chase Yield in a Slumping Market](https://www.tipranks.com/news/cryptocurrencies/ethereum-income-etf-draws-new-money-as-nehi-investors-chase-yield-in-a-slumping-market)**
 
-Spot Ethereum ETFs saw $70.6M in Friday outflows but still closed the week +$103.9M, extending their inflow streak to three straight weeks in July.
+Ethereum Income Play Pulls In Fresh Cash Despite Price Slump NEOS Ethereum High Income ETF, ticker NEHI, saw fresh inflows of $1,660,038 on July 22, 2026, a notable...
 
-FinanceFeeds • 18h ago
+TipRanks • 59m ago
 
 ---
 
@@ -236,33 +236,23 @@ FinanceFeeds • 18h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=JujVzGOPrrc)**
-
-In this video I break down the current Ethereum price action and why the recent rally remains within the context of a larger bearish ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 153 • 💬 7 • ⏱️ 7:13 • 20h ago
-
----
-
 **[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=CZWZVLPuYDg)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 199 • 💬 70 • ⏱️ 18:08 • 1d ago
+👁️ 6K • 👍 201 • 💬 70 • ⏱️ 18:08 • 1d ago
 
 ---
 
-**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
+**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=JujVzGOPrrc)**
 
-My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
+In this video I break down the current Ethereum price action and why the recent rally remains within the context of a larger bearish ...
 
-📺 Satoshi Stacker
+📺 More Crypto Online
 
-👁️ 5K • 👍 281 • 💬 15 • ⏱️ 8:31 • 1d ago
+👁️ 3K • 👍 163 • 💬 7 • ⏱️ 7:13 • 21h ago
 
 ---
 
@@ -276,13 +266,13 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ZdbUEuTCn04)**
+**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
 
-📺 Crypto Gyan
+📺 Satoshi Stacker
 
-👁️ 680 • 👍 66 • ⏱️ 8:05 • 7h ago
+👁️ 5K • 👍 283 • 💬 16 • ⏱️ 8:31 • 1d ago
 
 ---
 
@@ -292,17 +282,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 4K • 👍 131 • 💬 99 • ⏱️ 55:25 • 2d ago
-
----
-
-**[BITCOIN Y ETHEREUM: POR QUÉ DUDAS AHORA? Análisis Técnico Semanal](https://www.youtube.com/watch?v=Tt3WdMVx5wI)**
-
-Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Telegram https://t.me/infoVIPcalls BITLOBO ...
-
-📺 BITLOBO TRADING
-
-👁️ 4K • 👍 741 • 💬 4 • ⏱️ 2:07:29 • 16h ago
+👁️ 4K • 👍 133 • 💬 85 • ⏱️ 55:25 • 2d ago
 
 ---
 
@@ -312,7 +292,27 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 2K • 👍 190 • 💬 44 • ⏱️ 7:27 • 1d ago
+👁️ 2K • 👍 192 • 💬 44 • ⏱️ 7:27 • 1d ago
+
+---
+
+**[THE Best Time To Buy Crypto is Coming!!! 💰😳💰](https://www.youtube.com/watch?v=jlJPKupXKnI)**
+
+This is all about why the next bif crypto crash could be coming, where the cycle bottom could be and best time to buy crypto for the ...
+
+📺 Investing Made Simple
+
+👁️ 10K • 👍 666 • ⏱️ 8:39 • 1d ago
+
+---
+
+**[BITCOIN Y ETHEREUM: POR QUÉ DUDAS AHORA? Análisis Técnico Semanal](https://www.youtube.com/watch?v=Tt3WdMVx5wI)**
+
+Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Telegram https://t.me/infoVIPcalls BITLOBO ...
+
+📺 BITLOBO TRADING
+
+👁️ 4K • 👍 742 • 💬 4 • ⏱️ 2:07:29 • 17h ago
 
 ---
 
@@ -322,17 +322,17 @@ ETH just spiked to $1950 and wiped out $62 million in shorts. Here's the strange
 
 📺 Coin Bureau Podcast
 
-👁️ 2K • 👍 28 • 💬 3 • ⏱️ 0:28 • 1d ago
+👁️ 2K • 👍 27 • 💬 3 • ⏱️ 0:28 • 1d ago
 
 ---
 
-**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ZdbUEuTCn04)**
 
-Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Lark Davis
+📺 Crypto Gyan
 
-👁️ 6K • 👍 151 • 💬 14 • ⏱️ 0:53 • 2d ago
+👁️ 964 • 👍 79 • ⏱️ 8:05 • 9h ago
 
 ---
 
