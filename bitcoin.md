@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-26T07:11:40.101091+00:00'
+updated: '2026-07-26T09:33:07.558617+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 07:11 UTC  
+**Last Updated:** July 26, 2026 at 09:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -1.3%  
-**30d:** +7.3%  
-**90d:** -15.6%  
-**1y:** -46.0%  
+**24h:** +0.8%  
+**7d:** -1.1%  
+**30d:** +7.5%  
+**90d:** -15.4%  
+**1y:** -45.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1291.41B
+**Market Cap:** $1293.30B
 Rank #1
 
-**Circulating Supply:** 20,061,425 BTC
+**Circulating Supply:** 20,061,468 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -48.9%
 
 **All-Time Low:** $67.81
-+94827.0%
++94956.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I am so proud! As of today, I now own 0.1 BTC with a average prive of 68,527.36 €. I started in September 2025, was there for the ATH and the fall afterwards. My next goal are 0.2 BTC ☺️ Just wanted to share that with someone!
 
-19h ago
+21h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am so proud! As of today, I now own 0.1 BTC with a average prive of 68,527.36 
 
 How many people have at least 0.1 BTC out of the total number of Bitcoin holders?
 
-11h ago
+14h ago
 
 ---
 
@@ -97,7 +97,7 @@ How many people have at least 0.1 BTC out of the total number of Bitcoin holders
 
 Newer to this and trying to understand the psychology before I'm tested by it. Everyone says "just hold" but I want to hear from people who were actually down bad at the worst point. Did you know it was the bottom, or did it just feel like it was going to zero like everyone said?
 
-20h ago
+22h ago
 
 ---
 
@@ -113,7 +113,7 @@ The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypte
 
 How much of your savings are you keeping in BTC? Are waiting for the price to drop before you by BTC?
 
-20h ago
+22h ago
 
 ---
 
@@ -121,7 +121,7 @@ How much of your savings are you keeping in BTC? Are waiting for the price to dr
 
 Have you ever done fourier analysis on any BTC metric? If you do, have you found something interesting? Do you think is not worth it? Why?
 
-12h ago
+15h ago
 
 ---
 
@@ -129,7 +129,7 @@ Have you ever done fourier analysis on any BTC metric? If you do, have you found
 
 With the assumption that Republicans are highly unlikely to change the bill to leave room for future prosecution of POTUS via State AGs (a core Democrat demand); the only way forward for this current version seems to be Republicans to hold both chambers. What alternative version might be introduced in the 2027-2028 Congress that can get passed and signed by Trump in the next two years? Will Democrats continue to assert prosecution rights forever or is there a compromise Democrats are willing to accept that could still protect Trump from potential prosecution?
 
-12h ago
+15h ago
 
 ---
 
@@ -143,7 +143,7 @@ With the assumption that Republicans are highly unlikely to change the bill to l
 
 Hi all, I am looking to buy BTC p2p, but before I do, is there a way in which I can check if the coins I purchase in advance are tainted? Is there a website or something this can be verified on? I want to check this to avoid any problems in utilising the coin/s once purchased. Thanks
 
-16h ago
+19h ago
 
 ---
 
@@ -151,7 +151,7 @@ Hi all, I am looking to buy BTC p2p, but before I do, is there a way in which I 
 
 Is this against your firm's rules? Did your firm make you sell your shares? Just curious because I'm thinking about applying to a financial rep role (Series 7), but I'm down 50% on portfolio holdings of 100% FBTC. I wonder if this concentrated holding is allowed at most firms? I also hold BTC in actual cold storage. Am I blocked from even applying since this isn't what most representatives should hold?
 
-17h ago
+19h ago
 
 ---
 
@@ -159,25 +159,41 @@ Is this against your firm's rules? Did your firm make you sell your shares? Just
 
 ## Google News: "bitcoin"
 
+**[Crypto Trader Sells $2.5M In Ferraris To Buy More Bitcoin](https://www.benzinga.com/crypto/cryptocurrency/26/07/60685348/crypto-trader-sells-2-5m-in-ferraris-to-buy-more-bitcoin)**
+
+Trader Carl Runefelt sold $2.5 million in Ferraris to increase his BTC exposure based on 200-week moving average price analysis. He views current dip as rare accumulation opportunity.
+
+Benzinga • 13h ago
+
+---
+
 **[Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again](https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again)**
 
 Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.
 
-The Block • 17h ago
+The Block • 19h ago
 
 ---
 
-**[Bitcoin Price Drops as ETF Outflows Resume Amid CLARITY Act Woes](https://www.benzinga.com/crypto/26/07/60685290/bitcoin-price-drops-as-etf-outflows-resume-amid-clarity-act-woes)**
+**[Trump made a big Bitcoin push. Investors aren't biting](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
 
-Bitcoin price dropped after hitting a key resistance level as BTC ETF outflows continue and as CLARITY odds drop
+Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
 
-Benzinga • 12h ago
+USA Today • 28m ago
 
 ---
 
-**[Bitcoin, Ethereum Edge Higher Despite Midweek Rally Losing Steam](https://www.moomoo.com/news/post/73532282/bitcoin-ethereum-edge-higher-despite-midweek-rally-losing-steam)**
+**[Here's Why I'm Buying Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/heres-why-im-buying-bitcoin-085000587.html)**
 
-Moomoo • 4h ago
+Bitcoin may finally be nearing the end of the bearish phase of its four-year cycle.
+
+Yahoo Finance • 43m ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
+
+Morningstar • 1d ago
 
 ---
 
@@ -185,21 +201,7 @@ Moomoo • 4h ago
 
 There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.
 
-CNBC • 17h ago
-
----
-
-**[Is Bitcoin Still a Millionaire Maker?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-still-millionaire-maker-025000224.html)**
-
-Bitcoin has upside, but it's time to revisit where the ceiling might be.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
-
-Morningstar • 1d ago
+CNBC • 20h ago
 
 ---
 
@@ -219,19 +221,17 @@ Bitcoin Magazine • 1d ago
 
 ---
 
+**[Bitcoin price hovers at $64,000 as stablecoin inflows weaken](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-64000-as-stablecoin-inflows-weaken-4812755)**
+
+Investing.com • 12h ago
+
+---
+
 **[Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store](https://www.macrumors.com/2026/07/25/apple-app-store-fake-bitcoin-wallet-lawsuit/)**
 
 Apple is facing a new lawsuit from three customers who allegedly lost a combined $1.8 million after falling victim to a fake Bitcoin wallet app in the App Store, according to a complaint filed in California federal court on Friday.
 
-MacRumors • 13h ago
-
----
-
-**[Current price of Bitcoin for July 24, 2026](https://fortune.com/article/current-price-of-bitcoin-for-july-24-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+MacRumors • 15h ago
 
 ---
 
@@ -251,7 +251,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 5 • 💬 0 • 22h ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 5 • 💬 0 • 1d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -275,7 +275,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 2 • 💬 0 • 22h ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -299,7 +299,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/sharecoin
 
-⬆️ 1 • 💬 1 • 3d ago • [GitHub](https://github.com/TVHeroes/sharecoin)
+⬆️ 1 • 💬 1 • 4d ago • [GitHub](https://github.com/TVHeroes/sharecoin)
 
 ---
 
@@ -313,7 +313,7 @@ Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. 
 
 **[Programmer Government](https://news.ycombinator.com/item?id=49052385)**
 
-⬆️ 2 • 💬 3 • 8h ago
+⬆️ 2 • 💬 3 • 11h ago
 
 ---
 
@@ -321,33 +321,13 @@ Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. 
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Treasuries are COLLAPSING and That&#39;s Bullish! (Here&#39;s Why)](https://www.youtube.com/watch?v=JQFEIHP7oyA)**
-
-Several high-profile Bitcoin treasury companies are struggling, but that doesn't mean Bitcoin is. As financial engineering begins to ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 1K • 💬 281 • ⏱️ 27:04 • 1d ago
-
----
-
 **[Bitcoin&#39;s Turn Is Next — The Easy Money AI Trade Is Over?](https://www.youtube.com/watch?v=McKTuWYzXgg)**
 
 Jordi Visser is a veteran macro investor with 30+ years of experience and the author of the VisserLabs Substack. In this ...
 
 📺 Anthony Pompliano
 
-👁️ 45K • 👍 2K • 💬 56 • ⏱️ 53:31 • 18h ago
-
----
-
-**[The Strategic Bitcoin Reserve FIGHT is SPREADING To The Rest of The World!](https://www.youtube.com/watch?v=riMulD5UKBk)**
-
-While Washington debates the Clarity Act, the rest of the world is moving. Russia, Japan and Taiwan have each taken major steps ...
-
-📺 Simply Bitcoin
-
-👁️ 6K • 👍 562 • 💬 184 • ⏱️ 15:36 • 14h ago
+👁️ 47K • 👍 2K • 💬 56 • ⏱️ 53:31 • 20h ago
 
 ---
 
@@ -357,37 +337,7 @@ In this interview, Samson Mow shares his latest outlook on Bitcoin and explains 
 
 📺 Cointelegraph
 
-👁️ 13K • 👍 358 • 💬 128 • ⏱️ 20:40 • 1d ago
-
----
-
-**[This Bitcoin Indicator Says $48K Will Happen...](https://www.youtube.com/watch?v=zLnE5ENVyy0)**
-
-is $58k the low or could it be $48k for Bitcoin? According to CVDD we MUST hit $48k. Join us Nov. 20-22nd In Miami for Ben's ...
-
-📺 Digital Asset News
-
-👁️ 5K • 👍 361 • 💬 49 • ⏱️ 16:18 • 9h ago
-
----
-
-**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 159 • 💬 36 • ⏱️ 15:51 • 5h ago
-
----
-
-**[&quot;Prepare for the BIGGEST CRASH EVER... Only Bitcoin Survives This&quot; | Jack Mallers WARNING](https://www.youtube.com/watch?v=kVqlCYuP-i4)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 189 • 💬 31 • ⏱️ 17:12 • 11h ago
+👁️ 13K • 👍 363 • 💬 125 • ⏱️ 20:40 • 1d ago
 
 ---
 
@@ -397,17 +347,47 @@ Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now 
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 2K • 💬 238 • ⏱️ 10:40 • 1d ago
+👁️ 39K • 👍 3K • 💬 240 • ⏱️ 10:40 • 1d ago
 
 ---
 
-**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
+**[This Bitcoin Indicator Says $48K Will Happen...](https://www.youtube.com/watch?v=zLnE5ENVyy0)**
 
-Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
+is $58k the low or could it be $48k for Bitcoin? According to CVDD we MUST hit $48k. Join us Nov. 20-22nd In Miami for Ben's ...
 
-📺 Altcoin Daily
+📺 Digital Asset News
 
-👁️ 46K • 👍 2K • 💬 226 • ⏱️ 12:09 • 2d ago
+👁️ 6K • 👍 393 • 💬 53 • ⏱️ 16:18 • 11h ago
+
+---
+
+**[The Bitcoin Bear Market Is a Survival Test | Matt Odell](https://www.youtube.com/watch?v=Hky6ApSwIH8)**
+
+Bear markets are actually more about survival.” Matt Odell is back on the show to explain why Bitcoin bear markets grind people ...
+
+📺 What Bitcoin Did
+
+👁️ 6K • 👍 245 • 💬 200 • ⏱️ 1:57:14 • 16h ago
+
+---
+
+**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 190 • 💬 36 • ⏱️ 15:51 • 8h ago
+
+---
+
+**[Is BlackRock Attempting to STEAL Satoshi’s Bitcoin?](https://www.youtube.com/watch?v=tF_c3ZpqZ1I)**
+
+Wall Street is no longer asking whether Bitcoin belongs in portfolios. Now the biggest institutions are funding Bitcoin developers ...
+
+📺 Simply Bitcoin
+
+👁️ 9K • 👍 748 • 💬 198 • ⏱️ 13:14 • 8h ago
 
 ---
 
@@ -417,7 +397,27 @@ Zen Master JP Does Objective Analysis of Bitcoin, Altcoins, & More! Weekend Vola
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 262 • ⏱️ 3:51:25 • 2h ago
+👁️ 6K • 👍 263 • ⏱️ 3:51:25 • 4h ago
+
+---
+
+**[The Strategic Bitcoin Reserve FIGHT is SPREADING To The Rest of The World!](https://www.youtube.com/watch?v=riMulD5UKBk)**
+
+While Washington debates the Clarity Act, the rest of the world is moving. Russia, Japan and Taiwan have each taken major steps ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 582 • 💬 198 • ⏱️ 15:36 • 16h ago
+
+---
+
+**[Bitcoin Millionaire makes a bet with Gold Millionaire](https://www.youtube.com/watch?v=mWC2DMGSKiM)**
+
+What do you think? Should Peter Schiff take my offer? #bitcoin #bet #peterschiff.
+
+📺 Anthony Pompliano
+
+👁️ 7K • 👍 139 • 💬 19 • ⏱️ 0:43 • 17h ago
 
 ---
 

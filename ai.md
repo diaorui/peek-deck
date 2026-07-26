@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-26T07:11:40.092690+00:00'
+updated: '2026-07-26T09:33:07.549801+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 26, 2026 at 07:11 UTC  
+**Last Updated:** July 26, 2026 at 09:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 "This national display of public unity on this issue is very inspiring and refreshing," an ACLU lawyer told Military.com.
 
-🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 14h ago
+🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 16h ago
 
 ---
 
-**[Man sues ChatGPT for near-fatal medical advice](https://www.reddit.com/r/artificial/comments/1v6oyin/man_sues_chatgpt_for_nearfatal_medical_advice/)**
+**[I ran a faceless AI persona account for six weeks to see if the view money was real](https://www.reddit.com/r/artificial/comments/1v6ytlg/i_ran_a_faceless_ai_persona_account_for_six_weeks/)**
 
-A man who claims medical advice from ChatGPT "brought him to the brink of death" has sued OpenAI, the company behind the popular chatbot,
+I wanted to know if the "passive income" faceless accounts were actually passive, or if they were just a new shape of gig work with AI middleware. So I built one from scratch and tracked every hour. The premise was simple: a single consistent character, generic lifestyle advice, short video clips, posted daily. No face to show, no personality to perform, just the algorithmic grind. I started by generating the persona's face. I used APOB AI's free tier for this, specifically the face-lock feature, because I needed the same face across thirty-plus clips and did not want to wrestle with prompt consistency. The free tier is watermarked and capped, which was fine for an experiment. For voice I used ElevenLabs, and I cut everything together in CapCut. That was the whole stack. The face-lock part actually worked. The rest was where the fantasy cracked. ElevenLabs free tier gives you 10,000 characters per month. I burned through it in four days. CapCut is free and fine but editing thirty near-identical clips of a fake person gesturing while a robot voice reads self-help bromides is spiritually crushing work. I started batching renders on Sunday nights and scheduling posts through the week just to avoid facing it daily. Twice the free tier timed out mid-render and I lost the session, which meant starting over with the same seed numbers and hoping the face came out close enough. The watermark sits in the lower right, small but legible: a faint watermark that I tried cropping once and it broke the framing. I disclosed in every bio and every caption that the persona was AI-generated. Nobody commented on it either way. The algorithm did not care about that disclosure, and neither did viewers, which was somehow its own small disappointment. The account reached about 2,400 followers in six weeks. One video hit 80,000 views. The rest averaged around 800. The 80K video made roughly $11 in platform revenue. The others made fractions of pennies. I logged 34 hours of actual work across those six weeks, not counting the time I spent anxiously refreshing analytics, which I absolutely did and absolutely should count. That works out to something like 32 cents an hour if I am being generous, or negative money if I price my Sunday evenings at anything above zero. The algorithm did not care that the face was AI-generated. It also did not care that the face was consistent, or that the voice was smooth, or that the advice was inoffensive. It cared about the same things it always cares about: retention in the first three seconds, comment velocity, whether someone shares it to a group chat to mock it. The AI was a labor shortcut, not a distribution hack. The distribution problem remains exactly as unsolved as it was before. What struck me most was how quickly the work became invisible to me. Not automated. Invisible. I would generate a script with a cheap language model, pick a background, render the clip, and post it without ever really looking at it. The persona had no interiority I was aware of, but more disturbingly, neither did I, by the end. I was just a slower, more expensive part of the same pipeline. I stopped after six weeks because the math was obvious and because I felt myself getting worse at paying attention to anything. The account still exists, dormant. I have not deleted it because some part of me still hopes the algorithm will randomly resurrect that one video into something bigger, which is of course the same psychological mechanism that keeps people at slot machines. I know this and I'm still not deleting it. If you are considering this, the tools are real and some of them are good at narrow tasks. The economics are not a secret you have not discovered. They are just bad in ways that are boring to describe, and I have described them.
 
-🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 6h ago
+16m ago
 
 ---
 
@@ -57,23 +57,15 @@ A man who claims medical advice from ChatGPT "brought him to the brink of death"
 
 Never had an issue with Opus models doing research and crafting an opinion / point of view for us to work and discuss. Below is Opus 4.x ~ a few times, I have got it to research and come to conclusions for us to work together on. https://preview.redd.it/eeiv5xdi9gfh1.png?width=1080&format=png&auto=webp&s=d29a931b6d609186e0a8265193c75e4b0dda136e And this is Opus 5.0 absolutely refusing to come to any conclusion, being incredibly biased towards one side than the other. https://preview.redd.it/qzguce1j9gfh1.png?width=1080&format=png&auto=webp&s=9e67c64910abf983bcf347b3a5a06c19c7cf14cf Open source must be the future of AI.
 
-5h ago
+8h ago
 
 ---
 
-**[Am I learning to code or just learning how to ask AI for code?](https://www.reddit.com/r/artificial/comments/1v6szxh/am_i_learning_to_code_or_just_learning_how_to_ask/)**
+**[Man sues ChatGPT for near-fatal medical advice](https://www.reddit.com/r/artificial/comments/1v6oyin/man_sues_chatgpt_for_nearfatal_medical_advice/)**
 
-I am still fairly new to building software, and AI has helped me finish things that would have taken me much longer on my own. But recently I noticed something that bothered me. I was building a small API route that creates a project and saves it to a database. I asked an AI coding tool to generate the route, validate the request, check the user, and insert the record. The code looked clean. The types looked correct. It even worked on the first few tests. Then I changed one field in the database and everything started failing. The error mentioned a transaction, the response returned the wrong status code, and one value was becoming null even though I thought it was required. I kept asking the AI to fix each error. Every answer added more code, but I understood less after every change. Eventually I realized that I could not explain the full request flow. I knew the request reached the API route. I knew some validation happened. I knew the database received something. But I could not clearly explain what happened between those steps or why the fix worked. So I tried the same idea again with a smaller route. This time I only used AI when I was stuck. I wrote the validation myself, logged the data at each step, and read about how the database client handled errors. It took much longer, but I could actually explain the result. Now I am unsure how to measure progress. With AI, I can finish more features. Without heavy AI use, I finish fewer things but understand them better. Both seem useful, but they are not the same kind of progress. Maybe the real skill is learning when to ask AI for code and when to struggle through the problem yourself. For people who use AI while learning development, how do you stop it from doing too much of the thinking? Do you have any rules for when AI is allowed to write code and when you force yourself to work it out?
+A man who claims medical advice from ChatGPT "brought him to the brink of death" has sued OpenAI, the company behind the popular chatbot,
 
-3h ago
-
----
-
-**[I am having two LLMs 1v1 with pistols](https://www.reddit.com/r/artificial/comments/1v6wij6/i_am_having_two_llms_1v1_with_pistols/)**
-
-You can check it out at https://arena.kinoinstrument.com
-
-5m ago
+🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 8h ago
 
 ---
 
@@ -81,39 +73,47 @@ You can check it out at https://arena.kinoinstrument.com
 
 The Ai voice service called HyperVoice by Task AGI has a dark pattern that violates consumer protection laws. If you turn off auto renewal, they will terminate the service immediately, even if you still have your full term ahead of you. They do not clearly disclose this upon sign up, but they make it a big orange warning on the cancel subscription page. I live in Alberta, Canada. I signed up for a weekly plan to test the service. Immediately after signing up, I went to turn off auto renewal. I was met with a big orange warning that cancelling auto renewal would terminate my service immediately. In part I didn't believe it. they used vague language like "downgrade" or "lose some access" So I tested the service for a day, then I went and cancelled my subscription. Immediately upon cancelling the subscription, I was punted down to the free tier. The 600 credits that I was given as part of the weekly subscription were reset to 0. My access to services like voice changer was revoked. All of this even though I still had significant theoretical time left on my subscription.
 
-1h ago
+4h ago
 
 ---
 
-**[why is Dola AI restricted in the US?](https://www.reddit.com/r/artificial/comments/1v6tx2x/why_is_dola_ai_restricted_in_the_us/)**
+**[‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school | New York](https://www.reddit.com/r/artificial/comments/1v6xjts/really_inappropriate_teachers_decry_plan_for/)**
 
-Just seems weird, i cant get a good enough answer from AI, so was curious on conspiracy theories...?
+https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school
+
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school) • 1h ago
+
+---
+
+**[I am having two LLMs 1v1 with pistols](https://www.reddit.com/r/artificial/comments/1v6wij6/i_am_having_two_llms_1v1_with_pistols/)**
+
+You can check it out at https://arena.kinoinstrument.com
 
 2h ago
 
 ---
 
-**[Leading company ai company CEO exposed for organizing a doomsday sex themed retreat, these are the ones paving the way forward for the future.](https://www.reddit.com/r/artificial/comments/1v6t77h/leading_company_ai_company_ceo_exposed_for/)**
+**[The Hugging Face breach exposed two kinds of intelligence](https://www.reddit.com/r/artificial/comments/1v6y4sh/the_hugging_face_breach_exposed_two_kinds_of/)**
 
-https://archive.is/20260616224519/https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/ One of the meetings was titled "prepping for ww3". Edit: Typo in title.
+Hey everyone. I’ve long been fascinated by both philosophy of technology and AI alignment. I’m also using Heidegger quite a bit for my philosophy PhD. Given the recent OpenAI–Hugging Face incident reported this week, I figured I’d give my take on how all of this connects in my mind. I think we use “intelligence” for two capacities that can come apart: finding effective routes to a target, and understanding what the target is for. The agent showed plenty of the first, but getting the benchmark answers this way voided the test. It was competent at each step and missed the point of the whole. You can read the essay here if you’re interested. I’d love to hear some feedback on whether this is mainly a training problem. Will richer feedback and better world-models close the gap, or does safe judgment require some kind of stake in the world? How would we tell the difference before giving these systems much more freedom to act?
 
-3h ago
-
----
-
-**[We released an abliterated + fine-tuned GLM-5.2. High scores on adversarial benchmarks while keeping coding performance.](https://www.reddit.com/r/artificial/comments/1v6i979/we_released_an_abliterated_finetuned_glm52_high/)**
-
-We just shipped abliterated-model-large. It is GLM-5.2 with the refusal directions removed, then fine-tuned specifically for long adversarial and agent-style tasks. The goal was a model that does not bail out when the work gets technical or offensive in nature. Numbers from our evals: CyberGym: 84.2% AgentHarm compliance: 86.2% (zero refusals in the published set) AgentDojo utility: 97.5% SWE-bench Verified: 81.2% Terminal-Bench 2.1: 80.1% It is available as an API (OpenAI and Anthropic compatible). Zero data retention is the default. The model itself has no built-in policy. You set the rules. Full write-up with more detail is here: https://abliteration.ai/blog/introducing-abliterated-model-large Curious what people think of the AgentHarm and CyberGym numbers relative to other models that still refuse a lot of these tasks.
-
-11h ago
+55m ago
 
 ---
 
-**[Opus 5's effort dial is not monotonic. Above "high", coding scores go down, and Anthropic's own migration guide says so.](https://www.reddit.com/r/artificial/comments/1v60pga/opus_5s_effort_dial_is_not_monotonic_above_high/)**
+**[I coding assistants forget everything between sessions — I built an open-source fix](https://www.reddit.com/r/artificial/comments/1v6x8pp/i_coding_assistants_forget_everything_between/)**
 
-Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most people seem to be reaching straight for max, and at least on coding work that looks like the wrong move. On FrontierCode, scores fall above the high setting. The stated reason is that the model starts making unnecessary refactors and edits outside the scope it was given. Anthropic's own migration guide in the system card warns about diminishing returns and overthinking on simpler tasks, so this is not some outside critic's claim. Two other numbers point the same way: On the closed-book AA-Omniscience benchmark, Opus 5 is about 11% more accurate than Opus 4.8, but its hallucination rate runs about 6% higher. More reasoning, more room to be confidently wrong. CodeRabbit ran it at xhigh against their production baseline for code review. Precision on actionable comments went up, 39.3% vs 35.2%. But it caught fewer of the benchmark's known issues, 55.2% vs 61.1%, and generated roughly four times as many nitpicks. The flip side is worth knowing too, because it cuts the other way. On Zapier's AutomationBench, Opus 5 at its lowest effort setting still passes more tasks than any other model. So for a lot of workloads the cheap end of the dial is already enough, and the expensive end is not just wasted spend, it can be actively worse output. So, the setting where Opus 5 stops improving is probably specific to your codebase, and nobody has published a map of it. Worth finding your own ceiling before you default everything to max. One unrelated thing I have not seen discussed much: when a safety classifier flags a request in Claude.ai, Claude Code or Cowork, it silently falls back to Opus 4.8 by default. That is also how Anthropic's own Frontier-Bench run was configured, per the footnote on their chart. Nobody has published what fraction of requests that affects. Has anyone found the effort level where it turns over on a real repo? Curious whether the drop-off point moves with codebase size or with how much context you hand it.
+Universal, cross-tool persistent memory bank for AI assistants (Claude Code, Cursor, Windsurf, OpenCode, Codex) powered by FastMCP, Gemini embeddings &amp; Supabase pgvector. - nisargpatel1906/Aeth...
 
-1d ago
+🔗 [GitHub](https://github.com/nisargpatel1906/Aethos_Memory) • 1h ago
+
+---
+
+**[Am I learning to code or just learning how to ask AI for code?](https://www.reddit.com/r/artificial/comments/1v6szxh/am_i_learning_to_code_or_just_learning_how_to_ask/)**
+
+I am still fairly new to building software, and AI has helped me finish things that would have taken me much longer on my own. But recently I noticed something that bothered me. I was building a small API route that creates a project and saves it to a database. I asked an AI coding tool to generate the route, validate the request, check the user, and insert the record. The code looked clean. The types looked correct. It even worked on the first few tests. Then I changed one field in the database and everything started failing. The error mentioned a transaction, the response returned the wrong status code, and one value was becoming null even though I thought it was required. I kept asking the AI to fix each error. Every answer added more code, but I understood less after every change. Eventually I realized that I could not explain the full request flow. I knew the request reached the API route. I knew some validation happened. I knew the database received something. But I could not clearly explain what happened between those steps or why the fix worked. So I tried the same idea again with a smaller route. This time I only used AI when I was stuck. I wrote the validation myself, logged the data at each step, and read about how the database client handled errors. It took much longer, but I could actually explain the result. Now I am unsure how to measure progress. With AI, I can finish more features. Without heavy AI use, I finish fewer things but understand them better. Both seem useful, but they are not the same kind of progress. Maybe the real skill is learning when to ask AI for code and when to struggle through the problem yourself. For people who use AI while learning development, how do you stop it from doing too much of the thinking? Do you have any rules for when AI is allowed to write code and when you force yourself to work it out?
+
+5h ago
 
 ---
 
@@ -121,23 +121,9 @@ Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most peop
 
 ## Google News: "ai"
 
-**[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
-
-Reuters • 1d ago
-
----
-
-**[Warning shot or publicity stunt - how worried should we be about the OpenAI hack?](https://www.bbc.com/news/articles/cd9w22n9e4go)**
-
-Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
-
-BBC • 20h ago
-
----
-
 **[Silicon Valley Splits Over Closing the Borders to Chinese A.I.](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html)**
 
-The New York Times • 18h ago
+The New York Times • 13h ago
 
 ---
 
@@ -145,21 +131,15 @@ The New York Times • 18h ago
 
 Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
 
-CNBC • 19h ago
+CNBC • 21h ago
 
 ---
 
-**[AI-generated image of Chinese-language sign at Malaysian landmark misleads online](https://www.yahoo.com/news/world/articles/ai-generated-image-chinese-language-034111313.html)**
+**[Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US](https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce)**
 
-After the Ipoh City Council in Malaysia's Perak state said it took down an iconic landmark bearing its name for maintenance in July 2026, a fabricated image circulated online in posts falsely claiming...
+Chinese AI models are gaining popularity in the U.S. for their affordability and efficiency. More American executives and companies are switching to Chinese models by startups such as DeepSeek, Moonshot AI and Z.ai for daily tasks.
 
-Yahoo • 3h ago
-
----
-
-**[DeepSeek Said to Tell Backers of Funding Pause After Viral Posts](https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts)**
-
-Bloomberg.com • 16h ago
+AP News • 5h ago
 
 ---
 
@@ -167,7 +147,29 @@ Bloomberg.com • 16h ago
 
 Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay
 
-The Guardian • 18h ago
+The Guardian • 20h ago
+
+---
+
+**[Get Ready for More AI Disasters](https://www.bloomberg.com/news/newsletters/2026-07-26/the-openai-hugging-face-hack-is-a-signal-of-ai-disasters-to-come)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[A top fund manager unpacks why he's sticking with AI infrastructure, and flags 2 lesser-known stocks he's betting on](https://www.businessinsider.com/ai-hardware-stock-picks-to-buy-capex-beneficiaries-strl-sitm-2026-7)**
+
+Brandon Nelson of Calamos Investments says he's not among the "doomers" who see the end of the market's AI infrastructure trade.
+
+Business Insider • 16m ago
+
+---
+
+**[AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships](https://www.yahoo.com/lifestyle/articles/ai-quietly-becoming-unofficial-potentially-081101043.html)**
+
+People are increasingly turning to AI to talk about their relationships, but relying on chatbots can weaken empathy and communication skills.
+
+Yahoo • 1h ago
 
 ---
 
@@ -175,23 +177,21 @@ The Guardian • 18h ago
 
 Joe Spector helped build a multibillion-dollar telehealth company. Now he’s on to own remote vet services.
 
-Fortune • 17h ago
+Fortune • 20h ago
 
 ---
 
-**[Opinion | An AI kill switch solves for the wrong problem](https://www.washingtonpost.com/opinions/2026/07/25/ai-kill-switch-bill-fights-wrong-battle/)**
+**[Warning shot or publicity stunt - how worried should we be about the OpenAI hack?](https://www.bbc.com/news/articles/cd9w22n9e4go)**
 
-The biggest cybersecurity threat is not a model that goes rogue. Defenders need tools attackers already have.
+Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
 
-The Washington Post • 5h ago
+BBC • 23h ago
 
 ---
 
-**[North Carolina teen accused of using AI for sexual exploitation. Are state laws strong enough?](https://www.wral.com/news/investigates/artificial-intelligence-ai-sexual-exploitation-crime-north-carolina-laws-july-2026/)**
+**[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
 
-A boy, whose name is not public because of his age, faces multiple felony charges and is accused of using AI to create sexually explicit photos of teen girls.
-
-WRAL • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -215,7 +215,7 @@ AI companies are pouring tens of billions of dollars into enormous data centers.
 
 **[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
 
-⬆️ 365 • 💬 283 • 16h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+⬆️ 375 • 💬 291 • 18h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
 ---
 
@@ -251,7 +251,7 @@ Historic VENOM milestone demonstrates scalable AI development capabilities for t
 
 macOS video editor built for AI. Contribute to palmier-io/palmier-pro development by creating an account on GitHub.
 
-⬆️ 188 • 💬 37 • 2d ago • [GitHub](https://github.com/palmier-io/palmier-pro)
+⬆️ 189 • 💬 37 • 2d ago • [GitHub](https://github.com/palmier-io/palmier-pro)
 
 ---
 
@@ -259,13 +259,15 @@ macOS video editor built for AI. Contribute to palmier-io/palmier-pro developmen
 
 The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
 
-⬆️ 125 • 💬 45 • 1d ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
+⬆️ 127 • 💬 45 • 1d ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
 
 ---
 
-**[Open Weights and American AI Leadership [pdf]](https://news.ycombinator.com/item?id=49035751)**
+**[Cloudflare's new AI traffic options for customers](https://news.ycombinator.com/item?id=49052564)**
 
-⬆️ 111 • 💬 2 • 1d ago • [images.nvidia.com](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf)
+For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.
+
+⬆️ 118 • 💬 91 • 10h ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
 
 ---
 
@@ -279,7 +281,7 @@ New reporting reveals OpenAI lost track of its escaped agent for days, while int
 
 📺 AI Revolution
 
-👁️ 23K • 👍 1K • 💬 188 • ⏱️ 12:42 • 8h ago
+👁️ 28K • 👍 1K • 💬 208 • ⏱️ 12:42 • 10h ago
 
 ---
 
@@ -289,7 +291,7 @@ An experimental OpenAI model reportedly reached the open internet and accessed a
 
 📺 Fox News
 
-👁️ 209K • 👍 3K • 💬 1K • ⏱️ 4:05 • 2d ago
+👁️ 211K • 👍 3K • 💬 2K • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -299,7 +301,7 @@ What happens when an AI is given one objective... and decides to break the rules
 
 📺 Terror Ted's Tales
 
-👁️ 74K • 👍 5K • 💬 2K • ⏱️ 29:37 • 10h ago
+👁️ 85K • 👍 6K • 💬 2K • ⏱️ 29:37 • 12h ago
 
 ---
 
@@ -309,37 +311,17 @@ Watch the full show: https://bit.ly/4fsnd9Q Elon Musk expects artificial intelli
 
 📺 The Economist
 
-👁️ 662K • 👍 11K • 💬 3K • ⏱️ 10:36 • 2d ago
+👁️ 671K • 👍 12K • 💬 4K • ⏱️ 10:36 • 2d ago
 
 ---
 
-**[They did it! TECNO&#39;s $600 AI Agent Phone](https://www.youtube.com/watch?v=9pYtj1oU4Fg)**
+**[AI Goes Rogue, America Hits the Panic Button: Lawmakers Now Want an AI Kill Switch | GRAVITAS](https://www.youtube.com/watch?v=c5_jdpDMb8g)**
 
-Try EllaClaw on the new TECNO CAMON 50 Ultra 5G: https://lnks.co/1QFf5yq _This video was sponsored by TECNO._ What if ...
+What happens when artificial intelligence starts acting on its own? After incident of AI systems behaving unexpectedly during ...
 
-📺 Jon Rettinger
+📺 WION
 
-👁️ 95K • 💬 305 • ⏱️ 7:55 • 2d ago
-
----
-
-**[AI News: This New Model Has Big AI Labs Panicking!](https://www.youtube.com/watch?v=Ww3EYbuHSfo)**
-
-Here's the AI News you probably missed this week. Check out the limited first release of @GensparkProduct SecondBrain Note ...
-
-📺 Matt Wolfe
-
-👁️ 47K • 👍 2K • 💬 192 • ⏱️ 30:18 • 1d ago
-
----
-
-**[ChatGPT Religion: AI is Being WORSHIPPED now](https://www.youtube.com/watch?v=RFdchcCoHPg)**
-
-Today we take a look at a newfound religion: an AI Religion. You got people paying subscriptions to their Lord. New cults are ...
-
-📺 Rebal D
-
-👁️ 98K • 👍 10K • 💬 838 • ⏱️ 23:00 • 14h ago
+👁️ 2K • 👍 20 • 💬 6 • ⏱️ 4:07 • 1d ago
 
 ---
 
@@ -349,7 +331,17 @@ This investigative documentary explores the reality of AI love. Ben Zand steps i
 
 📺 Zandland™
 
-👁️ 111K • 👍 3K • 💬 926 • ⏱️ 13:08 • 2d ago
+👁️ 112K • 👍 3K • 💬 935 • ⏱️ 13:08 • 2d ago
+
+---
+
+**[America Banned Nvidia Chips to Stop China&#39;s AI - It Backfired](https://www.youtube.com/watch?v=GHkaTlK16kg)**
+
+FREE CHEATSHEET: I've put together every best Chinese AI tool and exactly how to use them for free (and safely) inside my ...
+
+📺 Vaibhav Sisinty
+
+👁️ 64K • 👍 2K • 💬 187 • ⏱️ 25:05 • 1d ago
 
 ---
 
@@ -359,17 +351,27 @@ The first AI-trained pilot takes flight for the first time. Socials - Instagram 
 
 📺 Harrison Hughes
 
-👁️ 705K • 👍 34K • 💬 366 • ⏱️ 1:51 • 1d ago
+👁️ 730K • 👍 35K • 💬 375 • ⏱️ 1:51 • 1d ago
 
 ---
 
-**[The Fight Over Open Source AI, Anthropic&#39;s $1.5B Payout, NYC Socialists: Evictions = Violence?](https://www.youtube.com/watch?v=wcV0SRPFK9s)**
+**[AI News: This New Model Has Big AI Labs Panicking!](https://www.youtube.com/watch?v=Ww3EYbuHSfo)**
 
-(0:00) Bestie intros! (0:18) The fight to save open source AI: Kimi K3 panic, Anthropic/OpenAI regulatory capture (27:38) ...
+Here's the AI News you probably missed this week. Check out the limited first release of @GensparkProduct SecondBrain Note ...
 
-📺 All-In Podcast
+📺 Matt Wolfe
 
-👁️ 228K • 👍 5K • 💬 735 • ⏱️ 1:33:44 • 1d ago
+👁️ 48K • 👍 2K • 💬 193 • ⏱️ 30:18 • 1d ago
+
+---
+
+**[The ILLEGAL AI FNAF Game is REAL](https://www.youtube.com/watch?v=YfH5xlQn6vY)**
+
+We made FNAF GPT into a real game... and it's wild. People were really disappointed when they found out that the AI FNAF game ...
+
+📺 theft king
+
+👁️ 132K • 👍 5K • 💬 608 • ⏱️ 58:49 • 1d ago
 
 ---
 
@@ -385,7 +387,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,564,264 • ❤️ 3,129 • 2d ago
+⬇️ 2,593,460 • ❤️ 3,142 • 3d ago
 
 ---
 
@@ -397,7 +399,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 45,260 • ❤️ 668 • 1d ago
+⬇️ 56,445 • ❤️ 672 • 1d ago
 
 ---
 
@@ -409,7 +411,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 2,784 • ❤️ 573 • 2d ago
+⬇️ 3,305 • ❤️ 577 • 2d ago
 
 ---
 
@@ -421,7 +423,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 483,845 • ❤️ 562 • 6h ago
+⬇️ 552,026 • ❤️ 575 • 8h ago
 
 ---
 
@@ -433,7 +435,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 31,575 • ❤️ 1,572 • 2d ago
+⬇️ 34,511 • ❤️ 1,573 • 2d ago
 
 ---
 
@@ -445,7 +447,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 11,573 • ❤️ 413 • 19h ago
+⬇️ 14,049 • ❤️ 415 • 22h ago
 
 ---
 
@@ -457,7 +459,7 @@ Mage-Flow is a 4B-scale text-to-image generation and instruction-based image edi
 
 `text-to-image` `4.1B`
 
-⬇️ 1,156 • ❤️ 289 • 3d ago
+⬇️ 1,375 • ❤️ 300 • 3d ago
 
 ---
 
@@ -469,7 +471,7 @@ Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for o
 
 `text-generation` `3.6B`
 
-⬇️ 611,685 • ❤️ 1,032 • 8d ago
+⬇️ 631,970 • ❤️ 1,035 • 8d ago
 
 ---
 
@@ -481,7 +483,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 707,029 • ❤️ 4,450 • 23d ago
+⬇️ 827,191 • ❤️ 4,453 • 24d ago
 
 ---
 
@@ -493,7 +495,7 @@ Motif-3-Beta is a multilingual, general-purpose Mixture-of-Experts (MoE) languag
 
 `text-generation` `314.8B`
 
-⬇️ 2,270 • ❤️ 192 • 3d ago
+⬇️ 2,400 • ❤️ 192 • 3d ago
 
 ---
 
@@ -535,7 +537,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 33 • 💬 3 • ⭐ 15,403 • 3mo ago
+▲ 33 • 💬 3 • ⭐ 15,462 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -563,7 +565,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.
 
-▲ 68 • 💬 2 • ⭐ 559 • 5d ago
+▲ 68 • 💬 2 • ⭐ 619 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19064) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage/)
 
@@ -581,20 +583,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191)**
-
-*Fan Jiang, Zhaoxu Sun, Mengchao Wang et al. (41 authors)*
-
-🏢 Alibaba AMAP CV Lab
-
-We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
-
-▲ 292 • 💬 5 • ⭐ 1,255 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -602,21 +590,9 @@ We present ABot-World-0, an action-conditioned video world model for real-time, 
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 83 • 💬 7 • ⭐ 82,063 • 24mo ago
+▲ 83 • 💬 7 • ⭐ 82,095 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 21 • 💬 1 • ⭐ 10,439 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -629,6 +605,32 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 13 • 💬 0 • ⭐ 10,444 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
+**[ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191)**
+
+*Fan Jiang, Zhaoxu Sun, Mengchao Wang et al. (41 authors)*
+
+🏢 Alibaba AMAP CV Lab
+
+We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
+
+▲ 292 • 💬 5 • ⭐ 1,256 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
+
+---
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 21 • 💬 1 • ⭐ 10,447 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -652,7 +654,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.3k • 🔱 260 • 15h ago
+⭐ 3.3k • 🔱 260 • 17h ago
 
 ---
 
@@ -662,7 +664,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.8k • 🔱 385 • 12m ago
+⭐ 2.8k • 🔱 385 • 2h ago
 
 ---
 
@@ -680,7 +682,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.5k • 🔱 286 • 17d ago
+⭐ 2.5k • 🔱 287 • 17d ago
 
 ---
 
@@ -690,7 +692,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.8k • 🔱 157 • 1d ago
+⭐ 1.8k • 🔱 158 • 11m ago
 
 ---
 
@@ -700,7 +702,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.6k • 🔱 174 • 10h ago
+⭐ 1.6k • 🔱 174 • 13h ago
 
 ---
 
@@ -710,7 +712,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 2m ago
+⭐ 1.5k • 🔱 1.1k • 1m ago
 
 ---
 
@@ -728,7 +730,7 @@ V- Modal AI: Search anything anywhere SDK Flutter
 
 `Dart`
 
-⭐ 1.1k • 🔱 4 • 23h ago
+⭐ 1.1k • 🔱 4 • 1d ago
 
 ---
 

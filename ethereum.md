@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-26T07:11:40.107175+00:00'
+updated: '2026-07-26T09:33:07.564847+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 07:11 UTC  
+**Last Updated:** July 26, 2026 at 09:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,878.99
+### $1,884.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** -1.0%  
+**24h:** +1.4%  
+**7d:** -1.1%  
 **30d:** +19.7%  
-**90d:** -17.6%  
-**1y:** -51.3%  
+**90d:** -17.7%  
+**1y:** -51.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.28B
+**Market Cap:** $227.25B
 Rank #2
 
 **Circulating Supply:** 120,682,665 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+434872.6%
++434794.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-52m ago
+3h ago
 
 ---
 
@@ -156,15 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
 
-CryptoSlate • 21h ago
+CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum ETF outflows and rising exchange inflo...](https://pluang.com/en/news-feed/etf-ethereum-keluar-rp707miliar-blackrock-pimpin-penarikan)**
+**[Ethereum and Bitcoin ETFs see outflows, ending weeks of gains amid market shifts and Japan's regulatory reforms.](https://pluang.com/en/news-feed/etf-ethereum-keluar-dana-memicu-keraguan-pasar-kripto)**
 
-Ethereum saw $70.7 million withdrawn from ETFs, led by BlackRock's $52.8 million outflow, interrupting prior inflows and raising concerns about institutional demand. Concurrently, a $5.92 million net inflow into exchanges indicated more ETH was available for trading, suggesting cautious investor behavior near resistance levels. Price rejection below $1,950 weakened bullish momentum, with $1,800 emerging as the next key support level. Market liquidity clusters suggest volatility ahead, with the next significant price move dependent on which side absorbs liquidity first.
+After weeks of continuous inflows, Ethereum and Bitcoin spot ETFs in the U.S. experienced net outflows on July 25, signaling a pause in recent momentum despite positive trends in July overall. Ethereum ETFs saw a $70.62 million outflow, while Bitcoin ETFs had $240.08 million leave, coinciding with price drops for both assets. This shift may reflect changing institutional sentiment on Wall Street. Meanwhile, Japan's regulatory reforms are paving the way for local spot ETFs, potentially unlocking $18.4 billion by connecting household wealth to crypto markets, indicating long-term institutional growth despite short-term U.S. market adjustments.
 
-Pluang • 3h ago
+Pluang • 1h ago
 
 ---
 
@@ -184,6 +184,14 @@ CoinDesk • 2d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
+
+Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
+
+Benzinga • 2d ago
+
+---
+
 **[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
@@ -192,43 +200,35 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain](https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/)**
-
-A large Ethereum short on Hyperliquid is giving the market another glimpse of how serious capital is starting to use decentralized derivatives venues, not just centralized exchanges and OTC desks.The position, tracked through the Hyperliquid explorer at wallet address `0x7fdafde5cfb5465924316eced2d…
-
-TradingView • 2d ago
-
----
-
-**[Crypto Today: BTC, ETH, XRP steady as ETF flows diverge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-pare-losses-as-breakout-potential-builds-202607241100)**
-
-Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
-
-FXStreet • 1d ago
-
----
-
-**[BlackRock clients sell $53M in Ethereum via iShares ETF](https://cryptobriefing.com/blackrock-clients-sell-53m-in-ethereum-via-ishares-etf/)**
-
-BlackRock clients sold $53M in Ethereum via iShares ETF. Ethereum dip to $1,300 in July at 0.2% YES.
-
-Crypto Briefing • 23h ago
-
----
-
 **[Ethereum ETFs Post $70.6M Outflow but Extend Weekly Inflow Streak](https://financefeeds.com/ethereum-etfs-post-70-6m-outflow-but-extend-weekly-inflow-streak/)**
 
 Spot Ethereum ETFs saw $70.6M in Friday outflows but still closed the week +$103.9M, extending their inflow streak to three straight weeks in July.
 
-FinanceFeeds • 14h ago
+FinanceFeeds • 17h ago
 
 ---
 
-**[Cardano Founder Slams Ethereum's Governance, Says Crypto Needs 'Insurance' To Grow Up](https://finance.yahoo.com/markets/crypto/articles/cardano-founder-slams-ethereums-governance-203014155.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015508966.html)**
 
-Cardano founder Charles Hoskinson says the next phase of cryptocurrency adoption will be driven less by faster blockchains and more by safety, governance and consumer protections. Ethereum ‘Keeps Doing Things Wrong’ In an interview with CoinDesk on July 23, Hoskinson,...
+Leading cryptocurrencies flatlined on Wednesday as investors weighed the implications of the Clarity Act and rising geopolitical tensions in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:23 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.64%$65,933.49Ethereum (CRYPTO: ETH) +0.05%$1,931.41XRP (CRYPTO: XRP) -0.32%$1.13Solana (CRYPTO: SOL) -0.18%$78.12Dogecoin (CRYPTO: DOGE) -0.79%$0.07287 Crypto Rally Cools Bitcoin failed to break through $67,000 and slipped back to $65,000 after encounter
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 3d ago
+
+---
+
+**[Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart](https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart)**
+
+The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.
+
+CoinDesk • 2d ago
+
+---
+
+**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
+
+Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
+
+The Block • 1mo ago
 
 ---
 
@@ -236,23 +236,23 @@ Yahoo Finance • 10h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=CZWZVLPuYDg)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 193 • 💬 70 • ⏱️ 18:08 • 1d ago
-
----
-
 **[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=JujVzGOPrrc)**
 
 In this video I break down the current Ethereum price action and why the recent rally remains within the context of a larger bearish ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 153 • 💬 7 • ⏱️ 7:13 • 16h ago
+👁️ 3K • 👍 153 • 💬 7 • ⏱️ 7:13 • 18h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=CZWZVLPuYDg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 199 • 💬 70 • ⏱️ 18:08 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 5K • 👍 277 • 💬 15 • ⏱️ 8:31 • 20h ago
+👁️ 5K • 👍 281 • 💬 15 • ⏱️ 8:31 • 23h ago
 
 ---
 
@@ -272,27 +272,27 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 552 • 💬 255 • ⏱️ 16:34 • 2d ago
+👁️ 11K • 👍 553 • 💬 255 • ⏱️ 16:34 • 2d ago
 
 ---
 
-**[BITCOIN SQUEEZE: This Will Shock EVERYONE (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Tn4mhAv7T8o)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ZdbUEuTCn04)**
 
-BITCOIN SQUEEZE: This Will Shock EVERYONE (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto World
+📺 Crypto Gyan
 
-👁️ 5K • 👍 310 • 💬 158 • ⏱️ 23:15 • 10h ago
+👁️ 680 • 👍 66 • ⏱️ 8:05 • 5h ago
 
 ---
 
-**[Joseph Chalom: Ethereum Is Going On Offense (Be Early)](https://www.youtube.com/watch?v=lNvBwMRc5fo)**
+**[Can Ethlabs Make Ethereum The Root Of Global Finance?](https://www.youtube.com/watch?v=0PIWr1v0N7Q)**
 
-Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bullish dynamic once market sentiment turns.
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 The Rollup
+📺 Milk Road
 
-👁️ 3K • 👍 64 • 💬 9 • ⏱️ 3:42 • 2d ago
+👁️ 4K • 👍 131 • 💬 99 • ⏱️ 55:25 • 2d ago
 
 ---
 
@@ -302,7 +302,17 @@ Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Teleg
 
 📺 BITLOBO TRADING
 
-👁️ 4K • 👍 738 • 💬 4 • ⏱️ 2:07:29 • 11h ago
+👁️ 4K • 👍 741 • 💬 4 • ⏱️ 2:07:29 • 14h ago
+
+---
+
+**[AI Just Found a Critical Bug in Ethereum!](https://www.youtube.com/watch?v=qy8wGDpDFI0)**
+
+Ethereum ETH News Update: AI has discovered a real security vulnerability in Ethereum's validator software. In this video, we ...
+
+📺 Linda CryptoFly
+
+👁️ 2K • 👍 190 • 💬 44 • ⏱️ 7:27 • 1d ago
 
 ---
 
@@ -316,23 +326,13 @@ ETH just spiked to $1950 and wiped out $62 million in shorts. Here's the strange
 
 ---
 
-**[AI Just Found a Critical Bug in Ethereum!](https://www.youtube.com/watch?v=qy8wGDpDFI0)**
+**[Tom Lee Just Called Ethereum The Land Of The Digital World](https://www.youtube.com/watch?v=opPM0hlo9P4)**
 
-Ethereum ETH News Update: AI has discovered a real security vulnerability in Ethereum's validator software. In this video, we ...
+Tom Lee says Ethereum at 300 billion dollars is grossly undervalued and could reach one to five trillion. Here is the land ...
 
-📺 Linda CryptoFly
+📺 Lark Davis
 
-👁️ 2K • 👍 189 • 💬 44 • ⏱️ 7:27 • 1d ago
-
----
-
-**[BALEIAS ESTÃO SHORTANDO BITCOIN E ETHEREUM: O QUE ELAS SABEM?](https://www.youtube.com/watch?v=utRYblKlbtE)**
-
-Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto boa parte do varejo já acredita em uma ...
-
-📺 Augusto Backes
-
-👁️ 11K • 👍 723 • 💬 25 • ⏱️ 13:08 • 1d ago
+👁️ 6K • 👍 151 • 💬 14 • ⏱️ 0:53 • 2d ago
 
 ---
 
