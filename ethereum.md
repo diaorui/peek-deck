@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-26T16:01:14.738391+00:00'
+updated: '2026-07-26T17:32:32.653697+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 16:01 UTC  
+**Last Updated:** July 26, 2026 at 17:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,912.92
+### $1,915.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
+**24h:** +2.1%  
 **7d:** +0.6%  
 **30d:** +21.7%  
 **90d:** -16.3%  
-**1y:** -50.5%  
+**1y:** -50.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-9h ago
+11h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
 
-24/7 Wall St. • 4h ago
+24/7 Wall St. • 5h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 1d ago
 
 Tom Lee, BitMine Chairman, forecasts Ethereum reaching $250,000 per token long-term, citing its transition to Ethereum 2.0 as a key phase similar to Amazon and Nvidia's past growth. He argues Ethereum will become 'productive money' in an AI-driven economy, serving as a global settlement layer and trust platform for autonomous AI transactions. BitMine holds 5.74 million ETH, about 4.8% of supply, supporting this outlook with institutional investments and validator networks. Near-term technical analysis suggests ETH could rise to around $2,200 soon, marking early steps toward Lee's larger vision.
 
-Pluang • 2h ago
+Pluang • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ Pluang • 2h ago
 
 Arthur Hayes, co-founder of BitMEX, purchased 1,290 ETH worth about $2.5 million, adding to growing interest in Ethereum as it consolidates below the critical $1,900 resistance level. Analysts are watching closely to see if ETH can break above $1,900, which could trigger a move toward $2,000 and possibly higher resistance levels around $2,200 and $2,400. Meanwhile, Ethereum's network activity remains strong with steady new smart contract deployments, indicating ongoing developer engagement despite recent price volatility. The combination of institutional buying and healthy network growth suggests Ethereum may be poised for a significant price move if it can sustain support above $1,900.
 
-Pluang • 39m ago
+Pluang • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ Pluang • 39m ago
 
 Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -216,19 +216,19 @@ Benzinga • 2d ago
 
 ---
 
-**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
-
-Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
-
-CoinDesk • 3d ago
-
----
-
 **[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
 
 Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
 
 Seeking Alpha • 3d ago
+
+---
+
+**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
+
+Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
+
+CoinDesk • 3d ago
 
 ---
 
@@ -242,7 +242,7 @@ Something bizarre is clearly happening in the crypto market right now, i dont kn
 
 📺 Money Rules - Investing Tips 
 
-👁️ 3K • 👍 585 • 💬 177 • ⏱️ 21:32 • 2h ago
+👁️ 3K • 👍 585 • 💬 177 • ⏱️ 21:32 • 4h ago
 
 ---
 
@@ -262,7 +262,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 208 • 💬 70 • ⏱️ 18:08 • 1d ago
+👁️ 6K • 👍 208 • 💬 70 • ⏱️ 18:08 • 2d ago
 
 ---
 
@@ -272,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Get funded with Breakout — Kraken-backed cr
 
 📺 Cilinix Crypto
 
-👁️ 152 • 👍 17 • ⏱️ 5:46 • 7h ago
+👁️ 152 • 👍 17 • ⏱️ 5:46 • 8h ago
 
 ---
 
@@ -292,7 +292,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 252 • 👍 33 • ⏱️ 7:57 • 1h ago
+👁️ 252 • 👍 33 • ⏱️ 7:57 • 3h ago
 
 ---
 
@@ -312,7 +312,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Crypto trading in In
 
 📺 Ashutosh Kumar
 
-👁️ 7K • 👍 759 • 3h ago
+👁️ 7K • 👍 759 • 4h ago
 
 ---
 
@@ -322,7 +322,7 @@ Ethereum ETH News Update: AI has discovered a real security vulnerability in Eth
 
 📺 Linda CryptoFly
 
-👁️ 2K • 👍 194 • 💬 45 • ⏱️ 7:27 • 1d ago
+👁️ 2K • 👍 194 • 💬 45 • ⏱️ 7:27 • 2d ago
 
 ---
 
@@ -332,7 +332,7 @@ Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Teleg
 
 📺 BITLOBO TRADING
 
-👁️ 4K • 👍 743 • 💬 5 • ⏱️ 2:07:29 • 20h ago
+👁️ 4K • 👍 743 • 💬 5 • ⏱️ 2:07:29 • 22h ago
 
 ---
 

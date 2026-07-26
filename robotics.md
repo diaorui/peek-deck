@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-26T16:01:14.741669+00:00'
+updated: '2026-07-26T17:32:32.656920+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 26, 2026 at 16:01 UTC  
+**Last Updated:** July 26, 2026 at 17:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main PC. I still use a separate animation editor that I built for creating movements. Each joint has its own timeline with position keyframes, velocity, torque limits, and controller parameters. Finished animations are sent to the lamp and played back locally. I’ve also installed an addressable LED ring with a 3D-printed diffuser inside the head. Brightness and transitions are now part of the same animation timeline, allowing the light to be synchronized with movement. This video is a quick test of the new setup. I’m currently tuning the motor parameters, brightness curves, and transition timings before using the light in more expressive animations.
 
-21h ago
+22h ago
 
 ---
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-54m ago
+2h ago
 
 ---
 
@@ -62,7 +62,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 Just finished modifying the arm holder/mount for my DIY robot. The old PLA bracket was flexing too much under load, so I redesigned it to be sturdier. Watch the clip to see the improved range of motion. The difference is night and day. No more wobbly joints! Next step is to test the weight capacity.
 
-13h ago
+15h ago
 
 ---
 
@@ -70,7 +70,7 @@ Just finished modifying the arm holder/mount for my DIY robot. The old PLA brack
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-27m ago
+1h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
 
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 3h ago
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 5h ago
 
 ---
 
@@ -86,7 +86,7 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 I wanna show my progress with ros2 and gazebo i could move it while it is lauched and use the teleop to move a little it is not perfect but i am satiefied with the progress.I will try later with gz bridge to pu blish some movement commands
 
-🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 1h ago
+🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 3h ago
 
 ---
 
@@ -94,7 +94,7 @@ I wanna show my progress with ros2 and gazebo i could move it while it is lauche
 
 Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous rotation servo. The gyro normally has centering springs but they have been removed to increase sensitivity. The gyro has a hall effect sensor in it and an analog circuit which generates PWM pulses that the servo uses as a velocity control. A 3 axis version of this arrangement is what made the Apollo guidance computer so accurate at knowing its own pose over long distances and times. This single axis version could be a gyrocompass in a robot or aircraft, to maintain heading even if the magnetic compass quits working etc Now we have laser ring gyros and other extremely accurate solid state sensors and amazing computational power and algorithms to integrate the readings to probably surpass any internal flywheel arrangements accuracy.
 
-16h ago
+18h ago
 
 ---
 
@@ -108,6 +108,12 @@ Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous ro
 
 ## Google News: "robotics"
 
+**[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
+
+Tech Xplore • 2d ago
+
+---
+
 **[The Robots Cometh](https://time.com/article/2026/07/23/unitree-china-human-robotics/)**
 
 The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
@@ -116,31 +122,9 @@ Time Magazine • 3d ago
 
 ---
 
-**[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
+**[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
 
-Tech Xplore • 2d ago
-
----
-
-**[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Light Flips Memory to Feed Hungry AI Chips With Less Energy](https://spectrum.ieee.org/ai-in-robotics)**
-
-Projecting light directly onto a chip could stream data using less energy
-
-IEEE Spectrum • 2h ago
-
----
-
-**[This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears](https://finance.yahoo.com/technology/ai/articles/eric-trump-backed-startup-just-143015023.html)**
-
-Eric Trump-backed Foundation Future Industries will use Advanced Micro Devices Inc. chips to develop autonomous humanoid robots for factories and military operations, with industrial customers paying about $100,000 annually to lease each machine. AMD Chips Power Next Phantom Robot According...
-
-Yahoo Finance • 1d ago
+Tech Xplore • 1m ago
 
 ---
 
@@ -148,13 +132,27 @@ Yahoo Finance • 1d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 4h ago
 
 ---
 
-**[With Washington’s help, humanoid robots can transform US manufacturing](https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/)**
+**[This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around.](https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7)**
 
-The Hill • 1d ago
+A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
+
+Business Insider • 2d ago
+
+---
+
+**[M'bishi Motors teams up with startup to mass produce humanoid robots](https://japantoday.com/category/tech/mitsubishi-motors-teams-up-with-startup-to-mass-produce-humanoid-robots)**
+
+Japan Today • 10h ago
+
+---
+
+**[SoftBank Weighs Deal for Robotics Startup Gravis](https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -174,11 +172,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[Robotic clothes allow you to suit up hands-free](https://www.livenowfox.com/news/new-robotic-clothes-allow-you-suit-up-hands-free)**
+**[Tech Moves: Agility Robotics gets CFO; Microsoft security departure; Zap's legal officer; new KEXP CPTO](https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/)**
 
-Researchers have developed a soft-robotic technology that allows users to put on protective clothing hands-free and in seconds.
+Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
 
-LiveNOW from FOX • 2d ago
+GeekWire • 2d ago
 
 ---
 
@@ -202,7 +200,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 3K • 👍 149 • 💬 11 • ⏱️ 4:23 • 4h ago
+👁️ 3K • 👍 149 • 💬 11 • ⏱️ 4:23 • 5h ago
 
 ---
 
@@ -282,7 +280,7 @@ Creative fest,how to make a robot,walking robot diy,simple science project for s
 
 📺 Creative fest
 
-👁️ 3K • 👍 17 • ⏱️ 0:31 • 6h ago
+👁️ 3K • 👍 17 • ⏱️ 0:31 • 7h ago
 
 ---
 
