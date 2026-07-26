@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-26T20:29:17.778826+00:00'
+updated: '2026-07-26T21:29:47.706233+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 26, 2026 at 20:29 UTC  
+**Last Updated:** July 26, 2026 at 21:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -54,7 +54,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -62,7 +62,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 Just finished modifying the arm holder/mount for my DIY robot. The old PLA bracket was flexing too much under load, so I redesigned it to be sturdier. Watch the clip to see the improved range of motion. The difference is night and day. No more wobbly joints! Next step is to test the weight capacity.
 
-18h ago
+19h ago
 
 ---
 
@@ -70,7 +70,7 @@ Just finished modifying the arm holder/mount for my DIY robot. The old PLA brack
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-4h ago
+5h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
 
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 8h ago
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 9h ago
 
 ---
 
@@ -86,7 +86,7 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 I wanna show my progress with ros2 and gazebo i could move it while it is lauched and use the teleop to move a little it is not perfect but i am satiefied with the progress.I will try later with gz bridge to pu blish some movement commands
 
-🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 6h ago
+🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 7h ago
 
 ---
 
@@ -94,7 +94,7 @@ I wanna show my progress with ros2 and gazebo i could move it while it is lauche
 
 Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous rotation servo. The gyro normally has centering springs but they have been removed to increase sensitivity. The gyro has a hall effect sensor in it and an analog circuit which generates PWM pulses that the servo uses as a velocity control. A 3 axis version of this arrangement is what made the Apollo guidance computer so accurate at knowing its own pose over long distances and times. This single axis version could be a gyrocompass in a robot or aircraft, to maintain heading even if the magnetic compass quits working etc Now we have laser ring gyros and other extremely accurate solid state sensors and amazing computational power and algorithms to integrate the readings to probably surpass any internal flywheel arrangements accuracy.
 
-21h ago
+22h ago
 
 ---
 
@@ -112,7 +112,7 @@ Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous ro
 
 Projecting light directly onto a chip could stream data using less energy
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 8h ago
 
 ---
 
@@ -122,17 +122,35 @@ Tech Xplore • 2d ago
 
 ---
 
+**[Throw Away the Urn! New Digital DNA AGI Robots Let Loved Ones Live for 500 Years (Veterans First for America)](https://finance.yahoo.com/technology/ai/articles/throw-away-urn-digital-dna-181200744.html)**
+
+QAIAx Microcity - AI City Hall Project (Clean Air - Video Clip) ALEXANDRIA, Va., July 26, 2026 (GLOBE NEWSWIRE) -- A mind-blowing patent application submitted to the U.S. Patent and Trademark Office, by a quantum AI robotics research team sponsored by a veterans organization, working in collaboration with special operations defense and cybersecurity agencies for the QAIAx AI City Hall Project, a federally registered public health clinical trial at the National Institute of Health and National Li
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Meet the robots programmed by kids to speak their Indigenous languages](https://www.npr.org/transcripts/nx-s1-5825798)**
+
+Many Native American languages are endangered. With the help of his mentor, a 12-year-old in Michigan hopes to help preserve his language through robotics.
+
+NPR • 12h ago
+
+---
+
 **[What's Next for Humanoids After This Week's Cage Match and Cowboying?](https://spectrum.ieee.org/video-friday-physical-ai-robotics)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 2d ago
 
 ---
 
-**[M'bishi Motors teams up with startup to mass produce humanoid robots](https://japantoday.com/category/tech/mitsubishi-motors-teams-up-with-startup-to-mass-produce-humanoid-robots)**
+**[This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around.](https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7)**
 
-Japan Today • 13h ago
+A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
+
+Business Insider • 2d ago
 
 ---
 
@@ -140,7 +158,7 @@ Japan Today • 13h ago
 
 A school district in western New York is is deploying a humanoid robot from a sex doll-affiliated company in its classrooms.
 
-Futurism • 8h ago
+Futurism • 9h ago
 
 ---
 
@@ -166,22 +184,6 @@ On3 • 1d ago
 
 ---
 
-**[Tech Moves: Agility Robotics gets CFO; Microsoft security departure; Zap's legal officer; new KEXP CPTO](https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/)**
-
-Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
-
-GeekWire • 3d ago
-
----
-
-**[Robots Are Coming — but Not Everywhere](https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/)**
-
-Humanoid robot technologies are advancing fast, but adoption speed depends on each role, location, and human response.
-
-MIT Sloan Management Review • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -192,7 +194,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 3.5M • 👍 2K • 💬 443 • ⏱️ 2:15 • 6d ago
+👁️ 3.5M • 👍 2K • 💬 444 • ⏱️ 2:15 • 6d ago
 
 ---
 
@@ -202,7 +204,7 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 16K • 👍 165 • 💬 93 • ⏱️ 5:29 • 3d ago
+👁️ 16K • 👍 166 • 💬 93 • ⏱️ 5:29 • 3d ago
 
 ---
 
@@ -212,7 +214,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 5K • 👍 204 • 💬 12 • ⏱️ 4:23 • 8h ago
+👁️ 6K • 👍 229 • 💬 13 • ⏱️ 4:23 • 9h ago
 
 ---
 
@@ -222,7 +224,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 86K • 👍 3K • 💬 211 • ⏱️ 12:28 • 5d ago
+👁️ 88K • 👍 3K • 💬 212 • ⏱️ 12:28 • 5d ago
 
 ---
 
@@ -232,7 +234,7 @@ BMW Group intensifies the use of digitalization and the use of artificial intell
 
 📺 The Wheel Network
 
-👁️ 23K • 👍 477 • 💬 142 • ⏱️ 6:24 • 4d ago
+👁️ 23K • 👍 480 • 💬 143 • ⏱️ 6:24 • 4d ago
 
 ---
 
@@ -242,7 +244,7 @@ Everyone is asking if killer robots are coming. Wrong question. One already knoc
 
 📺 Ambrose In China
 
-👁️ 715K • 👍 25K • 💬 5K • ⏱️ 2:25 • 6d ago
+👁️ 722K • 👍 25K • 💬 5K • ⏱️ 2:25 • 6d ago
 
 ---
 
@@ -252,7 +254,25 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 49K • 👍 964 • 💬 412 • ⏱️ 2:02 • 4d ago
+👁️ 49K • 👍 969 • 💬 413 • ⏱️ 2:02 • 4d ago
+
+---
+
+**[Humanoid Robots Debut at WAIC—The Resemblance Is Uncanny!](https://www.youtube.com/watch?v=Y0nJYygqckM)**
+
+WAIC 2026 wrapped up in Shanghai, with robots once again stealing the spotlight. Nothing gets the crowd going quite like a robot ...
+
+📺 Tech Innovation DeepTalk
+
+👁️ 14K • 👍 5 • ⏱️ 0:23 • 3d ago
+
+---
+
+**[Silver Robot Armor Transformation! 🤖✨ Wait For End 😱 #shorts #ai #Robot #tutorialfilter](https://www.youtube.com/watch?v=zuZOFZw7I-U)**
+
+📺 Mannu Edit
+
+👁️ 106K • 💬 16 • ⏱️ 0:11 • 4d ago
 
 ---
 
@@ -262,25 +282,7 @@ The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it clim
 
 📺 DPCcars
 
-👁️ 18K • 👍 149 • 💬 62 • ⏱️ 2:32 • 2d ago
-
----
-
-**[Silver Robot Armor Transformation! 🤖✨ Wait For End 😱 #shorts #ai #Robot #tutorialfilter](https://www.youtube.com/watch?v=zuZOFZw7I-U)**
-
-📺 Mannu Edit
-
-👁️ 102K • 💬 16 • ⏱️ 0:11 • 4d ago
-
----
-
-**[DIY open source Ai robotics plateforme with dual so101 arms 🤖](https://www.youtube.com/watch?v=FRF3yDY4np4)**
-
-GitHub: https://github.com/Mr-C4T/AB-SO-BOT #so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware.
-
-📺 Robot Learning Laboratory
-
-👁️ 802 • 👍 4 • ⏱️ 0:18 • 4h ago
+👁️ 18K • 👍 150 • 💬 62 • ⏱️ 2:32 • 2d ago
 
 ---
 

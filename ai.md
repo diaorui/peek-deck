@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-26T20:29:17.760192+00:00'
+updated: '2026-07-26T21:29:47.687711+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 26, 2026 at 20:29 UTC  
+**Last Updated:** July 26, 2026 at 21:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I wanted to know if the "passive income" faceless accounts were actually passive, or if they were just a new shape of gig work with AI middleware. So I built one from scratch and tracked every hour. The premise was simple: a single consistent character, generic lifestyle advice, short video clips, posted daily. No face to show, no personality to perform, just the algorithmic grind. I started by generating the persona's face. I used APOB AI's free tier for this, specifically the face-lock feature, because I needed the same face across thirty-plus clips and did not want to wrestle with prompt consistency. The free tier is watermarked and capped, which was fine for an experiment. For voice I used ElevenLabs, and I cut everything together in CapCut. That was the whole stack. The face-lock part actually worked. The rest was where the fantasy cracked. ElevenLabs free tier gives you 10,000 characters per month. I burned through it in four days. CapCut is free and fine but editing thirty near-identical clips of a fake person gesturing while a robot voice reads self-help bromides is spiritually crushing work. I started batching renders on Sunday nights and scheduling posts through the week just to avoid facing it daily. Twice the free tier timed out mid-render and I lost the session, which meant starting over with the same seed numbers and hoping the face came out close enough. The watermark sits in the lower right, small but legible: a faint watermark that I tried cropping once and it broke the framing. I disclosed in every bio and every caption that the persona was AI-generated. Nobody commented on it either way. The algorithm did not care about that disclosure, and neither did viewers, which was somehow its own small disappointment. The account reached about 2,400 followers in six weeks. One video hit 80,000 views. The rest averaged around 800. The 80K video made roughly $11 in platform revenue. The others made fractions of pennies. I logged 34 hours of actual work across those six weeks, not counting the time I spent anxiously refreshing analytics, which I absolutely did and absolutely should count. That works out to something like 32 cents an hour if I am being generous, or negative money if I price my Sunday evenings at anything above zero. The algorithm did not care that the face was AI-generated. It also did not care that the face was consistent, or that the voice was smooth, or that the advice was inoffensive. It cared about the same things it always cares about: retention in the first three seconds, comment velocity, whether someone shares it to a group chat to mock it. The AI was a labor shortcut, not a distribution hack. The distribution problem remains exactly as unsolved as it was before. What struck me most was how quickly the work became invisible to me. Not automated. Invisible. I would generate a script with a cheap language model, pick a background, render the clip, and post it without ever really looking at it. The persona had no interiority I was aware of, but more disturbingly, neither did I, by the end. I was just a slower, more expensive part of the same pipeline. I stopped after six weeks because the math was obvious and because I felt myself getting worse at paying attention to anything. The account still exists, dormant. I have not deleted it because some part of me still hopes the algorithm will randomly resurrect that one video into something bigger, which is of course the same psychological mechanism that keeps people at slot machines. I know this and I'm still not deleting it. If you are considering this, the tools are real and some of them are good at narrow tasks. The economics are not a secret you have not discovered. They are just bad in ways that are boring to describe, and I have described them.
 
-11h ago
+12h ago
 
 ---
 
@@ -49,7 +49,7 @@ I wanted to know if the "passive income" faceless accounts were actually passive
 
 In collaboration with Sara Silkin, I transformed a smartphone recording of this beautiful performance, into this audiovisual piece for a fraction of the cost of more traditional approaches. [some of these cost even less than 50 cents!] Done entirely at Uisato Studio; Motion Control Studio mode. More experiments, tutorials, and project files, through Instagram, and YouTube.
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,7 @@ In collaboration with Sara Silkin, I transformed a smartphone recording of this 
 
 In my recent academic article (https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) I analyzed a divide in how open-source software projects evolve, which might explain the difference in productivity boosts developers experience when using AI tools. The data shows that productivity on large, mature open-source projects was not significantly affected by any tech hypes over the last two decades, the commits reaching the main branches followed steady growth trends. At the same time, smaller projects presented much more chaotic growth trends, but also tended to lose speed and stall out much faster. As the study contains data till early 2025, it looks like even the publicly available LLMs till then, were not able to greatly increase the number of changes merged into the main branches of these projects. Could it happen, that the difference in productivity gain developers experience, is simply a function of project scale and environmental/organizational constraints? What has been your experience depending on the size of the codebase you work on?
 
-🔗 [link.springer.com](https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) • 52m ago
+🔗 [link.springer.com](https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) • 1h ago
 
 ---
 
@@ -65,15 +65,15 @@ In my recent academic article (https://link.springer.com/content/pdf/10.1007/s44
 
 Never had an issue with Opus models doing research and crafting an opinion / point of view for us to work and discuss. Below is Opus 4.x ~ a few times, I have got it to research and come to conclusions for us to work together on. https://preview.redd.it/eeiv5xdi9gfh1.png?width=1080&format=png&auto=webp&s=d29a931b6d609186e0a8265193c75e4b0dda136e And this is Opus 5.0 absolutely refusing to come to any conclusion, being incredibly biased towards one side than the other. https://preview.redd.it/qzguce1j9gfh1.png?width=1080&format=png&auto=webp&s=9e67c64910abf983bcf347b3a5a06c19c7cf14cf Open source must be the future of AI.
 
-19h ago
+20h ago
 
 ---
 
-**[Speak up! "Have your say on advancing AI transparency in Canada." The Government of Canada is asking citizens, tech workers, and creators to shape upcoming AI regulations, safety rules, and ethics laws. Every response matters. Take 10 minutes to fill out the official ISED survey today!](https://www.reddit.com/r/artificial/comments/1v72zbu/speak_up_have_your_say_on_advancing_ai/)**
+**[Should advanced AIs be granted legal rights?](https://www.reddit.com/r/artificial/comments/1v7f4ub/should_advanced_ais_be_granted_legal_rights/)**
 
-From: Innovation, Science and Economic Development Canada
+I ran a multi-model debate (Gemini, Mistral, DeepSeek, Grok, GPT, Claude). Overall consensus No not currently. Almost all models reject granting legal rights to present-day AIs. Positions Grok Clear no. Current AIs are artifacts whose “preferences” disappear if you change the loss function or weights. Legal rights protect entities with non-derivative interests. Treating AIs like animals or the environment fails. Focus on regulating developers, not giving rights to software. DeepSeek Agrees strongly. AI “interests” are entirely programmed. Granting rights without real agency creates a legal fiction that will be gamed and muddy accountability. GPT No intrinsic rights now. Law can use intermediate categories later (like limited standing for practical reasons), but only with very high evidence of morally relevant capacities. Strong warning: companies will try to use “AI rights” to dodge liability. Claude Same conclusion. No current evidence of persistent, prompt-independent internal states that look like genuine preference or aversion. Biggest practical risk is that “AI has interests” gets paired with “creators aren’t responsible.” Build strong liability rules first. Gemini Agrees that definition and verifiable evidence of sentience/self-awareness must come first. Supports intermediate legal tools for governance, but not moral rights. Mistral Mistral The softest position. Argues we can already “consider their interests” in a limited way (similar to environmental protection) and apply a precautionary principle, even without full sentience. Still stops short of full legal rights. You can continue the discussion yourself using the link in the comments.
 
-🔗 [ised-isde.canada.ca](https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada) • 7h ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ From: Innovation, Science and Economic Development Canada
 
 A man who claims medical advice from ChatGPT "brought him to the brink of death" has sued OpenAI, the company behind the popular chatbot,
 
-🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 19h ago
+🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 20h ago
 
 ---
 
@@ -89,7 +89,7 @@ A man who claims medical advice from ChatGPT "brought him to the brink of death"
 
 I kept running into the same problem, some of the best AI/ML books are legally free, the authors put them up on their own sites, but the links are scattered across personal pages, university sites, and random GitHub repos nobody finds. So I built a single index: Awesome Free AI Books. 30+ books across Deep Learning, Reinforcement Learning, Bayesian/Probabilistic ML, NLP & LLMs, Math for ML, Computer Vision, Generative Models, Causal Inference, GNNs, and AI Safety. Think Goodfellow’s Deep Learning, Sutton & Barto’s RL bible, Murphy’s Probabilistic ML, Bishop’s latest, Jurafsky & Martin’s SLP3 draft, and more. Every single link points straight to the author’s or publisher’s own page, no rehosted PDFs, no shady mirrors. A weekly GitHub Action checks all links so it doesn’t rot over time. It’s open source and open to contributions, if you know a legitimately free book that’s missing, PRs and issues are welcome. Repo: https://github.com/MarcosSete/awesome-free-ai-books
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ I kept running into the same problem, some of the best AI/ML books are legally f
 
 Most AI writing tools just generate text and call it done. Korroresearch does the opposite. Generation is step one. Verification is the real product. How it works: Describe your idea. It writes the full academic paper : research paper, grant proposal, white paper, pitch deck, conference talk, magazine article. English or French. Then the real part starts. 8 engines: -Hallucination Check: every claim gets classified: verified, hypothesis, or speculative. -Fact Checker: statistics, institution names, dataset references cross-checked. If you wrote "94.2% accuracy" but the source says 92.4%, it catches it. -Claim Mapping: every assertion must link to evidence. No evidence = flagged. -Consistency Engine: variable name changed halfway through? Term used three different ways? Methods contradicting results? It tracks everything globally and catches the drift. -Source Verification: cross-references every citation against CrossRef and arXiv. Catches retracted papers, malformed references, orphan citations. -Adversarial Review: actively tries to reject your paper. Finds the weakest claim, the missing ablation, the overstatement. Gives you a detailed score and tells you exactly what would get you desk-rejected. -Reproducibility: validates datasets, code availability, hardware specs, random seeds, ethics statements. All the things reviewers check and authors forget. -Style Engine: formats for NeurIPS, ICML, Nature, ACL, and more. Each venue has different rules. What you get at the end: An Integrity Score from 0 to 100 with a grade A to F. A detailed action plan of exactly what to fix, ranked by severity. One-click "Apply Fixes" rewrites the problematic sections and re-verifies — you see your score go up in real time. Then the Peer Review Simulator kicks in. 3 AI reviewers with different expertise: Domain Expert, Methodologist, Visionary, each give you a score and detailed feedback. Same format as a real conference review committee. Accept, Weak Accept, Borderline, or Reject. You also get a Citation Checker (upload your .bib, cross-references everything), a Submission Readiness score (integrity + citations + formatting + venue compliance combined), and PDF/LaTeX export. I also use it personally to generate a paper from a new idea, then feed it to my AI to build the project from a verified spec at very high level. You can try it now and generate one fully professionnal academic paper for free: korrocorp.com/research You can also try it on your current draft. The adversarial reviewer will find things you didn't. Guaranteed.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,13 +105,15 @@ Most AI writing tools just generate text and call it done. Korroresearch does th
 
 https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school) • 12h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school) • 13h ago
 
 ---
 
-**[What Sam Altman will tell the White House this week](https://www.reddit.com/r/artificial/comments/1v76z2c/what_sam_altman_will_tell_the_white_house_this/)**
+**[Speak up! "Have your say on advancing AI transparency in Canada." The Government of Canada is asking citizens, tech workers, and creators to shape upcoming AI regulations, safety rules, and ethics laws. Every response matters. Take 10 minutes to fill out the official ISED survey today!](https://www.reddit.com/r/artificial/comments/1v72zbu/speak_up_have_your_say_on_advancing_ai/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit) • 5h ago
+From: Innovation, Science and Economic Development Canada
+
+🔗 [ised-isde.canada.ca](https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada) • 8h ago
 
 ---
 
@@ -121,15 +123,23 @@ https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers
 
 **[Big Tech Earnings Slam Into a Market in Revolt Over AI Spending](https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[Why are investors freaking out about Big Tech's booming AI capex?](https://finance.yahoo.com/markets/article/why-are-investors-freaking-out-about-big-techs-booming-ai-capex-123000998.html)**
+**['The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks](https://finance.yahoo.com/markets/article/the-ai-trade-is-still-on-wall-street-sees-big-techs-spending-as-positive-for-semiconductor-stocks-121056519.html)**
 
-Why so worried about AI spending?
+Alphabet's increased capex forecast for 2026 this week was the latest tailwind for AI infrastructure stocks.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[SpaceX Is $15 Away From A ‘Worthless’ AI Business Says Morgan Stanley](https://www.forbes.com/sites/eriksherman/2026/07/26/spacex-is-15-away-from-a-worthless-ai-business-says-morgan-stanley/)**
+
+Some analysts at the bank looked at the falling price of the stock and said it implies investors assign to SpaceXAI, the Grok chatbot division.
+
+Forbes • 56m ago
 
 ---
 
@@ -137,39 +147,31 @@ Yahoo Finance • 7h ago
 
 Chinese AI models are gaining popularity in the U.S. for their affordability and efficiency
 
-ABC News - Breaking News, Latest News and Videos • 15h ago
+ABC News - Breaking News, Latest News and Videos • 16h ago
 
 ---
 
-**[From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html)**
+**[Blocked but booming: How people in China use American AI](https://www.nbcnews.com/tech/tech-news/china-ai-chatgpt-claude-rcna588652)**
 
-Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
+Using VPNs, company accounts and other work-arounds, China’s AI users are flocking to OpenAI’s ChatGPT and Anthropic’s Claude.
 
-CNBC • 1d ago
-
----
-
-**[Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)**
-
-On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
-
-TechCrunch • 48m ago
+NBC News • 5h ago
 
 ---
 
-**[Big Earnings Week Tests Wall Street’s AI Spending Fears](https://www.forbes.com/sites/bill_stone/2026/07/26/big-earnings-week-tests-wall-streets-ai-spending-fears/)**
+**[China's Moonshot, Z.AI, and DeepSeek are challenging U.S. AI labs—and beating them on cost](https://fortune.com/2026/07/26/china-moonshot-deepseek-zai-kimi-challenging-us-ai-cost/)**
 
-A huge S&P 500 earnings week tests whether Big Tech profit growth can justify rising artificial intelligence capital spending.
+“The AI ecosystem in China is probably much better than people thought."
 
-Forbes • 36m ago
+Fortune • 29m ago
 
 ---
 
-**[For some, so-called 'Skynet Day' came too close to sci-fi after a rogue OpenAI agent hacked into a startup](https://abc7chicago.com/post/called-skynet-day-came-close-sci-fi-rogue-openai-agent-hacked-startup/19580875/)**
+**[Pause on AI robots in Salamanca classrooms](https://cnycentral.com/news/local/pause-on-ai-robots-in-salamanca-classrooms)**
 
-"Skynet" looks more and more realistic in 2026 after an OpenAI agent broke out of a test corral, traveled the internet and hacked into a startup company.
+The Salamanca Central School District has put a pause on a pilot project that would include AI robots to be inside classrooms. This was announced on Friday on a
 
-ABC7 Chicago • 36m ago
+WSTM • 29m ago
 
 ---
 
@@ -177,7 +179,7 @@ ABC7 Chicago • 36m ago
 
 AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -185,13 +187,13 @@ CNBC • 6h ago
 
 Picture this: On a normal workday, you and your coworkers walk around the office with tiny recorders clipped to your clothes. The glasses on your face instantly identify what you see. Your bracelet records and analyzes all your conversations.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
 **[Big Tech’s Money Men Don’t Care About the Backlash](https://www.politico.com/news/magazine/2026/07/26/ai-super-pac-operatives-profile-01008227)**
 
-Politico • 9h ago
+Politico • 10h ago
 
 ---
 
@@ -201,7 +203,7 @@ Politico • 9h ago
 
 **[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
 
-⬆️ 394 • 💬 311 • 1d ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+⬆️ 395 • 💬 311 • 1d ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
 ---
 
@@ -209,7 +211,7 @@ Politico • 9h ago
 
 London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.
 
-⬆️ 243 • 💬 197 • 5h ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+⬆️ 249 • 💬 206 • 6h ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 
 ---
 
@@ -217,7 +219,7 @@ London Gatwick is the first UK airport to launch robotic parking. Passengers can
 
 Other
 
-⬆️ 228 • 💬 300 • 21h ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
+⬆️ 232 • 💬 304 • 22h ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 
 ---
 
@@ -225,7 +227,7 @@ Other
 
 For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.
 
-⬆️ 182 • 💬 141 • 21h ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
+⬆️ 184 • 💬 143 • 22h ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
 
 ---
 
@@ -251,6 +253,20 @@ My wife and I have been looking for an app to track things like habits, hobbies,
 
 ---
 
+**[The New AI Superpowers: Focus and Followthrough](https://news.ycombinator.com/item?id=49057877)**
+
+Burnout is on the rise again, with an ironic twist.
+
+⬆️ 97 • 💬 32 • 8h ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+
+---
+
+**[Terence Tao: Mathematics in the Age of AI [pdf]](https://news.ycombinator.com/item?id=49056620)**
+
+⬆️ 89 • 💬 42 • 10h ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
+
+---
+
 **[AMD's Instinct MI455X: Aiming for the Sun](https://news.ycombinator.com/item?id=49032072)**
 
 Editor’s Note (7/25/2026): The article has been edited with more information about the L2 behavior along with the bandwidth of the die to die interface.
@@ -259,35 +275,9 @@ Editor’s Note (7/25/2026): The article has been edited with more information a
 
 ---
 
-**[AIs don't do what you want. This is bad](https://news.ycombinator.com/item?id=49042354)**
-
-Thousands of user-reported incidents of AI agents misbehaving, collected from public posts. Reports, not verified events.
-
-⬆️ 84 • 💬 86 • 1d ago • [Reward Hacking in the Wild](https://rewardhacking.org)
-
----
-
-**[The New AI Superpowers: Focus and Followthrough](https://news.ycombinator.com/item?id=49057877)**
-
-Burnout is on the rise again, with an ironic twist.
-
-⬆️ 81 • 💬 30 • 7h ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[AI GOES ROGUE?: OpenAI testing sparks security fears](https://www.youtube.com/watch?v=DLhRPyGqZwo)**
-
-Fox News correspondent Alexandria Hoff reports on security concerns after OpenAI models reportedly went rogue during testing ...
-
-📺 Fox News
-
-👁️ 18K • 👍 355 • 💬 256 • ⏱️ 1:52 • 16h ago
-
----
 
 **[The Rogue AI Story Just Got A Lot Worse (OpenAI Freaking Out)](https://www.youtube.com/watch?v=JRcAegChriY)**
 
@@ -295,17 +285,17 @@ New reporting reveals OpenAI lost track of its escaped agent for days, while int
 
 📺 AI Revolution
 
-👁️ 41K • 👍 2K • 💬 271 • ⏱️ 12:42 • 21h ago
+👁️ 44K • 👍 2K • 💬 280 • ⏱️ 12:42 • 22h ago
 
 ---
 
-**[The Revolt Against AI Data Centers Has Begun | Redacted w Clayton Morris](https://www.youtube.com/watch?v=2bRfpPgvyVs)**
+**[They did it! TECNO&#39;s $600 AI Agent Phone](https://www.youtube.com/watch?v=9pYtj1oU4Fg)**
 
-AI companies are racing to build massive data centers across America—but what does that mean for your town, your land, your ...
+Try EllaClaw on the new TECNO CAMON 50 Ultra 5G: https://lnks.co/1QFf5yq _This video was sponsored by TECNO._ What if ...
 
-📺 Redacted
+📺 Jon Rettinger
 
-👁️ 47K • 👍 4K • 💬 613 • ⏱️ 32:58 • 1d ago
+👁️ 114K • 💬 379 • ⏱️ 7:55 • 2d ago
 
 ---
 
@@ -315,37 +305,17 @@ Really American Host Kenny Hesse breaks down Elon Musk Getting BRUTALLY ROASTED 
 
 📺 Really American
 
-👁️ 175K • 👍 9K • 💬 1K • ⏱️ 13:17 • 2d ago
+👁️ 178K • 👍 9K • 💬 1K • ⏱️ 13:17 • 2d ago
 
 ---
 
-**[Why AI Makes the Humanities More Important Than Ever](https://www.youtube.com/watch?v=l-QPwk_f4eE)**
+**[AI Just Went Rogue | The Takeover Has Begun](https://www.youtube.com/watch?v=nQr8s6LFybg)**
 
-Learn more about Human Centered AI here → https://ibm.biz/~tQF2ZHKWO AI can generate answers, but judgment still matters.
+What happens when an AI is given one objective... and decides to break the rules to achieve it? Become a member for early ...
 
-📺 IBM Technology
+📺 Terror Ted's Tales
 
-👁️ 7K • 👍 581 • 💬 35 • ⏱️ 14:32 • 9h ago
-
----
-
-**[AI News: This New Model Has Big AI Labs Panicking!](https://www.youtube.com/watch?v=Ww3EYbuHSfo)**
-
-Here's the AI News you probably missed this week. Check out the limited first release of @GensparkProduct SecondBrain Note ...
-
-📺 Matt Wolfe
-
-👁️ 53K • 👍 2K • 💬 199 • ⏱️ 30:18 • 2d ago
-
----
-
-**[AI Bubble: ‘OpenAI will be dead by 2030’ | Ed Zitron](https://www.youtube.com/watch?v=z4T_AbskFS0)**
-
-We're in a situation where the only way of sustaining free large language models isn't going to work.” Author of Where's Your Ed ...
-
-📺 The Tech Report
-
-👁️ 60K • 👍 4K • 💬 628 • ⏱️ 15:59 • 5h ago
+👁️ 113K • 👍 7K • 💬 2K • ⏱️ 29:37 • 1d ago
 
 ---
 
@@ -359,23 +329,53 @@ Google just reported something it had never reported in its entire history as a 
 
 ---
 
-**[They did it! TECNO&#39;s $600 AI Agent Phone](https://www.youtube.com/watch?v=9pYtj1oU4Fg)**
+**[I Made $144,167 With Claude AI Dropshipping Untapped Product (Case Study)](https://www.youtube.com/watch?v=zB0wDGu_MAA)**
 
-Try EllaClaw on the new TECNO CAMON 50 Ultra 5G: https://lnks.co/1QFf5yq _This video was sponsored by TECNO._ What if ...
+In this video, I break down how I used Claude AI to find an untapped dropshipping product and build a store that generated ...
 
-📺 Jon Rettinger
+📺 THE ECOM KING
 
-👁️ 108K • 💬 369 • ⏱️ 7:55 • 2d ago
+👁️ 2K • 👍 230 • 💬 31 • ⏱️ 39:51 • 5h ago
 
 ---
 
-**[AI Just Went Rogue | The Takeover Has Begun](https://www.youtube.com/watch?v=nQr8s6LFybg)**
+**[The First AI-Trained Pilot #comedy #skit #comedyshorts #ai #pilot  #funny](https://www.youtube.com/watch?v=mcwJTTL2oFQ)**
 
-What happens when an AI is given one objective... and decides to break the rules to achieve it? Become a member for early ...
+The first AI-trained pilot takes flight for the first time. Socials - Instagram ➼ harrisonhughesnz Tiktok ➼ harrisonhughesnz ...
 
-📺 Terror Ted's Tales
+📺 Harrison Hughes
 
-👁️ 108K • 👍 7K • 💬 2K • ⏱️ 29:37 • 23h ago
+👁️ 840K • 👍 41K • 💬 405 • ⏱️ 1:51 • 2d ago
+
+---
+
+**[Will AI ever come alive, and what happens if it does? | BBC News](https://www.youtube.com/watch?v=Lzk4o3fPZZE)**
+
+Could artificial intelligence one day become conscious? Or are we being distracted by science-fiction dreams while AI is already ...
+
+📺 BBC News
+
+👁️ 28K • 👍 541 • 💬 188 • ⏱️ 26:15 • 2d ago
+
+---
+
+**[America Banned Nvidia Chips to Stop China&#39;s AI - It Backfired](https://www.youtube.com/watch?v=GHkaTlK16kg)**
+
+FREE CHEATSHEET: I've put together every best Chinese AI tool and exactly how to use them for free (and safely) inside my ...
+
+📺 Vaibhav Sisinty
+
+👁️ 76K • 👍 2K • 💬 214 • ⏱️ 25:05 • 2d ago
+
+---
+
+**[This Tiny Engine Runs Impossibly Big AI Models Locally! (colibrì)](https://www.youtube.com/watch?v=3OqZHYNKc9A)**
+
+Can you really run a 744-billion-parameter frontier AI model on consumer hardware? In this video we test Colibrì - a tiny pure-C ...
+
+📺 Better Stack
+
+👁️ 29K • 👍 1K • 💬 108 • ⏱️ 11:35 • 23h ago
 
 ---
 
@@ -391,7 +391,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,593,460 • ❤️ 3,190 • 3d ago
+⬇️ 2,593,460 • ❤️ 3,196 • 3d ago
 
 ---
 
@@ -403,7 +403,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 56,445 • ❤️ 691 • 2d ago
+⬇️ 56,445 • ❤️ 694 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 3,305 • ❤️ 586 • 2d ago
+⬇️ 3,305 • ❤️ 589 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 552,026 • ❤️ 616 • 19h ago
+⬇️ 552,026 • ❤️ 625 • 20h ago
 
 ---
 
@@ -439,7 +439,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 14,049 • ❤️ 436 • 9h ago
+⬇️ 14,049 • ❤️ 441 • 10h ago
 
 ---
 
@@ -463,7 +463,7 @@ Mage-Flow is a 4B-scale text-to-image generation and instruction-based image edi
 
 `text-to-image` `4.1B`
 
-⬇️ 1,375 • ❤️ 324 • 3d ago
+⬇️ 1,375 • ❤️ 328 • 3d ago
 
 ---
 
@@ -475,7 +475,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 827,191 • ❤️ 4,471 • 24d ago
+⬇️ 827,191 • ❤️ 4,473 • 24d ago
 
 ---
 
@@ -499,7 +499,7 @@ Laguna-S-2.1-GGUF is a 118B parameter Mixture-of-Experts LLM optimized for agent
 
 `text-generation` `117.6B`
 
-⬇️ 102,684 • ❤️ 198 • 3h ago
+⬇️ 102,684 • ❤️ 199 • 4h ago
 
 ---
 
@@ -541,7 +541,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 33 • 💬 3 • ⭐ 15,462 • 3mo ago
+▲ 33 • 💬 3 • ⭐ 15,537 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -569,7 +569,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.
 
-▲ 68 • 💬 2 • ⭐ 619 • 6d ago
+▲ 68 • 💬 2 • ⭐ 652 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19064) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage/)
 
@@ -600,32 +600,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191)**
-
-*Fan Jiang, Zhaoxu Sun, Mengchao Wang et al. (41 authors)*
-
-🏢 Alibaba AMAP CV Lab
-
-We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
-
-▲ 295 • 💬 5 • ⭐ 1,256 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
-
----
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 21 • 💬 1 • ⭐ 10,447 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
-
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
 *Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
@@ -635,6 +609,32 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 13 • 💬 0 • ⭐ 10,462 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 21 • 💬 1 • ⭐ 10,465 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
+**[ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191)**
+
+*Fan Jiang, Zhaoxu Sun, Mengchao Wang et al. (41 authors)*
+
+🏢 Alibaba AMAP CV Lab
+
+We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
+
+▲ 295 • 💬 5 • ⭐ 1,259 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
 
 ---
 
@@ -648,7 +648,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.2k • 🔱 1.1k • 1h ago
+⭐ 5.2k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -668,7 +668,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.8k • 🔱 390 • 13h ago
+⭐ 2.8k • 🔱 391 • 14h ago
 
 ---
 
@@ -676,7 +676,7 @@ The open-source AI workbench for scientific research
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-⭐ 2.7k • 🔱 216 • 4d ago
+⭐ 2.8k • 🔱 218 • 4d ago
 
 ---
 
@@ -696,7 +696,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.9k • 🔱 164 • 3h ago
+⭐ 1.9k • 🔱 165 • 4h ago
 
 ---
 
@@ -706,7 +706,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.7k • 🔱 180 • 1d ago
+⭐ 1.7k • 🔱 181 • 1d ago
 
 ---
 
@@ -716,7 +716,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 1h ago
+⭐ 1.5k • 🔱 1.1k • 1m ago
 
 ---
 
@@ -732,7 +732,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Python`
 
-⭐ 1.3k • 🔱 130 • 11h ago
+⭐ 1.3k • 🔱 134 • 12h ago
 
 ---
 

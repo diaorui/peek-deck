@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-26T20:29:17.775477+00:00'
+updated: '2026-07-26T21:29:47.702966+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 20:29 UTC  
+**Last Updated:** July 26, 2026 at 21:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +0.4%  
-**30d:** +21.5%  
-**90d:** -16.4%  
-**1y:** -50.6%  
+**24h:** +2.3%  
+**7d:** +0.9%  
+**30d:** +22.0%  
+**90d:** -16.1%  
+**1y:** -50.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.81B
+**Market Cap:** $231.87B
 Rank #2
 
-**Circulating Supply:** 120,682,712 ETH
+**Circulating Supply:** 120,682,750 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.2%
 
 **All-Time Low:** $0.43
-+441556.5%
++443572.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-14h ago
+15h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
 
-24/7 Wall St. • 8h ago
+24/7 Wall St. • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 1d ago
 
 Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -180,15 +180,15 @@ Yahoo Finance • 10h ago
 
 Ethereum (ETH) price is up 2.5% to $1,911, outperforming a flat Bitcoin and primarily driven by sustained institutional accumulation via spot ETFs and on-chain staking demand.
 
-MarketForces Africa • 4h ago
+MarketForces Africa • 5h ago
 
 ---
 
-**[Top Cryptos Other Than Bitcoin and Ethereum Poised to Benefit From the CLARITY Act](https://coinpedia.org/price-analysis/top-cryptos-other-than-bitcoin-and-ethereum-poised-to-benefit-from-the-clarity-act/)**
+**[Bitcoin, Ethereum Soar as CLARITY Act Edges Closer, but Will a Fed Hike End the Rally?](https://coinmarketcap.com/academy/article/btc-eth-soar-clarity-act-fed-hike-end-rally)**
 
-The CLARITY Act could expand institutional participation beyond Bitcoin and Ethereum by supporting ETF growth, reducing uncertainty, and improving market accessibility.
+The US Senate moved closer to a key vote on the CLARITY Act, and crypto markets rallied as a result. Will the BTC and ETH rally continue for another week?
 
-Coinpedia • 13h ago
+CoinMarketCap • 13h ago
 
 ---
 
@@ -208,11 +208,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
+**[Top Cryptos Other Than Bitcoin and Ethereum Poised to Benefit From the CLARITY Act](https://coinpedia.org/price-analysis/top-cryptos-other-than-bitcoin-and-ethereum-poised-to-benefit-from-the-clarity-act/)**
 
-Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
+The CLARITY Act could expand institutional participation beyond Bitcoin and Ethereum by supporting ETF growth, reducing uncertainty, and improving market accessibility.
 
-Benzinga • 2d ago
+Coinpedia • 10h ago
 
 ---
 
@@ -224,11 +224,11 @@ Seeking Alpha • 3d ago
 
 ---
 
-**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
 
-Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
+Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
 
-CoinDesk • 3d ago
+Benzinga • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Something bizarre is clearly happening in the crypto market right now, i dont kn
 
 📺 Money Rules - Investing Tips 
 
-👁️ 6K • 👍 845 • 💬 280 • ⏱️ 21:32 • 7h ago
+👁️ 8K • 👍 955 • 💬 301 • ⏱️ 21:32 • 8h ago
 
 ---
 
@@ -252,7 +252,15 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 More Crypto Online
 
-👁️ 612 • 👍 87 • 💬 32 • ⏱️ 8:19 • 2h ago
+👁️ 1K • 👍 151 • 💬 15 • ⏱️ 8:19 • 3h ago
+
+---
+
+**[ETHEREUM WILL PROVE EVERYONE WRONG #ethereum #xrp #ai #stocks](https://www.youtube.com/watch?v=Zstj3Yf2qzw)**
+
+📺 CryptoWendyO
+
+👁️ 353 • 👍 46 • 💬 7 • ⏱️ 1:01 • 29m ago
 
 ---
 
@@ -262,7 +270,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 215 • 💬 71 • ⏱️ 18:08 • 2d ago
+👁️ 6K • 👍 222 • 💬 71 • ⏱️ 18:08 • 2d ago
 
 ---
 
@@ -272,7 +280,7 @@ Its that time of the crypto market cycle again. The price predictions we've been
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 616 • 💬 394 • ⏱️ 31:00 • 1d ago
+👁️ 5K • 👍 621 • 💬 404 • ⏱️ 31:00 • 1d ago
 
 ---
 
@@ -282,7 +290,7 @@ In this video I break down the current Ethereum price action and why the recent 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 172 • 💬 7 • ⏱️ 7:13 • 1d ago
+👁️ 4K • 👍 173 • 💬 7 • ⏱️ 7:13 • 1d ago
 
 ---
 
@@ -296,13 +304,23 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 ---
 
+**[Time is RUNNING OUT For BMNR and ETH...](https://www.youtube.com/watch?v=hi_G2GZn1cw)**
+
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+
+📺 Tevis
+
+👁️ 9K • 👍 408 • 💬 121 • ⏱️ 18:57 • 1d ago
+
+---
+
 **[ETHEREUM PULLBACK COMING NEXT WEEK! (ETH Prediction)](https://www.youtube.com/watch?v=EWzU8TcUzuU)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Get funded with Breakout — Kraken-backed crypto prop firm. Trade up to $200K, ...
 
 📺 Cilinix Crypto
 
-👁️ 180 • 👍 18 • ⏱️ 5:46 • 11h ago
+👁️ 242 • 👍 18 • ⏱️ 5:46 • 12h ago
 
 ---
 
@@ -312,27 +330,7 @@ Bitcoin prepara su siguiente gran movimiento.. NO te lo Pierdas! ¿Llegara el re
 
 📺 CryptoAnálisis
 
-👁️ 910 • 👍 237 • 💬 63 • ⏱️ 15:09 • 5h ago
-
----
-
-**[BITCOIN Y ETHEREUM: POR QUÉ DUDAS AHORA? Análisis Técnico Semanal](https://www.youtube.com/watch?v=Tt3WdMVx5wI)**
-
-Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Telegram https://t.me/infoVIPcalls BITLOBO ...
-
-📺 BITLOBO TRADING
-
-👁️ 4K • 👍 754 • 💬 5 • ⏱️ 2:07:29 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Uo2oLJI1XxM)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 500 • 👍 47 • ⏱️ 7:57 • 6h ago
+👁️ 1K • 👍 298 • 💬 58 • ⏱️ 15:09 • 6h ago
 
 ---
 
