@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-26T21:29:47.702966+00:00'
+updated: '2026-07-26T22:33:03.440080+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 21:29 UTC  
+**Last Updated:** July 26, 2026 at 22:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,915.32
+### $1,937.85
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +0.9%  
-**30d:** +22.0%  
-**90d:** -16.1%  
-**1y:** -50.4%  
+**24h:** +3.7%  
+**7d:** +2.1%  
+**30d:** +23.5%  
+**90d:** -15.0%  
+**1y:** -49.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-15h ago
+16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
 
-24/7 Wall St. • 9h ago
+24/7 Wall St. • 10h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 1d ago
 
 Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 11h ago
 
 Ethereum (ETH) price is up 2.5% to $1,911, outperforming a flat Bitcoin and primarily driven by sustained institutional accumulation via spot ETFs and on-chain staking demand.
 
-MarketForces Africa • 5h ago
+MarketForces Africa • 6h ago
 
 ---
 
@@ -188,7 +188,7 @@ MarketForces Africa • 5h ago
 
 The US Senate moved closer to a key vote on the CLARITY Act, and crypto markets rallied as a result. Will the BTC and ETH rally continue for another week?
 
-CoinMarketCap • 13h ago
+CoinMarketCap • 14h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Motley Fool • 2d ago
 
 The CLARITY Act could expand institutional participation beyond Bitcoin and Ethereum by supporting ETF growth, reducing uncertainty, and improving market accessibility.
 
-Coinpedia • 10h ago
+Coinpedia • 11h ago
 
 ---
 
@@ -242,7 +242,7 @@ Something bizarre is clearly happening in the crypto market right now, i dont kn
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 955 • 💬 301 • ⏱️ 21:32 • 8h ago
+👁️ 8K • 👍 955 • 💬 301 • ⏱️ 21:32 • 9h ago
 
 ---
 
@@ -252,7 +252,7 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 151 • 💬 15 • ⏱️ 8:19 • 3h ago
+👁️ 1K • 👍 151 • 💬 15 • ⏱️ 8:19 • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 CryptoWendyO
 
-👁️ 353 • 👍 46 • 💬 7 • ⏱️ 1:01 • 29m ago
+👁️ 353 • 👍 46 • 💬 7 • ⏱️ 1:01 • 1h ago
 
 ---
 
@@ -320,7 +320,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Get funded with Breakout — Kraken-backed cr
 
 📺 Cilinix Crypto
 
-👁️ 242 • 👍 18 • ⏱️ 5:46 • 12h ago
+👁️ 242 • 👍 18 • ⏱️ 5:46 • 13h ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin prepara su siguiente gran movimiento.. NO te lo Pierdas! ¿Llegara el re
 
 📺 CryptoAnálisis
 
-👁️ 1K • 👍 298 • 💬 58 • ⏱️ 15:09 • 6h ago
+👁️ 1K • 👍 298 • 💬 58 • ⏱️ 15:09 • 7h ago
 
 ---
 

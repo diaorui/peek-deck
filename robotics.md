@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-26T21:29:47.706233+00:00'
+updated: '2026-07-26T22:33:03.443270+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 26, 2026 at 21:29 UTC  
+**Last Updated:** July 26, 2026 at 22:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -54,7 +54,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -62,7 +62,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 Just finished modifying the arm holder/mount for my DIY robot. The old PLA bracket was flexing too much under load, so I redesigned it to be sturdier. Watch the clip to see the improved range of motion. The difference is night and day. No more wobbly joints! Next step is to test the weight capacity.
 
-19h ago
+20h ago
 
 ---
 
@@ -70,7 +70,7 @@ Just finished modifying the arm holder/mount for my DIY robot. The old PLA brack
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-5h ago
+6h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
 
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 9h ago
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 10h ago
 
 ---
 
@@ -86,7 +86,7 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 I wanna show my progress with ros2 and gazebo i could move it while it is lauched and use the teleop to move a little it is not perfect but i am satiefied with the progress.I will try later with gz bridge to pu blish some movement commands
 
-🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 7h ago
+🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 8h ago
 
 ---
 
@@ -94,7 +94,7 @@ I wanna show my progress with ros2 and gazebo i could move it while it is lauche
 
 Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous rotation servo. The gyro normally has centering springs but they have been removed to increase sensitivity. The gyro has a hall effect sensor in it and an analog circuit which generates PWM pulses that the servo uses as a velocity control. A 3 axis version of this arrangement is what made the Apollo guidance computer so accurate at knowing its own pose over long distances and times. This single axis version could be a gyrocompass in a robot or aircraft, to maintain heading even if the magnetic compass quits working etc Now we have laser ring gyros and other extremely accurate solid state sensors and amazing computational power and algorithms to integrate the readings to probably surpass any internal flywheel arrangements accuracy.
 
-22h ago
+23h ago
 
 ---
 
@@ -112,7 +112,7 @@ Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous ro
 
 Projecting light directly onto a chip could stream data using less energy
 
-IEEE Spectrum • 8h ago
+IEEE Spectrum • 9h ago
 
 ---
 
@@ -126,15 +126,7 @@ Tech Xplore • 2d ago
 
 QAIAx Microcity - AI City Hall Project (Clean Air - Video Clip) ALEXANDRIA, Va., July 26, 2026 (GLOBE NEWSWIRE) -- A mind-blowing patent application submitted to the U.S. Patent and Trademark Office, by a quantum AI robotics research team sponsored by a veterans organization, working in collaboration with special operations defense and cybersecurity agencies for the QAIAx AI City Hall Project, a federally registered public health clinical trial at the National Institute of Health and National Li
 
-Yahoo Finance • 3h ago
-
----
-
-**[Meet the robots programmed by kids to speak their Indigenous languages](https://www.npr.org/transcripts/nx-s1-5825798)**
-
-Many Native American languages are endangered. With the help of his mentor, a 12-year-old in Michigan hopes to help preserve his language through robotics.
-
-NPR • 12h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -158,7 +150,7 @@ Business Insider • 2d ago
 
 A school district in western New York is is deploying a humanoid robot from a sex doll-affiliated company in its classrooms.
 
-Futurism • 9h ago
+Futurism • 10h ago
 
 ---
 
@@ -167,6 +159,14 @@ Futurism • 9h ago
 The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
 
 Time Magazine • 3d ago
+
+---
+
+**[Israeli researchers teach micro-robots to scale obstacles and carry living bacteria](https://www.ynetnews.com/health_science/article/r18zdgxrmg)**
+
+Tel Aviv University researchers develop micro-robots that use magnetic and electric fields to cross obstacles, move between surfaces and transport delicate biological cargo
+
+Ynetnews • 17h ago
 
 ---
 
@@ -180,7 +180,7 @@ Bloomberg.com • 2d ago
 
 Kentucky's 7-foot shot-blocker has a fascinating life outside of basketball.
 
-On3 • 1d ago
+On3 • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 6K • 👍 229 • 💬 13 • ⏱️ 4:23 • 9h ago
+👁️ 6K • 👍 229 • 💬 13 • ⏱️ 4:23 • 10h ago
 
 ---
 
