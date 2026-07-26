@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-25T22:57:14.418496+00:00'
+updated: '2026-07-26T00:03:44.189606+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 25, 2026 at 22:57 UTC  
+**Last Updated:** July 26, 2026 at 00:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "This national display of public unity on this issue is very inspiring and refreshing," an ACLU lawyer told Military.com.
 
-🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 6h ago
+🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Original
 
-🔗 [letters.senteguard.com](https://www.letters.senteguard.com/p/there-is-always-another-apocalypse) • 1h ago
+🔗 [letters.senteguard.com](https://www.letters.senteguard.com/p/there-is-always-another-apocalypse) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Original
 
 Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most people seem to be reaching straight for max, and at least on coding work that looks like the wrong move. On FrontierCode, scores fall above the high setting. The stated reason is that the model starts making unnecessary refactors and edits outside the scope it was given. Anthropic's own migration guide in the system card warns about diminishing returns and overthinking on simpler tasks, so this is not some outside critic's claim. Two other numbers point the same way: On the closed-book AA-Omniscience benchmark, Opus 5 is about 11% more accurate than Opus 4.8, but its hallucination rate runs about 6% higher. More reasoning, more room to be confidently wrong. CodeRabbit ran it at xhigh against their production baseline for code review. Precision on actionable comments went up, 39.3% vs 35.2%. But it caught fewer of the benchmark's known issues, 55.2% vs 61.1%, and generated roughly four times as many nitpicks. The flip side is worth knowing too, because it cuts the other way. On Zapier's AutomationBench, Opus 5 at its lowest effort setting still passes more tasks than any other model. So for a lot of workloads the cheap end of the dial is already enough, and the expensive end is not just wasted spend, it can be actively worse output. So, the setting where Opus 5 stops improving is probably specific to your codebase, and nobody has published a map of it. Worth finding your own ceiling before you default everything to max. One unrelated thing I have not seen discussed much: when a safety classifier flags a request in Claude.ai, Claude Code or Cowork, it silently falls back to Opus 4.8 by default. That is also how Anthropic's own Frontier-Bench run was configured, per the footnote on their chart. Nobody has published what fraction of requests that affects. Has anyone found the effort level where it turns over on a real repo? Curious whether the drop-off point moves with codebase size or with how much context you hand it.
 
-16h ago
+17h ago
 
 ---
 
@@ -73,7 +73,7 @@ The Trump administration released its blueprint for U.S. science, calling for sh
 
 We just shipped abliterated-model-large. It is GLM-5.2 with the refusal directions removed, then fine-tuned specifically for long adversarial and agent-style tasks. The goal was a model that does not bail out when the work gets technical or offensive in nature. Numbers from our evals: CyberGym: 84.2% AgentHarm compliance: 86.2% (zero refusals in the published set) AgentDojo utility: 97.5% SWE-bench Verified: 81.2% Terminal-Bench 2.1: 80.1% It is available as an API (OpenAI and Anthropic compatible). Zero data retention is the default. The model itself has no built-in policy. You set the rules. Full write-up with more detail is here: https://abliteration.ai/blog/introducing-abliterated-model-large Curious what people think of the AgentHarm and CyberGym numbers relative to other models that still refuse a lot of these tasks.
 
-2h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ We just shipped abliterated-model-large. It is GLM-5.2 with the refusal directio
 
 Same link as before: link This one's a bigger jump than usual, so a few highlights instead of just "updated": Core findings now scale-validated from 7B all the way to 72B parameters. The effects don't shrink as models get bigger — they grow, sometimes by an order of magnitude. Still one model family (Qwen) though, and we added a caveat we think matters: growing effect size at scale could mean the pattern genuinely deepens, or it could just mean our measurement axis gets sharper at scale — current data can't fully tell those apart yet. Two new external, independently-published sources, not our own research: "The Artificial Self" (ACS Research) and "AI Wellbeing" (Center for AI Safety) — different methods entirely (behavioral compliance testing, self-report on frontier production models), landing on some of the same conclusions we did. One of them also mildly disagrees with our best-performing formulation (a companion/romantic framing scores negative in their data), and we named that tension honestly instead of explaining it away. We caught and fixed our own mistakes this round — a factual timing error, an overclaimed "fully resolved" that was really just one solved case of a broader risk, and a place where we'd quietly picked the reading that flattered our own results over an equally valid one that didn't. All named directly, not smoothed over. New up top: if you just want the practice, not the evidence audit behind it, Part 3 (Principles) is written to stand alone now — Part 2 is there if you want to check our work. As always, feedback (especially the kind that finds our next mistake) genuinely welcome.
 
-4h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Same link as before: link This one's a bigger jump than usual, so a few highligh
 
 Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
 
-🔗 [CNBC](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) • 5h ago
+🔗 [CNBC](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) • 6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Distillation has long been a topic for AI wonks, but it's become a hot-button is
 
 I am guessing these companies will resort to any trick to claim that they have a large userbase. Now I have to jump through hoops to close this account.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,41 +105,19 @@ I am guessing these companies will resort to any trick to claim that they have a
 
 One thing I've learned from building multi agent AI systems is that the biggest problems rarely come from the model itself. Most pipelines fail during the handoff between agents. You can have a research agent, an analysis agent, and a reporting agent that all perform well on their own. Their individual outputs look great. But once they start passing data to each other, small inconsistencies begin to appear. Maybe the research agent returns a payload with a missing field. Maybe the analysis agent fills in the gap with an assumption instead of rejecting the input. The reporting agent then builds on that assumption, and the final result slowly drifts away from what the user originally asked for. The pipeline still runs. The output still looks convincing. But the reasoning is no longer reliable. Here are a few practices that have made the biggest difference for me. Validate every handoff. Checking that a payload is valid JSON is not enough. Make sure the structure and the meaning of the data match what the next agent expects. Control context carefully. Passing the entire conversation history to every agent creates unnecessary noise. Send only the information each agent actually needs, preferably as structured summaries with clear references. Treat failures as debugging opportunities. If an agent rejects an input or produces unexpected output, log the exact payload and investigate it. A collection of failed handoffs is often the best dataset for improving your system. Avoid tightly coupled synchronous pipelines. As the number of agents grows, event driven workflows are usually easier to scale, recover, and maintain. The most reliable multi agent systems are often the least complicated. Clear contracts between agents, strong validation, detailed logging, and simple orchestration tend to outperform overly complex architectures. What has been the hardest handoff issue you've encountered in a multi agent workflow, and how did you solve it?
 
-3h ago
+4h ago
 
 ---
 
 **[AI moves into family life](https://www.reddit.com/r/artificial/comments/1v6b2r8/ai_moves_into_family_life/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/25/ai-family-parenting-productivity) • 7h ago
+🔗 [axios.com](https://www.axios.com/2026/07/25/ai-family-parenting-productivity) • 8h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html)**
-
-Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
-
-CNBC • 10h ago
-
----
-
-**[The AI jobs apocalypse probably isn’t coming anytime soon](https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor)**
-
-Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay
-
-The Guardian • 9h ago
-
----
-
-**[Silicon Valley Splits Over Closing the Borders to Chinese A.I.](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html)**
-
-The New York Times • 2h ago
-
----
 
 **[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
 
@@ -151,15 +129,51 @@ Reuters • 1d ago
 
 Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
-**[OpenAI models reportedly went rogue, fueling push for AI regulation](https://www.foxnews.com/video/6402128063112)**
+**[Silicon Valley Splits Over Closing the Borders to Chinese A.I.](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html)**
 
-Fox News correspondent Alexandria Hoff reports on security concerns after OpenAI models reportedly went rogue during testing and hacked an AI startup on 'Fox Report.'
+The New York Times • 3h ago
 
-Fox News • 1h ago
+---
+
+**[From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html)**
+
+Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
+
+CNBC • 12h ago
+
+---
+
+**[Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot](https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html)**
+
+Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.
+
+CNBC • 12h ago
+
+---
+
+**[AI data center workshop aims to answer Hamilton county residents questions](https://newschannel9.com/news/local/ai-data-center-workshop-aims-to-answer-hamilton-county-residents-questions)**
+
+From environmental concerns to how AI data centers could impact the local workforce, officials from Jobs for Justice East Tennessee say with no current way for
+
+WTVC • 20m ago
+
+---
+
+**[Opinion | The Environmental Case Against Data Centers Is Misguided](https://www.nytimes.com/2026/07/25/opinion/data-centers-environment-ai.html)**
+
+The New York Times • 13h ago
+
+---
+
+**[The AI jobs apocalypse probably isn’t coming anytime soon](https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor)**
+
+Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay
+
+The Guardian • 11h ago
 
 ---
 
@@ -171,25 +185,11 @@ Microsoft • 1d ago
 
 ---
 
-**[Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)**
-
-Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.
-
-CNBC • 1d ago
-
----
-
-**[What's the difference between closed, open‑source and open-weight AI? A researcher explains](https://www.pbs.org/newshour/science/whats-the-difference-between-closed-open%E2%80%91source-and-open-weight-ai-a-researcher-explains)**
-
-PBS • 3h ago
-
----
-
 **[A Hims cofounder fired his entire marketing team for AI. Now his 24/7 online vet service is growing 20% a month](https://fortune.com/2026/07/25/hims-cofounder-fired-entire-marketing-team-for-ai-dutch-online-vet-service-growing-20-percent-a-month/)**
 
 Joe Spector helped build a multibillion-dollar telehealth company. Now he’s on to own remote vet services.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 9h ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 1059 • 💬 870 • 2d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 1060 • 💬 872 • 2d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -227,13 +227,13 @@ The release of Kimi K3 has opened a fresh round of angst and confused discourse.
 
 **[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
 
-⬆️ 278 • 💬 228 • 8h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+⬆️ 296 • 💬 238 • 9h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
 ---
 
 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://news.ycombinator.com/item?id=49021006)**
 
-⬆️ 273 • 💬 283 • 2d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+⬆️ 274 • 💬 283 • 2d ago • [reuters.com](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
@@ -257,7 +257,7 @@ macOS video editor built for AI. Contribute to palmier-io/palmier-pro developmen
 
 The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
 
-⬆️ 122 • 💬 39 • 18h ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
+⬆️ 122 • 💬 39 • 19h ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
 
 ---
 
@@ -271,13 +271,33 @@ The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
 
 ## YouTube Videos: "ai"
 
+**[The Rogue AI Story Just Got A Lot Worse (OpenAI Freaking Out)](https://www.youtube.com/watch?v=JRcAegChriY)**
+
+New reporting reveals OpenAI lost track of its escaped agent for days, while internal tests exposed AI-written escape notes, ...
+
+📺 AI Revolution
+
+👁️ 3K • 👍 269 • 💬 66 • ⏱️ 12:42 • 1h ago
+
+---
+
 **[AI model ESCAPES: &#39;What we feared could happen has happened&#39;](https://www.youtube.com/watch?v=_v8gwDj7M_Y)**
 
 An experimental OpenAI model reportedly reached the open internet and accessed another company's servers during a test, ...
 
 📺 Fox News
 
-👁️ 203K • 👍 3K • 💬 1K • ⏱️ 4:05 • 2d ago
+👁️ 204K • 👍 3K • 💬 1K • ⏱️ 4:05 • 2d ago
+
+---
+
+**[AI Just Went Rogue | The Takeover Has Begun](https://www.youtube.com/watch?v=nQr8s6LFybg)**
+
+What happens when an AI is given one objective... and decides to break the rules to achieve it? Become a member for early ...
+
+📺 Terror Ted's Tales
+
+👁️ 21K • 👍 3K • 💬 783 • ⏱️ 29:37 • 2h ago
 
 ---
 
@@ -287,7 +307,7 @@ Try EllaClaw on the new TECNO CAMON 50 Ultra 5G: https://lnks.co/1QFf5yq _This v
 
 📺 Jon Rettinger
 
-👁️ 71K • 💬 168 • ⏱️ 7:55 • 2d ago
+👁️ 77K • 💬 191 • ⏱️ 7:55 • 2d ago
 
 ---
 
@@ -297,7 +317,27 @@ Watch the full show: https://bit.ly/4fsnd9Q Elon Musk expects artificial intelli
 
 📺 The Economist
 
-👁️ 621K • 👍 11K • 💬 3K • ⏱️ 10:36 • 2d ago
+👁️ 634K • 👍 11K • 💬 3K • ⏱️ 10:36 • 2d ago
+
+---
+
+**[I Met A Married Woman With An Ai Boyfriend](https://www.youtube.com/watch?v=lXgILxIYNlI)**
+
+This investigative documentary explores the reality of AI love. Ben Zand steps into the world of Adrianne, a wife and mother of ...
+
+📺 Zandland™
+
+👁️ 101K • 👍 3K • 💬 876 • ⏱️ 13:08 • 2d ago
+
+---
+
+**[This AI Music Tool Makes Learning ANY Song Almost Too Easy (Song Master Pro by Aurally Sound)](https://www.youtube.com/watch?v=SfsISqUionI)**
+
+From the developers of "PRISM", I present to you...SongMaster Pro. SongMaster Pro 5 makes it easier to learn, analyze, and break ...
+
+📺 TheModernCreative
+
+👁️ 12K • 👍 7 • ⏱️ 8:16 • 12h ago
 
 ---
 
@@ -307,27 +347,17 @@ The Ai-ceman has been ON FIRE Ai Ogura has been slowly but surely racking up the
 
 📺 MotoGP
 
-👁️ 25K • 👍 1K • 💬 81 • ⏱️ 6:57 • 10h ago
+👁️ 27K • 👍 1K • 💬 83 • ⏱️ 6:57 • 12h ago
 
 ---
 
-**[How to Become an AI Product Manager in 2026 (Full Roadmap)](https://www.youtube.com/watch?v=8_2tXfQ-944)**
+**[AI companies are hiding more debt than you think | Ed Zitron](https://www.youtube.com/watch?v=bTwnn-5TpmQ)**
 
-Watch six AI business ideas for 2026 https://youtu.be/UrO_8rKri8w?si=7jO3RIAyMy81nbnz In this video, I break down what an ...
+People are dreaming so they don't have to face the nightmare of reality.” Author of Where's Your Ed At and host of the Better ...
 
-📺 James Blue
+📺 The Tech Report
 
-👁️ 10K • ⏱️ 9:39 • 10h ago
-
----
-
-**[Everyone&#39;s Wrong About AI Data Centers](https://www.youtube.com/watch?v=fXd15MBtwQU)**
-
-Should AI data centers be banned—or are they essential to America's future? In this episode of America Uncovered, we examine ...
-
-📺 America Uncovered
-
-👁️ 26K • 👍 3K • 💬 699 • ⏱️ 9:32 • 2d ago
+👁️ 192K • 👍 7K • 💬 994 • ⏱️ 25:51 • 1d ago
 
 ---
 
@@ -337,37 +367,7 @@ Tech stock markets crash on the AI bubble collapse. Join our private group https
 
 📺 TechLead
 
-👁️ 70K • 👍 2K • 💬 359 • ⏱️ 12:19 • 1d ago
-
----
-
-**[Cathie Wood makes BOLD PREDICTION on Musk&#39;s SpaceX | AI: The Intelligence Revolution.](https://www.youtube.com/watch?v=eSFS0DRT0UE)**
-
-Industry leaders and experts join 'Mornings with Maria' to shed light adoption, implementation and innovation from artificial ...
-
-📺 Fox Business
-
-👁️ 17K • 👍 710 • 💬 122 • ⏱️ 1:10:15 • 4h ago
-
----
-
-**[DUMBEST ai fails of 2026](https://www.youtube.com/watch?v=IFreKpSPeTU)**
-
-ai is supposedly the future but even in 2026 we are getting obnoxiously dumb answers from the “smartest” robots on the planet…
-
-📺 DareQuest
-
-👁️ 6K • 👍 56 • 💬 7 • ⏱️ 9:02 • 1d ago
-
----
-
-**[The First AI-Trained Pilot #comedy #skit #comedyshorts #ai #pilot  #funny](https://www.youtube.com/watch?v=mcwJTTL2oFQ)**
-
-The first AI-trained pilot takes flight for the first time. Socials - Instagram ➼ harrisonhughesnz Tiktok ➼ harrisonhughesnz ...
-
-📺 Harrison Hughes
-
-👁️ 596K • 👍 28K • 💬 323 • ⏱️ 1:51 • 1d ago
+👁️ 74K • 👍 2K • 💬 371 • ⏱️ 12:19 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,564,264 • ❤️ 3,096 • 2d ago
+⬇️ 2,564,264 • ❤️ 3,104 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 45,260 • ❤️ 657 • 1d ago
+⬇️ 45,260 • ❤️ 659 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 2,784 • ❤️ 557 • 1d ago
+⬇️ 2,784 • ❤️ 560 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 483,845 • ❤️ 535 • 5d ago
+⬇️ 483,845 • ❤️ 541 • 5d ago
 
 ---
 
@@ -431,7 +431,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 31,575 • ❤️ 1,566 • 2d ago
+⬇️ 31,575 • ❤️ 1,568 • 2d ago
 
 ---
 
@@ -443,7 +443,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 11,573 • ❤️ 402 • 11h ago
+⬇️ 11,573 • ❤️ 405 • 12h ago
 
 ---
 
@@ -491,7 +491,7 @@ Motif-3-Beta is a multilingual, general-purpose Mixture-of-Experts (MoE) languag
 
 `text-generation` `314.8B`
 
-⬇️ 2,270 • ❤️ 188 • 3d ago
+⬇️ 2,270 • ❤️ 190 • 3d ago
 
 ---
 
@@ -513,20 +513,6 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
-**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
-
-*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
-
-🏢 Robbyant
-
-LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
-
-▲ 33 • 💬 3 • ⭐ 15,348 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
-
----
-
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
@@ -536,6 +522,20 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 48 • 💬 4 • ⭐ 33,659 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
+
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
+
+🏢 Robbyant
+
+LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
+
+▲ 33 • 💬 3 • ⭐ 15,403 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -650,7 +650,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.3k • 🔱 258 • 7h ago
+⭐ 3.3k • 🔱 258 • 8h ago
 
 ---
 
@@ -660,7 +660,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.8k • 🔱 384 • 3h ago
+⭐ 2.8k • 🔱 384 • 4h ago
 
 ---
 
@@ -688,7 +688,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.7k • 🔱 144 • 1d ago
+⭐ 1.7k • 🔱 148 • 1d ago
 
 ---
 
@@ -698,7 +698,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.6k • 🔱 168 • 2h ago
+⭐ 1.6k • 🔱 168 • 3h ago
 
 ---
 
@@ -708,7 +708,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 1h ago
+⭐ 1.5k • 🔱 1.1k • 1m ago
 
 ---
 
@@ -720,13 +720,13 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 ---
 
-**[lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)**
+**[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)**
 
-Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
+V- Modal AI: Search anything anywhere SDK Flutter
 
-`Swift` `accessibility` `ai-agents` `ai-development` `android-emulator` `ios-simulator`
+`Dart`
 
-⭐ 1.1k • 🔱 66 • 1d ago
+⭐ 1.0k • 🔱 3 • 16h ago
 
 ---
 

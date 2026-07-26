@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-25T22:57:14.433202+00:00'
+updated: '2026-07-26T00:03:44.203962+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 25, 2026 at 22:57 UTC  
+**Last Updated:** July 26, 2026 at 00:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,870.42
+### $1,874.81
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +0.1%  
-**30d:** +18.9%  
-**90d:** -18.5%  
-**1y:** -49.8%  
+**24h:** +0.7%  
+**7d:** -1.6%  
+**30d:** +19.1%  
+**90d:** -18.1%  
+**1y:** -51.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.04B
+**Market Cap:** $226.18B
 Rank #2
 
 **Circulating Supply:** 120,682,685 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.1%
 
 **All-Time Low:** $0.43
-+432493.7%
++432752.4%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Dow Jones Crypto Index](https://www.reddit.com/r/ethereum/comments/1v2y859/dow_jones_crypto_index/)**
 
-🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 3d ago
+🔗 [spglobal.com](https://www.spglobal.com/spdji/en/index-launches/article/sp-dow-jones-indices-and-pantera-capital-launch-new-index-for-digital-assets/) • 4d ago
 
 ---
 
@@ -150,7 +150,7 @@ I think this is not being talked about enough. Robinhood allows us to own stocks
 
 Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
 
-CryptoSlate • 13h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -198,7 +198,7 @@ FXStreet • 1d ago
 
 BlackRock clients sold $53M in Ethereum via iShares ETF. Ethereum dip to $1,300 in July at 0.2% YES.
 
-Crypto Briefing • 15h ago
+Crypto Briefing • 16h ago
 
 ---
 
@@ -222,7 +222,7 @@ TipRanks • 3d ago
 
 Cardano founder Charles Hoskinson says the next phase of cryptocurrency adoption will be driven less by faster blockchains and more by safety, governance and consumer protections. Ethereum ‘Keeps Doing Things Wrong’ In an interview with CoinDesk on July 23, Hoskinson,...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -230,23 +230,23 @@ Yahoo Finance • 2h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN SQUEEZE: This Will Shock EVERYONE (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Tn4mhAv7T8o)**
+
+BITCOIN SQUEEZE: This Will Shock EVERYONE (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 175 • 💬 147 • ⏱️ 23:15 • 3h ago
+
+---
+
 **[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=JujVzGOPrrc)**
 
 In this video I break down the current Ethereum price action and why the recent rally remains within the context of a larger bearish ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 7 • ⏱️ 7:13 • 8h ago
-
----
-
-**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
-
-My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
-
-📺 Satoshi Stacker
-
-👁️ 4K • 👍 261 • 💬 14 • ⏱️ 8:31 • 12h ago
+👁️ 2K • 👍 139 • 💬 7 • ⏱️ 7:13 • 9h ago
 
 ---
 
@@ -256,7 +256,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 181 • 💬 68 • ⏱️ 18:08 • 1d ago
+👁️ 5K • 👍 185 • 💬 69 • ⏱️ 18:08 • 1d ago
+
+---
+
+**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
+
+My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
+
+📺 Satoshi Stacker
+
+👁️ 5K • 👍 268 • 💬 15 • ⏱️ 8:31 • 13h ago
 
 ---
 
@@ -270,13 +280,13 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 ---
 
-**[AI Just Found a Critical Bug in Ethereum!](https://www.youtube.com/watch?v=qy8wGDpDFI0)**
+**[BITCOIN Y ETHEREUM: POR QUÉ DUDAS AHORA? Análisis Técnico Semanal](https://www.youtube.com/watch?v=Tt3WdMVx5wI)**
 
-Ethereum ETH News Update: AI has discovered a real security vulnerability in Ethereum's validator software. In this video, we ...
+Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Telegram https://t.me/infoVIPcalls BITLOBO ...
 
-📺 Linda CryptoFly
+📺 BITLOBO TRADING
 
-👁️ 2K • 👍 180 • 💬 44 • ⏱️ 7:27 • 1d ago
+👁️ 3K • 👍 707 • 💬 42 • ⏱️ 2:07:29 • 4h ago
 
 ---
 
@@ -286,17 +296,17 @@ Joseph Chalom breaks down why Ethereum's supply sink sets up an especially bulli
 
 📺 The Rollup
 
-👁️ 3K • 👍 63 • 💬 9 • ⏱️ 3:42 • 2d ago
+👁️ 3K • 👍 64 • 💬 9 • ⏱️ 3:42 • 2d ago
 
 ---
 
-**[BITCOIN Y ETHEREUM: POR QUÉ DUDAS AHORA? Análisis Técnico Semanal](https://www.youtube.com/watch?v=Tt3WdMVx5wI)**
+**[AI Just Found a Critical Bug in Ethereum!](https://www.youtube.com/watch?v=qy8wGDpDFI0)**
 
-Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Telegram https://t.me/infoVIPcalls BITLOBO ...
+Ethereum ETH News Update: AI has discovered a real security vulnerability in Ethereum's validator software. In this video, we ...
 
-📺 BITLOBO TRADING
+📺 Linda CryptoFly
 
-👁️ 3K • 👍 684 • 💬 1 • ⏱️ 2:07:29 • 3h ago
+👁️ 2K • 👍 184 • 💬 44 • ⏱️ 7:27 • 1d ago
 
 ---
 
@@ -306,27 +316,17 @@ Grandes investidores estão apostando na queda do Bitcoin e do Ethereum enquanto
 
 📺 Augusto Backes
 
-👁️ 10K • 👍 689 • 💬 22 • ⏱️ 13:08 • 1d ago
+👁️ 10K • 👍 711 • 💬 25 • ⏱️ 13:08 • 1d ago
 
 ---
 
-**[ETHEREUM PULLING BACK INTO MAJOR BUY AREA! (ETH Update)](https://www.youtube.com/watch?v=MA2t-m99C_w)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=onvGJtvsfpY)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Cilinix Crypto
+📺 Profit First
 
-👁️ 131 • 👍 14 • 💬 8 • ⏱️ 4:58 • 11h ago
-
----
-
-**[THE Best Time To Buy Crypto is Coming!!! 💰😳💰](https://www.youtube.com/watch?v=jlJPKupXKnI)**
-
-This is all about why the next bif crypto crash could be coming, where the cycle bottom could be and best time to buy crypto for the ...
-
-📺 Investing Made Simple
-
-👁️ 9K • 👍 614 • ⏱️ 8:39 • 1d ago
+👁️ 461 • 👍 40 • ⏱️ 5:44 • 8h ago
 
 ---
 
