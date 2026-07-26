@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-26T17:32:32.656920+00:00'
+updated: '2026-07-26T19:11:03.960858+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 26, 2026 at 17:32 UTC  
+**Last Updated:** July 26, 2026 at 19:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main PC. I still use a separate animation editor that I built for creating movements. Each joint has its own timeline with position keyframes, velocity, torque limits, and controller parameters. Finished animations are sent to the lamp and played back locally. I’ve also installed an addressable LED ring with a 3D-printed diffuser inside the head. Brightness and transitions are now part of the same animation timeline, allowing the light to be synchronized with movement. This video is a quick test of the new setup. I’m currently tuning the motor parameters, brightness curves, and transition timings before using the light in more expressive animations.
 
-22h ago
+1d ago
 
 ---
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -62,7 +62,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 Just finished modifying the arm holder/mount for my DIY robot. The old PLA bracket was flexing too much under load, so I redesigned it to be sturdier. Watch the clip to see the improved range of motion. The difference is night and day. No more wobbly joints! Next step is to test the weight capacity.
 
-15h ago
+16h ago
 
 ---
 
@@ -70,7 +70,7 @@ Just finished modifying the arm holder/mount for my DIY robot. The old PLA brack
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-1h ago
+3h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
 
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 5h ago
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 7h ago
 
 ---
 
@@ -86,7 +86,7 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 I wanna show my progress with ros2 and gazebo i could move it while it is lauched and use the teleop to move a little it is not perfect but i am satiefied with the progress.I will try later with gz bridge to pu blish some movement commands
 
-🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 3h ago
+🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 4h ago
 
 ---
 
@@ -94,7 +94,7 @@ I wanna show my progress with ros2 and gazebo i could move it while it is lauche
 
 Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous rotation servo. The gyro normally has centering springs but they have been removed to increase sensitivity. The gyro has a hall effect sensor in it and an analog circuit which generates PWM pulses that the servo uses as a velocity control. A 3 axis version of this arrangement is what made the Apollo guidance computer so accurate at knowing its own pose over long distances and times. This single axis version could be a gyrocompass in a robot or aircraft, to maintain heading even if the magnetic compass quits working etc Now we have laser ring gyros and other extremely accurate solid state sensors and amazing computational power and algorithms to integrate the readings to probably surpass any internal flywheel arrangements accuracy.
 
-18h ago
+19h ago
 
 ---
 
@@ -108,9 +108,47 @@ Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous ro
 
 ## Google News: "robotics"
 
+**[Light Flips Memory to Feed Hungry AI Chips With Less Energy](https://spectrum.ieee.org/ai-in-robotics)**
+
+Projecting light directly onto a chip could stream data using less energy
+
+IEEE Spectrum • 6h ago
+
+---
+
 **[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
 
 Tech Xplore • 2d ago
+
+---
+
+**[Throw Away the Urn! New Digital DNA AGI Robots Let Loved Ones Live for 500 Years (Veterans First for America)](https://finance.yahoo.com/technology/ai/articles/throw-away-urn-digital-dna-181200744.html)**
+
+QAIAx Microcity - AI City Hall Project (Clean Air - Video Clip) ALEXANDRIA, Va., July 26, 2026 (GLOBE NEWSWIRE) -- A mind-blowing patent application submitted to the U.S. Patent and Trademark Office, by a quantum AI robotics research team sponsored by a veterans organization, working in collaboration with special operations defense and cybersecurity agencies for the QAIAx AI City Hall Project, a federally registered public health clinical trial at the National Institute of Health and National Li
+
+Yahoo Finance • 59m ago
+
+---
+
+**[What's Next for Humanoids After This Week's Cage Match and Cowboying?](https://spectrum.ieee.org/video-friday-physical-ai-robotics)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 6h ago
+
+---
+
+**[M'bishi Motors teams up with startup to mass produce humanoid robots](https://japantoday.com/category/tech/mitsubishi-motors-teams-up-with-startup-to-mass-produce-humanoid-robots)**
+
+Japan Today • 12h ago
+
+---
+
+**[Sex Doll Company Strikes Bizarre Deal to Put Its Robot in High School Classrooms](https://futurism.com/robots-and-machines/sex-doll-company-deal-robot-school-classrooms)**
+
+A school district in western New York is is deploying a humanoid robot from a sex doll-affiliated company in its classrooms.
+
+Futurism • 7h ago
 
 ---
 
@@ -119,34 +157,6 @@ Tech Xplore • 2d ago
 The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.
 
 Time Magazine • 3d ago
-
----
-
-**[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
-
-Tech Xplore • 1m ago
-
----
-
-**[What's Next for Humanoids After This Week's Cage Match and Cowboying?](https://spectrum.ieee.org/video-friday-physical-ai-robotics)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 4h ago
-
----
-
-**[This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around.](https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7)**
-
-A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
-
-Business Insider • 2d ago
-
----
-
-**[M'bishi Motors teams up with startup to mass produce humanoid robots](https://japantoday.com/category/tech/mitsubishi-motors-teams-up-with-startup-to-mass-produce-humanoid-robots)**
-
-Japan Today • 10h ago
 
 ---
 
@@ -164,19 +174,11 @@ On3 • 1d ago
 
 ---
 
-**[Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)**
-
-Shashua has been invited to take the chairman of the board seat.
-
-TechCrunch • 2d ago
-
----
-
 **[Tech Moves: Agility Robotics gets CFO; Microsoft security departure; Zap's legal officer; new KEXP CPTO](https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/)**
 
 Agility Robotics names a CFO ahead of its plans to go public, moving its current CFO/COO into an operations-focused role. Microsoft loses another security leader while Zap Energy gets a chief legal officer.
 
-GeekWire • 2d ago
+GeekWire • 3d ago
 
 ---
 
@@ -190,17 +192,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 3.4M • 👍 2K • 💬 438 • ⏱️ 2:15 • 6d ago
-
----
-
-**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 3K • 👍 149 • 💬 11 • ⏱️ 4:23 • 5h ago
+👁️ 3.5M • 👍 2K • 💬 443 • ⏱️ 2:15 • 6d ago
 
 ---
 
@@ -210,7 +202,17 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 16K • 👍 165 • 💬 90 • ⏱️ 5:29 • 3d ago
+👁️ 16K • 👍 165 • 💬 93 • ⏱️ 5:29 • 3d ago
+
+---
+
+**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 5K • 👍 204 • 💬 12 • ⏱️ 4:23 • 7h ago
 
 ---
 
@@ -220,7 +222,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 84K • 👍 2K • 💬 207 • ⏱️ 12:28 • 5d ago
+👁️ 86K • 👍 3K • 💬 211 • ⏱️ 12:28 • 5d ago
 
 ---
 
@@ -230,17 +232,7 @@ BMW Group intensifies the use of digitalization and the use of artificial intell
 
 📺 The Wheel Network
 
-👁️ 22K • 👍 470 • 💬 142 • ⏱️ 6:24 • 4d ago
-
----
-
-**[Unitree AS2 W Shows The Future Of Autonomous Robots](https://www.youtube.com/watch?v=OePErI3OoRI)**
-
-The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it climb steep rocks, cross streams, tackle rough ...
-
-📺 DPCcars
-
-👁️ 17K • 👍 147 • 💬 60 • ⏱️ 2:32 • 2d ago
+👁️ 23K • 👍 477 • 💬 142 • ⏱️ 6:24 • 4d ago
 
 ---
 
@@ -250,7 +242,7 @@ Everyone is asking if killer robots are coming. Wrong question. One already knoc
 
 📺 Ambrose In China
 
-👁️ 705K • 👍 25K • 💬 5K • ⏱️ 2:25 • 6d ago
+👁️ 715K • 👍 25K • 💬 5K • ⏱️ 2:25 • 6d ago
 
 ---
 
@@ -260,27 +252,35 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 48K • 👍 951 • 💬 411 • ⏱️ 2:02 • 4d ago
+👁️ 49K • 👍 964 • 💬 412 • ⏱️ 2:02 • 4d ago
 
 ---
 
-**[Unboxing BENI: This 2-Wheeled Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=ytaZ2eR9CR8)**
+**[Unitree AS2 W Shows The Future Of Autonomous Robots](https://www.youtube.com/watch?v=OePErI3OoRI)**
 
-Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mondorobotics/beni-all-terrain-camera-robot?ref=8ebvkr ...
+The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it climb steep rocks, cross streams, tackle rough ...
 
-📺 FlytPath
+📺 DPCcars
 
-👁️ 77K • 👍 377 • 💬 28 • ⏱️ 5:19 • 6d ago
+👁️ 18K • 👍 149 • 💬 62 • ⏱️ 2:32 • 2d ago
 
 ---
 
-**[Easy Robot # #creativefest # #diy #scienceproject #robotics #steam #shorts](https://www.youtube.com/watch?v=PK32mJAqjqQ)**
+**[Silver Robot Armor Transformation! 🤖✨ Wait For End 😱 #shorts #ai #Robot #tutorialfilter](https://www.youtube.com/watch?v=zuZOFZw7I-U)**
 
-Creative fest,how to make a robot,walking robot diy,simple science project for school,school science exhibition projects,stem ...
+📺 Mannu Edit
 
-📺 Creative fest
+👁️ 102K • 💬 16 • ⏱️ 0:11 • 4d ago
 
-👁️ 3K • 👍 17 • ⏱️ 0:31 • 7h ago
+---
+
+**[DIY open source Ai robotics plateforme with dual so101 arms 🤖](https://www.youtube.com/watch?v=FRF3yDY4np4)**
+
+GitHub: https://github.com/Mr-C4T/AB-SO-BOT #so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware.
+
+📺 Robot Learning Laboratory
+
+👁️ 802 • 👍 4 • ⏱️ 0:18 • 3h ago
 
 ---
 

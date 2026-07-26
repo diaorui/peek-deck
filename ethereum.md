@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-26T17:32:32.653697+00:00'
+updated: '2026-07-26T19:11:03.958061+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 17:32 UTC  
+**Last Updated:** July 26, 2026 at 19:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +0.6%  
-**30d:** +21.7%  
-**90d:** -16.3%  
+**24h:** +2.2%  
+**7d:** +0.5%  
+**30d:** +21.5%  
+**90d:** -16.4%  
 **1y:** -50.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.77B
+**Market Cap:** $230.81B
 Rank #2
 
-**Circulating Supply:** 120,682,685 ETH
+**Circulating Supply:** 120,682,712 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -61.3%
 
 **All-Time Low:** $0.43
-+441441.0%
++441556.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ Glamsterdam upgrade targeting first testnet in September, Uniswap v4 Permissione
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/70574beKPfg) • 1d ago
+🔗 [youtu.be](https://youtu.be/70574beKPfg) • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
 
-24/7 Wall St. • 5h ago
+24/7 Wall St. • 7h ago
 
 ---
 
@@ -168,19 +168,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Tom Lee predicts Ethereum could hit $250,000 as it evolves into core AI-driven economic infrastructure.](https://pluang.com/en/news-feed/tom-lee-ethereum-20-bisa-dorong-eth-menuju-target-jangka-panjang-250000)**
+**[Ethereum may be entering a long-term accumulati...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-fase-akumulasi-bisa-memicu-babak-baru)**
 
-Tom Lee, BitMine Chairman, forecasts Ethereum reaching $250,000 per token long-term, citing its transition to Ethereum 2.0 as a key phase similar to Amazon and Nvidia's past growth. He argues Ethereum will become 'productive money' in an AI-driven economy, serving as a global settlement layer and trust platform for autonomous AI transactions. BitMine holds 5.74 million ETH, about 4.8% of supply, supporting this outlook with institutional investments and validator networks. Near-term technical analysis suggests ETH could rise to around $2,200 soon, marking early steps toward Lee's larger vision.
+Ethereum is potentially in a long-term accumulation phase, supported by historical cycle comparisons suggesting major upside targets between $10,000 and $20,000 by 2026-2028. Key support zones range from $1,000 to $1,350, and reclaiming resistance levels around $3,945 and previous highs near $4,800 is crucial for confirming a new bullish cycle. However, a breakdown below these supports could invalidate the bullish outlook. For now, Ethereum remains in accumulation rather than a confirmed bull market, with future gains dependent on holding support and breaking key resistance levels.
 
-Pluang • 4h ago
-
----
-
-**[Ethereum nears $1,900 resistance as Arthur Hayes buys $2.5M ETH, signaling potential breakout to $2,000.](https://pluang.com/en/news-feed/ethereum-mendekati-level-breakout-kunci-setelah-hayes-menambah-kepemilikan)**
-
-Arthur Hayes, co-founder of BitMEX, purchased 1,290 ETH worth about $2.5 million, adding to growing interest in Ethereum as it consolidates below the critical $1,900 resistance level. Analysts are watching closely to see if ETH can break above $1,900, which could trigger a move toward $2,000 and possibly higher resistance levels around $2,200 and $2,400. Meanwhile, Ethereum's network activity remains strong with steady new smart contract deployments, indicating ongoing developer engagement despite recent price volatility. The combination of institutional buying and healthy network growth suggests Ethereum may be poised for a significant price move if it can sustain support above $1,900.
-
-Pluang • 2h ago
+Pluang • 56m ago
 
 ---
 
@@ -188,15 +180,15 @@ Pluang • 2h ago
 
 Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://www.fool.com/investing/2026/07/24/vitalik-buterin-says-ethereum-reinvents-itself/)**
+**[Top Cryptos Other Than Bitcoin and Ethereum Poised to Benefit From the CLARITY Act](https://coinpedia.org/price-analysis/top-cryptos-other-than-bitcoin-and-ethereum-poised-to-benefit-from-the-clarity-act/)**
 
-The chain's new plan calls for a swath of big steps in a few different directions.
+The CLARITY Act could expand institutional participation beyond Bitcoin and Ethereum by supporting ETF growth, reducing uncertainty, and improving market accessibility.
 
-The Motley Fool • 2d ago
+Coinpedia • 12h ago
 
 ---
 
@@ -205,6 +197,14 @@ The Motley Fool • 2d ago
 Ethereum and altcoin ETFs drew fresh cash last week while Bitcoin flows slowed and HYPE logged back-to-back outflows.
 
 BeInCrypto • 1d ago
+
+---
+
+**[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://www.fool.com/investing/2026/07/24/vitalik-buterin-says-ethereum-reinvents-itself/)**
+
+The chain's new plan calls for a swath of big steps in a few different directions.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -242,17 +242,17 @@ Something bizarre is clearly happening in the crypto market right now, i dont kn
 
 📺 Money Rules - Investing Tips 
 
-👁️ 3K • 👍 585 • 💬 177 • ⏱️ 21:32 • 4h ago
+👁️ 6K • 👍 845 • 💬 280 • ⏱️ 21:32 • 6h ago
 
 ---
 
-**[They Did This In Three Days You Will NOT Believe This Is HISTORIC For Ethereum &amp; Bitcoin](https://www.youtube.com/watch?v=ROukcv1SmTE)**
+**[Is the Ethereum Rally Nearing a Top?](https://www.youtube.com/watch?v=6MYN1eY-dzA)**
 
-Its that time of the crypto market cycle again. The price predictions we've been getting over the last few weeks have been intense ...
+In this video I break down the current Ethereum price action using Elliott Wave analysis and historical seasonality. I examine key ...
 
-📺 The Modern Investor
+📺 More Crypto Online
 
-👁️ 5K • 👍 612 • 💬 394 • ⏱️ 31:00 • 1d ago
+👁️ 612 • 👍 87 • 💬 32 • ⏱️ 8:19 • 1h ago
 
 ---
 
@@ -262,17 +262,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 208 • 💬 70 • ⏱️ 18:08 • 2d ago
+👁️ 6K • 👍 215 • 💬 71 • ⏱️ 18:08 • 2d ago
 
 ---
 
-**[ETHEREUM PULLBACK COMING NEXT WEEK! (ETH Prediction)](https://www.youtube.com/watch?v=EWzU8TcUzuU)**
+**[They Did This In Three Days You Will NOT Believe This Is HISTORIC For Ethereum &amp; Bitcoin](https://www.youtube.com/watch?v=ROukcv1SmTE)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Get funded with Breakout — Kraken-backed crypto prop firm. Trade up to $200K, ...
+Its that time of the crypto market cycle again. The price predictions we've been getting over the last few weeks have been intense ...
 
-📺 Cilinix Crypto
+📺 The Modern Investor
 
-👁️ 152 • 👍 17 • ⏱️ 5:46 • 8h ago
+👁️ 5K • 👍 616 • 💬 394 • ⏱️ 31:00 • 1d ago
+
+---
+
+**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=JujVzGOPrrc)**
+
+In this video I break down the current Ethereum price action and why the recent rally remains within the context of a larger bearish ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 172 • 💬 7 • ⏱️ 7:13 • 1d ago
 
 ---
 
@@ -282,47 +292,27 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 554 • 💬 255 • ⏱️ 16:34 • 2d ago
+👁️ 12K • 👍 556 • 💬 255 • ⏱️ 16:34 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Uo2oLJI1XxM)**
+**[ETHEREUM PULLBACK COMING NEXT WEEK! (ETH Prediction)](https://www.youtube.com/watch?v=EWzU8TcUzuU)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 Get funded with Breakout — Kraken-backed crypto prop firm. Trade up to $200K, ...
 
-📺 Profit First
+📺 Cilinix Crypto
 
-👁️ 252 • 👍 33 • ⏱️ 7:57 • 3h ago
-
----
-
-**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
-
-My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
-
-📺 Satoshi Stacker
-
-👁️ 5K • 👍 286 • 💬 17 • ⏱️ 8:31 • 1d ago
+👁️ 180 • 👍 18 • ⏱️ 5:46 • 10h ago
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=dCd4F91PRzw)**
+**[⚠️CUIDADO! BITCOIN prepara su siguiente GRAN MOVIMIENTO... Atentos a ETHEREUM y SOLANA!!](https://www.youtube.com/watch?v=rSUdUN95c6I)**
 
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Crypto trading in India just levelled up eXchange1 is ...
+Bitcoin prepara su siguiente gran movimiento.. NO te lo Pierdas! ¿Llegara el rebote de BITCOIN finalmente a los 70.000 dólares o ...
 
-📺 Ashutosh Kumar
+📺 CryptoAnálisis
 
-👁️ 7K • 👍 759 • 4h ago
-
----
-
-**[AI Just Found a Critical Bug in Ethereum!](https://www.youtube.com/watch?v=qy8wGDpDFI0)**
-
-Ethereum ETH News Update: AI has discovered a real security vulnerability in Ethereum's validator software. In this video, we ...
-
-📺 Linda CryptoFly
-
-👁️ 2K • 👍 194 • 💬 45 • ⏱️ 7:27 • 2d ago
+👁️ 910 • 👍 237 • 💬 63 • ⏱️ 15:09 • 4h ago
 
 ---
 
@@ -332,7 +322,17 @@ Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Teleg
 
 📺 BITLOBO TRADING
 
-👁️ 4K • 👍 743 • 💬 5 • ⏱️ 2:07:29 • 22h ago
+👁️ 4K • 👍 754 • 💬 5 • ⏱️ 2:07:29 • 23h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Uo2oLJI1XxM)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 500 • 👍 47 • ⏱️ 7:57 • 4h ago
 
 ---
 
