@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-26T12:38:13.637487+00:00'
+updated: '2026-07-26T14:36:40.301553+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 12:38 UTC  
+**Last Updated:** July 26, 2026 at 14:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,886.83
+### $1,892.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -0.8%  
-**30d:** +20.0%  
-**90d:** -17.4%  
-**1y:** -51.2%  
+**24h:** +1.5%  
+**7d:** -0.5%  
+**30d:** +20.4%  
+**90d:** -17.2%  
+**1y:** -51.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-6h ago
+8h ago
 
 ---
 
@@ -160,19 +160,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum gains momentum over Bitcoin with stron...](https://pluang.com/en/news-feed/ethereum-siap-mencuri-perhatian-musim-panas-2026)**
+**[Tom Lee predicts Ethereum could hit $250,000 as it evolves into core AI-driven economic infrastructure.](https://pluang.com/en/news-feed/tom-lee-ethereum-20-bisa-dorong-eth-menuju-target-jangka-panjang-250000)**
 
-Ethereum is showing signs of a strong comeback against Bitcoin, supported by a technical reversal, renewed institutional ETF inflows totaling $103 million weekly, and dominance in the $17 billion tokenization market. Analysts highlight Ethereum's price rebound and key support levels indicating potential growth to $2,163. The network's leadership in tokenizing real-world assets and growing institutional demand suggest a fundamental shift in market sentiment favoring Ethereum this summer. This combination positions Ethereum to potentially outshine Bitcoin during the current market lull.
+Tom Lee, BitMine Chairman, forecasts Ethereum reaching $250,000 per token long-term, citing its transition to Ethereum 2.0 as a key phase similar to Amazon and Nvidia's past growth. He argues Ethereum will become 'productive money' in an AI-driven economy, serving as a global settlement layer and trust platform for autonomous AI transactions. BitMine holds 5.74 million ETH, about 4.8% of supply, supporting this outlook with institutional investments and validator networks. Near-term technical analysis suggests ETH could rise to around $2,200 soon, marking early steps toward Lee's larger vision.
 
 Pluang • 1h ago
-
----
-
-**[Robert Kiyosaki Shares a Key Revelation on Gold, Bitcoin and Ethereum](https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-shares-key-revelation-093009485.html)**
-
-Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
-
-Yahoo Finance • 3h ago
 
 ---
 
@@ -180,7 +172,15 @@ Yahoo Finance • 3h ago
 
 Bitcoin and Ethereum ETFs just snapped a brutal losing streak, but the two sessions that followed nearly erased everything they gained. Meanwhile, the altcoin funds that thrived during the selloff are quietly going cold.
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum gains momentum over Bitcoin with stron...](https://pluang.com/en/news-feed/ethereum-siap-mencuri-perhatian-musim-panas-2026)**
+
+Ethereum is showing signs of a strong comeback against Bitcoin, supported by a technical reversal, renewed institutional ETF inflows totaling $103 million weekly, and dominance in the $17 billion tokenization market. Analysts highlight Ethereum's price rebound and key support levels indicating potential growth to $2,163. The network's leadership in tokenizing real-world assets and growing institutional demand suggest a fundamental shift in market sentiment favoring Ethereum this summer. This combination positions Ethereum to potentially outshine Bitcoin during the current market lull.
+
+Pluang • 3h ago
 
 ---
 
@@ -192,19 +192,19 @@ The Motley Fool • 2d ago
 
 ---
 
-**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
-
-Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
-
-CoinDesk • 2d ago
-
----
-
 **[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
 
 Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
 
 Benzinga • 2d ago
+
+---
+
+**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
+
+Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -216,11 +216,11 @@ Seeking Alpha • 3d ago
 
 ---
 
-**[Crypto Today: BTC, ETH, XRP steady as ETF flows diverge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-pare-losses-as-breakout-potential-builds-202607241100)**
+**[New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack)**
 
-Bitcoin (BTC) is edging higher on Friday, albeit gradually, after reclaiming support above $65,000. Meanwhile, Ethereum (ETH) shows signs of stability near the immediate $1,900 hurdle, backed by mild capital inflows.
+A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
-FXStreet • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -228,7 +228,7 @@ FXStreet • 2d ago
 
 Ethereum Income Play Pulls In Fresh Cash Despite Price Slump NEOS Ethereum High Income ETF, ticker NEHI, saw fresh inflows of $1,660,038 on July 22, 2026, a notable...
 
-TipRanks • 59m ago
+TipRanks • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ In this video I break down the current Ethereum price action and why the recent 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 163 • 💬 7 • ⏱️ 7:13 • 21h ago
+👁️ 3K • 👍 163 • 💬 7 • ⏱️ 7:13 • 23h ago
 
 ---
 
@@ -302,7 +302,7 @@ This is all about why the next bif crypto crash could be coming, where the cycle
 
 📺 Investing Made Simple
 
-👁️ 10K • 👍 666 • ⏱️ 8:39 • 1d ago
+👁️ 10K • 👍 666 • ⏱️ 8:39 • 2d ago
 
 ---
 
@@ -312,7 +312,7 @@ Por qué dudas con Bitcoin y Ethereum en este momento? ✓Administrador de Teleg
 
 📺 BITLOBO TRADING
 
-👁️ 4K • 👍 742 • 💬 4 • ⏱️ 2:07:29 • 17h ago
+👁️ 4K • 👍 742 • 💬 4 • ⏱️ 2:07:29 • 19h ago
 
 ---
 
@@ -332,7 +332,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 964 • 👍 79 • ⏱️ 8:05 • 9h ago
+👁️ 964 • 👍 79 • ⏱️ 8:05 • 11h ago
 
 ---
 
