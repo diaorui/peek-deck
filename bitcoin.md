@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-26T14:36:40.296137+00:00'
+updated: '2026-07-26T16:01:14.732212+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 14:36 UTC  
+**Last Updated:** July 26, 2026 at 16:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,543.56
+### $64,805.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.9%  
-**30d:** +7.7%  
-**90d:** -15.3%  
-**1y:** -45.9%  
+**24h:** +0.8%  
+**7d:** -0.7%  
+**30d:** +7.9%  
+**90d:** -15.1%  
+**1y:** -45.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1293.97B
+**Market Cap:** $1298.33B
 Rank #1
 
-**Circulating Supply:** 20,061,509 BTC
+**Circulating Supply:** 20,061,578 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.8%
+-48.7%
 
 **All-Time Low:** $67.81
-+95018.7%
++95347.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I'm rich guys what should I get first? Really cool to see from River.
 
-13h ago
+15h ago
 
 ---
 
@@ -89,7 +89,7 @@ I'm rich guys what should I get first? Really cool to see from River.
 
 I managed to save up around $325 from my paycheck and got my first BTC today, i feel like i bought at the right time but hey i'm happy with it, any advice for long term buying?
 
-14h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ I managed to save up around $325 from my paycheck and got my first BTC today, i 
 
 How many people have at least 0.1 BTC out of the total number of Bitcoin holders?
 
-19h ago
+20h ago
 
 ---
 
@@ -105,7 +105,7 @@ How many people have at least 0.1 BTC out of the total number of Bitcoin holders
 
 I did not mean to buy much bitcoin. I just bought bitcoin every month for the last few years and did not really think about it. I checked my accounts this week, and my bitcoin position is now larger than my entire retirement portfolio. This is not what I wanted when I started buying bitcoin. Now I am looking at my portfolio, and I am wondering if I am making a good decision by letting my bitcoin investment grow, or a bad one by not changing my portfolio. I want to know what people who have invested in bitcoin for some time do in this situation. Do you sell some of your bitcoin, rebalance your portfolio from time to time, or just let your bitcoin investment grow? How do you handle your bitcoin?
 
-6h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ I did not mean to buy much bitcoin. I just bought bitcoin every month for the la
 
 A while back I posted how I thought we had more to drop. Looking at the price action bitcoin absolutely refuses to break below 60k for a lengthy period of time. I don’t think it’s going to go any lower then it has, or if it does it will only be very slightly. All the bears like myself who were expecting it to plummet were wrong. Trump will continue to TACO out of anything that negatively affects stocks/crypto. I do not think a bear market is legitimately possible at this point while he is president. It’s clear the market is terrified of dipping. Every dip is bought up instantly. I can say I was wrong previously. People will say the four year cycle etc; and it was true and false. It did dip lower this year, especially all the bulls who were calling for 200k and 300k last year look ridiculous. But it clearly is not going to go below 50k. At the worst we might see a small wick to 55-56k marking the bottom before the bull market restarts again. I was wrong. Bitcoin is a lot stronger than I thought.
 
-5h ago
+7h ago
 
 ---
 
@@ -121,7 +121,7 @@ A while back I posted how I thought we had more to drop. Looking at the price ac
 
 Tldr, just have more money. More capital = more gains too, without these world shenaningans, broke, being poor, overtime work, damn such a hassle.
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ Tldr, just have more money. More capital = more gains too, without these world s
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ I am so proud! As of today, I now own 0.1 BTC with a average prive of 68,527.36 
 
 Just a warning to not use Crypto.com . I have been using bitcoin since it was at $50 in 2013 and I have never had a problem buying, selling, sending or receiving until 2 days ago with Crypto.com . A loved one needed money for emergency surgery so I instantly transferred $6,500 from my Chase bank account to my Coinbase account, bought $6,000 of bitcoin, and transferred it to my loved one's Crypto.com bitcoin account. In order to release the funds Crypto.com required a test send from the address the bitcoin was just sent from to prove ownership of the address (the Coinbase address). The amount they required to send was lower than Coinbase's minimum send allowed so it was not possible. She opened a support ticket on Crypto.com and support first said just try again using any bitcoin address to send from. So I sent the tiny amount required from my Electrum. Which of course didn't work (not sure why it would since the purpose was to establish ownership of original address). Then they said send it again but from a legacy wallet. So I opened my 12 year old legacy Electrum wallet and sent from a legacy address. That of course did not work either as it is not the Coinbase account Then for the next 2 days support just sends (every 7 hours) some random irrelevant copy and paste generic suggestion (restart app, explanation of how bitcoin works and other such BS). I then hopped on Crypto_com reddit account which appears to be active but the mods will not approve my post nor reply to my message. Fortunately I just barely had another $6,000 I was able to get to her another way but the original $6,000 is still stuck on Crypto.com which their support is doing absolutely nothing but sending irrelevant generic copy and paste replies. I know many crypto sites fall under the "works fine until needs support" framework and Crypto.com is definitely on that list. EDIT: If anyone from Crypto.com sees this and wants to actually resolve the issue then I will edit this post stating that the solution was resolved.
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ Just a warning to not use Crypto.com . I have been using bitcoin since it was at
 
 Do you agree that the Crypto industry “needs” the CLARITY Act “badly”? It’s hard to parse whether it is the latest developments on the legislation that is driving digital asset price moves, or whether it’s the Iran war saga and Fed rates expectations. John Thune also has no clue, I think. I also didn’t know Gillibrand’s son was so exposed to crypto markets! She might very well end up voting for it! This piece summed up the developments over the last week pretty well.
 
-🔗 [substack.com](https://substack.com/@thecalllog/note/p-208535576?r%3D4a9can%26utm_medium%3Dios%26utm_source%3Dnotes-share-action) • 3h ago
+🔗 [substack.com](https://substack.com/@thecalllog/note/p-208535576?r%3D4a9can%26utm_medium%3Dios%26utm_source%3Dnotes-share-action) • 5h ago
 
 ---
 
@@ -165,15 +165,15 @@ Do you agree that the Crypto industry “needs” the CLARITY Act “badly”? I
 
 Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
 
-USA Today • 5h ago
+USA Today • 6h ago
 
 ---
 
-**[Crypto Trader Sells $2.5M In Ferraris To Buy More Bitcoin](https://www.benzinga.com/crypto/cryptocurrency/26/07/60685348/crypto-trader-sells-2-5m-in-ferraris-to-buy-more-bitcoin)**
+**[Is Money Rotating Back Into Bitcoin and Ethereum ETFs While XRP and HYPE Funds Fade?](https://247wallst.com/investing/cryptocurrency/2026/07/26/is-money-rotating-back-into-bitcoin-and-ethereum-etfs-while-xrp-and-hype-funds-fade/)**
 
-Trader Carl Runefelt sold $2.5 million in Ferraris to increase his BTC exposure based on 200-week moving average price analysis. He views current dip as rare accumulation opportunity.
+Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
 
-Benzinga • 18h ago
+24/7 Wall St. • 4h ago
 
 ---
 
@@ -181,23 +181,7 @@ Benzinga • 18h ago
 
 @Bitcoin Magazine 4718 Views
 
-Moomoo • 1h ago
-
----
-
-**[Is Money Rotating Back Into Bitcoin and Ethereum ETFs While XRP and HYPE Funds Fade?](https://finance.yahoo.com/markets/crypto/articles/money-rotating-back-bitcoin-ethereum-114205050.html)**
-
-Bitcoin and Ethereum ETFs just snapped a brutal losing streak, but the two sessions that followed nearly erased everything they gained. Meanwhile, the altcoin funds that thrived during the selloff are quietly going cold.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Does crypto make your portfolio less risky? Only if you do it right, experts say](https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html)**
-
-There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.
-
-CNBC • 1d ago
+Moomoo • 3h ago
 
 ---
 
@@ -205,7 +189,7 @@ CNBC • 1d ago
 
 Bitcoin faces renewed downward pressure as ETF inflows have turned negative. While a previous W-shaped bullish pattern was invalidated, Bitcoin could potentially form an inverse head and shoulders pattern if it holds above the $60,000 support level
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -217,7 +201,15 @@ Morningstar • 2d ago
 
 **[Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-64000-as-traders-brace-for-upcoming-fed-decision-4812846)**
 
-Investing.com • 5h ago
+Investing.com • 6h ago
+
+---
+
+**[Does crypto make your portfolio less risky? Only if you do it right, experts say](https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html)**
+
+There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.
+
+CNBC • 1d ago
 
 ---
 
@@ -225,7 +217,7 @@ Investing.com • 5h ago
 
 SpaceX and Tesla billionaire Elon Musk has predicted the world will look very different in just 10 years...
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -233,7 +225,15 @@ Forbes • 3h ago
 
 New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
 
-Scripps News • 1d ago
+Scripps News • 2d ago
+
+---
+
+**[Strategy overhauls bitcoin metrics to account for senior claims](https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists)**
+
+New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
+
+CoinDesk • 2d ago
 
 ---
 
@@ -269,7 +269,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, protecting its purpose as sound, permissionless money.
 
-⬆️ 2 • 💬 1 • 3d ago • [BIP-110](https://bip110.org)
+⬆️ 2 • 💬 1 • 4d ago • [BIP-110](https://bip110.org)
 
 ---
 
@@ -309,13 +309,13 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
 
-⬆️ 1 • 💬 0 • 2d ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 3d ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
 
 ---
 
 **[Programmer Government](https://news.ycombinator.com/item?id=49052385)**
 
-⬆️ 2 • 💬 3 • 16h ago
+⬆️ 2 • 💬 3 • 17h ago
 
 ---
 
@@ -323,13 +323,23 @@ Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 281 • 💬 33 • ⏱️ 15:51 • 14h ago
+
+---
+
 **[Bitcoin Treasuries are COLLAPSING and That&#39;s Bullish! (Here&#39;s Why)](https://www.youtube.com/watch?v=JQFEIHP7oyA)**
 
 Several high-profile Bitcoin treasury companies are struggling, but that doesn't mean Bitcoin is. As financial engineering begins to ...
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 287 • ⏱️ 27:04 • 1d ago
+👁️ 16K • 👍 1K • 💬 286 • ⏱️ 27:04 • 1d ago
 
 ---
 
@@ -339,7 +349,7 @@ Jordi Visser is a veteran macro investor with 30+ years of experience and the au
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 2K • 💬 56 • ⏱️ 53:31 • 1d ago
+👁️ 53K • 👍 2K • 💬 64 • ⏱️ 53:31 • 1d ago
 
 ---
 
@@ -349,7 +359,7 @@ While Washington debates the Clarity Act, the rest of the world is moving. Russi
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 617 • 💬 170 • ⏱️ 15:36 • 22h ago
+👁️ 7K • 👍 654 • 💬 210 • ⏱️ 15:36 • 23h ago
 
 ---
 
@@ -359,17 +369,7 @@ In this interview, Samson Mow shares his latest outlook on Bitcoin and explains 
 
 📺 Cointelegraph
 
-👁️ 13K • 👍 365 • 💬 138 • ⏱️ 20:40 • 2d ago
-
----
-
-**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 237 • 💬 31 • ⏱️ 15:51 • 13h ago
+👁️ 14K • 👍 369 • 💬 137 • ⏱️ 20:40 • 2d ago
 
 ---
 
@@ -379,7 +379,7 @@ is $58k the low or could it be $48k for Bitcoin? According to CVDD we MUST hit $
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 428 • 💬 59 • ⏱️ 16:18 • 16h ago
+👁️ 7K • 👍 523 • 💬 64 • ⏱️ 16:18 • 18h ago
 
 ---
 
@@ -389,17 +389,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 213 • 💬 30 • ⏱️ 17:12 • 18h ago
-
----
-
-**[Bitcoin: The Bear market is nearly over.](https://www.youtube.com/watch?v=umX9m7y7jsU)**
-
-If you enjoy the streams or videos and find value in my insights, make sure to like and subscribe to the channel. I stream weekly ...
-
-📺 Killa
-
-👁️ 7K • 👍 588 • 💬 147 • ⏱️ 15:23 • 23h ago
+👁️ 5K • 👍 225 • 💬 30 • ⏱️ 17:12 • 20h ago
 
 ---
 
@@ -409,17 +399,27 @@ Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now 
 
 📺 Gareth Soloway
 
-👁️ 40K • 👍 3K • 💬 242 • ⏱️ 10:40 • 1d ago
+👁️ 41K • 👍 3K • 💬 245 • ⏱️ 10:40 • 1d ago
 
 ---
 
-**[OMG.. CLARITY Act Is About To BLOW UP Bitcoin!?](https://www.youtube.com/watch?v=sGlFlF-eJRo)**
+**[Bitcoin Weekend Volatility : Live Trading](https://www.youtube.com/watch?v=xh0on-WEfFc)**
 
-Crypto Holders: Everything Comes Down To THIS! Join Blockmaze - X https://twitter.com/BlockmazeRWA Telegram ...
+Zen Master JP Does Objective Analysis of Bitcoin, Altcoins, & More! Weekend Volatility - Live Trading! Get 10% back on your fees ...
 
-📺 Altcoin Daily
+📺 Sin City Crypto
 
-👁️ 46K • 👍 2K • 💬 227 • ⏱️ 12:09 • 2d ago
+👁️ 6K • 👍 263 • ⏱️ 3:51:25 • 11h ago
+
+---
+
+**[Bitcoin: Between a Rock and a Hard Place](https://www.youtube.com/watch?v=JY_wY8XXjYU)**
+
+Let's talk about Bitcoin price and what to expect over the coming months. Come to the 1st ITC Conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 71K • 👍 4K • 💬 179 • ⏱️ 10:01 • 2d ago
 
 ---
 

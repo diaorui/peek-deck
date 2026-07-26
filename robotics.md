@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-26T14:36:40.304449+00:00'
+updated: '2026-07-26T16:01:14.741669+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 26, 2026 at 14:36 UTC  
+**Last Updated:** July 26, 2026 at 16:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,29 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
+
+7h ago
+
+---
+
+**[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
+
+1h ago
+
+---
+
 **[I moved my 3D-printed robot lamp to a Raspberry Pi 5 and added controllable lighting](https://www.reddit.com/r/robotics/comments/1v6gd10/i_moved_my_3dprinted_robot_lamp_to_a_raspberry_pi/)**
 
 A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main PC. I still use a separate animation editor that I built for creating movements. Each joint has its own timeline with position keyframes, velocity, torque limits, and controller parameters. Finished animations are sent to the lamp and played back locally. I’ve also installed an addressable LED ring with a 3D-printed diffuser inside the head. Brightness and transitions are now part of the same animation timeline, allowing the light to be synchronized with movement. This video is a quick test of the new setup. I’m currently tuning the motor parameters, brightness curves, and transition timings before using the light in more expressive animations.
 
-19h ago
+21h ago
 
 ---
 
-**[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
+**[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-6h ago
+54m ago
 
 ---
 
@@ -50,7 +62,31 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 Just finished modifying the arm holder/mount for my DIY robot. The old PLA bracket was flexing too much under load, so I redesigned it to be sturdier. Watch the clip to see the improved range of motion. The difference is night and day. No more wobbly joints! Next step is to test the weight capacity.
 
-12h ago
+13h ago
+
+---
+
+**[Robotics development made dead simple (open source)](https://www.reddit.com/r/robotics/comments/1v774qr/robotics_development_made_dead_simple_open_source/)**
+
+Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
+
+27m ago
+
+---
+
+**[Update on my humanoid robot !! (AB-SO-BOT)](https://www.reddit.com/r/robotics/comments/1v725ld/update_on_my_humanoid_robot_absobot/)**
+
+GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
+
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 3h ago
+
+---
+
+**[I gott a little the hang of ros2 gazebo update 24-07-2026 #simulation #r...](https://www.reddit.com/r/robotics/comments/1v759g3/i_gott_a_little_the_hang_of_ros2_gazebo_update/)**
+
+I wanna show my progress with ros2 and gazebo i could move it while it is lauched and use the teleop to move a little it is not perfect but i am satiefied with the progress.I will try later with gz bridge to pu blish some movement commands
+
+🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 1h ago
 
 ---
 
@@ -58,53 +94,13 @@ Just finished modifying the arm holder/mount for my DIY robot. The old PLA brack
 
 Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous rotation servo. The gyro normally has centering springs but they have been removed to increase sensitivity. The gyro has a hall effect sensor in it and an analog circuit which generates PWM pulses that the servo uses as a velocity control. A 3 axis version of this arrangement is what made the Apollo guidance computer so accurate at knowing its own pose over long distances and times. This single axis version could be a gyrocompass in a robot or aircraft, to maintain heading even if the magnetic compass quits working etc Now we have laser ring gyros and other extremely accurate solid state sensors and amazing computational power and algorithms to integrate the readings to probably surpass any internal flywheel arrangements accuracy.
 
-15h ago
+16h ago
 
 ---
 
 **[Pouring cup Robot](https://www.reddit.com/r/robotics/comments/1v61zoy/pouring_cup_robot/)**
 
 1d ago
-
----
-
-**[Cubic Doggo Upgrade: Walking with IMU!](https://www.reddit.com/r/robotics/comments/1v69uqf/cubic_doggo_upgrade_walking_with_imu/)**
-
-Hello hello, development of the upgrade, CubicDoggo 06R (High Mobility, sort of), is now complete, and the full project is documented on GitHub: https://github.com/SphericalCowww/CubicDoggo_06R The previous post can be found here. But yeah, the performance is not as ideal. You can see it's still wobbling when just standing there, and the IMU is not even balanced to be parallel to the ground. The effect of the IMU during walking is also difficult to notice because of how wonky it walks to begin with and how bad I am at controlling it to walk in a straight line, lol. However, you can see the subtle sign right before it stops walking. Its front-right leg is fully extended. This is also why I hit the stop button, because the next step may make the joint flip backwards, causing it to fall. Happened a few times, actually. Without IMU, though, what happens is worse, in that it simply tumbles and rolls over. Also happened a few times, oh well. Next step will be 06Z Neucommu with simulation and RL, and 07B Wouf with stronger servos (a lot of mechanical reinforcement was actually planned for 07B). This is no Unitree superdog, but I am still excited about its progress and enjoy all the Reddit discussions :)
-
-1d ago
-
----
-
-**[Anybody with a pen plotter here?](https://www.reddit.com/r/robotics/comments/1v6ys9j/anybody_with_a_pen_plotter_here/)**
-
-I am from India, and want someone here, with a pen plotter to make some work using it. I want paper sizes from a5 to A1 (chart paper).
-
-5h ago
-
----
-
-**[Polka v0.5 Released! All-in-one ROS2 Lidar node](https://www.reddit.com/r/robotics/comments/1v65bx1/polka_v05_released_allinone_ros2_lidar_node/)**
-
-I’ve just released Polka v0.5.0! It’s an efficient 2D/3D Lidar processing node handling merging, filtering, and deskewing. This update brings 6.2x faster deskewing, live parameter tuning, smarter IMU handling, and a built-in diagnostics dashboard. If it saves your perception stack compute and brings a faster solution, please drop a star! https://github.com/Pana1v/polka It supports 5 distros.
-
-1d ago
-
----
-
-**[How an Event Camera Works: An Interactive Explanation](https://www.reddit.com/r/robotics/comments/1v6puyq/how_an_event_camera_works_an_interactive/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/watch?v=df-fBJkoO-E&si=swBepOPHO9tFu9xD) • 13h ago
-
----
-
-**[AC/DC Control Interface](https://www.reddit.com/r/robotics/comments/1v6f016/acdc_control_interface/)**
-
-https://www.youtube.com/@ALMA.Industries Built a control panel with on/off switches to control DC power supplies (48v, 12v, 24v). AC Outlets always give power regardless of switch states. Used hold home outlets and switches. Turns out to be something I use quite frequently. Full build is in the link above.
-
-20h ago
 
 ---
 
@@ -120,6 +116,12 @@ Time Magazine • 3d ago
 
 ---
 
+**[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
+
+Tech Xplore • 2d ago
+
+---
+
 **[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
 
 Bloomberg.com • 2d ago
@@ -130,7 +132,15 @@ Bloomberg.com • 2d ago
 
 Projecting light directly onto a chip could stream data using less energy
 
-IEEE Spectrum • 1h ago
+IEEE Spectrum • 2h ago
+
+---
+
+**[This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears](https://finance.yahoo.com/technology/ai/articles/eric-trump-backed-startup-just-143015023.html)**
+
+Eric Trump-backed Foundation Future Industries will use Advanced Micro Devices Inc. chips to develop autonomous humanoid robots for factories and military operations, with industrial customers paying about $100,000 annually to lease each machine. AMD Chips Power Next Phantom Robot According...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -142,25 +152,9 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Unitree’s Super Athlete Robot](https://interestingengineering.com/videos/unitrees-super-athlete-robot)**
-
-The Unitree Super Athlete AS2-W is a high-performance quadruped robot engineered for speed, agility, and AI-driven autonomy. Powered by advanced electric actuators, it can exceed 5 m/s while carrying payloads and navigating challenging terrain.
-
-Interesting Engineering • 1d ago
-
----
-
 **[With Washington’s help, humanoid robots can transform US manufacturing](https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/)**
 
 The Hill • 1d ago
-
----
-
-**[Spider-inspired four-legged robot boat could track and retrieve people from water](https://interestingengineering.com/ai-robotics/four-legged-robotic-boat-water-rescues)**
-
-A four-legged robotic boat inspired by fishing spiders could track and retrieve people from water during rescue missions.
-
-Interesting Engineering • 1d ago
 
 ---
 
@@ -198,7 +192,17 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 3.3M • 👍 2K • 💬 438 • ⏱️ 2:15 • 6d ago
+👁️ 3.4M • 👍 2K • 💬 438 • ⏱️ 2:15 • 6d ago
+
+---
+
+**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 3K • 👍 149 • 💬 11 • ⏱️ 4:23 • 4h ago
 
 ---
 
@@ -212,23 +216,13 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 ---
 
-**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 488 • 👍 50 • 💬 4 • ⏱️ 4:23 • 2h ago
-
----
-
 **[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
 
 America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
 
 📺 Living in China
 
-👁️ 81K • 👍 2K • 💬 203 • ⏱️ 12:28 • 5d ago
+👁️ 84K • 👍 2K • 💬 207 • ⏱️ 12:28 • 5d ago
 
 ---
 
@@ -238,17 +232,7 @@ BMW Group intensifies the use of digitalization and the use of artificial intell
 
 📺 The Wheel Network
 
-👁️ 22K • 👍 462 • 💬 134 • ⏱️ 6:24 • 4d ago
-
----
-
-**[What’s Wrong with Japanese Robotics and AI?](https://www.youtube.com/watch?v=gkzxgJH2Wzc)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: https://www.instagram.com/pro_robots Did Japan Lose the ...
-
-📺 PRO ROBOTS
-
-👁️ 11K • 👍 328 • 💬 39 • ⏱️ 15:59 • 6d ago
+👁️ 22K • 👍 470 • 💬 142 • ⏱️ 6:24 • 4d ago
 
 ---
 
@@ -258,27 +242,7 @@ The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it clim
 
 📺 DPCcars
 
-👁️ 17K • 👍 146 • 💬 59 • ⏱️ 2:32 • 2d ago
-
----
-
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
-
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
-
-📺 New York Post
-
-👁️ 48K • 👍 944 • 💬 409 • ⏱️ 2:02 • 4d ago
-
----
-
-**[China’s T800 Robots Fight Just SHOCKED the World!](https://www.youtube.com/watch?v=QbnCPSLDkpw)**
-
-A humanoid robot named Matador took a brutal high kick to the head, and its head rolled across the cage floor. Then Matador ...
-
-📺 NextGen Humanoids
-
-👁️ 21K • 👍 448 • 💬 84 • ⏱️ 8:56 • 6d ago
+👁️ 17K • 👍 147 • 💬 60 • ⏱️ 2:32 • 2d ago
 
 ---
 
@@ -288,7 +252,37 @@ Everyone is asking if killer robots are coming. Wrong question. One already knoc
 
 📺 Ambrose In China
 
-👁️ 694K • 👍 24K • 💬 5K • ⏱️ 2:25 • 6d ago
+👁️ 705K • 👍 25K • 💬 5K • ⏱️ 2:25 • 6d ago
+
+---
+
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+
+📺 New York Post
+
+👁️ 48K • 👍 951 • 💬 411 • ⏱️ 2:02 • 4d ago
+
+---
+
+**[Unboxing BENI: This 2-Wheeled Camera Robot by Mondo Robotics](https://www.youtube.com/watch?v=ytaZ2eR9CR8)**
+
+Get in early on the Kickstarter deals: https://www.kickstarter.com/projects/mondorobotics/beni-all-terrain-camera-robot?ref=8ebvkr ...
+
+📺 FlytPath
+
+👁️ 77K • 👍 377 • 💬 28 • ⏱️ 5:19 • 6d ago
+
+---
+
+**[Easy Robot # #creativefest # #diy #scienceproject #robotics #steam #shorts](https://www.youtube.com/watch?v=PK32mJAqjqQ)**
+
+Creative fest,how to make a robot,walking robot diy,simple science project for school,school science exhibition projects,stem ...
+
+📺 Creative fest
+
+👁️ 3K • 👍 17 • ⏱️ 0:31 • 6h ago
 
 ---
 
