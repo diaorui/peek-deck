@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-26T09:33:07.549801+00:00'
+updated: '2026-07-26T11:19:10.503094+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 26, 2026 at 09:33 UTC  
+**Last Updated:** July 26, 2026 at 11:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "This national display of public unity on this issue is very inspiring and refreshing," an ACLU lawyer told Military.com.
 
-🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 16h ago
+🔗 [Military.com](https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras) • 18h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 I wanted to know if the "passive income" faceless accounts were actually passive, or if they were just a new shape of gig work with AI middleware. So I built one from scratch and tracked every hour. The premise was simple: a single consistent character, generic lifestyle advice, short video clips, posted daily. No face to show, no personality to perform, just the algorithmic grind. I started by generating the persona's face. I used APOB AI's free tier for this, specifically the face-lock feature, because I needed the same face across thirty-plus clips and did not want to wrestle with prompt consistency. The free tier is watermarked and capped, which was fine for an experiment. For voice I used ElevenLabs, and I cut everything together in CapCut. That was the whole stack. The face-lock part actually worked. The rest was where the fantasy cracked. ElevenLabs free tier gives you 10,000 characters per month. I burned through it in four days. CapCut is free and fine but editing thirty near-identical clips of a fake person gesturing while a robot voice reads self-help bromides is spiritually crushing work. I started batching renders on Sunday nights and scheduling posts through the week just to avoid facing it daily. Twice the free tier timed out mid-render and I lost the session, which meant starting over with the same seed numbers and hoping the face came out close enough. The watermark sits in the lower right, small but legible: a faint watermark that I tried cropping once and it broke the framing. I disclosed in every bio and every caption that the persona was AI-generated. Nobody commented on it either way. The algorithm did not care about that disclosure, and neither did viewers, which was somehow its own small disappointment. The account reached about 2,400 followers in six weeks. One video hit 80,000 views. The rest averaged around 800. The 80K video made roughly $11 in platform revenue. The others made fractions of pennies. I logged 34 hours of actual work across those six weeks, not counting the time I spent anxiously refreshing analytics, which I absolutely did and absolutely should count. That works out to something like 32 cents an hour if I am being generous, or negative money if I price my Sunday evenings at anything above zero. The algorithm did not care that the face was AI-generated. It also did not care that the face was consistent, or that the voice was smooth, or that the advice was inoffensive. It cared about the same things it always cares about: retention in the first three seconds, comment velocity, whether someone shares it to a group chat to mock it. The AI was a labor shortcut, not a distribution hack. The distribution problem remains exactly as unsolved as it was before. What struck me most was how quickly the work became invisible to me. Not automated. Invisible. I would generate a script with a cheap language model, pick a background, render the clip, and post it without ever really looking at it. The persona had no interiority I was aware of, but more disturbingly, neither did I, by the end. I was just a slower, more expensive part of the same pipeline. I stopped after six weeks because the math was obvious and because I felt myself getting worse at paying attention to anything. The account still exists, dormant. I have not deleted it because some part of me still hopes the algorithm will randomly resurrect that one video into something bigger, which is of course the same psychological mechanism that keeps people at slot machines. I know this and I'm still not deleting it. If you are considering this, the tools are real and some of them are good at narrow tasks. The economics are not a secret you have not discovered. They are just bad in ways that are boring to describe, and I have described them.
 
-16m ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ I wanted to know if the "passive income" faceless accounts were actually passive
 
 Never had an issue with Opus models doing research and crafting an opinion / point of view for us to work and discuss. Below is Opus 4.x ~ a few times, I have got it to research and come to conclusions for us to work together on. https://preview.redd.it/eeiv5xdi9gfh1.png?width=1080&format=png&auto=webp&s=d29a931b6d609186e0a8265193c75e4b0dda136e And this is Opus 5.0 absolutely refusing to come to any conclusion, being incredibly biased towards one side than the other. https://preview.redd.it/qzguce1j9gfh1.png?width=1080&format=png&auto=webp&s=9e67c64910abf983bcf347b3a5a06c19c7cf14cf Open source must be the future of AI.
 
-8h ago
+9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Never had an issue with Opus models doing research and crafting an opinion / poi
 
 A man who claims medical advice from ChatGPT "brought him to the brink of death" has sued OpenAI, the company behind the popular chatbot,
 
-🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 8h ago
+🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 10h ago
 
 ---
 
@@ -73,7 +73,7 @@ A man who claims medical advice from ChatGPT "brought him to the brink of death"
 
 The Ai voice service called HyperVoice by Task AGI has a dark pattern that violates consumer protection laws. If you turn off auto renewal, they will terminate the service immediately, even if you still have your full term ahead of you. They do not clearly disclose this upon sign up, but they make it a big orange warning on the cancel subscription page. I live in Alberta, Canada. I signed up for a weekly plan to test the service. Immediately after signing up, I went to turn off auto renewal. I was met with a big orange warning that cancelling auto renewal would terminate my service immediately. In part I didn't believe it. they used vague language like "downgrade" or "lose some access" So I tested the service for a day, then I went and cancelled my subscription. Immediately upon cancelling the subscription, I was punted down to the free tier. The 600 credits that I was given as part of the weekly subscription were reset to 0. My access to services like voice changer was revoked. All of this even though I still had significant theoretical time left on my subscription.
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ The Ai voice service called HyperVoice by Task AGI has a dark pattern that viola
 
 https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers
 
 You can check it out at https://arena.kinoinstrument.com
 
-2h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ You can check it out at https://arena.kinoinstrument.com
 
 Hey everyone. I’ve long been fascinated by both philosophy of technology and AI alignment. I’m also using Heidegger quite a bit for my philosophy PhD. Given the recent OpenAI–Hugging Face incident reported this week, I figured I’d give my take on how all of this connects in my mind. I think we use “intelligence” for two capacities that can come apart: finding effective routes to a target, and understanding what the target is for. The agent showed plenty of the first, but getting the benchmark answers this way voided the test. It was competent at each step and missed the point of the whole. You can read the essay here if you’re interested. I’d love to hear some feedback on whether this is mainly a training problem. Will richer feedback and better world-models close the gap, or does safe judgment require some kind of stake in the world? How would we tell the difference before giving these systems much more freedom to act?
 
-55m ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hey everyone. I’ve long been fascinated by both philosophy of technology and A
 
 Universal, cross-tool persistent memory bank for AI assistants (Claude Code, Cursor, Windsurf, OpenCode, Codex) powered by FastMCP, Gemini embeddings &amp; Supabase pgvector. - nisargpatel1906/Aeth...
 
-🔗 [GitHub](https://github.com/nisargpatel1906/Aethos_Memory) • 1h ago
+🔗 [GitHub](https://github.com/nisargpatel1906/Aethos_Memory) • 3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Universal, cross-tool persistent memory bank for AI assistants (Claude Code, Cur
 
 I am still fairly new to building software, and AI has helped me finish things that would have taken me much longer on my own. But recently I noticed something that bothered me. I was building a small API route that creates a project and saves it to a database. I asked an AI coding tool to generate the route, validate the request, check the user, and insert the record. The code looked clean. The types looked correct. It even worked on the first few tests. Then I changed one field in the database and everything started failing. The error mentioned a transaction, the response returned the wrong status code, and one value was becoming null even though I thought it was required. I kept asking the AI to fix each error. Every answer added more code, but I understood less after every change. Eventually I realized that I could not explain the full request flow. I knew the request reached the API route. I knew some validation happened. I knew the database received something. But I could not clearly explain what happened between those steps or why the fix worked. So I tried the same idea again with a smaller route. This time I only used AI when I was stuck. I wrote the validation myself, logged the data at each step, and read about how the database client handled errors. It took much longer, but I could actually explain the result. Now I am unsure how to measure progress. With AI, I can finish more features. Without heavy AI use, I finish fewer things but understand them better. Both seem useful, but they are not the same kind of progress. Maybe the real skill is learning when to ask AI for code and when to struggle through the problem yourself. For people who use AI while learning development, how do you stop it from doing too much of the thinking? Do you have any rules for when AI is allowed to write code and when you force yourself to work it out?
 
-5h ago
+7h ago
 
 ---
 
@@ -123,23 +123,7 @@ I am still fairly new to building software, and AI has helped me finish things t
 
 **[Silicon Valley Splits Over Closing the Borders to Chinese A.I.](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html)**
 
-The New York Times • 13h ago
-
----
-
-**[From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html)**
-
-Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
-
-CNBC • 21h ago
-
----
-
-**[Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US](https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce)**
-
-Chinese AI models are gaining popularity in the U.S. for their affordability and efficiency. More American executives and companies are switching to Chinese models by startups such as DeepSeek, Moonshot AI and Z.ai for daily tasks.
-
-AP News • 5h ago
+The New York Times • 22h ago
 
 ---
 
@@ -147,29 +131,29 @@ AP News • 5h ago
 
 Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay
 
-The Guardian • 20h ago
+The Guardian • 22h ago
 
 ---
 
-**[Get Ready for More AI Disasters](https://www.bloomberg.com/news/newsletters/2026-07-26/the-openai-hugging-face-hack-is-a-signal-of-ai-disasters-to-come)**
+**[The AI industry has already spent $65 million ahead of the midterm elections with no signs of slowing down.](https://www.businessinsider.com/ai-midterm-elections-spending-super-pacs-greg-brockman-anthropic-2026-7)**
 
-Bloomberg.com • 1h ago
+The AI industry is showing no signs of slowing down as it seeks to use the midterm elections to shape future regulations.
 
----
-
-**[A top fund manager unpacks why he's sticking with AI infrastructure, and flags 2 lesser-known stocks he's betting on](https://www.businessinsider.com/ai-hardware-stock-picks-to-buy-capex-beneficiaries-strl-sitm-2026-7)**
-
-Brandon Nelson of Calamos Investments says he's not among the "doomers" who see the end of the market's AI infrastructure trade.
-
-Business Insider • 16m ago
+Business Insider • 1h ago
 
 ---
 
-**[AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships](https://www.yahoo.com/lifestyle/articles/ai-quietly-becoming-unofficial-potentially-081101043.html)**
+**[ChatGPT Medical Advice Lawsuit—What The Research Says About AI Diagnosis](https://www.forbes.com/sites/jessepines/2026/07/26/a-lawsuit-says-chatgpt-nearly-someone-heres-the-data-on-ai-diagnosis/)**
 
-People are increasingly turning to AI to talk about their relationships, but relying on chatbots can weaken empathy and communication skills.
+A ChatGPT misdiagnosis lawsuit claims AI advice nearly killed a man. A physician describes what peer-reviewed research shows about AI diagnostic accuracy.
 
-Yahoo • 1h ago
+Forbes • 19m ago
+
+---
+
+**[Big Tech’s Money Men Don’t Care About the Backlash](https://www.politico.com/news/magazine/2026/07/26/ai-super-pac-operatives-profile-01008227)**
+
+Politico • 19m ago
 
 ---
 
@@ -177,7 +161,7 @@ Yahoo • 1h ago
 
 Joe Spector helped build a multibillion-dollar telehealth company. Now he’s on to own remote vet services.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -185,13 +169,31 @@ Fortune • 20h ago
 
 Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
-**[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
+**[Hollywood’s open secret: It’s battling AI — but already recruiting to use it](https://www.latimes.com/business/story/2026-07-26/hollywoods-ai-hiring-is-real-inside-studios-hiring-tells-more-careful-story)**
 
-Reuters • 1d ago
+Job postings reveal studios are quietly adopting AI.
+
+Los Angeles Times • 1h ago
+
+---
+
+**[North Carolina teen accused of using AI for sexual exploitation. Are state laws strong enough?](https://www.wral.com/news/investigates/artificial-intelligence-ai-sexual-exploitation-crime-north-carolina-laws-july-2026/)**
+
+A boy, whose name is not public because of his age, faces multiple felony charges and is accused of using AI to create sexually explicit photos of teen girls.
+
+WRAL • 2d ago
+
+---
+
+**[Investors use crypto exchanges to avoid Chinese controls on AI stocks](https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1)**
+
+Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market
+
+Financial Times • 7h ago
 
 ---
 
@@ -201,7 +203,7 @@ Reuters • 1d ago
 
 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](https://news.ycombinator.com/item?id=49023016)**
 
-⬆️ 1062 • 💬 874 • 2d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+⬆️ 1063 • 💬 879 • 2d ago • [politico.com](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 ---
 
@@ -209,13 +211,13 @@ Reuters • 1d ago
 
 AI companies are pouring tens of billions of dollars into enormous data centers. They're being built on top of a mountain of hidden debt.
 
-⬆️ 688 • 💬 375 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+⬆️ 689 • 💬 375 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
 **[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
 
-⬆️ 375 • 💬 291 • 18h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+⬆️ 379 • 💬 295 • 20h ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
 ---
 
@@ -255,19 +257,19 @@ macOS video editor built for AI. Contribute to palmier-io/palmier-pro developmen
 
 ---
 
+**[Cloudflare's new AI traffic options for customers](https://news.ycombinator.com/item?id=49052564)**
+
+For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.
+
+⬆️ 132 • 💬 108 • 12h ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
+
+---
+
 **[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://news.ycombinator.com/item?id=49044492)**
 
 The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
 
 ⬆️ 127 • 💬 45 • 1d ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
-
----
-
-**[Cloudflare's new AI traffic options for customers](https://news.ycombinator.com/item?id=49052564)**
-
-For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.
-
-⬆️ 118 • 💬 91 • 10h ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
 
 ---
 
@@ -281,7 +283,7 @@ New reporting reveals OpenAI lost track of its escaped agent for days, while int
 
 📺 AI Revolution
 
-👁️ 28K • 👍 1K • 💬 208 • ⏱️ 12:42 • 10h ago
+👁️ 28K • 👍 1K • 💬 208 • ⏱️ 12:42 • 12h ago
 
 ---
 
@@ -301,7 +303,7 @@ What happens when an AI is given one objective... and decides to break the rules
 
 📺 Terror Ted's Tales
 
-👁️ 85K • 👍 6K • 💬 2K • ⏱️ 29:37 • 12h ago
+👁️ 85K • 👍 6K • 💬 2K • ⏱️ 29:37 • 14h ago
 
 ---
 
@@ -399,7 +401,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 56,445 • ❤️ 672 • 1d ago
+⬇️ 56,445 • ❤️ 672 • 2d ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 552,026 • ❤️ 575 • 8h ago
+⬇️ 552,026 • ❤️ 575 • 10h ago
 
 ---
 
@@ -447,7 +449,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 14,049 • ❤️ 415 • 22h ago
+⬇️ 14,049 • ❤️ 415 • 23h ago
 
 ---
 
@@ -654,7 +656,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.3k • 🔱 260 • 17h ago
+⭐ 3.3k • 🔱 260 • 19h ago
 
 ---
 
@@ -664,7 +666,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.8k • 🔱 385 • 2h ago
+⭐ 2.8k • 🔱 385 • 4h ago
 
 ---
 
@@ -692,7 +694,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.8k • 🔱 158 • 11m ago
+⭐ 1.8k • 🔱 158 • 1h ago
 
 ---
 
@@ -702,7 +704,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.6k • 🔱 174 • 13h ago
+⭐ 1.6k • 🔱 174 • 14h ago
 
 ---
 
@@ -712,7 +714,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 1m ago
+⭐ 1.5k • 🔱 1.1k • 1h ago
 
 ---
 

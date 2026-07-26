@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-26T09:33:07.558617+00:00'
+updated: '2026-07-26T11:19:10.511689+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 09:33 UTC  
+**Last Updated:** July 26, 2026 at 11:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,501.48
+### $64,543.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
+**24h:** +0.6%  
 **7d:** -1.1%  
 **30d:** +7.5%  
-**90d:** -15.4%  
-**1y:** -45.9%  
+**90d:** -15.5%  
+**1y:** -46.0%  
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[first 0.1 BTC as of today 🎉](https://www.reddit.com/r/Bitcoin/comments/1v661dh/first_01_btc_as_of_today/)**
+**[Look what came in the mail....](https://www.reddit.com/r/Bitcoin/comments/1v6otxd/look_what_came_in_the_mail/)**
 
-I am so proud! As of today, I now own 0.1 BTC with a average prive of 68,527.36 €. I started in September 2025, was there for the ATH and the fall afterwards. My next goal are 0.2 BTC ☺️ Just wanted to share that with someone!
+I'm rich guys what should I get first? Really cool to see from River.
 
-21h ago
+10h ago
+
+---
+
+**[Got my first 0.005 BTC today!](https://www.reddit.com/r/Bitcoin/comments/1v6nynw/got_my_first_0005_btc_today/)**
+
+I managed to save up around $325 from my paycheck and got my first BTC today, i feel like i bought at the right time but hey i'm happy with it, any advice for long term buying?
+
+11h ago
 
 ---
 
@@ -89,69 +97,63 @@ I am so proud! As of today, I now own 0.1 BTC with a average prive of 68,527.36 
 
 How many people have at least 0.1 BTC out of the total number of Bitcoin holders?
 
-14h ago
-
----
-
-**[People who held through a full cycle — what did the bottom actually feel like at the time?](https://www.reddit.com/r/Bitcoin/comments/1v64vha/people_who_held_through_a_full_cycle_what_did_the/)**
-
-Newer to this and trying to understand the psychology before I'm tested by it. Everyone says "just hold" but I want to hear from people who were actually down bad at the worst point. Did you know it was the bottom, or did it just feel like it was going to zero like everyone said?
-
-22h ago
-
----
-
-**[India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat](https://www.reddit.com/r/Bitcoin/comments/1v60ud1/india_orders_takedown_of_jack_dorseys/)**
-
-The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.
-
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat) • 1d ago
-
----
-
-**[All BTC or diversified?](https://www.reddit.com/r/Bitcoin/comments/1v659xu/all_btc_or_diversified/)**
-
-How much of your savings are you keeping in BTC? Are waiting for the price to drop before you by BTC?
-
-22h ago
-
----
-
-**[Niche questions for the math bitcoiners](https://www.reddit.com/r/Bitcoin/comments/1v6fwjv/niche_questions_for_the_math_bitcoiners/)**
-
-Have you ever done fourier analysis on any BTC metric? If you do, have you found something interesting? Do you think is not worth it? Why?
-
 15h ago
 
 ---
 
-**[Clarity Act stalled](https://www.reddit.com/r/Bitcoin/comments/1v6fonf/clarity_act_stalled/)**
+**[My Bitcoin allocation is bigger than my retirement account](https://www.reddit.com/r/Bitcoin/comments/1v6x8cm/my_bitcoin_allocation_is_bigger_than_my/)**
 
-With the assumption that Republicans are highly unlikely to change the bill to leave room for future prosecution of POTUS via State AGs (a core Democrat demand); the only way forward for this current version seems to be Republicans to hold both chambers. What alternative version might be introduced in the 2027-2028 Congress that can get passed and signed by Trump in the next two years? Will Democrats continue to assert prosecution rights forever or is there a compromise Democrats are willing to accept that could still protect Trump from potential prosecution?
+I did not mean to buy much bitcoin. I just bought bitcoin every month for the last few years and did not really think about it. I checked my accounts this week, and my bitcoin position is now larger than my entire retirement portfolio. This is not what I wanted when I started buying bitcoin. Now I am looking at my portfolio, and I am wondering if I am making a good decision by letting my bitcoin investment grow, or a bad one by not changing my portfolio. I want to know what people who have invested in bitcoin for some time do in this situation. Do you sell some of your bitcoin, rebalance your portfolio from time to time, or just let your bitcoin investment grow? How do you handle your bitcoin?
 
-15h ago
-
----
-
-**[Trading bitcoin always ends badly. DCA & HODL is the name of the game.](https://www.reddit.com/r/Bitcoin/comments/1v5oqpr/trading_bitcoin_always_ends_badly_dca_hodl_is_the/)**
-
-1d ago
+3h ago
 
 ---
 
-**[Purchasing tainted coins.](https://www.reddit.com/r/Bitcoin/comments/1v69we7/purchasing_tainted_coins/)**
+**[Former Bear; I think the bottom is in](https://www.reddit.com/r/Bitcoin/comments/1v6ya4e/former_bear_i_think_the_bottom_is_in/)**
 
-Hi all, I am looking to buy BTC p2p, but before I do, is there a way in which I can check if the coins I purchase in advance are tainted? Is there a website or something this can be verified on? I want to check this to avoid any problems in utilising the coin/s once purchased. Thanks
+A while back I posted how I thought we had more to drop. Looking at the price action bitcoin absolutely refuses to break below 60k for a lengthy period of time. I don’t think it’s going to go any lower then it has, or if it does it will only be very slightly. All the bears like myself who were expecting it to plummet were wrong. Trump will continue to TACO out of anything that negatively affects stocks/crypto. I do not think a bear market is legitimately possible at this point while he is president. It’s clear the market is terrified of dipping. Every dip is bought up instantly. I can say I was wrong previously. People will say the four year cycle etc; and it was true and false. It did dip lower this year, especially all the bulls who were calling for 200k and 300k last year look ridiculous. But it clearly is not going to go below 50k. At the worst we might see a small wick to 55-56k marking the bottom before the bull market restarts again. I was wrong. Bitcoin is a lot stronger than I thought.
 
-19h ago
+2h ago
 
 ---
 
-**[Any financial representatives have their entire *brokerage* portfolio in a bitcoin ETF like IBIT or FBTC? Is it allowed?](https://www.reddit.com/r/Bitcoin/comments/1v69d5a/any_financial_representatives_have_their_entire/)**
+**[It's easier to hold bitcoin while you're rich](https://www.reddit.com/r/Bitcoin/comments/1v6r0at/its_easier_to_hold_bitcoin_while_youre_rich/)**
 
-Is this against your firm's rules? Did your firm make you sell your shares? Just curious because I'm thinking about applying to a financial rep role (Series 7), but I'm down 50% on portfolio holdings of 100% FBTC. I wonder if this concentrated holding is allowed at most firms? I also hold BTC in actual cold storage. Am I blocked from even applying since this isn't what most representatives should hold?
+Tldr, just have more money. More capital = more gains too, without these world shenaningans, broke, being poor, overtime work, damn such a hassle.
 
-19h ago
+8h ago
+
+---
+
+**[Daily Discussion, July 26, 2026](https://www.reddit.com/r/Bitcoin/comments/1v6vfhr/daily_discussion_july_26_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+5h ago
+
+---
+
+**[first 0.1 BTC as of today 🎉](https://www.reddit.com/r/Bitcoin/comments/1v661dh/first_01_btc_as_of_today/)**
+
+I am so proud! As of today, I now own 0.1 BTC with a average prive of 68,527.36 €. I started in September 2025, was there for the ATH and the fall afterwards. My next goal are 0.2 BTC ☺️ Just wanted to share that with someone!
+
+23h ago
+
+---
+
+**[Crypto.com are scammers, support useless, their reddit here doesn't reply, $6k stuck](https://www.reddit.com/r/Bitcoin/comments/1v6yxwe/cryptocom_are_scammers_support_useless_their/)**
+
+Just a warning to not use Crypto.com . I have been using bitcoin since it was at $50 in 2013 and I have never had a problem buying, selling, sending or receiving until 2 days ago with Crypto.com . A loved one needed money for emergency surgery so I instantly transferred $6,500 from my Chase bank account to my Coinbase account, bought $6,000 of bitcoin, and transferred it to my loved one's Crypto.com bitcoin account. In order to release the funds Crypto.com required a test send from the address the bitcoin was just sent from to prove ownership of the address (the Coinbase address). The amount they required to send was lower than Coinbase's minimum send allowed so it was not possible. She opened a support ticket on Crypto.com and support first said just try again using any bitcoin address to send from. So I sent the tiny amount required from my Electrum. Which of course didn't work (not sure why it would since the purpose was to establish ownership of original address). Then they said send it again but from a legacy wallet. So I opened my 12 year old legacy Electrum wallet and sent from a legacy address. That of course did not work either as it is not the Coinbase account Then for the next 2 days support just sends (every 7 hours) some random irrelevant copy and paste generic suggestion (restart app, explanation of how bitcoin works and other such BS). I then hopped on Crypto_com reddit account which appears to be active but the mods will not approve my post nor reply to my message. Fortunately I just barely had another $6,000 I was able to get to her another way but the original $6,000 is still stuck on Crypto.com which their support is doing absolutely nothing but sending irrelevant generic copy and paste replies. I know many crypto sites fall under the "works fine until needs support" framework and Crypto.com is definitely on that list. EDIT: If anyone from Crypto.com sees this and wants to actually resolve the issue then I will edit this post stating that the solution was resolved.
+
+1h ago
+
+---
+
+**[“The $1.4 Billion Problem Standing Between Crypto and Its Biggest Catalyst”](https://www.reddit.com/r/Bitcoin/comments/1v70h1k/the_14_billion_problem_standing_between_crypto/)**
+
+Do you agree that the Crypto industry “needs” the CLARITY Act “badly”? It’s hard to parse whether it is the latest developments on the legislation that is driving digital asset price moves, or whether it’s the Iran war saga and Fed rates expectations. John Thune also has no clue, I think. I also didn’t know Gillibrand’s son was so exposed to crypto markets! She might very well end up voting for it! This piece summed up the developments over the last week pretty well.
+
+🔗 [substack.com](https://substack.com/@thecalllog/note/p-208535576?r%3D4a9can%26utm_medium%3Dios%26utm_source%3Dnotes-share-action) • 32m ago
 
 ---
 
@@ -163,7 +165,7 @@ Is this against your firm's rules? Did your firm make you sell your shares? Just
 
 Trader Carl Runefelt sold $2.5 million in Ferraris to increase his BTC exposure based on 200-week moving average price analysis. He views current dip as rare accumulation opportunity.
 
-Benzinga • 13h ago
+Benzinga • 15h ago
 
 ---
 
@@ -171,15 +173,23 @@ Benzinga • 13h ago
 
 Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.
 
-The Block • 19h ago
+The Block • 21h ago
 
 ---
 
-**[Trump made a big Bitcoin push. Investors aren't biting](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
+**[Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision](https://ca.finance.yahoo.com/news/bitcoin-price-holds-above-64-093409094.html)**
 
-Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
+Investing.com -- Bitcoin held near $64,000 on Sunday as traders positioned for Wednesday’s Federal Reserve interest-rate decision, with a large block of options bets targeting a move toward $72,000 by the end of July.
 
-USA Today • 28m ago
+Yahoo! Finance Canada • 1h ago
+
+---
+
+**[Robert Kiyosaki Shares a Key Revelation on Gold, Bitcoin and Ethereum](https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-shares-key-revelation-093009485.html)**
+
+Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,13 +197,7 @@ USA Today • 28m ago
 
 Bitcoin may finally be nearing the end of the bearish phase of its four-year cycle.
 
-Yahoo Finance • 43m ago
-
----
-
-**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
-
-Morningstar • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,7 +205,29 @@ Morningstar • 1d ago
 
 There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.
 
-CNBC • 20h ago
+CNBC • 21h ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
+
+Morningstar • 2d ago
+
+---
+
+**[Trump made a big Bitcoin push. Investors aren't biting](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
+
+Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
+
+USA Today • 2h ago
+
+---
+
+**[Ransom note in Nancy Guthrie kidnapping demanded millions in bitcoin](https://www.scrippsnews.com/us-news/ransom-note-in-nancy-guthrie-kidnapping-demanded-millions-in-bitcoin)**
+
+New details in the Nancy Guthrie kidnapping case reveal ransom notes demanding bitcoin and suggesting kidnappers had been inside her Arizona home.
+
+Scripps News • 1d ago
 
 ---
 
@@ -210,28 +236,6 @@ CNBC • 20h ago
 New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations
 
 CoinDesk • 1d ago
-
----
-
-**[State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners](https://bitcoinmagazine.com/news/state-department-tech-program-with-bitcoin)**
-
-The new initiative wants to involve Bitcoin in protected freedom worldwide.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin price hovers at $64,000 as stablecoin inflows weaken](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-64000-as-stablecoin-inflows-weaken-4812755)**
-
-Investing.com • 12h ago
-
----
-
-**[Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store](https://www.macrumors.com/2026/07/25/apple-app-store-fake-bitcoin-wallet-lawsuit/)**
-
-Apple is facing a new lawsuit from three customers who allegedly lost a combined $1.8 million after falling victim to a fake Bitcoin wallet app in the App Store, according to a complaint filed in California federal court on Friday.
-
-MacRumors • 15h ago
 
 ---
 
@@ -313,7 +317,7 @@ Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. 
 
 **[Programmer Government](https://news.ycombinator.com/item?id=49052385)**
 
-⬆️ 2 • 💬 3 • 11h ago
+⬆️ 2 • 💬 3 • 12h ago
 
 ---
 
@@ -327,7 +331,7 @@ Jordi Visser is a veteran macro investor with 30+ years of experience and the au
 
 📺 Anthony Pompliano
 
-👁️ 47K • 👍 2K • 💬 56 • ⏱️ 53:31 • 20h ago
+👁️ 47K • 👍 2K • 💬 56 • ⏱️ 53:31 • 22h ago
 
 ---
 
@@ -357,7 +361,7 @@ is $58k the low or could it be $48k for Bitcoin? According to CVDD we MUST hit $
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 393 • 💬 53 • ⏱️ 16:18 • 11h ago
+👁️ 6K • 👍 393 • 💬 53 • ⏱️ 16:18 • 13h ago
 
 ---
 
@@ -367,7 +371,7 @@ Bear markets are actually more about survival.” Matt Odell is back on the show
 
 📺 What Bitcoin Did
 
-👁️ 6K • 👍 245 • 💬 200 • ⏱️ 1:57:14 • 16h ago
+👁️ 6K • 👍 245 • 💬 200 • ⏱️ 1:57:14 • 18h ago
 
 ---
 
@@ -377,7 +381,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 190 • 💬 36 • ⏱️ 15:51 • 8h ago
+👁️ 4K • 👍 190 • 💬 36 • ⏱️ 15:51 • 9h ago
 
 ---
 
@@ -387,7 +391,7 @@ Wall Street is no longer asking whether Bitcoin belongs in portfolios. Now the b
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 748 • 💬 198 • ⏱️ 13:14 • 8h ago
+👁️ 9K • 👍 748 • 💬 198 • ⏱️ 13:14 • 10h ago
 
 ---
 
@@ -397,7 +401,7 @@ Zen Master JP Does Objective Analysis of Bitcoin, Altcoins, & More! Weekend Vola
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 263 • ⏱️ 3:51:25 • 4h ago
+👁️ 6K • 👍 263 • ⏱️ 3:51:25 • 6h ago
 
 ---
 
@@ -407,7 +411,7 @@ While Washington debates the Clarity Act, the rest of the world is moving. Russi
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 582 • 💬 198 • ⏱️ 15:36 • 16h ago
+👁️ 7K • 👍 582 • 💬 198 • ⏱️ 15:36 • 18h ago
 
 ---
 
@@ -417,7 +421,7 @@ What do you think? Should Peter Schiff take my offer? #bitcoin #bet #peterschiff
 
 📺 Anthony Pompliano
 
-👁️ 7K • 👍 139 • 💬 19 • ⏱️ 0:43 • 17h ago
+👁️ 7K • 👍 139 • 💬 19 • ⏱️ 0:43 • 19h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-26T09:33:07.568245+00:00'
+updated: '2026-07-26T11:19:10.521251+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 26, 2026 at 09:33 UTC  
+**Last Updated:** July 26, 2026 at 11:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,36 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[I moved my 3D-printed robot lamp to a Raspberry Pi 5 and added controllable lighting](https://www.reddit.com/r/robotics/comments/1v6gd10/i_moved_my_3dprinted_robot_lamp_to_a_raspberry_pi/)**
+
+A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main PC. I still use a separate animation editor that I built for creating movements. Each joint has its own timeline with position keyframes, velocity, torque limits, and controller parameters. Finished animations are sent to the lamp and played back locally. I’ve also installed an addressable LED ring with a 3D-printed diffuser inside the head. Brightness and transitions are now part of the same animation timeline, allowing the light to be synchronized with movement. This video is a quick test of the new setup. I’m currently tuning the motor parameters, brightness curves, and transition timings before using the light in more expressive animations.
+
+16h ago
+
+---
+
+**[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
+
+2h ago
+
+---
+
+**["Gave my DIY arm a new 'shoulder' and it feels brand new."](https://www.reddit.com/r/robotics/comments/1v6qvk3/gave_my_diy_arm_a_new_shoulder_and_it_feels_brand/)**
+
+Just finished modifying the arm holder/mount for my DIY robot. The old PLA bracket was flexing too much under load, so I redesigned it to be sturdier. Watch the clip to see the improved range of motion. The difference is night and day. No more wobbly joints! Next step is to test the weight capacity.
+
+9h ago
+
+---
+
+**[Analog integrating gyroscope](https://www.reddit.com/r/robotics/comments/1v6n6e3/analog_integrating_gyroscope/)**
+
+Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous rotation servo. The gyro normally has centering springs but they have been removed to increase sensitivity. The gyro has a hall effect sensor in it and an analog circuit which generates PWM pulses that the servo uses as a velocity control. A 3 axis version of this arrangement is what made the Apollo guidance computer so accurate at knowing its own pose over long distances and times. This single axis version could be a gyrocompass in a robot or aircraft, to maintain heading even if the magnetic compass quits working etc Now we have laser ring gyros and other extremely accurate solid state sensors and amazing computational power and algorithms to integrate the readings to probably surpass any internal flywheel arrangements accuracy.
+
+11h ago
+
+---
+
 **[Pouring cup Robot](https://www.reddit.com/r/robotics/comments/1v61zoy/pouring_cup_robot/)**
 
 1d ago
@@ -42,7 +72,15 @@ Robotics research and industry news
 
 Hello hello, development of the upgrade, CubicDoggo 06R (High Mobility, sort of), is now complete, and the full project is documented on GitHub: https://github.com/SphericalCowww/CubicDoggo_06R The previous post can be found here. But yeah, the performance is not as ideal. You can see it's still wobbling when just standing there, and the IMU is not even balanced to be parallel to the ground. The effect of the IMU during walking is also difficult to notice because of how wonky it walks to begin with and how bad I am at controlling it to walk in a straight line, lol. However, you can see the subtle sign right before it stops walking. Its front-right leg is fully extended. This is also why I hit the stop button, because the next step may make the joint flip backwards, causing it to fall. Happened a few times, actually. Without IMU, though, what happens is worse, in that it simply tumbles and rolls over. Also happened a few times, oh well. Next step will be 06Z Neucommu with simulation and RL, and 07B Wouf with stronger servos (a lot of mechanical reinforcement was actually planned for 07B). This is no Unitree superdog, but I am still excited about its progress and enjoy all the Reddit discussions :)
 
-19h ago
+20h ago
+
+---
+
+**[Anybody with a pen plotter here?](https://www.reddit.com/r/robotics/comments/1v6ys9j/anybody_with_a_pen_plotter_here/)**
+
+I am from India, and want someone here, with a pen plotter to make some work using it. I want paper sizes from a5 to A1 (chart paper).
+
+2h ago
 
 ---
 
@@ -50,15 +88,15 @@ Hello hello, development of the upgrade, CubicDoggo 06R (High Mobility, sort of)
 
 I’ve just released Polka v0.5.0! It’s an efficient 2D/3D Lidar processing node handling merging, filtering, and deskewing. This update brings 6.2x faster deskewing, live parameter tuning, smarter IMU handling, and a built-in diagnostics dashboard. If it saves your perception stack compute and brings a faster solution, please drop a star! https://github.com/Pana1v/polka It supports 5 distros.
 
-22h ago
+1d ago
 
 ---
 
-**[Unitree “Super Athlete" AS2-W (wheeled-leg variant of the AS2)](https://www.reddit.com/r/robotics/comments/1v582o5/unitree_super_athlete_as2w_wheeledleg_variant_of/)**
+**[How an Event Camera Works: An Interactive Explanation](https://www.reddit.com/r/robotics/comments/1v6puyq/how_an_event_camera_works_an_interactive/)**
 
-From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 - Weight: ~25 kg with battery. - Speed: Over 6 m/s (higher than the pure-legged As2). - Payload: Continuous ~16 kg; higher static capacity. - Endurance: Unloaded >3 hours / 30+ km; loaded (>16 kg) >2 hours / >16 km. Same 648 Wh (15,000 mAh) battery class as the As2. - Mobility: Up to ~80 cm obstacles, 45° slopes, 30 cm stairs; strong on gravel, rocky, and uneven outdoor terrain. https://www.unitree.com/As2-W
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-1d ago
+🔗 [youtube.com](https://youtube.com/watch?v=df-fBJkoO-E&si=swBepOPHO9tFu9xD) • 9h ago
 
 ---
 
@@ -66,43 +104,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 -
 
 https://www.youtube.com/@ALMA.Industries Built a control panel with on/off switches to control DC power supplies (48v, 12v, 24v). AC Outlets always give power regardless of switch states. Used hold home outlets and switches. Turns out to be something I use quite frequently. Full build is in the link above.
 
-15h ago
-
----
-
-**[PlannerTrack: A ROS2 (Jazzy) testbed for multi-agent behavior planning, and control heterogeneous agents, swappable vehicle models.](https://www.reddit.com/r/robotics/comments/1v602o4/plannertrack_a_ros2_jazzy_testbed_for_multiagent/)**
-
-PlannerTrack is a platform for developing and testing autonomous vehicle algorithms, behavior, multi-agent coordination, planning, and control, built around a heterogeneous multi-agent mathematical model based simulator core, with a plugin architecture designed to support multiple vehicle types (ground vehicles, aerial vehicles) without hardcoding vehicle-specific simulation code. In coming days I am planning to extend the project for multiple scenarios, addition of complex predictive planning and control algorithms, multi agent planning. PlannerTrack-github
-
-1d ago
-
----
-
-**[Why humanoid robots?](https://www.reddit.com/r/robotics/comments/1v68w0l/why_humanoid_robots/)**
-
-I will list the arguments commonly made in favor of humanoid robots and then rebut them each respectively: "Our world is already designed for the human form" Many environments are indeed designed with the human body in mind, for instance door frame dimensions, door knobs, flat floors, staircases, etc. but it's a mistake to imply that only robots with human features can operate under these conditions, that only robots that have human hands and digits, only robots that have legs and feet, only robots that stand upright, only robots with a human head, etc. when this is obviously not the case. Wheels are compatible with flat floors, many kinds of robots can pass through standard door frame dimensions, simpler hands can be compatible with door knobs, multiple kinds of non-humanoid features can climb stairs, etc. Even if we grant that non-humanoid robots are impractical with these human-designed environments, you can easily remove some of these human-designed features to better accommodate a non-humanoid robot, especially if the non-humanoid robot is much cheaper and superior in productivity than the humanoid, which segways to my second point: This argument implies it costs more than it would justify to redesign the environment to accommodate a non-humanoid robot, but this is often not the case. In fact, much of the world is already designed to accommodate non-humanoid machines, and we already redesign the environment to accommodate non-humanoid machines all the time, because the benefits derived from the non-humanoid machine are so great that it more than justifies the cost of redesigning the environment to accommodate it. Consider for example road and rail infrastructure, which is designed to accommodate automobiles and trains, an example where the benefit of using these non-humanoid machines outweighed the cost of building the environment to accommodate it. Similarly, the benefit of non-humanoid machines in other domains can outweigh the cost of redesigning the environment. "Economics of Scale" All things equal, a mechanically simple non-humanoid robot is cheaper to manufacture and mass produce than a mechanically complex humanoid robot. So the fixed costs for the former are smaller, plus more units are produced, meaning the fixed costs in the former are not only smaller, but they are divided between more units than the humanoid robot. So a mechanically simple non-humanoid robot would benefit more from economies of scale than a mechanically complex humanoid robot. "I don't want to deal with having a separate special-purpose machine for each and every task, I want one that can do it all" I understand the convenience of having a singular machine that can do it all instead of holding a bunch of machines. For instance, it's more convenient to carry a smartphone that can do the task of taking pictures, texting and calling, telling the time, going on the internet, etc. all in one, rather than having separate machines that can do each. But unlike the smartphone, which these days is not too dissimilar (or even superior) in quality from the kind of minimal quality people are looking for in individual cameras, dumbphones, digital clocks, personal desktop computers, etc. the humanoid machine may be so inferior in productivity compared to a collection of non-humanoid machines, that it may justify having a bunch of machines. This is not to mention that a generalist machine can also be non-humanoid. "In homes, where the environment will not change, it makes more sense." It could make more sense, and maybe people find an anthropomorphic design to be more comforting (big maybe), but it's still the case that the environment can be redesigned to better accommodate a non-humanoid machine. Garages, kitchens, and laundry rooms are all made to accommodate non-humanoid machines, for example.
-
-19h ago
-
----
-
-**[Bob (my robot) died 😢 I tried consolidating 2 LiPo batteries into a 1 larger one and fried its Raspberry Pi brains. I'm gonna rebuild him with a Nvidia Jetson brain and RealSense D457 GMSL camera.](https://www.reddit.com/r/robotics/comments/1v5faas/bob_my_robot_died_i_tried_consolidating_2_lipo/)**
-
-1d ago
-
----
-
-**[How Do Robotics Startups Get Their First Funding?](https://www.reddit.com/r/robotics/comments/1v65t8w/how_do_robotics_startups_get_their_first_funding/)**
-
-22h ago
-
----
-
-**[Designing a Quadruped Robot – Looking for Actuator Recommendations](https://www.reddit.com/r/robotics/comments/1v65jwy/designing_a_quadruped_robot_looking_for_actuator/)**
-
-Hi everyone, We're currently in the R&D phase of designing a quadruped robot and are evaluating actuator options for the leg joints. We're looking for recommendations from engineers or researchers who have worked on legged robots. Our main requirements are: High torque-to-weight ratio Compact integrated BLDC servo actuators CAN or EtherCAT communication Reliable performance for continuous operation Good documentation and developer support We've come across manufacturers such as CubeMars (T-Motor), MyActuator, and Unitree, but we'd love to hear about real-world experience. If you've built a quadruped or humanoid robot, which actuators did you choose, and what would you recommend or avoid? If there are other manufacturers or open-source projects we should look at, we'd really appreciate your suggestions. Thanks in advance!
-
-22h ago
+17h ago
 
 ---
 
@@ -128,7 +130,7 @@ IEEE Spectrum • 1d ago
 
 **[With Washington’s help, humanoid robots can transform US manufacturing](https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/)**
 
-The Hill • 21h ago
+The Hill • 23h ago
 
 ---
 
@@ -138,19 +140,19 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)**
-
-Shashua has been invited to take the chairman of the board seat.
-
-TechCrunch • 2d ago
-
----
-
 **[Hooper turned robotics engineer? Franck Kepnang walks through unique academic path](https://www.on3.com/teams/kentucky-wildcats/news/hooper-turned-robotics-engineer-franck-kepnang-walks-through-unique-academic-path/)**
 
 Kentucky's 7-foot shot-blocker has a fascinating life outside of basketball.
 
 On3 • 1d ago
+
+---
+
+**[Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)**
+
+Shashua has been invited to take the chairman of the board seat.
+
+TechCrunch • 2d ago
 
 ---
 
@@ -172,7 +174,7 @@ GeekWire • 2d ago
 
 Tel Aviv University researchers develop micro-robots that use magnetic and electric fields to cross obstacles, move between surfaces and transport delicate biological cargo
 
-Ynetnews • 4h ago
+Ynetnews • 5h ago
 
 ---
 
