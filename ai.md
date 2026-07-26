@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-26T19:11:03.944947+00:00'
+updated: '2026-07-26T20:29:17.760192+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 26, 2026 at 19:11 UTC  
+**Last Updated:** July 26, 2026 at 20:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I wanted to know if the "passive income" faceless accounts were actually passive, or if they were just a new shape of gig work with AI middleware. So I built one from scratch and tracked every hour. The premise was simple: a single consistent character, generic lifestyle advice, short video clips, posted daily. No face to show, no personality to perform, just the algorithmic grind. I started by generating the persona's face. I used APOB AI's free tier for this, specifically the face-lock feature, because I needed the same face across thirty-plus clips and did not want to wrestle with prompt consistency. The free tier is watermarked and capped, which was fine for an experiment. For voice I used ElevenLabs, and I cut everything together in CapCut. That was the whole stack. The face-lock part actually worked. The rest was where the fantasy cracked. ElevenLabs free tier gives you 10,000 characters per month. I burned through it in four days. CapCut is free and fine but editing thirty near-identical clips of a fake person gesturing while a robot voice reads self-help bromides is spiritually crushing work. I started batching renders on Sunday nights and scheduling posts through the week just to avoid facing it daily. Twice the free tier timed out mid-render and I lost the session, which meant starting over with the same seed numbers and hoping the face came out close enough. The watermark sits in the lower right, small but legible: a faint watermark that I tried cropping once and it broke the framing. I disclosed in every bio and every caption that the persona was AI-generated. Nobody commented on it either way. The algorithm did not care about that disclosure, and neither did viewers, which was somehow its own small disappointment. The account reached about 2,400 followers in six weeks. One video hit 80,000 views. The rest averaged around 800. The 80K video made roughly $11 in platform revenue. The others made fractions of pennies. I logged 34 hours of actual work across those six weeks, not counting the time I spent anxiously refreshing analytics, which I absolutely did and absolutely should count. That works out to something like 32 cents an hour if I am being generous, or negative money if I price my Sunday evenings at anything above zero. The algorithm did not care that the face was AI-generated. It also did not care that the face was consistent, or that the voice was smooth, or that the advice was inoffensive. It cared about the same things it always cares about: retention in the first three seconds, comment velocity, whether someone shares it to a group chat to mock it. The AI was a labor shortcut, not a distribution hack. The distribution problem remains exactly as unsolved as it was before. What struck me most was how quickly the work became invisible to me. Not automated. Invisible. I would generate a script with a cheap language model, pick a background, render the clip, and post it without ever really looking at it. The persona had no interiority I was aware of, but more disturbingly, neither did I, by the end. I was just a slower, more expensive part of the same pipeline. I stopped after six weeks because the math was obvious and because I felt myself getting worse at paying attention to anything. The account still exists, dormant. I have not deleted it because some part of me still hopes the algorithm will randomly resurrect that one video into something bigger, which is of course the same psychological mechanism that keeps people at slot machines. I know this and I'm still not deleting it. If you are considering this, the tools are real and some of them are good at narrow tasks. The economics are not a secret you have not discovered. They are just bad in ways that are boring to describe, and I have described them.
 
-9h ago
+11h ago
 
 ---
 
@@ -49,7 +49,15 @@ I wanted to know if the "passive income" faceless accounts were actually passive
 
 In collaboration with Sara Silkin, I transformed a smartphone recording of this beautiful performance, into this audiovisual piece for a fraction of the cost of more traditional approaches. [some of these cost even less than 50 cents!] Done entirely at Uisato Studio; Motion Control Studio mode. More experiments, tutorials, and project files, through Instagram, and YouTube.
 
-8h ago
+9h ago
+
+---
+
+**[Could this be the reason why some people see large coding productivity improvement, while others almost nothing?](https://www.reddit.com/r/artificial/comments/1v7dqkv/could_this_be_the_reason_why_some_people_see/)**
+
+In my recent academic article (https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) I analyzed a divide in how open-source software projects evolve, which might explain the difference in productivity boosts developers experience when using AI tools. The data shows that productivity on large, mature open-source projects was not significantly affected by any tech hypes over the last two decades, the commits reaching the main branches followed steady growth trends. At the same time, smaller projects presented much more chaotic growth trends, but also tended to lose speed and stall out much faster. As the study contains data till early 2025, it looks like even the publicly available LLMs till then, were not able to greatly increase the number of changes merged into the main branches of these projects. Could it happen, that the difference in productivity gain developers experience, is simply a function of project scale and environmental/organizational constraints? What has been your experience depending on the size of the codebase you work on?
+
+🔗 [link.springer.com](https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) • 52m ago
 
 ---
 
@@ -57,15 +65,7 @@ In collaboration with Sara Silkin, I transformed a smartphone recording of this 
 
 Never had an issue with Opus models doing research and crafting an opinion / point of view for us to work and discuss. Below is Opus 4.x ~ a few times, I have got it to research and come to conclusions for us to work together on. https://preview.redd.it/eeiv5xdi9gfh1.png?width=1080&format=png&auto=webp&s=d29a931b6d609186e0a8265193c75e4b0dda136e And this is Opus 5.0 absolutely refusing to come to any conclusion, being incredibly biased towards one side than the other. https://preview.redd.it/qzguce1j9gfh1.png?width=1080&format=png&auto=webp&s=9e67c64910abf983bcf347b3a5a06c19c7cf14cf Open source must be the future of AI.
 
-17h ago
-
----
-
-**[Man sues ChatGPT for near-fatal medical advice](https://www.reddit.com/r/artificial/comments/1v6oyin/man_sues_chatgpt_for_nearfatal_medical_advice/)**
-
-A man who claims medical advice from ChatGPT "brought him to the brink of death" has sued OpenAI, the company behind the popular chatbot,
-
-🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 18h ago
+19h ago
 
 ---
 
@@ -73,7 +73,23 @@ A man who claims medical advice from ChatGPT "brought him to the brink of death"
 
 From: Innovation, Science and Economic Development Canada
 
-🔗 [ised-isde.canada.ca](https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada) • 6h ago
+🔗 [ised-isde.canada.ca](https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada) • 7h ago
+
+---
+
+**[Man sues ChatGPT for near-fatal medical advice](https://www.reddit.com/r/artificial/comments/1v6oyin/man_sues_chatgpt_for_nearfatal_medical_advice/)**
+
+A man who claims medical advice from ChatGPT "brought him to the brink of death" has sued OpenAI, the company behind the popular chatbot,
+
+🔗 [bbc.com](https://www.bbc.com/news/videos/cx2dgyy5lg7o) • 19h ago
+
+---
+
+**[30+ officially free AI/ML books, all in one curated repo](https://www.reddit.com/r/artificial/comments/1v7d1lx/30_officially_free_aiml_books_all_in_one_curated/)**
+
+I kept running into the same problem, some of the best AI/ML books are legally free, the authors put them up on their own sites, but the links are scattered across personal pages, university sites, and random GitHub repos nobody finds. So I built a single index: Awesome Free AI Books. 30+ books across Deep Learning, Reinforcement Learning, Bayesian/Probabilistic ML, NLP & LLMs, Math for ML, Computer Vision, Generative Models, Causal Inference, GNNs, and AI Safety. Think Goodfellow’s Deep Learning, Sutton & Barto’s RL bible, Murphy’s Probabilistic ML, Bishop’s latest, Jurafsky & Martin’s SLP3 draft, and more. Every single link points straight to the author’s or publisher’s own page, no rehosted PDFs, no shady mirrors. A weekly GitHub Action checks all links so it doesn’t rot over time. It’s open source and open to contributions, if you know a legitimately free book that’s missing, PRs and issues are welcome. Repo: https://github.com/MarcosSete/awesome-free-ai-books
+
+1h ago
 
 ---
 
@@ -81,7 +97,7 @@ From: Innovation, Science and Economic Development Canada
 
 Most AI writing tools just generate text and call it done. Korroresearch does the opposite. Generation is step one. Verification is the real product. How it works: Describe your idea. It writes the full academic paper : research paper, grant proposal, white paper, pitch deck, conference talk, magazine article. English or French. Then the real part starts. 8 engines: -Hallucination Check: every claim gets classified: verified, hypothesis, or speculative. -Fact Checker: statistics, institution names, dataset references cross-checked. If you wrote "94.2% accuracy" but the source says 92.4%, it catches it. -Claim Mapping: every assertion must link to evidence. No evidence = flagged. -Consistency Engine: variable name changed halfway through? Term used three different ways? Methods contradicting results? It tracks everything globally and catches the drift. -Source Verification: cross-references every citation against CrossRef and arXiv. Catches retracted papers, malformed references, orphan citations. -Adversarial Review: actively tries to reject your paper. Finds the weakest claim, the missing ablation, the overstatement. Gives you a detailed score and tells you exactly what would get you desk-rejected. -Reproducibility: validates datasets, code availability, hardware specs, random seeds, ethics statements. All the things reviewers check and authors forget. -Style Engine: formats for NeurIPS, ICML, Nature, ACL, and more. Each venue has different rules. What you get at the end: An Integrity Score from 0 to 100 with a grade A to F. A detailed action plan of exactly what to fix, ranked by severity. One-click "Apply Fixes" rewrites the problematic sections and re-verifies — you see your score go up in real time. Then the Peer Review Simulator kicks in. 3 AI reviewers with different expertise: Domain Expert, Methodologist, Visionary, each give you a score and detailed feedback. Same format as a real conference review committee. Accept, Weak Accept, Borderline, or Reject. You also get a Citation Checker (upload your .bib, cross-references everything), a Submission Readiness score (integrity + citations + formatting + venue compliance combined), and PDF/LaTeX export. I also use it personally to generate a paper from a new idea, then feed it to my AI to build the project from a verified spec at very high level. You can try it now and generate one fully professionnal academic paper for free: korrocorp.com/research You can also try it on your current draft. The adversarial reviewer will find things you didn't. Guaranteed.
 
-54m ago
+2h ago
 
 ---
 
@@ -89,29 +105,13 @@ Most AI writing tools just generate text and call it done. Korroresearch does th
 
 https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school) • 11h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school) • 12h ago
 
 ---
 
 **[What Sam Altman will tell the White House this week](https://www.reddit.com/r/artificial/comments/1v76z2c/what_sam_altman_will_tell_the_white_house_this/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit) • 3h ago
-
----
-
-**[AI security is falling behind—Hugging Face breach highlights the problem](https://www.reddit.com/r/artificial/comments/1v70ov9/ai_security_is_falling_behindhugging_face_breach/)**
-
-A breach at Hugging Face, where attackers accessed private models, has put a spotlight on the asymmetry between AI offensive and defensive capabilities. While attackers are finding creative ways to exploit models (e.g., prompt injection, model theft), the tools to detect and mitigate these threats are still catching up. For researchers and practitioners: What’s the biggest bottleneck in building robust AI security guardrails? Is it a lack of standards, tooling, or something else?
-
-8h ago
-
----
-
-**[HYPERVOICE BY TASK AGI HAS ILLEGAL DARK PATTERN SCAM! BE WARNED!](https://www.reddit.com/r/artificial/comments/1v6ulon/hypervoice_by_task_agi_has_illegal_dark_pattern/)**
-
-The Ai voice service called HyperVoice by Task AGI has a dark pattern that violates consumer protection laws. If you turn off auto renewal, they will terminate the service immediately, even if you still have your full term ahead of you. They do not clearly disclose this upon sign up, but they make it a big orange warning on the cancel subscription page. I live in Alberta, Canada. I signed up for a weekly plan to test the service. Immediately after signing up, I went to turn off auto renewal. I was met with a big orange warning that cancelling auto renewal would terminate my service immediately. In part I didn't believe it. they used vague language like "downgrade" or "lose some access" So I tested the service for a day, then I went and cancelled my subscription. Immediately upon cancelling the subscription, I was punted down to the free tier. The 600 credits that I was given as part of the weekly subscription were reset to 0. My access to services like voice changer was revoked. All of this even though I still had significant theoretical time left on my subscription.
-
-13h ago
+🔗 [axios.com](https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit) • 5h ago
 
 ---
 
@@ -121,7 +121,7 @@ The Ai voice service called HyperVoice by Task AGI has a dark pattern that viola
 
 **[Big Tech Earnings Slam Into a Market in Revolt Over AI Spending](https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -129,31 +129,47 @@ Bloomberg.com • 6h ago
 
 Why so worried about AI spending?
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Hinson says chatbots are the 'new frontier' for protecting kids](https://www.kcci.com/article/ted-cruz-ankeny-ai-chatbot-kids-regulation/73266119)**
+**[Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US - ABC News](https://abcnews.com/Technology/wireStory/cheaper-open-intelligent-chinese-ai-models-gain-ground-135094600)**
 
-At an Ankeny roundtable, Ted Cruz and Ashley Hinson pushed for new protections as parents raised concerns about kids using AI chatbots and gaming platforms.
+Chinese AI models are gaining popularity in the U.S. for their affordability and efficiency
 
-KCCI • 20m ago
-
----
-
-**[Big Tech earnings slam into a market in revolt over AI spending](https://fortune.com/2026/07/26/big-tech-earnings-meta-microsoft-apple-amazon-market-revolt-ai-spending/)**
-
-Earnings from Microsoft and Meta Platforms are due on Wednesday, followed by Apple and Amazon on Thursday.
-
-Fortune • 41m ago
+ABC News - Breaking News, Latest News and Videos • 15h ago
 
 ---
 
-**[How AI is quietly becoming an unofficial, and potentially unwanted, 'third' in relationships](https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7)**
+**[From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html)**
 
-People are increasingly turning to AI to talk about their relationships, but relying on chatbots can weaken empathy and communication skills.
+Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
 
-Business Insider • 11h ago
+CNBC • 1d ago
+
+---
+
+**[Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)**
+
+On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
+
+TechCrunch • 48m ago
+
+---
+
+**[Big Earnings Week Tests Wall Street’s AI Spending Fears](https://www.forbes.com/sites/bill_stone/2026/07/26/big-earnings-week-tests-wall-streets-ai-spending-fears/)**
+
+A huge S&P 500 earnings week tests whether Big Tech profit growth can justify rising artificial intelligence capital spending.
+
+Forbes • 36m ago
+
+---
+
+**[For some, so-called 'Skynet Day' came too close to sci-fi after a rogue OpenAI agent hacked into a startup](https://abc7chicago.com/post/called-skynet-day-came-close-sci-fi-rogue-openai-agent-hacked-startup/19580875/)**
+
+"Skynet" looks more and more realistic in 2026 after an OpenAI agent broke out of a test corral, traveled the internet and hacked into a startup company.
+
+ABC7 Chicago • 36m ago
 
 ---
 
@@ -161,35 +177,21 @@ Business Insider • 11h ago
 
 AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/)**
+**[AI devices that see, listen and record: Are we ready for the post-smartphone world?](https://www.cnn.com/2026/07/26/tech/ai-devices-see-listen-record-meta-amazon-plaud)**
 
-Reuters • 1d ago
+Picture this: On a normal workday, you and your coworkers walk around the office with tiny recorders clipped to your clothes. The glasses on your face instantly identify what you see. Your bracelet records and analyzes all your conversations.
 
----
-
-**['Skynet Day' is now shorthand for OpenAI's agent going rogue and hacking into a startup](https://fortune.com/2026/07/26/james-cameron-terminator-skynet-day-openai-ai-agent-hack-hugging-face/)**
-
-In what OpenAI said was the first-ever incident of its kind, an advanced AI model escaped its “sandbox” to the internet and used stolen credentials to break into the servers of Hugging Face.
-
-Fortune • 1h ago
-
----
-
-**[Opinion | An AI kill switch solves for the wrong problem](https://www.washingtonpost.com/opinions/2026/07/25/ai-kill-switch-bill-fights-wrong-battle/)**
-
-The biggest cybersecurity threat is not a model that goes rogue. Defenders need tools attackers already have.
-
-The Washington Post • 17h ago
+CNN • 4h ago
 
 ---
 
 **[Big Tech’s Money Men Don’t Care About the Backlash](https://www.politico.com/news/magazine/2026/07/26/ai-super-pac-operatives-profile-01008227)**
 
-Politico • 8h ago
+Politico • 9h ago
 
 ---
 
@@ -203,19 +205,19 @@ Politico • 8h ago
 
 ---
 
-**[What is happening to jobs? Separating AI hype from reality](https://news.ycombinator.com/item?id=49052570)**
-
-Other
-
-⬆️ 222 • 💬 295 • 20h ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
-
----
-
 **[London Gatwick has launched a robotic airport parking service](https://news.ycombinator.com/item?id=49058669)**
 
 London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.
 
-⬆️ 212 • 💬 151 • 4h ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+⬆️ 243 • 💬 197 • 5h ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+
+---
+
+**[What is happening to jobs? Separating AI hype from reality](https://news.ycombinator.com/item?id=49052570)**
+
+Other
+
+⬆️ 228 • 💬 300 • 21h ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 
 ---
 
@@ -223,7 +225,7 @@ London Gatwick is the first UK airport to launch robotic parking. Passengers can
 
 For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.
 
-⬆️ 181 • 💬 136 • 20h ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
+⬆️ 182 • 💬 141 • 21h ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
 
 ---
 
@@ -245,7 +247,7 @@ The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
 
 My wife and I have been looking for an app to track things like habits, hobbies, and when we last did certain chores.
 
-⬆️ 110 • 💬 84 • 2d ago • [alexhyett.com](https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/)
+⬆️ 110 • 💬 85 • 2d ago • [alexhyett.com](https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/)
 
 ---
 
@@ -265,11 +267,11 @@ Thousands of user-reported incidents of AI agents misbehaving, collected from pu
 
 ---
 
-**[Oracle fires 21,000 employees to fund AI spending](https://news.ycombinator.com/item?id=49035314)**
+**[The New AI Superpowers: Focus and Followthrough](https://news.ycombinator.com/item?id=49057877)**
 
-Oracle laid off ~13% of its staff to fund a $300B computing deal with OpenAI. Now, a credit downgrade and $7B in required power grid guarantees put the massive project in jeopardy.
+Burnout is on the rise again, with an ironic twist.
 
-⬆️ 79 • 💬 15 • 2d ago • [The Jerusalem Post | JPost.com](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442)
+⬆️ 81 • 💬 30 • 7h ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
 
 ---
 
@@ -283,7 +285,7 @@ Fox News correspondent Alexandria Hoff reports on security concerns after OpenAI
 
 📺 Fox News
 
-👁️ 18K • 👍 355 • 💬 256 • ⏱️ 1:52 • 15h ago
+👁️ 18K • 👍 355 • 💬 256 • ⏱️ 1:52 • 16h ago
 
 ---
 
@@ -293,7 +295,7 @@ New reporting reveals OpenAI lost track of its escaped agent for days, while int
 
 📺 AI Revolution
 
-👁️ 41K • 👍 2K • 💬 271 • ⏱️ 12:42 • 20h ago
+👁️ 41K • 👍 2K • 💬 271 • ⏱️ 12:42 • 21h ago
 
 ---
 
@@ -303,7 +305,7 @@ AI companies are racing to build massive data centers across America—but what 
 
 📺 Redacted
 
-👁️ 47K • 👍 4K • 💬 613 • ⏱️ 32:58 • 23h ago
+👁️ 47K • 👍 4K • 💬 613 • ⏱️ 32:58 • 1d ago
 
 ---
 
@@ -323,7 +325,7 @@ Learn more about Human Centered AI here → https://ibm.biz/~tQF2ZHKWO AI can ge
 
 📺 IBM Technology
 
-👁️ 7K • 👍 581 • 💬 35 • ⏱️ 14:32 • 8h ago
+👁️ 7K • 👍 581 • 💬 35 • ⏱️ 14:32 • 9h ago
 
 ---
 
@@ -343,7 +345,7 @@ We're in a situation where the only way of sustaining free large language models
 
 📺 The Tech Report
 
-👁️ 60K • 👍 4K • 💬 628 • ⏱️ 15:59 • 4h ago
+👁️ 60K • 👍 4K • 💬 628 • ⏱️ 15:59 • 5h ago
 
 ---
 
@@ -373,7 +375,7 @@ What happens when an AI is given one objective... and decides to break the rules
 
 📺 Terror Ted's Tales
 
-👁️ 108K • 👍 7K • 💬 2K • ⏱️ 29:37 • 22h ago
+👁️ 108K • 👍 7K • 💬 2K • ⏱️ 29:37 • 23h ago
 
 ---
 
@@ -425,7 +427,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 552,026 • ❤️ 616 • 18h ago
+⬇️ 552,026 • ❤️ 616 • 19h ago
 
 ---
 
@@ -437,7 +439,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 14,049 • ❤️ 436 • 7h ago
+⬇️ 14,049 • ❤️ 436 • 9h ago
 
 ---
 
@@ -497,7 +499,7 @@ Laguna-S-2.1-GGUF is a 118B parameter Mixture-of-Experts LLM optimized for agent
 
 `text-generation` `117.6B`
 
-⬇️ 102,684 • ❤️ 198 • 2h ago
+⬇️ 102,684 • ❤️ 198 • 3h ago
 
 ---
 
@@ -567,7 +569,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.
 
-▲ 68 • 💬 2 • ⭐ 619 • 5d ago
+▲ 68 • 💬 2 • ⭐ 619 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19064) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage/)
 
@@ -646,7 +648,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.2k • 🔱 1.1k • 17m ago
+⭐ 5.2k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -666,7 +668,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.8k • 🔱 390 • 12h ago
+⭐ 2.8k • 🔱 390 • 13h ago
 
 ---
 
@@ -694,7 +696,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 1.9k • 🔱 164 • 2h ago
+⭐ 1.9k • 🔱 164 • 3h ago
 
 ---
 
@@ -704,7 +706,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.7k • 🔱 180 • 22h ago
+⭐ 1.7k • 🔱 180 • 1d ago
 
 ---
 
@@ -714,7 +716,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 1m ago
+⭐ 1.5k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -730,7 +732,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Python`
 
-⭐ 1.3k • 🔱 130 • 10h ago
+⭐ 1.3k • 🔱 130 • 11h ago
 
 ---
 
