@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-27T20:05:00.924816+00:00'
+updated: '2026-07-27T21:38:50.902599+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 27, 2026 at 20:05 UTC  
+**Last Updated:** July 27, 2026 at 21:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-13h ago
+15h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 
-TechCrunch • 7h ago
+TechCrunch • 8h ago
 
 ---
 
@@ -118,7 +118,7 @@ TechCrunch • 7h ago
 
 Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
-calcalistech.com • 6h ago
+calcalistech.com • 7h ago
 
 ---
 
@@ -126,21 +126,21 @@ calcalistech.com • 6h ago
 
 As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-The Information • 4h ago
-
----
-
-**[Why are other countries better than us at automation and robotics?](https://www.themanufacturer.com/videos/why-are-other-countries-better-than-us-at-automation-and-robotics/)**
-
-The UK currently ranks 24th in the world for automation and robotics adoption. What other countries are doing differently?
-
-The Manufacturer • 4h ago
+The Information • 6h ago
 
 ---
 
 **[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[SAPPHIRE Technology Unveils EDGE+ Apex Robotics Platform](https://www.techpowerup.com/351113/sapphire-technology-unveils-edge-apex-robotics-platform)**
+
+SAPPHIRE Technology today unveiled the EDGE+ Apex SOM/Carrier Robotics Platform, a production-ready hardware platform powered by AMD Ryzen AI Embedded X100 Series processors and designed to accelerate the development and deployment of physical AI in autonomous robotics. The platform has been...
+
+TechPowerUp • 7h ago
 
 ---
 
@@ -152,33 +152,35 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[SAPPHIRE Technology Unveils EDGE+ Apex Robotics Platform](https://www.techpowerup.com/351113/sapphire-technology-unveils-edge-apex-robotics-platform)**
-
-SAPPHIRE Technology today unveiled the EDGE+ Apex SOM/Carrier Robotics Platform, a production-ready hardware platform powered by AMD Ryzen AI Embedded X100 Series processors and designed to accelerate the development and deployment of physical AI in autonomous robotics. The platform has been...
-
-TechPowerUp • 5h ago
-
----
-
-**[Robotic arm assisted surgery comes to Tobey Hospital](https://theweektoday.com/article/robotic-arm-assisted-surgery-comes-tobey-hospital/158691)**
-
-Orthopedic doctors at Tobey Hospital have a new team member coming on board. However, this team member isn't a human doctor. It's a robot — which may soon be in the operating room.
-
-Wareham, MA News • 20h ago
-
----
-
 **[How would AI data centers in space even work? A former NASA robotics chief explains](https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/)**
 
 'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'
 
-ZDNET • 8h ago
+ZDNET • 9h ago
 
 ---
 
-**[AI and robotics accelerate search for better gut microbiome therapies](https://phys.org/news/2026-07-ai-robotics-gut-microbiome-therapies.html)**
+**[Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI](https://www.theblock.co/post/409724/axis-robotics-raised-12m-funding-to-build-the-compounding-data-engine-accelerating-physical-ai)**
 
-Phys.org • 5h ago
+Axis Robotics, the compounding data engine accelerating Physical AI, announces that it has raised $12 million in a seed round led by Hack VC, with
+
+The Block • 9h ago
+
+---
+
+**[2,000 humanoids to take on textile production in Chinese firm's push](https://interestingengineering.com/ai-robotics/china-humanoid-robots-textile-manufacturing)**
+
+A Chinese manufacturing firm orders 2,000 humanoid robots to automate apparel production, targeting smarter and more efficient factories.
+
+Interesting Engineering • 7h ago
+
+---
+
+**[Robotic Wolf: China Unveils New AS2-W UGV](https://militarnyi.com/en/news/robotic-wolf-china-unveils-new-as2-w-ugv/)**
+
+The Chinese robotics company Unitree has unveiled its new Super Athlete AS2-W UGV.The product is showcased on the manufacturer’s website.The UGV can travel approximately 30 km on a single battery […]
+
+Мілітарний • 8h ago
 
 ---
 
@@ -222,7 +224,7 @@ Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course
 
 📺 GATE Wallah
 
-👁️ 1K • 👍 80 • 💬 2 • ⏱️ 17:35 • 2h ago
+👁️ 1K • 👍 80 • 💬 2 • ⏱️ 17:35 • 4h ago
 
 ---
 
@@ -272,7 +274,7 @@ Cult icon SHERI MOON ZOMBIE unveils debut single and video "I Love My Robot." Li
 
 📺 Nuclear Blast Records
 
-👁️ 26K • 👍 2K • 💬 508 • ⏱️ 2:50 • 6h ago
+👁️ 26K • 👍 2K • 💬 508 • ⏱️ 2:50 • 7h ago
 
 ---
 
@@ -282,7 +284,7 @@ Watch the full video on my channel now BUILDING SABR I Built a self balancing ro
 
 📺 LIGIENCE 
 
-👁️ 980 • 👍 17 • ⏱️ 1:00 • 5h ago
+👁️ 980 • 👍 17 • ⏱️ 1:00 • 7h ago
 
 ---
 

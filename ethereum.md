@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-27T20:05:00.922932+00:00'
+updated: '2026-07-27T21:38:50.899811+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 20:05 UTC  
+**Last Updated:** July 27, 2026 at 21:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +1.0%  
-**30d:** +24.0%  
-**90d:** -13.6%  
-**1y:** -48.6%  
+**24h:** -0.4%  
+**7d:** +0.6%  
+**30d:** +23.6%  
+**90d:** -13.8%  
+**1y:** -48.8%  
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -172,7 +172,15 @@ Bitcoin and Ethereum ETFs are pulling in money this July after two months of hea
 
 The company says it now holds 5.79 million ETH, equal to 4.8% of the cryptocurrency's circulating supply, while expanding its staking operations and share buyback program.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+
+The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
+
+TradingView • 12h ago
 
 ---
 
@@ -180,7 +188,7 @@ Yahoo Finance • 4h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
 
-PR Newswire • 7h ago
+PR Newswire • 9h ago
 
 ---
 
@@ -192,25 +200,11 @@ MarketForces Africa • 1d ago
 
 ---
 
-**[Ethereum leads way as most big cryptocurrencies post gains](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-gains-466a05fd-6c582e322ed1)**
-
-MarketWatch • 6h ago
-
----
-
 **[Crypto Today: Bitcoin, Ethereum, XRP hold key support as US and Iran agree to halt strikes](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-key-support-as-us-and-iran-agree-to-halt-strikes-202607271100)**
 
 Bitcoin (BTC) maintains a neutral-to-bullish outlook, trading above $65,000 on Monday. Ethereum (ETH) is approaching the key supply and inflection point $2,000, while Ripple (XRP) hovers slightly above $1.10, underscoring a marginal improvement in the broader cryptocurrency market sentiment.
 
-FXStreet • 9h ago
-
----
-
-**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
-
-The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
-
-TradingView • 11h ago
+FXStreet • 10h ago
 
 ---
 
@@ -218,7 +212,13 @@ TradingView • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 2h ago
+
+---
+
+**[Ethereum leads way as most big cryptocurrencies post gains](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-gains-466a05fd-6c582e322ed1)**
+
+MarketWatch • 7h ago
 
 ---
 
@@ -226,7 +226,7 @@ Fortune • 8h ago
 
 Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
 
-The Defiant • 4h ago
+The Defiant • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 329 • 💬 145 • ⏱️ 13:37 • 5h ago
+👁️ 4K • 👍 329 • 💬 145 • ⏱️ 13:37 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 748 • 👍 50 • 💬 14 • ⏱️ 5:45 • 5h ago
+👁️ 748 • 👍 50 • 💬 14 • ⏱️ 5:45 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 557 • 💬 453 • ⏱️ 13:03 • 21h ago
+👁️ 9K • 👍 557 • 💬 453 • ⏱️ 13:03 • 23h ago
 
 ---
 
@@ -270,7 +270,7 @@ In this video I break down the latest Ethereum price analysis using Elliott Wave
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 182 • 💬 29 • ⏱️ 6:58 • 5h ago
+👁️ 2K • 👍 182 • 💬 29 • ⏱️ 6:58 • 6h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 395 • 👍 19 • 💬 44 • ⏱️ 4:43 • 11h ago
+👁️ 395 • 👍 19 • 💬 44 • ⏱️ 4:43 • 12h ago
 
 ---
 
@@ -300,7 +300,7 @@ Ethereum (ETH) is leading the altcoin market with a 23% monthly gain, fueled by 
 
 📺 FXEmpire
 
-👁️ 20 • 👍 1 • 💬 52 • ⏱️ 6:00 • 2h ago
+👁️ 20 • 👍 1 • 💬 52 • ⏱️ 6:00 • 3h ago
 
 ---
 
@@ -310,7 +310,7 @@ BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 267 • 💬 163 • ⏱️ 26:30 • 18h ago
+👁️ 6K • 👍 267 • 💬 163 • ⏱️ 26:30 • 20h ago
 
 ---
 
@@ -320,7 +320,7 @@ Ethereum and XRP are designed for different purposes. Ethereum pioneered smart c
 
 📺 Jake Claver
 
-👁️ 3K • 👍 238 • 💬 1 • ⏱️ 2:12 • 5h ago
+👁️ 3K • 👍 238 • 💬 1 • ⏱️ 2:12 • 7h ago
 
 ---
 

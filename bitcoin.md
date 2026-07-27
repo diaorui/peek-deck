@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-27T20:05:00.919325+00:00'
+updated: '2026-07-27T21:38:50.894444+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 20:05 UTC  
+**Last Updated:** July 27, 2026 at 21:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -2.3%  
-**30d:** +9.3%  
-**90d:** -14.2%  
-**1y:** -44.9%  
+**24h:** -0.8%  
+**7d:** -2.6%  
+**30d:** +9.0%  
+**90d:** -14.4%  
+**1y:** -45.1%  
 
 ---
 
@@ -161,11 +161,11 @@ Just a warning to not use Crypto.com . I have been using bitcoin since it was at
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin gives up early gains as stocks reverse lower](https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500)**
+**[Bitcoin (BTC) price may fall to $52,000 as demand remains elusive, Nansen analyst says](https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next)**
 
-CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.
+BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.
 
-CoinDesk • 56m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -177,25 +177,25 @@ USA Today • 1d ago
 
 ---
 
+**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-1-million-085100499.html)**
+
+Better days are coming for investors in this top digital asset.
+
+Yahoo Finance • 12h ago
+
+---
+
 **[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
 
 Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
 
-Morningstar • 10h ago
-
----
-
-**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-1-million-085100499.html)**
-
-Better days are coming for investors in this top digital asset.
-
-Yahoo Finance • 11h ago
+Morningstar • 12h ago
 
 ---
 
@@ -207,17 +207,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion](https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion)**
+**[Benchmark reiterates $570 Strategy target, says cash reserve strengthens bitcoin acquisition plan](https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan)**
 
-Strategy bought no bitcoin for a fifth straight week, while raising its USD reserve to $3.75 billion and selling $544.5M in MSTR.
+Benchmark reiterated its $570 Strategy target, citing disciplined capital allocation, growing cash reserves and continued long-term BTC plan.
 
-The Block • 7h ago
+The Block • 8h ago
+
+---
+
+**[TD Cowen cuts David Bailey’s Nakamoto target 58% after bitcoin outlook reset](https://www.theblock.co/post/409797/td-cowen-cuts-david-bailey-nakamoto-target-58-bitcoin-outlook-reset)**
+
+The firm updated its valuation for David Bailey-led Nakamoto, citing pressure from BTC's decline on the company's capital structure.
+
+The Block • 4h ago
 
 ---
 
 **[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
 
-Bloomberg • 9h ago
+Bloomberg • 11h ago
 
 ---
 
@@ -226,14 +234,6 @@ Bloomberg • 9h ago
 Bitcoin and Ethereum ETFs just snapped a brutal losing streak, but the two sessions that followed nearly erased everything they gained. Meanwhile, the altcoin funds that thrived during the selloff are quietly going cold.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses](https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week)**
-
-The vast majority of the activity was concentrated in BlackRock’s IBIT product accounting for nearly $415 million of the outflows.
-
-CoinDesk • 8h ago
 
 ---
 
@@ -254,6 +254,14 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
 ⬆️ 5 • 💬 0 • 2d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+
+---
+
+**[Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](https://news.ycombinator.com/item?id=49075386)**
+
+The alleged thieves infected 8,000 devices.
+
+⬆️ 4 • 💬 0 • 45m ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -305,19 +313,11 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 ---
 
-**[Should Bitcoin support multiple signature schemes long-term?](https://news.ycombinator.com/item?id=49068465)**
+**[I mapped how 140 governments legally treat Bitcoin](https://news.ycombinator.com/item?id=49075070)**
 
-Live public testnet with full node, external miner, browser wallet, snapshot bootstrap, explorer, and native on-chain Node Rewards.
+The first Bitcoin newsletter that rewards you with sats while you learn about regulation, sovereignty, and legal developments.
 
-⬆️ 1 • 💬 0 • 7h ago • [Chipcoin Protocol](https://chipcoinprotocol.com/)
-
----
-
-**[Balance Stablecoin Collapses After Bitcoin Vault Is Drained](https://news.ycombinator.com/item?id=49023069)**
-
-Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
-
-⬆️ 1 • 💬 0 • 4d ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+⬆️ 1 • 💬 0 • 1h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
 
 ---
 
@@ -331,7 +331,7 @@ Thank you to Mint Mobile for partnering with us on this video! Visit our partner
 
 📺 The Graham Stephan Show
 
-👁️ 8K • 👍 632 • 💬 160 • ⏱️ 18:59 • 4h ago
+👁️ 8K • 👍 632 • 💬 160 • ⏱️ 18:59 • 5h ago
 
 ---
 
@@ -341,7 +341,7 @@ In this episode of The Daily Wolf, Scott Melker explains why several crypto comp
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 219 • 💬 130 • ⏱️ 14:53 • 3h ago
+👁️ 3K • 👍 219 • 💬 130 • ⏱️ 14:53 • 4h ago
 
 ---
 
@@ -351,7 +351,7 @@ Let's provide an update to Bitcoin and its bear market resistance band, Come to 
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 4K • 💬 180 • ⏱️ 8:59 • 17h ago
+👁️ 66K • 👍 4K • 💬 180 • ⏱️ 8:59 • 19h ago
 
 ---
 
@@ -361,7 +361,7 @@ Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TI
 
 📺 Heresy Financial
 
-👁️ 16K • 👍 951 • 💬 231 • ⏱️ 14:33 • 7h ago
+👁️ 16K • 👍 951 • 💬 231 • ⏱️ 14:33 • 8h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin #Crypto #finance Bitcoin rebounds above $65000 as Middle East tensions e
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 616 • 💬 218 • ⏱️ 1:01:29 • 5h ago
+👁️ 11K • 👍 616 • 💬 218 • ⏱️ 1:01:29 • 7h ago
 
 ---
 
@@ -411,7 +411,7 @@ Bitcoin Must Break $67000… Or It Crashes In this video I break down why the $6
 
 📺 Crypto Jebb
 
-👁️ 587 • 👍 103 • 💬 76 • ⏱️ 11:50 • 2h ago
+👁️ 587 • 👍 103 • 💬 76 • ⏱️ 11:50 • 3h ago
 
 ---
 
@@ -421,7 +421,7 @@ Crypto has been through another wave of bad news, yet the market is reacting ver
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 963 • 💬 23 • ⏱️ 30:54 • 5h ago
+👁️ 12K • 👍 963 • 💬 23 • ⏱️ 30:54 • 7h ago
 
 ---
 
