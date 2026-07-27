@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-27T13:53:50.635278+00:00'
+updated: '2026-07-27T16:20:21.538764+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 27, 2026 at 13:53 UTC  
+**Last Updated:** July 27, 2026 at 16:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Kimi-K3 is published on HuggingFace](https://www.reddit.com/r/artificial/comments/1v83g3l/kimik3_is_published_on_huggingface/)**
+
+Moonshot's latest model Kimi-K3 is available on HuggingFace since today. And it's another good news for open-weight AI and for the future of open-source AI It's a 2.8T-parameters Moonshot's SOTA model with 1 million tokens context window. The architecture is mixture-of-experts (896 experts) with 108B active parameters It's available via vLLM, SGLang and TokenSpeed License: Kimi K3 License. It allows commercial use with some limitations. For Model-as-a-Service it has $20M/year limit and after reaching the limit the license requires to make additional agreement with Moonshot. Details: https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICENSE Link to the model Model could be downloaded from the HuggingFace: https://huggingface.co/moonshotai/Kimi-K3
+
+59m ago
+
+---
+
 **[I Sat on an Idea for 7 Years. AI Helped Me File for a Patent in 2 Weeks.](https://www.reddit.com/r/artificial/comments/1v7wn15/i_sat_on_an_idea_for_7_years_ai_helped_me_file/)**
 
 7 years ago I had an idea for a dog harness that doesn't tangle. I 3D-printed one part and then stalled, not on the engineering, but on prior art searches, novelty judgment, and drafting a patent specification, none of which I had any background in. This month I handed it to AI and filed the provisional for about $65. Post one of a series where I'm documenting my road from idea, to patent, to business.
 
-🔗 [pablooliva.de](https://pablooliva.de/the-closing-window/i-sat-on-an-idea-for-7-years/?ref=reddit) • 3h ago
+🔗 [pablooliva.de](https://pablooliva.de/the-closing-window/i-sat-on-an-idea-for-7-years/?ref=reddit) • 5h ago
 
 ---
 
@@ -53,11 +61,25 @@ I wanted to know if the "passive income" faceless accounts were actually passive
 
 ---
 
+**[Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation](https://www.reddit.com/r/artificial/comments/1v83kb2/boss_of_startup_hacked_by_rogue_openai_agent/)**
+
+Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence) • 55m ago
+
+---
+
+**[Cracks appear in the vision of off-grid AI data centers](https://www.reddit.com/r/artificial/comments/1v83fd9/cracks_appear_in_the_vision_of_offgrid_ai_data/)**
+
+🔗 [axios.com](https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning) • 1h ago
+
+---
+
 **[How did you get your first expert network invitation?](https://www.reddit.com/r/artificial/comments/1v7yorh/how_did_you_get_your_first_expert_network/)**
 
 I've been seeing more people mention expert networks lately, especially consultants and people who've worked in pretty specialized industries. From what I understand, companies sometimes pay for short calls with people who have firsthand experience in a particular field, which honestly sounds interesting. What I'm curious about is how people actually get their first invitation. Do these networks usually reach out through LinkedIn, referrals, or is it worth creating a profile on one of the platforms yourself? If you've done expert calls before, what was your first experience like? I'm less interested in the payment and more curious about how the screening process works and whether you felt like your industry experience was enough, even if you weren't in a senior executive role.
 
-1h ago
+4h ago
 
 ---
 
@@ -65,13 +87,13 @@ I've been seeing more people mention expert networks lately, especially consulta
 
 Somewhere in the last year the phrase world model stopped meaning a system that represents how things behave and started meaning any video generator with good marketing. What bothers me is not the word, it's that the evidence never changed to match it. Look at how the last few launches were argued. Black Forest Labs put out FLUX 3 last week and the headline evidence was a preference test the lab ran on itself: its video preferred in 77% of comparisons against Runway Gen-4.5, 93% against Luma Ray 3.2. The fine print calls it a preliminary evaluation of an early candidate during midtraining. No methodology, no sample size, no rater pool, no prompt set. Meanwhile the same class of system gets described as having some idea what happens when you knock a glass off a table. A preference test measures none of that. It measures whether a person picked clip A over clip B in five seconds, on samples the lab chose to show them. Cherry picking isn't even the interesting problem here. Taste comparisons can't be rerun, so nobody outside that building can check in October whether the model improved or the sampler got luckier. What is a 77% supposed to mean three months from now? A public benchmark number can be attacked, and that is the entire point of publishing one. Somebody runs it with their own prompts, gets a different ordering, and now there is an argument with evidence on both sides of it. Nobody can rerun a preference win at all. I'm not asking anyone to regulate a blog post. My problem is that a vendor run preference test has quietly become the evidence base for a claim about physical understanding, and those two things are not measuring the same object. When somebody eventually puts one of these behind a robot arm or a driving stack, that 77% will not have predicted a thing about how it behaves.
 
-1h ago
+4h ago
 
 ---
 
 **[Workers are crossing job boundaries with AI, OpenAI research shows](https://www.reddit.com/r/artificial/comments/1v7xarq/workers_are_crossing_job_boundaries_with_ai/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/27/openai-chatgpt-work-specialists) • 2h ago
+🔗 [axios.com](https://www.axios.com/2026/07/27/openai-chatgpt-work-specialists) • 5h ago
 
 ---
 
@@ -79,15 +101,7 @@ Somewhere in the last year the phrase world model stopped meaning a system that 
 
 In my recent academic article (https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) I analyzed a divide in how open-source software projects evolve, which might explain the difference in productivity boosts developers experience when using AI tools. The data shows that productivity on large, mature open-source projects was not significantly affected by any tech hypes over the last two decades, the commits reaching the main branches followed steady growth trends. At the same time, smaller projects presented much more chaotic growth trends, but also tended to lose speed and stall out much faster. As the study contains data till early 2025, it looks like even the publicly available LLMs till then, were not able to greatly increase the number of changes merged into the main branches of these projects. Could it happen, that the difference in productivity gain developers experience, is simply a function of project scale and environmental/organizational constraints? What has been your experience depending on the size of the codebase you work on?
 
-🔗 [link.springer.com](https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) • 18h ago
-
----
-
-**[Are AI tools actually worth it for small etsy shops?](https://www.reddit.com/r/artificial/comments/1v7lr1v/are_ai_tools_actually_worth_it_for_small_etsy/)**
-
-Been running an Etsy shop alongside my main business for a few years and recently started testing AI tools built specifically for product listings, SEO, and dynamic pricing suggestions. The pitch is straightforward: feed it your item details, it spits out a keywordrich title, description, and a suggested price based on competitor data. Sounds like a productivity win. After a couple months though, I'm not sure the math works out the way I expected. The listings need heavy editing because the AI writes in this weirdly generic voice that doesn't match how my shop sounds. The pricing suggestions pull from a broad market snapshot that doesn't account for the specific niche I've built. So I end up doing almost as much manual work as before, just starting from a worse draft. What I keep wondering is whether the costeffectiveness argument applies differently to small operators versus bigger sellers moving volume. That post a while back about cheap AI models gaining US market share got me thinking about this. There's a race to stuff AI features into every seller tool, but who's actually benefiting at the small business scale? Are other small shop owners finding these tools genuinely useful, or does it feel like they're optimized for a seller profile that isn't you?
-
-12h ago
+🔗 [link.springer.com](https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) • 20h ago
 
 ---
 
@@ -95,23 +109,7 @@ Been running an Etsy shop alongside my main business for a few years and recentl
 
 I kept running into the same problem, some of the best AI/ML books are legally free, the authors put them up on their own sites, but the links are scattered across personal pages, university sites, and random GitHub repos nobody finds. So I built a single index: Awesome Free AI Books. 30+ books across Deep Learning, Reinforcement Learning, Bayesian/Probabilistic ML, NLP & LLMs, Math for ML, Computer Vision, Generative Models, Causal Inference, GNNs, and AI Safety. Think Goodfellow’s Deep Learning, Sutton & Barto’s RL bible, Murphy’s Probabilistic ML, Bishop’s latest, Jurafsky & Martin’s SLP3 draft, and more. Every single link points straight to the author’s or publisher’s own page, no rehosted PDFs, no shady mirrors. A weekly GitHub Action checks all links so it doesn’t rot over time. It’s open source and open to contributions, if you know a legitimately free book that’s missing, PRs and issues are welcome. Repo: https://github.com/MarcosSete/awesome-free-ai-books
 
-18h ago
-
----
-
-**[Agentic operating systems will need an audit layer beneath the AI](https://www.reddit.com/r/artificial/comments/1v7yatj/agentic_operating_systems_will_need_an_audit/)**
-
-I had an interesting conversation with ChatGPT about what an agentic operating system might look like and the trust problems that would come with it. Below is a compiled summary that I had ChatGPT construct for this post. The full conversation is linked at the bottom, though the first few prompts are about the singularity before the discussion moves into operating systems. I don’t think an agentic OS would literally replace the desktop with one giant chat box. More likely, the OS becomes intent-driven. You describe the result you want, a coordinator breaks it into steps, different models and services handle those steps, and temporary UIs are generated whenever direct interaction is useful. So instead of opening five programs, moving files around, copying information between them, and filling out forms, you just describe the outcome. The system might use a small local model to classify the request, another model to search your files, a cloud model to reason about the result, and deterministic software to carry out the actual actions. That sounds useful enough that it may eventually become difficult to opt out. An agentic OS could be significantly more productive than a traditional one. Not using it might become similar to refusing to use the internet or email: technically possible, but increasingly impractical. The problem is that most of the execution would be hidden. The OS would likely have a large internal palette of models. Some would run locally, some in the cloud, some cheap, and some expensive. The system would decide which one handles each part of a task. But the company making that decision may also be charging you for the computation. How would you know whether an expensive model was actually needed? Or whether the system was taking an unnecessarily long route because it benefited the provider? We already see similar concerns with coding agents and token consumption. An agentic OS would bring that same issue into nearly everything you do. The privacy problem is even larger. A request that sounds simple might cause the OS to search your email, documents, calendar, browsing history, messages, and application state. Some of that data may be processed locally, while some gets sent to cloud models or outside services. Most users will have no realistic way to understand what was transmitted, why it was needed, which provider received it, or what was retained. Then there’s the information problem. Current algorithms decide which posts, videos, or search results you see. An agentic OS could control much more than that. It could decide what information is relevant, summarize it, interpret it, recommend what you should do, and then carry out the decision. It would also control the interface used to explain all of this to you. Ask why your computer is running slowly, and a neutral system might tell you that background AI tasks are using resources. A commercially optimized system might suggest upgrading your subscription or buying new hardware. Ask which service is best, and it might favor the one owned by the OS vendor or one that has a commercial agreement with it. This makes competition complicated. You would probably have Microsoft and Apple competing directly. There would be cheaper or more open alternatives, perhaps built around Linux, and then a tiny group of people building highly controlled local systems for themselves. But competition may only require the large platforms to be trustworthy enough that most users stay. Microsoft and Apple could both claim to be more private than the other while still relying on opaque routing, subscriptions, proprietary memory, and ecosystem lock-in. Open source does not automatically solve it either. An open coordinator could still send most of its reasoning to proprietary cloud models. A system can have an inspectable interface while the important decisions happen somewhere remote. The strongest protection may need to exist beneath the agent: a deterministic layer that the model cannot alter or selectively summarize. That could include: A complete log of which models were used Records of which files and services were accessed Clear separation between local and cloud processing Hard spending and token limits Action history and rollback Portable user memory and workflows Explicit disclosure of third-party providers A direct way to inspect the underlying information without going through the assistant Ideally, the agent would propose actions, while a lower-level policy engine decides what it is actually allowed to access, transmit, spend, and change. The agent should not be the only thing capable of explaining what the agent did. I suspect agentic operating systems are coming because the productivity advantage will be too large to ignore. The real design question may not be whether the coordinator is intelligent enough. It may be whether the surrounding system makes that intelligence observable, bounded, and accountable. Link to the full conversation: https://chatgpt.com/share/6a674035-74c8-83ea-ad70-ffd0e6fcadad
-
-1h ago
-
----
-
-**[A super fast, non-expensive alternative to motion capture - [ft. Sara Silkin]](https://www.reddit.com/r/artificial/comments/1v70ocb/a_super_fast_nonexpensive_alternative_to_motion/)**
-
-In collaboration with Sara Silkin, I transformed a smartphone recording of this beautiful performance, into this audiovisual piece for a fraction of the cost of more traditional approaches. [some of these cost even less than 50 cents!] Done entirely at Uisato Studio; Motion Control Studio mode. More experiments, tutorials, and project files, through Instagram, and YouTube.
-
-1d ago
+21h ago
 
 ---
 
@@ -119,79 +117,75 @@ In collaboration with Sara Silkin, I transformed a smartphone recording of this 
 
 ## Google News: "ai"
 
-**[Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyber attack fallout continues](https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html)**
+**[Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security](https://blogs.nvidia.com/blog/open-secure-ai-alliance/)**
 
-Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.
+NVIDIA and founding members form new alliance to build and share open tools that promote responsible use of and trust in AI.
 
-CNBC • 2h ago
-
----
-
-**[Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center](https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3)**
-
-WSJ • 14h ago
+NVIDIA Blog • 7h ago
 
 ---
 
-**[Jim Cramer Spots New NVIDIA Narrative as Chipmaker Pushes Open AI Security Alliance](https://finance.yahoo.com/technology/ai/articles/jim-cramer-spots-nvidia-narrative-122051058.html)**
+**[Nvidia launches new open-source AI security alliance](https://thehill.com/policy/technology/5991875-nvidia-launches-open-secure-ai-alliance/)**
 
-NVIDIA built the Open Secure AI Alliance with 36 partners after closed AI models blocked Hugging Face incident responders.
-
-Yahoo Finance • 1h ago
+The Hill • 1h ago
 
 ---
 
-**[Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock](https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html)**
+**[Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety](https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html)**
 
-Steve Eisman is warning that investors may be underestimating the risks if the AI boom fails to deliver on lofty expectations.
-
-CNBC • 1h ago
+The New York Times • 47m ago
 
 ---
 
-**[From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html)**
+**[Exclusive | Nvidia Bets on Ilya Sutskever’s New AI Lab to Expand Compute Reach](https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8)**
 
-Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
-
-CNBC • 2d ago
+WSJ • 3h ago
 
 ---
 
-**[China accuses US of 'AI hegemonism', threatens countermeasures over potential probes](https://www.yahoo.com/news/articles/china-accuses-us-ai-hegemonism-121752253.html)**
+**[Nvidia bets billions on Ilya Sutskever’s AI breakthrough](https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1)**
 
-BEIJING, July 27 (Reuters) - China's commerce ministry on Monday accused the United States of "AI hegemonism" and threatened countermeasures after senior U. officials said Chinese AI companies could f...
+Safe Superintelligence will use Vera Rubin chips to rapidly expand computing capacity for its secretive research
 
-Yahoo • 1h ago
-
----
-
-**[Opinion | The U.S. Is Still Winning the A.I. Race. Trump Could Blow It.](https://www.nytimes.com/2026/07/27/opinion/chips-ai-china-trump.html)**
-
-The New York Times • 4h ago
+Financial Times • 8m ago
 
 ---
 
-**[AI devices that see, listen and record: Are we ready for the post-smartphone world?](https://www.cnn.com/2026/07/26/tech/ai-devices-see-listen-record-meta-amazon-plaud)**
+**[Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research](https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/)**
 
-Picture this: On a normal workday, you and your coworkers walk around the office with tiny recorders clipped to your clothes. The glasses on your face instantly identify what you see. Your bracelet records and analyzes all your conversations.
+After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.
 
-CNN • 21h ago
-
----
-
-**[Sam Altman says AI has entered ‘singularity’: Should we be worried?](https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried)**
-
-The 'singularity' refers to the point at which AI outpaces human intelligence and becomes difficult to control.
-
-Al Jazeera • 4h ago
+TechCrunch • 1h ago
 
 ---
 
-**[Sam Altman says we're in the singularity after AI hack](https://qz.com/sam-altman-singularity-openai-hugging-face-hack-072726)**
+**[Nvidia reignites "circular" AI concerns as it weighs OpenAI financing guarantee](https://www.axios.com/2026/07/27/nvidia-openai-financing-ai-jensen-huang-ssi)**
 
-The OpenAI CEO's remarks came days after an autonomous AI agent built on OpenAI models broke out of a sandbox and accessed Hugging Face systems
+Axios • 15m ago
 
-qz.com • 1h ago
+---
+
+**[Trump’s Latest Bizarre AI Posts Target Critics, Feature JFK And George Washington](https://www.forbes.com/sites/siladityaray/2026/07/27/trump-mocks-critics-touts-2028-run-and-poses-with-jfk-in-bizarre-ai-posting-spree/)**
+
+This is the latest in a series of weekend posting sprees on Truth Social by the president featuring AI-generated imagery mocking his opponents while hailing himself as a savior.
+
+Forbes • 9h ago
+
+---
+
+**[Trump Finds Consolation in Posting Dozens of AI Slop Delusions](https://www.rollingstone.com/politics/politics-news/trump-posts-ai-generated-delusions-correspondents-dinner-1235599113/)**
+
+President Donald Trump spammed dozens of AI slop delusions on Truth Social after his appearance at the White House Correspondents' Dinner.
+
+Rolling Stone • 27m ago
+
+---
+
+**[This Is Donald Trump’s AI Brain Trust](https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/)**
+
+“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.
+
+WIRED • 6h ago
 
 ---
 
@@ -203,13 +197,21 @@ qz.com • 1h ago
 
 The case centers on Tunick's use of GrapheneOS, an open-source operating system that works on Google Pixel phones and lets users enter a passcode to wipe a...
 
-⬆️ 977 • 💬 750 • 15h ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+⬆️ 1108 • 💬 837 • 17h ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+
+---
+
+**[AI companies are shredding rare books](https://news.ycombinator.com/item?id=49068738)**
+
+🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're
+
+⬆️ 581 • 💬 340 • 3h ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 
 ---
 
 **[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
 
-⬆️ 406 • 💬 318 • 1d ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+⬆️ 408 • 💬 318 • 2d ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
 ---
 
@@ -217,7 +219,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.
 
-⬆️ 285 • 💬 250 • 23h ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+⬆️ 286 • 💬 254 • 1d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 
 ---
 
@@ -225,24 +227,7 @@ London Gatwick is the first UK airport to launch robotic parking. Passengers can
 
 Other
 
-⬆️ 273 • 💬 352 • 1d ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
-
----
-
-**[AI companies are shredding rare books](https://news.ycombinator.com/item?id=49068738)**
-
-🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're free of AI-generated text. A federal judge ruled the practice is fair use because eliminating the original means only one copy exists at a time. Anthropic hired the former head of Google Books partnerships to obtain "all the books in the world."
-
-My Take
-This got to me. A bookseller told 404 Media that rare books with almost no surviving copies are being fed into this pipeline. Books that survived wars, fires, and centuries of handling are being shredded so an AI can learn to write a better marketing email. 
-ISBNdb's website literally says "'AI company destroys two million books' is not a headline that generates sympathy," and they still built an entire business around making it happen quietly. They offer NDAs as a feature. They coach clients to call it "digital preservation."
-
-I've covered AI companies scraping the internet, torrenting libraries, and stealing music. This is worse because it's irreversible. You can re-upload a website. You can reprint a bestseller. You can't replace the last three copies of an 18th-century botanical text once someone shreds them for training data. And the judge said it's legal. So it's going to accelerate. 
-"We shred rare books and offer NDAs so nobody finds out" is a legitimate business model in 2026. What a timeline.
-
-Hedgie🤗
-
-⬆️ 230 • 💬 126 • 1h ago • [Nitter](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
+⬆️ 274 • 💬 359 • 1d ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 
 ---
 
@@ -250,7 +235,7 @@ Hedgie🤗
 
 Burnout is on the rise again, with an ironic twist.
 
-⬆️ 207 • 💬 74 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+⬆️ 208 • 💬 76 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
 
 ---
 
@@ -258,13 +243,21 @@ Burnout is on the rise again, with an ironic twist.
 
 For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.
 
-⬆️ 192 • 💬 153 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
+⬆️ 193 • 💬 153 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
+
+---
+
+**[Apple Will 'Watch Everything Burn' When the AI Bubble Bursts](https://news.ycombinator.com/item?id=49070427)**
+
+Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where's Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom's most "acerbic gadfly" – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he's right. You've been calling AI a bubble since before it was fashionable.
+
+⬆️ 140 • 💬 103 • 1h ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 
 ---
 
 **[Terence Tao: Mathematics in the Age of AI [pdf]](https://news.ycombinator.com/item?id=49056620)**
 
-⬆️ 132 • 💬 53 • 1d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
+⬆️ 136 • 💬 55 • 1d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
 
 ---
 
@@ -276,15 +269,29 @@ The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
 
 ---
 
-**[Open Weights and American AI Leadership [pdf]](https://news.ycombinator.com/item?id=49035751)**
-
-⬆️ 112 • 💬 2 • 2d ago • [images.nvidia.com](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[AI turning point? OpenAI CEO speaks out](https://www.youtube.com/watch?v=jYHQRP28hGM)**
+
+As he prepares to visit the White House, OpenAI CEO Sam Altman says the moment when artificial intelligence surpasses human ...
+
+📺 ABC News
+
+👁️ 2K • 👍 31 • 💬 30 • ⏱️ 1:44 • 5h ago
+
+---
+
+**[Make FREE &amp; UNLIMITED AI Videos That ACTUALLY Look Good](https://www.youtube.com/watch?v=3cXXYG-0Ipk)**
+
+Turn ordinary footage into scroll-stopping content with Higgsfield Shorts Studio → https://higgsfield.ai/s/malvaai-kxkKmH Free ...
+
+📺 Malva AI
+
+👁️ 2K • 👍 166 • 💬 21 • ⏱️ 9:28 • 5h ago
+
+---
 
 **[The Rogue AI Story Just Got A Lot Worse (OpenAI Freaking Out)](https://www.youtube.com/watch?v=JRcAegChriY)**
 
@@ -292,57 +299,57 @@ New reporting reveals OpenAI lost track of its escaped agent for days, while int
 
 📺 AI Revolution
 
-👁️ 57K • 👍 2K • 💬 337 • ⏱️ 12:42 • 1d ago
+👁️ 59K • 👍 2K • 💬 347 • ⏱️ 12:42 • 1d ago
 
 ---
 
-**[AI GOES ROGUE?: OpenAI testing sparks security fears](https://www.youtube.com/watch?v=DLhRPyGqZwo)**
+**[How I Built an AI Agent in 14 minutes as A Beginner (2026)](https://www.youtube.com/watch?v=UyoVmQLekBc)**
 
-Fox News correspondent Alexandria Hoff reports on security concerns after OpenAI models reportedly went rogue during testing ...
+Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
 
-📺 Fox News
+📺 Mikey No Code
 
-👁️ 22K • 👍 381 • 💬 261 • ⏱️ 1:52 • 1d ago
-
----
-
-**[Trump is Starting The Billion Dollar AI Bailout Now](https://www.youtube.com/watch?v=Y1Qt050jSEw)**
-
-Website & Livestream Chat - https://www.vaush.gg/ ⭐️ 2nd Channel - https://www.youtube.com/c/thevaushpit Twitter ...
-
-📺 Vaush
-
-👁️ 91K • 👍 4K • 💬 506 • ⏱️ 9:54 • 1d ago
+👁️ 6K • 💬 7 • ⏱️ 18:02 • 2h ago
 
 ---
 
-**[A.I. Is Taking Over EVERYTHING...But Is THIS Too Far?](https://www.youtube.com/watch?v=_3ceok3Q_sk)**
+**[Warning! Ai has reached a Dangerous Point! Get Ready! ](https://www.youtube.com/watch?v=xiO1SAOAE3M)**
 
-Is this the future of A.I.? Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscribe to Glenn Beck on ...
+Gold Stackers Coffee - https://goldstackerscoffee.com/?ref=TRAVISMADDOX Best Soap Ever ...
 
-📺 Glenn Beck
+📺 The Prepared Homestead
 
-👁️ 27K • 👍 2K • 💬 234 • ⏱️ 14:14 • 23h ago
-
----
-
-**[[ AI MOVIE ] The Alpha King Rejected the Wrong Bride… Now He Can&#39;t Let Her Go [PART 1]](https://www.youtube.com/watch?v=ffiUowqCdkg)**
-
-The Alpha King Rejected the Wrong Bride… Now He Can't Let Her Go | Full Movie The Alpha King publicly humiliates Cathrine ...
-
-📺 Ann's Romance Stories
-
-👁️ 8K • 👍 188 • 💬 19 • ⏱️ 23:37 • 16h ago
+👁️ 3K • 👍 548 • 💬 76 • ⏱️ 12:19 • 3h ago
 
 ---
 
-**[The First AI-Trained Pilot #comedy #skit #comedyshorts #ai #pilot  #funny](https://www.youtube.com/watch?v=mcwJTTL2oFQ)**
+**[You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](https://www.youtube.com/watch?v=7pqRRxrdr0c)**
 
-The first AI-trained pilot takes flight for the first time. Socials - Instagram ➼ harrisonhughesnz Tiktok ➼ harrisonhughesnz ...
+How to give an AI agent a real job: start with the customer support problem your team keeps fixing by hand. We closed 51 of 52 ...
 
-📺 Harrison Hughes
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 975K • 👍 47K • 💬 433 • ⏱️ 1:51 • 2d ago
+👁️ 13K • 👍 413 • 💬 75 • ⏱️ 21:16 • 23h ago
+
+---
+
+**[AMD Says 2 Ryzen AI Halos Can Run a 400B Model... I Tested It](https://www.youtube.com/watch?v=FE1Uyhg5hjw)**
+
+AMD finally answered NVIDIA's tiny AI box with their own Ryzen AI Halo, but the real question Micro Center is THE AI Destination: ...
+
+📺 Alex Ziskind
+
+👁️ 128K • 👍 4K • 💬 408 • ⏱️ 17:42 • 1d ago
+
+---
+
+**[The Revolt Against AI Data Centers Has Begun | Redacted w Clayton Morris](https://www.youtube.com/watch?v=2bRfpPgvyVs)**
+
+AI companies are racing to build massive data centers across America—but what does that mean for your town, your land, your ...
+
+📺 Redacted
+
+👁️ 57K • 👍 4K • 💬 680 • ⏱️ 32:58 • 1d ago
 
 ---
 
@@ -352,41 +359,35 @@ Go to https://ground.news/TSY for a better way to stay informed. Subscribe for 4
 
 📺 Ticker Symbol: YOU
 
-👁️ 128K • 👍 6K • 💬 523 • ⏱️ 17:59 • 20h ago
+👁️ 133K • 👍 6K • 💬 557 • ⏱️ 17:59 • 22h ago
 
 ---
 
-**[I Made AI Make AI (Video Gen Model)](https://www.youtube.com/watch?v=D8K9yA3KQyk)**
+**[If You’re Learning AI Filmmaking You NEED Claude Fable 5](https://www.youtube.com/watch?v=MpRWOCIX9kQ)**
 
-I put GPT 5.6, Claude Fable 5, Opus 4.8, and more models to a challenge to make a AI (Video Gen Model) from scratch.
+Claude Fable 5 Is INSANE For AI Films Try Higgsfield: https://higgsfield.ai/ai-video?fpr=utm&fp_sid=skai Prompt Pack: ...
 
-📺 WeeklyHow
+📺 Skai Generated
 
-👁️ 8K • 👍 439 • 💬 125 • ⏱️ 11:02 • 1d ago
-
----
-
-**[I Tested Viral AI Ramen Recipe](https://www.youtube.com/watch?v=7Xz6QQpRzIo)**
-
-📺 Zane Holmes
-
-👁️ 514K • 👍 13K • 💬 253 • ⏱️ 0:43 • 23h ago
-
----
-
-**[AI Experts DEBUNK Fake YouTube Channels](https://www.youtube.com/watch?v=EgfzPsHIKQw)**
-
-They can't harm you, if they can't find you! Use code CORRIDOR at the link below and get 60% off an annual plan: ...
-
-📺 Corridor Crew
-
-👁️ 313K • 👍 18K • 💬 1K • ⏱️ 14:51 • 21h ago
+👁️ 4K • ⏱️ 9:22 • 1h ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
+
+**[Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)**
+
+*Moonshot AI*
+
+Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M token context window, excelling in long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency and performance.
+
+`image-text-to-text`
+
+⬇️ 2,850 • ❤️ 4,771 • 44m ago
+
+---
 
 **[Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)**
 
@@ -396,7 +397,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,645,773 • ❤️ 3,278 • 4d ago
+⬇️ 2,645,773 • ❤️ 3,296 • 4d ago
 
 ---
 
@@ -408,7 +409,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 63,605 • ❤️ 727 • 2h ago
+⬇️ 63,605 • ❤️ 734 • 4h ago
 
 ---
 
@@ -420,7 +421,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 634,146 • ❤️ 701 • 6h ago
+⬇️ 634,146 • ❤️ 706 • 8h ago
 
 ---
 
@@ -432,7 +433,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 3,761 • ❤️ 621 • 3h ago
+⬇️ 3,761 • ❤️ 623 • 5h ago
 
 ---
 
@@ -444,7 +445,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 16,518 • ❤️ 471 • 6h ago
+⬇️ 16,518 • ❤️ 476 • 8h ago
 
 ---
 
@@ -456,7 +457,7 @@ Mage-Flow is a 4B-scale text-to-image generation and instruction-based image edi
 
 `text-to-image` `4.1B`
 
-⬇️ 1,691 • ❤️ 367 • 4d ago
+⬇️ 1,691 • ❤️ 374 • 4d ago
 
 ---
 
@@ -468,7 +469,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 36,196 • ❤️ 1,590 • 3d ago
+⬇️ 36,196 • ❤️ 1,594 • 3d ago
 
 ---
 
@@ -480,7 +481,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,003,547 • ❤️ 4,507 • 25d ago
+⬇️ 1,003,547 • ❤️ 4,520 • 25d ago
 
 ---
 
@@ -492,19 +493,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 5,312 • ❤️ 221 • 2d ago
-
----
-
-**[Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)**
-
-*Prism ML*
-
-Ternary-Bonsai-27B-gguf is a 27B parameter text generation model optimized for on-device inference, achieving ~95% of FP16 intelligence with a ~7.2 GB footprint by using ternary weights (1.71 bits/weight). It supports 262K context and runs on llama.cpp (CUDA, Metal, CPU), retaining strong reasoning and agentic capabilities.
-
-`text-generation` `3.6B`
-
-⬇️ 648,938 • ❤️ 1,059 • 9d ago
+⬇️ 5,312 • ❤️ 228 • 2d ago
 
 ---
 
@@ -566,6 +555,18 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 117 • 💬 4 • ⭐ 94,720 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing](https://huggingface.co/papers/2607.19064)**
 
 *Xinjie Zhang, Peng Zhang, Shicheng Zheng et al. (24 authors)*
@@ -577,18 +578,6 @@ Large-scale visual generators are increasingly capable but costly to train, fine
 ▲ 72 • 💬 2 • ⭐ 679 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19064) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage/)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 117 • 💬 4 • ⭐ 94,657 • 19mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -613,7 +602,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of trainer, distributed backend, and rollout glue: the cost lands on the researcher at every iteration. Molt is a PyTorch-native training framework built to keep that cost small: a codebase compact and clean enough for a researcher to hold in their head, and for an AI coding assistant to read and reason about in its entirety, so the algorithm flow can be traced and changed end to end. The agent is an ordinary program, and one asynchronous loop trains multimodal and mixture-of-experts policies while never training on a token it did not generate, consistent in tokens, policy versions, and model semantics. Leanness does not cost performance: under a matched, fully asynchronous protocol, Molt is statistically comparable to a state-of-the-art Megatron-based stack. Molt is open source and provides recipes and containers at https://github.com/NVIDIA-NeMo/labs-molt.
 
-▲ 15 • 💬 0 • ⭐ 647 • 5d ago
+▲ 17 • 💬 0 • ⭐ 647 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.21653) • [💻 code](https://github.com/NVIDIA-NeMo/labs-molt)
 
@@ -632,15 +621,16 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 14 • 💬 0 • ⭐ 10,477 • 21mo ago
+▲ 64 • 💬 1 • ⭐ 86,094 • 34mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -654,7 +644,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 19h ago
+⭐ 5.3k • 🔱 1.1k • 21h ago
 
 ---
 
@@ -664,7 +654,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.4k • 🔱 262 • 10m ago
+⭐ 3.4k • 🔱 264 • 50m ago
 
 ---
 
@@ -674,7 +664,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 2.9k • 🔱 229 • 12h ago
+⭐ 2.9k • 🔱 230 • 14h ago
 
 ---
 
@@ -684,7 +674,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 403 • 56m ago
+⭐ 2.9k • 🔱 403 • 13m ago
 
 ---
 
@@ -704,7 +694,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.2k • 🔱 190 • 4h ago
+⭐ 2.2k • 🔱 195 • 7h ago
 
 ---
 
@@ -714,7 +704,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.7k • 🔱 194 • 3h ago
+⭐ 1.7k • 🔱 195 • 6h ago
 
 ---
 
@@ -722,7 +712,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `Python`
 
-⭐ 1.6k • 🔱 168 • 1d ago
+⭐ 1.7k • 🔱 174 • 1d ago
 
 ---
 
@@ -732,7 +722,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 28s ago
+⭐ 1.5k • 🔱 1.1k • 45s ago
 
 ---
 

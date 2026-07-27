@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-27T13:53:50.653603+00:00'
+updated: '2026-07-27T16:20:21.556968+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 27, 2026 at 13:53 UTC  
+**Last Updated:** July 27, 2026 at 16:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Putting this little companion robot together today. He did not smoke or catch on fire when I attached a 4S LiPo battery to him so feeling pretty good about life right now. A lot more to do but sometimes the little things in robotics are the best ones. He powered up. He didn't smoke out. I'm happy. Jetson Orin on board. More to come.
 
-20h ago
+22h ago
 
 ---
 
 **[Unitree's new wheeled robot dog](https://www.reddit.com/r/robotics/comments/1v7cssb/unitrees_new_wheeled_robot_dog/)**
 
-18h ago
+21h ago
 
 ---
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -56,7 +56,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-7h ago
+9h ago
 
 ---
 
@@ -68,7 +68,7 @@ I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. 
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -92,19 +92,27 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-22h ago
+1d ago
 
 ---
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-11h ago
+13h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Enigma raises $70M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)**
+
+The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
+
+TechCrunch • 3h ago
+
+---
 
 **[Light Flips Memory to Feed Hungry AI Chips With Less Energy](https://spectrum.ieee.org/ai-in-robotics)**
 
@@ -114,11 +122,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Enrolment concludes in EndoQuest Robotics’ PARADIGM study](https://www.yahoo.com/news/science/articles/enrolment-concludes-endoquest-robotics-paradigm-100421028.html)**
+**[Dopl is developing robotics for remote ultrasounds (and one day, much more)](https://www.medicaldesignandoutsourcing.com/dopl-remote-ultrasound-robotics-minimally-invasive/)**
 
-Preliminary trial data showed a 100% en bloc resection and conversion-free rate.
+Dopl Technologies co-founder and CEO Ryan James discusses the startup's technology and its minimally invasive origins.
 
-Yahoo • 3h ago
+Medical Design & Outsourcing • 3h ago
 
 ---
 
@@ -126,29 +134,21 @@ Yahoo • 3h ago
 
 Student robotics programs expose students to the possibilities of working in the automation industry.
 
-A3 Association for Advancing Automation • 1h ago
+A3 Association for Advancing Automation • 3h ago
 
 ---
 
-**[Wetour Robotics to Enter into Warehouse Robotics Cooperation Agreement; Management Estimates Full Contemplated Rollout Could Generate Approximately US$5.0 Million in Project-Level Gross Profit](https://finance.yahoo.com/technology/ai/articles/wetour-robotics-enter-warehouse-robotics-110000673.html)**
+**[XTI Aerospace to Participate in Needham's 15th Annual Virtual Industrial Tech, Robotics & Power Conference](https://au.finance.yahoo.com/news/xti-aerospace-participate-needhams-15th-123000510.html)**
 
-Proposed cooperation would support implementation of the Company’s previously announced multi-site Orchestra project, subject to definitive agreement and customer site authorizations AUSTIN, Texas, July 27, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (NASDAQ: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that its wholly owned U.S. subsidiary, Wetour Travel Tech LLC, is pursuing a cooperation agreement with a company s
+XTI Aerospace, Inc. (Nasdaq: XTIA) ("XTI Aerospace," "XTI," or the "Company"), an aerospace and advanced technology platform and parent company of Drone Nerds, LLC, ("Drone Nerds"), a leading drone solutions platform serving commercial, enterprise and government customers, today announced that members of its executive leadership team will participate in the 15th Annual Needham Virtual Industrial Tech, Robotics & Power Conference on August 17–18, 2026.
 
-Yahoo Finance • 2h ago
+Yahoo Finance Australia • 3h ago
 
 ---
 
 **[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
 
-Tech Xplore • 20h ago
-
----
-
-**[Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)**
-
-Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
-
-TechCrunch • 13h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -160,11 +160,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[The robot army is coming](https://www.bangkokpost.com/business/general/3292314/the-robot-army-is-coming)**
+**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
 
-Thailand is positioning itself to become a regional hub for humanoid robotics by leveraging its established automotive and electronics infrastructure.
+As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-Bangkok Post • 14h ago
+The Information • 45m ago
 
 ---
 
@@ -174,11 +174,11 @@ Japan Today • 1d ago
 
 ---
 
-**[Stuff the Bus, Robotics program opens doors for Pahokee students](https://cbs12.com/news/local/stuff-the-bus-robotics-program-opens-doors-for-pahokee-students-july-27-2026)**
+**[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
 
-A robotics program at Pahokee Middle-Senior High School is giving students far more than hands-on STEM experience.
+Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
-WPEC • 3h ago
+calcalistech.com • 2h ago
 
 ---
 
@@ -192,7 +192,17 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 98K • 👍 3K • 💬 220 • ⏱️ 12:28 • 5d ago
+👁️ 99K • 👍 3K • 💬 224 • ⏱️ 12:28 • 6d ago
+
+---
+
+**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
+
+One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
+
+📺 NBC News
+
+👁️ 16K • 👍 169 • 💬 93 • ⏱️ 5:29 • 4d ago
 
 ---
 
@@ -202,17 +212,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 9K • 👍 313 • 💬 19 • ⏱️ 4:23 • 1d ago
-
----
-
-**[Humanoid Robotics at the BMW Group Plant Spartanburg [4K]](https://www.youtube.com/watch?v=NFD0i63FDFk)**
-
-BMW Group intensifies the use of digitalization and the use of artificial intelligence (AI) in production. With so-called Physical AI, ...
-
-📺 The Wheel Network
-
-👁️ 24K • 👍 525 • 💬 155 • ⏱️ 6:24 • 5d ago
+👁️ 10K • 👍 325 • 💬 19 • ⏱️ 4:23 • 1d ago
 
 ---
 
@@ -222,25 +222,57 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 52K • 👍 1K • 💬 421 • ⏱️ 2:02 • 4d ago
+👁️ 53K • 👍 1K • 💬 422 • ⏱️ 2:02 • 5d ago
 
 ---
 
-**[Unitree&#39;s New Robot Can Clean Homes and Assist Patients by Itself](https://www.youtube.com/watch?v=k1JIyXM5qGw)**
+**[Humanoid Robotics at the BMW Group Plant Spartanburg [4K]](https://www.youtube.com/watch?v=NFD0i63FDFk)**
 
-Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another major step toward fully autonomous home care ...
+BMW Group intensifies the use of digitalization and the use of artificial intelligence (AI) in production. With so-called Physical AI, ...
 
-📺 DPCcars
+📺 The Wheel Network
 
-👁️ 16K • 👍 80 • 💬 28 • ⏱️ 2:55 • 6d ago
+👁️ 24K • 👍 532 • 💬 156 • ⏱️ 6:24 • 5d ago
 
 ---
 
-**[Silver Robot Armor Transformation! 🤖✨ Wait For End 😱 #shorts #ai #Robot #tutorialfilter](https://www.youtube.com/watch?v=zuZOFZw7I-U)**
+**[SHERI MOON ZOMBIE - I Love My Robot (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=8yt2WUfc6Pc)**
 
-📺 Mannu Edit
+Cult icon SHERI MOON ZOMBIE unveils debut single and video "I Love My Robot." Limited edition picture disc vinyl featuring "I ...
 
-👁️ 164K • 💬 19 • ⏱️ 0:11 • 5d ago
+📺 Nuclear Blast Records
+
+👁️ 6K • 👍 1K • 💬 197 • ⏱️ 2:50 • 2h ago
+
+---
+
+**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
+
+War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 20K • 👍 665 • 💬 217 • ⏱️ 14:51 • 4d ago
+
+---
+
+**[Spawning INFINITE Robots to make TRILLIONS in Roblox...](https://www.youtube.com/watch?v=OF-UT_ZbNIA)**
+
+roblox robot grows stronger... My ONLY Roblox Profile: https://www.roblox.com/users/4811832072/profile SUBSCRIBE FOR ...
+
+📺 OTTER ON ROBLOX
+
+👁️ 13K • 👍 467 • 💬 76 • ⏱️ 24:25 • 3h ago
+
+---
+
+**[Humanoid Robots Debut at WAIC—The Resemblance Is Uncanny!](https://www.youtube.com/watch?v=Y0nJYygqckM)**
+
+WAIC 2026 wrapped up in Shanghai, with robots once again stealing the spotlight. Nothing gets the crowd going quite like a robot ...
+
+📺 Tech Innovation DeepTalk
+
+👁️ 14K • 👍 7 • ⏱️ 0:23 • 3d ago
 
 ---
 
@@ -250,37 +282,7 @@ MIT researchers have developed a versatile robot capable of flying through the a
 
 📺 Dr Ben Miles
 
-👁️ 1.1M • 👍 88K • 💬 1K • ⏱️ 2:01 • 3d ago
-
----
-
-**[LEGO Robot: I Created the Ultimate Bluey &amp; Thomas Mech | BEAR Bricks](https://www.youtube.com/watch?v=2dqTn2-Nghw)**
-
-Welcome to BEAR Bricks! Bluey and Thomas unite in one ultimate LEGO mech featuring massive armor, powerful mechanical ...
-
-📺 BEAR Bricks
-
-👁️ 16K • 👍 446 • 💬 13 • ⏱️ 1:00:36 • 1d ago
-
----
-
-**[Ukraine’s robots making war with Russia like a videogame](https://www.youtube.com/watch?v=sElRMGP9HDk)**
-
-Drones are taking over on the frontline of the Russian war in Ukraine. [Subscribe to our Substack newsletter: ...
-
-📺 Channel 4 News
-
-👁️ 298K • 👍 4K • 💬 472 • ⏱️ 11:57 • 5d ago
-
----
-
-**[Automata🤖Can a robot understand a mother?](https://www.youtube.com/watch?v=T8TvNVwGpUg)**
-
-Automata (2014) is a sci-fi thriller set in a future where Earth has become nearly uninhabitable. An insurance investigator ...
-
-📺 CineCraft
-
-👁️ 99K • 👍 1K • 💬 14 • ⏱️ 0:54 • 3d ago
+👁️ 1.1M • 👍 90K • 💬 1K • ⏱️ 2:01 • 4d ago
 
 ---
 
