@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-27T03:55:41.829134+00:00'
+updated: '2026-07-27T07:32:28.383433+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 27, 2026 at 03:55 UTC  
+**Last Updated:** July 27, 2026 at 07:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,43 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
+**[My little companion robot I'm working on.](https://www.reddit.com/r/robotics/comments/1v7amcr/my_little_companion_robot_im_working_on/)**
 
-19h ago
+Putting this little companion robot together today. He did not smoke or catch on fire when I attached a 4S LiPo battery to him so feeling pretty good about life right now. A lot more to do but sometimes the little things in robotics are the best ones. He powered up. He didn't smoke out. I'm happy. Jetson Orin on board. More to come.
+
+13h ago
+
+---
+
+**[Unitree's new wheeled robot dog](https://www.reddit.com/r/robotics/comments/1v7cssb/unitrees_new_wheeled_robot_dog/)**
+
+12h ago
 
 ---
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-13h ago
+16h ago
+
+---
+
+**[3Dtof LIDAR HM-LD1 on Drone Outdoor test](https://www.reddit.com/r/robotics/comments/1v7s8fj/3dtof_lidar_hmld1_on_drone_outdoor_test/)**
+
+I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
+
+1h ago
+
+---
+
+**[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
+
+23h ago
+
+---
+
+**[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
+
+16h ago
 
 ---
 
@@ -52,17 +80,11 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 ---
 
-**[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
+**[Update on my humanoid robot !! (AB-SO-BOT)](https://www.reddit.com/r/robotics/comments/1v725ld/update_on_my_humanoid_robot_absobot/)**
 
-12h ago
+GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
 
----
-
-**["Gave my DIY arm a new 'shoulder' and it feels brand new."](https://www.reddit.com/r/robotics/comments/1v6qvk3/gave_my_diy_arm_a_new_shoulder_and_it_feels_brand/)**
-
-Just finished modifying the arm holder/mount for my DIY robot. The old PLA bracket was flexing too much under load, so I redesigned it to be sturdier. Watch the clip to see the improved range of motion. The difference is night and day. No more wobbly joints! Next step is to test the weight capacity.
-
-1d ago
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 19h ago
 
 ---
 
@@ -70,37 +92,13 @@ Just finished modifying the arm holder/mount for my DIY robot. The old PLA brack
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-12h ago
+15h ago
 
 ---
 
-**[Update on my humanoid robot !! (AB-SO-BOT)](https://www.reddit.com/r/robotics/comments/1v725ld/update_on_my_humanoid_robot_absobot/)**
+**[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
-
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 15h ago
-
----
-
-**[I gott a little the hang of ros2 gazebo update 24-07-2026 #simulation #r...](https://www.reddit.com/r/robotics/comments/1v759g3/i_gott_a_little_the_hang_of_ros2_gazebo_update/)**
-
-I wanna show my progress with ros2 and gazebo i could move it while it is lauched and use the teleop to move a little it is not perfect but i am satiefied with the progress.I will try later with gz bridge to pu blish some movement commands
-
-🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 13h ago
-
----
-
-**[Analog integrating gyroscope](https://www.reddit.com/r/robotics/comments/1v6n6e3/analog_integrating_gyroscope/)**
-
-Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous rotation servo. The gyro normally has centering springs but they have been removed to increase sensitivity. The gyro has a hall effect sensor in it and an analog circuit which generates PWM pulses that the servo uses as a velocity control. A 3 axis version of this arrangement is what made the Apollo guidance computer so accurate at knowing its own pose over long distances and times. This single axis version could be a gyrocompass in a robot or aircraft, to maintain heading even if the magnetic compass quits working etc Now we have laser ring gyros and other extremely accurate solid state sensors and amazing computational power and algorithms to integrate the readings to probably surpass any internal flywheel arrangements accuracy.
-
-1d ago
-
----
-
-**[Pouring cup Robot](https://www.reddit.com/r/robotics/comments/1v61zoy/pouring_cup_robot/)**
-
-1d ago
+4h ago
 
 ---
 
@@ -112,7 +110,7 @@ Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous ro
 
 Projecting light directly onto a chip could stream data using less energy
 
-IEEE Spectrum • 14h ago
+IEEE Spectrum • 18h ago
 
 ---
 
@@ -126,29 +124,13 @@ Tech Xplore • 2d ago
 
 Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
 
-TechCrunch • 3h ago
-
----
-
-**[What's Next for Humanoids After This Week's Cage Match and Cowboying?](https://spectrum.ieee.org/video-friday-physical-ai-robotics)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 2d ago
-
----
-
-**[This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around.](https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7)**
-
-A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
-
-Business Insider • 2d ago
+TechCrunch • 7h ago
 
 ---
 
 **[M'bishi Motors teams up with startup to mass produce humanoid robots](https://japantoday.com/category/tech/mitsubishi-motors-teams-up-with-startup-to-mass-produce-humanoid-robots)**
 
-Japan Today • 20h ago
+Japan Today • 1d ago
 
 ---
 
@@ -160,25 +142,39 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Israeli researchers teach micro-robots to scale obstacles and carry living bacteria](https://www.ynetnews.com/health_science/article/r18zdgxrmg)**
+**[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
 
-Tel Aviv University researchers develop micro-robots that use magnetic and electric fields to cross obstacles, move between surfaces and transport delicate biological cargo
-
-Ynetnews • 22h ago
+Bloomberg.com • 3d ago
 
 ---
 
-**[SoftBank Weighs Deal for Robotics Startup Gravis](https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis)**
+**[China unveils humanoid robots with dual-battery hot swap for nonstop factory operations](https://interestingengineering.com/ai-robotics/shanghai-electric-china-industrial-humanoid-robots)**
 
-Bloomberg.com • 2d ago
+Shanghai Electric unveiled humanoid robots, smart factory software, and 51 industrial models at WAIC 2026 to automate manufacturing.
+
+Interesting Engineering • 2d ago
 
 ---
 
-**[Hooper turned robotics engineer? Franck Kepnang walks through unique academic path](https://www.on3.com/teams/kentucky-wildcats/news/hooper-turned-robotics-engineer-franck-kepnang-walks-through-unique-academic-path/)**
+**[Robotic clothes allow you to suit up hands-free](https://www.livenowfox.com/news/new-robotic-clothes-allow-you-suit-up-hands-free)**
 
-Kentucky's 7-foot shot-blocker has a fascinating life outside of basketball.
+Researchers have developed a soft-robotic technology that allows users to put on protective clothing hands-free and in seconds.
 
-On3 • 2d ago
+LiveNOW from FOX • 3d ago
+
+---
+
+**[AMD Lays Out AI Vision Across Cloud, Client And Robotics (AMD)](https://seekingalpha.com/article/4925512-amd-lays-out-ai-vision-across-cloud-client-robotics)**
+
+Seeking Alpha • 2d ago
+
+---
+
+**[Throw Away the Urn! New Digital DNA AGI Robots Let Loved Ones Live for 500 Years (Veterans First for America)](https://markets.businessinsider.com/news/stocks/throw-away-the-urn-new-digital-dna-agi-robots-let-loved-ones-live-for-500-years-veterans-first-for-america-1036364749)**
+
+ALEXANDRIA, Va., July  26, 2026  (GLOBE NEWSWIRE) -- A mind-blowing patent application submitted to the U.S. Patent and Trademark Office, by a qua...
+
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -192,17 +188,7 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 📺 Unitree Robotics
 
-👁️ 3.5M • 👍 2K • 💬 448 • ⏱️ 2:15 • 6d ago
-
----
-
-**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 7K • 👍 277 • 💬 15 • ⏱️ 4:23 • 15h ago
+👁️ 3.6M • 👍 2K • 💬 450 • ⏱️ 2:15 • 6d ago
 
 ---
 
@@ -212,7 +198,17 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 16K • 👍 166 • 💬 93 • ⏱️ 5:29 • 4d ago
+👁️ 16K • 👍 167 • 💬 93 • ⏱️ 5:29 • 4d ago
+
+---
+
+**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 8K • 👍 293 • 💬 17 • ⏱️ 4:23 • 19h ago
 
 ---
 
@@ -222,7 +218,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 94K • 👍 3K • 💬 215 • ⏱️ 12:28 • 5d ago
+👁️ 95K • 👍 3K • 💬 215 • ⏱️ 12:28 • 5d ago
 
 ---
 
@@ -232,7 +228,7 @@ Everyone is asking if killer robots are coming. Wrong question. One already knoc
 
 📺 Ambrose In China
 
-👁️ 741K • 👍 26K • 💬 5K • ⏱️ 2:25 • 6d ago
+👁️ 749K • 👍 26K • 💬 5K • ⏱️ 2:25 • 6d ago
 
 ---
 
@@ -242,7 +238,7 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 51K • 👍 984 • 💬 415 • ⏱️ 2:02 • 4d ago
+👁️ 51K • 👍 994 • 💬 416 • ⏱️ 2:02 • 4d ago
 
 ---
 
@@ -256,31 +252,31 @@ WAIC 2026 wrapped up in Shanghai, with robots once again stealing the spotlight.
 
 ---
 
+**[Silver Robot Armor Transformation! 🤖✨ Wait For End 😱 #shorts #ai #Robot #tutorialfilter](https://www.youtube.com/watch?v=zuZOFZw7I-U)**
+
+📺 Mannu Edit
+
+👁️ 132K • 💬 18 • ⏱️ 0:11 • 5d ago
+
+---
+
 **[This Two-Armed Robot Could Repair Satellites in Orbit](https://www.youtube.com/watch?v=8bzCVod5F2A)**
 
 A new spacecraft called the Mission Robotic Vehicle, or MRV, has launched to demonstrate advanced satellite-servicing ...
 
 📺 CyberTech Hub
 
-👁️ 798 • 👍 35 • ⏱️ 1:31 • 6h ago
+👁️ 954 • 👍 39 • ⏱️ 1:31 • 10h ago
 
 ---
 
-**[Silver Robot Armor Transformation! 🤖✨ Wait For End 😱 #shorts #ai #Robot #tutorialfilter](https://www.youtube.com/watch?v=zuZOFZw7I-U)**
+**[Loona Robot: Still Worth Buying In 2026? (UPDATED REVIEW)](https://www.youtube.com/watch?v=ELE_sfFj3zU)**
 
-📺 Mannu Edit
+Loona robot review 2026: is KEYi Tech's AI pet robot still worth $499? A few years after release, I'm revisiting Loona to cover ...
 
-👁️ 114K • 💬 18 • ⏱️ 0:11 • 5d ago
+📺 Eric’s Tech World
 
----
-
-**[This Robot Is Almost Human.](https://www.youtube.com/watch?v=qXxAHBbWMDs)**
-
-What if a robot could look you in the eyes. smile. and hold a conversation just like a human? ** Meet the **Origin F1**, ...
-
-📺 Dark Narr
-
-👁️ 46K • 👍 929 • 💬 69 • ⏱️ 0:44 • 4d ago
+👁️ 3K • 👍 92 • 💬 24 • ⏱️ 13:02 • 1d ago
 
 ---
 
