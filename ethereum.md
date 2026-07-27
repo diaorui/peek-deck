@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-27T00:00:04.666640+00:00'
+updated: '2026-07-27T03:55:41.826336+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 00:00 UTC  
+**Last Updated:** July 27, 2026 at 03:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,937.85
+### $1,944.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.9%  
-**7d:** +2.6%  
-**30d:** +24.2%  
-**90d:** -14.6%  
-**1y:** -49.5%  
+**24h:** +3.2%  
+**7d:** +0.9%  
+**30d:** +23.8%  
+**90d:** -13.6%  
+**1y:** -48.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.54B
+**Market Cap:** $234.79B
 Rank #2
 
-**Circulating Supply:** 120,682,665 ETH
+**Circulating Supply:** 120,682,636 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.5%
+-60.7%
 
 **All-Time Low:** $0.43
-+450584.7%
++449270.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-17h ago
+21h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
 
-24/7 Wall St. • 12h ago
+24/7 Wall St. • 16h ago
 
 ---
 
@@ -168,11 +168,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Robert Kiyosaki Shares a Key Revelation on Gold, Bitcoin and Ethereum](https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-shares-key-revelation-093009485.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise as US-Iran Hold Off Strikes: Analyst Says 'Very Likely' Bottom is in, Bets Most on This Coin](https://sg.finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-rise-015145682.html)**
 
-Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
+Leading cryptocurrencies lifted late on Sunday alongside stock futures as investors weighed the pause in hostilities between the U.S. and Iran. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.89%$65,007.69Ethereum (CRYPTO: ETH) +3.37%$1,941.88XRP (CRYPTO: XRP) +0.69%$1.10Solana (CRYPTO: SOL) +2.01%$76.18Dogecoin (CRYPTO: DOGE) +1.54%$0.07277 Overnight Rally For Crypto Bitcoin lifted to $65,500 late in the day, only to face sharp resistance from the bears.
 
-Yahoo Finance • 14h ago
+Yahoo Finance Singapore • 2h ago
+
+---
+
+**[Cryptos rise as US-Iran ceasefire boosts market optimism; analysts see likely bottom for Ethereum and altcoins.](https://pluang.com/en/news-feed/bitcoin-ethereum-xrp-dogecoin-naik-pasar-kripto-tenang-us-iran-tunda-serangan)**
+
+Leading cryptocurrencies like Bitcoin and Ethereum rose following a pause in US-Iran hostilities, lifting investor sentiment and stock futures. Bitcoin reached $65,500 before facing resistance, while Ethereum spiked to $1,960. Market data shows significant short covering, signaling reduced bearish bets despite prevailing fear sentiment. Analysts suggest the crypto market bottom is likely in, with strong potential in Ethereum and altcoins outperforming Bitcoin, indicating a possible bullish trend ahead.
+
+Pluang • 1h ago
 
 ---
 
@@ -180,7 +188,7 @@ Yahoo Finance • 14h ago
 
 Ethereum (ETH) price is up 2.5% to $1,911, outperforming a flat Bitcoin and primarily driven by sustained institutional accumulation via spot ETFs and on-chain staking demand.
 
-MarketForces Africa • 7h ago
+MarketForces Africa • 11h ago
 
 ---
 
@@ -188,7 +196,15 @@ MarketForces Africa • 7h ago
 
 The US Senate moved closer to a key vote on the CLARITY Act, and crypto markets rallied as a result. Will the BTC and ETH rally continue for another week?
 
-CoinMarketCap • 16h ago
+CoinMarketCap • 20h ago
+
+---
+
+**[Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.](https://www.fool.com/investing/2026/07/25/robinhoods-new-blockchain-has-been-a-smash-success/)**
+
+The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -200,35 +216,19 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?](https://www.fool.com/investing/2026/07/24/vitalik-buterin-says-ethereum-reinvents-itself/)**
-
-The chain's new plan calls for a swath of big steps in a few different directions.
-
-The Motley Fool • 2d ago
-
----
-
 **[Top Cryptos Other Than Bitcoin and Ethereum Poised to Benefit From the CLARITY Act](https://coinpedia.org/price-analysis/top-cryptos-other-than-bitcoin-and-ethereum-poised-to-benefit-from-the-clarity-act/)**
 
 The CLARITY Act could expand institutional participation beyond Bitcoin and Ethereum by supporting ETF growth, reducing uncertainty, and improving market accessibility.
 
-Coinpedia • 29m ago
+Coinpedia • 21h ago
 
 ---
 
-**[Bitmine Immersion: Building Ethereum Ecosystem (NYSE:BMNR)](https://seekingalpha.com/article/4924639-bitmine-immersion-building-ethereum-ecosystem)**
+**[The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)**
 
-Bitmine Immersion Technologies shifts from crypto treasury to building the Ethereum ecosystem. Click here to read this latest analysis of BMNR stock.
+Coinbase chief Brian Armstrong targeted the agency on social media, claiming the erased message chains point to a broader lack of government accountability.
 
-Seeking Alpha • 3d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Fall as US Strikes on Iran Enter 13th Day: Analyst Says Correction Isn't](https://www.benzinga.com/crypto/cryptocurrency/26/07/60659213/bitcoin-ethereum-xrp-dogecoin-iran-conflict-market-correction)**
-
-Leading cryptocurrencies dived alongside stocks on Thursday, July 23, as elevated Middle East tensions trimmed investors' risk appetite.
-
-Benzinga • 2d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -242,7 +242,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 1K • 👍 190 • 💬 225 • ⏱️ 13:03 • 1h ago
+👁️ 4K • 👍 360 • 💬 291 • ⏱️ 13:03 • 5h ago
+
+---
+
+**[BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5UeweslrSCU)**
+
+BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 139 • 💬 87 • ⏱️ 26:30 • 2h ago
 
 ---
 
@@ -252,7 +262,7 @@ Something bizarre is clearly happening in the crypto market right now, i dont kn
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 1K • 💬 353 • ⏱️ 21:32 • 10h ago
+👁️ 10K • 👍 1K • 💬 493 • ⏱️ 21:32 • 14h ago
 
 ---
 
@@ -262,17 +272,7 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 167 • 💬 8 • ⏱️ 8:19 • 6h ago
-
----
-
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=CZWZVLPuYDg)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 222 • 💬 96 • ⏱️ 18:08 • 2d ago
+👁️ 3K • 👍 177 • 💬 11 • ⏱️ 8:19 • 10h ago
 
 ---
 
@@ -282,7 +282,25 @@ Its that time of the crypto market cycle again. The price predictions we've been
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 623 • 💬 403 • ⏱️ 31:00 • 1d ago
+👁️ 5K • 👍 624 • 💬 416 • ⏱️ 31:00 • 1d ago
+
+---
+
+**[ETHEREUM WILL PROVE EVERYONE WRONG #ethereum #xrp #ai #stocks](https://www.youtube.com/watch?v=Zstj3Yf2qzw)**
+
+📺 CryptoWendyO
+
+👁️ 2K • 👍 129 • 💬 7 • ⏱️ 1:01 • 6h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=CZWZVLPuYDg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 224 • 💬 87 • ⏱️ 18:08 • 2d ago
 
 ---
 
@@ -292,45 +310,27 @@ O Ethereum pode estar diante de uma das maiores oportunidades do mercado de crip
 
 📺 Augusto Backes
 
-👁️ 1K • 👍 272 • 💬 11 • ⏱️ 11:39 • 1h ago
+👁️ 4K • 👍 438 • 💬 16 • ⏱️ 11:39 • 5h ago
 
 ---
 
-**[ETHEREUM WILL PROVE EVERYONE WRONG #ethereum #xrp #ai #stocks](https://www.youtube.com/watch?v=Zstj3Yf2qzw)**
+**[Time is RUNNING OUT For BMNR and ETH...](https://www.youtube.com/watch?v=hi_G2GZn1cw)**
 
-📺 CryptoWendyO
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
 
-👁️ 904 • 👍 99 • 💬 7 • ⏱️ 1:01 • 2h ago
+📺 Tevis
 
----
-
-**[Ethereum: Will This Rally Break Resistance?](https://www.youtube.com/watch?v=JujVzGOPrrc)**
-
-In this video I break down the current Ethereum price action and why the recent rally remains within the context of a larger bearish ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 173 • 💬 7 • ⏱️ 7:13 • 1d ago
+👁️ 10K • 👍 436 • 💬 124 • ⏱️ 18:57 • 1d ago
 
 ---
 
-**[Crypto Is About To Find Out | Bitcoin, Ethereum &amp; Cardano At The Decision Point](https://www.youtube.com/watch?v=yt-KCiUDkfg)**
+**[Ethereum | Ethereum Prediction | July 26 2026 | Ethereum Price Prediction | Ethereum Analysis Today](https://www.youtube.com/watch?v=eFYRKKTm8z0)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
+MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis videos immediately, not just the 2 that become ...
 
-📺 Crypto Capital Venture
+📺 Forex Forecast | Elliott Wave Analysis ReadyForex
 
-👁️ 12K • 👍 556 • 💬 255 • ⏱️ 16:34 • 2d ago
-
----
-
-**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
-
-My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
-
-📺 Satoshi Stacker
-
-👁️ 6K • 👍 289 • 💬 17 • ⏱️ 8:31 • 1d ago
+👁️ 13 • 👍 1 • ⏱️ 4:40 • 8h ago
 
 ---
 
