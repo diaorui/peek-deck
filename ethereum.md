@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-27T07:32:28.380335+00:00'
+updated: '2026-07-27T11:22:16.397487+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 07:32 UTC  
+**Last Updated:** July 27, 2026 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.5%  
+**24h:** +4.1%  
 **7d:** +1.8%  
 **30d:** +25.0%  
-**90d:** -12.8%  
+**90d:** -12.9%  
 **1y:** -48.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $237.50B
+**Market Cap:** $236.94B
 Rank #2
 
 **Circulating Supply:** 120,682,636 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.2%
+-60.3%
 
 **All-Time Low:** $0.43
-+454390.9%
++453300.7%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
 
-24/7 Wall St. • 19h ago
+24/7 Wall St. • 23h ago
 
 ---
 
@@ -164,23 +164,39 @@ Bitcoin and Ethereum ETFs are pulling in money this July after two months of hea
 
 Bridge breach losses hit $31.69M across AFX and Verus, while B² halted staking after unauthorized access to its upgrade authority.
 
-CryptoSlate • 1d ago
+CryptoSlate • 2d ago
 
 ---
 
-**[Ethereum shows signs of rally with strong capital inflows and rising network activity despite falling DEX volume.](https://pluang.com/en/news-feed/mengapa-aliran-modal-83juta-ethereum-bisa-menandai-rally-eth-selanjutnya)**
+**[Bitcoin and Ethereum prices rise as US-Iran ten...](https://pluang.com/en/news-feed/prediksi-harga-bitcoin-ethereum-minyak-turun-10-persen-setelah-trump-sinyal)**
 
-Ethereum is positioned for a potential rally as recent data shows strong capital inflows of $83 million and increased network fees, indicating growing on-chain activity. Daily transactions have risen steadily, suggesting the asset may be undervalued at its current price of $1,888. However, decentralized exchange (DEX) trading volume and stablecoin supply on Ethereum have declined, indicating uneven momentum across the ecosystem. Analysts remain optimistic about a significant price surge in the next two to three years.
+Bitcoin and Ethereum prices increased notably following a 10% drop in Murban crude oil prices due to easing US-Iran geopolitical tensions. The US halted strikes on Iran, raising hopes for renewed peace talks and a possible ceasefire. Bitcoin rose by 1.75% to around $65,447, with potential to reach $67,000 if buying pressure continues, while Ethereum climbed to an eight-week high near $1,981, aiming for $2,000 resistance. ETF inflows for both cryptocurrencies also increased, signaling renewed investor confidence ahead of the upcoming US Federal Reserve meeting which could impact market sentiment.
 
-Pluang • 52m ago
+Pluang • 2h ago
 
 ---
 
-**[Ethereum gains nearly 20% in July, outpacing Bi...](https://pluang.com/en/news-feed/ether-memimpin-pasar-kripto-saat-bitcoin-berdagang-di-65500)**
+**[Ethereum gains 20% as BitMEX co-founder buys $2...](https://pluang.com/en/news-feed/ethereum-eth-harga-melihat-peluang-terobosan-besar-setelah-pembelian-arthur)**
 
-Ethereum has surged nearly 20% in July, significantly outperforming Bitcoin's 11.7% gain as ETH trades around $1,880 to $1,970. This rise is driven by increased ETF flows into Ethereum products and higher staking participation, which reduces circulating supply. Meanwhile, Bitcoin remains range-bound between $64,000 and $66,500, with traders cautious amid Federal Reserve interest rate uncertainty. Ethereum's strength may signal a broader altcoin rotation and attract more institutional investment if it breaks above $2,000.
+Ethereum surged over 20% after holding key support near $1,580, attracting $104 million in spot ETF inflows over three weeks. BitMEX co-founder Arthur Hayes strategically bought 1,290 ETH worth $2.5 million, signaling confidence despite resistance levels. Technical analysts forecast long-term price targets between $10,000 and $20,000, with immediate resistance at $1,945 and $2,145. Futures data shows rising bullish sentiment, supporting optimism for further gains.
 
-Pluang • 18m ago
+Pluang • 3h ago
+
+---
+
+**[Bitcoin and Ethereum rise as US-Iran tensions e...](https://pluang.com/en/news-feed/bitcoin-dan-ethereum-naik-harga-minyak-turun-harapan-de-eskalasi-us-iran)**
+
+Bitcoin and Ethereum prices increased on July 27 following signs of easing geopolitical tensions between the US and Iran, which improved investor confidence. Bitcoin rose 1.75% to around $65,447, while Ethereum climbed 4.63% to nearly $1,981. The positive sentiment came after reports that the US paused military strikes and might resume diplomatic talks with Iran, causing oil prices to fall significantly. Investors are now watching upcoming US-Iran negotiations and the Federal Reserve's policy meeting for further market direction.
+
+Pluang • 1h ago
+
+---
+
+**[Current price of Ethereum for July 27, 2026](https://fortune.com/article/price-of-ethereum-07-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 22m ago
 
 ---
 
@@ -188,7 +204,7 @@ Pluang • 18m ago
 
 Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,15 +212,7 @@ Yahoo Finance • 22h ago
 
 Ethereum (ETH) price is up 2.5% to $1,911, outperforming a flat Bitcoin and primarily driven by sustained institutional accumulation via spot ETFs and on-chain staking demand.
 
-MarketForces Africa • 15h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends winning streak, ETH clears key hurdle, XRP steadies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-extends-winning-streak-eth-clears-key-hurdle-xrp-steadies-202607270259)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a firm footing after surging over 1%, 4% and 1%, respectively, in the previous week. BTC holds above key technical resistance after recording its fourth consecutive weekly gain.
-
-FXStreet • 4h ago
+MarketForces Africa • 19h ago
 
 ---
 
@@ -212,23 +220,15 @@ FXStreet • 4h ago
 
 The US Senate moved closer to a key vote on the CLARITY Act, and crypto markets rallied as a result. Will the BTC and ETH rally continue for another week?
 
-CoinMarketCap • 23h ago
+CoinMarketCap • 15h ago
 
 ---
 
-**[Bitcoin, Ethereum, Solana, and XRP spot ETFs pull in $152M in weekly inflows](https://cryptobriefing.com/crypto-spot-etf-inflows-152-million/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends winning streak, ETH clears key hurdle, XRP steadies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-extends-winning-streak-eth-clears-key-hurdle-xrp-steadies-202607270259)**
 
-Bitcoin, Ethereum, Solana, and XRP spot ETFs attracted over $152M in weekly net inflows, with Solana crossing $1.14B in cumulative inflows.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a firm footing after surging over 1%, 4% and 1%, respectively, in the previous week. BTC holds above key technical resistance after recording its fourth consecutive weekly gain.
 
-Crypto Briefing • 2h ago
-
----
-
-**[Ethereum Traders are Giving Up Again. The Last Two Times ETH Rallied](https://beincrypto.com/ethereum-sentiment-eth-rebound/)**
-
-Santiment says bearish Ethereum sentiment has twice preceded ETH rebounds, while spot ETF inflows keep climbing.
-
-BeInCrypto • 1d ago
+FXStreet • 8h ago
 
 ---
 
@@ -242,17 +242,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 449 • 💬 315 • ⏱️ 13:03 • 9h ago
-
----
-
-**[BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5UeweslrSCU)**
-
-BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 205 • 💬 105 • ⏱️ 26:30 • 6h ago
+👁️ 7K • 👍 498 • 💬 339 • ⏱️ 13:03 • 12h ago
 
 ---
 
@@ -262,7 +252,17 @@ Something bizarre is clearly happening in the crypto market right now, i dont kn
 
 📺 Money Rules - Investing Tips 
 
-👁️ 11K • 👍 1K • 💬 462 • ⏱️ 21:32 • 18h ago
+👁️ 11K • 👍 1K • 💬 447 • ⏱️ 21:32 • 22h ago
+
+---
+
+**[BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5UeweslrSCU)**
+
+BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 239 • 💬 106 • ⏱️ 26:30 • 10h ago
 
 ---
 
@@ -272,17 +272,7 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 198 • 💬 12 • ⏱️ 8:19 • 14h ago
-
----
-
-**[They Did This In Three Days You Will NOT Believe This Is HISTORIC For Ethereum &amp; Bitcoin](https://www.youtube.com/watch?v=ROukcv1SmTE)**
-
-Its that time of the crypto market cycle again. The price predictions we've been getting over the last few weeks have been intense ...
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 624 • 💬 407 • ⏱️ 31:00 • 1d ago
+👁️ 4K • 👍 211 • 💬 12 • ⏱️ 8:19 • 17h ago
 
 ---
 
@@ -292,7 +282,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 227 • 💬 78 • ⏱️ 18:08 • 2d ago
+👁️ 7K • 👍 228 • 💬 74 • ⏱️ 18:08 • 2d ago
+
+---
+
+**[🛑Ethereum a punto de DESPEGUE](https://www.youtube.com/watch?v=L4RPE9LzvI0)**
+
+Si quieres empezar a tradear, abrete cuenta en BItget donde podrás disfrutar de un 15% de descuento en comisiones, y tambien ...
+
+📺 Alex Augusto Trading
+
+👁️ 428 • 👍 85 • 💬 5 • ⏱️ 10:13 • 2h ago
+
+---
+
+**[They Did This In Three Days You Will NOT Believe This Is HISTORIC For Ethereum &amp; Bitcoin](https://www.youtube.com/watch?v=ROukcv1SmTE)**
+
+Its that time of the crypto market cycle again. The price predictions we've been getting over the last few weeks have been intense ...
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 627 • 💬 377 • ⏱️ 31:00 • 2d ago
 
 ---
 
@@ -302,7 +312,7 @@ O Ethereum pode estar diante de uma das maiores oportunidades do mercado de crip
 
 📺 Augusto Backes
 
-👁️ 5K • 👍 466 • 💬 17 • ⏱️ 11:39 • 9h ago
+👁️ 5K • 👍 532 • 💬 18 • ⏱️ 11:39 • 13h ago
 
 ---
 
@@ -312,27 +322,15 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 485 • 👍 68 • ⏱️ 7:52 • 3h ago
+👁️ 926 • 👍 87 • ⏱️ 7:52 • 7h ago
 
 ---
 
-**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
+**[ETHEREUM WILL PROVE EVERYONE WRONG #ethereum #xrp #ai #stocks](https://www.youtube.com/watch?v=Zstj3Yf2qzw)**
 
-My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
+📺 CryptoWendyO
 
-📺 Satoshi Stacker
-
-👁️ 6K • 👍 294 • 💬 17 • ⏱️ 8:31 • 1d ago
-
----
-
-**[Time is RUNNING OUT For BMNR and ETH...](https://www.youtube.com/watch?v=hi_G2GZn1cw)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 10K • 👍 445 • 💬 102 • ⏱️ 18:57 • 1d ago
+👁️ 2K • 👍 155 • 💬 5 • ⏱️ 1:01 • 14h ago
 
 ---
 

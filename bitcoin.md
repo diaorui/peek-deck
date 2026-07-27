@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-27T07:32:28.374243+00:00'
+updated: '2026-07-27T11:22:16.391395+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 07:32 UTC  
+**Last Updated:** July 27, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -1.9%  
-**30d:** +9.7%  
-**90d:** -13.8%  
-**1y:** -44.7%  
+**24h:** +1.2%  
+**7d:** -2.0%  
+**30d:** +9.6%  
+**90d:** -13.9%  
+**1y:** -44.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1311.38B
+**Market Cap:** $1308.21B
 Rank #1
 
-**Circulating Supply:** 20,061,831 BTC
+**Circulating Supply:** 20,061,909 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.2%
+-48.3%
 
 **All-Time Low:** $67.81
-+96295.8%
++96064.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The ‘Bitcoin Security Consortium’ includes BlackRock….That’s all we need to know.
 
-18h ago
+22h ago
 
 ---
 
@@ -89,7 +89,7 @@ The ‘Bitcoin Security Consortium’ includes BlackRock….That’s all we need
 
 BitMEX will be shutting down its platform in the next two months and asks all users to close positions and withdraw assets before the closing date.
 
-🔗 [BitMEX Blog](https://www.bitmex.com/blog/bitmex-closure) • 15h ago
+🔗 [BitMEX Blog](https://www.bitmex.com/blog/bitmex-closure) • 19h ago
 
 ---
 
@@ -105,7 +105,7 @@ I'm rich guys what should I get first? Really cool to see from River.
 
 Hi all. I'm not sure if this is the right place, but there are people here who have watched Bitcoin for years. I've been buying small amounts here and there for a year, and I currently own around 0.11 BTC, which is also a little more than half of my life savings. My other half, like $7k, is just sitting in my USD account. I'm 22 and live in a country where crypto is not allowed, Ethiopia. They're getting stricter by the day, and soon there will come a day when I can't sell or buy more. I get this sudden temptation to sell it all and just invest in stocks, the safe option, but the other half of me wants to hold for life, you know. And the market is not helping. It's been going down and down like crazy. Just when I think it will go higher, it just comes back down. I'm young, and I don't need the money for now, so I can just invest all my life savings and forget about it, and by the time I'm 40, it will be like 100x. It's a painful dilemma. I feel like this community will be biased toward Bitcoin, but I still want to hear y'all's opinions.
 
-14h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hi all. I'm not sure if this is the right place, but there are people here who h
 
 I did not mean to buy much bitcoin. I just bought bitcoin every month for the last few years and did not really think about it. I checked my accounts this week, and my bitcoin position is now larger than my entire retirement portfolio. This is not what I wanted when I started buying bitcoin. Now I am looking at my portfolio, and I am wondering if I am making a good decision by letting my bitcoin investment grow, or a bad one by not changing my portfolio. I want to know what people who have invested in bitcoin for some time do in this situation. Do you sell some of your bitcoin, rebalance your portfolio from time to time, or just let your bitcoin investment grow? How do you handle your bitcoin?
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ I did not mean to buy much bitcoin. I just bought bitcoin every month for the la
 
 Buried in the EU's 21st Russia sanctions package (adopted July 23) is something worth every Bitcoiner's attention. Alongside the usual exchange blacklisting (a transaction ban on HTX and a handful of others kicks in Aug. 23) the EU created a new mechanism: it can now prohibit dealing with crypto service providers based in any country it decides has "systematically and persistently" failed to stop sanctions evasion. The list of targeted countries is empty today. The point is that the switch now exists, wired and ready. And here's the part that should make the argument for you. The EU action also comes two days after blockchain intelligence firm TRM Labs alleged that HTX had been rotating hot wallets and funding addresses across four chains following the UK sanctions. That's the permissioned model in a nutshell: a custodian playing whack-a-mole with a blacklist, an administration writing rules slower than the addresses change, and users whose access depends entirely on which side of a legal document their platform lands on. None of that is a Bitcoin problem. You cannot sanction a UTXO. You cannot serve a transaction ban on twelve words written down in a safe. A government can erase an exchange's ability to operate overnight — it did, effective next month — but it has no lever on coins you hold yourself. Every custodial chokepoint that gets flipped off is just another expensive advertisement for self-custody. The takeaway isn't "sanctions bad." It's that the entire apparatus being built here only works on permissioned rails. The instant you're your own bank, the kill-switch has nothing to switch off. Sources: EU Official Journal (Reg. under the 21st package), Reuters, and TRM Labs' wallet-rotation analysis, The Block. How many custodial "off switches" like this do you think get built before self-custody stops being a niche opinion and becomes the default? 👇
 
-16h ago
+20h ago
 
 ---
 
@@ -129,7 +129,7 @@ Buried in the EU's 21st Russia sanctions package (adopted July 23) is something 
 
 I want to hear what's everyone else saw or heard that made them buy into Bitcoin
 
-11h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ I want to hear what's everyone else saw or heard that made them buy into Bitcoin
 
 A while back I posted how I thought we had more to drop. Looking at the price action bitcoin absolutely refuses to break below 60k for a lengthy period of time. I don’t think it’s going to go any lower then it has, or if it does it will only be very slightly. All the bears like myself who were expecting it to plummet were wrong. Trump will continue to TACO out of anything that negatively affects stocks/crypto. I do not think a bear market is legitimately possible at this point while he is president. It’s clear the market is terrified of dipping. Every dip is bought up instantly. I can say I was wrong previously. People will say the four year cycle etc; and it was true and false. It did dip lower this year, especially all the bulls who were calling for 200k and 300k last year look ridiculous. But it clearly is not going to go below 50k. At the worst we might see a small wick to 55-56k marking the bottom before the bull market restarts again. I was wrong. Bitcoin is a lot stronger than I thought.
 
-22h ago
+1d ago
 
 ---
 
@@ -153,7 +153,7 @@ I managed to save up around $325 from my paycheck and got my first BTC today, i 
 
 Just a warning to not use Crypto.com . I have been using bitcoin since it was at $50 in 2013 and I have never had a problem buying, selling, sending or receiving until 2 days ago with Crypto.com . A loved one needed money for emergency surgery so I instantly transferred $6,500 from my Chase bank account to my Coinbase account, bought $6,000 of bitcoin, and transferred it to my loved one's Crypto.com bitcoin account. In order to release the funds Crypto.com required a test send from the address the bitcoin was just sent from to prove ownership of the address (the Coinbase address). The amount they required to send was lower than Coinbase's minimum send allowed so it was not possible. She opened a support ticket on Crypto.com and support first said just try again using any bitcoin address to send from. So I sent the tiny amount required from my Electrum. Which of course didn't work (not sure why it would since the purpose was to establish ownership of original address). Then they said send it again but from a legacy wallet. So I opened my 12 year old legacy Electrum wallet and sent from a legacy address. That of course did not work either as it is not the Coinbase account Then for the next 2 days support just sends (every 7 hours) some random irrelevant copy and paste generic suggestion (restart app, explanation of how bitcoin works and other such BS). I then hopped on Crypto_com reddit account which appears to be active but the mods will not approve my post nor reply to my message. Fortunately I just barely had another $6,000 I was able to get to her another way but the original $6,000 is still stuck on Crypto.com which their support is doing absolutely nothing but sending irrelevant generic copy and paste replies. I know many crypto sites fall under the "works fine until needs support" framework and Crypto.com is definitely on that list. EDIT: If anyone from Crypto.com sees this and wants to actually resolve the issue then I will edit this post stating that the solution was resolved.
 
-22h ago
+1d ago
 
 ---
 
@@ -161,45 +161,39 @@ Just a warning to not use Crypto.com . I have been using bitcoin since it was at
 
 ## Google News: "bitcoin"
 
+**[Live updates: Ether leads crypto higher. China's gold imports surge](https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500)**
+
+CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.
+
+CoinDesk • 2h ago
+
+---
+
 **[Everyone expected a Bitcoin investing boom. Why it never came.](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
 
 Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
 
-USA Today • 12h ago
+USA Today • 16h ago
 
 ---
 
-**[Is Money Rotating Back Into Bitcoin and Ethereum ETFs While XRP and HYPE Funds Fade?](https://247wallst.com/investing/cryptocurrency/2026/07/26/is-money-rotating-back-into-bitcoin-and-ethereum-etfs-while-xrp-and-hype-funds-fade/)**
+**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-1-million-085100499.html)**
 
-Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
+Better days are coming for investors in this top digital asset.
 
-24/7 Wall St. • 19h ago
-
----
-
-**[Crypto Weekly Digest | Bitcoin Edges Up to $65K; Tesla Records $112M Bitcoin Impairment](https://www.moomoo.com/community/feed/crypto-weekly-digest-bitcoin-edges-up-to-65k-defi-suffers-116990432116742)**
-
-Market Summary $Bitcoin (BTC.CC)$ rose 0.15% over the past 7 days to $65,4367, trading in a $64,300-$66,800 range. Despite ETF outflows exceeding $465M over two days and CLARITY Act passage odds dropping to 35%, institutional demand remained resilient with $203M net inflows yesterday marking the sixth consecutive day of positive flows. $Strategy (MSTR.US)$ 's 843,775 BTC position shows an $8.8B unrealized loss a...
-
-Moomoo • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin rises above $65k as easing Middle East tensions lift risk appetite](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-65k-as-easing-middle-east-tensions-lift-risk-appetite-4812982)**
+**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
 
-Investing.com • 1h ago
-
----
-
-**[Bitcoin bull flag 85% complete at $65,414: Live levels](https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-85-complete-at-65414-live-levels-93CH-4813067)**
-
-Investing.com • 21m ago
+Morningstar • 2h ago
 
 ---
 
-**[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
+**[Bitcoin ETFs Post Third Straight Weekly Inflows Despite $465 Million in Late-week Losses](https://www.moomoo.com/news/post/73574651/bitcoin-etfs-post-third-straight-weekly-inflows-despite-465-million)**
 
-Bloomberg.com • 2h ago
+Moomoo • 14m ago
 
 ---
 
@@ -207,29 +201,33 @@ Bloomberg.com • 2h ago
 
 The U.S. and Iran hold fire for the second day, creating room for peace process. The market is responding positively to that.
 
-CoinDesk • 3h ago
+CoinDesk • 32m ago
 
 ---
 
-**[Why two public companies quietly liquidated 511 Bitcoin in 24 hours to escape $31.7 million in debt](https://cryptoslate.com/why-two-public-companies-quietly-liquidated-511-bitcoin-in-24-hours-to-escape-31-7-million-in-debt/)**
+**[Bitcoin rises above $65k as easing Middle East tensions lift risk appetite](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-65k-as-easing-middle-east-tensions-lift-risk-appetite-4812982)**
 
-Bitcoin treasury firms KULR and Smarter Web sold 511 BTC to repay $31.7 million, reducing collateral, maturity and dilution risks.
-
-CryptoSlate • 15h ago
+Investing.com • 5h ago
 
 ---
 
-**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-gb/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-here)**
+**[Bitcoin Rises on Hopes For U.S.-Iran Diplomacy](https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/bitcoin-rises-on-hopes-for-u-s-iran-diplomacy-wWjmehEozrNPJbUdhj5b)**
 
-Morningstar • 2d ago
+Barron's • 2h ago
 
 ---
 
-**[Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy](https://www.tradingview.com/news/cointelegraph:1790c5d45094b:0-bitcoin-og-selling-eases-as-dormant-btc-movement-hits-4-year-low-galaxy/)**
+**[Michael Saylor teases 'another color' after four straight weeks without a Strategy bitcoin buy](https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy)**
 
-Dormant Bitcoin movement in the second quarter fell to its lowest level since the third quarter of 2022, according to data shared by Alex Thorn, Galaxy’s head of firmwide research.Coin days destroyed, a metric that gives greater weight to older coins, showed a similar decline.Thorn said the earlier…
+Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.3 billion underwater with bitcoin near $64,600.
 
-TradingView • 18h ago
+The Block • 14h ago
+
+---
+
+**[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -241,7 +239,7 @@ TradingView • 18h ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 115 • 💬 125 • 4d ago • [opennode.com](https://opennode.com/)
+⬆️ 115 • 💬 126 • 4d ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -249,7 +247,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 5 • 💬 0 • 1d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 5 • 💬 0 • 2d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -273,7 +271,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 2 • 💬 0 • 2d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -297,7 +295,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/sharecoin
 
-⬆️ 1 • 💬 1 • 4d ago • [GitHub](https://github.com/TVHeroes/sharecoin)
+⬆️ 1 • 💬 1 • 5d ago • [GitHub](https://github.com/TVHeroes/sharecoin)
 
 ---
 
@@ -325,7 +323,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 368 • 💬 39 • ⏱️ 15:51 • 1d ago
+👁️ 11K • 👍 374 • 💬 39 • ⏱️ 15:51 • 1d ago
 
 ---
 
@@ -335,17 +333,7 @@ Sam Callahan explains how inflation, Federal Reserve policy, and rising governme
 
 📺 Schwab Network
 
-👁️ 11K • 👍 163 • 💬 32 • ⏱️ 8:04 • 18h ago
-
----
-
-**[Bitcoin Treasuries are COLLAPSING and That&#39;s Bullish! (Here&#39;s Why)](https://www.youtube.com/watch?v=JQFEIHP7oyA)**
-
-Several high-profile Bitcoin treasury companies are struggling, but that doesn't mean Bitcoin is. As financial engineering begins to ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 1K • 💬 290 • ⏱️ 27:04 • 2d ago
+👁️ 12K • 👍 175 • 💬 33 • ⏱️ 8:04 • 21h ago
 
 ---
 
@@ -355,7 +343,7 @@ Let's provide an update to Bitcoin and its bear market resistance band, Come to 
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 2K • 💬 91 • ⏱️ 8:59 • 5h ago
+👁️ 38K • 👍 3K • 💬 110 • ⏱️ 8:59 • 8h ago
 
 ---
 
@@ -365,37 +353,7 @@ Subscribe before Michael Saylor buys more Bitcoin. Michael Saylor isn't just buy
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 239 • 💬 105 • ⏱️ 17:59 • 9h ago
-
----
-
-**[Bitcoin&#39;s Turn Is Next — The Easy Money AI Trade Is Over?](https://www.youtube.com/watch?v=McKTuWYzXgg)**
-
-Jordi Visser is a veteran macro investor with 30+ years of experience and the author of the VisserLabs Substack. In this ...
-
-📺 Anthony Pompliano
-
-👁️ 63K • 👍 2K • 💬 64 • ⏱️ 53:31 • 1d ago
-
----
-
-**[This Bitcoin Indicator Says $48K Will Happen...](https://www.youtube.com/watch?v=zLnE5ENVyy0)**
-
-is $58k the low or could it be $48k for Bitcoin? According to CVDD we MUST hit $48k. Join us Nov. 20-22nd In Miami for Ben's ...
-
-📺 Digital Asset News
-
-👁️ 8K • 👍 490 • 💬 66 • ⏱️ 16:18 • 1d ago
-
----
-
-**[My Plan To Make Millions Crypto Investing In 2027](https://www.youtube.com/watch?v=sXZqYDUnZA4)**
-
-This is my exact game plan to Invest In Crypto and take advantage of the market being at cycle lows. With the right setup, there is ...
-
-📺 Craig Percoco
-
-👁️ 10K • 👍 630 • 💬 598 • ⏱️ 23:27 • 16h ago
+👁️ 4K • 👍 269 • 💬 116 • ⏱️ 17:59 • 13h ago
 
 ---
 
@@ -405,7 +363,17 @@ Could Bitcoin reach $1 million? Maybe, but the path matters. This episode explor
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 111 • ⏱️ 21:12 • 10h ago
+👁️ 18K • 👍 1K • 💬 105 • ⏱️ 21:12 • 14h ago
+
+---
+
+**[Bitcoin Is Getting Ready For A Sizeable Move! [Time To Pay Attention]](https://www.youtube.com/watch?v=Tf9g7Evd7TQ)**
+
+Bitcoin is compressing hard right now, and that kind of coiling energy does not stay contained forever. In today's video, Kyle maps ...
+
+📺 Crypto Banter
+
+👁️ 7K • 👍 769 • 💬 13 • ⏱️ 39:21 • 3h ago
 
 ---
 
@@ -415,7 +383,37 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 205 • 💬 8 • ⏱️ 16:32 • 11h ago
+👁️ 5K • 👍 228 • 💬 8 • ⏱️ 16:32 • 15h ago
+
+---
+
+**[Bitcoin&#39;s Turn Is Next — The Easy Money AI Trade Is Over?](https://www.youtube.com/watch?v=McKTuWYzXgg)**
+
+Jordi Visser is a veteran macro investor with 30+ years of experience and the author of the VisserLabs Substack. In this ...
+
+📺 Anthony Pompliano
+
+👁️ 64K • 👍 2K • 💬 64 • ⏱️ 53:31 • 1d ago
+
+---
+
+**[This Bitcoin Indicator Says $48K Will Happen...](https://www.youtube.com/watch?v=zLnE5ENVyy0)**
+
+is $58k the low or could it be $48k for Bitcoin? According to CVDD we MUST hit $48k. Join us Nov. 20-22nd In Miami for Ben's ...
+
+📺 Digital Asset News
+
+👁️ 9K • 👍 491 • 💬 68 • ⏱️ 16:18 • 1d ago
+
+---
+
+**[My Plan To Make Millions Crypto Investing In 2027](https://www.youtube.com/watch?v=sXZqYDUnZA4)**
+
+This is my exact game plan to Invest In Crypto and take advantage of the market being at cycle lows. With the right setup, there is ...
+
+📺 Craig Percoco
+
+👁️ 12K • 👍 692 • 💬 603 • ⏱️ 23:27 • 20h ago
 
 ---
 

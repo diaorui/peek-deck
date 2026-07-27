@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-27T07:32:28.383433+00:00'
+updated: '2026-07-27T11:22:16.400722+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 27, 2026 at 07:32 UTC  
+**Last Updated:** July 27, 2026 at 11:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Putting this little companion robot together today. He did not smoke or catch on fire when I attached a 4S LiPo battery to him so feeling pretty good about life right now. A lot more to do but sometimes the little things in robotics are the best ones. He powered up. He didn't smoke out. I'm happy. Jetson Orin on board. More to come.
 
-13h ago
+17h ago
 
 ---
 
 **[Unitree's new wheeled robot dog](https://www.reddit.com/r/robotics/comments/1v7cssb/unitrees_new_wheeled_robot_dog/)**
 
-12h ago
+16h ago
 
 ---
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-16h ago
+20h ago
 
 ---
 
@@ -56,19 +56,19 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-1h ago
+4h ago
 
 ---
 
 **[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-16h ago
+20h ago
 
 ---
 
@@ -84,7 +84,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
 
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 19h ago
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 23h ago
 
 ---
 
@@ -92,13 +92,13 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-15h ago
+19h ago
 
 ---
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-4h ago
+8h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 Projecting light directly onto a chip could stream data using less energy
 
-IEEE Spectrum • 18h ago
+IEEE Spectrum • 22h ago
 
 ---
 
@@ -120,11 +120,51 @@ Tech Xplore • 2d ago
 
 ---
 
+**[Enrolment concludes in EndoQuest Robotics’ PARADIGM study](https://www.yahoo.com/news/science/articles/enrolment-concludes-endoquest-robotics-paradigm-100421028.html)**
+
+Preliminary trial data showed a 100% en bloc resection and conversion-free rate.
+
+Yahoo • 1h ago
+
+---
+
+**[Wetour Robotics to Enter into Warehouse Robotics Cooperation Agreement; Management Estimates Full Contemplated Rollout Could Generate Approximately US$5.0 Million in Project-Level Gross Profit](https://finance.yahoo.com/technology/ai/articles/wetour-robotics-enter-warehouse-robotics-110000673.html)**
+
+Proposed cooperation would support implementation of the Company’s previously announced multi-site Orchestra project, subject to definitive agreement and customer site authorizations AUSTIN, Texas, July 27, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (NASDAQ: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that its wholly owned U.S. subsidiary, Wetour Travel Tech LLC, is pursuing a cooperation agreement with a company s
+
+Yahoo Finance • 22m ago
+
+---
+
 **[Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)**
 
 Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
 
-TechCrunch • 7h ago
+TechCrunch • 11h ago
+
+---
+
+**[Stuff the Bus, Robotics program opens doors for Pahokee students](https://cbs12.com/news/local/gallery/stuff-the-bus-robotics-program-opens-doors-for-pahokee-students-july-27-2026)**
+
+WPEC CBS 12 provides local news, weather, sports, traffic and entertainment for West Palm Beach and nearby towns and communities in South Florida including the Palm Beaches and Treasure Coast, serving Stuart, Royal Palm Beach, Fort Pierce, Vero Beach, Port St. Lucie, Okeechobee, Jupiter, Palm Beach Gardens, Wellington, Delray Beach, Boca Raton, Lake Worth, Boynton Beach, Greenacres, Belle Glade, Palm Beach, and Riviera Beach.
+
+WPEC • 1h ago
+
+---
+
+**[What's Next for Humanoids After This Week's Cage Match and Cowboying?](https://spectrum.ieee.org/video-friday-physical-ai-robotics)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[The robot army is coming](https://www.bangkokpost.com/business/general/3292314/the-robot-army-is-coming)**
+
+Thailand is positioning itself to become a regional hub for humanoid robotics by leveraging its established automotive and electronics infrastructure.
+
+Bangkok Post • 12h ago
 
 ---
 
@@ -134,47 +174,9 @@ Japan Today • 1d ago
 
 ---
 
-**[This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears](https://finance.yahoo.com/technology/ai/articles/eric-trump-backed-startup-just-143015023.html)**
-
-Eric Trump-backed Foundation Future Industries will use Advanced Micro Devices Inc. chips to develop autonomous humanoid robots for factories and military operations, with industrial customers paying about $100,000 annually to lease each machine. AMD Chips Power Next Phantom Robot According...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million)**
+**[SoftBank Weighs Deal for Robotics Startup Gravis](https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis)**
 
 Bloomberg.com • 3d ago
-
----
-
-**[China unveils humanoid robots with dual-battery hot swap for nonstop factory operations](https://interestingengineering.com/ai-robotics/shanghai-electric-china-industrial-humanoid-robots)**
-
-Shanghai Electric unveiled humanoid robots, smart factory software, and 51 industrial models at WAIC 2026 to automate manufacturing.
-
-Interesting Engineering • 2d ago
-
----
-
-**[Robotic clothes allow you to suit up hands-free](https://www.livenowfox.com/news/new-robotic-clothes-allow-you-suit-up-hands-free)**
-
-Researchers have developed a soft-robotic technology that allows users to put on protective clothing hands-free and in seconds.
-
-LiveNOW from FOX • 3d ago
-
----
-
-**[AMD Lays Out AI Vision Across Cloud, Client And Robotics (AMD)](https://seekingalpha.com/article/4925512-amd-lays-out-ai-vision-across-cloud-client-robotics)**
-
-Seeking Alpha • 2d ago
-
----
-
-**[Throw Away the Urn! New Digital DNA AGI Robots Let Loved Ones Live for 500 Years (Veterans First for America)](https://markets.businessinsider.com/news/stocks/throw-away-the-urn-new-digital-dna-agi-robots-let-loved-ones-live-for-500-years-veterans-first-for-america-1036364749)**
-
-ALEXANDRIA, Va., July  26, 2026  (GLOBE NEWSWIRE) -- A mind-blowing patent application submitted to the U.S. Patent and Trademark Office, by a qua...
-
-markets.businessinsider.com • 10h ago
 
 ---
 
@@ -182,33 +184,13 @@ markets.businessinsider.com • 10h ago
 
 ## YouTube Videos: "robotics"
 
-**[Real-Time Omni-Modal Interaction Driven Whole-Body Mobile Manipulation](https://www.youtube.com/watch?v=IiNbFPOUrz8)**
-
-Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wellness tasks, with omni-modal interactive ...
-
-📺 Unitree Robotics
-
-👁️ 3.6M • 👍 2K • 💬 450 • ⏱️ 2:15 • 6d ago
-
----
-
-**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
-
-One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
-
-📺 NBC News
-
-👁️ 16K • 👍 167 • 💬 93 • ⏱️ 5:29 • 4d ago
-
----
-
-**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+**[New Humanoid Robot With &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
 
 Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
 
 📺 CNET
 
-👁️ 8K • 👍 293 • 💬 17 • ⏱️ 4:23 • 19h ago
+👁️ 9K • 👍 305 • 💬 18 • ⏱️ 4:23 • 23h ago
 
 ---
 
@@ -218,17 +200,17 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 95K • 👍 3K • 💬 215 • ⏱️ 12:28 • 5d ago
+👁️ 96K • 👍 3K • 💬 215 • ⏱️ 12:28 • 5d ago
 
 ---
 
-**[A Chinese Robot Just Decapitated Another Robot In Public. Nobody Asked What Comes Next](https://www.youtube.com/watch?v=rUjlFRok3qk)**
+**[Unitree&#39;s New Robot Can Clean Homes and Assist Patients by Itself](https://www.youtube.com/watch?v=k1JIyXM5qGw)**
 
-Everyone is asking if killer robots are coming. Wrong question. One already knocked another robot's head clean off, on camera ...
+Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another major step toward fully autonomous home care ...
 
-📺 Ambrose In China
+📺 DPCcars
 
-👁️ 749K • 👍 26K • 💬 5K • ⏱️ 2:25 • 6d ago
+👁️ 16K • 👍 80 • 💬 28 • ⏱️ 2:55 • 6d ago
 
 ---
 
@@ -238,7 +220,17 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 51K • 👍 994 • 💬 416 • ⏱️ 2:02 • 4d ago
+👁️ 52K • 👍 1K • 💬 419 • ⏱️ 2:02 • 4d ago
+
+---
+
+**[A Chinese Robot Just Decapitated Another Robot In Public. Nobody Asked What Comes Next](https://www.youtube.com/watch?v=rUjlFRok3qk)**
+
+Everyone is asking if killer robots are coming. Wrong question. One already knocked another robot's head clean off, on camera ...
+
+📺 Ambrose In China
+
+👁️ 756K • 👍 26K • 💬 5K • ⏱️ 2:25 • 6d ago
 
 ---
 
@@ -256,27 +248,37 @@ WAIC 2026 wrapped up in Shanghai, with robots once again stealing the spotlight.
 
 📺 Mannu Edit
 
-👁️ 132K • 💬 18 • ⏱️ 0:11 • 5d ago
+👁️ 153K • 💬 18 • ⏱️ 0:11 • 5d ago
 
 ---
 
-**[This Two-Armed Robot Could Repair Satellites in Orbit](https://www.youtube.com/watch?v=8bzCVod5F2A)**
+**[Ukraine’s robots making war with Russia like a videogame](https://www.youtube.com/watch?v=sElRMGP9HDk)**
 
-A new spacecraft called the Mission Robotic Vehicle, or MRV, has launched to demonstrate advanced satellite-servicing ...
+Drones are taking over on the frontline of the Russian war in Ukraine. [Subscribe to our Substack newsletter: ...
 
-📺 CyberTech Hub
+📺 Channel 4 News
 
-👁️ 954 • 👍 39 • ⏱️ 1:31 • 10h ago
+👁️ 296K • 👍 4K • 💬 468 • ⏱️ 11:57 • 5d ago
 
 ---
 
-**[Loona Robot: Still Worth Buying In 2026? (UPDATED REVIEW)](https://www.youtube.com/watch?v=ELE_sfFj3zU)**
+**[MIT Create Flying Swimming Robot](https://www.youtube.com/watch?v=2mlFTDxZUY0)**
 
-Loona robot review 2026: is KEYi Tech's AI pet robot still worth $499? A few years after release, I'm revisiting Loona to cover ...
+MIT researchers have developed a versatile robot capable of flying through the air and diving underwater using a unique ...
 
-📺 Eric’s Tech World
+📺 Dr Ben Miles
 
-👁️ 3K • 👍 92 • 💬 24 • ⏱️ 13:02 • 1d ago
+👁️ 1.1M • 👍 87K • 💬 1K • ⏱️ 2:01 • 3d ago
+
+---
+
+**[LEGO Robot: I Created the Ultimate Bluey &amp; Thomas Mech | BEAR Bricks](https://www.youtube.com/watch?v=2dqTn2-Nghw)**
+
+Welcome to BEAR Bricks! Bluey and Thomas unite in one ultimate LEGO mech featuring massive armor, powerful mechanical ...
+
+📺 BEAR Bricks
+
+👁️ 14K • 👍 415 • 💬 13 • ⏱️ 1:00:36 • 1d ago
 
 ---
 
