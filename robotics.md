@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-26T22:33:03.443270+00:00'
+updated: '2026-07-27T00:00:04.669823+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 26, 2026 at 22:33 UTC  
+**Last Updated:** July 27, 2026 at 00:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -54,7 +54,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -62,7 +62,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 Just finished modifying the arm holder/mount for my DIY robot. The old PLA bracket was flexing too much under load, so I redesigned it to be sturdier. Watch the clip to see the improved range of motion. The difference is night and day. No more wobbly joints! Next step is to test the weight capacity.
 
-20h ago
+21h ago
 
 ---
 
@@ -70,7 +70,7 @@ Just finished modifying the arm holder/mount for my DIY robot. The old PLA brack
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-6h ago
+8h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
 
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 10h ago
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 11h ago
 
 ---
 
@@ -86,7 +86,7 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 I wanna show my progress with ros2 and gazebo i could move it while it is lauched and use the teleop to move a little it is not perfect but i am satiefied with the progress.I will try later with gz bridge to pu blish some movement commands
 
-🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 8h ago
+🔗 [YouTube](https://youtube.com/shorts/8xFzYExY0vo?si=3YTn-Ih6yvPuRH12) • 9h ago
 
 ---
 
@@ -94,7 +94,7 @@ I wanna show my progress with ros2 and gazebo i could move it while it is lauche
 
 Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous rotation servo. The gyro normally has centering springs but they have been removed to increase sensitivity. The gyro has a hall effect sensor in it and an analog circuit which generates PWM pulses that the servo uses as a velocity control. A 3 axis version of this arrangement is what made the Apollo guidance computer so accurate at knowing its own pose over long distances and times. This single axis version could be a gyrocompass in a robot or aircraft, to maintain heading even if the magnetic compass quits working etc Now we have laser ring gyros and other extremely accurate solid state sensors and amazing computational power and algorithms to integrate the readings to probably surpass any internal flywheel arrangements accuracy.
 
-23h ago
+1d ago
 
 ---
 
@@ -112,21 +112,13 @@ Built from a 1980s RC helicopter mechanical rate gyro (futaba) and continuous ro
 
 Projecting light directly onto a chip could stream data using less energy
 
-IEEE Spectrum • 9h ago
+IEEE Spectrum • 10h ago
 
 ---
 
 **[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
 
 Tech Xplore • 2d ago
-
----
-
-**[Throw Away the Urn! New Digital DNA AGI Robots Let Loved Ones Live for 500 Years (Veterans First for America)](https://finance.yahoo.com/technology/ai/articles/throw-away-urn-digital-dna-181200744.html)**
-
-QAIAx Microcity - AI City Hall Project (Clean Air - Video Clip) ALEXANDRIA, Va., July 26, 2026 (GLOBE NEWSWIRE) -- A mind-blowing patent application submitted to the U.S. Patent and Trademark Office, by a quantum AI robotics research team sponsored by a veterans organization, working in collaboration with special operations defense and cybersecurity agencies for the QAIAx AI City Hall Project, a federally registered public health clinical trial at the National Institute of Health and National Li
-
-Yahoo Finance • 4h ago
 
 ---
 
@@ -150,7 +142,7 @@ Business Insider • 2d ago
 
 A school district in western New York is is deploying a humanoid robot from a sex doll-affiliated company in its classrooms.
 
-Futurism • 10h ago
+Futurism • 11h ago
 
 ---
 
@@ -162,11 +154,19 @@ Time Magazine • 3d ago
 
 ---
 
+**[Meet the robots programmed by kids to speak their Indigenous languages](https://www.npr.org/transcripts/nx-s1-5825798)**
+
+Many Native American languages are endangered. With the help of his mentor, a 12-year-old in Michigan hopes to help preserve his language through robotics.
+
+NPR • 15h ago
+
+---
+
 **[Israeli researchers teach micro-robots to scale obstacles and carry living bacteria](https://www.ynetnews.com/health_science/article/r18zdgxrmg)**
 
 Tel Aviv University researchers develop micro-robots that use magnetic and electric fields to cross obstacles, move between surfaces and transport delicate biological cargo
 
-Ynetnews • 17h ago
+Ynetnews • 18h ago
 
 ---
 
@@ -198,6 +198,16 @@ Unitree UnifoLM-OminiA-0.3 — a single model handling diverse home-care and wel
 
 ---
 
+**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 6K • 👍 251 • 💬 13 • ⏱️ 4:23 • 11h ago
+
+---
+
 **[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
 
 One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
@@ -208,33 +218,13 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 ---
 
-**[They&#39;re Giving Robots &#39;Smart Skin&#39; Now (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 6K • 👍 229 • 💬 13 • ⏱️ 4:23 • 10h ago
-
----
-
 **[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
 
 America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
 
 📺 Living in China
 
-👁️ 88K • 👍 3K • 💬 212 • ⏱️ 12:28 • 5d ago
-
----
-
-**[Humanoid Robotics at the BMW Group Plant Spartanburg [4K]](https://www.youtube.com/watch?v=NFD0i63FDFk)**
-
-BMW Group intensifies the use of digitalization and the use of artificial intelligence (AI) in production. With so-called Physical AI, ...
-
-📺 The Wheel Network
-
-👁️ 23K • 👍 480 • 💬 143 • ⏱️ 6:24 • 4d ago
+👁️ 91K • 👍 3K • 💬 215 • ⏱️ 12:28 • 5d ago
 
 ---
 
@@ -244,7 +234,7 @@ Everyone is asking if killer robots are coming. Wrong question. One already knoc
 
 📺 Ambrose In China
 
-👁️ 722K • 👍 25K • 💬 5K • ⏱️ 2:25 • 6d ago
+👁️ 730K • 👍 26K • 💬 5K • ⏱️ 2:25 • 6d ago
 
 ---
 
@@ -254,7 +244,7 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 49K • 👍 969 • 💬 413 • ⏱️ 2:02 • 4d ago
+👁️ 50K • 👍 975 • 💬 414 • ⏱️ 2:02 • 4d ago
 
 ---
 
@@ -268,21 +258,31 @@ WAIC 2026 wrapped up in Shanghai, with robots once again stealing the spotlight.
 
 ---
 
+**[This Two-Armed Robot Could Repair Satellites in Orbit](https://www.youtube.com/watch?v=8bzCVod5F2A)**
+
+A new spacecraft called the Mission Robotic Vehicle, or MRV, has launched to demonstrate advanced satellite-servicing ...
+
+📺 CyberTech Hub
+
+👁️ 501 • 👍 29 • ⏱️ 1:31 • 3h ago
+
+---
+
 **[Silver Robot Armor Transformation! 🤖✨ Wait For End 😱 #shorts #ai #Robot #tutorialfilter](https://www.youtube.com/watch?v=zuZOFZw7I-U)**
 
 📺 Mannu Edit
 
-👁️ 106K • 💬 16 • ⏱️ 0:11 • 4d ago
+👁️ 107K • 💬 16 • ⏱️ 0:11 • 4d ago
 
 ---
 
-**[Unitree AS2 W Shows The Future Of Autonomous Robots](https://www.youtube.com/watch?v=OePErI3OoRI)**
+**[This Robot Is Almost Human.](https://www.youtube.com/watch?v=qXxAHBbWMDs)**
 
-The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it climb steep rocks, cross streams, tackle rough ...
+What if a robot could look you in the eyes. smile. and hold a conversation just like a human? ** Meet the **Origin F1**, ...
 
-📺 DPCcars
+📺 Dark Narr
 
-👁️ 18K • 👍 150 • 💬 62 • ⏱️ 2:32 • 2d ago
+👁️ 45K • 👍 906 • 💬 68 • ⏱️ 0:44 • 4d ago
 
 ---
 

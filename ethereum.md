@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-26T22:33:03.440080+00:00'
+updated: '2026-07-27T00:00:04.666640+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 26, 2026 at 22:33 UTC  
+**Last Updated:** July 27, 2026 at 00:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.7%  
-**7d:** +2.1%  
-**30d:** +23.5%  
-**90d:** -15.0%  
-**1y:** -49.8%  
+**24h:** +3.9%  
+**7d:** +2.6%  
+**30d:** +24.2%  
+**90d:** -14.6%  
+**1y:** -49.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.87B
+**Market Cap:** $235.54B
 Rank #2
 
-**Circulating Supply:** 120,682,750 ETH
+**Circulating Supply:** 120,682,665 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-60.5%
 
 **All-Time Low:** $0.43
-+443572.8%
++450584.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-16h ago
+17h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
 
-24/7 Wall St. • 10h ago
+24/7 Wall St. • 12h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 1d ago
 
 Robert Kiyosaki shares a key revelation on Bitcoin and Ethereum amid the US debt crisis. Here is his full case.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 13h ago
 
 Ethereum (ETH) price is up 2.5% to $1,911, outperforming a flat Bitcoin and primarily driven by sustained institutional accumulation via spot ETFs and on-chain staking demand.
 
-MarketForces Africa • 6h ago
+MarketForces Africa • 7h ago
 
 ---
 
@@ -188,7 +188,7 @@ MarketForces Africa • 6h ago
 
 The US Senate moved closer to a key vote on the CLARITY Act, and crypto markets rallied as a result. Will the BTC and ETH rally continue for another week?
 
-CoinMarketCap • 14h ago
+CoinMarketCap • 16h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Motley Fool • 2d ago
 
 The CLARITY Act could expand institutional participation beyond Bitcoin and Ethereum by supporting ETF growth, reducing uncertainty, and improving market accessibility.
 
-Coinpedia • 11h ago
+Coinpedia • 29m ago
 
 ---
 
@@ -236,13 +236,23 @@ Benzinga • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[ETHEREUM: THE RUN IS ABOUT TO BEGIN](https://www.youtube.com/watch?v=f_SWCbRpIWw)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 1K • 👍 190 • 💬 225 • ⏱️ 13:03 • 1h ago
+
+---
+
 **[Something VERY Strange Is Happening With Crypto Ethereum Might Cause A MASSIVE Altcoin Season](https://www.youtube.com/watch?v=EigE6yCl-KY)**
 
 Something bizarre is clearly happening in the crypto market right now, i dont know how more people arent talking about it.
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 955 • 💬 301 • ⏱️ 21:32 • 9h ago
+👁️ 9K • 👍 1K • 💬 353 • ⏱️ 21:32 • 10h ago
 
 ---
 
@@ -252,15 +262,7 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 151 • 💬 15 • ⏱️ 8:19 • 5h ago
-
----
-
-**[ETHEREUM WILL PROVE EVERYONE WRONG #ethereum #xrp #ai #stocks](https://www.youtube.com/watch?v=Zstj3Yf2qzw)**
-
-📺 CryptoWendyO
-
-👁️ 353 • 👍 46 • 💬 7 • ⏱️ 1:01 • 1h ago
+👁️ 2K • 👍 167 • 💬 8 • ⏱️ 8:19 • 6h ago
 
 ---
 
@@ -270,7 +272,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 222 • 💬 71 • ⏱️ 18:08 • 2d ago
+👁️ 6K • 👍 222 • 💬 96 • ⏱️ 18:08 • 2d ago
 
 ---
 
@@ -280,7 +282,25 @@ Its that time of the crypto market cycle again. The price predictions we've been
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 621 • 💬 404 • ⏱️ 31:00 • 1d ago
+👁️ 5K • 👍 623 • 💬 403 • ⏱️ 31:00 • 1d ago
+
+---
+
+**[ETHEREUM É A CRIPTOMOEDA MAIS BARATA DO MERCADO?](https://www.youtube.com/watch?v=xOrM2EhMGCU)**
+
+O Ethereum pode estar diante de uma das maiores oportunidades do mercado de criptomoedas? Neste vídeo, Augusto Backes ...
+
+📺 Augusto Backes
+
+👁️ 1K • 👍 272 • 💬 11 • ⏱️ 11:39 • 1h ago
+
+---
+
+**[ETHEREUM WILL PROVE EVERYONE WRONG #ethereum #xrp #ai #stocks](https://www.youtube.com/watch?v=Zstj3Yf2qzw)**
+
+📺 CryptoWendyO
+
+👁️ 904 • 👍 99 • 💬 7 • ⏱️ 1:01 • 2h ago
 
 ---
 
@@ -304,33 +324,13 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 ---
 
-**[Time is RUNNING OUT For BMNR and ETH...](https://www.youtube.com/watch?v=hi_G2GZn1cw)**
+**[THIS CHART MADE ME BUY BITCOIN &amp; ETHEREUM NOW....](https://www.youtube.com/watch?v=SqSJTuKZ1xw)**
 
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
 
-📺 Tevis
+📺 Satoshi Stacker
 
-👁️ 9K • 👍 408 • 💬 121 • ⏱️ 18:57 • 1d ago
-
----
-
-**[ETHEREUM PULLBACK COMING NEXT WEEK! (ETH Prediction)](https://www.youtube.com/watch?v=EWzU8TcUzuU)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Get funded with Breakout — Kraken-backed crypto prop firm. Trade up to $200K, ...
-
-📺 Cilinix Crypto
-
-👁️ 242 • 👍 18 • ⏱️ 5:46 • 13h ago
-
----
-
-**[⚠️CUIDADO! BITCOIN prepara su siguiente GRAN MOVIMIENTO... Atentos a ETHEREUM y SOLANA!!](https://www.youtube.com/watch?v=rSUdUN95c6I)**
-
-Bitcoin prepara su siguiente gran movimiento.. NO te lo Pierdas! ¿Llegara el rebote de BITCOIN finalmente a los 70.000 dólares o ...
-
-📺 CryptoAnálisis
-
-👁️ 1K • 👍 298 • 💬 58 • ⏱️ 15:09 • 7h ago
+👁️ 6K • 👍 289 • 💬 17 • ⏱️ 8:31 • 1d ago
 
 ---
 
