@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-27T18:05:15.528383+00:00'
+updated: '2026-07-27T20:05:00.919325+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 18:05 UTC  
+**Last Updated:** July 27, 2026 at 20:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,656.22
+### $64,759.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.3%  
 **7d:** -2.3%  
 **30d:** +9.3%  
 **90d:** -14.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1294.27B
+**Market Cap:** $1303.44B
 Rank #1
 
-**Circulating Supply:** 20,062,018 BTC
+**Circulating Supply:** 20,062,081 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.8%
+-48.5%
 
 **All-Time Low:** $67.81
-+95039.4%
++95720.7%
 
 ---
 
@@ -129,7 +129,7 @@ Buried in the EU's 21st Russia sanctions package (adopted July 23) is something 
 
 I want to hear what's everyone else saw or heard that made them buy into Bitcoin
 
-22h ago
+1d ago
 
 ---
 
@@ -165,7 +165,7 @@ Just a warning to not use Crypto.com . I have been using bitcoin since it was at
 
 CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.
 
-CoinDesk • 2h ago
+CoinDesk • 56m ago
 
 ---
 
@@ -173,21 +173,21 @@ CoinDesk • 2h ago
 
 Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
 
-USA Today • 22h ago
+USA Today • 1d ago
 
 ---
 
-**[Peter Schiff Says Saylor Just Wiped 66% Off MicroStrategy’s Bitcoin Yield](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-saylor-just-171558763.html)**
+**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
 
-Peter Schiff tells Bitcoin bulls to skip MSTR after Strategy sold $544.5M of stock and bought zero BTC last week.
+Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
 
-Yahoo Finance • 49m ago
+CNBC • 1h ago
 
 ---
 
 **[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
 
-Morningstar • 8h ago
+Morningstar • 10h ago
 
 ---
 
@@ -195,21 +195,29 @@ Morningstar • 8h ago
 
 Better days are coming for investors in this top digital asset.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Bitcoin (BTC) news: Prices retake $65,000 as oil slides, ETH outperforms](https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5)**
+**[Here's Why I'm Buying Bitcoin Right Now](https://www.fool.com/investing/2026/07/26/heres-why-im-buying-bitcoin-right-now/)**
 
-The U.S. and Iran hold fire for the second day, creating room for peace process. The market is responding positively to that.
+Bitcoin may finally be nearing the end of the bearish phase of its four-year cycle.
 
-CoinDesk • 13h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion](https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion)**
+
+Strategy bought no bitcoin for a fifth straight week, while raising its USD reserve to $3.75 billion and selling $544.5M in MSTR.
+
+The Block • 7h ago
 
 ---
 
 **[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
 
-Bloomberg.com • 7h ago
+Bloomberg • 9h ago
 
 ---
 
@@ -225,15 +233,7 @@ Yahoo Finance • 1d ago
 
 The vast majority of the activity was concentrated in BlackRock’s IBIT product accounting for nearly $415 million of the outflows.
 
-CoinDesk • 6h ago
-
----
-
-**[Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion](https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion)**
-
-Strategy bought no bitcoin for a fifth straight week, while raising its USD reserve to $3.75 billion and selling $544.5M in MSTR.
-
-The Block • 5h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -309,7 +309,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Live public testnet with full node, external miner, browser wallet, snapshot bootstrap, explorer, and native on-chain Node Rewards.
 
-⬆️ 1 • 💬 0 • 5h ago • [Chipcoin Protocol](https://chipcoinprotocol.com/)
+⬆️ 1 • 💬 0 • 7h ago • [Chipcoin Protocol](https://chipcoinprotocol.com/)
 
 ---
 
@@ -325,13 +325,33 @@ Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. 
 
 ## YouTube Videos: "bitcoin"
 
+**[An Urgent Message To EVERY Bitcoin Investor](https://www.youtube.com/watch?v=QaZh_9Et_60)**
+
+Thank you to Mint Mobile for partnering with us on this video! Visit our partner https://mintmobile.yt.link/I6xc7as to get 3, 6, or 12 ...
+
+📺 The Graham Stephan Show
+
+👁️ 8K • 👍 632 • 💬 160 • ⏱️ 18:59 • 4h ago
+
+---
+
+**[Why Michael Saylor stopped buying Bitcoin](https://www.youtube.com/watch?v=G87Vy-dZbdw)**
+
+In this episode of The Daily Wolf, Scott Melker explains why several crypto companies and exchanges are shutting down while the ...
+
+📺 Yahoo Finance
+
+👁️ 3K • 👍 219 • 💬 130 • ⏱️ 14:53 • 3h ago
+
+---
+
 **[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=lfYYC7qxDQ8)**
 
 Let's provide an update to Bitcoin and its bear market resistance band, Come to the 1st ITC Conference: ...
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 4K • 💬 167 • ⏱️ 8:59 • 15h ago
+👁️ 66K • 👍 4K • 💬 180 • ⏱️ 8:59 • 17h ago
 
 ---
 
@@ -341,67 +361,7 @@ Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TI
 
 📺 Heresy Financial
 
-👁️ 7K • 👍 591 • 💬 159 • ⏱️ 14:33 • 5h ago
-
----
-
-**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 12K • 👍 383 • 💬 48 • ⏱️ 15:51 • 1d ago
-
----
-
-**[Bitcoin Could Hit $1 Million If This Crisis Gets Worse](https://www.youtube.com/watch?v=qxVV1NpsJ5U)**
-
-Could Bitcoin reach $1 million? Maybe, but the path matters. This episode explores how an energy crisis, supply chain disruptions ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 2K • 💬 123 • ⏱️ 21:12 • 21h ago
-
----
-
-**[&quot;CLARITY IS HERE! This Week Will Be SUPER BULLISH for Bitcoin &amp; Crypto!&quot; | Jordi Visser](https://www.youtube.com/watch?v=lMWIkAuVZCI)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 259 • 💬 16 • ⏱️ 16:32 • 21h ago
-
----
-
-**[$5M Bitcoin Detonates - Saylor Just Made His Move](https://www.youtube.com/watch?v=uBSxApoRG2M)**
-
-Subscribe before Michael Saylor buys more Bitcoin. Michael Saylor isn't just buying more Bitcoin. He's changing the game.
-
-📺 Bitcoin News Alerts
-
-👁️ 5K • 👍 293 • 💬 128 • ⏱️ 17:59 • 19h ago
-
----
-
-**[Bitcoin’s $65K Reclaim Faces a Massive Fed Test](https://www.youtube.com/watch?v=7qgoZI12Sl4)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 5K • 👍 443 • 💬 126 • ⏱️ 40:21 • 3h ago
-
----
-
-**[Bitcoin Is Getting Ready For A Sizeable Move! [Time To Pay Attention]](https://www.youtube.com/watch?v=Tf9g7Evd7TQ)**
-
-Bitcoin is compressing hard right now, and that kind of coiling energy does not stay contained forever. In today's video, Kyle maps ...
-
-📺 Crypto Banter
-
-👁️ 13K • 👍 1K • 💬 16 • ⏱️ 39:21 • 10h ago
+👁️ 16K • 👍 951 • 💬 231 • ⏱️ 14:33 • 7h ago
 
 ---
 
@@ -411,17 +371,57 @@ Sam Callahan explains how inflation, Federal Reserve policy, and rising governme
 
 📺 Schwab Network
 
-👁️ 14K • 👍 188 • 💬 38 • ⏱️ 8:04 • 1d ago
+👁️ 15K • 👍 193 • 💬 39 • ⏱️ 8:04 • 1d ago
 
 ---
 
-**[This Bitcoin Indicator Says $48K Will Happen...](https://www.youtube.com/watch?v=zLnE5ENVyy0)**
+**[Bitcoin’s $70K Breakout Will Be DECIDED in the Next 72 HOURS](https://www.youtube.com/watch?v=D_CD6LypJiw)**
 
-is $58k the low or could it be $48k for Bitcoin? According to CVDD we MUST hit $48k. Join us Nov. 20-22nd In Miami for Ben's ...
+Bitcoin #Crypto #finance Bitcoin rebounds above $65000 as Middle East tensions ease, but the market now faces its biggest ...
 
-📺 Digital Asset News
+📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 500 • 💬 68 • ⏱️ 16:18 • 1d ago
+👁️ 11K • 👍 616 • 💬 218 • ⏱️ 1:01:29 • 5h ago
+
+---
+
+**[Bitcoin&#39;s Turn Is Next — The Easy Money AI Trade Is Over?](https://www.youtube.com/watch?v=McKTuWYzXgg)**
+
+Jordi Visser is a veteran macro investor with 30+ years of experience and the author of the VisserLabs Substack. In this ...
+
+📺 Anthony Pompliano
+
+👁️ 68K • 👍 2K • 💬 70 • ⏱️ 53:31 • 2d ago
+
+---
+
+**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 12K • 👍 392 • 💬 55 • ⏱️ 15:51 • 1d ago
+
+---
+
+**[$67,000 Breaks Or Bitcoin CRASHES HARD! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=DJKHKFP1ivc)**
+
+Bitcoin Must Break $67000… Or It Crashes In this video I break down why the $67000 level is critical right now. We cover: • Why ...
+
+📺 Crypto Jebb
+
+👁️ 587 • 👍 103 • 💬 76 • ⏱️ 11:50 • 2h ago
+
+---
+
+**[Bitcoin&#39;s About to Make a Fool Out of Everyone!](https://www.youtube.com/watch?v=EbR8__e79sc)**
+
+Crypto has been through another wave of bad news, yet the market is reacting very differently than it did in previous cycles.
+
+📺 Crypto Banter
+
+👁️ 12K • 👍 963 • 💬 23 • ⏱️ 30:54 • 5h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-27T18:05:15.537107+00:00'
+updated: '2026-07-27T20:05:00.924816+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 27, 2026 at 18:05 UTC  
+**Last Updated:** July 27, 2026 at 20:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 **[Unitree's new wheeled robot dog](https://www.reddit.com/r/robotics/comments/1v7cssb/unitrees_new_wheeled_robot_dog/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -56,7 +56,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-11h ago
+13h ago
 
 ---
 
@@ -76,7 +76,7 @@ I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. 
 
 A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main PC. I still use a separate animation editor that I built for creating movements. Each joint has its own timeline with position keyframes, velocity, torque limits, and controller parameters. Finished animations are sent to the lamp and played back locally. I’ve also installed an addressable LED ring with a 3D-printed diffuser inside the head. Brightness and transitions are now part of the same animation timeline, allowing the light to be synchronized with movement. This video is a quick test of the new setup. I’m currently tuning the motor parameters, brightness curves, and transition timings before using the light in more expressive animations.
 
-1d ago
+2d ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 
-TechCrunch • 5h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -118,23 +118,23 @@ TechCrunch • 5h ago
 
 Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
-calcalistech.com • 4h ago
+calcalistech.com • 6h ago
 
 ---
 
-**[Top Robotics Stocks Worth Investing Right Now for Solid Returns](https://finance.yahoo.com/markets/stocks/articles/top-robotics-stocks-worth-investing-154200515.html)**
+**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
 
-SNPS is among U.S. robotics plays as 2026 brings major advances in physical AI, surgical systems, defense autonomy and space robotics.
+As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-Yahoo Finance • 2h ago
+The Information • 4h ago
 
 ---
 
-**[Tacta Systems™ Unveils Breakthrough Robotic Hands For High-Value Manufacturing, Powered By Dexterous Intelligence And Large-Scale Skill Capture](https://www.prnewswire.com/news-releases/tacta-systems-unveils-breakthrough-robotic-hands-for-high-value-manufacturing-powered-by-dexterous-intelligence-and-large-scale-skill-capture-302835396.html)**
+**[Why are other countries better than us at automation and robotics?](https://www.themanufacturer.com/videos/why-are-other-countries-better-than-us-at-automation-and-robotics/)**
 
-The TactaBot™ combines the company's Tacta Hand, Skill Capture, and "Dexterous Intelligence" AI engine to bring human-level dexterity and touch to robotics for...
+The UK currently ranks 24th in the world for automation and robotics adoption. What other countries are doing differently?
 
-PR Newswire • 2h ago
+The Manufacturer • 4h ago
 
 ---
 
@@ -152,31 +152,33 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[AI and robotics accelerate search for better gut microbiome therapies](https://phys.org/news/2026-07-ai-robotics-gut-microbiome-therapies.html)**
-
-Phys.org • 3h ago
-
----
-
-**[M'bishi Motors teams up with startup to mass produce humanoid robots](https://japantoday.com/category/tech/mitsubishi-motors-teams-up-with-startup-to-mass-produce-humanoid-robots)**
-
-Japan Today • 1d ago
-
----
-
 **[SAPPHIRE Technology Unveils EDGE+ Apex Robotics Platform](https://www.techpowerup.com/351113/sapphire-technology-unveils-edge-apex-robotics-platform)**
 
 SAPPHIRE Technology today unveiled the EDGE+ Apex SOM/Carrier Robotics Platform, a production-ready hardware platform powered by AMD Ryzen AI Embedded X100 Series processors and designed to accelerate the development and deployment of physical AI in autonomous robotics. The platform has been...
 
-TechPowerUp • 3h ago
+TechPowerUp • 5h ago
 
 ---
 
-**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
+**[Robotic arm assisted surgery comes to Tobey Hospital](https://theweektoday.com/article/robotic-arm-assisted-surgery-comes-tobey-hospital/158691)**
 
-As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
+Orthopedic doctors at Tobey Hospital have a new team member coming on board. However, this team member isn't a human doctor. It's a robot — which may soon be in the operating room.
 
-The Information • 2h ago
+Wareham, MA News • 20h ago
+
+---
+
+**[How would AI data centers in space even work? A former NASA robotics chief explains](https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/)**
+
+'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'
+
+ZDNET • 8h ago
+
+---
+
+**[AI and robotics accelerate search for better gut microbiome therapies](https://phys.org/news/2026-07-ai-robotics-gut-microbiome-therapies.html)**
+
+Phys.org • 5h ago
 
 ---
 
@@ -184,13 +186,23 @@ The Information • 2h ago
 
 ## YouTube Videos: "robotics"
 
+**[New Humanoid Robot With &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 10K • 👍 338 • 💬 19 • ⏱️ 4:23 • 1d ago
+
+---
+
 **[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
 
 America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
 
 📺 Living in China
 
-👁️ 99K • 👍 3K • 💬 224 • ⏱️ 12:28 • 6d ago
+👁️ 101K • 👍 3K • 💬 224 • ⏱️ 12:28 • 6d ago
 
 ---
 
@@ -200,17 +212,17 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 16K • 👍 169 • 💬 93 • ⏱️ 5:29 • 4d ago
+👁️ 16K • 👍 170 • 💬 93 • ⏱️ 5:29 • 4d ago
 
 ---
 
-**[New Humanoid Robot With &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+**[GATE 2027 Robotics and Automation | GATE 2027 New Syllabus | GATE Robotics &amp; Automation Full Course](https://www.youtube.com/watch?v=Mz3jAiOYD-U)**
 
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course based on the GATE 2027 New Syllabus.
 
-📺 CNET
+📺 GATE Wallah
 
-👁️ 10K • 👍 325 • 💬 19 • ⏱️ 4:23 • 1d ago
+👁️ 1K • 👍 80 • 💬 2 • ⏱️ 17:35 • 2h ago
 
 ---
 
@@ -220,7 +232,17 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 53K • 👍 1K • 💬 422 • ⏱️ 2:02 • 5d ago
+👁️ 54K • 👍 1K • 💬 429 • ⏱️ 2:02 • 5d ago
+
+---
+
+**[I Had No Idea... Cestus Rockets Now Have An Insane Fire Rate - BUFFED vs Ammits | War Robots](https://www.youtube.com/watch?v=YwL6sm9Bufw)**
+
+I did not expect this at all. I saw the Cestus, labrys and the light version all got a fire rate buff. And these are weapons that I pretty ...
+
+📺 PREDATOR WR
+
+👁️ 10K • 👍 405 • 💬 58 • ⏱️ 14:36 • 1d ago
 
 ---
 
@@ -230,17 +252,7 @@ BMW Group intensifies the use of digitalization and the use of artificial intell
 
 📺 The Wheel Network
 
-👁️ 24K • 👍 532 • 💬 156 • ⏱️ 6:24 • 5d ago
-
----
-
-**[SHERI MOON ZOMBIE - I Love My Robot (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=8yt2WUfc6Pc)**
-
-Cult icon SHERI MOON ZOMBIE unveils debut single and video "I Love My Robot." Limited edition picture disc vinyl featuring "I ...
-
-📺 Nuclear Blast Records
-
-👁️ 6K • 👍 1K • 💬 197 • ⏱️ 2:50 • 4h ago
+👁️ 24K • 👍 544 • 💬 157 • ⏱️ 6:24 • 5d ago
 
 ---
 
@@ -250,37 +262,27 @@ War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Crea
 
 📺 Manni-Gaming
 
-👁️ 20K • 👍 665 • 💬 217 • ⏱️ 14:51 • 4d ago
+👁️ 20K • 👍 674 • 💬 224 • ⏱️ 14:51 • 4d ago
 
 ---
 
-**[Spawning INFINITE Robots to make TRILLIONS in Roblox...](https://www.youtube.com/watch?v=OF-UT_ZbNIA)**
+**[SHERI MOON ZOMBIE - I Love My Robot (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=8yt2WUfc6Pc)**
 
-roblox robot grows stronger... My ONLY Roblox Profile: https://www.roblox.com/users/4811832072/profile SUBSCRIBE FOR ...
+Cult icon SHERI MOON ZOMBIE unveils debut single and video "I Love My Robot." Limited edition picture disc vinyl featuring "I ...
 
-📺 OTTER ON ROBLOX
+📺 Nuclear Blast Records
 
-👁️ 13K • 👍 467 • 💬 76 • ⏱️ 24:25 • 5h ago
-
----
-
-**[Humanoid Robots Debut at WAIC—The Resemblance Is Uncanny!](https://www.youtube.com/watch?v=Y0nJYygqckM)**
-
-WAIC 2026 wrapped up in Shanghai, with robots once again stealing the spotlight. Nothing gets the crowd going quite like a robot ...
-
-📺 Tech Innovation DeepTalk
-
-👁️ 14K • 👍 7 • ⏱️ 0:23 • 3d ago
+👁️ 26K • 👍 2K • 💬 508 • ⏱️ 2:50 • 6h ago
 
 ---
 
-**[MIT Create Flying Swimming Robot](https://www.youtube.com/watch?v=2mlFTDxZUY0)**
+**[SELF BALANCING ROBOT BUILD JOURNEY](https://www.youtube.com/watch?v=VhRg9mgNNLs)**
 
-MIT researchers have developed a versatile robot capable of flying through the air and diving underwater using a unique ...
+Watch the full video on my channel now BUILDING SABR I Built a self balancing robot named SABR, the first version failed and ...
 
-📺 Dr Ben Miles
+📺 LIGIENCE 
 
-👁️ 1.1M • 👍 90K • 💬 1K • ⏱️ 2:01 • 4d ago
+👁️ 980 • 👍 17 • ⏱️ 1:00 • 5h ago
 
 ---
 
