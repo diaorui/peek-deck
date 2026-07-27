@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-27T11:22:16.400722+00:00'
+updated: '2026-07-27T13:53:50.653603+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 27, 2026 at 11:22 UTC  
+**Last Updated:** July 27, 2026 at 13:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Putting this little companion robot together today. He did not smoke or catch on fire when I attached a 4S LiPo battery to him so feeling pretty good about life right now. A lot more to do but sometimes the little things in robotics are the best ones. He powered up. He didn't smoke out. I'm happy. Jetson Orin on board. More to come.
 
-17h ago
+20h ago
 
 ---
 
 **[Unitree's new wheeled robot dog](https://www.reddit.com/r/robotics/comments/1v7cssb/unitrees_new_wheeled_robot_dog/)**
 
-16h ago
+18h ago
 
 ---
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-20h ago
+23h ago
 
 ---
 
@@ -56,7 +56,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-4h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. 
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -84,7 +84,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
 
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 23h ago
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 1d ago
 
 ---
 
@@ -92,13 +92,13 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-19h ago
+22h ago
 
 ---
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-8h ago
+11h ago
 
 ---
 
@@ -110,13 +110,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 Projecting light directly onto a chip could stream data using less energy
 
-IEEE Spectrum • 22h ago
-
----
-
-**[A spider-inspired robotic boat could track and rescue people in water](https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html)**
-
-Tech Xplore • 2d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -124,7 +118,15 @@ Tech Xplore • 2d ago
 
 Preliminary trial data showed a 100% en bloc resection and conversion-free rate.
 
-Yahoo • 1h ago
+Yahoo • 3h ago
+
+---
+
+**[These Student Robotics Programs Spark Passion for Tomorrow’s Manufacturing Jobs](https://www.automate.org/robotics/industry-insights/these-student-robotics-programs-spark-passion-for-tomorrows-manufacturing-jobs)**
+
+Student robotics programs expose students to the possibilities of working in the automation industry.
+
+A3 Association for Advancing Automation • 1h ago
 
 ---
 
@@ -132,7 +134,13 @@ Yahoo • 1h ago
 
 Proposed cooperation would support implementation of the Company’s previously announced multi-site Orchestra project, subject to definitive agreement and customer site authorizations AUSTIN, Texas, July 27, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (NASDAQ: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that its wholly owned U.S. subsidiary, Wetour Travel Tech LLC, is pursuing a cooperation agreement with a company s
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
+
+Tech Xplore • 20h ago
 
 ---
 
@@ -140,15 +148,7 @@ Yahoo Finance • 22m ago
 
 Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
 
-TechCrunch • 11h ago
-
----
-
-**[Stuff the Bus, Robotics program opens doors for Pahokee students](https://cbs12.com/news/local/gallery/stuff-the-bus-robotics-program-opens-doors-for-pahokee-students-july-27-2026)**
-
-WPEC CBS 12 provides local news, weather, sports, traffic and entertainment for West Palm Beach and nearby towns and communities in South Florida including the Palm Beaches and Treasure Coast, serving Stuart, Royal Palm Beach, Fort Pierce, Vero Beach, Port St. Lucie, Okeechobee, Jupiter, Palm Beach Gardens, Wellington, Delray Beach, Boca Raton, Lake Worth, Boynton Beach, Greenacres, Belle Glade, Palm Beach, and Riviera Beach.
-
-WPEC • 1h ago
+TechCrunch • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ IEEE Spectrum • 2d ago
 
 Thailand is positioning itself to become a regional hub for humanoid robotics by leveraging its established automotive and electronics infrastructure.
 
-Bangkok Post • 12h ago
+Bangkok Post • 14h ago
 
 ---
 
@@ -174,9 +174,11 @@ Japan Today • 1d ago
 
 ---
 
-**[SoftBank Weighs Deal for Robotics Startup Gravis](https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis)**
+**[Stuff the Bus, Robotics program opens doors for Pahokee students](https://cbs12.com/news/local/stuff-the-bus-robotics-program-opens-doors-for-pahokee-students-july-27-2026)**
 
-Bloomberg.com • 3d ago
+A robotics program at Pahokee Middle-Senior High School is giving students far more than hands-on STEM experience.
+
+WPEC • 3h ago
 
 ---
 
@@ -184,23 +186,43 @@ Bloomberg.com • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[New Humanoid Robot With &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 9K • 👍 305 • 💬 18 • ⏱️ 4:23 • 23h ago
-
----
-
 **[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
 
 America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
 
 📺 Living in China
 
-👁️ 96K • 👍 3K • 💬 215 • ⏱️ 12:28 • 5d ago
+👁️ 98K • 👍 3K • 💬 220 • ⏱️ 12:28 • 5d ago
+
+---
+
+**[New Humanoid Robot With &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 9K • 👍 313 • 💬 19 • ⏱️ 4:23 • 1d ago
+
+---
+
+**[Humanoid Robotics at the BMW Group Plant Spartanburg [4K]](https://www.youtube.com/watch?v=NFD0i63FDFk)**
+
+BMW Group intensifies the use of digitalization and the use of artificial intelligence (AI) in production. With so-called Physical AI, ...
+
+📺 The Wheel Network
+
+👁️ 24K • 👍 525 • 💬 155 • ⏱️ 6:24 • 5d ago
+
+---
+
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+
+📺 New York Post
+
+👁️ 52K • 👍 1K • 💬 421 • ⏱️ 2:02 • 4d ago
 
 ---
 
@@ -214,51 +236,11 @@ Unitree's latest humanoid robot powered by UnifoLM OminiA 0.3 is taking another 
 
 ---
 
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
-
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
-
-📺 New York Post
-
-👁️ 52K • 👍 1K • 💬 419 • ⏱️ 2:02 • 4d ago
-
----
-
-**[A Chinese Robot Just Decapitated Another Robot In Public. Nobody Asked What Comes Next](https://www.youtube.com/watch?v=rUjlFRok3qk)**
-
-Everyone is asking if killer robots are coming. Wrong question. One already knocked another robot's head clean off, on camera ...
-
-📺 Ambrose In China
-
-👁️ 756K • 👍 26K • 💬 5K • ⏱️ 2:25 • 6d ago
-
----
-
-**[Humanoid Robots Debut at WAIC—The Resemblance Is Uncanny!](https://www.youtube.com/watch?v=Y0nJYygqckM)**
-
-WAIC 2026 wrapped up in Shanghai, with robots once again stealing the spotlight. Nothing gets the crowd going quite like a robot ...
-
-📺 Tech Innovation DeepTalk
-
-👁️ 14K • 👍 6 • ⏱️ 0:23 • 3d ago
-
----
-
 **[Silver Robot Armor Transformation! 🤖✨ Wait For End 😱 #shorts #ai #Robot #tutorialfilter](https://www.youtube.com/watch?v=zuZOFZw7I-U)**
 
 📺 Mannu Edit
 
-👁️ 153K • 💬 18 • ⏱️ 0:11 • 5d ago
-
----
-
-**[Ukraine’s robots making war with Russia like a videogame](https://www.youtube.com/watch?v=sElRMGP9HDk)**
-
-Drones are taking over on the frontline of the Russian war in Ukraine. [Subscribe to our Substack newsletter: ...
-
-📺 Channel 4 News
-
-👁️ 296K • 👍 4K • 💬 468 • ⏱️ 11:57 • 5d ago
+👁️ 164K • 💬 19 • ⏱️ 0:11 • 5d ago
 
 ---
 
@@ -268,7 +250,7 @@ MIT researchers have developed a versatile robot capable of flying through the a
 
 📺 Dr Ben Miles
 
-👁️ 1.1M • 👍 87K • 💬 1K • ⏱️ 2:01 • 3d ago
+👁️ 1.1M • 👍 88K • 💬 1K • ⏱️ 2:01 • 3d ago
 
 ---
 
@@ -278,7 +260,27 @@ Welcome to BEAR Bricks! Bluey and Thomas unite in one ultimate LEGO mech featuri
 
 📺 BEAR Bricks
 
-👁️ 14K • 👍 415 • 💬 13 • ⏱️ 1:00:36 • 1d ago
+👁️ 16K • 👍 446 • 💬 13 • ⏱️ 1:00:36 • 1d ago
+
+---
+
+**[Ukraine’s robots making war with Russia like a videogame](https://www.youtube.com/watch?v=sElRMGP9HDk)**
+
+Drones are taking over on the frontline of the Russian war in Ukraine. [Subscribe to our Substack newsletter: ...
+
+📺 Channel 4 News
+
+👁️ 298K • 👍 4K • 💬 472 • ⏱️ 11:57 • 5d ago
+
+---
+
+**[Automata🤖Can a robot understand a mother?](https://www.youtube.com/watch?v=T8TvNVwGpUg)**
+
+Automata (2014) is a sci-fi thriller set in a future where Earth has become nearly uninhabitable. An insurance investigator ...
+
+📺 CineCraft
+
+👁️ 99K • 👍 1K • 💬 14 • ⏱️ 0:54 • 3d ago
 
 ---
 
