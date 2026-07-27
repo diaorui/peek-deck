@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-27T21:38:50.894444+00:00'
+updated: '2026-07-27T23:02:14.306421+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 21:38 UTC  
+**Last Updated:** July 27, 2026 at 23:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,759.02
+### $64,074.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -2.6%  
-**30d:** +9.0%  
-**90d:** -14.4%  
-**1y:** -45.1%  
+**24h:** -2.1%  
+**7d:** -4.3%  
+**30d:** +7.1%  
+**90d:** -15.9%  
+**1y:** -46.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1303.44B
+**Market Cap:** $1279.84B
 Rank #1
 
-**Circulating Supply:** 20,062,081 BTC
+**Circulating Supply:** 20,062,150 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.5%
+-49.4%
 
 **All-Time Low:** $67.81
-+95720.7%
++93959.9%
 
 ---
 
@@ -161,11 +161,11 @@ Just a warning to not use Crypto.com . I have been using bitcoin since it was at
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) price may fall to $52,000 as demand remains elusive, Nansen analyst says](https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next)**
+**[Live updates: Bitcoin gives up early gains, holds near $65,000 as AI stocks skid](https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500)**
 
-BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.
+CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -181,7 +181,13 @@ USA Today • 1d ago
 
 Better days are coming for investors in this top digital asset.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
+
+Morningstar • 13h ago
 
 ---
 
@@ -189,21 +195,13 @@ Yahoo Finance • 12h ago
 
 Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
 
-CNBC • 2h ago
+CNBC • 4h ago
 
 ---
 
-**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
+**[Bitcoin Rises on Hopes For U.S.-Iran Diplomacy](https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/bitcoin-rises-on-hopes-for-u-s-iran-diplomacy-wWjmehEozrNPJbUdhj5b)**
 
-Morningstar • 12h ago
-
----
-
-**[Here's Why I'm Buying Bitcoin Right Now](https://www.fool.com/investing/2026/07/26/heres-why-im-buying-bitcoin-right-now/)**
-
-Bitcoin may finally be nearing the end of the bearish phase of its four-year cycle.
-
-The Motley Fool • 1d ago
+Barron's • 13h ago
 
 ---
 
@@ -211,7 +209,7 @@ The Motley Fool • 1d ago
 
 Benchmark reiterated its $570 Strategy target, citing disciplined capital allocation, growing cash reserves and continued long-term BTC plan.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -219,13 +217,13 @@ The Block • 8h ago
 
 The firm updated its valuation for David Bailey-led Nakamoto, citing pressure from BTC's decline on the company's capital structure.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
 **[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
 
-Bloomberg • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -249,19 +247,19 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 ---
 
+**[Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](https://news.ycombinator.com/item?id=49075386)**
+
+The alleged thieves infected 8,000 devices.
+
+⬆️ 19 • 💬 8 • 2h ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+
+---
+
 **[Sharecoin – GPU fork of Bitcoin with a randomness beacon](https://news.ycombinator.com/item?id=49045694)**
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
 ⬆️ 5 • 💬 0 • 2d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
-
----
-
-**[Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](https://news.ycombinator.com/item?id=49075386)**
-
-The alleged thieves infected 8,000 devices.
-
-⬆️ 4 • 💬 0 • 45m ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -317,7 +315,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The first Bitcoin newsletter that rewards you with sats while you learn about regulation, sovereignty, and legal developments.
 
-⬆️ 1 • 💬 0 • 1h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
+⬆️ 1 • 💬 0 • 2h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
 
 ---
 
@@ -331,27 +329,7 @@ Thank you to Mint Mobile for partnering with us on this video! Visit our partner
 
 📺 The Graham Stephan Show
 
-👁️ 8K • 👍 632 • 💬 160 • ⏱️ 18:59 • 5h ago
-
----
-
-**[Why Michael Saylor stopped buying Bitcoin](https://www.youtube.com/watch?v=G87Vy-dZbdw)**
-
-In this episode of The Daily Wolf, Scott Melker explains why several crypto companies and exchanges are shutting down while the ...
-
-📺 Yahoo Finance
-
-👁️ 3K • 👍 219 • 💬 130 • ⏱️ 14:53 • 4h ago
-
----
-
-**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=lfYYC7qxDQ8)**
-
-Let's provide an update to Bitcoin and its bear market resistance band, Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 66K • 👍 4K • 💬 180 • ⏱️ 8:59 • 19h ago
+👁️ 17K • 👍 1K • 💬 350 • ⏱️ 18:59 • 7h ago
 
 ---
 
@@ -361,17 +339,7 @@ Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TI
 
 📺 Heresy Financial
 
-👁️ 16K • 👍 951 • 💬 231 • ⏱️ 14:33 • 8h ago
-
----
-
-**[Bitcoin&#39;s Bear Market Ending? Bull Case in Clarity Act &amp; Fed](https://www.youtube.com/watch?v=WoU8f6QTdvo)**
-
-Sam Callahan explains how inflation, Federal Reserve policy, and rising government spending could shape Bitcoin's future and ...
-
-📺 Schwab Network
-
-👁️ 15K • 👍 193 • 💬 39 • ⏱️ 8:04 • 1d ago
+👁️ 20K • 👍 1K • 💬 272 • ⏱️ 14:33 • 10h ago
 
 ---
 
@@ -381,17 +349,7 @@ Bitcoin #Crypto #finance Bitcoin rebounds above $65000 as Middle East tensions e
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 616 • 💬 218 • ⏱️ 1:01:29 • 7h ago
-
----
-
-**[Bitcoin&#39;s Turn Is Next — The Easy Money AI Trade Is Over?](https://www.youtube.com/watch?v=McKTuWYzXgg)**
-
-Jordi Visser is a veteran macro investor with 30+ years of experience and the author of the VisserLabs Substack. In this ...
-
-📺 Anthony Pompliano
-
-👁️ 68K • 👍 2K • 💬 70 • ⏱️ 53:31 • 2d ago
+👁️ 14K • 👍 672 • 💬 240 • ⏱️ 1:01:29 • 8h ago
 
 ---
 
@@ -401,27 +359,67 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 392 • 💬 55 • ⏱️ 15:51 • 1d ago
+👁️ 12K • 👍 398 • 💬 55 • ⏱️ 15:51 • 1d ago
 
 ---
 
-**[$67,000 Breaks Or Bitcoin CRASHES HARD! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=DJKHKFP1ivc)**
+**[Why Wall Street Is Throwing Billions at AI Instead of Bitcoin](https://www.youtube.com/watch?v=gKneRl8rnxI)**
 
-Bitcoin Must Break $67000… Or It Crashes In this video I break down why the $67000 level is critical right now. We cover: • Why ...
+Natalie Brunell talks with MARA Chairman and CEO Fred Thiel about why investors and Bitcoin miners alike are rotating into ...
 
-📺 Crypto Jebb
+📺 Natalie Brunell
 
-👁️ 587 • 👍 103 • 💬 76 • ⏱️ 11:50 • 3h ago
+👁️ 992 • 👍 41 • 💬 199 • ⏱️ 1:16 • 4h ago
 
 ---
 
-**[Bitcoin&#39;s About to Make a Fool Out of Everyone!](https://www.youtube.com/watch?v=EbR8__e79sc)**
+**[&quot;CLARITY IS HERE! This Week Will Be SUPER BULLISH for Bitcoin &amp; Crypto!&quot; | Jordi Visser](https://www.youtube.com/watch?v=lMWIkAuVZCI)**
 
-Crypto has been through another wave of bad news, yet the market is reacting very differently than it did in previous cycles.
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Crypto Banter
+📺 Savvy Finance
 
-👁️ 12K • 👍 963 • 💬 23 • ⏱️ 30:54 • 7h ago
+👁️ 6K • 👍 274 • 💬 21 • ⏱️ 16:32 • 1d ago
+
+---
+
+**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=lfYYC7qxDQ8)**
+
+Let's provide an update to Bitcoin and its bear market resistance band, Come to the 1st ITC Conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 71K • 👍 4K • 💬 188 • ⏱️ 8:59 • 20h ago
+
+---
+
+**[Bitcoin&#39;s Bear Market Ending? Bull Case in Clarity Act &amp; Fed](https://www.youtube.com/watch?v=WoU8f6QTdvo)**
+
+Sam Callahan explains how inflation, Federal Reserve policy, and rising government spending could shape Bitcoin's future and ...
+
+📺 Schwab Network
+
+👁️ 16K • 👍 198 • 💬 39 • ⏱️ 8:04 • 1d ago
+
+---
+
+**[Bitcoin Could Hit $1 Million If This Crisis Gets Worse](https://www.youtube.com/watch?v=qxVV1NpsJ5U)**
+
+Could Bitcoin reach $1 million? Maybe, but the path matters. This episode explores how an energy crisis, supply chain disruptions ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 181 • ⏱️ 21:12 • 1d ago
+
+---
+
+**[$5M Bitcoin Detonates - Saylor Just Made His Move](https://www.youtube.com/watch?v=uBSxApoRG2M)**
+
+Subscribe before Michael Saylor buys more Bitcoin. Michael Saylor isn't just buying more Bitcoin. He's changing the game.
+
+📺 Bitcoin News Alerts
+
+👁️ 5K • 👍 305 • 💬 144 • ⏱️ 17:59 • 1d ago
 
 ---
 

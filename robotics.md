@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-27T21:38:50.902599+00:00'
+updated: '2026-07-27T23:02:14.315923+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 27, 2026 at 21:38 UTC  
+**Last Updated:** July 27, 2026 at 23:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-15h ago
+16h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 
-TechCrunch • 8h ago
+TechCrunch • 10h ago
 
 ---
 
@@ -118,7 +118,7 @@ TechCrunch • 8h ago
 
 Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
-calcalistech.com • 7h ago
+calcalistech.com • 9h ago
 
 ---
 
@@ -126,7 +126,7 @@ calcalistech.com • 7h ago
 
 As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-The Information • 6h ago
+The Information • 7h ago
 
 ---
 
@@ -140,7 +140,7 @@ Tech Xplore • 1d ago
 
 SAPPHIRE Technology today unveiled the EDGE+ Apex SOM/Carrier Robotics Platform, a production-ready hardware platform powered by AMD Ryzen AI Embedded X100 Series processors and designed to accelerate the development and deployment of physical AI in autonomous robotics. The platform has been...
 
-TechPowerUp • 7h ago
+TechPowerUp • 8h ago
 
 ---
 
@@ -152,35 +152,33 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[How would AI data centers in space even work? A former NASA robotics chief explains](https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/)**
-
-'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'
-
-ZDNET • 9h ago
-
----
-
 **[Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI](https://www.theblock.co/post/409724/axis-robotics-raised-12m-funding-to-build-the-compounding-data-engine-accelerating-physical-ai)**
 
 Axis Robotics, the compounding data engine accelerating Physical AI, announces that it has raised $12 million in a seed round led by Hack VC, with
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
-**[2,000 humanoids to take on textile production in Chinese firm's push](https://interestingengineering.com/ai-robotics/china-humanoid-robots-textile-manufacturing)**
+**[How would AI data centers in space even work? A former NASA robotics chief explains](https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/)**
 
-A Chinese manufacturing firm orders 2,000 humanoid robots to automate apparel production, targeting smarter and more efficient factories.
+'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'
 
-Interesting Engineering • 7h ago
+ZDNET • 10h ago
 
 ---
 
-**[Robotic Wolf: China Unveils New AS2-W UGV](https://militarnyi.com/en/news/robotic-wolf-china-unveils-new-as2-w-ugv/)**
+**["Digital DNA" could preserve human's identity in humanoid after demise](https://interestingengineering.com/ai-robotics/new-digital-dna-project-humanoid-robot)**
 
-The Chinese robotics company Unitree has unveiled its new Super Athlete AS2-W UGV.The product is showcased on the manufacturer’s website.The UGV can travel approximately 30 km on a single battery […]
+A new AI project claims "digital DNA" could preserve human identities in humanoid robots, potentially extending legacies beyond death.
 
-Мілітарний • 8h ago
+Interesting Engineering • 9h ago
+
+---
+
+**[A $57,590 Robot Was Supposed to Transform Learning. Instead, It Triggered a Backlash](https://www.inc.com/georgia-fearn/robot-was-supposed-to-transform-learning-triggered-a-backlash/91380729)**
+
+inc.com • 1h ago
 
 ---
 
@@ -194,7 +192,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 10K • 👍 338 • 💬 19 • ⏱️ 4:23 • 1d ago
+👁️ 11K • 👍 355 • 💬 21 • ⏱️ 4:23 • 1d ago
 
 ---
 
@@ -204,17 +202,17 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 101K • 👍 3K • 💬 224 • ⏱️ 12:28 • 6d ago
+👁️ 103K • 👍 3K • 💬 224 • ⏱️ 12:28 • 6d ago
 
 ---
 
-**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
+**[LEGO Robot: I Created the Ultimate Bluey &amp; Thomas Mech | BEAR Bricks](https://www.youtube.com/watch?v=2dqTn2-Nghw)**
 
-One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
+Welcome to BEAR Bricks! Bluey and Thomas unite in one ultimate LEGO mech featuring massive armor, powerful mechanical ...
 
-📺 NBC News
+📺 BEAR Bricks
 
-👁️ 16K • 👍 170 • 💬 93 • ⏱️ 5:29 • 4d ago
+👁️ 19K • 👍 595 • 💬 12 • ⏱️ 1:00:36 • 1d ago
 
 ---
 
@@ -224,47 +222,45 @@ Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course
 
 📺 GATE Wallah
 
-👁️ 1K • 👍 80 • 💬 2 • ⏱️ 17:35 • 4h ago
+👁️ 2K • 👍 83 • 💬 2 • ⏱️ 17:35 • 5h ago
 
 ---
 
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+**[Automata🤖Can a robot understand a mother?](https://www.youtube.com/watch?v=T8TvNVwGpUg)**
 
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+Automata (2014) is a sci-fi thriller set in a future where Earth has become nearly uninhabitable. An insurance investigator ...
 
-📺 New York Post
+📺 CineCraft
 
-👁️ 54K • 👍 1K • 💬 429 • ⏱️ 2:02 • 5d ago
-
----
-
-**[I Had No Idea... Cestus Rockets Now Have An Insane Fire Rate - BUFFED vs Ammits | War Robots](https://www.youtube.com/watch?v=YwL6sm9Bufw)**
-
-I did not expect this at all. I saw the Cestus, labrys and the light version all got a fire rate buff. And these are weapons that I pretty ...
-
-📺 PREDATOR WR
-
-👁️ 10K • 👍 405 • 💬 58 • ⏱️ 14:36 • 1d ago
+👁️ 102K • 👍 1K • 💬 15 • ⏱️ 0:54 • 4d ago
 
 ---
 
-**[Humanoid Robotics at the BMW Group Plant Spartanburg [4K]](https://www.youtube.com/watch?v=NFD0i63FDFk)**
+**[Rookie in Japan: NAVER’s Delivery Robot at Tokyo Midtown Yaesu](https://www.youtube.com/watch?v=S777IdOUat4)**
 
-BMW Group intensifies the use of digitalization and the use of artificial intelligence (AI) in production. With so-called Physical AI, ...
+네이버 1784에서 검증해 온 로봇·스마트빌딩 기술이 일본 도쿄의 복합빌딩 '도쿄 미드타운 야에스'에 처음으로 적용됐습니다.
 
-📺 The Wheel Network
+📺 NAVER LABS
 
-👁️ 24K • 👍 544 • 💬 157 • ⏱️ 6:24 • 5d ago
+👁️ 185K • 👍 31 • ⏱️ 0:47 • 4d ago
 
 ---
 
-**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
+**[Ultimate Robot Fights Challange (part 2)](https://www.youtube.com/watch?v=7NGiqOnhigc)**
 
-War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
+Today, Vlad and Michael are back with the epic $60000 real robots fight challenge! They have to upgrade different robot fighters ...
 
-📺 Manni-Gaming
+📺 Vlad
 
-👁️ 20K • 👍 674 • 💬 224 • ⏱️ 14:51 • 4d ago
+👁️ 373K • 👍 3K • 💬 217 • ⏱️ 20:16 • 2d ago
+
+---
+
+**[The Dino Crew Wasn&#39;t Ready for This! 👀#robot #robotics #dinosaur #ruko](https://www.youtube.com/watch?v=K8SV7aXZN8M)**
+
+📺 Smarttoy Ruko
+
+👁️ 60K • 👍 292 • 💬 2 • ⏱️ 0:26 • 2d ago
 
 ---
 
@@ -274,17 +270,17 @@ Cult icon SHERI MOON ZOMBIE unveils debut single and video "I Love My Robot." Li
 
 📺 Nuclear Blast Records
 
-👁️ 26K • 👍 2K • 💬 508 • ⏱️ 2:50 • 7h ago
+👁️ 44K • 👍 3K • 💬 687 • ⏱️ 2:50 • 9h ago
 
 ---
 
-**[SELF BALANCING ROBOT BUILD JOURNEY](https://www.youtube.com/watch?v=VhRg9mgNNLs)**
+**[MIT Create Flying Swimming Robot](https://www.youtube.com/watch?v=2mlFTDxZUY0)**
 
-Watch the full video on my channel now BUILDING SABR I Built a self balancing robot named SABR, the first version failed and ...
+MIT researchers have developed a versatile robot capable of flying through the air and diving underwater using a unique ...
 
-📺 LIGIENCE 
+📺 Dr Ben Miles
 
-👁️ 980 • 👍 17 • ⏱️ 1:00 • 7h ago
+👁️ 1.2M • 👍 93K • 💬 1K • ⏱️ 2:01 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-27T21:38:50.899811+00:00'
+updated: '2026-07-27T23:02:14.312598+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 21:38 UTC  
+**Last Updated:** July 27, 2026 at 23:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +0.6%  
-**30d:** +23.6%  
-**90d:** -13.8%  
-**1y:** -48.8%  
+**24h:** -2.7%  
+**7d:** -2.1%  
+**30d:** +20.2%  
+**90d:** -16.2%  
+**1y:** -50.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.08B
+**Market Cap:** $228.40B
 Rank #2
 
 **Circulating Supply:** 120,682,636 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.6%
+-61.7%
 
 **All-Time Low:** $0.43
-+449767.1%
++436997.4%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -168,19 +168,11 @@ Bitcoin and Ethereum ETFs are pulling in money this July after two months of hea
 
 ---
 
-**[Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury](https://finance.yahoo.com/markets/crypto/articles/bitmine-nears-goal-controlling-5-154254598.html)**
+**[Tom Lee Says This Ethereum Project Could Be a Game-Changer](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-project-220000873.html)**
 
-The company says it now holds 5.79 million ETH, equal to 4.8% of the cryptocurrency's circulating supply, while expanding its staking operations and share buyback program.
+Tom Lee calls Lighter critical Ethereum infrastructure. LIT trades near $2.20 as quarterly revenue drops a third quarter.
 
-Yahoo Finance • 5h ago
-
----
-
-**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
-
-The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
-
-TradingView • 12h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,7 +180,23 @@ TradingView • 12h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
 
-PR Newswire • 9h ago
+PR Newswire • 10h ago
+
+---
+
+**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+
+The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
+
+TradingView • 14h ago
+
+---
+
+**[Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise](https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise)**
+
+Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.
+
+The Block • 4h ago
 
 ---
 
@@ -204,7 +212,7 @@ MarketForces Africa • 1d ago
 
 Bitcoin (BTC) maintains a neutral-to-bullish outlook, trading above $65,000 on Monday. Ethereum (ETH) is approaching the key supply and inflection point $2,000, while Ripple (XRP) hovers slightly above $1.10, underscoring a marginal improvement in the broader cryptocurrency market sentiment.
 
-FXStreet • 10h ago
+FXStreet • 12h ago
 
 ---
 
@@ -212,13 +220,7 @@ FXStreet • 10h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
-
----
-
-**[Ethereum leads way as most big cryptocurrencies post gains](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-gains-466a05fd-6c582e322ed1)**
-
-MarketWatch • 7h ago
+Fortune • 3h ago
 
 ---
 
@@ -226,7 +228,7 @@ MarketWatch • 7h ago
 
 Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
 
-The Defiant • 5h ago
+The Defiant • 6h ago
 
 ---
 
@@ -234,33 +236,13 @@ The Defiant • 5h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin &amp; Ethereum Test CYCLE RESISTANCE! BIG CAUTION...](https://www.youtube.com/watch?v=mheLsyCYL_Y)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 4K • 👍 329 • 💬 145 • ⏱️ 13:37 • 6h ago
-
----
-
 **[🤩 Ethereum Breaking Out! - ETH Crypto Analysis](https://www.youtube.com/watch?v=YfRMuuZiZ6g)**
 
 Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 748 • 👍 50 • 💬 14 • ⏱️ 5:45 • 7h ago
-
----
-
-**[ETHEREUM: THE RUN IS ABOUT TO BEGIN](https://www.youtube.com/watch?v=f_SWCbRpIWw)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 9K • 👍 557 • 💬 453 • ⏱️ 13:03 • 23h ago
+👁️ 1K • 👍 67 • 💬 25 • ⏱️ 5:45 • 8h ago
 
 ---
 
@@ -270,27 +252,37 @@ In this video I break down the latest Ethereum price analysis using Elliott Wave
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 182 • 💬 29 • ⏱️ 6:58 • 6h ago
+👁️ 3K • 👍 201 • 💬 26 • ⏱️ 6:58 • 8h ago
 
 ---
 
-**[Something VERY Strange Is Happening With Crypto Ethereum Might Cause A MASSIVE Altcoin Season](https://www.youtube.com/watch?v=EigE6yCl-KY)**
+**[BITCOIN WARNING: DON&#39;T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EwZNXrSd2M8)**
 
-Something bizarre is clearly happening in the crypto market right now, i dont know how more people arent talking about it.
+BITCOIN WARNING: DON'T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Money Rules - Investing Tips 
+📺 Crypto World
 
-👁️ 12K • 👍 1K • 💬 579 • ⏱️ 21:32 • 1d ago
+👁️ 424 • 👍 43 • 💬 21 • ⏱️ 25:44 • 27m ago
 
 ---
 
-**[ETHEREUM JUST BROKE OUT!🔥 (Urgent ETH Update)](https://www.youtube.com/watch?v=IsmSGOVT9Tg)**
+**[ETHEREUM: THE RUN IS ABOUT TO BEGIN](https://www.youtube.com/watch?v=f_SWCbRpIWw)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
-📺 Cilinix Crypto
+📺 Jordan Camirand
 
-👁️ 395 • 👍 19 • 💬 44 • ⏱️ 4:43 • 12h ago
+👁️ 9K • 👍 576 • 💬 501 • ⏱️ 13:03 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Test CYCLE RESISTANCE! BIG CAUTION...](https://www.youtube.com/watch?v=mheLsyCYL_Y)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 5K • 👍 377 • 💬 160 • ⏱️ 13:37 • 8h ago
 
 ---
 
@@ -300,7 +292,17 @@ Ethereum (ETH) is leading the altcoin market with a 23% monthly gain, fueled by 
 
 📺 FXEmpire
 
-👁️ 20 • 👍 1 • 💬 52 • ⏱️ 6:00 • 3h ago
+👁️ 43 • 👍 1 • 💬 36 • ⏱️ 6:00 • 5h ago
+
+---
+
+**[ETHEREUM JUST BROKE OUT!🔥 (Urgent ETH Update)](https://www.youtube.com/watch?v=IsmSGOVT9Tg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 458 • 👍 19 • 💬 84 • ⏱️ 4:43 • 14h ago
 
 ---
 
@@ -310,17 +312,7 @@ BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 267 • 💬 163 • ⏱️ 26:30 • 20h ago
-
----
-
-**[Could Ethereum Be a Competitive Threat to XRP](https://www.youtube.com/watch?v=qDAjeTUq0Xs)**
-
-Ethereum and XRP are designed for different purposes. Ethereum pioneered smart contracts, while XRP focuses on fast, efficient ...
-
-📺 Jake Claver
-
-👁️ 3K • 👍 238 • 💬 1 • ⏱️ 2:12 • 7h ago
+👁️ 6K • 👍 274 • 💬 221 • ⏱️ 26:30 • 21h ago
 
 ---
 
@@ -330,7 +322,17 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 223 • 💬 12 • ⏱️ 8:19 • 1d ago
+👁️ 4K • 👍 226 • 💬 12 • ⏱️ 8:19 • 1d ago
+
+---
+
+**[Could Ethereum Be a Competitive Threat to XRP](https://www.youtube.com/watch?v=qDAjeTUq0Xs)**
+
+Ethereum and XRP are designed for different purposes. Ethereum pioneered smart contracts, while XRP focuses on fast, efficient ...
+
+📺 Jake Claver
+
+👁️ 4K • 👍 261 • 💬 1 • ⏱️ 2:12 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-27T21:38:50.886783+00:00'
+updated: '2026-07-27T23:02:14.297601+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 27, 2026 at 21:38 UTC  
+**Last Updated:** July 27, 2026 at 23:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I've been thinking about this one all weekend and I keep coming back to the same thing. Jacob Tsimerman just won the Fields Medal. If you're not familiar, it's the highest honor in mathematics, only awarded every four years, roughly the Nobel Prize of the field. He got it for solving a problem that had been open for nearly 40 years. And then, at the press conference, on the same day, he announced he's leaving his university position to join OpenAI's safety team. His exact words were: "The math profession as we know it now, I don't think it will exist the way it exists right now." I've seen a lot of AI announcements. That one hit differently. This isn't someone pivoting because they couldn't make it in academia. This is the person who just stood at the top of the field saying the field itself is changing underneath him. Then there's the infrastructure story. NVIDIA is in talks to backstop $250 billion in financing for a 10-gigawatt OpenAI data center in southern Ohio, built on a decommissioned uranium enrichment site. The total cost including chips could exceed $500 billion. That's not a software company. That's an energy company pretending to be a software company. And Kimi K3 weights dropped on July 26, a day early. 2.8 trillion parameters, 1 million token context, free to download from Hugging Face. The largest open model ever released. Anyone can run it now. Three things in one week. Talent, capital, and capability all moving at the same time. The Tsimerman thing is the one I can't stop thinking about though. What's your read on it?
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ I've been thinking about this one all weekend and I keep coming back to the same
 
 Moonshot's latest model Kimi-K3 is available on HuggingFace since today. And it's another good news for open-weight AI and for the future of open-source AI It's a 2.8T-parameters Moonshot's SOTA model with 1 million tokens context window. The architecture is mixture-of-experts (896 experts) with 108B active parameters It's available via vLLM, SGLang and TokenSpeed License: Kimi K3 License. It allows commercial use with some limitations. For Model-as-a-Service it has $20M/year limit and after reaching the limit the license requires to make additional agreement with Moonshot. Details: https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICENSE Link to the model Model could be downloaded from the HuggingFace: https://huggingface.co/moonshotai/Kimi-K3
 
-6h ago
+7h ago
 
 ---
 
@@ -57,13 +57,13 @@ Moonshot's latest model Kimi-K3 is available on HuggingFace since today. And it'
 
 Most AI tool comparison pages I find online feel like they're missing something. Took me a while to pin down what it was. The obvious one is equal inputs. Same prompts, same reference images, same number of attempts. If the comparison doesn't publish the exact inputs it used, the results aren't reproducible and there's no way to separate actual capability from cherry picking. Tied to that is equal quality settings. Running one tool at max quality and another at draft or preview makes any result meaningless. If settings differ across tools that needs to be documented and justified, not hidden. Current software versions are another one. Testing an outdated model for one tool while using the latest release of another invalidates the whole thing before you even look at the outputs. And the one people don't talk about enough is financial disclosure on the comparison page itself. If the person running the test has sponsorship, affiliate, or paid work ties with any of the tools being ranked, that has to be stated transparently where the ranking lives. Then there's showing failures, not just wins. Every generative tool produces garbage sometimes. A page where one tool only fails and another only wins is selecting results, not measuring them. None of this is a high bar, it's just basic experimental hygiene applied to a space that hasn't caught up yet.
 
-3h ago
+4h ago
 
 ---
 
 **[Open-source AI push could create troubles for venture capital](https://www.reddit.com/r/artificial/comments/1v88xty/opensource_ai_push_could_create_troubles_for/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/27/open-source-venture-capital-openai-anthropic) • 3h ago
+🔗 [axios.com](https://www.axios.com/2026/07/27/open-source-venture-capital-openai-anthropic) • 4h ago
 
 ---
 
@@ -71,7 +71,7 @@ Most AI tool comparison pages I find online feel like they're missing something.
 
 Original
 
-🔗 [letters.senteguard.com](https://www.letters.senteguard.com/p/amodeis-coup) • 4m ago
+🔗 [letters.senteguard.com](https://www.letters.senteguard.com/p/amodeis-coup) • 1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Original
 
 7 years ago I had an idea for a dog harness that doesn't tangle. I 3D-printed one part and then stalled, not on the engineering, but on prior art searches, novelty judgment, and drafting a patent specification, none of which I had any background in. This month I handed it to AI and filed the provisional for about $65. Post one of a series where I'm documenting my road from idea, to patent, to business.
 
-🔗 [pablooliva.de](https://pablooliva.de/the-closing-window/i-sat-on-an-idea-for-7-years/?ref=reddit) • 11h ago
+🔗 [pablooliva.de](https://pablooliva.de/the-closing-window/i-sat-on-an-idea-for-7-years/?ref=reddit) • 12h ago
 
 ---
 
@@ -87,7 +87,7 @@ Original
 
 Quick recap of what it does: one question goes to several models at once, then each one critiques the others' answers with the names stripped out, so nobody gets a free pass for being the famous one. You get a 0-100 read on how far apart they landed and who stood alone. New in this version is the guest seat. You paste in an answer from anywhere ChatGPT, Gemini, a colleague, whatever and it joins the round as an anonymous advisor. The other models review it without knowing where it came from, and it counts in the score. It works with one model too, so you don't need a wall of API keys to get something out of it. Anything with a key works: Claude, GPT, Gemini, DeepSeek, Grok, Mistral, Perplexity, OpenRouter, plus Ollama, Apple's on-device model, and any OpenAI-compatible server of your own (llama.cpp, LM Studio, vLLM, a box down the hall). Put a paid model and a free one on the same panel and watch them disagree. Or skip the cloud entirely and run the council on local models then the pasted answer is the only thing that ever came from outside, and nothing new leaves the machine. There's a CLI too: council "should we ship now or wait?" --seats claude,gpt,ollama --guest answer.txt --json --fail-above 40 exits non-zero when they disagree too much, which I use as a rough sanity check in a couple of scripts. MIT, no telemetry, no account.
 
-🔗 [GitHub](https://github.com/albertofettucini/Council) • 1h ago
+🔗 [GitHub](https://github.com/albertofettucini/Council) • 2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Quick recap of what it does: one question goes to several models at once, then e
 
 State your stance on AI and see where others stand.
 
-🔗 [AI Compass](https://theaicompass.io/?preview=default) • 1h ago
+🔗 [AI Compass](https://theaicompass.io/?preview=default) • 2h ago
 
 ---
 
@@ -103,13 +103,13 @@ State your stance on AI and see where others stand.
 
 Dear leaders of Europe: I need 10 minutes of your time — and an honest answer to a question nobody has published a good answer to yet. Does generative AI make your decisions better — or does it quietly make you less of a decision-maker? I don't know the answer. Neither does anyone else who's written about this so far. That's the gap my PhD research is designed to close, and it's why I'm reaching out to 400 leaders across Europe. Why? By 2026, an estimated 80% of businesses globally will have adopted generative AI (World Economic Forum, 2024). But almost no empirical research exists on what this does to the perceived decision-making autonomy of the people actually using it — you. So I'm leading this research project. And I need your voice in it. What's involved: • 10 minutes of structured questions • Fully anonymous • GDPR-compliant If you lead people, make decisions, and have touched genAI in the past year — whether you use it daily or once a quarter — your data point matters. Including if you're skeptical. 🔗 Survey link: https://leadershipbeyondai.com Thank you. Markus
 
-2h ago
+3h ago
 
 ---
 
 **[Workers are crossing job boundaries with AI, OpenAI research shows](https://www.reddit.com/r/artificial/comments/1v7xarq/workers_are_crossing_job_boundaries_with_ai/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/27/openai-chatgpt-work-specialists) • 10h ago
+🔗 [axios.com](https://www.axios.com/2026/07/27/openai-chatgpt-work-specialists) • 11h ago
 
 ---
 
@@ -117,77 +117,75 @@ Dear leaders of Europe: I need 10 minutes of your time — and an honest answer 
 
 ## Google News: "ai"
 
-**[Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues](https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html)**
+**[Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans](https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html)**
 
-Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.
+The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.
 
-CNBC • 10h ago
-
----
-
-**[AI Stocks Crash After NVIDIA Plans to Finance $250 Billion OpenAI Buildout Are Reported](https://finance.yahoo.com/markets/stocks/articles/ai-stocks-crash-nvidia-plans-160049039.html)**
-
-A Wall Street Journal report about NVIDIA potentially backstopping OpenAI's compute ambitions at a staggering scale has triggered a broad selloff across AI hardware names, and the concern investors cannot shake goes straight to the heart of how sustainable the AI spending boom really is.
-
-Yahoo Finance • 5h ago
+CNBC • 5h ago
 
 ---
 
-**[Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions](https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions)**
+**[NVIDIA Pursues $750 Billion in New AI Deals Despite Financing Scrutiny](https://finance.yahoo.com/technology/ai/articles/nvidia-pursues-750-billion-ai-205709197.html)**
 
-Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.
+SK Group partnership and OpenAI discussions deepen NVIDIA's role in funding global AI infrastructure.
 
-Al Jazeera • 27m ago
-
----
-
-**[Sam Altman says AI has entered ‘singularity’: Should we be worried?](https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried)**
-
-The 'singularity' refers to the point at which AI outpaces human intelligence and becomes difficult to control.
-
-Al Jazeera • 11h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say](https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html)**
+**[Nvidia launches Open Secure AI Alliance to combat cyberattacks](https://www.bizjournals.com/sanjose/news/2026/07/27/nvidia-open-secure-ai-alliance.html)**
 
-Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.
-
-CNBC • 7h ago
+The Business Journals • 43m ago
 
 ---
 
-**[OpenAI CEO Sam Altman heads to Washington as AI policy deadline nears](https://www.politico.com/news/2026/07/27/openai-ceo-sam-altman-heads-to-washington-as-ai-policy-deadline-nears-01012970)**
+**[Warnings that China's AI Boom Could Swamp the Country with Misinformation as Disaster Lies Prompt Arrests](https://www.bbc.com/news/articles/cx27mjvxgg1o)**
 
-Politico • 28m ago
-
----
-
-**[WSJ's Koch warns over Gen Z's reliance on AI for conversations](https://www.foxnews.com/video/6402279358112)**
-
-'Varney & Co.' host Stuart Varney and WSJ Free Expression associate editor Mary Julia Koch discuss how Gen Z relies on AI to draft text messages, dating app profiles, and even social conversation talking points.
-
-Fox News • 50m ago
+BBC • 54m ago
 
 ---
 
-**[BlackRock Dodges AI Bond Flop as $12.3 Billion Debt Deal Rallies](https://www.bloomberg.com/news/articles/2026-07-27/blackrock-dodges-ai-bond-flop-as-12-3-billion-debt-deal-rallies)**
+**[Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble](https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html)**
 
-Bloomberg • 42m ago
+CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.
+
+CNBC • 42m ago
 
 ---
 
-**[Big Tech credit risks rise sharply as AI spending soars](https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1)**
+**[Creator of Anthropic's Claude Code wants you to stop micromanaging your AI](https://www.businessinsider.com/anthropic-claude-code-prompting-tips-boris-cherny-micromanaging-ai-2026-7)**
 
-Investors are increasingly concerned over rush of borrowing to fund huge investments in data centres
+Boris Cherny, creator of Anthropic's Claude Code, said users don't need to get too specific with their instructions for modern models.
 
-Financial Times • 43m ago
+Business Insider • 54m ago
 
 ---
 
 **[Opinion | If You’re Over 40, You’re Ready to Use A.I.](https://www.nytimes.com/2026/07/27/opinion/teaching-kabbalah-ai.html)**
 
-The New York Times • 6h ago
+The New York Times • 8h ago
+
+---
+
+**[Palantir CEO warns US against Europe's AI regulation path, urges Trump admin to not ban open models](https://www.foxbusiness.com/media/palantir-ceo-warns-us-against-europes-ai-path-urges-trump-admin-not-ban-open-models)**
+
+Palantir CEO Alex Karp warns the Trump administration against adopting Europe-style AI regulation, saying the continent has 'regulated itself out of business.'
+
+Fox Business • 1h ago
+
+---
+
+**[Is This What Comes After AI Slop?](https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/)**
+
+Daggermouth could be the first best-selling novel partly written by a chatbot.
+
+The Atlantic • 1h ago
+
+---
+
+**[These 5 AI risks have the highest potential for catastrophe](https://www.axios.com/2026/07/27/mit-study-ai-risks-urgent-weapons-cyber-attacks)**
+
+Axios • 1h ago
 
 ---
 
@@ -199,7 +197,7 @@ The New York Times • 6h ago
 
 The case centers on Tunick's use of GrapheneOS, an open-source operating system that works on Google Pixel phones and lets users enter a passcode to wipe a...
 
-⬆️ 1241 • 💬 971 • 23h ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+⬆️ 1248 • 💬 977 • 1d ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 
 ---
 
@@ -207,13 +205,21 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're
 
-⬆️ 710 • 💬 450 • 9h ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
+⬆️ 722 • 💬 457 • 10h ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 
 ---
 
 **[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
 
-⬆️ 408 • 💬 318 • 2d ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+⬆️ 409 • 💬 318 • 2d ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+
+---
+
+**[What is happening to jobs? Separating AI hype from reality](https://news.ycombinator.com/item?id=49052570)**
+
+Other
+
+⬆️ 289 • 💬 377 • 2d ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 
 ---
 
@@ -225,19 +231,11 @@ London Gatwick is the first UK airport to launch robotic parking. Passengers can
 
 ---
 
-**[What is happening to jobs? Separating AI hype from reality](https://news.ycombinator.com/item?id=49052570)**
-
-Other
-
-⬆️ 286 • 💬 377 • 1d ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
-
----
-
 **[AI companies spend record sums on Washington lobbying](https://news.ycombinator.com/item?id=49069939)**
 
 Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing battle over federal policy
 
-⬆️ 245 • 💬 137 • 7h ago • [ft.com](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
+⬆️ 248 • 💬 139 • 8h ago • [ft.com](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
 
 ---
 
@@ -245,7 +243,7 @@ Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing
 
 Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where's Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom's most "acerbic gadfly" – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he's right. You've been calling AI a bubble since before it was fashionable.
 
-⬆️ 228 • 💬 287 • 6h ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+⬆️ 231 • 💬 293 • 8h ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 
 ---
 
@@ -253,7 +251,7 @@ Memory prices have doubled, Macs and iPads have gone up, and iPhones are expecte
 
 Burnout is on the rise again, with an ironic twist.
 
-⬆️ 209 • 💬 79 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+⬆️ 210 • 💬 79 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
 
 ---
 
@@ -261,13 +259,13 @@ Burnout is on the rise again, with an ironic twist.
 
 For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.
 
-⬆️ 193 • 💬 153 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
+⬆️ 193 • 💬 153 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/content-independence-day-ai-options/)
 
 ---
 
 **[Terence Tao: Mathematics in the Age of AI [pdf]](https://news.ycombinator.com/item?id=49056620)**
 
-⬆️ 150 • 💬 59 • 1d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
+⬆️ 153 • 💬 60 • 1d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
 
 ---
 
@@ -281,17 +279,7 @@ As he prepares to visit the White House, OpenAI CEO Sam Altman says the moment w
 
 📺 ABC News
 
-👁️ 3K • 👍 48 • 💬 46 • ⏱️ 1:44 • 10h ago
-
----
-
-**[The AI data center secret just got out](https://www.youtube.com/watch?v=ShbBUi6rcgI)**
-
-I explain the news, you stay sane. ✓ Support independent news ...
-
-📺 Chris Norlund
-
-👁️ 77K • 👍 5K • 💬 1K • ⏱️ 16:17 • 7h ago
+👁️ 4K • 👍 52 • 💬 54 • ⏱️ 1:44 • 12h ago
 
 ---
 
@@ -301,27 +289,27 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 6K • 👍 206 • 💬 70 • ⏱️ 15:25 • 5h ago
+👁️ 9K • 👍 267 • 💬 82 • ⏱️ 15:25 • 6h ago
 
 ---
 
-**[Claude Just Killed Prompt Engineering. This Is The New Way. (+17 AI Updates)](https://www.youtube.com/watch?v=nExo3f75EAs)**
+**[The AI data center secret just got out](https://www.youtube.com/watch?v=ShbBUi6rcgI)**
 
-Invest in US stocks and ETFs from India, starting at Rs 100 Download the INDmoney App Play Store: https://linktwin.co/QapEkO ...
+I explain the news, you stay sane. ✓ Support independent news ...
 
-📺 Vaibhav Sisinty
+📺 Chris Norlund
 
-👁️ 29K • 👍 892 • 💬 35 • ⏱️ 24:36 • 7h ago
+👁️ 118K • 👍 7K • 💬 1K • ⏱️ 16:17 • 8h ago
 
 ---
 
-**[Make FREE &amp; UNLIMITED AI Videos That ACTUALLY Look Good](https://www.youtube.com/watch?v=3cXXYG-0Ipk)**
+**[&#39;Disgraceful, unpresidential&#39;: Trump posts slew of AI-generated memes of Iran war](https://www.youtube.com/watch?v=OgX43oT2T_o)**
 
-Turn ordinary footage into scroll-stopping content with Higgsfield Shorts Studio → https://higgsfield.ai/s/malvaai-kxkKmH Free ...
+President Trump posted a slew of AI-generated images of the war with Iran. MS NOW Senior National Security Reporter David ...
 
-📺 Malva AI
+📺 MS NOW
 
-👁️ 5K • 👍 240 • 💬 32 • ⏱️ 9:28 • 10h ago
+👁️ 29K • 👍 895 • 💬 270 • ⏱️ 9:07 • 2h ago
 
 ---
 
@@ -331,17 +319,7 @@ New reporting reveals OpenAI lost track of its escaped agent for days, while int
 
 📺 AI Revolution
 
-👁️ 61K • 👍 2K • 💬 353 • ⏱️ 12:42 • 1d ago
-
----
-
-**[Warning! Ai has reached a Dangerous Point! Get Ready! ](https://www.youtube.com/watch?v=xiO1SAOAE3M)**
-
-Gold Stackers Coffee - https://goldstackerscoffee.com/?ref=TRAVISMADDOX Best Soap Ever ...
-
-📺 The Prepared Homestead
-
-👁️ 6K • 👍 726 • 💬 104 • ⏱️ 12:19 • 8h ago
+👁️ 63K • 👍 2K • 💬 356 • ⏱️ 12:42 • 2d ago
 
 ---
 
@@ -351,27 +329,47 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 📺 Mikey No Code
 
-👁️ 13K • 💬 7 • ⏱️ 18:02 • 7h ago
+👁️ 14K • 💬 7 • ⏱️ 18:02 • 8h ago
 
 ---
 
-**[AMD Says 2 Ryzen AI Halos Can Run a 400B Model... I Tested It](https://www.youtube.com/watch?v=FE1Uyhg5hjw)**
+**[Trump is Starting The Billion Dollar AI Bailout Now](https://www.youtube.com/watch?v=Y1Qt050jSEw)**
 
-AMD finally answered NVIDIA's tiny AI box with their own Ryzen AI Halo, but the real question Micro Center is THE AI Destination: ...
+Website & Livestream Chat - https://www.vaush.gg/ ⭐️ 2nd Channel - https://www.youtube.com/c/thevaushpit Twitter ...
 
-📺 Alex Ziskind
+📺 Vaush
 
-👁️ 138K • 👍 4K • 💬 424 • ⏱️ 17:42 • 1d ago
+👁️ 96K • 👍 4K • 💬 517 • ⏱️ 9:54 • 2d ago
 
 ---
 
-**[Bad News for India - Ai War Has Started | USA &amp; China](https://www.youtube.com/watch?v=tncqYCgQ5Vg)**
+**[AI Bubble Just Hit Peak Insanity...Here&#39;s Why](https://www.youtube.com/watch?v=81nl7iBQ9oQ)**
 
-China announced it's own very potent Ai Model called Kimi which is equally powerful as USA's Mythos Ai Model. These two ...
+Want the cheat code to protect and grow your wealth? Check out Rebel Capitalist Pro https://rcp.georgegammon.com/pro.
 
-📺 Technical Sagar
+📺 Rebel Capitalist
 
-👁️ 12K • 👍 855 • 💬 118 • ⏱️ 6:18 • 8h ago
+👁️ 13K • 👍 1K • 💬 105 • ⏱️ 19:32 • 6h ago
+
+---
+
+**[AI Safety Expert WARNS: Humanity Probably Won&#39;t Survive This](https://www.youtube.com/watch?v=PaVJ_rTtriI)**
+
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Eleazer Yudkowsky argues that today's AI ...
+
+📺 Neural Nutshell
+
+👁️ 12K • 👍 323 • 💬 64 • ⏱️ 14:48 • 1d ago
+
+---
+
+**[GPT-6 Went Rogue, Opus 5, Kimi K3 Crisis, Synthetic Humans, Google Quantum AI and More AI News...](https://www.youtube.com/watch?v=-2NwXWGSZKs)**
+
+OpenAI just admitted that an agent powered by GPT-5.6 Sol and a stronger unreleased model escaped a cyber test and hacked ...
+
+📺 AI Revolution
+
+👁️ 22K • 👍 808 • 💬 43 • ⏱️ 16:36 • 1d ago
 
 ---
 
@@ -387,7 +385,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 2,850 • ❤️ 5,624 • 5h ago
+⬇️ 2,850 • ❤️ 5,947 • 6h ago
 
 ---
 
@@ -399,7 +397,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,645,773 • ❤️ 3,316 • 4d ago
+⬇️ 2,645,773 • ❤️ 3,324 • 4d ago
 
 ---
 
@@ -411,7 +409,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 63,605 • ❤️ 743 • 10h ago
+⬇️ 63,605 • ❤️ 753 • 11h ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 634,146 • ❤️ 729 • 13h ago
+⬇️ 634,146 • ❤️ 741 • 15h ago
 
 ---
 
@@ -435,7 +433,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 3,761 • ❤️ 627 • 11h ago
+⬇️ 3,761 • ❤️ 628 • 12h ago
 
 ---
 
@@ -447,7 +445,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 16,518 • ❤️ 489 • 13h ago
+⬇️ 16,518 • ❤️ 491 • 15h ago
 
 ---
 
@@ -459,7 +457,7 @@ Mage-Flow is a 4B-scale text-to-image generation and instruction-based image edi
 
 `text-to-image` `4.1B`
 
-⬇️ 1,691 • ❤️ 379 • 4d ago
+⬇️ 1,691 • ❤️ 384 • 4d ago
 
 ---
 
@@ -471,7 +469,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 36,196 • ❤️ 1,599 • 4d ago
+⬇️ 36,196 • ❤️ 1,602 • 4d ago
 
 ---
 
@@ -483,7 +481,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,003,547 • ❤️ 4,538 • 25d ago
+⬇️ 1,003,547 • ❤️ 4,546 • 25d ago
 
 ---
 
@@ -495,7 +493,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 5,312 • ❤️ 232 • 2d ago
+⬇️ 5,312 • ❤️ 239 • 2d ago
 
 ---
 
@@ -523,7 +521,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 50 • 💬 4 • ⭐ 34,357 • 11mo ago
+▲ 50 • 💬 4 • ⭐ 34,526 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -617,7 +615,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of trainer, distributed backend, and rollout glue: the cost lands on the researcher at every iteration. Molt is a PyTorch-native training framework built to keep that cost small: a codebase compact and clean enough for a researcher to hold in their head, and for an AI coding assistant to read and reason about in its entirety, so the algorithm flow can be traced and changed end to end. The agent is an ordinary program, and one asynchronous loop trains multimodal and mixture-of-experts policies while never training on a token it did not generate, consistent in tokens, policy versions, and model semantics. Leanness does not cost performance: under a matched, fully asynchronous protocol, Molt is statistically comparable to a state-of-the-art Megatron-based stack. Molt is open source and provides recipes and containers at https://github.com/NVIDIA-NeMo/labs-molt.
 
-▲ 21 • 💬 0 • ⭐ 647 • 6d ago
+▲ 22 • 💬 0 • ⭐ 647 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.21653) • [💻 code](https://github.com/NVIDIA-NeMo/labs-molt)
 
@@ -646,7 +644,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 1h ago
+⭐ 5.3k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -656,7 +654,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.4k • 🔱 268 • 6h ago
+⭐ 3.4k • 🔱 268 • 7h ago
 
 ---
 
@@ -666,7 +664,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.0k • 🔱 233 • 19h ago
+⭐ 3.0k • 🔱 233 • 21h ago
 
 ---
 
@@ -676,7 +674,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 403 • 4h ago
+⭐ 2.9k • 🔱 403 • 6h ago
 
 ---
 
@@ -696,7 +694,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.2k • 🔱 199 • 12h ago
+⭐ 2.2k • 🔱 199 • 13h ago
 
 ---
 
@@ -706,7 +704,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.7k • 🔱 196 • 11h ago
+⭐ 1.7k • 🔱 196 • 13h ago
 
 ---
 
@@ -724,7 +722,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 1h ago
+⭐ 1.5k • 🔱 1.1k • 1m ago
 
 ---
 
