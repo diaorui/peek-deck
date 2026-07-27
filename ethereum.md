@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-27T16:20:21.553594+00:00'
+updated: '2026-07-27T18:05:15.534157+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 16:20 UTC  
+**Last Updated:** July 27, 2026 at 18:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,928.87
+### $1,936.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -0.2%  
-**30d:** +22.5%  
-**90d:** -14.6%  
-**1y:** -49.2%  
+**24h:** +1.6%  
+**7d:** +0.7%  
+**30d:** +23.7%  
+**90d:** -13.7%  
+**1y:** -48.8%  
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -168,25 +168,27 @@ Bitcoin and Ethereum ETFs are pulling in money this July after two months of hea
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.79 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-79-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302834876.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
-
-PR Newswire • 3h ago
-
----
-
 **[Bitmine Buys Another 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-10-000-133500535.html)**
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased another 10,000 Ethereum (CRYPTO: $ETH) over the past week.&n...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Ethereum leads way as most big cryptocurrencies post gains](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-gains-466a05fd-6c582e322ed1)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.79 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-79-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302834876.html)**
 
-MarketWatch • 2h ago
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
+
+PR Newswire • 5h ago
+
+---
+
+**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+
+The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
+
+TradingView • 9h ago
 
 ---
 
@@ -198,11 +200,17 @@ MarketForces Africa • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Soar as CLARITY Act Edges Closer, but Will a Fed Hike End the Rally?](https://coinmarketcap.com/academy/article/btc-eth-soar-clarity-act-fed-hike-end-rally)**
+**[Ethereum leads way as most big cryptocurrencies post gains](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-gains-466a05fd-6c582e322ed1)**
 
-The US Senate moved closer to a key vote on the CLARITY Act, and crypto markets rallied as a result. Will the BTC and ETH rally continue for another week?
+MarketWatch • 4h ago
 
-CoinMarketCap • 20h ago
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP hold key support as US and Iran agree to halt strikes](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-key-support-as-us-and-iran-agree-to-halt-strikes-202607271100)**
+
+Bitcoin (BTC) maintains a neutral-to-bullish outlook, trading above $65,000 on Monday. Ethereum (ETH) is approaching the key supply and inflection point $2,000, while Ripple (XRP) hovers slightly above $1.10, underscoring a marginal improvement in the broader cryptocurrency market sentiment.
+
+FXStreet • 7h ago
 
 ---
 
@@ -210,7 +218,7 @@ CoinMarketCap • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 6h ago
 
 ---
 
@@ -218,15 +226,7 @@ Fortune • 4h ago
 
 Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
 
-The Defiant • 15h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends winning streak, ETH clears key hurdle, XRP steadies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-extends-winning-streak-eth-clears-key-hurdle-xrp-steadies-202607270259)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a firm footing after surging over 1%, 4% and 1%, respectively, in the previous week. BTC holds above key technical resistance after recording its fourth consecutive weekly gain.
-
-FXStreet • 13h ago
+The Defiant • 2h ago
 
 ---
 
@@ -240,7 +240,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 1K • 👍 172 • 💬 91 • ⏱️ 13:37 • 1h ago
+👁️ 1K • 👍 172 • 💬 91 • ⏱️ 13:37 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 541 • 💬 392 • ⏱️ 13:03 • 17h ago
+👁️ 8K • 👍 541 • 💬 392 • ⏱️ 13:03 • 19h ago
 
 ---
 
@@ -260,7 +260,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 242 • 👍 25 • 💬 5 • ⏱️ 5:45 • 1h ago
+👁️ 242 • 👍 25 • 💬 5 • ⏱️ 5:45 • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 248 • 👍 18 • 💬 44 • ⏱️ 4:43 • 7h ago
+👁️ 248 • 👍 18 • 💬 44 • ⏱️ 4:43 • 9h ago
 
 ---
 
@@ -280,7 +280,7 @@ In this video I break down the latest Ethereum price analysis using Elliott Wave
 
 📺 More Crypto Online
 
-👁️ 860 • 👍 114 • 💬 5 • ⏱️ 6:58 • 1h ago
+👁️ 860 • 👍 114 • 💬 5 • ⏱️ 6:58 • 3h ago
 
 ---
 
@@ -300,7 +300,7 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 220 • 💬 12 • ⏱️ 8:19 • 22h ago
+👁️ 4K • 👍 220 • 💬 12 • ⏱️ 8:19 • 1d ago
 
 ---
 
@@ -310,7 +310,7 @@ BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 260 • 💬 112 • ⏱️ 26:30 • 15h ago
+👁️ 6K • 👍 260 • 💬 112 • ⏱️ 26:30 • 16h ago
 
 ---
 
@@ -320,7 +320,7 @@ Ethereum and XRP are designed for different purposes. Ethereum pioneered smart c
 
 📺 Jake Claver
 
-👁️ 1K • 👍 140 • ⏱️ 2:12 • 2h ago
+👁️ 1K • 👍 140 • ⏱️ 2:12 • 3h ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 262 • 👍 32 • ⏱️ 8:10 • 2h ago
+👁️ 262 • 👍 32 • ⏱️ 8:10 • 4h ago
 
 ---
 

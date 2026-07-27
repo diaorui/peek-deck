@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-27T16:20:21.547446+00:00'
+updated: '2026-07-27T18:05:15.528383+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 16:20 UTC  
+**Last Updated:** July 27, 2026 at 18:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -3.0%  
-**30d:** +8.5%  
-**90d:** -14.8%  
-**1y:** -45.3%  
+**24h:** +0.5%  
+**7d:** -2.3%  
+**30d:** +9.3%  
+**90d:** -14.2%  
+**1y:** -44.9%  
 
 ---
 
@@ -105,7 +105,7 @@ I'm rich guys what should I get first? Really cool to see from River.
 
 Hi all. I'm not sure if this is the right place, but there are people here who have watched Bitcoin for years. I've been buying small amounts here and there for a year, and I currently own around 0.11 BTC, which is also a little more than half of my life savings. My other half, like $7k, is just sitting in my USD account. I'm 22 and live in a country where crypto is not allowed, Ethiopia. They're getting stricter by the day, and soon there will come a day when I can't sell or buy more. I get this sudden temptation to sell it all and just invest in stocks, the safe option, but the other half of me wants to hold for life, you know. And the market is not helping. It's been going down and down like crazy. Just when I think it will go higher, it just comes back down. I'm young, and I don't need the money for now, so I can just invest all my life savings and forget about it, and by the time I'm 40, it will be like 100x. It's a painful dilemma. I feel like this community will be biased toward Bitcoin, but I still want to hear y'all's opinions.
 
-23h ago
+1d ago
 
 ---
 
@@ -129,7 +129,7 @@ Buried in the EU's 21st Russia sanctions package (adopted July 23) is something 
 
 I want to hear what's everyone else saw or heard that made them buy into Bitcoin
 
-20h ago
+22h ago
 
 ---
 
@@ -161,19 +161,33 @@ Just a warning to not use Crypto.com . I have been using bitcoin since it was at
 
 ## Google News: "bitcoin"
 
+**[Live updates: Bitcoin gives up early gains as stocks reverse lower](https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500)**
+
+CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.
+
+CoinDesk • 2h ago
+
+---
+
 **[Everyone expected a Bitcoin investing boom. Why it never came.](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
 
 Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
 
-USA Today • 21h ago
+USA Today • 22h ago
 
 ---
 
-**[Live updates: Ether leads crypto higher. China's gold imports surge](https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500)**
+**[Peter Schiff Says Saylor Just Wiped 66% Off MicroStrategy’s Bitcoin Yield](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-saylor-just-171558763.html)**
 
-CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.
+Peter Schiff tells Bitcoin bulls to skip MSTR after Strategy sold $544.5M of stock and bought zero BTC last week.
 
-CoinDesk • 3h ago
+Yahoo Finance • 49m ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
+
+Morningstar • 8h ago
 
 ---
 
@@ -181,35 +195,21 @@ CoinDesk • 3h ago
 
 Better days are coming for investors in this top digital asset.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
+**[Bitcoin (BTC) news: Prices retake $65,000 as oil slides, ETH outperforms](https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5)**
 
-Morningstar • 7h ago
+The U.S. and Iran hold fire for the second day, creating room for peace process. The market is responding positively to that.
 
----
-
-**[Bitcoin Price Path To $100,000 Faces A Few Bumps (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4925900-bitcoin-price-path-to-100000-faces-a-few-bumps)**
-
-Bitcoin forms a double-bottom as ETF inflows and whale buying fuel a possible run to $100K. Here's what investors need to consider.
-
-Seeking Alpha • 29m ago
-
----
-
-**[Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-holds-above-64-092540162.html)**
-
-Investing.com -- Bitcoin prices were closing in on $64,000 on Sunday lifted by pre-Fed positioning and a notable surge in options market activity as traders bet on a significant move targeting toward $72,000 by the end of July, following this week’s Federal Reserve meeting.
-
-Yahoo Finance • 1d ago
+CoinDesk • 13h ago
 
 ---
 
 **[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -225,13 +225,15 @@ Yahoo Finance • 1d ago
 
 The vast majority of the activity was concentrated in BlackRock’s IBIT product accounting for nearly $415 million of the outflows.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Strategy Skips Bitcoin Buying and Selling for a Third Week. Here’s What It Did Instead.](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-6b8ef61c)**
+**[Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion](https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion)**
 
-Barron's • 2h ago
+Strategy bought no bitcoin for a fifth straight week, while raising its USD reserve to $3.75 billion and selling $544.5M in MSTR.
+
+The Block • 5h ago
 
 ---
 
@@ -291,7 +293,7 @@ An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves t
 
 Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
 
-⬆️ 2 • 💬 0 • 5d ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
+⬆️ 2 • 💬 0 • 6d ago • [The Block](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger)
 
 ---
 
@@ -307,7 +309,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 Live public testnet with full node, external miner, browser wallet, snapshot bootstrap, explorer, and native on-chain Node Rewards.
 
-⬆️ 1 • 💬 0 • 4h ago • [Chipcoin Protocol](https://chipcoinprotocol.com/)
+⬆️ 1 • 💬 0 • 5h ago • [Chipcoin Protocol](https://chipcoinprotocol.com/)
 
 ---
 
@@ -329,7 +331,7 @@ Let's provide an update to Bitcoin and its bear market resistance band, Come to 
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 4K • 💬 167 • ⏱️ 8:59 • 13h ago
+👁️ 56K • 👍 4K • 💬 167 • ⏱️ 8:59 • 15h ago
 
 ---
 
@@ -339,7 +341,7 @@ Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TI
 
 📺 Heresy Financial
 
-👁️ 7K • 👍 591 • 💬 159 • ⏱️ 14:33 • 3h ago
+👁️ 7K • 👍 591 • 💬 159 • ⏱️ 14:33 • 5h ago
 
 ---
 
@@ -359,7 +361,7 @@ Could Bitcoin reach $1 million? Maybe, but the path matters. This episode explor
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 123 • ⏱️ 21:12 • 19h ago
+👁️ 20K • 👍 2K • 💬 123 • ⏱️ 21:12 • 21h ago
 
 ---
 
@@ -369,7 +371,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 259 • 💬 16 • ⏱️ 16:32 • 20h ago
+👁️ 6K • 👍 259 • 💬 16 • ⏱️ 16:32 • 21h ago
 
 ---
 
@@ -379,7 +381,7 @@ Subscribe before Michael Saylor buys more Bitcoin. Michael Saylor isn't just buy
 
 📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 293 • 💬 128 • ⏱️ 17:59 • 18h ago
+👁️ 5K • 👍 293 • 💬 128 • ⏱️ 17:59 • 19h ago
 
 ---
 
@@ -389,7 +391,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 5K • 👍 443 • 💬 126 • ⏱️ 40:21 • 1h ago
+👁️ 5K • 👍 443 • 💬 126 • ⏱️ 40:21 • 3h ago
 
 ---
 
@@ -399,7 +401,7 @@ Bitcoin is compressing hard right now, and that kind of coiling energy does not 
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 16 • ⏱️ 39:21 • 8h ago
+👁️ 13K • 👍 1K • 💬 16 • ⏱️ 39:21 • 10h ago
 
 ---
 

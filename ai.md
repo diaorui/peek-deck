@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-27T16:20:21.538764+00:00'
+updated: '2026-07-27T18:05:15.520241+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 27, 2026 at 16:20 UTC  
+**Last Updated:** July 27, 2026 at 18:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Moonshot's latest model Kimi-K3 is available on HuggingFace since today. And it's another good news for open-weight AI and for the future of open-source AI It's a 2.8T-parameters Moonshot's SOTA model with 1 million tokens context window. The architecture is mixture-of-experts (896 experts) with 108B active parameters It's available via vLLM, SGLang and TokenSpeed License: Kimi K3 License. It allows commercial use with some limitations. For Model-as-a-Service it has $20M/year limit and after reaching the limit the license requires to make additional agreement with Moonshot. Details: https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICENSE Link to the model Model could be downloaded from the HuggingFace: https://huggingface.co/moonshotai/Kimi-K3
 
-59m ago
+2h ago
 
 ---
 
@@ -49,7 +49,21 @@ Moonshot's latest model Kimi-K3 is available on HuggingFace since today. And it'
 
 7 years ago I had an idea for a dog harness that doesn't tangle. I 3D-printed one part and then stalled, not on the engineering, but on prior art searches, novelty judgment, and drafting a patent specification, none of which I had any background in. This month I handed it to AI and filed the provisional for about $65. Post one of a series where I'm documenting my road from idea, to patent, to business.
 
-🔗 [pablooliva.de](https://pablooliva.de/the-closing-window/i-sat-on-an-idea-for-7-years/?ref=reddit) • 5h ago
+🔗 [pablooliva.de](https://pablooliva.de/the-closing-window/i-sat-on-an-idea-for-7-years/?ref=reddit) • 7h ago
+
+---
+
+**[Cracks appear in the vision of off-grid AI data centers](https://www.reddit.com/r/artificial/comments/1v83fd9/cracks_appear_in_the_vision_of_offgrid_ai_data/)**
+
+🔗 [axios.com](https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning) • 2h ago
+
+---
+
+**[[Reggae] - Two Ducks https://suno.com/s/95eoQBedf8DwlELw](https://www.reddit.com/r/artificial/comments/1v85r9x/reggae_two_ducks_httpssunocoms95eoqbedf8dwlelw/)**
+
+https://suno.com/s/95eoQBedf8DwlELw Tribute to Bob Marley with a twist. It’s really good. Free use for all. I do not get paid
+
+1h ago
 
 ---
 
@@ -65,13 +79,13 @@ I wanted to know if the "passive income" faceless accounts were actually passive
 
 Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence) • 55m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence) • 2h ago
 
 ---
 
-**[Cracks appear in the vision of off-grid AI data centers](https://www.reddit.com/r/artificial/comments/1v83fd9/cracks_appear_in_the_vision_of_offgrid_ai_data/)**
+**[Workers are crossing job boundaries with AI, OpenAI research shows](https://www.reddit.com/r/artificial/comments/1v7xarq/workers_are_crossing_job_boundaries_with_ai/)**
 
-🔗 [axios.com](https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning) • 1h ago
+🔗 [axios.com](https://www.axios.com/2026/07/27/openai-chatgpt-work-specialists) • 6h ago
 
 ---
 
@@ -79,7 +93,7 @@ Artificial intelligence firm should provide $100m for cyber defences, says Huggi
 
 I've been seeing more people mention expert networks lately, especially consultants and people who've worked in pretty specialized industries. From what I understand, companies sometimes pay for short calls with people who have firsthand experience in a particular field, which honestly sounds interesting. What I'm curious about is how people actually get their first invitation. Do these networks usually reach out through LinkedIn, referrals, or is it worth creating a profile on one of the platforms yourself? If you've done expert calls before, what was your first experience like? I'm less interested in the payment and more curious about how the screening process works and whether you felt like your industry experience was enough, even if you weren't in a senior executive role.
 
-4h ago
+5h ago
 
 ---
 
@@ -87,13 +101,7 @@ I've been seeing more people mention expert networks lately, especially consulta
 
 Somewhere in the last year the phrase world model stopped meaning a system that represents how things behave and started meaning any video generator with good marketing. What bothers me is not the word, it's that the evidence never changed to match it. Look at how the last few launches were argued. Black Forest Labs put out FLUX 3 last week and the headline evidence was a preference test the lab ran on itself: its video preferred in 77% of comparisons against Runway Gen-4.5, 93% against Luma Ray 3.2. The fine print calls it a preliminary evaluation of an early candidate during midtraining. No methodology, no sample size, no rater pool, no prompt set. Meanwhile the same class of system gets described as having some idea what happens when you knock a glass off a table. A preference test measures none of that. It measures whether a person picked clip A over clip B in five seconds, on samples the lab chose to show them. Cherry picking isn't even the interesting problem here. Taste comparisons can't be rerun, so nobody outside that building can check in October whether the model improved or the sampler got luckier. What is a 77% supposed to mean three months from now? A public benchmark number can be attacked, and that is the entire point of publishing one. Somebody runs it with their own prompts, gets a different ordering, and now there is an argument with evidence on both sides of it. Nobody can rerun a preference win at all. I'm not asking anyone to regulate a blog post. My problem is that a vendor run preference test has quietly become the evidence base for a claim about physical understanding, and those two things are not measuring the same object. When somebody eventually puts one of these behind a robot arm or a driving stack, that 77% will not have predicted a thing about how it behaves.
 
-4h ago
-
----
-
-**[Workers are crossing job boundaries with AI, OpenAI research shows](https://www.reddit.com/r/artificial/comments/1v7xarq/workers_are_crossing_job_boundaries_with_ai/)**
-
-🔗 [axios.com](https://www.axios.com/2026/07/27/openai-chatgpt-work-specialists) • 5h ago
+5h ago
 
 ---
 
@@ -101,15 +109,7 @@ Somewhere in the last year the phrase world model stopped meaning a system that 
 
 In my recent academic article (https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) I analyzed a divide in how open-source software projects evolve, which might explain the difference in productivity boosts developers experience when using AI tools. The data shows that productivity on large, mature open-source projects was not significantly affected by any tech hypes over the last two decades, the commits reaching the main branches followed steady growth trends. At the same time, smaller projects presented much more chaotic growth trends, but also tended to lose speed and stall out much faster. As the study contains data till early 2025, it looks like even the publicly available LLMs till then, were not able to greatly increase the number of changes merged into the main branches of these projects. Could it happen, that the difference in productivity gain developers experience, is simply a function of project scale and environmental/organizational constraints? What has been your experience depending on the size of the codebase you work on?
 
-🔗 [link.springer.com](https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) • 20h ago
-
----
-
-**[30+ officially free AI/ML books, all in one curated repo](https://www.reddit.com/r/artificial/comments/1v7d1lx/30_officially_free_aiml_books_all_in_one_curated/)**
-
-I kept running into the same problem, some of the best AI/ML books are legally free, the authors put them up on their own sites, but the links are scattered across personal pages, university sites, and random GitHub repos nobody finds. So I built a single index: Awesome Free AI Books. 30+ books across Deep Learning, Reinforcement Learning, Bayesian/Probabilistic ML, NLP & LLMs, Math for ML, Computer Vision, Generative Models, Causal Inference, GNNs, and AI Safety. Think Goodfellow’s Deep Learning, Sutton & Barto’s RL bible, Murphy’s Probabilistic ML, Bishop’s latest, Jurafsky & Martin’s SLP3 draft, and more. Every single link points straight to the author’s or publisher’s own page, no rehosted PDFs, no shady mirrors. A weekly GitHub Action checks all links so it doesn’t rot over time. It’s open source and open to contributions, if you know a legitimately free book that’s missing, PRs and issues are welcome. Repo: https://github.com/MarcosSete/awesome-free-ai-books
-
-21h ago
+🔗 [link.springer.com](https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf) • 22h ago
 
 ---
 
@@ -117,51 +117,61 @@ I kept running into the same problem, some of the best AI/ML books are legally f
 
 ## Google News: "ai"
 
-**[Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security](https://blogs.nvidia.com/blog/open-secure-ai-alliance/)**
+**[Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues](https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html)**
 
-NVIDIA and founding members form new alliance to build and share open tools that promote responsible use of and trust in AI.
+Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.
 
-NVIDIA Blog • 7h ago
-
----
-
-**[Nvidia launches new open-source AI security alliance](https://thehill.com/policy/technology/5991875-nvidia-launches-open-secure-ai-alliance/)**
-
-The Hill • 1h ago
+CNBC • 7h ago
 
 ---
 
-**[Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety](https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html)**
+**[Sam Altman says AI has entered ‘singularity’: Should we be worried?](https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried)**
 
-The New York Times • 47m ago
+The 'singularity' refers to the point at which AI outpaces human intelligence and becomes difficult to control.
 
----
-
-**[Exclusive | Nvidia Bets on Ilya Sutskever’s New AI Lab to Expand Compute Reach](https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8)**
-
-WSJ • 3h ago
+Al Jazeera • 8h ago
 
 ---
 
-**[Nvidia bets billions on Ilya Sutskever’s AI breakthrough](https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1)**
+**[Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say](https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html)**
 
-Safe Superintelligence will use Vera Rubin chips to rapidly expand computing capacity for its secretive research
+Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.
 
-Financial Times • 8m ago
-
----
-
-**[Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research](https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/)**
-
-After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.
-
-TechCrunch • 1h ago
+CNBC • 3h ago
 
 ---
 
-**[Nvidia reignites "circular" AI concerns as it weighs OpenAI financing guarantee](https://www.axios.com/2026/07/27/nvidia-openai-financing-ai-jensen-huang-ssi)**
+**[OpenAI CEO Sam Altman claims AI singularity has arrived](https://www.yahoo.com/news/politics/articles/openai-ceo-sam-altman-claims-172023316.html)**
 
-Axios • 15m ago
+Altman spoke days after OpenAI's technology hacked another company on its own.
+
+Yahoo • 44m ago
+
+---
+
+**[Report: Starbucks scrapped an AI inventory tool and left a Seattle-area startup ‘blindsided’](https://www.geekwire.com/2026/report-starbucks-scrapped-an-ai-inventory-tool-and-left-a-seattle-area-startup-blindsided/)**
+
+Known as "Automated Counting," the tool was built in partnership with NomadGo to scan backroom storage shelves using iPad Pros equipped with computer vision, spatial computing, and augmented reality.
+
+GeekWire • 33m ago
+
+---
+
+**[AI underwater robots can now track diver stress via exhaled bubbles](https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html)**
+
+Tech Xplore • 25m ago
+
+---
+
+**[The National Beat: Why VCs are hiring AI and policy experts](https://www.bizjournals.com/boston/news/2026/07/27/national-beat-quantum-ai-venture-capital.html)**
+
+The Business Journals • 29m ago
+
+---
+
+**[Opinion | If You’re Over 40, You’re Ready to Use A.I.](https://www.nytimes.com/2026/07/27/opinion/teaching-kabbalah-ai.html)**
+
+The New York Times • 3h ago
 
 ---
 
@@ -169,15 +179,7 @@ Axios • 15m ago
 
 This is the latest in a series of weekend posting sprees on Truth Social by the president featuring AI-generated imagery mocking his opponents while hailing himself as a savior.
 
-Forbes • 9h ago
-
----
-
-**[Trump Finds Consolation in Posting Dozens of AI Slop Delusions](https://www.rollingstone.com/politics/politics-news/trump-posts-ai-generated-delusions-correspondents-dinner-1235599113/)**
-
-President Donald Trump spammed dozens of AI slop delusions on Truth Social after his appearance at the White House Correspondents' Dinner.
-
-Rolling Stone • 27m ago
+Forbes • 10h ago
 
 ---
 
@@ -185,7 +187,7 @@ Rolling Stone • 27m ago
 
 “It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.
 
-WIRED • 6h ago
+WIRED • 8h ago
 
 ---
 
@@ -197,7 +199,7 @@ WIRED • 6h ago
 
 The case centers on Tunick's use of GrapheneOS, an open-source operating system that works on Google Pixel phones and lets users enter a passcode to wipe a...
 
-⬆️ 1108 • 💬 837 • 17h ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+⬆️ 1205 • 💬 925 • 19h ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 
 ---
 
@@ -205,7 +207,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're
 
-⬆️ 581 • 💬 340 • 3h ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
+⬆️ 660 • 💬 410 • 5h ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 
 ---
 
@@ -219,7 +221,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.
 
-⬆️ 286 • 💬 254 • 1d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+⬆️ 286 • 💬 257 • 1d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 
 ---
 
@@ -227,7 +229,7 @@ London Gatwick is the first UK airport to launch robotic parking. Passengers can
 
 Other
 
-⬆️ 274 • 💬 359 • 1d ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
+⬆️ 278 • 💬 366 • 1d ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 
 ---
 
@@ -239,6 +241,14 @@ Burnout is on the rise again, with an ironic twist.
 
 ---
 
+**[Apple Will 'Watch Everything Burn' When the AI Bubble Bursts](https://news.ycombinator.com/item?id=49070427)**
+
+Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where's Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom's most "acerbic gadfly" – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he's right. You've been calling AI a bubble since before it was fashionable.
+
+⬆️ 196 • 💬 220 • 3h ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+
+---
+
 **[Cloudflare's new AI traffic options for customers](https://news.ycombinator.com/item?id=49052564)**
 
 For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.
@@ -247,25 +257,17 @@ For our second Content Independence Day, we’re giving website owners finer opt
 
 ---
 
-**[Apple Will 'Watch Everything Burn' When the AI Bubble Bursts](https://news.ycombinator.com/item?id=49070427)**
+**[AI companies spend record sums on Washington lobbying](https://news.ycombinator.com/item?id=49069939)**
 
-Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where's Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom's most "acerbic gadfly" – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he's right. You've been calling AI a bubble since before it was fashionable.
+Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing battle over federal policy
 
-⬆️ 140 • 💬 103 • 1h ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+⬆️ 192 • 💬 93 • 3h ago • [ft.com](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
 
 ---
 
 **[Terence Tao: Mathematics in the Age of AI [pdf]](https://news.ycombinator.com/item?id=49056620)**
 
-⬆️ 136 • 💬 55 • 1d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
-
----
-
-**[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://news.ycombinator.com/item?id=49044492)**
-
-The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.
-
-⬆️ 129 • 💬 45 • 2d ago • [NIST](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
+⬆️ 143 • 💬 56 • 1d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
 
 ---
 
@@ -279,7 +281,7 @@ As he prepares to visit the White House, OpenAI CEO Sam Altman says the moment w
 
 📺 ABC News
 
-👁️ 2K • 👍 31 • 💬 30 • ⏱️ 1:44 • 5h ago
+👁️ 2K • 👍 31 • 💬 30 • ⏱️ 1:44 • 7h ago
 
 ---
 
@@ -289,7 +291,7 @@ Turn ordinary footage into scroll-stopping content with Higgsfield Shorts Studio
 
 📺 Malva AI
 
-👁️ 2K • 👍 166 • 💬 21 • ⏱️ 9:28 • 5h ago
+👁️ 2K • 👍 166 • 💬 21 • ⏱️ 9:28 • 7h ago
 
 ---
 
@@ -309,7 +311,7 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 📺 Mikey No Code
 
-👁️ 6K • 💬 7 • ⏱️ 18:02 • 2h ago
+👁️ 6K • 💬 7 • ⏱️ 18:02 • 3h ago
 
 ---
 
@@ -319,7 +321,7 @@ Gold Stackers Coffee - https://goldstackerscoffee.com/?ref=TRAVISMADDOX Best Soa
 
 📺 The Prepared Homestead
 
-👁️ 3K • 👍 548 • 💬 76 • ⏱️ 12:19 • 3h ago
+👁️ 3K • 👍 548 • 💬 76 • ⏱️ 12:19 • 4h ago
 
 ---
 
@@ -329,7 +331,7 @@ How to give an AI agent a real job: start with the customer support problem your
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 13K • 👍 413 • 💬 75 • ⏱️ 21:16 • 23h ago
+👁️ 13K • 👍 413 • 💬 75 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -359,7 +361,7 @@ Go to https://ground.news/TSY for a better way to stay informed. Subscribe for 4
 
 📺 Ticker Symbol: YOU
 
-👁️ 133K • 👍 6K • 💬 557 • ⏱️ 17:59 • 22h ago
+👁️ 133K • 👍 6K • 💬 557 • ⏱️ 17:59 • 1d ago
 
 ---
 
@@ -369,7 +371,7 @@ Claude Fable 5 Is INSANE For AI Films Try Higgsfield: https://higgsfield.ai/ai-v
 
 📺 Skai Generated
 
-👁️ 4K • ⏱️ 9:22 • 1h ago
+👁️ 4K • ⏱️ 9:22 • 3h ago
 
 ---
 
@@ -385,7 +387,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text`
 
-⬇️ 2,850 • ❤️ 4,771 • 44m ago
+⬇️ 2,850 • ❤️ 4,771 • 2h ago
 
 ---
 
@@ -409,7 +411,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 63,605 • ❤️ 734 • 4h ago
+⬇️ 63,605 • ❤️ 734 • 6h ago
 
 ---
 
@@ -421,7 +423,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 634,146 • ❤️ 706 • 8h ago
+⬇️ 634,146 • ❤️ 706 • 10h ago
 
 ---
 
@@ -433,7 +435,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 3,761 • ❤️ 623 • 5h ago
+⬇️ 3,761 • ❤️ 623 • 7h ago
 
 ---
 
@@ -445,7 +447,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 16,518 • ❤️ 476 • 8h ago
+⬇️ 16,518 • ❤️ 476 • 10h ago
 
 ---
 
@@ -469,7 +471,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 36,196 • ❤️ 1,594 • 3d ago
+⬇️ 36,196 • ❤️ 1,594 • 4d ago
 
 ---
 
@@ -644,7 +646,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 21h ago
+⭐ 5.3k • 🔱 1.1k • 23h ago
 
 ---
 
@@ -654,7 +656,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.4k • 🔱 264 • 50m ago
+⭐ 3.4k • 🔱 264 • 2h ago
 
 ---
 
@@ -664,7 +666,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 2.9k • 🔱 230 • 14h ago
+⭐ 2.9k • 🔱 230 • 16h ago
 
 ---
 
@@ -674,7 +676,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 403 • 13m ago
+⭐ 2.9k • 🔱 403 • 1h ago
 
 ---
 
@@ -694,7 +696,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.2k • 🔱 195 • 7h ago
+⭐ 2.2k • 🔱 195 • 8h ago
 
 ---
 
@@ -704,7 +706,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.7k • 🔱 195 • 6h ago
+⭐ 1.7k • 🔱 195 • 8h ago
 
 ---
 
@@ -722,7 +724,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 45s ago
+⭐ 1.5k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -730,7 +732,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.3k • 🔱 97 • 5d ago
+⭐ 1.3k • 🔱 97 • 6d ago
 
 ---
 

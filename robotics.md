@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-27T16:20:21.556968+00:00'
+updated: '2026-07-27T18:05:15.537107+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 27, 2026 at 16:20 UTC  
+**Last Updated:** July 27, 2026 at 18:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Putting this little companion robot together today. He did not smoke or catch on fire when I attached a 4S LiPo battery to him so feeling pretty good about life right now. A lot more to do but sometimes the little things in robotics are the best ones. He powered up. He didn't smoke out. I'm happy. Jetson Orin on board. More to come.
 
-22h ago
+1d ago
 
 ---
 
 **[Unitree's new wheeled robot dog](https://www.reddit.com/r/robotics/comments/1v7cssb/unitrees_new_wheeled_robot_dog/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -56,7 +56,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-9h ago
+11h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -106,11 +106,41 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 ## Google News: "robotics"
 
-**[Enigma raises $70M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)**
+**[Enigma raises $71M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)**
 
 The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 
-TechCrunch • 3h ago
+TechCrunch • 5h ago
+
+---
+
+**[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
+
+Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
+
+calcalistech.com • 4h ago
+
+---
+
+**[Top Robotics Stocks Worth Investing Right Now for Solid Returns](https://finance.yahoo.com/markets/stocks/articles/top-robotics-stocks-worth-investing-154200515.html)**
+
+SNPS is among U.S. robotics plays as 2026 brings major advances in physical AI, surgical systems, defense autonomy and space robotics.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Tacta Systems™ Unveils Breakthrough Robotic Hands For High-Value Manufacturing, Powered By Dexterous Intelligence And Large-Scale Skill Capture](https://www.prnewswire.com/news-releases/tacta-systems-unveils-breakthrough-robotic-hands-for-high-value-manufacturing-powered-by-dexterous-intelligence-and-large-scale-skill-capture-302835396.html)**
+
+The TactaBot™ combines the company's Tacta Hand, Skill Capture, and "Dexterous Intelligence" AI engine to bring human-level dexterity and touch to robotics for...
+
+PR Newswire • 2h ago
+
+---
+
+**[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -122,49 +152,9 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Dopl is developing robotics for remote ultrasounds (and one day, much more)](https://www.medicaldesignandoutsourcing.com/dopl-remote-ultrasound-robotics-minimally-invasive/)**
+**[AI and robotics accelerate search for better gut microbiome therapies](https://phys.org/news/2026-07-ai-robotics-gut-microbiome-therapies.html)**
 
-Dopl Technologies co-founder and CEO Ryan James discusses the startup's technology and its minimally invasive origins.
-
-Medical Design & Outsourcing • 3h ago
-
----
-
-**[These Student Robotics Programs Spark Passion for Tomorrow’s Manufacturing Jobs](https://www.automate.org/robotics/industry-insights/these-student-robotics-programs-spark-passion-for-tomorrows-manufacturing-jobs)**
-
-Student robotics programs expose students to the possibilities of working in the automation industry.
-
-A3 Association for Advancing Automation • 3h ago
-
----
-
-**[XTI Aerospace to Participate in Needham's 15th Annual Virtual Industrial Tech, Robotics & Power Conference](https://au.finance.yahoo.com/news/xti-aerospace-participate-needhams-15th-123000510.html)**
-
-XTI Aerospace, Inc. (Nasdaq: XTIA) ("XTI Aerospace," "XTI," or the "Company"), an aerospace and advanced technology platform and parent company of Drone Nerds, LLC, ("Drone Nerds"), a leading drone solutions platform serving commercial, enterprise and government customers, today announced that members of its executive leadership team will participate in the 15th Annual Needham Virtual Industrial Tech, Robotics & Power Conference on August 17–18, 2026.
-
-Yahoo Finance Australia • 3h ago
-
----
-
-**[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
-
-Tech Xplore • 22h ago
-
----
-
-**[What's Next for Humanoids After This Week's Cage Match and Cowboying?](https://spectrum.ieee.org/video-friday-physical-ai-robotics)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
-
-As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
-
-The Information • 45m ago
+Phys.org • 3h ago
 
 ---
 
@@ -174,11 +164,19 @@ Japan Today • 1d ago
 
 ---
 
-**[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
+**[SAPPHIRE Technology Unveils EDGE+ Apex Robotics Platform](https://www.techpowerup.com/351113/sapphire-technology-unveils-edge-apex-robotics-platform)**
 
-Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
+SAPPHIRE Technology today unveiled the EDGE+ Apex SOM/Carrier Robotics Platform, a production-ready hardware platform powered by AMD Ryzen AI Embedded X100 Series processors and designed to accelerate the development and deployment of physical AI in autonomous robotics. The platform has been...
 
-calcalistech.com • 2h ago
+TechPowerUp • 3h ago
+
+---
+
+**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
+
+As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
+
+The Information • 2h ago
 
 ---
 
@@ -242,7 +240,7 @@ Cult icon SHERI MOON ZOMBIE unveils debut single and video "I Love My Robot." Li
 
 📺 Nuclear Blast Records
 
-👁️ 6K • 👍 1K • 💬 197 • ⏱️ 2:50 • 2h ago
+👁️ 6K • 👍 1K • 💬 197 • ⏱️ 2:50 • 4h ago
 
 ---
 
@@ -262,7 +260,7 @@ roblox robot grows stronger... My ONLY Roblox Profile: https://www.roblox.com/us
 
 📺 OTTER ON ROBLOX
 
-👁️ 13K • 👍 467 • 💬 76 • ⏱️ 24:25 • 3h ago
+👁️ 13K • 👍 467 • 💬 76 • ⏱️ 24:25 • 5h ago
 
 ---
 
