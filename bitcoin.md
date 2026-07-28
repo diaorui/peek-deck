@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-28T04:10:37.294236+00:00'
+updated: '2026-07-28T07:13:45.917224+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 04:10 UTC  
+**Last Updated:** July 28, 2026 at 07:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,191.88
+### $63,543.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
-**7d:** -4.1%  
-**30d:** +5.1%  
-**90d:** -17.0%  
-**1y:** -46.3%  
+**24h:** -2.5%  
+**7d:** -3.8%  
+**30d:** +5.5%  
+**90d:** -16.7%  
+**1y:** -46.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1269.60B
+**Market Cap:** $1274.21B
 Rank #1
 
-**Circulating Supply:** 20,062,228 BTC
+**Circulating Supply:** 20,062,287 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.8%
+-49.6%
 
 **All-Time Low:** $67.81
-+93222.5%
++93549.9%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Always remember!](https://www.reddit.com/r/Bitcoin/comments/1v89b45/always_remember/)**
 
-9h ago
+12h ago
 
 ---
 
 **[Damm bro 😔🥀](https://www.reddit.com/r/Bitcoin/comments/1v819f9/damm_bro/)**
 
-14h ago
+17h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Raúl Robles was a Mexican founder of HackingMexico. He taught cybersecurity and offensive security, this is an old photo from the internet of him giving a Bitcoin talk back in Bitcoin's early days. Sadly, he met a tragic end in 2015, he was known for humiliating and controversial rhetoric through Facebook posts, and eventually met his end by a guy that announced in a forum he was tired of his insults. It's interesting to look back at some of those early conferences and talks that helped push Bitcoin to a wider audience, and to wonder how many people in the room got curious enough to buy, how many held...
 
-4h ago
+7h ago
 
 ---
 
 **[This cat holds through the lows, will you do the same?](https://www.reddit.com/r/Bitcoin/comments/1v8882g/this_cat_holds_through_the_lows_will_you_do_the/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -115,7 +115,7 @@ What about 2026 - are we too late to start invest into Bitcoin?
 
 I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see which one was actually the worst
 
-6h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see 
 
 A Bitcoin Story - Chapter 1 : 2026 - When bitcoin became invisible
 
-15h ago
+18h ago
 
 ---
 
@@ -131,7 +131,7 @@ A Bitcoin Story - Chapter 1 : 2026 - When bitcoin became invisible
 
 I've noticed that some of the loudest Bitcoin FUD seems to come from people who already hold BTC. If you're bullish long term, why let every correction shake your conviction? Is it just emotion, or do people expect Bitcoin to move up without volatility? What do you think? or y'all playing around? Lol
 
-6h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ I've noticed that some of the loudest Bitcoin FUD seems to come from people who 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/L-cP2PG9beA?si=Qfu27yeWVfy_LbLh&t=72) • 12h ago
+🔗 [youtu.be](https://youtu.be/L-cP2PG9beA?si=Qfu27yeWVfy_LbLh&t=72) • 15h ago
 
 ---
 
@@ -147,7 +147,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Just asking, I really want to buy quite a lot and I don't know if I should put everything in a single cold wallet. I already have a Trezor model t, is it necessary to upgrade or is any kind of Trezor good? P.s. I plan to become a whole coiner before 2029. Thanks in advance for your help.
 
-6h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ Just asking, I really want to buy quite a lot and I don't know if I should put e
 
 BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.
 
-CoinDesk • 8h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -167,13 +167,13 @@ CoinDesk • 8h ago
 
 Better days are coming for investors in this top digital asset.
 
-The Motley Fool • 18h ago
+The Motley Fool • 21h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Plummet Even as SEC Chair Paul Atkins Sees Crypto Bill Advancing: Analyst Says BTC's Big Move 'Just Around the Corner'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-plummet-021322342.html)**
+**[Hong Kong Gave Banks a 2030 Quantum Deadline: Who Gives Bitcoin One?](https://finance.yahoo.com/markets/crypto/articles/hong-kong-gave-banks-2030-060012635.html)**
 
-Leading cryptocurrencies fell sharply on Monday as investors weighed developments around the Clarity Act and a pause in U.S.–Iran hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.98%$63,157.00Ethereum (CRYPTO: ETH) -3.67%$1,873.27XRP (CRYPTO: XRP) -4.60%$1.05Solana (CRYPTO: SOL) -4.09%$73.19Dogecoin (CRYPTO: DOGE) -4.59%$0.06954 Crypto Market Tumbles Bitcoin nearly dived below $63,000 in a sharp evening sell-off, while Ethereum fell to $1,860 a
+HKMA gave banks a 2030 quantum deadline. Bitcoin has no authority to set one, and its quantum fix is stuck in debate.
 
 Yahoo Finance • 1h ago
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 **[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
 
-Morningstar • 18h ago
+Morningstar • 21h ago
 
 ---
 
@@ -197,33 +197,35 @@ USA Today • 1d ago
 
 Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
 
-CNBC • 9h ago
-
----
-
-**[Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms](https://www.bloomberg.com/news/articles/2026-07-28/bitcoin-weakens-in-asia-trading-as-fed-rate-decision-looms)**
-
-Bloomberg.com • 2h ago
+CNBC • 12h ago
 
 ---
 
 **[Strategy Skips Bitcoin Buying and Selling for a Third Week. Here’s What It Did Instead.](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-6b8ef61c)**
 
-Barron's • 13h ago
+Barron's • 17h ago
 
 ---
 
-**[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-end-inflow-streak-044058641.html)**
+**[Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms](https://www.bloomberg.com/news/articles/2026-07-28/bitcoin-weakens-in-asia-trading-as-fed-rate-decision-looms)**
 
-(Bloomberg) -- Heavy outflows from US-listed Bitcoin exchange-traded funds late last week underscored the fragility of the token’s recent recovery.Most Read from BloombergDeepSeek Suspends Fundraising After Viral US-China PostsSpaceX at $100 Would Imply Zero AI Value, Morgan Stanley SaysUS, Iran Extend Pause in Strikes as Oman Holds Hormuz TalksTrump Seethes as Iran War Spirals Anew With No End in SightAwakened Indian Students Hand Modi One of His Biggest SetbacksThe ETFs in the spot market saw
-
-Yahoo Finance • 23h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
+**[Metaplanet's brokerage deal 'badly undersells' plans for bitcoin-backed 'Bitbonds,' Benchmark says](https://www.theblock.co/post/409752/benchmark-metaplanet-brokerage-deal-badly-undersells-plans-bitcoin-backed-bitbonds)**
 
-Bloomberg.com • 17h ago
+Metaplanet envisions launching 4% to 6% bitcoin-backed bonds before eventually moving them on-chain with stablecoin settlement.
+
+The Block • 16h ago
+
+---
+
+**[Bitcoin ETFs Bled Cash Last Week After Winning Streak](https://bitcoinmagazine.com/markets/bitcoin-etfs-see-investor-reversal)**
+
+The Bitcoin ETFs had taken in nearly $1 billion in new cash.
+
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -243,7 +245,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 The alleged thieves infected 8,000 devices.
 
-⬆️ 34 • 💬 31 • 7h ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+⬆️ 41 • 💬 35 • 10h ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -307,7 +309,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The first Bitcoin newsletter that rewards you with sats while you learn about regulation, sovereignty, and legal developments.
 
-⬆️ 1 • 💬 0 • 7h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
+⬆️ 1 • 💬 0 • 10h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
 
 ---
 
@@ -321,17 +323,7 @@ Thank you to Mint Mobile for partnering with us on this video! Visit our partner
 
 📺 The Graham Stephan Show
 
-👁️ 34K • 👍 2K • 💬 615 • ⏱️ 18:59 • 12h ago
-
----
-
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=-GT2FmXrAto)**
-
-Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TIMECODES 00:00 Something Strange Is Happening ...
-
-📺 Heresy Financial
-
-👁️ 26K • 👍 1K • 💬 284 • ⏱️ 14:33 • 15h ago
+👁️ 41K • 👍 2K • 💬 687 • ⏱️ 18:59 • 15h ago
 
 ---
 
@@ -341,57 +333,7 @@ See if your SSN is for sale right now. My sponsor Cloaked will tell you for free
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 250 • 💬 202 • ⏱️ 9:19 • 6h ago
-
----
-
-**[Why Michael Saylor stopped buying Bitcoin](https://www.youtube.com/watch?v=G87Vy-dZbdw)**
-
-In this episode of The Daily Wolf, Scott Melker explains why several crypto companies and exchanges are shutting down while the ...
-
-📺 Yahoo Finance
-
-👁️ 8K • 👍 351 • 💬 117 • ⏱️ 14:53 • 11h ago
-
----
-
-**[Bitcoin’s $70K Breakout Will Be DECIDED in the Next 72 HOURS](https://www.youtube.com/watch?v=D_CD6LypJiw)**
-
-Bitcoin #Crypto #finance Bitcoin rebounds above $65000 as Middle East tensions ease, but the market now faces its biggest ...
-
-📺 The Wolf Of All Streets
-
-👁️ 16K • 👍 734 • 💬 315 • ⏱️ 1:01:29 • 13h ago
-
----
-
-**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=lfYYC7qxDQ8)**
-
-Let's provide an update to Bitcoin and its bear market resistance band, Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 77K • 👍 5K • 💬 196 • ⏱️ 8:59 • 1d ago
-
----
-
-**[3 Crypto Exchanges Just Shut Down: Here&#39;s Why](https://www.youtube.com/watch?v=T7wqxGksW-c)**
-
-This breakdown explains the recurring patterns in every crypto market cycle that lead to the removal of weaker platforms.
-
-📺 Coach JV
-
-👁️ 20K • 👍 1K • 💬 302 • ⏱️ 16:47 • 13h ago
-
----
-
-**[Bitcoin&#39;s About to Make a Fool Out of Everyone!](https://www.youtube.com/watch?v=EbR8__e79sc)**
-
-Crypto has been through another wave of bad news, yet the market is reacting very differently than it did in previous cycles.
-
-📺 Crypto Banter
-
-👁️ 18K • 👍 1K • 💬 32 • ⏱️ 30:54 • 13h ago
+👁️ 5K • 👍 299 • 💬 197 • ⏱️ 9:19 • 9h ago
 
 ---
 
@@ -401,17 +343,77 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 42K • 👍 973 • 💬 98 • ⏱️ 6:11 • 8h ago
+👁️ 52K • 👍 1K • 💬 106 • ⏱️ 6:11 • 11h ago
 
 ---
 
-**[&quot;CLARITY IS HERE! This Week Will Be SUPER BULLISH for Bitcoin &amp; Crypto!&quot; | Jordi Visser](https://www.youtube.com/watch?v=lMWIkAuVZCI)**
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=-GT2FmXrAto)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TIMECODES 00:00 Something Strange Is Happening ...
+
+📺 Heresy Financial
+
+👁️ 29K • 👍 1K • 💬 299 • ⏱️ 14:33 • 18h ago
+
+---
+
+**[Why Michael Saylor stopped buying Bitcoin](https://www.youtube.com/watch?v=G87Vy-dZbdw)**
+
+In this episode of The Daily Wolf, Scott Melker explains why several crypto companies and exchanges are shutting down while the ...
+
+📺 Yahoo Finance
+
+👁️ 8K • 👍 369 • 💬 120 • ⏱️ 14:53 • 14h ago
+
+---
+
+**[Live Bitcoin Analysis: Clapping Season!](https://www.youtube.com/watch?v=xYCEOsWK7-E)**
+
+Live Bitcoin Trading & Technical Analysis with Zen Master JP Get 10% back on your fees with BTCC ...
+
+📺 Sin City Crypto
+
+👁️ 6K • 👍 287 • ⏱️ 4:26:35 • 2h ago
+
+---
+
+**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 281 • 💬 21 • ⏱️ 16:32 • 1d ago
+👁️ 13K • 👍 408 • 💬 57 • ⏱️ 15:51 • 2d ago
+
+---
+
+**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=lfYYC7qxDQ8)**
+
+Let's provide an update to Bitcoin and its bear market resistance band, Come to the 1st ITC Conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 79K • 👍 5K • 💬 197 • ⏱️ 8:59 • 1d ago
+
+---
+
+**[Bitcoin’s $70K Breakout Will Be DECIDED in the Next 72 HOURS](https://www.youtube.com/watch?v=D_CD6LypJiw)**
+
+Bitcoin #Crypto #finance Bitcoin rebounds above $65000 as Middle East tensions ease, but the market now faces its biggest ...
+
+📺 The Wolf Of All Streets
+
+👁️ 17K • 👍 745 • 💬 320 • ⏱️ 1:01:29 • 16h ago
+
+---
+
+**[3 Crypto Exchanges Just Shut Down: Here&#39;s Why](https://www.youtube.com/watch?v=T7wqxGksW-c)**
+
+This breakdown explains the recurring patterns in every crypto market cycle that lead to the removal of weaker platforms.
+
+📺 Coach JV
+
+👁️ 22K • 👍 1K • 💬 327 • ⏱️ 16:47 • 16h ago
 
 ---
 

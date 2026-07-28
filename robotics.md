@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T04:10:37.304182+00:00'
+updated: '2026-07-28T07:13:45.925551+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 04:10 UTC  
+**Last Updated:** July 28, 2026 at 07:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-21h ago
+1d ago
 
 ---
 
@@ -110,7 +110,21 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 
-TechCrunch • 15h ago
+TechCrunch • 18h ago
+
+---
+
+**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
+
+As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
+
+The Information • 15h ago
+
+---
+
+**[AI underwater robots can now track diver stress via exhaled bubbles](https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html)**
+
+Tech Xplore • 13h ago
 
 ---
 
@@ -122,31 +136,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
-
-As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
-
-The Information • 12h ago
-
----
-
 **[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
 
 Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
-calcalistech.com • 14h ago
-
----
-
-**[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[Chinese robotics is quietly cornering a new niche. How will shipyards benefit?](https://www.scmp.com/economy/china-economy/article/3361993/chinas-robotics-industry-quietly-cornering-new-niche-and-shipyards-stand-gain)**
-
-South China Morning Post • 10m ago
+calcalistech.com • 17h ago
 
 ---
 
@@ -154,15 +148,13 @@ South China Morning Post • 10m ago
 
 A Chinese manufacturing firm orders 2,000 humanoid robots to automate apparel production, targeting smarter and more efficient factories.
 
-Interesting Engineering • 13h ago
+Interesting Engineering • 17h ago
 
 ---
 
-**[Making robots faster by helping them think ahead](https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728)**
+**[Chinese robotics is quietly cornering a new niche. How will shipyards benefit?](https://www.scmp.com/economy/china-economy/article/3361993/chinas-robotics-industry-quietly-cornering-new-niche-and-shipyards-stand-gain)**
 
-The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
-
-MIT News • 10m ago
+South China Morning Post • 3h ago
 
 ---
 
@@ -170,15 +162,23 @@ MIT News • 10m ago
 
 'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'
 
-ZDNET • 16h ago
+ZDNET • 19h ago
 
 ---
 
-**[SAPPHIRE Technology Unveils EDGE+ Apex Robotics Platform](https://www.techpowerup.com/351113/sapphire-technology-unveils-edge-apex-robotics-platform)**
+**[Making robots faster by helping them think ahead](https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728)**
 
-SAPPHIRE Technology today unveiled the EDGE+ Apex SOM/Carrier Robotics Platform, a production-ready hardware platform powered by AMD Ryzen AI Embedded X100 Series processors and designed to accelerate the development and deployment of physical AI in autonomous robotics. The platform has been...
+The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
 
-TechPowerUp • 13h ago
+MIT News • 3h ago
+
+---
+
+**[12 Of The Coolest Robotic Gadgets You Can Buy For The Home](https://www.slashgear.com/2219975/cool-robotic-gadgets-for-home/)**
+
+Home robot gadgets aren't just Roomba vacuums and automatic pet feeders anymore.
+
+SlashGear • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 9K • 👍 219 • 💬 76 • ⏱️ 2:15 • 4h ago
+👁️ 17K • 👍 443 • 💬 158 • ⏱️ 2:15 • 7h ago
 
 ---
 
@@ -202,7 +202,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 12K • 👍 378 • 💬 22 • ⏱️ 4:23 • 1d ago
+👁️ 12K • 👍 388 • 💬 22 • ⏱️ 4:23 • 1d ago
 
 ---
 
@@ -216,13 +216,23 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 ---
 
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+
+📺 New York Post
+
+👁️ 56K • 👍 1K • 💬 440 • ⏱️ 2:02 • 5d ago
+
+---
+
 **[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
 
 America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
 
 📺 Living in China
 
-👁️ 106K • 👍 3K • 💬 226 • ⏱️ 12:28 • 6d ago
+👁️ 107K • 👍 3K • 💬 231 • ⏱️ 12:28 • 6d ago
 
 ---
 
@@ -232,17 +242,7 @@ AI-powered humanoid robots are becoming more advanced, with some designed to int
 
 📺  Beesoft Bd
 
-👁️ 106K • 💬 3 • ⏱️ 0:16 • 4d ago
-
----
-
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
-
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
-
-📺 New York Post
-
-👁️ 55K • 👍 1K • 💬 438 • ⏱️ 2:02 • 5d ago
+👁️ 106K • 💬 3 • ⏱️ 0:16 • 5d ago
 
 ---
 
@@ -252,37 +252,37 @@ Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course
 
 📺 GATE Wallah
 
-👁️ 2K • 👍 102 • 💬 3 • ⏱️ 17:35 • 10h ago
+👁️ 3K • 👍 114 • 💬 2 • ⏱️ 17:35 • 13h ago
 
 ---
 
-**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
+**[Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT](https://www.youtube.com/watch?v=iEoMJJvjPwY)**
 
-War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
+Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT Solar power is about to get unbelievably cheap thanks to ...
+
+📺 The Electric Viking
+
+👁️ 53K • 👍 3K • 💬 347 • ⏱️ 8:18 • 1d ago
+
+---
+
+**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
+
+A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
+
+📺 NewsNation
+
+👁️ 4K • 👍 99 • 💬 64 • ⏱️ 3:10 • 10h ago
+
+---
+
+**[I can’t believe THEY TOUCHED MY HAWK! War Robots Gameplay](https://www.youtube.com/watch?v=S_reI5oSdYM)**
+
+War Robots Gameplay: Ultimate Vs Regular Hawk - after 12.2 changes. My War Robots Creator Link: https://wr.my.games/manni ...
 
 📺 Manni-Gaming
 
-👁️ 21K • 👍 679 • 💬 227 • ⏱️ 14:51 • 4d ago
-
----
-
-**[Jared Isaacman: NASA&#39;s Moon Base by 2028, Optimus Robots on the Moon, The Truth About UFOs | Ep #274](https://www.youtube.com/watch?v=nV_lyWrkBs8)**
-
-The mates chat with Jared Isaacman on NASA's plan for a Moon base by 2028, Optimus Robots on the Moon, and the truth about ...
-
-📺 Peter H. Diamandis
-
-👁️ 51K • 👍 2K • 💬 309 • ⏱️ 1:27:17 • 13h ago
-
----
-
-**[This Robot Is Almost Human.](https://www.youtube.com/watch?v=qXxAHBbWMDs)**
-
-What if a robot could look you in the eyes. smile. and hold a conversation just like a human? ** Meet the **Origin F1**, ...
-
-📺 Dark Narr
-
-👁️ 54K • 👍 1K • 💬 100 • ⏱️ 0:44 • 5d ago
+👁️ 9K • 👍 431 • 💬 146 • ⏱️ 22:27 • 18h ago
 
 ---
 

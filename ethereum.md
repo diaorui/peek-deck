@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-28T04:10:37.300783+00:00'
+updated: '2026-07-28T07:13:45.922668+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 04:10 UTC  
+**Last Updated:** July 28, 2026 at 07:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.3%  
-**7d:** -2.7%  
-**30d:** +16.7%  
-**90d:** -16.7%  
-**1y:** -50.4%  
+**24h:** -4.0%  
+**7d:** -2.5%  
+**30d:** +16.9%  
+**90d:** -16.5%  
+**1y:** -50.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.88B
+**Market Cap:** $227.49B
 Rank #2
 
 **Circulating Supply:** 120,682,600 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.9%
 
 **All-Time Low:** $0.43
-+434101.2%
++435260.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 2026 Lido Core upgrade introduces major improvements on the operator and validator layers, strengthening protocol security for stakers while keeping aligned with the Ethereum roadmap. Curated Module v2 (CMv2) introduces native support for 0x02 validators, bond and penalty mechanisms, and operator classification. It will gradually replace the legacy Curated Module as ETH stake is migrated to the new module through validator consolidation. CSM expands permissionless participation through the new Identified DVT Cluster operator type, alongside technical improvements that make the module more reliable and operator-friendly. Contributors are now working with operators on validator consolidation over the next few months. The migration could increase the share of ETH secured by 0x02 validators from around 32% to 52%, while reducing the total number of validators across the Ethereum network by around 30%. Further upgrades to both CMv2 and CSM in the near future: CMv2 will introduce a dynamic stake allocation mechanism through which stake can be distributed among Node Operators based on transparent parameters such as fees, performance, and other relevant factors. CSM will introduce a dedicated module for 0x02 validators, designed specifically to enable permissionless operators to run 0x02 validators with a bond. This new module will operate alongside the existing CSM instance for 0x01 validators, giving operators the flexibility to choose. https://x.com/LidoFinance/status/2081757295310983272
 
-12h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ The 2026 Lido Core upgrade introduces major improvements on the operator and val
 
 Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the way we design BlazePhoenix smart contracts needs to evolve. Patterns that were standard on L1 Ethereum (heavy storage usage, external oracle reliance, off-chain quoter infrastructure) often create unnecessary bottlenecks and security risks on L2. We designed an aggregator architecture built specifically around recent EVM upgrades to prove that on-chain liquidity routing can be both cheap and hyper-secure: EIP-1153 Native: Using transient storage for reentrancy and route state tracking instead of legacy storage variables. Oracle-Free Design: Eliminating third-party oracle vectors entirely by deriving real-time liquidity depth directly on-chain. Deterministic Execution: Eliminating "failed swap gas fees" by enforcing precise execution previews that mirror live EVM state. The goal is to build self-sustaining, immutable infrastructure that operates seamlessly for both human users and autonomous AI agents. Looking forward to hearing thoughts from the community on how L2-native EVM patterns are reshaping protocol design!
 
-16h ago
+19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ No public tooling existed for tracking Continuous Clearing Auctions — the new 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -128,7 +128,7 @@ There were problems with my regular payment, but I was craving takeout. In just 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -156,7 +156,7 @@ Glamsterdam upgrade targeting first testnet in September, Uniswap v4 Permissione
 
 Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.
 
-The Block • 9h ago
+The Block • 12h ago
 
 ---
 
@@ -164,15 +164,7 @@ The Block • 9h ago
 
 The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
 
-CoinDesk • 15h ago
-
----
-
-**[Arthur Hayes Buys $6.39M More Ethereum, Then the ETH Market Starts to Tumble](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-buys-6-39m-020712298.html)**
-
-Arthur Hayes bought $6.39M more ETH hours before Ether fell to $1,872, extending his $13.87M buying streak.
-
-Yahoo Finance • 2h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -180,15 +172,7 @@ Yahoo Finance • 2h ago
 
 Leading cryptocurrencies fell sharply on Monday as investors weighed developments around the Clarity Act and a pause in U.S.–Iran hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.98%$63,157.00Ethereum (CRYPTO: ETH) -3.67%$1,873.27XRP (CRYPTO: XRP) -4.60%$1.05Solana (CRYPTO: SOL) -4.09%$73.19Dogecoin (CRYPTO: DOGE) -4.59%$0.06954 Crypto Market Tumbles Bitcoin nearly dived below $63,000 in a sharp evening sell-off, while Ethereum fell to $1,860 a
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitmine Stock Pops 13% as ETH Treasury Bet Pays Off on Wall Street](https://finance.yahoo.com/markets/stocks/articles/bitmine-stock-pops-13-eth-025421567.html)**
-
-Bitmine's stock jumped 13% as its Ethereum treasury strategy and buybacks win over Wall Street investors, proving institutional interest.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -196,7 +180,7 @@ Yahoo Finance • 1h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
 
-PR Newswire • 15h ago
+PR Newswire • 18h ago
 
 ---
 
@@ -204,7 +188,31 @@ PR Newswire • 15h ago
 
 The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
 
-TradingView • 19h ago
+TradingView • 22h ago
+
+---
+
+**[Is Money Rotating Back Into Bitcoin and Ethereum ETFs While XRP and HYPE Funds Fade?](https://247wallst.com/investing/cryptocurrency/2026/07/26/is-money-rotating-back-into-bitcoin-and-ethereum-etfs-while-xrp-and-hype-funds-fade/)**
+
+Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[Current price of Ethereum for July 27, 2026](https://fortune.com/article/price-of-ethereum-07-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 20h ago
+
+---
+
+**[Lido Unveils Curated Module v2 in Ethereum Staking Overhaul](https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul)**
+
+Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
+
+The Defiant • 14h ago
 
 ---
 
@@ -220,15 +228,7 @@ MarketForces Africa • 1d ago
 
 Tom Lee calls Lighter critical Ethereum infrastructure. LIT trades near $2.20 as quarterly revenue drops a third quarter.
 
-BeInCrypto • 6h ago
-
----
-
-**[Current price of Ethereum for July 27, 2026](https://fortune.com/article/price-of-ethereum-07-27-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17h ago
+BeInCrypto • 9h ago
 
 ---
 
@@ -236,13 +236,13 @@ Fortune • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[🤩 Ethereum Breaking Out! - ETH Crypto Analysis](https://www.youtube.com/watch?v=YfRMuuZiZ6g)**
+**[Is the Ethereum Bounce a Trap or a Reversal](https://www.youtube.com/watch?v=ERd0n7olbI0)**
 
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+In this video I break down the latest Ethereum price analysis using Elliott Wave theory to determine if the current bounce is a ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 More Crypto Online
 
-👁️ 2K • 👍 74 • 💬 32 • ⏱️ 5:45 • 13h ago
+👁️ 3K • 👍 221 • 💬 9 • ⏱️ 6:58 • 16h ago
 
 ---
 
@@ -252,17 +252,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 10K • 👍 592 • 💬 543 • ⏱️ 13:03 • 1d ago
+👁️ 10K • 👍 601 • 💬 543 • ⏱️ 13:03 • 1d ago
 
 ---
 
-**[BITCOIN WARNING: DON&#39;T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EwZNXrSd2M8)**
+**[🤩 Ethereum Breaking Out! - ETH Crypto Analysis](https://www.youtube.com/watch?v=YfRMuuZiZ6g)**
 
-BITCOIN WARNING: DON'T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
 
-📺 Crypto World
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 206 • 💬 85 • ⏱️ 25:44 • 5h ago
+👁️ 2K • 👍 77 • 💬 33 • ⏱️ 5:45 • 16h ago
 
 ---
 
@@ -272,17 +272,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 402 • 💬 212 • ⏱️ 13:37 • 13h ago
-
----
-
-**[Is the Ethereum Bounce a Trap or a Reversal](https://www.youtube.com/watch?v=ERd0n7olbI0)**
-
-In this video I break down the latest Ethereum price analysis using Elliott Wave theory to determine if the current bounce is a ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 214 • 💬 9 • ⏱️ 6:58 • 13h ago
+👁️ 7K • 👍 418 • 💬 223 • ⏱️ 13:37 • 16h ago
 
 ---
 
@@ -292,7 +282,17 @@ Something bizarre is clearly happening in the crypto market right now, i dont kn
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 1K • 💬 579 • ⏱️ 21:32 • 1d ago
+👁️ 12K • 👍 1K • 💬 574 • ⏱️ 21:32 • 1d ago
+
+---
+
+**[BITCOIN WARNING: DON&#39;T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EwZNXrSd2M8)**
+
+BITCOIN WARNING: DON'T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 246 • 💬 91 • ⏱️ 25:44 • 8h ago
 
 ---
 
@@ -302,7 +302,27 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 2K • 👍 61 • 💬 59 • ⏱️ 11:54 • 4h ago
+👁️ 2K • 👍 61 • 💬 51 • ⏱️ 11:54 • 8h ago
+
+---
+
+**[🤨 ESTÁN COMPRANDO TODO EL ETHEREUM ¿POR QUÉ?](https://www.youtube.com/watch?v=U739KhxOCbM)**
+
+Gracias por ver! Únase a la conversación en nuestro Telegram: https://telegram.me/valueindexchat Links de interés: ...
+
+📺 Value Index · Bitcoin y Mercados
+
+👁️ 2K • 👍 222 • 💬 33 • ⏱️ 9:23 • 12h ago
+
+---
+
+**[ETHEREUM JUST BROKE OUT!🔥 (Urgent ETH Update)](https://www.youtube.com/watch?v=IsmSGOVT9Tg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 618 • 👍 19 • 💬 210 • ⏱️ 4:43 • 22h ago
 
 ---
 
@@ -313,26 +333,6 @@ In this video I break down the current Ethereum price action using Elliott Wave 
 📺 More Crypto Online
 
 👁️ 5K • 👍 226 • 💬 12 • ⏱️ 8:19 • 1d ago
-
----
-
-**[ETHEREUM JUST BROKE OUT!🔥 (Urgent ETH Update)](https://www.youtube.com/watch?v=IsmSGOVT9Tg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 550 • 👍 19 • 💬 229 • ⏱️ 4:43 • 19h ago
-
----
-
-**[🤨 ESTÁN COMPRANDO TODO EL ETHEREUM ¿POR QUÉ?](https://www.youtube.com/watch?v=U739KhxOCbM)**
-
-Gracias por ver! Únase a la conversación en nuestro Telegram: https://telegram.me/valueindexchat Links de interés: ...
-
-📺 Value Index · Bitcoin y Mercados
-
-👁️ 2K • 👍 213 • 💬 35 • ⏱️ 9:23 • 9h ago
 
 ---
 
