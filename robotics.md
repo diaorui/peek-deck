@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T20:00:45.880105+00:00'
+updated: '2026-07-28T21:38:44.414083+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 20:00 UTC  
+**Last Updated:** July 28, 2026 at 21:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,49 +106,59 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 ## Google News: "robotics"
 
-**[Enigma raises $71M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)**
+**[EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
-The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
-
-TechCrunch • 1d ago
+Reuters • 56m ago
 
 ---
 
-**[Light Flips Memory to Feed Hungry AI Chips With Less Energy](https://spectrum.ieee.org/ai-in-robotics)**
+**[Trump administration to ban new Chinese robots and inverters, protecting U.S. AI](https://www.cnbc.com/2026/07/28/trump-administration-to-ban-new-chinese-robots-and-inverters-protecting-us-ai.html)**
 
-Projecting light directly onto a chip could stream data using less energy
+The Trump administration on Tuesday plans to unveil new bans that target imports of ⁠the latest ‌Chinese robots and power inverters, seeking ⁠to protect the U.S. AI buildout from national security threats and reshore key industries slated for explosive growth, U.S. officials said.
 
-IEEE Spectrum • 2d ago
-
----
-
-**[EXCLUSIVE: Trump administration to ban new Chinese robots and inverters, protecting US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
-
-Reuters • 54m ago
+CNBC • 2h ago
 
 ---
 
-**[School District Pauses Plans to Deploy Humanoid Robots in Class After Outcry](https://www.yahoo.com/news/us/articles/sex-doll-company-strikes-bizarre-120100760.html)**
+**[The Trump administration has banned imports of new Chinese humanoid robots and power inverters](https://www.businessinsider.com/trump-expands-tech-crackdown-on-china-imports-to-humanoid-robots-2026-7)**
 
-It's on pause.
+Trump banned new imports of Chinese humanoid robots and power inverters used in data centers to protect the domestic AI supply chain.
 
-Yahoo • 2d ago
-
----
-
-**[China's Unitree Robotics eyes capacity boost to meet humanoid demand](https://asia.nikkei.com/editor-s-picks/interview/china-s-unitree-robotics-eyes-capacity-boost-to-meet-humanoid-demand)**
-
-Senior executive sees Japan as potential engineering hub
-
-Nikkei Asia • 18h ago
+Business Insider • 13m ago
 
 ---
 
-**[Making robots faster by helping them think ahead](https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728)**
+**[Trump administration bans Chinese hardware with eye on AI race](https://www.axios.com/2026/07/28/trump-administration-bans-chinese-hardware-ai-race)**
 
-The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
+Axios • 47m ago
 
-MIT News • 16h ago
+---
+
+**[Trump administration bans foreign-made robots and power gear amid fears of Chinese influence](https://www.politico.com/news/2026/07/28/trump-administration-bans-foreign-made-robots-and-power-gear-amid-fears-of-chinese-influence-01013995)**
+
+Politico • 43m ago
+
+---
+
+**[Trump admin will ban Chinese humanoid robots and inverters to protect US AI buildout, report says](https://www.independent.co.uk/news/world/americas/us-politics/trump-bans-chinese-humanoid-robots-inverters-ai-b3023317.html)**
+
+Authorities aim to avert another Chinese government-linked hacking campaign, such as the ‘Volt Typhoon’ operation revealed in 2023
+
+The Independent • 1h ago
+
+---
+
+**[US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies](https://www.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies)**
+
+South China Morning Post • 5d ago
+
+---
+
+**[The FCC's Next Target: Foreign-Made Humanoid Robots and Power Inverters](https://www.pcmag.com/news/the-fccs-next-target-foreign-made-humanoid-robots-and-power-inverters)**
+
+After banning foreign-made Wi-Fi routers and drones, the FCC cites a White House order to claim that foreign-made advanced robots and power inverters also pose a security risk.
+
+PCMag • 14m ago
 
 ---
 
@@ -156,29 +166,15 @@ MIT News • 16h ago
 
 The NVIDIA Jetson platform for edge AI and robotics gives busy developers both power and portability in one agentic-ready AI platform.
 
-NVIDIA Blog • 1h ago
+NVIDIA Blog • 2h ago
 
 ---
 
-**[AI underwater robots can now track diver stress via exhaled bubbles](https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html)**
+**[Why the future of robots is serving humans, not just imitating them](https://www.weforum.org/stories/emerging-technologies/why-future-of-robots-human/)**
 
-Tech Xplore • 1d ago
+The real promise of physical AI and assistive robotics is helping humans live more connected, independent and meaningful lives.
 
----
-
-**[XTEND expands in Europe with Lavtia's Atlas, boosting robotics portfolio](https://www.jpost.com/defense-and-tech/article-903877)**
-
-With Atlas merger, XTEND boosts its autonomous systems portfolio and strengthens support for NATO and EU partners.
-
-The Jerusalem Post • 11h ago
-
----
-
-**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
-
-As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
-
-The Information • 1d ago
+The World Economic Forum • 2h ago
 
 ---
 
@@ -192,7 +188,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 126K • 👍 2K • 💬 900 • ⏱️ 2:15 • 19h ago
+👁️ 153K • 👍 2K • 💬 985 • ⏱️ 2:15 • 21h ago
 
 ---
 
@@ -202,27 +198,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 14K • 👍 434 • 💬 25 • ⏱️ 4:23 • 2d ago
-
----
-
-**[These Robots Are Taking Over  #robots](https://www.youtube.com/watch?v=kTfUAPw4VQI)**
-
-In this exciting video, we explore the cutting-edge world of robotics and the machines that are already transforming our lives.
-
-📺 AI BROS
-
-👁️ 9K • 👍 144 • 💬 63 • ⏱️ 1:07 • 8h ago
-
----
-
-**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
-
-One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
-
-📺 NBC News
-
-👁️ 16K • 👍 170 • 💬 94 • ⏱️ 5:29 • 5d ago
+👁️ 15K • 👍 447 • 💬 26 • ⏱️ 4:23 • 2d ago
 
 ---
 
@@ -232,35 +208,17 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 4K • 👍 114 • 💬 68 • ⏱️ 3:10 • 23h ago
+👁️ 4K • 👍 137 • 💬 78 • ⏱️ 3:10 • 1d ago
 
 ---
 
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
 
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
 
-📺 New York Post
+📺 NBC News
 
-👁️ 58K • 👍 1K • 💬 454 • ⏱️ 2:02 • 6d ago
-
----
-
-**[The Robot Hand That Can Grab Anything](https://www.youtube.com/watch?v=hERNweUccK4)**
-
-Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" for 20% off.
-
-📺 The Action Lab
-
-👁️ 410K • 👍 12K • 💬 866 • ⏱️ 7:44 • 3d ago
-
----
-
-**[R1’s Box Teleported… Then It Opened! 🤯📦#robot #robotic #robotdog #ruko #unboxing](https://www.youtube.com/watch?v=XfaWNVwG4qw)**
-
-📺 Smarttoy Ruko
-
-👁️ 11K • 👍 107 • ⏱️ 0:23 • 10h ago
+👁️ 17K • 👍 170 • 💬 94 • ⏱️ 5:29 • 5d ago
 
 ---
 
@@ -270,17 +228,57 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UC4pND
 
 📺 Not What You Think
 
-👁️ 24K • 👍 3K • 💬 144 • ⏱️ 0:29 • 5h ago
+👁️ 63K • 👍 5K • 💬 272 • ⏱️ 0:29 • 7h ago
 
 ---
 
-**[GATE 2027 Robotics and Automation | GATE 2027 New Syllabus | GATE Robotics &amp; Automation Full Course](https://www.youtube.com/watch?v=Mz3jAiOYD-U)**
+**[Solving the Hardest Problem in Robotics | World Labs with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
 
-Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course based on the GATE 2027 New Syllabus.
+Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
 
-📺 GATE Wallah
+📺 a16z
 
-👁️ 4K • 👍 139 • 💬 7 • ⏱️ 17:35 • 1d ago
+👁️ 4K • 💬 9 • ⏱️ 42:21 • 7h ago
+
+---
+
+**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
+
+AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
+
+📺  Beesoft Bd
+
+👁️ 107K • 💬 4 • ⏱️ 0:16 • 5d ago
+
+---
+
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+
+📺 New York Post
+
+👁️ 59K • 👍 1K • 💬 467 • ⏱️ 2:02 • 6d ago
+
+---
+
+**[The Lockdown Vulcan Setup You NEED To Try [War Robots]](https://www.youtube.com/watch?v=KddlarGe_JM)**
+
+The Lockdown Vulcan setup you NEED to try – that is the Vulcan with Ultimate Coronas and Ultimate Shredders in War Robots.
+
+📺 Adrian Chong
+
+👁️ 3K • 👍 165 • 💬 35 • ⏱️ 12:54 • 8h ago
+
+---
+
+**[The Robot Hand That Can Grab Anything](https://www.youtube.com/watch?v=hERNweUccK4)**
+
+Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" for 20% off.
+
+📺 The Action Lab
+
+👁️ 417K • 👍 12K • 💬 879 • ⏱️ 7:44 • 3d ago
 
 ---
 
