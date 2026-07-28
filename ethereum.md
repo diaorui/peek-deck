@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-27T23:02:14.312598+00:00'
+updated: '2026-07-28T00:55:05.551150+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 27, 2026 at 23:02 UTC  
+**Last Updated:** July 28, 2026 at 00:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -2.1%  
-**30d:** +20.2%  
-**90d:** -16.2%  
-**1y:** -50.2%  
+**24h:** -3.5%  
+**7d:** -2.8%  
+**30d:** +16.5%  
+**90d:** -16.8%  
+**1y:** -50.5%  
 
 ---
 
@@ -156,39 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
 
-CoinDesk • 10h ago
-
----
-
-**[Is Money Rotating Back Into Bitcoin and Ethereum ETFs While XRP and HYPE Funds Fade?](https://247wallst.com/investing/cryptocurrency/2026/07/26/is-money-rotating-back-into-bitcoin-and-ethereum-etfs-while-xrp-and-hype-funds-fade/)**
-
-Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
-
-24/7 Wall St. • 1d ago
-
----
-
-**[Tom Lee Says This Ethereum Project Could Be a Game-Changer](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-project-220000873.html)**
-
-Tom Lee calls Lighter critical Ethereum infrastructure. LIT trades near $2.20 as quarterly revenue drops a third quarter.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.79 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-79-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302834876.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
-
-PR Newswire • 10h ago
-
----
-
-**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
-
-The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
-
-TradingView • 14h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -196,7 +164,31 @@ TradingView • 14h ago
 
 Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.
 
-The Block • 4h ago
+The Block • 5h ago
+
+---
+
+**[Tom Lee Says This Ethereum Project Could Be a Game-Changer](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-project-220000873.html)**
+
+Tom Lee calls Lighter critical Ethereum infrastructure. LIT trades near $2.20 as quarterly revenue drops a third quarter.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.79 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-79-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302834876.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
+
+PR Newswire • 12h ago
+
+---
+
+**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+
+The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
+
+TradingView • 16h ago
 
 ---
 
@@ -212,7 +204,7 @@ MarketForces Africa • 1d ago
 
 Bitcoin (BTC) maintains a neutral-to-bullish outlook, trading above $65,000 on Monday. Ethereum (ETH) is approaching the key supply and inflection point $2,000, while Ripple (XRP) hovers slightly above $1.10, underscoring a marginal improvement in the broader cryptocurrency market sentiment.
 
-FXStreet • 12h ago
+FXStreet • 13h ago
 
 ---
 
@@ -220,7 +212,15 @@ FXStreet • 12h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 5h ago
+
+---
+
+**[Is Money Rotating Back Into Bitcoin and Ethereum ETFs While XRP and HYPE Funds Fade?](https://247wallst.com/investing/cryptocurrency/2026/07/26/is-money-rotating-back-into-bitcoin-and-ethereum-etfs-while-xrp-and-hype-funds-fade/)**
+
+Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
+
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ Fortune • 3h ago
 
 Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
 
-The Defiant • 6h ago
+The Defiant • 18h ago
 
 ---
 
@@ -242,7 +242,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 67 • 💬 25 • ⏱️ 5:45 • 8h ago
+👁️ 1K • 👍 67 • 💬 25 • ⏱️ 5:45 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ In this video I break down the latest Ethereum price analysis using Elliott Wave
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 26 • ⏱️ 6:58 • 8h ago
+👁️ 3K • 👍 201 • 💬 26 • ⏱️ 6:58 • 10h ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN WARNING: DON'T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 424 • 👍 43 • 💬 21 • ⏱️ 25:44 • 27m ago
+👁️ 424 • 👍 43 • 💬 21 • ⏱️ 25:44 • 2h ago
 
 ---
 
@@ -282,7 +282,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 377 • 💬 160 • ⏱️ 13:37 • 8h ago
+👁️ 5K • 👍 377 • 💬 160 • ⏱️ 13:37 • 10h ago
 
 ---
 
@@ -292,7 +292,7 @@ Ethereum (ETH) is leading the altcoin market with a 23% monthly gain, fueled by 
 
 📺 FXEmpire
 
-👁️ 43 • 👍 1 • 💬 36 • ⏱️ 6:00 • 5h ago
+👁️ 43 • 👍 1 • 💬 36 • ⏱️ 6:00 • 7h ago
 
 ---
 
@@ -302,7 +302,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 458 • 👍 19 • 💬 84 • ⏱️ 4:43 • 14h ago
+👁️ 458 • 👍 19 • 💬 84 • ⏱️ 4:43 • 16h ago
 
 ---
 
@@ -312,7 +312,7 @@ BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 274 • 💬 221 • ⏱️ 26:30 • 21h ago
+👁️ 6K • 👍 274 • 💬 221 • ⏱️ 26:30 • 23h ago
 
 ---
 
@@ -332,7 +332,7 @@ Ethereum and XRP are designed for different purposes. Ethereum pioneered smart c
 
 📺 Jake Claver
 
-👁️ 4K • 👍 261 • 💬 1 • ⏱️ 2:12 • 8h ago
+👁️ 4K • 👍 261 • 💬 1 • ⏱️ 2:12 • 10h ago
 
 ---
 

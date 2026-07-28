@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-27T23:02:14.315923+00:00'
+updated: '2026-07-28T00:55:05.554384+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 27, 2026 at 23:02 UTC  
+**Last Updated:** July 28, 2026 at 00:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-16h ago
+18h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 
-TechCrunch • 10h ago
+TechCrunch • 11h ago
 
 ---
 
@@ -118,7 +118,7 @@ TechCrunch • 10h ago
 
 Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
-calcalistech.com • 9h ago
+calcalistech.com • 10h ago
 
 ---
 
@@ -126,7 +126,7 @@ calcalistech.com • 9h ago
 
 As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-The Information • 7h ago
+The Information • 9h ago
 
 ---
 
@@ -136,11 +136,11 @@ Tech Xplore • 1d ago
 
 ---
 
-**[SAPPHIRE Technology Unveils EDGE+ Apex Robotics Platform](https://www.techpowerup.com/351113/sapphire-technology-unveils-edge-apex-robotics-platform)**
+**[Robotic arm assisted surgery comes to Tobey Hospital](https://wareham.theweektoday.com/article/robotic-arm-assisted-surgery-comes-tobey-hospital/158691)**
 
-SAPPHIRE Technology today unveiled the EDGE+ Apex SOM/Carrier Robotics Platform, a production-ready hardware platform powered by AMD Ryzen AI Embedded X100 Series processors and designed to accelerate the development and deployment of physical AI in autonomous robotics. The platform has been...
+Orthopedic doctors at Tobey Hospital have a new team member coming on board. However, this team member isn't a human doctor. It's a robot — which may soon be in the operating room.
 
-TechPowerUp • 8h ago
+Wareham, MA News • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ IEEE Spectrum • 1d ago
 
 Axis Robotics, the compounding data engine accelerating Physical AI, announces that it has raised $12 million in a seed round led by Hack VC, with
 
-The Block • 10h ago
+The Block • 12h ago
 
 ---
 
@@ -164,21 +164,23 @@ The Block • 10h ago
 
 'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'
 
-ZDNET • 10h ago
+ZDNET • 12h ago
 
 ---
 
-**["Digital DNA" could preserve human's identity in humanoid after demise](https://interestingengineering.com/ai-robotics/new-digital-dna-project-humanoid-robot)**
+**[2,000 humanoids to take on textile production in Chinese firm's push](https://interestingengineering.com/ai-robotics/china-humanoid-robots-textile-manufacturing)**
 
-A new AI project claims "digital DNA" could preserve human identities in humanoid robots, potentially extending legacies beyond death.
+A Chinese manufacturing firm orders 2,000 humanoid robots to automate apparel production, targeting smarter and more efficient factories.
 
-Interesting Engineering • 9h ago
+Interesting Engineering • 10h ago
 
 ---
 
-**[A $57,590 Robot Was Supposed to Transform Learning. Instead, It Triggered a Backlash](https://www.inc.com/georgia-fearn/robot-was-supposed-to-transform-learning-triggered-a-backlash/91380729)**
+**[SAPPHIRE Technology Unveils EDGE+ Apex Robotics Platform](https://www.techpowerup.com/351113/sapphire-technology-unveils-edge-apex-robotics-platform)**
 
-inc.com • 1h ago
+SAPPHIRE Technology today unveiled the EDGE+ Apex SOM/Carrier Robotics Platform, a production-ready hardware platform powered by AMD Ryzen AI Embedded X100 Series processors and designed to accelerate the development and deployment of physical AI in autonomous robotics. The platform has been...
+
+TechPowerUp • 10h ago
 
 ---
 
@@ -222,7 +224,7 @@ Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course
 
 📺 GATE Wallah
 
-👁️ 2K • 👍 83 • 💬 2 • ⏱️ 17:35 • 5h ago
+👁️ 2K • 👍 83 • 💬 2 • ⏱️ 17:35 • 7h ago
 
 ---
 
@@ -242,7 +244,7 @@ Automata (2014) is a sci-fi thriller set in a future where Earth has become near
 
 📺 NAVER LABS
 
-👁️ 185K • 👍 31 • ⏱️ 0:47 • 4d ago
+👁️ 185K • 👍 31 • ⏱️ 0:47 • 5d ago
 
 ---
 
@@ -270,7 +272,7 @@ Cult icon SHERI MOON ZOMBIE unveils debut single and video "I Love My Robot." Li
 
 📺 Nuclear Blast Records
 
-👁️ 44K • 👍 3K • 💬 687 • ⏱️ 2:50 • 9h ago
+👁️ 44K • 👍 3K • 💬 687 • ⏱️ 2:50 • 10h ago
 
 ---
 
