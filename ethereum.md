@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-28T16:46:27.287611+00:00'
+updated: '2026-07-28T18:14:43.445554+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 16:46 UTC  
+**Last Updated:** July 28, 2026 at 18:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,923.14
+### $1,910.01
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** -0.6%  
-**30d:** +19.2%  
-**90d:** -14.9%  
-**1y:** -49.3%  
+**24h:** -2.0%  
+**7d:** -1.3%  
+**30d:** +18.3%  
+**90d:** -15.5%  
+**1y:** -49.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.86B
+**Market Cap:** $230.30B
 Rank #2
 
 **Circulating Supply:** 120,682,600 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.8%
+-61.4%
 
 **All-Time Low:** $0.43
-+436110.5%
++440598.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+13h ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/70574beKPfg) • 3d ago
+🔗 [youtu.be](https://youtu.be/70574beKPfg) • 4d ago
 
 ---
 
@@ -156,15 +156,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.
 
-The Block • 21h ago
-
----
-
-**[Bitmine Buys Another 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-10-000-133500535.html)**
-
-Bitmine Immersion Technologies (NYSE: $BMNR) purchased another 10,000 Ethereum (CRYPTO: $ETH) over the past week.&n...
-
-Yahoo Finance • 1d ago
+The Block • 23h ago
 
 ---
 
@@ -176,33 +168,47 @@ PR Newswire • 1d ago
 
 ---
 
+**[Ethereum news: Bitmine (BMNR) buys more as Tom Lee says ETH-BTC sends bullish signal](https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices)**
+
+The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
+
+CoinDesk • 1d ago
+
+---
+
 **[Why Bitmine Stock Popped Today](https://www.fool.com/investing/2026/07/27/why-bitmine-stock-bmnr-is-up-today/)**
 
 The crypto treasury leader has quietly amassed a significant share of Ethereum's total supply.
 
-The Motley Fool • 18h ago
+The Motley Fool • 20h ago
 
 ---
 
-**[Large cryptocurrencies drop on Solana, Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-solana-ethereum-declines-d6d5186c-d3aa3f312e86)**
+**[Ethereum and solana are getting busier — and cheaper. What's going on?](https://finance.yahoo.com/video/ethereum-solana-getting-busier-cheaper-173000356.html)**
 
-MarketWatch • 2h ago
+Ethereum (ETH-USD) and solana (SOL-USD) are getting busier and cheaper, even as token prices fall, according to Bitwise.
 
----
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
-**[Ethereum staking hits a record high, creates a hidden exit risk](https://www.21shares.com/fr-eu/insights/ethereum-staking-exit-queue-risk)**
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Ethereum staking has hit a record high. One firm's financing structure could force a liquidation that locks other validators in the exit queue for days.
-
-21Shares • 52m ago
+Yahoo Finance • 44m ago
 
 ---
 
-**[Morgan Stanley Launches 0.14% Ethereum and Solana ETFs: Will Flows Follow?](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-launches-0-14-155241734.html)**
+**[Morgan Stanley’s MSSE Offers Ethereum Exposure at Market-Leading 0.14% Cost](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-msse-offers-ethereum-164605723.html)**
 
-Morgan Stanley's Ethereum and Solana ETFs charge just 0.14%. Filings reveal a 47-day catch on the staking yield.
+Morgan Stanley just entered the spot ether market with a fee structure that undercuts most established rivals, and it is pairing that price advantage with a staking feature that could quietly change what investors actually earn.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[After Bitcoin Success, Morgan Stanley Bets Bigger On Ethereum And Solana ETFs](https://finance.yahoo.com/markets/crypto/articles/bitcoin-success-morgan-stanley-bets-161734948.html)**
+
+The launch comes on the heels of the firm’s Bitcoin Trust (MSBT), now with more than $381 million in assets under management.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -218,15 +224,13 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 4h ago
 
 ---
 
-**[Bitcoin’s breakdown puts Ethereum, Breadth and ALT risk back in focus](https://www.kitco.com/opinion/2026-07-28/bitcoins-breakdown-puts-ethereum-breadth-and-alt-risk-back-focus)**
+**[Large cryptocurrencies drop on Solana, Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-solana-ethereum-declines-d6d5186c-d3aa3f312e86)**
 
-.embed-container-btc-breakdown-alt-risk { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container-btc-breakdown-alt-risk iframe, .embed-container-btc-breakdown-alt-risk object, .embed-container-btc-breakdown-alt-risk embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&nbsp;Video: Bitcoin Confirms The Next Drop Is Coming SoonBitcoin’s failure to sustain its recent higher-low structure has shifted the daily market update toward downside risk. Ethereum has not yet completed the same structural break, but its momentum warning is clear, while crypto breadth, the dollar and multiple ALT charts point to a more defensive backdrop.Bitcoin loses the structure that supported the prior upside caseBitcoin chart showing a break below recent higher-low structureThe source describes Bitcoin’s Monday red close and subsequent move below the prior low as the development that changed the near-term picture. Earlier upside expectations are no longer the focus; the chart is now being assessed against successive support steps and the possibility of further downside momentum.Ethereum has a warning signal but not full bearish confirmationEthereum chart inside the Cloud with RSI support brokenEthereum remains inside its Cloud and therefore has not yet completed the structural shift described for Bitcoin. However, RSI has already lost support. The source treats a bearish OBV cross and a move below the Cloud as the additional confirmation needed for the downside case, keeping the current read conditional rather than absolute.Dominance and crypto breadth show the dip is not being absorbedCrypto market breadth chart moving below the CloudBitcoin dominance is declining, but the source interprets that as selling into the dip rather than an automatic bullish signal for alternative assets. ETH.D, SOL.D, TOTALES and related breadth measures are showing breakdown or strong-bearish conditions. Dominance is market share, not a direct spot-price forecast, so those charts require careful interpretation.Dollar strength and equity weakness increase the risk backdropDollar index chart pushing higherDXY and USDJPY are still advancing in the source analysis, a combination viewed as unfavorable for broader risk assets. S&amp;P futures are in bearish consolidation, and the analysis notes bearish evidence across NDX, FANG and several large technology names. Asian-market weakness adds to the defensive tone without turning any one chart into a guaranteed outcome.Commodities send mixed signalsNASDAQ chart with a TBO Open Short signalGold has bullish-divergence evidence but remains strong bearish below the Cloud in the source view. Silver and uranium also remain bearish, while copper is holding relatively better. The PAXG/BTC chart is highlighted as an important relative-strength gauge: a confirmed shift there would indicate movement away from Bitcoin and toward gold.ALT setups favor caution and selectivitySolana chart with TBO Open Short confirmationSOL confirmed a TBO Open Short and moved into strong-bearish mode below the Cloud. LINK was rejected at the top of its Cloud, while XLM, NEAR, RENDER, FET and SEI each carry breakdown, support-loss or weakness commentary. The source does not reduce all ALT charts to one call, but it frames the broader context as unfavorable for indiscriminate risk-taking.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
-
-KITCO • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -240,17 +244,17 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 📺 The Rollup
 
-👁️ 443 • 👍 17 • 💬 3 • ⏱️ 6:40 • 4h ago
+👁️ 1K • 👍 23 • 💬 18 • ⏱️ 6:40 • 6h ago
 
 ---
 
-**[THIS IS WHERE I WILL BUY ETH! (Ethereum Update)](https://www.youtube.com/watch?v=nSGJqG8qjvs)**
+**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
 
-📺 Cilinix Crypto
+📺 Crypto Capital Venture
 
-👁️ 295 • 👍 23 • 💬 10 • ⏱️ 4:29 • 7h ago
+👁️ 3K • 👍 326 • 💬 152 • ⏱️ 12:59 • 2h ago
 
 ---
 
@@ -260,7 +264,17 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 63K • 👍 1K • 💬 222 • ⏱️ 6:11 • 20h ago
+👁️ 68K • 👍 1K • 💬 225 • ⏱️ 6:11 • 22h ago
+
+---
+
+**[THIS IS WHERE I WILL BUY ETH! (Ethereum Update)](https://www.youtube.com/watch?v=nSGJqG8qjvs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 425 • 👍 25 • 💬 10 • ⏱️ 4:29 • 9h ago
 
 ---
 
@@ -270,57 +284,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 11K • 👍 618 • 💬 566 • ⏱️ 13:03 • 1d ago
+👁️ 11K • 👍 629 • 💬 590 • ⏱️ 13:03 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Test CYCLE RESISTANCE! BIG CAUTION...](https://www.youtube.com/watch?v=mheLsyCYL_Y)**
+**[Ethereum Is Falling Harder: Structure Still Matters](https://www.youtube.com/watch?v=e66IP4ogryY)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+Ethereum Is Falling Harder: Structure Still Matters Ethereum is showing weakness despite relative strength. I am watching ...
 
-📺 Crypto Capital Venture
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 426 • 💬 244 • ⏱️ 13:37 • 1d ago
-
----
-
-**[Ethereum price prediction - ETH will rise soon](https://www.youtube.com/watch?v=XXN2XeFsggU)**
-
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
-
-📺 Crypto With James
-
-👁️ 2K • 👍 70 • 💬 44 • ⏱️ 11:54 • 17h ago
-
----
-
-**[🤩 Ethereum Breaking Out! - ETH Crypto Analysis](https://www.youtube.com/watch?v=YfRMuuZiZ6g)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 83 • 💬 33 • ⏱️ 5:45 • 1d ago
-
----
-
-**[Is the Ethereum Bounce a Trap or a Reversal](https://www.youtube.com/watch?v=ERd0n7olbI0)**
-
-In this video I break down the latest Ethereum price analysis using Elliott Wave theory to determine if the current bounce is a ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 232 • 💬 9 • ⏱️ 6:58 • 1d ago
-
----
-
-**[Something VERY Strange Is Happening With Crypto Ethereum Might Cause A MASSIVE Altcoin Season](https://www.youtube.com/watch?v=EigE6yCl-KY)**
-
-Something bizarre is clearly happening in the crypto market right now, i dont know how more people arent talking about it.
-
-📺 Money Rules - Investing Tips 
-
-👁️ 13K • 👍 1K • 💬 626 • ⏱️ 21:32 • 2d ago
+👁️ 426 • 👍 17 • ⏱️ 1:10 • 6h ago
 
 ---
 
@@ -330,7 +304,37 @@ BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 7K • 👍 276 • 💬 248 • ⏱️ 26:30 • 1d ago
+👁️ 7K • 👍 276 • 💬 247 • ⏱️ 26:30 • 1d ago
+
+---
+
+**[Ethereum price prediction - ETH will rise soon](https://www.youtube.com/watch?v=XXN2XeFsggU)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 2K • 👍 72 • 💬 45 • ⏱️ 11:54 • 19h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Test CYCLE RESISTANCE! BIG CAUTION...](https://www.youtube.com/watch?v=mheLsyCYL_Y)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 428 • 💬 269 • ⏱️ 13:37 • 1d ago
+
+---
+
+**[BITCOIN WARNING: DON&#39;T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EwZNXrSd2M8)**
+
+BITCOIN WARNING: DON'T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 261 • 💬 117 • ⏱️ 25:44 • 19h ago
 
 ---
 

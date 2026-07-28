@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T16:46:27.290868+00:00'
+updated: '2026-07-28T18:14:43.448730+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 16:46 UTC  
+**Last Updated:** July 28, 2026 at 18:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Putting this little companion robot together today. He did not smoke or catch on fire when I attached a 4S LiPo battery to him so feeling pretty good about life right now. A lot more to do but sometimes the little things in robotics are the best ones. He powered up. He didn't smoke out. I'm happy. Jetson Orin on board. More to come.
 
-1d ago
+2d ago
 
 ---
 
@@ -122,11 +122,19 @@ The Information • 1d ago
 
 ---
 
+**[State aid OK'd for robot maker's expansion, project near Eastern Market](https://www.detroitnews.com/story/business/2026/07/28/state-oks-aid-for-robotics-firm-project-development-near-eastern-market/91075847007/)**
+
+The funding approved by the Michigan Strategic Fund board will support Fanuc expansion in Pontiac, project to revitalize vacant buildings near market.
+
+The Detroit News • 1h ago
+
+---
+
 **[Electronics & Semiconductor Assembly Robotics Market to Reach USD 17.1 Billion by 2036 as Smart Factory Automation and Semiconductor Manufacturing Expansion Drive Global Growth](https://sg.finance.yahoo.com/news/electronics-semiconductor-assembly-robotics-market-163600154.html)**
 
 According to Future Market Insights (FMI), the global Electronics & Semiconductor Assembly Robotics Market is expected to experience strong growth as semiconductor manufacturers and electronics producers accelerate investments in factory automation, precision assembly, and smart manufacturing technologies. the market is projected to grow from USD 6.6 billion in 2026 to USD 17.1 billion by 2036, registering a robust 10.0% CAGR during the forecast period. Rising demand for advanced semiconductor c
 
-Yahoo Finance Singapore • 10m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -134,7 +142,7 @@ Yahoo Finance Singapore • 10m ago
 
 The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
 
-MIT News • 12h ago
+MIT News • 14h ago
 
 ---
 
@@ -146,17 +154,17 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[AI underwater robots can now track diver stress via exhaled bubbles](https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 **[XTEND expands in Europe with Lavtia's Atlas, boosting robotics portfolio](https://www.jpost.com/defense-and-tech/article-903877)**
 
 With Atlas merger, XTEND boosts its autonomous systems portfolio and strengthens support for NATO and EU partners.
 
-The Jerusalem Post • 8h ago
-
----
-
-**[AI underwater robots can now track diver stress via exhaled bubbles](https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html)**
-
-Tech Xplore • 23h ago
+The Jerusalem Post • 9h ago
 
 ---
 
@@ -164,7 +172,7 @@ Tech Xplore • 23h ago
 
 Senior executive sees Japan as potential engineering hub
 
-Nikkei Asia • 15h ago
+Nikkei Asia • 16h ago
 
 ---
 
@@ -173,14 +181,6 @@ Nikkei Asia • 15h ago
 It's on pause.
 
 Yahoo • 2d ago
-
----
-
-**[How to invest in humanoid robotics, the potential $5 trillion market that’s straight out of science fiction](https://www.businessinsider.com/humanoid-robotics-stocks-etfs-how-to-invest-koid-labor-manufacturing-2026-7)**
-
-Robots that can replace human workers may be closer than ever because of the AI boom. Here's how some investing pros are getting in early on the trend.
-
-Business Insider • 1h ago
 
 ---
 
@@ -194,27 +194,27 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 84K • 👍 2K • 💬 703 • ⏱️ 2:15 • 16h ago
+👁️ 126K • 👍 2K • 💬 900 • ⏱️ 2:15 • 18h ago
 
 ---
 
-**[New Humanoid Robot With &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
 
 Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
 
 📺 CNET
 
-👁️ 13K • 👍 415 • 💬 24 • ⏱️ 4:23 • 2d ago
+👁️ 14K • 👍 434 • 💬 25 • ⏱️ 4:23 • 2d ago
 
 ---
 
-**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
+**[These Robots Are Taking Over  #robots](https://www.youtube.com/watch?v=kTfUAPw4VQI)**
 
-A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
+In this exciting video, we explore the cutting-edge world of robotics and the machines that are already transforming our lives.
 
-📺 NewsNation
+📺 AI BROS
 
-👁️ 4K • 👍 108 • 💬 65 • ⏱️ 3:10 • 19h ago
+👁️ 9K • 👍 144 • 💬 63 • ⏱️ 1:07 • 6h ago
 
 ---
 
@@ -228,13 +228,13 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 ---
 
-**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
+**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
 
-AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
+A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
 
-📺  Beesoft Bd
+📺 NewsNation
 
-👁️ 107K • 💬 4 • ⏱️ 0:16 • 5d ago
+👁️ 4K • 👍 114 • 💬 68 • ⏱️ 3:10 • 21h ago
 
 ---
 
@@ -244,17 +244,17 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 57K • 👍 1K • 💬 445 • ⏱️ 2:02 • 6d ago
+👁️ 58K • 👍 1K • 💬 454 • ⏱️ 2:02 • 6d ago
 
 ---
 
-**[Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT](https://www.youtube.com/watch?v=iEoMJJvjPwY)**
+**[The Robot Hand That Can Grab Anything](https://www.youtube.com/watch?v=hERNweUccK4)**
 
-Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT Solar power is about to get unbelievably cheap thanks to ...
+Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" for 20% off.
 
-📺 The Electric Viking
+📺 The Action Lab
 
-👁️ 59K • 👍 3K • 💬 383 • ⏱️ 8:18 • 1d ago
+👁️ 410K • 👍 12K • 💬 866 • ⏱️ 7:44 • 3d ago
 
 ---
 
@@ -262,7 +262,7 @@ Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT Solar power i
 
 📺 Smarttoy Ruko
 
-👁️ 5K • 👍 58 • ⏱️ 0:23 • 6h ago
+👁️ 11K • 👍 107 • ⏱️ 0:23 • 8h ago
 
 ---
 
@@ -272,17 +272,17 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UC4pND
 
 📺 Not What You Think
 
-👁️ 2K • 👍 190 • 💬 13 • ⏱️ 0:29 • 2h ago
+👁️ 24K • 👍 3K • 💬 144 • ⏱️ 0:29 • 3h ago
 
 ---
 
-**[How This ‘Beyblade’ Robot Actually Moves](https://www.youtube.com/watch?v=VarfV9wek2I)**
+**[GATE 2027 Robotics and Automation | GATE 2027 New Syllabus | GATE Robotics &amp; Automation Full Course](https://www.youtube.com/watch?v=Mz3jAiOYD-U)**
 
-Still dialing in the perfect spin. Even with three decades of coding under his belt, melty brains aren't easy to get right. The builder ...
+Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course based on the GATE 2027 New Syllabus.
 
-📺 NHRL
+📺 GATE Wallah
 
-👁️ 43K • 👍 2K • 💬 23 • ⏱️ 1:28 • 7d ago
+👁️ 4K • 👍 139 • 💬 7 • ⏱️ 17:35 • 1d ago
 
 ---
 
