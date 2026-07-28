@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-28T00:55:05.544995+00:00'
+updated: '2026-07-28T04:10:37.294236+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 00:55 UTC  
+**Last Updated:** July 28, 2026 at 04:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,671.21
+### $63,191.88
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -3.9%  
-**30d:** +5.4%  
-**90d:** -16.8%  
-**1y:** -46.1%  
+**24h:** -3.2%  
+**7d:** -4.1%  
+**30d:** +5.1%  
+**90d:** -17.0%  
+**1y:** -46.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1279.84B
+**Market Cap:** $1269.60B
 Rank #1
 
-**Circulating Supply:** 20,062,150 BTC
+**Circulating Supply:** 20,062,228 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.8%
 
 **All-Time Low:** $67.81
-+93959.9%
++93222.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 30
+### 29
 **FEAR**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Always remember!](https://www.reddit.com/r/Bitcoin/comments/1v89b45/always_remember/)**
 
-6h ago
+9h ago
 
 ---
 
 **[Damm bro 😔🥀](https://www.reddit.com/r/Bitcoin/comments/1v819f9/damm_bro/)**
 
-10h ago
+14h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Raúl Robles was a Mexican founder of HackingMexico. He taught cybersecurity and offensive security, this is an old photo from the internet of him giving a Bitcoin talk back in Bitcoin's early days. Sadly, he met a tragic end in 2015, he was known for humiliating and controversial rhetoric through Facebook posts, and eventually met his end by a guy that announced in a forum he was tired of his insults. It's interesting to look back at some of those early conferences and talks that helped push Bitcoin to a wider audience, and to wonder how many people in the room got curious enough to buy, how many held...
 
-1h ago
+4h ago
 
 ---
 
 **[This cat holds through the lows, will you do the same?](https://www.reddit.com/r/Bitcoin/comments/1v8882g/this_cat_holds_through_the_lows_will_you_do_the/)**
 
-6h ago
+10h ago
 
 ---
 
@@ -115,7 +115,7 @@ What about 2026 - are we too late to start invest into Bitcoin?
 
 I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see which one was actually the worst
 
-3h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see 
 
 A Bitcoin Story - Chapter 1 : 2026 - When bitcoin became invisible
 
-12h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ A Bitcoin Story - Chapter 1 : 2026 - When bitcoin became invisible
 
 I've noticed that some of the loudest Bitcoin FUD seems to come from people who already hold BTC. If you're bullish long term, why let every correction shake your conviction? Is it just emotion, or do people expect Bitcoin to move up without volatility? What do you think? or y'all playing around? Lol
 
-3h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ I've noticed that some of the loudest Bitcoin FUD seems to come from people who 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/L-cP2PG9beA?si=Qfu27yeWVfy_LbLh&t=72) • 9h ago
+🔗 [youtu.be](https://youtu.be/L-cP2PG9beA?si=Qfu27yeWVfy_LbLh&t=72) • 12h ago
 
 ---
 
@@ -147,7 +147,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Just asking, I really want to buy quite a lot and I don't know if I should put everything in a single cold wallet. I already have a Trezor model t, is it necessary to upgrade or is any kind of Trezor good? P.s. I plan to become a whole coiner before 2029. Thanks in advance for your help.
 
-3h ago
+6h ago
 
 ---
 
@@ -155,49 +155,33 @@ Just asking, I really want to buy quite a lot and I don't know if I should put e
 
 ## Google News: "bitcoin"
 
-**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
-
-Morningstar • 15h ago
-
----
-
-**[Can Bitcoin Price Reach $500,000? Coinbase Is Preparing for Its Biggest Security Threat](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-reach-500-000-161244835.html)**
-
-Coinbase launched a multi-year quantum-resistant security plan for Bitcoin and joined the Bitcoin Security Consortium. The focus is on migrating Bitcoin before quantum threats emerge, ...
-
-Yahoo Finance • 8h ago
-
----
-
 **[Bitcoin (BTC) price may fall to $52,000 as demand remains elusive, Nansen analyst says](https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next)**
 
 BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.
 
-CoinDesk • 4h ago
+CoinDesk • 8h ago
 
 ---
 
-**[IREN vs. MSTR: Which Bitcoin Stock Is the Better Choice for Investors?](https://finance.yahoo.com/markets/stocks/articles/iren-vs-mstr-bitcoin-stock-154300117.html)**
+**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://www.fool.com/investing/2026/07/27/prediction-bitcoin-will-hit-1-million-timeline/)**
 
-IREN's contracted AI cloud growth and financing edge make it a stronger choice than Strategy's leveraged Bitcoin model and dilution risks.
+Better days are coming for investors in this top digital asset.
 
-Yahoo Finance • 9h ago
+The Motley Fool • 18h ago
 
 ---
 
-**[If you had invested $1,000 in gold instead of Bitcoin five years ago, here is what each is worth today](https://finance.yahoo.com/markets/commodities/articles/had-invested-1-000-gold-233000269.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Plummet Even as SEC Chair Paul Atkins Sees Crypto Bill Advancing: Analyst Says BTC's Big Move 'Just Around the Corner'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-plummet-021322342.html)**
 
-July 2021. Bitcoin was sitting at approximately $34,000, riding the tail end of its institutional adoption wave. Gold was trading near $1,800 per ounce, steady and unglamorous as ever. Two assets. Two completely different investor profiles. Same $1,000. Five years later, here is what that ...
+Leading cryptocurrencies fell sharply on Monday as investors weighed developments around the Clarity Act and a pause in U.S.–Iran hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.98%$63,157.00Ethereum (CRYPTO: ETH) -3.67%$1,873.27XRP (CRYPTO: XRP) -4.60%$1.05Solana (CRYPTO: SOL) -4.09%$73.19Dogecoin (CRYPTO: DOGE) -4.59%$0.06954 Crypto Market Tumbles Bitcoin nearly dived below $63,000 in a sharp evening sell-off, while Ethereum fell to $1,860 a
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
+**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
 
-Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
-
-CNBC • 6h ago
+Morningstar • 18h ago
 
 ---
 
@@ -209,25 +193,37 @@ USA Today • 1d ago
 
 ---
 
-**[TD Cowen cuts David Bailey’s Nakamoto target 58% after bitcoin outlook reset](https://www.theblock.co/post/409797/td-cowen-cuts-david-bailey-nakamoto-target-58-bitcoin-outlook-reset)**
+**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
 
-The firm updated its valuation for David Bailey-led Nakamoto, citing pressure from BTC's decline on the company's capital structure.
+Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
 
-The Block • 7h ago
+CNBC • 9h ago
 
 ---
 
-**[Here's Why I'm Buying Bitcoin Right Now](https://www.fool.com/investing/2026/07/26/heres-why-im-buying-bitcoin-right-now/)**
+**[Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms](https://www.bloomberg.com/news/articles/2026-07-28/bitcoin-weakens-in-asia-trading-as-fed-rate-decision-looms)**
 
-Bitcoin may finally be nearing the end of the bearish phase of its four-year cycle.
+Bloomberg.com • 2h ago
 
-The Motley Fool • 1d ago
+---
+
+**[Strategy Skips Bitcoin Buying and Selling for a Third Week. Here’s What It Did Instead.](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-6b8ef61c)**
+
+Barron's • 13h ago
+
+---
+
+**[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-end-inflow-streak-044058641.html)**
+
+(Bloomberg) -- Heavy outflows from US-listed Bitcoin exchange-traded funds late last week underscored the fragility of the token’s recent recovery.Most Read from BloombergDeepSeek Suspends Fundraising After Viral US-China PostsSpaceX at $100 Would Imply Zero AI Value, Morgan Stanley SaysUS, Iran Extend Pause in Strikes as Oman Holds Hormuz TalksTrump Seethes as Iran War Spirals Anew With No End in SightAwakened Indian Students Hand Modi One of His Biggest SetbacksThe ETFs in the spot market saw
+
+Yahoo Finance • 23h ago
 
 ---
 
 **[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -247,7 +243,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 The alleged thieves infected 8,000 devices.
 
-⬆️ 28 • 💬 27 • 4h ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+⬆️ 34 • 💬 31 • 7h ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -263,7 +259,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -287,7 +283,7 @@ A minimal, modular blockchain for peer-to-peer value and controlled networks. - 
 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
-⬆️ 2 • 💬 0 • 4d ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
+⬆️ 2 • 💬 0 • 5d ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
 
 ---
 
@@ -311,7 +307,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The first Bitcoin newsletter that rewards you with sats while you learn about regulation, sovereignty, and legal developments.
 
-⬆️ 1 • 💬 0 • 4h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
+⬆️ 1 • 💬 0 • 7h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
 
 ---
 
@@ -325,7 +321,7 @@ Thank you to Mint Mobile for partnering with us on this video! Visit our partner
 
 📺 The Graham Stephan Show
 
-👁️ 17K • 👍 1K • 💬 350 • ⏱️ 18:59 • 8h ago
+👁️ 34K • 👍 2K • 💬 615 • ⏱️ 18:59 • 12h ago
 
 ---
 
@@ -335,7 +331,27 @@ Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TI
 
 📺 Heresy Financial
 
-👁️ 20K • 👍 1K • 💬 272 • ⏱️ 14:33 • 11h ago
+👁️ 26K • 👍 1K • 💬 284 • ⏱️ 14:33 • 15h ago
+
+---
+
+**[Bitcoin: This Week Will Be Crazy](https://www.youtube.com/watch?v=t-rBr1Zda7k)**
+
+See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/aaronbennett ...
+
+📺 Aaron Bennett
+
+👁️ 3K • 👍 250 • 💬 202 • ⏱️ 9:19 • 6h ago
+
+---
+
+**[Why Michael Saylor stopped buying Bitcoin](https://www.youtube.com/watch?v=G87Vy-dZbdw)**
+
+In this episode of The Daily Wolf, Scott Melker explains why several crypto companies and exchanges are shutting down while the ...
+
+📺 Yahoo Finance
+
+👁️ 8K • 👍 351 • 💬 117 • ⏱️ 14:53 • 11h ago
 
 ---
 
@@ -345,37 +361,7 @@ Bitcoin #Crypto #finance Bitcoin rebounds above $65000 as Middle East tensions e
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 672 • 💬 240 • ⏱️ 1:01:29 • 10h ago
-
----
-
-**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 12K • 👍 398 • 💬 55 • ⏱️ 15:51 • 1d ago
-
----
-
-**[Why Wall Street Is Throwing Billions at AI Instead of Bitcoin](https://www.youtube.com/watch?v=gKneRl8rnxI)**
-
-Natalie Brunell talks with MARA Chairman and CEO Fred Thiel about why investors and Bitcoin miners alike are rotating into ...
-
-📺 Natalie Brunell
-
-👁️ 992 • 👍 41 • 💬 199 • ⏱️ 1:16 • 6h ago
-
----
-
-**[&quot;CLARITY IS HERE! This Week Will Be SUPER BULLISH for Bitcoin &amp; Crypto!&quot; | Jordi Visser](https://www.youtube.com/watch?v=lMWIkAuVZCI)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 274 • 💬 21 • ⏱️ 16:32 • 1d ago
+👁️ 16K • 👍 734 • 💬 315 • ⏱️ 1:01:29 • 13h ago
 
 ---
 
@@ -385,37 +371,47 @@ Let's provide an update to Bitcoin and its bear market resistance band, Come to 
 
 📺 Benjamin Cowen
 
-👁️ 71K • 👍 4K • 💬 188 • ⏱️ 8:59 • 22h ago
+👁️ 77K • 👍 5K • 💬 196 • ⏱️ 8:59 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Bear Market Ending? Bull Case in Clarity Act &amp; Fed](https://www.youtube.com/watch?v=WoU8f6QTdvo)**
+**[3 Crypto Exchanges Just Shut Down: Here&#39;s Why](https://www.youtube.com/watch?v=T7wqxGksW-c)**
 
-Sam Callahan explains how inflation, Federal Reserve policy, and rising government spending could shape Bitcoin's future and ...
+This breakdown explains the recurring patterns in every crypto market cycle that lead to the removal of weaker platforms.
 
-📺 Schwab Network
+📺 Coach JV
 
-👁️ 16K • 👍 198 • 💬 39 • ⏱️ 8:04 • 1d ago
-
----
-
-**[Bitcoin Could Hit $1 Million If This Crisis Gets Worse](https://www.youtube.com/watch?v=qxVV1NpsJ5U)**
-
-Could Bitcoin reach $1 million? Maybe, but the path matters. This episode explores how an energy crisis, supply chain disruptions ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 181 • ⏱️ 21:12 • 1d ago
+👁️ 20K • 👍 1K • 💬 302 • ⏱️ 16:47 • 13h ago
 
 ---
 
-**[$5M Bitcoin Detonates - Saylor Just Made His Move](https://www.youtube.com/watch?v=uBSxApoRG2M)**
+**[Bitcoin&#39;s About to Make a Fool Out of Everyone!](https://www.youtube.com/watch?v=EbR8__e79sc)**
 
-Subscribe before Michael Saylor buys more Bitcoin. Michael Saylor isn't just buying more Bitcoin. He's changing the game.
+Crypto has been through another wave of bad news, yet the market is reacting very differently than it did in previous cycles.
 
-📺 Bitcoin News Alerts
+📺 Crypto Banter
 
-👁️ 5K • 👍 305 • 💬 144 • ⏱️ 17:59 • 1d ago
+👁️ 18K • 👍 1K • 💬 32 • ⏱️ 30:54 • 13h ago
+
+---
+
+**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
+
+Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
+
+📺 Fundstrat
+
+👁️ 42K • 👍 973 • 💬 98 • ⏱️ 6:11 • 8h ago
+
+---
+
+**[&quot;CLARITY IS HERE! This Week Will Be SUPER BULLISH for Bitcoin &amp; Crypto!&quot; | Jordi Visser](https://www.youtube.com/watch?v=lMWIkAuVZCI)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 281 • 💬 21 • ⏱️ 16:32 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T00:55:05.554384+00:00'
+updated: '2026-07-28T04:10:37.304182+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 00:55 UTC  
+**Last Updated:** July 28, 2026 at 04:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
 
-18h ago
+21h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -110,37 +110,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 
-TechCrunch • 11h ago
-
----
-
-**[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
-
-Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
-
-calcalistech.com • 10h ago
-
----
-
-**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
-
-As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
-
-The Information • 9h ago
-
----
-
-**[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[Robotic arm assisted surgery comes to Tobey Hospital](https://wareham.theweektoday.com/article/robotic-arm-assisted-surgery-comes-tobey-hospital/158691)**
-
-Orthopedic doctors at Tobey Hospital have a new team member coming on board. However, this team member isn't a human doctor. It's a robot — which may soon be in the operating room.
-
-Wareham, MA News • 1d ago
+TechCrunch • 15h ago
 
 ---
 
@@ -152,19 +122,31 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI](https://www.theblock.co/post/409724/axis-robotics-raised-12m-funding-to-build-the-compounding-data-engine-accelerating-physical-ai)**
+**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
 
-Axis Robotics, the compounding data engine accelerating Physical AI, announces that it has raised $12 million in a seed round led by Hack VC, with
+As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-The Block • 12h ago
+The Information • 12h ago
 
 ---
 
-**[How would AI data centers in space even work? A former NASA robotics chief explains](https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/)**
+**[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
 
-'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'
+Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
-ZDNET • 12h ago
+calcalistech.com • 14h ago
+
+---
+
+**[3D-printable material can heal the body, build better robots and recover critical minerals](https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[Chinese robotics is quietly cornering a new niche. How will shipyards benefit?](https://www.scmp.com/economy/china-economy/article/3361993/chinas-robotics-industry-quietly-cornering-new-niche-and-shipyards-stand-gain)**
+
+South China Morning Post • 10m ago
 
 ---
 
@@ -172,7 +154,23 @@ ZDNET • 12h ago
 
 A Chinese manufacturing firm orders 2,000 humanoid robots to automate apparel production, targeting smarter and more efficient factories.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 13h ago
+
+---
+
+**[Making robots faster by helping them think ahead](https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728)**
+
+The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
+
+MIT News • 10m ago
+
+---
+
+**[How would AI data centers in space even work? A former NASA robotics chief explains](https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/)**
+
+'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'
+
+ZDNET • 16h ago
 
 ---
 
@@ -180,7 +178,7 @@ Interesting Engineering • 10h ago
 
 SAPPHIRE Technology today unveiled the EDGE+ Apex SOM/Carrier Robotics Platform, a production-ready hardware platform powered by AMD Ryzen AI Embedded X100 Series processors and designed to accelerate the development and deployment of physical AI in autonomous robotics. The platform has been...
 
-TechPowerUp • 10h ago
+TechPowerUp • 13h ago
 
 ---
 
@@ -188,13 +186,33 @@ TechPowerUp • 10h ago
 
 ## YouTube Videos: "robotics"
 
+**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
+
+Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
+
+📺 NBC News
+
+👁️ 9K • 👍 219 • 💬 76 • ⏱️ 2:15 • 4h ago
+
+---
+
 **[New Humanoid Robot With &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
 
 Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
 
 📺 CNET
 
-👁️ 11K • 👍 355 • 💬 21 • ⏱️ 4:23 • 1d ago
+👁️ 12K • 👍 378 • 💬 22 • ⏱️ 4:23 • 1d ago
+
+---
+
+**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
+
+One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
+
+📺 NBC News
+
+👁️ 16K • 👍 170 • 💬 94 • ⏱️ 5:29 • 5d ago
 
 ---
 
@@ -204,17 +222,27 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 103K • 👍 3K • 💬 224 • ⏱️ 12:28 • 6d ago
+👁️ 106K • 👍 3K • 💬 226 • ⏱️ 12:28 • 6d ago
 
 ---
 
-**[LEGO Robot: I Created the Ultimate Bluey &amp; Thomas Mech | BEAR Bricks](https://www.youtube.com/watch?v=2dqTn2-Nghw)**
+**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
 
-Welcome to BEAR Bricks! Bluey and Thomas unite in one ultimate LEGO mech featuring massive armor, powerful mechanical ...
+AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
 
-📺 BEAR Bricks
+📺  Beesoft Bd
 
-👁️ 19K • 👍 595 • 💬 12 • ⏱️ 1:00:36 • 1d ago
+👁️ 106K • 💬 3 • ⏱️ 0:16 • 4d ago
+
+---
+
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+
+📺 New York Post
+
+👁️ 55K • 👍 1K • 💬 438 • ⏱️ 2:02 • 5d ago
 
 ---
 
@@ -224,65 +252,37 @@ Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course
 
 📺 GATE Wallah
 
-👁️ 2K • 👍 83 • 💬 2 • ⏱️ 17:35 • 7h ago
+👁️ 2K • 👍 102 • 💬 3 • ⏱️ 17:35 • 10h ago
 
 ---
 
-**[Automata🤖Can a robot understand a mother?](https://www.youtube.com/watch?v=T8TvNVwGpUg)**
+**[NERF THIS IMMEDIATELY! War Robots Most Broken NONSENSE Ever!](https://www.youtube.com/watch?v=edTHUrJHedA)**
 
-Automata (2014) is a sci-fi thriller set in a future where Earth has become nearly uninhabitable. An insurance investigator ...
+War Robots Gameplay: VULCAN with Urhag Sniper weapons NERF!!! My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 CineCraft
+📺 Manni-Gaming
 
-👁️ 102K • 👍 1K • 💬 15 • ⏱️ 0:54 • 4d ago
-
----
-
-**[Rookie in Japan: NAVER’s Delivery Robot at Tokyo Midtown Yaesu](https://www.youtube.com/watch?v=S777IdOUat4)**
-
-네이버 1784에서 검증해 온 로봇·스마트빌딩 기술이 일본 도쿄의 복합빌딩 '도쿄 미드타운 야에스'에 처음으로 적용됐습니다.
-
-📺 NAVER LABS
-
-👁️ 185K • 👍 31 • ⏱️ 0:47 • 5d ago
+👁️ 21K • 👍 679 • 💬 227 • ⏱️ 14:51 • 4d ago
 
 ---
 
-**[Ultimate Robot Fights Challange (part 2)](https://www.youtube.com/watch?v=7NGiqOnhigc)**
+**[Jared Isaacman: NASA&#39;s Moon Base by 2028, Optimus Robots on the Moon, The Truth About UFOs | Ep #274](https://www.youtube.com/watch?v=nV_lyWrkBs8)**
 
-Today, Vlad and Michael are back with the epic $60000 real robots fight challenge! They have to upgrade different robot fighters ...
+The mates chat with Jared Isaacman on NASA's plan for a Moon base by 2028, Optimus Robots on the Moon, and the truth about ...
 
-📺 Vlad
+📺 Peter H. Diamandis
 
-👁️ 373K • 👍 3K • 💬 217 • ⏱️ 20:16 • 2d ago
-
----
-
-**[The Dino Crew Wasn&#39;t Ready for This! 👀#robot #robotics #dinosaur #ruko](https://www.youtube.com/watch?v=K8SV7aXZN8M)**
-
-📺 Smarttoy Ruko
-
-👁️ 60K • 👍 292 • 💬 2 • ⏱️ 0:26 • 2d ago
+👁️ 51K • 👍 2K • 💬 309 • ⏱️ 1:27:17 • 13h ago
 
 ---
 
-**[SHERI MOON ZOMBIE - I Love My Robot (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=8yt2WUfc6Pc)**
+**[This Robot Is Almost Human.](https://www.youtube.com/watch?v=qXxAHBbWMDs)**
 
-Cult icon SHERI MOON ZOMBIE unveils debut single and video "I Love My Robot." Limited edition picture disc vinyl featuring "I ...
+What if a robot could look you in the eyes. smile. and hold a conversation just like a human? ** Meet the **Origin F1**, ...
 
-📺 Nuclear Blast Records
+📺 Dark Narr
 
-👁️ 44K • 👍 3K • 💬 687 • ⏱️ 2:50 • 10h ago
-
----
-
-**[MIT Create Flying Swimming Robot](https://www.youtube.com/watch?v=2mlFTDxZUY0)**
-
-MIT researchers have developed a versatile robot capable of flying through the air and diving underwater using a unique ...
-
-📺 Dr Ben Miles
-
-👁️ 1.2M • 👍 93K • 💬 1K • ⏱️ 2:01 • 4d ago
+👁️ 54K • 👍 1K • 💬 100 • ⏱️ 0:44 • 5d ago
 
 ---
 
