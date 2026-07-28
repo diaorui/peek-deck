@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T21:38:44.414083+00:00'
+updated: '2026-07-28T22:59:41.658712+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 21:38 UTC  
+**Last Updated:** July 28, 2026 at 22:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,65 +108,43 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 **[EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
-Reuters • 56m ago
+Reuters • 1h ago
 
 ---
 
-**[Trump administration to ban new Chinese robots and inverters, protecting U.S. AI](https://www.cnbc.com/2026/07/28/trump-administration-to-ban-new-chinese-robots-and-inverters-protecting-us-ai.html)**
+**[US government bans humanoid robots manufactured abroad](https://sg.finance.yahoo.com/news/us-government-bans-humanoid-robots-224822201.html)**
 
-The Trump administration on Tuesday plans to unveil new bans that target imports of ⁠the latest ‌Chinese robots and power inverters, seeking ⁠to protect the U.S. AI buildout from national security threats and reshore key industries slated for explosive growth, U.S. officials said.
+US President Donald Trump's administration on Tuesday added humanoid and quadruped robots to a list of products and companies that are banned from being imported into the United States on national security grounds.Several robotics companies already manufacture some humanoid robots in the United States, including Boston Dynamics, Tesla, Figure AI and Agility Robotics.
 
-CNBC • 2h ago
-
----
-
-**[The Trump administration has banned imports of new Chinese humanoid robots and power inverters](https://www.businessinsider.com/trump-expands-tech-crackdown-on-china-imports-to-humanoid-robots-2026-7)**
-
-Trump banned new imports of Chinese humanoid robots and power inverters used in data centers to protect the domestic AI supply chain.
-
-Business Insider • 13m ago
+Yahoo Finance Singapore • 11m ago
 
 ---
 
-**[Trump administration bans Chinese hardware with eye on AI race](https://www.axios.com/2026/07/28/trump-administration-bans-chinese-hardware-ai-race)**
+**[Middle School Students Explore Advanced Manufacturing and Robotics Through CMU Partnership](https://www.cmu.edu/news/stories/archives/2026/july/middle-school-students-explore-advanced-manufacturing-and-robotics-through-cmu-partnership)**
 
-Axios • 47m ago
+Middle school students from Pittsburgh's Hazelwood neighborhood got a chance to imagine themselves as future engineers, researchers and innovators at CMU's Robotics Innovation Center.
 
----
-
-**[Trump administration bans foreign-made robots and power gear amid fears of Chinese influence](https://www.politico.com/news/2026/07/28/trump-administration-bans-foreign-made-robots-and-power-gear-amid-fears-of-chinese-influence-01013995)**
-
-Politico • 43m ago
+Carnegie Mellon University • 4h ago
 
 ---
 
-**[Trump admin will ban Chinese humanoid robots and inverters to protect US AI buildout, report says](https://www.independent.co.uk/news/world/americas/us-politics/trump-bans-chinese-humanoid-robots-inverters-ai-b3023317.html)**
+**[Corpus Christi students explore robotics, coding at STEAM summer camp](https://www.kiiitv.com/article/news/local/corpus-christi-steam-robotics-camp-bethune-nursery/503-dfe47589-469d-497b-93a3-9d15e08a0fe9)**
 
-Authorities aim to avert another Chinese government-linked hacking campaign, such as the ‘Volt Typhoon’ operation revealed in 2023
-
-The Independent • 1h ago
+kiiitv.com • 5h ago
 
 ---
 
-**[US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies](https://www.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies)**
+**[From robot cars to real careers: Guilford County teachers bring new robotics program to the classroom](https://www.wfmynews2.com/article/life/local-life/guilford-county-schools-brings-new-jezero-deloitte-robotics-program-to-high-school-classrooms-university-of-north-carolina-greensboro-engineering-stem/83-77568e37-82ad-454e-b27a-2c09d9e3b18e)**
 
-South China Morning Post • 5d ago
-
----
-
-**[The FCC's Next Target: Foreign-Made Humanoid Robots and Power Inverters](https://www.pcmag.com/news/the-fccs-next-target-foreign-made-humanoid-robots-and-power-inverters)**
-
-After banning foreign-made Wi-Fi routers and drones, the FCC cites a White House order to claim that foreign-made advanced robots and power inverters also pose a security risk.
-
-PCMag • 14m ago
+wfmynews2.com • 5m ago
 
 ---
 
-**[Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson](https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/)**
+**[Nauticus Robotics, Inc. Completes First Prototype of Next-Generation Electric Manipulator](https://www.prnewswire.com/news-releases/nauticus-robotics-inc-completes-first-prototype-of-next-generation-electric-manipulator-302835553.html)**
 
-The NVIDIA Jetson platform for edge AI and robotics gives busy developers both power and portability in one agentic-ready AI platform.
+/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT, "Nauticus" or the "Company"), a leading innovator in autonomous subsea robotics and software solutions,...
 
-NVIDIA Blog • 2h ago
+PR Newswire • 10h ago
 
 ---
 
@@ -174,7 +152,31 @@ NVIDIA Blog • 2h ago
 
 The real promise of physical AI and assistive robotics is helping humans live more connected, independent and meaningful lives.
 
-The World Economic Forum • 2h ago
+The World Economic Forum • 3h ago
+
+---
+
+**[State aid OK'd for robot maker's expansion, project near Eastern Market](https://www.detroitnews.com/story/business/2026/07/28/state-oks-aid-for-robotics-firm-project-development-near-eastern-market/91075847007/)**
+
+The funding approved by the Michigan Strategic Fund board will support Fanuc expansion in Pontiac, project to revitalize vacant buildings near market.
+
+The Detroit News • 6h ago
+
+---
+
+**[How to invest in humanoid robotics, the potential $5 trillion market that’s straight out of science fiction](https://www.businessinsider.com/humanoid-robotics-stocks-etfs-how-to-invest-koid-labor-manufacturing-2026-7)**
+
+Robots that can replace human workers may be closer than ever because of the AI boom. Here's how some investing pros are getting in early on the trend.
+
+Business Insider • 7h ago
+
+---
+
+**[SIU takes second place in international agricultural robotics competition](https://www.wsiu.org/siu/2026-07-28/siu-takes-second-place-in-international-agricultural-robotics-competition)**
+
+SIU’s Agricultural Robotics Club earned a second-place finish in the American Society of Agricultural and Biological Engineers’ Robotics Student Design Competition.
+
+WSIU NEWS • 6h ago
 
 ---
 
@@ -188,7 +190,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 153K • 👍 2K • 💬 985 • ⏱️ 2:15 • 21h ago
+👁️ 153K • 👍 2K • 💬 985 • ⏱️ 2:15 • 22h ago
 
 ---
 
@@ -228,7 +230,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UC4pND
 
 📺 Not What You Think
 
-👁️ 63K • 👍 5K • 💬 272 • ⏱️ 0:29 • 7h ago
+👁️ 63K • 👍 5K • 💬 272 • ⏱️ 0:29 • 8h ago
 
 ---
 
@@ -238,7 +240,7 @@ Last week, World Labs announced its acquisition of SceniX, bringing together two
 
 📺 a16z
 
-👁️ 4K • 💬 9 • ⏱️ 42:21 • 7h ago
+👁️ 4K • 💬 9 • ⏱️ 42:21 • 8h ago
 
 ---
 
@@ -268,7 +270,7 @@ The Lockdown Vulcan setup you NEED to try – that is the Vulcan with Ultimate C
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 165 • 💬 35 • ⏱️ 12:54 • 8h ago
+👁️ 3K • 👍 165 • 💬 35 • ⏱️ 12:54 • 9h ago
 
 ---
 

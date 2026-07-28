@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-28T21:38:44.404338+00:00'
+updated: '2026-07-28T22:59:41.649367+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 21:38 UTC  
+**Last Updated:** July 28, 2026 at 22:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,934.34
+### $63,966.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -3.1%  
-**30d:** +6.2%  
-**90d:** -16.1%  
-**1y:** -45.7%  
+**24h:** +0.1%  
+**7d:** -3.5%  
+**30d:** +5.9%  
+**90d:** -16.4%  
+**1y:** -45.9%  
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Raúl Robles was a Mexican founder of HackingMexico. He taught cybersecurity and offensive security, this is an old photo from the internet of him giving a Bitcoin talk back in Bitcoin's early days. Sadly, he met a tragic end in 2015, he was known for humiliating and controversial rhetoric through Facebook posts, and eventually met his end by a guy that announced in a forum he was tired of his insults. It's interesting to look back at some of those early conferences and talks that helped push Bitcoin to a wider audience, and to wonder how many people in the room got curious enough to buy, how many held...
 
-22h ago
+23h ago
 
 ---
 
@@ -107,7 +107,7 @@ Raúl Robles was a Mexican founder of HackingMexico. He taught cybersecurity and
 
 What about 2026 - are we too late to start invest into Bitcoin?
 
-1d ago
+2d ago
 
 ---
 
@@ -115,7 +115,7 @@ What about 2026 - are we too late to start invest into Bitcoin?
 
 I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see which one was actually the worst
 
-23h ago
+1d ago
 
 ---
 
@@ -147,7 +147,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Just asking, I really want to buy quite a lot and I don't know if I should put everything in a single cold wallet. I already have a Trezor model t, is it necessary to upgrade or is any kind of Trezor good? P.s. I plan to become a whole coiner before 2029. Thanks in advance for your help.
 
-23h ago
+1d ago
 
 ---
 
@@ -155,11 +155,11 @@ Just asking, I really want to buy quite a lot and I don't know if I should put e
 
 ## Google News: "bitcoin"
 
-**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
+**['Anything remotely dovish' from Fed could be good for bitcoin, says analyst](https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst)**
 
-After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
+Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.
 
-Morningstar • 11h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -169,11 +169,19 @@ Barron's • 1d ago
 
 ---
 
-**[Bitcoin falls to $63,000 as Fed decision looms, Clarity Act hopes fade](https://finance.yahoo.com/markets/article/bitcoin-falls-to-63000-as-fed-decision-looms-clarity-act-hopes-fade-151145521.html)**
+**[Anthropic finds new cracks in the tech meant to guard Bitcoin from 'Q-Day'](https://sg.finance.yahoo.com/news/anthropic-finds-cracks-tech-meant-222734222.html)**
 
-Bitcoin fell to its lowest level in 10 days on Tuesday as investors braced for the Federal Reserve's upcoming decision and  a potential delay to key crypto legislation in Congress.
+Anthropic said on July 28 that its AI model, Claude, discovered new ways to attack cryptographic algorithms. It did the work faster than human experts, and one of its targets was a scheme built to survive the arrival of quantum computers. To be clear, no blockchain tech was broken, and no wallet is ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance Singapore • 32m ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
+
+After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
+
+Morningstar • 12h ago
 
 ---
 
@@ -181,7 +189,13 @@ Yahoo Finance • 6h ago
 
 Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
 
-CNBC • 5h ago
+CNBC • 7h ago
+
+---
+
+**[Watch Bitcoin Excluded From S&P Pantera Digital Asset Index](https://www.bloomberg.com/news/videos/2026-07-28/bitcoin-excluded-from-new-s-p-pantera-digital-asset-index)**
+
+Bloomberg.com • 22h ago
 
 ---
 
@@ -193,17 +207,11 @@ USA Today • 2d ago
 
 ---
 
-**[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[I Scanned The Entire Bitcoin Blockchain For Images. What I Found Will Shock You](https://bitcoinmagazine.com/guides/i-scanned-the-entire-bitcoin-blockchain-for-images-what-i-found-will-shock-you)**
 
 Fresh hard drive. Full node. Eleven hours of PhotoRec. The outcome is nothing like what the Bitcoin culture war has been telling you.
 
-Bitcoin Magazine • 3h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -217,15 +225,7 @@ Zacks Investment Research • 1d ago
 
 Buying Bitcoin (BTC) today is less about whether the asset succeeds and more about when investors enter the cycle, according to veteran trader Dave Weisberger.Speaking on The Wolf Of All Streets podcast, Weisberger drew a parallel between buying Bitcoin and buying Amazon (AMZN) before its historic…
 
-TradingView • 8h ago
-
----
-
-**[Why the Bitcoin Rally Seems More Like a Bull Trap](https://decrypt.co/374539/bitcoin-price-rally-bull-trap)**
-
-The Bitcoin price rally failed to gain critical support, and every major indicator on the daily chart is now bearish. Here's what that means.
-
-Decrypt • 5h ago
+TradingView • 9h ago
 
 ---
 
@@ -333,7 +333,7 @@ You won't believe what this bitcoin chart says about its downside target, that c
 
 📺 Alessio Rastani
 
-👁️ 9K • 👍 894 • 💬 299 • ⏱️ 18:15 • 4h ago
+👁️ 9K • 👍 894 • 💬 299 • ⏱️ 18:15 • 6h ago
 
 ---
 
@@ -373,7 +373,7 @@ Ran breaks down why the latest selloff in AI and semiconductor stocks could mark
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 640 • 💬 12 • ⏱️ 20:00 • 7h ago
+👁️ 12K • 👍 640 • 💬 12 • ⏱️ 20:00 • 9h ago
 
 ---
 
@@ -393,7 +393,7 @@ TOOBIT — DEPOSIT MORE, EARN MORE! UP TO 100 USDT BONUS ...
 
 📺 100XClub
 
-👁️ 7K • 👍 725 • 💬 123 • ⏱️ 8:27 • 11h ago
+👁️ 7K • 👍 725 • 💬 123 • ⏱️ 8:27 • 13h ago
 
 ---
 
@@ -413,7 +413,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 671 • 💬 210 • ⏱️ 16:34 • 7h ago
+👁️ 11K • 👍 671 • 💬 210 • ⏱️ 16:34 • 9h ago
 
 ---
 

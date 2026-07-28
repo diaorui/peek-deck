@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-28T21:38:44.410849+00:00'
+updated: '2026-07-28T22:59:41.655491+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 21:38 UTC  
+**Last Updated:** July 28, 2026 at 22:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,922.66
+### $1,913.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -0.6%  
-**30d:** +19.2%  
-**90d:** -14.9%  
-**1y:** -49.3%  
+**24h:** +1.1%  
+**7d:** -1.1%  
+**30d:** +18.6%  
+**90d:** -15.3%  
+**1y:** -49.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -156,7 +156,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
 
-The Block • 7h ago
+The Block • 8h ago
+
+---
+
+**[Tom Lee Says This Ethereum Project Could Be a Game-Changer](https://beincrypto.com/tom-lee-lighter-ethereum-infrastructure/)**
+
+Tom Lee calls Lighter critical Ethereum infrastructure. LIT trades near $2.20 as quarterly revenue drops a third quarter.
+
+BeInCrypto • 1d ago
+
+---
+
+**[BMNR Stock Surges After Firm’s Record Buyback, Tom Lee Sets $2,500 Ethereum Target](https://finance.yahoo.com/markets/stocks/articles/bmnr-stock-surges-firm-record-101407689.html)**
+
+Chairman Tom Lee said the company increased buybacks because the rising ETH/BTC ratio signals strengthening cryptocurrency prices despite delays surrounding the CLARITY Act.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -176,27 +192,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Why Bitmine Stock Popped Today](https://www.fool.com/investing/2026/07/27/why-bitmine-stock-bmnr-is-up-today/)**
+**[Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains](https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains)**
 
-The crypto treasury leader has quietly amassed a significant share of Ethereum's total supply.
+The startup, which spun out of the Ethereum Foundation earlier this month, is focused on building privacy infrastructure for banks and other financial institutions.
 
-The Motley Fool • 23h ago
-
----
-
-**[Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-expands-crypto-push-191414094.html)**
-
-The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Morgan Stanley Launches Ethereum and Solana ETPs With 0.14% Fees](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-launches-ethereum-solana-182600380.html)**
-
-Morgan Stanley Investment Management launched Ethereum (CRYPTO: $ETH) and Solana (CRYPTO: $SOL) exchange-traded pro...
-
-Yahoo Finance • 3h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -212,13 +212,13 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
 **[Large cryptocurrencies drop on Solana, Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-solana-ethereum-declines-d6d5186c-d3aa3f312e86)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -226,7 +226,7 @@ MarketWatch • 7h ago
 
 .embed-container-btc-breakdown-alt-risk { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container-btc-breakdown-alt-risk iframe, .embed-container-btc-breakdown-alt-risk object, .embed-container-btc-breakdown-alt-risk embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&nbsp;Video: Bitcoin Confirms The Next Drop Is Coming SoonBitcoin’s failure to sustain its recent higher-low structure has shifted the daily market update toward downside risk. Ethereum has not yet completed the same structural break, but its momentum warning is clear, while crypto breadth, the dollar and multiple ALT charts point to a more defensive backdrop.Bitcoin loses the structure that supported the prior upside caseBitcoin chart showing a break below recent higher-low structureThe source describes Bitcoin’s Monday red close and subsequent move below the prior low as the development that changed the near-term picture. Earlier upside expectations are no longer the focus; the chart is now being assessed against successive support steps and the possibility of further downside momentum.Ethereum has a warning signal but not full bearish confirmationEthereum chart inside the Cloud with RSI support brokenEthereum remains inside its Cloud and therefore has not yet completed the structural shift described for Bitcoin. However, RSI has already lost support. The source treats a bearish OBV cross and a move below the Cloud as the additional confirmation needed for the downside case, keeping the current read conditional rather than absolute.Dominance and crypto breadth show the dip is not being absorbedCrypto market breadth chart moving below the CloudBitcoin dominance is declining, but the source interprets that as selling into the dip rather than an automatic bullish signal for alternative assets. ETH.D, SOL.D, TOTALES and related breadth measures are showing breakdown or strong-bearish conditions. Dominance is market share, not a direct spot-price forecast, so those charts require careful interpretation.Dollar strength and equity weakness increase the risk backdropDollar index chart pushing higherDXY and USDJPY are still advancing in the source analysis, a combination viewed as unfavorable for broader risk assets. S&amp;P futures are in bearish consolidation, and the analysis notes bearish evidence across NDX, FANG and several large technology names. Asian-market weakness adds to the defensive tone without turning any one chart into a guaranteed outcome.Commodities send mixed signalsNASDAQ chart with a TBO Open Short signalGold has bullish-divergence evidence but remains strong bearish below the Cloud in the source view. Silver and uranium also remain bearish, while copper is holding relatively better. The PAXG/BTC chart is highlighted as an important relative-strength gauge: a confirmed shift there would indicate movement away from Bitcoin and toward gold.ALT setups favor caution and selectivitySolana chart with TBO Open Short confirmationSOL confirmed a TBO Open Short and moved into strong-bearish mode below the Cloud. LINK was rejected at the top of its Cloud, while XLM, NEAR, RENDER, FET and SEI each carry breakdown, support-loss or weakness commentary. The source does not reduce all ALT charts to one call, but it frames the broader context as unfavorable for indiscriminate risk-taking.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
 
-KITCO • 7h ago
+KITCO • 13h ago
 
 ---
 
@@ -240,7 +240,7 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 📺 The Rollup
 
-👁️ 1K • 👍 27 • 💬 29 • ⏱️ 6:40 • 9h ago
+👁️ 1K • 👍 27 • 💬 29 • ⏱️ 6:40 • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ Are these fear headlines driving Bitcoin price analysis or just market manipulat
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 489 • 💬 203 • ⏱️ 12:59 • 5h ago
+👁️ 7K • 👍 489 • 💬 203 • ⏱️ 12:59 • 7h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 506 • 👍 25 • 💬 10 • ⏱️ 4:29 • 12h ago
+👁️ 506 • 👍 25 • 💬 10 • ⏱️ 4:29 • 13h ago
 
 ---
 
@@ -310,7 +310,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 11K • 👍 637 • 💬 581 • ⏱️ 13:03 • 1d ago
+👁️ 11K • 👍 637 • 💬 581 • ⏱️ 13:03 • 2d ago
 
 ---
 
@@ -330,7 +330,7 @@ BITCOIN WARNING: DON'T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 267 • 💬 117 • ⏱️ 25:44 • 23h ago
+👁️ 6K • 👍 267 • 💬 117 • ⏱️ 25:44 • 1d ago
 
 ---
 
