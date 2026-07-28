@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T18:14:43.448730+00:00'
+updated: '2026-07-28T20:00:45.880105+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 18:14 UTC  
+**Last Updated:** July 28, 2026 at 20:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 **[Unitree's new wheeled robot dog](https://www.reddit.com/r/robotics/comments/1v7cssb/unitrees_new_wheeled_robot_dog/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -76,7 +76,7 @@ I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. 
 
 A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main PC. I still use a separate animation editor that I built for creating movements. Each joint has its own timeline with position keyframes, velocity, torque limits, and controller parameters. Finished animations are sent to the lamp and played back locally. I’ve also installed an addressable LED ring with a 3D-printed diffuser inside the head. Brightness and transitions are now part of the same animation timeline, allowing the light to be synchronized with movement. This video is a quick test of the new setup. I’m currently tuning the motor parameters, brightness curves, and transition timings before using the light in more expressive animations.
 
-2d ago
+3d ago
 
 ---
 
@@ -114,27 +114,33 @@ TechCrunch • 1d ago
 
 ---
 
-**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
+**[Light Flips Memory to Feed Hungry AI Chips With Less Energy](https://spectrum.ieee.org/ai-in-robotics)**
 
-As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
+Projecting light directly onto a chip could stream data using less energy
 
-The Information • 1d ago
-
----
-
-**[State aid OK'd for robot maker's expansion, project near Eastern Market](https://www.detroitnews.com/story/business/2026/07/28/state-oks-aid-for-robotics-firm-project-development-near-eastern-market/91075847007/)**
-
-The funding approved by the Michigan Strategic Fund board will support Fanuc expansion in Pontiac, project to revitalize vacant buildings near market.
-
-The Detroit News • 1h ago
+IEEE Spectrum • 2d ago
 
 ---
 
-**[Electronics & Semiconductor Assembly Robotics Market to Reach USD 17.1 Billion by 2036 as Smart Factory Automation and Semiconductor Manufacturing Expansion Drive Global Growth](https://sg.finance.yahoo.com/news/electronics-semiconductor-assembly-robotics-market-163600154.html)**
+**[EXCLUSIVE: Trump administration to ban new Chinese robots and inverters, protecting US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
-According to Future Market Insights (FMI), the global Electronics & Semiconductor Assembly Robotics Market is expected to experience strong growth as semiconductor manufacturers and electronics producers accelerate investments in factory automation, precision assembly, and smart manufacturing technologies. the market is projected to grow from USD 6.6 billion in 2026 to USD 17.1 billion by 2036, registering a robust 10.0% CAGR during the forecast period. Rising demand for advanced semiconductor c
+Reuters • 54m ago
 
-Yahoo Finance Singapore • 1h ago
+---
+
+**[School District Pauses Plans to Deploy Humanoid Robots in Class After Outcry](https://www.yahoo.com/news/us/articles/sex-doll-company-strikes-bizarre-120100760.html)**
+
+It's on pause.
+
+Yahoo • 2d ago
+
+---
+
+**[China's Unitree Robotics eyes capacity boost to meet humanoid demand](https://asia.nikkei.com/editor-s-picks/interview/china-s-unitree-robotics-eyes-capacity-boost-to-meet-humanoid-demand)**
+
+Senior executive sees Japan as potential engineering hub
+
+Nikkei Asia • 18h ago
 
 ---
 
@@ -142,15 +148,15 @@ Yahoo Finance Singapore • 1h ago
 
 The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
 
-MIT News • 14h ago
+MIT News • 16h ago
 
 ---
 
-**[Light Flips Memory to Feed Hungry AI Chips With Less Energy](https://spectrum.ieee.org/ai-in-robotics)**
+**[Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson](https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/)**
 
-Projecting light directly onto a chip could stream data using less energy
+The NVIDIA Jetson platform for edge AI and robotics gives busy developers both power and portability in one agentic-ready AI platform.
 
-IEEE Spectrum • 2d ago
+NVIDIA Blog • 1h ago
 
 ---
 
@@ -164,23 +170,15 @@ Tech Xplore • 1d ago
 
 With Atlas merger, XTEND boosts its autonomous systems portfolio and strengthens support for NATO and EU partners.
 
-The Jerusalem Post • 9h ago
+The Jerusalem Post • 11h ago
 
 ---
 
-**[China's Unitree Robotics eyes capacity boost to meet humanoid demand](https://asia.nikkei.com/editor-s-picks/interview/china-s-unitree-robotics-eyes-capacity-boost-to-meet-humanoid-demand)**
+**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
 
-Senior executive sees Japan as potential engineering hub
+As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-Nikkei Asia • 16h ago
-
----
-
-**[School District Pauses Plans to Deploy Humanoid Robots in Class After Outcry](https://www.yahoo.com/news/us/articles/sex-doll-company-strikes-bizarre-120100760.html)**
-
-It's on pause.
-
-Yahoo • 2d ago
+The Information • 1d ago
 
 ---
 
@@ -194,7 +192,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 126K • 👍 2K • 💬 900 • ⏱️ 2:15 • 18h ago
+👁️ 126K • 👍 2K • 💬 900 • ⏱️ 2:15 • 19h ago
 
 ---
 
@@ -214,7 +212,7 @@ In this exciting video, we explore the cutting-edge world of robotics and the ma
 
 📺 AI BROS
 
-👁️ 9K • 👍 144 • 💬 63 • ⏱️ 1:07 • 6h ago
+👁️ 9K • 👍 144 • 💬 63 • ⏱️ 1:07 • 8h ago
 
 ---
 
@@ -234,7 +232,7 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 4K • 👍 114 • 💬 68 • ⏱️ 3:10 • 21h ago
+👁️ 4K • 👍 114 • 💬 68 • ⏱️ 3:10 • 23h ago
 
 ---
 
@@ -262,7 +260,7 @@ Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" fo
 
 📺 Smarttoy Ruko
 
-👁️ 11K • 👍 107 • ⏱️ 0:23 • 8h ago
+👁️ 11K • 👍 107 • ⏱️ 0:23 • 10h ago
 
 ---
 
@@ -272,7 +270,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UC4pND
 
 📺 Not What You Think
 
-👁️ 24K • 👍 3K • 💬 144 • ⏱️ 0:29 • 3h ago
+👁️ 24K • 👍 3K • 💬 144 • ⏱️ 0:29 • 5h ago
 
 ---
 

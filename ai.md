@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-28T18:14:43.431096+00:00'
+updated: '2026-07-28T20:00:45.862244+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 28, 2026 at 18:14 UTC  
+**Last Updated:** July 28, 2026 at 20:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Source AI companies are literally destroying physical books to train their models. Using hydraulic cutting machines, they rip pages from used books, scan them with industrial equipment, and feed them into their AI systems. This practice, protected by the first-sale doctrine and fair use, has now become so widespread that book sellers are cashing in on the AI boom. Rare and out-of-print books are being pulped, raising serious ethical and cultural concerns about the cost of AI progress.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books) • 17h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books) • 19h ago
+
+---
+
+**[AI coding tools are saving me hours but I genuinely can't tell if I'm getting dumber](https://www.reddit.com/r/artificial/comments/1v98szp/ai_coding_tools_are_saving_me_hours_but_i/)**
+
+AI coding tools are saving me hours but I genuinely can't tell if I'm getting dumber Running a bootstrapped SaaS solo while also being home with a kid most of the day means my actual focused coding time is maybe 90 minutes if I'm lucky. So I leaned hard into Cursor and Claude to ship faster. And it's working, kind of. The thing I keep sitting with: I'm shipping features I would have spent days on. But when something breaks in a weird way, there are moments where I have to really dig to understand what the AI wrote and why. That used to not happen. I'd write it, I'd know it. There's a version of this that's fine, maybe even good. Nobody handrolls SQL joins and loses sleep over it. But there's another version where I'm slowly losing the ability to debug my own product at a fundamental level, which for a solo founder is a pretty bad place to end up. The cost/benefit math feels obvious day to day. Zoom out six months and I'm less sure. Curious whether others running small technical products have hit this wall or if I'm just being paranoid about a tool that's clearly net positive. Also wondering if this is skill atrophy or just a different skill now. Alt titles: Anyone else feel like AI coding tools are making you faster but less sharp? | Solo technical founders: are you actually understanding what AI writes for you? | Is AIassisted coding a longterm liability for small teams or am I overthinking it?
+
+24m ago
 
 ---
 
@@ -49,23 +57,7 @@ Source AI companies are literally destroying physical books to train their model
 
 I've been thinking about this one all weekend and I keep coming back to the same thing. Jacob Tsimerman just won the Fields Medal. If you're not familiar, it's the highest honor in mathematics, only awarded every four years, roughly the Nobel Prize of the field. He got it for solving a problem that had been open for nearly 40 years. And then, at the press conference, on the same day, he announced he's leaving his university position to join OpenAI's safety team. His exact words were: "The math profession as we know it now, I don't think it will exist the way it exists right now." I've seen a lot of AI announcements. That one hit differently. This isn't someone pivoting because they couldn't make it in academia. This is the person who just stood at the top of the field saying the field itself is changing underneath him. Then there's the infrastructure story. NVIDIA is in talks to backstop $250 billion in financing for a 10-gigawatt OpenAI data center in southern Ohio, built on a decommissioned uranium enrichment site. The total cost including chips could exceed $500 billion. That's not a software company. That's an energy company pretending to be a software company. And Kimi K3 weights dropped on July 26, a day early. 2.8 trillion parameters, 1 million token context, free to download from Hugging Face. The largest open model ever released. Anyone can run it now. Three things in one week. Talent, capital, and capability all moving at the same time. The Tsimerman thing is the one I can't stop thinking about though. What's your read on it?
 
-22h ago
-
----
-
-**[Will AI literacy become a basic workplace skill?](https://www.reddit.com/r/artificial/comments/1v8vu55/will_ai_literacy_become_a_basic_workplace_skill/)**
-
-A few years ago, knowing how to use a computer was a big advantage. Today, it’s expected. I feel AI might follow a similar path. Knowing how to use AI tools effectively could become a basic skill across many jobs. Not everyone needs to build AI models but understanding how to use them, verify outputs and improve workflows might become important. Do you think AI skills will become a normal requirement in the workplace or is the hype bigger than the actual impact?
-
-6h ago
-
----
-
-**[Private Claude chats exposed on Google search results](https://www.reddit.com/r/artificial/comments/1v8gcbk/private_claude_chats_exposed_on_google_search/)**
-
-Over the weekend, Reddit users discovered a trove of private Claude chatbot conversations were indexed and publicly accessible on Google search. Anthropic confirmed the exposure Monday and attributed it to users' misuse of Claude’s “share chat” tool. “We give people control over sharing their Claude conversations publicly," a spokesperson told TechCrunch. "These shareable links are not guessable or discoverable unless people ... share them themselves." Some leaked chats reportedly contained personal data, including medical records and cryptocurrency wallet keys.
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/private-claude-chats-exposed-on-google-search-results-9083650/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 19h ago
+1d ago
 
 ---
 
@@ -73,15 +65,37 @@ Over the weekend, Reddit users discovered a trove of private Claude chatbot conv
 
 In-depth analysis and research from SenTeGuard, a cognitive security company, on LLM threats, idea leakage, information reachability, and AI governance.
 
-🔗 [SenTeGuard](https://senteguard.com/blog/limits-of-llmreachable-intelligence) • 1h ago
+🔗 [SenTeGuard](https://senteguard.com/blog/limits-of-llmreachable-intelligence) • 3h ago
 
 ---
 
-**[AI tools for real estate lead gen actually work but nobody talks about the ugly tradeoffs](https://www.reddit.com/r/artificial/comments/1v93ln8/ai_tools_for_real_estate_lead_gen_actually_work/)**
+**[Will AI literacy become a basic workplace skill?](https://www.reddit.com/r/artificial/comments/1v8vu55/will_ai_literacy_become_a_basic_workplace_skill/)**
 
-Been running AI on top of my real estate pipeline for a few months now. Pulling leads, qualifying them with automated followup sequences, generating property descriptions, drafting cold outreach. On paper it looks clean and efficient. The part nobody in the AI hype cycle mentions is the compliance layer. Real estate has actual regulations around communication, fair housing, and how you prospect. When you bolt an AI that occasionally hallucinates onto that, you're not just risking a bad lead. You're risking your license. The tools themselves are genuinely useful. An LLM that can turn raw MLS data into a compelling listing description in 30 seconds is real value. Lead scoring with some AI logic on top of a CRM cuts grunt work significantly. That part is not oversold. What is oversold is the autonomy angle. Every vendor pitches set it and forget it. That's not how it works in a regulated industry where one wrong automated message can trigger a complaint. You still have to babysit the outputs more than the demos ever suggest. Curious if anyone here is building in domains where AI errors have real legal or professional consequences, and how you're actually handling the gap between what the model produces and what you can safely send or act on.
+A few years ago, knowing how to use a computer was a big advantage. Today, it’s expected. I feel AI might follow a similar path. Knowing how to use AI tools effectively could become a basic skill across many jobs. Not everyone needs to build AI models but understanding how to use them, verify outputs and improve workflows might become important. Do you think AI skills will become a normal requirement in the workplace or is the hype bigger than the actual impact?
 
-1h ago
+8h ago
+
+---
+
+**[Private Claude chats exposed on Google search results](https://www.reddit.com/r/artificial/comments/1v8gcbk/private_claude_chats_exposed_on_google_search/)**
+
+Over the weekend, Reddit users discovered a trove of private Claude chatbot conversations were indexed and publicly accessible on Google search. Anthropic confirmed the exposure Monday and attributed it to users' misuse of Claude’s “share chat” tool. “We give people control over sharing their Claude conversations publicly," a spokesperson told TechCrunch. "These shareable links are not guessable or discoverable unless people ... share them themselves." Some leaked chats reportedly contained personal data, including medical records and cryptocurrency wallet keys.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/private-claude-chats-exposed-on-google-search-results-9083650/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 20h ago
+
+---
+
+**[AI is helping investigators identify possible clues after a California backpacker vanished](https://www.reddit.com/r/artificial/comments/1v96jot/ai_is_helping_investigators_identify_possible/)**
+
+🔗 [sfgate.com](https://www.sfgate.com/bayarea/article/california-duck-lakes-hiker-22363445.php) • 1h ago
+
+---
+
+**[Using Claude Mythos Preview, researchers at Anthropic have discovered improved ways to attack cryptographic algorithms (the mathematical methods used to keep online data private)](https://www.reddit.com/r/artificial/comments/1v99cuk/using_claude_mythos_preview_researchers_at/)**
+
+Anthropic researchers find weaknesses in cryptographic algorithms with Claude Mythos Preview
+
+🔗 [anthropic.com](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) • 4m ago
 
 ---
 
@@ -89,29 +103,13 @@ Been running AI on top of my real estate pipeline for a few months now. Pulling 
 
 As China deals with the fallout of Typhoon Noul that made landfall over the weekend, officials will be painfully aware that they will likely have an additional challenge to deal with: dangerously misleading videos created with Artificial Intelligence (AI).
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cx27mjvxgg1o) • 10h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cx27mjvxgg1o) • 12h ago
 
 ---
 
-**[The Control Problem: Why We Need to Build Interconnected Human-Governed Knowledge Layers in AI](https://www.reddit.com/r/artificial/comments/1v90g9t/the_control_problem_why_we_need_to_build/)**
+**[AI tools for real estate lead gen actually work but nobody talks about the ugly tradeoffs](https://www.reddit.com/r/artificial/comments/1v93ln8/ai_tools_for_real_estate_lead_gen_actually_work/)**
 
-There’s a lot of focus on making AI models bigger, faster, and more capable. I mean, yeah that clearly improves what they can do. But the more I’ve been working with them, the less it feels like capability is the bottleneck. It’s really about the context layer. Right now, you don’t really see how the model is interpreting what you give it, what it keeps, what it drops, or how it connects things. That stuff is mostly hidden. You can nudge it, but you’re still operating inside something you have no control over. And as these systems get better at sounding coherent, it'll be easier to ignore this flawed design. If this ends up being how people think through problems, learn things, make decisions, etc., then we end up with future systems where the logic is upstream and invisible to us, rendering less choice and agency in our lives. Worse, we'll live in a reality where we will have to accept truth rather than discover, learn, and verify the credibility of claims or opinions. AI is phenomenal but this trend we see in mainstream AI products will disempower humanity instead of helping us grow stronger. Wrote a longer breakdown of it here, if you're curious about these implications and what we can proactively build to have our cake and eat it too. The future looks bright, but only if we can see what what can be built.
-
-3h ago
-
----
-
-**[[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1v903u8/academic_survey_employees_working_in_germany/)**
-
-Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
-
-3h ago
-
----
-
-**[How do people actually get into expert networks?](https://www.reddit.com/r/artificial/comments/1v902aw/how_do_people_actually_get_into_expert_networks/)**
-
-Until a few months ago I honestly had no idea expert networks were even a thing. I always assumed companies either hired consultants or did their own research, so finding out that professionals get invited to share their experience on specific topics caught me by surprise. I've been reading more about how expert networking works, mostly because I'm curious about how people get their first opportunity. Is it usually through LinkedIn, referrals, previous industry experience, or do companies just reach out once you've built enough of a reputation? I'd love to hear from people who've actually done calls through expert networks. What did your first invitation look like, and what made you decide to accept it?
+Been running AI on top of my real estate pipeline for a few months now. Pulling leads, qualifying them with automated followup sequences, generating property descriptions, drafting cold outreach. On paper it looks clean and efficient. The part nobody in the AI hype cycle mentions is the compliance layer. Real estate has actual regulations around communication, fair housing, and how you prospect. When you bolt an AI that occasionally hallucinates onto that, you're not just risking a bad lead. You're risking your license. The tools themselves are genuinely useful. An LLM that can turn raw MLS data into a compelling listing description in 30 seconds is real value. Lead scoring with some AI logic on top of a CRM cuts grunt work significantly. That part is not oversold. What is oversold is the autonomy angle. Every vendor pitches set it and forget it. That's not how it works in a regulated industry where one wrong automated message can trigger a complaint. You still have to babysit the outputs more than the demos ever suggest. Curious if anyone here is building in domains where AI errors have real legal or professional consequences, and how you're actually handling the gap between what the model produces and what you can safely send or act on.
 
 3h ago
 
@@ -125,7 +123,7 @@ Until a few months ago I honestly had no idea expert networks were even a thing.
 
 Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.
 
-CNBC • 3h ago
+CNBC • 5h ago
 
 ---
 
@@ -135,49 +133,11 @@ The New York Times • 1h ago
 
 ---
 
-**[South Korean stock market at three-month low as AI sell-off intensifies](https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung)**
+**[Apple becomes second ever $5tn company as investors flee AI stocks](https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks)**
 
-Samsung and SK Hynix fall by more than 10% amid renewed fears over AI spending and Chinese competition
+Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-off
 
-The Guardian • 9h ago
-
----
-
-**[Wall Street’s flip from AI stocks to elsewhere accelerates, while oil prices keep easing](https://www.adn.com/business-economy/2026/07/28/wall-streets-flip-from-ai-stocks-to-elsewhere-accelerates-while-oil-prices-keep-easing/)**
-
-Most U.S. stocks are rising after Coca-Cola and other companies reported stronger profits for the spring than analysts expected.
-
-Anchorage Daily News • 42m ago
-
----
-
-**[New social media scam uses AI sob stories to target sympathetic buyers](https://www.nbcnews.com/now/video/new-social-media-scam-uses-ai-sob-stories-to-target-sympathetic-buyers-267394117998)**
-
-AI scams are on the rise on social media, like a viral story about a bullied teen who crochets handbags he sells online, and experts say it could all be an Al-generated scam. Meanwhile some real creators say their videos are being stolen. NBC News' Vicky Nguyen spoke to experts who share red flags to watch for before hitting that buy button.
-
-NBC News • 25m ago
-
----
-
-**[China Is Throwing a 1-2-3 Punch at the Global AI Trade](https://www.bloomberg.com/opinion/articles/2026-07-28/china-is-throwing-a-1-2-3-punch-at-the-global-ai-trade)**
-
-Bloomberg • 14m ago
-
----
-
-**[An Alabama animal shelter is taking on a massive AI data center project in court](https://www.businessinsider.com/alabama-animal-shelter-ai-data-center-project-lawsuit-2026-7)**
-
-The Greater Birmingham Humane Society filed a lawsuit earlier this month in a bid to block Nebius Group's data center project in Alabama.
-
-Business Insider • 5m ago
-
----
-
-**[Why tech companies are poaching top economists](https://www.washingtonpost.com/technology/2026/07/28/ai-firms-are-poaching-top-economists-questions-grow-about-job-losses/)**
-
-Google and others say their economic research sheds light on crucial questions, but critics argue corporate research doesn't serve the public interest.
-
-The Washington Post • 2h ago
+The Guardian • 2h ago
 
 ---
 
@@ -185,15 +145,53 @@ The Washington Post • 2h ago
 
 A sell-off in semiconductor stocks deepened on Tuesday.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai/)**
+**[AI’s finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex)**
 
-A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.
+Spending more than you make isn’t an ideal business practice.
 
-OpenAI • 1h ago
+The Verge • 27m ago
+
+---
+
+**[Trump administration to ban new Chinese humanoid robots, protecting US AI buildout](https://www.detroitnews.com/story/tech/2026/07/28/trump-admin-to-ban-chinese-humanoid-robots-us-ai-buildout/91081327007/)**
+
+The FCC plans to bar Chinese imports of new humanoid and quadruped robots, officials said.
+
+The Detroit News • 26m ago
+
+---
+
+**[Job search ‘coaches’ gear up to help transitioning troops meet AI challenge](https://www.militarytimes.com/veterans/2026/07/28/job-search-coaches-gear-up-to-help-transitioning-troops-meet-ai-challenge/)**
+
+About 200,000 troops leave the military each year, and this year they are entering a jobs market in flux, with the long-term effects of AI anybody's guess.
+
+Military Times • 32m ago
+
+---
+
+**[Why tech companies are poaching top economists](https://www.washingtonpost.com/technology/2026/07/28/ai-firms-are-poaching-top-economists-questions-grow-about-job-losses/)**
+
+Google and others say their economic research sheds light on crucial questions, but critics argue corporate research doesn't serve the public interest.
+
+The Washington Post • 4h ago
+
+---
+
+**[Apple Set to Make Big Smart Home Push With Siri AI at Center](https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Amazon overhauls its AI strategy, winding down most flagship models](https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7)**
+
+Amazon reshapes its AI strategy by deprecating most Nova AI models and shifting resources to Pieter Abbeel's Frontier Model Research initiative.
+
+Business Insider • 11h ago
 
 ---
 
@@ -205,7 +203,7 @@ OpenAI • 1h ago
 
 The case centers on Tunick's use of GrapheneOS, an open-source operating system that works on Google Pixel phones and lets users enter a passcode to wipe a...
 
-⬆️ 1305 • 💬 1060 • 1d ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+⬆️ 1306 • 💬 1064 • 1d ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 
 ---
 
@@ -213,7 +211,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're
 
-⬆️ 775 • 💬 496 • 1d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
+⬆️ 777 • 💬 501 • 1d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 
 ---
 
@@ -229,7 +227,7 @@ Other
 
 London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.
 
-⬆️ 291 • 💬 264 • 2d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+⬆️ 291 • 💬 265 • 2d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 
 ---
 
@@ -237,7 +235,7 @@ London Gatwick is the first UK airport to launch robotic parking. Passengers can
 
 Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing battle over federal policy
 
-⬆️ 271 • 💬 143 • 1d ago • [ft.com](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
+⬆️ 271 • 💬 144 • 1d ago • [ft.com](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
 
 ---
 
@@ -245,7 +243,7 @@ Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing
 
 Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where's Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom's most "acerbic gadfly" – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he's right. You've been calling AI a bubble since before it was fashionable.
 
-⬆️ 247 • 💬 338 • 1d ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+⬆️ 248 • 💬 343 • 1d ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 
 ---
 
@@ -267,13 +265,13 @@ For our second Content Independence Day, we’re giving website owners finer opt
 
 **[Terence Tao: Mathematics in the Age of AI [pdf]](https://news.ycombinator.com/item?id=49056620)**
 
-⬆️ 162 • 💬 64 • 2d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
+⬆️ 163 • 💬 64 • 2d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
 
 ---
 
 **[Google's Beyond Zero: Enterprise Security for the AI Era](https://news.ycombinator.com/item?id=49081644)**
 
-⬆️ 113 • 💬 63 • 8h ago • [spawn-queue.acm.org](https://spawn-queue.acm.org/doi/10.1145/3819083)
+⬆️ 135 • 💬 68 • 10h ago • [spawn-queue.acm.org](https://spawn-queue.acm.org/doi/10.1145/3819083)
 
 ---
 
@@ -287,7 +285,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 218K • 👍 10K • 💬 2K • ⏱️ 15:38 • 14h ago
+👁️ 218K • 👍 10K • 💬 2K • ⏱️ 15:38 • 16h ago
 
 ---
 
@@ -297,7 +295,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 81K • 👍 7K • 💬 846 • ⏱️ 14:58 • 4h ago
+👁️ 81K • 👍 7K • 💬 846 • ⏱️ 14:58 • 6h ago
 
 ---
 
@@ -307,7 +305,7 @@ Sam Altman says OpenAI's ultimate AI could work like a genie that grants any wis
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 223 • ⏱️ 13:07 • 18h ago
+👁️ 37K • 👍 1K • 💬 223 • ⏱️ 13:07 • 19h ago
 
 ---
 
@@ -317,7 +315,7 @@ Website & Livestream Chat - https://www.vaush.gg/ ⭐️ 2nd Channel - https://w
 
 📺 Vaush
 
-👁️ 98K • 👍 4K • 💬 506 • ⏱️ 9:54 • 2d ago
+👁️ 98K • 👍 4K • 💬 506 • ⏱️ 9:54 • 3d ago
 
 ---
 
@@ -417,7 +415,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,694,935 • ❤️ 3,397 • 10h ago
+⬇️ 2,694,935 • ❤️ 3,397 • 11h ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 736,692 • ❤️ 825 • 17h ago
+⬇️ 736,692 • ❤️ 825 • 18h ago
 
 ---
 
@@ -453,7 +451,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 18,933 • ❤️ 517 • 5h ago
+⬇️ 18,933 • ❤️ 517 • 7h ago
 
 ---
 
@@ -477,7 +475,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 6,275 • ❤️ 272 • 13h ago
+⬇️ 6,275 • ❤️ 272 • 15h ago
 
 ---
 
@@ -501,7 +499,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 645 • ❤️ 256 • 12h ago
+⬇️ 645 • ❤️ 256 • 14h ago
 
 ---
 
@@ -581,7 +579,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more than isolated prompt-output interactions. It involves references, drafts, alternatives, edits, failed attempts, version relations, tool actions, evaluation signals, and human feedback, which together form an evolving project state. Existing prompt-based, chat-based, and node-based generation systems only partially support this state, as they often discard intermediate context, rely on linear conversations, or require manually specified workflows. Recent commercial systems indicate a shift toward agent-assisted creative production, but their closed architectures make it difficult to study how agents represent context, choose tools, revise artifacts, recover from failures, and maintain consistency over time. To address this gap, we introduce JarvisHub, a canvas-native creative agent harness for long-horizon multimodal creation. JarvisHub treats an editable canvas as the user workspace, the agent's external memory, action space, and shared project state, representing multimodal artifacts, dependencies, versions, and feedback as typed canvas nodes and links. Through a three-layer architecture of canvas state, protocol bridge, and agent runtime, JarvisHub enables agents to act within an inspectable and editable creative state. This design moves creative agents beyond isolated tool use toward sustained, human-steerable creative automation, where agents can progressively plan, generate, revise, and organize multimodal projects while users remain able to inspect, guide, and intervene throughout the process.
 
-▲ 101 • 💬 1 • ⭐ 76 • 2d ago
+▲ 101 • 💬 1 • ⭐ 76 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.23588) • [💻 code](https://github.com/LYL1015/JarvisHub) • [🔗 project](https://www.jarvishub.site/)
 
@@ -608,7 +606,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this work, we organize the embodied data ecosystem as a "pyramid" spanning five complementary sources: real-robot data, UMI-style data, egocentric and exocentric data, simulation data, and general vision-language data. We organize the pyramid around the tension between scalability and robot alignment, and further characterize each source in terms of data quality, diversity, reusability, and physical fidelity. We then analyze recent embodied foundation models through the lens of their data recipes, examining how different sources are selected, aligned, and mixed during pretraining. For embodied brain models, vision-language-action models, and world-action models alike, we relate data composition to capabilities in perception, reasoning, planning, action generation, and world prediction. We close by discussing six open challenges: building large-scale tactile datasets, collecting failure and recovery data, developing scalable data-collection pipelines, aligning actions across embodiments, leveraging egocentric data for dexterous manipulation, and designing principled data recipes for robot learning. We hope this work paves the foundation for the design of next-generation embodied systems.
 
-▲ 29 • 💬 1 • ⭐ 62 • 1d ago
+▲ 29 • 💬 1 • ⭐ 62 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24744) • [💻 code](https://github.com/worldbench/awesome-embodied-data-pyramid) • [🔗 project](https://jasper-aaa.github.io/embodied-data-pyramid/)
 
@@ -635,7 +633,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.
 
-▲ 72 • 💬 2 • ⭐ 730 • 7d ago
+▲ 72 • 💬 2 • ⭐ 730 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19064) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage/)
 
@@ -651,7 +649,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 22h ago
+⭐ 5.3k • 🔱 1.1k • 1d ago
 
 ---
 
@@ -661,7 +659,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.4k • 🔱 273 • 9h ago
+⭐ 3.4k • 🔱 273 • 11h ago
 
 ---
 
@@ -701,7 +699,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.5k • 🔱 215 • 10h ago
+⭐ 2.5k • 🔱 215 • 12h ago
 
 ---
 
@@ -729,7 +727,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 30s ago
+⭐ 1.5k • 🔱 1.1k • 1h ago
 
 ---
 

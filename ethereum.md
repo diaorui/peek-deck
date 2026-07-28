@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-28T18:14:43.445554+00:00'
+updated: '2026-07-28T20:00:45.876881+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 18:14 UTC  
+**Last Updated:** July 28, 2026 at 20:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,910.01
+### $1,921.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -1.3%  
-**30d:** +18.3%  
-**90d:** -15.5%  
-**1y:** -49.7%  
+**24h:** -1.0%  
+**7d:** -0.6%  
+**30d:** +19.2%  
+**90d:** -14.9%  
+**1y:** -49.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -152,11 +152,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
-**[Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise](https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise)**
+**[Morgan Stanley debuts Ethereum and Solana ETFs with market's lowest fee, staking rewards](https://www.theblock.co/post/409898/morgan-stanley-debuts-ethereum-solana-etfs-markets-lowest-fee-staking-rewards)**
 
-Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.
+The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
 
-The Block • 23h ago
+The Block • 5h ago
 
 ---
 
@@ -180,7 +180,7 @@ CoinDesk • 1d ago
 
 The crypto treasury leader has quietly amassed a significant share of Ethereum's total supply.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -192,21 +192,21 @@ Ethereum (ETH-USD) and solana (SOL-USD) are getting busier and cheaper, even as 
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Morgan Stanley’s MSSE Offers Ethereum Exposure at Market-Leading 0.14% Cost](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-msse-offers-ethereum-164605723.html)**
+**[Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-expands-crypto-push-191414094.html)**
 
-Morgan Stanley just entered the spot ether market with a fee structure that undercuts most established rivals, and it is pairing that price advantage with a staking feature that could quietly change what investors actually earn.
+The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 46m ago
 
 ---
 
-**[After Bitcoin Success, Morgan Stanley Bets Bigger On Ethereum And Solana ETFs](https://finance.yahoo.com/markets/crypto/articles/bitcoin-success-morgan-stanley-bets-161734948.html)**
+**[Morgan Stanley Launches Ethereum and Solana ETPs With 0.14% Fees](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-launches-ethereum-solana-182600380.html)**
 
-The launch comes on the heels of the firm’s Bitcoin Trust (MSBT), now with more than $381 million in assets under management.
+Morgan Stanley Investment Management launched Ethereum (CRYPTO: $ETH) and Solana (CRYPTO: $SOL) exchange-traded pro...
 
 Yahoo Finance • 1h ago
 
@@ -224,13 +224,13 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 3h ago
 
 ---
 
 **[Large cryptocurrencies drop on Solana, Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-solana-ethereum-declines-d6d5186c-d3aa3f312e86)**
 
-MarketWatch • 4h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 📺 The Rollup
 
-👁️ 1K • 👍 23 • 💬 18 • ⏱️ 6:40 • 6h ago
+👁️ 1K • 👍 23 • 💬 18 • ⏱️ 6:40 • 8h ago
 
 ---
 
@@ -254,7 +254,7 @@ Are these fear headlines driving Bitcoin price analysis or just market manipulat
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 326 • 💬 152 • ⏱️ 12:59 • 2h ago
+👁️ 3K • 👍 326 • 💬 152 • ⏱️ 12:59 • 4h ago
 
 ---
 
@@ -264,7 +264,7 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 68K • 👍 1K • 💬 225 • ⏱️ 6:11 • 22h ago
+👁️ 68K • 👍 1K • 💬 225 • ⏱️ 6:11 • 23h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 425 • 👍 25 • 💬 10 • ⏱️ 4:29 • 9h ago
+👁️ 425 • 👍 25 • 💬 10 • ⏱️ 4:29 • 11h ago
 
 ---
 
@@ -294,7 +294,7 @@ Ethereum Is Falling Harder: Structure Still Matters Ethereum is showing weakness
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 426 • 👍 17 • ⏱️ 1:10 • 6h ago
+👁️ 426 • 👍 17 • ⏱️ 1:10 • 8h ago
 
 ---
 
@@ -314,7 +314,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 2K • 👍 72 • 💬 45 • ⏱️ 11:54 • 19h ago
+👁️ 2K • 👍 72 • 💬 45 • ⏱️ 11:54 • 20h ago
 
 ---
 
@@ -334,7 +334,7 @@ BITCOIN WARNING: DON'T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 261 • 💬 117 • ⏱️ 25:44 • 19h ago
+👁️ 6K • 👍 261 • 💬 117 • ⏱️ 25:44 • 21h ago
 
 ---
 
