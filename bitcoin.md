@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-28T12:20:42.309855+00:00'
+updated: '2026-07-28T14:59:16.348637+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 12:20 UTC  
+**Last Updated:** July 28, 2026 at 14:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,386.02
+### $63,013.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
+**24h:** -1.7%  
 **7d:** -4.0%  
 **30d:** +5.3%  
 **90d:** -16.9%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1271.66B
+**Market Cap:** $1272.23B
 Rank #1
 
-**Circulating Supply:** 20,062,368 BTC
+**Circulating Supply:** 20,062,421 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.7%
 
 **All-Time Low:** $67.81
-+93372.9%
++93430.5%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Always remember!](https://www.reddit.com/r/Bitcoin/comments/1v89b45/always_remember/)**
 
-17h ago
+20h ago
 
 ---
 
 **[Damm bro 😔🥀](https://www.reddit.com/r/Bitcoin/comments/1v819f9/damm_bro/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Raúl Robles was a Mexican founder of HackingMexico. He taught cybersecurity and offensive security, this is an old photo from the internet of him giving a Bitcoin talk back in Bitcoin's early days. Sadly, he met a tragic end in 2015, he was known for humiliating and controversial rhetoric through Facebook posts, and eventually met his end by a guy that announced in a forum he was tired of his insults. It's interesting to look back at some of those early conferences and talks that helped push Bitcoin to a wider audience, and to wonder how many people in the room got curious enough to buy, how many held...
 
-12h ago
+15h ago
 
 ---
 
 **[This cat holds through the lows, will you do the same?](https://www.reddit.com/r/Bitcoin/comments/1v8882g/this_cat_holds_through_the_lows_will_you_do_the/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -115,7 +115,7 @@ What about 2026 - are we too late to start invest into Bitcoin?
 
 I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see which one was actually the worst
 
-14h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see 
 
 A Bitcoin Story - Chapter 1 : 2026 - When bitcoin became invisible
 
-23h ago
+1d ago
 
 ---
 
@@ -131,7 +131,7 @@ A Bitcoin Story - Chapter 1 : 2026 - When bitcoin became invisible
 
 I've noticed that some of the loudest Bitcoin FUD seems to come from people who already hold BTC. If you're bullish long term, why let every correction shake your conviction? Is it just emotion, or do people expect Bitcoin to move up without volatility? What do you think? or y'all playing around? Lol
 
-15h ago
+17h ago
 
 ---
 
@@ -139,7 +139,7 @@ I've noticed that some of the loudest Bitcoin FUD seems to come from people who 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/L-cP2PG9beA?si=Qfu27yeWVfy_LbLh&t=72) • 20h ago
+🔗 [youtu.be](https://youtu.be/L-cP2PG9beA?si=Qfu27yeWVfy_LbLh&t=72) • 23h ago
 
 ---
 
@@ -147,7 +147,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Just asking, I really want to buy quite a lot and I don't know if I should put everything in a single cold wallet. I already have a Trezor model t, is it necessary to upgrade or is any kind of Trezor good? P.s. I plan to become a whole coiner before 2029. Thanks in advance for your help.
 
-14h ago
+17h ago
 
 ---
 
@@ -155,77 +155,77 @@ Just asking, I really want to buy quite a lot and I don't know if I should put e
 
 ## Google News: "bitcoin"
 
-**[Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion](https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion)**
+**[Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges](https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges)**
 
-Strategy bought no bitcoin for a fifth straight week, while raising its USD reserve to $3.75 billion and selling $544.5M in MSTR.
+A lawsuit alleges Apple kept a fake bitcoin wallet app on its store after one user reported an $875,000 theft, leading to another user having roughly $840,000 stolen.
 
-The Block • 23h ago
-
----
-
-**[Bitcoin (BTC) price may fall to $52,000 as demand remains elusive, Nansen analyst says](https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next)**
-
-BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.
-
-CoinDesk • 16h ago
-
----
-
-**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
-
-After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
-
-Morningstar • 2h ago
-
----
-
-**[Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt](https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure)**
-
-It's a risk-off day. Still, bitcoin is holding better than Nasdaq and Asian equity markets.
-
-CoinDesk • 3h ago
-
----
-
-**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
-
-Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
-
-CNBC • 17h ago
-
----
-
-**[Everyone expected a Bitcoin investing boom. Why it never came.](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
-
-Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
-
-USA Today • 1d ago
-
----
-
-**[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin ETFs Bled Cash Last Week After Winning Streak](https://bitcoinmagazine.com/markets/bitcoin-etfs-see-investor-reversal)**
-
-The Bitcoin ETFs had taken in nearly $1 billion in new cash.
-
-Bitcoin Magazine • 19h ago
-
----
-
-**[Spot Bitcoin ETFs log third straight week of inflows—but there’s a catch](https://seekingalpha.com/news/4618808-spot-bitcoin-etfs-log-third-straight-week-of-inflowsbut-theres-a-catch)**
-
-Seeking Alpha • 21h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Apple’s latest lawsuit involves bogus Bitcoin wallet](https://www.al.com/news/2026/07/apples-latest-lawsuit-involves-bogus-bitcoin-wallet.html)**
 
-AL.com • 2h ago
+AL.com • 4h ago
+
+---
+
+**[Three customers sue Apple after fake wallet app wipes out their Bitcoin](https://9to5mac.com/2026/07/27/three-customers-sue-apple-after-fake-wallet-app-wipes-out-their-bitcoin/)**
+
+Apple is once again being sued over a scam cryptocurrency app that allegedly slipped through App Store review and cost users nearly $2 million.
+
+9to5Mac • 17h ago
+
+---
+
+**[Strategy Skips Bitcoin Buying and Selling for a Third Week. Here’s What It Did Instead.](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-6b8ef61c)**
+
+Barron's • 1d ago
+
+---
+
+**[Strategy Skips Bitcoin Again, Buys Back $25M of STRC Stock](https://bitcoinmagazine.com/news/strategy-skips-bitcoin-buy-again)**
+
+Strategy has not bought Bitcoin in five weeks.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[BMNR, CRCL, MSTR Stocks Lead Slide In Crypto Equities Amid Bitcoin’s Tumble To $63K](https://www.tradingview.com/news/stocktwits:cdd044c5b094b:0-bmnr-crcl-mstr-stocks-lead-slide-in-crypto-equities-amid-bitcoin-s-tumble-to-63k/)**
+
+Shares of Tom Lee-backed Bitmine Immersion Technologies (BMNR) led the decline in early morning trade on Tuesday after Ethereum (ETH) tumbled, dragging the broader cryptocurrency market lower and pulling Bitcoin (BTC) back to around $63,000, triggering another wave of liquidations.BMNR’s stock fell…
+
+TradingView • 4h ago
+
+---
+
+**[Why Strategy’s $544M Raise Could Signal the Bitcoin Bottom](https://finance.yahoo.com/video/why-strategy-544m-raise-could-130000896.html)**
+
+Strategy’s $525 million capital raise may have eased fears of forced Bitcoin sales, giving the company more room to cover its obligations—and potentially removing one of the market’s biggest near-term risks.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin's next move hinges on breakeven wall at $68,500](https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure)**
+
+It's a risk-off day. Still, bitcoin is holding better than Nasdaq and Asian equity markets.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, July 28, 2026: Crypto prices slide ahead of Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-28-2026-crypto-prices-slide-ahead-of-fed-meeting-125210301.html)**
+
+Bitcoin opened at $63,706.66 on Tuesday, July 28, 2026, 2.5% lower than Monday's opening price. Ethereum opened at $1,890.67, down 3.2% from Monday's opening price.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://global.morningstar.com/en-ca/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
+
+Morningstar • 1d ago
 
 ---
 
@@ -237,7 +237,7 @@ AL.com • 2h ago
 
 A simple Bitcoin payment processor for any business. Accept Bitcoin payments, receive Bitcoin donations and send Bitcoin payouts all on the OpenNode platform.
 
-⬆️ 115 • 💬 126 • 5d ago • [opennode.com](https://opennode.com/)
+⬆️ 115 • 💬 126 • 6d ago • [opennode.com](https://opennode.com/)
 
 ---
 
@@ -245,7 +245,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 The alleged thieves infected 8,000 devices.
 
-⬆️ 43 • 💬 35 • 15h ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+⬆️ 43 • 💬 37 • 18h ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -309,7 +309,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The first Bitcoin newsletter that rewards you with sats while you learn about regulation, sovereignty, and legal developments.
 
-⬆️ 1 • 💬 0 • 15h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
+⬆️ 1 • 💬 0 • 18h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
 
 ---
 
@@ -323,7 +323,7 @@ Thank you to Mint Mobile for partnering with us on this video! Visit our partner
 
 📺 The Graham Stephan Show
 
-👁️ 47K • 👍 2K • 💬 787 • ⏱️ 18:59 • 20h ago
+👁️ 52K • 👍 2K • 💬 939 • ⏱️ 18:59 • 22h ago
 
 ---
 
@@ -333,27 +333,7 @@ See if your SSN is for sale right now. My sponsor Cloaked will tell you for free
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 350 • 💬 199 • ⏱️ 9:19 • 14h ago
-
----
-
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=-GT2FmXrAto)**
-
-Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TIMECODES 00:00 Something Strange Is Happening ...
-
-📺 Heresy Financial
-
-👁️ 31K • 👍 1K • 💬 382 • ⏱️ 14:33 • 23h ago
-
----
-
-**[Bitcoin’s $70K Breakout Will Be DECIDED in the Next 72 HOURS](https://www.youtube.com/watch?v=D_CD6LypJiw)**
-
-Bitcoin #Crypto #finance Bitcoin rebounds above $65000 as Middle East tensions ease, but the market now faces its biggest ...
-
-📺 The Wolf Of All Streets
-
-👁️ 18K • 👍 762 • 💬 362 • ⏱️ 1:01:29 • 21h ago
+👁️ 6K • 👍 379 • 💬 200 • ⏱️ 9:19 • 17h ago
 
 ---
 
@@ -363,7 +343,17 @@ TOOBIT — DEPOSIT MORE, EARN MORE! UP TO 100 USDT BONUS ...
 
 📺 100XClub
 
-👁️ 2K • 👍 463 • 💬 108 • ⏱️ 8:27 • 2h ago
+👁️ 4K • 👍 615 • 💬 100 • ⏱️ 8:27 • 5h ago
+
+---
+
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=-GT2FmXrAto)**
+
+Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TIMECODES 00:00 Something Strange Is Happening ...
+
+📺 Heresy Financial
+
+👁️ 33K • 👍 2K • 💬 385 • ⏱️ 14:33 • 1d ago
 
 ---
 
@@ -373,7 +363,7 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 59K • 👍 1K • 💬 138 • ⏱️ 6:11 • 16h ago
+👁️ 63K • 👍 1K • 💬 222 • ⏱️ 6:11 • 18h ago
 
 ---
 
@@ -383,27 +373,7 @@ Let's provide an update to Bitcoin and its bear market resistance band, Come to 
 
 📺 Benjamin Cowen
 
-👁️ 82K • 👍 5K • 💬 198 • ⏱️ 8:59 • 1d ago
-
----
-
-**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 13K • 👍 410 • 💬 58 • ⏱️ 15:51 • 2d ago
-
----
-
-**[Live Bitcoin Analysis: Clapping Season!](https://www.youtube.com/watch?v=xYCEOsWK7-E)**
-
-Live Bitcoin Trading & Technical Analysis with Zen Master JP Get 10% back on your fees with BTCC ...
-
-📺 Sin City Crypto
-
-👁️ 6K • 👍 289 • ⏱️ 4:26:35 • 7h ago
+👁️ 84K • 👍 5K • 💬 199 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -413,7 +383,37 @@ Money is expensive again, Wall Street is repricing every asset, and Warren Buffe
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 202 • ⏱️ 16:47 • 14h ago
+👁️ 21K • 👍 2K • 💬 205 • ⏱️ 16:47 • 17h ago
+
+---
+
+**[Why Michael Saylor stopped buying Bitcoin](https://www.youtube.com/watch?v=G87Vy-dZbdw)**
+
+In this episode of The Daily Wolf, Scott Melker explains why several crypto companies and exchanges are shutting down while the ...
+
+📺 Yahoo Finance
+
+👁️ 9K • 👍 405 • 💬 122 • ⏱️ 14:53 • 22h ago
+
+---
+
+**[$67,000 Breaks Or Bitcoin CRASHES HARD! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=DJKHKFP1ivc)**
+
+Bitcoin Must Break $67000… Or It Crashes In this video I break down why the $67000 level is critical right now. We cover: • Why ...
+
+📺 Crypto Jebb
+
+👁️ 3K • 👍 217 • 💬 120 • ⏱️ 11:50 • 20h ago
+
+---
+
+**[Bitcoin&#39;s About to Make a Fool Out of Everyone!](https://www.youtube.com/watch?v=EbR8__e79sc)**
+
+Crypto has been through another wave of bad news, yet the market is reacting very differently than it did in previous cycles.
+
+📺 Crypto Banter
+
+👁️ 20K • 👍 1K • 💬 50 • ⏱️ 30:54 • 1d ago
 
 ---
 

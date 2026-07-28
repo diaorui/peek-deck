@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T12:20:42.319423+00:00'
+updated: '2026-07-28T14:59:16.356808+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 12:20 UTC  
+**Last Updated:** July 28, 2026 at 14:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -106,43 +106,43 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 ## Google News: "robotics"
 
+**[Enigma raises $71M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)**
+
+The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
+
+TechCrunch • 1d ago
+
+---
+
 **[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
 
 As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-The Information • 20h ago
+The Information • 23h ago
 
 ---
 
-**[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
+**[ABM and LaGuardia Gateway Partners Launch Autonomous Robotics Pilot at Terminal B, Setting a New Standard for Airport Guest Experience](https://sg.finance.yahoo.com/news/abm-laguardia-gateway-partners-launch-132000305.html)**
 
-Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
+Robotic deployment includes autonomous floor scrubbers, autonomous vacuums, and one of the first autonomous robotic dogs in a U.S. airport terminal NEW YORK, July 28, 2026 (GLOBE NEWSWIRE) -- ABM (NYSE: ABM), a leading provider of facility, engineering and infrastructure solutions, announced today the launch of a robotics program at LaGuardia Airport’s award-winning Terminal B. In partnership with LaGuardia Gateway Partners (LGP), the operator of Terminal B, ABM is introducing both autonomous in
 
-calcalistech.com • 22h ago
-
----
-
-**[Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI](https://www.theblock.co/post/409724/axis-robotics-raised-12m-funding-to-build-the-compounding-data-engine-accelerating-physical-ai)**
-
-Axis Robotics, the compounding data engine accelerating Physical AI, announces that it has raised $12 million in a seed round led by Hack VC, with
-
-The Block • 1d ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
-**[XTEND expands in Europe with Lavtia's Atlas, adding thousands of robotic platforms to portfolio](https://www.jpost.com/defense-and-tech/article-903877)**
+**[GMEX Robotics Corporation Enters into Definitive Agreement to Acquire Strategic Equity Interest in MediaMeta.Ai to Advance Social Intelligence](https://finance.yahoo.com/technology/ai/articles/gmex-robotics-corporation-enters-definitive-124500593.html)**
 
-With Atlas merger, XTEND boosts its autonomous systems portfolio and strengthens support for NATO and EU partners.
+Synergetic acquisition to compliment GMEX’s Robotic Intelligence-with $52.6 million in revenues expected from MediaMeta and exclusive rights to use MediaMeta technology Sydney, Australia, July 28, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (Nasdaq: GMEX) (“GMEX” or the “Company”) today announced that it has entered into a definitive share purchase agreement (the “Share Purchase Agreement”) with Alpha Meta AI Pte. Ltd. (the “Issuer”), MetaGen AI Limited and the other parties thereto. The
 
-The Jerusalem Post • 4h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Chinese Soldiers Train with Armed Quadruped Robots in Urb...](https://x.com/i/trending/2081698345009975574)**
+**[New to The Street's Esteemed Client Virtuix (NASDAQ: VTIX) Advances AI and Robotics Strategy with Initial Sale to Tesla's Optimus Division](https://finance.yahoo.com/technology/ai/articles/streets-esteemed-client-virtuix-nasdaq-124000292.html)**
 
-The video, posted by military watcher Clash Archivist on July 26, shows a robot dog—likely based on the $2,800 Unitree Go2—entering a structure ahead of troops during practical combat training. These lightweight machines scout high-risk areas like doorways, clear obstacles, and provide fire support to cut human casualties, as China's state media has demonstrated in chemical defense and amphibious exercises. While the footage highlights China's robotics edge and sparks talk of vulnerabilities like hacking, it reflects a global shift where infantry teams up with AI companions rather than being replaced.
+Latest Milestone Builds on Virtuix's Growing Presence Across U.S. Defense, NASA, Enterprise AI, and Next-Generation Robotics Applications NEW YORK CITY, NY / ACCESS Newswire / July 28, 2026 / New to The Street congratulates its esteemed client, Virtuix ...
 
-x.com • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -150,21 +150,15 @@ x.com • 1d ago
 
 The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
 
-MIT News • 8h ago
+MIT News • 10h ago
 
 ---
 
-**[School District Pauses Plans to Deploy Humanoid Robots in Class After Outcry](https://www.yahoo.com/news/us/articles/sex-doll-company-strikes-bizarre-120100760.html)**
+**[XTEND expands in Europe with Lavtia's Atlas, boosting robotics portfolio](https://www.jpost.com/defense-and-tech/article-903877)**
 
-It's on pause.
+With Atlas merger, XTEND boosts its autonomous systems portfolio and strengthens support for NATO and EU partners.
 
-Yahoo • 2d ago
-
----
-
-**[AI underwater robots can now track diver stress via exhaled bubbles](https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html)**
-
-Tech Xplore • 18h ago
+The Jerusalem Post • 6h ago
 
 ---
 
@@ -172,7 +166,13 @@ Tech Xplore • 18h ago
 
 Projecting light directly onto a chip could stream data using less energy
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
+
+---
+
+**[AI underwater robots can now track diver stress via exhaled bubbles](https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html)**
+
+Tech Xplore • 21h ago
 
 ---
 
@@ -180,7 +180,7 @@ IEEE Spectrum • 1d ago
 
 Senior executive sees Japan as potential engineering hub
 
-Nikkei Asia • 10h ago
+Nikkei Asia • 13h ago
 
 ---
 
@@ -194,7 +194,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 55K • 👍 1K • 💬 541 • ⏱️ 2:15 • 12h ago
+👁️ 84K • 👍 2K • 💬 703 • ⏱️ 2:15 • 14h ago
 
 ---
 
@@ -204,17 +204,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 13K • 👍 406 • 💬 24 • ⏱️ 4:23 • 2d ago
-
----
-
-**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot Factories](https://www.youtube.com/watch?v=3UEfc0XqJJ0)**
-
-America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually known for pandas, hotpot, teahouses, old ...
-
-📺 Living in China
-
-👁️ 109K • 👍 3K • 💬 236 • ⏱️ 12:28 • 6d ago
+👁️ 13K • 👍 415 • 💬 24 • ⏱️ 4:23 • 2d ago
 
 ---
 
@@ -224,7 +214,17 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 4K • 👍 107 • 💬 65 • ⏱️ 3:10 • 15h ago
+👁️ 4K • 👍 108 • 💬 65 • ⏱️ 3:10 • 18h ago
+
+---
+
+**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
+
+One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
+
+📺 NBC News
+
+👁️ 16K • 👍 170 • 💬 94 • ⏱️ 5:29 • 5d ago
 
 ---
 
@@ -244,7 +244,17 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 57K • 👍 1K • 💬 441 • ⏱️ 2:02 • 5d ago
+👁️ 57K • 👍 1K • 💬 445 • ⏱️ 2:02 • 6d ago
+
+---
+
+**[Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT](https://www.youtube.com/watch?v=iEoMJJvjPwY)**
+
+Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT Solar power is about to get unbelievably cheap thanks to ...
+
+📺 The Electric Viking
+
+👁️ 59K • 👍 3K • 💬 383 • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -252,37 +262,27 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 Smarttoy Ruko
 
-👁️ 2K • 👍 20 • ⏱️ 0:23 • 2h ago
+👁️ 5K • 👍 58 • ⏱️ 0:23 • 4h ago
 
 ---
 
-**[GATE 2027 Robotics and Automation | GATE 2027 New Syllabus | GATE Robotics &amp; Automation Full Course](https://www.youtube.com/watch?v=Mz3jAiOYD-U)**
+**[The Nightmare Robot Dog](https://www.youtube.com/watch?v=eL3qcDOma7s)**
 
-Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course based on the GATE 2027 New Syllabus.
+Join this channel to get access to perks: https://www.youtube.com/channel/UC4pNDofN0Xh-z2bhh62g8Ow/join Music: Yhello ...
 
-📺 GATE Wallah
+📺 Not What You Think
 
-👁️ 3K • 👍 127 • 💬 2 • ⏱️ 17:35 • 18h ago
-
----
-
-**[Ultimate Bumblebee Transformers Toy Collection: Camaro, Robot, Beetle &amp; Rare Action Figures 4K HD](https://www.youtube.com/watch?v=z6WPmqSAr_A)**
-
-Discover the ultimate Bumblebee Transformers toy collection featuring classic Camaro models, Volkswagen Beetle, robot figures, ...
-
-📺 Bob ToysReview
-
-👁️ 9K • 👍 23 • 💬 1 • ⏱️ 9:29 • 1d ago
+👁️ 2K • 👍 190 • 💬 13 • ⏱️ 0:29 • 21m ago
 
 ---
 
-**[My Favourite Build Of All Time... But Now In 2026 | Plasma Griffin 2.0 DOMINATES | War Robots](https://www.youtube.com/watch?v=OxTi6w2IiRA)**
+**[How This ‘Beyblade’ Robot Actually Moves](https://www.youtube.com/watch?v=VarfV9wek2I)**
 
-The Plasma griffin reborn in 2026. It's been almost a decade since the Plasma griffin ruled War robots. And this is the Plasma ...
+Still dialing in the perfect spin. Even with three decades of coding under his belt, melty brains aren't easy to get right. The builder ...
 
-📺 PREDATOR WR
+📺 NHRL
 
-👁️ 10K • 👍 369 • 💬 44 • ⏱️ 16:40 • 1d ago
+👁️ 43K • 👍 2K • 💬 23 • ⏱️ 1:28 • 6d ago
 
 ---
 

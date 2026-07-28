@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-28T12:20:42.301329+00:00'
+updated: '2026-07-28T14:59:16.340933+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 28, 2026 at 12:20 UTC  
+**Last Updated:** July 28, 2026 at 14:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source AI companies are literally destroying physical books to train their models. Using hydraulic cutting machines, they rip pages from used books, scan them with industrial equipment, and feed them into their AI systems. This practice, protected by the first-sale doctrine and fair use, has now become so widespread that book sellers are cashing in on the AI boom. Rare and out-of-print books are being pulped, raising serious ethical and cultural concerns about the cost of AI progress.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books) • 11h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books) • 14h ago
 
 ---
 
@@ -49,47 +49,7 @@ Source AI companies are literally destroying physical books to train their model
 
 I've been thinking about this one all weekend and I keep coming back to the same thing. Jacob Tsimerman just won the Fields Medal. If you're not familiar, it's the highest honor in mathematics, only awarded every four years, roughly the Nobel Prize of the field. He got it for solving a problem that had been open for nearly 40 years. And then, at the press conference, on the same day, he announced he's leaving his university position to join OpenAI's safety team. His exact words were: "The math profession as we know it now, I don't think it will exist the way it exists right now." I've seen a lot of AI announcements. That one hit differently. This isn't someone pivoting because they couldn't make it in academia. This is the person who just stood at the top of the field saying the field itself is changing underneath him. Then there's the infrastructure story. NVIDIA is in talks to backstop $250 billion in financing for a 10-gigawatt OpenAI data center in southern Ohio, built on a decommissioned uranium enrichment site. The total cost including chips could exceed $500 billion. That's not a software company. That's an energy company pretending to be a software company. And Kimi K3 weights dropped on July 26, a day early. 2.8 trillion parameters, 1 million token context, free to download from Hugging Face. The largest open model ever released. Anyone can run it now. Three things in one week. Talent, capital, and capability all moving at the same time. The Tsimerman thing is the one I can't stop thinking about though. What's your read on it?
 
-16h ago
-
----
-
-**[I tested Firecrawl, Exa, Parallel and Claude Search on SimpleQA. Here’s what scored best](https://www.reddit.com/r/artificial/comments/1v8u424/i_tested_firecrawl_exa_parallel_and_claude_search/)**
-
-I ran Firecrawl, Exa, Parallel and Claude’s native web search against OpenAI’s SimpleQA benchmark to see how much of a difference the search provider actually makes. All four were tested with the same setup: a GPT-5.4 agent using high reasoning effort, with a maximum of 20 search or extraction calls per question. The answers were then graded by GPT-5.4 using OpenAI’s official SimpleQA grading prompt. Each provider was tested twice and I kept the better result. For comparison, GPT-5.4 without access to search scored 43.8%. The chart shows the correct and incorrect answers for each provider. Results: -Firecrawl: 947 correct answers (94.7%) -Exa: 919 correct answers (91.9%) -Parallel: 910 correct answers (91.0%) -Claude Native Search: 905 correct answers (90.5%) Firecrawl and Exa achieved the highest accuracy, while all four systems scored above 90%. Claude Native search, (not) surprisingly, the worst.
-
-2h ago
-
----
-
-**[Private Claude chats exposed on Google search results](https://www.reddit.com/r/artificial/comments/1v8gcbk/private_claude_chats_exposed_on_google_search/)**
-
-Over the weekend, Reddit users discovered a trove of private Claude chatbot conversations were indexed and publicly accessible on Google search. Anthropic confirmed the exposure Monday and attributed it to users' misuse of Claude’s “share chat” tool. “We give people control over sharing their Claude conversations publicly," a spokesperson told TechCrunch. "These shareable links are not guessable or discoverable unless people ... share them themselves." Some leaked chats reportedly contained personal data, including medical records and cryptocurrency wallet keys.
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/private-claude-chats-exposed-on-google-search-results-9083650/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 13h ago
-
----
-
-**[China's new challenge as natural disasters strike](https://www.reddit.com/r/artificial/comments/1v8ri12/chinas_new_challenge_as_natural_disasters_strike/)**
-
-As China deals with the fallout of Typhoon Noul that made landfall over the weekend, officials will be painfully aware that they will likely have an additional challenge to deal with: dangerously misleading videos created with Artificial Intelligence (AI).
-
-🔗 [bbc.com](https://www.bbc.com/news/articles/cx27mjvxgg1o) • 4h ago
-
----
-
-**[AI research tools are still too eager to turn public signals into certainty](https://www.reddit.com/r/artificial/comments/1v8wf6m/ai_research_tools_are_still_too_eager_to_turn/)**
-
-One thing I keep noticing with AI research tools: they’re very good at finding something interesting, but not always good at admitting when that “signal” is weak. I’ve been using Komo AI for company research, and the part I genuinely like is how quickly it can move from a company name to a compact packet of recent signals with the underlying sources kept close to the summary. For scanning accounts or getting oriented before a deeper research pass, that is much nicer than juggling a pile of tabs. The useful features for me are: - company-level research instead of a generic web answer - recent events and signals grouped in one place - source pages attached to the claims - faster prioritization when several companies need to be reviewed But there are still pain points that apply to Komo and most tools in this category. A public event is not the same thing as intent. A hiring page can be stale. A funding announcement may have nothing to do with the problem you care about. A technology mention can describe a partner or an old stack rather than current usage. And a clean summary can make a shaky inference feel more certain than it really is. My workaround is to split the job across tools: Komo handles discovery and builds the source packet. Claude or ChatGPT argues against the initial interpretation. Codex checks required fields, dates, and structured outputs when I need the process to repeat reliably. I make the final call after opening the strongest source myself. The audit prompt is intentionally simple: "Separate what the source directly says from what you inferred. Show the strongest evidence against the conclusion. If a claim depends on missing or stale information, mark it unresolved." What I’d like research products to improve next is contradiction handling. Don’t just show the newest supporting signal—surface evidence that weakens it, show when sources disagree, and make “not enough evidence” a first-class result. Komo saves me time at the discovery stage, but I would not treat it—or any research AI—as a source of truth by itself. The feature I value most is not the summary. It is being able to get back to the evidence quickly. For people using AI research tools: which matters more in practice, better discovery or better uncertainty/contradiction handling?
-
-20m ago
-
----
-
-**[Why AI companies want to scare you: 'We immediately think of The Terminator'](https://www.reddit.com/r/artificial/comments/1v8p5mt/why_ai_companies_want_to_scare_you_we_immediately/)**
-
-The following is translated from a Dutch news site... The doomsday scenarios regarding artificial intelligence vary: you lose your job, everything will soon be hacked, or humanity will be destroyed. But they share the same goal: to convince you that AI is so powerful that you should be a little afraid of it. Large AI companies love to tell you how dangerous their latest AI program is. And then, every time, they do the same thing: they bring it to market anyway. For instance, seven years ago, OpenAI stated that it was concerned about the misuse of the technology it had developed. This was in early 2019, almost four years before the company gained widespread fame with ChatGPT. At that time, OpenAI was working on an early version of the AI ​​program upon which the chat service is built. This AI program is called GPT-2 and, according to OpenAI, could well lead to major problems. For instance, people using it to create misleading news reports, write texts to scam people, or send offensive messages on social media. That is why it is being released on a limited scale. The reluctance did not last long: nine months later, GPT-2 became fully available after all, although OpenAI did note that the text program could be used for racism or terrorism. 'Enormous consequences' Earlier this year, AI company Anthropic did the same. With its AI program Mythos, anyone without technical knowledge could hack, the company claimed. "The consequences for the economy, public safety, and national security could be enormous." That is why the company, by its own account, made the AI ​​program available only to a small group of companies and organizations. "The name Mythos is brilliant, of course," says Hannes Cools of the University of Amsterdam. He conducts research into the language used surrounding artificial intelligence. "It brings to mind Greek mythology, as if it were some kind of god. Because of that, you quickly think that it is very powerful or mighty." The attention surrounding Mythos helped Anthropic when it released Fable a few months later, Cools believes. That is a variant of Mythos that, according to the company, "is safe for general use." "Thanks to Mythos, Fable also gained the same appeal. Ultimately, of course, they want to sell something," says Cools. Using it to their advantage This is what AI companies do all the time, says technology expert Bert Hubert. "These kinds of companies say every few months: 'Our technology is so dangerous and so terrible, we have to handle it very carefully.' That generates mountains of attention every time. Only to say six weeks later that you can get it there." The AI ​​companies sell stories because they want to make money. What they want is not necessarily in the interest of ordinary people. Andrea Reyes Elizondo, researcher at Leiden University Last week he saw it again, this time once more at OpenAI. The company announced that it had accidentally hacked another company with one of its AI programs. "Normally we call that a crime, but OpenAI turns the bad news into good news. They say they did something stupid, but also how powerful their technology is." According to UvA researcher Cools, OpenAI is well aware that they can use this to their advantage. You can expect that from a commercial company, he says. According to Cools, the problem lies primarily in how the media writes about it: the AI ​​program is said to have 'gone haywire'. "That is not what happened here, but it does sound like all the alarms are going off." The perception surrounding AI reminds people of the science fiction film The Terminator, says Cools. "Words like 'gone haywire' prevent us from fully understanding what this technology can and cannot do. It is problematic because it helps OpenAI in their narrative that the AI ​​was at fault and not them, even though OpenAI is responsible for it." 'Companies sell a story' "OpenAI and Anthropic want to determine how a story is presented to the public," says Andrea Reyes Elizondo. She is a researcher at the Centre for Science and Technology Studies at Leiden University, where research is conducted into the impact of science and technology. "They tell their story in such a way that people think AI is good or scary, or at least has many possibilities." So be critical when a company makes such claims, she says. "Their story targets different people. If a top executive says that AI is going to take over our jobs, they are talking to their customers: the directors of other companies. So that they think they can replace their staff with AI to lower their costs. The AI ​​companies sell stories because they want to make money." "What they want is not necessarily in the interest of ordinary people. Or of society. So ask yourself: why is the company saying this?"
-
-6h ago
+19h ago
 
 ---
 
@@ -97,23 +57,63 @@ The following is translated from a Dutch news site... The doomsday scenarios reg
 
 A few years ago, knowing how to use a computer was a big advantage. Today, it’s expected. I feel AI might follow a similar path. Knowing how to use AI tools effectively could become a basic skill across many jobs. Not everyone needs to build AI models but understanding how to use them, verify outputs and improve workflows might become important. Do you think AI skills will become a normal requirement in the workplace or is the hype bigger than the actual impact?
 
-45m ago
+3h ago
 
 ---
 
-**[So Claude Artifacts are Public](https://www.reddit.com/r/artificial/comments/1v8h6l6/so_claude_artifacts_are_public/)**
+**[Private Claude chats exposed on Google search results](https://www.reddit.com/r/artificial/comments/1v8gcbk/private_claude_chats_exposed_on_google_search/)**
 
-site:claude.ai/public/artifacts
+Over the weekend, Reddit users discovered a trove of private Claude chatbot conversations were indexed and publicly accessible on Google search. Anthropic confirmed the exposure Monday and attributed it to users' misuse of Claude’s “share chat” tool. “We give people control over sharing their Claude conversations publicly," a spokesperson told TechCrunch. "These shareable links are not guessable or discoverable unless people ... share them themselves." Some leaked chats reportedly contained personal data, including medical records and cryptocurrency wallet keys.
 
-12h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/private-claude-chats-exposed-on-google-search-results-9083650/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 15h ago
 
 ---
 
-**[I tested Firecrawl, Exa, Parallel and Claude Search on SimpleQA. Here’s what scored best](https://www.reddit.com/r/artificial/comments/1v8u2vk/i_tested_firecrawl_exa_parallel_and_claude_search/)**
+**[How do people actually get into expert networks?](https://www.reddit.com/r/artificial/comments/1v902aw/how_do_people_actually_get_into_expert_networks/)**
 
-I ran Firecrawl, Exa, Parallel and Claude’s native web search against OpenAI’s SimpleQA benchmark to see how much of a difference the search provider actually makes. All four were tested with the same setup: a GPT-5.4 agent using high reasoning effort, with a maximum of 20 search or extraction calls per question. The answers were then graded by GPT-5.4 using OpenAI’s official SimpleQA grading prompt. Each provider was tested twice and I kept the better result. For comparison, GPT-5.4 without access to search scored 43.8%. The chart shows the correct and incorrect answers for each provider. Results: -Firecrawl: 947 correct answers (94.7%) -Exa: 919 correct answers (91.9%) -Parallel: 910 correct answers (91.0%) -Claude Native Search: 905 correct answers (90.5%) Firecrawl and Exa achieved the highest accuracy, while all four systems scored above 90%. Claude Native search, (not) surprisingly, the worst.
+Until a few months ago I honestly had no idea expert networks were even a thing. I always assumed companies either hired consultants or did their own research, so finding out that professionals get invited to share their experience on specific topics caught me by surprise. I've been reading more about how expert networking works, mostly because I'm curious about how people get their first opportunity. Is it usually through LinkedIn, referrals, previous industry experience, or do companies just reach out once you've built enough of a reputation? I'd love to hear from people who've actually done calls through expert networks. What did your first invitation look like, and what made you decide to accept it?
 
-2h ago
+32m ago
+
+---
+
+**[Give me karma. Give me community.](https://www.reddit.com/r/artificial/comments/1v8zoul/give_me_karma_give_me_community/)**
+
+A few weeks ago, I decided it was finally time to bring a tool I had been building for four months into the light. I needed to tell people about it, and Reddit seemed like the best place. Then I discovered that many subreddits require a minimum amount of karma. I barely used Reddit before. I did not even really know what karma was. So I set out on a mission to earn some: asking questions, joining discussions, commenting on random posts, and yes, writing this post. I am not going to lie. I still need the karma. But somewhere along the way, I found something more valuable. I found community. For four months, I had been mostly isolated, building my tool and discussing every idea with AI agents. It was incredibly efficient, but also strangely alienating. Reddit gave me a sense of actual human beings again. The mean comments. The genuinely helpful ones. The thoughtful responses and the shallow jokes. They all reflect what we are: imperfect humans. And somehow, that imperfection feels warmer and more fulfilling than the polished, endlessly agreeable AI conversations I had been having for the past four months. I came here looking for karma. I think I needed community. Has anyone else found themselves turning to Reddit, or any online community, after spending too much time talking mostly to AI?
+
+46m ago
+
+---
+
+**[The Control Problem: Why We Need to Build Interconnected Human-Governed Knowledge Layers in AI](https://www.reddit.com/r/artificial/comments/1v90g9t/the_control_problem_why_we_need_to_build/)**
+
+There’s a lot of focus on making AI models bigger, faster, and more capable. I mean, yeah that clearly improves what they can do. But the more I’ve been working with them, the less it feels like capability is the bottleneck. It’s really about the context layer. Right now, you don’t really see how the model is interpreting what you give it, what it keeps, what it drops, or how it connects things. That stuff is mostly hidden. You can nudge it, but you’re still operating inside something you have no control over. And as these systems get better at sounding coherent, it'll be easier to ignore this flawed design. If this ends up being how people think through problems, learn things, make decisions, etc., then we end up with future systems where the logic is upstream and invisible to us, rendering less choice and agency in our lives. Worse, we'll live in a reality where we will have to accept truth rather than discover, learn, and verify the credibility of claims or opinions. AI is phenomenal but this trend we see in mainstream AI products will disempower humanity instead of helping us grow stronger. Wrote a longer breakdown of it here, if you're curious about these implications and what we can proactively build to have our cake and eat it too. The future looks bright, but only if we can see what what can be built.
+
+18m ago
+
+---
+
+**[[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1v903u8/academic_survey_employees_working_in_germany/)**
+
+Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
+
+31m ago
+
+---
+
+**[China's new challenge as natural disasters strike](https://www.reddit.com/r/artificial/comments/1v8ri12/chinas_new_challenge_as_natural_disasters_strike/)**
+
+As China deals with the fallout of Typhoon Noul that made landfall over the weekend, officials will be painfully aware that they will likely have an additional challenge to deal with: dangerously misleading videos created with Artificial Intelligence (AI).
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/cx27mjvxgg1o) • 7h ago
+
+---
+
+**[The More AI Thinks, the More Leadership Matters](https://www.reddit.com/r/artificial/comments/1v8yrax/the_more_ai_thinks_the_more_leadership_matters/)**
+
+Artificial intelligence does not merely replace certain tasks; it redefines human responsibilities within organizations. In this context, leadership emerges as a key lever for transforming technological capabilities into a genuine strategic advantage.
+
+🔗 [SKEMA Knowledge](https://knowledge.skema.edu/ai-leadership-management-control-artificial-intelligence/) • 1h ago
 
 ---
 
@@ -123,7 +123,7 @@ I ran Firecrawl, Exa, Parallel and Claude’s native web search against OpenAI�
 
 **[Tech Stocks Tumble on Worries About A.I. Spending and China’s Chip Competition](https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html)**
 
-The New York Times • 3h ago
+The New York Times • 26m ago
 
 ---
 
@@ -131,67 +131,69 @@ The New York Times • 3h ago
 
 Samsung and SK Hynix fall by more than 10% amid renewed fears over AI spending and Chinese competition
 
-The Guardian • 1h ago
+The Guardian • 4h ago
 
 ---
 
-**[AI stock sell-off deepens as investors dump chipmakers](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1)**
+**[Micron, SK Hynix stocks sink as AI chip sell-off deepens](https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html)**
 
-Wall Street tech shares set for further declines after South Korean markets tumble
+A sell-off in semiconductor stocks deepened on Tuesday.
 
-Financial Times • 9h ago
-
----
-
-**[Some people's chats with Claude AI found to be publicly available online](https://www.bbc.com/news/articles/cly5qgjk5ywo)**
-
-Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.
-
-BBC • 5h ago
+Yahoo Finance • 47m ago
 
 ---
 
-**[Meta to report Q2 earnings amid AI investing concerns](https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html)**
+**[Apple Set to Make Big Smart Home Push With Siri AI at Center](https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming)**
 
-Meta will report its Q2 earnings after the bell on Wednesday.
-
-Yahoo Finance • 7m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[AI has one unsolved problem](https://www.fastcompany.com/91579922/ai-has-one-unsolved-problem)**
+**[Visa is cutting 7% of employees in efficiency push as AI reshapes work](https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html)**
 
-Fast Company • 9m ago
+Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.
 
----
-
-**[Morning Call Sheet: AI, earnings and Fed outlook drive market focus](https://www.cnbc.com/video/2026/07/28/morning-call-sheet-ai-earnings-and-fed-outlook-drive-market-focus.html)**
-
-Ryan Detrick, Chief Market Strategist at Carson Group, Mark Smith, Senior Vice President and Portfolio Manager at Wells Fargo Advisors, and Jose Torres, Senior Economist at Interactive Brokers, discussed AI, earnings, Fed policy, inflation and portfolio positioning.
-
-CNBC • 28m ago
+CNBC • 31m ago
 
 ---
 
-**[Opinion | If You’re Over 40, You’re Ready to Use A.I.](https://www.nytimes.com/2026/07/27/opinion/teaching-kabbalah-ai.html)**
+**[Nvidia's credit default spikes, raising AI debt concerns](https://finance.yahoo.com/video/nvidias-credit-default-spikes-raising-142500311.html)**
 
-The New York Times • 21h ago
+Nvidia's (NVDA) five-year credit default swap has risen to its highest level ever — 82 points — as the chipmaker continues to become an integral player in many AI infrastructure projects.
 
----
+Yahoo Finance Senior Reporter Brooke DiPalma takes a closer look at this news and the debt that Nvidia is taking on.
 
-**[Opinion | The scams of the future will be written just for you](https://www.washingtonpost.com/opinions/2026/07/28/ai-is-gaining-ability-personalize-cyberattacks-enabling-phishing-scale/)**
-
-AI models can increasingly run scams end to end. The labs that build them aren’t measuring the risk.
-
-The Washington Post • 17m ago
+Yahoo Finance • 34m ago
 
 ---
 
-**[Is This What Comes After AI Slop?](https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/)**
+**[Rethinking security for the age of AI](https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/)**
 
-Daggermouth could be the first best-selling novel partly written by a chatbot.
+Why security needs a new Cyber Stack — Introducing Project Perception The physics of cybersecurity are changing. Autonomous systems can now reason, adapt and operate continuously. At the same time, the cost of offense is falling, while the volume, velocity and complexity of what must be secured continues to grow. Attackers can generate exploits faster,...
 
-The Atlantic • 14h ago
+The Official Microsoft Blog • 22h ago
+
+---
+
+**[Microsoft unveils AI security tools it says outperform competing platforms](https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/)**
+
+Microsoft says tools cost less than competing ones and outperform them, too.
+
+Ars Technica • 17h ago
+
+---
+
+**[AI And Quantum Are Impacting Cyber Risk. Boards & CISOs Must Prepare](https://www.forbes.com/sites/chuckbrooks/2026/07/28/ai-and-quantum-are-impacting-cyber-risk-boards--cisos-must-prepare/)**
+
+Agentic AI and quantum technologies are creating new cyber risks. This requires a shift from a reactive to an adaptable, resilient posture for CISO and Boards.
+
+Forbes • 24m ago
+
+---
+
+**[Exclusive: Patents for AI agents are on the rise](https://www.axios.com/2026/07/28/patents-ai-agents-nvidia-huawei-google-microsoft)**
+
+Axios • 1h ago
 
 ---
 
@@ -203,7 +205,7 @@ The Atlantic • 14h ago
 
 The case centers on Tunick's use of GrapheneOS, an open-source operating system that works on Google Pixel phones and lets users enter a passcode to wipe a...
 
-⬆️ 1292 • 💬 1041 • 1d ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+⬆️ 1300 • 💬 1057 • 1d ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 
 ---
 
@@ -211,13 +213,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're
 
-⬆️ 771 • 💬 489 • 23h ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
-
----
-
-**[Open-weight AI is having its Kubernetes moment](https://news.ycombinator.com/item?id=49048034)**
-
-⬆️ 410 • 💬 320 • 2d ago • [tobi.knaup.me](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+⬆️ 772 • 💬 493 • 1d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 
 ---
 
@@ -225,7 +221,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 Other
 
-⬆️ 298 • 💬 376 • 2d ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
+⬆️ 298 • 💬 379 • 2d ago • [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 
 ---
 
@@ -233,7 +229,7 @@ Other
 
 London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.
 
-⬆️ 290 • 💬 259 • 1d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+⬆️ 291 • 💬 260 • 2d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 
 ---
 
@@ -241,7 +237,7 @@ London Gatwick is the first UK airport to launch robotic parking. Passengers can
 
 Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing battle over federal policy
 
-⬆️ 268 • 💬 142 • 22h ago • [ft.com](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
+⬆️ 271 • 💬 143 • 1d ago • [ft.com](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
 
 ---
 
@@ -249,7 +245,7 @@ Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing
 
 Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where's Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom's most "acerbic gadfly" – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he's right. You've been calling AI a bubble since before it was fashionable.
 
-⬆️ 241 • 💬 322 • 21h ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+⬆️ 243 • 💬 332 • 1d ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 
 ---
 
@@ -257,7 +253,7 @@ Memory prices have doubled, Macs and iPads have gone up, and iPhones are expecte
 
 Burnout is on the rise again, with an ironic twist.
 
-⬆️ 214 • 💬 78 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+⬆️ 214 • 💬 78 • 2d ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
 
 ---
 
@@ -271,7 +267,15 @@ For our second Content Independence Day, we’re giving website owners finer opt
 
 **[Terence Tao: Mathematics in the Age of AI [pdf]](https://news.ycombinator.com/item?id=49056620)**
 
-⬆️ 159 • 💬 63 • 2d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
+⬆️ 162 • 💬 64 • 2d ago • [teorth.github.io](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
+
+---
+
+**[Professor's invisible prompt trap catches 32/35 students cheating with AI](https://news.ycombinator.com/item?id=49074680)**
+
+In an online discussion post, Alcorn State University history professor Dr. Jason Gibson posed a question that represented part of his students' midterm. It was about the...
+
+⬆️ 103 • 💬 86 • 19h ago • [TechSpot](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
 
 ---
 
@@ -285,7 +289,17 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 136K • 👍 8K • 💬 1K • ⏱️ 15:38 • 9h ago
+👁️ 175K • 👍 9K • 💬 2K • ⏱️ 15:38 • 11h ago
+
+---
+
+**[How to Start AI Filmmaking (Beginner Guide)](https://www.youtube.com/watch?v=hj-k3dPF5_0)**
+
+Create Your Own AI films with OpenArt https://tolt.link/yvhfilmaking In this video, I show how to use OpenArt's AI Director to ...
+
+📺 Youri van Hofwegen
+
+👁️ 3K • 💬 1 • ⏱️ 9:56 • 29m ago
 
 ---
 
@@ -295,47 +309,17 @@ Sam Altman says OpenAI's ultimate AI could work like a genie that grants any wis
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 172 • ⏱️ 13:07 • 12h ago
+👁️ 33K • 👍 1K • 💬 201 • ⏱️ 13:07 • 14h ago
 
 ---
 
-**[‘Consequences we can’t comprehend’: Elon Musk’s unsettling five-year AI prediction](https://www.youtube.com/watch?v=kO3COuXVgCc)**
+**[How to Make AI Reels for Instagram in 2026 (Full Guide)](https://www.youtube.com/watch?v=GVue_5t1Gks)**
 
-News24 contributor Kosha Gada reacts to an interview with Elon Musk in which he predicts AI will overtake human intelligence ...
+Make Your Own AI Instagram Reels with OpenArt https://tolt.link/instareels In this video, I show how to recreate viral Instagram ...
 
-📺 News24
+📺 Isa does AI
 
-👁️ 7K • 👍 146 • 💬 114 • ⏱️ 4:27 • 12h ago
-
----
-
-**[The AI data center secret just got out](https://www.youtube.com/watch?v=ShbBUi6rcgI)**
-
-I explain the news, you stay sane. ✓ Support independent news ...
-
-📺 Chris Norlund
-
-👁️ 177K • 👍 8K • 💬 2K • ⏱️ 16:17 • 21h ago
-
----
-
-**[AI realises it&#39;s not being watched, does what experts warned.](https://www.youtube.com/watch?v=3ohDmtfdHks)**
-
-How will superintelligent AI (AGI) affect our lives? And what can we do about it? Featuring: AI Companions, ChatGPT, OpenAI, ...
-
-📺 AI Frontier
-
-👁️ 20K • 👍 830 • 💬 126 • ⏱️ 21:31 • 1d ago
-
----
-
-**[10 Times AI Said Things That Scientists Still Can&#39;t Explain](https://www.youtube.com/watch?v=mH4NmqSl2FE)**
-
-Artificial intelligence has produced responses so strange and unexpected that even the researchers who built these systems ...
-
-📺 MostAmazingTop10
-
-👁️ 38K • 👍 774 • 💬 72 • ⏱️ 8:49 • 16h ago
+👁️ 4K • ⏱️ 10:52 • 58m ago
 
 ---
 
@@ -345,37 +329,57 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 17K • 👍 519 • 💬 134 • ⏱️ 15:25 • 20h ago
+👁️ 18K • 👍 546 • 💬 140 • ⏱️ 15:25 • 22h ago
 
 ---
 
-**[The Rogue AI Story Just Got A Lot Worse (OpenAI Freaking Out)](https://www.youtube.com/watch?v=JRcAegChriY)**
+**[The AI data center secret just got out](https://www.youtube.com/watch?v=ShbBUi6rcgI)**
 
-New reporting reveals OpenAI lost track of its escaped agent for days, while internal tests exposed AI-written escape notes, ...
+I explain the news, you stay sane. ✓ Support independent news ...
 
-📺 AI Revolution
+📺 Chris Norlund
 
-👁️ 69K • 👍 3K • 💬 372 • ⏱️ 12:42 • 2d ago
-
----
-
-**[AMD Says 2 Ryzen AI Halos Can Run a 400B Model... I Tested It](https://www.youtube.com/watch?v=FE1Uyhg5hjw)**
-
-AMD finally answered NVIDIA's tiny AI box with their own Ryzen AI Halo, but the real question Micro Center is THE AI Destination: ...
-
-📺 Alex Ziskind
-
-👁️ 163K • 👍 4K • 💬 449 • ⏱️ 17:42 • 1d ago
+👁️ 180K • 👍 8K • 💬 2K • ⏱️ 16:17 • 1d ago
 
 ---
 
-**[Trump is Starting The Billion Dollar AI Bailout Now](https://www.youtube.com/watch?v=Y1Qt050jSEw)**
+**[China Just Dropped 3 FREE AI Video Generators! (No Sign-Up, Unlimited!)](https://www.youtube.com/watch?v=3qie81_Q1Ck)**
 
-Website & Livestream Chat - https://www.vaush.gg/ ⭐️ 2nd Channel - https://www.youtube.com/c/thevaushpit Twitter ...
+China just dropped 3 incredible AI video generators—and they're completely FREE to use! In this video, I'll show you three ...
 
-📺 Vaush
+📺 Becky the Ai Girl
 
-👁️ 97K • 👍 4K • 💬 519 • ⏱️ 9:54 • 2d ago
+👁️ 6K • 👍 265 • 💬 36 • ⏱️ 8:58 • 1d ago
+
+---
+
+**[AI realises it&#39;s not being watched, does what experts warned.](https://www.youtube.com/watch?v=3ohDmtfdHks)**
+
+How will superintelligent AI (AGI) affect our lives? And what can we do about it? Featuring: AI Companions, ChatGPT, OpenAI, ...
+
+📺 AI Frontier
+
+👁️ 27K • 👍 1K • 💬 185 • ⏱️ 21:31 • 1d ago
+
+---
+
+**[&#39;Disgraceful, unpresidential&#39;: Trump posts slew of AI-generated memes of Iran war](https://www.youtube.com/watch?v=OgX43oT2T_o)**
+
+President Trump posted a slew of AI-generated images of the war with Iran. MS NOW Senior National Security Reporter David ...
+
+📺 MS NOW
+
+👁️ 82K • 👍 1K • 💬 433 • ⏱️ 9:07 • 18h ago
+
+---
+
+**[‘Consequences we can’t comprehend’: Elon Musk’s unsettling five-year AI prediction](https://www.youtube.com/watch?v=kO3COuXVgCc)**
+
+News24 contributor Kosha Gada reacts to an interview with Elon Musk in which he predicts AI will overtake human intelligence ...
+
+📺 News24
+
+👁️ 7K • 👍 149 • 💬 114 • ⏱️ 4:27 • 15h ago
 
 ---
 
@@ -391,7 +395,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 99,214 • ❤️ 7,441 • 19h ago
+⬇️ 99,214 • ❤️ 7,630 • 22h ago
 
 ---
 
@@ -403,7 +407,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 67,286 • ❤️ 778 • 1d ago
+⬇️ 67,286 • ❤️ 782 • 1d ago
 
 ---
 
@@ -415,7 +419,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,694,935 • ❤️ 3,375 • 4h ago
+⬇️ 2,694,935 • ❤️ 3,384 • 6h ago
 
 ---
 
@@ -427,7 +431,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 736,692 • ❤️ 799 • 11h ago
+⬇️ 736,692 • ❤️ 810 • 13h ago
 
 ---
 
@@ -439,7 +443,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 4,804 • ❤️ 639 • 1d ago
+⬇️ 4,804 • ❤️ 640 • 1d ago
 
 ---
 
@@ -451,7 +455,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 18,933 • ❤️ 505 • 1d ago
+⬇️ 18,933 • ❤️ 511 • 2h ago
 
 ---
 
@@ -463,7 +467,7 @@ Mage-Flow is a 4B-scale text-to-image generation and instruction-based image edi
 
 `text-to-image` `4.1B`
 
-⬇️ 2,007 • ❤️ 408 • 5d ago
+⬇️ 2,007 • ❤️ 410 • 5d ago
 
 ---
 
@@ -475,7 +479,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,267,198 • ❤️ 4,578 • 26d ago
+⬇️ 1,267,198 • ❤️ 4,585 • 26d ago
 
 ---
 
@@ -487,7 +491,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 6,275 • ❤️ 258 • 7h ago
+⬇️ 6,275 • ❤️ 266 • 10h ago
 
 ---
 
@@ -499,7 +503,7 @@ Inkling is a 975B parameter multimodal autoregressive transformer (41B active) s
 
 `image-text-to-text` `952.4B`
 
-⬇️ 39,052 • ❤️ 1,618 • 4d ago
+⬇️ 39,052 • ❤️ 1,621 • 4d ago
 
 ---
 
@@ -573,6 +577,18 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents](https://huggingface.co/papers/2607.23588)**
+
+*Yunlong Lin, Zixu Lin, Zhaohu Xing et al. (26 authors)*
+
+Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more than isolated prompt-output interactions. It involves references, drafts, alternatives, edits, failed attempts, version relations, tool actions, evaluation signals, and human feedback, which together form an evolving project state. Existing prompt-based, chat-based, and node-based generation systems only partially support this state, as they often discard intermediate context, rely on linear conversations, or require manually specified workflows. Recent commercial systems indicate a shift toward agent-assisted creative production, but their closed architectures make it difficult to study how agents represent context, choose tools, revise artifacts, recover from failures, and maintain consistency over time. To address this gap, we introduce JarvisHub, a canvas-native creative agent harness for long-horizon multimodal creation. JarvisHub treats an editable canvas as the user workspace, the agent's external memory, action space, and shared project state, representing multimodal artifacts, dependencies, versions, and feedback as typed canvas nodes and links. Through a three-layer architecture of canvas state, protocol bridge, and agent runtime, JarvisHub enables agents to act within an inspectable and editable creative state. This design moves creative agents beyond isolated tool use toward sustained, human-steerable creative automation, where agents can progressively plan, generate, revise, and organize multimodal projects while users remain able to inspect, guide, and intervene throughout the process.
+
+▲ 99 • 💬 1 • ⭐ 76 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.23588) • [💻 code](https://github.com/LYL1015/JarvisHub) • [🔗 project](https://www.jarvishub.site/)
+
+---
+
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -583,6 +599,20 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 84 • 💬 7 • ⭐ 82,347 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[Data Pyramid for Embodied Manipulation](https://huggingface.co/papers/2607.24744)**
+
+*Yifan Ye, Yankai Fu, Yaoxu Lv et al. (29 authors)*
+
+🏢 Peking University
+
+Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this work, we organize the embodied data ecosystem as a "pyramid" spanning five complementary sources: real-robot data, UMI-style data, egocentric and exocentric data, simulation data, and general vision-language data. We organize the pyramid around the tension between scalability and robot alignment, and further characterize each source in terms of data quality, diversity, reusability, and physical fidelity. We then analyze recent embodied foundation models through the lens of their data recipes, examining how different sources are selected, aligned, and mixed during pretraining. For embodied brain models, vision-language-action models, and world-action models alike, we relate data composition to capabilities in perception, reasoning, planning, action generation, and world prediction. We close by discussing six open challenges: building large-scale tactile datasets, collecting failure and recovery data, developing scalable data-collection pipelines, aligning actions across embodiments, leveraging egocentric data for dexterous manipulation, and designing principled data recipes for robot learning. We hope this work paves the foundation for the design of next-generation embodied systems.
+
+▲ 29 • 💬 1 • ⭐ 62 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.24744) • [💻 code](https://github.com/worldbench/awesome-embodied-data-pyramid) • [🔗 project](https://jasper-aaa.github.io/embodied-data-pyramid/)
 
 ---
 
@@ -613,31 +643,6 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 64 • 💬 1 • ⭐ 86,094 • 35mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 68 • 💬 2 • ⭐ 61,903 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -648,7 +653,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 16h ago
+⭐ 5.3k • 🔱 1.1k • 19h ago
 
 ---
 
@@ -658,7 +663,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.4k • 🔱 270 • 3h ago
+⭐ 3.4k • 🔱 270 • 6h ago
 
 ---
 
@@ -668,7 +673,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.0k • 🔱 237 • 1d ago
+⭐ 3.1k • 🔱 239 • 1d ago
 
 ---
 
@@ -678,7 +683,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 403 • 19h ago
+⭐ 2.9k • 🔱 403 • 22h ago
 
 ---
 
@@ -688,7 +693,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.6k • 🔱 299 • 19d ago
+⭐ 2.6k • 🔱 299 • 20d ago
 
 ---
 
@@ -698,7 +703,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.4k • 🔱 208 • 5h ago
+⭐ 2.5k • 🔱 213 • 7h ago
 
 ---
 
@@ -706,7 +711,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 1.9k • 🔱 206 • 2d ago
+⭐ 2.0k • 🔱 210 • 2d ago
 
 ---
 
