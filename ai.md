@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-28T14:59:16.340933+00:00'
+updated: '2026-07-28T16:46:27.272841+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 28, 2026 at 14:59 UTC  
+**Last Updated:** July 28, 2026 at 16:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source AI companies are literally destroying physical books to train their models. Using hydraulic cutting machines, they rip pages from used books, scan them with industrial equipment, and feed them into their AI systems. This practice, protected by the first-sale doctrine and fair use, has now become so widespread that book sellers are cashing in on the AI boom. Rare and out-of-print books are being pulped, raising serious ethical and cultural concerns about the cost of AI progress.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books) • 14h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books) • 16h ago
 
 ---
 
@@ -49,7 +49,7 @@ Source AI companies are literally destroying physical books to train their model
 
 I've been thinking about this one all weekend and I keep coming back to the same thing. Jacob Tsimerman just won the Fields Medal. If you're not familiar, it's the highest honor in mathematics, only awarded every four years, roughly the Nobel Prize of the field. He got it for solving a problem that had been open for nearly 40 years. And then, at the press conference, on the same day, he announced he's leaving his university position to join OpenAI's safety team. His exact words were: "The math profession as we know it now, I don't think it will exist the way it exists right now." I've seen a lot of AI announcements. That one hit differently. This isn't someone pivoting because they couldn't make it in academia. This is the person who just stood at the top of the field saying the field itself is changing underneath him. Then there's the infrastructure story. NVIDIA is in talks to backstop $250 billion in financing for a 10-gigawatt OpenAI data center in southern Ohio, built on a decommissioned uranium enrichment site. The total cost including chips could exceed $500 billion. That's not a software company. That's an energy company pretending to be a software company. And Kimi K3 weights dropped on July 26, a day early. 2.8 trillion parameters, 1 million token context, free to download from Hugging Face. The largest open model ever released. Anyone can run it now. Three things in one week. Talent, capital, and capability all moving at the same time. The Tsimerman thing is the one I can't stop thinking about though. What's your read on it?
 
-19h ago
+21h ago
 
 ---
 
@@ -57,7 +57,7 @@ I've been thinking about this one all weekend and I keep coming back to the same
 
 A few years ago, knowing how to use a computer was a big advantage. Today, it’s expected. I feel AI might follow a similar path. Knowing how to use AI tools effectively could become a basic skill across many jobs. Not everyone needs to build AI models but understanding how to use them, verify outputs and improve workflows might become important. Do you think AI skills will become a normal requirement in the workplace or is the hype bigger than the actual impact?
 
-3h ago
+5h ago
 
 ---
 
@@ -65,39 +65,23 @@ A few years ago, knowing how to use a computer was a big advantage. Today, it’
 
 Over the weekend, Reddit users discovered a trove of private Claude chatbot conversations were indexed and publicly accessible on Google search. Anthropic confirmed the exposure Monday and attributed it to users' misuse of Claude’s “share chat” tool. “We give people control over sharing their Claude conversations publicly," a spokesperson told TechCrunch. "These shareable links are not guessable or discoverable unless people ... share them themselves." Some leaked chats reportedly contained personal data, including medical records and cryptocurrency wallet keys.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/private-claude-chats-exposed-on-google-search-results-9083650/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 15h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/private-claude-chats-exposed-on-google-search-results-9083650/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 17h ago
 
 ---
 
-**[How do people actually get into expert networks?](https://www.reddit.com/r/artificial/comments/1v902aw/how_do_people_actually_get_into_expert_networks/)**
+**[Godel and the Limits of LLM Reachable Intelligence](https://www.reddit.com/r/artificial/comments/1v93evv/godel_and_the_limits_of_llm_reachable_intelligence/)**
 
-Until a few months ago I honestly had no idea expert networks were even a thing. I always assumed companies either hired consultants or did their own research, so finding out that professionals get invited to share their experience on specific topics caught me by surprise. I've been reading more about how expert networking works, mostly because I'm curious about how people get their first opportunity. Is it usually through LinkedIn, referrals, previous industry experience, or do companies just reach out once you've built enough of a reputation? I'd love to hear from people who've actually done calls through expert networks. What did your first invitation look like, and what made you decide to accept it?
+In-depth analysis and research from SenTeGuard, a cognitive security company, on LLM threats, idea leakage, information reachability, and AI governance.
 
-32m ago
-
----
-
-**[Give me karma. Give me community.](https://www.reddit.com/r/artificial/comments/1v8zoul/give_me_karma_give_me_community/)**
-
-A few weeks ago, I decided it was finally time to bring a tool I had been building for four months into the light. I needed to tell people about it, and Reddit seemed like the best place. Then I discovered that many subreddits require a minimum amount of karma. I barely used Reddit before. I did not even really know what karma was. So I set out on a mission to earn some: asking questions, joining discussions, commenting on random posts, and yes, writing this post. I am not going to lie. I still need the karma. But somewhere along the way, I found something more valuable. I found community. For four months, I had been mostly isolated, building my tool and discussing every idea with AI agents. It was incredibly efficient, but also strangely alienating. Reddit gave me a sense of actual human beings again. The mean comments. The genuinely helpful ones. The thoughtful responses and the shallow jokes. They all reflect what we are: imperfect humans. And somehow, that imperfection feels warmer and more fulfilling than the polished, endlessly agreeable AI conversations I had been having for the past four months. I came here looking for karma. I think I needed community. Has anyone else found themselves turning to Reddit, or any online community, after spending too much time talking mostly to AI?
-
-46m ago
+🔗 [SenTeGuard](https://senteguard.com/blog/limits-of-llmreachable-intelligence) • 19m ago
 
 ---
 
-**[The Control Problem: Why We Need to Build Interconnected Human-Governed Knowledge Layers in AI](https://www.reddit.com/r/artificial/comments/1v90g9t/the_control_problem_why_we_need_to_build/)**
+**[AI tools for real estate lead gen actually work but nobody talks about the ugly tradeoffs](https://www.reddit.com/r/artificial/comments/1v93ln8/ai_tools_for_real_estate_lead_gen_actually_work/)**
 
-There’s a lot of focus on making AI models bigger, faster, and more capable. I mean, yeah that clearly improves what they can do. But the more I’ve been working with them, the less it feels like capability is the bottleneck. It’s really about the context layer. Right now, you don’t really see how the model is interpreting what you give it, what it keeps, what it drops, or how it connects things. That stuff is mostly hidden. You can nudge it, but you’re still operating inside something you have no control over. And as these systems get better at sounding coherent, it'll be easier to ignore this flawed design. If this ends up being how people think through problems, learn things, make decisions, etc., then we end up with future systems where the logic is upstream and invisible to us, rendering less choice and agency in our lives. Worse, we'll live in a reality where we will have to accept truth rather than discover, learn, and verify the credibility of claims or opinions. AI is phenomenal but this trend we see in mainstream AI products will disempower humanity instead of helping us grow stronger. Wrote a longer breakdown of it here, if you're curious about these implications and what we can proactively build to have our cake and eat it too. The future looks bright, but only if we can see what what can be built.
+Been running AI on top of my real estate pipeline for a few months now. Pulling leads, qualifying them with automated followup sequences, generating property descriptions, drafting cold outreach. On paper it looks clean and efficient. The part nobody in the AI hype cycle mentions is the compliance layer. Real estate has actual regulations around communication, fair housing, and how you prospect. When you bolt an AI that occasionally hallucinates onto that, you're not just risking a bad lead. You're risking your license. The tools themselves are genuinely useful. An LLM that can turn raw MLS data into a compelling listing description in 30 seconds is real value. Lead scoring with some AI logic on top of a CRM cuts grunt work significantly. That part is not oversold. What is oversold is the autonomy angle. Every vendor pitches set it and forget it. That's not how it works in a regulated industry where one wrong automated message can trigger a complaint. You still have to babysit the outputs more than the demos ever suggest. Curious if anyone here is building in domains where AI errors have real legal or professional consequences, and how you're actually handling the gap between what the model produces and what you can safely send or act on.
 
-18m ago
-
----
-
-**[[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1v903u8/academic_survey_employees_working_in_germany/)**
-
-Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
-
-31m ago
+12m ago
 
 ---
 
@@ -105,15 +89,31 @@ Hi everyone! I'm conducting this survey as part of my Master's thesis and would 
 
 As China deals with the fallout of Typhoon Noul that made landfall over the weekend, officials will be painfully aware that they will likely have an additional challenge to deal with: dangerously misleading videos created with Artificial Intelligence (AI).
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cx27mjvxgg1o) • 7h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cx27mjvxgg1o) • 8h ago
 
 ---
 
-**[The More AI Thinks, the More Leadership Matters](https://www.reddit.com/r/artificial/comments/1v8yrax/the_more_ai_thinks_the_more_leadership_matters/)**
+**[The Control Problem: Why We Need to Build Interconnected Human-Governed Knowledge Layers in AI](https://www.reddit.com/r/artificial/comments/1v90g9t/the_control_problem_why_we_need_to_build/)**
 
-Artificial intelligence does not merely replace certain tasks; it redefines human responsibilities within organizations. In this context, leadership emerges as a key lever for transforming technological capabilities into a genuine strategic advantage.
+There’s a lot of focus on making AI models bigger, faster, and more capable. I mean, yeah that clearly improves what they can do. But the more I’ve been working with them, the less it feels like capability is the bottleneck. It’s really about the context layer. Right now, you don’t really see how the model is interpreting what you give it, what it keeps, what it drops, or how it connects things. That stuff is mostly hidden. You can nudge it, but you’re still operating inside something you have no control over. And as these systems get better at sounding coherent, it'll be easier to ignore this flawed design. If this ends up being how people think through problems, learn things, make decisions, etc., then we end up with future systems where the logic is upstream and invisible to us, rendering less choice and agency in our lives. Worse, we'll live in a reality where we will have to accept truth rather than discover, learn, and verify the credibility of claims or opinions. AI is phenomenal but this trend we see in mainstream AI products will disempower humanity instead of helping us grow stronger. Wrote a longer breakdown of it here, if you're curious about these implications and what we can proactively build to have our cake and eat it too. The future looks bright, but only if we can see what what can be built.
 
-🔗 [SKEMA Knowledge](https://knowledge.skema.edu/ai-leadership-management-control-artificial-intelligence/) • 1h ago
+2h ago
+
+---
+
+**[[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1v903u8/academic_survey_employees_working_in_germany/)**
+
+Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
+
+2h ago
+
+---
+
+**[How do people actually get into expert networks?](https://www.reddit.com/r/artificial/comments/1v902aw/how_do_people_actually_get_into_expert_networks/)**
+
+Until a few months ago I honestly had no idea expert networks were even a thing. I always assumed companies either hired consultants or did their own research, so finding out that professionals get invited to share their experience on specific topics caught me by surprise. I've been reading more about how expert networking works, mostly because I'm curious about how people get their first opportunity. Is it usually through LinkedIn, referrals, previous industry experience, or do companies just reach out once you've built enough of a reputation? I'd love to hear from people who've actually done calls through expert networks. What did your first invitation look like, and what made you decide to accept it?
+
+2h ago
 
 ---
 
@@ -121,9 +121,9 @@ Artificial intelligence does not merely replace certain tasks; it redefines huma
 
 ## Google News: "ai"
 
-**[Tech Stocks Tumble on Worries About A.I. Spending and China’s Chip Competition](https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html)**
+**[Tech Stocks Tumble on Worries Over A.I. Spending and China’s Chips](https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html)**
 
-The New York Times • 26m ago
+The New York Times • 8h ago
 
 ---
 
@@ -131,19 +131,11 @@ The New York Times • 26m ago
 
 Samsung and SK Hynix fall by more than 10% amid renewed fears over AI spending and Chinese competition
 
-The Guardian • 4h ago
+The Guardian • 7h ago
 
 ---
 
-**[Micron, SK Hynix stocks sink as AI chip sell-off deepens](https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html)**
-
-A sell-off in semiconductor stocks deepened on Tuesday.
-
-Yahoo Finance • 47m ago
-
----
-
-**[Apple Set to Make Big Smart Home Push With Siri AI at Center](https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming)**
+**[US Insurers Rally as Stocks Shift from AI Loser to Safe Haven](https://www.bloomberg.com/news/articles/2026-07-28/us-insurers-rally-as-stocks-shift-from-ai-loser-to-safe-haven)**
 
 Bloomberg.com • 1h ago
 
@@ -153,47 +145,49 @@ Bloomberg.com • 1h ago
 
 Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.
 
-CNBC • 31m ago
+CNBC • 2h ago
 
 ---
 
-**[Nvidia's credit default spikes, raising AI debt concerns](https://finance.yahoo.com/video/nvidias-credit-default-spikes-raising-142500311.html)**
+**[Imports mute AI's boost to GDP](https://www.axios.com/2026/07/28/ai-boom-imports-gdp)**
 
-Nvidia's (NVDA) five-year credit default swap has risen to its highest level ever — 82 points — as the chipmaker continues to become an integral player in many AI infrastructure projects.
-
-Yahoo Finance Senior Reporter Brooke DiPalma takes a closer look at this news and the debt that Nvidia is taking on.
-
-Yahoo Finance • 34m ago
+Axios • 30m ago
 
 ---
 
-**[Rethinking security for the age of AI](https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/)**
+**[Galaxy’s 500-Acre Texas AI Campus Reflects New Grid Model](https://www.datacenterknowledge.com/data-center-construction/galaxy-s-500-acre-texas-ai-campus-reflects-new-grid-model)**
 
-Why security needs a new Cyber Stack — Introducing Project Perception The physics of cybersecurity are changing. Autonomous systems can now reason, adapt and operate continuously. At the same time, the cost of offense is falling, while the volume, velocity and complexity of what must be secured continues to grow. Attackers can generate exploits faster,...
+The McGregor project pairs a 74 MW first phase with a privately funded substation and utility assurances, reflecting changing developer expectations.
 
-The Official Microsoft Blog • 22h ago
-
----
-
-**[Microsoft unveils AI security tools it says outperform competing platforms](https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/)**
-
-Microsoft says tools cost less than competing ones and outperform them, too.
-
-Ars Technica • 17h ago
+Data Center Knowledge • 13m ago
 
 ---
 
-**[AI And Quantum Are Impacting Cyber Risk. Boards & CISOs Must Prepare](https://www.forbes.com/sites/chuckbrooks/2026/07/28/ai-and-quantum-are-impacting-cyber-risk-boards--cisos-must-prepare/)**
+**[Thousands of customer service workers face the axe as AI takes over](https://www.latimes.com/business/story/2026-07-28/thousands-of-customer-service-workers-face-axe-as-ai-takes-over)**
 
-Agentic AI and quantum technologies are creating new cyber risks. This requires a shift from a reactive to an adaptable, resilient posture for CISO and Boards.
+AI’s decimation of call center jobs has begun.
 
-Forbes • 24m ago
+Los Angeles Times • 24m ago
 
 ---
 
-**[Exclusive: Patents for AI agents are on the rise](https://www.axios.com/2026/07/28/patents-ai-agents-nvidia-huawei-google-microsoft)**
+**[Apple Set to Make Big Smart Home Push With Siri AI at Center](https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming)**
 
-Axios • 1h ago
+Bloomberg.com • 3h ago
+
+---
+
+**[Why tech companies are poaching top economists](https://www.washingtonpost.com/technology/2026/07/28/ai-firms-are-poaching-top-economists-questions-grow-about-job-losses/)**
+
+Google and others say their economic research sheds light on crucial questions, but critics argue corporate research doesn't serve the public interest.
+
+The Washington Post • 46m ago
+
+---
+
+**[Which Tech Giant Will Blink First on AI Spending?](https://www.wsj.com/tech/ai/which-tech-giant-will-blink-first-on-ai-spending-1c7fec77)**
+
+WSJ • 46m ago
 
 ---
 
@@ -205,7 +199,7 @@ Axios • 1h ago
 
 The case centers on Tunick's use of GrapheneOS, an open-source operating system that works on Google Pixel phones and lets users enter a passcode to wipe a...
 
-⬆️ 1300 • 💬 1057 • 1d ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+⬆️ 1302 • 💬 1059 • 1d ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 
 ---
 
@@ -213,7 +207,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're
 
-⬆️ 772 • 💬 493 • 1d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
+⬆️ 772 • 💬 495 • 1d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 
 ---
 
@@ -229,7 +223,7 @@ Other
 
 London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.
 
-⬆️ 291 • 💬 260 • 2d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+⬆️ 291 • 💬 263 • 2d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 
 ---
 
@@ -245,7 +239,7 @@ Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing
 
 Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where's Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom's most "acerbic gadfly" – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he's right. You've been calling AI a bubble since before it was fashionable.
 
-⬆️ 243 • 💬 332 • 1d ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+⬆️ 247 • 💬 335 • 1d ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 
 ---
 
@@ -275,7 +269,7 @@ For our second Content Independence Day, we’re giving website owners finer opt
 
 In an online discussion post, Alcorn State University history professor Dr. Jason Gibson posed a question that represented part of his students' midterm. It was about the...
 
-⬆️ 103 • 💬 86 • 19h ago • [TechSpot](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
+⬆️ 104 • 💬 87 • 21h ago • [TechSpot](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
 
 ---
 
@@ -289,7 +283,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 175K • 👍 9K • 💬 2K • ⏱️ 15:38 • 11h ago
+👁️ 175K • 👍 9K • 💬 2K • ⏱️ 15:38 • 13h ago
 
 ---
 
@@ -299,7 +293,7 @@ Create Your Own AI films with OpenArt https://tolt.link/yvhfilmaking In this vid
 
 📺 Youri van Hofwegen
 
-👁️ 3K • 💬 1 • ⏱️ 9:56 • 29m ago
+👁️ 3K • 💬 1 • ⏱️ 9:56 • 2h ago
 
 ---
 
@@ -309,7 +303,7 @@ Sam Altman says OpenAI's ultimate AI could work like a genie that grants any wis
 
 📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 201 • ⏱️ 13:07 • 14h ago
+👁️ 33K • 👍 1K • 💬 201 • ⏱️ 13:07 • 16h ago
 
 ---
 
@@ -319,7 +313,7 @@ Make Your Own AI Instagram Reels with OpenArt https://tolt.link/instareels In th
 
 📺 Isa does AI
 
-👁️ 4K • ⏱️ 10:52 • 58m ago
+👁️ 4K • ⏱️ 10:52 • 2h ago
 
 ---
 
@@ -329,7 +323,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 18K • 👍 546 • 💬 140 • ⏱️ 15:25 • 22h ago
+👁️ 18K • 👍 546 • 💬 140 • ⏱️ 15:25 • 1d ago
 
 ---
 
@@ -359,7 +353,7 @@ How will superintelligent AI (AGI) affect our lives? And what can we do about it
 
 📺 AI Frontier
 
-👁️ 27K • 👍 1K • 💬 185 • ⏱️ 21:31 • 1d ago
+👁️ 27K • 👍 1K • 💬 185 • ⏱️ 21:31 • 2d ago
 
 ---
 
@@ -369,7 +363,7 @@ President Trump posted a slew of AI-generated images of the war with Iran. MS NO
 
 📺 MS NOW
 
-👁️ 82K • 👍 1K • 💬 433 • ⏱️ 9:07 • 18h ago
+👁️ 82K • 👍 1K • 💬 433 • ⏱️ 9:07 • 20h ago
 
 ---
 
@@ -379,7 +373,7 @@ News24 contributor Kosha Gada reacts to an interview with Elon Musk in which he 
 
 📺 News24
 
-👁️ 7K • 👍 149 • 💬 114 • ⏱️ 4:27 • 15h ago
+👁️ 7K • 👍 149 • 💬 114 • ⏱️ 4:27 • 16h ago
 
 ---
 
@@ -395,7 +389,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 99,214 • ❤️ 7,630 • 22h ago
+⬇️ 99,214 • ❤️ 7,630 • 1d ago
 
 ---
 
@@ -419,7 +413,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,694,935 • ❤️ 3,384 • 6h ago
+⬇️ 2,694,935 • ❤️ 3,384 • 8h ago
 
 ---
 
@@ -431,7 +425,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 736,692 • ❤️ 810 • 13h ago
+⬇️ 736,692 • ❤️ 810 • 15h ago
 
 ---
 
@@ -455,7 +449,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 18,933 • ❤️ 511 • 2h ago
+⬇️ 18,933 • ❤️ 511 • 3h ago
 
 ---
 
@@ -491,7 +485,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 6,275 • ❤️ 266 • 10h ago
+⬇️ 6,275 • ❤️ 266 • 12h ago
 
 ---
 
@@ -653,7 +647,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 19h ago
+⭐ 5.3k • 🔱 1.1k • 20h ago
 
 ---
 
@@ -663,7 +657,7 @@ Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SD
 
 `TypeScript` `agent-tools` `ai-agents` `api-gateway` `automation` `cli`
 
-⭐ 3.4k • 🔱 270 • 6h ago
+⭐ 3.4k • 🔱 270 • 8h ago
 
 ---
 
@@ -683,7 +677,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 403 • 22h ago
+⭐ 2.9k • 🔱 403 • 23h ago
 
 ---
 
@@ -703,7 +697,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.5k • 🔱 213 • 7h ago
+⭐ 2.5k • 🔱 213 • 9h ago
 
 ---
 
@@ -731,7 +725,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.5k • 🔱 1.1k • 1m ago
+⭐ 1.5k • 🔱 1.1k • 1h ago
 
 ---
 

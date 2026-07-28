@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-28T14:59:16.353966+00:00'
+updated: '2026-07-28T16:46:27.287611+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 14:59 UTC  
+**Last Updated:** July 28, 2026 at 16:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,890.11
+### $1,923.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -2.4%  
-**30d:** +17.1%  
-**90d:** -16.4%  
-**1y:** -50.2%  
+**24h:** -1.1%  
+**7d:** -0.6%  
+**30d:** +19.2%  
+**90d:** -14.9%  
+**1y:** -49.3%  
 
 ---
 
@@ -68,6 +68,14 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion July 28, 2026](https://www.reddit.com/r/ethereum/comments/1v8ocyq/daily_general_discussion_july_28_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+11h ago
+
+---
+
 **[Daily General Discussion July 27, 2026](https://www.reddit.com/r/ethereum/comments/1v7qq89/daily_general_discussion_july_27_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 2026 Lido Core upgrade introduces major improvements on the operator and validator layers, strengthening protocol security for stakers while keeping aligned with the Ethereum roadmap. Curated Module v2 (CMv2) introduces native support for 0x02 validators, bond and penalty mechanisms, and operator classification. It will gradually replace the legacy Curated Module as ETH stake is migrated to the new module through validator consolidation. CSM expands permissionless participation through the new Identified DVT Cluster operator type, alongside technical improvements that make the module more reliable and operator-friendly. Contributors are now working with operators on validator consolidation over the next few months. The migration could increase the share of ETH secured by 0x02 validators from around 32% to 52%, while reducing the total number of validators across the Ethereum network by around 30%. Further upgrades to both CMv2 and CSM in the near future: CMv2 will introduce a dynamic stake allocation mechanism through which stake can be distributed among Node Operators based on transparent parameters such as fees, performance, and other relevant factors. CSM will introduce a dedicated module for 0x02 validators, designed specifically to enable permissionless operators to run 0x02 validators with a bond. This new module will operate alongside the existing CSM instance for 0x01 validators, giving operators the flexibility to choose. https://x.com/LidoFinance/status/2081757295310983272
 
-23h ago
+1d ago
 
 ---
 
@@ -108,19 +116,19 @@ No public tooling existed for tracking Continuous Clearing Auctions — the new 
 
 ---
 
-**[Daily General Discussion July 25, 2026](https://www.reddit.com/r/ethereum/comments/1v5yr3q/daily_general_discussion_july_25_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 **[The Uber Eats card saved dinner night.](https://www.reddit.com/r/ethereum/comments/1v759fq/the_uber_eats_card_saved_dinner_night/)**
 
 There were problems with my regular payment, but I was craving takeout. In just a few minutes, I placed my order using USDC and found the Uber Eats option. Everything went well after the food arrived. When cryptocurrency actually fulfills such basic requirements, it's wonderful. Does anyone use it for food delivery or transportation?
 
 2d ago
+
+---
+
+**[Daily General Discussion July 25, 2026](https://www.reddit.com/r/ethereum/comments/1v5yr3q/daily_general_discussion_july_25_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+3d ago
 
 ---
 
@@ -140,14 +148,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Ethereal news weekly #32 | Glamsterdam upgrade targeting first testnet in September, Uniswap v4 Permissioned Pools, Aztec Alpha V5 live](https://www.reddit.com/r/ethereum/comments/1v59bqn/ethereal_news_weekly_32_glamsterdam_upgrade/)**
-
-Glamsterdam upgrade targeting first testnet in September, Uniswap v4 Permissioned Pools, Aztec Alpha V5 live
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-32/) • 4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,37 +156,15 @@ Glamsterdam upgrade targeting first testnet in September, Uniswap v4 Permissione
 
 Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.
 
-The Block • 19h ago
+The Block • 21h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys more as Tom Lee says ETH-BTC sends bullish signal](https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices)**
+**[Bitmine Buys Another 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-10-000-133500535.html)**
 
-The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
+Bitmine Immersion Technologies (NYSE: $BMNR) purchased another 10,000 Ethereum (CRYPTO: $ETH) over the past week.&n...
 
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, July 28, 2026: Crypto prices slide ahead of Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-28-2026-crypto-prices-slide-ahead-of-fed-meeting-125210301.html)**
-
-Bitcoin opened at $63,706.66 on Tuesday, July 28, 2026, 2.5% lower than Monday's opening price. Ethereum opened at $1,890.67, down 3.2% from Monday's opening price.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Lido Crypto Validator Consolidation Will Cut Ethereum’s Beacon Chain by 29%](https://finance.yahoo.com/markets/crypto/articles/lido-crypto-validator-consolidation-cut-133000004.html)**
-
-Lido Crypto has launched its Core 2026 protocol upgrade, introducing native 0x02 validator support to its largest staking module, restructuring node operator economics around ETH-backed bonds, and setting in motion a validator consolidation that will reduce the total number of Ethereum validators by roughly one-third. No action is required from ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Large cryptocurrencies drop on Solana, Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-solana-ethereum-declines-d6d5186c-d3aa3f312e86)**
-
-MarketWatch • 59m ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -195,6 +173,36 @@ MarketWatch • 59m ago
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
 
 PR Newswire • 1d ago
+
+---
+
+**[Why Bitmine Stock Popped Today](https://www.fool.com/investing/2026/07/27/why-bitmine-stock-bmnr-is-up-today/)**
+
+The crypto treasury leader has quietly amassed a significant share of Ethereum's total supply.
+
+The Motley Fool • 18h ago
+
+---
+
+**[Large cryptocurrencies drop on Solana, Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-solana-ethereum-declines-d6d5186c-d3aa3f312e86)**
+
+MarketWatch • 2h ago
+
+---
+
+**[Ethereum staking hits a record high, creates a hidden exit risk](https://www.21shares.com/fr-eu/insights/ethereum-staking-exit-queue-risk)**
+
+Ethereum staking has hit a record high. One firm's financing structure could force a liquidation that locks other validators in the exit queue for days.
+
+21Shares • 52m ago
+
+---
+
+**[Morgan Stanley Launches 0.14% Ethereum and Solana ETFs: Will Flows Follow?](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-launches-0-14-155241734.html)**
+
+Morgan Stanley's Ethereum and Solana ETFs charge just 0.14%. Filings reveal a 47-day catch on the staking yield.
+
+Yahoo Finance • 53m ago
 
 ---
 
@@ -210,15 +218,7 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
-
----
-
-**[Why Bitmine Stock Popped Today](https://www.fool.com/investing/2026/07/27/why-bitmine-stock-bmnr-is-up-today/)**
-
-The crypto treasury leader has quietly amassed a significant share of Ethereum's total supply.
-
-The Motley Fool • 16h ago
+Fortune • 2h ago
 
 ---
 
@@ -226,7 +226,7 @@ The Motley Fool • 16h ago
 
 .embed-container-btc-breakdown-alt-risk { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container-btc-breakdown-alt-risk iframe, .embed-container-btc-breakdown-alt-risk object, .embed-container-btc-breakdown-alt-risk embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&nbsp;Video: Bitcoin Confirms The Next Drop Is Coming SoonBitcoin’s failure to sustain its recent higher-low structure has shifted the daily market update toward downside risk. Ethereum has not yet completed the same structural break, but its momentum warning is clear, while crypto breadth, the dollar and multiple ALT charts point to a more defensive backdrop.Bitcoin loses the structure that supported the prior upside caseBitcoin chart showing a break below recent higher-low structureThe source describes Bitcoin’s Monday red close and subsequent move below the prior low as the development that changed the near-term picture. Earlier upside expectations are no longer the focus; the chart is now being assessed against successive support steps and the possibility of further downside momentum.Ethereum has a warning signal but not full bearish confirmationEthereum chart inside the Cloud with RSI support brokenEthereum remains inside its Cloud and therefore has not yet completed the structural shift described for Bitcoin. However, RSI has already lost support. The source treats a bearish OBV cross and a move below the Cloud as the additional confirmation needed for the downside case, keeping the current read conditional rather than absolute.Dominance and crypto breadth show the dip is not being absorbedCrypto market breadth chart moving below the CloudBitcoin dominance is declining, but the source interprets that as selling into the dip rather than an automatic bullish signal for alternative assets. ETH.D, SOL.D, TOTALES and related breadth measures are showing breakdown or strong-bearish conditions. Dominance is market share, not a direct spot-price forecast, so those charts require careful interpretation.Dollar strength and equity weakness increase the risk backdropDollar index chart pushing higherDXY and USDJPY are still advancing in the source analysis, a combination viewed as unfavorable for broader risk assets. S&amp;P futures are in bearish consolidation, and the analysis notes bearish evidence across NDX, FANG and several large technology names. Asian-market weakness adds to the defensive tone without turning any one chart into a guaranteed outcome.Commodities send mixed signalsNASDAQ chart with a TBO Open Short signalGold has bullish-divergence evidence but remains strong bearish below the Cloud in the source view. Silver and uranium also remain bearish, while copper is holding relatively better. The PAXG/BTC chart is highlighted as an important relative-strength gauge: a confirmed shift there would indicate movement away from Bitcoin and toward gold.ALT setups favor caution and selectivitySolana chart with TBO Open Short confirmationSOL confirmed a TBO Open Short and moved into strong-bearish mode below the Cloud. LINK was rejected at the top of its Cloud, while XLM, NEAR, RENDER, FET and SEI each carry breakdown, support-loss or weakness commentary. The source does not reduce all ALT charts to one call, but it frames the broader context as unfavorable for indiscriminate risk-taking.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
 
-KITCO • 1h ago
+KITCO • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 📺 The Rollup
 
-👁️ 443 • 👍 17 • 💬 3 • ⏱️ 6:40 • 2h ago
+👁️ 443 • 👍 17 • 💬 3 • ⏱️ 6:40 • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 295 • 👍 23 • 💬 10 • ⏱️ 4:29 • 5h ago
+👁️ 295 • 👍 23 • 💬 10 • ⏱️ 4:29 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 63K • 👍 1K • 💬 222 • ⏱️ 6:11 • 18h ago
+👁️ 63K • 👍 1K • 💬 222 • ⏱️ 6:11 • 20h ago
 
 ---
 
@@ -290,7 +290,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 2K • 👍 70 • 💬 44 • ⏱️ 11:54 • 15h ago
+👁️ 2K • 👍 70 • 💬 44 • ⏱️ 11:54 • 17h ago
 
 ---
 

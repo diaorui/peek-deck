@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T14:59:16.356808+00:00'
+updated: '2026-07-28T16:46:27.290868+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 14:59 UTC  
+**Last Updated:** July 28, 2026 at 16:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. 
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -92,7 +92,7 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-1d ago
+2d ago
 
 ---
 
@@ -118,31 +118,15 @@ TechCrunch • 1d ago
 
 As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-The Information • 23h ago
+The Information • 1d ago
 
 ---
 
-**[ABM and LaGuardia Gateway Partners Launch Autonomous Robotics Pilot at Terminal B, Setting a New Standard for Airport Guest Experience](https://sg.finance.yahoo.com/news/abm-laguardia-gateway-partners-launch-132000305.html)**
+**[Electronics & Semiconductor Assembly Robotics Market to Reach USD 17.1 Billion by 2036 as Smart Factory Automation and Semiconductor Manufacturing Expansion Drive Global Growth](https://sg.finance.yahoo.com/news/electronics-semiconductor-assembly-robotics-market-163600154.html)**
 
-Robotic deployment includes autonomous floor scrubbers, autonomous vacuums, and one of the first autonomous robotic dogs in a U.S. airport terminal NEW YORK, July 28, 2026 (GLOBE NEWSWIRE) -- ABM (NYSE: ABM), a leading provider of facility, engineering and infrastructure solutions, announced today the launch of a robotics program at LaGuardia Airport’s award-winning Terminal B. In partnership with LaGuardia Gateway Partners (LGP), the operator of Terminal B, ABM is introducing both autonomous in
+According to Future Market Insights (FMI), the global Electronics & Semiconductor Assembly Robotics Market is expected to experience strong growth as semiconductor manufacturers and electronics producers accelerate investments in factory automation, precision assembly, and smart manufacturing technologies. the market is projected to grow from USD 6.6 billion in 2026 to USD 17.1 billion by 2036, registering a robust 10.0% CAGR during the forecast period. Rising demand for advanced semiconductor c
 
-Yahoo Finance Singapore • 1h ago
-
----
-
-**[GMEX Robotics Corporation Enters into Definitive Agreement to Acquire Strategic Equity Interest in MediaMeta.Ai to Advance Social Intelligence](https://finance.yahoo.com/technology/ai/articles/gmex-robotics-corporation-enters-definitive-124500593.html)**
-
-Synergetic acquisition to compliment GMEX’s Robotic Intelligence-with $52.6 million in revenues expected from MediaMeta and exclusive rights to use MediaMeta technology Sydney, Australia, July 28, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (Nasdaq: GMEX) (“GMEX” or the “Company”) today announced that it has entered into a definitive share purchase agreement (the “Share Purchase Agreement”) with Alpha Meta AI Pte. Ltd. (the “Issuer”), MetaGen AI Limited and the other parties thereto. The
-
-Yahoo Finance • 2h ago
-
----
-
-**[New to The Street's Esteemed Client Virtuix (NASDAQ: VTIX) Advances AI and Robotics Strategy with Initial Sale to Tesla's Optimus Division](https://finance.yahoo.com/technology/ai/articles/streets-esteemed-client-virtuix-nasdaq-124000292.html)**
-
-Latest Milestone Builds on Virtuix's Growing Presence Across U.S. Defense, NASA, Enterprise AI, and Next-Generation Robotics Applications NEW YORK CITY, NY / ACCESS Newswire / July 28, 2026 / New to The Street congratulates its esteemed client, Virtuix ...
-
-Yahoo Finance • 2h ago
+Yahoo Finance Singapore • 10m ago
 
 ---
 
@@ -150,15 +134,7 @@ Yahoo Finance • 2h ago
 
 The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
 
-MIT News • 10h ago
-
----
-
-**[XTEND expands in Europe with Lavtia's Atlas, boosting robotics portfolio](https://www.jpost.com/defense-and-tech/article-903877)**
-
-With Atlas merger, XTEND boosts its autonomous systems portfolio and strengthens support for NATO and EU partners.
-
-The Jerusalem Post • 6h ago
+MIT News • 12h ago
 
 ---
 
@@ -170,9 +146,17 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[XTEND expands in Europe with Lavtia's Atlas, boosting robotics portfolio](https://www.jpost.com/defense-and-tech/article-903877)**
+
+With Atlas merger, XTEND boosts its autonomous systems portfolio and strengthens support for NATO and EU partners.
+
+The Jerusalem Post • 8h ago
+
+---
+
 **[AI underwater robots can now track diver stress via exhaled bubbles](https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 23h ago
 
 ---
 
@@ -180,7 +164,23 @@ Tech Xplore • 21h ago
 
 Senior executive sees Japan as potential engineering hub
 
-Nikkei Asia • 13h ago
+Nikkei Asia • 15h ago
+
+---
+
+**[School District Pauses Plans to Deploy Humanoid Robots in Class After Outcry](https://www.yahoo.com/news/us/articles/sex-doll-company-strikes-bizarre-120100760.html)**
+
+It's on pause.
+
+Yahoo • 2d ago
+
+---
+
+**[How to invest in humanoid robotics, the potential $5 trillion market that’s straight out of science fiction](https://www.businessinsider.com/humanoid-robotics-stocks-etfs-how-to-invest-koid-labor-manufacturing-2026-7)**
+
+Robots that can replace human workers may be closer than ever because of the AI boom. Here's how some investing pros are getting in early on the trend.
+
+Business Insider • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 84K • 👍 2K • 💬 703 • ⏱️ 2:15 • 14h ago
+👁️ 84K • 👍 2K • 💬 703 • ⏱️ 2:15 • 16h ago
 
 ---
 
@@ -214,7 +214,7 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 4K • 👍 108 • 💬 65 • ⏱️ 3:10 • 18h ago
+👁️ 4K • 👍 108 • 💬 65 • ⏱️ 3:10 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT Solar power i
 
 📺 Smarttoy Ruko
 
-👁️ 5K • 👍 58 • ⏱️ 0:23 • 4h ago
+👁️ 5K • 👍 58 • ⏱️ 0:23 • 6h ago
 
 ---
 
@@ -272,7 +272,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UC4pND
 
 📺 Not What You Think
 
-👁️ 2K • 👍 190 • 💬 13 • ⏱️ 0:29 • 21m ago
+👁️ 2K • 👍 190 • 💬 13 • ⏱️ 0:29 • 2h ago
 
 ---
 
@@ -282,7 +282,7 @@ Still dialing in the perfect spin. Even with three decades of coding under his b
 
 📺 NHRL
 
-👁️ 43K • 👍 2K • 💬 23 • ⏱️ 1:28 • 6d ago
+👁️ 43K • 👍 2K • 💬 23 • ⏱️ 1:28 • 7d ago
 
 ---
 
