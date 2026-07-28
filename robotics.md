@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T07:13:45.925551+00:00'
+updated: '2026-07-28T10:06:47.389841+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 07:13 UTC  
+**Last Updated:** July 28, 2026 at 10:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,7 +62,7 @@ I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. 
 
 **[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 
-TechCrunch • 18h ago
+TechCrunch • 21h ago
 
 ---
 
@@ -118,13 +118,21 @@ TechCrunch • 18h ago
 
 As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
 
-The Information • 15h ago
+The Information • 18h ago
+
+---
+
+**[Humanoid Global Provides Update on Agility Robotics Public Listing & Opens Silicon Valley AI Hub to Scale Digit Deployments](https://sg.finance.yahoo.com/news/humanoid-global-provides-agility-robotics-053000884.html)**
+
+Vancouver, BC & Salem, Oregon, July 28, 2026 (GLOBE NEWSWIRE) -- Humanoid Global Holdings Corp. (“Humanoid Global” or the “Company”) (CSE:ROBO, FWB:0XM1, OTCQB:RBOHF), a publicly traded investment issuer focused on building and accelerating a portfolio of pioneering companies in the humanoid robotics and embodied AI sector, is pleased to provide the following update regarding Agility Robotics, Inc. (“Agility Robotics” or “Agility”), a portfolio company in which Humanoid Global holds a minority e
+
+Yahoo Finance Singapore • 4h ago
 
 ---
 
 **[AI underwater robots can now track diver stress via exhaled bubbles](https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html)**
 
-Tech Xplore • 13h ago
+Tech Xplore • 16h ago
 
 ---
 
@@ -140,7 +148,7 @@ IEEE Spectrum • 1d ago
 
 Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
-calcalistech.com • 17h ago
+calcalistech.com • 20h ago
 
 ---
 
@@ -148,13 +156,23 @@ calcalistech.com • 17h ago
 
 A Chinese manufacturing firm orders 2,000 humanoid robots to automate apparel production, targeting smarter and more efficient factories.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 19h ago
 
 ---
 
-**[Chinese robotics is quietly cornering a new niche. How will shipyards benefit?](https://www.scmp.com/economy/china-economy/article/3361993/chinas-robotics-industry-quietly-cornering-new-niche-and-shipyards-stand-gain)**
+**[School District Pauses Plans to Deploy Humanoid Robots in Class After Outcry](https://futurism.com/robots-and-machines/sex-doll-company-deal-robot-school-classrooms)**
 
-South China Morning Post • 3h ago
+A school district in western New York is is deploying a humanoid robot from a sex doll-affiliated company in its classrooms.
+
+Futurism • 1d ago
+
+---
+
+**[XTEND expands in Europe with Lavtia's Atlas, boosting robotics portfolio](https://www.jpost.com/defense-and-tech/article-903877)**
+
+With Atlas merger, XTEND boosts its autonomous systems portfolio and strengthens support for NATO and EU partners.
+
+The Jerusalem Post • 1h ago
 
 ---
 
@@ -162,23 +180,7 @@ South China Morning Post • 3h ago
 
 'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'
 
-ZDNET • 19h ago
-
----
-
-**[Making robots faster by helping them think ahead](https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728)**
-
-The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
-
-MIT News • 3h ago
-
----
-
-**[12 Of The Coolest Robotic Gadgets You Can Buy For The Home](https://www.slashgear.com/2219975/cool-robotic-gadgets-for-home/)**
-
-Home robot gadgets aren't just Roomba vacuums and automatic pet feeders anymore.
-
-SlashGear • 5h ago
+ZDNET • 22h ago
 
 ---
 
@@ -192,7 +194,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 17K • 👍 443 • 💬 158 • ⏱️ 2:15 • 7h ago
+👁️ 34K • 👍 925 • 💬 397 • ⏱️ 2:15 • 10h ago
 
 ---
 
@@ -202,7 +204,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 12K • 👍 388 • 💬 22 • ⏱️ 4:23 • 1d ago
+👁️ 13K • 👍 395 • 💬 24 • ⏱️ 4:23 • 1d ago
 
 ---
 
@@ -216,13 +218,23 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 ---
 
+**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
+
+A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
+
+📺 NewsNation
+
+👁️ 4K • 👍 105 • 💬 64 • ⏱️ 3:10 • 13h ago
+
+---
+
 **[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
 
 Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
 
 📺 New York Post
 
-👁️ 56K • 👍 1K • 💬 440 • ⏱️ 2:02 • 5d ago
+👁️ 56K • 👍 1K • 💬 441 • ⏱️ 2:02 • 5d ago
 
 ---
 
@@ -232,17 +244,7 @@ America Doesn't Know What's Coming | China's Robot Factories Chengdu is usually 
 
 📺 Living in China
 
-👁️ 107K • 👍 3K • 💬 231 • ⏱️ 12:28 • 6d ago
-
----
-
-**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
-
-AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
-
-📺  Beesoft Bd
-
-👁️ 106K • 💬 3 • ⏱️ 0:16 • 5d ago
+👁️ 108K • 👍 3K • 💬 233 • ⏱️ 12:28 • 6d ago
 
 ---
 
@@ -252,27 +254,17 @@ Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course
 
 📺 GATE Wallah
 
-👁️ 3K • 👍 114 • 💬 2 • ⏱️ 17:35 • 13h ago
+👁️ 3K • 👍 122 • 💬 2 • ⏱️ 17:35 • 16h ago
 
 ---
 
-**[Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT](https://www.youtube.com/watch?v=iEoMJJvjPwY)**
+**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
 
-Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT Solar power is about to get unbelievably cheap thanks to ...
+AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
 
-📺 The Electric Viking
+📺  Beesoft Bd
 
-👁️ 53K • 👍 3K • 💬 347 • ⏱️ 8:18 • 1d ago
-
----
-
-**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
-
-A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
-
-📺 NewsNation
-
-👁️ 4K • 👍 99 • 💬 64 • ⏱️ 3:10 • 10h ago
+👁️ 107K • 💬 3 • ⏱️ 0:16 • 5d ago
 
 ---
 
@@ -282,7 +274,17 @@ War Robots Gameplay: Ultimate Vs Regular Hawk - after 12.2 changes. My War Robot
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 431 • 💬 146 • ⏱️ 22:27 • 18h ago
+👁️ 9K • 👍 450 • 💬 149 • ⏱️ 22:27 • 21h ago
+
+---
+
+**[Unitree AS2 W Shows The Future Of Autonomous Robots](https://www.youtube.com/watch?v=OePErI3OoRI)**
+
+The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it climb steep rocks, cross streams, tackle rough ...
+
+📺 DPCcars
+
+👁️ 22K • 👍 184 • 💬 74 • ⏱️ 2:32 • 3d ago
 
 ---
 

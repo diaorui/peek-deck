@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-28T07:13:45.922668+00:00'
+updated: '2026-07-28T10:06:47.386713+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 07:13 UTC  
+**Last Updated:** July 28, 2026 at 10:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,936.62
+### $1,875.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** -2.5%  
-**30d:** +16.9%  
-**90d:** -16.5%  
-**1y:** -50.3%  
+**24h:** -4.2%  
+**7d:** -2.9%  
+**30d:** +16.4%  
+**90d:** -16.9%  
+**1y:** -50.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.49B
+**Market Cap:** $226.45B
 Rank #2
 
 **Circulating Supply:** 120,682,600 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.1%
 
 **All-Time Low:** $0.43
-+435260.6%
++433244.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 2026 Lido Core upgrade introduces major improvements on the operator and validator layers, strengthening protocol security for stakers while keeping aligned with the Ethereum roadmap. Curated Module v2 (CMv2) introduces native support for 0x02 validators, bond and penalty mechanisms, and operator classification. It will gradually replace the legacy Curated Module as ETH stake is migrated to the new module through validator consolidation. CSM expands permissionless participation through the new Identified DVT Cluster operator type, alongside technical improvements that make the module more reliable and operator-friendly. Contributors are now working with operators on validator consolidation over the next few months. The migration could increase the share of ETH secured by 0x02 validators from around 32% to 52%, while reducing the total number of validators across the Ethereum network by around 30%. Further upgrades to both CMv2 and CSM in the near future: CMv2 will introduce a dynamic stake allocation mechanism through which stake can be distributed among Node Operators based on transparent parameters such as fees, performance, and other relevant factors. CSM will introduce a dedicated module for 0x02 validators, designed specifically to enable permissionless operators to run 0x02 validators with a bond. This new module will operate alongside the existing CSM instance for 0x01 validators, giving operators the flexibility to choose. https://x.com/LidoFinance/status/2081757295310983272
 
-15h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ The 2026 Lido Core upgrade introduces major improvements on the operator and val
 
 Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the way we design BlazePhoenix smart contracts needs to evolve. Patterns that were standard on L1 Ethereum (heavy storage usage, external oracle reliance, off-chain quoter infrastructure) often create unnecessary bottlenecks and security risks on L2. We designed an aggregator architecture built specifically around recent EVM upgrades to prove that on-chain liquidity routing can be both cheap and hyper-secure: EIP-1153 Native: Using transient storage for reentrancy and route state tracking instead of legacy storage variables. Oracle-Free Design: Eliminating third-party oracle vectors entirely by deriving real-time liquidity depth directly on-chain. Deterministic Execution: Eliminating "failed swap gas fees" by enforcing precise execution previews that mirror live EVM state. The goal is to build self-sustaining, immutable infrastructure that operates seamlessly for both human users and autonomous AI agents. Looking forward to hearing thoughts from the community on how L2-native EVM patterns are reshaping protocol design!
 
-19h ago
+22h ago
 
 ---
 
@@ -156,7 +156,7 @@ Glamsterdam upgrade targeting first testnet in September, Uniswap v4 Permissione
 
 Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.
 
-The Block • 12h ago
+The Block • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 12h ago
 
 The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
 
-CoinDesk • 18h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 18h ago
 
 Leading cryptocurrencies fell sharply on Monday as investors weighed developments around the Clarity Act and a pause in U.S.–Iran hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.98%$63,157.00Ethereum (CRYPTO: ETH) -3.67%$1,873.27XRP (CRYPTO: XRP) -4.60%$1.05Solana (CRYPTO: SOL) -4.09%$73.19Dogecoin (CRYPTO: DOGE) -4.59%$0.06954 Crypto Market Tumbles Bitcoin nearly dived below $63,000 in a sharp evening sell-off, while Ethereum fell to $1,860 a
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -180,7 +180,15 @@ Yahoo Finance • 5h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
 
-PR Newswire • 18h ago
+PR Newswire • 21h ago
+
+---
+
+**[Wall Street Strategist Tom Lee Thinks Ethereum Is Going to $250,000. Here's Why He's Wrong.](https://www.fool.com/investing/2026/07/28/wall-street-strategist-tom-lee-thinks-ethereum-is/)**
+
+It's best to take this prediction with a hefty grain of salt.
+
+The Motley Fool • 11m ago
 
 ---
 
@@ -188,15 +196,7 @@ PR Newswire • 18h ago
 
 The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
 
-TradingView • 22h ago
-
----
-
-**[Is Money Rotating Back Into Bitcoin and Ethereum ETFs While XRP and HYPE Funds Fade?](https://247wallst.com/investing/cryptocurrency/2026/07/26/is-money-rotating-back-into-bitcoin-and-ethereum-etfs-while-xrp-and-hype-funds-fade/)**
-
-Bitcoin and Ethereum ETFs are pulling in money this July after two months of heavy outflows, while XRP inflows slow and HYPE turns negative.
-
-24/7 Wall St. • 1d ago
+TradingView • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ Bitcoin and Ethereum ETFs are pulling in money this July after two months of hea
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 23h ago
 
 ---
 
@@ -212,7 +212,7 @@ Fortune • 20h ago
 
 Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
 
-The Defiant • 14h ago
+The Defiant • 17h ago
 
 ---
 
@@ -224,11 +224,11 @@ MarketForces Africa • 1d ago
 
 ---
 
-**[Tom Lee Says This Ethereum Project Could Be a Game-Changer](https://beincrypto.com/tom-lee-lighter-ethereum-infrastructure/)**
+**[1 Popular Cryptocurrency to Buy Before It Soars 13,000%, According to Bitmine's Tom Lee](https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/3494506/1-popular-cryptocurrency-to-buy-before-it-soars-13-000-according-to-bitmine-s-tom-lee/)**
 
-Tom Lee calls Lighter critical Ethereum infrastructure. LIT trades near $2.20 as quarterly revenue drops a third quarter.
+Detailed price information for Nvidia Corp (NVDA-Q) from The Globe and Mail including charting and trades.
 
-BeInCrypto • 9h ago
+The Globe and Mail • 41m ago
 
 ---
 
@@ -236,13 +236,23 @@ BeInCrypto • 9h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Is the Ethereum Bounce a Trap or a Reversal](https://www.youtube.com/watch?v=ERd0n7olbI0)**
+**[THIS IS WHERE I WILL BUY ETH! (Ethereum Update)](https://www.youtube.com/watch?v=nSGJqG8qjvs)**
 
-In this video I break down the latest Ethereum price analysis using Elliott Wave theory to determine if the current bounce is a ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 221 • 💬 9 • ⏱️ 6:58 • 16h ago
+👁️ 76 • 👍 12 • 💬 14 • ⏱️ 4:29 • 1h ago
+
+---
+
+**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
+
+Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
+
+📺 Fundstrat
+
+👁️ 57K • 👍 1K • 💬 106 • ⏱️ 6:11 • 13h ago
 
 ---
 
@@ -252,7 +262,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 10K • 👍 601 • 💬 543 • ⏱️ 13:03 • 1d ago
+👁️ 11K • 👍 604 • 💬 545 • ⏱️ 13:03 • 1d ago
 
 ---
 
@@ -262,17 +272,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 77 • 💬 33 • ⏱️ 5:45 • 16h ago
-
----
-
-**[Bitcoin &amp; Ethereum Test CYCLE RESISTANCE! BIG CAUTION...](https://www.youtube.com/watch?v=mheLsyCYL_Y)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 7K • 👍 418 • 💬 223 • ⏱️ 13:37 • 16h ago
+👁️ 2K • 👍 80 • 💬 33 • ⏱️ 5:45 • 19h ago
 
 ---
 
@@ -286,53 +286,53 @@ Something bizarre is clearly happening in the crypto market right now, i dont kn
 
 ---
 
+**[Is the Ethereum Bounce a Trap or a Reversal](https://www.youtube.com/watch?v=ERd0n7olbI0)**
+
+In this video I break down the latest Ethereum price analysis using Elliott Wave theory to determine if the current bounce is a ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 226 • 💬 9 • ⏱️ 6:58 • 19h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Test CYCLE RESISTANCE! BIG CAUTION...](https://www.youtube.com/watch?v=mheLsyCYL_Y)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 424 • 💬 223 • ⏱️ 13:37 • 19h ago
+
+---
+
+**[BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5UeweslrSCU)**
+
+BITCOIN HOLDERS: WATCH BEFORE TOMORROW (Price Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 277 • 💬 221 • ⏱️ 26:30 • 1d ago
+
+---
+
+**[Could Ethereum Be a Competitive Threat to XRP](https://www.youtube.com/watch?v=qDAjeTUq0Xs)**
+
+Ethereum and XRP are designed for different purposes. Ethereum pioneered smart contracts, while XRP focuses on fast, efficient ...
+
+📺 Jake Claver
+
+👁️ 6K • 👍 316 • 💬 3 • ⏱️ 2:12 • 20h ago
+
+---
+
 **[BITCOIN WARNING: DON&#39;T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EwZNXrSd2M8)**
 
 BITCOIN WARNING: DON'T BE FOOLED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 4K • 👍 246 • 💬 91 • ⏱️ 25:44 • 8h ago
-
----
-
-**[Ethereum price prediction - ETH will rise soon](https://www.youtube.com/watch?v=XXN2XeFsggU)**
-
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
-
-📺 Crypto With James
-
-👁️ 2K • 👍 61 • 💬 51 • ⏱️ 11:54 • 8h ago
-
----
-
-**[🤨 ESTÁN COMPRANDO TODO EL ETHEREUM ¿POR QUÉ?](https://www.youtube.com/watch?v=U739KhxOCbM)**
-
-Gracias por ver! Únase a la conversación en nuestro Telegram: https://telegram.me/valueindexchat Links de interés: ...
-
-📺 Value Index · Bitcoin y Mercados
-
-👁️ 2K • 👍 222 • 💬 33 • ⏱️ 9:23 • 12h ago
-
----
-
-**[ETHEREUM JUST BROKE OUT!🔥 (Urgent ETH Update)](https://www.youtube.com/watch?v=IsmSGOVT9Tg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 618 • 👍 19 • 💬 210 • ⏱️ 4:43 • 22h ago
-
----
-
-**[Is the Ethereum Rally Nearing a Top?](https://www.youtube.com/watch?v=6MYN1eY-dzA)**
-
-In this video I break down the current Ethereum price action using Elliott Wave analysis and historical seasonality. I examine key ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 226 • 💬 12 • ⏱️ 8:19 • 1d ago
+👁️ 5K • 👍 248 • 💬 97 • ⏱️ 25:44 • 11h ago
 
 ---
 

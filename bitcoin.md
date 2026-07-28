@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-28T07:13:45.917224+00:00'
+updated: '2026-07-28T10:06:47.380658+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 07:13 UTC  
+**Last Updated:** July 28, 2026 at 10:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -3.8%  
-**30d:** +5.5%  
-**90d:** -16.7%  
-**1y:** -46.1%  
+**24h:** -2.7%  
+**7d:** -4.1%  
+**30d:** +5.2%  
+**90d:** -17.0%  
+**1y:** -46.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1274.21B
+**Market Cap:** $1270.60B
 Rank #1
 
-**Circulating Supply:** 20,062,287 BTC
+**Circulating Supply:** 20,062,328 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.6%
+-49.8%
 
 **All-Time Low:** $67.81
-+93549.9%
++93288.9%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Always remember!](https://www.reddit.com/r/Bitcoin/comments/1v89b45/always_remember/)**
 
-12h ago
+15h ago
 
 ---
 
 **[Damm bro 😔🥀](https://www.reddit.com/r/Bitcoin/comments/1v819f9/damm_bro/)**
 
-17h ago
+20h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Raúl Robles was a Mexican founder of HackingMexico. He taught cybersecurity and offensive security, this is an old photo from the internet of him giving a Bitcoin talk back in Bitcoin's early days. Sadly, he met a tragic end in 2015, he was known for humiliating and controversial rhetoric through Facebook posts, and eventually met his end by a guy that announced in a forum he was tired of his insults. It's interesting to look back at some of those early conferences and talks that helped push Bitcoin to a wider audience, and to wonder how many people in the room got curious enough to buy, how many held...
 
-7h ago
+10h ago
 
 ---
 
 **[This cat holds through the lows, will you do the same?](https://www.reddit.com/r/Bitcoin/comments/1v8882g/this_cat_holds_through_the_lows_will_you_do_the/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -115,7 +115,7 @@ What about 2026 - are we too late to start invest into Bitcoin?
 
 I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see which one was actually the worst
 
-9h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see 
 
 A Bitcoin Story - Chapter 1 : 2026 - When bitcoin became invisible
 
-18h ago
+21h ago
 
 ---
 
@@ -131,7 +131,7 @@ A Bitcoin Story - Chapter 1 : 2026 - When bitcoin became invisible
 
 I've noticed that some of the loudest Bitcoin FUD seems to come from people who already hold BTC. If you're bullish long term, why let every correction shake your conviction? Is it just emotion, or do people expect Bitcoin to move up without volatility? What do you think? or y'all playing around? Lol
 
-9h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ I've noticed that some of the loudest Bitcoin FUD seems to come from people who 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/L-cP2PG9beA?si=Qfu27yeWVfy_LbLh&t=72) • 15h ago
+🔗 [youtu.be](https://youtu.be/L-cP2PG9beA?si=Qfu27yeWVfy_LbLh&t=72) • 18h ago
 
 ---
 
@@ -147,7 +147,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Just asking, I really want to buy quite a lot and I don't know if I should put everything in a single cold wallet. I already have a Trezor model t, is it necessary to upgrade or is any kind of Trezor good? P.s. I plan to become a whole coiner before 2029. Thanks in advance for your help.
 
-9h ago
+12h ago
 
 ---
 
@@ -159,7 +159,7 @@ Just asking, I really want to buy quite a lot and I don't know if I should put e
 
 BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.
 
-CoinDesk • 11h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -167,21 +167,37 @@ CoinDesk • 11h ago
 
 Better days are coming for investors in this top digital asset.
 
-The Motley Fool • 21h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Hong Kong Gave Banks a 2030 Quantum Deadline: Who Gives Bitcoin One?](https://finance.yahoo.com/markets/crypto/articles/hong-kong-gave-banks-2030-060012635.html)**
+**[Raoul Pal Says 'Young, Volatile' Bitcoin Is Tracking Global Liquidity: 'Nothing Is Broken'](https://finance.yahoo.com/markets/crypto/articles/raoul-pal-says-young-volatile-093733750.html)**
 
-HKMA gave banks a 2030 quantum deadline. Bitcoin has no authority to set one, and its quantum fix is stuck in debate.
+Macro investor Raoul Pal said on Monday that Bitcoin (CRYPTO: BTC) and the Nasdaq Composite are primarily driven by “global liquidity” rather than the usual day-to-day narratives of earnings, news, or sentiment. ‘Bitcoin is Not Broken’ In an X post, Pal cited Bitcoin at 87% correlation to global liquidity and the Nasdaq Composite index at 97%. “These assets are not really trading on earnings, or news, or whatever the story of the week is. They’re tracking the amount of money in the system,” the
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 29m ago
 
 ---
 
-**[Crypto Winter or the Big Crash? Where the Bitcoin Price Goes Now](https://global.morningstar.com/en-nd/markets/crypto-winter-or-big-crash-where-bitcoin-price-goes-now)**
+**[Bitcoin recovers from Asian session lows; Nasdaq futures remain under pressure](https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure)**
 
-Morningstar • 21h ago
+It's a risk-off day. Still, bitcoin is holding better than Nasdaq and Asian equity markets.
+
+CoinDesk • 2h ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://global.morningstar.com/en-ca/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
+
+Morningstar • 1d ago
+
+---
+
+**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
+
+Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
+
+CNBC • 15h ago
 
 ---
 
@@ -193,39 +209,23 @@ USA Today • 1d ago
 
 ---
 
-**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
-
-Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
-
-CNBC • 12h ago
-
----
-
 **[Strategy Skips Bitcoin Buying and Selling for a Third Week. Here’s What It Did Instead.](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-6b8ef61c)**
 
-Barron's • 17h ago
+Barron's • 19h ago
 
 ---
 
 **[Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms](https://www.bloomberg.com/news/articles/2026-07-28/bitcoin-weakens-in-asia-trading-as-fed-rate-decision-looms)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Metaplanet's brokerage deal 'badly undersells' plans for bitcoin-backed 'Bitbonds,' Benchmark says](https://www.theblock.co/post/409752/benchmark-metaplanet-brokerage-deal-badly-undersells-plans-bitcoin-backed-bitbonds)**
+**[Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-holds-above-64-092540162.html)**
 
-Metaplanet envisions launching 4% to 6% bitcoin-backed bonds before eventually moving them on-chain with stablecoin settlement.
+Investing.com -- Bitcoin prices were closing in on $64,000 on Sunday lifted by pre-Fed positioning and a notable surge in options market activity as traders bet on a significant move targeting toward $72,000 by the end of July, following this week’s Federal Reserve meeting.
 
-The Block • 16h ago
-
----
-
-**[Bitcoin ETFs Bled Cash Last Week After Winning Streak](https://bitcoinmagazine.com/markets/bitcoin-etfs-see-investor-reversal)**
-
-The Bitcoin ETFs had taken in nearly $1 billion in new cash.
-
-Bitcoin Magazine • 14h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -245,7 +245,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 The alleged thieves infected 8,000 devices.
 
-⬆️ 41 • 💬 35 • 10h ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+⬆️ 43 • 💬 35 • 13h ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -253,7 +253,7 @@ The alleged thieves infected 8,000 devices.
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 5 • 💬 0 • 2d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 5 • 💬 0 • 3d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -277,7 +277,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 2 • 💬 0 • 2d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 2 • 💬 0 • 3d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -301,7 +301,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/sharecoin
 
-⬆️ 1 • 💬 1 • 5d ago • [GitHub](https://github.com/TVHeroes/sharecoin)
+⬆️ 1 • 💬 1 • 6d ago • [GitHub](https://github.com/TVHeroes/sharecoin)
 
 ---
 
@@ -309,7 +309,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The first Bitcoin newsletter that rewards you with sats while you learn about regulation, sovereignty, and legal developments.
 
-⬆️ 1 • 💬 0 • 10h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
+⬆️ 1 • 💬 0 • 13h ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
 
 ---
 
@@ -323,7 +323,7 @@ Thank you to Mint Mobile for partnering with us on this video! Visit our partner
 
 📺 The Graham Stephan Show
 
-👁️ 41K • 👍 2K • 💬 687 • ⏱️ 18:59 • 15h ago
+👁️ 45K • 👍 2K • 💬 729 • ⏱️ 18:59 • 18h ago
 
 ---
 
@@ -333,7 +333,7 @@ See if your SSN is for sale right now. My sponsor Cloaked will tell you for free
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 299 • 💬 197 • ⏱️ 9:19 • 9h ago
+👁️ 6K • 👍 330 • 💬 196 • ⏱️ 9:19 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 52K • 👍 1K • 💬 106 • ⏱️ 6:11 • 11h ago
+👁️ 57K • 👍 1K • 💬 106 • ⏱️ 6:11 • 13h ago
 
 ---
 
@@ -353,37 +353,7 @@ Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TI
 
 📺 Heresy Financial
 
-👁️ 29K • 👍 1K • 💬 299 • ⏱️ 14:33 • 18h ago
-
----
-
-**[Why Michael Saylor stopped buying Bitcoin](https://www.youtube.com/watch?v=G87Vy-dZbdw)**
-
-In this episode of The Daily Wolf, Scott Melker explains why several crypto companies and exchanges are shutting down while the ...
-
-📺 Yahoo Finance
-
-👁️ 8K • 👍 369 • 💬 120 • ⏱️ 14:53 • 14h ago
-
----
-
-**[Live Bitcoin Analysis: Clapping Season!](https://www.youtube.com/watch?v=xYCEOsWK7-E)**
-
-Live Bitcoin Trading & Technical Analysis with Zen Master JP Get 10% back on your fees with BTCC ...
-
-📺 Sin City Crypto
-
-👁️ 6K • 👍 287 • ⏱️ 4:26:35 • 2h ago
-
----
-
-**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 13K • 👍 408 • 💬 57 • ⏱️ 15:51 • 2d ago
+👁️ 30K • 👍 1K • 💬 304 • ⏱️ 14:33 • 21h ago
 
 ---
 
@@ -393,7 +363,27 @@ Let's provide an update to Bitcoin and its bear market resistance band, Come to 
 
 📺 Benjamin Cowen
 
-👁️ 79K • 👍 5K • 💬 197 • ⏱️ 8:59 • 1d ago
+👁️ 81K • 👍 5K • 💬 197 • ⏱️ 8:59 • 1d ago
+
+---
+
+**[Bitcoin Could Hit $1 Million If This Crisis Gets Worse](https://www.youtube.com/watch?v=qxVV1NpsJ5U)**
+
+Could Bitcoin reach $1 million? Maybe, but the path matters. This episode explores how an energy crisis, supply chain disruptions ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 212 • ⏱️ 21:12 • 1d ago
+
+---
+
+**[Bitcoin $200K EXPLOSION Will Be Faster Than You Imagine (Here&#39;s Why) | Samson Mow](https://www.youtube.com/watch?v=j_GMS4567S4)**
+
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
+
+📺 Savvy Finance
+
+👁️ 13K • 👍 409 • 💬 57 • ⏱️ 15:51 • 2d ago
 
 ---
 
@@ -403,17 +393,27 @@ Bitcoin #Crypto #finance Bitcoin rebounds above $65000 as Middle East tensions e
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 745 • 💬 320 • ⏱️ 1:01:29 • 16h ago
+👁️ 17K • 👍 759 • 💬 320 • ⏱️ 1:01:29 • 19h ago
 
 ---
 
-**[3 Crypto Exchanges Just Shut Down: Here&#39;s Why](https://www.youtube.com/watch?v=T7wqxGksW-c)**
+**[The Price of Money Just Changed... Why NO ONE Is Pricing Bitcoin Right!](https://www.youtube.com/watch?v=t4wjVIRsstc)**
 
-This breakdown explains the recurring patterns in every crypto market cycle that lead to the removal of weaker platforms.
+Money is expensive again, Wall Street is repricing every asset, and Warren Buffett is sitting on a record $397 billion in cash.
 
-📺 Coach JV
+📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 327 • ⏱️ 16:47 • 16h ago
+👁️ 18K • 👍 2K • 💬 175 • ⏱️ 16:47 • 12h ago
+
+---
+
+**[Live Bitcoin Analysis: Clapping Season!](https://www.youtube.com/watch?v=xYCEOsWK7-E)**
+
+Live Bitcoin Trading & Technical Analysis with Zen Master JP Get 10% back on your fees with BTCC ...
+
+📺 Sin City Crypto
+
+👁️ 6K • 👍 288 • ⏱️ 4:26:35 • 5h ago
 
 ---
 
