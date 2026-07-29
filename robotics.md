@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T21:29:21.081415+00:00'
+updated: '2026-07-29T22:32:01.241299+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 21:29 UTC  
+**Last Updated:** July 29, 2026 at 22:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reddit.com/r/robotics/comments/1v9jexw/trump_administration_bans_new_chinese_humanoid/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/) • 18h ago
+🔗 [reuters.com](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/) • 19h ago
 
 ---
 
 **[Foreign-produced mobile ground robots added to the FCC Covered List (DA 26-786)](https://www.reddit.com/r/robotics/comments/1va1i3g/foreignproduced_mobile_ground_robots_added_to_the/)**
 
-🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 4h ago
+🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 5h ago
 
 ---
 
 **[The depth and point cloud of 3D DTOF LIDAR HM-LD1 in dark environment](https://www.reddit.com/r/robotics/comments/1va1gi3/the_depth_and_point_cloud_of_3d_dtof_lidar_hmld1/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -70,7 +70,7 @@ After weeks of CAD and 3D printing, I realized that the motors I chose - Feetech
 
 Hey everyone, Just wanted to highlight a community pull request we received on our LeRobot fork (v6.1.1-beta branch). A user identified and fixed two issues in lerobot-teleoperate: Bug 1 — Missing alicia_d_leader in teleop.type: When trying to teleoperate with an Alicia-D Leader + Alicia-M Follower pair, the CLI would reject alicia_d_leader as an invalid choice. The fix adds it back to the valid options list in lerobot_teleoperate.py. Bug 2 — Missing teleop.directly_controls_robot support: When the teleoperator directly controls the robot via hardware (e.g., the leader arm is physically connected to the follower), the computer shouldn't re-send the action command — otherwise it duplicates. The flag existed in config but wasn't actually implemented in the teleoperate script. The PR adds the skip logic. PR here: https://github.com/Synria-Robotics/lerobot/pull/10 Big thanks to the contributor for the clean, well-documented fix. If you're running v6.1.1-beta with Alicia hardware, this PR is worth watching. And as always, issues and PRs are welcome!
 
-12h ago
+13h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey everyone, Just wanted to highlight a community pull request we received on o
 
 Working to make a fun open source STEM robot for begginers. Uses a custom edge impulse object detection model to play "fetch". Extras are the animated eyes, "ears", voice, and programmed character behavior. Currently testing the model but looking forward to releasing it for everyone soon.
 
-1d ago
+2d ago
 
 ---
 
@@ -110,19 +110,11 @@ If you train VLA / world-action models, you've probably noticed the training sid
 
 ## Google News: "robotics"
 
-**[How Brian Klos and Darragh de Stonndún Built Automated Industrial Robotics (AIR) Into an Engineering-Led Approach to American Manufacturing](https://www.usatoday.com/story/special/contributor-content/2026/07/29/how-brian-klos-and-darragh-de-stonndn-built-automated-industrial-robotics-air-into-an-engineering-le/91095756007/)**
+**[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
 
-The company operates in pharmaceutical production, precision assembly, and complex systems integration, sectors where the requirements for accuracy and consistency are unforgiving and where the relationship between an automation provider and a facility operator needs to be sustained and genuinely co
+Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
 
-USA Today • 2h ago
-
----
-
-**[$6M innovation center, robotics credentials and new hires signal big year at Indian Creek](https://wtov9.com/news/local/6m-innovation-center-robotics-credentials-and-new-hires-signal-big-year-at-indian-creek-indian-creek-robotics-program-fanuc-certification-innovation-center-jefferson-county-new-teachers-new-coaches-workforce-skills)**
-
-Students in the Indian Creek Local School District will be heading back to the classroom in about a month, and Superintendent T.C. Chappelear said the coming sc
-
-WTOV • 1h ago
+BBC • 23m ago
 
 ---
 
@@ -130,23 +122,31 @@ WTOV • 1h ago
 
 Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
-**[US bans foreign-made humanoid robots, targeting China over national security - ABC News](https://abcnews.com/Business/wireStory/us-bans-foreign-made-humanoid-robots-targeting-china-135179676)**
+**[Trump administration bans new Chinese humanoid robots](https://www.bbc.com/news/articles/cp9e2ex3ekyo)**
 
-The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns
+The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
-ABC News - Breaking News, Latest News and Videos • 14h ago
+BBC • 20h ago
 
 ---
 
-**[XYZ Robotics Advances Physical AI Through Real-World Data and Robot Learning](https://www.wboc.com/online_features/press_releases/xyz-robotics-advances-physical-ai-through-real-world-data-and-robot-learning/article_501dfdf3-a9c5-5518-94c3-ec31efec6a75.html)**
+**[How Brian Klos and Darragh de Stonndún Built Automated Industrial Robotics (AIR) Into an Engineering-Led Approach to American Manufacturing](https://www.usatoday.com/story/special/contributor-content/2026/07/29/how-brian-klos-and-darragh-de-stonndn-built-automated-industrial-robotics-air-into-an-engineering-le/91095756007/)**
 
-Company Secures 3,000 Real-World Data Points Daily at Café Locations South Korean AI robotics company XYZ Robotics Inc.
+The company operates in pharmaceutical production, precision assembly, and complex systems integration, sectors where the requirements for accuracy and consistency are unforgiving and where the relationship between an automation provider and a facility operator needs to be sustained and genuinely co
 
-WBOC TV • 11h ago
+USA Today • 3h ago
+
+---
+
+**[$6M innovation center, robotics credentials and new hires signal big year at Indian Creek](https://wtov9.com/news/local/6m-innovation-center-robotics-credentials-and-new-hires-signal-big-year-at-indian-creek-indian-creek-robotics-program-fanuc-certification-innovation-center-jefferson-county-new-teachers-new-coaches-workforce-skills)**
+
+Students in the Indian Creek Local School District will be heading back to the classroom in about a month, and Superintendent T.C. Chappelear said the coming sc
+
+WTOV • 2h ago
 
 ---
 
@@ -166,6 +166,12 @@ MIT News • 1d ago
 
 ---
 
+**[Robotics giant plans major expansion in Michigan](https://www.mlive.com/news/detroit/2026/07/robotics-giant-plans-major-expansion-in-michigan.html)**
+
+MLive.com • 1d ago
+
+---
+
 **[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
 
 Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
@@ -178,15 +184,7 @@ calcalistech.com • 2d ago
 
 Senior executive sees Japan as potential engineering hub
 
-Nikkei Asia • 1d ago
-
----
-
-**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
-
-As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
-
-The Information • 2d ago
+asia.nikkei.com • 1d ago
 
 ---
 
@@ -194,13 +192,23 @@ The Information • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[US bans imports of new Chinese robots and power inverters in latest tech crackdown](https://www.youtube.com/watch?v=qZsrLRxlauU)**
+**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Citing threats to US national security, the Trump ...
+The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
 
-📺 South China Morning Post
+📺 KhanFlicks
 
-👁️ 16K • 👍 738 • 💬 183 • ⏱️ 1:48 • 10h ago
+👁️ 178 • 💬 12 • ⏱️ 3:45 • 2h ago
+
+---
+
+**[US Bans Chinese Robots &amp; Power Inverters: Here&#39;s Why | FP Explains](https://www.youtube.com/watch?v=yDp9rFiqJrM)**
+
+The Trump administration announced a ban on the import of new Chinese-made advanced robots into the United States, citing ...
+
+📺 Firstpost
+
+👁️ 2K • 👍 37 • 💬 39 • ⏱️ 4:55 • 7h ago
 
 ---
 
@@ -210,35 +218,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 341K • 👍 4K • 💬 2K • ⏱️ 2:15 • 1d ago
-
----
-
-**[China will soon be leading in Robotics Worldwide...](https://www.youtube.com/watch?v=zPgq4fIYDSE)**
-
-📺 Tech OverWatch
-
-👁️ 6K • 👍 542 • 💬 35 • ⏱️ 1:03 • 5h ago
-
----
-
-**[Tech News 2216 || AI Open Weight, Galaxy AI Glasses, WhatsApp, Tau Robotics, Infosys, PS 5 Sale.Etc.](https://www.youtube.com/watch?v=8Tds9CH6gos)**
-
-Tech News 2216 || AI Open Weight, Galaxy AI Glasses, WhatsApp, Tau Robotics, Infosys, PS 5 Price Hike.Etc... Deal Of The Day ...
-
-📺 Prasadtechintelugu
-
-👁️ 89K • 👍 6K • 💬 246 • ⏱️ 9:12 • 7h ago
-
----
-
-**[Inside the Inspire RH56DFQ Robotic Hand | Complete Teardown](https://www.youtube.com/watch?v=nhOiGu9qqzY)**
-
-In this episode of Munro Live, we perform a complete teardown of the Inspire Robots RH56DFQ robotic hand to examine the ...
-
-📺 Munro Live
-
-👁️ 19K • 👍 180 • 💬 14 • ⏱️ 20:04 • 1d ago
+👁️ 357K • 👍 4K • 💬 2K • ⏱️ 2:15 • 1d ago
 
 ---
 
@@ -248,7 +228,7 @@ Last week, World Labs announced its acquisition of SceniX, bringing together two
 
 📺 a16z
 
-👁️ 12K • 💬 20 • ⏱️ 42:21 • 1d ago
+👁️ 13K • 💬 20 • ⏱️ 42:21 • 1d ago
 
 ---
 
@@ -258,37 +238,57 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 6K • 👍 168 • 💬 98 • ⏱️ 3:10 • 2d ago
+👁️ 6K • 👍 173 • 💬 101 • ⏱️ 3:10 • 2d ago
 
 ---
 
-**[Why is the FCC banning new human-like robots from China?](https://www.youtube.com/watch?v=rao2KMyxH_0)**
+**[AGIBOT A3 Revealed Future Humanoid Robot Technology Unboxing](https://www.youtube.com/watch?v=mv4eXwJ05So)**
 
-The Trump administration said it's banning new Chinese humanoid robots, topped with AI-enabled "brains," as part of an attempt ...
+The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanced artificial intelligence, impressive mobility ...
 
-📺 Reuters
+📺 DPCcars
 
-👁️ 7K • 👍 155 • 💬 64 • ⏱️ 1:27 • 20h ago
-
----
-
-**[Jared Isaacman: NASA&#39;s Moon Base by 2028, Optimus Robots on the Moon, and 15 Years to Mars | Ep #274](https://www.youtube.com/watch?v=nV_lyWrkBs8)**
-
-The mates chat with Jared Isaacman on NASA's plan for a Moon base by 2028, Optimus Robots on the Moon, and exploring UAPs ...
-
-📺 Peter H. Diamandis
-
-👁️ 103K • 👍 3K • 💬 461 • ⏱️ 1:27:17 • 2d ago
+👁️ 3K • 👍 30 • 💬 7 • ⏱️ 2:46 • 1d ago
 
 ---
 
-**[What Should We Call This? 😳 #engineering #technology #robot](https://www.youtube.com/watch?v=vLtOhVjhReE)**
+**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
 
-One of the strangest kinematic designs you'll ever see This is a Parallel Axis Tripteron concept. Instead of stacking heavy ...
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
 
-📺 mechdesign98
+📺 CNET
 
-👁️ 9K • 👍 96 • 💬 11 • ⏱️ 0:10 • 6h ago
+👁️ 19K • 👍 522 • 💬 28 • ⏱️ 4:23 • 3d ago
+
+---
+
+**[US bans imports of new Chinese robots and power inverters in latest tech crackdown](https://www.youtube.com/watch?v=qZsrLRxlauU)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Citing threats to US national security, the Trump ...
+
+📺 South China Morning Post
+
+👁️ 18K • 👍 819 • 💬 200 • ⏱️ 1:48 • 11h ago
+
+---
+
+**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
+
+One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
+
+📺 NBC News
+
+👁️ 17K • 👍 176 • 💬 96 • ⏱️ 5:29 • 6d ago
+
+---
+
+**[Inside the Inspire RH56DFQ Robotic Hand | Complete Teardown](https://www.youtube.com/watch?v=nhOiGu9qqzY)**
+
+In this episode of Munro Live, we perform a complete teardown of the Inspire Robots RH56DFQ robotic hand to examine the ...
+
+📺 Munro Live
+
+👁️ 19K • 👍 183 • 💬 14 • ⏱️ 20:04 • 1d ago
 
 ---
 

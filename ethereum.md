@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-29T21:29:21.078558+00:00'
+updated: '2026-07-29T22:32:01.238626+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 21:29 UTC  
+**Last Updated:** July 29, 2026 at 22:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,883.69
+### $1,909.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** +0.3%  
-**30d:** +19.8%  
-**90d:** -17.9%  
-**1y:** -50.6%  
+**24h:** -0.9%  
+**7d:** +1.5%  
+**30d:** +21.2%  
+**90d:** -17.0%  
+**1y:** -50.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.95B
+**Market Cap:** $230.05B
 Rank #2
 
 **Circulating Supply:** 120,682,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.5%
 
 **All-Time Low:** $0.43
-+434142.8%
++440126.9%
 
 ---
 
@@ -152,27 +152,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[As crypto perpetual futures boom, Ethereum’s role is shifting](https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting)**
+
+Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
+
+CoinDesk • 4h ago
+
+---
+
 **[Ethereum Foundation Board Update](https://blog.ethereum.org/2026/07/29/ef-board-update)**
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 9h ago
+blog.ethereum.org • 10h ago
 
 ---
 
-**[Morgan Stanley debuts Ethereum and Solana ETFs with market's lowest fee, staking rewards](https://www.theblock.co/post/409898/morgan-stanley-debuts-ethereum-solana-etfs-markets-lowest-fee-staking-rewards)**
+**[$430 million in Ethereum just moved, here's why market is paying attention](https://finance.yahoo.com/markets/crypto/articles/430-million-ethereum-just-moved-210000477.html)**
 
-The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
+Something significant happened on the Ethereum blockchain on Tuesday. Whales sold or redistributed 226,435 ETH, worth approximately $430 million, in a single 24-hour window, marking one of the largest spikes in whale activity seen in recent months. The movement was flagged by crypto analyst Ali ...
 
-The Block • 1d ago
-
----
-
-**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-wobble-fed-holds-184345987.html)**
-
-Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2h ago
 
 The Ethereum Foundation has named a well-known industry veteran to its board of directors. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -188,15 +188,23 @@ Yahoo Finance • 1h ago
 
 The Ethereum Foundation adds privacy and security advocate pcaversaccio to its board.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[As crypto perpetual futures boom, Ethereum’s role is shifting](https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting)**
+**[Ethereum L2 ecosystem loses momentum as TVL drops to 2-year low](https://www.theblock.co/post/409811/ethereum-l2-ecosystem-loses-momentum-as-tvl-drops-to-two-year-low)**
 
-Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
+Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a level last seen in 2023.
 
-CoinDesk • 3h ago
+The Block • 1d ago
+
+---
+
+**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady)**
+
+Fed Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
+
+Decrypt • 3h ago
 
 ---
 
@@ -208,23 +216,19 @@ The Motley Fool • 1d ago
 
 ---
 
+**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+
+The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
+
+TradingView • 2d ago
+
+---
+
 **[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
-
----
-
-**[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
-
-ccn.com • 8h ago
-
----
-
-**[$430 million in Ethereum just moved, here's why market is paying attention](https://www.thestreet.com/crypto/markets/430-million-in-ethereum-just-moved-heres-why-market-is-paying-attention)**
-
-thestreet.com • 3h ago
+fortune.com • 4h ago
 
 ---
 
@@ -232,23 +236,23 @@ thestreet.com • 3h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Congressional Recess Looms Over Clarity Act &amp; Bitcoin, Ethereum&#39;s &quot;Relative Strength&quot;](https://www.youtube.com/watch?v=d4lk4RdEo3o)**
+
+Congress goes on recess next Friday and the Clarity Act still has not been voted on by the Senate. @CharlesSchwab's Nathan ...
+
+📺 Schwab Network
+
+👁️ 67 • 👍 3 • ⏱️ 9:18 • 31m ago
+
+---
+
 **[Ethereum Hits Key Resistance: What Happens Next?](https://www.youtube.com/watch?v=qOEicNriYSI)**
 
 In this video I break down the current Ethereum price action and the potential for a wave two reversal. I analyze the key resistance ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 111 • 💬 2 • ⏱️ 6:10 • 7h ago
-
----
-
-**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
-
-Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
-
-📺 Thinking Crypto
-
-👁️ 17K • 👍 1K • 💬 159 • ⏱️ 20:27 • 18h ago
+👁️ 2K • 👍 125 • 💬 2 • ⏱️ 6:10 • 8h ago
 
 ---
 
@@ -258,37 +262,17 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 98K • 👍 2K • 💬 259 • ⏱️ 6:11 • 2d ago
+👁️ 100K • 👍 2K • 💬 263 • ⏱️ 6:11 • 2d ago
 
 ---
 
-**[BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QBZ4BBrw0y4)**
+**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
 
-BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
 
-📺 Crypto World
+📺 Thinking Crypto
 
-👁️ 1K • 👍 97 • 💬 72 • ⏱️ 24:19 • 3h ago
-
----
-
-**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
-
-Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
-
-📺 Lark Davis
-
-👁️ 3K • 👍 82 • 💬 7 • ⏱️ 0:57 • 17h ago
-
----
-
-**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
-
-Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 667 • 💬 508 • ⏱️ 12:59 • 1d ago
+👁️ 17K • 👍 1K • 💬 162 • ⏱️ 20:27 • 19h ago
 
 ---
 
@@ -302,23 +286,23 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 ---
 
-**[ETHEREUM: THE RUN IS ABOUT TO BEGIN](https://www.youtube.com/watch?v=f_SWCbRpIWw)**
+**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
 
-📺 Jordan Camirand
+📺 Lark Davis
 
-👁️ 12K • 👍 649 • 💬 586 • ⏱️ 13:03 • 2d ago
+👁️ 3K • 👍 91 • 💬 7 • ⏱️ 0:57 • 18h ago
 
 ---
 
-**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
+**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
 
-A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
+Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
 
-📺 Giving Hearts
+📺 Crypto Capital Venture
 
-👁️ 26K • 👍 80 • ⏱️ 0:06 • 20h ago
+👁️ 13K • 👍 669 • 💬 509 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -329,6 +313,26 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 📺 Gerhard - Bitcoin Strategy
 
 👁️ 3K • 👍 90 • 💬 34 • ⏱️ 5:45 • 2d ago
+
+---
+
+**[BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QBZ4BBrw0y4)**
+
+BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 134 • 💬 90 • ⏱️ 24:19 • 5h ago
+
+---
+
+**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
+
+A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
+
+📺 Giving Hearts
+
+👁️ 29K • 👍 84 • ⏱️ 0:06 • 21h ago
 
 ---
 
