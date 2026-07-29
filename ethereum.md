@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-29T19:16:44.125891+00:00'
+updated: '2026-07-29T20:29:53.101467+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 19:16 UTC  
+**Last Updated:** July 29, 2026 at 20:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,897.98
+### $1,883.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +1.9%  
-**30d:** +21.7%  
-**90d:** -16.6%  
-**1y:** -49.8%  
+**24h:** -2.1%  
+**7d:** +0.3%  
+**30d:** +19.8%  
+**90d:** -17.9%  
+**1y:** -50.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.13B
+**Market Cap:** $226.95B
 Rank #2
 
 **Circulating Supply:** 120,682,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.6%
+-62.0%
 
 **All-Time Low:** $0.43
-+438607.2%
++434142.8%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 7h ago
+ethereum.org • 8h ago
 
 ---
 
@@ -172,7 +172,23 @@ The Block • 1d ago
 
 Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Foundation Names Industry Veteran To Board Of Directors](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-names-industry-veteran-193200796.html)**
+
+The Ethereum Foundation has named a well-known industry veteran to its board of directors. ...
+
+Yahoo Finance • 57m ago
+
+---
+
+**[The Ethereum Foundation Welcomes Its Newest Board Member](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-welcomes-newest-board-191639800.html)**
+
+The Ethereum Foundation adds privacy and security advocate pcaversaccio to its board.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +196,7 @@ Yahoo Finance • 32m ago
 
 Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -192,39 +208,23 @@ The Motley Fool • 1d ago
 
 ---
 
-**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
-
-The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
-
-tradingview.com • 2d ago
-
----
-
 **[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 1h ago
 
 ---
 
 **[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
 
-CCN.com • 6h ago
+ccn.com • 7h ago
 
 ---
 
 **[$430 million in Ethereum just moved, here's why market is paying attention](https://www.thestreet.com/crypto/markets/430-million-in-ethereum-just-moved-heres-why-market-is-paying-attention)**
 
-thestreet.com • 1h ago
-
----
-
-**[Lido Unveils Curated Module v2 in Ethereum Staking Overhaul](https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul)**
-
-Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
-
-The Defiant • 1d ago
+thestreet.com • 2h ago
 
 ---
 
@@ -238,17 +238,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 1 • ⏱️ 6:10 • 5h ago
-
----
-
-**[BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QBZ4BBrw0y4)**
-
-BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 391 • 👍 33 • 💬 14 • ⏱️ 24:19 • 1h ago
+👁️ 2K • 👍 111 • 💬 2 • ⏱️ 6:10 • 6h ago
 
 ---
 
@@ -258,7 +248,7 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 📺 Thinking Crypto
 
-👁️ 16K • 👍 1K • 💬 154 • ⏱️ 20:27 • 15h ago
+👁️ 17K • 👍 1K • 💬 159 • ⏱️ 20:27 • 17h ago
 
 ---
 
@@ -268,17 +258,17 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 95K • 👍 2K • 💬 255 • ⏱️ 6:11 • 1d ago
+👁️ 98K • 👍 2K • 💬 259 • ⏱️ 6:11 • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+**[BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QBZ4BBrw0y4)**
 
-Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Capital Venture
+📺 Crypto World
 
-👁️ 13K • 👍 663 • 💬 484 • ⏱️ 12:59 • 1d ago
+👁️ 1K • 👍 97 • 💬 72 • ⏱️ 24:19 • 2h ago
 
 ---
 
@@ -288,7 +278,17 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 2K • 👍 73 • 💬 7 • ⏱️ 0:57 • 15h ago
+👁️ 3K • 👍 82 • 💬 7 • ⏱️ 0:57 • 16h ago
+
+---
+
+**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+
+Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+
+📺 Crypto Capital Venture
+
+👁️ 13K • 👍 667 • 💬 508 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -302,33 +302,33 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 ---
 
-**[FOMC Live Trading | Gold and Crypto Trading Live | BTC ETH and XAU Live Trading](https://www.youtube.com/watch?v=4fkXr4ESIHA)**
-
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
-
-📺 Invest For Wealth
-
-👁️ 3K • 👍 307 • 4h ago
-
----
-
-**[WILL ETH BREAKOUT AFTER FOMC? (Ethereum Update)](https://www.youtube.com/watch?v=yydkmeuwh9o)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 171 • 👍 9 • 💬 49 • ⏱️ 4:46 • 10h ago
-
----
-
 **[ETHEREUM: THE RUN IS ABOUT TO BEGIN](https://www.youtube.com/watch?v=f_SWCbRpIWw)**
 
 The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 12K • 👍 648 • 💬 586 • ⏱️ 13:03 • 2d ago
+👁️ 12K • 👍 649 • 💬 586 • ⏱️ 13:03 • 2d ago
+
+---
+
+**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
+
+A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
+
+📺 Giving Hearts
+
+👁️ 26K • 👍 80 • ⏱️ 0:06 • 19h ago
+
+---
+
+**[🤩 Ethereum Breaking Out! - ETH Crypto Analysis](https://www.youtube.com/watch?v=YfRMuuZiZ6g)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 90 • 💬 34 • ⏱️ 5:45 • 2d ago
 
 ---
 

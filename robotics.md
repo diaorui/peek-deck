@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T19:16:44.129131+00:00'
+updated: '2026-07-29T20:29:53.104751+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 19:16 UTC  
+**Last Updated:** July 29, 2026 at 20:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,23 +110,31 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The company operates in pharmaceutical production, precision assembly, and complex systems integration, sectors where the requirements for accuracy and consistency are unforgiving and where the relationship between an automation provider and a facility operator needs to be sustained and genuinely co
 
-USA Today • 43m ago
+USA Today • 1h ago
 
 ---
 
-**[US bans foreign-made humanoid robots, targeting China over national security](https://www.washingtonpost.com/business/2026/07/29/china-us-humanoid-robots-ban-tech/f1072318-8b11-11f1-8912-d71e69d679d7_story.html)**
+**[$6M innovation center, robotics credentials and new hires signal big year at Indian Creek](https://wtov9.com/news/local/6m-innovation-center-robotics-credentials-and-new-hires-signal-big-year-at-indian-creek-indian-creek-robotics-program-fanuc-certification-innovation-center-jefferson-county-new-teachers-new-coaches-workforce-skills)**
 
-The U.S. Federal Communications Commission is banning imports of new foreign-made humanoid robots and power inverters, citing national security risks
+Students in the Indian Creek Local School District will be heading back to the classroom in about a month, and Superintendent T.C. Chappelear said the coming sc
 
-The Washington Post • 1h ago
+WTOV • 51m ago
 
 ---
 
-**[Trump administration bans new Chinese humanoid robots](https://www.bbc.com/news/articles/cp9e2ex3ekyo)**
+**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
 
-The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
+Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
 
-BBC • 16h ago
+Business Insider • 3h ago
+
+---
+
+**[US bans foreign-made humanoid robots, targeting China over national security - ABC News](https://abcnews.com/Business/wireStory/us-bans-foreign-made-humanoid-robots-targeting-china-135179676)**
+
+The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns
+
+ABC News - Breaking News, Latest News and Videos • 13h ago
 
 ---
 
@@ -134,7 +142,7 @@ BBC • 16h ago
 
 Company Secures 3,000 Real-World Data Points Daily at Café Locations South Korean AI robotics company XYZ Robotics Inc.
 
-wboc.com • 9h ago
+WBOC TV • 10h ago
 
 ---
 
@@ -142,7 +150,7 @@ wboc.com • 9h ago
 
 Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
 
-NVIDIA Developer • 22h ago
+NVIDIA Developer • 23h ago
 
 ---
 
@@ -151,14 +159,6 @@ NVIDIA Developer • 22h ago
 The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
 
 MIT News • 1d ago
-
----
-
-**[How to invest in humanoid robotics, the potential $5 trillion market that’s straight out of science fiction](https://www.businessinsider.com/humanoid-robotics-stocks-etfs-how-to-invest-koid-labor-manufacturing-2026-7)**
-
-Robots that can replace human workers may be closer than ever because of the AI boom. Here's how some investing pros are getting in early on the trend.
-
-Business Insider • 1d ago
 
 ---
 
@@ -190,23 +190,23 @@ The Information • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[US bans imports of new Chinese robots and power inverters in latest tech crackdown](https://www.youtube.com/watch?v=qZsrLRxlauU)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Citing threats to US national security, the Trump ...
+
+📺 South China Morning Post
+
+👁️ 16K • 👍 738 • 💬 183 • ⏱️ 1:48 • 9h ago
+
+---
+
 **[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
 
 Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
 
 📺 NBC News
 
-👁️ 319K • 👍 4K • 💬 2K • ⏱️ 2:15 • 1d ago
-
----
-
-**[AGIBOT A3 Revealed Future Humanoid Robot Technology Unboxing](https://www.youtube.com/watch?v=mv4eXwJ05So)**
-
-The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanced artificial intelligence, impressive mobility ...
-
-📺 DPCcars
-
-👁️ 3K • 👍 25 • 💬 7 • ⏱️ 2:46 • 1d ago
+👁️ 341K • 👍 4K • 💬 2K • ⏱️ 2:15 • 1d ago
 
 ---
 
@@ -214,37 +214,37 @@ The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanc
 
 📺 Tech OverWatch
 
-👁️ 376 • 👍 14 • 💬 1 • ⏱️ 1:03 • 3h ago
+👁️ 6K • 👍 542 • 💬 35 • ⏱️ 1:03 • 4h ago
 
 ---
 
-**[The Robot That Delivers My Storage Bins Is ALIVE](https://www.youtube.com/watch?v=J6XCuaFs-HQ)**
+**[Tech News 2216 || AI Open Weight, Galaxy AI Glasses, WhatsApp, Tau Robotics, Infosys, PS 5 Sale.Etc.](https://www.youtube.com/watch?v=8Tds9CH6gos)**
 
-https://pcbway.com/g/t69mBf Each new pcbway membership will get their first $5 welcome coupon for free. I built a robot that ...
+Tech News 2216 || AI Open Weight, Galaxy AI Glasses, WhatsApp, Tau Robotics, Infosys, PS 5 Price Hike.Etc... Deal Of The Day ...
 
-📺 Hobby Built
+📺 Prasadtechintelugu
 
-👁️ 56K • 👍 3K • 💬 232 • ⏱️ 54:19 • 1d ago
-
----
-
-**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 18K • 👍 509 • 💬 27 • ⏱️ 4:23 • 3d ago
+👁️ 89K • 👍 6K • 💬 246 • ⏱️ 9:12 • 6h ago
 
 ---
 
-**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
+**[Inside the Inspire RH56DFQ Robotic Hand | Complete Teardown](https://www.youtube.com/watch?v=nhOiGu9qqzY)**
 
-One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
+In this episode of Munro Live, we perform a complete teardown of the Inspire Robots RH56DFQ robotic hand to examine the ...
 
-📺 NBC News
+📺 Munro Live
 
-👁️ 17K • 👍 174 • 💬 95 • ⏱️ 5:29 • 6d ago
+👁️ 19K • 👍 180 • 💬 14 • ⏱️ 20:04 • 1d ago
+
+---
+
+**[Solving the Hardest Problem in Robotics | Fei-Fei Li with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
+
+Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
+
+📺 a16z
+
+👁️ 12K • 💬 20 • ⏱️ 42:21 • 1d ago
 
 ---
 
@@ -254,27 +254,7 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 6K • 👍 167 • 💬 98 • ⏱️ 3:10 • 1d ago
-
----
-
-**[The Nightmare Robot Dog](https://www.youtube.com/watch?v=eL3qcDOma7s)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UC4pNDofN0Xh-z2bhh62g8Ow/join Music: Yhello ...
-
-📺 Not What You Think
-
-👁️ 215K • 👍 11K • 💬 562 • ⏱️ 0:29 • 1d ago
-
----
-
-**[The Robot Hand That Can Grab Anything](https://www.youtube.com/watch?v=hERNweUccK4)**
-
-Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" for 20% off.
-
-📺 The Action Lab
-
-👁️ 450K • 👍 12K • 💬 927 • ⏱️ 7:44 • 4d ago
+👁️ 6K • 👍 168 • 💬 98 • ⏱️ 3:10 • 1d ago
 
 ---
 
@@ -284,7 +264,27 @@ The Trump administration said it's banning new Chinese humanoid robots, topped w
 
 📺 Reuters
 
-👁️ 6K • 👍 153 • 💬 62 • ⏱️ 1:27 • 18h ago
+👁️ 7K • 👍 155 • 💬 64 • ⏱️ 1:27 • 19h ago
+
+---
+
+**[Jared Isaacman: NASA&#39;s Moon Base by 2028, Optimus Robots on the Moon, and 15 Years to Mars | Ep #274](https://www.youtube.com/watch?v=nV_lyWrkBs8)**
+
+The mates chat with Jared Isaacman on NASA's plan for a Moon base by 2028, Optimus Robots on the Moon, and exploring UAPs ...
+
+📺 Peter H. Diamandis
+
+👁️ 103K • 👍 3K • 💬 461 • ⏱️ 1:27:17 • 2d ago
+
+---
+
+**[What Should We Call This? 😳 #engineering #technology #robot](https://www.youtube.com/watch?v=vLtOhVjhReE)**
+
+One of the strangest kinematic designs you'll ever see This is a Parallel Axis Tripteron concept. Instead of stacking heavy ...
+
+📺 mechdesign98
+
+👁️ 9K • 👍 96 • 💬 11 • ⏱️ 0:10 • 5h ago
 
 ---
 
