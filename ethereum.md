@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-29T16:21:55.510616+00:00'
+updated: '2026-07-29T17:47:37.840857+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 16:21 UTC  
+**Last Updated:** July 29, 2026 at 17:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.5%  
-**7d:** +0.7%  
-**30d:** +20.3%  
-**90d:** -17.6%  
-**1y:** -50.3%  
+**7d:** +1.2%  
+**30d:** +20.9%  
+**90d:** -17.2%  
+**1y:** -50.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.57B
+**Market Cap:** $229.13B
 Rank #2
 
 **Circulating Supply:** 120,682,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.7%
+-61.6%
 
 **All-Time Low:** $0.43
-+437219.1%
++438607.2%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 4h ago
+ethereum.org • 5h ago
 
 ---
 
@@ -168,11 +168,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, July 29, 2026: Crypto investors watching the Fed decision closely](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-29-2026-crypto-investors-watching-the-fed-decision-closely-131641825.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Gain Ahead of Fed Rate Cut Decision: Analyst Asks Investors to 'Mark Your Calendar' for Next BTC Bottom](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-gain-020400354.html)**
 
-Bitcoin opened at $63,853.49 on Wednesday, July 29, 2026, 0.2% higher than Tuesday's opening price. As of 8:56 a.m. ET, the price of bitcoin moved up to $64,244.18. Ethereum opened at $1,919.73 on Wednesday, up 1.5% from Tuesday's opening price. The price of ethereum moved to $1,904.82 as of 8:56 a.m. ET.
+Leading cryptocurrencies rose slightly on Tuesday as investors weighed renewed tensions in the Middle East and the Federal Reserve’s upcoming decision on interest rates. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.01%$63,842.10Ethereum (CRYPTO: ETH) +2.16%$1,913.42XRP (CRYPTO: XRP) +1.87%$1.07Solana (CRYPTO: SOL) +0.79%$73.67Dogecoin (CRYPTO: DOGE) +1.72%$0.07071 Crypto Market Gains Bitcoin rallied as high as $64,100 but ran into resistance, with 24-ho
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -192,17 +192,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum, Solana led crypto hack losses in H1 2026: Blockaid](https://www.tradingview.com/news/cointelegraph:b5b0378c6094b:0-ethereum-solana-led-crypto-hack-losses-in-h1-2026-blockaid/)**
+**[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
 
-Crypto losses topped $1 billion in the first half of 2026 as the industry recorded its highest number of hacks in a six-month period, according to onchain security platform Blockaid.Ethereum and Solana recorded the largest losses from incidents affecting their networks, with roughly $332 million an…
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-TradingView • 1d ago
+Fortune • 4h ago
+
+---
+
+**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+
+The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
+
+TradingView • 2d ago
 
 ---
 
 **[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -214,19 +222,11 @@ The Defiant • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
-
----
-
 **[Ethereum: Institutional Funding Round Closes](https://blockchain.news/flashnews/ethereum-institutional-funding-round-closes)**
 
 Ethereum co-founders Joseph Lubin and Mihai Alisie anchor @ethereuminsti ecosystem funding round for institutional adoption at ETH $1895.36.
 
-blockchain.news • 1h ago
+blockchain.news • 2h ago
 
 ---
 
@@ -240,7 +240,17 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 506 • 👍 42 • ⏱️ 6:10 • 2h ago
+👁️ 1K • 👍 94 • 💬 1 • ⏱️ 6:10 • 4h ago
+
+---
+
+**[BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QBZ4BBrw0y4)**
+
+BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 391 • 👍 33 • 💬 14 • ⏱️ 24:19 • 17m ago
 
 ---
 
@@ -250,7 +260,7 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 📺 Thinking Crypto
 
-👁️ 15K • 👍 963 • 💬 130 • ⏱️ 20:27 • 12h ago
+👁️ 16K • 👍 1K • 💬 154 • ⏱️ 20:27 • 14h ago
 
 ---
 
@@ -260,27 +270,7 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 92K • 👍 2K • 💬 252 • ⏱️ 6:11 • 1d ago
-
----
-
-**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
-
-Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
-
-📺 Lark Davis
-
-👁️ 2K • 👍 56 • 💬 6 • ⏱️ 0:57 • 12h ago
-
----
-
-**[WILL ETH BREAKOUT AFTER FOMC? (Ethereum Update)](https://www.youtube.com/watch?v=yydkmeuwh9o)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 129 • 👍 8 • 💬 50 • ⏱️ 4:46 • 8h ago
+👁️ 95K • 👍 2K • 💬 255 • ⏱️ 6:11 • 1d ago
 
 ---
 
@@ -290,7 +280,17 @@ Are these fear headlines driving Bitcoin price analysis or just market manipulat
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 648 • 💬 484 • ⏱️ 12:59 • 1d ago
+👁️ 13K • 👍 663 • 💬 484 • ⏱️ 12:59 • 1d ago
+
+---
+
+**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
+
+Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 73 • 💬 7 • ⏱️ 0:57 • 13h ago
 
 ---
 
@@ -300,7 +300,27 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 📺 The Rollup
 
-👁️ 2K • 👍 33 • 💬 6 • ⏱️ 6:40 • 1d ago
+👁️ 2K • 👍 35 • 💬 6 • ⏱️ 6:40 • 1d ago
+
+---
+
+**[FOMC Live Trading | Gold and Crypto Trading Live | BTC ETH and XAU Live Trading](https://www.youtube.com/watch?v=4fkXr4ESIHA)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 3K • 👍 307 • 2h ago
+
+---
+
+**[WILL ETH BREAKOUT AFTER FOMC? (Ethereum Update)](https://www.youtube.com/watch?v=yydkmeuwh9o)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 171 • 👍 9 • 💬 49 • ⏱️ 4:46 • 9h ago
 
 ---
 
@@ -310,27 +330,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 12K • 👍 646 • 💬 586 • ⏱️ 13:03 • 2d ago
-
----
-
-**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
-
-A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
-
-📺 Giving Hearts
-
-👁️ 16K • 👍 59 • ⏱️ 0:06 • 15h ago
-
----
-
-**[🤩 Ethereum Breaking Out! - ETH Crypto Analysis](https://www.youtube.com/watch?v=YfRMuuZiZ6g)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 3K • 👍 87 • 💬 34 • ⏱️ 5:45 • 2d ago
+👁️ 12K • 👍 648 • 💬 586 • ⏱️ 13:03 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T16:21:55.513992+00:00'
+updated: '2026-07-29T17:47:37.846406+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 16:21 UTC  
+**Last Updated:** July 29, 2026 at 17:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Putting this little companion robot together today. He did not smoke or catch on fire when I attached a 4S LiPo battery to him so feeling pretty good about life right now. A lot more to do but sometimes the little things in robotics are the best ones. He powered up. He didn't smoke out. I'm happy. Jetson Orin on board. More to come.
 
-2d ago
+3d ago
 
 ---
 
@@ -110,15 +110,15 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
-BBC • 13h ago
+BBC • 15h ago
 
 ---
 
-**[XYZ Robotics Advances Physical AI Through Real-World Data and Robot Learning](https://www.wboc.com/online_features/press_releases/xyz-robotics-advances-physical-ai-through-real-world-data-and-robot-learning/article_501dfdf3-a9c5-5518-94c3-ec31efec6a75.html)**
+**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
 
-Company Secures 3,000 Real-World Data Points Daily at Café Locations South Korean AI robotics company XYZ Robotics Inc.
+Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
 
-WBOC TV • 6h ago
+Business Insider • 40m ago
 
 ---
 
@@ -126,15 +126,7 @@ WBOC TV • 6h ago
 
 The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns.
 
-AP News • 4h ago
-
----
-
-**[Walberg Sends Letter to Sec. Lutnick Regarding Risks of Foreign Humanoid Robot Technology](https://walberg.house.gov/media/press-releases/walberg-sends-letter-sec-lutnick-regarding-risks-foreign-humanoid-robot)**
-
-Yesterday, Congressman Tim Walberg (MI-05) sent a letter to Secretary of Commerce Howard Lutnick urging the Department of Commerce to investigate the national security risks associated with Hypserscale Data in Dowagiac, Michigan, assembling humanoid robots made with components from AGIBOT, a Shanghai, China based manufacturer.
-
-Congressman Tim Walberg | (.gov) • 2h ago
+AP News • 5h ago
 
 ---
 
@@ -142,15 +134,15 @@ Congressman Tim Walberg | (.gov) • 2h ago
 
 The action is part of a wider US effort to reduce reliance on Chinese technology.
 
-Al Jazeera • 3h ago
+Al Jazeera • 4h ago
 
 ---
 
-**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
+**[Walberg Sends Letter to Sec. Lutnick Regarding Risks of Foreign Humanoid Robot Technology](http://walberg.house.gov/media/press-releases/walberg-sends-letter-sec-lutnick-regarding-risks-foreign-humanoid-robot)**
 
-Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
+Yesterday, Congressman Tim Walberg (MI-05) sent a letter to Secretary of Commerce Howard Lutnick urging the Department of Commerce to investigate the national security risks associated with Hypserscale Data in Dowagiac, Michigan, assembling humanoid robots made with components from AGIBOT, a Shanghai, China based manufacturer.
 
-NVIDIA Developer • 19h ago
+Congressman Tim Walberg | (.gov) • 3h ago
 
 ---
 
@@ -162,11 +154,27 @@ MIT News • 1d ago
 
 ---
 
+**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
+
+Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
+
+NVIDIA Developer • 20h ago
+
+---
+
 **[Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI](https://www.automate.org/robotics/industry-insights/robotics-raises-atoms-gritt-humanoid-perceptual-robotics-ropedia)**
 
 We’ve got construction automation, drones built for inspecting wind turbines, our weekly humanoid startup, and more.
 
-A3 Association for Advancing Automation • 2h ago
+A3 Association for Advancing Automation • 4h ago
+
+---
+
+**[Experts react to FCC limits on U.S. imports of new humanoid and mobile robots](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/)**
+
+The FCC has banned some foreign humanoids, which industry experts say could help U.S. industry but hinder innovation.
+
+The Robot Report • 2h ago
 
 ---
 
@@ -174,13 +182,7 @@ A3 Association for Advancing Automation • 2h ago
 
 The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
 
-IFR International Federation of Robotics • 3h ago
-
----
-
-**[Trump administration bans foreign-made humanoid robots in move targeting China](https://thehill.com/homenews/5996462-fcc-bans-foreign-humanoid-robots/)**
-
-The Hill • 1h ago
+IFR International Federation of Robotics • 4h ago
 
 ---
 
@@ -194,7 +196,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 298K • 👍 4K • 💬 2K • ⏱️ 2:15 • 1d ago
+👁️ 319K • 👍 4K • 💬 2K • ⏱️ 2:15 • 1d ago
 
 ---
 
@@ -204,17 +206,15 @@ The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanc
 
 📺 DPCcars
 
-👁️ 2K • 👍 22 • 💬 5 • ⏱️ 2:46 • 22h ago
+👁️ 3K • 👍 25 • 💬 7 • ⏱️ 2:46 • 1d ago
 
 ---
 
-**[CHINA CLAPS BACK After US BANS Its Humanoid Robots #news #technology #china #robot](https://www.youtube.com/watch?v=4YDY0QcIXb0)**
+**[China will soon be leading in Robotics Worldwide...](https://www.youtube.com/watch?v=zPgq4fIYDSE)**
 
-The United States just shut its doors to new Chinese humanoid and four legged robots, and Beijing did not stay silent. China's ...
+📺 Tech OverWatch
 
-📺 SXE China
-
-👁️ 909 • 👍 20 • 💬 1 • ⏱️ 0:46 • 4h ago
+👁️ 376 • 👍 14 • 💬 1 • ⏱️ 1:03 • 2h ago
 
 ---
 
@@ -224,17 +224,7 @@ https://pcbway.com/g/t69mBf Each new pcbway membership will get their first $5 w
 
 📺 Hobby Built
 
-👁️ 54K • 👍 3K • 💬 227 • ⏱️ 54:19 • 1d ago
-
----
-
-**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
-
-A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
-
-📺 NewsNation
-
-👁️ 6K • 👍 165 • 💬 98 • ⏱️ 3:10 • 1d ago
+👁️ 56K • 👍 3K • 💬 232 • ⏱️ 54:19 • 1d ago
 
 ---
 
@@ -244,7 +234,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 17K • 👍 499 • 💬 28 • ⏱️ 4:23 • 3d ago
+👁️ 18K • 👍 509 • 💬 27 • ⏱️ 4:23 • 3d ago
 
 ---
 
@@ -254,7 +244,17 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 17K • 👍 171 • 💬 95 • ⏱️ 5:29 • 6d ago
+👁️ 17K • 👍 174 • 💬 95 • ⏱️ 5:29 • 6d ago
+
+---
+
+**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
+
+A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
+
+📺 NewsNation
+
+👁️ 6K • 👍 167 • 💬 98 • ⏱️ 3:10 • 1d ago
 
 ---
 
@@ -264,7 +264,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UC4pND
 
 📺 Not What You Think
 
-👁️ 197K • 👍 10K • 💬 527 • ⏱️ 0:29 • 1d ago
+👁️ 215K • 👍 11K • 💬 562 • ⏱️ 0:29 • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" fo
 
 📺 The Action Lab
 
-👁️ 445K • 👍 12K • 💬 921 • ⏱️ 7:44 • 4d ago
+👁️ 450K • 👍 12K • 💬 927 • ⏱️ 7:44 • 4d ago
 
 ---
 
@@ -284,7 +284,7 @@ The Trump administration said it's banning new Chinese humanoid robots, topped w
 
 📺 Reuters
 
-👁️ 5K • 👍 125 • 💬 44 • ⏱️ 1:27 • 15h ago
+👁️ 6K • 👍 153 • 💬 62 • ⏱️ 1:27 • 16h ago
 
 ---
 
