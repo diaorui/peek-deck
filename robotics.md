@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-28T22:59:41.658712+00:00'
+updated: '2026-07-29T00:05:09.287486+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 28, 2026 at 22:59 UTC  
+**Last Updated:** July 29, 2026 at 00:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,11 +112,11 @@ Reuters • 1h ago
 
 ---
 
-**[US government bans humanoid robots manufactured abroad](https://sg.finance.yahoo.com/news/us-government-bans-humanoid-robots-224822201.html)**
+**[Why the future of robots is serving humans, not just imitating them](https://www.weforum.org/stories/emerging-technologies/why-future-of-robots-human/)**
 
-US President Donald Trump's administration on Tuesday added humanoid and quadruped robots to a list of products and companies that are banned from being imported into the United States on national security grounds.Several robotics companies already manufacture some humanoid robots in the United States, including Boston Dynamics, Tesla, Figure AI and Agility Robotics.
+The real promise of physical AI and assistive robotics is helping humans live more connected, independent and meaningful lives.
 
-Yahoo Finance Singapore • 11m ago
+The World Economic Forum • 4h ago
 
 ---
 
@@ -124,19 +124,19 @@ Yahoo Finance Singapore • 11m ago
 
 Middle school students from Pittsburgh's Hazelwood neighborhood got a chance to imagine themselves as future engineers, researchers and innovators at CMU's Robotics Innovation Center.
 
-Carnegie Mellon University • 4h ago
-
----
-
-**[Corpus Christi students explore robotics, coding at STEAM summer camp](https://www.kiiitv.com/article/news/local/corpus-christi-steam-robotics-camp-bethune-nursery/503-dfe47589-469d-497b-93a3-9d15e08a0fe9)**
-
-kiiitv.com • 5h ago
+Carnegie Mellon University • 5h ago
 
 ---
 
 **[From robot cars to real careers: Guilford County teachers bring new robotics program to the classroom](https://www.wfmynews2.com/article/life/local-life/guilford-county-schools-brings-new-jezero-deloitte-robotics-program-to-high-school-classrooms-university-of-north-carolina-greensboro-engineering-stem/83-77568e37-82ad-454e-b27a-2c09d9e3b18e)**
 
-wfmynews2.com • 5m ago
+wfmynews2.com • 1h ago
+
+---
+
+**[Corpus Christi students explore robotics, coding at STEAM summer camp](https://www.kiiitv.com/article/news/local/corpus-christi-steam-robotics-camp-bethune-nursery/503-dfe47589-469d-497b-93a3-9d15e08a0fe9)**
+
+kiiitv.com • 6h ago
 
 ---
 
@@ -144,15 +144,7 @@ wfmynews2.com • 5m ago
 
 /PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT, "Nauticus" or the "Company"), a leading innovator in autonomous subsea robotics and software solutions,...
 
-PR Newswire • 10h ago
-
----
-
-**[Why the future of robots is serving humans, not just imitating them](https://www.weforum.org/stories/emerging-technologies/why-future-of-robots-human/)**
-
-The real promise of physical AI and assistive robotics is helping humans live more connected, independent and meaningful lives.
-
-The World Economic Forum • 3h ago
+PR Newswire • 12h ago
 
 ---
 
@@ -160,7 +152,7 @@ The World Economic Forum • 3h ago
 
 The funding approved by the Michigan Strategic Fund board will support Fanuc expansion in Pontiac, project to revitalize vacant buildings near market.
 
-The Detroit News • 6h ago
+The Detroit News • 7h ago
 
 ---
 
@@ -168,7 +160,7 @@ The Detroit News • 6h ago
 
 Robots that can replace human workers may be closer than ever because of the AI boom. Here's how some investing pros are getting in early on the trend.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -176,7 +168,15 @@ Business Insider • 7h ago
 
 SIU’s Agricultural Robotics Club earned a second-place finish in the American Society of Agricultural and Biological Engineers’ Robotics Student Design Competition.
 
-WSIU NEWS • 6h ago
+WSIU NEWS • 8h ago
+
+---
+
+**[Denham Springs robotics team wins Indiana Robotics Invitational](https://www.wbrz.com/news/denham-springs-robotics-team-wins-indiana-robotics-invitational/)**
+
+The Denham Springs High School robotics team won the Indiana Robotics Invitational on July 18 in Indianapolis, beating the event's top-seeded alliance in the finals.
+
+WBRZ • 7h ago
 
 ---
 
@@ -190,7 +190,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 153K • 👍 2K • 💬 985 • ⏱️ 2:15 • 22h ago
+👁️ 165K • 👍 2K • 💬 1K • ⏱️ 2:15 • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 15K • 👍 447 • 💬 26 • ⏱️ 4:23 • 2d ago
+👁️ 15K • 👍 460 • 💬 26 • ⏱️ 4:23 • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 4K • 👍 137 • 💬 78 • ⏱️ 3:10 • 1d ago
+👁️ 5K • 👍 151 • 💬 88 • ⏱️ 3:10 • 1d ago
 
 ---
 
@@ -230,17 +230,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UC4pND
 
 📺 Not What You Think
 
-👁️ 63K • 👍 5K • 💬 272 • ⏱️ 0:29 • 8h ago
-
----
-
-**[Solving the Hardest Problem in Robotics | World Labs with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
-
-Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
-
-📺 a16z
-
-👁️ 4K • 💬 9 • ⏱️ 42:21 • 8h ago
+👁️ 93K • 👍 6K • 💬 345 • ⏱️ 0:29 • 9h ago
 
 ---
 
@@ -260,7 +250,17 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 59K • 👍 1K • 💬 467 • ⏱️ 2:02 • 6d ago
+👁️ 60K • 👍 1K • 💬 483 • ⏱️ 2:02 • 6d ago
+
+---
+
+**[Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT](https://www.youtube.com/watch?v=iEoMJJvjPwY)**
+
+Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT Solar power is about to get unbelievably cheap thanks to ...
+
+📺 The Electric Viking
+
+👁️ 67K • 👍 3K • 💬 420 • ⏱️ 8:18 • 2d ago
 
 ---
 
@@ -270,7 +270,7 @@ The Lockdown Vulcan setup you NEED to try – that is the Vulcan with Ultimate C
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 165 • 💬 35 • ⏱️ 12:54 • 9h ago
+👁️ 3K • 👍 183 • 💬 36 • ⏱️ 12:54 • 11h ago
 
 ---
 
@@ -280,7 +280,7 @@ Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" fo
 
 📺 The Action Lab
 
-👁️ 417K • 👍 12K • 💬 879 • ⏱️ 7:44 • 3d ago
+👁️ 421K • 👍 12K • 💬 887 • ⏱️ 7:44 • 3d ago
 
 ---
 

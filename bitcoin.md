@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-28T22:59:41.649367+00:00'
+updated: '2026-07-29T00:05:09.282024+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - social
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 28, 2026 at 22:59 UTC  
+**Last Updated:** July 29, 2026 at 00:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,966.65
+### $63,869.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -3.5%  
-**30d:** +5.9%  
-**90d:** -16.4%  
-**1y:** -45.9%  
+**24h:** +1.3%  
+**7d:** -1.6%  
+**30d:** +9.2%  
+**90d:** -18.2%  
+**1y:** -45.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1280.91B
+**Market Cap:** $1282.77B
 Rank #1
 
-**Circulating Supply:** 20,062,521 BTC
+**Circulating Supply:** 20,062,562 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.3%
 
 **All-Time Low:** $67.81
-+94054.3%
++94201.7%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Raúl Robles was a Mexican founder of HackingMexico. He taught cybersecurity and offensive security, this is an old photo from the internet of him giving a Bitcoin talk back in Bitcoin's early days. Sadly, he met a tragic end in 2015, he was known for humiliating and controversial rhetoric through Facebook posts, and eventually met his end by a guy that announced in a forum he was tired of his insults. It's interesting to look back at some of those early conferences and talks that helped push Bitcoin to a wider audience, and to wonder how many people in the room got curious enough to buy, how many held...
 
-23h ago
+1d ago
 
 ---
 
@@ -159,7 +159,63 @@ Just asking, I really want to buy quite a lot and I don't know if I should put e
 
 Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[I Scanned The Entire Bitcoin Blockchain For Images. What I Found Will Shock You](https://bitcoinmagazine.com/guides/i-scanned-the-entire-bitcoin-blockchain-for-images-what-i-found-will-shock-you)**
+
+Fresh hard drive. Full node. Eleven hours of PhotoRec. The outcome is nothing like what the Bitcoin culture war has been telling you.
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[Block Inc. explained: payments, Cash App, and bitcoin](https://qz.com/block-inc-square-company-explainer)**
+
+Block was founded as Square in 2009 and renamed in 2021 — it now serves 57 million users across payments, digital wallets, and crypto
+
+qz.com • 51m ago
+
+---
+
+**[Anthropic finds new cracks in the tech meant to guard Bitcoin from 'Q-Day'](https://sg.finance.yahoo.com/news/anthropic-finds-cracks-tech-meant-222734222.html)**
+
+Anthropic said on July 28 that its AI model, Claude, discovered new ways to attack cryptographic algorithms. It did the work faster than human experts, and one of its targets was a scheme built to survive the arrival of quantum computers. To be clear, no blockchain tech was broken, and no wallet is ...
+
+Yahoo Finance Singapore • 1h ago
+
+---
+
+**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
+
+After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
+
+Morningstar • 13h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Plummet Even as SEC Chair Paul Atkins Sees Crypto Bill Advancing: Analyst Says BTC's Big Move 'Just Around the Corner'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-plummet-021322342.html)**
+
+Leading cryptocurrencies fell sharply on Monday as investors weighed developments around the Clarity Act and a pause in U.S.–Iran hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.98%$63,157.00Ethereum (CRYPTO: ETH) -3.67%$1,873.27XRP (CRYPTO: XRP) -4.60%$1.05Solana (CRYPTO: SOL) -4.09%$73.19Dogecoin (CRYPTO: DOGE) -4.59%$0.06954 Crypto Market Tumbles Bitcoin nearly dived below $63,000 in a sharp evening sell-off, while Ethereum fell to $1,860 a
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Live updates: Bitcoin gives up early gains, holds near $65,000 as AI stocks skid](https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500)**
+
+CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin may be showing signs of a bottom despite continued consolidation, chart analysts say](https://www.cnbc.com/2026/07/28/bitcoin-is-showing-signs-of-a-bottom-chart-analysts-say.html)**
+
+Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
+
+CNBC • 8h ago
 
 ---
 
@@ -169,63 +225,9 @@ Barron's • 1d ago
 
 ---
 
-**[Anthropic finds new cracks in the tech meant to guard Bitcoin from 'Q-Day'](https://sg.finance.yahoo.com/news/anthropic-finds-cracks-tech-meant-222734222.html)**
-
-Anthropic said on July 28 that its AI model, Claude, discovered new ways to attack cryptographic algorithms. It did the work faster than human experts, and one of its targets was a scheme built to survive the arrival of quantum computers. To be clear, no blockchain tech was broken, and no wallet is ...
-
-Yahoo Finance Singapore • 32m ago
-
----
-
-**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
-
-After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
-
-Morningstar • 12h ago
-
----
-
-**[Bitcoin may be showing signs of a bottom despite continued consolidation, chart analysts say](https://www.cnbc.com/2026/07/28/bitcoin-is-showing-signs-of-a-bottom-chart-analysts-say.html)**
-
-Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
-
-CNBC • 7h ago
-
----
-
 **[Watch Bitcoin Excluded From S&P Pantera Digital Asset Index](https://www.bloomberg.com/news/videos/2026-07-28/bitcoin-excluded-from-new-s-p-pantera-digital-asset-index)**
 
-Bloomberg.com • 22h ago
-
----
-
-**[Everyone expected a Bitcoin investing boom. Why it never came.](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
-
-Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
-
-USA Today • 2d ago
-
----
-
-**[I Scanned The Entire Bitcoin Blockchain For Images. What I Found Will Shock You](https://bitcoinmagazine.com/guides/i-scanned-the-entire-bitcoin-blockchain-for-images-what-i-found-will-shock-you)**
-
-Fresh hard drive. Full node. Eleven hours of PhotoRec. The outcome is nothing like what the Bitcoin culture war has been telling you.
-
-Bitcoin Magazine • 4h ago
-
----
-
-**[IREN vs. MSTR: Which Bitcoin Stock Is the Better Choice for Investors?](https://www.zacks.com/stock/news/2961274/iren-vs-mstr-which-bitcoin-stock-is-the-better-choice-for-investors)**
-
-Zacks Investment Research • 1d ago
-
----
-
-**[Buying Bitcoin Now Is Like Buying Amazon – You Just Don’t Know Which Part Of The Ride, Says Wall Street Veteran Dave Weisberger](https://www.tradingview.com/news/stocktwits:2d8724eef094b:0-buying-bitcoin-now-is-like-buying-amazon-you-just-don-t-know-which-part-of-the-ride-says-wall-street-veteran-dave-weisberger/)**
-
-Buying Bitcoin (BTC) today is less about whether the asset succeeds and more about when investors enter the cycle, according to veteran trader Dave Weisberger.Speaking on The Wolf Of All Streets podcast, Weisberger drew a parallel between buying Bitcoin and buying Amazon (AMZN) before its historic…
-
-TradingView • 9h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -323,7 +325,7 @@ Thank you to Mint Mobile for partnering with us on this video! Visit our partner
 
 📺 The Graham Stephan Show
 
-👁️ 64K • 👍 3K • 💬 1K • ⏱️ 18:59 • 1d ago
+👁️ 68K • 👍 3K • 💬 1K • ⏱️ 18:59 • 1d ago
 
 ---
 
@@ -333,57 +335,7 @@ You won't believe what this bitcoin chart says about its downside target, that c
 
 📺 Alessio Rastani
 
-👁️ 9K • 👍 894 • 💬 299 • ⏱️ 18:15 • 6h ago
-
----
-
-**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
-
-Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
-
-📺 Fundstrat
-
-👁️ 73K • 👍 1K • 💬 230 • ⏱️ 6:11 • 1d ago
-
----
-
-**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=lfYYC7qxDQ8)**
-
-Let's provide an update to Bitcoin and its bear market resistance band, Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 88K • 👍 5K • 💬 200 • ⏱️ 8:59 • 1d ago
-
----
-
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=-GT2FmXrAto)**
-
-Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TIMECODES 00:00 Something Strange Is Happening ...
-
-📺 Heresy Financial
-
-👁️ 37K • 👍 2K • 💬 399 • ⏱️ 14:33 • 1d ago
-
----
-
-**[I&#39;m Worried For Crypto Tomorrow...](https://www.youtube.com/watch?v=w1frDq7z9Eo)**
-
-Ran breaks down why the latest selloff in AI and semiconductor stocks could mark a major shift in the market narrative, as China's ...
-
-📺 Crypto Banter
-
-👁️ 12K • 👍 640 • 💬 12 • ⏱️ 20:00 • 9h ago
-
----
-
-**[Bitcoin: This Week Will Be Crazy](https://www.youtube.com/watch?v=t-rBr1Zda7k)**
-
-See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/aaronbennett ...
-
-📺 Aaron Bennett
-
-👁️ 8K • 👍 415 • 💬 207 • ⏱️ 9:19 • 1d ago
+👁️ 14K • 👍 1K • 💬 369 • ⏱️ 18:15 • 7h ago
 
 ---
 
@@ -393,17 +345,57 @@ TOOBIT — DEPOSIT MORE, EARN MORE! UP TO 100 USDT BONUS ...
 
 📺 100XClub
 
-👁️ 7K • 👍 725 • 💬 123 • ⏱️ 8:27 • 13h ago
+👁️ 8K • 👍 740 • 💬 152 • ⏱️ 8:27 • 14h ago
 
 ---
 
-**[Why Michael Saylor stopped buying Bitcoin](https://www.youtube.com/watch?v=G87Vy-dZbdw)**
+**[The Price of Money Just Changed... Why NO ONE Is Pricing Bitcoin Right!](https://www.youtube.com/watch?v=t4wjVIRsstc)**
 
-In this episode of The Daily Wolf, Scott Melker explains why several crypto companies and exchanges are shutting down while the ...
+Money is expensive again, Wall Street is repricing every asset, and Warren Buffett is sitting on a record $397 billion in cash.
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 10K • 👍 421 • 💬 127 • ⏱️ 14:53 • 1d ago
+👁️ 24K • 👍 2K • 💬 238 • ⏱️ 16:47 • 1d ago
+
+---
+
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=-GT2FmXrAto)**
+
+Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TIMECODES 00:00 Something Strange Is Happening ...
+
+📺 Heresy Financial
+
+👁️ 38K • 👍 2K • 💬 407 • ⏱️ 14:33 • 1d ago
+
+---
+
+**[&quot;$40 MILLION ALL-IN! Why I JUST Went ALL-IN on Bitcoin&quot; - Lyn Alden](https://www.youtube.com/watch?v=Wte6gvMk-Iw)**
+
+Real-world asset tokenization is one of the most underexplored narratives in crypto right now. Blockmaze is a regulated RWA ...
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 207 • 💬 21 • ⏱️ 18:42 • 1d ago
+
+---
+
+**[Bitcoin: This Week Will Be Crazy](https://www.youtube.com/watch?v=t-rBr1Zda7k)**
+
+See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/aaronbennett ...
+
+📺 Aaron Bennett
+
+👁️ 8K • 👍 422 • 💬 228 • ⏱️ 9:19 • 1d ago
+
+---
+
+**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
+
+Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
+
+📺 Fundstrat
+
+👁️ 77K • 👍 1K • 💬 232 • ⏱️ 6:11 • 1d ago
 
 ---
 
@@ -413,7 +405,17 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 671 • 💬 210 • ⏱️ 16:34 • 9h ago
+👁️ 12K • 👍 706 • 💬 238 • ⏱️ 16:34 • 10h ago
+
+---
+
+**[I&#39;m Worried For Crypto Tomorrow...](https://www.youtube.com/watch?v=w1frDq7z9Eo)**
+
+Ran breaks down why the latest selloff in AI and semiconductor stocks could mark a major shift in the market narrative, as China's ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 672 • 💬 13 • ⏱️ 20:00 • 10h ago
 
 ---
 
