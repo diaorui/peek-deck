@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-29T06:31:08.662248+00:00'
+updated: '2026-07-29T09:37:32.258804+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 06:31 UTC  
+**Last Updated:** July 29, 2026 at 09:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,707.18
+### $64,403.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** -1.1%  
-**30d:** +9.8%  
-**90d:** -17.7%  
-**1y:** -45.4%  
+**24h:** +1.5%  
+**7d:** -1.0%  
+**30d:** +9.9%  
+**90d:** -17.6%  
+**1y:** -45.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1287.59B
+**Market Cap:** $1292.70B
 Rank #1
 
-**Circulating Supply:** 20,062,668 BTC
+**Circulating Supply:** 20,062,721 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-48.9%
 
 **All-Time Low:** $67.81
-+94576.3%
++94919.9%
 
 ---
 
@@ -77,77 +77,83 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Always remember!](https://www.reddit.com/r/Bitcoin/comments/1v89b45/always_remember/)**
+**[I'M GOING ALL IN! :D](https://www.reddit.com/r/Bitcoin/comments/1v9jytv/im_going_all_in_d/)**
+
+I know that past doesn't guarantee future outcomes. But, if I had gone all in since 2021 (starting at the previous peak) and did so throughout the past five years, I would have been able to buy my dream house and car by now. I already have a decent amount of retirement savings. Going to take the risk and put all my discretionary income into Bitcoin for the next four years! Feel free to save this post and I'll update it during the next bull run, and you'll see if I made the right choice or not.
+
+6h ago
+
+---
+
+**[Apple faces lawsuit after fake Sparrow Wallet app drains $1.8 million in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1v94jgo/apple_faces_lawsuit_after_fake_sparrow_wallet_app/)**
+
+Three iPhone owners sued Apple last week over a fake Sparrow Wallet app they say they downloaded from the App Store. The plaintiffs say using the bogus app led to the theft of their Bitcoin, resulting in losses of roughly $1.8 million. The lawsuit, Ramirez et al v. Apple, Inc., accuses Cupertino of failing to catch the scam app despite years of marketing the App Store as a safe place to download software. How the fake Sparrow Wallet app stole Bitcoin Apple has spent nearly two decades convincing iPhone owners of the App Store’s security, but that promise is now at the center of a lawsuit alleging that the company’s review process failed miserably. The case underscores a growing problem for Apple: As scams become more sophisticated — and financial losses more devastating — the company’s tightly controlled app ecosystem faces scrutiny not just over how many malicious apps it blocks, but by the few that slip through. According to the complaint, filed Friday in the U.S. Court of Appeals for the 9th Circuit, a fraudulent Sparrow Wallet app found its way to the App Store, mimicking the real thing closely enough to fool experienced crypto users. The real Sparrow Wallet is a desktop app for Windows, macOS and Linux, but it has never been available on iOS. Plaintiffs James Ramirez, Christopher Ellis and Jalen Delgado say they downloaded the malicious iOS app between May and August 2025. Once installed, the fake Sparrow Wallet app asked them to enter their wallet’s seed phrase — the string of words used to recover a crypto wallet. And that’s exactly what the developers of the copycat Sparrow Wallet app wanted. When users entered their seed phrase, the scammers gained full control of the funds inside the plaintiffs’ accounts. Delgado says he downloaded the app around May 1, 2025, and soon after lost about 1.05 Bitcoin, worth roughly $120,000 at the time. Ramirez and Ellis say they downloaded the fake app last year on July 25 and August 3, respectively. Ramirez lost 7.4 Bitcoin, valued at around $875,000. Ellis lost close to $840,000 worth of crypto. Both say they reported the situation to Apple right away. Apple was warned years prior The lawsuit claims Apple had been previously warned about fake Sparrow Wallet apps. The warning came in early 2024 from Craig Raw, the developer of the real Sparrow Wallet. “There is still a scam ‘Sparrow Wallet’ app on the @Apple App Store, despite myself and others having reported it weeks ago,” Raw said in an X post on January 6, 2024. “Worse, you have to install it to report it. Always go to the wallet’s website to find the link to download it. App stores will not protect you.” In a recent post, the developer said he continued to push Apple to address the fake apps. “Since 2023, more than a dozen fake ‘Sparrow’ apps have appeared on the App Store, as recently as April this year,” Raw wrote in an X post on June 22, 2026. “Users have contacted me after losing their savings, in some cases their life savings, to these impersonators.” Raw even submitted his own placeholder app designed to warn users that any Sparrow Wallet app on iOS is fake. Apple initially flagged his developer account for the submission before reversing course. The complaint also alleges that Apple ranked the fake app in search results and featured it in curated crypto collections. This isn’t Apple’s first brush with fake crypto apps on the App Store. It’s merely the latest incident in a string of crypto wallet scams that have slipped past Apple’s review process. Back in 2023, a fake Trezor wallet app climbed the charts before Apple pulled the plug. A fraudulent Rabby Wallet app appeared in 2024. Earlier this year, a fake Ledger Live app reportedly facilitated the theft of more than $9.5 million from more than 50 victims. And last year, another lawsuit accused Apple over a fake trading app called Swiftcrypt. The plaintiffs in the Sparrow Wallet case are suing Apple under consumer-protection laws that cover California, Louisiana and Massachusetts. The plaintiffs also bring claims of fraudulent and negligent misrepresentations, in addition to accusing Apple of failing to warn users about fake crypto apps. They asked a jury to award damages, reimburse their stolen Bitcoin, and force Apple to strengthen its App Store review process. Apple’s response to crypto scams Apple pushed back on the claims, saying it quickly removed apps impersonating Sparrow Wallet. It also terminated the developer accounts behind the fake apps. While Apple declined to comment on Ramirez et al v. Apple, Inc. specifically, the company told TechCrunch that no Sparrow Wallet copycats are currently listed on the App Store. Apple also pointed to its own data from 2025, which showed it rejected more than 371,000 app submissions. The company says it rejected these submissions for copying other apps, spamming users or attempting to mislead potential downloaders. The fake Sparrow Wallet case is still in its early stages, and Apple has yet to file a formal response in court.
+
+🔗 [Cult of Mac](https://www.cultofmac.com/news/fake-sparrow-wallet-app-apple-lawsuit) • 16h ago
+
+---
+
+**[Lost friends? Changed relationship dynamics?](https://www.reddit.com/r/Bitcoin/comments/1v9kvyx/lost_friends_changed_relationship_dynamics/)**
+
+Anyone had this happen to them? I’ve been buying BTC for a few years. And got into it really hard the last 4ish years. And I used to talk to anyone about it, but I do that less and less now. One of my closest friends is so resistant to it, and funny enough he’s the most tech savvy person I know! In the past year I had 3 instances where I brought it up in convo with old friends and new acquaintances, and the reaction was so hostile! I think some of that is ppl being angry they missed out in part… idk. But anyway, yea it’s kind of a rift between me and one of my oldest friends. But I’m kinda at the point in my BTC journey where I believe opting out of the fiat/ debt/ credit creation banking system as it stands is a moral imperative tbh. American society is so out of whack between inflation/healthcare/housing/education… and that’s being brief, but I see the compromised monetary system at the core of it all. Talking politics without talking about money is like talking about plumbing without talking about water. And Americans love to talk politics. Anyway yea my BTC conviction has caused rifts in my relationships. Curious of others stories around this.
+
+5h ago
+
+---
+
+**[Bitcoin bullrun after the Emirates accepting crypto payments for flight bookings?](https://www.reddit.com/r/Bitcoin/comments/1v949l1/bitcoin_bullrun_after_the_emirates_accepting/)**
+
+Its already up 0.5%.
+
+16h ago
+
+---
+
+**[its turning into a habit](https://www.reddit.com/r/Bitcoin/comments/1v8sjvk/its_turning_into_a_habit/)**
+
+I don't know if its a good habit or bad
 
 1d ago
 
 ---
 
-**[Damm bro 😔🥀](https://www.reddit.com/r/Bitcoin/comments/1v819f9/damm_bro/)**
+**[Top 20 largest bitcoin whale transactions :0](https://www.reddit.com/r/Bitcoin/comments/1v98vnt/top_20_largest_bitcoin_whale_transactions_0/)**
 
-1d ago
+21,000 btc...
 
----
-
-**["Monetary Cryptography. Bitcoin; Deep Web's currency". Mexican tech guy giving a Bitcoin conference in 2011.](https://www.reddit.com/r/Bitcoin/comments/1v8gwj7/monetary_cryptography_bitcoin_deep_webs_currency/)**
-
-Raúl Robles was a Mexican founder of HackingMexico. He taught cybersecurity and offensive security, this is an old photo from the internet of him giving a Bitcoin talk back in Bitcoin's early days. Sadly, he met a tragic end in 2015, he was known for humiliating and controversial rhetoric through Facebook posts, and eventually met his end by a guy that announced in a forum he was tired of his insults. It's interesting to look back at some of those early conferences and talks that helped push Bitcoin to a wider audience, and to wonder how many people in the room got curious enough to buy, how many held...
-
-1d ago
+13h ago
 
 ---
 
-**[This cat holds through the lows, will you do the same?](https://www.reddit.com/r/Bitcoin/comments/1v8882g/this_cat_holds_through_the_lows_will_you_do_the/)**
+**[Daily Discussion, July 29, 2026](https://www.reddit.com/r/Bitcoin/comments/1v9nh8m/daily_discussion_july_29_2026/)**
 
-1d ago
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
----
-
-**[12 years ago people ask it is late to start invest in bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1v7hogi/12_years_ago_people_ask_it_is_late_to_start/)**
-
-What about 2026 - are we too late to start invest into Bitcoin?
-
-2d ago
+3h ago
 
 ---
 
-**[Which Bitcoin prediction aged like milk?](https://www.reddit.com/r/Bitcoin/comments/1v8ejmw/which_bitcoin_prediction_aged_like_milk/)**
+**[First time btc buyer.](https://www.reddit.com/r/Bitcoin/comments/1v9hb7f/first_time_btc_buyer/)**
 
-I saw some horrible predictions on Twitter, IG from 2024-2025 and i want to see which one was actually the worst
+I have watched Bitcoin since approximately 2015. Every time it hit all-time highs I wished I had bought, and every time it hit a cycle low I was glad I didn't. I'm tired of playing the psychological gymnastics of trying to time the perfect bottom. I'm officially biting the bullet and starting a $600/week DCA. I fully expect the market to crash 20% tomorrow just because I finally bought in, but I'm ready to ride it to $200k or zero.
 
-1d ago
-
----
-
-**[Before it's too late: I direct a 1-minute 2D cyberpunk aesthetic short film about Bitcoin's silent global adoption. What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1v7z3ta/before_its_too_late_i_direct_a_1minute_2d/)**
-
-A Bitcoin Story - Chapter 1 : 2026 - When bitcoin became invisible
-
-1d ago
+8h ago
 
 ---
 
-**[Stop FUDing your own BTC Bag](https://www.reddit.com/r/Bitcoin/comments/1v8dlav/stop_fuding_your_own_btc_bag/)**
+**[Boomer acceptance :-(](https://www.reddit.com/r/Bitcoin/comments/1v90xx7/boomer_acceptance/)**
 
-I've noticed that some of the loudest Bitcoin FUD seems to come from people who already hold BTC. If you're bullish long term, why let every correction shake your conviction? Is it just emotion, or do people expect Bitcoin to move up without volatility? What do you think? or y'all playing around? Lol
+I've noticed a generational gap in BTC acceptance. I'm 65yo and it seems people my age & older are at best BTC ignorant & at worst totally against it. I know one guy, 76yo, teaches Finance & Econ at a respected university. He's also a partner in a wealth management firm. He thinks BTC is "gambling". I get this all the time w/ the older crowd ("boomers") so often that I don't discuss it anymore w/ them. It makes me wonder how much the $price of BTC is generationally related?
 
-1d ago
-
----
-
-**[I've always enjoyed this little nod to Bitcoin at 1:12](https://www.reddit.com/r/Bitcoin/comments/1v848ge/ive_always_enjoyed_this_little_nod_to_bitcoin_at/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/L-cP2PG9beA?si=Qfu27yeWVfy_LbLh&t=72) • 1d ago
+18h ago
 
 ---
 
-**[What's the maximum amount you'll put on a single cold wallet?](https://www.reddit.com/r/Bitcoin/comments/1v8e6ov/whats_the_maximum_amount_youll_put_on_a_single/)**
+**[Going all in](https://www.reddit.com/r/Bitcoin/comments/1v91huk/going_all_in/)**
 
-Just asking, I really want to buy quite a lot and I don't know if I should put everything in a single cold wallet. I already have a Trezor model t, is it necessary to upgrade or is any kind of Trezor good? P.s. I plan to become a whole coiner before 2029. Thanks in advance for your help.
+I'm selling this hill of mine, it's 30 acres of land, that could get me 1 btc at the market price ( I'm from Kenya, so don't question the low selling price)
 
-1d ago
+18h ago
 
 ---
 
@@ -155,11 +161,11 @@ Just asking, I really want to buy quite a lot and I don't know if I should put e
 
 ## Google News: "bitcoin"
 
-**['Anything remotely dovish' from Fed could be good for bitcoin, says analyst](https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst)**
+**[Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision](https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision)**
 
-Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.
+Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.
 
-CoinDesk • 10h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -167,15 +173,15 @@ CoinDesk • 10h ago
 
 Fresh hard drive. Full node. Eleven hours of PhotoRec. The outcome is nothing like what the Bitcoin culture war has been telling you.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
-**[Bitcoin ETFs Bleed While Ethereum Funds Post Third Straight Weekly Inflow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-while-ethereum-055451344.html)**
+**[Current price of Bitcoin for July 29, 2026](https://fortune.com/article/price-of-bitcoin-07-29-2026/)**
 
-Bitcoin ETFs lost 3,170 BTC in a week as Ethereum funds added 37,959 ETH, extending a third straight inflow streak.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Yahoo Finance • 37m ago
+Fortune • 21m ago
 
 ---
 
@@ -183,15 +189,15 @@ Yahoo Finance • 37m ago
 
 South Dakota's first gubernatorial primary runoff pitted incumbent Larry Rhoden against outsider Toby Doeden after neither cleared the 35% threshold to win outright.
 
-Fox News • 5h ago
+Fox News • 8h ago
 
 ---
 
-**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
+**[Bitcoin falls to $63,000 as Fed decision looms, Clarity Act hopes fade](https://finance.yahoo.com/markets/article/bitcoin-falls-to-63000-as-fed-decision-looms-clarity-act-hopes-fade-151145521.html)**
 
-After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
+Bitcoin fell to its lowest level in 10 days on Tuesday as investors braced for the Federal Reserve's upcoming decision and  a potential delay to key crypto legislation in Congress.
 
-Morningstar • 20h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -199,15 +205,15 @@ Morningstar • 20h ago
 
 Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
 
-CNBC • 14h ago
+CNBC • 17h ago
 
 ---
 
-**[Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure](https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure)**
+**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
 
-Ionic Digital was formed from Celsius Mining’s assets and later took direct control of its sites from Hut 8.
+After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
 
-The Block • 10h ago
+Morningstar • 23h ago
 
 ---
 
@@ -217,11 +223,11 @@ Barron's • 1d ago
 
 ---
 
-**[Everyone expected a Bitcoin investing boom. Why it never came.](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
+**[Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure](https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure)**
 
-Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
+Ionic Digital was formed from Celsius Mining’s assets and later took direct control of its sites from Hut 8.
 
-USA Today • 2d ago
+The Block • 13h ago
 
 ---
 
@@ -255,7 +261,7 @@ The alleged thieves infected 8,000 devices.
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 5 • 💬 0 • 3d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 5 • 💬 0 • 4d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -279,7 +285,7 @@ A one-year consensus soft fork to limit arbitrary data storage in Bitcoin, prote
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 2 • 💬 0 • 3d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 2 • 💬 0 • 4d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -288,14 +294,6 @@ A minimal, modular blockchain for peer-to-peer value and controlled networks. - 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
 ⬆️ 2 • 💬 0 • 6d ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
-
----
-
-**[Sharecoin, a Bitcoin Core fork that turns GPU mining into public randomness](https://news.ycombinator.com/item?id=49003293)**
-
-A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/sharecoin
-
-⬆️ 1 • 💬 1 • 6d ago • [GitHub](https://github.com/TVHeroes/sharecoin)
 
 ---
 
@@ -315,105 +313,115 @@ Live public testnet with full node, external miner, browser wallet, snapshot boo
 
 ---
 
+**[Balance Stablecoin Collapses After Bitcoin Vault Is Drained](https://news.ycombinator.com/item?id=49023069)**
+
+Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
+
+⬆️ 1 • 💬 0 • 5d ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin cayendo en vivo: ¿flash crash o trampa de ballenas? 🔴](https://www.youtube.com/watch?v=dAM6z_xdHws)**
+**[The World’s Cheapest Money Is Disappearing! Why Bitcoin Wins!](https://www.youtube.com/watch?v=GhPBftR_CkM)**
 
-Tu cuenta #BingX aquí: https://bingx.com/es/partner/TradingLatino Jaime Merino ¿Estamos ante la **última gran oportunidad para ...
+The Clarity Act could be one of Bitcoin's biggest regulatory wins, but a much larger macro story is unfolding beneath the surface.
 
-📺 Jaime Merino | TradingLatino
+📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 52 • ⏱️ 1:10:22 • 1d ago
-
----
-
-**[Live Gold, Crypto Trading |  28 JULY | #goldtrading #cryptotrading #bitcoin - MANSI](https://www.youtube.com/watch?v=4UgOuvVJ838)**
-
-Top Recommended Brokers:- Best For Indian Users - ✓ COINDCX - https://invite.coindcx.com/34203382 ------------------- TOP ...
-
-📺 TRADE WITH MANSI
-
-👁️ 33K • 👍 1K • 💬 64 • ⏱️ 2:42:23 • 1d ago
+👁️ 11K • 👍 959 • 💬 179 • ⏱️ 14:24 • 9h ago
 
 ---
 
-**[주식과 코인, 개미가 항상 돈을 잃는 진짜 이유](https://www.youtube.com/watch?v=XGhXLjV3Wqw)**
+**[These 3 Bitcoin Exchanges Just Collapsed - Here&#39;s What Comes Next...](https://www.youtube.com/watch?v=TzTSfwYQk0U)**
 
-비트코인 #코인 #주식 #주식폭락 #트레이딩 #코인투자 #주식투자 #재테크.
+3 Bitcoin Exchanges Just Collapsed - Here's Which Exchange Will Collapse Next... Earn yield or borrow against your Bitcoin ...
 
-📺 차슐랭ㅣ비트코인
+📺 Luke Mikic
 
-👁️ 849 • 👍 7 • ⏱️ 1:12 • 1h ago
-
----
-
-**[AI Bubble is popping - FOMC Scares the MARKET - BITCOIN CRYPTO GOLD DUM](https://www.youtube.com/watch?v=vElEJb80xrE)**
-
-BEST Deals in Crypto   https://cryptojargon.in/deals Telegram   https://t.me/cryptojargon69 Whatsapp   ...
-
-📺 Crypto Jargon
-
-👁️ 4K • 👍 210 • 💬 88 • ⏱️ 7:01 • 20h ago
+👁️ 4K • 👍 312 • 💬 86 • ⏱️ 39:47 • 11h ago
 
 ---
 
-**[GOLD BITCOIN LIVE TRADING #bitcoin #crypto #forex](https://www.youtube.com/watch?v=0-g0EgJDZcE)**
+**[An Urgent Message To EVERY Bitcoin Investor](https://www.youtube.com/watch?v=QaZh_9Et_60)**
 
-https://sharkapp.app.link/foY71jH4D3b PARTNER CODE - YFE711 LOW BROKARAGE FIU REGISTER BROKER WhatsApp- ...
+Thank you to Mint Mobile for partnering with us on this video! Visit our partner https://mintmobile.yt.link/I6xc7as to get 3, 6, or 12 ...
 
-📺 Trade With Prity 2.0
+📺 The Graham Stephan Show
 
-👁️ 58K • 👍 445 • 💬 8 • ⏱️ 1:54:14 • 11h ago
+👁️ 77K • 👍 3K • 💬 1K • ⏱️ 18:59 • 1d ago
 
 ---
 
-**[BITCOIN: FINAL SHAKEOUT STARTING!!! 🚨🚨🚨](https://www.youtube.com/watch?v=RQBeq-ddlEo)**
+**[Bitcoin: Surviving The Brutal Bottom (Q3 Update)](https://www.youtube.com/watch?v=5vCpbbbrkkc)**
+
+TIA PRO ON SALE NOW, USE CODE "BTCBULL2027" → https://link.tiainvestor.com/jpytjulysale ➡ WEEKLY REPORTS ...
+
+📺 Jason Pizzino
+
+👁️ 8K • 👍 562 • 💬 23 • ⏱️ 17:51 • 7h ago
+
+---
+
+**[Blackrock Doesn’t Miss…. (Crypto holders must hear this)](https://www.youtube.com/watch?v=cNj5wOe-pFM)**
+
+Blackrock backs Clarity Act, Bitcoi, Ethereum, QQQ, Solana and more! BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 15K • 👍 670 • 💬 84 • ⏱️ 15:31 • 18h ago
+
+---
+
+**[Bitcoin Hit by a Massive Global Sell-Off](https://www.youtube.com/watch?v=s4Z4f0IuqRw)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 772 • 💬 260 • ⏱️ 16:34 • 19h ago
+
+---
+
+**[The Price of Money Just Changed... Why NO ONE Is Pricing Bitcoin Right!](https://www.youtube.com/watch?v=t4wjVIRsstc)**
+
+Money is expensive again, Wall Street is repricing every asset, and Warren Buffett is sitting on a record $397 billion in cash.
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 241 • ⏱️ 16:47 • 1d ago
+
+---
+
+**[BITCOIN: VERY IMPORTANT!!!! 🚨🚨🚨](https://www.youtube.com/watch?v=FstXaE_pFuU)**
 
 CRYPTO INVESTOR QUIZ: https://quiz.bullmania.com/startnow JOIN BULLMANIA WAITLIST: https://bullmania.com/ ...
 
 📺 Ivan on Tech
 
-👁️ 20K • 👍 1K • 💬 143 • ⏱️ 1:01:21 • 20h ago
+👁️ 3K • 👍 250 • 1h ago
 
 ---
 
-**[🔋LIVE BITCOIN TRADING 📉📈  Crypto and Market Analysis](https://www.youtube.com/watch?v=cWjYQZenhnk)**
+**[THIS BITCOIN MOVE WILL BE DEVASTATING!!](https://www.youtube.com/watch?v=QsuWA-A3QFA)**
 
-Welcome to AlexOCrypto! Join us for daily live Bitcoin trading sessions, in-depth crypto market analyses, and tutorials designed ...
+TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
 
-📺 AlexOCrypto
+📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 2K • 👍 234 • ⏱️ 2:09:02 • 16h ago
-
----
-
-**[Get Ready For Bitcoin&#39;s Final Drop](https://www.youtube.com/watch?v=qpfSBIv4aS8)**
-
-Aaron Dishner examines Bitcoin's weakening support structure, arguing that successive support steps have begun to fail in a ...
-
-📺 Coin Bureau Trading
-
-👁️ 7K • 👍 792 • 💬 53 • ⏱️ 22:08 • 1d ago
+👁️ 9K • 👍 674 • 💬 68 • ⏱️ 18:55 • 19h ago
 
 ---
 
-**[Can You Actually Buy Food With Bitcoin At Steak N Shake? #bitcoin #steaknshake](https://www.youtube.com/watch?v=7FolQeBNzY0)**
+**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
 
-📺 The No Pants Show
+Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
 
-👁️ 882 • 👍 22 • 💬 6 • ⏱️ 3:01 • 1d ago
+📺 Fundstrat
 
----
-
-**[🚨 BITCOIN PODE CAIR +30% NO INÍCIO DE AGOSTO](https://www.youtube.com/watch?v=LYkV-fCiAkY)**
-
-O mercado tem grande expectativa na aprovação do CLARITY ACT, mas o Senado americano entra em recesso no dia 7 de ...
-
-📺 CRIPTOMANIACOS
-
-👁️ 22K • 👍 3K • 💬 117 • ⏱️ 9:36 • 1d ago
+👁️ 88K • 👍 2K • 💬 245 • ⏱️ 6:11 • 1d ago
 
 ---
 

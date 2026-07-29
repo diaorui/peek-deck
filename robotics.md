@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T06:31:08.671611+00:00'
+updated: '2026-07-29T09:37:32.268089+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 06:31 UTC  
+**Last Updated:** July 29, 2026 at 09:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,7 +62,7 @@ I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. 
 
 **[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -110,13 +110,13 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
-BBC • 4h ago
+BBC • 7h ago
 
 ---
 
-**[China sweeps global humanoid robot start-up ranking as US imposes ban](https://www.scmp.com/tech/tech-war/article/3362195/china-has-6-worlds-10-most-innovative-humanoid-robot-start-ups-report)**
+**[Lenovo Capital takes aim at robotics, coding agents in ‘sniper’ AI strategy](https://www.scmp.com/tech/tech-trends/article/3362213/lenovo-capital-takes-aim-robotics-coding-agents-sniper-ai-investment-strategy)**
 
-South China Morning Post • 3h ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -124,7 +124,15 @@ South China Morning Post • 3h ago
 
 Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
 
-NVIDIA Developer • 9h ago
+NVIDIA Developer • 12h ago
+
+---
+
+**[US bans foreign-made humanoid robots, targeting China over national security](https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366)**
+
+The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns.
+
+AP News • 53m ago
 
 ---
 
@@ -132,7 +140,27 @@ NVIDIA Developer • 9h ago
 
 Middle school students from Pittsburgh's Hazelwood neighborhood got a chance to imagine themselves as future engineers, researchers and innovators at CMU's Robotics Innovation Center.
 
-Carnegie Mellon University • 15h ago
+Carnegie Mellon University • 18h ago
+
+---
+
+**[All Saints School robotics teams win Innovate Award at premier event](https://www.thealpenanews.com/news/local-news/2026/07/all-saints-school-robotics-teams-win-innovate-award-at-premier-event/)**
+
+ALPENA — After a successful 2025-2026 robotics season, the All Saints Holy Gears were one of 48 teams from across the world invited to the Canadian Rockies Premier Event, where they were the winners of the Innovate Award. The Holy Gears won several awards throughout their season, including the second place Inspire Award at the […]
+
+The Alpena News - • 2h ago
+
+---
+
+**[US bans new Chinese robots, power inverters in latest tech crackdown](https://www.scmp.com/news/china/diplomacy/article/3362185/us-bans-new-chinese-robots-power-inverters-latest-tech-crackdown)**
+
+South China Morning Post • 11h ago
+
+---
+
+**[From robot cars to real careers: Guilford County teachers bring new robotics program to the classroom](https://www.wfmynews2.com/article/life/local-life/guilford-county-schools-brings-new-jezero-deloitte-robotics-program-to-high-school-classrooms-university-of-north-carolina-greensboro-engineering-stem/83-77568e37-82ad-454e-b27a-2c09d9e3b18e)**
+
+wfmynews2.com • 10h ago
 
 ---
 
@@ -140,41 +168,15 @@ Carnegie Mellon University • 15h ago
 
 Lawrence Livermore National Laboratory (LLNL) scientists and engineers, in conjunction with the Department of Energy (DOE) and National Nuclear Security Administration (NNSA), are increasingly looking to AI, robotics and automation to help accelerate advanced manufacturing, materials discovery and experimental science. The work is part of a broader push to move faster from concept to deployment in mission-relevant technologies. For Chris Spadaccini, who leads LLNL's Materials Engineering Division and has helped drive much of the Lab's advanced manufacturing research, that urgency is
 
-Lawrence Livermore National Laboratory (.gov) • 16h ago
+Lawrence Livermore National Laboratory (.gov) • 20h ago
 
 ---
 
-**[From robot cars to real careers: Guilford County teachers bring new robotics program to the classroom](https://www.wfmynews2.com/article/life/local-life/guilford-county-schools-brings-new-jezero-deloitte-robotics-program-to-high-school-classrooms-university-of-north-carolina-greensboro-engineering-stem/83-77568e37-82ad-454e-b27a-2c09d9e3b18e)**
+**[US bans foreign-made humanoid robots, targeting China over national security - ABC News](https://abcnews.com/Business/wireStory/us-bans-foreign-made-humanoid-robots-targeting-china-135179676)**
 
-wfmynews2.com • 7h ago
+The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns
 
----
-
-**[Making robots faster by helping them think ahead](https://www.eurekalert.org/news-releases/1137936)**
-
-EurekAlert! • 6h ago
-
----
-
-**[Corpus Christi students explore robotics, coding at STEAM summer camp](https://www.kiiitv.com/article/news/local/corpus-christi-steam-robotics-camp-bethune-nursery/503-dfe47589-469d-497b-93a3-9d15e08a0fe9)**
-
-kiiitv.com • 12h ago
-
----
-
-**[US government bans humanoid robots manufactured abroad](https://www.france24.com/en/live-news/20260728-us-government-bans-humanoid-robots-manufactured-abroad)**
-
-US President Donald Trump's administration on Tuesday added humanoid and quadruped robots to a list of products and companies that are banned from being imported into the United States on national security…
-
-France 24 • 7h ago
-
----
-
-**[End-to-end automation with Productive Robotics](https://www.todaysmedicaldevelopments.com/product/end-to-end-automation-productive-robotics/)**
-
-The company demonstrates automation of metal removal, abrasive machining, sawing, and finishing processes.
-
-Today's Medical Developments • 1h ago
+ABC News - Breaking News, Latest News and Videos • 2h ago
 
 ---
 
@@ -188,7 +190,17 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 232K • 👍 3K • 💬 1K • ⏱️ 2:15 • 1d ago
+👁️ 267K • 👍 3K • 💬 1K • ⏱️ 2:15 • 1d ago
+
+---
+
+**[The Robot That Delivers My Storage Bins Is ALIVE](https://www.youtube.com/watch?v=J6XCuaFs-HQ)**
+
+https://pcbway.com/g/t69mBf Each new pcbway membership will get their first $5 welcome coupon for free. I built a robot that ...
+
+📺 Hobby Built
+
+👁️ 50K • 👍 3K • 💬 217 • ⏱️ 54:19 • 1d ago
 
 ---
 
@@ -198,17 +210,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 16K • 👍 481 • 💬 27 • ⏱️ 4:23 • 2d ago
-
----
-
-**[The Nightmare Robot Dog](https://www.youtube.com/watch?v=eL3qcDOma7s)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UC4pNDofN0Xh-z2bhh62g8Ow/join Music: Yhello ...
-
-📺 Not What You Think
-
-👁️ 144K • 👍 8K • 💬 459 • ⏱️ 0:29 • 15h ago
+👁️ 17K • 👍 486 • 💬 27 • ⏱️ 4:23 • 2d ago
 
 ---
 
@@ -218,7 +220,7 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 6K • 👍 158 • 💬 95 • ⏱️ 3:10 • 1d ago
+👁️ 6K • 👍 160 • 💬 96 • ⏱️ 3:10 • 1d ago
 
 ---
 
@@ -232,33 +234,13 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 ---
 
-**[The Lockdown Vulcan Setup You NEED To Try [War Robots]](https://www.youtube.com/watch?v=KddlarGe_JM)**
+**[The Nightmare Robot Dog](https://www.youtube.com/watch?v=eL3qcDOma7s)**
 
-The Lockdown Vulcan setup you NEED to try – that is the Vulcan with Ultimate Coronas and Ultimate Shredders in War Robots.
+Join this channel to get access to perks: https://www.youtube.com/channel/UC4pNDofN0Xh-z2bhh62g8Ow/join Music: Yhello ...
 
-📺 Adrian Chong
+📺 Not What You Think
 
-👁️ 4K • 👍 215 • 💬 42 • ⏱️ 12:54 • 17h ago
-
----
-
-**[Ultimate Bumblebee Transformers Toy Collection: Camaro, Robot, Beetle &amp; Rare Action Figures 4K HD](https://www.youtube.com/watch?v=z6WPmqSAr_A)**
-
-Discover the ultimate Bumblebee Transformers toy collection featuring classic Camaro models, Volkswagen Beetle, robot figures, ...
-
-📺 Bob ToysReview
-
-👁️ 19K • 👍 50 • 💬 1 • ⏱️ 9:29 • 1d ago
-
----
-
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
-
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
-
-📺 New York Post
-
-👁️ 64K • 👍 1K • 💬 524 • ⏱️ 2:02 • 6d ago
+👁️ 164K • 👍 9K • 💬 483 • ⏱️ 0:29 • 18h ago
 
 ---
 
@@ -272,13 +254,33 @@ AI-powered humanoid robots are becoming more advanced, with some designed to int
 
 ---
 
+**[The Lockdown Vulcan Setup You NEED To Try [War Robots]](https://www.youtube.com/watch?v=KddlarGe_JM)**
+
+The Lockdown Vulcan setup you NEED to try – that is the Vulcan with Ultimate Coronas and Ultimate Shredders in War Robots.
+
+📺 Adrian Chong
+
+👁️ 5K • 👍 224 • 💬 43 • ⏱️ 12:54 • 20h ago
+
+---
+
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+
+📺 New York Post
+
+👁️ 65K • 👍 1K • 💬 536 • ⏱️ 2:02 • 6d ago
+
+---
+
 **[The Robot Hand That Can Grab Anything](https://www.youtube.com/watch?v=hERNweUccK4)**
 
 Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" for 20% off.
 
 📺 The Action Lab
 
-👁️ 433K • 👍 12K • 💬 901 • ⏱️ 7:44 • 3d ago
+👁️ 438K • 👍 12K • 💬 907 • ⏱️ 7:44 • 3d ago
 
 ---
 

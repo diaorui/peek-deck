@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-29T06:31:08.653638+00:00'
+updated: '2026-07-29T09:37:32.250316+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 29, 2026 at 06:31 UTC  
+**Last Updated:** July 29, 2026 at 09:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[1,178 employees of frontier AI companies have signed to "Pace the frontier AI development"](https://www.reddit.com/r/artificial/comments/1v9lrad/1178_employees_of_frontier_ai_companies_have/)**
+
+Pacing the Frontier A statement from 1,178 employees of frontier AI companies https://www.pacingthefrontier.com/ What do you think about this? Share your views. I'm conflicted.
+
+5h ago
+
+---
+
 **[AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain](https://www.reddit.com/r/artificial/comments/1v8ilsm/ai_companies_are_buying_antique_books_ingesting/)**
 
 Source AI companies are literally destroying physical books to train their models. Using hydraulic cutting machines, they rip pages from used books, scan them with industrial equipment, and feed them into their AI systems. This practice, protected by the first-sale doctrine and fair use, has now become so widespread that book sellers are cashing in on the AI boom. Rare and out-of-print books are being pulped, raising serious ethical and cultural concerns about the cost of AI progress.
@@ -45,11 +53,35 @@ Source AI companies are literally destroying physical books to train their model
 
 ---
 
+**[How I made small local AI models stop breaking JSON - a grammar-based approach](https://www.reddit.com/r/artificial/comments/1v9r73b/how_i_made_small_local_ai_models_stop_breaking/)**
+
+I wrote a post about a specific problem with running AI agents on local models: they're unreliable with structured output. You ask for JSON, they mostly deliver, but then they forget a closing brace, invent a tool name, or add a paragraph of text after the JSON object. Hosted APIs like OpenAI handle this server-side. Locally, you're on your own. My approach: llama.cpp supports GBNF grammars that constrain which tokens the model can produce. I wrote a compiler that turns each tool's schema into grammar rules, so the model's output is constrained at every token position. It literally cannot produce malformed JSON. Then I narrow the grammar per-turn so the model only sees the 3-5 tools that are relevant instead of all 50. The post is a deep dive with real code from the project (Eris, a local agent in Rust that uses your Markdown notes as memory, runs entirely on your machine). https://eris-system.dev/blog/gbnf-grammars Repo: https://github.com/janpauldahlke/eris (Apache 2.0) ps. i wanted to share how i solve the problem, it is related to my project, but not self advertisement.
+
+5m ago
+
+---
+
+**[IS AI destroying companies and putting people out of jobs?](https://www.reddit.com/r/artificial/comments/1v9qla8/is_ai_destroying_companies_and_putting_people_out/)**
+
+Let’s discuss this.
+
+39m ago
+
+---
+
+**[~1,400 years ago, scholars built a rigorous system to verify who you can trust. I rebuilt it as a trust layer for AI agents.](https://www.reddit.com/r/artificial/comments/1v9qdpe/1400_years_ago_scholars_built_a_rigorous_system/)**
+
+I wrote this and just put it on arXiv, sharing for the discussion. When statements spread through long chains of people — some reliable, some not — you can't trust a claim just because it sounds right. Islamic scholars faced this centuries ago and built one of history's most rigorous systems for verifying transmitted knowledge: every claim carries its full chain of transmitters (isnād), every transmitter is graded on integrity and precision (rijāl), the chain is only as strong as its weakest link, independent chains raise confidence, and even a flawless chain doesn't excuse a flawed message. Now look at AI in 2026. An answer passes through a scraper, an extractor, several models, a synthesizer. Some links are reliable, some aren't — and when they fail, they fail silently. A confident, fluent answer that's quietly wrong. Everyone is racing to verify the agent: its identity, its permissions, its access. Almost no one is verifying the claim: whether what it said is true and independently corroborated. So I took that centuries-old methodology and rebuilt it as a trust layer for multi-agent AI. I call it ISNAD. Everyone verifies the agent; ISNAD verifies the claim. The rigor belongs to twelve centuries of scholars — the transfer to AI is mine. I also wrote the failures into the paper: some mechanisms are validated, others aren't yet, and I said so in detail. A trust framework that hides its weaknesses is a contradiction in terms. Paper: https://arxiv.org/abs/2607.24117 Code: https://github.com/alizahidraja/isnad Agree or disagree, I'd love to hear it.
+
+51m ago
+
+---
+
 **[Using Claude Mythos Preview, researchers at Anthropic have discovered improved ways to attack cryptographic algorithms (the mathematical methods used to keep online data private)](https://www.reddit.com/r/artificial/comments/1v99cuk/using_claude_mythos_preview_researchers_at/)**
 
 Anthropic researchers find weaknesses in cryptographic algorithms with Claude Mythos Preview
 
-🔗 [anthropic.com](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) • 10h ago
+🔗 [anthropic.com](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) • 13h ago
 
 ---
 
@@ -57,15 +89,7 @@ Anthropic researchers find weaknesses in cryptographic algorithms with Claude My
 
 We built a free, static-only scanner — 18 checks, no API calls, just HTML analysis. Then we pointed it at five brands that obsess over customer experience: Glossier, Allbirds, Gymshark, Drunk Elephant, and Brooklinen. https://preview.redd.it/jvc3yi9xt3gh1.png?width=907&format=png&auto=webp&s=6b3eec8215adceb05c557e3818b802e8fde8ef0c Every brand has clean structured data. Prices are server-rendered. No prompt injection. Robots.txt is open. The data layer works. But the moment an agent tries to do something — pick a size, add to cart, search for another product — it hits a wall of custom JavaScript that has no semantic meaning. Gymshark is the most striking. Three million monthly visits, Gen Z audience (the demographic most likely to use AI shopping agents), and their homepage has no search form an agent can find. The size picker is invisible to non-browser clients. The cart API returns nothing. An agent trying to buy a $30 t-shirt would fail at every interaction step. The revenue math is uncomfortable. If 5-15% of traffic is AI-referred (Gartner's 2027 projection), and these agents convert at 2-4% when they work, these five brands are collectively leaving $82,000 to $491,000 per month on the table. Not because their products are bad or their pages are ugly — because their size pickers use <div> instead of <select>. The fix is boring. Semantic HTML. A 20-line llms.txt file. Re-enabling the Shopify cart API that was on by default. The brands scoring highest in our 17-brand leaderboard (Kylie Cosmetics: 100, Framebridge: 96) aren't doing anything exotic. They're just using <select> elements and standard forms. The gap between "a beautiful page" and "a page agents can shop" is about a day of developer time. The question is which brands close it first. Scanned July 2026 with https://github.com/monkrus/agent-a. 18 static checks. Scanner is open source.
 
-59m ago
-
----
-
-**[1,178 employees of frontier AI companies have signed to "Pace the frontier AI development"](https://www.reddit.com/r/artificial/comments/1v9lrad/1178_employees_of_frontier_ai_companies_have/)**
-
-Pacing the Frontier A statement from 1,178 employees of frontier AI companies https://www.pacingthefrontier.com/ What do you think about this? Share your views. I'm conflicted.
-
-1h ago
+4h ago
 
 ---
 
@@ -77,43 +101,19 @@ I've been thinking about this one all weekend and I keep coming back to the same
 
 ---
 
-**[AI coding tools are saving me hours but I genuinely can't tell if I'm getting dumber](https://www.reddit.com/r/artificial/comments/1v98szp/ai_coding_tools_are_saving_me_hours_but_i/)**
-
-AI coding tools are saving me hours but I genuinely can't tell if I'm getting dumber Running a bootstrapped SaaS solo while also being home with a kid most of the day means my actual focused coding time is maybe 90 minutes if I'm lucky. So I leaned hard into Cursor and Claude to ship faster. And it's working, kind of. The thing I keep sitting with: I'm shipping features I would have spent days on. But when something breaks in a weird way, there are moments where I have to really dig to understand what the AI wrote and why. That used to not happen. I'd write it, I'd know it. There's a version of this that's fine, maybe even good. Nobody handrolls SQL joins and loses sleep over it. But there's another version where I'm slowly losing the ability to debug my own product at a fundamental level, which for a solo founder is a pretty bad place to end up. The cost/benefit math feels obvious day to day. Zoom out six months and I'm less sure. Curious whether others running small technical products have hit this wall or if I'm just being paranoid about a tool that's clearly net positive. Also wondering if this is skill atrophy or just a different skill now. Alt titles: Anyone else feel like AI coding tools are making you faster but less sharp? | Solo technical founders: are you actually understanding what AI writes for you? | Is AIassisted coding a longterm liability for small teams or am I overthinking it?
-
-10h ago
-
----
-
 **[Will AI literacy become a basic workplace skill?](https://www.reddit.com/r/artificial/comments/1v8vu55/will_ai_literacy_become_a_basic_workplace_skill/)**
 
 A few years ago, knowing how to use a computer was a big advantage. Today, it’s expected. I feel AI might follow a similar path. Knowing how to use AI tools effectively could become a basic skill across many jobs. Not everyone needs to build AI models but understanding how to use them, verify outputs and improve workflows might become important. Do you think AI skills will become a normal requirement in the workplace or is the hype bigger than the actual impact?
 
-18h ago
+22h ago
 
 ---
 
-**[Private Claude chats exposed on Google search results](https://www.reddit.com/r/artificial/comments/1v8gcbk/private_claude_chats_exposed_on_google_search/)**
+**[AI coding tools are saving me hours but I genuinely can't tell if I'm getting dumber](https://www.reddit.com/r/artificial/comments/1v98szp/ai_coding_tools_are_saving_me_hours_but_i/)**
 
-Over the weekend, Reddit users discovered a trove of private Claude chatbot conversations were indexed and publicly accessible on Google search. Anthropic confirmed the exposure Monday and attributed it to users' misuse of Claude’s “share chat” tool. “We give people control over sharing their Claude conversations publicly," a spokesperson told TechCrunch. "These shareable links are not guessable or discoverable unless people ... share them themselves." Some leaked chats reportedly contained personal data, including medical records and cryptocurrency wallet keys.
+AI coding tools are saving me hours but I genuinely can't tell if I'm getting dumber Running a bootstrapped SaaS solo while also being home with a kid most of the day means my actual focused coding time is maybe 90 minutes if I'm lucky. So I leaned hard into Cursor and Claude to ship faster. And it's working, kind of. The thing I keep sitting with: I'm shipping features I would have spent days on. But when something breaks in a weird way, there are moments where I have to really dig to understand what the AI wrote and why. That used to not happen. I'd write it, I'd know it. There's a version of this that's fine, maybe even good. Nobody handrolls SQL joins and loses sleep over it. But there's another version where I'm slowly losing the ability to debug my own product at a fundamental level, which for a solo founder is a pretty bad place to end up. The cost/benefit math feels obvious day to day. Zoom out six months and I'm less sure. Curious whether others running small technical products have hit this wall or if I'm just being paranoid about a tool that's clearly net positive. Also wondering if this is skill atrophy or just a different skill now. Alt titles: Anyone else feel like AI coding tools are making you faster but less sharp? | Solo technical founders: are you actually understanding what AI writes for you? | Is AIassisted coding a longterm liability for small teams or am I overthinking it?
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/private-claude-chats-exposed-on-google-search-results-9083650/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 1d ago
-
----
-
-**[Godel and the Limits of LLM Reachable Intelligence](https://www.reddit.com/r/artificial/comments/1v93evv/godel_and_the_limits_of_llm_reachable_intelligence/)**
-
-In-depth analysis and research from SenTeGuard, a cognitive security company, on LLM threats, idea leakage, information reachability, and AI governance.
-
-🔗 [SenTeGuard](https://senteguard.com/blog/limits-of-llmreachable-intelligence) • 14h ago
-
----
-
-**[Trying to find the way](https://www.reddit.com/r/artificial/comments/1v9kmda/trying_to_find_the_way/)**
-
-I think I’m close to my “this is the way” moment with local AI and agents. I’ve been learning a lot in my free time, but I’m not a developer by any means. Here’s where I’ve landed: Two machines. An always-on server (Ubuntu or Proxmox) an old gaming PC is great for this, and a portable daily driver for learning and building. Rent it or build it, whatever works financially. The stack. Docker, n8n for automation, GPUStack/vLLM for running models locally, Backrest for backups. The basics for automation and inference. The skills. Python basics, APIs, general coding. This is by far the longest part. The idea. Automate what you can, use inference where you can’t. Scripts handle the clicking, moving and organising. Agents step in when something needs thinking, writing, debugging, judgement calls. Find a problem, solve it in a way a person would actually enjoy using, repeat.
-
-2h ago
+14h ago
 
 ---
 
@@ -121,67 +121,23 @@ I think I’m close to my “this is the way” moment with local AI and agents.
 
 ## Google News: "ai"
 
-**[Mark Zuckerberg Blasts Centralization of A.I. Power](https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html)**
-
-The New York Times • 5h ago
-
----
-
 **[Mark Zuckerberg says US should not ban Chinese AI](https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4?syn-25a6b1a6=1)**
 
 Meta chief warns against ‘regulatory capture’ of American rules on the technology
 
-Financial Times • 4h ago
+Financial Times • 7h ago
+
+---
+
+**[Mark Zuckerberg Blasts Centralization of A.I. Power](https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html)**
+
+The New York Times • 8h ago
 
 ---
 
 **[Opinion | The AI Future Is for Everyone](https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20)**
 
-WSJ • 13h ago
-
----
-
-**[Deutsche Bank CFO: Feel good about being European option for AI deals](https://www.cnbc.com/video/2026/07/29/deutsche-bank-cfo-feel-good-about-being-european-option-for-ai-deals.html)**
-
-Raja Akram, CFO at Deutsche Bank, speaks to CNBC's Annette Weisbach on half-year earnings, and discusses how he 'feels good' about being a European alternative, outside of the U.S., for dealmaking in AI.
-
-CNBC • 31m ago
-
----
-
-**[The AI Trade Is at a Crossroads. How to Hedge Against Another Alphabet Dip.](https://www.barrons.com/articles/ai-alphabet-stock-options-trading-ccc1d54f)**
-
-Barron's • 1h ago
-
----
-
-**[AI isn’t taking jobs, yet](https://www.ft.com/content/e5f66a11-02bc-4caa-bdbf-9ed1f60747f5?syn-25a6b1a6=1)**
-
-Plus, oil is a problem again
-
-Financial Times • 59m ago
-
----
-
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
-
-Reuters • 10h ago
-
----
-
-**[New York school pauses plan to deploy humanlike AI robot teacher after backlash](https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df)**
-
-A school district in a rural corner of upstate New York is hitting pause on plans to deploy an AI-powered, humanoid robot in the classroom.
-
-AP News • 7h ago
-
----
-
-**[Trump administration bans new Chinese humanoid robots](https://www.bbc.com/news/articles/cp9e2ex3ekyo)**
-
-The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
-
-BBC • 4h ago
+WSJ • 16h ago
 
 ---
 
@@ -189,7 +145,51 @@ BBC • 4h ago
 
 Top staffers from the biggest AI and technology companies urged the US government to slow the pace of artificial intelligence development so that safety and security measures can catch up in an open letter.
 
-CNN • 7h ago
+CNN • 10h ago
+
+---
+
+**[More than 1,000 AI workers urge safeguards to slow AI development](https://www.yahoo.com/news/science/articles/more-1-000-ai-workers-090334137.html)**
+
+More than 1,000 employees at leading artificial intelligence (AI) companies have signed an open letter calling for safeguards that would allow the rapid advance of AI to be slowed if necessary. They w...
+
+Yahoo • 33m ago
+
+---
+
+**[AI industry slowdown may be needed after security scare, leaders warn](https://techxplore.com/news/2026-07-ai-industry-slowdown-leaders.html)**
+
+Tech Xplore • 57m ago
+
+---
+
+**[UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch](https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html)**
+
+The Swiss banking gian reported pre-tax profits of $3.6 billion for the quarter, as CEO Sergio Ermotti warned of geopolitical volatility ahead.
+
+CNBC • 1h ago
+
+---
+
+**[New York school pauses plan to deploy humanlike AI robot teacher after backlash](https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher)**
+
+A school district in upstate New York is pausing plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and local residents raised concerns.
+
+NPR • 12m ago
+
+---
+
+**[Trump administration bans new Chinese humanoid robots](https://www.bbc.com/news/articles/cp9e2ex3ekyo)**
+
+The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
+
+BBC • 7h ago
+
+---
+
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+
+Reuters • 13h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNN • 7h ago
 
 The case centers on Tunick's use of GrapheneOS, an open-source operating system that works on Google Pixel phones and lets users enter a passcode to wipe a...
 
-⬆️ 1317 • 💬 1101 • 2d ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+⬆️ 1318 • 💬 1105 • 2d ago • [TechSpot](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 
 ---
 
@@ -209,7 +209,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're
 
-⬆️ 785 • 💬 508 • 1d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
+⬆️ 788 • 💬 508 • 1d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 
 ---
 
@@ -217,7 +217,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.
 
-⬆️ 291 • 💬 266 • 2d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+⬆️ 291 • 💬 270 • 2d ago • [AGN](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 
 ---
 
@@ -225,7 +225,7 @@ London Gatwick is the first UK airport to launch robotic parking. Passengers can
 
 Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing battle over federal policy
 
-⬆️ 274 • 💬 144 • 1d ago • [ft.com](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
+⬆️ 275 • 💬 144 • 1d ago • [ft.com](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
 
 ---
 
@@ -233,7 +233,7 @@ Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing
 
 Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where's Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom's most "acerbic gadfly" – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he's right. You've been calling AI a bubble since before it was fashionable.
 
-⬆️ 249 • 💬 352 • 1d ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+⬆️ 251 • 💬 352 • 1d ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 
 ---
 
@@ -241,7 +241,15 @@ Memory prices have doubled, Macs and iPads have gone up, and iPhones are expecte
 
 Burnout is on the rise again, with an ironic twist.
 
-⬆️ 214 • 💬 78 • 2d ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+⬆️ 215 • 💬 78 • 2d ago • [rickmanelius.com](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+
+---
+
+**[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://news.ycombinator.com/item?id=49092499)**
+
+A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you've mastered new skills.
+
+⬆️ 180 • 💬 108 • 7h ago • [LearnVector](https://learnvector.ai/)
 
 ---
 
@@ -253,15 +261,7 @@ Burnout is on the rise again, with an ironic twist.
 
 **[Google's Beyond Zero: Enterprise Security for the AI Era](https://news.ycombinator.com/item?id=49081644)**
 
-⬆️ 148 • 💬 75 • 20h ago • [spawn-queue.acm.org](https://spawn-queue.acm.org/doi/10.1145/3819083)
-
----
-
-**[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://news.ycombinator.com/item?id=49092499)**
-
-A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you've mastered new skills.
-
-⬆️ 144 • 💬 70 • 4h ago • [LearnVector](https://learnvector.ai/)
+⬆️ 151 • 💬 77 • 23h ago • [spawn-queue.acm.org](https://spawn-queue.acm.org/doi/10.1145/3819083)
 
 ---
 
@@ -269,7 +269,7 @@ A new AI company from Andrew Ng, with a $100M investment from Coursera — build
 
 Formally verified 3D mesh intersection - trust 93 lines of spec, not 1000+ lines of AI-written code - schildep/verified-3d-mesh-intersection
 
-⬆️ 108 • 💬 47 • 17h ago • [GitHub](https://github.com/schildep/verified-3d-mesh-intersection)
+⬆️ 109 • 💬 48 • 20h ago • [GitHub](https://github.com/schildep/verified-3d-mesh-intersection)
 
 ---
 
@@ -283,7 +283,7 @@ Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the
 
 📺 Sean Foo
 
-👁️ 71K • 👍 5K • 💬 487 • ⏱️ 14:46 • 1d ago
+👁️ 72K • 👍 5K • 💬 490 • ⏱️ 14:46 • 1d ago
 
 ---
 
@@ -293,37 +293,7 @@ Chris Cuomo opens "The Future Is Now" after being momentarily replaced by a robo
 
 📺 NewsNation
 
-👁️ 5K • 👍 122 • 💬 32 • ⏱️ 5:07 • 5h ago
-
----
-
-**[Why the AI crash is going viral](https://www.youtube.com/watch?v=iR0P6eVqpy8)**
-
-I explain the news, you stay sane. ✓ Support independent news ...
-
-📺 Chris Norlund
-
-👁️ 254K • 👍 10K • 💬 2K • ⏱️ 15:38 • 1d ago
-
----
-
-**[AI Whistleblower: The World Will Change Horribly In The Next 12 Months](https://www.youtube.com/watch?v=VX0GU7gyIOU)**
-
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Daniel Kokotajlo, a former OpenAI ...
-
-📺 Neural Nutshell
-
-👁️ 36K • 👍 1K • 💬 312 • ⏱️ 15:25 • 1d ago
-
----
-
-**[AI Layoffs Have Completely BACKFIRED](https://www.youtube.com/watch?v=UU4ogejP-Ms)**
-
-Replacing Humans With AI Has Been A Complete Disaster Get 20% off DeleteMe by going to ...
-
-📺 Damon Cassidy
-
-👁️ 58K • 👍 3K • 💬 634 • ⏱️ 21:32 • 6h ago
+👁️ 6K • 👍 132 • 💬 36 • ⏱️ 5:07 • 8h ago
 
 ---
 
@@ -333,37 +303,37 @@ Palantir CEO Alex Karp discusses open-weight artificial intelligence models, how
 
 📺 Fox Business
 
-👁️ 78K • 👍 1K • 💬 218 • ⏱️ 13:22 • 1d ago
+👁️ 79K • 👍 1K • 💬 221 • ⏱️ 13:22 • 1d ago
 
 ---
 
-**[South Korea&#39;s AI bubble just crashed](https://www.youtube.com/watch?v=8tZt85X4DjA)**
+**[The AI data center secret just got out](https://www.youtube.com/watch?v=ShbBUi6rcgI)**
 
 I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 236K • 👍 10K • 💬 1K • ⏱️ 14:58 • 16h ago
+👁️ 202K • 👍 9K • 💬 2K • ⏱️ 16:17 • 1d ago
 
 ---
 
-**[Chinese AI Startup Moonshot Needs NVIDIA Blackwell GPU&#39;s for Kimi K4 - China Hardware Fails](https://www.youtube.com/watch?v=gZtF-HUFm5s)**
+**[AI Layoffs Have Completely BACKFIRED](https://www.youtube.com/watch?v=UU4ogejP-Ms)**
 
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+Replacing Humans With AI Has Been A Complete Disaster Get 20% off DeleteMe by going to ...
 
-📺 Eli the Computer Guy
+📺 Damon Cassidy
 
-👁️ 6K • 👍 259 • 💬 112 • ⏱️ 11:22 • 6h ago
+👁️ 86K • 👍 4K • 💬 739 • ⏱️ 21:32 • 9h ago
 
 ---
 
-**[Why AI Is an Even Bigger Deal Than You Think | Reed Hastings | TED](https://www.youtube.com/watch?v=5e37ZT3SQbk)**
+**[AI Whistleblower: The World Will Change Horribly In The Next 12 Months](https://www.youtube.com/watch?v=VX0GU7gyIOU)**
 
-Netflix cofounder and Anthropic board member Reed Hastings joins TED's Sal Khan to give a look inside the race to build AI.
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Daniel Kokotajlo, a former OpenAI ...
 
-📺 TED
+📺 Neural Nutshell
 
-👁️ 12K • 👍 327 • 💬 50 • ⏱️ 16:25 • 15h ago
+👁️ 44K • 👍 1K • 💬 382 • ⏱️ 15:25 • 1d ago
 
 ---
 
@@ -373,7 +343,37 @@ Sam Altman says OpenAI's ultimate AI could work like a genie that grants any wis
 
 📺 AI Revolution
 
-👁️ 48K • 👍 2K • 💬 267 • ⏱️ 13:07 • 1d ago
+👁️ 49K • 👍 2K • 💬 272 • ⏱️ 13:07 • 1d ago
+
+---
+
+**[Why the AI crash is going viral](https://www.youtube.com/watch?v=iR0P6eVqpy8)**
+
+I explain the news, you stay sane. ✓ Support independent news ...
+
+📺 Chris Norlund
+
+👁️ 259K • 👍 10K • 💬 2K • ⏱️ 15:38 • 1d ago
+
+---
+
+**[10 Times AI Said Things That Scientists Still Can&#39;t Explain](https://www.youtube.com/watch?v=mH4NmqSl2FE)**
+
+Artificial intelligence has produced responses so strange and unexpected that even the researchers who built these systems ...
+
+📺 MostAmazingTop10
+
+👁️ 89K • 👍 2K • 💬 162 • ⏱️ 8:49 • 1d ago
+
+---
+
+**[South Korea&#39;s AI bubble just crashed](https://www.youtube.com/watch?v=8tZt85X4DjA)**
+
+I explain the news, you stay sane. ✓ Support independent news ...
+
+📺 Chris Norlund
+
+👁️ 250K • 👍 10K • 💬 1K • ⏱️ 14:58 • 20h ago
 
 ---
 
@@ -389,7 +389,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 99,214 • ❤️ 8,228 • 1d ago
+⬇️ 99,214 • ❤️ 8,344 • 1d ago
 
 ---
 
@@ -401,19 +401,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,694,935 • ❤️ 3,440 • 1h ago
-
----
-
-**[Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)**
-
-*upstage*
-
-Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agentic tasks like office productivity and coding, featuring a Hybrid-Attention architecture for efficient long-context inference up to 1M tokens. It supports English, Korean, and Japanese, offering competitive performance on agent benchmarks with minimal inference cost.
-
-`text-generation` `250.3B`
-
-⬇️ 4,804 • ❤️ 668 • 1d ago
+⬇️ 2,694,935 • ❤️ 3,460 • 5h ago
 
 ---
 
@@ -425,7 +413,19 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 736,692 • ❤️ 868 • 1d ago
+⬇️ 736,692 • ❤️ 877 • 1h ago
+
+---
+
+**[Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)**
+
+*upstage*
+
+Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agentic tasks like office productivity and coding, featuring a Hybrid-Attention architecture for efficient long-context inference up to 1M tokens. It supports English, Korean, and Japanese, offering competitive performance on agent benchmarks with minimal inference cost.
+
+`text-generation` `250.3B`
+
+⬇️ 4,804 • ❤️ 682 • 1d ago
 
 ---
 
@@ -437,7 +437,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 67,286 • ❤️ 804 • 1d ago
+⬇️ 67,286 • ❤️ 805 • 1d ago
 
 ---
 
@@ -449,7 +449,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 18,933 • ❤️ 533 • 17h ago
+⬇️ 18,933 • ❤️ 535 • 20h ago
 
 ---
 
@@ -461,7 +461,7 @@ Mage-Flow is a 4B-scale text-to-image generation and instruction-based image edi
 
 `text-to-image` `4.1B`
 
-⬇️ 2,007 • ❤️ 423 • 6d ago
+⬇️ 2,007 • ❤️ 430 • 6d ago
 
 ---
 
@@ -473,7 +473,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 6,275 • ❤️ 293 • 1d ago
+⬇️ 6,275 • ❤️ 295 • 1d ago
 
 ---
 
@@ -485,7 +485,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 645 • ❤️ 272 • 1d ago
+⬇️ 645 • ❤️ 276 • 1d ago
 
 ---
 
@@ -497,7 +497,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,267,198 • ❤️ 4,614 • 26d ago
+⬇️ 1,267,198 • ❤️ 4,617 • 27d ago
 
 ---
 
@@ -513,7 +513,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 294 • 💬 5 • ⭐ 3,654 • 2d ago
+▲ 307 • 💬 5 • ⭐ 3,654 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -527,7 +527,7 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 71 • 💬 5 • ⭐ 19,877 • 1mo ago
+▲ 72 • 💬 5 • ⭐ 20,112 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -539,7 +539,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 50 • 💬 4 • ⭐ 34,814 • 12mo ago
+▲ 50 • 💬 4 • ⭐ 34,867 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -567,7 +567,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 175 • 💬 10 • ⭐ 50,897 • 11mo ago
+▲ 175 • 💬 10 • ⭐ 51,013 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -631,7 +631,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more than isolated prompt-output interactions. It involves references, drafts, alternatives, edits, failed attempts, version relations, tool actions, evaluation signals, and human feedback, which together form an evolving project state. Existing prompt-based, chat-based, and node-based generation systems only partially support this state, as they often discard intermediate context, rely on linear conversations, or require manually specified workflows. Recent commercial systems indicate a shift toward agent-assisted creative production, but their closed architectures make it difficult to study how agents represent context, choose tools, revise artifacts, recover from failures, and maintain consistency over time. To address this gap, we introduce JarvisHub, a canvas-native creative agent harness for long-horizon multimodal creation. JarvisHub treats an editable canvas as the user workspace, the agent's external memory, action space, and shared project state, representing multimodal artifacts, dependencies, versions, and feedback as typed canvas nodes and links. Through a three-layer architecture of canvas state, protocol bridge, and agent runtime, JarvisHub enables agents to act within an inspectable and editable creative state. This design moves creative agents beyond isolated tool use toward sustained, human-steerable creative automation, where agents can progressively plan, generate, revise, and organize multimodal projects while users remain able to inspect, guide, and intervene throughout the process.
 
-▲ 112 • 💬 2 • ⭐ 85 • 3d ago
+▲ 113 • 💬 2 • ⭐ 85 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.23588) • [💻 code](https://github.com/LYL1015/JarvisHub) • [🔗 project](https://www.jarvishub.site/)
 
@@ -657,7 +657,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.3k • 🔱 261 • 2d ago
+⭐ 3.3k • 🔱 264 • 2d ago
 
 ---
 
@@ -667,7 +667,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 403 • 6h ago
+⭐ 2.9k • 🔱 403 • 11m ago
 
 ---
 
@@ -677,7 +677,7 @@ The open-source AI workbench for scientific research
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.6k • 🔱 303 • 20d ago
+⭐ 2.6k • 🔱 305 • 20d ago
 
 ---
 
@@ -687,7 +687,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.6k • 🔱 218 • 23h ago
+⭐ 2.6k • 🔱 223 • 1d ago
 
 ---
 
@@ -695,7 +695,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 2.1k • 🔱 233 • 2d ago
+⭐ 2.2k • 🔱 239 • 3d ago
 
 ---
 
@@ -705,7 +705,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 201 • 1d ago
+⭐ 1.8k • 🔱 202 • 1d ago
 
 ---
 
@@ -715,7 +715,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.6k • 🔱 1.1k • 2m ago
+⭐ 1.6k • 🔱 1.1k • 1m ago
 
 ---
 
@@ -723,7 +723,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.5k • 🔱 114 • 7d ago
+⭐ 1.5k • 🔱 115 • 7d ago
 
 ---
 
@@ -733,7 +733,7 @@ Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, t
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 92 • 7d ago
+⭐ 1.2k • 🔱 94 • 7d ago
 
 ---
 
