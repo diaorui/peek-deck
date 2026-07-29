@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-29T03:49:20.542443+00:00'
+updated: '2026-07-29T06:31:08.668369+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 03:49 UTC  
+**Last Updated:** July 29, 2026 at 06:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,899.34
+### $1,906.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +0.9%  
-**30d:** +20.5%  
-**90d:** -17.5%  
-**1y:** -50.3%  
+**24h:** +1.9%  
+**7d:** +2.2%  
+**30d:** +22.1%  
+**90d:** -16.4%  
+**1y:** -49.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.82B
+**Market Cap:** $230.98B
 Rank #2
 
 **Circulating Supply:** 120,682,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.7%
+-61.3%
 
 **All-Time Low:** $0.43
-+437651.0%
++442131.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-2d ago
+3d ago
 
 ---
 
@@ -128,7 +128,7 @@ There were problems with my regular payment, but I was craving takeout. In just 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -144,7 +144,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
@@ -164,15 +164,23 @@ The Block • 13h ago
 
 Wall Street giant Morgan Stanley has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.
 
-Decrypt • 8h ago
+Decrypt • 11h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, July 28, 2026: Crypto prices slide ahead of Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-28-2026-crypto-prices-slide-ahead-of-fed-meeting-125210301.html)**
+**[Bitmine Immersion Technologies (BMNR) Backs Tom Lee’s Ethereum Infrastructure Bet On Lighter](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-backs-050734120.html)**
 
-Bitcoin opened at $63,706.66 on Tuesday, July 28, 2026, 2.5% lower than Monday's opening price. Ethereum opened at $1,890.67, down 3.2% from Monday's opening price.
+BitMine Immersion Technologies Chairman Tom Lee has publicly endorsed Lighter, an Ethereum layer 2 perpetual DEX, as a critical infrastructure layer for the network. Lee framed Lighter as a potential breakout success, drawing investor attention to BitMine Immersion Technologies' role in the broader Ethereum ecosystem. The endorsement has arrived while Lighter faces questions about declining revenue and operational traction. BitMine Immersion Technologies, NYSE:BMNR, now sits at the...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin ETFs Bleed While Ethereum Funds Post Third Straight Weekly Inflow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-while-ethereum-055451344.html)**
+
+Bitcoin ETFs lost 3,170 BTC in a week as Ethereum funds added 37,959 ETH, extending a third straight inflow streak.
+
+Yahoo Finance • 37m ago
 
 ---
 
@@ -180,31 +188,7 @@ Yahoo Finance • 14h ago
 
 The startup, which spun out of the Ethereum Foundation earlier this month, is focused on building privacy infrastructure for banks and other financial institutions.
 
-CoinDesk • 12h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.79 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-79-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302834876.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months Bitmine repurchased 6.1...
-
-PR Newswire • 1d ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys more as Tom Lee says ETH-BTC sends bullish signal](https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices)**
-
-The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
-
-CoinDesk • 1d ago
-
----
-
-**[Why Bitmine Stock Popped Today](https://www.fool.com/investing/2026/07/27/why-bitmine-stock-bmnr-is-up-today/)**
-
-The crypto treasury leader has quietly amassed a significant share of Ethereum's total supply.
-
-The Motley Fool • 1d ago
+CoinDesk • 14h ago
 
 ---
 
@@ -216,17 +200,33 @@ TradingView • 1d ago
 
 ---
 
+**[Current price of Ethereum for July 28, 2026](https://fortune.com/article/price-of-ethereum-07-28-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 19h ago
+
+---
+
 **[Bitcoin’s breakdown puts Ethereum, Breadth and ALT risk back in focus](https://www.kitco.com/opinion/2026-07-28/bitcoins-breakdown-puts-ethereum-breadth-and-alt-risk-back-focus)**
 
 .embed-container-btc-breakdown-alt-risk { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container-btc-breakdown-alt-risk iframe, .embed-container-btc-breakdown-alt-risk object, .embed-container-btc-breakdown-alt-risk embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&nbsp;Video: Bitcoin Confirms The Next Drop Is Coming SoonBitcoin’s failure to sustain its recent higher-low structure has shifted the daily market update toward downside risk. Ethereum has not yet completed the same structural break, but its momentum warning is clear, while crypto breadth, the dollar and multiple ALT charts point to a more defensive backdrop.Bitcoin loses the structure that supported the prior upside caseBitcoin chart showing a break below recent higher-low structureThe source describes Bitcoin’s Monday red close and subsequent move below the prior low as the development that changed the near-term picture. Earlier upside expectations are no longer the focus; the chart is now being assessed against successive support steps and the possibility of further downside momentum.Ethereum has a warning signal but not full bearish confirmationEthereum chart inside the Cloud with RSI support brokenEthereum remains inside its Cloud and therefore has not yet completed the structural shift described for Bitcoin. However, RSI has already lost support. The source treats a bearish OBV cross and a move below the Cloud as the additional confirmation needed for the downside case, keeping the current read conditional rather than absolute.Dominance and crypto breadth show the dip is not being absorbedCrypto market breadth chart moving below the CloudBitcoin dominance is declining, but the source interprets that as selling into the dip rather than an automatic bullish signal for alternative assets. ETH.D, SOL.D, TOTALES and related breadth measures are showing breakdown or strong-bearish conditions. Dominance is market share, not a direct spot-price forecast, so those charts require careful interpretation.Dollar strength and equity weakness increase the risk backdropDollar index chart pushing higherDXY and USDJPY are still advancing in the source analysis, a combination viewed as unfavorable for broader risk assets. S&amp;P futures are in bearish consolidation, and the analysis notes bearish evidence across NDX, FANG and several large technology names. Asian-market weakness adds to the defensive tone without turning any one chart into a guaranteed outcome.Commodities send mixed signalsNASDAQ chart with a TBO Open Short signalGold has bullish-divergence evidence but remains strong bearish below the Cloud in the source view. Silver and uranium also remain bearish, while copper is holding relatively better. The PAXG/BTC chart is highlighted as an important relative-strength gauge: a confirmed shift there would indicate movement away from Bitcoin and toward gold.ALT setups favor caution and selectivitySolana chart with TBO Open Short confirmationSOL confirmed a TBO Open Short and moved into strong-bearish mode below the Cloud. LINK was rejected at the top of its Cloud, while XLM, NEAR, RENDER, FET and SEI each carry breakdown, support-loss or weakness commentary. The source does not reduce all ALT charts to one call, but it frames the broader context as unfavorable for indiscriminate risk-taking.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
 
-KITCO • 10h ago
+KITCO • 13h ago
 
 ---
 
 **[Large cryptocurrencies drop on Solana, Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-solana-ethereum-declines-d6d5186c-d3aa3f312e86)**
 
-MarketWatch • 13h ago
+MarketWatch • 16h ago
+
+---
+
+**[Lido Unveils Curated Module v2 in Ethereum Staking Overhaul](https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul)**
+
+Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
+
+The Defiant • 1d ago
 
 ---
 
@@ -234,13 +234,13 @@ MarketWatch • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
+**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
 
-Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
+Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
 
-📺 Thinking Crypto
+📺 Fundstrat
 
-👁️ 835 • 👍 101 • 💬 18 • ⏱️ 20:27 • 26m ago
+👁️ 85K • 👍 1K • 💬 238 • ⏱️ 6:11 • 1d ago
 
 ---
 
@@ -250,17 +250,7 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 📺 The Rollup
 
-👁️ 2K • 👍 30 • 💬 26 • ⏱️ 6:40 • 15h ago
-
----
-
-**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
-
-Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
-
-📺 Fundstrat
-
-👁️ 81K • 👍 1K • 💬 236 • ⏱️ 6:11 • 1d ago
+👁️ 2K • 👍 31 • 💬 26 • ⏱️ 6:40 • 18h ago
 
 ---
 
@@ -270,7 +260,17 @@ Are these fear headlines driving Bitcoin price analysis or just market manipulat
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 586 • 💬 393 • ⏱️ 12:59 • 12h ago
+👁️ 11K • 👍 606 • 💬 386 • ⏱️ 12:59 • 14h ago
+
+---
+
+**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
+
+Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
+
+📺 Lark Davis
+
+👁️ 429 • 👍 13 • 💬 4 • ⏱️ 0:57 • 2h ago
 
 ---
 
@@ -280,7 +280,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 12K • 👍 638 • 💬 570 • ⏱️ 13:03 • 2d ago
+👁️ 12K • 👍 640 • 💬 570 • ⏱️ 13:03 • 2d ago
+
+---
+
+**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
+
+Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
+
+📺 Thinking Crypto
+
+👁️ 5K • 👍 503 • 💬 76 • ⏱️ 20:27 • 3h ago
 
 ---
 
@@ -290,27 +300,7 @@ Ethereum Is Falling Harder: Structure Still Matters Ethereum is showing weakness
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 612 • 👍 23 • ⏱️ 1:10 • 16h ago
-
----
-
-**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
-
-A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
-
-📺 Giving Hearts
-
-👁️ 5K • 👍 37 • ⏱️ 0:06 • 2h ago
-
----
-
-**[Is the Ethereum Bounce a Trap or a Reversal](https://www.youtube.com/watch?v=ERd0n7olbI0)**
-
-In this video I break down the latest Ethereum price analysis using Elliott Wave theory to determine if the current bounce is a ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 239 • 💬 10 • ⏱️ 6:58 • 1d ago
+👁️ 631 • 👍 23 • ⏱️ 1:10 • 19h ago
 
 ---
 
@@ -324,13 +314,23 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 ---
 
-**[O EFEITO CASCATA: ALGO ASSUSTADOR ACONTECENDO com BITCOIN E ETHEREUM? ENTENDA TUDO!](https://www.youtube.com/watch?v=09_S7097dd4)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=0QwaWPEGSVE)**
 
-Torne-se membro do canal se você gosta dos conteúdos compartilhados, para ter acesso à uma call fechada por semana e para ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 João Hazim
+📺 Crypto Gyan
 
-👁️ 622 • 👍 97 • 💬 39 • ⏱️ 4:48 • 2h ago
+👁️ 244 • 👍 39 • ⏱️ 7:48 • 1h ago
+
+---
+
+**[Is the Ethereum Bounce a Trap or a Reversal](https://www.youtube.com/watch?v=ERd0n7olbI0)**
+
+In this video I break down the latest Ethereum price analysis using Elliott Wave theory to determine if the current bounce is a ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 243 • 💬 11 • ⏱️ 6:58 • 1d ago
 
 ---
 

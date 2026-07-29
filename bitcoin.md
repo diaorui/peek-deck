@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-29T03:49:20.536456+00:00'
+updated: '2026-07-29T06:31:08.662248+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 03:49 UTC  
+**Last Updated:** July 29, 2026 at 06:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,013.95
+### $63,707.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -2.1%  
-**30d:** +8.7%  
-**90d:** -18.5%  
-**1y:** -45.9%  
+**24h:** +1.4%  
+**7d:** -1.1%  
+**30d:** +9.8%  
+**90d:** -17.7%  
+**1y:** -45.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1278.38B
+**Market Cap:** $1287.59B
 Rank #1
 
-**Circulating Supply:** 20,062,618 BTC
+**Circulating Supply:** 20,062,668 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.5%
+-49.1%
 
 **All-Time Low:** $67.81
-+93846.3%
++94576.3%
 
 ---
 
@@ -159,7 +159,7 @@ Just asking, I really want to buy quite a lot and I don't know if I should put e
 
 Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.
 
-CoinDesk • 7h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -167,7 +167,15 @@ CoinDesk • 7h ago
 
 Fresh hard drive. Full node. Eleven hours of PhotoRec. The outcome is nothing like what the Bitcoin culture war has been telling you.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 12h ago
+
+---
+
+**[Bitcoin ETFs Bleed While Ethereum Funds Post Third Straight Weekly Inflow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-while-ethereum-055451344.html)**
+
+Bitcoin ETFs lost 3,170 BTC in a week as Ethereum funds added 37,959 ETH, extending a third straight inflow streak.
+
+Yahoo Finance • 37m ago
 
 ---
 
@@ -175,7 +183,7 @@ Bitcoin Magazine • 9h ago
 
 South Dakota's first gubernatorial primary runoff pitted incumbent Larry Rhoden against outsider Toby Doeden after neither cleared the 35% threshold to win outright.
 
-Fox News • 2h ago
+Fox News • 5h ago
 
 ---
 
@@ -183,15 +191,7 @@ Fox News • 2h ago
 
 After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
 
-Morningstar • 17h ago
-
----
-
-**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-1-million-085100499.html)**
-
-Better days are coming for investors in this top digital asset.
-
-Yahoo Finance • 1d ago
+Morningstar • 20h ago
 
 ---
 
@@ -199,7 +199,15 @@ Yahoo Finance • 1d ago
 
 Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
 
-CNBC • 11h ago
+CNBC • 14h ago
+
+---
+
+**[Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure](https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure)**
+
+Ionic Digital was formed from Celsius Mining’s assets and later took direct control of its sites from Hut 8.
+
+The Block • 10h ago
 
 ---
 
@@ -209,25 +217,17 @@ Barron's • 1d ago
 
 ---
 
-**[Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure](https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure)**
-
-Ionic Digital was formed from Celsius Mining’s assets and later took direct control of its sites from Hut 8.
-
-The Block • 7h ago
-
----
-
-**[Watch Bitcoin Excluded From S&P Pantera Digital Asset Index](https://www.bloomberg.com/news/videos/2026-07-28/bitcoin-excluded-from-new-s-p-pantera-digital-asset-index)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Everyone expected a Bitcoin investing boom. Why it never came.](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
 
 Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
 
 USA Today • 2d ago
+
+---
+
+**[Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount](https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -287,7 +287,7 @@ A minimal, modular blockchain for peer-to-peer value and controlled networks. - 
 
 An agent's self-reported log proves nothing. A Bitcoin-anchored receipt proves the record existed, unmodified, at a point in time — and anyone can check it without trusting the operator.
 
-⬆️ 2 • 💬 0 • 5d ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
+⬆️ 2 • 💬 0 • 6d ago • [orphograph.com](https://orphograph.com/lp/agent-receipts)
 
 ---
 
@@ -319,103 +319,101 @@ Live public testnet with full node, external miner, browser wallet, snapshot boo
 
 ## YouTube Videos: "bitcoin"
 
-**[The World’s Cheapest Money Is Disappearing! Why Bitcoin Wins!](https://www.youtube.com/watch?v=GhPBftR_CkM)**
+**[Bitcoin cayendo en vivo: ¿flash crash o trampa de ballenas? 🔴](https://www.youtube.com/watch?v=dAM6z_xdHws)**
 
-The Clarity Act could be one of Bitcoin's biggest regulatory wins, but a much larger macro story is unfolding beneath the surface.
+Tu cuenta #BingX aquí: https://bingx.com/es/partner/TradingLatino Jaime Merino ¿Estamos ante la **última gran oportunidad para ...
 
-📺 Simply Bitcoin
+📺 Jaime Merino | TradingLatino
 
-👁️ 5K • 👍 678 • 💬 159 • ⏱️ 14:24 • 3h ago
-
----
-
-**[An Urgent Message To EVERY Bitcoin Investor](https://www.youtube.com/watch?v=QaZh_9Et_60)**
-
-Thank you to Mint Mobile for partnering with us on this video! Visit our partner https://mintmobile.yt.link/I6xc7as to get 3, 6, or 12 ...
-
-📺 The Graham Stephan Show
-
-👁️ 72K • 👍 3K • 💬 1K • ⏱️ 18:59 • 1d ago
+👁️ 23K • 👍 2K • 💬 52 • ⏱️ 1:10:22 • 1d ago
 
 ---
 
-**[WARNING: This Bitcoin Chart Shows A New Downside Target](https://www.youtube.com/watch?v=u8sCmZRtj50)**
+**[Live Gold, Crypto Trading |  28 JULY | #goldtrading #cryptotrading #bitcoin - MANSI](https://www.youtube.com/watch?v=4UgOuvVJ838)**
 
-You won't believe what this bitcoin chart says about its downside target, that could potentially be reached in the next few years.
+Top Recommended Brokers:- Best For Indian Users - ✓ COINDCX - https://invite.coindcx.com/34203382 ------------------- TOP ...
 
-📺 Alessio Rastani
+📺 TRADE WITH MANSI
 
-👁️ 18K • 👍 1K • 💬 514 • ⏱️ 18:15 • 11h ago
-
----
-
-**[&quot;My SHOCKING &amp; TERRIFYING Warning About the Next BITCOIN BULL RUN&quot; | Lyn Alden](https://www.youtube.com/watch?v=nMMf3LPNHbQ)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 70 • 💬 10 • ⏱️ 14:28 • 8h ago
+👁️ 33K • 👍 1K • 💬 64 • ⏱️ 2:42:23 • 1d ago
 
 ---
 
-**[Bitcoin Hit by a Massive Global Sell-Off](https://www.youtube.com/watch?v=s4Z4f0IuqRw)**
+**[주식과 코인, 개미가 항상 돈을 잃는 진짜 이유](https://www.youtube.com/watch?v=XGhXLjV3Wqw)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+비트코인 #코인 #주식 #주식폭락 #트레이딩 #코인투자 #주식투자 #재테크.
 
-📺 CryptosRUs
+📺 차슐랭ㅣ비트코인
 
-👁️ 13K • 👍 739 • 💬 263 • ⏱️ 16:34 • 13h ago
-
----
-
-**[The Price of Money Just Changed... Why NO ONE Is Pricing Bitcoin Right!](https://www.youtube.com/watch?v=t4wjVIRsstc)**
-
-Money is expensive again, Wall Street is repricing every asset, and Warren Buffett is sitting on a record $397 billion in cash.
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 240 • ⏱️ 16:47 • 1d ago
+👁️ 849 • 👍 7 • ⏱️ 1:12 • 1h ago
 
 ---
 
-**[&quot;$40 MILLION ALL-IN! Why I JUST Went ALL-IN on Bitcoin&quot; - Lyn Alden](https://www.youtube.com/watch?v=Wte6gvMk-Iw)**
+**[AI Bubble is popping - FOMC Scares the MARKET - BITCOIN CRYPTO GOLD DUM](https://www.youtube.com/watch?v=vElEJb80xrE)**
 
-Real-world asset tokenization is one of the most underexplored narratives in crypto right now. Blockmaze is a regulated RWA ...
+BEST Deals in Crypto   https://cryptojargon.in/deals Telegram   https://t.me/cryptojargon69 Whatsapp   ...
 
-📺 Savvy Finance
+📺 Crypto Jargon
 
-👁️ 5K • 👍 211 • 💬 21 • ⏱️ 18:42 • 1d ago
-
----
-
-**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
-
-Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
-
-📺 Fundstrat
-
-👁️ 81K • 👍 1K • 💬 236 • ⏱️ 6:11 • 1d ago
+👁️ 4K • 👍 210 • 💬 88 • ⏱️ 7:01 • 20h ago
 
 ---
 
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=-GT2FmXrAto)**
+**[GOLD BITCOIN LIVE TRADING #bitcoin #crypto #forex](https://www.youtube.com/watch?v=0-g0EgJDZcE)**
 
-Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TIMECODES 00:00 Something Strange Is Happening ...
+https://sharkapp.app.link/foY71jH4D3b PARTNER CODE - YFE711 LOW BROKARAGE FIU REGISTER BROKER WhatsApp- ...
 
-📺 Heresy Financial
+📺 Trade With Prity 2.0
 
-👁️ 39K • 👍 2K • 💬 423 • ⏱️ 14:33 • 1d ago
+👁️ 58K • 👍 445 • 💬 8 • ⏱️ 1:54:14 • 11h ago
 
 ---
 
-**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+**[BITCOIN: FINAL SHAKEOUT STARTING!!! 🚨🚨🚨](https://www.youtube.com/watch?v=RQBeq-ddlEo)**
 
-Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+CRYPTO INVESTOR QUIZ: https://quiz.bullmania.com/startnow JOIN BULLMANIA WAITLIST: https://bullmania.com/ ...
 
-📺 Crypto Capital Venture
+📺 Ivan on Tech
 
-👁️ 10K • 👍 586 • 💬 393 • ⏱️ 12:59 • 12h ago
+👁️ 20K • 👍 1K • 💬 143 • ⏱️ 1:01:21 • 20h ago
+
+---
+
+**[🔋LIVE BITCOIN TRADING 📉📈  Crypto and Market Analysis](https://www.youtube.com/watch?v=cWjYQZenhnk)**
+
+Welcome to AlexOCrypto! Join us for daily live Bitcoin trading sessions, in-depth crypto market analyses, and tutorials designed ...
+
+📺 AlexOCrypto
+
+👁️ 2K • 👍 234 • ⏱️ 2:09:02 • 16h ago
+
+---
+
+**[Get Ready For Bitcoin&#39;s Final Drop](https://www.youtube.com/watch?v=qpfSBIv4aS8)**
+
+Aaron Dishner examines Bitcoin's weakening support structure, arguing that successive support steps have begun to fail in a ...
+
+📺 Coin Bureau Trading
+
+👁️ 7K • 👍 792 • 💬 53 • ⏱️ 22:08 • 1d ago
+
+---
+
+**[Can You Actually Buy Food With Bitcoin At Steak N Shake? #bitcoin #steaknshake](https://www.youtube.com/watch?v=7FolQeBNzY0)**
+
+📺 The No Pants Show
+
+👁️ 882 • 👍 22 • 💬 6 • ⏱️ 3:01 • 1d ago
+
+---
+
+**[🚨 BITCOIN PODE CAIR +30% NO INÍCIO DE AGOSTO](https://www.youtube.com/watch?v=LYkV-fCiAkY)**
+
+O mercado tem grande expectativa na aprovação do CLARITY ACT, mas o Senado americano entra em recesso no dia 7 de ...
+
+📺 CRIPTOMANIACOS
+
+👁️ 22K • 👍 3K • 💬 117 • ⏱️ 9:36 • 1d ago
 
 ---
 
