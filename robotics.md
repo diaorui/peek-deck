@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T00:05:09.287486+00:00'
+updated: '2026-07-29T03:49:20.545613+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 00:05 UTC  
+**Last Updated:** July 29, 2026 at 03:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -98,7 +98,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 **[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -108,15 +108,21 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 **[EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
-Reuters • 1h ago
+Reuters • 8h ago
 
 ---
 
-**[Why the future of robots is serving humans, not just imitating them](https://www.weforum.org/stories/emerging-technologies/why-future-of-robots-human/)**
+**[China sweeps global humanoid robot start-up ranking as US imposes ban](https://www.scmp.com/tech/tech-war/article/3362195/china-has-6-worlds-10-most-innovative-humanoid-robot-start-ups-report)**
 
-The real promise of physical AI and assistive robotics is helping humans live more connected, independent and meaningful lives.
+South China Morning Post • 49m ago
 
-The World Economic Forum • 4h ago
+---
+
+**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
+
+Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
+
+NVIDIA Developer • 6h ago
 
 ---
 
@@ -124,19 +130,19 @@ The World Economic Forum • 4h ago
 
 Middle school students from Pittsburgh's Hazelwood neighborhood got a chance to imagine themselves as future engineers, researchers and innovators at CMU's Robotics Innovation Center.
 
-Carnegie Mellon University • 5h ago
+Carnegie Mellon University • 13h ago
 
 ---
 
 **[From robot cars to real careers: Guilford County teachers bring new robotics program to the classroom](https://www.wfmynews2.com/article/life/local-life/guilford-county-schools-brings-new-jezero-deloitte-robotics-program-to-high-school-classrooms-university-of-north-carolina-greensboro-engineering-stem/83-77568e37-82ad-454e-b27a-2c09d9e3b18e)**
 
-wfmynews2.com • 1h ago
+wfmynews2.com • 4h ago
 
 ---
 
 **[Corpus Christi students explore robotics, coding at STEAM summer camp](https://www.kiiitv.com/article/news/local/corpus-christi-steam-robotics-camp-bethune-nursery/503-dfe47589-469d-497b-93a3-9d15e08a0fe9)**
 
-kiiitv.com • 6h ago
+kiiitv.com • 9h ago
 
 ---
 
@@ -144,15 +150,15 @@ kiiitv.com • 6h ago
 
 /PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT, "Nauticus" or the "Company"), a leading innovator in autonomous subsea robotics and software solutions,...
 
-PR Newswire • 12h ago
+PR Newswire • 15h ago
 
 ---
 
-**[State aid OK'd for robot maker's expansion, project near Eastern Market](https://www.detroitnews.com/story/business/2026/07/28/state-oks-aid-for-robotics-firm-project-development-near-eastern-market/91075847007/)**
+**[Why the future of robots is serving humans, not just imitating them](https://www.weforum.org/stories/emerging-technologies/why-future-of-robots-human/)**
 
-The funding approved by the Michigan Strategic Fund board will support Fanuc expansion in Pontiac, project to revitalize vacant buildings near market.
+The real promise of physical AI and assistive robotics is helping humans live more connected, independent and meaningful lives.
 
-The Detroit News • 7h ago
+The World Economic Forum • 8h ago
 
 ---
 
@@ -160,23 +166,15 @@ The Detroit News • 7h ago
 
 Robots that can replace human workers may be closer than ever because of the AI boom. Here's how some investing pros are getting in early on the trend.
 
-Business Insider • 8h ago
+Business Insider • 12h ago
 
 ---
 
-**[SIU takes second place in international agricultural robotics competition](https://www.wsiu.org/siu/2026-07-28/siu-takes-second-place-in-international-agricultural-robotics-competition)**
+**[State aid OK'd for robot maker's expansion, project near Eastern Market](https://www.detroitnews.com/story/business/2026/07/28/state-oks-aid-for-robotics-firm-project-development-near-eastern-market/91075847007/)**
 
-SIU’s Agricultural Robotics Club earned a second-place finish in the American Society of Agricultural and Biological Engineers’ Robotics Student Design Competition.
+The funding approved by the Michigan Strategic Fund board will support Fanuc expansion in Pontiac, project to revitalize vacant buildings near market.
 
-WSIU NEWS • 8h ago
-
----
-
-**[Denham Springs robotics team wins Indiana Robotics Invitational](https://www.wbrz.com/news/denham-springs-robotics-team-wins-indiana-robotics-invitational/)**
-
-The Denham Springs High School robotics team won the Indiana Robotics Invitational on July 18 in Indianapolis, beating the event's top-seeded alliance in the finals.
-
-WBRZ • 7h ago
+The Detroit News • 11h ago
 
 ---
 
@@ -190,17 +188,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 165K • 👍 2K • 💬 1K • ⏱️ 2:15 • 1d ago
-
----
-
-**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 15K • 👍 460 • 💬 26 • ⏱️ 4:23 • 2d ago
+👁️ 191K • 👍 3K • 💬 1K • ⏱️ 2:15 • 1d ago
 
 ---
 
@@ -210,7 +198,37 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 5K • 👍 151 • 💬 88 • ⏱️ 3:10 • 1d ago
+👁️ 6K • 👍 157 • 💬 94 • ⏱️ 3:10 • 1d ago
+
+---
+
+**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 16K • 👍 472 • 💬 26 • ⏱️ 4:23 • 2d ago
+
+---
+
+**[Why is the FCC banning new human-like robots from China?](https://www.youtube.com/watch?v=rao2KMyxH_0)**
+
+The Trump administration said it's banning new Chinese humanoid robots, topped with AI-enabled "brains," as part of an attempt ...
+
+📺 Reuters
+
+👁️ 1K • 👍 32 • 💬 6 • ⏱️ 1:27 • 2h ago
+
+---
+
+**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
+
+Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
+
+📺 New York Post
+
+👁️ 62K • 👍 1K • 💬 509 • ⏱️ 2:02 • 6d ago
 
 ---
 
@@ -220,7 +238,17 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 📺 NBC News
 
-👁️ 17K • 👍 170 • 💬 94 • ⏱️ 5:29 • 5d ago
+👁️ 17K • 👍 170 • 💬 95 • ⏱️ 5:29 • 6d ago
+
+---
+
+**[Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT](https://www.youtube.com/watch?v=iEoMJJvjPwY)**
+
+Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT Solar power is about to get unbelievably cheap thanks to ...
+
+📺 The Electric Viking
+
+👁️ 69K • 👍 3K • 💬 426 • ⏱️ 8:18 • 2d ago
 
 ---
 
@@ -230,7 +258,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UC4pND
 
 📺 Not What You Think
 
-👁️ 93K • 👍 6K • 💬 345 • ⏱️ 0:29 • 9h ago
+👁️ 125K • 👍 7K • 💬 415 • ⏱️ 0:29 • 13h ago
 
 ---
 
@@ -244,43 +272,13 @@ AI-powered humanoid robots are becoming more advanced, with some designed to int
 
 ---
 
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
-
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
-
-📺 New York Post
-
-👁️ 60K • 👍 1K • 💬 483 • ⏱️ 2:02 • 6d ago
-
----
-
-**[Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT](https://www.youtube.com/watch?v=iEoMJJvjPwY)**
-
-Why Solar Power is About to Get Unbelievably Cheap With THIS ROBOT Solar power is about to get unbelievably cheap thanks to ...
-
-📺 The Electric Viking
-
-👁️ 67K • 👍 3K • 💬 420 • ⏱️ 8:18 • 2d ago
-
----
-
 **[The Lockdown Vulcan Setup You NEED To Try [War Robots]](https://www.youtube.com/watch?v=KddlarGe_JM)**
 
 The Lockdown Vulcan setup you NEED to try – that is the Vulcan with Ultimate Coronas and Ultimate Shredders in War Robots.
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 183 • 💬 36 • ⏱️ 12:54 • 11h ago
-
----
-
-**[The Robot Hand That Can Grab Anything](https://www.youtube.com/watch?v=hERNweUccK4)**
-
-Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" for 20% off.
-
-📺 The Action Lab
-
-👁️ 421K • 👍 12K • 💬 887 • ⏱️ 7:44 • 3d ago
+👁️ 4K • 👍 205 • 💬 41 • ⏱️ 12:54 • 14h ago
 
 ---
 

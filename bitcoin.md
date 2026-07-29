@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-29T00:05:09.282024+00:00'
+updated: '2026-07-29T03:49:20.536456+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 00:05 UTC  
+**Last Updated:** July 29, 2026 at 03:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,869.63
+### $64,013.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -1.6%  
-**30d:** +9.2%  
-**90d:** -18.2%  
-**1y:** -45.7%  
+**24h:** +0.7%  
+**7d:** -2.1%  
+**30d:** +8.7%  
+**90d:** -18.5%  
+**1y:** -45.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1282.77B
+**Market Cap:** $1278.38B
 Rank #1
 
-**Circulating Supply:** 20,062,562 BTC
+**Circulating Supply:** 20,062,618 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-49.5%
 
 **All-Time Low:** $67.81
-+94201.7%
++93846.3%
 
 ---
 
@@ -159,7 +159,7 @@ Just asking, I really want to buy quite a lot and I don't know if I should put e
 
 Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.
 
-CoinDesk • 3h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -167,23 +167,15 @@ CoinDesk • 3h ago
 
 Fresh hard drive. Full node. Eleven hours of PhotoRec. The outcome is nothing like what the Bitcoin culture war has been telling you.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
-**[Block Inc. explained: payments, Cash App, and bitcoin](https://qz.com/block-inc-square-company-explainer)**
+**[GOP governor survives challenge from Bitcoin evangelist in gubernatorial runoff](https://www.foxnews.com/politics/gop-governor-survives-challenge-from-bitcoin-evangelist-gubernatorial-runoff)**
 
-Block was founded as Square in 2009 and renamed in 2021 — it now serves 57 million users across payments, digital wallets, and crypto
+South Dakota's first gubernatorial primary runoff pitted incumbent Larry Rhoden against outsider Toby Doeden after neither cleared the 35% threshold to win outright.
 
-qz.com • 51m ago
-
----
-
-**[Anthropic finds new cracks in the tech meant to guard Bitcoin from 'Q-Day'](https://sg.finance.yahoo.com/news/anthropic-finds-cracks-tech-meant-222734222.html)**
-
-Anthropic said on July 28 that its AI model, Claude, discovered new ways to attack cryptographic algorithms. It did the work faster than human experts, and one of its targets was a scheme built to survive the arrival of quantum computers. To be clear, no blockchain tech was broken, and no wallet is ...
-
-Yahoo Finance Singapore • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -191,23 +183,15 @@ Yahoo Finance Singapore • 1h ago
 
 After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
 
-Morningstar • 13h ago
+Morningstar • 17h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Plummet Even as SEC Chair Paul Atkins Sees Crypto Bill Advancing: Analyst Says BTC's Big Move 'Just Around the Corner'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-plummet-021322342.html)**
+**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-1-million-085100499.html)**
 
-Leading cryptocurrencies fell sharply on Monday as investors weighed developments around the Clarity Act and a pause in U.S.–Iran hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.98%$63,157.00Ethereum (CRYPTO: ETH) -3.67%$1,873.27XRP (CRYPTO: XRP) -4.60%$1.05Solana (CRYPTO: SOL) -4.09%$73.19Dogecoin (CRYPTO: DOGE) -4.59%$0.06954 Crypto Market Tumbles Bitcoin nearly dived below $63,000 in a sharp evening sell-off, while Ethereum fell to $1,860 a
+Better days are coming for investors in this top digital asset.
 
-Yahoo Finance • 21h ago
-
----
-
-**[Live updates: Bitcoin gives up early gains, holds near $65,000 as AI stocks skid](https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500)**
-
-CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.
-
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -215,7 +199,7 @@ CoinDesk • 1d ago
 
 Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
 
-CNBC • 8h ago
+CNBC • 11h ago
 
 ---
 
@@ -225,9 +209,25 @@ Barron's • 1d ago
 
 ---
 
+**[Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure](https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure)**
+
+Ionic Digital was formed from Celsius Mining’s assets and later took direct control of its sites from Hut 8.
+
+The Block • 7h ago
+
+---
+
 **[Watch Bitcoin Excluded From S&P Pantera Digital Asset Index](https://www.bloomberg.com/news/videos/2026-07-28/bitcoin-excluded-from-new-s-p-pantera-digital-asset-index)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Everyone expected a Bitcoin investing boom. Why it never came.](https://www.usatoday.com/story/money/personalfinance/2026/07/26/bitcoin-crypto-investors-crash-trump-etf/91029282007/)**
+
+Regulators and policymakers have pushed cryptocurrency into the mainstream, but crypto investors remain relatively rare.
+
+USA Today • 2d ago
 
 ---
 
@@ -247,7 +247,7 @@ A simple Bitcoin payment processor for any business. Accept Bitcoin payments, re
 
 The alleged thieves infected 8,000 devices.
 
-⬆️ 44 • 💬 42 • 1d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+⬆️ 44 • 💬 43 • 1d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -263,7 +263,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -319,13 +319,23 @@ Live public testnet with full node, external miner, browser wallet, snapshot boo
 
 ## YouTube Videos: "bitcoin"
 
+**[The World’s Cheapest Money Is Disappearing! Why Bitcoin Wins!](https://www.youtube.com/watch?v=GhPBftR_CkM)**
+
+The Clarity Act could be one of Bitcoin's biggest regulatory wins, but a much larger macro story is unfolding beneath the surface.
+
+📺 Simply Bitcoin
+
+👁️ 5K • 👍 678 • 💬 159 • ⏱️ 14:24 • 3h ago
+
+---
+
 **[An Urgent Message To EVERY Bitcoin Investor](https://www.youtube.com/watch?v=QaZh_9Et_60)**
 
 Thank you to Mint Mobile for partnering with us on this video! Visit our partner https://mintmobile.yt.link/I6xc7as to get 3, 6, or 12 ...
 
 📺 The Graham Stephan Show
 
-👁️ 68K • 👍 3K • 💬 1K • ⏱️ 18:59 • 1d ago
+👁️ 72K • 👍 3K • 💬 1K • ⏱️ 18:59 • 1d ago
 
 ---
 
@@ -335,67 +345,17 @@ You won't believe what this bitcoin chart says about its downside target, that c
 
 📺 Alessio Rastani
 
-👁️ 14K • 👍 1K • 💬 369 • ⏱️ 18:15 • 7h ago
+👁️ 18K • 👍 1K • 💬 514 • ⏱️ 18:15 • 11h ago
 
 ---
 
-**[BITCOIN IS *THIS* CLOSE TO A CRASH...](https://www.youtube.com/watch?v=2vfyEjmxl6w)**
+**[&quot;My SHOCKING &amp; TERRIFYING Warning About the Next BITCOIN BULL RUN&quot; | Lyn Alden](https://www.youtube.com/watch?v=nMMf3LPNHbQ)**
 
-TOOBIT — DEPOSIT MORE, EARN MORE! UP TO 100 USDT BONUS ...
-
-📺 100XClub
-
-👁️ 8K • 👍 740 • 💬 152 • ⏱️ 8:27 • 14h ago
-
----
-
-**[The Price of Money Just Changed... Why NO ONE Is Pricing Bitcoin Right!](https://www.youtube.com/watch?v=t4wjVIRsstc)**
-
-Money is expensive again, Wall Street is repricing every asset, and Warren Buffett is sitting on a record $397 billion in cash.
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 238 • ⏱️ 16:47 • 1d ago
-
----
-
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=-GT2FmXrAto)**
-
-Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TIMECODES 00:00 Something Strange Is Happening ...
-
-📺 Heresy Financial
-
-👁️ 38K • 👍 2K • 💬 407 • ⏱️ 14:33 • 1d ago
-
----
-
-**[&quot;$40 MILLION ALL-IN! Why I JUST Went ALL-IN on Bitcoin&quot; - Lyn Alden](https://www.youtube.com/watch?v=Wte6gvMk-Iw)**
-
-Real-world asset tokenization is one of the most underexplored narratives in crypto right now. Blockmaze is a regulated RWA ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 207 • 💬 21 • ⏱️ 18:42 • 1d ago
-
----
-
-**[Bitcoin: This Week Will Be Crazy](https://www.youtube.com/watch?v=t-rBr1Zda7k)**
-
-See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/aaronbennett ...
-
-📺 Aaron Bennett
-
-👁️ 8K • 👍 422 • 💬 228 • ⏱️ 9:19 • 1d ago
-
----
-
-**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
-
-Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
-
-📺 Fundstrat
-
-👁️ 77K • 👍 1K • 💬 232 • ⏱️ 6:11 • 1d ago
+👁️ 2K • 👍 70 • 💬 10 • ⏱️ 14:28 • 8h ago
 
 ---
 
@@ -405,17 +365,57 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 706 • 💬 238 • ⏱️ 16:34 • 10h ago
+👁️ 13K • 👍 739 • 💬 263 • ⏱️ 16:34 • 13h ago
 
 ---
 
-**[I&#39;m Worried For Crypto Tomorrow...](https://www.youtube.com/watch?v=w1frDq7z9Eo)**
+**[The Price of Money Just Changed... Why NO ONE Is Pricing Bitcoin Right!](https://www.youtube.com/watch?v=t4wjVIRsstc)**
 
-Ran breaks down why the latest selloff in AI and semiconductor stocks could mark a major shift in the market narrative, as China's ...
+Money is expensive again, Wall Street is repricing every asset, and Warren Buffett is sitting on a record $397 billion in cash.
 
-📺 Crypto Banter
+📺 Simply Bitcoin
 
-👁️ 13K • 👍 672 • 💬 13 • ⏱️ 20:00 • 10h ago
+👁️ 25K • 👍 2K • 💬 240 • ⏱️ 16:47 • 1d ago
+
+---
+
+**[&quot;$40 MILLION ALL-IN! Why I JUST Went ALL-IN on Bitcoin&quot; - Lyn Alden](https://www.youtube.com/watch?v=Wte6gvMk-Iw)**
+
+Real-world asset tokenization is one of the most underexplored narratives in crypto right now. Blockmaze is a regulated RWA ...
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 211 • 💬 21 • ⏱️ 18:42 • 1d ago
+
+---
+
+**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
+
+Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
+
+📺 Fundstrat
+
+👁️ 81K • 👍 1K • 💬 236 • ⏱️ 6:11 • 1d ago
+
+---
+
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=-GT2FmXrAto)**
+
+Get your free Portfolio Stress Test here: https://heresy.financial/stresstest TIMECODES 00:00 Something Strange Is Happening ...
+
+📺 Heresy Financial
+
+👁️ 39K • 👍 2K • 💬 423 • ⏱️ 14:33 • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+
+Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 586 • 💬 393 • ⏱️ 12:59 • 12h ago
 
 ---
 
