@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T12:01:12.878479+00:00'
+updated: '2026-07-29T14:41:27.522706+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 12:01 UTC  
+**Last Updated:** July 29, 2026 at 14:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 **[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -84,7 +84,7 @@ A small update on my robotic desk lamp: the entire control system now runs on a 
 
 GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
 
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 2d ago
+🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 3d ago
 
 ---
 
@@ -110,21 +110,21 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
-BBC • 9h ago
+BBC • 12h ago
 
 ---
 
 **[Robotics giant plans major expansion in Michigan](https://www.mlive.com/news/detroit/2026/07/robotics-giant-plans-major-expansion-in-michigan.html)**
 
-MLive.com • 16h ago
+MLive.com • 19h ago
 
 ---
 
-**[US bans foreign-made humanoid robots, targeting China over national security - ABC News](https://abcnews.com/Business/wireStory/us-bans-foreign-made-humanoid-robots-targeting-china-135179676)**
+**[US bans foreign-made humanoid robots, targeting China over national security](https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366)**
 
-The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns
+The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns.
 
-ABC News - Breaking News, Latest News and Videos • 2h ago
+AP News • 2h ago
 
 ---
 
@@ -132,7 +132,31 @@ ABC News - Breaking News, Latest News and Videos • 2h ago
 
 Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
 
-NVIDIA Developer • 15h ago
+developer.nvidia.com • 17h ago
+
+---
+
+**[US bans imports of new Chinese robots over security concerns](https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns)**
+
+The action is part of a wider US effort to reduce reliance on Chinese technology.
+
+Al Jazeera • 1h ago
+
+---
+
+**[Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI](https://www.automate.org/robotics/industry-insights/robotics-raises-atoms-gritt-humanoid-perceptual-robotics-ropedia)**
+
+We’ve got construction automation, drones built for inspecting wind turbines, our weekly humanoid startup, and more.
+
+A3 Association for Advancing Automation • 1h ago
+
+---
+
+**[International Federation of Robotics](https://ifr.org/case-studies/automating-logistics-to-revolutionise-the-fresh-fish-supply-chain)**
+
+The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
+
+IFR International Federation of Robotics • 1h ago
 
 ---
 
@@ -140,7 +164,7 @@ NVIDIA Developer • 15h ago
 
 Southern Illinois University Carbondale’s Agricultural Robotics Club accomplished an impressive feat in its first international competition earlier this month with a second-place finish in the American Society of Agricultural and Biological Engineers’ Robotics Student Design Competition.
 
-SIU News • 18h ago
+SIU News • 20h ago
 
 ---
 
@@ -148,37 +172,15 @@ SIU News • 18h ago
 
 ALPENA — After a successful 2025-2026 robotics season, the All Saints Holy Gears were one of 48 teams from across the world invited to the Canadian Rockies Premier Event, where they were the winners of the Innovate Award. The Holy Gears won several awards throughout their season, including the second place Inspire Award at the […]
 
-The Alpena News - • 4h ago
+The Alpena News - • 7h ago
 
 ---
 
-**[XYZ Robotics Advances Physical AI Through Real-World Data and Robot Learning](https://www.wboc.com/online_features/press_releases/xyz-robotics-advances-physical-ai-through-real-world-data-and-robot-learning/article_501dfdf3-a9c5-5518-94c3-ec31efec6a75.html)**
+**[Top Robotics Stocks Worth Investing Right Now for Solid Returns](https://finance.yahoo.com/markets/stocks/articles/top-robotics-stocks-worth-investing-154200515.html)**
 
-Company Secures 3,000 Real-World Data Points Daily at Café Locations South Korean AI robotics company XYZ Robotics Inc.
+SNPS is among U.S. robotics plays as 2026 brings major advances in physical AI, surgical systems, defense autonomy and space robotics.
 
-WBOC TV • 2h ago
-
----
-
-**[FCC bans foreign humanoid robots, expanding campaign against Chinese tech](https://www.washingtonpost.com/technology/2026/07/28/fcc-bans-foreign-humanoid-robots-expanding-campaign-against-chinese-tech/)**
-
-A separate ban takes aim at devices used to connect solar panels to the electric grid, as officials said they could be vulnerable to hacking.
-
-The Washington Post • 8h ago
-
----
-
-**[From robot cars to real careers: Guilford County teachers bring new robotics program to the classroom](https://www.wfmynews2.com/article/life/local-life/guilford-county-schools-brings-new-jezero-deloitte-robotics-program-to-high-school-classrooms-university-of-north-carolina-greensboro-engineering-stem/83-77568e37-82ad-454e-b27a-2c09d9e3b18e)**
-
-wfmynews2.com • 13h ago
-
----
-
-**[End-to-end automation with Productive Robotics](https://www.todaysmedicaldevelopments.com/product/end-to-end-automation-productive-robotics/)**
-
-The company demonstrates automation of metal removal, abrasive machining, sawing, and finishing processes.
-
-Today's Medical Developments • 7h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,53 +188,33 @@ Today's Medical Developments • 7h ago
 
 ## YouTube Videos: "robotics"
 
-**[AGIBOT A3 Revealed Future Humanoid Robot Technology Unboxing](https://www.youtube.com/watch?v=mv4eXwJ05So)**
-
-The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanced artificial intelligence, impressive mobility ...
-
-📺 DPCcars
-
-👁️ 2K • 👍 19 • 💬 5 • ⏱️ 2:46 • 18h ago
-
----
-
 **[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
 
 Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
 
 📺 NBC News
 
-👁️ 278K • 👍 4K • 💬 1K • ⏱️ 2:15 • 1d ago
+👁️ 298K • 👍 4K • 💬 2K • ⏱️ 2:15 • 1d ago
 
 ---
 
-**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
+**[AGIBOT A3 Revealed Future Humanoid Robot Technology Unboxing](https://www.youtube.com/watch?v=mv4eXwJ05So)**
 
-A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
+The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanced artificial intelligence, impressive mobility ...
 
-📺 NewsNation
+📺 DPCcars
 
-👁️ 6K • 👍 161 • 💬 98 • ⏱️ 3:10 • 1d ago
-
----
-
-**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
-
-One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
-
-📺 NBC News
-
-👁️ 17K • 👍 170 • 💬 95 • ⏱️ 5:29 • 6d ago
+👁️ 2K • 👍 22 • 💬 5 • ⏱️ 2:46 • 20h ago
 
 ---
 
-**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+**[CHINA CLAPS BACK After US BANS Its Humanoid Robots #news #technology #china #robot](https://www.youtube.com/watch?v=4YDY0QcIXb0)**
 
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+The United States just shut its doors to new Chinese humanoid and four legged robots, and Beijing did not stay silent. China's ...
 
-📺 CNET
+📺 SXE China
 
-👁️ 17K • 👍 494 • 💬 27 • ⏱️ 4:23 • 3d ago
+👁️ 909 • 👍 20 • 💬 1 • ⏱️ 0:46 • 2h ago
 
 ---
 
@@ -242,7 +224,37 @@ https://pcbway.com/g/t69mBf Each new pcbway membership will get their first $5 w
 
 📺 Hobby Built
 
-👁️ 52K • 👍 3K • 💬 225 • ⏱️ 54:19 • 1d ago
+👁️ 54K • 👍 3K • 💬 227 • ⏱️ 54:19 • 1d ago
+
+---
+
+**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
+
+A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
+
+📺 NewsNation
+
+👁️ 6K • 👍 165 • 💬 98 • ⏱️ 3:10 • 1d ago
+
+---
+
+**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 17K • 👍 499 • 💬 28 • ⏱️ 4:23 • 3d ago
+
+---
+
+**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
+
+One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
+
+📺 NBC News
+
+👁️ 17K • 👍 171 • 💬 95 • ⏱️ 5:29 • 6d ago
 
 ---
 
@@ -252,7 +264,17 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UC4pND
 
 📺 Not What You Think
 
-👁️ 179K • 👍 10K • 💬 505 • ⏱️ 0:29 • 21h ago
+👁️ 197K • 👍 10K • 💬 527 • ⏱️ 0:29 • 1d ago
+
+---
+
+**[The Robot Hand That Can Grab Anything](https://www.youtube.com/watch?v=hERNweUccK4)**
+
+Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" for 20% off.
+
+📺 The Action Lab
+
+👁️ 445K • 👍 12K • 💬 921 • ⏱️ 7:44 • 3d ago
 
 ---
 
@@ -262,27 +284,7 @@ The Trump administration said it's banning new Chinese humanoid robots, topped w
 
 📺 Reuters
 
-👁️ 4K • 👍 106 • 💬 25 • ⏱️ 1:27 • 11h ago
-
----
-
-**[Losing a Head Doesn&#39;t Stop This Robot From Battling Another in the Ring](https://www.youtube.com/watch?v=FEcPelBd9t0)**
-
-Humanoid robots fought inside a cage at a tournament in China. The two exchange a fury of blows before the black robot loses it's ...
-
-📺 New York Post
-
-👁️ 66K • 👍 1K • 💬 542 • ⏱️ 2:02 • 6d ago
-
----
-
-**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
-
-AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
-
-📺  Beesoft Bd
-
-👁️ 108K • 💬 4 • ⏱️ 0:16 • 6d ago
+👁️ 5K • 👍 125 • 💬 44 • ⏱️ 1:27 • 13h ago
 
 ---
 
