@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-29T14:41:27.519522+00:00'
+updated: '2026-07-29T16:21:55.510616+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 14:41 UTC  
+**Last Updated:** July 29, 2026 at 16:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +0.8%  
-**30d:** +20.4%  
-**90d:** -17.5%  
+**24h:** -0.5%  
+**7d:** +0.7%  
+**30d:** +20.3%  
+**90d:** -17.6%  
 **1y:** -50.3%  
 
 ---
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 2026 Lido Core upgrade introduces major improvements on the operator and validator layers, strengthening protocol security for stakers while keeping aligned with the Ethereum roadmap. Curated Module v2 (CMv2) introduces native support for 0x02 validators, bond and penalty mechanisms, and operator classification. It will gradually replace the legacy Curated Module as ETH stake is migrated to the new module through validator consolidation. CSM expands permissionless participation through the new Identified DVT Cluster operator type, alongside technical improvements that make the module more reliable and operator-friendly. Contributors are now working with operators on validator consolidation over the next few months. The migration could increase the share of ETH secured by 0x02 validators from around 32% to 52%, while reducing the total number of validators across the Ethereum network by around 30%. Further upgrades to both CMv2 and CSM in the near future: CMv2 will introduce a dynamic stake allocation mechanism through which stake can be distributed among Node Operators based on transparent parameters such as fees, performance, and other relevant factors. CSM will introduce a dedicated module for 0x02 validators, designed specifically to enable permissionless operators to run 0x02 validators with a bond. This new module will operate alongside the existing CSM instance for 0x01 validators, giving operators the flexibility to choose. https://x.com/LidoFinance/status/2081757295310983272
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 2h ago
+ethereum.org • 4h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 1d ago
 
 Bitcoin opened at $63,853.49 on Wednesday, July 29, 2026, 0.2% higher than Tuesday's opening price. As of 8:56 a.m. ET, the price of bitcoin moved up to $64,244.18. Ethereum opened at $1,919.73 on Wednesday, up 1.5% from Tuesday's opening price. The price of ethereum moved to $1,904.82 as of 8:56 a.m. ET.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 The startup, which spun out of the Ethereum Foundation earlier this month, is focused on building privacy infrastructure for banks and other financial institutions.
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -192,11 +192,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+**[Ethereum, Solana led crypto hack losses in H1 2026: Blockaid](https://www.tradingview.com/news/cointelegraph:b5b0378c6094b:0-ethereum-solana-led-crypto-hack-losses-in-h1-2026-blockaid/)**
 
-The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
+Crypto losses topped $1 billion in the first half of 2026 as the industry recorded its highest number of hacks in a six-month period, according to onchain security platform Blockaid.Ethereum and Solana recorded the largest losses from incidents affecting their networks, with roughly $332 million an…
 
-TradingView • 2d ago
+TradingView • 1d ago
+
+---
+
+**[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
+
+CCN.com • 3h ago
+
+---
+
+**[Lido Unveils Curated Module v2 in Ethereum Staking Overhaul](https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul)**
+
+Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
+
+The Defiant • 1d ago
 
 ---
 
@@ -204,27 +218,15 @@ TradingView • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
-**[Bitcoin’s breakdown puts Ethereum, Breadth and ALT risk back in focus](https://www.kitco.com/opinion/2026-07-28/bitcoins-breakdown-puts-ethereum-breadth-and-alt-risk-back-focus)**
+**[Ethereum: Institutional Funding Round Closes](https://blockchain.news/flashnews/ethereum-institutional-funding-round-closes)**
 
-.embed-container-btc-breakdown-alt-risk { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container-btc-breakdown-alt-risk iframe, .embed-container-btc-breakdown-alt-risk object, .embed-container-btc-breakdown-alt-risk embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&nbsp;Video: Bitcoin Confirms The Next Drop Is Coming SoonBitcoin’s failure to sustain its recent higher-low structure has shifted the daily market update toward downside risk. Ethereum has not yet completed the same structural break, but its momentum warning is clear, while crypto breadth, the dollar and multiple ALT charts point to a more defensive backdrop.Bitcoin loses the structure that supported the prior upside caseBitcoin chart showing a break below recent higher-low structureThe source describes Bitcoin’s Monday red close and subsequent move below the prior low as the development that changed the near-term picture. Earlier upside expectations are no longer the focus; the chart is now being assessed against successive support steps and the possibility of further downside momentum.Ethereum has a warning signal but not full bearish confirmationEthereum chart inside the Cloud with RSI support brokenEthereum remains inside its Cloud and therefore has not yet completed the structural shift described for Bitcoin. However, RSI has already lost support. The source treats a bearish OBV cross and a move below the Cloud as the additional confirmation needed for the downside case, keeping the current read conditional rather than absolute.Dominance and crypto breadth show the dip is not being absorbedCrypto market breadth chart moving below the CloudBitcoin dominance is declining, but the source interprets that as selling into the dip rather than an automatic bullish signal for alternative assets. ETH.D, SOL.D, TOTALES and related breadth measures are showing breakdown or strong-bearish conditions. Dominance is market share, not a direct spot-price forecast, so those charts require careful interpretation.Dollar strength and equity weakness increase the risk backdropDollar index chart pushing higherDXY and USDJPY are still advancing in the source analysis, a combination viewed as unfavorable for broader risk assets. S&amp;P futures are in bearish consolidation, and the analysis notes bearish evidence across NDX, FANG and several large technology names. Asian-market weakness adds to the defensive tone without turning any one chart into a guaranteed outcome.Commodities send mixed signalsNASDAQ chart with a TBO Open Short signalGold has bullish-divergence evidence but remains strong bearish below the Cloud in the source view. Silver and uranium also remain bearish, while copper is holding relatively better. The PAXG/BTC chart is highlighted as an important relative-strength gauge: a confirmed shift there would indicate movement away from Bitcoin and toward gold.ALT setups favor caution and selectivitySolana chart with TBO Open Short confirmationSOL confirmed a TBO Open Short and moved into strong-bearish mode below the Cloud. LINK was rejected at the top of its Cloud, while XLM, NEAR, RENDER, FET and SEI each carry breakdown, support-loss or weakness commentary. The source does not reduce all ALT charts to one call, but it frames the broader context as unfavorable for indiscriminate risk-taking.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
+Ethereum co-founders Joseph Lubin and Mihai Alisie anchor @ethereuminsti ecosystem funding round for institutional adoption at ETH $1895.36.
 
-KITCO • 21h ago
-
----
-
-**[Large cryptocurrencies drop on Solana, Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-solana-ethereum-declines-d6d5186c-d3aa3f312e86)**
-
-MarketWatch • 1d ago
-
----
-
-**[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
-
-CCN.com • 1h ago
+blockchain.news • 1h ago
 
 ---
 
@@ -238,7 +240,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 506 • 👍 42 • ⏱️ 6:10 • 1h ago
+👁️ 506 • 👍 42 • ⏱️ 6:10 • 2h ago
 
 ---
 
@@ -248,7 +250,7 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 📺 Thinking Crypto
 
-👁️ 15K • 👍 963 • 💬 130 • ⏱️ 20:27 • 11h ago
+👁️ 15K • 👍 963 • 💬 130 • ⏱️ 20:27 • 12h ago
 
 ---
 
@@ -268,7 +270,7 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 2K • 👍 56 • 💬 6 • ⏱️ 0:57 • 10h ago
+👁️ 2K • 👍 56 • 💬 6 • ⏱️ 0:57 • 12h ago
 
 ---
 
@@ -278,7 +280,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 129 • 👍 8 • 💬 50 • ⏱️ 4:46 • 6h ago
+👁️ 129 • 👍 8 • 💬 50 • ⏱️ 4:46 • 8h ago
 
 ---
 
@@ -288,7 +290,7 @@ Are these fear headlines driving Bitcoin price analysis or just market manipulat
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 648 • 💬 484 • ⏱️ 12:59 • 22h ago
+👁️ 12K • 👍 648 • 💬 484 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -318,7 +320,7 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 16K • 👍 59 • ⏱️ 0:06 • 13h ago
+👁️ 16K • 👍 59 • ⏱️ 0:06 • 15h ago
 
 ---
 

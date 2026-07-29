@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T14:41:27.522706+00:00'
+updated: '2026-07-29T16:21:55.513992+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 14:41 UTC  
+**Last Updated:** July 29, 2026 at 16:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. 
 
 **[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -92,7 +92,7 @@ GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting
 
 Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
 
-2d ago
+3d ago
 
 ---
 
@@ -110,13 +110,15 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
-**[Robotics giant plans major expansion in Michigan](https://www.mlive.com/news/detroit/2026/07/robotics-giant-plans-major-expansion-in-michigan.html)**
+**[XYZ Robotics Advances Physical AI Through Real-World Data and Robot Learning](https://www.wboc.com/online_features/press_releases/xyz-robotics-advances-physical-ai-through-real-world-data-and-robot-learning/article_501dfdf3-a9c5-5518-94c3-ec31efec6a75.html)**
 
-MLive.com • 19h ago
+Company Secures 3,000 Real-World Data Points Daily at Café Locations South Korean AI robotics company XYZ Robotics Inc.
+
+WBOC TV • 6h ago
 
 ---
 
@@ -124,15 +126,15 @@ MLive.com • 19h ago
 
 The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns.
 
-AP News • 2h ago
+AP News • 4h ago
 
 ---
 
-**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
+**[Walberg Sends Letter to Sec. Lutnick Regarding Risks of Foreign Humanoid Robot Technology](https://walberg.house.gov/media/press-releases/walberg-sends-letter-sec-lutnick-regarding-risks-foreign-humanoid-robot)**
 
-Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
+Yesterday, Congressman Tim Walberg (MI-05) sent a letter to Secretary of Commerce Howard Lutnick urging the Department of Commerce to investigate the national security risks associated with Hypserscale Data in Dowagiac, Michigan, assembling humanoid robots made with components from AGIBOT, a Shanghai, China based manufacturer.
 
-developer.nvidia.com • 17h ago
+Congressman Tim Walberg | (.gov) • 2h ago
 
 ---
 
@@ -140,7 +142,23 @@ developer.nvidia.com • 17h ago
 
 The action is part of a wider US effort to reduce reliance on Chinese technology.
 
-Al Jazeera • 1h ago
+Al Jazeera • 3h ago
+
+---
+
+**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
+
+Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
+
+NVIDIA Developer • 19h ago
+
+---
+
+**[Making robots faster by helping them think ahead](https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728)**
+
+The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
+
+MIT News • 1d ago
 
 ---
 
@@ -148,7 +166,7 @@ Al Jazeera • 1h ago
 
 We’ve got construction automation, drones built for inspecting wind turbines, our weekly humanoid startup, and more.
 
-A3 Association for Advancing Automation • 1h ago
+A3 Association for Advancing Automation • 2h ago
 
 ---
 
@@ -156,31 +174,13 @@ A3 Association for Advancing Automation • 1h ago
 
 The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
 
-IFR International Federation of Robotics • 1h ago
+IFR International Federation of Robotics • 3h ago
 
 ---
 
-**[SIU takes second place in international agricultural robotics competition](https://news.siu.edu/2026/07/072826-siu-takes-second-place-in-international-agricultural-robotics-competition.php)**
+**[Trump administration bans foreign-made humanoid robots in move targeting China](https://thehill.com/homenews/5996462-fcc-bans-foreign-humanoid-robots/)**
 
-Southern Illinois University Carbondale’s Agricultural Robotics Club accomplished an impressive feat in its first international competition earlier this month with a second-place finish in the American Society of Agricultural and Biological Engineers’ Robotics Student Design Competition.
-
-SIU News • 20h ago
-
----
-
-**[All Saints School robotics teams win Innovate Award at premier event](https://www.thealpenanews.com/news/local-news/2026/07/all-saints-school-robotics-teams-win-innovate-award-at-premier-event/)**
-
-ALPENA — After a successful 2025-2026 robotics season, the All Saints Holy Gears were one of 48 teams from across the world invited to the Canadian Rockies Premier Event, where they were the winners of the Innovate Award. The Holy Gears won several awards throughout their season, including the second place Inspire Award at the […]
-
-The Alpena News - • 7h ago
-
----
-
-**[Top Robotics Stocks Worth Investing Right Now for Solid Returns](https://finance.yahoo.com/markets/stocks/articles/top-robotics-stocks-worth-investing-154200515.html)**
-
-SNPS is among U.S. robotics plays as 2026 brings major advances in physical AI, surgical systems, defense autonomy and space robotics.
-
-Yahoo Finance • 1d ago
+The Hill • 1h ago
 
 ---
 
@@ -204,7 +204,7 @@ The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanc
 
 📺 DPCcars
 
-👁️ 2K • 👍 22 • 💬 5 • ⏱️ 2:46 • 20h ago
+👁️ 2K • 👍 22 • 💬 5 • ⏱️ 2:46 • 22h ago
 
 ---
 
@@ -214,7 +214,7 @@ The United States just shut its doors to new Chinese humanoid and four legged ro
 
 📺 SXE China
 
-👁️ 909 • 👍 20 • 💬 1 • ⏱️ 0:46 • 2h ago
+👁️ 909 • 👍 20 • 💬 1 • ⏱️ 0:46 • 4h ago
 
 ---
 
@@ -274,7 +274,7 @@ Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" fo
 
 📺 The Action Lab
 
-👁️ 445K • 👍 12K • 💬 921 • ⏱️ 7:44 • 3d ago
+👁️ 445K • 👍 12K • 💬 921 • ⏱️ 7:44 • 4d ago
 
 ---
 
@@ -284,7 +284,7 @@ The Trump administration said it's banning new Chinese humanoid robots, topped w
 
 📺 Reuters
 
-👁️ 5K • 👍 125 • 💬 44 • ⏱️ 1:27 • 13h ago
+👁️ 5K • 👍 125 • 💬 44 • ⏱️ 1:27 • 15h ago
 
 ---
 
