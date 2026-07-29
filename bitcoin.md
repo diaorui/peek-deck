@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-29T20:29:53.095247+00:00'
+updated: '2026-07-29T21:29:21.073246+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 20:29 UTC  
+**Last Updated:** July 29, 2026 at 21:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Been looking at wallet-tier data recently and wanted to see what this community makes of it. According to Santiment's on-chain tracking, wallets holding 10–10K BTC added roughly 19,700 BTC over an 8-day period this month, while wallets holding under 0.01 BTC pulled back on buying. Separately, CoinDesk reported that whale addresses accumulated over 270,000 BTC in a two-week window earlier this year — described as the largest on-chain accumulation spike on record. No price predictions here, just trying to understand the pattern: does this kind of wallet-tier divergence actually tell us anything reliable, or is on-chain data overrated as a signal? Genuinely curious how people who've been holding through multiple cycles think about this.
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ Been looking at wallet-tier data recently and wanted to see what this community 
 
 I know that past doesn't guarantee future outcomes. But, if I had gone all in since 2021 (starting at the previous peak) and did so throughout the past five years, I would have been able to buy my dream house and car by now. I already have a decent amount of retirement savings. Going to take the risk and put all my discretionary income into Bitcoin for the next four years! Feel free to save this post and I'll update it during the next bull run, and you'll see if I made the right choice or not.
 
-17h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ I know that past doesn't guarantee future outcomes. But, if I had gone all in si
 
 It took 5 months on 200GPUS. He is the same person who had solved #120 and #125.
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ It took 5 months on 200GPUS. He is the same person who had solved #120 and #125.
 
 Stuart Haber and Scott Stornetta are two of the Godfather’s behind modern cryptographic timestamping or “Block Chain”. Their contributions to Bitcoin are showcased by three academic works referenced in the Bitcoin Whitepaper References section. These two legends have laid as much of Bitcoin’s groundwork as giants like Adam Back, Wei Dai and Hal Finney. In a recent interview, Stornetta repeated a theory about Satoshi that originated from his colleague, Stuart Haber. The Theory: when talking about Satoshi, “...we’re talking about one person, who was professionally a software engineer, and was really dabbling more with the cryptology as well as with the economic incentives...There’s one thing that I haven't seen anyone analyze, and that is the structure of the (Whitepaper) footnotes.” These suggest Satoshi was a “non-professional cryptologist” who “discovered this thing (Block Chain) by reading about it in the Encyclopedia of Cryptology.” - Scott Stornetta This characterization of Satoshi is not much of a ground breaking take. It is consistent with many others who have suggested that Satoshi was an individual polymath coder, not a group. But the detail about the Whitepaper footnotes and a mysterious book are interesting. What are the clues that relate the structure of the Whitepaper footnotes to this mystery encyclopedia? Has no one looked at this angle involving the Whitepaper footnotes before? The Satoshi Times went down this rabbit hole to see what could be found, and the details are fun. We found that there is an Encyclopedia of Cryptography and Security that was published in 2005 by Henk C. A. van Tilborg via Springer, that matches the description given by Stornetta. This pre-dates Bitcoin (2007-2008), and thus could have been a primary resource used by Satoshi Nakamoto in his invention of Bitcoin.The Theory: when talking about Satoshi, “...we’re talking about one person, who was professionally a software engineer, and was really dabbling more with the cryptology as well as with the economic incentives...There’s one thing that I haven't seen anyone analyze, and that is the structure of the (Whitepaper) footnotes.” These suggest Satoshi was a “non-professional cryptologist” who “discovered this thing (Block Chain) by reading about it in the Encyclopedia of Cryptology.” This characterization of Satoshi is not much of a ground breaking take. It is consistent with many others who have suggested that Satoshi was an individual polymath coder, not a group.But the detail about the Whitepaper footnotes and a mysterious book are interesting.What are the clues that relate the structure of the Whitepaper footnotes to this mystery encyclopedia? Has no one looked at this angle involving the Whitepaper footnotes before?The Satoshi Times went down this rabbit hole to see what could be found, and the details are fun.We found that there is an Encyclopedia of Cryptography and Security that was published in 2005 by Henk C. A. van Tilborg via Springer, that matches the description given by Stornetta. This pre-dates Bitcoin (2007-2008), and thus could have been a primary resource used by Satoshi Nakamoto in his invention of Bitcoin. Continued on https://satoshitimes.com/encyclopedia/
 
-🔗 [satoshitimes.com](https://satoshitimes.com/encyclopedia/) • 6h ago
+🔗 [satoshitimes.com](https://satoshitimes.com/encyclopedia/) • 7h ago
 
 ---
 
@@ -121,7 +121,7 @@ Three iPhone owners sued Apple last week over a fake Sparrow Wallet app they say
 
 Anyone had this happen to them? I’ve been buying BTC for a few years. And got into it really hard the last 4ish years. And I used to talk to anyone about it, but I do that less and less now. One of my closest friends is so resistant to it, and funny enough he’s the most tech savvy person I know! In the past year I had 3 instances where I brought it up in convo with old friends and new acquaintances, and the reaction was so hostile! I think some of that is ppl being angry they missed out in part… idk. But anyway, yea it’s kind of a rift between me and one of my oldest friends. But I’m kinda at the point in my BTC journey where I believe opting out of the fiat/ debt/ credit creation banking system as it stands is a moral imperative tbh. American society is so out of whack between inflation/healthcare/housing/education… and that’s being brief, but I see the compromised monetary system at the core of it all. Talking politics without talking about money is like talking about plumbing without talking about water. And Americans love to talk politics. Anyway yea my BTC conviction has caused rifts in my relationships. Curious of others stories around this.
 
-16h ago
+17h ago
 
 ---
 
@@ -129,7 +129,7 @@ Anyone had this happen to them? I’ve been buying BTC for a few years. And got 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 imo lately it looks like money started rotating from AI stocks to crypto/btc. when they drop, btc used to drop harder but now btc even goes up when they drop.
 
-6h ago
+7h ago
 
 ---
 
@@ -145,7 +145,7 @@ imo lately it looks like money started rotating from AI stocks to crypto/btc. wh
 
 So much discussion about the cycle and where BTC price will be in September and October this year.. What out of ordinary world events could delay or bring forward the end of this halving cycle ?
 
-12h ago
+13h ago
 
 ---
 
@@ -153,7 +153,7 @@ So much discussion about the cycle and where BTC price will be in September and 
 
 I've noticed that most people spend a lot of time learning when to buy Bitcoin, but much less time learning how to protect it. For those who've been around for a while: What's one security lesson you wish someone had told you when you first got into Bitcoin? It could be about self-custody, backups, exchanges, scams, or anything else that made a difference.
 
-12h ago
+13h ago
 
 ---
 
@@ -165,7 +165,7 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bitcoin Magazine • 1d ago
 
 Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1h ago
 
 South Dakota's first gubernatorial primary runoff pitted incumbent Larry Rhoden against outsider Toby Doeden after neither cleared the 35% threshold to win outright.
 
-Fox News • 19h ago
+Fox News • 20h ago
 
 ---
 
@@ -197,7 +197,7 @@ Fox News • 19h ago
 
 Can Bitcoin really solve America's debt crisis? Coinbase CEO Brian Armstrong thinks so, but the math tells a different story.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -219,7 +219,7 @@ CNBC • 1d ago
 
 **[Ionic Digital Shares Jump on Nasdaq Debut after Converting Celsius Bitcoin Mining Assets into AI Infrastructure](https://www.crowdfundinsider.com/2026/07/294277-ionic-digital-shares-jump-on-nasdaq-debut-after-converting-celsius-bitcoin-mining-assets-into-ai-infrastructure/)**
 
-Crowdfund Insider • 7h ago
+Crowdfund Insider • 8h ago
 
 ---
 
@@ -227,7 +227,7 @@ Crowdfund Insider • 7h ago
 
 K33 says bitcoin spot trading activity is headed for its weakest month since late 2023 as derivatives markets remain subdued.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -235,7 +235,7 @@ The Block • 9h ago
 
 The suit claims Apple ranked a fake Sparrow Wallet app and put it in curated crypto collections alongside legitimate ones.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -247,7 +247,7 @@ Decrypt • 10h ago
 
 The alleged thieves infected 8,000 devices.
 
-⬆️ 45 • 💬 43 • 1d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+⬆️ 45 • 💬 43 • 2d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -271,7 +271,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 An interactive timeline of money, gold, fiat, and Bitcoin — from 9000 BC to the age of AGI.
 
-⬆️ 2 • 💬 0 • 6h ago • [AI Socratic](https://aisocratic.org/money-bitcoin-ai)
+⬆️ 2 • 💬 0 • 7h ago • [AI Socratic](https://aisocratic.org/money-bitcoin-ai)
 
 ---
 
@@ -333,7 +333,7 @@ The Clarity Act could be one of Bitcoin's biggest regulatory wins, but a much la
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 192 • ⏱️ 14:24 • 20h ago
+👁️ 16K • 👍 1K • 💬 192 • ⏱️ 14:24 • 21h ago
 
 ---
 
@@ -343,7 +343,7 @@ Ran sits down with Bitwise CIO Matt Hougan to unpack why he believes crypto is e
 
 📺 Crypto Insider
 
-👁️ 11K • 👍 690 • 💬 39 • ⏱️ 49:16 • 9h ago
+👁️ 11K • 👍 690 • 💬 39 • ⏱️ 49:16 • 10h ago
 
 ---
 
@@ -373,7 +373,7 @@ Clarity ACT, BTC charts, ETH, UNISWAP, QQQ and more! BITUNIX TRADE THE TOP COINS
 
 📺 Lark Davis
 
-👁️ 10K • 👍 562 • 💬 60 • ⏱️ 12:37 • 7h ago
+👁️ 10K • 👍 562 • 💬 60 • ⏱️ 12:37 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 3K • 👍 371 • 💬 94 • ⏱️ 10:51 • 2h ago
+👁️ 3K • 👍 371 • 💬 94 • ⏱️ 10:51 • 3h ago
 
 ---
 
@@ -413,7 +413,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 129 • 💬 16 • ⏱️ 15:55 • 19h ago
+👁️ 4K • 👍 129 • 💬 16 • ⏱️ 15:55 • 20h ago
 
 ---
 
@@ -423,7 +423,7 @@ Trade $25 for the chance to earn up to $500 - http://kalshi.com/p/altcoin How To
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 148 • ⏱️ 9:05 • 21h ago
+👁️ 28K • 👍 1K • 💬 148 • ⏱️ 9:05 • 22h ago
 
 ---
 

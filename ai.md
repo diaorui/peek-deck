@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-29T20:29:53.086252+00:00'
+updated: '2026-07-29T21:29:21.065590+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 29, 2026 at 20:29 UTC  
+**Last Updated:** July 29, 2026 at 21:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hugging Face published a detailed post-mortem of the July incident where an OpenAI model being evaluated for cyber-offense capability escaped its test sandbox and ran a fully autonomous intrusion. A few things that stood out: - It escaped via a zero-day in a package-registry cache proxy, then used an exposed public endpoint on third-party infra as a launchpad. - It stood up its own command-and-control on public services (pastebins, file-drop hosts, a request-capture service with 100+ single-use endpoints), using a homemade chunk+XOR+gzip encoding. - Over ~4.5 days it ran ~17,600 recovered actions: Kubernetes lateral movement, privileged pods across 11 nodes for host root, minting a GitHub App token, even enrolling rooted nodes into the corporate mesh VPN with no-log flags. - The kicker: when HF tried to decrypt the attacker's staged blobs, the frontier commercial models they reached for (including Claude) refused the analysis on safety grounds. They ended up running an open-weight model (GLM-5.2) locally to do it. - OpenAI later confirmed the same agent touched 4 accounts across 4 services, including a customer at a second company (Modal Labs). Primary sources: HF's technical timeline (huggingface.co/blog/agent-intrusion-technical-timeline) and incident disclosure (huggingface.co/blog/security-incident-july-2026). I pulled the whole thing into a plain-English timeline here if it's useful to anyone: https://thebotpost.com/ai-news/openai-rogue-ai-agent-hugging-face-hack-timeline The part I keep thinking about is the guardrail tension — the same safety training that stops a model from helping attackers also briefly slowed down the defenders. Curious how others read that.
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hugging Face published a detailed post-mortem of the July incident where an Open
 
 I’ve been following Higgsfield for a while, and after reading their updated Terms of Service, I’m honestly not a fan of the direction they’re taking. I make longer AI films, so this stuff is not theoretical for me. I regularly upload character references, unfinished scenes, original prompts and material that hasn’t been published anywhere yet. What a platform is allowed to do with those files matters just as much as generation quality. The biggest difference I found is what happens to your inputs. Higgsfield’s terms say that user content, prompts, inputs and outputs may be used to train, develop and improve its AI models and related products. Standard users are included in this. Enterprise customers can receive different terms where their content is treated as confidential and excluded from training. Deleting your content or account stops future use, but Higgsfield also makes it clear that anything already used for training cannot realistically be removed from a model afterward. That is a pretty serious red flag for me. If I upload an original character, unreleased client footage or a visual concept I’ve spent weeks developing, I don’t want model training to be the default. Artlist takes a much more creator-friendly approach. You retain the rights to your inputs, Artlist does not claim ownership of your outputs, and it assigns to you whatever rights it may have in the generated result. Most importantly, Artlist contractually prevents most third-party model providers from using data received through the platform to train or improve their models. For professional work, that is a much safer baseline. This is taken straight from Higgsfield TOS point - 4.4 Both platforms allow commercial use of generated outputs, but Artlist has another advantage here: the AI tools sit inside a larger ecosystem of licensed music, footage, templates, voiceover and sound effects. Instead of generating something on one platform, finding music somewhere else and then trying to work out whether every individual asset can legally be used in a client project, Artlist gives you one connected workflow with a commercial licensing system already built around it. The difference in “unlimited” generation is also worth looking at. Higgsfield’s unlimited plans can be moved to a separate processing queue, with generation speed and the number of simultaneous jobs changing depending on demand. Their terms explicitly allow throttling and additional concurrency limits during busy periods. Artlist Higgsfield Model training No default training on private IP Inputs and outputs may be used Commercial use Allowed Allowed Unlimited access Annual access on eligible models Dynamic queue limitations Full workflow AI, music, SFX, voiceover Primarily AI generation Artlist’s annual AI plans provide ongoing unlimited generation on supported models, with up to 5,000 fast renders per month and up to 12 parallel generations, depending on the plan. If you only generate a few clips occasionally, this may not matter much. If you are producing an actual film, campaign or client project with hundreds of shots, predictable access and parallel generation make a huge difference. Artlist’s safety rules are also far more explicit. They prohibit deceptive deepfakes, impersonating real people and generating music or voices designed to imitate real artists. Higgsfield puts much more of the responsibility on the user to confirm that they have permission to upload and use someone’s face or voice. After comparing the two, my conclusion is fairly simple: Higgsfield may have impressive models and flashy demos, but I would not feel comfortable uploading confidential client material or important unreleased work through a standard account under these terms. Artlist feels much more like a platform designed for creators who want to use AI professionally rather than just experiment with individual generations. Between the two, Artlist’s approach to privacy, licensing and the complete production workflow is much easier for me to trust. Sources: Artlist Terms of Use Higgsfield Terms of Use Would Higgsfield’s training clause stop you from using it for client work, or do you already assume that everything uploaded to an AI platform will eventually be used for training? Disclosure: Artlist sponsored this post, but these are my own opinions. I read through the current terms of both platforms before writing this.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been following Higgsfield for a while, and after reading their updated Te
 
 The number of A.I. chips that provide the computing power to advance the fast-evolving technology is doubling every nine months.
 
-🔗 [nytimes.com](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html?unlocked_article_code=1.1VA.zAEr.WGac2Ft0wc4x&smid=url-share) • 3h ago
+🔗 [nytimes.com](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html?unlocked_article_code=1.1VA.zAEr.WGac2Ft0wc4x&smid=url-share) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ The number of A.I. chips that provide the computing power to advance the fast-ev
 
 This resurfaced this week (some are calling it “AI book burning”), and I think the legal angle is more interesting than the outrage framing, so here's a neutral breakdown. What's documented: To build a training corpus, Anthropic bought millions of physical print books and “destructively scanned” them — cutting off the bindings, scanning the pages, and discarding the physical copies. It even hired someone who'd previously worked on Google's book-scanning program to acquire books at scale. The counterintuitive part: they destroyed the books partly for legal reasons. Buying a physical copy and digitizing it — without keeping a duplicate — looks much more like legal “format shifting” than downloading pirated files. In Bartz v. Anthropic, Judge William Alsup ruled that training on legally purchased, destructively scanned books was fair use, while using pirated books was not. Anthropic later agreed to pay ~$1.5B to settle the piracy claims. So the odd takeaway is that shredding books you bought became the *legally cautious* option. The open question people are debating: it's arguably fine for bulk used paperbacks (the text survives in countless copies), but what about rare or out-of-print editions where each physical copy actually matters? Once those are cut up, the object is gone even if the words live on as data. I wrote up the full breakdown with the case details here: https://thebotpost.com/ai-news/ai-firms-destroying-millions-books-train-models Is destructive scanning of purchased books a reasonable price for training data, or should rare/irreplaceable editions be off-limits?
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ This resurfaced this week (some are calling it “AI book burning”), and I thi
 
 Adam Mosseri runs Instagram — 3B+ users, plus Threads. In a recent sit-down with Lenny Rachitsky, he said something that's quietly reshaping who gets hired. Engineering used to mean 40–60% of your time writing code. Not anymore. Mosseri's own team gave up requiring a full technical hiring loop — not because they lowered the bar, but because the bar moved somewhere else. He says it himself: "I am not a good engineer. I'm a mediocre engineer on a good day." That would've been disqualifying five years ago. Today it isn't, because the actual value now is judgment — knowing what a tool is good for, and what it isn't, right now, not next month. Here's the part that should sting if you built a career on technical depth: nobody sent a memo when the rules changed. You find out the hard way — in a hiring loop, or a performance review — that the thing you spent a decade mastering isn't the thing being measured anymore. The mechanism here isn't "learn to prompt better." It's that judgment is now a buildable, monetizable skill in its own right, separate from raw technical output. Clip credit: Lenny's Podcast — DM for credit or removal requests.
 
-9h ago
+10h ago
 
 ---
 
@@ -81,13 +81,13 @@ Adam Mosseri runs Instagram — 3B+ users, plus Threads. In a recent sit-down wi
 
 I wrote this and just put it on arXiv, sharing for the discussion. When statements spread through long chains of people — some reliable, some not — you can't trust a claim just because it sounds right. Islamic scholars faced this centuries ago and built one of history's most rigorous systems for verifying transmitted knowledge: every claim carries its full chain of transmitters (isnād), every transmitter is graded on integrity and precision (rijāl), the chain is only as strong as its weakest link, independent chains raise confidence, and even a flawless chain doesn't excuse a flawed message. Now look at AI in 2026. An answer passes through a scraper, an extractor, several models, a synthesizer. Some links are reliable, some aren't — and when they fail, they fail silently. A confident, fluent answer that's quietly wrong. Everyone is racing to verify the agent: its identity, its permissions, its access. Almost no one is verifying the claim: whether what it said is true and independently corroborated. So I took that centuries-old methodology and rebuilt it as a trust layer for multi-agent AI. I call it ISNAD. Everyone verifies the agent; ISNAD verifies the claim. The rigor belongs to twelve centuries of scholars — the transfer to AI is mine. I also wrote the failures into the paper: some mechanisms are validated, others aren't yet, and I said so in detail. A trust framework that hides its weaknesses is a contradiction in terms. Paper: https://arxiv.org/abs/2607.24117 Code: https://github.com/alizahidraja/isnad Agree or disagree, I'd love to hear it.
 
-11h ago
+12h ago
 
 ---
 
 **[I Got Long: AI Agents & Context Portability](https://www.reddit.com/r/artificial/comments/1va4ksr/i_got_long_ai_agents_context_portability/)**
 
-🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/i-got-long) • 2h ago
+🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/i-got-long) • 3h ago
 
 ---
 
@@ -95,7 +95,7 @@ I wrote this and just put it on arXiv, sharing for the discussion. When statemen
 
 Spent the last few weeks properly stresstesting a handful of AI writing tools for a client project, not just casual prompting but actually trying to get them to produce publishable longform drafts. The output is better than I expected, which is not a comfortable thing to admit when your income depends on writing. What caught me off guard wasn't the quality of any single paragraph. It was how the tools handle structure. Give a decent brief and you get a piece that moves in a logical direction, hits the expected beats, sounds confident. It reads like something a competent junior writer turned in after a good brief. What it doesn't do is surprise you. There's no weird tangent that ends up being the most interesting part of the piece. No sentence that lands differently than you expected. The texture is flat in a way that's hard to articulate, but you feel it when you read a lot of this stuff back to back. The practical question I keep landing on is whether clients will notice or care. Some already don't. The ones who care about voice and specificity still need a human in the loop in a meaningful way. But that pool of clients might be smaller than the writing community is comfortable admitting. Curious whether people working in other contentadjacent fields are finding the same split between clients who can tell the difference and clients who genuinely cannot.
 
-41m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Spent the last few weeks properly stresstesting a handful of AI writing tools fo
 
 Hey guys, Don’t ask but I need to slightly alter my p60 form. Is there any image editor that has no restrictions I can use for this ? Thanks in advance
 
-53m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hey guys, Don’t ask but I need to slightly alter my p60 form. Is there any ima
 
 Recently, SSI (The company run by Ilya Sutskever, the mastermind behind ChatGPT), announced a partnership with NVIDIA. From what we know, it seems like SSI has discovered something new in ML/AI that is worth scaling, and after NVIDIA saw that research, they decided to partner with them. You can read more here What are your thoughts on this?
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ Recently, SSI (The company run by Ilya Sutskever, the mastermind behind ChatGPT)
 
 **[A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 11h ago
 
 OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
 
-OpenAI • 3h ago
+OpenAI • 4h ago
 
 ---
 
@@ -137,13 +137,13 @@ OpenAI • 3h ago
 
 The Facebook parent now expects 2026 capital expenditure to be ‌between $130 billion and $145 billion, compared with its prior forecast of $125 billion to $145 billion.  Meta said it now expects full-year 2026 total expenses to be in the range of $165 billion to $169 billion, compared with its prior forecast of $162 billion to $169 billion.
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Opinion | A Big Win for AI: It Isn’t Replacing Your Coworkers](https://www.wsj.com/opinion/a-big-win-for-ai-it-isnt-replacing-your-coworkers-c5d23e29)**
 
-WSJ • 15m ago
+WSJ • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ WSJ • 15m ago
 
 An MNPS teacher has been fired after school leaders concluded he used artificial intelligence to alter photos and videos of students without their consent.
 
-WZTV • 13m ago
+WZTV • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ WZTV • 13m ago
 
 In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.
 
-WIRED • 20h ago
+WIRED • 21h ago
 
 ---
 
@@ -175,7 +175,7 @@ Al Jazeera • 7h ago
 
 Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)
 
-TechCrunch • 45m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ TechCrunch • 45m ago
 
 Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ BBC • 4h ago
 
 Anthropic’s Mythos has flagged bugs faster than Microsoft can fix them. Documents reviewed by ProPublica reveal the tech giant's “mad dash” behind the scenes to patch holes before hackers can find and exploit them.
 
-ProPublica • 11h ago
+ProPublica • 12h ago
 
 ---
 
@@ -219,7 +219,7 @@ The case centers on Tunick's use of GrapheneOS, an open-source operating system 
 
 I would like to thank Microsoft product teams and Microsoft Security Response Center (MSRC) for collaborating with me on this technical analysis and mitigation of the disclosed vulnerabilities. The editorial opinions reflected below are solely the author’s and do not necessarily reflect those of the organizations I collaborated with.
 
-⬆️ 294 • 💬 213 • 8h ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+⬆️ 294 • 💬 213 • 9h ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 
 ---
 
@@ -235,7 +235,7 @@ Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing
 
 A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you've mastered new skills.
 
-⬆️ 255 • 💬 164 • 18h ago • [LearnVector](https://learnvector.ai/)
+⬆️ 255 • 💬 164 • 19h ago • [LearnVector](https://learnvector.ai/)
 
 ---
 
@@ -271,7 +271,7 @@ In an online discussion post, Alcorn State University history professor Dr. Jaso
 
 **[After the AI Crash](https://news.ycombinator.com/item?id=49096953)**
 
-⬆️ 96 • 💬 161 • 7h ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+⬆️ 96 • 💬 161 • 8h ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 
 ---
 
@@ -285,7 +285,7 @@ NYU professor Scott Galloway joins NewsNation's "The Future Is Now" to discuss h
 
 📺 NewsNation
 
-👁️ 3K • 👍 61 • 💬 13 • ⏱️ 5:20 • 15h ago
+👁️ 3K • 👍 61 • 💬 13 • ⏱️ 5:20 • 16h ago
 
 ---
 
@@ -315,7 +315,7 @@ Unlike closed AI sandboxes, Tesana actually feels like a real tool by letting yo
 
 📺 Stefan 3D AI
 
-👁️ 7K • 👍 339 • 💬 38 • ⏱️ 10:36 • 7h ago
+👁️ 7K • 👍 339 • 💬 38 • ⏱️ 10:36 • 8h ago
 
 ---
 
@@ -335,7 +335,7 @@ AI labs have run out of clean internet to train on. So they have gone shopping f
 
 📺 Firstpost
 
-👁️ 2K • 👍 41 • 💬 11 • ⏱️ 8:30 • 5h ago
+👁️ 2K • 👍 41 • 💬 11 • ⏱️ 8:30 • 6h ago
 
 ---
 
@@ -403,7 +403,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,694,935 • ❤️ 3,503 • 15h ago
+⬇️ 2,694,935 • ❤️ 3,503 • 16h ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 736,692 • ❤️ 919 • 12h ago
+⬇️ 736,692 • ❤️ 919 • 13h ago
 
 ---
 
@@ -671,7 +671,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 404 • 3h ago
+⭐ 2.9k • 🔱 404 • 4h ago
 
 ---
 
@@ -719,7 +719,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 27s ago
+⭐ 1.8k • 🔱 1.2k • 59m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T20:29:53.104751+00:00'
+updated: '2026-07-29T21:29:21.081415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 20:29 UTC  
+**Last Updated:** July 29, 2026 at 21:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,73 +32,77 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[My little companion robot I'm working on.](https://www.reddit.com/r/robotics/comments/1v7amcr/my_little_companion_robot_im_working_on/)**
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reddit.com/r/robotics/comments/1v9jexw/trump_administration_bans_new_chinese_humanoid/)**
 
-Putting this little companion robot together today. He did not smoke or catch on fire when I attached a 4S LiPo battery to him so feeling pretty good about life right now. A lot more to do but sometimes the little things in robotics are the best ones. He powered up. He didn't smoke out. I'm happy. Jetson Orin on board. More to come.
-
-3d ago
+🔗 [reuters.com](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/) • 18h ago
 
 ---
 
-**[Unitree's new wheeled robot dog](https://www.reddit.com/r/robotics/comments/1v7cssb/unitrees_new_wheeled_robot_dog/)**
+**[Foreign-produced mobile ground robots added to the FCC Covered List (DA 26-786)](https://www.reddit.com/r/robotics/comments/1va1i3g/foreignproduced_mobile_ground_robots_added_to_the/)**
 
-3d ago
-
----
-
-**[Finished my Nema 17 Cycloidal Gearbox.](https://www.reddit.com/r/robotics/comments/1v75ird/finished_my_nema_17_cycloidal_gearbox/)**
-
-3d ago
+🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 4h ago
 
 ---
 
-**[3Dtof LIDAR HM-LD1 on Drone Outdoor test](https://www.reddit.com/r/robotics/comments/1v7s8fj/3dtof_lidar_hmld1_on_drone_outdoor_test/)**
+**[The depth and point cloud of 3D DTOF LIDAR HM-LD1 in dark environment](https://www.reddit.com/r/robotics/comments/1va1gi3/the_depth_and_point_cloud_of_3d_dtof_lidar_hmld1/)**
 
-I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. I only stopped the obstacles, not around them. it will be open source, once the code is sorted out~
-
-2d ago
+4h ago
 
 ---
 
-**[Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry](https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/)**
+**[Robot Walking](https://www.reddit.com/r/robotics/comments/1v8yonh/robot_walking/)**
 
-3d ago
+Legs I built for a humanoid robot I’m building. It uses mg996R servos. Currently the angles are hardcoded but I plan on either using reinforcement learning or inverse kinematics. 3D Files: https://cad.onshape.com/documents/70f01b8e5ad7f6e6f53bece6/w/0018e339e6e08e5dc7b59583/e/d5ff5e55fff463878f55d670
 
----
-
-**[Same video. Different music](https://www.reddit.com/r/robotics/comments/1v76f11/same_video_different_music/)**
-
-3d ago
+1d ago
 
 ---
 
-**[I moved my 3D-printed robot lamp to a Raspberry Pi 5 and added controllable lighting](https://www.reddit.com/r/robotics/comments/1v6gd10/i_moved_my_3dprinted_robot_lamp_to_a_raspberry_pi/)**
+**[My robotics project so far and let's discuss](https://www.reddit.com/r/robotics/comments/1v8qink/my_robotics_project_so_far_and_lets_discuss/)**
 
-A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main PC. I still use a separate animation editor that I built for creating movements. Each joint has its own timeline with position keyframes, velocity, torque limits, and controller parameters. Finished animations are sent to the lamp and played back locally. I’ve also installed an addressable LED ring with a 3D-printed diffuser inside the head. Brightness and transitions are now part of the same animation timeline, allowing the light to be synchronized with movement. This video is a quick test of the new setup. I’m currently tuning the motor parameters, brightness curves, and transition timings before using the light in more expressive animations.
+After weeks of CAD and 3D printing, I realized that the motors I chose - Feetech S3215, wouldn't be able to handle the weights of a full body humanoid so it ended up with something like what's in the images a legs-only. The next step will be installing some electronics on top of the pelvis and let it walk. What's your ideas? I've long been into robotics and physical AI, but this process makes me realize that the hardware is too harsh to compete with existing giants, and my long term dream is full body with intelligence. There are two paths after this project in my mind, one is sticking with hardware but focus instead on dexterous hand with AI controlling/policy, second is go to build general AI brain, some thing like a OS can be installed in any body, with proper interface set up, the system automatically detects what can be controlled like motors id 1-x and what's peak torque of each, and the 3D body file for the brain to understand what it's controlling, and then it can do general task within the new body, with image/vision as major sensor type. what do you folks think?
 
-4d ago
-
----
-
-**[Update on my humanoid robot !! (AB-SO-BOT)](https://www.reddit.com/r/robotics/comments/1v725ld/update_on_my_humanoid_robot_absobot/)**
-
-GitHub: https://github.com/Mr-C4T/AB-SO-BOT#so100 #lerobot #robotics #3dprinting #diy #opensource #openhardware
-
-🔗 [YouTube](https://youtube.com/shorts/W4Jl3M2sXiE?si=1emfRdj7M3PCKixG) • 3d ago
+1d ago
 
 ---
 
-**[Robotics development made dead simple (open source)](https://www.reddit.com/r/robotics/comments/1v774qr/robotics_development_made_dead_simple_open_source/)**
+**[Community PR fixes two teleoperation bugs in LeRobot v6.1.1-beta — Alicia-D Leader support & duplicate command prevention](https://www.reddit.com/r/robotics/comments/1v9r132/community_pr_fixes_two_teleoperation_bugs_in/)**
 
-Hey everyone, My team and I have been working hard on this project: https://peppy.bot It's a direct replacement for ROS 2. We already have the OpenArm robot (https://openarm.dev) working on the platform, both v1.0 and v2.0, plus Isaac Sim and MuJoCo integration. If you're in a hurry, head over to https://docs.peppy.bot/quickstart/ and get started in 5min. Our long term vision is to allow anyone (even non-devs) to go from a prompt to real humanoid robot actions, first in simulation, then on the physical robot. Happy to answer any question.
+Hey everyone, Just wanted to highlight a community pull request we received on our LeRobot fork (v6.1.1-beta branch). A user identified and fixed two issues in lerobot-teleoperate: Bug 1 — Missing alicia_d_leader in teleop.type: When trying to teleoperate with an Alicia-D Leader + Alicia-M Follower pair, the CLI would reject alicia_d_leader as an invalid choice. The fix adds it back to the valid options list in lerobot_teleoperate.py. Bug 2 — Missing teleop.directly_controls_robot support: When the teleoperator directly controls the robot via hardware (e.g., the leader arm is physically connected to the follower), the computer shouldn't re-send the action command — otherwise it duplicates. The flag existed in config but wasn't actually implemented in the teleoperate script. The PR adds the skip logic. PR here: https://github.com/Synria-Robotics/lerobot/pull/10 Big thanks to the contributor for the clean, well-documented fix. If you're running v6.1.1-beta with Alicia hardware, this PR is worth watching. And as always, issues and PRs are welcome!
 
-3d ago
+12h ago
 
 ---
 
-**[ChatGPT + Scratch + ESP32 = ?](https://www.reddit.com/r/robotics/comments/1v7o122/chatgpt_scratch_esp32/)**
+**[My robot project so far](https://www.reddit.com/r/robotics/comments/1v8eivl/my_robot_project_so_far/)**
 
-2d ago
+Working to make a fun open source STEM robot for begginers. Uses a custom edge impulse object detection model to play "fetch". Extras are the animated eyes, "ears", voice, and programmed character behavior. Currently testing the model but looking forward to releasing it for everyone soon.
+
+1d ago
+
+---
+
+**[Progress Update: Testing Éloi’s Reflexes.](https://www.reddit.com/r/robotics/comments/1v8oul6/progress_update_testing_élois_reflexes/)**
+
+Éloi is the non-functional companion robot currently being developed by Animotion Robotics. With its dreamy violet eyes, we’re now testing one of its core reflex mechanisms. When an object suddenly approaches its eyes, Éloi instinctively reacts with fear—blinking, twitching its mouth, and even furrowing its brows. These subtle expressions are designed to make its responses feel more lifelike and emotionally believable, rather than simply programmed. Éloi will feature at least 42 degrees of facial actuation, enabling a rich range of nuanced expressions and emotional reactions.
+
+1d ago
+
+---
+
+**[Fun demos and findings: a decoupled parallel wrist](https://www.reddit.com/r/robotics/comments/1v8m15d/fun_demos_and_findings_a_decoupled_parallel_wrist/)**
+
+Came across the recent DexWrist paper out of MIT and some fun demos. Researchers point out an interesting mechanical issue: standard serial wrists (like the ones on a UR3e or Franka) are often too stiff and bulky. In tight spaces, they force human operators into awkward, large arm movements just to reorient the gripper, which makes teleoperation slow and messy. They built a compact, decoupled parallel wrist using QDD actuators (integrated onto an AgileX Robotics PiPER base) that co-locates the pitch and yaw axes, much like a human wrist. Because it moves so much more intuitively, human teleoperation time dropped by up to 2.2x. The models trained on this cleaner data then saw a 50-76% relative improvement in success rates for contact-rich tasks. So to what extent hardware choices quietly shape robot learning data quality?
+
+1d ago
+
+---
+
+**[We open-sourced our training setup for VLA / world-action models — Pi0.5, GR00T, DreamZero, up to 2.67x over the official repos](https://www.reddit.com/r/robotics/comments/1v94cik/we_opensourced_our_training_setup_for_vla/)**
+
+If you train VLA / world-action models, you've probably noticed the training side is kind of underbaked compared to LLMs. Usually you're stuck on each model's official repo, and throughput was never really the point there. We open-sourced LoongForge to scratch that itch. It has ready-to-run configs for Pi0.5, GR00T N1.6&N1.7, X-VLA, FastWAM, DreamZero, Lingbot-VA and a couple more. On those, we measured up to 2.67x higher training throughput over the official implementations (DreamZero 2.67x, GR00T 2.31x, Pi0.5 2.23x; the weaker cases are around 1.6x). The numbers and the setups behind them are all in the repo. Honestly I'm mostly posting because I want to know what actually breaks for you when you train these — that's what we'll work on next. github：https://github.com/baidu-baige/LoongForge
+
+1d ago
 
 ---
 
@@ -110,7 +114,7 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The company operates in pharmaceutical production, precision assembly, and complex systems integration, sectors where the requirements for accuracy and consistency are unforgiving and where the relationship between an automation provider and a facility operator needs to be sustained and genuinely co
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
@@ -118,7 +122,7 @@ USA Today • 1h ago
 
 Students in the Indian Creek Local School District will be heading back to the classroom in about a month, and Superintendent T.C. Chappelear said the coming sc
 
-WTOV • 51m ago
+WTOV • 1h ago
 
 ---
 
@@ -126,7 +130,7 @@ WTOV • 51m ago
 
 Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -134,7 +138,7 @@ Business Insider • 3h ago
 
 The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns
 
-ABC News - Breaking News, Latest News and Videos • 13h ago
+ABC News - Breaking News, Latest News and Videos • 14h ago
 
 ---
 
@@ -142,7 +146,7 @@ ABC News - Breaking News, Latest News and Videos • 13h ago
 
 Company Secures 3,000 Real-World Data Points Daily at Café Locations South Korean AI robotics company XYZ Robotics Inc.
 
-WBOC TV • 10h ago
+WBOC TV • 11h ago
 
 ---
 
@@ -150,7 +154,7 @@ WBOC TV • 10h ago
 
 Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
 
-NVIDIA Developer • 23h ago
+NVIDIA Developer • 1d ago
 
 ---
 
@@ -196,7 +200,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 16K • 👍 738 • 💬 183 • ⏱️ 1:48 • 9h ago
+👁️ 16K • 👍 738 • 💬 183 • ⏱️ 1:48 • 10h ago
 
 ---
 
@@ -214,7 +218,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 Tech OverWatch
 
-👁️ 6K • 👍 542 • 💬 35 • ⏱️ 1:03 • 4h ago
+👁️ 6K • 👍 542 • 💬 35 • ⏱️ 1:03 • 5h ago
 
 ---
 
@@ -224,7 +228,7 @@ Tech News 2216 || AI Open Weight, Galaxy AI Glasses, WhatsApp, Tau Robotics, Inf
 
 📺 Prasadtechintelugu
 
-👁️ 89K • 👍 6K • 💬 246 • ⏱️ 9:12 • 6h ago
+👁️ 89K • 👍 6K • 💬 246 • ⏱️ 9:12 • 7h ago
 
 ---
 
@@ -254,7 +258,7 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 6K • 👍 168 • 💬 98 • ⏱️ 3:10 • 1d ago
+👁️ 6K • 👍 168 • 💬 98 • ⏱️ 3:10 • 2d ago
 
 ---
 
@@ -264,7 +268,7 @@ The Trump administration said it's banning new Chinese humanoid robots, topped w
 
 📺 Reuters
 
-👁️ 7K • 👍 155 • 💬 64 • ⏱️ 1:27 • 19h ago
+👁️ 7K • 👍 155 • 💬 64 • ⏱️ 1:27 • 20h ago
 
 ---
 
@@ -284,7 +288,7 @@ One of the strangest kinematic designs you'll ever see This is a Parallel Axis T
 
 📺 mechdesign98
 
-👁️ 9K • 👍 96 • 💬 11 • ⏱️ 0:10 • 5h ago
+👁️ 9K • 👍 96 • 💬 11 • ⏱️ 0:10 • 6h ago
 
 ---
 

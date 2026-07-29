@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-29T20:29:53.101467+00:00'
+updated: '2026-07-29T21:29:21.078558+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 20:29 UTC  
+**Last Updated:** July 29, 2026 at 21:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 8h ago
+ethereum.org • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 1d ago
 
 Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 The Ethereum Foundation has named a well-known industry veteran to its board of directors. ...
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 57m ago
 
 The Ethereum Foundation adds privacy and security advocate pcaversaccio to its board.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 1h ago
 
 Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -212,19 +212,19 @@ The Motley Fool • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
 **[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
 
-ccn.com • 7h ago
+ccn.com • 8h ago
 
 ---
 
 **[$430 million in Ethereum just moved, here's why market is paying attention](https://www.thestreet.com/crypto/markets/430-million-in-ethereum-just-moved-heres-why-market-is-paying-attention)**
 
-thestreet.com • 2h ago
+thestreet.com • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 111 • 💬 2 • ⏱️ 6:10 • 6h ago
+👁️ 2K • 👍 111 • 💬 2 • ⏱️ 6:10 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 📺 Thinking Crypto
 
-👁️ 17K • 👍 1K • 💬 159 • ⏱️ 20:27 • 17h ago
+👁️ 17K • 👍 1K • 💬 159 • ⏱️ 20:27 • 18h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 1K • 👍 97 • 💬 72 • ⏱️ 24:19 • 2h ago
+👁️ 1K • 👍 97 • 💬 72 • ⏱️ 24:19 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 3K • 👍 82 • 💬 7 • ⏱️ 0:57 • 16h ago
+👁️ 3K • 👍 82 • 💬 7 • ⏱️ 0:57 • 17h ago
 
 ---
 
@@ -318,7 +318,7 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 26K • 👍 80 • ⏱️ 0:06 • 19h ago
+👁️ 26K • 👍 80 • ⏱️ 0:06 • 20h ago
 
 ---
 
