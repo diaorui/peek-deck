@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-29T09:37:32.264890+00:00'
+updated: '2026-07-29T12:01:12.874926+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 09:37 UTC  
+**Last Updated:** July 29, 2026 at 12:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +2.2%  
-**7d:** +2.2%  
-**30d:** +22.1%  
-**90d:** -16.3%  
-**1y:** -49.6%  
+**7d:** +1.9%  
+**30d:** +21.8%  
+**90d:** -16.6%  
+**1y:** -49.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.60B
+**Market Cap:** $230.87B
 Rank #2
 
 **Circulating Supply:** 120,682,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.3%
 
 **All-Time Low:** $0.43
-+443129.3%
++441727.4%
 
 ---
 
@@ -96,7 +96,7 @@ The 2026 Lido Core upgrade introduces major improvements on the operator and val
 
 Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the way we design BlazePhoenix smart contracts needs to evolve. Patterns that were standard on L1 Ethereum (heavy storage usage, external oracle reliance, off-chain quoter infrastructure) often create unnecessary bottlenecks and security risks on L2. We designed an aggregator architecture built specifically around recent EVM upgrades to prove that on-chain liquidity routing can be both cheap and hyper-secure: EIP-1153 Native: Using transient storage for reentrancy and route state tracking instead of legacy storage variables. Oracle-Free Design: Eliminating third-party oracle vectors entirely by deriving real-time liquidity depth directly on-chain. Deterministic Execution: Eliminating "failed swap gas fees" by enforcing precise execution previews that mirror live EVM state. The goal is to build self-sustaining, immutable infrastructure that operates seamlessly for both human users and autonomous AI agents. Looking forward to hearing thoughts from the community on how L2-native EVM patterns are reshaping protocol design!
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
 
-The Block • 19h ago
+The Block • 21h ago
 
 ---
 
@@ -172,15 +172,7 @@ BeInCrypto • 1d ago
 
 Bitcoin opened at $63,706.66 on Tuesday, July 28, 2026, 2.5% lower than Monday's opening price. Ethereum opened at $1,890.67, down 3.2% from Monday's opening price.
 
-Yahoo Finance • 20h ago
-
----
-
-**[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22m ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -188,7 +180,15 @@ Fortune • 22m ago
 
 The startup, which spun out of the Ethereum Foundation earlier this month, is focused on building privacy infrastructure for banks and other financial institutions.
 
-CoinDesk • 17h ago
+CoinDesk • 20h ago
+
+---
+
+**[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ CoinDesk • 17h ago
 
 Lee thinks "Ethereum 2.0" could spark a spectacular rally in the Ether cryptocurrency.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -212,13 +212,13 @@ TradingView • 2d ago
 
 .embed-container-btc-breakdown-alt-risk { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container-btc-breakdown-alt-risk iframe, .embed-container-btc-breakdown-alt-risk object, .embed-container-btc-breakdown-alt-risk embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&nbsp;Video: Bitcoin Confirms The Next Drop Is Coming SoonBitcoin’s failure to sustain its recent higher-low structure has shifted the daily market update toward downside risk. Ethereum has not yet completed the same structural break, but its momentum warning is clear, while crypto breadth, the dollar and multiple ALT charts point to a more defensive backdrop.Bitcoin loses the structure that supported the prior upside caseBitcoin chart showing a break below recent higher-low structureThe source describes Bitcoin’s Monday red close and subsequent move below the prior low as the development that changed the near-term picture. Earlier upside expectations are no longer the focus; the chart is now being assessed against successive support steps and the possibility of further downside momentum.Ethereum has a warning signal but not full bearish confirmationEthereum chart inside the Cloud with RSI support brokenEthereum remains inside its Cloud and therefore has not yet completed the structural shift described for Bitcoin. However, RSI has already lost support. The source treats a bearish OBV cross and a move below the Cloud as the additional confirmation needed for the downside case, keeping the current read conditional rather than absolute.Dominance and crypto breadth show the dip is not being absorbedCrypto market breadth chart moving below the CloudBitcoin dominance is declining, but the source interprets that as selling into the dip rather than an automatic bullish signal for alternative assets. ETH.D, SOL.D, TOTALES and related breadth measures are showing breakdown or strong-bearish conditions. Dominance is market share, not a direct spot-price forecast, so those charts require careful interpretation.Dollar strength and equity weakness increase the risk backdropDollar index chart pushing higherDXY and USDJPY are still advancing in the source analysis, a combination viewed as unfavorable for broader risk assets. S&amp;P futures are in bearish consolidation, and the analysis notes bearish evidence across NDX, FANG and several large technology names. Asian-market weakness adds to the defensive tone without turning any one chart into a guaranteed outcome.Commodities send mixed signalsNASDAQ chart with a TBO Open Short signalGold has bullish-divergence evidence but remains strong bearish below the Cloud in the source view. Silver and uranium also remain bearish, while copper is holding relatively better. The PAXG/BTC chart is highlighted as an important relative-strength gauge: a confirmed shift there would indicate movement away from Bitcoin and toward gold.ALT setups favor caution and selectivitySolana chart with TBO Open Short confirmationSOL confirmed a TBO Open Short and moved into strong-bearish mode below the Cloud. LINK was rejected at the top of its Cloud, while XLM, NEAR, RENDER, FET and SEI each carry breakdown, support-loss or weakness commentary. The source does not reduce all ALT charts to one call, but it frames the broader context as unfavorable for indiscriminate risk-taking.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
 
-KITCO • 16h ago
+KITCO • 19h ago
 
 ---
 
 **[Large cryptocurrencies drop on Solana, Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-solana-ethereum-declines-d6d5186c-d3aa3f312e86)**
 
-MarketWatch • 19h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -234,13 +234,13 @@ The Defiant • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
+**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
 
-Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
+Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
 
-📺 The Rollup
+📺 Thinking Crypto
 
-👁️ 2K • 👍 31 • 💬 26 • ⏱️ 6:40 • 21h ago
+👁️ 12K • 👍 840 • 💬 110 • ⏱️ 20:27 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 88K • 👍 2K • 💬 245 • ⏱️ 6:11 • 1d ago
+👁️ 89K • 👍 2K • 💬 249 • ⏱️ 6:11 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ Are these fear headlines driving Bitcoin price analysis or just market manipulat
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 623 • 💬 452 • ⏱️ 12:59 • 17h ago
+👁️ 12K • 👍 636 • 💬 452 • ⏱️ 12:59 • 20h ago
 
 ---
 
@@ -270,27 +270,17 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 792 • 👍 24 • 💬 5 • ⏱️ 0:57 • 5h ago
+👁️ 1K • 👍 40 • 💬 6 • ⏱️ 0:57 • 8h ago
 
 ---
 
-**[🚀 Bitcoin, XRP SOLANA, VECHAIN &amp; ETHEREUM Update: Looking to hold macro bullish structure! Data!](https://www.youtube.com/watch?v=PXnNh3fMsjg)**
+**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
 
-Trade Bitcoin, XRP, VET, SOL, ETH (ByBit): https://bit.ly/CoinsKidByBit Bitcoin & XRP Heatmaps ...
+Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
 
-📺 CoinsKid
+📺 The Rollup
 
-👁️ 404 • 👍 34 • 💬 3 • ⏱️ 26:51 • 33m ago
-
----
-
-**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
-
-Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
-
-📺 Thinking Crypto
-
-👁️ 10K • 👍 695 • 💬 134 • ⏱️ 20:27 • 6h ago
+👁️ 2K • 👍 33 • 💬 26 • ⏱️ 6:40 • 1d ago
 
 ---
 
@@ -300,7 +290,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 12K • 👍 640 • 💬 586 • ⏱️ 13:03 • 2d ago
+👁️ 12K • 👍 642 • 💬 586 • ⏱️ 13:03 • 2d ago
+
+---
+
+**[Is the Ethereum Bounce a Trap or a Reversal](https://www.youtube.com/watch?v=ERd0n7olbI0)**
+
+In this video I break down the latest Ethereum price analysis using Elliott Wave theory to determine if the current bounce is a ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 244 • 💬 11 • ⏱️ 6:58 • 1d ago
 
 ---
 
@@ -310,7 +310,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 85 • 💬 34 • ⏱️ 5:45 • 1d ago
+👁️ 3K • 👍 87 • 💬 34 • ⏱️ 5:45 • 1d ago
 
 ---
 
@@ -320,17 +320,17 @@ Ethereum Is Falling Harder: Structure Still Matters Ethereum is showing weakness
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 646 • 👍 23 • 💬 2 • ⏱️ 1:10 • 22h ago
+👁️ 662 • 👍 23 • 💬 2 • ⏱️ 1:10 • 1d ago
 
 ---
 
-**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
+**[🚀 Bitcoin, XRP SOLANA, VECHAIN &amp; ETHEREUM Update: Looking to hold macro bullish structure! Data!](https://www.youtube.com/watch?v=PXnNh3fMsjg)**
 
-A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
+Trade Bitcoin, XRP, VET, SOL, ETH (ByBit): https://bit.ly/CoinsKidByBit Bitcoin & XRP Heatmaps ...
 
-📺 Giving Hearts
+📺 CoinsKid
 
-👁️ 13K • 👍 48 • ⏱️ 0:06 • 8h ago
+👁️ 1K • 👍 167 • 💬 12 • ⏱️ 26:51 • 2h ago
 
 ---
 

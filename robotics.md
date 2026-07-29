@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T09:37:32.268089+00:00'
+updated: '2026-07-29T12:01:12.878479+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 09:37 UTC  
+**Last Updated:** July 29, 2026 at 12:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,65 +110,13 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
-BBC • 7h ago
+BBC • 9h ago
 
 ---
 
-**[Lenovo Capital takes aim at robotics, coding agents in ‘sniper’ AI strategy](https://www.scmp.com/tech/tech-trends/article/3362213/lenovo-capital-takes-aim-robotics-coding-agents-sniper-ai-investment-strategy)**
+**[Robotics giant plans major expansion in Michigan](https://www.mlive.com/news/detroit/2026/07/robotics-giant-plans-major-expansion-in-michigan.html)**
 
-South China Morning Post • 1h ago
-
----
-
-**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
-
-Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
-
-NVIDIA Developer • 12h ago
-
----
-
-**[US bans foreign-made humanoid robots, targeting China over national security](https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366)**
-
-The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns.
-
-AP News • 53m ago
-
----
-
-**[Middle School Students Explore Advanced Manufacturing and Robotics Through CMU Partnership](https://www.cmu.edu/news/stories/archives/2026/july/middle-school-students-explore-advanced-manufacturing-and-robotics-through-cmu-partnership)**
-
-Middle school students from Pittsburgh's Hazelwood neighborhood got a chance to imagine themselves as future engineers, researchers and innovators at CMU's Robotics Innovation Center.
-
-Carnegie Mellon University • 18h ago
-
----
-
-**[All Saints School robotics teams win Innovate Award at premier event](https://www.thealpenanews.com/news/local-news/2026/07/all-saints-school-robotics-teams-win-innovate-award-at-premier-event/)**
-
-ALPENA — After a successful 2025-2026 robotics season, the All Saints Holy Gears were one of 48 teams from across the world invited to the Canadian Rockies Premier Event, where they were the winners of the Innovate Award. The Holy Gears won several awards throughout their season, including the second place Inspire Award at the […]
-
-The Alpena News - • 2h ago
-
----
-
-**[US bans new Chinese robots, power inverters in latest tech crackdown](https://www.scmp.com/news/china/diplomacy/article/3362185/us-bans-new-chinese-robots-power-inverters-latest-tech-crackdown)**
-
-South China Morning Post • 11h ago
-
----
-
-**[From robot cars to real careers: Guilford County teachers bring new robotics program to the classroom](https://www.wfmynews2.com/article/life/local-life/guilford-county-schools-brings-new-jezero-deloitte-robotics-program-to-high-school-classrooms-university-of-north-carolina-greensboro-engineering-stem/83-77568e37-82ad-454e-b27a-2c09d9e3b18e)**
-
-wfmynews2.com • 10h ago
-
----
-
-**[How LLNL is using AI, robotics and automation to accelerate advanced manufacturing](https://www.llnl.gov/article/54736/how-llnl-using-ai-robotics-automation-accelerate-advanced-manufacturing)**
-
-Lawrence Livermore National Laboratory (LLNL) scientists and engineers, in conjunction with the Department of Energy (DOE) and National Nuclear Security Administration (NNSA), are increasingly looking to AI, robotics and automation to help accelerate advanced manufacturing, materials discovery and experimental science. The work is part of a broader push to move faster from concept to deployment in mission-relevant technologies. For Chris Spadaccini, who leads LLNL's Materials Engineering Division and has helped drive much of the Lab's advanced manufacturing research, that urgency is
-
-Lawrence Livermore National Laboratory (.gov) • 20h ago
+MLive.com • 16h ago
 
 ---
 
@@ -180,9 +128,73 @@ ABC News - Breaking News, Latest News and Videos • 2h ago
 
 ---
 
+**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
+
+Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
+
+NVIDIA Developer • 15h ago
+
+---
+
+**[SIU takes second place in international agricultural robotics competition](https://news.siu.edu/2026/07/072826-siu-takes-second-place-in-international-agricultural-robotics-competition.php)**
+
+Southern Illinois University Carbondale’s Agricultural Robotics Club accomplished an impressive feat in its first international competition earlier this month with a second-place finish in the American Society of Agricultural and Biological Engineers’ Robotics Student Design Competition.
+
+SIU News • 18h ago
+
+---
+
+**[All Saints School robotics teams win Innovate Award at premier event](https://www.thealpenanews.com/news/local-news/2026/07/all-saints-school-robotics-teams-win-innovate-award-at-premier-event/)**
+
+ALPENA — After a successful 2025-2026 robotics season, the All Saints Holy Gears were one of 48 teams from across the world invited to the Canadian Rockies Premier Event, where they were the winners of the Innovate Award. The Holy Gears won several awards throughout their season, including the second place Inspire Award at the […]
+
+The Alpena News - • 4h ago
+
+---
+
+**[XYZ Robotics Advances Physical AI Through Real-World Data and Robot Learning](https://www.wboc.com/online_features/press_releases/xyz-robotics-advances-physical-ai-through-real-world-data-and-robot-learning/article_501dfdf3-a9c5-5518-94c3-ec31efec6a75.html)**
+
+Company Secures 3,000 Real-World Data Points Daily at Café Locations South Korean AI robotics company XYZ Robotics Inc.
+
+WBOC TV • 2h ago
+
+---
+
+**[FCC bans foreign humanoid robots, expanding campaign against Chinese tech](https://www.washingtonpost.com/technology/2026/07/28/fcc-bans-foreign-humanoid-robots-expanding-campaign-against-chinese-tech/)**
+
+A separate ban takes aim at devices used to connect solar panels to the electric grid, as officials said they could be vulnerable to hacking.
+
+The Washington Post • 8h ago
+
+---
+
+**[From robot cars to real careers: Guilford County teachers bring new robotics program to the classroom](https://www.wfmynews2.com/article/life/local-life/guilford-county-schools-brings-new-jezero-deloitte-robotics-program-to-high-school-classrooms-university-of-north-carolina-greensboro-engineering-stem/83-77568e37-82ad-454e-b27a-2c09d9e3b18e)**
+
+wfmynews2.com • 13h ago
+
+---
+
+**[End-to-end automation with Productive Robotics](https://www.todaysmedicaldevelopments.com/product/end-to-end-automation-productive-robotics/)**
+
+The company demonstrates automation of metal removal, abrasive machining, sawing, and finishing processes.
+
+Today's Medical Developments • 7h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[AGIBOT A3 Revealed Future Humanoid Robot Technology Unboxing](https://www.youtube.com/watch?v=mv4eXwJ05So)**
+
+The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanced artificial intelligence, impressive mobility ...
+
+📺 DPCcars
+
+👁️ 2K • 👍 19 • 💬 5 • ⏱️ 2:46 • 18h ago
+
+---
 
 **[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
 
@@ -190,27 +202,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 267K • 👍 3K • 💬 1K • ⏱️ 2:15 • 1d ago
-
----
-
-**[The Robot That Delivers My Storage Bins Is ALIVE](https://www.youtube.com/watch?v=J6XCuaFs-HQ)**
-
-https://pcbway.com/g/t69mBf Each new pcbway membership will get their first $5 welcome coupon for free. I built a robot that ...
-
-📺 Hobby Built
-
-👁️ 50K • 👍 3K • 💬 217 • ⏱️ 54:19 • 1d ago
-
----
-
-**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 17K • 👍 486 • 💬 27 • ⏱️ 4:23 • 2d ago
+👁️ 278K • 👍 4K • 💬 1K • ⏱️ 2:15 • 1d ago
 
 ---
 
@@ -220,7 +212,7 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 6K • 👍 160 • 💬 96 • ⏱️ 3:10 • 1d ago
+👁️ 6K • 👍 161 • 💬 98 • ⏱️ 3:10 • 1d ago
 
 ---
 
@@ -234,33 +226,43 @@ One Silicon Valley company thinks that robot soldiers are the future of warfare.
 
 ---
 
+**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 17K • 👍 494 • 💬 27 • ⏱️ 4:23 • 3d ago
+
+---
+
+**[The Robot That Delivers My Storage Bins Is ALIVE](https://www.youtube.com/watch?v=J6XCuaFs-HQ)**
+
+https://pcbway.com/g/t69mBf Each new pcbway membership will get their first $5 welcome coupon for free. I built a robot that ...
+
+📺 Hobby Built
+
+👁️ 52K • 👍 3K • 💬 225 • ⏱️ 54:19 • 1d ago
+
+---
+
 **[The Nightmare Robot Dog](https://www.youtube.com/watch?v=eL3qcDOma7s)**
 
 Join this channel to get access to perks: https://www.youtube.com/channel/UC4pNDofN0Xh-z2bhh62g8Ow/join Music: Yhello ...
 
 📺 Not What You Think
 
-👁️ 164K • 👍 9K • 💬 483 • ⏱️ 0:29 • 18h ago
+👁️ 179K • 👍 10K • 💬 505 • ⏱️ 0:29 • 21h ago
 
 ---
 
-**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
+**[Why is the FCC banning new human-like robots from China?](https://www.youtube.com/watch?v=rao2KMyxH_0)**
 
-AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
+The Trump administration said it's banning new Chinese humanoid robots, topped with AI-enabled "brains," as part of an attempt ...
 
-📺  Beesoft Bd
+📺 Reuters
 
-👁️ 107K • 💬 4 • ⏱️ 0:16 • 6d ago
-
----
-
-**[The Lockdown Vulcan Setup You NEED To Try [War Robots]](https://www.youtube.com/watch?v=KddlarGe_JM)**
-
-The Lockdown Vulcan setup you NEED to try – that is the Vulcan with Ultimate Coronas and Ultimate Shredders in War Robots.
-
-📺 Adrian Chong
-
-👁️ 5K • 👍 224 • 💬 43 • ⏱️ 12:54 • 20h ago
+👁️ 4K • 👍 106 • 💬 25 • ⏱️ 1:27 • 11h ago
 
 ---
 
@@ -270,17 +272,17 @@ Humanoid robots fought inside a cage at a tournament in China. The two exchange 
 
 📺 New York Post
 
-👁️ 65K • 👍 1K • 💬 536 • ⏱️ 2:02 • 6d ago
+👁️ 66K • 👍 1K • 💬 542 • ⏱️ 2:02 • 6d ago
 
 ---
 
-**[The Robot Hand That Can Grab Anything](https://www.youtube.com/watch?v=hERNweUccK4)**
+**[China&#39;s AI Robot Girlfriend Is Real? 🤖😲](https://www.youtube.com/watch?v=4LnA_5kZyNA)**
 
-Checkout DeleteMe at: https://joindeleteme.com/ACTIONLAB Use Code "ACTIONLAB" for 20% off.
+AI-powered humanoid robots are becoming more advanced, with some designed to interact through speech, facial expressions, ...
 
-📺 The Action Lab
+📺  Beesoft Bd
 
-👁️ 438K • 👍 12K • 💬 907 • ⏱️ 7:44 • 3d ago
+👁️ 108K • 💬 4 • ⏱️ 0:16 • 6d ago
 
 ---
 
