@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T17:47:37.846406+00:00'
+updated: '2026-07-29T19:16:44.129131+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 17:47 UTC  
+**Last Updated:** July 29, 2026 at 19:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Putting this little companion robot together today. He did not smoke or catch on
 
 **[Unitree's new wheeled robot dog](https://www.reddit.com/r/robotics/comments/1v7cssb/unitrees_new_wheeled_robot_dog/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -76,7 +76,7 @@ I installed the 3D DTOF LIDAR HM-LD1 in front of the drone to detect obstacles. 
 
 A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main PC. I still use a separate animation editor that I built for creating movements. Each joint has its own timeline with position keyframes, velocity, torque limits, and controller parameters. Finished animations are sent to the lamp and played back locally. I’ve also installed an addressable LED ring with a 3D-printed diffuser inside the head. Brightness and transitions are now part of the same animation timeline, allowing the light to be synchronized with movement. This video is a quick test of the new setup. I’m currently tuning the motor parameters, brightness curves, and transition timings before using the light in more expressive animations.
 
-3d ago
+4d ago
 
 ---
 
@@ -106,43 +106,43 @@ Hey everyone, My team and I have been working hard on this project: https://pepp
 
 ## Google News: "robotics"
 
+**[How Brian Klos and Darragh de Stonndún Built Automated Industrial Robotics (AIR) Into an Engineering-Led Approach to American Manufacturing](https://www.usatoday.com/story/special/contributor-content/2026/07/29/how-brian-klos-and-darragh-de-stonndn-built-automated-industrial-robotics-air-into-an-engineering-le/91095756007/)**
+
+The company operates in pharmaceutical production, precision assembly, and complex systems integration, sectors where the requirements for accuracy and consistency are unforgiving and where the relationship between an automation provider and a facility operator needs to be sustained and genuinely co
+
+USA Today • 43m ago
+
+---
+
+**[US bans foreign-made humanoid robots, targeting China over national security](https://www.washingtonpost.com/business/2026/07/29/china-us-humanoid-robots-ban-tech/f1072318-8b11-11f1-8912-d71e69d679d7_story.html)**
+
+The U.S. Federal Communications Commission is banning imports of new foreign-made humanoid robots and power inverters, citing national security risks
+
+The Washington Post • 1h ago
+
+---
+
 **[Trump administration bans new Chinese humanoid robots](https://www.bbc.com/news/articles/cp9e2ex3ekyo)**
 
 The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
-**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
+**[XYZ Robotics Advances Physical AI Through Real-World Data and Robot Learning](https://www.wboc.com/online_features/press_releases/xyz-robotics-advances-physical-ai-through-real-world-data-and-robot-learning/article_501dfdf3-a9c5-5518-94c3-ec31efec6a75.html)**
 
-Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
+Company Secures 3,000 Real-World Data Points Daily at Café Locations South Korean AI robotics company XYZ Robotics Inc.
 
-Business Insider • 40m ago
-
----
-
-**[US bans foreign-made humanoid robots, targeting China over national security](https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366)**
-
-The U.S. Federal Communications Commission has announced a ban on new foreign-made humanoid robots, citing national security concerns.
-
-AP News • 5h ago
+wboc.com • 9h ago
 
 ---
 
-**[US bans imports of new Chinese robots over security concerns](https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns)**
+**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
 
-The action is part of a wider US effort to reduce reliance on Chinese technology.
+Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
 
-Al Jazeera • 4h ago
-
----
-
-**[Walberg Sends Letter to Sec. Lutnick Regarding Risks of Foreign Humanoid Robot Technology](http://walberg.house.gov/media/press-releases/walberg-sends-letter-sec-lutnick-regarding-risks-foreign-humanoid-robot)**
-
-Yesterday, Congressman Tim Walberg (MI-05) sent a letter to Secretary of Commerce Howard Lutnick urging the Department of Commerce to investigate the national security risks associated with Hypserscale Data in Dowagiac, Michigan, assembling humanoid robots made with components from AGIBOT, a Shanghai, China based manufacturer.
-
-Congressman Tim Walberg | (.gov) • 3h ago
+NVIDIA Developer • 22h ago
 
 ---
 
@@ -154,35 +154,35 @@ MIT News • 1d ago
 
 ---
 
-**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
+**[How to invest in humanoid robotics, the potential $5 trillion market that’s straight out of science fiction](https://www.businessinsider.com/humanoid-robotics-stocks-etfs-how-to-invest-koid-labor-manufacturing-2026-7)**
 
-Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
+Robots that can replace human workers may be closer than ever because of the AI boom. Here's how some investing pros are getting in early on the trend.
 
-NVIDIA Developer • 20h ago
-
----
-
-**[Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI](https://www.automate.org/robotics/industry-insights/robotics-raises-atoms-gritt-humanoid-perceptual-robotics-ropedia)**
-
-We’ve got construction automation, drones built for inspecting wind turbines, our weekly humanoid startup, and more.
-
-A3 Association for Advancing Automation • 4h ago
+Business Insider • 1d ago
 
 ---
 
-**[Experts react to FCC limits on U.S. imports of new humanoid and mobile robots](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/)**
+**[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
 
-The FCC has banned some foreign humanoids, which industry experts say could help U.S. industry but hinder innovation.
+Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
-The Robot Report • 2h ago
+calcalistech.com • 2d ago
 
 ---
 
-**[International Federation of Robotics](https://ifr.org/case-studies/automating-logistics-to-revolutionise-the-fresh-fish-supply-chain)**
+**[China's Unitree Robotics eyes capacity boost to meet humanoid demand](https://asia.nikkei.com/editor-s-picks/interview/china-s-unitree-robotics-eyes-capacity-boost-to-meet-humanoid-demand)**
 
-The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
+Senior executive sees Japan as potential engineering hub
 
-IFR International Federation of Robotics • 4h ago
+Nikkei Asia • 1d ago
+
+---
+
+**[Robotics Startup Tacta Shows Its Hand (and Glove)](https://www.theinformation.com/newsletters/ai-agenda/robotics-startup-tacta-shows-hand-glove)**
+
+As robotics companies explore new ways to collect the massive volumes of data needed to train the physical AI models that will power humanoid robots, one approach is gaining steam. Some robotics companies are relying on specialized gloves that people can wear while they carry out tasks at work ...
+
+The Information • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanc
 
 📺 Tech OverWatch
 
-👁️ 376 • 👍 14 • 💬 1 • ⏱️ 1:03 • 2h ago
+👁️ 376 • 👍 14 • 💬 1 • ⏱️ 1:03 • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ The Trump administration said it's banning new Chinese humanoid robots, topped w
 
 📺 Reuters
 
-👁️ 6K • 👍 153 • 💬 62 • ⏱️ 1:27 • 16h ago
+👁️ 6K • 👍 153 • 💬 62 • ⏱️ 1:27 • 18h ago
 
 ---
 

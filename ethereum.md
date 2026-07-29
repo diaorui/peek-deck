@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-29T17:47:37.840857+00:00'
+updated: '2026-07-29T19:16:44.125891+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 17:47 UTC  
+**Last Updated:** July 29, 2026 at 19:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +1.2%  
-**30d:** +20.9%  
-**90d:** -17.2%  
-**1y:** -50.1%  
+**24h:** -0.2%  
+**7d:** +1.9%  
+**30d:** +21.7%  
+**90d:** -16.6%  
+**1y:** -49.8%  
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/70574beKPfg) • 4d ago
+🔗 [youtu.be](https://youtu.be/70574beKPfg) • 5d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 5h ago
+ethereum.org • 7h ago
 
 ---
 
@@ -168,19 +168,19 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Gain Ahead of Fed Rate Cut Decision: Analyst Asks Investors to 'Mark Your Calendar' for Next BTC Bottom](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-gain-020400354.html)**
+**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-wobble-fed-holds-184345987.html)**
 
-Leading cryptocurrencies rose slightly on Tuesday as investors weighed renewed tensions in the Middle East and the Federal Reserve’s upcoming decision on interest rates. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.01%$63,842.10Ethereum (CRYPTO: ETH) +2.16%$1,913.42XRP (CRYPTO: XRP) +1.87%$1.07Solana (CRYPTO: SOL) +0.79%$73.67Dogecoin (CRYPTO: DOGE) +1.72%$0.07071 Crypto Market Gains Bitcoin rallied as high as $64,100 but ran into resistance, with 24-ho
+Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 32m ago
 
 ---
 
-**[Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains](https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains)**
+**[As crypto perpetual futures boom, Ethereum’s role is shifting](https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting)**
 
-The startup, which spun out of the Ethereum Foundation earlier this month, is focused on building privacy infrastructure for banks and other financial institutions.
+Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 1d ago
+CoinDesk • 1h ago
 
 ---
 
@@ -192,25 +192,31 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
-
----
-
 **[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
 
 The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
 
-TradingView • 2d ago
+tradingview.com • 2d ago
+
+---
+
+**[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
 
 ---
 
 **[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
 
-CCN.com • 4h ago
+CCN.com • 6h ago
+
+---
+
+**[$430 million in Ethereum just moved, here's why market is paying attention](https://www.thestreet.com/crypto/markets/430-million-in-ethereum-just-moved-heres-why-market-is-paying-attention)**
+
+thestreet.com • 1h ago
 
 ---
 
@@ -219,14 +225,6 @@ CCN.com • 4h ago
 Lido, the largest Ethereum staking protocol by total value locked, launched Curated Module v2, a new version of its main staking module that for the first time requires professional node operators to back the stake they manage with their own capital, the team said in a blog post published Monday.
 
 The Defiant • 1d ago
-
----
-
-**[Ethereum: Institutional Funding Round Closes](https://blockchain.news/flashnews/ethereum-institutional-funding-round-closes)**
-
-Ethereum co-founders Joseph Lubin and Mihai Alisie anchor @ethereuminsti ecosystem funding round for institutional adoption at ETH $1895.36.
-
-blockchain.news • 2h ago
 
 ---
 
@@ -240,7 +238,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 1 • ⏱️ 6:10 • 4h ago
+👁️ 1K • 👍 94 • 💬 1 • ⏱️ 6:10 • 5h ago
 
 ---
 
@@ -250,7 +248,7 @@ BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 391 • 👍 33 • 💬 14 • ⏱️ 24:19 • 17m ago
+👁️ 391 • 👍 33 • 💬 14 • ⏱️ 24:19 • 1h ago
 
 ---
 
@@ -260,7 +258,7 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 📺 Thinking Crypto
 
-👁️ 16K • 👍 1K • 💬 154 • ⏱️ 20:27 • 14h ago
+👁️ 16K • 👍 1K • 💬 154 • ⏱️ 20:27 • 15h ago
 
 ---
 
@@ -290,7 +288,7 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 2K • 👍 73 • 💬 7 • ⏱️ 0:57 • 13h ago
+👁️ 2K • 👍 73 • 💬 7 • ⏱️ 0:57 • 15h ago
 
 ---
 
@@ -310,7 +308,7 @@ Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysi
 
 📺 Invest For Wealth
 
-👁️ 3K • 👍 307 • 2h ago
+👁️ 3K • 👍 307 • 4h ago
 
 ---
 
@@ -320,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 171 • 👍 9 • 💬 49 • ⏱️ 4:46 • 9h ago
+👁️ 171 • 👍 9 • 💬 49 • ⏱️ 4:46 • 10h ago
 
 ---
 
