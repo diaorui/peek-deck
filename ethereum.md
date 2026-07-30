@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T03:16:34.197776+00:00'
+updated: '2026-07-30T06:06:41.710327+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 03:16 UTC  
+**Last Updated:** July 30, 2026 at 06:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,913.63
+### $1,905.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +2.7%  
-**30d:** +18.8%  
-**90d:** -17.4%  
-**1y:** -48.2%  
+**24h:** -1.0%  
+**7d:** +2.4%  
+**30d:** +18.4%  
+**90d:** -17.7%  
+**1y:** -48.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.12B
+**Market Cap:** $229.64B
 Rank #2
 
 **Circulating Supply:** 120,682,509 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.5%
 
 **All-Time Low:** $0.43
-+440180.0%
++439353.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -128,7 +128,7 @@ There were problems with my regular payment, but I was craving takeout. In just 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -144,7 +144,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -156,27 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 9h ago
-
----
-
-**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady)**
-
-Fed Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
-
-Decrypt • 8h ago
-
----
-
-**[Ethereum and solana are getting busier — and cheaper. What's going on?](https://finance.yahoo.com/video/ethereum-solana-getting-busier-cheaper-173000356.html)**
-
-Ethereum (ETH-USD) and solana (SOL-USD) are getting busier and cheaper, even as token prices fall, according to Bitwise.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
+CoinDesk • 12h ago
 
 ---
 
@@ -184,15 +164,23 @@ Yahoo Finance • 1d ago
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 15h ago
+ethereum.org • 18h ago
 
 ---
 
-**[Ethereum L2 ecosystem loses momentum as TVL drops to 2-year low](https://www.theblock.co/post/409811/ethereum-l2-ecosystem-loses-momentum-as-tvl-drops-to-two-year-low)**
+**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-wobble-fed-holds-184345987.html)**
 
-Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a level last seen in 2023.
+Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-The Block • 1d ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Ethereum Price Stalls as Fed Rate Decision Looms](https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision)**
+
+Despite being down 1% today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.
+
+Decrypt • 12h ago
 
 ---
 
@@ -200,7 +188,23 @@ The Block • 1d ago
 
 Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
 
-CoinMarketCap • 1d ago
+CoinMarketCap • 16h ago
+
+---
+
+**[Morgan Stanley debuts Ethereum and Solana ETFs with market's lowest fee, staking rewards](https://www.theblock.co/post/409898/morgan-stanley-debuts-ethereum-solana-etfs-markets-lowest-fee-staking-rewards)**
+
+The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
+
+The Block • 1d ago
+
+---
+
+**[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
+
+BlackRock clients bought over $20 million in ETH; staking beats records.
+
+AMBCrypto • 1h ago
 
 ---
 
@@ -212,11 +216,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+**[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
 
-The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
-
-TradingView • 2d ago
+CCN.com • 17h ago
 
 ---
 
@@ -225,12 +227,6 @@ TradingView • 2d ago
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
 Fortune • 8h ago
-
----
-
-**[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
-
-CCN.com • 14h ago
 
 ---
 
@@ -244,7 +240,7 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 📺 Thinking Crypto
 
-👁️ 18K • 👍 1K • 💬 164 • ⏱️ 20:27 • 23h ago
+👁️ 18K • 👍 1K • 💬 169 • ⏱️ 20:27 • 1d ago
 
 ---
 
@@ -254,17 +250,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 133 • 💬 2 • ⏱️ 6:10 • 13h ago
-
----
-
-**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
-
-Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
-
-📺 Fundstrat
-
-👁️ 103K • 👍 2K • 💬 266 • ⏱️ 6:11 • 2d ago
+👁️ 2K • 👍 142 • 💬 2 • ⏱️ 6:10 • 16h ago
 
 ---
 
@@ -278,23 +264,43 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 ---
 
+**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
+
+Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
+
+📺 Fundstrat
+
+👁️ 105K • 👍 2K • 💬 269 • ⏱️ 6:11 • 2d ago
+
+---
+
 **[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
 
 Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
 
 📺 Lark Davis
 
-👁️ 3K • 👍 106 • 💬 7 • ⏱️ 0:57 • 23h ago
+👁️ 3K • 👍 112 • 💬 7 • ⏱️ 0:57 • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
 
-Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
 
-📺 Crypto Capital Venture
+📺 Giving Hearts
 
-👁️ 13K • 👍 673 • 💬 510 • ⏱️ 12:59 • 1d ago
+👁️ 34K • 👍 95 • ⏱️ 0:06 • 1d ago
+
+---
+
+**[Congressional Recess Looms Over Clarity Act &amp; Bitcoin, Ethereum&#39;s &quot;Relative Strength&quot;](https://www.youtube.com/watch?v=d4lk4RdEo3o)**
+
+Congress goes on recess next Friday and the Clarity Act still has not been voted on by the Senate. @CharlesSchwab's Nathan ...
+
+📺 Schwab Network
+
+👁️ 2K • 👍 36 • 💬 62 • ⏱️ 9:18 • 8h ago
 
 ---
 
@@ -308,33 +314,23 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 ---
 
-**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
+**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
 
-A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
+Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
 
-📺 Giving Hearts
+📺 Crypto Capital Venture
 
-👁️ 34K • 👍 91 • ⏱️ 0:06 • 1d ago
-
----
-
-**[FOMC Update (What to expect) , ETH Whales Accumulate BIG, KOSPI Crash Explained](https://www.youtube.com/watch?v=xklq09auod0)**
-
-Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Sign-up to the Mango Dashboard: ...
-
-📺 Mango Research
-
-👁️ 408 • 👍 33 • 💬 2 • ⏱️ 16:58 • 8h ago
+👁️ 13K • 👍 674 • 💬 510 • ⏱️ 12:59 • 1d ago
 
 ---
 
-**[🤨 ESTÁN COMPRANDO TODO EL ETHEREUM ¿POR QUÉ?](https://www.youtube.com/watch?v=U739KhxOCbM)**
+**[Ethereum Outpaces Bitcoin In Relative ETF Interest; US CLARITY Act Shelved For Now | Crypto Corner](https://www.youtube.com/watch?v=yGwI0HDLA70)**
 
-Es Ethereum la altcoin con MAS POTENCIAL pero ignorada por el retail?, las tesorerías como Bitmine están comprando todo lo ...
+Crypto Corner Season 2 | Major Coins Battle Key Support Levels - Ethereum outpaces Bitcoin in relative ETF interest - Morgan ...
 
-📺 Value Index · Bitcoin y Mercados
+📺 CNBC-TV18
 
-👁️ 4K • 👍 324 • 💬 59 • ⏱️ 9:23 • 2d ago
+👁️ 267 • ⏱️ 2:50 • 21h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-30T03:16:34.199959+00:00'
+updated: '2026-07-30T06:06:41.713183+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 30, 2026 at 03:16 UTC  
+**Last Updated:** July 30, 2026 at 06:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Foreign-produced mobile ground robots added to the FCC Covered List (DA 26-786)](https://www.reddit.com/r/robotics/comments/1va1i3g/foreignproduced_mobile_ground_robots_added_to_the/)**
 
-🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 10h ago
+🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 13h ago
 
 ---
 
 **[The depth and point cloud of 3D DTOF LIDAR HM-LD1 in dark environment](https://www.reddit.com/r/robotics/comments/1va1gi3/the_depth_and_point_cloud_of_3d_dtof_lidar_hmld1/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 -This is a really rough 3d model of a capstan drive robot arm I am trying to build. My plan is to use fast and high RPM motors high gear reductions to get high precision and torque. -My goal is to use capstan drives as the end speed reducer because they are low backlash and precise, and then use belt drives and maybe planetary gear boxes to get the higher gear reduction in the earlier stages. This way if there is a little bit of backlash in the planetary gear box, that backlash gets divided by 1/8th. -For the first prototype I am printing I plan to use Aaed Musa capstan design, but later when I make the final product I will design my own. -Any ideas how to improve the deign or improve the robotic arm in general? -Dimensions: 3ft ish
 
-4h ago
+6h ago
 
 ---
 
@@ -78,7 +78,7 @@ After weeks of CAD and 3D printing, I realized that the motors I chose - Feetech
 
 Hey everyone, Just wanted to highlight a community pull request we received on our LeRobot fork (v6.1.1-beta branch). A user identified and fixed two issues in lerobot-teleoperate: Bug 1 — Missing alicia_d_leader in teleop.type: When trying to teleoperate with an Alicia-D Leader + Alicia-M Follower pair, the CLI would reject alicia_d_leader as an invalid choice. The fix adds it back to the valid options list in lerobot_teleoperate.py. Bug 2 — Missing teleop.directly_controls_robot support: When the teleoperator directly controls the robot via hardware (e.g., the leader arm is physically connected to the follower), the computer shouldn't re-send the action command — otherwise it duplicates. The flag existed in config but wasn't actually implemented in the teleoperate script. The PR adds the skip logic. PR here: https://github.com/Synria-Robotics/lerobot/pull/10 Big thanks to the contributor for the clean, well-documented fix. If you're running v6.1.1-beta with Alicia hardware, this PR is worth watching. And as always, issues and PRs are welcome!
 
-17h ago
+20h ago
 
 ---
 
@@ -94,7 +94,7 @@ Working to make a fun open source STEM robot for begginers. Uses a custom edge i
 
 Éloi is the non-functional companion robot currently being developed by Animotion Robotics. With its dreamy violet eyes, we’re now testing one of its core reflex mechanisms. When an object suddenly approaches its eyes, Éloi instinctively reacts with fear—blinking, twitching its mouth, and even furrowing its brows. These subtle expressions are designed to make its responses feel more lifelike and emotionally believable, rather than simply programmed. Éloi will feature at least 42 degrees of facial actuation, enabling a rich range of nuanced expressions and emotional reactions.
 
-1d ago
+2d ago
 
 ---
 
@@ -114,7 +114,23 @@ Came across the recent DexWrist paper out of MIT and some fun demos. Researchers
 
 Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
 
-BBC • 5h ago
+BBC • 7h ago
+
+---
+
+**[Humanoid robots are 'next stage' in farming](https://www.bbc.com/news/articles/ce85zermdq6o)**
+
+The technology should co-exist alongside humans and complete the same tasks, a university says.
+
+BBC • 43m ago
+
+---
+
+**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
+
+Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
+
+Business Insider • 13h ago
 
 ---
 
@@ -126,35 +142,17 @@ BBC • 1d ago
 
 ---
 
-**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
-
-Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
-
-Business Insider • 10h ago
-
----
-
-**[How Brian Klos and Darragh de Stonndún Built Automated Industrial Robotics (AIR) Into an Engineering-Led Approach to American Manufacturing](https://www.usatoday.com/story/special/contributor-content/2026/07/29/how-brian-klos-and-darragh-de-stonndn-built-automated-industrial-robotics-air-into-an-engineering-le/91095756007/)**
-
-The company operates in pharmaceutical production, precision assembly, and complex systems integration, sectors where the requirements for accuracy and consistency are unforgiving and where the relationship between an automation provider and a facility operator needs to be sustained and genuinely co
-
-USA Today • 8h ago
-
----
-
-**[Clinton High School unveils new ‘Future Makers Lab’ for engineering, robotics learning](https://www.yahoo.com/news/us/articles/clinton-high-school-unveils-future-190644850.html)**
-
-CLINTON, Tenn. (WATE) — Students at Clinton High School now have a new, larger space to learn about robotics and engineering hands on, thanks to the nonprofit Heart of America and 3M. On Wednesday, An...
-
-Yahoo • 8h ago
-
----
-
 **[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
 
 Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
 
-NVIDIA Developer • 1d ago
+developer.nvidia.com • 1d ago
+
+---
+
+**[Robotics giant plans major expansion in Michigan](https://www.mlive.com/news/detroit/2026/07/robotics-giant-plans-major-expansion-in-michigan.html)**
+
+mlive.com • 1d ago
 
 ---
 
@@ -162,13 +160,7 @@ NVIDIA Developer • 1d ago
 
 The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
 
-MIT News • 1d ago
-
----
-
-**[China sweeps global humanoid robot start-up ranking as US imposes ban](https://www.scmp.com/tech/tech-war/article/3362195/china-has-6-worlds-10-most-innovative-humanoid-robot-start-ups-report)**
-
-South China Morning Post • 1d ago
+MIT News • 2d ago
 
 ---
 
@@ -177,6 +169,12 @@ South China Morning Post • 1d ago
 Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
 
 calcalistech.com • 2d ago
+
+---
+
+**[SoftBank eyes $500M Gravis Robotics deal after completing its Boston Dynamics exit](https://techfundingnews.com/softbank-eyes-500m-gravis-robotics-deal-after-completing-its-boston-dynamics-exit/)**
+
+Tech Funding News • 1d ago
 
 ---
 
@@ -198,7 +196,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 4K • 👍 62 • 💬 76 • ⏱️ 6:04 • 3h ago
+👁️ 9K • 👍 101 • 💬 128 • ⏱️ 6:04 • 6h ago
 
 ---
 
@@ -208,7 +206,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 KhanFlicks
 
-👁️ 542 • 💬 26 • ⏱️ 3:45 • 6h ago
+👁️ 794 • 💬 27 • ⏱️ 3:45 • 9h ago
 
 ---
 
@@ -218,37 +216,7 @@ Last week, World Labs announced its acquisition of SceniX, bringing together two
 
 📺 a16z
 
-👁️ 14K • 💬 23 • ⏱️ 42:21 • 1d ago
-
----
-
-**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
-
-Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
-
-📺 NBC News
-
-👁️ 409K • 👍 5K • 💬 2K • ⏱️ 2:15 • 2d ago
-
----
-
-**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
-
-A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
-
-📺 NewsNation
-
-👁️ 7K • 👍 180 • 💬 102 • ⏱️ 3:10 • 2d ago
-
----
-
-**[US bans imports of new Chinese robots and power inverters in latest tech crackdown](https://www.youtube.com/watch?v=qZsrLRxlauU)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Citing threats to US national security, the Trump ...
-
-📺 South China Morning Post
-
-👁️ 22K • 👍 983 • 💬 279 • ⏱️ 1:48 • 16h ago
+👁️ 15K • 💬 23 • ⏱️ 42:21 • 1d ago
 
 ---
 
@@ -258,7 +226,37 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 3K • 👍 246 • 💬 135 • ⏱️ 20:17 • 3h ago
+👁️ 4K • 👍 359 • 💬 178 • ⏱️ 20:17 • 6h ago
+
+---
+
+**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
+
+Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
+
+📺 NBC News
+
+👁️ 452K • 👍 5K • 💬 2K • ⏱️ 2:15 • 2d ago
+
+---
+
+**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
+
+A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
+
+📺 NewsNation
+
+👁️ 7K • 👍 183 • 💬 102 • ⏱️ 3:10 • 2d ago
+
+---
+
+**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+
+📺 CNET
+
+👁️ 20K • 👍 539 • 💬 28 • ⏱️ 4:23 • 3d ago
 
 ---
 
@@ -268,27 +266,27 @@ In this episode of Munro Live, we perform a complete teardown of the Inspire Rob
 
 📺 Munro Live
 
-👁️ 20K • 👍 191 • 💬 14 • ⏱️ 20:04 • 1d ago
+👁️ 20K • 👍 200 • 💬 14 • ⏱️ 20:04 • 1d ago
 
 ---
 
-**[These TITAN GUNS are totally COOKED Now in War Robots](https://www.youtube.com/watch?v=RYdMNbJ7UKw)**
+**[Unitree AS2 W Shows The Future Of Autonomous Robots](https://www.youtube.com/watch?v=OePErI3OoRI)**
 
-War Robots Gameplay: Venire and Vincere are COOKED - WR 12.2 nerf My War Robots Creator Link: https://wr.my.games/manni ...
+The new Unitree AS2-W is changing what wheel-legged robots can do. Watch it climb steep rocks, cross streams, tackle rough ...
 
-📺 Manni-Gaming
+📺 DPCcars
 
-👁️ 8K • 👍 388 • 💬 118 • ⏱️ 12:07 • 15h ago
+👁️ 23K • 👍 190 • 💬 74 • ⏱️ 2:32 • 5d ago
 
 ---
 
-**[Why is the FCC banning new human-like robots from China?](https://www.youtube.com/watch?v=rao2KMyxH_0)**
+**[US bans imports of new Chinese robots and power inverters in latest tech crackdown](https://www.youtube.com/watch?v=qZsrLRxlauU)**
 
-The Trump administration said it's banning new Chinese humanoid robots, topped with AI-enabled "brains," as part of an attempt ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Citing threats to US national security, the Trump ...
 
-📺 Reuters
+📺 South China Morning Post
 
-👁️ 8K • 👍 169 • 💬 74 • ⏱️ 1:27 • 1d ago
+👁️ 24K • 👍 1K • 💬 329 • ⏱️ 1:48 • 18h ago
 
 ---
 
