@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T06:06:41.710327+00:00'
+updated: '2026-07-30T09:13:35.196748+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 06:06 UTC  
+**Last Updated:** July 30, 2026 at 09:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,905.35
+### $1,915.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +2.4%  
-**30d:** +18.4%  
-**90d:** -17.7%  
-**1y:** -48.4%  
+**24h:** +0.1%  
+**7d:** +2.8%  
+**30d:** +18.9%  
+**90d:** -17.3%  
+**1y:** -48.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.64B
+**Market Cap:** $230.94B
 Rank #2
 
 **Circulating Supply:** 120,682,509 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-61.3%
 
 **All-Time Low:** $0.43
-+439353.2%
++441607.3%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-3d ago
+4d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 12h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 12h ago
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 18h ago
+ethereum.org • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ ethereum.org • 18h ago
 
 Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -180,15 +180,7 @@ Yahoo Finance • 11h ago
 
 Despite being down 1% today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.
 
-Decrypt • 12h ago
-
----
-
-**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
-
-Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
-
-CoinMarketCap • 16h ago
+Decrypt • 15h ago
 
 ---
 
@@ -200,25 +192,25 @@ The Block • 1d ago
 
 ---
 
+**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
+
+Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
+
+CoinMarketCap • 11h ago
+
+---
+
 **[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
 
 BlackRock clients bought over $20 million in ETH; staking beats records.
 
-AMBCrypto • 1h ago
-
----
-
-**[1 Popular Cryptocurrency to Buy Before It Soars 13,000%, According to Bitmine's Tom Lee](https://www.fool.com/investing/2026/07/28/1-cryptocurrency-buy-soars-13000-bitmines-tom-lee/)**
-
-Lee thinks "Ethereum 2.0" could spark a spectacular rally in the Ether cryptocurrency.
-
-The Motley Fool • 1d ago
+AMBCrypto • 4h ago
 
 ---
 
 **[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
 
-CCN.com • 17h ago
+CCN.com • 20h ago
 
 ---
 
@@ -226,13 +218,31 @@ CCN.com • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 11h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC slips below support, ETH and XRP flash bearish signals](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-slips-below-support-eth-and-xrp-flash-bearish-signals-202607290331)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure on Wednesday after a mild correction earlier this week. BTC slips below a key support zone, and ETH is testing a key resistance zone. Meanwhile, XRP is drifting toward the psychologically important $1.00 support level.
+
+FXStreet • 1d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
+
+ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 410 • 💬 296 • ⏱️ 13:14 • 8h ago
+
+---
 
 **[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
 
@@ -250,7 +260,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 142 • 💬 2 • ⏱️ 6:10 • 16h ago
+👁️ 3K • 👍 148 • 💬 2 • ⏱️ 6:10 • 19h ago
 
 ---
 
@@ -260,17 +270,7 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 📺 The Rollup
 
-👁️ 2K • 👍 35 • 💬 6 • ⏱️ 6:40 • 1d ago
-
----
-
-**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
-
-Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
-
-📺 Fundstrat
-
-👁️ 105K • 👍 2K • 💬 269 • ⏱️ 6:11 • 2d ago
+👁️ 2K • 👍 36 • 💬 6 • ⏱️ 6:40 • 1d ago
 
 ---
 
@@ -280,7 +280,27 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 3K • 👍 112 • 💬 7 • ⏱️ 0:57 • 1d ago
+👁️ 4K • 👍 115 • 💬 7 • ⏱️ 0:57 • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+
+Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+
+📺 Crypto Capital Venture
+
+👁️ 13K • 👍 676 • 💬 510 • ⏱️ 12:59 • 1d ago
+
+---
+
+**[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
+
+Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
+
+📺 Fundstrat
+
+👁️ 106K • 👍 2K • 💬 270 • ⏱️ 6:11 • 2d ago
 
 ---
 
@@ -290,17 +310,7 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 34K • 👍 95 • ⏱️ 0:06 • 1d ago
-
----
-
-**[Congressional Recess Looms Over Clarity Act &amp; Bitcoin, Ethereum&#39;s &quot;Relative Strength&quot;](https://www.youtube.com/watch?v=d4lk4RdEo3o)**
-
-Congress goes on recess next Friday and the Clarity Act still has not been voted on by the Senate. @CharlesSchwab's Nathan ...
-
-📺 Schwab Network
-
-👁️ 2K • 👍 36 • 💬 62 • ⏱️ 9:18 • 8h ago
+👁️ 35K • 👍 96 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -314,23 +324,13 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 ---
 
-**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+**[Congressional Recess Looms Over Clarity Act &amp; Bitcoin, Ethereum&#39;s &quot;Relative Strength&quot;](https://www.youtube.com/watch?v=d4lk4RdEo3o)**
 
-Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+Congress goes on recess next Friday and the Clarity Act still has not been voted on by the Senate. @CharlesSchwab's Nathan ...
 
-📺 Crypto Capital Venture
+📺 Schwab Network
 
-👁️ 13K • 👍 674 • 💬 510 • ⏱️ 12:59 • 1d ago
-
----
-
-**[Ethereum Outpaces Bitcoin In Relative ETF Interest; US CLARITY Act Shelved For Now | Crypto Corner](https://www.youtube.com/watch?v=yGwI0HDLA70)**
-
-Crypto Corner Season 2 | Major Coins Battle Key Support Levels - Ethereum outpaces Bitcoin in relative ETF interest - Morgan ...
-
-📺 CNBC-TV18
-
-👁️ 267 • ⏱️ 2:50 • 21h ago
+👁️ 2K • 👍 39 • 💬 63 • ⏱️ 9:18 • 11h ago
 
 ---
 
