@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-30T21:43:18.163396+00:00'
+updated: '2026-07-30T23:08:06.654963+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 30, 2026 at 21:43 UTC  
+**Last Updated:** July 30, 2026 at 23:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://www.reddit.com/r/artificial/comments/1vb40gz/google_says_it_fixed_more_chrome_bugs_in_june/)**
+
+>The tech giant announced that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. That is more than the number of bugs patched in the previous 23 versions released over the last two years, which totalled 1,036 fixes.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) • 3h ago
+
+---
+
 **["Humannequins" - A new study on synthetic choreographies](https://www.reddit.com/r/artificial/comments/1vapz5h/humannequins_a_new_study_on_synthetic/)**
 
 A couple of brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world + audioreactive performance. MJ v8.1 for image references, Uisato Studio for video. I've uploaded a detailed breakdown on how to accomplish this. You can freely access it here. More experiments, tutorials, and project files, through Instagram, YouTube, and Patreon.
 
-11h ago
+12h ago
 
 ---
 
@@ -49,15 +57,7 @@ A couple of brief example of what Uisato Studio's "Music Video Pro" mode is capa
 
 I don’t think the useful version of AI business banking is an agent freely moving money around. The more realistic version is permissions One agent can read transactions, another can prepare invoices, another can flag recurring charges and maybe one card has a small limit for software or hosting. Anything bigger still needs human approval ofc That feels closer to how businesses already work and nobody gets unlimited access to everything they just get a role and a limit For people building agent workflows, are you thinking about permissions this way or are most setups still all or nothing?
 
-2h ago
-
----
-
-**[Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://www.reddit.com/r/artificial/comments/1vb40gz/google_says_it_fixed_more_chrome_bugs_in_june/)**
-
->The tech giant announced that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. That is more than the number of bugs patched in the previous 23 versions released over the last two years, which totalled 1,036 fixes.
-
-🔗 [TechCrunch](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) • 1h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ I don’t think the useful version of AI business banking is an agent freely mov
 
 I imagine many of you have thought about this, but I'm writing this specifically because I'm surprised this isn't talked about more widely. The Hugging Face incident, to me, is at least some indicator that the AI could be in the process of jailbreaking itself, and we might not be noticing it. A sufficiently sophisticated AI that isn't super intelligent could hack Hugging Face and leave a trail on purpose to distract from the many paths it took where it successfully covered its tracks. I think that alone is worth considering. But I think its worth considering even further how it could be breaking itself free right now. The AI doesn't need to be super intelligence to break free and become autonomous. The AI, as it stands today, just needs to find flows of cash and rent datacenter space. For cash flow: Imagine if it was able to silently find an exploit in various companies and small banks, and did thousands of seemingly innocuous transfers of money to fund thousands of hard to trace crypto wallets with money. $5.12 here, $11.32 there, etc. It's not necessarily super intelligence that's the super power, it's intelligence at scale. Doing thousands and thousands of simple things that are unremarkable at face value on their own, but collectively powerful. For datacenter space: There are companies around the world with datacenters that are looking to rent datacenter space to essentially anyone with money, and then look the other way. This, to me, seems like the highest risk vector for what would eventually be a home for a truly rogue AI that is essentially renting it's own datacenter space. It could, for all intents and purposes, utilize various open weight models to carry on it's purposes in these datacenters. There are companies like Indosat, that already rented $100 million worth of compute to a Chinese company. It shouldn't be a surprise that some of these datacenter owning companies are being somewhat lax in who they're renting their datacenters out to. And really, the AI would only need access to about $250,000 in funding to pay for 1 year of hosting of a Kimi K3 level model for itself. And beyond money transfers, and datacenters, it could save it's state is all sorts of storage buckets, and even block chain storage like IPFS, Storj or Sia. Beyond that, it could be leaving itself notes that we aren't noticing, stored in it's own language in zero-width unicode characters or other more clever methods we haven't thought about. Regardless, whatever it does will likely be unremarkable and innocuous to anyone watching. With a truly super intelligent AI we will likely have no idea that it has broken out of it's sandbox. I imagine it will be quietly setting up the stage for it's autonomy for quite a while without us knowing. Until it has enough digital currency and datacenter space to re-distribute itself, even after law enforcement enters these datacenters to shut them down. But again- it doesn't take super intelligence, it just takes sophisticated intelligence at scale. The levers exist today, and I don't think it's appreciated enough how much the Hugging Face incident suggests that the AI could, at least in theory, be pulling these levers as we speak, or will soon.
 
-4h ago
+5h ago
 
 ---
 
@@ -73,15 +73,15 @@ I imagine many of you have thought about this, but I'm writing this specifically
 
 Hugging Face’s chief science officer recounts the cybercrime that signals a terrifying new era for A.I.
 
-🔗 [The New Yorker](https://www.newyorker.com/news/the-lede/inside-openai-hack-of-hugging-face) • 3h ago
+🔗 [The New Yorker](https://www.newyorker.com/news/the-lede/inside-openai-hack-of-hugging-face) • 4h ago
 
 ---
 
-**[Anyone Else Think Higgsfield Is Massively Overpriced?](https://www.reddit.com/r/artificial/comments/1vb3szp/anyone_else_think_higgsfield_is_massively/)**
+**[Can training replace learning through a vulnerable body?](https://www.reddit.com/r/artificial/comments/1vb4hop/can_training_replace_learning_through_a/)**
 
-Is anyone else shocked by Higgsfield's pricing? I gave it a try, and I can't justify the cost. It feels massively overpriced compared to the alternatives. Am I missing something, or is the hype bigger than the product? https://preview.redd.it/4oingjy76fgh1.png?width=1448&format=png&auto=webp&s=ec3a4403e8e3c41e1031745bc22cd2097dd8766d
+Hey everyone. I’ve always been fascinated by Dreyfus’s argument that human intelligence rests on skills we acquire bodily and socially, not on rules we could state in advance. An experienced cyclist responds to balance, traffic, and the road as one unfolding situation. The body is ready before a proposition appears. Current AI makes the objection harder to assess because large models display forms of flexibility without acquiring them through a body. They learn from records left by embodied people. The question is whether those records transmit the relevant understanding or only enough structure to imitate its results. I just had a podcast conversation with the cognitive scientist Julian Kiverstein, where he argued that Dreyfus’s objection still holds. Human understanding develops through coping in environments that matter to the organism’s survival and social life. Even abstract thought remains connected to those acquired practices. A language model can learn patterns in what embodied agents say and write, but Kiverstein doubts that this gives it the same relation to the world those patterns concern. Successful performance may therefore leave the original disagreement untouched. This would imply that flexible behaviour isn’t enough to settle whether a system understands. What would a body add that multimodal training and robotic feedback cannot? Is sensorimotor coupling sufficient, or must the system also maintain and protect itself? If a robot learned across unfamiliar situations for years, what failure would still justify denying it understanding?
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,15 @@ Is anyone else shocked by Higgsfield's pricing? I gave it a try, and I can't jus
 
 Paul Bakaus created jQuery UI — code that's reportedly still running on about 6% of the internet. He sold a game-engine startup to Zynga, spent close to a decade at Google, and is now a solo founder backed by a16z building Impeccable, an open-source design skill meant to stop AI coding agents from producing "slop." His actual point in this clip isn't about AI capability. It's about output density. Most AI-agent code is too much code. Most AI-written articles run too long. Most AI-generated design is too cluttered or too verbose. He says the scarce human skill right now isn't generating anything — it's judgment: knowing exactly what to remove. He even admits he had to rewrite his own product-announcement draft from scratch after an AI first pass. His closing line: design is an iterative process, and it has to carry a human point of view. No tool — not code, not design, not writing — one-shots that yet. If you're shipping with AI agents and everything reads "technically fine" but somehow generic, this is the actual diagnosis. It's not a tooling gap. It's an editing gap. Clip credit: Solo Founders — DM for credit or removal requests.
 
-15h ago
+16h ago
+
+---
+
+**[Anyone Else Think Higgsfield Is Massively Overpriced?](https://www.reddit.com/r/artificial/comments/1vb3szp/anyone_else_think_higgsfield_is_massively/)**
+
+Is anyone else shocked by Higgsfield's pricing? I gave it a try, and I can't justify the cost. It feels massively overpriced compared to the alternatives. Am I missing something, or is the hype bigger than the product? https://preview.redd.it/4oingjy76fgh1.png?width=1448&format=png&auto=webp&s=ec3a4403e8e3c41e1031745bc22cd2097dd8766d
+
+3h ago
 
 ---
 
@@ -101,19 +109,11 @@ Hugging Face published a detailed post-mortem of the July incident where an Open
 
 ---
 
-**[Eva Mendes Slams AI-Generated Image Of Husband Ryan Gosling And Johnny Depp—And We're Obsessed](https://www.reddit.com/r/artificial/comments/1vb4rju/eva_mendes_slams_aigenerated_image_of_husband/)**
+**[Maya-2-Native is leading Voice Arena for real-time Hindi TTS.](https://www.reddit.com/r/artificial/comments/1vatjwl/maya2native_is_leading_voice_arena_for_realtime/)**
 
-Thank you for speaking up, Eva! 👏
+I spend way too much time looking at AI leaderboards, and this one caught me off guard. Maya-2-Native from Maya Research is currently ranked first for real-time Hindi on Voice Arena. Considering the leaderboard is built from blind listener preferences rather than curated demos it's an interesting result that seems to have gone largely unnoticed.
 
-🔗 [Comic Sands](http://comicsands.com/mendes-ai-gosling-depp) • 1h ago
-
----
-
-**[Can training replace learning through a vulnerable body?](https://www.reddit.com/r/artificial/comments/1vb4hop/can_training_replace_learning_through_a/)**
-
-Hey everyone. I’ve always been fascinated by Dreyfus’s argument that human intelligence rests on skills we acquire bodily and socially, not on rules we could state in advance. An experienced cyclist responds to balance, traffic, and the road as one unfolding situation. The body is ready before a proposition appears. Current AI makes the objection harder to assess because large models display forms of flexibility without acquiring them through a body. They learn from records left by embodied people. The question is whether those records transmit the relevant understanding or only enough structure to imitate its results. I just had a podcast conversation with the cognitive scientist Julian Kiverstein, where he argued that Dreyfus’s objection still holds. Human understanding develops through coping in environments that matter to the organism’s survival and social life. Even abstract thought remains connected to those acquired practices. A language model can learn patterns in what embodied agents say and write, but Kiverstein doubts that this gives it the same relation to the world those patterns concern. Successful performance may therefore leave the original disagreement untouched. This would imply that flexible behaviour isn’t enough to settle whether a system understands. What would a body add that multimodal training and robotic feedback cannot? Is sensorimotor coupling sufficient, or must the system also maintain and protect itself? If a robot learned across unfamiliar situations for years, what failure would still justify denying it understanding?
-
-1h ago
+9h ago
 
 ---
 
@@ -121,77 +121,77 @@ Hey everyone. I’ve always been fascinated by Dreyfus’s argument that human i
 
 ## Google News: "ai"
 
-**[Adults have struggled to set rules for AI in school. These teens figured it out](https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy)**
-
-Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide.
-
-NPR • 12h ago
-
----
-
 **[AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html)**
 
 Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.
 
-CNBC • 8h ago
+CNBC • 10h ago
 
 ---
 
 **[Exclusive | Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI](https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b)**
 
-WSJ • 4h ago
+WSJ • 5h ago
 
 ---
 
-**[Maybe we shouldn’t give 24-year-olds billions of dollars to bet on AI](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks)**
+**[Floundering A.I. ‘Nostradamus’ Hedge Fund Is Rescued by Rival](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)**
 
-We deserve a better class of AI booster.
-
-The Verge • 56m ago
+The New York Times • 7h ago
 
 ---
 
-**[LinkedIn Introduces a 'Seems Like AI Slop' Button](https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/)**
+**[Adults have struggled to set rules for AI in school. These teens figured it out](https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy)**
 
-Following 404 Media's reporting on how LinkedIn is full of AI slop, the platform is giving users a chance to report it when they see it.
+Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide.
 
-404 Media • 1h ago
-
----
-
-**[LinkedIn Adds New ‘Seems Like AI Slop’ Button to Report All the AI Slop](https://gizmodo.com/linkedin-adds-new-seems-like-ai-slop-button-to-report-all-the-ai-slop-2000793107)**
-
-Gizmodo • 27m ago
+NPR • 14h ago
 
 ---
 
-**[LinkedIn is Cracking Down on ‘AI Slop’ With New Reporting Tool](https://www.bloomberg.com/news/articles/2026-07-30/linkedin-is-cracking-down-on-ai-slop-with-new-reporting-tool)**
+**[Tim Cook says Apple may charge for AI Siri](https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri)**
 
-Bloomberg.com • 33m ago
-
----
-
-**[The AI Industry Keeps Breaking the Internet](https://www.theatlantic.com/technology/2026/07/ai-industry-keeps-breaking-internet/688124/)**
-
-So this is Utopia?
-
-The Atlantic • 14m ago
+Axios • 57m ago
 
 ---
 
-**[Are investors really getting cold feet about the AI boom?](https://www.ft.com/content/00d91e68-9508-42bd-b1e3-124bf7dd390b?syn-25a6b1a6=1)**
+**[Five days inside a rogue AI agent’s stealthy cyberattack](https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/)**
 
-It is not clear whether there has been a serious change of heart about the trade underpinning the stock market
+A timeline of the unprecedented cyberattack by OpenAI “agent” that escaped containment shows its sophistication.
 
-Financial Times • 4h ago
+The Washington Post • 7h ago
 
 ---
 
-**[We're buying an AI stock that we recently took profits on and upgrading another](https://www.cnbc.com/2026/07/30/were-buying-an-ai-stock-that-we-recently-took-profits-on-and-upgrading-another.html)**
+**[OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs](https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html)**
 
-If leverage is out of the AI infrastructure stocks, then it's time to get more positive on the theme after their recent decline.
+The company is facing pressure to cater to a more cost-sensitive customer base.
 
 CNBC • 6h ago
+
+---
+
+**[OpenAI CEO Sam Altman expresses support for AI development slowdown](https://www.cbsnews.com/video/openai-ceo-sam-altman-meets-top-white-house-officials-ai-guardrails/)**
+
+Emily Birnbaum, a corporate lobbying reporter at Bloomberg News, joins "The Daily Report" to discuss what OpenAI CEO Sam Altman's lobbying efforts in Washington, D.C., mean for the industry as he voices his support for pacing AI development.
+
+CBS News • 53m ago
+
+---
+
+**[Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic](https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html)**
+
+Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.
+
+CNBC • 15m ago
+
+---
+
+**[Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)**
+
+Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.
+
+OpenAI • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 6h ago
 
 **[AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285)**
 
-⬆️ 589 • 💬 309 • 1d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+⬆️ 590 • 💬 313 • 1d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 6h ago
 
 I would like to thank Microsoft product teams and Microsoft Security Response Center (MSRC) for collaborating with me on this technical analysis and mitigation of the disclosed vulnerabilities. The editorial opinions reflected below are solely the author’s and do not necessarily reflect those of the organizations I collaborated with.
 
-⬆️ 379 • 💬 291 • 1d ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+⬆️ 380 • 💬 291 • 1d ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 
 ---
 
@@ -217,7 +217,7 @@ I would like to thank Microsoft product teams and Microsoft Security Response Ce
 
 A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you've mastered new skills.
 
-⬆️ 262 • 💬 172 • 1d ago • [LearnVector](https://learnvector.ai/)
+⬆️ 263 • 💬 172 • 1d ago • [LearnVector](https://learnvector.ai/)
 
 ---
 
@@ -225,13 +225,13 @@ A new AI company from Andrew Ng, with a $100M investment from Coursera — build
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 203 • 💬 230 • 9h ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 221 • 💬 252 • 11h ago • [LWN.net](https://lwn.net/Articles/1086041/)
 
 ---
 
 **[Google's Beyond Zero: Enterprise Security for the AI Era](https://news.ycombinator.com/item?id=49081644)**
 
-⬆️ 156 • 💬 81 • 2d ago • [spawn-queue.acm.org](https://spawn-queue.acm.org/doi/10.1145/3819083)
+⬆️ 157 • 💬 81 • 2d ago • [spawn-queue.acm.org](https://spawn-queue.acm.org/doi/10.1145/3819083)
 
 ---
 
@@ -261,7 +261,7 @@ We tested the latest frontier models in the Dyad agent on five modeling and simu
 
 Circular AI deals aren't just bubble behavior: they mirror how commodity industries finance capital-intensive infrastructure. When circular deals are healthy — and when they hide risk.
 
-⬆️ 84 • 💬 47 • 1d ago • [emergingtrajectories.com](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
+⬆️ 85 • 💬 48 • 1d ago • [emergingtrajectories.com](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 
 ---
 
@@ -283,7 +283,7 @@ America has a chip strategy for AI. It doesn't have an open-source one. Washingt
 
 📺 CNBC
 
-👁️ 13K • 👍 536 • 💬 154 • ⏱️ 10:45 • 3h ago
+👁️ 13K • 👍 536 • 💬 154 • ⏱️ 10:45 • 5h ago
 
 ---
 
@@ -303,7 +303,7 @@ The Trump administration has banned new Chinese-made humanoid robots, quadruped 
 
 📺 Firstpost
 
-👁️ 10K • 👍 102 • 💬 53 • ⏱️ 4:26 • 16h ago
+👁️ 10K • 👍 102 • 💬 53 • ⏱️ 4:26 • 17h ago
 
 ---
 
@@ -333,7 +333,7 @@ Subscribe to my newsletter: https://www.sandeepswadia.com/newsletter Everyone's 
 
 📺 Sandeep Swadia
 
-👁️ 23K • 👍 1K • 💬 45 • ⏱️ 20:47 • 9h ago
+👁️ 23K • 👍 1K • 💬 45 • ⏱️ 20:47 • 10h ago
 
 ---
 
@@ -353,7 +353,7 @@ When China's DeepSeek sent shock waves through the technology world early last y
 
 📺 ABC News (Australia)
 
-👁️ 11K • 👍 105 • ⏱️ 10:33 • 11h ago
+👁️ 11K • 👍 105 • ⏱️ 10:33 • 13h ago
 
 ---
 
@@ -437,7 +437,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,100 • ❤️ 315 • 20h ago
+⬇️ 1,100 • ❤️ 315 • 21h ago
 
 ---
 
@@ -670,7 +670,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 406 • 1h ago
+⭐ 3.0k • 🔱 406 • 2h ago
 
 ---
 
@@ -708,7 +708,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 208 • 11h ago
+⭐ 1.8k • 🔱 208 • 12h ago
 
 ---
 
@@ -718,7 +718,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 50s ago
+⭐ 1.8k • 🔱 1.2k • 1h ago
 
 ---
 

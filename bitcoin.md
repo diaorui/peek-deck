@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-30T21:43:18.169409+00:00'
+updated: '2026-07-30T23:08:06.663746+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 21:43 UTC  
+**Last Updated:** July 30, 2026 at 23:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,849.03
+### $64,871.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +1.0%  
-**30d:** +7.9%  
-**90d:** -17.7%  
-**1y:** -44.0%  
+**24h:** +2.0%  
+**7d:** +1.2%  
+**30d:** +8.1%  
+**90d:** -17.5%  
+**1y:** -43.9%  
 
 ---
 
@@ -165,7 +165,7 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.
 
-CoinDesk • 54m ago
+CoinDesk • 2h ago
 
 ---
 
@@ -173,33 +173,41 @@ CoinDesk • 54m ago
 
 Bitcoin firmed toward $65,000 on Thursday as softer economic data eased September Fed hike fears, with spot volume near multi-year lows.
 
-The Block • 6h ago
+The Block • 7h ago
+
+---
+
+**[Analyst compares SpaceX, Palantir to Bitcoin](https://sg.finance.yahoo.com/news/analyst-compares-spacex-palantir-bitcoin-220000073.html)**
+
+Though Palantir Technologies Inc. (Nasdaq: PLTR), Space Exploration Technologies or SpaceX (Nasdaq: SPCX), and Bitcoin (BTC) are entirely different assets, they are all different kinds of stake on the same geopolitical shift, 10x Research said on May 19. Founded by Peter Thiel, Stephen Cohen, Joe ...
+
+Yahoo Finance Singapore • 1h ago
 
 ---
 
 **[Strategy Announces Second Quarter Financial Results; Currently Holds 843,775 Bitcoin; Now the Largest Institutional Holder Globally](https://www.businesswire.com/news/home/20260730035038/en/Strategy-Announces-Second-Quarter-Financial-Results-Currently-Holds-843775-Bitcoin-Now-the-Largest-Institutional-Holder-Globally)**
 
-Business Wire • 1h ago
+Business Wire • 3h ago
 
 ---
 
-**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
+**[CleanSpark CFO on shifting from bitcoin mining to AI data centers](https://www.cfo.com/news/cleanspark-president-cfo-gary-vecchiarelli-on-shifting-from-bitcoin-mining-to-ai-data-centers/826482/)**
 
-WSJ • 32m ago
+As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
 
----
-
-**[Cathie Wood once said sell gold and buy Bitcoin, here is whether she got it right](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-once-said-sell-201648919.html)**
-
-On February 2, 2026, Cathie Wood said something that turned heads across financial media. The ARK Invest CEO said she would "make a shift from gold into Bitcoin," pointing to a chart showing gold divided by the M2 money supply had hit a record high. Her conclusion was direct. "Gold is probably ...
-
-Yahoo Finance • 1h ago
+CFO.com • 9h ago
 
 ---
 
 **[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
 
-Bloomberg.com • 9h ago
+Bloomberg • 10h ago
+
+---
+
+**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
+
+WSJ • 2h ago
 
 ---
 
@@ -207,7 +215,7 @@ Bloomberg.com • 9h ago
 
 Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -224,14 +232,6 @@ Morningstar • 2d ago
 Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
 
 CNBC • 3d ago
-
----
-
-**[Radar Is Turning Your Signal Chats Into Bitcoin Payment Rails](https://www.forbes.com/sites/digital-assets/2026/07/30/radar-is-turning-your-signal-chats-into-bitcoin-payment-rails/)**
-
-The team behind Cake Wallet has launched Radar Chat, a new messaging app forked from Signal, enabling users to instantly send and receive bitcoin via encrypted messages.
-
-forbes.com • 3h ago
 
 ---
 
@@ -267,7 +267,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took three. Taproot locked in 41 days, then decayed for years. Measured from our own node, genesis to tip.
 
-⬆️ 2 • 💬 0 • 16h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
+⬆️ 2 • 💬 0 • 17h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
 
 ---
 
@@ -313,7 +313,7 @@ The open standard for proving any file is real, unaltered and sealed - letsseal/
 
 **[Programmer Government](https://news.ycombinator.com/item?id=49052385)**
 
-⬆️ 2 • 💬 3 • 4d ago
+⬆️ 2 • 💬 3 • 5d ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin barely moved after one of the biggest macro events of the year. In this 
 
 📺 Yahoo Finance
 
-👁️ 4K • 👍 257 • 💬 110 • ⏱️ 14:53 • 5h ago
+👁️ 4K • 👍 257 • 💬 110 • ⏱️ 14:53 • 6h ago
 
 ---
 
@@ -337,7 +337,7 @@ Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usual
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 270 • 💬 16 • ⏱️ 31:34 • 8h ago
+👁️ 3K • 👍 270 • 💬 16 • ⏱️ 31:34 • 9h ago
 
 ---
 
@@ -347,7 +347,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 105 • ⏱️ 10:40 • 22h ago
+👁️ 38K • 👍 2K • 💬 105 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -357,7 +357,7 @@ The government promised you clarity on Bitcoin. What you actually got: developer
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 393 • ⏱️ 22:39 • 22h ago
+👁️ 21K • 👍 2K • 💬 393 • ⏱️ 22:39 • 23h ago
 
 ---
 
@@ -387,7 +387,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 337 • 💬 182 • ⏱️ 10:54 • 15h ago
+👁️ 4K • 👍 337 • 💬 182 • ⏱️ 10:54 • 16h ago
 
 ---
 
@@ -397,7 +397,7 @@ What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains wh
 
 📺 Cointelegraph
 
-👁️ 516 • 👍 15 • 💬 60 • ⏱️ 1:03 • 6h ago
+👁️ 516 • 👍 15 • 💬 60 • ⏱️ 1:03 • 7h ago
 
 ---
 
@@ -417,7 +417,7 @@ Bitcoin is different things to different people. To Iran it's neutral money outs
 
 📺 Anthony Pompliano
 
-👁️ 839 • 👍 19 • ⏱️ 0:27 • 5h ago
+👁️ 839 • 👍 19 • ⏱️ 0:27 • 6h ago
 
 ---
 

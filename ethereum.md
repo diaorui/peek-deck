@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T21:43:18.173724+00:00'
+updated: '2026-07-30T23:08:06.670037+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 21:43 UTC  
+**Last Updated:** July 30, 2026 at 23:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,921.97
+### $1,924.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +3.3%  
-**30d:** +19.5%  
-**90d:** -17.0%  
-**1y:** -48.0%  
+**24h:** +1.6%  
+**7d:** +3.5%  
+**30d:** +19.7%  
+**90d:** -16.8%  
+**1y:** -47.8%  
 
 ---
 
@@ -168,11 +168,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[This underrated token beats Bitcoin and Ethereum with 50% weekly gains](https://finance.yahoo.com/markets/crypto/articles/underrated-token-beats-bitcoin-ethereum-180004267.html)**
+**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-wobble-fed-holds-184345987.html)**
 
-While Bitcoin traded sideways near $64,000 and Ethereum struggled to hold above $1,900, one token quietly topped the weekly crypto gainers chart with a 50% move that most of the market missed entirely. Audiera's BEAT token surged 50% over the past seven days to trade near $3.79, the strongest ...
+Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,15 +180,7 @@ Yahoo Finance • 3h ago
 
 Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
 
-TradingView • 10h ago
-
----
-
-**[Ethereum Price Stalls as Fed Rate Decision Looms](https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision)**
-
-Despite being down 1% today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.
-
-Decrypt • 1d ago
+TradingView • 11h ago
 
 ---
 
@@ -200,11 +192,23 @@ CoinMarketCap • 1d ago
 
 ---
 
-**[Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum)**
+**[Ethereum and solana are getting busier — and cheaper. What's going on?](https://finance.yahoo.com/video/ethereum-solana-getting-busier-cheaper-173000356.html)**
 
-USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
+Ethereum (ETH-USD) and solana (SOL-USD) are getting busier and cheaper, even as token prices fall, according to Bitwise.
 
-The Block • 1d ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Morgan Stanley debuts Ethereum and Solana ETFs with market's lowest fee, staking rewards](https://www.theblock.co/post/409898/morgan-stanley-debuts-ethereum-solana-etfs-markets-lowest-fee-staking-rewards)**
+
+The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
+
+The Block • 2d ago
 
 ---
 
@@ -212,7 +216,15 @@ The Block • 1d ago
 
 Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
 
-fool.com • 4h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 9h ago
 
 ---
 
@@ -221,14 +233,6 @@ fool.com • 4h ago
 Robinhood Chain, powered by Ethereum, now has 328,000 holders of tokenized real-world assets, making it the leading blockchain by RWA holders.
 
 Benzinga • 2d ago
-
----
-
-**[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 8h ago
 
 ---
 
@@ -242,7 +246,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 9K • 👍 510 • 💬 29 • ⏱️ 19:50 • 7h ago
+👁️ 9K • 👍 510 • 💬 29 • ⏱️ 19:50 • 9h ago
 
 ---
 
@@ -252,7 +256,7 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 539 • 💬 465 • ⏱️ 13:14 • 21h ago
+👁️ 10K • 👍 539 • 💬 465 • ⏱️ 13:14 • 22h ago
 
 ---
 
@@ -262,7 +266,7 @@ In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situati
 
 📺 HKCM
 
-👁️ 20K • 👍 2K • 💬 47 • ⏱️ 19:00 • 5h ago
+👁️ 20K • 👍 2K • 💬 47 • ⏱️ 19:00 • 7h ago
 
 ---
 
@@ -312,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 201 • 👍 18 • 💬 10 • ⏱️ 5:55 • 12h ago
+👁️ 201 • 👍 18 • 💬 10 • ⏱️ 5:55 • 14h ago
 
 ---
 
@@ -322,7 +326,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 146 • 💬 10 • ⏱️ 26:56 • 8h ago
+👁️ 2K • 👍 146 • 💬 10 • ⏱️ 26:56 • 10h ago
 
 ---
 
