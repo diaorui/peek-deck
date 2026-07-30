@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T13:09:37.066990+00:00'
+updated: '2026-07-30T15:31:20.154741+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 13:09 UTC  
+**Last Updated:** July 30, 2026 at 15:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,926.96
+### $1,917.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +3.5%  
-**30d:** +19.7%  
-**90d:** -16.8%  
-**1y:** -47.8%  
+**24h:** +1.2%  
+**7d:** +3.0%  
+**30d:** +19.1%  
+**90d:** -17.2%  
+**1y:** -48.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.46B
+**Market Cap:** $231.37B
 Rank #2
 
 **Circulating Supply:** 120,682,509 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.2%
 
 **All-Time Low:** $0.43
-+442861.4%
++442695.1%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 2026 Lido Core upgrade introduces major improvements on the operator and validator layers, strengthening protocol security for stakers while keeping aligned with the Ethereum roadmap. Curated Module v2 (CMv2) introduces native support for 0x02 validators, bond and penalty mechanisms, and operator classification. It will gradually replace the legacy Curated Module as ETH stake is migrated to the new module through validator consolidation. CSM expands permissionless participation through the new Identified DVT Cluster operator type, alongside technical improvements that make the module more reliable and operator-friendly. Contributors are now working with operators on validator consolidation over the next few months. The migration could increase the share of ETH secured by 0x02 validators from around 32% to 52%, while reducing the total number of validators across the Ethereum network by around 30%. Further upgrades to both CMv2 and CSM in the near future: CMv2 will introduce a dynamic stake allocation mechanism through which stake can be distributed among Node Operators based on transparent parameters such as fees, performance, and other relevant factors. CSM will introduce a dedicated module for 0x02 validators, designed specifically to enable permissionless operators to run 0x02 validators with a bond. This new module will operate alongside the existing CSM instance for 0x01 validators, giving operators the flexibility to choose. https://x.com/LidoFinance/status/2081757295310983272
 
-2d ago
+3d ago
 
 ---
 
@@ -120,7 +120,7 @@ No public tooling existed for tracking Continuous Clearing Auctions — the new 
 
 There were problems with my regular payment, but I was craving takeout. In just a few minutes, I placed my order using USDC and found the Uber Eats option. Everything went well after the food arrived. When cryptocurrency actually fulfills such basic requirements, it's wonderful. Does anyone use it for food delivery or transportation?
 
-3d ago
+4d ago
 
 ---
 
@@ -152,51 +152,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation Board Update](https://blog.ethereum.org/2026/07/29/ef-board-update)**
-
-We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
-
-blog.ethereum.org • 1d ago
-
----
-
 **[As crypto perpetual futures boom, Ethereum’s role is shifting](https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting)**
 
 Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 19h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
+**[Ethereum Foundation Board Update](https://blog.ethereum.org/2026/07/29/ef-board-update)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-Fortune • 2h ago
-
----
-
-**[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://finance.yahoo.com/markets/crypto/articles/cathie-woods-ark-trims-bmnr-111017810.html)**
-
-Ark Invest sold 120,665 shares of BMNR, making it the firm's largest trade of the day.
-
-Yahoo Finance • 1h ago
+ethereum.org • 1d ago
 
 ---
 
-**[Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum)**
+**['Ethereum Cypherpunk Manifesto' author joins Ethereum Foundation as fourth board member](https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member)**
 
-USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
+The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy advocacy and cypherpunk cultural commentary.
 
-The Block • 23h ago
-
----
-
-**[Ethereum Price Stalls as Fed Rate Decision Looms](https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision)**
-
-Despite being down 1% today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.
-
-Decrypt • 19h ago
+The Block • 22h ago
 
 ---
 
@@ -204,29 +180,55 @@ Decrypt • 19h ago
 
 Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
 
-CoinMarketCap • 12h ago
+CoinMarketCap • 11h ago
 
 ---
 
-**[Robinhood Chain Overtakes Solana, Ethereum for Real-World Asset Trading: What Does It Mean for HOOD?](https://www.benzinga.com/crypto/cryptocurrency/26/07/60746835/robinhood-chain-overtakes-solana-ethereum-for-real-world-asset-trading-what-does-it-mean-for-hood)**
+**[Fed Holds Rates: Here's What the Decision Means for Bitcoin, Ethereum and Altcoins in August](https://bitcoinfoundation.org/news/altcoins/fed-holds-rates-heres-what-the-decision-means-for-bitcoin-ethereum-and-altcoins-in-august/)**
 
-Robinhood Chain, powered by Ethereum, now has 328,000 holders of tokenized real-world assets, making it the leading blockchain by RWA holders.
+Find out how the latest Fed decision has impacted Bitcoin, Ethereum, and the rest of the crypto market, and where BTC could go in August
 
-benzinga.com • 1d ago
-
----
-
-**[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
-
-BlackRock clients bought over $20 million in ETH; staking beats records.
-
-AMBCrypto • 8h ago
+Bitcoin Foundation • 1h ago
 
 ---
 
-**[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
+**[Ethereum Institutional Closes Funding, EF Adds New Member](https://bitcoinfoundation.org/news/ethereum/ef-investments/)**
 
-CCN.com • 1d ago
+Ethereum Institutional raises undisclosed amount. EF adds Pascal Coversacchio to board. Institutional adoption grows. ETH price at $1,925.
+
+Bitcoin Foundation • 1h ago
+
+---
+
+**[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://finance.yahoo.com/markets/crypto/articles/cathie-woods-ark-trims-bmnr-111017810.html)**
+
+Ark Invest sold 120,665 shares of BMNR, making it the firm's largest trade of the day.
+
+finance.yahoo.com • 4h ago
+
+---
+
+**[Raoul Pal Reveals the Next 100x Crypto Trade and It Is Not Bitcoin, Ethereum or XRP](https://www.tradingview.com/news/coinpedia:54437f5c0094b:0-raoul-pal-reveals-the-next-100x-crypto-trade-and-it-is-not-bitcoin-ethereum-or-xrp/)**
+
+Raoul Pal has built a reputation for identifying macro trades before they become consensus. The former Goldman Sachs hedge fund manager and Real Vision founder is now making the case that the next crypto opportunity is not in the assets currently dominating market attention. It is in the infrastruc…
+
+TradingView • 21h ago
+
+---
+
+**[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+fortune.com • 4h ago
+
+---
+
+**[Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum)**
+
+USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
+
+The Block • 1d ago
 
 ---
 
@@ -234,13 +236,33 @@ CCN.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum to $6,000 in 2027? This ETH/BTC Chart Says It’s Possible](https://www.youtube.com/watch?v=W5ZdshsNuXA)**
+**[BlackRock is Betting BIG on Ethereum](https://www.youtube.com/watch?v=5K8_5lpeUY0)**
 
-Join My VIP Trading Group: https://www.freedomtradingacademy.com/vip-community Trade with Me on BLOFIN – Claim up to ...
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
-📺 Andrea Cap  | FTA Crypto
+📺 Coin Bureau
 
-👁️ 169 • 👍 15 • 💬 7 • ⏱️ 20:01 • 10h ago
+👁️ 2K • 👍 167 • 💬 7 • ⏱️ 19:50 • 1h ago
+
+---
+
+**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
+
+ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 512 • 💬 349 • ⏱️ 13:14 • 15h ago
+
+---
+
+**[ETH IS ABOUT TO BREAKOUT! (Bullish or Bearish?)](https://www.youtube.com/watch?v=KQ9tEbWgZ7A)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 140 • 👍 18 • 💬 10 • ⏱️ 5:55 • 6h ago
 
 ---
 
@@ -250,27 +272,7 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 📺 Thinking Crypto
 
-👁️ 18K • 👍 1K • 💬 186 • ⏱️ 20:27 • 1d ago
-
----
-
-**[Ethereum Hits Key Resistance: What Happens Next?](https://www.youtube.com/watch?v=qOEicNriYSI)**
-
-In this video I break down the current Ethereum price action and the potential for a wave two reversal. I analyze the key resistance ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 150 • 💬 2 • ⏱️ 6:10 • 23h ago
-
----
-
-**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
-
-Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 115 • 💬 7 • ⏱️ 0:57 • 1d ago
+👁️ 18K • 👍 1K • 💬 187 • ⏱️ 20:27 • 1d ago
 
 ---
 
@@ -280,27 +282,17 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 107K • 👍 2K • 💬 270 • ⏱️ 6:11 • 2d ago
+👁️ 108K • 👍 2K • 💬 271 • ⏱️ 6:11 • 2d ago
 
 ---
 
-**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
+**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
 
-Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
+Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
 
-📺 The Rollup
+📺 Lark Davis
 
-👁️ 2K • 👍 36 • 💬 6 • ⏱️ 6:40 • 2d ago
-
----
-
-**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
-
-Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 676 • 💬 525 • ⏱️ 12:59 • 1d ago
+👁️ 4K • 👍 120 • 💬 7 • ⏱️ 0:57 • 1d ago
 
 ---
 
@@ -310,27 +302,37 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 35K • 👍 96 • ⏱️ 0:06 • 1d ago
+👁️ 35K • 👍 97 • ⏱️ 0:06 • 1d ago
 
 ---
 
-**[🤩 Ethereum Breaking Out! - ETH Crypto Analysis](https://www.youtube.com/watch?v=YfRMuuZiZ6g)**
+**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
 
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 The Rollup
 
-👁️ 3K • 👍 90 • 💬 34 • ⏱️ 5:45 • 2d ago
+👁️ 2K • 👍 37 • 💬 4 • ⏱️ 6:40 • 2d ago
 
 ---
 
-**[Congressional Recess Looms Over Clarity Act &amp; Bitcoin, Ethereum&#39;s &quot;Relative Strength&quot;](https://www.youtube.com/watch?v=d4lk4RdEo3o)**
+**[Ethereum Hits Key Resistance: What Happens Next?](https://www.youtube.com/watch?v=qOEicNriYSI)**
 
-Congress goes on recess next Friday and the Clarity Act still has not been voted on by the Senate. @CharlesSchwab's Nathan ...
+In this video I break down the current Ethereum price action and the potential for a wave two reversal. I analyze the key resistance ...
 
-📺 Schwab Network
+📺 More Crypto Online
 
-👁️ 2K • 👍 44 • 💬 64 • ⏱️ 9:18 • 15h ago
+👁️ 3K • 👍 152 • 💬 2 • ⏱️ 6:10 • 1d ago
+
+---
+
+**[they will HATE you for believing (HEX Crypto Bitcoin PulseChain Ethereum)](https://www.youtube.com/watch?v=SN-zdvJMA4k)**
+
+public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
+
+📺 Crypto Coffee
+
+👁️ 2K • 👍 202 • 💬 18 • ⏱️ 49:01 • 18h ago
 
 ---
 

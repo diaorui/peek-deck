@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-30T13:09:37.061590+00:00'
+updated: '2026-07-30T15:31:20.148593+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 13:09 UTC  
+**Last Updated:** July 30, 2026 at 15:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,002.98
+### $64,772.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +1.1%  
-**30d:** +8.1%  
-**90d:** -17.5%  
-**1y:** -43.9%  
+**24h:** +1.4%  
+**7d:** +0.8%  
+**30d:** +7.8%  
+**90d:** -17.8%  
+**1y:** -44.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1294.60B
+**Market Cap:** $1297.60B
 Rank #1
 
-**Circulating Supply:** 20,063,228 BTC
+**Circulating Supply:** 20,063,312 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.8%
+-48.7%
 
 **All-Time Low:** $67.81
-+95054.1%
++95276.8%
 
 ---
 
@@ -105,7 +105,7 @@ It took 5 months on 200GPUS. He is the same person who had solved #120 and #125.
 
 Stuart Haber and Scott Stornetta are two of the Godfather’s behind modern cryptographic timestamping or “Block Chain”. Their contributions to Bitcoin are showcased by three academic works referenced in the Bitcoin Whitepaper References section. These two legends have laid as much of Bitcoin’s groundwork as giants like Adam Back, Wei Dai and Hal Finney. In a recent interview, Stornetta repeated a theory about Satoshi that originated from his colleague, Stuart Haber. The Theory: when talking about Satoshi, “...we’re talking about one person, who was professionally a software engineer, and was really dabbling more with the cryptology as well as with the economic incentives...There’s one thing that I haven't seen anyone analyze, and that is the structure of the (Whitepaper) footnotes.” These suggest Satoshi was a “non-professional cryptologist” who “discovered this thing (Block Chain) by reading about it in the Encyclopedia of Cryptology.” - Scott Stornetta This characterization of Satoshi is not much of a ground breaking take. It is consistent with many others who have suggested that Satoshi was an individual polymath coder, not a group. But the detail about the Whitepaper footnotes and a mysterious book are interesting. What are the clues that relate the structure of the Whitepaper footnotes to this mystery encyclopedia? Has no one looked at this angle involving the Whitepaper footnotes before? The Satoshi Times went down this rabbit hole to see what could be found, and the details are fun. We found that there is an Encyclopedia of Cryptography and Security that was published in 2005 by Henk C. A. van Tilborg via Springer, that matches the description given by Stornetta. This pre-dates Bitcoin (2007-2008), and thus could have been a primary resource used by Satoshi Nakamoto in his invention of Bitcoin.The Theory: when talking about Satoshi, “...we’re talking about one person, who was professionally a software engineer, and was really dabbling more with the cryptology as well as with the economic incentives...There’s one thing that I haven't seen anyone analyze, and that is the structure of the (Whitepaper) footnotes.” These suggest Satoshi was a “non-professional cryptologist” who “discovered this thing (Block Chain) by reading about it in the Encyclopedia of Cryptology.” This characterization of Satoshi is not much of a ground breaking take. It is consistent with many others who have suggested that Satoshi was an individual polymath coder, not a group.But the detail about the Whitepaper footnotes and a mysterious book are interesting.What are the clues that relate the structure of the Whitepaper footnotes to this mystery encyclopedia? Has no one looked at this angle involving the Whitepaper footnotes before?The Satoshi Times went down this rabbit hole to see what could be found, and the details are fun.We found that there is an Encyclopedia of Cryptography and Security that was published in 2005 by Henk C. A. van Tilborg via Springer, that matches the description given by Stornetta. This pre-dates Bitcoin (2007-2008), and thus could have been a primary resource used by Satoshi Nakamoto in his invention of Bitcoin. Continued on https://satoshitimes.com/encyclopedia/
 
-🔗 [satoshitimes.com](https://satoshitimes.com/encyclopedia/) • 22h ago
+🔗 [satoshitimes.com](https://satoshitimes.com/encyclopedia/) • 1d ago
 
 ---
 
@@ -137,7 +137,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 imo lately it looks like money started rotating from AI stocks to crypto/btc. when they drop, btc used to drop harder but now btc even goes up when they drop.
 
-22h ago
+1d ago
 
 ---
 
@@ -165,41 +165,43 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.
 
-CoinDesk • 1h ago
+CoinDesk • 53m ago
 
 ---
 
 **[Strategy Skips Bitcoin Buying and Selling for a Third Week. Here’s What It Did Instead.](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-6b8ef61c)**
 
-Barron's • 2d ago
+barrons.com • 3d ago
+
+---
+
+**[Bitcoin Posted Its Weakest Spot Trading Volume Since 2023. Here's Why I'm Not Concerned About Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-posted-weakest-spot-trading-141255365.html)**
+
+The world's most valuable cryptocurrency isn't attracting much attention.
+
+finance.yahoo.com • 1h ago
+
+---
+
+**[Bitcoin ETFs On Pace For Smallest Monthly Inflows Ever](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-pace-smallest-monthly-131400892.html)**
+
+Exchange-traded funds (ETFs) that track the spot price of Bitcoin (CRYPTO: $BTC) are on track to post their smalles...
+
+finance.yahoo.com • 2h ago
 
 ---
 
 **[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
 
-Bloomberg • 49m ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Hyperscale Data Repurposes Bitcoin Treasury Strategy to Accelerate Development of Michigan AI Data Center](https://www.morningstar.com/news/pr-newswire/20260730sf15774/hyperscale-data-repurposes-bitcoin-treasury-strategy-to-accelerate-development-of-michigan-ai-data-center)**
+**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
 
-Morningstar • 2h ago
+After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
 
----
-
-**[Bitcoin Gains 9% in July, but On-Chain Data Signals Weak Conviction](https://finance.yahoo.com/markets/crypto/articles/bitcoin-gains-9-july-chain-112232371.html)**
-
-Bitcoin heads for its first monthly gain since April, yet spot volume, exchange flows and ETF demand keep shrinking.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Prediction: Bitcoin Will Be Worth $2.5 Trillion in 3 Years](https://www.fool.com/investing/2026/07/29/prediction-bitcoin-worth-25-trillion-in-3-years/)**
-
-Bitcoin may no longer be able to deliver the stratospheric returns that it did during its early years.
-
-The Motley Fool • 13h ago
+Morningstar • 2d ago
 
 ---
 
@@ -211,25 +213,25 @@ CNBC • 1d ago
 
 ---
 
+**[Prediction: Bitcoin Will Be Worth $2.5 Trillion in 3 Years](https://www.fool.com/investing/2026/07/29/prediction-bitcoin-worth-25-trillion-in-3-years/)**
+
+Bitcoin may no longer be able to deliver the stratospheric returns that it did during its early years.
+
+The Motley Fool • 16h ago
+
+---
+
+**[Bitcoin falls to $64k amid rates, Iran jitters; Strategy earnings on tap](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491)**
+
+Investing.com • 8h ago
+
+---
+
 **[There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say](https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe)**
 
 New research outlines a cryptographic approach that could allow Bitcoin wallets to remain compatible with existing addresses post-quantum.
 
-Decrypt • 17h ago
-
----
-
-**[Current price of Bitcoin for July 30, 2026](https://fortune.com/article/price-of-bitcoin-07-30-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2h ago
-
----
-
-**[Ionic Digital Shares Jump on Nasdaq Debut after Converting Celsius Bitcoin Mining Assets into AI Infrastructure](https://www.crowdfundinsider.com/2026/07/294277-ionic-digital-shares-jump-on-nasdaq-debut-after-converting-celsius-bitcoin-mining-assets-into-ai-infrastructure/)**
-
-crowdfundinsider.com • 1d ago
+Decrypt • 19h ago
 
 ---
 
@@ -241,7 +243,7 @@ crowdfundinsider.com • 1d ago
 
 The alleged thieves infected 8,000 devices.
 
-⬆️ 45 • 💬 44 • 2d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+⬆️ 45 • 💬 45 • 2d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -265,7 +267,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took three. Taproot locked in 41 days, then decayed for years. Measured from our own node, genesis to tip.
 
-⬆️ 2 • 💬 0 • 7h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
+⬆️ 2 • 💬 0 • 10h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
 
 ---
 
@@ -273,7 +275,7 @@ Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took
 
 An interactive timeline of money, gold, fiat, and Bitcoin — from 9000 BC to the age of AGI.
 
-⬆️ 2 • 💬 0 • 23h ago • [AI Socratic](https://aisocratic.org/money-bitcoin-ai)
+⬆️ 2 • 💬 0 • 1d ago • [AI Socratic](https://aisocratic.org/money-bitcoin-ai)
 
 ---
 
@@ -301,14 +303,6 @@ Live public testnet with full node, external miner, browser wallet, snapshot boo
 
 ---
 
-**[Balance Stablecoin Collapses After Bitcoin Vault Is Drained](https://news.ycombinator.com/item?id=49023069)**
-
-Balance Coin (CRYPTO: $BLC ), a low circulation stablecoin meant to hold a U.S. dollar peg, has crashed more than 99% after a hacker drained its Bitcoin (CRYPTO: $BTC ) vault.The token, which had traded near its $1 U.S. peg, has fallen to $0.0014 ...
-
-⬆️ 1 • 💬 0 • 6d ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/balance-stablecoin-collapses-after-bitcoin-vault-is-drained-6223)
-
----
-
 **[Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted](https://news.ycombinator.com/item?id=49071365)**
 
 The open standard for proving any file is real, unaltered and sealed - letsseal/letsseal
@@ -317,9 +311,25 @@ The open standard for proving any file is real, unaltered and sealed - letsseal/
 
 ---
 
+**[Programmer Government](https://news.ycombinator.com/item?id=49052385)**
+
+⬆️ 2 • 💬 3 • 4d ago
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[NFA LIVE. Inflation Numbers Are OUT! Bitcoin Responds.](https://www.youtube.com/watch?v=HyJWQDozJlw)**
+
+Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usually does. Here's where we stand on rate hikes/cuts.
+
+📺 Digital Asset News
+
+👁️ 1K • 👍 137 • 💬 5 • ⏱️ 31:34 • 1h ago
+
+---
 
 **[OMG... The Fed is about to BLOW UP Crypto!?](https://www.youtube.com/watch?v=JDxrD5OMVnU)**
 
@@ -327,7 +337,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 83 • ⏱️ 10:40 • 14h ago
+👁️ 34K • 👍 2K • 💬 89 • ⏱️ 10:40 • 16h ago
 
 ---
 
@@ -337,7 +347,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 591 • 💬 166 • ⏱️ 10:51 • 19h ago
+👁️ 10K • 👍 602 • 💬 170 • ⏱️ 10:51 • 21h ago
 
 ---
 
@@ -347,17 +357,7 @@ The government promised you clarity on Bitcoin. What you actually got: developer
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 277 • ⏱️ 22:39 • 13h ago
-
----
-
-**[WARNING: This Bitcoin Chart Shows A New Downside Target](https://www.youtube.com/watch?v=u8sCmZRtj50)**
-
-You won't believe what this bitcoin chart says about its downside target, that could potentially be reached in the next few years.
-
-📺 Alessio Rastani
-
-👁️ 31K • 👍 2K • 💬 812 • ⏱️ 18:15 • 1d ago
+👁️ 18K • 👍 1K • 💬 294 • ⏱️ 22:39 • 16h ago
 
 ---
 
@@ -367,17 +367,27 @@ Watch the official fighter of Bitcoin News Alerts LIVE: https://www.elsicario.co
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 280 • 💬 244 • ⏱️ 16:11 • 14h ago
+👁️ 4K • 👍 297 • 💬 260 • ⏱️ 16:11 • 17h ago
 
 ---
 
-**[Lost Rs 4 Crore Bitcoin, AI Found it 11 Years | Roshni Chellani](https://www.youtube.com/watch?v=_QBLN-rzSR0)**
+**[Bitcoin: This Is What The Bitcoin Bottom Will Look Like](https://www.youtube.com/watch?v=FLhLwviNpZA)**
 
-He lost ₹4 crore in Bitcoin... and AI found it 11 years later   This sounds like a movie, but it's a real story. After spending years ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Favorite Place To ...
 
-📺 Roshni Chellani
+📺 Aaron Bennett
 
-👁️ 16K • 👍 488 • 💬 12 • ⏱️ 1:39 • 22h ago
+👁️ 3K • 👍 270 • 💬 178 • ⏱️ 10:54 • 9h ago
+
+---
+
+**[WARNING: This Bitcoin Chart Shows A New Downside Target](https://www.youtube.com/watch?v=u8sCmZRtj50)**
+
+You won't believe what this bitcoin chart says about its downside target, that could potentially be reached in the next few years.
+
+📺 Alessio Rastani
+
+👁️ 33K • 👍 2K • 💬 824 • ⏱️ 18:15 • 1d ago
 
 ---
 
@@ -387,17 +397,7 @@ My Free Trading Course https://rt1m.com/free My Trading Signals https://rt1m.com
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 195 • 💬 24 • ⏱️ 7:03 • 16h ago
-
----
-
-**[He Just Confirmed It (BTC Holders wake up) ](https://www.youtube.com/watch?v=7bUUdmjK1SA)**
-
-Clarity ACT, BTC charts, ETH, UNISWAP, QQQ and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 698 • 💬 94 • ⏱️ 12:37 • 1d ago
+👁️ 3K • 👍 200 • 💬 25 • ⏱️ 7:03 • 18h ago
 
 ---
 
@@ -407,17 +407,17 @@ Thank you to Mint Mobile for partnering with us on this video! Visit our partner
 
 📺 The Graham Stephan Show
 
-👁️ 98K • 👍 3K • 💬 1K • ⏱️ 18:59 • 2d ago
+👁️ 99K • 👍 3K • 💬 1K • ⏱️ 18:59 • 2d ago
 
 ---
 
-**[HUGE! CLARITY ACT GETS MORE SUPPORT! FED FOMC &amp; BITCOIN ANALYSIS &amp; TRADFI TOKENIZATION!](https://www.youtube.com/watch?v=CS9Xr1e3kC8)**
+**[Bitcoin Hit by a Massive Global Sell-Off](https://www.youtube.com/watch?v=s4Z4f0IuqRw)**
 
-Crypto News: Democrats and the Banks continue to work on Clarity Act compromises. Fed leaves rates unchanged and Bitcoin ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Thinking Crypto
+📺 CryptosRUs
 
-👁️ 9K • 👍 664 • 💬 208 • ⏱️ 23:08 • 9h ago
+👁️ 15K • 👍 814 • 💬 315 • ⏱️ 16:34 • 2d ago
 
 ---
 
