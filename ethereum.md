@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T18:56:43.380997+00:00'
+updated: '2026-07-30T20:16:03.848988+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 18:56 UTC  
+**Last Updated:** July 30, 2026 at 20:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,921.53
+### $1,924.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +2.9%  
-**30d:** +19.0%  
-**90d:** -17.3%  
-**1y:** -48.2%  
+**24h:** +1.2%  
+**7d:** +3.2%  
+**30d:** +19.4%  
+**90d:** -17.0%  
+**1y:** -48.0%  
 
 ---
 
@@ -172,7 +172,7 @@ ethereum.org • 1d ago
 
 While Bitcoin traded sideways near $64,000 and Ethereum struggled to hold above $1,900, one token quietly topped the weekly crypto gainers chart with a 50% move that most of the market missed entirely. Audiera's BEAT token surged 50% over the past seven days to trade near $3.79, the strongest ...
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 56m ago
 
 Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 2h ago
 
 Raoul Pal has built a reputation for identifying macro trades before they become consensus. The former Goldman Sachs hedge fund manager and Real Vision founder is now making the case that the next crypto opportunity is not in the assets currently dominating market attention. It is in the infrastruc…
 
-TradingView • 1d ago
+tradingview.com • 1d ago
 
 ---
 
@@ -216,19 +216,19 @@ CoinMarketCap • 1d ago
 
 ---
 
+**[Morgan Stanley deepens push into crypto with ethereum, Solana ETFs despite ongoing volatility](https://www.pionline.com/asset-management/exchange-traded-funds/pi-morgan-stanley-deepens-crypto-push-ethereum-solana-etfs/)**
+
+After entering the spot bitcoin ETF market this year, Morgan Stanley is already planning broader crypto offerings, including multi-currency strategies.
+
+Pensions & Investments • 10m ago
+
+---
+
 **[Robinhood Chain Overtakes Solana, Ethereum for Real-World Asset Trading: What Does It Mean for HOOD?](https://www.benzinga.com/crypto/cryptocurrency/26/07/60746835/robinhood-chain-overtakes-solana-ethereum-for-real-world-asset-trading-what-does-it-mean-for-hood)**
 
 Robinhood Chain, powered by Ethereum, now has 328,000 holders of tokenized real-world assets, making it the leading blockchain by RWA holders.
 
 Benzinga • 1d ago
-
----
-
-**[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 8h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 5K • 👍 401 • 💬 17 • ⏱️ 19:50 • 4h ago
+👁️ 5K • 👍 401 • 💬 17 • ⏱️ 19:50 • 6h ago
 
 ---
 
@@ -252,7 +252,7 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 530 • 💬 418 • ⏱️ 13:14 • 18h ago
+👁️ 9K • 👍 530 • 💬 418 • ⏱️ 13:14 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 166 • 👍 17 • 💬 10 • ⏱️ 5:55 • 10h ago
+👁️ 166 • 👍 17 • 💬 10 • ⏱️ 5:55 • 11h ago
 
 ---
 
@@ -302,7 +302,7 @@ In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situati
 
 📺 HKCM
 
-👁️ 9K • 👍 1K • 💬 37 • ⏱️ 19:00 • 2h ago
+👁️ 9K • 👍 1K • 💬 37 • ⏱️ 19:00 • 4h ago
 
 ---
 

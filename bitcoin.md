@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-30T18:56:43.374796+00:00'
+updated: '2026-07-30T20:16:03.842919+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 18:56 UTC  
+**Last Updated:** July 30, 2026 at 20:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,720.56
+### $64,792.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +0.9%  
-**30d:** +7.8%  
+**24h:** +1.5%  
+**7d:** +1.0%  
+**30d:** +7.9%  
 **90d:** -17.7%  
 **1y:** -44.0%  
 
@@ -165,33 +165,21 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Strategy Skips Bitcoin Buying and Selling for a Third Week. Here’s What It Did Instead.](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-6b8ef61c)**
+**['Paid to wait': Bitcoin presses toward $65,000 as Treasuries out-yield the carry trade for only second time on record](https://www.theblock.co/post/410163/paid-to-wait-bitcoin-presses-toward-65000-as-treasuries-out-yield-carry-trade-for-only-second-time-on-record)**
 
-Barron's • 3d ago
+Bitcoin firmed toward $65,000 on Thursday as softer economic data eased September Fed hike fears, with spot volume near multi-year lows.
 
----
-
-**[US stocks, bitcoin gain since Fed held rates steady at July FOMC meeting](https://finance.yahoo.com/video/us-stocks-bitcoin-gain-since-162000444.html)**
-
-Scott Melker discusses the Federal Reserve's latest decision to hold interest rates steady, examining Fed Chairman Kevin Warsh's remarks and how US stocks (^DJI, ^IXIC, ^GSPC) and crypto like bitcoin (BTC-USD) have reacted.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2h ago
+The Block • 5h ago
 
 ---
 
-**[Peter Schiff Warns Bitcoin Faces Bigger Selloff Beyond Tech Rout](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-bitcoin-faces-155700182.html)**
+**[MSTR Stock: Why Strategy May Restart Bitcoin Buys With Q2 Earnings Report](https://www.investors.com/news/mstr-stock-strategy-bitcoin-q2-earnings/)**
 
-Bitcoin faced a fresh downside warning Thursday after economist and longtime crypto critic Peter Schiff said the se...
-
-Yahoo Finance • 2h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -199,21 +187,21 @@ Yahoo Finance • 2h ago
 
 While Bitcoin traded sideways near $64,000 and Ethereum struggled to hold above $1,900, one token quietly topped the weekly crypto gainers chart with a 50% move that most of the market missed entirely. Audiera's BEAT token surged 50% over the past seven days to trade near $3.79, the strongest ...
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin’s Final Bear Leg: History Says $35,000, On-Chain Data Disagrees](https://finance.yahoo.com/markets/crypto/articles/bitcoin-final-bear-leg-history-180000884.html)**
+
+On-chain data challenges the $35,000 Bitcoin final bear leg call. Three metrics suggest the bear market may end near $44,000.
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
 
-Bloomberg.com • 6h ago
-
----
-
-**[Radar Is Turning Your Signal Chats Into Bitcoin Payment Rails](https://www.forbes.com/sites/digital-assets/2026/07/30/radar-is-turning-your-signal-chats-into-bitcoin-payment-rails/)**
-
-The team behind Cake Wallet has launched Radar Chat, a new messaging app forked from Signal, enabling users to instantly send and receive bitcoin via encrypted messages.
-
-forbes.com • 22m ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -221,7 +209,15 @@ forbes.com • 22m ago
 
 Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 4h ago
+
+---
+
+**[Bitcoin may be showing signs of a bottom despite continued consolidation, chart analysts say](https://www.cnbc.com/2026/07/28/bitcoin-is-showing-signs-of-a-bottom-chart-analysts-say.html)**
+
+Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
+
+CNBC • 2d ago
 
 ---
 
@@ -233,11 +229,11 @@ Morningstar • 2d ago
 
 ---
 
-**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
+**[Radar Is Turning Your Signal Chats Into Bitcoin Payment Rails](https://www.forbes.com/sites/digital-assets/2026/07/30/radar-is-turning-your-signal-chats-into-bitcoin-payment-rails/)**
 
-Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
+The team behind Cake Wallet has launched Radar Chat, a new messaging app forked from Signal, enabling users to instantly send and receive bitcoin via encrypted messages.
 
-CNBC • 3d ago
+forbes.com • 1h ago
 
 ---
 
@@ -273,7 +269,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took three. Taproot locked in 41 days, then decayed for years. Measured from our own node, genesis to tip.
 
-⬆️ 2 • 💬 0 • 13h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
+⬆️ 2 • 💬 0 • 14h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
 
 ---
 
@@ -333,7 +329,7 @@ Bitcoin barely moved after one of the biggest macro events of the year. In this 
 
 📺 Yahoo Finance
 
-👁️ 1K • 👍 154 • 💬 105 • ⏱️ 14:53 • 2h ago
+👁️ 1K • 👍 154 • 💬 105 • ⏱️ 14:53 • 3h ago
 
 ---
 
@@ -343,7 +339,7 @@ Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usual
 
 📺 Digital Asset News
 
-👁️ 2K • 👍 238 • 💬 12 • ⏱️ 31:34 • 5h ago
+👁️ 2K • 👍 238 • 💬 12 • ⏱️ 31:34 • 6h ago
 
 ---
 
@@ -353,7 +349,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 104 • ⏱️ 10:40 • 19h ago
+👁️ 36K • 👍 2K • 💬 104 • ⏱️ 10:40 • 21h ago
 
 ---
 
@@ -363,7 +359,7 @@ The government promised you clarity on Bitcoin. What you actually got: developer
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 345 • ⏱️ 22:39 • 19h ago
+👁️ 20K • 👍 2K • 💬 345 • ⏱️ 22:39 • 20h ago
 
 ---
 
@@ -383,7 +379,7 @@ Watch the official fighter of Bitcoin News Alerts LIVE: https://www.elsicario.co
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 301 • 💬 262 • ⏱️ 16:11 • 20h ago
+👁️ 4K • 👍 301 • 💬 262 • ⏱️ 16:11 • 22h ago
 
 ---
 
@@ -393,7 +389,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 311 • 💬 181 • ⏱️ 10:54 • 12h ago
+👁️ 4K • 👍 311 • 💬 181 • ⏱️ 10:54 • 13h ago
 
 ---
 
@@ -423,7 +419,7 @@ My Free Trading Course https://rt1m.com/free My Trading Signals https://rt1m.com
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 204 • 💬 25 • ⏱️ 7:03 • 21h ago
+👁️ 3K • 👍 204 • 💬 25 • ⏱️ 7:03 • 23h ago
 
 ---
 

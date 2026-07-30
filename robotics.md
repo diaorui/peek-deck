@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-30T18:56:43.384238+00:00'
+updated: '2026-07-30T20:16:03.852192+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 30, 2026 at 18:56 UTC  
+**Last Updated:** July 30, 2026 at 20:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 -This is a really rough 3d model of a capstan drive robot arm I am trying to build. My plan is to use fast and high RPM motors high gear reductions to get high precision and torque. -My goal is to use capstan drives as the end speed reducer because they are low backlash and precise, and then use belt drives and maybe planetary gear boxes to get the higher gear reduction in the earlier stages. This way if there is a little bit of backlash in the planetary gear box, that backlash gets divided by 1/8th. -For the first prototype I am printing I plan to use Aaed Musa capstan design, but later when I make the final product I will design my own. -Any ideas how to improve the deign or improve the robotic arm in general? -Dimensions: 3ft ish
 
-19h ago
+21h ago
 
 ---
 
@@ -114,7 +114,7 @@ Came across the recent DexWrist paper out of MIT and some fun demos. Researchers
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
-Google DeepMind • 3h ago
+Google DeepMind • 5h ago
 
 ---
 
@@ -122,7 +122,7 @@ Google DeepMind • 3h ago
 
 Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
 
-blog.google • 3h ago
+blog.google • 5h ago
 
 ---
 
@@ -130,13 +130,15 @@ blog.google • 3h ago
 
 Gemini Robotics 2 includes three models, but only one is publicly available right now.
 
-Ars Technica • 58m ago
+Ars Technica • 2h ago
 
 ---
 
-**[Unitree to launch IPO next week as US-China robotics rivalry intensifies](https://www.scmp.com/tech/tech-trends/article/3362441/unitree-launch-ipo-next-week-us-china-robotics-rivalry-intensifies)**
+**[Robot waiters and drone deliveries: Inside China’s futuristic hardware capital](https://www.nbcnews.com/tech/tech-news/shenzhen-drones-robots-chinas-hardware-ai-capital-rcna589413)**
 
-South China Morning Post • 2h ago
+Long a symbol of China’s economic surge, Shenzhen is embracing a high-tech, low-altitude future.
+
+NBC News • 3h ago
 
 ---
 
@@ -144,13 +146,13 @@ South China Morning Post • 2h ago
 
 Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
 
-BBC • 20h ago
+bbc.com • 22h ago
 
 ---
 
 **[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
-Reuters • 1d ago
+reuters.com • 1d ago
 
 ---
 
@@ -178,9 +180,9 @@ Business Insider • 1d ago
 
 ---
 
-**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
+**[Unitree to launch IPO next week as US-China robotics rivalry intensifies](https://www.scmp.com/tech/tech-trends/article/3362441/unitree-launch-ipo-next-week-us-china-robotics-rivalry-intensifies)**
 
-Tech Xplore • 2h ago
+South China Morning Post • 3h ago
 
 ---
 
@@ -194,7 +196,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 7K • 👍 1K • 💬 131 • ⏱️ 3:00 • 3h ago
+👁️ 7K • 👍 1K • 💬 131 • ⏱️ 3:00 • 5h ago
 
 ---
 
@@ -204,7 +206,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 22K • 👍 190 • 💬 252 • ⏱️ 6:04 • 19h ago
+👁️ 22K • 👍 190 • 💬 252 • ⏱️ 6:04 • 20h ago
 
 ---
 
@@ -214,7 +216,7 @@ Multi-robot collaboration enables different types of robots to communicate and w
 
 📺 Google DeepMind
 
-👁️ 1K • 👍 178 • 💬 18 • ⏱️ 2:32 • 3h ago
+👁️ 1K • 👍 178 • 💬 18 • ⏱️ 2:32 • 5h ago
 
 ---
 
@@ -224,7 +226,7 @@ To be genuinely useful in our homes and workplaces, robots need finesse. Gemini 
 
 📺 Google DeepMind
 
-👁️ 1K • 👍 161 • 💬 19 • ⏱️ 2:17 • 3h ago
+👁️ 1K • 👍 161 • 💬 19 • ⏱️ 2:17 • 5h ago
 
 ---
 
@@ -234,7 +236,7 @@ Subscribe for more!
 
 📺 Aaron Parnas
 
-👁️ 5K • 👍 821 • 💬 133 • ⏱️ 1:01 • 52m ago
+👁️ 5K • 👍 821 • 💬 133 • ⏱️ 1:01 • 2h ago
 
 ---
 
@@ -244,7 +246,7 @@ The world is built for human movements; it requires us to reach, bend, and balan
 
 📺 Google DeepMind
 
-👁️ 4K • 👍 414 • 💬 29 • ⏱️ 2:48 • 3h ago
+👁️ 4K • 👍 414 • 💬 29 • ⏱️ 2:48 • 5h ago
 
 ---
 
@@ -274,7 +276,7 @@ China has accused the United States of suppressing Chinese companies after Washi
 
 📺 CGTN Europe
 
-👁️ 912 • 👍 59 • 💬 10 • ⏱️ 0:25 • 1h ago
+👁️ 912 • 👍 59 • 💬 10 • ⏱️ 0:25 • 2h ago
 
 ---
 
