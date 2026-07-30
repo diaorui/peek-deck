@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-30T17:27:37.201075+00:00'
+updated: '2026-07-30T18:56:43.384238+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 30, 2026 at 17:27 UTC  
+**Last Updated:** July 30, 2026 at 18:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 -This is a really rough 3d model of a capstan drive robot arm I am trying to build. My plan is to use fast and high RPM motors high gear reductions to get high precision and torque. -My goal is to use capstan drives as the end speed reducer because they are low backlash and precise, and then use belt drives and maybe planetary gear boxes to get the higher gear reduction in the earlier stages. This way if there is a little bit of backlash in the planetary gear box, that backlash gets divided by 1/8th. -For the first prototype I am printing I plan to use Aaed Musa capstan design, but later when I make the final product I will design my own. -Any ideas how to improve the deign or improve the robotic arm in general? -Dimensions: 3ft ish
 
-18h ago
+19h ago
 
 ---
 
@@ -114,7 +114,7 @@ Came across the recent DexWrist paper out of MIT and some fun demos. Researchers
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
-deepmind.google • 2h ago
+Google DeepMind • 3h ago
 
 ---
 
@@ -122,27 +122,21 @@ deepmind.google • 2h ago
 
 Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
 
-blog.google • 2h ago
+blog.google • 3h ago
 
 ---
 
-**[Google updates its AI software for robots](https://www.axios.com/2026/07/30/google-robotics-software-update)**
+**[Google reveals Gemini Robotics 2.0, promising improved dexterity and safety](https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/)**
 
-Axios • 2h ago
+Gemini Robotics 2 includes three models, but only one is publicly available right now.
 
----
-
-**[Robot waiters and drone deliveries: Inside China’s futuristic hardware capital](https://www.nbcnews.com/tech/tech-news/shenzhen-drones-robots-chinas-hardware-ai-capital-rcna589413)**
-
-Long a symbol of China’s economic surge, Shenzhen is embracing a high-tech, low-altitude future.
-
-NBC News • 25m ago
+Ars Technica • 58m ago
 
 ---
 
-**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
+**[Unitree to launch IPO next week as US-China robotics rivalry intensifies](https://www.scmp.com/tech/tech-trends/article/3362441/unitree-launch-ipo-next-week-us-china-robotics-rivalry-intensifies)**
 
-techxplore.com • 1h ago
+South China Morning Post • 2h ago
 
 ---
 
@@ -150,7 +144,7 @@ techxplore.com • 1h ago
 
 Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -168,9 +162,11 @@ MIT News • 2d ago
 
 ---
 
-**[Unitree to launch IPO next week as US-China robotics rivalry intensifies](https://www.scmp.com/tech/tech-trends/article/3362441/unitree-launch-ipo-next-week-us-china-robotics-rivalry-intensifies)**
+**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
 
-South China Morning Post • 1h ago
+Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
+
+NVIDIA Developer • 1d ago
 
 ---
 
@@ -182,9 +178,25 @@ Business Insider • 1d ago
 
 ---
 
+**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
+
+Tech Xplore • 2h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Gemini Robotics 2 brings whole body intelligence to robots](https://www.youtube.com/watch?v=4lSQnrMC6nY)**
+
+For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ...
+
+📺 Google DeepMind
+
+👁️ 7K • 👍 1K • 💬 131 • ⏱️ 3:00 • 3h ago
+
+---
 
 **[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
 
@@ -192,67 +204,47 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 18K • 👍 168 • 💬 229 • ⏱️ 6:04 • 17h ago
+👁️ 22K • 👍 190 • 💬 252 • ⏱️ 6:04 • 19h ago
 
 ---
 
-**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
+**[Multi-robot collaboration with Gemini Robotics 2](https://www.youtube.com/watch?v=CiTPDm7PKW0)**
 
-The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
+Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems.
 
-📺 KhanFlicks
+📺 Google DeepMind
 
-👁️ 1K • 💬 29 • ⏱️ 3:45 • 21h ago
-
----
-
-**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
-
-Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
-
-📺 NBC News
-
-👁️ 517K • 👍 6K • 💬 2K • ⏱️ 2:15 • 2d ago
+👁️ 1K • 👍 178 • 💬 18 • ⏱️ 2:32 • 3h ago
 
 ---
 
-**[Fei-Fei Li is Solving the Hardest Problem in Robotics | World Labs with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
+**[Advanced dexterity with Gemini Robotics 2](https://www.youtube.com/watch?v=O9-650iHAls)**
 
-Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
+To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
 
-📺 a16z
+📺 Google DeepMind
 
-👁️ 17K • 💬 26 • ⏱️ 42:21 • 2d ago
-
----
-
-**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
-
-A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
-
-📺 NewsNation
-
-👁️ 7K • 👍 187 • 💬 104 • ⏱️ 3:10 • 2d ago
+👁️ 1K • 👍 161 • 💬 19 • ⏱️ 2:17 • 3h ago
 
 ---
 
-**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
+**[New robotics company releases a centaur robot.](https://www.youtube.com/watch?v=S5NOiNhlfnE)**
 
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
+Subscribe for more!
 
-📺 CNET
+📺 Aaron Parnas
 
-👁️ 20K • 👍 558 • 💬 35 • ⏱️ 4:23 • 4d ago
+👁️ 5K • 👍 821 • 💬 133 • ⏱️ 1:01 • 52m ago
 
 ---
 
-**[I Built a Tiny AI Robot with ESP32-S3 | Xiaozhi AI Robot DIY](https://www.youtube.com/watch?v=i0nN3e4tpvE)**
+**[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
 
-In this video, I'll show you how to build a tiny AI-powered robot using the ESP32-S3 N16R8 and Xiaozhi AI. Components Used ...
+The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
 
-📺 Creative Channel
+📺 Google DeepMind
 
-👁️ 2K • 👍 283 • 💬 34 • ⏱️ 31:13 • 6h ago
+👁️ 4K • 👍 414 • 💬 29 • ⏱️ 2:48 • 3h ago
 
 ---
 
@@ -262,27 +254,37 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 28K • 👍 1K • 💬 353 • ⏱️ 1:48 • 1d ago
+👁️ 29K • 👍 1K • 💬 359 • ⏱️ 1:48 • 1d ago
 
 ---
 
-**[Anime-Looking Desktop AI Robot Companions #robot #robotics #ai](https://www.youtube.com/watch?v=fBNkNs4UarY)**
+**[Fei-Fei Li is Solving the Hardest Problem in Robotics | World Labs with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
 
-For the foreseeable future, most people who want to own a lifelike humanoid robot without going into debt will have to settle for a ...
+Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
 
-📺 Kalil 4.0
+📺 a16z
 
-👁️ 2K • 👍 94 • 💬 7 • ⏱️ 0:49 • 13h ago
+👁️ 17K • 💬 27 • ⏱️ 42:21 • 2d ago
 
 ---
 
-**[Why is the FCC banning new human-like robots from China?](https://www.youtube.com/watch?v=rao2KMyxH_0)**
+**[China Condemns US Ban on Foreign-Made Humanoid Robots](https://www.youtube.com/watch?v=vctp1Vz8_jM)**
 
-The Trump administration said it's banning new Chinese humanoid robots, topped with AI-enabled "brains," as part of an attempt ...
+China has accused the United States of suppressing Chinese companies after Washington banned imports of foreign-made ...
 
-📺 Reuters
+📺 CGTN Europe
 
-👁️ 10K • 👍 184 • 💬 81 • ⏱️ 1:27 • 1d ago
+👁️ 912 • 👍 59 • 💬 10 • ⏱️ 0:25 • 1h ago
+
+---
+
+**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
+
+A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
+
+📺 NewsNation
+
+👁️ 7K • 👍 189 • 💬 104 • ⏱️ 3:10 • 2d ago
 
 ---
 

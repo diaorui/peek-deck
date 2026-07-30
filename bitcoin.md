@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-30T17:27:37.191737+00:00'
+updated: '2026-07-30T18:56:43.374796+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 17:27 UTC  
+**Last Updated:** July 30, 2026 at 18:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,838.14
+### $64,720.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +1.2%  
-**30d:** +8.1%  
-**90d:** -17.5%  
-**1y:** -43.9%  
+**24h:** +1.8%  
+**7d:** +0.9%  
+**30d:** +7.8%  
+**90d:** -17.7%  
+**1y:** -44.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1297.60B
+**Market Cap:** $1296.99B
 Rank #1
 
-**Circulating Supply:** 20,063,312 BTC
+**Circulating Supply:** 20,063,381 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -48.7%
 
 **All-Time Low:** $67.81
-+95276.8%
++95231.1%
 
 ---
 
@@ -165,7 +165,7 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -183,15 +183,7 @@ Scott Melker discusses the Federal Reserve's latest decision to hold interest ra
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Fed Holds Rates: Here's What the Decision Means for Bitcoin, Ethereum and Altcoins in August](https://bitcoinfoundation.org/news/altcoins/fed-holds-rates-heres-what-the-decision-means-for-bitcoin-ethereum-and-altcoins-in-august/)**
-
-Find out how the latest Fed decision has impacted Bitcoin, Ethereum, and the rest of the crypto market, and where BTC could go in August
-
-Bitcoin Foundation • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -199,13 +191,37 @@ Bitcoin Foundation • 3h ago
 
 Bitcoin faced a fresh downside warning Thursday after economist and longtime crypto critic Peter Schiff said the se...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[This underrated token beats Bitcoin and Ethereum with 50% weekly gains](https://finance.yahoo.com/markets/crypto/articles/underrated-token-beats-bitcoin-ethereum-180004267.html)**
+
+While Bitcoin traded sideways near $64,000 and Ethereum struggled to hold above $1,900, one token quietly topped the weekly crypto gainers chart with a 50% move that most of the market missed entirely. Audiera's BEAT token surged 50% over the past seven days to trade near $3.79, the strongest ...
+
+Yahoo Finance • 56m ago
 
 ---
 
 **[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Radar Is Turning Your Signal Chats Into Bitcoin Payment Rails](https://www.forbes.com/sites/digital-assets/2026/07/30/radar-is-turning-your-signal-chats-into-bitcoin-payment-rails/)**
+
+The team behind Cake Wallet has launched Radar Chat, a new messaging app forked from Signal, enabling users to instantly send and receive bitcoin via encrypted messages.
+
+forbes.com • 22m ago
+
+---
+
+**[Bitcoin has closed below its 200-day MA for 270 days now; here is when to buy again](https://seekingalpha.com/news/4621875-bitcoin-has-closed-below-its-200-day-ma-for-270-days-now-here-is-when-to-buy-again)**
+
+Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -217,25 +233,11 @@ Morningstar • 2d ago
 
 ---
 
-**[Bitcoin may be showing signs of a bottom despite continued consolidation, chart analysts say](https://www.cnbc.com/2026/07/28/bitcoin-is-showing-signs-of-a-bottom-chart-analysts-say.html)**
+**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
 
-Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
+Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
 
-CNBC • 2d ago
-
----
-
-**[Prediction: Bitcoin Will Be Worth $2.5 Trillion in 3 Years](https://www.fool.com/investing/2026/07/29/prediction-bitcoin-worth-25-trillion-in-3-years/)**
-
-Bitcoin may no longer be able to deliver the stratospheric returns that it did during its early years.
-
-The Motley Fool • 18h ago
-
----
-
-**[Bitcoin falls to $64k amid rates, Iran jitters; Strategy earnings on tap](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491)**
-
-Investing.com • 10h ago
+CNBC • 3d ago
 
 ---
 
@@ -271,7 +273,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took three. Taproot locked in 41 days, then decayed for years. Measured from our own node, genesis to tip.
 
-⬆️ 2 • 💬 0 • 12h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
+⬆️ 2 • 💬 0 • 13h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
 
 ---
 
@@ -325,13 +327,23 @@ The open standard for proving any file is real, unaltered and sealed - letsseal/
 
 ## YouTube Videos: "bitcoin"
 
+**[Why Bitcoin ignored the Fed](https://www.youtube.com/watch?v=LT1kSj6oNsQ)**
+
+Bitcoin barely moved after one of the biggest macro events of the year. In this episode of The Daily Wolf, Scott Melker explains ...
+
+📺 Yahoo Finance
+
+👁️ 1K • 👍 154 • 💬 105 • ⏱️ 14:53 • 2h ago
+
+---
+
 **[NFA LIVE. Inflation Numbers Are OUT! Bitcoin Responds.](https://www.youtube.com/watch?v=HyJWQDozJlw)**
 
 Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usually does. Here's where we stand on rate hikes/cuts.
 
 📺 Digital Asset News
 
-👁️ 1K • 👍 137 • 💬 5 • ⏱️ 31:34 • 3h ago
+👁️ 2K • 👍 238 • 💬 12 • ⏱️ 31:34 • 5h ago
 
 ---
 
@@ -341,17 +353,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 89 • ⏱️ 10:40 • 18h ago
-
----
-
-**[Why Bitcoin and Market Are Freaking Out Right Now...](https://www.youtube.com/watch?v=bcjJKy_0bac)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 10K • 👍 602 • 💬 170 • ⏱️ 10:51 • 23h ago
+👁️ 36K • 👍 2K • 💬 104 • ⏱️ 10:40 • 19h ago
 
 ---
 
@@ -361,7 +363,17 @@ The government promised you clarity on Bitcoin. What you actually got: developer
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 294 • ⏱️ 22:39 • 18h ago
+👁️ 20K • 👍 2K • 💬 345 • ⏱️ 22:39 • 19h ago
+
+---
+
+**[Why Bitcoin and Market Are Freaking Out Right Now...](https://www.youtube.com/watch?v=bcjJKy_0bac)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 10K • 👍 605 • 💬 169 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -371,7 +383,7 @@ Watch the official fighter of Bitcoin News Alerts LIVE: https://www.elsicario.co
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 297 • 💬 260 • ⏱️ 16:11 • 19h ago
+👁️ 4K • 👍 301 • 💬 262 • ⏱️ 16:11 • 20h ago
 
 ---
 
@@ -381,7 +393,17 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 270 • 💬 178 • ⏱️ 10:54 • 11h ago
+👁️ 4K • 👍 311 • 💬 181 • ⏱️ 10:54 • 12h ago
+
+---
+
+**[He Just Confirmed It (BTC Holders wake up) ](https://www.youtube.com/watch?v=7bUUdmjK1SA)**
+
+Clarity ACT, BTC charts, ETH, UNISWAP, QQQ and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 15K • 👍 709 • 💬 97 • ⏱️ 12:37 • 1d ago
 
 ---
 
@@ -391,7 +413,7 @@ You won't believe what this bitcoin chart says about its downside target, that c
 
 📺 Alessio Rastani
 
-👁️ 33K • 👍 2K • 💬 824 • ⏱️ 18:15 • 2d ago
+👁️ 33K • 👍 2K • 💬 828 • ⏱️ 18:15 • 2d ago
 
 ---
 
@@ -401,27 +423,7 @@ My Free Trading Course https://rt1m.com/free My Trading Signals https://rt1m.com
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 200 • 💬 25 • ⏱️ 7:03 • 20h ago
-
----
-
-**[An Urgent Message To EVERY Bitcoin Investor](https://www.youtube.com/watch?v=QaZh_9Et_60)**
-
-Thank you to Mint Mobile for partnering with us on this video! Visit our partner https://mintmobile.yt.link/I6xc7as to get 3, 6, or 12 ...
-
-📺 The Graham Stephan Show
-
-👁️ 99K • 👍 3K • 💬 1K • ⏱️ 18:59 • 3d ago
-
----
-
-**[Bitcoin Hit by a Massive Global Sell-Off](https://www.youtube.com/watch?v=s4Z4f0IuqRw)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 814 • 💬 315 • ⏱️ 16:34 • 2d ago
+👁️ 3K • 👍 204 • 💬 25 • ⏱️ 7:03 • 21h ago
 
 ---
 
