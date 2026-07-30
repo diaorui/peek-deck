@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-30T09:13:35.200011+00:00'
+updated: '2026-07-30T11:29:07.484976+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 30, 2026 at 09:13 UTC  
+**Last Updated:** July 30, 2026 at 11:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Foreign-produced mobile ground robots added to the FCC Covered List (DA 26-786)](https://www.reddit.com/r/robotics/comments/1va1i3g/foreignproduced_mobile_ground_robots_added_to_the/)**
 
-🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 16h ago
+🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 18h ago
 
 ---
 
 **[The depth and point cloud of 3D DTOF LIDAR HM-LD1 in dark environment](https://www.reddit.com/r/robotics/comments/1va1gi3/the_depth_and_point_cloud_of_3d_dtof_lidar_hmld1/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 -This is a really rough 3d model of a capstan drive robot arm I am trying to build. My plan is to use fast and high RPM motors high gear reductions to get high precision and torque. -My goal is to use capstan drives as the end speed reducer because they are low backlash and precise, and then use belt drives and maybe planetary gear boxes to get the higher gear reduction in the earlier stages. This way if there is a little bit of backlash in the planetary gear box, that backlash gets divided by 1/8th. -For the first prototype I am printing I plan to use Aaed Musa capstan design, but later when I make the final product I will design my own. -Any ideas how to improve the deign or improve the robotic arm in general? -Dimensions: 3ft ish
 
-10h ago
+12h ago
 
 ---
 
@@ -78,7 +78,7 @@ After weeks of CAD and 3D printing, I realized that the motors I chose - Feetech
 
 Hey everyone, Just wanted to highlight a community pull request we received on our LeRobot fork (v6.1.1-beta branch). A user identified and fixed two issues in lerobot-teleoperate: Bug 1 — Missing alicia_d_leader in teleop.type: When trying to teleoperate with an Alicia-D Leader + Alicia-M Follower pair, the CLI would reject alicia_d_leader as an invalid choice. The fix adds it back to the valid options list in lerobot_teleoperate.py. Bug 2 — Missing teleop.directly_controls_robot support: When the teleoperator directly controls the robot via hardware (e.g., the leader arm is physically connected to the follower), the computer shouldn't re-send the action command — otherwise it duplicates. The flag existed in config but wasn't actually implemented in the teleoperate script. The PR adds the skip logic. PR here: https://github.com/Synria-Robotics/lerobot/pull/10 Big thanks to the contributor for the clean, well-documented fix. If you're running v6.1.1-beta with Alicia hardware, this PR is worth watching. And as always, issues and PRs are welcome!
 
-23h ago
+1d ago
 
 ---
 
@@ -114,13 +114,21 @@ Came across the recent DexWrist paper out of MIT and some fun demos. Researchers
 
 Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
 
-BBC • 11h ago
+BBC • 13h ago
 
 ---
 
 **[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
 Reuters • 1d ago
+
+---
+
+**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
+
+Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
+
+Business Insider • 18h ago
 
 ---
 
@@ -132,36 +140,6 @@ NVIDIA Developer • 1d ago
 
 ---
 
-**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
-
-Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
-
-Business Insider • 16h ago
-
----
-
-**[Robotics giant plans major expansion in Michigan](https://www.mlive.com/news/detroit/2026/07/robotics-giant-plans-major-expansion-in-michigan.html)**
-
-MLive.com • 1d ago
-
----
-
-**[Denham Springs robotics team wins Indiana Robotics Invitational](https://www.wbrz.com/news/denham-springs-robotics-team-wins-indiana-robotics-invitational/)**
-
-The Denham Springs High School robotics team won the Indiana Robotics Invitational on July 18 in Indianapolis, beating the event's top-seeded alliance in the finals.
-
-WBRZ • 1d ago
-
----
-
-**[How Brian Klos and Darragh de Stonndún Built Automated Industrial Robotics (AIR) Into an Engineering-Led Approach to American Manufacturing](https://www.usatoday.com/story/special/contributor-content/2026/07/29/how-brian-klos-and-darragh-de-stonndn-built-automated-industrial-robotics-air-into-an-engineering-le/91095756007/)**
-
-The company operates in pharmaceutical production, precision assembly, and complex systems integration, sectors where the requirements for accuracy and consistency are unforgiving and where the relationship between an automation provider and a facility operator needs to be sustained and genuinely co
-
-USA Today • 14h ago
-
----
-
 **[Making robots faster by helping them think ahead](https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728)**
 
 The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
@@ -170,9 +148,31 @@ MIT News • 2d ago
 
 ---
 
+**[US bans new foreign-made robots](https://www.cnn.com/2026/07/29/science/video/us-foreign-robot-ban-vrtc-ldn-digvid)**
+
+The US Federal Communications Commission says advanced robotics from certain foreign countries pose “an unacceptable risk to the national security of the United States.” CNN’s Mike Valerio explains why the US is banning new foreign-made robots.
+
+CNN • 22h ago
+
+---
+
+**[Robotics giant plans major expansion in Michigan](https://www.mlive.com/news/detroit/2026/07/robotics-giant-plans-major-expansion-in-michigan.html)**
+
+mlive.com • 1d ago
+
+---
+
 **[SoftBank eyes $500M Gravis Robotics deal after completing its Boston Dynamics exit](https://techfundingnews.com/softbank-eyes-500m-gravis-robotics-deal-after-completing-its-boston-dynamics-exit/)**
 
-Tech Funding News • 2d ago
+techfundingnews.com • 2d ago
+
+---
+
+**[China's Unitree Robotics eyes capacity boost to meet humanoid demand](https://asia.nikkei.com/editor-s-picks/interview/china-s-unitree-robotics-eyes-capacity-boost-to-meet-humanoid-demand)**
+
+Senior executive sees Japan as potential engineering hub
+
+Nikkei Asia • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 13K • 👍 125 • 💬 167 • ⏱️ 6:04 • 9h ago
+👁️ 15K • 👍 136 • 💬 177 • ⏱️ 6:04 • 11h ago
 
 ---
 
@@ -204,7 +204,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 KhanFlicks
 
-👁️ 973 • 💬 27 • ⏱️ 3:45 • 12h ago
+👁️ 1K • 💬 29 • ⏱️ 3:45 • 15h ago
 
 ---
 
@@ -214,7 +214,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 6K • 👍 425 • 💬 214 • ⏱️ 20:17 • 9h ago
+👁️ 7K • 👍 476 • 💬 231 • ⏱️ 20:17 • 11h ago
 
 ---
 
@@ -224,17 +224,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 487K • 👍 5K • 💬 2K • ⏱️ 2:15 • 2d ago
-
----
-
-**[Solving the Hardest Problem in Robotics | Fei-Fei Li with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
-
-Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
-
-📺 a16z
-
-👁️ 15K • 💬 24 • ⏱️ 42:21 • 1d ago
+👁️ 497K • 👍 6K • 💬 2K • ⏱️ 2:15 • 2d ago
 
 ---
 
@@ -244,7 +234,17 @@ The FDA just changed the future of surgical robotics and almost everyone is watc
 
 📺 Ross Givens
 
-👁️ 11K • 👍 617 • 💬 148 • ⏱️ 11:31 • 16h ago
+👁️ 11K • 👍 630 • 💬 181 • ⏱️ 11:31 • 19h ago
+
+---
+
+**[Solving the Hardest Problem in Robotics | Fei-Fei Li with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
+
+Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
+
+📺 a16z
+
+👁️ 16K • 💬 24 • ⏱️ 42:21 • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 7K • 👍 185 • 💬 102 • ⏱️ 3:10 • 2d ago
+👁️ 7K • 👍 186 • 💬 104 • ⏱️ 3:10 • 2d ago
 
 ---
 
@@ -264,27 +264,27 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 20K • 👍 548 • 💬 33 • ⏱️ 4:23 • 3d ago
+👁️ 20K • 👍 549 • 💬 34 • ⏱️ 4:23 • 3d ago
 
 ---
 
-**[US bans imports of new Chinese robots and power inverters in latest tech crackdown](https://www.youtube.com/watch?v=qZsrLRxlauU)**
+**[Anime-Looking Desktop AI Robot Companions #robot #robotics #ai](https://www.youtube.com/watch?v=fBNkNs4UarY)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Citing threats to US national security, the Trump ...
+For the foreseeable future, most people who want to own a lifelike humanoid robot without going into debt will have to settle for a ...
 
-📺 South China Morning Post
+📺 Kalil 4.0
 
-👁️ 26K • 👍 1K • 💬 343 • ⏱️ 1:48 • 22h ago
+👁️ 2K • 👍 67 • 💬 3 • ⏱️ 0:49 • 7h ago
 
 ---
 
-**[Jared Isaacman: NASA&#39;s Moon Base by 2028, Optimus Robots on the Moon, and 15 Years to Mars | Ep #274](https://www.youtube.com/watch?v=nV_lyWrkBs8)**
+**[Why is the FCC banning new human-like robots from China?](https://www.youtube.com/watch?v=rao2KMyxH_0)**
 
-The mates chat with Jared Isaacman on NASA's plan for a Moon base by 2028, Optimus Robots on the Moon, and exploring UAPs ...
+The Trump administration said it's banning new Chinese humanoid robots, topped with AI-enabled "brains," as part of an attempt ...
 
-📺 Peter H. Diamandis
+📺 Reuters
 
-👁️ 108K • 👍 3K • 💬 473 • ⏱️ 1:27:17 • 2d ago
+👁️ 9K • 👍 178 • 💬 80 • ⏱️ 1:27 • 1d ago
 
 ---
 

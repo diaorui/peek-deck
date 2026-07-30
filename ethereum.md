@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T09:13:35.196748+00:00'
+updated: '2026-07-30T11:29:07.482115+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 09:13 UTC  
+**Last Updated:** July 30, 2026 at 11:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,915.78
+### $1,919.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +2.8%  
-**30d:** +18.9%  
-**90d:** -17.3%  
-**1y:** -48.2%  
+**24h:** +0.8%  
+**7d:** +3.1%  
+**30d:** +19.3%  
+**90d:** -17.1%  
+**1y:** -48.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.94B
+**Market Cap:** $231.46B
 Rank #2
 
 **Circulating Supply:** 120,682,509 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.2%
 
 **All-Time Low:** $0.43
-+441607.3%
++442861.4%
 
 ---
 
@@ -96,7 +96,7 @@ The 2026 Lido Core upgrade introduces major improvements on the operator and val
 
 Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the way we design BlazePhoenix smart contracts needs to evolve. Patterns that were standard on L1 Ethereum (heavy storage usage, external oracle reliance, off-chain quoter infrastructure) often create unnecessary bottlenecks and security risks on L2. We designed an aggregator architecture built specifically around recent EVM upgrades to prove that on-chain liquidity routing can be both cheap and hyper-secure: EIP-1153 Native: Using transient storage for reentrancy and route state tracking instead of legacy storage variables. Oracle-Free Design: Eliminating third-party oracle vectors entirely by deriving real-time liquidity depth directly on-chain. Deterministic Execution: Eliminating "failed swap gas fees" by enforcing precise execution previews that mirror live EVM state. The goal is to build self-sustaining, immutable infrastructure that operates seamlessly for both human users and autonomous AI agents. Looking forward to hearing thoughts from the community on how L2-native EVM patterns are reshaping protocol design!
 
-2d ago
+3d ago
 
 ---
 
@@ -152,19 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[As crypto perpetual futures boom, Ethereum’s role is shifting](https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting)**
-
-Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
-
-CoinDesk • 15h ago
-
----
-
 **[Ethereum Foundation Board Update](https://blog.ethereum.org/2026/07/29/ef-board-update)**
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 21h ago
+blog.ethereum.org • 23h ago
+
+---
+
+**[As crypto perpetual futures boom, Ethereum’s role is shifting](https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting)**
+
+Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
+
+CoinDesk • 17h ago
 
 ---
 
@@ -172,7 +172,23 @@ ethereum.org • 21h ago
 
 Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
+**[Raoul Pal Reveals the Next 100x Crypto Trade and It Is Not Bitcoin, Ethereum or XRP](https://www.tradingview.com/news/coinpedia:54437f5c0094b:0-raoul-pal-reveals-the-next-100x-crypto-trade-and-it-is-not-bitcoin-ethereum-or-xrp/)**
+
+Raoul Pal has built a reputation for identifying macro trades before they become consensus. The former Goldman Sachs hedge fund manager and Real Vision founder is now making the case that the next crypto opportunity is not in the assets currently dominating market attention. It is in the infrastruc…
+
+TradingView • 17h ago
 
 ---
 
@@ -180,7 +196,15 @@ Yahoo Finance • 14h ago
 
 Despite being down 1% today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.
 
-Decrypt • 15h ago
+Decrypt • 18h ago
+
+---
+
+**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
+
+Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
+
+CoinMarketCap • 13h ago
 
 ---
 
@@ -192,41 +216,17 @@ The Block • 1d ago
 
 ---
 
-**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
-
-Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
-
-CoinMarketCap • 11h ago
-
----
-
 **[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
 
 BlackRock clients bought over $20 million in ETH; staking beats records.
 
-AMBCrypto • 4h ago
+AMBCrypto • 6h ago
 
 ---
 
 **[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
 
-CCN.com • 20h ago
-
----
-
-**[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 11h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC slips below support, ETH and XRP flash bearish signals](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-slips-below-support-eth-and-xrp-flash-bearish-signals-202607290331)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure on Wednesday after a mild correction earlier this week. BTC slips below a key support zone, and ETH is testing a key resistance zone. Meanwhile, XRP is drifting toward the psychologically important $1.00 support level.
-
-FXStreet • 1d ago
+CCN.com • 22h ago
 
 ---
 
@@ -234,13 +234,13 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
+**[Ethereum to $6,000 in 2027? This ETH/BTC Chart Says It’s Possible](https://www.youtube.com/watch?v=W5ZdshsNuXA)**
 
-ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
+Join My VIP Trading Group: https://www.freedomtradingacademy.com/vip-community Trade with Me on BLOFIN – Claim up to ...
 
-📺 Crypto Capital Venture
+📺 Andrea Cap  | FTA Crypto
 
-👁️ 6K • 👍 410 • 💬 296 • ⏱️ 13:14 • 8h ago
+👁️ 169 • 👍 15 • 💬 7 • ⏱️ 20:01 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 📺 Thinking Crypto
 
-👁️ 18K • 👍 1K • 💬 169 • ⏱️ 20:27 • 1d ago
+👁️ 18K • 👍 1K • 💬 186 • ⏱️ 20:27 • 1d ago
 
 ---
 
@@ -260,17 +260,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 148 • 💬 2 • ⏱️ 6:10 • 19h ago
-
----
-
-**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
-
-Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
-
-📺 The Rollup
-
-👁️ 2K • 👍 36 • 💬 6 • ⏱️ 6:40 • 1d ago
+👁️ 3K • 👍 150 • 💬 2 • ⏱️ 6:10 • 21h ago
 
 ---
 
@@ -284,23 +274,33 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 ---
 
-**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
-
-Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 676 • 💬 510 • ⏱️ 12:59 • 1d ago
-
----
-
 **[Tom Lee: Crypto Is Having Its 1934 Moment](https://www.youtube.com/watch?v=PN6l0QTFKuw)**
 
 Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1934 moment." That last idea is the subject of ...
 
 📺 Fundstrat
 
-👁️ 106K • 👍 2K • 💬 270 • ⏱️ 6:11 • 2d ago
+👁️ 107K • 👍 2K • 💬 270 • ⏱️ 6:11 • 2d ago
+
+---
+
+**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
+
+Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
+
+📺 The Rollup
+
+👁️ 2K • 👍 36 • 💬 6 • ⏱️ 6:40 • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+
+Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+
+📺 Crypto Capital Venture
+
+👁️ 13K • 👍 676 • 💬 525 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ Congress goes on recess next Friday and the Clarity Act still has not been voted
 
 📺 Schwab Network
 
-👁️ 2K • 👍 39 • 💬 63 • ⏱️ 9:18 • 11h ago
+👁️ 2K • 👍 44 • 💬 64 • ⏱️ 9:18 • 13h ago
 
 ---
 
