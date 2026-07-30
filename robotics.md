@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-29T22:32:01.241299+00:00'
+updated: '2026-07-30T00:00:17.834593+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 29, 2026 at 22:32 UTC  
+**Last Updated:** July 30, 2026 at 00:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,21 +32,29 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reddit.com/r/robotics/comments/1v9jexw/trump_administration_bans_new_chinese_humanoid/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/) • 19h ago
-
----
-
 **[Foreign-produced mobile ground robots added to the FCC Covered List (DA 26-786)](https://www.reddit.com/r/robotics/comments/1va1i3g/foreignproduced_mobile_ground_robots_added_to_the/)**
 
-🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 5h ago
+🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 7h ago
 
 ---
 
 **[The depth and point cloud of 3D DTOF LIDAR HM-LD1 in dark environment](https://www.reddit.com/r/robotics/comments/1va1gi3/the_depth_and_point_cloud_of_3d_dtof_lidar_hmld1/)**
 
-5h ago
+7h ago
+
+---
+
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reddit.com/r/robotics/comments/1v9jexw/trump_administration_bans_new_chinese_humanoid/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/) • 21h ago
+
+---
+
+**[3D model prototype of Capstan drive robotic arm. Ideas?](https://www.reddit.com/r/robotics/comments/1vacaqw/3d_model_prototype_of_capstan_drive_robotic_arm/)**
+
+-This is a really rough 3d model of a capstan drive robot arm I am trying to build. My plan is to use fast and high RPM motors high gear reductions to get high precision and torque. -My goal is to use capstan drives as the end speed reducer because they are low backlash and precise, and then use belt drives and maybe planetary gear boxes to get the higher gear reduction in the earlier stages. This way if there is a little bit of backlash in the planetary gear box, that backlash gets divided by 1/8th. -For the first prototype I am printing I plan to use Aaed Musa capstan design, but later when I make the final product I will design my own. -Any ideas how to improve the deign or improve the robotic arm in general? -Dimensions: 3ft ish
+
+48m ago
 
 ---
 
@@ -70,7 +78,7 @@ After weeks of CAD and 3D printing, I realized that the motors I chose - Feetech
 
 Hey everyone, Just wanted to highlight a community pull request we received on our LeRobot fork (v6.1.1-beta branch). A user identified and fixed two issues in lerobot-teleoperate: Bug 1 — Missing alicia_d_leader in teleop.type: When trying to teleoperate with an Alicia-D Leader + Alicia-M Follower pair, the CLI would reject alicia_d_leader as an invalid choice. The fix adds it back to the valid options list in lerobot_teleoperate.py. Bug 2 — Missing teleop.directly_controls_robot support: When the teleoperator directly controls the robot via hardware (e.g., the leader arm is physically connected to the follower), the computer shouldn't re-send the action command — otherwise it duplicates. The flag existed in config but wasn't actually implemented in the teleoperate script. The PR adds the skip logic. PR here: https://github.com/Synria-Robotics/lerobot/pull/10 Big thanks to the contributor for the clean, well-documented fix. If you're running v6.1.1-beta with Alicia hardware, this PR is worth watching. And as always, issues and PRs are welcome!
 
-13h ago
+14h ago
 
 ---
 
@@ -98,23 +106,15 @@ Came across the recent DexWrist paper out of MIT and some fun demos. Researchers
 
 ---
 
-**[We open-sourced our training setup for VLA / world-action models — Pi0.5, GR00T, DreamZero, up to 2.67x over the official repos](https://www.reddit.com/r/robotics/comments/1v94cik/we_opensourced_our_training_setup_for_vla/)**
-
-If you train VLA / world-action models, you've probably noticed the training side is kind of underbaked compared to LLMs. Usually you're stuck on each model's official repo, and throughput was never really the point there. We open-sourced LoongForge to scratch that itch. It has ready-to-run configs for Pi0.5, GR00T N1.6&N1.7, X-VLA, FastWAM, DreamZero, Lingbot-VA and a couple more. On those, we measured up to 2.67x higher training throughput over the official implementations (DreamZero 2.67x, GR00T 2.31x, Pi0.5 2.23x; the weaker cases are around 1.6x). The numbers and the setups behind them are all in the repo. Honestly I'm mostly posting because I want to know what actually breaks for you when you train these — that's what we'll work on next. github：https://github.com/baidu-baige/LoongForge
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
+**[Trump administration bans new Chinese humanoid robots](https://www.bbc.com/news/articles/cp9e2ex3ekyo)**
 
-Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
+The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
-BBC • 23m ago
+BBC • 21h ago
 
 ---
 
@@ -122,15 +122,7 @@ BBC • 23m ago
 
 Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
 
-Business Insider • 5h ago
-
----
-
-**[Trump administration bans new Chinese humanoid robots](https://www.bbc.com/news/articles/cp9e2ex3ekyo)**
-
-The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
-
-BBC • 20h ago
+Business Insider • 6h ago
 
 ---
 
@@ -138,7 +130,7 @@ BBC • 20h ago
 
 The company operates in pharmaceutical production, precision assembly, and complex systems integration, sectors where the requirements for accuracy and consistency are unforgiving and where the relationship between an automation provider and a facility operator needs to be sustained and genuinely co
 
-USA Today • 3h ago
+USA Today • 5h ago
 
 ---
 
@@ -146,7 +138,7 @@ USA Today • 3h ago
 
 Students in the Indian Creek Local School District will be heading back to the classroom in about a month, and Superintendent T.C. Chappelear said the coming sc
 
-WTOV • 2h ago
+WTOV • 4h ago
 
 ---
 
@@ -166,9 +158,9 @@ MIT News • 1d ago
 
 ---
 
-**[Robotics giant plans major expansion in Michigan](https://www.mlive.com/news/detroit/2026/07/robotics-giant-plans-major-expansion-in-michigan.html)**
+**[China sweeps global humanoid robot start-up ranking as US imposes ban](https://www.scmp.com/tech/tech-war/article/3362195/china-has-6-worlds-10-most-innovative-humanoid-robot-start-ups-report)**
 
-MLive.com • 1d ago
+South China Morning Post • 21h ago
 
 ---
 
@@ -184,7 +176,15 @@ calcalistech.com • 2d ago
 
 Senior executive sees Japan as potential engineering hub
 
-asia.nikkei.com • 1d ago
+Nikkei Asia • 1d ago
+
+---
+
+**[Light Flips Memory to Feed Hungry AI Chips With Less Energy](https://spectrum.ieee.org/ai-in-robotics)**
+
+Projecting light directly onto a chip could stream data using less energy
+
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 KhanFlicks
 
-👁️ 178 • 💬 12 • ⏱️ 3:45 • 2h ago
+👁️ 178 • 💬 12 • ⏱️ 3:45 • 3h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Trump administration announced a ban on the import of new Chinese-made advan
 
 📺 Firstpost
 
-👁️ 2K • 👍 37 • 💬 39 • ⏱️ 4:55 • 7h ago
+👁️ 2K • 👍 37 • 💬 39 • ⏱️ 4:55 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 18K • 👍 819 • 💬 200 • ⏱️ 1:48 • 11h ago
+👁️ 18K • 👍 819 • 💬 200 • ⏱️ 1:48 • 12h ago
 
 ---
 

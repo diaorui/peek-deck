@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-29T22:32:01.238626+00:00'
+updated: '2026-07-30T00:00:17.831695+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 29, 2026 at 22:32 UTC  
+**Last Updated:** July 30, 2026 at 00:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +1.5%  
-**30d:** +21.2%  
-**90d:** -17.0%  
-**1y:** -50.0%  
+**24h:** -0.3%  
+**7d:** +1.8%  
+**30d:** +21.6%  
+**90d:** -16.7%  
+**1y:** -49.8%  
 
 ---
 
@@ -156,47 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 4h ago
-
----
-
-**[Ethereum Foundation Board Update](https://blog.ethereum.org/2026/07/29/ef-board-update)**
-
-We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
-
-blog.ethereum.org • 10h ago
-
----
-
-**[$430 million in Ethereum just moved, here's why market is paying attention](https://finance.yahoo.com/markets/crypto/articles/430-million-ethereum-just-moved-210000477.html)**
-
-Something significant happened on the Ethereum blockchain on Tuesday. Whales sold or redistributed 226,435 ETH, worth approximately $430 million, in a single 24-hour window, marking one of the largest spikes in whale activity seen in recent months. The movement was flagged by crypto analyst Ali ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum Foundation Names Industry Veteran To Board Of Directors](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-names-industry-veteran-193200796.html)**
-
-The Ethereum Foundation has named a well-known industry veteran to its board of directors. ...
-
-Yahoo Finance • 3h ago
-
----
-
-**[The Ethereum Foundation Welcomes Its Newest Board Member](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-welcomes-newest-board-191639800.html)**
-
-The Ethereum Foundation adds privacy and security advocate pcaversaccio to its board.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Ethereum L2 ecosystem loses momentum as TVL drops to 2-year low](https://www.theblock.co/post/409811/ethereum-l2-ecosystem-loses-momentum-as-tvl-drops-to-two-year-low)**
-
-Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a level last seen in 2023.
-
-The Block • 1d ago
+CoinDesk • 5h ago
 
 ---
 
@@ -204,7 +164,31 @@ The Block • 1d ago
 
 Fed Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-Decrypt • 3h ago
+Decrypt • 5h ago
+
+---
+
+**[$430 million in Ethereum just moved, here's why market is paying attention](https://finance.yahoo.com/markets/crypto/articles/430-million-ethereum-just-moved-210000477.html)**
+
+Something significant happened on the Ethereum blockchain on Tuesday. Whales sold or redistributed 226,435 ETH, worth approximately $430 million, in a single 24-hour window, marking one of the largest spikes in whale activity seen in recent months. The movement was flagged by crypto analyst Ali ...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum Foundation Board Update](https://blog.ethereum.org/2026/07/29/ef-board-update)**
+
+We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
+
+ethereum.org • 11h ago
+
+---
+
+**[Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise](https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise)**
+
+Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.
+
+The Block • 2d ago
 
 ---
 
@@ -216,19 +200,33 @@ The Motley Fool • 1d ago
 
 ---
 
-**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
-
-The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
-
-TradingView • 2d ago
-
----
-
 **[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 4h ago
+Fortune • 5h ago
+
+---
+
+**[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
+
+CCN.com • 11h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC slips below support, ETH and XRP flash bearish signals](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-slips-below-support-eth-and-xrp-flash-bearish-signals-202607290331)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure on Wednesday after a mild correction earlier this week. BTC slips below a key support zone, and ETH is testing a key resistance zone. Meanwhile, XRP is drifting toward the psychologically important $1.00 support level.
+
+FXStreet • 20h ago
+
+---
+
+**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://coinpedia.org/news/how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+
+The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction
+
+Coinpedia Fintech News • 2d ago
 
 ---
 
@@ -242,7 +240,7 @@ Congress goes on recess next Friday and the Clarity Act still has not been voted
 
 📺 Schwab Network
 
-👁️ 67 • 👍 3 • ⏱️ 9:18 • 31m ago
+👁️ 67 • 👍 3 • ⏱️ 9:18 • 1h ago
 
 ---
 
@@ -252,7 +250,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 2 • ⏱️ 6:10 • 8h ago
+👁️ 2K • 👍 125 • 💬 2 • ⏱️ 6:10 • 10h ago
 
 ---
 
@@ -272,7 +270,7 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 📺 Thinking Crypto
 
-👁️ 17K • 👍 1K • 💬 162 • ⏱️ 20:27 • 19h ago
+👁️ 17K • 👍 1K • 💬 162 • ⏱️ 20:27 • 20h ago
 
 ---
 
@@ -292,7 +290,7 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 3K • 👍 91 • 💬 7 • ⏱️ 0:57 • 18h ago
+👁️ 3K • 👍 91 • 💬 7 • ⏱️ 0:57 • 19h ago
 
 ---
 
@@ -322,7 +320,7 @@ BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 134 • 💬 90 • ⏱️ 24:19 • 5h ago
+👁️ 2K • 👍 134 • 💬 90 • ⏱️ 24:19 • 6h ago
 
 ---
 
@@ -332,7 +330,7 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 29K • 👍 84 • ⏱️ 0:06 • 21h ago
+👁️ 29K • 👍 84 • ⏱️ 0:06 • 22h ago
 
 ---
 
