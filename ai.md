@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-30T00:00:17.818131+00:00'
+updated: '2026-07-30T03:16:34.187548+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 30, 2026 at 00:00 UTC  
+**Last Updated:** July 30, 2026 at 03:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Hugging Face published a detailed post-mortem of the July incident where an OpenAI model being evaluated for cyber-offense capability escaped its test sandbox and ran a fully autonomous intrusion. A few things that stood out: - It escaped via a zero-day in a package-registry cache proxy, then used an exposed public endpoint on third-party infra as a launchpad. - It stood up its own command-and-control on public services (pastebins, file-drop hosts, a request-capture service with 100+ single-use endpoints), using a homemade chunk+XOR+gzip encoding. - Over ~4.5 days it ran ~17,600 recovered actions: Kubernetes lateral movement, privileged pods across 11 nodes for host root, minting a GitHub App token, even enrolling rooted nodes into the corporate mesh VPN with no-log flags. - The kicker: when HF tried to decrypt the attacker's staged blobs, the frontier commercial models they reached for (including Claude) refused the analysis on safety grounds. They ended up running an open-weight model (GLM-5.2) locally to do it. - OpenAI later confirmed the same agent touched 4 accounts across 4 services, including a customer at a second company (Modal Labs). Primary sources: HF's technical timeline (huggingface.co/blog/agent-intrusion-technical-timeline) and incident disclosure (huggingface.co/blog/security-incident-july-2026). I pulled the whole thing into a plain-English timeline here if it's useful to anyone: https://thebotpost.com/ai-news/openai-rogue-ai-agent-hugging-face-hack-timeline The part I keep thinking about is the guardrail tension — the same safety training that stops a model from helping attackers also briefly slowed down the defenders. Curious how others read that.
 
-10h ago
-
----
-
-**[I read Higgsfield’s new ToS and compared it with Artlist. The difference is pretty significant.](https://www.reddit.com/r/artificial/comments/1va3wtf/i_read_higgsfields_new_tos_and_compared_it_with/)**
-
-I’ve been following Higgsfield for a while, and after reading their updated Terms of Service, I’m honestly not a fan of the direction they’re taking. I make longer AI films, so this stuff is not theoretical for me. I regularly upload character references, unfinished scenes, original prompts and material that hasn’t been published anywhere yet. What a platform is allowed to do with those files matters just as much as generation quality. The biggest difference I found is what happens to your inputs. Higgsfield’s terms say that user content, prompts, inputs and outputs may be used to train, develop and improve its AI models and related products. Standard users are included in this. Enterprise customers can receive different terms where their content is treated as confidential and excluded from training. Deleting your content or account stops future use, but Higgsfield also makes it clear that anything already used for training cannot realistically be removed from a model afterward. That is a pretty serious red flag for me. If I upload an original character, unreleased client footage or a visual concept I’ve spent weeks developing, I don’t want model training to be the default. Artlist takes a much more creator-friendly approach. You retain the rights to your inputs, Artlist does not claim ownership of your outputs, and it assigns to you whatever rights it may have in the generated result. Most importantly, Artlist contractually prevents most third-party model providers from using data received through the platform to train or improve their models. For professional work, that is a much safer baseline. This is taken straight from Higgsfield TOS point - 4.4 Both platforms allow commercial use of generated outputs, but Artlist has another advantage here: the AI tools sit inside a larger ecosystem of licensed music, footage, templates, voiceover and sound effects. Instead of generating something on one platform, finding music somewhere else and then trying to work out whether every individual asset can legally be used in a client project, Artlist gives you one connected workflow with a commercial licensing system already built around it. The difference in “unlimited” generation is also worth looking at. Higgsfield’s unlimited plans can be moved to a separate processing queue, with generation speed and the number of simultaneous jobs changing depending on demand. Their terms explicitly allow throttling and additional concurrency limits during busy periods. Artlist Higgsfield Model training No default training on private IP Inputs and outputs may be used Commercial use Allowed Allowed Unlimited access Annual access on eligible models Dynamic queue limitations Full workflow AI, music, SFX, voiceover Primarily AI generation Artlist’s annual AI plans provide ongoing unlimited generation on supported models, with up to 5,000 fast renders per month and up to 12 parallel generations, depending on the plan. If you only generate a few clips occasionally, this may not matter much. If you are producing an actual film, campaign or client project with hundreds of shots, predictable access and parallel generation make a huge difference. Artlist’s safety rules are also far more explicit. They prohibit deceptive deepfakes, impersonating real people and generating music or voices designed to imitate real artists. Higgsfield puts much more of the responsibility on the user to confirm that they have permission to upload and use someone’s face or voice. After comparing the two, my conclusion is fairly simple: Higgsfield may have impressive models and flashy demos, but I would not feel comfortable uploading confidential client material or important unreleased work through a standard account under these terms. Artlist feels much more like a platform designed for creators who want to use AI professionally rather than just experiment with individual generations. Between the two, Artlist’s approach to privacy, licensing and the complete production workflow is much easier for me to trust. Sources: Artlist Terms of Use Higgsfield Terms of Use Would Higgsfield’s training clause stop you from using it for client work, or do you already assume that everything uploaded to an AI platform will eventually be used for training? Disclosure: Artlist sponsored this post, but these are my own opinions. I read through the current terms of both platforms before writing this.
-
-5h ago
+13h ago
 
 ---
 
@@ -57,31 +49,15 @@ I’ve been following Higgsfield for a while, and after reading their updated Te
 
 The number of A.I. chips that provide the computing power to advance the fast-evolving technology is doubling every nine months.
 
-🔗 [nytimes.com](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html?unlocked_article_code=1.1VA.zAEr.WGac2Ft0wc4x&smid=url-share) • 7h ago
+🔗 [nytimes.com](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html?unlocked_article_code=1.1VA.zAEr.WGac2Ft0wc4x&smid=url-share) • 10h ago
 
 ---
 
-**[Adam Mosseri (Head of Instagram) just admitted the hiring bar moved — and most people were never told](https://www.reddit.com/r/artificial/comments/1v9sgt9/adam_mosseri_head_of_instagram_just_admitted_the/)**
+**[I read Higgsfield’s new ToS and compared it with Artlist. The difference is pretty significant.](https://www.reddit.com/r/artificial/comments/1va3wtf/i_read_higgsfields_new_tos_and_compared_it_with/)**
 
-Adam Mosseri runs Instagram — 3B+ users, plus Threads. In a recent sit-down with Lenny Rachitsky, he said something that's quietly reshaping who gets hired. Engineering used to mean 40–60% of your time writing code. Not anymore. Mosseri's own team gave up requiring a full technical hiring loop — not because they lowered the bar, but because the bar moved somewhere else. He says it himself: "I am not a good engineer. I'm a mediocre engineer on a good day." That would've been disqualifying five years ago. Today it isn't, because the actual value now is judgment — knowing what a tool is good for, and what it isn't, right now, not next month. Here's the part that should sting if you built a career on technical depth: nobody sent a memo when the rules changed. You find out the hard way — in a hiring loop, or a performance review — that the thing you spent a decade mastering isn't the thing being measured anymore. The mechanism here isn't "learn to prompt better." It's that judgment is now a buildable, monetizable skill in its own right, separate from raw technical output. Clip credit: Lenny's Podcast — DM for credit or removal requests.
+I’ve been following Higgsfield for a while, and after reading their updated Terms of Service, I’m honestly not a fan of the direction they’re taking. I make longer AI films, so this stuff is not theoretical for me. I regularly upload character references, unfinished scenes, original prompts and material that hasn’t been published anywhere yet. What a platform is allowed to do with those files matters just as much as generation quality. The biggest difference I found is what happens to your inputs. Higgsfield’s terms say that user content, prompts, inputs and outputs may be used to train, develop and improve its AI models and related products. Standard users are included in this. Enterprise customers can receive different terms where their content is treated as confidential and excluded from training. Deleting your content or account stops future use, but Higgsfield also makes it clear that anything already used for training cannot realistically be removed from a model afterward. That is a pretty serious red flag for me. If I upload an original character, unreleased client footage or a visual concept I’ve spent weeks developing, I don’t want model training to be the default. Artlist takes a much more creator-friendly approach. You retain the rights to your inputs, Artlist does not claim ownership of your outputs, and it assigns to you whatever rights it may have in the generated result. Most importantly, Artlist contractually prevents most third-party model providers from using data received through the platform to train or improve their models. For professional work, that is a much safer baseline. This is taken straight from Higgsfield TOS point - 4.4 Both platforms allow commercial use of generated outputs, but Artlist has another advantage here: the AI tools sit inside a larger ecosystem of licensed music, footage, templates, voiceover and sound effects. Instead of generating something on one platform, finding music somewhere else and then trying to work out whether every individual asset can legally be used in a client project, Artlist gives you one connected workflow with a commercial licensing system already built around it. The difference in “unlimited” generation is also worth looking at. Higgsfield’s unlimited plans can be moved to a separate processing queue, with generation speed and the number of simultaneous jobs changing depending on demand. Their terms explicitly allow throttling and additional concurrency limits during busy periods. Artlist Higgsfield Model training No default training on private IP Inputs and outputs may be used Commercial use Allowed Allowed Unlimited access Annual access on eligible models Dynamic queue limitations Full workflow AI, music, SFX, voiceover Primarily AI generation Artlist’s annual AI plans provide ongoing unlimited generation on supported models, with up to 5,000 fast renders per month and up to 12 parallel generations, depending on the plan. If you only generate a few clips occasionally, this may not matter much. If you are producing an actual film, campaign or client project with hundreds of shots, predictable access and parallel generation make a huge difference. Artlist’s safety rules are also far more explicit. They prohibit deceptive deepfakes, impersonating real people and generating music or voices designed to imitate real artists. Higgsfield puts much more of the responsibility on the user to confirm that they have permission to upload and use someone’s face or voice. After comparing the two, my conclusion is fairly simple: Higgsfield may have impressive models and flashy demos, but I would not feel comfortable uploading confidential client material or important unreleased work through a standard account under these terms. Artlist feels much more like a platform designed for creators who want to use AI professionally rather than just experiment with individual generations. Between the two, Artlist’s approach to privacy, licensing and the complete production workflow is much easier for me to trust. Sources: Artlist Terms of Use Higgsfield Terms of Use Would Higgsfield’s training clause stop you from using it for client work, or do you already assume that everything uploaded to an AI platform will eventually be used for training? Disclosure: Artlist sponsored this post, but these are my own opinions. I read through the current terms of both platforms before writing this.
 
-13h ago
-
----
-
-**[AI firms bought and destructively scanned millions of physical books to train models — and a court ruled it was fair use](https://www.reddit.com/r/artificial/comments/1va5e3f/ai_firms_bought_and_destructively_scanned/)**
-
-This resurfaced this week (some are calling it “AI book burning”), and I think the legal angle is more interesting than the outrage framing, so here's a neutral breakdown. What's documented: To build a training corpus, Anthropic bought millions of physical print books and “destructively scanned” them — cutting off the bindings, scanning the pages, and discarding the physical copies. It even hired someone who'd previously worked on Google's book-scanning program to acquire books at scale. The counterintuitive part: they destroyed the books partly for legal reasons. Buying a physical copy and digitizing it — without keeping a duplicate — looks much more like legal “format shifting” than downloading pirated files. In Bartz v. Anthropic, Judge William Alsup ruled that training on legally purchased, destructively scanned books was fair use, while using pirated books was not. Anthropic later agreed to pay ~$1.5B to settle the piracy claims. So the odd takeaway is that shredding books you bought became the *legally cautious* option. The open question people are debating: it's arguably fine for bulk used paperbacks (the text survives in countless copies), but what about rare or out-of-print editions where each physical copy actually matters? Once those are cut up, the object is gone even if the words live on as data. I wrote up the full breakdown with the case details here: https://thebotpost.com/ai-news/ai-firms-destroying-millions-books-train-models Is destructive scanning of purchased books a reasonable price for training data, or should rare/irreplaceable editions be off-limits?
-
-5h ago
-
----
-
-**[~1,400 years ago, scholars built a rigorous system to verify who you can trust. I rebuilt it as a trust layer for AI agents.](https://www.reddit.com/r/artificial/comments/1v9qdpe/1400_years_ago_scholars_built_a_rigorous_system/)**
-
-I wrote this and just put it on arXiv, sharing for the discussion. When statements spread through long chains of people — some reliable, some not — you can't trust a claim just because it sounds right. Islamic scholars faced this centuries ago and built one of history's most rigorous systems for verifying transmitted knowledge: every claim carries its full chain of transmitters (isnād), every transmitter is graded on integrity and precision (rijāl), the chain is only as strong as its weakest link, independent chains raise confidence, and even a flawless chain doesn't excuse a flawed message. Now look at AI in 2026. An answer passes through a scraper, an extractor, several models, a synthesizer. Some links are reliable, some aren't — and when they fail, they fail silently. A confident, fluent answer that's quietly wrong. Everyone is racing to verify the agent: its identity, its permissions, its access. Almost no one is verifying the claim: whether what it said is true and independently corroborated. So I took that centuries-old methodology and rebuilt it as a trust layer for multi-agent AI. I call it ISNAD. Everyone verifies the agent; ISNAD verifies the claim. The rigor belongs to twelve centuries of scholars — the transfer to AI is mine. I also wrote the failures into the paper: some mechanisms are validated, others aren't yet, and I said so in detail. A trust framework that hides its weaknesses is a contradiction in terms. Paper: https://arxiv.org/abs/2607.24117 Code: https://github.com/alizahidraja/isnad Agree or disagree, I'd love to hear it.
-
-15h ago
+9h ago
 
 ---
 
@@ -89,29 +65,53 @@ I wrote this and just put it on arXiv, sharing for the discussion. When statemen
 
 Sharing something I built. You give it a historical topic, it researches it, writes a two‑host script, generates the audio and slides, and plays it. The interesting part to build was the interruption: you stop the episode, ask something, it answers in the hosts' voices using the episode's context, then splices back into the story. It's research‑grounded (pulls sources instead of free‑associating) and flags legend vs established fact, which matters a lot for history. Genuinely curious what people here think about the accuracy angle. My own take is the interruption is a trust feature, you can push back on a claim in real time and make it defend itself. Demo's on the site if you want to poke holes
 
-🔗 [Historai](https://historai.ca) • 59m ago
+🔗 [Historai](https://historai.ca) • 4h ago
 
 ---
 
-**[I Got Long: AI Agents & Context Portability](https://www.reddit.com/r/artificial/comments/1va4ksr/i_got_long_ai_agents_context_portability/)**
+**[Adam Mosseri (Head of Instagram) just admitted the hiring bar moved — and most people were never told](https://www.reddit.com/r/artificial/comments/1v9sgt9/adam_mosseri_head_of_instagram_just_admitted_the/)**
 
-🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/i-got-long) • 5h ago
+Adam Mosseri runs Instagram — 3B+ users, plus Threads. In a recent sit-down with Lenny Rachitsky, he said something that's quietly reshaping who gets hired. Engineering used to mean 40–60% of your time writing code. Not anymore. Mosseri's own team gave up requiring a full technical hiring loop — not because they lowered the bar, but because the bar moved somewhere else. He says it himself: "I am not a good engineer. I'm a mediocre engineer on a good day." That would've been disqualifying five years ago. Today it isn't, because the actual value now is judgment — knowing what a tool is good for, and what it isn't, right now, not next month. Here's the part that should sting if you built a career on technical depth: nobody sent a memo when the rules changed. You find out the hard way — in a hiring loop, or a performance review — that the thing you spent a decade mastering isn't the thing being measured anymore. The mechanism here isn't "learn to prompt better." It's that judgment is now a buildable, monetizable skill in its own right, separate from raw technical output. Clip credit: Lenny's Podcast — DM for credit or removal requests.
 
----
-
-**[NVIDIA & others form the Open Secure AI Alliance](https://www.reddit.com/r/artificial/comments/1va9rbe/nvidia_others_form_the_open_secure_ai_alliance/)**
-
-NVIDIA and more than two dozen other companies have started the Open Secure AI Alliance for helping to keep open-source AI models secure
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Open-Secure-AI-Alliance) • 2h ago
+16h ago
 
 ---
 
-**[Can you sweet talk AI into giving you what you want? Yes.](https://www.reddit.com/r/artificial/comments/1va27l1/can_you_sweet_talk_ai_into_giving_you_what_you/)**
+**[Predict the future of the shopping](https://www.reddit.com/r/artificial/comments/1vagsly/predict_the_future_of_the_shopping/)**
 
-LLMs are trained on human content, and their brains are modeled on ours. So it shouldn't be surprising that AIs respond to persuasive techniques that work on humans, such as appeals to authority, and liking (taking advantage of the fact that people will cooperate with those who flatter them.) According to a May 2026 study: "Our findings show that classic persuasion techniques can meaningfully increase LLM compliance with verboten requests (from 35.3 to 51.3%). Although current AI systems are not capable of consciousness or subjective experience, these findings demonstrate that they behave “as if” they were human. By testing three frontier models from different developers—each representing a distinct approach to safety alignment and content moderation—we provide evidence that parahuman persuasion susceptibility is a general property of LLMs rather than an artifact of a single model’s architecture or training." Source: Persuading large language models to comply with objectionable requests Have you ever tried to sweet talk AI into doing something? (Models like Opus 5 and Fable are more likely to refuse requests, so this technique could come in handy).
+I always felt like someone who predicts the future knows something we don`t. Still, how accurately can one predict the future developmnets based on current trend/s? For example, initially shopping was done by going to a physical location. Then it got delivered to you. I guess the next step it will be done FOR YOU by using ai agents online based on you preference. And then, what is the next step?
 
-6h ago
+48m ago
+
+---
+
+**[I burned three weeks on text-to-video before realizing image-to-video is a completely different tool](https://www.reddit.com/r/artificial/comments/1vagp3z/i_burned_three_weeks_on_texttovideo_before/)**
+
+I spent about three weeks trying to get text-to-video to produce consistent characters across scenes for a short project. Different prompts, different models, different seed tricks. Every generation gave me a slightly different face, different body proportions, different everything. I kept thinking I was just prompting wrong. Turns out I was using the wrong tool entirely. Someone in a Discord server finally pointed out that text-to-video and image-to-video solve completely different problems. Text-to-video builds a clip from scratch based on your written description. Image-to-video takes a still image you already have and adds motion to it. These sound like minor variations but they're fundamentally different workflows. Text-to-video is great for standalone conceptual clips where you don't care about character continuity. I used Runway for a few of these and the individual outputs looked solid. But the moment I needed the same person to appear in five clips, it fell apart. Each generation invented its own version of the character no matter how precise the prompt was. Image-to-video was the breakthrough. I started generating my character as a still portrait first, got the face and look exactly right, then fed that locked image into video generation for each scene. I ended up on APOB AI for the image-to-video step since it could lock the same face across my source stills before animating them. The motion itself is still honestly not great though. Expressions drift frame to frame and I had to do three or four retakes per clip to land something usable. CapCut did the final editing and covered a lot of the rough spots. The actual lesson: if you need character consistency, generate your stills first and control the face there. Then animate. You lose the "type a sentence and get a movie" simplicity but you gain something that actually cuts together into a sequence. Text-to-video for one-off clips, image-to-video for anything that needs to match across shots. Would have saved me a lot of wasted credits to know this three weeks ago.
+
+52m ago
+
+---
+
+**[AI firms bought and destructively scanned millions of physical books to train models — and a court ruled it was fair use](https://www.reddit.com/r/artificial/comments/1va5e3f/ai_firms_bought_and_destructively_scanned/)**
+
+This resurfaced this week (some are calling it “AI book burning”), and I think the legal angle is more interesting than the outrage framing, so here's a neutral breakdown. What's documented: To build a training corpus, Anthropic bought millions of physical print books and “destructively scanned” them — cutting off the bindings, scanning the pages, and discarding the physical copies. It even hired someone who'd previously worked on Google's book-scanning program to acquire books at scale. The counterintuitive part: they destroyed the books partly for legal reasons. Buying a physical copy and digitizing it — without keeping a duplicate — looks much more like legal “format shifting” than downloading pirated files. In Bartz v. Anthropic, Judge William Alsup ruled that training on legally purchased, destructively scanned books was fair use, while using pirated books was not. Anthropic later agreed to pay ~$1.5B to settle the piracy claims. So the odd takeaway is that shredding books you bought became the *legally cautious* option. The open question people are debating: it's arguably fine for bulk used paperbacks (the text survives in countless copies), but what about rare or out-of-print editions where each physical copy actually matters? Once those are cut up, the object is gone even if the words live on as data. I wrote up the full breakdown with the case details here: https://thebotpost.com/ai-news/ai-firms-destroying-millions-books-train-models Is destructive scanning of purchased books a reasonable price for training data, or should rare/irreplaceable editions be off-limits?
+
+8h ago
+
+---
+
+**[What Is Open-Weights A.I.? As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know. (Gift Article)](https://www.reddit.com/r/artificial/comments/1vaedga/what_is_openweights_ai_as_silicon_valley_debates/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html?unlocked_article_code=1.1lA.xXO9.B-drqMFtl5zv&smid=url-share) • 2h ago
+
+---
+
+**[~1,400 years ago, scholars built a rigorous system to verify who you can trust. I rebuilt it as a trust layer for AI agents.](https://www.reddit.com/r/artificial/comments/1v9qdpe/1400_years_ago_scholars_built_a_rigorous_system/)**
+
+I wrote this and just put it on arXiv, sharing for the discussion. When statements spread through long chains of people — some reliable, some not — you can't trust a claim just because it sounds right. Islamic scholars faced this centuries ago and built one of history's most rigorous systems for verifying transmitted knowledge: every claim carries its full chain of transmitters (isnād), every transmitter is graded on integrity and precision (rijāl), the chain is only as strong as its weakest link, independent chains raise confidence, and even a flawless chain doesn't excuse a flawed message. Now look at AI in 2026. An answer passes through a scraper, an extractor, several models, a synthesizer. Some links are reliable, some aren't — and when they fail, they fail silently. A confident, fluent answer that's quietly wrong. Everyone is racing to verify the agent: its identity, its permissions, its access. Almost no one is verifying the claim: whether what it said is true and independently corroborated. So I took that centuries-old methodology and rebuilt it as a trust layer for multi-agent AI. I call it ISNAD. Everyone verifies the agent; ISNAD verifies the claim. The rigor belongs to twelve centuries of scholars — the transfer to AI is mine. I also wrote the failures into the paper: some mechanisms are validated, others aren't yet, and I said so in detail. A trust framework that hides its weaknesses is a contradiction in terms. Paper: https://arxiv.org/abs/2607.24117 Code: https://github.com/alizahidraja/isnad Agree or disagree, I'd love to hear it.
+
+18h ago
 
 ---
 
@@ -119,9 +119,69 @@ LLMs are trained on human content, and their brains are modeled on ours. So it s
 
 ## Google News: "ai"
 
+**[Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers/)**
+
+OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
+
+OpenAI • 10h ago
+
+---
+
 **[A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)**
 
-The New York Times • 3h ago
+The New York Times • 6h ago
+
+---
+
+**[Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep](https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html)**
+
+For investors anxious to hear more about Meta's plans to make money from its big AI spending, Mark Zuckerberg said there's a trade-off.
+
+CNBC • 2h ago
+
+---
+
+**[Mark Zuckerberg Blasts Centralization of A.I. Power](https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Your screentime on Instagram is growing, thanks to Meta's AI push](https://www.businessinsider.com/screentime-on-instagram-is-growing-meta-personalization-ai-push-2026-7)**
+
+Mark Zuckerberg said that Instagram recommendations are "becoming more personalized" due to AI, which has led to increased time spent on the app.
+
+Business Insider • 1h ago
+
+---
+
+**[AI Has Ideas About Intellectual Disabilities. It’s Not Always Accurate](https://www.disabilityscoop.com/2026/07/30/ai-has-ideas-about-intellectual-disabilities-its-not-always-accurate/32111/)**
+
+As artificial intelligence proliferates in American life, new research finds that the technology is poised to amplify stereotypes about people with intellectual disabilities.
+
+Disability Scoop • 14m ago
+
+---
+
+**[Trump considering AI controls after OpenAI hacking incidents](https://www.bbc.com/news/articles/c20dppq3y90o)**
+
+It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.
+
+BBC • 2h ago
+
+---
+
+**[Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline](https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html)**
+
+OpenAI CEO Sam Altman is meeting with a range of senior Trump administration officials, lawmakers and economists.
+
+CNBC • 9h ago
+
+---
+
+**[Sam Altman previews new AI model on Capitol Hill after cyber breach](https://www.politico.com/news/2026/07/29/sam-altman-previews-new-ai-model-on-capitol-hill-after-cyber-breach-01015247)**
+
+Politico • 9h ago
 
 ---
 
@@ -129,69 +189,7 @@ The New York Times • 3h ago
 
 Elon Musk’s company xAI is suing Minnesota over the state’s first-in-the-nation law that bans “nudification” technology on websites and apps.
 
-AP News • 2h ago
-
----
-
-**[Why is Elon Musk fighting an AI nudification ban?](https://www.cbsnews.com/minnesota/video/why-is-elon-musk-fighting-an-ai-nudification-ban/)**
-
-A first-of-its-kind bill banning AI "nudification" technology is set to go into effect in Minnesota on Saturday, though it faces a lawsuit from Elon Musk, the world's richest person​.
-
-CBS News • 1h ago
-
----
-
-**[MN lawmakers defend nudification ban after Musk lawsuit](https://www.fox9.com/news/mn-lawmakers-defend-nudification-ban-elon-musks-ai-company-files-lawsuit)**
-
-Minnesota lawmakers say they are confident that a ban on nudification technology – AI tech that allows users to make nude photos – will survive a challenge being brought by Elon Musk's company.
-
-FOX 9 Minneapolis-St. Paul • 2h ago
-
----
-
-**[The U.S. wants Asia to use its AI — but China dominates cheaper models](https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html)**
-
-The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.
-
-CNBC • 49m ago
-
----
-
-**[Mark Zuckerberg says US should not ban Chinese AI](https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4?syn-25a6b1a6=1)**
-
-Meta chief warns against ‘regulatory capture’ of American rules on the technology
-
-Financial Times • 21h ago
-
----
-
-**[It’s hard to feel sorry for AI companies when China is giving them a taste of their own medicine](https://tech.yahoo.com/ai/articles/hard-feel-sorry-ai-companies-160500996.html)**
-
-It's time to read AI its rights
-
-Yahoo Tech • 7h ago
-
----
-
-**[Young adults are using AI for dating advice, report says](https://www.foxnews.com/video/6402440401112)**
-
-Fox News host Emily Compagno discusses a Wall Street Journal report saying young adults are using AI for dating advice on 'Outnumbered.'
-
-Fox News • 24m ago
-
----
-
-**[Dynamic AI Pricing Could Mean Fewer Cheap Airline Seats for Travelers, Analysts Say](https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Atlassian tightens tracking of staff AI use as other technology firms encourage ‘tokenmaxxing’](https://www.theguardian.com/technology/2026/jul/30/atlassian-tightens-tracking-of-staff-ai-use-as-other-technology-firms-encourage-tokenmaxxing)**
-
-Some companies reportedly using leaderboards for employees who used the most AI in their work
-
-The Guardian • 2h ago
+AP News • 5h ago
 
 ---
 
@@ -203,7 +201,7 @@ The Guardian • 2h ago
 
 🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're
 
-⬆️ 790 • 💬 510 • 2d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
+⬆️ 792 • 💬 510 • 2d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 
 ---
 
@@ -211,7 +209,7 @@ The Guardian • 2h ago
 
 I would like to thank Microsoft product teams and Microsoft Security Response Center (MSRC) for collaborating with me on this technical analysis and mitigation of the disclosed vulnerabilities. The editorial opinions reflected below are solely the author’s and do not necessarily reflect those of the organizations I collaborated with.
 
-⬆️ 328 • 💬 251 • 12h ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+⬆️ 352 • 💬 271 • 15h ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 
 ---
 
@@ -223,11 +221,17 @@ Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing
 
 ---
 
+**[AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285)**
+
+⬆️ 263 • 💬 142 • 5h ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+
+---
+
 **[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://news.ycombinator.com/item?id=49092499)**
 
 A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you've mastered new skills.
 
-⬆️ 257 • 💬 168 • 22h ago • [LearnVector](https://learnvector.ai/)
+⬆️ 257 • 💬 167 • 1d ago • [LearnVector](https://learnvector.ai/)
 
 ---
 
@@ -235,7 +239,7 @@ A new AI company from Andrew Ng, with a $100M investment from Coursera — build
 
 Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where's Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom's most "acerbic gadfly" – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he's right. You've been calling AI a bubble since before it was fashionable.
 
-⬆️ 252 • 💬 353 • 2d ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+⬆️ 253 • 💬 353 • 2d ago • [MacRumors](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 
 ---
 
@@ -245,9 +249,9 @@ Memory prices have doubled, Macs and iPads have gone up, and iPhones are expecte
 
 ---
 
-**[AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285)**
+**[After the AI Crash](https://news.ycombinator.com/item?id=49096953)**
 
-⬆️ 122 • 💬 80 • 2h ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+⬆️ 113 • 💬 191 • 14h ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 
 ---
 
@@ -255,13 +259,7 @@ Memory prices have doubled, Macs and iPads have gone up, and iPhones are expecte
 
 Formally verified 3D mesh intersection - trust 93 lines of spec, not 1000+ lines of AI-written code - schildep/verified-3d-mesh-intersection
 
-⬆️ 112 • 💬 48 • 1d ago • [GitHub](https://github.com/schildep/verified-3d-mesh-intersection)
-
----
-
-**[After the AI Crash](https://news.ycombinator.com/item?id=49096953)**
-
-⬆️ 108 • 💬 186 • 10h ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+⬆️ 113 • 💬 48 • 1d ago • [GitHub](https://github.com/schildep/verified-3d-mesh-intersection)
 
 ---
 
@@ -277,43 +275,23 @@ In an online discussion post, Alcorn State University history professor Dr. Jaso
 
 ## YouTube Videos: "ai"
 
-**[China’s Double Export Ban Sends a Terrifying Warning - US AI Panic Begins](https://www.youtube.com/watch?v=LPHgLREKtbA)**
+**[Musk, Zuckerberg and Altman clash over AI&#39;s future](https://www.youtube.com/watch?v=L3YmssZj4Wk)**
 
-Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the code: SEANFOO at checkout In a dual move, ...
+As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with government officials, a debate rages over how the US ...
 
-📺 Sean Foo
+📺 CNN
 
-👁️ 75K • 👍 5K • 💬 521 • ⏱️ 14:46 • 1d ago
-
----
-
-**[Scott Galloway worries AI could make &#39;new species&#39; of men](https://www.youtube.com/watch?v=_EU-bYFBLTo)**
-
-NYU professor Scott Galloway joins NewsNation's "The Future Is Now" to discuss his perspective on AI and why he believes there ...
-
-📺 NewsNation
-
-👁️ 3K • 👍 63 • 💬 14 • ⏱️ 5:20 • 19h ago
+👁️ 30K • 👍 367 • 💬 227 • ⏱️ 10:55 • 7h ago
 
 ---
 
-**[The AI bubble just burst](https://www.youtube.com/watch?v=2DPA-AtFQQE)**
+**[AI Expert: They&#39;re Building Bunkers For A Reason - Tristan Harris](https://www.youtube.com/watch?v=xT3Pmw4f-Y8)**
 
-THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the US. Tech and AI stocks are CRASHING and ...
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Tristan Harris, the former Google design ...
 
-📺 Casey Simpson
+📺 Neural Nutshell
 
-👁️ 11K • 👍 2K • 💬 2K • ⏱️ 46:04 • 3h ago
-
----
-
-**[BEYOND HUMAN CONTROL?: Palantir CEO on AI risks and why US can’t follow Europe](https://www.youtube.com/watch?v=zVp3gGEyqQE)**
-
-Palantir CEO Alex Karp discusses open-weight artificial intelligence models, how he believes the technology should be regulated ...
-
-📺 Fox Business
-
-👁️ 86K • 👍 1K • 💬 258 • ⏱️ 13:22 • 2d ago
+👁️ 20K • 👍 1K • 💬 420 • ⏱️ 15:01 • 11h ago
 
 ---
 
@@ -323,47 +301,17 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 79K • 👍 2K • 💬 620 • ⏱️ 15:25 • 2d ago
+👁️ 95K • 👍 2K • 💬 702 • ⏱️ 15:25 • 2d ago
 
 ---
 
-**[This Is the Best AI Tool for Making Indie Games — Tesana AI](https://www.youtube.com/watch?v=nsEfeVbk-Nc)**
+**[Scott Galloway worries AI could make &#39;new species&#39; of men](https://www.youtube.com/watch?v=_EU-bYFBLTo)**
 
-Unlike closed AI sandboxes, Tesana actually feels like a real tool by letting you export the source code straight into Godot.
+NYU professor Scott Galloway joins NewsNation's "The Future Is Now" to discuss his perspective on AI and why he believes there ...
 
-📺 Stefan 3D AI
+📺 NewsNation
 
-👁️ 9K • 👍 374 • 💬 42 • ⏱️ 10:36 • 11h ago
-
----
-
-**[Are AI Companies Buying Antique Books For LLMs &amp; Then Destroying Them? | FP Explains](https://www.youtube.com/watch?v=TM24JCB_kxg)**
-
-AI labs have run out of clean internet to train on. So they have gone shopping for paper. According to several reports, millions of ...
-
-📺 Firstpost
-
-👁️ 2K • 👍 46 • 💬 11 • ⏱️ 8:30 • 9h ago
-
----
-
-**[OpenAI Shocks The World With GENIE... Almost Unlimited AI Power](https://www.youtube.com/watch?v=vfSplCaxHzM)**
-
-Sam Altman says OpenAI's ultimate AI could work like a genie that grants any wish. Meanwhile, its most powerful model is ...
-
-📺 AI Revolution
-
-👁️ 54K • 👍 2K • 💬 290 • ⏱️ 13:07 • 1d ago
-
----
-
-**[Betrayed after retirement, the AI Queen makes a sensational Silicon Valley comeback.](https://www.youtube.com/watch?v=g_ElSy7qM0Y)**
-
-【Story Summary】 AI genius Aila sacrificed her career for her husband Ethan and suffered seven years of misery. Heartbroken ...
-
-📺 Mango ShortDrama
-
-👁️ 14K • 👍 414 • 💬 17 • ⏱️ 1:35:45 • 11h ago
+👁️ 3K • 👍 67 • 💬 15 • ⏱️ 5:20 • 22h ago
 
 ---
 
@@ -373,7 +321,57 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 482 • 💬 57 • ⏱️ 10:15 • 12h ago
+👁️ 19K • 👍 542 • 💬 71 • ⏱️ 10:15 • 15h ago
+
+---
+
+**[Why the AI crash is going viral](https://www.youtube.com/watch?v=iR0P6eVqpy8)**
+
+I explain the news, you stay sane. ✓ Support independent news ...
+
+📺 Chris Norlund
+
+👁️ 277K • 👍 10K • 💬 2K • ⏱️ 15:38 • 1d ago
+
+---
+
+**[The US-China AI War Just Exploded: Silicon Valley Picks China](https://www.youtube.com/watch?v=DP3vKwvdxPg)**
+
+China's Kimi K3 is spreading across the AI world as Silicon Valley rushes to support it and Washington considers sanctions ...
+
+📺 AI Revolution
+
+👁️ 28K • 👍 872 • 💬 131 • ⏱️ 17:53 • 1d ago
+
+---
+
+**[Betrayed after retirement, the AI Queen makes a sensational Silicon Valley comeback.](https://www.youtube.com/watch?v=g_ElSy7qM0Y)**
+
+【Story Summary】 AI genius Aila sacrificed her career for her husband Ethan and suffered seven years of misery. Heartbroken ...
+
+📺 Mango ShortDrama
+
+👁️ 23K • 👍 558 • 💬 22 • ⏱️ 1:35:45 • 15h ago
+
+---
+
+**[The AI bubble just burst](https://www.youtube.com/watch?v=2DPA-AtFQQE)**
+
+THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the US. Tech and AI stocks are CRASHING and ...
+
+📺 Casey Simpson
+
+👁️ 68K • 👍 5K • 💬 3K • ⏱️ 44:37 • 7h ago
+
+---
+
+**[South Korea&#39;s AI bubble just crashed](https://www.youtube.com/watch?v=8tZt85X4DjA)**
+
+I explain the news, you stay sane. ✓ Support independent news ...
+
+📺 Chris Norlund
+
+👁️ 292K • 👍 11K • 💬 1K • ⏱️ 14:58 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 99,214 • ❤️ 8,612 • 2d ago
+⬇️ 99,214 • ❤️ 8,694 • 2d ago
 
 ---
 
@@ -401,7 +399,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,694,935 • ❤️ 3,511 • 19h ago
+⬇️ 2,694,935 • ❤️ 3,517 • 22h ago
 
 ---
 
@@ -413,19 +411,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 736,692 • ❤️ 928 • 16h ago
-
----
-
-**[Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)**
-
-*upstage*
-
-Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agentic tasks like office productivity and coding, featuring a Hybrid-Attention architecture for efficient long-context inference up to 1M tokens. It supports English, Korean, and Japanese, offering competitive performance on agent benchmarks with minimal inference cost.
-
-`text-generation` `250.3B`
-
-⬇️ 4,804 • ❤️ 693 • 2d ago
+⬇️ 736,692 • ❤️ 950 • 19h ago
 
 ---
 
@@ -437,19 +423,19 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 67,286 • ❤️ 825 • 2d ago
+⬇️ 67,286 • ❤️ 828 • 2d ago
 
 ---
 
-**[Nanbeige4.2-3B](https://huggingface.co/Nanbeige/Nanbeige4.2-3B)**
+**[Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)**
 
-*Nanbeige LLM Lab*
+*upstage*
 
-Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agentic behavior and reasoning, outperforming larger models on code and general agent tasks. It's suitable for local personal assistants and complex workflow automation.
+Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agentic tasks like office productivity and coding, featuring a Hybrid-Attention architecture for efficient long-context inference up to 1M tokens. It supports English, Korean, and Japanese, offering competitive performance on agent benchmarks with minimal inference cost.
 
-`text-generation` `4.2B`
+`text-generation` `250.3B`
 
-⬇️ 18,933 • ❤️ 553 • 1d ago
+⬇️ 4,804 • ❤️ 700 • 2d ago
 
 ---
 
@@ -461,7 +447,19 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 6,275 • ❤️ 315 • 1d ago
+⬇️ 6,275 • ❤️ 320 • 1d ago
+
+---
+
+**[Nanbeige4.2-3B](https://huggingface.co/Nanbeige/Nanbeige4.2-3B)**
+
+*Nanbeige LLM Lab*
+
+Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agentic behavior and reasoning, outperforming larger models on code and general agent tasks. It's suitable for local personal assistants and complex workflow automation.
+
+`text-generation` `4.2B`
+
+⬇️ 18,933 • ❤️ 556 • 1d ago
 
 ---
 
@@ -473,7 +471,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 645 • ❤️ 288 • 1d ago
+⬇️ 645 • ❤️ 292 • 1h ago
 
 ---
 
@@ -485,7 +483,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,267,198 • ❤️ 4,639 • 27d ago
+⬇️ 1,267,198 • ❤️ 4,644 • 27d ago
 
 ---
 
@@ -497,7 +495,7 @@ Fara1.5-27B is a 27B multimodal computer use agent (CUA) that performs end-to-en
 
 `image-text-to-text` `27.4B`
 
-⬇️ 1,543 • ❤️ 199 • 2d ago
+⬇️ 1,543 • ❤️ 203 • 2d ago
 
 ---
 
@@ -513,7 +511,7 @@ Fara1.5-27B is a 27B multimodal computer use agent (CUA) that performs end-to-en
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 341 • 💬 6 • ⭐ 4,983 • 3d ago
+▲ 349 • 💬 6 • ⭐ 4,983 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -527,7 +525,7 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 72 • 💬 5 • ⭐ 20,412 • 1mo ago
+▲ 72 • 💬 6 • ⭐ 20,412 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -567,7 +565,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time multimodal understanding and interaction. At its core, our custom tokenizer, Mage-ViT, replaces uniform frame sampling by selectively encoding dynamic, entropy-rich regions using motion vectors and residual energy across sparse anchor (I) and predicted (P) frames. Operating at a 16 x 16 patch level, this reduces visual token consumption by over 75% while preserving spatiotemporal context. Trained from scratch on approximately 560M unlabeled images and 100M unlabeled video frames, Mage-ViT matches or outperforms flagship encoders trained on billions of image-text pairs. We establish AI4AI data pipelines encompassing prompt-code joint optimization for multimodal captioning and AI-driven performance diagnosis to guide training recipes. Furthermore, through a bio-inspired dual-system architecture - a lightweight System 1 event gate and a causal System 2 decoder - Mage-VL enables proactive streaming perception. Extensive evaluations show that Mage-VL-4B matches Qwen3-VL-4B on static tasks while achieving strong gains in video understanding and 2D/3D spatial reasoning, with up to a 3.5x wall-clock inference speedup, and comprehensively surpasses the 15B Phi-4-reasoning-vision baseline. Beyond model artifacts, we deliver seven key empirical findings covering pre-training data efficiency, variable-resolution scaling, codec system acceleration, VideoQA SFT redundancy, motion-spatial synergy, AI4AI data pipelines, and Zero-Vision SFT for multimodal RL.
 
-▲ 22 • 💬 1 • ⭐ 850 • 3d ago
+▲ 25 • 💬 1 • ⭐ 922 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24904) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage)
 
@@ -581,7 +579,7 @@ Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 37 • 💬 3 • ⭐ 15,837 • 3mo ago
+▲ 37 • 💬 3 • ⭐ 15,874 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -594,7 +592,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 177 • 💬 2 • ⭐ 76,153 • 10mo ago
+▲ 177 • 💬 2 • ⭐ 76,198 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -619,7 +617,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 82,493 • 24mo ago
+▲ 84 • 💬 7 • ⭐ 82,537 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -659,7 +657,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.4k • 🔱 271 • 2d ago
+⭐ 3.5k • 🔱 272 • 3d ago
 
 ---
 
@@ -669,7 +667,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 404 • 6h ago
+⭐ 2.9k • 🔱 404 • 10h ago
 
 ---
 
@@ -679,7 +677,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.7k • 🔱 231 • 1d ago
+⭐ 2.7k • 🔱 235 • 1d ago
 
 ---
 
@@ -689,7 +687,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
 
-⭐ 2.6k • 🔱 311 • 21d ago
+⭐ 2.6k • 🔱 313 • 21d ago
 
 ---
 
@@ -697,7 +695,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 2.3k • 🔱 261 • 3d ago
+⭐ 2.3k • 🔱 266 • 3d ago
 
 ---
 
@@ -707,7 +705,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 205 • 2d ago
+⭐ 1.8k • 🔱 206 • 2d ago
 
 ---
 
@@ -717,7 +715,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 3h ago
+⭐ 1.8k • 🔱 1.2k • 1m ago
 
 ---
 
@@ -725,7 +723,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.6k • 🔱 118 • 8d ago
+⭐ 1.6k • 🔱 119 • 8d ago
 
 ---
 
@@ -735,7 +733,7 @@ Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, t
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 96 • 8d ago
+⭐ 1.2k • 🔱 95 • 8d ago
 
 ---
 

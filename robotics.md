@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-30T00:00:17.834593+00:00'
+updated: '2026-07-30T03:16:34.199959+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 30, 2026 at 00:00 UTC  
+**Last Updated:** July 30, 2026 at 03:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Foreign-produced mobile ground robots added to the FCC Covered List (DA 26-786)](https://www.reddit.com/r/robotics/comments/1va1i3g/foreignproduced_mobile_ground_robots_added_to_the/)**
 
-🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 7h ago
+🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 10h ago
 
 ---
 
 **[The depth and point cloud of 3D DTOF LIDAR HM-LD1 in dark environment](https://www.reddit.com/r/robotics/comments/1va1gi3/the_depth_and_point_cloud_of_3d_dtof_lidar_hmld1/)**
 
-7h ago
+10h ago
 
 ---
 
 **[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reddit.com/r/robotics/comments/1v9jexw/trump_administration_bans_new_chinese_humanoid/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/) • 21h ago
+🔗 [reuters.com](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/) • 1d ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 -This is a really rough 3d model of a capstan drive robot arm I am trying to build. My plan is to use fast and high RPM motors high gear reductions to get high precision and torque. -My goal is to use capstan drives as the end speed reducer because they are low backlash and precise, and then use belt drives and maybe planetary gear boxes to get the higher gear reduction in the earlier stages. This way if there is a little bit of backlash in the planetary gear box, that backlash gets divided by 1/8th. -For the first prototype I am printing I plan to use Aaed Musa capstan design, but later when I make the final product I will design my own. -Any ideas how to improve the deign or improve the robotic arm in general? -Dimensions: 3ft ish
 
-48m ago
+4h ago
 
 ---
 
@@ -78,7 +78,7 @@ After weeks of CAD and 3D printing, I realized that the motors I chose - Feetech
 
 Hey everyone, Just wanted to highlight a community pull request we received on our LeRobot fork (v6.1.1-beta branch). A user identified and fixed two issues in lerobot-teleoperate: Bug 1 — Missing alicia_d_leader in teleop.type: When trying to teleoperate with an Alicia-D Leader + Alicia-M Follower pair, the CLI would reject alicia_d_leader as an invalid choice. The fix adds it back to the valid options list in lerobot_teleoperate.py. Bug 2 — Missing teleop.directly_controls_robot support: When the teleoperator directly controls the robot via hardware (e.g., the leader arm is physically connected to the follower), the computer shouldn't re-send the action command — otherwise it duplicates. The flag existed in config but wasn't actually implemented in the teleoperate script. The PR adds the skip logic. PR here: https://github.com/Synria-Robotics/lerobot/pull/10 Big thanks to the contributor for the clean, well-documented fix. If you're running v6.1.1-beta with Alicia hardware, this PR is worth watching. And as always, issues and PRs are welcome!
 
-14h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Working to make a fun open source STEM robot for begginers. Uses a custom edge i
 
 Came across the recent DexWrist paper out of MIT and some fun demos. Researchers point out an interesting mechanical issue: standard serial wrists (like the ones on a UR3e or Franka) are often too stiff and bulky. In tight spaces, they force human operators into awkward, large arm movements just to reorient the gripper, which makes teleoperation slow and messy. They built a compact, decoupled parallel wrist using QDD actuators (integrated onto an AgileX Robotics PiPER base) that co-locates the pitch and yaw axes, much like a human wrist. Because it moves so much more intuitively, human teleoperation time dropped by up to 2.2x. The models trained on this cleaner data then saw a 50-76% relative improvement in success rates for contact-rich tasks. So to what extent hardware choices quietly shape robot learning data quality?
 
-1d ago
+2d ago
 
 ---
 
@@ -110,11 +110,19 @@ Came across the recent DexWrist paper out of MIT and some fun demos. Researchers
 
 ## Google News: "robotics"
 
+**[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
+
+Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
+
+BBC • 5h ago
+
+---
+
 **[Trump administration bans new Chinese humanoid robots](https://www.bbc.com/news/articles/cp9e2ex3ekyo)**
 
 The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
-BBC • 21h ago
+BBC • 1d ago
 
 ---
 
@@ -122,7 +130,7 @@ BBC • 21h ago
 
 Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
 
-Business Insider • 6h ago
+Business Insider • 10h ago
 
 ---
 
@@ -130,15 +138,15 @@ Business Insider • 6h ago
 
 The company operates in pharmaceutical production, precision assembly, and complex systems integration, sectors where the requirements for accuracy and consistency are unforgiving and where the relationship between an automation provider and a facility operator needs to be sustained and genuinely co
 
-USA Today • 5h ago
+USA Today • 8h ago
 
 ---
 
-**[$6M innovation center, robotics credentials and new hires signal big year at Indian Creek](https://wtov9.com/news/local/6m-innovation-center-robotics-credentials-and-new-hires-signal-big-year-at-indian-creek-indian-creek-robotics-program-fanuc-certification-innovation-center-jefferson-county-new-teachers-new-coaches-workforce-skills)**
+**[Clinton High School unveils new ‘Future Makers Lab’ for engineering, robotics learning](https://www.yahoo.com/news/us/articles/clinton-high-school-unveils-future-190644850.html)**
 
-Students in the Indian Creek Local School District will be heading back to the classroom in about a month, and Superintendent T.C. Chappelear said the coming sc
+CLINTON, Tenn. (WATE) — Students at Clinton High School now have a new, larger space to learn about robotics and engineering hands on, thanks to the nonprofit Heart of America and 3M. On Wednesday, An...
 
-WTOV • 4h ago
+Yahoo • 8h ago
 
 ---
 
@@ -160,7 +168,7 @@ MIT News • 1d ago
 
 **[China sweeps global humanoid robot start-up ranking as US imposes ban](https://www.scmp.com/tech/tech-war/article/3362195/china-has-6-worlds-10-most-innovative-humanoid-robot-start-ups-report)**
 
-South China Morning Post • 21h ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -176,15 +184,7 @@ calcalistech.com • 2d ago
 
 Senior executive sees Japan as potential engineering hub
 
-Nikkei Asia • 1d ago
-
----
-
-**[Light Flips Memory to Feed Hungry AI Chips With Less Energy](https://spectrum.ieee.org/ai-in-robotics)**
-
-Projecting light directly onto a chip could stream data using less energy
-
-IEEE Spectrum • 3d ago
+Nikkei Asia • 2d ago
 
 ---
 
@@ -192,33 +192,23 @@ IEEE Spectrum • 3d ago
 
 ## YouTube Videos: "robotics"
 
+**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
+
+The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
+
+📺 NBC News
+
+👁️ 4K • 👍 62 • 💬 76 • ⏱️ 6:04 • 3h ago
+
+---
+
 **[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
 
 The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
 
 📺 KhanFlicks
 
-👁️ 178 • 💬 12 • ⏱️ 3:45 • 3h ago
-
----
-
-**[US Bans Chinese Robots &amp; Power Inverters: Here&#39;s Why | FP Explains](https://www.youtube.com/watch?v=yDp9rFiqJrM)**
-
-The Trump administration announced a ban on the import of new Chinese-made advanced robots into the United States, citing ...
-
-📺 Firstpost
-
-👁️ 2K • 👍 37 • 💬 39 • ⏱️ 4:55 • 8h ago
-
----
-
-**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
-
-Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
-
-📺 NBC News
-
-👁️ 357K • 👍 4K • 💬 2K • ⏱️ 2:15 • 1d ago
+👁️ 542 • 💬 26 • ⏱️ 3:45 • 6h ago
 
 ---
 
@@ -228,7 +218,17 @@ Last week, World Labs announced its acquisition of SceniX, bringing together two
 
 📺 a16z
 
-👁️ 13K • 💬 20 • ⏱️ 42:21 • 1d ago
+👁️ 14K • 💬 23 • ⏱️ 42:21 • 1d ago
+
+---
+
+**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
+
+Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
+
+📺 NBC News
+
+👁️ 409K • 👍 5K • 💬 2K • ⏱️ 2:15 • 2d ago
 
 ---
 
@@ -238,27 +238,7 @@ A tech company that specializes in building autonomous robots wants to make Amer
 
 📺 NewsNation
 
-👁️ 6K • 👍 173 • 💬 101 • ⏱️ 3:10 • 2d ago
-
----
-
-**[AGIBOT A3 Revealed Future Humanoid Robot Technology Unboxing](https://www.youtube.com/watch?v=mv4eXwJ05So)**
-
-The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanced artificial intelligence, impressive mobility ...
-
-📺 DPCcars
-
-👁️ 3K • 👍 30 • 💬 7 • ⏱️ 2:46 • 1d ago
-
----
-
-**[Meet the Humanoid Robot with &#39;Smart Skin&#39; (I Touched It)](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 19K • 👍 522 • 💬 28 • ⏱️ 4:23 • 3d ago
+👁️ 7K • 👍 180 • 💬 102 • ⏱️ 3:10 • 2d ago
 
 ---
 
@@ -268,17 +248,17 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 18K • 👍 819 • 💬 200 • ⏱️ 1:48 • 12h ago
+👁️ 22K • 👍 983 • 💬 279 • ⏱️ 1:48 • 16h ago
 
 ---
 
-**[A Silicon Valley company with Eric Trump as an advisor is making robot soldiers](https://www.youtube.com/watch?v=9O2iIZt25p4)**
+**[USA Banning Chinese Humanoid Robots - America Can&#39;t Compete with China](https://www.youtube.com/watch?v=QZLrwIAYiZU)**
 
-One Silicon Valley company thinks that robot soldiers are the future of warfare. Eric Trump is an advisor and they've already got a ...
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
 
-📺 NBC News
+📺 Eli the Computer Guy
 
-👁️ 17K • 👍 176 • 💬 96 • ⏱️ 5:29 • 6d ago
+👁️ 3K • 👍 246 • 💬 135 • ⏱️ 20:17 • 3h ago
 
 ---
 
@@ -288,7 +268,27 @@ In this episode of Munro Live, we perform a complete teardown of the Inspire Rob
 
 📺 Munro Live
 
-👁️ 19K • 👍 183 • 💬 14 • ⏱️ 20:04 • 1d ago
+👁️ 20K • 👍 191 • 💬 14 • ⏱️ 20:04 • 1d ago
+
+---
+
+**[These TITAN GUNS are totally COOKED Now in War Robots](https://www.youtube.com/watch?v=RYdMNbJ7UKw)**
+
+War Robots Gameplay: Venire and Vincere are COOKED - WR 12.2 nerf My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 8K • 👍 388 • 💬 118 • ⏱️ 12:07 • 15h ago
+
+---
+
+**[Why is the FCC banning new human-like robots from China?](https://www.youtube.com/watch?v=rao2KMyxH_0)**
+
+The Trump administration said it's banning new Chinese humanoid robots, topped with AI-enabled "brains," as part of an attempt ...
+
+📺 Reuters
+
+👁️ 8K • 👍 169 • 💬 74 • ⏱️ 1:27 • 1d ago
 
 ---
 

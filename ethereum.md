@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T00:00:17.831695+00:00'
+updated: '2026-07-30T03:16:34.197776+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 00:00 UTC  
+**Last Updated:** July 30, 2026 at 03:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,909.41
+### $1,913.63
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +1.8%  
-**30d:** +21.6%  
-**90d:** -16.7%  
-**1y:** -49.8%  
+**24h:** +0.4%  
+**7d:** +2.7%  
+**30d:** +18.8%  
+**90d:** -17.4%  
+**1y:** -48.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.05B
+**Market Cap:** $230.12B
 Rank #2
 
-**Circulating Supply:** 120,682,557 ETH
+**Circulating Supply:** 120,682,509 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -61.5%
 
 **All-Time Low:** $0.43
-+440126.9%
++440180.0%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 5h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -164,15 +164,19 @@ CoinDesk • 5h ago
 
 Fed Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
 
-Decrypt • 5h ago
+Decrypt • 8h ago
 
 ---
 
-**[$430 million in Ethereum just moved, here's why market is paying attention](https://finance.yahoo.com/markets/crypto/articles/430-million-ethereum-just-moved-210000477.html)**
+**[Ethereum and solana are getting busier — and cheaper. What's going on?](https://finance.yahoo.com/video/ethereum-solana-getting-busier-cheaper-173000356.html)**
 
-Something significant happened on the Ethereum blockchain on Tuesday. Whales sold or redistributed 226,435 ETH, worth approximately $430 million, in a single 24-hour window, marking one of the largest spikes in whale activity seen in recent months. The movement was flagged by crypto analyst Ali ...
+Ethereum (ETH-USD) and solana (SOL-USD) are getting busier and cheaper, even as token prices fall, according to Bitwise.
 
-Yahoo Finance • 3h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,15 +184,23 @@ Yahoo Finance • 3h ago
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 11h ago
+ethereum.org • 15h ago
 
 ---
 
-**[Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise](https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise)**
+**[Ethereum L2 ecosystem loses momentum as TVL drops to 2-year low](https://www.theblock.co/post/409811/ethereum-l2-ecosystem-loses-momentum-as-tvl-drops-to-two-year-low)**
 
-Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.
+Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a level last seen in 2023.
 
-The Block • 2d ago
+The Block • 1d ago
+
+---
+
+**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
+
+Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
+
+CoinMarketCap • 1d ago
 
 ---
 
@@ -200,33 +212,25 @@ The Motley Fool • 1d ago
 
 ---
 
+**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://www.tradingview.com/news/coinpedia:4b5f966f2094b:0-how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
+
+The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction markets may be overstating its chances of passing. While markets currently assign the bill roughly 47% to 50% odds of becoming law, Tapscott said…
+
+TradingView • 2d ago
+
+---
+
 **[Current price of Ethereum for July 29, 2026](https://fortune.com/article/price-of-ethereum-07-29-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 8h ago
 
 ---
 
 **[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
 
-CCN.com • 11h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC slips below support, ETH and XRP flash bearish signals](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-slips-below-support-eth-and-xrp-flash-bearish-signals-202607290331)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure on Wednesday after a mild correction earlier this week. BTC slips below a key support zone, and ETH is testing a key resistance zone. Meanwhile, XRP is drifting toward the psychologically important $1.00 support level.
-
-FXStreet • 20h ago
-
----
-
-**[How Will Bitcoin, Ethereum and XRP React if CLARITY Act Passes or Fails?](https://coinpedia.org/news/how-will-bitcoin-ethereum-and-xrp-react-if-clarity-act-passes-or-fails/)**
-
-The CLARITY Act has become a major regulatory focus for the crypto industry. However, Alex Tapscott, CEO of CMCC Global Capital Markets, said prediction
-
-Coinpedia Fintech News • 2d ago
+CCN.com • 14h ago
 
 ---
 
@@ -234,13 +238,13 @@ Coinpedia Fintech News • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Congressional Recess Looms Over Clarity Act &amp; Bitcoin, Ethereum&#39;s &quot;Relative Strength&quot;](https://www.youtube.com/watch?v=d4lk4RdEo3o)**
+**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
 
-Congress goes on recess next Friday and the Clarity Act still has not been voted on by the Senate. @CharlesSchwab's Nathan ...
+Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
 
-📺 Schwab Network
+📺 Thinking Crypto
 
-👁️ 67 • 👍 3 • ⏱️ 9:18 • 1h ago
+👁️ 18K • 👍 1K • 💬 164 • ⏱️ 20:27 • 23h ago
 
 ---
 
@@ -250,7 +254,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 2 • ⏱️ 6:10 • 10h ago
+👁️ 2K • 👍 133 • 💬 2 • ⏱️ 6:10 • 13h ago
 
 ---
 
@@ -260,17 +264,7 @@ Tom Lee joined CNBC's Power Lunch to explain why he thinks crypto is having a "1
 
 📺 Fundstrat
 
-👁️ 100K • 👍 2K • 💬 263 • ⏱️ 6:11 • 2d ago
-
----
-
-**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
-
-Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
-
-📺 Thinking Crypto
-
-👁️ 17K • 👍 1K • 💬 162 • ⏱️ 20:27 • 20h ago
+👁️ 103K • 👍 2K • 💬 266 • ⏱️ 6:11 • 2d ago
 
 ---
 
@@ -290,7 +284,7 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 3K • 👍 91 • 💬 7 • ⏱️ 0:57 • 19h ago
+👁️ 3K • 👍 106 • 💬 7 • ⏱️ 0:57 • 23h ago
 
 ---
 
@@ -300,7 +294,7 @@ Are these fear headlines driving Bitcoin price analysis or just market manipulat
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 669 • 💬 509 • ⏱️ 12:59 • 1d ago
+👁️ 13K • 👍 673 • 💬 510 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -314,23 +308,33 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 ---
 
-**[BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QBZ4BBrw0y4)**
-
-BITCOIN EMERGENCY UPDATE: FED MEETING TODAY!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 134 • 💬 90 • ⏱️ 24:19 • 6h ago
-
----
-
 **[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
 
 A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
 
 📺 Giving Hearts
 
-👁️ 29K • 👍 84 • ⏱️ 0:06 • 22h ago
+👁️ 34K • 👍 91 • ⏱️ 0:06 • 1d ago
+
+---
+
+**[FOMC Update (What to expect) , ETH Whales Accumulate BIG, KOSPI Crash Explained](https://www.youtube.com/watch?v=xklq09auod0)**
+
+Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Sign-up to the Mango Dashboard: ...
+
+📺 Mango Research
+
+👁️ 408 • 👍 33 • 💬 2 • ⏱️ 16:58 • 8h ago
+
+---
+
+**[🤨 ESTÁN COMPRANDO TODO EL ETHEREUM ¿POR QUÉ?](https://www.youtube.com/watch?v=U739KhxOCbM)**
+
+Es Ethereum la altcoin con MAS POTENCIAL pero ignorada por el retail?, las tesorerías como Bitmine están comprando todo lo ...
+
+📺 Value Index · Bitcoin y Mercados
+
+👁️ 4K • 👍 324 • 💬 59 • ⏱️ 9:23 • 2d ago
 
 ---
 
