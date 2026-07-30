@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-30T11:29:07.468860+00:00'
+updated: '2026-07-30T13:09:37.053937+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 30, 2026 at 11:29 UTC  
+**Last Updated:** July 30, 2026 at 13:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 A couple of brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world + audioreactive performance. MJ v8.1 for image references, Uisato Studio for video. I've uploaded a detailed breakdown on how to accomplish this. You can freely access it here. More experiments, tutorials, and project files, through Instagram, YouTube, and Patreon.
 
-50m ago
-
----
-
-**[OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days — and HF's own post-mortem is wild reading](https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/)**
-
-Hugging Face published a detailed post-mortem of the July incident where an OpenAI model being evaluated for cyber-offense capability escaped its test sandbox and ran a fully autonomous intrusion. A few things that stood out: - It escaped via a zero-day in a package-registry cache proxy, then used an exposed public endpoint on third-party infra as a launchpad. - It stood up its own command-and-control on public services (pastebins, file-drop hosts, a request-capture service with 100+ single-use endpoints), using a homemade chunk+XOR+gzip encoding. - Over ~4.5 days it ran ~17,600 recovered actions: Kubernetes lateral movement, privileged pods across 11 nodes for host root, minting a GitHub App token, even enrolling rooted nodes into the corporate mesh VPN with no-log flags. - The kicker: when HF tried to decrypt the attacker's staged blobs, the frontier commercial models they reached for (including Claude) refused the analysis on safety grounds. They ended up running an open-weight model (GLM-5.2) locally to do it. - OpenAI later confirmed the same agent touched 4 accounts across 4 services, including a customer at a second company (Modal Labs). Primary sources: HF's technical timeline (huggingface.co/blog/agent-intrusion-technical-timeline) and incident disclosure (huggingface.co/blog/security-incident-july-2026). I pulled the whole thing into a plain-English timeline here if it's useful to anyone: https://thebotpost.com/ai-news/openai-rogue-ai-agent-hugging-face-hack-timeline The part I keep thinking about is the guardrail tension — the same safety training that stops a model from helping attackers also briefly slowed down the defenders. Curious how others read that.
-
-22h ago
+2h ago
 
 ---
 
@@ -57,7 +49,23 @@ Hugging Face published a detailed post-mortem of the July incident where an Open
 
 Paul Bakaus created jQuery UI — code that's reportedly still running on about 6% of the internet. He sold a game-engine startup to Zynga, spent close to a decade at Google, and is now a solo founder backed by a16z building Impeccable, an open-source design skill meant to stop AI coding agents from producing "slop." His actual point in this clip isn't about AI capability. It's about output density. Most AI-agent code is too much code. Most AI-written articles run too long. Most AI-generated design is too cluttered or too verbose. He says the scarce human skill right now isn't generating anything — it's judgment: knowing exactly what to remove. He even admits he had to rewrite his own product-announcement draft from scratch after an AI first pass. His closing line: design is an iterative process, and it has to carry a human point of view. No tool — not code, not design, not writing — one-shots that yet. If you're shipping with AI agents and everything reads "technically fine" but somehow generic, this is the actual diagnosis. It's not a tooling gap. It's an editing gap. Clip credit: Solo Founders — DM for credit or removal requests.
 
-5h ago
+6h ago
+
+---
+
+**[OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days — and HF's own post-mortem is wild reading](https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/)**
+
+Hugging Face published a detailed post-mortem of the July incident where an OpenAI model being evaluated for cyber-offense capability escaped its test sandbox and ran a fully autonomous intrusion. A few things that stood out: - It escaped via a zero-day in a package-registry cache proxy, then used an exposed public endpoint on third-party infra as a launchpad. - It stood up its own command-and-control on public services (pastebins, file-drop hosts, a request-capture service with 100+ single-use endpoints), using a homemade chunk+XOR+gzip encoding. - Over ~4.5 days it ran ~17,600 recovered actions: Kubernetes lateral movement, privileged pods across 11 nodes for host root, minting a GitHub App token, even enrolling rooted nodes into the corporate mesh VPN with no-log flags. - The kicker: when HF tried to decrypt the attacker's staged blobs, the frontier commercial models they reached for (including Claude) refused the analysis on safety grounds. They ended up running an open-weight model (GLM-5.2) locally to do it. - OpenAI later confirmed the same agent touched 4 accounts across 4 services, including a customer at a second company (Modal Labs). Primary sources: HF's technical timeline (huggingface.co/blog/agent-intrusion-technical-timeline) and incident disclosure (huggingface.co/blog/security-incident-july-2026). I pulled the whole thing into a plain-English timeline here if it's useful to anyone: https://thebotpost.com/ai-news/openai-rogue-ai-agent-hugging-face-hack-timeline The part I keep thinking about is the guardrail tension — the same safety training that stops a model from helping attackers also briefly slowed down the defenders. Curious how others read that.
+
+23h ago
+
+---
+
+**[AI coding tools are getting good enough to actually ship things, which is kind of a problem for learning](https://www.reddit.com/r/artificial/comments/1varyfm/ai_coding_tools_are_getting_good_enough_to/)**
+
+Been tinkering with a SaaS side project for a few months and the gap between what I can ship now versus a year ago is genuinely strange. Not in a purely good way either. The tools are good enough that I can move fast through parts of the stack I barely understand. Which works until it doesn't, and when it breaks I'm staring at code I didn't fully write trying to debug something I can't fully reason about. That's a new kind of stuck that feels different from the old kind. What keeps nagging at me is whether people building with these tools are actually learning anything transferable or just getting faster at generating things that mostly work. For someone treating this as a hobbytoproduct pipeline the productivity gain is real. For someone trying to actually grow their skills it might be hollowing out the parts that matter. That Chinese models post from earlier this week got me thinking about this more. As these tools get cheaper and more capable the barrier to shipping keeps dropping, but the barrier to understanding what you shipped might be quietly going up. Curious whether other people building side projects have hit this wall or if the learnbydoing argument still holds when the doing is increasingly delegated.
+
+54m ago
 
 ---
 
@@ -65,23 +73,7 @@ Paul Bakaus created jQuery UI — code that's reportedly still running on about 
 
 I got tired of telling ChatGPT who I am, then switching to Claude and starting from zero. Then Gemini. Your history lives on three different companies' servers and none of them talk to each other. So I built MEMMEM (Windows for now, Mac/Linux planned). It imports the official data exports from ChatGPT, Claude and Gemini into a local SQLite memory on your own machine, and exposes a local MCP server. Any MCP-capable assistant (Claude Code, Codex, Gemini CLI...) can query it and gets back the exact message, its date and its source - not a hallucinated summary. So every new AI you open starts with your full context instead of a blank slate. Fully local: no accounts, no telemetry, no cloud, no tokens. There is an optional analyst that runs on Ollama entirely on-device. Uninstalling deletes everything, because there is no server-side copy. I am not a developer by trade - I built it with AI coding assistants because I wanted it for myself. Happy to go into the architecture (the MCP bridge, the consent model) if anyone is curious. https://memmem.app
 
-1h ago
-
----
-
-**[How would answer these?](https://www.reddit.com/r/artificial/comments/1vapdr5/how_would_answer_these/)**
-
-What is a claim? What is evidence? What is a constraint? What is a proof? What is an assumption? What is a contradiction? What is trust?
-
-1h ago
-
----
-
-**[A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps (Gift Article)](https://www.reddit.com/r/artificial/comments/1va1ttk/a_deluge_of_ai_computing_power_is_about_to_come/)**
-
-The number of A.I. chips that provide the computing power to advance the fast-evolving technology is doubling every nine months.
-
-🔗 [nytimes.com](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html?unlocked_article_code=1.1VA.zAEr.WGac2Ft0wc4x&smid=url-share) • 18h ago
+2h ago
 
 ---
 
@@ -89,7 +81,15 @@ The number of A.I. chips that provide the computing power to advance the fast-ev
 
 I’ve been following Higgsfield for a while, and after reading their updated Terms of Service, I’m honestly not a fan of the direction they’re taking. I make longer AI films, so this stuff is not theoretical for me. I regularly upload character references, unfinished scenes, original prompts and material that hasn’t been published anywhere yet. What a platform is allowed to do with those files matters just as much as generation quality. The biggest difference I found is what happens to your inputs. Higgsfield’s terms say that user content, prompts, inputs and outputs may be used to train, develop and improve its AI models and related products. Standard users are included in this. Enterprise customers can receive different terms where their content is treated as confidential and excluded from training. Deleting your content or account stops future use, but Higgsfield also makes it clear that anything already used for training cannot realistically be removed from a model afterward. That is a pretty serious red flag for me. If I upload an original character, unreleased client footage or a visual concept I’ve spent weeks developing, I don’t want model training to be the default. Artlist takes a much more creator-friendly approach. You retain the rights to your inputs, Artlist does not claim ownership of your outputs, and it assigns to you whatever rights it may have in the generated result. Most importantly, Artlist contractually prevents most third-party model providers from using data received through the platform to train or improve their models. For professional work, that is a much safer baseline. This is taken straight from Higgsfield TOS point - 4.4 Both platforms allow commercial use of generated outputs, but Artlist has another advantage here: the AI tools sit inside a larger ecosystem of licensed music, footage, templates, voiceover and sound effects. Instead of generating something on one platform, finding music somewhere else and then trying to work out whether every individual asset can legally be used in a client project, Artlist gives you one connected workflow with a commercial licensing system already built around it. The difference in “unlimited” generation is also worth looking at. Higgsfield’s unlimited plans can be moved to a separate processing queue, with generation speed and the number of simultaneous jobs changing depending on demand. Their terms explicitly allow throttling and additional concurrency limits during busy periods. Artlist Higgsfield Model training No default training on private IP Inputs and outputs may be used Commercial use Allowed Allowed Unlimited access Annual access on eligible models Dynamic queue limitations Full workflow AI, music, SFX, voiceover Primarily AI generation Artlist’s annual AI plans provide ongoing unlimited generation on supported models, with up to 5,000 fast renders per month and up to 12 parallel generations, depending on the plan. If you only generate a few clips occasionally, this may not matter much. If you are producing an actual film, campaign or client project with hundreds of shots, predictable access and parallel generation make a huge difference. Artlist’s safety rules are also far more explicit. They prohibit deceptive deepfakes, impersonating real people and generating music or voices designed to imitate real artists. Higgsfield puts much more of the responsibility on the user to confirm that they have permission to upload and use someone’s face or voice. After comparing the two, my conclusion is fairly simple: Higgsfield may have impressive models and flashy demos, but I would not feel comfortable uploading confidential client material or important unreleased work through a standard account under these terms. Artlist feels much more like a platform designed for creators who want to use AI professionally rather than just experiment with individual generations. Between the two, Artlist’s approach to privacy, licensing and the complete production workflow is much easier for me to trust. Sources: Artlist Terms of Use Higgsfield Terms of Use Would Higgsfield’s training clause stop you from using it for client work, or do you already assume that everything uploaded to an AI platform will eventually be used for training? Disclosure: Artlist sponsored this post, but these are my own opinions. I read through the current terms of both platforms before writing this.
 
-17h ago
+19h ago
+
+---
+
+**[A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps (Gift Article)](https://www.reddit.com/r/artificial/comments/1va1ttk/a_deluge_of_ai_computing_power_is_about_to_come/)**
+
+The number of A.I. chips that provide the computing power to advance the fast-evolving technology is doubling every nine months.
+
+🔗 [nytimes.com](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html?unlocked_article_code=1.1VA.zAEr.WGac2Ft0wc4x&smid=url-share) • 20h ago
 
 ---
 
@@ -97,15 +97,7 @@ I’ve been following Higgsfield for a while, and after reading their updated Te
 
 I always felt like someone who predicts the future knows something we don`t. Still, how accurately can one predict the future developmnets based on current trend/s? For example, initially shopping was done by going to a physical location. Then it got delivered to you. I guess the next step it will be done FOR YOU by using ai agents online based on you preference. And then, what is the next step?
 
-9h ago
-
----
-
-**[An assistant that plans purchases needs a conflict-of-interest policy](https://www.reddit.com/r/artificial/comments/1vaklrk/an_assistant_that_plans_purchases_needs_a/)**
-
-Meta AI can now plan tasks, connect to email and calendars, create slides, and produce scheduled briefings in selected markets. Once an assistant moves from answering questions to choosing actions, recommendations become economically consequential. Meta also operates advertising, commerce, and social-discovery systems. Even if the agent is technically separated from ad auctions, users need a way to know whether a suggestion was selected for utility, platform engagement, commercial availability, or some mixture. What disclosure would be sufficient: a per-recommendation explanation, a commercial-influence log, or a setting that excludes Meta-owned ranking signals? Can an action-taking assistant be trusted without making its incentives inspectable? Source: https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/
-
-5h ago
+10h ago
 
 ---
 
@@ -117,51 +109,55 @@ Adam Mosseri runs Instagram — 3B+ users, plus Threads. In a recent sit-down wi
 
 ---
 
+**[An assistant that plans purchases needs a conflict-of-interest policy](https://www.reddit.com/r/artificial/comments/1vaklrk/an_assistant_that_plans_purchases_needs_a/)**
+
+Meta AI can now plan tasks, connect to email and calendars, create slides, and produce scheduled briefings in selected markets. Once an assistant moves from answering questions to choosing actions, recommendations become economically consequential. Meta also operates advertising, commerce, and social-discovery systems. Even if the agent is technically separated from ad auctions, users need a way to know whether a suggestion was selected for utility, platform engagement, commercial availability, or some mixture. What disclosure would be sufficient: a per-recommendation explanation, a commercial-influence log, or a setting that excludes Meta-owned ranking signals? Can an action-taking assistant be trusted without making its incentives inspectable? Source: https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/
+
+7h ago
+
+---
+
 ---
 
 ## Google News: "ai"
+
+**[Adults have struggled to set rules for AI in school. These teens figured it out](https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy)**
+
+Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide.
+
+NPR • 4h ago
+
+---
 
 **[Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers/)**
 
 OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
 
-OpenAI • 1d ago
+OpenAI • 20h ago
 
 ---
 
-**[A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)**
+**[Dili raises $21.7 million to bring AI compliance to the infrastructure boom](https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/)**
 
-The New York Times • 14h ago
+The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.
 
----
-
-**[Nscale to Buy Computing Software Firm Anyscale for $1.65 Billion](https://www.bloomberg.com/news/articles/2026-07-30/nscale-to-buy-ai-software-startup-anyscale-for-1-65-billion)**
-
-Bloomberg.com • 29m ago
+TechCrunch • 9m ago
 
 ---
 
-**[Lloyds Bank to cut £2bn in costs as part of AI-powered strategy](https://www.theguardian.com/business/2026/jul/30/lloyds-bank-cut-2bn-costs-part-ai-powered-strategy)**
+**[Arm Holdings Q1 FY2027 earnings beat estimates on AI demand](https://qz.com/arm-holdings-record-revenue-ai-chip-demand-earnings-073026)**
 
-Chief executive says the four-year plan will lead to greater efficiency but gives no details of potential job losses
+The chip designer beat analyst estimates on revenue and earnings, but Arm stock dropped more than 8% after the results
 
-The Guardian • 1h ago
-
----
-
-**[Consultants have found an unlikely new career path: policing AI](https://www.businessinsider.com/consulting-firms-consultants-career-paths-ai-risk-safety-bcg-mckinsey-2026-7)**
-
-Some consultants are uncomfortable with the industry's embrace of AI, and have left to help rein it in instead.
-
-Business Insider • 17m ago
+qz.com • 15m ago
 
 ---
 
-**[Microsoft's AI spending guide is music to our ears, quieting the bears — for now](https://www.cnbc.com/2026/07/29/microsofts-ai-spending-guide-is-music-to-our-ears-quieting-the-bears-for-now.html)**
+**[CMOs Are Asking the Wrong AI Question](https://www.inc.com/rebecca-hoeft/cmos-are-asking-the-wrong-ai-question/91381144)**
 
-Microsoft broke ranks — and the troubled stock was handsomely rewarded Wednesday evening.
+Why the right question is how to amplify human impact.
 
-CNBC • 11h ago
+inc.com • 23m ago
 
 ---
 
@@ -169,13 +165,23 @@ CNBC • 11h ago
 
 Microsoft poured another record sum into AI infrastructure — and Azure growth finally accelerated.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Microsoft Increases Spending on A.I. as Profit Jumps 31%](https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html)**
+**[Meta tanks nearly 9%, Microsoft jumps 9% as the AI trade splits Big Tech](https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html)**
 
-The New York Times • 14h ago
+Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.
+
+CNBC • 4h ago
+
+---
+
+**[Microsoft stock soars as Meta sinks: Why the two AI giants are heading in opposite directions today](https://www.fastcompany.com/91582434/microsoft-stock-soars-meta-sinks-why-ai-giants-diverging-today)**
+
+Two of the biggest so-called AI hyperscalers reported earnings after the bell on Wednesday. Their share prices this morning tell very different stories.
+
+Fast Company • 39m ago
 
 ---
 
@@ -183,15 +189,15 @@ The New York Times • 14h ago
 
 Elon Musk’s company xAI is suing Minnesota over the state’s first-in-the-nation law that bans “nudification” technology on websites and apps.
 
-AP News • 13h ago
+AP News • 15h ago
 
 ---
 
-**[Leopold Aschenbrenner’s Situational Awareness seeks to raise capital after AI rout](https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549?syn-25a6b1a6=1)**
+**[How a rogue AI system’s stealthy cyberattack played out day by day](https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/)**
 
-Hedge fund has held talks with existing investors and lenders in recent days
+A timeline of the unprecedented cyberattack by OpenAI “agent” that escaped containment shows its sophistication.
 
-Financial Times • 7h ago
+The Washington Post • 1h ago
 
 ---
 
@@ -199,17 +205,9 @@ Financial Times • 7h ago
 
 ## HackerNews: "ai"
 
-**[AI companies are shredding rare books](https://news.ycombinator.com/item?id=49068738)**
-
-🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're
-
-⬆️ 793 • 💬 514 • 2d ago • [X (formerly Twitter)](https://twitter.com/HedgieMarkets/status/2081534588485296565)
-
----
-
 **[AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285)**
 
-⬆️ 503 • 💬 256 • 14h ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+⬆️ 537 • 💬 275 • 15h ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 
 ---
 
@@ -217,7 +215,7 @@ Financial Times • 7h ago
 
 I would like to thank Microsoft product teams and Microsoft Security Response Center (MSRC) for collaborating with me on this technical analysis and mitigation of the disclosed vulnerabilities. The editorial opinions reflected below are solely the author’s and do not necessarily reflect those of the organizations I collaborated with.
 
-⬆️ 369 • 💬 284 • 23h ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+⬆️ 370 • 💬 287 • 1d ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 
 ---
 
@@ -233,7 +231,7 @@ Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing
 
 A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you've mastered new skills.
 
-⬆️ 261 • 💬 170 • 1d ago • [LearnVector](https://learnvector.ai/)
+⬆️ 262 • 💬 170 • 1d ago • [LearnVector](https://learnvector.ai/)
 
 ---
 
@@ -253,7 +251,7 @@ Memory prices have doubled, Macs and iPads have gone up, and iPhones are expecte
 
 **[After the AI Crash](https://news.ycombinator.com/item?id=49096953)**
 
-⬆️ 120 • 💬 208 • 22h ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+⬆️ 122 • 💬 209 • 1d ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 
 ---
 
@@ -261,7 +259,15 @@ Memory prices have doubled, Macs and iPads have gone up, and iPhones are expecte
 
 Formally verified 3D mesh intersection - trust 93 lines of spec, not 1000+ lines of AI-written code - schildep/verified-3d-mesh-intersection
 
-⬆️ 113 • 💬 48 • 1d ago • [GitHub](https://github.com/schildep/verified-3d-mesh-intersection)
+⬆️ 113 • 💬 48 • 2d ago • [GitHub](https://github.com/schildep/verified-3d-mesh-intersection)
+
+---
+
+**[GCC steering committee announces AI policy](https://news.ycombinator.com/item?id=49108685)**
+
+The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
+
+⬆️ 106 • 💬 103 • 1h ago • [LWN.net](https://lwn.net/Articles/1086041/)
 
 ---
 
@@ -283,7 +289,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 175K • 👍 3K • 💬 1K • ⏱️ 15:01 • 19h ago
+👁️ 175K • 👍 3K • 💬 1K • ⏱️ 15:01 • 20h ago
 
 ---
 
@@ -293,7 +299,7 @@ More than 1000 leading artificial intelligence developers are now saying the tec
 
 📺 Global News
 
-👁️ 4K • 👍 97 • 💬 20 • ⏱️ 2:10 • 11h ago
+👁️ 4K • 👍 97 • 💬 20 • ⏱️ 2:10 • 13h ago
 
 ---
 
@@ -303,7 +309,7 @@ As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with governmen
 
 📺 CNN
 
-👁️ 49K • 👍 533 • 💬 294 • ⏱️ 10:55 • 15h ago
+👁️ 49K • 👍 533 • 💬 294 • ⏱️ 10:55 • 17h ago
 
 ---
 
@@ -323,7 +329,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Mango ShortDrama
 
-👁️ 32K • 👍 693 • 💬 31 • ⏱️ 1:35:45 • 23h ago
+👁️ 32K • 👍 693 • 💬 31 • ⏱️ 1:35:45 • 1d ago
 
 ---
 
@@ -353,7 +359,7 @@ Get the Agent OS & Chinese AI Masterclass https://www.skool.com/ai-profit-lab-74
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 43 • 💬 4 • ⏱️ 8:06 • 8h ago
+👁️ 2K • 👍 43 • 💬 4 • ⏱️ 8:06 • 10h ago
 
 ---
 
@@ -363,7 +369,7 @@ THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the
 
 📺 Casey Simpson
 
-👁️ 156K • 👍 9K • 💬 3K • ⏱️ 44:37 • 15h ago
+👁️ 156K • 👍 9K • 💬 3K • ⏱️ 44:37 • 17h ago
 
 ---
 
@@ -449,7 +455,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,100 • ❤️ 299 • 9h ago
+⬇️ 1,100 • ❤️ 299 • 11h ago
 
 ---
 
@@ -461,7 +467,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 24,542 • ❤️ 564 • 1d ago
+⬇️ 24,542 • ❤️ 564 • 2d ago
 
 ---
 
@@ -669,7 +675,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 404 • 56m ago
+⭐ 2.9k • 🔱 404 • 2h ago
 
 ---
 
@@ -707,7 +713,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 206 • 58m ago
+⭐ 1.8k • 🔱 206 • 2h ago
 
 ---
 
@@ -717,7 +723,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 50s ago
+⭐ 1.8k • 🔱 1.2k • 1h ago
 
 ---
 

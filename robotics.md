@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-30T11:29:07.484976+00:00'
+updated: '2026-07-30T13:09:37.069863+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 30, 2026 at 11:29 UTC  
+**Last Updated:** July 30, 2026 at 13:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Foreign-produced mobile ground robots added to the FCC Covered List (DA 26-786)](https://www.reddit.com/r/robotics/comments/1va1i3g/foreignproduced_mobile_ground_robots_added_to_the/)**
 
-🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 18h ago
+🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 20h ago
 
 ---
 
 **[The depth and point cloud of 3D DTOF LIDAR HM-LD1 in dark environment](https://www.reddit.com/r/robotics/comments/1va1gi3/the_depth_and_point_cloud_of_3d_dtof_lidar_hmld1/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 -This is a really rough 3d model of a capstan drive robot arm I am trying to build. My plan is to use fast and high RPM motors high gear reductions to get high precision and torque. -My goal is to use capstan drives as the end speed reducer because they are low backlash and precise, and then use belt drives and maybe planetary gear boxes to get the higher gear reduction in the earlier stages. This way if there is a little bit of backlash in the planetary gear box, that backlash gets divided by 1/8th. -For the first prototype I am printing I plan to use Aaed Musa capstan design, but later when I make the final product I will design my own. -Any ideas how to improve the deign or improve the robotic arm in general? -Dimensions: 3ft ish
 
-12h ago
+13h ago
 
 ---
 
@@ -114,7 +114,7 @@ Came across the recent DexWrist paper out of MIT and some fun demos. Researchers
 
 Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
 
-BBC • 13h ago
+BBC • 15h ago
 
 ---
 
@@ -124,11 +124,9 @@ Reuters • 1d ago
 
 ---
 
-**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
+**[A Robotics Startup Wants to Make Any Truck Go Electric](https://www.bloomberg.com/news/newsletters/2026-07-30/a-robotics-startup-wants-to-make-any-truck-go-electric)**
 
-Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
-
-Business Insider • 18h ago
+Bloomberg • 1h ago
 
 ---
 
@@ -148,23 +146,25 @@ MIT News • 2d ago
 
 ---
 
+**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
+
+Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
+
+Business Insider • 20h ago
+
+---
+
 **[US bans new foreign-made robots](https://www.cnn.com/2026/07/29/science/video/us-foreign-robot-ban-vrtc-ldn-digvid)**
 
 The US Federal Communications Commission says advanced robotics from certain foreign countries pose “an unacceptable risk to the national security of the United States.” CNN’s Mike Valerio explains why the US is banning new foreign-made robots.
 
-CNN • 22h ago
-
----
-
-**[Robotics giant plans major expansion in Michigan](https://www.mlive.com/news/detroit/2026/07/robotics-giant-plans-major-expansion-in-michigan.html)**
-
-mlive.com • 1d ago
+CNN • 23h ago
 
 ---
 
 **[SoftBank eyes $500M Gravis Robotics deal after completing its Boston Dynamics exit](https://techfundingnews.com/softbank-eyes-500m-gravis-robotics-deal-after-completing-its-boston-dynamics-exit/)**
 
-techfundingnews.com • 2d ago
+Tech Funding News • 2d ago
 
 ---
 
@@ -176,11 +176,11 @@ Nikkei Asia • 2d ago
 
 ---
 
-**[Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round](https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx)**
+**[DCX's proposed AI robotics cooperation could split revenue 60/40](https://www.stocktitan.net/news/DCX/dcx-and-whales-ai-sign-non-binding-mou-for-strategic-cooperation-to-n4o8nqtmhw7x.html)**
 
-Founded by former Unit 8200 researchers, Enigma is developing foundation AI models designed to make robots more intelligent and easier to deploy.
+Global AI-in-education market is projected to reach about $136.79B by 2035; no revenue is expected from this activity in DCX's current financial year.
 
-calcalistech.com • 2d ago
+Stock Titan • 17h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 15K • 👍 136 • 💬 177 • ⏱️ 6:04 • 11h ago
+👁️ 15K • 👍 136 • 💬 177 • ⏱️ 6:04 • 13h ago
 
 ---
 
@@ -204,7 +204,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 KhanFlicks
 
-👁️ 1K • 💬 29 • ⏱️ 3:45 • 15h ago
+👁️ 1K • 💬 29 • ⏱️ 3:45 • 16h ago
 
 ---
 
@@ -214,7 +214,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 7K • 👍 476 • 💬 231 • ⏱️ 20:17 • 11h ago
+👁️ 7K • 👍 476 • 💬 231 • ⏱️ 20:17 • 13h ago
 
 ---
 
@@ -234,7 +234,7 @@ The FDA just changed the future of surgical robotics and almost everyone is watc
 
 📺 Ross Givens
 
-👁️ 11K • 👍 630 • 💬 181 • ⏱️ 11:31 • 19h ago
+👁️ 11K • 👍 630 • 💬 181 • ⏱️ 11:31 • 20h ago
 
 ---
 
@@ -264,7 +264,7 @@ Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin
 
 📺 CNET
 
-👁️ 20K • 👍 549 • 💬 34 • ⏱️ 4:23 • 3d ago
+👁️ 20K • 👍 549 • 💬 34 • ⏱️ 4:23 • 4d ago
 
 ---
 
@@ -274,7 +274,7 @@ For the foreseeable future, most people who want to own a lifelike humanoid robo
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 67 • 💬 3 • ⏱️ 0:49 • 7h ago
+👁️ 2K • 👍 67 • 💬 3 • ⏱️ 0:49 • 8h ago
 
 ---
 

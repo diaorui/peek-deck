@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T11:29:07.482115+00:00'
+updated: '2026-07-30T13:09:37.066990+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 11:29 UTC  
+**Last Updated:** July 30, 2026 at 13:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,919.12
+### $1,926.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +3.1%  
-**30d:** +19.3%  
-**90d:** -17.1%  
-**1y:** -48.0%  
+**24h:** +1.7%  
+**7d:** +3.5%  
+**30d:** +19.7%  
+**90d:** -16.8%  
+**1y:** -47.8%  
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-blog.ethereum.org • 23h ago
+blog.ethereum.org • 1d ago
 
 ---
 
@@ -164,15 +164,7 @@ blog.ethereum.org • 23h ago
 
 Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-wobble-fed-holds-184345987.html)**
-
-Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
-
-Yahoo Finance • 16h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -180,15 +172,23 @@ Yahoo Finance • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 2h ago
 
 ---
 
-**[Raoul Pal Reveals the Next 100x Crypto Trade and It Is Not Bitcoin, Ethereum or XRP](https://www.tradingview.com/news/coinpedia:54437f5c0094b:0-raoul-pal-reveals-the-next-100x-crypto-trade-and-it-is-not-bitcoin-ethereum-or-xrp/)**
+**[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://finance.yahoo.com/markets/crypto/articles/cathie-woods-ark-trims-bmnr-111017810.html)**
 
-Raoul Pal has built a reputation for identifying macro trades before they become consensus. The former Goldman Sachs hedge fund manager and Real Vision founder is now making the case that the next crypto opportunity is not in the assets currently dominating market attention. It is in the infrastruc…
+Ark Invest sold 120,665 shares of BMNR, making it the firm's largest trade of the day.
 
-TradingView • 17h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum)**
+
+USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
+
+The Block • 23h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView • 17h ago
 
 Despite being down 1% today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -204,15 +204,15 @@ Decrypt • 18h ago
 
 Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
 
-CoinMarketCap • 13h ago
+CoinMarketCap • 12h ago
 
 ---
 
-**[Morgan Stanley debuts Ethereum and Solana ETFs with market's lowest fee, staking rewards](https://www.theblock.co/post/409898/morgan-stanley-debuts-ethereum-solana-etfs-markets-lowest-fee-staking-rewards)**
+**[Robinhood Chain Overtakes Solana, Ethereum for Real-World Asset Trading: What Does It Mean for HOOD?](https://www.benzinga.com/crypto/cryptocurrency/26/07/60746835/robinhood-chain-overtakes-solana-ethereum-for-real-world-asset-trading-what-does-it-mean-for-hood)**
 
-The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
+Robinhood Chain, powered by Ethereum, now has 328,000 holders of tokenized real-world assets, making it the leading blockchain by RWA holders.
 
-The Block • 1d ago
+benzinga.com • 1d ago
 
 ---
 
@@ -220,13 +220,13 @@ The Block • 1d ago
 
 BlackRock clients bought over $20 million in ETH; staking beats records.
 
-AMBCrypto • 6h ago
+AMBCrypto • 8h ago
 
 ---
 
 **[Solflare Launches Solana Bridge for Seamless Bitcoin and Ethereum Transfers](https://www.ccn.com/news/crypto/solflare-bridge-bitcoin-ethereum-transfers-solana/)**
 
-CCN.com • 22h ago
+CCN.com • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ Join My VIP Trading Group: https://www.freedomtradingacademy.com/vip-community T
 
 📺 Andrea Cap  | FTA Crypto
 
-👁️ 169 • 👍 15 • 💬 7 • ⏱️ 20:01 • 8h ago
+👁️ 169 • 👍 15 • 💬 7 • ⏱️ 20:01 • 10h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this video I break down the current Ethereum price action and the potential f
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 150 • 💬 2 • ⏱️ 6:10 • 21h ago
+👁️ 3K • 👍 150 • 💬 2 • ⏱️ 6:10 • 23h ago
 
 ---
 
@@ -290,7 +290,7 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 📺 The Rollup
 
-👁️ 2K • 👍 36 • 💬 6 • ⏱️ 6:40 • 1d ago
+👁️ 2K • 👍 36 • 💬 6 • ⏱️ 6:40 • 2d ago
 
 ---
 
@@ -330,7 +330,7 @@ Congress goes on recess next Friday and the Clarity Act still has not been voted
 
 📺 Schwab Network
 
-👁️ 2K • 👍 44 • 💬 64 • ⏱️ 9:18 • 13h ago
+👁️ 2K • 👍 44 • 💬 64 • ⏱️ 9:18 • 15h ago
 
 ---
 
