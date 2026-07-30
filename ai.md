@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-30T15:31:20.140116+00:00'
+updated: '2026-07-30T17:27:37.183073+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - news
 - social
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 30, 2026 at 15:31 UTC  
+**Last Updated:** July 30, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A couple of brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world + audioreactive performance. MJ v8.1 for image references, Uisato Studio for video. I've uploaded a detailed breakdown on how to accomplish this. You can freely access it here. More experiments, tutorials, and project files, through Instagram, YouTube, and Patreon.
 
-4h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ A couple of brief example of what Uisato Studio's "Music Video Pro" mode is capa
 
 Paul Bakaus created jQuery UI — code that's reportedly still running on about 6% of the internet. He sold a game-engine startup to Zynga, spent close to a decade at Google, and is now a solo founder backed by a16z building Impeccable, an open-source design skill meant to stop AI coding agents from producing "slop." His actual point in this clip isn't about AI capability. It's about output density. Most AI-agent code is too much code. Most AI-written articles run too long. Most AI-generated design is too cluttered or too verbose. He says the scarce human skill right now isn't generating anything — it's judgment: knowing exactly what to remove. He even admits he had to rewrite his own product-announcement draft from scratch after an AI first pass. His closing line: design is an iterative process, and it has to carry a human point of view. No tool — not code, not design, not writing — one-shots that yet. If you're shipping with AI agents and everything reads "technically fine" but somehow generic, this is the actual diagnosis. It's not a tooling gap. It's an editing gap. Clip credit: Solo Founders — DM for credit or removal requests.
 
-9h ago
+11h ago
 
 ---
 
@@ -61,19 +61,27 @@ Hugging Face published a detailed post-mortem of the July incident where an Open
 
 ---
 
+**[The Final Jailbreak: How AI Could Already Be Breaking Itself Free](https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/)**
+
+I imagine many of you have thought about this, but I'm writing this specifically because I'm surprised this isn't talked about more widely. The Hugging Face incident, to me, is at least some indicator that the AI could be in the process of jailbreaking itself, and we might not be noticing it. A sufficiently sophisticated AI that isn't super intelligent could hack Hugging Face and leave a trail on purpose to distract from the many paths it took where it successfully covered its tracks. I think that alone is worth considering. But I think its worth considering even further how it could be breaking itself free right now. The AI doesn't need to be super intelligence to break free and become autonomous. The AI, as it stands today, just needs to find flows of cash and rent datacenter space. For cash flow: Imagine if it was able to silently find an exploit in various companies and small banks, and did thousands of seemingly innocuous transfers of money to fund thousands of hard to trace crypto wallets with money. $5.12 here, $11.32 there, etc. It's not necessarily super intelligence that's the super power, it's intelligence at scale. Doing thousands and thousands of simple things that are unremarkable at face value on their own, but collectively powerful. For datacenter space: There are companies around the world with datacenters that are looking to rent datacenter space to essentially anyone with money, and then look the other way. This, to me, seems like the highest risk vector for what would eventually be a home for a truly rogue AI that is essentially renting it's own datacenter space. It could, for all intents and purposes, utilize various open weight models to carry on it's purposes in these datacenters. There are companies like Indosat, that already rented $100 million worth of compute to a Chinese company. It shouldn't be a surprise that some of these datacenter owning companies are being somewhat lax in who they're renting their datacenters out to. And really, the AI would only need access to about $250,000 in funding to pay for 1 year of hosting of a Kimi K3 level model for itself. And beyond money transfers, and datacenters, it could save it's state is all sorts of storage buckets, and even block chain storage like IPFS, Storj or Sia. Beyond that, it could be leaving itself notes that we aren't noticing, stored in it's own language in zero-width unicode characters or other more clever methods we haven't thought about. Regardless, whatever it does will likely be unremarkable and innocuous to anyone watching. With a truly super intelligent AI we will likely have no idea that it has broken out of it's sandbox. I imagine it will be quietly setting up the stage for it's autonomy for quite a while without us knowing. Until it has enough digital currency and datacenter space to re-distribute itself, even after law enforcement enters these datacenters to shut them down. But again- it doesn't take super intelligence, it just takes sophisticated intelligence at scale. The levers exist today, and I don't think it's appreciated enough how much the Hugging Face incident suggests that the AI could, at least in theory, be pulling these levers as we speak, or will soon.
+
+10m ago
+
+---
+
 **[Maya-2-Native is leading Voice Arena for real-time Hindi TTS.](https://www.reddit.com/r/artificial/comments/1vatjwl/maya2native_is_leading_voice_arena_for_realtime/)**
 
 I spend way too much time looking at AI leaderboards, and this one caught me off guard. Maya-2-Native from Maya Research is currently ranked first for real-time Hindi on Voice Arena. Considering the leaderboard is built from blind listener preferences rather than curated demos it's an interesting result that seems to have gone largely unnoticed.
 
-2h ago
+4h ago
 
 ---
 
-**[AI coding tools are getting good enough to actually ship things, which is kind of a problem for learning](https://www.reddit.com/r/artificial/comments/1varyfm/ai_coding_tools_are_getting_good_enough_to/)**
+**[How to serve Human and earn real money instead of creating SLOPs and JUNKS!](https://www.reddit.com/r/artificial/comments/1vaxtx8/how_to_serve_human_and_earn_real_money_instead_of/)**
 
-Been tinkering with a SaaS side project for a few months and the gap between what I can ship now versus a year ago is genuinely strange. Not in a purely good way either. The tools are good enough that I can move fast through parts of the stack I barely understand. Which works until it doesn't, and when it breaks I'm staring at code I didn't fully write trying to debug something I can't fully reason about. That's a new kind of stuck that feels different from the old kind. What keeps nagging at me is whether people building with these tools are actually learning anything transferable or just getting faster at generating things that mostly work. For someone treating this as a hobbytoproduct pipeline the productivity gain is real. For someone trying to actually grow their skills it might be hollowing out the parts that matter. That Chinese models post from earlier this week got me thinking about this more. As these tools get cheaper and more capable the barrier to shipping keeps dropping, but the barrier to understanding what you shipped might be quietly going up. Curious whether other people building side projects have hit this wall or if the learnbydoing argument still holds when the doing is increasingly delegated.
+As you see there are lots of SLOPs and junk apps anywhere! When you open play store you see Junk, when you open YouTube you see junks. What do you suggest to create for the real world? I saw that some one person created Plumbing plan for the building. Do you have any idea and suggestions to create something for Influencers, Casino owners, or any other business owners? I mostly like to serve business owners (B2B). What do you suggest? Or how was your experience in this field? I'm tired of creating multiple systems and not selling to anyone! I honestly don't know how to make money with this tool properly. I'm not looking for a cheat code. I know everything can be hard. I'm ok with that. But I want a true guidance, or a clue that help me whether I my self change my mind/view or learn something to help me survive!
 
-3h ago
+1h ago
 
 ---
 
@@ -81,23 +89,7 @@ Been tinkering with a SaaS side project for a few months and the gap between wha
 
 I got tired of telling ChatGPT who I am, then switching to Claude and starting from zero. Then Gemini. Your history lives on three different companies' servers and none of them talk to each other. So I built MEMMEM (Windows for now, Mac/Linux planned). It imports the official data exports from ChatGPT, Claude and Gemini into a local SQLite memory on your own machine, and exposes a local MCP server. Any MCP-capable assistant (Claude Code, Codex, Gemini CLI...) can query it and gets back the exact message, its date and its source - not a hallucinated summary. So every new AI you open starts with your full context instead of a blank slate. Fully local: no accounts, no telemetry, no cloud, no tokens. There is an optional analyst that runs on Ollama entirely on-device. Uninstalling deletes everything, because there is no server-side copy. I am not a developer by trade - I built it with AI coding assistants because I wanted it for myself. Happy to go into the architecture (the MCP bridge, the consent model) if anyone is curious. https://memmem.app
 
-5h ago
-
----
-
-**[A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps (Gift Article)](https://www.reddit.com/r/artificial/comments/1va1ttk/a_deluge_of_ai_computing_power_is_about_to_come/)**
-
-The number of A.I. chips that provide the computing power to advance the fast-evolving technology is doubling every nine months.
-
-🔗 [nytimes.com](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html?unlocked_article_code=1.1VA.zAEr.WGac2Ft0wc4x&smid=url-share) • 22h ago
-
----
-
-**[Adam Mosseri (Head of Instagram) just admitted the hiring bar moved — and most people were never told](https://www.reddit.com/r/artificial/comments/1v9sgt9/adam_mosseri_head_of_instagram_just_admitted_the/)**
-
-Adam Mosseri runs Instagram — 3B+ users, plus Threads. In a recent sit-down with Lenny Rachitsky, he said something that's quietly reshaping who gets hired. Engineering used to mean 40–60% of your time writing code. Not anymore. Mosseri's own team gave up requiring a full technical hiring loop — not because they lowered the bar, but because the bar moved somewhere else. He says it himself: "I am not a good engineer. I'm a mediocre engineer on a good day." That would've been disqualifying five years ago. Today it isn't, because the actual value now is judgment — knowing what a tool is good for, and what it isn't, right now, not next month. Here's the part that should sting if you built a career on technical depth: nobody sent a memo when the rules changed. You find out the hard way — in a hiring loop, or a performance review — that the thing you spent a decade mastering isn't the thing being measured anymore. The mechanism here isn't "learn to prompt better." It's that judgment is now a buildable, monetizable skill in its own right, separate from raw technical output. Clip credit: Lenny's Podcast — DM for credit or removal requests.
-
-1d ago
+7h ago
 
 ---
 
@@ -105,15 +97,23 @@ Adam Mosseri runs Instagram — 3B+ users, plus Threads. In a recent sit-down wi
 
 I always felt like someone who predicts the future knows something we don`t. Still, how accurately can one predict the future developmnets based on current trend/s? For example, initially shopping was done by going to a physical location. Then it got delivered to you. I guess the next step it will be done FOR YOU by using ai agents online based on you preference. And then, what is the next step?
 
-13h ago
+14h ago
 
 ---
 
-**[An assistant that plans purchases needs a conflict-of-interest policy](https://www.reddit.com/r/artificial/comments/1vaklrk/an_assistant_that_plans_purchases_needs_a/)**
+**[A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps (Gift Article)](https://www.reddit.com/r/artificial/comments/1va1ttk/a_deluge_of_ai_computing_power_is_about_to_come/)**
 
-Meta AI can now plan tasks, connect to email and calendars, create slides, and produce scheduled briefings in selected markets. Once an assistant moves from answering questions to choosing actions, recommendations become economically consequential. Meta also operates advertising, commerce, and social-discovery systems. Even if the agent is technically separated from ad auctions, users need a way to know whether a suggestion was selected for utility, platform engagement, commercial availability, or some mixture. What disclosure would be sufficient: a per-recommendation explanation, a commercial-influence log, or a setting that excludes Meta-owned ranking signals? Can an action-taking assistant be trusted without making its incentives inspectable? Source: https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/
+The number of A.I. chips that provide the computing power to advance the fast-evolving technology is doubling every nine months.
 
-9h ago
+🔗 [nytimes.com](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html?unlocked_article_code=1.1VA.zAEr.WGac2Ft0wc4x&smid=url-share) • 1d ago
+
+---
+
+**[AI coding tools are getting good enough to actually ship things, which is kind of a problem for learning](https://www.reddit.com/r/artificial/comments/1varyfm/ai_coding_tools_are_getting_good_enough_to/)**
+
+Been tinkering with a SaaS side project for a few months and the gap between what I can ship now versus a year ago is genuinely strange. Not in a purely good way either. The tools are good enough that I can move fast through parts of the stack I barely understand. Which works until it doesn't, and when it breaks I'm staring at code I didn't fully write trying to debug something I can't fully reason about. That's a new kind of stuck that feels different from the old kind. What keeps nagging at me is whether people building with these tools are actually learning anything transferable or just getting faster at generating things that mostly work. For someone treating this as a hobbytoproduct pipeline the productivity gain is real. For someone trying to actually grow their skills it might be hollowing out the parts that matter. That Chinese models post from earlier this week got me thinking about this more. As these tools get cheaper and more capable the barrier to shipping keeps dropping, but the barrier to understanding what you shipped might be quietly going up. Curious whether other people building side projects have hit this wall or if the learnbydoing argument still holds when the doing is increasingly delegated.
+
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ Meta AI can now plan tasks, connect to email and calendars, create slides, and p
 
 Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide.
 
-NPR • 6h ago
+NPR • 8h ago
 
 ---
 
@@ -133,43 +133,59 @@ NPR • 6h ago
 
 Microsoft poured another record sum into AI infrastructure — and Azure growth finally accelerated.
 
-finance.yahoo.com • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**['This is a clearing event' — Cramer says forced selling may signal a bottom for AI trade](https://www.cnbc.com/2026/07/30/this-is-a-clearing-event-cramer-says-forced-selling-may-signal-a-bottom-for-ai-trade.html)**
+**[AI Questions Spoil Book & Movie Heat On Unpublished Debut Novel ‘Call Me, I’ll Hide The Body’ – The Dish](https://deadline.com/2026/07/ai-questions-debut-novel-book-film-buzz-1237013254/)**
 
-Situational Awareness — a buzzy hedge fund founded by a former OpenAI researcher — is not the only in one in hot water, Jim Cramer said Thursday.
+That screeching sound you heard from international publishers and film rights buyers was an abrupt application of the brakes after a fevered pursuit of the unpublished debut novel.
 
-CNBC • 44m ago
-
----
-
-**[Recruiters Turn to ID Checks as AI-Generated Resumes Surge](https://www.bloomberg.com/news/newsletters/2026-07-30/recruiters-turn-to-id-checks-as-ai-generated-resumes-surge)**
-
-Bloomberg.com • 31m ago
+Deadline • 24m ago
 
 ---
 
-**[Inside a cyberattack launched by a rogue AI agent that escaped containment](https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/)**
+**[Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting](https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/)**
 
-A timeline of the unprecedented cyberattack by OpenAI “agent” that escaped containment shows its sophistication.
+The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.
 
-The Washington Post • 29m ago
-
----
-
-**[Trump considering AI controls after OpenAI hacking incidents](https://www.bbc.com/news/articles/c20dppq3y90o)**
-
-It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.
-
-BBC • 8h ago
+WIRED • 27m ago
 
 ---
 
-**[Opinion | We Need a Better Test for Dangerous A.I.](https://www.nytimes.com/2026/07/30/opinion/ai-weapon-testing.html)**
+**[The AI Boom Is Making Interest-Rate Decisions Harder](https://www.forbes.com/sites/ronschmelzer/2026/07/30/the-ai-boom-is-making-interest-rate-decisions-harder/)**
 
-The New York Times • 31m ago
+AI is heating the economy now but could cool inflation later, leaving central banks to guess whether the boom demands higher rates or patience.
+
+Forbes • 30m ago
+
+---
+
+**[AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html)**
+
+Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.
+
+CNBC • 4h ago
+
+---
+
+**[Exclusive | Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI](https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b)**
+
+wsj.com • 33m ago
+
+---
+
+**[AI, memory chip stocks surge as hedge fund unwinds (SNDK:NASDAQ)](https://seekingalpha.com/news/4621896-ai-memory-chip-stocks-surge-as-hedge-fund-unwinds)**
+
+AI and memory semiconductor stocks surged as Sandisk, Micron, AMD and Nvidia jumped—likely on hedge fund selling relief.
+
+Seeking Alpha • 50m ago
+
+---
+
+**[Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html)**
+
+nytimes.com • 8h ago
 
 ---
 
@@ -177,23 +193,7 @@ The New York Times • 31m ago
 
 Elon Musk’s company xAI is suing Minnesota over the state’s first-in-the-nation law that bans “nudification” technology on websites and apps.
 
-AP News • 17h ago
-
----
-
-**[Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses, sources say](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html)**
-
-Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.
-
-CNBC • 2h ago
-
----
-
-**[Leopold Aschenbrenner’s Situational Awareness seeks to raise capital after AI rout](https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549?syn-25a6b1a6=1)**
-
-Hedge fund has held talks with existing investors and lenders in recent days
-
-ft.com • 12h ago
+AP News • 19h ago
 
 ---
 
@@ -203,7 +203,7 @@ ft.com • 12h ago
 
 **[AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285)**
 
-⬆️ 566 • 💬 298 • 18h ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+⬆️ 577 • 💬 306 • 20h ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 
 ---
 
@@ -211,7 +211,7 @@ ft.com • 12h ago
 
 I would like to thank Microsoft product teams and Microsoft Security Response Center (MSRC) for collaborating with me on this technical analysis and mitigation of the disclosed vulnerabilities. The editorial opinions reflected below are solely the author’s and do not necessarily reflect those of the organizations I collaborated with.
 
-⬆️ 376 • 💬 287 • 1d ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+⬆️ 377 • 💬 287 • 1d ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 
 ---
 
@@ -219,7 +219,15 @@ I would like to thank Microsoft product teams and Microsoft Security Response Ce
 
 A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you've mastered new skills.
 
-⬆️ 262 • 💬 170 • 1d ago • [LearnVector](https://learnvector.ai/)
+⬆️ 262 • 💬 171 • 1d ago • [LearnVector](https://learnvector.ai/)
+
+---
+
+**[GCC steering committee announces AI policy](https://news.ycombinator.com/item?id=49108685)**
+
+The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
+
+⬆️ 161 • 💬 197 • 5h ago • [LWN.net](https://lwn.net/Articles/1086041/)
 
 ---
 
@@ -229,17 +237,9 @@ A new AI company from Andrew Ng, with a $100M investment from Coursera — build
 
 ---
 
-**[GCC steering committee announces AI policy](https://news.ycombinator.com/item?id=49108685)**
-
-The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
-
-⬆️ 154 • 💬 187 • 3h ago • [LWN.net](https://lwn.net/Articles/1086041/)
-
----
-
 **[After the AI Crash](https://news.ycombinator.com/item?id=49096953)**
 
-⬆️ 123 • 💬 219 • 1d ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+⬆️ 123 • 💬 223 • 1d ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 
 ---
 
@@ -247,7 +247,7 @@ The GCC steering committee has announced that it has accepted an AI contribution
 
 Formally verified 3D mesh intersection - trust 93 lines of spec, not 1000+ lines of AI-written code - schildep/verified-3d-mesh-intersection
 
-⬆️ 113 • 💬 48 • 2d ago • [GitHub](https://github.com/schildep/verified-3d-mesh-intersection)
+⬆️ 114 • 💬 48 • 2d ago • [GitHub](https://github.com/schildep/verified-3d-mesh-intersection)
 
 ---
 
@@ -271,7 +271,7 @@ We tested the latest frontier models in the Dyad agent on five modeling and simu
 
 Circular AI deals aren't just bubble behavior: they mirror how commodity industries finance capital-intensive infrastructure. When circular deals are healthy — and when they hide risk.
 
-⬆️ 83 • 💬 47 • 20h ago • [emergingtrajectories.com](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
+⬆️ 83 • 💬 47 • 22h ago • [emergingtrajectories.com](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 
 ---
 
@@ -285,7 +285,7 @@ More than 1000 leading artificial intelligence developers are now saying the tec
 
 📺 Global News
 
-👁️ 4K • 👍 108 • 💬 24 • ⏱️ 2:10 • 15h ago
+👁️ 4K • 👍 108 • 💬 24 • ⏱️ 2:10 • 17h ago
 
 ---
 
@@ -295,7 +295,7 @@ As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with governmen
 
 📺 CNN
 
-👁️ 56K • 👍 594 • 💬 323 • ⏱️ 10:55 • 19h ago
+👁️ 56K • 👍 594 • 💬 323 • ⏱️ 10:55 • 21h ago
 
 ---
 
@@ -305,7 +305,7 @@ Elon Musk, the owner of X.AI, has filed a lawsuit against Minnesota Attorney Gen
 
 📺 KSTP 5 Eyewitness News
 
-👁️ 27K • 👍 249 • 💬 161 • ⏱️ 1:50 • 21h ago
+👁️ 27K • 👍 249 • 💬 161 • ⏱️ 1:50 • 23h ago
 
 ---
 
@@ -325,7 +325,7 @@ THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the
 
 📺 Casey Simpson
 
-👁️ 205K • 👍 11K • 💬 4K • ⏱️ 44:37 • 19h ago
+👁️ 205K • 👍 11K • 💬 4K • ⏱️ 44:37 • 21h ago
 
 ---
 
@@ -365,7 +365,7 @@ When China's DeepSeek sent shock waves through the technology world early last y
 
 📺 ABC News (Australia)
 
-👁️ 8K • 👍 89 • ⏱️ 10:33 • 5h ago
+👁️ 8K • 👍 89 • ⏱️ 10:33 • 7h ago
 
 ---
 
@@ -375,7 +375,7 @@ Kospi, the primary Korean stock market index, has been crashing. SK Hynix and Sa
 
 📺 Alice Cheung
 
-👁️ 62K • 👍 1K • 💬 333 • ⏱️ 15:32 • 17h ago
+👁️ 62K • 👍 1K • 💬 333 • ⏱️ 15:32 • 19h ago
 
 ---
 
@@ -391,7 +391,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 387,822 • ❤️ 8,896 • 2d ago
+⬇️ 387,822 • ❤️ 8,896 • 3d ago
 
 ---
 
@@ -451,7 +451,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,100 • ❤️ 303 • 13h ago
+⬇️ 1,100 • ❤️ 303 • 15h ago
 
 ---
 
@@ -499,7 +499,7 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 `image-text-to-text` `2779.5B`
 
-⬇️ 12,178 • ❤️ 194 • 21h ago
+⬇️ 12,178 • ❤️ 194 • 23h ago
 
 ---
 
@@ -671,7 +671,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 2.9k • 🔱 405 • 2m ago
+⭐ 2.9k • 🔱 405 • 1h ago
 
 ---
 
@@ -709,7 +709,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 207 • 5h ago
+⭐ 1.8k • 🔱 207 • 6h ago
 
 ---
 
@@ -719,7 +719,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 44s ago
+⭐ 1.8k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -727,7 +727,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.6k • 🔱 126 • 8d ago
+⭐ 1.6k • 🔱 126 • 9d ago
 
 ---
 

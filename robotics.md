@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-30T15:31:20.157970+00:00'
+updated: '2026-07-30T17:27:37.201075+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 30, 2026 at 15:31 UTC  
+**Last Updated:** July 30, 2026 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Foreign-produced mobile ground robots added to the FCC Covered List (DA 26-786)](https://www.reddit.com/r/robotics/comments/1va1i3g/foreignproduced_mobile_ground_robots_added_to_the/)**
 
-🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 22h ago
+🔗 [docs.fcc.gov](https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf) • 1d ago
 
 ---
 
 **[The depth and point cloud of 3D DTOF LIDAR HM-LD1 in dark environment](https://www.reddit.com/r/robotics/comments/1va1gi3/the_depth_and_point_cloud_of_3d_dtof_lidar_hmld1/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 -This is a really rough 3d model of a capstan drive robot arm I am trying to build. My plan is to use fast and high RPM motors high gear reductions to get high precision and torque. -My goal is to use capstan drives as the end speed reducer because they are low backlash and precise, and then use belt drives and maybe planetary gear boxes to get the higher gear reduction in the earlier stages. This way if there is a little bit of backlash in the planetary gear box, that backlash gets divided by 1/8th. -For the first prototype I am printing I plan to use Aaed Musa capstan design, but later when I make the final product I will design my own. -Any ideas how to improve the deign or improve the robotic arm in general? -Dimensions: 3ft ish
 
-16h ago
+18h ago
 
 ---
 
@@ -114,25 +114,35 @@ Came across the recent DexWrist paper out of MIT and some fun demos. Researchers
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
-deepmind.google • 29m ago
+deepmind.google • 2h ago
 
 ---
 
-**[Google Unveils Gemini AI for Robots Struggling With Dexterity](https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity)**
+**[Introducing Gemini Robotics ER 2](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/)**
 
-Bloomberg.com • 30m ago
+Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
+
+blog.google • 2h ago
 
 ---
 
 **[Google updates its AI software for robots](https://www.axios.com/2026/07/30/google-robotics-software-update)**
 
-Axios • 30m ago
+Axios • 2h ago
 
 ---
 
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+**[Robot waiters and drone deliveries: Inside China’s futuristic hardware capital](https://www.nbcnews.com/tech/tech-news/shenzhen-drones-robots-chinas-hardware-ai-capital-rcna589413)**
 
-Reuters • 1d ago
+Long a symbol of China’s economic surge, Shenzhen is embracing a high-tech, low-altitude future.
+
+NBC News • 25m ago
+
+---
+
+**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
+
+techxplore.com • 1h ago
 
 ---
 
@@ -140,7 +150,13 @@ Reuters • 1d ago
 
 Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
 
-BBC • 17h ago
+BBC • 19h ago
+
+---
+
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -152,11 +168,9 @@ MIT News • 2d ago
 
 ---
 
-**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
+**[Unitree to launch IPO next week as US-China robotics rivalry intensifies](https://www.scmp.com/tech/tech-trends/article/3362441/unitree-launch-ipo-next-week-us-china-robotics-rivalry-intensifies)**
 
-Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
-
-NVIDIA Developer • 1d ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -164,21 +178,7 @@ NVIDIA Developer • 1d ago
 
 Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
 
-Business Insider • 22h ago
-
----
-
-**[SoftBank eyes $500M Gravis Robotics deal after completing its Boston Dynamics exit](https://techfundingnews.com/softbank-eyes-500m-gravis-robotics-deal-after-completing-its-boston-dynamics-exit/)**
-
-Tech Funding News • 2d ago
-
----
-
-**[Six arms at once, welding on vertical walls: Chinese robots step into real work sites](https://www.globaltimes.cn/page/202607/1367010.shtml)**
-
-A robot working six arms at once, another scaling vertical walls to grind and weld, and a third repairing live power lines 10 meters above the ground took center stage in Beijing on Tuesday, as China puts a generation of domestically developed machines already deployed at real work sites on public display.
-
-Global Times • 2d ago
+Business Insider • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 18K • 👍 168 • 💬 229 • ⏱️ 6:04 • 15h ago
+👁️ 18K • 👍 168 • 💬 229 • ⏱️ 6:04 • 17h ago
 
 ---
 
@@ -202,7 +202,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 KhanFlicks
 
-👁️ 1K • 💬 29 • ⏱️ 3:45 • 19h ago
+👁️ 1K • 💬 29 • ⏱️ 3:45 • 21h ago
 
 ---
 
@@ -252,7 +252,7 @@ In this video, I'll show you how to build a tiny AI-powered robot using the ESP3
 
 📺 Creative Channel
 
-👁️ 2K • 👍 283 • 💬 34 • ⏱️ 31:13 • 4h ago
+👁️ 2K • 👍 283 • 💬 34 • ⏱️ 31:13 • 6h ago
 
 ---
 
@@ -272,7 +272,7 @@ For the foreseeable future, most people who want to own a lifelike humanoid robo
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 94 • 💬 7 • ⏱️ 0:49 • 11h ago
+👁️ 2K • 👍 94 • 💬 7 • ⏱️ 0:49 • 13h ago
 
 ---
 

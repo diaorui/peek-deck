@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T15:31:20.154741+00:00'
+updated: '2026-07-30T17:27:37.197847+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 15:31 UTC  
+**Last Updated:** July 30, 2026 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,917.15
+### $1,918.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +3.0%  
-**30d:** +19.1%  
-**90d:** -17.2%  
-**1y:** -48.1%  
+**24h:** +0.1%  
+**7d:** +3.2%  
+**30d:** +19.4%  
+**90d:** -17.0%  
+**1y:** -48.0%  
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -168,43 +168,39 @@ ethereum.org • 1d ago
 
 ---
 
-**['Ethereum Cypherpunk Manifesto' author joins Ethereum Foundation as fourth board member](https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member)**
-
-The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy advocacy and cypherpunk cultural commentary.
-
-The Block • 22h ago
-
----
-
-**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
-
-Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
-
-CoinMarketCap • 11h ago
-
----
-
-**[Fed Holds Rates: Here's What the Decision Means for Bitcoin, Ethereum and Altcoins in August](https://bitcoinfoundation.org/news/altcoins/fed-holds-rates-heres-what-the-decision-means-for-bitcoin-ethereum-and-altcoins-in-august/)**
-
-Find out how the latest Fed decision has impacted Bitcoin, Ethereum, and the rest of the crypto market, and where BTC could go in August
-
-Bitcoin Foundation • 1h ago
-
----
-
-**[Ethereum Institutional Closes Funding, EF Adds New Member](https://bitcoinfoundation.org/news/ethereum/ef-investments/)**
-
-Ethereum Institutional raises undisclosed amount. EF adds Pascal Coversacchio to board. Institutional adoption grows. ETH price at $1,925.
-
-Bitcoin Foundation • 1h ago
-
----
-
 **[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://finance.yahoo.com/markets/crypto/articles/cathie-woods-ark-trims-bmnr-111017810.html)**
 
 Ark Invest sold 120,665 shares of BMNR, making it the firm's largest trade of the day.
 
-finance.yahoo.com • 4h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Ethereum and solana are getting busier — and cheaper. What's going on?](https://finance.yahoo.com/video/ethereum-solana-getting-busier-cheaper-173000356.html)**
+
+Ethereum (ETH-USD) and solana (SOL-USD) are getting busier and cheaper, even as token prices fall, according to Bitwise.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[A New Crypto Index Just Launched. Here's Why That's Bullish for Ethereum, Solana, and Hyperliquid.](https://www.fool.com/investing/2026/07/30/a-new-crypto-index-just-launched-heres-why-thats-b/)**
+
+Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
+
+The Motley Fool • 27m ago
+
+---
+
+**[Morgan Stanley debuts Ethereum and Solana ETFs with market's lowest fee, staking rewards](https://www.theblock.co/post/409898/morgan-stanley-debuts-ethereum-solana-etfs-markets-lowest-fee-staking-rewards)**
+
+The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
+
+theblock.co • 2d ago
 
 ---
 
@@ -212,15 +208,15 @@ finance.yahoo.com • 4h ago
 
 Raoul Pal has built a reputation for identifying macro trades before they become consensus. The former Goldman Sachs hedge fund manager and Real Vision founder is now making the case that the next crypto opportunity is not in the assets currently dominating market attention. It is in the infrastruc…
 
-TradingView • 21h ago
+TradingView • 23h ago
 
 ---
 
-**[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
+**[Ethereum Price Stalls as Fed Rate Decision Looms](https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Despite being down 1% today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.
 
-fortune.com • 4h ago
+Decrypt • 1d ago
 
 ---
 
@@ -228,7 +224,15 @@ fortune.com • 4h ago
 
 USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
 
-The Block • 1d ago
+theblock.co • 1d ago
+
+---
+
+**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
+
+Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
+
+CoinMarketCap • 13h ago
 
 ---
 
@@ -242,7 +246,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 167 • 💬 7 • ⏱️ 19:50 • 1h ago
+👁️ 2K • 👍 167 • 💬 7 • ⏱️ 19:50 • 3h ago
 
 ---
 
@@ -252,7 +256,7 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 512 • 💬 349 • ⏱️ 13:14 • 15h ago
+👁️ 9K • 👍 512 • 💬 349 • ⏱️ 13:14 • 16h ago
 
 ---
 
@@ -262,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 140 • 👍 18 • 💬 10 • ⏱️ 5:55 • 6h ago
+👁️ 140 • 👍 18 • 💬 10 • ⏱️ 5:55 • 8h ago
 
 ---
 
@@ -332,7 +336,7 @@ public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https
 
 📺 Crypto Coffee
 
-👁️ 2K • 👍 202 • 💬 18 • ⏱️ 49:01 • 18h ago
+👁️ 2K • 👍 202 • 💬 18 • ⏱️ 49:01 • 20h ago
 
 ---
 

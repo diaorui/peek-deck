@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-30T15:31:20.148593+00:00'
+updated: '2026-07-30T17:27:37.191737+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 15:31 UTC  
+**Last Updated:** July 30, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,772.03
+### $64,838.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +0.8%  
-**30d:** +7.8%  
-**90d:** -17.8%  
-**1y:** -44.1%  
+**24h:** +0.7%  
+**7d:** +1.2%  
+**30d:** +8.1%  
+**90d:** -17.5%  
+**1y:** -43.9%  
 
 ---
 
@@ -113,7 +113,7 @@ Stuart Haber and Scott Stornetta are two of the Godfather’s behind modern cryp
 
 Three iPhone owners sued Apple last week over a fake Sparrow Wallet app they say they downloaded from the App Store. The plaintiffs say using the bogus app led to the theft of their Bitcoin, resulting in losses of roughly $1.8 million. The lawsuit, Ramirez et al v. Apple, Inc., accuses Cupertino of failing to catch the scam app despite years of marketing the App Store as a safe place to download software. How the fake Sparrow Wallet app stole Bitcoin Apple has spent nearly two decades convincing iPhone owners of the App Store’s security, but that promise is now at the center of a lawsuit alleging that the company’s review process failed miserably. The case underscores a growing problem for Apple: As scams become more sophisticated — and financial losses more devastating — the company’s tightly controlled app ecosystem faces scrutiny not just over how many malicious apps it blocks, but by the few that slip through. According to the complaint, filed Friday in the U.S. Court of Appeals for the 9th Circuit, a fraudulent Sparrow Wallet app found its way to the App Store, mimicking the real thing closely enough to fool experienced crypto users. The real Sparrow Wallet is a desktop app for Windows, macOS and Linux, but it has never been available on iOS. Plaintiffs James Ramirez, Christopher Ellis and Jalen Delgado say they downloaded the malicious iOS app between May and August 2025. Once installed, the fake Sparrow Wallet app asked them to enter their wallet’s seed phrase — the string of words used to recover a crypto wallet. And that’s exactly what the developers of the copycat Sparrow Wallet app wanted. When users entered their seed phrase, the scammers gained full control of the funds inside the plaintiffs’ accounts. Delgado says he downloaded the app around May 1, 2025, and soon after lost about 1.05 Bitcoin, worth roughly $120,000 at the time. Ramirez and Ellis say they downloaded the fake app last year on July 25 and August 3, respectively. Ramirez lost 7.4 Bitcoin, valued at around $875,000. Ellis lost close to $840,000 worth of crypto. Both say they reported the situation to Apple right away. Apple was warned years prior The lawsuit claims Apple had been previously warned about fake Sparrow Wallet apps. The warning came in early 2024 from Craig Raw, the developer of the real Sparrow Wallet. “There is still a scam ‘Sparrow Wallet’ app on the @Apple App Store, despite myself and others having reported it weeks ago,” Raw said in an X post on January 6, 2024. “Worse, you have to install it to report it. Always go to the wallet’s website to find the link to download it. App stores will not protect you.” In a recent post, the developer said he continued to push Apple to address the fake apps. “Since 2023, more than a dozen fake ‘Sparrow’ apps have appeared on the App Store, as recently as April this year,” Raw wrote in an X post on June 22, 2026. “Users have contacted me after losing their savings, in some cases their life savings, to these impersonators.” Raw even submitted his own placeholder app designed to warn users that any Sparrow Wallet app on iOS is fake. Apple initially flagged his developer account for the submission before reversing course. The complaint also alleges that Apple ranked the fake app in search results and featured it in curated crypto collections. This isn’t Apple’s first brush with fake crypto apps on the App Store. It’s merely the latest incident in a string of crypto wallet scams that have slipped past Apple’s review process. Back in 2023, a fake Trezor wallet app climbed the charts before Apple pulled the plug. A fraudulent Rabby Wallet app appeared in 2024. Earlier this year, a fake Ledger Live app reportedly facilitated the theft of more than $9.5 million from more than 50 victims. And last year, another lawsuit accused Apple over a fake trading app called Swiftcrypt. The plaintiffs in the Sparrow Wallet case are suing Apple under consumer-protection laws that cover California, Louisiana and Massachusetts. The plaintiffs also bring claims of fraudulent and negligent misrepresentations, in addition to accusing Apple of failing to warn users about fake crypto apps. They asked a jury to award damages, reimburse their stolen Bitcoin, and force Apple to strengthen its App Store review process. Apple’s response to crypto scams Apple pushed back on the claims, saying it quickly removed apps impersonating Sparrow Wallet. It also terminated the developer accounts behind the fake apps. While Apple declined to comment on Ramirez et al v. Apple, Inc. specifically, the company told TechCrunch that no Sparrow Wallet copycats are currently listed on the App Store. Apple also pointed to its own data from 2025, which showed it rejected more than 371,000 app submissions. The company says it rejected these submissions for copying other apps, spamming users or attempting to mislead potential downloaders. The fake Sparrow Wallet case is still in its early stages, and Apple has yet to file a formal response in court.
 
-🔗 [Cult of Mac](https://www.cultofmac.com/news/fake-sparrow-wallet-app-apple-lawsuit) • 1d ago
+🔗 [Cult of Mac](https://www.cultofmac.com/news/fake-sparrow-wallet-app-apple-lawsuit) • 2d ago
 
 ---
 
@@ -165,35 +165,47 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Strategy Skips Bitcoin Buying and Selling for a Third Week. Here’s What It Did Instead.](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-6b8ef61c)**
 
-barrons.com • 3d ago
+Barron's • 3d ago
 
 ---
 
-**[Bitcoin Posted Its Weakest Spot Trading Volume Since 2023. Here's Why I'm Not Concerned About Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-posted-weakest-spot-trading-141255365.html)**
+**[US stocks, bitcoin gain since Fed held rates steady at July FOMC meeting](https://finance.yahoo.com/video/us-stocks-bitcoin-gain-since-162000444.html)**
 
-The world's most valuable cryptocurrency isn't attracting much attention.
+Scott Melker discusses the Federal Reserve's latest decision to hold interest rates steady, examining Fed Chairman Kevin Warsh's remarks and how US stocks (^DJI, ^IXIC, ^GSPC) and crypto like bitcoin (BTC-USD) have reacted.
 
-finance.yahoo.com • 1h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin ETFs On Pace For Smallest Monthly Inflows Ever](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-pace-smallest-monthly-131400892.html)**
+**[Fed Holds Rates: Here's What the Decision Means for Bitcoin, Ethereum and Altcoins in August](https://bitcoinfoundation.org/news/altcoins/fed-holds-rates-heres-what-the-decision-means-for-bitcoin-ethereum-and-altcoins-in-august/)**
 
-Exchange-traded funds (ETFs) that track the spot price of Bitcoin (CRYPTO: $BTC) are on track to post their smalles...
+Find out how the latest Fed decision has impacted Bitcoin, Ethereum, and the rest of the crypto market, and where BTC could go in August
 
-finance.yahoo.com • 2h ago
+Bitcoin Foundation • 3h ago
+
+---
+
+**[Peter Schiff Warns Bitcoin Faces Bigger Selloff Beyond Tech Rout](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-bitcoin-faces-155700182.html)**
+
+Bitcoin faced a fresh downside warning Thursday after economist and longtime crypto critic Peter Schiff said the se...
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -209,7 +221,7 @@ Morningstar • 2d ago
 
 Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -217,21 +229,13 @@ CNBC • 1d ago
 
 Bitcoin may no longer be able to deliver the stratospheric returns that it did during its early years.
 
-The Motley Fool • 16h ago
+The Motley Fool • 18h ago
 
 ---
 
 **[Bitcoin falls to $64k amid rates, Iran jitters; Strategy earnings on tap](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491)**
 
-Investing.com • 8h ago
-
----
-
-**[There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say](https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe)**
-
-New research outlines a cryptographic approach that could allow Bitcoin wallets to remain compatible with existing addresses post-quantum.
-
-Decrypt • 19h ago
+Investing.com • 10h ago
 
 ---
 
@@ -267,7 +271,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took three. Taproot locked in 41 days, then decayed for years. Measured from our own node, genesis to tip.
 
-⬆️ 2 • 💬 0 • 10h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
+⬆️ 2 • 💬 0 • 12h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
 
 ---
 
@@ -307,7 +311,7 @@ Live public testnet with full node, external miner, browser wallet, snapshot boo
 
 The open standard for proving any file is real, unaltered and sealed - letsseal/letsseal
 
-⬆️ 94 • 💬 31 • 2d ago • [GitHub](https://github.com/letsseal/letsseal)
+⬆️ 94 • 💬 31 • 3d ago • [GitHub](https://github.com/letsseal/letsseal)
 
 ---
 
@@ -327,7 +331,7 @@ Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usual
 
 📺 Digital Asset News
 
-👁️ 1K • 👍 137 • 💬 5 • ⏱️ 31:34 • 1h ago
+👁️ 1K • 👍 137 • 💬 5 • ⏱️ 31:34 • 3h ago
 
 ---
 
@@ -337,7 +341,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 89 • ⏱️ 10:40 • 16h ago
+👁️ 34K • 👍 2K • 💬 89 • ⏱️ 10:40 • 18h ago
 
 ---
 
@@ -347,7 +351,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 602 • 💬 170 • ⏱️ 10:51 • 21h ago
+👁️ 10K • 👍 602 • 💬 170 • ⏱️ 10:51 • 23h ago
 
 ---
 
@@ -357,7 +361,7 @@ The government promised you clarity on Bitcoin. What you actually got: developer
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 294 • ⏱️ 22:39 • 16h ago
+👁️ 18K • 👍 1K • 💬 294 • ⏱️ 22:39 • 18h ago
 
 ---
 
@@ -367,7 +371,7 @@ Watch the official fighter of Bitcoin News Alerts LIVE: https://www.elsicario.co
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 297 • 💬 260 • ⏱️ 16:11 • 17h ago
+👁️ 4K • 👍 297 • 💬 260 • ⏱️ 16:11 • 19h ago
 
 ---
 
@@ -377,7 +381,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 270 • 💬 178 • ⏱️ 10:54 • 9h ago
+👁️ 3K • 👍 270 • 💬 178 • ⏱️ 10:54 • 11h ago
 
 ---
 
@@ -387,7 +391,7 @@ You won't believe what this bitcoin chart says about its downside target, that c
 
 📺 Alessio Rastani
 
-👁️ 33K • 👍 2K • 💬 824 • ⏱️ 18:15 • 1d ago
+👁️ 33K • 👍 2K • 💬 824 • ⏱️ 18:15 • 2d ago
 
 ---
 
@@ -397,7 +401,7 @@ My Free Trading Course https://rt1m.com/free My Trading Signals https://rt1m.com
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 200 • 💬 25 • ⏱️ 7:03 • 18h ago
+👁️ 3K • 👍 200 • 💬 25 • ⏱️ 7:03 • 20h ago
 
 ---
 
@@ -407,7 +411,7 @@ Thank you to Mint Mobile for partnering with us on this video! Visit our partner
 
 📺 The Graham Stephan Show
 
-👁️ 99K • 👍 3K • 💬 1K • ⏱️ 18:59 • 2d ago
+👁️ 99K • 👍 3K • 💬 1K • ⏱️ 18:59 • 3d ago
 
 ---
 
