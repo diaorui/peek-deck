@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T20:16:03.848988+00:00'
+updated: '2026-07-30T21:43:18.173724+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - social
 - cryptocurrency
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 20:16 UTC  
+**Last Updated:** July 30, 2026 at 21:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,924.38
+### $1,921.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +3.2%  
-**30d:** +19.4%  
+**24h:** +0.8%  
+**7d:** +3.3%  
+**30d:** +19.5%  
 **90d:** -17.0%  
 **1y:** -48.0%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.23B
+**Market Cap:** $231.76B
 Rank #2
 
 **Circulating Supply:** 120,682,509 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.2%
 
 **All-Time Low:** $0.43
-+442415.7%
++443508.1%
 
 ---
 
@@ -172,23 +172,15 @@ ethereum.org • 1d ago
 
 While Bitcoin traded sideways near $64,000 and Ethereum struggled to hold above $1,900, one token quietly topped the weekly crypto gainers chart with a 50% move that most of the market missed entirely. Audiera's BEAT token surged 50% over the past seven days to trade near $3.79, the strongest ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[A New Crypto Index Just Launched. Here's Why That's Bullish for Ethereum, Solana, and Hyperliquid.](https://finance.yahoo.com/markets/crypto/articles/crypto-index-just-launched-heres-165000187.html)**
-
-Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
-
 Yahoo Finance • 3h ago
 
 ---
 
-**[Raoul Pal Reveals the Next 100x Crypto Trade and It Is Not Bitcoin, Ethereum or XRP](https://www.tradingview.com/news/coinpedia:54437f5c0094b:0-raoul-pal-reveals-the-next-100x-crypto-trade-and-it-is-not-bitcoin-ethereum-or-xrp/)**
+**[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://www.tradingview.com/news/stocktwits:8c0d86896094b:0-cathie-wood-s-ark-trims-bmnr-stock-exposure-despite-calling-its-ethereum-strategy-exponential-sells-blsh-hood-xyz-shares-too/)**
 
-Raoul Pal has built a reputation for identifying macro trades before they become consensus. The former Goldman Sachs hedge fund manager and Real Vision founder is now making the case that the next crypto opportunity is not in the assets currently dominating market attention. It is in the infrastruc…
+Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
 
-tradingview.com • 1d ago
+TradingView • 10h ago
 
 ---
 
@@ -200,14 +192,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum)**
-
-USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
-
-The Block • 1d ago
-
----
-
 **[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
 
 Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
@@ -216,11 +200,19 @@ CoinMarketCap • 1d ago
 
 ---
 
-**[Morgan Stanley deepens push into crypto with ethereum, Solana ETFs despite ongoing volatility](https://www.pionline.com/asset-management/exchange-traded-funds/pi-morgan-stanley-deepens-crypto-push-ethereum-solana-etfs/)**
+**[Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum)**
 
-After entering the spot bitcoin ETF market this year, Morgan Stanley is already planning broader crypto offerings, including multi-currency strategies.
+USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
 
-Pensions & Investments • 10m ago
+The Block • 1d ago
+
+---
+
+**[A New Crypto Index Just Launched. Here's Why That's Bullish for Ethereum, Solana, and Hyperliquid.](https://www.fool.com/investing/2026/07/30/a-new-crypto-index-just-launched-heres-why-thats-b/)**
+
+Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
+
+fool.com • 4h ago
 
 ---
 
@@ -228,7 +220,15 @@ Pensions & Investments • 10m ago
 
 Robinhood Chain, powered by Ethereum, now has 328,000 holders of tokenized real-world assets, making it the leading blockchain by RWA holders.
 
-Benzinga • 1d ago
+Benzinga • 2d ago
+
+---
+
+**[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 8h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 5K • 👍 401 • 💬 17 • ⏱️ 19:50 • 6h ago
+👁️ 9K • 👍 510 • 💬 29 • ⏱️ 19:50 • 7h ago
 
 ---
 
@@ -252,17 +252,27 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 530 • 💬 418 • ⏱️ 13:14 • 19h ago
+👁️ 10K • 👍 539 • 💬 465 • ⏱️ 13:14 • 21h ago
 
 ---
 
-**[ETH IS ABOUT TO BREAKOUT! (Bullish or Bearish?)](https://www.youtube.com/watch?v=KQ9tEbWgZ7A)**
+**[Im nächsten Ethereum-Run sind 1.000% locker möglich!](https://www.youtube.com/watch?v=DSijbQ4pzoc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situation von Ethereum und erläutern, warum wir den ...
 
-📺 Cilinix Crypto
+📺 HKCM
 
-👁️ 166 • 👍 17 • 💬 10 • ⏱️ 5:55 • 11h ago
+👁️ 20K • 👍 2K • 💬 47 • ⏱️ 19:00 • 5h ago
+
+---
+
+**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
+
+Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
+
+📺 The Rollup
+
+👁️ 3K • 👍 37 • 💬 4 • ⏱️ 6:40 • 2d ago
 
 ---
 
@@ -282,7 +292,7 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 4K • 👍 123 • 💬 7 • ⏱️ 0:57 • 1d ago
+👁️ 4K • 👍 128 • 💬 7 • ⏱️ 0:57 • 1d ago
 
 ---
 
@@ -292,17 +302,27 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 35K • 👍 99 • ⏱️ 0:06 • 1d ago
+👁️ 36K • 👍 103 • ⏱️ 0:06 • 1d ago
 
 ---
 
-**[Im nächsten Ethereum-Run sind 1.000% locker möglich!](https://www.youtube.com/watch?v=DSijbQ4pzoc)**
+**[ETH IS ABOUT TO BREAKOUT! (Bullish or Bearish?)](https://www.youtube.com/watch?v=KQ9tEbWgZ7A)**
 
-In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situation von Ethereum und erläutern, warum wir den ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 HKCM
+📺 Cilinix Crypto
 
-👁️ 9K • 👍 1K • 💬 37 • ⏱️ 19:00 • 4h ago
+👁️ 201 • 👍 18 • 💬 10 • ⏱️ 5:55 • 12h ago
+
+---
+
+**[Crypto Market Outlook! Bitcoin, XRP, Ethereum, Cardano, &amp; Solana Analysis!](https://www.youtube.com/watch?v=bPYHeqx6tX8)**
+
+Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, Cardano, and Solana. 🖥️ Sign ...
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 146 • 💬 10 • ⏱️ 26:56 • 8h ago
 
 ---
 
@@ -313,26 +333,6 @@ Are these fear headlines driving Bitcoin price analysis or just market manipulat
 📺 Crypto Capital Venture
 
 👁️ 13K • 👍 676 • 💬 522 • ⏱️ 12:59 • 2d ago
-
----
-
-**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
-
-Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
-
-📺 The Rollup
-
-👁️ 3K • 👍 37 • 💬 4 • ⏱️ 6:40 • 2d ago
-
----
-
-**[Ethereum Hits Key Resistance: What Happens Next?](https://www.youtube.com/watch?v=qOEicNriYSI)**
-
-In this video I break down the current Ethereum price action and the potential for a wave two reversal. I analyze the key resistance ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 153 • 💬 4 • ⏱️ 6:10 • 1d ago
 
 ---
 

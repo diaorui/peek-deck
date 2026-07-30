@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-30T20:16:03.842919+00:00'
+updated: '2026-07-30T21:43:18.169409+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - social
 - cryptocurrency
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 20:16 UTC  
+**Last Updated:** July 30, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,792.19
+### $64,849.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
+**24h:** +1.3%  
 **7d:** +1.0%  
 **30d:** +7.9%  
 **90d:** -17.7%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1296.99B
+**Market Cap:** $1298.50B
 Rank #1
 
-**Circulating Supply:** 20,063,381 BTC
+**Circulating Supply:** 20,063,421 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -48.7%
 
 **All-Time Low:** $67.81
-+95231.1%
++95343.1%
 
 ---
 
@@ -161,11 +161,11 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks](https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks)**
+**[Live updates: Bitcoin holds above $64,000 as Nasdaq surges on AI trade comeback](https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks)**
 
 S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.
 
-CoinDesk • 1h ago
+CoinDesk • 54m ago
 
 ---
 
@@ -173,35 +173,33 @@ CoinDesk • 1h ago
 
 Bitcoin firmed toward $65,000 on Thursday as softer economic data eased September Fed hike fears, with spot volume near multi-year lows.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
-**[MSTR Stock: Why Strategy May Restart Bitcoin Buys With Q2 Earnings Report](https://www.investors.com/news/mstr-stock-strategy-bitcoin-q2-earnings/)**
+**[Strategy Announces Second Quarter Financial Results; Currently Holds 843,775 Bitcoin; Now the Largest Institutional Holder Globally](https://www.businesswire.com/news/home/20260730035038/en/Strategy-Announces-Second-Quarter-Financial-Results-Currently-Holds-843775-Bitcoin-Now-the-Largest-Institutional-Holder-Globally)**
 
-Investor's Business Daily • 2h ago
-
----
-
-**[This underrated token beats Bitcoin and Ethereum with 50% weekly gains](https://finance.yahoo.com/markets/crypto/articles/underrated-token-beats-bitcoin-ethereum-180004267.html)**
-
-While Bitcoin traded sideways near $64,000 and Ethereum struggled to hold above $1,900, one token quietly topped the weekly crypto gainers chart with a 50% move that most of the market missed entirely. Audiera's BEAT token surged 50% over the past seven days to trade near $3.79, the strongest ...
-
-Yahoo Finance • 2h ago
+Business Wire • 1h ago
 
 ---
 
-**[Bitcoin’s Final Bear Leg: History Says $35,000, On-Chain Data Disagrees](https://finance.yahoo.com/markets/crypto/articles/bitcoin-final-bear-leg-history-180000884.html)**
+**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
 
-On-chain data challenges the $35,000 Bitcoin final bear leg call. Three metrics suggest the bear market may end near $44,000.
+WSJ • 32m ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Cathie Wood once said sell gold and buy Bitcoin, here is whether she got it right](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-once-said-sell-201648919.html)**
+
+On February 2, 2026, Cathie Wood said something that turned heads across financial media. The ARK Invest CEO said she would "make a shift from gold into Bitcoin," pointing to a chart showing gold divided by the M2 money supply had hit a record high. Her conclusion was direct. "Gold is probably ...
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -209,15 +207,7 @@ Bloomberg.com • 7h ago
 
 Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
 
-Seeking Alpha • 4h ago
-
----
-
-**[Bitcoin may be showing signs of a bottom despite continued consolidation, chart analysts say](https://www.cnbc.com/2026/07/28/bitcoin-is-showing-signs-of-a-bottom-chart-analysts-say.html)**
-
-Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
-
-CNBC • 2d ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -229,11 +219,19 @@ Morningstar • 2d ago
 
 ---
 
+**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
+
+Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
+
+CNBC • 3d ago
+
+---
+
 **[Radar Is Turning Your Signal Chats Into Bitcoin Payment Rails](https://www.forbes.com/sites/digital-assets/2026/07/30/radar-is-turning-your-signal-chats-into-bitcoin-payment-rails/)**
 
 The team behind Cake Wallet has launched Radar Chat, a new messaging app forked from Signal, enabling users to instantly send and receive bitcoin via encrypted messages.
 
-forbes.com • 1h ago
+forbes.com • 3h ago
 
 ---
 
@@ -245,7 +243,7 @@ forbes.com • 1h ago
 
 The alleged thieves infected 8,000 devices.
 
-⬆️ 45 • 💬 45 • 2d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+⬆️ 45 • 💬 45 • 3d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -269,7 +267,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took three. Taproot locked in 41 days, then decayed for years. Measured from our own node, genesis to tip.
 
-⬆️ 2 • 💬 0 • 14h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
+⬆️ 2 • 💬 0 • 16h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
 
 ---
 
@@ -293,7 +291,7 @@ A minimal, modular blockchain for peer-to-peer value and controlled networks. - 
 
 The first Bitcoin newsletter that rewards you with sats while you learn about regulation, sovereignty, and legal developments.
 
-⬆️ 1 • 💬 0 • 2d ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
+⬆️ 1 • 💬 0 • 3d ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
 
 ---
 
@@ -329,7 +327,7 @@ Bitcoin barely moved after one of the biggest macro events of the year. In this 
 
 📺 Yahoo Finance
 
-👁️ 1K • 👍 154 • 💬 105 • ⏱️ 14:53 • 3h ago
+👁️ 4K • 👍 257 • 💬 110 • ⏱️ 14:53 • 5h ago
 
 ---
 
@@ -339,7 +337,7 @@ Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usual
 
 📺 Digital Asset News
 
-👁️ 2K • 👍 238 • 💬 12 • ⏱️ 31:34 • 6h ago
+👁️ 3K • 👍 270 • 💬 16 • ⏱️ 31:34 • 8h ago
 
 ---
 
@@ -349,7 +347,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 104 • ⏱️ 10:40 • 21h ago
+👁️ 38K • 👍 2K • 💬 105 • ⏱️ 10:40 • 22h ago
 
 ---
 
@@ -359,7 +357,7 @@ The government promised you clarity on Bitcoin. What you actually got: developer
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 345 • ⏱️ 22:39 • 20h ago
+👁️ 21K • 👍 2K • 💬 393 • ⏱️ 22:39 • 22h ago
 
 ---
 
@@ -369,37 +367,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 605 • 💬 169 • ⏱️ 10:51 • 1d ago
-
----
-
-**[$1 Trillion Bitcoin Signal - Congress Just Found The Votes](https://www.youtube.com/watch?v=3i-SmXo_hH4)**
-
-Watch the official fighter of Bitcoin News Alerts LIVE: https://www.elsicario.com Yesterday it looked like the Bitcoin Clarity Act had ...
-
-📺 Bitcoin News Alerts
-
-👁️ 4K • 👍 301 • 💬 262 • ⏱️ 16:11 • 22h ago
-
----
-
-**[Bitcoin: This Is What The Bitcoin Bottom Will Look Like](https://www.youtube.com/watch?v=FLhLwviNpZA)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Favorite Place To ...
-
-📺 Aaron Bennett
-
-👁️ 4K • 👍 311 • 💬 181 • ⏱️ 10:54 • 13h ago
-
----
-
-**[He Just Confirmed It (BTC Holders wake up) ](https://www.youtube.com/watch?v=7bUUdmjK1SA)**
-
-Clarity ACT, BTC charts, ETH, UNISWAP, QQQ and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 709 • 💬 97 • ⏱️ 12:37 • 1d ago
+👁️ 10K • 👍 609 • 💬 170 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -409,17 +377,47 @@ You won't believe what this bitcoin chart says about its downside target, that c
 
 📺 Alessio Rastani
 
-👁️ 33K • 👍 2K • 💬 828 • ⏱️ 18:15 • 2d ago
+👁️ 34K • 👍 2K • 💬 831 • ⏱️ 18:15 • 2d ago
 
 ---
 
-**[BITCOIN: MORE LIQUIDATIONS INCOMING!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=YH28Eow0dT4)**
+**[Bitcoin: This Is What The Bitcoin Bottom Will Look Like](https://www.youtube.com/watch?v=FLhLwviNpZA)**
 
-My Free Trading Course https://rt1m.com/free My Trading Signals https://rt1m.com/signals Find the Best Exchange for You ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Favorite Place To ...
 
-📺 Road To $1 Million USD
+📺 Aaron Bennett
 
-👁️ 3K • 👍 204 • 💬 25 • ⏱️ 7:03 • 23h ago
+👁️ 4K • 👍 337 • 💬 182 • ⏱️ 10:54 • 15h ago
+
+---
+
+**[The Biggest Crypto Opportunity Is NOT Bitcoin | Matt Hougan](https://www.youtube.com/watch?v=cKsSiWZRl5A)**
+
+What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains why the convergence of blockchain and traditional ...
+
+📺 Cointelegraph
+
+👁️ 516 • 👍 15 • 💬 60 • ⏱️ 1:03 • 6h ago
+
+---
+
+**[Lost Rs 4 Crore Bitcoin, AI Found it 11 Years | Roshni Chellani](https://www.youtube.com/watch?v=_QBLN-rzSR0)**
+
+He lost ₹4 crore in Bitcoin... and AI found it 11 years later   This sounds like a movie, but it's a real story. After spending years ...
+
+📺 Roshni Chellani
+
+👁️ 21K • 👍 567 • 💬 12 • ⏱️ 1:39 • 1d ago
+
+---
+
+**[Why EVERYONE wants Bitcoin now](https://www.youtube.com/watch?v=NPJcLya_3ek)**
+
+Bitcoin is different things to different people. To Iran it's neutral money outside US control. To Morgan Stanley it's a product to sell ...
+
+📺 Anthony Pompliano
+
+👁️ 839 • 👍 19 • ⏱️ 0:27 • 5h ago
 
 ---
 
