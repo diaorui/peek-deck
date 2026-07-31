@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-31T01:04:48.324295+00:00'
+updated: '2026-07-31T04:59:39.413728+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 31, 2026 at 01:04 UTC  
+**Last Updated:** July 31, 2026 at 04:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 California-based robotics startup Satyress is developing Threehalves, a 7-foot-tall teleoperated centaur robot designed for hazardous work.But if it’s designed for hazardous tasks, why does it look like something you could ride—something that seems more at home in an amusement park? Although its appearance is a bit creepy lol.
 
-12h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ California-based robotics startup Satyress is developing Threehalves, a 7-foot-t
 
 Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about $100), a BNO085 IMU, and hall encoders on the wheels. No RTK, no base station, no corrections Orange is pretty much every fix the receiver reported. Blue is the output seen after fusing those fixes with the IMU and wheel odometry in a UKF. Every fix was used, none were rejected in this entire run. What I can and cannot say about this is that, since this is a fair thing to ask: I don't have RTK ground truth for this run, so I can't claim the blue line is closer to the true path than the orange dots are. What I can say is that the filter's reported 1-sigma stayed around 2.5 m throughout, including while moving, and the fused output tracked the raw fixes to a median of 1.69 m. Both of those are self-reported numbers, not error against an independent reference. Other limitations worth stating: it's a single short run covering only about 20 m, there's no comparison against robot_localization on the same data yet, and heading comes from GPS track rather than a magnetometer, so it isn't meaningful for roughly the first minute of driving. The curve in the path is mechanical, the chassis pulls right about 3 deg/s. On the next run I'm closing the loop back to a physically marked start point so there's at least a real closure number, and replaying the same bag through robot_localization so it's a controlled comparison on identical input rather than one filter on its own. Also looking into borrowing an F9P for proper ground truth. Disclosure: I wrote the filter (FusionCore): https://github.com/manankharwar/fusioncore Happy to share the rosbag if anyone wants to run their own filter against it. Edit: rewrote this. Sorry if my english is bad...
 
-4h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about 
 
 Google DeepMind has announced Gemini Robotics 2, its latest robotics foundation models, in early access. The release adds full-body control for humanoid robots, multi-step task execution with the ability to recover from mistakes, natural language communication, multi-robot coordination, on-device deployment, and new safety features that can reject unsafe commands or request human assistance when needed. Google demonstrated the models on Apptronik’s Apollo 2 humanoid, along with dexterous robotic hands and dual-arm systems. The update moves beyond robots performing isolated tasks and toward systems that can complete longer sequences of work while interacting more naturally with people and other robots.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/google-deepmind-announces-gemini-robotics-2-new-safety-measures-for-humanoids) • 9h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/google-deepmind-announces-gemini-robotics-2-new-safety-measures-for-humanoids) • 13h ago
 
 ---
 
@@ -60,7 +60,7 @@ Google DeepMind has announced Gemini Robotics 2, its latest robotics foundation 
 
 Damage can fragment a modular robotic structure into disconnected pieces. We developed decentralized strategies that allow the surviving modules to consolidate, reorganize, and autonomously restore connectivity without a central controller. Across 1,000 simulated damage scenarios, the system retained at least 80% of surviving modules in its largest connected component even after 30% random failures, with near-perfect reconnection in fully connected cases. The broader goal is to develop machine analogues of homeostasis and morphogenesis: systems that can detect damage, adapt their physical organization, and preserve function. Technical article: https://www.manifoldrg.com/can-a-spacecraft-heal-itself/ Preprint: https://arxiv.org/abs/2607.13444 I’m one of the authors and would welcome feedback, particularly on the decentralized coordination strategy and the path toward hardware experiments.
 
-8h ago
+12h ago
 
 ---
 
@@ -68,7 +68,7 @@ Damage can fragment a modular robotic structure into disconnected pieces. We dev
 
 I'm exploring Bowden cables as a way to transmit motion when the motor can't be placed near the moving part. This is just a quick setup to see how smoothly it works before designing a larger mechanism. Any suggestions or ideas are welcome.
 
-4h ago
+8h ago
 
 ---
 
@@ -76,25 +76,25 @@ I'm exploring Bowden cables as a way to transmit motion when the motor can't be 
 
 The new US restriction on foreign-made humanoids and quadrupeds is framed around security, but price and availability matter to research velocity. AP reports that Chinese manufacturers ship far more humanoids than US rivals and often at much lower prices. Labs learn by breaking hardware, replacing parts, and running many imperfect prototypes. If the affordable platforms disappear, better-funded companies may adapt while universities, startups, and independent builders reduce experiments or move them abroad. Would a certified research-only pathway preserve security without concentrating access? Or are connected embodied systems too difficult to contain once they enter a lab network? Source: https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366
 
-19h ago
+23h ago
 
 ---
 
 **[how to build accelerator kit for robotics using Isaac sim and isaac lab](https://www.reddit.com/r/robotics/comments/1vb3ukp/how_to_build_accelerator_kit_for_robotics_using/)**
 
-5h ago
+9h ago
 
 ---
 
 **[That’s how we train the robot to follow you by reinforcement learning.](https://www.reddit.com/r/robotics/comments/1vb03v3/thats_how_we_train_the_robot_to_follow_you_by/)**
 
-7h ago
+11h ago
 
 ---
 
 **[Could there be an open-source layout robot for surveyors?](https://www.reddit.com/r/robotics/comments/1vb5lv8/could_there_be_an_opensource_layout_robot_for/)**
 
-4h ago
+8h ago
 
 ---
 
@@ -102,7 +102,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.
 
-🔗 [WIRED](https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/) • 10h ago
+🔗 [WIRED](https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/) • 14h ago
 
 ---
 
@@ -114,31 +114,7 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
-Google DeepMind • 9h ago
-
----
-
-**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
-
-The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
-
-WIRED • 10h ago
-
----
-
-**[Google reveals Gemini Robotics 2.0, promising improved dexterity and safety](https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/)**
-
-Gemini Robotics 2 includes three models, but only one is publicly available right now.
-
-Ars Technica • 7h ago
-
----
-
-**[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
-
-Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
-
-BBC • 1d ago
+Google DeepMind • 13h ago
 
 ---
 
@@ -152,23 +128,7 @@ Reuters • 2d ago
 
 Long a symbol of China’s economic surge, Shenzhen is embracing a high-tech, low-altitude future.
 
-NBC News • 8h ago
-
----
-
-**[Making robots faster by helping them think ahead](https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728)**
-
-The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
-
-MIT News • 2d ago
-
----
-
-**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
-
-Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
-
-Business Insider • 1d ago
+NBC News • 11h ago
 
 ---
 
@@ -180,11 +140,51 @@ NVIDIA Developer • 2d ago
 
 ---
 
+**[Making robots faster by helping them think ahead](https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728)**
+
+The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.
+
+MIT News • 3d ago
+
+---
+
+**[Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation](https://www.businessinsider.com/startup-generalist-ai-in-talks-to-raise-at-billion-valuation-2026-7)**
+
+Venture firm 8VC is expected to lead the round as investors pour money into physical AI.
+
+Business Insider • 1d ago
+
+---
+
+**[Here's why a robotics firm founder hired Brockton students on the spot](https://www.enterprisenews.com/story/news/education/2026/07/30/brockton-high-school-drone-team-boston-robotics-company/91036144007/)**
+
+Here's how a group of kids from Brockton ended up interning at a Boston robotics firm and what BHS's talented drone pilot plans to do next.
+
+Enterprise News • 19h ago
+
+---
+
 **[You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco](https://abc7news.com/post/can-hire-humanoid-robots-tau-robotics-clean-home-san-francisco/19599847/)**
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco, where a person operates the robot from a central location with assistance from AI. Would you hire them?
 
-ABC7 Bay Area • 6h ago
+ABC7 Bay Area • 10h ago
+
+---
+
+**[Experts react to FCC limits on U.S. imports of new humanoid and mobile robots](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/)**
+
+The FCC has banned some foreign humanoids, which industry experts say could help U.S. industry but hinder innovation.
+
+The Robot Report • 1d ago
+
+---
+
+**[Walberg warns about robotics work tied to Dowagiac data center](https://www.moodyonthemarket.com/walberg-warns-about-robotics-work-tied-to-dowagiac-data-center/)**
+
+Congressman Tim Walberg is seeking federal action to head off what he believes could be the national security implications of developments planned at an already-controversial data center in Dowagiac. Walberg this week sent a letter to U.S.
+
+Moody on the Market • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 44K • 👍 2K • 💬 211 • ⏱️ 3:00 • 10h ago
+👁️ 54K • 👍 2K • 💬 235 • ⏱️ 3:00 • 14h ago
 
 ---
 
@@ -208,7 +208,17 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 31K • 👍 234 • 💬 338 • ⏱️ 6:04 • 1d ago
+👁️ 40K • 👍 259 • 💬 366 • ⏱️ 6:04 • 1d ago
+
+---
+
+**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
+
+A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
+
+📺 ABC7 News Bay Area
+
+👁️ 2K • 👍 30 • 💬 27 • ⏱️ 2:01 • 7h ago
 
 ---
 
@@ -218,7 +228,7 @@ Introducing multi-robot collaboration. This enables different types of robots to
 
 📺 Google DeepMind
 
-👁️ 3K • 👍 143 • 💬 16 • ⏱️ 2:09 • 10h ago
+👁️ 4K • 👍 160 • 💬 18 • ⏱️ 2:09 • 14h ago
 
 ---
 
@@ -228,7 +238,7 @@ Multi-robot collaboration enables different types of robots to communicate and w
 
 📺 Google DeepMind
 
-👁️ 5K • 👍 297 • 💬 23 • ⏱️ 2:32 • 10h ago
+👁️ 6K • 👍 332 • 💬 23 • ⏱️ 2:32 • 14h ago
 
 ---
 
@@ -238,17 +248,17 @@ The FDA just changed the future of surgical robotics and almost everyone is watc
 
 📺 Ross Givens
 
-👁️ 12K • 👍 682 • 💬 193 • ⏱️ 11:31 • 1d ago
+👁️ 12K • 👍 687 • 💬 193 • ⏱️ 11:31 • 1d ago
 
 ---
 
-**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
+**[The Most Capable Humanoid Robot Yet!](https://www.youtube.com/watch?v=Q60VNdtyiAA)**
 
-The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
+Google just released Gemini Robotics 2 today, and it's a much bigger leap than you may think. Unlike previous models, it ...
 
-📺 KhanFlicks
+📺 Matt Wolfe
 
-👁️ 1K • 💬 30 • ⏱️ 3:45 • 1d ago
+👁️ 5K • 👍 226 • 💬 8 • ⏱️ 0:56 • 12h ago
 
 ---
 
@@ -258,37 +268,27 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 609K • 👍 7K • 💬 3K • ⏱️ 2:15 • 3d ago
+👁️ 662K • 👍 7K • 💬 3K • ⏱️ 2:15 • 3d ago
 
 ---
 
-**[Tough dexterity tasks with Gemini Robotics 2](https://www.youtube.com/watch?v=wYVHxw2-DP4)**
+**[CHINA CLAPS BACK After US BANS Its Humanoid Robots #news #technology #china #robot](https://www.youtube.com/watch?v=4YDY0QcIXb0)**
 
-To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
+The United States just shut its doors to new Chinese humanoid and four legged robots, and Beijing did not stay silent. China's ...
 
-📺 Google DeepMind
+📺 SXE China
 
-👁️ 3K • 👍 166 • 💬 16 • ⏱️ 2:19 • 10h ago
-
----
-
-**[I Built a Tiny AI Robot with ESP32-S3 | Xiaozhi AI Robot DIY](https://www.youtube.com/watch?v=i0nN3e4tpvE)**
-
-In this video, I'll show you how to build a tiny AI-powered robot using the ESP32-S3 N16R8 and Xiaozhi AI. Components Used ...
-
-📺 Creative Channel
-
-👁️ 7K • 👍 514 • 💬 52 • ⏱️ 31:13 • 13h ago
+👁️ 21K • 👍 291 • 💬 41 • ⏱️ 0:46 • 1d ago
 
 ---
 
-**[Advanced dexterity with Gemini Robotics 2](https://www.youtube.com/watch?v=O9-650iHAls)**
+**[Humanoid robot floors CEO with high-energy kick](https://www.youtube.com/watch?v=O4kdStMkYJQ)**
 
-To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
+A video of EngineAI's CEO being knocked to the ground by one of the company's humanoid robots during a live demonstration ...
 
-📺 Google DeepMind
+📺 CGTN
 
-👁️ 6K • 👍 316 • 💬 33 • ⏱️ 2:17 • 10h ago
+👁️ 18K • 👍 195 • 💬 9 • ⏱️ 0:18 • 22h ago
 
 ---
 

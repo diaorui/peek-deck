@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T01:04:48.321101+00:00'
+updated: '2026-07-31T04:59:39.410564+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 01:04 UTC  
+**Last Updated:** July 31, 2026 at 04:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,923.28
+### $1,903.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.6%  
-**30d:** +13.1%  
-**90d:** -17.2%  
-**1y:** -44.9%  
+**24h:** +0.0%  
+**7d:** +1.7%  
+**30d:** +12.1%  
+**90d:** -17.9%  
+**1y:** -45.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.37B
+**Market Cap:** $229.80B
 Rank #2
 
-**Circulating Supply:** 120,682,509 ETH
+**Circulating Supply:** 120,682,334 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.5%
 
 **All-Time Low:** $0.43
-+442683.6%
++439688.1%
 
 ---
 
@@ -168,11 +168,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-wobble-fed-holds-184345987.html)**
+**[Bitcoin, Ethereum Spike, XRP and Dogecoin Climb Amid Sharp Crypto Recovery: Analyst Says 'Don't Fear' BTC Dropping to $60,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-spike-xrp-dogecoin-021729869.html)**
 
-Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
+Leading cryptocurrencies staged a sharp recovery alongside stocks on Thursday, reversing a Federal Reserve-driven sell-off the day before. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.16%$65,112.78Ethereum (CRYPTO: ETH) +1.31%$1,929.21XRP (CRYPTO: XRP) +1.48%$1.08Solana (CRYPTO: SOL) +2.05%$75.02Dogecoin (CRYPTO: DOGE) +0.72%$0.07079 Crypto Market Rebounds After a brief lull, Bitcoin pushed back above $65,000. Ethereum, meanwhile, continued to wrestle w
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
 
-TradingView • 13h ago
+TradingView • 17h ago
 
 ---
 
@@ -192,39 +192,35 @@ CoinMarketCap • 1d ago
 
 ---
 
-**[Ethereum and solana are getting busier — and cheaper. What's going on?](https://finance.yahoo.com/video/ethereum-solana-getting-busier-cheaper-173000356.html)**
-
-Ethereum (ETH-USD) and solana (SOL-USD) are getting busier and cheaper, even as token prices fall, according to Bitwise.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Morgan Stanley debuts Ethereum and Solana ETFs with market's lowest fee, staking rewards](https://www.theblock.co/post/409898/morgan-stanley-debuts-ethereum-solana-etfs-markets-lowest-fee-staking-rewards)**
-
-The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
-
-theblock.co • 2d ago
-
----
-
-**[A New Crypto Index Just Launched. Here's Why That's Bullish for Ethereum, Solana, and Hyperliquid.](https://www.fool.com/investing/2026/07/30/a-new-crypto-index-just-launched-heres-why-thats-b/)**
-
-Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
-
-The Motley Fool • 7h ago
-
----
-
 **[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+fortune.com • 18h ago
+
+---
+
+**[Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum)**
+
+USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
+
+The Block • 1d ago
+
+---
+
+**[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
+
+BlackRock clients bought over $20 million in ETH; staking beats records.
+
+AMBCrypto • 23h ago
+
+---
+
+**[Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million](https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/)**
+
+Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
+
+CryptoSlate • 9h ago
 
 ---
 
@@ -246,27 +242,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 617 • 💬 35 • ⏱️ 19:50 • 11h ago
-
----
-
-**[BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oCKBFNfDf_g)**
-
-BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 111 • 💬 21 • ⏱️ 25:14 • 2h ago
-
----
-
-**[Why $FWA Can Be Ethereum’s Next Billion Dollar Protocol! 50-100X Opportunity!](https://www.youtube.com/watch?v=3SakjY_7L2Y)**
-
-We came back to Fake World Assets because the numbers stopped looking like a novelty. When we first covered FWA it read as a ...
-
-📺 The Block Runner
-
-👁️ 100 • 👍 11 • ⏱️ 18:23 • 1h ago
+👁️ 15K • 👍 701 • 💬 51 • ⏱️ 19:50 • 14h ago
 
 ---
 
@@ -276,7 +252,17 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 545 • 💬 545 • ⏱️ 13:14 • 1d ago
+👁️ 10K • 👍 546 • 💬 550 • ⏱️ 13:14 • 1d ago
+
+---
+
+**[BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oCKBFNfDf_g)**
+
+BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 196 • 💬 42 • ⏱️ 25:14 • 6h ago
 
 ---
 
@@ -296,17 +282,7 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 4K • 👍 131 • 💬 7 • ⏱️ 0:57 • 1d ago
-
----
-
-**[Im nächsten Ethereum-Run sind 1.000% locker möglich!](https://www.youtube.com/watch?v=DSijbQ4pzoc)**
-
-In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situation von Ethereum und erläutern, warum wir den ...
-
-📺 HKCM
-
-👁️ 30K • 👍 2K • 💬 53 • ⏱️ 19:00 • 9h ago
+👁️ 5K • 👍 136 • 💬 7 • ⏱️ 0:57 • 2d ago
 
 ---
 
@@ -316,17 +292,7 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 36K • 👍 104 • ⏱️ 0:06 • 1d ago
-
----
-
-**[Crypto Market Outlook! Bitcoin, XRP, Ethereum, Cardano, &amp; Solana Analysis!](https://www.youtube.com/watch?v=bPYHeqx6tX8)**
-
-Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, Cardano, and Solana. 🖥️ Sign ...
-
-📺 Thinking Crypto
-
-👁️ 2K • 👍 160 • 💬 10 • ⏱️ 26:56 • 12h ago
+👁️ 36K • 👍 104 • ⏱️ 0:06 • 2d ago
 
 ---
 
@@ -336,7 +302,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 221 • 👍 18 • 💬 10 • ⏱️ 5:55 • 16h ago
+👁️ 242 • 👍 20 • 💬 10 • ⏱️ 5:55 • 20h ago
+
+---
+
+**[Im nächsten Ethereum-Run sind 1.000% locker möglich!](https://www.youtube.com/watch?v=DSijbQ4pzoc)**
+
+In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situation von Ethereum und erläutern, warum wir den ...
+
+📺 HKCM
+
+👁️ 32K • 👍 2K • 💬 59 • ⏱️ 19:00 • 12h ago
+
+---
+
+**[Hong Kong adds XRP to Bitcoin Solana ETH for retail trading XRP value growing globally USA slipping](https://www.youtube.com/watch?v=uhEpzrnclLg)**
+
+Hong Kong is letting the world know that they consider XRP to be very very valuable and in the same conversation with BTC ETH ...
+
+📺 Donnahue  George Stocks Real Estate Health
+
+👁️ 1K • 👍 123 • 💬 14 • ⏱️ 4:18 • 16h ago
+
+---
+
+**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+
+Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+
+📺 Crypto Capital Venture
+
+👁️ 13K • 👍 676 • 💬 522 • ⏱️ 12:59 • 2d ago
 
 ---
 

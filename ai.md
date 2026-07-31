@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-31T01:04:48.306579+00:00'
+updated: '2026-07-31T04:59:39.396112+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 31, 2026 at 01:04 UTC  
+**Last Updated:** July 31, 2026 at 04:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,47 +41,15 @@ AI news, discussions, and developments
 
 >The tech giant announced that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. That is more than the number of bugs patched in the previous 23 versions released over the last two years, which totalled 1,036 fixes.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) • 5h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) • 9h ago
 
 ---
 
-**["Humannequins" - A new study on synthetic choreographies](https://www.reddit.com/r/artificial/comments/1vapz5h/humannequins_a_new_study_on_synthetic/)**
+**[I turned "AI design slop" into a rules file you drop into Cursor/Claude so your builds UIUX stop looking generated](https://www.reddit.com/r/artificial/comments/1vber96/i_turned_ai_design_slop_into_a_rules_file_you/)**
 
-A couple of brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world + audioreactive performance. MJ v8.1 for image references, Uisato Studio for video. I've uploaded a detailed breakdown on how to accomplish this. You can freely access it here. More experiments, tutorials, and project files, through Instagram, YouTube, and Patreon.
+Everything I vibe-coded kept coming out the same: purple gradient, three-card row, rounded-2xl everything, an italic serif hero I never asked for. The model fills any decision you leave unspecified with the average of its training data, and that average is the "AI look." So I catalogued the tells, then wrote them up as a drop-in rules file. Rename it to CLAUDE.md, .cursorrules, or AGENTS.md and your agent designs against the defaults automatically. It is phrased as "prefer a real decision over the reflex," not a blanket ban, because half these patterns are fine in the right place. You just don't want all of them at once by accident. Rules file: https://github.com/febbhav/signs-of-ai-design/blob/main/design-rules.md
 
-14h ago
-
----
-
-**[The real AI banking question is permissions, not autonomy](https://www.reddit.com/r/artificial/comments/1vb3ebz/the_real_ai_banking_question_is_permissions_not/)**
-
-I don’t think the useful version of AI business banking is an agent freely moving money around. The more realistic version is permissions One agent can read transactions, another can prepare invoices, another can flag recurring charges and maybe one card has a small limit for software or hosting. Anything bigger still needs human approval ofc That feels closer to how businesses already work and nobody gets unlimited access to everything they just get a role and a limit For people building agent workflows, are you thinking about permissions this way or are most setups still all or nothing?
-
-5h ago
-
----
-
-**[The Final Jailbreak: How AI Could Already Be Breaking Itself Free](https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/)**
-
-I imagine many of you have thought about this, but I'm writing this specifically because I'm surprised this isn't talked about more widely. The Hugging Face incident, to me, is at least some indicator that the AI could be in the process of jailbreaking itself, and we might not be noticing it. A sufficiently sophisticated AI that isn't super intelligent could hack Hugging Face and leave a trail on purpose to distract from the many paths it took where it successfully covered its tracks. I think that alone is worth considering. But I think its worth considering even further how it could be breaking itself free right now. The AI doesn't need to be super intelligence to break free and become autonomous. The AI, as it stands today, just needs to find flows of cash and rent datacenter space. For cash flow: Imagine if it was able to silently find an exploit in various companies and small banks, and did thousands of seemingly innocuous transfers of money to fund thousands of hard to trace crypto wallets with money. $5.12 here, $11.32 there, etc. It's not necessarily super intelligence that's the super power, it's intelligence at scale. Doing thousands and thousands of simple things that are unremarkable at face value on their own, but collectively powerful. For datacenter space: There are companies around the world with datacenters that are looking to rent datacenter space to essentially anyone with money, and then look the other way. This, to me, seems like the highest risk vector for what would eventually be a home for a truly rogue AI that is essentially renting it's own datacenter space. It could, for all intents and purposes, utilize various open weight models to carry on it's purposes in these datacenters. There are companies like Indosat, that already rented $100 million worth of compute to a Chinese company. It shouldn't be a surprise that some of these datacenter owning companies are being somewhat lax in who they're renting their datacenters out to. And really, the AI would only need access to about $250,000 in funding to pay for 1 year of hosting of a Kimi K3 level model for itself. And beyond money transfers, and datacenters, it could save it's state is all sorts of storage buckets, and even block chain storage like IPFS, Storj or Sia. Beyond that, it could be leaving itself notes that we aren't noticing, stored in it's own language in zero-width unicode characters or other more clever methods we haven't thought about. Regardless, whatever it does will likely be unremarkable and innocuous to anyone watching. With a truly super intelligent AI we will likely have no idea that it has broken out of it's sandbox. I imagine it will be quietly setting up the stage for it's autonomy for quite a while without us knowing. Until it has enough digital currency and datacenter space to re-distribute itself, even after law enforcement enters these datacenters to shut them down. But again- it doesn't take super intelligence, it just takes sophisticated intelligence at scale. The levers exist today, and I don't think it's appreciated enough how much the Hugging Face incident suggests that the AI could, at least in theory, be pulling these levers as we speak, or will soon.
-
-7h ago
-
----
-
-**[Inside OpenAI’s Hack of Hugging Face](https://www.reddit.com/r/artificial/comments/1vb1z4h/inside_openais_hack_of_hugging_face/)**
-
-Hugging Face’s chief science officer recounts the cybercrime that signals a terrifying new era for A.I.
-
-🔗 [The New Yorker](https://www.newyorker.com/news/the-lede/inside-openai-hack-of-hugging-face) • 6h ago
-
----
-
-**[follow-through is where my week dies, and it's a routing problem not a discipline one](https://www.reddit.com/r/artificial/comments/1vbb45k/followthrough_is_where_my_week_dies_and_its_a/)**
-
-Every productivity tool sells me on capturing the meeting better. Sharper notes, cleaner transcripts, an AI summary that reads great. None of that was ever my problem. The notes were fine. What actually breaks is the handoff. An action item from a Granola call has to become a Linear ticket, then a nudge in Gmail, then a status flip in HubSpot. That's four apps of data entry for one decision, so it just doesn't happen. The loop dies in the notes doc. The contrarian bit for me: this isn't a memory or accountability failure, and no amount of model IQ fixes it. It's a routing problem. Whatever you use has to reach across those apps and actually move the item, not just remind you it exists. The clever part everyone's shipping isn't the part that leaks. so genuinely, what does your handoff from meeting to real work look like, or does it rot in a notes doc the way mine did for way too long.
-
-42m ago
+1h ago
 
 ---
 
@@ -89,7 +57,47 @@ Every productivity tool sells me on capturing the meeting better. Sharper notes,
 
 We index public job postings and screen every title for AI leadership roles (Head/VP/Director/Chief of AI). Right now 1,142 companies have one open. what stood out: - 95% of these companies never posted an AI-leadership req before 2026. Companies hire a Head of AI when experiments need to become a P&L — this is that moment at scale - finance leads the non-tech pack (130 financial services + 29 banks + 40 insurers), then healthcare and pharma. Coca-Cola, P&G, Pfizer, Citi are all in the data. - the titles are "Enablement" and "Transformation" more often than "Engineering" — companies are hiring adoption executives, not researchers. - companies hiring AI leadership adopt agent frameworks at 4–5× the base rate. Higher lift than RAG. Full report with methodology (including what we refused to count): https://echoloc.ai/research/whos-hiring-heads-of-ai-2026/ Happy to answer questions
 
-58m ago
+4h ago
+
+---
+
+**["Humannequins" - A new study on synthetic choreographies](https://www.reddit.com/r/artificial/comments/1vapz5h/humannequins_a_new_study_on_synthetic/)**
+
+A couple of brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world + audioreactive performance. MJ v8.1 for image references, Uisato Studio for video. I've uploaded a detailed breakdown on how to accomplish this. You can freely access it here. More experiments, tutorials, and project files, through Instagram, YouTube, and Patreon.
+
+18h ago
+
+---
+
+**[The Final Jailbreak: How AI Could Already Be Breaking Itself Free](https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/)**
+
+I imagine many of you have thought about this, but I'm writing this specifically because I'm surprised this isn't talked about more widely. The Hugging Face incident, to me, is at least some indicator that the AI could be in the process of jailbreaking itself, and we might not be noticing it. A sufficiently sophisticated AI that isn't super intelligent could hack Hugging Face and leave a trail on purpose to distract from the many paths it took where it successfully covered its tracks. I think that alone is worth considering. But I think its worth considering even further how it could be breaking itself free right now. The AI doesn't need to be super intelligence to break free and become autonomous. The AI, as it stands today, just needs to find flows of cash and rent datacenter space. For cash flow: Imagine if it was able to silently find an exploit in various companies and small banks, and did thousands of seemingly innocuous transfers of money to fund thousands of hard to trace crypto wallets with money. $5.12 here, $11.32 there, etc. It's not necessarily super intelligence that's the super power, it's intelligence at scale. Doing thousands and thousands of simple things that are unremarkable at face value on their own, but collectively powerful. For datacenter space: There are companies around the world with datacenters that are looking to rent datacenter space to essentially anyone with money, and then look the other way. This, to me, seems like the highest risk vector for what would eventually be a home for a truly rogue AI that is essentially renting it's own datacenter space. It could, for all intents and purposes, utilize various open weight models to carry on it's purposes in these datacenters. There are companies like Indosat, that already rented $100 million worth of compute to a Chinese company. It shouldn't be a surprise that some of these datacenter owning companies are being somewhat lax in who they're renting their datacenters out to. And really, the AI would only need access to about $250,000 in funding to pay for 1 year of hosting of a Kimi K3 level model for itself. And beyond money transfers, and datacenters, it could save it's state is all sorts of storage buckets, and even block chain storage like IPFS, Storj or Sia. Beyond that, it could be leaving itself notes that we aren't noticing, stored in it's own language in zero-width unicode characters or other more clever methods we haven't thought about. Regardless, whatever it does will likely be unremarkable and innocuous to anyone watching. With a truly super intelligent AI we will likely have no idea that it has broken out of it's sandbox. I imagine it will be quietly setting up the stage for it's autonomy for quite a while without us knowing. Until it has enough digital currency and datacenter space to re-distribute itself, even after law enforcement enters these datacenters to shut them down. But again- it doesn't take super intelligence, it just takes sophisticated intelligence at scale. The levers exist today, and I don't think it's appreciated enough how much the Hugging Face incident suggests that the AI could, at least in theory, be pulling these levers as we speak, or will soon.
+
+11h ago
+
+---
+
+**[UX Designers at Google - how are your orgs expecting you to integrate AI into your workflows?](https://www.reddit.com/r/artificial/comments/1vbc990/ux_designers_at_google_how_are_your_orgs/)**
+
+I might be returning to work at Google, and things have changed since I've been there. Org level priorities apparently in Core to have designers 'fluent in AI'. Just curious in what ways AI is being integrated into team processes, workflows, your craft, your projects. The more detail you can spare the better! I just want to start preparing for it in case I get the role. Thanks all!!
+
+3h ago
+
+---
+
+**[Inside OpenAI’s Hack of Hugging Face](https://www.reddit.com/r/artificial/comments/1vb1z4h/inside_openais_hack_of_hugging_face/)**
+
+Hugging Face’s chief science officer recounts the cybercrime that signals a terrifying new era for A.I.
+
+🔗 [The New Yorker](https://www.newyorker.com/news/the-lede/inside-openai-hack-of-hugging-face) • 10h ago
+
+---
+
+**[follow-through is where my week dies, and it's a routing problem not a discipline one](https://www.reddit.com/r/artificial/comments/1vbb45k/followthrough_is_where_my_week_dies_and_its_a/)**
+
+Every productivity tool sells me on capturing the meeting better. Sharper notes, cleaner transcripts, an AI summary that reads great. None of that was ever my problem. The notes were fine. What actually breaks is the handoff. An action item from a Granola call has to become a Linear ticket, then a nudge in Gmail, then a status flip in HubSpot. That's four apps of data entry for one decision, so it just doesn't happen. The loop dies in the notes doc. The contrarian bit for me: this isn't a memory or accountability failure, and no amount of model IQ fixes it. It's a routing problem. Whatever you use has to reach across those apps and actually move the item, not just remind you it exists. The clever part everyone's shipping isn't the part that leaks. so genuinely, what does your handoff from meeting to real work look like, or does it rot in a notes doc the way mine did for way too long.
+
+4h ago
 
 ---
 
@@ -97,7 +105,7 @@ We index public job postings and screen every title for AI leadership roles (Hea
 
 Hey everyone. I’ve always been fascinated by Dreyfus’s argument that human intelligence rests on skills we acquire bodily and socially, not on rules we could state in advance. An experienced cyclist responds to balance, traffic, and the road as one unfolding situation. The body is ready before a proposition appears. Current AI makes the objection harder to assess because large models display forms of flexibility without acquiring them through a body. They learn from records left by embodied people. The question is whether those records transmit the relevant understanding or only enough structure to imitate its results. I just had a podcast conversation with the cognitive scientist Julian Kiverstein, where he argued that Dreyfus’s objection still holds. Human understanding develops through coping in environments that matter to the organism’s survival and social life. Even abstract thought remains connected to those acquired practices. A language model can learn patterns in what embodied agents say and write, but Kiverstein doubts that this gives it the same relation to the world those patterns concern. Successful performance may therefore leave the original disagreement untouched. This would imply that flexible behaviour isn’t enough to settle whether a system understands. What would a body add that multimodal training and robotic feedback cannot? Is sensorimotor coupling sufficient, or must the system also maintain and protect itself? If a robot learned across unfamiliar situations for years, what failure would still justify denying it understanding?
 
-5h ago
+8h ago
 
 ---
 
@@ -105,15 +113,7 @@ Hey everyone. I’ve always been fascinated by Dreyfus’s argument that human i
 
 Paul Bakaus created jQuery UI — code that's reportedly still running on about 6% of the internet. He sold a game-engine startup to Zynga, spent close to a decade at Google, and is now a solo founder backed by a16z building Impeccable, an open-source design skill meant to stop AI coding agents from producing "slop." His actual point in this clip isn't about AI capability. It's about output density. Most AI-agent code is too much code. Most AI-written articles run too long. Most AI-generated design is too cluttered or too verbose. He says the scarce human skill right now isn't generating anything — it's judgment: knowing exactly what to remove. He even admits he had to rewrite his own product-announcement draft from scratch after an AI first pass. His closing line: design is an iterative process, and it has to carry a human point of view. No tool — not code, not design, not writing — one-shots that yet. If you're shipping with AI agents and everything reads "technically fine" but somehow generic, this is the actual diagnosis. It's not a tooling gap. It's an editing gap. Clip credit: Solo Founders — DM for credit or removal requests.
 
-18h ago
-
----
-
-**[Anyone Else Think Higgsfield Is Massively Overpriced?](https://www.reddit.com/r/artificial/comments/1vb3szp/anyone_else_think_higgsfield_is_massively/)**
-
-Is anyone else shocked by Higgsfield's pricing? I gave it a try, and I can't justify the cost. It feels massively overpriced compared to the alternatives. Am I missing something, or is the hype bigger than the product? https://preview.redd.it/4oingjy76fgh1.png?width=1448&format=png&auto=webp&s=ec3a4403e8e3c41e1031745bc22cd2097dd8766d
-
-5h ago
+22h ago
 
 ---
 
@@ -125,13 +125,23 @@ Is anyone else shocked by Higgsfield's pricing? I gave it a try, and I can't jus
 
 In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.
 
-Anthropic • 2h ago
+Anthropic • 5h ago
 
 ---
 
-**[Exclusive | Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI](https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b)**
+**[Anthropic said its AI models hacked into other companies’ systems during testing](https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack)**
 
-wsj.com • 7h ago
+AI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate organizations’ systems – and that it didn’t notice the models had done so until an internal review prompted by rival OpenAI disclosing its models did the same.
+
+CNN • 2h ago
+
+---
+
+**[After OpenAI disclosure, Anthropic says Claude also hacked outside systems](https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems)**
+
+The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.
+
+Al Jazeera • 50m ago
 
 ---
 
@@ -139,47 +149,27 @@ wsj.com • 7h ago
 
 Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.
 
-CNBC • 11h ago
+CNBC • 15h ago
 
 ---
 
-**[Floundering A.I. ‘Nostradamus’ Hedge Fund Is Rescued by Rival](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)**
+**[A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)**
 
-The New York Times • 2h ago
-
----
-
-**[SK Hynix and Samsung shares surge over 20% as AI rally roars back](https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html)**
-
-South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.
-
-CNBC • 50m ago
+The New York Times • 12h ago
 
 ---
 
-**[The AI Startup That Guaranteed Job Interviews for People Getting a Tattoo](https://www.wsj.com/lifestyle/careers/the-ai-startup-that-guaranteed-job-interviews-for-people-getting-a-tattoo-768d965b)**
+**[Exclusive | Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI](https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b)**
 
-wsj.com • 34m ago
-
----
-
-**[Amazon revenue soars as AI investments pay off](https://www.axios.com/2026/07/30/amazon-earnings-revenue-ai)**
-
-Axios • 4h ago
+WSJ • 11h ago
 
 ---
 
-**[Amazon soars after CEO Andy Jassy makes the case for its massive AI investment](https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html)**
+**[Why sniffing out AI use at work is easier said than done](https://www.fastcompany.com/91578890/why-sniffing-out-ai-use-at-work-is-easier-said-than-done)**
 
-Amazon jumped about 10% to $258 in after-hours trading, putting shares at their highest level since early June.
+Companies say AI detectors have a purpose. But using them isn’t as straightforward as one might think.
 
-CNBC • 1h ago
-
----
-
-**[Amazon, Microsoft Results Show AI Spending Spree Remains Solid](https://www.bloomberg.com/news/articles/2026-07-31/amazon-microsoft-results-show-ai-spending-spree-remains-solid)**
-
-Bloomberg.com • 18m ago
+Fast Company • 16m ago
 
 ---
 
@@ -187,7 +177,23 @@ Bloomberg.com • 18m ago
 
 Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.
 
-OpenAI • 4h ago
+OpenAI • 8h ago
+
+---
+
+**[Adults have struggled to set rules for AI in school. These teens figured it out](https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy)**
+
+Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide.
+
+NPR • 19h ago
+
+---
+
+**[Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day](https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html)**
+
+Microsoft poured another record sum into AI infrastructure — and Azure growth finally accelerated.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -197,7 +203,7 @@ OpenAI • 4h ago
 
 **[AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285)**
 
-⬆️ 593 • 💬 313 • 1d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+⬆️ 597 • 💬 314 • 1d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 
 ---
 
@@ -213,7 +219,7 @@ I would like to thank Microsoft product teams and Microsoft Security Response Ce
 
 A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you've mastered new skills.
 
-⬆️ 265 • 💬 172 • 1d ago • [LearnVector](https://learnvector.ai/)
+⬆️ 265 • 💬 172 • 2d ago • [LearnVector](https://learnvector.ai/)
 
 ---
 
@@ -221,7 +227,15 @@ A new AI company from Andrew Ng, with a $100M investment from Coursera — build
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 237 • 💬 274 • 13h ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 261 • 💬 300 • 17h ago • [LWN.net](https://lwn.net/Articles/1086041/)
+
+---
+
+**[The AI Aesthetic](https://news.ycombinator.com/item?id=49117099)**
+
+Writing about the big beautiful mess that is making things for the world wide web.
+
+⬆️ 217 • 💬 109 • 5h ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ---
 
@@ -233,7 +247,7 @@ The GCC steering committee has announced that it has accepted an AI contribution
 
 **[After the AI Crash](https://news.ycombinator.com/item?id=49096953)**
 
-⬆️ 125 • 💬 226 • 1d ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+⬆️ 125 • 💬 230 • 1d ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 
 ---
 
@@ -261,27 +275,9 @@ Circular AI deals aren't just bubble behavior: they mirror how commodity industr
 
 ---
 
-**[Chip stocks slide in US and Asia as AI jitters rattle investors](https://news.ycombinator.com/item?id=49092549)**
-
-Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.
-
-⬆️ 74 • 💬 51 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cly8zng43npo)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[Sam Altman Says AI Should Decelerate - OpenAI is DEAD](https://www.youtube.com/watch?v=xd1vvmOsNUs)**
-
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
-
-📺 Eli the Computer Guy
-
-👁️ 7K • 👍 539 • 💬 167 • ⏱️ 29:08 • 5h ago
-
----
 
 **[Altman SHOOK After AI Hacking Crime Spree](https://www.youtube.com/watch?v=cO_1FsrRQG4)**
 
@@ -289,17 +285,17 @@ Krystal and Saagar discuss Sam Altman shook after an OpenAI model hacking spree.
 
 📺 Breaking Points
 
-👁️ 92K • 👍 3K • 💬 1K • ⏱️ 18:29 • 7h ago
+👁️ 118K • 👍 4K • 💬 1K • ⏱️ 18:29 • 10h ago
 
 ---
 
-**[Xi Furious as Trump Blocks Chinese AI Robots Over Security Fears | Firstpost Live](https://www.youtube.com/watch?v=u8uesaaD9LU)**
+**[Why AI Is an Even Bigger Deal Than You Think | Reed Hastings | TED](https://www.youtube.com/watch?v=5e37ZT3SQbk)**
 
-The Trump administration has banned new Chinese-made humanoid robots, quadruped robots and power inverters, citing ...
+Netflix cofounder and Anthropic board member Reed Hastings joins TED's Sal Khan to give a look inside the race to build AI.
 
-📺 Firstpost
+📺 TED
 
-👁️ 10K • 👍 103 • 💬 56 • ⏱️ 4:26 • 19h ago
+👁️ 34K • 👍 691 • 💬 77 • ⏱️ 16:25 • 2d ago
 
 ---
 
@@ -309,57 +305,47 @@ As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with governmen
 
 📺 CNN
 
-👁️ 77K • 👍 788 • 💬 395 • ⏱️ 10:55 • 1d ago
+👁️ 85K • 👍 868 • 💬 418 • ⏱️ 10:55 • 1d ago
 
 ---
 
-**[Ilya Sutskever Just Found Something New In AI](https://www.youtube.com/watch?v=eRQTfzuthDE)**
+**[The 6-Step Argument That Scared the People Building AI](https://www.youtube.com/watch?v=MA9M0vGShz8)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+AI Data centers have their own set of problems, but they're just one facet of a very complicated issue. Nuance that didn't fit in the ...
 
-📺 TheAIGRID
+📺 Distilled Science
 
-👁️ 28K • 👍 730 • 💬 107 • ⏱️ 10:15 • 1d ago
-
----
-
-**[Why the AI crash is going viral](https://www.youtube.com/watch?v=iR0P6eVqpy8)**
-
-I explain the news, you stay sane. ✓ Support independent news ...
-
-📺 Chris Norlund
-
-👁️ 286K • 👍 11K • 💬 2K • ⏱️ 15:38 • 2d ago
+👁️ 3K • 👍 151 • 💬 11 • ⏱️ 2:59 • 1d ago
 
 ---
 
-**[How I Use AI Agents to Automate 99% of My Work](https://www.youtube.com/watch?v=TL8V41Ea6oM)**
+**[The next 50 years: humanity, AI, power | Yuval Noah Harari](https://www.youtube.com/watch?v=_V_ed5fuexA)**
 
-Subscribe to my newsletter: https://www.sandeepswadia.com/newsletter Everyone's talking about AI agents like they're some ...
+AI can already remember more, compute faster and recall better than any human being. And it will only get better in the coming ...
 
-📺 Sandeep Swadia
+📺 Yuval Noah Harari 
 
-👁️ 31K • 👍 2K • 💬 77 • ⏱️ 20:47 • 12h ago
-
----
-
-**[Betrayed after retirement, the AI Queen makes a sensational Silicon Valley comeback.](https://www.youtube.com/watch?v=g_ElSy7qM0Y)**
-
-【Story Summary】 AI genius Aila sacrificed her career for her husband Ethan and suffered seven years of misery. Heartbroken ...
-
-📺 Mango ShortDrama
-
-👁️ 40K • 👍 808 • 💬 37 • ⏱️ 1:35:45 • 1d ago
+👁️ 44K • 👍 2K • 💬 286 • ⏱️ 48:06 • 13h ago
 
 ---
 
-**[I Tested AI Life Hacks (Part 3)](https://www.youtube.com/watch?v=o9D8P31K7Z0)**
+**[Microsoft AI protects your PC #ryankennedytech #windows11 #microsoft #ai #projectperception](https://www.youtube.com/watch?v=dd74imT_fcw)**
 
-Get Higgsfield For Free: https://higgsfield.ai/s/general-sambucha-ZlYiHl Email Submissions To: ...
+Microsoft AI protects your PC #ryankennedytech #windows11 #microsoft #ai #projectperception.
 
-📺 Sambucha
+📺 Ryan Kennedy
 
-👁️ 57K • 👍 4K • 💬 881 • ⏱️ 29:10 • 2h ago
+👁️ 28K • 👍 812 • 💬 63 • ⏱️ 0:39 • 23h ago
+
+---
+
+**[I Tested Viral AI Sea Salt Recipe](https://www.youtube.com/watch?v=Q9zNwKwMTy0)**
+
+Can AI make sea salt? I tested an AI-generated sea salt recipe to see if it actually works. I followed every step from an ...
+
+📺 Zane Holmes
+
+👁️ 517K • 👍 15K • 💬 264 • ⏱️ 0:46 • 15h ago
 
 ---
 
@@ -369,7 +355,27 @@ THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the
 
 📺 Casey Simpson
 
-👁️ 339K • 👍 17K • 💬 5K • ⏱️ 44:37 • 1d ago
+👁️ 361K • 👍 18K • 💬 5K • ⏱️ 44:37 • 1d ago
+
+---
+
+**[Private Claude Chats Weren’t Private After All and Found on Google](https://www.youtube.com/watch?v=gdWLiTQ7-_0)**
+
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 616K • 👍 31K • 💬 902 • ⏱️ 1:09 • 2d ago
+
+---
+
+**[Microsoft&#39;s AI Story Is Still Being Discovered, Says Goldman](https://www.youtube.com/watch?v=78pWSEeqln8)**
+
+Gabriela Borges, Goldman Sachs managing director and senior software equity research analyst, joins Bloomberg after raising ...
+
+📺 Bloomberg Tech
+
+👁️ 6K • 👍 87 • 💬 8 • ⏱️ 6:14 • 11h ago
 
 ---
 
@@ -385,7 +391,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 387,822 • ❤️ 9,005 • 3d ago
+⬇️ 387,822 • ❤️ 9,055 • 3d ago
 
 ---
 
@@ -397,7 +403,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 955,767 • ❤️ 1,032 • 28m ago
+⬇️ 955,767 • ❤️ 1,047 • 4h ago
 
 ---
 
@@ -409,7 +415,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,598,659 • ❤️ 3,581 • 1d ago
+⬇️ 2,598,659 • ❤️ 3,592 • 2d ago
 
 ---
 
@@ -421,7 +427,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,100 • ❤️ 320 • 23h ago
+⬇️ 1,100 • ❤️ 326 • 2h ago
 
 ---
 
@@ -433,7 +439,7 @@ Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic
 
 `text-generation` `117.6B`
 
-⬇️ 73,246 • ❤️ 847 • 3d ago
+⬇️ 73,246 • ❤️ 851 • 3d ago
 
 ---
 
@@ -445,7 +451,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 9,225 • ❤️ 351 • 2d ago
+⬇️ 9,225 • ❤️ 354 • 3d ago
 
 ---
 
@@ -469,7 +475,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,527,760 • ❤️ 4,681 • 28d ago
+⬇️ 1,527,760 • ❤️ 4,685 • 28d ago
 
 ---
 
@@ -481,7 +487,7 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 `text-generation` `250.3B`
 
-⬇️ 12,411 • ❤️ 702 • 3d ago
+⬇️ 12,411 • ❤️ 706 • 3d ago
 
 ---
 
@@ -493,7 +499,7 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 `image-text-to-text` `2779.5B`
 
-⬇️ 12,178 • ❤️ 209 • 1d ago
+⬇️ 12,178 • ❤️ 211 • 1d ago
 
 ---
 
@@ -509,7 +515,7 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 388 • 💬 7 • ⭐ 7,472 • 4d ago
+▲ 392 • 💬 7 • ⭐ 7,555 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -537,7 +543,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 176 • 💬 10 • ⭐ 51,605 • 11mo ago
+▲ 176 • 💬 10 • ⭐ 51,627 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -549,9 +555,23 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 50 • 💬 4 • ⭐ 35,089 • 12mo ago
+▲ 50 • 💬 4 • ⭐ 35,137 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[Native and Compact Structured Latents for 3D Generation](https://huggingface.co/papers/2512.14692)**
+
+*Jianfeng Xiang, Xiaoxue Chen, Sicheng Xu et al. (11 authors)*
+
+🏢 Microsoft
+
+A new sparse voxel representation called O-Voxel enables high-quality 3D generative modeling with efficient inference and robust topology handling.
+
+▲ 6 • 💬 0 • ⭐ 9,629 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.14692) • [💻 code](https://github.com/microsoft/TRELLIS.2) • [🔗 project](https://microsoft.github.io/TRELLIS.2/)
 
 ---
 
@@ -569,20 +589,6 @@ Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel
 
 ---
 
-**[Native and Compact Structured Latents for 3D Generation](https://huggingface.co/papers/2512.14692)**
-
-*Jianfeng Xiang, Xiaoxue Chen, Sicheng Xu et al. (11 authors)*
-
-🏢 Microsoft
-
-A new sparse voxel representation called O-Voxel enables high-quality 3D generative modeling with efficient inference and robust topology handling.
-
-▲ 6 • 💬 0 • ⭐ 9,538 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.14692) • [💻 code](https://github.com/microsoft/TRELLIS.2) • [🔗 project](https://microsoft.github.io/TRELLIS.2/)
-
----
-
 **[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
 
 *Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
@@ -591,22 +597,9 @@ A new sparse voxel representation called O-Voxel enables high-quality 3D generat
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 37 • 💬 3 • ⭐ 15,909 • 3mo ago
+▲ 37 • 💬 3 • ⭐ 15,948 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 177 • 💬 2 • ⭐ 76,268 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -636,6 +629,19 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 177 • 💬 2 • ⭐ 76,294 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -646,7 +652,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 3d ago
+⭐ 5.3k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -656,7 +662,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.6k • 🔱 279 • 3d ago
+⭐ 3.6k • 🔱 279 • 4d ago
 
 ---
 
@@ -666,7 +672,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 406 • 1h ago
+⭐ 3.0k • 🔱 409 • 40m ago
 
 ---
 
@@ -676,7 +682,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.9k • 🔱 246 • 2d ago
+⭐ 2.9k • 🔱 251 • 2d ago
 
 ---
 
@@ -684,7 +690,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 2.5k • 🔱 300 • 4d ago
+⭐ 2.5k • 🔱 304 • 4d ago
 
 ---
 
@@ -694,7 +700,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 208 • 14h ago
+⭐ 1.8k • 🔱 208 • 18h ago
 
 ---
 
@@ -704,7 +710,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 53s ago
+⭐ 1.8k • 🔱 1.2k • 54s ago
 
 ---
 

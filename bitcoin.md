@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-31T01:04:48.315008+00:00'
+updated: '2026-07-31T04:59:39.404568+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 01:04 UTC  
+**Last Updated:** July 31, 2026 at 04:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,871.54
+### $64,554.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +0.9%  
-**30d:** +5.5%  
-**90d:** -17.3%  
-**1y:** -42.7%  
+**24h:** +0.5%  
+**7d:** -0.1%  
+**30d:** +4.5%  
+**90d:** -18.1%  
+**1y:** -43.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1299.02B
+**Market Cap:** $1289.55B
 Rank #1
 
-**Circulating Supply:** 20,063,506 BTC
+**Circulating Supply:** 20,063,537 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.6%
+-49.0%
 
 **All-Time Low:** $67.81
-+95380.0%
++94686.9%
 
 ---
 
@@ -89,7 +89,7 @@ Been looking at wallet-tier data recently and wanted to see what this community 
 
 I know that past doesn't guarantee future outcomes. But, if I had gone all in since 2021 (starting at the previous peak) and did so throughout the past five years, I would have been able to buy my dream house and car by now. I already have a decent amount of retirement savings. Going to take the risk and put all my discretionary income into Bitcoin for the next four years! Feel free to save this post and I'll update it during the next bull run, and you'll see if I made the right choice or not.
 
-1d ago
+2d ago
 
 ---
 
@@ -121,7 +121,7 @@ Three iPhone owners sued Apple last week over a fake Sparrow Wallet app they say
 
 Anyone had this happen to them? I’ve been buying BTC for a few years. And got into it really hard the last 4ish years. And I used to talk to anyone about it, but I do that less and less now. One of my closest friends is so resistant to it, and funny enough he’s the most tech savvy person I know! In the past year I had 3 instances where I brought it up in convo with old friends and new acquaintances, and the reaction was so hostile! I think some of that is ppl being angry they missed out in part… idk. But anyway, yea it’s kind of a rift between me and one of my oldest friends. But I’m kinda at the point in my BTC journey where I believe opting out of the fiat/ debt/ credit creation banking system as it stands is a moral imperative tbh. American society is so out of whack between inflation/healthcare/housing/education… and that’s being brief, but I see the compromised monetary system at the core of it all. Talking politics without talking about money is like talking about plumbing without talking about water. And Americans love to talk politics. Anyway yea my BTC conviction has caused rifts in my relationships. Curious of others stories around this.
 
-1d ago
+2d ago
 
 ---
 
@@ -165,45 +165,21 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.
 
-CoinDesk • 4h ago
+CoinDesk • 8h ago
 
 ---
 
-**['Paid to wait': Bitcoin presses toward $65,000 as Treasuries out-yield the carry trade for only second time on record](https://www.theblock.co/post/410163/paid-to-wait-bitcoin-presses-toward-65000-as-treasuries-out-yield-carry-trade-for-only-second-time-on-record)**
+**[Strategy Announces Second Quarter Financial Results; Currently Holds 843,775 Bitcoin; Now the Largest Institutional Holder Globally](https://www.businesswire.com/news/home/20260730035038/en/Strategy-Announces-Second-Quarter-Financial-Results-Currently-Holds-843775-Bitcoin-Now-the-Largest-Institutional-Holder-Globally)**
 
-Bitcoin firmed toward $65,000 on Thursday as softer economic data eased September Fed hike fears, with spot volume near multi-year lows.
-
-theblock.co • 9h ago
+Business Wire • 8h ago
 
 ---
 
-**[Bitcoin Pullback Pushes Strategy to $8.22B Q2 Loss](https://finance.yahoo.com/markets/crypto/articles/bitcoin-pullback-pushes-strategy-8-003900096.html)**
+**[Prediction: Bitcoin Will Be Worth $2.5 Trillion in 3 Years](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-worth-2-5-223300991.html)**
 
-Strategy Inc. (NASDAQ: $MSTR) reported an $8.22 billion second-quarter net loss as Bitcoin’s retreat pushed a...
+Bitcoin may no longer be able to deliver the stratospheric returns that it did during its early years.
 
-Yahoo Finance • 25m ago
-
----
-
-**[Strategy Announces Second Quarter 2026 Financial Results](https://www.strategy.com/press/strategy-announces-second-quarter-2026-financial-results_07-30-2026)**
-
-July 30, 2026
-
-Strategy • 4h ago
-
----
-
-**[CleanSpark CFO on shifting from bitcoin mining to AI data centers](https://www.cfo.com/news/cleanspark-president-cfo-gary-vecchiarelli-on-shifting-from-bitcoin-mining-to-ai-data-centers/826482/)**
-
-As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
-
-CFO.com • 11h ago
-
----
-
-**[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
-
-Bloomberg.com • 12h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -211,15 +187,27 @@ Bloomberg.com • 12h ago
 
 Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 12h ago
 
 ---
 
-**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
+**[CleanSpark CFO on shifting from bitcoin mining to AI data centers](https://www.cfo.com/news/cleanspark-president-cfo-gary-vecchiarelli-on-shifting-from-bitcoin-mining-to-ai-data-centers/826482/)**
 
-After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
+As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
 
-Morningstar • 2d ago
+CFO.com • 15h ago
+
+---
+
+**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
+
+WSJ • 8h ago
+
+---
+
+**[Bitcoin slightly up near $65k amid rates, Iran jitters; Strategy earnings on tap](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491)**
+
+Investing.com • 22h ago
 
 ---
 
@@ -231,9 +219,19 @@ CNBC • 3d ago
 
 ---
 
-**[Bitcoin slightly up near $65k amid rates, Iran jitters; Strategy earnings on tap](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491)**
+**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
 
-Investing.com • 18h ago
+After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
+
+Morningstar • 2d ago
+
+---
+
+**[Stacks Successfully Activates PoX-5, Laying the Foundation for Bitcoin Staking](https://www.tradingview.com/news/chainwire:634265e0b094b:0-stacks-successfully-activates-pox-5-laying-the-foundation-for-bitcoin-staking/)**
+
+New York, New York, July 30th, 2026, ChainwireStacks today activated the PoX-5 hardfork at Bitcoin block 960,230, successfully establishing the protocol foundation for Bitcoin Staking. The network upgrade completed without interruption, with core contributors verifying the activation following post…
+
+TradingView • 11h ago
 
 ---
 
@@ -245,7 +243,7 @@ Investing.com • 18h ago
 
 The alleged thieves infected 8,000 devices.
 
-⬆️ 45 • 💬 45 • 3d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+⬆️ 46 • 💬 45 • 3d ago • [The Verge](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 
 ---
 
@@ -261,7 +259,7 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
 
-⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
+⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
 
 ---
 
@@ -269,7 +267,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took three. Taproot locked in 41 days, then decayed for years. Measured from our own node, genesis to tip.
 
-⬆️ 2 • 💬 0 • 19h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
+⬆️ 2 • 💬 0 • 23h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
 
 ---
 
@@ -329,7 +327,7 @@ Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjaminco
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 2K • 💬 73 • ⏱️ 7:41 • 4h ago
+👁️ 34K • 👍 2K • 💬 84 • ⏱️ 7:41 • 8h ago
 
 ---
 
@@ -339,7 +337,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 116 • ⏱️ 10:40 • 1d ago
+👁️ 40K • 👍 2K • 💬 116 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -349,7 +347,7 @@ Real-world asset tokenization is one of the most underexplored narratives in cry
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 92 • 💬 5 • ⏱️ 15:53 • 7h ago
+👁️ 3K • 👍 111 • 💬 5 • ⏱️ 15:53 • 10h ago
 
 ---
 
@@ -359,17 +357,7 @@ The government promised you clarity on Bitcoin. What you actually got: developer
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 463 • ⏱️ 22:39 • 1d ago
-
----
-
-**[Why Bitcoin and Market Are Freaking Out Right Now...](https://www.youtube.com/watch?v=bcjJKy_0bac)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 10K • 👍 613 • 💬 169 • ⏱️ 10:51 • 1d ago
+👁️ 22K • 👍 2K • 💬 466 • ⏱️ 22:39 • 1d ago
 
 ---
 
@@ -379,7 +367,17 @@ Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usual
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 304 • 💬 17 • ⏱️ 31:34 • 11h ago
+👁️ 5K • 👍 321 • 💬 19 • ⏱️ 31:34 • 15h ago
+
+---
+
+**[Why Bitcoin and Market Are Freaking Out Right Now...](https://www.youtube.com/watch?v=bcjJKy_0bac)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 10K • 👍 613 • 💬 168 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -389,7 +387,17 @@ What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains wh
 
 📺 Cointelegraph
 
-👁️ 1K • 👍 21 • 💬 61 • ⏱️ 1:03 • 9h ago
+👁️ 2K • 👍 30 • 💬 63 • ⏱️ 1:03 • 13h ago
+
+---
+
+**[What Cryptos Could 10X in the Next Bitcoin Bull Market?](https://www.youtube.com/watch?v=Lu-sOTkVWDM)**
+
+In this interview, Bitwise CIO Matt Hougan explains why he believes the next crypto bull market will be driven by the convergence ...
+
+📺 Cointelegraph
+
+👁️ 6K • 👍 203 • 💬 188 • ⏱️ 23:18 • 14h ago
 
 ---
 
@@ -399,7 +407,7 @@ The more people try to make Bitcoin something it isn't The easier it becomes to 
 
 📺 The Bitcoin Way
 
-👁️ 867 • 👍 4 • ⏱️ 0:32 • 5h ago
+👁️ 902 • 👍 4 • ⏱️ 0:32 • 9h ago
 
 ---
 
@@ -409,17 +417,7 @@ You won't believe what this bitcoin chart says about its downside target, that c
 
 📺 Alessio Rastani
 
-👁️ 35K • 👍 2K • 💬 835 • ⏱️ 18:15 • 2d ago
-
----
-
-**[Bitcoin: This Is What The Bitcoin Bottom Will Look Like](https://www.youtube.com/watch?v=FLhLwviNpZA)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Favorite Place To ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 342 • 💬 193 • ⏱️ 10:54 • 18h ago
+👁️ 35K • 👍 2K • 💬 836 • ⏱️ 18:15 • 2d ago
 
 ---
 
