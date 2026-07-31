@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T22:06:07.877034+00:00'
+updated: '2026-07-31T23:30:45.727162+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 22:06 UTC  
+**Last Updated:** July 31, 2026 at 23:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** -0.7%  
-**30d:** +9.5%  
-**90d:** -19.9%  
-**1y:** -46.7%  
+**24h:** -2.8%  
+**7d:** -0.6%  
+**30d:** +9.6%  
+**90d:** -19.8%  
+**1y:** -46.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.06B
+**Market Cap:** $224.70B
 Rank #2
 
 **Circulating Supply:** 120,682,334 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.3%
+-62.4%
 
 **All-Time Low:** $0.43
-+430588.3%
++429927.8%
 
 ---
 
@@ -156,15 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 2d ago
+blog.ethereum.org • 2d ago
 
 ---
 
-**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://sg.finance.yahoo.com/news/cathie-wood-trims-ethereum-exposure-182102097.html)**
+**[Bitcoin, Ethereum Spike, XRP and Dogecoin Climb Amid Sharp Crypto Recovery: Analyst Says 'Don't Fear' BTC Dropping to $60,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-spike-xrp-dogecoin-021729869.html)**
 
-ARK Invest CEO Cathie Wood is one of the first investors to gain exposure to cryptocurrencies. She once revealed that ARK was the first public asset manager to gain Bitcoin (BTC) exposure in 2015 when the cryptocurrency wasn't worth even $500. Today, the asset manager also maintains ...
+Leading cryptocurrencies staged a sharp recovery alongside stocks on Thursday, reversing a Federal Reserve-driven sell-off the day before. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.16%$65,112.78Ethereum (CRYPTO: ETH) +1.31%$1,929.21XRP (CRYPTO: XRP) +1.48%$1.08Solana (CRYPTO: SOL) +2.05%$75.02Dogecoin (CRYPTO: DOGE) +0.72%$0.07079 Crypto Market Rebounds After a brief lull, Bitcoin pushed back above $65,000. Ethereum, meanwhile, continued to wrestle w
 
-Yahoo Finance Singapore • 3h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance Singapore • 3h ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -188,21 +188,19 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-MarketWatch • 8h ago
+marketwatch.com • 9h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
+**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
-
-FXStreet • 17h ago
+thestreet.com • 8h ago
 
 ---
 
@@ -214,19 +212,19 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
+
+FXStreet • 19h ago
+
+---
+
 **[Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million](https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/)**
 
 Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
 
 CryptoSlate • 1d ago
-
----
-
-**[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://www.tradingview.com/news/stocktwits:8c0d86896094b:0-cathie-wood-s-ark-trims-bmnr-stock-exposure-despite-calling-its-ethereum-strategy-exponential-sells-blsh-hood-xyz-shares-too/)**
-
-Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
-
-tradingview.com • 1d ago
 
 ---
 
@@ -240,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 380 • 💬 181 • ⏱️ 11:29 • 6h ago
+👁️ 5K • 👍 380 • 💬 181 • ⏱️ 11:29 • 7h ago
 
 ---
 
@@ -260,7 +258,7 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 398 • 💬 20 • ⏱️ 34:32 • 11h ago
+👁️ 6K • 👍 398 • 💬 20 • ⏱️ 34:32 • 13h ago
 
 ---
 
@@ -270,7 +268,7 @@ BITCOIN HACK: $40 MILLION STOLEN (Emergency Update)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 933 • 👍 91 • 💬 70 • ⏱️ 25:14 • 1h ago
+👁️ 933 • 👍 91 • 💬 70 • ⏱️ 25:14 • 2h ago
 
 ---
 
@@ -330,7 +328,7 @@ Profitez de l'offre de bienvenue de Finst : 50€ en BTC offerts à l'inscriptio
 
 📺 Journal du Coin
 
-👁️ 2K • 👍 193 • ⏱️ 11:18 • 8h ago
+👁️ 2K • 👍 193 • ⏱️ 11:18 • 10h ago
 
 ---
 

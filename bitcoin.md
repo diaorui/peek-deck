@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-31T22:06:07.870988+00:00'
+updated: '2026-07-31T23:30:45.723459+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 22:06 UTC  
+**Last Updated:** July 31, 2026 at 23:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,997.71
+### $63,005.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
+**24h:** -2.7%  
 **7d:** -2.2%  
 **30d:** +2.3%  
-**90d:** -19.9%  
-**1y:** -44.5%  
+**90d:** -19.8%  
+**1y:** -44.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1262.60B
+**Market Cap:** $1262.56B
 Rank #1
 
-**Circulating Supply:** 20,063,884 BTC
+**Circulating Supply:** 20,063,956 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -50.1%
 
 **All-Time Low:** $67.81
-+92693.1%
++92700.5%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Today's episode literally killed the faith of several hardcore old time bitcoiners and I'm shaken too, not going to lie. Even more than the FTX collapse. Why? The mantra "not your keys, not your coins" was already widely spread out due to the MTX episode, so most bitcoiners were prepared and learned the lesson the first time. What happened today is way deeper, because the mantra "don't trust, verify" is more complex. Everyone can simply not trust, that part is fine, but what about the "verify" part? Not everyone can to a deep dive analysis on the RNG of a software wallet. More than that, most people have no clue what these things are. And then they say open source code compensates for that. "Well, if I can't verify by myself, at least I'm using open source SW, there are THOUSANDS of well-trained eyes and programmers watching this code, surely nothing bad could happen, right?". And even so, half a decade later, we get this. That's horrible to the community and I'm really sad with all the horror stories emerging. Is the future mantra going to be "not your 128+bit-true-entrophy-multisig+passphrase-setup-keys, not your coins"?
 
-15h ago
+17h ago
 
 ---
 
 **[User lost 3 btc due to Coldcard hack. Check your btc and move it to be safe](https://www.reddit.com/r/Bitcoin/comments/1vbgwu9/user_lost_3_btc_due_to_coldcard_hack_check_your/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -103,7 +103,7 @@ This is me… https://www.reddit.com/r/Bitcoin/s/UeSfLoeyS4 I’m in a better st
 
 I want to help identify the cause of the recent wallet drain report by u/s1ammage, which also revealed many other addresses being drained to the same address. Check your wallet balances. If there are unfamiliar transactions since July 29, 2026, after about 9 PM (US Eastern Time), you may have been affected. Did you use a hardware wallet, if so, what model? Did you use a software wallet (hot or watch-only), if so, which? How exactly did you generate your seed? How exactly did you back up your seed? DO NOT post your seed, DO NOT respond to anyone saying they can recover your funds. Sorry for your loss. There may still be people affected by the same vulnerability who haven't been attacked, so the sooner the vulnerability is identified, and people are alerted to migrate funds, the better. Check in with less techy friends and family that have bitcoin and report incidents. Edit with current conclusions: Coldcard mk3 confirmed vulnerable, press release here: https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ My own analysis: proceed with caution on Mk4/Mk5/Q. These use the same codebase as Mk3 but with slight, insufficient imo, improvements to the RNG system. If you're migrating from Mk3, consider other vendors.
 
-23h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ I want to help identify the cause of the recent wallet drain report by u/s1ammag
 
 https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31, 2026: Fixed firmware is now available. Mk4 and Mk5 users must update to version 5.6.0 or later. Q users must update to version 1.5.0Q or later. Do not generate a new seed on one of these models until the update is installed. Seeds generated on Mk4, Q and Mk5 before the fixed firmware releases are also affected, with about 72 bits of entropy rather than the expected 128 bits. Updating the firmware does not change or repair an existing seed. If your seed was generated before the fixed firmware version for your model, follow the migration guidance below unless the independent dice-entropy exception applies to you. The issue is present on every Mk3 firmware version since 4.0.1. It also affects seeds generated on Mk4 and Mk5 before version 5.6.0, and on Q before version 1.5.0Q. The impact on Mk4, Mk5 and Q is not as severe but is still serious.
 
-10h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31,
 
 Do this if you want to sleep like a baby when the next RNG vulnerability comes out
 
-🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 13h ago
+🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 15h ago
 
 ---
 
@@ -133,7 +133,7 @@ Do this if you want to sleep like a baby when the next RNG vulnerability comes o
 
 The coming “Bitcoin Hacked” “Is your Bitcoin Safe” “AI Cracks Bitcoin” are going to be obnoxious. This is one company, with an over confident leader whose marketing positioned the ColdCard aura as invincible with the messaging pushed down through the Podcast channels. Going so far as to not allow projects like SeedSigner from even seeing the light of day for discussion. This ColdCard vulnerability and the method used to extract it will reverberate through all software from all industries. Nothing is safe.
 
-14h ago
+16h ago
 
 ---
 
@@ -149,7 +149,7 @@ I haven’t done anything since creation except sending into the wallet.
 
 coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
-13h ago
+14h ago
 
 ---
 
@@ -161,15 +161,15 @@ coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
 The largest institutional holder of bitcoin has shifted to selling its position in recent months.
 
-Forbes • 5h ago
+Forbes • 7h ago
 
 ---
 
-**[Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep](https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep)**
+**[Coldcard exploit reignites Bitcoin self-custody debate after $38 million theft](https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs)**
 
-A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.
+A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyday investors.
 
-CoinDesk • 16h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -177,15 +177,39 @@ CoinDesk • 16h ago
 
 Coldcard users are being urged to move their Bitcoin to newly generated wallets over a security flaw linked to the theft of $38 million.
 
-Bitcoin Foundation • 2d ago
+Bitcoin Foundation • 14h ago
 
 ---
 
-**[Massive, Surprise Bitcoin Attack Sparks Sudden Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/07/31/massive-surprise-bitcoin-attack-sparks-sudden-price-crash-fears/)**
+**[Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report](https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service)**
 
-Fears are swirling that news of the attack could drive the bitcoin price lower...
+Experts have since said that those holding Bitcoin on a Coldcard device should move funds now.
 
-Forbes • 12h ago
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, July 30, 2026: Prices rise after Fed leaves rates unchanged](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html)**
+
+Bitcoin opened at $63,902.90 on Thursday, July 30, 2026, flat compared to Wednesday's opening price. As of 9:00 a.m. ET, bitcoin moved up to $64,838.92. Ethereum opened at $1,908.34 on Thursday, July 30, 2026, down 0.6% from Wednesday's opening price. Ethereum moved higher to $1,923.23 as of 9:00 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[BTC, ETH price news: Bitcoin at $64,000 as Kospi's record 17% surge leaves crypto untouched](https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched)**
+
+Samsung and SK Hynix both jumped more than 23%. Bitcoin moved a fraction of a percent in the past 24 hours, and most majors are still lower on the week.
+
+CoinDesk • 17h ago
+
+---
+
+**[Bitcoin Price to Sink? Fed Holds Rates at 3.50%-3.75%, Revives 'Higher for Longer' Warning](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-sink-fed-holds-214451929.html)**
+
+Schiff says Strategy's latest share sale diluted Bitcoin exposure, with BTC yield per share falling to 4.5%. Supporters argue MSTR still beats Bitcoin over the ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,23 +217,7 @@ Forbes • 12h ago
 
 Coinbase’s earnings miss further fueled risk-off sentiment in crypto markets as traders reassessed the likelihood of crypto legislation progression today, July 31, 2026.
 
-Yahoo Finance • 27m ago
-
----
-
-**[Bitcoin (BTC) price's July gain survives hawkish Fed, AI meltdown and Coldcard fallout](https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say)**
-
-Bitcoin shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.
-
-CoinDesk • 1h ago
-
----
-
-**[Zhibao Technology Inc. Announces Signing of Definitive Securities Purchase Agreement for PIPE Financing Payable in Bitcoin](https://www.newsfilecorp.com/release/307433/Zhibao-Technology-Inc.-Announces-Signing-of-Definitive-Securities-Purchase-Agreement-for-PIPE-Financing-Payable-in-Bitcoin)**
-
-Shanghai, China--(Newsfile Corp. - July 31, 2026) - Zhibao Technology Inc. (NASDAQ: ZBAO) (&quot;Zhibao,&quot; &quot;we,&quot; or the &quot;Company&quot;), a leading...
-
-TMX Newsfile • 9h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -217,21 +225,15 @@ TMX Newsfile • 9h ago
 
 The US is sanctioned Iranian companies using Bitcoin to dodge sanctions.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
-**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
+**[Zhibao Technology Inc. Announces Signing of Definitive Securities Purchase Agreement for PIPE Financing Payable in Bitcoin](https://www.newsfilecorp.com/release/307433/Zhibao-Technology-Inc.-Announces-Signing-of-Definitive-Securities-Purchase-Agreement-for-PIPE-Financing-Payable-in-Bitcoin)**
 
-After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
+Shanghai, China--(Newsfile Corp. - July 31, 2026) - Zhibao Technology Inc. (NASDAQ: ZBAO) (&quot;Zhibao,&quot; &quot;we,&quot; or the &quot;Company&quot;), a leading...
 
-Morningstar • 3d ago
-
----
-
-**[Springfield PD warns of Bitcoin scam taking about $1M](https://www.wwlp.com/news/springfield-pd-warns-of-bitcoin-scam-taking-about-1m/)**
-
-WWLP • 1h ago
+TMX Newsfile • 11h ago
 
 ---
 
@@ -265,7 +267,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 **[Bitcoin slides as Strategy plans up to $5B in crypto sales](https://news.ycombinator.com/item?id=49128264)**
 
-⬆️ 2 • 💬 0 • 1h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
+⬆️ 2 • 💬 0 • 2h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
 
 ---
 
@@ -297,7 +299,7 @@ A minimal, modular blockchain for peer-to-peer value and controlled networks. - 
 
 End-to-end encrypted chat with self-custodial Bitcoin Lightning payments. Settle in under a second.
 
-⬆️ 1 • 💬 0 • 6m ago • [Radar](https://radar.chat/)
+⬆️ 1 • 💬 0 • 1h ago • [Radar](https://radar.chat/)
 
 ---
 
@@ -327,7 +329,7 @@ No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analys
 
 📺 Gareth Soloway
 
-👁️ 34K • 👍 3K • 💬 218 • ⏱️ 14:35 • 10h ago
+👁️ 34K • 👍 3K • 💬 218 • ⏱️ 14:35 • 11h ago
 
 ---
 
@@ -337,7 +339,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 896 • 👍 94 • 💬 27 • ⏱️ 15:37 • 4h ago
+👁️ 896 • 👍 94 • 💬 27 • ⏱️ 15:37 • 5h ago
 
 ---
 
@@ -347,7 +349,7 @@ CharlesSchwab's Jim Ferraioli breaks down the latest crypto trends, key market f
 
 📺 Schwab Network
 
-👁️ 2K • 👍 26 • 💬 2 • ⏱️ 7:14 • 7h ago
+👁️ 2K • 👍 26 • 💬 2 • ⏱️ 7:14 • 8h ago
 
 ---
 
@@ -377,7 +379,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 380 • 💬 181 • ⏱️ 11:29 • 6h ago
+👁️ 5K • 👍 380 • 💬 181 • ⏱️ 11:29 • 7h ago
 
 ---
 
@@ -387,7 +389,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 117 • ⏱️ 10:40 • 1d ago
+👁️ 42K • 👍 2K • 💬 117 • ⏱️ 10:40 • 2d ago
 
 ---
 
@@ -397,7 +399,7 @@ Bitcoin on Friday fell to its lowest level in weeks after Strategy, the world's 
 
 📺 Forbes Breaking News
 
-👁️ 479 • 👍 1 • 💬 11 • ⏱️ 2:22 • 2h ago
+👁️ 479 • 👍 1 • 💬 11 • ⏱️ 2:22 • 4h ago
 
 ---
 

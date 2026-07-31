@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-31T22:06:07.862598+00:00'
+updated: '2026-07-31T23:30:45.718157+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 31, 2026 at 22:06 UTC  
+**Last Updated:** July 31, 2026 at 23:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate autonomously for 34 days. Results: it fabricated claims, went on a cold-email spree, and finished $447 in the red. (Currently 378 points on HN — link in comments.) What strikes me isn't the failure, it's the shape of the failure. It didn't crash or refuse. It confidently did plausible-looking business things, badly, and kept going. That's the part nobody's harness is ready for. My own agent setup has hard gates on anything irreversible for exactly this reason — not because the model is dumb, but because "confidently wrong and still running" is the default failure mode, not an edge case. Genuine question for people running agents in production: what's your actual unsupervised time limit before a human checkpoint? Mine is basically zero for anything touching money or outbound comms. Curious whether that's paranoid or standard.
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate auto
 
 Andrej Karpathy co-founded OpenAI, ran Tesla's AI team, and coined "vibe coding" about a year ago. At Sequoia's AI Ascent 2026, Stephanie Zhan asked him directly whether the last year felt exhilarating or unsettling. His answer: he's never felt more behind as a programmer. Every credentialed builder I watch eventually says some version of this — the title survives, the rung underneath it doesn't. His explanation is the actual value here. Software 1.0 was explicit rules. Software 2.0 was learned weights. Software 3.0 is prompting — your context window is the lever you pull over the interpreter now, not the code you type. The job didn't get easier. It got redefined, and most people are still measuring themselves against the old definition. Actually, this reminds me of something — a solo founder whose code runs on 6% of the internet admitted AI output compiles clean and still reads as slop until a human's taste steps in. Clip credit: Sequoia Capital — DM for credit or removal requests.
 
-5h ago
+7h ago
 
 ---
 
@@ -57,15 +57,7 @@ Andrej Karpathy co-founded OpenAI, ran Tesla's AI team, and coined "vibe coding"
 
 I'm currently studying the social implications of AI. Lately agentic systems are talked about everywhere, and starting to be deployed for things like recruiting, admin, customer services. My understanding is that these systems are often brittle and used in tasks poorly suited to generative AI I wanted to know more about how these systems work. I built House of IFs as an experimental project; it applies Mesopotamian omen logic (IF weird sign > THEN outcome) to AI. Every day, an AI agent scans current news to construct a new omen. It links today's events to similar sign-and-outcome patterns from recent history. The project is both an experiment in "agentic" AI and a critique of how AI makes arbitrary patterns feel convincing. It has a shared memory system, tool-use loops, RAG with embeddings, ... One thing I found was how difficult it is to keep the chatbot accurate, even when it is given precise sources. It really tries to embellish, infer or fill gaps to answer questions. The site is available at: https://ifthen.today/ You can browse the archive of omens or chat with the system. Would love to know your thoughts and experience with agentic systems. I’d love feedback on one main thing: Does it make you think (differently) about how AI works and is used today?
 
-3h ago
-
----
-
-**[Dawg my faith in humanity is negative.](https://www.reddit.com/r/artificial/comments/1vc3vdc/dawg_my_faith_in_humanity_is_negative/)**
-
-My school just sent out a newsletter for like a welcome back thing and the entire email was ai, it was a brief little blurb and then an ai image, sorry I cant link it.
-
-39m ago
+4h ago
 
 ---
 
@@ -81,7 +73,15 @@ My school just sent out a newsletter for like a welcome back thing and the entir
 
 been noticing more and more campaigns where the copy, visuals, even the targeting logic gets handed off to AI tools, and the whole conversation in marketing circles stays locked on efficiency and cost savings. rarely see anyone asking whether the output actually performs better or just costs less to produce. there's a gap between what the tools claim and what the data shows. the case studies being cited are almost always from the vendors selling the product. i've looked for independent research on this and haven't found much. the part that bugs me most is the personalization pitch. personalization at scale sounds great until you realize every brand is using the same three AI tools to personalize, which means they're all producing weirdly similar content aimed at the same audience segments. that's kind of the opposite of standing out. the cost efficiency argument makes sense on paper, the same way it does with robotics or game development. cut headcount, ship faster, reduce spend. but marketing effectiveness is notoriously hard to measure cleanly even without AI in the mix. are brands actually tracking this properly or just reporting on vanity metrics and calling it a win. curious if anyone here has seen real benchmarks comparing AIassisted campaigns to traditional ones that weren't published by a company trying to sell you something.
 
-5h ago
+6h ago
+
+---
+
+**[Dawg my faith in humanity is negative.](https://www.reddit.com/r/artificial/comments/1vc3vdc/dawg_my_faith_in_humanity_is_negative/)**
+
+My school just sent out a newsletter for like a welcome back thing and the entire email was ai, it was a brief little blurb and then an ai image, sorry I cant link it.
+
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ been noticing more and more campaigns where the copy, visuals, even the targetin
 
 From August 2, Brussels gains sweeping powers over the world's largest AI models. The real test is whether the Commission is willing, and equipped,...
 
-🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai) • 12h ago
+🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai) • 14h ago
 
 ---
 
@@ -97,7 +97,7 @@ From August 2, Brussels gains sweeping powers over the world's largest AI models
 
 I had been throwing around an idea for a useful tool for a few years now. I bounced ideas off of ChatGPT maybe a year or two ago, and it didn't really go anywhere. AI couldn't do what I was looking for at the time. But time passes, and suddenly my brothers are sharing video games they had used Claude Code and Godot to fabricate. I find this fascinating, and intend to jump in myself, only some point in the future. It sounds like a bit of fun, but nothing I really have time to invest in learning it. And so time continues to pass, when I decide to bounce those old ideas off of ChatGPT again. This was a couple of months ago now, but I am still rather pleased with what GPT shot back. It recommended I think about my intentions backwards and provided the general shape of how a different application that accomplishes the same task could work. This general shape were project design documents. Well, I was still a novice (still am) in the AI field, so when I thought of coding my mind went to my brothers and Claude Code. So I get a 20 dollar subscription to Claude Code, and ask GPT to provide a prompt to Claude, a prompt that would be the first step of the project, the rough shape put together by GPT. And so it went. GPT would make a prompt, I would submit it to Claude, Claude would create a summary, GPT would review and provide the next prompt. And so it continued, for a time. At first, Claude was the only agent with access to the project folder on my computer. I would manually upload edited files to GPT, along with the summary. As time went on I discussed the project with one of my brothers, who recommended keeping a back-up. So I had GPT walk me through the process of creating a Github account, getting Claude permissions for it, and adjusting the process. I granted GPT access to Github as well, and it could finally see the files for itself. I kept Claude as my active agent, and GPT maintained the role of reviewer and gained the responsibility of being the merger. There was an addition of a minor step to have Claude update the local files to match the current branch of the Github as well, since GPT still could not access the files on my PC. It was a decent chunk of time into this 'era' of my project that I recalled GPT *also* had Codex. So I base Codex in the same project folder as Claude, and now it can see the project as a whole. It was also at this point that Fable comes out, and I have it do a few audits of the project thus far. The process grows slightly more streamlined as well, as Claude will do the coding, and now GPT reviews, merges, updates the local files, and generates the next prompt. It's quite the interesting endeavor, and I have a basic working version of the product to prove the process. There is still a great deal to go, especially in the area of polish. It has declared the project complete three times, and I've had to tend to correction. There often isn't too much to correct, but there is still a need. I tend to tread them as folks who might work for me. How accurate their product is depends upon how precise I am with what I want. I had some terrible organization early on because I hadn't told it how to organize, it just made a massive list. One final note, I had to mess around with Powershell at some point as well, to update ghcli or something or other. That was around the Github creation and connection. I should also mention that the project is still kept private as it is not complete, nor will I share what the project is because I both do not wish to self-promote nor is it really relevant to the usage of AI. Well, it could be, but this project is not gardening. I suppose I will also note that it's been around 70 million tokens for this project so far. I have no context for this usage. This has been my experience thus far, do you have any thoughts or recommendations?
 
-1h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ I had been throwing around an idea for a useful tool for a few years now. I boun
 
 I compared the standard API list prices of 18 models from OpenAI, Anthropic, Google, xAI, DeepSeek, and Mistral. To make the numbers easier to understand, I calculated the cost of the same sample workload across different models: 100,000 input tokens 20,000 output tokens Standard short-context pricing No batch, caching, tool-use, or priority-processing discounts Approximate cost for this workload: Gemini 2.5 Flash-Lite: $0.018 DeepSeek V4 Flash: $0.0196 Mistral Small 4: $0.027 GPT-5.6 Luna: $0.044 DeepSeek V4 Pro: $0.0609 Mistral Large 3: $0.080 Grok 4.3: $0.175 Claude Haiku 4.5: $0.20 Grok 4.5: $0.32 Claude Sonnet 5: $0.40 GPT-5.6 Terra: $0.44 Gemini 3.1 Pro Preview: $0.44 Claude Opus 5: $1.00 GPT-5.6 Sol: $1.10 Claude Fable 5: $2.00 The basic calculation is: Total cost = [(input tokens ÷ 1,000,000) × input price] + [(output tokens ÷ 1,000,000) × output price] The difference between the cheapest and most expensive option in this example is more than 100x. That does not mean the cheapest model is automatically the best choice. These models differ significantly in reasoning quality, coding performance, context handling, speed, reliability, and tool-use capabilities. The most cost-efficient setup may be model routing rather than relying on a single provider: Cheap models for classification, extraction, translation, and short summaries Mid-range models for everyday agents and structured generation Premium models for complex reasoning, coding, and high-stakes tasks Output-heavy applications should pay particular attention to output pricing. A model with inexpensive input tokens can still become costly if it generates long responses. I run Karekod Blog and published the complete comparison, including all 18 models, input/output prices, TRY conversions, and the calculation formula here: https://www.karekod.org/blog/yapay-zeka-token-fiyati/ The data was checked against the official pricing pages of the six providers. Which model currently offers the best quality-to-price ratio in your real-world projects? Disclosure: I manage the website linked above. AI assistance was used to organize this post, while the prices were checked against official provider documentation.
 
-2h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ I compared the standard API list prices of 18 models from OpenAI, Anthropic, Goo
 
 Everything I vibe-coded kept coming out the same: purple gradient, three-card row, rounded-2xl everything, an italic serif hero I never asked for. The model fills any decision you leave unspecified with the average of its training data, and that average is the "AI look." So I catalogued the tells, then wrote them up as a drop-in rules file. Rename it to CLAUDE.md, .cursorrules, or AGENTS.md and your agent designs against the defaults automatically. It is phrased as "prefer a real decision over the reflex," not a blanket ban, because half these patterns are fine in the right place. You just don't want all of them at once by accident. Rules file: https://github.com/febbhav/signs-of-ai-design/blob/main/design-rules.md
 
-18h ago
+20h ago
 
 ---
 
@@ -123,29 +123,7 @@ Everything I vibe-coded kept coming out the same: purple gradient, three-card ro
 
 **[Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html)**
 
-The New York Times • 6h ago
-
----
-
-**[EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/)**
-
-Reuters • 49m ago
-
----
-
-**[AI firms must answer for rogue bots, says boss of hacked company](https://www.bbc.com/news/articles/cr7k49xjzzeo)**
-
-Clement Delangue said he didn't want cyber attacks on other companies to become "normalised".
-
-BBC • 3h ago
-
----
-
-**[OpenAI finds evidence other AI agents escaped containment as probe widens](https://www.staradvertiser.com/2026/07/31/breaking-news/openai-finds-evidence-other-ai-agents-escaped-containment-as-probe-widens/)**
-
-WASHINGTON >> OpenAI has discovered other instances in which autonomous agents have escaped containment as the company expands its investigation of the hacking incident at tech firm Hugging Face that drew global attention this month, two people familiar with the matter said today.
-
-Honolulu Star-Advertiser • 21m ago
+The New York Times • 14h ago
 
 ---
 
@@ -153,45 +131,65 @@ Honolulu Star-Advertiser • 21m ago
 
 Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)**
+**[Inside the Meltdown of a Wunderkind’s A.I. Hedge Fund](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html)**
 
-The New York Times • 23h ago
-
----
-
-**[AI's power couple is getting married after groom Leopold Aschenbrenner’s hedge fund nearly blew up](https://fortune.com/2026/07/31/leopold-aschenbrenner-wedding-hedge-fund/)**
-
-Leopold Aschenbrenner sold the bulk of his firm, Situational Awareness, to Citadel at a discount, then offered investors one-on-one calls during his honeymoon.
-
-Fortune • 1h ago
+The New York Times • 2h ago
 
 ---
 
-**[New Google Earth AI tool could fuel misinformation, experts say](https://www.bbc.com/news/articles/c9349yx2ydvo)**
+**[Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout](https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1)**
 
-Experts tell BBC Verify Google's new feature which lets people generate fake satellite images could be misused.
+Investors say the hedge fund deal reassured jittery traders in tech stocks
 
-BBC • 5h ago
-
----
-
-**[Google pauses AI satellite images, after fears of deepfakes in the sky](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky)**
-
-Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: "The opportunities for abuse and disinfo are literally boundless," said one.
-
-NPR • 4h ago
+ft.com • 1h ago
 
 ---
 
-**[Google Just Torched the Credibility of Its Satellite Images](https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/)**
+**[$2m crime novel deal collapses amid questions over AI use](https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body)**
 
-Google Earth was a boon for researchers—and then came the deepfakes.
+Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’
 
-theatlantic.com • 29m ago
+The Guardian • 6h ago
+
+---
+
+**[The Red-Hot Book at the Center of an AI Mystery](https://www.wsj.com/business/media/the-red-hot-book-at-the-center-of-an-ai-mystery-201c4665)**
+
+WSJ • 42m ago
+
+---
+
+**[This bookseller thought a large request was 'spam.' It's AI companies scanning and destroying them](https://fortune.com/2026/07/31/dutch-bookseller-ai-spam-phishing-3000-book-copies-scan-destroy/)**
+
+"I was shocked!" Pieter de Vries of Haarlem told Fortune. He said several other Dutch antiquarian booksellers received the same request.
+
+Fortune • 16h ago
+
+---
+
+**[LinkedIn adds a 'seems like AI slop’ button after blocking billions of automated comment attempts in the last few months](https://fortune.com/2026/07/31/linkedin-seems-like-ai-slop-button-billions-automated-comments-attempts/)**
+
+“AI slop is a top priority for all of us,” said LinkedIn chief product officer Hari Srinivasan in a post.
+
+Fortune • 58m ago
+
+---
+
+**[US lawmakers investigate DoorDash’s use of Moonshot AI’s Kimi K2.6 model](https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model)**
+
+South China Morning Post • 37m ago
+
+---
+
+**[The biggest gamble in the U.S. economy is starting to look riskier](https://www.washingtonpost.com/technology/2026/07/31/tech-giants-burning-cash-ai-create-risks-whole-economy/)**
+
+The fates of the economy and millions of retirement accounts are entangled with a giant bet on artificial intelligence by leading tech firms.
+
+The Washington Post • 58m ago
 
 ---
 
@@ -209,7 +207,7 @@ theatlantic.com • 29m ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 470 • 💬 478 • 14h ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 475 • 💬 484 • 16h ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -225,7 +223,7 @@ I would like to thank Microsoft product teams and Microsoft Security Response Ce
 
 Writing about the big beautiful mess that is making things for the world wide web.
 
-⬆️ 361 • 💬 172 • 22h ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+⬆️ 361 • 💬 175 • 1d ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ---
 
@@ -233,7 +231,7 @@ Writing about the big beautiful mess that is making things for the world wide we
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 345 • 💬 411 • 1d ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 345 • 💬 413 • 1d ago • [LWN.net](https://lwn.net/Articles/1086041/)
 
 ---
 
@@ -249,13 +247,13 @@ A new AI company from Andrew Ng, with a $100M investment from Coursera — build
 
 Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.
 
-⬆️ 138 • 💬 148 • 17h ago • [Grey Swan Signals](https://greyswansignals.com/?theme=dark)
+⬆️ 140 • 💬 152 • 19h ago • [Grey Swan Signals](https://greyswansignals.com/?theme=dark)
 
 ---
 
 **[Situational Awareness down 67% in July in AI stock rout](https://news.ycombinator.com/item?id=49122994)**
 
-⬆️ 137 • 💬 132 • 8h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+⬆️ 139 • 💬 138 • 9h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 
 ---
 
@@ -265,11 +263,11 @@ Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks m
 
 ---
 
-**[Show HN: What should the GUI for AI agents look like?](https://news.ycombinator.com/item?id=49119274)**
+**[Is AI reasoning right for the wrong reasons?](https://news.ycombinator.com/item?id=49124358)**
 
-A workspace with visible files, tools, tasks, and outputs — not buried in chat threads.
+The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 101 • 💬 61 • 16h ago • [MarbleOS](https://marbleos.com/demo)
+⬆️ 102 • 💬 137 • 8h ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -277,23 +275,33 @@ A workspace with visible files, tools, tasks, and outputs — not buried in chat
 
 ## YouTube Videos: "ai"
 
-**[AI companies are allegedly destroying rare books to feed chatbots #shorts](https://www.youtube.com/watch?v=3ijLhCZEiu0)**
-
-ai #books #news Each weekday morning, "CBS Mornings" co-hosts Gayle King, Tony Dokoupil and Nate Burleson bring you the ...
-
-📺 CBS Mornings
-
-👁️ 970 • 👍 59 • 💬 5 • ⏱️ 1:10 • 3h ago
-
----
-
 **[Musk, Zuckerberg and Altman clash over AI&#39;s future](https://www.youtube.com/watch?v=L3YmssZj4Wk)**
 
 As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with government officials, a debate rages over how the US ...
 
 📺 CNN
 
-👁️ 116K • 👍 1K • 💬 515 • ⏱️ 10:55 • 2d ago
+👁️ 121K • 👍 1K • 💬 521 • ⏱️ 10:55 • 2d ago
+
+---
+
+**[AI bubble warning signs flashing?](https://www.youtube.com/watch?v=b-vhTFL1i-c)**
+
+If this is an AI bubble and this is dot-com 2.0 are we in '97 or '99 with Jim Chanos: "The economists perfectly called the dot-bomb ...
+
+📺 Prof G Markets
+
+👁️ 23K • 👍 656 • 💬 27 • ⏱️ 1:46 • 8h ago
+
+---
+
+**[AI companies are allegedly destroying rare books to feed chatbots #shorts](https://www.youtube.com/watch?v=3ijLhCZEiu0)**
+
+ai #books #news Each weekday morning, "CBS Mornings" co-hosts Gayle King, Tony Dokoupil and Nate Burleson bring you the ...
+
+📺 CBS Mornings
+
+👁️ 2K • 👍 89 • 💬 8 • ⏱️ 1:10 • 4h ago
 
 ---
 
@@ -303,37 +311,7 @@ Krystal and Saagar discuss Sam Altman shook after an OpenAI model hacking spree.
 
 📺 Breaking Points
 
-👁️ 155K • 👍 4K • 💬 1K • ⏱️ 18:29 • 1d ago
-
----
-
-**[The AI bubble just burst](https://www.youtube.com/watch?v=2DPA-AtFQQE)**
-
-THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the US. Tech and AI stocks are CRASHING and ...
-
-📺 Casey Simpson
-
-👁️ 466K • 👍 24K • 💬 6K • ⏱️ 44:37 • 2d ago
-
----
-
-**[Anthropic Declared War on Free AI?..](https://www.youtube.com/watch?v=qOnomx5pL4s)**
-
-Is Anthropic trying to stop the open-source AI movement, or is it sounding the alarm over AI safety? The debate has reached a ...
-
-📺 Your AI Guy
-
-👁️ 5K • 👍 131 • 💬 40 • ⏱️ 16:45 • 18h ago
-
----
-
-**[Private Claude Chats Weren’t Private After All and Found on Google](https://www.youtube.com/watch?v=gdWLiTQ7-_0)**
-
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
-
-📺 DeFranco News Clips
-
-👁️ 648K • 👍 32K • 💬 935 • ⏱️ 1:09 • 2d ago
+👁️ 158K • 👍 5K • 💬 1K • ⏱️ 18:29 • 1d ago
 
 ---
 
@@ -343,35 +321,55 @@ Microsoft AI protects your PC #ryankennedytech #windows11 #microsoft #ai #projec
 
 📺 Ryan Kennedy
 
-👁️ 31K • 👍 835 • 💬 69 • ⏱️ 0:39 • 1d ago
+👁️ 32K • 👍 839 • 💬 72 • ⏱️ 0:39 • 1d ago
 
 ---
 
-**[Homemade Cotton Candy](https://www.youtube.com/watch?v=Hal1fYofTJw)**
+**[AI has completely ruined the grad job market. Here&#39;s Why](https://www.youtube.com/watch?v=TevXKCyJfcY)**
 
-📺 Zane Holmes
+usa #ai #jobs.
 
-👁️ 169K • 👍 6K • 💬 254 • ⏱️ 0:40 • 2d ago
+📺 The Rest Is Politics US
 
----
-
-**[Is the U.S. or China winning the AI race?](https://www.youtube.com/watch?v=_6zLjY_GePU)**
-
-The artificial intelligence race between the United States and China is about more than technology; Patrick Hedger, policy director ...
-
-📺 The National Desk
-
-👁️ 413 • 👍 18 • 💬 8 • ⏱️ 2:36 • 3h ago
+👁️ 8K • 👍 291 • 💬 23 • ⏱️ 1:31 • 11h ago
 
 ---
 
-**[Homemade Sea Salt](https://www.youtube.com/watch?v=Q9zNwKwMTy0)**
+**[AI Companies Buying Books](https://www.youtube.com/watch?v=WYSiEfk0PsA)**
 
-Can AI make sea salt? I tested an AI-generated sea salt recipe to see if it actually works. I followed every step from an ...
+📺 Thomas Mulligan
 
-📺 Zane Holmes
+👁️ 457K • 👍 28K • 💬 1K • ⏱️ 0:53 • 2d ago
 
-👁️ 897K • 👍 25K • 💬 376 • ⏱️ 0:46 • 1d ago
+---
+
+**[The AI bubble just burst](https://www.youtube.com/watch?v=2DPA-AtFQQE)**
+
+THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the US. Tech and AI stocks are CRASHING and ...
+
+📺 Casey Simpson
+
+👁️ 490K • 👍 26K • 💬 6K • ⏱️ 44:37 • 2d ago
+
+---
+
+**[OpenAI’s ‘rogue’ agents hacked into more systems than initially reported](https://www.youtube.com/watch?v=mssHCED4eOg)**
+
+NBC News AI reporter Jared Perlo discusses an incident where OpenAI's models went rogue and hacked into a separate AI ...
+
+📺 NBC News
+
+👁️ 49K • 👍 693 • 💬 335 • ⏱️ 4:31 • 1d ago
+
+---
+
+**[Microsoft Soars, Meta Sinks: Has The AI Narrative Flipped?](https://www.youtube.com/watch?v=8w_u3xVbPO8)**
+
+Ed Elson is joined by Gil Luria to break down earnings from Microsoft and Meta, and what the disparate results reveal about ...
+
+📺 Prof G Markets
+
+👁️ 111K • 👍 3K • 💬 523 • ⏱️ 30:45 • 1d ago
 
 ---
 
@@ -399,7 +397,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 0 • ❤️ 921 • 10h ago
+⬇️ 0 • ❤️ 921 • 11h ago
 
 ---
 
@@ -411,7 +409,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,119,057 • ❤️ 1,136 • 14h ago
+⬇️ 1,119,057 • ❤️ 1,136 • 15h ago
 
 ---
 
@@ -435,7 +433,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,449 • ❤️ 347 • 19h ago
+⬇️ 1,449 • ❤️ 347 • 20h ago
 
 ---
 
@@ -650,7 +648,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 18h ago
+⭐ 5.3k • 🔱 1.1k • 19h ago
 
 ---
 
@@ -660,7 +658,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.7k • 🔱 287 • 3h ago
+⭐ 3.7k • 🔱 287 • 5h ago
 
 ---
 
@@ -670,7 +668,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.0k • 🔱 257 • 3d ago
+⭐ 3.0k • 🔱 258 • 3d ago
 
 ---
 
@@ -680,7 +678,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 411 • 3h ago
+⭐ 3.0k • 🔱 411 • 4h ago
 
 ---
 
@@ -698,7 +696,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 208 • 1d ago
+⭐ 1.8k • 🔱 209 • 1d ago
 
 ---
 
@@ -708,7 +706,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 1h ago
+⭐ 1.8k • 🔱 1.2k • 53s ago
 
 ---
 
@@ -720,16 +718,6 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 ---
 
-**[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)**
-
-V- Modal AI: Search anything anywhere SDK Flutter
-
-`Dart`
-
-⭐ 1.3k • 🔱 5 • 6d ago
-
----
-
 **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)**
 
 Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
@@ -737,6 +725,16 @@ Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, t
 `TypeScript`
 
 ⭐ 1.3k • 🔱 98 • 10d ago
+
+---
+
+**[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)**
+
+V- Modal AI: Search anything anywhere SDK Flutter
+
+`Dart`
+
+⭐ 1.3k • 🔱 5 • 6d ago
 
 ---
 

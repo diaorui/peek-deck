@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-31T22:06:07.880191+00:00'
+updated: '2026-07-31T23:30:45.729285+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 31, 2026 at 22:06 UTC  
+**Last Updated:** July 31, 2026 at 23:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,20 +110,6 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 ## Google News: "robotics"
 
-**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
-
-The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
-
-WIRED • 1d ago
-
----
-
-**[Google updates its AI software for robots](https://www.axios.com/2026/07/30/google-robotics-software-update)**
-
-Axios • 1d ago
-
----
-
 **[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
@@ -132,11 +118,19 @@ Google DeepMind • 1d ago
 
 ---
 
-**[US bans Chinese and foreign-made humanoid robots](https://www.dw.com/en/us-bans-chinese-and-foreign-made-humanoid-robots/a-78154426)**
+**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
 
-The Trump administration has banned the import of humanoid and quadruped robots manufactured outside the United States, citing national security concerns. The ban could strain diplomatic tensions with China.
+The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
 
-DW.com • 2d ago
+WIRED • 1d ago
+
+---
+
+**[Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here](https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/)**
+
+Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
+
+CNET • 11h ago
 
 ---
 
@@ -144,7 +138,13 @@ DW.com • 2d ago
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-ABC News - Breaking News, Latest News and Videos • 8h ago
+ABC News - Breaking News, Latest News and Videos • 9h ago
+
+---
+
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -152,7 +152,15 @@ ABC News - Breaking News, Latest News and Videos • 8h ago
 
 AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Qualcomm-powered robot collapses spectacularly on stage during company's keynote — prepared stagehands rush to cloak and then carry off stricken humanoid (updated)](https://www.tomshardware.com/tech-industry/robotics/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-presentation-prepared-stagehands-rush-to-cloak-and-then-carry-off-stricken-humanoid)**
+
+Crashing mechanical shambles makes the presentation ring hollow.
+
+Tom's Hardware • 8h ago
 
 ---
 
@@ -164,9 +172,9 @@ NVIDIA Developer • 3d ago
 
 ---
 
-**[Watch The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir](https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video)**
+**[Legged robots raise surveillance, job and battlefield accountability concerns](https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html)**
 
-bloomberg.com • 22h ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -174,15 +182,7 @@ bloomberg.com • 22h ago
 
 Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
 
-The Globe and Mail • 13h ago
-
----
-
-**[Terrifying Rescue Robot Comes With Instructions To ‘Kill It’](https://www.newsweek.com/terrifying-rescue-robot-comes-with-instructions-to-kill-it-12268714)**
-
-A horned, chainsaw-wielding rescue robot is going viral after its creator revealed built-in "kill switch" features and detailed how it can be stopped.
-
-Newsweek • 11h ago
+The Globe and Mail • 14h ago
 
 ---
 
@@ -226,7 +226,7 @@ Carolina Parada, Stuart Bowers, Kanishka Rao, and Jie Tan from Google DeepMind j
 
 📺 Google for Developers
 
-👁️ 1K • 👍 72 • 💬 6 • ⏱️ 39:14 • 3h ago
+👁️ 1K • 👍 72 • 💬 6 • ⏱️ 39:14 • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 3K • 👍 61 • ⏱️ 1:00 • 4h ago
+👁️ 3K • 👍 61 • ⏱️ 1:00 • 6h ago
 
 ---
 
