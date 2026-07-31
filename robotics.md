@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-31T19:25:38.203241+00:00'
+updated: '2026-07-31T20:41:54.755781+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 31, 2026 at 19:25 UTC  
+**Last Updated:** July 31, 2026 at 20:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ California-based robotics startup Satyress is developing Threehalves, a 7-foot-t
 
 Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about $100), a BNO085 IMU, and hall encoders on the wheels. No RTK, no base station, no corrections Orange is pretty much every fix the receiver reported. Blue is the output seen after fusing those fixes with the IMU and wheel odometry in a UKF. Every fix was used, none were rejected in this entire run. What I can and cannot say about this is that, since this is a fair thing to ask: I don't have RTK ground truth for this run, so I can't claim the blue line is closer to the true path than the orange dots are. What I can say is that the filter's reported 1-sigma stayed around 2.5 m throughout, including while moving, and the fused output tracked the raw fixes to a median of 1.69 m. Both of those are self-reported numbers, not error against an independent reference. Other limitations worth stating: it's a single short run covering only about 20 m, there's no comparison against robot_localization on the same data yet, and heading comes from GPS track rather than a magnetometer, so it isn't meaningful for roughly the first minute of driving. The curve in the path is mechanical, the chassis pulls right about 3 deg/s. On the next run I'm closing the loop back to a physically marked start point so there's at least a real closure number, and replaying the same bag through robot_localization so it's a controlled comparison on identical input rather than one filter on its own. Also looking into borrowing an F9P for proper ground truth. Disclosure: I wrote the filter (FusionCore): https://github.com/manankharwar/fusioncore Happy to share the rosbag if anyone wants to run their own filter against it. Edit: rewrote this. Sorry if my english is bad...
 
-22h ago
+23h ago
 
 ---
 
@@ -68,7 +68,7 @@ Damage can fragment a modular robotic structure into disconnected pieces. We dev
 
 I'm exploring Bowden cables as a way to transmit motion when the motor can't be placed near the moving part. This is just a quick setup to see how smoothly it works before designing a larger mechanism. Any suggestions or ideas are welcome.
 
-22h ago
+23h ago
 
 ---
 
@@ -82,7 +82,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[how to build accelerator kit for robotics using Isaac sim and isaac lab](https://www.reddit.com/r/robotics/comments/1vb3ukp/how_to_build_accelerator_kit_for_robotics_using/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[Could there be an open-source layout robot for surveyors?](https://www.reddit.com/r/robotics/comments/1vb5lv8/could_there_be_an_opensource_layout_robot_for/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -118,9 +118,19 @@ Google DeepMind • 1d ago
 
 ---
 
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
 
-Reuters • 2d ago
+The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
+
+wired.com • 1d ago
+
+---
+
+**[Google reveals Gemini Robotics 2.0, promising improved dexterity and safety](https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/)**
+
+Gemini Robotics 2 includes three models, but only one is publicly available right now.
+
+Ars Technica • 1d ago
 
 ---
 
@@ -128,7 +138,13 @@ Reuters • 2d ago
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-ABC News - Breaking News, Latest News and Videos • 5h ago
+ABC News - Breaking News, Latest News and Videos • 7h ago
+
+---
+
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -140,9 +156,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir](https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video?srnd=all)**
+**[Watch The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir](https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -156,7 +172,7 @@ NVIDIA Developer • 2d ago
 
 **[Legged robots raise surveillance, job and battlefield accountability concerns](https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html)**
 
-Tech Xplore • 1d ago
+techxplore.com • 1d ago
 
 ---
 
@@ -164,23 +180,7 @@ Tech Xplore • 1d ago
 
 Crashing mechanical shambles makes the presentation ring hollow.
 
-Tom's Hardware • 3h ago
-
----
-
-**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
-
-Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
-
-The Globe and Mail • 10h ago
-
----
-
-**[Terrifying Rescue Robot Comes With Instructions To ‘Kill It’](https://www.newsweek.com/terrifying-rescue-robot-comes-with-instructions-to-kill-it-12268714)**
-
-A horned, chainsaw-wielding rescue robot is going viral after its creator revealed built-in "kill switch" features and detailed how it can be stopped.
-
-Newsweek • 9h ago
+Tom's Hardware • 5h ago
 
 ---
 
@@ -214,7 +214,7 @@ A San Francisco robotics startup has begun offering humanoid home cleaning servi
 
 📺 ABC7 News Bay Area
 
-👁️ 3K • 👍 48 • 💬 34 • ⏱️ 2:01 • 22h ago
+👁️ 3K • 👍 48 • 💬 34 • ⏱️ 2:01 • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 1K • 👍 34 • ⏱️ 1:00 • 2h ago
+👁️ 1K • 👍 34 • ⏱️ 1:00 • 3h ago
 
 ---
 
@@ -262,7 +262,7 @@ To be genuinely useful in our homes and workplaces, robots need finesse. Gemini 
 
 📺 Omar Agamy
 
-👁️ 367K • 👍 18K • 💬 1K • ⏱️ 0:40 • 15h ago
+👁️ 367K • 👍 18K • 💬 1K • ⏱️ 0:40 • 17h ago
 
 ---
 

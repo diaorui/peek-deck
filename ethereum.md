@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T19:25:38.200546+00:00'
+updated: '2026-07-31T20:41:54.752903+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 19:25 UTC  
+**Last Updated:** July 31, 2026 at 20:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -0.3%  
-**30d:** +10.0%  
-**90d:** -19.5%  
-**1y:** -46.4%  
+**24h:** -2.8%  
+**7d:** -0.5%  
+**30d:** +9.7%  
+**90d:** -19.7%  
+**1y:** -46.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.82B
+**Market Cap:** $225.06B
 Rank #2
 
 **Circulating Supply:** 120,682,334 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-62.3%
 
 **All-Time Low:** $0.43
-+432073.4%
++430588.3%
 
 ---
 
@@ -164,7 +164,7 @@ ethereum.org • 2d ago
 
 ARK Invest CEO Cathie Wood is one of the first investors to gain exposure to cryptocurrencies. She once revealed that ARK was the first public asset manager to gain Bitcoin (BTC) exposure in 2015 when the cryptocurrency wasn't worth even $500. Today, the asset manager also maintains ...
 
-Yahoo Finance Singapore • 1h ago
+Yahoo Finance Singapore • 2h ago
 
 ---
 
@@ -178,15 +178,7 @@ CoinDesk • 1d ago
 
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-MarketWatch • 5h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
-
-FXStreet • 15h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -194,15 +186,31 @@ FXStreet • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+fortune.com • 9h ago
 
 ---
 
-**[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://www.tradingview.com/news/stocktwits:8c0d86896094b:0-cathie-wood-s-ark-trims-bmnr-stock-exposure-despite-calling-its-ethereum-strategy-exponential-sells-blsh-hood-xyz-shares-too/)**
+**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
 
-Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
+Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
 
-TradingView • 1d ago
+CoinMarketCap • 2d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
+
+FXStreet • 16h ago
+
+---
+
+**[Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million](https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/)**
+
+Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -214,19 +222,11 @@ The Block • 2d ago
 
 ---
 
-**[Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million](https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/)**
+**[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://www.tradingview.com/news/stocktwits:8c0d86896094b:0-cathie-wood-s-ark-trims-bmnr-stock-exposure-despite-calling-its-ethereum-strategy-exponential-sells-blsh-hood-xyz-shares-too/)**
 
-Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
+Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
 
-CryptoSlate • 23h ago
-
----
-
-**[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
-
-BlackRock clients bought over $20 million in ETH; staking beats records.
-
-AMBCrypto • 1d ago
+tradingview.com • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 299 • 💬 156 • ⏱️ 11:29 • 3h ago
+👁️ 3K • 👍 299 • 💬 156 • ⏱️ 11:29 • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 390 • 💬 20 • ⏱️ 34:32 • 9h ago
+👁️ 5K • 👍 390 • 💬 20 • ⏱️ 34:32 • 10h ago
 
 ---
 
@@ -290,7 +290,7 @@ Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorse
 
 📺 YaBoySkey
 
-👁️ 535 • 👍 21 • 💬 6 • ⏱️ 2:58 • 21h ago
+👁️ 535 • 👍 21 • 💬 6 • ⏱️ 2:58 • 22h ago
 
 ---
 
@@ -330,7 +330,7 @@ Comfortable crypto trading with Bybit: https://partner.bybit.com/b/youtbtu =====
 
 📺 TU Crypto News
 
-👁️ 134 • 💬 1 • ⏱️ 0:24 • 4h ago
+👁️ 134 • 💬 1 • ⏱️ 0:24 • 5h ago
 
 ---
 
