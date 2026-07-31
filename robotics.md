@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-31T17:37:36.695584+00:00'
+updated: '2026-07-31T19:25:38.203241+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 31, 2026 at 17:37 UTC  
+**Last Updated:** July 31, 2026 at 19:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ California-based robotics startup Satyress is developing Threehalves, a 7-foot-t
 
 Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about $100), a BNO085 IMU, and hall encoders on the wheels. No RTK, no base station, no corrections Orange is pretty much every fix the receiver reported. Blue is the output seen after fusing those fixes with the IMU and wheel odometry in a UKF. Every fix was used, none were rejected in this entire run. What I can and cannot say about this is that, since this is a fair thing to ask: I don't have RTK ground truth for this run, so I can't claim the blue line is closer to the true path than the orange dots are. What I can say is that the filter's reported 1-sigma stayed around 2.5 m throughout, including while moving, and the fused output tracked the raw fixes to a median of 1.69 m. Both of those are self-reported numbers, not error against an independent reference. Other limitations worth stating: it's a single short run covering only about 20 m, there's no comparison against robot_localization on the same data yet, and heading comes from GPS track rather than a magnetometer, so it isn't meaningful for roughly the first minute of driving. The curve in the path is mechanical, the chassis pulls right about 3 deg/s. On the next run I'm closing the loop back to a physically marked start point so there's at least a real closure number, and replaying the same bag through robot_localization so it's a controlled comparison on identical input rather than one filter on its own. Also looking into borrowing an F9P for proper ground truth. Disclosure: I wrote the filter (FusionCore): https://github.com/manankharwar/fusioncore Happy to share the rosbag if anyone wants to run their own filter against it. Edit: rewrote this. Sorry if my english is bad...
 
-20h ago
+22h ago
 
 ---
 
@@ -68,7 +68,7 @@ Damage can fragment a modular robotic structure into disconnected pieces. We dev
 
 I'm exploring Bowden cables as a way to transmit motion when the motor can't be placed near the moving part. This is just a quick setup to see how smoothly it works before designing a larger mechanism. Any suggestions or ideas are welcome.
 
-20h ago
+22h ago
 
 ---
 
@@ -82,7 +82,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[how to build accelerator kit for robotics using Isaac sim and isaac lab](https://www.reddit.com/r/robotics/comments/1vb3ukp/how_to_build_accelerator_kit_for_robotics_using/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -94,7 +94,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[Could there be an open-source layout robot for surveyors?](https://www.reddit.com/r/robotics/comments/1vb5lv8/could_there_be_an_opensource_layout_robot_for/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -128,7 +128,7 @@ Reuters • 2d ago
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-ABC News - Breaking News, Latest News and Videos • 3h ago
+ABC News - Breaking News, Latest News and Videos • 5h ago
 
 ---
 
@@ -140,11 +140,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Robot waiters and drone deliveries: Inside China’s futuristic hardware capital](https://www.nbcnews.com/tech/tech-news/shenzhen-drones-robots-chinas-hardware-ai-capital-rcna589413)**
+**[The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir](https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video?srnd=all)**
 
-Long a symbol of China’s economic surge, Shenzhen is embracing a high-tech, low-altitude future.
-
-NBC News • 1d ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -166,15 +164,7 @@ Tech Xplore • 1d ago
 
 Crashing mechanical shambles makes the presentation ring hollow.
 
-Tom's Hardware • 2h ago
-
----
-
-**[Terrifying Rescue Robot Comes With Instructions To ‘Kill It’](https://www.newsweek.com/terrifying-rescue-robot-comes-with-instructions-to-kill-it-12268714)**
-
-A horned, chainsaw-wielding rescue robot is going viral after its creator revealed built-in "kill switch" features and detailed how it can be stopped.
-
-Newsweek • 7h ago
+Tom's Hardware • 3h ago
 
 ---
 
@@ -182,7 +172,15 @@ Newsweek • 7h ago
 
 Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
 
-The Globe and Mail • 8h ago
+The Globe and Mail • 10h ago
+
+---
+
+**[Terrifying Rescue Robot Comes With Instructions To ‘Kill It’](https://www.newsweek.com/terrifying-rescue-robot-comes-with-instructions-to-kill-it-12268714)**
+
+A horned, chainsaw-wielding rescue robot is going viral after its creator revealed built-in "kill switch" features and detailed how it can be stopped.
+
+Newsweek • 9h ago
 
 ---
 
@@ -196,7 +194,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 94K • 👍 3K • 💬 306 • ⏱️ 3:00 • 1d ago
+👁️ 112K • 👍 4K • 💬 356 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -206,65 +204,47 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 53K • 👍 304 • 💬 457 • ⏱️ 6:04 • 1d ago
+👁️ 57K • 👍 315 • 💬 462 • ⏱️ 6:04 • 1d ago
 
 ---
 
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
+**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
 
-📺 Omar Agamy
+A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
 
-👁️ 281K • 👍 15K • 💬 1K • ⏱️ 0:40 • 14h ago
+📺 ABC7 News Bay Area
 
----
-
-**[China Threatens Retribution Over US Robot Ban - Chinese Fight Back Against America](https://www.youtube.com/watch?v=YkquJl-859s)**
-
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
-
-📺 Eli the Computer Guy
-
-👁️ 8K • 👍 615 • 💬 234 • ⏱️ 17:44 • 17h ago
+👁️ 3K • 👍 48 • 💬 34 • ⏱️ 2:01 • 22h ago
 
 ---
 
-**[Robotics startup debuts humanoid housekeepers](https://www.youtube.com/watch?v=VGVE3gD4oJw)**
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
 
-Tau Robotics has unveiled a humanoid robot for vacuuming and cleaning in San Francisco, where the company is offering ...
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
 
-📺 ABC News
+📺 ejunky66
 
-👁️ 837 • 👍 26 • 💬 4 • ⏱️ 2:14 • 3h ago
-
----
-
-**[The FDA Just Changed Robotics Forever... Everyone Bought the Wrong Stock](https://www.youtube.com/watch?v=_6iqP7hdsk8)**
-
-The FDA just changed the future of surgical robotics and almost everyone is watching the WRONG stock. While headlines focused ...
-
-📺 Ross Givens
-
-👁️ 13K • 👍 697 • 💬 193 • ⏱️ 11:31 • 2d ago
+👁️ 1K • 👍 34 • ⏱️ 1:00 • 2h ago
 
 ---
 
-**[Adam Savage Meets the Original Cain Robot from RoboCop 2!](https://www.youtube.com/watch?v=tg4KtybPbSg)**
+**[Multi-robot collaboration with Gemini Robotics 2](https://www.youtube.com/watch?v=CiTPDm7PKW0)**
 
-Adam comes face to face with one of the most menacing robots in all of cinema history. In the Cinema Relics collection archive, ...
+Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems.
 
-📺 Adam Savage’s Tested
+📺 Google DeepMind
 
-👁️ 88K • 👍 5K • 💬 382 • ⏱️ 14:09 • 4d ago
+👁️ 11K • 👍 438 • 💬 29 • ⏱️ 2:32 • 1d ago
 
 ---
 
-**[He Won a $50k Robotics Prize With a Toy?! 🤖💰 #Shorts](https://www.youtube.com/watch?v=nLh7vufd0k0)**
+**[Robots working together with Gemini Robotics 2](https://www.youtube.com/watch?v=fo9WirRIaVs)**
 
-He built a winning robot using an RC car and a Wii Remote?! Watch how a "no-show genius" shocked NASA judges and won a ...
+Introducing multi-robot collaboration. This enables different types of robots to communicate and work together to solve complex ...
 
-📺 Upvote Saga
+📺 Google DeepMind
 
-👁️ 40K • 👍 1K • 💬 11 • ⏱️ 1:00 • 1d ago
+👁️ 6K • 👍 238 • 💬 30 • ⏱️ 2:09 • 1d ago
 
 ---
 
@@ -274,17 +254,35 @@ To be genuinely useful in our homes and workplaces, robots need finesse. Gemini 
 
 📺 Google DeepMind
 
-👁️ 12K • 👍 494 • 💬 50 • ⏱️ 2:17 • 1d ago
+👁️ 13K • 👍 534 • 💬 66 • ⏱️ 2:17 • 1d ago
 
 ---
 
-**[CHINA CLAPS BACK After US BANS Its Humanoid Robots #news #technology #china #robot](https://www.youtube.com/watch?v=4YDY0QcIXb0)**
+**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
 
-The United States just shut its doors to new Chinese humanoid and four legged robots, and Beijing did not stay silent. China's ...
+📺 Omar Agamy
 
-📺 SXE China
+👁️ 367K • 👍 18K • 💬 1K • ⏱️ 0:40 • 15h ago
 
-👁️ 22K • 👍 306 • 💬 44 • ⏱️ 0:46 • 2d ago
+---
+
+**[The Entire Uni Found My Secret Robot Channel](https://www.youtube.com/watch?v=4pBfm9KIGo8)**
+
+Project Files: https://www.patreon.com/TazerEngineering PCBWay (PCBWay-Tazer10): https://pcbway.com/g/Y1f24l ...
+
+📺 Tazer Technical
+
+👁️ 76K • 👍 5K • 💬 158 • ⏱️ 22:09 • 1d ago
+
+---
+
+**[I Built a Tiny AI Robot with ESP32-S3 | Xiaozhi AI Robot DIY](https://www.youtube.com/watch?v=i0nN3e4tpvE)**
+
+In this video, I'll show you how to build a tiny AI-powered robot using the ESP32-S3 N16R8 and Xiaozhi AI. Components Used ...
+
+📺 Creative Channel
+
+👁️ 14K • 👍 767 • 💬 57 • ⏱️ 31:13 • 1d ago
 
 ---
 

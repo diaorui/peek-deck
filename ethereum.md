@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T17:37:36.692796+00:00'
+updated: '2026-07-31T19:25:38.200546+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 17:37 UTC  
+**Last Updated:** July 31, 2026 at 19:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** +0.0%  
-**30d:** +10.3%  
-**90d:** -19.3%  
-**1y:** -46.3%  
+**24h:** -2.7%  
+**7d:** -0.3%  
+**30d:** +10.0%  
+**90d:** -19.5%  
+**1y:** -46.4%  
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/70574beKPfg) • 6d ago
+🔗 [youtu.be](https://youtu.be/70574beKPfg) • 7d ago
 
 ---
 
@@ -160,11 +160,11 @@ ethereum.org • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html)**
+**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://sg.finance.yahoo.com/news/cathie-wood-trims-ethereum-exposure-182102097.html)**
 
-Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
+ARK Invest CEO Cathie Wood is one of the first investors to gain exposure to cryptocurrencies. She once revealed that ARK was the first public asset manager to gain Bitcoin (BTC) exposure in 2015 when the cryptocurrency wasn't worth even $500. Today, the asset manager also maintains ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -178,7 +178,23 @@ CoinDesk • 1d ago
 
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-MarketWatch • 3h ago
+MarketWatch • 5h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
+
+FXStreet • 15h ago
+
+---
+
+**[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 8h ago
 
 ---
 
@@ -190,38 +206,6 @@ TradingView • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
-
-FXStreet • 13h ago
-
----
-
-**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
-
-Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
-
-CoinMarketCap • 2d ago
-
----
-
-**[Morgan Stanley deepens push into crypto with ethereum, Solana ETFs despite ongoing volatility](https://www.pionline.com/asset-management/exchange-traded-funds/pi-morgan-stanley-deepens-crypto-push-ethereum-solana-etfs/)**
-
-After entering the spot bitcoin ETF market this year, Morgan Stanley is already planning broader crypto offerings, including multi-currency strategies.
-
-pionline.com • 21h ago
-
----
-
-**[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
-
----
-
 **[Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum)**
 
 USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
@@ -230,9 +214,35 @@ The Block • 2d ago
 
 ---
 
+**[Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million](https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/)**
+
+Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
+
+CryptoSlate • 23h ago
+
+---
+
+**[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
+
+BlackRock clients bought over $20 million in ETH; staking beats records.
+
+AMBCrypto • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Next 48 HOURS! Bitcoin, Ethereum &amp; Altcoins Are At The Pivot Point](https://www.youtube.com/watch?v=Rm232gzWgEk)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin, ...
+
+📺 Crypto Capital Venture
+
+👁️ 3K • 👍 299 • 💬 156 • ⏱️ 11:29 • 3h ago
+
+---
 
 **[Ethereum&#39;s Comeback Will SHOCK Bitcoin](https://www.youtube.com/watch?v=5K8_5lpeUY0)**
 
@@ -240,7 +250,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 898 • 💬 70 • ⏱️ 19:50 • 1d ago
+👁️ 22K • 👍 937 • 💬 73 • ⏱️ 19:50 • 1d ago
 
 ---
 
@@ -250,17 +260,7 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 340 • 💬 14 • ⏱️ 34:32 • 7h ago
-
----
-
-**[Live Trading | Gold and Crypto Trading Live | BTC ETH and XAU Live Trading](https://www.youtube.com/watch?v=ncAgUf5Sg-Q)**
-
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
-
-📺 Invest For Wealth
-
-👁️ 936 • 👍 413 • 2h ago
+👁️ 5K • 👍 390 • 💬 20 • ⏱️ 34:32 • 9h ago
 
 ---
 
@@ -270,7 +270,17 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 553 • 💬 531 • ⏱️ 13:14 • 1d ago
+👁️ 11K • 👍 553 • 💬 573 • ⏱️ 13:14 • 1d ago
+
+---
+
+**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
+
+Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
+
+📺 Lark Davis
+
+👁️ 5K • 👍 142 • 💬 7 • ⏱️ 0:57 • 2d ago
 
 ---
 
@@ -280,7 +290,7 @@ Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorse
 
 📺 YaBoySkey
 
-👁️ 524 • 👍 21 • 💬 6 • ⏱️ 2:58 • 19h ago
+👁️ 535 • 👍 21 • 💬 6 • ⏱️ 2:58 • 21h ago
 
 ---
 
@@ -294,43 +304,33 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 ---
 
-**[ETH Outperforms BTC: Is This The REAL Bull Run? #shorts](https://www.youtube.com/watch?v=Wy2KeMU93iw)**
-
-Ethereum hits a 3-month high against Bitcoin. Is this a true reversal or just a temporary relief rally in a bear market? The latest ...
-
-📺 MONEY GAME
-
-👁️ 52 • 👍 2 • 💬 15 • ⏱️ 1:01 • 5h ago
-
----
-
-**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
-
-Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 140 • 💬 7 • ⏱️ 0:57 • 2d ago
-
----
-
-**[Ethereum (ETH) - Análise de hoje, 31/07/2026.](https://www.youtube.com/watch?v=GimpPgxOlag)**
-
-ASSINE GEMAS Altcoins - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io ⚠️ AVISO IMPORTANTE ...
-
-📺 Trade with Renato Ulianov
-
-👁️ 182 • 👍 36 • 💬 1 • ⏱️ 3:09 • 3h ago
-
----
-
 **[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
 
 A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
 
 📺 Giving Hearts
 
-👁️ 38K • 👍 106 • ⏱️ 0:06 • 2d ago
+👁️ 38K • 👍 108 • ⏱️ 0:06 • 2d ago
+
+---
+
+**[Im nächsten Ethereum-Run sind 1.000% locker möglich!](https://www.youtube.com/watch?v=DSijbQ4pzoc)**
+
+In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situation von Ethereum und erläutern, warum wir den ...
+
+📺 HKCM
+
+👁️ 48K • 👍 3K • 💬 140 • ⏱️ 19:00 • 1d ago
+
+---
+
+**[Ethereum Is Being Taken Over. 2 Million ETH Are Locked Up, Yet the Price Isn&#39;t Rising](https://www.youtube.com/watch?v=5D_jFKsfszY)**
+
+Comfortable crypto trading with Bybit: https://partner.bybit.com/b/youtbtu ============= All about crypto here: ...
+
+📺 TU Crypto News
+
+👁️ 134 • 💬 1 • ⏱️ 0:24 • 4h ago
 
 ---
 
