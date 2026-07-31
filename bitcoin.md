@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-30T23:08:06.663746+00:00'
+updated: '2026-07-31T01:04:48.315008+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 23:08 UTC  
+**Last Updated:** July 31, 2026 at 01:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,34 +44,34 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +1.2%  
-**30d:** +8.1%  
-**90d:** -17.5%  
-**1y:** -43.9%  
+**24h:** +1.2%  
+**7d:** +0.9%  
+**30d:** +5.5%  
+**90d:** -17.3%  
+**1y:** -42.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1298.50B
+**Market Cap:** $1299.02B
 Rank #1
 
-**Circulating Supply:** 20,063,421 BTC
+**Circulating Supply:** 20,063,506 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--48.7%
+-48.6%
 
 **All-Time Low:** $67.81
-+95343.1%
++95380.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 28
-**FEAR**
+### 25
+**EXTREME FEAR**
 
 ---
 
@@ -165,7 +165,7 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -173,21 +173,23 @@ CoinDesk • 2h ago
 
 Bitcoin firmed toward $65,000 on Thursday as softer economic data eased September Fed hike fears, with spot volume near multi-year lows.
 
-The Block • 7h ago
+theblock.co • 9h ago
 
 ---
 
-**[Analyst compares SpaceX, Palantir to Bitcoin](https://sg.finance.yahoo.com/news/analyst-compares-spacex-palantir-bitcoin-220000073.html)**
+**[Bitcoin Pullback Pushes Strategy to $8.22B Q2 Loss](https://finance.yahoo.com/markets/crypto/articles/bitcoin-pullback-pushes-strategy-8-003900096.html)**
 
-Though Palantir Technologies Inc. (Nasdaq: PLTR), Space Exploration Technologies or SpaceX (Nasdaq: SPCX), and Bitcoin (BTC) are entirely different assets, they are all different kinds of stake on the same geopolitical shift, 10x Research said on May 19. Founded by Peter Thiel, Stephen Cohen, Joe ...
+Strategy Inc. (NASDAQ: $MSTR) reported an $8.22 billion second-quarter net loss as Bitcoin’s retreat pushed a...
 
-Yahoo Finance Singapore • 1h ago
+Yahoo Finance • 25m ago
 
 ---
 
-**[Strategy Announces Second Quarter Financial Results; Currently Holds 843,775 Bitcoin; Now the Largest Institutional Holder Globally](https://www.businesswire.com/news/home/20260730035038/en/Strategy-Announces-Second-Quarter-Financial-Results-Currently-Holds-843775-Bitcoin-Now-the-Largest-Institutional-Holder-Globally)**
+**[Strategy Announces Second Quarter 2026 Financial Results](https://www.strategy.com/press/strategy-announces-second-quarter-2026-financial-results_07-30-2026)**
 
-Business Wire • 3h ago
+July 30, 2026
+
+Strategy • 4h ago
 
 ---
 
@@ -195,19 +197,13 @@ Business Wire • 3h ago
 
 As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
 
-CFO.com • 9h ago
+CFO.com • 11h ago
 
 ---
 
 **[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
 
-Bloomberg • 10h ago
-
----
-
-**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
-
-WSJ • 2h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -215,7 +211,7 @@ WSJ • 2h ago
 
 Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -232,6 +228,12 @@ Morningstar • 2d ago
 Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
 
 CNBC • 3d ago
+
+---
+
+**[Bitcoin slightly up near $65k amid rates, Iran jitters; Strategy earnings on tap](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491)**
+
+Investing.com • 18h ago
 
 ---
 
@@ -267,7 +269,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took three. Taproot locked in 41 days, then decayed for years. Measured from our own node, genesis to tip.
 
-⬆️ 2 • 💬 0 • 17h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
+⬆️ 2 • 💬 0 • 19h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
 
 ---
 
@@ -321,23 +323,13 @@ The open standard for proving any file is real, unaltered and sealed - letsseal/
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Bitcoin ignored the Fed](https://www.youtube.com/watch?v=LT1kSj6oNsQ)**
+**[Bitcoin: The End of July](https://www.youtube.com/watch?v=7vNA0geUryY)**
 
-Bitcoin barely moved after one of the biggest macro events of the year. In this episode of The Daily Wolf, Scott Melker explains ...
+Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse ...
 
-📺 Yahoo Finance
+📺 Benjamin Cowen
 
-👁️ 4K • 👍 257 • 💬 110 • ⏱️ 14:53 • 6h ago
-
----
-
-**[NFA LIVE. Inflation Numbers Are OUT! Bitcoin Responds.](https://www.youtube.com/watch?v=HyJWQDozJlw)**
-
-Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usually does. Here's where we stand on rate hikes/cuts.
-
-📺 Digital Asset News
-
-👁️ 3K • 👍 270 • 💬 16 • ⏱️ 31:34 • 9h ago
+👁️ 21K • 👍 2K • 💬 73 • ⏱️ 7:41 • 4h ago
 
 ---
 
@@ -347,7 +339,17 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 105 • ⏱️ 10:40 • 1d ago
+👁️ 39K • 👍 2K • 💬 116 • ⏱️ 10:40 • 1d ago
+
+---
+
+**[&quot;20X Is COMING! The Fed&#39;s About to SHOCK the ENTIRE Bitcoin &amp; Crypto Market&quot; | Tom Lee](https://www.youtube.com/watch?v=jv_GB4f-g7M)**
+
+Real-world asset tokenization is one of the most underexplored narratives in crypto right now. Blockmaze is a regulated RWA ...
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 92 • 💬 5 • ⏱️ 15:53 • 7h ago
 
 ---
 
@@ -357,7 +359,7 @@ The government promised you clarity on Bitcoin. What you actually got: developer
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 393 • ⏱️ 22:39 • 23h ago
+👁️ 22K • 👍 2K • 💬 463 • ⏱️ 22:39 • 1d ago
 
 ---
 
@@ -367,27 +369,17 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 609 • 💬 170 • ⏱️ 10:51 • 1d ago
+👁️ 10K • 👍 613 • 💬 169 • ⏱️ 10:51 • 1d ago
 
 ---
 
-**[WARNING: This Bitcoin Chart Shows A New Downside Target](https://www.youtube.com/watch?v=u8sCmZRtj50)**
+**[NFA LIVE. Inflation Numbers Are OUT! Bitcoin Responds.](https://www.youtube.com/watch?v=HyJWQDozJlw)**
 
-You won't believe what this bitcoin chart says about its downside target, that could potentially be reached in the next few years.
+Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usually does. Here's where we stand on rate hikes/cuts.
 
-📺 Alessio Rastani
+📺 Digital Asset News
 
-👁️ 34K • 👍 2K • 💬 831 • ⏱️ 18:15 • 2d ago
-
----
-
-**[Bitcoin: This Is What The Bitcoin Bottom Will Look Like](https://www.youtube.com/watch?v=FLhLwviNpZA)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Favorite Place To ...
-
-📺 Aaron Bennett
-
-👁️ 4K • 👍 337 • 💬 182 • ⏱️ 10:54 • 16h ago
+👁️ 4K • 👍 304 • 💬 17 • ⏱️ 31:34 • 11h ago
 
 ---
 
@@ -397,27 +389,37 @@ What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains wh
 
 📺 Cointelegraph
 
-👁️ 516 • 👍 15 • 💬 60 • ⏱️ 1:03 • 7h ago
+👁️ 1K • 👍 21 • 💬 61 • ⏱️ 1:03 • 9h ago
 
 ---
 
-**[Lost Rs 4 Crore Bitcoin, AI Found it 11 Years | Roshni Chellani](https://www.youtube.com/watch?v=_QBLN-rzSR0)**
+**[What Was Bitcoin Actually Built For](https://www.youtube.com/watch?v=bIEJmxo6ZZk)**
 
-He lost ₹4 crore in Bitcoin... and AI found it 11 years later   This sounds like a movie, but it's a real story. After spending years ...
+The more people try to make Bitcoin something it isn't The easier it becomes to forget what it was built for Open, borderless, ...
 
-📺 Roshni Chellani
+📺 The Bitcoin Way
 
-👁️ 21K • 👍 567 • 💬 12 • ⏱️ 1:39 • 1d ago
+👁️ 867 • 👍 4 • ⏱️ 0:32 • 5h ago
 
 ---
 
-**[Why EVERYONE wants Bitcoin now](https://www.youtube.com/watch?v=NPJcLya_3ek)**
+**[WARNING: This Bitcoin Chart Shows A New Downside Target](https://www.youtube.com/watch?v=u8sCmZRtj50)**
 
-Bitcoin is different things to different people. To Iran it's neutral money outside US control. To Morgan Stanley it's a product to sell ...
+You won't believe what this bitcoin chart says about its downside target, that could potentially be reached in the next few years.
 
-📺 Anthony Pompliano
+📺 Alessio Rastani
 
-👁️ 839 • 👍 19 • ⏱️ 0:27 • 6h ago
+👁️ 35K • 👍 2K • 💬 835 • ⏱️ 18:15 • 2d ago
+
+---
+
+**[Bitcoin: This Is What The Bitcoin Bottom Will Look Like](https://www.youtube.com/watch?v=FLhLwviNpZA)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Favorite Place To ...
+
+📺 Aaron Bennett
+
+👁️ 5K • 👍 342 • 💬 193 • ⏱️ 10:54 • 18h ago
 
 ---
 

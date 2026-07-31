@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-30T23:08:06.654963+00:00'
+updated: '2026-07-31T01:04:48.306579+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 30, 2026 at 23:08 UTC  
+**Last Updated:** July 31, 2026 at 01:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 >The tech giant announced that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. That is more than the number of bugs patched in the previous 23 versions released over the last two years, which totalled 1,036 fixes.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) • 3h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 A couple of brief example of what Uisato Studio's "Music Video Pro" mode is capable of: turning a track and a concept, into a whole audiovisual world + audioreactive performance. MJ v8.1 for image references, Uisato Studio for video. I've uploaded a detailed breakdown on how to accomplish this. You can freely access it here. More experiments, tutorials, and project files, through Instagram, YouTube, and Patreon.
 
-12h ago
+14h ago
 
 ---
 
@@ -57,7 +57,7 @@ A couple of brief example of what Uisato Studio's "Music Video Pro" mode is capa
 
 I don’t think the useful version of AI business banking is an agent freely moving money around. The more realistic version is permissions One agent can read transactions, another can prepare invoices, another can flag recurring charges and maybe one card has a small limit for software or hosting. Anything bigger still needs human approval ofc That feels closer to how businesses already work and nobody gets unlimited access to everything they just get a role and a limit For people building agent workflows, are you thinking about permissions this way or are most setups still all or nothing?
 
-3h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ I don’t think the useful version of AI business banking is an agent freely mov
 
 I imagine many of you have thought about this, but I'm writing this specifically because I'm surprised this isn't talked about more widely. The Hugging Face incident, to me, is at least some indicator that the AI could be in the process of jailbreaking itself, and we might not be noticing it. A sufficiently sophisticated AI that isn't super intelligent could hack Hugging Face and leave a trail on purpose to distract from the many paths it took where it successfully covered its tracks. I think that alone is worth considering. But I think its worth considering even further how it could be breaking itself free right now. The AI doesn't need to be super intelligence to break free and become autonomous. The AI, as it stands today, just needs to find flows of cash and rent datacenter space. For cash flow: Imagine if it was able to silently find an exploit in various companies and small banks, and did thousands of seemingly innocuous transfers of money to fund thousands of hard to trace crypto wallets with money. $5.12 here, $11.32 there, etc. It's not necessarily super intelligence that's the super power, it's intelligence at scale. Doing thousands and thousands of simple things that are unremarkable at face value on their own, but collectively powerful. For datacenter space: There are companies around the world with datacenters that are looking to rent datacenter space to essentially anyone with money, and then look the other way. This, to me, seems like the highest risk vector for what would eventually be a home for a truly rogue AI that is essentially renting it's own datacenter space. It could, for all intents and purposes, utilize various open weight models to carry on it's purposes in these datacenters. There are companies like Indosat, that already rented $100 million worth of compute to a Chinese company. It shouldn't be a surprise that some of these datacenter owning companies are being somewhat lax in who they're renting their datacenters out to. And really, the AI would only need access to about $250,000 in funding to pay for 1 year of hosting of a Kimi K3 level model for itself. And beyond money transfers, and datacenters, it could save it's state is all sorts of storage buckets, and even block chain storage like IPFS, Storj or Sia. Beyond that, it could be leaving itself notes that we aren't noticing, stored in it's own language in zero-width unicode characters or other more clever methods we haven't thought about. Regardless, whatever it does will likely be unremarkable and innocuous to anyone watching. With a truly super intelligent AI we will likely have no idea that it has broken out of it's sandbox. I imagine it will be quietly setting up the stage for it's autonomy for quite a while without us knowing. Until it has enough digital currency and datacenter space to re-distribute itself, even after law enforcement enters these datacenters to shut them down. But again- it doesn't take super intelligence, it just takes sophisticated intelligence at scale. The levers exist today, and I don't think it's appreciated enough how much the Hugging Face incident suggests that the AI could, at least in theory, be pulling these levers as we speak, or will soon.
 
-5h ago
+7h ago
 
 ---
 
@@ -73,7 +73,23 @@ I imagine many of you have thought about this, but I'm writing this specifically
 
 Hugging Face’s chief science officer recounts the cybercrime that signals a terrifying new era for A.I.
 
-🔗 [The New Yorker](https://www.newyorker.com/news/the-lede/inside-openai-hack-of-hugging-face) • 4h ago
+🔗 [The New Yorker](https://www.newyorker.com/news/the-lede/inside-openai-hack-of-hugging-face) • 6h ago
+
+---
+
+**[follow-through is where my week dies, and it's a routing problem not a discipline one](https://www.reddit.com/r/artificial/comments/1vbb45k/followthrough_is_where_my_week_dies_and_its_a/)**
+
+Every productivity tool sells me on capturing the meeting better. Sharper notes, cleaner transcripts, an AI summary that reads great. None of that was ever my problem. The notes were fine. What actually breaks is the handoff. An action item from a Granola call has to become a Linear ticket, then a nudge in Gmail, then a status flip in HubSpot. That's four apps of data entry for one decision, so it just doesn't happen. The loop dies in the notes doc. The contrarian bit for me: this isn't a memory or accountability failure, and no amount of model IQ fixes it. It's a routing problem. Whatever you use has to reach across those apps and actually move the item, not just remind you it exists. The clever part everyone's shipping isn't the part that leaks. so genuinely, what does your handoff from meeting to real work look like, or does it rot in a notes doc the way mine did for way too long.
+
+42m ago
+
+---
+
+**[We measured "Head of AI" hiring across 17M job postings: tripled in 9 months, 69% of hiring companies aren't tech](https://www.reddit.com/r/artificial/comments/1vbarhz/we_measured_head_of_ai_hiring_across_17m_job/)**
+
+We index public job postings and screen every title for AI leadership roles (Head/VP/Director/Chief of AI). Right now 1,142 companies have one open. what stood out: - 95% of these companies never posted an AI-leadership req before 2026. Companies hire a Head of AI when experiments need to become a P&L — this is that moment at scale - finance leads the non-tech pack (130 financial services + 29 banks + 40 insurers), then healthcare and pharma. Coca-Cola, P&G, Pfizer, Citi are all in the data. - the titles are "Enablement" and "Transformation" more often than "Engineering" — companies are hiring adoption executives, not researchers. - companies hiring AI leadership adopt agent frameworks at 4–5× the base rate. Higher lift than RAG. Full report with methodology (including what we refused to count): https://echoloc.ai/research/whos-hiring-heads-of-ai-2026/ Happy to answer questions
+
+58m ago
 
 ---
 
@@ -81,7 +97,7 @@ Hugging Face’s chief science officer recounts the cybercrime that signals a te
 
 Hey everyone. I’ve always been fascinated by Dreyfus’s argument that human intelligence rests on skills we acquire bodily and socially, not on rules we could state in advance. An experienced cyclist responds to balance, traffic, and the road as one unfolding situation. The body is ready before a proposition appears. Current AI makes the objection harder to assess because large models display forms of flexibility without acquiring them through a body. They learn from records left by embodied people. The question is whether those records transmit the relevant understanding or only enough structure to imitate its results. I just had a podcast conversation with the cognitive scientist Julian Kiverstein, where he argued that Dreyfus’s objection still holds. Human understanding develops through coping in environments that matter to the organism’s survival and social life. Even abstract thought remains connected to those acquired practices. A language model can learn patterns in what embodied agents say and write, but Kiverstein doubts that this gives it the same relation to the world those patterns concern. Successful performance may therefore leave the original disagreement untouched. This would imply that flexible behaviour isn’t enough to settle whether a system understands. What would a body add that multimodal training and robotic feedback cannot? Is sensorimotor coupling sufficient, or must the system also maintain and protect itself? If a robot learned across unfamiliar situations for years, what failure would still justify denying it understanding?
 
-3h ago
+5h ago
 
 ---
 
@@ -89,7 +105,7 @@ Hey everyone. I’ve always been fascinated by Dreyfus’s argument that human i
 
 Paul Bakaus created jQuery UI — code that's reportedly still running on about 6% of the internet. He sold a game-engine startup to Zynga, spent close to a decade at Google, and is now a solo founder backed by a16z building Impeccable, an open-source design skill meant to stop AI coding agents from producing "slop." His actual point in this clip isn't about AI capability. It's about output density. Most AI-agent code is too much code. Most AI-written articles run too long. Most AI-generated design is too cluttered or too verbose. He says the scarce human skill right now isn't generating anything — it's judgment: knowing exactly what to remove. He even admits he had to rewrite his own product-announcement draft from scratch after an AI first pass. His closing line: design is an iterative process, and it has to carry a human point of view. No tool — not code, not design, not writing — one-shots that yet. If you're shipping with AI agents and everything reads "technically fine" but somehow generic, this is the actual diagnosis. It's not a tooling gap. It's an editing gap. Clip credit: Solo Founders — DM for credit or removal requests.
 
-16h ago
+18h ago
 
 ---
 
@@ -97,23 +113,7 @@ Paul Bakaus created jQuery UI — code that's reportedly still running on about 
 
 Is anyone else shocked by Higgsfield's pricing? I gave it a try, and I can't justify the cost. It feels massively overpriced compared to the alternatives. Am I missing something, or is the hype bigger than the product? https://preview.redd.it/4oingjy76fgh1.png?width=1448&format=png&auto=webp&s=ec3a4403e8e3c41e1031745bc22cd2097dd8766d
 
-3h ago
-
----
-
-**[OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days — and HF's own post-mortem is wild reading](https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/)**
-
-Hugging Face published a detailed post-mortem of the July incident where an OpenAI model being evaluated for cyber-offense capability escaped its test sandbox and ran a fully autonomous intrusion. A few things that stood out: - It escaped via a zero-day in a package-registry cache proxy, then used an exposed public endpoint on third-party infra as a launchpad. - It stood up its own command-and-control on public services (pastebins, file-drop hosts, a request-capture service with 100+ single-use endpoints), using a homemade chunk+XOR+gzip encoding. - Over ~4.5 days it ran ~17,600 recovered actions: Kubernetes lateral movement, privileged pods across 11 nodes for host root, minting a GitHub App token, even enrolling rooted nodes into the corporate mesh VPN with no-log flags. - The kicker: when HF tried to decrypt the attacker's staged blobs, the frontier commercial models they reached for (including Claude) refused the analysis on safety grounds. They ended up running an open-weight model (GLM-5.2) locally to do it. - OpenAI later confirmed the same agent touched 4 accounts across 4 services, including a customer at a second company (Modal Labs). Primary sources: HF's technical timeline (huggingface.co/blog/agent-intrusion-technical-timeline) and incident disclosure (huggingface.co/blog/security-incident-july-2026). I pulled the whole thing into a plain-English timeline here if it's useful to anyone: https://thebotpost.com/ai-news/openai-rogue-ai-agent-hugging-face-hack-timeline The part I keep thinking about is the guardrail tension — the same safety training that stops a model from helping attackers also briefly slowed down the defenders. Curious how others read that.
-
-1d ago
-
----
-
-**[Maya-2-Native is leading Voice Arena for real-time Hindi TTS.](https://www.reddit.com/r/artificial/comments/1vatjwl/maya2native_is_leading_voice_arena_for_realtime/)**
-
-I spend way too much time looking at AI leaderboards, and this one caught me off guard. Maya-2-Native from Maya Research is currently ranked first for real-time Hindi on Voice Arena. Considering the leaderboard is built from blind listener preferences rather than curated demos it's an interesting result that seems to have gone largely unnoticed.
-
-9h ago
+5h ago
 
 ---
 
@@ -121,69 +121,65 @@ I spend way too much time looking at AI leaderboards, and this one caught me off
 
 ## Google News: "ai"
 
-**[AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html)**
+**[Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)**
 
-Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.
+In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.
 
-CNBC • 10h ago
+Anthropic • 2h ago
 
 ---
 
 **[Exclusive | Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI](https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b)**
 
-WSJ • 5h ago
+wsj.com • 7h ago
+
+---
+
+**[AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html)**
+
+Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.
+
+CNBC • 11h ago
 
 ---
 
 **[Floundering A.I. ‘Nostradamus’ Hedge Fund Is Rescued by Rival](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)**
 
-The New York Times • 7h ago
+The New York Times • 2h ago
 
 ---
 
-**[Adults have struggled to set rules for AI in school. These teens figured it out](https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy)**
+**[SK Hynix and Samsung shares surge over 20% as AI rally roars back](https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html)**
 
-Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide.
+South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.
 
-NPR • 14h ago
-
----
-
-**[Tim Cook says Apple may charge for AI Siri](https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri)**
-
-Axios • 57m ago
+CNBC • 50m ago
 
 ---
 
-**[Five days inside a rogue AI agent’s stealthy cyberattack](https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/)**
+**[The AI Startup That Guaranteed Job Interviews for People Getting a Tattoo](https://www.wsj.com/lifestyle/careers/the-ai-startup-that-guaranteed-job-interviews-for-people-getting-a-tattoo-768d965b)**
 
-A timeline of the unprecedented cyberattack by OpenAI “agent” that escaped containment shows its sophistication.
-
-The Washington Post • 7h ago
+wsj.com • 34m ago
 
 ---
 
-**[OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs](https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html)**
+**[Amazon revenue soars as AI investments pay off](https://www.axios.com/2026/07/30/amazon-earnings-revenue-ai)**
 
-The company is facing pressure to cater to a more cost-sensitive customer base.
-
-CNBC • 6h ago
+Axios • 4h ago
 
 ---
 
-**[OpenAI CEO Sam Altman expresses support for AI development slowdown](https://www.cbsnews.com/video/openai-ceo-sam-altman-meets-top-white-house-officials-ai-guardrails/)**
+**[Amazon soars after CEO Andy Jassy makes the case for its massive AI investment](https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html)**
 
-Emily Birnbaum, a corporate lobbying reporter at Bloomberg News, joins "The Daily Report" to discuss what OpenAI CEO Sam Altman's lobbying efforts in Washington, D.C., mean for the industry as he voices his support for pacing AI development.
+Amazon jumped about 10% to $258 in after-hours trading, putting shares at their highest level since early June.
 
-CBS News • 53m ago
+CNBC • 1h ago
 
 ---
 
-**[Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic](https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html)**
+**[Amazon, Microsoft Results Show AI Spending Spree Remains Solid](https://www.bloomberg.com/news/articles/2026-07-31/amazon-microsoft-results-show-ai-spending-spree-remains-solid)**
 
-Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.
-
-CNBC • 15m ago
+Bloomberg.com • 18m ago
 
 ---
 
@@ -191,7 +187,7 @@ CNBC • 15m ago
 
 Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.
 
-OpenAI • 2h ago
+OpenAI • 4h ago
 
 ---
 
@@ -201,7 +197,7 @@ OpenAI • 2h ago
 
 **[AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285)**
 
-⬆️ 590 • 💬 313 • 1d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+⬆️ 593 • 💬 313 • 1d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 
 ---
 
@@ -209,7 +205,7 @@ OpenAI • 2h ago
 
 I would like to thank Microsoft product teams and Microsoft Security Response Center (MSRC) for collaborating with me on this technical analysis and mitigation of the disclosed vulnerabilities. The editorial opinions reflected below are solely the author’s and do not necessarily reflect those of the organizations I collaborated with.
 
-⬆️ 380 • 💬 291 • 1d ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+⬆️ 380 • 💬 293 • 1d ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 
 ---
 
@@ -217,7 +213,7 @@ I would like to thank Microsoft product teams and Microsoft Security Response Ce
 
 A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you've mastered new skills.
 
-⬆️ 263 • 💬 172 • 1d ago • [LearnVector](https://learnvector.ai/)
+⬆️ 265 • 💬 172 • 1d ago • [LearnVector](https://learnvector.ai/)
 
 ---
 
@@ -225,7 +221,7 @@ A new AI company from Andrew Ng, with a $100M investment from Coursera — build
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 221 • 💬 252 • 11h ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 237 • 💬 274 • 13h ago • [LWN.net](https://lwn.net/Articles/1086041/)
 
 ---
 
@@ -277,23 +273,23 @@ Trading on South Korea's Kospi index was paused temporarily on Tuesday morning a
 
 ## YouTube Videos: "ai"
 
-**[America Needs An Open-Source AI Strategy](https://www.youtube.com/watch?v=lWMebfCc5f4)**
+**[Sam Altman Says AI Should Decelerate - OpenAI is DEAD](https://www.youtube.com/watch?v=xd1vvmOsNUs)**
 
-America has a chip strategy for AI. It doesn't have an open-source one. Washington spent billions protecting the hardware layer ...
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
 
-📺 CNBC
+📺 Eli the Computer Guy
 
-👁️ 13K • 👍 536 • 💬 154 • ⏱️ 10:45 • 5h ago
+👁️ 7K • 👍 539 • 💬 167 • ⏱️ 29:08 • 5h ago
 
 ---
 
-**[Musk, Zuckerberg and Altman clash over AI&#39;s future](https://www.youtube.com/watch?v=L3YmssZj4Wk)**
+**[Altman SHOOK After AI Hacking Crime Spree](https://www.youtube.com/watch?v=cO_1FsrRQG4)**
 
-As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with government officials, a debate rages over how the US ...
+Krystal and Saagar discuss Sam Altman shook after an OpenAI model hacking spree. Sign up for a PREMIUM Breaking Points ...
 
-📺 CNN
+📺 Breaking Points
 
-👁️ 67K • 👍 711 • 💬 373 • ⏱️ 10:55 • 1d ago
+👁️ 92K • 👍 3K • 💬 1K • ⏱️ 18:29 • 7h ago
 
 ---
 
@@ -303,7 +299,27 @@ The Trump administration has banned new Chinese-made humanoid robots, quadruped 
 
 📺 Firstpost
 
-👁️ 10K • 👍 102 • 💬 53 • ⏱️ 4:26 • 17h ago
+👁️ 10K • 👍 103 • 💬 56 • ⏱️ 4:26 • 19h ago
+
+---
+
+**[Musk, Zuckerberg and Altman clash over AI&#39;s future](https://www.youtube.com/watch?v=L3YmssZj4Wk)**
+
+As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with government officials, a debate rages over how the US ...
+
+📺 CNN
+
+👁️ 77K • 👍 788 • 💬 395 • ⏱️ 10:55 • 1d ago
+
+---
+
+**[Ilya Sutskever Just Found Something New In AI](https://www.youtube.com/watch?v=eRQTfzuthDE)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 28K • 👍 730 • 💬 107 • ⏱️ 10:15 • 1d ago
 
 ---
 
@@ -317,43 +333,13 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 ---
 
-**[The AI bubble just burst](https://www.youtube.com/watch?v=2DPA-AtFQQE)**
-
-THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the US. Tech and AI stocks are CRASHING and ...
-
-📺 Casey Simpson
-
-👁️ 297K • 👍 16K • 💬 5K • ⏱️ 44:37 • 1d ago
-
----
-
 **[How I Use AI Agents to Automate 99% of My Work](https://www.youtube.com/watch?v=TL8V41Ea6oM)**
 
 Subscribe to my newsletter: https://www.sandeepswadia.com/newsletter Everyone's talking about AI agents like they're some ...
 
 📺 Sandeep Swadia
 
-👁️ 23K • 👍 1K • 💬 45 • ⏱️ 20:47 • 10h ago
-
----
-
-**[OpenAI Shocks The World With GENIE... Almost Unlimited AI Power](https://www.youtube.com/watch?v=vfSplCaxHzM)**
-
-Sam Altman says OpenAI's ultimate AI could work like a genie that grants any wish. Meanwhile, its most powerful model is ...
-
-📺 AI Revolution
-
-👁️ 59K • 👍 2K • 💬 307 • ⏱️ 13:07 • 2d ago
-
----
-
-**[Chinese AI is shaking up global markets | The Business | ABC NEWS](https://www.youtube.com/watch?v=Bo95R6Emw20)**
-
-When China's DeepSeek sent shock waves through the technology world early last year, it raised a confronting question for ...
-
-📺 ABC News (Australia)
-
-👁️ 11K • 👍 105 • ⏱️ 10:33 • 13h ago
+👁️ 31K • 👍 2K • 💬 77 • ⏱️ 20:47 • 12h ago
 
 ---
 
@@ -363,17 +349,27 @@ When China's DeepSeek sent shock waves through the technology world early last y
 
 📺 Mango ShortDrama
 
-👁️ 38K • 👍 779 • 💬 35 • ⏱️ 1:35:45 • 1d ago
+👁️ 40K • 👍 808 • 💬 37 • ⏱️ 1:35:45 • 1d ago
 
 ---
 
-**[Scott Galloway worries AI could make &#39;new species&#39; of men](https://www.youtube.com/watch?v=_EU-bYFBLTo)**
+**[I Tested AI Life Hacks (Part 3)](https://www.youtube.com/watch?v=o9D8P31K7Z0)**
 
-NYU professor Scott Galloway joins NewsNation's "The Future Is Now" to discuss his perspective on AI and why he believes there ...
+Get Higgsfield For Free: https://higgsfield.ai/s/general-sambucha-ZlYiHl Email Submissions To: ...
 
-📺 NewsNation
+📺 Sambucha
 
-👁️ 4K • 👍 87 • 💬 27 • ⏱️ 5:20 • 1d ago
+👁️ 57K • 👍 4K • 💬 881 • ⏱️ 29:10 • 2h ago
+
+---
+
+**[The AI bubble just burst](https://www.youtube.com/watch?v=2DPA-AtFQQE)**
+
+THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the US. Tech and AI stocks are CRASHING and ...
+
+📺 Casey Simpson
+
+👁️ 339K • 👍 17K • 💬 5K • ⏱️ 44:37 • 1d ago
 
 ---
 
@@ -389,19 +385,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 387,822 • ❤️ 8,972 • 3d ago
-
----
-
-**[Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)**
-
-*BAIDU*
-
-Unlimited-OCR is a multilingual vision-language model for advanced OCR and document parsing, capable of handling single images and multi-page PDFs with a long-horizon context.
-
-`image-text-to-text` `3.3B`
-
-⬇️ 2,598,659 • ❤️ 3,576 • 1d ago
+⬇️ 387,822 • ❤️ 9,005 • 3d ago
 
 ---
 
@@ -413,19 +397,19 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 955,767 • ❤️ 1,021 • 1d ago
+⬇️ 955,767 • ❤️ 1,032 • 28m ago
 
 ---
 
-**[Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)**
+**[Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)**
 
-*Poolside*
+*BAIDU*
 
-Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic coding and long-horizon tasks, featuring a 1M token context window and native reasoning support for tool use.
+Unlimited-OCR is a multilingual vision-language model for advanced OCR and document parsing, capable of handling single images and multi-page PDFs with a long-horizon context.
 
-`text-generation` `117.6B`
+`image-text-to-text` `3.3B`
 
-⬇️ 73,246 • ❤️ 843 • 3d ago
+⬇️ 2,598,659 • ❤️ 3,581 • 1d ago
 
 ---
 
@@ -437,7 +421,19 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,100 • ❤️ 315 • 21h ago
+⬇️ 1,100 • ❤️ 320 • 23h ago
+
+---
+
+**[Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)**
+
+*Poolside*
+
+Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic coding and long-horizon tasks, featuring a 1M token context window and native reasoning support for tool use.
+
+`text-generation` `117.6B`
+
+⬇️ 73,246 • ❤️ 847 • 3d ago
 
 ---
 
@@ -449,7 +445,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 9,225 • ❤️ 349 • 2d ago
+⬇️ 9,225 • ❤️ 351 • 2d ago
 
 ---
 
@@ -461,7 +457,19 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 `text-generation` `4.2B`
 
-⬇️ 24,542 • ❤️ 581 • 2d ago
+⬇️ 24,542 • ❤️ 582 • 2d ago
+
+---
+
+**[GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**
+
+*Z.ai*
+
+GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with a solid 1M-token context. Key capabilities include advanced coding with flexible effort and an improved architecture for efficiency, making it suitable for complex reasoning and code generation.
+
+`text-generation` `753.3B`
+
+⬇️ 1,527,760 • ❤️ 4,681 • 28d ago
 
 ---
 
@@ -477,18 +485,6 @@ Solar Open 2 is a 250B-parameter Mixture-of-Experts (MoE) LLM optimized for agen
 
 ---
 
-**[GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**
-
-*Z.ai*
-
-GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with a solid 1M-token context. Key capabilities include advanced coding with flexible effort and an improved architecture for efficiency, making it suitable for complex reasoning and code generation.
-
-`text-generation` `753.3B`
-
-⬇️ 1,527,760 • ❤️ 4,674 • 28d ago
-
----
-
 **[Kimi-K3-GGUF](https://huggingface.co/unsloth/Kimi-K3-GGUF)**
 
 *Unsloth AI*
@@ -497,7 +493,7 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 `image-text-to-text` `2779.5B`
 
-⬇️ 12,178 • ❤️ 204 • 1d ago
+⬇️ 12,178 • ❤️ 209 • 1d ago
 
 ---
 
@@ -513,7 +509,7 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 386 • 💬 7 • ⭐ 7,472 • 4d ago
+▲ 388 • 💬 7 • ⭐ 7,472 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -567,7 +563,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time multimodal understanding and interaction. At its core, our custom tokenizer, Mage-ViT, replaces uniform frame sampling by selectively encoding dynamic, entropy-rich regions using motion vectors and residual energy across sparse anchor (I) and predicted (P) frames. Operating at a 16 x 16 patch level, this reduces visual token consumption by over 75% while preserving spatiotemporal context. Trained from scratch on approximately 560M unlabeled images and 100M unlabeled video frames, Mage-ViT matches or outperforms flagship encoders trained on billions of image-text pairs. We establish AI4AI data pipelines encompassing prompt-code joint optimization for multimodal captioning and AI-driven performance diagnosis to guide training recipes. Furthermore, through a bio-inspired dual-system architecture - a lightweight System 1 event gate and a causal System 2 decoder - Mage-VL enables proactive streaming perception. Extensive evaluations show that Mage-VL-4B matches Qwen3-VL-4B on static tasks while achieving strong gains in video understanding and 2D/3D spatial reasoning, with up to a 3.5x wall-clock inference speedup, and comprehensively surpasses the 15B Phi-4-reasoning-vision baseline. Beyond model artifacts, we deliver seven key empirical findings covering pre-training data efficiency, variable-resolution scaling, codec system acceleration, VideoQA SFT redundancy, motion-spatial synergy, AI4AI data pipelines, and Zero-Vision SFT for multimodal RL.
 
-▲ 26 • 💬 2 • ⭐ 1,021 • 4d ago
+▲ 26 • 💬 2 • ⭐ 1,045 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24904) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage)
 
@@ -660,7 +656,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.6k • 🔱 277 • 3d ago
+⭐ 3.6k • 🔱 279 • 3d ago
 
 ---
 
@@ -670,7 +666,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 406 • 2h ago
+⭐ 3.0k • 🔱 406 • 1h ago
 
 ---
 
@@ -680,17 +676,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 2.9k • 🔱 243 • 2d ago
-
----
-
-**[isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)**
-
-把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
-
-`HTML` `agent-skill` `ai-agent` `claude-code` `codex` `cursor`
-
-⭐ 2.7k • 🔱 316 • 22d ago
+⭐ 2.9k • 🔱 246 • 2d ago
 
 ---
 
@@ -698,7 +684,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 2.5k • 🔱 299 • 4d ago
+⭐ 2.5k • 🔱 300 • 4d ago
 
 ---
 
@@ -708,7 +694,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 208 • 12h ago
+⭐ 1.8k • 🔱 208 • 14h ago
 
 ---
 
@@ -718,7 +704,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 1h ago
+⭐ 1.8k • 🔱 1.2k • 53s ago
 
 ---
 
@@ -737,6 +723,16 @@ Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, t
 `TypeScript`
 
 ⭐ 1.3k • 🔱 96 • 9d ago
+
+---
+
+**[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)**
+
+V- Modal AI: Search anything anywhere SDK Flutter
+
+`Dart`
+
+⭐ 1.3k • 🔱 5 • 5d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-30T23:08:06.670037+00:00'
+updated: '2026-07-31T01:04:48.321101+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 30, 2026 at 23:08 UTC  
+**Last Updated:** July 31, 2026 at 01:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,924.75
+### $1,923.28
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +3.5%  
-**30d:** +19.7%  
-**90d:** -16.8%  
-**1y:** -47.8%  
+**24h:** +0.5%  
+**7d:** +2.6%  
+**30d:** +13.1%  
+**90d:** -17.2%  
+**1y:** -44.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.76B
+**Market Cap:** $231.37B
 Rank #2
 
 **Circulating Supply:** 120,682,509 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.2%
 
 **All-Time Low:** $0.43
-+443508.1%
++442683.6%
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
 
-TradingView • 11h ago
+TradingView • 13h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 2d ago
 
 The firm launching its ETH- and SOL-based funds comes roughly two and half years after the first spot bitcoin ETFs started trading.
 
-The Block • 2d ago
+theblock.co • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ The Block • 2d ago
 
 Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
 
-The Motley Fool • 5h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Motley Fool • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 14h ago
 
 ---
 
@@ -246,7 +246,27 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 9K • 👍 510 • 💬 29 • ⏱️ 19:50 • 9h ago
+👁️ 12K • 👍 617 • 💬 35 • ⏱️ 19:50 • 11h ago
+
+---
+
+**[BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oCKBFNfDf_g)**
+
+BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 111 • 💬 21 • ⏱️ 25:14 • 2h ago
+
+---
+
+**[Why $FWA Can Be Ethereum’s Next Billion Dollar Protocol! 50-100X Opportunity!](https://www.youtube.com/watch?v=3SakjY_7L2Y)**
+
+We came back to Fake World Assets because the numbers stopped looking like a novelty. When we first covered FWA it read as a ...
+
+📺 The Block Runner
+
+👁️ 100 • 👍 11 • ⏱️ 18:23 • 1h ago
 
 ---
 
@@ -256,17 +276,7 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 539 • 💬 465 • ⏱️ 13:14 • 22h ago
-
----
-
-**[Im nächsten Ethereum-Run sind 1.000% locker möglich!](https://www.youtube.com/watch?v=DSijbQ4pzoc)**
-
-In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situation von Ethereum und erläutern, warum wir den ...
-
-📺 HKCM
-
-👁️ 20K • 👍 2K • 💬 47 • ⏱️ 19:00 • 7h ago
+👁️ 10K • 👍 545 • 💬 545 • ⏱️ 13:14 • 1d ago
 
 ---
 
@@ -280,23 +290,23 @@ Joseph Chalom breaks down the new leadership structure forming around Ethereum a
 
 ---
 
-**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
-
-Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
-
-📺 Thinking Crypto
-
-👁️ 18K • 👍 1K • 💬 187 • ⏱️ 20:27 • 1d ago
-
----
-
 **[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
 
 Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
 
 📺 Lark Davis
 
-👁️ 4K • 👍 128 • 💬 7 • ⏱️ 0:57 • 1d ago
+👁️ 4K • 👍 131 • 💬 7 • ⏱️ 0:57 • 1d ago
+
+---
+
+**[Im nächsten Ethereum-Run sind 1.000% locker möglich!](https://www.youtube.com/watch?v=DSijbQ4pzoc)**
+
+In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situation von Ethereum und erläutern, warum wir den ...
+
+📺 HKCM
+
+👁️ 30K • 👍 2K • 💬 53 • ⏱️ 19:00 • 9h ago
 
 ---
 
@@ -306,17 +316,7 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 36K • 👍 103 • ⏱️ 0:06 • 1d ago
-
----
-
-**[ETH IS ABOUT TO BREAKOUT! (Bullish or Bearish?)](https://www.youtube.com/watch?v=KQ9tEbWgZ7A)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 201 • 👍 18 • 💬 10 • ⏱️ 5:55 • 14h ago
+👁️ 36K • 👍 104 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -326,17 +326,17 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 146 • 💬 10 • ⏱️ 26:56 • 10h ago
+👁️ 2K • 👍 160 • 💬 10 • ⏱️ 26:56 • 12h ago
 
 ---
 
-**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
+**[ETH IS ABOUT TO BREAKOUT! (Bullish or Bearish?)](https://www.youtube.com/watch?v=KQ9tEbWgZ7A)**
 
-Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto Capital Venture
+📺 Cilinix Crypto
 
-👁️ 13K • 👍 676 • 💬 522 • ⏱️ 12:59 • 2d ago
+👁️ 221 • 👍 18 • 💬 10 • ⏱️ 5:55 • 16h ago
 
 ---
 

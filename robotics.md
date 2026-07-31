@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-30T23:08:06.673367+00:00'
+updated: '2026-07-31T01:04:48.324295+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 30, 2026 at 23:08 UTC  
+**Last Updated:** July 31, 2026 at 01:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 California-based robotics startup Satyress is developing Threehalves, a 7-foot-tall teleoperated centaur robot designed for hazardous work.But if it’s designed for hazardous tasks, why does it look like something you could ride—something that seems more at home in an amusement park? Although its appearance is a bit creepy lol.
 
-10h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ California-based robotics startup Satyress is developing Threehalves, a 7-foot-t
 
 Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about $100), a BNO085 IMU, and hall encoders on the wheels. No RTK, no base station, no corrections Orange is pretty much every fix the receiver reported. Blue is the output seen after fusing those fixes with the IMU and wheel odometry in a UKF. Every fix was used, none were rejected in this entire run. What I can and cannot say about this is that, since this is a fair thing to ask: I don't have RTK ground truth for this run, so I can't claim the blue line is closer to the true path than the orange dots are. What I can say is that the filter's reported 1-sigma stayed around 2.5 m throughout, including while moving, and the fused output tracked the raw fixes to a median of 1.69 m. Both of those are self-reported numbers, not error against an independent reference. Other limitations worth stating: it's a single short run covering only about 20 m, there's no comparison against robot_localization on the same data yet, and heading comes from GPS track rather than a magnetometer, so it isn't meaningful for roughly the first minute of driving. The curve in the path is mechanical, the chassis pulls right about 3 deg/s. On the next run I'm closing the loop back to a physically marked start point so there's at least a real closure number, and replaying the same bag through robot_localization so it's a controlled comparison on identical input rather than one filter on its own. Also looking into borrowing an F9P for proper ground truth. Disclosure: I wrote the filter (FusionCore): https://github.com/manankharwar/fusioncore Happy to share the rosbag if anyone wants to run their own filter against it. Edit: rewrote this. Sorry if my english is bad...
 
-2h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about 
 
 Google DeepMind has announced Gemini Robotics 2, its latest robotics foundation models, in early access. The release adds full-body control for humanoid robots, multi-step task execution with the ability to recover from mistakes, natural language communication, multi-robot coordination, on-device deployment, and new safety features that can reject unsafe commands or request human assistance when needed. Google demonstrated the models on Apptronik’s Apollo 2 humanoid, along with dexterous robotic hands and dual-arm systems. The update moves beyond robots performing isolated tasks and toward systems that can complete longer sequences of work while interacting more naturally with people and other robots.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/google-deepmind-announces-gemini-robotics-2-new-safety-measures-for-humanoids) • 7h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/google-deepmind-announces-gemini-robotics-2-new-safety-measures-for-humanoids) • 9h ago
 
 ---
 
@@ -60,7 +60,7 @@ Google DeepMind has announced Gemini Robotics 2, its latest robotics foundation 
 
 Damage can fragment a modular robotic structure into disconnected pieces. We developed decentralized strategies that allow the surviving modules to consolidate, reorganize, and autonomously restore connectivity without a central controller. Across 1,000 simulated damage scenarios, the system retained at least 80% of surviving modules in its largest connected component even after 30% random failures, with near-perfect reconnection in fully connected cases. The broader goal is to develop machine analogues of homeostasis and morphogenesis: systems that can detect damage, adapt their physical organization, and preserve function. Technical article: https://www.manifoldrg.com/can-a-spacecraft-heal-itself/ Preprint: https://arxiv.org/abs/2607.13444 I’m one of the authors and would welcome feedback, particularly on the decentralized coordination strategy and the path toward hardware experiments.
 
-6h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ Damage can fragment a modular robotic structure into disconnected pieces. We dev
 
 I'm exploring Bowden cables as a way to transmit motion when the motor can't be placed near the moving part. This is just a quick setup to see how smoothly it works before designing a larger mechanism. Any suggestions or ideas are welcome.
 
-2h ago
+4h ago
 
 ---
 
@@ -76,25 +76,25 @@ I'm exploring Bowden cables as a way to transmit motion when the motor can't be 
 
 The new US restriction on foreign-made humanoids and quadrupeds is framed around security, but price and availability matter to research velocity. AP reports that Chinese manufacturers ship far more humanoids than US rivals and often at much lower prices. Labs learn by breaking hardware, replacing parts, and running many imperfect prototypes. If the affordable platforms disappear, better-funded companies may adapt while universities, startups, and independent builders reduce experiments or move them abroad. Would a certified research-only pathway preserve security without concentrating access? Or are connected embodied systems too difficult to contain once they enter a lab network? Source: https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366
 
-17h ago
+19h ago
 
 ---
 
 **[how to build accelerator kit for robotics using Isaac sim and isaac lab](https://www.reddit.com/r/robotics/comments/1vb3ukp/how_to_build_accelerator_kit_for_robotics_using/)**
 
-3h ago
+5h ago
 
 ---
 
 **[That’s how we train the robot to follow you by reinforcement learning.](https://www.reddit.com/r/robotics/comments/1vb03v3/thats_how_we_train_the_robot_to_follow_you_by/)**
 
-5h ago
+7h ago
 
 ---
 
 **[Could there be an open-source layout robot for surveyors?](https://www.reddit.com/r/robotics/comments/1vb5lv8/could_there_be_an_opensource_layout_robot_for/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -102,7 +102,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.
 
-🔗 [WIRED](https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/) • 8h ago
+🔗 [WIRED](https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/) • 10h ago
 
 ---
 
@@ -114,7 +114,7 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
-Google DeepMind • 8h ago
+Google DeepMind • 9h ago
 
 ---
 
@@ -122,7 +122,7 @@ Google DeepMind • 8h ago
 
 The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
 
-WIRED • 8h ago
+WIRED • 10h ago
 
 ---
 
@@ -130,7 +130,7 @@ WIRED • 8h ago
 
 Gemini Robotics 2 includes three models, but only one is publicly available right now.
 
-Ars Technica • 5h ago
+Ars Technica • 7h ago
 
 ---
 
@@ -152,7 +152,7 @@ Reuters • 2d ago
 
 Long a symbol of China’s economic surge, Shenzhen is embracing a high-tech, low-altitude future.
 
-NBC News • 6h ago
+NBC News • 8h ago
 
 ---
 
@@ -184,7 +184,7 @@ NVIDIA Developer • 2d ago
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco, where a person operates the robot from a central location with assistance from AI. Would you hire them?
 
-ABC7 Bay Area • 4h ago
+ABC7 Bay Area • 6h ago
 
 ---
 
@@ -198,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 28K • 👍 2K • 💬 178 • ⏱️ 3:00 • 8h ago
+👁️ 44K • 👍 2K • 💬 211 • ⏱️ 3:00 • 10h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 25K • 👍 202 • 💬 292 • ⏱️ 6:04 • 23h ago
+👁️ 31K • 👍 234 • 💬 338 • ⏱️ 6:04 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Introducing multi-robot collaboration. This enables different types of robots to
 
 📺 Google DeepMind
 
-👁️ 2K • 👍 121 • 💬 13 • ⏱️ 2:09 • 8h ago
+👁️ 3K • 👍 143 • 💬 16 • ⏱️ 2:09 • 10h ago
 
 ---
 
@@ -228,7 +228,17 @@ Multi-robot collaboration enables different types of robots to communicate and w
 
 📺 Google DeepMind
 
-👁️ 3K • 👍 243 • 💬 21 • ⏱️ 2:32 • 8h ago
+👁️ 5K • 👍 297 • 💬 23 • ⏱️ 2:32 • 10h ago
+
+---
+
+**[The FDA Just Changed Robotics Forever... Everyone Bought the Wrong Stock](https://www.youtube.com/watch?v=_6iqP7hdsk8)**
+
+The FDA just changed the future of surgical robotics and almost everyone is watching the WRONG stock. While headlines focused ...
+
+📺 Ross Givens
+
+👁️ 12K • 👍 682 • 💬 193 • ⏱️ 11:31 • 1d ago
 
 ---
 
@@ -248,47 +258,37 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 568K • 👍 6K • 💬 2K • ⏱️ 2:15 • 2d ago
+👁️ 609K • 👍 7K • 💬 3K • ⏱️ 2:15 • 3d ago
 
 ---
 
-**[The FDA Just Changed Robotics Forever... Everyone Bought the Wrong Stock](https://www.youtube.com/watch?v=_6iqP7hdsk8)**
+**[Tough dexterity tasks with Gemini Robotics 2](https://www.youtube.com/watch?v=wYVHxw2-DP4)**
 
-The FDA just changed the future of surgical robotics and almost everyone is watching the WRONG stock. While headlines focused ...
-
-📺 Ross Givens
-
-👁️ 12K • 👍 680 • 💬 185 • ⏱️ 11:31 • 1d ago
-
----
-
-**[Tasks that require whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=nBftSI5mmHA)**
-
-The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
+To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
 
 📺 Google DeepMind
 
-👁️ 2K • 👍 113 • 💬 6 • ⏱️ 1:40 • 8h ago
+👁️ 3K • 👍 166 • 💬 16 • ⏱️ 2:19 • 10h ago
 
 ---
 
-**[Fei-Fei Li is Solving the Hardest Problem in Robotics | World Labs with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
+**[I Built a Tiny AI Robot with ESP32-S3 | Xiaozhi AI Robot DIY](https://www.youtube.com/watch?v=i0nN3e4tpvE)**
 
-Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
+In this video, I'll show you how to build a tiny AI-powered robot using the ESP32-S3 N16R8 and Xiaozhi AI. Components Used ...
 
-📺 a16z
+📺 Creative Channel
 
-👁️ 18K • 💬 27 • ⏱️ 42:21 • 2d ago
+👁️ 7K • 👍 514 • 💬 52 • ⏱️ 31:13 • 13h ago
 
 ---
 
-**[America&#39;s first robot security force? Company aims to make country safest in world](https://www.youtube.com/watch?v=r_SstYY9STc)**
+**[Advanced dexterity with Gemini Robotics 2](https://www.youtube.com/watch?v=O9-650iHAls)**
 
-A tech company that specializes in building autonomous robots wants to make Americans safer by creating the country's first ...
+To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
 
-📺 NewsNation
+📺 Google DeepMind
 
-👁️ 7K • 👍 192 • 💬 105 • ⏱️ 3:10 • 3d ago
+👁️ 6K • 👍 316 • 💬 33 • ⏱️ 2:17 • 10h ago
 
 ---
 
