@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T20:41:54.752903+00:00'
+updated: '2026-07-31T22:06:07.877034+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 20:41 UTC  
+**Last Updated:** July 31, 2026 at 22:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,864.56
+### $1,863.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -0.5%  
-**30d:** +9.7%  
-**90d:** -19.7%  
-**1y:** -46.6%  
+**24h:** -3.0%  
+**7d:** -0.7%  
+**30d:** +9.5%  
+**90d:** -19.9%  
+**1y:** -46.7%  
 
 ---
 
@@ -164,7 +164,15 @@ ethereum.org • 2d ago
 
 ARK Invest CEO Cathie Wood is one of the first investors to gain exposure to cryptocurrencies. She once revealed that ARK was the first public asset manager to gain Bitcoin (BTC) exposure in 2015 when the cryptocurrency wasn't worth even $500. Today, the asset manager also maintains ...
 
-Yahoo Finance Singapore • 2h ago
+Yahoo Finance Singapore • 3h ago
+
+---
+
+**[Ethereum's 43-day staking queue isn't a clean demand signal, Sygnum says](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum)**
+
+Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
+
+The Block • 7h ago
 
 ---
 
@@ -176,25 +184,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
-
-MarketWatch • 6h ago
-
----
-
 **[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 9h ago
+Fortune • 11h ago
 
 ---
 
-**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
+**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
-
-CoinMarketCap • 2d ago
+MarketWatch • 8h ago
 
 ---
 
@@ -202,7 +202,15 @@ CoinMarketCap • 2d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
 
-FXStreet • 16h ago
+FXStreet • 17h ago
+
+---
+
+**[A New Crypto Index Just Launched. Here's Why That's Bullish for Ethereum, Solana, and Hyperliquid.](https://www.fool.com/investing/2026/07/30/a-new-crypto-index-just-launched-heres-why-thats-b/)**
+
+Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -211,14 +219,6 @@ FXStreet • 16h ago
 Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
 
 CryptoSlate • 1d ago
-
----
-
-**[Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum)**
-
-USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
-
-The Block • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 299 • 💬 156 • ⏱️ 11:29 • 5h ago
+👁️ 5K • 👍 380 • 💬 181 • ⏱️ 11:29 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 937 • 💬 73 • ⏱️ 19:50 • 1d ago
+👁️ 23K • 👍 959 • 💬 74 • ⏱️ 19:50 • 1d ago
 
 ---
 
@@ -260,7 +260,17 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 390 • 💬 20 • ⏱️ 34:32 • 10h ago
+👁️ 6K • 👍 398 • 💬 20 • ⏱️ 34:32 • 11h ago
+
+---
+
+**[BITCOIN HACK: $40 MILLION STOLEN (Emergency Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EjRGJY0IZko)**
+
+BITCOIN HACK: $40 MILLION STOLEN (Emergency Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 933 • 👍 91 • 💬 70 • ⏱️ 25:14 • 1h ago
 
 ---
 
@@ -270,17 +280,7 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 553 • 💬 573 • ⏱️ 13:14 • 1d ago
-
----
-
-**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
-
-Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 142 • 💬 7 • ⏱️ 0:57 • 2d ago
+👁️ 11K • 👍 553 • 💬 570 • ⏱️ 13:14 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorse
 
 📺 YaBoySkey
 
-👁️ 535 • 👍 21 • 💬 6 • ⏱️ 2:58 • 22h ago
+👁️ 554 • 👍 23 • 💬 7 • ⏱️ 2:58 • 1d ago
 
 ---
 
@@ -304,33 +304,33 @@ Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARIT
 
 ---
 
+**[Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley](https://www.youtube.com/watch?v=PyictUT_Zik)**
+
+Tom Lee at WebX 2026 compared current Ethereum to the market structure after the 1987 crash. Bitmine now holds 5.74 million ...
+
+📺 Lark Davis
+
+👁️ 5K • 👍 144 • 💬 7 • ⏱️ 0:57 • 2d ago
+
+---
+
 **[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
 
 A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
 
 📺 Giving Hearts
 
-👁️ 38K • 👍 108 • ⏱️ 0:06 • 2d ago
+👁️ 38K • 👍 109 • ⏱️ 0:06 • 2d ago
 
 ---
 
-**[Im nächsten Ethereum-Run sind 1.000% locker möglich!](https://www.youtube.com/watch?v=DSijbQ4pzoc)**
+**[Le NOUVEAU plan de Vitalik Buterin pour imposer Ethereum !](https://www.youtube.com/watch?v=ysPlQSNS9S8)**
 
-In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situation von Ethereum und erläutern, warum wir den ...
+Profitez de l'offre de bienvenue de Finst : 50€ en BTC offerts à l'inscription via notre lien !
 
-📺 HKCM
+📺 Journal du Coin
 
-👁️ 48K • 👍 3K • 💬 140 • ⏱️ 19:00 • 1d ago
-
----
-
-**[Ethereum Is Being Taken Over. 2 Million ETH Are Locked Up, Yet the Price Isn&#39;t Rising](https://www.youtube.com/watch?v=5D_jFKsfszY)**
-
-Comfortable crypto trading with Bybit: https://partner.bybit.com/b/youtbtu ============= All about crypto here: ...
-
-📺 TU Crypto News
-
-👁️ 134 • 💬 1 • ⏱️ 0:24 • 5h ago
+👁️ 2K • 👍 193 • ⏱️ 11:18 • 8h ago
 
 ---
 
