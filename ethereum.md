@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T11:06:08.663040+00:00'
+updated: '2026-07-31T13:14:32.194900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 11:06 UTC  
+**Last Updated:** July 31, 2026 at 13:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -1.7%  
-**7d:** +0.8%  
-**30d:** +11.1%  
-**90d:** -18.7%  
-**1y:** -45.9%  
+**7d:** +0.5%  
+**30d:** +10.8%  
+**90d:** -18.9%  
+**1y:** -46.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.69B
+**Market Cap:** $227.28B
 Rank #2
 
 **Circulating Supply:** 120,682,334 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+435646.3%
++434856.4%
 
 ---
 
@@ -96,7 +96,7 @@ The 2026 Lido Core upgrade introduces major improvements on the operator and val
 
 Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the way we design BlazePhoenix smart contracts needs to evolve. Patterns that were standard on L1 Ethereum (heavy storage usage, external oracle reliance, off-chain quoter infrastructure) often create unnecessary bottlenecks and security risks on L2. We designed an aggregator architecture built specifically around recent EVM upgrades to prove that on-chain liquidity routing can be both cheap and hyper-secure: EIP-1153 Native: Using transient storage for reentrancy and route state tracking instead of legacy storage variables. Oracle-Free Design: Eliminating third-party oracle vectors entirely by deriving real-time liquidity depth directly on-chain. Deterministic Execution: Eliminating "failed swap gas fees" by enforcing precise execution previews that mirror live EVM state. The goal is to build self-sustaining, immutable infrastructure that operates seamlessly for both human users and autonomous AI agents. Looking forward to hearing thoughts from the community on how L2-native EVM patterns are reshaping protocol design!
 
-3d ago
+4d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 1d ago
+blog.ethereum.org • 2d ago
 
 ---
 
@@ -168,11 +168,19 @@ CoinMarketCap • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, July 30, 2026: Prices rise after Fed leaves rates unchanged](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html)**
+**[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
 
-Bitcoin opened at $63,902.90 on Thursday, July 30, 2026, flat compared to Wednesday's opening price. As of 9:00 a.m. ET, bitcoin moved up to $64,838.92. Ethereum opened at $1,908.34 on Thursday, July 30, 2026, down 0.6% from Wednesday's opening price. Ethereum moved higher to $1,923.23 as of 9:00 a.m. ET.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 21h ago
+Fortune • 2h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html)**
+
+Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
+
+Yahoo Finance • 7m ago
 
 ---
 
@@ -180,7 +188,7 @@ Yahoo Finance • 21h ago
 
 Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.
 
-CoinDesk • 21h ago
+coindesk.com • 23h ago
 
 ---
 
@@ -188,7 +196,7 @@ CoinDesk • 21h ago
 
 Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -196,7 +204,7 @@ TradingView • 23h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
 
-FXStreet • 6h ago
+FXStreet • 9h ago
 
 ---
 
@@ -204,15 +212,7 @@ FXStreet • 6h ago
 
 After entering the spot bitcoin ETF market this year, Morgan Stanley is already planning broader crypto offerings, including multi-currency strategies.
 
-Pensions & Investments • 15h ago
-
----
-
-**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady)**
-
-Fed Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
-
-Decrypt • 1d ago
+Pensions & Investments • 17h ago
 
 ---
 
@@ -236,43 +236,53 @@ AMBCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum&#39;s Comeback Will SHOCK Bitcoin](https://www.youtube.com/watch?v=5K8_5lpeUY0)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 19K • 👍 865 • 💬 65 • ⏱️ 19:50 • 23h ago
+
+---
+
 **[Ethereum Is First (These Altcoins Are Next)](https://www.youtube.com/watch?v=EH-9NMEwIJQ)**
 
 Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led rally could be just around the corner.
 
 📺 Crypto Banter
 
-👁️ 1K • 👍 146 • 💬 4 • ⏱️ 34:32 • 57m ago
+👁️ 3K • 👍 276 • 💬 8 • ⏱️ 34:32 • 3h ago
 
 ---
 
-**[BlackRock is Betting BIG on Ethereum](https://www.youtube.com/watch?v=5K8_5lpeUY0)**
+**[Ethereum Price Prediction: ETH Could Rally Toward $2,180 in August](https://www.youtube.com/watch?v=1t8-GtQEXzA)**
 
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+Ethereum (ETH) is on track to finish July with roughly 20% gains, and historical seasonality suggests the rally may continue into ...
 
-📺 Coin Bureau
+📺 FXEmpire
 
-👁️ 18K • 👍 824 • 💬 59 • ⏱️ 19:50 • 21h ago
-
----
-
-**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
-
-ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 549 • 💬 534 • ⏱️ 13:14 • 1d ago
+👁️ 22 • 👍 1 • ⏱️ 4:18 • 1h ago
 
 ---
 
-**[BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oCKBFNfDf_g)**
+**[I AM WAITING FOR THIS ETHEREUM MOVE! (ETH Update)](https://www.youtube.com/watch?v=Jh-sRe4PXxA)**
 
-BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 233 • 💬 35 • ⏱️ 25:14 • 12h ago
+👁️ 89 • 👍 11 • 💬 1 • ⏱️ 4:48 • 3h ago
+
+---
+
+**[ETH Outperforms BTC: Is This The REAL Bull Run? #shorts](https://www.youtube.com/watch?v=Wy2KeMU93iw)**
+
+Ethereum hits a 3-month high against Bitcoin. Is this a true reversal or just a temporary relief rally in a bear market? The latest ...
+
+📺 MONEY GAME
+
+👁️ 12 • ⏱️ 1:01 • 45m ago
 
 ---
 
@@ -282,17 +292,37 @@ Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorse
 
 📺 YaBoySkey
 
-👁️ 447 • 👍 18 • 💬 6 • ⏱️ 2:58 • 13h ago
+👁️ 503 • 👍 20 • 💬 6 • ⏱️ 2:58 • 15h ago
 
 ---
 
-**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
+**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
 
-Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
+ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
 
-📺 The Rollup
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 38 • 💬 5 • ⏱️ 6:40 • 2d ago
+👁️ 11K • 👍 552 • 💬 531 • ⏱️ 13:14 • 1d ago
+
+---
+
+**[BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oCKBFNfDf_g)**
+
+BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 235 • 💬 31 • ⏱️ 25:14 • 14h ago
+
+---
+
+**[Crypto Live Trading | btc live trading | 31 July | #cryptolive #btclive #livetrading](https://www.youtube.com/watch?v=QGMa0OmBRlg)**
+
+livetrading #livescalping #btclivetrading Crypto Live Trading | btc live trading | live crypto trading | #cryptolive #btclive ...
+
+📺 Balraj Trading Tech
+
+👁️ 3K • 👍 451 • 2h ago
 
 ---
 
@@ -302,37 +332,7 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 5K • 👍 139 • 💬 7 • ⏱️ 0:57 • 2d ago
-
----
-
-**[OTO DLACZEGO TO DOBRY MOMENT na START AKUMULACJI ETHEREUM](https://www.youtube.com/watch?v=fo6ey86hEBA)**
-
-OSTATNIE GODZINY NA ODBIÓR BONUSÓW na OKX: https://rebrand.ly/okx1840 Tutaj zagrania od traderów i śledzimy ...
-
-📺 Kryptowaluty dla Początkujących 
-
-👁️ 3K • 👍 186 • 💬 36 • ⏱️ 22:50 • 6h ago
-
----
-
-**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
-
-Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
-
-📺 Thinking Crypto
-
-👁️ 18K • 👍 1K • 💬 176 • ⏱️ 20:27 • 2d ago
-
----
-
-**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
-
-A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
-
-📺 Giving Hearts
-
-👁️ 37K • 👍 105 • ⏱️ 0:06 • 2d ago
+👁️ 5K • 👍 140 • 💬 7 • ⏱️ 0:57 • 2d ago
 
 ---
 

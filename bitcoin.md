@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-31T11:06:08.657660+00:00'
+updated: '2026-07-31T13:14:32.189960+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 11:06 UTC  
+**Last Updated:** July 31, 2026 at 13:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,264.09
+### $63,762.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -0.6%  
-**30d:** +4.0%  
-**90d:** -18.5%  
-**1y:** -43.5%  
+**24h:** -1.5%  
+**7d:** -1.0%  
+**30d:** +3.5%  
+**90d:** -18.9%  
+**1y:** -43.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1281.95B
+**Market Cap:** $1277.96B
 Rank #1
 
-**Circulating Supply:** 20,063,671 BTC
+**Circulating Supply:** 20,063,725 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-49.5%
 
 **All-Time Low:** $67.81
-+94125.0%
++93831.6%
 
 ---
 
@@ -77,83 +77,79 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[On-chain data shows a divergence between whale and retail BTC activity curious what others think](https://www.reddit.com/r/Bitcoin/comments/1v9rh1c/onchain_data_shows_a_divergence_between_whale_and/)**
+**[Reflection on today's episode](https://www.reddit.com/r/Bitcoin/comments/1vbikb1/reflection_on_todays_episode/)**
 
-Been looking at wallet-tier data recently and wanted to see what this community makes of it. According to Santiment's on-chain tracking, wallets holding 10–10K BTC added roughly 19,700 BTC over an 8-day period this month, while wallets holding under 0.01 BTC pulled back on buying. Separately, CoinDesk reported that whale addresses accumulated over 270,000 BTC in a two-week window earlier this year — described as the largest on-chain accumulation spike on record. No price predictions here, just trying to understand the pattern: does this kind of wallet-tier divergence actually tell us anything reliable, or is on-chain data overrated as a signal? Genuinely curious how people who've been holding through multiple cycles think about this.
+Today's episode literally killed the faith of several hardcore old time bitcoiners and I'm shaken too, not going to lie. Even more than the FTX collapse. Why? The mantra "not your keys, not your coins" was already widely spread out due to the MTX episode, so most bitcoiners were prepared and learned the lesson the first time. What happened today is way deeper, because the mantra "don't trust, verify" is more complex. Everyone can simply not trust, that part is fine, but what about the "verify" part? Not everyone can to a deep dive analysis on the RNG of a software wallet. More than that, most people have no clue what these things are. And then they say open source code compensates for that. "Well, if I can't verify by myself, at least I'm using open source SW, there are THOUSANDS of well-trained eyes and programmers watching this code, surely nothing bad could happen, right?". And even so, half a decade later, we get this. That's horrible to the community and I'm really sad with all the horror stories emerging. Is the future mantra going to be "not your 128+bit-true-entrophy-multisig+passphrase-setup-keys, not your coins"?
 
-2d ago
-
----
-
-**[I'M GOING ALL IN! :D](https://www.reddit.com/r/Bitcoin/comments/1v9jytv/im_going_all_in_d/)**
-
-I know that past doesn't guarantee future outcomes. But, if I had gone all in since 2021 (starting at the previous peak) and did so throughout the past five years, I would have been able to buy my dream house and car by now. I already have a decent amount of retirement savings. Going to take the risk and put all my discretionary income into Bitcoin for the next four years! Feel free to save this post and I'll update it during the next bull run, and you'll see if I made the right choice or not.
-
-2d ago
+6h ago
 
 ---
 
-**[BTC Puzzle #135 solved by RetiredCoder](https://www.reddit.com/r/Bitcoin/comments/1v9u7wj/btc_puzzle_135_solved_by_retiredcoder/)**
+**[User lost 3 btc due to Coldcard hack. Check your btc and move it to be safe](https://www.reddit.com/r/Bitcoin/comments/1vbgwu9/user_lost_3_btc_due_to_coldcard_hack_check_your/)**
 
-It took 5 months on 200GPUS. He is the same person who had solved #120 and #125.
-
-1d ago
+8h ago
 
 ---
 
-**[Satoshi Nakamoto’s Cryptography Encyclopedia Discovered - Claim Godfather's of Block Chain - Scott Stornetta & Stuart Haber](https://www.reddit.com/r/Bitcoin/comments/1v9xns4/satoshi_nakamotos_cryptography_encyclopedia/)**
+**[Wallet Drained Timeline](https://www.reddit.com/r/Bitcoin/comments/1vb6teq/wallet_drained_timeline/)**
 
-Stuart Haber and Scott Stornetta are two of the Godfather’s behind modern cryptographic timestamping or “Block Chain”. Their contributions to Bitcoin are showcased by three academic works referenced in the Bitcoin Whitepaper References section. These two legends have laid as much of Bitcoin’s groundwork as giants like Adam Back, Wei Dai and Hal Finney. In a recent interview, Stornetta repeated a theory about Satoshi that originated from his colleague, Stuart Haber. The Theory: when talking about Satoshi, “...we’re talking about one person, who was professionally a software engineer, and was really dabbling more with the cryptology as well as with the economic incentives...There’s one thing that I haven't seen anyone analyze, and that is the structure of the (Whitepaper) footnotes.” These suggest Satoshi was a “non-professional cryptologist” who “discovered this thing (Block Chain) by reading about it in the Encyclopedia of Cryptology.” - Scott Stornetta This characterization of Satoshi is not much of a ground breaking take. It is consistent with many others who have suggested that Satoshi was an individual polymath coder, not a group. But the detail about the Whitepaper footnotes and a mysterious book are interesting. What are the clues that relate the structure of the Whitepaper footnotes to this mystery encyclopedia? Has no one looked at this angle involving the Whitepaper footnotes before? The Satoshi Times went down this rabbit hole to see what could be found, and the details are fun. We found that there is an Encyclopedia of Cryptography and Security that was published in 2005 by Henk C. A. van Tilborg via Springer, that matches the description given by Stornetta. This pre-dates Bitcoin (2007-2008), and thus could have been a primary resource used by Satoshi Nakamoto in his invention of Bitcoin.The Theory: when talking about Satoshi, “...we’re talking about one person, who was professionally a software engineer, and was really dabbling more with the cryptology as well as with the economic incentives...There’s one thing that I haven't seen anyone analyze, and that is the structure of the (Whitepaper) footnotes.” These suggest Satoshi was a “non-professional cryptologist” who “discovered this thing (Block Chain) by reading about it in the Encyclopedia of Cryptology.” This characterization of Satoshi is not much of a ground breaking take. It is consistent with many others who have suggested that Satoshi was an individual polymath coder, not a group.But the detail about the Whitepaper footnotes and a mysterious book are interesting.What are the clues that relate the structure of the Whitepaper footnotes to this mystery encyclopedia? Has no one looked at this angle involving the Whitepaper footnotes before?The Satoshi Times went down this rabbit hole to see what could be found, and the details are fun.We found that there is an Encyclopedia of Cryptography and Security that was published in 2005 by Henk C. A. van Tilborg via Springer, that matches the description given by Stornetta. This pre-dates Bitcoin (2007-2008), and thus could have been a primary resource used by Satoshi Nakamoto in his invention of Bitcoin. Continued on https://satoshitimes.com/encyclopedia/
+This is me… https://www.reddit.com/r/Bitcoin/s/UeSfLoeyS4 I’m in a better state now. It’s not the end of the world, but it’s a lot of fucking money… Little background: The setup was IRA custodian is Solera National Bank, exchange at Swan Bitcoin was used as an Investment Trust, purchase a dedicated hardware wallets: coldcard mk3 from https://store.coinkite.com May 2021 for this ROTH IRA. Got the wallets, followed all the setup/checks/balances from https://youtu.be/FAYmE5-40PQ?is=wiYMHaS_YGKHjNOY for both wallets, sent a test transaction IRA dedicated hardware wallet (2021). I never setup a 25th Passphrase… REST of the BTC stayed in Swan Exchange. Speaking only on this IRA Wallet: SD card stored with wallet details (paper phrase) in a baggie. Dormant until January 2025. I couldn’t deposit more because of Roth IRA threshold. Come January 2025, been learning more about retirement, BTC, multi-Sig, and heard about a Megaback Door to get more money into a Roth IRA. Was able to get money into Solera, transfer to Swan, and purchase more BTC and withdraw to the same wallet address. No new hardware involved at this point. With newer wallets now, I thought newer tech means more security. Let’s test by buying (3 mk4 - same site. There was still record of my 2021 purchase) new wallets and setup a multi-Sig. (still January 2025) For some reason, when I got the new coldcards, I never did anything with them for all of 2025, I guess I was too lazy/daunting to use the hardware and relearn. Coming to January 2026 now, I decided to use these new cards. I dug out the wallet seed (from 2021) phrase paper. Dusted off one of the mk4, walked into the corner of a room in my house (only myself and partner live in the house), plugged in the cold card into an outlet and typed in the seed written down from 2021 (stored in my dresser). Restored my 2021 onto one of the new wallet 2025. Watched updated BTCSession videos on my phone to set everything up again. I never plugged into a computer, since airgapped was the reason I got the coldcards. I used the same SD Card from 2021 though to export the wallet file from the newly restored coldcard. Import that file into Sparrow (needed to update Sparrow at this point), generated a watch-only wallet QR (to scan for my phone) for Blue Wallet to check frequently. This is where the screenshot is from. Honestly, I haven’t touched the wallet with any transactions/seeds since January 2026. This is definitely the point of failure when I restored the 2021 wallet (now on 2 devices). This was the transaction. https://mempool.space/tx/2fe075cf0ec799f3529ed6a28e0a08b45fe1fc9bd93c3f33bdbc42d5bff4f736 My wallet address is (with all transactions, since it’s gone now…): bc1qldkfrrlylk4s9sdyns9jkaajuzugl0dv5m8fxj My key takeaway now never enter the seed phrase into anything. EVER. Even to restore. Always will generate new and use a 25th passphrase.
 
-🔗 [satoshitimes.com](https://satoshitimes.com/encyclopedia/) • 1d ago
-
----
-
-**[Apple faces lawsuit after fake Sparrow Wallet app drains $1.8 million in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1v94jgo/apple_faces_lawsuit_after_fake_sparrow_wallet_app/)**
-
-Three iPhone owners sued Apple last week over a fake Sparrow Wallet app they say they downloaded from the App Store. The plaintiffs say using the bogus app led to the theft of their Bitcoin, resulting in losses of roughly $1.8 million. The lawsuit, Ramirez et al v. Apple, Inc., accuses Cupertino of failing to catch the scam app despite years of marketing the App Store as a safe place to download software. How the fake Sparrow Wallet app stole Bitcoin Apple has spent nearly two decades convincing iPhone owners of the App Store’s security, but that promise is now at the center of a lawsuit alleging that the company’s review process failed miserably. The case underscores a growing problem for Apple: As scams become more sophisticated — and financial losses more devastating — the company’s tightly controlled app ecosystem faces scrutiny not just over how many malicious apps it blocks, but by the few that slip through. According to the complaint, filed Friday in the U.S. Court of Appeals for the 9th Circuit, a fraudulent Sparrow Wallet app found its way to the App Store, mimicking the real thing closely enough to fool experienced crypto users. The real Sparrow Wallet is a desktop app for Windows, macOS and Linux, but it has never been available on iOS. Plaintiffs James Ramirez, Christopher Ellis and Jalen Delgado say they downloaded the malicious iOS app between May and August 2025. Once installed, the fake Sparrow Wallet app asked them to enter their wallet’s seed phrase — the string of words used to recover a crypto wallet. And that’s exactly what the developers of the copycat Sparrow Wallet app wanted. When users entered their seed phrase, the scammers gained full control of the funds inside the plaintiffs’ accounts. Delgado says he downloaded the app around May 1, 2025, and soon after lost about 1.05 Bitcoin, worth roughly $120,000 at the time. Ramirez and Ellis say they downloaded the fake app last year on July 25 and August 3, respectively. Ramirez lost 7.4 Bitcoin, valued at around $875,000. Ellis lost close to $840,000 worth of crypto. Both say they reported the situation to Apple right away. Apple was warned years prior The lawsuit claims Apple had been previously warned about fake Sparrow Wallet apps. The warning came in early 2024 from Craig Raw, the developer of the real Sparrow Wallet. “There is still a scam ‘Sparrow Wallet’ app on the @Apple App Store, despite myself and others having reported it weeks ago,” Raw said in an X post on January 6, 2024. “Worse, you have to install it to report it. Always go to the wallet’s website to find the link to download it. App stores will not protect you.” In a recent post, the developer said he continued to push Apple to address the fake apps. “Since 2023, more than a dozen fake ‘Sparrow’ apps have appeared on the App Store, as recently as April this year,” Raw wrote in an X post on June 22, 2026. “Users have contacted me after losing their savings, in some cases their life savings, to these impersonators.” Raw even submitted his own placeholder app designed to warn users that any Sparrow Wallet app on iOS is fake. Apple initially flagged his developer account for the submission before reversing course. The complaint also alleges that Apple ranked the fake app in search results and featured it in curated crypto collections. This isn’t Apple’s first brush with fake crypto apps on the App Store. It’s merely the latest incident in a string of crypto wallet scams that have slipped past Apple’s review process. Back in 2023, a fake Trezor wallet app climbed the charts before Apple pulled the plug. A fraudulent Rabby Wallet app appeared in 2024. Earlier this year, a fake Ledger Live app reportedly facilitated the theft of more than $9.5 million from more than 50 victims. And last year, another lawsuit accused Apple over a fake trading app called Swiftcrypt. The plaintiffs in the Sparrow Wallet case are suing Apple under consumer-protection laws that cover California, Louisiana and Massachusetts. The plaintiffs also bring claims of fraudulent and negligent misrepresentations, in addition to accusing Apple of failing to warn users about fake crypto apps. They asked a jury to award damages, reimburse their stolen Bitcoin, and force Apple to strengthen its App Store review process. Apple’s response to crypto scams Apple pushed back on the claims, saying it quickly removed apps impersonating Sparrow Wallet. It also terminated the developer accounts behind the fake apps. While Apple declined to comment on Ramirez et al v. Apple, Inc. specifically, the company told TechCrunch that no Sparrow Wallet copycats are currently listed on the App Store. Apple also pointed to its own data from 2025, which showed it rejected more than 371,000 app submissions. The company says it rejected these submissions for copying other apps, spamming users or attempting to mislead potential downloaders. The fake Sparrow Wallet case is still in its early stages, and Apple has yet to file a formal response in court.
-
-🔗 [Cult of Mac](https://www.cultofmac.com/news/fake-sparrow-wallet-app-apple-lawsuit) • 2d ago
+15h ago
 
 ---
 
-**[Lost friends? Changed relationship dynamics?](https://www.reddit.com/r/Bitcoin/comments/1v9kvyx/lost_friends_changed_relationship_dynamics/)**
+**[Wallet Drain Megathread (Check Your Balances)](https://www.reddit.com/r/Bitcoin/comments/1vb91uc/wallet_drain_megathread_check_your_balances/)**
 
-Anyone had this happen to them? I’ve been buying BTC for a few years. And got into it really hard the last 4ish years. And I used to talk to anyone about it, but I do that less and less now. One of my closest friends is so resistant to it, and funny enough he’s the most tech savvy person I know! In the past year I had 3 instances where I brought it up in convo with old friends and new acquaintances, and the reaction was so hostile! I think some of that is ppl being angry they missed out in part… idk. But anyway, yea it’s kind of a rift between me and one of my oldest friends. But I’m kinda at the point in my BTC journey where I believe opting out of the fiat/ debt/ credit creation banking system as it stands is a moral imperative tbh. American society is so out of whack between inflation/healthcare/housing/education… and that’s being brief, but I see the compromised monetary system at the core of it all. Talking politics without talking about money is like talking about plumbing without talking about water. And Americans love to talk politics. Anyway yea my BTC conviction has caused rifts in my relationships. Curious of others stories around this.
+I want to help identify the cause of the recent wallet drain report by u/s1ammage, which also revealed many other addresses being drained to the same address. Check your wallet balances. If there are unfamiliar transactions since July 29, 2026, after about 9 PM (US Eastern Time), you may have been affected. Did you use a hardware wallet, if so, what model? Did you use a software wallet (hot or watch-only), if so, which? How exactly did you generate your seed? How exactly did you back up your seed? DO NOT post your seed, DO NOT respond to anyone saying they can recover your funds. Sorry for your loss. There may still be people affected by the same vulnerability who haven't been attacked, so the sooner the vulnerability is identified, and people are alerted to migrate funds, the better. Check in with less techy friends and family that have bitcoin and report incidents. Edit with current conclusions: Coldcard mk3 confirmed vulnerable, press release here: https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ My own analysis: proceed with caution on Mk4/Mk5/Q. These use the same codebase as Mk3 but with slight, insufficient imo, improvements to the RNG system. If you're migrating from Mk3, consider other vendors.
 
-2d ago
-
----
-
-**[Daily Discussion, July 29, 2026](https://www.reddit.com/r/Bitcoin/comments/1v9nh8m/daily_discussion_july_29_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-2d ago
+14h ago
 
 ---
 
-**[the rotation](https://www.reddit.com/r/Bitcoin/comments/1v9xnbx/the_rotation/)**
+**[ColdCard Firmware Update Released](https://www.reddit.com/r/Bitcoin/comments/1vbocg8/coldcard_firmware_update_released/)**
 
-imo lately it looks like money started rotating from AI stocks to crypto/btc. when they drop, btc used to drop harder but now btc even goes up when they drop.
+https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31, 2026: Fixed firmware is now available. Mk4 and Mk5 users must update to version 5.6.0 or later. Q users must update to version 1.5.0Q or later. Do not generate a new seed on one of these models until the update is installed. Seeds generated on Mk4, Q and Mk5 before the fixed firmware releases are also affected, with about 72 bits of entropy rather than the expected 128 bits. Updating the firmware does not change or repair an existing seed. If your seed was generated before the fixed firmware version for your model, follow the migration guidance below unless the independent dice-entropy exception applies to you. The issue is present on every Mk3 firmware version since 4.0.1. It also affects seeds generated on Mk4 and Mk5 before version 5.6.0, and on Q before version 1.5.0Q. The impact on Mk4, Mk5 and Q is not as severe but is still serious.
 
-1d ago
-
----
-
-**[BTC cycle ???](https://www.reddit.com/r/Bitcoin/comments/1v9p9g1/btc_cycle/)**
-
-So much discussion about the cycle and where BTC price will be in September and October this year.. What out of ordinary world events could delay or bring forward the end of this halving cycle ?
-
-2d ago
+1h ago
 
 ---
 
-**[What's one Bitcoin security lesson you wish you had learned earlier?](https://www.reddit.com/r/Bitcoin/comments/1v9paca/whats_one_bitcoin_security_lesson_you_wish_you/)**
+**[Coldcard CEO Denies Wallet-Wide Vulnerability After 594 BTC Transfer From 500 Addresses](https://www.reddit.com/r/Bitcoin/comments/1vb6nqg/coldcard_ceo_denies_walletwide_vulnerability/)**
 
-I've noticed that most people spend a lot of time learning when to buy Bitcoin, but much less time learning how to protect it. For those who've been around for a while: What's one security lesson you wish someone had told you when you first got into Bitcoin? It could be about self-custody, backups, exchanges, scams, or anything else that made a difference.
+🔗 [binance.com](https://www.binance.com/en/square/post/07-30-2026-coldcard-ceo-denies-wallet-wide-vulnerability-after-594-btc-transfer-from-500-addresses-350415380442897) • 15h ago
 
-2d ago
+---
+
+**[I think today is a good day to remind people about BIP39 seed generation with dice](https://www.reddit.com/r/Bitcoin/comments/1vbkuvf/i_think_today_is_a_good_day_to_remind_people/)**
+
+Do this if you want to sleep like a baby when the next RNG vulnerability comes out
+
+🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 4h ago
+
+---
+
+**[ColdCard Headlines](https://www.reddit.com/r/Bitcoin/comments/1vbjpqr/coldcard_headlines/)**
+
+The coming “Bitcoin Hacked” “Is your Bitcoin Safe” “AI Cracks Bitcoin” are going to be obnoxious. This is one company, with an over confident leader whose marketing positioned the ColdCard aura as invincible with the messaging pushed down through the Podcast channels. Going so far as to not allow projects like SeedSigner from even seeing the light of day for discussion. This ColdCard vulnerability and the method used to extract it will reverberate through all software from all industries. Nothing is safe.
+
+5h ago
+
+---
+
+**[Full panic - one of my wallets was drained](https://www.reddit.com/r/Bitcoin/comments/1vatgl4/full_panic_one_of_my_wallets_was_drained/)**
+
+I haven’t done anything since creation except sending into the wallet.
+
+23h ago
+
+---
+
+**[if you're on mk4 with no passphrase or dice rolls, i'd move my funds](https://www.reddit.com/r/Bitcoin/comments/1vblit4/if_youre_on_mk4_with_no_passphrase_or_dice_rolls/)**
+
+coinkite said mk4 not affected in early analysis, but i'd not take this risk.
+
+4h ago
 
 ---
 
@@ -165,7 +161,7 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.
 
-CoinDesk • 5h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -177,37 +173,55 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Announces Second Quarter Financial Results; Currently Holds 843,775 Bitcoin; Now the Largest Institutional Holder Globally](https://www.businesswire.com/news/home/20260730035038/en/Strategy-Announces-Second-Quarter-Financial-Results-Currently-Holds-843775-Bitcoin-Now-the-Largest-Institutional-Holder-Globally)**
-
-Business Wire • 15h ago
-
----
-
 **[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin’s $437 Billion Quantum Exposure Meets IBM’s 2028 Deadline](https://finance.yahoo.com/markets/crypto/articles/bitcoin-437-billion-quantum-exposure-095655405.html)**
+**[Strategy Q2 2026 earnings: $8.2 billion loss on bitcoin decline](https://qz.com/strategy-8-billion-loss-bitcoin-price-decline-073126)**
 
-IBM CEO Arvind Krishna sees quantum revenue by 2028, tightening the clock on Bitcoin's $437 billion exposed supply.
+The bitcoin treasury company reported an $8.32 billion unrealized markdown on its holdings as bitcoin traded well below its average purchase price
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin News: Bitcoin Sits Out the Kospi's Record 17% Rebound — Crypto's Decoupling From the Chip Trade Runs in Both Directions](https://www.binance.com/en/square/post/350633175445010)**
-
-Binance • 16m ago
+qz.com • 14m ago
 
 ---
 
-**[Bitcoin Capitulation Has Barely Started, Analyst Says](https://bitcoinfoundation.org/news/bitcoin/bitcoin-capitulation-has-barely-started-analyst-says/)**
+**[Investors Would Contribute 2,380 Bitcoin for Zhibao Shares](https://www.stocktitan.net/news/ZBAO/zhibao-technology-inc-announces-signing-of-definitive-securities-hgawof1fur3f.html)**
 
-Bitcoin investors are finally selling at an annual net loss, but the pain remains below the levels seen during previous capitulation events.
+The 442M units each include a Class A share and a two-year warrant exercisable at $0.35; closing is scheduled within 12 business days, subject to conditions.
 
-Bitcoin Foundation • 1h ago
+Stock Titan • 44m ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html)**
+
+Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
+
+Yahoo Finance • 7m ago
+
+---
+
+**[Why South Korea’s Stock Index Is More Volatile Than Bitcoin](https://www.bloomberg.com/news/articles/2026-07-31/south-korea-stock-boom-why-kospi-is-world-s-most-volatile-benchmark-stock-index)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Bitcoin may be showing signs of a bottom despite continued consolidation, chart analysts say](https://www.cnbc.com/2026/07/28/bitcoin-is-showing-signs-of-a-bottom-chart-analysts-say.html)**
+
+Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
+
+CNBC • 2d ago
+
+---
+
+**[RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance](https://www.tradingview.com/news/cointelegraph:b14edd199094b:0-rwa-perpetual-futures-volume-nears-bitcoin-on-hyperliquid-binance/)**
+
+Perpetual futures tied to tokenized stocks and commodities generated nearly as much trading volume as Bitcoin perpetuals on two of the largest venues for the products over the past week, according to Talos.Combined seven-day volume across tracked real-world asset (RWA) perps reached $61.7 billion…
+
+TradingView • 4h ago
 
 ---
 
@@ -215,21 +229,7 @@ Bitcoin Foundation • 1h ago
 
 As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
 
-CFO.com • 21h ago
-
----
-
-**[Bitcoin slightly up near $65k amid rates, Iran jitters; Strategy earnings on tap](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491)**
-
-Investing.com • 1d ago
-
----
-
-**[Bitcoin has closed below its 200-day MA for 270 days now; here is when to buy again](https://seekingalpha.com/news/4621875-bitcoin-has-closed-below-its-200-day-ma-for-270-days-now-here-is-when-to-buy-again)**
-
-Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
-
-Seeking Alpha • 19h ago
+CFO.com • 23h ago
 
 ---
 
@@ -297,7 +297,7 @@ The first Bitcoin newsletter that rewards you with sats while you learn about re
 
 Live public testnet with full node, external miner, browser wallet, snapshot bootstrap, explorer, and native on-chain Node Rewards.
 
-⬆️ 1 • 💬 0 • 3d ago • [Chipcoin Protocol](https://chipcoinprotocol.com/)
+⬆️ 1 • 💬 0 • 4d ago • [Chipcoin Protocol](https://chipcoinprotocol.com/)
 
 ---
 
@@ -325,17 +325,7 @@ Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjaminco
 
 📺 Benjamin Cowen
 
-👁️ 50K • 👍 3K • 💬 101 • ⏱️ 7:41 • 14h ago
-
----
-
-**[Bitcoin Could Be Near a Major Turning Point](https://www.youtube.com/watch?v=mvYX7NzeB7M)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 8K • 👍 490 • 💬 69 • ⏱️ 11:30 • 11h ago
+👁️ 55K • 👍 3K • 💬 108 • ⏱️ 7:41 • 16h ago
 
 ---
 
@@ -345,7 +335,7 @@ Real-world asset tokenization is one of the most underexplored narratives in cry
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 124 • 💬 6 • ⏱️ 15:53 • 17h ago
+👁️ 4K • 👍 137 • 💬 6 • ⏱️ 15:53 • 19h ago
 
 ---
 
@@ -355,7 +345,17 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 116 • ⏱️ 10:40 • 1d ago
+👁️ 41K • 👍 2K • 💬 117 • ⏱️ 10:40 • 1d ago
+
+---
+
+**[NO CLARITY FOR BITCOIN, JUST JAIL TIME!](https://www.youtube.com/watch?v=Mbznm4kLqPY)**
+
+The government promised you clarity on Bitcoin. What you actually got: developers in handcuffs, a "strategic reserve" built on an ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 428 • ⏱️ 22:39 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usual
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 340 • 💬 19 • ⏱️ 31:34 • 21h ago
+👁️ 5K • 👍 344 • 💬 19 • ⏱️ 31:34 • 23h ago
 
 ---
 
@@ -385,7 +385,7 @@ What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains wh
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 56 • 💬 63 • ⏱️ 1:03 • 19h ago
+👁️ 4K • 👍 65 • 💬 64 • ⏱️ 1:03 • 22h ago
 
 ---
 
@@ -395,7 +395,7 @@ He lost ₹4 crore in Bitcoin... and AI found it 11 years later   This sounds li
 
 📺 Roshni Chellani
 
-👁️ 22K • 👍 583 • 💬 12 • ⏱️ 1:39 • 1d ago
+👁️ 22K • 👍 580 • 💬 12 • ⏱️ 1:39 • 1d ago
 
 ---
 
@@ -405,17 +405,17 @@ Bitcoin is showing serious relative strength against the stock market right now,
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 678 • 💬 7 • ⏱️ 31:40 • 3h ago
+👁️ 7K • 👍 845 • 💬 12 • ⏱️ 31:40 • 5h ago
 
 ---
 
-**[EMERGENCY BROADCAST: BIGGEST BITCOIN WALLET HACKED -  ACT NOW](https://www.youtube.com/watch?v=P1EjB__p4r4)**
+**[NerdQAxe Fuse Replacement](https://www.youtube.com/watch?v=XPLyFVEslfY)**
 
-Earn yield or borrow against your Bitcoin with Ledn   https://learn.ledn.io/luke Get 10% OFF your BITKEY Hardware Wallet with ...
+Bitaxe Resources: Purchase a Bitaxe Gamma (1 chip): https://geni.us/BitaxeGamma Purchase a Bitaxe GT (2 chips): ...
 
-📺 Luke Mikic
+📺 Vortex Bitcoin
 
-👁️ 5K • 👍 269 • 💬 58 • ⏱️ 56:22 • 8h ago
+👁️ 1K • 👍 24 • 💬 4 • ⏱️ 0:36 • 21h ago
 
 ---
 
