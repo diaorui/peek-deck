@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T13:14:32.194900+00:00'
+updated: '2026-07-31T15:37:34.881924+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 13:14 UTC  
+**Last Updated:** July 31, 2026 at 15:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,885.00
+### $1,872.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** +0.5%  
-**30d:** +10.8%  
-**90d:** -18.9%  
-**1y:** -46.0%  
+**24h:** -2.8%  
+**7d:** -0.6%  
+**30d:** +9.6%  
+**90d:** -19.8%  
+**1y:** -46.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.28B
+**Market Cap:** $223.90B
 Rank #2
 
 **Circulating Supply:** 120,682,334 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.5%
 
 **All-Time Low:** $0.43
-+434856.4%
++428465.8%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 2026 Lido Core upgrade introduces major improvements on the operator and validator layers, strengthening protocol security for stakers while keeping aligned with the Ethereum roadmap. Curated Module v2 (CMv2) introduces native support for 0x02 validators, bond and penalty mechanisms, and operator classification. It will gradually replace the legacy Curated Module as ETH stake is migrated to the new module through validator consolidation. CSM expands permissionless participation through the new Identified DVT Cluster operator type, alongside technical improvements that make the module more reliable and operator-friendly. Contributors are now working with operators on validator consolidation over the next few months. The migration could increase the share of ETH secured by 0x02 validators from around 32% to 52%, while reducing the total number of validators across the Ethereum network by around 30%. Further upgrades to both CMv2 and CSM in the near future: CMv2 will introduce a dynamic stake allocation mechanism through which stake can be distributed among Node Operators based on transparent parameters such as fees, performance, and other relevant factors. CSM will introduce a dedicated module for 0x02 validators, designed specifically to enable permissionless operators to run 0x02 validators with a bond. This new module will operate alongside the existing CSM instance for 0x01 validators, giving operators the flexibility to choose. https://x.com/LidoFinance/status/2081757295310983272
 
-3d ago
+4d ago
 
 ---
 
@@ -120,7 +120,7 @@ No public tooling existed for tracking Continuous Clearing Auctions — the new 
 
 There were problems with my regular payment, but I was craving takeout. In just a few minutes, I placed my order using USDC and found the Uber Eats option. Everything went well after the food arrived. When cryptocurrency actually fulfills such basic requirements, it's wonderful. Does anyone use it for food delivery or transportation?
 
-4d ago
+5d ago
 
 ---
 
@@ -156,23 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-blog.ethereum.org • 2d ago
-
----
-
-**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
-
-Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
-
-CoinMarketCap • 1d ago
-
----
-
-**[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
+ethereum.org • 2d ago
 
 ---
 
@@ -180,7 +164,13 @@ Fortune • 2h ago
 
 Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-Yahoo Finance • 7m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
+
+MarketWatch • 1h ago
 
 ---
 
@@ -188,7 +178,7 @@ Yahoo Finance • 7m ago
 
 Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.
 
-coindesk.com • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -200,11 +190,27 @@ TradingView • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
 
-FXStreet • 9h ago
+FXStreet • 11h ago
+
+---
+
+**[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
+**[Wall Street Is Moving Onto Ethereum — Why Isn't ETH Price Moving With It?](https://coinmarketcap.com/academy/article/wall-street-ethereum-eth-price-moving-with-it)**
+
+Ethereum is drawing more institutional interest as Vitalik Buterin outlines a major rebuild, but ETH's price outlook remains deeply divided.
+
+CoinMarketCap • 2d ago
 
 ---
 
@@ -212,7 +218,7 @@ FXStreet • 9h ago
 
 After entering the spot bitcoin ETF market this year, Morgan Stanley is already planning broader crypto offerings, including multi-currency strategies.
 
-Pensions & Investments • 17h ago
+Pensions & Investments • 19h ago
 
 ---
 
@@ -220,15 +226,7 @@ Pensions & Investments • 17h ago
 
 USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
 
-The Block • 1d ago
-
----
-
-**[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
-
-BlackRock clients bought over $20 million in ETH; staking beats records.
-
-AMBCrypto • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -242,7 +240,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 19K • 👍 865 • 💬 65 • ⏱️ 19:50 • 23h ago
+👁️ 21K • 👍 898 • 💬 70 • ⏱️ 19:50 • 1d ago
 
 ---
 
@@ -252,47 +250,17 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 276 • 💬 8 • ⏱️ 34:32 • 3h ago
+👁️ 4K • 👍 340 • 💬 14 • ⏱️ 34:32 • 5h ago
 
 ---
 
-**[Ethereum Price Prediction: ETH Could Rally Toward $2,180 in August](https://www.youtube.com/watch?v=1t8-GtQEXzA)**
+**[Live Trading | Gold and Crypto Trading Live | BTC ETH and XAU Live Trading](https://www.youtube.com/watch?v=ncAgUf5Sg-Q)**
 
-Ethereum (ETH) is on track to finish July with roughly 20% gains, and historical seasonality suggests the rally may continue into ...
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
 
-📺 FXEmpire
+📺 Invest For Wealth
 
-👁️ 22 • 👍 1 • ⏱️ 4:18 • 1h ago
-
----
-
-**[I AM WAITING FOR THIS ETHEREUM MOVE! (ETH Update)](https://www.youtube.com/watch?v=Jh-sRe4PXxA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 89 • 👍 11 • 💬 1 • ⏱️ 4:48 • 3h ago
-
----
-
-**[ETH Outperforms BTC: Is This The REAL Bull Run? #shorts](https://www.youtube.com/watch?v=Wy2KeMU93iw)**
-
-Ethereum hits a 3-month high against Bitcoin. Is this a true reversal or just a temporary relief rally in a bear market? The latest ...
-
-📺 MONEY GAME
-
-👁️ 12 • ⏱️ 1:01 • 45m ago
-
----
-
-**[Eth Will Go Parobolic This Tike Here’s Why #btc #bitcoin #eth #crypto #creatorsearchinsights](https://www.youtube.com/watch?v=FI8fabyPCiY)**
-
-Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorsearchinsights.
-
-📺 YaBoySkey
-
-👁️ 503 • 👍 20 • 💬 6 • ⏱️ 2:58 • 15h ago
+👁️ 936 • 👍 413 • 32m ago
 
 ---
 
@@ -302,27 +270,37 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 552 • 💬 531 • ⏱️ 13:14 • 1d ago
+👁️ 11K • 👍 553 • 💬 531 • ⏱️ 13:14 • 1d ago
 
 ---
 
-**[BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oCKBFNfDf_g)**
+**[Eth Will Go Parobolic This Tike Here’s Why #btc #bitcoin #eth #crypto #creatorsearchinsights](https://www.youtube.com/watch?v=FI8fabyPCiY)**
 
-BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorsearchinsights.
 
-📺 Crypto World
+📺 YaBoySkey
 
-👁️ 5K • 👍 235 • 💬 31 • ⏱️ 25:14 • 14h ago
+👁️ 524 • 👍 21 • 💬 6 • ⏱️ 2:58 • 17h ago
 
 ---
 
-**[Crypto Live Trading | btc live trading | 31 July | #cryptolive #btclive #livetrading](https://www.youtube.com/watch?v=QGMa0OmBRlg)**
+**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
 
-livetrading #livescalping #btclivetrading Crypto Live Trading | btc live trading | live crypto trading | #cryptolive #btclive ...
+Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
 
-📺 Balraj Trading Tech
+📺 Thinking Crypto
 
-👁️ 3K • 👍 451 • 2h ago
+👁️ 18K • 👍 1K • 💬 176 • ⏱️ 20:27 • 2d ago
+
+---
+
+**[ETH Outperforms BTC: Is This The REAL Bull Run? #shorts](https://www.youtube.com/watch?v=Wy2KeMU93iw)**
+
+Ethereum hits a 3-month high against Bitcoin. Is this a true reversal or just a temporary relief rally in a bear market? The latest ...
+
+📺 MONEY GAME
+
+👁️ 52 • 👍 2 • 💬 15 • ⏱️ 1:01 • 3h ago
 
 ---
 
@@ -333,6 +311,26 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 📺 Lark Davis
 
 👁️ 5K • 👍 140 • 💬 7 • ⏱️ 0:57 • 2d ago
+
+---
+
+**[Ethereum (ETH) - Análise de hoje, 31/07/2026.](https://www.youtube.com/watch?v=GimpPgxOlag)**
+
+ASSINE GEMAS Altcoins - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io ⚠️ AVISO IMPORTANTE ...
+
+📺 Trade with Renato Ulianov
+
+👁️ 182 • 👍 36 • 💬 1 • ⏱️ 3:09 • 1h ago
+
+---
+
+**[Hidden Ethereum Mine Inside a Vending Machine](https://www.youtube.com/watch?v=oWC-PotIvYU)**
+
+A college vending machine was secretly mining Ethereum for three years, earning over $11200 through a hidden Raspberry Pi.
+
+📺 Giving Hearts
+
+👁️ 38K • 👍 106 • ⏱️ 0:06 • 2d ago
 
 ---
 
