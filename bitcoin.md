@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-31T04:59:39.404568+00:00'
+updated: '2026-07-31T08:04:32.630513+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 04:59 UTC  
+**Last Updated:** July 31, 2026 at 08:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,554.59
+### $64,264.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.1%  
-**30d:** +4.5%  
-**90d:** -18.1%  
-**1y:** -43.3%  
+**24h:** -1.0%  
+**7d:** -0.6%  
+**30d:** +3.9%  
+**90d:** -18.6%  
+**1y:** -43.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1289.55B
+**Market Cap:** $1281.44B
 Rank #1
 
-**Circulating Supply:** 20,063,537 BTC
+**Circulating Supply:** 20,063,615 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-49.3%
 
 **All-Time Low:** $67.81
-+94686.9%
++94092.6%
 
 ---
 
@@ -129,7 +129,7 @@ Anyone had this happen to them? I’ve been buying BTC for a few years. And got 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1d ago
+2d ago
 
 ---
 
@@ -145,7 +145,7 @@ imo lately it looks like money started rotating from AI stocks to crypto/btc. wh
 
 So much discussion about the cycle and where BTC price will be in September and October this year.. What out of ordinary world events could delay or bring forward the end of this halving cycle ?
 
-1d ago
+2d ago
 
 ---
 
@@ -153,7 +153,7 @@ So much discussion about the cycle and where BTC price will be in September and 
 
 I've noticed that most people spend a lot of time learning when to buy Bitcoin, but much less time learning how to protect it. For those who've been around for a while: What's one security lesson you wish someone had told you when you first got into Bitcoin? It could be about self-custody, backups, exchanges, scams, or anything else that made a difference.
 
-1d ago
+2d ago
 
 ---
 
@@ -161,17 +161,35 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin holds above $64,000 as Nasdaq surges on AI trade comeback](https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks)**
+**[Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep](https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep)**
 
-S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.
+A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.
 
-CoinDesk • 8h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Strategy Announces Second Quarter Financial Results; Currently Holds 843,775 Bitcoin; Now the Largest Institutional Holder Globally](https://www.businesswire.com/news/home/20260730035038/en/Strategy-Announces-Second-Quarter-Financial-Results-Currently-Holds-843775-Bitcoin-Now-the-Largest-Institutional-Holder-Globally)**
+**[Strategy (MSTR) Opposes Bitcoin Rule Changes As Saylor Steps Into Governance Debate](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-opposes-bitcoin-rule-020714333.html)**
 
-Business Wire • 8h ago
+Michael Saylor of NasdaqGS:MSTR publicly opposed proposed Bitcoin protocol changes under the BIP-110 discussion. His comments focus on preserving Bitcoin’s existing consensus rules rather than adopting the suggested updates. The debate has raised fresh questions about how large institutional holders should engage with Bitcoin governance. Strategy, traded as NasdaqGS:MSTR, sits at the intersection of enterprise software and large scale Bitcoin exposure. The company’s stance in the BIP-110...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy (MSTR) news: Bitcoin's (BTC) second-quarter decline leads to $8.2 billion loss](https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline)**
+
+The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.
+
+CoinDesk • 11h ago
+
+---
+
+**[Strategy Announces Second Quarter 2026 Financial Results](https://www.strategy.com/press/strategy-announces-second-quarter-2026-financial-results_07-30-2026)**
+
+July 30, 2026
+
+Strategy • 11h ago
 
 ---
 
@@ -187,7 +205,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -195,43 +213,27 @@ Seeking Alpha • 12h ago
 
 As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
 
-CFO.com • 15h ago
-
----
-
-**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
-
-WSJ • 8h ago
+CFO.com • 18h ago
 
 ---
 
 **[Bitcoin slightly up near $65k amid rates, Iran jitters; Strategy earnings on tap](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491)**
 
-Investing.com • 22h ago
+Investing.com • 1d ago
 
 ---
 
-**[Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag](https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html)**
+**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
 
-Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.
-
-CNBC • 3d ago
+WSJ • 11h ago
 
 ---
 
-**[Crypto Winter or the Big Crash? Where Bitcoin Could Go Next](https://www.morningstar.com/markets/crypto-winter-or-big-crash-where-bitcoin-could-go-next)**
+**[Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain](https://www.tradingview.com/news/cointelegraph:43ee49822094b:0-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain/)**
 
-After a sharp slide towards $60,000, investors focus on the price impact of regulation, monetary policy, and the US midterms.
+Canadian Bitcoin hardware maker Coinkite has warned users of its Coldcard Mk3 signing device to move funds from wallets whose seed phrases were generated on affected firmware.On Thursday, Coinkite said seeds created on an Mk3 running firmware version 4.0.1, released in March 2021, or any later Mk3…
 
-Morningstar • 2d ago
-
----
-
-**[Stacks Successfully Activates PoX-5, Laying the Foundation for Bitcoin Staking](https://www.tradingview.com/news/chainwire:634265e0b094b:0-stacks-successfully-activates-pox-5-laying-the-foundation-for-bitcoin-staking/)**
-
-New York, New York, July 30th, 2026, ChainwireStacks today activated the PoX-5 hardfork at Bitcoin block 960,230, successfully establishing the protocol foundation for Bitcoin Staking. The network upgrade completed without interruption, with core contributors verifying the activation following post…
-
-TradingView • 11h ago
+TradingView • 5h ago
 
 ---
 
@@ -267,7 +269,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 Bitcoin XT got 41 blocks ever. SegWit deadlocked for seven months where CSV took three. Taproot locked in 41 days, then decayed for years. Measured from our own node, genesis to tip.
 
-⬆️ 2 • 💬 0 • 23h ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
+⬆️ 2 • 💬 0 • 1d ago • [PARALLAX](https://parallaxbtc.com/findings/scaling-war)
 
 ---
 
@@ -327,7 +329,17 @@ Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjaminco
 
 📺 Benjamin Cowen
 
-👁️ 34K • 👍 2K • 💬 84 • ⏱️ 7:41 • 8h ago
+👁️ 42K • 👍 3K • 💬 99 • ⏱️ 7:41 • 11h ago
+
+---
+
+**[&quot;20X Is COMING! The Fed&#39;s About to SHOCK the ENTIRE Bitcoin &amp; Crypto Market&quot; | Tom Lee](https://www.youtube.com/watch?v=jv_GB4f-g7M)**
+
+Real-world asset tokenization is one of the most underexplored narratives in crypto right now. Blockmaze is a regulated RWA ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 120 • 💬 8 • ⏱️ 15:53 • 14h ago
 
 ---
 
@@ -341,43 +353,13 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 ---
 
-**[&quot;20X Is COMING! The Fed&#39;s About to SHOCK the ENTIRE Bitcoin &amp; Crypto Market&quot; | Tom Lee](https://www.youtube.com/watch?v=jv_GB4f-g7M)**
-
-Real-world asset tokenization is one of the most underexplored narratives in crypto right now. Blockmaze is a regulated RWA ...
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 111 • 💬 5 • ⏱️ 15:53 • 10h ago
-
----
-
 **[NO CLARITY FOR BITCOIN, JUST JAIL TIME!](https://www.youtube.com/watch?v=Mbznm4kLqPY)**
 
 The government promised you clarity on Bitcoin. What you actually got: developers in handcuffs, a "strategic reserve" built on an ...
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 466 • ⏱️ 22:39 • 1d ago
-
----
-
-**[NFA LIVE. Inflation Numbers Are OUT! Bitcoin Responds.](https://www.youtube.com/watch?v=HyJWQDozJlw)**
-
-Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usually does. Here's where we stand on rate hikes/cuts.
-
-📺 Digital Asset News
-
-👁️ 5K • 👍 321 • 💬 19 • ⏱️ 31:34 • 15h ago
-
----
-
-**[Why Bitcoin and Market Are Freaking Out Right Now...](https://www.youtube.com/watch?v=bcjJKy_0bac)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 10K • 👍 613 • 💬 168 • ⏱️ 10:51 • 1d ago
+👁️ 23K • 👍 2K • 💬 458 • ⏱️ 22:39 • 1d ago
 
 ---
 
@@ -387,7 +369,27 @@ What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains wh
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 30 • 💬 63 • ⏱️ 1:03 • 13h ago
+👁️ 3K • 👍 49 • 💬 63 • ⏱️ 1:03 • 16h ago
+
+---
+
+**[NFA LIVE. Inflation Numbers Are OUT! Bitcoin Responds.](https://www.youtube.com/watch?v=HyJWQDozJlw)**
+
+Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usually does. Here's where we stand on rate hikes/cuts.
+
+📺 Digital Asset News
+
+👁️ 5K • 👍 334 • 💬 19 • ⏱️ 31:34 • 18h ago
+
+---
+
+**[Why Bitcoin and Market Are Freaking Out Right Now...](https://www.youtube.com/watch?v=bcjJKy_0bac)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 10K • 👍 614 • 💬 168 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -397,27 +399,27 @@ In this interview, Bitwise CIO Matt Hougan explains why he believes the next cry
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 203 • 💬 188 • ⏱️ 23:18 • 14h ago
+👁️ 7K • 👍 220 • 💬 177 • ⏱️ 23:18 • 17h ago
 
 ---
 
-**[What Was Bitcoin Actually Built For](https://www.youtube.com/watch?v=bIEJmxo6ZZk)**
+**[Lost Rs 4 Crore Bitcoin, AI Found it 11 Years | Roshni Chellani](https://www.youtube.com/watch?v=_QBLN-rzSR0)**
 
-The more people try to make Bitcoin something it isn't The easier it becomes to forget what it was built for Open, borderless, ...
+He lost ₹4 crore in Bitcoin... and AI found it 11 years later   This sounds like a movie, but it's a real story. After spending years ...
 
-📺 The Bitcoin Way
+📺 Roshni Chellani
 
-👁️ 902 • 👍 4 • ⏱️ 0:32 • 9h ago
+👁️ 22K • 👍 576 • 💬 12 • ⏱️ 1:39 • 1d ago
 
 ---
 
-**[WARNING: This Bitcoin Chart Shows A New Downside Target](https://www.youtube.com/watch?v=u8sCmZRtj50)**
+**[BITCOIN AND SPACEX — MY EXACT PLAN](https://www.youtube.com/watch?v=JGGYVM8vhBE)**
 
-You won't believe what this bitcoin chart says about its downside target, that could potentially be reached in the next few years.
+TRADE CRYPTO SMARTER WITH BOTS ON PIONEX — SIGN UP AND CLAIM UP TO $1 ...
 
-📺 Alessio Rastani
+📺 100XClub
 
-👁️ 35K • 👍 2K • 💬 836 • ⏱️ 18:15 • 2d ago
+👁️ 6K • 👍 650 • 💬 239 • ⏱️ 7:46 • 23h ago
 
 ---
 

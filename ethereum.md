@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T04:59:39.410564+00:00'
+updated: '2026-07-31T08:04:32.636072+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 04:59 UTC  
+**Last Updated:** July 31, 2026 at 08:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,903.61
+### $1,885.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +1.7%  
-**30d:** +12.1%  
-**90d:** -17.9%  
-**1y:** -45.4%  
+**24h:** -1.4%  
+**7d:** +0.9%  
+**30d:** +11.2%  
+**90d:** -18.6%  
+**1y:** -45.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.80B
+**Market Cap:** $227.90B
 Rank #2
 
 **Circulating Supply:** 120,682,334 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-61.8%
 
 **All-Time Low:** $0.43
-+439688.1%
++436082.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-4d ago
+5d ago
 
 ---
 
@@ -128,7 +128,7 @@ There were problems with my regular payment, but I was craving takeout. In just 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -144,7 +144,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -168,11 +168,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Spike, XRP and Dogecoin Climb Amid Sharp Crypto Recovery: Analyst Says 'Don't Fear' BTC Dropping to $60,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-spike-xrp-dogecoin-021729869.html)**
+**[ETH/BTC Ratio Hits 3-Month High: But Don’t Count on Altcoin Season Yet](https://finance.yahoo.com/markets/crypto/articles/eth-btc-ratio-hits-3-050104438.html)**
 
-Leading cryptocurrencies staged a sharp recovery alongside stocks on Thursday, reversing a Federal Reserve-driven sell-off the day before. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.16%$65,112.78Ethereum (CRYPTO: ETH) +1.31%$1,929.21XRP (CRYPTO: XRP) +1.48%$1.08Solana (CRYPTO: SOL) +2.05%$75.02Dogecoin (CRYPTO: DOGE) +0.72%$0.07079 Crypto Market Rebounds After a brief lull, Bitcoin pushed back above $65,000. Ethereum, meanwhile, continued to wrestle w
+The ETH/BTC ratio topped 0.030 alongside rising Bitcoin dominance, pointing to capital concentrating in majors, not a broad altcoin rally.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2h ago
 
 Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
 
-TradingView • 17h ago
+TradingView • 20h ago
 
 ---
 
@@ -192,11 +192,19 @@ CoinMarketCap • 1d ago
 
 ---
 
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
+
+FXStreet • 3h ago
+
+---
+
 **[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 18h ago
+Fortune • 21h ago
 
 ---
 
@@ -212,7 +220,7 @@ The Block • 1d ago
 
 BlackRock clients bought over $20 million in ETH; staking beats records.
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -220,15 +228,7 @@ AMBCrypto • 23h ago
 
 Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
 
-CryptoSlate • 9h ago
-
----
-
-**[Robinhood Chain Overtakes Solana, Ethereum for Real-World Asset Trading: What Does It Mean for HOOD?](https://www.benzinga.com/crypto/cryptocurrency/26/07/60746835/robinhood-chain-overtakes-solana-ethereum-for-real-world-asset-trading-what-does-it-mean-for-hood)**
-
-Robinhood Chain, powered by Ethereum, now has 328,000 holders of tokenized real-world assets, making it the leading blockchain by RWA holders.
-
-Benzinga • 2d ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 701 • 💬 51 • ⏱️ 19:50 • 14h ago
+👁️ 17K • 👍 761 • 💬 54 • ⏱️ 19:50 • 18h ago
 
 ---
 
@@ -252,7 +252,7 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 546 • 💬 550 • ⏱️ 13:14 • 1d ago
+👁️ 11K • 👍 547 • 💬 545 • ⏱️ 13:14 • 1d ago
 
 ---
 
@@ -262,17 +262,7 @@ BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 196 • 💬 42 • ⏱️ 25:14 • 6h ago
-
----
-
-**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
-
-Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
-
-📺 The Rollup
-
-👁️ 3K • 👍 37 • 💬 4 • ⏱️ 6:40 • 2d ago
+👁️ 4K • 👍 220 • 💬 41 • ⏱️ 25:14 • 9h ago
 
 ---
 
@@ -282,7 +272,27 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 5K • 👍 136 • 💬 7 • ⏱️ 0:57 • 2d ago
+👁️ 5K • 👍 139 • 💬 7 • ⏱️ 0:57 • 2d ago
+
+---
+
+**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
+
+Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
+
+📺 The Rollup
+
+👁️ 3K • 👍 37 • 💬 5 • ⏱️ 6:40 • 2d ago
+
+---
+
+**[ETH IS ABOUT TO BREAKOUT! (Bullish or Bearish?)](https://www.youtube.com/watch?v=KQ9tEbWgZ7A)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 242 • 👍 20 • 💬 10 • ⏱️ 5:55 • 23h ago
 
 ---
 
@@ -296,33 +306,13 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 ---
 
-**[ETH IS ABOUT TO BREAKOUT! (Bullish or Bearish?)](https://www.youtube.com/watch?v=KQ9tEbWgZ7A)**
+**[Ethereum Outpaces Bitcoin In Relative ETF Interest; US CLARITY Act Shelved For Now | Crypto Corner](https://www.youtube.com/watch?v=yGwI0HDLA70)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Crypto Corner Season 2 | Major Coins Battle Key Support Levels - Ethereum outpaces Bitcoin in relative ETF interest - Morgan ...
 
-📺 Cilinix Crypto
+📺 CNBC-TV18
 
-👁️ 242 • 👍 20 • 💬 10 • ⏱️ 5:55 • 20h ago
-
----
-
-**[Im nächsten Ethereum-Run sind 1.000% locker möglich!](https://www.youtube.com/watch?v=DSijbQ4pzoc)**
-
-In dieser Elliott-Wellen-Analyse werfen wir einen Blick auf die aktuelle Situation von Ethereum und erläutern, warum wir den ...
-
-📺 HKCM
-
-👁️ 32K • 👍 2K • 💬 59 • ⏱️ 19:00 • 12h ago
-
----
-
-**[Hong Kong adds XRP to Bitcoin Solana ETH for retail trading XRP value growing globally USA slipping](https://www.youtube.com/watch?v=uhEpzrnclLg)**
-
-Hong Kong is letting the world know that they consider XRP to be very very valuable and in the same conversation with BTC ETH ...
-
-📺 Donnahue  George Stocks Real Estate Health
-
-👁️ 1K • 👍 123 • 💬 14 • ⏱️ 4:18 • 16h ago
+👁️ 437 • ⏱️ 2:50 • 1d ago
 
 ---
 
@@ -332,7 +322,17 @@ Are these fear headlines driving Bitcoin price analysis or just market manipulat
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 676 • 💬 522 • ⏱️ 12:59 • 2d ago
+👁️ 14K • 👍 676 • 💬 511 • ⏱️ 12:59 • 2d ago
+
+---
+
+**[#ETH outperforming #BTC](https://www.youtube.com/watch?v=em__gv-XaDo)**
+
+This video is provided for general information and educational purposes only. It does not constitute financial advice, investment ...
+
+📺 BlackBull Markets
+
+👁️ 32 • ⏱️ 0:54 • 1d ago
 
 ---
 
